@@ -4,7 +4,7 @@ identifier: "BWBR0035091"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-03-11"
-last_updated: "2022-03-01"
+last_updated: "2022-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035091"
 soort: "AMvB"
@@ -82,8 +82,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **geslachtsdimorfisme:** het uiterlijke verschil tussen mannelijke en vrouwelijke dieren van dezelfde diersoort;
 
-- –. **graaddagen:** eenheid die een combinatie is van tijd en temperatuur en die wordt gebruikt om een wachttermijn te meten;
-
 - –. **identificatiecode:** code als bedoeld in artikel 2, onderdeel 18, van verordening (EU) nr. 2019/2035;
 
 - –. **infraroodmethode:** methode waarbij de snavel van een dier wordt verkort door middel van het gebruik van infraroodstraling;
@@ -110,8 +108,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **Richtlijn 1999/74/EG:** [Richtlijn 1999/74/EG](31999L0074) van de Raad van 19 juli 1999 tot vaststelling van minimumnormen voor de bescherming van legkippen (PbEG 1999, L 203);
 
-- –. **Richtlijn 2001/82/EG:** [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEG 2001, L 82);
-
 - –. **Richtlijn 2007/43/EG:** [Richtlijn 2007/43/EG](32007L0043) van de Raad van 28 juni 2007 tot vaststelling van minimumvoorschriften voor de bescherming van vleeskuikens (PbEU 2007, L182);
 
 - –. **specific pathogen free dier:** dier dat gegarandeerd vrij is van vooraf bepaalde specifieke micro-organismen;
@@ -123,8 +119,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - –. **verordening (EU) nr. 2019/2035:** [verordening (EU) 2019/2035](32035R2019) van de Commissie van 28 juni 2019 tot aanvulling van [Verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad wat betreft regels voor inrichtingen waar landdieren worden gehouden en broederijen, alsmede voor de traceerbaarheid van bepaalde gehouden landdieren en broedeieren (PbEU 2019, L 314);
 
 - –. **verzamelcentrum:** plaats in Nederland ten behoeve van de verzameling van dieren;
-
-- –. **wachttermijn:** termijn die, overeenkomstig de bij of krachtens de wet gestelde regels en de voorschriften bij de vergunning voor het in de handel brengen van een diergeneesmiddel, ten minste na de laatste toepassing van dat diergeneesmiddel aan een dier moet verstrijken alvorens tot productie van levensmiddelen, afkomstig van dat dier, kan worden overgegaan;
 
 - –. **wet:** [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250);
 
@@ -142,7 +136,7 @@ Als lichamelijke ingrepen als bedoeld in [artikel 2.8, tweede lid, onderdeel b, 
 
 - b. het inbrengen van een injectienaald;
 
-- c. het aanbrengen van een oormerk ter bestrijding van vliegen, tenzij reeds een oormerk als bedoeld in [artikel 2.6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2022-03-01&g=2022-03-01), of een bij of krachtens enig ander wettelijk voorschrift verplicht of toegestaan oormerk is aangebracht;
+- c. het aanbrengen van een oormerk ter bestrijding van vliegen, tenzij reeds een oormerk als bedoeld in [artikel 2.6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2022-03-11&g=2022-03-11), of een bij of krachtens enig ander wettelijk voorschrift verplicht of toegestaan oormerk is aangebracht;
 
 - d. het verwijderen van bijspenen;
 
@@ -256,9 +250,9 @@ Voor zover zij dienen ter identificatie van een dier worden als lichamelijke ing
 
 ##### Artikel 2.7. Voorwaarden uitvoeren ingrepen
 
-1. De ingrepen, bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-03-01&g=2022-03-01), worden uitgevoerd op zodanige wijze dat bij het dier geen onnodige pijn of onnodig letsel wordt veroorzaakt en dat het dier niet meer dan nodig is in zijn functioneren wordt belemmerd.
+1. De ingrepen, bedoeld in de [artikelen 2.1 tot en met 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-03-11&g=2022-03-11), worden uitgevoerd op zodanige wijze dat bij het dier geen onnodige pijn of onnodig letsel wordt veroorzaakt en dat het dier niet meer dan nodig is in zijn functioneren wordt belemmerd.
 
-2. Bij een dier worden ten hoogste twee lichamelijke ingrepen ter identificatie als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2022-03-01&g=2022-03-01) verricht.
+2. Bij een dier worden ten hoogste twee lichamelijke ingrepen ter identificatie als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2022-03-11&g=2022-03-11) verricht.
 
 #### § 2. Verrichten van diergeneeskundige handelingen
 
@@ -266,13 +260,13 @@ Voor zover zij dienen ter identificatie van een dier worden als lichamelijke ing
 
 1. Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9) worden aangewezen:
 
-- a. het beroepsmatig verrichten van ingrepen als bedoeld in de [artikelen 2.2, onderdelen b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2022-03-01&g=2022-03-01), [2.5, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2022-03-01&g=2022-03-01), [2.6, onderdelen a, b, c, d, f, j, k, l, m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2022-03-01&g=2022-03-01);
+- a. het beroepsmatig verrichten van ingrepen als bedoeld in de [artikelen 2.2, onderdelen b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2022-03-11&g=2022-03-11), [2.5, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2022-03-11&g=2022-03-11), [2.6, onderdelen a, b, c, d, f, j, k, l, m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2022-03-11&g=2022-03-11);
 
-- b. het beroepsmatig verrichten van de ingreep, bedoeld in [artikel 2.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-03-01&g=2022-03-01), bij vissen;
+- b. het beroepsmatig verrichten van de ingreep, bedoeld in [artikel 2.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-03-11&g=2022-03-11), bij vissen;
 
-- c. het beroepsmatig verrichten van de ingreep, bedoeld in [artikel 2.2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2022-03-01&g=2022-03-01), mits de ingreep bij een legkip als bedoeld in artikel 2, tweede lid, onderdeel a, van [Richtlijn 1999/74/EG](31999L0074), wordt uitgevoerd door gekwalificeerd personeel;
+- c. het beroepsmatig verrichten van de ingreep, bedoeld in [artikel 2.2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2022-03-11&g=2022-03-11), mits de ingreep bij een legkip als bedoeld in artikel 2, tweede lid, onderdeel a, van [Richtlijn 1999/74/EG](31999L0074), wordt uitgevoerd door gekwalificeerd personeel;
 
-- d. het beroepsmatig verrichten van de ingreep, bedoeld in [artikel 2.6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2022-03-01&g=2022-03-01), mits het dier niet ouder is dan twee dagen;
+- d. het beroepsmatig verrichten van de ingreep, bedoeld in [artikel 2.6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2022-03-11&g=2022-03-11), mits het dier niet ouder is dan twee dagen;
 
 - e. het beroepsmatig openleggen van zoolzweren bij runderen, schapen en geiten;
 
@@ -284,7 +278,7 @@ Voor zover zij dienen ter identificatie van een dier worden als lichamelijke ing
 
 - g. het beroepsmatig in opdracht van een houder afnemen van bloed bij pluimvee, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden;
 
-- h. het beroepsmatig toepassen van een diergeneesmiddel waarvan toepassing krachtens een voorschrift als bedoeld in [artikel 2.19, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19) is toegestaan, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover de toediening subcutaan of intramusculair plaatsvindt en de handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.
+- h. het beroepsmatig verrichten van een lichamelijke ingreep bij het toepassen van een diergeneesmiddel, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover de toediening subcutaan of intramusculair plaatsvindt en de handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld omtrent de voorwaarden waaronder het afnemen van bloed bij pluimvee, bedoeld in het eerste lid, onderdeel g, en het toepassen van een diergeneesmiddel, bedoeld in het eerste lid, onderdeel h, is toegestaan.
 
@@ -300,7 +294,7 @@ Voor zover zij dienen ter identificatie van een dier worden als lichamelijke ing
 
 - a. het uitvoeren van een behandeling of het onderzoeken van een dier met het oog op het voorkomen, genezen, verzachten, onderkennen of opheffen van een aandoening, dierziekte, zoönose, ziekteverschijnsel, gebrek, of van in- of uitwendig letsel of pijn, daaronder niet begrepen een operatie;
 
-- b. het toepassen van een diergeneesmiddel waarvan toepassing krachtens een voorschrift als bedoeld in [artikel 2.19, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19) is toegestaan, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden;
+- b. het verrichten van een lichamelijke ingreep bij het toepassen van een diergeneesmiddel, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden;
 
 - c. het verlenen van hulp met betrekking tot de geboorte van een vrucht van een dier, daaronder niet begrepen een operatie;
 
@@ -314,13 +308,13 @@ Voor zover zij dienen ter identificatie van een dier worden als lichamelijke ing
 
 ##### Artikel 3.2. Betrokkenheid van de dierenarts
 
-1. De diergeneeskundige handelingen, bedoeld in [artikel 3.1, tweede lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01), worden uitsluitend uitgevoerd op aanwijzing van en onder controle van een dierenarts.
+1. De diergeneeskundige handelingen, bedoeld in [artikel 3.1, tweede lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-11&g=2022-03-11), worden uitsluitend uitgevoerd op aanwijzing van en onder controle van een dierenarts.
 
-2. De diergeneeskundige handelingen, bedoeld in [artikel 3.1, tweede lid, onderdelen b](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01), voor zover het betreft de toepassing van een diergeneesmiddel teneinde een dier te verdoven of bedwelmen, c en d, worden uitsluitend uitgevoerd onder leiding van en in directe aanwezigheid van een dierenarts.
+2. De diergeneeskundige handelingen, bedoeld in [artikel 3.1, tweede lid, onderdelen b](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-11&g=2022-03-11), voor zover het betreft de toepassing van een diergeneesmiddel teneinde een dier te verdoven of bedwelmen, c en d, worden uitsluitend uitgevoerd onder leiding van en in directe aanwezigheid van een dierenarts.
 
 ##### Artikel 3.3. Diergeneeskundige handelingen tijdens de opleiding
 
-Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9), worden aangewezen het uitvoeren van de handelingen, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01), onder de leiding van een dierenarts door personen die een opleiding volgen ten behoeve van het behalen van een kwalificatie als bedoeld in artikel 3.1, eerste lid, gedurende de periode waarbinnen de opleiding wordt gevolgd.
+Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9), worden aangewezen het uitvoeren van de handelingen, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-11&g=2022-03-11), onder de leiding van een dierenarts door personen die een opleiding volgen ten behoeve van het behalen van een kwalificatie als bedoeld in artikel 3.1, eerste lid, gedurende de periode waarbinnen de opleiding wordt gevolgd.
 
 #### § 2. Dierenfysiotherapeut
 
@@ -360,7 +354,7 @@ Het uitoefenen van dierfysiotherapie wordt uitsluitend toegepast bij een dier na
 
 - a. handelingen met betrekking tot het winnen en overzetten van embryo’s of eicellen bij dieren;
 
-- b. het toepassen van een diergeneesmiddel waarvan toepassing krachtens een voorschrift als bedoeld in [artikel 2.19, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19) is toegestaan, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.
+- b. het verrichten van een lichamelijke ingreep bij het toepassen van een diergeneesmiddel, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.
 
 3. Bij ministeriële regeling kunnen regels worden gesteld omtrent:
 
@@ -374,13 +368,13 @@ Het uitoefenen van dierfysiotherapie wordt uitsluitend toegepast bij een dier na
 
 ##### Artikel 3.7. Betrokkenheid van de dierenarts
 
-1. De diergeneeskundige handelingen, bedoeld in [artikel 3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01), worden uitsluitend uitgevoerd op aanwijzing van en onder controle van een dierenarts.
+1. De diergeneeskundige handelingen, bedoeld in [artikel 3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-11&g=2022-03-11), worden uitsluitend uitgevoerd op aanwijzing van en onder controle van een dierenarts.
 
-2. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de dierenarts wordt geïnformeerd over de verrichte diergeneeskundige handelingen, bedoeld in [artikel 3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01), alsmede over de omstandigheden waaronder deze plaatsvinden.
+2. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de dierenarts wordt geïnformeerd over de verrichte diergeneeskundige handelingen, bedoeld in [artikel 3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-11&g=2022-03-11), alsmede over de omstandigheden waaronder deze plaatsvinden.
 
 ##### Artikel 3.8. Diergeneeskundige handelingen tijdens de opleiding
 
-Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9), worden aangewezen het uitvoeren van de handelingen, bedoeld in [artikel 3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01), onder de leiding van een dierenarts door personen die een opleiding volgen ten behoeve van het behalen van een kwalificatie als bedoeld in artikel 3.6, eerste lid, gedurende de periode waarbinnen de opleiding wordt gevolgd.
+Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9), worden aangewezen het uitvoeren van de handelingen, bedoeld in [artikel 3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-11&g=2022-03-11), onder de leiding van een dierenarts door personen die een opleiding volgen ten behoeve van het behalen van een kwalificatie als bedoeld in artikel 3.6, eerste lid, gedurende de periode waarbinnen de opleiding wordt gevolgd.
 
 #### § 4. Activiteiten in kader van de georganiseerde dierziektebestrijding
 
@@ -394,7 +388,7 @@ Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de
 
 ##### Artikel 3.10. Betrokkenheid van de dierenarts
 
-Bij ministeriële regeling kunnen regels worden gesteld over de betrokkenheid van de dierenarts bij het verrichten van de diergeneeskundige handelingen, bedoeld in [artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2022-03-01&g=2022-03-01).
+Bij ministeriële regeling kunnen regels worden gesteld over de betrokkenheid van de dierenarts bij het verrichten van de diergeneeskundige handelingen, bedoeld in [artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2022-03-11&g=2022-03-11).
 
 #### § 5. Diergeneeskundigen met een buiten de EER of Zwitserland verkregen bevoegdheid
 
@@ -414,11 +408,11 @@ Als diergeneeskundige handelingen als bedoeld in [artikel 2.9, derde lid, van de
 
 ##### Artikel 3.13. Aanvraag toelating
 
-Een toelating als bedoeld in de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-01&g=2022-03-01), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01), en [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-01&g=2022-03-01), wordt op aanvraag verleend.
+Een toelating als bedoeld in de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-11&g=2022-03-11), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-11&g=2022-03-11), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-11&g=2022-03-11), en [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-11&g=2022-03-11), wordt op aanvraag verleend.
 
 ##### Artikel 3.14. Wijziging gegevens
 
-Degene die is toegelaten krachtens de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-01&g=2022-03-01), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01), en [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-01&g=2022-03-01), stelt Onze Minister binnen een maand in kennis van:
+Degene die is toegelaten krachtens de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-11&g=2022-03-11), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-11&g=2022-03-11), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-11&g=2022-03-11), en [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-11&g=2022-03-11), stelt Onze Minister binnen een maand in kennis van:
 
 - a. wijzigingen in de bij de toelating verstrekte gegevens;
 
@@ -426,15 +420,15 @@ Degene die is toegelaten krachtens de [artikelen 3.1, eerste lid](https://wetten
 
 ##### Artikel 3.15. Intrekken toelating
 
-Een toelating als bedoeld in de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-01&g=2022-03-01), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01), en [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-01&g=2022-03-01) kan door Onze Minister worden ingetrokken, indien de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden bekend waren geweest.
+Een toelating als bedoeld in de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-11&g=2022-03-11), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-11&g=2022-03-11), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-11&g=2022-03-11), en [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-11&g=2022-03-11) kan door Onze Minister worden ingetrokken, indien de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden bekend waren geweest.
 
 ##### Artikel 3.16. Nadere regels toelating
 
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een aanvraag als bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.13&z=2022-03-01&g=2022-03-01), of een wijziging als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.14&z=2022-03-01&g=2022-03-01), wordt ingediend en de gegevens en bescheiden die in het kader van de aanvraag of wijziging worden verstrekt.
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een aanvraag als bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.13&z=2022-03-11&g=2022-03-11), of een wijziging als bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.14&z=2022-03-11&g=2022-03-11), wordt ingediend en de gegevens en bescheiden die in het kader van de aanvraag of wijziging worden verstrekt.
 
-##### Artikel 3.17. Toelating [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2022-03-01&g=2022-03-01)
+##### Artikel 3.17. Toelating [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2022-03-11&g=2022-03-11)
 
-De [artikelen 3.14 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.14&z=2022-03-01&g=2022-03-01) zijn van overeenkomstige toepassing op een toelating als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2022-03-01&g=2022-03-01).
+De [artikelen 3.14 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.14&z=2022-03-11&g=2022-03-11) zijn van overeenkomstige toepassing op een toelating als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2022-03-11&g=2022-03-11).
 
 #### § 8. Overige bepalingen
 
@@ -452,13 +446,13 @@ Een registratie als bedoeld in [artikel 4.3, eerste lid, van de wet](https://wet
 
 ##### Artikel 4.2. Doorhalen registratie
 
-1. Onze Minister draagt er zorg voor dat een registratie als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-03-01&g=2022-03-01), wordt doorgehaald indien de desbetreffende persoon het beroepsmatig verrichten van diergeneeskundige handelingen, bedoeld in [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.1), heeft beëindigd.
+1. Onze Minister draagt er zorg voor dat een registratie als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-03-11&g=2022-03-11), wordt doorgehaald indien de desbetreffende persoon het beroepsmatig verrichten van diergeneeskundige handelingen, bedoeld in [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.1), heeft beëindigd.
 
-2. Onze Minister kan een registratie als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-03-01&g=2022-03-01) doorhalen indien de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden bekend waren geweest.
+2. Onze Minister kan een registratie als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-03-11&g=2022-03-11) doorhalen indien de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden bekend waren geweest.
 
 ##### Artikel 4.3. Wijziging gegevens
 
-Degene die is geregistreerd krachtens [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-03-01&g=2022-03-01), stelt Onze Minister binnen vier weken in kennis van:
+Degene die is geregistreerd krachtens [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-03-11&g=2022-03-11), stelt Onze Minister binnen vier weken in kennis van:
 
 - a. wijzigingen ten aanzien van de bij de registratie verstrekte gegevens;
 
@@ -466,21 +460,21 @@ Degene die is geregistreerd krachtens [artikel 4.1](https://wetten.overheid.nl/j
 
 ##### Artikel 4.4. Nadere regels registratie dierenartsen
 
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een aanvraag als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-03-01&g=2022-03-01), of een wijziging als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2022-03-01&g=2022-03-01), wordt ingediend en de gegevens en bescheiden die in het kader van de aanvraag of wijziging worden verstrekt.
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een aanvraag als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-03-11&g=2022-03-11), of een wijziging als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2022-03-11&g=2022-03-11), wordt ingediend en de gegevens en bescheiden die in het kader van de aanvraag of wijziging worden verstrekt.
 
 #### § 2. Diergeneeskundigen niet zijnde dierenartsen, en dierenartsen als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2019-06-01&g=2019-06-01)
 
 ##### Artikel 4.5. Registratie
 
-Onze Minister draagt er zorg voor dat degene die krachtens de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-01&g=2022-03-01), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01), of [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-01&g=2022-03-01), is toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen wordt ingeschreven in het openbaar register, bedoeld in [artikel 4.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.3).
+Onze Minister draagt er zorg voor dat degene die krachtens de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-11&g=2022-03-11), [3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-11&g=2022-03-11), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-11&g=2022-03-11), of [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-11&g=2022-03-11), is toegelaten tot het beroepsmatig verrichten van diergeneeskundige handelingen wordt ingeschreven in het openbaar register, bedoeld in [artikel 4.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.3).
 
 ##### Artikel 4.6. Doorhalen registratie
 
-Onze Minister draagt er zorg voor dat een inschrijving als bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2022-03-01&g=2022-03-01) wordt doorgehaald indien:
+Onze Minister draagt er zorg voor dat een inschrijving als bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2022-03-11&g=2022-03-11) wordt doorgehaald indien:
 
 - a. een persoon het beroepsmatig verrichten van diergeneeskundige handelingen, bedoeld in [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.1), heeft beëindigd;
 
-- b. de toelating tot het beroepsmatig verrichten van diergeneeskundige handelingen als bedoeld in [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.1), op grond van [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.15&z=2022-03-01&g=2022-03-01) is ingetrokken.
+- b. de toelating tot het beroepsmatig verrichten van diergeneeskundige handelingen als bedoeld in [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.1), op grond van [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.15&z=2022-03-11&g=2022-03-11) is ingetrokken.
 
 #### § 3. Overige bepalingen
 
@@ -532,87 +526,33 @@ Onze Minister draagt er zorg voor dat een inschrijving als bedoeld in [artikel 4
 
 - 4°. adres, onderscheidenlijk adressen waar de praktijk wordt uitgeoefend, met inbegrip van postcode en plaatsnaam onderscheidenlijk postcodes en plaatsnamen;
 
-- 5°. aantekeningen als bedoeld in [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2022-03-01&g=2022-03-01).
+- 5°. aantekeningen als bedoeld in [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=3&artikel=4.7&z=2022-03-11&g=2022-03-11).
 
 ### Hoofdstuk 5. Diergeneesmiddelen
 
 ##### Artikel 5.1. Cascade voor dieren die niet voor de productie van levensmiddelen zijn bestemd
 
-1. Een dierenarts kan bij wijze van uitzondering in afwijking van de vergunning voor het in de handel brengen van een diergeneesmiddel, bedoeld in [artikel 2.19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19) bij dieren waarvoor de dierenarts de verantwoording heeft en die niet voor de productie van levensmiddelen zijn bestemd, met name teneinde deze dieren onaanvaardbaar lijden te besparen, voor een aandoening waarvoor in Nederland geen diergeneesmiddel in de handel is gebracht, een dier behandelen met een diergeneesmiddel:
-
-- a. waarvoor een vergunning als bedoeld in [artikel 2.1 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=2.1) is verstrekt voor toepassing bij andere diersoorten of voor een andere aandoening bij dezelfde diersoort,
-
-- b. waarvoor een handelsvergunning als bedoeld in [artikel 40, eerste lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=40) is verleend,
-
-- c. waarvoor overeenkomstig [Richtlijn 2001/82/EG](32001L0082) in een andere EER-lidstaat een vergunning voor het in de handel brengen van een diergeneesmiddel voor toepassing bij dezelfde diersoort of een andere diersoort voor de betrokken aandoening of voor een andere aandoening is verleend, of
-
-- d. dat ex tempore als bedoeld in [artikel 1.1 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=1.1) is bereid.
-
-2. Een diergeneesmiddel als bedoeld in het eerste lid, onderdeel b of onderdeel c, kan slechts worden toegepast indien een diergeneesmiddel als bedoeld in het eerste lid, onderdeel a, niet toepasbaar of beschikbaar is.
-
-3. Een bereiding ex tempore als bedoeld in het eerste lid, onderdeel d, kan slechts worden toegepast, indien een diergeneesmiddel als bedoeld in het eerste lid, onderdeel a, onderdeel b, of onderdeel c, niet toepasbaar of beschikbaar is.
-
-4. In afwijking van het eerste lid kan de dierenarts het diergeneesmiddel onder zijn verantwoordelijkheid door iemand anders laten toepassen.
-
-5. Het eerste tot en met vierde lid is slechts van toepassing op paardachtigen indien deze paardachtigen en de producten daarvan niet voor menselijke consumptie bestemd zijn ingevolge een registratie in overeenstemming met bij ministeriële regeling voor de uitvoering van een EU-rechtshandeling voor paardachtigen vastgestelde regels.
-
-6. Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing op een diervoeder met medicinale werking.
+Vervallen
 
 ##### Artikel 5.2. Cascade voor dieren die voor de productie van levensmiddelen zijn bestemd
 
-1. Een dierenarts kan bij wijze van uitzondering in afwijking van de vergunning voor het in de handel brengen van een diergeneesmiddel, bedoeld in [artikel 2.19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19) bij dieren van een bepaald bedrijf waarvoor de dierenarts de verantwoording heeft en die voor de productie van levensmiddelen zijn bestemd, met name teneinde deze dieren onaanvaardbaar lijden te besparen, voor een aandoening waarvoor in Nederland geen diergeneesmiddel in de handel is gebracht, een dier behandelen met een diergeneesmiddel:
-
-- a. waarvoor een vergunning als bedoeld in [artikel 2.1 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=2.1) is verstrekt voor toepassing bij een andere diersoort of voor een andere aandoening bij dezelfde diersoort,
-
-- b. waarvoor een handelsvergunning als bedoeld in [artikel 40, eerste lid, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=40) is verleend,
-
-- c. waarvoor overeenkomstig [Richtlijn 2001/82/EG](32001L0082) in een andere EER-lidstaat een vergunning voor het in de handel brengen voor toepassing bij dezelfde of een andere voor de productie van levensmiddelen bestemde diersoort, voor de betrokken aandoening of voor een andere aandoening is verleend, of
-
-- d. dat ex tempore als bedoeld in [artikel 1.1 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=1.1) is bereid.
-
-2. Een diergeneesmiddel als bedoeld in het eerste lid, onderdeel b of onderdeel c, kan slechts worden toegepast indien een diergeneesmiddel als bedoeld in het eerste lid, onderdeel a, niet toepasbaar of beschikbaar is.
-
-3. Een bereiding ex tempore als bedoeld in het eerste lid, onderdeel d, kan slechts worden toegepast, indien een diergeneesmiddel als bedoeld in het eerste lid, onderdeel a, onderdeel b, of onderdeel c, niet toepasbaar of beschikbaar is.
-
-4. In afwijking van het eerste lid kan de dierenarts het diergeneesmiddel onder zijn verantwoordelijkheid door iemand anders laten toepassen.
-
-5. Bij de toepassing van het eerste lid worden uitsluitend diergeneesmiddelen gebruikt waarvan de farmacologisch werkzame stoffen zijn opgenomen in een krachtens artikel 27, eerste lid, van Verordening (EU) 470/2009 vastgestelde EU-verordening en de dierenarts, indien er geen informatie over de wachttermijn voor de betrokken diersoort op de verpakking van het diergeneesmiddel of diervoeder met medicinale werking is aangebracht of bij deze verpakking is gevoegd, een passende wachttermijn vaststelt die niet minder bedraagt dan:
-
-- a. 7 dagen voor eieren,
-
-- b. 7 dagen voor melk,
-
-- c. vier weken voor vlees van pluimvee en zoogdieren, met inbegrip van vet en afval, en
-
-- d. 500 graaddagen voor visvlees.
-
-6. Bij ministeriële regeling worden regels gesteld omtrent een door de dierenarts bij te houden administratie van gegevens over toepassing van diergeneesmiddelen als bedoeld in het eerste lid, waaronder inrichting van de administratie en bewaartermijnen.
-
-7. In afwijking van het vijfde lid kunnen diergeneesmiddelen waarvan de werkzame stof is vermeld op een lijst als bedoeld in artikel 10, derde lid, van [richtlijn 2001/82/EG](32001L0082) toegepast worden bij paardachtigen indien deze paardachtigen en de producten daarvan voor menselijke consumptie bestemd zijn ingevolge een registratie in overeenstemming met bij ministeriële regeling voor de uitvoering van een EU-rechtshandeling voor paardachtigen vastgestelde regels en de wachttermijn op ten minste zes maanden wordt bepaald.
-
-8. Het eerste tot en met zevende lid zijn van overeenkomstige toepassing op een diervoeder met medicinale werking.
-
-9. Het eerste tot en met zesde en achtste lid zijn niet van toepassing bij het toepassen van diergeneesmiddelen die substanties met hormonale werking of thyreostatische werking dan wel ß-agonisten bevatten als bedoeld in bijlagen II en III bij [Richtlijn 96/22/EG](31996L0022).
+Vervallen
 
 ##### Artikel 5.3. Wachttermijn homeopathische diergeneesmiddelen
 
-1. In afwijking van [artikel 5.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=5&artikel=5.2&z=2022-03-01&g=2022-03-01), bedraagt de wachttermijn na toepassing van een homeopathisch diergeneesmiddel als bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=3.4) en [3.5 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=3.5) nul dagen, indien de toepassing van de farmacologisch werkzame stof in het diergeneesmiddel bij het betrokken dier in overeenstemming is met een krachtens artikel 27, eerste lid, van Verordening (EU) 470/2009 vastgestelde EU-verordening.
-
-2. Bij ministeriële regeling worden in het belang van de volksgezondheid, diergezondheid, dierenwelzijn of het milieu regels gesteld voor de toepassing van homeopathische diergeneesmiddelen als bedoeld in het eerste lid, waarvoor overeenkomstig artikel 16, eerste lid, van [Richtlijn 2001/82/EG](32001L0082) vóór 31 december 1993 of met toepassing van artikel 19, tweede lid, van [Richtlijn 2001/82/EG](32001L0082), met betrekking tot gezelschapsdieren of exotische dieren, een vergunning voor het in de handel brengen is verstrekt.
-
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een diervoeder met medicinale werking.
+Vervallen
 
 ##### Artikel 5.4. Bevoegdheid diergeneeskundigen, niet zijnde dierenartsen
 
-Een persoon die een beroep uitoefent als bedoeld in de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01), [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=7&paragraaf=1&artikel=7.4&z=2022-03-01&g=2022-03-01) of [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=7&paragraaf=1&artikel=7.5&z=2022-03-01&g=2022-03-01), past een diergeneesmiddel of diervoeder met medicinale werking in de uitoefening van dat beroep slechts toe in de gevallen die zijn aangewezen krachtens [artikel 5.8, eerste lid, onderdelen a en c, van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=5.8).
+Vervallen
 
 ##### Artikel 5.5. Administratie dierenartsen en andere personen die diergeneeskundige handelingen verrichten
 
-Bij ministeriële regeling worden regels gesteld inzake de administratie van de ontvangst, aflevering en toepassing van diergeneesmiddelen, voormengsels voor diervoeder met medicinale werking en diervoeders met medicinale werking door dierenartsen en andere personen, die bevoegd zijn tot het verrichten van diergeneeskundige handelingen.
+Vervallen
 
 ##### Artikel 5.6. Te verstrekken inlichtingen
 
-Dierenartsen en andere personen die bevoegd zijn tot het verrichten van diergeneeskundige handelingen verstrekken, onverminderd [artikel 8.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.4), aan de door Onze Minister krachtens [artikel 8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.1), en [artikel 8.14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.14) aangewezen ambtenaren en aan de dierenarts verbonden aan de Nederlandse Voedsel- en Warenautoriteit desgevraagd alle inlichtingen over het voorschrijven van diergeneesmiddelen en het uitvoeren van behandelingen met diergeneesmiddelen bij dieren die voor de productie van levensmiddelen bestemd zijn en aan laatstgenoemde meer bepaald de inlichtingen betreffende de naleving door een bepaald bedrijf van krachtens [artikel 8.5, tweede lid, van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&artikel=8.5) gestelde eisen.
+Vervallen
 
 ##### Artikel 5.7. Gevoeligheidsbepaling bij toepassing aangewezen diergeneesmiddelen
 
@@ -638,37 +578,23 @@ Bij ontstentenis van benoemde leden van dezelfde beroepsgroep als de beklaagde, 
 
 ##### Artikel 7.1. Ingrepen
 
-1. [Artikel 2.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2022-03-01&g=2022-03-01), vervalt met ingang van 1 januari 2018.
-
-2. In [artikel 2.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2022-03-01&g=2022-03-01), vervallen met ingang van 1 januari 2015 de woorden: of voor de productie van vaccineieren.
-
-3. [Artikel 2.2, onderdelen b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2022-03-01&g=2022-03-01), vervallen met ingang van 1 september 2021.
-
-4. [Artikel 2.2, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2022-03-01&g=2022-03-01), vervallen met ingang van 1 januari 2015.
-
-5. [Artikel 2.2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2022-03-01&g=2022-03-01), vervalt met ingang van 1 september 2018.
-
-6. [Artikel 2.6, onderdelen l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.6&z=2022-03-01&g=2022-03-01), vervallen met ingang van 1 januari 2018.
-
-7. [Artikel 2.7, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2022-03-01&g=2022-03-01), vervalt met ingang van 1 juni 2015.
-
-8. [Artikel 2.7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=1&artikel=2.7&z=2022-03-01&g=2022-03-01), vervalt met ingang van 1 september 2016.
+Vervallen
 
 ##### Artikel 7.2. Diergeneeskundigen niet zijnde dierenartsen en diergeneeskundigen derde landen
 
-1. Tot het beroepsmatig verrichten van de handelingen, bedoeld in de [artikelen 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01), [3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-01&g=2022-03-01), [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01), [3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2022-03-01&g=2022-03-01) en [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-01&g=2022-03-01), zijn toegelaten personen aan wie het verrichten van die handelingen tot het tijdstip van inwerkingtreding van [artikel 2.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9) ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004730&artikel=5) en [6 van de Wet op de uitoefening van de diergeneeskunde](https://wetten.overheid.nl/jci1.3:c:BWBR0004730&artikel=6) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=2), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=6) en [9, eerste lid, van het Besluit paraveterinairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=9) is toegestaan.
+1. Tot het beroepsmatig verrichten van de handelingen, bedoeld in de [artikelen 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-11&g=2022-03-11), [3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=2&artikel=3.4&z=2022-03-11&g=2022-03-11), [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-11&g=2022-03-11), [3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=4&artikel=3.9&z=2022-03-11&g=2022-03-11) en [3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-11&g=2022-03-11), zijn toegelaten personen aan wie het verrichten van die handelingen tot het tijdstip van inwerkingtreding van [artikel 2.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9) ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004730&artikel=5) en [6 van de Wet op de uitoefening van de diergeneeskunde](https://wetten.overheid.nl/jci1.3:c:BWBR0004730&artikel=6) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=2), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=6) en [9, eerste lid, van het Besluit paraveterinairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=9) is toegestaan.
 
 2. Dierenartsassistenten paraveterinair, dierenfysiotherapeuten en embryotransplanteurs die op het tijdstip van inwerkingtreding van dit besluit zijn ingeschreven in het register van praktiserende dierenfysiotherapeuten, embryotransplanteurs, onderscheidenlijk dierenartsassistenten paraveterinair, bedoeld in [artikel 20 van de Regeling paraveterinairen](https://wetten.overheid.nl/jci1.3:c:BWBR0006492&artikel=20), zijn van rechtswege ingeschreven in het register, bedoeld in [artikel 4.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.3).
 
-3. [Artikel 4.6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-03-01&g=2022-03-01), is van overeenkomstige toepassing op de personen, bedoeld in het eerste lid.
+3. [Artikel 4.6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-03-11&g=2022-03-11), is van overeenkomstige toepassing op de personen, bedoeld in het eerste lid.
 
 ##### Artikel 7.3. Toelating op basis van opleiding deelkwalificaties
 
-1. Tot 1 januari 2018 laat Onze Minister tot het beroepsmatig verrichten van de in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-01&g=2022-03-01) bedoelde diergeneeskundige handelingen toe, degene die beschikt over een krachtens de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) vastgestelde combinatie van deelkwalificaties die recht geeft op de erkenning dierenartsassistent paraveterinair als bedoeld in [artikel 9, eerste lid, van het Besluit paraveterinairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=9), zoals dit luidde onmiddellijk voor inwerkingtreding van dit besluit.
+1. Tot 1 januari 2018 laat Onze Minister tot het beroepsmatig verrichten van de in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2022-03-11&g=2022-03-11) bedoelde diergeneeskundige handelingen toe, degene die beschikt over een krachtens de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) vastgestelde combinatie van deelkwalificaties die recht geeft op de erkenning dierenartsassistent paraveterinair als bedoeld in [artikel 9, eerste lid, van het Besluit paraveterinairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=9), zoals dit luidde onmiddellijk voor inwerkingtreding van dit besluit.
 
-2. Tot 1 januari 2018 laat Onze Minister tot het beroepsmatig verrichten van de in [artikel 3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-01&g=2022-03-01) bedoelde diergeneeskundige handelingen toe, degene die beschikt over een krachtens de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) vastgestelde combinatie van deelkwalificaties die recht geeft op de erkenning embryotransplanteur of embryotransplanteur/-winner als bedoeld in [artikel 6 van het Besluit paraveterinairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=6), zoals dit luidde onmiddellijk voor inwerkingtreding van dit besluit.
+2. Tot 1 januari 2018 laat Onze Minister tot het beroepsmatig verrichten van de in [artikel 3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=3&artikel=3.6&z=2022-03-11&g=2022-03-11) bedoelde diergeneeskundige handelingen toe, degene die beschikt over een krachtens de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) vastgestelde combinatie van deelkwalificaties die recht geeft op de erkenning embryotransplanteur of embryotransplanteur/-winner als bedoeld in [artikel 6 van het Besluit paraveterinairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005210&artikel=6), zoals dit luidde onmiddellijk voor inwerkingtreding van dit besluit.
 
-3. De [artikelen 3.13 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.13&z=2022-03-01&g=2022-03-01), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2022-03-01&g=2022-03-01) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-03-01&g=2022-03-01) zijn van overeenkomstige toepassing op een toelating als bedoeld in het eerst en tweede lid.
+3. De [artikelen 3.13 tot en met 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=7&artikel=3.13&z=2022-03-11&g=2022-03-11), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2022-03-11&g=2022-03-11) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-03-11&g=2022-03-11) zijn van overeenkomstige toepassing op een toelating als bedoeld in het eerst en tweede lid.
 
 ##### Artikel 7.4. Dierverloskundigen
 
@@ -688,7 +614,7 @@ Bij ontstentenis van benoemde leden van dezelfde beroepsgroep als de beklaagde, 
 
 - 4°. het afbinden van een bloedende navelstreng van een pasgeboren vrucht;
 
-- c. het toepassen van een diergeneesmiddel in het kader van de onder a en b genoemde ingrepen, waarvan toepassing krachtens een voorschrift als bedoeld in [artikel 2.19, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19) is toegestaan, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.
+- c. het toepassen van een diergeneesmiddel in het kader van de onder a en b genoemde ingrepen, waarvan toepassing krachtens verordening (EU) nr. 2019/6 is toegestaan, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.
 
 3. Degene aan wie een vergunning tot uitoefening van de verloskunde als bedoeld in het eerste lid is verleend, stelt Onze Minister binnen een maand in kennis van:
 
@@ -706,7 +632,7 @@ Bij ontstentenis van benoemde leden van dezelfde beroepsgroep als de beklaagde, 
 
 - b. het door middel van een operatie behandelen van scrotaalbreuken bij varkens, voor zover deze ingreep tegelijkertijd met het onvruchtbaar maken plaatsvindt;
 
-- c. het toepassen van een diergeneesmiddel in het kader van de onder a en b genoemde ingrepen, waarvan toepassing krachtens een voorschrift als bedoeld in [artikel 2.19, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19) is toegestaan, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.
+- c. het toepassen van een diergeneesmiddel in het kader van de onder a en b genoemde ingrepen, waarvan toepassing krachtens verordening (EU) nr. 2019/6 is toegestaan, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.
 
 3. Degene aan wie een vergunning tot het castreren als bedoeld in het eerste lid is verleend, stelt Onze Minister binnen een maand in kennis van:
 
@@ -718,7 +644,7 @@ Bij ontstentenis van benoemde leden van dezelfde beroepsgroep als de beklaagde, 
 
 1. Dierverloskundigen en castreurs die onmiddellijk voor het tijdstip van inwerkingtreding van dit artikel zijn ingeschreven in het register van dierverloskundigen en castreurs, bedoeld in [artikel 10, eerste lid, van de Wet op de uitoefening van de diergeneeskunde 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004730&artikel=10), zijn van rechtswege ingeschreven in het register, bedoeld in [artikel 4.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.3).
 
-2. [Artikel 4.6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-03-01&g=2022-03-01), is van overeenkomstige toepassing op dierverloskundigen en castreurs.
+2. [Artikel 4.6, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2022-03-11&g=2022-03-11), is van overeenkomstige toepassing op dierverloskundigen en castreurs.
 
 #### § 2. Wijziging andere besluiten
 
@@ -740,7 +666,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5.8. Melding aangewezen diergeneesmiddelen in register
 
-1. Een dierenarts of een andere persoon als bedoeld in [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.1), doet van het voorschrijven ten behoeve van de aflevering of van de toepassing van bij ministeriële regeling aan te wijzen diergeneesmiddelen in bij ministeriële regeling aan te wijzen gevallen melding in het register waarin de houder van dieren ten behoeve van wiens dieren de diergeneesmiddelen zijn afgeleverd of bij wiens dieren de diergeneesmiddelen zijn toegepast, de melding, bedoeld in [artikel 1.27, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) heeft gedaan.
+1. Een dierenarts of een andere persoon als bedoeld in [artikel 4.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.1), doet van het voorschrijven of van de toepassing van bij ministeriële regeling aan te wijzen diergeneesmiddelen in bij ministeriële regeling aan te wijzen gevallen melding in het register waarin de houder van dieren ten behoeve van wiens dieren de diergeneesmiddelen zijn afgeleverd of bij wiens dieren de diergeneesmiddelen zijn toegepast, de melding, bedoeld in [artikel 1.27, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) heeft gedaan.
 
 2. [Artikel 1.27, derde lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) is van toepassing.
 
@@ -780,7 +706,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Degene die een injecteerbare transponder bij een dier aanbrengt, is ingeschreven in een door Onze Minister bijgehouden register.
 
-4. Onverminderd [artikel 4.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2a&artikel=4.6a&z=2022-03-01&g=2022-03-01) wordt de registratie van een persoon in het register, bedoeld in [artikel 4.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.3) wordt overgenomen in het register, genoemd in het derde lid.
+4. Onverminderd [artikel 4.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=2a&artikel=4.6a&z=2022-03-11&g=2022-03-11) wordt de registratie van een persoon in het register, bedoeld in [artikel 4.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=4.3) wordt overgenomen in het register, genoemd in het derde lid.
 
 5. Indien een houder een hond overgedragen heeft gekregen zonder injecteerbare transponder of identificatiedocument, wordt de hond uitsluitend geïdentificeerd door een dierenarts.
 
@@ -808,7 +734,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 1. Dierenartsen
 
-#### § 2. Diergeneeskundigen niet zijnde dierenartsen, en dierenartsen als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-01&g=2022-03-01)
+#### § 2. Diergeneeskundigen niet zijnde dierenartsen, en dierenartsen als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=3&paragraaf=5&artikel=3.11&z=2022-03-11&g=2022-03-11)
 
 #### § 2a. Chippers
 
@@ -826,11 +752,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4.6a. Doorhalen registratie en wijziging gegevens
 
-1. Onze Minister draagt er zorg voor dat een inschrijving als bedoeld in [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2022-03-01&g=2022-03-01), wordt doorgehaald indien een persoon het beroepsmatig inbrengen van injecteerbare transponders heeft beëindigd.
+1. Onze Minister draagt er zorg voor dat een inschrijving als bedoeld in [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2022-03-11&g=2022-03-11), wordt doorgehaald indien een persoon het beroepsmatig inbrengen van injecteerbare transponders heeft beëindigd.
 
-2. Onze Minister kan een inschrijving als bedoeld in [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2022-03-01&g=2022-03-01), doorhalen indien de desbetreffende persoon in de uitoefening van zijn beroep een voorschrift heeft overtreden dat betrekking heeft op het welzijn of de gezondheid van dieren.
+2. Onze Minister kan een inschrijving als bedoeld in [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2022-03-11&g=2022-03-11), doorhalen indien de desbetreffende persoon in de uitoefening van zijn beroep een voorschrift heeft overtreden dat betrekking heeft op het welzijn of de gezondheid van dieren.
 
-3. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2022-03-01&g=2022-03-01) is van overeenkomstige toepassing op degene die is ingeschreven krachtens [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2022-03-01&g=2022-03-01).
+3. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2022-03-11&g=2022-03-11) is van overeenkomstige toepassing op degene die is ingeschreven krachtens [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2022-03-11&g=2022-03-11).
 
 #### § 3. Overige bepalingen
 
