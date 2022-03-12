@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2022-03-05"
+last_updated: "2022-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -58,9 +58,9 @@ Besluit:
 
 2. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 6 ter en artikel 8, eerste lid, van [Verordening 269/2014](32014R0269) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
-3. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, derde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 3, artikel 3 ter, vierde lid, en artikel 4, lid 2 ter en derde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft een goederentransactie, een transactie met betrekking tot technische bijstand of tussenhandeldiensten, informatie of kennisgevingen over deze onderwerpen.
+3. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, derde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 3, artikel 3 ter, vierde lid, artikel 3 septies, vierde lid, en artikel 4, lid 2 ter en derde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft een goederentransactie, een transactie met betrekking tot technische bijstand of tussenhandeldiensten, informatie of kennisgevingen over deze onderwerpen.
 
-4. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, derde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 2 sexies, vierde lid, artikel 3 ter, vierde lid, artikel 4, lid 2 ter en derde lid, artikel 4, vierde lid jo artikel 3, artikel 5 bis, vijfde lid, artikel 5 quater, eerste lid, artikel 5 quinquies, eerste lid en artikel 5 octies van [Verordening (EG) nr. 833/2014](32014R0833), is de Minister van Financiën voor zover het betreft financieringen, financiële bijstand, financiële diensten of transacties en informatie of kennisgevingen over deze onderwerpen.
+4. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, derde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 2 sexies, vierde lid, artikel 3 ter, vierde lid, artikel 3 septies, vierde lid, artikel 4, lid 2 ter en derde lid, artikel 4, vierde lid jo artikel 3, artikel 5 bis, vijfde lid, artikel 5 quater, eerste lid, artikel 5 quinquies, eerste lid en artikel 5 octies van [Verordening (EG) nr. 833/2014](32014R0833), is de Minister van Financiën voor zover het betreft financieringen, financiële bijstand, financiële diensten of transacties en informatie of kennisgevingen over deze onderwerpen.
 
 5. De bevoegde autoriteit, bedoeld in artikel 2, zevende lid, van Besluit nr. 2014/512/GBVB is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
@@ -78,9 +78,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 2 bis, eerste en tweede lid, artikel 2 sexies, eerste en derde lid, artikel 2 septies, artikel 3, artikel 3a, eerste en tweede lid, artikel 3 ter, eerste en tweede lid, artikel 3 quater, eerste tot en met vierde lid, artikel 3 quinquies, eerste lid, artikel 4, artikel 5, eerste tot en met vijfde lid, en zesde lid, eerste volzin, artikel 5 bis, eerste lid, tweede lid, eerste volzin, en vierde lid, artikel 5 ter, eerste lid, artikel 5 sexies, eerste lid, artikel 5 septies, eerste lid, artikel 5 octies, artikel 5 nonies, artikel 5 decies, eerste lid, artikel 11, eerste lid, en artikel 12 van [Verordening (EU) nr. 833/2014](32014R0833) van de Raad van de Europese Unie van 31 juli 2014 betreffende beperkende maatregelen naar aanleiding van de acties van Rusland die de situatie in Oekraïne destabiliseren (Pb EU, L 229).
+1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 2 bis, eerste en tweede lid, artikel 2 sexies, eerste en derde lid, artikel 2 septies, artikel 3, artikel 3a, eerste en tweede lid, artikel 3 ter, eerste en tweede lid, artikel 3 quater, eerste tot en met vierde lid, artikel 3 quinquies, eerste lid, artikel 3 septies, eerste en tweede lid, artikel 4, artikel 5, eerste tot en met vijfde lid, en zesde lid, eerste volzin, artikel 5 bis, eerste lid, tweede lid, eerste volzin, en vierde lid, artikel 5 ter, eerste lid, artikel 5 sexies, eerste lid, artikel 5 septies, eerste lid, artikel 5 octies, artikel 5 nonies, artikel 5 decies, eerste lid, artikel 11, eerste lid, en artikel 12 van [Verordening (EU) nr. 833/2014](32014R0833) van de Raad van de Europese Unie van 31 juli 2014 betreffende beperkende maatregelen naar aanleiding van de acties van Rusland die de situatie in Oekraïne destabiliseren (Pb EU, L 229).
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in de gevallen waarin artikel 2, derde lid tot en met vijfde lid, artikel 2 bis, derde tot en met vijfde lid, artikel 2 ter, eerste lid, artikel 2 sexies, tweede of vierde lid, artikel 3, vijfde lid, tweede en derde volzin, artikel 3a, derde lid, artikel 3 ter, derde of vierde lid, artikel 3 quater, vijfde lid, artikel 3 quinquies, tweede lid of derde lid, artikel 4, leden 2bis, 2 bis bis en 2 ter, vierde lid jo artikel 3, vijfde lid, tweede volzin, artikel 5, zesde lid, tweede volzin, of zevende lid, artikel 5 bis, tweede lid, tweede volzin, derde of vijfde lid, artikel 5 ter, tweede of derde lid, artikel 5 quater, eerste lid, artikel 5 quinquies, eerste lid, artikel 5 sexies, tweede lid, of artikel 5 septies, tweede lid, of artikel 5 decies, tweede lid, van [Verordening (EU) nr. 833/2014](32014R0833) van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in de gevallen waarin artikel 2, derde lid tot en met vijfde lid, artikel 2 bis, derde tot en met vijfde lid, artikel 2 ter, eerste lid, artikel 2 sexies, tweede of vierde lid, artikel 3, vijfde lid, tweede en derde volzin, artikel 3a, derde lid, artikel 3 ter, derde of vierde lid, artikel 3 quater, vijfde lid, artikel 3 quinquies, tweede of derde lid, artikel 3 septies, derde of vierde lid, artikel 4, leden 2bis, 2 bis bis en 2 ter, vierde lid jo artikel 3, vijfde lid, tweede volzin, artikel 5, zesde lid, tweede volzin, of zevende lid, artikel 5 bis, tweede lid, tweede volzin, derde of vijfde lid, artikel 5 ter, tweede of derde lid, artikel 5 quater, eerste lid, artikel 5 quinquies, eerste lid, artikel 5 sexies, tweede lid, of artikel 5 septies, tweede lid, of artikel 5 decies, tweede lid, van [Verordening (EU) nr. 833/2014](32014R0833) van toepassing is.
 
 ##### Artikel 1b
 
@@ -102,6 +102,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-03-05&g=2022-03-05) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-03-12&g=2022-03-12) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
