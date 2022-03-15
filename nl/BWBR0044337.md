@@ -4,7 +4,7 @@ identifier: "BWBR0044337"
 country: "nl"
 rank: "wet"
 publication_date: "2022-03-15"
-last_updated: "2021-07-17"
+last_updated: "2022-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044337"
 soort: "wet"
@@ -103,11 +103,9 @@ Wijzigt deze wet en de Wet publieke gezondheid.
 
 3. Bij koninklijk besluit kan voor in het eerste lid genoemde bepalingen of onderdelen daarvan worden bepaald dat zij op een later tijdstip vervallen, met dien verstande dat dit tijdstip steeds ten hoogste drie maanden na het tijdstip ligt waarop die bepalingen of onderdelen zouden vervallen.
 
-4. Na plaatsing in het Staatsblad van een krachtens het derde lid vastgesteld koninklijk besluit wordt onverwijld een voorstel van wet tot goedkeuring van dat koninklijk besluit bij de Tweede Kamer der Staten-Generaal ingediend. Over het voorstel kan het horen van de Afdeling advisering van de Raad van State achterwege blijven.
+4. De voordracht voor een koninklijk besluit als bedoeld in het derde lid wordt niet eerder gedaan dan twee weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd. Indien een der Kamers der Staten-Generaal binnen die termijn besluit niet in te stemmen met dat ontwerp, wordt er ten aanzien van dat ontwerp geen voordracht gedaan. Een besluit als bedoeld in de vorige zin kan worden genomen op voorstel van een of meer leden van een der Kamers der Staten-Generaal.
 
-5. Indien een van de Kamers der Staten-Generaal tot het niet-aannemen van het voorstel besluit of het voorstel wordt ingetrokken voordat de in het koninklijk besluit genoemde termijn waarop de daarin genoemde bepalingen of onderdelen daarvan vervallen is verstreken, vervallen die bepalingen of onderdelen met ingang van de tweede dag na de dag waarop het voorstel is verworpen of ingetrokken.
-
-##### Artikel IX. Terugwijziging [artikel I, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044337&artikel=I&z=2021-07-17&g=2021-07-17), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0044337&artikel=VI&z=2021-07-17&g=2021-07-17)
+##### Artikel IX. Terugwijziging [artikel I, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044337&artikel=I&z=2022-03-15&g=2022-03-15), en [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0044337&artikel=VI&z=2022-03-15&g=2022-03-15)
 
 Wijzigt de Wet publieke gezondheid en de Wegenverkeerswet 1994.
 
