@@ -4,7 +4,7 @@ identifier: "BWBV0006937"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-10-01"
-last_updated: "2021-11-03"
+last_updated: "2022-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006937"
 soort: "verdrag"
@@ -62,7 +62,7 @@ Voor de toepassing van dit Verdrag:
 
 - c. wordt een zoon of dochter die fulltime betaalde werkzaamheden verricht niet financieel afhankelijk geacht;
 
-- d. wordt verstaan onder „betaalde werkzaamheden”: het verrichten van werkzaamheden op instructie of na een opdracht van een werkgever onder de voorwaarden van een arbeidsovereenkomst (contract) die is gesloten krachtens de wetgeving van de ontvangende staat, alsmede elke andere beroepswerkzaamheid die tegen beloning wordt verricht, met inachtneming van de bepalingen van het [derde artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0006937&artikel=3&z=2021-11-03&g=2021-11-03) van dit Verdrag.
+- d. wordt verstaan onder „betaalde werkzaamheden”: het verrichten van werkzaamheden op instructie of na een opdracht van een werkgever onder de voorwaarden van een arbeidsovereenkomst (contract) die is gesloten krachtens de wetgeving van de ontvangende staat, alsmede elke andere beroepswerkzaamheid die tegen beloning wordt verricht, met inachtneming van de bepalingen van het [derde artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0006937&artikel=3&z=2022-03-16&g=2022-03-16) van dit Verdrag.
 
 ##### Artikel 3. Procedure
 
@@ -110,7 +110,7 @@ Gezinsleden die betaalde werkzaamheden verrichten uit hoofde van dit Verdrag hou
 
 1. Dit Verdrag kan worden gewijzigd op verzoek van een van de partijen door de andere partij een schriftelijke kennisgeving te zenden die de laatstgenoemde partij schriftelijk dient goed te keuren binnen zestig (60) dagen na de ontvangst van de kennisgeving.
 
-2. Een wijziging of wijzigingen van dit Verdrag aangebracht overeenkomstig het voorgaande lid treedt of treden in werking in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006937&artikel=8&z=2021-11-03&g=2021-11-03) van dit Verdrag.
+2. Een wijziging of wijzigingen van dit Verdrag aangebracht overeenkomstig het voorgaande lid treedt of treden in werking in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006937&artikel=8&z=2022-03-16&g=2022-03-16) van dit Verdrag.
 
 ##### Artikel 8. Inwerkingtreding, looptijd en beëindiging
 
