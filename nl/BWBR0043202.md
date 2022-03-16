@@ -4,7 +4,7 @@ identifier: "BWBR0043202"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-16"
-last_updated: "2020-02-22"
+last_updated: "2022-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043202"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 Aan de algemeen directeur wordt mandaat en volmacht verleend tot:
 
-- a. het nemen van besluiten en het sluiten van overeenkomsten in het kader van de uitvoering van [artikel 55, tweede tot en met vierde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=55) en de [artikelen 4 tot en met 11 van de Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) met inbegrip van de ministeriële regelingen, bedoeld in voornoemde artikelen van de Wet tegemoetkoming schade bij rampen;
+- a. het nemen van besluiten en het sluiten van overeenkomsten in het kader van de uitvoering van [artikel 55, tweede tot en met vierde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=55) en de [artikelen 4 tot en met 11 van de Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) met inbegrip van de ministeriële regelingen, bedoeld in voornoemde artikelen van de [Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637), alsmede de beleidsregels die betrekking hebben op het verstrekken van een tegemoetkoming in de schade en kosten bij een ramp als bedoeld in [artikel 1 van de Wet Veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
@@ -62,15 +62,15 @@ Aan de algemeen directeur wordt mandaat en volmacht verleend tot:
 
 Aan de algemeen directeur wordt machtiging verleend tot:
 
-- a. het verrichten van alle handelingen ter voorbereiding op en ter uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043202&artikel=2&z=2020-02-22&g=2020-02-22) bedoelde besluiten en overeenkomsten;
+- a. het verrichten van alle handelingen ter voorbereiding op en ter uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043202&artikel=2&z=2022-03-16&g=2022-03-16) bedoelde besluiten en overeenkomsten;
 
-- b. het voeren van procedures bij de rechter over de in [artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0043202&artikel=2&z=2020-02-22&g=2020-02-22) 2 bedoelde besluiten en overeenkomsten;
+- b. het voeren van procedures bij de rechter over de in [artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0043202&artikel=2&z=2022-03-16&g=2022-03-16) 2 bedoelde besluiten en overeenkomsten;
 
 - c. het uitgeven van legitimatiebewijzen als bedoeld in [artikel 5:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) aan de toezichthouders, bedoeld in [artikel 13 van de Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=13).
 
 ##### Artikel 4
 
-De algemeen directeur kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043202&artikel=2&z=2020-02-22&g=2020-02-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043202&artikel=3&z=2020-02-22&g=2020-02-22), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
+De algemeen directeur kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043202&artikel=2&z=2022-03-16&g=2022-03-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043202&artikel=3&z=2022-03-16&g=2022-03-16), ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 5
 
