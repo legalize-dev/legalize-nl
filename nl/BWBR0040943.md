@@ -4,7 +4,7 @@ identifier: "BWBR0040943"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-16"
-last_updated: "2020-11-25"
+last_updated: "2022-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040943"
 soort: "ministeriele-regeling"
@@ -56,15 +56,15 @@ In deze regeling wordt verstaan onder:
 
 1. De nummervoorziening genereert, op verzoek van het bevoegd gezag van de onderwijsinstelling waar een onderwijsdeelnemer staat ingeschreven, eenmalig een pseudoniem, welke van toepassing blijft gedurende de gehele periode dat een onderwijsdeelnemer gebruik maakt van voorzieningen in het kader van onderwijs.
 
-2. Een ketenID wordt per onderwijssector voor een onderwijsdeelnemer gegenereerd, dat wordt gebruikt in het kader van de toegang tot en het gebruik van digitale leermiddelen of het digitaal afnemen van toetsen en examens. Daarbij worden de volgende onderwijssectoren onderscheiden:
+2. Een ketenID wordt per categorie voor een onderwijsdeelnemer gegenereerd en wordt gebruik in het kader van de toegang tot en het gebruik van digitale leermiddelen of het digitaal afnemen van toetsen en examens. Daarbij worden de volgende categorieën onderscheiden:
 
-- a. primair onderwijs: basisonderwijs, speciaal basisonderwijs en speciaal onderwijs;
+- a. categorie po: basisonderwijs, speciaal basisonderwijs, speciaal onderwijs en voortgezet speciaal onderwijs;
 
-- b. voortgezet onderwijs: voortgezet onderwijs, voortgezet algemeen volwassenenonderwijs en voortgezet speciaal onderwijs;
+- b. categorie vo: voortgezet onderwijs en voortgezet algemeen volwassenenonderwijs;
 
-- c. middelbaar beroepsonderwijs; en
+- c. categorie mbo: beroepsonderwijs;
 
-- d. hoger onderwijs: wetenschappelijk onderwijs en hoger beroepsonderwijs.
+- d. categorie ho: wetenschappelijk onderwijs en hoger beroepsonderwijs.
 
 ##### Artikel 3. Beveiliging van persoonsgebonden nummer, pseudoniem en ketenID
 
@@ -81,5 +81,11 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling pseudonimisering onderwijsdeelnemers.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Omhang
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
