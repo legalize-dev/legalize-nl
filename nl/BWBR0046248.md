@@ -4,7 +4,7 @@ identifier: "BWBR0046248"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-07"
-last_updated: "2022-03-01"
+last_updated: "2022-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046248"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046248&artikel=2&z=2022-01-29&g=2022-03-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046248&artikel=2&z=2022-03-19&g=2022-03-19).
 
 ##### Artikel 2. Instelling en taak
 
@@ -151,6 +151,8 @@ Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 1. Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) (BBRA) en de arbeidsduurfactor op 8/36.
 
 2. De voorzitter van de begeleidingscommissie ontvangt een vergoeding per vergadering van de begeleidingscommissie van € 390,00. De andere leden van de begeleidingscommissie ontvangen een vergoeding per vergadering van de begeleidingscommissie van € 300,00.
+
+3. Het lid van de commissie de heer ing. J. van Driel ontvangt een vergoeding per vergadering van € 200,00.
 
 ##### Artikel 9. Kosten van de commissie
 
