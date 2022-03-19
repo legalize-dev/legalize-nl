@@ -4,7 +4,7 @@ identifier: "BWBR0045076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2022-01-01"
+last_updated: "2022-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045076"
 soort: "ministeriele-regeling"
@@ -188,7 +188,7 @@ Het Directoraat-Generaal Toeslagen staat onder leiding van de directeur-generaal
 
 ##### Artikel 7. Inrichting DGTSL
 
-1. Het Directoraat-Generaal Toeslagen bestaat uit de volgende organisatieonderdelen:
+Het Directoraat-Generaal Toeslagen bestaat uit de volgende organisatieonderdelen:
 
 - a. de directie Toeslagen;
 
@@ -205,14 +205,6 @@ Het Directoraat-Generaal Toeslagen staat onder leiding van de directeur-generaal
 - g. de directie Business Ontwikkeling;
 
 - h. het Bureau DG.
-
-2. De directie Toeslagen staat onder leiding van een algemeen directeur.
-
-3. De directies genoemd in het eerste lid, onderdelen b tot en met f, staan ieder onder leiding van een directeur.
-
-4. De directie Business Ontwikkeling staat onder leiding van een programmadirecteur.
-
-5. Het Bureau DG staat onder leiding van een afdelingshoofd.
 
 ### Hoofdstuk 5. Directoraat-Generaal Douane (DGD)
 
