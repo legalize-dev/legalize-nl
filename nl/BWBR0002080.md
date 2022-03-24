@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -81,11 +81,11 @@ Er zijn vier gerechtshoven, die als volgt worden aangeduid:
 
 ##### Artikel 3
 
-Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2022-01-01&g=2022-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2022-01-01&g=2022-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
+Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2022-03-24&g=2022-03-24) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2022-03-24&g=2022-03-24) als zodanig genoemde arrondissement onderscheidenlijk ressort.
 
 ##### Artikel 4
 
-Het arrondissement Amsterdam omvat het grondgebied van de gemeenten Aalsmeer, Amstelveen, Amsterdam, Diemen, Ouder-Amstel, Uithoorn en Weesp.
+Het arrondissement Amsterdam omvat het grondgebied van de gemeenten Aalsmeer, Amstelveen, Amsterdam, Diemen, Ouder-Amstel en Uithoorn.
 
 ##### Artikel 5
 
