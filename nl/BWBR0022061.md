@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2020-09-30"
+last_updated: "2022-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2020-09-30&g=2020-09-30) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2022-03-24&g=2022-03-24) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
@@ -144,9 +144,9 @@ De volgende regelingen worden ingetrokken:
 
 - w. [Regeling intrasectoraal programma zorg-en-welzijn-breed vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0011318)
 
-##### Artikel 5. De periode 1 augustus 2007 tot en met 31 juli 2008
+##### Artikel 5. Overgangsrecht
 
-Vervallen
+Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de paragrafen 2.53 tot en met 2.62 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2022-03-24&g=2022-03-24) behorende bij artikel 2, zoals deze luidden op 1 juli 2021, van toepassing.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -168,7 +168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 Vervallen
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2020-09-30&g=2020-09-30) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2022-03-24&g=2022-03-24) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -3268,27 +3268,27 @@ De overige eindtermen worden in het schoolexamen (SE) getoetst.
 
 De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.
 
-### 2.55. mobiliteit en transport
+### 2.55. Economie en ondernemen
 
-### 2.56. media, vormgeving en ict
+### 2.56. Groen
 
-### 2.57. Maritiem en techniek
+### 2.57. Horeca, bakkerij en recreatie
 
-### De kern
+### 2.58. Mobiliteit en transport
 
-### 2.57. Maritiem en techniek
+### 2.59. Produceren, installeren en energie
 
-### De kern
+### 2.60. Zorg en welzijn
 
-### De vier modulen
+### 2.61. Profiel Maritiem en techniek
 
-### Profielmodulen
+### 2.62. Profiel Media, vormgeving en ict
 
 ### 2.58. Zorg en welzijn
 
 ### 2.59. Economie en ondernemen
 
-### De kern
+### 2.63. informatietechnologie
 
 ### De vier profielmodulen
 
@@ -4378,9 +4378,9 @@ De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL 
 
 Kenmerkend voor de beroepen in zorg en welzijn (Z&W) is het werken met en voor mensen gericht op fysiek, psychisch en sociaal welbevinden waarbij de beroepsbeoefenaar zelf het belangrijkste instrument is. In iedere beroepssituatie dient rekening gehouden te worden met de individuele wensen en behoeften (cultuur, levensfase, mogelijkheden) van de klant en de omgeving waarin de ondersteuning geboden wordt. Deze elementen karakteriseren de werkzaamheden in de sector en zijn daarmee een wezenlijk onderdeel van elk profielmodule.
 
-Sectordeel Zorg en welzijn
+1 Met devices bedoelen we hier een PC, laptop, tablet, smartphone of singleboard computer
 
-Sectordeel Economie
+2 Met apparatuur bedoelen we hier sensoren, actuatoren en randapparatuur
 
 ¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen
 
@@ -4662,7 +4662,7 @@ De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte 
 
 ### 2.52. lichamelijke opvoeding 2
 
-### 2.54. Produceren, installeren en energie
+### 2.54. Dienstverlening en producten
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -6620,7 +6620,41 @@ Het schoolexamen heeft betrekking op de (sub)domeinen B4 en B5, F, en G, in comb
 
 indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2020-09-30&g=2020-09-30) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2022-03-24&g=2022-03-24) van de Regeling examenprogramma’s voortgezet onderwijs
+
+## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
+
+De vaardigheden worden niet in het centrale examen getoetst.
+
+De kandidaat is in staat zijn eigen loopbaanontwikkeling vorm te geven. Hij doet dat met een oriëntatie op een toekomstige opleiding en (loop)baan door middel van reflectie op het eigen handelen en reflectie op ervaringen.
+
+- 1. De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op
+
+systematische wijze om te gaan met ‘loopbaancompetenties’:
+
+- 1. Wat kan ik het best en hoe weet ik dat? [Kwaliteitenreflectie]
+
+- 2. Waar ga en sta ik voor en waarom dan? [Motievenreflectie]
+
+- 3. Waar ben ik het meest op mijn plek en waarom daar? [Werkexploratie]
+
+- 4. Hoe bereik ik mijn doel en waarom zo? [Loopbaansturing]
+
+- 5. Wie kan mij helpen mijn doel te bereiken en waarom die mensen? [Netwerken]
+
+- 2. De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen door middel van een ‘loopbaandossier’.
+
+In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten:
+
+- I. de beoogde doelen
+
+- II. de resultaten
+
+- III. de evaluatie en een conclusie
+
+- IV. welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
 
