@@ -4,7 +4,7 @@ identifier: "BWBR0049134"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-02-21"
-last_updated: "2022-01-01"
+last_updated: "2022-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049134"
 soort: "AMvB"
@@ -47,6 +47,8 @@ Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 ##### Artikel III
 
 Wijzigt het Besluit fiscale eenheid 2003.
+
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
