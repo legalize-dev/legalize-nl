@@ -4,7 +4,7 @@ identifier: "BWBR0046466"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-26"
-last_updated: "2022-01-01"
+last_updated: "2022-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046466"
 soort: "ministeriele-regeling"
@@ -40,8 +40,6 @@ Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
-De terugwerkende kracht betreft herplaatsing van de regeling.
-
 #### 1. Algemene bepalingen
 
 ##### Artikel 1
@@ -62,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046466&paragraaf=1&artikel=2&z=2022-03-26&g=2022-01-01), bedraagt ten hoogste het bedrag dat uit de begroting van de minister blijkt.
+De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046466&paragraaf=1&artikel=2&z=2022-03-26&g=2022-03-26), bedraagt ten hoogste het bedrag dat uit de begroting van de minister blijkt.
 
 #### 2. De subsidieverlening
 
@@ -76,7 +74,7 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046
 
 ##### Artikel 5
 
-Op de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046466&paragraaf=1&artikel=3&z=2022-03-26&g=2022-01-01), zijn de bepalingen uit [artikel 17 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=17) inzake een subsidie van € 25.000 tot € 125.000 van toepassing.
+Op de subsidie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046466&paragraaf=1&artikel=3&z=2022-03-26&g=2022-03-26), zijn de bepalingen uit [artikel 17 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=17) inzake een subsidie van € 25.000 tot € 125.000 van toepassing.
 
 #### 3. De subsidievaststelling
 
