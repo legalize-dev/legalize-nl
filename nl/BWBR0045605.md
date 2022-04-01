@@ -4,7 +4,7 @@ identifier: "BWBR0045605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-11-17"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045605"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze paragraaf wordt verstaan onder:
 
 - **mavo:** middelbaar algemeen vormend onderwijs als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9);
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 - **nevenvestiging:** nevenvestiging als bedoeld in [artikel 73b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73b);
 
@@ -90,9 +90,9 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2022
 
-1. De aanvullende bekostiging voor lwoo en pro, bedoeld in de [artikelen 79a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=79a), [85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), alsmede het op de bekostiging van het samenwerkingsverband in mindering te brengen bedrag, bedoeld in de [artikelen 85, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), wordt per 1 januari 2022 vastgesteld op € 4.814,87 per leerling voor personeelskosten en € 190,40 per leerling voor exploitatiekosten.
+1. De aanvullende bekostiging voor lwoo en pro, bedoeld in de [artikelen 79a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=79a), [85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), zoals die luidde op 31 maart 2022, alsmede het op de bekostiging van het samenwerkingsverband in mindering te brengen bedrag, bedoeld in de [artikelen 85, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), zoals die luidde op 31 maart 2022, wordt per 1 januari 2022 vastgesteld op € 4.814,87 per leerling voor personeelskosten en € 190,40 per leerling voor exploitatiekosten.
 
-2. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in de artikelen [85, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), wordt per 1 januari 2022 vastgesteld op € 90,15 per leerling voor personeelskosten en € 15,21 per leerling voor exploitatiekosten.
+2. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in de artikelen [85, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), zoals die luidde op 31 maart 2022, wordt per 1 januari 2022 vastgesteld op € 90,15 per leerling voor personeelskosten en € 15,21 per leerling voor exploitatiekosten.
 
 ##### Artikel 4. Bedragen bekostiging vo-scholen Europees Nederland kalenderjaar 2023
 
@@ -110,13 +110,13 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 5. Aanvullende bekostiging lwoo en pro en regionale ondersteuning kalenderjaar 2023
 
-1. De aanvullende bekostiging voor lwoo en pro, bedoeld in de [artikelen 79a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=79a), [85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), alsmede het op de bekostiging van het samenwerkingsverband in mindering te brengen bedrag, bedoeld in de [artikelen 85, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90, vijfde en zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), wordt per 1 januari 2023 vastgesteld op € 4.814,87 per leerling voor personeelskosten en € 190,40 per leerling voor exploitatiekosten.
+1. De aanvullende bekostiging voor lwoo en pro, bedoeld in de [artikelen 79a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=79a), en [84, eerste, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84), alsmede het op de bekostiging van het samenwerkingsverband in mindering te brengen bedrag, bedoeld in artikel 84, zesde en zevende lid, van de wet, wordt per 1 januari 2023 vastgesteld op € 4.814,87 per leerling voor personeelskosten en € 190,40 per leerling voor exploitatiekosten.
 
-2. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in de artikelen [85, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=85), en [90, eerste en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=90), wordt per 1 januari 2023 vastgesteld op € 90,15 per leerling voor personeelskosten en € 15,21 per leerling voor exploitatiekosten.
+2. De aanvullende bekostiging voor regionale ondersteuning, bedoeld in [artikel 84, eerste en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84), wordt per 1 januari 2023 vastgesteld op € 90,15 per leerling voor personeelskosten en € 15,21 per leerling voor exploitatiekosten.
 
 ##### Artikel 6. Betaalritme bekostiging vo-scholen Europees Nederland
 
-De minister stelt de bekostiging, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=1&artikel=2&z=2021-11-17&g=2021-11-17), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang. De eerste termijn wordt betaald in januari van het jaar waarop de bekostiging betrekking heeft.
+De minister stelt de bekostiging, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=1&artikel=2&z=2022-04-01&g=2022-04-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang. De eerste termijn wordt betaald in januari van het jaar waarop de bekostiging betrekking heeft.
 
 #### § 2. Bekostiging vo-scholen Caribisch Nederland
 
@@ -146,7 +146,7 @@ In deze paragraaf wordt verstaan onder:
 
 - **mavo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=15);
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 - **school:** school als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1);
 
@@ -254,7 +254,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 10. Betaalritme bekostiging vo-scholen Caribisch Nederland
 
-De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=8&z=2021-11-17&g=2021-11-17) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=9&z=2021-11-17&g=2021-11-17), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald vanaf januari van het jaar waarop de bekostiging betrekking heeft conform de percentages in tabel 1.
+De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=8&z=2022-04-01&g=2022-04-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=9&z=2022-04-01&g=2022-04-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald vanaf januari van het jaar waarop de bekostiging betrekking heeft conform de percentages in tabel 1.
 
 | januari | 9,72% | juli | 7,62% |
 | --- | --- | --- | --- |
@@ -277,5 +277,11 @@ Deze regeling treedt in werking met ingang van 15 november 2021.
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bekostiging vo-scholen en samenwerkingsverbanden vo.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11a. Omhang
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
