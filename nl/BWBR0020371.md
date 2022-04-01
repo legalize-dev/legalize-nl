@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2022-03-12"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -87,5 +87,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 - b. de verkoop, levering, overdracht of uitvoer van andere voertuigen dan gevechtsvoertuigen die gemaakt zijn van, of uitgerust zijn met, materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in Belarus.
 
 3. Het eerste lid is niet van toepassing op beschermende kleding, met inbegrip van scherfwerende vesten en militaire helmen, die voor louter persoonlijk gebruik door personeel van de Verenigde Naties, de Europese Unie of haar lidstaten, vertegenwoordigers van de media of medewerkers van humanitaire en ontwikkelingsorganisaties en aanverwant personeel tijdelijk naar Belarus worden uitgevoerd.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1aa
+
+1. De bewaarder van het Kadaster en de openbare registers is bevoegd om in de basisregistratie kadaster, de registratie voor schepen en de registratie voor luchtvaartuigen een aantekening te stellen als het een registergoed betreft dat bevroren dient te worden op grond van artikel 2, eerste lid, van Verordening (EG) nr. 765/2006.
+
+2. De Kamer van Koophandel verstrekt aan de bewaarder van het Kadaster en de openbare registers uit het handelsregister de gegevens, genoemd in [artikel 9, onderdelen a, b en d, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), van de rechtspersonen waarvan de personen, genoemd in bijlage I bij Verordening (EG) nr. 765/2006, de uiteindelijk belanghebbenden als bedoeld in [artikel 15a van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a) zijn. De bewaarder verwerkt de gegevens uitsluitend voor het stellen van de aantekening, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
