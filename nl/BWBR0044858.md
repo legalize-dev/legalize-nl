@@ -4,7 +4,7 @@ identifier: "BWBR0044858"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-26"
-last_updated: "2021-10-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044858"
 soort: "ministeriele-regeling"
@@ -262,27 +262,7 @@ Het fytosanitair certificaat als bedoeld in artikel 71 van [verordening 2016/203
 
 ##### Artikel 11
 
-1. Voor de toepassing van dit artikel wordt verstaan onder:
-
-- **schadelijke organisme:** Phyllosticta citricarpa (McAlpine) Van der Aa, die in[Richtlijn 2000/29/EG](32000L0029)Guignardia citricarpa Kiely wordt genoemd;
-
-- **uitvoeringsbesluit 2016/715:** Uitvoeringsbesluit (EU) 2016/715 van de Commissie van 11 mei 2016 inzake maatregelen met betrekking tot bepaalde vruchten van oorsprong uit bepaalde derde landen om het binnenbrengen en de verspreiding in de Unie van het schadelijke organisme Phyllosticta citricarpa (McAlpine) Van der Aa te voorkomen (PbEU 2016, L 125);
-
-- **vruchten:** vruchten van Citrus L., Fortunella Swingle, Poncirus Raf. en hybriden daarvan, met uitzondering van vruchten van Citrus aurantium L. en Citrus latifolia Tanaka, van oorsprong uit Brazilië, Zuid-Afrika, Uruguay en Argentinië;
-
-2. Vruchten, met uitzondering van vruchten die uitsluitend bestemd zijn voor de industriële verwerking tot sap, mogen slechts in de Europese Unie worden binnengebracht overeenkomstig de artikelen 5 tot en met 7 van uitvoeringsbesluit 2016/715.
-
-3. Vruchten, uitsluitend bestemd voor industriële verwerking tot sap, mogen slechts in de Europese Unie worden binnengebracht, vervoerd, opgeslagen en verwerkt overeenkomstig de artikelen 8 tot en met 17 van uitvoeringsbesluit 2016/715.
-
-4. Vruchten als bedoeld in het derde lid worden binnengebracht in Rotterdam en Vlissingen.
-
-5. Een importeur stelt overeenkomstig artikel 13 van uitvoeringsbesluit 2016/715 de verantwoordelijke officiële instantie van de plaats van binnenkomst voldoende van te voren in kennis van zijn intentie om vruchten, bedoeld in het derde lid, binnen te brengen.
-
-6. Een verwerker van vruchten tot sap stelt de verantwoordelijke officiële instantie voldoende van te voren in kennis van het vervoer van de vruchten van de plaats van binnenkomst naar de verwerkingslocatie of opslaglocatie en van de opslaglocatie naar de verwerkingslocatie.
-
-7. De minister verleent op verzoek een erkenning voor de verwerkingslocatie of opslaglocatie van vruchten als bedoeld in het derde lid.
-
-8. Afvalstoffen of bijproducten die overblijven na verwerking worden gebruikt of vernietigd overeenkomstig artikel 15 van uitvoeringsbesluit 2016/715.
+Vervallen
 
 ##### Artikel 12
 
@@ -372,15 +352,15 @@ Het fytosanitair certificaat als bedoeld in artikel 71 van [verordening 2016/203
 
 ##### Artikel 16
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2021-10-01&g=2021-10-01) vervalt met ingang van 1 juli 2023.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2022-04-01&g=2022-04-01) vervalt met ingang van 1 juli 2023.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2021-10-01&g=2021-10-01) vervalt met ingang van 1 augustus 2022.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2022-04-01&g=2022-04-01) vervalt met ingang van 1 augustus 2022.
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2021-10-01&g=2021-10-01) vervalt met ingang van 1 april 2022.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2022-04-01&g=2022-04-01) vervalt met ingang van 1 april 2022.
 
-4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2021-10-01&g=2021-10-01) vervalt met ingang van 1 april 2023.
+4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2022-04-01&g=2022-04-01) vervalt met ingang van 1 april 2023.
 
-5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2021-10-01&g=2021-10-01), vervalt met ingang van 1 januari 2027.
+5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2022-04-01&g=2022-04-01), vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 17
 
