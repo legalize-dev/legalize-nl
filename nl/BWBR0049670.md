@@ -179,9 +179,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXV. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om op gebundelde wijze diverse wetstechnische en redactionele reparaties aan te brengen in met name de wetten die onder de verantwoordelijkheid vallen van het Ministerie van Onderwijs, Cultuur en Wetenschap;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
