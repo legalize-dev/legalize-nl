@@ -4,7 +4,7 @@ identifier: "BWBR0034996"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034996"
 soort: "circulaire"
@@ -91,7 +91,7 @@ De IND ontheft de vreemdeling van het inburgeringsvereiste als sprake is van een
 
 In tegenstelling tot voornoemde paragraaf past de IND de hardheidsclausule niet toe indien de vreemdeling tegen zijn of haar wil in het land van herkomst is achtergelaten en voldoet aan de voorwaarden van [artikel 3.51, eerste lid, aanhef en onder a, sub 1, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51).
 
-De IND gaat bij te vroeg of te laat ingediende aanvragen uit van de regels zoals die zijn opgenomen voor de behandeling van de aanvraag om een verblijfsvergunning asiel voor onbepaalde tijd respectievelijk de aanvraag om een verblijfsvergunning regulier voor onbepaalde tijd (zie paragraaf [C2/10.1](onbekend) en [C5/2 Vc](onbekend)).
+De IND gaat bij te vroeg of te laat ingediende aanvragen uit van de regels zoals die zijn opgenomen voor de behandeling van de aanvraag om een verblijfsvergunning asiel voor onbepaalde tijd respectievelijk de aanvraag om een verblijfsvergunning regulier voor onbepaalde tijd (zie respectievelijk [paragraaf C5/2 Vc](onbekend) en [paragraaf B12/1.1 Vc](onbekend)).
 
 ### 2.1. De duur van het ononderbroken verblijf in Nederland
 
