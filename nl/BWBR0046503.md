@@ -243,37 +243,3 @@ Deze regeling treedt in werking op het tijdstip waarop het koninklijk besluit va
 Deze regeling wordt aangehaald als: Regeling opvang ontheemden Oekraïne.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 11a
-
-1. Een ontheemde kan door de burgemeester nader aan te wijzen werkzaamheden verrichten in en rondom de gemeentelijke opvangvoorziening, voor de uitvoering waarvan een vergoeding kan worden gegeven.
-
-2. De burgemeester zorgt voor een evenredige verdeling van het aanbod van werkzaamheden als bedoeld in het eerste lid, over de in de opvangvoorziening verblijvende ontheemden die daarvoor in aanmerking wensen te komen.
-
-3. De vergoeding die een ontheemde ontvangt voor het verrichten van werkzaamheden als bedoeld in het eerste lid, bedraagt niet meer dan € 14,– per week.
-
-4. [Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=7&z=2022-12-01&g=2022-12-01), is niet van toepassing op de situatie, bedoeld in het eerste lid.
-
-### Hoofdstuk V. Verstrekkingen in particuliere opvangvoorzieningen
-
-### Hoofdstuk VI. Kwetsbare personen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-De ontheemde is verplicht om onverwijld uit eigen beweging dan wel uiterlijk binnen twee weken nadat de burgemeester daarom heeft verzocht mededeling te doen over zijn inkomsten en gezinssamenstelling. De ontheemde is tevens verplicht om in geval van verandering in inkomsten of gezinssamenstelling de burgemeester daarvan onverwijld mededeling te doen.
-
-##### Artikel 2b
-
-Toepassing van de [artikelen 7, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=7&z=2024-07-01&g=2024-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=8&z=2024-07-01&g=2024-07-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=13&z=2024-07-01&g=2024-07-01), blijft achterwege als de ontheemde of een gezinslid daardoor onevenredig zwaar zou worden getroffen.
-
-### Hoofdstuk II. Toelating tot de opvang
-
-### Hoofdstuk IV. De verstrekkingen gedurende de gemeentelijke opvang
-
-### Hoofdstuk V. Verstrekkingen in particuliere opvangvoorzieningen
-
-### Hoofdstuk VI. Kwetsbare personen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
