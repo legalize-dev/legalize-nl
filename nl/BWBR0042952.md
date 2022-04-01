@@ -4,7 +4,7 @@ identifier: "BWBR0042952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042952"
 soort: "wet"
@@ -84,9 +84,9 @@ Wijzigt de Invorderingswet 1990.
 
 1. Deze wet treedt in werking met ingang van 1 januari 2021.
 
-2. In afwijking van het eerste lid treden [artikel 7.2, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=7&artikel=7.2&z=2022-01-01&g=2022-01-01), en [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=7&artikel=7.3&z=2022-01-01&g=2022-01-01) in werking met ingang van 1 januari 2020, met dien verstande dat artikel 7.2, onderdeel B, voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020.
+2. In afwijking van het eerste lid treden [artikel 7.2, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=7&artikel=7.2&z=2022-04-01&g=2022-04-01), en [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=7&artikel=7.3&z=2022-04-01&g=2022-04-01) in werking met ingang van 1 januari 2020, met dien verstande dat artikel 7.2, onderdeel B, voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2020.
 
-3. In afwijking van het eerste lid treedt [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=7&artikel=7.1&z=2022-01-01&g=2022-01-01) in werking met ingang van 1 januari 2022.
+3. In afwijking van het eerste lid treedt [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=7&artikel=7.1&z=2022-04-01&g=2022-04-01) in werking met ingang van 1 januari 2022.
 
 ##### Artikel 8.2. Citeertitel
 
@@ -96,13 +96,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1.1. Bronbelasting
 
-Onder de naam bronbelasting wordt een belasting geheven van het lichaam, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=2&artikel=2.1&z=2022-01-01&g=2022-01-01).
+Onder de naam bronbelasting wordt een belasting geheven van het lichaam, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=2&artikel=2.1&z=2022-04-01&g=2022-04-01).
 
 ##### Artikel 1.2. Definities
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **voordeelgerechtigde:** een lichaam dat gerechtigd is tot voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01), met dien verstande dat een lichaam als bedoeld in [artikel 2, twaalfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) wordt aangemerkt als voordeelgerechtigde met betrekking tot voordelen als bedoeld in artikel 3.1 waartoe de houders van stemrechten, kapitaalbelangen of winstrechten in dat lichaam door tussenkomst van dat lichaam zijn gerechtigd;
+- a. **voordeelgerechtigde:** een lichaam dat gerechtigd is tot voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01), met dien verstande dat een lichaam als bedoeld in [artikel 2, twaalfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) wordt aangemerkt als voordeelgerechtigde met betrekking tot voordelen als bedoeld in artikel 3.1 waartoe de houders van stemrechten, kapitaalbelangen of winstrechten in dat lichaam door tussenkomst van dat lichaam zijn gerechtigd;
 
 - b. **inhoudingsplichtige:**
 
@@ -150,9 +150,9 @@ Onder de naam bronbelasting wordt een belasting geheven van het lichaam, bedoeld
 
 - e. **laagbelastende jurisdictie:** een bij ministeriële regeling aangewezen staat die:
 
-- 1°. op 1 oktober van het kalenderjaar dat voorafgaat aan het tijdvak, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=5&artikel=5.1&z=2022-01-01&g=2022-01-01), lichamen niet of naar een tarief van minder dan 9% onderwerpt aan een belasting naar de winst; of
+- 1°. op 1 oktober van het kalenderjaar dat voorafgaat aan het tijdvak, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=5&artikel=5.1&z=2022-04-01&g=2022-04-01), lichamen niet of naar een tarief van minder dan 9% onderwerpt aan een belasting naar de winst; of
 
-- 2°. is opgenomen in een in het kalenderjaar dat voorafgaat aan het tijdvak, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=5&artikel=5.1&z=2022-01-01&g=2022-01-01), geldende EU-lijst van niet-coöperatieve rechtsgebieden voor belastingdoeleinden;
+- 2°. is opgenomen in een in het kalenderjaar dat voorafgaat aan het tijdvak, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=5&artikel=5.1&z=2022-04-01&g=2022-04-01), geldende EU-lijst van niet-coöperatieve rechtsgebieden voor belastingdoeleinden;
 
 - f. **vaste inrichting:** een vaste inrichting als bedoeld in [artikel 3, vierde tot en met twaalfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=3).
 
@@ -166,7 +166,7 @@ Onder de naam bronbelasting wordt een belasting geheven van het lichaam, bedoeld
 
 ##### Artikel 2.1. Belastingplichtigen
 
-1. Belastingplichtig voor de belasting is een lichaam dat gerechtigd is tot voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01) en dat:
+1. Belastingplichtig voor de belasting is een lichaam dat gerechtigd is tot voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01) en dat:
 
 - a. naar de omstandigheden beoordeeld in een laagbelastende jurisdictie is gevestigd of volgens de fiscale of andere regelgeving van die jurisdictie aldaar is gevestigd;
 
@@ -200,19 +200,19 @@ Onder de naam bronbelasting wordt een belasting geheven van het lichaam, bedoeld
 
 - b. sprake is van geldige zakelijke redenen die de economische realiteit weerspiegelen.
 
-6. Belastingplichtig voor de belasting is mede een lichaam als bedoeld in [artikel 2, twaalfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) dat gerechtigd is tot voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01), voor zover een achterliggende gerechtigde die een kwalificerend belang heeft in dat lichaam is gevestigd in een staat die dat lichaam niet als een belastingplichtige voor een naar de winst geheven belasting beschouwt en die gerechtigde op grond van het eerste lid belastingplichtig zou zijn indien hij zonder tussenkomst van dat lichaam de voordeelgerechtigde zou zijn.
+7. Belastingplichtig voor de belasting is mede een lichaam als bedoeld in [artikel 2, twaalfde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) dat gerechtigd is tot voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01), voor zover een achterliggende gerechtigde die een kwalificerend belang heeft in dat lichaam is gevestigd in een staat die dat lichaam niet als een belastingplichtige voor een naar de winst geheven belasting beschouwt en die gerechtigde op grond van het eerste lid belastingplichtig zou zijn indien hij zonder tussenkomst van dat lichaam de voordeelgerechtigde zou zijn.
 
 ##### Artikel 3.1. Heffingsgrondslag
 
 De belasting wordt geheven over de voordelen in de vorm van:
 
-- a. renten als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.3&z=2022-01-01&g=2022-01-01);
+- a. renten als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.3&z=2022-04-01&g=2022-04-01);
 
-- b. royalty’s als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.4&z=2022-01-01&g=2022-01-01).
+- b. royalty’s als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.4&z=2022-04-01&g=2022-04-01).
 
 ##### Artikel 3.2. Correctie naar zakelijke voorwaarden
 
-1. Indien ter zake van voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01) voorwaarden worden overeengekomen of opgelegd (verrekenprijzen) die afwijken van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, worden die voordelen bepaald alsof die laatstbedoelde voorwaarden zouden zijn overeengekomen.
+1. Indien ter zake van voordelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01) voorwaarden worden overeengekomen of opgelegd (verrekenprijzen) die afwijken van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, worden die voordelen bepaald alsof die laatstbedoelde voorwaarden zouden zijn overeengekomen.
 
 2. Niet in geld genoten voordelen worden in aanmerking genomen naar de waarde die daaraan in het economische verkeer kan worden toegekend.
 
@@ -258,7 +258,7 @@ De belasting wordt geheven over de voordelen in de vorm van:
 
 ##### Artikel 3.5. Genietingstijdstip
 
-1. De voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01), worden beschouwd te zijn genoten op het tijdstip waarop zij:
+1. De voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01), worden beschouwd te zijn genoten op het tijdstip waarop zij:
 
 - a. betaald of verrekend worden, ter beschikking van de voordeelgerechtigde worden gesteld of rentedragend worden; of
 
@@ -266,27 +266,27 @@ De belasting wordt geheven over de voordelen in de vorm van:
 
 2. Gedurende het tijdvak gerijpte doch aan het einde van dat tijdvak nog niet genoten renten of royalty’s worden beschouwd op 31 december van dat tijdvak te zijn genoten.
 
-3. Voor zover aannemelijk wordt gemaakt dat over een bedrag reeds met toepassing van het tweede lid belasting is geheven, behoort dat bedrag niet tot de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01), op het moment dat het eerste lid toepassing vindt.
+3. Voor zover aannemelijk wordt gemaakt dat over een bedrag reeds met toepassing van het tweede lid belasting is geheven, behoort dat bedrag niet tot de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01), op het moment dat het eerste lid toepassing vindt.
 
 ##### Artikel 4.1. Tarief
 
-De belasting bedraagt het hoogste percentage, bedoeld in [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), van de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01).
+De belasting bedraagt het hoogste percentage, bedoeld in [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), van de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01).
 
 ##### Artikel 4.2. Belasting voor rekening inhoudingsplichtige
 
-Indien de inhoudingsplichtige de belasting voor zijn rekening neemt, worden voor het berekenen van de belasting de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01), vermenigvuldigd met 100/(100-T), waarbij T staat voor het geldende percentage van het tarief, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=4&artikel=4.1&z=2022-01-01&g=2022-01-01).
+Indien de inhoudingsplichtige de belasting voor zijn rekening neemt, worden voor het berekenen van de belasting de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01), vermenigvuldigd met 100/(100-T), waarbij T staat voor het geldende percentage van het tarief, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=4&artikel=4.1&z=2022-04-01&g=2022-04-01).
 
 ### Hoofdstuk 4. Tarief
 
 ##### Artikel 5.1. Heffing door inhouding
 
-1. De belasting wordt geheven door inhouding op de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01).
+1. De belasting wordt geheven door inhouding op de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01).
 
-2. De inhoudingsplichtige houdt de belasting in op het tijdstip waarop de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01), worden genoten.
+2. De inhoudingsplichtige houdt de belasting in op het tijdstip waarop de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01), worden genoten.
 
 3. De inhoudingsplichtige draagt de in een tijdvak ingehouden belasting op aangifte af.
 
-4. Voor zover de belasting niet op de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01), kan worden ingehouden, wordt de belasting geacht te zijn ingehouden op het genietingstijdstip, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.5&z=2022-01-01&g=2022-01-01).
+4. Voor zover de belasting niet op de voordelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.1&z=2022-04-01&g=2022-04-01), kan worden ingehouden, wordt de belasting geacht te zijn ingehouden op het genietingstijdstip, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=3&artikel=3.5&z=2022-04-01&g=2022-04-01).
 
 ### Hoofdstuk 6. Bijzondere bepalingen
 
@@ -304,7 +304,7 @@ Onverminderd het bepaalde in [artikel 20, tweede lid, van de Algemene wet inzake
 
 - c. lichamen die deel uitmaken van een samenwerkende groep als bedoeld in [artikel 10a, zesde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a) en die gezamenlijk onmiddellijk of middellijk een kwalificerend belang hebben in die inhoudingsplichtige.
 
-2. Het eerste lid is van overeenkomstige toepassing ingeval [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=4&artikel=4.2&z=2022-01-01&g=2022-01-01) toepassing vindt.
+2. Het eerste lid is van overeenkomstige toepassing ingeval [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=4&artikel=4.2&z=2022-04-01&g=2022-04-01) toepassing vindt.
 
 3. [Artikel 52a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52a) is van overeenkomstige toepassing ingeval niet of niet volledig wordt voldaan aan de informatieverplichting ingevolge het eerste lid.
 
@@ -318,9 +318,9 @@ Onverminderd het bepaalde in [artikel 20, tweede lid, van de Algemene wet inzake
 
 ##### Artikel 6.4. Vergrijpboete overtreden inlichtingenverplichting
 
-1. Indien het aan opzet of grove schuld van de inhoudingsplichtige is te wijten dat de verplichting, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=6&artikel=6.3&z=2022-01-01&g=2022-01-01), niet wordt nagekomen, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100% van de in het tweede lid omschreven grondslag voor de boete.
+1. Indien het aan opzet of grove schuld van de inhoudingsplichtige is te wijten dat de verplichting, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=6&artikel=6.3&z=2022-04-01&g=2022-04-01), niet wordt nagekomen, vormt dit een vergrijp ter zake waarvan de inspecteur hem een bestuurlijke boete kan opleggen van ten hoogste 100% van de in het tweede lid omschreven grondslag voor de boete.
 
-2. De grondslag voor de boete wordt gevormd door het bedrag aan belasting dat als gevolg van het niet nakomen van de verplichting, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=6&artikel=6.3&z=2022-01-01&g=2022-01-01), niet zou zijn geheven.
+2. De grondslag voor de boete wordt gevormd door het bedrag aan belasting dat als gevolg van het niet nakomen van de verplichting, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&hoofdstuk=6&artikel=6.3&z=2022-04-01&g=2022-04-01), niet zou zijn geheven.
 
 3. Voor de toepassing van dit artikel is [artikel 67o, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67o) van overeenkomstige toepassing.
 
