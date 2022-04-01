@@ -4,7 +4,7 @@ identifier: "BWBR0030106"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2012-01-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030106"
 soort: "AMvB"
@@ -56,25 +56,25 @@ In dit besluit wordt verstaan onder:
 
 - c. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- d. **het bevoegd gezag:** het bevoegd gezag van een school of instelling, dat is aangesloten bij het Vervangingsfonds op grond van [artikel 183, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) of [artikel 169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169) of bij het Participatiefonds op grond van [artikel 184, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=184) of [artikel 170, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=170);
+- d. **het bevoegd gezag:** het bevoegd gezag van een school of instelling, dat is aangesloten bij het Vervangingsfonds op grond van [artikel 188, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) of [artikel 167, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167) of bij het Participatiefonds op grond van [artikel 190, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) of [artikel 169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169);
 
-- e. **het Vervangingsfonds:** de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs, zijnde de rechtspersoon, bedoeld in [artikel 183, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) en [artikel 169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169);
+- e. **het Vervangingsfonds:** de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs, zijnde de rechtspersoon, bedoeld in [artikel 188, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167);
 
-- f. **het Participatiefonds:** de Stichting Participatiefonds voor het Onderwijs, zijnde de rechtspersoon, bedoeld in [artikel 184, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=184) en [artikel 170, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=170).
+- f. **het Participatiefonds:** de Stichting Participatiefonds voor het Onderwijs, zijnde de rechtspersoon, bedoeld in [artikel 190, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169).
 
 ##### Artikel 2. Taak Vervangingsfonds en Participatiefonds
 
-1. Het Vervangingsfonds heeft tot taak het bevoegd gezag de waarborgen te bieden, bedoeld in [artikel 183, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) en [artikel 169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169).
+1. Het Vervangingsfonds heeft tot taak het bevoegd gezag de waarborgen te bieden, bedoeld in [artikel 188, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167).
 
-2. In verband met de uitoefening van de taak, bedoeld in [artikel 183, eerste lid, onderdeel b, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) en [artikel 169, eerste lid, onderdeel b, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169), beheert het Vervangingsfonds een noodfonds dat de bedragen omvat die Onze Minister op grond van artikel 183, vijfde lid, van de WPO, en artikel 169, vijfde lid, van de WEC jaarlijks aan het Vervangingsfonds toekent.
+2. In verband met de uitoefening van de taak, bedoeld in [artikel 188, eerste lid, onderdeel b, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, onderdeel b, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167), beheert het Vervangingsfonds een noodfonds dat de bedragen omvat die Onze Minister op grond van artikel 188, vijfde lid, van de WPO, en artikel 167, vijfde lid, van de WEC jaarlijks aan het Vervangingsfonds toekent.
 
-3. Het Participatiefonds heeft tot taak het bevoegd gezag de waarborgen te bieden, bedoeld in [artikel 184, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=184) en [artikel 170, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=170).
+3. Het Participatiefonds heeft tot taak het bevoegd gezag de waarborgen te bieden, bedoeld in [artikel 190, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169).
 
 ##### Artikel 3. Instemming statuten
 
-1. Onze Minister stemt in met de statuten van het Vervangingsfonds en het Participatiefonds, bedoeld in [artikel 187, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=187) en [artikel 172, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=172), uitsluitend indien deze statuten ten minste de volgende bepalingen bevatten:
+1. Onze Minister stemt in met de statuten van het Vervangingsfonds en het Participatiefonds, bedoeld in [artikel 194, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194) en [artikel 173, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=173), uitsluitend indien deze statuten ten minste de volgende bepalingen bevatten:
 
-- a. dat het Vervangingsfonds zich ten doel stelt de waarborgen te bieden, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=2&z=2012-01-01&g=2012-01-01), en dat het Participatiefonds zich ten doelt stelt de waarborgen te bieden, bedoeld in artikel 2, derde lid;
+- a. dat het Vervangingsfonds zich ten doel stelt de waarborgen te bieden, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=2&z=2022-04-01&g=2022-04-01), en dat het Participatiefonds zich ten doelt stelt de waarborgen te bieden, bedoeld in artikel 2, derde lid;
 
 - b. de wijze van benoeming, herbenoeming, schorsing en ontslag door het Vervangingsfonds en het Participatiefonds van de leden en plaatsvervangend leden van het bestuur;
 
@@ -84,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 - e. dat het Vervangingsfonds en het Participatiefonds ten minste eenmaal per jaar overleg voeren met Onze Minister of een door Onze Minister aan te wijzen vertegenwoordiger;
 
-- f. dat het bestuur van het Vervangingsfonds en het bestuur van het Participatiefonds in het kader van hun taakuitoefening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=2&z=2012-01-01&g=2012-01-01), het bevoegd gezag bij algemeen verbindend voorschrift verplichtingen van administratieve aard opleggen ten behoeve van:
+- f. dat het bestuur van het Vervangingsfonds en het bestuur van het Participatiefonds in het kader van hun taakuitoefening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=2&z=2022-04-01&g=2022-04-01), het bevoegd gezag bij algemeen verbindend voorschrift verplichtingen van administratieve aard opleggen ten behoeve van:
 
 - 1°. de controle van de rechtmatigheid van de uitgaven van het Vervangingsfonds of het Participatiefonds;
 
@@ -104,9 +104,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Gevolgen intrekking van de aanwijzing
 
-Bij de intrekking van de aanwijzing van het Vervangingsfonds of het Participatiefonds als de rechtspersoon, bedoeld in de [artikelen 183, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183), en [184, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=184) en de [artikelen 169, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169), en [170, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=170):
+Bij de intrekking van de aanwijzing van het Vervangingsfonds of het Participatiefonds als de rechtspersoon, bedoeld in de [artikelen 188, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188), en [190, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en de [artikelen 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167), en [169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169):
 
-- a. wenden het Vervangingsfonds en het Participatiefonds de onder hun beheer staande middelen, bestemd voor het verschaffen van de waarborgen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=2&z=2012-01-01&g=2012-01-01), aan voor het doel waartoe die middelen aan het Vervangingsfonds of het Participatiefonds ter beschikking zijn gesteld; of
+- a. wenden het Vervangingsfonds en het Participatiefonds de onder hun beheer staande middelen, bestemd voor het verschaffen van de waarborgen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=2&z=2022-04-01&g=2022-04-01), aan voor het doel waartoe die middelen aan het Vervangingsfonds of het Participatiefonds ter beschikking zijn gesteld; of
 
 - b. dragen het Vervangingsfonds en het Participatiefonds de in onderdeel a bedoelde middelen over aan een andere, door Onze Minister op grond van de in de aanhef genoemde artikelen, aan te wijzen rechtspersoon.
 
