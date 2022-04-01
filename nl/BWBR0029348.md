@@ -4,7 +4,7 @@ identifier: "BWBR0029348"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-28"
-last_updated: "2011-01-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029348"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Behoudens in het voorkomende geval van computergestuurde beoordeling worden de r
 
 1. Het hoofd van het Expertisecentrum voor Toetsen en Examens geeft aan de verzoeker die de naturalisatietoets met succes heeft afgelegd het Certificaat naturalisatietoets.
 
-2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029348&bijlage=2&z=2011-01-01&g=2011-01-01) bij deze regeling.
+2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029348&bijlage=2&z=2022-04-01&g=2022-04-01) bij deze regeling.
 
 #### Paragraaf 4. Gedeeltelijke vrijstellingen
 
@@ -130,7 +130,7 @@ Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taa
 
 ##### Artikel 10
 
-1. Indien de verzoeker zich beroept op ontheffing van een of meer onderdelen van de naturalisatietoets wegens een belemmering als bedoeld in [artikel 4, aanhef en onder a van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4) wordt omtrent het beroep op ontheffing geadviseerd door de hiervoor op advies van de Gouverneur aangewezen instantie.
+1. Indien de verzoeker zich beroept op ontheffing van de naturalisatietoets wegens omstandigheden als bedoeld in [artikel 4, aanhef en onder a, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), wordt omtrent het beroep op ontheffing geadviseerd door de hiervoor op advies van de Gouverneur aangewezen instantie.
 
 2. De in [artikel 4, aanhef en onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4) bedoelde psychische of lichamelijke belemmering dan wel verstandelijke handicap toont verzoeker aan door overlegging van een medisch advies van de ingevolge het eerste lid aangewezen instantie, dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden en inhoudende dat sprake is van een belemmering of een handicap.
 
@@ -142,21 +142,19 @@ Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taa
 
 ##### Artikel 11
 
-1. Inzake de verzoeker die zich beroept op ontheffing van een of meer onderdelen van de naturalisatietoets wegens omstandigheden als bedoeld in [artikel 4, aanhef en onder b van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), wordt omtrent het beroep op ontheffing geadviseerd door Fundashon Pro Alfa.
+1. Indien de verzoeker zich beroept op ontheffing van de naturalisatietoets wegens de omstandigheid bedoeld in artikel 4, aanhef en onder b, van het Besluit naturalisatietoets, wordt omtrent het beroep geadviseerd door Fundashon Pro Alfa.
 
-2. De kosten die Fundashon Pro Alfa in rekening brengt, komen ten laste van de verzoeker.
+2. Fundashon Pro Alfa geeft het advies, bedoeld in het eerste lid, uitsluitend af indien de verzoeker ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
 
-3. Verzoeker legt bij de indiening van het naturalisatieverzoek een advies van Fundashon Pro Alfa over dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden.
+3. De kosten die Fundashon Pro Alfa in rekening brengt, komen ten laste van de verzoeker.
+
+4. Verzoeker legt bij de indiening van het naturalisatieverzoek een advies van Fundashon Pro Alfa over dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden.
+
+5. In afwijking van het eerste en tweede lid vervalt de verplichting tot advisering indien de verzoeker ongeletterd is, ten minste 65 jaar is en aantoont dat hij ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
 
 ##### Artikel 12
 
-1. Aan de verzoeker die in aanmerking komt voor ontheffing van een onderdeel van de naturalisatietoets als in deze paragraaf bedoeld, geeft het hoofd van het Expertisecentrum voor Toetsen en Examens een Certificaat naturalisatietoets waarop is aangetekend welk onderdeel of welke onderdelen de verzoeker niet heeft afgelegd.
-
-2. De aantekening geschiedt alleen op verzoek van degene aan wie het Certificaat naturalisatietoets wordt afgegeven.
-
-3. Het hoofd treedt niet in een beoordeling of de verzoeker terecht afziet van het afleggen van een onderdeel van de naturalisatietoets.
-
-4. Bij de indiening van het naturalisatieverzoek legt de verzoeker aan de Gouverneur het bewijsstuk dan wel de bewijsstukken over op grond waarvan hij de gedeeltelijke ontheffing heeft.
+Vervallen
 
 #### Paragraaf 6. Examengeld
 
@@ -189,7 +187,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 
 Deze regeling wordt aangehaald als: Regeling naturalisatietoets Curaçao 2011.
 
-## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029348&paragraaf=2&artikel=2&z=2011-01-01&g=2011-01-01), van de Regeling naturalisatietoets Curaçao 2011
+## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029348&paragraaf=2&artikel=2&z=2022-04-01&g=2022-04-01), van de Regeling naturalisatietoets Curaçao 2011
 
 ### Thema’s van bevraging
 
@@ -199,6 +197,6 @@ Vragen van het examen ‘Kennis van de staatsinrichting en samenleving’ worden
 
 De volgende eindtermen gelden:
 
-## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029348&paragraaf=3&artikel=5&z=2011-01-01&g=2011-01-01), van de Regeling naturalisatietoets Curaçao 2011
+## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029348&paragraaf=3&artikel=5&z=2022-04-01&g=2022-04-01), van de Regeling naturalisatietoets Curaçao 2011
 
 Deze regeling wordt met de toelichting in de Staatscourant en het Publicatieblad van Curaçao geplaatst.
