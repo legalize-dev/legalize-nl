@@ -4,7 +4,7 @@ identifier: "BWBR0041942"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-01"
-last_updated: "2021-01-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041942"
 soort: "ministeriele-regeling"
@@ -64,13 +64,9 @@ De aanvraag van compensatie na langdurige arbeidsongeschiktheid wordt afgewezen,
 
 - b. meer dan zes maanden na de dag waarop de werkgever de volledige vergoeding aan de werknemer heeft verstrekt.
 
-##### Artikel 3. Afwijkende aanvraag- en beslistermijnen oude gevallen
+##### Artikel 3. Afwijkende termijnen oude gevallen
 
-1. Indien de volledige vergoeding, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041942&paragraaf=2&artikel=2&z=2021-01-01&g=2021-01-01), aan de werknemer verstrekt is voor 1 april 2020, wordt in afwijking van artikel 2, onderdeel b, de aanvraag van compensatie na langdurige arbeidsongeschiktheid ingediend voor 1 oktober 2020.
-
-2. Het UWV beslist binnen zes maanden na ontvangst van de aanvraag indien het een aanvraag betreft waarvan het einde van de periode waarvoor het opzegverbod als bedoeld in [artikel 670, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670) geldt, gelegen is voor 1 april 2020.
-
-3. Dit artikel vervalt met ingang van 1 april 2022.
+Vervallen
 
 ##### Artikel 4. Aanvraagtermijn
 
