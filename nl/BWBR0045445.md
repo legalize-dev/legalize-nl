@@ -4,7 +4,7 @@ identifier: "BWBR0045445"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-11-05"
-last_updated: "2021-09-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045445"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ In deze regeling wordt verstaan onder:
 
 - **lesuur:** les bewegingsonderwijs van ten minste 45 minuten;
 
-- **Minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **Minister:** Minister voor Primair en Voortgezet Onderwijs;
 
-- **procesbegeleider:** procesbegeleider als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2021-09-01&g=2021-09-01);
+- **procesbegeleider:** procesbegeleider als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-04-01&g=2022-04-01);
 
 - **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), of [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), niet zijnde een school voor voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
@@ -84,11 +84,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 4. Subsidieplafond en maximale hoogte subsidie
 
-1. Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag beschikbaar van ten hoogste:
+1. Voor subsidieverstrekking ten aanzien van aanvragen die zijn ingediend in het tijdvak, bedoeld in [artikel 7, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=7&z=2022-04-01&g=2022-04-01), is in totaal een bedrag beschikbaar van ten hoogste:
 
-- a. € 9.198.000,00 voor aanvragen voor subsidie als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2021-09-01&g=2021-09-01); en
+- a. € 9.198.000,00 voor aanvragen voor subsidie als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-04-01&g=2022-04-01); en
 
-- b. € 6.132.000,00 voor aanvragen voor subsidie als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2021-09-01&g=2021-09-01).
+- b. € 6.132.000,00 voor aanvragen voor subsidie als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-04-01&g=2022-04-01).
+
+1a. Voor verstrekking van subsidie ten aanzien van aanvragen die zijn ingediend in het tijdvak, bedoeld in [artikel 7, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=7&z=2022-04-01&g=2022-04-01), is een bedrag beschikbaar van ten hoogste:
+
+- a. € 2.518.637,40 voor aanvragen voor subsidie als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-04-01&g=2022-04-01); en
+
+- b. € 1.679.091,60 voor aanvragen voor subsidie als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-04-01&g=2022-04-01).
 
 2. De subsidie bedraagt maximaal € 25.000,00 per bevoegd gezag, indien voor één school subsidie wordt aangevraagd.
 
@@ -96,21 +102,27 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. Voor subsidieontvangers op Bonaire, Sint Eustatius of Saba worden de subsidiebedragen omgerekend in dollars tegen de vastgestelde wisselkoers op het moment van de subsidievaststelling.
 
-5. Indien het bevoegd gezag zowel een subsidieaanvraag doet voor de activiteiten, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2021-09-01&g=2021-09-01), als voor de activiteiten, bedoeld in artikel 3, eerste lid, onderdeel b, kan het subsidiebedrag voor beide aanvragen gezamenlijk niet meer bedragen dan de maximumbedragen, bedoeld in het tweede en derde lid.
+5. Indien het bevoegd gezag zowel een subsidieaanvraag doet voor de activiteiten, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-04-01&g=2022-04-01), als voor de activiteiten, bedoeld in artikel 3, eerste lid, onderdeel b, kan het subsidiebedrag voor beide aanvragen gezamenlijk niet meer bedragen dan de maximumbedragen, bedoeld in het tweede en derde lid.
 
 6. De Minister verstrekt subsidie voor loonkosten tot een maximum uurtarief van € 90,00, inclusief overhead en BTW.
 
 ##### Artikel 5. Wijze van verdeling beschikbare middelen
 
-1. Indien een subsidieplafond ontoereikend is om alle aanvragen toe te wijzen, worden de binnengekomen aanvragen ten laste van het subsidieplafond door middel van loting gerangschikt.
+1. Na binnenkomst van de aanvragen wordt eerst de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-04-01&g=2022-04-01), verdeeld en vervolgens de subsidie, bedoeld in artikel 3, eerste lid, onderdeel b.
 
-2. Na binnenkomst van de aanvragen wordt eerst de subsidie als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2021-09-01&g=2021-09-01), verdeeld en vervolgens de subsidie als bedoeld in artikel 3, eerste lid, onderdeel b.
+2. Indien een subsidieplafond ontoereikend is om alle aanvragen toe te wijzen:
 
-3. Indien een subsidieplafond toereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, worden de middelen toegevoegd aan het andere onderdeel en wordt de subsidie verdeeld over de aanwezige resterende aanvragen. Indien het resterende subsidieplafond daarvoor ontoereikend is, worden de binnengekomen aanvragen in dat onderdeel wederom gerangschikt door middel van loting.
+- a. wordt eerst voorrang verleend aan de binnengekomen aanvragen van bevoegde gezagsorganen, gevestigd op Bonaire, Sint Eustatius of Saba; en
 
-4. Aanvragen die na het einde van een aanvraagtijdvak worden ingediend, worden afgewezen.
+- b. wordt vervolgens voorrang verleend aan de binnengekomen aanvragen van bevoegde gezagsorganen aan wie niet eerder op grond van deze regeling subsidie is verstrekt.
 
-5. Indien het tweede aanvraagtijdvak, bedoeld in [artikel 7, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=7&z=2021-09-01&g=2021-09-01), wordt opengesteld, hebben bevoegd gezagsorganen aan wie na het eerste aanvraagtijdvak, bedoeld in artikel 7, vierde lid, onderdeel a, geen subsidie werd verstrekt voorrang. Het eerste lid is daarbij van overeenkomstige toepassing.
+3. Indien een subsidieplafond ontoereikend is om alle binnengekomen aanvragen, bedoeld in het tweede lid, onderdeel b, toe te wijzen, worden de aanvragen door middel van loting gerangschikt.
+
+4. Indien na toepassing van het tweede lid binnen een subsidieplafond nog middelen resteren, worden de overige binnengekomen aanvragen door middel van loting gerangschikt.
+
+5. Indien na toewijzing van alle daarvoor in aanmerking komende aanvragen binnen een subsidieplafond nog middelen resteren, worden deze middelen toegevoegd aan het andere subsidieplafond.
+
+6. Aanvragen die na het einde van een aanvraagtijdvak worden ingediend, worden afgewezen.
 
 ##### Artikel 6. Verplichting subsidie
 
@@ -122,13 +134,13 @@ De subsidieontvanger is verplicht desgevraagd alle benodigde informatie te verst
 
 2. Het activiteitenplan bestaat uit een beschrijving van het doel waarvoor subsidie wordt aangevraagd en de begroting bestaat uit een specificatie van het aantal uren en het tarief waarvoor een procesbegeleider zal worden ingezet.
 
-3. Per bevoegd gezag kan per aanvraagtijdvak eenmaal een aanvraag worden ingediend voor subsidie als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2021-09-01&g=2021-09-01) en eenmaal voor subsidie als bedoeld in artikel 3, eerste lid, onderdeel b.
+3. Per bevoegd gezag kan per aanvraagtijdvak eenmaal een aanvraag worden ingediend voor subsidie als bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-04-01&g=2022-04-01) en eenmaal voor subsidie als bedoeld in artikel 3, eerste lid, onderdeel b.
 
 4. De subsidieaanvragen kunnen worden ingediend in het tijdvak van:
 
-a. 1 september 2021 tot en met 30 september 2021; en, indien na de subsidieverstrekking naar aanleiding van het eerste tijdvak nog een bedrag als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=4&z=2021-09-01&g=2021-09-01), resteert, van
+- a. 1 september 2021 tot en met 30 september 2021; en, indien na de subsidieverstrekking naar aanleiding van het eerste tijdvak nog een bedrag als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=4&z=2022-04-01&g=2022-04-01), resteert, van
 
-b. 15 februari 2022 tot en met 15 maart 2022.
+- b. 15 februari 2022 tot en met 15 mei 2022.
 
 5. Voor het aanvraagtijdvak bedoeld in het vierde lid, onderdeel b, kan een bevoegd gezag alleen een aanvraag indienen voor het inhuren of aanstellen van een procesbegeleider ten behoeve van andere scholen dan waarvoor een aanvraag is ingediend in het eerste tijdvak bedoeld in het vierde lid, onderdeel a.
 
@@ -138,9 +150,9 @@ b. 15 februari 2022 tot en met 15 maart 2022.
 
 1. De subsidie wordt direct vastgesteld op uiterlijk:
 
-- a. 31 december 2021, indien het gaat om een aanvraag die is ingediend in het aanvraagtijdvak, bedoeld in [artikel 7, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=7&z=2021-09-01&g=2021-09-01); en
+- a. 31 december 2021, indien het gaat om een aanvraag die is ingediend in het aanvraagtijdvak, bedoeld in [artikel 7, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=7&z=2022-04-01&g=2022-04-01); en
 
-- b. 15 april 2022, indien het gaat om een aanvraag die is ingediend in het aanvraagtijdvak bedoeld in [artikel 7, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=7&z=2021-09-01&g=2021-09-01).
+- b. 10 juli 2022, indien het gaat om een aanvraag die is ingediend in het aanvraagtijdvak bedoeld in [artikel 7, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=7&z=2022-04-01&g=2022-04-01).
 
 2. De Minister bepaalt in de beschikking het betaalritme.
 
@@ -150,7 +162,7 @@ b. 15 februari 2022 tot en met 15 maart 2022.
 
 ##### Artikel 9. Besteding subsidie
 
-Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten in lijn met de doelstellingen zoals beschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2021-09-01&g=2021-09-01).
+Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten in lijn met de doelstellingen zoals beschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045445&artikel=3&z=2022-04-01&g=2022-04-01).
 
 ##### Artikel 10. Inwerkingtreding en vervaldatum
 
