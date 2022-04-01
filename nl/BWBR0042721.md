@@ -4,7 +4,7 @@ identifier: "BWBR0042721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042721"
 soort: "ministeriele-regeling"
@@ -68,13 +68,7 @@ Voor het inzien van het handelsregister en de bescheiden die daarbij krachtens w
 
 Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer van Koophandel® van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden de volgende tarieven berekend:
 
-- a. voor afschriften uit een dossier of gedeelte daarvan:
-
-- –. indien een afschrift wordt verstrekt van een gedeponeerd document dat ook via internet beschikbaar is: € 15,60 per afschrift;
-
-- –. indien de verwerkingstijd minder dan 30 minuten bedraagt: € 15,60 per dossier of gedeelte daarvan, ongeacht het aantal bladzijden;
-
-- –. indien de verwerkingstijd 30 of meer minuten bedraagt: € 51,95 per dossier of gedeelte daarvan, ongeacht het aantal bladzijden;
+- a. voor afschriften van jaarrekeningen, opgaveformulieren of andere gedeponeerde documenten: € 14,00 per document;
 
 - b. voor Uittreksels Handelsregister Kamer van Koophandel® op papier: € 15,60 per uittreksel;
 
@@ -84,7 +78,7 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 1. In dit artikel wordt onder KVK-nummer verstaan: het unieke nummer, bedoeld in de [artikelen 9, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), en [13, onder a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=13).
 
-2. Voor het verstrekken van overzichten van ondernemingen of rechtspersonen van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden, onverminderd de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=1&z=2022-01-01&g=2022-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=2&z=2022-01-01&g=2022-01-01), de volgende tarieven berekend:
+2. Voor het verstrekken van overzichten van ondernemingen of rechtspersonen van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden, onverminderd de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=1&z=2022-04-01&g=2022-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=2&z=2022-04-01&g=2022-04-01), de volgende tarieven berekend:
 
 - a. voor digitaal gewaarmerkte Uittreksels Handelsregister Kamer van Koophandel® in bulk:
 
@@ -246,7 +240,7 @@ Voor de uitgifte van de identificatiecode voor juridische entiteiten die ingesch
 
 De wijze van inzien of verstrekking van gegevens, bedoeld in [artikel 2, zesde lid, van het Financieel besluit handelsregister 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2), is vastgesteld in de bijlage bij deze regeling.
 
-## Bijlage. behorende bij [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=5a&z=2022-01-01&g=2022-01-01)
+## Bijlage. behorende bij [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=5a&z=2022-04-01&g=2022-04-01)
 
 **De wijze van inzien of verstrekking van gegevens, bedoeld in artikel 2, zesde lid, van het Financieel besluit handelsregister 2014**
 
