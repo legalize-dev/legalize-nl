@@ -4,7 +4,7 @@ identifier: "BWBR0042355"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-01"
-last_updated: "2019-08-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042355"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media.
+- **minister:** Minister voor Primair en Voortgezet Onderwijs.
 
 ##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
@@ -56,7 +56,7 @@ De minister kan een instellingssubsidie aan de Stichting Dienstencentrum GVO en 
 
 ##### Artikel 4. Criteria voor subsidieverstrekking
 
-1. Het faciliteren van het geven en verzorgen van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042355&artikel=3&z=2019-08-01&g=2019-08-01), vindt slechts plaats indien de groepsgrootte per stroming minimaal zeven leerlingen bedraagt.
+1. Het faciliteren van het geven en verzorgen van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042355&artikel=3&z=2022-04-01&g=2022-04-01), vindt slechts plaats indien de groepsgrootte per stroming minimaal zeven leerlingen bedraagt.
 
 2. Het godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs wordt gegeven op verzoek van ouders.
 
@@ -72,9 +72,9 @@ De minister kan een instellingssubsidie aan de Stichting Dienstencentrum GVO en 
 
 De egalisatiereserve bedraagt ten hoogste 10% van het bedrag dat door de minister bij de beschikking tot verlening is bepaald.
 
-##### Artikel 7. Wijziging van de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 7. Omhangbepaling
 
-Wijzigt de Kaderregeling subsidies OCW, SZW en VWS.
+Deze regeling is gebaseerd op [artikel 27, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=27) en [artikel 29, tweede lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=29).
 
 ##### Artikel 8. Inwerkingtreding en vervaldatum
 
