@@ -4,7 +4,7 @@ identifier: "BWBR0046444"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-03-23"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046444"
 soort: "wet"
@@ -137,8 +137,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op de expertisecentra.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV. [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955)
 
 Dit onderdeel is nog niet inwerking getreden
@@ -157,8 +155,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op het primair onderwijs.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX. [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399)
 
 Wijzigt de Wet op het voortgezet onderwijs.
@@ -166,8 +162,6 @@ Wijzigt de Wet op het voortgezet onderwijs.
 ##### Artikel XX. [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280)
 
 Wijzigt de Wet primair onderwijs BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI. [Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878)
 
@@ -229,12 +223,14 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. In dat besluit kan worden bepaald dat:
 
-- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2022-03-23&g=2022-03-23) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
+- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2022-04-01&g=2022-04-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
 
-- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2022-03-23&g=2022-03-23) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
+- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2022-04-01&g=2022-04-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
 
 ##### Artikel XXXII. Citeertitel
 
 Deze wet wordt aangehaald als Verzamelwet OCW met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
