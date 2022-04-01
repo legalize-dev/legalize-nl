@@ -4,7 +4,7 @@ identifier: "BWBV0006779"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-04-01"
-last_updated: "2018-11-30"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006779"
 soort: "verdrag"
@@ -54,7 +54,7 @@ For the purpose of this Agreement, unless the context otherwise requires:
 
 - b). the term “aeronautical authorities” means in the case of the Czech Republic the Ministry of Transport and, in the case of the Kingdom of the Netherlands, in respect of Curaçao, the Minister responsible for Civil Aviation of Curaçao, or, in both cases, any other authority legally empowered to perform the functions exercised by the said aeronautical authorities;
 
-- c). the term “designated airline” means each airline that one Contracting Party has designated in writing to the other Contracting Party and which has been authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=3&z=2018-11-30&g=2018-11-30) of this Agreement to operate the agreed services on the specified routes in conformity with [paragraph 1. of Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=2&z=2018-11-30&g=2018-11-30) of this Agreement;
+- c). the term “designated airline” means each airline that one Contracting Party has designated in writing to the other Contracting Party and which has been authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=3&z=2022-04-01&g=2022-04-01) of this Agreement to operate the agreed services on the specified routes in conformity with [paragraph 1. of Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=2&z=2022-04-01&g=2022-04-01) of this Agreement;
 
 - d). the terms “territory”, “air service”, “international air service”, “airline” and “stop for non-traffic purposes” have the meaning respectively assigned to them in [Articles 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=2) and [96 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=96);
 
@@ -80,7 +80,7 @@ For the purpose of this Agreement, unless the context otherwise requires:
 
 - d). the right to embark and disembark in the territory of the third countries, at the points specified in the Annex to this Agreement, passengers, baggage and cargo including mail, separately or in combination, destined for or coming from points in the territory of the other Contracting Party, specified in the Annex to this Agreement.
 
-3. The airlines of each Contracting Party, other than those designated under [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=3&z=2018-11-30&g=2018-11-30) of this Agreement, shall also enjoy the rights specified in paragraph 2 a and b of this Article.
+3. The airlines of each Contracting Party, other than those designated under [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=3&z=2022-04-01&g=2022-04-01) of this Agreement, shall also enjoy the rights specified in paragraph 2 a and b of this Article.
 
 4. Nothing in paragraph 2 of this Article shall be deemed to confer on the designated airline of one Contracting Party the right of embarking, in the territory of the other Contracting Party, passengers, baggage and cargo including mail carried for remuneration or hire and destined for another point in the territory of that other Contracting Party.
 
@@ -92,7 +92,7 @@ For the purpose of this Agreement, unless the context otherwise requires:
 
 3. The aeronautical authorities of one Contracting Party may require the airline designated by the other Contracting Party to prove that it is qualified to fulfil the conditions prescribed under the laws and regulations applied to the operation of international air services by the said authorities in conformity with the provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
-4. The aeronautical authorities of each Contracting Party shall have the right to refuse to accept the designation of an airline and to refuse to grant the operating authorization referred to in paragraph 2 of this Article or to impose such conditions as it may deem necessary for the exercise of the rights specified in [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=2&z=2018-11-30&g=2018-11-30) of this Agreement, whenever the Contracting Party has no proof that:
+4. The aeronautical authorities of each Contracting Party shall have the right to refuse to accept the designation of an airline and to refuse to grant the operating authorization referred to in paragraph 2 of this Article or to impose such conditions as it may deem necessary for the exercise of the rights specified in [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=2&z=2022-04-01&g=2022-04-01) of this Agreement, whenever the Contracting Party has no proof that:
 
 - a). in the case of an airline designated by the Czech Republic:
 
@@ -110,7 +110,7 @@ For the purpose of this Agreement, unless the context otherwise requires:
 
 ##### Article 4. Revocation and Suspension of Operating Authorization
 
-1. The aeronautical authorities of each Contracting Party shall have the right to revoke an operating authorization or to suspend the exercise of the rights specified in [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=2&z=2018-11-30&g=2018-11-30) of this Agreement of the designated airline of the other Contracting Party or to impose such conditions, temporary or permanent, as it may deem necessary on the exercise of such rights, if:
+1. The aeronautical authorities of each Contracting Party shall have the right to revoke an operating authorization or to suspend the exercise of the rights specified in [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=2&z=2022-04-01&g=2022-04-01) of this Agreement of the designated airline of the other Contracting Party or to impose such conditions, temporary or permanent, as it may deem necessary on the exercise of such rights, if:
 
 - a). in the case of an airline designated by the Czech Republic:
 
@@ -156,7 +156,7 @@ For the purpose of this Agreement, unless the context otherwise requires:
 
 8. When an incident or threat of an incident of unlawful seizure of civil aircraft or other unlawful acts against the safety of such aircraft, their passengers and crew, airports or air navigation facilities occurs, the Contracting Parties shall assist each other by facilitating communications and other appropriate measures intended to terminate rapidly and safely such incident or threat thereof.
 
-9. When a Contracting Party has reasonable grounds to believe that the other Contracting Party has departed from the aviation security provisions of this Article, the aeronautical authorities of that Contracting Party may request immediate consultations with the aeronautical authorities of the other Contracting Party. Failure to reach a satisfactory agreement within thirty (30) days from the date of the receipt of such request shall constitute grounds for application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=4&z=2018-11-30&g=2018-11-30) of this Agreement. If required by a serious emergency, either Contracting Party may take interim action prior to the expiry of this period.
+9. When a Contracting Party has reasonable grounds to believe that the other Contracting Party has departed from the aviation security provisions of this Article, the aeronautical authorities of that Contracting Party may request immediate consultations with the aeronautical authorities of the other Contracting Party. Failure to reach a satisfactory agreement within thirty (30) days from the date of the receipt of such request shall constitute grounds for application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=4&z=2022-04-01&g=2022-04-01) of this Agreement. If required by a serious emergency, either Contracting Party may take interim action prior to the expiry of this period.
 
 ##### Article 7. Aviation Safety
 
@@ -166,7 +166,7 @@ For the purpose of this Agreement, unless the context otherwise requires:
 
 3. Each Contracting Party may request consultations at any time concerning safety standards in any area relating to aircrew, aircraft or their operation adopted by the other Contracting Party. Such consultations shall take place within thirty (30) days from the date of the delivery of that request.
 
-4. If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards in any such area that are at least equal to the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within fifteen (15) days or such longer period as may be agreed, shall be grounds for the application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=4&z=2018-11-30&g=2018-11-30) of this Agreement.
+4. If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards in any such area that are at least equal to the minimum standards established at that time pursuant to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within fifteen (15) days or such longer period as may be agreed, shall be grounds for the application of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=4&z=2022-04-01&g=2022-04-01) of this Agreement.
 
 5. Notwithstanding the obligations mentioned in [Article 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=33) it is agreed that any aircraft operated by or, under the lease agreement, on behalf of an airline of one Contracting Party on services to or from the territory of the other Contracting Party may, while within the territory of the other Contracting Party, be made the subject of an examination by the authorized representatives of the other Contracting Party, on board and around the aircraft to check both the validity of the aircraft documents and those of its crew and the apparent condition of the aircraft and its equipment (in this Article called “ramp inspection”), provided this does not lead to unreasonable delay.
 
@@ -216,7 +216,7 @@ whether or not such items are used or consumed wholly or partly within the terri
 
 ##### Article 10. Direct Transit
 
-Passengers, baggage and cargo in direct transit through the territory of a Contracting Party, not leaving the area of the airport reserved for such purpose shall be subject, except in respect of security provisions referred to in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=6&z=2018-11-30&g=2018-11-30) of this Agreement and prevention of trafficking of narcotic drugs and psychotropic substances, as well as prevention of illegal entry, to no more than a simplified control. Baggage and cargo in direct transit shall be exempt from customs duties and other charges.
+Passengers, baggage and cargo in direct transit through the territory of a Contracting Party, not leaving the area of the airport reserved for such purpose shall be subject, except in respect of security provisions referred to in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=6&z=2022-04-01&g=2022-04-01) of this Agreement and prevention of trafficking of narcotic drugs and psychotropic substances, as well as prevention of illegal entry, to no more than a simplified control. Baggage and cargo in direct transit shall be exempt from customs duties and other charges.
 
 ##### Article 11. Sale of Services and Transfer of Funds
 
@@ -302,7 +302,7 @@ The aeronautical authorities of each Contracting Party shall provide the aeronau
 
 ##### Article 21. Amendments
 
-1. If either of the Contracting Parties considers it desirable to amend any provision of this Agreement, such amendment shall be agreed upon by the Contracting Parties and shall be confirmed in writing through diplomatic channels. Such amendment shall enter into force in accordance with the provisions of [Article 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=26&z=2018-11-30&g=2018-11-30) of this Agreement.
+1. If either of the Contracting Parties considers it desirable to amend any provision of this Agreement, such amendment shall be agreed upon by the Contracting Parties and shall be confirmed in writing through diplomatic channels. Such amendment shall enter into force in accordance with the provisions of [Article 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006779&artikel=26&z=2022-04-01&g=2022-04-01) of this Agreement.
 
 2. In the event a general multilateral convention related to international air transport and affecting the relations between the two Contracting Parties enters into force, this Agreement shall be amended to conform to the provisions of such multilateral convention in so far as those provisions have been accepted by both Contracting Parties.
 
