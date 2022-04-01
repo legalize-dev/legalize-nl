@@ -4,7 +4,7 @@ identifier: "BWBR0008688"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2021-04-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008688"
 soort: "AMvB"
@@ -58,33 +58,15 @@ ln dit besluit wordt verstaan onder «de wet»: de [Wet op de beroepen in de ind
 
 ##### Artikel 2
 
-1. Er zijn vijf regionale tuchtcolleges waarvan de zetels zijn te Groningen, Zwolle, Amsterdam, Den Haag en Eindhoven.
+1. Het rechtsgebied van het regionale tuchtcollege dat is gevestigd te Amsterdam omvat de provincies Noord-Holland en Zuid-Holland.
 
-2. De ambtsgebieden van de tuchtcolleges omvatten de volgende provincies:
+2. Het rechtsgebied van het regionale tuchtcollege dat is gevestigd te ’s-Hertogenbosch omvat de provincies Limburg, Noord-Brabant, Utrecht en Zeeland.
 
-- a. van het tuchtcollege te Groningen: de provincies Groningen, Friesland en Drente;
-
-- b. van het tuchtcollege te Zwolle: de provincies Overijssel, Flevoland en Gelderland;
-
-- c. van het tuchtcollege te Amsterdam: de provincie Noord-Holland;
-
-- d. van het tuchtcollege te Den Haag: de provincie Zuid-Holland;
-
-- e. van het tuchtcollege te Eindhoven: de provincies Noord-Brabant, Limburg, Utrecht en Zeeland.
+3. Het rechtsgebied van het regionale tuchtcollege dat is gevestigd te Zwolle omvat de provincies Drenthe, Flevoland, Friesland, Gelderland, Groningen en Overijssel.
 
 ##### Artikel 3
 
-1. Het regionale tuchtcollege te Amsterdam is bevoegd tot het behandelen van een zaak in eerste aanleg indien degene over wie wordt geklaagd, geen bekende woonplaats heeft.
-
-2. Indien degene over wie wordt geklaagd een bekende woonplaats in het buitenland heeft, is tot het behandelen van een zaak in eerste aanleg bevoegd het regionale tuchtcollege binnen wiens ambtsgebied het desbetreffende handelen of nalaten is geschied.
-
-3. Indien ter zake van hetzelfde handelen of nalaten wordt geklaagd over meerdere personen als bedoeld in artikel 47, tweede lid, van de wet, die niet in het ambtsgebied van één tuchtcollege wonen, is tot het behandelen van een zaak in eerste aanleg bevoegd het regionale tuchtcollege binnen wiens ambtsgebied het desbetreffende handelen of nalaten is geschied.
-
-4. Indien het handelen of nalaten is geschied binnen het ambtsgebied van meer dan één tuchtcollege en ter zake van dat handelen of nalaten wordt geklaagd over meerdere personen als bedoeld in artikel 47, tweede lid, van de wet, die niet in het ambtsgebied van één tuchtcollege wonen, is tot het behandelen van een zaak in eerste aanleg bevoegd het regionale tuchtcollege binnen welks ambtsgebied de klager woont.
-
-5. Indien een klaagschrift is ingediend bij een regionaal tuchtcollege ter zake van enig in artikel 47, eerste lid, van de wet bedoeld handelen of nalaten van een lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot van dat tuchtcollege, verwijst de voorzitter van het college de zaak naar een aangrenzend regionaal tuchtcollege. De zaak wordt alsdan behandeld door het tuchtcollege waarnaar is verwezen.
-
-6. Indien het klaagschrift is ingediend bij een onbevoegd tuchtcollege, wordt het onverwijld doorgezonden aan het bevoegde tuchtcollege, onder gelijktijdige mededeling hiervan aan de klager. In het geval, bedoeld in de eerste volzin, geldt als de datum van indiening van het klaagschrift die van indiening bij het onbevoegde college.
+Vervallen
 
 #### Paragraaf 2. Procedure in eerste aanleg
 
@@ -116,7 +98,7 @@ ln dit besluit wordt verstaan onder «de wet»: de [Wet op de beroepen in de ind
 
 ##### Artikel 5
 
-Indien het klaagschrift niet voldoet aan [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=4&z=2021-04-01&g=2021-04-01), deelt het tuchtcollege de klager, indien deze bekend is, mede in hoeverre het klaagschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
+Indien het klaagschrift niet voldoet aan [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=4&z=2022-04-01&g=2022-04-01), deelt het tuchtcollege de klager, indien deze bekend is, mede in hoeverre het klaagschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
 
 ##### Artikel 6
 
@@ -128,13 +110,13 @@ Indien het klaagschrift niet voldoet aan [artikel 4, eerste of tweede lid](https
 
 ##### Artikel 7
 
-De terechtzitting vindt plaats op de standplaats van het regionale tuchtcollege. Voor het regionale tuchtcollege Eindhoven wordt ’s-Hertogenbosch aangewezen als nevenzittingsplaats.
+Vervallen
 
 ##### Artikel 8
 
 1. De secretaris nodigt de klager en degene over wie is geklaagd, schriftelijk uit op de terechtzitting te verschijnen, onder mededeling van de plaats, de dag en het uur van aanvang van het onderzoek op de terechtzitting, de samenstelling van het tuchtcollege, de plaats waar en de tijdstippen waarop de processtukken ter inzage liggen, en de namen van de getuigen en de deskundigen die zijn uitgenodigd of opgeroepen.
 
-2. Bij de uitnodiging wordt een termijn van ten minste drie weken in acht genomen. Indien de inspecteur een verzoek als bedoeld in [artikel 65, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65) heeft gedaan, mag een kortere termijn in acht worden genomen. In dat geval bepaalt het tuchtcollege welke termijnen in plaats van die genoemd in [de artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=9&z=2021-04-01&g=2021-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2021-04-01&g=2021-04-01), in acht moeten worden genomen. Van het verzoek van de inspecteur en van de door het tuchtcollege vastgestelde termijnen wordt door de secretaris mededeling gedaan in de uitnodiging.
+2. Bij de uitnodiging wordt een termijn van ten minste drie weken in acht genomen. Indien de inspecteur een verzoek als bedoeld in [artikel 65, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65) heeft gedaan, mag een kortere termijn in acht worden genomen. In dat geval bepaalt het tuchtcollege welke termijnen in plaats van die genoemd in [de artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=9&z=2022-04-01&g=2022-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01), in acht moeten worden genomen. Van het verzoek van de inspecteur en van de door het tuchtcollege vastgestelde termijnen wordt door de secretaris mededeling gedaan in de uitnodiging.
 
 ##### Artikel 9
 
@@ -238,11 +220,11 @@ De voorzitter beslist de ter terechtzitting voorkomende geschillen betreffende d
 
 ##### Artikel 21
 
-Indien het beroepschrift niet voldoet aan [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=2021-04-01&g=2021-04-01), deelt het centrale tuchtcollege aan de indiener van het beroep mede in hoeverre het beroepschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
+Indien het beroepschrift niet voldoet aan [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=2022-04-01&g=2022-04-01), deelt het centrale tuchtcollege aan de indiener van het beroep mede in hoeverre het beroepschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
 
 ##### Artikel 22
 
-Op de procedure in beroep zijn de[artikelen 6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-04-01&g=2021-04-01), [17 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2021-04-01&g=2021-04-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2021-04-01&g=2021-04-01) van overeenkomstige toepassing.
+Op de procedure in beroep zijn de[artikelen 6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-04-01&g=2022-04-01), [17 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2022-04-01&g=2022-04-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing.
 
 ### HOOFDSTUK 3. HERZIENING
 
@@ -256,11 +238,11 @@ Op de procedure in beroep zijn de[artikelen 6 tot en met 16](https://wetten.over
 
 ##### Artikel 24
 
-Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=23&z=2021-04-01&g=2021-04-01), verklaart het centrale tuchtcollege bij met redenen omklede beslissing de indiener niet-ontvankelijk.
+Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=23&z=2022-04-01&g=2022-04-01), verklaart het centrale tuchtcollege bij met redenen omklede beslissing de indiener niet-ontvankelijk.
 
 ##### Artikel 25
 
-1. Indien geen toepassing wordt gegeven aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=24&z=2021-04-01&g=2021-04-01), gelast de voorzitter van het centrale tuchtcollege dat het verzoek verder wordt behandeld op een openbare terechtzitting op een door hem te bepalen dag.
+1. Indien geen toepassing wordt gegeven aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=24&z=2022-04-01&g=2022-04-01), gelast de voorzitter van het centrale tuchtcollege dat het verzoek verder wordt behandeld op een openbare terechtzitting op een door hem te bepalen dag.
 
 2. Zodra de behandeling op de terechtzitting is gelast, benoemt de voorzitter een ander lid of een plaatsvervangend lid van het college tot rapporteur.
 
@@ -280,7 +262,7 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 3. Het proces-verbaal wordt door de voorzitter en de secretaris ondertekend.
 
-4. Met betrekking tot de behandeling op de terechtzitting zijn [de artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=10&z=2021-04-01&g=2021-04-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=11&z=2021-04-01&g=2021-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=12&z=2021-04-01&g=2021-04-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=16&z=2021-04-01&g=2021-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2021-04-01&g=2021-04-01) van overeenkomstige toepassing.
+4. Met betrekking tot de behandeling op de terechtzitting zijn [de artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=10&z=2022-04-01&g=2022-04-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=11&z=2022-04-01&g=2022-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=12&z=2022-04-01&g=2022-04-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=16&z=2022-04-01&g=2022-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing.
 
 ##### Artikel 28
 
@@ -294,9 +276,13 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 2. Het centrale tuchtcollege draagt zo spoedig mogelijk alle op de zaak betrekking hebbende stukken over aan het regionale tuchtcollege waarnaar de zaak is verwezen.
 
+3. Bij een verwijzing als bedoeld in het eerste lid worden zaken die zijn behandeld door de voormalige regionale tuchtcolleges van Den Haag, Eindhoven en Groningen niet verwezen naar de colleges van respectievelijk Amsterdam, ’s-Hertogenbosch en Zwolle.
+
+4. Bij de behandeling van de zaak door het aangewezen regionale tuchtcollege wordt aan de behandeling niet deelgenomen door leden die eerder bij de behandeling van de betreffende zaak waren betrokken.
+
 ##### Artikel 30
 
-1. Van een bevel als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=2021-04-01&g=2021-04-01), wordt een afschrift gezonden aan de indiener van het verzoek tot herziening, aan Onze Minister, aan de inspecteur wie de aangelegenheid uit hoofde van de aan hem toevertrouwde belangen aangaat, en, indien de indiener van het verzoek tot herziening een militair is, aan Onze Minister van Defensie.
+1. Van een bevel als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=2022-04-01&g=2022-04-01), wordt een afschrift gezonden aan de indiener van het verzoek tot herziening, aan Onze Minister, aan de inspecteur wie de aangelegenheid uit hoofde van de aan hem toevertrouwde belangen aangaat, en, indien de indiener van het verzoek tot herziening een militair is, aan Onze Minister van Defensie.
 
 2. Indien bij de eindbeslissing waarvan herziening is verzocht, een van de in [artikel 48, eerste lid, onder d, e en f, en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=48) omschreven maatregelen was opgelegd, maakt Onze Minister, na ontvangst van het afschrift, bedoeld in het eerste lid, aantekening van de opschorting van de desbetreffende eindbeslissing in het register. Zolang het bevel tot opschorting van kracht is, wordt de betrokkene voor de toepassing van wettelijke bepalingen, betrekking hebbende op degenen die in het desbetreffende register ingeschreven staan, gelijkgesteld met een ingeschrevene, behalve indien bij de desbetreffende eindbeslissing ten aanzien van hem de maatregel, bedoeld in artikel 48, derde lid, van de wet was opgelegd.
 
@@ -304,19 +290,19 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 ##### Artikel 31
 
-1. Na de verwijzing, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=2021-04-01&g=2021-04-01), gelast de voorzitter van het regionale tuchtcollege waarnaar de zaak is verwezen, een vooronderzoek.
+1. Na de verwijzing, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=2022-04-01&g=2022-04-01), gelast de voorzitter van het regionale tuchtcollege waarnaar de zaak is verwezen, een vooronderzoek.
 
-2. De behandeling van de verwezen zaak vindt vervolgens plaats met overeenkomstige toepassing van de artikelen 65e, [66, eerste lid, tweede volzin, en tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=68), [69, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=70), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=71) en [72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=72), en [6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-04-01&g=2021-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2021-04-01&g=2021-04-01) van dit besluit, met dien verstande dat, voor zover in vorengenoemde artikelen verplichtingen van het tuchtcollege ten aanzien van de oorspronkelijke klager zijn opgenomen, deze slechts gelden indien zijn adres hier te lande bekend is. Voorts is [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2021-04-01&g=2021-04-01) van dit besluit van overeenkomstige toepassing, behoudens voor zover daarin wordt verwezen naar [artikel 69, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=69).
+2. De behandeling van de verwezen zaak vindt vervolgens plaats met overeenkomstige toepassing van de artikelen 65e, [66, eerste lid, tweede volzin, en tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=68), [69, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=70), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=71) en [72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=72), en [6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-04-01&g=2022-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01) van dit besluit, met dien verstande dat, voor zover in vorengenoemde artikelen verplichtingen van het tuchtcollege ten aanzien van de oorspronkelijke klager zijn opgenomen, deze slechts gelden indien zijn adres hier te lande bekend is. Voorts is [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2022-04-01&g=2022-04-01) van dit besluit van overeenkomstige toepassing, behoudens voor zover daarin wordt verwezen naar [artikel 69, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=69).
 
 ##### Artikel 32
 
-1. Indien het regionale tuchtcollege in de verwezen zaak beslist dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder **d**, **e** of **f**, of derde lid, van de wet was opgelegd, wordt gehandhaafd, verwijdert Onze Minister de aantekening van de opschorting, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=30&z=2021-04-01&g=2021-04-01), zodra hij het afschrift van de beslissing heeft ontvangen.
+1. Indien het regionale tuchtcollege in de verwezen zaak beslist dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder **d**, **e** of **f**, of derde lid, van de wet was opgelegd, wordt gehandhaafd, verwijdert Onze Minister de aantekening van de opschorting, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=30&z=2022-04-01&g=2022-04-01), zodra hij het afschrift van de beslissing heeft ontvangen.
 
 2. Indien de beslissing van het regionale tuchtcollege in de verwezen zaak inhoudt dat de eindbeslissing waarvan herziening is gevraagd, wordt vernietigd en dat een maatregel als bedoeld in artikel 48, eerste lid, onder **e**, van de wet wordt opgelegd, wordt die maatregel aangetekend in het register onder gelijktijdige verwijdering van de aantekening van de oorspronkelijk opgelegde maatregel en van die van de opschorting. Indien bij de beslissing van het college in de verwezen zaak de maatregel van schorsing wordt opgelegd, worden de aantekeningen van de oorspronkelijk opgelegde maatregel en van de opschorting daarvan in het register verwijderd. Van de schorsing wordt slechts aantekening gemaakt in het register voor zover de duur daarvan langer is dan de periode gedurende welke de oorspronkelijk opgelegde maatregel reeds ten uitvoer is gelegd.
 
 3. Indien de beslissing van het regionale tuchtcollege inhoudt dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder **d**, **e** of **f**, of derde lid, van de wet was opgelegd, wordt vernietigd en dat de klager niet-ontvankelijk wordt verklaard, de klacht wordt afgewezen dan wel ten aanzien van de betrokkene een maatregel als bedoeld in artikel 48, eerste lid, onder **a**, **b** of **c**, van de wet wordt opgelegd, worden de aantekeningen in het register van de oorspronkelijke maatregel en van de opschorting, verwijderd.
 
-### HOOFDSTUK 4. MAATREGELEN WEGENS ONGESCHIKTHEID
+### HOOFDSTUK 3a. HERSTEL
 
 ##### Artikel 33
 
@@ -324,9 +310,9 @@ De voordracht aan het regionale tuchtcollege tot het treffen van een voorziening
 
 ##### Artikel 34
 
-1. Met betrekking tot de behandeling van een zaak door het regionale tuchtcollege zijn [de artikelen 6 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-04-01&g=2021-04-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «de klager» en «degene over wie is geklaagd» telkens wordt gelezen «de inspecteur, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=4&artikel=33&z=2021-04-01&g=2021-04-01)» onderscheidenlijk «degene op wie de voordracht betrekking heeft» en dat in [artikel 17, eerste lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2021-04-01&g=2021-04-01), in plaats van «de klacht» wordt gelezen «de voordracht».
+1. Met betrekking tot de behandeling van een zaak door het regionale tuchtcollege zijn [de artikelen 6 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «de klager» en «degene over wie is geklaagd» telkens wordt gelezen «de inspecteur, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=4&artikel=33&z=2022-04-01&g=2022-04-01)» onderscheidenlijk «degene op wie de voordracht betrekking heeft» en dat in [artikel 17, eerste lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2022-04-01&g=2022-04-01), in plaats van «de klacht» wordt gelezen «de voordracht».
 
-2. Op de procedure in beroep tegen een eindbeslissing van het regionale tuchtcollege zijn [de artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=2021-04-01&g=2021-04-01) van overeenkomstige toepassing.
+2. Op de procedure in beroep tegen een eindbeslissing van het regionale tuchtcollege zijn [de artikelen 19 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing.
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
@@ -337,5 +323,15 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 36
 
 Dit besluit wordt aangehaald als: Tuchtrechtbesluit BIG.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 32a
+
+Voor de toepassing van [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50) wordt voor zaken waar in hoogste instantie een maatregel is opgelegd door de voormalige regionale tuchtcolleges van Den Haag, Eindhoven en Groningen, advies ingewonnen bij de colleges van respectievelijk Amsterdam, ’s-Hertogenbosch en Zwolle.
+
+### HOOFDSTUK 4. MAATREGELEN WEGENS ONGESCHIKTHEID
+
+### HOOFDSTUK 5. SLOTBEPALINGEN
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
