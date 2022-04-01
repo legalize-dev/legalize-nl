@@ -4,7 +4,7 @@ identifier: "BWBR0043066"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2021-09-10"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043066"
 soort: "ministeriele-regeling"
@@ -46,21 +46,21 @@ Besluit:
 
 In bijlage A bij deze regeling wordt geregeld:
 
-- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 34.4, onder a, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2021-09-10&g=2021-09-10).
+- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 2.2, onderdeel a, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-04-01&g=2022-04-01).
 
-- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 34.4, onder b, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2021-09-10&g=2021-09-10).
+- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 2.2, onderdeel b, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-04-01&g=2022-04-01).
 
-- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 34.4, onder c, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2021-09-10&g=2021-09-10).
+- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 2.2, onderdeel c, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-04-01&g=2022-04-01).
 
-- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 34.4, onder d, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.4), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2021-09-10&g=2021-09-10).
+- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 2.2, onderdeel d, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-04-01&g=2022-04-01).
 
 ##### Artikel 2. Meting onmogelijk of gegevens incompleet
 
-[Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2021-09-10&g=2021-09-10) regelt de wijze waarop de inspectie het aanvullend onderzoek, bedoeld in [artikel 34.6, eerste lid, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6), verricht.
+[Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2022-04-01&g=2022-04-01) regelt de wijze waarop de inspectie het aanvullend onderzoek, bedoeld in [artikel 2.4 van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4), verricht.
 
-##### Artikel 3. Intrekking
+##### Artikel 3. Omhangbepaling
 
-De [Regeling leerresultaten PO 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035918) wordt ingetrokken.
+Deze regeling is gebaseerd op de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2) en [2.4 van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4).
 
 ##### Artikel 4. Inwerkingtreding
 
@@ -112,7 +112,7 @@ Dit betekent niet automatisch dat de schoolweging geen goede afspiegeling van de
 
 Een school heeft meerdere vestigingen die door de inspectie als afzonderlijke objecten van toezicht worden gezien, maar er is in BRON niet duidelijk aangegeven op welke locatie de leerlingen zijn ingeschreven.
 
-In verband met de uitbraak van COVID-19 zijn er in het schooljaar 2021–2022 onvoldoende gegevens voor een betrouwbaar oordeel over de meting van de leerresultaten. Daarom worden de leerresultaten van scholen in het schooljaar 2021–2022 niet beoordeeld. Alle scholen krijgen in die periode ‘geen oordeel’. Er wordt geen aanvullend onderzoek als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2021-09-10&g=2021-09-10) verricht, overeenkomstig [artikel 34.6, tweede lid, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6).
+In verband met de uitbraak van COVID-19 zijn er in het schooljaar 2021–2022 onvoldoende gegevens voor een betrouwbaar oordeel over de meting van de leerresultaten. Daarom worden de leerresultaten van scholen in het schooljaar 2021–2022 niet beoordeeld. Alle scholen krijgen in die periode ‘geen oordeel’. Er wordt geen aanvullend onderzoek als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2022-04-01&g=2022-04-01) verricht, overeenkomstig [artikel 2.4, tweede lid, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4).
 
 ### Deel 2. Kleine scholen
 
@@ -136,7 +136,7 @@ Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de
 
 Als uit het onderzoek niet geconcludeerd kan worden dat de leerresultaten voldoende zijn, wordt geen oordeel gegeven.
 
-In het schooljaar 2021–2022 blijft het aanvullend onderzoek achterwege, overeenkomstig [artikel 34.6, tweede lid, Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=34.6).
+In het schooljaar 2021–2022 blijft het aanvullend onderzoek achterwege, overeenkomstig [artikel 2.4, tweede lid, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
