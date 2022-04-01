@@ -4,7 +4,7 @@ identifier: "BWBR0039399"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-01"
-last_updated: "2017-10-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039399"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Administratie
 
-De basisregistratie personen, en de polisadministratie zijn administraties als bedoeld in [artikel 49 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=49), [artikel 35, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=35), [artikel 15, tweede lid, onderdeel a, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=15), [artikel 17, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), en [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13).
+De basisregistratie personen, en de polisadministratie zijn administraties als bedoeld in [artikel 49 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=49), [artikel 35, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=35), [artikel 15, tweede lid, onderdeel a, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=15), de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), en [36b, vierde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36b), [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), en [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13).
 
 ##### Artikel 3. Inlichtingenplicht aan de SVB
 
@@ -138,7 +138,7 @@ De basisregistratie personen, en de polisadministratie zijn administraties als b
 
 ##### Artikel 4. Inlichtingenplicht aan het college
 
-De inlichtingenplicht, bedoeld in [artikel 17, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), en [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13), geldt niet ten aanzien van gegevens die in de basisregistratie zijn opgenomen ten aanzien van:
+De inlichtingenplicht, bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=17), en [36b, vierde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=36b), [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=13), en [artikel 13, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=13), geldt niet ten aanzien van gegevens die in de basisregistratie zijn opgenomen ten aanzien van:
 
 - a. een adreswijziging, bedoeld in [artikel 2.39 Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.39);
 
