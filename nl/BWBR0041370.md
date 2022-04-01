@@ -4,7 +4,7 @@ identifier: "BWBR0041370"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2018-09-28"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041370"
 soort: "AMvB"
@@ -50,19 +50,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **basisschool:** basisschool als bedoeld in [artikel 1 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), niet zijnde een school als bedoeld in [artikel 185 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=185);
+- **basisschool:** basisschool als bedoeld in [artikel 1 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), niet zijnde een school als bedoeld in [artikel 193 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193);
 
 - **onderwijsscore:** verwachte score van een kind in de leeftijd van 2,5 jaar tot 4 jaar of van een leerling van een basisschool die op basis van statistische gegevens door het Centraal bureau voor de statistiek wordt bepaald;
 
-- **achterstandsscore:** overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=3&z=2018-09-28&g=2018-09-28) berekende score van een gemeente voor de toekenning van een specifieke uitkering gemeentelijk onderwijsachterstandenbeleid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=2&z=2018-09-28&g=2018-09-28);
+- **achterstandsscore:** overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=3&z=2022-04-01&g=2022-04-01) berekende score van een gemeente voor de toekenning van een specifieke uitkering gemeentelijk onderwijsachterstandenbeleid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=2&z=2022-04-01&g=2022-04-01);
 
-- **teldatum:** datum als bedoeld in [artikel 121, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=121);
+- **teldatum:** datum als bedoeld in [artikel 118, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=118);
 
 - **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
 ##### Artikel 2. Criterium in aanmerking komen voor specifieke uitkering
 
-Een gemeente komt in een kalenderjaar in aanmerking voor een uitkering als bedoeld in [artikel 168a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=168a) indien de uitkomst van de formule, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=4&z=2018-09-28&g=2018-09-28), voor dat kalenderjaar groter is dan nul.
+Een gemeente komt in een kalenderjaar in aanmerking voor een uitkering als bedoeld in [artikel 163 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163) indien de uitkomst van de formule, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=4&z=2022-04-01&g=2022-04-01), voor dat kalenderjaar groter is dan nul.
 
 ##### Artikel 3. Achterstandsscore gemeente
 
@@ -70,7 +70,7 @@ Een gemeente komt in een kalenderjaar in aanmerking voor een uitkering als bedoe
 
 - a. de onderwijsscores van alle kinderen in de leeftijd van 2,5 jaar tot 4 jaar die op de teldatum zijn ingeschreven in de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), en die woonachtig zijn in de betreffende gemeente; en
 
-- b. de onderwijsscores van alle leerlingen van alle basisscholen die op de teldatum zijn ingeschreven op een basisschool in die gemeente en van wie het persoonsgebonden nummer tezamen met de in [artikel 178a, tweede lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178a) bedoelde gegevens uiterlijk op 1 december van het jaar van de teldatum zijn opgenomen in het basisregister onderwijs overeenkomstig [artikel 178b WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178b).
+- b. de onderwijsscores van alle leerlingen van alle basisscholen die op de teldatum zijn ingeschreven op een basisschool in die gemeente en van wie het persoonsgebonden nummer tezamen met de basisgegevens, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=8) binnen vier weken na die dag zijn opgenomen in het register onderwijsdeelnemers overeenkomstig [artikel 14 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=14).
 
 2. De achterstandsscore van een gemeente is de uitkomst van de formule A – B en wordt als volgt berekend:
 
@@ -89,25 +89,45 @@ Een gemeente komt in een kalenderjaar in aanmerking voor een uitkering als bedoe
 
 4. Het Centraal bureau voor de statistiek verstrekt jaarlijks aan Onze Minister de achterstandsscores van de gemeenten zoals die op grond van dit artikel zijn berekend en maakt deze zo spoedig mogelijk daarna openbaar.
 
-5. Bij de toepassing van dit artikel blijven scholen als bedoeld in [artikel 185 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=185) en de leerlingen van die scholen buiten beschouwing.
+5. Bij de toepassing van dit artikel blijven scholen als bedoeld in [artikel 193 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=193) en de leerlingen van die scholen buiten beschouwing.
 
 ##### Artikel 4. Criteria hoogte specifieke uitkering
 
 1. De hoogte van de uitkering bedraagt per kalenderjaar per gemeente de uitkomst van de formule (H + I) x (J / K), waarbij:
 
-H = de helft van de achterstandsscore in die gemeente zoals door het Centraal bureau voor de statistiek is vastgesteld op basis van de onderwijsscores op de teldatum twee jaar voorafgaand aan het betreffende kalenderjaar;
+H = de helft van de achterstandsscore in die gemeente zoals door het Centraal bureau voor de statistiek is vastgesteld op basis van de onderwijsscores op de teldatum één jaar voorafgaand aan het betreffende kalenderjaar;
 
-I = de helft van de achterstandsscore in die gemeente zoals door het Centraal bureau voor de statistiek is vastgesteld op basis van de onderwijsscores op de teldatum drie jaar voorafgaand aan het betreffende kalenderjaar;
+I = de helft van de achterstandsscore in die gemeente zoals door het Centraal bureau voor de statistiek is vastgesteld op basis van de onderwijsscores op de teldatum twee jaar voorafgaand aan het betreffende kalenderjaar;
 
-J = het voor het betreffende kalenderjaar in het kader van de Rijksbegroting beschikbare bedrag voor het doen van de uitkering, bedoeld in [artikel 168a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=168a), verminderd met het bedrag dat nodig is voor de aanvullingen op de uitkering, bedoeld in het tweede lid;
+J = het voor het betreffende kalenderjaar in het kader van de Rijksbegroting beschikbare bedrag voor het doen van de uitkering, bedoeld in [artikel 163 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=163), verminderd met het bedrag dat nodig is voor de aanvullingen op de uitkering, bedoeld in het tweede lid;
 
 en
 
-K = de helft van de som van de achterstandsscores van alle gemeenten gezamenlijk
+K = de helft van de som van de achterstandsscores van alle gemeenten gezamenlijk zoals door het Centraal bureau voor de statistiek is vastgesteld op basis van de onderwijsscores op de teldata één jaar en twee jaar voorafgaand aan het betreffende kalenderjaar.
 
-zoals door het Centraal bureau voor de statistiek is vastgesteld op basis van de onderwijsscores op de teldata twee jaar en drie jaar voorafgaand aan het betreffende kalenderjaar.
+2. Indien de factor A bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=3&z=2022-04-01&g=2022-04-01), op de teldatum één jaar of twee jaar voorafgaand aan het betreffende kalenderjaar groter is dan 0 en de hoogte van de uitkering berekend op grond van het eerste lid minder bedraagt dan € 64.000, wordt de uitkering voor de betreffende gemeente vastgesteld op € 64.000.
 
-2. Indien de factor A bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=3&z=2018-09-28&g=2018-09-28), op de teldatum twee jaar of drie jaar voorafgaand aan het betreffende kalenderjaar groter is dan 0 en de hoogte van de uitkering berekend op grond van het eerste lid minder bedraagt dan € 64.000, wordt de uitkering voor de betreffende gemeente vastgesteld op € 64.000.
+3. In afwijking van het eerste en tweede lid wordt bij de berekening van de achterstandsscore:
+
+- a. voor het kalenderjaar 2022:
+
+- 1°. bij factor H uitgegaan van de onderwijsscores op 1 oktober 2020;
+
+- 2°. bij factor I uitgegaan van de onderwijsscores op 1 oktober 2019;
+
+- 3°. bij factor K uitgegaan van de onderwijsscores op 1 oktober 2020 en 1 oktober 2019;
+
+- 4°. in het tweede lid uitgegaan van factor A op 1 oktober 2020 of 1 oktober 2019;
+
+- b. voor het kalenderjaar 2023:
+
+- 1°. bij factor H uitgegaan van de onderwijsscores op 1 oktober 2021;
+
+- 2°. bij factor I uitgegaan van de onderwijsscores op 1 oktober 2020;
+
+- 3°. bij factor K uitgegaan van de onderwijsscores op 1 oktober 2021 en 1 oktober 2020;
+
+- 4°. in het tweede lid uitgegaan van factor A op 1 oktober 2021 of 1 oktober 2020.
 
 ##### Artikel 5. Besteden overschot en mogelijkheid gehele of gedeeltelijke terugvordering
 
@@ -121,17 +141,7 @@ zoals door het Centraal bureau voor de statistiek is vastgesteld op basis van de
 
 ##### Artikel 6. Overgangsregeling
 
-1. De uitkering voor een gemeente wordt voor de kalenderjaren 2019, 2020 en 2021 per kalenderjaar berekend en vermeerderd met het bedrag berekend volgens de formule, bedoeld in het tweede lid, als de uitkomst van de berekening positief is, en verminderd met het bedrag berekend volgens die formule als de uitkomst negatief is.
-
-2. Het bedrag ter vermeerdering of vermindering, bedoeld in het eerste lid, is de uitkomst van de formule (A – B) x C en wordt als volgt berekend:
-
-A = de uitkering voor 2018 per gemeente, bedoeld in [artikel 2 van het Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid 2011–2018](https://wetten.overheid.nl/jci1.3:c:BWBR0028273&artikel=2), zoals dat artikel luidde op 31 december 2018;
-
-B = de specifieke uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041370&artikel=4&z=2018-09-28&g=2018-09-28);
-
-C = in het geval de uitkomst van A – B positief is: 75% voor het kalenderjaar 2019, 50% voor kalenderjaar 2020 en 25% voor kalenderjaar 2021;
-
-in het geval de uitkomst van A – B negatief is: een jaarlijks bij ministeriële regeling vast te stellen percentage, gelijk aan of lager dan de genoemde percentages bij een positieve uitkomst van A – B.
+Vervallen
 
 ##### Artikel 7. Inwerkingtreding
 
