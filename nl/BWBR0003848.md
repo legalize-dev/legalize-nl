@@ -4,7 +4,7 @@ identifier: "BWBR0003848"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2014-08-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003848"
 soort: "AMvB"
@@ -50,15 +50,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-wet: [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- **afdeling:** afdeling als bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), tenzij het tegendeel blijkt;
 
-**Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschappen;
-
-school: een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 2, tweede lid, onder f, g, h, j, k, m of n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), tenzij het tegendeel blijkt;
-
-instelling: instelling als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8);
-
-**bevoegd gezag** voor wat betreft:
+- **bevoegd gezag** voor wat betreft:
 
 - a. een openbare school:
 
@@ -66,39 +60,47 @@ instelling: instelling als bedoeld in [artikel 8, eerste lid, tweede of derde vo
 
 - 2°. het krachtens de desbetreffende gemeenschappelijke regeling bevoegde orgaan;
 
-- 3°. de openbare rechtspersoon, bedoeld in [atikel 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=50); dan wel
+- 3°. de openbare rechtspersoon, bedoeld in [artikel 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=50); dan wel
 
 - 4°. de stichting, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28) of [artikel 51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=51);
 
-- b. **een bijzondere school:** de rechtspersoon, bedoeld in [artikel 57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=57);
+- b. een bijzondere school: de rechtspersoon, bedoeld in [artikel 57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=57);
 
-- c. **een samenwerkingsschool:** de stichting, bedoeld in [artikel 28j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28j);
+- c. een samenwerkingsschool: de stichting, bedoeld in [artikel 28j van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28j);
 
-**ouders:** ouders, voogden of verzorgers;
+- **instelling:** instelling als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8);
 
-**schooljaar:** het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;
+- **meervoudig gehandicapte kinderen:** kinderen met combinaties van handicaps als bedoeld in [artikel 2, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2);
 
-**afdelingen:** de afdelingen bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), tenzij het tegendeel blijkt;
+- **Onze Minister:** Onze Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-**meervoudig gehandicapte kinderen:** kinderen met combinaties van handicaps als bedoeld in [artikel 2, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2);
+- **ouders:** ouders, voogden of verzorgers;
 
-**stage:** de stage bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=17);
+- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 28a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28a);
 
-**stagegever:** de rechtspersoon of de natuurlijke persoon bij wie de stage wordt doorlopen;
+- **school:** een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 2, tweede lid, onder f, g, h, j, k, m of n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), tenzij het tegendeel blijkt;
 
-**stageleraar:** leraar van de school waarop de leerling is ingeschreven, belast met de begeleiding van de leerling tijdens de stage;
+- **schooljaar:** het tijdvak van 1 augustus tot en met 31 juli daaraanvolgend;
 
-**stagebegeleider:** degene die is belast met de begeleiding van de leerling en werkzaam is bij de stagegever;
+- **stage:** de stage bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=17);
 
-**symbiose:** onderwijs waarbij een leerling of leerlingen, ter uitvoering van een deel van het schoolplan voor zover het betrekking heeft op speciaal onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 14, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14), en [artikel 14a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), van de wet, onderwijs ontvangt onderscheidenlijk ontvangen op een andere school, een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs;
+- **stagegever:** de rechtspersoon of de natuurlijke persoon bij wie de stage wordt doorlopen;
 
-**teldatum:** een van de data, bedoeld in [artikel 118 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=118).
+- **stageleraar:** leraar van de school waarop de leerling is ingeschreven, belast met de begeleiding van de leerling tijdens de stage;
+
+- **stagebegeleider:** degene die is belast met de begeleiding van de leerling en werkzaam is bij de stagegever;
+
+- **symbiose:** onderwijs waarbij een leerling of leerlingen, ter uitvoering van een deel van het schoolplan voor zover het betrekking heeft op speciaal onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 14, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14), en [artikel 14a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), onderwijs ontvangt onderscheidenlijk ontvangen op een andere school, een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs;
+
+- **teldatum:** een van de data, bedoeld in [artikel 116 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=116);
+
+- **wet:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
 
 ## Titel II. Afdelingen
 
 ##### Artikel 2. Afdelingen voor meervoudig gehandicapte kinderen
 
-1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel a tot en met c, f, en h](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2014-08-01&g=2014-08-01) tot en met m van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
+1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel a tot en met c, f, en h](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2022-04-01&g=2022-04-01) tot en met m van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
 
 2. De afdeling bedoeld in het eerste lid, is bestemd voor kinderen met eenzelfde meervoudige handicap.
 
@@ -204,9 +206,9 @@ Het bevoegd gezag kan, in het kader van [artikel 14b van de wet](https://wetten.
 
 ##### Artikel 14. Afwijkingen delen onderwijsprogramma arbeidsmarktgericht uitstroomprofiel en uitstroomprofiel dagbesteding
 
-1. Voor afwijkingen als bedoeld in [artikel 14c, negende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk in [artikel 14f, achtste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) kunnen in aanmerking komen leerlingen die naar het oordeel van het bevoegd gezag niet in staat zijn al het onderwijs dat wordt verzorgd op basis van de kerndoelen te volgen.
+1. Voor afwijkingen als bedoeld in [artikel 14c, elfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk in [artikel 14f, tiende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) kunnen in aanmerking komen leerlingen die naar het oordeel van het bevoegd gezag niet in staat zijn al het onderwijs dat wordt verzorgd op basis van de kerndoelen te volgen.
 
-2. De commissie voor de begeleiding, bedoeld in [artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40b), dan wel de commissie van onderzoek, bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41), adviseert het bevoegd gezag ten aanzien van welke leerlingen [artikel 14c, negende lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk [artikel 14f, achtste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) toepassing kan vinden.
+2. De commissie voor de begeleiding, bedoeld in [artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=40b), dan wel de commissie van onderzoek, bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41), adviseert het bevoegd gezag ten aanzien van welke leerlingen [artikel 14c, elfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk [artikel 14f, tiende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) toepassing kan vinden.
 
 3. In haar advies doet de commissie aan het bevoegd gezag voorstellen ten aanzien van de aard van de in het tweede lid bedoelde afwijkingen. Daarbij geeft zij aan waarop deze voorstellen zijn gegrond.
 
@@ -252,29 +254,49 @@ Vervallen
 
 Vervallen
 
-## Titel VII. Bewijzen van bekwaamheid
+## Titel VII. Overige bepalingen
 
-##### Artikel 22. Bewijzen van bekwaamheid
+##### Artikel 22. Monitor veiligheid op school
 
-Vervallen
+Het instrument ter monitoring van de veiligheid van leerlingen, bedoeld in [artikel 5a, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=5a):
+
+- a. geeft inzicht in de ervaren en feitelijke veiligheid en het welbevinden van de leerlingen, voor zover dat verband houdt met de veiligheid, op school;
+
+- b. wordt ten minste eens per schooljaar afgenomen onder een representatief deel van de leerlingen; en
+
+- c. is gestandaardiseerd, valide en betrouwbaar.
 
 ## Titel VIII. Slotbepalingen
 
-##### Artikel 23
+##### Artikel 23. Tijdelijke landelijke geschillencommissie toelating en verwijdering
 
-Vervallen
+1. De geschillencommissie, bedoeld in [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=45), bestaat uit ten minste zeven leden met verschillende deskundigheden. De leden worden benoemd op gezamenlijke bindende voordracht van de landelijke ouderorganisaties, de landelijke patiënten- en gehandicaptenorganisaties en de sectororganisaties.
 
-##### Artikel 24
+2. De leden worden benoemd en ontslagen door Onze Minister.
 
-Vervallen
+3. De leden worden benoemd voor een periode van vier jaar en kunnen ten hoogste twee maal worden herbenoemd.
+
+4. De commissie is zodanig samengesteld dat zij beschikt over (ortho)pedagogische, psychologische, onderwijskundige, maatschappelijke, bestuurlijke, juridische en medische deskundigheid. Voor de behandeling van ieder ingediend geschil kiest de commissie uit haar leden één voorzitter en twee leden. De commissie bepaalt welke samenstelling bij de behandeling van het geschil het meest geschikt is.
+
+5. De leden worden ontslagen indien zij daarom verzoeken.
+
+6. De leden mogen niet deel uitmaken van het bevoegd gezag van een van de scholen die deelnemen aan het samenwerkingsverband of het bevoegd gezag van dat samenwerkingsverband dat betrokken is in het geschil en zij functioneren zonder last of ruggenspraak.
+
+7. De commissie zendt haar oordeel aan het bevoegd gezag en een afschrift van haar oordeel aan de ouders.
+
+8. Het bevoegd gezag van de school die het oordeel van de commissie heeft ontvangen, deelt schriftelijk aan de ouders en aan de commissie mee wat er met het oordeel wordt gedaan. Indien de beslissing van het bevoegd gezag van de school afwijkt van het oordeel van de commissie, wordt in de beslissing de reden voor die afwijking vermeld.
+
+##### Artikel 24. Percentage onderwijstijd in de Engelse, Duitse of Franse taal
+
+Het percentage, bedoeld in [artikel 18, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18), waarin een deel van het onderwijs kan worden gegeven in de Engelse, Duitse of Franse taal is ten hoogste 15% per schooljaar.
 
 ##### Artikel 25
 
 Vervallen
 
-##### Artikel 26
+##### Artikel 26. Omhangbepaling
 
-Vervallen
+Dit besluit is gebaseerd op de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), [14c, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), [14f, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=17), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=24), [41a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), en [45, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=45).
 
 ##### Artikel 27. Inwerkingtreding en citeertitel
 
@@ -289,3 +311,5 @@ Vervallen.
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en de Algemene Rekenkamer.
 
 ## Titel IIA. Ontwikkelingsperspectief
+
+## Titel VIII. Slotbepalingen
