@@ -4,7 +4,7 @@ identifier: "BWBR0044044"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2022-01-13"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044044"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **DUO:** Dienst Uitvoering Onderwijs;
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 - **nevenvestiging:** nevenvestiging als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
@@ -144,7 +144,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 74, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-01-13&g=2022-01-13), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-04-01&g=2022-04-01), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 6. Nadere regels belangstellingsmeting
 
@@ -218,9 +218,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien sprake is van verzelfstandiging als bedoeld in [artikel 84a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a):
 
-- a. zijn van [artikel 3 het eerste lid en het tweede lid met uitzondering van onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-01-13&g=2022-01-13) van overeenkomstige toepassing;
+- a. zijn van [artikel 3 het eerste lid en het tweede lid met uitzondering van onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing;
 
-- b. is [artikel 4, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-01-13&g=2022-01-13), van overeenkomstige toepassing;
+- b. is [artikel 4, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-04-01&g=2022-04-01), van overeenkomstige toepassing;
 
 - c. is de aanvraag voorzien van een prognose, bedoeld in het derde en vierde lid; en
 
@@ -252,11 +252,11 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 ##### Artikel 11. Melding grondslag school
 
-Het bevoegd gezag dient een melding van een grondslag of een wijziging van een grondslag als bedoeld in [artikel 170, eerste en derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=170), in bij DUO.
+Het bevoegd gezag dient een melding van een grondslag of een wijziging van een grondslag als bedoeld in [artikel 164, eerste en derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=164), in bij DUO.
 
 ##### Artikel 12. Uitvoeringsvoorschriften overgangsrecht plan van scholen 2022–2025
 
-1. Op het plan van scholen 2022–2025, bedoeld in [artikel 194e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194e), dat is vastgesteld door de gemeenteraad voor 1 augustus 2021 en uiterlijk op 31 december 2021 is goedgekeurd door de minister, is dit artikel van toepassing.
+1. Op het plan van scholen 2022–2025, bedoeld in [artikel 211, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211), dat is vastgesteld door de gemeenteraad voor 1 augustus 2021 en uiterlijk op 31 december 2021 is goedgekeurd door de minister, is dit artikel van toepassing.
 
 2. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2022 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2021.
 
@@ -264,11 +264,11 @@ Het bevoegd gezag dient een melding van een grondslag of een wijziging van een g
 
 4. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2024 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2023.
 
-5. Dit artikel is van overeenkomstige toepassing op besluiten genomen op grond van [artikel 194e, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194e).
+5. Dit artikel is van overeenkomstige toepassing op besluiten genomen op grond van [artikel 211, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211).
 
 ##### Artikel 13. Uitvoeringsvoorschriften overgangsrecht plan van scholen 2021–2024
 
-1. Op het plan van scholen 2021–2024, bedoeld in [artikel 194e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194e), dat is vastgesteld door de gemeenteraad voor 1 augustus 2020 en uiterlijk op 31 december 2020 is goedgekeurd door de minister, is dit artikel van toepassing.
+1. Op het plan van scholen 2021–2024, bedoeld in [artikel 211, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211), dat is vastgesteld door de gemeenteraad voor 1 augustus 2020 en uiterlijk op 31 december 2020 is goedgekeurd door de minister, is dit artikel van toepassing.
 
 2. Van een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2021 vangt de bekostiging aan op 1 augustus 2021, indien de minister voor 1 augustus 2021 heeft besloten dat de bekostiging een aanvang kan nemen.
 
@@ -276,7 +276,7 @@ Het bevoegd gezag dient een melding van een grondslag of een wijziging van een g
 
 4. Voor een school die op het in het eerste lid bedoelde plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2023 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2022.
 
-5. Dit artikel is van overeenkomstige toepassing op besluiten genomen op grond van [artikel 194e, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194e).
+5. Dit artikel is van overeenkomstige toepassing op besluiten genomen op grond van [artikel 211, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211).
 
 ##### Artikel 14. Inwerkingtreding
 
