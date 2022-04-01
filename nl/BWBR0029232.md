@@ -4,7 +4,7 @@ identifier: "BWBR0029232"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-28"
-last_updated: "2013-06-19"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029232"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **Dienst Examens Sint Maarten:** een organisatorische eenheid van de Directie Onderwijs in Sint Maarten;
 
-- e. **onderdeel van de naturalisatietoets:** een van de drie in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=2&artikel=2&z=2013-06-19&g=2013-06-19) genoemde onderdelen van de naturalisatietoets.
+- e. **onderdeel van de naturalisatietoets:** een van de drie in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=2&artikel=2&z=2022-04-01&g=2022-04-01) genoemde onderdelen van de naturalisatietoets.
 
 #### Paragraaf 2. Naturalisatietoets en afname
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, wordt afgenomen en beantwoord in de Engelse taal.
 
-3. Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, bevat vragen met betrekking tot de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&bijlage=1&z=2013-06-19&g=2013-06-19) bij deze regeling genoemde thema’s van bevraging. De vragen richten zich naar de gestelde eindtermen.
+3. Het onderdeel dat de kennis van de staatsinrichting en maatschappij toetst, bevat vragen met betrekking tot de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&bijlage=1&z=2022-04-01&g=2022-04-01) bij deze regeling genoemde thema’s van bevraging. De vragen richten zich naar de gestelde eindtermen.
 
 4. Om te slagen voor de naturalisatietoets dient het niveau van taalbeheersing bij alle onderdelen aantoonbaar op ten minste niveau A2 van het Europees Raamwerk voor moderne vreemde talen te zijn afgelegd.
 
@@ -82,7 +82,7 @@ Behoudens in het voorkomende geval van computergestuurde beoordeling worden de r
 
 1. Het hoofd van de Dienst Examens Sint Maarten geeft aan de verzoeker die de naturalisatietoets met succes heeft afgelegd het Certificaat naturalisatietoets.
 
-2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&bijlage=2&z=2013-06-19&g=2013-06-19) bij deze regeling.
+2. Het modelcertificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=5), is het model als opgenomen in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&bijlage=2&z=2022-04-01&g=2022-04-01) bij deze regeling.
 
 #### Paragraaf 4. Gedeeltelijke vrijstellingen
 
@@ -130,7 +130,7 @@ Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taa
 
 ##### Artikel 10
 
-1. Indien de verzoeker zich beroept op ontheffing van een of meer onderdelen van de naturalisatietoets wegens een belemmering als bedoeld in [artikel 4, aanhef en onder a van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4) wordt omtrent het beroep op ontheffing geadviseerd door de hiervoor op advies van de Gouverneur aangewezen instantie of natuurlijk persoon.
+1. Indien de verzoeker zich beroept op ontheffing van de naturalisatietoets wegens omstandigheden als bedoeld in [artikel 4, aanhef en onder a, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), wordt omtrent het beroep op ontheffing geadviseerd door de hiervoor op advies van de Gouverneur aangewezen instantie of natuurlijk persoon.
 
 2. De in [artikel 4, aanhef en onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4) bedoelde psychische of lichamelijke belemmering dan wel verstandelijke handicap toont verzoeker aan door overlegging van een medisch advies van de ingevolge het eerste lid aangewezen instantie, dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden en inhoudende dat sprake is van een belemmering of een handicap.
 
@@ -142,21 +142,19 @@ Van het afleggen van het onderdeel dat de mate van kennis van de Nederlandse taa
 
 ##### Artikel 11
 
-1. Inzake de verzoeker die zich beroept op ontheffing van een of meer onderdelen van de naturalisatietoets wegens omstandigheden als bedoeld in [artikel 4, aanhef en onder b van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), wordt omtrent het beroep op ontheffing geadviseerd door de Dienst Examens Sint Maarten.
+1. Indien de verzoeker zich beroept op ontheffing van de naturalisatietoets wegens de omstandigheid bedoeld in [artikel 4, aanhef en onder b, van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), wordt omtrent het beroep op ontheffing geadviseerd door de Dienst Examens Sint Maarten.
 
-2. Aan de advisering door de Dienst Examens Sint Maarten zijn kosten verbonden die door de verzoeker voorafgaand aan de advisering aan de Dienst Examens Sint Maarten voldaan dienen te worden.
+2. De Dienst Examens Sint Maarten geeft het advies, bedoeld in het eerste lid, uitsluitend af indien de verzoeker ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
 
-3. Verzoeker legt bij de indiening van het naturalisatieverzoek een advies van de Dienst Examens Sint Maarten over dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden.
+3. Aan de advisering door de Dienst Examens Sint Maarten zijn kosten verbonden die door de verzoeker voorafgaand aan de advisering aan de Dienst Examens Sint Maarten voldaan dienen te worden.
+
+4. Verzoeker legt bij de indiening van het naturalisatieverzoek een advies van de Dienst Examens Sint Maarten over dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden.
+
+5. In afwijking van het eerste en tweede lid vervalt de verplichting tot advisering indien de verzoeker ongeletterd is, ten minste 65 jaar is en aantoont dat hij ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus.
 
 ##### Artikel 12
 
-1. Aan de verzoeker die in aanmerking komt voor ontheffing van een onderdeel van de naturalisatietoets als in deze paragraaf bedoeld, geeft het hoofd van de Dienst Examens Sint Maarten een Certificaat naturalisatietoets waarop is aangetekend welk onderdeel of welke onderdelen de verzoeker niet heeft afgelegd.
-
-2. De aantekening geschiedt alleen op verzoek van degene aan wie het Certificaat naturalisatietoets wordt afgegeven.
-
-3. De Dienst Examens Sint Maarten treedt niet in een beoordeling of de verzoeker terecht afziet van het afleggen van een onderdeel van de naturalisatietoets.
-
-4. Bij de indiening van het naturalisatieverzoek legt de verzoeker aan de Gouverneur het bewijsstuk dan wel de bewijsstukken over op grond waarvan hij de gedeeltelijke ontheffing heeft.
+Vervallen
 
 #### Paragraaf 6. Examengeld
 
@@ -189,7 +187,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 
 Deze regeling wordt aangehaald als: Regeling naturalisatietoets Sint Maarten 2011
 
-## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=2&artikel=2&z=2013-06-19&g=2013-06-19), van de Regeling naturalisatietoets Sint Maarten 2011
+## Bijlage 1. behorend bij [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=2&artikel=2&z=2022-04-01&g=2022-04-01), van de Regeling naturalisatietoets Sint Maarten 2011
 
 ### Thema’s van bevraging
 
@@ -215,6 +213,6 @@ De kandidaat is in staat om, door kennis van de staatkundige inrichting van het 
 
 De kandidaat kent het onderwijsstelsel, onderkent het belang van onderwijs in de samenleving en acht schoolgang van minderjarigen van groot belang.
 
-## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=3&artikel=5&z=2013-06-19&g=2013-06-19), van de Regeling naturalisatietoets Sint Maarten 2011
+## Bijlage 2. behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029232&paragraaf=3&artikel=5&z=2022-04-01&g=2022-04-01), van de Regeling naturalisatietoets Sint Maarten 2011
 
 Deze regeling wordt met de toelichting in de Staatscourant en het Afkondigingsblad van Sint Maarten geplaatst.
