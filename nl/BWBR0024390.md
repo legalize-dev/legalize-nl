@@ -4,7 +4,7 @@ identifier: "BWBR0024390"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2016-08-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024390"
 soort: "AMvB"
@@ -52,21 +52,21 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- ****assessment:**** onderdeel van het geschiktheidsonderzoek, bedoeld in [artikel 176c, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176c), [artikel 162f, tweede lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f) of [artikel 118l, tweede lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l);
+- ****assessment:**** onderdeel van het geschiktheidsonderzoek, bedoeld in [artikel 172, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152, tweede lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 118l, tweede lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l);
 
-- ****bekwaamheidsonderzoek:**** bekwaamheidsonderzoek, bedoeld in [artikel 176f van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176f), [artikel 162i van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162i) of [artikel 118o van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118o);
+- ****bekwaamheidsonderzoek:**** bekwaamheidsonderzoek, bedoeld in [artikel 175 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=175), [artikel 155 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=155) of [artikel 118o van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118o);
 
 - ****betrokkene:**** degene op wie het geschiktheidsonderzoek of het bekwaamheidsonderzoek betrekking heeft;
 
 - ****bevoegd gezag:**** bevoegd gezag, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
 
-- ****geschiktheidsonderzoek:**** geschiktheidsonderzoek, bedoeld in [artikel 176c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176c), [artikel 162f van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f) of [artikel 118l van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l);
+- ****geschiktheidsonderzoek:**** geschiktheidsonderzoek, bedoeld in [artikel 172 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 118l van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l);
 
-- ****instellingsbestuur:**** instellingsbestuur dat op grond van [artikel 176e van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176e), [artikel 162h van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162h) of [artikel 118n van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118n) bevoegd is om een geschiktheidsverklaring af te geven dan wel een instellingsbestuur als bedoeld in [artikel 176a, onder b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176a), [artikel 162d, onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162d) en [artikel 118j, onder b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118j) dat bevoegd is een bekwaamheidsonderzoek af te nemen.
+- ****instellingsbestuur:**** instellingsbestuur dat op grond van [artikel 174 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=174), [artikel 154 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=154) of [artikel 118n van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118n) bevoegd is om een geschiktheidsverklaring af te geven dan wel een instellingsbestuur als bedoeld in [artikel 170, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=170), [artikel 150, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=150) en [artikel 118j, onder b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118j) dat bevoegd is een bekwaamheidsonderzoek af te nemen.
 
 ##### Artikel 2. Aanwijzing onderwijs in beroepsgerichte vakken
 
-De beroepsgerichte vakken, bedoeld in de [artikelen 162f, derde lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f) en [118l, derde lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), zijn de volgende van de in [artikel 26h van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26h) genoemde vakken:
+De beroepsgerichte vakken, bedoeld in de [artikelen artikelen 152, derde lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) en [118l, derde lid, onderdeel b, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), zijn de volgende van de in [artikel 26h van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26h) genoemde vakken:
 
 - a. bouwen, wonen en interieur;
 
@@ -88,7 +88,7 @@ De beroepsgerichte vakken, bedoeld in de [artikelen 162f, derde lid, onderdeel b
 
 1. De beoordeling of de gevolgde opleiding en de maatschappelijke of beroepservaring in onderlinge samenhang bezien van voldoende belang zijn in verhouding tot de door de betrokkene beoogde werkzaamheden aan een school, geschiedt:
 
-- a. aan de hand van door de betrokkene overgelegde diploma’s, getuigschriften en andere bewijsstukken van gevolgd onderwijs als bedoeld in [artikel 176c, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176c), [artikel 162f, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f) of [artikel 118l, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l),
+- a. aan de hand van door de betrokkene overgelegde diploma’s, getuigschriften en andere bewijsstukken van gevolgd onderwijs als bedoeld in [artikel 172, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 118l, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l),
 
 - b. aan de hand van door de betrokkene overgelegde bewijsstukken omtrent maatschappelijke activiteiten of beroepservaring en voor zover van toepassing, door de betrokkene overgelegde referenties.
 
@@ -128,7 +128,7 @@ De beroepsgerichte vakken, bedoeld in de [artikelen 162f, derde lid, onderdeel b
 
 6. De in het eerste lid, aanhef en onder c, bedoelde beoordeling omvat de vaststelling of de betrokkene in voldoende mate beschikt over het vermogen om met anderen samen te werken in een team of sectie. Tevens omvat deze beoordeling de vaststelling van de kennis van het onderwijs.
 
-7. De vaststelling, bedoeld in het derde, vierde en zesde lid, omvat tevens vaststelling van de terreinen waarop scholing en begeleiding als bedoeld in [artikel 176c, tweede lid, onder c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176c), [artikel 162f, tweede lid, onder c, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f) of [artikel 118l, tweede lid, onder c, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l) moeten zijn gericht, alsmede van de mate van scholing en begeleiding.
+7. De vaststelling, bedoeld in het derde, vierde en zesde lid, omvat tevens vaststelling van de terreinen waarop scholing en begeleiding als bedoeld in [artikel 172, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152, tweede lid, onderdeel c, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 118l, tweede lid, onder c, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l) moeten zijn gericht, alsmede van de mate van scholing en begeleiding.
 
 ##### Artikel 6. Wijze van uitvoering assessment
 
@@ -142,11 +142,11 @@ Het assessment berust op bevindingen uit praktijkopdrachten, waaronder opdrachte
 
 - b. optimale aansluiting van het onderzoek op de door de betrokkene ingebrachte bewijzen van elders verworven competenties,
 
-- c. expliciete voorafgaande vaststelling van de criteria waarop de beoordeling, bedoeld in [artikel 4, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=4&z=2016-08-01&g=2016-08-01), geschiedt en op basis waarvan de betrokkene al of niet geschikt wordt bevonden, en
+- c. expliciete voorafgaande vaststelling van de criteria waarop de beoordeling, bedoeld in [artikel 4, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=4&z=2022-04-01&g=2022-04-01), geschiedt en op basis waarvan de betrokkene al of niet geschikt wordt bevonden, en
 
 - d. op grond van het geschiktheidsonderzoek op de betrokkene afgestemd advies over de te volgen scholing of anderszins te verwerven competenties alsmede, met instemming van het desbetreffende bevoegd gezag, de mate en vorm van benodigde begeleiding.
 
-2. Het instellingsbestuur draagt er zorg voor dat de in [artikel 176c, vijfde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176c), [artikel 162f, vijfde lid, van de Wet op het expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f), [artikel 118l, vijfde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), bedoelde personen die het geschiktheidsonderzoek afnemen, daarvoor voldoende geschikt zijn en onafhankelijk van hun eventuele overige werkzaamheden in dienst van of ten behoeve van die instelling, tot een professioneel oordeel kunnen komen.
+2. Het instellingsbestuur draagt er zorg voor dat de in [artikel 172, vijfde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152, vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152), [artikel 118l, vijfde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), bedoelde personen die het geschiktheidsonderzoek afnemen, daarvoor voldoende geschikt zijn en onafhankelijk van hun eventuele overige werkzaamheden in dienst van of ten behoeve van die instelling, tot een professioneel oordeel kunnen komen.
 
 3. Het instellingsbestuur ziet toe op een zodanige verslaglegging over het geschiktheidsonderzoek dat daaruit in elk geval blijkt een deugdelijke motivering van het oordeel over de onderzoeksresultaten.
 
@@ -154,9 +154,9 @@ Het assessment berust op bevindingen uit praktijkopdrachten, waaronder opdrachte
 
 ##### Artikel 8. Waarborgen kwaliteit scholing en begeleiding
 
-1. De noodzakelijk geoordeelde scholing, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=5&z=2016-08-01&g=2016-08-01), geschiedt uitsluitend door of onder verantwoordelijkheid van personen die bevoegd zijn tot het verzorgen van onderwijs aan initiële lerarenopleidingen in het hoger onderwijs. Bij het verzorgen van de scholing wordt deze inhoudelijk steeds afgestemd op de vorderingen bij de werkzaamheden van de betrokkene aan de school.
+1. De noodzakelijk geoordeelde scholing, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), geschiedt uitsluitend door of onder verantwoordelijkheid van personen die bevoegd zijn tot het verzorgen van onderwijs aan initiële lerarenopleidingen in het hoger onderwijs. Bij het verzorgen van de scholing wordt deze inhoudelijk steeds afgestemd op de vorderingen bij de werkzaamheden van de betrokkene aan de school.
 
-2. Bij de noodzakelijk geoordeelde begeleiding, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=5&z=2016-08-01&g=2016-08-01), is in elk geval betrokken een leraar die bevoegd is tot het verzorgen van de werkzaamheden die de betrokkene aan de school verricht, met dien verstande dat bij begeleiding in het voortgezet onderwijs, de leraar bevoegd dient te zijn voor het vak dat de betrokkene aan de school verzorgt.
+2. Bij de noodzakelijk geoordeelde begeleiding, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), is in elk geval betrokken een leraar die bevoegd is tot het verzorgen van de werkzaamheden die de betrokkene aan de school verricht, met dien verstande dat bij begeleiding in het voortgezet onderwijs, de leraar bevoegd dient te zijn voor het vak dat de betrokkene aan de school verzorgt.
 
 #### Paragraaf 4. Bekwaamheidsonderzoek
 
@@ -164,9 +164,9 @@ Het assessment berust op bevindingen uit praktijkopdrachten, waaronder opdrachte
 
 1. Degene die zich wil onderwerpen aan een bekwaamheidsonderzoek, dient daartoe een aanvraag in bij het instellingsbestuur.
 
-2. Het bekwaamheidsonderzoek omvat een onderzoek naar de kennis, het inzicht en de vaardigheden van de betrokkene, alsmede de beoordeling van de uitkomsten van dit onderzoek. Het bekwaamheidsonderzoek richt zich in het bijzonder op kennis, inzicht en vaardigheden die betrokkene blijkens de beoordeling, bedoeld in [artikel 176c, tweede lid, onder c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176c), [artikel 162f, tweede lid, onder c, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f) of [artikel 118l, tweede lid, onder c, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), nog behoorde te verwerven.
+2. Het bekwaamheidsonderzoek omvat een onderzoek naar de kennis, het inzicht en de vaardigheden van de betrokkene, alsmede de beoordeling van de uitkomsten van dit onderzoek. Het bekwaamheidsonderzoek richt zich in het bijzonder op kennis, inzicht en vaardigheden die betrokkene blijkens de beoordeling, bedoeld in [artikel 172, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152, tweede lid, onderdeel c, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 118l, tweede lid, onder c, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), nog behoorde te verwerven.
 
-3. Het bekwaamheidsonderzoek is zodanig ingericht dat daarvan in ieder geval deel uitmaakt een, zonodig in tijd gespreide, beoordeling van het functioneren in de praktijk op die onderdelen waarop scholing en begeleiding noodzakelijk zijn geacht. Bij die beoordeling is in ieder geval personeel betrokken dat daartoe door het bevoegd gezag, bedoeld in [artikel 176c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176c), [artikel 162f, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162f) of [artikel 118l, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), wordt aangewezen.
+3. Het bekwaamheidsonderzoek is zodanig ingericht dat daarvan in ieder geval deel uitmaakt een, zonodig in tijd gespreide, beoordeling van het functioneren in de praktijk op die onderdelen waarop scholing en begeleiding noodzakelijk zijn geacht. Bij die beoordeling is in ieder geval personeel betrokken dat daartoe door het bevoegd gezag, bedoeld in [artikel 172 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 152, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152) of [artikel 118l, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l), wordt aangewezen.
 
 4. De periode van scholing en begeleiding wordt zodanig ingericht dat daarin voor de betrokkene in elk geval tweemaal de gelegenheid bestaat het bekwaamheidsonderzoek te ondergaan.
 
@@ -178,7 +178,7 @@ Ter waarborging van de kwaliteit van het bekwaamheidsonderzoek:
 
 - b. stelt het instellingsbestuur de inrichting van het bekwaamheidsonderzoek vast,
 
-- c. legt het instellingsbestuur de criteria vast waarom de beoordelingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=4&artikel=9&z=2016-08-01&g=2016-08-01), geschieden,
+- c. legt het instellingsbestuur de criteria vast waarom de beoordelingen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&paragraaf=4&artikel=9&z=2022-04-01&g=2022-04-01), geschieden,
 
 - d. draagt het instellingsbestuur zorg voor een duidelijke positie van de betrokkene in het bekwaamheidsonderzoek, en
 
@@ -201,5 +201,11 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit zij-instroom leraren primair en voortgezet onderwijs.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 12a. Omhangbepaling
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
