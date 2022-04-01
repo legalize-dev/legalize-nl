@@ -4,7 +4,7 @@ identifier: "BWBR0045006"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-26"
-last_updated: "2021-08-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045006"
 soort: "ministeriele-regeling"
@@ -44,39 +44,39 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- **aanvullende bekostiging:** aanvullende bekostiging als bedoeld in [artikel 119, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=119) of [artikel 117, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117);
 
-- **bijzondere bekostiging:** bijzondere bekostiging als bedoeld in [artikel 123, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=123) of [artikel 120, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=120);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
 - **medezeggenschapsraad:** medezeggenschapsraad als bedoeld in de [Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685);
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 - **school:** basisschool of speciale school voor basisonderwijs als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of school voor speciaal onderwijs, school voor speciaal voortgezet onderwijs of school voor speciaal en voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
 - **schooljaar:** tijdvak van 1 augustus tot en met 31 juli daaropvolgend.
 
-##### Artikel 2. Doel van de bijzondere bekostiging
+##### Artikel 2. Doel van de aanvullende bekostiging
 
-Voor de schooljaren 2021–2022 en 2022–2023 verstrekt de minister per schooljaar aan het bevoegd gezag van een school bijzondere bekostiging voor de professionalisering van personeel en de begeleiding van startende leraren en schoolleiders.
+Voor de schooljaren 2021–2022 en 2022–2023 verstrekt de minister per schooljaar aan het bevoegd gezag van een school aanvullende bekostiging voor de professionalisering van personeel en de begeleiding van startende leraren en schoolleiders.
 
 ##### Artikel 3. Bekostiging en verdeling van de middelen
 
-1. De bijzondere bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2021-08-01&g=2021-08-01), bestaat uit een bedrag per leerling.
+1. De aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2022-04-01&g=2022-04-01), bestaat uit een bedrag per leerling.
 
-2. De hoogte van de bijzondere bekostiging wordt berekend op grond van het aantal leerlingen dat is ingeschreven aan de school op 1 oktober van het jaar voorafgaand aan het schooljaar waarvoor de bijzondere bekostiging wordt verstrekt, met dien verstande dat voor het schooljaar waarin een nieuwe school wordt geopend, het aantal leerlingen van de school op 1 oktober volgende op de opening geldt.
+2. De hoogte van de bekostiging voor de periode tot en met 31 december 2022 wordt berekend op grond van het aantal leerlingen dat is ingeschreven aan de school op 1 oktober van het jaar voorafgaand aan het schooljaar waarvoor de bijzondere bekostiging wordt verstrekt, met dien verstande dat voor het schooljaar waarin een nieuwe school wordt geopend, het aantal leerlingen van de school op 1 oktober volgende op de opening geldt. De hoogte van de bekostiging voor de periode van 1 januari 2023 tot en met 31 juli 2023 wordt berekend op grond van het aantal leerlingen dat is ingeschreven aan de school op 1 februari 2022, met dien verstande dat voor nieuwe scholen die op 1 augustus 2022 zijn geopend, het aantal leerlingen aan de school op 1 februari 2023 geldt.
 
 3. Het bedrag per leerling alsmede de wijze van betaling, worden jaarlijks bij ministeriële regeling vastgesteld.
 
 ##### Artikel 4. Besteding en verantwoording
 
-De verantwoording van de besteding van de bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2021-08-01&g=2021-08-01), geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
+De verantwoording van de besteding van de bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2022-04-01&g=2022-04-01), geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
 ##### Artikel 5. Monitor en evaluatie
 
 1. De minister monitort jaarlijks de effecten van deze regeling op landelijk niveau. Uiterlijk in 2023 wordt deze regeling geëvalueerd.
 
-2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie overlegt het bestuur van de school desgevraagd een samenhangend overzicht van de gepleegde inspanningen ten behoeve van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2021-08-01&g=2021-08-01) bedoelde doelen.
+2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie overlegt het bestuur van de school desgevraagd een samenhangend overzicht van de gepleegde inspanningen ten behoeve van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2022-04-01&g=2022-04-01) bedoelde doelen.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -85,5 +85,11 @@ Deze regeling treedt in werking met ingang van 1 augustus 2021 en vervalt met in
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bijzondere bekostiging professionalisering en begeleiding starters en schoolleiders.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5a. Omhangbepaling
+
+Deze regeling is gebaseerd op [artikel 119, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=119) en [artikel 117, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
