@@ -4,7 +4,7 @@ identifier: "BWBR0010256"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-27"
-last_updated: "2022-02-19"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010256"
 soort: "ministeriele-regeling"
@@ -133,15 +133,15 @@ Aan de onderbreking of verlenging kunnen voorwaarden worden verbonden.
 
 ##### Artikel 6. (bestuursorganen)
 
-[Artikel 5, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), van deze regeling, is van overeenkomstige toepassing op personen in dienst van een bestuursorgaan, die in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
+[Artikel 5, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van deze regeling, is van overeenkomstige toepassing op personen in dienst van een bestuursorgaan, die in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
 
 ##### Artikel 7. (horecaportiers)
 
-In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), van deze regeling, kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten ten behoeve van een horecabedrijf, indien deze in het bezit is van een op naam gesteld diploma horecaportier van de Stichting Vakbekwaamheid Horeca of van het Horeca Branche Instituut, dan wel van de Stichting Nationaal Onderwijscentrum van de Bedrijfstak Horeca, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als horecaportier.
+In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van deze regeling, kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten ten behoeve van een horecabedrijf, indien deze in het bezit is van een op naam gesteld diploma horecaportier van de Stichting Vakbekwaamheid Horeca of van het Horeca Branche Instituut, dan wel van de Stichting Nationaal Onderwijscentrum van de Bedrijfstak Horeca, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als horecaportier.
 
 ##### Artikel 8. (voetbalorganisaties)
 
-1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten bij voetbalwedstrijden in het betaald voetbal als aan de volgende voorwaarden is voldaan:
+1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten bij voetbalwedstrijden in het betaald voetbal als aan de volgende voorwaarden is voldaan:
 
 - a. hij is aangesteld bij een vereniging in het betaald voetbal;
 
@@ -149,7 +149,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - c. het betreft beveiligingswerkzaamheden kort voor, tijdens of kort na de wedstrijd van de voetbalorganisatie, in en rond het stadion waar de wedstrijden, bedoeld in de aanhef, plaatsvinden.
 
-2. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten bij voetbalwedstrijden in het amateurvoetbal als aan de volgende voorwaarden is voldaan:
+2. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), kan een beveiligingsorganisatie een persoon met beveiligingswerkzaamheden belasten bij voetbalwedstrijden in het amateurvoetbal als aan de volgende voorwaarden is voldaan:
 
 - a. hij is aangesteld bij een vereniging in de top- of hoofdklasse van het amateurvoetbal;
 
@@ -159,11 +159,11 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 9. (ongeuniformeerden)
 
-1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), van deze regeling, belast een beveiligingsorganisatie uitsluitend een persoon ongeüniformeerd met beveiligingswerkzaamheden, indien deze in het bezit is van een op zijn naam gesteld certificaat persoonsbeveiliging van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties (SVPB) dan wel het diploma Beveiligingsmedewerker, differentiatie persoonsbeveiliger van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als ongeüniformeerd persoonsbeveiliger.
+1. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van deze regeling, belast een beveiligingsorganisatie uitsluitend een persoon ongeüniformeerd met beveiligingswerkzaamheden, indien deze in het bezit is van een op zijn naam gesteld certificaat persoonsbeveiliging van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties (SVPB) dan wel het diploma Beveiligingsmedewerker, differentiatie persoonsbeveiliger van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als ongeüniformeerd persoonsbeveiliger.
 
 2. Het eerste lid is niet van toepassing op personen belast met beveiligingswerkzaamheden ten behoeve van grootwinkel- of detailhandelbedrijven.
 
-3. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), van deze regeling, belast een beveiligingsorganisatie uitsluitend een persoon ongeüniformeerd met beveiligingswerkzaamheden ten behoeve van grootwinkel- of detailhandelbedrijven, indien deze in het bezit is van een op zijn naam gesteld certificaat winkelsurveillance van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een diploma Beveiligingsmedewerker, differentiatie winkelsurveillant van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als ongeüniformeerd winkelsurveillant.
+3. Onverminderd [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van deze regeling, belast een beveiligingsorganisatie uitsluitend een persoon ongeüniformeerd met beveiligingswerkzaamheden ten behoeve van grootwinkel- of detailhandelbedrijven, indien deze in het bezit is van een op zijn naam gesteld certificaat winkelsurveillance van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een diploma Beveiligingsmedewerker, differentiatie winkelsurveillant van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties, dan wel een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als ongeüniformeerd winkelsurveillant.
 
 4. Als gelijkwaardig aan het diploma in het eerste lid en het derde lid wordt erkend het Vakdiploma Beveiliging van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties.
 
@@ -203,7 +203,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13. (model legitimatiebewijs)
 
-1. Het legitimatiebewijs, bedoeld in [artikel 9, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9), komt overeen met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=2&z=2022-02-19&g=2022-02-19) bij deze regeling vastgestelde model en de in die bijlage aangeduide kleur. Indien het legitimatiebewijs wordt afgegeven door de commandant, wordt de in het model vervatte aanduiding van de korpschef als afgever van het legitimatiebewijs overeenkomstig aangepast.
+1. Het legitimatiebewijs, bedoeld in [artikel 9, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=9), komt overeen met het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=2&z=2022-04-01&g=2022-04-01) bij deze regeling vastgestelde model en de in die bijlage aangeduide kleur. Indien het legitimatiebewijs wordt afgegeven door de commandant, wordt de in het model vervatte aanduiding van de korpschef als afgever van het legitimatiebewijs overeenkomstig aangepast.
 
 2. Het legitimatiebewijs bevat een verklaring waaruit de toestemming van de korpschef, de commandant of de minister, bedoeld in [artikel 7, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=7), blijkt.
 
@@ -285,7 +285,7 @@ Vervallen
 
 1. Een beveiligingsorganisatie draagt zorg voor een goede afstemming van de beveiligingswerkzaamheden met de politie of, indien de beveiligingswerkzaamheden worden verricht op een luchtvaartterrein, met de commandant.
 
-2. Een beveiligingsorganisatie stelt voordat de beveiligingswerkzaamheden worden verricht de korpschef of, indien de beveiligingswerkzaamheden worden verricht op een luchtvaartterrein, de commandant door middel van een aanmeldingsformulier, overeenkomstig het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=4&z=2022-02-19&g=2022-02-19) bij deze regeling vastgestelde model, op de hoogte van de aard, omvang en duur van de werkzaamheden.
+2. Een beveiligingsorganisatie stelt voordat de beveiligingswerkzaamheden worden verricht de korpschef of, indien de beveiligingswerkzaamheden worden verricht op een luchtvaartterrein, de commandant door middel van een aanmeldingsformulier, overeenkomstig het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=4&z=2022-04-01&g=2022-04-01) bij deze regeling vastgestelde model, op de hoogte van de aard, omvang en duur van de werkzaamheden.
 
 3. Het tweede lid is niet van toepassing op beveiligingsorganisaties die werkzaamheden verrichten als bedoeld in [artikel 3, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3).
 
@@ -301,11 +301,11 @@ Vervallen
 
 - b. een schema dat de normenreeks EN 50518 en de volgende normen bevat:
 
-- i. dat een klachtenregeling is vastgesteld als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=8&artikel=18&z=2022-02-19&g=2022-02-19);
+- i. dat een klachtenregeling is vastgesteld als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=8&artikel=18&z=2022-04-01&g=2022-04-01);
 
-- ii. dat wordt voldaan aan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2022-02-19&g=2022-02-19) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11a&z=2022-02-19&g=2022-02-19) gestelde eisen aan de opleiding en de kwalificaties van de alarminstallateurs en alarmcentralisten;
+- ii. dat wordt voldaan aan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2022-04-01&g=2022-04-01) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11a&z=2022-04-01&g=2022-04-01) gestelde eisen aan de opleiding en de kwalificaties van de alarminstallateurs en alarmcentralisten;
 
-- iii. dat is voorzien in de randvoorwaarden om te kunnen voldoen aan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2022-02-19&g=2022-02-19) gestelde eisen aan de afstemming met de politie;
+- iii. dat is voorzien in de randvoorwaarden om te kunnen voldoen aan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2022-04-01&g=2022-04-01) gestelde eisen aan de afstemming met de politie;
 
 - iv. dat het databeheer en de ruimte van het databeheer voldoet aan de toepasselijke onderdelen van de managementsysteemstandaarden ISO 27001; en
 
@@ -355,7 +355,7 @@ Deze kosten worden voldaan aan de minister.
 
 de afgifte van een legitimatiebewijs: € 26,–.
 
-Deze kosten worden voldaan aan de korpschef of de commandant, die op grond van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2022-02-19&g=2022-02-19), van deze regeling bevoegd is tot het afgeven van het legitimatiebewijs.
+Deze kosten worden voldaan aan de korpschef of de commandant, die op grond van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2022-04-01&g=2022-04-01), van deze regeling bevoegd is tot het afgeven van het legitimatiebewijs.
 
 3. De vergoeding van kosten, bedoeld in [artikel 7, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=7), bedraagt voor:
 
@@ -373,7 +373,7 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 ##### Artikel 25. (overgangsregeling opleidingseis bestuursorganen)
 
-1. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=6&z=2022-02-19&g=2022-02-19) van deze regeling, is niet van toepassing op personen die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) in dienst zijn van een bestuursorgaan en in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
+1. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=6&z=2022-04-01&g=2022-04-01) van deze regeling, is niet van toepassing op personen die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) in dienst zijn van een bestuursorgaan en in de uitoefening van hun functie beveiligingswerkzaamheden verrichten.
 
 2. Vervallen.
 
@@ -381,7 +381,7 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 ##### Artikel 26. (particulier rechercheur)
 
-1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2022-02-19&g=2022-02-19) van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) te werk zijn gesteld door een recherchebureau.
+1. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2022-04-01&g=2022-04-01) van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) te werk zijn gesteld door een recherchebureau.
 
 2. Vervallen.
 
@@ -389,7 +389,7 @@ Deze kosten worden voldaan aan de korpschef, commandant of de minister die op gr
 
 ##### Artikel 27. (alarminstallateur)
 
-1. [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2022-02-19&g=2022-02-19), van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) als alarminstallateur werkzaam zijn.
+1. [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11&z=2022-04-01&g=2022-04-01), van deze regeling, is niet van toepassing indien het personen betreft die zijn geboren vóór 1 april 1944 en op het moment van inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973) als alarminstallateur werkzaam zijn.
 
 2. Vervallen.
 
@@ -479,7 +479,7 @@ Het volle vlak van het embleem, alsmede de letters in het embleem, zijn zilverkl
 
 ## Bijlage 1. Embleem uniform ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2019-04-01&g=2020-04-02) RPB)
 
-## Bijlage 1. Embleem uniform ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2022-02-19&g=2022-02-19) RPB)
+## Bijlage 1. Embleem uniform ([art. 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2022-04-01&g=2022-04-01) RPB)
 
 ## Bijlage 2B. Grijs legitimatiebewijs voor- en achterzijde
 
@@ -491,7 +491,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 23a. Vaststellen (privacy)gedragscode
 
-Een recherchebureau stelt een (privacy)gedragscode vast, identiek aan het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=6&z=2022-02-19&g=2022-02-19) bij deze regeling vastgestelde model, en leeft de code na.
+Een recherchebureau stelt een (privacy)gedragscode vast, identiek aan het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=6&z=2022-04-01&g=2022-04-01) bij deze regeling vastgestelde model, en leeft de code na.
 
 #### § 11a. Bijzondere bepalingen voor recherchebureaus
 
@@ -635,7 +635,7 @@ De eerste versie van de privacygedragscode is door de Autoriteit Persoonsgegeven
 
 In 2018 is de privacygedragscode omgezet van [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) naar AVG die op 25 mei 2018 in werking is getreden1**In bijlage 1 zijn de wijzigingen weergegeven ten opzichte van de privacygedragscode zoals die gold onder de Wet bescherming persoonsgegevens.**.
 
-Door een besluit van de Minister van Justitie en Veiligheid bindt de privacygedragscode niet alleen de bij de Nederlandse Veiligheidsbranche aangesloten particuliere onderzoeksbureaus. De Minister van Justitie en Veiligheid heeft op 1 juni 2004 in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11a&artikel=23a&z=2022-02-19&g=2022-02-19) van de Regeling Particuliere beveiligingsorganisaties en recherchebureaus bepaald dat recherchebureaus die geen lid zijn van de Nederlandse Veiligheidsbranche een privacygedragscode moeten hebben die identiek is aan die van de Nederlandse Veiligheidsbranche en deze code na moeten leven. De privacygedragscode is daarmee algemeen verbindend verklaard voor alle particulier onderzoeksbureaus die een vergunning behoeven als bedoeld in de [Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973).
+Door een besluit van de Minister van Justitie en Veiligheid bindt de privacygedragscode niet alleen de bij de Nederlandse Veiligheidsbranche aangesloten particuliere onderzoeksbureaus. De Minister van Justitie en Veiligheid heeft op 1 juni 2004 in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11a&artikel=23a&z=2022-04-01&g=2022-04-01) van de Regeling Particuliere beveiligingsorganisaties en recherchebureaus bepaald dat recherchebureaus die geen lid zijn van de Nederlandse Veiligheidsbranche een privacygedragscode moeten hebben die identiek is aan die van de Nederlandse Veiligheidsbranche en deze code na moeten leven. De privacygedragscode is daarmee algemeen verbindend verklaard voor alle particulier onderzoeksbureaus die een vergunning behoeven als bedoeld in de [Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973).
 
 Ook buiten recherchebureaus worden recherchewerkzaamheden verricht door andere personen en organisaties. Daarbij kan gedacht worden aan bedrijfsrecherche- cq. onderzoeksafdelingen van bedrijven, overheidsinstellingen (bureaus interne veiligheid of integriteit) en zelfstandige bestuursorganen. Voor de recherchewerkzaamheden van deze interne onderzoeksafdelingen kan de privacygedragscode een adequate normering bieden.
 
@@ -1003,7 +1003,7 @@ Een proefaankoop is een handeling waarbij het particulier onderzoeksbureau iets 
 
 **De sector particuliere onderzoeksbureaus werkt regelmatig in opdracht van personen die (telefoon)gesprekken die zij zelf met een ander voeren willen vastleggen, zonder dat de ander daarvan op de hoogte is. In dat geval worden hulpmiddelen gebruikt die in feite als technisch geheugen van de opdrachtgever fungeren. Een bandopname van een (telefoon)gesprek wordt vaak in een juridische procedure overhandigd als ondersteuning van een getuigenverklaring van gelijke strekking. Meermalen hebben rechters overwogen dat gesprekspartners er vanuit moeten gaan dat hun (telefoon)gesprekken worden meegeluisterd, dan wel opgenomen. Bij hulpmiddelen kan gedacht worden aan het beschikbaar stellen van een bandrecordertje aan de gespreksdeelnemer of aan het installeren van een kabelmicrofoon in de ruimte waar het gesprek plaatsvindt. Indien gebruik gemaakt wordt van een zendertje moet rekening worden gehouden met de bepalingen van de Telecommunicatiewet. Daarin is vastgelegd dat de aanleg en het gebruik van een zender slechts is geoorloofd, indien voor het gebruik ervan aan de houder van het apparaat een vergunning is verleend voor het gebruik van frequentieruimte (artikel 10.16 van de Telecommunicatiewet).**
 
-Indien een particulier onderzoeksbureau één van de in de paragrafen 7.1 tot en met 7.8 genoemde onderzoeksmethoden of -middelen heeft toegepast wordt hiervan een verslag opgemaakt, onder vermelding van de gronden die tot de toepassing van de gehanteerde onderzoeksmethode c.q. -middel hebben geleid. Het verslag maakt deel uit van het dossier en zodoende van de opdrachten- c.q. voorvallenregistratie, maar vormt geen onderdeel van het onderzoeksrapport, tenzij met de opdrachtgever anders is overeengekomen. Door middel van deze verslaglegging is achteraf toetsing mogelijk op de juiste toepassing van onderzoeksmethoden- en middelen. Dat is van belang voor de beoordeling van klachten ex-[artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=8&artikel=18&z=2022-02-19&g=2022-02-19) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus en voor de beoordeling door de Autoriteit Persoonsgegevens van een klacht of een vermeende inbreuk op de AVG ex-artikel 56 lid 2 AVG, alsmede voor de geschillenregeling van de gedragscode. De reikwijdte van het recht tot inzage in het onderzoeksdossier door de onderzochte persoon als vastgelegd in paragraaf 9.1 van deze gedragscode omvat – onder de daar gestelde voorwaarden en beperkingen – ook de verslaglegging van gehanteerde onderzoeksmethoden en onderzoeksmiddelen.
+Indien een particulier onderzoeksbureau één van de in de paragrafen 7.1 tot en met 7.8 genoemde onderzoeksmethoden of -middelen heeft toegepast wordt hiervan een verslag opgemaakt, onder vermelding van de gronden die tot de toepassing van de gehanteerde onderzoeksmethode c.q. -middel hebben geleid. Het verslag maakt deel uit van het dossier en zodoende van de opdrachten- c.q. voorvallenregistratie, maar vormt geen onderdeel van het onderzoeksrapport, tenzij met de opdrachtgever anders is overeengekomen. Door middel van deze verslaglegging is achteraf toetsing mogelijk op de juiste toepassing van onderzoeksmethoden- en middelen. Dat is van belang voor de beoordeling van klachten ex-[artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=8&artikel=18&z=2022-04-01&g=2022-04-01) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus en voor de beoordeling door de Autoriteit Persoonsgegevens van een klacht of een vermeende inbreuk op de AVG ex-artikel 56 lid 2 AVG, alsmede voor de geschillenregeling van de gedragscode. De reikwijdte van het recht tot inzage in het onderzoeksdossier door de onderzochte persoon als vastgelegd in paragraaf 9.1 van deze gedragscode omvat – onder de daar gestelde voorwaarden en beperkingen – ook de verslaglegging van gehanteerde onderzoeksmethoden en onderzoeksmiddelen.
 
 **Toelichting:**
 
@@ -1115,15 +1115,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 7a. (evenementenbeveiliging)
 
-1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), van deze regeling, kan een beveiligingsorganisatie een persoon belasten met beveiligingswerkzaamheden bij een evenement indien deze in het bezit is van het certificaat Event Security Officer van de Stichting Vakexamens voor de Particuliere beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als evenementenbeveiliger.
+1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van deze regeling, kan een beveiligingsorganisatie een persoon belasten met beveiligingswerkzaamheden bij een evenement indien deze in het bezit is van het certificaat Event Security Officer van de Stichting Vakexamens voor de Particuliere beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als evenementenbeveiliger.
 
-2. Het bepaalde in [artikel 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), van deze regeling, is van overeenkomstige toepassing.
+2. Het bepaalde in [artikel 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van deze regeling, is van overeenkomstige toepassing.
 
 ##### Artikel 11a. (alarmcentralisten)
 
-1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), van deze regeling, kan een beveiligingsorganisatie als bedoeld in[artikel 3, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3) een persoon belasten met beveiligingswerkzaamheden als alarmcentralist indien deze in het bezit is van het certificaat Basisopleiding Centralist Alarmcentrale van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als alarmcentralist.
+1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van deze regeling, kan een beveiligingsorganisatie als bedoeld in[artikel 3, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=3) een persoon belasten met beveiligingswerkzaamheden als alarmcentralist indien deze in het bezit is van het certificaat Basisopleiding Centralist Alarmcentrale van de Stichting Vakexamens voor de Particuliere Beveiligingsorganisaties of een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als alarmcentralist.
 
-2. Het bepaalde in [artikel 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), van deze regeling, is van overeenkomstige toepassing.
+2. Het bepaalde in [artikel 5, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van deze regeling, is van overeenkomstige toepassing.
 
 #### 4. Legitimatiebewijzen
 
@@ -1315,11 +1315,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 - d. een verklaring omtrent gedrag afgegeven door het bevoegd gezag van de betrokken staat van oorsprong of herkomst, of een met die verklaring overeenkomend document als bedoeld in [artikel 14, tweede lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=14), met dien verstande dat de verklaring of het document ten tijde van de indiening van de aanvraag niet ouder is dan drie maanden.
 
-3. Indien de Minister een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23g&z=2022-02-19&g=2022-02-19), heeft gedaan, gaat de aanvraag tevens vergezeld van:
+3. Indien de Minister een eerdere aanvraag heeft afgewezen en hierbij een mededeling, bedoeld in [artikel 23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23g&z=2022-04-01&g=2022-04-01), heeft gedaan, gaat de aanvraag tevens vergezeld van:
 
-- a. een verklaring, bedoeld in [artikel 23h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23h&z=2022-02-19&g=2022-02-19), of
+- a. een verklaring, bedoeld in [artikel 23h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23h&z=2022-04-01&g=2022-04-01), of
 
-- b. een verklaring, bedoeld in [artikel 23i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23i&z=2022-02-19&g=2022-02-19).
+- b. een verklaring, bedoeld in [artikel 23i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23i&z=2022-04-01&g=2022-04-01).
 
 4. De Minister kan verlangen dat de aanvrager nadere informatie verstrekt over:
 
@@ -1333,13 +1333,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 1. Justis deelt de aanvrager zo spoedig mogelijk, maar uiterlijk een maand na ontvangst, schriftelijk mee dat de aanvraag is ontvangen.
 
-2. Indien niet is voldaan aan het bepaalde in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23b&z=2022-02-19&g=2022-02-19), wordt de aanvrager in de gelegenheid gesteld om de aanvraag binnen een maand aan te vullen. De Minister kan deze termijn verlengen.
+2. Indien niet is voldaan aan het bepaalde in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23b&z=2022-04-01&g=2022-04-01), wordt de aanvrager in de gelegenheid gesteld om de aanvraag binnen een maand aan te vullen. De Minister kan deze termijn verlengen.
 
 3. De mededeling, bedoeld in het tweede lid, wordt zo mogelijk gedaan in de ontvangstbevestiging, bedoeld in het eerste lid.
 
 4. De Minister beslist op de aanvraag:
 
-- a. binnen drie maanden nadat de aanvrager heeft voldaan aan het bepaalde in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23b&z=2022-02-19&g=2022-02-19), of
+- a. binnen drie maanden nadat de aanvrager heeft voldaan aan het bepaalde in [artikel 23b](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23b&z=2022-04-01&g=2022-04-01), of
 
 - b. onverwijld na het ongebruikt verstrijken van de termijn die is gesteld voor het aanvullen van de aanvraag.
 
@@ -1383,7 +1383,7 @@ De Minister maakt niet ambtshalve gebruik van de bevoegdheid, bedoeld in [artike
 
 ##### Artikel 23h. (aanpassingsstage)
 
-1. Het bedrijf, bedoeld in [artikel 23e, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23e&z=2022-02-19&g=2022-02-19), kan een stagiair met werkzaamheden belasten zonder dat deze in het bezit is van een in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&z=2022-02-19&g=2022-02-19) genoemd diploma of een erkenning van EU-beroepskwalificaties, indien de stagiair beschikt over een mededeling, bedoeld in [23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23g&z=2022-02-19&g=2022-02-19), met vermelding van het betrokken bedrijf.
+1. Het bedrijf, bedoeld in [artikel 23e, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23e&z=2022-04-01&g=2022-04-01), kan een stagiair met werkzaamheden belasten zonder dat deze in het bezit is van een in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&z=2022-04-01&g=2022-04-01) genoemd diploma of een erkenning van EU-beroepskwalificaties, indien de stagiair beschikt over een mededeling, bedoeld in [23g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11b&artikel=23g&z=2022-04-01&g=2022-04-01), met vermelding van het betrokken bedrijf.
 
 2. De duur van de aanpassingsstage bedraagt ten hoogste twaalf maanden.
 
@@ -1415,7 +1415,7 @@ Een dienstverrichter worden geen beperkingen wegens beroepskwalificaties opgeleg
 
 ##### Artikel 23k. (verklaring vooraf door tijdelijke en incidentele dienstverrichter)
 
-1. De verklaring, genoemd in [artikel 23j](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11c&artikel=23j&z=2022-02-19&g=2022-02-19), kan met alle middelen worden aangeleverd en wordt steeds na een jaar opnieuw afgegeven door de dienstverrichter indien hij voornemens is om gedurende het opvolgende jaar in Nederland tijdelijk en incidenteel diensten te verrichten.
+1. De verklaring, genoemd in [artikel 23j](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11c&artikel=23j&z=2022-04-01&g=2022-04-01), kan met alle middelen worden aangeleverd en wordt steeds na een jaar opnieuw afgegeven door de dienstverrichter indien hij voornemens is om gedurende het opvolgende jaar in Nederland tijdelijk en incidenteel diensten te verrichten.
 
 2. De verklaring gaat vergezeld van de volgende documenten, afgegeven door de terzake bevoegde autoriteit van de betrokken staat:
 
@@ -1515,23 +1515,23 @@ Het uniform vertoont, noch ten aanzien van uitvoerng, noch ten aanzien van kleur
 
 - Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2019-04-01&g=2020-04-02).
 
-## Bijlage 2. Model legitimatiebewijs ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2022-02-19&g=2022-02-19) RPB)
+## Bijlage 2. Model legitimatiebewijs ([art. 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=4&artikel=13&z=2022-04-01&g=2022-04-01) RPB)
 
-- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19).
+- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01).
 
-- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19).
+- Grijs legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01).
 
 - Blauw legitimatiebewijs, bestemd voor een persoon die de op het legitimatiebewijs omschreven beveiligingswerkzaamheden mag verrichten voor een organisatie met een beperkte vergunning.
 
-- Geel legitimatiebewijs, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2022-02-19&g=2022-02-19).
+- Geel legitimatiebewijs, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid, van de Regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2022-04-01&g=2022-04-01).
 
 - Legitimatiebewijs voor buitengewoon opsporingsambtenaren, zoals vastgesteld door de minister op grond van het [Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013), bestemd voor een buitengewoon opsporingsambtenaar die behoort tot een particuliere beveiligingsorganisatie, dan wel een onderdeel daarvan, die door de minister is aangewezen als een categorie of eenheid als bedoeld in [art. 142, eerste lid, onder b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142) ([art. 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=5))
 
-- Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19).
+- Tot 1 januari 2003 of tot de vervaldatum van een groen legitimatiebewijs dat voor publicatie van deze regeling in de Staatscourant is verstrekt, kan nog een beroep worden gedaan op de volgende tekst: Groen legitimatiebewijs, bestemd voor een persoon die beveiligingswerkzaamheden mag verrichten en (nog) niet in het bezit is van een diploma als bedoeld in [artikel 5 van de regeling particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01).
 
 ## Bijlage 2A
 
-Legitimatiebewijs met grijze bovenbalk, voor en achterzijde, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
+Legitimatiebewijs met grijze bovenbalk, voor en achterzijde, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
 
 ### Overwegingen
 
@@ -1817,7 +1817,7 @@ De eisen die gelden voor het medisch attest, bedoeld in [artikel 6a van de wet](
 
 - 3. De leden, bedoeld in het eerste lid, voldoen aan de in [artikel 2 van de Regeling eisen geschiktheid 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362&artikel=2) bedoelde eisen van lichamelijke en geestelijke gesteldheid, voor zover deze betrekking hebben op de in [artikel 1, aanhef en onder b, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011362&artikel=1) genoemde categorieën van rijbewijzen.
 
-- 4. De vragen die tijdens de medische keuring ten aanzien van de gezondheid mogen worden gesteld, alsmede de medische onderzoeken die mogen worden verricht, zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=7&z=2022-02-19&g=2022-02-19) bij deze regeling.
+- 4. De vragen die tijdens de medische keuring ten aanzien van de gezondheid mogen worden gesteld, alsmede de medische onderzoeken die mogen worden verricht, zijn opgenomen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=7&z=2022-04-01&g=2022-04-01) bij deze regeling.
 
 ##### Artikel 23n. (aanwijzing autoriteit artikel 12, tweede lid, verordening)
 
@@ -1835,7 +1835,7 @@ De korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.over
 
 ### **Model en afmetingen**
 
-[Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=1A&z=2022-02-19&g=2022-02-19) bevat het model van het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2022-02-19&g=2022-02-19), bedoelde embleem.
+[Bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=1A&z=2022-04-01&g=2022-04-01) bevat het model van het in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=3&artikel=12&z=2022-04-01&g=2022-04-01), bedoelde embleem.
 
 Het uniform is te allen tijden en onder alle omstandigheden duidelijk zichtbare wijze van het embleem voorzien.
 
@@ -1845,7 +1845,7 @@ Het uniform is te allen tijden en onder alle omstandigheden duidelijk zichtbare 
 
 ## Bijlage 2B
 
-Legitimatiebewijs met groene bovenbalk, voor en achterzijde, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
+Legitimatiebewijs met groene bovenbalk, voor en achterzijde, bestemd voor een persoon die beveiligingswerkzaamheden verricht en voldoet aan de eisen van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
 
 ## Bijlage 2D
 
@@ -1853,7 +1853,7 @@ Legitimatiebewijs met gele bovenbalk, voor en achterzijde, bestemd voor een pers
 
 ## Bijlage 2D
 
-Legitimatiebewijs met gele bovenbalk, voor en achterzijde, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2022-02-19&g=2022-02-19), van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
+Legitimatiebewijs met gele bovenbalk, voor en achterzijde, bestemd voor een persoon die particuliere recherchewerkzaamheden mag verrichten en voldoet aan de eisen van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=10&z=2022-04-01&g=2022-04-01), van de Regeling particuliere beveiligingsorganisaties en recherchebureaus.
 
 ## Bijlage 2E
 
@@ -2117,9 +2117,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 - c. een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), voor werkzaamheden als alarminstallateur.
 
-3. Het bepaalde in de [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11a&z=2022-02-19&g=2022-02-19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=20&z=2022-02-19&g=2022-02-19) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=22&z=2022-02-19&g=2022-02-19) is van overeenkomstige toepassing op een beveiligingsorganisatie als bedoeld in het eerste lid.
+3. Het bepaalde in de [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=11a&z=2022-04-01&g=2022-04-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=20&z=2022-04-01&g=2022-04-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=22&z=2022-04-01&g=2022-04-01) is van overeenkomstige toepassing op een beveiligingsorganisatie als bedoeld in het eerste lid.
 
-4. De minister kan besluiten de eis van het overleggen van een certificaat als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=20&z=2022-02-19&g=2022-02-19), eenmalig voor een periode van ten hoogste acht maanden buiten toepassing te laten.
+4. De minister kan besluiten de eis van het overleggen van een certificaat als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=10&artikel=20&z=2022-04-01&g=2022-04-01), eenmalig voor een periode van ten hoogste acht maanden buiten toepassing te laten.
 
 5. Een beveiligingsorganisatie als bedoeld in het eerste lid laat het plan voor installatie, de installatie en het onderhoud van de apparatuur die hij gebruikt, slechts opstellen dan wel uitvoeren door installateurs en personen die aan installateurs assistentie verlenen, die beschikken over een verklaring van betrouwbaarheid. Zij verleent uitsluitend diensten aan derden die deze werkzaamheden eveneens slechts laten verrichten door installateurs die aan de genoemde voorwaarden voldoen.
 
@@ -2169,7 +2169,7 @@ Deze regeling is mede gebaseerd [artikel 33 van de Algemene wet erkenning EU-ber
 
 ### **Het seal embleem**
 
-## Bijlage 4. Aanmeldingsformulier beveiligingswerkzaamheden ([art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2022-02-19&g=2022-02-19) RPB).
+## Bijlage 4. Aanmeldingsformulier beveiligingswerkzaamheden ([art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=9&artikel=19&z=2022-04-01&g=2022-04-01) RPB).
 
 Naam + adres beveiligingsorganisatie:
 
@@ -2223,7 +2223,7 @@ De omvang van de werkzaamheden is:
 
 ...........................
 
-[Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=5&z=2022-02-19&g=2022-02-19) wordt niet gepubliceerd.
+[Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&bijlage=5&z=2022-04-01&g=2022-04-01) wordt niet gepubliceerd.
 
 ## Bijlage 6. Privacycode sector particuliere onderzoeksbureaus van de vereniging van particuliere beveiligingsorganisaties ([artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11a&artikel=23a&z=2019-04-01&g=2020-04-02))
 
@@ -2267,7 +2267,7 @@ Het onderzoek bestaat uit een gesprek over de algemene gezondheid, oogonderzoek,
 
 ##### Artikel 5a. (tijdelijke regeling beveiligers in opleiding in verband met COVID-19)
 
-In afwijking van het bepaalde in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=2&artikel=5&z=2022-02-19&g=2022-02-19), wordt de in artikel 5, tweede lid, genoemde periode van 12 maanden met 12 maanden verlengd indien de aanvankelijke periode van 12 maanden verloopt in de periode van 1 april 2020 tot 1 april 2021.
+Vervallen
 
 #### 5. Instructie van en controle op het personeel
 
@@ -2283,7 +2283,7 @@ In afwijking van het bepaalde in [artikel 5, vierde lid](https://wetten.overheid
 
 ### **Metaal**
 
-## Bijlage 6. (Privacy)gedragscode sector particuliere onderzoeksbureaus van de vereniging van particuliere beveiligingsorganisaties (als bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11a&artikel=23a&z=2022-02-19&g=2022-02-19) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus)
+## Bijlage 6. (Privacy)gedragscode sector particuliere onderzoeksbureaus van de vereniging van particuliere beveiligingsorganisaties (als bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0010256&paragraaf=11a&artikel=23a&z=2022-04-01&g=2022-04-01) van de Regeling particuliere beveiligingsorganisaties en recherchebureaus)
 
 ### 4.3. Opdrachten- c.q. voorvallenregistratie en de toepasselijkheid van de AVG
 
