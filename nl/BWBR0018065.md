@@ -4,7 +4,7 @@ identifier: "BWBR0018065"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2017-08-01"
+last_updated: "2022-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018065"
 soort: "AMvB"
@@ -66,9 +66,9 @@ registervoorportaal: registervoorportaal als bedoeld in [artikel 38p van de Wet 
 
 ##### Artikel 2. Nadere invulling van de onderdelen van het jaarverslag
 
-1. Het jaarverslag, bedoeld in [artikel 171 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), wordt ingericht overeenkomstig bij ministeriële regeling vast te stellen regels.
+1. Het jaarverslag, bedoeld in [artikel 165 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165) dan wel [artikel 141 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=141), wordt ingericht overeenkomstig bij ministeriële regeling vast te stellen regels.
 
-2. In het bestuursverslag, bedoeld in [artikel 171, eerste lid onder a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157, eerste lid onder a, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), geeft het bevoegd gezag informatie over de school of scholen, en geeft het samenwerkingsverband of de centrale dienst informatie over de rechtspersoon. Onder informatie over de school of scholen respectievelijk de rechtspersoon wordt in ieder geval begrepen informatie over:
+2. In het bestuursverslag, bedoeld in [artikel 165, eerste lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165) dan wel [artikel 141, eerste lid, onderdeel a, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=141), geeft het bevoegd gezag informatie over de school of scholen, en geeft het samenwerkingsverband of de centrale dienst informatie over de rechtspersoon. Onder informatie over de school of scholen respectievelijk de rechtspersoon wordt in ieder geval begrepen informatie over:
 
 - a. de kernactiviteiten die onder verantwoordelijkheid van het bevoegd gezag, het samenwerkingsverband of de centrale dienst hebben plaatsgevonden, en de daarbij behorende kerngegevens die, voor zover van toepassing, in ieder geval betrekking hebben op ontwikkelingen ten aanzien van leerlingen, personeel, aangesloten dan wel betrokken bevoegde gezagsorganen en op financiën, voor zover niet opgenomen in de jaarrekening;
 
@@ -80,7 +80,7 @@ registervoorportaal: registervoorportaal als bedoeld in [artikel 38p van de Wet 
 
 - e. de financiën, bestaande uit tenminste een analyse van de financiële situatie, onderbouwd met financiële kengetallen waaronder begrepen gegevens over de solvabiliteits- en liquiditeitspositie per balansdatum, de rentabiliteit en de streefwaarden.
 
-3. Het bevoegd gezag, het samenwerkingsverband of de centrale dienst verzendt voor 1 juli van het jaar volgend op het kalenderjaar waarop het jaarverslag betrekking heeft, aan Onze minister de desbetreffende jaarrekening, bedoeld in [artikel 171, eerste lid onder b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157, eerste lid onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), alsmede de gegevens bedoeld in het tweede lid, onder e. Het cijfermatige deel uit de jaarrekening wordt gelijktijdig ook elektronisch verzonden.
+3. Het bevoegd gezag, het samenwerkingsverband of de centrale dienst verzendt voor 1 juli van het jaar volgend op het kalenderjaar waarop het jaarverslag betrekking heeft, aan Onze minister de desbetreffende jaarrekening, bedoeld in [artikel 165, eerste lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165) dan wel [artikel 141, eerste lid, onderdeel b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=141), alsmede de gegevens bedoeld in het tweede lid, onder e. Het cijfermatige deel uit de jaarrekening wordt gelijktijdig ook elektronisch verzonden.
 
 4. Bij ministeriële regeling kan Onze minister voor de jaarrekening, bedoeld in het derde lid, alsmede voor de grondslagen daarvan een model vaststellen.
 
@@ -88,11 +88,11 @@ registervoorportaal: registervoorportaal als bedoeld in [artikel 38p van de Wet 
 
 ##### Artikel 3. Beschrijving van de gegevens
 
-De gegevens, bedoeld in de [artikelen 172](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172) en [173 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=173) dan wel de [artikelen 158](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=158) en [159 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=159) waarover een bevoegd gezag of een centrale dienst beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=1&z=2017-08-01&g=2017-08-01) bij dit besluit.
+De gegevens, bedoeld in de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165) en [166 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=166) dan wel de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=142) en [143 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143) waarover een bevoegd gezag of een centrale dienst beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=1&z=2022-04-01&g=2022-04-01) bij dit besluit.
 
 ##### Artikel 4. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2017-08-01&g=2017-08-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
+Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2022-04-01&g=2022-04-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
 
 ##### Artikel 5. Nadere specificatie gegevens lerarenregister en registervoorportaal
 
@@ -266,7 +266,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a. Gebruik burgerservicenummer personeel door bevoegd gezag
 
-Bij de gegevensverstrekking op grond van [artikel 173 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=173) en [artikel 159 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=159) maakt het bevoegd gezag gebruik van het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), van een lid van het personeel of gewezen personeel van de school.
+Bij de gegevensverstrekking op grond van [artikel 167 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167) en [artikel 143 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143) maakt het bevoegd gezag gebruik van het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), van een lid van het personeel of gewezen personeel van de school.
 
 ## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2015-01-01&g=2015-01-01) van het Besluit informatievoorziening WPO/WEC
 
@@ -326,11 +326,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8. Beschrijving gegevens lerarenregister en registervoorportaal
 
-De gegevens die worden geleverd en verwerkt voor het lerarenregister en het registervoorportaal worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=2&z=2017-08-01&g=2017-08-01) bij dit besluit.
+De gegevens die worden geleverd en verwerkt voor het lerarenregister en het registervoorportaal worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=2&z=2022-04-01&g=2022-04-01) bij dit besluit.
 
 ##### Artikel 9. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven aan de definiëring en ordening als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2017-08-01&g=2017-08-01), en aan:
+Bij ministeriële regeling kan een nadere invulling worden gegeven aan de definiëring en ordening als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2022-04-01&g=2022-04-01), en aan:
 
 - a. de wijze waarop de gegevens worden gedefinieerd, geordend, gecorrigeerd en verstrekt.
 
@@ -342,7 +342,7 @@ Bij ministeriële regeling kan een nadere invulling worden gegeven aan de defini
 
 ##### Artikel 10. Gewijzigde grondslag
 
-Dit besluit berust op de [artikelen 38h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38h), [38g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38g), [38q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38q), [38r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38r), [171, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171), [172, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), en [173, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=173) en de [artikelen 38h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38h), [38g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38g), [38q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38q), [38r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38r), [157, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), [158, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=158), en [159, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=159).
+Dit besluit berust op de [artikelen 38h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38h), [38g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38g), [38q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38q), [38r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=38r), [165, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165), [166, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=166), en [167, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=167) en de [artikelen 38h, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38h), [38g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38g), [38q, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38q), [38r, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=38r), [141, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=141), [142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=142), en [143, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143).
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -352,7 +352,7 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 
 Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO/WEC.
 
-## Bijlage 1. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2017-08-01&g=2017-08-01) van het Besluit informatievoorziening WPO/WEC
+## Bijlage 1. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2022-04-01&g=2022-04-01) van het Besluit informatievoorziening WPO/WEC
 
 ### A. Instellingsgegevens
 
@@ -388,7 +388,7 @@ Toelagen
 
 Ziekte en verlofgegevens
 
-## Bijlage 2. als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2017-08-01&g=2017-08-01) van het Besluit informatievoorziening WPO/WEC
+## Bijlage 2. als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2022-04-01&g=2022-04-01) van het Besluit informatievoorziening WPO/WEC
 
 Deze bijlage bevat een uitputtend overzicht van de gegevens die het bevoegd gezag dient te leveren voor het lerarenregister en het registervoorportaal.
 
