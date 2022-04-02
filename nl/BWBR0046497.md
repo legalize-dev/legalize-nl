@@ -4,7 +4,7 @@ identifier: "BWBR0046497"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-12"
-last_updated: "2022-04-01"
+last_updated: "2022-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046497"
 soort: "ministeriele-regeling"
@@ -54,15 +54,15 @@ Besluit:
 
 ##### Artikel 2
 
-Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2022-04-02&g=2022-04-01), waaronder het nemen van beslissingen op bezwaarschriften voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen, en het instellen van hoger beroep.
+Aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland wordt tevens mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2022-04-02&g=2022-04-02), waaronder het nemen van beslissingen op bezwaarschriften voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen, en het instellen van hoger beroep.
 
 ##### Artikel 3
 
-In het geval de Minister van Economische Zaken en Klimaat een mededeling doet aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland dat een aangelegenheid als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2022-04-02&g=2022-04-01), door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de Nationaal Coördinator Groningen van het Ministerie van Economische Zaken en Klimaat.
+In het geval de Minister van Economische Zaken en Klimaat een mededeling doet aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland dat een aangelegenheid als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2022-04-02&g=2022-04-02), door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat, volmacht en machtiging verleend aan de Nationaal Coördinator Groningen van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 4
 
-1. Het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2022-04-02&g=2022-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=2&z=2022-04-02&g=2022-04-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam bij het Samenwerkingsverband Noord-Nederland.
+1. Het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland kan voor de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=1&z=2022-04-02&g=2022-04-02) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0046497&artikel=2&z=2022-04-02&g=2022-04-02) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam bij het Samenwerkingsverband Noord-Nederland.
 
 2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
