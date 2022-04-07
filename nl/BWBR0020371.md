@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2022-04-05"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De bevoegde autoriteit, bedoeld in artikel 1 ter, tweede lid, artikel 1 quinquies, eerste lid, artikel 1 sexies, derde tot en met achtste lid, artikel 1 septies, derde tot en met achtste lid, artikel 1 septies bis, artikel 1 septies quater, eerste lid, en artikel 1 vicies, tweede lid, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de verlening van de bedoelde diensten of transacties met betrekking tot technische bijstand of tussenhandeldiensten en informatie of kennisgevingen over deze onderwerpen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en, voor zover het betreft de financiering of financiële bijstand, financiële diensten en informatie of kennisgevingen over deze onderwerpen, de Minister van Financiën.
 
-3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 3 bis, eerste lid, artikel 4 bis, en artikel 4 ter, van Verordening (EG) nr. 765/2006 is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+3. De bevoegde autoriteit, bedoeld in artikel 3, eerste en tweede lid, artikel 3 bis, eerste lid, artikel 4 bis, en artikel 4 ter, van [Verordening (EG) nr. 765/2006](32006R0765) is, voor zover het betreft de vrijgave en de beschikbaarstelling van economische middelen, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, de Minister voor Volkshuisvesting en Ruimtelijke Ordening, de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Economische Zaken en Klimaat voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard en elk voor het gebied waartoe hun competenties zich uitstrekken.
 
 4. De bevoegde autoriteit, bedoeld in artikel 1 undecies bis, tweede lid, artikel 1 duodecies, derde lid, artikel 1 tervicies, eerste lid, artikel 1 quatervicies, eerste lid, artikel 1 septvicies, artikel 3, eerste en tweede lid, artikel 3 bis, eerste lid, artikel 4 bis, en artikel 4 ter, van [Verordening (EG) nr. 765/2006](32006R0765) is, voor zover het betreft de vrijgave en de beschikbaarstelling van tegoeden en toestemming voor financiële transacties, deposito of financiële informatie, de Minister van Financiën.
 
