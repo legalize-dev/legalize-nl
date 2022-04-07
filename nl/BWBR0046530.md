@@ -4,7 +4,7 @@ identifier: "BWBR0046530"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-04-07"
-last_updated: "2022-01-01"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046530"
 soort: "zbo"
@@ -134,7 +134,7 @@ De mogelijkheden voor vergoeding zijn gekoppeld aan de LCI-richtlijn COVID-192[h
 
 - b. Onder **extra** materiële kosten worden verstaan de kosten die gemaakt zijn in de periode 1 januari 2022 tot en met 31 december 2022 en het gevolg zijn van de uitbraak van het SARS-CoV-2 virus en samenhangen met de maatregelen van het kabinet of als gevolg van maatregelen die volgen uit RIVM-richtlijnen. Het gaat hierbij om de extra kosten die nodig zijn om de gebruikelijke en (aanvullend) noodzakelijke zorg veilig, verantwoord te leveren. De mogelijkheden voor vergoeding zijn gekoppeld aan de LCI-richtlijn COVID-194[https://lci.rivm.nl/richtlijnen/covid-19](onbekend) van het RIVM (de RIVM-richtlijnen) en Rijksbrede maatregelen.
 
-- c. De volgende materiële kostenposten komen, voor zover ze samenhangen met de omstandigheden geformuleerd onder [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01), van deze beleidsregel in elk geval voor vergoeding in aanmerking:
+- c. De volgende materiële kostenposten komen, voor zover ze samenhangen met de omstandigheden geformuleerd onder [artikel 4, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07), van deze beleidsregel in elk geval voor vergoeding in aanmerking:
 
 - –. kosten voor het gebruik van persoonlijke beschermingsmiddelen (PBM) volgens de daarvoor opgestelde RIVM-richtlijn5[https://lci.rivm.nl/covid-19/PBMbuitenziekenhuis](onbekend), [COVID-19 | LCI richtlijnen (rivm.nl)](onbekend) om besmetting onder zorgpersoneel en kruisbesmetting tussen zorgpersoneel en bewoners te voorkomen;
 
@@ -174,11 +174,11 @@ De NZa zal de vergoeding voor de extra kosten als gevolg van het SARS-CoV-2 viru
 
 ##### Artikel 5. Berekening en verantwoording
 
-De berekening van de onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel genoemde kosten en de verantwoording/verslaglegging hiervan steunt zoveel als mogelijk op de handreiking die in samenwerking door brancheorganisaties en Fizi wordt gepubliceerd.
+De berekening van de onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel genoemde kosten en de verantwoording/verslaglegging hiervan steunt zoveel als mogelijk op de handreiking die in samenwerking door brancheorganisaties en Fizi wordt gepubliceerd.
 
-Voor de toerekening van de financiering van extra gemaakte kosten in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel naar de producten/prestaties van diverse domeinen ([Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) (Wmo), Subsidieregeling behandeling, etcetera) worden verdeelsleutels gehanteerd.
+Voor de toerekening van de financiering van extra gemaakte kosten in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel naar de producten/prestaties van diverse domeinen ([Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) (Wmo), Subsidieregeling behandeling, etcetera) worden verdeelsleutels gehanteerd.
 
-Voor de toerekening van de financiering van extra gemaakte kosten in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel naar de verschillende zorgkantoorregio’s worden verdeelsleutels gehanteerd.
+Voor de toerekening van de financiering van extra gemaakte kosten in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel naar de verschillende zorgkantoorregio’s worden verdeelsleutels gehanteerd.
 
 ##### Artikel 6. Procedure
 
@@ -188,11 +188,11 @@ De zorgaanbieder kan de extra gemaakte kosten die het gevolg zijn van het SARS-C
 
 De NZa stelt binnen het herschikkingsformulier 2022 een afzonderlijk onderdeel beschikbaar voor extra kosten 2022 ten gevolge van SARS-CoV-2 virus. Hierbij wordt aangesloten bij de kostencategorieën. Hiermee kunnen Wlz-zorgaanbieders een aanvraag doen voor een voorlopige vergoeding inzake de Beleidsregel SARS-CoV-2 virus. Het gebruik hiervan is verplicht.
 
-In [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel staan de extra gemaakte kosten die als gevolg van het SARS-CoV-2 virus voor vergoeding in aanmerking komen, vermeld.
+In [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel staan de extra gemaakte kosten die als gevolg van het SARS-CoV-2 virus voor vergoeding in aanmerking komen, vermeld.
 
 Een aanvraag om vergoeding van extra gemaakte kosten kan uitsluitend tweezijdig bij de NZa worden ingediend.
 
-De zorgaanbieder moet voor genoemde onderdelen in het formulier de kosten opgeven en specificeren conform beschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel.
+De zorgaanbieder moet voor genoemde onderdelen in het formulier de kosten opgeven en specificeren conform beschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel.
 
 Het totaalbedrag van deze onderdelen zal als voorlopige mutatie SARS-CoV-2 worden verwerkt in de aanvaardbare kosten 2022 en in het sluittarief worden opgenomen.
 
@@ -206,7 +206,7 @@ De zorgaanbieder kan de kosten die het gevolg zijn van het SARS-CoV-2 virus geza
 
 De NZa stelt binnen het nacalculatieformulier 2022 een afzonderlijk onderdeel beschikbaar voor extra kosten SARS-CoV-2 virus 2022. Het gebruik hiervan is verplicht.
 
-In [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel staan de kosten vermeld die als extra gemaakte kosten als gevolg van het SARS-CoV-2 virus voor vergoeding in aanmerking komen.
+In [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel staan de kosten vermeld die als extra gemaakte kosten als gevolg van het SARS-CoV-2 virus voor vergoeding in aanmerking komen.
 
 De nacalculatie-opgave kan op dit onderdeel uitsluitend tweezijdig bij de NZa worden ingediend.
 
@@ -216,15 +216,15 @@ De NZa zal bij de nacalculatie-opgave in ieder geval de volgende informatie uitv
 
 - b. Naam contactpersoon indien er vragen zijn over de ingevulde kosten of beschrijvingen;
 
-- c. Indien van toepassing omvang van de extra gemaakte kosten, zoals omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel met daarbij uitsplitsing naar:
+- c. Indien van toepassing omvang van de extra gemaakte kosten, zoals omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel met daarbij uitsplitsing naar:
 
-- 1. Vergoeding personele kosten zoals omschreven in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01), van deze beleidsregel uitgesplitst naar:
+- 1. Vergoeding personele kosten zoals omschreven in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07), van deze beleidsregel uitgesplitst naar:
 
 - a. Zorgpersoneel (direct personeel);
 
 - b. Niet-zorgpersoneel (indirect personeel).
 
-- 2. Vergoeding materiële kosten zoals omschreven in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01), van deze beleidsregel.
+- 2. Vergoeding materiële kosten zoals omschreven in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07), van deze beleidsregel.
 
 De NZa kan ter zake deskundigen vragen om te adviseren over de effectiviteit en efficiëntie van uitgevoerde werkzaamheden en de mate waarin dit overeenstemt met de geldende richtlijnen. De NZa kan tevens ter zake deskundigen vragen om te adviseren over de berekening/toerekening van de kosten. Het advies van deze deskundigen zal door de NZa worden gebruikt bij de beoordeling van de in de nacalculatie-opgave opgenomen werkzaamheden en kosten met betrekking tot het SARS-CoV-2 virus.
 
@@ -266,17 +266,17 @@ Bij de uitoefening van haar taken en bevoegdheden, past de NZa haar regelingen t
 
 In afwijking op de hieronder genoemde artikelen, geldt voor zorgaanbieders voor de toepassing van deze beleidsregel het volgende:
 
-Het nacalculatieformulier en de nacalculatie-opgave bevatten tevens de onderdelen zoals genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel.
+Het nacalculatieformulier en de nacalculatie-opgave bevatten tevens de onderdelen zoals genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel.
 
 In aanvulling op het genoemde artikel, geldt voor zorgaanbieders voor de toepassing van deze beleidsregel het volgende met betrekking tot extra kosten:
 
-De zorgaanbieder registreert de extra kosten zoals genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel duidelijk identificeerbaar in zijn administratie.
+De zorgaanbieder registreert de extra kosten zoals genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel duidelijk identificeerbaar in zijn administratie.
 
-Wanneer een zorgaanbieder gebruik maakt van een verdeelsleutel, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=5&z=2022-04-07&g=2022-01-01) van deze beleidsregel legt de zorgaanbieder de gehanteerde uitgangspunten vast in zijn administratie.
+Wanneer een zorgaanbieder gebruik maakt van een verdeelsleutel, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=5&z=2022-04-07&g=2022-04-07) van deze beleidsregel legt de zorgaanbieder de gehanteerde uitgangspunten vast in zijn administratie.
 
 In aanvulling op de genoemde artikelen, geldt voor zorgaanbieders voor de toepassing van deze beleidsregel het volgende:
 
-In aanvulling op de [Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045785) zal de nacalculatie-opgave 2022 tevens de onderdelen zoals genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-01-01) van deze beleidsregel bevatten. In de toelichting op de vragenlijst controleprotocol neemt de zorgaanbieder de aansluiting op tussen de [bijlage in de jaarrekening] en de nacalculatie-opgave. De accountant waarmerkt de toelichting bij de vragenlijst controleprotocol. Deze werkwijze zal worden beschreven in het nog te publiceren Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders.
+In aanvulling op de [Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045785) zal de nacalculatie-opgave 2022 tevens de onderdelen zoals genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4&z=2022-04-07&g=2022-04-07) van deze beleidsregel bevatten. In de toelichting op de vragenlijst controleprotocol neemt de zorgaanbieder de aansluiting op tussen de [bijlage in de jaarrekening] en de nacalculatie-opgave. De accountant waarmerkt de toelichting bij de vragenlijst controleprotocol. Deze werkwijze zal worden beschreven in het nog te publiceren Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders.
 
 ##### Artikel 9. Intrekken/vervallen oude beleidsregel
 
