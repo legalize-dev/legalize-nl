@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2022-04-05"
+last_updated: "2022-04-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Besluit:
 
 1. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 6 ter, artikel 7, eerste lid, en artikel 8, eerste lid, van [Verordening 269/2014](32014R0269) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard. De bevoegde autoriteit, bedoeld in artikel 6 bis van [Verordening 269/2014](32014R0269) is de Minister van Financiën.
 
-2. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 6 ter en artikel 8, eerste lid, van [Verordening 269/2014](32014R0269) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+2. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 6 ter en artikel 8, eerste lid, van Verordening (EU) nr. 269/2014, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, de Minister voor Volkshuisvesting en Ruimtelijke Ordening, de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Economische Zaken en Klimaat voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard en elk voor het gebied waartoe hun competenties zich uitstrekken.
 
 3. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, derde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 3, vierde en zesde lid, artikel 3 ter, vierde lid, artikel 3 septies, vierde lid, en artikel 4, lid 2 ter en derde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft een goederentransactie, een transactie met betrekking tot technische bijstand of tussenhandeldiensten, informatie of kennisgevingen over deze onderwerpen.
 
@@ -104,7 +104,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-04-05&g=2022-04-05) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-04-07&g=2022-04-07) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
