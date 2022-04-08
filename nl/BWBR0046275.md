@@ -4,7 +4,7 @@ identifier: "BWBR0046275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-08"
-last_updated: "2022-03-01"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046275"
 soort: "ministeriele-regeling"
@@ -101,18 +101,18 @@ Voor een categorie productie-installaties als bedoeld in de eerste en tweede kol
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |
 | Artikel besluit | Omschrijving categorie | Basisbedrag in euro/kWh | Maximum aantal vollasturen | Basiselektriciteitsprijs in euro/kWh | Voorlopig correctiebedrag 2022 in euro/kWh |
-| [Artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Zonne-energie, kleinverbruikers-aansluiting | 0,124 | 900 | 0,024 | 0,037 |
-| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Zonne-energie, grootverbruikers-aansluiting | 0,096 | 900 | Netlevering: 0,024 | Netlevering: 0,037 |
-| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Zonne-energie, grootverbruikers-aansluiting | 0,096 | 900 | Niet-netlevering: 0,060 | Niet-netlevering: 0,072 |
-| [Artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Windenergie, kleinverbruikers-aansluiting | 0,113 | netto P50-waarde vollasturen | 0,021 | 0,046 |
-| [Artikel 3, onderdeel d, subonderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Windenergie, grootverbruikers-aansluiting, ≥ 8,5 m/s | 0,068 | netto P50-waarde vollasturen | 0,021 | 0,046 |
-| [Artikel 3, onderdeel d, subonderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Windenergie, grootverbruikers-aansluiting, ≥ 8,0 en < 8,5 m/s | 0,072 | netto P50-waarde vollasturen | 0,021 | 0,046 |
-| [Artikel 3, onderdeel d, subonderdeel iii](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Windenergie, grootverbruikers-aansluiting, ≥ 7,5 en < 8,0 m/s | 0,083 | netto P50-waarde vollasturen | 0,021 | 0,046 |
-| [Artikel 3, onderdeel d, subonderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Windenergie, grootverbruikers-aansluiting, ≥ 7,0 en < 7,5 m/s | 0,088 | netto P50-waarde vollasturen | 0,021 | 0,046 |
-| [Artikel 3, onderdeel d, subonderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Windenergie, grootverbruikers-aansluiting, ≥ 6,75 en < 7,0 m/s | 0,094 | netto P50-waarde vollasturen | 0,021 | 0,046 |
-| [Artikel 3, onderdeel d, subonderdeel vi](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Windenergie, grootverbruikers-aansluiting, < 6,75 m/s | 0,100 | netto P50-waarde vollasturen | 0,021 | 0,046 |
-| [Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Waterkracht kleinverbruikersaansluiting ≥ 15 kW en ≤ 100 kW | 0,134 | 5.000 | 0,031 | 0,057 |
-| [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) | Waterkracht grootverbruikersaansluiting ≥ 15 kW en ≤ 150 kW | 0,134 | 5.000 | 0,031 | 0,057 |
+| [Artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Zonne-energie, kleinverbruikers-aansluiting | 0,124 | 900 | 0,024 | 0,037 |
+| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Zonne-energie, grootverbruikers-aansluiting | 0,096 | 900 | Netlevering: 0,024 | Netlevering: 0,037 |
+| [Artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Zonne-energie, grootverbruikers-aansluiting | 0,096 | 900 | Niet-netlevering: 0,070 | Niet-netlevering: 0,082 |
+| [Artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Windenergie, kleinverbruikers-aansluiting | 0,113 | netto P50-waarde vollasturen | 0,021 | 0,046 |
+| [Artikel 3, onderdeel d, subonderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Windenergie, grootverbruikers-aansluiting, ≥ 8,5 m/s | 0,068 | netto P50-waarde vollasturen | 0,021 | 0,046 |
+| [Artikel 3, onderdeel d, subonderdeel ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Windenergie, grootverbruikers-aansluiting, ≥ 8,0 en < 8,5 m/s | 0,072 | netto P50-waarde vollasturen | 0,021 | 0,046 |
+| [Artikel 3, onderdeel d, subonderdeel iii](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Windenergie, grootverbruikers-aansluiting, ≥ 7,5 en < 8,0 m/s | 0,083 | netto P50-waarde vollasturen | 0,021 | 0,046 |
+| [Artikel 3, onderdeel d, subonderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Windenergie, grootverbruikers-aansluiting, ≥ 7,0 en < 7,5 m/s | 0,088 | netto P50-waarde vollasturen | 0,021 | 0,046 |
+| [Artikel 3, onderdeel d, subonderdeel v](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Windenergie, grootverbruikers-aansluiting, ≥ 6,75 en < 7,0 m/s | 0,094 | netto P50-waarde vollasturen | 0,021 | 0,046 |
+| [Artikel 3, onderdeel d, subonderdeel vi](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Windenergie, grootverbruikers-aansluiting, < 6,75 m/s | 0,100 | netto P50-waarde vollasturen | 0,021 | 0,046 |
+| [Artikel 3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Waterkracht kleinverbruikersaansluiting ≥ 15 kW en ≤ 100 kW | 0,134 | 5.000 | 0,031 | 0,057 |
+| [Artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) | Waterkracht grootverbruikersaansluiting ≥ 15 kW en ≤ 150 kW | 0,134 | 5.000 | 0,031 | 0,057 |
 
 ##### Artikel 5. (inwerkingtreding)
 
@@ -122,7 +122,7 @@ Dit besluit treedt in werking met ingang van 1 maart 2022.
 
 Dit besluit wordt aangehaald als: Besluit openstelling Subsidieregeling coöperatieve energieopwekking 2022.
 
-## Bijlage. behorende bij [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-03-01) (lijst windsnelheden per gemeente)
+## Bijlage. behorende bij [artikel 3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046275&artikel=3&z=2022-04-08&g=2022-04-08) (lijst windsnelheden per gemeente)
 
 | Gemeentenaam | Provincie | Windcategorie |
 | --- | --- | --- |
