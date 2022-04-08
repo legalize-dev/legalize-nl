@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2022-04-01"
+last_updated: "2022-04-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -182,7 +182,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2022-04-08&g=2022-04-01), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2022-04-08&g=2022-04-08), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -220,7 +220,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2022-04-08&g=2022-04-01),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2022-04-08&g=2022-04-08),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -242,7 +242,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2022-04-08&g=2022-04-01).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2022-04-08&g=2022-04-08).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Primair en Voortgezet Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -262,7 +262,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2022-04-08&g=2022-04-01) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
+5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2022-04-08&g=2022-04-08) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -288,7 +288,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2022-04-08&g=2022-04-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2022-04-08&g=2022-04-08) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De Staat der Nederlanden,**
 
@@ -302,7 +302,7 @@ naam van de gemandateerde.
 
 **naam van de gevolmachtigde**
 
-3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2022-04-08&g=2022-04-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2022-04-08&g=2022-04-08) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Binnenlandse Zaken en Koninkrijksrelaties,**
 
@@ -1314,6 +1314,8 @@ Het Ministerie bestaat uit de volgende dienstonderdelen:
 
 - 2e. Inspectie Overheidsinformatie en Erfgoed
 
+- b. Regeringscommissaris grensoverschrijdend seksueel gedrag en seksueel geweld
+
 - 3.2. organisatieonderdelen die rechtstreeks ressorteren onder de DGPV:
 
 - a. Beleidsdirecties gericht op het stelsel:
@@ -1384,17 +1386,25 @@ De directie BOA is verantwoordelijk voor de ondersteuning van de sturing op de p
 
 De directie COM is verantwoordelijk voor de interne en externe communicatie van het departement.
 
-De Directie Organisatie & Bedrijfsvoering opereert vanuit de kaders die in SGO5-verband de afgelopen jaren zijn ontwikkeld voor een nieuwe inrichting van de hoofdtaken van de departementale bedrijfsvoering op de verschillende bedrijfsvoeringsdomeinen: strategisch advies en control, afnemer van generieke dienstverlening SSO, liaisonfunctie bij maatwerk en bedieningsgebied Hoftoren. De directie is verantwoordelijk voor:
+De Directie Organisatie & Bedrijfsvoering opereert vanuit de kaders die in SGO5-verband de afgelopen jaren zijn ontwikkeld voor een nieuwe inrichting van de hoofdtaken van de departementale bedrijfsvoering op de verschillende bedrijfsvoeringsdomeinen: strategisch advies en control, afnemer van generieke dienstverlening SSO, liaisonfunctie bij maatwerk en bedieningsgebied Hoftoren.
 
-- •. de strategische advisering aan leden van het managementteam OCW, over de specifieke en generieke ICT en informatiehuishouding voor wat betreft de control, de doorontwikkeling en het waarborgen van de continuïteit voor de strategische advisering aan leden van het managementteam OCW op de terreinen huisvesting, facilitair management en inkoop
+De directie is verantwoordelijk voor:
 
-- •. strategisch en tactische advisering op het gebied van personeels- en organisatiewikkeling
+- –. de continuïteit, stabiliteit en doorontwikkeling van de generieke IV-voorzieningen, inclusief beleid (concern) en de tactisch/operationele advisering en ondersteuning van de OCW-medewerkers (gegevenseigenaren) van het bestuursdepartement binnen de algemene kaders en onder aansturing van de CIO OCW.
 
-- •. alle operationele personele, informatieve, formatieve en financiële administratieve processen, die de directie Organisatie & Bedrijfsvoering uitvoert ten behoeve van haar afnemers: het concern en het bestuursdepartement.
+- –. de strategische advisering aan leden van het managementteam OCW op de terreinen huisvesting, facilitair management en inkoop.
+
+- –. strategisch en tactische advisering op het gebied van personeels- en organisatiewikkeling
+
+- –. alle operationele personele, informatieve, formatieve en financiële administratieve processen, die de directie Organisatie & Bedrijfsvoering uitvoert ten behoeve van haar afnemers: het concern en het bestuursdepartement.
 
 De directie FEZ is verantwoordelijk voor het begrotingsproces en bewaakt de uitkomsten daarvan. Tevens is de directie verantwoordelijk voor de interne planning & control cyclus van het Ministerie. Vanuit de financiële expertise ondersteunt zij bij alle aspecten van beleid en bedrijfsvoering. Dit gebeurt zowel op het niveau van de DG (DG control) als op het niveau van SG respectievelijk minister (Concern control). De directie is belast met de algemene beleidsvorming en advisering over toezicht. De directie is tevens verantwoordelijk voor de beleidsontwikkeling op het terrein arbeidszaken.
 
-De directie Kennis is verantwoordelijk voor het verbinden van beleidsvorming, wetenschap en praktijk. Daarmee wordt de kwaliteit van de beleidsvorming vergroot en wordt de relevantie van wetenschappelijk onderzoek op OCW-gebied versterkt. Door te werken aan het vergroten van het inzicht in de prestaties van de OCW-stelsels bij alle actoren, worden die actoren in staat gesteld de eigen prestaties te verhogen.
+De directie Kennis adviseert gevraagd en ongevraagd de ambtelijke en politieke top en de beleidsdirecties bij beleidsvorming voor de domeinen kennis, strategie, data, informatisering, projectmatig en programmatisch werken.
+
+Kennis maakt analyses en verkenningen, ontsluit nationaal en internationaal onderzoek, data, en beleidsinformatie. De directie verbindt strategische vragen met beleidsopgaven, en bevordert via de Projectenpool goed projectmatig en programmatisch werken binnen OCW. Bovendien is Kennis verantwoordelijk voor advies over en het opstellen van strategisch informatiebeleid en controleert op de naleving daarvan.
+
+De CIO-office ondersteunt de directeur Kennis in zijn rol als CIO OCW.
 
 De directie WJZ is verantwoordelijk voor de totstandkoming van de wet- en regelgeving van OCW. Voorts is de directie WJZ verantwoordelijk voor de advisering op het terrein van bestuurlijke en juridische aangelegenheden, voor de toetsing van internationale- en EU-regelgeving alsmede beleid en regels waarvan de totstandkoming tot de rechtstreekse verantwoordelijkheid van de andere directies behoort.
 
@@ -1409,6 +1419,8 @@ De directie VO is verantwoordelijk voor de beleidsontwikkeling voor het voortgez
 De directie is ten slotte verantwoordelijk voor de beleidsontwikkeling voor de onderwijsondersteuning en coördineert dit beleid voor de directies PO, VO en BVE.
 
 Het beleidsterrein van het voortgezet onderwijs omvat de scholen voor voorbereidend wetenschappelijk onderwijs (vwo), het hoger algemeen voortgezet onderwijs (havo), voorbereidend middelbaar beroepsonderwijs (vmbo), praktijkonderwijs en de landelijke ondersteunende instellingen (landelijke pedagogische centra: APS, CPS en KPC-groep, alsmede CITO en SLO).
+
+De programmadirectie MDT is opgericht naar aanleiding van het Regeerakkoord van het Kabinet Rutte IV waarbij het programma is overgegaan van VWS naar OCW. Het programma beoogt jongeren in staat te stellen een bijdrage te leveren aan de samenleving door het invoeren van een vrijwillige maatschappelijke diensttijd (van maximaal 6 maanden). Het programma realiseert onder meer beleid dat gericht is op het vergroten van de maatschappelijke betrokkenheid en maatschappelijke kansen van jongeren.
 
 De beleidsdirecties van het DGHBWE hebben de volgende taken en verantwoordelijkheden:
 
@@ -1499,5 +1511,33 @@ Er zijn de volgende bureaus die onafhankelijke of zelfstandige organisaties onde
 - 11.4. College voor toetsen en examens (CvTE)
 
 - 11.5. College van beroep voor het hoger onderwijs (CBHO)
+
+- 11.6. Het bureau van de regeringscommissaris grensoverschrijdend seksueel gedrag en seksueel geweld
+
+- 12.1. De Directeur Kennis is chief information officer (CIO) voor het ministerie.
+
+- 12.2. De CIO heeft de volgende hoofdtaken:
+
+- a. Het inrichten van een CIO-stelsel voor het ministerie;
+
+- b. de ambtelijke en politieke leiding gevraagd en ongevraagd adviseren over de doelstelling, uitvoering, kosten en risico’s van grote ICT-trajecten;
+
+- c. oordelen over de start van ICT-trajecten en op kritieke momenten tijdens de uitvoering daarvan;
+
+- d. opstellen en actueel houden van de departementale strategie, beleid en visie op geautomatiseerde informatievoorziening en ICT en deze ontwikkelen en onderhouden, vanuit de rijksbreed afgesproken kaders, de departementale architectuur en standaarden;
+
+- e. bewaken van de samenhang in informatievoorziening en ICT-projecten binnen het ministerie;
+
+- f. het opstellen, beheren en zorgdragen voor de uitvoering van een meerjarig informatieplan voor het ministerie met een financiële paragraaf in samenhang met integraal portfoliomanagement en levenscyclusmanagement;
+
+- g. toezicht houden op de naleving van de rijksbrede kaders binnen het ministerie en het stellen van eisen aan projectbeheersingsmethodieken op basis van de rijksbrede kaders, en ondersteunen van audits, reviews en second opinions;
+
+- h. het aanmelden van activiteiten bij het Adviescollege ICT-toetsing, als bedoeld in artikel 4, eerste lid, van het Instellingsbesluit Adviescollege ICT-toetsing.
+
+- 12.3. De CIO wordt ondersteund door een CIO-office, onderdeel van de afdeling Strategisch Informatiebeleid (SIB) van de directie Kennis. Het afdelingshoofd SIB is tevens plaatsvervangend CIO.’
+
+- 12.4. De departementale de Chief Information Security Officer (CISO OCW) maakt tevens deel uit van deze CIO-office.
+
+- 12.5. Alle dienstonderdelen (BD, IvhO, NA, RCE en DUO) hebben een CIO, een CISO en een operationeel verantwoordelijke voor Informatievoorziening (IV).
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
