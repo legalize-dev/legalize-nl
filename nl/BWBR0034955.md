@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2022-04-07"
+last_updated: "2022-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -104,13 +104,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-04-07&g=2022-04-07) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-04-12&g=2022-04-12) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-Dit onderdeel is nog niet inwerking getreden
+1. De bewaarder van het Kadaster en de openbare registers is bevoegd om in de basisregistratie kadaster, de registratie voor schepen en de registratie voor luchtvaartuigen een aantekening te stellen als het een registergoed betreft dat bevroren dient te worden op grond van artikel 2, eerste lid, van Verordening (EU) nr. 269/2014.
+
+2. De Kamer van Koophandel verstrekt aan de bewaarder van het Kadaster en de openbare registers uit het handelsregister de gegevens, genoemd in [artikel 9, onderdelen a, b en d, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), van de rechtspersonen waarvan de personen, genoemd in bijlage I bij Verordening (EU) nr. 269/2014, de uiteindelijk belanghebbenden als bedoeld in [artikel 15a van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a) zijn. De bewaarder verwerkt de gegevens uitsluitend voor het stellen van de aantekening, bedoeld in het eerste lid.
+
+3. De inspecteur en de ontvanger, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) en [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2) verstrekken desgevraagd alle informatie aan de bewaarder van het Kadaster en de openbare registers die noodzakelijk is voor de uitvoering van de taak, bedoeld in het eerste lid, om zo de verbondenheid van personen op de sanctielijst met registergoederen vast te kunnen stellen. De bewaarder verwerkt de gegevens uitsluitend voor het stellen van de aantekening, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -120,6 +124,52 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2c
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Minister van Economische Zaken en Klimaat en de partijen, bedoeld in het derde tot en met zesde lid, verwerken slechts persoonsgegevens voor zover dit noodzakelijk is voor het overeenkomstig de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) uitvoeren en toezien op de naleving van sancties, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2).
+
+2. De verwerking van persoonsgegevens, bedoeld in het eerste lid, is toegestaan voor zover dit noodzakelijk is voor het:
+
+- a. verlenen van een ontheffing of ander besluit bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) of ingevolge verdragen of bindende besluiten van volkenrechtelijke organisaties;
+
+- b. toezicht op de naleving van voorschriften opgelegd bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) of ingevolge verdragen of bindende besluiten van volkenrechtelijke organisaties;
+
+- c. toepassen van in de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), verdragen of bindende besluiten van volkenrechtelijke organisaties vastgelegde informatieverplichtingen;
+
+3. De Minister van Economische Zaken en Klimaat maakt voor de uitvoering bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), naast gegevens die door de personen, entiteiten en lichamen bij of krachtens de Sanctiewet 1977, of ingevolge verdragen of bindende besluiten van volkenrechtelijke organisaties worden aangeleverd of waarnaar wordt verwezen, gebruik van gegevens die afkomstig zijn uit:
+
+- a. het handelsregister;
+
+- b. de basisregistratie kadaster en de openbare registers, bedoeld in [artikel 1, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=1);
+
+- c. de basisregistratie personen, bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2);
+
+- d. overige openbare registers bij de wet ingesteld; en
+
+- e. openbare informatie.
+
+4. De volgende bestuursorganen, diensten, toezichthouders of andere personen, verstrekken desgevraagd alle informatie aan de Minister van Economische Zaken en Klimaat die noodzakelijk is voor de uitvoering van die wet:
+
+- a. De Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, voor zover het gegevens betreft die verwerkt worden in het kader van de [Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545) en het [Besluit strategische goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024139);
+
+- b. De Minister van Financiën, voor zover het gegevens betreft die verwerkt worden door de Belastingdienst;
+
+- c. de Autoriteit Consument en Markt, voor zover het gegevens betreft die worden verwerkt in het kader van [hoofdstuk 5 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5);
+
+- d. de veiligheidscommissie of beveiligingsfunctionaris, ingesteld door de onderneming, voor zover het gegevens betreft inzake inbreuken of dreigende inbreuken op beperkingen of verboden ten aanzien van toegang tot gevoelige informatie of bedrijfsprocessen;
+
+- e. De Nederlandsche Bank N.V. voor zover het betreft informatie ingevolge haar taken bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296);
+
+- f. de Stichting Autoriteit Financiële Markten voor zover het betreft informatie ingevolge haar taken bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296);
+
+5. De Minister van Economische Zaken en Klimaat kan voor zover dit noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), voorts de Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken om mededeling als bedoeld in [artikel 8, tweede lid, onderdeel f, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8) te doen of de Minister van Defensie verzoeken om mededeling als bedoeld in [artikel 10, tweede lid, onderdeel g, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10) te doen.
+
+6. Een notaris geeft van tot zijn protocol behorende verklaringen van erfrecht desgevraagd afschriften uit aan de Minister van Economische Zaken en Klimaat, voor zover dit noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296). [Artikel 49b van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=49b) is van overeenkomstige toepassing.
+
+7. Voor zover de gegevens die de personen, entiteiten en lichamen hebben aangeleverd en de verzameling of verstrekking, bedoeld in het derde tot en met zesde lid, niet de benodigde gegevens heeft opgeleverd, verstrekken de personen, entiteiten en lichamen desgevraagd alle informatie aan de Minister van Economische Zaken en Klimaat die noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), verdragen of bindende besluiten van volkenrechtelijke organisaties.
+
+8. Ten behoeve van de naleving van de verplichting, bedoeld in het zesde lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 22 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=22).
+
+9. De gegevensverstrekking ingevolge het derde lid, onder c, en het vierde tot en met achtste lid, geschiedt kosteloos.
+
+10. De Minister van Economische Zaken en Klimaat is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van dit artikel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
