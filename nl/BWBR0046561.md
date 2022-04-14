@@ -4,7 +4,7 @@ identifier: "BWBR0046561"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-04-14"
-last_updated: "2022-03-30"
+last_updated: "2022-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046561"
 soort: "beleidsregel"
@@ -47,7 +47,7 @@ Ten slotte heb ik de tekst van onderdeel 8 aangepast naar aanleiding van de invo
 
 ### 1.1. Opzet van het besluit
 
-In paragraaf 2 licht ik de werking van [artikel 28a Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a) toe. In de paragrafen 3 tot en met 11 van dit besluit staat mijn beleid voor de toepassing van [artikel 28a Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a). Hier ga ik onder andere in op de voorwaarden die in het algemeen worden gesteld bij de fiscale begeleiding van de omzetting. Deze voorwaarden zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-03-30) van dit besluit. Met nadruk wijs ik erop dat het algemene karakter van de voorwaarden meebrengt dat de voorwaarden worden gewijzigd of aangevuld al naar gelang de bijzondere omstandigheden van het geval.
+In paragraaf 2 licht ik de werking van [artikel 28a Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a) toe. In de paragrafen 3 tot en met 11 van dit besluit staat mijn beleid voor de toepassing van [artikel 28a Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a). Hier ga ik onder andere in op de voorwaarden die in het algemeen worden gesteld bij de fiscale begeleiding van de omzetting. Deze voorwaarden zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-04-14) van dit besluit. Met nadruk wijs ik erop dat het algemene karakter van de voorwaarden meebrengt dat de voorwaarden worden gewijzigd of aangevuld al naar gelang de bijzondere omstandigheden van het geval.
 
 In paragraaf 12 verleen ik een algemene toestemming aan de inspecteur tot het afdoen van bepaalde verzoeken om toepassing van [artikel 28a, derde lid, Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a).
 
@@ -67,7 +67,7 @@ Op verzoek van belastingplichtige wordt het omzettingstijdstip gesteld op de aan
 
 ### 4. Voorwaarden bij omzetting in een nv of bv
 
-In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-03-30) geef ik de voorwaarden weer die ik in de regel zal stellen bij de omzetting in een nv of bv van een andere rechtsvorm. In zijn algemeenheid beogen de voorwaarden de fiscale positie van de rechtspersoon na de omzetting zo veel mogelijk gelijk te doen zijn aan die voor de omzetting. Deze zo volledig mogelijke fiscale voortzetting wordt primair geregeld door voorwaarde 1, die bepaalt dat de omgezette rechtspersoon in de plaats treedt van de om te zetten rechtspersoon met betrekking tot al hetgeen in het kader van de omzetting is verkregen. Dit analoog aan de wettelijke regeling bij bedrijfsfusie, juridische fusie en (af)splitsing.
+In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-04-14) geef ik de voorwaarden weer die ik in de regel zal stellen bij de omzetting in een nv of bv van een andere rechtsvorm. In zijn algemeenheid beogen de voorwaarden de fiscale positie van de rechtspersoon na de omzetting zo veel mogelijk gelijk te doen zijn aan die voor de omzetting. Deze zo volledig mogelijke fiscale voortzetting wordt primair geregeld door voorwaarde 1, die bepaalt dat de omgezette rechtspersoon in de plaats treedt van de om te zetten rechtspersoon met betrekking tot al hetgeen in het kader van de omzetting is verkregen. Dit analoog aan de wettelijke regeling bij bedrijfsfusie, juridische fusie en (af)splitsing.
 
 Indeplaatstreding ter zake van het verkregen vermogen is echter niet altijd (eenduidig) voldoende voor de gewenste fiscale voortzetting. Sommige fiscale aspecten zijn meer verbonden met het subject van de om te zetten rechtspersoon dan met het vermogen van dat subject. Voor deze zogenoemde (meer) subjectgebonden fiscale aspecten leidt de indeplaatstreding ter zake van verkregen vermogen niet tot de beoogde zo volledig mogelijke voortzetting van de fiscale positie of is deze voortzetting onduidelijk.
 
@@ -81,11 +81,11 @@ Een stichting of vereniging is slechts belastingplichtig voor de vennootschapsbe
 
 ### 6. Fiscale gevolgen deelgerechtigden; aanvullende opmerkingen
 
-In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-03-30), onderdeel ‘B. Voorwaarden met betrekking tot de deelgerechtigden’ wordt geen rekening gehouden met kapitaalstortingen, wijziging van gerechtigdheid en sfeerovergang naar privévermogen. In de volgende paragrafen ga ik hierop in.
+In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-04-14), onderdeel ‘B. Voorwaarden met betrekking tot de deelgerechtigden’ wordt geen rekening gehouden met kapitaalstortingen, wijziging van gerechtigdheid en sfeerovergang naar privévermogen. In de volgende paragrafen ga ik hierop in.
 
 ### 6.1. Kapitaalstortingen
 
-Indien de leden/aandeelhouders bij de omzetting, anders dan waarvan bij de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-03-30) weergegeven voorwaarden is uitgegaan, wel een kapitaalstorting doen, worden het gestorte kapitaal van de bv, de verkrijgingsprijs en het opgeofferde bedrag voor het aandelenbezit, respectievelijk de deelneming in de bv en de boekwaarde van de aandelen in de bv met het bedrag daarvan verhoogd.
+Indien de leden/aandeelhouders bij de omzetting, anders dan waarvan bij de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-04-14) weergegeven voorwaarden is uitgegaan, wel een kapitaalstorting doen, worden het gestorte kapitaal van de bv, de verkrijgingsprijs en het opgeofferde bedrag voor het aandelenbezit, respectievelijk de deelneming in de bv en de boekwaarde van de aandelen in de bv met het bedrag daarvan verhoogd.
 
 ### 6.2. Wijziging van gerechtigdheid
 
@@ -99,7 +99,7 @@ Voor zover door de deelgerechtigden geen daadwerkelijke storting plaatsvindt, wi
 
 ### 6.3. Sfeerovergang naar privévermogen
 
-Onder omstandigheden kunnen leden-natuurlijke personen / ondernemers van de om te zetten rechtspersoon hun bij de omzetting verkregen aandelen, in overeenstemming met het wettelijke systeem en de daarop gewezen jurisprudentie, overbrengen naar hun privévermogen. Dit aspect staat ter beoordeling van de bevoegde inspecteur. Wel merk ik hierbij op dat deze overbrenging dan plaatsvindt tegen de waarde in het economische verkeer. Daarbij wordt tot hun winst gerekend het verschil tussen deze waarde en het bedrag waarvoor de aandelen, met inachtneming van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-03-30) opgenomen voorwaarde 11, te boek zijn gesteld.
+Onder omstandigheden kunnen leden-natuurlijke personen / ondernemers van de om te zetten rechtspersoon hun bij de omzetting verkregen aandelen, in overeenstemming met het wettelijke systeem en de daarop gewezen jurisprudentie, overbrengen naar hun privévermogen. Dit aspect staat ter beoordeling van de bevoegde inspecteur. Wel merk ik hierbij op dat deze overbrenging dan plaatsvindt tegen de waarde in het economische verkeer. Daarbij wordt tot hun winst gerekend het verschil tussen deze waarde en het bedrag waarvoor de aandelen, met inachtneming van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-04-14) opgenomen voorwaarde 11, te boek zijn gesteld.
 
 ### 7. Omzetting van een coöperatie (of onderlinge waarborgmaatschappij) in een stichting
 
@@ -119,7 +119,7 @@ Indien echter de omzetting niet in overwegende mate is ingegeven door fiscale ov
 
 ### 9. Samenloop fiscale eenheid en [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a)
 
-Als een om te zetten rechtspersoon moedermaatschappij is van een fiscale eenheid voor de vennootschapsbelasting leidt de omzetting in beginsel tot verbreking van de fiscale eenheid. [Artikel 28a, eerste lid, Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a) stelt de omzetting immers gelijk aan liquidatie. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-03-30) wordt door voorwaarde 4 geregeld dat de fiscale eenheid niet verbreekt. Voor de volledigheid merk ik daarbij op dat de voorwaarden van bijlage 1 betrekking hebben op de omzetting van Nederlandse rechtspersonen in een nv of bv. De in deze voorwaarden geregelde voortzetting van de fiscale eenheid geldt dus niet voor andere omzettingen. Voor andere omzettingen zal van geval tot geval worden beoordeeld of de fiscale eenheid in stand blijft (zie in dat kader ook de onderdelen 10.2 en 11.2).
+Als een om te zetten rechtspersoon moedermaatschappij is van een fiscale eenheid voor de vennootschapsbelasting leidt de omzetting in beginsel tot verbreking van de fiscale eenheid. [Artikel 28a, eerste lid, Wet Vpb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a) stelt de omzetting immers gelijk aan liquidatie. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-04-14) wordt door voorwaarde 4 geregeld dat de fiscale eenheid niet verbreekt. Voor de volledigheid merk ik daarbij op dat de voorwaarden van bijlage 1 betrekking hebben op de omzetting van Nederlandse rechtspersonen in een nv of bv. De in deze voorwaarden geregelde voortzetting van de fiscale eenheid geldt dus niet voor andere omzettingen. Voor andere omzettingen zal van geval tot geval worden beoordeeld of de fiscale eenheid in stand blijft (zie in dat kader ook de onderdelen 10.2 en 11.2).
 
 ### 10. Buitenlandsrechtelijke omzettingsregelingen niet onder reikwijdte [artikel 28a Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a)
 
@@ -175,7 +175,7 @@ Ik verleen de inspecteur een algemene toestemming tot het namens mij afdoen van 
 
 Deze algemene toestemming geldt niet indien de inspecteur van mening is dat:
 
-In de gevallen waarin de inspecteur op grond van de algemene toestemming het verzoek zelf kan afdoen, neemt hij zijn beslissing door middel van een voor bezwaar vatbare beschikking overeenkomstig de conceptbeschikking die als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=2&z=2022-04-14&g=2022-03-30) is opgenomen bij dit besluit.
+In de gevallen waarin de inspecteur op grond van de algemene toestemming het verzoek zelf kan afdoen, neemt hij zijn beslissing door middel van een voor bezwaar vatbare beschikking overeenkomstig de conceptbeschikking die als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=2&z=2022-04-14&g=2022-04-14) is opgenomen bij dit besluit.
 
 Indien het verzoek niet valt onder de hierboven verleende algemene toestemming zendt de inspecteur het verzoek, vergezeld van zijn ambtsbericht, door naar de Belastingdienst/Corporate Dienst Vaktechniek, Cluster Vpb-IBwinst, Postbus 20201, 2500 EE Den Haag.
 
@@ -193,11 +193,11 @@ Dit besluit wordt aangehaald als: Beleidsbesluit omzetting rechtspersonen.
 
 ## Overzicht bijlagen:
 
-- –. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-03-30): Voorwaarden voor de toepassing van [artikel 28a, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a)
+- –. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=1&z=2022-04-14&g=2022-04-14): Voorwaarden voor de toepassing van [artikel 28a, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28a)
 
-- –. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=2&z=2022-04-14&g=2022-03-30): Inwilliging; beschikking met voorwaarden
+- –. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=2&z=2022-04-14&g=2022-04-14): Inwilliging; beschikking met voorwaarden
 
-- –. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=3&z=2022-04-14&g=2022-03-30): Ambtsbericht
+- –. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046561&bijlage=3&z=2022-04-14&g=2022-04-14): Ambtsbericht
 
 ## Bijlage 1. bij het beleidsbesluit omzetting rechtspersonen
 
