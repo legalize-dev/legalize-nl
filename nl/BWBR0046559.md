@@ -4,7 +4,7 @@ identifier: "BWBR0046559"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-14"
-last_updated: "2022-01-01"
+last_updated: "2022-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046559"
 soort: "ministeriele-regeling"
@@ -236,7 +236,7 @@ De directeuren zijn, binnen hun aandachtsgebied, verantwoordelijk voor:
 
 ##### Artikel 13. Ondermandaat, volmacht en machtiging
 
-1. Aan de directeuren, dan wel bij hun afwezigheid de respectievelijke plaatsvervangers, worden mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge de [artikelen 3 tot en met 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046559&artikel=3&z=2022-04-14&g=2022-01-01) tot hun werkterrein behoren.
+1. Aan de directeuren, dan wel bij hun afwezigheid de respectievelijke plaatsvervangers, worden mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge de [artikelen 3 tot en met 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046559&artikel=3&z=2022-04-14&g=2022-04-14) tot hun werkterrein behoren.
 
 2. De directeuren maken geen gebruik van het aan hen verleende mandaat, volmacht of machtiging wanneer het dienstbelang naar hun inzicht vergt dat de Directeur-Generaal beleid zijn bevoegdheid zelf uitoefent.
 
