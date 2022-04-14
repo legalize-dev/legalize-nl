@@ -4,7 +4,7 @@ identifier: "BWBR0046562"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-14"
-last_updated: "2022-01-01"
+last_updated: "2022-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046562"
 soort: "ministeriele-regeling"
@@ -87,11 +87,11 @@ De Directeur Juridische Zaken laat zich bij de uitvoering van zijn taken, genoem
 
 ##### Artikel 3a. Ondermandaat, -volmacht en -machtiging plaatsvervangend directeur
 
-Aan de plaatsvervangend directeur wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3&z=2022-04-14&g=2022-01-01), tot zijn werkterrein behoren.
+Aan de plaatsvervangend directeur wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3&z=2022-04-14&g=2022-04-14), tot zijn werkterrein behoren.
 
 ##### Artikel 3b. Ondermandaat, -volmacht en -machtiging adjunct directeur
 
-Aan de adjunct directeur wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3&z=2022-04-14&g=2022-01-01), tot zijn werkterrein behoren, alsmede voor aangelegenheden voortvloeiende uit de plaatsvervanging van de Directeur Juridische Zaken en de plaatsvervangend Directeur Juridische Zaken bij beider afwezigheid, met uitzondering van de aangelegenheden genoemd in [artikel 6, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6&z=2022-04-14&g=2022-01-01).
+Aan de adjunct directeur wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3&z=2022-04-14&g=2022-04-14), tot zijn werkterrein behoren, alsmede voor aangelegenheden voortvloeiende uit de plaatsvervanging van de Directeur Juridische Zaken en de plaatsvervangend Directeur Juridische Zaken bij beider afwezigheid, met uitzondering van de aangelegenheden genoemd in [artikel 6, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6&z=2022-04-14&g=2022-04-14).
 
 ##### Artikel 4. Cluster wet- en regelgeving
 
@@ -113,7 +113,7 @@ Het cluster wet- en regelgeving is belast met de volgende taken:
 
 ##### Artikel 4a. Ondermandaat cluster wet- en regelgeving
 
-Aan de coördinator van het cluster wet- en regelgeving wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=4&z=2022-04-14&g=2022-01-01), tot zijn werkterrein behoren.
+Aan de coördinator van het cluster wet- en regelgeving wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=4&z=2022-04-14&g=2022-04-14), tot zijn werkterrein behoren.
 
 ##### Artikel 5. Cluster internationale aangelegenheden
 
@@ -131,7 +131,7 @@ Het cluster internationale aangelegenheden is belast met de volgende taken:
 
 1. Aan de coördinator van het cluster internationale aangelegenheden wordt mandaat, volmacht en machtiging verleend om bij afwezigheid van de Directeur Juridische Zaken, de plaatsvervangend directeur en de adjunct directeur op te treden als vervanger van de Directeur Juridische Zaken.
 
-2. Aan de coördinator van het cluster internationale aangelegenheden wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=5&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+2. Aan de coördinator van het cluster internationale aangelegenheden wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=5&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 6. Cluster nationale taken en rechtshandhaving
 
@@ -153,7 +153,7 @@ Het cluster nationale taken en rechtshandhaving is belast met de volgende taken:
 
 1. Aan de coördinator van het cluster nationale taken en rechtshandhaving wordt mandaat, volmacht en machtiging verleend om bij afwezigheid van de Directeur Juridische Zaken, de plaatsvervangend directeur en de adjunct directeur op te treden als vervanger van de Directeur Juridische Zaken.
 
-2. Aan de coördinator van het cluster nationale taken en rechtshandhaving wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+2. Aan de coördinator van het cluster nationale taken en rechtshandhaving wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 7. Cluster civielrecht
 
@@ -177,7 +177,7 @@ Het cluster civielrecht is belast met de volgende taken:
 
 ##### Artikel 7a. Ondermachtiging Cluster civielrecht
 
-Aan de coördinator en de senior-medewerkers van het cluster civielrecht wordt machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=7&z=2022-04-14&g=2022-01-01), tot hun werkterrein behoren.
+Aan de coördinator en de senior-medewerkers van het cluster civielrecht wordt machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=7&z=2022-04-14&g=2022-04-14), tot hun werkterrein behoren.
 
 ##### Artikel 8. Cluster bestuurs-, straf- en tuchtrecht
 
@@ -199,9 +199,9 @@ Het cluster bestuurs-, straf- en tuchtrecht is belast met de volgende taken:
 
 1. Aan de coördinator van het cluster bestuurs-, straf- en tuchtrecht wordt mandaat, volmacht en machtiging verleend om bij afwezigheid van de Directeur Juridische Zaken, de plaatsvervangend directeur en de adjunct directeur op te treden als vervanger van de Directeur Juridische Zaken.
 
-2. Aan de coördinator van het cluster bestuurs-, straf- en tuchtrecht wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+2. Aan de coördinator van het cluster bestuurs-, straf- en tuchtrecht wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
-3. Aan de coördinator en de senior-medewerkers van het cluster bestuurs-, straf- en tuchtrecht wordt machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 8, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8&z=2022-04-14&g=2022-01-01), tot hun werkterrein behoren.
+3. Aan de coördinator en de senior-medewerkers van het cluster bestuurs-, straf- en tuchtrecht wordt machtiging verleend met betrekking tot de aangelegenheden die ingevolge [artikel 8, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8&z=2022-04-14&g=2022-04-14), tot hun werkterrein behoren.
 
 ##### Artikel 9. Militair Juridische Dienst Krijgsmacht
 
@@ -219,13 +219,13 @@ Het hoofd van de Militair Juridische Dienst Krijgsmacht is belast met de volgend
 
 ##### Artikel 9a. Ondermandaat Militair Juridische Dienst Krijgsmacht
 
-Aan het Hoofd van de Militair Juridische Dienst Krijgsmacht wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 9, onderdelen b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=9&z=2022-04-14&g=2022-01-01), tot zijn werkterrein behoren.
+Aan het Hoofd van de Militair Juridische Dienst Krijgsmacht wordt mandaat verleend met betrekking tot de aangelegenheden die ingevolge [artikel 9, onderdelen b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=9&z=2022-04-14&g=2022-04-14), tot zijn werkterrein behoren.
 
 ##### Artikel 10. Uitzondering op verleende bevoegdheden
 
-1. De functionarissen, bedoeld in de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3a&z=2022-04-14&g=2022-01-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3b&z=2022-04-14&g=2022-01-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=4a&z=2022-04-14&g=2022-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=5a&z=2022-04-14&g=2022-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6a&z=2022-04-14&g=2022-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=7a&z=2022-04-14&g=2022-01-01), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8a&z=2022-04-14&g=2022-01-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=9a&z=2022-04-14&g=2022-01-01) maken geen gebruik van de aan hen verleende bevoegdheden in gevallen waarin de rechtshandeling of andere handeling van een zodanig gewicht is dat deze redelijkerwijs door de Directeur Juridische Zaken dient te worden verricht.
+1. De functionarissen, bedoeld in de [artikelen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3a&z=2022-04-14&g=2022-04-14), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=3b&z=2022-04-14&g=2022-04-14), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=4a&z=2022-04-14&g=2022-04-14), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=5a&z=2022-04-14&g=2022-04-14), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6a&z=2022-04-14&g=2022-04-14), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=7a&z=2022-04-14&g=2022-04-14), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8a&z=2022-04-14&g=2022-04-14) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=9a&z=2022-04-14&g=2022-04-14) maken geen gebruik van de aan hen verleende bevoegdheden in gevallen waarin de rechtshandeling of andere handeling van een zodanig gewicht is dat deze redelijkerwijs door de Directeur Juridische Zaken dient te worden verricht.
 
-2. De functionarissen, bedoeld in de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=4a&z=2022-04-14&g=2022-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=5a&z=2022-04-14&g=2022-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6a&z=2022-04-14&g=2022-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=7a&z=2022-04-14&g=2022-01-01), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8a&z=2022-04-14&g=2022-01-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=9a&z=2022-04-14&g=2022-01-01), maken geen gebruik van de aan hen verleende bevoegdheden in gevallen waarin de rechtshandeling of andere handeling van een zodanig gewicht is dat deze redelijkerwijs, bij afwezigheid van de Directeur Juridische Zaken, door de plaatsvervangend directeur of de adjunct directeur dient te worden verricht.
+2. De functionarissen, bedoeld in de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=4a&z=2022-04-14&g=2022-04-14), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=5a&z=2022-04-14&g=2022-04-14), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=6a&z=2022-04-14&g=2022-04-14), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=7a&z=2022-04-14&g=2022-04-14), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=8a&z=2022-04-14&g=2022-04-14) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0046562&artikel=9a&z=2022-04-14&g=2022-04-14), maken geen gebruik van de aan hen verleende bevoegdheden in gevallen waarin de rechtshandeling of andere handeling van een zodanig gewicht is dat deze redelijkerwijs, bij afwezigheid van de Directeur Juridische Zaken, door de plaatsvervangend directeur of de adjunct directeur dient te worden verricht.
 
 ##### Artikel 11. Ondertekening krachtens mandaat, volmacht of machtiging
 
