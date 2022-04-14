@@ -4,7 +4,7 @@ identifier: "BWBR0046552"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-14"
-last_updated: "2022-01-01"
+last_updated: "2022-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046552"
 soort: "ministeriele-regeling"
@@ -65,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Doorverlenen bevoegdheden
 
-1. De verantwoordelijke, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=2&z=2022-04-14&g=2022-01-01), kan zijn mandaat, volmacht of machtiging in een daarbij door hem te bepalen omvang doorverlenen aan:
+1. De verantwoordelijke, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=2&z=2022-04-14&g=2022-04-14), kan zijn mandaat, volmacht of machtiging in een daarbij door hem te bepalen omvang doorverlenen aan:
 
 - a. een plaatsvervanger;
 
@@ -73,11 +73,11 @@ In dit besluit wordt verstaan onder:
 
 - c. een andere onder hem ressorterende functionaris.
 
-2. De verantwoordelijke, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=2&z=2022-04-14&g=2022-01-01), draagt er zorg voor dat een register wordt aangehouden van de functionarissen aan wie krachtens het eerste lid mandaat, volmacht of machtiging is verleend. In dit register wordt tevens de inhoud van de verleende bevoegdheden vastgelegd.
+2. De verantwoordelijke, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=2&z=2022-04-14&g=2022-04-14), draagt er zorg voor dat een register wordt aangehouden van de functionarissen aan wie krachtens het eerste lid mandaat, volmacht of machtiging is verleend. In dit register wordt tevens de inhoud van de verleende bevoegdheden vastgelegd.
 
 ##### Artikel 4. Overgangsbepaling
 
-Na de inwerkingtreding van dit besluit berusten de ondermandaat-, volmacht- en machtigingsbesluiten die zijn gebaseerd op het [Ondermandaat, volmacht en machtigingsbesluit SG Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034185), op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=3&z=2022-04-14&g=2022-01-01) van dit besluit.
+Na de inwerkingtreding van dit besluit berusten de ondermandaat-, volmacht- en machtigingsbesluiten die zijn gebaseerd op het [Ondermandaat, volmacht en machtigingsbesluit SG Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034185), op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=3&z=2022-04-14&g=2022-04-14) van dit besluit.
 
 ##### Artikel 5. Intrekking
 
