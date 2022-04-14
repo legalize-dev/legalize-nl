@@ -4,7 +4,7 @@ identifier: "BWBR0046554"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-14"
-last_updated: "2022-01-01"
+last_updated: "2022-04-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046554"
 soort: "ministeriele-regeling"
@@ -133,7 +133,7 @@ De directie Aansturen Operationele Gereedheid staat onder leiding van de Directe
 
 ##### Artikel 4a. Ondermandaat, -volmacht en -machtiging Directie Aansturen Operationele Gereedheid
 
-Aan de directeur van de Directie Aansturen Operationele Gereedheid, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=4&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de directeur van de Directie Aansturen Operationele Gereedheid, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=4&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 5. Task Force Logistiek CDS
 
@@ -155,7 +155,7 @@ De Task Force Logistiek staat onder leiding van de Souschef Logistiek (SCLOG) di
 
 ##### Artikel 5a. Ondermandaat, -volmacht en -machtiging Task Force Logistiek
 
-Aan de souschef Logistiek van de Task Force Logistiek wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=5&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de souschef Logistiek van de Task Force Logistiek wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=5&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 6. Directie Plannen
 
@@ -179,7 +179,7 @@ De directie Plannen staat onder leiding van de Directeur Plannen die is belast m
 
 ##### Artikel 6a. Ondermandaat, -volmacht en -machtiging Directie Plannen
 
-Aan de directeur van de Directie Plannen wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=6&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de directeur van de Directie Plannen wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=6&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 7. Directie Financiën & Control CDS
 
@@ -195,7 +195,7 @@ De directie Financiën & Control CDS staat onder leiding van de Directeur Financ
 
 ##### Artikel 7a. Ondermandaat, -volmacht en -machtiging Directie Financiën & Control CDS
 
-Aan de directeur van de Directie Financiën & Control wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=7&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de directeur van de Directie Financiën & Control wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=7&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 8. De Directie Internationale Militaire Samenwerking
 
@@ -221,7 +221,7 @@ De Directie Internationale Militaire Samenwerking staat onder leiding van de Dir
 
 ##### Artikel 8a. Ondermandaat, -volmacht en -machtiging Directie Internationale Militaire Samenwerking
 
-Aan de directeur van de Directie Internationale Militaire Samenwerking, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=8&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de directeur van de Directie Internationale Militaire Samenwerking, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=8&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 9. De Directie Operaties
 
@@ -253,7 +253,7 @@ De directie Operaties staat onder leiding van de Directeur Operaties, die is bel
 
 ##### Artikel 9a. Ondermandaat, -volmacht en -machtiging Directie Operaties
 
-Aan de directeur van de Directie Operaties, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=9&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de directeur van de Directie Operaties, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=9&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 10. Het Militair Strategisch Element
 
@@ -307,7 +307,7 @@ Het Transitieteam staat onder leiding van de Programmamanager Transitie, die is 
 
 ##### Artikel 12a. Ondermandaat, -volmacht en -machtiging Transitieteam
 
-Aan de programmamanager van het Transitieteam, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=12&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de programmamanager van het Transitieteam, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=12&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 13. Innovatiecentrum FRONT
 
@@ -353,7 +353,7 @@ Het DCC staat onder leiding van de commandant Defensie Cyber Commando, die is be
 
 ##### Artikel 14a. Ondermandaat, -volmacht en -machtiging DCC
 
-Aan de commandant van het DCC, dan wel bij diens afwezigheid diens plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=14&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de commandant van het DCC, dan wel bij diens afwezigheid diens plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=14&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 15. Netherlands Special Operations Command
 
@@ -385,7 +385,7 @@ NLD SOCOM staat onder leiding van de Commandant NLD SOCOM, die is belast met:
 
 ##### Artikel 15a. Ondermandaat, -volmacht en -machtiging Netherlands Special Forces Command
 
-Aan de Commandant NLD SOCOM wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=15&z=2022-04-14&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de Commandant NLD SOCOM wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=15&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 16. Ondertekening krachtens mandaat, volmacht of machtiging
 
