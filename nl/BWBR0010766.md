@@ -4,7 +4,7 @@ identifier: "BWBR0010766"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-15"
-last_updated: "1999-10-23"
+last_updated: "2022-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010766"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 2. De bewaarder brengt zo spoedig mogelijk nadat de in het eerste lid bedoelde last is gegeven, de daarvoor in aanmerking komende archiefbescheiden voor overbrenging in gereedheid en maakt daarvan een specificatie. Zodra zulks is geschied geeft hij daarvan kennis aan de Minister van Justitie.
 
-3. De bewaarder en de beheerder maken van de overbrenging gezamenlijk een verklaring op, waaraan de in het tweede lid genoemde specificatie wordt gehecht. Van deze verklaring zendt de bewaarder een afschrift aan de Minister van Justitie en aan de kamer van toezicht.
+3. De bewaarder en de beheerder maken van de overbrenging gezamenlijk een verklaring op, waaraan de in het tweede lid genoemde specificatie wordt gehecht. Van deze verklaring zendt de bewaarder een afschrift aan de Minister van Justitie en aan het Bureau Financieel Toezicht.
 
 ##### Artikel 3
 
