@@ -4,7 +4,7 @@ identifier: "BWBR0044472"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-04-16"
-last_updated: "2020-12-12"
+last_updated: "2022-04-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044472"
 soort: "zbo"
@@ -61,11 +61,11 @@ Voor zover voor bepaalde (soorten) overtredingen specifiek boetetoemetingsbeleid
 
 ### Hoofdstuk 2. Bepalen hoogte bestuurlijke boete
 
-Voor het bepalen van de hoogte van bestuurlijke boetes wordt een onderscheid gemaakt tussen de volgende drie boeteregimes: een boeteregime op basis van een basisbedrag ([paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&z=2020-12-12&g=2020-12-12)), een omzetgerelateerd boeteregime ([paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.2&z=2020-12-12&g=2020-12-12)) en een voordeelgerelateerd boeteregime ([paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.3&z=2020-12-12&g=2020-12-12)). Slechts één van deze boeteregimes is van toepassing. Het vertrekpunt is het boeteregime op basis van een basisbedrag.
+Voor het bepalen van de hoogte van bestuurlijke boetes wordt een onderscheid gemaakt tussen de volgende drie boeteregimes: een boeteregime op basis van een basisbedrag ([paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&z=2022-04-16&g=2022-04-16)), een omzetgerelateerd boeteregime ([paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.2&z=2022-04-16&g=2022-04-16)) en een voordeelgerelateerd boeteregime ([paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.3&z=2022-04-16&g=2022-04-16)). Slechts één van deze boeteregimes is van toepassing. Het vertrekpunt is het boeteregime op basis van een basisbedrag.
 
 ### Paragraaf 2.1. Boeteregime op basis van een basisbedrag
 
-De wetgever heeft overtredingen ingedeeld in categorie 1, 2 of 3. Aan elke categorie is een basisbedrag, een minimumbedrag en een maximumbedrag gekoppeld. Voor overtredingen van voorschriften die zijn ingedeeld in categorie 1, geldt in beginsel een vast bedrag. Voor overtredingen van voorschriften die zijn ingedeeld in categorie 2 en 3, geldt een flexibele boetesystematiek. Het stappenplan dat is uiteengezet in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2020-12-12&g=2020-12-12), geldt voor het vaststellen van boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 2 en 3. Voor het vaststellen van boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 1, gelden alleen de stappen 1, 4, 6 en 8 van het stappenplan.
+De wetgever heeft overtredingen ingedeeld in categorie 1, 2 of 3. Aan elke categorie is een basisbedrag, een minimumbedrag en een maximumbedrag gekoppeld. Voor overtredingen van voorschriften die zijn ingedeeld in categorie 1, geldt in beginsel een vast bedrag. Voor overtredingen van voorschriften die zijn ingedeeld in categorie 2 en 3, geldt een flexibele boetesystematiek. Het stappenplan dat is uiteengezet in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2022-04-16&g=2022-04-16), geldt voor het vaststellen van boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 2 en 3. Voor het vaststellen van boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 1, gelden alleen de stappen 1, 4, 6 en 8 van het stappenplan.
 
 Op basis van het stappenplan worden de volgende stappen doorlopen:
 
@@ -133,7 +133,7 @@ Op basis van het stappenplan worden de volgende stappen doorlopen:
 
 ******Stap 5****: omvang**
 
-- a. Bij de toepassing van deze stap neemt DNB de omvang van de overtreder in acht. Daarbij hanteert DNB de omvangtabellen I en II die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&bijlage=1&z=2020-12-12&g=2020-12-12) zijn opgenomen. Omvangtabel I ziet op boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 2; omvangtabel II ziet op boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 3. Het boetepercentage dat op grond van omvangtabel I dan wel II wordt vastgesteld, wordt toegepast op het op basis van de stappen 1 tot en met 4 berekende boetebedrag.
+- a. Bij de toepassing van deze stap neemt DNB de omvang van de overtreder in acht. Daarbij hanteert DNB de omvangtabellen I en II die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&bijlage=1&z=2022-04-16&g=2022-04-16) zijn opgenomen. Omvangtabel I ziet op boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 2; omvangtabel II ziet op boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 3. Het boetepercentage dat op grond van omvangtabel I dan wel II wordt vastgesteld, wordt toegepast op het op basis van de stappen 1 tot en met 4 berekende boetebedrag.
 
 - b. Als de voor de toepassing van de omvangtabel benodigde financiële gegevens niet beschikbaar zijn – doordat DNB niet over die gegevens beschikt en de overtreder die gegevens ook niet heeft verstrekt – maakt DNB een reële inschatting van de omvang van de overtreder. Is een reële inschatting evenmin mogelijk, dan wordt het boetepercentage op grond van de toepasselijke omvangtabel vastgesteld op 100%.
 
@@ -161,7 +161,7 @@ Op basis van het stappenplan worden de volgende stappen doorlopen:
 
 - •. Heeft de overtreder de gevolgen van de overtreding uit eigen beweging zo veel en zo snel mogelijk ongedaan gemaakt? Heeft de overtreder bijvoorbeeld betrokkenen uit eigen beweging ingelicht over de overtreding en zo nodig schadeloos gesteld?
 
-- b.2. De verlaging wegens de opstelling van de overtreder bedraagt in beginsel maximaal 20%. Bij de toepassing van deze verlaging hanteert DNB in beginsel de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&bijlage=2&z=2020-12-12&g=2020-12-12) opgenomen tabel.
+- b.2. De verlaging wegens de opstelling van de overtreder bedraagt in beginsel maximaal 20%. Bij de toepassing van deze verlaging hanteert DNB in beginsel de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&bijlage=2&z=2022-04-16&g=2022-04-16) opgenomen tabel.
 
 **Andere bijzondere omstandigheden**
 
@@ -187,11 +187,11 @@ Indien DNB het voordeel dat met de overtreding is verkregen heeft kunnen vastste
 
 ### Paragraaf 2.2. Omzetgerelateerd boeteregime
 
-Bepaalde wet- en regelgeving schrijft voor dat de boete voor een overtreding van een voorschrift dat is ingedeeld in categorie 3 – in afwijking van het boeteregime op basis van een basisbedrag – maximaal een bij wet vastgesteld percentage van de netto-jaaromzet van de overtreder in het boekjaar voorafgaand aan de boeteoplegging bedraagt, indien de netto-jaaromzet boven een bepaald drempelbedrag uitkomt. In [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2020-12-12&g=2020-12-12) is uiteengezet op welke wijze DNB de hoogte van de boete bepaalt, als dit regime van toepassing is.
+Bepaalde wet- en regelgeving schrijft voor dat de boete voor een overtreding van een voorschrift dat is ingedeeld in categorie 3 – in afwijking van het boeteregime op basis van een basisbedrag – maximaal een bij wet vastgesteld percentage van de netto-jaaromzet van de overtreder in het boekjaar voorafgaand aan de boeteoplegging bedraagt, indien de netto-jaaromzet boven een bepaald drempelbedrag uitkomt. In [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-04-16&g=2022-04-16) is uiteengezet op welke wijze DNB de hoogte van de boete bepaalt, als dit regime van toepassing is.
 
 ##### Artikel 4. Omzetgerelateerde boete
 
-4.1. Indien het omzetgerelateerde boeteregime van toepassing is, berekent DNB de hoogte van de boete in beginsel conform het stappenplan als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2020-12-12&g=2020-12-12).
+4.1. Indien het omzetgerelateerde boeteregime van toepassing is, berekent DNB de hoogte van de boete in beginsel conform het stappenplan als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2022-04-16&g=2022-04-16).
 
 4.2. DNB kan – in afwijking van 4.1 – een hoger boetebedrag vaststellen, indien de berekening conform het stappenplan niet leidt tot een passende bestraffing.9Daarbij kan worden gedacht aan de situatie waarin het op grond van het stappenplan berekende boetebedrag dusdanig gering is ten opzichte van de draagkracht van de overtreder, dat dit boetebedrag niet als (voldoende) bestraffend wordt ervaren. Ook bij een bijzondere ernst of lange duur van de overtreding, een hoge mate van verwijtbaarheid of andere omstandigheden van het geval, kan bijvoorbeeld aanleiding bestaan om een hoger boetebedrag vast te stellen. In dat geval zal DNB met inachtneming van alle relevante omstandigheden van het geval, een evenredige boete vaststellen.
 
@@ -199,7 +199,7 @@ Bepaalde wet- en regelgeving schrijft voor dat de boete voor een overtreding van
 
 ### Paragraaf 2.3. Voordeelgerelateerd boeteregime
 
-Op basis van bepaalde wet- en regelgeving kan de boete – in afwijking van het regime op basis van een basisbedrag – maximaal een bij wet vastgesteld aantal malen van het voordeel dat met de overtreding is behaald10‘Voordeel’ betreft zowel winst die als gevolg van de overtreding is behaald als verlies dat is beperkt. Ook besparingen als gevolg van de overtreding leveren voordeel op als hier bedoeld. Voor het overige kan worden aangesloten bij de uitleg van het begrip in artikel 36e van het Wetboek van Strafrecht., bedragen. In sommige gevallen geldt als toepassingsvereiste een bij wet vastgestelde ondergrens aan het behaalde voordeel. In [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2020-12-12&g=2020-12-12) is uiteengezet op welke wijze DNB invulling geeft aan deze bevoegdheid.
+Op basis van bepaalde wet- en regelgeving kan de boete – in afwijking van het regime op basis van een basisbedrag – maximaal een bij wet vastgesteld aantal malen van het voordeel dat met de overtreding is behaald10‘Voordeel’ betreft zowel winst die als gevolg van de overtreding is behaald als verlies dat is beperkt. Ook besparingen als gevolg van de overtreding leveren voordeel op als hier bedoeld. Voor het overige kan worden aangesloten bij de uitleg van het begrip in artikel 36e van het Wetboek van Strafrecht., bedragen. In sommige gevallen geldt als toepassingsvereiste een bij wet vastgestelde ondergrens aan het behaalde voordeel. In [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2022-04-16&g=2022-04-16) is uiteengezet op welke wijze DNB invulling geeft aan deze bevoegdheid.
 
 ##### Artikel 5. Voordeelgerelateerde boete
 
@@ -207,9 +207,9 @@ Op basis van bepaalde wet- en regelgeving kan de boete – in afwijking van het 
 
 - •. het met de overtreding verkregen voordeel kan worden vastgesteld of er kan een reële inschatting van dit voordeel worden gemaakt, en
 
-- •. toepassing van het boeteregime op basis van een basisbedrag ([paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&z=2020-12-12&g=2020-12-12)) leidt, gelet op de omvang van dit voordeel, niet tot een passende bestraffing. Uitgangspunt hierbij is dat het voordeelgerelateerde boeteregime zal worden toegepast in plaats van het boeteregime op basis van een basisbedrag, als het verkregen voordeel meer bedraagt dan 50% van het toepasselijke basisbedrag, tenzij het bij wet vastgestelde maximum voor een voordeelgerelateerde boete, gelet op de ernst en/of duur van de overtreding en/of de mate van verwijtbaarheid van de overtreder, ontoereikend blijkt.
+- •. toepassing van het boeteregime op basis van een basisbedrag ([paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&z=2022-04-16&g=2022-04-16)) leidt, gelet op de omvang van dit voordeel, niet tot een passende bestraffing. Uitgangspunt hierbij is dat het voordeelgerelateerde boeteregime zal worden toegepast in plaats van het boeteregime op basis van een basisbedrag, als het verkregen voordeel meer bedraagt dan 50% van het toepasselijke basisbedrag, tenzij het bij wet vastgestelde maximum voor een voordeelgerelateerde boete, gelet op de ernst en/of duur van de overtreding en/of de mate van verwijtbaarheid van de overtreder, ontoereikend blijkt.
 
-5.2. Indien een voordeelgerelateerde boete wordt opgelegd, wordt de boete vastgesteld aan de hand van het stappenplan als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2020-12-12&g=2020-12-12), met uitzondering van stap 7. Deze stap luidt in dit geval als volgt.
+5.2. Indien een voordeelgerelateerde boete wordt opgelegd, wordt de boete vastgesteld aan de hand van het stappenplan als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2022-04-16&g=2022-04-16), met uitzondering van stap 7. Deze stap luidt in dit geval als volgt.
 
 ******Stap 7****: verhoging met bedrag behaalde voordeel**
 
@@ -225,7 +225,7 @@ Op basis van bepaalde wet- en regelgeving kan de boete – in afwijking van het 
 
 Dit beleid wordt aangehaald als: **Algemeen boetetoemetingsbeleid DNB** en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Met de inwerkingtreding komt de **Leidraad vaststellen hoogte bestuurlijke boete** van DNB van 20 juli 2010 te vervallen.
 
-## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2020-12-12&g=2020-12-12), stap 5, van het Algemeen boetetoemetingsbeleid DNB
+## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2022-04-16&g=2022-04-16), stap 5, van het Algemeen boetetoemetingsbeleid DNB
 
 Omvangtabel I ziet op boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 2; omvangtabel II ziet op boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 3.
 
@@ -244,7 +244,7 @@ Omvangtabel I ziet op boetes wegens overtredingen van voorschriften die zijn ing
 | Instelling | Omvang-criterium | Boetepercentage 5% | Boetepercentage tussen 5% en 100% | Boetepercentage 100% |
 | --- | --- | --- | --- | --- |
 | Bank | Balanstotaal | ≤ € 50 miljoen | (balanstotaal - 50 miljoen) / 200 miljoen x 95 + 5 = boetepercentage | ≥ € 250 miljoen |
-| Beleggingsonderneming en -instelling | Hoogste kapitaaleis | ≤ € 50.000 | (hoogste kapitaaleis - 50.000) / 950.000 x 95 + 5 = boetepercentage | ≥ € 1 miljoen |
+| Beleggingsonderneming en -instelling | Hoogste kapitaaleis | ≤ € 75.000 | (hoogste kapitaaleis – 75.000) / 925.000 x 95 + 5 = boetepercentage | ≥ € 1 miljoen |
 | Betaaldienstverlener en elektronischgeldinstelling | Hoogste kapitaaleis | ≤ € 50.000 | (hoogste kapitaaleis - 50.000) / 1,95 miljoen x 95 + 5 = boetepercentage | ≥ € 2 miljoen |
 | Pensioenuitvoerder | Balanstotaal | ≤ € 100 miljoen | (balanstotaal - 100 miljoen) / 900 miljoen x 95 + 5 = boetepercentage | ≥ € 1 miljard |
 | Levens(her)- en natura-uitvaartverzekeraar | Balanstotaal | ≤ € 100 miljoen | (balanstotaal - 100 miljoen) / 900 miljoen x 95 + 5 = boetepercentage | ≥ € 1 miljard |
@@ -267,7 +267,7 @@ Omvangtabel I ziet op boetes wegens overtredingen van voorschriften die zijn ing
 | Trustkantoor | Omzet | ≤ € 1 miljoen | (omzet - 1 miljoen) / 24 miljoen x 95 + 5 = boetepercentage | ≥ € 25 miljoen |
 | Natuurlijk persoon | In beginsel boetepercentage van 10% | In beginsel boetepercentage van 10% | In beginsel boetepercentage van 10% | In beginsel boetepercentage van 10% |
 
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2020-12-12&g=2020-12-12), stap 6, van het Algemeen boetetoemetingsbeleid DNB
+## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2022-04-16&g=2022-04-16), stap 6, van het Algemeen boetetoemetingsbeleid DNB
 
 | Matigings-percentage | Opstelling van de overtreder |
 | --- | --- |
