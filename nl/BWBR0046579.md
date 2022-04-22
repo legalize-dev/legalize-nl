@@ -4,7 +4,7 @@ identifier: "BWBR0046579"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-22"
-last_updated: "2021-05-01"
+last_updated: "2022-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046579"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 - e. **de operationeel manager:** de manager van Cluster 1;
 
-- f. **operationele kosten:** kosten die direct verband houden met het werkterrein van de directeuren, niet zijnde kosten genoemd in [artikel 4, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046579&paragraaf=2&artikel=4&z=2022-04-22&g=2021-05-01);
+- f. **operationele kosten:** kosten die direct verband houden met het werkterrein van de directeuren, niet zijnde kosten genoemd in [artikel 4, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046579&paragraaf=2&artikel=4&z=2022-04-22&g=2022-04-22);
 
 - g. **P&O-aangelegenheden:** de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
@@ -204,7 +204,7 @@ Aan de operationeel manager wordt, voor de onder hem ressorterende medewerkers, 
 
 2. De bevoegdheden die uit dit besluit voortvloeien voor een directeur gaan in geval van afwezigheid van die directeur over op een door hem aan te wijzen andere directeur.
 
-3. De bevoegdheden die voortvloeien uit [artikel 4, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046579&paragraaf=2&artikel=4&z=2022-04-22&g=2021-05-01), voor de daar genoemde managers, gaan in geval van afwezigheid van een van hen, over op een door hem aangewezen andere manager.
+3. De bevoegdheden die voortvloeien uit [artikel 4, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046579&paragraaf=2&artikel=4&z=2022-04-22&g=2022-04-22), voor de daar genoemde managers, gaan in geval van afwezigheid van een van hen, over op een door hem aangewezen andere manager.
 
 #### § 4. Instructie
 
