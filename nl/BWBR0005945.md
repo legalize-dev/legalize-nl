@@ -4,7 +4,7 @@ identifier: "BWBR0005945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2018-11-09"
+last_updated: "2022-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005945"
 soort: "ministeriele-regeling"
@@ -71,7 +71,7 @@ Extractiemiddelen bevatten per kg niet meer dan 1 mg arseen of 1 mg lood.
 
 ##### Artikel 4
 
-1. Bij het verhandelen van de in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2018-11-09&g=2018-11-09), bedoelde extractiemiddelen, worden op de verpakking, de recipiënt of het etiket duidelijk leesbaar en onuitwisbaar de volgende aanduidingen, onderscheidenlijk vermeldingen gebezigd:
+1. Bij het verhandelen van de in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2022-04-23&g=2022-04-23), bedoelde extractiemiddelen, worden op de verpakking, de recipiënt of het etiket duidelijk leesbaar en onuitwisbaar de volgende aanduidingen, onderscheidenlijk vermeldingen gebezigd:
 
 - a. de desbetreffende aanduiding, bedoeld in bijlage I van [richtlijn 2009/32/EG](32009L0032);
 
@@ -89,7 +89,7 @@ Extractiemiddelen bevatten per kg niet meer dan 1 mg arseen of 1 mg lood.
 
 ##### Artikel 4a
 
-Het is verboden extractiemiddelen te verhandelen anders dan met inachtneming van de voorschriften, bij deze regeling gesteld met betrekking tot het bezigen van aanduidingen en vermeldingen.
+Vervallen
 
 ##### Artikel 5
 
@@ -101,6 +101,6 @@ Deze regeling wordt aangehaald als: Warenwetregeling Extractiemiddelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. Extractiemiddelen die mogen worden gebruikt bij de bereiding van grondstoffen, eet- of drinkwaren, of bestanddelen daarvan, zoals bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2018-11-09&g=2018-11-09)
+## Bijlage. Extractiemiddelen die mogen worden gebruikt bij de bereiding van grondstoffen, eet- of drinkwaren, of bestanddelen daarvan, zoals bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2022-04-23&g=2022-04-23)
 
 Vervallen
