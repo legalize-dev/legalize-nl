@@ -4,7 +4,7 @@ identifier: "BWBR0044914"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-23"
-last_updated: "2021-03-10"
+last_updated: "2022-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044914"
 soort: "ministeriele-regeling"
@@ -60,6 +60,6 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 4
 
-Deze regeling wordt aangehaald als: Regeling strafrechtelijke handhaving door de Inspectie SZW op het terrein van Jeugdwet, Wlz, Wmo 2015, Wmg en Zvw.
+Deze regeling wordt aangehaald als: Regeling strafrechtelijke handhaving door de Nederlandse Arbeidsinspectie op het terrein van Jeugdwet, Wlz, Wmo 2015, Wmg en Zvw.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
