@@ -4,7 +4,7 @@ identifier: "BWBR0035849"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-23"
-last_updated: "2014-12-05"
+last_updated: "2022-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035849"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Aan het hoofd van de afdeling Boete, Dwangsom en Inning van de Inspectie SZW wordt mandaat verleend om namens de Minister een last onder bestuursdwang of een last onder dwangsom op te leggen voor overtredingen van bij of krachtens [titel 9.3a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3a) en het [Warenwetbesluit deponering informatie preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0008489) gestelde voorschriften.
+1. Aan het hoofd van de afdeling Boete, Dwangsom en Inning van de Nederlandse Arbeidsinspectie wordt mandaat verleend om namens de Minister een last onder bestuursdwang of een last onder dwangsom op te leggen voor overtredingen van bij of krachtens [titel 9.3a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=9.3a) en het [Warenwetbesluit deponering informatie preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0008489) gestelde voorschriften.
 
-2. Aan het hoofd van de afdeling Boete, Dwangsom en Inning van de Inspectie SZW wordt mandaat verleend voor het namens de Minister verrichten van handelingen die verband houden met de invordering van verbeurde dwangsommen en van de gemaakte kosten voor bestuursdwang als bedoeld in [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25), voor zover deze verband houden met de bevoegdheid, bedoeld in het eerste lid.
+2. Aan het hoofd van de afdeling Boete, Dwangsom en Inning van de Nederlandse Arbeidsinspectie wordt mandaat verleend voor het namens de Minister verrichten van handelingen die verband houden met de invordering van verbeurde dwangsommen en van de gemaakte kosten voor bestuursdwang als bedoeld in [artikel 5:25 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:25), voor zover deze verband houden met de bevoegdheid, bedoeld in het eerste lid.
 
 ##### Artikel 3
 
