@@ -4,7 +4,7 @@ identifier: "BWBR0010269"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-07"
-last_updated: "2016-09-14"
+last_updated: "2022-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010269"
 soort: "ministeriele-regeling"
@@ -37,7 +37,7 @@ entry_into_force: "2007-02-22"
 
 Handelende in overeenstemming met de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op: artikel 2 van [verordening (EEG) nr. 737/90](31990R0737) van de Raad van de Europese Unie van 22 maart 1990 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEG L 82), artikel 2, tweede lid, van [verordening (EG) nr. 194/97](31997R0194) van de Commissie van 31 januari 1997 tot vaststelling van maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 31), [richtlijn nr. 98/53/EG](31998L0053) van de Commissie van 16 juli 1998 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 201), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=12&z=2016-09-14&g=2016-09-14), en 13, van het [Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758), alsmede [artikel 1 van het Residubesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002449&artikel=1);
+Gelet op: artikel 2 van [verordening (EEG) nr. 737/90](31990R0737) van de Raad van de Europese Unie van 22 maart 1990 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEG L 82), artikel 2, tweede lid, van [verordening (EG) nr. 194/97](31997R0194) van de Commissie van 31 januari 1997 tot vaststelling van maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 31), [richtlijn nr. 98/53/EG](31998L0053) van de Commissie van 16 juli 1998 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEG L 201), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010269&artikel=12&z=2022-04-23&g=2022-04-23), en 13, van het [Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758), alsmede [artikel 1 van het Residubesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002449&artikel=1);
 
 Besluit:
 
@@ -45,7 +45,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **verordening (EG) 733/2008:** Verordening (EG) nr. 733/2008 van de Raad van 15 juli 2008 betreffende de voorwaarden voor de invoer van landbouwproducten van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEU 2008, L 201);
+- a. **Uitvoeringsverordening (EU) 2020/1158:** [Uitvoeringsverordening (EU) 2020/1158](33058R2020) van de Commissie van 5 augustus 2020 betreffende de voorwaarden voor de invoer van levensmiddelen en diervoerders van oorsprong uit derde landen ingevolge het ongeluk in de kerncentrale van Tsjernobyl (PbEU 2020, L 257);
 
 - b. **verordening (EG) 1881/2006:** Verordening (EG) nr. 1881/2006 tot vaststelling van de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEU 2006, L 364);
 
@@ -57,7 +57,7 @@ Vervallen
 
 ##### Artikel 3
 
-De gezamenlijke maximale radioactiviteit van cesium 134 en 137 in eet- en drinkwaren is niet hoger dan toegelaten bij artikel 2, tweede lid, van verordening (EG) 733/2008.
+De gezamenlijke maximale radioactiviteit van cesium 134 en 137 in eet- en drinkwaren is niet hoger dan de voor cesium 137 toegelaten waarde op grond van artikel 3, tweede lid, van [Uitvoeringsverordening (EU) 2020/1158](33058R2020).
 
 ##### Artikel 5
 
