@@ -4,7 +4,7 @@ identifier: "BWBR0045053"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-05"
-last_updated: "2021-04-21"
+last_updated: "2022-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045053"
 soort: "ministeriele-regeling"
@@ -92,16 +92,12 @@ Als dierziekten als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.
 
 ##### Artikel 2.2. Aanwijzing zoönosen
 
-Als zoönosen als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.3) worden aangewezen bij de daarbij genoemde soorten:
+Als zoönosen als bedoeld in [artikel 5.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.3) worden aangewezen de in de onderstaande tabel genoemde ziekten bij de daarbij genoemde soorten:
 
-| infecties met salmonella enteritidis | hoenderachtigen (Galliformes), ganzen (Anser of Branta) en eenden (Anatinae) die bestemd zijn voor de productie van consumptie-eieren of broedeieren |
+| Infecties met Salmonella spp | Kippen die worden gehouden voor de productie van consumptie-eieren |
 | --- | --- |
-| infecties met salmonella hadar | hoenderachtigen (Galliformes), ganzen (Anser of Branta) en eenden (Anatinae) die bestemd zijn voor de productie van broedeieren |
-| infecties met salmonella infantis | hoenderachtigen (Galliformes), ganzen (Anser of Branta) en eenden (Anatinae) die bestemd zijn voor de productie van broedeieren |
-| infecties met salmonella java | hoenderachtigen (Galliformes), ganzen (Anser of Branta) en eenden (Anatinae) die bestemd zijn voor de productie van broedeieren |
-| infecties met salmonella typhimurium | hoenderachtigen (Galliformes), ganzen (Anser of Branta) en eenden (Anatinae) die bestemd zijn voor de productie van consumptie-eieren of broedeieren |
-| infecties met salmonella virchow | hoenderachtigen (Galliformes), ganzen (Anser of Branta) en eenden (Anatinae) die bestemd zijn voor de productie van broedeieren |
-| infectie met Sars-CoV-2 | marterachtigen (Mustelidae) en wasberen (Procyon) |
+| Infecties met Salmonella enteritidis, Salmonella hadar, Salmonella infantis, Salmonella typhimurium, Salmonella virchow en Salmonella enterica serovar Paratyphi B var. Java | Vogels die worden gehouden voor de productie van vlees, broedeieren en consumptie-eieren, met uitzondering van kippen die worden gehouden voor de productie van consumptie-eieren |
+| Infectie met Sars-CoV-2 | Marterachtigen (Mustelidae) en wasbeerhonden (Nyctereutes) |
 
 ##### Artikel 2.3. Aanwijzing regio verplaatsen waterdieren naar andere lidstaat
 
@@ -213,13 +209,17 @@ dat in een kalenderjaar wordt gehouden, bedoeld in [artikel 9.18, eerste lid, va
 
 - 3°. het unieke registratienummer, bedoeld in artikel 93, slot, van verordening (EU) nr. 2016/429, het unieke erkenningsnummer, bedoeld in artikel 2, onderdeel 16, van verordening (EU) nr. 2019/2035, dan wel het unieke subregistratienummer, bedoeld in [artikel 5a.1, derde lid, van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=5a.1);
 
+- 4˚. het relatienummer, bedoeld in [artikel 1.1 Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=1.1);
+
 - b. facturen en betaalbewijzen waaruit blijkt dat kosten als bedoeld in het eerste lid zijn gemaakt;
 
 - c. indien van toepassing, een verklaring van een dierenarts dat de diensten, bedoeld in het eerste lid, onderdelen d of e, noodzakelijk zijn geacht;
 
-- d. andere gegevens ter onderbouwing van de noodzaak van de gemaakte kosten voor verzorging, bedoeld in het eerste lid, onderdelen a, b, of c;
+- d. andere gegevens ter onderbouwing van de noodzaak van de gemaakte kosten voor verzorging, bedoeld in het eerste lid, onderdeel c;
 
-- e. indien van toepassing, gegevens waaruit blijkt dat gemaakte kosten als bedoeld in het eerste lid uit andere hoofde is of zal worden vergoed.
+- e. andere gegevens ter onderbouwing van de hoogte van gemaakte kosten voor verzorging, bedoeld in het eerste lid, onderdelen a, b en c;
+
+- f. indien van toepassing, gegevens waaruit blijkt dat gemaakte kosten als bedoeld in het eerste lid uit andere hoofde is of zal worden vergoed.
 
 4. De periode waarop de vergoeding, bedoeld in [artikel 9.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.12), betrekking heeft, vangt aan op de dag nadat de mededeling dat een maatregel als bedoeld in [hoofdstuk 5, paragraaf 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&paragraaf=2) wordt toegepast en eindigt de dag voorafgaand aan de toepassing van die maatregel.
 
@@ -229,9 +229,9 @@ dat in een kalenderjaar wordt gehouden, bedoeld in [artikel 9.18, eerste lid, va
 
 Als modellen als bedoeld in [artikel 2.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&artikel=2.3) worden aangewezen:
 
-- a. voor waarschuwingsborden, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=1&z=2021-04-21&g=2021-04-21) opgenomen modellen;
+- a. voor waarschuwingsborden, de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=1&z=2022-04-30&g=2022-04-30) opgenomen modellen;
 
-- b. voor kentekenen, de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=2&z=2021-04-21&g=2021-04-21) opgenomen modellen.
+- b. voor kentekenen, de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&bijlage=2&z=2022-04-30&g=2022-04-30) opgenomen modellen.
 
 ### Hoofdstuk 6. Wijziging andere regelingen
 
@@ -311,13 +311,13 @@ Deze regeling treedt in werking met ingang van 21 april 2021.
 
 Deze regeling wordt aangehaald als: Regeling diergezondheid.
 
-## Bijlage 1. Als bedoeld bij [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2021-04-21&g=2021-04-21)
+## Bijlage 1. Als bedoeld bij [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2022-04-30&g=2022-04-30)
 
 Wit van kleur met een rode rand en bedrukt met rode letters:
 
 Blauw van kleur met een witte opdruk:
 
-## Bijlage 2. Als bedoeld bij [artikel 5.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2021-04-21&g=2021-04-21)
+## Bijlage 2. Als bedoeld bij [artikel 5.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045053&hoofdstuk=5&artikel=5.1&z=2022-04-30&g=2022-04-30)
 
 Blauw van kleur en bedrukt met zwarte letters:
 
