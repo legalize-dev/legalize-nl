@@ -4,7 +4,7 @@ identifier: "BWBR0045107"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-04-30"
-last_updated: "2022-01-01"
+last_updated: "2022-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045107"
 soort: "ministeriele-regeling-BES"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het bedrag van de jaarlijkse bijdrage voor de inschrijving van een onderneming, rechtspersoon of nevenvestiging, bedoeld in [artikel 32a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&artikel=32a), bedraagt USD 80 maal het gewicht van de jaarlijkse bijdrage voor de betreffende rechtsvorm, bedoeld in artikel 32a, tweede lid, van het besluit.
+1. Het bedrag van de jaarlijkse bijdrage voor de inschrijving van een onderneming, rechtspersoon of nevenvestiging, bedoeld in [artikel 32a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&artikel=32a), bedraagt USD 60 maal het gewicht van de jaarlijkse bijdrage voor de betreffende rechtsvorm, bedoeld in artikel 32a, tweede lid, van het besluit.
 
 2. Het bedrag van de bijdrage bij de eerste inschrijving van een onderneming, rechtspersoon of nevenvestiging, bedoeld in [artikel 32a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028479&artikel=32a), is gelijk aan het bedrag van de jaarlijkse bijdrage voor de betreffende rechtsvorm.
 
