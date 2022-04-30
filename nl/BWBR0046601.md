@@ -4,7 +4,7 @@ identifier: "BWBR0046601"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-30"
-last_updated: "2022-01-01"
+last_updated: "2022-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046601"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022.
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046601&artikel=1&z=2022-04-30&g=2022-01-01) van de Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046601&artikel=1&z=2022-04-30&g=2022-04-30) van de Regeling financiële verantwoording landelijke publieke media-instellingen, NPO en Ster 2022
 
 **Copro 21087A3**
 
