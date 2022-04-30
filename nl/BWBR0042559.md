@@ -4,7 +4,7 @@ identifier: "BWBR0042559"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2019-09-21"
+last_updated: "2022-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042559"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 - i. **de Inspectie Leefomgeving en Transport, Inlichtingen- en Opsporingsdienst:** gegevens en inlichtingen ten behoeve van de in [artikel 3 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3) opgedragen taak;
 
-- j. **de Inspectie Sociale Zaken en Werkgelegenheid:** gegevens en inlichtingen ten behoeve van het toezicht op de naleving van wet- en regelgeving over arbeidsomstandigheden, de arbeidsmarkt, arbeidsverhoudingen en het sociale zekerheidsstelsel;
+- j. **de Nederlandse Arbeidsinspectie:** gegevens en inlichtingen ten behoeve van het toezicht op de naleving van wet- en regelgeving over arbeidsomstandigheden, de arbeidsmarkt, arbeidsverhoudingen en het sociale zekerheidsstelsel;
 
 - k. **de Inspectie Sociale Zaken en Werkgelegenheid, Directie Opsporing:** gegevens en inlichtingen ten behoeve van de in [artikel 3 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3) opgedragen taak;
 
