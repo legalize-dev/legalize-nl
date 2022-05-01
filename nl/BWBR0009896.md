@@ -4,7 +4,7 @@ identifier: "BWBR0009896"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-01"
-last_updated: "2016-07-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009896"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Werkt terug tot en met 30 juni 1998
 
 ##### Artikel 1
 
-Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a) onderscheidenlijk [artikel 1a, eerste lid, onderdeel d, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a), zijn uitgezonderd:
+Als bestuursorgaan als bedoeld in [artikel 1a, eerste lid, onderdeel e, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=1a), zijn uitgezonderd:
 
 - a. de Nederlandse Omroep Stichting, genoemd in [artikel 16 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=16), voor zover belast met andere werkzaamheden dan welke voortvloeien uit onderscheidenlijk verband houden met de coördinatie van de programma's van de instellingen die zendtijd hebben gekregen voor landelijke omroep, onderscheidenlijk met het indelen van de zendtijd van de instellingen die zendtijd hebben verkregen voor de landelijke omroep;
 
@@ -68,7 +68,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van de uitgifte 
 
 ##### Artikel 4
 
-Dit besluit wordt aangehaald als: Besluit bestuursorganen WNo en Wob.
+Dit besluit wordt aangehaald als: Besluit bestuursorganen WNo.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
