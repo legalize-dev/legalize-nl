@@ -4,7 +4,7 @@ identifier: "BWBR0046349"
 country: "nl"
 rank: "wet"
 publication_date: "2022-05-01"
-last_updated: "2022-04-09"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046349"
 soort: "wet"
@@ -77,7 +77,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Onze Minister is de nationale cyberbeveiligingscertificeringsautoriteit, bedoeld in artikel 58, eerste lid, van de cyberbeveiligingsverordening.
 
-2. De [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) is niet van toepassing op gegevens inzake cyberbeveiligingscertificaten voor zekerheidsniveau hoog die de nationale cyberbeveiligingscertificeringsautoriteit verkrijgt in het kader van de uitvoering van de in artikel 58, zevende lid, onderdelen a en h, van de cyberbeveiligingsverordening aan de nationale cyberbeveiligingscertificeringsautoriteit opgedragen taken, behalve voor zover die gegevens milieu-informatie inhouden als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a). De eerste volzin geldt ook als de gegevens bij een ander overheidsorgaan berusten na verstrekking in het kader van deze taken.
+2. De [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) is niet van toepassing op gegevens inzake cyberbeveiligingscertificaten voor zekerheidsniveau hoog die de nationale cyberbeveiligingscertificeringsautoriteit verkrijgt in het kader van de uitvoering van de in artikel 58, zevende lid, onderdelen a en h, van de cyberbeveiligingsverordening aan de nationale cyberbeveiligingscertificeringsautoriteit opgedragen taken, behalve voor zover die gegevens milieu-informatie inhouden als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a). De eerste volzin geldt ook als de gegevens bij een ander overheidsorgaan berusten na verstrekking in het kader van deze taken.
 
 ### Hoofdstuk 3. Cyberbeveiligingscertificering zekerheidsniveau hoog
 
@@ -91,7 +91,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de gegevens die ter uitvoering van het eerste lid worden verstrekt.
 
-3. [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=2&artikel=2&z=2022-04-09&g=2022-04-09), is van overeenkomstige toepassing op gegevens als bedoeld in het tweede lid, onderdeel b.
+3. [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=2&artikel=2&z=2022-05-01&g=2022-05-01), is van overeenkomstige toepassing op gegevens als bedoeld in het tweede lid, onderdeel b.
 
 ##### Artikel 4. (goedkeuring onderzoeksplan)
 
@@ -105,11 +105,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van het derde lid.
 
-6. [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=2&artikel=2&z=2022-04-09&g=2022-04-09), is van overeenkomstige toepassing op gegevens verstrekt in het kader van de in het derde lid bedoelde aanvraag.
+6. [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=2&artikel=2&z=2022-05-01&g=2022-05-01), is van overeenkomstige toepassing op gegevens verstrekt in het kader van de in het derde lid bedoelde aanvraag.
 
 ##### Artikel 5. (goedkeuring onderzoeksrapport en het bijbehorende Europese cyberbeveiligingscertificaat)
 
-1. Een conformiteitsbeoordelingsinstantie die op grond van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=3&artikel=4&z=2022-04-09&g=2022-04-09), goedkeuring van het onderzoeksplan heeft verkregen, voert certificering overeenkomstig het onderzoeksplan uit.
+1. Een conformiteitsbeoordelingsinstantie die op grond van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=3&artikel=4&z=2022-05-01&g=2022-05-01), goedkeuring van het onderzoeksplan heeft verkregen, voert certificering overeenkomstig het onderzoeksplan uit.
 
 2. Een conformiteitsbeoordelingsinstantie stelt een onderzoeksrapport op waaruit volgt dat het ICT-product, de ICT-dienst of het ICT-proces voldoet aan de in een Europese cyberbeveiligingscertificeringsregeling aan dat product, die dienst of dat proces op zekerheidsniveau hoog gestelde eisen voor zekerheidsniveau hoog.
 
@@ -121,11 +121,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van het vierde lid.
 
-7. [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=2&artikel=2&z=2022-04-09&g=2022-04-09), is van overeenkomstige toepassing op gegevens verstrekt in het kader van de in het vierde lid bedoelde aanvraag.
+7. [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=2&artikel=2&z=2022-05-01&g=2022-05-01), is van overeenkomstige toepassing op gegevens verstrekt in het kader van de in het vierde lid bedoelde aanvraag.
 
 ##### Artikel 6. (verlening Europees cyberbeveiligingscertificaat voor zekerheidsniveau «hoog»)
 
-Een conformiteitsbeoordelingsinstantie geeft een Europees cyberbeveiligingscertificaat voor zekerheidsniveau hoog niet eerder af dan nadat Onze Minister de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=3&artikel=5&z=2022-04-09&g=2022-04-09), bedoelde goedkeuring heeft verleend.
+Een conformiteitsbeoordelingsinstantie geeft een Europees cyberbeveiligingscertificaat voor zekerheidsniveau hoog niet eerder af dan nadat Onze Minister de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=3&artikel=5&z=2022-05-01&g=2022-05-01), bedoelde goedkeuring heeft verleend.
 
 ##### Artikel 7. (nadere regels uitvoering cyberbeveiligingsverordening en uitvoeringshandelingen)
 
@@ -149,7 +149,7 @@ Onze Minister kan degene die niet voldoet aan het bepaalde bij of krachtens deze
 
 ##### Artikel 11. (intrekking goedkeuring Europese cyberbeveiligingscertificaten voor zekerheidsniveau hoog)
 
-Onze Minister kan de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=3&artikel=5&z=2022-04-09&g=2022-04-09), bedoelde goedkeuring intrekken indien het cyberbeveiligingscertificaat niet voldoet aan de cyberbeveiligingsverordening of een Europese cyberbeveiligingscertificeringsregeling.
+Onze Minister kan de in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046349&hoofdstuk=3&artikel=5&z=2022-05-01&g=2022-05-01), bedoelde goedkeuring intrekken indien het cyberbeveiligingscertificaat niet voldoet aan de cyberbeveiligingsverordening of een Europese cyberbeveiligingscertificeringsregeling.
 
 ##### Artikel 12. (last onder bestuursdwang)
 
