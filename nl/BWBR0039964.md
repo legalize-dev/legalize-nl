@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2022-01-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -44,13 +44,35 @@ Besluit:
 
 ##### Artikel 1. Begrippen
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
+In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
+
+- **afdeling BDI:** de afdeling Boete, Dwangsom en Inning;
+
+- **afdeling BO:** de afdeling Beleidsondersteuning;
+
+- **afdeling COM:** de afdeling Communicatie;
+
+- **afdeling HH:** de afdeling Handhaving;
+
+- **afdeling PCF:** de afdeling Planning, Control en Financiën;
+
+- **afdeling PSO:** de afdeling Programmering, Signalering en Onderzoek;
+
+- **afdeling SPO:** de afdeling Services, Personeelsontwikkeling en Ondersteuning;
 
 - **directeur:** de directeur van de directie Analyse, Programmering en Strategie;
 
-- **directie:** de directie Analyse, Programmering en Strategie van de Nederlandse Arbeidsinspectie;
+- **directie:** de directie Analyse, Programmering en Strategie;
 
-- **uitvoerende directies:** de directies Toezicht, Mensen & Middelen en Opsporing van de Nederlandse Arbeidsinspectie.
+- **team ISI:** het team Inkoop, Secretariaat en Interne arbozorg;
+
+- **team MOMA:** het team Management, Ondersteuners en Assistenten;
+
+- **team P&O:** het team Personeel en Organisatieontwikkeling;
+
+- **team S&O:** het team Services en Ondersteunend cluster;
+
+- **uitvoerende directies:** de directie Toezicht, de directie Meldingen en Verzoeken, de directie Informatievoorziening en de directie Opsporing.
 
 #### § 2. Organisatie
 
@@ -58,27 +80,45 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De directie bestaat uit de volgende afdelingen:
 
-- a. de afdeling Programmering, Signalering en Onderzoek;
+- a. de afdeling BDI, waarbinnen de volgende teams zijn ingericht:
 
-- b. de afdeling Beleidsondersteuning;
+- 1°. twee teams voor de voorbereiding van bestuurlijke sancties, elk met een eigen teamleider;
 
-- c. de afdeling Communicatie;
+- 2°. een team voor inning en beheer;
 
-- d. de afdeling Handhaving, waarbinnen het team Juridisch Advies Primair Proces is ingericht;
+- b. de afdeling BO;
 
-- e. de afdeling Boete, Dwangsom en Inning, waarbinnen de volgende teams zijn ingericht:
+- c. de afdeling COM;
 
-- 1°. twee teams voor de voorbereiding van bestuurlijke sancties, elk met een eigen teamleider; en
+- d. de afdeling HH, waarbinnen het team Juridisch Advies Primair Advies is ingericht;
 
-- 2°. een team voor inning en beheer.
+- e. de afdeling PCF, waarbinnen de volgende teams zijn ingericht:
+
+- 1°. Control;
+
+- 2°. Financiële administratie;
+
+- 3°. Audit functie;
+
+- f. de afdeling PSO;
+
+- g. de afdeling SPO, waarbinnen de volgende teams zijn ingericht:
+
+- 1°. P&O;
+
+- 2°. ISI;
+
+- 3°. MOMA;
+
+- 4°. S&O.
 
 2. De afdelingen worden als volgt geleid:
 
 - a. aan het hoofd van iedere afdeling staat een afdelingshoofd;
 
-- b. het afdelingshoofd van de afdeling Handhaving wordt bijgestaan door de onder het afdelingshoofd ressorterende teamleider van het team Juridisch Advies Primair Proces;
+- b. aan het hoofd van ieder team staat een teamleider;
 
-- c. het afdelingshoofd van de afdeling Boete, Dwangsom en Inning wordt bijgestaan door de onder het afdelingshoofd ressorterende teamleiders van de teams voor de voorbereiding van bestuurlijke sancties.
+- c. het afdelingshoofd BDI wordt bijgestaan door de onder het afdelingshoofd ressorterende teamleiders van de teams voor de voorbereiding van bestuurlijke sancties.
 
 #### § 3. Verantwoordelijkheden
 
@@ -92,9 +132,9 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - c. het doen van voorstellen aan de directeur met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming van Nederlandse Arbeidsinspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
-- e. het als tactisch manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen;
+- e. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie;
 
 - f. het managen van vakinhoudelijke processen en het actief zoeken van samenwerking en afstemming met overige betrokkenen;
 
@@ -104,19 +144,19 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - i. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op het vakgebied van het afdelingshoofd.
 
-##### Artikel 4. Verantwoordelijkheden afdeling Programmering, Signalering en Onderzoek
+##### Artikel 4. Verantwoordelijkheden afdeling PSO
 
-De afdeling Programmering, Signalering en Onderzoek is verantwoordelijk voor de volgende taken:
+De afdeling PSO is verantwoordelijk voor de volgende taken:
 
-- a. het verrichten van de Nederlandse Arbeidsinspectiebrede risicoanalyse en risicoanalyses voor onderdelen van de Nederlandse Arbeidsinspectie, waaronder mede begrepen rapportages betreffende de opsporing, zoals criminaliteitsbeelden, risicoanalyses en onderzoeksevaluaties;
+- a. het verrichten van de risicoanalyse van de Nederlandse Arbeidsinspectie en risicoanalyses voor onderdelen van de Nederlandse Arbeidsinspectie, waaronder mede begrepen rapportages betreffende de opsporing, zoals criminaliteitsbeelden, risicoanalyses en onderzoeksevaluaties;
 
 - b. het analyseren van de gemeten effecten betreffende de Nederlandse Arbeidsinspectie en haar activiteiten;
 
-- c. het verrichten van thematisch onderzoek naar Nederlandse Arbeidsinspectiebrede onderwerpen, fenomenen en signalen;
+- c. het verrichten van thematisch onderzoek naar onderwerpen, fenomenen en signalen op het terrein van de Nederlandse Arbeidsinspectie;
 
 - d. het verrichten van monitoronderzoek en nalevingsonderzoek;
 
-- e. het in samenwerking met de overige directies voorbereiden van beslissingen over de strategie en de programmering betreffende de werkzaamheden van de Nederlandse Arbeidsinspectie, waaronder het meerjarenplan, de programmering en de landelijke strategieën op het gebied van de overige directies;
+- e. het in samenwerking met de overige directies voorbereiden van beslissingen over de strategie en de programmering betreffende de werkzaamheden van de Nederlandse Arbeidsinspectie, waaronder het meerjarenplan, de programmering en de strategieën van de overige directies;
 
 - f. het in samenwerking met de overige directies initiëren en ontwikkelen van de strategische noties en uitgangspunten in het toezicht- en handhavingsbeleid van de Nederlandse Arbeidsinspectie, die de kaders vormen voor het uitvoeren van de werkzaamheden van de Nederlandse Arbeidsinspectie;
 
@@ -124,15 +164,15 @@ De afdeling Programmering, Signalering en Onderzoek is verantwoordelijk voor de 
 
 - h. het faciliteren van het signaleringsproces binnen de gehele Nederlandse Arbeidsinspectie;
 
-- i. het leveren van inhoudelijke bijdragen voor het jaarverslag en het jaarplan van de Nederlandse Arbeidsinspectie aan de directie Mensen & Middelen;
+- i. het leveren van inhoudelijke bijdragen aan en het coördineren van de totstandkoming van het jaarverslag en het jaarplan van de Nederlandse Arbeidsinspectie;
 
 - j. het in samenwerking met de overige directies bijdragen aan de Integrale Rapportage Handhaving van het ministerie over de realisatie van de afspraken uit het handhavingsarrangement, genoemd in [artikel 11 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=11);
 
 - k. het op aanvraag van het IG-team verrichten van het programma- en projectmanagement op de inhoudelijke thema’s en onderwerpen uit de programmering van de Nederlandse Arbeidsinspectie.
 
-##### Artikel 5. Verantwoordelijkheden afdeling Beleidsondersteuning
+##### Artikel 5. Verantwoordelijkheden afdeling BO
 
-De afdeling Beleidsondersteuning is verantwoordelijk voor de volgende taken:
+De afdeling BO is verantwoordelijk voor de volgende taken:
 
 - a. het coördineren van de beleidsontwikkeling en -uitvoering van de Nederlandse Arbeidsinspectie met de beleidsontwikkeling en -uitvoering van de andere onderdelen van het ministerie en van andere ministeries;
 
@@ -146,11 +186,13 @@ De afdeling Beleidsondersteuning is verantwoordelijk voor de volgende taken:
 
 - f. het uitvoeren van de taken van het verbindingsbureau detacheringsarbeid, bedoeld in [artikel 4, eerste lid, van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=4);
 
-- g. het in samenwerking met de overige directies coördineren en opstellen van het handhavingsarrangement, genoemd in [artikel 11 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=11).
+- g. het in samenwerking met de overige directies coördineren en opstellen van het handhavingsarrangement, genoemd in [artikel 11 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=11);
 
-##### Artikel 6. Verantwoordelijkheden afdeling Communicatie
+- h. de regie op de calamiteitenorganisatie.
 
-De afdeling Communicatie is verantwoordelijk voor het, in afstemming met de overige directies, verzorgen van de communicatie in brede zin van de Nederlandse Arbeidsinspectie, met name door:
+##### Artikel 6. Verantwoordelijkheden afdeling COM
+
+De afdeling COM is verantwoordelijk voor het, in afstemming met de overige directies, verzorgen van de communicatie in brede zin van de Nederlandse Arbeidsinspectie, met name door:
 
 - a. het ontwikkelen en onderhouden van een meerjarige communicatiestrategie van de Nederlandse Arbeidsinspectie;
 
@@ -158,9 +200,9 @@ De afdeling Communicatie is verantwoordelijk voor het, in afstemming met de over
 
 - c. het ondersteunen en uitvoeren van nalevingscommunicatie door onder meer instrumentontwikkeling.
 
-##### Artikel 7. Verantwoordelijkheden afdeling Handhaving
+##### Artikel 7. Verantwoordelijkheden afdeling HH
 
-De afdeling Handhaving is verantwoordelijk voor:
+De afdeling HH is verantwoordelijk voor:
 
 - a. het ondersteunen van inspecteurs en rechercheurs op het gebied van handhavings- en wetgevingskennis, waaronder in ieder geval begrepen:
 
@@ -170,11 +212,11 @@ De afdeling Handhaving is verantwoordelijk voor:
 
 - 3°. de ondersteuning en opleiding op handhavingterrein en aanpak van inspecteurs bij andere inspectiediensten, die als toezichthouders zijn aangewezen op terreinen van de Nederlandse Arbeidsinspectie;
 
-- b. het formuleren van een Nederlandse Arbeidsinspectiebreed handhavingsbeleid;
+- b. het formuleren van een handhavingsbeleid van de Nederlandse Arbeidsinspectie;
 
-- c. het voeren van overleg met de directie WBJA en de afdeling Boete, Dwangsom en Inning over concrete juridische vraagstukken en zaken betreffende openbaarheid van bestuur en handhavingsbeleid van de Nederlandse Arbeidsinspectie;
+- c. het voeren van overleg met de directie WBJA en de afdeling BDI over concrete juridische vraagstukken en zaken betreffende openbaarheid en handhavingsbeleid van de Nederlandse Arbeidsinspectie;
 
-- d. de implementatie, vooral gericht op handhavingsbeleid en werkinstructies, van Nederlandse Arbeidsinspectiebrede wetgevingstrajecten, zoals de [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087) en de [Wet aanpak schijnconstructies](https://wetten.overheid.nl/jci1.3:c:BWBR0036706);
+- d. de implementatie, vooral gericht op handhavingsbeleid en werkinstructies, van wetgevingstrajecten betreffende de Nederlandse Arbeidsinspectie, zoals de [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087) en de [Wet aanpak schijnconstructies](https://wetten.overheid.nl/jci1.3:c:BWBR0036706);
 
 - e. het bijdragen aan adviezen aan beleidsdirecties van het kerndepartement van knelpunten in de vigerende wetgeving;
 
@@ -184,9 +226,9 @@ De afdeling Handhaving is verantwoordelijk voor:
 
 - h. het tot stand brengen en onderhouden van convenanten.
 
-##### Artikel 8. Verantwoordelijkheden afdeling Boete, Dwangsom en Inning
+##### Artikel 8. Verantwoordelijkheden afdeling BDI
 
-De afdeling Boete, Dwangsom en Inning is verantwoordelijk voor:
+De afdeling BDI is verantwoordelijk voor:
 
 - a. het toetsen van boeterapporten, alsmede het vaststellen en uitvoeren van boetebeschikkingen, last onder bestuursdwang en last onder dwangsom, waaronder begrepen het innen en zo nodig bij dwangbevel invorderen van boetes of dwangsommen en in voorkomend geval het verrichten van handelingen om het faillissement aan te vragen van natuurlijke- en rechtspersonen;
 
@@ -194,13 +236,13 @@ De afdeling Boete, Dwangsom en Inning is verantwoordelijk voor:
 
 - c. het geven van waarschuwingen inzake stillegging van werkzaamheden in verband met recidive, alsmede het voorbereiden en bekendmaken van beschikkingen tot stillegging van werkzaamheden in verband met recidive;
 
-- d. de actieve openbaarmaking op grond van [artikel 8 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8) van inspectiegegevens bij zware of ernstige asbestovertredingen binnen de kaders van het daarom vastgestelde beleid.
+- d. de actieve openbaarmaking op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) van inspectiegegevens bij zware of ernstige asbestovertredingen binnen de kaders van het daaromtrent vastgestelde beleid.
 
 #### § 4. Bevoegdheden
 
-##### Artikel 9. Bevoegdheden afdelingshoofd en teamleiders Boete, Dwangsom en Inning
+##### Artikel 9. Bevoegdheden afdelingshoofd en teamleiders BDI
 
-Het hoofd en de teamleiders van de afdeling Boete, Dwangsom en Inning zijn bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
+Het hoofd en de teamleiders van de afdeling BDI zijn bevoegd om namens een bewindspersoon besluiten te nemen, privaatrechtelijke rechtshandelingen te verrichten en handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
 
 ##### Artikel 10. Volmacht en machtiging betreffende personeelsaangelegenheden
 
@@ -214,7 +256,7 @@ Het hoofd en de teamleiders van de afdeling Boete, Dwangsom en Inning zijn bevoe
 
 - d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
 
-- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de [Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914).
+- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de CAO Rijk.
 
 2. In aanvulling op het eerste lid wordt aan de afdelingshoofden ook volmacht en machtiging verleend met betrekking tot het vaststellen van een beoordeling van een medewerker die rechtstreeks ressorteert onder een onder hem ressorterende teamleider, die is opgesteld door een teamleider die rechtstreeks onder hem ressorteert.
 
@@ -226,15 +268,15 @@ De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel doo
 
 - b. activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor de eigen afdeling.
 
-##### Artikel 12. Volmacht afdelingshoofd Communicatie
+##### Artikel 12. Volmacht afdelingshoofd COM
 
-Het hoofd van de afdeling Communicatie is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot de communicatie van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 50.000,– per overeenkomst of bestelling.
+Het hoofd van de afdeling COM is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot de communicatie van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 50.000,– per overeenkomst of bestelling.
 
 ##### Artikel 13. Plaatsvervanging
 
-1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, zijn taken en bevoegdheden geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
-2. Bij afwezigheid of verhindering van een afdelingshoofd worden, voor de duur van de afwezigheid of verhindering, zijn taken en bevoegdheden geheel of gedeeltelijk waargenomen door een of meer daartoe aan te wijzen plaatsvervangers.
+2. Bij afwezigheid of verhindering van een afdelingshoofd of teamleider worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van het afdelingshoofd of de teamleider geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
 #### § 5. Slotbepalingen
 
@@ -262,13 +304,13 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - 1°. het bevorderen van de persoonlijke ontwikkeling;
 
-- 2°. het begeleiden van ziekteverzuim;
+- 2°. het begeleiden van medewerkers met ziekteverzuim;
 
 - 3°. het voeren van functionerings- en personeelsgesprekken;
 
-- c. het zicht houden op de voortgang van de realisatie van teamdoelen en het zo nodig bijsturen;
+- c. het zicht houden op de voortgang van de realisatie van teamdoelen en de afgesproken resultaten, het leveren van producten en diensten conform de geldende kaders en het zo nodig bijsturen;
 
-- d. het gestructureerd voeren van werkoverleg en behalen van afgesproken resultaten en het opleveren van producten en diensten conform de geldende kaders;
+- d. het gestructureerd voeren van werkoverleg;
 
 - e. het zorg dragen voor de borging van kennis en kwaliteit binnen het team;
 
@@ -276,7 +318,7 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - g. het zorg dragen voor de borging van uniformiteit en kwaliteit van vakspecifieke werkprocessen en het leveren van input voor richtlijnen en procedures;
 
-- h. het verzamelen van input op hoofdprocessen vanuit het team;
+- h. het monitoren van de werkprocessen binnen het team;
 
 - i. het actief vormgeven aan ontwikkelingen, innovaties en verbetermogelijkheden en deze vertalen naar vakinhoudelijke producten en diensten;
 
@@ -288,9 +330,67 @@ De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
 
 - k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
 
-- l. het als operationeel manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
+- l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
 #### § 4. Bevoegdheden
+
+#### § 5. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a. Verantwoordelijkheden afdeling PCF
+
+De afdeling PCF is verantwoordelijk voor:
+
+- a. het adviseren over en ondersteunen van de effectieve en efficiënte sturing en beheersing van de Nederlandse Arbeidsinspectie;
+
+- b. het zorg dragen voor een effectieve en efficiënte bedrijfsvoering van de Nederlandse Arbeidsinspectie, voor periodieke evaluatie daarvan en voor de planning en bewaking van de productie van de eigen directie, door middel van een goede administratieve organisatie en een management control systeem;
+
+- c. het voorbereiden van de begroting, het jaarplan, het inspectieplan en het jaarverslag van de Nederlandse Arbeidsinspectie, in samenwerking en afstemming met de directies van de Nederlandse Arbeidsinspectie;
+
+- d. het adviseren over en het uitvoeren van de planning, administratie en control van de Nederlandse Arbeidsinspectie, waaronder mede begrepen het financiële beheer en het contractbeheer.
+
+##### Artikel 8b. Verantwoordelijkheden afdeling SPO
+
+De afdeling SPO is verantwoordelijk voor:
+
+- a. de personeelsontwikkeling van de Nederlandse Arbeidsinspectie, waartoe behoren de strategische personeelsplanning en het personeelsbeleid;
+
+- b. het opleidingsbeleid van de Nederlandse Arbeidsinspectie en het organiseren van specifieke opleidingen voor de Nederlandse Arbeidsinspectie;
+
+- c. het personeelsadvies en personeelsbeheer van de Nederlandse Arbeidsinspectie;
+
+- d. de inkoop van de Nederlandse Arbeidsinspectie;
+
+- e. het facilitymanagement van de Nederlandse Arbeidsinspectie;
+
+- f. de interne Arbozorg van de Nederlandse Arbeidsinspectie;
+
+- g. het vertegenwoordigen van de Nederlandse Arbeidsinspectie bij overleg met departementale en interdepartementale verantwoordelijken ten aanzien van zaken die het werkveld van SPO omvatten;
+
+- h. het inhoudelijk, administratief en secretarieel ondersteunen van topmanagers en managers van de Nederlandse Arbeidsinspectie;
+
+- i. het ambtelijk en bestuurlijk secretariaat ten behoeve van de medezeggenschap;
+
+- j. regie op uitvoering van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) door de Nederlandse Arbeidsinspectie inclusief de zorg voor het aanvragen van de daartoe beschikbare subsidies;
+
+- k. het materieelbeheer overeenkomstig de [Regeling materieelbeheer roerende zaken van het Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0040285).
+
+#### § 4. Bevoegdheden
+
+##### Artikel 11a. Volmacht teamleiders
+
+De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 3.000,- per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
+
+#### § 5. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 12a. Volmachten hoofd en teamleiders SPO
+
+1. Het hoofd van de afdeling SPO is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van en het personeelsadvies voor de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 50.000,– per overeenkomst of bestelling.
+
+2. De teamleiders S&O en ISI zijn gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 15.000,– per overeenkomst of bestelling.
 
 #### § 5. Slotbepalingen
 
