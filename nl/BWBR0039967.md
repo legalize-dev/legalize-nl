@@ -4,7 +4,7 @@ identifier: "BWBR0039967"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-19"
-last_updated: "2022-01-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039967"
 soort: "ministeriele-regeling"
@@ -46,21 +46,23 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
+- **afdeling IKC:** de afdeling Inspectiebreed Kenniscentrum;
+
 - **directeur:** de directeur van de directie Toezicht;
 
 - **directie:** de directie Toezicht;
 
-- **opdrachtgever:** de functioneel leidinggevende van de programmamanager of de projectleider;
+- **opdrachtgever:** de directeur, de programmamanager of de projectleider;
 
 - **programmamanager:** de functionaris die in zijn rol opdrachtnemer is en verantwoordelijk is voor de ontwikkeling van één of meer programmaplannen en de realisatie van de programmadoelen binnen de daarvoor gegeven kaders, waaronder begrepen tijd, geld, capaciteit, in het vastgestelde programmaplan;
 
 - **projectleider:** de functionaris die in zijn rol verantwoordelijk is voor de ontwikkeling en realisatie van één of meer projecten en de gestelde doelstellingen;
 
-- **vakgroep:** een vakgroep die valt onder de directie Mensen & Middelen van de Nederlandse Arbeidsinspectie;
+- **vakgroep:** een vakgroep die valt onder de directie Toezicht dan wel de directie Meldingen en Verzoeken;
 
-- **vakgroep P&P:** de vakgroep Programma- & Projectmanagement;
+- **vakgroep MHC:** de vakgroep Major Hazard Control;
 
-- **vakteam:** eenheid van de vakgroep P&P waarin medewerkers zijn ondergebracht.
+- **vakgroep P&P:** de vakgroep Programma- & Projectmanagement.
 
 #### § 2. Organisatie
 
@@ -68,19 +70,27 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De directie bestaat uit:
 
-- a. een aantal programmanagers op tactisch niveau;
+- a. een aantal programmamanagers op tactisch niveau;
 
-- b. de vakgroep P&P, waarbinnen vakteams zijn ingericht.
+- b. de vakgroep P&P, waarbinnen teams zijn ingericht;
+
+- c. de vakgroep MHC, waarbinnen teams zijn ingericht;
+
+- d. de afdeling IKC, waarbinnen teams zijn ingericht.
 
 2. De programmamanagers op tactisch niveau ressorteren rechtstreeks onder de directeuren Toezicht.
 
-3. De vakgroep P&P ressorteert rechtstreeks onder de directeur Toezicht, die niet tevens de directeur Opsporing is.
+3. De vakgroepen worden als volgt geleid:
 
-4. De vakgroep P&P wordt als volgt geleid:
+- a. aan het hoofd van iedere vakgroep staat een vakgroephoofd;
 
-- a. aan het hoofd van de vakgroep P&P staat een vakgroephoofd;
+- b. aan het hoofd van ieder team staat een teammanager of een teamleider.
 
-- b. aan het hoofd van ieder vakteam staat een teammanager.
+4. De afdeling IKC wordt als volgt geleid:
+
+- a. aan het hoofd van de afdeling staat een afdelingshoofd;
+
+- b. aan het hoofd van ieder team staat een teamleider.
 
 #### § 3. Taken en verantwoordelijkheden
 
@@ -88,7 +98,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende algemene taken:
 
-- a. de functionele aansturing van de medewerkers die ondergebracht zijn in één of meer aan hem opgedragen programma’s of projecten, supervisie op en coördinatie van de programmawerkzaamheden en het rechtstreeks verantwoording afleggen hierover aan de directeur Toezicht die opdrachtgever is;
+- a. de supervisie op en de coördinatie van de programmawerkzaamheden en het rechtstreeks verantwoording afleggen hierover aan de directeur die opdrachtgever is, alsmede de functionele aansturing van projectleiders en programmasecretarissen;
 
 - b. de ontwikkeling van het programmaplan en de (door)ontwikkeling van de doelenboom en interventiemix;
 
@@ -96,7 +106,7 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 
 - d. het sturen op de realisatie van de programmadoelen binnen de daarvoor gegeven kaders, waaronder begrepen tijd, geld en capaciteit, in het vastgestelde programmaplan;
 
-- e. het oog houden voor de bijdrage van het programma aan Nederlandse Arbeidsinspectiebrede doelstellingen, het daarop bijsturen en het daartoe leggen van verbinding met andere programma’s;
+- e. het oog houden voor de bijdrage van het programma aan doelstellingen van de Nederlandse Arbeidsinspectie, het daarop bijsturen en het daartoe leggen van verbinding met andere programma’s;
 
 - f. het in de P&C-cyclus op programmaniveau aan de opdrachtgever uitbrengen van rapporten waarin de output is gekoppeld aan doelstellingen en beoogde maatschappelijke effecten;
 
@@ -104,7 +114,7 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 
 - h. het onderhouden van de relevante externe contacten met samenwerkingspartners en beleidsmakers op tactisch niveau;
 
-- i. het behandelen van klachten, meldingen, signalen en verzoeken over het niet naleven van wet- en regelgeving door werkgevers en werknemers:
+- i. het behandelen van klachten, meldingen, signalen en verzoeken over het niet naleven van wet- en regelgeving door werkgevers en werknemers, voor zover niet behandeld door de directie Meldingen en Verzoeken:
 
 - 1°. op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen en de betaling van het minimumloon en de minimumvakantiebijslag. Hieronder valt in ieder geval het behandelen van verzoeken om een onderzoek als bedoeld in [artikel 10, eerste en tweede lid, van de Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10);
 
@@ -112,7 +122,7 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 
 - 3°. op het gebied van arbeidsomstandigheden, met name op het terrein van risico’s op zware ongevallen.
 
-- j. het verrichten of laten verrichten van onderzoek bij arbeidsongevallen, waaronder begrepen arbeidsongevallen in bedrijven met een hoog risico op zware ongevallen;
+- j. het verrichten of laten verrichten van onderzoek bij arbeidsongevallen voor zover niet behandeld door de directie Meldingen en Verzoeken en het verrichten of laten verrichten van onderzoek bij arbeidsongevallen in bedrijven met een hoog risico op zware ongevallen;
 
 - k. de uitvoering van de taken, genoemd in [hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7);
 
@@ -120,7 +130,7 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 
 - m. het functioneel sturing geven aan projectleiders en projectsecretarissen bij het plannen, uitvoeren en evalueren van interventieprojecten;
 
-- n. het als tactisch manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
+- n. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
 #### § 4. Bevoegdheden
 
@@ -128,19 +138,19 @@ De programmanagers op tactisch niveau zijn verantwoordelijk voor de volgende alg
 
 De programmamanagers en de projectleiders zijn bevoegd om namens een bewindspersoon besluiten te nemen en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het werkterrein van hun organisatieonderdeel en voor zover zij niet zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de inspecteur-generaal of de directeur.
 
-##### Artikel 5. Machtiging stillegging in verband met recidive
+##### Artikel 5. Machtiging effectuering stillegging in verband met recidive
 
-De onder de directeur Mensen & Middelen ressorterende ambtenaren, belast met toezicht, zijn gemachtigd om een beschikking tot stillegging van werkzaamheden in verband met recidive te effectueren door het treffen van de nodige maatregelen, het geven van de nodige aanwijzingen en het inroepen van de hulp van de sterke arm.
+De onder de directeur en de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met toezicht, zijn gemachtigd om een beschikking tot stillegging van werkzaamheden in verband met recidive te effectueren door het treffen van de nodige maatregelen, het geven van de nodige aanwijzingen en het inroepen van de hulp van de sterke arm.
 
 ##### Artikel 6. Mandaat openbaarmaking inspectiegegevens
 
-De onder de directeur Mensen & Middelen ressorterende ambtenaren, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) en de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), zijn bevoegd om namens een bewindspersoon te besluiten tot openbaarmaking van het feit dat na een afgerond onderzoek geen overtreding is geconstateerd.
+De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616), de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) en de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638), zijn bevoegd om namens een bewindspersoon te besluiten tot openbaarmaking van het feit dat na een afgerond onderzoek geen overtreding is geconstateerd.
 
-##### Artikel 7. Volmacht programmamanagers en vakgroephoofd P&P
+##### Artikel 7. Volmacht programmamanagers, vakgroephoofden en afdelingshoofd
 
-1. De programmamanagers op tactisch niveau, de programmamanagers op operationeel niveau en het vakgroephoofd P&P zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vaststelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende de ontwikkeling, uitvoering en verantwoording van programma’s en projecten.
+1. De programmamanagers op tactisch niveau, de programmamanagers op operationeel niveau, de vakgroephoofden en het afdelingshoofd zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vaststelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende de ontwikkeling, uitvoering en verantwoording van programma’s en projecten.
 
-2. Het vakgroephoofd P&P is binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende:
+2. De vakgroephoofden en het afdelingshoofd zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende:
 
 - a. het opleiden van medewerkers van de eigen vakgroep binnen de kaders van het door het IG-team goedgekeurde opleidingsplan;
 
@@ -148,11 +158,11 @@ De onder de directeur Mensen & Middelen ressorterende ambtenaren, belast met het
 
 ##### Artikel 8. Plaatsvervanging
 
-1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, zijn taken en bevoegdheden geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
-2. Bij afwezigheid of verhindering van een programmamanager worden, voor de duur van de afwezigheid of verhindering, zijn taken en bevoegdheden geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+2. Bij afwezigheid of verhindering van een programmamanager worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de programmamanager geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
-3. Bij afwezigheid of verhindering van het vakgroephoofd P&P worden, voor de duur van de afwezigheid of verhindering, zijn taken en bevoegdheden geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
+3. Bij afwezigheid of verhindering van het afdelingshoofd, het vakgroephoofd, de teamleider of de teammanager worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van het afdelingshoofd, het vakgroephoofd, de teamleider of de teammanager geheel of gedeeltelijk waargenomen door een daartoe aan te wijzen plaatsvervanger.
 
 #### § 5. Slotbepalingen
 
@@ -170,19 +180,19 @@ Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit di
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-##### Artikel 3a. Verantwoordelijkheden vakgroephoofd P&P
+##### Artikel 3a. Verantwoordelijkheden vakgroephoofden
 
-Het vakgroephoofd P&P is verantwoordelijk voor de volgende algemene taken:
+De vakgroephoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - a. het leiding geven aan de eigen vakgroep, waaronder begrepen de HRM-taken ten aanzien van de medewerkers, de coaching van de medewerkers en het bevorderen van de sociale cohesie van de eigen vakgroep;
 
 - b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen vakgroep aan de uitvoering van het jaarplan van de Nederlandse Arbeidsinspectie;
 
-- c. het doen van voorstellen aan de directeur Toezicht met betrekking tot het aantrekken en ontslaan van personeel;
+- c. het doen van voorstellen aan de directeur met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming van Nederlandse Arbeidsinspectiebrede producten als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
-- e. het in het kader van het proces van programmeren en alloceren zorg dragen voor een goede vertaalslag van strategische en tactische allocatie naar de feitelijke bemensing van programma’s en projecten;
+- e. het in het kader van het proces van programmeren en alloceren zorg dragen voor een goede vertaalslag van strategische naar tactische allocatie en de feitelijke bemensing van programma’s en projecten;
 
 - f. het zijn van aanspreekpunt voor vakgroepbrede allocatievraagstukken en knelpunten gedurende de uitvoering van projecten en programma’s;
 
@@ -194,9 +204,33 @@ Het vakgroephoofd P&P is verantwoordelijk voor de volgende algemene taken:
 
 - j. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op zijn vakgebied;
 
-- k. het vervullen van het proceseigenaarschap van het proces Programmatisch- en projectmatig werken, het als tactisch manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
+- k. het vervullen van het proceseigenaarschap van alle binnen de diverse vakgroepen belegde processen behorend bij het werkdomein van de Nederlandse Arbeidsinspectie;
 
-##### Artikel 3b. Verantwoordelijkheden teammanagers
+- l. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
+
+##### Artikel 3b. Verantwoordelijkheden afdelingshoofd IKC
+
+Het afdelingshoofd IKC is verantwoordelijk voor de volgende algemene taken:
+
+- a. het leiding geven aan de eigen afdeling, waaronder begrepen de HRM-taken ten aanzien van de medewerkers, coaching van de medewerkers en het bevorderen van de sociale cohesie van de eigen afdeling;
+
+- b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen afdeling aan de uitvoering van het jaarplan van de Nederlandse Arbeidsinspectie;
+
+- c. het doen van voorstellen aan de directeur met betrekking tot het aantrekken en ontslaan van personeel;
+
+- d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+
+- e. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie;
+
+- f. het managen van vakinhoudelijke processen en het actief zoeken van samenwerking en afstemming met overige betrokkenen;
+
+- g. het zorg dragen voor de borging van afdelingsbrede vakkennis en van kwaliteit en innovatie van werkprocessen;
+
+- h. het bijdragen aan de ontwikkeling van de strategische personeelsplanning en zorg dragen voor de uitvoering daarvan binnen de afdeling;
+
+- i. het actief bijdragen aan het platform voor kennisuitwisseling en netwerkbeheer op het vakgebied van het afdelingshoofd.
+
+##### Artikel 3c. Verantwoordelijkheden teammanagers
 
 De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -206,23 +240,23 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - 1°. het bevorderen van de persoonlijke ontwikkeling;
 
-- 2°. het begeleiden van ziekteverzuim;
+- 2°. het begeleiden van medewerkers met ziekteverzuim;
 
 - 3°. het voeren van functionerings- en personeelsgesprekken.
 
 - c. het in het allocatieproces op dagelijkse basis leveren van de afgesproken kwantitatieve en kwalitatieve capaciteit aan programma’s en projecten en het oplossen van knelpunten rond de inzet van medewerkers;
 
-- d. het zicht houden op de voortgang van de realisatie van teamdoelen en zo nodig bijsturen;
+- d. het zicht houden op de voortgang van de realisatie van teamdoelen en de afgesproken resultaten, het leveren van producten en diensten conform de geldende kaders en het zo nodig bijsturen;
 
-- e. het gestructureerd voeren van werkoverleg en behalen van afgesproken resultaten en het opleveren van producten en diensten conform de geldende kaders;
+- e. het gestructureerd voeren van werkoverleg;
 
-- f. het zorg dragen voor de borging van kennis en kwaliteit binnen zijn team;
+- f. het zorg dragen voor de borging van kennis en kwaliteit binnen het team;
 
 - g. het rapporteren aan het vakgroephoofd en collega teammanagers met het oog op een optimale inzet van mensen, uniforme wijze van aansturen, kennismanagement en netwerkbeheer;
 
 - h. het zorg dragen voor de borging van uniformiteit en kwaliteit van vakspecifieke werkprocessen en leveren van input voor richtlijnen en procedures;
 
-- i. het verzamelen van input op hoofdprocessen vanuit het team;
+- i. het monitoren van de werkprocessen binnen het team;
 
 - j. het actief vorm geven aan ontwikkelingen, innovaties en verbetermogelijkheden en deze vertalen naar vakinhoudelijke producten en diensten;
 
@@ -234,15 +268,79 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - l. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en dit vertalen naar nieuwe vakinhoudelijke producten en diensten;
 
-- m. de borging van regionale netwerken, voor zover deze programmaoverstijgend zijn;
+- m. vervallen;
 
-- n. het als operationeel manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
+- n. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
-##### Artikel 3c. Taken en verantwoordelijkheden vakgroep P&P
+#### § 4. Bevoegdheden
 
-1. De vakgroep P&P draagt ten behoeve van het aansturen of ondersteunen van programma’s en projecten zorg voor het voorzien in vakbekwame programmamanagers, projectleiders of programma- en projectsecretarissen.
+##### Artikel 6a. Volmacht en machtiging betreffende personeelsaangelegenheden
 
-2. Van de taak, bedoeld in het eerste lid, zijn uitgezonderd de programmamanagers op tactisch niveau, die rechtstreeks ressorteren onder de directeur Toezicht.
+1. Aan de vakgroephoofden, het afdelingshoofd, de teammanagers en de teamleiders van de directie wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
+
+- a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
+
+- b. het houden van personeelsgesprekken;
+
+- c. het beslissen over verlof van medewerkers;
+
+- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
+
+- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de CAO Rijk.
+
+2. In aanvulling op het eerste lid wordt in het geval een teammanager of een teamleider de beoordeling van een medewerker opmaakt, aan het vakgroephoofd of het afdelingshoofd dat boven de teammanager of de teamleider ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
+
+##### Artikel 7a. Volmacht teammanagers en teamleiders
+
+De teammanagers en teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 3.000,– per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
+
+#### § 5. Slotbepalingen
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 3d. Verantwoordelijkheden teamleiders
+
+De teamleiders zijn verantwoordelijk voor de volgende algemene taken:
+
+- a. de aansturing van uitvoerende of ondersteunende medewerkers;
+
+- b. de organisatie van een professionele thuisbasis voor de medewerkers en het vormgeven van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
+
+- 1°. het bevorderen van de persoonlijke ontwikkeling;
+
+- 2°. het begeleiden van medewerkers met ziekteverzuim;
+
+- 3°. het voeren van functionerings- en personeelsgesprekken;
+
+- c. het zicht houden op de voortgang van de realisatie van teamdoelen en de afgesproken resultaten, het leveren van producten en diensten conform de geldende kaders en het zo nodig bijsturen;
+
+- d. het gestructureerd voeren van werkoverleg;
+
+- e. het zorg dragen voor de borging van kennis en kwaliteit binnen het team;
+
+- f. het rapporteren aan het afdelingshoofd en collega teamleiders met het oog op een optimale inzet van mensen, uniforme wijze van aansturen, kennismanagement en netwerkbeheer;
+
+- g. het zorg dragen voor de borging van uniformiteit en kwaliteit van vakspecifieke werkprocessen en het leveren van input voor richtlijnen en procedures;
+
+- h. het monitoren van de werkprocessen binnen het team;
+
+- i. het actief vormgeven aan ontwikkelingen, innovaties en verbetermogelijkheden en deze vertalen naar vakinhoudelijke producten en diensten;
+
+- j. het op tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
+
+- 1°. start- en personeelsgesprekken;
+
+- 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
+
+- k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
+
+- l. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
+
+##### Artikel 3e. Taken en verantwoordelijkheden vakgroep P&P
+
+1. De vakgroep P&P draagt ten behoeve van het aansturen of ondersteunen van programma’s en projecten zorg voor het voorzien in vakbekwame programmamanagers, projectleiders of programma- en projectsecretarissen en verleent ondersteuning van projecten van de Nederlandse Arbeidsinspectie.
+
+2. Van de taak, bedoeld in het eerste lid, zijn uitgezonderd de programmamanagers op tactisch niveau, die rechtstreeks ressorteren onder de directeur.
 
 3. De programmamanagers op operationeel niveau zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -252,7 +350,7 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - c. het aansturen op de realisatie van de programmadoelen binnen de daarvoor gegeven kaders, waaronder begrepen tijd, geld en capaciteit, in het vastgestelde programmaplan;
 
-- d. het oog houden voor de bijdrage van het programma aan Nederlandse Arbeidsinspectiebrede doelstellingen, het daarop bijsturen en het daartoe leggen van verbinding met andere programma’s;
+- d. het oog houden voor de bijdrage van het programma aan doelstellingen van de Nederlandse Arbeidsinspectie, het daarop bijsturen en het daartoe leggen van verbinding met andere programma’s;
 
 - e. het functioneel aansturen van de medewerkers die onderdeel zijn van het programmateam, waaronder de projectleiders;
 
@@ -264,7 +362,7 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - i. het onderhouden van de relevante externe contacten met samenwerkingspartners op operationeel niveau;
 
-- j. het als operationeel manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
+- j. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
 
 4. De projectleiders zijn verantwoordelijk voor de volgende algemene taken:
 
@@ -272,35 +370,59 @@ De teammanagers zijn verantwoordelijk voor de volgende algemene taken:
 
 - b. het sturen op de realisatie van de projectdoelen; indien het project onderdeel is van een programma, rapporteert de projectleider aan de programmamanager dan wel aan de opdrachtgever;
 
-- c. het functioneel aansturen van de medewerkers die onderdeel zijn van het projectteam en het vorm geven aan de personele zorg voor zover passend binnen het project; de projectleider is referent voor de personeelsgesprekken van medewerkers die hij functioneel aanstuurt;
+- c. het functioneel aansturen van de medewerkers die onderdeel zijn van het projectteam en het vorm geven aan de personele zorg voor zover passend binnen het project; de projectleider is referent voor de personeelsgesprekken van medewerkers die de projectleider functioneel aanstuurt;
 
-- d. het opstellen van het projectplan, het uitvoeren van het projectplan, het opstellen van projectrapportages en het behalen van resultaten op operationeel niveau, de handhavingscorrespondentie en het zorg dragen voor de bij het project behorende communicatie;
+- d. de volgende taken in verband met projecten:
+
+- 1°. het opstellen van het projectplan, het uitvoeren of doen uitvoeren van het projectplan, het opstellen of doen opstellen van projectrapportages;
+
+- 2°. het behalen van resultaten op operationeel niveau;
+
+- 3°. de handhavingscorrespondentie betreffende projecten die de projectleider zelf uitvoert;
+
+- 4°. het zorgdragen voor de bij het project behorende communicatie;
 
 - e. het aansturen op een optimale bijdrage van het project aan de programmadoelen en het daartoe leggen van verbinding met andere projecten;
 
-- f. het als operationeel manager participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen.
+- f. het als operationeel manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie.
+
+##### Artikel 3f. Taken en verantwoordelijkheden vakgroep MHC
+
+De vakgroep MHC draagt ten behoeve van programma’s en projecten zorg voor het voorzien in vakbekwame medewerkers voor de uitvoering van het toezicht op de naleving door werkgevers en werknemers van wet- en regelgeving op het terrein van arbeidsomstandigheden, met name op het terrein van risico’s op zware ongevallen en – waar voorgeschreven – het beschikken over aanvullende risico-inventarisaties en evaluaties, alsmede het in verband daarmee opsporen van strafbare feiten, dit mede ter zake van de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+##### Artikel 3g. Taken en verantwoordelijkheden afdeling IKC
+
+De afdeling IKC is verantwoordelijk voor:
+
+- a. het verzamelen, overdragen en actueel houden van kennis over specialistische kennisgebieden ten behoeve van de toezichthoudende taken van de Nederlandse Arbeidsinspectie;
+
+- b. het borgen van valide en actuele vakkennis in de kennisbank;
+
+- c. het op niveau houden van kennis op domeinen waar op een zeker moment geen programma’s actief zijn;
+
+- d. het vertalen van beleid, signalen en stand der techniek in handzame inspectietools;
+
+- e. het vervullen van de functie van helpdesk voor de inspecteurs;
+
+- f. het leveren van bijdragen aan beleidsontwikkeling en de risicoanalyses;
+
+- g. het verlenen van expertise bij en het uitvoeren van de aan de Minister opgedragen toezichtswerkzaamheden betreffende de werking van de stelsels van persoonsregistratie, certificering en keuringen en betreffende de op grond van wet- en regelgeving op het terrein van arbeidsveiligheid, arbeidsgezondheid en productveiligheid aangewezen certificatie- en keuringsinstellingen, die zijn belast met het verstrekken van certificaten dan wel het verrichten van keuringen in het belang van veiligheid en gezondheid in de arbeid;
+
+- h. het voorbereiden van beslissingen betreffende aanwijzing van certificatie- en keuringsinstellingen als genoemd in onderdeel g, waaronder mede zijn begrepen beslissingen tot wijziging, schorsing en intrekking van aanwijzingen;
+
+- i. het verlenen van expertise bij en het uitvoeren van de toezichtswerkzaamheden gericht op de werknemersbescherming bij blootstelling aan ioniserende straling;
+
+- j. het verlenen van medisch advies, met inachtneming van de eigen verantwoordelijkheid van de arts voor het medisch inhoudelijk deel en de toepasselijkheid van het medisch tuchtrecht;
+
+- k. het verlenen van expertise bij en het uitvoeren van de aan de Minister opgedragen toezichtswerkzaamheden betreffende wet- en regelgeving op het terrein van arbeidstijden en arbeidsomstandigheden;
+
+- l. het verlenen van expertise bij en het uitvoeren van toezichtswerkzaamheden op grond Europese verordeningen, waaronder de REACH-verordening en de CLP-verordening;
+
+- m. het verlenen van expertise bij en het uitvoeren van toezichtswerkzaamheden op grond van wet- en regelgeving op het terrein van arbeidsveiligheid, arbeidsgezondheid en productveiligheid, waaronder het [Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791);
+
+- n. het verlenen expertise bij en uitvoeren van toezichtswerkzaamheden op de naleving door werkgevers van wet- en regelgeving op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen, de arbeids- en rusttijden en de betaling van het minimumloon en de minimumvakantiebijslag, alsmede het in verband daarmee opsporen van strafbare feiten.
 
 #### § 4. Bevoegdheden
-
-##### Artikel 6a. Volmacht en machtiging betreffende personeelsaangelegenheden
-
-1. Aan het vakgroephoofd P&P en de teammanagers wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op de personeelsaangelegenheden ten behoeve van medewerkers van de eigen organisatorische eenheid, voor zover het betreft:
-
-- a. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
-
-- b. het houden van personeelsgesprekken;
-
-- c. het beslissen over verlof van medewerkers;
-
-- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
-
-- e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de [Reisregeling buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006914).
-
-2. In aanvulling op het eerste lid wordt in het geval een teammanager de beoordeling van een medewerker opmaakt, aan het vakgroephoofd dat boven de teammanager ressorteert ook volmacht en machtiging verleend met betrekking tot het vaststellen van deze beoordeling.
-
-##### Artikel 7a. Volmacht teammanagers
-
-De teammanagers zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 3.000,– per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen vakteam binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
 #### § 5. Slotbepalingen
 
