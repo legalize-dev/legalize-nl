@@ -4,7 +4,7 @@ identifier: "BWBR0017613"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2022-05-01"
-last_updated: "2021-01-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017613"
 soort: "rijkswet"
@@ -52,11 +52,11 @@ Treedt in werking behoudens ten aanzien van het onderzoek naar ongevallen en inc
 
 - a. Onze Minister: Onze Minister van Justitie en Veiligheid van Nederland;
 
-- b. de raad: de Onderzoeksraad voor veiligheid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2021-01-01&g=2021-01-01);
+- b. de raad: de Onderzoeksraad voor veiligheid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=2&z=2022-05-01&g=2022-05-01);
 
-- c. de leden van de raad: zowel de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01), als de buitengewone leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01);
+- c. de leden van de raad: zowel de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01), als de buitengewone leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01);
 
-- d. het bureau: het bureau, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=11&z=2021-01-01&g=2021-01-01);
+- d. het bureau: het bureau, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=11&z=2022-05-01&g=2022-05-01);
 
 - e. voorval: gebeurtenis die de dood of letsel van een persoon dan wel schade aan een zaak of het milieu veroorzaakt, alsmede een gebeurtenis die gevaar voor een dergelijk gevolg in het leven heeft geroepen;
 
@@ -172,13 +172,13 @@ De raad heeft, met het uitsluitende doel toekomstige voorvallen te voorkomen of 
 
 3. Buitengewone leden kunnen op verzoek of uit eigen beweging deelnemen aan beraadslagingen van de raad, behoudens het bepaalde in het vierde lid.
 
-4. Aan de beraadslagingen van de raad nemen buitengewone leden niet deel voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=7&z=2021-01-01&g=2021-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=4&artikel=16&z=2021-01-01&g=2021-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-01-01&g=2021-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=20&z=2021-01-01&g=2021-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=25&z=2021-01-01&g=2021-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=26&z=2021-01-01&g=2021-01-01) en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=65&z=2021-01-01&g=2021-01-01).
+4. Aan de beraadslagingen van de raad nemen buitengewone leden niet deel voor de toepassing van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=7&z=2022-05-01&g=2022-05-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=4&artikel=16&z=2022-05-01&g=2022-05-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-05-01&g=2022-05-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=20&z=2022-05-01&g=2022-05-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=25&z=2022-05-01&g=2022-05-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=26&z=2022-05-01&g=2022-05-01) en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=65&z=2022-05-01&g=2022-05-01).
 
 ##### Artikel 7
 
-1. In afwijking van [artikel 12, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12) worden de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01), bij koninklijk besluit benoemd, geschorst en ontslagen, de raad gehoord.
+1. In afwijking van [artikel 12, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12) worden de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01), bij koninklijk besluit benoemd, geschorst en ontslagen, de raad gehoord.
 
-2. In afwijking van [artikel 12, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12) worden de leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01), bij koninklijk besluit op voordracht van Onze Minister, gedaan in overeenstemming met Onze Minister in Nederland wie het mede aangaat, benoemd, geschorst en ontslagen, de raad gehoord.
+2. In afwijking van [artikel 12, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12) worden de leden van de raad, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01), bij koninklijk besluit op voordracht van Onze Minister, gedaan in overeenstemming met Onze Minister in Nederland wie het mede aangaat, benoemd, geschorst en ontslagen, de raad gehoord.
 
 3. De keuze van de leden van de raad geschiedt op zodanige wijze dat alle relevante deskundigheid in de raad aanwezig is. In de raad is in ieder geval deskundigheid aanwezig op het terrein van defensie en transport. Bij algemene maatregel van rijksbestuur kunnen terzake nadere regels worden gesteld.
 
@@ -192,9 +192,9 @@ De raad heeft, met het uitsluitende doel toekomstige voorvallen te voorkomen of 
 
 ##### Artikel 8
 
-1. Een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01), wordt bij koninklijk besluit benoemd tot voorzitter van de raad.
+1. Een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01), wordt bij koninklijk besluit benoemd tot voorzitter van de raad.
 
-2. Een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01), wordt bij koninklijk besluit benoemd tot plaatsvervangend voorzitter van de raad.
+2. Een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01), wordt bij koninklijk besluit benoemd tot plaatsvervangend voorzitter van de raad.
 
 ##### Artikel 9
 
@@ -204,9 +204,9 @@ Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld omtre
 
 1. De raad kan commissies instellen.
 
-2. Een commissie bestaat uit een of meer leden van de raad als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01), en een of meer leden als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01).
+2. Een commissie bestaat uit een of meer leden van de raad als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01), en een of meer leden als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01).
 
-3. De raad wijst een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01), aan als voorzitter van de commissie.
+3. De raad wijst een van de leden van de raad, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-05-01&g=2022-05-01), aan als voorzitter van de commissie.
 
 4. De raad kan een commissie de bevoegdheid verlenen namens hem beslissingen te nemen.
 
@@ -222,9 +222,9 @@ Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld omtre
 
 4. De keuze van de medewerkers van het bureau geschiedt op zodanige wijze dat alle relevante deskundigheid in het bureau aanwezig is.
 
-5. Tot de medewerkers van het bureau behoren door Onze Minister van Defensie in overeenstemming met de voorzitter van de raad aldaar met behoud van hun rechtspositie geplaatste militairen, die worden ingezet bij het onderzoek van voorvallen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-01-01&g=2021-01-01). Zij kunnen door de raad ook voor andere onderzoekstaken worden ingezet.
+5. Tot de medewerkers van het bureau behoren door Onze Minister van Defensie in overeenstemming met de voorzitter van de raad aldaar met behoud van hun rechtspositie geplaatste militairen, die worden ingezet bij het onderzoek van voorvallen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-05-01&g=2022-05-01). Zij kunnen door de raad ook voor andere onderzoekstaken worden ingezet.
 
-6. Onder medewerker van het bureau wordt mede begrepen degene die anders dan krachtens een aanstelling werkzaam is bij het bureau en is belast met werkzaamheden ten behoeve van een onderzoek als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-01-01&g=2021-01-01).
+6. Onder medewerker van het bureau wordt mede begrepen degene die anders dan krachtens een aanstelling werkzaam is bij het bureau en is belast met werkzaamheden ten behoeve van een onderzoek als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-05-01&g=2022-05-01).
 
 ##### Artikel 12
 
@@ -238,7 +238,7 @@ Vervallen
 
 1. Onze Minister wie het aangaat, kan op verzoek van de raad een of meer onder hem ressorterende deskundigen aanwijzen, die met inachtneming van de door of namens de raad gegeven aanwijzingen de raad tijdens het verrichten van een nader aangeduid onderzoek bijstaan.
 
-2. Voor het onderzoek van een voorval als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-01-01&g=2021-01-01), wordt slechts bijstand verleend door deskundigen, aangewezen op grond van het eerste lid, aan wie op grond van de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) een verklaring is afgegeven dat uit het oogpunt van de veiligheid van de staat of andere gewichtige belangen van de staat geen bezwaar bestaat tegen vervulling van een vertrouwensfunctie, behoudens in gevallen waarin door Onze Minister van Defensie anders wordt beslist.
+2. Voor het onderzoek van een voorval als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-05-01&g=2022-05-01), wordt slechts bijstand verleend door deskundigen, aangewezen op grond van het eerste lid, aan wie op grond van de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277) een verklaring is afgegeven dat uit het oogpunt van de veiligheid van de staat of andere gewichtige belangen van de staat geen bezwaar bestaat tegen vervulling van een vertrouwensfunctie, behoudens in gevallen waarin door Onze Minister van Defensie anders wordt beslist.
 
 3. Onze Minister onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan ten aanzien van een ander voorval dan in het tweede lid bedoeld bepalen dat voor het onderzoek daarvan slechts bijstand wordt verleend door deskundigen, aangewezen op grond van het eerste lid, aan wie een verklaring als bedoeld in het tweede lid is afgegeven.
 
@@ -262,7 +262,7 @@ Vervallen
 
 ##### Artikel 16
 
-1. Een medewerker van het bureau alsmede een op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2021-01-01&g=2021-01-01), aangewezen deskundige meldt onverwijld aan de voorzitter van de raad dat het onderzoek:
+1. Een medewerker van het bureau alsmede een op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2022-05-01&g=2022-05-01), aangewezen deskundige meldt onverwijld aan de voorzitter van de raad dat het onderzoek:
 
 - a. hemzelf of een van zijn bloed- of aanverwanten tot en met de vierde graad aangaat;
 
@@ -274,7 +274,7 @@ De raad beslist of hij zich om deze reden van deelneming aan het onderzoek moet 
 
 2. Voor de toepassing van het eerste lid wordt de algemeen secretaris aangemerkt als medewerker van het bureau.
 
-3. Indien de raad op grond van het eerste lid daarom verzoekt, vervangt Onze Minister wie het aangaat, in het desbetreffende onderzoek een of meer deskundigen, aangewezen op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2021-01-01&g=2021-01-01).
+3. Indien de raad op grond van het eerste lid daarom verzoekt, vervangt Onze Minister wie het aangaat, in het desbetreffende onderzoek een of meer deskundigen, aangewezen op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2022-05-01&g=2022-05-01).
 
 ##### Artikel 17
 
@@ -382,7 +382,7 @@ Bij ministeriële regeling worden regels gesteld over het melden door Nederland 
 
 ##### Artikel 32
 
-Het ten aanzien van de onderzoekers gestelde bij of krachtens de [artikelen 33 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=33&z=2021-01-01&g=2021-01-01) geldt voor de leden van de raad, de medewerkers van het bureau, belast met het verrichten van een onderzoek als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-01-01&g=2021-01-01), de algemeen secretaris, en op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2021-01-01&g=2021-01-01), aangewezen deskundigen.
+Het ten aanzien van de onderzoekers gestelde bij of krachtens de [artikelen 33 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=33&z=2022-05-01&g=2022-05-01) geldt voor de leden van de raad, de medewerkers van het bureau, belast met het verrichten van een onderzoek als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-05-01&g=2022-05-01), de algemeen secretaris, en op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2022-05-01&g=2022-05-01), aangewezen deskundigen.
 
 ##### Artikel 33
 
@@ -436,7 +436,7 @@ Een onderzoeker is bevoegd inlichtingen te vorderen.
 
 1. Een ieder is verplicht aan een onderzoeker binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.
 
-2. Onze Minister, Onze Minister van Defensie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen bij het verlenen van medewerking door henzelf of door onder hen ressorterende personen aangeven dat daarbij aangeduide informatie vertrouwelijk aan de raad wordt verstrekt. Het vertrouwelijk verstrekken van informatie aan de raad geschiedt met overeenkomstige toepassing van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2021-01-01&g=2021-01-01). De vertrouwelijk verstrekte informatie wordt niet openbaar gemaakt.
+2. Onze Minister, Onze Minister van Defensie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen bij het verlenen van medewerking door henzelf of door onder hen ressorterende personen aangeven dat daarbij aangeduide informatie vertrouwelijk aan de raad wordt verstrekt. Het vertrouwelijk verstrekken van informatie aan de raad geschiedt met overeenkomstige toepassing van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2022-05-01&g=2022-05-01). De vertrouwelijk verstrekte informatie wordt niet openbaar gemaakt.
 
 3. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voorzover dit uit hun geheimhoudingsplicht voortvloeit. Degenen voor wie een wettelijk voorschrift geldt dat verplicht tot geheimhouding behoudens voorzover enig ander wettelijk voorschrift tot bekendmaking of medewerking verplicht, kunnen eveneens hun medewerking weigeren indien daarvoor gewichtige redenen zijn.
 
@@ -444,7 +444,7 @@ Een onderzoeker is bevoegd inlichtingen te vorderen.
 
 ##### Artikel 41
 
-1. De raad beslist of een onderzoek wordt ingesteld, onverminderd het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01).
+1. De raad beslist of een onderzoek wordt ingesteld, onverminderd het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-05-01&g=2022-05-01).
 
 2. De voorzitter van de raad kan beslissen dat, vooruitlopend op de beslissing van de raad, bedoeld in het eerste lid, reeds voorlopig een onderzoek wordt ingesteld. De voorzitter van de raad kan aan een ander lid van de raad of de algemeen secretaris de bevoegdheid verlenen om namens hem deze beslissing te nemen.
 
@@ -466,7 +466,7 @@ De raad onthoudt zich van onderzoek indien Onze Minister dit bepaalt om overwege
 
 1. Onze Minister wie het aangaat in Nederland, de commissaris van de Koning, de burgemeester of de gezaghebber van het openbare lichaam Bonaire, Sint Eustatius of Saba kan een schriftelijk verzoek tot het instellen van een onderzoek indienen bij de raad.
 
-2. De raad beslist op het verzoek zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst en stelt de indiener van het verzoek van zijn beslissing in kennis. De raad kan deze termijn eenmaal met vier weken verlengen. Van de verlenging brengt de raad de indiener van het verzoek op de hoogte. [Artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=41&z=2021-01-01&g=2021-01-01), is niet van toepassing.
+2. De raad beslist op het verzoek zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst en stelt de indiener van het verzoek van zijn beslissing in kennis. De raad kan deze termijn eenmaal met vier weken verlengen. Van de verlenging brengt de raad de indiener van het verzoek op de hoogte. [Artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=41&z=2022-05-01&g=2022-05-01), is niet van toepassing.
 
 3. Indien de raad negatief beslist op een verzoek wordt deze beslissing met redenen omkleed.
 
@@ -516,9 +516,9 @@ De raad is bevoegd ten behoeve van het onderzoek naar een voorval met een luchtv
 
 - a. de natuurlijke personen, rechtspersonen of bestuursorganen waarvan het handelen of nalaten blijkens het voorlopig oordeel van de raad heeft bijgedragen tot het ontstaan van het voorval, of de nabestaanden van een natuurlijke persoon als hiervoor bedoeld;
 
-- b. de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=45&z=2021-01-01&g=2021-01-01) bedoelde vertegenwoordigers die aan het onderzoek deelnemen;
+- b. de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=45&z=2022-05-01&g=2022-05-01) bedoelde vertegenwoordigers die aan het onderzoek deelnemen;
 
-- c. Onze Minister van Defensie, indien het een onderzoek betreft van een voorval als bedoeld in [artikel 4, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-01-01&g=2021-01-01);
+- c. Onze Minister van Defensie, indien het een onderzoek betreft van een voorval als bedoeld in [artikel 4, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-05-01&g=2022-05-01);
 
 - d. Onze Minister onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, na een daartoe strekkend verzoek.
 
@@ -526,7 +526,7 @@ De raad is bevoegd ten behoeve van het onderzoek naar een voorval met een luchtv
 
 ##### Artikel 49
 
-Indien de raad beslist tot het houden van een zitting, kan hij bepalen dat degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2021-01-01&g=2021-01-01), op het voorval betrekking hebbende stukken kunnen inzien indien dat naar zijn oordeel uit een oogpunt van waarheidsvinding noodzakelijk is. Degenen die stukken inzien zijn, anders dan in contacten ter voorbereiding van de behandeling ter zitting, tot geheimhouding verplicht.
+Indien de raad beslist tot het houden van een zitting, kan hij bepalen dat degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2022-05-01&g=2022-05-01), op het voorval betrekking hebbende stukken kunnen inzien indien dat naar zijn oordeel uit een oogpunt van waarheidsvinding noodzakelijk is. Degenen die stukken inzien zijn, anders dan in contacten ter voorbereiding van de behandeling ter zitting, tot geheimhouding verplicht.
 
 ##### Artikel 50
 
@@ -548,7 +548,7 @@ Indien de raad beslist tot het houden van een zitting, kan hij bepalen dat degen
 
 5. De voorzitter van de raad kan de officier van justitie in het arrondissement waarin de rechtbank is gelegen waar de raad zitting houdt, verzoeken de getuige of deskundige bij niet verschijnen ter zitting van de raad te dagvaarden en daarbij te voegen een bevel tot medebrenging.
 
-6. De natuurlijke personen, bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2021-01-01&g=2021-01-01), alsmede vertegenwoordigers van de daar bedoelde rechtspersonen of bestuursorganen, hebben het recht op hun verzoek als getuigen ter zitting te worden gehoord indien zij niet door de raad zijn opgeroepen.
+6. De natuurlijke personen, bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2022-05-01&g=2022-05-01), alsmede vertegenwoordigers van de daar bedoelde rechtspersonen of bestuursorganen, hebben het recht op hun verzoek als getuigen ter zitting te worden gehoord indien zij niet door de raad zijn opgeroepen.
 
 ##### Artikel 52
 
@@ -580,7 +580,7 @@ Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gestel
 
 - c. indien daartoe aanleiding bestaat, de constatering van structurele veiligheidstekorten en daaraan verbonden aanbevelingen.
 
-3. In het rapport worden gegevens, ontleend aan documenten en andere gegevensdragers als bedoeld in [artikel 69, eerste lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2021-01-01&g=2021-01-01), slechts opgenomen voor zover zij wezenlijk zijn voor de analyse van de toedracht van het voorval of de onderbouwing van de conclusies. Het rapport vermeldt niet de naam, het adres of identificatiegegevens van gelijksoortige aard ten aanzien van de personen die betrokken zijn bij een ongeval of incident.
+3. In het rapport worden gegevens, ontleend aan documenten en andere gegevensdragers als bedoeld in [artikel 69, eerste lid, onderdeel a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2022-05-01&g=2022-05-01), slechts opgenomen voor zover zij wezenlijk zijn voor de analyse van de toedracht van het voorval of de onderbouwing van de conclusies. Het rapport vermeldt niet de naam, het adres of identificatiegegevens van gelijksoortige aard ten aanzien van de personen die betrokken zijn bij een ongeval of incident.
 
 4. De raad kan een rapport in twee gedeelten uitbrengen indien hij een onderzoek instelt naar zowel een voorval als het omgaan met de gevolgen daarvan. Indien het rapport in twee gedeelten wordt uitgebracht, gelden de voorschriften met betrekking tot het rapport voor elk van beide gedeelten.
 
@@ -588,7 +588,7 @@ Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gestel
 
 ##### Artikel 56
 
-1. De raad zendt het rapport in concept aan degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2021-01-01&g=2021-01-01). Deze kunnen schriftelijk commentaar leveren gedurende een termijn van vier weken, die aanvangt met ingang van de dag na die waarop hetconcept van het rapport is verzonden. Zij zijn tot geheimhouding van hetconcept van het rapport verplicht. De raad kan het gedeelte van het rapport, bedoeld in [artikel 55, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=55&z=2021-01-01&g=2021-01-01), buiten de toezending van het concept laten.
+1. De raad zendt het rapport in concept aan degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2022-05-01&g=2022-05-01). Deze kunnen schriftelijk commentaar leveren gedurende een termijn van vier weken, die aanvangt met ingang van de dag na die waarop hetconcept van het rapport is verzonden. Zij zijn tot geheimhouding van hetconcept van het rapport verplicht. De raad kan het gedeelte van het rapport, bedoeld in [artikel 55, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=55&z=2022-05-01&g=2022-05-01), buiten de toezending van het concept laten.
 
 2. Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld over het toezenden van het rapport in concept aan andere staten onderscheidenlijk Aruba, Curaçao en Sint Maarten voor commentaar en over de voor het geven van commentaar te stellen termijn.
 
@@ -596,23 +596,21 @@ Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gestel
 
 ##### Artikel 57
 
-1. De raad neemt door hem vergaarde informatie niet in het rapport op voorzover dit:
+1. De raad neemt door hem vergaarde informatie niet in het rapport op voor zover dit:
 
 - a. de eenheid van de Kroon in gevaar zou kunnen brengen;
 
 - b. de veiligheid van het Koninkrijk zou kunnen schaden;
 
-- c. bedrijfs- en fabricagegegevens betreft die door natuurlijke personen of rechtspersonen vertrouwelijk zijn meegedeeld;
+- c. persoonsgegevens betreft als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2), tenzij de betrokkene uitdrukkelijk toestemming heeft gegeven voor opname van deze persoonsgegevens in het rapport of deze persoonsgegevens kennelijk door de betrokkene openbaar zijn gemaakt;
 
-- d. persoonsgegevens betreft als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2), tenzij de betrokkene uitdrukkelijk toestemming heeft gegeven voor opname in het rapport van deze persoonsgegevens of deze persoonsgegevens kennelijk door de betrokkene openbaar zijn gemaakt;
+- d. nummers betreft die dienen ter identificatie van personen die bij wet of algemene maatregel van bestuur zijn voorgeschreven op grond van [artikel 46 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
 
-- e. nummers betreft die dienen ter identificatie van personen die bij wet of algemene maatregel van bestuur zijn voorgeschreven op grond van [artikel 46 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
-
-2. De raad neemt eveneens door hem vergaarde informatie niet in het rapport op voorzover het belang daarvan niet opweegt tegen de volgende belangen:
+2. De raad neemt eveneens door hem vergaarde informatie niet in het rapport op voor zover het belang daarvan niet opweegt tegen de volgende belangen:
 
 - a. de betrekkingen van het Koninkrijk of de landen van het Koninkrijk met andere staten of met internationale organisaties;
 
-- b. de economische of financiële belangen van het Koninkrijk, van de publiekrechtelijke lichamen van de landen van het Koninkrijk, of van de in [artikel 1a, onderdeel c en d, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a) bedoelde bestuursorganen;
+- b. de economische of financiële belangen van het Koninkrijk, van de publiekrechtelijke lichamen en bestuursorganen van de landen van het Koninkrijk, of van de in [artikel 1a, onderdeel c en d, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=1a) bedoelde bestuursorganen;
 
 - c. de opsporing en vervolging van strafbare feiten;
 
@@ -620,25 +618,21 @@ Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gestel
 
 - e. de eerbiediging van de persoonlijke levenssfeer;
 
-- f. het voorkomen van onevenredige bevoordeling of benadeling van bij de aangelegenheid betrokken natuurlijke personen of rechtspersonen dan wel van derden.
+- f. bedrijfs- en fabricagegegevens die door natuurlijke personen of rechtspersonen vertrouwelijk aan de overheid zijn meegedeeld, alsmede andere concurrentiegevoelige bedrijfs- en fabricagegegevens;
 
-3. Het eerste lid, aanhef en onderdeel c, is niet van toepassing voorzover het milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a) betreft die betrekking heeft op de emissies in het milieu. Voorts blijft in afwijking van genoemde bepaling het opnemen van milieu-informatie uitsluitend achterwege voorzover het belang van opname in het rapport niet opweegt tegen het daar genoemde belang.
+- g. de bescherming van het milieu waarop deze informatie betrekking heeft;
 
-4. Het tweede lid, aanhef en onderdeel b, is van toepassing op het opnemen in het rapport van milieu-informatie, als bedoeld in a[rtikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a), voorzover deze handelingen betreft met een vertrouwelijk karakter.
+- h. de beveiliging van personen en bedrijven en het voorkomen van sabotage;
 
-5. Het tweede lid, aanhef en onderdeel e, is niet van toepassing voorzover de betrokken persoon heeft ingestemd met opname in het rapport.
+- i. het goed functioneren van de Staat, andere publiekrechtelijke lichamen of bestuursorganen;
 
-6. Het tweede lid, aanhef en onderdeel f, is niet van toepassing op het opnemen in het rapport van milieu-informatie als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a).
+- j. indien geen sprake is van milieu-informatie, de onevenredige benadeling van een ander belang dan genoemd in het eerste of tweede lid.
 
-7. Het opnemen in het rapport van milieu-informatie, als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a), blijft eveneens achterwege voorzover het belang daarvan niet opweegt tegen de volgende belangen:
+3. Het tweede lid, aanhef en onderdeel b, is van toepassing op het opnemen in het rapport van milieu-informatie, als bedoeld in [artikel 19.1a van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=19.1a), voor zover deze handelingen betreft met een vertrouwelijk karakter.
 
-- a. de bescherming van het milieu waarop deze informatie betrekking heeft;
+4. Het eerste en tweede lid zijn niet van toepassing op milieu-informatie die betrekking heeft op emissies in het milieu.
 
-- b. de beveiliging van bedrijven en het voorkomen van sabotage.
-
-8. Bij het toepassen van het eerste, tweede en zevende lid op milieu-informatie wordt in aanmerking genomen of deze informatie betrekking heeft op emissies in het milieu.
-
-9. Het derde tot en met het achtste lid is niet van toepassing op milieu-informatie die op Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba betrekking heeft.
+5. Het derde lid is niet van toepassing op milieu-informatie die op Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba betrekking heeft.
 
 ##### Artikel 58
 
@@ -650,17 +644,17 @@ Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gestel
 
 1. De raad maakt het rapport openbaar.
 
-2. De raad zendt het rapport in elk geval aan Onze Minister wie het aangaat, en de natuurlijke persoon, de betrokken onderneming, de betrokken nationale luchtvaartautoriteit, de rechtspersoon of het bestuursorgaan waartoe een aanbeveling zich richt. De raad zendt het rapport in elk geval tevens in afschrift aan Onze Minister, een betrokken bestuursorgaan en degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2021-01-01&g=2021-01-01).
+2. De raad zendt het rapport in elk geval aan Onze Minister wie het aangaat, en de natuurlijke persoon, de betrokken onderneming, de betrokken nationale luchtvaartautoriteit, de rechtspersoon of het bestuursorgaan waartoe een aanbeveling zich richt. De raad zendt het rapport in elk geval tevens in afschrift aan Onze Minister, een betrokken bestuursorgaan en degenen die zijn bedoeld in [artikel 48, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=48&z=2022-05-01&g=2022-05-01).
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het in daarbij aangewezen gevallen toezenden van het rapport aan een buitenlandse staat, de Commissie van de Europese Gemeenschappen dan wel een internationale organisatie.
 
-4. Een ieder kan een afschrift van het rapport verkrijgen. De raad kan voor een afschrift kosten in rekening brengen. De kosten worden berekend overeenkomstig het bepaalde krachtens [artikel 12 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=12).
+4. Een ieder kan een afschrift van het rapport verkrijgen. De raad kan voor een afschrift kosten in rekening brengen. De kosten worden berekend overeenkomstig het bepaalde bij of krachtens [artikel 8.6 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=8.6).
 
 5. Concepten van het rapport, informatie die ten behoeve van een onderzoek door de raad is verzameld, alsmede informatie die de raad ingevolge het bij of krachtens deze wet bepaalde, gedurende het onderzoek aan anderen heeft verstrekt zijn niet openbaar.
 
 ##### Artikel 60
 
-1. Indien als gevolg van toepassing van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2021-01-01&g=2021-01-01), bepaalde informatie niet in het rapport kan worden opgenomen die naar het oordeel van de raad wezenlijk is voor de analyse van de toedracht van het voorval of de onderbouwing van de conclusies, kan de raad beslissen de informatie en de daarop gebaseerde conclusies en aanbevelingen te zenden aan de natuurlijke persoon, de rechtspersoon of het bestuursorgaan waartoe de aanbeveling zich richt en bij wie respectievelijk waarbij de informatie reeds bekend is.
+1. Indien als gevolg van toepassing van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=57&z=2022-05-01&g=2022-05-01), bepaalde informatie niet in het rapport kan worden opgenomen die naar het oordeel van de raad wezenlijk is voor de analyse van de toedracht van het voorval of de onderbouwing van de conclusies, kan de raad beslissen de informatie en de daarop gebaseerde conclusies en aanbevelingen te zenden aan de natuurlijke persoon, de rechtspersoon of het bestuursorgaan waartoe de aanbeveling zich richt en bij wie respectievelijk waarbij de informatie reeds bekend is.
 
 2. In het geval, bedoeld in het eerste lid, kan de raad afzien van het uitbrengen van een openbaar rapport.
 
@@ -672,7 +666,7 @@ Een conclusie of aanbeveling behelst niet een vermoeden van schuld aan of aanspr
 
 ##### Artikel 62
 
-1. De raad kan beslissen het onderzoek tussentijds te beëindigen, indien het onderzoek naar zijn oordeel geen zinvolle aanbevelingen zal opleveren, onverminderd het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01).
+1. De raad kan beslissen het onderzoek tussentijds te beëindigen, indien het onderzoek naar zijn oordeel geen zinvolle aanbevelingen zal opleveren, onverminderd het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-05-01&g=2022-05-01).
 
 2. Indien de raad toepassing geeft aan het eerste lid stelt hij Onze Minister wie het aangaat, alsmede in voorkomende gevallen het bestuur van een provincie of gemeente of het bestuur van het openbare lichaam Bonaire, Sint Eustatius of Saba daarvan in kennis.
 
@@ -736,17 +730,17 @@ Bij of krachtens algemene maatregel van rijksbestuur of algemene maatregel van b
 
 - f. door de raad opgestelde documenten, of in opdracht van de raad door derden opgestelde documenten
 
-2. Ten behoeve van een strafrechtelijk of tuchtrechtelijk onderzoek of een procedure tot oplegging van een disciplinaire maatregel, een bestuurlijke sanctie of een bestuurlijke maatregel kunnen gegevensdragers als bedoeld in het eerste lid, onderdelen a, b, c, d en f, met uitzondering van het in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=55&z=2021-01-01&g=2021-01-01), bedoelde rapport, niet ter inzage worden gevorderd of in beslag worden genomen. Op verzoek kunnen verklaringen als bedoeld in het eerste lid onderdeel a echter ter inzage worden gegeven, indien degene die de verklaring heeft afgelegd, daarvoor uitdrukkelijk toestemming heeft gegeven en kan informatie als bedoeld in onderdeel c ter beschikking worden gesteld, indien degene wie de informatie betreft, daarvoor uitdrukkelijk toestemming heeft gegeven.
+2. Ten behoeve van een strafrechtelijk of tuchtrechtelijk onderzoek of een procedure tot oplegging van een disciplinaire maatregel, een bestuurlijke sanctie of een bestuurlijke maatregel kunnen gegevensdragers als bedoeld in het eerste lid, onderdelen a, b, c, d en f, met uitzondering van het in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=55&z=2022-05-01&g=2022-05-01), bedoelde rapport, niet ter inzage worden gevorderd of in beslag worden genomen. Op verzoek kunnen verklaringen als bedoeld in het eerste lid onderdeel a echter ter inzage worden gegeven, indien degene die de verklaring heeft afgelegd, daarvoor uitdrukkelijk toestemming heeft gegeven en kan informatie als bedoeld in onderdeel c ter beschikking worden gesteld, indien degene wie de informatie betreft, daarvoor uitdrukkelijk toestemming heeft gegeven.
 
 3. In afwijking van het eerste en tweede lid kunnen gegevensdragers als bedoeld in het eerste lid, onderdelen b en d, als bewijs worden gebruikt en ter inzage worden gevorderd of in beslag worden genomen, indien het een strafrechtelijk onderzoek betreft naar een gijzeling, moord, doodslag of een strafbaar feit met het oogmerk om de bevolking of een deel der bevolking van een land vrees aan te jagen, dan wel een overheid of internationale organisatie te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te destabiliseren of te vernietigen.
 
-4. De raad, de medewerkers van het bureau, de algemeen secretaris en de op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2021-01-01&g=2021-01-01), aangewezen deskundigen worden ter zake van een onderzoek waarbij zij betrokken zijn of zijn geweest, niet als getuige of deskundige opgeroepen.
+4. De raad, de medewerkers van het bureau, de algemeen secretaris en de op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2022-05-01&g=2022-05-01), aangewezen deskundigen worden ter zake van een onderzoek waarbij zij betrokken zijn of zijn geweest, niet als getuige of deskundige opgeroepen.
 
 5. Het eerste lid, aanhef en onderdeel a, en het tweede lid voor zover het betrekking heeft op een gegevensdrager als bedoeld in het eerste lid, onderdeel a, is niet van toepassing bij de vervolging van een getuige of deskundige ter zake van meineed in verband met een door hem voor de raad afgelegde verklaring.
 
 ##### Artikel 70
 
-De raad, de medewerkers van het bureau, de algemeen secretaris en de op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2021-01-01&g=2021-01-01), aangewezen deskundigen doen geen aangifte van strafbare feiten waarvan ze bij de uitoefening van hun functie bij de raad kennis hebben gekregen, bij een opsporingsambtenaar, met uitzondering van de gevallen bedoeld in de [artikelen 160](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=160) en [162 van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=162), meineed, de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2021-01-01&g=2021-01-01) strafbaar gestelde feiten, alsmede, voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2021-01-01&g=2021-01-01), de feiten strafbaar gesteld in:
+De raad, de medewerkers van het bureau, de algemeen secretaris en de op grond van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=3&artikel=14&z=2022-05-01&g=2022-05-01), aangewezen deskundigen doen geen aangifte van strafbare feiten waarvan ze bij de uitoefening van hun functie bij de raad kennis hebben gekregen, bij een opsporingsambtenaar, met uitzondering van de gevallen bedoeld in de [artikelen 160](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=160) en [162 van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=162), meineed, de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2022-05-01&g=2022-05-01) strafbaar gestelde feiten, alsmede, voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2022-05-01&g=2022-05-01), de feiten strafbaar gesteld in:
 
 - a. de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184);
 
@@ -820,17 +814,17 @@ Indien Nederland aanbevelingen of andere voorstellen voor preventieve maatregele
 
 ##### Artikel 81
 
-1. Degene die handelt in strijd met het bepaalde op grond van de [artikelen 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=3&artikel=28&z=2021-01-01&g=2021-01-01), of [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=4&artikel=31&z=2021-01-01&g=2021-01-01), of in strijd met de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=49&z=2021-01-01&g=2021-01-01), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=51&z=2021-01-01&g=2021-01-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=6&artikel=72&z=2021-01-01&g=2021-01-01) of [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=74&z=2021-01-01&g=2021-01-01), wordt gestraft met een geldboete van de tweede categorie, dan wel, indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van de derde categorie ingevolge artikel 1:54, vierde lid, van het Wetboek van Strafrecht van Aruba, onderscheidenlijk artikel 1:54, vierde lid, van het Wetboek van Strafrecht van Curaçao, onderscheidenlijk artikel 1:54, vierde lid, van het Wetboek van Strafrecht van Sint Maarten.
+1. Degene die handelt in strijd met het bepaalde op grond van de [artikelen 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=3&artikel=28&z=2022-05-01&g=2022-05-01), of [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=4&artikel=31&z=2022-05-01&g=2022-05-01), of in strijd met de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=49&z=2022-05-01&g=2022-05-01), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=51&z=2022-05-01&g=2022-05-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=6&artikel=72&z=2022-05-01&g=2022-05-01) of [74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=74&z=2022-05-01&g=2022-05-01), wordt gestraft met een geldboete van de tweede categorie, dan wel, indien de geldboete wordt opgelegd door de strafrechter in Aruba, Curaçao of Sint Maarten, een geldboete van de derde categorie ingevolge artikel 1:54, vierde lid, van het Wetboek van Strafrecht van Aruba, onderscheidenlijk artikel 1:54, vierde lid, van het Wetboek van Strafrecht van Curaçao, onderscheidenlijk artikel 1:54, vierde lid, van het Wetboek van Strafrecht van Sint Maarten.
 
 2. De krachtens het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 82
 
-1. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2021-01-01&g=2021-01-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2021-01-01&g=2021-01-01), zijn, onverminderd de ambtenaren, bedoeld in [artikel 141 van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de door Onze Minister aangewezen ambtenaren.
+1. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2022-05-01&g=2022-05-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Nederlandse Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2022-05-01&g=2022-05-01), zijn, onverminderd de ambtenaren, bedoeld in [artikel 141 van het Nederlandse Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de door Onze Minister aangewezen ambtenaren.
 
-2. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2021-01-01&g=2021-01-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de [artikelen 185 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=185) en [190 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=190), voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2021-01-01&g=2021-01-01), zijn tevens belast de door Onze Minister aangewezen ambtenaren.
+2. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2022-05-01&g=2022-05-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de [artikelen 185 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=185) en [190 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=190), voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2022-05-01&g=2022-05-01), zijn tevens belast de door Onze Minister aangewezen ambtenaren.
 
-3. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2021-01-01&g=2021-01-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de artikelen 2:132 tot en met 2:135 en 2:137 van het Wetboek van Strafrecht van Aruba, de artikelen 2:132 tot en met 2:135 en 2:137 van het Wetboek van Strafrecht van Curaçao en de artikelen 2:132 tot en met 2:135 en 2:137 van het Wetboek van Strafrecht van Sint Maarten, voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2021-01-01&g=2021-01-01), zijn tevens respectievelijk belast de daartoe door de overheid in Aruba, Curaçao en Sint Maarten aangewezen personen.
+3. Met de opsporing van de bij [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=8&artikel=81&z=2022-05-01&g=2022-05-01) strafbaar gestelde feiten, alsmede de feiten strafbaar gesteld in de artikelen 2:132 tot en met 2:135 en 2:137 van het Wetboek van Strafrecht van Aruba, de artikelen 2:132 tot en met 2:135 en 2:137 van het Wetboek van Strafrecht van Curaçao en de artikelen 2:132 tot en met 2:135 en 2:137 van het Wetboek van Strafrecht van Sint Maarten, voor zover deze feiten betrekking hebben op [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=40&z=2022-05-01&g=2022-05-01), zijn tevens respectievelijk belast de daartoe door de overheid in Aruba, Curaçao en Sint Maarten aangewezen personen.
 
 4. Van een besluit als bedoeld in het eerste en tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -840,13 +834,13 @@ Indien Nederland aanbevelingen of andere voorstellen voor preventieve maatregele
 
 1. In afwijking van [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), zendt Onze Minister binnen drie jaar na de inwerkingtreding van deze rijkswet en vervolgens telkens na vijf jaar aan de Staten-Generaal, de Staten van Aruba, de Staten van Curaçao en de Staten van Sint Maarten een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de raad.
 
-2. Bij de ministeriële regeling, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=26&z=2021-01-01&g=2021-01-01), worden voorschriften gesteld omtrent de totstandkoming van het verslag en de betrokkenheid van de raad daarbij.
+2. Bij de ministeriële regeling, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=5&artikel=26&z=2022-05-01&g=2022-05-01), worden voorschriften gesteld omtrent de totstandkoming van het verslag en de betrokkenheid van de raad daarbij.
 
 ### Hoofdstuk 9. Evaluatie
 
 ##### Artikel 84
 
-1. In afwijking van [artikel 23, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), kunnen Onze Minister en Onze Minister wie het mede aangaat de noodzakelijke voorzieningen treffen indien naar het oordeel van Onze Minister en Onze Minister wie het mede aangaat, de raad ernstig in gebreke blijft in de uitoefening van zijn taak wat de onderzoeken, bedoeld in het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2021-01-01&g=2021-01-01), betreft. In dat geval zijn op de door Onze Minister en Onze Minister wie het mede aangaat, aan te wijzen personen de [artikelen 32 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=32&z=2021-01-01&g=2021-01-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2021-01-01&g=2021-01-01) en [70](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=70&z=2021-01-01&g=2021-01-01) van overeenkomstige toepassing. Onderzoeken worden verricht met inachtneming van de [artikelen 44 tot en met 65](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=44&z=2021-01-01&g=2021-01-01). Voorts zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=73&z=2021-01-01&g=2021-01-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=74&z=2021-01-01&g=2021-01-01) van overeenkomstige toepassing.
+1. In afwijking van [artikel 23, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), kunnen Onze Minister en Onze Minister wie het mede aangaat de noodzakelijke voorzieningen treffen indien naar het oordeel van Onze Minister en Onze Minister wie het mede aangaat, de raad ernstig in gebreke blijft in de uitoefening van zijn taak wat de onderzoeken, bedoeld in het bepaalde op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-05-01&g=2022-05-01), betreft. In dat geval zijn op de door Onze Minister en Onze Minister wie het mede aangaat, aan te wijzen personen de [artikelen 32 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=32&z=2022-05-01&g=2022-05-01), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2022-05-01&g=2022-05-01) en [70](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=70&z=2022-05-01&g=2022-05-01) van overeenkomstige toepassing. Onderzoeken worden verricht met inachtneming van de [artikelen 44 tot en met 65](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=44&z=2022-05-01&g=2022-05-01). Voorts zijn de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=73&z=2022-05-01&g=2022-05-01) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=6&artikel=74&z=2022-05-01&g=2022-05-01) van overeenkomstige toepassing.
 
 2. In afwijking van [artikel 23, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), wordt de termijn waarbinnen de raad in de gelegenheid wordt gesteld alsnog zijn taak naar behoren uit te voeren, gesteld door Onze Minister in overeenstemming met Onze Minister wie het mede aangaat.
 
@@ -958,7 +952,7 @@ Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Neder
 
 ##### Artikel 5b
 
-Gelet op artikel 9, tweede lid, onderdeel g, en artikel 10 van de Algemene verordening gegevensbescherming kan de raad, voor zo ver dit noodzakelijk is voor de uitoefening van de taak, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=3&z=2021-01-01&g=2021-01-01) van deze wet, bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in de [paragrafen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken evenals nummers verwerken die dienen ter identificatie van personen die bij wet of algemene maatregel van bestuur zijn voorgeschreven op grond van [artikel 46 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
+Gelet op artikel 9, tweede lid, onderdeel g, en artikel 10 van de Algemene verordening gegevensbescherming kan de raad, voor zo ver dit noodzakelijk is voor de uitoefening van de taak, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-05-01&g=2022-05-01) van deze wet, bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in de [paragrafen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken evenals nummers verwerken die dienen ter identificatie van personen die bij wet of algemene maatregel van bestuur zijn voorgeschreven op grond van [artikel 46 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
 
 #### § 2. Inrichting en samenstelling
 
@@ -984,7 +978,7 @@ Gelet op artikel 9, tweede lid, onderdeel g, en artikel 10 van de Algemene veror
 
 ##### Artikel 80a
 
-De [artikelen 32 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=32&z=2021-01-01&g=2021-01-01), [59, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=59&z=2021-01-01&g=2021-01-01), en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2021-01-01&g=2021-01-01) zijn van toepassing indien de raad of een vertegenwoordiger van de raad deelneemt of bijstand verleent aan een onderzoek dat door een andere staat of door Aruba, Curaçao of Sint Maarten wordt ingesteld.
+De [artikelen 32 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=1&artikel=32&z=2022-05-01&g=2022-05-01), [59, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=2&artikel=59&z=2022-05-01&g=2022-05-01), en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&hoofdstuk=5&paragraaf=5&artikel=69&z=2022-05-01&g=2022-05-01) zijn van toepassing indien de raad of een vertegenwoordiger van de raad deelneemt of bijstand verleent aan een onderzoek dat door een andere staat of door Aruba, Curaçao of Sint Maarten wordt ingesteld.
 
 ### Hoofdstuk 8. Straf- en opsporingsbepalingen
 
