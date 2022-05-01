@@ -4,7 +4,7 @@ identifier: "BWBR0023466"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2018-07-28"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023466"
 soort: "wet"
@@ -53,13 +53,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. authentiek gegeven: in een basisregistratie opgenomen gegeven dat bij of krachtens de wet als authentiek is aangemerkt;
 
-- e. basisregistratie: basisregistratie adressen en gebouwen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2018-07-28&g=2018-07-28);
+- e. basisregistratie: basisregistratie adressen en gebouwen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2022-05-01&g=2022-05-01);
 
 - d. brondocument: document in welke vorm dan ook waarin rechtsfeiten en andere voor de registraties relevante feiten zijn neergelegd;
 
 - e. Dienst: Dienst voor het kadaster en de openbare registers, genoemd in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- f. landelijke voorziening: landelijke voorziening als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=4&paragraaf=1&artikel=26&z=2018-07-28&g=2018-07-28);
+- f. landelijke voorziening: landelijke voorziening als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=4&paragraaf=1&artikel=26&z=2022-05-01&g=2022-05-01);
 
 - g. ligplaats: door het bevoegde gemeentelijke orgaan als zodanig aangewezen plaats in het water al dan niet aangevuld met een op de oever aanwezig terrein of een gedeelte daarvan, die bestemd is voor het permanent afmeren van een voor woon-, bedrijfsmatige of recreatieve doeleinden geschikt drijvend object;
 
@@ -157,11 +157,11 @@ Het bijhouden van de basisregistratie vindt plaats op basis van brondocumenten. 
 
 - 1°. een pand of verblijfsobject, ten aanzien waarvan een krachtens onderdeel a aangewezen brondocument ontbreekt,
 
-- 2°. een situatie als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2018-07-28&g=2018-07-28).
+- 2°. een situatie als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2022-05-01&g=2022-05-01).
 
 ##### Artikel 11
 
-Bij algemene maatregel van bestuur kunnen in het belang van het goed functioneren van de basisregistratie nadere regels worden gegeven ten aanzien van brondocumenten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=2&artikel=10&z=2018-07-28&g=2018-07-28).
+Bij algemene maatregel van bestuur kunnen in het belang van het goed functioneren van de basisregistratie nadere regels worden gegeven ten aanzien van brondocumenten als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=2&artikel=10&z=2022-05-01&g=2022-05-01).
 
 ##### Artikel 12
 
@@ -199,7 +199,7 @@ Vervallen
 
 2. Bij ministeriële regeling wordt voor de basisregistratie een systeembeschrijving vastgelegd, die in ieder geval omvat:
 
-- a. de gegevensdefinities van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&z=2018-07-28&g=2018-07-28) van dit hoofdstuk bedoelde gegevens en de voor die gegevens geldende kwaliteitseisen, en
+- a. de gegevensdefinities van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&z=2022-05-01&g=2022-05-01) van dit hoofdstuk bedoelde gegevens en de voor die gegevens geldende kwaliteitseisen, en
 
 - b. de beschrijving van het koppelvlak met de landelijke voorziening ten behoeve van het elektronisch berichtenverkeer met die voorziening.
 
@@ -217,15 +217,15 @@ Vervallen
 
 - b. verblijfsobjecten;
 
-- c. standplaatsen, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2018-07-28&g=2018-07-28);
+- c. standplaatsen, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2022-05-01&g=2022-05-01);
 
-- d. ligplaatsen, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2018-07-28&g=2018-07-28);
+- d. ligplaatsen, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2022-05-01&g=2022-05-01);
 
-- e. woonplaatsen, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2018-07-28&g=2018-07-28);
+- e. woonplaatsen, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2022-05-01&g=2022-05-01);
 
-- f. openbare ruimten, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2018-07-28&g=2018-07-28), en
+- f. openbare ruimten, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2022-05-01&g=2022-05-01), en
 
-- g. nummeraanduidingen, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2018-07-28&g=2018-07-28).
+- g. nummeraanduidingen, alsmede situaties als bedoeld in [artikel 2, tweede lid, onderdeel b, aanhef en onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=1&artikel=2&z=2022-05-01&g=2022-05-01).
 
 2. Met betrekking tot de in het eerste lid bedoelde gegevens en de bepaling daarvan worden bij algemene maatregel van bestuur nadere regels gesteld.
 
@@ -233,9 +233,9 @@ Vervallen
 
 4. Tot de in de aanhef van het eerste lid bedoelde meta-gegevens behoren in ieder geval:
 
-- a. de aanduiding dat opneming in de basisregistratie uitsluitend is gebaseerd op een brondocument als bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=2&artikel=10&z=2018-07-28&g=2018-07-28), indien dat het geval is;
+- a. de aanduiding dat opneming in de basisregistratie uitsluitend is gebaseerd op een brondocument als bedoeld in [artikel 10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=2&artikel=10&z=2022-05-01&g=2022-05-01), indien dat het geval is;
 
-- b. de aantekening «in onderzoek», indien toepassing is gegeven aan [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=39&z=2018-07-28&g=2018-07-28), of [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=41&z=2018-07-28&g=2018-07-28).
+- b. de aantekening «in onderzoek», indien toepassing is gegeven aan [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=39&z=2022-05-01&g=2022-05-01), of [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=41&z=2022-05-01&g=2022-05-01).
 
 ##### Artikel 20
 
@@ -273,7 +273,7 @@ De Dienst houdt een geautomatiseerde landelijke voorziening waarin de gegevens u
 
 ##### Artikel 27
 
-Het bestuur van de Dienst draagt er zorg voor dat de weergave van een in de landelijke voorziening opgenomen gegeven overeenstemt met het overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=4&paragraaf=3&artikel=31&z=2018-07-28&g=2018-07-28) door burgemeester en wethouders verstrekte gegeven.
+Het bestuur van de Dienst draagt er zorg voor dat de weergave van een in de landelijke voorziening opgenomen gegeven overeenstemt met het overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=4&paragraaf=3&artikel=31&z=2022-05-01&g=2022-05-01) door burgemeester en wethouders verstrekte gegeven.
 
 ##### Artikel 28
 
@@ -301,7 +301,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 
 1. Burgemeester en wethouders verstrekken de in de door hen gehouden basisregistratie opgenomen gegevens dan wel een wijziging van die gegevens binnen een werkdag na de verwerking van die gegevens respectievelijk de wijziging van die gegevens langs elektronische weg aan de Dienst ten behoeve van opneming van die gegevens in de landelijke voorziening.
 
-2. Bij het verstrekken van de gegevens, bedoeld in het eerste lid, nemen burgemeester en wethouders de beschrijving van het koppelvlak met de landelijke voorziening, bedoeld in [artikel 17, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=1&artikel=17&z=2018-07-28&g=2018-07-28), in acht.
+2. Bij het verstrekken van de gegevens, bedoeld in het eerste lid, nemen burgemeester en wethouders de beschrijving van het koppelvlak met de landelijke voorziening, bedoeld in [artikel 17, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=1&artikel=17&z=2022-05-01&g=2022-05-01), in acht.
 
 ### Hoofdstuk 5. Inzage, verstrekking en gebruik van gegevens
 
@@ -315,11 +315,11 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 
 - b. verleent de Dienst eenieder inzage in de landelijke voorziening en verstrekt de Dienst aan eenieder de daarin opgenomen gegevens.
 
-2. [Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is van overeenkomstige toepassing op de inzage in en het verstrekken van gegevens, bedoeld in het eerste lid, met dien verstande dat:
+2. [Artikel 5.1 van de wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) is van overeenkomstige toepassing op de inzage in en het verstrekken van gegevens, bedoeld in het eerste lid, met dien verstande dat:
 
-- a. voor zover aan een bestuursorgaan of andere afnemer inzage in de basisregistratie dan wel in de landelijke voorziening wordt verleend met behulp van zoekdiensten, uitsluitend de gronden, bedoeld in [artikel 10, eerste lid, onderdeel b, tweede lid, onderdeel a, en zevende lid, onderdeel b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) van overeenkomstige toepassing zijn;
+- a. voor zover aan een bestuursorgaan of andere afnemer inzage in de basisregistratie dan wel in de landelijke voorziening wordt verleend met behulp van zoekdiensten, uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn;
 
-- b. voor zover aan een bestuursorgaan met het oog op het vervullen van een publiekrechtelijke taak die van invloed kan zijn op het milieu inzage in de basisregistratie dan wel in de landelijke voorziening wordt verleend met behulp van raadpleegdiensten, of aan dat bestuursorgaan met het oog op het vervullen van die taak uit de adressenregistratie of de gebouwenregistratie dan wel uit de landelijke voorziening gegevens worden verstrekt, uitsluitend de gronden, bedoeld in [artikel 10, eerste lid, onderdeel b, tweede lid, onderdelen a en c, en zevende lid, onderdeel b, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) van overeenkomstige toepassing zijn.
+- b. voor zover aan een bestuursorgaan met het oog op het vervullen van een publiekrechtelijke taak die van invloed kan zijn op het milieu inzage in de basisregistratie dan wel in de landelijke voorziening wordt verleend met behulp van raadpleegdiensten, of aan dat bestuursorgaan met het oog op het vervullen van die taak uit de adressenregistratie of de gebouwenregistratie dan wel uit de landelijke voorziening gegevens worden verstrekt, uitsluitend de gronden, bedoeld in [artikel 5.1, eerste lid, onderdeel b, en tweede lid, onderdelen a, c en h, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) van overeenkomstige toepassing zijn.
 
 3. Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke levenssfeer van personen tot wie de gegevens die zijn opgenomen in de basisregistratie herleidbaar zijn voor daarbij aangewezen gegevens of categorieën van gegevens beperkingen worden vastgesteld ten aanzien van het bepaalde in het eerste lid.
 
@@ -359,21 +359,21 @@ De belanghebbende die gerede twijfel heeft over de juistheid van een in de basis
 
 ##### Artikel 39
 
-1. Na ontvangst van een melding als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2018-07-28&g=2018-07-28) of een verzoek als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2018-07-28&g=2018-07-28) besluiten burgemeester en wethouders over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven.
+1. Na ontvangst van een melding als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2022-05-01&g=2022-05-01) of een verzoek als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2022-05-01&g=2022-05-01) besluiten burgemeester en wethouders over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven.
 
-2. Indien burgemeester en wethouders niet binnen een bij algemene maatregel van bestuur te bepalen termijn na de melding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2018-07-28&g=2018-07-28), respectievelijk het verzoek, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2018-07-28&g=2018-07-28), hebben besloten over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven plaatsen zij in de basisregistratie bij dat gegeven de aantekening «in onderzoek».
+2. Indien burgemeester en wethouders niet binnen een bij algemene maatregel van bestuur te bepalen termijn na de melding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2022-05-01&g=2022-05-01), respectievelijk het verzoek, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2022-05-01&g=2022-05-01), hebben besloten over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven plaatsen zij in de basisregistratie bij dat gegeven de aantekening «in onderzoek».
 
-3. Burgemeester en wethouders beslissen zo spoedig mogelijk doch niet later dan een bij algemene maatregel van bestuur te bepalen termijn na ontvangst van de melding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2018-07-28&g=2018-07-28), respectievelijk het verzoek, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2018-07-28&g=2018-07-28), omtrent wijziging respectievelijk opneming van het desbetreffende authentieke gegeven.
+3. Burgemeester en wethouders beslissen zo spoedig mogelijk doch niet later dan een bij algemene maatregel van bestuur te bepalen termijn na ontvangst van de melding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2022-05-01&g=2022-05-01), respectievelijk het verzoek, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2022-05-01&g=2022-05-01), omtrent wijziging respectievelijk opneming van het desbetreffende authentieke gegeven.
 
 ##### Artikel 40
 
 1. Op het moment dat burgemeester en wethouders hebben beslist over de wijziging respectievelijk opneming van het desbetreffende authentieke gegeven verwijderen zij de aantekening «in onderzoek» uit de basisregistratie.
 
-2. Burgemeester en wethouders maken hun beslissing over wijziging respectievelijk opneming van het desbetreffende authentieke gegeven onverwijld bekend aan het bestuursorgaan dat de melding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2018-07-28&g=2018-07-28), heeft gedaan respectievelijk de belanghebbende die het verzoek, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2018-07-28&g=2018-07-28), heeft gedaan.
+2. Burgemeester en wethouders maken hun beslissing over wijziging respectievelijk opneming van het desbetreffende authentieke gegeven onverwijld bekend aan het bestuursorgaan dat de melding, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2022-05-01&g=2022-05-01), heeft gedaan respectievelijk de belanghebbende die het verzoek, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2022-05-01&g=2022-05-01), heeft gedaan.
 
 ##### Artikel 41
 
-1. De beslissing van burgemeester en wethouders over wijziging respectievelijk opneming van een gegeven naar aanleiding van een verzoek als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2018-07-28&g=2018-07-28) is een besluit.
+1. De beslissing van burgemeester en wethouders over wijziging respectievelijk opneming van een gegeven naar aanleiding van een verzoek als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=38&z=2022-05-01&g=2022-05-01) is een besluit.
 
 2. Indien tegen een besluit als bedoeld in het eerste lid bezwaar wordt aangetekend of beroep wordt ingesteld plaatsen burgemeester en wethouders in de basisregistratie bij dat gegeven de aantekening «in onderzoek».
 
@@ -435,11 +435,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Een bestuursorgaan kan een ander gegeven gebruiken dan een krachtens deze wet beschikbaar authentiek gegeven, ingeval:
 
-- a. bij het desbetreffende authentieke gegeven de aanduiding als bedoeld in [artikel 19, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-07-28&g=2018-07-28) is geplaatst;
+- a. bij het desbetreffende authentieke gegeven de aanduiding als bedoeld in [artikel 19, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&artikel=19&z=2022-05-01&g=2022-05-01) is geplaatst;
 
 - b. bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;
 
-- c. het met betrekking tot het desbetreffende authentieke gegeven een melding heeft gedaan als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2018-07-28&g=2018-07-28);
+- c. het met betrekking tot het desbetreffende authentieke gegeven een melding heeft gedaan als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=6&artikel=37&z=2022-05-01&g=2022-05-01);
 
 - d. het door toepassing van het eerste lid zijn publiekrechtelijke taak niet naar behoren zou kunnen vervullen, of
 
@@ -449,7 +449,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrekken dat krachtens deze wet als authentiek gegeven in de basisregistratie beschikbaar is, behoeft dat gegeven niet te verstrekken behoudens:
 
-- a. ingeval bij het desbetreffende authentieke gegeven de aanduiding als bedoeld in [artikel 19, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&artikel=19&z=2018-07-28&g=2018-07-28) is geplaatst;
+- a. ingeval bij het desbetreffende authentieke gegeven de aanduiding als bedoeld in [artikel 19, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&hoofdstuk=3&paragraaf=2&artikel=19&z=2022-05-01&g=2022-05-01) is geplaatst;
 
 - b. ingeval bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;
 
