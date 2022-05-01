@@ -4,7 +4,7 @@ identifier: "BWBR0035903"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-05-01"
-last_updated: "2021-02-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035903"
 soort: "zbo"
@@ -275,7 +275,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 - b. ter plaatse van een bijzondere verrichting ten minste twee transportbegeleiders en op werkdagen een rijtijdbeperking van 06.00 uur tot 10.00 uur en 15.00 tot 20.00 uur.
 
-5. Indien sprake is van een aanvraag als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=2&artikel=13&z=2021-02-01&g=2021-02-01), wordt het voorschrift van ten minste twee transportbegeleiders aan de ontheffing verbonden.
+5. Indien sprake is van een aanvraag als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=2&artikel=13&z=2022-05-01&g=2022-05-01), wordt het voorschrift van ten minste twee transportbegeleiders aan de ontheffing verbonden.
 
 6. Indien er sprake is van een aanvraag met een bijzondere voertuigconfiguratie kan het voorschrift transportbegeleiding uitgevoerd door één dan wel twee transportbegeleiders aan de ontheffing worden verbonden.
 
@@ -315,7 +315,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 - b. indien een bijzondere verrichting vereist is, ter plaatse ten minste twee transportbegeleiders en op werkdagen een rijtijdbeperking van 06.00 uur tot 10.00 uur en 15.00 tot 20.00 uur.
 
-5. Indien sprake is van een aanvraag als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=2&artikel=13&z=2021-02-01&g=2021-02-01), wordt het voorschrift van ten minste twee transportbegeleiders aan de ontheffing verbonden.
+5. Indien sprake is van een aanvraag als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=2&artikel=13&z=2022-05-01&g=2022-05-01), wordt het voorschrift van ten minste twee transportbegeleiders aan de ontheffing verbonden.
 
 6. Indien er sprake is van een aanvraag met een bijzondere voertuigconfiguratie kan het voorschrift transportbegeleiding uitgevoerd door één dan wel twee transportbegeleiders aan de ontheffing worden verbonden.
 
@@ -327,7 +327,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
 - b. de route, al dan niet in combinatie met de lading;
 
-- c. het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=1&artikel=5&z=2021-02-01&g=2021-02-01).
+- c. het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=1&artikel=5&z=2022-05-01&g=2022-05-01).
 
 2. Bij de beoordeling door de Dienst Wegverkeer van de geschiktheid van een motorvoertuig voor de uitvoering van een exceptioneel transport met een toegestane maximummassa van een samenstel van voertuigen groter dan het wettelijk maximum, is het volgende van toepassing:
 
@@ -363,7 +363,7 @@ Dit onderzoek wordt uitgevoerd aan de hand van het bepaalde in [artikel 13, eers
 
 ##### Artikel 17. Voorschriften verbonden aan de ontheffing
 
-1. De Dienst Wegverkeer verbindt aan iedere ontheffing algemene voorschriften, zoals opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A&z=2021-02-01&g=2021-02-01).
+1. De Dienst Wegverkeer verbindt aan iedere ontheffing algemene voorschriften, zoals opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&bijlage=A&z=2022-05-01&g=2022-05-01).
 
 2. De Dienst Wegverkeer kan aan iedere ontheffing bijzondere voorschriften verbinden.
 
@@ -385,7 +385,7 @@ Deze beleidsregel treedt in werking met ingang van 1 januari 2015.
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Ontheffingverlening exceptionele transporten RDW 2015.
 
-## Bijlage A. Bij [artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=3&artikel=17&z=2021-02-01&g=2021-02-01)
+## Bijlage A. Bij [artikel 17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035903&paragraaf=3&artikel=17&z=2022-05-01&g=2022-05-01)
 
 ### Algemene voorschriften
 
@@ -428,5 +428,11 @@ Voor een samenstel van voertuigen waarvan het getrokken voertuig een getrokken w
 ### Artikel 13. Vervangend voertuig of samenstel van voertuigen
 
 Indien een ander, vervangend, voertuig of samenstel van voertuigen dan in de ontheffing is vermeld bij de uitvoering van het exceptioneel transport wordt gebruikt, geldt onverminderd het bepaalde in artikel 1 van deze bijlage, het volgende:
+
+Deze beleidsregel zal met bijlagen en de toelichting in de Staatcourant worden geplaatst.
+
+### Artikel 14. Communicatie chauffeur en transportbegeleider
+
+Bij de uitvoering van een exceptioneel transport vindt de communicatie tussen de chauffeur en de transportbegeleider indien dit niet in het Nederlands is, plaats in een gangbare, voor beiden begrijpelijke taal.
 
 Deze beleidsregel zal met bijlagen en de toelichting in de Staatcourant worden geplaatst.
