@@ -4,7 +4,7 @@ identifier: "BWBR0045642"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-01"
-last_updated: "2021-10-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045642"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Besluit:
 
 ##### Artikel 2
 
-De Chief Executive Officer van Invest International B.V. kan voor zijn bevoegdheden, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045642&artikel=1&z=2021-10-01&g=2021-10-01), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende medewerkers die tevens werkzaam zijn ten behoeve van Invest International Public Programmes B.V., dan wel aan medewerkers van Invest International Public Programmes B.V.
+De Chief Executive Officer van Invest International B.V. kan voor zijn bevoegdheden, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045642&artikel=1&z=2022-06-29&g=2022-05-01), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende medewerkers die tevens werkzaam zijn ten behoeve van Invest International Public Programmes B.V., dan wel aan medewerkers van Invest International Public Programmes B.V.
 
 ##### Artikel 3
 
