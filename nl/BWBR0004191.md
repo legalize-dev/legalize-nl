@@ -4,7 +4,7 @@ identifier: "BWBR0004191"
 country: "nl"
 rank: "wet"
 publication_date: "2024-10-29"
-last_updated: "2021-07-01"
+last_updated: "2022-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004191"
 soort: "wet"
@@ -52,9 +52,9 @@ In deze wet wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2021-07-01&g=2021-07-01);
+- b. organisatie: de organisatie, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=2&z=2022-05-01&g=2022-05-01);
 
-- c. instellingsplan: instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2021-07-01&g=2021-07-01).
+- c. instellingsplan: instellingsplan, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=III&paragraaf=2&artikel=18&z=2022-05-01&g=2022-05-01).
 
 ##### Artikel 2. Nederlandse organisatie voor wetenschappelijk onderzoek (NWO)
 
@@ -140,7 +140,7 @@ De organisatie heeft een raad van bestuur, een raad van toezicht en vier domeinb
 
 ##### Artikel 11. Raad van toezicht: taak
 
-1. De raad van toezicht staat de raad van bestuur met raad ter zijde en geeft desgevraagd of uit eigen beweging advies over het beleid van de raad van bestuur. Bij de vervulling van zijn taak richt de raad zich naar het belang van de organisatie en neemt daarbij de doelstelling van de organisatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=3&z=2021-07-01&g=2021-07-01), als uitgangspunt.
+1. De raad van toezicht staat de raad van bestuur met raad ter zijde en geeft desgevraagd of uit eigen beweging advies over het beleid van de raad van bestuur. Bij de vervulling van zijn taak richt de raad zich naar het belang van de organisatie en neemt daarbij de doelstelling van de organisatie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=I&artikel=3&z=2022-05-01&g=2022-05-01), als uitgangspunt.
 
 2. De raad van toezicht stelt een reglement vast betreffende zijn werkwijze waarin in ieder geval in het bijzonder aandacht is voor:
 
@@ -190,7 +190,7 @@ Vervallen
 
 ### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
 
-#### § 1. Planning
+#### § 2. Planning
 
 ##### Artikel 17. Vaststelling wetenschapbudget
 
@@ -358,7 +358,7 @@ Vervallen
 
 ##### Artikel 45. Overgangsrecht eerste benoemingen raad van bestuur en domeinvoorzitters
 
-In afwijking van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=5&z=2021-07-01&g=2021-07-01), en [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=13&z=2021-07-01&g=2021-07-01), vindt de benoeming van de eerste leden van de raad van bestuur en de voorzitters van de domeinbesturen plaats op basis van openbaar gemaakte functieprofielen en laat Onze Minister zich adviseren door een benoemingsadviescommissie.
+In afwijking van [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=5&z=2022-05-01&g=2022-05-01), en [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&hoofdstuk=II&artikel=13&z=2022-05-01&g=2022-05-01), vindt de benoeming van de eerste leden van de raad van bestuur en de voorzitters van de domeinbesturen plaats op basis van openbaar gemaakte functieprofielen en laat Onze Minister zich adviseren door een benoemingsadviescommissie.
 
 ##### Artikel 46. Inwerkingtreding
 
@@ -380,7 +380,7 @@ Vervallen
 
 #### § 4. Het personeel
 
-#### § 5. Het reglement
+#### § 1. Wetenschapsbudget
 
 ### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
 
@@ -430,7 +430,7 @@ Op de organisatie is de [Kaderwet zelfstandige bestuursorganen](https://wetten.o
 
 ### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
 
-#### § 1. Wetenschapsbudget
+#### § 3. Financiële bepalingen
 
 #### § 2. Planning
 
@@ -447,6 +447,22 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 ### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
 
 #### § 2. Planning
+
+### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
+
+### Hoofdstuk V. Slot- en overgangsbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 3a
+
+Onderzoeksgegevens die louter tot stand zijn gekomen met een wetenschappelijk oogmerk en die geen betrekking hebben op de bestuursvoering van de organisatie kunnen beschikbaar worden gesteld voor wetenschappelijk onderzoek.
+
+### Hoofdstuk II. Het bestuur en de inrichting van de organisatie
+
+### Hoofdstuk III. Planning, financiële bepalingen, verslag en rekening
+
+#### § 4. Voorschriften inrichting begroting en jaarrekening
 
 ### Hoofdstuk IV. Schorsing en vernietiging van besluiten; taakverwaarlozingsregeling
 
