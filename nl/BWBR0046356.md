@@ -4,7 +4,7 @@ identifier: "BWBR0046356"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-21"
-last_updated: "2022-03-02"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046356"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 3, eerste lid, artikel 4, eerste en tweede lid, artikel 5, eerste en derde lid, artikel 6, eerste lid, artikel 8 en artikel 10, eerste lid, van Verordening (EU) nr. 2022/263 van de Raad van de Europese Unie van 23 februari 2022 betreffende beperkende maatregelen naar aanleiding van de erkenning van de niet onder het gezag van de regering vallende gebieden in de oblasten Donetsk en Loehansk van Oekraïne en het bevel aan de Russische strijdkrachten om die gebieden binnen te trekken (Pb EU L 42I).
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2, tweede lid, artikel 3, tweede of derde lid, artikel 4, derde lid, artikel 5, tweede lid, artikel 6, tweede lid, artikel 7 of artikel 9 van Verordening (EU) nr. 2022/263 van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2, tweede lid, artikel 3, tweede of derde lid, artikel 4, derde lid, artikel 4 bis, eerste of tweede lid, artikel 5, tweede lid, artikel 5 bis, eerste of tweede lid, artikel 6, tweede lid, artikel 7 of artikel 9 van [Verordening (EU) nr. 2022/263](32163R2022) van toepassing is.
 
 ##### Artikel 2
 
@@ -54,7 +54,7 @@ Besluit:
 
 2. De bevoegde autoriteit, bedoeld in artikel 6, tweede lid, van Verordening (EU) nr. 2022/263, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-3. De bevoegde autoriteit, bedoeld in artikel 4, derde lid, en artikel 7 van Verordening (EU) nr. 2022/263, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken.
+3. De bevoegde autoriteit, bedoeld in artikel 4, derde lid, artikel 4 bis, tweede lid, artikel 5 bis, tweede lid, en artikel 7 van [Verordening (EU) nr. 2022/263](32163R2022), is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de Minister van Financiën, elk voor het gebied waartoe hun competenties zich uitstrekken.
 
 ##### Artikel 3
 
