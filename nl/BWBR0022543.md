@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2022-01-01"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Treedt in werking op het tijdstip waarop het Landbouwkwaliteitsbesluit 2007 in w
 
 In deze regeling wordt verstaan onder:
 
-- **de Minister:** de Minister van Economische Zaken;
+- **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 - **verordening (EG) 1580/2007:** Verordening (EG) nr. 1580/2007 van de Commissie van 21 december 2007 tot vaststelling van bepalingen voor de uitvoering van de Verordeningen (EG) nr. 2200/96, (EG) nr. 2201/96 en (EG) nr. 1182/2007 van de Raad in de sector groenten en fruit (PbEU 2007, L 350);
 
@@ -58,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Marktdeelnemers als bedoeld in artikel 2, aanhef, onderdeel d, van verordening (EG) 834/2007 registreren zich bij de Stichting Skal overeenkomstig artikel 28, eerste lid, van verordening (EG) 834/2007 in samenhang met artikel 63, derde lid, van verordening (EG) 889/2008.
+1. Exploitanten als bedoeld in artikel 3, onder 13, van [verordening (EU) 2018/848](32748R2018) en groepen exploitanten, als bedoeld in artikel 36 van [verordening (EU) 2018/848](32748R2018), melden zich overeenkomstig artikel 15, aanhef en onderdeel b, van het Landbouwkwaliteitsbesluit 2007 bij de Stichting Skal overeenkomstig artikel 34, eerste lid, van [verordening (EU) 2018/848](32748R2018).
 
-2. Marktdeelnemers die producten direct aan de eindconsument of eindgebruiker verkopen zijn overeenkomstig artikel 28, tweede lid, van verordening (EG) 834/2007 vrijgesteld van de toepassing van artikel 28 eerste lid, van verordening (EG) 834/2007 mits zij deze producten niet produceren of bereiden of opslaan op een plaats die geen verband houdt met het verkooppunt, of importeren uit een derde land of dergelijke activiteiten aan een derde partij hebben uitbesteed.
+2. Exploitanten die onverpakte biologische producten, met uitzondering van diervoeders, direct aan de eindconsument of eindgebruiker verkopen zijn vrijgesteld van de toepassing van artikel 34, eerste lid, van [verordening (EU) 2018/848](32748R2018), mits ze voldoen aan artikel 35, achtste lid, van [verordening (EU) 2018/848](32748R2018).
 
 ##### Artikel 3
 
-Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/2007 in samenhang met verordening (EG) 889/2008 niet worden nageleefd met betrekking tot een product waarvoor overeenkomstig die verordeningen aanduidingen worden gebezigd, kan zij de betreffende marktdeelnemers de verplichting opleggen om de aanduidingen van de desbetreffende producten te verwijderen of te doen verwijderen overeenkomstig artikel 30, eerste lid, van verordening (EG) 834/2007.
+Indien de Stichting Skal constateert dat de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften niet worden nageleefd met betrekking tot een product waarvoor overeenkomstig die verordeningen aanduidingen worden gebezigd, kan zij de betreffende marktdeelnemers de verplichting opleggen om de aanduidingen van de desbetreffende producten te verwijderen of te doen verwijderen overeenkomstig artikel 42 van [verordening (EU) 2018/848](32748R2018).
 
 ##### Artikel 4
 
@@ -76,11 +76,11 @@ Vervallen
 
 ##### Artikel 6
 
-1. De Minister kan op aanvraag een vergunning verlenen als bedoeld in artikel 29, eerste lid van verordening (EG) 889/2008.
+1. De Minister kan op aanvraag een toelating verlenen als bedoeld in artikel 25, eerste lid, van [verordening (EU) 2018/848](32748R2018).
 
-2. De Minister kan op aanvraag een ontheffing verlenen voor de import van producten van gegarandeerde gelijkwaardigheid afkomstig uit derde landen die niet zijn opgenomen op de lijst, bedoeld in artikel 33, tweede lid, van verordening (EG) 834/2007, overeenkomstig de bij verordening (EG) 1235/2008 vastgestelde communautaire voorschriften.
+2. Overeenkomstig [artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16) kan de minister een gebeurtenis formeel als rampzalige gebeurtenis overeenkomstig artikel 22 van [verordening (EU) 2018/848](32748R2018) jo. artikel 1 van [verordening (EU) 2020/2146](32146R2020) erkennen en dan door middel van een vrijstelling of ontheffing toestemming verlenen om gedurende een beperkte periode, tot de biologische productie kan worden hervat, af te wijken van de biologische productievoorschriften onder de bij of krachtens artikel 22 [verordening (EU) 2018/848](32748R2018) gestelde voorwaarden.
 
-3. De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van niet overeenkomstig de biologische productiemethode verkregen zaaizaad en pootgoed overeenkomstig artikel 45 van verordening (EG) 889/2008.
+3. De Stichting Skal kan op aanvraag ontheffing verlenen voor het gebruik van plantaardig omschakelingsteeltmateriaal en plantaardig niet overeenkomstig de biologische productiemethode verkregen teeltmateriaal overeenkomstig bijlage II, deel I, punten 1.8.5.1 en 1.8.6, van [verordening (EU) 2018/848](32748R2018).
 
 ##### Artikel 7
 
@@ -190,7 +190,7 @@ Vervallen
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2022-05-05&g=2022-01-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2022-05-05&g=2022-05-05) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -222,7 +222,7 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 ##### Artikel 27
 
-De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2022-05-05&g=2022-01-01), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
+De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2022-05-05&g=2022-05-05), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
 ##### Artikel 28
 
@@ -422,7 +422,7 @@ In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon
 
 1. Een controle-instelling kan de tarieven, bedoeld in [artikel 11, eerste lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), in rekening brengen bij aan haar toezicht of keuring onderworpen marktdeelnemers.
 
-2. De controle-instelling kan de tarieven, bedoeld in het eerste lid, in rekening brengen ter dekking van de kosten die verband houden met de activiteiten ten behoeve van het toezicht of de keuring waarmee deze op grond van de [artikelen 11 tot en met 16 van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=11) of de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.10) en [2.11 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.11) is belast. De tarieven kunnen in rekening worden gebracht in de vorm van:
+2. De controle-instelling kan de tarieven, bedoeld in het eerste lid, in rekening brengen ter dekking van de kosten die verband houden met de activiteiten ten behoeve van het toezicht of de keuring waarmee deze op grond van de [artikelen 11 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=11) en [18 van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=18) of de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.10) en [2.11 van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.11) is belast. De tarieven kunnen in rekening worden gebracht in de vorm van:
 
 - a. een retributie op basis van de activiteiten die worden verricht door of in opdracht van de controle-instelling ten behoeve van het toezicht of de keuring bij de desbetreffende marktdeelnemer, of
 
@@ -1029,9 +1029,9 @@ Vervallen
 
 ##### Artikel 8a
 
-1. Voor het schoonmaken en ontsmetten van gebouwen en installaties voor de plantaardige productie, inclusief opslag in een landbouwbedrijf, overeenkomstig artikel 95, zesde lid, van verordening (EG) 889/2008, mag slechts gebruik worden gemaakt van de in bijlage III genoemde producten met de daarbij genoemde beperkingen.
+1. Voor het reinigen en ontsmetten van gebouwen en installaties voor de plantaardige productie, inclusief opslag in een landbouwbedrijf, en van verwerkings- en opslagfaciliteiten mag overeenkomstig artikel 5, vierde lid, van [verordening (EU) 2021/1165](33065R2021), slechts gebruik worden gemaakt van de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=III&z=2022-05-05&g=2022-05-05) genoemde producten onder de daarbij genoemde beperkingen.
 
-2. Om gebouwen en andere installaties voor de plantaardige productie te ontdoen van insecten en andere parasieten, mag gebruik worden gemaakt van rodenticiden en de in bijlage II bij verordening (EG) 889/2008 opgenomen producten. Rodenticiden worden uitsluitend gebruikt in vallen.
+2. Om gebouwen en andere installaties voor de plantaardige productie te ontdoen van insecten en andere parasieten, mag gebruik worden gemaakt van rodenticiden en de in bijlage I van [verordening (EU) 2021/1165](33065R2021) opgenomen producten. Rodenticiden worden uitsluitend gebruikt in vallen.
 
 ### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
 
@@ -1472,7 +1472,7 @@ Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor 
 | Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
 | Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
 
-## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2022-05-05&g=2022-01-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2022-05-05&g=2022-05-05) van de Landbouwkwaliteitsregeling 2007
 
 Vervallen
 
@@ -1494,7 +1494,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2022-05-05&g=2022-01-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2022-05-05&g=2022-05-05) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1897,7 +1897,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2022-05-05&g=2022-01-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2022-05-05&g=2022-05-05) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
