@@ -4,7 +4,7 @@ identifier: "BWBR0045039"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045039"
 soort: "AMvB"
@@ -52,11 +52,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **besmet dier:** dier dat is aangewezen als besmet als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.2&z=2022-01-01&g=2022-01-01);
+- **besmet dier:** dier dat is aangewezen als besmet als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.2&z=2022-05-05&g=2022-05-05);
 
 - **deskundige:** deskundige als bedoeld in [artikel 9.8, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.8);
 
-- **verdacht dier:** dier dat is aangewezen als verdacht als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.1&z=2022-01-01&g=2022-01-01);
+- **verdacht dier:** dier dat is aangewezen als verdacht als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.1&z=2022-05-05&g=2022-05-05);
 
 - **verordening (EU) nr. 2016/429:** verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid («diergezondheidswetgeving») (PbEU 2016, L 84);
 
@@ -114,11 +114,11 @@ Voor daartoe aangewezen monitoringsprogramma’s wijst Onze Minister een instell
 
 ##### Artikel 3.2. Instructies
 
-Onze Minister kan aan een aangewezen instelling als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01) algemene en bijzondere instructies geven over de uitvoering en verantwoording van de aangewezen monitoringsprogramma’s.
+Onze Minister kan aan een aangewezen instelling als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2022-05-05&g=2022-05-05) algemene en bijzondere instructies geven over de uitvoering en verantwoording van de aangewezen monitoringsprogramma’s.
 
 ##### Artikel 3.3. Meewerkverplichting exploitant
 
-Een exploitant als bedoeld in artikel 4, onderdeel 24, van verordening nr. (EU) 2016/429 verleent medewerking ten behoeve van het nemen van monsters van de door hem gehouden dieren, kadavers, delen van dieren of dierlijke producten en staat deze af aan het op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2022-01-01&g=2022-01-01) aangewezen instelling ter uitvoering van de aangewezen monitoringsprogramma’s.
+Een exploitant als bedoeld in artikel 4, onderdeel 24, van verordening nr. (EU) 2016/429 verleent medewerking ten behoeve van het nemen van monsters van de door hem gehouden dieren, kadavers, delen van dieren of dierlijke producten en staat deze af aan het op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=3&artikel=3.1&z=2022-05-05&g=2022-05-05) aangewezen instelling ter uitvoering van de aangewezen monitoringsprogramma’s.
 
 ### Hoofdstuk 4. Waardevaststelling bij ziektebestrijdingsmaatregelen
 
@@ -190,7 +190,7 @@ De tegemoetkoming in de schade bedraagt voor alle dieren ten hoogste tienduizend
 
 - c. het exterieur, de productiviteit en het gebruiksdoel van dieren beoordelen;
 
-- d. de waarde van dieren, producten en voorwerpen bepalen in gevallen als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=4&artikel=4.3&z=2022-01-01&g=2022-01-01); en
+- d. de waarde van dieren, producten en voorwerpen bepalen in gevallen als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=4&artikel=4.3&z=2022-05-05&g=2022-05-05); en
 
 - e. mondeling, schriftelijk of digitaal rapporteren in de Nederlandse taal over uitgevoerde en uit te voeren werkzaamheden.
 
@@ -256,7 +256,7 @@ De volgende besluiten worden ingetrokken:
 
 - l. het [Embryobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006426).
 
-##### Artikel 7.3. Vervallen van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.3&z=2022-01-01&g=2022-01-01)
+##### Artikel 7.3. Vervallen van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=2&artikel=2.3&z=2022-05-05&g=2022-05-05)
 
 Wijzigt dit besluit.
 
@@ -266,11 +266,11 @@ Wijzigt het Besluit identificatie en registratie van dieren.
 
 ##### Artikel 7.5. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van 21 april 2021, met uitzondering van [artikel 6.4, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.4&z=2022-01-01&g=2022-01-01), ten aanzien van de [artikelen 1.29](onbekend), [1.30](onbekend) en [1.31 van het Besluit houders van dieren](onbekend), en van [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2022-01-01&g=2022-01-01).
+1. Dit besluit treedt in werking met ingang van 21 april 2021, met uitzondering van [artikel 6.4, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.4&z=2022-05-05&g=2022-05-05), ten aanzien van de [artikelen 1.29](onbekend), [1.30](onbekend) en [1.31 van het Besluit houders van dieren](onbekend), en van [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2022-05-05&g=2022-05-05).
 
 2. Indien het bij koninklijke boodschap van 17 februari 2020 ingediende voorstel van wet tot wijziging van de Wet dieren in verband met de uitvoering van de herziene Europese diergezondheidswetgeving (Kamerstukken 35 398) tot wet is of wordt verheven en artikel I, onderdeel B, van die wet in werking treedt, treedt artikel 6.4, onderdeel B, ten aanzien van de [artikelen 1.29](onbekend), [1.30](onbekend) en [1.31 van het Besluit houders van dieren](onbekend), op hetzelfde tijdstip in werking.
 
-3. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2022-01-01&g=2022-01-01) treedt in werking op het tijdstip dat artikel I, onderdeel A, onderdeel 3, van het besluit van 15 oktober 2020 tot wijziging van het Besluit diergezondheidsheffing in verband met de vaststelling van de tarieven voor 2021 (Stb. 399) in werking treedt.
+3. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045039&hoofdstuk=6&artikel=6.5&z=2022-05-05&g=2022-05-05) treedt in werking op het tijdstip dat artikel I, onderdeel A, onderdeel 3, van het besluit van 15 oktober 2020 tot wijziging van het Besluit diergezondheidsheffing in verband met de vaststelling van de tarieven voor 2021 (Stb. 399) in werking treedt.
 
 ##### Artikel 7.6. Citeertitel
 
@@ -310,9 +310,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **traaggroeiend ras:** ras waarvan de dieren minder dan 50 gram per dag groeien;
 
-- **verordening (EG) nr. 834/2007:** [Verordening (EG) nr. 834/2007](32007R0834) van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189);
-
 - **verordening (EG) nr. 589/2008:** [Verordening (EG) nr. 589/2008](32008R0589) van de Commissie van 23 juni 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor eieren (PbEU 2008, L 163);
+
+- **verordening (EU) 2018/848:** [Verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad (PbEU 2018, L 150);
 
 - **vleeskalkoen:** kalkoen van 72 uur of ouder die direct bestemd is voor de productie van vlees;
 
@@ -426,7 +426,7 @@ De omvang van de in [artikel 9.23, derde lid, van de wet](https://wetten.overhei
 
 3. Het tarief voor de diergezondheidsheffing ter zake van het houden van legkippen bedraagt:
 
-- a. € 0,119829 per legkip die wordt gehouden voor de productie van biologische eieren als bedoeld in artikel 23, eerste lid, van verordening(EG) nr. 834/2007;
+- a. € 0,119829 per legkip die wordt gehouden voor de productie van biologische eieren als bedoeld in artikel 30, eerste lid, van [verordening (EU) 2018/848](32748R2018);
 
 - b. € 0,063053 per legkip die wordt gehouden voor de productie van eieren van hennen met vrije uitloop als bedoeld in bijlage II, onderdeel 1, van verordening (EG) nr. 589/2008;
 
