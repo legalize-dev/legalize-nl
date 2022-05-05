@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2022-01-01"
+last_updated: "2022-05-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -56,8 +56,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. in de handel brengen: in het vrije verkeer bedrijfsmatig ter beschikking of in voorraad houden, uitstallen of te koop aanbieden, verkopen, bezitten met het oog op de verkoop, alsmede tegen of zonder vergoeding aan derden beschikbaar stellen, leveren of overdragen;
 
-- –. verordening (EG) 834/2007: verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU L 189);
-
 - –. verordening (EU) 1333/2011: uitvoeringsverordening (EU) nr. 1333/2011 van de Commissie van 19 december 2011 tot vaststelling van handelsnormen voor bananen, voorschriften inzake de controle op de naleving van die handelsnormen en voorschriften betreffende de mededelingen in de sector bananen (PbEU 2011, L 336);
 
 - –. verordening (EU) 543/2011: uitvoeringsverordening (EU) nr. 543/2011 van de Commissie van 7 juni 2011 tot vaststelling van nadere bepalingen voor de toepassing van Verordening (EG) nr. 1234/2007 van de Raad, wat de sectoren groenten en fruit en verwerkte groenten en fruit betreft (PbEU 2011, L 157);
@@ -65,6 +63,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - –. verordening (EU) 1151/2012: verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen (PbEU 2012, L 343);
 
 - –. verordening (EU) 1308/2013: verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
+
+- –. verordening (EU) 2018/848: [verordening (EU) 2018/848](32748R2018) van het Europees Parlement en de Raad van 30 mei 2018 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EG) nr. 834/2007 van de Raad (PbEU 2018, L 150);
 
 - –. richtlijn 98/56/EG: richtlijn nr. 1998/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226);
 
@@ -74,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. gearomatiseerde wijn: gearomatiseerde wijn als bedoeld in punt 2 van de bijlage bij richtlijn 2007/45/EG;
 
-- –. biologische productiemethode: voortbrenging van plantaardige producten overeenkomstig de bij of krachtens verordening (EG) 834/2007 gestelde voorschriften;
+- –. biologische productiemethode: voortbrenging van plantaardige producten overeenkomstig de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften;
 
 - –. teeltmateriaal van bloembollen: teeltmateriaal als bedoeld in artikel 2, eerste lid, van richtlijn 98/56/EG, van bloembollen;
 
@@ -94,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-Bij het in de handel brengen of etiketteren van of reclame maken voor producten wordt slechts verwezen naar de biologische productiemethode en wordt het logo, bedoeld in artikel 25 van verordening (EG) 834/2007, slechts gebruikt indien is voldaan aan het bepaalde bij of krachtens verordening (EG) 834/2007 en bij of krachtens dit besluit gestelde regels.
+Bij het in de handel brengen of etiketteren van of reclame maken voor producten wordt slechts verwezen naar de biologische productiemethode en wordt het logo, bedoeld in artikel 33 van [verordening (EU) 2018/848](32748R2018), slechts gebruikt indien is voldaan aan het bepaalde bij of krachtens [verordening (EU) 2018/848](32748R2018) en bij of krachtens dit besluit gestelde regels.
 
 ##### Artikel 3
 
@@ -134,7 +134,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 ##### Artikel 10
 
-1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2021-03-01&g=2022-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2021-03-01&g=2022-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2021-03-01&g=2022-01-01) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2021-03-01&g=2022-01-01) genoemde EU-richtlijn noodzakelijk is.
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2022-05-05&g=2022-05-05), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2022-05-05&g=2022-05-05) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2022-05-05&g=2022-05-05) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2022-05-05&g=2022-05-05) genoemde EU-richtlijn noodzakelijk is.
 
 2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
 
@@ -188,39 +188,43 @@ Vervallen
 
 ##### Artikel 15
 
-De Stichting Skal is de instantie, bedoeld in artikel 27, vierde lid, onder a, van verordening (EG) 834/2007 en belast met:
+De Stichting Skal wordt aangewezen als bevoegde autoriteit voor zover het betreft het gebied, genoemd in artikel 1, tweede lid, aanhef en onderdeel i, van [verordening (EU) 2017/625](32525R2017) voor:
 
-- a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien de biologische productiemethoden en van productiemethoden die bij ministeriële regeling daaraan gelijkgesteld zijn;
+- a. het documenteren, bedoeld in artikel 29, zesde lid, van [verordening (EU) 2018/848](32748R2018) van onderzoeksresultaten naar de aanwezigheid van niet-toegelaten producten of stoffen en genomen maatregelen;
 
-- b. uitvoering van de registratie, bedoeld in artikel 28 van verordening (EG) 834/2007;
+- b. het ontvangen van de melding, bedoeld in artikel 34 van [verordening (EU) 2018/848](32748R2018);
 
-- c. uitvoering van de overeenstemmingscontroles en de materiële controles ten behoeve van de verificatie van zendingen, bedoeld in artikel 2, vijfde lid, en artikel 13, eerste lid, onderdeel b, van Verordening (EU) 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft (PbEU 2008, L334);
+- c. het meedelen van de informatie, bedoeld in artikel 43, zesde lid, van [verordening (EU) 2018/848](32748R2018) aan het daar bedoelde betaalorgaan;
 
-- d. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoering van de in de aanhef bedoelde verordening.
+- d. de handhavingsverplichtingen, bedoeld in artikel 137 van [verordening (EU) 2017/625](32525R2017), en
+
+- e. het nemen van de acties en maatregelen, bedoeld in artikel 138 van [verordening (EU) 2017/625](32525R2017),
+
+en belast met deze taken.
 
 ##### Artikel 16
 
-1. Onze Minister is de bevoegde autoriteit, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), voor het gebied, genoemd in artikel 1, tweede lid, onderdeel i van verordening (EU) 2017/625.
+1. Onze Minister is de bevoegde autoriteit, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4), voor het gebied, genoemd in artikel 1, tweede lid, onderdeel i van verordening (EU) 2017/625 en belast met de taken die aan de bevoegde autoriteit of een lidstaat kunnen worden opgedragen en die niet op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2022-05-05&g=2022-05-05) of het tweede lid aan de Stichting Skal zijn opgedragen.
 
-2. De Stichting Skal is de controleautoriteit, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4).
+2. De Stichting Skal is de controleautoriteit, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=4) en is:
+
+- a. gelet op [verordening (EU) 2018/848](32748R2018) belast met alle taken die in verband met de toepassing van [verordening (EU) 2018/848](32748R2018) aan een controleautoriteit kunnen worden opgedragen, en
+
+- b. gelet op artikel 4, derde lid, van [verordening (EU) 2017/625](32525R2017) belast met de officiële controles en andere officiële activiteiten en de daarbij behorende taken en verantwoordelijkheden bedoeld in titel II, hoofdstukken II, V en VII, van [verordening (EU) 2017/625](32525R2017) ten aanzien van de in artikel 1, tweede lid, aanhef en onderdeel i, van [verordening (EU) 2017/625](32525R2017) bedoelde regels.
 
 ##### Artikel 17
 
-1. Onze Minister is de bevoegde autoriteit, voor:
+Onze Minister is de bevoegde autoriteit, voor:
 
-- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2021-03-01&g=2022-01-01), bedoelde bevoegdheid van de Stichting KCB vallen;
+- a. de officiële controles als bedoeld in artikel 36, derde lid, verordening (EU) 1151/2012 ten aanzien van producten die niet onder de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=14&z=2022-05-05&g=2022-05-05), bedoelde bevoegdheid van de Stichting KCB vallen;
 
-- b. artikel 27, eerste lid, van verordening (EG) nr. 834/2007;
+- b. artikel 34 van verordening (EU) 1151/2012;
 
-- c. artikel 34 van verordening (EU) 1151/2012;
-
-- d. het toezicht op de naleving van bij dit besluit gestelde regels inzake wijn en gearomatiseerde wijn.
-
-2. In afwijking van het eerste lid is de Stichting Skal de bevoegde autoriteit, bedoeld in artikel 17, eerste lid, onderdeel a, en artikel 28, eerste lid, onderdeel a, van verordening (EG) nr. 834/2007.
+- c. het toezicht op de naleving van bij dit besluit gestelde regels inzake wijn en gearomatiseerde wijn.
 
 ##### Artikel 18
 
-Indien het in het belang van een goede uitvoering van de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften aangewezen is dat in die voorschriften genoemde taken en bevoegdheden aan de Stichting Skal worden opgedragen, kunnen deze, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2022-05-05&g=2022-01-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2022-05-05&g=2022-01-01), worden opgedragen bij ministeriële regeling.
+Indien het in het belang van een goede uitvoering van de bij of krachtens [verordening (EU) 2018/848](32748R2018) gestelde voorschriften aangewezen is dat in die voorschriften genoemde taken en bevoegdheden aan de Stichting Skal worden opgedragen, kunnen deze, onverminderd het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=15&z=2022-05-05&g=2022-05-05) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16&z=2022-05-05&g=2022-05-05), worden opgedragen bij ministeriële regeling.
 
 ##### Artikel 19
 
