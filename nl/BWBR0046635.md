@@ -4,7 +4,7 @@ identifier: "BWBR0046635"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-05-06"
-last_updated: "2022-02-01"
+last_updated: "2022-05-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046635"
 soort: "ministeriele-regeling"
@@ -58,17 +58,17 @@ In dit besluit wordt verstaan onder:
 
 1. Aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Justitie en Veiligheid wordt mandaat en machtiging verleend om namens de Minister:
 
-- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046635&artikel=2&z=2022-05-06&g=2022-02-01);
+- a. een besluit te nemen op een bezwaarschrift gericht tegen een besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046635&artikel=2&z=2022-05-06&g=2022-05-06);
 
 - b. verweer te voeren ingeval beroep of hoger beroep is ingesteld ter zake van een besluit op bezwaar als bedoeld in onderdeel a;
 
-- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046635&artikel=2&z=2022-05-06&g=2022-02-01).
+- c. verweer te voeren ingeval een voorlopige voorziening is ingesteld in het kader van een bezwaar, beroep of hoger beroep ter zake van een besluit als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046635&artikel=2&z=2022-05-06&g=2022-05-06).
 
 2. De directeur Wetgeving en Juridische Zaken is bevoegd tot het verlenen van ondermandaat van onder hem ressorterende functionarissen.
 
 ##### Artikel 4
 
-1. De ondertekening van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046635&artikel=2&z=2022-05-06&g=2022-02-01) bedoelde besluiten luidt:
+1. De ondertekening van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046635&artikel=2&z=2022-05-06&g=2022-05-06) bedoelde besluiten luidt:
 
 DE MINISTER VAN JUSTITIE EN VEILIGHEID,
 
