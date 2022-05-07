@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2022-01-29"
+last_updated: "2022-05-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2022-01-29&g=2022-01-29) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2022-05-07&g=2022-05-07) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2022-01-29&g=2022-01-29).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2022-05-07&g=2022-05-07).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2022-01-29&g=2022-01-29)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2022-05-07&g=2022-05-07)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -382,10 +382,19 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1162 | Seniorenbewegingsleider |
 | K1261 | Smart maintenance, geschikt voor niveau 3 |
 | K1262 | Smart maintenance, geschikt voor niveau 4 |
+|   |   |
+| **Certificaten voor keuzedelen vanaf april 2022** | **Certificaten voor keuzedelen vanaf april 2022** |
+| K1224 | Barista basis |
+| K1301 | Basis ontwikkelingsgericht werken in de VVE |
+| K0665 | Basisvaardigheden elektrotechnische installaties geschikt voor niveau 2 en 3 |
+| K0667 | Basisvaardigheden werktuigkundige installaties geschikt voor niveau 2 en 3 |
+| K0891 | De gastvrije kok |
+| K0403 | Technisch onderwijsassistent |
+| K0404 | Technisch onderwijsassistent basis |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2022-01-29&g=2022-01-29)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2022-05-07&g=2022-05-07)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -466,6 +475,10 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0075 | Realiseren van aansluitingen op drinkwaterdistributienetten | 25272 | Monteur gas-, water- en warmtedistributie |
 | C0076 | Realiseren van aansluitingen op laagspanningsdistributienetten | 25273 | Monteur laagspanningsdistributie |
 | C0077 | Voorbereiden en stofferen van vloeren | 25659 | Interieurvakman woningstofferen |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf april 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2022** |
+| C0078 | Afbouw timmeren | 25128 | Timmerman (gewijzigd 2016) |
+| C0079 | Voorbereiden van ondersteunende begeleiding en zorg geschikt voor niveau 2 | 25498 | Helpende Zorg en Welzijn |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
