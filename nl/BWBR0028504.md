@@ -4,7 +4,7 @@ identifier: "BWBR0028504"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-05-13"
-last_updated: "2010-10-10"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028504"
 soort: "AMvB-BES"
@@ -51,7 +51,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **ontheffing:** een ontheffing als bedoeld in [artikel 19, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=19);
 
-- f. **bewijs van goedkeuring:** een bewijsstuk als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2010-10-10&g=2010-10-10).
+- f. **bewijs van goedkeuring:** een bewijsstuk als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 1a
 
@@ -129,13 +129,13 @@ De aanvrager kan weigeren gegevens en bescheiden te verschaffen op grond van het
 
 ##### Artikel 8
 
-Indien een aanvraag niet is ingediend op de wijze krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) voorgeschreven of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de voorbereiding van de beschikking, verzoekt Onze Minister de aanvrager de aanvraag aan te vullen binnen een bij het verzoek te stellen termijn.
+Indien een aanvraag niet is ingediend op de wijze krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=2&z=2022-05-13&g=2022-05-13) voorgeschreven of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de voorbereiding van de beschikking, verzoekt Onze Minister de aanvrager de aanvraag aan te vullen binnen een bij het verzoek te stellen termijn.
 
 #### 2. Behandeling van een aanvraag
 
 ##### Artikel 9
 
-1. Indien verschillende aanvragen tot verlening of wijziging van een machtiging of aanvullende machtiging voor een draadomroepinrichting worden ingediend, zal van de aanvragen die tenminste voldoen aan [artikel 3, eerste lid, onderdelen a, b, c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10), slechts de aanvraag die het eerste is ontvangen in behandeling worden genomen.
+1. Indien verschillende aanvragen tot verlening of wijziging van een machtiging of aanvullende machtiging voor een draadomroepinrichting worden ingediend, zal van de aanvragen die tenminste voldoen aan [artikel 3, eerste lid, onderdelen a, b, c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=3&z=2022-05-13&g=2022-05-13), slechts de aanvraag die het eerste is ontvangen in behandeling worden genomen.
 
 2. Indien de ingevolge het eerste lid in behandeling genomen aanvraag wordt geweigerd, wordt de aanvraag die eerstvolgend op die eerdere aanvraag was ontvangen in behandeling genomen.
 
@@ -145,11 +145,11 @@ Indien Onze Minister voornemens is een aanvraag tot een machtiging, geheel of ge
 
 ##### Artikel 11
 
-1. Op een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) wordt door Onze Minister beslist binnen drie maanden na ontvangst van de aanvraag.
+1. Op een aanvraag als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=2&z=2022-05-13&g=2022-05-13) wordt door Onze Minister beslist binnen drie maanden na ontvangst van de aanvraag.
 
 2. Indien niet binnen de in het eerste lid bedoelde termijn beslist kan worden, stelt Onze Minister de aanvrager daarvan in kennis en geeft daarbij een termijn aan die niet langer zal zijn dan zes maanden, waarbinnen een beslissing zal worden genomen.
 
-3. Het verloop van de termijn bedoeld in het eerste lid wordt van rechtswege opgeschort met ingang van de dag waarop Onze Minister toepassing geeft aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=8&z=2010-10-10&g=2010-10-10), tot de dag waarop de aanvrager de aanvraag heeft aangevuld dan wel de krachtens artikel 8 gestelde termijn is verstreken.
+3. Het verloop van de termijn bedoeld in het eerste lid wordt van rechtswege opgeschort met ingang van de dag waarop Onze Minister toepassing geeft aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=2&sub-paragraaf=1&artikel=8&z=2022-05-13&g=2022-05-13), tot de dag waarop de aanvrager de aanvraag heeft aangevuld dan wel de krachtens artikel 8 gestelde termijn is verstreken.
 
 #### § 3. Machtiging, aanvullende machtiging en ontheffing
 
@@ -223,17 +223,13 @@ Indien de houder van de verleende machtiging, aanvullende machtiging of ontheffi
 
 - c. een omschrijving van de draadomroep- of kabelinrichting waarvoor de machtiging is afgegeven.
 
-2. Indien de machtiginghouder zulks wenst, wordt hem een bewijs van registratie in het register verstrekt. Een dergelijk registratiebewijs wordt slechts verstrekt nadat de vergoedingen, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=5&artikel=17&z=2010-10-10&g=2010-10-10), zijn betaald en is één jaar geldig.
+2. Indien de machtiginghouder zulks wenst, wordt hem een bewijs van registratie in het register verstrekt. Een dergelijk registratiebewijs wordt slechts verstrekt nadat de vergoedingen, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=5&artikel=17&z=2022-05-13&g=2022-05-13), zijn betaald en is één jaar geldig.
 
 #### § 5. Vergoeding
 
 ##### Artikel 17
 
-1. De verschuldigde vergoedingen met betrekking tot de verlening van een machtiging, aanvullende machtiging of ontheffing en het toezicht op de naleving van het bij of krachtens de wet bepaalde, bedoeld in [artikel 31, onderdelen a en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31) dienen bij vooruitbetaling te worden voldaan. Geschiedt zulks niet dan wordt de aanvraag niet in behandeling genomen.
-
-2. De houder van een machtiging, aanvullende machtiging of ontheffing is de vergoedingen met betrekking tot het toezicht, bedoeld in het eerste lid, per periode van twaalf maanden bij vooruitbetaling verschuldigd.
-
-3. De vergoedingen, bedoeld in [artikel 31, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31), welke zijn verschuldigd voor het testen en goedkeuren van een draadomroep- of kabelinrichting overeenkomstig de bij of krachtens de wet met betrekking tot die goedkeuring gestelde regels, dienen bij vooruitbetaling te worden voldaan.
+Vervallen
 
 #### § 6. Technische eisen
 
@@ -287,7 +283,7 @@ Indien de houder van de verleende machtiging, aanvullende machtiging of ontheffi
 
 ##### Artikel 20
 
-1. De erkenning van een vakopleiding als bedoeld in [artikel 19, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=7&artikel=19&z=2010-10-10&g=2010-10-10), geschiedt op aanvraag van een door Onze Minister als representatief erkende beroeps- of bedrijfsorganisatie, werkzaam of mede werkzaam op het gebied van het installeren van draadomroep- of kabelinrichtingen.
+1. De erkenning van een vakopleiding als bedoeld in [artikel 19, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=7&artikel=19&z=2022-05-13&g=2022-05-13), geschiedt op aanvraag van een door Onze Minister als representatief erkende beroeps- of bedrijfsorganisatie, werkzaam of mede werkzaam op het gebied van het installeren van draadomroep- of kabelinrichtingen.
 
 2. De erkenning van een vakopleiding, bedoeld in het eerste lid, wordt verleend, indien deze naar het oordeel van Onze Minister:
 
@@ -347,13 +343,13 @@ Indien de houder van de verleende machtiging, aanvullende machtiging of ontheffi
 
 ##### Artikel 23
 
-1. Indien een krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2010-10-10&g=2010-10-10), gegeven aanwijzing tot het treffen van voorzieningen aan een inrichting niet binnen zes weken is opgevolgd, kan een toezicht houdende ambtenaar deze voorzieningen, na voorafgaande schriftelijke waarschuwing, treffen of doen treffen.
+1. Indien een krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13), gegeven aanwijzing tot het treffen van voorzieningen aan een inrichting niet binnen zes weken is opgevolgd, kan een toezicht houdende ambtenaar deze voorzieningen, na voorafgaande schriftelijke waarschuwing, treffen of doen treffen.
 
-2. De bij een krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2010-10-10&g=2010-10-10), gegeven aanwijzing opgelegde verplichting om het gebruik van een draadomroep- of kabelinrichting te staken wordt opgeheven, nadat een toezicht houdende ambtenaar heeft vastgesteld, dat de in die aanwijzing bevolen voorzieningen zijn getroffen dan wel dat geen storing of belemmering meer wordt veroorzaakt.
+2. De bij een krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13), gegeven aanwijzing opgelegde verplichting om het gebruik van een draadomroep- of kabelinrichting te staken wordt opgeheven, nadat een toezicht houdende ambtenaar heeft vastgesteld, dat de in die aanwijzing bevolen voorzieningen zijn getroffen dan wel dat geen storing of belemmering meer wordt veroorzaakt.
 
 ##### Artikel 24
 
-Aan de houder van de draadomroepinrichting of kabelinrichting die storing of belemmering veroorzaakt, kan een vergoeding als bedoeld in [artikel 31, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31) in rekening worden gebracht die binnen een termijn van zes weken na dagtekening dient te worden voldaan.
+Vervallen
 
 ##### Artikel 25
 
@@ -381,11 +377,11 @@ Toewijzing van radiofrequenties voor het zendgedeelte van een draadomroep- of ka
 
 1. Draadomroep- en kabelinrichtingen die krachtens artikel 28, eerste volzin, van het Landsbesluit draadomroep en kabelinrichtingen worden aangemerkt als draadomroep- en kabelinrichting als bedoeld in artikel 18, onderscheidenlijk artikel 18c van de Landsverordening telecommunicatievoorzieningen worden gelijkgesteld met draadomroep- en kabelinrichtingen als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18) onderscheidenlijk [artikel 18c van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=18c).
 
-2. Een goedkeuring als bedoeld in artikel 28, tweede volzin, van het Landsbesluit draadomroep en kabelinrichtingen die krachtens voornoemd artikel gelijk is gesteld met een goedkeuring verleend krachtens artikel 21, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen wordt gelijkgesteld met een goedkeuring verleend krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2010-10-10&g=2010-10-10).
+2. Een goedkeuring als bedoeld in artikel 28, tweede volzin, van het Landsbesluit draadomroep en kabelinrichtingen die krachtens voornoemd artikel gelijk is gesteld met een goedkeuring verleend krachtens artikel 21, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen wordt gelijkgesteld met een goedkeuring verleend krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 29
 
-Technische eisen die krachtens artikel 18, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen zijn vastgesteld, alsmede technische eisen als bedoeld in artikel 29 van het Landsbesluit draadomroep en kabelinrichtingen, voor zover laatstbedoelde eisen niet zijn vervangen ingevolge artikel 18, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen, blijven gelden tot het tijdstip dat Onze Minister krachtens [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=6&artikel=18&z=2010-10-10&g=2010-10-10), nieuwe technische eisen heeft vastgesteld.
+Technische eisen die krachtens artikel 18, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen zijn vastgesteld, alsmede technische eisen als bedoeld in artikel 29 van het Landsbesluit draadomroep en kabelinrichtingen, voor zover laatstbedoelde eisen niet zijn vervangen ingevolge artikel 18, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen, blijven gelden tot het tijdstip dat Onze Minister krachtens [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=6&artikel=18&z=2022-05-13&g=2022-05-13), nieuwe technische eisen heeft vastgesteld.
 
 ##### Artikel 29a
 
@@ -393,15 +389,15 @@ De geldigheidsduur van een machtiging, aanvullende machtiging of ontheffing die 
 
 ##### Artikel 29b
 
-Een goedkeuring verleend krachtens artikel 14, tweede lid, van het Landsbesluit draadomroep en kabelinrichtingen wordt gelijkgesteld met een goedkeuring verleend krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10).
+Een goedkeuring verleend krachtens artikel 14, tweede lid, van het Landsbesluit draadomroep en kabelinrichtingen wordt gelijkgesteld met een goedkeuring verleend krachtens [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=3&artikel=14&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 29c
 
-Een erkenning van een vakopleiding die is verleend krachtens artikel 19, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen is gelijk gesteld met een erkenning verleend krachtens [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=7&artikel=19&z=2010-10-10&g=2010-10-10).
+Een erkenning van een vakopleiding die is verleend krachtens artikel 19, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen is gelijk gesteld met een erkenning verleend krachtens [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=7&artikel=19&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 30
 
-Een goedkeuring die is verleend krachtens artikel 21, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen wordt gelijkgesteld met een goedkeuring verleend krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2010-10-10&g=2010-10-10).
+Een goedkeuring die is verleend krachtens artikel 21, eerste lid, van het Landsbesluit draadomroep en kabelinrichtingen wordt gelijkgesteld met een goedkeuring verleend krachtens [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028504&paragraaf=8&artikel=21&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 31
 
