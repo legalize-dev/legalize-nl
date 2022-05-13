@@ -4,7 +4,7 @@ identifier: "BWBR0010334"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-13"
-last_updated: "2019-01-01"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010334"
 soort: "AMvB"
@@ -50,49 +50,49 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+- aanbieder: onderneming die openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbiedt;
 
-- b. vergoeding: vergoeding, bedoeld in [artikel 16.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=16.1);
+- vergoeding: vergoeding, bedoeld in [artikel 16.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=16.1) of [artikel 31 van de Wtv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31);
 
-- c. aanbieder: onderneming die openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbiedt.
+- wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+
+- Wtv BES: [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469).
 
 ##### Artikel 2
 
-1. De vergoeding dient ter dekking van de kosten van de werkzaamheden of diensten die ingevolge het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) door Onze Minister worden verricht.
+1. De vergoeding dient ter dekking van de kosten van de werkzaamheden of diensten die ingevolge het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) of de [Wtv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) door Onze Minister worden verricht.
 
 2. De vergoeding bestaat uit:
 
-- a. een bedrag dat verband houdt met de kosten van het verrichten van werkzaamheden of diensten in het kader van de aan Onze Minister bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) opgedragen uitvoeringstaak; of
+- a. een bedrag dat verband houdt met de eenmalig gemaakte uitvoeringskosten van het verrichten van werkzaamheden of diensten in het kader van de aan Onze Minister bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) of de [Wtv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) opgedragen taak; of
 
-- b. een bedrag dat verband houdt met de kosten van het verrichten van werkzaamheden of diensten in het kader van de aan Onze Minister bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) opgedragen toezichthoudende taak; of
+- b. een bedrag dat verband houdt met de kosten, anders dan die genoemd onder a, van het verrichten van werkzaamheden of diensten in het kader van de aan Onze Minister bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) of de [Wtv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) opgedragen taak; of
 
 - c. een jaarlijkse bijdrage als bedoeld in [artikel 16.1, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=16.1).
 
-3. De vergoeding wordt per kalenderjaar vastgesteld.
+3. De bedragen, bedoeld in het tweede lid, worden voor de duur van een jaar of voor onbepaalde tijd vastgesteld.
 
-4. Het bedrag, bedoeld in het tweede lid, onder a, wordt eenmaal in rekening gebracht.
-
-5. Het bedrag en de jaarlijkse bijdrage, bedoeld in het tweede lid, onder b en c, zijn per kalenderjaar verschuldigd en worden eens per kalenderjaar in rekening gebracht.
+4. Het bedrag en de jaarlijkse bijdrage, bedoeld in het tweede lid, onder b en c, zijn jaarlijks verschuldigd en worden jaarlijks in rekening gebracht.
 
 ##### Artikel 3
 
-1. Ter zake van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2019-01-01&g=2019-01-01), gelden als uitgangspunten dat:
+1. Ter zake van de kosten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), gelden als uitgangspunten dat:
 
-- a. deze kosten worden geraamd voor het kalenderjaar waarvoor de vergoeding geldt;
+- a. de directe kosten rechtstreeks worden toegerekend aan categorieën van gelijksoortige werkzaamheden of diensten;
 
-- b. de directe kosten rechtstreeks worden toegerekend aan categorieën van gelijksoortige werkzaamheden of diensten;
+- b. de indirecte kosten worden toegerekend aan categorieën van gelijksoortige werkzaamheden of diensten naar rato van hun beslag op de onderscheiden werkzaamheden of diensten;
 
-- c. de indirecte kosten worden toegerekend aan categorieën van gelijksoortige werkzaamheden of diensten naar rato van hun beslag op de onderscheiden werkzaamheden of diensten;
+- c. deze kosten, voor zover het kosten op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) betreft op bedrijfseconomische wijze worden berekend door middel van een door Onze Minister toe te passen kostencalculatiemodel dat zodanig is ingericht dat daaruit op elk moment op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.
 
-- d. deze kosten op bedrijfseconomische wijze worden berekend door middel van een door Onze Minister toe te passen kostencalculatiemodel dat zodanig is ingericht dat daaruit op elk moment op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.
-
-2. Onze Minister maakt het kostencalculatiemodel, bedoeld in het eerste lid, onderdeel d, bekend op een door hem te bepalen wijze.
+2. Onze Minister maakt het kostencalculatiemodel, bedoeld in het eerste lid, onderdeel c, bekend op een door hem te bepalen wijze.
 
 3. Voorzover de kosten bestaan uit afschrijvingskosten, worden deze kosten door middel van evenredige afschrijving op de aanschafwaarden van de investeringsgoederen per kalenderjaar geraamd op basis van de economische levensduur.
 
+4. Bij ministeriële regeling kan worden bepaald dat voor de toepassing van [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), geen onderscheid wordt gemaakt tussen uitvoeringskosten voor het inwilligen van een aanvraag, uitvoeringskosten voor het geheel of gedeeltelijk afwijzen van een aanvraag of uitvoeringskosten die gemaakt zijn ter behandeling van een aanvraag die wordt ingetrokken.
+
 ##### Artikel 4
 
-1. Categorieën als bedoeld in [artikel 3, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2019-01-01&g=2019-01-01), zijn werkzaamheden of diensten met betrekking tot:
+1. Categorieën als bedoeld in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2022-05-13&g=2022-05-13), zijn werkzaamheden of diensten als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) of de [Wtv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) met betrekking tot:
 
 - a. het gebruik van frequentieruimte voor:
 
@@ -106,19 +106,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. apparaten en radioapparaten als bedoeld in [hoofdstuk 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10),
 
-- c. de aanwijzing van instellingen als bedoeld in [artikel 18.17a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17a).
+- c. de aanwijzing van instellingen als bedoeld in [artikel 18.17a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17a),
+
+- d. de categorieën, bedoeld in [artikel 31 Wtv BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31).
 
 2. Bij ministeriële regeling kunnen per categorie, bedoeld in het eerste lid, subcategorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld en kunnen andere categorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld.
 
 ##### Artikel 5
 
-1. Bij ministeriële regeling wordt de hoogte van de vergoeding per categorie of subcategorie van gelijksoortige werkzaamheden of diensten vastgesteld op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2019-01-01&g=2019-01-01).
+1. Bij ministeriële regeling wordt de hoogte van de vergoeding per categorie of subcategorie van gelijksoortige werkzaamheden of diensten vastgesteld op basis van de geraamde kosten die per categorie of per subcategorie zijn toegerekend als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2022-05-13&g=2022-05-13).
 
-2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2019-01-01&g=2019-01-01), afzonderlijk vastgesteld.
+2. Bij de regeling worden de bedragen en de jaarlijkse bijdrage, bedoeld in [artikel 2, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), afzonderlijk vastgesteld.
 
 ##### Artikel 6
 
-Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2019-01-01&g=2019-01-01), kan in afwijking van de [artikelen 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2019-01-01&g=2019-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2019-01-01&g=2019-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2019-01-01&g=2019-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2019-01-01&g=2019-01-01), bij ministeriële regeling een vergoeding worden vastgesteld, voorzover noodzakelijk ter dekking van onvoorziene kosten van werkzaamheden of diensten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2019-01-01&g=2019-01-01).
+Onverminderd [artikel 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), kan in afwijking van de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=3&z=2022-05-13&g=2022-05-13), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2022-05-13&g=2022-05-13) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2022-05-13&g=2022-05-13), bij ministeriële regeling een vergoeding worden vastgesteld, voorzover noodzakelijk ter dekking van onvoorziene kosten van werkzaamheden of diensten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=2&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 7
 
@@ -170,7 +172,7 @@ Wijzigt het Frequentiebesluit.
 
 ##### Artikel 15
 
-Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 1999 en de Regeling vergoedingen OPTA 1999 I op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2019-01-01&g=2019-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2019-01-01&g=2019-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6&z=2019-01-01&g=2019-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7&z=2019-01-01&g=2019-01-01) van dit besluit.
+Na de inwerkingtreding van dit besluit berusten de Regeling vergoedingen RDR 1999 en de Regeling vergoedingen OPTA 1999 I op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4&z=2022-05-13&g=2022-05-13), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5&z=2022-05-13&g=2022-05-13), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6&z=2022-05-13&g=2022-05-13) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=7&z=2022-05-13&g=2022-05-13) van dit besluit.
 
 ##### Artikel 16
 
@@ -182,7 +184,7 @@ Dit besluit treedt in werking met ingang van 1 april 1999.
 
 ##### Artikel 18
 
-Dit besluit wordt aangehaald als: Besluit vergoedingen Telecommunicatiewet.
+Dit besluit wordt aangehaald als: Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -197,5 +199,11 @@ Vervallen
 ##### Artikel 5c
 
 Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a
+
+Aan een krachtens dit besluit vast te stellen ministeriele regeling kan terugwerkende kracht worden verleend tot een bij die regeling te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
