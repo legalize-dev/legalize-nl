@@ -4,7 +4,7 @@ identifier: "BWBR0028396"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-05-13"
-last_updated: "2010-10-10"
+last_updated: "2022-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028396"
 soort: "AMvB-BES"
@@ -43,15 +43,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **wet:** [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
 
-- b. **toezicht houdende ambtenaar:** een ambtenaar als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=8&artikel=19&z=2010-10-10&g=2010-10-10);
+- b. **toezicht houdende ambtenaar:** een ambtenaar als bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=8&artikel=19&z=2022-05-13&g=2022-05-13);
 
 - c. **technische eisen:** een document, uitgegeven door een deskundige, onafhankelijke nationale of internationale instelling, waarin technische specificaties voor randapparatuur alsmede methoden voor het testen van randapparatuur aan deze specificaties zijn omschreven;
 
-- d. **verklaring van conformiteit:** een bewijsstuk als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=4&artikel=6&z=2010-10-10&g=2010-10-10);
+- d. **verklaring van conformiteit:** een bewijsstuk als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=4&artikel=6&z=2022-05-13&g=2022-05-13);
 
-- e. **verklaring van toelating:** een bewijsstuk als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=8&z=2010-10-10&g=2010-10-10);
+- e. **verklaring van toelating:** een bewijsstuk als bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=8&z=2022-05-13&g=2022-05-13);
 
-- f. **bewijs van goedkeuring:** een bewijsstuk als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2010-10-10&g=2010-10-10);
+- f. **bewijs van goedkeuring:** een bewijsstuk als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2022-05-13&g=2022-05-13);
 
 - g. **het installeren van randapparatuur:** het beroeps- of bedrijfsmatig aanleggen en onderhouden van randapparatuur.
 
@@ -69,7 +69,7 @@ Dit besluit berust op de artikelen [22](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 3
 
-1. De ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10) vast te stellen technische eisen mogen, behoudens het bepaalde in het tweede en derde lid, slechts strekken ten dienste van:
+1. De ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=2&artikel=2&z=2022-05-13&g=2022-05-13) vast te stellen technische eisen mogen, behoudens het bepaalde in het tweede en derde lid, slechts strekken ten dienste van:
 
 - a. de samenwerking van de randapparatuur met de telecommunicatie-infrastructuur ten behoeve van:
 
@@ -85,13 +85,13 @@ Dit besluit berust op de artikelen [22](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - 2°. de personen werkzaam in het beheer van de telecommunicatie-infrastructuur.
 
-2. De ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10) vast te stellen technische eisen mogen verder slechts strekken tot:
+2. De ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=2&artikel=2&z=2022-05-13&g=2022-05-13) vast te stellen technische eisen mogen verder slechts strekken tot:
 
 - a. het voorkomen van elektromagnetische storingen door op de telecommunicatie-infrastructuur aangesloten randapparatuur in andere elektrische en elektronische inrichtingen, voorzover het niet betreft storing als bedoeld in het eerste lid, onderdeel b;
 
 - b. het bestand zijn van op de telecommunicatie-infrastructuur aangesloten randapparatuur tegen elektromagnetische storingen door andere elektrische en elektronische inrichtingen.
 
-3. De ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10) vast te stellen technische eisen mogen voorts ten behoeve van het gebruik van bepaalde, door Onze Minister aan te wijzen functies van randapparatuur welke nodig zijn om de goede werking van de krachtens [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=3) verzorgde diensten zeker te stellen, mede strekken ten dienste van de samenwerking tussen randapparatuur.
+3. De ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=2&artikel=2&z=2022-05-13&g=2022-05-13) vast te stellen technische eisen mogen voorts ten behoeve van het gebruik van bepaalde, door Onze Minister aan te wijzen functies van randapparatuur welke nodig zijn om de goede werking van de krachtens [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=3) verzorgde diensten zeker te stellen, mede strekken ten dienste van de samenwerking tussen randapparatuur.
 
 #### § 3. Erkenning van testinstellingen
 
@@ -111,13 +111,13 @@ Dit besluit berust op de artikelen [22](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 5
 
-Een aanvraag tot erkenning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=3&artikel=4&z=2010-10-10&g=2010-10-10), wordt schriftelijk ingediend bij Onze Minister met gebruikmaking van een bij Onze Minister verkrijgbaar formulier.
+Een aanvraag tot erkenning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=3&artikel=4&z=2022-05-13&g=2022-05-13), wordt schriftelijk ingediend bij Onze Minister met gebruikmaking van een bij Onze Minister verkrijgbaar formulier.
 
 #### § 4. Verklaring van conformiteit
 
 ##### Artikel 6
 
-1. Indien een krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=3&artikel=4&z=2010-10-10&g=2010-10-10), erkende testinstelling, randapparatuur ten behoeve van toelating heeft getest op conformiteit met de daarvoor gestelde technische eisen en op basis van de resultaten van die test tot de bevinding is gekomen dat die zendinrichting voldoet aan de gestelde eisen, geeft de testinstelling ten bewijze daarvan een verklaring van conformiteit af.
+1. Indien een krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=3&artikel=4&z=2022-05-13&g=2022-05-13), erkende testinstelling, randapparatuur ten behoeve van toelating heeft getest op conformiteit met de daarvoor gestelde technische eisen en op basis van de resultaten van die test tot de bevinding is gekomen dat die zendinrichting voldoet aan de gestelde eisen, geeft de testinstelling ten bewijze daarvan een verklaring van conformiteit af.
 
 2. In een verklaring van conformiteit wordt in elk geval opgenomen:
 
@@ -149,7 +149,7 @@ Een aanvraag tot erkenning als bedoeld in [artikel 4, eerste lid](https://wetten
 
 3. Gelijktijdig met de indiening van de aanvraag tot toelating moet daarbij als bijlage worden overgelegd de verklaring of verklaringen van conformiteit met bijbehorende bijlagen voor die randapparatuur. De aanvraag en de bijbehorende stukken zijn in de Nederlandse of de Engelse taal gesteld.
 
-4. Onze Minister kan bepalen dat apparaten die zijn gefabriceerd met een ander doel dan om te dienen als randapparatuur, mede als randapparatuur zijn toegelaten voor zover deze apparaten zijn toegelaten krachtens de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=21), of[55, eerste lid, van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=55). In een dergelijk geval is [artikel 8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=8&z=2010-10-10&g=2010-10-10), niet van toepassing.
+4. Onze Minister kan bepalen dat apparaten die zijn gefabriceerd met een ander doel dan om te dienen als randapparatuur, mede als randapparatuur zijn toegelaten voor zover deze apparaten zijn toegelaten krachtens de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=21), of[55, eerste lid, van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=55). In een dergelijk geval is [artikel 8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=8&z=2022-05-13&g=2022-05-13), niet van toepassing.
 
 ##### Artikel 8
 
@@ -171,7 +171,7 @@ Een aanvraag tot erkenning als bedoeld in [artikel 4, eerste lid](https://wetten
 
 5. Van randapparatuur waarvoor een verklaring van toelating is afgegeven, dient volgens een door Onze Minister te bepalen wijze op een voor ieder zichtbare plaats de toelating kenbaar te worden gemaakt.
 
-6. Onze Minister maakt periodiek een in de Staatscourant te publiceren lijst bekend waarin opgenomen de modellen en typen die door hem ingevolge het eerste lid zijn toegelaten alsmede van apparatuur die ingevolge [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=7&z=2010-10-10&g=2010-10-10), is toegelaten.
+6. Onze Minister maakt periodiek een in de Staatscourant te publiceren lijst bekend waarin opgenomen de modellen en typen die door hem ingevolge het eerste lid zijn toegelaten alsmede van apparatuur die ingevolge [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=7&z=2022-05-13&g=2022-05-13), is toegelaten.
 
 #### § 7. Keuring van interne netten
 
@@ -217,7 +217,7 @@ De aanvraag tot goedkeuring van een intern net wordt door de direct belanghebben
 
 ##### Artikel 12
 
-De eigenaar of beheerder van een intern net, op wiens naam het bewijs van goedkeuring, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2010-10-10&g=2010-10-10), is gehouden elke wijziging in het intern net onverwijld aan Onze Minister te melden.
+De eigenaar of beheerder van een intern net, op wiens naam het bewijs van goedkeuring, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2022-05-13&g=2022-05-13), is gehouden elke wijziging in het intern net onverwijld aan Onze Minister te melden.
 
 #### § 5. Installeren van randapparatuur
 
@@ -235,7 +235,7 @@ De eigenaar of beheerder van een intern net, op wiens naam het bewijs van goedke
 
 ##### Artikel 14
 
-1. De erkenning van een vakopleiding als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2010-10-10&g=2010-10-10), geschiedt op aanvraag van een door Onze Minister als representatief erkende beroeps- of bedrijfsorganisatie, werkzaam of mede werkzaam op het gebied van het installeren van randapparatuur.
+1. De erkenning van een vakopleiding als bedoeld in [artikel 9, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2022-05-13&g=2022-05-13), geschiedt op aanvraag van een door Onze Minister als representatief erkende beroeps- of bedrijfsorganisatie, werkzaam of mede werkzaam op het gebied van het installeren van randapparatuur.
 
 2. De erkenning van een vakopleiding wordt verleend, indien deze naar het oordeel van Onze Minister:
 
@@ -249,7 +249,7 @@ De eigenaar of beheerder van een intern net, op wiens naam het bewijs van goedke
 
 ##### Artikel 15
 
-De vergoedingen, bedoeld in [artikel 31, onderdelen b en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31), welke zijn verschuldigd voor de erkenning als testinstelling en voor de goedkeuring van randapparatuur alsmede voor het toezicht op de naleving van de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) met betrekking tot die goedkeuring gestelde regels, dienen bij vooruitbetaling te worden voldaan.
+Vervallen
 
 #### § 7. Behandeling van storingsklachten
 
@@ -271,9 +271,9 @@ De vergoedingen, bedoeld in [artikel 31, onderdelen b en d, van de wet](https://
 
 ##### Artikel 18
 
-1. Indien een krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=17&z=2010-10-10&g=2010-10-10), gegeven aanwijzing tot het treffen van voorzieningen aan randapparatuur niet binnen zes weken is opgevolgd, kan een toezicht houdende ambtenaar deze voorzieningen, na voorafgaande schriftelijke waarschuwing, treffen of doen treffen.
+1. Indien een krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=17&z=2022-05-13&g=2022-05-13), gegeven aanwijzing tot het treffen van voorzieningen aan randapparatuur niet binnen zes weken is opgevolgd, kan een toezicht houdende ambtenaar deze voorzieningen, na voorafgaande schriftelijke waarschuwing, treffen of doen treffen.
 
-2. De bij een krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=17&z=2010-10-10&g=2010-10-10), gegeven aanwijzing opgelegde verplichting om het gebruik van randapparatuur te staken, wordt opgeheven, nadat een toezicht houdende ambtenaar heeft vastgesteld, dat de in die aanwijzing bevolen voorzieningen zijn getroffen dan wel dat geen storing meer wordt veroorzaakt.
+2. De bij een krachtens [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=17&z=2022-05-13&g=2022-05-13), gegeven aanwijzing opgelegde verplichting om het gebruik van randapparatuur te staken, wordt opgeheven, nadat een toezicht houdende ambtenaar heeft vastgesteld, dat de in die aanwijzing bevolen voorzieningen zijn getroffen dan wel dat geen storing meer wordt veroorzaakt.
 
 #### § 8. Toezicht en opsporing
 
@@ -333,31 +333,31 @@ Met de opsporing van strafbare feiten zijn naast de ambtenaren bedoeld in [artik
 
 ##### Artikel 27
 
-Verklaringen van conformiteit die zijn afgegeven voor het tijdstip van inwerkingtreding van dit besluit worden aangemerkt als een verklaring van conformiteit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=4&artikel=6&z=2010-10-10&g=2010-10-10).
+Verklaringen van conformiteit die zijn afgegeven voor het tijdstip van inwerkingtreding van dit besluit worden aangemerkt als een verklaring van conformiteit als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=4&artikel=6&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 28
 
-Voor het tijdstip van inwerking van dit besluit ingevolge de artikelen 8, eerste lid, of 28 van het Landsbesluit randapparatuur verleende verklaring van toelating wordt gelijkgesteld met een verklaring van toelating als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=8&z=2010-10-10&g=2010-10-10).
+Voor het tijdstip van inwerking van dit besluit ingevolge de artikelen 8, eerste lid, of 28 van het Landsbesluit randapparatuur verleende verklaring van toelating wordt gelijkgesteld met een verklaring van toelating als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=8&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 29
 
-Voor het tijdstip van inwerkingtreding van dit besluit verleende goedkeuringen worden aangemerkt als een goedkeuring als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2010-10-10&g=2010-10-10). Het schrijven waarbij mededeling van deze goedkeuring is gedaan, wordt aangemerkt als een bewijs van goedkeuring als bedoeld in artikel 9, tweede lid.
+Voor het tijdstip van inwerkingtreding van dit besluit verleende goedkeuringen worden aangemerkt als een goedkeuring als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=7&artikel=9&z=2022-05-13&g=2022-05-13). Het schrijven waarbij mededeling van deze goedkeuring is gedaan, wordt aangemerkt als een bewijs van goedkeuring als bedoeld in artikel 9, tweede lid.
 
 ##### Artikel 30
 
-Degene die krachtens artikel 30 van het Landsbesluit randapparatuur gelijk is gesteld met degene die voldoet aan de bij of krachtens artikel 13 van het Landsbesluit randapparatuur gestelde eisen, voldoet aan de bij of krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=13&z=2010-10-10&g=2010-10-10) gestelde eisen.
+Degene die krachtens artikel 30 van het Landsbesluit randapparatuur gelijk is gesteld met degene die voldoet aan de bij of krachtens artikel 13 van het Landsbesluit randapparatuur gestelde eisen, voldoet aan de bij of krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=13&z=2022-05-13&g=2022-05-13) gestelde eisen.
 
 ##### Artikel 30a
 
-Een erkenning van een vakopleiding die is verleend krachtens artikel 14, eerste lid, van het Landsbesluit randapparatuur is gelijk gesteld met een erkenning verleend krachtens [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=14&z=2010-10-10&g=2010-10-10).
+Een erkenning van een vakopleiding die is verleend krachtens artikel 14, eerste lid, van het Landsbesluit randapparatuur is gelijk gesteld met een erkenning verleend krachtens [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=5&artikel=14&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 31
 
-De technische eisen die krachtens artikel 2 van het Landsbesluit randapparatuur zijn vastgesteld, alsmede de technische eisen bedoeld in artikel 31 van het Landsbesluit randapparatuur, voor zover de laatstbedoelde eisen niet ingevolge artikel 2 van het Landsbesluit randapparatuur zijn vervangen, blijven gelden tot het tijdstip waarop Onze Minister ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=2&artikel=2&z=2010-10-10&g=2010-10-10) nieuwe technische eisen heeft gesteld.
+De technische eisen die krachtens artikel 2 van het Landsbesluit randapparatuur zijn vastgesteld, alsmede de technische eisen bedoeld in artikel 31 van het Landsbesluit randapparatuur, voor zover de laatstbedoelde eisen niet ingevolge artikel 2 van het Landsbesluit randapparatuur zijn vervangen, blijven gelden tot het tijdstip waarop Onze Minister ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=2&artikel=2&z=2022-05-13&g=2022-05-13) nieuwe technische eisen heeft gesteld.
 
 ##### Artikel 32
 
-Een erkenning die is verleend krachtens artikel 4, eerste lid, van het Landsbesluit randapparatuur wordt gelijkgesteld met een erkenning verleend krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=3&artikel=4&z=2010-10-10&g=2010-10-10).
+Een erkenning die is verleend krachtens artikel 4, eerste lid, van het Landsbesluit randapparatuur wordt gelijkgesteld met een erkenning verleend krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028396&paragraaf=3&artikel=4&z=2022-05-13&g=2022-05-13).
 
 ##### Artikel 33
 
