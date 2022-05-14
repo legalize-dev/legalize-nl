@@ -4,7 +4,7 @@ identifier: "BWBR0046658"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-15"
-last_updated: "2021-01-01"
+last_updated: "2022-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046658"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-- •. **actie:** een door of onder verantwoordelijkheid van de voor het betrokken nationaal programma verantwoordelijke beheerautoriteit gekozen project of groep projecten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01), die bijdragen aan de verwezenlijking van de algemene of specifieke doelstellingen van de specifieke verordeningen;
+- •. **actie:** een door of onder verantwoordelijkheid van de voor het betrokken nationaal programma verantwoordelijke beheerautoriteit gekozen project of groep projecten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14), die bijdragen aan de verwezenlijking van de algemene of specifieke doelstellingen van de specifieke verordeningen;
 
 - •. **brutoloon:** bruto salaris, inclusief eindejaarsuitkering of een beloning in de vorm van een dertiende maand, zijnde een vast bedrag of vastgesteld percentage van het salaris, dat werknemers als extra loon ontvangen, voor zover dit is geregeld in de geldende collectieve arbeidsovereenkomst of arbeidsovereenkomst, exclusief vakantiegeld, exclusief vergoedingen, bijzondere beloningen, winst- of prestatieafhankelijke uitkeringen en aanvullende werkgeverslasten;
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **deelnemer:** een natuurlijke persoon die rechtstreeks profiteert van, of deelneemt aan, het project van de subsidieontvanger zonder dat hij belast is met het opzetten of met zowel het opzetten als het uitvoeren van de actie;
 
-- •. **directe loonkosten:** loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in [bijlagen A tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2021-01-01) of die betrekking hebben op de projectleiding en administratieve werkzaamheden;
+- •. **directe loonkosten:** loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in [bijlagen A tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2022-05-14) of die betrekking hebben op de projectleiding en administratieve werkzaamheden;
 
 - •. **indirecte kosten:** kosten die, met inachtneming van de subsidiabiliteitsvereisten, bedoeld in artikel 63 van de Verordening gemeenschappelijke bepalingen, niet kunnen worden aangewezen als specifieke kosten van het project, en niet rechtstreeks verband houden met de uitvoering ervan;
 
@@ -112,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 1. De minister kan, overeenkomstig deze regeling, subsidie verstrekken aan de nader krachtens deze regeling aangewezen rechtspersonen die een bijdrage leveren aan de uitvoering van het nationaal programma AMIF 2021–2027, het nationaal programma ISF 2021–2027 en het nationaal programma BMVI 2021–2027. De minister neemt daarbij de Verordening gemeenschappelijke bepalingen, de Verordening AMIF, de Verordening ISF en de Verordening BMVI in acht.
 
-2. De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is niet van toepassing op de subsidieverlening bij subsidies met betrekking tot een actie als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01).
+2. De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is niet van toepassing op de subsidieverlening bij subsidies met betrekking tot een actie als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14).
 
 3. Indien de Europese Commissie op het tijdstip van subsidieverlening nog niet heeft ingestemd met het desbetreffende nationale programma, wordt de subsidie, bedoeld in het eerste lid, verleend onder de voorwaarde dat de Europese Commissie instemt met dat nationale programma.
 
@@ -132,23 +132,23 @@ In deze regeling wordt verstaan onder:
 
 De minister kan met inachtneming van deze regeling en onder het voorbehoud, bedoeld in artikel 63 van de Verordening gemeenschappelijke bepalingen, subsidie verlenen ten behoeve van projecten zonder winstoogmerk op het gebied van:
 
-- a. het versterken en ontwikkelen van alle aspecten van het gemeenschappelijk Europees asielstelsel, met inbegrip van de externe dimensie ervan om bij te dragen aan het bewerkstelligen van een toekomstbestendige migratieketen, nader uitgewerkt in [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2021-01-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2021-01-01), behorende bij deze regeling;
+- a. het versterken en ontwikkelen van alle aspecten van het gemeenschappelijk Europees asielstelsel, met inbegrip van de externe dimensie ervan om bij te dragen aan het bewerkstelligen van een toekomstbestendige migratieketen, nader uitgewerkt in [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2022-05-14) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2022-05-14), behorende bij deze regeling;
 
-- b. het versterken van de economische positie van Nederland door het realiseren van een aantrekkelijk vestigingsklimaat voor kennismigranten en werkgevers, nader uitgewerkt in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=C&z=2022-05-14&g=2021-01-01), behorende bij deze regeling;
+- b. het versterken van de economische positie van Nederland door het realiseren van een aantrekkelijk vestigingsklimaat voor kennismigranten en werkgevers, nader uitgewerkt in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=C&z=2022-05-14&g=2022-05-14), behorende bij deze regeling;
 
-- c. het leveren van een bijdrage aan het maatschappelijke doel van inburgering, te weten alle inburgeringsplichtigen doen snel en volwaardig mee in de Nederlandse maatschappij, nader uitgewerkt in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2021-01-01), behorende bij deze regeling;
+- c. het leveren van een bijdrage aan het maatschappelijke doel van inburgering, te weten alle inburgeringsplichtigen doen snel en volwaardig mee in de Nederlandse maatschappij, nader uitgewerkt in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2022-05-14), behorende bij deze regeling;
 
-- d. de bevordering van zelfstandig dan wel gedwongen vertrek van vreemdelingen die geen recht op verblijf in Nederland hebben, dan wel van vreemdelingen die in afwachting zijn van een beslissing op hun aanvraag tot het verlenen van een verblijfsvergunning, bezwaarschrift of beroep, dan wel van vreemdelingen met een tijdelijk verblijfsrecht, nader uitgewerkt in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=E&z=2022-05-14&g=2021-01-01), behorende bij deze regeling;
+- d. de bevordering van zelfstandig dan wel gedwongen vertrek van vreemdelingen die geen recht op verblijf in Nederland hebben, dan wel van vreemdelingen die in afwachting zijn van een beslissing op hun aanvraag tot het verlenen van een verblijfsvergunning, bezwaarschrift of beroep, dan wel van vreemdelingen met een tijdelijk verblijfsrecht, nader uitgewerkt in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=E&z=2022-05-14&g=2022-05-14), behorende bij deze regeling;
 
-- e. het verbeteren en vergemakkelijken van de uitwisseling van informatie tussen en binnen de bevoegde autoriteiten en relevante organen en instanties van de Europese Unie, en in voorkomend geval met derde landen en internationale organisaties, nader uitgewerkt in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=F&z=2022-05-14&g=2021-01-01), behorende bij deze regeling;
+- e. het verbeteren en vergemakkelijken van de uitwisseling van informatie tussen en binnen de bevoegde autoriteiten en relevante organen en instanties van de Europese Unie, en in voorkomend geval met derde landen en internationale organisaties, nader uitgewerkt in [bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=F&z=2022-05-14&g=2022-05-14), behorende bij deze regeling;
 
-- f. het verbeteren en intensiveren van de grensoverschrijdende coördinatie en samenwerking, met inbegrip van gezamenlijke operaties tussen bevoegde autoriteiten, met betrekking tot terrorisme en zware en georganiseerde criminaliteit met een grensoverschrijdende dimensie, nader uitgewerkt in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=G&z=2022-05-14&g=2021-01-01), behorende bij deze regeling;
+- f. het verbeteren en intensiveren van de grensoverschrijdende coördinatie en samenwerking, met inbegrip van gezamenlijke operaties tussen bevoegde autoriteiten, met betrekking tot terrorisme en zware en georganiseerde criminaliteit met een grensoverschrijdende dimensie, nader uitgewerkt in [bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=G&z=2022-05-14&g=2022-05-14), behorende bij deze regeling;
 
-- g. het ondersteunen van de versterking van de capaciteiten van de lidstaten voor het voorkomen en bestrijden van criminaliteit, terrorisme en radicalisering en het beheersen van veiligheid gerelateerde incidenten, risico's en crises, onder meer door nauwere samenwerking tussen overheidsdiensten, de relevante organen en instanties van de Unie, het maatschappelijk middenveld en particuliere partners in verschillende lidstaten, nader uitgewerkt in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=H&z=2022-05-14&g=2021-01-01), behorende bij deze regeling;
+- g. het ondersteunen van de versterking van de capaciteiten van de lidstaten voor het voorkomen en bestrijden van criminaliteit, terrorisme en radicalisering en het beheersen van veiligheid gerelateerde incidenten, risico's en crises, onder meer door nauwere samenwerking tussen overheidsdiensten, de relevante organen en instanties van de Unie, het maatschappelijk middenveld en particuliere partners in verschillende lidstaten, nader uitgewerkt in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=H&z=2022-05-14&g=2022-05-14), behorende bij deze regeling;
 
-- h. het versterken en ondersteunen van het Europees geïntegreerd grensbeheer, om legale grensoverschrijdingen te faciliteren, illegale immigratie en grensoverschrijdende criminaliteit te voorkomen en op te sporen en migratiestromen te beheren, nader uitgewerkt in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=I&z=2022-05-14&g=2021-01-01), behorende bij deze regeling;
+- h. het versterken en ondersteunen van het Europees geïntegreerd grensbeheer, om legale grensoverschrijdingen te faciliteren, illegale immigratie en grensoverschrijdende criminaliteit te voorkomen en op te sporen en migratiestromen te beheren, nader uitgewerkt in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=I&z=2022-05-14&g=2022-05-14), behorende bij deze regeling;
 
-- i. het ondersteunen van het gemeenschappelijk visumbeleid om een geharmoniseerde aanpak wat de uitgifte van visa betreft te waarborgen en legaal reizen te vergemakkelijken, en tegelijkertijd risico's uit migratie- en veiligheidsoogpunt te helpen voorkomen, nader uitgewerkt in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=J&z=2022-05-14&g=2021-01-01), behorende bij deze regeling.
+- i. het ondersteunen van het gemeenschappelijk visumbeleid om een geharmoniseerde aanpak wat de uitgifte van visa betreft te waarborgen en legaal reizen te vergemakkelijken, en tegelijkertijd risico's uit migratie- en veiligheidsoogpunt te helpen voorkomen, nader uitgewerkt in [bijlage J](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=J&z=2022-05-14&g=2022-05-14), behorende bij deze regeling.
 
 ##### Artikel 5. Aanvraagtijdvakken en subsidieplafond
 
@@ -156,9 +156,9 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 ##### Artikel 6. Subsidieaanvrager
 
-1. De subsidie wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per actie is aangewezen in de [bijlagen A tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2021-01-01) bij deze regeling.
+1. De subsidie wordt aangevraagd door de als zodanig geregistreerde subsidieaanvrager, die per actie is aangewezen in de [bijlagen A tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2022-05-14) bij deze regeling.
 
-2. De registratie als subsidieaanvrager, bedoeld in het eerste lid, vindt plaats bij de intermediaire instantie, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=3&z=2022-05-14&g=2021-01-01), onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier.
+2. De registratie als subsidieaanvrager, bedoeld in het eerste lid, vindt plaats bij de intermediaire instantie, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=3&z=2022-05-14&g=2022-05-14), onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier.
 
 ##### Artikel 7. De subsidieaanvraag
 
@@ -190,13 +190,13 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 6. Op de aanvraag wordt uiterlijk tweeëntwintig weken na ontvangst van de volledige aanvraag beschikt.
 
-7. In afwijking van het vorige lid wordt op de aanvraag met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01), uiterlijk tweeëntwintig weken na afloop van het aanvraagtijdvak beschikt.
+7. In afwijking van het vorige lid wordt op de aanvraag met betrekking tot een project op het gebied van een actie als bedoeld in [artikel 4, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14), uiterlijk tweeëntwintig weken na afloop van het aanvraagtijdvak beschikt.
 
 8. Desgevraagd verstrekt de subsidieaanvrager een nadere toelichting op de projectbeschrijving en de begroting.
 
 ##### Artikel 8. Rangschikking
 
-1. Subsidieaanvragen met betrekking tot een actie als bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2021-01-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2021-01-01) worden getoetst en gerangschikt aan de hand van het in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=K&z=2022-05-14&g=2021-01-01) opgenomen puntenstelsel. Projecten die in hogere mate voldoen aan de criteria van het puntenstelsel hebben voorrang op de projecten die in mindere mate aan deze criteria voldoen.
+1. Subsidieaanvragen met betrekking tot een actie als bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2022-05-14) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2022-05-14) worden getoetst en gerangschikt aan de hand van het in [bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=K&z=2022-05-14&g=2022-05-14) opgenomen puntenstelsel. Projecten die in hogere mate voldoen aan de criteria van het puntenstelsel hebben voorrang op de projecten die in mindere mate aan deze criteria voldoen.
 
 2. Bij gelijke waardering bepaalt het tijdstip van ontvangst van de volledige aanvraag de volgorde, waarbij de volledige subsidieaanvraag die op een eerder tijdstip door de minister is ontvangen een hogere rangorde heeft dan een volledige subsidieaanvraag die op een later tijdstip is ontvangen.
 
@@ -212,7 +212,7 @@ De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedur
 
 2. De minister verleent de subsidie voor het verrichten van het project, zoals vastgelegd in de bij de subsidieaanvraag gevoegde projectbeschrijving.
 
-3. De beschikking vermeldt in ieder geval de projectperiode, de totale subsidiabele kosten, het maximale subsidiepercentage, het maximumbedrag van de subsidie, de rapportageverplichting, de prestatie-indicatoren alsmede, indien van toepassing, de doelgroep van het project. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=12&z=2022-05-14&g=2021-01-01) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
+3. De beschikking vermeldt in ieder geval de projectperiode, de totale subsidiabele kosten, het maximale subsidiepercentage, het maximumbedrag van de subsidie, de rapportageverplichting, de prestatie-indicatoren alsmede, indien van toepassing, de doelgroep van het project. Bij de bepaling van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=12&z=2022-05-14&g=2022-05-14) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd in zijn subsidieaanvraag, met dien verstande dat bepaalde, in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald.
 
 ##### Artikel 10. Weigering van de subsidie
 
@@ -240,11 +240,11 @@ Een aanvraag tot verlening van subsidie kan in ieder geval door de minister gehe
 
 - k. de subsidiabele kosten minder dan € 400.000 bedragen;
 
-- l. voor een subsidieaanvraag met betrekking tot een actie als bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2021-01-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2021-01-01), op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=8&z=2022-05-14&g=2021-01-01), minder dan 60 punten worden toegekend.
+- l. voor een subsidieaanvraag met betrekking tot een actie als bedoeld in [bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2022-05-14) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2022-05-14), op grond van [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=8&z=2022-05-14&g=2022-05-14), minder dan 60 punten worden toegekend.
 
 ##### Artikel 11. Hoogte van de subsidie
 
-De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01) bedraagt maximaal 75% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
+De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14) bedraagt maximaal 75% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
 
 ##### Artikel 12. Subsidiabele kosten
 
@@ -282,7 +282,7 @@ De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.
 
 5. Niet aanbestedende diensten dienen voor opdrachten met kosten in het project gelijk aan of hoger dan € 50.000 de marktconformiteit aan te tonen door middel van een uitgevoerde offerteprocedure waarbij ten minste drie offertes zijn aangevraagd en beoordeeld, het doorlopen van een niet-openbare aanbestedingsprocedure of het doorlopen van een openbare aanbestedingsprocedure. Aanbestedende diensten dienen bij het plaatsen van opdrachten altijd te voldoen aan de van toepassing zijnde nationale of Europese aanbestedingsprocedures.
 
-6. In de kosten van arbeid ten behoeve van het project verricht door verbonden organisaties, partijen in het samenwerkingsverband, organisaties die, direct of indirect, zijn vertegenwoordigd in het bestuur van de subsidieaanvrager of in het bestuur van een samenwerkingspartner of organisaties waar een persoon een aanmerkelijk financieel belang heeft dan wel in het bestuur zit, welke persoon ook werkzaam is voor de subsidieaanvrager of een partij uit het samenwerkingsverband, mogen geen winstopslagen opgenomen zijn. De door de genoemde organisaties verrichte arbeid ten behoeve van het project is slechts subsidiabel op basis van kosten van arbeid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2021-01-01). Voor organisaties binnen de Rijksoverheid is het ook toegestaan om kostprijstarieven te hanteren die binnen het betreffende ministerie zijn goedgekeurd en zijn gehanteerd in de goedgekeurde departementale begroting.
+6. In de kosten van arbeid ten behoeve van het project verricht door verbonden organisaties, partijen in het samenwerkingsverband, organisaties die, direct of indirect, zijn vertegenwoordigd in het bestuur van de subsidieaanvrager of in het bestuur van een samenwerkingspartner of organisaties waar een persoon een aanmerkelijk financieel belang heeft dan wel in het bestuur zit, welke persoon ook werkzaam is voor de subsidieaanvrager of een partij uit het samenwerkingsverband, mogen geen winstopslagen opgenomen zijn. De door de genoemde organisaties verrichte arbeid ten behoeve van het project is slechts subsidiabel op basis van kosten van arbeid als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2022-05-14). Voor organisaties binnen de Rijksoverheid is het ook toegestaan om kostprijstarieven te hanteren die binnen het betreffende ministerie zijn goedgekeurd en zijn gehanteerd in de goedgekeurde departementale begroting.
 
 7. Onder een verbonden organisatie als bedoeld in het zesde lid wordt verstaan een privaatrechtelijke of publiekrechtelijke organisatie:
 
@@ -336,17 +336,17 @@ De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.
 
 ##### Artikel 15. Berekening specifieke uitgaven in verband met doelgroepen
 
-1. Specifieke uitgaven in verband met doelgroepen bestaan overeenkomstig de in [bijlagen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2021-01-01) omschreven subsidiabele activiteiten in volledige of gedeeltelijke ondersteuning in de vorm van:
+1. Specifieke uitgaven in verband met doelgroepen bestaan overeenkomstig de in [bijlagen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2022-05-14) omschreven subsidiabele activiteiten in volledige of gedeeltelijke ondersteuning in de vorm van:
 
 - a. een vergoeding van kosten gemaakt door de subsidieontvanger ten behoeve van de doelgroepen, of
 
 - b. een vergoeding van door de doelgroepen gemaakte kosten die vervolgens door de subsidieontvanger worden terugbetaald.
 
-2. In het geval van activiteiten waarvoor de deelname noodzakelijk is van personen die onder de reikwijdte van [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2021-01-01), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2021-01-01) of [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2021-01-01) van de subsidieregeling vallen, zoals bijvoorbeeld een opleiding en cursus, kunnen kleine geldelijke stimulansen worden verstrekt als extra bijstand, mits het totaalbedrag niet groter is dan € 25.000 per project en het wordt verdeeld per deelnemer voor elk evenement, cursus, en dergelijke. De subsidieontvanger of penvoerder dient een lijst bij te houden van de personen, de tijd en plaats van betaling en zorgt voor een degelijke follow-up om elke dubbele financiering of elk misbruik van middelen te vermijden.
+2. In het geval van activiteiten waarvoor de deelname noodzakelijk is van personen die onder de reikwijdte van [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=A&z=2022-05-14&g=2022-05-14), [B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2022-05-14) of [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2022-05-14) van de subsidieregeling vallen, zoals bijvoorbeeld een opleiding en cursus, kunnen kleine geldelijke stimulansen worden verstrekt als extra bijstand, mits het totaalbedrag niet groter is dan € 25.000 per project en het wordt verdeeld per deelnemer voor elk evenement, cursus, en dergelijke. De subsidieontvanger of penvoerder dient een lijst bij te houden van de personen, de tijd en plaats van betaling en zorgt voor een degelijke follow-up om elke dubbele financiering of elk misbruik van middelen te vermijden.
 
-3. In het geval van activiteiten die onder de reikwijdte van de [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=E&z=2022-05-14&g=2021-01-01) vallen, kunnen niet terugvorderbare forfaitaire bedragen, zoals ingeval van beperkte steun voor het opbouwen van economische activiteiten en geldelijke stimulansen voor terugkeerders, worden vergoed.
+3. In het geval van activiteiten die onder de reikwijdte van de [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=E&z=2022-05-14&g=2022-05-14) vallen, kunnen niet terugvorderbare forfaitaire bedragen, zoals ingeval van beperkte steun voor het opbouwen van economische activiteiten en geldelijke stimulansen voor terugkeerders, worden vergoed.
 
-4. Bijstandsmaatregelen na terugkeer naar een derde land, zoals bijstand op het gebied van opleiding en werk, kortetermijnmaatregelen om de herintegratie op gang te brengen, en hulp na terugkeer zoals respectievelijk beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=E&z=2022-05-14&g=2021-01-01) van de subsidieregeling, mogen niet langer duren dan twaalf maanden na de datum van terugkeer van de onderdaan van het derde land.
+4. Bijstandsmaatregelen na terugkeer naar een derde land, zoals bijstand op het gebied van opleiding en werk, kortetermijnmaatregelen om de herintegratie op gang te brengen, en hulp na terugkeer zoals respectievelijk beschreven in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=E&z=2022-05-14&g=2022-05-14) van de subsidieregeling, mogen niet langer duren dan twaalf maanden na de datum van terugkeer van de onderdaan van het derde land.
 
 ##### Artikel 16. Berekening kosten van materieel
 
@@ -396,25 +396,25 @@ De subsidie ten behoeve van projecten als bedoeld in [artikel 4](https://wetten.
 
 ##### Artikel 18. Berekening overige externe kosten
 
-Overige externe kosten zijn subsidiabel als deze betrekking hebben op directe kosten die in het kader van het project moeten worden uitbesteed en die niet vallen onder een van de in [artikel 12, derde lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=12&z=2022-05-14&g=2021-01-01), genoemde kostensoorten. Overige externe kosten kunnen bestaan uit kosten van diensten of producten.
+Overige externe kosten zijn subsidiabel als deze betrekking hebben op directe kosten die in het kader van het project moeten worden uitbesteed en die niet vallen onder een van de in [artikel 12, derde lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=12&z=2022-05-14&g=2022-05-14), genoemde kostensoorten. Overige externe kosten kunnen bestaan uit kosten van diensten of producten.
 
 ##### Artikel 19. Berekening indirecte kosten
 
 De indirecte kosten worden berekend door:
 
-- a. de kosten van arbeid, zoals genoemd in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2021-01-01), te vermenigvuldigen met 15%, of
+- a. de kosten van arbeid, zoals genoemd in [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2022-05-14), te vermenigvuldigen met 15%, of
 
 - b. de directe kosten te vermenigvuldigen met 7%.
 
 ##### Artikel 20. Berekening overige subsidiabele kosten anders dan de kosten van arbeid
 
-Indien [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2021-01-01), niet wordt toegepast kunnen alle andere subsidiabele kosten, inclusief de indirecte kosten, worden berekend door de kosten van arbeid te vermenigvuldigen met 40%.
+Indien [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2022-05-14), niet wordt toegepast kunnen alle andere subsidiabele kosten, inclusief de indirecte kosten, worden berekend door de kosten van arbeid te vermenigvuldigen met 40%.
 
 ##### Artikel 21. Kosten van internationale organisaties
 
 1. Kosten van een internationale organisatie zijn subsidiabel op basis van artikel 22 van de Verordening AMIF, artikel 17 van de Verordening ISF of artikel 18 van de Verordening BMVI.
 
-2. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2021-01-01), [22, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=22&z=2022-05-14&g=2021-01-01) en [24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=24&z=2022-05-14&g=2021-01-01), zijn voor een internationale organisatie niet van toepassing.
+2. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2022-05-14), [22, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=22&z=2022-05-14&g=2022-05-14) en [24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=24&z=2022-05-14&g=2022-05-14), zijn voor een internationale organisatie niet van toepassing.
 
 ##### Artikel 22. Niet subsidiabele kosten
 
@@ -436,7 +436,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 - h. kosten gemaakt buiten de projectperiode, die benoemd is in de beschikking tot subsidieverlening, met uitzondering van de kosten voor projectcoördinatie en -administratie ten behoeve van het opstellen van het verzoek tot vaststelling tot aan het moment van indienen van dit verzoek;
 
-- i. bijdragen in natura ten behoeve van de cofinanciering van het project, met uitzondering van de kosten, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2021-01-01);
+- i. bijdragen in natura ten behoeve van de cofinanciering van het project, met uitzondering van de kosten, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=13&z=2022-05-14&g=2022-05-14);
 
 - j. belasting over de toegevoegde waarde indien deze krachtens het nationale recht inzake belasting over de toegevoegde waarde terugvorderbaar is;
 
@@ -470,7 +470,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 5. Indien er in het project sprake is van deelnemers geeft de deelnemersadministratie inzicht in de subsidiabiliteit van de individuele deelnemer zelf en de verrichte activiteiten en behaalde resultaten per individuele deelnemer.
 
-6. Ter zake van de directe loonkosten en de kosten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=12&z=2022-05-14&g=2021-01-01), dient een door middel van een inzichtelijk tijdschrijfsysteem controleerbare urenverantwoording per werknemer aanwezig te zijn of een krachtens naar behoren gemotiveerd besluit van de organisatie waaruit blijkt dat de werknemer wordt ingezet voor taken die specifiek verband houden met de uitvoering van het project. Dit besluit dient jaarlijks te worden bekrachtigd.
+6. Ter zake van de directe loonkosten en de kosten, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=12&z=2022-05-14&g=2022-05-14), dient een door middel van een inzichtelijk tijdschrijfsysteem controleerbare urenverantwoording per werknemer aanwezig te zijn of een krachtens naar behoren gemotiveerd besluit van de organisatie waaruit blijkt dat de werknemer wordt ingezet voor taken die specifiek verband houden met de uitvoering van het project. Dit besluit dient jaarlijks te worden bekrachtigd.
 
 7. De minister, de Europese Commissie of haar vertegenwoordigers, de door de minister dan wel de door de Europese Commissie aangewezen instanties en de Rekenkamer hebben de bevoegdheid om audits, op basis van documenten of ter plaatse, uit te voeren bij de subsidieontvanger of de penvoerder, contractanten en subcontractanten die overeenkomstig de Verordening gemeenschappelijke bepalingen, Verordening AMIF, Verordening ISF en Verordening BMVI middelen van de Europese Unie hebben ontvangen. Tevens verstrekken zij voornoemde instanties desgevraagd informatie over de projecten die voor monitoring en evaluatie gebruikt kunnen worden.
 
@@ -480,7 +480,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 1. De subsidieontvanger of de penvoerder bewaart alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project tot tenminste vijf jaar, gerekend vanaf 31 december van het jaar waarin de beheerautoriteit de laatste betaling aan de subsidieontvanger of de penvoerder verricht, dan wel tot een nader door de minister aan de subsidieontvanger of de penvoerder schriftelijk bekend te maken termijn. Indien de Europese Commissie, vanwege een gerechtelijke procedure of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de minister de gevolgen voor de bewaartermijn, in de Staatscourant bekend.
 
-2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=L&z=2022-05-14&g=2021-01-01) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
+2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=L&z=2022-05-14&g=2022-05-14) behorende bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
 
 3. De administratie is zodanig ingericht en wordt zodanig gevoerd en bewaard, dat controle daarvan binnen een redelijke termijn mogelijk is. Daartoe verleent de subsidieontvanger of de penvoerder de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.
 
@@ -576,9 +576,9 @@ Deze regeling wordt aangehaald als: Subsidieregeling AMIF, ISF en BMVI 2021–20
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat deze regeling terugwerkt tot en met 1 januari 2021.
 
-## Bijlage A. behorende bij [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage A. behorende bij [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): het versterken en ontwikkelen van alle aspecten van het gemeenschappelijk Europees asielstelsel, met inbegrip van de externe dimensie ervan om bij te dragen aan het bewerkstelligen van een toekomstbestendige migratieketen
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): het versterken en ontwikkelen van alle aspecten van het gemeenschappelijk Europees asielstelsel, met inbegrip van de externe dimensie ervan om bij te dragen aan het bewerkstelligen van een toekomstbestendige migratieketen
 
 ### Artikel A1. Subsidieaanvrager
 
@@ -600,9 +600,9 @@ Projecten zijn uitsluitend gericht op een of meer van de volgende activiteiten:
 
 ### Artikel A7. Hoogte van de subsidie
 
-## Bijlage B. behorende bij [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage B. behorende bij [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): het versterken en ontwikkelen van alle aspecten van het gemeenschappelijk Europees asielstelsel, met inbegrip van de externe dimensie ervan om bij te dragen aan het bewerkstelligen van een toekomstbestendige migratieketen
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): het versterken en ontwikkelen van alle aspecten van het gemeenschappelijk Europees asielstelsel, met inbegrip van de externe dimensie ervan om bij te dragen aan het bewerkstelligen van een toekomstbestendige migratieketen
 
 ### Artikel B1. Subsidieaanvrager
 
@@ -626,11 +626,11 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ### Artikel B8. Hoogte van de subsidie
 
-In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=11&z=2022-05-14&g=2021-01-01) bedraagt de subsidie maximaal 90% van de subsidiabele kosten voor maatregelen die zijn gericht op kwetsbare personen en verzoekers om internationale bescherming met bijzondere behoeften inzake opvang of procedures, waaronder maatregelen die de doeltreffende bescherming van minderjarigen waarborgen, met name niet-begeleide minderjarigen, onder meer door middel van alternatieve, niet-geïnstitutionaliseerde zorgsystemen.
+In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=11&z=2022-05-14&g=2022-05-14) bedraagt de subsidie maximaal 90% van de subsidiabele kosten voor maatregelen die zijn gericht op kwetsbare personen en verzoekers om internationale bescherming met bijzondere behoeften inzake opvang of procedures, waaronder maatregelen die de doeltreffende bescherming van minderjarigen waarborgen, met name niet-begeleide minderjarigen, onder meer door middel van alternatieve, niet-geïnstitutionaliseerde zorgsystemen.
 
-## Bijlage C. behorende bij [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage C. behorende bij [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): het versterken van de economische positie van Nederland door het realiseren van een aantrekkelijk vestigingsklimaat voor kennismigranten en werkgevers
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): het versterken van de economische positie van Nederland door het realiseren van een aantrekkelijk vestigingsklimaat voor kennismigranten en werkgevers
 
 ### Artikel C1. Subsidieaanvrager
 
@@ -652,11 +652,11 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ### Artikel C7. Hoogte van de subsidie
 
-In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=11&z=2022-05-14&g=2021-01-01) bedraagt de subsidie maximaal 90% van de subsidiabele kosten voor integratiemaatregelen die worden uitgevoerd door lokale en regionale autoriteiten en door maatschappelijke organisaties, waaronder vluchtelingenorganisaties en door migranten geleide organisaties;
+In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=11&z=2022-05-14&g=2022-05-14) bedraagt de subsidie maximaal 90% van de subsidiabele kosten voor integratiemaatregelen die worden uitgevoerd door lokale en regionale autoriteiten en door maatschappelijke organisaties, waaronder vluchtelingenorganisaties en door migranten geleide organisaties;
 
-## Bijlage D. behorende bij [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage D. behorende bij [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): het leveren van een bijdrage aan het maatschappelijke doel van inburgering, te weten alle inburgeringsplichtigen doen snel en volwaardig mee in de Nederlandse maatschappij.
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): het leveren van een bijdrage aan het maatschappelijke doel van inburgering, te weten alle inburgeringsplichtigen doen snel en volwaardig mee in de Nederlandse maatschappij.
 
 ### Artikel D1. Subsidieaanvrager
 
@@ -674,17 +674,17 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage w
 
 ### Artikel D6. Aanvullende eisen aanvraag
 
-In aanvulling op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=7&z=2022-05-14&g=2021-01-01) bevat de projectbeschrijving:
+In aanvulling op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=7&z=2022-05-14&g=2022-05-14) bevat de projectbeschrijving:
 
 ### Artikel D7. Specifieke eisen aan het project
 
 ### Artikel D8. Hoogte van de subsidie
 
-In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=11&z=2022-05-14&g=2021-01-01) bedraagt de subsidie maximaal 90% van de subsidiabele kosten voor integratiemaatregelen die worden uitgevoerd door lokale en regionale autoriteiten en door maatschappelijke organisaties, waaronder vluchtelingenorganisaties en door migranten geleide organisaties.
+In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=11&z=2022-05-14&g=2022-05-14) bedraagt de subsidie maximaal 90% van de subsidiabele kosten voor integratiemaatregelen die worden uitgevoerd door lokale en regionale autoriteiten en door maatschappelijke organisaties, waaronder vluchtelingenorganisaties en door migranten geleide organisaties.
 
-## Bijlage E. behorende bij [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage E. behorende bij [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): De bevordering van zelfstandig dan wel gedwongen vertrek van vreemdelingen die geen recht op verblijf in Nederland hebben, dan wel van vreemdelingen die in afwachting zijn van een beslissing op hun aanvraag tot het verlenen van een verblijfsvergunning, bezwaarschrift of beroep, dan wel van vreemdelingen met een tijdelijk verblijfsrecht.
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): De bevordering van zelfstandig dan wel gedwongen vertrek van vreemdelingen die geen recht op verblijf in Nederland hebben, dan wel van vreemdelingen die in afwachting zijn van een beslissing op hun aanvraag tot het verlenen van een verblijfsvergunning, bezwaarschrift of beroep, dan wel van vreemdelingen met een tijdelijk verblijfsrecht.
 
 ### Artikel E1. Subsidieaanvrager
 
@@ -704,9 +704,9 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage w
 
 ### Artikel E7. Hoogte van de subsidie
 
-## Bijlage F. behorende bij [artikel 4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage F. behorende bij [artikel 4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): het verbeteren en vergemakkelijken van de uitwisseling van informatie tussen en binnen de bevoegde autoriteiten en relevante organen en instanties van de Europese Unie, en in voorkomend geval met derde landen en internationale organisaties.
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): het verbeteren en vergemakkelijken van de uitwisseling van informatie tussen en binnen de bevoegde autoriteiten en relevante organen en instanties van de Europese Unie, en in voorkomend geval met derde landen en internationale organisaties.
 
 ### Artikel F1. Subsidieaanvrager
 
@@ -732,9 +732,9 @@ Projecten zijn uitsluitend gericht op een of meer van de volgende activiteiten:
 
 ### Artikel F7. Hoogte van de subsidie
 
-## Bijlage G. behorende bij [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage G. behorende bij [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): het verbeteren en intensiveren van de grensoverschrijdende coördinatie en samenwerking, met inbegrip van gezamenlijke operaties tussen bevoegde autoriteiten, met betrekking tot terrorisme en zware en georganiseerde criminaliteit met een grensoverschrijdende dimensie
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): het verbeteren en intensiveren van de grensoverschrijdende coördinatie en samenwerking, met inbegrip van gezamenlijke operaties tussen bevoegde autoriteiten, met betrekking tot terrorisme en zware en georganiseerde criminaliteit met een grensoverschrijdende dimensie
 
 ### Artikel G1. Subsidieaanvrager
 
@@ -760,9 +760,9 @@ Projecten zijn uitsluitend gericht op een of meer van de volgende activiteiten:
 
 ### Artikel G7. Hoogte van de subsidie
 
-## Bijlage H. behorende bij [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage H. behorende bij [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): het ondersteunen van de versterking van de capaciteiten van de lidstaten voor het voorkomen en bestrijden van criminaliteit, terrorisme en radicalisering en het beheersen van veiligheid gerelateerde incidenten, risico's en crises, onder meer door nauwere samenwerking tussen overheidsdiensten, de relevante organen en instanties van de Unie, het maatschappelijk middenveld en particuliere partners in verschillende lidstaten.
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): het ondersteunen van de versterking van de capaciteiten van de lidstaten voor het voorkomen en bestrijden van criminaliteit, terrorisme en radicalisering en het beheersen van veiligheid gerelateerde incidenten, risico's en crises, onder meer door nauwere samenwerking tussen overheidsdiensten, de relevante organen en instanties van de Unie, het maatschappelijk middenveld en particuliere partners in verschillende lidstaten.
 
 ### Artikel H1. Subsidieaanvrager
 
@@ -788,9 +788,9 @@ Projecten zijn uitsluitend gericht op een of meer van de volgende activiteiten:
 
 ### Artikel H7. Hoogte van de subsidie
 
-## Bijlage I. behorende bij [artikel 4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage I. behorende bij [artikel 4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): het versterken en ondersteunen van het Europees geïntegreerd grensbeheer, om legale grensoverschrijdingen te faciliteren, illegale immigratie en grensoverschrijdende criminaliteit te voorkomen en op te sporen en migratiestromen te beheren.
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): het versterken en ondersteunen van het Europees geïntegreerd grensbeheer, om legale grensoverschrijdingen te faciliteren, illegale immigratie en grensoverschrijdende criminaliteit te voorkomen en op te sporen en migratiestromen te beheren.
 
 ### Artikel I1. Subsidieaanvrager
 
@@ -810,9 +810,9 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ### Artikel I6. Hoogte van de subsidie
 
-## Bijlage J. behorende bij [artikel 4, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01)
+## Bijlage J. behorende bij [artikel 4, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14)
 
-Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2021-01-01): het ondersteunen van het gemeenschappelijk visumbeleid om een geharmoniseerde aanpak wat de uitgifte van visa betreft te waarborgen en legaal reizen te vergemakkelijken, en tegelijkertijd risico's uit migratie- en veiligheidsoogpunt te helpen voorkomen.
+Specifieke bepalingen met betrekking tot de actie, genoemd in [artikel 4, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=4&z=2022-05-14&g=2022-05-14): het ondersteunen van het gemeenschappelijk visumbeleid om een geharmoniseerde aanpak wat de uitgifte van visa betreft te waarborgen en legaal reizen te vergemakkelijken, en tegelijkertijd risico's uit migratie- en veiligheidsoogpunt te helpen voorkomen.
 
 ### Artikel J1. Subsidieaanvrager
 
@@ -834,12 +834,12 @@ Voor subsidie komen uitsluitend in aanmerking activiteiten die het gemeenschappe
 
 ### Artikel J6. Hoogte van de subsidie
 
-## Bijlage K. behorende bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=8&z=2022-05-14&g=2021-01-01)
+## Bijlage K. behorende bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=8&z=2022-05-14&g=2022-05-14)
 
 | Algemene criteria (1 tot en met 6, maximaal 80 punten) | Algemene criteria (1 tot en met 6, maximaal 80 punten) | Algemene criteria (1 tot en met 6, maximaal 80 punten) |
 | --- | --- | --- |
 | Subcriteria | Bijbehorende vragen | Punten |
-| **1.** Relevantie (maximaal 15 punten) | a. In welke mate draagt het project bij aan de gekozen subsidiabele activiteit zoals vermeld in de [Bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2021-01-01) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2021-01-01) van deze subsidieregeling? | 4 |
+| **1.** Relevantie (maximaal 15 punten) | a. In welke mate draagt het project bij aan de gekozen subsidiabele activiteit zoals vermeld in de [Bijlagen B](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=B&z=2022-05-14&g=2022-05-14) en [D](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&bijlage=D&z=2022-05-14&g=2022-05-14) van deze subsidieregeling? | 4 |
 | **1.** Relevantie (maximaal 15 punten) | b. Blijkt uit het projectvoorstel wat de concrete uitdaging/het probleem is waar het projectvoorstel zich op richt? | 4 |
 | **1.** Relevantie (maximaal 15 punten) | c. Dragen de verwachte projectresultaten bij aan de oplossing | 3 |
 | **1.** Relevantie (maximaal 15 punten) | d. Zijn de geplande activiteiten direct noodzakelijk voor het behalen van de in het aanvraagformulier onder stap ‘Streefwaarden’ ingevulde beoogde te behalen streefwaarden? Deze streefwaarden zijn rechtstreeks gelinkt aan de beoogde in Nederland te behalen streefwaarden uit het Nationaal Programma AMIF. | 4 |
@@ -875,7 +875,7 @@ Voor subsidie komen uitsluitend in aanmerking activiteiten die het gemeenschappe
 | **8.** Integratie (maximaal 20 punten) | 2°. Voor projecten gericht op de onder artikel D5, eerste lid, onderdeel b, genoemde activiteiten: In hoeverre zijn de praktijksituaties (buiten het klaslokaal) die binnen het project worden ingezet, de voorgestelde acties om te zorgen voor een goede aansluiting bij de belevingswereld van de deelnemers en de wijze waarop met verschillende organisaties wordt samengewerkt om de praktijksituaties te organiseren realistisch en overtuigend uitgewerkt? |   |
 | **8.** Integratie (maximaal 20 punten) | 3°. Voor projecten gericht op de onder artikel D5, lid 1, onderdeel c genoemde activiteiten: In hoeverre zijn de voorgestelde acties om ervoor te zorgen dat de deelnemers (in taalrijke omgevingen) geactiveerd worden en de voorgestelde acties om ervoor te zorgen dat de deelnemers meer gaan participeren in de Nederlandse samenleving realistisch en overtuigend uitgewerkt? |   |
 
-## Bijlage L. behorende bij [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=25&z=2022-05-14&g=2021-01-01)
+## Bijlage L. behorende bij [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=25&z=2022-05-14&g=2022-05-14)
 
 ### Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
@@ -893,7 +893,7 @@ Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de
 
 Als de conversie op de juiste wijze gebeurt, is het in het kader van de verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
 
-De subsidieaanvrager of de penvoerder verklaart door middel van het aanvraagformulier en voortgangsrapportageformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de projectadministratie, voldoen aan de vereisten uit [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=25&z=2022-05-14&g=2021-01-01) en daarmee aan deze bijlage.
+De subsidieaanvrager of de penvoerder verklaart door middel van het aanvraagformulier en voortgangsrapportageformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de projectadministratie, voldoen aan de vereisten uit [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0046658&artikel=25&z=2022-05-14&g=2022-05-14) en daarmee aan deze bijlage.
 
 ### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel c)
 
