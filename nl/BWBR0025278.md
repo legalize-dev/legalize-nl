@@ -4,7 +4,7 @@ identifier: "BWBR0025278"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025278"
 soort: "AMvB"
@@ -170,7 +170,7 @@ Aan de vice-president van de Raad van State, de president van de Algemene Rekenk
 
 4. De maandelijkse vergoeding, bedoeld in het eerste lid, wordt aangewezen als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31).
 
-5. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.
+5. De in het tweede lid genoemde bedragen worden per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindex, geldend voor de maand september van het tweede kalenderjaar voorafgaand aan die datum ten opzichte van hetzelfde indexcijfer geldend voor de maand september van het daaraan voorafgaande kalenderjaar.
 
 ##### Artikel 7
 
@@ -184,7 +184,7 @@ De vice-president van de Raad van State, de president van de Algemene Rekenkamer
 
 ##### Artikel 9
 
-Wijzigt het Reisbesluit binnenland.
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties treft voor de Nationale ombudsman en de substituut-ombudsmannen een voorziening voor bedrijfsgeneeskundige zorg.
 
 ##### Artikel 10
 
@@ -208,9 +208,9 @@ De volgende besluiten worden ingetrokken:
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat:
 
-- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2022-01-01&g=2022-01-01), terugwerkt tot en met 1 januari 2005;
+- a. [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2022-05-14&g=2022-05-14), terugwerkt tot en met 1 januari 2005;
 
-- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2022-01-01&g=2022-01-01), terugwerkt tot en met 1 oktober 2007.
+- b. [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025278&artikel=4&z=2022-05-14&g=2022-05-14), terugwerkt tot en met 1 oktober 2007.
 
 ##### Artikel 13
 
