@@ -4,7 +4,7 @@ identifier: "BWBR0044044"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2022-04-01"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044044"
 soort: "ministeriele-regeling"
@@ -144,7 +144,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 74, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-04-01&g=2022-04-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-05-18&g=2022-05-18), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 6. Nadere regels belangstellingsmeting
 
@@ -173,6 +173,10 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 - b. onherroepelijk is afgewezen.
 
 7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+
+8. Degene die een ouderverklaring indient ontvangt daarvoor geen beloning in enige vorm.
+
+9. Bij overtreding van het achtste lid kan de minister besluiten dat alle ingediende ouderverklaringen geen deel meer uitmaken van de desbetreffende belangstellingsmeting.
 
 ##### Artikel 8. Uitzonderingssituaties toepassing marktonderzoek
 
@@ -218,9 +222,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien sprake is van verzelfstandiging als bedoeld in [artikel 84a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a):
 
-- a. zijn van [artikel 3 het eerste lid en het tweede lid met uitzondering van onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing;
+- a. zijn van [artikel 3 het eerste lid en het tweede lid met uitzondering van onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-05-18&g=2022-05-18) van overeenkomstige toepassing;
 
-- b. is [artikel 4, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-04-01&g=2022-04-01), van overeenkomstige toepassing;
+- b. is [artikel 4, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-05-18&g=2022-05-18), van overeenkomstige toepassing;
 
 - c. is de aanvraag voorzien van een prognose, bedoeld in het derde en vierde lid; en
 
