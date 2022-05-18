@@ -4,7 +4,7 @@ identifier: "BWBR0044043"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2022-01-01"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044043"
 soort: "ministeriele-regeling-BES"
@@ -132,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 72, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-05-18&g=2022-05-18), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 5. Nadere regels belangstellingsmeting
 
@@ -161,6 +161,10 @@ In deze regeling wordt verstaan onder:
 - b. onherroepelijk is afgewezen.
 
 7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+
+8. Degene die een ouderverklaring indient ontvangt daarvoor geen beloning in enige vorm.
+
+9. Bij overtreding van het achtste lid kan de minister besluiten dat alle ingediende ouderverklaringen geen deel meer uitmaken van de desbetreffende belangstellingsmeting.
 
 ##### Artikel 7. Uitzonderingssituaties toepassing marktonderzoek
 
