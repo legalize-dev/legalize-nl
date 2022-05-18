@@ -4,7 +4,7 @@ identifier: "BWBR0044041"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2022-01-01"
+last_updated: "2022-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044041"
 soort: "ministeriele-regeling-BES"
@@ -142,11 +142,9 @@ In deze regeling wordt verstaan onder:
 
 - c. 70 leerlingen voor een nevenvestiging voor mavo;
 
-- d. 70 leerlingen voor een nevenvestiging voor vbo met één profiel;
+- d. 70 leerlingen voor een nevenvestiging voor vbo;
 
-- e. 40 leerlingen voor elk profiel voor vbo indien meer dan een profiel binnen de nevenvestiging voor bekostiging in aanmerking wordt gebracht;
-
-- f. 24 leerlingen voor praktijkonderwijs.
+- e. 24 leerlingen voor praktijkonderwijs.
 
 2. Op Sint Eustatius en Saba kan uitsluitend een nevenvestiging van een scholengemeenschap voor bekostiging in aanmerking komen.
 
@@ -158,7 +156,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Opheffing of beëindiging bekostiging
 
-Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=188), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2022-01-01&g=2022-01-01).
+Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=188), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2022-05-18&g=2022-05-18).
 
 ##### Artikel 5. Melding voorgenomen aanvraag tot bekostiging
 
@@ -228,7 +226,7 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 124, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2022-01-01&g=2022-01-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2022-05-18&g=2022-05-18), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 8. Verblijfsjaren
 
@@ -258,15 +256,9 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 - c. mavo: 1,96;
 
-- d. vbo, de profielen bouwen, wonen en interieur, produceren, installeren en energie, mobiliteit en transport, media, vormgeving en ICT, maritiem en techniek: 1,96;
+- d. vbo: 1,92;
 
-- e. vbo, de profielen economie en ondernemen en horeca, bakkerij en recreatie: 1,97;
-
-- f. vbo, het profiel zorg en welzijn: 2,04;
-
-- g. vbo, het profiel groen: 2,00;
-
-- h. vbo, het profiel dienstverlening en producten: 1,99.
+- e. praktijkonderwijs: 4,80.
 
 3. Het aantal verblijfsjaren voor de afdeling havo, bedoeld in [artikel 14, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14), is 2,00.
 
@@ -293,6 +285,10 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 6. De ouder kan in een volgend kalenderjaar opnieuw een ouderverklaring als bedoeld in [artikel 124a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), indienen ten aanzien van hetzelfde kind, indien de aanvraag waarvoor eerder een ouderverklaring is ingediend:a. wel is gemeld, maar niet is ingediend; ofb. onherroepelijk is afgewezen.
 
 7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+
+8. Degene die een ouderverklaring indient ontvangt daarvoor geen beloning in enige vorm.
+
+9. Bij overtreding van het achtste lid kan de minister besluiten dat alle ingediende ouderverklaringen geen deel meer uitmaken van de desbetreffende belangstellingsmeting.
 
 ##### Artikel 11. Uitzonderingssituaties toepassing marktonderzoek
 
