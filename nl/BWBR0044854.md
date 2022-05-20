@@ -4,7 +4,7 @@ identifier: "BWBR0044854"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-24"
-last_updated: "2021-03-01"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044854"
 soort: "ministeriele-regeling"
@@ -88,7 +88,9 @@ In dit besluit wordt verstaan onder:
 
 - d. het verrichten van taken ten behoeve van de afgifte van een fytosanitair uitvoercertificaat als bedoeld in artikel 100 van [verordening 2016/2031](32031R2016) met uitzondering van de afgifte van een fytosanitair uitvoercertificaat en het eindonderzoek van de voor export gereedstaande zending;
 
-- e. het nemen van besluiten en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de door hen op grond van dit mandaatbesluit verrichte werkzaamheden, alsmede voor werkzaamheden die door medewerkers zijn verricht op grond van de overeenkomst als onbezoldigd ambtenaar, met inachtneming van de door de minister vastgestelde tarieven als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=21).
+- e. het nemen van besluiten en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de door hen op grond van dit mandaatbesluit verrichte werkzaamheden, alsmede voor werkzaamheden die door medewerkers zijn verricht op grond van de overeenkomst als onbezoldigd ambtenaar, met inachtneming van de door de minister vastgestelde tarieven als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=21);
+
+- f. het bij dwangbevel invorderen van de op grond van onderdeel e verschuldigde bedragen, verhoogd met de invorderingskosten.
 
 2. Aan de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt tevens, ieder voor zich, mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de verklaring, bedoeld in [artikel 35, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=35).
 
@@ -122,11 +124,13 @@ In dit besluit wordt verstaan onder:
 
 8. Aan de directeur van NAK wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 93 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=93), aangaande het teeltmateriaal en de teelt van landbouwgewassen, alsmede de hiermee samenhangende besluiten.
 
+9. Bij gebreke van de volledige betaling binnen de gestelde termijn kunnen de kosten verband houdend met de bestuursdwang, bedoeld in het eerste tot en met vijfde lid, verhoogd met de invorderingskosten, door de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw, respectievelijk de directeur NAK worden ingevorderd bij dwangbevel.
+
 ##### Artikel 4
 
 1. Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, machtiging verleend voor het opleggen van het verbod tot vervoeren of verplaatsen en het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=2).
 
-2. Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen de door hem genomen besluiten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=2&z=2021-03-01&g=2021-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=3&z=2021-03-01&g=2021-03-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+2. Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen de besluiten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=2&z=2022-05-20&g=2022-05-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=3&z=2022-05-20&g=2022-05-20), voor zover in ondermandaat genomen door functionarissen werkzaam in hun organisatie, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 3. In het geval de minister een mededeling doet dat een aangelegenheid als bedoeld in het tweede lid door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat en machtiging verleend aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat.
 
@@ -134,7 +138,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK kunnen, ieder voor zich, voor de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=2&z=2021-03-01&g=2021-03-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam in zijn organisatie.
+1. De technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK kunnen, ieder voor zich, voor de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=2&z=2022-05-20&g=2022-05-20) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam in zijn organisatie.
 
 2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
