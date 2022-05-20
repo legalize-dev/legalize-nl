@@ -4,7 +4,7 @@ identifier: "BWBR0041794"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-05"
-last_updated: "2022-01-18"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041794"
 soort: "ministeriele-regeling"
@@ -64,13 +64,17 @@ In dit besluit wordt verstaan onder:
 
 - 3°. de programmadirecteur-generaal Stikstof;
 
-- 4°. de directeur Bestuurlijke en Politieke Zaken;
+- 4°. de kwartiermaker directoraat-generaal Landelijk Gebied en Stikstof;
 
-- 5°. de directeur Communicatie;
+- 5°. de kwartiermaker Regieorganisatie Transitie Landelijk Gebied;
 
-- 6°. de directeur Financieel-Economische Zaken;
+- 6°. de directeur Bestuurlijke en Politieke Zaken;
 
-- 7°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
+- 7°. de directeur Communicatie;
+
+- 8°. de directeur Financieel-Economische Zaken;
+
+- 9°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit.
 
 - e. **de P&O-aangelegenheden:** de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
@@ -92,7 +96,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - a. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding of beperking van de bemoeienissen van de minister;
 
-- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2022-01-18&g=2022-01-18), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2022-01-18&g=2022-01-18) en beleidsregels als bedoeld in artikel 6, zevende lid;
+- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2022-05-20&g=2022-05-20), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2022-05-20&g=2022-05-20) en beleidsregels als bedoeld in artikel 6, zevende lid;
 
 - c. delegatie van bevoegdheden;
 
@@ -172,11 +176,15 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - 3°. het programmadirectoraat-generaal Stikstof;
 
-- 4°. de directie Bestuurlijke en Politieke Zaken;
+- 4°. het directoraat-generaal Landelijk Gebied en Stikstof i.o.;
 
-- 5°. de directie Communicatie;
+- 5°. de Regieorganisatie Transitie Landelijk Gebied i.o.;
 
-- 6°. de directie Financieel-Economische Zaken.
+- 6°. de directie Bestuurlijke en Politieke Zaken;
+
+- 7°. de directie Communicatie;
+
+- 8°. de directie Financieel-Economische Zaken.
 
 - b. het vaststellen van de apparaatskosten van de diensten;
 
@@ -340,7 +348,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 10
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2022-01-18&g=2022-01-18), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2022-05-20&g=2022-05-20), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -366,11 +374,13 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 3. De secretaris-generaal kan aan de hoofden van dienst schriftelijk toestemming geven voor het, in afwijking van het tweede lid, verlenen van ondermandaat, volmacht en machtiging. Een afschrift hiervan wordt aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat toegezonden.
 
+4. Het eerste lid is niet van toepassing op de kwartiermaker Regieorganisatie Transitie Landelijk Gebied en de kwartiermaker directoraat-generaal Landelijk Gebied en Stikstof.
+
 ##### Artikel 11
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2022-01-18&g=2022-01-18) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2022-01-18&g=2022-01-18) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2022-05-20&g=2022-05-20) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2022-05-20&g=2022-05-20) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 
@@ -380,7 +390,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 2. De uit dit besluit voor de hoofden van dienst voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
 
-#### § 6. Ondertekening bij afwezigheid minister
+#### § 5. Vervanging
 
 ##### Artikel 13
 
@@ -400,7 +410,7 @@ overeenkomstig het door de minister genomen besluit:
 
 secretaris-generaal
 
-#### § 7. Mandaat, volmacht en machtiging aan niet-ondergeschikten
+#### § 6. Ondertekening bij afwezigheid minister
 
 #### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken en Klimaat die ook taken verrichten voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
@@ -416,7 +426,7 @@ secretaris-generaal
 
 5. De Dienst ICT Uitvoering van het Ministerie van Economische Zaken en Klimaat en de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776) en de [bijlage Organisatie van het Ministerie van Economische Zaken](onbekend) en Klimaat, voor zover van toepassing, ook voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-#### § 7.2. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
+#### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken en Klimaat die ook taken verrichten voor het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
 ##### Artikel 15
 
@@ -730,7 +740,7 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 8. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
 
-#### § 9. Instructies aan niet-ondergeschikten
+#### § 8. Ondermandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
 
 ##### Artikel 26
 
@@ -794,6 +804,8 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 20
 
 ### I. Hoofdstructuur van de organisatie
 
+### I. Hoofdstructuur van de organisatie
+
 ### II. Algemene leiding
 
 ### III. Het directoraat-generaal Agro
@@ -810,9 +822,7 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 20
 
 ### IV. Het directoraat-generaal Natuur, Visserij en Landelijk Gebied
 
-### V. Het programmadirectoraat-generaal Stikstof
-
-### VI. De directie Bestuurlijke en Politieke Zaken
+### IVA. De Regieorganisatie Transitie Landelijk Gebied in oprichting
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
@@ -822,11 +832,11 @@ Vervallen
 
 ## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-### VII. De directie Communicatie
+### V. Het programmadirectoraat-generaal Stikstof
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-### VIII. De directie Financieel-Economische Zaken
+### VI. De directie Bestuurlijke en Politieke Zaken
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
@@ -857,6 +867,30 @@ Dit onderdeel is nog niet inwerking getreden
 #### § 10. Overgangs- en slotbepalingen
 
 ## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
+
+### VII. De directie Communicatie
+
+Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+Aan de programmadirecteur PDC, kostprijsmodel en herziening retributiestelsel en de programmadirecteur Stelsel keuren en toezicht wordt ieder voor zich mandaat, volmacht en machtiging verleend voor aangelegenheden op het werkterrein van het programma, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 per verplichting niet te boven gaat, en met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal, de plaatsvervangend secretaris-generaal of aan een hoofd van dienst.
+
+#### § 3. Instructies
+
+#### § 4. Ondermandaat
+
+#### § 7. Mandaat, volmacht en machtiging aan niet-ondergeschikten
+
+#### § 7.2. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
+
+#### § 9. Instructies aan niet-ondergeschikten
+
+#### § 10. Overgangs- en slotbepalingen
+
+## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
+
+### VIII. De directie Financieel-Economische Zaken
 
 ### IX. De Nederlandse Voedsel- en Warenautoriteit
 
