@@ -4,7 +4,7 @@ identifier: "BWBR0032326"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-02-11"
-last_updated: "2022-02-10"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032326"
 soort: "beleidsregel"
@@ -238,13 +238,13 @@ In deze bijlage is in tabelvorm opgenomen voor welk artikel, artikellid of onder
 
 30 De ZO luidt: het werken op, aan of in de nabijheid van wegen waarbij ernstig gevaar bestaat voor aanrijden.
 
-31 De ZO luidt: het in ernstige mate niet treffen van maatregelen of voorzieningen op de arbeidsplaats ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2.
+31 Vervallen.
 
-32 De ODB luidt: het niet nemen van hygiënische voorzieningen ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2 op de arbeidsplaats.
+32 Vervallen.
 
-33 De ODB luidt: het niet geven van voorlichting of onderricht aan werknemers over de bestrijding van SARS-CoV-2 op de arbeidsplaats.
+33 Vervallen.
 
-34 De ODB luidt: het niet houden van toezicht op de naleving van de noodzakelijke maatregelen of voorzieningen ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2 op de arbeidsplaats.
+34 Vervallen.
 
 35De ZO luiden:
 
