@@ -4,7 +4,7 @@ identifier: "BWBR0028627"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-05-20"
-last_updated: "2020-12-02"
+last_updated: "2022-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028627"
 soort: "AMvB-BES"
@@ -47,7 +47,7 @@ Een werklokaal zal door daglicht onvoldoende verlicht worden geacht, indien daar
 
 ##### Artikel 3
 
-Het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=I&artikel=2&z=2020-12-02&g=2020-12-02) geldt niet ten aanzien van projecteercellen van bioscopen en werklokalen van baggermolens, grind- of zandzuigers.
+Het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=I&artikel=2&z=2022-05-20&g=2022-05-20) geldt niet ten aanzien van projecteercellen van bioscopen en werklokalen van baggermolens, grind- of zandzuigers.
 
 ##### Artikel 4
 
@@ -115,7 +115,7 @@ Op elke was- en badplaats moet schoon water kunnen toevloeien in voldoende hoeve
 
 ##### Artikel 17
 
-Waar arbeiders door de aard van hun arbeid lichaamsreiniging van meer omvang dan alleen van hoofd, handen en voeten behoeven, moeten voor die arbeiders doelmatig gelegen en ingerichte badgelegenheden in voldoend aantal, doch tenminste één voor elke twintig of minder van deze arbeiders, beschikbaar zijn. Het aantal badgelegenheden kan in mindering worden gebracht van het aantal wasplaatsen, zoals bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=III&artikel=15&z=2020-12-02&g=2020-12-02).
+Waar arbeiders door de aard van hun arbeid lichaamsreiniging van meer omvang dan alleen van hoofd, handen en voeten behoeven, moeten voor die arbeiders doelmatig gelegen en ingerichte badgelegenheden in voldoend aantal, doch tenminste één voor elke twintig of minder van deze arbeiders, beschikbaar zijn. Het aantal badgelegenheden kan in mindering worden gebracht van het aantal wasplaatsen, zoals bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=III&artikel=15&z=2022-05-20&g=2022-05-20).
 
 ##### Artikel 18
 
@@ -175,11 +175,11 @@ Waar arbeid wordt verricht, moet het aantal voor de arbeiders beschikbare privat
 
 ##### Artikel 29
 
-Onverminderd het bepaalde in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=28&z=2020-12-02&g=2020-12-02) moeten daar waar mannen en vrouwen arbeiden die voor en na hun arbeid van kleren verwisselen en gezamenlijk in werklokalen werken, alsmede daar waar vijf en twintig of meer personen arbeiden, voor gebruik als kleedkamer doelmatig gelegen, door een opschrift aangewezen ruimten aanwezig zijn. Deze ruimten moeten doelmatig zijn ingericht voor berging van klederen, welke de arbeiders afleggen, verwisselen of bij hun arbeid dragen; zij mogen geen deel uitmaken van werklokalen, noch van schaftlokalen en moeten goed geventileerd en naar seksen zijn gescheiden.
+Onverminderd het bepaalde in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=28&z=2022-05-20&g=2022-05-20) moeten daar waar mannen en vrouwen arbeiden die voor en na hun arbeid van kleren verwisselen en gezamenlijk in werklokalen werken, alsmede daar waar vijf en twintig of meer personen arbeiden, voor gebruik als kleedkamer doelmatig gelegen, door een opschrift aangewezen ruimten aanwezig zijn. Deze ruimten moeten doelmatig zijn ingericht voor berging van klederen, welke de arbeiders afleggen, verwisselen of bij hun arbeid dragen; zij mogen geen deel uitmaken van werklokalen, noch van schaftlokalen en moeten goed geventileerd en naar seksen zijn gescheiden.
 
 ##### Artikel 30
 
-1. Onverminderd het bepaalde in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=28&z=2020-12-02&g=2020-12-02) moeten daar waar minder dan vijf en twintig personen arbeiden, doelmatig ingerichte klederbergplaatsen beschikbaar zijn, bestemd voor berging van de klederen, welke de arbeiders afleggen en/of verwisselen of bij hun arbeid dragen.
+1. Onverminderd het bepaalde in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=28&z=2022-05-20&g=2022-05-20) moeten daar waar minder dan vijf en twintig personen arbeiden, doelmatig ingerichte klederbergplaatsen beschikbaar zijn, bestemd voor berging van de klederen, welke de arbeiders afleggen en/of verwisselen of bij hun arbeid dragen.
 
 2. Deze klederbergplaatsen mogen geen deel uitmaken van schadelijke werklokalen.
 
@@ -195,13 +195,13 @@ Onverminderd het bepaalde in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 32
 
-1. Waar [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=31&z=2020-12-02&g=2020-12-02) niet van toepassing is, moet, indien in de werklokalen hiertoe geen behoorlijke gelegenheid wordt geboden, voor een arbeider, die een rusttijd heeft van een half uur of langer en niet in de gelegenheid is zich gedurende die rusttijd naar huis te begeven, een behoorlijke schaftgelegenheid beschikbaar zijn.
+1. Waar [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=31&z=2022-05-20&g=2022-05-20) niet van toepassing is, moet, indien in de werklokalen hiertoe geen behoorlijke gelegenheid wordt geboden, voor een arbeider, die een rusttijd heeft van een half uur of langer en niet in de gelegenheid is zich gedurende die rusttijd naar huis te begeven, een behoorlijke schaftgelegenheid beschikbaar zijn.
 
 2. Een behoorlijke schaftgelegenheid wordt geacht beschikbaar te zijn, indien een lokaliteit ter beschikking is, waarin voor de personen, als bedoeld in het eerste lid, een tafel en behoorlijke zitgelegenheden aanwezig zijn. Deze lokaliteit mag niet als een schadelijk werklokaal worden gebruikt.
 
 ##### Artikel 33
 
-De bepalingen vervat in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=31&z=2020-12-02&g=2020-12-02) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=32&z=2020-12-02&g=2020-12-02) zijn niet van toepassing, indien en voorzover de regeling der werktijden, de duur van de schafttijden of andere omstandigheden van plaatselijke aard het mogelijk maken, dat de arbeiders de schafttijden doorbrengen in hun woning of in een andere doelmatige lokaliteit, waar geen sterke drank verstrekt wordt en welke voor hen kosteloos en zonder verplichting tot het maken van vertering toegankelijk is.
+De bepalingen vervat in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=31&z=2022-05-20&g=2022-05-20) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=32&z=2022-05-20&g=2022-05-20) zijn niet van toepassing, indien en voorzover de regeling der werktijden, de duur van de schafttijden of andere omstandigheden van plaatselijke aard het mogelijk maken, dat de arbeiders de schafttijden doorbrengen in hun woning of in een andere doelmatige lokaliteit, waar geen sterke drank verstrekt wordt en welke voor hen kosteloos en zonder verplichting tot het maken van vertering toegankelijk is.
 
 ##### Artikel 34
 
@@ -211,7 +211,7 @@ De bepalingen vervat in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 35
 
-1. Een nachtverblijf als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2020-12-02&g=2020-12-02) bedoeld moet een gemiddelde hoogte van tenminste 2.50 m hebben.
+1. Een nachtverblijf als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2022-05-20&g=2022-05-20) bedoeld moet een gemiddelde hoogte van tenminste 2.50 m hebben.
 
 2. Een nachtverblijf moet zijn voorzien van in de buitenlucht uitkomende ramen, die zodanig kunnen worden geopend, dat de gezamenlijke doorlaatopening niet minder dan 1/25 van de vloeroppervlakte en in geen geval minder dan 1.00 m2 bedraagt; het gezamenlijke lichtoppervlak der ramen moet tenminste 1/30 van het vloeroppervlak bedragen.
 
@@ -221,11 +221,11 @@ De bepalingen vervat in de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 36
 
-In een nachtverblijf als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2020-12-02&g=2020-12-02) bedoeld, moet voor iedere in dat artikel bedoelde persoon een behoorlijk ingerichte slaapplaats aanwezig zijn van tenminste 1.90 m lang en 0.75 m breed, welke tenminste 0.50 m boven de vloer is gelegen. De ruimte onder deze slaapplaats moet behoorlijk kunnen worden gereinigd. Bij elke slaapplaats moet tenminste aan een lange zijde een gangpad van tenminste 0.50 m breed zijn.
+In een nachtverblijf als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2022-05-20&g=2022-05-20) bedoeld, moet voor iedere in dat artikel bedoelde persoon een behoorlijk ingerichte slaapplaats aanwezig zijn van tenminste 1.90 m lang en 0.75 m breed, welke tenminste 0.50 m boven de vloer is gelegen. De ruimte onder deze slaapplaats moet behoorlijk kunnen worden gereinigd. Bij elke slaapplaats moet tenminste aan een lange zijde een gangpad van tenminste 0.50 m breed zijn.
 
 ##### Artikel 37
 
-1. Indien een nachtverblijf, als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2020-12-02&g=2020-12-02) bedoeld, bestemd is voor meer dan één persoon, moeten de slaapplaatsen onderling door tenminste 0.80 m hoge schotten zijn gescheiden. Het gangpad tussen twee rijen slaapplaatsen moet tenminste 1.50 m breed zijn.
+1. Indien een nachtverblijf, als in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=V&artikel=34&z=2022-05-20&g=2022-05-20) bedoeld, bestemd is voor meer dan één persoon, moeten de slaapplaatsen onderling door tenminste 0.80 m hoge schotten zijn gescheiden. Het gangpad tussen twee rijen slaapplaatsen moet tenminste 1.50 m breed zijn.
 
 2. Slaapplaatsen mogen niet boven elkaar zijn aangebracht.
 
@@ -277,11 +277,11 @@ Alvorens een arbeider een put, riool, grondkuip, kelder, gashouder, reservoir of
 
 ##### Artikel 48
 
-Gedurende het verblijf van een arbeider in een ruimte, als in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=VII&artikel=47&z=2020-12-02&g=2020-12-02) bedoeld, moeten doeltreffende maatregelen zijn genomen, teneinde te voorkomen, dat daarin voor inademing ongeschikte dampen of gassen ontstaan of zich verspreiden, tenzij voldoende voorzorgen zijn genomen, opdat hij bij bedwelming onmiddellijk buiten die ruimte kan worden gebracht, zonder dat anderen zich daarin behoeven te begeven.
+Gedurende het verblijf van een arbeider in een ruimte, als in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=VII&artikel=47&z=2022-05-20&g=2022-05-20) bedoeld, moeten doeltreffende maatregelen zijn genomen, teneinde te voorkomen, dat daarin voor inademing ongeschikte dampen of gassen ontstaan of zich verspreiden, tenzij voldoende voorzorgen zijn genomen, opdat hij bij bedwelming onmiddellijk buiten die ruimte kan worden gebracht, zonder dat anderen zich daarin behoeven te begeven.
 
 ##### Artikel 49
 
-Het bepaalde in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=VII&artikel=47&z=2020-12-02&g=2020-12-02) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=VII&artikel=48&z=2020-12-02&g=2020-12-02) is niet van toepassing, indien de arbeider, die zich in een ruimte, als daar bedoeld, begeeft, voorzien is van een toestel, dat de inademing van zuivere lucht of zuurstof waarborgt.
+Het bepaalde in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=VII&artikel=47&z=2022-05-20&g=2022-05-20) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=VII&artikel=48&z=2022-05-20&g=2022-05-20) is niet van toepassing, indien de arbeider, die zich in een ruimte, als daar bedoeld, begeeft, voorzien is van een toestel, dat de inademing van zuivere lucht of zuurstof waarborgt.
 
 ### Hoofdstuk VIII. Verschaffen van hulp bij ongevallen
 
@@ -299,7 +299,7 @@ Waar gevaar voor verdrinking bestaat, moeten doelmatige middelen voor het redden
 
 ##### Artikel 53
 
-Nabij een werklokaal, waar ontsnapping van voor inademing ongeschikte gassen of dampen te duchten is, moet een doelmatig toestel, dat de inademing van zuivere lucht of zuurstof waarborgt, steeds beschikbaar zijn en ter bediening daarvan een voldoend aantal arbeiders zijn aangewezen, die met het gebruik van het toestel vertrouwd zijn, behoudens de in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=VIII&artikel=51&z=2020-12-02&g=2020-12-02) bedoelde gevallen.
+Nabij een werklokaal, waar ontsnapping van voor inademing ongeschikte gassen of dampen te duchten is, moet een doelmatig toestel, dat de inademing van zuivere lucht of zuurstof waarborgt, steeds beschikbaar zijn en ter bediening daarvan een voldoend aantal arbeiders zijn aangewezen, die met het gebruik van het toestel vertrouwd zijn, behoudens de in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=VIII&artikel=51&z=2022-05-20&g=2022-05-20) bedoelde gevallen.
 
 ##### Artikel 54
 
@@ -401,7 +401,7 @@ In elk werklokaal, waarin zich drijfwerk bevindt, dat in beweging kan worden geb
 
 ##### Artikel 68
 
-Onverminderd het in de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=66&z=2020-12-02&g=2020-12-02) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=67&z=2020-12-02&g=2020-12-02) bepaalde moet, indien het krachtwerktuig wordt bediend door een daarmede in het bijzonder belast persoon, van een werklokaal, waarin zich drijfwerk bevindt als daar bedoeld, en van een in de open lucht opgesteld werktuig af, een sein om het aandrijvende krachtwerktuig dadelijk te stoppen, aan die persoon gegeven kunnen worden.
+Onverminderd het in de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=66&z=2022-05-20&g=2022-05-20) en [67](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=67&z=2022-05-20&g=2022-05-20) bepaalde moet, indien het krachtwerktuig wordt bediend door een daarmede in het bijzonder belast persoon, van een werklokaal, waarin zich drijfwerk bevindt als daar bedoeld, en van een in de open lucht opgesteld werktuig af, een sein om het aandrijvende krachtwerktuig dadelijk te stoppen, aan die persoon gegeven kunnen worden.
 
 ##### Artikel 69
 
@@ -473,7 +473,7 @@ Een losse en een vaste riemschijf moeten zodanig zijn ingericht en aangebracht, 
 
 ##### Artikel 82
 
-De gevaar opleverende plaatsen van werktuigen, in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=81&z=2020-12-02&g=2020-12-02) bedoeld, mogen alleen bij stilstand worden gereinigd, gepoetst of hersteld.
+De gevaar opleverende plaatsen van werktuigen, in [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=81&z=2022-05-20&g=2022-05-20) bedoeld, mogen alleen bij stilstand worden gereinigd, gepoetst of hersteld.
 
 ##### Artikel 83
 
@@ -595,7 +595,7 @@ Een kipwagen en een bak van een luchtspoor moeten veilig vastgezet kunnen worden
 
 ##### Artikel 108
 
-Indien het in [artikel 106](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=106&z=2020-12-02&g=2020-12-02) bedoelde vervoer plaats heeft over een hellende baan en bij het losraken van een of meer der wagens gevaar kan ontstaan moeten daartegen, zo mogelijk door zelfwerkende inrichtingen, maatregelen zijn getroffen.
+Indien het in [artikel 106](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=106&z=2022-05-20&g=2022-05-20) bedoelde vervoer plaats heeft over een hellende baan en bij het losraken van een of meer der wagens gevaar kan ontstaan moeten daartegen, zo mogelijk door zelfwerkende inrichtingen, maatregelen zijn getroffen.
 
 ##### Artikel 109
 
@@ -645,7 +645,7 @@ Flessen, kannen, kruiken, bussen en fusten, die zoutzuur, zwavelzuur, salpeterzu
 
 ##### Artikel 118
 
-Indien een vat, waarin rechtstreeks stoom uit een stoomleiding kan worden toegelaten, zodanig geopend is, dat een persoon zich daarin geheel of gedeeltelijk kan begeven, moeten tussen die leiding en dit vat dezelfde afsluitingen aanwezig zijn en worden gebruikt als in [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=117&z=2020-12-02&g=2020-12-02) voor stoomketels is aangegeven.
+Indien een vat, waarin rechtstreeks stoom uit een stoomleiding kan worden toegelaten, zodanig geopend is, dat een persoon zich daarin geheel of gedeeltelijk kan begeven, moeten tussen die leiding en dit vat dezelfde afsluitingen aanwezig zijn en worden gebruikt als in [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=117&z=2022-05-20&g=2022-05-20) voor stoomketels is aangegeven.
 
 ##### Artikel 119
 
@@ -749,7 +749,7 @@ Acetyleentoestellen, waarbij de ontleding van het carbid buiten de gashouder ges
 
 ##### Artikel 131
 
-De in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=130&z=2020-12-02&g=2020-12-02) bedoelde watersloten en andere inrichtingen moeten zodanig zijn ingericht, dat zij gemakkelijk kunnen worden geopend en inwendig nagezien.
+De in [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0028627&hoofdstuk=XI&artikel=130&z=2022-05-20&g=2022-05-20) bedoelde watersloten en andere inrichtingen moeten zodanig zijn ingericht, dat zij gemakkelijk kunnen worden geopend en inwendig nagezien.
 
 ##### Artikel 132
 
@@ -809,19 +809,7 @@ Dit besluit wordt aangehaald als: Arbeidsveiligheidsbesluit I BES.
 
 ##### Artikel 60a
 
-1. Dit artikel is van toepassing op de bestrijding van de epidemie van covid-19, veroorzaakt door het virus SARS-CoV-2, of een directe dreiging daarvan.
-
-2. Ter voorkoming of beperking van de kans op besmetting van werknemers en derden met SARS-CoV-2 worden in werklokalen, gelet op [hoofdstuk Va van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&hoofdstuk=Va) alsmede de stand van de wetenschap en professionele dienstverlening, tijdig de daarvoor noodzakelijke maatregelen en voorzieningen getroffen.
-
-3. Tot de noodzakelijke maatregelen en voorzieningen behoren in ieder geval:
-
-- a. het in acht nemen van voldoende hygiënische voorzieningen;
-
-- b. het geven van doeltreffende voorlichting en onderricht aan arbeiders over de bestrijding van SARS-CoV-2 in werklokalen; en
-
-- c. het houden van adequaat toezicht op de naleving van de in dit artikel bedoelde noodzakelijke maatregelen en voorzieningen.
-
-4. Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het tweede of derde lid. Bij de vaststelling van die regels kan onderscheid worden gemaakt tussen verschillende activiteiten van ondernemingen.
+Vervallen
 
 ### Hoofdstuk XI. Het voorkomen van ongevallen
 
