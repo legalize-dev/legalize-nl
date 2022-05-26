@@ -4,7 +4,7 @@ identifier: "BWBR0041790"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-03-01"
-last_updated: "2022-03-15"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041790"
 soort: "beleidsregel"
@@ -1012,7 +1012,7 @@ Artikelen uit [Verordening 2017/746](32646R2017)
 
 Het boetebedrag is nu vastgesteld op grond van de beleidsregels bestuurlijke bo ete Ministerie VWS 2019.
 
-## Boetedifferentiatie
+## Bijlage. bij de Boetebeleidsregels ministerie VWS 2019: [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755)
 
 Met deze bijlage is het mogelijk om de hoogte van een bestuurlijke boete **per afzonderlijke overtreding** vast te stellen.
 
@@ -1036,13 +1036,19 @@ Met deze bijlage is het mogelijk om de hoogte van een bestuurlijke boete **per a
 | [14.1.c](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=14) | [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=6) | *** | € 150.000 | DB |
 | [14.2.c](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=14) | [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=4), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=5a), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=5b) | * | € 75.000 | SW/DB |
 
-Communicatietabel tussen [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755) en Verordening (EU) 2017/745
+Communicatietabel tussen Wet medische hulpmiddelen en Verordening (EU) 2017/745
 
 | Artikel [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755) | Artikel Verordening (EU) 2017/745 | Zwaarte- categorie | Norm- bedrag | SW/DB |
 | --- | --- | --- | --- | --- |
 | [14.1.a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=14) | 5.1, 5.3, 6.1, 6.2, 6.4, 7, 9.3, 9.4, 10.1, 10.2, 10.3, 10.4, 10.5, 10.9, 10.10, 10.12, 10.13, 10.14, 13.1, 13.5, 13.6, 13.7, 13.8, 13.10, 14.1, 14.3, 14.4, 14.5, 14.6, 17.1, 17.6, 17.7, 18.1, 22.3, 23.1, 25.2, 27.3, 27.5, 27.9, 52.1, 52.2, 52.3, 52.4, 52.6, 52.7, 52.8, 52.9, 52.10, 52.11, 58.1, 83.1, 83.2, 83.3, 83.4, 84, 85, 86.1, 87.1, 87.11 (tweede en derde volzin), 87.3, 87.4, 87.5, 87.8, 88.1, 89.1, 89.8, 94, 95.3 | *** | € 150.000 | SW/DB |
 | [14.1.a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=14) | 5.2, 5.5, 10.6, 10.7, 10.11, 11.1, 11.3, 13.2, 14.2, 16.3, 16.4, 17.8, 19.1, 19.2, 20.1, 20.3, 20.4, 21.2, 22.5, 27.4, 27.7, 27.8, 29.1, 29.2, 31.1, 31.4, 86.2 (eerste volzin), 86.3, 87.6, 87.7, 88.2, 89.5 | ** | € 150.000 | SW/DB |
 | [14.2.a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=14) | 6.3, 10.8, 10.15, 10.16 (tweede alinea), 11.6, 12, 13.3, 13.4, 13.9, 15, 20.2, 20.5, 20.6, 21.1, 22.1, 22.2, 27.6, 29.3, 29.4, 30.3, 32.1, 32.2, 37.3, 37.5, 46.5, 53.2, 53.3, 54.3, 55.1, 56.1, 56.5 | * | € 75.000 | SW/DB |
+
+| Artikel Wet medische hulpmiddelen | Artikel [Verordening (EU) 2017/746](32646R2017) | Zwaarte- categorie | Norm- bedrag | SW/DB |
+| --- | --- | --- | --- | --- |
+| [14.1.b](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=14) | 5.1, 5.3, 6.1, 6.2, 6.4, 7, 9.3, 9.4, 10.1, 10.2, 10.3, 10.8, 10.9, 10.11, 10.12, 13.1, 13.5, 13.6, 13.7, 13.8, 13.10, 14.1, 14.3, 14.4, 14.5, 14.6, 20.1, 22.2, 24.3, 24.9, 48.1, 48.2, 48.3, 48.4, 48.6, 48.7, 48.8, 48.9, 48.10, 53.1, 78.1, 78.2, 78.3, 78.4, 79, 80, 81.1, 82.1, 82.11 (tweede en derde volzin), 82.3, 82.4, 82.5, 82.8, 83.1, 84.1, 84.8, 90.3 | *** | € 150.000 | SW/DB |
+| [14.1.b](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=14) | 5.2, 5.5, 10.6, 10.10, 11.1, 11.3, 13.2, 14.2, 16.3, 16.4, 17.1, 17.2, 18.1, 18.3, 18.4, 19.2, 24.4, 24.7, 24.8, 26.1, 28.1, 28.4, 81.2 (eerste volzin), 81.3, 82.6, 82.7, 83.2, 84.5 | ** | € 150.000 | SW/DB |
+| [14.2.b](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=14) | 6.3, 10.7, 10.14, 10.15 (tweede alinea), 11.6, 12, 13.3, 13.4,13.9, 15.1 tot en met 15.6, 18.2, 18.5, 18.6, 19.1, 24.6, 26.2, 26.3, 27.3, 29.1, 29.2, 33.3, 33.5, 42.5, 49.2, 49.3, 50.1, 51.5 | * | € 75.000 | SW/DB |
 
 Hierbij dient te worden bepaald of het ging om een medisch hulpmiddel uit risicoklasse I, IIa, IIb of III. Ingeval het een in-vitro diagnosticum betreft, moet bepaald worden of het om een laag-risico, midden hoog-risico of hoog-risico in-vitro diagnosticum ging.
 
