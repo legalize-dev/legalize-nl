@@ -4,7 +4,7 @@ identifier: "BWBR0043470"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-05-26"
-last_updated: "2021-05-26"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043470"
 soort: "AMvB"
@@ -128,7 +128,7 @@ Herverwerkte medische hulpmiddelen voor eenmalig gebruik worden slechts op de ma
 
 - c. een code ter kenmerking van de partij van gelijktijdig gesteriliseerde herbruikbare medische hulpmiddelen waartoe het hulpmiddel behoort;
 
-- d. het jaar en de maand tot welke het gesteriliseerde herbruikbare medische hulpmiddel geschikt voor gebruik wordt geacht, ingeval naar het oordeel van de persoon, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043470&artikel=6&z=2021-05-26&g=2021-05-26), het medische hulpmiddel slechts gedurende een beperkt tijdvak geschikt is voor gebruik;
+- d. het jaar en de maand tot welke het gesteriliseerde herbruikbare medische hulpmiddel geschikt voor gebruik wordt geacht, ingeval naar het oordeel van de persoon, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043470&artikel=6&z=2022-05-26&g=2022-05-26), het medische hulpmiddel slechts gedurende een beperkt tijdvak geschikt is voor gebruik;
 
 - e. de vermelding dat het gesteriliseerde herbruikbare medische hulpmiddel na sterilisatie slechts éénmaal dient te worden gebruikt met het oog op de steriliteit ervan; en
 
@@ -144,7 +144,7 @@ De volgende besluiten worden ingetrokken:
 
 - b. het [Besluit gesteriliseerde medische hulpmiddelen in ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0003590);
 
-- c. dit onderdeel is nog niet in werking getreden;
+- c. het [Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610);
 
 - d. het [Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307);
 
@@ -152,7 +152,7 @@ De volgende besluiten worden ingetrokken:
 
 ##### Artikel 9. Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 3, eerste lid, van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=3) in werking treedt, met uitzondering van [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043470&artikel=8&z=2021-05-26&g=2021-05-26), van dit besluit, dat in werking treedt op het tijdstip waarop [artikel 28 van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=28) in werking treedt.
+Dit besluit treedt in werking op het tijdstip waarop [artikel 3, eerste lid, van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=3) in werking treedt, met uitzondering van [artikel 8, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043470&artikel=8&z=2022-05-26&g=2022-05-26), van dit besluit, dat in werking treedt op het tijdstip waarop [artikel 28 van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=28) in werking treedt.
 
 ##### Artikel 10. Citeertitel
 
