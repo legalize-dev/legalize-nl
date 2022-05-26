@@ -4,7 +4,7 @@ identifier: "BWBR0043450"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-05-26"
-last_updated: "2021-05-26"
+last_updated: "2022-05-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043450"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Wijzigt de Regeling tarief notificatie medische hulpmiddelen.
 
 - a. het [Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 16 oktober 2017, kenmerk 1234799-169409-WJZ, houdende aanwijzing van de voor aangemelde instanties verantwoordelijke autoriteit in het kader van Verordening(EU) 2017/745 betreffende medische hulpmiddelen en Verordening (EU) 2017/746 betreffende medische hulpmiddelen voor in-vitrodiagnostiek](https://wetten.overheid.nl/jci1.3:c:BWBR0040096);
 
-- b. dit onderdeel is nog niet in werking getreden.
+- b. het [Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 29 juni 2018, kenmerk 1362910-177820-WJZ, houdende de aanwijzing van de Inspectie gezondheidszorg en jeugd op grond van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0041122).
 
 2. Na inwerkingtreding van het eerste lid, onderdeel a, berusten de volgende besluiten op [artikel 8, eerste en tweede lid, van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=8):
 
@@ -92,7 +92,7 @@ Wijzigt de Regeling tarief notificatie medische hulpmiddelen.
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel 4, eerste lid, van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=4) in werking treedt, met uitzondering van [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043450&artikel=6&z=2021-05-26&g=2021-05-26), van deze regeling, dat in werking treedt op het tijdstip waarop [artikel 28 van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=28) in werking treedt.
+Deze regeling treedt in werking op het tijdstip waarop [artikel 4, eerste lid, van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=4) in werking treedt, met uitzondering van [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043450&artikel=6&z=2022-05-26&g=2022-05-26), van deze regeling, dat in werking treedt op het tijdstip waarop [artikel 28 van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=28) in werking treedt.
 
 ##### Artikel 8. Citeertitel
 
