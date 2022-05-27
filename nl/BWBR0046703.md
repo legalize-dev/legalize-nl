@@ -4,7 +4,7 @@ identifier: "BWBR0046703"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-05-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046703"
 soort: "zbo"
@@ -66,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 3. Voor het verstrekken in massale vorm of door middel van een geautomatiseerd proces van WOZ-detailgegevens is verschuldigd:
 
-- a. voor een verstrekking bestaande uit alle componenten in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046703&bijlage=A&z=2022-05-27&g=2022-01-01):
+- a. voor een verstrekking bestaande uit alle componenten in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046703&bijlage=A&z=2022-05-27&g=2022-05-27):
 
 - 1. tot en met 5.000 objecten: € 1,31 per object;
 
@@ -78,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 - 5. bij meer dan 1.000.000 objecten: € 22.500,– per verstrekking;
 
-- b. voor een verstrekking bestaande uit door afnemer vooraf aangegeven componenten uit [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046703&bijlage=A&z=2022-05-27&g=2022-01-01): het bedrag per object per component zoals vermeld in bijlage A, waarbij in geval van levering van meer dan 5.000 objecten de bedragen genoemd in onderdeel a, sub 2 t/m 5, worden toegepast naar rato van het tarief van de geleverde componenten;
+- b. voor een verstrekking bestaande uit door afnemer vooraf aangegeven componenten uit [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0046703&bijlage=A&z=2022-05-27&g=2022-05-27): het bedrag per object per component zoals vermeld in bijlage A, waarbij in geval van levering van meer dan 5.000 objecten de bedragen genoemd in onderdeel a, sub 2 t/m 5, worden toegepast naar rato van het tarief van de geleverde componenten;
 
 - c. voor een abonnement op de verstrekkingen bedoeld in onderdeel a en b: het bedrag bedoeld in onderdeel a en b, waarbij wordt uitgegaan van het aantal objecten waaruit het desbetreffende gebied bestaat op 1 januari van het jaar waarin de gegevensverstrekking plaatsvindt.
 
