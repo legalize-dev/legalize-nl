@@ -4,7 +4,7 @@ identifier: "BWBR0003642"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-17"
-last_updated: "2019-12-21"
+last_updated: "2022-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003642"
 soort: "wet"
@@ -45,67 +45,75 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Infrastructuur en Waterstaat;
+- **ambtenaren van de Inspectie Leefomgeving en Transport:** de door Onze Minister aangewezen ambtenaar van de Inspectie Leefomgeving en Transport;
 
-- b. inspecteur-generaal: inspecteur-generaal van de Inspectie Verkeer en Waterstaat;
+- **ballastwater:** water met daarin zwevende deeltjes dat aan boord wordt genomen teneinde de trim, helling, diepgang, stabiliteit van of krachten op het schip te beheersen;
 
-- c. de ambtenaren van de Inspectie Verkeer en Waterstaat: de door Onze Minister aangewezen ambtenaar van de Inspectie Verkeer en Waterstaat;
+- **buitenlands schip:** een schip, niet zijnde een Nederlands schip en een schip als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2);
 
-- d. Verdrag: het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen,met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147), en met het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb. 1978, 188);
+- **exploitant:** de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;
 
-- e. VN-Zeerechtverdrag: het op 10 december 1982 te Montego-Bay totstandgekomen Verdrag van de Verenigde Naties inzake het recht van de zee (Trb. 1983, 83);
+- **haven:** een rede, pier of steiger en in het algemeen iedere plaats, al of niet in zee, waar schepen ligplaats kunnen hebben of waar opvarenden en zaken ingescheept of ontscheept kunnen worden;
 
-- f. SOLAS-verdrag: het op 1 november 1974 te Londen totstandgekomen Verdrag inzake de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
+- **havenafvalplan:** het plan, bedoeld in [artikel 6a, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=6a&z=2022-06-01&g=2022-06-01);
 
-- g. richtlijn havenontvangstvoorzieningen: de bij regeling van Onze Minister aangewezen richtlijn;
+- **havenontvangstvoorziening:** een vaste, drijvende of mobiele voorziening die in staat is om als dienstverlening de stoffen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=6&z=2022-06-01&g=2022-06-01), in ontvangst te nemen;
 
-- h. schadelijke stof: stof die valt onder het toepassingsbereik van Bijlage I, II, III, IV of V van het Verdrag.
+- **indirecte bijdrage:** bijdrage die wordt betaald voor het verlenen van diensten van havenontvangstvoorzieningen, ongeacht of al dan niet werkelijk scheepsafvalstoffen worden afgegeven;
 
-- i. ballastwater: water met daarin zwevende deeltjes dat aan boord wordt genomen teneinde de trim, helling, diepgang, stabiliteit van of krachten op het schip te beheersen;
+- **inspecteur-generaal:** inspecteur-generaal van de Inspectie Leefomgeving en Transport;
 
-- j. sedimenten: alle bezinksels uit het ballastwater van een schip;
+- **kapitein:** de gezagvoerder of schipper van een schip dan wel degene die deze vervangt;
 
-- k. schip: elk vaartuig, van welk type ook, dat op zee wordt gebruikt waaronder begrepen draagvleugelboten, luchtkussenvoertuigen, afzinkbare vaartuigen en drijvend materieel, alsmede installaties gedurende de tijd dat zij drijven, behoudens wanneer het schip als hierboven bedoeld boven de zeebodem is geplaatst voor het instellen van een onderzoek naar de aanwezigheid van delfstoffen of voor het winnen daarvan;
+- **ladingresiduen:** de restanten van lading aan boord die na het laden en lossen op het dek of in ruimen of tanks achterblijven, met inbegrip van overschotten of restanten die het gevolg zijn van morsen bij het laden en lossen, in natte of droge toestand of meegevoerd in waswater, en exclusief ladingstof dat na vegen op het dek achterblijft of stof op de buitenoppervlakken van het schip;
 
-- l. Nederlands schip: een schip dat op grond van Nederlandse rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
+- **lozen:** elk vrijkomen van een schip van schadelijke stoffen, ballastwater of sedimenten, hoe ook veroorzaakt, waaronder begrepen ontsnappen, overboord zetten, wegvloeien, weglekken, pompen of ledigen;
 
-- m. buitenlands schip: een schip, niet zijnde een Nederlands schip en een schip als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2);
+- **Nederlands schip:** een schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
 
-- n. pleziervaartuig: schip, bestemd of gebruikt voor sport of vrijetijdsbesteding, ongeacht het type en de wijze van voortstuwing;
+- **Onze Minister:** Onze Minister van Infrastructuur en Waterstaat;
 
-- o. vissersvaartuig: schip, uitgerust of met commercieel oogmerk gebruikt voor het vangen van vis of andere levende rijkdommen van de zee;
+- **passief opgevist afval:** afval dat tijdens visserijactiviteiten in netten terechtkomt;
 
-- p. scheepsafval: afval, met inbegrip van residuen, niet zijnde ladingresiduen, en sanitair afval, dat ontstaat tijdens de bedrijfsvoering van een schip en valt onder de reikwijdte van de Bijlagen I, IV en V van het Verdrag, alsmede ladinggebonden afval, zijnde al het materiaal dat aan boord bij de stuwage en verwerking van lading als afval overblijft, met inbegrip van stuwmateriaal, schoorpalen, laadborden, verpakkingsmateriaal, houten platen, papier, karton, draad en stalen banden;
+- **pleziervaartuig:** elk zeegaand schip met een romplengte van 2,5 meter of meer, ongeacht het type of de aandrijving, dat bestemd is voor sport- of vrijetijdsdoeleinden en niet voor handelsdoeleinden wordt gebruikt;
 
-- q. ladingresiduen: de restanten van lading in ruimen of tanks aan boord die na het lossen en schoonmaken achterblijven, met inbegrip van restanten na lading of lossing en morsingen;
+- **richtlijn havenontvangstvoorzieningen:** [Richtlijn (EU) 2019/883](32019L0883) van het Europees Parlement en de Raad van de Europese Unie van 17 april 2019 inzake havenontvangstvoorzieningen voor de afvalafgifte van schepen, tot wijziging van [Richtlijn 2010/65](32010L0065)/EU en tot intrekking van [Richtlijn 2000/59/EG](32000L0059) (PbEU 2019, L 151/116);
 
-- r. lozen: elk vrijkomen van een schip van schadelijke stoffen, ballastwater of sedimenten, hoe ook veroorzaakt, waaronder begrepen ontsnappen, overboord zetten, wegvloeien, weglekken, pompen of ledigen;
+- **richtlijn monitoring- en informatiesysteem zeescheepvaart:** Richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van [Richtlijn 93/75/EEG](31993L0075) van de Raad (PbEG 2002, L 208);
 
-- s. voorval: een gebeurtenis die er daadwerkelijk toe leidt of er vermoedelijk toe zal leiden dat in zee wordt geloosd;
+- **SafeSeaNet:** het communautaire systeem voor de uitwisseling van maritieme informatie, bedoeld in de richtlijn monitoring- en informatiesysteem zeescheepvaart;
 
-- t. haven: een rede, pier of steiger en in het algemeen iedere plaats, al of niet in zee, waar schepen ligplaats kunnen hebben of waar opvarenden en zaken ingescheept of ontscheept kunnen worden;
+- **schadelijke stof:** stof die valt onder het toepassingsbereik van Bijlage I, II, III, IV of V van het Verdrag;
 
-- u. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;
+- **scheepsafvalstoffen:** al het afval van het schip, met inbegrip van ladingresiduen, dat tijdens de exploitatie van een schip of tijdens laad-, los en schoonmaakactiviteiten ontstaat en binnen het toepassingsgebied van de bijlagen I, II, IV, V en VI bij het Verdrag valt, evenals passief opgevist afval;
 
-- v. kapitein: de gezagvoerder of schipper van een schip dan wel degene die deze vervangt;
+- **schepen die havendiensten verlenen:** schepen die havendiensten verrichten in de zin van artikel 1, tweede lid, van [Verordening (EU) 2017/352](32252R2017) van het Europees Parlement en de Raad van 15 februari 2017 tot vaststelling van een kader voor het verrichten van havendiensten en gemeenschappelijke regels inzake de financiële transparantie van havens;
 
-- w. havenontvangstvoorziening: de voorziening, bedoeld in [artikel 6, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21);
+- **schip:** elk zeegaand vaartuig, van welk type ook, dat in het mariene milieu opereert, waaronder vissersvaartuigen, pleziervaartuigen, draagvleugelboten, luchtkussenvoertuigen, onderwatervaartuigen en drijvende vaartuigen, alsmede installaties gedurende de tijd dat zij drijven, behoudens wanneer het schip als hierboven bedoeld boven de zeebodem is geplaatst voor het instellen van een onderzoek naar de aanwezigheid van delfstoffen of voor het winnen daarvan;
 
-- x. havenbeheerder: de beheerder, bedoeld in [artikel 6, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21);
+- **sedimenten:** alle bezinksels uit het ballastwater van een schip;
 
-- y. havenafvalplan: het plan, bedoeld in [artikel 6, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21);
+- **SOLAS-verdrag:** het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
 
-- z. richtlijn monitoring- en informatiesysteem zeescheepvaart: de bij regeling van Onze Minister aangewezen richtlijn inzake communautaire monitoring- en informatiesystemen voor de zeescheepvaart;
+- **Verdrag:** het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen, met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147), en met het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb. 1978, 188);
 
-- aa. verwerken van persoonsgegevens, onderscheidenlijk verwerkingsverantwoordelijke: hetgeen daaronder wordt verstaan in artikel 4 van de Algemene verordening gegevensbescherming.
+- **verwerken van persoonsgegevens, onderscheidenlijk verwerkingsverantwoordelijke:** hetgeen daaronder wordt verstaan in artikel 4 van de Algemene verordening gegevensbescherming;
+
+- **verwerking:** nuttige toepassing of verwijdering van afval, met inbegrip van de daaraan voorafgaande voorbereidende handelingen;
+
+- **vissersvaartuig:** elk schip dat is uitgerust of met commercieel oogmerk wordt gebruikt voor het vangen van vis of andere levende rijkdommen van de zee;
+
+- **VN-Zeerechtverdrag:** het op 10 december 1982 te Montego-Bay tot stand gekomen Verdrag van de Verenigde Naties inzake het recht van de zee (Trb. 1983, 83);
+
+- **voorval:** een gebeurtenis die er daadwerkelijk toe leidt of er vermoedelijk toe zal leiden dat in zee wordt geloosd.
 
 ### Hoofdstuk II. Toepassing
 
 ##### Artikel 2
 
-1. Deze wet is van toepassing op Nederlandse en, in de gevallen bij of krachtens deze wet bepaald, buitenlandse schepen en schepen als bedoeld in artikel 2 van de Vaartuigenwet 1930 BES.
+1. Deze wet is van toepassing op Nederlandse en, in de gevallen bij of krachtens deze wet bepaald, buitenlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
 
-3. Bij of krachtens algemene maatregel van bestuur kunnen de krachtens deze wet gestelde regels ook van toepassing worden verklaard op schepen als bedoeld in artikel 2 van de Vaartuigenwet 1930 BES.
+2. Bij of krachtens algemene maatregel van bestuur kunnen de krachtens deze wet gestelde regels ook van toepassing worden verklaard op schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
 
 ##### Artikel 3
 
@@ -121,7 +129,7 @@ Bij algemene maatregel van bestuur kunnen categorieën van schepen geheel of ged
 
 ### Hoofdstuk III. Algemene bepalingen
 
-#### § 1. Lozingsverbod en voorzieningen
+#### § 1. Lozingsverbod
 
 ##### Artikel 5
 
@@ -145,33 +153,23 @@ Bij algemene maatregel van bestuur kunnen categorieën van schepen geheel of ged
 
 ##### Artikel 6
 
-1. De beheerder van een bij of krachtens algemene maatregel van bestuur aangewezen haven draagt zorg voor een toereikende voorziening, geschikt voor het in ontvangst nemen van:
+1. De beheerder van een bij of krachtens algemene maatregel van bestuur aangewezen haven draagt zorg voor een toereikende havenontvangstvoorziening, geschikt voor het in ontvangst nemen van:
 
-- a. scheepsafval en overige schadelijke stoffen dan wel restanten van schadelijke stoffen, afkomstig van schepen die de desbetreffende haven gewoonlijk aandoen;
+- a. scheepsafvalstoffen;
 
-- b. bij of krachtens algemene maatregel van bestuur aangewezen stoffen of uitrusting die deze stoffen bevat en die van schepen worden verwijderd;
+- b. andere bij of krachtens algemene maatregel van bestuur aangewezen stoffen, afkomstig van schepen.
 
-- c. bij of krachtens algemene maatregel van bestuur aangewezen stoffen, afkomstig van schepen.
+2. Een havenontvangstvoorziening is zodanig dat aan de schepen die er gebruik van maken geen onnodig oponthoud wordt veroorzaakt.
 
-Een havenontvangstvoorziening is zodanig dat aan de schepen die er gebruik van maken geen onnodig oponthoud wordt veroorzaakt. Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld met betrekking tot havenontvangstvoorzieningen.
+3. Ter uitvoering van het eerste lid kan de havenbeheerder degene die een los- of laadplaats of scheepsreparatiewerf in zijn haven in bedrijf heeft, verplichten zorg te dragen voor een voldoende havenontvangstvoorziening, geschikt voor het in ontvangst nemen van scheepsafvalstoffen en de in het eerste lid, onderdeel b, bedoelde stoffen, afkomstig van schepen die gebruik maken van die los- of laadplaats of scheepsreparatiewerf.
 
-2. De afgifte van scheepsafval en de in het eerste lid, onderdelen a en c, bedoelde stoffen en de stoffen en uitrusting die deze stoffen bevat als bedoeld in het eerste lid, onderdeel b bij een houder van een havenontvangstvoorziening geschiedt uitsluitend op de bij of krachtens algemene maatregel van bestuur ten aanzien van het scheepsafval of de desbetreffende stof of de uitrusting die de desbetreffende stof bevat bepaalde wijze.
+4. Bij of krachtens algemene maatregel van bestuur worden nadere regels worden gesteld over:
 
-3. De havenbeheerder stelt, na overleg met de betrokken partijen, in het bijzonder de havengebruikers, voor een termijn van ten hoogste drie jaar, een passend plan voor ontvangst en verwerking van scheepsafval en de in het eerste lid, onderdeel a bedoelde andere stoffen vast. Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven met betrekking tot de inhoud, de wijze van vaststelling, de aanbieding aan het met de goedkeuring belaste bestuursorgaan en de bekendmaking van het havenafvalplan.
+- a. havenontvangstvoorzieningen;
 
-4. Twee of meer havenbeheerders kunnen gezamenlijk een havenafvalplan als bedoeld in het derde lid vaststellen, mits daarin de behoefte aan en de beschikbaarheid van havenontvangstvoorzieningen voor elke haven apart worden vermeld, onverminderd het bepaalde bij en krachtens het derde lid.
+- b. de wijze van afgifte van scheepsafvalstoffen en de in het eerste lid, onderdeel b, bedoeld stoffen;
 
-5. Het havenafvalplan behoeft de goedkeuring van Onze Minister. Bij algemene maatregel van bestuur kan worden bepaald dat aan het plan goedkeuring wordt verleend dan wel onthouden door een bij die maatregel aangewezen ander bestuursorgaan.
-
-6. De havenbeheerder houdt een registratie bij van de in zijn haven afgegeven hoeveelheden scheepsafval en andere stoffen als bedoeld in het eerste lid, onderdeel a. Hij bewaart de geregistreerde gegevens gedurende vijf jaar na ontvangst van de gegevens en verstrekt gegevens uit deze registratie, dan wel inlichtingen omtrent deze gegevens aan Onze Minister op diens verzoek.
-
-7. De houder van een havenontvangstvoorziening verschaft de havenbeheerder desgevraagd alle inlichtingen met betrekking tot de in de desbetreffende haven afgegeven hoeveelheden scheepsafval en andere stoffen als bedoeld in het eerste lid, onderdeel a.
-
-8. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de aard, de registratie en de verstrekking van de gegevens en de inlichtingen bedoeld in het zesde en zevende lid.
-
-9. De havenbeheerder is ter uitvoering van de in het eerste lid opgelegde verplichting bevoegd degene die een bepaalde los- of laadplaats of scheepsreparatiewerf in zijn haven in bedrijf heeft, te verplichten zorg te dragen voor een voldoende havenontvangstvoorziening, geschikt voor het in ontvangst nemen van scheepsafval en andere stoffen als bedoeld in het eerste lid, onderdelen a en c, en stoffen en uitrusting die deze stoffen bevat als bedoeld in het eerste lid, onderdeel b, van schepen die gebruik maken van die los- of laadplaats of scheepsreparatiewerf.
-
-10. Dit artikel is ook van toepassing op buitenlandse schepen.
+- c. procedures voor het ontvangen, inzamelen, opslaan en verwijderen van scheepsafvalstoffen en de in het eerste lid, onderdeel b, bedoelde stoffen.
 
 #### § 2. Regelen voor schepen
 
@@ -187,7 +185,7 @@ Een havenontvangstvoorziening is zodanig dat aan de schepen die er gebruik van m
 
 ##### Artikel 8
 
-1. Onze Minister geeft aan een schip, behorende tot een bij of krachtens algemene maatregel van bestuur aan te wijzen categorie schepen, een certificaat af, indien na onderzoek blijkt dat het schip voldoet aan de krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=7&z=2019-12-21&g=2019-12-21) gestelde eisen. In bijzondere gevallen kan Onze Minister de bevoegde autoriteit van een staat die partij is bij het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld, verzoeken een certificaat af te geven.
+1. Onze Minister geeft aan een schip, behorende tot een bij of krachtens algemene maatregel van bestuur aan te wijzen categorie schepen, een certificaat af, indien na onderzoek blijkt dat het schip voldoet aan de krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=7&z=2022-06-01&g=2022-06-01) gestelde eisen. In bijzondere gevallen kan Onze Minister de bevoegde autoriteit van een staat die partij is bij het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld, verzoeken een certificaat af te geven.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
 
@@ -195,7 +193,7 @@ Een havenontvangstvoorziening is zodanig dat aan de schepen die er gebruik van m
 
 - b. de geldigheid van het certificaat en de verlenging van de geldigheidsduur daarvan.
 
-3. De ambtenaren van de Inspectie Verkeer en Waterstaat zijn belast met het verrichten van onderzoeken als bedoeld in het tweede lid, onderdeel a. Deze onderzoeken kunnen tevens geheel of ten dele worden verricht door daartoe door Onze Minister aangewezen natuurlijke personen of rechtspersonen of in bijzondere gevallen, op verzoek van Onze Minister, door de bevoegde autoriteit van een staat die partij is bij het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld.
+3. De ambtenaren van de Inspectie Leefomgeving en Transport zijn belast met het verrichten van onderzoeken als bedoeld in het tweede lid, onderdeel a. Deze onderzoeken kunnen tevens geheel of ten dele worden verricht door daartoe door Onze Minister aangewezen natuurlijke personen of rechtspersonen of in bijzondere gevallen, op verzoek van Onze Minister, door de bevoegde autoriteit van een staat die partij is bij het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld.
 
 4. Aan een aanwijzing als bedoeld in het derde lid kunnen voorschriften worden verbonden.
 
@@ -231,7 +229,7 @@ Een havenontvangstvoorziening is zodanig dat aan de schepen die er gebruik van m
 
 1. Bij of krachtens algemene maatregel van bestuur worden ter bescherming en behoud van het milieu regels gesteld ten aanzien van:
 
-- a. het vervoer van schadelijke stoffen en andere stoffen ten aanzien waarvan krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21), regels zijn gesteld;
+- a. het vervoer van schadelijke stoffen en andere stoffen ten aanzien waarvan krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2022-06-01&g=2022-06-01), regels zijn gesteld;
 
 - b. de verplichtingen van de kapitein aan boord van schepen.
 
@@ -243,7 +241,7 @@ Een havenontvangstvoorziening is zodanig dat aan de schepen die er gebruik van m
 
 ##### Artikel 11
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de zorgplicht van de kapitein van een bij of krachtens die maatregel aangewezen categorie schip ten aanzien van het aan boord bijhouden van een journaal waarin handelingen met betrekking tot het vervoer van schadelijke stoffen, andere stoffen en gedragingen als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21), worden aangetekend, en de daarbij in acht te nemen regels ten aanzien van onder meer de gegevens die moeten worden vermeld, de wijze van vermelding, alsmede de plaats waarop en de periode gedurende welke het journaal dient te worden bewaard.
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de zorgplicht van de kapitein van een bij of krachtens die maatregel aangewezen categorie schip ten aanzien van het aan boord bijhouden van een journaal waarin handelingen met betrekking tot het vervoer van schadelijke stoffen, andere stoffen en gedragingen als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2022-06-01&g=2022-06-01), worden aangetekend, en de daarbij in acht te nemen regels ten aanzien van onder meer de gegevens die moeten worden vermeld, de wijze van vermelding, alsmede de plaats waarop en de periode gedurende welke het journaal dient te worden bewaard.
 
 2. De kapitein van een schip aan boord waarvan een journaal dient te worden bijgehouden is verplicht de bevoegde autoriteiten op hun verzoek inzage in het journaal te verlenen en dient hun toe te staan van elke in het journaal geplaatste aantekening een eensluidend afschrift te maken. Desgevraagd dient de kapitein het afschrift voor eensluidend te waarmerken.
 
@@ -269,7 +267,7 @@ Een havenontvangstvoorziening is zodanig dat aan de schepen die er gebruik van m
 
 4. De exploitant, de kapitein en de eigenaar van gevaarlijke of schadelijke stoffen aan boord, verlenen aan de door Onze Minister aangewezen instantie, desgevraagd hun volledige medewerking om de gevolgen van een incident of ongeval als bedoeld in het tweede lid, onderdeel a, zoveel mogelijk te beperken en verstrekken de informatie over het vervoer van gevaarlijke of verontreinigende stoffen, genoemd in artikel 12, eerste lid, van de richtlijn monitoring- en informatiesysteem zeescheepvaart.
 
-5. De verplichting, bedoeld in het eerste lid, geldt niet indien het uitsluitend een lozing in zee betreft overeenkomstig de regels waaronder lozingen in zee zijn toegestaan bij of krachtens algemene maatregel van bestuur, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21), tenzij het een lozing betreft die het gevolg is van schade aan het schip of aan de uitrusting of die noodzakelijk is om de veiligheid van het schip zeker te stellen of mensenlevens op zee te redden.
+5. De verplichting, bedoeld in het eerste lid, geldt niet indien het uitsluitend een lozing in zee betreft overeenkomstig de regels waaronder lozingen in zee zijn toegestaan bij of krachtens algemene maatregel van bestuur, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2022-06-01&g=2022-06-01), tenzij het een lozing betreft die het gevolg is van schade aan het schip of aan de uitrusting of die noodzakelijk is om de veiligheid van het schip zeker te stellen of mensenlevens op zee te redden.
 
 6. De kapitein voldoet onverwijld aan verzoeken van de bevoegde autoriteit tot het verstrekken van informatie over voorvallen of gebeurtenissen als bedoeld in het eerste lid.
 
@@ -285,9 +283,9 @@ Een havenontvangstvoorziening is zodanig dat aan de schepen die er gebruik van m
 
 ##### Artikel 13
 
-1. Het is verboden met een schip, als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=8&z=2019-12-21&g=2019-12-21) een haven te verlaten indien het schip niet is voorzien van een geldig certificaat.
+1. Het is verboden met een schip, als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=8&z=2022-06-01&g=2022-06-01) een haven te verlaten indien het schip niet is voorzien van een geldig certificaat.
 
-2. Het is verboden met een buitenlands schip als bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=8b&z=2019-12-21&g=2019-12-21) een haven te verlaten indien het schip niet voorzien is van een geldig certificaat of document als bedoeld in [artikel 8b, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=8b&z=2019-12-21&g=2019-12-21).
+2. Het is verboden met een buitenlands schip als bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=8b&z=2022-06-01&g=2022-06-01) een haven te verlaten indien het schip niet voorzien is van een geldig certificaat of document als bedoeld in [artikel 8b, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=8b&z=2022-06-01&g=2022-06-01).
 
 3. Het is verboden om met een schip of een buitenlands schip een haven te verlaten indien dat schip niet is voorzien van alle geldige certificaten of documenten die zijn vereist op grond van een bij ministeriële regeling aangewezen rechtstreeks in al zijn onderdelen verbindend besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk.
 
@@ -309,9 +307,9 @@ Een havenontvangstvoorziening is zodanig dat aan de schepen die er gebruik van m
 
 ##### Artikel 14
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat. Zij oefenen ten aanzien van Nederlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2) hun taak overal ter wereld uit.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport. Zij oefenen ten aanzien van Nederlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2) hun taak overal ter wereld uit.
 
-2. Met het toezicht op de naleving, bedoeld in het eerste lid, zijn voorts belast andere bij regeling van Onze Minister voor bepaalde taken aangewezen personen. Indien dit personen betreft die niet werkzaam zijn onder verantwoordelijkheid van de minister van Verkeer en Waterstaat, behoeft de aanwijzing de instemming van degene onder wiens verantwoordelijkheid zij werken.
+2. Met het toezicht op de naleving, bedoeld in het eerste lid, zijn voorts belast andere bij regeling van Onze Minister voor bepaalde taken aangewezen personen. Indien dit personen betreft die niet werkzaam zijn onder verantwoordelijkheid van Onze Minister, behoeft de aanwijzing de instemming van degene onder wiens verantwoordelijkheid zij werken.
 
 3. Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -331,9 +329,7 @@ Vervallen
 
 ##### Artikel 18
 
-1. Bij regeling van Onze Minister wordt het aantal jaarlijks door de ambtenaren van de Inspectie Verkeer en Waterstaat op de naleving van de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12b&z=2019-12-21&g=2019-12-21) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12c&z=2019-12-21&g=2019-12-21) te inspecteren schepen vastgesteld.
-
-2. Bij de vaststelling van het in het eerste lid bedoelde aantal schepen, blijven pleziervaartuigen waarmee ten hoogste 12 passagiers mogen worden vervoerd en vissersvaartuigen buiten beschouwing.
+Bij regeling van Onze Minister wordt het aantal jaarlijks door de ambtenaren van de Inspectie Leefomgeving en Transport op de naleving van de [artikelen 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12b&z=2022-06-01&g=2022-06-01) en [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12c&z=2022-06-01&g=2022-06-01) te inspecteren schepen vastgesteld.
 
 ##### Artikel 19
 
@@ -343,23 +339,23 @@ Vervallen
 
 ##### Artikel 20
 
-1. Een ambtenaar van de Inspectie Verkeer en Waterstaat is bevoegd een schip aan te houden:
+1. Een ambtenaar van de Inspectie Leefomgeving en Transport is bevoegd een schip aan te houden:
 
-- a. indien het schip niet is voorzien van alle, krachtens [artikel 13, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&artikel=13&z=2019-12-21&g=2019-12-21), vereiste geldige certificaten of documenten;
+- a. indien het schip niet is voorzien van alle, krachtens [artikel 13, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=5&artikel=13&z=2022-06-01&g=2022-06-01), vereiste geldige certificaten of documenten;
 
 - b. indien de ambtenaar constateert dat het schip niet voldoet aan de voor de verkrijging van die certificaten gestelde eisen;
 
 - c. indien het schip zodanig is gebouwd, ingericht of uitgerust dat het een gevaar vormt voor het milieu;
 
-- d. indien aan boord van het schip niet wordt voldaan aan de krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=10&z=2019-12-21&g=2019-12-21), gestelde regels;
+- d. indien aan boord van het schip niet wordt voldaan aan de krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-06-01&g=2022-06-01), gestelde regels;
 
-- e. indien hij gegronde redenen heeft om aan te nemen dat de kapitein in strijd met [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12b&z=2019-12-21&g=2019-12-21), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12c&z=2019-12-21&g=2019-12-21), [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12d&z=2019-12-21&g=2019-12-21), dan wel [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12e&z=2019-12-21&g=2019-12-21) handelt dan wel zal handelen;
+- e. indien hij gegronde redenen heeft om aan te nemen dat de kapitein in strijd met [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12b&z=2022-06-01&g=2022-06-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12c&z=2022-06-01&g=2022-06-01), [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12d&z=2022-06-01&g=2022-06-01), dan wel [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12e&z=2022-06-01&g=2022-06-01) handelt dan wel zal handelen;
 
-- f. indien met betrekking tot het schip door de bevoegde autoriteiten van de betreffende staat is gemeld dat het aldaar vermoedelijk is uitgevaren, zonder dat was voldaan aan de in die staat ter uitvoering van de artikelen 7 en 10 van de richtlijn havenontvangstvoorzieningen gestelde regels;
+- f. indien met betrekking tot het schip door de bevoegde autoriteiten van de betreffende staat is gemeld dat het aldaar vermoedelijk is uitgevaren, zonder dat was voldaan aan de in die staat ter uitvoering van artikel 7 van de richtlijn havenontvangstvoorzieningen gestelde regels;
 
 - g. indien het schip niet is voorzien van alle geldige certificaten of documenten die zijn vereist op grond van een bij ministeriële regeling aangewezen rechtstreeks in al zijn onderdelen verbindend besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk met betrekking tot de voorkoming van verontreiniging door schepen;
 
-- h. in bij ministeriële regeling te bepalen gevallen en voorzover het een buitenlands schip betreft dat zich in een Nederlandse haven bevindt: wegens het niet voldoen aan krachtens de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=7&z=2019-12-21&g=2019-12-21), [8b, eerste of tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=8b&z=2019-12-21&g=2019-12-21), of [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=10&z=2019-12-21&g=2019-12-21), gestelde regels;
+- h. in bij ministeriële regeling te bepalen gevallen en voorzover het een buitenlands schip betreft dat zich in een Nederlandse haven bevindt: wegens het niet voldoen aan krachtens de [artikelen 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=7&z=2022-06-01&g=2022-06-01), [8b, eerste of tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=8b&z=2022-06-01&g=2022-06-01), of [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-06-01&g=2022-06-01), gestelde regels;
 
 - i. indien de ambtenaar wordt belemmerd in de uitoefening van zijn taak.
 
@@ -369,25 +365,25 @@ Vervallen
 
 ##### Artikel 21
 
-Een ambtenaar van de Inspectie Verkeer en Waterstaat is bevoegd een buitenlands schip, dat zich in een Nederlandse haven bevindt en dat de vlag voert van een staat die partij is het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld, aan te houden indien daartoe een verzoek wordt gedaan door de bevoegde autoriteiten van de vlaggestaat van dit schip wegens een overtreding van de in die staat ter uitvoering van het desbetreffende verdrag gestelde wettelijke regels.
+Een ambtenaar van de Inspectie Leefomgeving en Transport is bevoegd een buitenlands schip, dat zich in een Nederlandse haven bevindt en dat de vlag voert van een staat die partij is het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld, aan te houden indien daartoe een verzoek wordt gedaan door de bevoegde autoriteiten van de vlaggenstaat van dit schip wegens een overtreding van de in die staat ter uitvoering van het desbetreffende verdrag gestelde wettelijke regels.
 
 ##### Artikel 21a
 
-[Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in de[artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=20&z=2019-12-21&g=2019-12-21) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=21&z=2019-12-21&g=2019-12-21) bedoelde bevoegdheid.
+[Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in de[artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=20&z=2022-06-01&g=2022-06-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=21&z=2022-06-01&g=2022-06-01) bedoelde bevoegdheid.
 
 ##### Artikel 22
 
 1. In afwijking van [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) geschiedt de bekendmaking van een besluit tot aanhouding door uitreiking van dit besluit aan de kapitein.
 
-2. Indien uitreiking aan de kapitein niet mogelijk is, geschiedt de bekendmaking van een besluit tot aanhouding door uitreiking van dit besluit aan de naar het oordeel van de ambtenaar van de Inspectie Verkeer en Waterstaat daarvoor meest gerede persoon, zo spoedig mogelijk gevolgd door kennisgeving van het besluit aan de kapitein.
+2. Indien uitreiking aan de kapitein niet mogelijk is, geschiedt de bekendmaking van een besluit tot aanhouding door uitreiking van dit besluit aan de naar het oordeel van de ambtenaar van de Inspectie Leefomgeving en Transport daarvoor meest gerede persoon, zo spoedig mogelijk gevolgd door kennisgeving van het besluit aan de kapitein.
 
-3. De ambtenaar van de Inspectie Verkeer en Waterstaat stelt de havenbeheerder en de naar zijn oordeel daarvoor in aanmerking komende diensten onverwijld in kennis van de aanhouding en van de omstandigheden die tot de aanhouding hebben geleid.
+3. De ambtenaar van de Inspectie Leefomgeving en Transport stelt de havenbeheerder en de naar zijn oordeel daarvoor in aanmerking komende diensten onverwijld in kennis van de aanhouding en van de omstandigheden die tot de aanhouding hebben geleid.
 
 ##### Artikel 23
 
-1. De kapitein van een aangehouden schip is verplicht zijn schip na de aanhouding ligplaats te doen nemen op de door een ambtenaar van de Inspectie Verkeer en Waterstaat in overeenstemming met de havenbeheerder aan te wijzen plaats.
+1. De kapitein van een aangehouden schip is verplicht zijn schip na de aanhouding ligplaats te doen nemen op de door een ambtenaar van de Inspectie Leefomgeving en Transport in overeenstemming met de havenbeheerder aan te wijzen plaats.
 
-2. Zolang de aanhouding voortduurt is het de kapitein verboden het schip te doen verplaatsen zonder voorafgaande toestemming van een ambtenaar van de Inspectie Verkeer en Waterstaat.
+2. Zolang de aanhouding voortduurt is het de kapitein verboden het schip te doen verplaatsen zonder voorafgaande toestemming van een ambtenaar van de Inspectie Leefomgeving en Transport.
 
 3. Zonder deze toestemming weigeren alle betrokken ambtenaren hun medewerking bij het verplaatsen en het uitklaren van het schip.
 
@@ -399,17 +395,17 @@ Een ambtenaar van de Inspectie Verkeer en Waterstaat is bevoegd een buitenlands 
 
 ##### Artikel 24
 
-De ambtenaren van de Inspectie Verkeer en Waterstaat zijn bevoegd ter uitvoering en handhaving van de aanhouding de nodige maatregelen te nemen en de nodige aanwijzingen te geven.
+De ambtenaren van de Inspectie Leefomgeving en Transport zijn bevoegd ter uitvoering en handhaving van de aanhouding de nodige maatregelen te nemen en de nodige aanwijzingen te geven.
 
 ##### Artikel 25
 
-1. Zodra er geen reden is de aanhouding langer te laten voortduren, heft de ambtenaar van de Inspectie Verkeer en Waterstaat de aanhouding op.
+1. Zodra er geen reden is de aanhouding langer te laten voortduren, heft de ambtenaar van de Inspectie Leefomgeving en Transport de aanhouding op.
 
-2. Op de opheffing van een aanhouding is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=22&z=2019-12-21&g=2019-12-21) van overeenkomstige toepassing.
+2. Op de opheffing van een aanhouding is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=22&z=2022-06-01&g=2022-06-01) van overeenkomstige toepassing.
 
 ##### Artikel 26
 
-De[artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=22&z=2019-12-21&g=2019-12-21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=24&z=2019-12-21&g=2019-12-21) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=25&z=2019-12-21&g=2019-12-21) zijn van overeenkomstige toepassing op een buitenlands schip dat zich in een Nederlandse haven bevindt, met dien verstande, dat van de aanhouding en de opheffing daarvan tevens de consul of de diplomatieke vertegenwoordiger en, bij diens afwezigheid, de regering van de Staat waarvan het schip de vlag voert, onverwijld op de hoogte wordt gesteld.
+De[artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=22&z=2022-06-01&g=2022-06-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=24&z=2022-06-01&g=2022-06-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=25&z=2022-06-01&g=2022-06-01) zijn van overeenkomstige toepassing op een buitenlands schip dat zich in een Nederlandse haven bevindt, met dien verstande, dat van de aanhouding en de opheffing daarvan tevens de consul of de diplomatieke vertegenwoordiger en, bij diens afwezigheid, de regering van de Staat waarvan het schip de vlag voert, onverwijld op de hoogte wordt gesteld.
 
 ### Hoofdstuk V. Verdere bepalingen
 
@@ -417,7 +413,7 @@ De[artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&pa
 
 ##### Artikel 27
 
-1. Tegen besluiten van een ambtenaar als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=1&artikel=14&z=2019-12-21&g=2019-12-21), kan iedere belanghebbende beroep instellen bij Onze Minister.
+1. Tegen besluiten van een ambtenaar als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=1&artikel=14&z=2022-06-01&g=2022-06-01), kan iedere belanghebbende beroep instellen bij Onze Minister.
 
 2. [Artikel 6:5, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) is niet van toepassing op beroepschriften in de Engelse taal.
 
@@ -443,7 +439,7 @@ Vervallen
 
 ##### Artikel 30
 
-1. Onze Minister kan organisaties of personen machtigen bepaalde door hem aangewezen werkzaamheden ten behoeve van de Inspectie Verkeer en Waterstaat te verrichten.
+1. Onze Minister kan organisaties of personen machtigen bepaalde door hem aangewezen werkzaamheden ten behoeve van de Inspectie Leefomgeving en Transport te verrichten.
 
 2. Een krachtens het eerste lid vastgesteld besluit wordt in de **Nederlandse Staatscourant** bekendgemaakt.
 
@@ -463,7 +459,7 @@ Vervallen
 
 ##### Artikel 34
 
-In bijzondere gevallen kan Onze Minister aan een schip, dat niet is voorzien van een geldig certificaat, als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&artikel=13&z=2019-12-21&g=2019-12-21), ontheffing verlenen van het in dat artikel genoemde verbod:
+In bijzondere gevallen kan Onze Minister aan een schip, dat niet is voorzien van een geldig certificaat, als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=5&artikel=13&z=2022-06-01&g=2022-06-01), ontheffing verlenen van het in dat artikel genoemde verbod:
 
 - a. indien hem genoegzaam is gebleken dat het schip voldoet aan de voor de verkrijging van dat certificaat gestelde eisen;
 
@@ -471,9 +467,9 @@ In bijzondere gevallen kan Onze Minister aan een schip, dat niet is voorzien van
 
 ##### Artikel 35
 
-1. Bij regeling van Onze Minister kan voor schepen van een bepaalde categorie, met inachtneming van hetgeen dienaangaande in het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld is bepaald, zonodig onder het geven van voorschriften en beperkingen, vrijstelling worden verleend van één of meer van de bij of krachtens de [artikelen 5, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=7&z=2019-12-21&g=2019-12-21) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=10&z=2019-12-21&g=2019-12-21) gestelde eisen.
+1. Bij regeling van Onze Minister kan voor schepen van een bepaalde categorie, met inachtneming van hetgeen dienaangaande in het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld is bepaald, zonodig onder het geven van voorschriften en beperkingen, vrijstelling worden verleend van één of meer van de bij of krachtens de [artikelen 5, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2022-06-01&g=2022-06-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=7&z=2022-06-01&g=2022-06-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-06-01&g=2022-06-01) gestelde eisen.
 
-2. Onze Minister is bevoegd om in bijzondere gevallen, met inachtneming van hetgeen dienaangaande in het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld is bepaald, zo nodig onder het geven van voorschriften en beperkingen, een ontheffing te verlenen van de bij of krachtens de [artikelen 5, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=7&z=2019-12-21&g=2019-12-21), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=10&z=2019-12-21&g=2019-12-21) of [12c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12c&z=2019-12-21&g=2019-12-21), gestelde eisen.
+2. Onze Minister is bevoegd om in bijzondere gevallen, met inachtneming van hetgeen dienaangaande in het Verdrag of een ander bij of krachtens algemene maatregel van bestuur aangewezen verdrag ter uitvoering waarvan krachtens deze wet regels worden gesteld is bepaald, zo nodig onder het geven van voorschriften en beperkingen, een ontheffing te verlenen van de bij of krachtens de [artikelen 5, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2022-06-01&g=2022-06-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=7&z=2022-06-01&g=2022-06-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-06-01&g=2022-06-01) of [12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12c&z=2022-06-01&g=2022-06-01), gestelde eisen.
 
 3. Een gedraging in strijd met de in het eerste of tweede lid bedoelde voorschriften en beperkingen is verboden.
 
@@ -485,7 +481,7 @@ Vervallen
 
 ##### Artikel 37
 
-1. Bij vermoeden van overtreding van een voorschrift, gesteld bij of krachtens de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=10&z=2019-12-21&g=2019-12-21), [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=11&z=2019-12-21&g=2019-12-21), [12, eerste, tweede, vierde, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12&z=2019-12-21&g=2019-12-21), [12a, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12a&z=2019-12-21&g=2019-12-21), [12b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12b&z=2019-12-21&g=2019-12-21), [12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12c&z=2019-12-21&g=2019-12-21), [12d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12d&z=2019-12-21&g=2019-12-21), [12e, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12e&z=2019-12-21&g=2019-12-21), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&artikel=13&z=2019-12-21&g=2019-12-21), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=23&z=2019-12-21&g=2019-12-21), [35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=V&paragraaf=4&artikel=35&z=2019-12-21&g=2019-12-21), [35a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=V&paragraaf=4&artikel=35a&z=2019-12-21&g=2019-12-21), en [36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=VI&artikel=36a&z=2019-12-21&g=2019-12-21), kan aan de kapitein bevel worden gegeven dat hij zich begeeft naar een Nederlandse haven of dat het schip een Nederlandse haven of een Nederlands binnenwater niet zal verlaten dan nadat op een bij dat bevel aan te wijzen plaats een daarbij te bepalen geldsom is gestort, waarop een ter zake van dat strafbare feit op te leggen geldboete zal kunnen worden verhaald. Het bevel wordt zonodig met behulp van de sterke arm gehandhaafd.
+1. Bij vermoeden van overtreding van een voorschrift, gesteld bij of krachtens de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2022-06-01&g=2022-06-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=6&z=2022-06-01&g=2022-06-01), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-06-01&g=2022-06-01), [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4a&artikel=11&z=2022-06-01&g=2022-06-01), [12, eerste, tweede, vierde, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12&z=2022-06-01&g=2022-06-01), [12a, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12a&z=2022-06-01&g=2022-06-01), [12b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12b&z=2022-06-01&g=2022-06-01), [12c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12c&z=2022-06-01&g=2022-06-01), [12d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12d&z=2022-06-01&g=2022-06-01), [12e, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12e&z=2022-06-01&g=2022-06-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=5&artikel=13&z=2022-06-01&g=2022-06-01), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=IV&paragraaf=2&artikel=23&z=2022-06-01&g=2022-06-01), [35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=V&paragraaf=4&artikel=35&z=2022-06-01&g=2022-06-01), [35a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=V&paragraaf=4&artikel=35a&z=2022-06-01&g=2022-06-01), en [36a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=VI&artikel=36a&z=2022-06-01&g=2022-06-01), kan aan de kapitein bevel worden gegeven dat hij zich begeeft naar een Nederlandse haven of dat het schip een Nederlandse haven of een Nederlands binnenwater niet zal verlaten dan nadat op een bij dat bevel aan te wijzen plaats een daarbij te bepalen geldsom is gestort, waarop een ter zake van dat strafbare feit op te leggen geldboete zal kunnen worden verhaald. Het bevel wordt zonodig met behulp van de sterke arm gehandhaafd.
 
 2. Het in het eerste lid bedoelde bevel wordt op vordering van de Officier van Justitie gegeven door de rechter voor wie de zaak wordt of zal worden vervolgd. De kapitein wordt vooraf gehoord of althans behoorlijk opgeroepen.
 
@@ -505,17 +501,15 @@ Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van verdra
 
 ##### Artikel 39
 
-1. Een voordracht voor een algemene maatregel van bestuur krachtens deze wet wordt gedaan door Onze Minister.
-
-2. Voorzover een algemene maatregel van bestuur bepalingen bevat krachtens de [artikelen 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=I&artikel=1&z=2019-12-21&g=2019-12-21), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21) of [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6a&z=2019-12-21&g=2019-12-21), wordt de voordracht ten aanzien van die bepalingen gedaan door Onze Minister, mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
+Vervallen
 
 ##### Artikel 40
 
-1. De kosten die samenhangen met de behandeling van de aanvraag en de afgifte van certificaten, ontheffingen als bedoeld in [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=V&paragraaf=4&artikel=35a&z=2019-12-21&g=2019-12-21) en de overige documenten die bij of krachtens deze wet worden afgegeven, alsmede duplicaten en gewaarmerkte afschriften van deze documenten, alsmede de kosten van onderzoeken en andere werkzaamheden ten behoeve van schepen voorzover verricht door ambtenaren van de Inspectie Verkeer en Waterstaat, worden ten laste gebracht van de aanvrager van het document.
+1. De kosten die samenhangen met de behandeling van de aanvraag en de afgifte van certificaten, ontheffingen en de overige documenten die bij of krachtens deze wet worden afgegeven, alsmede duplicaten en gewaarmerkte afschriften van deze documenten, alsmede de kosten van onderzoeken en andere werkzaamheden ten behoeve van schepen voorzover verricht door ambtenaren van de Inspectie Leefomgeving en Transport, worden ten laste gebracht van de aanvrager van het document.
 
 2. De tarieven ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld.
 
-3. In de regeling, bedoeld in het tweede lid, kan worden bepaald dat de vergoeding van kosten voorafgaand aan de behandeling van de aanvraag en de afgifte van certificaten, ontheffingen als bedoeld in [artikel 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=V&paragraaf=4&artikel=35a&z=2019-12-21&g=2019-12-21) en de overige documenten die bij of krachtens deze wet worden afgegeven, alsmede duplicaten en gewaarmerkte afschriften van deze documenten, of in termijnen wordt betaald.
+3. In de regeling, bedoeld in het tweede lid, kan worden bepaald dat de vergoeding van kosten voorafgaand aan de behandeling van de aanvraag en de afgifte van certificaten, ontheffingen en de overige documenten die bij of krachtens deze wet worden afgegeven, alsmede duplicaten en gewaarmerkte afschriften van deze documenten, of in termijnen wordt betaald.
 
 ##### Artikel 41
 
@@ -523,7 +517,7 @@ Voor zover op grond van de Overeenkomst inzake de Europese Economische Ruimte de
 
 ##### Artikel 42
 
-Deze wet is niet van toepassing op het lozen en overige gedragingen vanaf of aan boord van schepen als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21), voorzover daaromtrent voorschriften zijn gesteld bij of krachtens de [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.6) juncto [artikel 6.3 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.3).
+Deze wet is niet van toepassing op het lozen en overige gedragingen vanaf of aan boord van schepen als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2022-06-01&g=2022-06-01), voorzover daaromtrent voorschriften zijn gesteld bij of krachtens de [artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.6) juncto [artikel 6.3 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.3).
 
 ##### Artikel 43
 
@@ -541,31 +535,29 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 6a
 
-1. De havenbeheerder heft van de exploitant van een schip dat zijn haven aandoet, niet zijnde een pleziervaartuig waarmee niet meer dan twaalf passagiers mogen worden vervoerd of vissersvaartuig, bij iedere aanloop van dat schip een bijdrage in de kosten van het in die haven in ontvangst nemen, opslaan en verwerken van scheepsafval.
+1. De beheerder van een bij of krachtens algemene maatregel van bestuur aangewezen haven stelt, na overleg met de betrokken partijen, in het bijzonder de havengebruikers, een havenafvalplan vast voor de ontvangst en verwerking van scheepsafvalstoffen.
 
-2. De hoogte van de bijdrage wordt door de havenbeheerder vastgesteld. Hij doet dit zodanig dat de som van de jaarlijks geheven bijdragen tenminste gelijk is aan het bij regeling van Onze Minister te bepalen percentage van de totale jaarlijkse kosten van het in ontvangst nemen, opslaan en verwerken van scheepsafval in de desbetreffende haven. De havenbeheerder maakt de bijdragen alsmede de grondslagen ervan bekend in het havenafvalplan. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de hoogte van de bijdrage van schepen die door hun milieuzorgsysteem, het ontwerp, de uitrusting of de exploitatie aantoonbaar minder scheepsafval produceren.
+2. Twee of meer havenbeheerders kunnen gezamenlijk een havenafvalplan vaststellen, mits daarin de behoefte aan en de beschikbaarheid van havenontvangstvoorzieningen voor elke haven apart worden vermeld.
 
-3. Het voldoen van de bijdrage geeft de kapitein van het schip het niet overdraagbare recht gedurende het verblijf van het schip in de desbetreffende haven scheepsafval af te geven bij een houder van een havenontvangstvoorziening zonder daarvoor een afzonderlijke vergoeding verschuldigd te zijn. De havenbeheerder kan de hoeveelheid, de eigenschappen en de wijze van afgifte van het desbetreffende scheepsafval bepalen, indien het krachtens het tweede lid bepaalde percentage minder bedraagt dan 100%.
+3. Een havenafvalplan of een besluit tot verlenging van de geldigheidsduur ervan behoeft de goedkeuring van Onze Minister of van een bij algemene maatregel van bestuur aangewezen ander bestuursorgaan.
 
-4. De havenbeheerder gaat met de desbetreffende houder van een havenontvangstvoorziening een overeenkomst aan met betrekking tot het overeenkomstig het derde lid af te geven scheepsafval.
-
-5. De havenbeheerder betaalt de kosten met betrekking tot de verwerking van het scheepsafval niet eerder dan na ontvangst van een verklaring van verwerking. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot deze verificatie.
-
-6. De exploitant van een schip vergoedt aan de houder van de havenontvangstvoorziening de kosten van het in ontvangst nemen, opslaan en verwerken van het door de kapitein van dat schip bij de houder afgegeven scheepsafval, schadelijke stoffen of restanten van schadelijke stoffen, voor zover het niet het krachtens het derde lid afgegeven scheepsafval betreft.
-
-7. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van de pleziervaartuigen of vissersvaartuigen, bedoeld in het eerste lid, regels worden gesteld, waarbij de exploitant van een schip aan de beheerder of beheerders van één of meer van de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), bedoelde havens een periodieke vergoeding is verschuldigd, ongeacht het aantal malen dat het schip één of meer van die havens aandoet.
-
-8. Dit artikel is ook van toepassing op buitenlandse schepen.
+4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over het havenafvalplan, waaronder regels over de inhoud, de totstandkoming, de publicatie en de geldigheidsduur ervan.
 
 ##### Artikel 6b
 
-Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de ontvangst en de behandeling van klachten over vermeende ontoereikendheid van havenontvangstvoorzieningen. Bij of krachtens deze maatregel kunnen taken aan de havenbeheerder en aan de inspecteur-generaal worden opgedragen.
+1. Iedere havenbeheerder of houder van een havenontvangstvoorziening verstrekt bij de afgifte van scheepsafvalstoffen door de kapitein van een schip een afvalontvangstbewijs aan de kapitein van het schip.
+
+2. De exploitant, agent of kapitein van een schip dat onder richtlijn monitoring- en informatiesysteem zeescheepvaart valt is verantwoordelijk dat de informatie van het afvalontvangstbewijs elektronisch wordt gemeld aan SafeSeaNet.
+
+3. Onze Minister kan een havenbeheerder of houder van een onbemande havenontvangstvoorziening ontheffing verlenen van de verplichting, bedoeld in het eerste lid.
+
+4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het afvalontvangstbewijs, de melding aan SafeSeaNet en de ontheffing.
 
 #### § 2. Regelen voor schepen
 
 ##### Artikel 8b
 
-1. Bij ministeriële regeling kan ter uitvoering van een besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk ten aanzien van buitenlandse schepen worden bepaald dat het voldoen aan de in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=7&z=2019-12-21&g=2019-12-21), bedoelde regels blijkt uit:
+1. Bij ministeriële regeling kan ter uitvoering van een besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk ten aanzien van buitenlandse schepen worden bepaald dat het voldoen aan de in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=7&z=2022-06-01&g=2022-06-01), bedoelde regels blijkt uit:
 
 - a. een certificaat of document afgegeven door of namens de bevoegde autoriteiten van de Staat wiens vlag het schip gerechtigd is te voeren, of door of namens andere buitenlandse autoriteiten;
 
@@ -579,7 +571,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrek
 
 - c. de geldigheid van het certificaat of document en de verlenging van de geldigheidsduur daarvan.
 
-3. Met het verrichten van onderzoeken als bedoeld in het tweede lid, onderdeel a, zijn belast de ambtenaren van de Inspectie Verkeer en Waterstaat.
+3. Met het verrichten van onderzoeken als bedoeld in het tweede lid, onderdeel a, zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport.
 
 ##### Artikel 10a
 
@@ -597,47 +589,37 @@ Indien noodzakelijk voor de goede toepassing van een rechtstreeks in al zijn ond
 
 ##### Artikel 12a
 
-1. De kapitein van een schip dat op weg is naar een haven die is aangewezen krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), verstrekt ten minste 24 uur voor aankomst de havenbeheerder waarheidsgetrouw de bij regeling van Onze Minister in het belang van de doelmatigheid van havenontvangstvoorzieningen en de doeltreffende planning van het afvalbeheer aan te wijzen gegevens. Bij die regeling worden nadere regels gesteld met betrekking tot de wijze van verstrekking van de gegevens.
+1. De exploitant, agent of kapitein van een schip dat onder de richtlijn monitoring- en informatiesystemen zeescheepvaart valt en op weg is naar een op basis van deze richtlijn bij ministeriële regeling aangewezen haven meldt de bij die regeling aan te wijzen gegevens aan de havenbeheerder. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het tijdstip en de wijze van verstrekking van de gegevens en over het bewaren van en geven van inzage in de gegevens.
 
-2. Voor zover de bestemming niet ten minste 24 uur voor aankomst bekend is, verstrekt de kapitein van dat schip de in het eerste lid bedoelde gegevens, zodra de bestemming bekend is, doch uiterlijk bij vertrek uit de vorige haven, indien de duur van de reis minder dan 24 uur bedraagt.
+2. In bij of krachtens algemene maatregel van bestuur aangewezen gevallen en onder daarin gestelde voorwaarden kan Onze Minister de exploitant van een schip ontheffing verlenen van de verplichting, bedoeld in het eerste lid.
 
-3. De kapitein bewaart de in het eerste lid bedoelde gegevens in ieder geval tot de volgende aanloophaven aan boord en geeft die desgevraagd ter inzage aan de bevoegde autoriteiten van de lidstaat van de Europese Unie, waarin die volgende aanloophaven is gelegen.
+3. De havenbeheerder houdt een registratie bij van de op basis van het eerste lid verstrekte gegevens. Hij verstrekt de gegevens uit deze registratie, dan wel inlichtingen omtrent deze gegevens, desgevraagd aan Onze Minister. De havenbeheerder informeert Onze Minister onverwijld omtrent de gevallen waarin een kapitein van een schip geen gegevens verstrekt.
 
-4. De kapitein van een schip dat vanuit een haven van een lidstaat van de Europese Unie, op weg is naar een haven die is aangewezen krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), bewaart aan boord de gegevens die ter uitvoering van de richtlijn havenontvangstvoorzieningen, al dan niet door tussenkomst van de houder van een havenontvangstvoorziening zijn gemeld aan de daartoe aangewezen bevoegde autoriteit en geeft deze desgevraagd aan Onze Minister ter inzage. De kapitein bewaart deze gegevens in ieder geval tot de eerstvolgende buiten Nederland gelegen aanloophaven aan boord.
-
-5. De havenbeheerder bewaart de aan hem verstrekte gegevens. [Artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), is van overeenkomstige toepassing. De havenbeheerder informeert Onze Minister onverwijld omtrent de gevallen waarin een kapitein van een schip na daartoe strekkend verzoek geen gegevens verstrekt.
-
-6. Het eerste, tweede, vierde en vijfde lid zijn ook van toepassing op buitenlandse schepen.
-
-7. Dit artikel is niet van toepassing op pleziervaartuigen waarmee niet meer dan 12 passagiers mogen worden vervoerd en vissersvaartuigen.
+4. Dit artikel is ook van toepassing op buitenlandse schepen. Hetzelfde geldt voor de op grond van dit artikel gestelde regels, tenzij daarbij anders is bepaald.
 
 ##### Artikel 12b
 
-1. De kapitein van een schip dat een haven aandoet die is aangewezen krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), geeft voor vertrek van het schip al het scheepsafval af bij een havenontvangstvoorziening.
+1. De kapitein van een schip dat een haven aandoet geeft voor vertrek van het schip uit de haven alle scheepsafvalstoffen af bij een havenontvangstvoorziening overeenkomstig de toepasselijke lozings- en afgiftenormen van het Verdrag.
 
-2. In afwijking van het eerste lid kan de kapitein van afgifte afzien, indien mede uit de op grond van [artikel 12a, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12a&z=2019-12-21&g=2019-12-21), gemelde gegevens blijkt dat:
+2. Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen en onder welke voorwaarden een schip kan doorvaren naar een volgende aanloophaven zonder alle scheepsafvalstoffen af te geven, met dien verstande dat geen maatregelen worden getroffen die in strijd zijn met de voorschriften van Bijlage II bij het Verdrag.
 
-- a. in de volgende aanloophaven een voldoende havenontvangstvoorziening geschikt voor het in ontvangst nemen van al het scheepsafval beschikbaar is, en,
+3. In bij of krachtens algemene maatregel van bestuur aangewezen gevallen en onder daarin gestelde voorwaarden kan Onze Minister de exploitant van een schip ontheffing verlenen van de verplichting, bedoeld in het eerste lid.
 
-- b. er aan boord van het schip voldoende afzonderlijke opslagcapaciteit beschikbaar is voor al het scheepsafval dat reeds aan boord is en nog tijdens de voorgenomen reis van het schip naar deze haven zal ontstaan.
-
-3. Dit artikel is ook van toepassing op buitenlandse schepen.
+4. Dit artikel en de op grond van het tweede lid gestelde regels zijn ook van toepassing op buitenlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
 
 ##### Artikel 12c
 
-1. De kapitein van een schip dat een haven aandoet die is aangewezen krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), geeft de bij of krachtens algemene maatregel van bestuur aan te wijzen schadelijke stoffen dan wel restanten van schadelijke stoffen af bij een havenontvangstvoorziening.
+1. De kapitein van een schip dat een bij of krachtens algemene maatregel van bestuur aangewezen haven aandoet, voldoet aan de bij of krachtens algemene maatregel van bestuur te stellen regels ten aanzien van het voorwassen van een tank waaruit schadelijke stoffen zijn gelost.
 
-2. De kapitein van een schip als bedoeld in het eerste lid, voldoet aan de bij of krachtens algemene maatregel van bestuur te stellen regels ten aanzien van het voorwassen van een tank waaruit schadelijke stoffen zijn gelost.
-
-3. Dit artikel is ook van toepassing op buitenlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
+2. Dit artikel is ook van toepassing op buitenlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
 
 ##### Artikel 12d
 
-1. De kapitein van een schip dat een haven aandoet waar overwegend gelegenheid wordt geboden voor het aanleggen, afmeren of afgemeerd houden van zeegaande pleziervaartuigen en die niet is aangewezen krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), geeft voor vertrek van het schip al het scheepsafval af bij de daartoe bestemde voorziening.
+1. De kapitein van een schip dat een haven aandoet die gewoonlijk wordt aangedaan door zeegaande pleziervaartuigen en die niet is aangewezen bij of krachtens algemene maatregel van bestuur, geeft voor vertrek van het schip alle scheepsafvalstoffen af bij de daartoe bestemde voorziening.
 
-2. In afwijking van het eerste lid kan de kapitein van afgifte afzien, indien aan boord van het schip voldoende afzonderlijke opslagcapaciteit beschikbaar is voor al het scheepsafval dat reeds aan boord is en nog tijdens de voorgenomen reis van het schip zal ontstaan.
+2. De op grond van [artikel 12b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12b&z=2022-06-01&g=2022-06-01), gestelde regels zijn van overeenkomstige toepassing.
 
-3. Dit artikel is ook van toepassing op buitenlandse schepen en schepen als bedoeld in artikel 2 van de Vaartuigenwet 1930 BES.
+3. Dit artikel is ook van toepassing op buitenlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
 
 #### § 4. Verlaten van een haven
 
@@ -645,7 +627,7 @@ Indien noodzakelijk voor de goede toepassing van een rechtstreeks in al zijn ond
 
 #### § 1. Toezicht
 
-#### § 2. Aanhouding
+#### § 5. Verlaten van een haven
 
 ### Hoofdstuk V. Verdere bepalingen
 
@@ -659,19 +641,7 @@ Indien noodzakelijk voor de goede toepassing van een rechtstreeks in al zijn ond
 
 ##### Artikel 35a
 
-1. Onze Minister kan op verzoek van de exploitant geheel of gedeeltelijk ontheffing verlenen van het bepaalde bij of krachtens de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6a&z=2019-12-21&g=2019-12-21), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12a&z=2019-12-21&g=2019-12-21) of [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12b&z=2019-12-21&g=2019-12-21), indien:
-
-- a. het een schip betreft dat volgens een dienstregeling veelvuldig en regelmatig bepaalde havens aandoet;
-
-- b. genoegzaam is aangetoond dat er een regeling is getroffen voor de afgifte van scheepsafval in een volgens die dienstregeling aan te lopen haven, en
-
-- b. voor die afgifte voldoende bijdragen zijn verschuldigd.
-
-2. Een ontheffing als bedoeld in het eerste lid kan onder beperkingen worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden.
-
-3. Een gedraging in strijd met de in het tweede lid bedoelde beperkingen en voorschriften is verboden.
-
-4. Dit artikel is ook van toepassing op buitenlandse schepen.
+Vervallen
 
 ### Hoofdstuk VI. Straf- en verbodsbepalingen en borgsom
 
@@ -683,7 +653,7 @@ Vervallen
 
 ##### Artikel 43a
 
-1. Een wijziging van het Verdrag gaat voor de toepassing van deze wet gelden, met ingang van de dag waarop die wijziging voor Nederland in werking treedt, tenzij bij besluit van Onze Minister anders wordt bepaald.
+1. Een wijziging van het Verdrag gaat voor de toepassing van deze wet of de daarop berustende bepalingen gelden met ingang van de dag waarop die wijziging voor Nederland in werking treedt, tenzij bij besluit van Onze Minister anders wordt bepaald.
 
 2. Een besluit als bedoeld in het eerste lid wordt in de Staatscourant bekend gemaakt.
 
@@ -691,13 +661,13 @@ Vervallen
 
 ##### Artikel 43b
 
-Met betrekking tot sanitair afval is artikel 1, onderdeel n, eerst van toepassing twaalf maanden na de datum van inwerkingtreding van Bijlage IV bij het Verdrag voor de desbetreffende categorie van schepen.
+Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 36a
 
-1. Het is verboden te handelen in strijd met bij regeling van Onze Minister, in overeenstemming met Onze Minister van Justitie, aan te wijzen bepalingen van een rechtstreeks in al zijn onderdelen verbindend besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk met betrekking tot de voorkoming van verontreiniging door schepen.
+1. Het is verboden te handelen in strijd met bij regeling van Onze Minister, in overeenstemming met Onze Minister van Justitie en Veiligheid, aan te wijzen bepalingen van een rechtstreeks in al zijn onderdelen verbindend besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk met betrekking tot de voorkoming van verontreiniging door schepen.
 
 2. Het verbod, bedoeld in het eerste lid, is ook van toepassing op buitenlandse schepen in Europese wateren onder Nederlandse jurisdictie, voorzover het desbetreffende besluit van toepassing is in die wateren.
 
@@ -711,9 +681,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 36
 
-1. De Nederlandse strafwet is, met inachtneming van de artikelen 218 en 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag en onverminderd het recht van andere staten om overeenkomstig het VN-Zeerechtverdrag of het Verdrag tot rechtsvervolging over te gaan, toepasselijk op ieder die zich buiten Nederland schuldig maakt aan overtreding van de bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21) gestelde regels.
+1. De Nederlandse strafwet is, met inachtneming van de artikelen 218 en 220 en afdeling 7 van Deel XII van het VN-Zeerechtverdrag en onverminderd het recht van andere staten om overeenkomstig het VN-Zeerechtverdrag of het Verdrag tot rechtsvervolging over te gaan, toepasselijk op ieder die zich buiten Nederland schuldig maakt aan overtreding van de bij of krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2022-06-01&g=2022-06-01) gestelde regels.
 
-2. De Nederlandse strafwet is van toepassing op ieder die zich in de Nederlandse exclusieve economische zone schuldig maakt aan overtreding van de bij of krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12&z=2019-12-21&g=2019-12-21) gestelde regels.
+2. De Nederlandse strafwet is van toepassing op ieder die zich in de Nederlandse exclusieve economische zone schuldig maakt aan overtreding van de bij of krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12&z=2022-06-01&g=2022-06-01) gestelde regels.
 
 ##### Artikel 8a
 
@@ -731,13 +701,13 @@ Onze Minister kan, op verzoek van de bevoegde autoriteit van een staat die parti
 
 ### Hoofdstuk V. Verdere bepalingen
 
+#### § 2. Aanhouding
+
+#### § 2. Onderzoek van voorvallen
+
+#### § 2. Onderzoek van voorvallen
+
 #### § 1. Beroep
-
-#### § 2. Onderzoek van voorvallen
-
-#### § 2. Onderzoek van voorvallen
-
-#### § 4. Ontheffing en vrijstelling
 
 ### Hoofdstuk VI. Straf- en verbodsbepalingen en borgsom
 
@@ -747,15 +717,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 12e
 
-1. De kapitein van een schip dat een haven aandoet die is aangewezen krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), geeft:
+1. De kapitein van een schip dat een bij of krachtens algemene maatregel van bestuur aangewezen haven aandoet, geeft de bij of krachtens algemene maatregel van bestuur aangewezen stoffen, in bij die maatregel aangegeven gevallen, af bij een havenontvangstvoorziening.
 
-- a. bij of krachtens algemene maatregel van bestuur aan te wijzen stoffen of uitrusting die deze stoffen bevat af bij een havenontvangstvoorziening wanneer zij worden verwijderd van het schip;
+2. Het eerste lid is van overeenkomstige toepassing op de kapitein van een schip dat een haven aandoet die gewoonlijk wordt aangedaan door zeegaande pleziervaartuigen en die niet is aangewezen krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=6&z=2022-06-01&g=2022-06-01), met dien verstande dat in een dergelijke haven de afgifte geschiedt bij de daartoe bestemde voorziening.
 
-- b. bij of krachtens algemene maatregel van bestuur aangewezen stoffen, in bij die maatregel aangegeven gevallen, af bij een havenontvangstvoorziening.
-
-2. Het eerste lid is van overeenkomstige toepassing op de kapitein van een schip dat een haven aandoet waar overwegend gelegenheid wordt geboden voor het aanleggen, afmeren of afgemeerd houden van zeegaande pleziervaartuigen en die niet is aangewezen krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=6&z=2019-12-21&g=2019-12-21), met dien verstande dat in een dergelijke haven de afgifte geschiedt bij de daartoe bestemde voorziening.
-
-3. Dit artikel is ook van toepassing op buitenlandse schepen en schepen als bedoeld in artikel 2 van de Vaartuigenwet 1930 BES.
+3. Dit artikel is ook van toepassing op buitenlandse schepen en schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2).
 
 #### § 4. Verlaten van een haven
 
@@ -777,13 +743,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 37a
 
-1. Ten aanzien van handelingen door schepen als bedoeld in artikel 2 van de Vaartuigenwet 1930 BES geldt het volgende:
+1. Ten aanzien van handelingen door schepen als bedoeld in [artikel 2 van de Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2) geldt het volgende:
 
-- a. Handelingen in strijd met de voorschriften gesteld krachtens de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2019-12-21&g=2019-12-21), en [12, eerste, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12&z=2019-12-21&g=2019-12-21), van deze wet, voor zover opzettelijk begaan, zijn misdrijven en worden gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
+- a. Handelingen in strijd met de voorschriften gesteld krachtens de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=1&artikel=5&z=2022-06-01&g=2022-06-01), en [12, eerste, zesde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12&z=2022-06-01&g=2022-06-01), van deze wet, voor zover opzettelijk begaan, zijn misdrijven en worden gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 
 - b. Handelingen als bedoeld in onderdeel a, die geen misdrijven zijn, zijn overtredingen en worden gestraft met hechtenis van ten hoogste een jaar of geldboete van de vierde categorie.
 
-- c. Handelingen in strijd met de voorschriften gesteld krachtens de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=2&artikel=10&z=2019-12-21&g=2019-12-21), en [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=11&z=2019-12-21&g=2019-12-21), en de voorschriften gesteld bij of krachtens artikel 11, tweede lid, van deze wet, voor zover opzettelijk begaan, zijn misdrijven en worden gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
+- c. Handelingen in strijd met de voorschriften gesteld krachtens de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=10&z=2022-06-01&g=2022-06-01), en [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4a&artikel=11&z=2022-06-01&g=2022-06-01), en de voorschriften gesteld bij of krachtens artikel 11, tweede lid, van deze wet, voor zover opzettelijk begaan, zijn misdrijven en worden gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
 - d. Handelingen als bedoeld in onderdeel b, die geen misdrijven zijn, zijn overtredingen en worden gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
 
@@ -791,9 +757,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - a. gehele of gedeeltelijke stillegging van de onderneming van de veroordeelde, waarin de overtreding is begaan voor een tijd van ten hoogste een jaar; of,
 
-- b. verbeurdverklaring van de voorwerpen, genoemd in artikel 35 van het Wetboek van Strafvordering BES.
+- b. verbeurdverklaring van de voorwerpen, genoemd in [artikel 35 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=35).
 
-3. Met het opsporen van de in het eerste en tweede lid strafbaar gestelde feiten zijn, onverminderd de bij of krachtens artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.
+3. Met het opsporen van de in het eerste en tweede lid strafbaar gestelde feiten zijn, onverminderd de bij of krachtens [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen ambtenaren, belast de door Onze Minister van Justitie en Veiligheid, in overeenstemming met Onze Minister, aangewezen ambtenaren.
 
 ### Hoofdstuk VII. Slotbepalingen
 
@@ -819,7 +785,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 12aa
 
-Ten behoeve van de nakoming van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=3&artikel=12a&z=2019-12-21&g=2019-12-21) en het toezicht hierop, kunnen persoonsgegevens worden verwerkt. Deze gegevensverwerking is in het belang van de doelmatigheid van havenontvangstvoorzieningen en de doeltreffende planning van het afvalbeheer. Onze Minister of de bij of krachtens algemene maatregel van bestuur aangewezen bevoegde autoriteit is verwerkingsverantwoordelijke.
+Ten behoeve van de nakoming van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=III&paragraaf=4&sub-paragraaf=4b&artikel=12a&z=2022-06-01&g=2022-06-01) en het toezicht hierop, kunnen persoonsgegevens worden verwerkt. Deze gegevensverwerking is in het belang van de doelmatigheid van havenontvangstvoorzieningen en de doeltreffende planning van het afvalbeheer. Onze Minister of de bij of krachtens algemene maatregel van bestuur aangewezen bevoegde autoriteit is verwerkingsverantwoordelijke.
 
 ### Hoofdstuk IV. Toezicht en aanhouding
 
@@ -832,6 +798,76 @@ Ten behoeve van de nakoming van [artikel 12a](https://wetten.overheid.nl/jci1.3:
 #### § 3. Medewerking
 
 #### § 4. Ontheffingen, vrijstellingen en aantekeningen in een journaal
+
+### Hoofdstuk VII. Slotbepalingen
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+#### § 2. Havenontvangstvoorzieningen
+
+##### Artikel 6c
+
+1. De beheerder van een bij of krachtens algemene maatregel van bestuur aangewezen haven, houdt een registratie bij van gegevens over in zijn haven afgegeven hoeveelheden scheepsafvalstoffen. Hij verstrekt deze gegevens, dan wel inlichtingen omtrent deze gegevens, desgevraagd aan Onze Minister.
+
+2. De houder van een havenontvangstvoorziening verschaft de havenbeheerder desgevraagd de ten behoeve van de registratie benodigde gegevens over de bij hem afgegeven hoeveelheden scheepsafvalstoffen.
+
+3. Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de registratie en de verstrekking van de gegevens en de inlichtingen, bedoeld in het eerste en tweede lid.
+
+##### Artikel 6d
+
+1. De beheerder van een bij of krachtens algemene maatregel van bestuur aangewezen haven int van de exploitant van een schip die zijn haven aandoet, bij iedere aanloop van dat schip een indirecte bijdrage ter dekking van de kosten van het in die haven in ontvangst nemen, opslaan en verwerken van scheepsafvalstoffen. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat voor bepaalde scheepsafvalstoffen geen of geen volledige indirecte bijdrage wordt geheven.
+
+2. Het voldoen van de indirecte bijdrage geeft de kapitein van het schip het niet-overdraagbare recht gedurende het verblijf van het schip in de desbetreffende haven scheepsafvalstoffen waarop de indirecte bijdrage betrekking heeft, af te geven bij een houder van een havenontvangstvoorziening zonder daarvoor een bijkomende vergoeding verschuldigd te zijn. De havenbeheerder kan de hoeveelheid, de eigenschappen en de wijze van afgifte van de scheepsafvalstoffen bepalen, voor zover daarvoor een gedeeltelijke indirecte bijdrage is geheven.
+
+3. De exploitant van een schip vergoedt aan de houder van de havenontvangstvoorziening de kosten van het in ontvangst nemen, opslaan en verwerken van de door de kapitein van dat schip bij de houder afgegeven scheepsafvalstoffen, voor zover het niet de krachtens het tweede lid afgegeven scheepsafvalstoffen betreft.
+
+4. In bij of krachtens algemene maatregel van bestuur aangewezen gevallen en onder daarin gestelde voorwaarden kan Onze Minister de exploitant van een schip ontheffing verlenen van de verplichting tot het betalen van een indirecte bijdrage als bedoeld in het eerste lid.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen gevallen worden aangewezen waarop het eerste lid niet van toepassing is, voor zover daarbij op een andere, bij die maatregel te bepalen wijze wordt voldaan aan de bepalingen over kostendekkingssystemen van de richtlijn havenontvangstvoorzieningen.
+
+6. De havenbeheerder stelt de indirecte bijdrage vast en maakt de hoogte van de bijdrage en de grondslagen ervan bekend in het havenafvalplan. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze van berekenen van de bijdrage, waaronder over de daarbij in aanmerking te nemen kosten en aspecten op grond waarvan de bijdrage gedifferentieerd kan worden.
+
+7. De havenbeheerder sluit met de houder van een havenontvangstvoorziening een overeenkomst over de overeenkomstig het tweede lid af te geven scheepsafvalstoffen.
+
+8. De havenbeheerder betaalt de kosten van de verwerking van de scheepsafvalstoffen niet eerder dan na ontvangst van een verklaring van verwerking. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot deze verificatie.
+
+9. Dit artikel en de op grond hiervan gestelde regels zijn niet van toepassing op schepen in eigendom of beheer bij de Nederlandse Staat, niet zijnde schepen als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=II&artikel=3&z=2022-06-01&g=2022-06-01), gedurende de tijd dat ze uitsluitend worden gebruikt voor andere dan handelsdoeleinden en op schepen die havendiensten verlenen.
+
+##### Artikel 6e
+
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de ontvangst en de behandeling van klachten over vermeende ontoereikendheid van havenontvangstvoorzieningen. Bij of krachtens deze maatregel kunnen taken aan de havenbeheerder en aan de inspecteur-generaal worden opgedragen.
+
+##### Artikel 6f
+
+Deze paragraaf is ook van toepassing op buitenlandse schepen.
+
+#### § 3. Regelen voor schepen
+
+#### § 4. Verplichtingen van de kapitein
+
+#### § 4a. Algemene verplichtingen
+
+#### § 4b. Verplichtingen met betrekking tot de afgifte aan havenontvangstvoorzieningen
+
+##### Artikel 12f
+
+1. Deze paragraaf en de op grond hiervan gestelde regels zijn niet van toepassing op schepen in eigendom of beheer bij de Nederlandse Staat, niet zijnde schepen als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&hoofdstuk=II&artikel=3&z=2022-06-01&g=2022-06-01), gedurende de tijd dat ze uitsluitend worden gebruikt voor andere dan handelsdoeleinden en op schepen die havendiensten verlenen.
+
+2. Onverminderd het eerste lid geven bedoelde schepen hun scheepsafvalstoffen, voor zover redelijkerwijs mogelijk, af op een wijze die in overeenstemming is met de richtlijn havenontvangstvoorzieningen.
+
+### Hoofdstuk IV. Toezicht en aanhouding
+
+#### § 1. Toezicht
+
+### Hoofdstuk V. Verdere bepalingen
+
+#### § 2. Onderzoek van voorvallen
+
+#### § 3. Medewerking
+
+#### § 4. Ontheffingen, vrijstellingen en aantekeningen in een journaal
+
+### Hoofdstuk VI. Straf- en verbodsbepalingen en borgsom
 
 ### Hoofdstuk VII. Slotbepalingen
 
