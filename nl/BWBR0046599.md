@@ -673,29 +673,3 @@ Projectomschrijving:
 Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-### Projectcategorie 4. Duurzame energie
-
-Projectomschrijving:
-
-### Projectcategorie 5. Duurzaam bouwen
-
-Projectomschrijving: door herbestemming van gebouwen zonder woonfunctie realiseren van nieuwe woningen, waarbij, indien hout wordt toegepast, uitsluitend gebruik wordt gemaakt van duurzaam geproduceerd hout en waarvan de energielabelklasse na de herbestemming energielabelklasse A of beter is.
-
-### Projectcategorie 6. Duurzame mobiliteit
-
-Projectomschrijving:
-
-### Projectcategorie 7. Klimaatadaptatie
-
-Projectomschrijving:
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-### Projectcategorie 5. Duurzaam bouwen
-
-### Projectcategorie 6. Duurzame mobiliteit
-
-### Projectcategorie 7. Klimaatadaptatie
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
