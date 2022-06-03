@@ -4,7 +4,7 @@ identifier: "BWBR0043289"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-05-31"
-last_updated: "2022-03-30"
+last_updated: "2022-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043289"
 soort: "ministeriele-regeling"
@@ -126,13 +126,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - a. volmacht tot het verrichten van privaatrechtelijke rechtshandelingen, en
 
-- b. machtiging om in naam van de bewindspersoon of, in geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2022-03-30&g=2022-03-30), in naam van de inspecteur-generaal handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- b. machtiging om in naam van de bewindspersoon of, in geval van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2022-06-03&g=2022-06-03), in naam van de inspecteur-generaal handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 9. Mandaat en volmacht financiële verplichtingen
 
 1. Mandaat en volmacht tot het aangaan van financiële verplichtingen wordt, voor zover het behoort bij hun taken, verleend aan de directeur Publieke instituties en control, de afdelingshoofden, de programmamanagers, de teamleider Servicedesk en de teamleider Personeel en processen.
 
-2. Aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2022-03-30&g=2022-03-30) bedoelde functionarissen wordt ten behoeve van het aan hen verleende mandaat van personele aangelegenheden volmacht verleend tot het aangaan van financiële verplichtingen.
+2. Aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2022-06-03&g=2022-06-03) bedoelde functionarissen wordt ten behoeve van het aan hen verleende mandaat van personele aangelegenheden volmacht verleend tot het aangaan van financiële verplichtingen.
 
 3. De uitoefening van bevoegdheden die in dit artikel zijn verleend, geschiedt met inachtneming van:
 
@@ -158,7 +158,7 @@ INSPECTIE LEEFOMGEVING EN TRANSPORT
 
 MINISTERIE VAN INFRASTRUCTUUR EN WATERSTAAT.
 
-2. In geval van mandaat of machtiging op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2022-03-30&g=2022-03-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2022-03-30&g=2022-03-30) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2022-03-30&g=2022-03-30), luidt de ondertekening:
+2. In geval van mandaat of machtiging op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2022-06-03&g=2022-06-03), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2022-06-03&g=2022-06-03) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2022-06-03&g=2022-06-03), luidt de ondertekening:
 
 DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT,
 
@@ -166,7 +166,7 @@ namens deze,
 
 gevolgd door de aanduiding van de gemandateerde of gemachtigde functionaris.
 
-3. In geval van mandaat of machtiging op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2022-03-30&g=2022-03-30) luidt de ondertekening als volgt:
+3. In geval van mandaat of machtiging op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2022-06-03&g=2022-06-03) luidt de ondertekening als volgt:
 
 DE INSPECTEUR-GENERAAL LEEFOMGEVING EN TRANSPORT,
 
@@ -174,7 +174,7 @@ namens deze,
 
 gevolgd door de aanduiding van de gemandateerde of gemachtigde functionaris.
 
-4. In geval van volmacht op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2022-03-30&g=2022-03-30), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2022-03-30&g=2022-03-30) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2022-03-30&g=2022-03-30), luidt de ondertekening:
+4. In geval van volmacht op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=4&z=2022-06-03&g=2022-06-03), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=7&z=2022-06-03&g=2022-06-03) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=4&artikel=9&z=2022-06-03&g=2022-06-03), luidt de ondertekening:
 
 NAMENS DE STAAT DER NEDERLANDEN
 
@@ -184,7 +184,7 @@ namens deze,
 
 gevolgd door de aanduiding van de gevolmachtigde functionaris.
 
-5. In geval van volmacht op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2022-03-30&g=2022-03-30) luidt de ondertekening als volgt:
+5. In geval van volmacht op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=3&artikel=5&z=2022-06-03&g=2022-06-03) luidt de ondertekening als volgt:
 
 NAMENS DE STAAT DER NEDERLANDEN
 
@@ -216,13 +216,13 @@ Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit Inspectie Leefo
 
 ## Bijlage
 
-Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2022-03-30&g=2022-03-30), van het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020
+Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2022-06-03&g=2022-06-03), van het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020
 
 **Inspecteur-generaal**
 
 - –. Afdeling Bureau IG-team
 
-**Informatiepositie en programmamanagement**
+**Informatie, netwerken en programmering**
 
 - –. Afdeling Strategische producten en kennis
 
@@ -234,7 +234,7 @@ Bijlage, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:
 
 - –. Afdeling Netwerken transport
 
-Afdeling Databronnen
+- –. Afdeling Databronnen
 
 - –. Afdeling Analyse 1
 
@@ -248,7 +248,7 @@ Afdeling Databronnen
 
 - •. Team IV realisatie
 
-**Omgeving en dienstverlening**
+**Communicatie, dienstverlening en vergunningen**
 
 - –. Afdeling Communicatie en klantcontact
 
@@ -276,13 +276,13 @@ Afdeling Databronnen
 
 - –. Afdeling Vergunningverlening leefomgeving en scheepvaart
 
-- •. Team leefomgeving afvalstoffen 1
+- •. Team Leefomgeving afvalstoffen 1
 
-- •. Team leefomgeving afvalstoffen 2
+- •. Team Leefomgeving afvalstoffen 2
 
 - •. Team Leefomgeving bedrijven, infra en stoffen
 
-- •. Team certificering binnenvaart en koopvaardij
+- •. Team Certificering binnenvaart en koopvaardij
 
 - •. Team Visserij en scheepsmetingen
 
@@ -334,11 +334,15 @@ Afdeling Databronnen
 
 - –. Afdeling Toezicht milieu
 
-- •. Team Afval circulaire economie
+- •. Team Afval circulaire economie 1
+
+- •. Team Afval circulaire economie 2
 
 - •. Team Afval logistiek
 
-- •. Team Bodem
+- •. Team Bodem 1
+
+- •. Team Bodem 2
 
 - •. Team Luchtkwaliteit en emissies
 
