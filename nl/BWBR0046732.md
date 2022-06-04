@@ -4,7 +4,7 @@ identifier: "BWBR0046732"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-01"
-last_updated: "2022-03-01"
+last_updated: "2022-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046732"
 soort: "ministeriele-regeling"
@@ -92,15 +92,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Hoogte van de specifieke uitkering
 
-1. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-06-04&g=2022-03-01), een normbedrag van minimaal € 100 per dag per gerealiseerde opvangplek. Dit normbedrag wordt indien nodig achteraf opwaarts bijgesteld op basis van een monitoronderzoek.
+1. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-06-04&g=2022-06-04), een normbedrag van minimaal € 100 per dag per gerealiseerde opvangplek. Dit normbedrag wordt indien nodig achteraf opwaarts bijgesteld op basis van een monitoronderzoek.
 
 2. Indien het normbedrag, bedoeld in het eerste lid niet toereikend is om de werkelijke kosten van de opvangvoorziening te bekostigen dan kan de gemeente de werkelijke kosten declareren als de oorzaak daarvan ligt in de periode 1 maart 2022 tot en met de datum van inwerkingtreding van deze regeling of komt door aangegane verplichtingen in die periode.
 
-3. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-06-04&g=2022-03-01), een vergoeding van de werkelijke kosten per verstrekking als bedoeld in de [Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503).
+3. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-06-04&g=2022-06-04), een vergoeding van de werkelijke kosten per verstrekking als bedoeld in de [Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503).
 
-4. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-06-04&g=2022-03-01), een normbedrag per persoon waaraan een verstrekking is gedaan. Dit normbedrag wordt achteraf vastgesteld op basis van een monitoronderzoek.
+4. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-06-04&g=2022-06-04), een normbedrag per persoon waaraan een verstrekking is gedaan. Dit normbedrag wordt achteraf vastgesteld op basis van een monitoronderzoek.
 
-5. Gemeenten ontvangen ter bekostiging van de transitiekosten, bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-06-04&g=2022-03-01), een vergoeding van de werkelijke kosten.
+5. Gemeenten ontvangen ter bekostiging van de transitiekosten, bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-06-04&g=2022-06-04), een vergoeding van de werkelijke kosten.
 
 ##### Artikel 4. Voorwaarden
 
