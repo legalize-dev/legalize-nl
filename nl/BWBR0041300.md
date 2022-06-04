@@ -4,7 +4,7 @@ identifier: "BWBR0041300"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-06-04"
-last_updated: "2018-09-01"
+last_updated: "2022-06-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041300"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 ##### Artikel 1
 
-Dit besluit heeft betrekking op archiefbescheiden op papier die behoren of zullen gaan behoren tot de personeelsdossiers van het kerndepartement van het Ministerie van Volksgezondheid en van de diensten, de instellingen en de secretariaten van de raden en commissies, zoals genoemd in het [Organisatiebesluit VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0040606). Deze archiefbescheiden worden vervangen door digitale reproducties. Deze vervanging betreft alle papieren archiefbescheiden die betrekking hebben op de personeelsgegevens en salarisgegevens zoals beschreven in het ‘Basisselectiedocument P-dossier is Mens-en-werk, 1945–’.
+Dit besluit heeft betrekking op archiefbescheiden op papier die behoren of zullen gaan behoren tot de personeelsdossiers van het kerndepartement van het Ministerie van Volksgezondheid en van de diensten, de instellingen en de secretariaten van de raden en commissies, zoals genoemd in het [Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133). Deze archiefbescheiden worden vervangen door digitale reproducties. Deze vervanging betreft alle papieren archiefbescheiden die betrekking hebben op de personeelsgegevens en salarisgegevens zoals beschreven in het ‘Basisselectiedocument P-dossier is Mens-en-werk, 1945–’.
 
 ##### Artikel 2
 
