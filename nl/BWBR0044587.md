@@ -4,7 +4,7 @@ identifier: "BWBR0044587"
 country: "nl"
 rank: "wet"
 publication_date: "2022-06-07"
-last_updated: "2021-06-07"
+last_updated: "2022-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044587"
 soort: "wet"
@@ -65,7 +65,7 @@ Ten aanzien van perspublicaties die vóór 6 juni 2019 zijn openbaar gemaakt, zi
 
 ##### Artikel VI
 
-Deze wet laat vóór het in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0044587&artikel=VII&z=2021-06-07&g=2021-06-07) van deze wet te bepalen tijdstip verrichte exploitatiehandelingen, alsmede vóór dat tijdstip verworven rechten onverlet.
+Deze wet laat vóór het in [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0044587&artikel=VII&z=2022-06-07&g=2022-06-07) van deze wet te bepalen tijdstip verrichte exploitatiehandelingen, alsmede vóór dat tijdstip verworven rechten onverlet.
 
 ##### Artikel VII
 
