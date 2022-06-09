@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2022-05-26"
+last_updated: "2022-06-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -144,11 +144,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 5. De Minister van Economische Zaken en Klimaat kan voor zover dit noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), voorts de Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken om mededeling als bedoeld in [artikel 8, tweede lid, onderdeel f, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8) te doen of de Minister van Defensie verzoeken om mededeling als bedoeld in [artikel 10, tweede lid, onderdeel g, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10) te doen.
 
-6. Een notaris geeft van tot zijn protocol behorende verklaringen van erfrecht desgevraagd afschriften uit aan de Minister van Economische Zaken en Klimaat, voor zover dit noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296). [Artikel 49b van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=49b) is van overeenkomstige toepassing.
+6. Vervallen.
 
-7. Voor zover de gegevens die de personen, entiteiten en lichamen hebben aangeleverd en de verzameling of verstrekking, bedoeld in het derde tot en met zesde lid, niet de benodigde gegevens heeft opgeleverd, verstrekken de personen, entiteiten en lichamen desgevraagd alle informatie aan de Minister van Economische Zaken en Klimaat die noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), verdragen of bindende besluiten van volkenrechtelijke organisaties.
+7. Voor zover de gegevens die de personen, entiteiten en lichamen hebben aangeleverd en de verzameling of verstrekking, bedoeld in het derde tot en met vijfde lid, niet de benodigde gegevens heeft opgeleverd, verstrekken de personen, entiteiten en lichamen desgevraagd alle informatie aan de Minister van Economische Zaken en Klimaat die noodzakelijk is voor de uitvoering van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296), verdragen of bindende besluiten van volkenrechtelijke organisaties.
 
-8. Ten behoeve van de naleving van de verplichting, bedoeld in het zesde lid, zijn de notaris en de onder zijn verantwoordelijkheid werkzame personen niet gehouden aan de geheimhoudingsplicht, bedoeld in [artikel 22 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=22).
+8. Vervallen.
 
 9. De gegevensverstrekking ingevolge het derde lid, onder c, en het vierde tot en met achtste lid, geschiedt kosteloos.
 
