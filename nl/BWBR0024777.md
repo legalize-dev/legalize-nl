@@ -4,7 +4,7 @@ identifier: "BWBR0024777"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-06-11"
-last_updated: "2008-12-04"
+last_updated: "2022-06-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024777"
 soort: "zbo"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als toezichthouders op het gebruik van verstrekte gegevens uit het kentekenregister worden aangewezen: de ambtenaren van de Dienst Wegverkeer, Divisie Registratie & Informatie, Afdeling Klantenservice, die zijn belast met wetgeving en beleid.
+Met het toezicht als bedoeld in [artikel 45a, eerste lid van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=45a) zijn belast de ambtenaren van de Dienst Wegverkeer, Divisie Registratie & Informatie, afdeling Informatieverstrekking en -analyse, unit Informatieverstrekking.
 
 ##### Artikel 2
 
