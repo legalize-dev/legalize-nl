@@ -4,7 +4,7 @@ identifier: "BWBR0046766"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-18"
-last_updated: "2022-01-01"
+last_updated: "2022-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046766"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Wijzigt het Besluit tarieven in strafzaken 2003.
 
 ##### Artikel II
 
-De in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0046766&artikel=I&z=2022-06-18&g=2022-01-01) vastgestelde tarieven gelden voor opdrachten die zijn verstrekt op of na 1 januari 2022.
+De in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0046766&artikel=I&z=2022-06-18&g=2022-06-18) vastgestelde tarieven gelden voor opdrachten die zijn verstrekt op of na 1 januari 2022.
 
 ##### Artikel III
 
