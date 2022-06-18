@@ -4,7 +4,7 @@ identifier: "BWBR0045843"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-06-18"
-last_updated: "2021-11-17"
+last_updated: "2022-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045843"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045843&artikel=2&z=2021-11-17&g=2021-11-17).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045843&artikel=2&z=2022-06-18&g=2022-06-18).
 
 ##### Artikel 2. Instelling en taak
 
@@ -106,7 +106,7 @@ De commissie wordt opgeheven 4 weken nadat het rapport is uitgebracht.
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot eenieder en eenieder te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
-2. Onder meer het Kabinet van de Koning, het Ministerie van Algemene Zaken, het Ministerie van Justitie en Veiligheid, het openbaar ministerie, het Ministerie van Buitenlandse Zaken en op grond van [artikel 31 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=31), de korpschef, verlenen de commissie de verlangde medewerking en toegang tot alle informatie die de commissie nodig acht met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045843&artikel=7&z=2021-11-17&g=2021-11-17) bedoelde protocol en de toepasselijke wet- en regelgeving.
+2. Onder meer het Kabinet van de Koning, het Ministerie van Algemene Zaken, het Ministerie van Justitie en Veiligheid, het openbaar ministerie, het Ministerie van Buitenlandse Zaken en op grond van [artikel 31 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=31), de korpschef, verlenen de commissie de verlangde medewerking en toegang tot alle informatie die de commissie nodig acht met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045843&artikel=7&z=2022-06-18&g=2022-06-18) bedoelde protocol en de toepasselijke wet- en regelgeving.
 
 3. De onder de verantwoordelijkheid van voornoemde instanties werkende personen zijn verplicht om de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun taak.
 
@@ -150,7 +150,7 @@ De commissie verricht haar werkzaamheden op een locatie buiten het Ministerie va
 
 ##### Artikel 13. Rapport en uiterste datum voor oplevering
 
-1. De commissie brengt vóór 1 juni 2022 haar rapport uit aan de Minister.
+1. De commissie brengt vóór 1 juli 2022 haar rapport uit aan de Minister.
 
 2. De commissie biedt de Minister uiterlijk vier weken na oplevering van het rapport een (eind)verslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest. Desgewenst kan de commissie het eindverslag gelijktijdig met het rapport indienen.
 
@@ -164,7 +164,7 @@ De commissie verricht haar werkzaamheden op een locatie buiten het Ministerie va
 
 1. Het archief van de commissie wordt bij opheffing van de commissie overgebracht naar het archief van het Ministerie van Justitie en Veiligheid.
 
-2. Het archief bevat tenminste de gespreksverslagen, verslagen van beraadslagingen en andere documenten die ten grondslag hebben gelegen aan de onderzoeksbevindingen en die inzicht geven in de totstandkoming van het rapport. Over de inhoud van het archief worden nadere afspraken gemaakt in het onder [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045843&artikel=7&z=2021-11-17&g=2021-11-17) genoemde protocol.
+2. Het archief bevat tenminste de gespreksverslagen, verslagen van beraadslagingen en andere documenten die ten grondslag hebben gelegen aan de onderzoeksbevindingen en die inzicht geven in de totstandkoming van het rapport. Over de inhoud van het archief worden nadere afspraken gemaakt in het onder [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045843&artikel=7&z=2022-06-18&g=2022-06-18) genoemde protocol.
 
 3. Het beheer vindt plaats met inachtneming van de in het vastgestelde protocol aangegeven vertrouwelijkheid, waarover de onderzoekscommissie binnen bestaande kaders van wet- en regelgeving, nadere afspraken met het Ministerie van Justitie en Veiligheid maakt.
 
