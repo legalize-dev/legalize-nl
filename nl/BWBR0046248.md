@@ -4,7 +4,7 @@ identifier: "BWBR0046248"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-07"
-last_updated: "2022-03-31"
+last_updated: "2022-06-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046248"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046248&artikel=2&z=2022-06-18&g=2022-03-31).
+- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046248&artikel=2&z=2022-06-18&g=2022-06-18).
 
 ##### Artikel 2. Instelling en taak
 
@@ -102,7 +102,7 @@ Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 
 - h. de heer mr. drs. J.J.M. Hoefnagels (Koninklijke Nederlandse Jagersvereniging);
 
-- i. de heer mr. I.V. van der Kolk (Nederlandse Airsoft Belangenvereniging);
+- i. de heer drs. B. Mooren (Nederlandse Airsoft Belangenvereniging);
 
 - j. de heer J.H. van der Linden (Wapen- en munitieverzamelaars);
 
