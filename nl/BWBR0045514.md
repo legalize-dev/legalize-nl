@@ -4,7 +4,7 @@ identifier: "BWBR0045514"
 country: "nl"
 rank: "wet"
 publication_date: "2024-06-28"
-last_updated: "2022-01-01"
+last_updated: "2022-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045514"
 soort: "wet"
@@ -51,16 +51,14 @@ Wijzigt de Wet verbod op kolen bij elektriciteitsproductie.
 
 Wijzigt de Wet verbod op kolen bij elektriciteitsproductie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Ib
 
-Onze Minister van Economische Zaken en Klimaat zendt binnen een jaar na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0045514&artikel=I&z=2022-01-01&g=2022-01-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel I van deze wet in de praktijk.
+Onze Minister van Economische Zaken en Klimaat zendt binnen een jaar na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0045514&artikel=I&z=2022-01-01&g=2022-06-21) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel I van deze wet in de praktijk.
 
 ##### Artikel II
 
-1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0045514&artikel=I&z=2022-01-01&g=2022-01-01) en [IB](https://wetten.overheid.nl/jci1.3:c:BWBR0045514&artikel=Ib&z=2022-01-01&g=2022-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0045514&artikel=I&z=2022-01-01&g=2022-06-21) en [IB](https://wetten.overheid.nl/jci1.3:c:BWBR0045514&artikel=Ib&z=2022-01-01&g=2022-06-21) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. [Artikel IA](https://wetten.overheid.nl/jci1.3:c:BWBR0045514&artikel=Ia&z=2022-01-01&g=2022-01-01) treedt in werking met ingang van 1 januari 2025.
+2. [Artikel IA](https://wetten.overheid.nl/jci1.3:c:BWBR0045514&artikel=Ia&z=2022-01-01&g=2022-06-21) treedt in werking met ingang van 1 januari 2025.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
