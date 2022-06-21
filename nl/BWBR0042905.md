@@ -4,7 +4,7 @@ identifier: "BWBR0042905"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042905"
 soort: "wet"
@@ -64,7 +64,7 @@ Het is verboden om in een productie-installatie elektriciteit op te wekken met b
 
 ##### Artikel 3
 
-1. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-01-01), is:
+1. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-06-21), is:
 
 - a. tot en met 31 december 2024 niet van toepassing op alle productie-installaties;
 
@@ -82,7 +82,7 @@ Het is verboden om in een productie-installatie elektriciteit op te wekken met b
 
 ##### Artikel 3a
 
-In afwijking van [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-01-01), is het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-01-01), tot 1 januari 2020 niet van toepassing op een productie-installatie die:
+In afwijking van [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-06-21), is het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-06-21), tot 1 januari 2020 niet van toepassing op een productie-installatie die:
 
 - a. een elektrisch rendement van minder dan 44% heeft;
 
@@ -94,7 +94,7 @@ In afwijking van [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl
 
 1. Onze Minister kan op verzoek van een exploitant van een productie-installatie een tegemoetkoming verlenen indien de desbetreffende exploitant aantoont dat hij ten gevolge van het verbod, ten opzichte van andere exploitanten van een kolengestookte productie-installatie, onevenredig zwaar wordt geraakt.
 
-2. Onze Minister kent op verzoek van een exploitant van een productie-installatie een vergoeding toe voor schade als gevolg van de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-01-01), die niet voor rekening van die exploitant behoort te blijven.
+2. Onze Minister kent op verzoek van een exploitant van een productie-installatie een vergoeding toe voor schade als gevolg van de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-06-21), die niet voor rekening van die exploitant behoort te blijven.
 
 3. Onze Minister kent de vergoeding voor schade toe onder de opschortende voorwaarde dat de Europese Commissie besluit dat de vergoeding van de schade geen onverenigbare staatssteun als bedoeld in artikel 107 van het verdrag betreffende de werking van de Europese Unie betreft.
 
@@ -110,7 +110,7 @@ In afwijking van [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-3. De in het eerste lid aangewezen ambtenaren zijn bevoegd gegevens of inlichtingen te verstrekken aan een bestuursorgaan, dat bevoegd is een vergunning in te trekken als het verbod als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-01-01) niet wordt nageleefd, indien verstrekking voor de goede vervulling van deze bevoegdheid noodzakelijk is.
+3. De in het eerste lid aangewezen ambtenaren zijn bevoegd gegevens of inlichtingen te verstrekken aan een bestuursorgaan, dat bevoegd is een vergunning in te trekken als het verbod als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-06-21) niet wordt nageleefd, indien verstrekking voor de goede vervulling van deze bevoegdheid noodzakelijk is.
 
 4. Verstrekking aan een bestuursorgaan vindt uitsluitend plaats indien de geheimhouding van de gegevens of inlichtingen in voldoende mate is gewaarborgd.
 
@@ -118,7 +118,7 @@ In afwijking van [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl
 
 1. Onze Minister kan in geval van overtreding van deze wet de overtreder een last onder bestuursdwang opleggen.
 
-2. Onze Minister kan in geval van overtreding van het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-01-01), als gevolg van het niet voldoen aan de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-01-01), een bestuurlijke boete opleggen van ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien dat meer is, ten hoogste 20% van de netto-omzet, bedoeld in [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377), die de overtreder heeft behaald in het meest recente boekjaar ten aanzien waarvan de overtreder een jaarrekening beschikbaar heeft of zou moeten hebben.
+2. Onze Minister kan in geval van overtreding van het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=2&z=2022-01-01&g=2022-06-21), als gevolg van het niet voldoen aan de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-06-21), een bestuurlijke boete opleggen van ten hoogste het bedrag dat is vastgesteld voor de zesde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, indien dat meer is, ten hoogste 20% van de netto-omzet, bedoeld in [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377), die de overtreder heeft behaald in het meest recente boekjaar ten aanzien waarvan de overtreder een jaarrekening beschikbaar heeft of zou moeten hebben.
 
 ##### Artikel 7
 
@@ -140,6 +140,6 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 5a
 
-In geval van het niet voldoen aan de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-01-01), in een kalenderjaar wordt het in dat lid bedoelde percentage voor de desbetreffende productie-installatie in het jaar van vaststelling van de overtreding van rechtswege verlaagd met het aantal procentpunten dat teveel is geproduceerd.
+In geval van het niet voldoen aan de voorwaarde, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042905&artikel=3&z=2022-01-01&g=2022-06-21), in een kalenderjaar wordt het in dat lid bedoelde percentage voor de desbetreffende productie-installatie in het jaar van vaststelling van de overtreding van rechtswege verlaagd met het aantal procentpunten dat teveel is geproduceerd.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
