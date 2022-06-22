@@ -4,7 +4,7 @@ identifier: "BWBR0046773"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-06-22"
-last_updated: "2022-06-01"
+last_updated: "2022-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046773"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ Er is een lnterdepartementale Raad voor de Handelspolitiek, hierna te noemen: IR
 
 ##### Artikel 4
 
-1. Afhankelijk van de te behandelen onderwerpen kan de voorzitter van de IRHP vertegenwoordigers van andere dan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046773&artikel=3&z=2022-06-22&g=2022-06-01) genoemde ministeries, dan wel van andere dan de in artikel 3 genoemde dienstonderdelen, uitnodigen om deel te nemen aan de beraadslagingen.
+1. Afhankelijk van de te behandelen onderwerpen kan de voorzitter van de IRHP vertegenwoordigers van andere dan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046773&artikel=3&z=2022-06-22&g=2022-06-22) genoemde ministeries, dan wel van andere dan de in artikel 3 genoemde dienstonderdelen, uitnodigen om deel te nemen aan de beraadslagingen.
 
 2. Indien de IRHP aangelegenheden bespreekt die mede van belang zijn voor Aruba, Curaçao en Sint-Maarten en die aan de Rijksministerraad moeten worden voorgelegd, nodigt de voorzitter ook vertegenwoordigers van de gevolmachtigde Ministers van Aruba, Curaçao en Sint-Maarten uit deel te nemen aan de beraadslagingen.
 
@@ -100,7 +100,7 @@ De voorzitter kan voor de behandeling van bepaalde onderwerpen werkgroepen inste
 
 ##### Artikel 6
 
-De voorzitter kan regels stellen omtrent de werkwijze van de IRHP en van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046773&artikel=5&z=2022-06-22&g=2022-06-01) bedoelde werkgroepen.
+De voorzitter kan regels stellen omtrent de werkwijze van de IRHP en van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046773&artikel=5&z=2022-06-22&g=2022-06-22) bedoelde werkgroepen.
 
 ##### Artikel 7
 
