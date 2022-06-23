@@ -4,7 +4,7 @@ identifier: "BWBR0045263"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-06-23"
-last_updated: "2020-10-13"
+last_updated: "2022-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045263"
 soort: "ministeriele-regeling"
@@ -84,19 +84,19 @@ In dit besluit wordt verstaan onder:
 
 De Taskforce bestaat uit de volgende leden:
 
-- a. mevrouw M. van Bijsterveldt-Vliegenthart, burgemeester van Delft, tevens voorzitter van de Taskforce;
+- a. de heer P. Verhoeve, burgemeester van Gouda, tevens voorzitter van de Taskforce;
 
 - b. de heer F. Paauw, chef van de eenheid Amsterdam, namens de politie;
 
 - c. mevrouw E. Lieben, commandant brandweer Veiligheidsregio Haaglanden, namens de Raad van Commandanten en Directeuren Veiligheidsregio’s;
 
-- d. de heer P. Verhoeve, burgemeester van Gouda, namens de VNG voor de bijzonder opsporingsambtenaren domein I;
+- d. de heer B. van den Tillaar, burgemeester van Vlissingen, namens de VNG voor de bijzonder opsporingsambtenaren domein I;
 
 - e. mevrouw L. Wösten, plaatsvervangend hoofdofficier bij het Parket Rotterdam, namens het Openbaar Ministerie;
 
 - f. de heer O. Adang, hoogleraar veiligheid en collectief gedrag en lector aan de Politieacademie;
 
-- g. de heer J.W. Schaper, plaatsvervangend directeur-generaal Politie en Veiligheidsregio’s bij het Ministerie van Justitie en Veiligheid;
+- g. mevrouw M. Commelin, plaatsvervangend directeur-generaal Politie en Veiligheidsregio’s bij het Ministerie van Justitie en Veiligheid;
 
 - h. mevrouw J. Sint, Hoofd Afdeling High Impact Crimes bij het Ministerie van Justitie en Veiligheid.
 
