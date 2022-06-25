@@ -4,7 +4,7 @@ identifier: "BWBR0037381"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-06-25"
-last_updated: "2015-12-22"
+last_updated: "2022-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037381"
 soort: "zbo"
@@ -48,21 +48,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Betalingsverkeer:** het geheel van betaalinstrumenten, betaaldiensten, betalingstransacties, procedures en betaalsystemen ter facilitering van de geldcirculatie.
+- a. **Retail betalingsverkeer:** het geheel van betaalinstrumenten, betaaldiensten, betalingstransacties, procedures en betaalsystemen ter facilitering van de geldcirculatie, voor zover het gaat om particuliere transacties.
 
-- b. **Hogevraagtijdvak:** het deel van een dag voor 00:30 uur en na 06:00 uur.
+- b. **Instelling:** bank, betaalinstelling of elektronischgeldinstelling als bedoeld in [artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met zetel in Nederland.
 
-- c. **Instelling:** bank, betaalinstelling of elektronischgeldinstelling als bedoeld in [artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met zetel in Nederland.
+- c. **Tijdkritische betaalopdracht:** een betaalopdracht waarbij de goedkeuring van de aangeboden betaalopdracht onmiddellijk op het moment van initiatie van de betaalopdracht door de betaler en begunstigde wordt verwacht.
 
-- d. **Tijdkritische betaalopdracht:** een betaalopdracht waarbij de goedkeuring van de aangeboden betaalopdracht onmiddellijk op het moment van initiatie van de betaalopdracht door de betaler en begunstigde wordt verwacht.
+- d. **Particuliere transacties**: transacties geïnitieerd door natuurlijke personen niet handelend in kader van beroep of bedrijf.
 
 ##### Artikel 2
 
-1. Deze regeling ziet op betalingsverkeer binnen Nederland en voor zover instellingen via giraal betalingsverkeer betaalinstrumenten als bedoeld in [artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) aan hun klanten aanbieden.
+1. Deze regeling ziet op het retail betalingsverkeer binnen Nederland, voor zover instellingen via giraal betalingsverkeer betaalinstrumenten als bedoeld in [artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) aan hun klanten aanbieden.
 
-2. Deze regeling is van toepassing op banken, betaalinstellingen en elektronischgeldinstellingen die 60 miljoen of meer girale betalingstransacties per kalenderjaar verrichten.
+2. Deze regeling is van toepassing op banken, betaalinstellingen en elektronischgeldinstellingen die 120 miljoen of meer girale particuliere transacties per kalenderjaar verrichten.
 
-### Hoofdstuk 2. De goede werking van het betalingsverkeer
+### Hoofdstuk 2. De goede werking van het retail betalingsverkeer
 
 ##### Artikel 3
 
@@ -76,27 +76,23 @@ Onverminderd het bepaalde in [artikel 23 Besluit prudentiële regels Wft](https:
 
 ##### Artikel 4
 
-1. Een instelling beschikt over een duidelijke, evenwichtige en adequate bestuurlijke organisatie die rekening houdt met het maatschappelijke belang van een goed functionerend betalingsverkeer en de belangen van alle relevante belanghebbenden.
+1. Een instelling beschikt over een duidelijke, evenwichtige en adequate bestuurlijke organisatie die rekening houdt met het maatschappelijke belang van een goed functionerend retail betalingsverkeer en de belangen van alle relevante belanghebbenden.
 
-2. De taken en verantwoordelijkheden voor het betalingsverkeer en de hierbij gehanteerde normen, waaronder in ieder geval voor beschikbaarheid en beveiliging, zijn binnen een instelling op eenduidige wijze en voldoende hoog niveau belegd.
+2. De taken en verantwoordelijkheden voor het retail betalingsverkeer en de hierbij gehanteerde normen, waaronder in ieder geval voor beschikbaarheid en beveiliging, zijn binnen een instelling op eenduidige wijze en voldoende hoog niveau belegd.
 
 ##### Artikel 5
 
-Een instelling beschikt over een deugdelijk kader van regels en procedures voor de beheersing van risico’s in relatie tot het betalingsverkeer. Hierbij wordt op adequate wijze invulling gegeven aan hetgeen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037381&hoofdstuk=2&artikel=6&z=2015-12-22&g=2015-12-22) gesteld is inzake operationele risico’s.
+Een instelling beschikt over een deugdelijk kader van regels en procedures voor de beheersing van risico’s in relatie tot het retail betalingsverkeer. Hierbij wordt op adequate wijze invulling gegeven aan hetgeen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037381&hoofdstuk=2&artikel=6&z=2022-06-25&g=2022-06-25) gesteld is inzake operationele risico’s.
 
 ##### Artikel 6
 
-1. Een instelling identificeert, bewaakt en beheerst haar operationele risico’s inzake het betalingsverkeer adequaat. Een instelling maakt daarbij gebruik van systemen, beleid en beheersmaatregelen die risico’s signaleren en de impact van risico’s beperken. Een instelling stuurt aan op het tijdig voortzetten van haar bedrijfsvoering en dienstverlening en op tijdig herstel indien sprake is van onderbreking daarin. De systemen zijn zo ingericht dat deze een hoog niveau van beschikbaarheid en veiligheid waarborgen.
+1. Een instelling identificeert, bewaakt en beheerst haar operationele risico’s inzake het retail betalingsverkeer adequaat. Een instelling maakt daarbij gebruik van systemen, beleid en beheersmaatregelen die risico’s signaleren en de impact van risico’s beperken. Een instelling stuurt aan op het tijdig voortzetten van haar bedrijfsvoering en dienstverlening en op tijdig herstel indien sprake is van onderbreking daarin. De systemen zijn zo ingericht dat deze een hoog niveau van beschikbaarheid en veiligheid waarborgen.
 
-2. Voor tijdkritische betaalopdrachten geldt dat deze ten minste voldoen aan een beschikbaarheidsnorm van 99,88 % tijdens het hogevraagtijdvak gemeten op kwartaalbasis en 98,5 % daarbuiten. Voor niet-tijdkritische betaalopdrachten dient sprake te zijn van tijdig herstel van de dienstverlening. Van een tijdig herstel is sprake indien de herstelperiode voor het kunnen indienen van een betaalopdracht niet langer duurt dan twee uur. Voor de beschikbaarheidsnorm van 99,88% is een groeipad opgesteld: vanaf eind 2016 geldt een beschikbaarheidsnorm voor tijdkritische betaalopdrachten tijdens het hogevraagtijdvak van 99,64%, vanaf eind 2017 is dit 99,76% en vanaf eind 2018 99,88%.
+2. Over de beschikbaarheid van de tijdkritische betaalopdrachten wordt door de instelling ten minste maandelijks publiekelijk gerapporteerd.
 
-3. Over de beschikbaarheid van de tijdkritische betaalopdrachten wordt door de instelling ten minste maandelijks publiekelijk gerapporteerd.
+3. Voor de beveiliging van het retail betalingsverkeer heeft de instelling adequate procedures en neemt maatregelen om zich te kunnen houden aan nationale en internationale regelgeving.
 
-4. Voor onderdelen van de transactieprocessen die door derden (dienstverleners) worden uitgevoerd zijn de beschikbaarheidsnormen in contractafspraken vastgelegd.
-
-5. Voor de beveiliging van het betalingsverkeer heeft de instelling adequate procedures en neemt maatregelen om zich te kunnen houden aan nationale en internationale regelgeving.
-
-6. De instelling ziet er op systematische wijze op toe dat de procedures en maatregelen ten aanzien van de beveiliging en beschikbaarheid worden nageleefd.
+4. De instelling ziet er op systematische wijze op toe dat de procedures en maatregelen ten aanzien van de beveiliging en beschikbaarheid worden nageleefd.
 
 ##### Artikel 7
 
