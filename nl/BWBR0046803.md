@@ -4,7 +4,7 @@ identifier: "BWBR0046803"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-11"
-last_updated: "2022-05-01"
+last_updated: "2022-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046803"
 soort: "ministeriele-regeling"
@@ -116,7 +116,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het doen van voorstellen aan de directeur met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0046803&paragraaf=3&artikel=6&z=2022-06-25&g=2022-05-01), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0046803&paragraaf=3&artikel=6&z=2022-06-25&g=2022-06-25), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
 - e. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie;
 
