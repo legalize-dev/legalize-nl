@@ -4,7 +4,7 @@ identifier: "BWBR0041883"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-27"
-last_updated: "2019-02-08"
+last_updated: "2022-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041883"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **de secretaris-generaal:** de secretaris-generaal van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- d. **de directeur Transitie en aansturing bedrijfsvoering:** de directeur Transitie en aansturing bedrijfsvoering van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- d. **de plaatsvervangend secretaris-generaal;** de plaatsvervangend secretaris-generaal van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
 - e. **de directie Financieel-Economische Zaken:** de directie Financieel-Economische Zaken van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
@@ -66,15 +66,23 @@ In dit besluit wordt verstaan onder:
 
 - a. de secretaris-generaal, tevens voorzitter;
 
-- b. de directeur-generaal Agro en de directeur-generaal Natuur, Visserij en Landelijk Gebied;
+- b. de plaatsvervangend secretaris-generaal;
 
-- c. ten minste twee door de minister benoemde onafhankelijke, externe leden.
+- c. de directeur-generaal Agro;
 
-2. De inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit, de directeur Transitie en aansturing bedrijfsvoering zijn agendalid. Het Audit Committee LNV stelt de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit en de directeur Transitie en aansturing bedrijfsvoering in de gelegenheid om de vergaderingen of delen van de vergaderingen van het Audit Committee LNV bij te wonen.
+- d. de directeur-generaal Natuur en Visserij;
+
+- e. de directeur-generaal Landelijk Gebied en Stikstof;
+
+- f. de directeur-generaal Regieorganisatie Realisatie Transitie Landelijk Gebied;
+
+- g. ten minste drie door de minister benoemde onafhankelijke, externe leden.
+
+2. De inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit, is agendalid. Het Audit Committee LNV stelt de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit en in de gelegenheid om de vergaderingen of delen van de vergaderingen van het Audit Committee LNV bij te wonen.
 
 ##### Artikel 4
 
-Aan de onafhankelijke, externe leden van het Audit Committee LNV, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041883&artikel=3&z=2019-02-08&g=2019-02-08), wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,031.
+Aan de onafhankelijke, externe leden van het Audit Committee LNV, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041883&artikel=3&z=2022-06-28&g=2022-06-28), wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,031.
 
 ##### Artikel 5
 
