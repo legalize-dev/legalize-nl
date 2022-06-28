@@ -4,7 +4,7 @@ identifier: "BWBR0046809"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-06-28"
-last_updated: "2021-01-01"
+last_updated: "2022-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046809"
 soort: "zbo"
@@ -117,11 +117,11 @@ In de financiële overzichten worden de activa en passiva van de financiële str
 
 In de toelichting wordt per financiële stroom opgenomen welke taken het CAK uitvoert, het normenkader, de gehanteerde waarderingsgrondslag, eventuele bijzonderheden en/of analyse van financiële ontwikkelingen ten overstaan van voorgaand boekjaar. Van de activa en passiva worden minimaal verloopoverzichten en toelichtingen opgenomen van vorderingen en schulden. Dit betreft in het bijzonder de verloopoverzichten van de rekening-courantposities en de openstaande vorderingen en een uitsplitsing per financiële stroom (m.u.v. de baten en lasten van het verbindingsorgaan) voor de rekening courant CAK – Zorginstituut.
 
-Het CAK neemt in de financieel overzichten van de activa en passiva, indien van toepassing, per financiële stroom debiteurenvorderingen op. Deze vorderingen worden gewaardeerd tegen de reële waarde, gewoonlijk de nominale waarde, onder aftrek van noodzakelijk geachte voorzieningen (zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=1&z=2022-06-28&g=2021-01-01)). In de toelichting wordt een nadere uiteenzetting gegeven. Het Zorginstituut verzoekt voor zijn informatiebehoefte dat in de toelichting specifieke aandacht wordt gegeven aan de waardering van de waarde van de vorderingen.
+Het CAK neemt in de financieel overzichten van de activa en passiva, indien van toepassing, per financiële stroom debiteurenvorderingen op. Deze vorderingen worden gewaardeerd tegen de reële waarde, gewoonlijk de nominale waarde, onder aftrek van noodzakelijk geachte voorzieningen (zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=1&z=2022-06-28&g=2022-06-28)). In de toelichting wordt een nadere uiteenzetting gegeven. Het Zorginstituut verzoekt voor zijn informatiebehoefte dat in de toelichting specifieke aandacht wordt gegeven aan de waardering van de waarde van de vorderingen.
 
 Daarnaast dient in de toelichting het verloop van de voorziening wegens oninbaarheid van vorderingen op onverzekerden en wanbetalers te worden weergegeven. Het CAK vormt deze onder andere op basis van de incassoresultaten uit het verleden en met inachtneming van de procedures zoals vastgelegd in het debiteurenbeleid van het CAK ‘de regeling verdragsgerechtigden’ en ‘Wanbetalers- en onverzekerdenregeling CAK’, alsmede de bepalingen uit de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb) omtrent verjaring.
 
-De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording burgerregelingen volgen de inrichtingsvoorschriften zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=3&z=2022-06-28&g=2021-01-01) van dit model en worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=1&z=2022-06-28&g=2021-01-01) van dit model.
+De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording burgerregelingen volgen de inrichtingsvoorschriften zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=3&z=2022-06-28&g=2022-06-28) van dit model en worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=1&z=2022-06-28&g=2022-06-28) van dit model.
 
 De andere informatie in de bestuurlijke verantwoording bestaat minimaal uit bovengenoemde onderdelen a tot en met i.
 
@@ -149,7 +149,7 @@ In de bestuurlijke verantwoording burgerregelingen besteedt het CAK aandacht aan
 
 Het CAK geeft hierbij in een totaaloverzicht toelichting op de stand van zaken en de voortgang in de opvolging van verbeterpunten waarover de NZa heeft gerapporteerd in de toezichtsrapportage(s) over de uitvoering van de wettelijke taken door het CAK.
 
-In [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=4&z=2022-06-28&g=2021-01-01) van dit model is in detail beschreven wat deze verantwoording omvat en waar deze verantwoording aan moet voldoen.
+In [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=4&z=2022-06-28&g=2022-06-28) van dit model is in detail beschreven wat deze verantwoording omvat en waar deze verantwoording aan moet voldoen.
 
 ### 2.2. Uitvoeringsverslag
 
@@ -189,7 +189,7 @@ De Raad van Bestuur van het CAK dient ervoor te zorgen dat de bestuurlijke veran
 
 Juistheid en volledigheid houden in hun algemeenheid in dat het beeld dat de verstrekte verantwoordingsinformatie oproept overeenkomt met de feiten (de werkelijkheid) en geschikt is voor het doel waartoe deze informatie aan de gebruiker wordt verstrekt.
 
-In dit kader dienen de in de financiële overzichten opgenomen baten en lasten, activa en passiva en toelichtingen daarop een feitelijke weergave te zijn van de transacties, de uitgevoerde werkzaamheden en de gebeurtenissen in het verslagjaar 2021. De baten en lasten en de activa en passiva in de financiële overzichten dienen te worden verantwoord met inachtneming van de waarderingsgrondslagen zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=1&z=2022-06-28&g=2021-01-01).
+In dit kader dienen de in de financiële overzichten opgenomen baten en lasten, activa en passiva en toelichtingen daarop een feitelijke weergave te zijn van de transacties, de uitgevoerde werkzaamheden en de gebeurtenissen in het verslagjaar 2021. De baten en lasten en de activa en passiva in de financiële overzichten dienen te worden verantwoord met inachtneming van de waarderingsgrondslagen zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=1&z=2022-06-28&g=2022-06-28).
 
 ### 3.3. Rechtmatigheid
 
@@ -211,7 +211,7 @@ Als voorwaarde hierbij geldt dat de aanleverings- en opvraagprocedures en de ing
 
 Om tot een werkbaar rechtmatigheidsbegrip te komen, dat de externe accountant als maatstaf kan hanteren bij zijn accountantsonderzoek, zijn de volgende randvoorwaarden van belang:
 
-In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=2&z=2022-06-28&g=2021-01-01) bij dit model is een overzicht opgenomen van de circulaires en de wet- en regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK, daarnaast zijn daar ook de overige beleidsstukken opgenomen. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
+In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=2&z=2022-06-28&g=2022-06-28) bij dit model is een overzicht opgenomen van de circulaires en de wet- en regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK, daarnaast zijn daar ook de overige beleidsstukken opgenomen. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
 
 Met inachtneming van de genoemde randvoorwaarden en nadere uitwerking van het begrip rechtmatigheid in hoofdstuk 4, dient de externe accountant een rechtmatigheidsoordeel te geven en kan hij in zijn verslag een nadere toelichting geven op de rechtmatige uitvoering van de burgerregelingen door het CAK. In het [protocol](https://wetten.overheid.nl/jci1.3:c:BWBR0046808) zijn de richtlijnen voor de controle van de externe accountant uitgewerkt.
 
@@ -265,7 +265,7 @@ De uit de Onverzekerbare vreemdelingenregeling voortvloeiende ontvangsten en uit
 
 Het CAK baseert de verantwoording op de ultimo 2021 bekende stand van de zorginstellingen ontvangen en betaalde declaraties. De bijdrage van het Ministerie van VWS is niet gelijk aan de lasten. De lasten zijn gelijk aan de uitgaven aan de zorgaanbieders. Eventuele verschillen tussen verleende voorschotten van het Ministerie van VWS en de afrekeningen met de zorgaanbieders worden later verrekend met het Ministerie van VWS. Dit wordt verantwoord in het financieel overzicht van de activa en passiva (inclusief verloopoverzicht) van deze financiële stroom. Op verzoek van het Ministerie van VWS worden de bedragen in de toelichting in euro’s met twee decimalen weergegeven.
 
-Voor de goedkeuringstolerantie wordt uitgegaan van 5% van de som van de ontvangsten en uitgaven van deze regeling in het verslagjaar. Dit is afwijkend ten opzichte van de andere regelingen vanwege de toepassing van het kasstelsel (zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=1&z=2022-06-28&g=2021-01-01) Toelichtingen en waarderingsgrondslagen).
+Voor de goedkeuringstolerantie wordt uitgegaan van 5% van de som van de ontvangsten en uitgaven van deze regeling in het verslagjaar. Dit is afwijkend ten opzichte van de andere regelingen vanwege de toepassing van het kasstelsel (zie [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=1&z=2022-06-28&g=2022-06-28) Toelichtingen en waarderingsgrondslagen).
 
 ### 4.2.2. Gemoedsbezwaardenregeling
 
@@ -293,7 +293,7 @@ Het CAK kan de bestuursrechtelijke premie in de vorm van broninhouding inhouden 
 
 Zorgverzekeraars ontvangen voor personen die ambtshalve zijn verzekerd een compensatiebijdrage van het CAK. Deze bijdrage wordt betaald per kalenderjaar en is afkomstig uit het Zvf.
 
-Het CAK heeft naar aanleiding van een besluit van de staatsecretaris van Financiën – Toeslagen en Douane besloten opdracht te geven aan een verzoek van het Ministerie van VWS om in het jaar 2021 uitvoering te gegeven aan de hersteloperatie KOT met betrekking tot de gedupeerden in de onverzekerdenregeling. Voor de nadere context bij de uitvoering en de verantwoording door het CAK wordt verwezen naar [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=4&z=2022-06-28&g=2021-01-01).
+Het CAK heeft naar aanleiding van een besluit van de staatsecretaris van Financiën – Toeslagen en Douane besloten opdracht te geven aan een verzoek van het Ministerie van VWS om in het jaar 2021 uitvoering te gegeven aan de hersteloperatie KOT met betrekking tot de gedupeerden in de onverzekerdenregeling. Voor de nadere context bij de uitvoering en de verantwoording door het CAK wordt verwezen naar [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=4&z=2022-06-28&g=2022-06-28).
 
 Het CAK is op grond van de [Wlz (artikel 6.1.2d)](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2), de [Zvw (artikel 9a t/m d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9a), [artikel 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) en [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a)), de [Wet op de zorgtoeslag (artikel 5, tweede lid)](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=5), de [Regeling vaststelling standaardpremie en bestuursrechtelijke premies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044400), de [Regeling Zorgverzekering (artikel 6.4.a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=6.4a.1) en [artikelen 6.5.1 t/m 6.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=6.5.1)), de [Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 01-08-2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041925) en de [Beleidsregel CAK betaling bestuurlijke boete onverzekerden Zorgverzekeringswet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038994) belast met de uitvoering van de Onverzekerdenregeling.
 
@@ -315,7 +315,7 @@ De aangemelde wanbetalers stromen uit de Wanbetalersregeling indien de zorgverze
 
 Het Ministerie van VWS kan een deel van de geïnde bestuursrechtelijke premies gebruiken voor de financiering van de uitvoeringskosten. Het af te dragen percentage van de door het CAK ontvangen bedragen is door het Ministerie van VWS vastgesteld.
 
-Het CAK heeft naar aanleiding van een besluit van de staatsecretaris van Financiën – Toeslagen en Douane besloten opdracht te geven aan een verzoek van het Ministerie van VWS om in het jaar 2021 uitvoering te gegeven aan de hersteloperatie KOT met betrekking tot de gedupeerden in de wanbetalersregeling. Voor de nadere context bij de uitvoering en de verantwoording door het CAK wordt verwezen naar [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=4&z=2022-06-28&g=2021-01-01).
+Het CAK heeft naar aanleiding van een besluit van de staatsecretaris van Financiën – Toeslagen en Douane besloten opdracht te geven aan een verzoek van het Ministerie van VWS om in het jaar 2021 uitvoering te gegeven aan de hersteloperatie KOT met betrekking tot de gedupeerden in de wanbetalersregeling. Voor de nadere context bij de uitvoering en de verantwoording door het CAK wordt verwezen naar [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=4&z=2022-06-28&g=2022-06-28).
 
 Het CAK is op grond van de [Wlz (artikel 6.1.2 onder e)](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2), de [Zvw (artikel 18a t/m g](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18a), [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34a), en [39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39)), de [Wet op de zorgtoeslag (artikel 5, tweede lid)](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=5), de [Regeling zorgverzekering (artikel 6.5.1 t/m 6.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=6.5.1) en [7b.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=7b.1)), de [Regeling vaststelling standaardpremie en bestuursrechtelijke premies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044400), de [Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 01-08-2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041925) en de [Beleidsregels CAK verstrekking bijdrage aan zorgverzekeraars voor het verzekerd houden van wanbetalers van de nominale premie Zorgverzekeringswet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039018) belast met de uitvoering van de Wanbetalersregeling.
 
@@ -375,7 +375,7 @@ Personen die in een ander EU-land of verdragsland wonen, hebben onder bepaalde o
 
 Voor deze zorg betaalt de verdragsgerechtigde een bijdrage die wordt geïnd door het CAK. Deze bijdrage bestaat uit inkomensafhankelijke bijdragen voor de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en een nominale component. De hoogte van de verdragsbijdrage wordt gecorrigeerd met een woonlandfactor. Voor elk verdragsland geldt een aparte woonlandfactor. De woonlandfactor zorgt ervoor dat de hoogte van de verdragsbijdrage in overeenstemming is met de omvang en de kosten van het zorgpakket in het woonland van de verdragsgerechtigde.
 
-Het CAK heeft naar aanleiding van een besluit van de staatsecretaris van Financiën – Toeslagen en Douane besloten opdracht te geven aan een verzoek van het Ministerie van VWS om in het jaar 2021 uitvoering te gegeven aan de hersteloperatie KOT met betrekking tot de gedupeerden in de regeling bijdrage verdragsgerechtigden. Voor de nadere context bij de uitvoering en de verantwoording door het CAK wordt verwezen naar [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=4&z=2022-06-28&g=2021-01-01).
+Het CAK heeft naar aanleiding van een besluit van de staatsecretaris van Financiën – Toeslagen en Douane besloten opdracht te geven aan een verzoek van het Ministerie van VWS om in het jaar 2021 uitvoering te gegeven aan de hersteloperatie KOT met betrekking tot de gedupeerden in de regeling bijdrage verdragsgerechtigden. Voor de nadere context bij de uitvoering en de verantwoording door het CAK wordt verwezen naar [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=4&z=2022-06-28&g=2022-06-28).
 
 Het CAK is bevoegd orgaan in de zin van artikel 1 onderdeel q onder iii van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels en bilaterale sociale zekerheidsverdragen ([Verordening (EG) nr. 883/2004](32004R0883)). In Titel III, Hoofdstuk 1 van [Verordening (EG) nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van [Verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de socialezekerheidsstelsels ([Verordening (EG) nr. 883/2004](32004R0883)) zijn de relevante prestaties opgenomen. Het CAK is op grond van [artikel 6.1.2, onder g, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2) juncto [artikel 69, tweede lid, van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) belast met de inning van de verdragsbijdrage. Op grond van [artikel 39, tweede lid, van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39) komen deze bijdragen ten gunste van het Zvf.
 
@@ -607,7 +607,7 @@ Het CAK is bij de uitvoering van verschillende regelingen afhankelijk van gegeve
 
 ### Specificaties rekening-courant Zorginstituut Nederland
 
-In de toelichtingen bij de financiële overzichten van de activa en passiva dienen specificaties van het verloop van de rekening-courant met het Zorginstituut van de verschillende burgerregelingen te worden opgenomen. Hiervoor is een format zoals afgestemd met het Zorginstituut opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=3&z=2022-06-28&g=2021-01-01).
+In de toelichtingen bij de financiële overzichten van de activa en passiva dienen specificaties van het verloop van de rekening-courant met het Zorginstituut van de verschillende burgerregelingen te worden opgenomen. Hiervoor is een format zoals afgestemd met het Zorginstituut opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=3&z=2022-06-28&g=2022-06-28).
 
 ### Gebeurtenissen na balansdatum
 
@@ -773,4 +773,4 @@ Het CAK moet zelf ook een beoordeling doen in het verlengde van haar uitvoerings
 
 ### •. Kwijtscheldingsgrondslag
 
-Om kwijtschelding mogelijk te maken is er een kwijtscheldingsgrondslag opgenomen in de voorgenomen wetswijziging. Deze grondslag is tijdelijk, geldt voor door de Belastingdienst aangegeven lijst(en) van gedupeerden en werkt terug tot het begin van de hersteloperatie. Het CAK handelt op verzoek van het Ministerie van VWS vooruitlopend op het inwerkingtreden van deze grondslag. Hierover is de Tweede Kamer, voordat de eerste kwijtschelding door het CAK heeft plaatsgevonden, geïnformeerd. Zodra de kwijtscheldingsgrondslag is aangenomen wordt deze onderdeel van het rechtmatigheidskader van ‘[Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=2&z=2022-06-28&g=2021-01-01). Juridisch Kader met wet- en regelgeving en overige beleidsstukken’.
+Om kwijtschelding mogelijk te maken is er een kwijtscheldingsgrondslag opgenomen in de voorgenomen wetswijziging. Deze grondslag is tijdelijk, geldt voor door de Belastingdienst aangegeven lijst(en) van gedupeerden en werkt terug tot het begin van de hersteloperatie. Het CAK handelt op verzoek van het Ministerie van VWS vooruitlopend op het inwerkingtreden van deze grondslag. Hierover is de Tweede Kamer, voordat de eerste kwijtschelding door het CAK heeft plaatsgevonden, geïnformeerd. Zodra de kwijtscheldingsgrondslag is aangenomen wordt deze onderdeel van het rechtmatigheidskader van ‘[Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046809&bijlage=2&z=2022-06-28&g=2022-06-28). Juridisch Kader met wet- en regelgeving en overige beleidsstukken’.
