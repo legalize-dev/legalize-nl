@@ -4,7 +4,7 @@ identifier: "BWBR0046811"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-06-28"
-last_updated: "2021-01-01"
+last_updated: "2022-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046811"
 soort: "zbo"
@@ -109,7 +109,7 @@ De bestuurlijke verantwoording van de wettelijke regelingen en taken (zie paragr
 
 Voor de verantwoording van de financiële stromen maakt het CAK gebruik van de matrices bestuurlijke verantwoording. De matrices geven aan bij welke financiële stromen (op kasbasis) het CAK direct is betrokken, wat de omvang is van deze financiële stromen, welke taken en verantwoordelijkheden het CAK heeft ten aanzien van deze financiële stromen en welke voorbehouden gelden in verband met de opdrachtverstrekking en gegevensaanlevering door derden. In de kolom bestuurlijke toelichting geeft het CAK aan hoe en in hoeverre de rechtmatigheid van de financiële stromen door het CAK is gewaarborgd.
 
-De matrix voor het Ministerie van VWS is uitgewerkt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=3&z=2022-06-28&g=2021-01-01) ‘Model Matrix bestuurlijke verantwoording VWS’ van dit model. De matrix voor de NZa is uitgewerkt in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=4&z=2022-06-28&g=2021-01-01) ‘Model Matrix bestuurlijke verantwoording NZa’. De matrices, die een rol spelen bij de concrete invulling van het rechtmatigheidsbegrip bij het CAK, geven de volgende financiële stromen weer op kasbasis:
+De matrix voor het Ministerie van VWS is uitgewerkt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=3&z=2022-06-28&g=2022-06-28) ‘Model Matrix bestuurlijke verantwoording VWS’ van dit model. De matrix voor de NZa is uitgewerkt in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=4&z=2022-06-28&g=2022-06-28) ‘Model Matrix bestuurlijke verantwoording NZa’. De matrices, die een rol spelen bij de concrete invulling van het rechtmatigheidsbegrip bij het CAK, geven de volgende financiële stromen weer op kasbasis:
 
 Inzake het Ministerie van VWS:
 
@@ -145,7 +145,7 @@ In de bestuursverklaring geeft de Raad van Bestuur van het CAK aan of de informa
 
 Onderdeel e de kengetallen en prestatie-indicatoren
 
-Het CAK moet in de bestuurlijke verantwoording een aantal kengetallen en prestatie-indicatoren voor het verslagjaar en voor zover van toepassing het jaar voorafgaand aan het verslagjaar opnemen. Deze kengetallen en prestatie-indicatoren zijn in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=5&z=2022-06-28&g=2021-01-01) ‘Definities kengetallen en prestatie-indicatoren’ van dit model opgenomen.
+Het CAK moet in de bestuurlijke verantwoording een aantal kengetallen en prestatie-indicatoren voor het verslagjaar en voor zover van toepassing het jaar voorafgaand aan het verslagjaar opnemen. Deze kengetallen en prestatie-indicatoren zijn in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=5&z=2022-06-28&g=2022-06-28) ‘Definities kengetallen en prestatie-indicatoren’ van dit model opgenomen.
 
 Met het oog op eventuele controles achteraf legt het CAK duidelijk intern vast, hoe de aan de kengetallen en prestatie-indicatoren ten grondslag liggende gegevens tot stand zijn gekomen.
 
@@ -163,7 +163,7 @@ Het CAK geeft hierbij in een totaaloverzicht toelichting op de stand van zaken e
 
 Oderdeel h de verantwoording over de uitvoering van de hersteloperatie Kinderopvangtoeslag (KOT).
 
-In [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=6&z=2022-06-28&g=2021-01-01) van dit model is in detail beschreven wat deze verantwoording omvat en waar deze verantwoording aan moet voldoen.
+In [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=6&z=2022-06-28&g=2022-06-28) van dit model is in detail beschreven wat deze verantwoording omvat en waar deze verantwoording aan moet voldoen.
 
 ### 2.2. Uitvoeringsverslag
 
@@ -217,7 +217,7 @@ De Raad van Bestuur van het CAK dient ervoor te zorgen dat de bestuurlijke veran
 
 Juistheid en volledigheid houden in hun algemeenheid in dat het beeld dat de verstrekte verantwoordingsinformatie oproept overeenkomt met de feiten (de werkelijkheid) en geschikt is voor het doel waartoe deze informatie aan de gebruiker wordt verstrekt.
 
-In dit kader dienen de in de financiële verantwoording opgenomen activa en passiva (balansmutaties) en toelichtingen daarop en de in de matrices bestuurlijke verantwoording opgenomen financiële stromen een feitelijke weergave te zijn van de transacties, de uitgevoerde werkzaamheden en de gebeurtenissen in het verslagjaar 2021. De financiële stromen en de activa en passiva in de financiële overzichten dienen te worden verantwoord met inachtneming van de waarderingsgrondslagen zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=1&z=2022-06-28&g=2021-01-01).
+In dit kader dienen de in de financiële verantwoording opgenomen activa en passiva (balansmutaties) en toelichtingen daarop en de in de matrices bestuurlijke verantwoording opgenomen financiële stromen een feitelijke weergave te zijn van de transacties, de uitgevoerde werkzaamheden en de gebeurtenissen in het verslagjaar 2021. De financiële stromen en de activa en passiva in de financiële overzichten dienen te worden verantwoord met inachtneming van de waarderingsgrondslagen zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=1&z=2022-06-28&g=2022-06-28).
 
 ### 3.3. Rechtmatigheid
 
@@ -235,7 +235,7 @@ Bij gebruikersverantwoordelijkheid moet een organisatie ook zorgen voor de juist
 
 Om tot een werkbaar rechtmatigheidsbegrip te komen, die een externe accountant als maatstaf kan hanteren bij zijn accountantsonderzoek, zijn de volgende randvoorwaarden van belang:
 
-In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=2&z=2022-06-28&g=2021-01-01) bij dit model is een overzicht opgenomen van de circulaires en regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK, daarnaast zijn daar ook de overige beleidsstukken opgenomen. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
+In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046811&bijlage=2&z=2022-06-28&g=2022-06-28) bij dit model is een overzicht opgenomen van de circulaires en regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK, daarnaast zijn daar ook de overige beleidsstukken opgenomen. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
 
 Met inachtneming van de genoemde randvoorwaarden en nadere uitwerking van het begrip rechtmatigheid in hoofdstuk 4, dient de externe accountant een rechtmatigheidsoordeel te geven en in zijn verslag een toelichting te geven op de rechtmatige uitvoering door het CAK. In het protocol zijn de richtlijnen voor de controle van de externe accountant uitgewerkt.
 
