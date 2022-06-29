@@ -4,7 +4,7 @@ identifier: "BWBR0045642"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-01"
-last_updated: "2022-05-28"
+last_updated: "2022-06-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045642"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Besluit:
 
 - c. voor het nemen van besluiten op grond van [artikel 7.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=7.2) gericht op het stimuleren van buitenlandse investeringen door Nederlandse ondernemingen waarvoor financiering mogelijk is op grond van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038451), bedoeld in het tweede lid, onder b;
 
-- d. voor de toepassing van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en de afhandeling van klachten voor zover samenhangend met de besluiten en (rechts)handelingen.
+- d. voor de toepassing van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en de afhandeling van klachten voor zover samenhangend met de besluiten en (rechts)handelingen.
 
 2. De besluiten, bedoeld in het eerste lid, onderdeel a, zijn:
 
@@ -60,15 +60,21 @@ Besluit:
 
 - c. [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 december 2019 tot verlenging van de looptijd van beleidsregels voor subsidieverlening met het oog op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE)](https://wetten.overheid.nl/jci1.3:c:BWBR0042968) 3 Stcrt. 2015, 16818;
 
-- d. [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 3 juni 2015, nr. MINBUZA-2015.284092, tot vaststelling van de beleidsregels voor sluiten van schenkingsarrangementen met het oog op de ontwikkeling en aanbesteding van ontwikkelingsrelevante infrastructurele projecten (Develop2Build)](https://wetten.overheid.nl/jci1.3:c:BWBR0036676) 4 Stcrt. 2015, 16820; en
+- d. [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 3 juni 2015, nr. MINBUZA-2015.284092, tot vaststelling van de beleidsregels voor sluiten van schenkingsarrangementen met het oog op de ontwikkeling en aanbesteding van ontwikkelingsrelevante infrastructurele projecten (Develop2Build)](https://wetten.overheid.nl/jci1.3:c:BWBR0036676) 4 Stcrt. 2015, 16820;
 
-- e. [Besluit van de Staatssecretaris van Buitenlandse Zaken van 30 maart 2012, Nr. DDE-41/2012, tot vaststelling van de beleidsregels voor het doen van schenkingen aan overheidsorganen in ontwikkelingslanden met het oog op de ontwikkeling, implementatie en exploitatie van publieke infrastructuur (Schenkingsfaciliteit ORIO 2012)](https://wetten.overheid.nl/jci1.3:c:BWBR0031505) 5 Stcrt. 2012, 8239.
+- e. [Besluit van de Staatssecretaris van Buitenlandse Zaken van 30 maart 2012, Nr. DDE-41/2012, tot vaststelling van de beleidsregels voor het doen van schenkingen aan overheidsorganen in ontwikkelingslanden met het oog op de ontwikkeling, implementatie en exploitatie van publieke infrastructuur (Schenkingsfaciliteit ORIO 2012)](https://wetten.overheid.nl/jci1.3:c:BWBR0031505) 5 Stcrt. 2012, 8239;
 
-3. De op grond van het eerste lid verleende bevoegdheden strekken zich mede uit tot het nemen van besluiten op bezwaarschriften voor zover het besluit waartegen het bezwaar zich richt niet door de Chief Executive Officer van Invest International B.V. in mandaat is genomen, en tot het voeren van beroepsprocedures over de krachtens die bevoegdheden genomen besluiten.
+- f. [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 mei 2022, nr. Min-BuZa.2022.11844-20 tot hernieuwde vaststelling van de beleidsregels voor sluiten van schenkingsarrangementen met het oog op de ontwikkeling en aanbesteding van ontwikkelingsrelevante infrastructurele projecten (Develop2Build 2022)](https://wetten.overheid.nl/jci1.3:c:BWBR0046709); en
+
+- g. [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 mei 2022, nr. Min-BuZa.2022.11844-15 tot hernieuwde vaststelling van beleidsregels voor subsidieverlening met het ook op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE 2022)](https://wetten.overheid.nl/jci1.3:c:BWBR0046711).
+
+3. Indien een besluit als bedoeld in het eerste lid, onderdeel a, vervalt, dan blijft de Chief Executive Officer van Invest International B.V. bevoegd om namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking de in het eerste lid, aanhef en onderdeel a en d bedoelde besluiten te nemen, rechtshandelingen en feitelijke handelingen te verrichten tot het moment waarop het vervallen besluit volledig is uitgevoerd.
+
+4. De op grond van het eerste en derde lid verleende bevoegdheden strekken zich mede uit tot het nemen van besluiten op bezwaarschriften voor zover het besluit waartegen het bezwaar zich richt niet door de Chief Executive Officer van Invest International B.V. in mandaat is genomen, en tot het voeren van beroepsprocedures over de krachtens die bevoegdheden genomen besluiten.
 
 ##### Artikel 2
 
-De Chief Executive Officer van Invest International B.V. kan voor zijn bevoegdheden, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045642&artikel=1&z=2022-06-29&g=2022-05-28), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende medewerkers die tevens werkzaam zijn ten behoeve van Invest International Public Programmes B.V., dan wel aan medewerkers van Invest International Public Programmes B.V.
+De Chief Executive Officer van Invest International B.V. kan voor zijn bevoegdheden, bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045642&artikel=1&z=2022-06-29&g=2022-06-29), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende medewerkers die tevens werkzaam zijn ten behoeve van Invest International Public Programmes B.V., dan wel aan medewerkers van Invest International Public Programmes B.V.
 
 ##### Artikel 3
 
