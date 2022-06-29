@@ -4,7 +4,7 @@ identifier: "BWBR0045602"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-06-29"
-last_updated: "2021-10-02"
+last_updated: "2022-06-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045602"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - **besluit:** [Besluit tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0010000);
 
-- **eigen risico:** het verschil tussen de som van de schade- en kostenbedragen en de tegemoetkoming die daarvoor wordt verleend op basis van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=7&z=2021-10-02&g=2021-10-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=8&z=2021-10-02&g=2021-10-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=9&z=2021-10-02&g=2021-10-02), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=10&z=2021-10-02&g=2021-10-02), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2021-10-02&g=2021-10-02) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=14&z=2021-10-02&g=2021-10-02), van deze regeling;
+- **eigen risico:** het verschil tussen de som van de schade- en kostenbedragen en de tegemoetkoming die daarvoor wordt verleend op basis van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=7&z=2022-06-29&g=2022-06-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=8&z=2022-06-29&g=2022-06-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=9&z=2022-06-29&g=2022-06-29), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=10&z=2022-06-29&g=2022-06-29), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2022-06-29&g=2022-06-29) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=14&z=2022-06-29&g=2022-06-29), van deze regeling;
 
 - **kostenbedrag:** de gemaakte kosten, vastgesteld door een schade-expert, waarop in mindering zijn gebracht de kosten, bedoeld in [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4) juncto [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010000&artikel=5);
 
@@ -98,7 +98,7 @@ De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid,
 
 1. De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), bedraagt 65% van het schadebedrag. Deze schade wordt berekend in overeenstemming met artikel 50, vierde lid, van de AGVV of voor de landbouwsector in overeenstemming met artikel 30, zesde lid, van de LVV.
 
-2. In afwijking van het eerste lid wordt de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), voor een gedupeerd kerkgenootschap, een gedupeerde vereniging of een gedupeerde stichting vastgesteld overeenkomstig de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=3&z=2021-10-02&g=2021-10-02) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=4&z=2021-10-02&g=2021-10-02), tenzij de stichting of vereniging een zorginstelling of onderneming in stand houdt.
+2. In afwijking van het eerste lid wordt de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), voor een gedupeerd kerkgenootschap, een gedupeerde vereniging of een gedupeerde stichting vastgesteld overeenkomstig de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=3&z=2022-06-29&g=2022-06-29) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=4&z=2022-06-29&g=2022-06-29), tenzij de stichting of vereniging een zorginstelling of onderneming in stand houdt.
 
 3. In afwijking van het eerste lid, eerste volzin, bedraagt de hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), voor een gedupeerd openbaar lichaam 58,5% van het schadebedrag.
 
@@ -112,7 +112,7 @@ De hoogte van de tegemoetkoming in de schade, bedoeld in [artikel 4, eerste lid,
 
 - b. indien de productieverliezen zich over meerdere jaren zullen doen gevoelen, deze verliezen in het eerste jaar ten minste 10% moeten bedragen en het percentage van het productieverlies in het eerste jaar, vermenigvuldigd met het aantal jaren waarin productieverlies zal worden geleden, ten minste uitkomt op 20%.
 
-3. Indien een gedupeerde op grond van het tweede lid geen recht heeft op een tegemoetkoming in teeltplanschade, wordt deze schade niet meegenomen bij de berekening van het drempelbedrag, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=13&z=2021-10-02&g=2021-10-02), en het eigen risico, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=14&z=2021-10-02&g=2021-10-02).
+3. Indien een gedupeerde op grond van het tweede lid geen recht heeft op een tegemoetkoming in teeltplanschade, wordt deze schade niet meegenomen bij de berekening van het drempelbedrag, bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=13&z=2022-06-29&g=2022-06-29), en het eigen risico, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=14&z=2022-06-29&g=2022-06-29).
 
 ##### Artikel 9. Bedrijfsschade bij agrarische bedrijven
 
@@ -130,19 +130,19 @@ De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid,
 
 ##### Artikel 12. Bereddings- en opruimingskosten
 
-De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid, onderdelen i en j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), gemaakt ter voorkoming, beperking of opruiming van schade als bedoeld in de [artikelen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=3&z=2021-10-02&g=2021-10-02), bedraagt 65% van het kostenbedrag.
+De hoogte van de tegemoetkoming in de kosten, bedoeld in [artikel 4, eerste lid, onderdelen i en j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), gemaakt ter voorkoming, beperking of opruiming van schade als bedoeld in de [artikelen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=3&z=2022-06-29&g=2022-06-29), bedraagt 65% van het kostenbedrag.
 
 ##### Artikel 13. Drempelbedragen
 
-1. Indien de som van de schade- en kostenbedragen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=3&z=2021-10-02&g=2021-10-02), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=4&z=2021-10-02&g=2021-10-02), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2021-10-02&g=2021-10-02), voor particulieren meer bedraagt dan € 667, heeft de gedupeerde recht op een tegemoetkoming in de schade en kosten.
+1. Indien de som van de schade- en kostenbedragen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=3&z=2022-06-29&g=2022-06-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=4&z=2022-06-29&g=2022-06-29), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2022-06-29&g=2022-06-29), voor particulieren meer bedraagt dan € 667, heeft de gedupeerde recht op een tegemoetkoming in de schade en kosten.
 
-2. Indien de som van de schade- en kostenbedragen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=6&z=2021-10-02&g=2021-10-02), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=7&z=2021-10-02&g=2021-10-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=8&z=2021-10-02&g=2021-10-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=9&z=2021-10-02&g=2021-10-02), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=10&z=2021-10-02&g=2021-10-02) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2021-10-02&g=2021-10-02) meer bedraagt dan € 1.322, heeft de gedupeerde, niet zijnde een particulier, recht op een tegemoetkoming in de schade en kosten.
+2. Indien de som van de schade- en kostenbedragen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=6&z=2022-06-29&g=2022-06-29), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=7&z=2022-06-29&g=2022-06-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=8&z=2022-06-29&g=2022-06-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=9&z=2022-06-29&g=2022-06-29), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=10&z=2022-06-29&g=2022-06-29) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2022-06-29&g=2022-06-29) meer bedraagt dan € 1.322, heeft de gedupeerde, niet zijnde een particulier, recht op een tegemoetkoming in de schade en kosten.
 
-3. In afwijking van het tweede lid heeft een gedupeerd kerkgenootschap, een gedupeerde vereniging of een gedupeerde stichting recht op een tegemoetkoming in de schade en kosten, indien de som van de schade- en kostenbedragen, bedoeld in de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=7&z=2021-10-02&g=2021-10-02), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2021-10-02&g=2021-10-02), meer bedraagt dan € 667.
+3. In afwijking van het tweede lid heeft een gedupeerd kerkgenootschap, een gedupeerde vereniging of een gedupeerde stichting recht op een tegemoetkoming in de schade en kosten, indien de som van de schade- en kostenbedragen, bedoeld in de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=7&z=2022-06-29&g=2022-06-29), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2022-06-29&g=2022-06-29), meer bedraagt dan € 667.
 
 ##### Artikel 14. Maximering eigen risico
 
-Het eigen risico als gevolg van het resultaat van de berekeningen, genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=7&z=2021-10-02&g=2021-10-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=8&z=2021-10-02&g=2021-10-02), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=9&z=2021-10-02&g=2021-10-02), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=10&z=2021-10-02&g=2021-10-02) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2021-10-02&g=2021-10-02), bedraagt voor bedrijven niet meer dan € 6.014.
+Het eigen risico als gevolg van het resultaat van de berekeningen, genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=7&z=2022-06-29&g=2022-06-29), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=8&z=2022-06-29&g=2022-06-29), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=9&z=2022-06-29&g=2022-06-29), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=10&z=2022-06-29&g=2022-06-29) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=12&z=2022-06-29&g=2022-06-29), bedraagt voor bedrijven en stichtingen en verenigingen die een zorginstelling of onderneming in stand houden niet meer dan € 6.014.
 
 #### § 3. Berekeningsgrondslag
 
@@ -168,7 +168,7 @@ Het uurloon, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/
 
 ##### Artikel 18
 
-De Minister van Justitie en Veiligheid beslist binnen dertien weken na ontvangst van de aanvraag, bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=4&artikel=17&z=2021-10-02&g=2021-10-02).
+De Minister van Justitie en Veiligheid beslist binnen dertien weken na ontvangst van de aanvraag, bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=4&artikel=17&z=2022-06-29&g=2022-06-29).
 
 ##### Artikel 19
 
@@ -180,7 +180,7 @@ De beschikking op een aanvraag bevat in ieder geval:
 
 - c. de omvang van de schade en kosten, bedoeld in [artikel 4, derde lid, onderdelen a tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4), berekend met inachtneming van het schaderapport, bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=5);
 
-- d. de berekening en het bedrag van de tegemoetkoming waaronder in voorkomend geval de tegemoetkoming in de schade als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=5&z=2021-10-02&g=2021-10-02).
+- d. de berekening en het bedrag van de tegemoetkoming waaronder in voorkomend geval de tegemoetkoming in de schade als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=2&artikel=5&z=2022-06-29&g=2022-06-29).
 
 #### § 5. Slotbepalingen
 
@@ -192,6 +192,6 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021.
 
-## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=1&artikel=2&z=2021-10-02&g=2021-10-02), van de Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021 houdende de contouren van het schadegebied
+## Bijlage. als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&paragraaf=1&artikel=2&z=2022-06-29&g=2022-06-29), van de Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021 houdende de contouren van het schadegebied
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
