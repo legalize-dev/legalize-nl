@@ -4,7 +4,7 @@ identifier: "BWBR0002847"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-06-30"
-last_updated: "2021-08-02"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002847"
 soort: "AMvB"
@@ -84,33 +84,35 @@ r. Luxemburg;
 
 s. Malta;
 
-t. Noorwegen;
+t. Montenegro;
 
-u. Oostenrijk
+u. Noorwegen;
 
-v. Polen;
+v. Oostenrijk
 
-w. Portugal;
+w. Polen;
 
-x. Roemenië;
+x. Portugal;
 
-y. Servië;
+y. Roemenië;
 
-z. Slovenië;
+z. Servië;
 
-aa. Slowaakse Republiek;
+aa. Slovenië;
 
-bb. Spanje;
+bb. Slowaakse Republiek;
 
-cc. Tjechische Republiek;
+cc. Spanje;
 
-dd. Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, de Kanaaleilanden, het eiland Man en Gibraltar;
+dd. Tjechische Republiek;
 
-ee. IJsland;
+ee. Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, de Kanaaleilanden, het eiland Man en Gibraltar;
 
-ff. Zweden;
+ff. IJsland;
 
-gg. Zwitserland en Liechtenstein.
+gg. Zweden;
+
+hh. Zwitserland en Liechtenstein.
 
 ##### Artikel 2
 
@@ -118,6 +120,6 @@ Vervallen
 
 ##### Artikel 3
 
-De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2021-05-12&g=2021-08-02) genoemde landen betreft verschillend kunnen zijn.
+De onderscheidene bepalingen van dit besluit treden in werking met ingang van door Ons te bepalen tijdstippen, welke ook voor wat de aanwijzing van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002847&artikel=1&z=2022-06-30&g=2022-06-30) genoemde landen betreft verschillend kunnen zijn.
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
