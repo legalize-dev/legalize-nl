@@ -4,7 +4,7 @@ identifier: "BWBR0024188"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-01"
-last_updated: "2019-07-01"
+last_updated: "2022-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024188"
 soort: "ministeriele-regeling"
@@ -46,21 +46,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. Minister: Minister van Volksgezondheid, Welzijn en Sport;
+- a. Minister: Minister voor Langdurige Zorg en Sport;
 
 - b. onderwijsinstelling: instelling als bedoeld in [artikel 1.1.1, onderdeel b, onder 1° en 2°, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.3) voor bekostiging in aanmerking is gebracht of hogeschool als bedoeld in [artikel 1.3, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3) die is vermeld op de [bijlage genoemd in artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend);
 
 - c. zorgopleiding:
 
-- 1°. beroepsopleidende leerweg als bedoeld in [artikel 7.2.2., tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2019-07-01&g=2019-07-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- 1°. beroepsopleidende leerweg als bedoeld in [artikel 7.2.2., tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2022-06-30&g=2022-06-30) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- 2°. voltijds of deeltijds opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2019-07-01&g=2019-07-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- 2°. voltijds of deeltijds opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2022-06-30&g=2022-06-30) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
 - d. opleiding:
 
-- 1°. beroepsopleidende of beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2019-07-01&g=2019-07-01) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
+- 1°. beroepsopleidende of beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) van een beroepsopleiding als bedoeld in [artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) die ingevolge [artikel 2.1.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1) voor bekostiging in aanmerking komt en die voor het desbetreffende studiejaar met een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=1&z=2022-06-30&g=2022-06-30) van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1);
 
-- 2°. voltijds, deeltijds of duale opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) onderzoek ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2019-07-01&g=2019-07-01) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- 2°. voltijds, deeltijds of duale opleiding als bedoeld in [artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) onderzoek ten behoeve van de verzorging waarvan ingevolge [artikel 1.9 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.9) aanspraak op bekostiging uit ’s Rijks kas bestaat en die voor het desbetreffende studiejaar met een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&bijlage=2&z=2022-06-30&g=2022-06-30) van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
 - e. studiejaar: tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 1°, of tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 2°;
 
@@ -84,6 +84,8 @@ In deze regeling wordt verstaan onder:
 
 5. De Minister kan vrijstelling en ontheffing verlenen van de in het derde lid genoemde aanvraagtermijn.
 
+6. In afwijking van het derde lid, wordt de aanvraag voor het studiejaar 2022–2023 uiterlijk 30 september 2022 ingediend.
+
 ##### Artikel 4
 
 1. De Minister geeft een beschikking op een aanvraag van de subsidie binnen dertien weken na ontvangst van de aanvraag.
@@ -106,11 +108,11 @@ De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waa
 
 ##### Artikel 6
 
-1. Het aantal personen, bedoeld in [artikel 5, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=5&z=2019-07-01&g=2019-07-01), wordt ontleend aan:
+1. Het aantal personen, bedoeld in [artikel 5, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=5&z=2022-06-30&g=2022-06-30), wordt ontleend aan:
 
-- a. het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24b) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2019-07-01&g=2019-07-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2019-07-01&g=2019-07-01);
+- a. het basisregister onderwijs, bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=24b) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2022-06-30&g=2022-06-30), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2022-06-30&g=2022-06-30);
 
-- b. het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2019-07-01&g=2019-07-01), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2019-07-01&g=2019-07-01).
+- b. het Centraal register inschrijving hoger onderwijs, bedoeld in [artikel 7.52 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.52) voor een zorgopleiding als bedoeld in [artikel 1, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2022-06-30&g=2022-06-30), en voor een opleiding als bedoeld in [artikel 1, onderdeel d, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=1&z=2022-06-30&g=2022-06-30).
 
 2. Indien een persoon voor meerdere opleidingen is ingeschreven, telt uitsluitend de hoofdinschrijving.
 
@@ -172,7 +174,7 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ##### Artikel 14
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 juli 2022 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 juli 2027 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
 ##### Artikel 15
 
