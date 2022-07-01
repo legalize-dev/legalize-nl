@@ -4,7 +4,7 @@ identifier: "BWBV0006700"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-03-27"
-last_updated: "2018-08-30"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006700"
 soort: "verdrag"
@@ -32,7 +32,7 @@ entry_into_force: "2018-08-30"
 ---
 # Verdrag inzake postale financiële diensten
 
-Gelet op [artikel 22.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=22) van de op 10 juli 1964 te Wenen tot stand gekomen [Constitutie van de Wereldpostunie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459), hebben de ondergetekenden, gevolmachtigden van de regeringen van de lidstaten van de Unie, in gemeenschappelijk overleg en onder voorbehoud van [artikel 25.4 van genoemde Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=25), het volgende Verdrag vastgesteld, dat aansluit bij de beginselen van genoemde Constitutie, in het bijzonder met het oog op het bevorderen van financiële inclusie en het tot stand brengen van een veilige en toegankelijke postale financiële dienst die is toegesneden op een zo groot mogelijk aantal gebruikers op basis van systemen die interoperabiliteit met de netwerken van de aangewezen aanbieders mogelijk maken.
+Gelet op [artikel 22.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=22) van de op 10 juli 1964 te Wenen tot stand gekomen [Constitutie van de Wereldpostunie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459), hebben de ondergetekenden, gevolmachtigden van de regeringen van de lidstaten van de Wereldpostunie (hierna de „Unie”), in gemeenschappelijk overleg en onder voorbehoud van [artikel 25.4 van genoemde Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=25), het volgende Verdrag vastgesteld, dat aansluit bij de beginselen van genoemde Constitutie, in het bijzonder met het oog op het bevorderen van financiële inclusie en het tot stand brengen van een veilige en toegankelijke postale financiële dienst die is toegesneden op een zo groot mogelijk aantal gebruikers op basis van systemen die interoperabiliteit met de netwerken van de aangewezen aanbieders mogelijk maken.
 
 ## DEEL I. ALGEMENE BEGINSELEN DIE VAN TOEPASSING ZIJN OP DE POSTALE FINANCIËLE DIENSTEN
 
@@ -40,21 +40,19 @@ Gelet op [artikel 22.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 ##### Artikel 1. Reikwijdte van het Verdrag
 
-1. Elke lidstaat stelt al het mogelijke in het werk om ervoor te zorgen dat ten minste één van de volgende postale financiële diensten op zijn grondgebied wordt aangeboden of geaccepteerd:
+1. Met inachtneming van het onder 2 bepaalde stelt elke lidstaat al het mogelijke in het werk om ervoor te zorgen dat de volgende postale financiële diensten op zijn grondgebied langs elektronische weg worden aangeboden of geaccepteerd:
 
-- 1. Contante postwissel: de afzender biedt geld aan op het servicetoegangspunt van de aangewezen aanbieder en verzoekt om contante betaling van het volledige bedrag aan de geadresseerde, zonder enige inhouding.
+- 1.1. Contante postwissel: de afzender biedt geld aan op het servicetoegangspunt en verzoekt om contante betaling van het volledige bedrag aan de geadresseerde, zonder enige inhouding.
 
-- 2. Betaalpostwissel: de afzender geeft opdracht tot debitering van zijn rekening die door de aangewezen aanbieder wordt gehouden en verzoekt om contante betaling van het volledige bedrag aan de geadresseerde, zonder enige inhouding.
+- 1.2. Betaalpostwissel: de afzender geeft opdracht tot debitering van zijn rekening en verzoekt om contante betaling van het volledige bedrag aan de geadresseerde, zonder enige inhouding.
 
-- 3. Stortingspostwissel: de afzender biedt geld aan op het servicetoegangspunt van de aangewezen aanbieder en verzoekt om storting ervan op de rekening van de geadresseerde, zonder enige inhouding.
+- 1.3. Stortingspostwissel: de afzender biedt geld aan op het servicetoegangspunt en verzoekt om storting ervan op de rekening van de geadresseerde, zonder enige inhouding.
 
-- 4. Postoverschrijving: de afzender geeft opdracht tot debitering van zijn rekening die door de aangewezen aanbieder wordt gehouden en verzoekt om creditering van de door de aangewezen aanbieder van uitbetaling gehouden rekening van de geadresseerde met een gelijkluidend bedrag, zonder enige inhouding.
+- 1.4. Overschrijving: de afzender geeft opdracht tot debitering van zijn rekening en verzoekt om creditering van de rekening van de geadresseerde met een gelijkluidend bedrag, zonder enige inhouding.
 
-- 5. Verrekenpostwissel: de ontvanger van een verrekenpostwissel overhandigt geld op het servicetoegangspunt van de aangewezen aanbieder of geeft opdracht tot debitering van zijn rekening en verzoekt om volledige betaling van het door de afzender van de verrekenpostwissel opgegeven bedrag aan de afzender, zonder enige inhouding.
+2. In het geval dat geen van de in het eerste lid genoemde elektronische postale financiële diensten wordt aangeboden of geaccepteerd, dient elke lidstaat ten minste een van de voornoemde postale financiële diensten in papieren vorm aan te bieden of te accepteren.
 
-- 6. Spoedpostwissel: de afzender overhandigt de postale betaalopdracht op het servicetoegangspunt van de aangewezen aanbieder en verzoekt om overmaking ervan binnen 30 minuten en volledige betaling aan de geadresseerde zonder enige inhouding op het eerste verzoek van de geadresseerde op het servicetoegangspunt van het land van bestemming (in overeenstemming met de lijst servicetoegangspunten van het land van bestemming).
-
-2. De maatregelen ter uitvoering van dit Verdrag worden vastgelegd in de Regelingen.
+3. De maatregelen ter uitvoering van dit Verdrag worden vastgelegd in de Regelingen.
 
 ##### Artikel 2. Begripsomschrijvingen
 
@@ -68,9 +66,7 @@ Gelet op [artikel 22.4](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 5. Clearinghouse: in het kader van multilaterale uitwisselingen behandelt een clearinghouse de wederzijdse schulden en vorderingen die voortvloeien uit de diensten die door de ene aanbieder ten gunste van een andere aanbieder worden geleverd. De taak van een clearinghouse is het bijhouden van de uitwisselingen tussen de aanbieders, waarvan de vereffening geschiedt via een vereffeningsbank, alsmede het nemen van de nodige maatregelen in geval van problemen bij de vereffening.
 
-6. Clearing: systeem waarmee het aantal door de instelling te verrichten betalingen van de periodieke debet- en creditsaldi van de betrokken partners tot een minimum wordt beperkt. De clearing bestaat uit twee fasen:
-
-vaststelling van de bilaterale saldi en vervolgens, door optelling van de bilaterale saldi, berekening van het totale saldo van elke partner ten opzichte van de gemeenschap, teneinde slechts een enkele vereffening uit te voeren, afhankelijk van het debet- of creditsaldo van de betrokken instelling.
+6. Clearing: systeem waarmee het aantal door de instelling te verrichten betalingen van de periodieke debet- en creditsaldi van de betrokken partners tot een minimum wordt beperkt. De clearing bestaat uit twee fasen: vaststelling van de bilaterale saldi en vervolgens, door optelling van de bilaterale saldi, berekening van het totale saldo van elke partner ten opzichte van de gemeenschap, teneinde slechts een enkele vereffening uit te voeren, afhankelijk van het debet- of creditsaldo van de betrokken instelling.
 
 7. Verzamelrekening: verzameling op een enkele rekening van gelden die van verschillende bronnen afkomstig zijn.
 
@@ -86,17 +82,17 @@ vaststelling van de bilaterale saldi en vervolgens, door optelling van de bilate
 
 13. Waakzaamheidsplicht ten aanzien van gebruikers: algemene plicht van de aangewezen aanbieders, die de volgende verplichtingen omvat:
 
-- 1. identificeren van gebruikers;
+- 13.1. identificeren van gebruikers;
 
-- 2. vragen naar het doel van de postale betaalopdracht;
+- 13.2. vragen naar het doel van de postale betaalopdracht;
 
-- 3. toezicht houden op de postale betaalopdrachten;
+- 13.3. toezicht houden op de postale betaalopdrachten;
 
-- 4. verifiëren of de informatie betreffende de gebruikers actueel is;
+- 13.4. verifiëren of de informatie betreffende de gebruikers actueel is;
 
-- 5. melden van verdachte transacties bij de bevoegde autoriteiten.
+- 13.5. melden van verdachte transacties bij de bevoegde autoriteiten.
 
-14. Elektronische gegevens betreffende de postale betaalopdrachten: langs elektronische weg door een aangewezen aanbieder naar een andere aangewezen aanbieder verzonden gegevens betreffende de uitvoering van postale betaalopdrachten, een klacht, een adreswijziging of -verbetering, of een terugbetaling; deze gegevens worden door de aangewezen aanbieders ingevoerd of automatisch door hun informatiesystemen gegenereerd en bevatten een wijziging van de status van de postale betaalopdracht of van het opdrachtverzoek.
+14. Elektronische gegevens betreffende de postale betaalopdrachten: langs elektronische weg door een aangewezen aanbieder naar een andere aangewezen aanbieder verzonden gegevens betreffende de uitvoering van postale betaalopdrachten, een klacht, een adreswijziging of -verbetering, of een terugbetaling; deze gegevens worden door de aangewezen markdeelnemers ingevoerd of automatisch door hun informatiesystemen gegenereerd en bevatten een wijziging van de status van de postale betaalopdracht of van het opdrachtverzoek.
 
 15. Persoonsgegevens: persoonsgegevens voor de identificatie van de afzender of de geadresseerde.
 
@@ -106,13 +102,11 @@ vaststelling van de bilaterale saldi en vervolgens, door optelling van de bilate
 
 18. Afzender: natuurlijke persoon of rechtspersoon die een aangewezen aanbieder opdracht geeft tot uitvoering van een postale betaalopdracht overeenkomstig de Akten van de Unie.
 
-19. Financiering van terrorisme: begrip dat betrekking heeft op de financiering van terroristische
+19. Financiering van terrorisme: begrip dat betrekking heeft op de financiering van terroristische handelingen, terroristen en terroristische organisaties.
 
-handelingen, terroristen en terroristische organisaties.
+20. Gelden van de gebruikers: bedragen die door de afzender in contanten aan de aangewezen aanbieder worden overhandigd, of rechtstreeks, of via elk ander beveiligd monetair middel, worden afgeschreven van de rekening van de afzender die in de boeken van de aangewezen aanbieder van uitschrijving wordt gehouden, en die door de afzender aan de aangewezen aanbieder van uitschrijving of elke andere financiële aanbieder ter beschikking worden gesteld met het oog op de betaling ervan aan een door de afzender aangegeven geadresseerde, overeenkomstig dit Verdrag en de bijbehorende Regeling.
 
-20. Gelden van de gebruikers: bedragen die door de afzender in contanten aan de aangewezen aanbieder van uitschrijving worden overhandigd, of rechtstreeks, of via elk ander beveiligd monetair middel, worden afgeschreven van de rekening van de afzender die in de boeken van de aangewezen aanbieder van uitschrijving wordt gehouden, en die door de afzender aan de aangewezen aanbieder van uitschrijving of elke andere financiële aanbieder ter beschikking worden gesteld met het oog op de betaling ervan aan een door de afzender aangegeven geadresseerde, overeenkomstig dit Verdrag en de bijbehorende Regelingen.
-
-21. Verrekenpostwissel: een operationele term ter aanduiding van een postale betaalopdracht in ruil voor de aflevering van een zending onder rembours, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2018-08-30&g=2018-08-30) van dit Verdrag.
+21. Verrekenpostwissel: een operationele term ter aanduiding van een postale betaalopdracht in ruil voor de aflevering van een zending onder rembours, zoals omschreven in artikel 1 van dit Verdrag.
 
 22. Uitschrijvingsvaluta: valuta van het land van bestemming of door het land van bestemming toegestane derde valuta waarin de postale betaalopdracht wordt uitgeschreven.
 
@@ -136,9 +130,7 @@ handelingen, terroristen en terroristische organisaties.
 
 32. Tracking en tracing: systeem waarmee het traject van een postale betaalopdracht kan worden gevolgd en op elk moment kan worden vastgesteld waar de opdracht zich bevindt en wat de uitvoeringsstatus ervan is.
 
-33. Tarief: bedrag dat door een afzender voor een postale financiële dienst aan de aangewezen
-
-aanbieder van uitschrijving wordt betaald.
+33. Tarief: bedrag dat door een afzender voor een postale financiële dienst aan de aangewezen aanbieder van uitschrijving wordt betaald.
 
 34. Verdachte transactie: postale betaalopdracht of verzoek om een terugbetaling met betrekking tot een eenmalige of herhaalde postale betaalopdracht die verband houdt met het witwassen van geld of de financiering van terrorisme.
 
@@ -150,7 +142,7 @@ aanbieder van uitschrijving wordt betaald.
 
 2. Bovendien brengen de lidstaten het Internationaal Bureau binnen zes maanden na de afsluiting van het Congres op de hoogte van de naam en het adres van de aanbieder of aanbieders die officieel is of zijn aangewezen voor de verzorging van de postale financiële diensten via zijn of hun netwerk, door ten minste één postale financiële dienst aan te bieden of te accepteren, en voor het vervullen van de verplichtingen die op zijn of hun grondgebied uit de Akten van de Unie voortvloeien.
 
-3. Een lidstaat die deze kennisgeving niet binnen de voorschreven termijn van zes maanden verstrekt, ontvangt van het Internationaal Bureau een herinnering.
+3. Een lidstaat die deze gegevens niet binnen de voorschreven termijn van zes maanden verstrekt, ontvangt van het Internationaal Bureau een herinnering.
 
 4. Tussen twee Congressen in moet elke wijziging betreffende de overheidsinstanties en de officieel aangewezen aanbieders zo snel mogelijk ter kennis van het Internationaal Bureau worden gebracht.
 
@@ -166,17 +158,43 @@ aanbieder van uitschrijving wordt betaald.
 
 - 2.2. de maatregelen die zijn getroffen om de diensten te herstellen onder de verantwoordelijkheid van een eventuele nieuwe aangewezen aanbieder.
 
-##### Artikel 5. Operationele bevoegdheden
+##### Artikel 5. Uitzonderlijke levering van postale financiële diensten door toegelaten spelers in de postale sector in brede zin
 
-1. De aangewezen aanbieders zijn ten aanzien van de andere aanbieders en de gebruikers verantwoordelijk voor de uitvoering van de postale financiële diensten.
+1. Onverminderd de mogelijkheid tot uitbesteding zoals omschreven in artikel 6.4, hebben lidstaten: i. waarin het gehele scala van postale financiële diensten zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2022-07-01&g=2022-07-01) niet wordt geleverd door hun aangewezen aanbieder(s); of ii. die geconfronteerd worden met de situatie van in gebreke blijven zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2022-07-01&g=2022-07-01), de mogelijkheid toe te staan dat spelers in de postale sector in brede zin (wider postal sector players, hierna „WPSP's), via aangewezen aanbieders, deelnemen aan de interconnectie en/of uitvoering van de postale financiële diensten, met als doel het bevorderen van financiële inclusie en het verder mogelijk maken van de interoperabiliteit van een internationaal netwerk van postale financiële diensten.
+
+- 1.1. Lidstaten waarborgen dat zij bij het verlenen van toestemming voor het aanbieden van postale financiële diensten door WPSP's van de WPSP's verlangen dat zij voldoen aan de relevante bepalingen van dit Verdrag die betrekking hebben op postale financiële diensten en waarborgen dat bij deze toestemming van de WPSP's verlangd wordt dat zij voldoen aan alle relevante voorwaarden van de Unie voor vergunningsregelingen voor het opereren onder het collectief merk PosTransfer.
+
+- 1.2. De aanduiding van WPSP's door lidstaten geschiedt in overeenstemming met de parameters omschreven in het eerste lid (onder voorbehoud van gedetailleerde operationele criteria omschreven door het relevante orgaan, ingesteld onder de Postraad).
+
+- 1.3. Het Internationaal Bureau is verantwoordelijk voor het opstellen van de lijst van lidstaten waarin WPSP's mogen opereren, alsmede de lijst van toegelaten WPSP's. De lijst wordt regelmatig door het Internationaal Bureau bijgewerkt en per circulaire aan alle lidstaten medegedeeld.
+
+2. Voor de benutting van de in het eerste lid genoemde mogelijkheid gelden de voorwaarden van de nationale wetgeving of het binnenlands beleid van de lidstaat waar de WPSP is gevestigd. Dienaangaande en onverminderd de verplichtingen inzake aanwijzing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2022-07-01&g=2022-07-01), waarborgen de aangewezen aanbieders dat zij aan hun verplichtingen uit hoofde van het Verdrag inzake postale financiële diensten blijven voldoen.
+
+- 2.1. Met inachtneming van de bovenbedoelde criteria, wordt een vergunningsaanvraag met betrekking tot een WPSP gericht aan de lidstaat waar de WPSP van plan is activiteiten te ontplooien die betrekking hebben op de interconnectie of uitvoering van postale financiële diensten. In dit opzicht kan een WPSP werkzaam zijn in diverse lidstaten mits hij daarvoor in aanmerking komt en daarvoor toestemming heeft gekregen van de overheidsautoriteit van de desbetreffende lidstaat.
+
+- 2.2. Elke toestemming die door een lidstaat formeel wordt verleend aan een WPSP heeft een beperkte geldigheidsduur en laat de mogelijkheid voor de lidstaat om deze toestemming in te trekken indien niet langer aan de in het eerste lid genoemde voorwaarden wordt voldaan, onverlet.
+
+- 2.3. Voor de toepassing van het bovenstaande lid 1.3, wordt een afschrift van de voornoemde toestemming van de lidstaat aan een WPSP (en eventuele relevante documentatie die daarmee samenhangt) onverwijld aan het Internationaal Bureau gezonden.
+
+3. Wat de aanvaarding van postale betaalopdrachten afkomstig van deze WPSP's betreft, is de in het tweede lid genoemde voorwaarde eveneens van toepassing op de lidstaat van bestemming.
+
+4. De lidstaten lichten het Internationaal Bureau in over hun beleid inzake postale betaalopdrachten verzonden door en/of ontvangen van WPSP’s. De betreffende informatie wordt op de website van de Unie geplaatst.
+
+5. Niets in dit artikel mag aldus worden uitgelegd dat WPSP's zich in dezelfde situatie in het kader van de Akten van de Unie bevinden als aangewezen aanbieders van de betreffende lidstaat, of dat er voor andere lidstaten een wettelijke verplichting ontstaat deze WPSP's te erkennen als aangewezen aanbieders voor de toepassing van dit Verdrag.
+
+6. Om naleving van de bepalingen van dit artikel te waarborgen, komen de lidstaten overeen dat zij aan elke toestemming aan WPSP's om deel te nemen aan de interconnectie en/of uitvoering van postale financiële diensten de voorwaarde verbinden dat de WPSP's ermee instemmen dat hun activiteiten die relevant zijn in het kader van dit Verdrag, aan periodieke onderzoeken kunnen worden onderworpen die door het Internationaal Bureau worden uitgevoerd in overeenstemming met de relevante procedures omschreven in de Regelingen.
+
+##### Artikel 6. Operationele bevoegdheden
+
+1. Lidstaten waarborgen dat hun aangewezen aanbieders en toegelaten WPSP's bedoeld in het vijfde lid, verantwoordelijk zijn voor de uitvoering van de postale financiële diensten ten opzichte van andere aanbieders en gebruikers.
 
 2. Overeenkomstig de nationale wetgeving zijn zij verantwoordelijk voor de risico’s, zoals de operationele risico’s, liquiditeitsrisico’s en tegenpartijrisico’s.
 
-3. Met het oog op de uitvoering van de postale financiële diensten waarvan de levering hun door hun respectieve lidstaat is opgedragen, sluiten de aangewezen aanbieders bilaterale of multilaterale overeenkomsten met de aangewezen aanbieders van hun keuze.
+3. Met het oog op de uitvoering van de postale financiële diensten waarvan de levering is opgedragen aan de aangewezen aanbieders en toegelaten WPSP's bedoeld in het eerste lid, waarborgen de lidstaten dat dergelijke entiteiten bilaterale of multilaterale overeenkomsten sluiten met andere aangewezen aanbieders en toegelaten WPSP's van hun keuze.
 
-4. Onverminderd voornoemde verplichtingen, kan een aangewezen aanbieder, met inachtneming van de nationale wetgeving, de interconnectie en uitvoering van de postale financiële diensten waarvan de levering hem, zoals omschreven in dit Verdrag, door zijn lidstaat is opgedragen, gedeeltelijk uitbesteden aan andere contractueel aan de aangewezen aanbieder gebonden instanties. Dienaangaande waarborgt de aangewezen aanbieder dat hij zijn verplichtingen uit hoofde van het Verdrag zal blijven nakomen en dat hij volledig verantwoordelijk is voor al zijn betrekkingen met aangewezen aanbieders van andere lidstaten en met het Internationaal Bureau.
+4. Onverminderd voornoemde verplichtingen kan een aangewezen aanbieder, met inachtneming van de nationale wetgeving, de interconnectie en uitvoering van de postale financiële diensten waarvan de levering hem, zoals omschreven in dit Verdrag, door zijn lidstaat is opgedragen, gedeeltelijk uitbesteden aan andere contractueel aan de aangewezen aanbieder gebonden instanties. Dienaangaande waarborgt de aangewezen aanbieder dat hij zijn verplichtingen uit hoofde van dit Verdrag zal blijven nakomen en dat hij volledig verantwoordelijk is voor al zijn betrekkingen met aangewezen aanbieders van andere lidstaten en met het Internationaal Bureau.
 
-##### Artikel 6. Eigendom van de gelden van de postale financiële diensten
+##### Artikel 7. Eigendom van de gelden van de postale financiële diensten
 
 1. Elk geldbedrag dat contant wordt overhandigd of van een rekening wordt afgeschreven met het oog op de uitvoering van een postale betaalopdracht, blijft eigendom van de afzender tot het moment waarop het aan de geadresseerde wordt uitbetaald of op diens rekening wordt bijgeschreven, behalve in het geval van verrekenpostwissels.
 
@@ -184,17 +202,17 @@ aanbieder van uitschrijving wordt betaald.
 
 3. Elk geldbedrag, overhandigd in contanten of afgeschreven van een rekening ten behoeve van een verrekenpostwissel, behoort toe aan de afzender van de rembourszending zodra de opdracht is verstrekt. Vanaf dat tijdstip is de betaalopdracht onherroepelijk.
 
-##### Artikel 7. Bestrijding van het witwassen van geld, van de financiering van terrorisme en van financiële criminaliteit
+##### Artikel 8. Bestrijding van het witwassen van geld, van de financiering van terrorisme en van financiële criminaliteit
 
 1. De aangewezen aanbieders nemen alle noodzakelijke stappen om de uit de nationale en internationale wetgeving voortvloeiende verplichtingen na te komen, met inbegrip van de verplichtingen op het gebied van de bestrijding van het witwassen van geld, van de financiering van terrorisme en van financiële criminaliteit.
 
 2. Overeenkomstig de nationale wet- en regelgeving dienen zij verdachte transacties bij de bevoegde autoriteiten van hun land te melden.
 
-3. De Regelingen vermelden de precieze verplichtingen van de aangewezen aanbieders betreffende de identificatie van de gebruiker, de benodigde waakzaamheid en de uitvoeringsprocedures betreffende de regelgeving op het gebied van de bestrijding van het witwassen van geld, van de financiering van terrorisme en van financiële criminaliteit.
+3. De Regelingen vermelden de precieze verplichtingen van de aangewezen aanbieders betreffende de identificatie van de gebruiker, de benodigde waakzaamheid en de uitvoeringsprocedures betreffende de regelgeving op het gebied van de bestrijding van het witwassen van geld, de financiering van terrorisme en van financiële criminaliteit.
 
-##### Artikel 8. Vertrouwelijkheid en gebruik van persoonsgegevens
+##### Artikel 9. Vertrouwelijkheid en gebruik van persoonsgegevens
 
-1. De lidstaten en hun aangewezen aanbieders eerbiedigen de vertrouwelijkheid en veiligheid van persoonsgegevens in overeenstemming met de nationale wetgeving en, in voorkomend geval, de internationale verplichtingen en de Regelingen.
+1. De lidstaten en hun aangewezen aanbieders eerbiedigen de vertrouwelijkheid en veiligheid van persoonsgegevens in overeenstemming met de nationale wetgeving en, in voorkomend geval, van de internationale verplichtingen en de Regelingen.
 
 2. Persoonsgegevens mogen uitsluitend worden gebruikt voor het doel waarvoor zij zijn verzameld in overeenstemming met de van toepassing zijnde nationale wetgeving en internationale verplichtingen.
 
@@ -204,11 +222,11 @@ aanbieder van uitschrijving wordt betaald.
 
 5. De voor de uitvoering van een postale betaalopdracht benodigde gegevens zijn vertrouwelijk.
 
-6. Ten behoeve van eventuele statistische doeleinden voor de beoordeling van de kwaliteit van de dienstverlening en de centrale clearing, zijn de aangewezen aanbieders verplicht ten minste eenmaal per jaar postale gegevens aan het Internationaal Bureau van de Wereldpostunie mede te delen.
+6. Ten behoeve van eventuele statistische doeleinden voor de beoordeling van de kwaliteit van de dienstverlening en de centrale clearing, zijn de aangewezen aanbieders verplicht ten minste eenmaal per jaar postale gegevens aan het Internationaal Bureau van de Unie mede te delen. Alle individuele postale gegevens worden door het Internationaal Bureau vertrouwelijk behandeld.
 
-Alle individuele postale gegevens worden door het Internationaal Bureau vertrouwelijk behandeld.
+### HOOFDSTUK II. ALGEMENE BEGINSELEN EN KWALITEIT VAN DE DIENSTVERLENING
 
-##### Artikel 9. Technologische neutraliteit
+##### Artikel 10. Technologische neutraliteit
 
 1. De uitwisseling van de gegevens die benodigd zijn voor de levering van de in dit Verdrag bedoelde diensten wordt beheerst door het principe van technologische neutraliteit; dit houdt in dat de levering van deze diensten niet afhangt van het gebruik van een specifieke technologie.
 
@@ -216,15 +234,13 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 3. De postale financiële diensten kunnen worden geleverd in de vorm van een combinatie van verschillende technologieën.
 
-### HOOFDSTUK II. ALGEMENE BEGINSELEN EN KWALITEIT VAN DE DIENSTVERLENING
-
-##### Artikel 10. Algemene beginselen
+##### Artikel 11. Algemene uitgangspunten
 
 1. Toegankelijkheid via het netwerk en financiële inclusie
 
-- 1. De postale financiële diensten worden door de aangewezen aanbieders op zodanige wijze op hun netwerk(en) of op elk ander partnernetwerk geleverd dat deze diensten voor een zo groot mogelijk aantal gebruikers toegankelijk zijn, en dat de toegang tot en het gebruik van een breed aanbod van betaalbare postale financiële diensten verzekerd zijn.
+- 1.1. De postale financiële diensten worden door de aangewezen aanbieders op zodanige wijze op hun netwerk(en) of op elk ander partnernetwerk geleverd dat deze diensten voor een zo groot mogelijk aantal gebruikers toegankelijk zijn, en dat de toegang tot en het gebruik van een breed aanbod van betaalbare postale financiële diensten verzekerd zijn.
 
-- 2. Alle gebruikers hebben toegang tot de postale financiële diensten, onafhankelijk van het bestaan van enige contractuele of commerciële relatie met de aangewezen aanbieder.
+- 1.2. Alle gebruikers hebben toegang tot de postale financiële diensten, onafhankelijk van het bestaan van enige contractuele of commerciële relatie met de aangewezen aanbieder.
 
 2. Scheiding van gelden
 
@@ -248,7 +264,7 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 - 5.2. Binnen het netwerk van de aangewezen aanbieders is het door de afzender aan de aangewezen aanbieder van uitschrijving overgedragen bedrag, indien beide lidstaten dezelfde valuta hanteren, hetzelfde als het bedrag dat door de aangewezen aanbieder van uitbetaling aan de geadresseerden wordt betaald. Indien de lidstaten niet dezelfde valuta hanteren, wordt het bedrag na uitschrijving en/of uitbetaling, naargelang van het geval, omgerekend op basis van een vastgelegde wisselkoers.
 
-- 5.3. De betaling in contanten aan de geadresseerde is niet gebonden aan de ontvangst door de aangewezen aanbieder van uitbetaling van de overeenkomstige gelden van de afzender. Zij is afhankelijk van de nakoming door de aangewezen aanbieder van uitschrijving van zijn verplichtingen jegens de aangewezen aanbieder van uitbetaling met betrekking tot voorschotten, de regelmatige vereffening van rekeningen, de beschikbaarstelling van een clearingrekening of de vereffening via het centrale systeem voor clearing/vereffening.
+- 5.3. De betaling in contanten aan de geadresseerden is niet gebonden aan de ontvangst door de aangewezen aanbieder van uitbetaling van de overeenkomstige gelden van de afzender. Zij is afhankelijk van de nakoming door de aangewezen aanbieder van uitschrijving van zijn verplichtingen jegens de aangewezen aanbieder van uitbetaling met betrekking tot voorschotten, de regelmatige vereffening van rekeningen, de beschikbaarstelling van een clearingrekening of de vereffening via het centrale systeem voor clearing/vereffening.
 
 - 5.4. Storting door de aangewezen aanbieder van uitbetaling op de rekening van de geadresseerde is gebonden aan de ontvangst van de overeenkomstige gelden van de afzender die door de aangewezen aanbieder van uitschrijving aan de aangewezen aanbieder van uitbetaling beschikbaar moeten worden gesteld. Deze gelden mogen afkomstig zijn van de clearingrekening van de aangewezen aanbieder van uitschrijving of van een centraal systeem voor clearing/vereffening.
 
@@ -272,9 +288,13 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 10. Verplichte informatieverstrekking aan de gebruikers
 
-- 10.1. De gebruikers hebben recht op de volgende informatie, die wordt gepubliceerd en aan elke afzender wordt medegedeeld: voorwaarden voor de levering van de postale financiële diensten, tarieven, kosten, wisselkoersen en -voorwaarden, voorwaarden met betrekking tot aansprakelijkheid en adressen van de inlichtingen- en klachtendiensten.10. 2 Aan de toegang tot deze informatie zijn geen kosten verbonden.
+- 10.1. De gebruikers hebben recht op de volgende informatie, die wordt gepubliceerd en aan elke afzender wordt medegedeeld: voorwaarden voor de levering van de postale financiële diensten, tarieven, kosten, wisselkoersen en -voorwaarden, voorwaarden met betrekking tot aansprakelijkheid en adressen van de inlichtingen- en klachtendiensten.
 
-##### Artikel 11. Kwaliteit van de dienstverlening
+- 10.2. Aan de toegang tot deze informatie zijn geen kosten verbonden.
+
+### HOOFDSTUK III
+
+##### Artikel 12. Kwaliteit van de dienstverlening
 
 1. De aangewezen aanbieders kunnen besluiten de postale financiële diensten te identificeren door middel van een collectief merk.
 
@@ -282,15 +302,13 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 3. De aangewezen aanbieders moeten een minimum aantal elementen en normen hanteren voor de kwaliteit van de dienstverlening voor elektronisch verzonden postale betaalopdrachten.
 
-### HOOFDSTUK III
-
-##### Artikel 12. Interoperabiliteit
+##### Artikel 13. Interoperabiliteit
 
 1. Netwerken
 
 - 1.1. Ter waarborging van de uitwisseling van de benodigde gegevens voor de uitvoering van de postale financiële diensten tussen alle aangewezen aanbieders en van het toezicht op de kwaliteit van de dienstverlening, gebruiken de aangewezen aanbieders het systeem voor geautomatiseerde gegevensuitwisseling (EDI) van de Unie of elk ander systeem waarmee de interoperabiliteit van de postale financiële diensten overeenkomstig dit Verdrag kan worden gewaarborgd.
 
-##### Artikel 13. Beveiliging van de elektronische uitwisselingen
+##### Artikel 14. Beveiliging van de elektronische uitwisselingen
 
 1. De aangewezen aanbieders zijn verantwoordelijk voor de goede werking van hun apparatuur.
 
@@ -298,47 +316,47 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 3. De aangewezen aanbieders dienen de transacties overeenkomstig de internationale normen te beveiligen.
 
-##### Artikel 14. Tracking en tracing
-
-1. De door de aangewezen aanbieders gebruikte systemen dienen het mogelijk te maken de verwerking van de postale betaalopdracht en de eventuele herroeping ervan door de afzender, te volgen tot aan het moment waarop het overeenkomstige bedrag aan de geadresseerde wordt betaald of op diens rekening wordt bijgeschreven of, in voorkomend geval, aan de afzender wordt terugbetaald.
-
 ## DEEL II. OP DE POSTALE FINANCIËLE DIENSTEN VAN TOEPASSING ZIJNDE REGELS
 
 ### HOOFDSTUK I. VERWERKING VAN POSTALE BETAALOPDRACHTEN
 
-##### Artikel 15. Indiening, invoer en verzending van postale betaalopdrachten
+##### Artikel 15. Tracking en tracing
+
+De door de aangewezen aanbieders gebruikte systemen dienen het mogelijk te maken de verwerking van de postale betaalopdracht en de eventuele herroeping ervan door de afzender, te volgen tot aan het moment waarop het overeenkomstige bedrag aan de geadresseerde wordt betaald of op diens rekening wordt bijgeschreven of, in voorkomend geval, aan de afzender wordt terugbetaald.
+
+##### Artikel 16. Indiening, invoer en verzending van postale betaalopdrachten
 
 1. De voorwaarden voor de indiening, invoer en verzending van postale betaalopdrachten worden vastgelegd in de Regelingen.
 
 2. De geldigheidsduur van postale betaalopdrachten kan niet worden verlengd. De geldigheidsduur wordt vastgelegd in de Regelingen.
 
-##### Artikel 16. Verificatie en terbeschikkingstelling van de gelden
+##### Artikel 17. Verificatie en terbeschikkingstelling van de gelden
 
 1. Na verificatie van de identiteit van de geadresseerde overeenkomstig de nationale wetgeving en na verificatie van de juistheid van de door de geadresseerde verstrekte informatie, gaat de aangewezen aanbieder over tot contante betaling. Bij een stortingspostwissel of overschrijving maakt de aangewezen aanbieder het bedrag over op de rekening van de geadresseerde.
 
 2. De termijn voor de terbeschikkingstelling van de gelden wordt vastgesteld in multilaterale of bilaterale overeenkomsten tussen de aangewezen aanbieders.
 
-##### Artikel 17. Maximumbedrag
+##### Artikel 18. Maximumbedrag
 
-1. De aangewezen aanbieders delen de overeenkomstig hun nationale wetgeving vastgestelde maximumbedragen bij verzending en bij ontvangst mede aan het Internationaal Bureau van de Unie.
-
-##### Artikel 18. Terugbetaling
-
-1. Reikwijdte van de terugbetaling
-
-- 1. De terugbetaling in het kader van postale financiële diensten heeft betrekking op het totaalbedrag van de postale betaalopdracht in de valuta van het land waarin de betaalopdracht wordt uitgeschreven. Het terug te betalen bedrag is gelijk aan het bedrag dat door de afzender wordt gestort of dat van zijn rekening wordt afgeschreven. In geval van een fout door een aangewezen aanbieder wordt het terug te betalen bedrag vermeerderd met het tarief van de postale financiële dienst.
-
-- 2. Bij verrekenpostwissels vindt geen terugbetaling plaats.
+De aangewezen aanbieders delen de overeenkomstig hun nationale wetgeving vastgestelde maximumbedragen bij verzending en bij ontvangst mede aan het Internationaal Bureau van de Unie.
 
 ### HOOFDSTUK II. KLACHTEN EN AANSPRAKELIJKHEID
 
-##### Artikel 19. Klachten
+##### Artikel 19. Terugbetaling
+
+1. Reikwijdte van de terugbetaling
+
+- 1.1. De terugbetaling in het kader van postale financiële diensten heeft betrekking op het totaalbedrag van de postale betaalopdracht in de valuta van het land waarin de betaalopdracht wordt uitgeschreven. Het terug te betalen bedrag is gelijk aan het bedrag dat door de afzender wordt gestort of dat van zijn rekening wordt afgeschreven. In geval van een fout door een aangewezen aanbieder wordt het terug te betalen bedrag vermeerderd met het tarief van de postale financiële dienst.
+
+- 1.2. Bij verrekenpostwissels vindt geen terugbetaling plaats.
+
+##### Artikel 20. Klachten
 
 1. Klachten kunnen worden ingediend binnen een termijn van zes maanden, te rekenen vanaf de dag volgend op de dag van aanvaarding van de postale betaalopdracht.
 
 2. Onder voorbehoud van hun nationale wetgeving zijn de aangewezen aanbieders gerechtigd bij hun cliënten kosten in rekening te brengen voor klachten met betrekking tot postale betaalopdrachten.
 
-##### Artikel 20. Aansprakelijkheid van de aangewezen aanbieders ten aanzien van de gebruikers
+##### Artikel 21. Aansprakelijkheid van de aangewezen aanbieders ten aanzien van de gebruikers
 
 1. Verwerking van gelden
 
@@ -352,37 +370,37 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 - 1.2. Voor verrekenpostwissels is de aangewezen aanbieder van uitschrijving ten aanzien van de geadresseerde aansprakelijk voor de aan het loket overhandigde of van de rekening van de afzender afgeschreven bedragen tot het moment waarop de verrekenpostwissel naar behoren is betaald of het bedrag naar behoren is bijgeschreven op de rekening van de geadresseerde.
 
-##### Artikel 21. Onderlinge verplichtingen en aansprakelijkheid van de aangewezen aanbieders
+##### Artikel 22. Onderlinge verplichtingen en aansprakelijkheid van de aangewezen aanbieders
 
 1. Elke aangewezen aanbieder is aansprakelijk voor zijn eigen fouten.
 
 2. De voorwaarden en reikwijdte van de aansprakelijkheid worden vastgelegd in de Regelingen.
 
-##### Artikel 22. Vrijstelling van de aansprakelijkheid van de aangewezen aanbieders
+##### Artikel 23. Vrijstelling van de aansprakelijkheid van de aangewezen aanbieders
 
 1. De aangewezen aanbieders zijn niet aansprakelijk:
 
-- 1. in geval van vertraging bij de uitvoering van de dienst;
+- 1.1. in geval van vertraging bij de uitvoering van de dienst;
 
-- 2. wanneer zij, wegens de vernietiging van de gegevens betreffende de postale financiële diensten als gevolg van overmacht, niet kunnen aantonen dat een postale betaalopdracht is uitgevoerd, tenzij het bewijs van hun aansprakelijkheid op andere wijze is vastgelegd;
+- 1.2. wanneer zij, wegens de vernietiging van de gegevens betreffende de postale financiële diensten als gevolg van overmacht, niet kunnen aantonen dat een postale betaalopdracht is uitgevoerd, tenzij het bewijs van hun aansprakelijkheid op andere wijze is vastgelegd;
 
-- 3. wanneer de schade is veroorzaakt door de schuld of nalatigheid van de afzender, in het bijzonder waar het gaat om diens verplichting juiste informatie ter ondersteuning van zijn postale betaalopdracht te verstrekken, waaronder informatie over de legale herkomst van de overhandigde gelden en de legitieme reden van de postale betaalopdracht;
+- 1.3. wanneer de schade is veroorzaakt door de schuld of nalatigheid van de afzender, in het bijzonder waar het gaat om diens verplichting juiste informatie ter ondersteuning van zijn postale betaalopdracht te verstrekken, waaronder de legale herkomst van de overhandigde gelden alsmede de reden van de postale betaalopdracht:
 
-- 4. in geval van beslaglegging op de overhandigde gelden;
+- 1.4. in geval van beslaglegging op de overhandigde gelden;
 
-- 5. wanneer het gelden van krijgsgevangenen of civiel geïnterneerden betreft;
+- 1.5. wanneer het gelden van krijgsgevangenen of civiel geïnterneerden betreft;
 
-- 6. wanneer de gebruiker binnen de in dit Verdrag vastgelegde termijn geen klacht heeft ingediend;
+- 1.6. wanneer de gebruiker binnen de in dit Verdrag vastgelegde termijn geen klacht heeft ingediend;
 
-- 7. wanneer de verjaringstermijn voor postale financiële diensten in het land van uitschrijving is verlopen.
-
-##### Artikel 23. Voorbehouden inzake aansprakelijkheid
-
-1. Op de in de artikelen 20 tot en met 22 voorgeschreven bepalingen inzake aansprakelijkheid kan, behoudens bij bilaterale overeenkomst, geen voorbehoud worden gemaakt.
+- 1.7. wanneer de verjaringstermijn voor postale financiële diensten in het land van uitschrijving is verlopen.
 
 ### HOOFDSTUK III. FINANCIËLE BETREKKINGEN
 
-##### Artikel 24. Boekhoudkundige en financiële regels
+##### Artikel 24. Voorbehouden inzake aansprakelijkheid
+
+Op de in de artikelen 21 tot en met 23 voorgeschreven bepalingen inzake aansprakelijkheid kan, behoudens bij bilaterale overeenkomst, geen voorbehoud worden gemaakt.
+
+##### Artikel 25. Boekhoudkundige en financiële regels
 
 1. Boekhoudkundige regels
 
@@ -406,7 +424,9 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 - 5.1. Overeenkomstig de in de Regelingen bedoelde voorwaarden kan de storting van een borg worden verlangd.
 
-##### Artikel 25. Vereffening en clearing
+## DEEL III. OVERGANGS- EN SLOTBEPALINGEN
+
+##### Artikel 26. Vereffening en clearing
 
 1. Centrale vereffening
 
@@ -428,15 +448,13 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 - 2.3.1. De vereffening geschiedt in de valuta van het land van bestemming of in een door de aangewezen aanbieders overeengekomen derde valuta.
 
-## DEEL III. OVERGANGS- EN SLOTBEPALINGEN
-
-##### Artikel 26. Tijdens het Congres gemaakte voorbehouden
+##### Artikel 27. Tijdens het Congres gemaakte voorbehouden
 
 1. Elk voorbehoud dat onverenigbaar is met het voorwerp en het doel van de Unie is niet toegestaan.
 
 2. Als stelregel geldt dat de lidstaten die de andere lidstaten niet van hun mening kunnen overtuigen, voor zover mogelijk zouden moeten trachten zich bij de mening van de meerderheid aan te sluiten. Voorbehouden mogen uitsluitend in geval van absolute noodzaak worden gemaakt en dienen naar behoren met redenen te worden omkleed.
 
-3. Elk voorbehoud op een artikel van dit Verdrag dient aan het Congres te worden voorgelegd in de vorm van een schriftelijk voorstel in een van de werktalen van het Internationaal Bureau, overeenkomstig de desbetreffende bepalingen van het Reglement van Orde van het Congres.
+3. Een voorbehoud op de artikelen van dit Verdrag moet aan het Congres worden voorgelegd in de vorm van een schriftelijk voorstel in een van de werktalen van het Internationaal Bureau, overeenkomstig de desbetreffende bepalingen van het Reglement van Orde van het Congres.
 
 4. Om van kracht te worden, dient het aan het Congres voorgelegde voorbehoud te worden goedgekeurd door de meerderheid die per geval voor de wijziging van het artikel waarop het voorbehoud betrekking heeft, benodigd is.
 
@@ -444,17 +462,17 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 6. Het voorbehoud op dit Verdrag wordt in het Slotprotocol ervan opgenomen op basis van het door het Congres goedgekeurde voorstel.
 
-##### Artikel 27. Slotbepalingen
+##### Artikel 28. Slotbepalingen
 
-1. Het [Postverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006699) is in voorkomend geval mutatis mutandis van toepassing op alles wat niet uitdrukkelijk in dit Verdrag is geregeld.
+1. Het Postverdrag is in voorkomend geval mutatis mutandis van toepassing op alles wat niet uitdrukkelijk in dit Verdrag is geregeld.
 
-2. [Artikel 4 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=4) is niet van toepassing op dit Verdrag.
+2. [Artikel 5 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=5) is niet van toepassing op dit Verdrag.
 
 3. Voorwaarden voor goedkeuring van voorstellen betreffende het Verdrag en de Regelingen
 
 - 3.1. Om uitvoerbaar te worden, dienen de bij het Congres ingediende voorstellen betreffende dit Verdrag te worden goedgekeurd door de meerderheid van de aanwezige stemgerechtigde lidstaten die hun stem uitbrengen. Ten tijde van de stemming moet ten minste de helft van de lidstaten die bij het Congres vertegenwoordigd zijn en stemgerechtigd zijn, aanwezig zijn.
 
-- 3.2. Om uitvoerbaar te worden, moeten de voorstellen met betrekking tot de Regelingen bij dit Verdrag worden goedgekeurd door de meerderheid van de leden van de Postraad die aanwezig zijn, stemgerechtigd zijn en het Verdrag hebben ondertekend of ertoe zijn toegetreden.
+- 3.2. Om uitvoerbaar te worden, moeten de voorstellen met betrekking tot de Regeling bij dit Verdrag worden goedgekeurd door de meerderheid van de leden van de Postraad die aanwezig zijn, stemgerechtigd zijn en het Verdrag hebben ondertekend of ertoe zijn toegetreden.
 
 - 3.3. Om uitvoerbaar te worden, moeten de tussen twee Congressen in ingediende voorstellen die betrekking hebben op dit Verdrag:
 
@@ -466,22 +484,46 @@ Alle individuele postale gegevens worden door het Internationaal Bureau vertrouw
 
 - 3.4. Niettegenstaande het bepaalde in 3.3.1 is elke lidstaat waarvan de nationale wetgeving nog niet verenigbaar is met de voorgestelde toevoeging gerechtigd, binnen negentig dagen na de kennisgeving van deze toevoeging, een schriftelijke verklaring aan de Directeur-Generaal van het Internationaal Bureau te richten waarin wordt vermeld dat het niet mogelijk is deze toevoeging te aanvaarden.
 
-##### Artikel 28. Inwerkingtreding en duur van het Verdrag inzake postale financiële diensten
-
-1. Dit Verdrag treedt in werking op 1 januari 2018 en blijft van kracht tot de inwerkingtreding van de Akten van het volgende Congres.
-
 Bij de ondertekening van het heden gesloten Verdrag inzake postale financiële diensten zijn de ondergetekende gevolmachtigden het volgende overeengekomen:
 
-##### Artikel I. Operationele bevoegdheden
+##### Artikel I. Reikwijdte van het Verdrag
 
-1. Onder verwijzing naar [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=5&z=2018-08-30&g=2018-08-30) en voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2018-08-30&g=2018-08-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2018-08-30&g=2018-08-30) van het Verdrag inzake postale financiële diensten, start elke door Frankrijk aangewezen aanbieder uitsluitend postale financiële diensten met aanbieders van de lidstaten die het Verdrag hebben ondertekend.
-
-2. In gevallen waarin een van deze aanbieders geen aangewezen aanbieder is, kan deze uitsluitend betaalopdrachten uitvoeren die van de Franse aangewezen aanbieder zijn ontvangen. Voor het sluiten van een uitwisselingsovereenkomst met een Franse aangewezen aanbieder dient deze aanbieder eerst een afschrift te overleggen van zijn verklaring van deelname aan de exclusieve uitvoering van postale financiële diensten afgelegd tegenover de bevoegde autoriteiten van de betrokken lidstaat, die deze verklaring naar eigen goeddunken van een toelating kunnen voorzien.
-
-3. Deze zelfde bepalingen zijn op basis van wederkerigheid van toepassing op het nationale grondgebied van Frankrijk voor elke aanbieder in Frankrijk die een samenwerkingsverband wenst aan te gaan met uitsluitend aangewezen aanbieders van andere lidstaten die het Verdrag inzake postale financiële diensten hebbend ondertekend.
+Niettegenstaande [artikel1](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=1&z=2022-07-01&g=2022-07-01) behoudt Vietnam zich het recht voor de verrekenpostwisseldienst op zijn grondgebied aan te bieden.
 
 IN WITNESS WHEREOF, the plenipotentiaries of the governments of the contracting countries have signed this Agreement in a single original which shall be deposited with the Director General of the International Bureau.
 
 A copy thereof shall be delivered to each party by the International Bureau of the Universal Postal Union.
 
 DONE at Istanbul, 6 October 2016
+
+### HOOFDSTUK II. ALGEMENE BEGINSELEN EN KWALITEIT VAN DE DIENSTVERLENING
+
+### HOOFDSTUK III. BEGINSELEN MET BETREKKING TOT DE GEAUTOMATISEERDE UITWISSELING VAN GEGEVENS
+
+## DEEL II. OP DE POSTALE FINANCIËLE DIENSTEN VAN TOEPASSING ZIJNDE REGELS
+
+### HOOFDSTUK I. VERWERKING VAN POSTALE BETAALOPDRACHTEN
+
+### HOOFDSTUK II. KLACHTEN EN AANSPRAKELIJKHEID
+
+### HOOFDSTUK III. FINANCIËLE BETREKKINGEN
+
+## DEEL III. OVERGANGS- EN SLOTBEPALINGEN
+
+##### Artikel 29. Inwerkingtreding en duur van het Verdrag inzake postale financiële diensten
+
+1. Dit Verdrag treedt in werking op 1 juli 2022 en blijft voor onbepaalde tijd van kracht.
+
+Bij de ondertekening van het heden gesloten Verdrag inzake postale financiële diensten zijn de gevolmachtigden van de regeringen van de lidstaten het volgende overeengekomen:
+
+##### Artikel II. Operationele bevoegdheden
+
+1. Onder verwijzing naar [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=6&z=2022-07-01&g=2022-07-01) en voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=3&z=2022-07-01&g=2022-07-01) en [4 van het Verdrag inzake postale financiële diensten](https://wetten.overheid.nl/jci1.3:c:BWBV0006700&deel=I&hoofdstuk=I&artikel=4&z=2022-07-01&g=2022-07-01), start elke door Frankrijk aangewezen aanbieder uitsluitend postale financiële diensten met aanbieders van de lidstaten die het Verdrag hebben ondertekend.
+
+2. In gevallen waarin een van deze aanbieders geen aangewezen aanbieder is, kan deze uitsluitend betaalopdrachten uitvoeren die van de Franse aangewezen aanbieder zijn ontvangen. Voor het sluiten van een uitwisselingsovereenkomst met een Franse aangewezen aanbieder dient deze aanbieder eerst een afschrift te overleggen van zijn verklaring van deelname aan de exclusieve uitvoering van postale financiële diensten afgelegd tegenover de bevoegde autoriteiten van de betrokken lidstaat, die deze verklaring naar eigen goeddunken van een toelating kunnen voorzien.
+
+3. Deze zelfde bepalingen zijn op basis van wederkerigheid van toepassing op het nationale grondgebied van Frankrijk voor elke aanbieder in Frankrijk die een samenwerkingsverband wenst aan te gaan met uitsluitend aangewezen aanbieders van andere lidstaten die het Verdrag inzake postale financiële diensten hebben ondertekend.
+
+IN WITNESS WHEREOF, the plenipotentiaries of the governments of the member countries have signed this Agreement in a single original which shall be deposited with the Director General of the International Bureau. A copy thereof shall be delivered to each party by the International Bureau of the Union.
+
+DONE at Abidjan, 26 August 2021
