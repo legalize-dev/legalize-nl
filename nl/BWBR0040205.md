@@ -4,7 +4,7 @@ identifier: "BWBR0040205"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040205"
 soort: "AMvB"
@@ -282,7 +282,7 @@ Met betrekking tot het registratieobject grondwaterstandonderzoek binnen de cate
 
 ### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
 
-### Hoofdstuk 5. Slotbepalingen
+### Hoofdstuk 3. De registratie ondergrond
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -300,9 +300,19 @@ Met betrekking tot het registratieobject formatieweerstandonderzoek binnen de ca
 
 ##### Artikel 2.5.2
 
-Dit onderdeel is nog niet inwerking getreden
+1. Met betrekking tot het registratieobject mijnbouwconstructie binnen de categorie constructies wordt als brondocument aangewezen een document waarin is vastgelegd:
 
-#### § 6. Modellen
+- a. de locatie op het aardoppervlak van boorgaten voor de opsporing, winning of opslag van delfstoffen, behalve steenkool en kalksteen, en aardwarmte, alsmede de locatie van de daarbij behorende boortrajecten in de ondergrond, of
+
+- b. de locatie op het aardoppervlak van de geometrische begrenzing van mijnstelsels met de specificaties van de daarbij behorende gedetailleerde mijnkaarten, of
+
+- c. de locatie op het aardoppervlak van de geometrische begrenzing van groeven als bedoeld in [artikel 145 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=145), van de toegang tot groeven, en de geometrische begrenzing van winplaatsen in de ondergrond binnen groeven, of
+
+- d. de locatie op het aardoppervlak van de geometrische begrenzing van zoutcavernes, van boorgaten en ondergrondse boortrajecten ten behoeve van zoutwinning.
+
+2. Bij het aanleveren van een brondocument inzake een mijnbouwconstructie voegt de bronhouder een verwijzing toe naar gedetailleerdere gegevens inzake die constructie. Die verwijzing is een niet-authentiek gegeven.
+
+#### § 5. [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
 
 ##### Artikel 2.6.6
 
@@ -317,6 +327,26 @@ Met betrekking tot het registratieobject model grondwaterspiegeldieptemodel binn
 - d. de grondwatertrap.
 
 ### Hoofdstuk 3. De registratie ondergrond
+
+### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
+
+### Hoofdstuk 5. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.4.1
+
+Als brondocument met betrekking tot de in deze paragraaf genoemde registratieobjecten wordt uitsluitend aangewezen een document met gegevens die aan bestuursorganen worden verstrekt in het kader van vergunningsplichtige wateronttrekkingsactiviteiten als bedoeld in de [artikelen 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.4) of [6.5 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.5) of meldingsplichtige activiteiten als bedoeld in [artikel 6.11 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.11), [artikel 1.10a van het Besluit lozen buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0029789&artikel=1.10a) of [artikel 1.21a van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=1.21a).
+
+##### Artikel 2.4.2
+
+Met betrekking tot het registratieobject grondwatergebruiksysteem binnen de categorie constructies wordt als brondocument aangewezen een document met het geheel aan gegevens dat betrekking heeft op een grondwatergebruiksysteem dat op een bepaalde locatie is ingericht om grondwater direct te gebruiken door grondwateronttrekking, infiltratie of retournering, of indirect te gebruiken voor warmte- en koudecapaciteit.
+
+##### Artikel 2.4.3
+
+Met betrekking tot het registratieobject grondwaterproductiedossier binnen de categorie constructies wordt als brondocument aangewezen een document met periodieke waarnemingen van onttrokken, geïnfiltreerde of geretourneerde hoeveelheden grondwater, gemeten in een installatie of put van een grondwatergebruiksysteem, die aan het bevoegd gezag zijn gerapporteerd.
+
+#### § 6. Modellen
 
 ### Hoofdstuk 4. Wijziging van de in de registratie ondergrond opgenomen gegevens
 
