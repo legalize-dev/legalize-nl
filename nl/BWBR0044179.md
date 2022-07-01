@@ -4,7 +4,7 @@ identifier: "BWBR0044179"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-03"
-last_updated: "2020-10-07"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044179"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Op deze regeling zijn de [artikelen 6, eerste lid](https://wetten.overheid.nl/jc
 
 ##### Artikel 3. Plafond van de specifieke uitkering en wijze van verdelen
 
-1. Het plafond van de specifieke uitkering voor de jaren 2020 tot en met 2031 bedraagt € 65.000.000,–.
+1. Het plafond van de specifieke uitkering voor de jaren 2020 tot en met 2031 bedraagt € 125.000.000.
 
 2. Bij wijziging van het plafond doet de Minister daarvan mededeling in de Staatscourant.
 
