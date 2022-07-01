@@ -4,7 +4,7 @@ identifier: "BWBR0011103"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2014-12-12"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011103"
 soort: "ministeriele-regeling"
@@ -57,11 +57,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-1. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen, waarvan de totale startmassa meer dan 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan paragraaf SERA.2005, paragraaf SERA.3215, paragraaf SERA.5025 en deel 5 van de bijlage bij verordening (EU) nr. 923/2012 en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=2), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=13), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=23), en [24 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=24), gelden de volgende nadere regels:
+1. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen, waarvan de totale startmassa meer dan 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan paragraaf SERA.2005, paragraaf SERA.3215, paragraaf SERA.5025 en deel 5 van de bijlage bij [verordening (EU) nr. 923/2012](32012R0923) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=2), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=13), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=23), en [24 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=24), gelden de volgende nadere regels:
 
-- a. de vlucht wordt uitgevoerd in een gebied waar het uitoefenen van de burgerluchtvaart is verboden tijdens het gebruik van het gebied ten behoeve van militaire oefeningen;
+- a. de vlucht:
 
-- b. de vlucht wordt afgestemd met eventueel ander militair luchtverkeer.
+- 1°. wordt uitgevoerd in een gebied waar het uitoefenen van de burgerluchtvaart is verboden tijdens het gebruik van het gebied ten behoeve van militaire oefeningen;
+
+- 2°. wordt afgestemd met eventueel ander militair luchtverkeer;
+
+- b. de vlucht buiten het gebied, bedoeld in onderdeel a, wordt afgestemd met de luchtverkeersdienstverlener.
 
 2. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen voor observatiedoeleinden vanuit de lucht, waarvan de totale startmassa ten hoogste 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan paragraaf SERA.2005, paragraaf SERA.3215, paragraaf SERA.3225, paragraaf SERA.5005, onderdeel g, paragraaf SERA.5020, paragraaf SERA.5025, paragraaf SERA.8035 en deel 5 van de bijlage bij verordening (EU) nr. 923/2012 en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=16), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=23), en [24 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=24), gelden de volgende nadere regels:
 
