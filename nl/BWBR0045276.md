@@ -4,7 +4,7 @@ identifier: "BWBR0045276"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045276"
 soort: "AMvB"
@@ -98,7 +98,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Onverminderd [artikel 2, eerste lid, onderdeel a, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2) komen de kosten die rechtstreeks zijn bedoeld voor het realiseren van een generieke werkgeversvoorziening in aanmerking voor subsidie.
 
-2. In afwijking van [artikel 2, eerste lid, onderdeel b, het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2) komen de kosten voor een generieke werkgeversvoorziening waarvoor een vergoeding mogelijk is op grond van [artikel 35 van de Wet werk en inkomen uit arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) in aanmerking voor een subsidie.
+2. In afwijking van [artikel 2, eerste lid, onderdeel b, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2) komen de kosten voor een generieke werkgeversvoorziening waarvoor een vergoeding mogelijk is op grond van [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) in aanmerking voor een subsidie.
 
 3. [Artikel 2, eerste lid, onderdeel b, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2) is ten aanzien van een mogelijke vergoeding op grond van dit besluit slechts van toepassing voor zover op grond van dit besluit een subsidie is verstrekt voor dezelfde voorziening.
 
@@ -108,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5. Tijdvak, subsidieplafond en omvang subsidie
 
-1. Voor subsidies op grond van dit besluit is van 1 juli 2021 tot en met 31 december 2021 € 6.000.000,– beschikbaar en is van 1 januari 2022 tot en met 31 juni 2022 € 12.000.000,– beschikbaar.
+1. Voor subsidies op grond van dit besluit is van 1 juli 2021 tot en met 31 december 2021 € 6.000.000,– beschikbaar en is van 1 januari 2022 tot en met 30 juni 2022 € 12.000.000,– beschikbaar.
 
 2. De helft van het beschikbare bedrag, genoemd in het eerste lid, is als deelplafond uitsluitend beschikbaar voor een aanvrager, niet zijnde een overheidswerkgever, bedoeld in [artikel 1, onderdeel i, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1). Het resterend bedrag is als deelplafond beschikbaar voor een aanvraag van iedere werkgever.
 
@@ -136,13 +136,13 @@ Onverminderd [artikel 4:35, tweede en derde lid, van de Algemene wet bestuursrec
 
 - e. het niet aannemelijk is dat een persoon met een structurele functionele beperking voor het verrichten van werkzaamheden aangewezen is op de betreffende generieke werkgeversvoorziening;
 
-- f. het niet aannemelijk is dat de generieke werkgeversvoorziening zal worden benut door het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01);
+- f. het niet aannemelijk is dat de generieke werkgeversvoorziening zal worden benut door het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2022-07-01&g=2022-07-01);
 
 - g. het niet aannemelijk is dat de generieke werkgeversvoorziening zal worden benut door personen die Nederlander zijn of rechtmatig verblijf hebben op grond van [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
 
-- h. de kosten voor het realiseren van de generieke werkgeversvoorziening, ook indien wordt uitgegaan van de goedkoopste adequate voorziening of na aftrek van inbreng van eigen middelen, niet evenredig zijn tot de beoogde benutting ervan door het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01);
+- h. de kosten voor het realiseren van de generieke werkgeversvoorziening, ook indien wordt uitgegaan van de goedkoopste adequate voorziening of na aftrek van inbreng van eigen middelen, niet evenredig zijn tot de beoogde benutting ervan door het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2022-07-01&g=2022-07-01);
 
-- i. de aanvraag is gedaan buiten de tijdvakken, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01), of vastgesteld op grond van artikel 5, vierde lid;
+- i. de aanvraag is gedaan buiten de tijdvakken, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=3&artikel=5&z=2022-07-01&g=2022-07-01), of vastgesteld op grond van artikel 5, vierde lid;
 
 - j. de aanvraag ziet op kosten die worden gemaakt op grond van de [artikelen 3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3), of [4 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=4); of
 
@@ -150,7 +150,7 @@ Onverminderd [artikel 4:35, tweede en derde lid, van de Algemene wet bestuursrec
 
 ##### Artikel 8. Subsidievaststelling
 
-Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2), en [artikel 10 van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=10), stelt het Uitvoeringsinstituut werknemersverzekeringen de subsidie vast op het bedrag dat noodzakelijk is voor het dekken van de kosten, die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=4&z=2021-07-01&g=2021-07-01) voor subsidie in aanmerking komen.
+Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=2), en [artikel 10 van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=10), stelt het Uitvoeringsinstituut werknemersverzekeringen de subsidie vast op het bedrag dat noodzakelijk is voor het dekken van de kosten, die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=4&z=2022-07-01&g=2022-07-01) voor subsidie in aanmerking komen.
 
 #### Paragraaf 4. Gebruik van de subsidie
 
@@ -160,7 +160,7 @@ Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen legt de ontvanger voorts de verplichting op om gedurende drie kalenderjaren:
 
-- a. inspanningen te verrichten om de generieke werkgeversvoorziening te benutten door een dienstbetrekking aan te gaan of voort te zetten, en te houden met het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01);
+- a. inspanningen te verrichten om de generieke werkgeversvoorziening te benutten door een dienstbetrekking aan te gaan of voort te zetten, en te houden met het aantal personen, bedoeld in [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=2&artikel=3&z=2022-07-01&g=2022-07-01);
 
 - b. het Uitvoeringsinstituut werknemersverzekeringen onverwijld te informeren:
 
@@ -196,13 +196,13 @@ Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 1. Onverminderd [artikel 4:49, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), wijzigt het Uitvoeringsinstituut werknemersverzekeringen de subsidievaststelling:
 
-- a. door tot uiterlijk twee jaar na de subsidievaststelling het vastgestelde bedrag met twee derde te verlagen indien de ontvanger van de subsidie in de periode tussen de subsidievaststelling en een jaar na de subsidievaststelling niet heeft voldaan aan verplichtingen, bedoeld in [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2021-07-01&g=2021-07-01); en
+- a. door tot uiterlijk twee jaar na de subsidievaststelling het vastgestelde bedrag met twee derde te verlagen indien de ontvanger van de subsidie in de periode tussen de subsidievaststelling en een jaar na de subsidievaststelling niet heeft voldaan aan verplichtingen, bedoeld in [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01); en
 
-- b. door tot uiterlijk drie jaar na de subsidievaststelling het oorspronkelijk vastgestelde bedrag met een derde te verlagen indien de ontvanger van de subsidie in de periode tussen een jaar na de subsidievaststelling en twee jaar na de subsidievaststelling niet heeft voldaan aan verplichtingen, bedoeld in [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2021-07-01&g=2021-07-01).
+- b. door tot uiterlijk drie jaar na de subsidievaststelling het oorspronkelijk vastgestelde bedrag met een derde te verlagen indien de ontvanger van de subsidie in de periode tussen een jaar na de subsidievaststelling en twee jaar na de subsidievaststelling niet heeft voldaan aan verplichtingen, bedoeld in [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01).
 
-2. De subsidievaststelling wordt voor de betreffende periode niet gewijzigd indien de aanvrager aantoont in die periode alle redelijkerwijs te verwachten inspanningen te hebben verricht om te voldoen aan de verplichtingen uit [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2021-07-01&g=2021-07-01).
+2. De subsidievaststelling wordt voor de betreffende periode niet gewijzigd indien de aanvrager aantoont in die periode alle redelijkerwijs te verwachten inspanningen te hebben verricht om te voldoen aan de verplichtingen uit [artikel 9, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01).
 
-3. Het Uitvoeringsinstituut werknemersverzekeringen trekt de subsidievaststelling volledig in, indien de ontvanger van de subsidie niet heeft voldaan aan de verplichting, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2021-07-01&g=2021-07-01).
+3. Het Uitvoeringsinstituut werknemersverzekeringen trekt de subsidievaststelling volledig in, indien de ontvanger van de subsidie niet heeft voldaan aan de verplichting, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045276&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01).
 
 #### Paragraaf 6. Slotbepalingen
 
