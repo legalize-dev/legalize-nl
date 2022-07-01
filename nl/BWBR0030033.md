@@ -4,7 +4,7 @@ identifier: "BWBR0030033"
 country: "nl"
 rank: "wet"
 publication_date: "2022-07-01"
-last_updated: "2018-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030033"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **stichting administratiekantoor:** stichting administratiekantoor beheer financiële instellingen;
 
-- **de vennootschappen:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2018-01-01&g=2018-01-01) bedoelde vennootschappen.
+- **de vennootschappen:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2022-07-01&g=2022-07-01) bedoelde vennootschappen.
 
 ##### Artikel 2
 
@@ -113,7 +113,7 @@ Onze Minister kan de stichting administratiekantoor aanwijzingen geven indien di
 
 ##### Artikel 7
 
-1. Onze Minister vergoedt de kosten die de stichting administratiekantoor maakt voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2018-01-01&g=2018-01-01) genoemde wettelijke taak en het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=3&z=2018-01-01&g=2018-01-01) genoemde doel, zoals deze zijn uitgewerkt in de statuten en administratievoorwaarden, voor zover deze kosten niet uit anderen hoofde worden gedekt. Onze Minister kan deze kosten en de kosten die door de Staat worden gemaakt in relatie tot de stichting in rekening brengen bij de vennootschappen waarvan aandelen door de stichting worden beheerd.
+1. Onze Minister vergoedt de kosten die de stichting administratiekantoor maakt voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2022-07-01&g=2022-07-01) genoemde wettelijke taak en het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=3&z=2022-07-01&g=2022-07-01) genoemde doel, zoals deze zijn uitgewerkt in de statuten en administratievoorwaarden, voor zover deze kosten niet uit anderen hoofde worden gedekt. Onze Minister kan deze kosten en de kosten die door de Staat worden gemaakt in relatie tot de stichting in rekening brengen bij de vennootschappen waarvan aandelen door de stichting worden beheerd.
 
 2. Het bedrag van de te vergoeden en de in rekening te brengen kosten wordt gebaseerd op de begroting van de stichting administratiekantoor die door Onze Minister is goedgekeurd en op het exploitatiesaldo van de stichting administratiekantoor indien Onze Minister de jaarrekening heeft goedgekeurd. Deze bedragen kunnen worden verhoogd voor de kosten die door de Staat worden gemaakt in relatie tot de stichting.
 
@@ -123,11 +123,17 @@ Onze Minister kan de stichting administratiekantoor aanwijzingen geven indien di
 
 ##### Artikel 8
 
-Voor de toepassing van de [artikelen 7.24, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.24), en [7.34 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.34) worden de door de stichting uitgegeven certificaten van aandelen gelijk gesteld met aandelen.
+1. Voor de toepassing van [artikel 7.24, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.24), en [artikel 7.35 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.35) worden de door de stichting administratiekantoor gehouden aandelen gelijkgesteld met door de Staat gehouden aandelen.
+
+2. Onverminderd haar bevoegdheid tot het verrichten van eigen onderzoek ingevolge [artikel 7.35 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.35), maakt de Algemene Rekenkamer zoveel mogelijk gebruik van de bij de stichting administratiekantoor beschikbare informatie ten aanzien van de naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de stichting administratiekantoor direct vijf procent of meer, of indirect meer dan vijftig procent van het geplaatste aandelenkapitaal houdt.
+
+3. Bij de uitoefening van haar bevoegdheid waarborgt de Algemene Rekenkamer de vertrouwelijkheid van de informatie als bedoeld in artikel 7, eerste tot en met vierde lid, van Verordening (EU) nr. 596/2014 van het Europees Parlement en de Raad van 16 april 2014 betreffende marktmisbruik en houdende intrekking van [Richtlijn 2003/6/EG](32003L0006) van het Europees Parlement en de Raad en [Richtlijnen 2003/124](32003L0124), [2003/125/EG](32003L0125) en [2004/72/EG](32004L0072) van de Commissie (PbEU 2014 L 173). Bij openbaarmaking van deze informatie stelt de Algemene Rekenkamer de uitgevende instelling in de gelegenheid te voldoen aan artikel 17 van die verordening.
+
+4. De Algemene Rekenkamer licht Onze Minister in over haar bevindingen en het onderzoek dat zij verricht.
 
 ##### Artikel 8a
 
-1. Onze Minister is belast met het beheer van en de zorg voor archiefbescheiden die onder Onze Minister berusten of komen te berusten en die betrekking hebben op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2018-01-01&g=2018-01-01) genoemde wettelijke taak of het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=3&z=2018-01-01&g=2018-01-01) genoemde doel.
+1. Onze Minister is belast met het beheer van en de zorg voor archiefbescheiden die onder Onze Minister berusten of komen te berusten en die betrekking hebben op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=2&z=2022-07-01&g=2022-07-01) genoemde wettelijke taak of het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030033&artikel=3&z=2022-07-01&g=2022-07-01) genoemde doel.
 
 2. De stichting administratiekantoor heeft recht op inzage in de in het eerste lid bedoelde archiefbescheiden en heeft het recht daarvan reproducties of afschriften te maken.
 
