@@ -4,7 +4,7 @@ identifier: "BWBR0003891"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2013-03-30"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003891"
 soort: "AMvB"
@@ -66,9 +66,9 @@ Voor de toepassing van [artikel 55 van de Algemene Ouderdomswet](https://wetten.
 
 - j. het wonen in Suriname van de gehuwde of gehuwd geweest zijnde vrouw, die zelf niet, doch wier echtgenoot onderscheidenlijk gewezen echtgenoot wel op 25 november 1975 in Suriname woonde, gedurende de tijd, dat zij dezelfde woonplaats had als haar echtgenoot, onderscheidenlijk gewezen echtgenoot vóórdat deze na 25 november 1975 Suriname voor de eerste maal metterwoon heeft verlaten, mits zij zich vóór 1 januari 1981 metterwoon in Nederland heeft gevestigd;
 
-- k. het wonen buiten het Rijk gedurende de tijd, dat de betrokkene, in dienstbetrekking staande tot een binnen het Rijk wonende of gevestigde werkgever, als Nederlands lid van de bemanning woonde aan boord van een schip, dat niet binnen het Rijk zijn thuishaven had;
+- k. het wonen buiten het Rijk gedurende de tijd, dat de betrokkene, in dienstbetrekking staande tot een binnen het Rijk wonende of gevestigde werkgever, als lid van de bemanning woonde aan boord van een schip, dat niet binnen het Rijk zijn thuishaven had;
 
-- l. het wonen buiten het Rijk van degene, die gehuwd is of gehuwd geweest is gedurende de tijd, dat zijn echtgenoot, onderscheidenlijk gewezen echtgenoot aan de in onderdeel **k** gestelde voorwaarden voldeed of als Nederlands lid van de bemanning woonde aan boord van een schip, dat binnen het Rijk zijn thuishaven had, een en ander mits diegene woonde aan boord van het door zijn echtgenoot onderscheidenlijk gewezen echtgenoot bevaren schip.
+- l. het wonen buiten het Rijk van degene, die gehuwd is of gehuwd geweest is gedurende de tijd, dat zijn echtgenoot, onderscheidenlijk gewezen echtgenoot aan de in onderdeel **k** gestelde voorwaarden voldeed of als lid van de bemanning woonde aan boord van een schip, dat binnen het Rijk zijn thuishaven had, een en ander mits diegene woonde aan boord van het door zijn echtgenoot onderscheidenlijk gewezen echtgenoot bevaren schip.
 
 ##### Artikel 2
 
@@ -78,15 +78,15 @@ Voor de toepassing van [artikel 55 van de Algemene Ouderdomswet](https://wetten.
 
 Voor de toepassing van [artikel 56 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) wordt met het wonen binnen het Rijk gelijkgesteld:
 
-- a. het wonen buiten het Rijk van de Nederlander, die voldoet aan de voorwaarden, gesteld in artikel 1, eerste lid, onderdeel a, van het koninklijk besluit van 19 oktober 1976 (**Stb.** 557), alsmede zijn echtgenoot;
+- a. het wonen buiten het Rijk van degene, die voldoet aan de voorwaarden, gesteld in artikel 1, eerste lid, onderdeel a, van het koninklijk besluit van 19 oktober 1976 (**Stb.** 557), alsmede zijn echtgenoot;
 
 - b. het wonen buiten het Rijk van de weduwe of weduwnaar, van wie de echtgenoot op de dag van zijn overlijden voldeed aan de voorwaarden, gesteld in artikel 1, eerste lid, onderdeel **a**, van het koninklijk besluit van 19 oktober 1976 (**Stb.** 557), gedurende een jaar of een door Onze Minister te bepalen langere termijn na vorenbedoelde dag;
 
-- c. het wonen buiten het Rijk van een Nederlander, die, in dienstbetrekking staande tot een binnen het Rijk wonende of gevestigde werkgever, als lid van de bemanning woont aan boord van een schip, dat niet binnen het Rijk zijn thuishaven heeft;
+- c. het wonen buiten het Rijk van degene, die, in dienstbetrekking staande tot een binnen het Rijk wonende of gevestigde werkgever, als lid van de bemanning woont aan boord van een schip, dat niet binnen het Rijk zijn thuishaven heeft;
 
-- d. het wonen buiten het Rijk van degene die gehuwd is met een Nederlander, als bedoeld in onderdeel **c**, of met een Nederlander, die als lid van de bemanning woont aan boord van een schip, dat binnen het Rijk zijn thuishaven heeft, een en ander mits diegene woont aan boord van het door zijn echtgenoot bevaren schip;
+- d. het wonen buiten het Rijk van degene die gehuwd is met de persoon, bedoeld in onderdeel c, of met een persoon, die als lid van de bemanning woont aan boord van een schip, dat binnen het Rijk zijn thuishaven heeft, een en ander mits diegene woont aan boord van het door zijn echtgenoot bevaren schip;
 
-- e. het wonen buiten het Rijk van een Nederlander, aan wie, voor hij het Rijk metterwoon verliet, de voordelen voortvloeiend uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) toekwamen, mits hij - al dan niet onafgebroken - gedurende zes jaren na de voleindiging van zijn 59ste levensjaar binnen het Rijk heeft gewoond. Voor de toepassing van deze bepaling wordt, wanneer het de voordelen voortvloeiende uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) betreft, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) met toepassing van het bepaalde in artikel 13, tweede lid, onderdeel a, van die wet, de jongere echtgenoot van de pensioengerechtigde geacht het 59ste levensjaar te hebben voleindigd op dezelfde dag als die pensioengerechtigde;
+- e. het wonen buiten het Rijk van degene, aan wie, voor hij het Rijk metterwoon verliet, de voordelen voortvloeiend uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) toekwamen, mits hij - al dan niet onafgebroken - gedurende zes jaren na de voleindiging van zijn 59ste levensjaar binnen het Rijk heeft gewoond. Voor de toepassing van deze bepaling wordt, wanneer het de voordelen voortvloeiende uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) betreft, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) met toepassing van het bepaalde in artikel 13, tweede lid, onderdeel a, van die wet, de jongere echtgenoot van de pensioengerechtigde geacht het 59ste levensjaar te hebben voleindigd op dezelfde dag als die pensioengerechtigde;
 
 - f. het wonen buiten het Rijk van een staatsburger van de Verenigde Staten van Amerika;
 
@@ -94,33 +94,21 @@ Voor de toepassing van [artikel 56 van de Algemene Ouderdomswet](https://wetten.
 
 ##### Artikel 4
 
-1. Voor de toepassing van [artikel 56 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) wordt met het wonen binnen het Rijk gelijkgesteld het wonen in Suriname, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba van een Surinamer, aan wie, voor hij het Rijk metterwoon verliet, de voordelen voortvloeiend uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) toekwamen, mits hij - al dan niet onafgebroken - gedurende zes jaren na de voleindiging van zijn 59ste levensjaar binnen het Rijk heeft gewoond.
-
-2. Voor de toepassing van het eerste lid wordt, wanneer het de voordelen voortvloeiend uit [artikel 55 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) betreft, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) met toepassing van het bepaalde in [artikel 13, tweede lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13), de jongere echtgenoot van de pensioengerechtigde geacht het 59ste levensjaar te hebben voleindigd op dezelfde dag als die pensioengerechtigde.
+Vervallen
 
 ##### Artikel 5
 
-1. Voor de toepassing van de [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=55) en [56 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) wordt met het wonen binnen het Rijk gelijkgesteld het wonen in België van een Nederlander of een Belg, die gedurende de zes aan het bereiken van de 65-jarige leeftijd onmiddellijk voorafgaande jaren onafgebroken in Nederland arbeid in loondienst heeft verricht.
-
-2. Voor de toepassing van het vorige lid wordt met het verrichten van arbeid in loondienst gelijkgesteld het genot ingevolge een Nederlandse wettelijke regeling van een uitkering naar een arbeidsongeschiktheid van ten minste 50%, mits de betrokkene tijdens het genot van bedoelde uitkering in België geen arbeid in loondienst of als zelfstandige verricht.
-
-3. Een onderbreking van het in de voorgaande leden bedoelde tijdvak welke korter dan dertig dagen heeft geduurd, blijft buiten aanmerking, met dien verstande, dat wanneer zich in een jaar meerdere onderbrekingen hebben voorgedaan, deze slechts buiten aanmerking blijven, wanneer zij tezamen minder dan dertig dagen belopen.
+Vervallen
 
 ##### Artikel 6
 
-1. Voor de toepassing van [artikel 56 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) wordt met het wonen binnen het Rijk gelijkgesteld:
-
-- a. het wonen buiten het Rijk van een Nederlander, die van 1 januari 1957 tot het bereiken van de leeftijd van 65 jaar onafgebroken verzekerd is geweest krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
-
-- b. het wonen in Oostenrijk van een Nederlander en een Oostenrijker.
+1. Voor de toepassing van [artikel 56 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) wordt met het wonen binnen het Rijk gelijkgesteld het wonen buiten het Rijk van degene, die van 1 januari 1957 tot het bereiken van de leeftijd van 65 jaar onafgebroken verzekerd is geweest krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
 
 2. Voor de toepassing van het bepaalde in het eerste lid, onderdeel **a**, wordt, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) met toepassing van het bepaalde in artikel 13, tweede lid, onderdeel **a**, van die wet de jongere echtgenoot van de pensioengerechtigde geacht het 65ste levensjaar te hebben voleindigd op dezelfde dag als die pensioengerechtigde.
 
 ##### Artikel 7
 
-1. Voor de toepassing van [artikel 56 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=56) wordt met het wonen binnen het Rijk gelijkgesteld het wonen in Suriname, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba van een Surinamer, die van 1 januari 1957 tot het bereiken van de leeftijd van 65 jaar onafgebroken verzekerd is geweest krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
-
-2. Voor de toepassing van het bepaalde in het eerste lid, wordt, uitsluitend voor de vaststelling van de toeslag, bedoeld in [artikel 8 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) met toepassing van het bepaalde in [artikel 13, tweede lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13) de jongere echtgenoot van de pensioengerechtigde Surinamer geacht het 65ste levensjaar te hebben voleindigd op dezelfde dag als die Surinamer.
+Vervallen
 
 ##### Artikel 8
 
@@ -130,9 +118,11 @@ Vervallen
 
 Vervallen
 
-##### Artikel 10
+##### Artikel 10. Overgangsrecht
 
-Voor de toepassing van de bepalingen van dit besluit wordt met een Nederlander gelijkgesteld een onderdaan van het land, dat het verdrag (nr. 48) betreffende behoud van pensioenrechten van migranten, 1935, van de Internationale Arbeidsorganisatie heeft bekrachtigd.
+1. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003891&artikel=4&z=2022-07-01&g=2022-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003891&artikel=5&z=2022-07-01&g=2022-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003891&artikel=7&z=2022-07-01&g=2022-07-01) en 10, zoals die artikelen luidden op 30 juni 2022, blijven van toepassing op degene waarbij voor de toepassing van de artikel 55 dan wel artikel 56 het wonen buiten Nederland op die dag is gelijkgesteld met het wonen in Nederland.
+
+2. [Artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003891&artikel=6&z=2022-07-01&g=2022-07-01), zoals dat onderdeel luidde op 30 juni 2022, blijft van toepassing op degene waarbij voor de toepassing van de artikel 55 dan wel artikel 56 het wonen buiten Nederland op die dag is gelijkgesteld met het wonen in Nederland.
 
 ##### Artikel 11
 
