@@ -4,7 +4,7 @@ identifier: "BWBR0032460"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2013-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032460"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ De raad van toezicht oefent onafhankelijk van bestuur en minister toezicht uit. 
 
 ##### Artikel 4. Begroting
 
-De Dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende jaar aan de minister.
+De Dienst zendt jaarlijks voor 1 september ter informatie de conceptbegroting voor het daaropvolgende jaar aan de Minister en voor 1 oktober de begroting voor het daaropvolgende jaar aan de Minister.
 
 ##### Artikel 5. Meerjarenbeleidsplan
 
@@ -92,7 +92,9 @@ De Dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende ja
 
 - j. wijzigingen ten opzichte van aannames en uitgangspunten in het vorige meerjarenbeleidsplan;
 
-- k. de hoogte van de na te streven efficiency en de te behalen besparingen, mede in relatie tot de interne en externe ontwikkelingen en de gevolgen daarvan voor de Dienst.
+- k. de hoogte van de na te streven efficiency en de te behalen besparingen, mede in relatie tot de interne en externe ontwikkelingen en de gevolgen daarvan voor de Dienst;
+
+- l. de wijze waarop invulling is gegeven aan de jaarbrief van de Minister.
 
 ##### Artikel 6. Aandachtspunten voor de accountantscontrole
 
@@ -120,7 +122,7 @@ De Dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende ja
 
 - d. het aangaan en beëindigen van overeenkomsten tot huur, verhuur of pacht van registergoederen waarvan de huur of pacht een bedrag van jaarlijks 10 miljoen euro overschrijdt;
 
-- e. het aangaan van kredietovereenkomsten en van overeenkomsten van geldlening indien deze afzonderlijk dan wel alle kredietovereenkomsten en overeenkomsten van geldleningen gezamenlijk een bedrag van 10 miljoen euro overschrijden;
+- e. het aangaan van kredietovereenkomsten en van overeenkomsten van geldlening indien deze afzonderlijk dan wel alle (deel)kredietovereenkomsten en (deel)overeenkomsten van geldleningen gezamenlijk een bedrag van 10 miljoen euro overschrijden;
 
 - f. het aangaan van overeenkomsten waarbij de Dienst zich verbindt tot zekerheidstelling met inbegrip van zekerheidstelling voor schulden van derden of waarbij de Dienst zich als borg of hoofdelijk medeschuldenaar verbindt of zich voor een derde sterk maakt;
 
@@ -130,7 +132,7 @@ De Dienst zendt jaarlijks voor 1 oktober de begroting voor het daaropvolgende ja
 
 2. Indien de Dienst een beslissing wil nemen als bedoeld in het eerste lid, onderdelen b, c, d en e, waarvan de bedragen, genoemd in het eerste lid, niet overschreden worden maar waarvan de waarde meer bedraagt dan 5 miljoen euro, informeert de Dienst de minister over de beslissing.
 
-3. De Dienst legt een voorgenomen beslissing als bedoeld in het eerste lid niet voor dan nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben. De Dienst behoeft de voorafgaande instemming van de raad van toezicht voor het aangaan van kredietovereenkomsten en van overeenkomsten van geldlening, indien deze een bedrag afzonderlijk dan wel alle kredietovereenkomsten en overeenkomsten van geldleningen gezamenlijk van 2,5 miljoen euro overschrijden.
+3. De Dienst legt een voorgenomen beslissing als bedoeld in het eerste lid niet voor dan nadat de raad van toezicht heeft verklaard tegen die beslissing geen bedenkingen te hebben. De Dienst behoeft de voorafgaande instemming van de raad van toezicht voor het aangaan van kredietovereenkomsten en van overeenkomsten van geldlening, indien deze een bedrag afzonderlijk dan wel alle (deel)kredietovereenkomsten en (deel)overeenkomsten van geldleningen gezamenlijk van 2,5 miljoen euro overschrijden.
 
 4. Voor zover de in het eerste lid genoemde voornemens zijn opgenomen in de begroting, bedoeld in [artikel 26 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), hoeven deze niet afzonderlijk ter instemming aan de minister te worden voorgelegd.
 
@@ -148,25 +150,35 @@ Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten 
 
 - b. de relevante gegevens over de gerealiseerde kwantiteit en kwaliteit van de dienstverlening;
 
-- c. het aantal bezwaar- en beroepsprocedures dat is gevoerd op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), en de resultaten daarvan;
+- c. de risico’s die zich in een verslagjaar hebben voorgedaan alsmede de werking van de beheersmaatregelen;
 
-- d. het aantal verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en de resultaten daarvan;
+- d. het aantal bezwaar- en beroepsprocedures dat is gevoerd op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), en de resultaten daarvan;
 
-- e. het aantal ingediende klachten, al dan niet gedaan op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), en de resultaten daarvan;
+- e. het aantal verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en de resultaten daarvan;
 
-- f. het aantal klachten op grond van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372). en de resultaten daarvan;
+- f. het aantal ingediende klachten, al dan niet gedaan op grond van [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), en de resultaten daarvan;
 
-- g. mededelingen omtrent de verwachte gang van zaken, waarbij in het bijzonder aandacht wordt besteed aan de omstandigheden waarvan de ontwikkeling van de omzet en van de kwaliteit van de taakuitoefening afhankelijk is.
+- g. het aantal klachten op grond van de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372). en de resultaten daarvan;
+
+- h. mededelingen omtrent de verwachte gang van zaken, waarbij in het bijzonder aandacht wordt besteed aan de omstandigheden waarvan de ontwikkeling van de omzet en van de kwaliteit van de taakuitoefening afhankelijk is;
+
+- i. het gevoerde integriteitsbeleid;
+
+- j. de ontwikkeling van de prestaties van de organisatie gerelateerd aan de vastgestelde kernprestatie-indicatoren en een toelichting daarbij;
+
+- k. een bedrijfsvoeringparagraaf waarin onder andere wordt ingegaan op het financieel en materieel beheer;
+
+- l. de wijze waarop de Dienst invulling heeft gegeven aan internationale wet- en regelgeving.
 
 2. Uit het jaarverslag valt af te leiden op welke wijze de realisatie in het boekjaar overeenkomt met dan wel afwijkt van de begroting.
 
 3. Het jaarverslag is voorzien van:
 
-- a. een verslag van de directie;
+- a. een verslag van het bestuur;
 
 - b. een verslag van de raad van toezicht;
 
-- c. een in-control-statement van het bestuur;
+- c. een op risicomanagement gebaseerd in-control-statement van het bestuur, waarin in ieder geval wordt ingegaan op de financiële en operationele processen van de Dienst;
 
 - d. een verslag van de Gebruikersraad en de ondernemingsraad.
 
@@ -180,7 +192,7 @@ Bij de inrichting van de jaarrekening wordt onderscheid gemaakt tussen de baten 
 
 ##### Artikel 10. Toepassing internationale wet- en regelgeving
 
-De Dienst informeert de minister ten minste één maal per jaar over de wijze waarop de Dienst van toepassing zijnde of wordende internationale wet- en regelgeving toepast en uitvoert respectievelijk gaat toepassen en uitvoeren.
+Vervallen
 
 ##### Artikel 11. Uitvoeringstoets Dienst
 
@@ -194,11 +206,13 @@ De Dienst informeert de minister ten minste één maal per jaar over de wijze wa
 
 - d. voornemens tot het stellen van Beleidsregels in de zin van [artikel 21 Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21).
 
-2. De minister reageert op de door de Dienst toegezonden rapportage en geeft daarbij in ieder geval aan hoe de rapportage in de besluitvorming is of zal worden betrokken.
+2. In de uitvoeringstoets worden in ieder geval de financiële, organisatorische en juridische gevolgen van het in het eerste lid genoemde voornemen, beschreven, alsmede de gevolgen voor de bedrijfsvoering, de gebruikers en afnemers van de Dienst.
 
-3. Indien de minister nalaat tijdig te verzoeken om een uitvoeringstoets, informeert de Dienst de minister van de intentie van de Dienst om een uitvoeringstoets uit eigen beweging uit te voeren.
+3. De minister reageert op de door de Dienst toegezonden rapportage en geeft daarbij in ieder geval aan hoe de rapportage in de besluitvorming is of zal worden betrokken.
 
-4. Indien in de loop van het besluitvormingsproces het aan de Dienst voorgelegde voornemen op voor de Dienst relevante punten wordt gewijzigd, legt de minister de wijzigingen ten behoeve van een finale uitvoeringstoets voor aan de Dienst.
+4. Indien de minister nalaat tijdig te verzoeken om een uitvoeringstoets, informeert de Dienst de minister van de intentie van de Dienst om een uitvoeringstoets uit eigen beweging uit te voeren.
+
+5. Indien in de loop van het besluitvormingsproces het aan de Dienst voorgelegde voornemen op voor de Dienst relevante punten wordt gewijzigd, legt de minister de wijzigingen ten behoeve van een finale uitvoeringstoets voor aan de Dienst.
 
 ##### Artikel 12. Uitvoeringsevaluaties
 
@@ -210,15 +224,15 @@ De Dienst informeert de minister ten minste één maal per jaar over de wijze wa
 
 ##### Artikel 13. ICT-projecten
 
-De Dienst verschaft de minister structureel informatie over lopende dan wel in voorbereiding zijnde ICT-projecten waarover aan de Tweede Kamer der Staten-Generaal wordt gerapporteerd.
+De Dienst verschaft de Minister structureel informatie over lopende dan wel in voorbereiding zijnde ICT-projecten waarover aan het Adviescollege ICT-toetsing, bedoeld in [artikel 2, eerste lid, van het Instellingsbesluit Adviescollege ICT-toetsing](https://wetten.overheid.nl/jci1.3:c:BWBR0044438&artikel=2) advies wordt gevraagd, of waarover door de Minister aan de Tweede Kamer der Staten-Generaal wordt gerapporteerd.
 
 ##### Artikel 14. Integriteit
 
-De Dienst informeert de minister over het gevoerde integriteitsbeleid.
+Vervallen
 
 ##### Artikel 15. Onderzoek door derden ten behoeve van toezicht
 
-Indien de minister na overleg met het zbo een derde aanwijst om in het kader van het toezicht op het functioneren van de Dienst onderzoek te doen naar een door de minister te bepalen onderdeel van de Dienst of van de taakuitoefening door de Dienst, verstrekt de Dienst aan deze derde op de door de derde te bepalen wijze de ter zake van het onderzoek gevraagde informatie voor zover dit niet beperkt is door een wet of contract.
+Indien de minister na overleg met de Dienst een derde aanwijst om in het kader van het toezicht op het functioneren van de Dienst onderzoek te doen naar een door de minister te bepalen onderdeel van de Dienst of van de taakuitoefening door de Dienst, verstrekt de Dienst aan deze derde op de door de derde te bepalen wijze de ter zake van het onderzoek gevraagde informatie voor zover dit niet beperkt is door een wet of contract.
 
 ##### Artikel 16. Informatieverstrekking van de minister aan de Dienst
 
@@ -234,13 +248,15 @@ De minister verstrekt de Dienst informatie met betrekking tot:
 
 - e. overleg met andere departementen en resultaten daarvan;
 
-- f. klachten over het functioneren van de Dienst.
+- f. klachten over het functioneren van de Dienst;
+
+- g. overige ontwikkelingen die het functioneren van de Dienst beïnvloeden.
 
 ##### Artikel 17. Instemmingstoets minister
 
 1. De Dienst legt tot hem gerichte voorstellen tot taakopdracht door een ander bestuursorgaan tijdig voor aan de minister met het oog op het verkrijgen van diens instemming.
 
-2. Het eerste lid is van overeenkomstige toepassing op voornemens van de Dienst tot het verrichten van markt- of nevenactiviteiten, die nog niet bij of krachtens wet of bij een eerder besluit van de minister zijn toegestaan.
+2. Het eerste lid is van overeenkomstige toepassing op voornemens van de Dienst tot het verrichten van markt- of nevenactiviteiten.
 
 #### § 5. Overige bepalingen
 
@@ -250,15 +266,13 @@ Deze regeling wordt aangehaald als: Regeling sturing van en toezicht op het Kada
 
 ##### Artikel 19. Overgangsrecht
 
-1. Op de jaarstukken 2012 worden de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032460&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032460&paragraaf=4&artikel=8&z=2013-01-01&g=2013-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032460&paragraaf=4&artikel=9&z=2013-01-01&g=2013-01-01) niet toegepast voor zover deze bepalingen afwijken van de eerdere met de Dienst gemaakte afspraken en de Dienst heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling.
-
-2. Indien de Dienst heeft aangegeven voor de jaarstukken 2012 niet te kunnen voldoen aan de onderhavige regeling, geldt voor de jaarstukken 2012 de regelgeving zoals deze voor inwerkingtreding van deze regeling van toepassing was.
+Vervallen
 
 ##### Artikel 20. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2013.
 
-## Bijlage. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032460&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01) van de Regeling sturing van en toezicht op de dienst voor het Kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2)
+## Bijlage. bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032460&paragraaf=3&artikel=6&z=2022-07-01&g=2022-07-01) van de Regeling sturing van en toezicht op de dienst voor het Kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2)
 
 ### Aandachtspunten voor de accountantscontrole
 
