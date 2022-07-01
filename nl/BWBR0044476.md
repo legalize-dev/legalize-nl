@@ -4,7 +4,7 @@ identifier: "BWBR0044476"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044476"
 soort: "ministeriele-regeling"
@@ -42,19 +42,19 @@ Besluit:
 
 ##### Artikel 1. Woonlandfactor
 
-1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2022-01-01&g=2022-01-01) bij deze regeling opgenomen factor.
+1. De factor, bedoeld in [artikel 6 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=6), bedraagt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2022-07-01&g=2022-07-01) bij deze regeling opgenomen factor.
 
-2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2022-01-01&g=2022-01-01) bij deze regeling is opgenomen bedraagt de factor 1,0.
+2. Als het land niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2022-07-01&g=2022-07-01) bij deze regeling is opgenomen bedraagt de factor 1,0.
 
 ##### Artikel 2. Model beslagvrije voet
 
-Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2022-01-01&g=2022-01-01) bij deze regeling.
+Het model, bedoeld in [artikel 7 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=7), is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2022-07-01&g=2022-07-01) bij deze regeling.
 
 ##### Artikel 3. Ondersteuning bij de vaststelling van de beslagvrije voet
 
 1. De Stichting Inlichtingenbureau en het UWV dragen als verwerkers gezamenlijk zorg voor de inrichting en het beheer van de door Onze Minister geboden ondersteuning, bedoeld in [artikel 8 van het Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
 
-2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2022-01-01&g=2022-01-01) van deze regeling.
+2. Op het gebruik van de ondersteuning door Onze Minister zijn de aansluit- en gebruiksvoorwaarden van toepassing, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=3&z=2022-07-01&g=2022-07-01) van deze regeling.
 
 3. Onze Minister verwijdert de berekening en de daaraan ten grondslag liggende gegevens terstond na het verstrekken daarvan.
 
@@ -126,11 +126,13 @@ De gegevens, bedoeld in [artikel 475ga, derde lid, van het Wetboek van Burgerlij
 
 - l. datum einde tijdvak;
 
-- m. datum aanvang inkomstenverhouding;
+- m. duur aangifte tijdvak;
 
-- n. datum einde inkomstenverhouding; en
+- n. datum aanvang inkomstenverhouding;
 
-- o. naam administratieve eenheid.
+- o. datum einde inkomstenverhouding; en
+
+- p. naam administratieve eenheid.
 
 ##### Artikel 5. Inwerkingtreding
 
@@ -349,35 +351,242 @@ Deze regeling wordt aangehaald als: Regeling beslagvrije voet.
 | Zweden | 1,0 |
 | Zwitserland | 1,0 |
 
-## Bijlage 2. Model mededeling beslagvrije voet
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=1&z=2022-07-01&g=2022-07-01) van de Regeling Beslagvrije voet
+
+| Land | Woonlandfactor 2022 |
+| --- | --- |
+| Afghanistan | 0,3 |
+| Albanië | 0,5 |
+| Algerije | 0,4 |
+| Andorra | 0,9 |
+| Angola | 0,5 |
+| Antigua en Barbuda | 0,9 |
+| Argentinië | 0,6 |
+| Armenië | 0,4 |
+| Aruba | 0,8 |
+| Australië | 1,0 |
+| Azerbeidzjan | 0,4 |
+| Bahama’s | 1,0 |
+| Bahrein | 0,6 |
+| Bangladesh | 0,5 |
+| Barbados | 1,0 |
+| Belarus | 0,4 |
+| België | 1,0 |
+| Belize | 0,8 |
+| Benin | 0,5 |
+| Bhutan | 0,4 |
+| Bolivia | 0,5 |
+| Bonaire | 0,8 |
+| Bondsrepubliek Duitsland | 1,0 |
+| Bosnië-Herzegovina | 0,5 |
+| Botswana | 0,6 |
+| Brazilië | 0,7 |
+| Brunei | 0,6 |
+| Bulgarije | 0,5 |
+| Burkina Faso | 0,5 |
+| Burundi | 0,4 |
+| Cambodja | 0,5 |
+| Canada | 1,0 |
+| Centraal-Afrikaanse Republiek | 0,6 |
+| Chili | 0,7 |
+| China | 0,8 |
+| Colombia | 0,5 |
+| Comoren | 0,6 |
+| Congo, Republiek | 0,7 |
+| Costa Rica | 0,7 |
+| Cuba | 0,6 |
+| Curaçao | 1,0 |
+| Cyprus | 0,8 |
+| Denemarken | 1,0 |
+| Djibouti | 0,7 |
+| Dominica | 0,8 |
+| Dominicaanse Republiek | 0,6 |
+| Democratische Republiek Congo | 0,6 |
+| Ecuador | 0,7 |
+| Egypte | 0,3 |
+| El Salvador | 0,6 |
+| Equatoriaal-Guinea | 0,5 |
+| Eritrea | 0,5 |
+| Estland | 0,7 |
+| Eswatini | 0,6 |
+| Ethiopië | 0,5 |
+| Fiji | 0,6 |
+| Filipijnen | 0,5 |
+| Finland | 1,0 |
+| Frankrijk | 1,0 |
+| Gabon | 0,6 |
+| Gambia | 0,4 |
+| Gaza en Westelijke Jordaanoever | 0,6 |
+| Georgië | 0,4 |
+| Ghana | 0,5 |
+| Grenada | 0,8 |
+| Griekenland | 0,8 |
+| Groot-Brittannië | 1,0 |
+| Guatemala | 0,6 |
+| Guinee | 0,5 |
+| Guinee-Bissau | 0,4 |
+| Guyana | 0,6 |
+| Haïti | 0,5 |
+| Honduras | 0,6 |
+| Hong Kong | 1,0 |
+| Hongarije | 0,6 |
+| Ierland | 1,0 |
+| IJsland | 1,0 |
+| India | 0,4 |
+| Indonesië | 0,4 |
+| Irak | 0,7 |
+| Iran | 0,6 |
+| Israël | 1,0 |
+| Italië | 0,9 |
+| Ivoorkust | 0,5 |
+| Jamaica | 0,7 |
+| Japan | 1,0 |
+| Jemen | 0,5 |
+| Jordanië | 0,5 |
+| Kaapverdië | 0,6 |
+| Kameroen | 0,5 |
+| Kazachstan | 0,5 |
+| Kenia | 0,5 |
+| Kirgizië | 0,3 |
+| Kiribati | 0,9 |
+| Koeweit | 0,8 |
+| Kosovo | 0,5 |
+| Kroatië | 0,6 |
+| Laos | 0,4 |
+| Lesotho | 0,5 |
+| Letland | 0,7 |
+| Libanon | 0,6 |
+| Liberia | 0,5 |
+| Libië | 0,6 |
+| Liechtenstein | 1,0 |
+| Litouwen | 0,6 |
+| Luxemburg | 1,0 |
+| Macau | 0,8 |
+| Madagaskar | 0,4 |
+| Malawi | 0,5 |
+| Maldiven | 0,7 |
+| Maleisië | 0,5 |
+| Mali | 0,5 |
+| Malta | 0,8 |
+| Marokko | 0,5 |
+| Marshalleilanden | 0,6 |
+| Mauritanië | 0,4 |
+| Mauritius | 0,6 |
+| Mexico | 0,6 |
+| Micronesia | 0,6 |
+| Moldavië | 0,4 |
+| Monaco | 1,0 |
+| Mongolië | 0,4 |
+| Montenegro | 0,5 |
+| Mozambique | 0,5 |
+| Myanmar | 0,4 |
+| Namibië | 0,6 |
+| Nauru | 1,0 |
+| Nederland | 1,0 |
+| Nepal | 0,4 |
+| Nicaragua | 0,4 |
+| Nieuw-Zeeland | 1,0 |
+| Niger | 0,6 |
+| Nigeria | 0,5 |
+| Noord-Korea | 0,5 |
+| Noorwegen | 1,0 |
+| Oekraïne | 0,4 |
+| Oezbekistan | 0,3 |
+| Oman | 0,7 |
+| Oostenrijk | 1,0 |
+| Pakistan | 0,4 |
+| Palau | 1,0 |
+| Panama | 0,6 |
+| Papoea-Nieuw-Guinea | 0,8 |
+| Paraguay | 0,5 |
+| Peru | 0,7 |
+| Polen | 0,6 |
+| Portugal | 0,8 |
+| Qatar | 0,8 |
+| Republiek Noord-Macedonië | 0,4 |
+| Roemenië | 0,5 |
+| Russische Federatie | 0,5 |
+| Rwanda | 0,5 |
+| Saba | 0,7 |
+| Saint Kitts en Nevis | 0,9 |
+| Saint Lucia | 0,9 |
+| Saint Vincent en de Grenadines | 0,7 |
+| Salomonseilanden | 1,0 |
+| Samoa | 0,8 |
+| San Marino | 1,0 |
+| São Tomé en Principe | 0,6 |
+| Saoedi-Arabië | 0,6 |
+| Senegal | 0,5 |
+| Servië | 0,5 |
+| Seychellen | 0,7 |
+| Sierra Leone | 0,4 |
+| Singapore | 0,8 |
+| Sint Eustatius | 0,8 |
+| Sint Maarten | 0,8 |
+| Slovenië | 0,8 |
+| Slowakije | 0,7 |
+| Soedan | 0,3 |
+| Somalië | 0,5 |
+| Spanje | 0,8 |
+| Sri Lanka | 0,4 |
+| Suriname | 0,5 |
+| Syrië | 0,5 |
+| Tadzjikistan | 0,3 |
+| Taiwan | 0,8 |
+| Tanzania | 0,5 |
+| Thailand | 0,5 |
+| Timor Leste | 0,5 |
+| Togo | 0,5 |
+| Tonga | 0,9 |
+| Trinidad en Tobago | 0,8 |
+| Tsjaad | 0,6 |
+| Tsjechië | 0,7 |
+| Tunesië | 0,4 |
+| Turkije | 0,4 |
+| Turkmenistan | 0,6 |
+| Tuvalu | 1,0 |
+| Uganda | 0,5 |
+| Uruguay | 0,9 |
+| Vanuatu | 1,0 |
+| Venezuela | 0,6 |
+| Verenigde Arabische Emiraten | 0,8 |
+| Verenigde Staten van Amerika | 1,0 |
+| Vietnam | 0,4 |
+| Zambia | 0,5 |
+| Zimbabwe | 0,6 |
+| Zuid-Afrika | 0,6 |
+| Zuid-Korea | 0,9 |
+| Zuid-Soedan | 0,5 |
+| Zweden | 1,0 |
+| Zwitserland | 1,0 |
 
 ### Uw beslagvrije voet
 
-**Aanduiding hoogte beslagvrije voet1De beslagleggende partij vermeldt hier de hoogte van de beslagvrije voet. De tekst is vormvrij.**
+(bijlage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&artikel=2&z=2022-07-01&g=2022-07-01) van de Regeling beslagvrije voet)
 
 Uw beslagvrije voet is berekend met de gegevens en bedragen in het overzicht hieronder. Controleer dit overzicht goed. Klopt er iets niet? Of mist er iets? Dan moet u dit doorgeven via <**contactgegevens beslagleggende partij/partij die de rol van coördinerende deurwaarder vervult**>. Meer informatie over de gegevens die meetellen voor het berekenen van de beslagvrije voet vindt u op www.uwbeslagvrijevoet.nl.
 
-<datum>
+<**Uitleg over de beslagvrije voet***>
 
-Wij gaan zorgvuldig om met uw gegevens en met uw privacy. Op <**link**> staat hoe wij dat doen.
+<**Oproep om gegevens op de mededeling te controleren en wijzigingen door te geven**>
 
-**Geef het aan ons door als**
+<**Aanduiding hoogte beslagvrije voet**>
 
-Deze aansluit- en gebruiksvoorwaarden zijn van toepassing op de aansluiting van aangewezen afnemers op de Centrale voorziening BVV bedoeld voor beslagleggende organisaties en organisaties voor schuldhulpverlening die gebruikmaken van de door de Minister van Sociale Zaken en Werkgelegenheid geboden ondersteuning, zoals beschreven in [artikel 8 Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
+<**Indien aanvullende informatie van de beslagene nodig is: Uitleg over verstrekken van benodigde gegevens**>
 
-De aansluit- en gebruikersvoorwaarden zijn onderdeel van de Regeling beslagvrije voet. Het aldaar bepaalde met betrekking tot de verdeling van verantwoordelijkheden tussen partijen werkt direct door in deze aansluit- en gebruikersvoorwaarden.
+<**Aanduiding dat in onderstaande tabel gegevens vermeld zijn die gebruikt zijn voor de berekening van de beslagvrije voet**>
 
-De volgende gegevens hebben in uw huidige situatie geen gevolgen voor de hoogte van uw beslagvrije voet:
+<**Indien partner geen inkomen heeft: Vermelding dat partner geen inkomen heeft**>
 
-**Privacy**
+<**Inleiding over situaties die van invloed zijn op hoogte beslagvrije voet met oproep om door te geven indien deze situaties van toepassing zijn**>
 
-Wij gaan zorgvuldig om met uw gegevens en met uw privacy. Op <**link**> staat hoe wij dat doen.
+<**Optioneel: aanduiding dat beslag minimaal 5% van het netto inkomen is**>
 
 ## Bijlage 3. Aansluit- en gebruiksvoorwaarden Centrale voorziening BVV
 
-Deze aansluit- en gebruiksvoorwaarden zijn van toepassing op de aansluiting van aangewezen afnemers op de Centrale voorziening BVV bedoeld voor beslagleggende organisaties en organisaties voor schuldhulpverlening die gebruikmaken van de door de Minister van Sociale Zaken en Werkgelegenheid geboden ondersteuning, zoals beschreven in [artikel 8 Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
+<**Uitleg over woonkosten en oproep voor beslagene met huurwoning met hoge woonkosten of koopwoning om informatie te verstrekken over woonkosten**>
 
-De aansluit- en gebruikersvoorwaarden zijn onderdeel van de Regeling beslagvrije voet. Het aldaar bepaalde met betrekking tot de verdeling van verantwoordelijkheden tussen partijen werkt direct door in deze aansluit- en gebruikersvoorwaarden.
+<**Oproep om door te geven als beslagene (niet meer) in inrichting woont**>
 
 ### Artikel VII. Gebruik door derden
 
@@ -395,11 +604,11 @@ De aansluit- en gebruikersvoorwaarden zijn onderdeel van de Regeling beslagvrije
 
 Afnemer is verantwoordelijk voor de diensten die een Intermediair op verzoek van Afnemer levert bij het tot stand brengen van de aansluiting. Afnemer stelt de Intermediair op de hoogte van de aansluit- en gebruiksvoorwaarden en verplicht de Intermediair tot naleving ervan.
 
-### Artikel VIII. Ondersteuning door Beheerders
+### Artikel II. Algemeen
 
-### Artikel IX. Beëindiging aansluiting
+### Artikel III. Voorziening Applicatie-Applicatie koppeling
 
-### Artikel X. Looptijd en wijziging van de aansluitvoorwaarden
+### Artikel IV. Voorziening Portaal
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2021-05-01&g=2021-05-01) in de Staatscourant worden geplaatst.
 
@@ -421,6 +630,46 @@ Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl
 
 ### Artikel VI. Gebruik van de Centrale voorziening BVV
 
-Afnemer is verantwoordelijk voor de diensten die een Intermediair op verzoek van Afnemer levert bij het tot stand brengen van de aansluiting. Afnemer stelt de Intermediair op de hoogte van de aansluit- en gebruiksvoorwaarden en verplicht de Intermediair tot naleving ervan.
+<**Informatie over privégebruik voertuig van werkgever**>
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2022-01-01&g=2022-01-01) in de Staatscourant worden geplaatst.
+
+##### Artikel 4a. Overgangsrecht
+
+Tot en met 31 oktober 2022 kan de deurwaarder gebruik maken van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=2&z=2022-07-01&g=2022-07-01), zoals die luidde op 30 juni 2021.
+
+## Bijlage 2. Model mededeling beslagvrije voet
+
+### Overzicht van uw beslagvrije voet
+
+<**Oproep om informatie te verstrekken als de situatie thuis is gewijzigd**>
+
+<**Oproep om inkomen en andere beslagen of verrekeningen te controleren**>
+
+<**Verwijzing naar**[**www.uwbeslagvrijevoet.nl**](onbekend)>
+
+<**Verwijzing naar privacystatement eigen organisatie**1**Dit onderdeel mag ook worden opgenomen in een begeleidende brief bij de modelmededeling.**>
+
+## Bijlage 3. Aansluit- en gebruiksvoorwaarden Centrale voorziening BVV
+
+Deze aansluit- en gebruiksvoorwaarden zijn van toepassing op de aansluiting van aangewezen afnemers op de Centrale voorziening BVV bedoeld voor beslagleggende organisaties en organisaties voor schuldhulpverlening die gebruikmaken van de door de Minister van Sociale Zaken en Werkgelegenheid geboden ondersteuning, zoals beschreven in [artikel 8 Besluit beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0041895&artikel=8).
+
+De aansluit- en gebruikersvoorwaarden zijn onderdeel van de Regeling beslagvrije voet. Het aldaar bepaalde met betrekking tot de verdeling van verantwoordelijkheden tussen partijen werkt direct door in deze aansluit- en gebruikersvoorwaarden.
+
+### Artikel I. Begripsbepalingen
+
+### Artikel V. Aansluiting op de voorzieningen
+
+### Artikel VI. Gebruik van de Centrale voorziening BVV
+
+### Artikel VII. Gebruik door derden
+
+Afnemer is verantwoordelijk voor de diensten die een Intermediair op verzoek van Afnemer levert bij het tot stand brengen van de aansluiting. Afnemer stelt de Intermediair op de hoogte van de aansluit- en gebruiksvoorwaarden en verplicht de Intermediair tot naleving ervan.
+
+### Artikel VIII. Ondersteuning door Beheerders
+
+### Artikel IX. Beëindiging aansluiting
+
+### Artikel X. Looptijd en wijziging van de aansluitvoorwaarden
+
+Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044476&bijlage=1&z=2022-07-01&g=2022-07-01) in de Staatscourant worden geplaatst.
