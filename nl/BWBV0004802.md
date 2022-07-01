@@ -4,7 +4,7 @@ identifier: "BWBV0004802"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-07-01"
-last_updated: "2006-06-09"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004802"
 soort: "verdrag"
@@ -487,7 +487,9 @@ Het Agentschap, opgericht bij artikel 1 van het Verdrag, wordt beheerst door dez
 
 1. Onder voorbehoud van de bevoegdheden die aan de Commissie zijn toegekend, wordt het Agentschap geleid door een Directeur-generaal die bij zijn beheer een grote onafhankelijkheid geniet wat betreft de invoering, het gebruik en het efficiënt functioneren van de hem ter beschikking gestelde technische, financiële en personele middelen. Uit dien hoofde neemt hij/zij de naar zijn/haar oordeel noodzakelijke initiatieven om aan zijn/haar verplichtingen te voldoen.
 
-2. Niettemin dient de Directeur-generaal, met het oog op voorlegging aan de Commissie, ter goedkeuring overeenkomstig de bepalingen in het Verdrag:
+2. Het gezag van de Directeur-Generaal zoals vervat in dit artikel is voorts onderworpen aan het gezag van de Directeur van het Centrum Maastricht uit hoofde van artikel 4 van de Overeenkomst van Maastricht waarbij wordt beoogd de Directeur die de leiding heeft over het Centrum Maastricht bestuurlijke onafhankelijkheid te verlenen met betrekking tot het zo efficiënt mogelijk plannen en inzetten van de vereiste middelen.
+
+3. Niettemin dient de Directeur-generaal, met het oog op voorlegging aan de Commissie, ter goedkeuring overeenkomstig de bepalingen in het Verdrag:
 
 - a. jaarlijkse en vijfjarenwerkprogramma’s op te stellen, onder vermelding van de consequenties voor de kostenontwikkeling en de tarieven per eenheid van heffing;
 
@@ -497,7 +499,7 @@ Het Agentschap, opgericht bij artikel 1 van het Verdrag, wordt beheerst door dez
 
 - d. de beginselen waaraan de algemene structuur van het Agentschap is onderworpen voor te leggen, waarbij de bijzonderheden van deze structuur uitsluitend onder de verantwoordelijkheid van de Directeur-generaal vallen.
 
-3. De Directeur-generaal dient bovendien:
+4. De Directeur-generaal dient bovendien:
 
 - a. met regelmatige tussenpozen verslagen voor te leggen en de Commissie om aanwijzingen te vragen telkens wanneer de doeleinden niet gehaald dreigen te worden, de streefdata of financiële plafonds overschreden dreigen te worden of in geval van belangrijke wijzigingen in de programma’s;
 
@@ -577,7 +579,7 @@ Het Comité stelt het Financieel Reglement op, dat aan de goedkeuring van de Com
 
 3. Bovendien kan de Directeur-generaal, overeenkomstig de door de Commissie vastgestelde beleidslijnen:
 
-- a. de personeelsleden benoemen en hen uit hun dienstverband ontslaan overeenkomstig het bepaalde in het Personeelsstatuut; de eenmaal verlengbare benoeming voor een ambtstermijn van vijf jaar in functies in de rangen A1 en A2 is onderworpen aan de goedkeuring van de Commissie;
+- a. de personeelsleden benoemen en hen uit hun dienstverband ontslaan overeenkomstig het bepaalde in het Personeelsstatuut; benoemingen van directeuren in de rangen AD14 en AD15 voor een termijn van normaalgesproken vijf jaar, die eenmaal mag worden verlengd, dienen te worden goedgekeurd door de Commissie met uitzondering van de Directeur van het Centrum Maastricht wiens voordracht dient te worden goedgekeurd door het Maastricht Besluitvormingsorgaan;
 
 - b. overeenkomstig de bepalingen van het Financieel reglement en binnen de daartoe door de Commissie gestelde grenzen leningen aangaan;
 
@@ -589,7 +591,7 @@ Het Comité stelt het Financieel Reglement op, dat aan de goedkeuring van de Com
 
 4. De Directeur-generaal oefent bovengenoemde functies uit zonder vooroverleg met de Commissie, doch houdt de Commissie op de hoogte van de in de uitoefening van bovengenoemde bevoegdheden genomen maatregelen.
 
-5. Het Comité stelt de voorwaarden vast waarop de Directeur-generaal bij diens verhindering wordt vervangen.
+5. Het Comité stelt de voorwaarden vast waarop de Directeur-generaal bij diens verhindering wordt vervangen. Er wordt geen beroep op de Directeur van het Centrum Maastricht gedaan om de Directeur-Generaal tijdens diens afwezigheid te vervangen.
 
 ##### Artikel 14
 
