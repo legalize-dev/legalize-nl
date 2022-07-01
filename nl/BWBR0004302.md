@@ -4,7 +4,7 @@ identifier: "BWBR0004302"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-12"
-last_updated: "2021-07-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004302"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanverwant product:** elektronische dampwaar en voor roken bestemd kruidenproduct;
+- **aanverwant product:** elektronische dampwaar, elektronisch verhittingsapparaat en voor roken bestemd kruidenproduct;
 
 - **additief:** een andere stof dan tabak die aan een tabaksproduct, nicotinehoudende vloeistof, of verpakkingseenheid of buitenverpakking ervan, wordt toegevoegd;
 
@@ -62,6 +62,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 - **detaillist:** verkooppunt waar tabaksproducten en aanverwante producten in de handel worden gebracht, ook als dat door een natuurlijke persoon gebeurt;
 
 - **distributeur:** een natuurlijke persoon of rechtspersoon in de toeleveringsketen van tabaksproducten en aanverwante producten, niet zijnde de producent, importeur of detaillist;
+
+- **elektronisch verhittingsapparaat:** apparaat of onderdeel van dat apparaat dat gebruikt kan worden voor de consumptie van tabaksproducten via een proces van verhitting, al dan niet in combinatie met enig ander proces;
 
 - **elektronische dampwaar:** elektronische sigaret, navulverpakking, elektronische sigaret zonder nicotine, navulverpakking zonder nicotine en patroon zonder nicotine;
 
@@ -127,7 +129,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. bestaat uit een gebroken melange, met een dekblad van gereconstitueerde tabak dat de normale kleur heeft van een sigaar en die het product volledig omhult, in voorkomend geval met inbegrip van het filter, doch zonder het mondstuk, en waarvan het gewicht per stuk, zonder filter of mondstuk, niet minder dan 2,3 gram en niet meer dan 10 gram bedraagt en de omtrek over ten minste een derde van de lengte 34 mm of meer bedraagt;
 
-- **speciaalzaak:** een inrichting zijnde een winkel of een onderdeel daarvan, met een afsluitbare eigen toegang waarin een totaal assortiment aan tabaksproducten of voor roken bestemde kruidenproducten van ten minste 90 merkenversies of elektronische dampwaar van ten minste 90 merkenversies aanwezig is voor het in de handel brengen en: met een vloeroppervlakte van minimaal 10 m2, of met een vloeroppervlakte van minder dan 10 m2, die reeds voor 1 januari 2001 als tabaksspeciaalzaak of voor 20 mei 2016 als elektronische sigarettenzaak stond ingeschreven bij de Kamer van Koophandel;
+- **sigaret:** tabaksrolletje dat geconsumeerd kan worden via een proces van verbranding en:
+
+- a. dat geschikt is om als zodanig te worden gerookt en die geen sigaar of cigarillo is, en
+
+- b. dat door middel van een eenvoudige niet-industriële handeling in een huls van sigarettenpapier wordt geschoven of met sigarettenpapier wordt omhuld;
 
 - **sponsoring:** elke openbare of particuliere economische bijdrage aan een activiteit, evenement of persoon, die het bekendheid geven aan of het aanprijzen van een tabaksproduct of aanverwant product tot doel dan wel tot rechtstreeks of onrechtstreeks gevolg heeft;
 
@@ -181,11 +187,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. De verpakkingseenheid van elektronische dampwaar bevat een bijsluiter. Onze Minister stelt nadere regels over de inhoud van de bijsluiter.
 
+6. Bij ministeriële regeling worden in het belang van de volksgezondheid eisen gesteld aan het uiterlijk van sigaretten. De eisen kunnen betrekking op:
+
+- a. de kleuren van het product;
+
+- b. de aanduidingen op het product;
+
+- c. de wijze waarop de kleur en de aanduidingen op het product worden aangebracht;
+
+- d. de vormgeving en het materiaal van het product;
+
+- e. de vorm van het product;
+
+- f. de afmeting van het product; en
+
+- g. andere elementen op het product die gebruikt kunnen worden om een onderscheid te maken tussen de verschillende tabaksproducten of aanverwante producten.
+
+7. Bij ministeriële regeling kunnen voorts in het belang van de volksgezondheid eisen worden gesteld aan het uiterlijk van andere tabaksproducten dan sigaretten, en aan aanverwante producten. Het zesde lid, tweede zin en onderdelen a tot en met g, is van toepassing.
+
 ##### Artikel 3
 
-1. Het is verboden om nicotinehoudende vloeistof, niet-nicotinehoudende vloeistof, tabaksproducten en aanverwante producten in de handel te brengen, indien die producten niet aan de krachtens [artikel 2, eerste, tweede, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01), gestelde eisen voldoen.
+1. Het is verboden om nicotinehoudende vloeistof, niet-nicotinehoudende vloeistof, tabaksproducten en aanverwante producten in de handel te brengen, indien die producten niet aan de krachtens [artikel 2, eerste, tweede, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2022-07-01&g=2022-07-01), gestelde eisen voldoen.
 
-2. Het is verboden om nieuwe of gewijzigde tabaksproducten en aanverwante producten in de handel te brengen indien ten aanzien van deze producten niet is voldaan aan de eisen gesteld bij of krachtens [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2021-07-01&g=2021-07-01).
+2. Het is verboden om nieuwe of gewijzigde tabaksproducten en aanverwante producten in de handel te brengen indien ten aanzien van deze producten niet is voldaan aan de eisen gesteld bij of krachtens [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2022-07-01&g=2022-07-01).
 
 ##### Artikel 3a
 
@@ -217,17 +241,11 @@ In het bij of krachtens deze paragraaf bepaalde wordt onder de begrippen die ged
 
 - 2°. worden gedrukt en uitgegeven in, dan wel worden verleend vanuit landen buiten de Europese Economische Ruimte, mits deze niet hoofdzakelijk voor landen binnen de Europese Economische Ruimte bestemd zijn;
 
-- b. uitsluitend voor de koper van tabaksproducten of aanverwante producten bestemde reclame in een speciaalzaak of aan de voorgevel daarvan, dan wel in een met een afsluitbare eigen toegang duidelijk afgescheiden verkooppunt van tabaksproducten of aanverwante producten in een levensmiddelenzaak of een warenhuis, mits de reclame niet op minderjarigen is gericht en:
-
-- 1°. aan de voorgevel van een speciaalzaak in totaal niet meer dan 2m2 beslaat;
-
-- 2°. voor zover aanwezig in een afgescheiden verkooppunt van tabaksproducten of aanverwante producten in een levensmiddelenzaak of een warenhuis alleen is bevestigd aan, op, in of tegen het gedeelte van de besloten ruimte dat bestemd is voor de presentatie van tabaksproducten of aanverwante producten en uitsluitend is gericht op personen die in het verkooppunt zelf aanwezig zijn;
-
-- 3°. voldoet aan de bij ministeriële regeling te stellen regels.
+- b. uitsluitend voor de koper van tabaksproducten of aanverwante producten bestemde reclame in aangewezen verkooppunten als bedoeld in het derde lid, mits de reclame niet op minderjarigen is gericht en voldoet aan bij ministeriële regeling te stellen regels.
 
 7. Iedere uitreiking om niet of tegen een symbolische vergoeding, die het aanprijzen van een tabaksproduct of aanverwant product ten doel of tot rechtstreeks of onrechtstreeks gevolg heeft, is verboden.
 
-8. Bij algemene maatregel van bestuur kunnen in het bijzonder voor minderjarigen bestemde goederen en diensten worden aangewezen, die niet bedrijfsmatig mogen worden verstrekt in speciaalzaken en in afgescheiden verkooppunten van tabaksproducten of aanverwante producten in levensmiddelenzaken en warenhuizen, indien daar reclame voor tabaksproducten of aanverwante producten wordt gemaakt.
+8. Bij algemene maatregel van bestuur kunnen in het bijzonder voor minderjarigen bestemde goederen en diensten worden aangewezen, die niet bedrijfsmatig mogen worden verstrekt in aangewezen verkooppunten als bedoeld in het derde lid, indien daar reclame voor tabaksproducten of aanverwante producten wordt gemaakt.
 
 ##### Artikel 6
 
@@ -303,13 +321,13 @@ Daarbij kunnen nadere regels worden gesteld.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop klanten geïdentificeerd worden als bedoeld in het eerste lid en de wijze waarop verkoop aan klanten geadministreerd wordt als bedoeld in het tweede lid.
 
-4. De ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=13&z=2021-07-01&g=2021-07-01) aangewezen ambtenaren zijn bevoegd elk bewijs te vorderen van een producent, importeur of exporteur van tabak, tabaksproducten en tabaksproductieapparaten als bedoeld in artikel 7, eerste lid, onderdeel c, van het Protocol.
+4. De ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=13&z=2022-07-01&g=2022-07-01) aangewezen ambtenaren zijn bevoegd elk bewijs te vorderen van een producent, importeur of exporteur van tabak, tabaksproducten en tabaksproductieapparaten als bedoeld in artikel 7, eerste lid, onderdeel c, van het Protocol.
 
 #### § 4. Verkoopbeperkingen
 
 ##### Artikel 12
 
-De voordracht voor een algemene maatregel van bestuur krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2021-07-01&g=2021-07-01), [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2021-07-01&g=2021-07-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2021-07-01&g=2021-07-01), wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
+De voordracht voor een algemene maatregel van bestuur krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2022-07-01&g=2022-07-01), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2022-07-01&g=2022-07-01), [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2022-07-01&g=2022-07-01), wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 13
 
@@ -321,7 +339,7 @@ De voordracht voor een algemene maatregel van bestuur krachtens [artikel 2, twee
 
 ##### Artikel 14
 
-De toezichthouders zijn bevoegd om in het belang van de volksgezondheid en de veiligheid van personen, een last onder bestuursdwang op te leggen ter handhaving van de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01) en [17a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=17a&z=2021-07-01&g=2021-07-01).
+De toezichthouders zijn bevoegd om in het belang van de volksgezondheid en de veiligheid van personen, een last onder bestuursdwang op te leggen ter handhaving van de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2022-07-01&g=2022-07-01) en [17a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=17a&z=2022-07-01&g=2022-07-01).
 
 ##### Artikel 15
 
@@ -373,7 +391,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. een elektronische sigaret of navulverpakking die reeds vóór 20 mei 2016 onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een ander product of van een andere dienst in de handel was;
 
-- c. een elektronische sigaret zonder nicotine, een navulverpakking zonder nicotine, een patroon zonder nicotine of een voor roken bestemd kruidenproduct die reeds vóór inwerkingtreding van artikel I, onderdeel F, van de Wet van 10 februari 2017 houdende wijziging van de Tabaks- en rookwarenwet ter regeling van de elektronische sigaret zonder nicotine en nadere regeling van voor roken bestemde kruidenproducten, onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een ander product of van een andere dienst in de handel was.
+- c. een elektronische sigaret zonder nicotine, een navulverpakking zonder nicotine, een patroon zonder nicotine of een voor roken bestemd kruidenproduct die reeds vóór inwerkingtreding van artikel I, onderdeel F, van de Wet van 10 februari 2017 houdende wijziging van de Tabaks- en rookwarenwet ter regeling van de elektronische sigaret zonder nicotine en nadere regeling van voor roken bestemde kruidenproducten, onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een ander product of van een andere dienst in de handel was;
+
+- d. een elektronisch verhittingsapparaat dat reeds vóór inwerkingtreding van artikel I, onderdeel E, van de Wet van xxx 1 december 2021 houdende wijziging van de Tabaks- en rookwarenwet ter regeling van elektronische verhittingsapparaten voor tabaksproducten en in verband met de invoering van eisen aan het uiterlijk van tabaksproducten en aanverwante producten, onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een ander product of van een andere dienst in de handel was.
 
 2. Het is verboden om voor producten of diensten een naam, merk, symbool of enig ander onderscheidend teken te gebruiken dat eerder al voor een tabaksproduct of aanverwant product werd gebruikt, tenzij de naam, het merk, het symbool of het andere onderscheidende teken van het product of de dienst in een duidelijk andere vorm dan die van het tabaksproduct of aanverwant product wordt gepresenteerd. Dit verbod geldt niet voor:
 
@@ -381,37 +401,41 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. een ander product of een andere dienst die reeds vóór 20 mei 2016 onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een elektronische sigaret of navulverpakking in de handel was;
 
-- c. een ander product of een andere dienst die reeds vóór inwerkingtreding van artikel I, onderdeel F, van de Wet van 10 februari 2017 houdende wijziging van de Tabaks- en rookwarenwet ter regeling van de elektronische sigaret zonder nicotine en nadere regeling van voor roken bestemde kruidenproducten, onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een elektronische sigaret zonder nicotine, navulverpakking zonder nicotine, patroon zonder nicotine of voor roken bestemde kruidenproduct in de handel was.
+- c. een ander product of een andere dienst die reeds vóór inwerkingtreding van artikel I, onderdeel F, van de Wet van 10 februari 2017 houdende wijziging van de Tabaks- en rookwarenwet ter regeling van de elektronische sigaret zonder nicotine en nadere regeling van voor roken bestemde kruidenproducten, onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een elektronische sigaret zonder nicotine, navulverpakking zonder nicotine, patroon zonder nicotine of voor roken bestemde kruidenproduct in de handel was;
 
-3. Het is verboden een naam, merk, symbool of enig ander onderscheidend teken van een tabaksproduct te gebruiken voor een product behorend tot elektronische dampwaar of voor een voor roken bestemd kruidenproduct. Dit verbod geldt niet voor een voor roken bestemd kruidenproduct dat vóór 7 november 2002 onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een tabaksproduct in de handel was.
+- d. een ander product of een andere dienst die reeds vóór inwerkingtreding van artikel I, onderdeel E, van de Wet van xxx 1 december 2021 houdende wijziging van de Tabaks- en rookwarenwet ter regeling van elektronische verhittingsapparaten voor tabaksproducten en in verband met de invoering van eisen aan het uiterlijk van tabaksproducten en aanverwante producten (Stb. xxxx, xx 2021, 597), onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een elektronisch verhittingsapparaat in de handel was.
 
-4. Het is verboden een naam, merk, symbool of enig ander onderscheidend teken van een elektronische sigaret of navulverpakking te gebruiken voor een tabaksproduct of voor een voor roken bestemd kruidenproduct. Dit verbod geldt niet voor een voor roken bestemd kruidenproduct dat reeds vóór inwerkingtreding van artikel I, onderdeel F, van de Wet van 26 april 2016 houdende wijziging van de Tabakswet ter implementatie van Richtlijn 2014/40/EU, inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten, onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een elektronische sigaret of navulverpakking in de handel was.
+3. Het is verboden een naam, merk, symbool of enig ander onderscheidend teken van een tabaksproduct te gebruiken voor een aanverwant product. Dit verbod geldt niet voor een voor roken bestemd kruidenproduct dat vóór 7 november 2002 onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een tabaksproduct in de handel was.
+
+4. Het is verboden een naam, merk, symbool of enig ander onderscheidend teken van een elektronische sigaret, navulverpakking of elektronisch verhittingsapparaat te gebruiken voor een tabaksproduct of voor een voor roken bestemd kruidenproduct. Dit verbod geldt niet voor een voor roken bestemd kruidenproduct dat voor 1 juli 2018 onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een elektronische sigaret, navulverpakking of elektronisch verhittingsapparaat in de handel was.
 
 5. Het is verboden een naam, merk, symbool of enig ander onderscheidend teken van een elektronische sigaret zonder nicotine, navulverpakking zonder nicotine of een patroon zonder nicotine te gebruiken voor een tabaksproduct of voor een voor roken bestemde kruidenproduct. Dit verbod geldt niet voor een voor roken bestemd kruidenproduct dat reeds vóór de datum van inwerkingtreding van dit artikellid onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een elektronische sigaret zonder nicotine of navulverpakking zonder nicotine in de handel was.
 
-6. Het is verboden een naam, merk, symbool of enig ander onderscheidend teken van een voor roken bestemd kruidenproduct te gebruiken voor een tabaksproduct of voor een product behorend tot elektronische dampwaar. Dit verbod geldt niet voor:
+6. Het is verboden een naam, merk, symbool of enig ander onderscheidend teken van een voor roken bestemd kruidenproduct te gebruiken voor een tabaksproduct, elektronische dampwaar of een elektronisch verhittingsapparaat. Dit verbod geldt niet voor:
 
 - a. een tabaksproduct dat reeds vóór 7 november 2002 onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een voor roken bestemd kruidenproduct in de handel was;
 
-- b. een elektronische sigaret en navulverpakking die reeds vóór inwerkingtreding van artikel I, onderdeel F, van de Wet van 26 april 2016, houdende wijziging van de Tabakswet ter implementatie van Richtlijn 2014/40/EU inzake de productie, de presentatie en de verkoop van tabaks- en aanverwante producten, onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een voor roken bestemd kruidenproduct in de handel was;
+- b. een elektronische sigaret en een navulverpakking die voor 1 juli 2018 onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een voor roken bestemd kruidenproduct in de handel was;
 
-- c. een elektronische sigaret zonder nicotine, een navulverpakking zonder nicotine en een patroon zonder nicotine die reeds vóór de datum van inwerkingtreding van dit artikellid onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een voor roken bestemd kruidenproduct in de handel was.
+- c. een elektronische sigaret zonder nicotine, een navulverpakking zonder nicotine en een patroon zonder nicotine, die voor 1 juli 2018 onder de naam, het merk of symbool, dan wel met onderscheidend teken van een voor roken bestemd kruidenproduct in de handel was;
+
+- d. een elektronisch verhittingsapparaat dat voor 1 juli 2018 onder de naam, het merk of symbool, dan wel met het onderscheidend teken van een voor roken bestemd kruidenproduct in de handel was.
 
 ##### Artikel 5b
 
-1. Op vordering van een rechtspersoon als bedoeld in het derde lid kan reclame of sponsoring, die in strijd is met het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2021-07-01&g=2021-07-01), onrechtmatig worden verklaard.
+1. Op vordering van een rechtspersoon als bedoeld in het derde lid kan reclame of sponsoring, die in strijd is met het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2022-07-01&g=2022-07-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2022-07-01&g=2022-07-01), onrechtmatig worden verklaard.
 
 2. De vordering kan worden ingesteld tegen degene die verantwoordelijk is voor de reclame of sponsoring.
 
 3. De vordering komt toe aan rechtspersonen met volledige rechtsbevoegdheid, die tot doel hebben de preventie van roken, het stoppen met roken of de behartiging van de belangen van jongeren, consumenten of niet-rokers.
 
-4. De eiser is niet ontvankelijk, indien niet blijkt dat hij, alvorens de vordering in te stellen, de verantwoordelijke de gelegenheid heeft geboden om de reclame of de sponsoring te verwijderen, dan wel, als [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01), van toepassing is, de reclame of sponsoring zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na schriftelijke kennisgeving van de bezwaren is daartoe in elk geval voldoende.
+4. De eiser is niet ontvankelijk, indien niet blijkt dat hij, alvorens de vordering in te stellen, de verantwoordelijke de gelegenheid heeft geboden om de reclame of de sponsoring te verwijderen, dan wel, als [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2022-07-01&g=2022-07-01), van toepassing is, de reclame of sponsoring zodanig te wijzigen dat de bezwaren die grond voor de vordering zouden opleveren, zijn weggenomen. Een termijn van twee weken na schriftelijke kennisgeving van de bezwaren is daartoe in elk geval voldoende.
 
 ##### Artikel 5c
 
-1. De rechtbank Rotterdam is bij uitsluiting bevoegd tot kennisneming van vorderingen als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2021-07-01&g=2021-07-01).
+1. De rechtbank Rotterdam is bij uitsluiting bevoegd tot kennisneming van vorderingen als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2022-07-01&g=2022-07-01).
 
-2. De in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2021-07-01&g=2021-07-01) bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=285) en [376 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=376); artikel [379 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=379) is niet van toepassing.
+2. De in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5b&z=2022-07-01&g=2022-07-01) bedoelde rechtspersonen hebben de bevoegdheden, geregeld in de [artikelen 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=285) en [376 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=376); artikel [379 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=379) is niet van toepassing.
 
 3. Op vordering van de eiser kan aan de uitspraak worden verbonden:
 
@@ -421,7 +445,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - c. een veroordeling tot het openbaar maken of laten openbaar maken van de uitspraak, zulks op door de rechter te bepalen wijze en op kosten van de door de rechter aan te geven partij of partijen.
 
-4. De rechter kan in zijn uitspraak aangeven op welke wijze de inbreuk op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2021-07-01&g=2021-07-01) wordt weggenomen.
+4. De rechter kan in zijn uitspraak aangeven op welke wijze de inbreuk op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2022-07-01&g=2022-07-01) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2022-07-01&g=2022-07-01) wordt weggenomen.
 
 5. Geschillen ter zake van de tenuitvoerlegging van de in het derde lid bedoelde veroordelingen, alsmede van de veroordeling tot betaling van een dwangsom, zo deze is opgelegd, worden bij uitsluiting door de rechtbank Rotterdam beslist.
 
@@ -435,13 +459,13 @@ Vervallen
 
 ##### Artikel 11b
 
-1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3a&z=2021-07-01&g=2021-07-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2021-07-01&g=2021-07-01), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2021-07-01&g=2021-07-01), [3e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3e&z=2021-07-01&g=2021-07-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2021-07-01&g=2021-07-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4b&z=2021-07-01&g=2021-07-01), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2021-07-01&g=2021-07-01), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4e&z=2021-07-01&g=2021-07-01), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2021-07-01&g=2021-07-01), [4i](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4i&z=2021-07-01&g=2021-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2021-07-01&g=2021-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2021-07-01&g=2021-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2021-07-01&g=2021-07-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2021-07-01&g=2021-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2021-07-01&g=2021-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11&z=2021-07-01&g=2021-07-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=17a&z=2021-07-01&g=2021-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=18&z=2021-07-01&g=2021-07-01).
+1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=2&z=2022-07-01&g=2022-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3&z=2022-07-01&g=2022-07-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3a&z=2022-07-01&g=2022-07-01), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3b&z=2022-07-01&g=2022-07-01), [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2022-07-01&g=2022-07-01), [3e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3e&z=2022-07-01&g=2022-07-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2022-07-01&g=2022-07-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4b&z=2022-07-01&g=2022-07-01), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2022-07-01&g=2022-07-01), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4e&z=2022-07-01&g=2022-07-01), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2022-07-01&g=2022-07-01), [4i](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4i&z=2022-07-01&g=2022-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2022-07-01&g=2022-07-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2022-07-01&g=2022-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=7&z=2022-07-01&g=2022-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2022-07-01&g=2022-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9&z=2022-07-01&g=2022-07-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2022-07-01&g=2022-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2022-07-01&g=2022-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11&z=2022-07-01&g=2022-07-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=17a&z=2022-07-01&g=2022-07-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=8&artikel=18&z=2022-07-01&g=2022-07-01).
 
 2. De hoogte van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de wegens een afzonderlijke overtreding te betalen geldsom ten hoogste:
 
-- a. € 450 000 bedraagt wegens overtreding van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2021-07-01&g=2021-07-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4b&z=2021-07-01&g=2021-07-01), [4c, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2021-07-01&g=2021-07-01), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2021-07-01&g=2021-07-01), [4i](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4i&z=2021-07-01&g=2021-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2021-07-01&g=2021-07-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11&z=2021-07-01&g=2021-07-01), indien die overtreding is begaan door een fabrikant, groothandel of importeur van tabaksproducten, elektronische sigaretten of navulverpakkingen;
+- a. € 450 000 bedraagt wegens overtreding van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2022-07-01&g=2022-07-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4b&z=2022-07-01&g=2022-07-01), [4c, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2022-07-01&g=2022-07-01), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2022-07-01&g=2022-07-01), [4i](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4i&z=2022-07-01&g=2022-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5&z=2022-07-01&g=2022-07-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=3&artikel=5a&z=2022-07-01&g=2022-07-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11&z=2022-07-01&g=2022-07-01), indien die overtreding is begaan door een fabrikant, groothandel of importeur van tabaksproducten, elektronische sigaretten, elektronische verhittingsapparaten of navulverpakkingen;
 
-- b. een bedrag bedraagt dat gelijk is aan een geldboete van de vierde categorie als bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), wegens een overtreding van het bepaalde bij of krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2021-07-01&g=2021-07-01);
+- b. een bedrag bedraagt dat gelijk is aan een geldboete van de vierde categorie als bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), wegens een overtreding van het bepaalde bij of krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2022-07-01&g=2022-07-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2022-07-01&g=2022-07-01);
 
 - c. € 4.500 bedraagt in andere dan de onder a en b bedoelde gevallen.
 
@@ -533,7 +557,7 @@ Overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://
 
 Bijlage als bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=6&artikel=11b&z=2020-07-01&g=2020-07-01) inzake bestuurlijke boeten, bevattende de tarieven voor overtredingen genoemd in artikel 11b, eerste lid.
 
-Bijlage als bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=11b&z=2021-07-01&g=2021-07-01) inzake bestuurlijke boeten, bevattende de tarieven voor overtredingen genoemd in artikel 11b, eerste lid.
+Bijlage als bedoeld in [artikel 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=7&artikel=11b&z=2022-07-01&g=2022-07-01) inzake bestuurlijke boeten, bevattende de tarieven voor overtredingen genoemd in artikel 11b, eerste lid.
 
 De overtredingen zijn ingedeeld in vier categorieën.
 
@@ -553,7 +577,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 3b
 
-1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de door producenten en importeurs van tabaksproducten en aanverwante producten in te dienen gegevens bij Onze Minister of bij de Europese Commissie. Voor producenten en importeurs van verschillende tabaksproducten en aanverwante producten kunnen verschillende regels worden gesteld. Deze regels kunnen betrekking hebben op:
+1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de door producenten en importeurs van tabaksproducten en aanverwante producten, met uitzondering van elektronische verhittingsapparaten, in te dienen gegevens bij Onze Minister of bij de Europese Commissie. Voor producenten en importeurs van verschillende tabaksproducten en aanverwante producten, met uitzondering van elektronische verhittingsapparaten, kunnen verschillende regels worden gesteld. Deze regels kunnen betrekking hebben op:
 
 - a. de inhoud van de in te dienen gegevens;
 
@@ -585,11 +609,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 3d
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de erkenning van laboratoria, die metingen en onderzoekingen als bedoeld in [artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2021-07-01&g=2021-07-01) verrichten.
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de erkenning van laboratoria, die metingen en onderzoekingen als bedoeld in [artikel 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2&artikel=3c&z=2022-07-01&g=2022-07-01) verrichten.
 
 ##### Artikel 3e
 
-1. Producenten, importeurs en distributeurs van aanverwante producten zetten een systeem op voor het vergaren van informatie over alle vermoedelijke schadelijke effecten van deze producten op de menselijke gezondheid. De producenten, importeurs en distributeurs van deze producten houden dit systeem bij.
+1. Producenten, importeurs en distributeurs van aanverwante producten, met uitzondering van elektronische verhittingsapparaten, zetten een systeem op voor het vergaren van informatie over alle vermoedelijke schadelijke effecten van deze producten op de menselijke gezondheid. De producenten, importeurs en distributeurs van deze producten houden dit systeem bij.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het eerste lid.
 
@@ -621,17 +645,17 @@ Overtredingen behorend tot categorie B worden bestraft met een bestuurlijke boet
 
 Onder categorie C vallen overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2020-07-01&g=2020-07-01), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2020-07-01&g=2020-07-01).
 
-Onder categorie C vallen overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2021-07-01&g=2021-07-01).
+Onder categorie C vallen overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2022-07-01&g=2022-07-01), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2022-07-01&g=2022-07-01).
 
-Overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2021-07-01&g=2021-07-01), worden bestraft met een bestuurlijke boete van € 1.360 wanneer de overtreding is begaan door een natuurlijke persoon of een rechtspersoon die op de dag waarop de overtreding is begaan minder dan vijftig werknemers telde. Dit bedrag wordt verhoogd tot:
+Overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2022-07-01&g=2022-07-01), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2022-07-01&g=2022-07-01), worden bestraft met een bestuurlijke boete van € 1.360 wanneer de overtreding is begaan door een natuurlijke persoon of een rechtspersoon die op de dag waarop de overtreding is begaan minder dan vijftig werknemers telde. Dit bedrag wordt verhoogd tot:
 
-Overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2021-07-01&g=2021-07-01), die worden begaan door een natuurlijke persoon of een rechtspersoon die op de dag waarop de overtreding is begaan vijftig werknemers of meer telde, worden bestraft met een bestuurlijke boete van € 2.720. Dit bedrag wordt verhoogd tot:
+Overtredingen van het bepaalde bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2022-07-01&g=2022-07-01), en [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=9a&z=2022-07-01&g=2022-07-01), die worden begaan door een natuurlijke persoon of een rechtspersoon die op de dag waarop de overtreding is begaan vijftig werknemers of meer telde, worden bestraft met een bestuurlijke boete van € 2.720. Dit bedrag wordt verhoogd tot:
 
 Onder categorie D vallen overtredingen van het bepaalde bij of krachtens [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2020-07-01&g=2020-07-01).
 
-Onder categorie D vallen overtredingen van het bepaalde bij of krachtens [artikel 10, eerste en tweede lid, en lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2021-07-01&g=2021-07-01).
+Onder categorie D vallen overtredingen van het bepaalde bij of krachtens [artikel 10, eerste en tweede lid, en lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2022-07-01&g=2022-07-01).
 
-Overtredingen van het bepaalde bij of krachtens [artikel 10, eerste en tweede lid, en lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2021-07-01&g=2021-07-01), worden bestraft met een bestuurlijke boete van € 600. Dit bedrag wordt verhoogd tot:
+Overtredingen van het bepaalde bij of krachtens [artikel 10, eerste en tweede lid, en lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=5&artikel=10&z=2022-07-01&g=2022-07-01), worden bestraft met een bestuurlijke boete van € 600. Dit bedrag wordt verhoogd tot:
 
 ### Categorie C
 
@@ -673,7 +697,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 8a
 
-1. Onze Minister kan de natuurlijke persoon of de rechtspersoon die bedrijfsmatig of anders dan om niet tabaksproducten of aanverwante producten verstrekt aan particulieren en die in een periode van 12 maanden drie maal [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01), heeft overtreden, de bevoegdheid ontzeggen tabaksproducten of aanverwante producten te verkopen vanaf de locatie waar bedoeld gedrag heeft plaatsgevonden.
+1. Onze Minister kan de natuurlijke persoon of de rechtspersoon die bedrijfsmatig of anders dan om niet tabaksproducten of aanverwante producten verstrekt aan particulieren en die in een periode van 12 maanden drie maal [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=4&artikel=8&z=2022-07-01&g=2022-07-01), heeft overtreden, de bevoegdheid ontzeggen tabaksproducten of aanverwante producten te verkopen vanaf de locatie waar bedoeld gedrag heeft plaatsgevonden.
 
 2. De ontzegging wordt opgelegd voor ten minste een week en ten hoogste 12 weken.
 
@@ -761,7 +785,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 4b
 
-Het is verboden om tabaksproducten te leveren, in te voeren, uit te voeren of in de handel te brengen, indien die producten niet aan de in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2021-07-01&g=2021-07-01) gestelde eisen voldoen.
+Het is verboden om tabaksproducten te leveren, in te voeren, uit te voeren of in de handel te brengen, indien die producten niet aan de in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2022-07-01&g=2022-07-01) gestelde eisen voldoen.
 
 ##### Artikel 4c
 
@@ -827,7 +851,7 @@ Onze Minister is bevoegd tot het vragen van inlichtingen en het nemen van de maa
 
 ##### Artikel 4i
 
-Het is verboden om tabaksproducten te leveren, in te voeren of in de handel te brengen, indien die producten niet aan de in [artikel 4h, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2021-07-01&g=2021-07-01), gestelde eisen voldoen.
+Het is verboden om tabaksproducten te leveren, in te voeren of in de handel te brengen, indien die producten niet aan de in [artikel 4h, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2022-07-01&g=2022-07-01), gestelde eisen voldoen.
 
 ##### Artikel 4j
 
@@ -839,7 +863,7 @@ Onze Minister is bevoegd tot het vragen van inlichtingen en het nemen van de maa
 
 ##### Artikel 4l
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4&z=2021-07-01&g=2021-07-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2021-07-01&g=2021-07-01), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2021-07-01&g=2021-07-01), [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4d&z=2021-07-01&g=2021-07-01), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4e&z=2021-07-01&g=2021-07-01), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4f&z=2021-07-01&g=2021-07-01), [4g](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4g&z=2021-07-01&g=2021-07-01), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2021-07-01&g=2021-07-01), [4j](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4j&z=2021-07-01&g=2021-07-01) en [4k](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4k&z=2021-07-01&g=2021-07-01) kunnen bij ministeriële regeling worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover de aanpassingen niet inhoudelijk van aard zijn.
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4&z=2022-07-01&g=2022-07-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4a&z=2022-07-01&g=2022-07-01), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4c&z=2022-07-01&g=2022-07-01), [4d](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4d&z=2022-07-01&g=2022-07-01), [4e](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4e&z=2022-07-01&g=2022-07-01), [4f](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4f&z=2022-07-01&g=2022-07-01), [4g](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4g&z=2022-07-01&g=2022-07-01), [4h](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4h&z=2022-07-01&g=2022-07-01), [4j](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4j&z=2022-07-01&g=2022-07-01) en [4k](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&paragraaf=2a&artikel=4k&z=2022-07-01&g=2022-07-01) kunnen bij ministeriële regeling worden gewijzigd in verband met aanpassingen van verwijzingen naar bindende EU-rechtshandelingen of onderdelen daarvan, voor zover de aanpassingen niet inhoudelijk van aard zijn.
 
 #### § 3. Reclame- en sponsoringbeperkingen
 
