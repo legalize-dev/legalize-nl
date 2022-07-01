@@ -4,7 +4,7 @@ identifier: "BWBR0038936"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2018-03-15"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038936"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 - a. **opsporingsambtenaar:** een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en een buitengewoon opsporingsambtenaar als bedoeld in [artikel 159, eerste lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=159), [artikel 86, eerste en tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=86), [artikel 45, eerste en tweede lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=45) en [artikel 11.3, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.3);
 
-- b. **bloedonderzoek:** een onderzoek als bedoeld in [artikel 8, tweede lid, onder b, derde lid, onder b, of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, tweede lid, onder b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, tweede lid, onder b, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, tweede lid, onder b, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, derde lid, onder b, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) dat betrekking heeft op het gebruik van alcohol of een of meer van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2018-03-15&g=2018-03-15) aangewezen stoffen;
+- b. **bloedonderzoek:** een onderzoek als bedoeld in [artikel 8, tweede lid, onder b, derde lid, onder b, of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, tweede lid, onder b, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, tweede lid, onder b, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, tweede lid, onder b, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, derde lid, onder b, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) dat betrekking heeft op het gebruik van alcohol of een of meer van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2022-07-01&g=2022-07-01) aangewezen stoffen;
 
 - c. **aanvullend bloedonderzoek:** een onderzoek dat betrekking heeft op het gebruik van andere stoffen dan de in onderdeel b bedoelde stoffen.
 
@@ -68,19 +68,21 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 ##### Artikel 3
 
-1. De grenswaarden voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2018-03-15&g=2018-03-15) aangewezen stoffen zijn, indien zij enkelvoudig zijn gebruikt en gemeten in geval van:
+1. De grenswaarden voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2022-07-01&g=2022-07-01) aangewezen stoffen zijn, indien zij enkelvoudig zijn gebruikt en gemeten in geval van:
 
-- a. amfetamine, methamfetamine, cocaïne, MDMA, MDEA en MDA: 50 microgram amfetamine, methamfetamine, cocaïne, MDMA, MDEA of MDA per liter bloed;
+- a. amfetamine, methamfetamine, MDMA, MDEA en MDA: 50 microgram amfetamine, methamfetamine, MDMA, MDEA of MDA per liter bloed of 50 microgram per liter bloed voor de som van deze stoffen indien een van deze stoffen met een of meer van deze stoffen is gebruikt en gemeten;
 
 - b. cannabis: 3,0 microgram tetrahydrocannabinol per liter bloed;
 
-- c. heroïne en morfine: 20 microgram morfine per liter bloed;
+- c. cocaïne: 50 microgram cocaïne per liter bloed;
 
-- d. GHB, gamma butyrolacton of 1,4-butaandiol: 10 milligram GHB per liter bloed.
+- d. heroïne en morfine: 20 microgram morfine per liter bloed;
 
-2. Indien een van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2018-03-15&g=2018-03-15) aangewezen stoffen is gebruikt en gemeten in combinatie met een of meer andere van deze stoffen, alcohol of met een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), is de grenswaarde voor iedere in het eerste lid genoemde stof en alcohol in geval van:
+- e. GHB, gamma butyrolacton of 1,4-butaandiol: 10 milligram GHB per liter bloed.
 
-- a. amfetamine, methamfetamine, MDMA, MDEA of MDA: 25 microgram amfetamine, methamfetamine, MDMA, MDEA of MDA per liter bloed of 50 microgram voor de som van deze amfetamine-achtige stoffen indien een van deze amfetamine-achtige stoffen met een of meer andere van deze amfetamine-achtige stoffen is gebruikt en gemeten;
+2. Indien een van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2022-07-01&g=2022-07-01) aangewezen stoffen is gebruikt en gemeten in combinatie met een of meer andere van deze stoffen, alcohol of met een andere stof als bedoeld in [artikel 8, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), is de grenswaarde voor iedere in het eerste lid genoemde stof en alcohol in geval van:
+
+- a. amfetamine, methamfetamine, MDMA, MDEA of MDA: 25 microgram amfetamine, methamfetamine, MDMA, MDEA of MDA per liter bloed;
 
 - b. cannabis: 1,0 microgram tetrahydrocannabinol per liter bloed;
 
@@ -88,7 +90,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 - d. GHB, gamma butyrolacton of 1,4-butaandiol: 5,0 milligram GHB per liter bloed;
 
-- e. alcohol: 0,2 milligram ethanol per milliliter bloed.
+- e. alcohol: 0,2 milligram ethanol per milliliter bloed of 88 microgram ethanol per liter uitgeademde lucht.
 
 #### § 3. Voorlopige onderzoeken
 
@@ -162,11 +164,11 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 2. De opsporingsambtenaar deelt het resultaat van het ademonderzoek direct aan de verdachte mede en wijst hem, indien het ademonderzoek het vermoeden bevestigt dat het alcoholgehalte in zijn adem hoger is dan op grond van [artikel 8, eerste, tweede, derde of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, eerste of tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, eerste of tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, eerste of tweede lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, eerste of derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) is toegestaan, erop dat hij het recht op tegenonderzoek heeft.
 
-3. Het tegenonderzoek geschiedt door middel van een bloedonderzoek. De [artikelen 12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=12&z=2018-03-15&g=2018-03-15) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=19&z=2018-03-15&g=2018-03-15) zijn van overeenkomstige toepassing, met dien verstande dat:
+3. Het tegenonderzoek geschiedt door middel van een bloedonderzoek. De [artikelen 12 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=12&z=2022-07-01&g=2022-07-01) en [19, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=19&z=2022-07-01&g=2022-07-01), zijn van overeenkomstige toepassing, met dien verstande dat:
 
 - a. de verdachte direct nadat hij op het recht op tegenonderzoek is gewezen aan de opsporingsambtenaar kenbaar dient te maken dat hij van dat recht gebruikmaakt, en het bloed van de verdachte direct daarna wordt afgenomen, en
 
-- b. de bloedafname van de verdachte voor zijn rekening geschiedt en niet wordt gedaan dan nadat hij daarvoor aan de organisatie waarbij de opsporingsambtenaar werkzaam is en die voor de bloedafname zorgdraagt, een bij ministeriële regeling vastgesteld bedrag heeft betaald.
+- b. de bloedafname voor rekening van de verdachte geschiedt en niet wordt gedaan dan nadat daarvoor een bij ministeriële regeling vastgesteld bedrag is betaald.
 
 #### § 4.2. Bloedonderzoek
 
@@ -176,13 +178,13 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 2. De bloedafname geschiedt met de hulpmiddelen die bij ministeriële regeling zijn voorgeschreven.
 
-3. Indien het bloedonderzoek is gericht op de vaststelling van het gebruik van een of meer van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2018-03-15&g=2018-03-15) aangewezen stoffen, geschiedt de bloedafname uiterlijk binnen anderhalf uur nadat de verdachte is gevorderd zijn medewerking te verlenen aan een voorlopig onderzoek als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2018-03-15&g=2018-03-15) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=3&sub-paragraaf=3.3&artikel=8&z=2018-03-15&g=2018-03-15) of, indien die vordering niet is gedaan, binnen anderhalf uur na het eerste contact tussen de opsporingsambtenaar en de verdachte dat aanleiding was om de verdachte te vragen zijn medewerking te verlenen aan het bloedonderzoek. Van die termijn kan alleen vanwege bijzondere omstandigheden worden afgeweken. De vorige volzinnen zijn niet van toepassing indien het bloedonderzoek is gericht op de vaststelling van het gebruik van alcohol.
+3. De bloedafname geschiedt uiterlijk binnen anderhalf uur nadat de verdachte is gevorderd zijn medewerking te verlenen aan een voorlopig onderzoek als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=3&sub-paragraaf=3.1&artikel=4&z=2022-07-01&g=2022-07-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=3&sub-paragraaf=3.3&artikel=8&z=2022-07-01&g=2022-07-01) of, indien die vordering niet is gedaan, binnen anderhalf uur na het eerste contact tussen de opsporingsambtenaar en de verdachte dat aanleiding was om de verdachte te vragen zijn medewerking te verlenen aan het bloedonderzoek. Van die termijn kan alleen vanwege bijzondere omstandigheden worden afgeweken. De vorige volzinnen zijn niet van toepassing indien het bloedonderzoek is gericht op de vaststelling van het gebruik van alcohol.
 
 4. De arts of verpleegkundige ontvangt voor de bloedafname een vergoeding van de organisatie waarbij de opsporingsambtenaar werkzaam is en die voor de bloedafname zorgdraagt.
 
 ##### Artikel 13
 
-1. Bij de bloedafname, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=12&z=2018-03-15&g=2018-03-15), is een opsporingsambtenaar aanwezig, die:
+1. Bij de bloedafname, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=12&z=2022-07-01&g=2022-07-01), is een opsporingsambtenaar aanwezig, die:
 
 - a. van de bloedafname een proces-verbaal opmaakt dat hij voorziet van een sporenidentificatienummer en de naam, het geslacht, de geboortedatum en -plaats en het geboorteland en het burgerservicenummer van de verdachte van wie het bloed is afgenomen, of, indien deze gegevens van de verdachte onbekend zijn, andere gegevens waarmee zijn identiteit kan worden vastgesteld,
 
@@ -190,9 +192,11 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 - c. ervoor zorgt dat ieder buisje met bloed voorzien is van een sporenidentificatienummer, en
 
-- d. ervoor zorgt dat de buisjes of het buisje met bloed zo spoedig mogelijk in een bij ministeriële regeling voorgeschreven verpakking die hij van een of meer fraudebestendige sluitzegels of een fraudebestendige afsluiting heeft voorzien, worden of wordt bezorgd bij het laboratorium, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2018-03-15&g=2018-03-15).
+- d. ervoor zorgt dat de buisjes of het buisje met bloed binnen vier weken in een bij ministeriële regeling voorgeschreven verpakking die hij van een of meer fraudebestendige sluitzegels of een fraudebestendige afsluiting heeft voorzien, worden of wordt bezorgd bij het laboratorium, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01).
 
-2. De opsporingsambtenaar wijst de verdachte bij de bloedafname erop dat hij het recht op tegenonderzoek heeft, indien het verslag van het bloedonderzoek, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2018-03-15&g=2018-03-15), het vermoeden bevestigt dat hij [artikel 8, tweede, derde of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, tweede lid, van de Wet lokaal](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) spoor of [artikel 2.12, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) heeft overtreden, tenzij de bloedafname in het kader van een tegenonderzoek geschiedt.
+2. De opsporingsambtenaar wijst de verdachte bij de bloedafname erop dat hij het recht op tegenonderzoek heeft, indien het verslag van het bloedonderzoek, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01), het vermoeden bevestigt dat hij [artikel 8, tweede, derde of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, tweede lid, van de Wet lokaal](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) spoor of [artikel 2.12, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) heeft overtreden, tenzij de bloedafname in het kader van een tegenonderzoek geschiedt.
+
+3. Bij ministeriële regeling worden regels gesteld over de omstandigheden waaronder de buisjes of het buisje met bloed worden bewaard en vervoerd.
 
 ##### Artikel 14
 
@@ -210,11 +214,11 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 ##### Artikel 15
 
-Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2018-03-15&g=2018-03-15), is verbonden, legt na ontvangst van de buisjes of het buisje met bloed de volgende gegevens in een bestand vast:
+Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01), is verbonden, legt na ontvangst van de buisjes of het buisje met bloed de volgende gegevens in een bestand vast:
 
 - a. de datum van ontvangst van de buisjes of het buisje,
 
-- b. de sporenidentificatienummers, bedoeld in [artikel 13, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=13&z=2018-03-15&g=2018-03-15),
+- b. de sporenidentificatienummers, bedoeld in [artikel 13, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=13&z=2022-07-01&g=2022-07-01),
 
 - c. de naam, het geslacht, de geboortedatum en het burgerservicenummer van de verdachte wiens het bloed het betreft, en
 
@@ -222,11 +226,11 @@ Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 14, eerste lid](htt
 
 ##### Artikel 16
 
-1. De onderzoeker, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2018-03-15&g=2018-03-15), verricht het bloedonderzoek binnen twee weken na ontvangst van de buisjes of het buisje met bloed. De methode die hij voor het bloedonderzoek hanteert, voldoet aan de bij ministeriële regeling vastgestelde eisen.
+1. De onderzoeker, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01), verricht het bloedonderzoek binnen vier weken na ontvangst van de buisjes of het buisje met bloed. Indien toepassing is gegeven aan [artikel 164, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), verricht de onderzoeker het bloedonderzoek binnen een week na ontvangst van de buisjes of het buisje met bloed voor zover het bloedonderzoek betrekking heeft op het gebruik van alcohol. De methode die hij voor het bloedonderzoek hanteert, voldoet aan de bij ministeriële regeling vastgestelde eisen.
 
 2. De onderzoeker stelt een in de Nederlandse taal gesteld schriftelijk verslag van het resultaat van het bloedonderzoek op en ondertekent dat verslag.
 
-3. In afwijking van het tweede lid mag het verslag in de Engelse taal zijn gesteld, indien de onderzoeker die het verslag opstelt, verbonden is aan een laboratorium als bedoeld in [artikel 14, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2018-03-15&g=2018-03-15).
+3. In afwijking van het tweede lid mag het verslag in de Engelse taal zijn gesteld, indien de onderzoeker die het verslag opstelt, verbonden is aan een laboratorium als bedoeld in [artikel 14, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01).
 
 4. Het verslag bevat in ieder geval:
 
@@ -238,53 +242,49 @@ Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 14, eerste lid](htt
 
 - d. het resultaat van het bloedonderzoek.
 
-5. De onderzoeker stuurt het verslag zo spoedig mogelijk na het verrichten van het bloedonderzoek aan de opdrachtgever van het bloedonderzoek.
+5. De onderzoeker stuurt het verslag binnen de op grond van het eerste lid geldende termijn aan de opdrachtgever van het bloedonderzoek.
 
 ##### Artikel 17
 
-De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2018-03-15&g=2018-03-15), schriftelijk in kennis van het resultaat van het bloedonderzoek en van het recht op tegenonderzoek en vermeldt daarbij het sporenidentificatienummer, bedoeld in artikel 16, vierde lid, onder b.
+De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01), schriftelijk in kennis van het resultaat van het bloedonderzoek en van het recht op tegenonderzoek en vermeldt daarbij het sporenidentificatienummer, bedoeld in artikel 16, vierde lid, onder b.
 
 ##### Artikel 18
 
 1. In geval van een aanvullend bloedonderzoek stelt het laboratorium waaraan de onderzoeker is verbonden die het bloedonderzoek heeft verricht, het voor dat onderzoek bestemde buisje met bloed ter beschikking aan de onderzoeker.
 
-2. Op het aanvullend bloedonderzoek zijn de [artikelen 12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=12&z=2018-03-15&g=2018-03-15) van overeenkomstige toepassing, met dien verstande dat
+2. Op het aanvullend bloedonderzoek zijn de [artikelen 12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=12&z=2022-07-01&g=2022-07-01) van overeenkomstige toepassing, met dien verstande dat
 
-- a. de termijn waarbinnen het aanvullend bloedonderzoek dient te zijn verricht, vier weken na ontvangst van het buisje met bloed is, of zes weken indien zich bijzondere omstandigheden voordoen als gevolg waarvan de termijn van vier weken in redelijkheid niet haalbaar is,
+- a. de termijn waarbinnen het aanvullend bloedonderzoek dient te zijn verricht, acht weken bedraagt na ontvangst van het buisje met bloed, onverminderd het bepaalde in [artikel 16, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01);
 
-- b. de hulpofficier van justitie belast is met de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2018-03-15&g=2018-03-15), genoemde taak, en
+- b. de hulpofficier van justitie belast is met de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01), genoemde taak, en
 
-- c. de opsporingsambtenaar belast is met de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2018-03-15&g=2018-03-15) genoemde taak.
+- c. de opsporingsambtenaar belast is met de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2022-07-01&g=2022-07-01) genoemde taak.
 
 ##### Artikel 19
 
 1. In geval van een tegenonderzoek stelt het laboratorium waaraan de onderzoeker is verbonden die het bloedonderzoek of het aanvullend bloedonderzoek heeft verricht, het voor dat onderzoek bestemde buisje met bloed ter beschikking aan het laboratorium waaraan de onderzoeker is verbonden die het tegenonderzoek verricht.
 
-2. De [artikelen 13, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=13&z=2018-03-15&g=2018-03-15), [14, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2018-03-15&g=2018-03-15), [15 tot en 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=15&z=2018-03-15&g=2018-03-15) zijn van overeenkomstige toepassing, met dien verstande dat:
+2. De [artikelen 13, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=13&z=2022-07-01&g=2022-07-01), [14, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=15&z=2022-07-01&g=2022-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=18&z=2022-07-01&g=2022-07-01) zijn van overeenkomstige toepassing.
 
-- a. het laboratorium waaraan de onderzoeker is verbonden die het tegenonderzoek verricht, ervoor zorgt dat na het verrichten van dat onderzoek het resterende bloed naar het laboratorium wordt terugbezorgd die het bloedonderzoek of het aanvullend bloedonderzoek heeft verricht, en
+3. Tegenonderzoek geschiedt op initiatief van en voor rekening van de verdachte en wordt niet verricht dan nadat de verdachte het laboratorium waaraan de onderzoeker is verbonden die het tegenonderzoek verricht, het daarvoor verschuldigde bedrag heeft betaald. In dat bedrag zijn de verzendkosten van het voor het tegenonderzoek bestemde buisje met bloed door het laboratorium waaraan de onderzoeker is verbonden die het bloedonderzoek of het aanvullend bloedonderzoek heeft verricht, inbegrepen. De hoogte van die verzendkosten worden bij ministeriële regeling vastgesteld. Het bedrag voor de verzendkosten verrekent het laboratorium, bedoeld in de eerste volzin, met het laboratorium, bedoeld in de tweede volzin. De verdachte is verplicht in zijn aanvraag tot het verrichten van een tegenonderzoek zijn naam, geslacht, geboortedatum en burgerservicenummer te vermelden, alsmede het sporenidentificatienummer dat op de kennisgeving, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2022-07-01&g=2022-07-01), is vermeld.
 
-- b. de onderzoeker het verslag van het tegenonderzoek naar de verdachte stuurt.
-
-3. Tegenonderzoek geschiedt op initiatief van en voor rekening van de verdachte en wordt niet verricht dan nadat de verdachte het laboratorium waaraan de onderzoeker is verbonden die het tegenonderzoek verricht, het daarvoor verschuldigde bedrag heeft betaald. In dat bedrag zijn de verzendkosten van het voor het tegenonderzoek bestemde buisje met bloed door het laboratorium waaraan de onderzoeker is verbonden die het bloedonderzoek of het aanvullend bloedonderzoek heeft verricht, inbegrepen. De hoogte van die verzendkosten worden bij ministeriële regeling vastgesteld. Het bedrag voor de verzendkosten verrekent het laboratorium, bedoeld in de eerste volzin, met het laboratorium, bedoeld in de tweede volzin. De verdachte is verplicht in zijn aanvraag tot het verrichten van een tegenonderzoek zijn naam, geslacht, geboortedatum en burgerservicenummer te vermelden, alsmede het sporenidentificatienummer dat op de kennisgeving, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2018-03-15&g=2018-03-15), is vermeld.
-
-4. Indien de verdachte de kosten van het tegenonderzoek niet binnen twee weken na de datum van dagtekening van de kennisgeving, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2018-03-15&g=2018-03-15), heeft betaald, vervalt het recht op dat onderzoek.
+4. Indien de verdachte de kosten van het tegenonderzoek niet binnen vier weken na de datum van dagtekening van de kennisgeving, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2022-07-01&g=2022-07-01), heeft betaald, vervalt het recht op dat onderzoek.
 
 5. De verdachte ontvangt het bedrag, bedoeld in het derde lid, uit ’s Rijks kas terug indien het resultaat van het tegenonderzoek het vermoeden niet bevestigt dat hij [artikel 8, eerste, tweede, derde of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, eerste of tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, eerste of tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, eerste of tweede lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, eerste of derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) heeft overtreden.
 
 ##### Artikel 20
 
-1. Het laboratorium waaraan de onderzoeker is verbonden dat het bloedonderzoek, aanvullend bloedonderzoek of tegenonderzoek heeft verricht, vernietigt het bloed dat na dat onderzoek resteert, een half jaar na de datum van dagtekening van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2018-03-15&g=2018-03-15).
+1. Het laboratorium waaraan de onderzoeker is verbonden dat het bloedonderzoek, aanvullend bloedonderzoek of tegenonderzoek heeft verricht, vernietigt het bloed dat na dat onderzoek resteert, een half jaar na de datum van dagtekening van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01). Is het recht op tegenonderzoek vervallen, dan vernietigt het laboratorium dat het tegenonderzoek zou verrichten het bloed een half jaar na de ontvangst.
 
-2. Indien het resultaat van het bloedonderzoek, het aanvullend bloedonderzoek of het tegenonderzoek het vermoeden niet bevestigt dat de verdachte [artikel 8, eerste, tweede, derde of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, eerste of tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, eerste of tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, eerste of tweede lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, eerste of derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) heeft overtreden, vernietigt het laboratorium, bedoeld in het eerste lid, het afschrift van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2018-03-15&g=2018-03-15), en de daarbij behorende gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=15&z=2018-03-15&g=2018-03-15), een half jaar na de datum van dagtekening van dat verslag.
+2. Indien het resultaat van het bloedonderzoek, het aanvullend bloedonderzoek of het tegenonderzoek het vermoeden niet bevestigt dat de verdachte [artikel 8, eerste, tweede, derde of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, eerste of tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, eerste of tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, eerste of tweede lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, eerste of derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) heeft overtreden, vernietigt het laboratorium, bedoeld in het eerste lid, het afschrift van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01), en de daarbij behorende gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=15&z=2022-07-01&g=2022-07-01), een half jaar na de datum van dagtekening van dat verslag.
 
-3. Indien het resultaat van het bloedonderzoek, het aanvullend bloedonderzoek of het tegenonderzoek het vermoeden bevestigt dat de verdachte een van de in het tweede lid genoemde artikelleden heeft overtreden, vernietigt het laboratorium, bedoeld in het eerste lid, het afschrift van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2018-03-15&g=2018-03-15), en de daarbij behorende gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=15&z=2018-03-15&g=2018-03-15), vijf jaar na de datum van dagtekening van dat verslag.
+3. Indien het resultaat van het bloedonderzoek, het aanvullend bloedonderzoek of het tegenonderzoek het vermoeden bevestigt dat de verdachte een van de in het tweede lid genoemde artikelleden heeft overtreden, vernietigt het laboratorium, bedoeld in het eerste lid, het afschrift van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01), en de daarbij behorende gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=15&z=2022-07-01&g=2022-07-01), vijf jaar na de datum van dagtekening van dat verslag.
 
 4. Het laboratorium, bedoeld in het eerste lid, houdt aantekening van iedere vernietiging op grond van het eerste tot en met derde lid.
 
 ##### Artikel 21
 
-Indien een ander laboratorium dan het laboratorium van het Nederlands Forensisch Instituut voornemens is zijn werkzaamheden op het terrein van het bloedonderzoek of het aanvullend bloedonderzoek te beëindigen, zorgt dat laboratorium ervoor dat het bloed, de afschriften van de verslagen, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2018-03-15&g=2018-03-15), die bij dat laboratorium worden bewaard, en de daarbij behorende gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=15&z=2018-03-15&g=2018-03-15), voor de beëindiging van die werkzaamheden aan dat instituut worden overgedragen, tenzij het laboratorium fuseert met een ander laboratorium als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2018-03-15&g=2018-03-15). In het laatste geval worden het bloed, de afschriften van de verslagen en de daarbij behorende gegevens in dat andere laboratorium bewaard.
+Indien een ander laboratorium dan het laboratorium van het Nederlands Forensisch Instituut voornemens is zijn werkzaamheden op het terrein van het bloedonderzoek of het aanvullend bloedonderzoek te beëindigen, zorgt dat laboratorium ervoor dat het bloed, de afschriften van de verslagen, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01), die bij dat laboratorium worden bewaard, en de daarbij behorende gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=15&z=2022-07-01&g=2022-07-01), voor de beëindiging van die werkzaamheden aan dat instituut worden overgedragen, tenzij het laboratorium fuseert met een ander laboratorium als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01). In het laatste geval worden het bloed, de afschriften van de verslagen en de daarbij behorende gegevens in dat andere laboratorium bewaard.
 
 #### § 5. Slotbepalingen
 
