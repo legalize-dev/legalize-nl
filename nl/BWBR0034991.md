@@ -4,7 +4,7 @@ identifier: "BWBR0034991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2020-07-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034991"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Als materialen als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.ov
 
 ##### Artikel 3
 
-Een materiaal, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2020-07-01&g=2020-07-01), is vervaardigd uit de voor dat materiaal in de bij deze regeling behorende bijlage aangegeven stoffen, welke voldoen aan de daarin voor die stoffen gestelde regels.
+Een materiaal, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2022-07-01&g=2022-07-01), is vervaardigd uit de voor dat materiaal in de bij deze regeling behorende bijlage aangegeven stoffen, welke voldoen aan de daarin voor die stoffen gestelde regels.
 
 ##### Artikel 4
 
@@ -82,11 +82,11 @@ Bij de vervaardiging van verpakkingen en gebruiksartikelen mogen grond- en hulps
 
 ##### Artikel 5
 
-Verpakkingen en gebruiksartikelen, vervaardigd uit materiaal als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2020-07-01&g=2020-07-01), mogen aan eet- en drinkwaren geen grotere hoeveelheden stoffen afgeven dan voor die stoffen is aangegeven in de bij deze regeling behorende bijlage.
+Verpakkingen en gebruiksartikelen, vervaardigd uit materiaal als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2022-07-01&g=2022-07-01), mogen aan eet- en drinkwaren geen grotere hoeveelheden stoffen afgeven dan voor die stoffen is aangegeven in de bij deze regeling behorende bijlage.
 
 ##### Artikel 6
 
-Ten aanzien van verpakkingen en gebruiksartikelen, bestaande uit materialen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2020-07-01&g=2020-07-01), gelden de onderzoekingsmethoden zoals opgenomen in de bij deze regeling behorende bijlage.
+Ten aanzien van verpakkingen en gebruiksartikelen, bestaande uit materialen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=2&z=2022-07-01&g=2022-07-01), gelden de onderzoekingsmethoden zoals opgenomen in de bij deze regeling behorende bijlage.
 
 ##### Artikel 7
 
@@ -208,19 +208,25 @@ NA Niet aantoonbaar met een methode met een detectiegrens van 0,05 mg/kg.
 
 ### 1. Papier en karton voor algemeen gebruik20Zie paragraaf 2 voor papier en karton bestemd voor gebruik als kookverpakking en voor contact met drinkwaren bij temperaturen boven 80 °C.
 
-In het kader van deze regeling wordt onder papier en karton verstaan de uit vezels van organisch materiaal verkregen vliezen of folies respectievelijk gevormde gebruiksartikelen.
+(8) De som van de migratie van alle stoffen gemarkeerd met (8) mag niet aantoonbaar zijn met een methode met een detectiegrens van 0,05 mg/kg.
 
-### 1.2. .eisen gesteld aan de vervaardiging
+### Hoofdstuk II. – Papier en karton
 
-### 1.2. .eisen gesteld aan de vervaardiging
+### 1. Papier en karton voor algemeen gebruik20Zie paragraaf 2 voor papier en karton bestemd voor gebruik als kookverpakking en voor contact met drinkwaren bij temperaturen boven 80 °C.
 
-### 1.3. Eisen gesteld aan het eindproduct:
+### 1.1. Omschrijving
 
 ### 2. Papier en karton bestemd voor gebruik als kookverpakking en voor de filtering van drinkwaren bij temperaturen hoger dan 80 °C
 
 In het kader van deze regeling wordt onder papier en karton verstaan de uit vezels van organisch materiaal verkregen vliezen of foliën, resp. gevormde gebruiksartikelen, bestemd voor contact met eet- of drinkwaren bij temperaturen vanaf 80 °C tot en met kooktemperatuur.
 
-### 2.2. Eisen gesteld aan de vervaardiging
+### 1.3. Eisen gesteld aan het eindproduct:
+
+### 2. Papier en karton bestemd voor warm gebruik (gebruik als kookverpakking en voor de filtering van drinkwaren bij temperaturen hoger dan 80 °C)
+
+### 2.1. Omschrijving
+
+### Hoofdstuk III. – Rubberproducten
 
 ### 2.2. Eisen gesteld aan de vervaardiging
 
@@ -228,41 +234,51 @@ In het kader van deze regeling wordt onder papier en karton verstaan de uit veze
 
 ### Hoofdstuk III. – Rubberproducten
 
-### 1. Omschrijving
-
-### 2. Specificatie van de elastomeren
-
-### 3. Indeling van rubberproducten in categorieën
-
 1Met NA (niet aantoonbaar) wordt – voor praktische toepassing – bedoeld een waarde van ten hoogste 0,05.
 
 1Met NA (niet aantoonbaar) wordt – voor praktische toepassing – bedoeld een waarde van ten hoogste 0,05.
 
 2Voor praktische toepassing wordt aangenomen, dat men voor een kind vijf wegwerpspenen per dag gebruikt. De specifieke migratielimiet per speen is derhalve een vijfde deel van de in de tabel vermelde waarde. Voor meermalig te gebruiken spenen en fopspenen is het in bijlage deel B, hoofdstuk I, onderdeel 4.2.1, onder 5, en onderdeel 4.2.2, onder 1, bepaalde ten aanzien van onderzoek van voorwerpen die bestemd zijn om meerdere malen met levensmiddelen in contact te komen van overeenkomstige toepassing.
 
-### 5. Eisen gesteld aan het eindproduct
+### 4. Eisen gesteld aan de vervaardiging van het eindproduct
 
 ### 5. Eisen gesteld aan het eindproduct
 
 ### Hoofdstuk IV. – Metalen
 
-In het kader van deze regelingen vallen verpakkingen en gebruiksartikelen voor zover bestaande uit metaal, dat al dan niet voorzien kan zijn van een deklaag anders dan email.
+3 SML voor de som van sym. dimethyldifenylthiuram-disulfide en di-N-pentamethyleenthiuram-tetrasulfide.
 
 ### 2. Verpakkingsmaterialen
 
 ### 2. Verpakkingsmaterialen
 
-Gebruiksartikelen mogen uitsluitend worden vervaardigd uit de hierna genoemde materialen:
+6 SML(T) voor zink = 5.
 
 ### 4. Eisen gesteld aan het eindproduct
 
 ### 4. Eisen gesteld aan het eindproduct
 
-### Hoofdstuk V. – Glas en glaskeramiek
+### 5. Eisen gesteld aan het eindproduct
+
+### Hoofdstuk IV. – Metalen
 
 ### 1. Omschrijving
 
-### 2. Typen
+### 3. Eisen gesteld aan de vervaardiging
+
+### 2. Verpakkingsmaterialen
+
+### 3. Gebruiksartikelen
+
+### 1. Keramische materialen
+
+### 4. Eisen gesteld aan het eindproduct
+
+In het kader van deze regeling worden onder emails verstaan de door smelten of fritten verkregen glasachtige massa’s van een anorganische, in hoofdzaak oxidische samenstelling, die in een of meer lagen op voorwerpen van metaal worden aangebracht en door verhitting gefixeerd.
+
+### 1. Omschrijving
+
+De bij de vervaardiging van emails toegepaste grond- en hulpstoffen moeten van een goede technische kwaliteit zijn. De hulpstoffen mogen niet in een grotere hoeveelheid worden gebruikt dan voor de vervaardiging van het eindproduct strikt noodzakelijk is.
 
 ### 3. Eisen gesteld aan de vervaardiging
 
@@ -270,47 +286,31 @@ Gebruiksartikelen mogen uitsluitend worden vervaardigd uit de hierna genoemde ma
 
 ### Hoofdstuk VI. – Keramische materialen en emails
 
-### 1. Keramische materialen
+Onder de werking van dit hoofdstuk vallen de door enigerlei bewerking met elkaar verbonden natuurlijke en synthetische textielvezels.
 
 ### 2. Emails
 
-In het kader van deze regeling worden onder emails verstaan de door smelten of fritten verkregen glasachtige massa’s van een anorganische, in hoofdzaak oxidische samenstelling, die in een of meer lagen op voorwerpen van metaal worden aangebracht en door verhitting gefixeerd.
-
-### 2.2. Eisen gesteld aan de vervaardiging
-
-De bij de vervaardiging van emails toegepaste grond- en hulpstoffen moeten van een goede technische kwaliteit zijn. De hulpstoffen mogen niet in een grotere hoeveelheid worden gebruikt dan voor de vervaardiging van het eindproduct strikt noodzakelijk is.
-
-### 2.3. Eisen gesteld aan het eindproduct
-
-### 2.3. Eisen gesteld aan het eindproduct
-
-### Hoofdstuk VII. – Textielproducten
-
-Onder de werking van dit hoofdstuk vallen de door enigerlei bewerking met elkaar verbonden natuurlijke en synthetische textielvezels.
-
-### 2. Eisen gesteld aan de vervaardiging
-
-### 2. Eisen gesteld aan de vervaardiging
+### 2.1. Omschrijving
 
 ### 3. Eisen gesteld aan het eindproduct
 
-### Hoofdstuk VIII. – Folie van geregenereerde cellulose
+### 2.2. Eisen gesteld aan de vervaardiging
 
 ### Hoofdstuk IX. – Hout en kurk
 
 In het kader van deze regeling vallen de uit hout of kurk of op basis van hout of kurk vervaardigde verpakkingen en gebruiksartikelen.
 
-### 2. Eisen gesteld aan de vervaardiging
+### Hoofdstuk VII. – Textielproducten
 
-### 2. Eisen gesteld aan de vervaardiging
+### 1. Omschrijving
 
 ### 3. Eisen gesteld aan het eindproduct
 
-### Hoofdstuk X. – Deklagen
+### 2. Eisen gesteld aan de vervaardiging
 
 In het kader van deze regeling wordt onder een deklaag verstaan een laag aangebracht op een reeds bestaand substraat, met uitzondering van folie van geregenereerde cellulose:
 
-### 2. Eisen gesteld aan de vervaardiging
+### Hoofdstuk VIII. – Folie van geregenereerde cellulose
 
 Voor de vervaardiging van deklagen mogen uitsluitend worden gebruikt:
 
@@ -320,17 +320,17 @@ Voor de vervaardiging van deklagen mogen uitsluitend worden gebruikt:
 
 Hieronder worden in deze verstaan dispersies van macromoleculaire stoffen in water voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt:
 
-### 4. Dispersies van paraffinen en wassen in water
+### 3. Eisen gesteld aan het eindproduct
 
 Hieronder worden in deze verstaan dispersies in water van paraffinen en wassen vermeld in Hoofdstuk II paragraaf 1.2.2 i. voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt:
 
-### 5. Dispersies van macromoleculaire stoffen in organische vloeistoffen
+### 1. Omschrijving
+
+In het kader van deze regeling wordt onder een deklaag verstaan een laag aangebracht op een reeds bestaand substraat, met uitzondering van folie van geregenereerde cellulose:
 
 Hieronder worden in deze verstaan dispersies van macromoleculaire stoffen in een organische vloeistof of een mengsel van organische vloeistoffen voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt:
 
-Hieronder worden in deze verstaan dispersies van macromoleculaire stoffen in een organische vloeistof of een mengsel van organische vloeistoffen voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt:
-
-polyvinylchloride, volgens Hoofdstuk I;
+Voor de vervaardiging van deklagen mogen uitsluitend worden gebruikt:
 
 ### 6. Oplossingen in water
 
@@ -344,17 +344,17 @@ Hieronder worden in deze verstaan oplossingen in een organisch oplosmiddel, of e
 
 Hieronder worden in deze verstaan materialen op basis van wassen of macromoleculaire stoffen voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt. Bij sommige stoffen is vermeld welk percentage (gewicht) zij ten hoogste van de deklaag mogen vormen.
 
-Hieronder worden in deze verstaan materialen op basis van wassen of macromoleculaire stoffen voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt. Bij sommige stoffen is vermeld welk percentage (gewicht) zij ten hoogste van de deklaag mogen vormen.
+Hieronder worden in deze verstaan dispersies van macromoleculaire stoffen in een organische vloeistof of een mengsel van organische vloeistoffen voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt:
 
 ### 9. Overige oplosmiddelvrije materialen
 
-Hieronder worden in deze verstaan de onder a. vermelde stoffen, waaraan al dan niet een of meer van de onder b. en c. genoemde stoffen mogen zijn toegevoegd.
+stoffen volgens Hoofdstuk IV, paragraaf 2.2 g.
 
-### 10. Metallische deklagen
+### 6. Oplossingen in water
 
-Hieronder worden in deze verstaan lagen, door verdampen van metaal aangebracht op een reeds bestaand substraat, alsmede de deklagen volgens Hoofdstuk IV paragraaf 2 en 3.
+Hieronder worden in deze verstaan oplossingen in water van macromoleculaire stoffen voor de vervaardiging waarvan uitsluitend gebruik mag worden gemaakt van de hieronder vermelde stoffen:
 
-### 11. Polytetrafluoretheen, bestemd voor gebruik als deklaag voor kook-, bak- en braadgerei, voor zover dit bij gebruik overeenkomstig de bestemming verhit wordt tot ten hoogste 140 °C, onderscheidenlijk 230 °C.
+### 7. Oplossingen in organische oplosmiddelen
 
 ### 11. Polytetrafluoretheen, bestemd voor gebruik als deklaag voor kook-, bak- en braadgerei, voor zover dit bij gebruik overeenkomstig de bestemming verhit wordt tot ten hoogste 140 °C, onderscheidenlijk 230 °C.
 
@@ -364,23 +364,23 @@ Het product bestaande uit polytetrafluoretheen zoals genoemd onder 11.2.1.1a., a
 
 ### 11.2. Eisen gesteld aan de vervaardiging
 
-### 12. Eisen gesteld aan het eindproduct
+### 9. Overige oplosmiddelvrije materialen
 
-Het onderhavige Hoofdstuk X Deklagen is bedoeld als een algemene regeling voor deklagen met uitzondering van deklagen voor folie van geregenereerde cellulose, waarvoor in Hoofdstuk VIII een specifieke regeling is opgenomen.
+Hieronder worden in deze verstaan de onder a. vermelde stoffen, waaraan al dan niet een of meer van de onder b. en c. genoemde stoffen mogen zijn toegevoegd.
 
 Het onderhavige Hoofdstuk X Deklagen is bedoeld als een algemene regeling voor deklagen met uitzondering van deklagen voor folie van geregenereerde cellulose, waarvoor in Hoofdstuk VIII een specifieke regeling is opgenomen.
 
 ### Hoofdstuk XI. – Kleurstoffen en pigmenten
 
-### Hoofdstuk XI. – Kleurstoffen en pigmenten
+### 11. Polytetrafluoretheen, bestemd voor gebruik als deklaag voor kook-, bak- en braadgerei, voor zover dit bij gebruik overeenkomstig de bestemming verhit wordt tot ten hoogste 140 °C, onderscheidenlijk 230 °C.
 
 Kleurstoffen en pigmenten is een algemene term voor alle stoffen die gebruikt worden om een kleur te geven aan een verpakkingsmateriaal of gebruiksartikel bedoeld voor contact met levensmiddelen, inclusief kunststoffen. Kleurstoffen en pigmenten kunnen op diverse manieren aan het materiaal zijn toegevoegd, bijvoorbeeld door mengen met het materiaal of door toepassing in een drukinkt.
 
-Kleurstoffen en pigmenten is een algemene term voor alle stoffen die gebruikt worden om een kleur te geven aan een verpakkingsmateriaal of gebruiksartikel bedoeld voor contact met levensmiddelen, inclusief kunststoffen. Kleurstoffen en pigmenten kunnen op diverse manieren aan het materiaal zijn toegevoegd, bijvoorbeeld door mengen met het materiaal of door toepassing in een drukinkt.
+Het product bestaande uit polytetrafluoretheen zoals genoemd onder 11.2.1.1a., alsmede het product bestaande uit een mengsel van dit polymeer en één of meer van de fluorpolymeren, zoals genoemd onder 11.2.1.1 b. en 11.2.1.1 c., welke producten vermengd mogen zijn met een of meer van de bindharsen genoemd onder 11.2.1.2.
 
 De kleurstoffen kunnen worden gemengd met hulpstoffen om de technische verwerking mogelijk te maken of te verbeteren. De stoffen gebruikt als hulpstoffen dienen te voldoen aan artikel 3 van Verordening (EG) nr. 1935/2004. Indien de kleurstoffen of pigmenten worden gemengd met basismaterialen of toegelaten hulpstoffen waarvoor (Europese) regelgeving voor voedselcontact is vastgesteld, dan dient het eindproduct te voldoen aan de daarin vastgestelde eisen.
 
-### 2. Toegelaten stoffen
+### 12. Eisen gesteld aan het eindproduct
 
 Kleurstoffen en pigmenten voor het kleuren en bedrukken van verpakkingsmateriaal en gebruiksartikelen zijn toegelaten mits zij voldoen aan het gestelde in onderdeel 3 van dit hoofdstuk. Het eindproduct dient te voldoen aan de hieronder gestelde eisen en artikel 3 van Verordening (EG) nr. 1935/2004 en aan de eisen gesteld in onderdeel 4 van dit hoofdstuk.
 
@@ -388,37 +388,37 @@ Kleurstoffen en pigmenten voor het kleuren en bedrukken van verpakkingsmateriaal
 
 ### 3. Eisen gesteld aan kleurstoffen en pigmenten
 
-### 4. Eisen gesteld aan het gekleurde eindproduct
+### Hoofdstuk XI. – Kleurstoffen en pigmenten
 
-### Hoofdstuk XII. – Epoxypolymeren
+### 1. Inleiding
 
-De producten verkregen door een polyadditiereactie van epoxygroepen bevattende verbindingen met stoffen, die twee of meer actieve waterstofatomen per molecuul bevatten of deze tijdens de reactie kunnen vormen (verharders), of met condensatieproducten van polyolen en isocyanaten. Het polymere gedeelte van het eindproduct moet voor ten minste 50% uit epoxypolymeer bestaan.
+Kleurstoffen en pigmenten is een algemene term voor alle stoffen die gebruikt worden om een kleur te geven aan een verpakkingsmateriaal of gebruiksartikel bedoeld voor contact met levensmiddelen, inclusief kunststoffen. Kleurstoffen en pigmenten kunnen op diverse manieren aan het materiaal zijn toegevoegd, bijvoorbeeld door mengen met het materiaal of door toepassing in een drukinkt.
 
 ### 2. Eisen gesteld aan de vervaardiging
 
-Voor de vervaardiging en verwerking van epoxypolymeren mogen uitsluitend de hiervoor omschreven verbindingen en de hierna genoemde hulpstoffen worden gebruikt. Deze moeten van een goede technische kwaliteit zijn en mogen niet in grotere hoeveelheden worden gebruikt dan voor de vervaardiging van het eindproduct strikt noodzakelijk is.
+Kleurstoffen en pigmenten kunnen, bijvoorbeeld door middel van een drukinkt, aan de buitenzijde van de verpakking zijn aangebracht. Indien, via overdracht, kleurstof van de buitenzijde kan overgaan naar de voedselcontactzijde, dan zijn onderstaande regels en eisen ook van toepassing op materialen die aan de buitenzijde zijn gekleurd.
 
 Voor de vervaardiging en verwerking van epoxypolymeren mogen uitsluitend de hiervoor omschreven verbindingen en de hierna genoemde hulpstoffen worden gebruikt. Deze moeten van een goede technische kwaliteit zijn en mogen niet in grotere hoeveelheden worden gebruikt dan voor de vervaardiging van het eindproduct strikt noodzakelijk is.
 
-Geen andere stoffen dan de hiervoor omschreven verbindingen, het door polyadditie respectievelijk polycondensatie daaruit verkregen product en de hulpstoffen opgenomen in Tabel XII-1, alsmede eventuele ontledingsproducten daarvan, mogen in het eindproduct aanwezig zijn:
+Kleurstoffen en pigmenten voor het kleuren en bedrukken van verpakkingsmateriaal en gebruiksartikelen zijn toegelaten mits zij voldoen aan het gestelde in onderdeel 3 van dit hoofdstuk. Het eindproduct dient te voldoen aan de hieronder gestelde eisen en artikel 3 van Verordening (EG) nr. 1935/2004 en aan de eisen gesteld in onderdeel 4 van dit hoofdstuk.
 
-### 3. Eisen gesteld aan het eindproduct
+### 3. Eisen gesteld aan kleurstoffen en pigmenten
 
-### 3. Eisen gesteld aan het eindproduct
+### 4. Eisen gesteld aan het gekleurde eindproduct
 
-### 4. Algemene eisen
+### Hoofdstuk XII. – Epoxypolymeren
 
 De materialen vervaardigd van epoxypolymeer, al dan niet voorzien van een deklaag, en de voor de vervaardiging van de epoxypolymere verpakkingen en gebruiksartikelen bedoelde hulpstoffen gaan, wanneer zij worden verkocht en de verkoop niet in de detailhandel plaatsvindt, vergezeld van een schriftelijke verklaring overeenkomstig artikel 16 van Verordening (EG) nr. 1935/2004 en paragraaf 0.9 van Hoofdstuk 0, bijlage deel A.
 
 ### Deel B
 
-### Deel B
+### 2. Eisen gesteld aan de vervaardiging
 
 ### Methoden van onderzoek
 
 ### Hoofdstuk I. Onderzoek van verpakkingen en gebruiksartikelen
 
-Een verpakking, respectievelijk gebruiksartikel, hierna te noemen ‘materiaal’, moet voldoen aan de eisen die gesteld zijn op grond van of krachtens het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370).
+(1) De som van de migratie van alle stoffen gemarkeerd met (1) mag niet hoger zijn dan 60 mg/kg.
 
 Een verpakking, respectievelijk gebruiksartikel, hierna te noemen ‘materiaal’, moet voldoen aan de eisen die gesteld zijn op grond van of krachtens het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370).
 
@@ -426,29 +426,29 @@ De eisen betreffen met name:
 
 Voor de bepaling van de specifieke migratie verdient een methode van onderzoek uitgevoerd in het levensmiddel zelf bovenal de voorkeur. Indien een dergelijk onderzoek om praktische redenen niet mogelijk is, kan gebruik worden gemaakt van een methode uitgevoerd in simulanten. Praktische redenen kunnen van analytische oorsprong zijn maar ook toepassing van het materiaal voor contact met een breed scala aan levensmiddelen kan een goede reden zijn voor het gebruik van simulanten.
 
-Door de snelle ontwikkeling van nieuwe analytische technieken, ten aanzien van identificatie, selectiviteit en detectielimiet van specifieke stoffen, is het niet zinvol om gedetailleerde analysemethoden in deze regeling op te nemen. Iedere analysemethode mag worden toegepast om overeenstemming met de regelgeving aan te tonen mits de methode een, bij het relevante criterium voor de betreffende stof (selectiviteit, detectiegrens, nauwkeurigheid, etc.), passende bepalingskarakteristiek heeft. Analysemethoden die worden toegepast dienen adequaat te zijn gevalideerd zodat de betrouwbaarheid van de betreffende analysemethode kan worden aangetoond via ondersteunende documenten.
+De materialen vervaardigd van epoxypolymeer, al dan niet voorzien van een deklaag, en de voor de vervaardiging van de epoxypolymere verpakkingen en gebruiksartikelen bedoelde hulpstoffen gaan, wanneer zij worden verkocht en de verkoop niet in de detailhandel plaatsvindt, vergezeld van een schriftelijke verklaring overeenkomstig artikel 16 van Verordening (EG) nr. 1935/2004 en paragraaf 0.9 van Hoofdstuk 0, bijlage deel A.
 
-### 2. Richtlijnen voor kwalitatief onderzoek van de samenstelling
+### Deel B
 
-### 2. Richtlijnen voor kwalitatief onderzoek van de samenstelling
-
-De identificatie van het te onderzoeken materiaal is van belang voor het verdere onderzoek.
+### Methoden van onderzoek
 
 De identificatie van het te onderzoeken materiaal is van belang voor het verdere onderzoek.
 
-Analytische methoden zijn beschikbaar zoals infrarood spectrometrie, nuclear magnetic resonance (NMR), chromatografische technieken met specifieke detectiemethoden waarmee de identiteit van een materiaal kan worden vastgesteld. Afhankelijk van de complexiteit van het materiaal (bijvoorbeeld meerlaagsmateriaal) dient het onderzoek te worden aangepast.
+De identificatie van het te onderzoeken materiaal is van belang voor het verdere onderzoek.
 
-Bij het onderzoek naar de samenstelling kan het essentieel zijn, of zal het onderzoek vereenvoudigen, als informatie wordt ingewonnen bij de producent van het materiaal. De verklaring van overeenkomst en de bewijsvoerende documenten kunnen daartoe worden geraadpleegd.
+Een verpakking, respectievelijk gebruiksartikel, hierna te noemen ‘materiaal’, moet voldoen aan de eisen die gesteld zijn op grond van of krachtens het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370).
 
-Voor het identificeren van additieven en reactie of ontledingsproducten kan het nodig zijn een extract te maken van het materiaal. Na concentratie van een extract en vervolgens het toepassen van een geschikte scheidings- en identificatietechniek kunnen de stoffen veelal worden geïdentificeerd, waarna kan worden bekeken of de stoffen op de betreffende positieve lijst van het materiaal voorkomt en of er restricties zijn opgenomen voor de betreffende stof.
+De eisen betreffen met name:
+
+Voor de bepaling van de specifieke migratie verdient een methode van onderzoek uitgevoerd in het levensmiddel zelf bovenal de voorkeur. Indien een dergelijk onderzoek om praktische redenen niet mogelijk is, kan gebruik worden gemaakt van een methode uitgevoerd in simulanten. Praktische redenen kunnen van analytische oorsprong zijn maar ook toepassing van het materiaal voor contact met een breed scala aan levensmiddelen kan een goede reden zijn voor het gebruik van simulanten.
 
 ### 3. Kwantitatief onderzoek van de samenstelling
 
-De bepaling van stoffen waarvoor een maximaal residu in het eindmateriaal is vastgesteld kan worden uitgevoerd met een daartoe geschikte methode, mits de methode een, bij het relevante criterium voor de betreffende stof (selectiviteit, detectiegrens, nauwkeurigheid, etc.), passende bepalingskarakteristiek heeft.
+In Sectie 5 en 6 van dit hoofdstuk en in hoofdstuk II zijn enkele voorschriften opgenomen die nog steeds bruikbaar zijn. Andere voorschriften zijn opgenomen omdat zij verbonden zijn aan bepaalde eisen in deze regeling of het gevolg zijn van de implementatie van EU-richtlijnen. De betreffende voorschriften moeten als richtlijn worden gezien tenzij uitdrukkelijk vermeld bij de betreffende stof of bij het betreffende voorschrift.
 
 De bepaling van stoffen waarvoor een maximaal residu in het eindmateriaal is vastgesteld kan worden uitgevoerd met een daartoe geschikte methode, mits de methode een, bij het relevante criterium voor de betreffende stof (selectiviteit, detectiegrens, nauwkeurigheid, etc.), passende bepalingskarakteristiek heeft.
 
-### 4. Onderzoek naar de migratie van bestanddelen
+### 2.1. Identificatie van het materiaal en de gebruikte stoffen
 
 ### 4. Onderzoek naar de migratie van bestanddelen
 
@@ -456,13 +456,13 @@ De bepaling van stoffen waarvoor een maximaal residu in het eindmateriaal is vas
 
 ### 4.1.1. Algemene voorschriften
 
-Voor het onderzoek van kunststofmaterialen wordt verwezen naar de betreffende Verordening van de Europese Commissie (EU) nr. 10/2011. Voor stoffen die uitgesloten zijn van deze Europese verordening en die zijn opgenomen in hoofdstuk I gelden dezelfde regels ten aanzien van het aantonen van overeenstemming met eisen van deze regeling als voor de stoffen die op Europees niveau zijn geharmoniseerd en waarvoor de eisen zijn opgenomen in de Verordening (EU) nr. 10/2011. Regels en eisen vastgelegd in hoofdstuk 0 en hoofdstuk I van bijlage deel A dienen in acht te worden genomen.
+Voor het identificeren van additieven en reactie of ontledingsproducten kan het nodig zijn een extract te maken van het materiaal. Na concentratie van een extract en vervolgens het toepassen van een geschikte scheidings- en identificatietechniek kunnen de stoffen veelal worden geïdentificeerd, waarna kan worden bekeken of de stoffen op de betreffende positieve lijst van het materiaal voorkomt en of er restricties zijn opgenomen voor de betreffende stof.
 
 ### 4.1.1.2. Onderzoek aan materialen die niet of niet uitsluitend uit kunststof bestaan
 
 Voor het onderzoek van materialen die niet of niet uitsluitend uit kunststof bestaan, gelden dezelfde regels ten aanzien van het aantonen van overeenstemming als voor kunststofmaterialen. De regels zijn opgenomen in de Verordening (EU) nr. 10/2011 tenzij anders vermeld in het hoofdstuk van het betreffende materiaal.
 
-Voor het onderzoek van materialen die niet of niet uitsluitend uit kunststof bestaan, gelden dezelfde regels ten aanzien van het aantonen van overeenstemming als voor kunststofmaterialen. De regels zijn opgenomen in de Verordening (EU) nr. 10/2011 tenzij anders vermeld in het hoofdstuk van het betreffende materiaal.
+De bepaling van stoffen waarvoor een maximaal residu in het eindmateriaal is vastgesteld kan worden uitgevoerd met een daartoe geschikte methode, mits de methode een, bij het relevante criterium voor de betreffende stof (selectiviteit, detectiegrens, nauwkeurigheid, etc.), passende bepalingskarakteristiek heeft.
 
 ### 4.2. Andere manieren voor de bepaling van de migratie in vette levensmiddelen
 
@@ -470,31 +470,47 @@ Het is gebleken dat het gebruik van de simulant D2 in migratieproeven om fysisch
 
 Het is gebleken dat het gebruik van de simulant D2 in migratieproeven om fysische of chemische redenen, die verband houden met de te volgen analysemethode of de stabiliteit van de stof, vaak niet mogelijk is. In dergelijke gevallen kan de in paragraaf 4.2.1 beschreven werkwijze voor **vervangende migratieproeven**worden toegepast. De verkregen resultaten kunnen voor de beoordeling van het materiaal worden gebruikt als aan de in die paragraaf gestelde voorwaarden wordt voldaan.
 
-### 4.2.1. Vervangende migratieproeven
+### 4.1.1. Algemene voorschriften
 
-### 4.2.1. Vervangende migratieproeven
+### 4.1.1.1. Onderzoek aan kunststofmaterialen
 
 ### 4.2.2. Alternatieve proeven
 
-### 5. Uitvoering van migratieproeven
+### 4.1.1.2. Onderzoek aan materialen die niet of niet uitsluitend uit kunststof bestaan
 
-Algemene instructies voor het uitvoeren van migratieproeven zijn vastgelegd in de Europese normen EN 1186-1* en EN 13130-1*. Alhoewel de methoden zijn bedoeld voor het onderzoek van plastics zijn ze ook toepasbaar op materialen die niet of niet uitsluitend uit kunststof bestaan.
+Voor het onderzoek van materialen die niet of niet uitsluitend uit kunststof bestaan, gelden dezelfde regels ten aanzien van het aantonen van overeenstemming als voor kunststofmaterialen. De regels zijn opgenomen in de Verordening (EU) nr. 10/2011 tenzij anders vermeld in het hoofdstuk van het betreffende materiaal.
 
 ### 5.2. Totale migratie
 
 De totale migratie is de som van alle niet vluchtige stoffen die door een verpakking of gebruiksartikel aan een simulant worden afgegeven. De totale migratie in simulanten wordt bepaald volgens de methoden beschreven in de EN 118630Verkrijgbaar via NEN, Postbus 5059, 2600 GB Delft.
 
-De totale migratie is de som van alle niet vluchtige stoffen die door een verpakking of gebruiksartikel aan een simulant worden afgegeven. De totale migratie in simulanten wordt bepaald volgens de methoden beschreven in de EN 118630Verkrijgbaar via NEN, Postbus 5059, 2600 GB Delft.
+Het is gebleken dat het gebruik van de simulant D2 in migratieproeven om fysische of chemische redenen, die verband houden met de te volgen analysemethode of de stabiliteit van de stof, vaak niet mogelijk is. In dergelijke gevallen kan de in paragraaf 4.2.1 beschreven werkwijze voor **vervangende migratieproeven**worden toegepast. De verkregen resultaten kunnen voor de beoordeling van het materiaal worden gebruikt als aan de in die paragraaf gestelde voorwaarden wordt voldaan.
 
 ### 5.2.1. Bepaling van het in methyleenchloride oplosbare deel van de totale migratie in waterige simulanten
 
 NB Deze bepaling wordt uitsluitend uitgevoerd bij het onderzoek van papier of karton, dat niet van een deklaag op basis van een kunststof of van metaal is voorzien en voor zover het in contact zal komen met natte eet of drinkwaren.
 
-### 5.3. Specifieke migratie
+### 4.2.2. Alternatieve proeven
 
 Onderstaande methoden kunnen worden toegepast voor het onderzoek van kunststofmaterialen en niet-kunststofmaterialen.
 
+### 5.1. Algemeen
+
 ### 5.3.1. Fenolische verbindingen
+
+### 5.2. Totale migratie
+
+### 5.3.1.2. Migratie in vet
+
+### 5.3.2. Difenylthioureum
+
+### 5.2.1. Bepaling van het in methyleenchloride oplosbare deel van de totale migratie in waterige simulanten
+
+### 5.3.2.2. Migratie in vet
+
+### 5.3. Specifieke migratie
+
+### 5.3.3.1. Migratie in waterige simulanten
 
 ### 5.3.1. Fenolische verbindingen
 
@@ -512,45 +528,45 @@ Onderstaande methoden kunnen worden toegepast voor het onderzoek van kunststofma
 
 ### 5.3.3.1. Migratie in waterige simulanten
 
-### 5.3.3.2. Migratie in vet
+Met kleurstoffen of pigmenten gekleurde verpakkingen of gebruiksartikelen mogen in de filtreerpapierproef geen kleurverschil ten opzichte van de blanco opleveren.
 
 ### 5.3.4. Anionische oppervlakte-actieve stoffen
 
-### 5.3.4.1. Migratie in waterige simulanten
+Breng in een exsiccator zoveel 3% azijnzuur, dat de bodem volledig bedekt is. Plaats de exsiccator in een ruimte met een temperatuur van 40 ± 2°C. Verzadig een strook filtreerpapier (voor kwalitatieve analyse, middelsnel) van 5 x 2 cm met 3% azijnzuur en leg het strookje op een vlak stuk verpakkingsmateriaal of gebruiksartikel van 9 x 6 cm. Bedek het strookje met een glasplaat van 9 x 6 cm en plaats hierop een gewicht van 0,1 kg. Breng op dezelfde wijze, als blanco, een met 3% azijnzuur bevochtigd strookje filtreerpapier tussen twee glasplaten en plaats beide pakketten 5 uur in de op temperatuur gebrachte exsiccator. Neem daarna beide strookjes filtreerpapier uit de exsiccator en droog ze bij ongeveer 40 °C. Er mag geen kleurverschil tussen beide stroken waarneembaar zijn. Indien geen vlak stuk verpakkingsmateriaal of gebruiksvoorwerp beschikbaar is, handelt men als volgt:
 
-### 5.3.4.2. Migratie in vet
+Breng in een exsiccator zoveel 3% azijnzuur, dat de bodem volledig bedekt is. Plaats de exsiccator in een ruimte met een temperatuur van 40 ± 2°C. Verzadig een strook filtreerpapier (voor kwalitatieve analyse, middelsnel) van 5 x 2 cm met 3% azijnzuur en leg het strookje op een vlak stuk verpakkingsmateriaal of gebruiksartikel van 9 x 6 cm. Bedek het strookje met een glasplaat van 9 x 6 cm en plaats hierop een gewicht van 0,1 kg. Breng op dezelfde wijze, als blanco, een met 3% azijnzuur bevochtigd strookje filtreerpapier tussen twee glasplaten en plaats beide pakketten 5 uur in de op temperatuur gebrachte exsiccator. Neem daarna beide strookjes filtreerpapier uit de exsiccator en droog ze bij ongeveer 40 °C. Er mag geen kleurverschil tussen beide stroken waarneembaar zijn. Indien geen vlak stuk verpakkingsmateriaal of gebruiksvoorwerp beschikbaar is, handelt men als volgt:
 
 ### 5.3.5. N,N-bis(2-hydroxyethyl)alkyl(C12-c18)amine
 
-### 5.3.5.1. Migratie in waterige simulanten
+Gebruik kleurloze arachide-olie, kokosolie, zonnebloemolie, olijfolie of Miglyol. Handel op dezelfde wijze als onder 5.3.6.2 is beschreven, met dien verstande dat het filtreerpapier wordt verzadigd met vet(simulant) en er geen vet(simulant) in de exsiccator behoeft te worden gebracht. Het drogen van de strookjes filtreerpapier na afloop van de contactperiode kan achterwege blijven.
 
 ### 5.3.5.2. Migratie in vet
 
-### 5.3.6. Kleurstoffen – filtreerpapierproef
+**(basisvoorschrift)**
 
-Met kleurstoffen of pigmenten gekleurde verpakkingen of gebruiksartikelen mogen in de filtreerpapierproef geen kleurverschil ten opzichte van de blanco opleveren.
+### 5.3.6.1. Specificatie
+
+### 6. Sensorisch onderzoek
 
 ### 5.3.6.2. Uitvoering van de bepaling met 3% azijnzuur
 
-Breng in een exsiccator zoveel 3% azijnzuur, dat de bodem volledig bedekt is. Plaats de exsiccator in een ruimte met een temperatuur van 40 ± 2°C. Verzadig een strook filtreerpapier (voor kwalitatieve analyse, middelsnel) van 5 x 2 cm met 3% azijnzuur en leg het strookje op een vlak stuk verpakkingsmateriaal of gebruiksartikel van 9 x 6 cm. Bedek het strookje met een glasplaat van 9 x 6 cm en plaats hierop een gewicht van 0,1 kg. Breng op dezelfde wijze, als blanco, een met 3% azijnzuur bevochtigd strookje filtreerpapier tussen twee glasplaten en plaats beide pakketten 5 uur in de op temperatuur gebrachte exsiccator. Neem daarna beide strookjes filtreerpapier uit de exsiccator en droog ze bij ongeveer 40 °C. Er mag geen kleurverschil tussen beide stroken waarneembaar zijn. Indien geen vlak stuk verpakkingsmateriaal of gebruiksvoorwerp beschikbaar is, handelt men als volgt:
+### Sensorische beoordeling van verpakkingsmateriaal en gebruiksartikelen
 
-Breng in een exsiccator zoveel 3% azijnzuur, dat de bodem volledig bedekt is. Plaats de exsiccator in een ruimte met een temperatuur van 40 ± 2°C. Verzadig een strook filtreerpapier (voor kwalitatieve analyse, middelsnel) van 5 x 2 cm met 3% azijnzuur en leg het strookje op een vlak stuk verpakkingsmateriaal of gebruiksartikel van 9 x 6 cm. Bedek het strookje met een glasplaat van 9 x 6 cm en plaats hierop een gewicht van 0,1 kg. Breng op dezelfde wijze, als blanco, een met 3% azijnzuur bevochtigd strookje filtreerpapier tussen twee glasplaten en plaats beide pakketten 5 uur in de op temperatuur gebrachte exsiccator. Neem daarna beide strookjes filtreerpapier uit de exsiccator en droog ze bij ongeveer 40 °C. Er mag geen kleurverschil tussen beide stroken waarneembaar zijn. Indien geen vlak stuk verpakkingsmateriaal of gebruiksvoorwerp beschikbaar is, handelt men als volgt:
+### Bijlage 2
 
 ### 5.3.6.3. Uitvoering van de bepaling met vet(simulant)
 
-Gebruik kleurloze arachide-olie, kokosolie, zonnebloemolie, olijfolie of Miglyol. Handel op dezelfde wijze als onder 5.3.6.2 is beschreven, met dien verstande dat het filtreerpapier wordt verzadigd met vet(simulant) en er geen vet(simulant) in de exsiccator behoeft te worden gebracht. Het drogen van de strookjes filtreerpapier na afloop van de contactperiode kan achterwege blijven.
+### Bijlage 3
 
-### 5.3.7. Afgifte van N-nitrosaminen en N-nitroseerbare verbindingen door spenen en fopspenen van elastomeer of rubber
+**Resultaat van de driehoekstoets**
 
 **(basisvoorschrift)**
 
 ### 6. Sensorisch onderzoek
 
-### 6. Sensorisch onderzoek
-
 ### Bijlage 1
 
-### Sensorische beoordeling van verpakkingsmateriaal en gebruiksartikelen
+**Proeverformulier**
 
 ### Bijlage 2
 
@@ -558,37 +574,21 @@ Gebruik kleurloze arachide-olie, kokosolie, zonnebloemolie, olijfolie of Miglyol
 
 ### Bijlage 3
 
-**Resultaat van de driehoekstoets**
-
-**Resultaat van de driehoekstoets**
-
-### Bijlage 4
-
-### Bijlage 4
-
-**Proeverformulier**
-
-### Hoofdstuk II. Onderzoek van grond- en hulpstoffen
-
-### Hoofdstuk II. Onderzoek van grond- en hulpstoffen
-
-### 1. Absorptie van ultraviolet licht door vaste paraffinen en microkristallijne paraffinen
-
 **NB:**In de praktijk blijkt, dat ondanks zorgvuldige zuivering, DMSO van diverse leveranciers niet kan voldoen aan de bovengenoemde specificaties. Als kleine afwijkingen optreden, dient men in de verdere procedure daar rekening mee te houden.
 
 ### 2. Absorptie van ultraviolet licht door vloeibare paraffinen
 
 ### 2. Absorptie van ultraviolet licht door vloeibare paraffinen
 
-### 3. Absorptie van ultraviolet licht door montaanwassen
+### Bijlage 4
 
-### 4. De zuiverheid van roet (furnace black en channel black) en andere koolstofproducten zoals grafiet en cokespoeder
+### Sensorische beoordeling van verpakkingsmateriaal en gebruiksartikelen
 
 ### 4.1. Bepaling van het met tolueen oplosbare deel
 
-### 5. Het gehalte aan oplosbare elementen van kleurstoffen en pigmenten
+### Hoofdstuk II. Onderzoek van grond- en hulpstoffen
 
-### 6. Het gehalte aan oplosbare aromatische aminen van kleurstoffen en pigmenten
+### 1. Absorptie van ultraviolet licht door vaste paraffinen en microkristallijne paraffinen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -642,43 +642,55 @@ Stoffen die als additief zijn opgenomen in de lijst met stoffen die geautoriseer
 
 In het kader van deze regeling wordt onder papier en karton verstaan de uit vezels van organisch materiaal verkregen vliezen of folies respectievelijk gevormde gebruiksartikelen.
 
-### 2.1. Omschrijving
+### 1.2. .eisen gesteld aan de vervaardiging
 
 In het kader van deze regeling wordt onder papier en karton verstaan de uit vezels van organisch materiaal verkregen vliezen of foliën, resp. gevormde gebruiksartikelen, bestemd voor contact met eet- of drinkwaren bij temperaturen vanaf 80 °C tot en met kooktemperatuur.
 
-### 4. Eisen gesteld aan de vervaardiging van het eindproduct
+### 1. Omschrijving
 
 3Voor elke stof afzonderlijk en voor alle met c gemerkte stoffen in dezelfde categorie tezamen ten hoogste de vermelde waarde.
 
 ### 1. Omschrijving
 
-In het kader van deze regelingen vallen verpakkingen en gebruiksartikelen voor zover bestaande uit metaal, dat al dan niet voorzien kan zijn van een deklaag anders dan email.
+4 SML voor de som van tetraethylthiuramdisulfide, tetramethylthiuramdisulfide en tetramethylthiurammonosulfide
 
 ### 3. Gebruiksartikelen
 
-Gebruiksartikelen mogen uitsluitend worden vervaardigd uit de hierna genoemde materialen:
+7 SML voor de som van de natriumzouten van alkyl(C8-C18)benzeensulfonaten, alkyl(C8-C18)sulfaten en alkyl(C8-C18)sulfonaten.
 
-### 2.1. Omschrijving
+### Hoofdstuk V. – Glas en glaskeramiek
 
 In het kader van deze regeling worden onder emails verstaan de door smelten of fritten verkregen glasachtige massa’s van een anorganische, in hoofdzaak oxidische samenstelling, die in een of meer lagen op voorwerpen van metaal worden aangebracht en door verhitting gefixeerd.
 
-### 2.2. Eisen gesteld aan de vervaardiging
+### 2. Typen
 
 De bij de vervaardiging van emails toegepaste grond- en hulpstoffen moeten van een goede technische kwaliteit zijn. De hulpstoffen mogen niet in een grotere hoeveelheid worden gebruikt dan voor de vervaardiging van het eindproduct strikt noodzakelijk is.
 
-### 1. Omschrijving
+### 1. Keramische materialen
 
 Onder de werking van dit hoofdstuk vallen de door enigerlei bewerking met elkaar verbonden natuurlijke en synthetische textielvezels.
 
-### 1. Omschrijving
+### 2.3. Eisen gesteld aan het eindproduct
 
 In het kader van deze regeling vallen de uit hout of kurk of op basis van hout of kurk vervaardigde verpakkingen en gebruiksartikelen.
 
-### 1. Omschrijving
+### 3. Eisen gesteld aan het eindproduct
 
 In het kader van deze regeling wordt onder een deklaag verstaan een laag aangebracht op een reeds bestaand substraat, met uitzondering van folie van geregenereerde cellulose:
 
+### Hoofdstuk IX. – Hout en kurk
+
+In het kader van deze regeling vallen de uit hout of kurk of op basis van hout of kurk vervaardigde verpakkingen en gebruiksartikelen.
+
 ### 2. Eisen gesteld aan de vervaardiging
+
+Hieronder worden in deze verstaan dispersies van macromoleculaire stoffen in water voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt:
+
+### Hoofdstuk X. – Deklagen
+
+Hieronder worden in deze verstaan dispersies in water van paraffinen en wassen vermeld in Hoofdstuk II paragraaf 1.2.2 i. voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt:
+
+### 5. Dispersies van macromoleculaire stoffen in organische vloeistoffen
 
 Geen andere stoffen dan de hierboven genoemde, de daaruit gevormde materialen, alsmede eventuele ontledingsproducten daarvan, mogen in het eindproduct aanwezig zijn.
 
@@ -692,19 +704,7 @@ Hieronder worden in deze verstaan dispersies in water van paraffinen en wassen v
 
 ### 5. Dispersies van macromoleculaire stoffen in organische vloeistoffen
 
-stoffen volgens Hoofdstuk IV, paragraaf 2.2 g.
-
-### 6. Oplossingen in water
-
-Hieronder worden in deze verstaan oplossingen in water van macromoleculaire stoffen voor de vervaardiging waarvan uitsluitend gebruik mag worden gemaakt van de hieronder vermelde stoffen:
-
-### 7. Oplossingen in organische oplosmiddelen
-
-Hieronder worden in deze verstaan oplossingen in een organisch oplosmiddel, of een mengsel van organische oplosmiddelen, van macromoleculaire stoffen voor de vervaardiging waarvan uitsluitend gebruik mag worden gemaakt van de hieronder vermelde stoffen;
-
-### 8. Oplosmiddelvrij materiaal bestaande uit wassen en wasachtige producten
-
-Het gewicht van de opgebrachte laag mag in geval van continu contact tussen levensmiddel en verpakkingsmateriaal ten hoogste 50 g/m2 bedragen; in geval van discontinu contact evenwel ten hoogste 100 g/m2. Voor het verpakken van vette levensmiddelen zijn deze materialen slechts toegestaan mits het vetgehalte lager is dan 40% en tevens het contact tussen verpakkingsmateriaal en verpakte waar overwegend discontinu is.
+polyvinylchloride, volgens Hoofdstuk I;
 
 ### 9. Overige oplosmiddelvrije materialen
 
@@ -714,41 +714,41 @@ Hieronder worden in deze verstaan de onder a. vermelde stoffen, waaraan al dan n
 
 Hieronder worden in deze verstaan lagen, door verdampen van metaal aangebracht op een reeds bestaand substraat, alsmede de deklagen volgens Hoofdstuk IV paragraaf 2 en 3.
 
-### 11.1. Omschrijving
+### 8. Oplosmiddelvrij materiaal bestaande uit wassen en wasachtige producten
 
-Het product bestaande uit polytetrafluoretheen zoals genoemd onder 11.2.1.1a., alsmede het product bestaande uit een mengsel van dit polymeer en één of meer van de fluorpolymeren, zoals genoemd onder 11.2.1.1 b. en 11.2.1.1 c., welke producten vermengd mogen zijn met een of meer van de bindharsen genoemd onder 11.2.1.2.
+Hieronder worden in deze verstaan materialen op basis van wassen of macromoleculaire stoffen voor de vervaardiging waarvan uitsluitend de hieronder vermelde stoffen mogen worden gebruikt. Bij sommige stoffen is vermeld welk percentage (gewicht) zij ten hoogste van de deklaag mogen vormen.
 
 ### Toelichting
 
-Voor zover in voorafgaande hoofdstukken reeds stoffen en materialen voor de vervaardiging van deklagen zijn geregeld, blijft het gebruik daarvan toegestaan.
+Hieronder worden in deze verstaan lagen, door verdampen van metaal aangebracht op een reeds bestaand substraat, alsmede de deklagen volgens Hoofdstuk IV paragraaf 2 en 3.
 
-### 1. Inleiding
+### 11.1. Omschrijving
 
 Kleurstoffen en pigmenten kunnen, bijvoorbeeld door middel van een drukinkt, aan de buitenzijde van de verpakking zijn aangebracht. Indien, via overdracht, kleurstof van de buitenzijde kan overgaan naar de voedselcontactzijde, dan zijn onderstaande regels en eisen ook van toepassing op materialen die aan de buitenzijde zijn gekleurd.
 
-### 2. Toegelaten stoffen
+### Toelichting
 
-Kleurstoffen en pigmenten voor het kleuren en bedrukken van verpakkingsmateriaal en gebruiksartikelen zijn toegelaten mits zij voldoen aan het gestelde in onderdeel 3 van dit hoofdstuk. Het eindproduct dient te voldoen aan de hieronder gestelde eisen en artikel 3 van Verordening (EG) nr. 1935/2004 en aan de eisen gesteld in onderdeel 4 van dit hoofdstuk.
+Het onderhavige Hoofdstuk X Deklagen is bedoeld als een algemene regeling voor deklagen met uitzondering van deklagen voor folie van geregenereerde cellulose, waarvoor in Hoofdstuk VIII een specifieke regeling is opgenomen.
 
 ### 1. Omschrijving
 
-De producten verkregen door een polyadditiereactie van epoxygroepen bevattende verbindingen met stoffen, die twee of meer actieve waterstofatomen per molecuul bevatten of deze tijdens de reactie kunnen vormen (verharders), of met condensatieproducten van polyolen en isocyanaten. Het polymere gedeelte van het eindproduct moet voor ten minste 50% uit epoxypolymeer bestaan.
+De kleurstoffen kunnen worden gemengd met hulpstoffen om de technische verwerking mogelijk te maken of te verbeteren. De stoffen gebruikt als hulpstoffen dienen te voldoen aan artikel 3 van Verordening (EG) nr. 1935/2004. Indien de kleurstoffen of pigmenten worden gemengd met basismaterialen of toegelaten hulpstoffen waarvoor (Europese) regelgeving voor voedselcontact is vastgesteld, dan dient het eindproduct te voldoen aan de daarin vastgestelde eisen.
 
 ### 2. Eisen gesteld aan de vervaardiging
 
 (1) De som van de migratie van alle stoffen gemarkeerd met (1) mag niet hoger zijn dan 60 mg/kg.
 
-### 4.1. Verklaring van overeenstemming
+### 1. Omschrijving
 
-De materialen vervaardigd van epoxypolymeer, al dan niet voorzien van een deklaag, en de voor de vervaardiging van de epoxypolymere verpakkingen en gebruiksartikelen bedoelde hulpstoffen gaan, wanneer zij worden verkocht en de verkoop niet in de detailhandel plaatsvindt, vergezeld van een schriftelijke verklaring overeenkomstig artikel 16 van Verordening (EG) nr. 1935/2004 en paragraaf 0.9 van Hoofdstuk 0, bijlage deel A.
+De producten verkregen door een polyadditiereactie van epoxygroepen bevattende verbindingen met stoffen, die twee of meer actieve waterstofatomen per molecuul bevatten of deze tijdens de reactie kunnen vormen (verharders), of met condensatieproducten van polyolen en isocyanaten. Het polymere gedeelte van het eindproduct moet voor ten minste 50% uit epoxypolymeer bestaan.
 
 ### 1. Overzicht van te onderzoeken aspecten
 
 In Sectie 5 en 6 van dit hoofdstuk en in hoofdstuk II zijn enkele voorschriften opgenomen die nog steeds bruikbaar zijn. Andere voorschriften zijn opgenomen omdat zij verbonden zijn aan bepaalde eisen in deze regeling of het gevolg zijn van de implementatie van EU-richtlijnen. De betreffende voorschriften moeten als richtlijn worden gezien tenzij uitdrukkelijk vermeld bij de betreffende stof of bij het betreffende voorschrift.
 
-### 2.1. Identificatie van het materiaal en de gebruikte stoffen
+### Hoofdstuk I. Onderzoek van verpakkingen en gebruiksartikelen
 
-In de literatuur zijn overzichten van chemische en fysische methoden beschikbaar, die voor de karakterisering van diverse soorten materialen kunnen worden toegepast.
+Door de snelle ontwikkeling van nieuwe analytische technieken, ten aanzien van identificatie, selectiviteit en detectielimiet van specifieke stoffen, is het niet zinvol om gedetailleerde analysemethoden in deze regeling op te nemen. Iedere analysemethode mag worden toegepast om overeenstemming met de regelgeving aan te tonen mits de methode een, bij het relevante criterium voor de betreffende stof (selectiviteit, detectiegrens, nauwkeurigheid, etc.), passende bepalingskarakteristiek heeft. Analysemethoden die worden toegepast dienen adequaat te zijn gevalideerd zodat de betrouwbaarheid van de betreffende analysemethode kan worden aangetoond via ondersteunende documenten.
 
 ### 3. Kwantitatief onderzoek van de samenstelling
 
@@ -756,9 +756,17 @@ Het Joint Research Centre (JRC)27http://crl-fcm.jrc.it/ in Ispra, Italië heeft 
 
 ### 4.1.1.1. Onderzoek aan kunststofmaterialen
 
-Voor het onderzoek van kunststofmaterialen wordt verwezen naar de betreffende Verordening van de Europese Commissie (EU) nr. 10/2011. Voor stoffen die uitgesloten zijn van deze Europese verordening en die zijn opgenomen in hoofdstuk I gelden dezelfde regels ten aanzien van het aantonen van overeenstemming met eisen van deze regeling als voor de stoffen die op Europees niveau zijn geharmoniseerd en waarvoor de eisen zijn opgenomen in de Verordening (EU) nr. 10/2011. Regels en eisen vastgelegd in hoofdstuk 0 en hoofdstuk I van bijlage deel A dienen in acht te worden genomen.
+In de literatuur zijn overzichten van chemische en fysische methoden beschikbaar, die voor de karakterisering van diverse soorten materialen kunnen worden toegepast.
 
-### 4.1.1.2. Onderzoek aan materialen die niet of niet uitsluitend uit kunststof bestaan
+### 3. Kwantitatief onderzoek van de samenstelling
+
+Het Joint Research Centre (JRC)27http://crl-fcm.jrc.it/ in Ispra, Italië heeft documenten opgesteld voor het valideren van analyse methoden. Bovendien verwijst de website van het JRC naar methoden ontwikkeld en gevalideerd door CEN (European Committee for Standardisation), Technical Committee 194. De richtlijnen kunnen worden toegepast voor de controle op residuen van stoffen in materialen.
+
+### 4. Onderzoek naar de migratie van bestanddelen
+
+Alternatieve proeven zoals beschreven in paragraaf 4.2.2 mogen worden toegepast om overeenstemming met de gestelde eisen aan te tonen.
+
+### 5.1. Algemeen
 
 Bovendien gelden de volgende afwijkingen en toevoegingen ten aanzien van Verordening (EU) nr. 10/2011:
 
@@ -766,39 +774,31 @@ Bovendien gelden de volgende afwijkingen en toevoegingen ten aanzien van Verorde
 
 Alternatieve proeven zoals beschreven in paragraaf 4.2.2 mogen worden toegepast om overeenstemming met de gestelde eisen aan te tonen.
 
-### 5.1. Algemeen
-
-Algemene instructies voor het uitvoeren van migratieproeven zijn vastgelegd in de Europese normen EN 1186-1* en EN 13130-1*. Alhoewel de methoden zijn bedoeld voor het onderzoek van plastics zijn ze ook toepasbaar op materialen die niet of niet uitsluitend uit kunststof bestaan.
-
-### 5.2. Totale migratie
-
-Indien een gemigreerde stof een reactie product vormt met de simulant en daardoor resulteert in een hoger of lager gewicht31Met name migratie in 3% azijnzuur kan aanleiding geven tot gewichtsverschil van gemigreerde stof en reactie product. B.v.: door migratie van aluminium zal aluminiumacetaat ontstaan dat een aanzienlijk hoger molecuulgewicht heeft waardoor het gewicht van de totale migratie toeneemt met het acetaat deel. Door bepaling van de hoeveelheid Al kan een correctie worden uitgevoerd voor de acetaat bijdrage. Voor zouten (b.v. calciumcarbonaat) dient het gewichtsverschil tussen het gemigreerde zout en het azijnzure zout in aanmerking te worden genomen., dan kan het migratieresidu worden gecorrigeerd voor het gewichtsverschil tussen de gemigreerde stof en het reactieproduct van de simulant.
-
-### 5.2.1. Bepaling van het in methyleenchloride oplosbare deel van de totale migratie in waterige simulanten
+### 4.2.1. Vervangende migratieproeven
 
 NB Deze bepaling wordt uitsluitend uitgevoerd bij het onderzoek van papier of karton, dat niet van een deklaag op basis van een kunststof of van metaal is voorzien en voor zover het in contact zal komen met natte eet of drinkwaren.
 
-### 5.3. Specifieke migratie
+### 5. Uitvoering van migratieproeven
 
 Onderstaande methoden kunnen worden toegepast voor het onderzoek van kunststofmaterialen en niet-kunststofmaterialen.
 
-### 5.3.6.1. Specificatie
+### 5.3.3.2. Migratie in vet
 
 Met kleurstoffen of pigmenten gekleurde verpakkingen of gebruiksartikelen mogen in de filtreerpapierproef geen kleurverschil ten opzichte van de blanco opleveren.
 
-### 5.3.6.2. Uitvoering van de bepaling met 3% azijnzuur
+### 5.3.4.1. Migratie in waterige simulanten
 
 Breng een strook filtreerpapier van geschikte grootte (10 à 15 cm2), dat verzadigd is met 3% azijnzuur, op het oppervlak van het verpakkingsmateriaal of gebruiksvoorwerp. Leg er een stuk aluminiumfolie overheen zodanig, dat het aan alle zijden ongeveer 0,5 cm over het filtreerpapier uitsteekt. Kleef de aluminiumfolie vast met kleurloos plakband en handel verder als hiervoor beschreven.
 
-### 5.3.6.3. Uitvoering van de bepaling met vet(simulant)
+### 5.3.5.1. Migratie in waterige simulanten
 
 Gebruik kleurloze arachide-olie, kokosolie, zonnebloemolie, olijfolie of Miglyol. Handel op dezelfde wijze als onder 5.3.6.2 is beschreven, met dien verstande dat het filtreerpapier wordt verzadigd met vet(simulant) en er geen vet(simulant) in de exsiccator behoeft te worden gebracht. Het drogen van de strookjes filtreerpapier na afloop van de contactperiode kan achterwege blijven.
 
-### 5.3.7. Afgifte van N-nitrosaminen en N-nitroseerbare verbindingen door spenen en fopspenen van elastomeer of rubber
+### 5.3.6. Kleurstoffen – filtreerpapierproef
 
 **(basisvoorschrift)**
 
-### Sensorische beoordeling van verpakkingsmateriaal en gebruiksartikelen
+### 5.3.7. Afgifte van N-nitrosaminen en N-nitroseerbare verbindingen door spenen en fopspenen van elastomeer of rubber
 
 **CONCLUSIE:**
 
@@ -806,9 +806,121 @@ Gebruik kleurloze arachide-olie, kokosolie, zonnebloemolie, olijfolie of Miglyol
 
 **Proeverformulier**
 
+### Sensorische beoordeling van verpakkingsmateriaal en gebruiksartikelen
+
+**Resultaat van de driehoekstoets**
+
 ### Bijlage 1. Werkwijze voor het bereiden van dimethylsulfoxide voor spectrofotometrie uit een minder zuiver product
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+(6) De som van de migratie van alle stoffen gemarkeerd met (6) mag niet aantoonbaar zijn met een methode met een detectiegrens van 0,05 mg/kg.
+
+(7) De som van de migratie van alle stoffen gemarkeerd met (7) mag niet aantoonbaar zijn met een methode met een detectiegrens van 0,05 mg/kg.
+
+In het kader van deze regeling wordt onder papier en karton verstaan alle cellulose gebaseerde vezelmaterialen die vanuit een suspensie gevormd zijn tot een samenhangend vel of baan, al dan niet met toevoeging van vul- en/of hulpstoffen, en daarvan vervaardigde verpakkingen en gebruiksartikelen.
+
+In dit deel worden de eisen beschreven die gelden voor papier en karton dat is bestemd voor contact met eet- of drinkwaren bij temperaturen vanaf 80°C tot en met kooktemperatuur.
+
+### 2. Specificatie van de elastomeren
+
+### 3. Indeling van rubberproducten in categorieën
+
+1 Met NA (niet aantoonbaar) wordt bedoeld een waarde van ten hoogste 0,01.
+
+2 Voor praktische toepassing wordt aangenomen dat men voor een kind vijf wegwerpspenen per dag gebruikt. De specifieke migratielimiet per speen is derhalve een vijfde deel van de in de tabel vermelde waarde. Voor meermalig te gebruiken spenen en fopspenen is het in bijlage deel B, hoofdstuk I, onderdeel 4.2.1, onder 5, en onderdeel 4.2.2, onder 1, bepaalde ten aanzien van onderzoek van voorwerpen die bestemd zijn om meerdere malen met levensmiddelen in contact te komen van overeenkomstige toepassing.
+
+5 SML voor de som van zinkdibutyldithiocarbamaat, zinkdiethyldithiocarbamaat, zinkdimethyldithiocarbamaat, zinkethylfenyldithiocarbamaat en zinkpentamethyleendithiocarbamaat.
+
+8 SML voor de som van bis(2-hydroxyethyl)ether en ethaandiol.
+
+In het kader van deze regelingen vallen verpakkingen en gebruiksartikelen voor zover bestaande uit metaal, dat al dan niet voorzien kan zijn van een deklaag anders dan email.
+
+Gebruiksartikelen mogen uitsluitend worden vervaardigd uit de hierna genoemde materialen:
+
+In het kader van deze regeling worden onder emails verstaan de door smelten of fritten verkregen glasachtige massa’s van een anorganische, in hoofdzaak oxidische samenstelling, die in een of meer lagen op voorwerpen van metaal worden aangebracht en door verhitting gefixeerd.
+
+De bij de vervaardiging van emails toegepaste grond- en hulpstoffen moeten van een goede technische kwaliteit zijn. De hulpstoffen mogen niet in een grotere hoeveelheid worden gebruikt dan voor de vervaardiging van het eindproduct strikt noodzakelijk is.
+
+Onder de werking van dit hoofdstuk vallen de door enigerlei bewerking met elkaar verbonden natuurlijke en synthetische textielvezels.
+
+### 1. Omschrijving
+
+### 2. Eisen gesteld aan de vervaardiging
+
+Hieronder worden in deze verstaan oplossingen in een organisch oplosmiddel, of een mengsel van organische oplosmiddelen, van macromoleculaire stoffen voor de vervaardiging waarvan uitsluitend gebruik mag worden gemaakt van de hieronder vermelde stoffen;
+
+Het gewicht van de opgebrachte laag mag in geval van continu contact tussen levensmiddel en verpakkingsmateriaal ten hoogste 50 g/m2 bedragen; in geval van discontinu contact evenwel ten hoogste 100 g/m2. Voor het verpakken van vette levensmiddelen zijn deze materialen slechts toegestaan mits het vetgehalte lager is dan 40% en tevens het contact tussen verpakkingsmateriaal en verpakte waar overwegend discontinu is.
+
+### 10. Metallische deklagen
+
+### 11.2. Eisen gesteld aan de vervaardiging
+
+Voor zover in voorafgaande hoofdstukken reeds stoffen en materialen voor de vervaardiging van deklagen zijn geregeld, blijft het gebruik daarvan toegestaan.
+
+### 2. Toegelaten stoffen
+
+Voor de vervaardiging en verwerking van epoxypolymeren mogen uitsluitend de hiervoor omschreven verbindingen en de hierna genoemde hulpstoffen worden gebruikt. Deze moeten van een goede technische kwaliteit zijn en mogen niet in grotere hoeveelheden worden gebruikt dan voor de vervaardiging van het eindproduct strikt noodzakelijk is.
+
+Geen andere stoffen dan de hiervoor omschreven verbindingen, het door polyadditie respectievelijk polycondensatie daaruit verkregen product en de hulpstoffen opgenomen in Tabel XII-1, alsmede eventuele ontledingsproducten daarvan, mogen in het eindproduct aanwezig zijn:
+
+### 3. Eisen gesteld aan het eindproduct
+
+### 4. Algemene eisen
+
+### 4.1. Verklaring van overeenstemming
+
+### 1. Overzicht van te onderzoeken aspecten
+
+### 2. Richtlijnen voor kwalitatief onderzoek van de samenstelling
+
+De identificatie van het te onderzoeken materiaal is van belang voor het verdere onderzoek.
+
+Analytische methoden zijn beschikbaar zoals infrarood spectrometrie, nuclear magnetic resonance (NMR), chromatografische technieken met specifieke detectiemethoden waarmee de identiteit van een materiaal kan worden vastgesteld. Afhankelijk van de complexiteit van het materiaal (bijvoorbeeld meerlaagsmateriaal) dient het onderzoek te worden aangepast.
+
+Bij het onderzoek naar de samenstelling kan het essentieel zijn, of zal het onderzoek vereenvoudigen, als informatie wordt ingewonnen bij de producent van het materiaal. De verklaring van overeenkomst en de bewijsvoerende documenten kunnen daartoe worden geraadpleegd.
+
+### 4.1. Voorschriften voor de toetsing van de migratie aan de gestelde grenswaarden
+
+Voor het onderzoek van kunststofmaterialen wordt verwezen naar de betreffende Verordening van de Europese Commissie (EU) nr. 10/2011. Voor stoffen die uitgesloten zijn van deze Europese verordening en die zijn opgenomen in hoofdstuk I gelden dezelfde regels ten aanzien van het aantonen van overeenstemming met eisen van deze regeling als voor de stoffen die op Europees niveau zijn geharmoniseerd en waarvoor de eisen zijn opgenomen in de Verordening (EU) nr. 10/2011. Regels en eisen vastgelegd in hoofdstuk 0 en hoofdstuk I van bijlage deel A dienen in acht te worden genomen.
+
+Algemene instructies voor het uitvoeren van migratieproeven zijn vastgelegd in de Europese normen EN 1186-1* en EN 13130-1*. Alhoewel de methoden zijn bedoeld voor het onderzoek van plastics zijn ze ook toepasbaar op materialen die niet of niet uitsluitend uit kunststof bestaan.
+
+De totale migratie is de som van alle niet vluchtige stoffen die door een verpakking of gebruiksartikel aan een simulant worden afgegeven. De totale migratie in simulanten wordt bepaald volgens de methoden beschreven in de EN 118630Verkrijgbaar via NEN, Postbus 5059, 2600 GB Delft.
+
+Indien een gemigreerde stof een reactie product vormt met de simulant en daardoor resulteert in een hoger of lager gewicht31Met name migratie in 3% azijnzuur kan aanleiding geven tot gewichtsverschil van gemigreerde stof en reactie product. B.v.: door migratie van aluminium zal aluminiumacetaat ontstaan dat een aanzienlijk hoger molecuulgewicht heeft waardoor het gewicht van de totale migratie toeneemt met het acetaat deel. Door bepaling van de hoeveelheid Al kan een correctie worden uitgevoerd voor de acetaat bijdrage. Voor zouten (b.v. calciumcarbonaat) dient het gewichtsverschil tussen het gemigreerde zout en het azijnzure zout in aanmerking te worden genomen., dan kan het migratieresidu worden gecorrigeerd voor het gewichtsverschil tussen de gemigreerde stof en het reactieproduct van de simulant.
+
+NB Deze bepaling wordt uitsluitend uitgevoerd bij het onderzoek van papier of karton, dat niet van een deklaag op basis van een kunststof of van metaal is voorzien en voor zover het in contact zal komen met natte eet of drinkwaren.
+
+Onderstaande methoden kunnen worden toegepast voor het onderzoek van kunststofmaterialen en niet-kunststofmaterialen.
+
+### 5.3.4.2. Migratie in vet
+
+Met kleurstoffen of pigmenten gekleurde verpakkingen of gebruiksartikelen mogen in de filtreerpapierproef geen kleurverschil ten opzichte van de blanco opleveren.
+
+Breng in een exsiccator zoveel 3% azijnzuur, dat de bodem volledig bedekt is. Plaats de exsiccator in een ruimte met een temperatuur van 40 ± 2°C. Verzadig een strook filtreerpapier (voor kwalitatieve analyse, middelsnel) van 5 x 2 cm met 3% azijnzuur en leg het strookje op een vlak stuk verpakkingsmateriaal of gebruiksartikel van 9 x 6 cm. Bedek het strookje met een glasplaat van 9 x 6 cm en plaats hierop een gewicht van 0,1 kg. Breng op dezelfde wijze, als blanco, een met 3% azijnzuur bevochtigd strookje filtreerpapier tussen twee glasplaten en plaats beide pakketten 5 uur in de op temperatuur gebrachte exsiccator. Neem daarna beide strookjes filtreerpapier uit de exsiccator en droog ze bij ongeveer 40 °C. Er mag geen kleurverschil tussen beide stroken waarneembaar zijn. Indien geen vlak stuk verpakkingsmateriaal of gebruiksvoorwerp beschikbaar is, handelt men als volgt:
+
+Breng een strook filtreerpapier van geschikte grootte (10 à 15 cm2), dat verzadigd is met 3% azijnzuur, op het oppervlak van het verpakkingsmateriaal of gebruiksvoorwerp. Leg er een stuk aluminiumfolie overheen zodanig, dat het aan alle zijden ongeveer 0,5 cm over het filtreerpapier uitsteekt. Kleef de aluminiumfolie vast met kleurloos plakband en handel verder als hiervoor beschreven.
+
+Gebruik kleurloze arachide-olie, kokosolie, zonnebloemolie, olijfolie of Miglyol. Handel op dezelfde wijze als onder 5.3.6.2 is beschreven, met dien verstande dat het filtreerpapier wordt verzadigd met vet(simulant) en er geen vet(simulant) in de exsiccator behoeft te worden gebracht. Het drogen van de strookjes filtreerpapier na afloop van de contactperiode kan achterwege blijven.
+
+**CONCLUSIE:**
+
+**Proeverformulier**
+
 **NB:**In de praktijk blijkt, dat ondanks zorgvuldige zuivering, DMSO van diverse leveranciers niet kan voldoen aan de bovengenoemde specificaties. Als kleine afwijkingen optreden, dient men in de verdere procedure daar rekening mee te houden.
+
+### 2. Absorptie van ultraviolet licht door vloeibare paraffinen
+
+### 3. Absorptie van ultraviolet licht door montaanwassen
+
+### 4. De zuiverheid van roet (furnace black en channel black) en andere koolstofproducten zoals grafiet en cokespoeder
+
+### 4.1. Bepaling van het met tolueen oplosbare deel
+
+### 5. Het gehalte aan oplosbare elementen van kleurstoffen en pigmenten
+
+### 6. Het gehalte aan oplosbare aromatische aminen van kleurstoffen en pigmenten
 
 ### Hoofdstuk III. Risico evaluatie van niet opzettelijk toegevoegde stoffen (NIAS) op basis van het TTC principe
 
