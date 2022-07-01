@@ -4,7 +4,7 @@ identifier: "BWBR0046444"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-04-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046444"
 soort: "wet"
@@ -105,8 +105,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Mediawet 2008
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel Xa. [Tweede Verzamelspoedwet COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043880)
 
 Wijzigt de Tweede Verzamelspoedwet COVID-19.
@@ -167,8 +165,6 @@ Wijzigt de Wet primair onderwijs BES.
 
 Wijzigt de Wet stelsel openbare bibliotheekvoorzieningen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXII. [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
 Wijzigt de Wet studiefinanciering 2000.
@@ -209,13 +205,9 @@ Wijzigt de Wijzigingswet Wet op het primair onderwijs, enz. (vereenvoudiging bek
 
 Wijzigt deze wet of de Wijzigingswet Wet educatie en beroepsonderwijs, enz. met het oog op de verbetering van de rechtsbe-scherming van mbo-studenten (Kamerstukken 35 625).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXX. Samenloop wetsvoorstel bestuurlijke harmonisatie beroepsonderwijs
 
 Wijzigt deze wet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXI. Inwerkingtreding
 
@@ -223,9 +215,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. In dat besluit kan worden bepaald dat:
 
-- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2022-04-01&g=2022-04-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
+- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2022-07-01&g=2022-07-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
 
-- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2022-04-01&g=2022-04-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
+- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2022-07-01&g=2022-07-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
 
 ##### Artikel XXXII. Citeertitel
 
