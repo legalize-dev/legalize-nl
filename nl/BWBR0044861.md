@@ -4,7 +4,7 @@ identifier: "BWBR0044861"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-07-01"
-last_updated: "2021-03-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044861"
 soort: "zbo"
@@ -62,21 +62,23 @@ In dit besluit wordt verstaan onder:
 
 - c. het verrichten van taken ten behoeve van de afgifte van een fytosanitair uitvoercertificaat als bedoeld in artikel 100 van [verordening 2016/2031](32031R2016) met uitzondering van de afgifte van een fytosanitair uitvoercertificaat en het eindonderzoek van de voor export gereedstaande zending;
 
-- d. voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de aanzegging, bedoeld in [artikel 14 van de regeling](onbekend).
+- d. voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de aanzegging, bedoeld in [artikel 14 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=14).
 
 2. Aan het hoofd keuringen van de Naktuinbouw wordt mandaat, volmacht en machtiging verleend voor:
 
 - a. het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 93 van de Zaaizaad en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=93), aangaande het teeltmateriaal van tuinbouwgewassen, alsmede de hiermee samenhangende besluiten;
 
-- b. de uitgifte van legitimatiebewijzen aan de medewerkers van de Naktuinbouw die zijn aangewezen als toezichthouder, bedoeld in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=22).
+- b. het bij dwangbevel invorderen van de op grond van [artikel 2 lid 1 onderdeel e van het Besluit mandaat, volmacht en machtiging keuringsdiensten 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&artikel=2) verschuldigde bedragen, verhoogd met invorderingskosten;
+
+- c. de uitgifte van legitimatiebewijzen aan de medewerkers van de Naktuinbouw die zijn aangewezen als toezichthouder, bedoeld in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=22).
 
 3. Aan het hoofd Keuringen, de managers Keuringen en de keurmeesters van de Naktuinbouw wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor:
 
 - a. het mededelen van de uitslagen van de onderzoeken als bedoeld in artikel 47, eerste lid, onderdeel c, van [verordening 2017/625](32525R2017);
 
-- b. voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de verklaring, bedoeld in [artikel 35, eerste lid, van de regeling](onbekend).
+- b. voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de verklaring, bedoeld in [artikel 35, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=35).
 
-4. Aan de managers Keuringen, de keurmeesters en de inspectiemedewerkers bacterievuurcontrole van de Naktuinbouw wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het opleggen van het verbod tot vervoeren of verplaatsen en het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 2 van de regeling](onbekend).
+4. Aan de managers Keuringen, de keurmeesters en de inspectiemedewerkers bacterievuurcontrole van de Naktuinbouw wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het opleggen van het verbod tot vervoeren of verplaatsen en het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=2).
 
 ##### Artikel 3
 
@@ -86,7 +88,9 @@ Aan het hoofd van de afdeling Financiën en Middelen van de Naktuinbouw wordt ma
 
 - b. werkzaamheden die door medewerkers zijn verricht op grond van de overeenkomst als onbezoldigd ambtenaar;
 
-- c. de verrichte werkzaamheden voor het doen van bijschrijvingen op een certificaat ten behoeve van zendingen van producten die onder de Overeenkomst inzake internationale handel in bedreigde in het wildlevende dier- en plantsoorten (Trb. 50 (1973) nr. 22) vallen.
+- c. de verrichte werkzaamheden voor het doen van bijschrijvingen op een certificaat ten behoeve van zendingen van producten die onder de Overeenkomst inzake internationale handel in bedreigde in het wildlevende dier- en plantsoorten (Trb. 50 (1973) nr. 22) vallen;
+
+- d. het bij dwangbevel invorderen van de op grond van [artikel 2 lid 1 onderdeel e van het Besluit mandaat, volmacht en machtiging keuringsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&artikel=2) verschuldigde bedragen, verhoogd met invorderingskosten.
 
 ##### Artikel 4
 
