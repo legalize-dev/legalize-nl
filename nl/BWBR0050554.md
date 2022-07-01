@@ -4,7 +4,7 @@ identifier: "BWBR0050554"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2021-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050554"
 soort: "wet"
@@ -41,8 +41,6 @@ entry_into_force: "2024-12-11"
 ##### Artikel I. [Algemene pensioen- en uitkeringswet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
 
 Wijzigt de Algemene pensioen- en uitkeringswet politieke ambtsdragers.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. [Wet aanpassing Appa en enkele andere wetten 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045388)
 
