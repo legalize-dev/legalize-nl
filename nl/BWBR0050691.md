@@ -4,7 +4,7 @@ identifier: "BWBR0050691"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050691"
 soort: "AMvB"
@@ -93,6 +93,24 @@ Wijzigt het Besluit personenchauffeurs defensie.
 Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
 
 ##### Artikel 5.3
+
+Wijzigt het Inkomstenbesluit militairen.
+
+### Hoofdstuk 8. Wijzigingen met ingang van 1 januari 2023
+
+### Hoofdstuk 9. Wijzigingen met ingang van 1 juli 2023
+
+### Hoofdstuk 7. Wijzigingen met ingang van 1 september 2022
+
+##### Artikel 6.1
+
+Wijzigt het Algemeen militair ambtenarenreglement.
+
+##### Artikel 6.2
+
+Wijzigt het Burgerlijk ambtenarenreglement defensie.
+
+##### Artikel 6.3
 
 Wijzigt het Inkomstenbesluit militairen.
 
