@@ -93,15 +93,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XI. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 24 oktober 2022, nr. 2022-0000213285;
-
-Gelet op [artikel 78f van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78f), [artikel 7, eerste lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=7), [artikel 3, vierde en vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=3), [artikel 3, eerste lid, onderdeel c, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=3), [artikelen 1.47b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.47b), en [1.81, vierde lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.81), [artikel 3, vierde en vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3), [artikelen 33, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), [42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=42), en [73, vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), [artikel 8, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=8) en [artikel 3, vierde en vijfde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 23 november 2022, nr. W12.22.00135/III);
-
-Gezien het nader rapport van 7 december 2022 nr. 2022-0000251578;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
