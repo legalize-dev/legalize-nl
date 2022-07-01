@@ -4,7 +4,7 @@ identifier: "BWBR0009284"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2015-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009284"
 soort: "AMvB"
@@ -52,11 +52,11 @@ In dit besluit wordt verstaan onder de wet: de [Wet arbeidsongeschiktheidsvoorzi
 
 ##### Artikel 2. Uitbreiding van de kring van ingezetenen
 
-Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt mede verstaan onder ingezetene: de persoon, die buiten Nederland woont en die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=5) of [8 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=8) verplicht verzekerd is voor de volksverzekeringen.
+Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt mede verstaan onder ingezetene: de persoon, die buiten Nederland woont en die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=5), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=8) of [28c van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](onbekend) verplicht verzekerd is voor de volksverzekeringen.
 
 ##### Artikel 3. Eigen kind, aangehuwd kind of pleegkind van ontwikkelingswerker
 
-1. Voor de toepassing van de wet wordt mede verstaan onder ingezetene: het eigen kind, het aangehuwde kind of het pleegkind van de persoon, die is uitgezonden om door de Minister voor Ontwikkelingssamenwerking aan te wijzen werkzaamheden in het kader van ontwikkelingssamenwerking te verrichten, dat gedurende het tijdvak, waarin bedoelde werkzaamheden worden verricht tot de huishouding van die persoon behoort, tenzij het kind gedurende bedoeld tijdvak werkzaamheden verricht.
+1. Voor de toepassing van de wet wordt mede verstaan onder ingezetene: het eigen kind, het aangehuwde kind of het pleegkind van de persoon, die is uitgezonden om door de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking aan te wijzen werkzaamheden in het kader van ontwikkelingssamenwerking te verrichten, dat gedurende het tijdvak, waarin bedoelde werkzaamheden worden verricht tot de huishouding van die persoon behoort, tenzij het kind gedurende bedoeld tijdvak werkzaamheden verricht.
 
 2. Het eerste lid is niet van toepassing op het pleegkind van de aldaar bedoelde persoon, dat eerst gedurende het tijdvak, waarin de in het eerste lid bedoelde werkzaamheden worden verricht, tot diens huishouding is gaan behoren.
 
@@ -64,7 +64,7 @@ Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 ##### Artikel 4. Beperking van de kring van ingezetenen
 
-Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt niet verstaan onder ingezetene: de persoon, die op grond van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=9a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=16), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=18) of [20 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=20) niet verplicht verzekerd is voor de volksverzekeringen.
+Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt niet verstaan onder ingezetene: de persoon, die op grond van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=9a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=16), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=20) of [28d van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](onbekend) niet verplicht verzekerd is voor de volksverzekeringen.
 
 ##### Artikel 5. Slotbepaling
 
