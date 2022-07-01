@@ -4,7 +4,7 @@ identifier: "BWBR0046871"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2022-04-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046871"
 soort: "wet"
@@ -42,8 +42,6 @@ entry_into_force: "2022-12-21"
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Wet op de omzetbelasting.
@@ -52,7 +50,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. De omzetbelasting die na 30 juni 2022 wordt verschuldigd ter zake van leveringen en diensten ter zake waarvan ingevolge [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0046871&artikel=I&z=2022-07-08&g=2022-07-01) het tarief met ingang van 1 juli 2022 wordt verlaagd en die worden verricht vóór de laatstgenoemde datum, wordt berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht.
+
+2. Ingeval omzetbelasting in de periode van 1 juli 2022 tot en met 31 december 2022 wordt verschuldigd ter zake van leveringen en diensten ter zake waarvan ingevolge [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0046871&artikel=II&z=2022-07-08&g=2022-07-01) het tarief met ingang van 1 januari 2023 wordt verhoogd, wordt hetgeen meer verschuldigd zou zijn geweest indien de belasting zou zijn berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht, alsnog verschuldigd op het tijdstip van de afrekening van de verbruiksperiode.
+
+3. De omzetbelasting die na 31 december 2022 wordt verschuldigd ter zake van leveringen en diensten ter zake waarvan ingevolge [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0046871&artikel=II&z=2022-07-08&g=2022-07-01) het tarief met ingang van 1 januari 2023 wordt verhoogd en die worden verricht in de periode van 1 juli 2022 tot en met 31 december 2022, wordt berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht.
 
 ##### Artikel IV
 
@@ -85,25 +87,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel X
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is fiscale maatregelen te treffen die de koopkracht verhogen door de belasting op consumptie te verlagen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel Va
-
-Wijzigt de Wet op de accijns.
-
-##### Artikel Vb
-
-Wijzigt de Wet op de accijns.
-
-##### Artikel VIa
-
-Wijzigt de Douane- en Accijnswet BES.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
