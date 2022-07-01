@@ -4,7 +4,7 @@ identifier: "BWBR0045187"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2022-01-10"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045187"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - **meldcode:** code, beschikbaar gesteld door de minister per type en merk installatie voor de productie van duurzame energie;
 
-- **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- **minister:** Minister van Economische Zaken en Klimaat;
 
 - **typologie:** bij regeling van de Minister van Economische Zaken en Klimaat vastgestelde verzameling gebouwen met dusdanig vergelijkbare constructieve kenmerken dat hun gedrag bij en weerstand tegen aardbevingen zich op een vergelijkbare wijze laat beschrijven;
 
@@ -106,19 +106,19 @@ In deze regeling wordt verstaan onder:
 
 4. De subsidie, bedoeld in het eerste tot en met derde lid, wordt verstrekt per adres zoals dat bestond op 6 november 2020.
 
-5. Per adres kan ten hoogste tweemaal subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2021-12-07&g=2022-01-10).
+5. Per adres kan meerdere keren subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2022-07-01&g=2022-07-01).
 
 6. Op grond van deze regeling kan ook subsidie worden verstrekt voor activiteiten als bedoeld in het eerste tot en met derde lid die ook uit anderen hoofde zijn of worden gesubsidieerd of gefinancierd.
 
 7. Aanvragen om subsidie op grond van het eerste en tweede lid kunnen worden ingediend vanaf 1 juni 2021 tot en met 31 mei 2026.
 
-8. Aanvragen om subsidie op grond van het derde lid kunnen worden ingediend vanaf 1 juli 2021 tot en met 5 juli 2021 en vervolgens van 10 januari 2022 tot 31 december 2023.
+8. Aanvragen om subsidie op grond van het derde lid kunnen worden ingediend vanaf 1 juli 2021 tot en met 5 juli 2021 en vervolgens op 10 januari 2022.
 
 9. Een aanvraag voor subsidie wordt ingediend met een formulier dat beschikbaar is gesteld op de website van Samenwerkingsverband Noord-Nederland.
 
 ##### Artikel 3. De aanvraag
 
-In plaats van de gegevens en bescheiden, bedoeld in [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat een aanvraag voor subsidie als bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), ten minste:
+In plaats van de gegevens en bescheiden, bedoeld in [artikel 11, derde lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat een aanvraag voor subsidie als bedoeld in [artikel 2, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2022-07-01&g=2022-07-01), of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2022-07-01&g=2022-07-01) ten minste:
 
 - a. het adres van het gebouw ten behoeve waarvan subsidie wordt aangevraagd;
 
@@ -190,21 +190,21 @@ De subsidiabele kosten voor verbetering van het gebouw zijn de kosten voor verbe
 
 ##### Artikel 7. Subsidiabele kosten vóór indiening van de aanvraag
 
-In afwijking van [artikel 6, vijfde lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), komen de kosten, bedoeld in [artikel 2, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), tevens voor subsidie in aanmerking indien deze zijn gemaakt vóór de indiening van de aanvraag doch na 6 november 2020.
+In afwijking van [artikel 6, vijfde lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), komen de kosten, bedoeld in [artikel 2, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2022-07-01&g=2022-07-01) en [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2022-07-01&g=2022-07-01), tevens voor subsidie in aanmerking indien deze zijn betaald vóór de indiening van de aanvraag doch na 6 november 2020.
 
 ##### Artikel 8. Hoogte van de subsidie
 
-1. De subsidie op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), bedraagt 100% van de subsidiabele kosten en ten hoogste € 7.000,–.
+1. De subsidie op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2022-07-01&g=2022-07-01), bedraagt 100% van de subsidiabele kosten en ten hoogste € 7.000,–.
 
-2. De subsidie op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), bedraagt 100% van de subsidiabele kosten en ten hoogste € 17.000,–.
+2. De subsidie op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2022-07-01&g=2022-07-01), bedraagt 100% van de subsidiabele kosten en ten hoogste € 17.000,–.
 
-3. De subsidie op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), bedraagt 100% van de subsidiabele kosten en ten hoogste € 10.000,–.
+3. De subsidie op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2022-07-01&g=2022-07-01), of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2022-07-01&g=2022-07-01) bedraagt 100% van de subsidiabele kosten en ten hoogste € 10.000,–.
 
 ##### Artikel 9. Vaststelling van de subsidie
 
 1. Bij de verstrekking van een subsidie op grond van deze regeling wordt toepassing gegeven aan [artikel 16, tweede lid, onderdeel b, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16).
 
-2. In afwijking van het eerste lid wordt bij de subsidieverstrekking toepassing gegeven aan [artikel 16, tweede lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16), indien de activiteiten waarvoor de subsidie met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=7&z=2021-12-07&g=2022-01-10) wordt verstrekt ten tijde van de aanvraag reeds zijn afgerond.
+2. In afwijking van het eerste lid wordt bij de subsidieverstrekking toepassing gegeven aan [artikel 16, tweede lid, onderdeel a, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=16), indien de activiteiten waarvoor de subsidie met toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=7&z=2022-07-01&g=2022-07-01) wordt verstrekt ten tijde van de aanvraag reeds zijn afgerond.
 
 ##### Artikel 10. Afwijzingsgronden
 
@@ -212,27 +212,31 @@ Onverminderd het bepaalde in de [artikelen 12](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 11. Subsidieplafonds
 
-1. Het subsidieplafond voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10) is € 266.000.000.
+1. Het subsidieplafond voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2022-07-01&g=2022-07-01) is € 266.000.000.
 
-2. Het subsidieplafond voor aanvragen op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2021-12-07&g=2022-01-10), is in:
+2. Het subsidieplafond voor aanvragen op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2022-07-01&g=2022-07-01), is:
 
-- a. 2021: € 79.200.000;
+- a. in 2021: € 79.200.000;
 
-- b. 2022 en 2023: € 220.800.000.
+- b. op 10 januari 2022: € 238.000.000.
 
-3. De minister verdeelt de subsidieplafonds, genoemd in het eerste en het tweede lid, op volgorde van binnenkomst van de aanvragen.
+3. Het subsidieplafond voor aanvragen op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2a&z=2022-07-01&g=2022-07-01), is van 6 juli 2022 tot en met 31 december 2025: € 232.800.000.
 
-4. Indien het subsidieplafond, genoemd in het tweede lid, onderdeel a, niet geheel is besteed voor 1 januari 2022, wordt het subsidieplafond, genoemd in het tweede lid, onderdeel b, verhoogd met het resterende bedrag.
+4. De minister verdeelt de subsidieplafonds, genoemd in het eerste en het tweede lid, op volgorde van binnenkomst van de aanvragen.
 
-5. In afwijking van [artikel 9, tweede lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=9), stelt de minister de onderlinge rangschikking van aanvragen vast op volgorde van binnenkomst, indien op de dag dat het subsidieplafond, bedoeld in het tweede lid, onderdeel b, wordt bereikt meer dan één aanvraag is ontvangen.
+5. Indien het subsidieplafond, genoemd in het tweede lid, onderdeel a, niet geheel is besteed voor 1 januari 2022, wordt het subsidieplafond, genoemd in het tweede lid, onderdeel b, verhoogd met het resterende bedrag.
+
+6. In afwijking van [artikel 9, tweede lid, van het Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=9), stelt de minister de onderlinge rangschikking van aanvragen vast op volgorde van binnenkomst, indien op de dag dat het subsidieplafond, bedoeld in het tweede lid, onderdeel b, wordt bereikt meer dan één aanvraag is ontvangen.
 
 ##### Artikel 12. Verplichtingen van de subsidieontvanger
 
-1. Een activiteit waarvoor op grond van deze regeling een beschikking tot subsidieverlening is gegeven, wordt binnen zesendertig maanden na het geven van de beschikking tot subsidieverlening uitgevoerd.
+1. Een activiteit waarvoor op grond van deze regeling een beschikking tot subsidieverlening is gegeven, wordt binnen achtenveertig maanden na het geven van de beschikking tot subsidieverlening uitgevoerd.
 
 2. De minister kan op verzoek van de aanvrager de in het eerste lid genoemde termijn met ten hoogste één jaar verlengen, indien sprake is van onvoorziene omstandigheden op grond waarvan het aannemelijk is dat niet aan de in het eerste lid genoemde termijn kan worden voldaan.
 
-3. De subsidieontvanger houdt alle facturen en betalingsbewijzen met betrekking tot de activiteiten waarvoor de subsidie is vastgesteld gedurende drie jaar na vaststelling van de subsidie beschikbaar. De minister kan gedurende deze drie jaar op elk moment verzoeken om deze gegevens.
+3. De minister kan op verzoek van de aanvrager de in het eerste lid genoemde termijn voor aanvragen op grond van [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2022-07-01&g=2022-07-01), verlengen tot een jaar nadat de versterkingsmaatregelen aan het gebouw zijn uitgevoerd, indien dat later is dan de in het eerste lid genoemde termijn.
+
+4. De subsidieontvanger houdt alle facturen en betalingsbewijzen met betrekking tot de activiteiten waarvoor de subsidie is vastgesteld gedurende drie jaar na vaststelling van de subsidie beschikbaar. De minister kan gedurende deze drie jaar op elk moment verzoeken om deze gegevens.
 
 ##### Artikel 13. Vervallen eerdere subsidieregeling
 
@@ -251,5 +255,49 @@ Deze regeling treedt in werking met ingang van 1 juni 2021.
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling verduurzaming, onderhoud en verbetering gebouwen aardbevingsgebied Groningen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=2&z=2022-07-01&g=2022-07-01) verstrekt de minister op aanvraag subsidie voor de kosten van een verduurzamingsmaatregel, voor onderhoud of voor verbetering aan de eigenaar van een gebouw gelegen in de postcodegebieden in de gemeenten, genoemd in het tweede lid, voor zover dat gebouw:
+
+- a. bestemd of mede bestemd is voor bewoning;
+
+- b. op of voor 6 november 2020 geen deel uitmaakt van het versterkingsprogramma;
+
+- c. is gebouwd en opgeleverd vóór 1 januari 2016, en
+
+- d. niet in eigendom is van een toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19).
+
+2. De eigenaar of eigenaren van een gebouw binnen de gemeente:
+
+- a. Aa en Hunze met postcode 9656 kunnen een aanvraag doen van 6 juli 2022 tot en met 31 december 2025;
+
+- b. Eemsdelta met postcodes 9901 tot en met 9909, 9911 tot en met 9915, 9917 tot en met 9919 en 9921 kunnen een aanvraag doen van 13 juli 2022 tot en met 31 december 2025;
+
+- c. Eemsdelta met postcodes 9922 tot en met 9924, 9931 tot en met 9934, 9936, 9937, 9945 tot en met 9949, 9987 en 9991 tot en met 9994 kunnen een aanvraag doen van 20 juli 2022 tot en met 31 december 2025;
+
+- d. Groningen met postcodes 9613, 9614, 9622, 9723 en 9731 tot en met 9735 kunnen een aanvraag doen van 27 juli 2022 tot en met 31 december 2025;
+
+- e. Groningen met postcodes 9736 tot en met 9738, 9746, 9747 en 9791 tot en met 9798 kunnen een aanvraag doen van 3 augustus 2022 tot en met 31 december 2025;
+
+- f. Het Hogeland met postcodes 9771, 9773, 9774, 9781, 9784, 9785, 9925, 9951, 9953 tot en met 9957, 9959, 9961 tot en met 9969, 9973, 9975, 9977 tot en met 9979, 9981 tot en met 9986, 9988, 9989 en 9995 tot en met 9999 kunnen een aanvraag doen van 10 augustus 2022 tot en met 31 december 2025;
+
+- g. Midden-Groningen met postcodes 9601 tot en met 9603, en 9605 tot en met 9609 kunnen een aanvraag doen vanaf: 17 augustus 2022 tot en met 31 december 2025;
+
+- h. Midden-Groningen met postcodes 9611, 9615 tot en met 9619, 9621, 9623 tot en met 9629, 9632, 9633, 9635, 9636, 9649 en 9939 kunnen een aanvraag doen van 24 augustus 2022 tot en met 31 december 2025;
+
+- i. Oldambt met postcodes 9679, 9681, 9682, 9942 tot en met 9944 kunnen een aanvraag doen va: 31 augustus 2022 tot en met 31 december 2025;
+
+- j. Westerkwartier met postcodes 9833, 9884, 9886, 9891 tot en met 9893 kunnen een aanvraag doen van 7 september 2022 tot en met 31 december 2025.
+
+3. De subsidie, bedoeld in het eerste lid, wordt verstrekt per adres zoals dat bestond op 6 november 2020.
+
+4. Per adres kan meerdere keren subsidie op grond van deze regeling worden verstrekt, met dien verstande dat het totale bedrag aan subsidie niet meer bedraagt dan het toepasselijke bedrag, genoemd in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045187&artikel=8&z=2022-07-01&g=2022-07-01).
+
+5. Op grond van deze regeling kan ook subsidie worden verstrekt voor activiteiten als bedoeld in het eerste lid die ook uit anderen hoofde zijn of worden gesubsidieerd of gefinancierd.
+
+6. Een aanvraag voor subsidie wordt ingediend met een daartoe voorgeschreven formulier dat beschikbaar is gesteld door het Samenwerkingsverband Noord-Nederland.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
