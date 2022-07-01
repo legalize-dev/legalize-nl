@@ -4,7 +4,7 @@ identifier: "BWBR0037358"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037358"
 soort: "ministeriele-regeling"
@@ -60,6 +60,12 @@ In deze regeling wordt verstaan onder:
 
 - –. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
+- –. **NEN:** door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;
+
+- –. **NEN 7510-1 en 7510-2:** normen betreffende het organisatorisch en technisch inrichten van de informatiebeveiliging in de zorg;
+
+- –. **NEN 7524:2019 en:** norm betreffende de pseudonimisering van gegevens in de zorg;
+
 - –. **regiobeeld:** overzicht van de belangrijkste data over zorgvraag, zorgaanbod, gezondheid en leefstijl, bevolkingsontwikkeling, sociale en fysieke omgeving in een specifieke regio;
 
 - –. **reglement:** regeling als bedoeld in [artikel 19, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=19);
@@ -88,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 1. Aan een erkenning van een geschilleninstantie zijn de navolgende voorschriften verbonden:
 
-- a. de geschilleninstantie deelt wijzigingen in de gegevens als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=2&paragraaf=1&artikel=2&z=2022-01-01&g=2022-01-01), zo spoedig mogelijk elektronisch of schriftelijk aan de minister mede.
+- a. de geschilleninstantie deelt wijzigingen in de gegevens als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=2&paragraaf=1&artikel=2&z=2022-07-01&g=2022-07-01), zo spoedig mogelijk elektronisch of schriftelijk aan de minister mede.
 
 - b. de geschilleninstantie publiceert het reglement en verstrekt degene die daarom verzoekt, kosteloos een exemplaar van het reglement.
 
@@ -158,7 +164,7 @@ Van een beslissing tot erkenning of intrekking van een erkenning van een geschil
 
 3. Het reglement waarborgt dat aan geen der bij het geschil betrokken partijen een bevoorrechte positie bij de samenstelling van de geschilleninstantie is toegekend.
 
-### Hoofdstuk 3. Ziekenhuisbloedbanken
+### Hoofdstuk 2a. Kwaliteitsregistraties
 
 ##### Artikel 8
 
@@ -182,7 +188,7 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 1. Het traumacentrum organiseert het regionaal overleg acute zorgketen zo vaak als nodig is om het in [artikel 8A.2, eerste lid, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.2) gestelde doel te behalen, met een minimum van twee keer per jaar.
 
-2. Het traumacentrum organiseert daarnaast het regionaal overleg acute zorgketen zo spoedig mogelijk doch uiterlijk binnen twee weken nadat het door een zorgaanbieder is geïnformeerd overeenkomstig [artikel 8h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8h&z=2022-01-01&g=2022-01-01), tenzij sprake is van:
+2. Het traumacentrum organiseert daarnaast het regionaal overleg acute zorgketen zo spoedig mogelijk doch uiterlijk binnen twee weken nadat het door een zorgaanbieder is geïnformeerd overeenkomstig [artikel 8h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8h&z=2022-07-01&g=2022-07-01), tenzij sprake is van:
 
 - a. een gehele of gedeeltelijke opschorting die redelijkerwijs ten hoogste twee weken zal duren; of
 
@@ -192,7 +198,7 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 4. De zorgaanbieder informeert het traumacentrum onmiddellijk indien hij voorziet dat sprake is van een situatie als bedoeld in het derde lid.
 
-5. Het traumacentrum organiseert voorts een regionaal overleg acute zorgketen zo spoedig mogelijk doch uiterlijk binnen twee weken nadat het door een zorgaanbieder is geïnformeerd overeenkomstig [artikel 8k](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8k&z=2022-01-01&g=2022-01-01), indien het traumacentrum van oordeel is dat de continuïteit van de zorg in de regio in gevaar is.
+5. Het traumacentrum organiseert voorts een regionaal overleg acute zorgketen zo spoedig mogelijk doch uiterlijk binnen twee weken nadat het door een zorgaanbieder is geïnformeerd overeenkomstig [artikel 8k](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8k&z=2022-07-01&g=2022-07-01), indien het traumacentrum van oordeel is dat de continuïteit van de zorg in de regio in gevaar is.
 
 6. Het tweede, derde en vijfde lid zijn van overeenkomstige toepassing in geval van een opschorting of beëindiging van de acute zorg op een locatie van het traumacentrum.
 
@@ -236,7 +242,7 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 Zorgaanbieders die behoren tot de in [artikel 8A.1 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.1) aangewezen categorieën maken met elkaar en zo nodig met andere deelnemers aan het regionale overleg acute zorgketen in ieder geval afspraken over:
 
-- a. de bereikbaarheid van de acute zorg in de regio, mede in relatie tot de normen, genoemd in [artikel 8f](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.3&artikel=8f&z=2022-01-01&g=2022-01-01);
+- a. de bereikbaarheid van de acute zorg in de regio, mede in relatie tot de normen, genoemd in [artikel 8f](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.3&artikel=8f&z=2022-07-01&g=2022-07-01);
 
 - b. maatregelen die de druk op de acute zorgketen beperken met het oog op de beschikbaarheid van de acute zorg in de regio;
 
@@ -252,7 +258,7 @@ Zorgaanbieders die behoren tot de in [artikel 8A.1 van het uitvoeringsbesluit](h
 
 - h. crisisplannen als bedoeld in [artikel 8A.5 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.5) van zorgaanbieders in de regio.
 
-#### § 3.2. Informeren over knelpunten
+#### § 3.1. Regionaal overleg acute zorgketen
 
 ##### Artikel 8e
 
@@ -298,11 +304,11 @@ Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 
 
 ##### Artikel 8h
 
-1. Nadat de zorgaanbieder de Inspectie overeenkomstig [artikel 8g](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8g&z=2022-01-01&g=2022-01-01) heeft geïnformeerd, vraagt de zorgaanbieder een bereikbaarheidsanalyse aan bij het RIVM.
+1. Nadat de zorgaanbieder de Inspectie overeenkomstig [artikel 8g](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8g&z=2022-07-01&g=2022-07-01) heeft geïnformeerd, vraagt de zorgaanbieder een bereikbaarheidsanalyse aan bij het RIVM.
 
 2. Een bereikbaarheidsanalyse als bedoeld in het eerste lid hoeft niet te worden aangevraagd als sprake is van:
 
-- a. een gehele of gedeeltelijke opschorting van redelijkerwijs ten hoogste twee weken, met dien verstande dat [artikel 8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.1&artikel=8a&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing is;
+- a. een gehele of gedeeltelijke opschorting van redelijkerwijs ten hoogste twee weken, met dien verstande dat [artikel 8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.1&artikel=8a&z=2022-07-01&g=2022-07-01), van overeenkomstige toepassing is;
 
 - b. een gedeeltelijke opschorting of gedeeltelijke beëindiging van de acute zorg; of
 
@@ -314,7 +320,7 @@ Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 
 
 - b. een inperking van 25% of meer van de openingstijden van een locatie voor acute zorg door een traumacentrum, een andere aanbieder van medisch specialistische zorg die acute zorg verleent, niet zijnde een afdeling als bedoeld in onderdeel a, of een aanbieder van geestelijke gezondheidszorg die acute zorg verleent.
 
-4. De zorgaanbieder informeert het traumacentrum, onderscheidenlijk de traumacentra, van de regio of regio’s waarin de zorgaanbieder zorg verleent, over de mogelijke gehele of gedeeltelijke opschorting of gehele of gedeeltelijke beëindiging van het aanbod van de acute zorg op het moment dat er nog wezenlijke invloed kan worden uitgeoefend op het besluit en er voldoende tijd is voor het nemen van de benodigde maatregelen door zorgverzekeraars en zorgaanbieders en het organiseren van een regionaal overleg acute zorgketen. [Artikel 8g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8g&z=2022-01-01&g=2022-01-01), over de bij het informeren te verstrekken gegevens is van overeenkomstige toepassing, waarbij de zorgaanbieder tevens de ideeën weergeeft die er zijn om de continuïteit en beschikbaarheid van acute zorg in de regio te borgen.
+4. De zorgaanbieder informeert het traumacentrum, onderscheidenlijk de traumacentra, van de regio of regio’s waarin de zorgaanbieder zorg verleent, over de mogelijke gehele of gedeeltelijke opschorting of gehele of gedeeltelijke beëindiging van het aanbod van de acute zorg op het moment dat er nog wezenlijke invloed kan worden uitgeoefend op het besluit en er voldoende tijd is voor het nemen van de benodigde maatregelen door zorgverzekeraars en zorgaanbieders en het organiseren van een regionaal overleg acute zorgketen. [Artikel 8g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8g&z=2022-07-01&g=2022-07-01), over de bij het informeren te verstrekken gegevens is van overeenkomstige toepassing, waarbij de zorgaanbieder tevens de ideeën weergeeft die er zijn om de continuïteit en beschikbaarheid van acute zorg in de regio te borgen.
 
 5. Indien naar aanleiding van de informatieverstrekking, bedoeld in het vierde lid, geen regionaal overleg wordt georganiseerd, start de zorgaanbieder de in [artikel 8A.4, eerste lid, onderdeel c, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4) bedoelde overleggen op het moment dat nog wezenlijke invloed kan worden uitgeoefend op het besluit en betrokkenen voldoende tijd hebben om de benodigde maatregelen te nemen. De eerste volzin is van overeenkomstige toepassing op het overleg met de zorgverzekeraar waarmee de zorgaanbieder ter zake van de betrokken acute zorg een overeenkomst heeft gesloten, als die zorgverzekeraar niet aanwezig of vertegenwoordigd is bij het door het traumacentrum georganiseerde overleg.
 
@@ -328,11 +334,11 @@ Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 
 
 - a. een gehele of gedeeltelijke opschorting die redelijkerwijs ten hoogste twee weken zal duren; of
 
-- b. een gedeeltelijke beëindiging of gedeeltelijke opschorting die redelijkerwijs een afname van minder dan 25% van de behandelcapaciteit voor de acute zorg inhoudt, met dien verstande dat [artikel 8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.1&artikel=8a&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing is.
+- b. een gedeeltelijke beëindiging of gedeeltelijke opschorting die redelijkerwijs een afname van minder dan 25% van de behandelcapaciteit voor de acute zorg inhoudt, met dien verstande dat [artikel 8a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.1&artikel=8a&z=2022-07-01&g=2022-07-01), van overeenkomstige toepassing is.
 
 3. In het geval overeenkomstig het tweede lid geen bijeenkomst wordt georganiseerd, worden de colleges van burgemeester en wethouders van de betrokken gemeenten, en in het in het eerste lid bedoelde geval de voorzitter van de veiligheidsregio, schriftelijk of elektronisch geïnformeerd door de zorgaanbieder, waarbij wordt aangegeven op welke wijze en binnen welke termijn zij desgewenst kunnen reageren richting de zorgaanbieder.
 
-4. Bij het informeren, bedoeld in het derde lid, verstrekt de zorgaanbieder in ieder geval de gegevens en ideeën, bedoeld in [artikel 8h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8h&z=2022-01-01&g=2022-01-01). Dit gebeurt in een voor betrokkenen geschikte vorm.
+4. Bij het informeren, bedoeld in het derde lid, verstrekt de zorgaanbieder in ieder geval de gegevens en ideeën, bedoeld in [artikel 8h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8h&z=2022-07-01&g=2022-07-01). Dit gebeurt in een voor betrokkenen geschikte vorm.
 
 5. Indien de zorgaanbieder een bijeenkomst als bedoeld in het eerste lid heeft georganiseerd dan wel de zorgaanbieder een schriftelijke of elektronische reactie heeft gekregen van colleges van burgemeester en wethouders of de voorzitter van de veiligheidsregio, deelt de zorgaanbieder aan de betrokkenen schriftelijk of elektronisch gemotiveerd mee wat met de door hen naar voren gebrachte visies, wensen en zorgen zal worden gedaan.
 
@@ -340,13 +346,13 @@ Als zorgverzekeraars die moeten worden geïnformeerd op grond van [artikel 8A.3 
 
 1. De inspanning, bedoeld in [artikel 8A.4, eerste lid, onderdeel f, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4), om tevoren onzekerheid te voorkomen bij de inwoners uit de omgeving die belang hebben bij de door de zorgaanbieder geboden zorg, houdt in dat de zorgaanbieder een bijeenkomst organiseert voor die inwoners. In de bijeenkomst informeert de zorgaanbieder de inwoners over de plannen alsmede de uitkomsten van de bereikbaarheidsanalyse en stelt hij hen in de gelegenheid vragen daarover te stellen en hun visies, wensen en zorgen daarover te uiten. De bijeenkomst wordt op een zodanig tijdstip georganiseerd dat de inbreng van de inwoners van wezenlijke invloed kan zijn op de besluitvorming door de zorgaanbieder.
 
-2. In afwijking van het eerste lid hoeft geen bijeenkomst georganiseerd te worden in het geval, bedoeld in [artikel 8i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8i&z=2022-01-01&g=2022-01-01). In dat geval worden de inwoners geïnformeerd door de zorgaanbieder via een bericht in de plaatselijke krant en op de website van de zorgaanbieder en wordt aangegeven op welke wijze en binnen welke termijn zij richting de zorgaanbieder kunnen reageren.
+2. In afwijking van het eerste lid hoeft geen bijeenkomst georganiseerd te worden in het geval, bedoeld in [artikel 8i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8i&z=2022-07-01&g=2022-07-01). In dat geval worden de inwoners geïnformeerd door de zorgaanbieder via een bericht in de plaatselijke krant en op de website van de zorgaanbieder en wordt aangegeven op welke wijze en binnen welke termijn zij richting de zorgaanbieder kunnen reageren.
 
 3. Indien de zorgaanbieder een bijeenkomst als bedoeld in het eerste lid heeft georganiseerd, dan wel de zorgaanbieder een schriftelijke of elektronische inbreng heeft gekregen van inwoners, informeert de zorgaanbieder de inwoners via diens website over wat met de naar voren gebrachte visies, wensen en zorgen zal worden gedaan.
 
 ##### Artikel 8k
 
-Na afloop van de in de [artikelen 8i](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8i&z=2022-01-01&g=2022-01-01) en [8j](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8j&z=2022-01-01&g=2022-01-01) bedoelde bijeenkomsten, onderscheidenlijk nadat de zorgaanbieder heeft gereageerd op de door de gemeenten, de voorzitter van de veiligheidsregio en de inwoners naar voren gebrachte visies, wensen en zorgen, informeert de zorgaanbieder de Inspectie, het traumacentrum, zorgaanbieders voor wie de voorgenomen beëindiging of opschorting gevolgen kan hebben en alle zorgverzekeraars over een door de zorgaanbieder opgesteld ontwerp van het continuïteitsplan.
+Na afloop van de in de [artikelen 8i](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8i&z=2022-07-01&g=2022-07-01) en [8j](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=3a&paragraaf=3.4&artikel=8j&z=2022-07-01&g=2022-07-01) bedoelde bijeenkomsten, onderscheidenlijk nadat de zorgaanbieder heeft gereageerd op de door de gemeenten, de voorzitter van de veiligheidsregio en de inwoners naar voren gebrachte visies, wensen en zorgen, informeert de zorgaanbieder de Inspectie, het traumacentrum, zorgaanbieders voor wie de voorgenomen beëindiging of opschorting gevolgen kan hebben en alle zorgverzekeraars over een door de zorgaanbieder opgesteld ontwerp van het continuïteitsplan.
 
 ##### Artikel 8l
 
@@ -381,6 +387,40 @@ In het continuïteitsplan wordt in ieder geval omschreven:
 1. Het informeren, bedoeld in [artikel 8A.4, eerste lid, onderdeel i, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=8a.4), vindt schriftelijk of elektronisch plaats.
 
 2. In afwijking van het eerste lid vindt het informeren van de inwoners plaats via een bericht in de plaatselijke krant en op de website van de zorgaanbieder.
+
+### Hoofdstuk 4. Slotbepalingen
+
+Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
+
+##### Artikel 7a
+
+1. De gegevens worden enkel verwerkt en verstrekt, als bedoeld in [artikel 4.4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.4), en [4.8, onderdeel a, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.8), indien pseudonimisering als bedoeld in artikel 4, onderdeel 5, van de Algemene verordening gegevensbescherming is toegepast.
+
+2. De pseudonimisering vindt zodanig plaats dat herleidbaarheid naar de persoon aan wie de gegevens toebehoren zo veel als mogelijk wordt voorkomen.
+
+##### Artikel 7b
+
+Aan [artikel 7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037358&hoofdstuk=2a&artikel=7a&z=2022-07-01&g=2022-07-01), wordt in elk geval voldaan als de pseudonimisatie plaatsvindt overeenkomstig NEN 7524:2019 en, dan wel op een vergelijkbare wijze.
+
+##### Artikel 7c
+
+Passende technische en organisatorische maatregelen, als bedoeld in de[artikelen 4.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.4), en [4.8, onderdeel b, van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=4.8), zijn in elk geval getroffen als de beveiliging van de gegevens plaatsvindt overeenkomstig NEN 7510-1 en 7510-2, dan wel op een vergelijkbare wijze.
+
+##### Artikel 7d
+
+1. Voor de uitvoering van deze regeling wordt toepassing gegeven aan de laatste uitgave van de NEN 7510-1 en 7510-2.
+
+2. De minister doet van een nieuwe uitgave van de genoemde NEN, mededeling in de Staatscourant. Bij die mededeling wordt bekend gemaakt op welke datum de nieuwe uitgave van toepassing wordt.
+
+### Hoofdstuk 3. Ziekenhuisbloedbanken
+
+### Hoofdstuk 3a. Acute zorg
+
+#### § 3.2. Informeren over knelpunten
+
+#### § 3.3. Normen van bereikbaarheid
+
+#### § 3.4. Voorgenomen beëindiging of opschorting
 
 ### Hoofdstuk 4. Slotbepalingen
 
