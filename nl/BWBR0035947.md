@@ -4,7 +4,7 @@ identifier: "BWBR0035947"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2018-02-08"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035947"
 soort: "AMvB"
@@ -52,8 +52,6 @@ In dit besluit wordt verstaan onder:
 
 - –. **college:** het college van burgemeester en wethouders, bedoeld in [artikel 40, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40);
 
-- –. **persoon:** inwoner, bedoeld in [artikel 10b, tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b);
-
 - –. **Uitvoeringsinstituut werknemersverzekeringen:** Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
 ##### Artikel 2. Advies
@@ -64,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Beoordeling
 
-1. In het kader van de werkzaamheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035947&artikel=2&z=2018-02-08&g=2018-02-08), verricht het Uitvoeringsinstituut werknemersverzekeringen onderzoek naar de vraag of de persoon met arbeidsvermogen bij het verrichten van werkzaamheden is aangewezen op:
+1. In het kader van de werkzaamheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035947&artikel=2&z=2022-07-01&g=2022-07-01), verricht het Uitvoeringsinstituut werknemersverzekeringen onderzoek naar de vraag of de persoon met arbeidsvermogen bij het verrichten van werkzaamheden is aangewezen op:
 
 - a. een of meer technische of organisatorische aanpassingen die niet binnen redelijke grenzen door een werkgever kunnen worden gerealiseerd;
 
@@ -85,6 +83,8 @@ In dit besluit wordt verstaan onder:
 6. In afwijking van het derde lid, onderdeel b, verricht het Uitvoeringsinstituut werknemersverzekeringen een onderzoek als bedoeld in het eerste lid wanneer de aanvrager die binnen twaalf maanden een nieuwe aanvraag indient, vermeldt dat er sprake is van nieuw gebleken feiten of veranderde omstandigheden ten opzichte van het eerdere advies van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in het derde lid, onderdeel b.
 
 7. Het Uitvoeringsinstituut werknemersverzekeringen kan bij de werkzaamheden, bedoeld in [artikel 10b, tweede en derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b), gebruik maken van de gegevens met betrekking tot iemands arbeidsvermogen die het in de twee jaar voorafgaand aan de aanvraag van het advies ten aanzien van een persoon heeft verkregen bij een onderzoek als bedoeld in [artikel 2:5, eerste lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:5). Bij toepassing van het vijfde lid kan het Uitvoeringsinstituut werknemersverzekeringen gebruik maken van de gegevens die ten aanzien van die persoon zijn verkregen bij het onderzoek, bedoeld in [artikel 3, eerste lid, van het Besluit uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=3), zoals dat artikel luidde voor de datum van inwerkingtreding van [artikel II van de Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=II).
+
+8. Het Uitvoeringsinstituut werknemersverzekeringen kan ten behoeve van de werkzaamheden, bedoeld in [artikel 10b, tweede en derde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) de hiervoor noodzakelijke gegevens opvragen bij scholen, begeleidende organisaties en werkgevers. Bij ministeriële regeling wordt geregeld wat onder noodzakelijke gegevens wordt verstaan.
 
 ##### Artikel 4. Citeertitel
 
