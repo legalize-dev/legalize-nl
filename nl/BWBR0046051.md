@@ -4,7 +4,7 @@ identifier: "BWBR0046051"
 country: "nl"
 rank: "wet"
 publication_date: "2022-07-01"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046051"
 soort: "wet"
@@ -59,7 +59,7 @@ Wijzigt de Arbeidswet 2000 BES.
 
 ##### Artikel V. [Besluit gelijkstelling niet-Nederlanders met Nederlanders (Algemene Ouderdomswet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003880)
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Besluit gelijkstelling niet-Nederlanders met Nederlanders (Algemene Ouderdomswet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003880) wordt ingetrokken.
 
 ##### Artikel VI. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
@@ -199,7 +199,7 @@ Wijzigt de Wijzigingswet Participatiewet, enz. (uitsluiten van fraudevorderingen
 
 ##### Artikel XXXV. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Ia&z=2022-01-01&g=2022-01-01), [II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=II&z=2022-01-01&g=2022-01-01), [III, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=III&z=2022-01-01&g=2022-01-01), [VI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VI&z=2022-01-01&g=2022-01-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VII&z=2022-01-01&g=2022-01-01), [VIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VIII&z=2022-01-01&g=2022-01-01), [X, onderdelen Ea en G](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=X&z=2022-01-01&g=2022-01-01), [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Xa&z=2022-01-01&g=2022-01-01), [XVIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIa&z=2022-01-01&g=2022-01-01), [XVIIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIb&z=2022-01-01&g=2022-01-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XIX&z=2022-01-01&g=2022-01-01), [XX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XX&z=2022-01-01&g=2022-01-01), [XXIII, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXIII&z=2022-01-01&g=2022-01-01), [XXXII, onderdeel Da](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXII&z=2022-01-01&g=2022-01-01), [XXXIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXIII&z=2022-01-01&g=2022-01-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij de [artikelen IA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Ia&z=2022-07-01&g=2022-07-01), [II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=II&z=2022-07-01&g=2022-07-01), [III, onderdeel aA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=III&z=2022-07-01&g=2022-07-01), [VI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VI&z=2022-07-01&g=2022-07-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VII&z=2022-07-01&g=2022-07-01), [VIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=VIII&z=2022-07-01&g=2022-07-01), [X, onderdelen Ea en G](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=X&z=2022-07-01&g=2022-07-01), [XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=Xa&z=2022-07-01&g=2022-07-01), [XVIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIa&z=2022-07-01&g=2022-07-01), [XVIIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XVIIIb&z=2022-07-01&g=2022-07-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XIX&z=2022-07-01&g=2022-07-01), [XX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XX&z=2022-07-01&g=2022-07-01), [XXIII, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXIII&z=2022-07-01&g=2022-07-01), [XXXII, onderdeel Da](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXII&z=2022-07-01&g=2022-07-01), [XXXIII, onderdeel Ba](https://wetten.overheid.nl/jci1.3:c:BWBR0046051&artikel=XXXIII&z=2022-07-01&g=2022-07-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XXXVI. Citeertitel
 
