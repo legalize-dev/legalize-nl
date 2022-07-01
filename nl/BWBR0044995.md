@@ -4,7 +4,7 @@ identifier: "BWBR0044995"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2021-04-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044995"
 soort: "AMvB"
@@ -50,21 +50,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder de wet: de [Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779).
 
-##### Artikel 2. Partiële doorberekening geraamde kosten College van Toezicht
+##### Artikel 2. Moment van doorberekening geraamde kosten College van Toezicht
 
-1. Ter bepaling van de kosten die jaarlijks in rekening worden gebracht aan de collectieve beheersorganisaties en onafhankelijke beheersorganisaties op grond van [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=12), wordt uitgegaan van de voor het daaropvolgende jaar geraamde kosten van het College van Toezicht.
-
-2. In afwijking van het eerste lid kan Onze Minister in bijzondere omstandigheden de voor een bepaald jaar geraamde kosten in datzelfde jaar in rekening brengen.
+Ter bepaling van de kosten die op grond van [artikel 12, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=12), in rekening worden gebracht aan de collectieve beheersorganisaties en onafhankelijke beheersorganisaties, wordt uitgegaan van de voor een bepaald jaar geraamde kosten van het College van Toezicht. De kosten worden in rekening gebracht aan de collectieve beheersorganisaties en onafhankelijke beheersorganisaties in het jaar waarvoor de kosten van het College van Toezicht zijn geraamd.
 
 ##### Artikel 3. Bijdrage collectieve en onafhankelijke beheersorganisaties
 
-1. De hoogte van de jaarlijkse bijdrage van een onafhankelijke beheersorganisatie bedraagt 1% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2021-04-01&g=2021-04-01) in rekening te brengen kosten.
+1. De hoogte van de jaarlijkse bijdrage van een onafhankelijke beheersorganisatie bedraagt 1% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2022-07-01&g=2022-07-01) in rekening te brengen kosten.
 
-2. De op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2021-04-01&g=2021-04-01) in rekening te brengen kosten komen, onder aftrek van de bijdragen van de onafhankelijke beheersorganisaties als bedoeld in het eerste lid, voor rekening van de collectieve beheersorganisaties gezamenlijk, naar rato van het door hen geïnde bedrag aan vergoedingen.
+2. De op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2022-07-01&g=2022-07-01) in rekening te brengen kosten komen, onder aftrek van de bijdragen van de onafhankelijke beheersorganisaties als bedoeld in het eerste lid, voor rekening van de collectieve beheersorganisaties gezamenlijk, naar rato van het door hen geïnde bedrag aan vergoedingen.
 
 3. In aanvulling op het tweede lid wordt de hoogte van de jaarlijkse bijdrage van een collectieve beheersorganisatie bepaald door de volgende regels:
 
-- a. De jaarlijkse bijdrage van een collectieve beheersorganisatie bedraagt ten minste 1% en ten hoogste 33% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2021-04-01&g=2021-04-01) in rekening te brengen kosten;
+- a. De jaarlijkse bijdrage van een collectieve beheersorganisatie bedraagt ten minste 1% en ten hoogste 33% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2022-07-01&g=2022-07-01) in rekening te brengen kosten;
 
 - b. Toepassing van het onder a bepaalde brengt mee dat de op grond van het tweede lid bepaalde bijdragen van de overige collectieve beheersorganisaties worden gecorrigeerd naar rato van het door hen geïnde bedrag aan vergoedingen.
 
@@ -72,7 +70,7 @@ In dit besluit wordt verstaan onder de wet: de [Wet toezicht en geschillenbeslec
 
 1. Onze Minister baseert het aan een collectieve beheersorganisatie in rekening te brengen bedrag op de bij Onze Minister laatst bekende gegevens met betrekking tot het geïnde bedrag aan vergoedingen van de desbetreffende collectieve beheersorganisatie zoals die door het College van Toezicht zijn verstrekt. Deze gegevens gaan niet verder terug dan twee jaar voor het jaar waarin de bijdrage van de collectieve beheersorganisatie wordt bepaald.
 
-2. Indien Onze Minister niet beschikt over de in het eerste lid bedoelde gegevens wordt het aan de collectieve beheersorganisatie in rekening te brengen bedrag bepaald op 1% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2021-04-01&g=2021-04-01) in rekening te brengen kosten.
+2. Indien Onze Minister niet beschikt over de in het eerste lid bedoelde gegevens wordt het aan de collectieve beheersorganisatie in rekening te brengen bedrag bepaald op 1% van de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044995&artikel=2&z=2022-07-01&g=2022-07-01) in rekening te brengen kosten.
 
 ##### Artikel 5. Fusie en zuivere splitsing
 
