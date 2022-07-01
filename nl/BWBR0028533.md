@@ -4,7 +4,7 @@ identifier: "BWBR0028533"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-07-01"
-last_updated: "2016-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028533"
 soort: "AMvB-BES"
@@ -135,7 +135,7 @@ Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring verzeke
 
 ##### Artikel 1a. Uitbreiding kring verzekerden bij studeren in het Europese deel van Nederland
 
-Verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) blijft de persoon die uitsluitend om studieredenen in Nederland woont en direct daaraan voorafgaand woonde in de openbare lichamen Bonaire, Sint Eustatius of Saba, zolang die persoon niet in Nederland werkt.
+Vervallen
 
 #### § 2. Uitbreiding en beperking kring van verzekerden [Wet algemene weduwen en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
