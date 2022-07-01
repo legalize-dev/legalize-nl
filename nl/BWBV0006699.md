@@ -4,7 +4,7 @@ identifier: "BWBV0006699"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006699"
 soort: "verdrag"
@@ -38,13 +38,13 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 ##### Artikel 1. Begripsomschrijvingen
 
-1. Ten behoeve van het Algemeen Postverdrag worden de navolgende termen als volgt gedefinieerd:
+1. Ten behoeve van het Postverdrag worden de navolgende termen als volgt gedefinieerd:
 
-- 1.1. briefpostzending: zending zoals beschreven in en vervoerd overeenkomstig de voorwaarden van het Algemeen Postverdrag en de Regelingen;
+- 1.1. briefpostzending: zending zoals beschreven in en vervoerd overeenkomstig de voorwaarden van het Postverdrag en de Regelingen;
 
-- 1.2. pakketpostzending: zending zoals beschreven in en vervoerd overeenkomstig de voorwaarden van het Algemeen Postverdrag en de Regelingen;
+- 1.2. pakketpostzending: zending zoals beschreven in en vervoerd overeenkomstig de voorwaarden van het Postverdrag en de Regelingen;
 
-- 1.3. EMS-zending: zending zoals beschreven in en vervoerd overeenkomstig de voorwaarden van het Algemeen Postverdrag, de Regelingen en de bijbehorende EMS-instrumenten;
+- 1.3. EMS-zending: zending zoals beschreven in en vervoerd overeenkomstig de voorwaarden van het Postverdrag, de Regelingen en de bijbehorende EMS-instrumenten;
 
 - 1.4. stukken: een briefpost-, pakketpost- of EMS-zending bestaande uit schriftelijke, getekende, gedrukte of digitale informatie, met uitsluiting van handelswaren, waarvan de fysieke specificaties binnen de in de Regelingen vastgestelde grenzen vallen;
 
@@ -80,7 +80,7 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 ##### Artikel 2. Aanwijzing van de instantie of instanties belast met het vervullen van de verplichtingen die uit de toetreding tot het Postverdrag voortvloeien
 
-1. De lidstaten doen binnen zes maanden na de afsluiting van het Congres aan het Internationaal Bureau kennisgeving van de naam en het adres van het overheidsorgaan dat belast is met het toezicht op de postzaken. Bovendien brengen de lidstaten het Internationaal Bureau binnen zes maanden na de afsluiting van het Congres op de hoogte van de naam en het adres van de aanbieder of aanbieders die officieel zijn aangewezen voor de verzorging van de postale diensten en het vervullen van de verplichtingen die op zijn of hun grondgebieden uit de Akten van de Unie voortvloeien. Tussen Congressen in notificeren de lidstaten elke wijziging betreffende de overheidsinstanties zo spoedig mogelijk aan het Internationaal Bureau. Het Internationaal Bureau dient voorts zo spoedig mogelijk in kennis te worden gesteld van elke wijziging betreffende de officieel aangewezen aanbieders, bij voorkeur ten minste drie maanden voordat de wijziging in werking treedt.
+1. De lidstaten doen binnen zes maanden na de afsluiting van het Congres aan het Internationaal Bureau kennisgeving van de naam en het adres van het overheidsorgaan dat belast is met het toezicht op de postzaken. Bovendien brengen de lidstaten het Internationaal Bureau binnen zes maanden na de afsluiting van het Congres op de hoogte van de naam en het adres van de aanbieder of aanbieders die officieel zijn aangewezen voor de verzorging van de postale diensten en het vervullen van de verplichtingen die op zijn of hun grondgebieden uit de Akten van de Unie voortvloeien. Tussen Congressen in brengen de lidstaten elke wijziging betreffende de overheidsinstanties zo spoedig mogelijk ter kennis van het Internationaal Bureau. Het Internationaal Bureau dient voorts zo spoedig mogelijk in kennis te worden gesteld van elke wijziging betreffende de officieel aangewezen aanbieders, bij voorkeur ten minste drie maanden voordat de wijziging in werking treedt.
 
 2. Een lidstaat die een nieuwe aanbieder officieel aanwijst, vermeldt de reikwijdte en de geografische dekking van de postale diensten die laatstgenoemde overeenkomstig de Akten van de Unie op zijn grondgebied zal verlenen.
 
@@ -98,7 +98,7 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 1. Het beginsel van de vrijheid van doorvoer wordt uiteengezet in [artikel 1 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=PREMIER). Dit beginsel brengt voor elke lidstaat de verplichting met zich mee om ervoor te zorgen dat zijn aangewezen aanbieders de gesloten postzendingen en de briefpostzendingen à découvert die door een andere aangewezen aanbieder worden bezorgd, steeds verzenden langs de snelste weg en met behulp van de veiligste middelen die zij voor hun eigen zendingen gebruiken. Dit beginsel is eveneens van toepassing op verkeerd bezorgde zendingen of verkeerd bezorgde postzendingen.
 
-2. De lidstaten die niet deelnemen aan de uitwisseling van poststukken met besmettelijke stoffen of radioactieve stoffen, mogen de doorvoer van zulke zendingen à découvert over hun grondgebied weigeren. Datzelfde is eveneens van toepassing op drukwerk, tijdschriften, periodieken, petits paquets en M-zakken waarvan de inhoud niet aan de wettelijke bepalingen voldoet die van toepassing zijn op de voorwaarden voor hun publicatie of circulatie in het land van doorvoer.
+2. De lidstaten die niet deelnemen aan de uitwisseling van poststukken met besmettelijke stoffen of radioactieve stoffen, mogen de doorvoer van zulke zendingen à découvert over hun grondgebied weigeren. Dat is eveneens van toepassing op drukwerk, tijdschriften, periodieken, petits paquets en M-zakken waarvan de inhoud niet aan de wettelijke bepalingen voldoet die van toepassing zijn op de voorwaarden voor hun publicatie of circulatie in het land van doorvoer.
 
 3. Vrijheid van doorvoer van postpakketten is gewaarborgd binnen het gehele grondgebied van de Unie.
 
@@ -106,7 +106,7 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 ##### Artikel 5. Eigendom van poststukken. Onttrekking. Wijziging of verbetering van het adres en/of naam van de geadresseerde (naam van de rechtspersoon, of achternaam, voornaam of (eventueel) patroniem). Nazending. Terugzending naar de afzender van onbestelbare stukken
 
-1. Zolang een poststuk niet bij de rechthebbende is besteld, blijft dit eigendom van de afzender, behalve indien het in beslag is genomen krachtens de nationale wetgeving van het land van herkomst of van bestemming en, in het geval van toepassing van [artikel 19.2.1.1 of 19.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01), overeenkomstig de nationale wetgeving van het land van doorvoer.
+1. Zolang een poststuk niet bij de rechthebbende is besteld, blijft dit eigendom van de afzender, behalve indien het in beslag is genomen krachtens de nationale wetgeving van het land van herkomst of van bestemming en, in het geval van toepassing van [artikel 19.2.1.1 of 19.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01), overeenkomstig de nationale wetgeving van het land van doorvoer.
 
 2. De afzender van een poststuk kan dit uit de dienst laten terugtrekken of het adres en/of de naam van de geadresseerde (naam van de rechtspersoon, of achternaam, voornaam of (eventueel) patroniem) laten wijzigen of verbeteren. De porten en andere voorwaarden worden voorgeschreven in de Regelingen.
 
@@ -128,7 +128,7 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 3. De postzegel bevat:
 
-- 3.1. de naam van de uitgevende lidstaat of het uitgevende grondgebied, in Latijnse letters, dan wel, indien de lidstaat of het grondgebied waar de postzegel wordt uitgegeven daartoe een verzoek indient bij het Internationaal Bureau van de UPU, de officiële afkorting of initialen van de uitgevende lidstaat of het uitgevende grondgebied, overeenkomstig de in de Regelingen gestelde voorwaarden;1)Een uitzondering wordt gemaakt voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het land dat de postzegel heeft uitgevonden.
+- 3.1. de naam van de uitgevende lidstaat of het uitgevende grondgebied, in Latijnse letters, dan wel, indien de lidstaat of het grondgebied waar de postzegel wordt uitgegeven daartoe een verzoek indient bij het Internationaal Bureau van de Unie, de officiële afkorting of initialen van de uitgevende lidstaat of het uitgevende grondgebied, overeenkomstig de in de Regelingen gestelde voorwaarden;1)Een uitzondering wordt gemaakt voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het land dat de postzegel heeft uitgevonden.
 
 - 3.2. de nominale waarde ervan, uitgedrukt:
 
@@ -146,7 +146,7 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 - 5.3. in geval van herdenking van belangrijke personen uit of bijzondere gebeurtenissen in het buitenland voor de lidstaat of het grondgebied, een nauwe band met de genoemde lidstaat of het grondgebied te hebben;
 
-- 5.4. gespeend te zijn van politieke of beledigende kenmerken ten aanzien van een persoon of land;
+- 5.4. gespeend zijn van politieke of beledigende kenmerken ten aanzien van een persoon of land;
 
 - 5.5. van bijzonder belang te zijn voor de lidstaat of het grondgebied.
 
@@ -156,11 +156,11 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 ##### Artikel 7. Duurzame ontwikkeling
 
-1. De lidstaten en/of hun aangewezen aanbieders dienen op alle niveaus van de postexploitatie een dynamische duurzame ontwikkelingsstrategie te ontwikkelen en uit te voeren, die met name gericht is op sociale, economische en milieumaatregelen, en de voorlichting op het gebied van duurzame ontwikkeling te bevorderen.
+De lidstaten en/of hun aangewezen aanbieders dienen op alle niveaus van de postexploitatie een dynamische duurzame ontwikkelingsstrategie te ontwikkelen en uit te voeren, die met name gericht is op sociale, economische en milieumaatregelen, en de voorlichting op het gebied van duurzame ontwikkeling te bevorderen.
 
 ##### Artikel 8. Postveiligheid
 
-1. De lidstaten en hun aangewezen aanbieders dienen de veiligheidseisen omschreven in de veiligheidsnormen van de Wereldpostunie na te leven en op alle niveaus van de postexploitatie een proactieve strategie aan te nemen voor activiteiten op het gebied van veiligheid en deze toe te passen, teneinde het vertrouwen van het publiek in de postale diensten die door de aangewezen aanbieders worden geleverd, te behouden en te vergroten, zulks in het belang van alle betrokken beambten. Deze strategie dient te beantwoorden aan de doelstellingen in de Regelingen en aan het beginsel dat vooraf langs elektronische weg gegevens worden verschaft over de in de uitvoeringsbepalingen omschreven poststukken (met inbegrip van het soort en de criteria voor poststukken), aangenomen door de Raad van Bestuur en de Postraad, in overeenstemming met de technische normen van de UPU voor berichten. De strategie dient tevens te voorzien in de uitwisseling van informatie met betrekking tot de handhaving van de veiligheid en de beveiliging van het vervoer en de doorvoer van postzendingen tussen de lidstaten en hun aangewezen aanbieders.
+1. De lidstaten en hun aangewezen aanbieders dienen de veiligheidseisen omschreven in de veiligheidsnormen van de Wereldpostunie na te leven en op alle niveaus van de postexploitatie een proactieve strategie aan te nemen voor activiteiten op het gebied van veiligheid en deze toe te passen, teneinde het vertrouwen van het publiek in de postale diensten die door de aangewezen aanbieders worden geleverd, te behouden en te vergroten, zulks in het belang van alle betrokken beambten. Deze strategie dient te beantwoorden aan de doelstellingen in de Regelingen en aan het beginsel dat vooraf langs elektronische weg gegevens worden verschaft over de in de uitvoeringsbepalingen omschreven poststukken (met inbegrip van het soort en de criteria voor poststukken), aangenomen door de Raad van Bestuur en de Postraad, in overeenstemming met de technische normen van de Unie voor berichten. De strategie dient tevens te voorzien in de uitwisseling van informatie met betrekking tot de handhaving van de veiligheid en de beveiliging van het vervoer en de doorvoer van postzendingen tussen de lidstaten en hun aangewezen aanbieders.
 
 2. De in de internationale keten toegepaste beveiligingsmaatregelen voor postvervoer dienen toegesneden te zijn op de risico’s of bedreigingen waarvoor zij bedoeld zijn en te worden ingevoerd zonder de wereldwijde poststromen of handel te belemmeren door rekening te houden met de bijzondere kenmerken van het postnetwerk. Beveiligingsmaatregelen die de postexploitatie mogelijk wereldwijd beïnvloeden, dienen internationaal te worden afgestemd en evenwichtig te worden ingevoerd, waarbij de desbetreffende belanghebbenden betrokken dienen te worden.
 
@@ -170,7 +170,7 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 - 1.1. De lidstaten verplichten zich ertoe alle nodige maatregelen te nemen om de navolgende handelingen te voorkomen en de daders ervan te vervolgen en te bestraffen:
 
-- 1.1.1. het insluiten in poststukken van verdovende middelen, psychotrope stoffen of gevaarlijke goederen waarvoor insluiting niet uitdrukkelijk door het Verdrag en de Regelingen wordt toegestaan;
+- 1.1.1. het insluiten in poststukken van verdovende middelen, psychotrope stoffen of; gevaarlijke goederen waarvoor insluiting niet uitdrukkelijk door het Verdrag en de Regelingen wordt toegestaan;
 
 - 1.1.2. het insluiten in poststukken van voorwerpen van pedofiele of pornografische aard waarin kinderen voorkomen.
 
@@ -210,7 +210,7 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 4. De aangewezen aanbieders stellen hun cliënten in kennis van het gebruik dat is gemaakt van hun persoonsgegevens en van het doel waarvoor zij zijn verzameld.
 
-5. Onverminderd het hiervoor bepaalde, mogen de aangewezen aanbieders persoonsgegevens elektronisch doorgeven aan de aangewezen aanbieders van bestemmings- of doorvoerlanden die deze gegevens nodig hebben om de dienst te volbrengen.
+5. Onverminderd het hiervoor bepaalde mogen de aangewezen aanbieders persoonsgegevens elektronisch doorgeven aan de aangewezen aanbieders van bestemmings- of doorvoerlanden die deze gegevens nodig hebben om de dienst te volbrengen.
 
 ##### Artikel 11. Uitwisseling van gesloten postzendingen met militaire eenheden
 
@@ -236,23 +236,21 @@ Gelet op [artikel 22.3](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=
 
 3. De aangewezen aanbieder van bestemming heeft het recht van de aangewezen aanbieder van terpostbezorging betaling te eisen van de binnenlandse tarieven. Indien de aangewezen aanbieder van terpostbezorging weigert deze tarieven binnen een door de aangewezen aanbieder van bestemming gestelde termijn te betalen, mag laatstgenoemde de zendingen terugsturen naar de aangewezen aanbieder van terpostbezorging met het recht op vergoeding van de kosten van terugzending, ofwel de zendingen overeenkomstig zijn nationale wetgeving behandelen.
 
-4. Geen enkele aangewezen aanbieder is verplicht de briefpostzendingen die de afzenders in grote hoeveelheden in een ander land dan dat waar ze verblijf houden ter post hebben bezorgd of laten bezorgen, te verzenden of bij de geadresseerden te bestellen indien het bedrag van de te heffen eindkosten minder hoog blijkt dan het bedrag dat zou zijn geheven indien de zendingen ter post zouden zijn bezorgd in het land van verblijf van de afzenders. De aangewezen aanbieder van bestemming heeft het recht om van de aangewezen aanbieder van terpostbezorging een vergoeding te eisen met betrekking tot de gemaakte kosten. Deze mag echter niet hoger zijn dan het hoogste bedrag van de volgende twee formules: hetzij 80% van het binnenlands tarief dat op vergelijkbare zendingen van toepassing is, hetzij de percentages die ingevolge de [artikelen 29.5 tot en met 29.11, 29.12 tot en met 29.15](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01), of [30.9](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01), van toepassing zijn, naargelang van het geval.
+4. Geen enkele aangewezen aanbieder is verplicht de briefpostzendingen die de afzenders in grote hoeveelheden in een ander land dan dat waar ze verblijf houden ter post hebben bezorgd of laten bezorgen, te verzenden of bij de geadresseerden te bestellen indien het bedrag van de te heffen eindkosten minder hoog blijkt dan het bedrag dat zou zijn geheven indien de zendingen ter post zouden zijn bezorgd in het land van verblijf van de afzenders. De aangewezen aanbieder van bestemming heeft het recht om van de aangewezen aanbieder van terpostbezorging een vergoeding te eisen met betrekking tot de gemaakte kosten. Deze mag echter niet hoger zijn dan het hoogste bedrag van de volgende twee formules: hetzij 80% van het binnenlands tarief dat op vergelijkbare zendingen van toepassing is, hetzij de percentages die ingevolge de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01), [30.5 tot en met 30.11](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01), 30.12 en 30.13, of [31.17](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-07-01&g=2022-07-01), van toepassing zijn, naargelang van het geval. Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedrag binnen een door de aangewezen aanbieder van bestemming gestelde termijn te betalen, mag deze laatste aanbieder de zendingen terugsturen naar de aangewezen aanbieder van terpostbezorging met het recht op vergoeding van de kosten van terugzending, ofwel de zendingen overeenkomstig zijn nationale wetgeving behandelen.
 
-Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedrag binnen een door de aangewezen aanbieder van bestemming gestelde termijn te betalen, mag deze laatste aanbieder de zendingen terugsturen naar de aangewezen aanbieder van terpostbezorging met het recht op vergoeding van de kosten van terugzending, ofwel de zendingen overeenkomstig zijn nationale wetgeving behandelen.
+##### Artikel 13. Gebruik van formulieren van de Unie
 
-##### Artikel 13. Gebruik van UPU-formulieren
+1. Tenzij de Akten van de Unie anders bepalen, mogen uitsluitend aangewezen aanbieders gebruikmaken van de formulieren en documentatie van de Unie voor de verlening van postale diensten en de uitwisseling van poststukken overeenkomstig de Akten van de Unie.
 
-1. Tenzij de Akten van de Unie anders bepalen, mogen uitsluitend aangewezen aanbieders gebruikmaken van de UPU-formulieren en -documentatie voor de verlening van postale diensten en de uitwisseling van poststukken overeenkomstig de Akten van de Unie.
+2. De aangewezen aanbieders kunnen de formulieren en documentatie van de Unie aanwenden voor de exploitatie van extraterritoriale uitwisselingskantoren (ETOE's) en internationale postverwerkingscentra (IMPC's) die zij oprichten buiten hun respectieve nationale grondgebied, zoals nader bepaald in het zesde lid, om de voornoemde verlening van postale diensten en uitwisseling van poststukken te vergemakkelijken.
 
-2. De aangewezen aanbieders kunnen de UPU-formulieren en -documentatie aanwenden voor de exploitatie van extraterritoriale uitwisselingskantoren (ETOE’s) en internationale postverwerkingscentra (IMPC’s) gevestigd buiten hun respectieve nationale grondgebied, zoals nader bepaald in het zesde lid, om de voornoemde verlening van postale diensten en uitwisseling van poststukken te vergemakkelijken.
+3. Voor de benutting van de in het tweede lid genoemde mogelijkheid gelden de voorwaarden van de nationale wetgeving of het binnenlands beleid van de lidstaat of het grondgebied waar het ETOE of IMPC is gevestigd. Dienaangaande, en onverminderd de verplichtingen inzake aanwijzing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=2&z=2022-07-01&g=2022-07-01), waarborgen de aangewezen aanbieders dat zij aan hun verplichtingen uit hoofde van het Verdrag blijven voldoen, en zijn zij volledig verantwoordelijk voor al hun betrekkingen met andere aangewezen aanbieders en met het Internationaal Bureau.
 
-3. Voor de benutting van de in het tweede lid genoemde mogelijkheid gelden de voorwaarden van de nationale wetgeving of het binnenlands beleid van de lidstaat of het grondgebied waar het ETOE of IMPC is gevestigd. Dienaangaande, en onverminderd de verplichtingen inzake aanwijzing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=2&z=2022-01-01&g=2022-01-01), waarborgen de aangewezen aanbieders dat zij aan hun verplichtingen uit hoofde van het Verdrag blijven voldoen, en zijn zij volledig verantwoordelijk voor al hun betrekkingen met andere aangewezen aanbieders en met het Internationaal Bureau.
+4. Wat de aanvaarding van poststukken afkomstig van deze ETOE's en IMPC's betreft, is de in het derde lid genoemde voorwaarde eveneens van toepassing op de lidstaat van bestemming.
 
-4. Wat de aanvaarding van poststukken afkomstig van deze ETOE’s en IMPC’s betreft, is de in het derde lid genoemde voorwaarde eveneens van toepassing op de lidstaat van bestemming.
+5. De lidstaten lichten het Internationaal Bureau in over hun beleid inzake poststukken verzonden door en/of ontvangen van ETOE's of IMPC's. De betreffende informatie wordt op de website van de Unie geplaatst.
 
-5. De lidstaten lichten het Internationaal Bureau in over hun beleid inzake poststukken verzonden door en/of ontvangen van ETOE’s of IMPC’s. De betreffende informatie wordt op de website van de Unie geplaatst.
-
-6. Uitsluitend ten behoeve van dit artikel worden ETOE’s gedefinieerd als kantoren of voorzieningen die voor commerciële doeleinden worden opgericht en door of onder verantwoordelijkheid van de aangewezen aanbieders op het grondgebied van een lidstaat of ander dan hun eigen grondgebied worden geëxploiteerd met het oogmerk op buiten hun respectieve nationale grondgebied gelegen markten handel aan te trekken. IMPC’s worden gedefinieerd als internationale voorzieningen voor de verwerking van internationale post die wordt uitgewisseld, hetzij om postzendingen tot stand te brengen of te ontvangen, hetzij om te fungeren als doorvoercentra voor internationale post die tussen andere aangewezen aanbieders wordt uitgewisseld.
+6. Uitsluitend ten behoeve van dit artikel worden ETOE's gedefinieerd als kantoren of voorzieningen die voor commerciële doeleinden worden opgericht en door of onder verantwoordelijkheid van de aangewezen aanbieders op het grondgebied van een lidstaat of ander dan hun eigen grondgebied worden geëxploiteerd met het oogmerk op buiten hun respectieve nationale grondgebied gelegen markten handel aan te trekken. IMPC's worden gedefinieerd als internationale voorzieningen voor de verwerking van internationale post die wordt uitgewisseld, hetzij om postzendingen tot stand te brengen of te ontvangen, hetzij om te fungeren als doorvoercentra voor internationale post die tussen andere aangewezen aanbieders wordt uitgewisseld.
 
 7. Niets in dit artikel zal zo worden uitgelegd dat ETOE’s of IMPC’s (met inbegrip van de aangewezen aanbieders die voor de oprichting en exploitatie ervan buiten hun respectieve nationale grondgebied verantwoordelijk zijn) zich in dezelfde situatie in het kader van de Akten van de Unie bevinden als de aangewezen aanbieders van het gastland, of dat er voor andere lidstaten een wettelijke verplichting ontstaat deze ETOE’s of IMPC’s te erkennen als aangewezen aanbieders op het grondgebied waar zij zijn gevestigd en worden geëxploiteerd.
 
@@ -260,7 +258,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 ##### Artikel 14. Normen en doelstellingen inzake de kwaliteit van de dienstverlening
 
-1. De lidstaten of hun aangewezen aanbieders dienen hun normen en doelstellingen inzake de bestelling van binnenkomende briefpostzendingen en pakketten vast te leggen en openbaar te maken.
+1. De lidstaten of hun aangewezen aanbieders dienen hun normen en doelstellingen inzake de bestelling van binnenkomende briefpostzendingen en pakketpostzendingen in het desbetreffende voorschrift zoals omschreven in de Regelingen vast te leggen, openbaar te maken en bij te werken.
 
 2. Deze normen en doelstellingen, vermeerderd met de tijd die normaliter nodig is voor de inklaring, mogen niet minder gunstig zijn dan die welke worden toegepast voor vergelijkbare zendingen in hun binnenlandse dienstverlening.
 
@@ -290,7 +288,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 1. Beginsel
 
-- 1.1. De gevallen van portvrijdom, als vrijstelling van de frankering, worden uitdrukkelijk in het Verdrag vermeld. In de Regelingen kunnen evenwel bepalingen worden opgenomen voor zowel de vrijstelling van frankering als de vrijstelling van betaling van doorvoerkosten, eindkosten en bestellingsquota voor briefpostzendingen en postpakketten met betrekking tot de postale diensten die door de lidstaten, de aangewezen aanbieders en de beperkte Unies worden verzonden. Daarnaast worden de briefpostzendingen en postpakketten die door het Internationaal Bureau van de UPU naar de beperkte Unies, de lidstaten en de aangewezen aanbieders worden verzonden, vrijgesteld van alle porten. De lidstaat van herkomst of diens aangewezen aanbieder is evenwel bevoegd luchtrechten te heffen voor deze laatste zendingen.
+- 1.1. De gevallen van portvrijdom, als vrijstelling van de frankering, worden uitdrukkelijk in het Verdrag vermeld. In de Regelingen kunnen evenwel bepalingen worden opgenomen voor zowel de vrijstelling van frankering als de vrijstelling van betaling van doorvoerkosten, eindkosten en bestellingsquota voor briefpostzendingen en postpakketten met betrekking tot de postale dienst die door de lidstaten, de aangewezen aanbieders en de beperkte Unies worden verzonden. Daarnaast worden de briefpostzendingen en postpakketten die door het Internationaal Bureau van de Unie naar de beperkte Unies, de lidstaten en de aangewezen aanbieders worden verzonden, vrijgesteld van alle porten. De lidstaat van herkomst of diens aangewezen aanbieder is evenwel bevoegd luchtrechten te heffen voor deze laatste zendingen.
 
 2. Krijgsgevangenen en civiel geïnterneerden
 
@@ -330,7 +328,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 2.3. braillestukken tot 7 kilogram;
 
-- 2.4. bijzondere zakken die nieuwsbladen, tijdschriften, boeken en vergelijkbaar drukwerk bevatten, gericht aan dezelfde geadresseerde en aan dezelfde bestemming, “M-zakken” genoemd, tot 30 kilogram.
+- 2.4. bijzondere zakken die nieuwsbladen, tijdschriften, boeken en vergelijkbaar drukwerk bevatten, gericht aan dezelfde geadresseerde en aan dezelfde bestemming, „M-zakken” genoemd, tot 30 kilogram.
 
 3. Briefpostzendingen die goederen bevatten, zijn:
 
@@ -338,13 +336,13 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 3.2. braillestukken tot 7 kilogram, zoals vermeld in de Regelingen;
 
-- 3.3. bijzondere zakken die nieuwsbladen, tijdschriften, boeken en vergelijkbaar drukwerk bevatten, gericht aan dezelfde geadresseerde en aan dezelfde bestemming, “M-zakken” genoemd, tot 30 kilogram, zoals vermeld in de Regelingen.
+- 3.3. bijzondere zakken die nieuwsbladen, tijdschriften, boeken en vergelijkbaar drukwerk bevatten, gericht aan dezelfde geadresseerde en aan dezelfde bestemming, „M-zakken” genoemd, tot 30 kilogram, zoals vermeld in de Regelingen.
 
 4. De briefpostzendingen worden gerangschikt naar zowel de snelheid van behandeling als de inhoud ervan, overeenkomstig de Regelingen.
 
 5. Binnen het classificatiesysteem bedoeld in 4, kunnen briefpostzendingen ook worden ingedeeld op grond van hun omvang als kleine brieven (P), grote brieven (G), volumineuze brieven (E) of petits paquets (E). De limieten qua omvang en gewicht zijn omschreven in de Regelingen.
 
-6. Op sommige categorieën briefpostzendingen zijn facultatief hogere gewichtslimieten dan de onder 2 genoemde limieten van toepassing, volgens de in de Regelingen vermelde voorwaarden.
+6. Op sommige categorieën briefpostzendingen zijn facultatief hogere gewichtslimieten dan de onder 2 en 3 genoemde limieten van toepassing, volgens de in de Regelingen vermelde voorwaarden.
 
 7. De lidstaten dienen er ook op toe te zien dat hun aangewezen aanbieders zorg dragen voor de toelating, de verwerking, het vervoer en de bestelling van pakketpostzendingen tot 20 kilogram.
 
@@ -372,7 +370,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 2.6. pakketten die een bijzondere behandeling behoeven;
 
-- 2.7. “Consignment”-consolidatiedienst voor gegroepeerde zendingen van één afzender die voor het buitenland zijn bestemd;
+- 2.7. „Consignment”-consolidatiedienst voor gegroepeerde zendingen van één afzender die voor het buitenland zijn bestemd;
 
 - 2.8. retourdienst voor handelswaar, waarbij de geadresseerde handelswaar terugzendt naar de oorspronkelijke verkoper met diens toestemming.
 
@@ -418,7 +416,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 1.2. De uitzonderingen op de in dit artikel genoemde verboden zijn in de Regelingen vervat.
 
-- 1.3. Alle lidstaten of hun aangewezen aanbieders hebben de mogelijkheid de in dit artikel genoemde verboden, die onmiddellijk na de opneming ervan in het desbetreffende voorschrift kunnen worden toegepast, uit te breiden.
+- 1.3. Alle lidstaten of hun aangewezen aanbieders hebben de mogelijkheid de in dit artikel genoemde verboden, die onmiddellijk na de opneming ervan in het desbetreffende voorschrift kunnen worden toegepast, uit te breiden. Alle lidstaten of hun aangewezen aanbieders die de lijst van artikelen die zij verbieden of op voorwaarden toelaten als invoer (of in doorvoer), willen uitbreiden of wijzigen, stellen het Internationaal Bureau in kennis, dat vervolgens het relevante voorschrift dienovereenkomstig bijwerkt.
 
 2. Verboden die gelden voor alle categorieën zendingen
 
@@ -484,11 +482,11 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 7.1. mogen niet van een vermelding zijn voorzien en mogen geen correspondentie bevatten;
 
-- 7.2. mogen geen postzegel of een al dan niet ongeldig gemaakte frankeermethode bevatten, en geen papieren die een waarde vertegenwoordigen, behalve in het geval de zending een kaart, envelop of van tevoren gefrankeerde band bevat met het oog op de retourzending ervan, waarop het adres van de afzender van de zending of van diens vertegenwoordiger in het land van terpostbezorging of van bestemming van de oorspronkelijke zending is afgedrukt
+- 7.2. mogen geen postzegel of een al dan niet ongeldig gemaakte frankeermethode bevatten, en geen papieren die een waarde vertegenwoordigen, behalve in het geval de zending een kaart, envelop of van tevoren gefrankeerde band bevat met het oog op de retourzending ervan, waarop het adres van de afzender van de zending of van diens vertegenwoordiger in het land van terpostbezorging of van bestemming van de oorspronkelijke zending is afgedrukt.
 
 8. Behandeling van zendingen die ten onrechte zijn toegelaten
 
-- 8.1. Zendingen die ten onrechte zijn toegelaten, worden behandeld overeenkomstig de Regelingen. Zendingen die de in 2.1.1, 2.1.2, 3.1 en 3.2 bedoelde voorwerpen bevatten, worden echter in geen geval naar de bestemming verzonden, noch bij de geadresseerden besteld, noch teruggestuurd naar de plaats van herkomst. Indien de in 2.1.1 bedoelde voorwerpen worden ontdekt in doorvoerzendingen, worden deze laatste behandeld overeenkomstig de nationale wetgeving van het land van doorvoer. Indien de in leden 3.1 en 3.2 bedoelde voorwerpen tijdens het vervoer worden ontdekt, is de betrokken aangewezen aanbieder gerechtigd deze voorwerpen uit de zending te halen en te verwijderen. De aangewezen aanbieder kan het restant van de verzending vervolgens naar de bestemming sturen, vergezeld van informatie over de verwijdering van het ontoelaatbare voorwerp.
+- 8.1. Zendingen die ten onrechte zijn toegelaten, worden behandeld overeenkomstig de Regelingen. Zendingen die de in 2.1.1, 2.1.2, 3.1 en 3.2 bedoelde voorwerpen bevatten, worden echter in geen geval naar de bestemming verzonden, noch bij de geadresseerden besteld, noch teruggestuurd naar de plaats van herkomst. Indien de in 2.1.1 bedoelde voorwerpen worden ontdekt in doorvoerzendingen, worden deze laatste behandeld overeenkomstig de nationale wetgeving van het land van doorvoer. Indien de in 3.1 en 3.2 bedoelde voorwerpen tijdens het vervoer worden ontdekt, is de betrokken aangewezen aanbieder gerechtigd deze voorwerpen uit de zending te halen en te verwijderen. De aangewezen aanbieder kan het restant van de verzending vervolgens naar de bestemming sturen, vergezeld van informatie over de verwijdering van het ontoelaatbare voorwerp.
 
 ##### Artikel 20. Douanecontrole. Douanerechten en andere rechten
 
@@ -512,7 +510,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 1. Algemeen
 
-- 1.1. Met uitzondering van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VI&artikel=23&z=2022-01-01&g=2022-01-01), bedoelde gevallen, zijn de aangewezen aanbieders aansprakelijk voor:
+- 1.1. Met uitzondering van de in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VI&artikel=23&z=2022-07-01&g=2022-07-01), bedoelde gevallen, zijn de aangewezen aanbieders aansprakelijk voor:
 
 - 1.1.1. verlies, ontvreemding of beschadiging van aangetekende zendingen, gewone pakketten (met uitzondering van pakketzendingen in de categorie levering van elektronisch geplaatste bestellingen („ECOMPRO-pakketten”), waarvan de specificaties nader zijn omschreven in de Regelingen) en zendingen met waardeaangifte;
 
@@ -528,7 +526,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 1.6. In geval van aansprakelijkheid worden indirecte schade, gederfde winsten of immateriële schade niet in aanmerking genomen bij het te betalen schadevergoedingsbedrag.
 
-- 1.7. Alle bepalingen inzake de aansprakelijkheid van de aangewezen aanbieders zijn strikt, dwingend en uitputtend. De aansprakelijkheid van de aangewezen aanbieders blijft in elk geval – ook bij grove schuld (grove fout) – beperkt tot de in het Postverdrag en de Regelingen vastgestelde limieten.
+- 1.7. Alle bepalingen inzake de aansprakelijkheid van de aangewezen aanbieders zijn strikt, dwingend en uitputtend. De aansprakelijkheid van de aangewezen aanbieders blijft in elk geval – ook bij grove schuld (grove fout) – beperkt tot de in het Postverdrag en de Regelingen vastgestelde limieten
 
 2. Aangetekende zendingen
 
@@ -582,15 +580,15 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 2. De lidstaten en de aangewezen aanbieders zijn niet aansprakelijk:
 
-- 2.1. in geval van overmacht, onder voorbehoud van [artikel 18.5.9](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=18&z=2022-01-01&g=2022-01-01);
+- 2.1. in geval van overmacht, onder voorbehoud van [artikel 18.5.9](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=18&z=2022-07-01&g=2022-07-01);
 
 - 2.2. wanneer zij, zonder dat hun aansprakelijkheid op een andere manier wordt bewezen, geen rekenschap kunnen afleggen voor de zendingen als gevolg van vernieling van de dienstbescheiden die voortvloeit uit een geval van overmacht;
 
 - 2.3. wanneer het verlies of de schade is veroorzaakt door een fout of nalatigheid van de afzender of voortvloeit uit de aard van de inhoud;
 
-- 2.4. wanneer het zendingen betreft die vallen onder de verbodsbepalingen van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01);
+- 2.4. wanneer het zendingen betreft die vallen onder de verbodsbepalingen van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01);
 
-- 2.5. in geval van inbeslagname krachtens de nationale wetgeving van het land van bestemming, na kennisgeving door de lidstaat of de aangewezen aanbieder van dat land;
+- 2.5. in geval van inbeslagname krachtens de wetgeving van het land van bestemming, na kennisgeving door de lidstaat of de aangewezen aanbieder van dat land;
 
 - 2.6. wanneer het gaat om zendingen met waardeaangifte waarbij een frauduleuze aangifte is gedaan van een waarde die hoger is dan de werkelijke waarde van de inhoud;
 
@@ -620,7 +618,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 ##### Artikel 26. Eventuele terugvordering van de schadevergoeding van de afzender of de geadresseerde
 
-1. Indien, na betaling van een schadevergoeding, een (gedeelte van de inhoud van een) tevoren als verloren beschouwde aangetekende zending, een pakketzending of zending met waardeaangifte wordt teruggevonden, wordt de afzender of, naargelang van het geval, de geadresseerde ervan op de hoogte gebracht dat de zending gedurende een periode van drie maanden te zijner beschikking wordt gehouden tegen terugbetaling van het bedrag van de betaalde schadevergoeding. Tevens wordt hem gevraagd aan wie de zending dient te worden afgegeven. In geval van weigering of wanneer niet binnen de gestelde termijn wordt gereageerd, wordt dezelfde procedure gevolgd ten aanzien van de geadresseerde of, naargelang van het geval, de afzender, die dezelfde termijn krijgt om te reageren.
+1. Indien, na betaling van een schadevergoeding, een tevoren als verloren beschouwde aangetekende zending, een pakket of zending met waardeaangifte, of een gedeelte van de inhoud daarvan wordt teruggevonden, wordt de afzender of, naargelang van het geval, de geadresseerde ervan op de hoogte gebracht dat de zending gedurende een periode van drie maanden te zijner beschikking wordt gehouden tegen terugbetaling van het bedrag van de betaalde schadevergoeding. Tevens wordt hem gevraagd aan wie de zending dient te worden afgegeven. In geval van weigering of wanneer niet binnen de gestelde termijn wordt gereageerd, wordt dezelfde procedure gevolgd ten aanzien van de geadresseerde of, naargelang van het geval, de afzender, die dezelfde termijn krijgt om te reageren.
 
 2. Zien de afzender en de geadresseerde af van inontvangstname van de zending of reageren zij niet binnen de in het eerste lid vastgestelde termijn, dan wordt deze eigendom van de aangewezen aanbieder of de aangewezen aanbieders die de schade heeft respectievelijk hebben gedragen.
 
@@ -662,7 +660,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 4.4. De aangewezen aanbieders van de landen van het overgangssysteem kunnen ervoor kiezen de tarieven en voorwaarden die in het kader van hun binnenlandse dienstverlening worden geboden niet voor de andere aangewezen aanbieders toegankelijk te maken. Zij kunnen er evenwel voor kiezen de voorwaarden die in het kader van hun binnenlandse dienstverlening worden geboden, op basis van wederkerigheid gedurende een proefperiode van twee jaar toegankelijk te maken voor een beperkt aantal aangewezen aanbieders. Na deze termijn moeten zij een keuze maken tussen twee opties: de voorwaarden die in het kader van hun binnenlandse dienst worden geboden niet langer toegankelijk maken of hiermee doorgaan en de voorwaarden die in het kader van hun binnenlandse dienst worden geboden voor alle aangewezen aanbieders toegankelijk maken.
 
-5. De vergoeding van de eindkosten wordt gebaseerd op de kwaliteit van de dienstverlening in het land van bestemming. De Postraad is derhalve bevoegd premies op de in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-01-01&g=2022-01-01) bedoelde vergoeding toe te kennen ter aanmoediging van de deelname aan het controlesysteem en ter compensatie van de aangewezen aanbieders die hun kwaliteitsdoel bereiken. De Postraad kan ook boetes vaststellen in geval van ontoereikende kwaliteit, maar de vergoeding van de aangewezen aanbieders kan niet minder bedragen dan de in de artikelen 30 en 31 genoemde minimumvergoeding.
+5. De vergoeding van de eindkosten wordt gebaseerd op de kwaliteit van de dienstverlening in het land van bestemming. De Postraad is derhalve bevoegd premies op de in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-07-01&g=2022-07-01) bedoelde vergoeding toe te kennen ter aanmoediging van de deelname aan het controlesysteem en ter compensatie van de aangewezen aanbieders die hun kwaliteitsdoel bereiken. De Postraad kan ook boetes vaststellen in geval van ontoereikende kwaliteit, maar de vergoeding van de aangewezen aanbieders kan niet minder bedragen dan de in de artikelen 30 en 31 genoemde minimumvergoeding.
 
 6. Elke aangewezen aanbieder mag geheel of gedeeltelijk afzien van de in 1 bedoelde vergoeding.
 
@@ -686,7 +684,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 12. De vergoeding voor teruggezonden onbestelbare briefpostzendingen wordt in de Regelingen omschreven.
 
-13. Voor de betaling van de eindkosten worden briefpostzendingen ter post bezorgd in partijen in overeenstemming met de voorwaarden omschreven in de Regelingen aangeduid als „partijenpost”. De betaling voor partijenpost wordt vastgesteld overeenkomstig de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-01-01&g=2022-01-01), naargelang van toepassing.
+13. Voor de betaling van de eindkosten worden briefpostzendingen ter post bezorgd in partijen in overeenstemming met de voorwaarden omschreven in de Regelingen aangeduid als „partijenpost”. De betaling voor partijenpost wordt vastgesteld overeenkomstig de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-07-01&g=2022-07-01), naargelang van toepassing.
 
 14. Elke aangewezen aanbieder mag op basis van een bilaterale of multilaterale overeenkomst andere vergoedingssystemen voor de verrekening van eindkosten toepassen.
 
@@ -696,7 +694,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 ##### Artikel 29. Eindkosten. Zelf vaststellen van tarieven voor volumineuze briefpostzendingen (E) en petits paquets (E)
 
-1. Met ingang van de tarieven die gelden vanaf het jaar 2021 en onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-01-01&g=2022-01-01), kunnen aangewezen aanbieders het Internationaal Bureau voor 1 juni van het jaar voorafgaand aan het jaar waarin de zelf vastgestelde tarieven van toepassing zouden zijn, in kennis stellen van een zelf vastgesteld tarief per stuk en een zelf vastgesteld tarief per kilogram, uitgedrukt in lokale valuta of BTR, dat van toepassing is op volumineuze briefpostzendingen (E) en petits paquets (E) in het volgende kalenderjaar. Het Internationaal Bureau rekent de zelf vastgestelde tarieven in lokale valuta jaarlijks om in waarden uitgedrukt in BTR. Voor de berekening van de in BTR uitgedrukte tarieven gebruikt het Internationaal Bureau de gemiddelde maandelijkse wisselkoers van het tijdvak van vijf maanden dat eindigt op 31 maart van het jaar voorafgaand aan het jaar waarin de zelf vastgestelde tarieven van toepassing zouden zijn. De resulterende tarieven worden uiterlijk op 1 juli van het jaar voorafgaand aan het jaar waarin de zelf vastgestelde tarieven van toepassing zouden zijn, door middel van een circulaire van het Internationaal Bureau medegedeeld. De zelf vastgestelde tarieven voor volumineuze briefpostzendingen (E) en petits paquets (E) worden in voorkomend geval vervangen door referentie- of tariefberekeningen met betrekking tot volumineuze briefpostzendingen (E) en petits paquets (E) elders in het Verdrag of de Regelingen. Bovendien overlegt elke aangewezen aanbieder zijn binnenlandse tarieven voor gelijkwaardige diensten aan het Internationaal Bureau om de relevante maximumtarieven te berekenen.
+1. Met ingang van de tarieven die gelden vanaf het jaar 2021 en onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-07-01&g=2022-07-01), kunnen aangewezen aanbieders het Internationaal Bureau voor 1 juni van het jaar voorafgaand aan het jaar waarin de zelf vastgestelde tarieven van toepassing zouden zijn, in kennis stellen van een zelf vastgesteld tarief per stuk en een zelf vastgesteld tarief per kilogram, uitgedrukt in lokale valuta of BTR, dat van toepassing is op volumineuze briefpostzendingen (E) en petits paquets (E) in het volgende kalenderjaar. Het Internationaal Bureau rekent de zelf vastgestelde tarieven in lokale valuta jaarlijks om in waarden uitgedrukt in BTR. Voor de berekening van de in BTR uitgedrukte tarieven gebruikt het Internationaal Bureau de gemiddelde maandelijkse wisselkoers van het tijdvak van vijf maanden dat eindigt op 31 maart van het jaar voorafgaand aan het jaar waarin de zelf vastgestelde tarieven van toepassing zouden zijn. De resulterende tarieven worden uiterlijk op 1 juli van het jaar voorafgaand aan het jaar waarin de zelf vastgestelde tarieven van toepassing zouden zijn, door middel van een circulaire van het Internationaal Bureau medegedeeld. De zelf vastgestelde tarieven voor volumineuze briefpostzendingen (E) en petits paquets (E) worden in voorkomend geval vervangen door referentie- of tariefberekeningen met betrekking tot volumineuze briefpostzendingen (E) en petits paquets (E) elders in het Verdrag of de Regelingen. Bovendien overlegt elke aangewezen aanbieder zijn binnenlandse tarieven voor gelijkwaardige diensten aan het Internationaal Bureau om de relevante maximumtarieven te berekenen.
 
 - 1.1. Gelet op 1.2 en 1.3 zijn/worden de zelf vastgestelde tarieven:
 
@@ -756,7 +754,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 3. Voor tarieven die van toepassing zijn in 2021 en daaropvolgende jaren, zal de verhouding tussen het zelf opgegeven tarief per zending en per kilogram niet met meer dan 5 procentpunten naar boven of naar beneden worden gewijzigd ten opzichte van de verhouding voor het voorafgaande jaar. Voor aangewezen aanbieders die tarieven zelf vaststellen overeenkomstig lid 7 of zelf vastgestelde tarieven toepassen op basis van wederkerigheid overeenkomstig lid 9, wordt de verhouding die van kracht is in 2020 gebaseerd op het zelf vastgestelde tarief per zending en het tarief per kilogram vastgesteld met ingang van 1 juli 2020.
 
-4. Aangewezen aanbieders die ervoor kiezen hun tarieven niet zelf vast te stellen in overeenstemming met dit artikel passen de bepalingen opgenomen in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-01-01&g=2022-01-01) volledig toe.
+4. Aangewezen aanbieders die ervoor kiezen hun tarieven niet zelf vast te stellen in overeenstemming met dit artikel passen de bepalingen opgenomen in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-07-01&g=2022-07-01) volledig toe.
 
 5. Voor aangewezen aanbieders die ervoor hebben gekozen om hun tarieven voor volumineuze briefpostzendingen (E) en petits paquets (E) zelf vast te stellen in een voorafgaand kalenderjaar en die geen andere zelf vastgestelde tarieven voor het volgende jaar mededelen, blijven de zelf vastgestelde tarieven van toepassing tenzij deze niet voldoen aan de voorwaarden die zijn vastgelegd in dit artikel.
 
@@ -784,7 +782,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 1. De vergoeding voor briefpostzendingen, met inbegrip van partijenpost, maar met uitzondering van M-zakken en CCRI-zendingen, wordt vastgesteld door middel van toepassing van de bedragen per zending en per kilogram die de verwerkingskosten in het land van bestemming weergeven. De kosten die verband houden met de binnenlandse tarieven voor prioritaire zendingen die deel uitmaken van de algemene postale dienst worden gebruikt als grondslag voor de berekening van het bedrag van de eindkosten.
 
-2. De bedragen van de eindkosten in het doelsysteem worden berekend aan de hand van het classificatiesysteem voor zendingen op grond van omvang, indien aanwezig in de binnenlandse dienstverlening, zoals voorzien in [artikel 17.5](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-01-01&g=2022-01-01) van het Verdrag.
+2. De bedragen van de eindkosten in het doelsysteem worden berekend aan de hand van het classificatiesysteem voor zendingen op grond van omvang, indien aanwezig in de binnenlandse dienstverlening, zoals voorzien in [artikel 17.5](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-07-01&g=2022-07-01) van het Verdrag.
 
 3. De aangewezen aanbieders in het doelsysteem wisselen op omvang gescheiden zendingen uit in overeenstemming met de voorwaarden omschreven in de Regelingen.
 
@@ -858,11 +856,11 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 14. Voor stromen van minder dan 50 ton per jaar tussen landen die zich in 2010, 2012 en 2016 hebben aangesloten bij het doelsysteem alsmede tussen deze landen en landen die vóór 2010 deel uitmaakten van het doelsysteem worden de componenten per kilogram en per zending omgezet in een totaalbedrag per kilogram, op basis van een gemiddelde mondiale samenstelling van één kilogram post, waarbij zendingen van omvang P en G 3,97 zendingen met een gewicht van 0,14 kilogram, en zendingen van omvang E 5,45 zendingen met een gewicht van 0,86 kilogram vertegenwoordigen.
 
-15. De bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) vervangen de tarieven die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) in dit artikel; derhalve zijn de bepalingen vastgelegd in de leden 7, 9, en 11 niet van toepassing.
+15. De bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) vervangen de tarieven die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) in dit artikel; derhalve zijn de bepalingen vastgelegd in de leden 7, 9, en 11 niet van toepassing.
 
-16. De vergoeding voor partijenpost verzonden naar landen die vóór 2010 deel uitmaakten van het doelsysteem wordt vastgesteld door toepassing van de bedragen per zending en per kilogram voorzien in de leden 5 tot en met 11, of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01), naargelang van toepassing.
+16. De vergoeding voor partijenpost verzonden naar landen die vóór 2010 deel uitmaakten van het doelsysteem wordt vastgesteld door toepassing van de bedragen per zending en per kilogram voorzien in de leden 5 tot en met 11, of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01), naargelang van toepassing.
 
-17. De vergoeding voor partijenpost verzonden naar landen die vanaf 2010, 2012 en 2016 deel uitmaken van het doelsysteem wordt vastgesteld door toepassing van de bedragen per zending en per kilogram voorzien in de leden 5 en 10 tot en met 13, of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01), naargelang van toepassing.
+17. De vergoeding voor partijenpost verzonden naar landen die vanaf 2010, 2012 en 2016 deel uitmaken van het doelsysteem wordt vastgesteld door toepassing van de bedragen per zending en per kilogram voorzien in de leden 5 en 10 tot en met 13, of [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01), naargelang van toepassing.
 
 18. Bij dit artikel kan geen voorbehoud worden gemaakt.
 
@@ -870,7 +868,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 1. Voor de aangewezen aanbieders van de landen van het overgangssysteem voor eindkosten (ter voorbereiding op hun toetreding tot het doelsysteem), wordt de vergoeding voor briefpostzendingen, met inbegrip van partijenpost, maar met uitzondering van M-zakken en CCRI-zendingen, vastgesteld op basis van een bedrag per zending en een bedrag per kilogram.
 
-2. Anders dan voor de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01), gelden de bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01), lid 1 tot en met 3, 9 en 10, voor de berekening van de tarieven per zending en per kilogram voor kleine (P), grote (G) en volumineuze briefpostzendingen (E) en petits paquets (E).
+2. Anders dan voor de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01), gelden de bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01), lid 1 tot en met 3, 9 en 10, voor de berekening van de tarieven per zending en per kilogram voor kleine (P), grote (G) en volumineuze briefpostzendingen (E) en petits paquets (E).
 
 3. De bedragen die in een gegeven jaar op de stromen naar, vanuit en tussen de landen in het overgangssysteem worden toegepast, mogen niet leiden tot een verhoging van meer dan 15,5% van de eindkosten voor een briefpostzending van P/G-omvang à 37,6 gram, en van meer dan 13% van de eindkosten voor een briefpostzending van E-omvang à 375 gram ten opzichte van het voorgaande jaar.
 
@@ -896,7 +894,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 6.4. voor 2025: 0,330 BTR per zending en 2,574 BTR per kilogram.
 
-7. Anders dan voor de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) en in overeenstemming met 2 hierboven, mogen de tarieven die worden toegepast voor stromen naar, vanuit en tussen landen van het overgangssysteem voor volumineuze briefpostzendingen (E) en petits paquets (E) niet lager zijn dan:
+7. Anders dan voor de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) en in overeenstemming met 2 hierboven, mogen de tarieven die worden toegepast voor stromen naar, vanuit en tussen landen van het overgangssysteem voor volumineuze briefpostzendingen (E) en petits paquets (E) niet lager zijn dan:
 
 - 7.1. voor 2022: 0,864 BTR per zending en 1,942 BTR per kilogram;
 
@@ -906,7 +904,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 7.4. voor 2025: 1,150 BTR per zending en 2,585 BTR per kilogram.
 
-8. Anders dan voor de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) en in overeenstemming met lid 2 hierboven, mogen de tarieven die worden toegepast voor stromen naar, vanuit en tussen landen van het overgangssysteem voor volumineuze briefpostzendingen (E) en petits paquets (E) niet lager zijn dan:
+8. Anders dan voor de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) en in overeenstemming met lid 2 hierboven, mogen de tarieven die worden toegepast voor stromen naar, vanuit en tussen landen van het overgangssysteem voor volumineuze briefpostzendingen (E) en petits paquets (E) niet lager zijn dan:
 
 - 8.1. voor 2022: 0,677 BTR per zending en 1,523 BTR per kilogram;
 
@@ -916,7 +914,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 8.4. voor 2025: 0,784 BTR per zending en 1,763 BTR per kilogram.
 
-9. Anders dan voor de bedragen voor de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf opgegeven zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01), worden de componenten per kilogram en per zending als volgt omgezet in een totaalbedrag per kilogram op basis van een gemiddelde mondiale samenstelling van één kilogram post:
+9. Anders dan voor de bedragen voor de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf opgegeven zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01), worden de componenten per kilogram en per zending als volgt omgezet in een totaalbedrag per kilogram op basis van een gemiddelde mondiale samenstelling van één kilogram post:
 
 - 9.1. voor het jaar 2022, niet lager dan 6,376 BTR per kilogram en niet hoger dan 7,822 BTR per kilogram;
 
@@ -926,7 +924,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 9.4. voor het jaar 2025, niet lager dan 7,459 BTR per kilogram en niet hoger dan 10,718 BTR per kilogram.
 
-10. Anders dan voor de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01), wordt het vaste bedrag per kilogram toegepast indien noch de aangewezen aanbieder van herkomst, noch de aangewezen aanbieder van bestemming, in het kader van een herzieningsmechanisme verzoekt om een herziening van het tarief op basis van het werkelijke aantal zendingen per kilogram in plaats van op basis van het gemiddelde mondiale aantal. De steekproeven ten behoeve van de toepassing van het herzieningsmechanisme worden toegepast overeenkomstig de in de Regelingen vermelde voorwaarden.
+10. Anders dan voor de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01), wordt het vaste bedrag per kilogram toegepast indien noch de aangewezen aanbieder van herkomst, noch de aangewezen aanbieder van bestemming, in het kader van een herzieningsmechanisme verzoekt om een herziening van het tarief op basis van het werkelijke aantal zendingen per kilogram in plaats van op basis van het gemiddelde mondiale aantal. De steekproeven ten behoeve van de toepassing van het herzieningsmechanisme worden toegepast overeenkomstig de in de Regelingen vermelde voorwaarden.
 
 11. Voor poststromen van en tussen de landen die deel uitmaken van het overgangssysteem van minder dan 100 ton, wordt het totaalbedrag per kilogram als volgt:
 
@@ -938,17 +936,17 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 11.4. voor het jaar 2025 7,459 BTR per kilogram.
 
-12. Voor poststromen van landen in het doelsysteem naar landen die deel uitmaken van het overgangssysteem van minder dan 100 ton waarbij de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) zelf opgegeven zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01), worden de componenten per kilogram en per zending omgezet in een totaalbedrag per kilogram op basis van een gemiddelde mondiale samenstelling van één kilogram post, zoals vermeld in [artikel 30.14](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01), behalve voor de poststromen in 29.1.5 van 50 ton of meer waarbij het land van bestemming beslist geen steekproeven te nemen van de inkomende post.
+12. Voor poststromen van landen in het doelsysteem naar landen die deel uitmaken van het overgangssysteem van minder dan 100 ton waarbij de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) zelf opgegeven zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01), worden de componenten per kilogram en per zending omgezet in een totaalbedrag per kilogram op basis van een gemiddelde mondiale samenstelling van één kilogram post, zoals vermeld in [artikel 30.14](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01), behalve voor de poststromen in 29.1.5 van 50 ton of meer waarbij het land van bestemming beslist geen steekproeven te nemen van de inkomende post.
 
-13. Voor poststromen naar, van en tussen de landen die deel uitmaken van het overgangssysteem van meer dan 100 ton per jaar waarbij de eindkosten die van toepassing zijn op volumineuze briefpostzendingen en petits paquets (E) zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) en waarbij het land van bestemming beslist geen steekproeven te nemen van de inkomende post, worden de componenten per kilogram en per zending omgezet in een totaalbedrag per kilogram op basis van een gemiddelde mondiale samenstelling van één kilogram post, zoals vermeld in [artikel 30.14](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01).
+13. Voor poststromen naar, van en tussen de landen die deel uitmaken van het overgangssysteem van meer dan 100 ton per jaar waarbij de eindkosten die van toepassing zijn op volumineuze briefpostzendingen en petits paquets (E) zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) en waarbij het land van bestemming beslist geen steekproeven te nemen van de inkomende post, worden de componenten per kilogram en per zending omgezet in een totaalbedrag per kilogram op basis van een gemiddelde mondiale samenstelling van één kilogram post, zoals vermeld in [artikel 30.14](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01).
 
-14. Met uitzondering van de poststromen beschreven in lid 12, vervangen de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) de tarieven die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) in dit artikel; derhalve zijn de bepalingen vastgelegd in lid 7, 8 en 10 niet van toepassing.
+14. Met uitzondering van de poststromen beschreven in lid 12, vervangen de bedragen van de eindkosten die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) die zelf vastgesteld zijn overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) de tarieven die van toepassing zijn op volumineuze briefpostzendingen (E) en petits paquets (E) in dit artikel; derhalve zijn de bepalingen vastgelegd in lid 7, 8 en 10 niet van toepassing.
 
 15. De herziening naar beneden van het totale in het tiende lid bedoelde bedrag kan niet door een land van het doelsysteem worden ingeroepen tegen een land van het overgangssysteem, tenzij dit laatste land om een herziening in tegengestelde richting verzoekt.
 
-16. Voor poststromen naar, van en tussen de landen die deel uitmaken van het overgangssysteem voor de eindkosten van minder dan 100 ton per jaar, kunnen aangewezen aanbieders ervoor kiezen om op omvang gescheiden zendingen te versturen en ontvangen in overeenstemming met de voorwaarden omschreven in de Regelingen. Voor de uitwisseling van op omvang gescheiden zendingen gelden de hierboven in het vijfde, zesde, zevende en achtste lid vermelde bedragen indien de aangewezen aanbieder van bestemming ervoor kiest om zelf geen tarieven vast te stellen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01).
+16. Voor poststromen naar, van en tussen de landen die deel uitmaken van het overgangssysteem voor de eindkosten van minder dan 100 ton per jaar, kunnen aangewezen aanbieders ervoor kiezen om op omvang gescheiden zendingen te versturen en ontvangen in overeenstemming met de voorwaarden omschreven in de Regelingen. Voor de uitwisseling van op omvang gescheiden zendingen gelden de hierboven in het vijfde, zesde, zevende en achtste lid vermelde bedragen indien de aangewezen aanbieder van bestemming ervoor kiest om zelf geen tarieven vast te stellen overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01).
 
-17. De vergoeding voor partijenpost verzonden naar aangewezen aanbieders van landen die behoren tot het doelsysteem wordt vastgesteld door toepassing van de bedragen per zending en per kilogram voorzien in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) of [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01). Voor de ontvangen partijenpost kunnen de aangewezen aanbieders van de landen van het overgangssysteem overeenkomstig het hierboven in het vijfde, zesde, zevende en achtste lid en artikel 29, naargelang van toepassing, bepaalde om een vergoeding verzoeken.
+17. De vergoeding voor partijenpost verzonden naar aangewezen aanbieders van landen die behoren tot het doelsysteem wordt vastgesteld door toepassing van de bedragen per zending en per kilogram voorzien in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) of [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01). Voor de ontvangen partijenpost kunnen de aangewezen aanbieders van de landen van het overgangssysteem overeenkomstig het hierboven in het vijfde, zesde, zevende en achtste lid en artikel 29, naargelang van toepassing, bepaalde om een vergoeding verzoeken.
 
 18. Bij dit artikel kan geen voorbehoud worden gemaakt.
 
@@ -956,13 +954,13 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 ##### Artikel 32. Fonds ter verbetering van de kwaliteit van de dienstverlening
 
-1. Behoudens voor M-zakken, CCRI-zendingen en partijenpost geldt voor de eindkosten die door alle landen en grondgebieden aan de als minst ontwikkelde aangemerkte en in groep IV ingedeelde landen en grondgebieden ten behoeve van de vergoeding van eindkosten en het Fonds ter verbetering van de kwaliteit van de dienstverlening dienen te worden betaald, een toeslag die overeenkomt met 20% van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) of [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-01-01&g=2022-01-01) voorziene bedragen, ter storting in het Fonds ter verbetering van de kwaliteit van de dienstverlening in die landen. Tussen de landen van de groep IV-landen vinden dergelijke betalingen niet plaats.
+1. Behoudens voor M-zakken, CCRI-zendingen en partijenpost geldt voor de eindkosten die door alle landen en grondgebieden aan de als minst ontwikkelde aangemerkte en in groep IV ingedeelde landen en grondgebieden ten behoeve van de vergoeding van eindkosten en het Fonds ter verbetering van de kwaliteit van de dienstverlening dienen te worden betaald, een toeslag die overeenkomt met 20% van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) of [30](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=30&z=2022-07-01&g=2022-07-01) voorziene bedragen, ter storting in het Fonds ter verbetering van de kwaliteit van de dienstverlening in die landen. Tussen de landen van de groep IV-landen vinden dergelijke betalingen niet plaats.
 
-2. Behoudens voor M-zakken, CCRI-zendingen en partijenpost geldt voor de eindkosten die door de in de categorie van groep I-landen ingedeelde landen en grondgebieden aan de in de categorie van groep IV-landen ingedeelde landen, anders dan de minst ontwikkelde landen als bedoeld in het eerste lid van dit artikel, dienen te worden betaald, een toeslag overeenkomend met 10% van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-01-01&g=2022-01-01) voorziene bedragen, ter storting in het Fonds ter verbetering van de kwaliteit van de dienstverlening in die landen.
+2. Behoudens voor M-zakken, CCRI-zendingen en partijenpost geldt voor de eindkosten die door de in de categorie van groep I-landen ingedeelde landen en grondgebieden aan de in de categorie van groep IV-landen ingedeelde landen, anders dan de minst ontwikkelde landen als bedoeld in het eerste lid van dit artikel, dienen te worden betaald, een toeslag overeenkomend met 10% van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-07-01&g=2022-07-01) voorziene bedragen, ter storting in het Fonds ter verbetering van de kwaliteit van de dienstverlening in die landen.
 
-3. Behoudens voor M-zakken, CCRI-zendingen en partijenpost geldt voor de eindkosten die door de in de categorie van groep II-landen ingedeelde landen en grondgebieden aan de in de categorie van groep IV-landen ingedeelde landen, anders dan de minst ontwikkelde landen als bedoeld in het eerste lid van dit artikel, dienen te worden betaald, een toeslag overeenkomend met 10% van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-01-01&g=2022-01-01) voorziene bedragen, ter storting in het Fonds ter verbetering van de kwaliteit van de dienstverlening in die landen.
+3. Behoudens voor M-zakken, CCRI-zendingen en partijenpost geldt voor de eindkosten die door de in de categorie van groep II-landen ingedeelde landen en grondgebieden aan de in de categorie van groep IV-landen ingedeelde landen, anders dan de minst ontwikkelde landen als bedoeld in het eerste lid van dit artikel, dienen te worden betaald, een toeslag overeenkomend met 10% van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-07-01&g=2022-07-01) voorziene bedragen, ter storting in het Fonds ter verbetering van de kwaliteit van de dienstverlening in die landen.
 
-4. Behoudens voor M-zakken, CCRI-zendingen en partijenpost geldt voor de eindkosten die door de in de categorie van groep III-landen ingedeelde landen en grondgebieden aan de in de categorie van groep IV-landen ingedeelde landen, anders dan de minst ontwikkelde landen als bedoeld in het eerste lid van dit artikel, dienen te worden betaald, een toeslag overeenkomend met 5% van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-01-01&g=2022-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-01-01&g=2022-01-01) voorziene bedragen, ter storting in het Fonds ter verbetering van de kwaliteit van de dienstverlening in die landen.
+4. Behoudens voor M-zakken, CCRI-zendingen en partijenpost geldt voor de eindkosten die door de in de categorie van groep III-landen ingedeelde landen en grondgebieden aan de in de categorie van groep IV-landen ingedeelde landen, anders dan de minst ontwikkelde landen als bedoeld in het eerste lid van dit artikel, dienen te worden betaald, een toeslag overeenkomend met 5% van de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=29&z=2022-07-01&g=2022-07-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=31&z=2022-07-01&g=2022-07-01) voorziene bedragen, ter storting in het Fonds ter verbetering van de kwaliteit van de dienstverlening in die landen.
 
 5. Behoudens voor M-zakken, CCRI-zendingen en partijenpost geldt een toeslag van 1%, berekend op basis van de eindkosten die door de in groep I, II en III ingedeelde landen en grondgebieden aan de in groep III ingedeelde landen dienen te worden betaald, ter storting in een gemeenschappelijk fonds dat dient te worden opgericht ter verbetering van de kwaliteit van de dienstverlening in de landen die in de groepen II, III en IV zijn ingedeeld, en dat dient te worden beheerd overeenkomstig de door de Postraad vastgestelde toepasselijke procedures.
 
@@ -1026,11 +1024,29 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 1. De vereffening en betaling ter zake van handelingen verricht in overeenstemming met dit Verdrag (met inbegrip van de vereffening en betaling in verband met het vervoer (doorzenden) van poststukken, vereffening en betaling van de verwerking van poststukken in het land van bestemming en vereffening en betaling ter zake van schadevergoeding bij verlies, diefstal of beschadiging van poststukken) geschiedt op basis van en in overeenstemming met de bepalingen van het Verdrag en andere Akten van de Unie, waarvoor een aangewezen aanbieder geen stukken behoeft op te stellen, behalve in de gevallen voorzien in de Akten van de Unie.
 
-2. Teneinde de aanbieding van de algemene postale dienst, zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=3&z=2022-01-01&g=2022-01-01), en de integriteit van het internationale postale netwerk te waarborgen, verrichten aangewezen aanbieders betalingen voor handelingen verricht in overeenstemming met het Verdrag.
+2. Teneinde de aanbieding van de algemene postale dienst, zoals genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=3&z=2022-07-01&g=2022-07-01), en de integriteit van het internationale postale netwerk te waarborgen, verrichten aangewezen aanbieders betalingen voor handelingen verricht in overeenstemming met het Verdrag.
 
 ## DEEL VIII. FACULTATIEVE DIENSTEN
 
-##### Artikel 36. EMS en geïntegreerde logistiek en nieuwe diensten
+##### Artikel 36. Bevoegdheid van de Postraad het bedrag van de kosten en quota vast te stellen
+
+1. De Postraad is bevoegd de navolgende kosten en quota vast te stellen, die door de aangewezen aanbieders overeenkomstig de in de Regelingen vervatte voorwaarden dienen te worden betaald:
+
+- 1.1. doorvoerkosten voor de verwerking en het vervoer van briefpostzendingen door ten minste een derde land;
+
+- 1.2. basistarief en kosten van luchtvervoer die op luchtpost van toepassing zijn;
+
+- 1.3. territoriale bestellingsquota voor de verwerking van binnenkomende pakketten met uitzondering van ECOMPRO-pakketten;
+
+- 1.4. territoriale doorvoerquota voor de verwerking en het vervoer van pakketten door een derde land;
+
+- 1.5. maritieme quota voor het maritiem vervoer van pakketten;
+
+- 1.6. territoriale bestellingsquota voor het verzorgen van de retourdienst voor handelswaar voor uitgaande pakketten.
+
+2. De herziening, die kan plaatsvinden dankzij een methode waarbij de aangewezen aanbieders die de diensten verrichten een billijke vergoeding wordt gegarandeerd, dient gebaseerd te zijn op betrouwbare en representatieve economische en financiële gegevens. Eventuele wijzigingen waartoe wordt besloten, worden van kracht op een door de Postraad te bepalen datum.
+
+##### Artikel 37. EMS en geïntegreerde logistiek en nieuwe diensten
 
 1. De lidstaten of de aangewezen aanbieders kunnen onderling overeenkomen deel te nemen aan de navolgende diensten die in de Regelingen worden beschreven:
 
@@ -1038,9 +1054,11 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 1.2. de geïntegreerde logistieke dienst, die volledig beantwoordt aan de behoeften van de clientèle op het gebied van logistiek en die de fasen voor en na de fysieke verzending van de goederen en stukken behelst.
 
-##### Artikel 37. Elektronische postdiensten
+## DEEL IX. SLOTBEPALINGEN
 
-1. De lidstaten of aangewezen aanbieders kunnen met elkaar overeenkomen deel te nemen aan de volgende elektronische postdiensten die zijn omschreven in de Regelingen:
+##### Artikel 38. Elektronische postdiensten
+
+1. De lidstaten of aangewezen aanbieders kunnen met elkaar overeenkomen deel te nemen aan de volgende elektronische postdiensten die zijn omschreven in de Regeling:
 
 - 1.1. elektronische post: een elektronische postdienst waarbij elektronische berichten en informatie worden verzonden via aangewezen aanbieders;
 
@@ -1050,9 +1068,7 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 1.4. elektronische mailbox, die het mogelijk maakt voor een geauthenticeerde gebruiker om elektronische berichten te verzenden, en voor de geauthenticeerde geadresseerde om elektronische berichten en informatie te ontvangen en op te slaan.
 
-## DEEL IX. SLOTBEPALINGEN
-
-##### Artikel 38. Voorwaarden voor goedkeuring van voorstellen betreffende het Verdrag en de Regelingen
+##### Artikel 39. Voorwaarden voor goedkeuring van voorstellen betreffende het Verdrag en de Regelingen
 
 1. Om uitvoerbaar te worden, dienen de bij het Congres ingediende voorstellen betreffende dit Verdrag te worden goedgekeurd door de meerderheid van de aanwezige stemgerechtigde lidstaten die hun stem uitbrengen. Ten tijde van de stemming dient ten minste de helft van de lidstaten die bij het Congres vertegenwoordigd zijn en stemgerechtigd zijn, aanwezig te zijn.
 
@@ -1064,15 +1080,15 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 - 3.2. de meerderheid van de stemmen indien het de uitlegging van de bepalingen betreft.
 
-4. Niettegenstaande het bepaalde in 3.1, is elke lidstaat waarvan de nationale wetgeving nog niet verenigbaar is met de voorgestelde wijziging gerechtigd, binnen negentig dagen na de kennisgeving van deze wijziging, een schriftelijke verklaring aan de Directeur-Generaal van het Internationaal Bureau te richten waarin wordt vermeld dat het niet mogelijk is deze wijziging te aanvaarden.
+4. Elke lidstaat kan, binnen negentig dagen na de datum van kennisgeving van een ingevolge [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=3&z=2022-07-01&g=2022-07-01) aangenomen wijziging, een voorbehoud maken bij deze wijziging, onderworpen naar analogie aan dezelfde voorwaarden van goedkeuring als vervat in 3.1 en de relevante bepalingen van [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IX&artikel=40&z=2022-07-01&g=2022-07-01).
 
-##### Artikel 39. Tijdens het Congres gemaakte voorbehouden
+##### Artikel 40. Tijdens het Congres gemaakte voorbehouden
 
 1. Elk voorbehoud dat onverenigbaar is met het voorwerp en het doel van de Unie is niet toegestaan.
 
 2. Als stelregel geldt dat de lidstaten die de andere lidstaten niet van hun mening kunnen overtuigen voor zover mogelijk moeten trachten zich bij de mening van de meerderheid aan te sluiten. Voorbehouden mogen uitsluitend worden gemaakt indien dit absoluut noodzakelijk is en moeten op gepaste wijze met redenen worden omkleed.
 
-3. Een voorbehoud op de artikelen van dit Verdrag dient aan het Congres te worden voorgelegd in de vorm van een schriftelijk voorstel in een van de werktalen van het Internationaal Bureau, overeenkomstig de desbetreffende bepalingen van het Reglement van Orde van het Congres.
+3. Een voorbehoud op de artikelen van dit Verdrag moet aan het Congres worden voorgelegd in de vorm van een schriftelijk voorstel in een van de werktalen van het Internationaal Bureau, overeenkomstig de- bepalingen van het Reglement van Orde van het Congres.
 
 4. Om van kracht te worden, dient het aan het Congres voorgelegde voorbehoud te worden goedgekeurd door de meerderheid die per geval voor de wijziging van het artikel waarop het voorbehoud betrekking heeft, benodigd is.
 
@@ -1080,93 +1096,89 @@ Indien de aangewezen aanbieder van terpostbezorging weigert het gevorderde bedra
 
 6. Het voorbehoud op dit Verdrag wordt in het Slotprotocol ervan opgenomen op basis van het door het Congres goedgekeurde voorstel.
 
-##### Artikel 40. Inwerkingtreding en duur van dit Verdrag
-
-1. Dit Verdrag treedt in werking op 1 januari 2018 en blijft van kracht tot de inwerkingtreding van de Akten van het volgende Congres.
-
 Bij de ondertekening van het heden gesloten Algemeen Postverdrag zijn de ondergetekende gevolmachtigden het volgende overeengekomen:
 
 ##### Artikel I. Eigendom van poststukken. Onttrekking. Wijziging of verbetering van het adres.
 
-1. De bepalingen van [artikel 5.1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-01-01&g=2022-01-01) zijn niet van toepassing op Antigua en Barbuda, (het Koninkrijk) Bahrein, Barbados, Belize, Botswana, Brunei Darussalam, Canada, China, de Dominicaanse Republiek, Egypte, Fiji, Gambia, Grenada, Guyana, Hongkong, Ierland, Jamaica, Kenia, Kiribati, Koeweit, Lesotho, Malawi, Maleisië, Mauritius, Nauru, Nieuw-Zeeland, Nigeria, Papoea-Nieuw-Guinea, Saint Kitts en Nevis, Saint Lucia, Saint Vincent en de Grenadines, de Salomonseilanden, Samoa, de Seychellen, Sierra Leone, Singapore, Swaziland, (de Verenigde Republiek) Tanzania, Trinidad en Tobago, Tuvalu, Uganda, Vanuatu, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Overzeese Gebiedsdelen van het Verenigd Koninkrijk en Zambia.
+1. De bepalingen van [artikel 5.1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-07-01&g=2022-07-01) zijn niet van toepassing op Antigua en Barbuda, (het Koninkrijk) Bahrein, Barbados, Belize, Botswana, Brunei Darussalam, Canada, China, de Dominicaanse Republiek, Egypte, Fiji, Gambia, Grenada, Guyana, Hongkong, Ierland, Jamaica, Kenia, Kiribati, Koeweit, Lesotho, Malawi, Maleisië, Mauritius, Nauru, Nieuw-Zeeland, Nigeria, Papoea-Nieuw-Guinea, Saint Kitts en Nevis, Saint Lucia, Saint Vincent en de Grenadines, de Salomonseilanden, Samoa, de Seychellen, Sierra Leone, Singapore, Swaziland, (de Verenigde Republiek) Tanzania, Trinidad en Tobago, Tuvalu, Uganda, Vanuatu, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Overzeese Gebiedsdelen (van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) en Zambia.
 
-2. De bepalingen van [artikel 5.1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-01-01&g=2022-01-01) zijn evenmin van toepassing op Denemarken, (de Islamitische Republiek) Iran en Oostenrijk, waar het terugtrekken van briefpostzendingen of wijzigen van het adres daarvan op verzoek van de afzender niet wordt toegestaan door de wetgeving, zodra de geadresseerde op de hoogte is gebracht van de binnenkomst van een aan hem geadresseerde zending.
+2. De bepalingen van [artikel 5.1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-07-01&g=2022-07-01) zijn evenmin van toepassing op Denemarken, (de Islamitische Republiek) Iran en Oostenrijk, waar het terugtrekken van briefpostzendingen of wijzigen van het adres daarvan op verzoek van de afzender niet wordt toegestaan door de wetgeving, zodra de geadresseerde op de hoogte is gebracht van de binnenkomst van een aan hem geadresseerde zending.
 
-3. [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-01-01&g=2022-01-01) is niet van toepassing op Australië, Ghana en Zimbabwe.
+3. [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-07-01&g=2022-07-01) is niet van toepassing op Australië, Ghana en Zimbabwe.
 
-4. [Artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-01-01&g=2022-01-01) is niet van toepassing op de Bahama’s, België, Irak, de Democratische Volksrepubliek Korea en op Myanmar, waar het terugtrekken van briefpostzendingen of wijzigen van het adres daarvan op verzoek van de afzender niet wordt toegestaan door de wetgeving.
+4. [Artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-07-01&g=2022-07-01) is niet van toepassing op de Bahama’s, België, Irak, de Democratische Volksrepubliek Korea en op Myanmar, waar het terugtrekken van briefpostzendingen of wijzigen van het adres daarvan op verzoek van de afzender niet wordt toegestaan door de wetgeving.
 
-5. [Artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-01-01&g=2022-01-01) is niet van toepassing op (de Verenigde Staten van) Amerika.
+5. [Artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-07-01&g=2022-07-01) is niet van toepassing op de Verenigde Staten van Amerika.
 
-6. [Artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-01-01&g=2022-01-01) is van toepassing op Australië voor zover het verenigbaar is met de nationale wetgeving van dat land.
+6. [Artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-07-01&g=2022-07-01) is van toepassing op Australië voor zover het verenigbaar is met de nationale wetgeving van dat land.
 
-7. In afwijking van [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-01-01&g=2022-01-01) hebben de Democratische Republiek Congo, El Salvador, de Filipijnen, (de Republiek) Panama en (de Bolivariaanse Republiek) Venezuela het recht postpakketten niet te retourneren zodra de geadresseerde heeft verzocht om inklaring ervan door de douane, aangezien dit onverenigbaar is met de douanewetgeving van deze landen.
+7. In afwijking van [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=5&z=2022-07-01&g=2022-07-01) hebben de Democratische Republiek Congo, El Salvador, de Filipijnen, (de Republiek) Panama en (de Bolivariaanse Republiek) Venezuela het recht postpakketten niet te retourneren zodra de geadresseerde heeft verzocht om inklaring ervan door de douane, aangezien dit onverenigbaar is met de douanewetgeving van deze landen.
 
 ##### Artikel II. Postzegels
 
-1. In afwijking van [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=6&z=2022-01-01&g=2022-01-01) verwerken Australië, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Maleisië en Nieuw-Zeeland briefpostzendingen en postpakketten voorzien van postzegels waarvoor gebruik is gemaakt van nieuwe materialen of technologieën die niet geschikt zijn voor hun onderscheiden postverwerkende machines uitsluitend na voorafgaande afstemming met de desbetreffende aangewezen aanbieder van herkomst.
+In afwijking van [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=6&z=2022-07-01&g=2022-07-01) verwerken Australië, Maleisië, Nieuw-Zeeland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, briefpostzendingen en postpakketten voorzien van postzegels waarvoor gebruik is gemaakt van nieuwe materialen of technologieën die niet geschikt zijn voor hun onderscheiden postverwerkende machines uitsluitend na voorafgaande afstemming met de desbetreffende aangewezen aanbieder van herkomst.
 
 ##### Artikel III. Terpostbezorging van briefpostzendingen in het buitenland
 
-1. (De Verenigde Staten van) Amerika, Australië, Griekenland, Nieuw-Zeeland, Oostenrijk en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland behouden zich het recht voor om, in verhouding tot de kosten van de ontstane werkzaamheden, een toeslag te heffen van elke aangewezen aanbieder die aan genoemde landen uit hoofde van [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-01-01&g=2022-01-01), voorwerpen terugzendt die aanvankelijk niet door hun diensten als poststukken werden verzonden.
+1. Australië, Griekenland, Nieuw-Zeeland, Oostenrijk, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika, behouden zich het recht voor om, in verhouding tot de kosten van de ontstane werkzaamheden, een toeslag te heffen van elke aangewezen aanbieder die aan genoemde landen uit hoofde van [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-07-01&g=2022-07-01), voorwerpen terugzendt die aanvankelijk niet door hun diensten als poststukken werden verzonden.
 
-2. In afwijking van [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-01-01&g=2022-01-01) behoudt Canada zich het recht voor om van de aangewezen aanbieder van herkomst een vergoeding te heffen waarmee het ten minste de kosten die de behandeling van dergelijke zendingen met zich meebrengt, kan dekken.
+2. In afwijking van [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-07-01&g=2022-07-01) behoudt Canada zich het recht voor om van de aangewezen aanbieder van herkomst een vergoeding te heffen waarmee het ten minste de kosten die de behandeling van dergelijke zendingen met zich meebrengt, kan dekken.
 
-3. Krachtens [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-01-01&g=2022-01-01) is het de aangewezen aanbieder van bestemming toegestaan van de aangewezen aanbieder van terpostbezorging een passende vergoeding te eisen voor de bestelling van briefpostzendingen die in grote hoeveelheden in het buitenland zijn gepost. Australië en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland behouden zich het recht voor om deze betaling te beperken tot het bedrag dat overeenstemt met het binnenlandse tarief van het land van bestemming dat op vergelijkbare zendingen van toepassing is.
+3. Krachtens [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-07-01&g=2022-07-01) is het de aangewezen aanbieder van bestemming toegestaan van de aangewezen aanbieder van terpostbezorging een passende vergoeding te eisen voor de bestelling van briefpostzendingen die in grote hoeveelheden in het buitenland zijn gepost. Australië en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland behouden zich het recht voor om deze betaling te beperken tot het bedrag dat overeenstemt met het binnenlandse tarief van het land van bestemming dat op vergelijkbare zendingen van toepassing is.
 
-4. Krachtens [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-01-01&g=2022-01-01) is het de aangewezen aanbieder van bestemming toegestaan van de aangewezen aanbieder van terpostbezorging een passende vergoeding te eisen voor de bestelling van briefpostzendingen die in grote hoeveelheden in het buitenland zijn gepost. De volgende lidstaten behouden zich het recht voor om deze betaling te beperken tot de grenzen die voor partijenpost in de Regeling voor partijenpost worden toegestaan: (de Verenigde Staten van) Amerika, Bahama’s, Barbados, Brunei Darussalam, (de Volksrepubliek) China, Grenada, Guyana, India, Maleisië, Nederland, de Nederlandse Antillen en Aruba, Nepal, Nieuw-Zeeland, Saint Lucia, Saint Vincent en de Grenadines, Singapore, Sri Lanka, Suriname, Thailand, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, en de Overzeese Gebiedsdelen van het Verenigd Koninkrijk.
+4. Krachtens [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-07-01&g=2022-07-01) is het de aangewezen aanbieder van bestemming toegestaan van de aangewezen aanbieder van terpostbezorging een passende vergoeding te eisen voor de bestelling van briefpostzendingen die in grote hoeveelheden in het buitenland zijn gepost. De volgende lidstaten behouden zich het recht voor om deze betaling te beperken tot de grenzen die voor partijenpost in de Regeling voor partijenpost worden toegestaan: Bahama’s, Barbados, Brunei Darussalam, (de Volksrepubliek) China, Grenada, Guyana, India, Maleisië, Nepal, Nederland, de Nederlandse Antillen en Aruba, Nieuw-Zeeland, Saint Lucia, Saint Vincent en de Grenadines, Singapore, Sri Lanka, Suriname, Thailand, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Overzeese Gebiedsdelen van het Verenigd Koninkrijk en de Verenigde Staten van Amerika.
 
-5. Niettegenstaande het voorbehoud in 4 behouden de volgende lidstaten zich het recht voor om de bepalingen van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-01-01&g=2022-01-01) van het Verdrag in hun geheel toe te passen op de post die van de lidstaten van de Unie wordt ontvangen: Argentinië, Australië, Azerbeidzjan, Benin, Brazilië, Burkina Faso, Canada, Cyprus, Denemarken, Duitsland, Egypte, Frankrijk, Griekenland, Guinee, (de Islamitische Republiek) Iran, Israël, Italië, (de Republiek) Ivoorkust, Japan, Jordanië, Kameroen, Libanon, Luxemburg, Mali, Marokko, Mauritanië, Monaco, Noorwegen, Oostenrijk, Pakistan, Portugal, Rusland (Russische Federatie), Saudi-Arabië, Senegal, (de Arabische Republiek) Syrië, Togo, Turkije en Zwitserland.
+5. Onverminderd het voorbehoud in 4 behouden de volgende lidstaten zich het recht voor om de bepalingen van [artikel 12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-07-01&g=2022-07-01) in hun geheel toe te passen op de post die van de lidstaten van de Unie wordt ontvangen: Argentinië, Australië, Azerbeidzjan, België, Benin, Brazilië, Burkina Faso, Canada, Cyprus, Denemarken, Duitsland, Egypte, Frankrijk, Griekenland, Guinee, (de Islamitische Republiek) Iran, Israël, Italië, (de Republiek) Ivoorkust, Japan, Jordanië, Kameroen, Libanon, Luxemburg, Mali, Marokko, Mauritanië, Monaco, Noorwegen, Oostenrijk, Pakistan, Portugal, de Russische Federatie, Saudi-Arabië, Senegal, (de Arabische Republiek) Syrië, Togo, Turkije en Zwitserland.
 
-6. Voor de toepassing van [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-01-01&g=2022-01-01) behoudt Duitsland zich het recht voor om aan het land van terpostbezorging van zendingen een vergoeding te vragen van een bedrag dat gelijk is aan het bedrag dat deze postale dienst zou hebben ontvangen van het land waar de afzender verblijft.
+6. Voor de toepassing van [artikel 12.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-07-01&g=2022-07-01) behoudt Duitsland zich het recht voor om aan het land van terpostbezorging van zendingen een vergoeding te vragen van een bedrag dat gelijk is aan het bedrag dat deze postale dienst zou hebben ontvangen van het land waar de afzender verblijft.
 
 7. Onverminderd de in artikel III gemaakte voorbehouden behoudt (de Volksrepubliek) China zich het recht voor om de betalingen uit hoofde van de bestelling van grote hoeveelheden in het buitenland ter post bezorgde briefpostzendingen te beperken tot de in het Verdrag van de Wereldpostunie en in de Regelingen daarbij voor partijenpost toegestane limieten.
 
-8. Onverminderd [artikel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-01-01&g=2022-01-01) behouden Duitsland, Liechtenstein, Oostenrijk, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en Zwitserland zich het recht voor om van de afzender of, bij diens afwezigheid, van de aangewezen aanbieder van terpostbezorging, betaling te eisen van de binnenlandse tarieven.
+8. In afwijking van [artikel 12.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=12&z=2022-07-01&g=2022-07-01) behouden België, Duitsland, Liechtenstein, Oostenrijk, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en Zwitserland zich het recht voor om van de afzender of, bij diens afwezigheid, van de aangewezen aanbieder van terpostbezorging, betaling te eisen van de binnenlandse tarieven.
 
 ##### Artikel IV. Porten
 
-1. Indien de nationale wetgeving dit toelaat, is het Australië, Belarus, Canada en Nieuw-Zeeland, in afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=15&z=2022-01-01&g=2022-01-01), toegestaan andere postheffingen in rekening te brengen dan die waarin in de Regelingen is voorzien.
+1. Indien de nationale wetgeving dit toelaat, is het Australië, Belarus, Canada, Finland en Nieuw-Zeeland, in afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=15&z=2022-07-01&g=2022-07-01), toegestaan andere postheffingen in rekening te brengen dan die waarin in de Regelingen is voorzien.
 
-2. In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=15&z=2022-01-01&g=2022-01-01) is het Brazilië toegestaan om een aanvullende heffing op te leggen aan de geadresseerden van gewone zendingen van handelswaar die op grond van douane- en veiligheidseisen in gevolgde zendingen moesten worden omgezet.
+2. In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=15&z=2022-07-01&g=2022-07-01) is het Brazilië toegestaan om een aanvullende heffing op te leggen aan de geadresseerden van gewone zendingen van handelswaar die op grond van douane- en veiligheidseisen in gevolgde zendingen moesten worden omgezet.
 
 ##### Artikel V. Uitzondering op de vrijstelling van postheffingen ten gunste van braillestukken
 
-1. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-01-01&g=2022-01-01) mogen Indonesië, Saint Vincent en de Grenadines en Turkije, die in hun binnenlandse dienstverlening geen portvrijdom voor braillestukken toestaan, porten en toeslagen voor bijzondere diensten heffen, mits die niet meer bedragen dan die van hun binnenlandse dienstverlening.
+1. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-07-01&g=2022-07-01) mogen Indonesië, Saint Vincent en de Grenadines en Turkije, die in hun binnenlandse dienstverlening geen portvrijdom voor braillestukken toestaan, porten en toeslagen voor bijzondere diensten heffen, mits die niet meer bedragen dan die van hun binnenlandse dienstverlening.
 
-2. Frankrijk past de bepalingen van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-01-01&g=2022-01-01) ter zake van braillestukken toe met inachtneming van zijn nationale regelgeving.
+2. Frankrijk past de bepalingen van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-07-01&g=2022-07-01) ter zake van braillestukken toe met inachtneming van zijn nationale regelgeving.
 
-3. In afwijking van [artikel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-01-01&g=2022-01-01) en met inachtneming van zijn nationale wetgeving, behoudt Brazilië zich het recht voor om uitsluitend stukken verzonden aan of door een blinde of verzonden aan of door een organisatie voor blinden aan te merken als braillestukken. Voor stukken die niet aan deze voorwaarden voldoen zijn porten verschuldigd.
+3. In afwijking van [artikel 16.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-07-01&g=2022-07-01) en met inachtneming van zijn nationale wetgeving, behoudt Brazilië zich het recht voor om uitsluitend stukken verzonden aan of door een blinde of verzonden aan of door een organisatie voor blinden aan te merken als braillestukken. Voor stukken die niet aan deze voorwaarden voldoen zijn porten verschuldigd.
 
-4. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-01-01&g=2022-01-01) aanvaardt Nieuw-Zeeland uitsluitend stukken die in de binnenlandse dienstverlening zijn vrijgesteld van porten als braillestukken voor aflevering in Nieuw-Zeeland.
+4. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-07-01&g=2022-07-01) aanvaardt Nieuw-Zeeland uitsluitend stukken die in de binnenlandse dienstverlening zijn vrijgesteld van porten als braillestukken voor aflevering in Nieuw-Zeeland.
 
-5. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-01-01&g=2022-01-01) kan Finland, dat braillestukken in zijn binnenlandse dienstverlening niet vrijstelt van porten overeenkomstig de door het Congres aangenomen omschrijvingen in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=I&artikel=7&z=2022-01-01&g=2022-01-01), de binnenlandse porten heffen voor braillestukken bestemd voor andere landen.
+5. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-07-01&g=2022-07-01) kan Finland, dat braillestukken in zijn binnenlandse dienstverlening niet vrijstelt van porten overeenkomstig de door het Congres aangenomen omschrijvingen in artikel 16, de binnenlandse porten heffen voor braillestukken bestemd voor andere landen.
 
-6. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-01-01&g=2022-01-01) staan Canada, Denemarken en Zweden vrijstelling van porten voor braillestukken uitsluitend toe voor zover dat voorzien is in hun nationale wetgeving.
+6. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-07-01&g=2022-07-01) staan Canada, Denemarken en Zweden vrijstelling van porten voor braillestukken uitsluitend toe voor zover dat voorzien is in hun nationale wetgeving.
 
-7. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-01-01&g=2022-01-01) aanvaardt IJsland vrijstelling van porten voor braillestukken uitsluitend voor zover dat voorzien is in zijn nationale wetgeving.
+7. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-07-01&g=2022-07-01) aanvaardt IJsland vrijstelling van porten voor braillestukken uitsluitend voor zover dat voorzien is in zijn nationale wetgeving.
 
-8. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-01-01&g=2022-01-01) aanvaardt Australië als braillestukken voor aflevering in Australië uitsluitend stukken die in zijn binnenlandse dienstverlening zijn vrijgesteld van porten.
+8. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-07-01&g=2022-07-01) aanvaardt Australië als braillestukken voor aflevering in Australië uitsluitend stukken die in zijn binnenlandse dienstverlening zijn vrijgesteld van porten.
 
-9. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-01-01&g=2022-01-01) mogen (de Verenigde Staten van) Amerika, Australië, Azerbeidzjan, Canada, Duitsland, Japan, Oostenrijk, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, en Zwitserland de toeslagen voor bijzondere diensten heffen die in hun binnenlandse dienstverlening op braillestukken van toepassing zijn.
+9. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=III&artikel=16&z=2022-07-01&g=2022-07-01) mogen Australië, Azerbeidzjan, Canada, Duitsland, Japan, Oostenrijk, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Verenigde Staten van Amerika en Zwitserland de toeslagen voor bijzondere diensten heffen die in hun binnenlandse dienstverlening op braillestukken van toepassing zijn.
 
 ##### Artikel VI. Basisdiensten
 
-1. Onverminderd de bepalingen van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-01-01&g=2022-01-01) keurt Australië de uitbreiding van de basisdiensten tot postpakketten niet goed.
+1. Onverminderd de bepalingen van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-07-01&g=2022-07-01) keurt Australië de uitbreiding van de basisdiensten tot postpakketten niet goed.
 
-2. De bepalingen van [artikel 17.2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-01-01&g=2022-01-01) zijn niet van toepassing op het Verenigd Koninkrijk, waar de nationale wetgeving een lagere gewichtslimiet oplegt. De wetgeving inzake volksgezondheid en veiligheid in het Verenigd Koninkrijk beperkt het gewicht van postzakken tot 20 kilogram.
+2. De bepalingen van [artikel 17.2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-07-01&g=2022-07-01) zijn niet van toepassing op het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, waar de nationale wetgeving een lagere gewichtslimiet oplegt. De wetgeving inzake volksgezondheid en veiligheid in het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland beperkt het gewicht van postzakken tot 20 kilogram.
 
-3. In afwijking van [artikel 17.2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-01-01&g=2022-01-01) mogen Azerbeidzjan, Kazachstan, Kirgizië en Oezbekistan het maximumgewicht van inkomende en uitgaande M-zakken beperken tot 20 kilogram.
+3. In afwijking van [artikel 17.2.4](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-07-01&g=2022-07-01) mogen Azerbeidzjan, Kazachstan, Kirgizië en Oezbekistan het maximumgewicht van inkomende en uitgaande M-zakken beperken tot 20 kilogram.
 
-4. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-01-01&g=2022-01-01) aanvaardt IJsland braillestukken uitsluitend voor zover dat voorzien is in zijn nationale wetgeving.
+4. In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=17&z=2022-07-01&g=2022-07-01) aanvaardt IJsland braillestukken uitsluitend voor zover dat voorzien is in zijn nationale wetgeving.
 
 ##### Artikel VII. Zendingen met bericht van ontvangst
 
-1. Canada en Zweden zijn gerechtigd [artikel 18.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=18&z=2022-01-01&g=2022-01-01) niet toe te passen, aangezien deze landen de dienst van bericht van ontvangst in hun binnenlandse verkeer niet op pakketten toepassen.
+1. België, Canada en Zweden zijn gerechtigd [artikel 18.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=18&z=2022-07-01&g=2022-07-01) niet toe te passen, aangezien deze landen de dienst van bericht van ontvangst in hun binnenlandse verkeer niet op pakketten toepassen.
 
-2. Niettegenstaande [artikel 18.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=18&z=2022-01-01&g=2022-01-01) behouden Denemarken en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland zich het recht voor om ontvangstbevestigingen voor binnenkomende zendingen niet te accepteren, aangezien deze landen de dienst van bericht van ontvangst in hun binnenlandse verkeer niet toepassen.
+2. In afwijking van [artikel 18.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=18&z=2022-07-01&g=2022-07-01) behouden Denemarken en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland zich het recht voor om ontvangstbevestigingen voor binnenkomende zendingen niet te accepteren, aangezien deze landen de dienst van bericht van ontvangst in hun binnenlandse verkeer niet toepassen.
 
-3. Niettegenstaande [artikel 18.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=18&z=2022-01-01&g=2022-01-01) is Brazilië gerechtigd ontvangstbevestigingen voor binnenkomende zendingen alleen te accepteren wanneer zij elektronisch kunnen worden geretourneerd.
+3. In afwijking van [artikel 18.3.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=IV&artikel=18&z=2022-07-01&g=2022-07-01) is Brazilië gerechtigd ontvangstbevestigingen voor binnenkomende zendingen alleen te accepteren wanneer zij elektronisch kunnen worden geretourneerd.
 
 ##### Artikel VIII. Verbodsbepalingen (briefpost)
 
@@ -1174,7 +1186,7 @@ Bij de ondertekening van het heden gesloten Algemeen Postverdrag zijn de onderge
 
 2. Bij wijze van uitzondering aanvaarden Bolivia, (de Volksrepubliek) China, met uitzondering van de Speciale Administratieve Regio Hongkong, Irak, Nepal, Pakistan, Saudi-Arabië, Sudan en Vietnam geen aangetekende zendingen die muntstukken, bankbiljetten, muntbiljetten of om het even welke waarden aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen, juwelen of andere waardevolle voorwerpen bevatten.
 
-3. Myanmar behoudt zich het recht voor om geen zendingen met waardeaangifte te aanvaarden die de in [artikel 19.6](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01) genoemde waardevolle voorwerpen bevatten, omdat de nationale wetgeving het aannemen van dergelijke zendingen verbiedt.
+3. Myanmar behoudt zich het recht voor om geen zendingen met waardeaangifte te aanvaarden die de in [artikel 19.6](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01) genoemde waardevolle voorwerpen bevatten, omdat de nationale wetgeving het aannemen van dergelijke zendingen verbiedt.
 
 4. Nepal aanvaardt geen aangetekende zendingen of zendingen met waardeaangifte die bankbiljetten of muntstukken bevatten, tenzij daartoe bijzondere overeenkomsten zijn afgesloten.
 
@@ -1182,7 +1194,7 @@ Bij de ondertekening van het heden gesloten Algemeen Postverdrag zijn de onderge
 
 6. (De Islamitische Republiek) Iran aanvaardt geen zendingen die voorwerpen bevatten die in strijd zijn met de islamitische godsdienst en behoudt zich het recht voor om geen briefpostzendingen (gewone, aangetekende of met waardeaangifte) te aanvaarden die muntstukken, bankbiljetten, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen, juwelen of andere waardevolle voorwerpen bevatten en wijst alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
 
-7. De Filipijnen behouden zich het recht voor om geen briefpostzendingen (gewone, aangetekende of met waardeaangifte) te aanvaarden die muntstukken, bankbiljetten of andere waarden aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen of andere waardevolle voorwerpen bevatten.
+7. De Filipijnen behouden zich het recht voor geen briefpostzendingen (gewone, aangetekende of met waardeaangifte) te aanvaarden die muntstukken, bankbiljetten of andere waarden aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen of andere waardevolle voorwerpen bevatten.
 
 8. Australië aanvaardt geen poststukken die baren goud of bankbiljetten bevatten. Daarnaast aanvaardt het land geen aangetekende zendingen voor aflevering in Australië of de doorvoer van zendingen à découvert die waardevolle voorwerpen bevatten, zoals juwelen, edelmetalen, edelstenen of halfedelstenen, waardepapieren, munten of iedere vorm van een verhandelbaar financieel instrument. Australië wijst alle aansprakelijkheid af ten aanzien van zendingen die in strijd met dit voorbehoud worden gepost.
 
@@ -1196,29 +1208,29 @@ Bij de ondertekening van het heden gesloten Algemeen Postverdrag zijn de onderge
 
 13. Indonesië aanvaardt geen aangetekende zendingen of zendingen met waardeaangifte die muntstukken, bankbiljetten, cheques, postzegels, buitenlandse deviezen of om het even welke waarden aan toonder bevatten en wijst alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
 
-14. Kirgizië behoudt zich het recht voor om geen briefpostzendingen (gewone, aangetekende of met waardeaangifte en petits paquets) te aanvaarden die muntstukken, bankbiljetten of om het even welke waarden aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen, juwelen of andere waardevolle voorwerpen bevatten. Kirgizië wijst alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
+14. Kirgizië behoudt zich het recht voor om geen briefpostzendingen (gewone, aangetekende of met waardeaangifte en petits paquets) te aanvaarden die muntstukken, bankbiljetten of om het even welke waarden aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen, juwelen of andere waardevolle voorwerpen bevatten en wijst alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
 
 15. Azerbeidzjan en Kazachstan aanvaarden geen aangetekende zendingen of zendingen met waardeaangifte die muntstukken, bankbiljetten, muntbiljetten of om het even welke waarden aan toonder, cheques, al dan niet bewerkte edelmetalen, edelstenen, juwelen en andere waardevolle voorwerpen of buitenlands geld bevatten en wijzen alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
 
-16. Moldavië en Rusland (Russische Federatie) aanvaarden geen aangetekende zendingen of zendingen met waardeaangifte die in omloop zijnde bankbiljetten, om het even welke waarden (cheques) aan toonder of buitenlands geld bevatten en wijzen alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
+16. Moldavië en de Russische Federatie aanvaarden geen aangetekende zendingen of zendingen met waardeaangifte die in omloop zijnde bankbiljetten, om het even welke waarden (cheques) aan toonder of buitenlands geld bevatten en wijzen alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
 
-17. In afwijking van [artikel 19.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01) behoudt Frankrijk zich het recht voor om geen stukken te aanvaarden die goederen bevatten in de gevallen waarin deze stukken niet voldoen aan de nationale of internationale regelgeving of aan de technische en verpakkingsinstructies voor luchtvervoer.
+17. In afwijking van [artikel 19.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01) behoudt Frankrijk zich het recht voor om geen stukken te aanvaarden die goederen bevatten in de gevallen waarin deze stukken niet voldoen aan de nationale of internationale regelgeving of aan de technische en verpakkingsinstructies voor luchtvervoer.
 
 18. Cuba behoudt zich het recht voor om de toelating, de verwerking, het vervoer en de bestelling te weigeren van briefpostzendingen die muntstukken, bankbiljetten, muntbiljetten of om het even welke waarden aan toonder, cheques, edelmetalen en edelstenen, juwelen of andere waardevolle voorwerpen, dan wel stukken, goederen of voorwerpen van eender welke aard bevatten, in de gevallen waarin deze zendingen niet voldoen aan de nationale of internationale regelgeving of aan de technische en verpakkingsinstructies voor luchtvervoer, en wijst alle aansprakelijkheid af in geval van diefstal, verlies of beschadiging van dit soort zendingen. Cuba behoudt zich het recht voor om geen aan douanerechten onderworpen briefpostzendingen te aanvaarden die voor invoer in het land bestemde goederen bevatten, indien de nationale regelgeving van het land, gelet op de waarde van die zendingen, zich daartegen verzet.
 
 ##### Artikel IX. Verbodsbepalingen (postpakketten)
 
-1. Myanmar en Zambia zijn gerechtigd pakketten met waardeaangifte die de in [artikel 19.6.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01) bedoelde waardevolle voorwerpen bevatten niet te aanvaarden, aangezien hun nationale regelgeving zich daartegen verzet.
+1. Myanmar en Zambia zijn gerechtigd pakketten met waardeaangifte die de in [artikel 19.6.1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01) bedoelde waardevolle voorwerpen bevatten niet te aanvaarden, aangezien hun nationale regelgeving zich daartegen verzet.
 
-2. Bij wijze van uitzondering aanvaarden Libanon en Sudan geen pakketten die muntstukken, muntbiljetten of om het even welke waarden aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen of andere waardevolle voorwerpen of vloeistoffen of gemakkelijk condenseerbare elementen, of glazen voorwerpen of vergelijkbare of breekbare voorwerpen bevatten. Deze landen behoeven zich niet te houden aan de hierop betrekking hebbende bepalingen van de Regelingen.
+2. Bij wijze van uitzondering aanvaarden Libanon en Sudan geen pakketten die muntstukken, muntbiljetten of- aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen of andere waardevolle voorwerpen of vloeistoffen of gemakkelijk condenseerbare elementen, of glazen voorwerpen of vergelijkbare of breekbare voorwerpen bevatten. Deze landen behoeven zich niet te houden aan de hierop betrekking hebbende bepalingen van de Regelingen.
 
 3. Brazilië is gerechtigd pakketten met waardeaangifte die in omloop zijnde muntstukken en muntbiljetten bevatten, alsmede om het even welke waarden aan toonder, niet te aanvaarden, aangezien zijn nationale regelgeving zich daartegen verzet.
 
 4. Ghana is gerechtigd pakketten met waardeaangifte die in omloop zijnde muntstukken en muntbiljetten bevatten niet te aanvaarden, aangezien zijn nationale regelgeving zich daartegen verzet.
 
-5. Naast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01) genoemde voorwerpen aanvaardt Saudi-Arabië geen pakketten die muntstukken, muntbiljetten of om het even welke waarden aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen of andere waardevolle voorwerpen bevatten. Deze postale dienst aanvaardt evenmin pakketten die allerlei soorten geneesmiddelen bevatten, tenzij zij vergezeld gaan van een medisch recept dat afkomstig is van een officiële bevoegde autoriteit, producten die bestemd zijn voor het doven van vuur, chemische vloeistoffen of voorwerpen die strijdig zijn met de beginselen van de islamitische godsdienst.
+5. Naast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01) genoemde voorwerpen aanvaardt Saudi-Arabië geen pakketten die muntstukken, muntbiljetten of om het even welke waarden aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen of andere waardevolle voorwerpen bevatten. Deze postale dienst aanvaardt evenmin pakketten die allerlei soorten geneesmiddelen bevatten, tenzij zij vergezeld gaan van een medisch recept dat afkomstig is van een officiële bevoegde autoriteit, producten die bestemd zijn voor het doven van vuur, chemische vloeistoffen of voorwerpen die strijdig zijn met de beginselen van de islamitische godsdienst.
 
-6. Naast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01) vermelde voorwerpen aanvaardt Oman geen pakketten die:
+6. Naast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01) vermelde voorwerpen aanvaardt Oman geen pakketten die:
 
 - 6.1. allerlei soorten geneesmiddelen bevatten, tenzij zij vergezeld gaan van een recept dat afkomstig is van een officiële bevoegde autoriteit;
 
@@ -1226,7 +1238,7 @@ Bij de ondertekening van het heden gesloten Algemeen Postverdrag zijn de onderge
 
 - 6.3. voorwerpen bevatten die strijdig zijn met de beginselen van de islamitische godsdienst.
 
-7. (De Islamitische Republiek) Iran is gerechtigd naast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01) vermelde voorwerpen geen pakketten te aanvaarden die artikelen bevatten die strijdig zijn met de beginselen van de islamitische godsdienst en behoudt zich het recht voor om geen gewone pakketten of pakketten met waardeaangifte te aanvaarden die muntstukken, bankbiljetten, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen of andere waardevolle voorwerpen bevatten; Iran aanvaardt geen aansprakelijkheid voor verlies of beschadiging van dit soort zendingen.
+7. (De Islamitische Republiek) Iran is gerechtigd naast de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01) vermelde voorwerpen geen pakketten te aanvaarden die artikelen bevatten die strijdig zijn met de beginselen van de islamitische godsdienst en behoudt zich het recht voor om geen gewone pakketten of pakketten met waardeaangifte te aanvaarden die muntstukken, bankbiljetten, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen of andere waardevolle voorwerpen bevatten; Iran aanvaardt geen aansprakelijkheid voor verlies of beschadiging van dit soort zendingen.
 
 8. De Filipijnen zijn gerechtigd geen pakketten te aanvaarden die muntstukken, muntbiljetten of om het even welke waarden aan toonder, reischeques, al dan niet bewerkt platina, goud of zilver, edelstenen of andere waardevolle voorwerpen of vloeistoffen of gemakkelijk condenseerbare elementen, of glazen voorwerpen of vergelijkbare of breekbare voorwerpen bevatten.
 
@@ -1238,7 +1250,7 @@ Bij de ondertekening van het heden gesloten Algemeen Postverdrag zijn de onderge
 
 12. Letland aanvaardt geen gewone pakketten, noch pakketten met waardeaangifte die muntstukken, bankbiljetten, om het even welke waarden (cheques) aan toonder of buitenlandse deviezen bevatten, en wijst alle aansprakelijkheid af in geval van verlies of beschadiging met betrekking tot dergelijke zendingen.
 
-13. Moldavië, Oekraïne, Oezbekistan en Rusland (Russische Federatie) aanvaarden geen gewone pakketten of pakketten met waardeaangifte die in omloop zijnde bankbiljetten, om het even welke waarden (cheques) aan toonder of buitenlands geld bevatten en wijzen alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
+13. Moldavië, Oekraïne, Oezbekistan en de Russische Federatie aanvaarden geen gewone pakketten of pakketten met waardeaangifte die in omloop zijnde bankbiljetten, om het even welke waarden (cheques) aan toonder of buitenlands geld bevatten en wijzen alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
 
 14. Azerbeidjzan en Kazachstan aanvaarden geen gewone pakketten, noch pakketten met waardeaangifte die muntstukken, bankbiljetten, muntbiljetten of om het even welke waarden aan toonder, cheques, al dan niet bewerkte edelmetalen, edelstenen, juwelen en andere waardevolle voorwerpen of buitenlands geld bevatten en wijst alle aansprakelijkheid af in geval van verlies of beschadiging van dit soort zendingen.
 
@@ -1246,45 +1258,45 @@ Bij de ondertekening van het heden gesloten Algemeen Postverdrag zijn de onderge
 
 ##### Artikel X. Aan douanerechten onderworpen voorwerpen
 
-1. Onder verwijzing naar [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01) aanvaarden de volgende lidstaten geen zendingen met waardeaangifte die aan douanerechten onderworpen voorwerpen bevatten: Bangladesh en El Salvador.
+1. Onder verwijzing naar [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01) aanvaarden de volgende lidstaten geen zendingen met waardeaangifte die aan douanerechten onderworpen voorwerpen bevatten: Bangladesh en El Salvador.
 
-2. Onder verwijzing naar [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01) aanvaarden de volgende lidstaten geen gewone of aangetekende brieven die aan douanerechten onderworpen voorwerpen bevatten: Afghanistan, Albanië, Azerbeidzjan, Belarus, Cambodja, Chili, Colombia, Cuba, El Salvador, Estland, Kazachstan, de Democratische Volksrepubliek Korea, Letland, Moldavië, Nepal, Oekraïne, Oezbekistan, Peru, Rusland (Russische Federatie), San Marino, Turkmenistan en (de Bolivariaanse Republiek) Venezuela.
+2. Onder verwijzing naar [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01) aanvaarden de volgende lidstaten geen gewone of aangetekende brieven die aan douanerechten onderworpen voorwerpen bevatten: Afghanistan, Albanië, Azerbeidzjan, Belarus, Cambodja, Chili, Colombia, Cuba, El Salvador, Estland, Kazachstan, de Democratische Volksrepubliek Korea, Letland, Moldavië, Nepal, Oekraïne, Oezbekistan, Peru, de Russische Federatie, San Marino, Turkmenistan en (de Bolivariaanse Republiek) Venezuela.
 
-3. Onder verwijzing naar [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-01-01&g=2022-01-01) aanvaarden de volgende lidstaten geen gewone brieven die aan douanerechten onderworpen voorwerpen bevatten: Benin, Burkina Faso, Djibouti, (de Republiek) Ivoorkust, Mali en Mauritanië.
+3. Onder verwijzing naar [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=19&z=2022-07-01&g=2022-07-01) aanvaarden de volgende lidstaten geen gewone brieven die aan douanerechten onderworpen voorwerpen bevatten: Benin, Burkina Faso, Djibouti, (de Republiek) Ivoorkust, Mali en Mauritanië.
 
-4. Niettegenstaande het in 1 tot en met 3 bepaalde, worden serum- en vaccinzendingen, alsmede zendingen met dringend noodzakelijke en moeilijk verkrijgbare geneesmiddelen, te allen tijde toegelaten.
+4. Onverminderd het in 1 tot en met 3 bepaalde, worden serum- en vaccinzendingen, alsmede zendingen met dringend noodzakelijke en moeilijk verkrijgbare geneesmiddelen, te allen tijde toegelaten.
 
 ##### Artikel XI. Douaneaanbiedingsheffing
 
 1. Gabon behoudt zich het recht voor om van cliënten een douaneaanbiedingsheffing te innen.
 
-2. Niettegenstaande [artikel 20.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=20&z=2022-01-01&g=2022-01-01) behouden Australië, Brazilië, Canada, Cyprus en Rusland (Russische Federatie) zich het recht voor van cliënten ten aanzien van zendingen die ter controle aan de douane worden voorgelegd een douaneaanbiedingsheffing te innen.
+2. In afwijking van [artikel 20.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=20&z=2022-07-01&g=2022-07-01) behouden Argentinië, Australië, Brazilië, Canada, Cyprus, Finland, Oostenrijk, Roemenië, de Russische Federatie en Spanje zich het recht voor van cliënten ten aanzien van zendingen die ter controle aan de douane worden voorgelegd een douaneaanbiedingsheffing te innen.
 
-3. Niettegenstaande [artikel 20.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=20&z=2022-01-01&g=2022-01-01) behouden Azerbeidzjan, Griekenland, Pakistan en Turkije zich het recht voor van cliënten een douaneaanbiedingsheffing te innen ten aanzien van alle bij de douane-autoriteiten aangeboden zendingen.
+3. In afwijking van [artikel 20.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=V&artikel=20&z=2022-07-01&g=2022-07-01) behouden Azerbeidzjan, Griekenland, Pakistan en Turkije zich het recht voor van cliënten een douaneaanbiedingsheffing te innen ten aanzien van alle bij de douaneautoriteiten aangeboden zendingen.
 
-4. (De Republiek) Congo en Zambia behouden zich het recht voor om van hun cliënten een douaneaanbiedingsheffing te innen ten aanzien van pakketten.
+4. (De Republiek) Congo en Zambia behouden zich het recht voor om van hun cliënten ten aanzien van pakketten een douaneaanbiedingsheffing te innen.
 
 ##### Artikel XII. Klachten
 
-1. In afwijking van [artikel 21.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VI&artikel=21&z=2022-01-01&g=2022-01-01) behouden Egypte, de Filipijnen, Gabon, Griekenland, (de Islamitische Republiek) Iran, Kaapverdië, Kirgizstan, de Democratische Volksrepubliek Korea, Mongolië, Myanmar, Oekraïne, Oezbekistan, Saudi-Arabië, Sudan, (de Arabische Republiek) Syrië, Tsjaad, Turkmenistan, de Overzeese Gebiedsdelen van het Verenigd Koninkrijk en Zambia zich het recht voor om van hun cliënten een reclameringstoeslag te heffen voor briefpostzendingen.
+1. In afwijking van [artikel 21.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VI&artikel=21&z=2022-07-01&g=2022-07-01) behouden Egypte, de Filipijnen, Gabon, Griekenland, (de Islamitische Republiek) Iran, Kaapverdië, Kirgizstan, de Democratische Volksrepubliek Korea, Mongolië, Myanmar, Oekraïne, Oezbekistan, Saudi-Arabië, Sudan, (de Arabische Republiek) Syrië, Tsjaad, Turkmenistan, de Overzeese Gebiedsdelen van het Verenigd Koninkrijk en Zambia zich het recht voor om van hun cliënten een reclameringstoeslag te heffen voor briefpostzendingen.
 
-2. In afwijking van[artikel 21.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VI&artikel=21&z=2022-01-01&g=2022-01-01) behouden Argentinië, Azerbeidzjan, Hongarije, Litouwen, Moldavië, Noorwegen, Oostenrijk en Slowakije zich het recht voor om een bijzondere toeslag te heffen wanneer na een naar aanleiding van een klacht ingesteld onderzoek blijkt dat deze klacht ongegrond was.
+2. In afwijking van [artikel 21.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VI&artikel=21&z=2022-07-01&g=2022-07-01) behouden Argentinië, Azerbeidzjan, Belarus, Canada, Finland, Hongarije, Litouwen, Moldavië, Noorwegen, Oostenrijk, Roemenië en Slowakije zich het recht voor om een bijzondere toeslag te heffen wanneer na een naar aanleiding van een klacht ingesteld onderzoek blijkt dat deze klacht ongegrond was.
 
 3. Afghanistan, (de Republiek) Congo, Egypte, Gabon, (de Islamitische Republiek) Iran, Kaapverdië, Kirgizië, Mongolië, Myanmar, Oekraïne, Oezbekistan, Saudi-Arabië, Sudan, Suriname, (de Arabische Republiek) Syrië, Turkmenistan en Zambia behouden zich het recht voor om van hun cliënten een reclameringstoeslag te heffen voor postpakketten.
 
-4. In afwijking van[artikel 21.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VI&artikel=21&z=2022-01-01&g=2022-01-01) behouden (de Verenigde Staten van) Amerika, Brazilië en (de Republiek) Panama zich het recht voor om van hun klanten een reclameringstoeslag te heffen voor briefpostzendingen en postpakketten die worden afgegeven in de landen die een dergelijke heffing toepassen uit hoofde van de bepalingen onder 1 tot en met 3 van dit artikel.
+4. In afwijking van [artikel 21.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VI&artikel=21&z=2022-07-01&g=2022-07-01) behouden Brazilië, (de Republiek) Panama en de Verenigde Staten van Amerika, zich het recht voor om van hun klanten een reclameringstoeslag te heffen voor briefpostzendingen en postpakketten die worden afgegeven in de landen die een dergelijke heffing toepassen uit hoofde van de bepalingen onder 1 tot en met 3 van dit artikel.
 
 ##### Artikel XIII. Buitengewone territoriale bestellingsquota
 
-1. In afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=B&artikel=32&z=2022-01-01&g=2022-01-01) behoudt Afghanistan zich het recht voor om een supplementair buitengewoon territoriaal bestellingsquotum van BTR 7,50 per pakket te heffen.
+In afwijking van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=C&artikel=33&z=2022-07-01&g=2022-07-01) behoudt Afghanistan zich het recht voor om een supplementair buitengewoon territoriaal bestellingsquotum van BTR 7,50 per pakket te heffen.
 
 ##### Artikel XIV. Basistarief en bepalingen met betrekking tot de kosten van luchtvervoer
 
-1. Onverminderd de bepalingen van [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=C&artikel=33&z=2022-01-01&g=2022-01-01) behoudt Australië zich het recht voor om tarieven te heffen voor luchtvervoer van uitgaande pakketten verzonden via de retourdienst voor handelswaar, hetzij zoals vastgelegd in de Regelingen, hetzij op andere wijze, met inbegrip van bilaterale overeenkomsten.
+Onverminderd de bepalingen van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=D&artikel=34&z=2022-07-01&g=2022-07-01) behoudt Australië zich het recht voor om tarieven te heffen voor luchtvervoer van uitgaande pakketten verzonden via de retourdienst voor handelswaar, hetzij zoals vastgelegd in de Regelingen, hetzij op andere wijze, met inbegrip van bilaterale overeenkomsten.
 
 ##### Artikel XV. Bijzondere tarieven
 
-1. (De Verenigde Staten van) Amerika, België en Noorwegen mogen voor luchtpostpakketten hogere territoriale quota te heffen dan voor land- en/of zeepostpakketten.
+1. België, Noorwegen en de Verenigde Staten van Amerika hebben het recht voor luchtpostpakketten hogere territoriale quota te heffen dan voor land- en/of zeepostpakketten.
 
 2. Libanon is gerechtigd voor pakketten tot 1 kilogram de toeslag te heffen die geldt voor pakketten van 1 tot 3 kilogram.
 
@@ -1292,7 +1304,7 @@ Bij de ondertekening van het heden gesloten Algemeen Postverdrag zijn de onderge
 
 ##### Artikel XVI. Bevoegdheid van de Postraad het bedrag van de kosten en quota vast te stellen
 
-1. In afwijking van [artikel 35.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=E&artikel=35&z=2022-01-01&g=2022-01-01) behoudt Australië zich het recht voor territoriale bestellingsquota te heffen voor het verzorgen van de retourdienst voor handelswaar voor uitgaande pakketten, hetzij zoals vastgelegd in de Regelingen, hetzij op andere wijze, met inbegrip van bilaterale overeenkomsten.
+In afwijking van [artikel 36.1.6](https://wetten.overheid.nl/jci1.3:c:BWBV0006699&deel=VII&hoofdstuk=F&artikel=36&z=2022-07-01&g=2022-07-01) behoudt Australië zich het recht voor territoriale bestellingsquota te heffen voor het verzorgen van de retourdienst voor handelswaar voor uitgaande pakketten, hetzij zoals vastgelegd in de Regelingen, hetzij op andere wijze, met inbegrip van bilaterale overeenkomsten.
 
 IN WITNESS WHEREOF the plenipotentiaries of the Governments of the member countries have signed this Convention in a single original which shall be deposited with the Director General of the International Bureau. A copy thereof shall be delivered to each party by the International Bureau of the Universal Postal Union.
 
@@ -1396,11 +1408,11 @@ DONE at Istanbul, 6 October 2016
 
 ## DEEL IX. SLOTBEPALINGEN
 
-Bij de ondertekening van het heden gesloten Algemeen Postverdrag zijn de ondergetekende gevolmachtigden het volgende overeengekomen:
+Bij de ondertekening van het heden gesloten Algemeen Postverdrag (hierna het „Verdrag”) zijn de gevolmachtigden van de regeringen van de lidstaten van de Wereldpostunie (hierna de „Unie”) het volgende overeengekomen:
 
-IN WITNESS WHEREOF the plenipotentiaries of the Governments of the member countries have signed this Convention in a single original which shall be deposited with the Director General of the International Bureau. A copy thereof shall be delivered to each party by the International Bureau of the Universal Postal Union.
+IN WITNESS WHEREOF the plenipotentiaries of the Governments of the member countries have signed this Convention in a single original which shall be deposited with the Director General of the International Bureau. A copy thereof shall be delivered to each member country by the International Bureau of the Union.
 
-DONE at Istanbul, 6 October 2016
+DONE at Abidjan, 26 August 2021
 
 ##### Artikel 36. EMS en geïntegreerde logistiek en nieuwe diensten
 
@@ -1409,3 +1421,7 @@ DONE at Istanbul, 6 October 2016
 - 1.1. EMS, een expresse-postdienst bestemd voor stukken en handelswaar die, voor zover mogelijk, de snelste postale dienst langs fysieke weg vormt. Deze dienst kan worden verzorgd op basis van een standaard multilateraal EMS-akkoord of op basis van bilaterale overeenkomsten;
 
 - 1.2. de geïntegreerde logistieke dienst, die volledig beantwoordt aan de behoeften van de clientèle op het gebied van logistiek en die de fasen voor en na de fysieke verzending van de goederen en stukken behelst.
+
+##### Artikel 41. Inwerkingtreding en duur van dit Verdrag
+
+Dit Verdrag treedt in werking op 1 juli 2022 (met uitzondering van de bepalingen vervat in deel VII, „Vergoeding”, die in werking treden op 1 januari 2022) en blijft voor onbepaalde tijd van kracht.
