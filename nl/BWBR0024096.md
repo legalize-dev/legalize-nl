@@ -4,7 +4,7 @@ identifier: "BWBR0024096"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2026-01-01"
-last_updated: "2022-05-09"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024096"
 soort: "beleidsregel"
@@ -718,7 +718,7 @@ Ontslag van een bewaarder gebeurt steeds schriftelijk; in voorkomend geval kan d
 
 Als de belastingdeurwaarder beslag legt op computerapparatuur, dan valt alleen de zogenoemde ‘hardware’ onder dit beslag. De belastingdeurwaarder moet – voordat tot executoriale verkoop wordt overgegaan – nagaan of deze apparatuur nog de zogenoemde ‘software’ bevat (bestanden, programma’s en dergelijke). Als dat het geval is, dan moet de belastingschuldige de mogelijkheid worden geboden om die software te verwijderen en een back-up te maken.
 
-De ontvanger moet er voor zorgdragen dat geen zilveren, gouden of platina werken die niet zijn voorzien van de stempeltekenen die volgens de [Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275) vereist zijn, in openbare verkoop worden gebracht of met dat doel worden tentoongesteld.
+De ontvanger moet er voor zorgdragen dat geen zilveren, gouden of platina werken die niet zijn voorzien van de stempeltekenen die volgens de [Waarborgwet 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042284) vereist zijn, in openbare verkoop worden gebracht of met dat doel worden tentoongesteld.
 
 ### 14.2.14. Executoriale verkoop zilveren, gouden en platina werken
 
@@ -740,7 +740,7 @@ Als de belastingschuldige er uitdrukkelijk om verzoekt of als de ontvanger dit w
 
 Opheffing van het beslag op roerende zaken als bedoeld in [artikel 445 Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=445) wordt altijd kenbaar gemaakt bij deurwaardersexploot.
 
-De ontvanger verhaalt de openstaande schuld waarvoor het beslag roerende zaken is gelegd op de executieopbrengst, inclusief de daarin begrepen omzetbelasting. Voordat de opbrengst op de openstaande schuld wordt afgeboekt, worden eerst de kosten van executie verrekend. De ontvanger boekt de opbrengst vervolgens af met inachtneming van het bepaalde bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=7&z=2022-05-09&g=2022-05-09) van deze leidraad.
+De ontvanger verhaalt de openstaande schuld waarvoor het beslag roerende zaken is gelegd op de executieopbrengst, inclusief de daarin begrepen omzetbelasting. Voordat de opbrengst op de openstaande schuld wordt afgeboekt, worden eerst de kosten van executie verrekend. De ontvanger boekt de opbrengst vervolgens af met inachtneming van het bepaalde bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=7&z=2022-07-01&g=2022-07-01) van deze leidraad.
 
 ### 14.2.18. Afboeking executieopbrengst verkoop roerende zaken
 
@@ -1120,11 +1120,11 @@ Lijfsdwang zal alleen worden toegepast voor belastingaanslagen waarvan redelijke
 
 ### 20.2. Geen dreiging met lijfsdwang
 
-Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2022-05-09&g=2022-05-09) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
+Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2022-07-01&g=2022-07-01) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
 
 ### 20.5. Lijfsdwang in geval van civiele vordering
 
-De ontvanger heeft de bevoegdheid om een dwangbevel ten uitvoer te leggen door middel van lijfsdwang. Naast deze bevoegdheid kan de ontvanger op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20) ook lijfsdwang toepassen met betrekking tot civiele vorderingen die strekken tot betaling van schadevergoeding aan de ontvanger in verband met een belastingschuld die niet is voldaan. Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2022-05-09&g=2022-05-09) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
+De ontvanger heeft de bevoegdheid om een dwangbevel ten uitvoer te leggen door middel van lijfsdwang. Naast deze bevoegdheid kan de ontvanger op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20) ook lijfsdwang toepassen met betrekking tot civiele vorderingen die strekken tot betaling van schadevergoeding aan de ontvanger in verband met een belastingschuld die niet is voldaan. Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2022-07-01&g=2022-07-01) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
 
 Onderhoudskosten worden in het geval van lijfsdwang de belastingschuldige niet in rekening gebracht. Alleen de kosten van het proces-verbaal van gijzeling en van de akte van ingevangenstelling, met inbegrip van de beloning van de getuigen worden aan de belastingschuldige in rekening gebracht.
 
@@ -1136,7 +1136,7 @@ De zaken omschreven in [artikel 22, derde lid, van de wet](https://wetten.overhe
 
 ### 20.5. Lijfsdwang in geval van civiele vordering
 
-De ontvanger heeft de bevoegdheid om een dwangbevel ten uitvoer te leggen door middel van lijfsdwang. Naast deze bevoegdheid kan de ontvanger op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20) ook lijfsdwang toepassen met betrekking tot civiele vorderingen die strekken tot betaling van schadevergoeding aan de ontvanger in verband met een belastingschuld die niet is voldaan. Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2023-01-01&g=2022-05-09) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
+De ontvanger heeft de bevoegdheid om een dwangbevel ten uitvoer te leggen door middel van lijfsdwang. Naast deze bevoegdheid kan de ontvanger op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=20) ook lijfsdwang toepassen met betrekking tot civiele vorderingen die strekken tot betaling van schadevergoeding aan de ontvanger in verband met een belastingschuld die niet is voldaan. Al hetgeen is vermeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=20&z=2023-01-01&g=2022-07-01) van deze leidraad is zoveel mogelijk hierop van overeenkomstige toepassing.
 
 ### Artikel 21. Voorrecht rijksbelastingen
 
@@ -1916,7 +1916,7 @@ Als de ontvanger besluit dat kwijtschelding zal worden verleend nadat aan één 
 
 ### 26.1.6. Motivering afwijzing van het verzoek om kwijtschelding
 
-Als tot de voorwaarden de voldoening van een deel van de schuld behoort, dan moet de ontvanger de belastingschuldige uitnodigen om binnen een termijn van veertien dagen een voorstel te doen met betrekking tot de betaling van dat deel. Hierbij is het uitstelbeleid (zie [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2022-05-09&g=2022-05-09) van deze leidraad) van toepassing. Als tot de voorwaarden naast de voldoening van een deel van de schuld ook de verrekening van teruggaven behoort, wordt het te betalen bedrag niet beïnvloed door de hoogte van de verrekende teruggaven.
+Als tot de voorwaarden de voldoening van een deel van de schuld behoort, dan moet de ontvanger de belastingschuldige uitnodigen om binnen een termijn van veertien dagen een voorstel te doen met betrekking tot de betaling van dat deel. Hierbij is het uitstelbeleid (zie [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2022-07-01&g=2022-07-01) van deze leidraad) van toepassing. Als tot de voorwaarden naast de voldoening van een deel van de schuld ook de verrekening van teruggaven behoort, wordt het te betalen bedrag niet beïnvloed door de hoogte van de verrekende teruggaven.
 
 Als de ontvanger het verzoek om kwijtschelding afwijst, moet hij motiveren waarom hij tot afwijzing van het verzoek heeft besloten. Daarbij moet hij alle afwijzingsgronden noemen.
 
@@ -1968,7 +1968,7 @@ De waarde van de personenauto wordt niet als vermogensbestanddeel in aanmerking 
 
 Onder vermogen wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en zijn echtgenoot, verminderd met de schulden van de belastingschuldige en de echtgenoot die hoger bevoorrecht zijn dan de rijksbelastingen.
 
-Incidentele ontvangsten op een bank- of girorekening (zoals vakantiegeld) worden voor de bepaling van een aanwezig vermogensbestanddeel ook in aanmerking genomen, tenzij bij de berekening van de betalingscapaciteit met dat bedrag rekening is gehouden. Deze situatie zal zich met name voordoen bij de vakantiegelduitkering.
+Incidentele ontvangsten op een bankrekening (zoals vakantiegeld) worden voor de bepaling van een aanwezig vermogensbestanddeel ook in aanmerking genomen, tenzij bij de berekening van de betalingscapaciteit met dat bedrag rekening is gehouden. Deze situatie zal zich met name voordoen bij de vakantiegelduitkering.
 
 De nog beschikbare kredietruimte van een doorlopend krediet wordt in de kwijtscheldingsregeling niet als een vermogensbestanddeel aangemerkt.
 
@@ -2270,7 +2270,7 @@ Als de ontvanger als gevolg van een te late betaling terecht rente in rekening b
 
 ### 28.6. Kwijtschelding invorderingsrente niet mogelijk
 
-Kwijtschelding van uitsluitend invorderingsrente is niet mogelijk. De ontvanger doet ook geen toezegging dat de rente niet zal worden ingevorderd. Dit laat onverlet dat de ontvanger kwijtschelding verleent of rente buiten invordering laat, als hij de hoofdsom kwijtscheldt of buiten invordering laat op grond van het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2022-05-09&g=2022-05-09) van deze leidraad.
+Kwijtschelding van uitsluitend invorderingsrente is niet mogelijk. De ontvanger doet ook geen toezegging dat de rente niet zal worden ingevorderd. Dit laat onverlet dat de ontvanger kwijtschelding verleent of rente buiten invordering laat, als hij de hoofdsom kwijtscheldt of buiten invordering laat op grond van het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2022-07-01&g=2022-07-01) van deze leidraad.
 
 De ontvanger vermindert in rekening gebrachte invorderingsrente tot nihil, voor zover deze in rekening is gebracht over de periode dat de belastingschuldige uitstel van betaling heeft genoten op grond van artikel 25.4.6.
 
@@ -2308,9 +2308,9 @@ Als de belastingschuldige in beroep gaat tegen de uitspraak op het bezwaar, hand
 
 ### 30.4. Teruggenomen betalingskorting en invorderingsrente: uitstel van betaling
 
-Als om uitstel van betaling wordt verzocht voor een teruggenomen betalingskorting is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2022-05-09&g=2022-05-09) van deze leidraad van overeenkomstige toepassing. Hiervan kan sprake zijn als de ontvanger de teruggenomen betalingskorting bij vergissing niet heeft verrekend met het uit te betalen bedrag van de vermindering.
+Als om uitstel van betaling wordt verzocht voor een teruggenomen betalingskorting is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2022-07-01&g=2022-07-01) van deze leidraad van overeenkomstige toepassing. Hiervan kan sprake zijn als de ontvanger de teruggenomen betalingskorting bij vergissing niet heeft verrekend met het uit te betalen bedrag van de vermindering.
 
-Indiening van een bezwaar- of beroepschrift (in hoger beroep) schort de verplichting om de invorderingsrente te betalen niet op. Als om uitstel van betaling wordt verzocht is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2022-05-09&g=2022-05-09) van deze leidraad en [artikel 34 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=34) van overeenkomstige toepassing.
+Indiening van een bezwaar- of beroepschrift (in hoger beroep) schort de verplichting om de invorderingsrente te betalen niet op. Als om uitstel van betaling wordt verzocht is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2022-07-01&g=2022-07-01) van deze leidraad en [artikel 34 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=34) van overeenkomstige toepassing.
 
 ### 30.5. Geen bezwaar mogelijk tegen de niet verleende betalingskorting
 
@@ -2322,7 +2322,7 @@ Er zijn in deze leidraad op de [artikelen 31](https://wetten.overheid.nl/jci1.3:
 
 Er zijn in deze leidraad op de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=31) en [31a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=31a) geen beleidsregels gemaakt.
 
-Indiening van een bezwaar- of beroepschrift (in hoger beroep) schort de verplichting om de invorderingsrente te betalen niet op. Als om uitstel van betaling wordt verzocht is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-01-01&g=2022-05-09) van deze leidraad en [artikel 34 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=34) van overeenkomstige toepassing.
+Indiening van een bezwaar- of beroepschrift (in hoger beroep) schort de verplichting om de invorderingsrente te betalen niet op. Als om uitstel van betaling wordt verzocht is het beleid van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-01-01&g=2022-07-01) van deze leidraad en [artikel 34 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=34) van overeenkomstige toepassing.
 
 ### 30.5. Geen bezwaar mogelijk tegen de niet verleende betalingskorting
 
@@ -2604,7 +2604,7 @@ De gemeente treedt in een dergelijk geval op als overheid, hetgeen handelen als 
 
 Hierdoor zal bijvoorbeeld ook het winkelbedrijf onder omstandigheden kunnen worden aangemerkt als eigenbouwer. Het moet dan gaan om voor het winkelbedrijf normale bedrijfsactiviteiten. Bepalend is of het winkelbedrijf het proces in technische of organisatorische zin beheerst. Hiervan zal sprake zijn als het winkelbedrijf normaliter zeer gedetailleerde opdrachten verstrekt en ook in het verdere productieproces een begeleidende/controlerende rol kan vervullen.
 
-Als het winkelbedrijf in de hoedanigheid van opdrachtgever aansprakelijk kan worden gesteld, (zie [artikel 35a, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=35a&z=2022-05-09&g=2022-05-09), van deze leidraad) blijft een aansprakelijkstelling op grond van het zogenoemde eigenbouwerschap ex [artikel 35, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) achterwege.
+Als het winkelbedrijf in de hoedanigheid van opdrachtgever aansprakelijk kan worden gesteld, (zie [artikel 35a, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=35a&z=2022-07-01&g=2022-07-01), van deze leidraad) blijft een aansprakelijkstelling op grond van het zogenoemde eigenbouwerschap ex [artikel 35, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35) achterwege.
 
 ### 35.4. Extraterritoriale werking van de ketenaansprakelijkheid
 
@@ -4264,7 +4264,7 @@ Als de belastingdeurwaarder beslag legt op computerapparatuur, dan valt alleen d
 
 ### 14.2.14. Executoriale verkoop zilveren, gouden en platina werken
 
-Van het houden van een openbare verkoop waarin zilveren, gouden of platina werken voorkomen – al dan niet met het vereiste stempelteken – moet de ontvanger aangifte doen zoals artikel 46 van de Waarborgwet 1986 dat voorschrijft.
+Van het houden van een openbare verkoop waarin zilveren, gouden of platina werken voorkomen – al dan niet met het vereiste stempelteken – moet de ontvanger aangifte doen zoals [artikel 46 van de Waarborgwet 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042284&artikel=46) dat voorschrijft.
 
 ### 14.2.15. Beslag op illegale zaken
 
@@ -4380,7 +4380,7 @@ De belastingdeurwaarder kan een bewaarder aanstellen en de nodige maatregelen ne
 
 ### 14.5. Beslag op schepen
 
-In ieder geval zal een minnelijke afdoening moeten passen in het bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2022-05-09&g=2022-05-09) van deze leidraad geformuleerde uitstelbeleid.
+In ieder geval zal een minnelijke afdoening moeten passen in het bij [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2022-07-01&g=2022-07-01) van deze leidraad geformuleerde uitstelbeleid.
 
 ### 14.5.2. De executie van schepen
 
@@ -4676,11 +4676,11 @@ In aansluiting op [artikel 23a van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 ### 23a.2. Volgorde van uitwinning van daarvoor in aanmerking komende goederen.
 
-[Artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2022-05-09&g=2022-05-09) bepaalt dat in gevallen waarin de belastingschuldige in gebreke is met het voldoen van belastingaanslagen die aan hem zijn opgelegd als gevolg van een toerekening van een afgezonderd particulier vermogen als bedoeld in [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), die belastingaanslagen door de ontvanger kunnen worden ingevorderd met gebruikmaking van het in artikel 23a beschreven bijzonder verhaalsrecht. Dit houdt in dat door de ontvanger niet alleen invorderingsmaatregelen kunnen worden getroffen ten laste belastingschuldige maar ook – met gebruikmaking van het bijzonder verhaalsrecht – door het nemen van verhaal op de goederen van
+[Artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2022-07-01&g=2022-07-01) bepaalt dat in gevallen waarin de belastingschuldige in gebreke is met het voldoen van belastingaanslagen die aan hem zijn opgelegd als gevolg van een toerekening van een afgezonderd particulier vermogen als bedoeld in [artikel 2.14a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), die belastingaanslagen door de ontvanger kunnen worden ingevorderd met gebruikmaking van het in artikel 23a beschreven bijzonder verhaalsrecht. Dit houdt in dat door de ontvanger niet alleen invorderingsmaatregelen kunnen worden getroffen ten laste belastingschuldige maar ook – met gebruikmaking van het bijzonder verhaalsrecht – door het nemen van verhaal op de goederen van
 
 ### Artikel 23a. Bijzonder verhaalsrecht op goederen van het afgezonderd particulier vermogen en op goederen van een derde waarin het afgezonderd particulier vermogen een belang heeft van 5 percent of meer
 
-Pas daarna beproeft de ontvanger invordering met toepassing van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a), op goederen van het afgezonderd particulier vermogen. Pas nadat gebleken is dat invordering op goederen van het afgezonderd particulier vermogen faalt dan wel niet toereikend is om de volledige fiscale verplichtingen aan te zuiveren kan de ontvanger overgaan tot aanwending van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a). Verhaal op goederen van de derde als bedoeld in [artikel 23a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2022-05-09&g=2022-05-09), kan slechts worden uitgeoefend ten belope van het belang dat het afgezonderd particulier vermogen heeft in die derde.
+Pas daarna beproeft de ontvanger invordering met toepassing van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a), op goederen van het afgezonderd particulier vermogen. Pas nadat gebleken is dat invordering op goederen van het afgezonderd particulier vermogen faalt dan wel niet toereikend is om de volledige fiscale verplichtingen aan te zuiveren kan de ontvanger overgaan tot aanwending van het bijzonder verhaalsrecht zoals beschreven in [artikel 23a, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=23a). Verhaal op goederen van de derde als bedoeld in [artikel 23a, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=23a&z=2022-07-01&g=2022-07-01), kan slechts worden uitgeoefend ten belope van het belang dat het afgezonderd particulier vermogen heeft in die derde.
 
 ### Artikel 24. Verrekening
 
@@ -5036,7 +5036,7 @@ Als de ontvanger afwijzend heeft beslist op een verzoek om kwijtschelding of een
 
 ### 26.1.8. Mondeling meedelen afwijzen kwijtschelding
 
-Als tot de voorwaarden de voldoening van een deel van de schuld behoort, dan moet de ontvanger de belastingschuldige uitnodigen om binnen een termijn van veertien dagen een voorstel te doen met betrekking tot de betaling van dat deel. Hierbij is het uitstelbeleid (zie [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-01-01&g=2022-05-09) van deze leidraad) van toepassing. Als tot de voorwaarden naast de voldoening van een deel van de schuld ook de verrekening van teruggaven behoort, wordt het te betalen bedrag niet beïnvloed door de hoogte van de verrekende teruggaven.
+Als tot de voorwaarden de voldoening van een deel van de schuld behoort, dan moet de ontvanger de belastingschuldige uitnodigen om binnen een termijn van veertien dagen een voorstel te doen met betrekking tot de betaling van dat deel. Hierbij is het uitstelbeleid (zie [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=25&z=2023-01-01&g=2022-07-01) van deze leidraad) van toepassing. Als tot de voorwaarden naast de voldoening van een deel van de schuld ook de verrekening van teruggaven behoort, wordt het te betalen bedrag niet beïnvloed door de hoogte van de verrekende teruggaven.
 
 ### 26.1.6. Motivering afwijzing van het verzoek om kwijtschelding
 
@@ -5280,7 +5280,7 @@ Er zijn in deze leidraad op [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### 28.6. Kwijtschelding invorderingsrente niet mogelijk
 
-Kwijtschelding van uitsluitend invorderingsrente is niet mogelijk. De ontvanger doet ook geen toezegging dat de rente niet zal worden ingevorderd. Dit laat onverlet dat de ontvanger kwijtschelding verleent of rente buiten invordering laat, als hij de hoofdsom kwijtscheldt of buiten invordering laat op grond van het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2023-01-01&g=2022-05-09) van deze leidraad.
+Kwijtschelding van uitsluitend invorderingsrente is niet mogelijk. De ontvanger doet ook geen toezegging dat de rente niet zal worden ingevorderd. Dit laat onverlet dat de ontvanger kwijtschelding verleent of rente buiten invordering laat, als hij de hoofdsom kwijtscheldt of buiten invordering laat op grond van het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2023-01-01&g=2022-07-01) van deze leidraad.
 
 ### 28.7. Verminderingen en toepassing [artikel 28, zesde lid, van de wet](onbekend)
 
@@ -5660,7 +5660,7 @@ Onder het begrip betalingsonmacht moet worden verstaan de omstandigheid dat het 
 
 ### 36.5.2. Verzoek waaruit betalingsproblemen blijken en melding betalingsonmacht
 
-Bij de beoordeling of sprake is van betalingsonmacht speelt het begrip ‘liquide middelen’ een rol. Voor de toepassing van [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) worden onder liquide middelen verstaan de kasmiddelen, waaronder de bank- en girotegoeden, en de direct opneembare kredietruimte van het lichaam. De melding van betalingsonmacht dient schriftelijk te geschieden door de bestuurder of de gemachtigde van de belastingschuldige. De wijze waarop de schriftelijke melding moet plaatsvinden, is vormvrij. [Artikel 7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&artikel=7) is echter onverminderd van toepassing. Voor de melding kan gebruik worden gemaakt van het formulier dat de Belastingdienst in het zogenoemde Persoonlijk Domein van de belastingschuldige beschikbaar stelt.
+Bij de beoordeling of sprake is van betalingsonmacht speelt het begrip ‘liquide middelen’ een rol. Voor de toepassing van [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) worden onder liquide middelen verstaan de kasmiddelen, waaronder de banktegoeden, en de direct opneembare kredietruimte van het lichaam. De melding van betalingsonmacht dient schriftelijk te geschieden door de bestuurder of de gemachtigde van de belastingschuldige. De wijze waarop de schriftelijke melding moet plaatsvinden, is vormvrij. [Artikel 7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&artikel=7) is echter onverminderd van toepassing. Voor de melding kan gebruik worden gemaakt van het formulier dat de Belastingdienst in het zogenoemde Persoonlijk Domein van de belastingschuldige beschikbaar stelt.
 
 ### 36.5.2. Verzoek waaruit betalingsproblemen blijken en melding betalingsonmacht
 
@@ -6544,7 +6544,7 @@ Ook wordt geen kwijtschelding verleend voor het bedrag van de te betalen belasti
 
 ### 26.2.4. Saldo op bankrekening en kwijtschelding voor particulieren
 
-Incidentele ontvangsten op een bank- of girorekening (zoals vakantiegeld) worden voor de bepaling van een aanwezig vermogensbestanddeel ook in aanmerking genomen, tenzij bij de berekening van de betalingscapaciteit met dat bedrag rekening is gehouden. Deze situatie zal zich met name voordoen bij de vakantiegelduitkering.
+Incidentele ontvangsten op een bankrekening (zoals vakantiegeld) worden voor de bepaling van een aanwezig vermogensbestanddeel ook in aanmerking genomen, tenzij bij de berekening van de betalingscapaciteit met dat bedrag rekening is gehouden. Deze situatie zal zich met name voordoen bij de vakantiegelduitkering.
 
 ### 26.2.8. Levensloopregeling en kwijtschelding voor particulieren
 
@@ -7590,7 +7590,7 @@ Als invorderingsmaatregelen worden getroffen met inachtneming van de [artikelen 
 
 ### 75.9. Aansprakelijkgestelden en vervolgingskosten
 
-Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van invorderingsmaatregelen die tegen de aansprakelijkgestelde zijn genomen, is [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=75&z=2022-05-09&g=2022-05-09) van overeenkomstige toepassing.
+Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van invorderingsmaatregelen die tegen de aansprakelijkgestelde zijn genomen, is [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=75&z=2022-07-01&g=2022-07-01) van overeenkomstige toepassing.
 
 ### 75.10. Geen kwijtschelding van vervolgingskosten
 
@@ -7602,7 +7602,7 @@ Als invorderingsmaatregelen worden getroffen met inachtneming van de [artikelen 
 
 Als door de ontvanger of de belastingdeurwaarder op dezelfde dag aan een belastingschuldige meerdere dwangbevelen worden betekend, is de belastingschuldige niet meer betekeningskosten verschuldigd dan het, op grond van [artikel 3, eerste lid, van de Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=3), maximaal in rekening te brengen bedrag voor het betekenen van een dwangbevel.
 
-Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van invorderingsmaatregelen die tegen de aansprakelijkgestelde zijn genomen, is [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=75&z=2023-01-01&g=2022-05-09) van overeenkomstige toepassing.
+Voor de door aansprakelijkgestelden verschuldigde kosten die het gevolg zijn van invorderingsmaatregelen die tegen de aansprakelijkgestelde zijn genomen, is [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=75&z=2023-01-01&g=2022-07-01) van overeenkomstige toepassing.
 
 ### 75.10. Geen kwijtschelding van vervolgingskosten
 
@@ -7650,7 +7650,7 @@ In uitzonderlijke situaties kan er voor de ontvanger aanleiding bestaan de in re
 
 ### 75.8. Versnelde invordering en vervolgingskosten
 
-Het voorgaande laat onverlet dat kwijtschelding wordt verleend dan wel kosten buiten invordering worden gelaten, wanneer de hoofdsom wordt kwijtgescholden dan wel buiten invordering gelaten. Hiervoor wordt verwezen naar hetgeen is vermeld bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2022-05-09&g=2022-05-09) van deze leidraad.
+Het voorgaande laat onverlet dat kwijtschelding wordt verleend dan wel kosten buiten invordering worden gelaten, wanneer de hoofdsom wordt kwijtgescholden dan wel buiten invordering gelaten. Hiervoor wordt verwezen naar hetgeen is vermeld bij [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=26&z=2022-07-01&g=2022-07-01) van deze leidraad.
 
 ### 75.11. Limitering betekeningskosten dwangbevel
 
@@ -7982,7 +7982,7 @@ Het komt voor dat bijstand kan worden gevraagd aan een bepaalde staat op grond v
 
 ##### Artikel 22bis.2. Onverkorte mededelingsverplichting
 
-In afwijking van [artikel 22bis.1., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.1&z=2022-05-09&g=2022-05-09), geldt de mededelingsplicht voor de onder onderdeel B genoemde gevallen onverkort indien:
+In afwijking van [artikel 22bis.1., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.1&z=2022-07-01&g=2022-07-01), geldt de mededelingsplicht voor de onder onderdeel B genoemde gevallen onverkort indien:
 
 - a. ter zake van de financiering enige betalingsachterstand is ontstaan die ten tijde van het in [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis) bedoelde handelen meer dan vier maanden heeft voortgeduurd;
 
@@ -8004,7 +8004,7 @@ Ten aanzien van de behandelingstermijn van de mededeling houdt de ontvanger zove
 
 ##### Artikel 22bis.5. Overleg n.a.v. mededeling ex [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis)
 
-De derde of de belastingschuldige die voornemens is zijn rechten uit te oefenen, dan wel een andere handeling te verrichten of te laten verrichten in de zin van [artikel 22bis, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), kan in overleg treden met de ontvanger teneinde overeenstemming te bereiken over de afhandeling van de mededeling. Hierbij zijn de uitgangspunten als beschreven in de [artikelen 22bis.5.1. tot en met 22bis.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.5.1&z=2022-05-09&g=2022-05-09). van deze leidraad van toepassing.
+De derde of de belastingschuldige die voornemens is zijn rechten uit te oefenen, dan wel een andere handeling te verrichten of te laten verrichten in de zin van [artikel 22bis, tweede of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), kan in overleg treden met de ontvanger teneinde overeenstemming te bereiken over de afhandeling van de mededeling. Hierbij zijn de uitgangspunten als beschreven in de [artikelen 22bis.5.1. tot en met 22bis.5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.5.1&z=2022-07-01&g=2022-07-01). van deze leidraad van toepassing.
 
 ##### Artikel 22bis.5.1. Afkoop voorrecht of verhaalsrecht
 
@@ -8096,7 +8096,7 @@ Dit betekent voor de uitvoering het volgende. Als het ingevorderde bedrag gelijk
 
 ### 78.6. Koersverschillen bij internationale invordering
 
-De directeur van Belastingdienst/Toeslagen heeft de in [artikel 4, tweede lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4) bedoelde algemeen directeuren van de Belastingdienst die zijn belast met de invordering van rijksbelastingen, mandaat verleend om namens Belastingdienst/Toeslagen toeslagschuld in te vorderen. In de uitoefening van die invorderingstaak treden zij niet op in hun hoedanigheid van ontvanger maar als het bestuursorgaan Belastingdienst/Toeslagen.
+De Belastingdienst/Toeslagen, vertegenwoordigd door de directeur-generaal Toeslagen, heeft de in [artikel 3, eerste lid, onderdeel a, eerste en tweede gedachtestreepje en onderdeel c Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3), bedoelde algemeen directeuren, mandaat verleend om namens de Belastingdienst/Toeslagen toeslagschuld in te vorderen. In de uitoefening van die invorderingstaak treden zij niet op in hun hoedanigheid van ontvanger maar als het bestuursorgaan Belastingdienst/Toeslagen.
 
 ### 22.7. Bodemrecht en voorrang
 
@@ -8222,11 +8222,11 @@ Voor een toeslagschuld geldt dat het invorderingsbeleid voor belastingschulden z
 
 ##### Artikel 22bis.6. Overgangsrecht
 
-Met betrekking tot de financieringsovereenkomsten die zijn gesloten voor 1 juli 2014 is [artikel 22bis.2, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.2&z=2022-05-09&g=2022-05-09), van deze leidraad niet van toepassing als de derde schriftelijk afstand heeft gedaan van zijn eigendoms- of zekerheidsrechten vóór het in het in [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis) bedoelde mededelingsplichtige voornemen.
+Met betrekking tot de financieringsovereenkomsten die zijn gesloten voor 1 juli 2014 is [artikel 22bis.2, onderdeel b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=22bis&artikel=22bis.2&z=2022-07-01&g=2022-07-01), van deze leidraad niet van toepassing als de derde schriftelijk afstand heeft gedaan van zijn eigendoms- of zekerheidsrechten vóór het in het in [artikel 22bis, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis) bedoelde mededelingsplichtige voornemen.
 
 ### 77.3. Aanbrengen verplichtingensignaal
 
-De directeur van Belastingdienst/Toeslagen heeft de in [artikel 4, tweede lid, van de Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=4) bedoelde algemeen directeuren van de Belastingdienst die zijn belast met de invordering van rijksbelastingen, mandaat verleend om namens Belastingdienst/Toeslagen toeslagschuld in te vorderen. In de uitoefening van die invorderingstaak treden zij niet op in hun hoedanigheid van ontvanger maar als het bestuursorgaan Belastingdienst/Toeslagen.
+De Belastingdienst/Toeslagen, vertegenwoordigd door de directeur-generaal Toeslagen, heeft de in [artikel 3, eerste lid, onderdeel a, eerste en tweede gedachtestreepje en onderdeel c Uitvoeringsregeling Belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506&artikel=3), bedoelde algemeen directeuren, mandaat verleend om namens de Belastingdienst/Toeslagen toeslagschuld in te vorderen. In de uitoefening van die invorderingstaak treden zij niet op in hun hoedanigheid van ontvanger maar als het bestuursorgaan Belastingdienst/Toeslagen.
 
 ### 79.3b. Toeslagschuld na de toepassing van de [WSNP](https://wetten.overheid.nl/jci1.3:c:BWBR0009730) of MSNP
 
@@ -8338,7 +8338,7 @@ Verrekening met termijnbedragen is echter wel toegestaan indien en voor zover de
 
 ### 79.7. Standaardbetalingsregeling toeslagschuld
 
-De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) en [13 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13) zijn hierbij van overeenkomstige toepassing met dien verstande dat:
+De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) en [13 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13) en de artikelen 25.5.5 tot en met 25.5.9 zijn hierbij van overeenkomstige toepassing met dien verstande dat:
 
 ### 79.9. Geen verdere invorderingsmaatregelen voor toeslagschuld treffen
 
@@ -8350,7 +8350,7 @@ Als de belanghebbende wel over betalingscapaciteit beschikt, maar deze is niet v
 
 ### Artikel 79.8a. Toeslagschuld te wijten aan opzet of grove schuld
 
-De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) en [13 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13) zijn hierbij van overeenkomstige toepassing met dien verstande dat:
+De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=12) en [13 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=13) en de artikelen 25.5.5 tot en met 25.5.9 zijn hierbij van overeenkomstige toepassing met dien verstande dat:
 
 ### 79.3. Faillissement, WSNP en toeslagschuld
 
