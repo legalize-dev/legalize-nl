@@ -4,7 +4,7 @@ identifier: "BWBV0006191"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-07-01"
-last_updated: "2020-08-02"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006191"
 soort: "verdrag"
@@ -138,7 +138,7 @@ zijn als volgt overeengekomen:
 
 Tenzij anders bepaald, wordt met het oog op de toepassing van deze Overeenkomst verstaan onder:
 
-- 1. „overeengekomen diensten” en „gespecificeerde routes”: internationaal luchtvervoer overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=2&z=2020-08-02&g=2020-08-02) en [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=I&z=2020-08-02&g=2020-08-02) bij deze Overeenkomst;
+- 1. „overeengekomen diensten” en „gespecificeerde routes”: internationaal luchtvervoer overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=2&z=2022-07-01&g=2022-07-01) en [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=I&z=2022-07-01&g=2022-07-01) bij deze Overeenkomst;
 
 - 2. „Overeenkomst”: de onderhavige Overeenkomst, de bijlagen daarbij en eventuele wijzigingen daarvan;
 
@@ -176,7 +176,7 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze Overeenkomst 
 
 - a. elke persoon met Israëlisch staatsburgerschap, in het geval van Israël, of met de nationaliteit van een lidstaat, in het geval van de Europese Unie en haar lidstaten; of
 
-- b. elke rechtspersoon i) die rechtstreeks of via een meerderheidsparticipatie eigendom is van en te allen tijde onder de feitelijke zeggenschap staat van personen of entiteiten met Israëlisch staatsburgerschap in het geval van Israël, of personen of entiteiten met de nationaliteit van een lidstaat of een van de andere in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=III&z=2020-08-02&g=2020-08-02) vermelde staten in het geval van de Europese Unie en haar lidstaten, en ii) waarvan de hoofdvestiging zich in Israël bevindt, in het geval van Israël, of in een lidstaat in het geval van de Europese Unie en haar lidstaten;
+- b. elke rechtspersoon i) die rechtstreeks of via een meerderheidsparticipatie eigendom is van en te allen tijde onder de feitelijke zeggenschap staat van personen of entiteiten met Israëlisch staatsburgerschap in het geval van Israël, of personen of entiteiten met de nationaliteit van een lidstaat of een van de andere in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=III&z=2022-07-01&g=2022-07-01) vermelde staten in het geval van de Europese Unie en haar lidstaten, en ii) waarvan de hoofdvestiging zich in Israël bevindt, in het geval van Israël, of in een lidstaat in het geval van de Europese Unie en haar lidstaten;
 
 - 17. „nationaliteit”: in het geval van een luchtvaartmaatschappij, het feit dat de luchtvaartmaatschappij voldoet aan de eisen inzake eigendom, feitelijke zeggenschap en hoofdvestigingsplaats;
 
@@ -224,7 +224,7 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze Overeenkomst 
 
 ##### Artikel 2. Verkeersrechten
 
-1. Overeenkomstig [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=I&z=2020-08-02&g=2020-08-02) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=II&z=2020-08-02&g=2020-08-02) verleent elke partij de andere partij de volgende rechten met betrekking tot de exploitatie van internationaal luchtvervoer door luchtvaartmaatschappijen van de andere partij:
+1. Overeenkomstig [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=I&z=2022-07-01&g=2022-07-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=II&z=2022-07-01&g=2022-07-01) verleent elke partij de andere partij de volgende rechten met betrekking tot de exploitatie van internationaal luchtvervoer door luchtvaartmaatschappijen van de andere partij:
 
 - a. het recht over haar grondgebied te vliegen zonder te landen;
 
@@ -258,17 +258,17 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze Overeenkomst 
 
 - –. de lidstaat van de Europese Unie die verantwoordelijk is voor de afgifte van het Air Operator Certificate daadwerkelijk regelgevend toezicht houdt op de luchtvaartmaatschappij, en de bevoegde autoriteit duidelijk is geïdentificeerd; en
 
-- –. de luchtvaartmaatschappij rechtstreeks of door een meerderheidsbelang eigendom is van lidstaten en/of onderdanen van lidstaten van de Europese Unie, of van andere in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=III&z=2020-08-02&g=2020-08-02) vermelde landen en/of onderdanen van die landen, en deze landen en/of onderdanen daadwerkelijk zeggenschap uitoefenen over de luchtvaartmaatschappij.
+- –. de luchtvaartmaatschappij rechtstreeks of door een meerderheidsbelang eigendom is van lidstaten en/of onderdanen van lidstaten van de Europese Unie, of van andere in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=III&z=2022-07-01&g=2022-07-01) vermelde landen en/of onderdanen van die landen, en deze landen en/of onderdanen daadwerkelijk zeggenschap uitoefenen over de luchtvaartmaatschappij.
 
 - c. de luchtvaartmaatschappij beantwoordt aan de voorwaarden in de wetten en regels die normaal worden toegepast door de autoriteit die bevoegd is voor de exploitatie van het internationaal luchtvervoer; en
 
-- d. de voorschriften van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=13&z=2020-08-02&g=2020-08-02) (Veiligheid van de luchtvaart) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=14&z=2020-08-02&g=2020-08-02) (Beveiliging van de luchtvaart) worden gehandhaafd en opgelegd.
+- d. de voorschriften van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=13&z=2022-07-01&g=2022-07-01) (Veiligheid van de luchtvaart) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=14&z=2022-07-01&g=2022-07-01) (Beveiliging van de luchtvaart) worden gehandhaafd en opgelegd.
 
 ##### Artikel 3 bis. Wederzijdse erkenning van regelgevende vaststellingen inzake de deugdelijkheid en nationaliteit van luchtvaartmaatschappijen
 
 Als de bevoegde autoriteiten van een partij een aanvraag voor een vergunning ontvangen van een luchtvaartmaatschappij van de andere partij, erkennen zij de door de bevoegde autoriteiten van de vragende partij gedane vaststellingen met betrekking tot de deugdelijkheid en/of nationaliteit van die luchtvaartmaatschappij alsof zij die vaststellingen zelf zouden hebben gedaan, en voeren zij verder geen onderzoek naar deze kwesties, behalve zoals bepaald onder a) hieronder.
 
-- a. Indien, na ontvangst van een aanvraag voor een vergunning van een luchtvaartmaatschappij of na het verlenen van een dergelijke vergunning, de bevoegde autoriteiten van de ontvangende partij een specifieke reden hebben om bezorgd te zijn over het feit dat, ondanks de door de bevoegde autoriteiten van de andere partij gedane vaststelling, de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=3&z=2020-08-02&g=2020-08-02) van deze Overeenkomst vermelde voorwaarden voor het verlenen van passende vergunningen of licenties niet zijn nageleefd, dienen zij deze autoriteiten daar onmiddellijk van in kennis te stellen en hun bezorgdheid te motiveren. In dat geval mag elke partij om overleg verzoeken, inclusief met vertegenwoordigers van de relevante bevoegde autoriteiten van beide partijen, en/of aanvullende informatie over deze redenen tot bezorgdheid vragen, en op dergelijke verzoeken moet zo snel als praktisch uitvoerbaar worden ingegaan. Als er geen oplossing wordt gevonden, mag elke partij bij de Overeenkomst de kwestie voorleggen aan het bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02) van deze Overeenkomst opgerichte Gemengd Comité en mag, overeenkomstig leden 7 en 9 van artikel 22, passende vrijwaringsmaatregelen nemen zoals bepaald in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=24&z=2020-08-02&g=2020-08-02).
+- a. Indien, na ontvangst van een aanvraag voor een vergunning van een luchtvaartmaatschappij of na het verlenen van een dergelijke vergunning, de bevoegde autoriteiten van de ontvangende partij een specifieke reden hebben om bezorgd te zijn over het feit dat, ondanks de door de bevoegde autoriteiten van de andere partij gedane vaststelling, de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=3&z=2022-07-01&g=2022-07-01) van deze Overeenkomst vermelde voorwaarden voor het verlenen van passende vergunningen of licenties niet zijn nageleefd, dienen zij deze autoriteiten daar onmiddellijk van in kennis te stellen en hun bezorgdheid te motiveren. In dat geval mag elke partij om overleg verzoeken, inclusief met vertegenwoordigers van de relevante bevoegde autoriteiten van beide partijen, en/of aanvullende informatie over deze redenen tot bezorgdheid vragen, en op dergelijke verzoeken moet zo snel als praktisch uitvoerbaar worden ingegaan. Als er geen oplossing wordt gevonden, mag elke partij bij de Overeenkomst de kwestie voorleggen aan het bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01) van deze Overeenkomst opgerichte Gemengd Comité en mag, overeenkomstig leden 7 en 9 van artikel 22, passende vrijwaringsmaatregelen nemen zoals bepaald in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=24&z=2022-07-01&g=2022-07-01).
 
 - b. Deze procedures hebben geen betrekking op de erkenning van vaststellingen met betrekking tot:
 
@@ -296,23 +296,23 @@ Als de bevoegde autoriteiten van een partij een aanvraag voor een vergunning ont
 
 - –. het regelgevend toezicht op de luchtvaartmaatschappij niet wordt uitgeoefend of gehandhaafd door de lidstaat van de Europese Unie die verantwoordelijk is voor de afgifte van het Air Operator Certificate, of de bevoegde luchtvaartautoriteit niet duidelijk is geïdentificeerd; of
 
-- –. de luchtvaartmaatschappij niet rechtstreeks of door een meerderheidsbelang eigendom is van lidstaten en/of onderdanen van lidstaten van de Europese Unie, of van andere in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=III&z=2020-08-02&g=2020-08-02) vermelde landen en/of onderdanen van die landen, en deze landen en/of onderdanen niet daadwerkelijk zeggenschap uitoefenen over de luchtvaartmaatschappij.
+- –. de luchtvaartmaatschappij niet rechtstreeks of door een meerderheidsbelang eigendom is van lidstaten en/of onderdanen van lidstaten van de Europese Unie, of van andere in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=III&z=2022-07-01&g=2022-07-01) vermelde landen en/of onderdanen van die landen, en deze landen en/of onderdanen niet daadwerkelijk zeggenschap uitoefenen over de luchtvaartmaatschappij.
 
-- c. de luchtvaartmaatschappij niet voldoet aan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=6&z=2020-08-02&g=2020-08-02) van deze Overeenkomst vermelde wetten en regels;
+- c. de luchtvaartmaatschappij niet voldoet aan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=6&z=2022-07-01&g=2022-07-01) van deze Overeenkomst vermelde wetten en regels;
 
-- d. de voorschriften van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=13&z=2020-08-02&g=2020-08-02) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=14&z=2020-08-02&g=2020-08-02) niet worden gehandhaafd en opgelegd; of
+- d. de voorschriften van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=13&z=2022-07-01&g=2022-07-01) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=14&z=2022-07-01&g=2022-07-01) niet worden gehandhaafd en opgelegd; of
 
-- e. een partij bij de Overeenkomst overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=7&z=2020-08-02&g=2020-08-02) heeft vastgesteld dat niet voldaan is aan de mededingingsvoorwaarden.
+- e. een partij bij de Overeenkomst overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=7&z=2022-07-01&g=2022-07-01) heeft vastgesteld dat niet voldaan is aan de mededingingsvoorwaarden.
 
 2. Tenzij onmiddellijke maatregelen noodzakelijk zijn om verdere niet-naleving van lid 1, onder c) of d), van dit artikel te voorkomen, worden de in dit artikel vastgestelde rechten pas uitgeoefend na overleg met de bevoegde instanties van de andere partij bij de Overeenkomst.
 
 ##### Artikel 5. Investeringen
 
-1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=3&z=2020-08-02&g=2020-08-02) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=4&z=2020-08-02&g=2020-08-02) van deze Overeenkomst mogen de partijen bij de Overeenkomst, overeenkomstig de voorwaarden van lid 2 van dit artikel, toestaan dat lidstaten van de Europese Unie of onderdanen ervan meerderheidseigenaar worden van en/of feitelijke zeggenschap verwerven over Israëlische luchtvaartmaatschappijen en/of dat Israël of onderdanen ervan meerderheidseigenaar wordt van en/of feitelijke zeggenschap verwerft over EU-luchtvaartmaatschappijen, na verificatie door het Gemengd Comité overeenkomstig [artikel 22, lid 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02).
+1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=3&z=2022-07-01&g=2022-07-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=4&z=2022-07-01&g=2022-07-01) van deze Overeenkomst mogen de partijen bij de Overeenkomst, overeenkomstig de voorwaarden van lid 2 van dit artikel, toestaan dat lidstaten van de Europese Unie of onderdanen ervan meerderheidseigenaar worden van en/of feitelijke zeggenschap verwerven over Israëlische luchtvaartmaatschappijen en/of dat Israël of onderdanen ervan meerderheidseigenaar wordt van en/of feitelijke zeggenschap verwerft over EU-luchtvaartmaatschappijen, na verificatie door het Gemengd Comité overeenkomstig [artikel 22, lid 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01).
 
-2. Met betrekking tot lid 1 van dit artikel worden specifieke investeringen door belanghebbenden van de partijen bij de Overeenkomst afzonderlijk toegestaan krachtens een voorafgaande beslissing van het Gemengd Comité overeenkomstig [artikel 22, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02), van deze Overeenkomst.
+2. Met betrekking tot lid 1 van dit artikel worden specifieke investeringen door belanghebbenden van de partijen bij de Overeenkomst afzonderlijk toegestaan krachtens een voorafgaande beslissing van het Gemengd Comité overeenkomstig [artikel 22, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01), van deze Overeenkomst.
 
-In die beslissing worden de voorwaarden gespecificeerd voor de exploitatie van de in deze Overeenkomst overeengekomen diensten en van de diensten tussen derde landen en de partijen bij de Overeenkomst. De bepalingen van [artikel 22, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02), van deze Overeenkomst zijn niet van toepassing op dit type beslissingen.
+In die beslissing worden de voorwaarden gespecificeerd voor de exploitatie van de in deze Overeenkomst overeengekomen diensten en van de diensten tussen derde landen en de partijen bij de Overeenkomst. De bepalingen van [artikel 22, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01), van deze Overeenkomst zijn niet van toepassing op dit type beslissingen.
 
 ##### Artikel 6. Naleving van wetten en regels
 
@@ -326,9 +326,9 @@ In die beslissing worden de voorwaarden gespecificeerd voor de exploitatie van d
 
 2. De partijen bij de Overeenkomst erkennen dat zij gezamenlijk streven naar een billijk en concurrerend kader voor de exploitatie van luchtdiensten. De partijen bij de Overeenkomst erkennen dat de waarschijnlijkheid dat luchtvaartmaatschappijen eerlijke concurrentiepraktijken hanteren, het grootst is als deze maatschappijen op volledig commerciële basis werken en niet worden gesubsidieerd, en als neutrale en niet-discriminerende toegang tot luchthavenfaciliteiten, diensten en slots gegarandeerd is.
 
-3. Als een partij bij de Overeenkomst vaststelt dat op het grondgebied van de andere partij bij de Overeenkomst voorwaarden gelden, met name ten gevolge van een subsidie, die de billijke en gelijke mededingingskansen van haar luchtvaartmaatschappijen negatief beïnvloeden, mag zij haar opmerkingen overmaken aan de andere partij. Bovendien mag zij vragen om een vergadering van het Gemengd Comité, zoals ingesteld bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02) van deze Overeenkomst. Het overleg moet van start gaan binnen 30 dagen na ontvangst van een dergelijk verzoek. Indien binnen 30 dagen na de start van het overleg geen akkoord wordt bereikt, is dit voor de partij bij de Overeenkomst die om het overleg heeft verzocht voldoende reden om de vergunningen van de desbetreffende luchtvaartmaatschappij(en) van de andere partij te weigeren, in te houden, in te trekken, op te schorten of aan passende voorwaarden te onderwerpen, overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=4&z=2020-08-02&g=2020-08-02).
+3. Als een partij bij de Overeenkomst vaststelt dat op het grondgebied van de andere partij bij de Overeenkomst voorwaarden gelden, met name ten gevolge van een subsidie, die de billijke en gelijke mededingingskansen van haar luchtvaartmaatschappijen negatief beïnvloeden, mag zij haar opmerkingen overmaken aan de andere partij. Bovendien mag zij vragen om een vergadering van het Gemengd Comité, zoals ingesteld bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01) van deze Overeenkomst. Het overleg moet van start gaan binnen 30 dagen na ontvangst van een dergelijk verzoek. Indien binnen 30 dagen na de start van het overleg geen akkoord wordt bereikt, is dit voor de partij bij de Overeenkomst die om het overleg heeft verzocht voldoende reden om de vergunningen van de desbetreffende luchtvaartmaatschappij(en) van de andere partij te weigeren, in te houden, in te trekken, op te schorten of aan passende voorwaarden te onderwerpen, overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=4&z=2022-07-01&g=2022-07-01).
 
-4. De in lid 3 vermelde maatregelen moeten passend en evenredig zijn en inzake toepassingsgebied en duur beperkt zijn tot hetgeen strikt noodzakelijk is. Deze maatregelen mogen uitsluitend gericht zijn tegen de luchtvaartmaatschappij(en) die baat heeft (hebben) bij de in lid 3 vermelde omstandigheden, en laten het recht van de partijen bij de Overeenkomst om maatregelen te nemen uit hoofde van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=23&z=2020-08-02&g=2020-08-02) onverlet.
+4. De in lid 3 vermelde maatregelen moeten passend en evenredig zijn en inzake toepassingsgebied en duur beperkt zijn tot hetgeen strikt noodzakelijk is. Deze maatregelen mogen uitsluitend gericht zijn tegen de luchtvaartmaatschappij(en) die baat heeft (hebben) bij de in lid 3 vermelde omstandigheden, en laten het recht van de partijen bij de Overeenkomst om maatregelen te nemen uit hoofde van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=23&z=2022-07-01&g=2022-07-01) onverlet.
 
 5. De partijen bij de Overeenkomst komen overeen dat de bijdrage van de Israëlische regering om de extra beveiligingskosten te dekken die Israëlische luchtvaartmaatschappijen moeten maken ten gevolge van instructies van de Israëlische regering, geen oneerlijke mededingingspraktijk zijn en niet worden beschouwd als een subsidie in de zin van dit artikel, voor zover:
 
@@ -380,7 +380,7 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 - b. Geen van beide partijen mag van de luchtvaartmaatschappijen die hun apparatuur in lease geven, eisen dat zij in het bezit zijn van verkeersrechten uit hoofde van deze Overeenkomst.
 
-- c. Het leasen van luchtvaartuigen met bemanning („wet leasing”) van andere dan de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=III&z=2020-08-02&g=2020-08-02) vermelde derde landen door een Israëlische luchtvaartmaatschappij of een luchtvaartmaatschappij uit de Europese Unie om de in deze Overeenkomst bedoelde rechten te exploiteren, mag alleen in uitzonderlijke gevallen plaatsvinden of om te voldoen aan tijdelijke behoeften. Dergelijke „wet lease”-overeenkomsten moeten worden voorgelegd aan i) de vergunningverlenende autoriteit van de leasende luchtvaartmaatschappij, ter voorafgaandelijke goedkeuring, en ii) de bevoegde autoriteit van de andere partij waar het desbetreffende luchtvaartuig zal worden ingezet, ter informatie.
+- c. Het leasen van luchtvaartuigen met bemanning („wet leasing”) van andere dan de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=III&z=2022-07-01&g=2022-07-01) vermelde derde landen door een Israëlische luchtvaartmaatschappij of een luchtvaartmaatschappij uit de Europese Unie om de in deze Overeenkomst bedoelde rechten te exploiteren, mag alleen in uitzonderlijke gevallen plaatsvinden of om te voldoen aan tijdelijke behoeften. Dergelijke „wet lease”-overeenkomsten moeten worden voorgelegd aan i) de vergunningverlenende autoriteit van de leasende luchtvaartmaatschappij, ter voorafgaandelijke goedkeuring, en ii) de bevoegde autoriteit van de andere partij waar het desbetreffende luchtvaartuig zal worden ingezet, ter informatie.
 
 9. Met het oog op deze alinea wordt onder „luchtvaartuig” verstaan: een luchtvaartuig van een luchtvaartmaatschappij van een derde land waaraan geen exploitatieverbod is opgelegd in de Europese Unie en/of Israël.
 
@@ -388,7 +388,7 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 11. Elke partij ziet erop toe dat haar procedures, richtsnoeren en regels voor het beheer van de slots op de luchthavens op haar grondgebied op transparante, doeltreffende en niet-discriminerende wijze worden toegepast.
 
-12. Als een partij van mening is dat de andere partij een inbreuk begaan heeft tegen het bepaalde in dit artikel, mag zij de andere partij in kennis stellen van haar bevindingen en om overleg vragen overeenkomstig [artikel 22, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02).
+12. Als een partij van mening is dat de andere partij een inbreuk begaan heeft tegen het bepaalde in dit artikel, mag zij de andere partij in kennis stellen van haar bevindingen en om overleg vragen overeenkomstig [artikel 22, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01).
 
 ##### Artikel 9. Douanerechten en -heffingen
 
@@ -424,7 +424,7 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 3. Iedere partij moedigt overleg aan tussen de bevoegde heffingsautoriteiten of -organen op haar grondgebied en de luchtvaartmaatschappijen of hun representatieve organen die de diensten en voorzieningen gebruiken, en moedigt de bevoegde heffingsautoriteiten of -organen en de luchtvaartmaatschappijen of hun representatieve organen aan om alle luchthavengebruikers of de vertegenwoordigers of verenigingen van luchthavengebruikers informatie te verstrekken over de punten waarop het systeem of het niveau van de heffingen die op elke luchthaven door de luchthavenbeheersorganen worden geïnd, zijn gebaseerd, omdat dergelijke informatie nodig is om een nauwkeurige beoordeling van de redelijkheid van de heffingen volgens de beginselen van de leden 1 en 2 van dit artikel mogelijk te maken. Elke partij moedigt de bevoegde heffingsautoriteiten aan om de gebruikers binnen een redelijke termijn in kennis stellen van ieder voorstel tot wijziging van de gebruikersheffingen, teneinde die autoriteiten in staat te stellen rekening te houden met de meningen van de gebruikers alvorens wijzigingen worden doorgevoerd.
 
-4. Geen van beide partijen wordt bij geschillenbeslechtingsprocedures volgens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=23&z=2020-08-02&g=2020-08-02) van deze overeenkomst geacht in overtreding te zijn van een bepaling van dit artikel, tenzij a) zij verzuimt de heffing of de praktijk die voorwerp is van een klacht door de andere partij binnen een redelijke termijn opnieuw te beoordelen; of b) zij na nieuwe beoordeling nalaat alle in haar macht liggende stappen te nemen om een heffing of praktijk die niet in overeenstemming is met dit artikel te corrigeren.
+4. Geen van beide partijen wordt bij geschillenbeslechtingsprocedures volgens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=23&z=2022-07-01&g=2022-07-01) van deze overeenkomst geacht in overtreding te zijn van een bepaling van dit artikel, tenzij a) zij verzuimt de heffing of de praktijk die voorwerp is van een klacht door de andere partij binnen een redelijke termijn opnieuw te beoordelen; of b) zij na nieuwe beoordeling nalaat alle in haar macht liggende stappen te nemen om een heffing of praktijk die niet in overeenstemming is met dit artikel te corrigeren.
 
 ##### Artikel 11. Prijsstelling
 
@@ -438,7 +438,7 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 1. Elke partij verstrekt de andere partij de statistieken die krachtens de nationale wetten en regels van die partij vereist zijn en, op verzoek, andere beschikbare statistische informatie die redelijkerwijze vereist kan zijn voor het evalueren van de exploitatie van de luchtdiensten die onder deze Overeenkomst vallen.
 
-2. De partijen werken samen in het kader van het bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02) ingesteld Gemengd Comité teneinde de onderlinge uitwisseling van statistische informatie, die nodig is om toezicht te kunnen houden op de ontwikkeling van de onder deze Overeenkomst vallende luchtdiensten, te vergemakkelijken.
+2. De partijen werken samen in het kader van het bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01) ingesteld Gemengd Comité teneinde de onderlinge uitwisseling van statistische informatie, die nodig is om toezicht te kunnen houden op de ontwikkeling van de onder deze Overeenkomst vallende luchtdiensten, te vergemakkelijken.
 
 ## TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
 
@@ -446,7 +446,7 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 1. Onverminderd het oordeel van de wetgevingsautoriteiten van de partijen, werken de partijen nauw samen op het gebied van luchtvaartveiligheid, teneinde – voor zover praktisch mogelijk – geharmoniseerde regels op te stellen of elkaars veiligheidsnormen wederzijds te erkennen. Het Gemengd Comité houdt, met de hulp van het Europees Agentschap voor de veiligheid van de luchtvaart, toezicht op dit samenwerkingsproces.
 
-2. De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor het niveau van regelgevende eisen en normen inzake luchtvervoer dat gespecificeerd is in bijlage IV, deel A, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02).
+2. De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor het niveau van regelgevende eisen en normen inzake luchtvervoer dat gespecificeerd is in bijlage IV, deel A, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01).
 
 3. De bevoegde autoriteiten van de partijen erkennen de bewijzen van luchtwaardigheid, de bewijzen van bevoegdheid en de vergunningen die zijn afgegeven of door elkaar zijn gevalideerd en die nog steeds van kracht zijn als geldig voor de exploitatie van het in deze Overeenkomst bedoelde luchtvervoer, voor zover de voor deze bewijzen en vergunningen geldende eisen tenminste voldoen aan de eventuele overeenkomstig het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) vastgestelde minimumnormen. De bevoegde autoriteiten mogen echter bewijzen van bevoegdheid en vergunningen die door die andere autoriteiten zijn verstrekt aan of geldig verklaard voor hun eigen onderdanen weigeren te erkennen als zijnde geldig voor het vliegen boven hun eigen grondgebied.
 
@@ -482,7 +482,7 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 5. De partijen komen overeen om te streven naar wederzijdse erkenning van elkaars beveiligingsnormen. Hiertoe stellen zij administratieve regelingen vast die het mogelijk maken om overleg te plegen over bestaande of geplande maatregelen voor de beveiliging van de luchtvaart en om samen te werken en informatie te delen over de kwaliteitscontrolemaatregelen die zij toepassen. Een partij mag ook om medewerking van de andere partij verzoeken om na te gaan of specifieke beveiligingsmaatregelen van die andere partij voldoen aan de eisen van de vragende partij. Aan de hand van de resultaten kan de vragende partij besluiten dat het niveau van de beveiligingsmaatregelen die op het grondgebied van de andere partij worden toegepast gelijkwaardig is, zodat transferpassagiers, transferbagage en/of transfervracht kunnen worden vrijgesteld van een herscreening op het grondgebied van de vragende partij. Dit besluit wordt aan de andere partij meegedeeld.
 
-6. Iedere partij geeft ook gunstig gevolg aan elk verzoek van de andere partij om in verband met een bepaalde dreiging bijzondere doch redelijke veiligheidsmaatregelen te nemen. Elke partij stelt de andere partij van tevoren in kennis van de bijzondere beveiligingsmaatregelen die zij wenst in te voeren en die aanzienlijke financiële of operationele gevolgen kunnen hebben voor de luchtvervoersdiensten die uit hoofde van deze Overeenkomst worden verleend, tenzij in noodgevallen. Bovendien mag elke partij vragen om een vergadering van het Gemengd Comité, zoals ingesteld bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02) van deze Overeenkomst, om dergelijke beveiligingsmaatregelen te bespreken.
+6. Iedere partij geeft ook gunstig gevolg aan elk verzoek van de andere partij om in verband met een bepaalde dreiging bijzondere doch redelijke veiligheidsmaatregelen te nemen. Elke partij stelt de andere partij van tevoren in kennis van de bijzondere beveiligingsmaatregelen die zij wenst in te voeren en die aanzienlijke financiële of operationele gevolgen kunnen hebben voor de luchtvervoersdiensten die uit hoofde van deze Overeenkomst worden verleend, tenzij in noodgevallen. Bovendien mag elke partij vragen om een vergadering van het Gemengd Comité, zoals ingesteld bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01) van deze Overeenkomst, om dergelijke beveiligingsmaatregelen te bespreken.
 
 7. Wanneer een geval van wederrechtelijk in zijn macht brengen van burgerluchtvaartuigen of een andere wederrechtelijke daad tegen de veiligheid van dergelijke luchtvaartuigen, hun passagiers en bemanning, luchthavens en luchtvaartnavigatiefaciliteiten zich voordoet of dreigt voor te doen, staan de partijen elkaar wederzijds bij door de communicatie te vergemakkelijken en andere passende maatregelen te nemen om snel en veilig een eind te maken aan het incident of de dreiging.
 
@@ -490,7 +490,7 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 9. Wanneer een partij aannemelijke redenen heeft om te geloven dat de andere partij afwijkt van de in dit artikel vastgestelde voorschriften inzake luchtvaartbeveiliging, kan de partij onmiddellijk om overleg met de andere partij verzoeken.
 
-10. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=4&z=2020-08-02&g=2020-08-02) wordt de exploitatievergunning van een of meer luchtvaartmaatschappijen van de andere partij ingehouden, ingetrokken, beperkt of aan voorwaarden onderworpen wanneer niet binnen vijftien (15) dagen na dit verzoek een bevredigende oplossing wordt gevonden.
+10. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=4&z=2022-07-01&g=2022-07-01) wordt de exploitatievergunning van een of meer luchtvaartmaatschappijen van de andere partij ingehouden, ingetrokken, beperkt of aan voorwaarden onderworpen wanneer niet binnen vijftien (15) dagen na dit verzoek een bevredigende oplossing wordt gevonden.
 
 11. Wanneer een onmiddellijke en buitengewone dreiging dit vereist, mag een partij voorlopige maatregelen treffen vóór het verstrijken van deze termijn van vijftien (15) dagen.
 
@@ -510,9 +510,9 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 - b. betrekt de Europese Unie Israël bij relevante en uit het gemeenschappelijk Europees luchtruim voortvloeiende operationele initiatieven op het gebied van luchtvaartnavigatiediensten, luchtruim en interoperabiliteit, met name door passende coördinatie inzake SESAR.
 
-- a. De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor het niveau van regelgevende eisen en normen inzake luchtvervoer dat gespecificeerd is in bijlage IV, deel B, sectie A, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02).
+- a. De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor het niveau van regelgevende eisen en normen inzake luchtvervoer dat gespecificeerd is in bijlage IV, deel B, sectie A, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01).
 
-- b. De partijen handelen in overeenstemming met de regelgevende eisen en normen van de Europese Unie op het gebied van luchtvervoer, welke gespecificeerd zijn in bijlage IV, deel B, sectie B, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02).
+- b. De partijen handelen in overeenstemming met de regelgevende eisen en normen van de Europese Unie op het gebied van luchtvervoer, welke gespecificeerd zijn in bijlage IV, deel B, sectie B, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01).
 
 ##### Artikel 16. Milieu
 
@@ -524,17 +524,17 @@ voor zover i) de exploiterende luchtvaartmaatschappij houder is van de passende 
 
 4. Deze Overeenkomst beperkt op geen enkele wijze de bevoegdheid van de bevoegde autoriteiten van een partij om alle passende maatregelen te nemen om te voorkomen dat het luchtvervoer een effect heeft op het milieu of om het eventuele milieueffect te beperken, voor dergelijke maatregelen zonder onderscheid naar nationaliteit worden toegepast.
 
-5. De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor de regelgevende eisen en normen inzake luchtvervoer die gespecificeerd zijn in bijlage IV, deel C, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02).
+5. De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor de regelgevende eisen en normen inzake luchtvervoer die gespecificeerd zijn in bijlage IV, deel C, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01).
 
 ##### Artikel 17. Aansprakelijkheid van luchtvaartmaatschappijen
 
 1. De partijen bevestigen hun verplichtingen uit hoofde van het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), dat op 28 mei 1999 in Montreal is opgesteld (het Verdrag van Montreal).
 
-2. De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor de regelgevende eisen en normen inzake luchtvervoer die gespecificeerd zijn in bijlage IV, deel D, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02).
+2. De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor de regelgevende eisen en normen inzake luchtvervoer die gespecificeerd zijn in bijlage IV, deel D, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01).
 
 ##### Artikel 18. Consumentenrechten en bescherming van persoonsgegevens
 
-De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor de regelgevende eisen en normen inzake luchtvervoer die gespecificeerd zijn in bijlage IV, deel E, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02).
+De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor de regelgevende eisen en normen inzake luchtvervoer die gespecificeerd zijn in bijlage IV, deel E, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01).
 
 ##### Artikel 19. Geautomatiseerde boekingssystemen
 
@@ -542,7 +542,7 @@ De partijen passen hun wetten en regels, inclusief mededingingsregels, toe op he
 
 ##### Artikel 20. Sociale aspecten
 
-De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor de regelgevende eisen en normen inzake luchtvervoer die gespecificeerd zijn in bijlage IV, deel F, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02).
+De partijen zien erop toe dat hun relevante wetgeving, regels of procedures minstens zorgen voor de regelgevende eisen en normen inzake luchtvervoer die gespecificeerd zijn in bijlage IV, deel F, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01).
 
 ## TITEL III. INSTITUTIONELE BEPALINGEN
 
@@ -550,7 +550,7 @@ De partijen zien erop toe dat hun relevante wetgeving, regels of procedures mins
 
 1. De partijen treffen alle passende algemene of bijzondere maatregelen om de naleving van de uit deze Overeenkomst voortvloeiende verplichtingen te garanderen en onthouden zich van maatregelen die de verwezenlijking van de doelstellingen van deze Overeenkomst in gevaar kunnen brengen.
 
-2. Elke partij is op haar grondgebied verantwoordelijk voor de handhaving van deze Overeenkomst en met name van de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=IV&z=2020-08-02&g=2020-08-02) vermelde verordeningen en richtlijnen inzake luchtvervoer, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02).
+2. Elke partij is op haar grondgebied verantwoordelijk voor de handhaving van deze Overeenkomst en met name van de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=IV&z=2022-07-01&g=2022-07-01) vermelde verordeningen en richtlijnen inzake luchtvervoer, zoals in detail uiteengezet in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01).
 
 3. Elke partij verstrekt de andere partij alle nodige informatie en bijstand, met inachtneming van de toepasselijke wetgeving van de respectieve partij, in het geval van onderzoeken naar mogelijke inbreuken die door de andere partij worden begaan in het kader van haar in deze Overeenkomst vastgestelde bevoegdheden.
 
@@ -570,17 +570,17 @@ De partijen zien erop toe dat hun relevante wetgeving, regels of procedures mins
 
 6. Met het oog op de juiste toepassing van deze Overeenkomst wisselen de partijen informatie uit en plegen zij op verzoek van een hunner overleg in het Gemengd Comité.
 
-7. Als een van de partijen van mening is dat een beslissing van het Gemengd Comité niet goed is uitgevoerd door de andere partij, mag de eerste partij vragen dat de kwestie in het Gemengd Comité wordt besproken. Als het Gemengd Comité de kwestie niet binnen twee maanden na de doorverwijzing kan oplossen, mag de vragende partij passende vrijwaringsmaatregelen overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=24&z=2020-08-02&g=2020-08-02) nemen.
+7. Als een van de partijen van mening is dat een beslissing van het Gemengd Comité niet goed is uitgevoerd door de andere partij, mag de eerste partij vragen dat de kwestie in het Gemengd Comité wordt besproken. Als het Gemengd Comité de kwestie niet binnen twee maanden na de doorverwijzing kan oplossen, mag de vragende partij passende vrijwaringsmaatregelen overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=24&z=2022-07-01&g=2022-07-01) nemen.
 
 8. In de beslissingen van het Gemengd Comité is vermeld vanaf welke datum ze door de partijen moeten worden toegepast, alsook alle andere informatie die van belang kan zijn voor exploitanten.
 
-9. Onverminderd punt 2 kunnen de partijen passende en tijdelijke vrijwaringsmaatregelen overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=24&z=2020-08-02&g=2020-08-02) nemen als het Gemengd Comité binnen zes maanden na doorverwijzing van een kwestie nog geen beslissing over die kwestie heeft genomen.
+9. Onverminderd punt 2 kunnen de partijen passende en tijdelijke vrijwaringsmaatregelen overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=24&z=2022-07-01&g=2022-07-01) nemen als het Gemengd Comité binnen zes maanden na doorverwijzing van een kwestie nog geen beslissing over die kwestie heeft genomen.
 
 10. Het Gemengd Comité onderzoekt vragen met betrekking tot bilaterale investeringen, meerderheidsparticipaties of wijzigingen in de feitelijke zeggenschap over luchtvaartmaatschappijen van de partijen.
 
 11. Het Gemengd Comité ontwikkelt de samenwerking tevens door:
 
-- a. zijn specifieke taken uit te voeren met betrekking tot de regelgevende samenwerking, zoals uiteengezet in [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&z=2020-08-02&g=2020-08-02) van deze Overeenkomst;
+- a. zijn specifieke taken uit te voeren met betrekking tot de regelgevende samenwerking, zoals uiteengezet in [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&z=2022-07-01&g=2022-07-01) van deze Overeenkomst;
 
 - b. op deskundigenniveau de uitwisseling van nieuwe wet- of regelgevende initiatieven en ontwikkelingen aan te moedigen, onder meer op het vlak van beveiliging, veiligheid, milieu, luchtvaartinfrastructuur (inclusief slots), mededingingsvoorwaarden en consumentenbescherming;
 
@@ -596,7 +596,7 @@ De partijen zien erop toe dat hun relevante wetgeving, regels of procedures mins
 
 ##### Artikel 23. Geschillenbeslechting en arbitrage
 
-1. Elke partij mag via diplomatieke kanalen de bij de Associatieovereenkomst opgerichte associatieraad verzoeken alle geschillen met betrekking tot de toepassing of interpretatie van deze Overeenkomst die niet overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02) zijn opgelost, te onderzoeken. Met het oog op de toepassing van dit artikel treedt de bij de [Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001302) opgerichte associatieraad op als Gemengd Comité.
+1. Elke partij mag via diplomatieke kanalen de bij de Associatieovereenkomst opgerichte associatieraad verzoeken alle geschillen met betrekking tot de toepassing of interpretatie van deze Overeenkomst die niet overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01) zijn opgelost, te onderzoeken. Met het oog op de toepassing van dit artikel treedt de bij de [Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001302) opgerichte associatieraad op als Gemengd Comité.
 
 2. De associatieraad kan het geschil bij beslissing beslechten.
 
@@ -628,7 +628,7 @@ De partijen zien erop toe dat hun relevante wetgeving, regels of procedures mins
 
 4. De partijen plegen onmiddellijk overleg in het Gemengd Comité teneinde een voor elke partij aanvaardbare oplossing te vinden.
 
-5. Onverminderd [artikel 3, lid 1, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=3&z=2020-08-02&g=2020-08-02), [artikel 4, lid 1, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=4&z=2020-08-02&g=2020-08-02), en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=13&z=2020-08-02&g=2020-08-02) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=14&z=2020-08-02&g=2020-08-02), mag de betrokken partij geen vrijwaringsmaatregelen nemen binnen één maand na de datum van kennisgeving overeenkomstig lid 3, tenzij de in lid 4 voorgeschreven overlegprocedure vóór het verstrijken van de gestelde termijn is beëindigd.
+5. Onverminderd [artikel 3, lid 1, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=3&z=2022-07-01&g=2022-07-01), [artikel 4, lid 1, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=I&artikel=4&z=2022-07-01&g=2022-07-01), en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=13&z=2022-07-01&g=2022-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=14&z=2022-07-01&g=2022-07-01), mag de betrokken partij geen vrijwaringsmaatregelen nemen binnen één maand na de datum van kennisgeving overeenkomstig lid 3, tenzij de in lid 4 voorgeschreven overlegprocedure vóór het verstrijken van de gestelde termijn is beëindigd.
 
 6. De betrokken partij stelt het Gemengd Comité onverwijld in kennis van de getroffen maatregelen en verstrekt alle relevante inlichtingen.
 
@@ -636,7 +636,7 @@ De partijen zien erop toe dat hun relevante wetgeving, regels of procedures mins
 
 ##### Artikel 25. Geografische uitbreiding van de Overeenkomst
 
-De partijen verbinden zich tot een permanente dialoog om de samenhang tussen deze Overeenkomst en het proces van Barcelona te garanderen en streven, als einddoel, naar een gemeenschappelijke Euro-Mediterrane luchtvaartruimte. Daarom wordt, overeenkomstig [artikel 22, lid 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2020-08-02&g=2020-08-02), onderzocht of het mogelijk is om wederzijds akkoord te gaan met wijzigingen teneinde rekening te houden met soortgelijke Euro-Mediterrane luchtvaartovereenkomsten.
+De partijen verbinden zich tot een permanente dialoog om de samenhang tussen deze Overeenkomst en het proces van Barcelona te garanderen en streven, als einddoel, naar een gemeenschappelijke Euro-Mediterrane luchtvaartruimte. Daarom wordt, overeenkomstig [artikel 22, lid 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=22&z=2022-07-01&g=2022-07-01), onderzocht of het mogelijk is om wederzijds akkoord te gaan met wijzigingen teneinde rekening te houden met soortgelijke Euro-Mediterrane luchtvaartovereenkomsten.
 
 ##### Artikel 26. Verhouding tot andere overeenkomsten
 
@@ -650,23 +650,23 @@ De partijen verbinden zich tot een permanente dialoog om de samenhang tussen dez
 
 3. Deze Overeenkomst laat beslissingen van de twee partijen om toekomstige aanbevelingen van de ICAO toe te passen, onverlet. De partijen mogen deze Overeenkomst of delen ervan niet inroepen als basis om zich binnen de ICAO te verzetten tegen alternatieve beleidsmaatregelen over kwesties die onder deze Overeenkomst vallen.
 
-4. De partijen komen overeen dat er geen beperkingen of verboden bestaan om in de toekomst beveiligingsregelingen te sluiten tussen de regering van de Staat Israël en elke regering van de lidstaten van de Europese Unie op beveiligingsgebieden die niet onder de exclusieve bevoegdheid van de EU vallen. De partijen komen echter overeen om i) indien mogelijk, en in overeenstemming met [artikel 14, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=14&z=2020-08-02&g=2020-08-02), voorrang te geven aan het sluiten van beveiligingsregelingen op EU-niveau, en ii) het Gemengd Comité relevante informatie te verstrekken over die bilaterale beveiligingsregelingen, met inachtneming van artikel 14, lid 14.
+4. De partijen komen overeen dat er geen beperkingen of verboden bestaan om in de toekomst beveiligingsregelingen te sluiten tussen de regering van de Staat Israël en elke regering van de lidstaten van de Europese Unie op beveiligingsgebieden die niet onder de exclusieve bevoegdheid van de EU vallen. De partijen komen echter overeen om i) indien mogelijk, en in overeenstemming met [artikel 14, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=II&artikel=14&z=2022-07-01&g=2022-07-01), voorrang te geven aan het sluiten van beveiligingsregelingen op EU-niveau, en ii) het Gemengd Comité relevante informatie te verstrekken over die bilaterale beveiligingsregelingen, met inachtneming van artikel 14, lid 14.
 
 ##### Artikel 27. Wijzigingen
 
-1. Als een van de partijen de bepalingen van deze Overeenkomst wenst te herzien, moet ze het Gemengd Comité daarvan in kennis stellen. De wijziging van deze Overeenkomst wordt van kracht overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=30&z=2020-08-02&g=2020-08-02).
+1. Als een van de partijen de bepalingen van deze Overeenkomst wenst te herzien, moet ze het Gemengd Comité daarvan in kennis stellen. De wijziging van deze Overeenkomst wordt van kracht overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&titeldeel=III&artikel=30&z=2022-07-01&g=2022-07-01).
 
 2. Het Gemengd Comité kan, op voorstel van een partij en overeenkomstig dit artikel, beslissen de bijlagen bij deze Overeenkomst te wijzigen.
 
-3. Deze Overeenkomst laat het recht van de partijen onverlet om unilateraal nieuwe wetgeving op het vlak van luchtvervoer aan te nemen of de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=IV&z=2020-08-02&g=2020-08-02) vermelde bestaande wetgeving te wijzigen, voor zij het niet-discriminatiebeginsel en de bepalingen van deze Overeenkomst in acht nemen.
+3. Deze Overeenkomst laat het recht van de partijen onverlet om unilateraal nieuwe wetgeving op het vlak van luchtvervoer aan te nemen of de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=IV&z=2022-07-01&g=2022-07-01) vermelde bestaande wetgeving te wijzigen, voor zij het niet-discriminatiebeginsel en de bepalingen van deze Overeenkomst in acht nemen.
 
-4. Wanneer een van de partijen nieuwe wetgeving of een wijziging van zijn in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02) vermelde bestaande wetgeving op het gebied van luchtvervoer overweegt, stelt zij de andere partij daar – voor zover mogelijk en passend – van in kennis. Het verstrekken van deze informatie en, op verzoek van een van de partijen, een voorafgaande gedachtewisseling kunnen plaatsvinden in het Gemengd Comité.
+4. Wanneer een van de partijen nieuwe wetgeving of een wijziging van zijn in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01) vermelde bestaande wetgeving op het gebied van luchtvervoer overweegt, stelt zij de andere partij daar – voor zover mogelijk en passend – van in kennis. Het verstrekken van deze informatie en, op verzoek van een van de partijen, een voorafgaande gedachtewisseling kunnen plaatsvinden in het Gemengd Comité.
 
-5. Elke partij stelt de andere partij regelmatig en zo snel mogelijk in kennis van goedgekeurde nieuwe wetgeving of wijzigingen van in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=IV&z=2020-08-02&g=2020-08-02) vermelde bestaande wetgeving op het gebied van luchtvervoer. Die informatie kan in het Gemengd Comité worden verstrekt. Op verzoek van een partij organiseert het Gemengd Comité binnen zestig dagen na deze kennisgeving een gedachtewisseling over de gevolgen die de nieuwe wetgeving of de wijziging van bestaande wetgeving heeft voor de goede werking van deze Overeenkomst.
+5. Elke partij stelt de andere partij regelmatig en zo snel mogelijk in kennis van goedgekeurde nieuwe wetgeving of wijzigingen van in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=IV&z=2022-07-01&g=2022-07-01) vermelde bestaande wetgeving op het gebied van luchtvervoer. Die informatie kan in het Gemengd Comité worden verstrekt. Op verzoek van een partij organiseert het Gemengd Comité binnen zestig dagen na deze kennisgeving een gedachtewisseling over de gevolgen die de nieuwe wetgeving of de wijziging van bestaande wetgeving heeft voor de goede werking van deze Overeenkomst.
 
 6. Om de goede werking van deze Overeenkomst te garanderen, moet het Gemengd Comité:
 
-- a. een beslissing nemen tot herziening van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=IV&z=2020-08-02&g=2020-08-02) en/of [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2020-08-02&g=2020-08-02) bij deze Overeenkomst, teneinde daarin, zo nodig op basis van wederkerigheid, de nieuwe wetgeving of wijziging in kwestie op te nemen; of
+- a. een beslissing nemen tot herziening van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=IV&z=2022-07-01&g=2022-07-01) en/of [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006191&bijlage=VI&z=2022-07-01&g=2022-07-01) bij deze Overeenkomst, teneinde daarin, zo nodig op basis van wederkerigheid, de nieuwe wetgeving of wijziging in kwestie op te nemen; of
 
 - b. een beslissing nemen waarbij wordt vastgesteld dat de nieuwe wetgeving of wijziging in kwestie wordt beschouwd als zijnde in overeenstemming met deze Overeenkomst; of
 
