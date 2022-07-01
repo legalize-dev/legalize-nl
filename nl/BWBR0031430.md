@@ -4,7 +4,7 @@ identifier: "BWBR0031430"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2015-04-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031430"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L va
 
 De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kennis van en inzicht te bezitten in de hierna genoemde voorschriften, alsmede kennis van en inzicht in die voorschriften voor zover deze gelden voor andere verkeersdeelnemers:
 
-- a. van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622): de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), [36, eerste, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), [40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), [107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107),[108, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123), [123b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123b), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=124), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=162), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [164, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), [174, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=180), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=182), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=184) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=185);
+- a. van de [Wegenverkeerswet 1994](onbekend): de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), [36, eerste, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), [40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), [107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107),[108, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123), [123b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123b), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=124), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=162), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [164, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), [174, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=180), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=182), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=184) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=185);
 
 - b. van het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825): de [artikelen 1 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) en de bij dat reglement behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=2), alsmede de gebruikelijke, door de wegbeheerder geplaatste, aanduidingen ter geleiding van het verkeer of ter informatie van de weggebruikers;
 
@@ -162,7 +162,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 ##### Artikel 7
 
-1. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2015-04-01&g=2015-04-01) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D, bedoeld in [artikel 53, achtste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
+1. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2015-04-01&g=2022-07-01) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D, bedoeld in [artikel 53, achtste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
 
 2. Tevens dienen de in het eerste lid bedoelde aanvragers blijk te geven van kennis van:
 
@@ -188,7 +188,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 ##### Artikel 8
 
-[Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=2&artikel=7&z=2015-04-01&g=2015-04-01), is van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie D, bedoeld in [artikel 53, tiende lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
+[Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=2&artikel=7&z=2015-04-01&g=2022-07-01), is van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie D, bedoeld in [artikel 53, tiende lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
 
 ##### Artikel 9
 
@@ -201,5 +201,13 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A 
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examens rijbewijscategorieën D1 en D.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 3. Vaststelling toetsmatrijzen
+
+##### Artikel 10
+
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
