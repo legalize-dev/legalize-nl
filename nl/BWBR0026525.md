@@ -4,7 +4,7 @@ identifier: "BWBR0026525"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2017-10-21"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026525"
 soort: "AMvB"
@@ -78,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 - **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
-- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2017-10-21&g=2017-10-21);
+- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2022-07-01&g=2022-07-01);
 
 - **luchtschip:** luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting;
 
@@ -89,6 +89,8 @@ Hebben goedgevonden en verstaan:
 - **nood- of voorzorgslanding:** onvermijdbare landing van een luchtvaartuig op land of op water in het geval dat het voortzetten van de vlucht niet langer mogelijk dan wel niet langer veilig is;
 
 - **obstakel:** object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;
+
+- **onbemand luchtvaartuig:** onbemand luchtvaartuig als bedoeld in artikel 3 van de basisverordening;
 
 - **overig gebouw:** gebouw niet zijnde een woning, een beperkt kwetsbaar gebouw of een kwetsbaar gebouw;
 
@@ -154,7 +156,9 @@ De in een luchthavenbesluit of luchthavenregeling opgenomen grenswaarden worden 
 
 - c. een luchthaven die uitsluitend wordt gebruikt door micro light aeroplanes;
 
-- d. een luchthaven met uitsluitend een combinatie van het onder a, b of c bedoelde luchthavenluchtverkeer.
+- d. een luchthaven die uitsluitend wordt gebruikt voor onbemande luchtvaartuigen waarvan de totale massa ten hoogste 25 kilogram bedraagt;
+
+- e. een luchthaven met uitsluitend een combinatie van het onder a, b of c bedoelde luchthavenluchtverkeer.
 
 3. Dit artikel is niet van toepassing op burgerluchthavens van nationale betekenis die buiten de provinciegrenzen zijn gelegen als bedoeld in [artikel 8.1, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1).
 
@@ -242,6 +246,8 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - b. kan een verklaring van geen bezwaar slechts worden afgegeven voor vervangende nieuwbouw van een beperkt kwetsbaar gebouw en voor nieuwbouw van een overig gebouw.
 
+6. Het eerste lid is niet van toepassing op een gebouw met een gezondheidszorgfunctie of een gebouw met een nevenfunctie van die gezondheidszorgfunctie, indien op of nabij dat gebouw een luchthaven is gelegen die uitsluitend wordt gebruikt voor vluchten ten behoeve van spoedeisende hulpverlening.
+
 ##### Artikel 11
 
 1. In het gebied dat gelegen is op een 10-6-plaatsgebonden risicocontour en tussen deze contour en de daarbinnen liggende 10-5-plaatsgebonden risicocontour is nieuwbouw van een gebouw, niet zijnde een bedrijfswoning, niet toegestaan.
@@ -258,11 +264,13 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 4. Het derde lid, aanhef en onder c, wordt niet eerder toegepast dan nadat de oude woning of het oude kwetsbare gebouw aan de bestemming is onttrokken.
 
+5. Het eerste en derde lid zijn niet van toepassing op een gebouw met een gezondheidszorgfunctie of een gebouw met een nevenfunctie van die gezondheidszorgfunctie, indien op of nabij dat gebouw een luchthaven is gelegen die uitsluitend wordt gebruikt voor vluchten ten behoeve van spoedeisende hulpverlening.
+
 #### § 3.2.3. Geluidbelasting
 
 ##### Artikel 12
 
-1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2017-10-21&g=2017-10-21), is van overeenkomstige toepassing.
+1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
 
 2. In het gebied dat gelegen is op of binnen de contour van 56 dB(A) Lden is nieuwbouw van een woning en een geluidsgevoelig gebouw niet toegestaan.
 
@@ -279,6 +287,8 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 - 3°. binnen het desbetreffende gebied wordt verplaatst naar een locatie waar de geluidbelasting ten gevolge van het luchthavenluchtverkeer minder is.
 
 4. Het derde lid, onderdeel b, aanhef en onder 3°, wordt niet eerder toegepast dan nadat de oude woning of het oude geluidsgevoelige gebouw aan de bestemming is onttrokken.
+
+5. Het eerste en tweede lid zijn niet van toepassing op een gebouw met een gezondheidszorgfunctie of een gebouw met een nevenfunctie van die gezondheidszorgfunctie, indien op of nabij dat gebouw een luchthaven is gelegen die uitsluitend wordt gebruikt voor vluchten ten behoeve van spoedeisende hulpverlening.
 
 #### § 3.2.4. Vliegveiligheid
 
@@ -310,7 +320,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - c. het obstakel een boom of struik betreft tenzij de Inspectie Leefomgeving en Transport op schriftelijk verzoek van de exploitant van de luchthaven of Luchtverkeersleiding Nederland beoordeelt dat de boom of struik een onaanvaardbaar risico voor de vliegveiligheid oplevert of leidt tot ernstige operationele beperkingen in het gebruik van de luchthaven.
 
-3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2017-10-21&g=2017-10-21), is van overeenkomstige toepassing.
+3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -326,7 +336,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 - c. het obstakel een boom of struik betreft tenzij de Inspectie Leefomgeving en Transport op schriftelijk verzoek van de exploitant van de luchthaven of Luchtverkeersleiding Nederland beoordeelt dat de boom of struik een onaanvaardbaar risico voor de goede werking van de apparatuur, bedoeld in het eerste lid, oplevert.
 
-3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2017-10-21&g=2017-10-21), is van overeenkomstige toepassing.
+3. [Artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -356,7 +366,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 1. In het laserstraalvrije gebied is het gebruik van een laserstraal die de vliegveiligheid kan verstoren niet toegestaan.
 
-2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2017-10-21&g=2017-10-21), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
