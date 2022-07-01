@@ -4,7 +4,7 @@ identifier: "BWBR0038841"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-20"
-last_updated: "2021-09-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038841"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ De methode voor de uitvoering van bloedonderzoek voor het bepalen van het gehalt
 
 1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 12, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=12) ten behoeve van een tegenonderzoek bedraagt € 78,– indien het afnemen van bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en €102,– indien het afnemen geschiedt in de periode 18.00 uur ’s avonds tot 08.00 uur ’s ochtends of in de periode van 18.00 uur vrijdagavond tot 08.00 uur maandagochtend.
 
-2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) aangewezen stoffen zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&bijlage=2&z=2021-09-01&g=2021-09-01) opgenomen kosten verschuldigd.
+2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) aangewezen stoffen zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&bijlage=2&z=2022-07-01&g=2022-07-01) opgenomen kosten verschuldigd.
 
 ##### Artikel 7
 
@@ -185,19 +185,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 9, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=9), worden het type Securetec DrugWipe 5S en tot 1 maart 2023 tevens het type Dräger DrugCheck® 3000 als speekseltesters aangewezen.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=5&z=2021-09-01&g=2021-09-01) van de Regeling middelenonderzoek bij geweldplegers
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=5&z=2022-07-01&g=2022-07-01) van de Regeling middelenonderzoek bij geweldplegers
 
 Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer van de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3), wordt aan de volgende eisen voldaan:
 
-- •. Zo spoedig mogelijk na de bloedafname worden de twee buisjes bloed bevroren bewaard of, als dat niet mogelijk is, in de koelkast.1Een bewaartemperatuur bij ongeveer -20°C heeft de voorkeur. Het bloedblok wordt liggend op het grootste oppervlak in de vriezer geplaatst om de kans op breuk van de bloedbuizen te minimaliseren.
+- •. Nadat door een arts of een verpleegkundige van de verdachte bloed is afgenomen, worden door een opsporingsambtenaar, als bedoeld in [artikel 1, onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=1), de buisjes of het buisje met bloed in het verzegelde bloedblok in de vriezer geplaatst, en wel liggend op het grootste oppervlak om de kans op breuk van de bloedbuizen te minimaliseren. Het bloedblok wordt bevroren getransporteerd en binnen de termijn van vier weken, zoals bedoeld in [artikel 14, eerste lid, onder d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=14) bevroren bij het laboratorium bezorgd. Na ontvangst door het laboratorium worden de buisjes of het buisje met bloed bevroren bewaard.
 
 - •. In geval van een tegenonderzoek op alcohol wordt het buisje bloed gekoeld getransporteerd. In geval van een tegenonderzoek op andere stoffen, al dan niet in combinatie met tegenonderzoek op alcohol, wordt het buisje bloed op droogijs of in een vriezer van ongeveer –20°C getransporteerd.
 
-- •. Het gehalte van alcohol of een of meer van de middelen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3), wordt minimaal in tweevoud (duplo) bepaald.
+- •. Het gehalte van een of meer van de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) genoemde stoffen wordt minimaal in tweevoud (duplo) bepaald. Het gehalte van alcohol wordt bepaald door minimaal in tweevoud een monster te prepareren voor analyse op twee orthogonale scheidingsmethoden en zal daarmee resulteren in tenminste vier resultaten.
 
-- •. Het valideren van de methode gebeurt volgens de laatste versie van de **Guideline on bioanalytical method validation** (European Medicines Agency) of een vergelijkbare richtlijn.2Scientific Working Group for Forensic Toxicology (SWGTOX). Standard Practices for Method Validation in Forensic Toxicology. SWGTOX Doc 003 Revision 1. Published May 20, 2013.
+- •. Het valideren van de methode gebeurt volgens de laatste versie van de **Guideline on bioanalytical method validation** (European Medicines Agency).2Scientific Working Group for Forensic Toxicology (SWGTOX). Standard Practices for Method Validation in Forensic Toxicology. SWGTOX Doc 003 Revision 1. Published May 20, 2013.
 
-- •. Het laboratorium controleert ten minste vier keer per jaar de juistheid van de methode, bij voorkeur door deelname aan ringonderzoeken of door het analyseren van een geschikt (gecertificeerd) controlemonster waarvan minimaal 75% met voldoende resultaat. Bij deelname aan een ringonderzoek betekent een voldoende resultaat een z-score lager dan 2,0. Bij analyse van een (gecertificeerd) controlemonster betekent een voldoende resultaat dat het resultaat binnen de door de bereider/leverancier aangegeven acceptatiegrenzen valt.
+- •. Het laboratorium controleert ten minste vier keer per jaar de juistheid van de methode, bij voorkeur door deelname aan ringonderzoeken of door het analyseren van een geschikt (gecertificeerd) controlemonster waarvan minimaal 75% met voldoende resultaat. Bij deelname aan een ringonderzoek betekent een voldoende resultaat een z-score lager dan 2,0. Bij analyse van een (gecertificeerd) controlemonster (CRM) betekent een voldoende resultaat dat het resultaat binnen de door de bereider/leverancier aangegeven betrouwbaarheidsinterval (95%) met dekkingsfactor k=2 valt.
 
 - •. Ter bevestiging van het gebruik van cocaïne en ter verificatie van het resultaat van het onderzoek naar het gehalte van de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) wordt ook de aanwezigheid van benzoylegonine bepaald. Cocaïne wordt alleen gerapporteerd als benzoylecgonine aanwezig is. Er wordt geen grenswaarde voor benzoylecgonine voorgesteld en de aanwezigheid van benzoylecgonine wordt niet gerapporteerd.
 
@@ -205,9 +205,45 @@ Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer v
 
 - •. De LOI is gedefinieerd als 2x de ‘limit of detection’3http://depa.fquim.unam.mx/amyd/archivero/Limite_deteccion_4836.pdf en mag niet boven de ondergrens van de kwantitatieve bepaling (‘lower limit of quantification’, LLOQ) liggen.
 
-- •. De ‘uitgebreide meetonzekerheid’ voor een of meer van de middelen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) is maximaal 30% en wordt berekend uit de afwijking van de juiste waarde (‘bias’), de spreiding in de juistheidsmetingen en de reproduceerbaarheid binnen het laboratorium (‘intermediate precision’).
+- •. De ‘uitgebreide meetonzekerheid’ voor een of meer van de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) genoemde stoffen, is maximaal 30% en wordt berekend zoals in onderstaande formule is weer gegeven.
 
-- •. De ‘uitgebreide meetonzekerheid’ voor alcohol is maximaal 6% en wordt berekend uit de afwijking van de juiste waarde (‘bias’), de spreiding in de juistheidsmetingen en de reproduceerbaarheid binnen het laboratorium (‘intermediate precision’).
+Waarbij:
+
+U: De ‘uitgebreide meetonzekerheid’
+
+bias: Intra-laboratorium bias, bepaald d.m.v. het CRM
+
+k: Dekkingsfactor 2,3 (behorende bij een eenzijdig 99% betrouwbaarheidsinterval)
+
+sCref: Standaardafwijking op het CRM
+
+p: Aantal participerende laboratoria waarmee CRM waarde is vastgesteld
+
+s: Intra-laboratorium reproduceerbaarheid, bepaald d.m.v. het CRM of eerstelijnscontroles
+
+n: Aantal waarnemingen om intra-laboratorium reproduceerbaarheid mee vast te stellen
+
+Een minimaal aantal van 20 waarnemingen op CRM is nodig om de intra-laboratorium bias en reproduceerbaarheid vast te stellen.
+
+- •. De ‘uitgebreide meetonzekerheid’ voor alcohol is maximaal 10% en wordt berekend zoals in onderstaande formule is weer gegeven
+
+Waarbij:
+
+U: De ‘uitgebreide meetonzekerheid’
+
+bias: Intra-laboratorium bias, bepaald d.m.v. het CRM
+
+k: Dekkingsfactor 2,3 (behorende bij een eenzijdig 99% betrouwbaarheidsinterval)
+
+sCref: Standaardafwijking op het CRM
+
+p: Aantal participerende laboratoria waarmee CRM waarde is vastgesteld
+
+s: Intra-laboratorium reproduceerbaarheid, bepaald d.m.v. het CRM of eerstelijnscontroles
+
+n: Aantal waarnemingen om intra-laboratorium reproduceerbaarheid mee vast te stellen
+
+Een minimaal aantal van 20 waarnemingen op CRM is nodig om de intra-laboratorium bias en reproduceerbaarheid vast te stellen.
 
 - •. De LLOQ is gedefinieerd als de laagste concentratie van de component in het analysemonster, waarvan de meetwaarde nog met een bepaalde juistheid en precisie kan worden vastgesteld conform de vigerende richtlijnen.
 
@@ -215,9 +251,9 @@ Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer v
 
 - •. Het resultaat van de meting wordt bij een of meer van de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) uitgedrukt in microgram per liter, bij alcohol in milligram per milliliter.
 
-- •. Resultaten en tussenberekeningen van het onderzoek worden niet afgerond. Het resultaat van de duplometingen van het gehalte van alcohol of een of meer van de middelen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3), wordt gemiddeld. Op dat gemiddelde dat tevens het eindresultaat is, vindt een correctie-aftrek plaats van 30% bij de middelen, bedoeld in artikel 3 van het Besluit, en van 6% bij alcohol.
+- •. Resultaten en tussenberekeningen van het onderzoek worden niet afgerond. Het resultaat van de metingen van het gehalte van alcohol of een of meer van de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) genoemde stoffen wordt gemiddeld. Op dat gemiddelde vindt een correctie-aftrek plaats van 30% bij de meetbare stoffen van de in artikel 3 van het Besluit genoemde stoffen, en van 10% bij alcohol.
 
-- •. Het eindresultaat wordt afgerond op twee significante cijfers bij de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=3).4Om praktische redenen wordt een uitzondering gemaakt voor waarden vanaf 100, waarbij het eindresultaat wordt afgerond op drie significante cijfers, en voor waarden vanaf 1.000, waarbij het eindresultaat wordt afgerond op vier significante cijfers. Bij alcohol wordt het eindresultaat gerapporteerd met 2 decimalen.
+- •. Het eindresultaat wordt naar beneden afgerond op twee significante cijfers bij de meetbare stoffen van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) genoemde stoffen. Bij alcohol wordt het eindresultaat naar beneden afgerond en gerapporteerd met twee decimalen.
 
 - •. De bloedgehaltes worden in tabelvorm in het rapport opgenomen zoals in het hierna getoonde voorbeeld.
 
@@ -232,7 +268,7 @@ Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer v
 
 - •. Er wordt bij het rapporteren van de resultaten geen rekening gehouden met medicinaal gebruik van de middelen, bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3).
 
-## Bijlage 2. behorende bij artikel bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=6&z=2021-09-01&g=2021-09-01)
+## Bijlage 2. behorende bij artikel bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&artikel=6&z=2022-07-01&g=2022-07-01)
 
 |   | Tegenonderzoek naar gehalte van alcohol in bloed | Tegenonderzoek naar gehalte van de in artikel 3 van het Besluit aangewezen stoffen |
 | --- | --- | --- |
