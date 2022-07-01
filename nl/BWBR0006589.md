@@ -4,7 +4,7 @@ identifier: "BWBR0006589"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-10-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006589"
 soort: "AMvB"
@@ -75,13 +75,13 @@ Hebben goedgevonden en verstaan:
 
 - b. geweld: elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of zaken;
 
-- c. aanwenden van geweld: het gebruiken van geweld, waaronder mede wordt verstaan het gebruik van een geweldmiddel. In verband met de melding op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01) valt het ter hand nemen van het vuurwapen eveneens onder het aanwenden van geweld tenzij het vuurwapen standaard in de hand of over de schouder wordt gedragen;
+- c. aanwenden van geweld: het gebruiken van geweld, waaronder mede wordt verstaan het gebruik van een geweldmiddel. In verband met de melding op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-07-01&g=2022-07-01) valt het ter hand nemen van het vuurwapen eveneens onder het aanwenden van geweld tenzij het vuurwapen standaard in de hand of over de schouder wordt gedragen;
 
 - d. geweldmiddel:
 
-- 1°. de krachtens [artikel 22 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22) toegelaten uitrusting en bewapening waarmee geweld kan worden uitgeoefend, en
+- 1°. de krachtens [artikel 22 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22) toegelaten bewapening, en
 
-- 2°. de door Onze Minister van Defensie ter beschikking gestelde uitrusting en bewapening waarmee geweld kan worden uitgeoefend in de uitvoering van de politietaken, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) en [59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
+- 2°. de door Onze Minister van Defensie ter beschikking gestelde bewapening ten behoeve van de uitvoering van de politietaken, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) en [59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
 
 - e. hulpmiddelen ten behoeve van uitzetting:
 
@@ -89,23 +89,39 @@ Hebben goedgevonden en verstaan:
 
 - 2º. de door Onze Minister van Defensie, in overeenstemming met Onze Minister, aan de ambtenaar van de Koninklijke marechaussee, bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) belast met de grensbewaking of met het toezicht op vreemdelingen, ter beschikking gestelde uitrusting ten behoeve van de uitzetting van vreemdelingen;
 
-- f. vuurwapen waarmee automatisch vuur kan worden afgegeven: vuurwapen waarmee met één druk op het afvuurmechanisme meer schoten kunnen worden gelost dan wel een vuurwapen waarmee naar keus hetzij één schot, hetzij meer schoten kunnen worden gelost;
+- f. vrijheidsbeperkende middelen, waaronder hulpmiddelen jegens ingeslotenen:
 
-- g. de arts: de dienstdoend adviserend arts;
+- 1°. de krachtens [artikel 22 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22) toegelaten vrijheidsbeperkende middelen, en
 
-- h. buitengewoon opsporingsambtenaar: de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+- 2°. de door Onze Minister van Defensie ter beschikking gestelde vrijheidsbeperkende middelen;
 
-- i. het gebruik van een vuurwapen: het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen;
+- g. automatisch vuur: het lossen van meerdere schoten als gevolg van het eenmalig overhalen van de trekker van een vuurwapen;
 
-- j. niet-penetrerende munitie: munitie die is ontworpen om bij het treffen van een persoon niet het lichaam binnen te dringen;
+- h. de arts: de dienstdoend adviserend arts;
 
-- k. AOT-hond: hond in eigendom van de politie met als doel in politiedienst te worden ingezet bij het optreden van een aanhouding en ondersteuningsteam als bedoeld in [artikel 11, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=11) of een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
+- i. buitengewoon opsporingsambtenaar: de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- l. ambtenaar van een bijzondere opsporingsdienst: ambtenaar van een bijzondere opsporingsdienst die is aangewezen voor de uitvoering van de taken, bedoeld in [artikel 3 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3);
+- j. het gebruik van een vuurwapen: het richten, het gericht houden of het schieten met een vuurwapen;
 
-- m. geweldsregistratie: de registratie van het aangewende geweld, bedoeld in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01).
+- k. niet-penetrerend projectiel: projectiel dat is ontworpen om personen te treffen en daarbij niet het lichaam binnen te dringen;
+
+- l. AOT-hond: hond bedoeld om te worden ingezet bij het optreden van een aanhoudings- en ondersteuningsteam of een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59);
+
+- m. ambtenaar van een bijzondere opsporingsdienst: ambtenaar van een bijzondere opsporingsdienst als bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) die is aangewezen voor de uitvoering van de taken, bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=3);
+
+- n. geweldsregistratie: de registratie van het aangewende geweld, bedoeld in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-07-01&g=2022-07-01);
+
+- o. surveillancehond: hond bedoeld om te worden ingezet bij de surveillancedienst, het optreden van de mobiele eenheid of het bewaken en beveiligen van personen, objecten en diensten;
+
+- p. cel: een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;
+
+- q. verplaatsing: het overbrengen van een persoon binnen eenzelfde locatie, zonder dat daarbij een vervoermiddel wordt gebruikt;
+
+- r. dienstpistool: het rechtens aan de ambtenaar toegekende pistool.
 
 5. In dit besluit wordt onder ingeslotene verstaan degene die rechtens van zijn vrijheid is beroofd. Onder ingeslotene wordt mede verstaan degene die ten behoeve van de hulpverlening aan hem op het politie- of brigadebureau is ondergebracht.
+
+6. In dit besluit wordt onder wapenstok zowel de korte als de lange wapenstok verstaan.
 
 ##### Artikel 2
 
@@ -125,11 +141,11 @@ De ambtenaar die bijstand verleent ingevolge de bepalingen van [hoofdstuk 5 van 
 
 ##### Artikel 4
 
-Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
+Het gebruik van een geweldmiddel of vrijheidsbeperkend middel is uitsluitend toegestaan aan een ambtenaar:
 
-- a. aan wie dat geweldmiddel rechtens is toegekend, voor zover hij optreedt ter uitvoering van de taak met het oog waarop het geweldmiddel hem is toegekend, en
+- a. aan wie dat middel rechtens is toegekend, voor zover hij optreedt ter uitvoering van de taak met het oog waarop het middel hem is toegekend, en
 
-- b. die in het gebruik van dat geweldmiddel is geoefend.
+- b. die in het gebruik van dat middel is geoefend.
 
 ##### Artikel 5
 
@@ -137,7 +153,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 2. Het eerste lid is niet van toepassing in het geval de meerdere, bedoeld in het eerste lid, vooraf anders heeft bepaald.
 
-3. Het eerste lid is evenmin van toepassing in een geval als bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2021-10-01&g=2021-10-01), voor zover de last redelijkerwijs niet kan worden afgewacht.
+3. Het eerste lid is evenmin van toepassing in een geval als bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2022-07-01&g=2022-07-01), voor zover de last redelijkerwijs niet kan worden afgewacht.
 
 ##### Artikel 6
 
@@ -149,51 +165,41 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 ##### Artikel 7
 
-1. Het gebruik van een vuurwapen, niet zijnde een vuurwapen waarmee automatisch vuur of lange afstandsprecisievuur kan worden afgegeven, is slechts geoorloofd:
+1. Het gebruik van een vuurwapen, niet zijnde het gebruik, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=8&z=2022-07-01&g=2022-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=9&z=2022-07-01&g=2022-07-01), is slechts geoorloofd:
 
-- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dit tegen personen zal gebruiken;
+- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat deze:
 
-- b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken, en die wordt verdacht van of is veroordeeld wegens het plegen van een misdrijf
+- 1°. een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dat tegen personen zal gebruiken, of
 
-- 1°. waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld, en
+- 2°. aanstonds ander levensbedreigend geweld tegen personen zal gebruiken;
 
-- 2°. dat een ernstige aantasting vormt van de lichamelijke integriteit of de persoonlijke levenssfeer, of
+- b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken, en die wordt verdacht van of is veroordeeld wegens het plegen van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld en:
+
+- 1°. dat een ernstige aantasting vormt van de lichamelijke integriteit,
+
+- 2°. betrekking heeft op het zich wederrechtelijk bevinden in een woning of op het daarbij behorende besloten erf met gebruik van geweld of bedreiging met geweld tegen personen, of
 
 - 3°. dat door zijn gevolg bedreigend voor de samenleving is of kan zijn.
 
 - c. tot het beteugelen van oproerige bewegingen of andere ernstige wanordelijkheden, indien er sprake is van een opdracht van het bevoegd gezag en een optreden in gesloten verband onder leiding van een meerdere;
 
-- d. tot het beteugelen van militaire oproerige bewegingen, andere ernstige militaire wanordelijkheden of muiterij indien de militair van de Koninklijke marechaussee in opdracht van de minister van Defensie dan wel de officier van justitie te Arnhem belast met militaire zaken in gesloten verband onder leiding van een meerdere optreedt.
+- d. tot het beteugelen van militaire oproerige bewegingen, andere ernstige militaire wanordelijkheden of muiterij indien de militair van de Koninklijke marechaussee in opdracht van Onze Minister van Defensie dan wel de officier van justitie te Arnhem belast met militaire zaken in gesloten verband onder leiding van een meerdere optreedt;
 
-2. Het gebruik van het vuurwapen in de gevallen, bedoeld in het eerste lid, onder **a** en **b**, is slechts geoorloofd tegen personen en vervoermiddelen waarin of waarop zich personen bevinden.
+- e. om een ernstig gewond dier te doden;
 
-3. In de gevallen, bedoeld in het eerste lid, onder **a** en **b**, wordt van het vuurwapen geen gebruik gemaakt, indien de identiteit van de aan te houden persoon bekend is en redelijkerwijs mag worden aangenomen dat het uitstel van de aanhouding geen onaanvaardbaar te achten gevaar voor de rechtsorde met zich brengt.
+- f. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-4. Onder het plegen van een misdrijf, bedoeld in het eerste lid, onder **b**, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=47) en [48 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=48).
+2. In de gevallen, bedoeld in het eerste lid, onder a en b, wordt van het vuurwapen geen gebruik gemaakt indien de identiteit van de aan te houden persoon bekend is en redelijkerwijs mag worden aangenomen dat het uitstel van de aanhouding geen onaanvaardbaar te achten gevaar voor de rechtsorde met zich brengt.
+
+3. Onder het plegen van een misdrijf, bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=47) en [48 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=48).
 
 ##### Artikel 8
 
-1. Het gebruik van een vuurwapen waarmee automatisch vuur kan worden afgegeven, is slechts geoorloofd tegen personen en tegen vervoermiddelen waarin of waarop zich personen bevinden, in een situatie waarin sprake is van een ogenblikkelijke, wederrechtelijke aanranding van eigen of eens anders lijf.
-
-2. Een vuurwapen waarmee automatisch vuur kan worden afgegeven mag slechts worden meegevoerd ten behoeve van de opleiding dan wel voor:
-
-- a. het verrichten van een aanhouding van een persoon van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dit tegen personen zal gebruiken,
-
-- b. de bewaking en beveiliging van personen en objecten.
-
-3. Het meevoeren van vuurwapens waarmee automatisch vuur kan worden afgegeven in het geval, bedoeld in het tweede lid, onder a, is slechts toegestaan na schriftelijke toestemming van de officier van justitie. Indien wegens de vereiste spoed de toestemming niet schriftelijk kan worden gevraagd of verleend, kan deze ook mondeling worden gevraagd en verleend. De toestemming die mondeling is verleend, wordt binnen vierentwintig uur schriftelijk bevestigd. De officier van justitie doet van het meevoeren van vuurwapens waarmee automatisch vuur kan worden afgegeven zo mogelijk vooraf mededeling aan de betrokken burgemeester.
-
-4. Het meevoeren van vuurwapens waarmee automatisch vuur kan worden afgegeven in het geval, bedoeld in het tweede lid, onder b, is slechts mogelijk na schriftelijke toestemming van het bevoegd gezag. Indien wegens de vereiste spoed de toestemming niet schriftelijk kan worden gevraagd of verleend, kan deze ook mondeling worden gevraagd en verleend. De toestemming die mondeling is verleend, wordt binnen vierentwintig uur schriftelijk bevestigd.
+Het gebruik van automatisch vuur mag alleen plaatsvinden door een ambtenaar die behoort tot een aanhoudings-en ondersteuningsteam of tot een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) dan wel belast is met de bewaking en beveiliging van personen en objecten en is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
 ##### Artikel 9
 
-1. Het gebruik van een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, is slechts geoorloofd bij zeer ernstige misdrijven ter afwending van direct gevaar voor het leven van personen.
-
-2. Het gebruik, bedoeld in het eerste lid, vindt plaats onder bevel van de commandant van een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59).
-
-3. Een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven mag slechts worden meegevoerd ten behoeve van de opleiding dan wel ten behoeve van de daadwerkelijke bestrijding van zeer ernstige misdrijven waarbij sprake is van direct levensbedreigende omstandigheden.
-
-4. Het meevoeren van een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven ten behoeve van de daadwerkelijke bestrijding van zeer ernstige misdrijven waarbij sprake is van direct levensbedreigende omstandigheden, is slechts toegestaan na schriftelijke toestemming van het bevoegd gezag. Aan de toestemming kunnen voorwaarden worden verbonden. Indien wegens de vereiste spoed de toestemming niet schriftelijk kan worden gevraagd of verleend, kan deze ook mondeling worden gevraagd en verleend. De toestemming die mondeling is verleend, wordt binnen vierentwintig uur schriftelijk bevestigd.
+Het gebruik van een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, mag alleen plaatsvinden onder bevel van de commandant van een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) en is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
 ##### Artikel 10
 
@@ -207,7 +213,7 @@ Het gebruik van een geweldmiddel is uitsluitend toegestaan aan een ambtenaar:
 
 ##### Artikel 11
 
-De [artikelen 7 tot en met 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2021-10-01&g=2021-10-01) zijn niet van toepassing op het gebruik en het ter hand nemen van een vuurwapen dat is geladen met niet-penetrerende munitie.
+De [artikelen 7 tot en met 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2022-07-01&g=2022-07-01) zijn niet van toepassing op het gebruik en het ter hand nemen van een wapen dat is geladen met niet-penetrerende projectielen.
 
 ##### Artikel 12
 
@@ -219,23 +225,15 @@ De [artikelen 7 tot en met 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&
 
 ##### Artikel 12a
 
-1. Het gebruik van pepperspray is slechts geoorloofd:
+Het gebruik van pepperspray is slechts geoorloofd:
 
-- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen een persoon zal gebruiken;
+- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen een persoon zal gebruiken of aanstonds ander geweld tegen personen zal gebruiken;
 
 - b. om een persoon aan te houden die zich aan aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken;
 
-- c. ter verdediging tegen of voor het onder controle brengen van agressieve dieren.
+- c. ter verdediging tegen of voor het onder controle brengen van agressieve dieren;
 
-2. Pepperspray wordt niet gebruikt tegen:
-
-- a. personen die zichtbaar jonger dan 12 of ouder dan 65 jaar zijn;
-
-- b. vrouwen die zichtbaar zwanger zijn;
-
-- c. personen voor wie dit gebruik als gevolg van een voor de ambtenaar zichtbare ademhalings- of andere ernstige gezondheidsstoornis onevenredig schadelijk kan zijn;
-
-- d. groepen personen.
+- d. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
 ##### Artikel 12b
 
@@ -243,21 +241,35 @@ De ambtenaar waarschuwt onmiddellijk voordat hij gericht pepperspray tegen een p
 
 ##### Artikel 12c
 
-Pepperspray wordt tegen een persoon per geval ten hoogste twee maal voor de duur van niet langer dan ongeveer een seconde gebruikt en op een afstand van ten minste een meter.
+1. Het gebruik van een stroomstootwapen in de schietmodus is slechts geoorloofd:
+
+- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen een persoon zal gebruiken of aanstonds ander geweld tegen personen zal gebruiken;
+
+- b. om een persoon aan te houden die zich aan aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken;
+
+- c. ter verdediging tegen of voor het onder controle brengen van agressieve dieren;
+
+- d. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
+
+2. Het gebruik van een stroomstootwapen in de schokmodus is slechts geoorloofd:
+
+- a. ter verdediging tegen of voor het onder controle brengen van agressieve dieren;
+
+- b. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
 #### § 2b. Pepperspray
 
 ##### Artikel 13
 
-1. Het gebruik van CS-traangas is slechts geoorloofd:
+1. Het gebruik van traangas is slechts geoorloofd:
 
 - a. in gesloten ruimten ter aanhouding van een persoon indien redelijkerwijs mag worden aangenomen dat die persoon een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dat tegen personen zal gebruiken dan wel ander levensbedreigend geweld tegen personen zal gebruiken;
 
 - b. anders dan in gesloten ruimten ter verspreiding van samenscholingen of volksmenigten die een ernstige en onmiddellijke bedreiging vormen voor de veiligheid van personen of voor zaken.
 
-2. Het gebruik van CS-traangas is slechts geoorloofd in opdracht van de meerdere na vooraf verkregen toestemming van het bevoegd gezag.
+2. Het gebruik van traangas is slechts geoorloofd in opdracht van de meerdere na vooraf verkregen toestemming van het bevoegd gezag.
 
-3. De meerdere die bevel geeft tot het verspreiden van CS-traangas geeft bij dit bevel aan hoeveel CS-traangasgranaten worden gebruikt.
+3. De meerdere die bevel geeft tot het verspreiden van traangas geeft bij dit bevel aan hoeveel traangasgranaten worden gebruikt.
 
 ##### Artikel 14
 
@@ -265,19 +277,19 @@ Het gebruik van een waterwerper is slechts geoorloofd bij optreden van een mobie
 
 ##### Artikel 15
 
-1. Het inzetten van een politie-surveillancehond is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij:
+1. Het inzetten van een surveillancehond als geweldmiddel is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij:
 
 - a. de surveillancedienst, en
 
-- b. het optreden van een mobiele eenheid als bedoeld in [artikel 26 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26) na toestemming van het bevoegd gezag.
+- b. het optreden van een mobiele eenheid als bedoeld in [artikel 26 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26) na toestemming van het bevoegd gezag;
+
+- c. het bewaken en beveiligen van personen, objecten en diensten.
 
 2. Het inzetten van een AOT-hond is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij het, na toestemming van het bevoegd gezag, optreden van een aanhoudings- en ondersteuningsteam als bedoeld in [artikel 11, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=11) of een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59).
 
-3. De geleider dient in het bezit te zijn van een krachtens [artikel 22 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=22) vastgesteld certificaat.
-
 ##### Artikel 16
 
-Het gebruik van een elektrische wapenstok is slechts geoorloofd als afweermiddel tegen agressieve dieren na toestemming van de meerdere.
+Het gebruik van een elektrische wapenstok is slechts geoorloofd ter verdediging tegen of voor het onder controle brengen van agressieve dieren.
 
 #### § 4. Melding geweld
 
@@ -329,13 +341,13 @@ Het gebruik van een elektrische wapenstok is slechts geoorloofd als afweermiddel
 
 - b. zo spoedig mogelijk, indien het aanwenden van geweld naar het oordeel van Onze Minister, de korpschef, de commandant van de Koninklijke marechaussee onderscheidenlijk de directeur van de rijksrecherche daartoe aanleiding geeft.
 
-3. De functionaris die op grond van [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01), van de geweldsregistratie heeft kennisgenomen, licht de ambtenaar, alsmede, indien van toepassing, de meerdere die de last tot het aanwenden van geweld heeft gegeven, in over de kennisgeving, bedoeld in het eerste lid.
+3. De functionaris die op grond van [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-07-01&g=2022-07-01), van de geweldsregistratie heeft kennisgenomen, licht de ambtenaar, alsmede, indien van toepassing, de meerdere die de last tot het aanwenden van geweld heeft gegeven, in over de kennisgeving, bedoeld in het eerste lid.
 
 ##### Artikel 19
 
-De functionaris, bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2021-10-01&g=2021-10-01), draagt zorg voor:
+De functionaris, bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2022-07-01&g=2022-07-01), draagt zorg voor:
 
-- a. de registratie van de meldingen, bedoeld in [artikel 17, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01), en van de kennisgevingen, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2021-10-01&g=2021-10-01) en [18a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2021-10-01&g=2021-10-01);
+- a. de registratie van de meldingen, bedoeld in [artikel 17, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-07-01&g=2022-07-01), en van de kennisgevingen, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2022-07-01&g=2022-07-01) en [18a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2022-07-01&g=2022-07-01);
 
 - b. een jaarlijkse publicatie van een zakelijke weergave van deze meldingen en kennisgevingen.
 
@@ -355,19 +367,15 @@ De ambtenaar die een onderzoek aan kleding of voorwerpen heeft uitgevoerd als be
 
 ##### Artikel 22
 
-1. De ambtenaar kan een persoon die rechtens van zijn vrijheid is beroofd, ten behoeve van het vervoer handboeien aanleggen.
+Ten behoeve van het vervoer of een verplaatsing kan de ambtenaar een persoon die rechtens van zijn vrijheid is beroofd, handboeien aanleggen indien op grond van de feiten of omstandigheden redelijkerwijs gevaar valt te vrezen voor:
 
-2. De maatregel, bedoeld in het eerste lid, kan slechts worden getroffen, indien de feiten of omstandigheden dit redelijkerwijs vereisen met het oog op gevaar voor ontvluchting, dan wel met het oog op gevaar voor de veiligheid of het leven van de persoon die rechtens van zijn vrijheid is beroofd, van de ambtenaar of van derden.
+- a. ontvluchting, of
 
-3. De in het tweede lid bedoelde feiten of omstandigheden kunnen slechts gelegen zijn in:
-
-- a. de persoon die rechtens van zijn vrijheid is beroofd, of
-
-- b. de aard van het strafbare feit op grond waarvan de vrijheidsbeneming heeft plaatsgevonden, één en ander in samenhang met de wijze waarop en de situatie waarin het vervoer plaatsvindt.
+- b. de veiligheid van de persoon die rechtens van zijn vrijheid is beroofd, van de ambtenaar of van derden.
 
 ##### Artikel 23
 
-De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2021-10-01&g=2021-10-01), meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de redenen die tot het gebruik van handboeien hebben geleid.
+De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22&z=2022-07-01&g=2022-07-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22a&z=2022-07-01&g=2022-07-01) of [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22b&z=2022-07-01&g=2022-07-01), meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de redenen die tot het gebruik van het middel hebben geleid.
 
 ### Hoofdstuk 4a. Hulpmiddelen ten behoeve van de uitzetting van vreemdelingen
 
@@ -457,7 +465,7 @@ De ambtenaar die gebruik heeft gemaakt van handboeien als bedoeld in [artikel 22
 
 ##### Artikel 31
 
-1. De ambtenaar kan de ingeslotene na toestemming van de hulpofficier van justitie aan permanente camera-observatie onderwerpen.
+1. De ambtenaar kan de ingeslotene in diens cel of ophoudkamer alleen na toestemming van de hulpofficier van justitie aan permanente camera-observatie onderwerpen.
 
 2. De maatregel, bedoeld in het eerste lid, is slechts geoorloofd in die gevallen waarin sprake is van een zodanige dreiging van gevaar voor het leven of de veiligheid van de betrokkene dat doorlopende controle ter afwending van dit gevaar noodzakelijk is.
 
@@ -493,35 +501,35 @@ De ambtenaar mag aan de arts bij het onderzoek en de behandeling geen beperkinge
 
 ##### Artikel 35
 
-Bij overplaatsing van de ingeslotene geeft de ambtenaar de geneesmiddelen, de registraties, bedoeld in de[artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=1&artikel=26&z=2021-10-01&g=2021-10-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=33&z=2021-10-01&g=2021-10-01) en [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=34&z=2021-10-01&g=2021-10-01), voor zover die van belang kunnen zijn, en de rapportage van de arts, die bestemd is voor een arts die de behandeling zal overnemen, mee.
+Bij overplaatsing van de ingeslotene geeft de ambtenaar de geneesmiddelen, de registraties, bedoeld in de[artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=1&artikel=26&z=2022-07-01&g=2022-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=33&z=2022-07-01&g=2022-07-01) en [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=34&z=2022-07-01&g=2022-07-01), voor zover die van belang kunnen zijn, en de rapportage van de arts, die bestemd is voor een arts die de behandeling zal overnemen, mee.
 
-#### § 3. Permanente camera-observatie
+#### § 3. Het gebruik van handboeien en blinddoeken ten behoeve van het ordelijk verloop van een aanhouding
 
 ##### Artikel 36
 
 De ambtenaar zorgt ervoor dat bij de invrijheidstelling van een persoon die zichzelf niet kan verplaatsen, vervoer en begeleiding voor die persoon beschikbaar is.
 
-### Hoofdstuk 7. Buitengewoon opsporingsambtenaar
+### Hoofdstuk 5. Hulpverlening
 
 ##### Artikel 37
 
-1. Indien Onze Minister ingevolge [artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) heeft bepaald dat een buitengewoon opsporingsambtenaar bevoegd is tot de uitoefening van bevoegdheden als bedoeld in het eerste, derde en vierde lid van dat artikel, zijn de [artikelen 1, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2021-10-01&g=2021-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2021-10-01&g=2021-10-01), [17, eerste tot en met derde, vierde lid, onder b en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01), [18, eerste lid, aanhef en onder b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2021-10-01&g=2021-10-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2021-10-01&g=2021-10-01), [19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2021-10-01&g=2021-10-01) van dit besluit van toepassing op de desbetreffende buitengewoon opsporingsambtenaar.
+1. Indien Onze Minister ingevolge [artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) heeft bepaald dat een buitengewoon opsporingsambtenaar bevoegd is tot de uitoefening van bevoegdheden als bedoeld in het eerste, derde en vierde lid van dat artikel, zijn de [artikelen 1, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2022-07-01&g=2022-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-07-01&g=2022-07-01), [17, eerste tot en met derde, vierde lid, onder b en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-07-01&g=2022-07-01), [18, eerste lid, aanhef en onder b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2022-07-01&g=2022-07-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2022-07-01&g=2022-07-01), [19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2022-07-01&g=2022-07-01) van dit besluit van toepassing op de desbetreffende buitengewoon opsporingsambtenaar.
 
-2. Indien de aanwijzing mede omvat het gebruik van een wapen, een surveillancehond dan wel handboeien zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-10-01&g=2021-10-01), [7, eerste lid, aanhef en onder a en b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2021-10-01&g=2021-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=8&z=2021-10-01&g=2021-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=9&z=2021-10-01&g=2021-10-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2021-10-01&g=2021-10-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2021-10-01&g=2021-10-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2021-10-01&g=2021-10-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2021-10-01&g=2021-10-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12c&z=2021-10-01&g=2021-10-01), [15, eerste lid, aanhef en onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15&z=2021-10-01&g=2021-10-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=16&z=2021-10-01&g=2021-10-01) respectievelijk [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=22&z=2021-10-01&g=2021-10-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&artikel=23&z=2021-10-01&g=2021-10-01) van dit besluit van toepassing op de desbetreffende buitengewoon opsporingsambtenaar.
+2. Indien de aanwijzing mede omvat het gebruik van een wapen, een surveillancehond, een AOT-hond dan wel handboeien of mondafscherming zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-07-01&g=2022-07-01), [7, eerste lid, aanhef en onder a, b en c, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2022-07-01&g=2022-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=8&z=2022-07-01&g=2022-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=9&z=2022-07-01&g=2022-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2022-07-01&g=2022-07-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2022-07-01&g=2022-07-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2022-07-01&g=2022-07-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2022-07-01&g=2022-07-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2c&artikel=12c&z=2022-07-01&g=2022-07-01), [12d](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2c&artikel=12d&z=2022-07-01&g=2022-07-01), [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2d&artikel=12e&z=2022-07-01&g=2022-07-01), [12f](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2d&artikel=12f&z=2022-07-01&g=2022-07-01), [15, eerste lid, aanhef en onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15&z=2022-07-01&g=2022-07-01), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15a&z=2022-07-01&g=2022-07-01), [15b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15b&z=2022-07-01&g=2022-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=16&z=2022-07-01&g=2022-07-01) respectievelijk [22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22&z=2022-07-01&g=2022-07-01), [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22a&z=2022-07-01&g=2022-07-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=23&z=2022-07-01&g=2022-07-01) van dit besluit van toepassing op de desbetreffende buitengewoon opsporingsambtenaar.
 
 3. Voor de toepassing van:
 
-- a. [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2021-10-01&g=2021-10-01), wordt voor «meerdere» gelezen: de direct toezichthouder, bedoeld in [artikel 1 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1);
+- a. [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2022-07-01&g=2022-07-01), wordt voor «meerdere» gelezen: de direct toezichthouder, bedoeld in [artikel 1 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1);
 
-- b. [artikel 1, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2021-10-01&g=2021-10-01), wordt voor «het gezag, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=12) en [14 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=14)» gelezen: het gezag, bedoeld in artikel 12 van de Politiewet 2012;
+- b. [artikel 1, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2022-07-01&g=2022-07-01), wordt voor «het gezag, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=12) en [14 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=14)» gelezen: het gezag, bedoeld in artikel 12 van de Politiewet 2012;
 
-- c. [artikel 1, vierde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2021-10-01&g=2021-10-01), wordt voor «geweldmiddel» gelezen: de wapens en de uitrusting waarmee geweld kan worden uitgeoefend, ten aanzien waarvan krachtens [artikel 3a, derde lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3a) is bepaald dat de in dat lid genoemde artikelen niet van toepassing zijn op buitengewoon opsporingsambtenaren;
+- c. [artikel 1, vierde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2022-07-01&g=2022-07-01), wordt voor «geweldmiddel» gelezen: de wapens en de uitrusting waarmee geweld kan worden uitgeoefend, ten aanzien waarvan krachtens [artikel 3a, derde lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3a) is bepaald dat de in dat lid genoemde artikelen niet van toepassing zijn op buitengewoon opsporingsambtenaren;
 
-- d. de [artikelen 17, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01) en, [18, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2021-10-01&g=2021-10-01), wordt voor «de korpschef» gelezen «de direct toezichthouder, bedoeld in artikel 1 van het Besluit buitengewoon opsporingsambtenaar» en voor «een andere ambtenaar van politie als bedoeld in [artikel 2, onder a of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die is aangesteld voor de uitvoering van de politietaak» gelezen: de buitengewoon opsporingsambtenaar;
+- d. de [artikelen 17, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-07-01&g=2022-07-01) en, [18, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2022-07-01&g=2022-07-01), wordt voor «de korpschef» gelezen «de direct toezichthouder, bedoeld in artikel 1 van het Besluit buitengewoon opsporingsambtenaar» en voor «een andere ambtenaar van politie als bedoeld in [artikel 2, onder a of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die is aangesteld voor de uitvoering van de politietaak» gelezen: de buitengewoon opsporingsambtenaar;
 
-- e. [artikel 18, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2021-10-01&g=2021-10-01), wordt voor «de korpschef» gelezen: de direct toezichthouder, bedoeld in [artikel 1, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1);
+- e. [artikel 18, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2022-07-01&g=2022-07-01), wordt voor «de korpschef» gelezen: de direct toezichthouder, bedoeld in [artikel 1, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1);
 
-- f. [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2021-10-01&g=2021-10-01), wordt voor «de ambtenaar» gelezen: de buitengewoon opsporingsambtenaar.
+- f. [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2022-07-01&g=2022-07-01), wordt voor «de ambtenaar» gelezen: de buitengewoon opsporingsambtenaar.
 
 ##### Artikel 38
 
@@ -559,13 +567,13 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 23b
 
-1. De ambtenaar die ten aanzien van een vreemdeling die wordt uitgezet gebruik heeft gemaakt van een hulpmiddel ten behoeve van uitzetting als bedoeld in [artikel 23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4a&artikel=23a&z=2021-10-01&g=2021-10-01), meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voortvloeiende gevolgen.
+1. De ambtenaar die ten aanzien van een vreemdeling die wordt uitgezet gebruik heeft gemaakt van een hulpmiddel ten behoeve van uitzetting als bedoeld in [artikel 23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=2&artikel=23a&z=2022-07-01&g=2022-07-01), meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voortvloeiende gevolgen.
 
 2. De hulpofficier van justitie draagt zorg voor registratie van de melding, bedoeld in het eerste lid.
 
-### Hoofdstuk 6. Maatregelen jegens ingeslotenen
+### Hoofdstuk 3. Veiligheids- en vervoersfouillering
 
-#### § 2. In bewaring nemen van kleding en voorwerpen
+#### § 1. Handboeien en mondafscherming ten behoeve van het vervoer of een verplaatsing
 
 #### § 1. Algemeen
 
@@ -573,7 +581,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 #### § 4. Medische bijstand
 
-### Hoofdstuk 7. Buitengewoon opsporingsambtenaar
+### Hoofdstuk 6. Maatregelen jegens ingeslotenen
 
 ### Hoofdstuk 6a. Ambtenaar van een bijzondere opsporingsdienst
 
@@ -585,27 +593,39 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 2. Een waarschuwingsschot moet op zodanige wijze worden gegeven, dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
-#### § 2a. Niet-penetrerende munitie
+#### § 2a. Niet-penetrerende projectielen
 
 ##### Artikel 11a
 
-Het gebruik van een vuurwapen dat is geladen met niet-penetrerende munitie is slechts geoorloofd:
+1. Het gebruik van een wapen dat is geladen met niet-penetrerende projectielen is slechts geoorloofd:
 
-- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen personen zal gebruiken; of
+- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen personen zal gebruiken of aanstonds ander geweld tegen personen zal gebruiken;
 
-- b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken.
+- b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken;
+
+- c. om een persoon die de openbare orde in ernstige mate verstoort en niet direct kan worden aangehouden, tijdelijk weerloos te maken of te markeren, ten einde hem later aan te houden;
+
+- d. ter verspreiding van samenscholingen of volksmenigten, die een ernstige en onmiddellijke bedreiging vormen voor de veiligheid van personen of zaken;
+
+- e. ter verdediging tegen of voor het onder controle brengen van agressieve dieren;
+
+- f. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
+
+2. Het gebruik, bedoeld in het eerste lid, onder c en d, is slechts geoorloofd in opdracht van de meerdere na vooraf verkregen toestemming van het bevoegd gezag.
+
+3. Niet-penetrerende projectielen die bestemd zijn voor het gebruik, bedoeld in het eerste lid, onder c, worden niet gebruikt voor situaties, bedoeld in het eerste lid, onder d.
 
 ##### Artikel 11b
 
-De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen dat is geladen met niet-penetrerende munitie zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
+De ambtenaar waarschuwt onmiddellijk voordat hij gericht een wapen dat is geladen met niet-penetrerende projectielen zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
 
 ##### Artikel 11c
 
-De [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11a&z=2021-10-01&g=2021-10-01) en [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2a&artikel=11b&z=2021-10-01&g=2021-10-01) zijn van overeenkomstige toepassing indien de niet-penetrerende munitie wordt afgegeven met een ander hulpmiddel dan een vuurwapen.
+Vervallen
 
 #### § 3. Overige geweldmiddelen
 
-#### § 4. Melding aanwenden van geweld
+#### § 3. Overige geweldmiddelen
 
 ### Hoofdstuk 3. Veiligheids- en vervoersfouillering
 
@@ -641,25 +661,25 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 36a
 
-1. Op de ambtenaar van een bijzondere opsporingsdienst zijn de [artikelen 1, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2021-10-01&g=2021-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=2&z=2021-10-01&g=2021-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-10-01&g=2021-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2021-10-01&g=2021-10-01), [7, eerste lid, aanhef en onder a en b, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2021-10-01&g=2021-10-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2021-10-01&g=2021-10-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2021-10-01&g=2021-10-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2021-10-01&g=2021-10-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2021-10-01&g=2021-10-01), [12c](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12c&z=2021-10-01&g=2021-10-01), [15, eerste lid, aanhef en onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=15&z=2021-10-01&g=2021-10-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=3&artikel=16&z=2021-10-01&g=2021-10-01), [17, eerste tot en met derde lid, vierde lid, onder b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01), [18, eerste lid, aanhef en onder b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2021-10-01&g=2021-10-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2021-10-01&g=2021-10-01), [19 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2021-10-01&g=2021-10-01) van dit besluit van toepassing.
+1. Op de ambtenaar van een bijzondere opsporingsdienst zijn de [artikelen 1, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2022-07-01&g=2022-07-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=2&z=2022-07-01&g=2022-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-07-01&g=2022-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-07-01&g=2022-07-01), [7, eerste lid, aanhef en onder a, b, e en f, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2022-07-01&g=2022-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2022-07-01&g=2022-07-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2022-07-01&g=2022-07-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2022-07-01&g=2022-07-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2022-07-01&g=2022-07-01), [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2d&artikel=12e&z=2022-07-01&g=2022-07-01), [12f](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2d&artikel=12f&z=2022-07-01&g=2022-07-01), [17, eerste tot en met derde lid, vierde lid, onder b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-07-01&g=2022-07-01), [18, eerste lid, aanhef en onder b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2022-07-01&g=2022-07-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2022-07-01&g=2022-07-01), [19 tot en met 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2022-07-01&g=2022-07-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=23&z=2022-07-01&g=2022-07-01) van dit besluit van toepassing.
 
 2. Voor de toepassing van:
 
-- a. [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2021-10-01&g=2021-10-01), wordt voor «meerdere» gelezen: de ambtenaar van een bijzondere opsporingsdienst die uit hoofde van zijn functie met de leiding is belast of het bevel heeft over de taakuitvoering;
+- a. [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2022-07-01&g=2022-07-01), wordt voor «meerdere» gelezen: de ambtenaar van een bijzondere opsporingsdienst die uit hoofde van zijn functie met de leiding is belast of het bevel heeft over de taakuitvoering;
 
-- b. [artikel 1, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2021-10-01&g=2021-10-01), wordt voor «bevoegd gezag» gelezen: de officier van justitie;
+- b. [artikel 1, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2022-07-01&g=2022-07-01), wordt voor «bevoegd gezag» gelezen: de officier van justitie;
 
-- c. [artikel 1, vierde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2021-10-01&g=2021-10-01), wordt voor «geweldmiddel» gelezen: de wapens en de uitrusting waarmee geweld kan worden uitgeoefend, ten aanzien waarvan krachtens [artikel 3a, derde lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3a) is bepaald dat de in dat lid genoemde artikelen niet van toepassing zijn op ambtenaren van bijzondere opsporingsdiensten;
+- c. [artikel 1, vierde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2022-07-01&g=2022-07-01), wordt voor «geweldmiddel» gelezen: de wapens en de uitrusting waarmee geweld kan worden uitgeoefend, ten aanzien waarvan krachtens [artikel 3a, derde lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3a) is bepaald dat de in dat lid genoemde artikelen niet van toepassing zijn op ambtenaren van bijzondere opsporingsdiensten;
 
-- d. de [artikelen 17, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01), en [18, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2021-10-01&g=2021-10-01), wordt voor «de korpschef» telkens gelezen «het hoofd van de bijzondere opsporingsdienst» en voor «een andere ambtenaar van politie als bedoeld in [artikel 2, onder a of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die is aangesteld voor de uitvoering van de politietaak» telkens gelezen: de ambtenaar van een bijzondere opsporingsdienst;
+- d. de [artikelen 17, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-07-01&g=2022-07-01), en [18, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2022-07-01&g=2022-07-01), wordt voor «de korpschef» telkens gelezen «het hoofd van de bijzondere opsporingsdienst» en voor «een andere ambtenaar van politie als bedoeld in [artikel 2, onder a of c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die is aangesteld voor de uitvoering van de politietaak» telkens gelezen: de ambtenaar van een bijzondere opsporingsdienst;
 
-- e. [artikel 18, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2021-10-01&g=2021-10-01), wordt voor «de korpschef» gelezen: het hoofd van de bijzondere opsporingsdienst;
+- e. [artikel 18, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2022-07-01&g=2022-07-01), wordt voor «de korpschef» gelezen: het hoofd van de bijzondere opsporingsdienst;
 
-- f. [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2021-10-01&g=2021-10-01), wordt voor «[artikel 7, eerste en zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7)» gelezen: [artikel 6, eerste, tweede en vierde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6);
+- f. [artikel 18a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2022-07-01&g=2022-07-01), wordt voor «[artikel 7, eerste en zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7)» gelezen: [artikel 6, eerste, tweede en vierde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6);
 
-- g. [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2021-10-01&g=2021-10-01) wordt voor «[artikel 7, derde en vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7)» gelezen: [artikel 6, derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6);
+- g. [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=20&z=2022-07-01&g=2022-07-01) wordt voor «[artikel 7, derde en vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7)» gelezen: [artikel 6, derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6);
 
-- h. [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2021-10-01&g=2021-10-01) wordt voor «onderzoek aan kleding of voorwerpen» gelezen «onderzoek aan kleding» en wordt voor «[artikel 7, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7)» gelezen: [artikel 6, derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6).
+- h. [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2022-07-01&g=2022-07-01) wordt voor «onderzoek aan kleding of voorwerpen» gelezen «onderzoek aan kleding» en wordt voor «[artikel 7, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7)» gelezen: [artikel 6, derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6).
 
 ##### Artikel 36b
 
@@ -697,7 +717,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 18a
 
-1. De geweldsregistratie wordt zo spoedig mogelijk behandeld door de functionaris die op grond van [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2021-10-01&g=2021-10-01), van de geweldsregistratie heeft kennisgenomen.
+1. De geweldsregistratie wordt zo spoedig mogelijk behandeld door de functionaris die op grond van [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2022-07-01&g=2022-07-01), van de geweldsregistratie heeft kennisgenomen.
 
 2. De functionaris beoordeelt of de ambtenaar, alsmede, indien van toepassing, de meerdere die de last tot het aanwenden van geweld heeft gegeven, heeft gehandeld volgens [artikel 7, eerste en zevende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) en dit besluit.
 
@@ -717,11 +737,11 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 #### § 1. Algemeen
 
-#### § 2. In bewaring nemen van kleding en voorwerpen
+#### § 2. Hulpmiddelen ten behoeve van de uitzetting van vreemdelingen
 
 #### § 3. Permanente camera-observatie
 
-#### § 5. Invrijheidstelling
+#### § 2. In bewaring nemen van kleding en voorwerpen
 
 ### Hoofdstuk 6a. Ambtenaar van een bijzondere opsporingsdienst
 
@@ -731,11 +751,21 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 15a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het inzetten van een surveillancehond of AOT-hond als geweldmiddel is slechts geoorloofd:
+
+- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dat tegen personen zal gebruiken dan wel aanstonds ander geweld tegen personen zal gebruiken;
+
+- b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken, en die wordt verdacht van of is veroordeeld wegens het plegen van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld;
+
+- c. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
+
+2. De inzet van de surveillancehond of AOT-hond als geweldmiddel is voorts geoorloofd ter verspreiding van samenscholingen of volksmenigten die een ernstige en onmiddellijke bedreiging vormen voor de veiligheid van personen of voor zaken. Deze inzet geschiedt aangelijnd.
+
+3. Onder het plegen van een misdrijf, bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=47) en [48 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=48).
 
 ##### Artikel 15b
 
-Dit onderdeel is nog niet inwerking getreden
+De ambtenaar waarschuwt onmiddellijk voordat hij een surveillancehond of een AOT-hond tegen een persoon zal inzetten, met luide stem of op andere niet mis te verstane wijze dat een surveillancehond onderscheidenlijk een AOT-hond ingezet zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
 #### § 4. Melding aanwenden van geweld
 
@@ -743,7 +773,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 2. In bewaring nemen van kleding en voorwerpen
 
-#### § 4. Medische bijstand
+#### § 1. Algemeen
 
 #### § 5. Hulpmiddelen jegens ingeslotenen
 
@@ -753,9 +783,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Indien onverwijlde tenuitvoerlegging van de maatregel, bedoeld in het eerste lid, geboden is, kan een ambtenaar, vooruitlopend op toestemming van de hulpofficier van justitie, hiertoe beslissen en deze voor een periode van ten hoogste drie uren tenuitvoerleggen. De ambtenaar stelt de hulpofficier van justitie hiervan onverwijld in kennis, waarna deze onverwijld beslist over de voortzetting van de maatregel.
 
-3. De ambtenaar stelt de arts onverwijld op de hoogte van de toepassing van de maatregel, bedoeld in het eerste of tweede lid. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=33&z=2021-10-01&g=2021-10-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=34&z=2021-10-01&g=2021-10-01) zijn van overeenkomstige toepassing.
+3. De ambtenaar stelt de arts onverwijld op de hoogte van de toepassing van de maatregel, bedoeld in het eerste of tweede lid. De [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=33&z=2022-07-01&g=2022-07-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=34&z=2022-07-01&g=2022-07-01) zijn van overeenkomstige toepassing.
 
-4. De ingeslotene waarop een maatregel, als bedoeld in het eerste of tweede lid, in diens cel wordt toegepast, wordt afgezonderd en aan permanente camera-observatie onderworpen. Tijdens het vervoer of verplaatsing wordt de ingeslotene afgezonderd en aan permanente camera-observatie onderworpen of permanent geobserveerd door de ambtenaar. [Artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=3&artikel=31&z=2021-10-01&g=2021-10-01), is van overeenkomstige toepassing.
+4. De ingeslotene waarop een maatregel, als bedoeld in het eerste of tweede lid, in diens cel wordt toegepast, wordt afgezonderd en aan permanente camera-observatie onderworpen. Tijdens het vervoer of verplaatsing wordt de ingeslotene afgezonderd en aan permanente camera-observatie onderworpen of permanent geobserveerd door de ambtenaar. [Artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=3&artikel=31&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
 
 5. De maatregelen, bedoeld in het eerste en tweede lid, kunnen slechts worden getroffen, indien de feiten of omstandigheden dit redelijkerwijs vereisen met het oog op gevaar voor een ernstige verstoring van de orde en veiligheid in de cel of het cellencomplex, of met het oog op de veiligheid van de ingeslotene, van de ambtenaar of van derden.
 
@@ -764,6 +794,74 @@ Dit onderdeel is nog niet inwerking getreden
 #### § 6. Invrijheidstelling
 
 ### Hoofdstuk 6a. Ambtenaar van een bijzondere opsporingsdienst
+
+### Hoofdstuk 8. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+#### § 2c. Stroomstootwapen
+
+##### Artikel 12d
+
+De ambtenaar waarschuwt onmiddellijk voordat hij een stroomstootwapen tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat een stroomstootwapen gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
+
+#### § 2d. Wapenstok
+
+##### Artikel 12e
+
+Het gebruik van de wapenstok is slechts geoorloofd:
+
+- a. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen een persoon zal gebruiken of aanstonds ander geweld tegen personen zal gebruiken;
+
+- b. om een persoon aan te houden die zich aan aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken;
+
+- c. om een persoon op afstand te houden die een ambtenaar in diens taakuitoefening belemmert of die geen gehoor geeft aan een bevoegd gegeven bevel of vordering;
+
+- d. ter verspreiding van samenscholingen of volksmenigten die een onmiddellijke bedreiging vormen voor de openbare orde;
+
+- e. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
+
+##### Artikel 12f
+
+De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt onmiddellijk voordat hij een wapenstok tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat een wapenstok gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
+
+#### § 4. Melding aanwenden van geweld
+
+### Hoofdstuk 4. Vrijheidsbeperkende middelen en hulpmiddelen
+
+##### Artikel 22a
+
+1. De ambtenaar kan bij een persoon die rechtens van zijn vrijheid is beroofd, ten behoeve van het vervoer of een verplaatsing mondafscherming aanbrengen.
+
+2. De maatregel, bedoeld in het eerste lid, wordt slechts getroffen indien de feiten of omstandigheden dit redelijkerwijs vereisen met het oog op de veiligheid van de ambtenaar of van derden.
+
+##### Artikel 22b
+
+De [artikelen 22, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22&z=2022-07-01&g=2022-07-01), en [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22a&z=2022-07-01&g=2022-07-01) zijn van overeenkomstige toepassing op een persoon die ten behoeve van de hulpverlening aan hem op het politie- of brigadebureau wordt of is ondergebracht.
+
+##### Artikel 23c
+
+1. Ten behoeve van een aanhouding en het vervoer kan de ambtenaar die behoort tot een aanhoudings- en ondersteuningsteam of tot een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) een persoon die rechtens van zijn vrijheid is beroofd en aan wie op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22&z=2022-07-01&g=2022-07-01) handboeien zijn aangelegd, blinddoeken indien op grond van de feiten of omstandigheden redelijkerwijs gevaar valt te vrezen voor:
+
+- a. ontvluchting, of
+
+- b. de veiligheid van de persoon die rechtens van zijn vrijheid is beroofd, van de ambtenaar of van derden.
+
+2. Indien op grond van de feiten of omstandigheden van het geval redelijkerwijs gevaar voor ontvluchting van de persoon die rechtens van zijn vrijheid is beroofd of gevaar voor de veiligheid van de persoon, van de ambtenaar of van derden, valt te vrezen, kan de ambtenaar, bedoeld in het eerste lid, een andere dan de aan te houden persoon handboeien aanleggen.
+
+3. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=23&z=2022-07-01&g=2022-07-01) is van overeenkomstige toepassing.
+
+#### § 3. Permanente camera-observatie
+
+#### § 4. Medische bijstand
+
+#### § 5. Hulpmiddelen jegens ingeslotenen
+
+#### § 6. Invrijheidstelling
+
+### Hoofdstuk 6a. Ambtenaar van een bijzondere opsporingsdienst
+
+### Hoofdstuk 7. Buitengewoon opsporingsambtenaar
 
 ### Hoofdstuk 8. Slotbepalingen
 
