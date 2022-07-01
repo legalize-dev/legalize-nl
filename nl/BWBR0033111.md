@@ -4,7 +4,7 @@ identifier: "BWBR0033111"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2018-11-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033111"
 soort: "ministeriele-regeling"
@@ -42,17 +42,19 @@ Besluit:
 
 ##### Artikel 1
 
-De kostenvergoeding bedoeld in [artikel 48, tweede lid, van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=48), bedraagt voor een:
+De kostenvergoeding bedoeld in [artikel 48, eerste lid, van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=48), bedraagt voor een:
 
 - a. verklaring omtrent het gedrag natuurlijke personen:
 
-- 1°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd: € 33,85;
+- 1°. indien deze rechtstreeks elektronisch bij de Minister voor Rechtsbescherming wordt aangevraagd: € 33,85;
 
-- 2°. indien deze rechtstreeks elektronisch bij de Minister van Justitie en Veiligheid wordt aangevraagd teneinde op vrijwillige basis te werken met kwetsbare personen: € 0,00, voor zover de aanvrager als vrijwilliger werkzaam is bij een door de Minister van Volksgezondheid, Welzijn en Sport goedgekeurde en geregistreerde organisatie;
+- 2°. indien deze rechtstreeks elektronisch bij de Minister voor Rechtsbescherming wordt aangevraagd teneinde op vrijwillige basis te werken met kwetsbare personen: € 0,00, voor zover de aanvrager als vrijwilliger werkzaam is bij een door de Minister van Volksgezondheid, Welzijn en Sport goedgekeurde en geregistreerde organisatie;
 
 - 3°. in alle andere gevallen: € 41,35;
 
-- b. verklaring omtrent het gedrag rechtspersonen: € 207,00.
+- b. verklaring omtrent het gedrag voor op grond van [artikel 35a, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a) aangewezen functies: € 70,00–;
+
+- c. verklaring omtrent het gedrag rechtspersonen: € 207,00.
 
 ##### Artikel 2
 
