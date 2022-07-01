@@ -4,7 +4,7 @@ identifier: "BWBR0043727"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-07-01"
-last_updated: "2020-07-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043727"
 soort: "AMvB-BES"
@@ -100,7 +100,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 2. De opsporingsambtenaar deelt het resultaat van het nader ademonderzoek direct mede aan de verdachte. In het geval, bedoeld in het eerste lid, wijst de opsporingsambtenaar de verdachte op het recht op tegenonderzoek.
 
-3. Het tegenonderzoek geschiedt door middel van een bloedonderzoek. De [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=6&z=2020-07-01&g=2020-07-01), [7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=13&z=2020-07-01&g=2020-07-01) zijn van overeenkomstige toepassing, met dien verstande dat:
+3. Het tegenonderzoek geschiedt door middel van een bloedonderzoek. De [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=6&z=2022-07-01&g=2022-07-01), [7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=7&z=2022-07-01&g=2022-07-01) en [12, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=12&z=2022-07-01&g=2022-07-01), zijn van overeenkomstige toepassing, met dien verstande dat:
 
 - a. de verdachte direct aan de opsporingsambtenaar kenbaar dient te maken of hij gebruik maakt van het recht op tegenonderzoek, en het bloed van de verdachte direct daarna wordt afgenomen;
 
@@ -128,9 +128,11 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 - c. ervoor zorgt dat ieder buisje met bloed is voorzien van een sporenidentificatienummer; en
 
-- d. ervoor zorgt dat de buisjes met bloed zo spoedig mogelijk worden bezorgd bij een laboratorium als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=8&z=2020-07-01&g=2020-07-01), in een bij ministeriële regeling voorgeschreven verpakking en voorzien van een fraudebestendige afsluiting.
+- d. ervoor zorgt dat de buisjes met bloed zo spoedig mogelijk worden bezorgd bij een laboratorium als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=8&z=2022-07-01&g=2022-07-01), in een bij ministeriële regeling voorgeschreven verpakking en voorzien van een fraudebestendige afsluiting.
 
-2. De opsporingsambtenaar wijst de verdachte bij de bloedafname erop dat hij het recht op tegenonderzoek heeft indien het verslag van het bloedonderzoek, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=10&z=2020-07-01&g=2020-07-01), het vermoeden bevestigt dat de eilandsverordening is overtreden, tenzij de bloedafname geschiedt in het kader van een tegenonderzoek.
+2. De opsporingsambtenaar wijst de verdachte bij de bloedafname erop dat hij het recht op tegenonderzoek heeft indien het verslag van het bloedonderzoek, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=10&z=2022-07-01&g=2022-07-01), het vermoeden bevestigt dat de eilandsverordening is overtreden, tenzij de bloedafname geschiedt in het kader van een tegenonderzoek.
+
+3. Bij ministeriële regeling kunnen regels worden gesteld over de omstandigheden waaronder de buisjes of het buisje met bloed worden bewaard en vervoerd.
 
 ##### Artikel 8
 
@@ -150,7 +152,7 @@ Het laboratorium legt in een bestand de volgende gegevens vast:
 
 - a. de datum van ontvangst van de buisjes;
 
-- b. de sporenidentificatienummers, bedoeld in [artikel 7, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01);
+- b. de sporenidentificatienummers, bedoeld in [artikel 7, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=7&z=2022-07-01&g=2022-07-01);
 
 - c. de naam, het geslacht, de geboortedatum en het paspoort- of sedulanummer van de verdachte; en
 
@@ -162,7 +164,7 @@ Het laboratorium legt in een bestand de volgende gegevens vast:
 
 2. De onderzoeker stelt een in de Nederlandse taal gesteld schriftelijk verslag op van het resultaat van het bloedonderzoek en ondertekent dat verslag.
 
-3. In afwijking van het tweede lid mag het verslag in de Engelse taal zijn gesteld indien de onderzoeker verbonden is aan een laboratorium als bedoeld in [artikel 8, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=8&z=2020-07-01&g=2020-07-01).
+3. In afwijking van het tweede lid mag het verslag in de Engelse taal zijn gesteld indien de onderzoeker verbonden is aan een laboratorium als bedoeld in [artikel 8, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=8&z=2022-07-01&g=2022-07-01).
 
 4. Het verslag bevat in ieder geval:
 
@@ -174,7 +176,7 @@ Het laboratorium legt in een bestand de volgende gegevens vast:
 
 - d. het resultaat van het bloedonderzoek.
 
-5. De onderzoeker stuurt het verslag zo spoedig mogelijk aan de opdrachtgever van het bloedonderzoek.
+5. De onderzoeker stuurt het verslag binnen de termijn, bedoeld in het eerste lid, aan de opdrachtgever van het bloedonderzoek.
 
 ##### Artikel 11
 
@@ -186,19 +188,19 @@ Het laboratorium legt in een bestand de volgende gegevens vast:
 
 1. In geval van een tegenonderzoek stelt het laboratorium dat het bloedonderzoek heeft verricht, het voor dat onderzoek bestemde buisje met bloed ter beschikking aan het laboratorium dat het tegenonderzoek verricht.
 
-2. De [artikelen 7, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01), en [8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=8&z=2020-07-01&g=2020-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 7, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=7&z=2022-07-01&g=2022-07-01), en [8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=8&z=2022-07-01&g=2022-07-01) zijn van overeenkomstige toepassing.
 
 3. Tegenonderzoek geschiedt in opdracht van en voor rekening van de verdachte en wordt niet verricht dan nadat de verdachte het daarvoor verschuldigde bedrag heeft betaald aan het laboratorium dat het tegenonderzoek verricht. In dat bedrag zijn begrepen de verzendkosten van het voor het tegenonderzoek bestemde buisje met bloed door het laboratorium dat het bloedonderzoek heeft verricht. De hoogte van de verzendkosten wordt bij ministeriële regeling vastgesteld. Het bedrag voor de verzendkosten verrekent het laboratorium, bedoeld in de eerste volzin, met het laboratorium, bedoeld in de tweede volzin.
 
-4. De verdachte vermeldt bij de opdracht zijn naam, geslacht, geboortedatum en zijn paspoort- of sedulanummer, alsmede het sporenidentificatienummer dat is vermeld op de kennisgeving, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=11&z=2020-07-01&g=2020-07-01).
+4. De verdachte vermeldt bij de opdracht zijn naam, geslacht, geboortedatum en zijn paspoort- of sedulanummer, alsmede het sporenidentificatienummer dat is vermeld op de kennisgeving, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=11&z=2022-07-01&g=2022-07-01).
 
-5. Indien de verdachte de kosten van het tegenonderzoek niet binnen twee weken na de datum van dagtekening van de kennisgeving, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=11&z=2020-07-01&g=2020-07-01), heeft betaald, vervalt het recht op het tegenonderzoek.
+5. Indien de verdachte de kosten van het tegenonderzoek niet binnen vier weken na de datum van dagtekening van de kennisgeving, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=11&z=2022-07-01&g=2022-07-01), heeft betaald, vervalt het recht op het tegenonderzoek.
 
 6. De verdachte ontvangt de kosten van het tegenonderzoek uit ’s Rijks kas terug indien het resultaat van het tegenonderzoek het vermoeden niet bevestigt dat het alcoholgehalte in zijn bloed hoger is dan op grond van de eilandsverordening is toegestaan.
 
 ##### Artikel 13
 
-1. Het laboratorium dat het bloedonderzoek of het tegenonderzoek heeft verricht, vernietigt het bloed dat na dat onderzoek resteert een half jaar na de datum van dagtekening van het verslag.
+1. Het laboratorium dat het bloedonderzoek of het tegenonderzoek heeft verricht, vernietigt het bloed dat na dat onderzoek resteert een half jaar na de datum van dagtekening van het verslag. Is het recht op tegenonderzoek vervallen, dan vernietigt het laboratorium dat het tegenonderzoek zou verrichten het bloed een half jaar na de ontvangst.
 
 2. Indien het resultaat van het bloedonderzoek of het tegenonderzoek het vermoeden niet bevestigt dat het alcoholgehalte in het bloed van de verdachte hoger is dan op grond van de eilandsverordening is toegestaan, vernietigt het laboratorium het afschrift van het verslag en de daarbij behorende gegevens een half jaar na de datum van dagtekening van het verslag.
 
@@ -208,7 +210,7 @@ Het laboratorium legt in een bestand de volgende gegevens vast:
 
 ##### Artikel 14
 
-Indien een laboratorium, niet zijnde het laboratorium van het Nederlands Forensisch Instituut, voornemens is zijn werkzaamheden op het terrein van bloedonderzoek te beëindigen, zorgt dat laboratorium ervoor dat het bloed en de afschriften van de verslagen die bij dat laboratorium worden bewaard, alsmede de daarbij behorende gegevens, worden overgedragen aan het bij ministeriële regeling aangewezen laboratorium. Het vorengaande vindt geen toepassing als het laboratorium fuseert met een ander laboratorium als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=8&z=2020-07-01&g=2020-07-01). In dat geval worden het bloed, de afschriften van de verslagen en de daarbij behorende gegevens bewaard in dat andere laboratorium.
+Indien een laboratorium, niet zijnde het laboratorium van het Nederlands Forensisch Instituut, voornemens is zijn werkzaamheden op het terrein van bloedonderzoek te beëindigen, zorgt dat laboratorium ervoor dat het bloed en de afschriften van de verslagen die bij dat laboratorium worden bewaard, alsmede de daarbij behorende gegevens, worden overgedragen aan het bij ministeriële regeling aangewezen laboratorium. Het vorengaande vindt geen toepassing als het laboratorium fuseert met een ander laboratorium als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043727&paragraaf=3&artikel=8&z=2022-07-01&g=2022-07-01). In dat geval worden het bloed, de afschriften van de verslagen en de daarbij behorende gegevens bewaard in dat andere laboratorium.
 
 #### § 4. Slotbepalingen
 
