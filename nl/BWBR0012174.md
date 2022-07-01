@@ -4,7 +4,7 @@ identifier: "BWBR0012174"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2020-07-01"
+last_updated: "2022-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012174"
 soort: "AMvB"
@@ -82,9 +82,7 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 ##### Artikel 4
 
-1. De hoeveelheid toxische pyrrolizidine-alkaloïden van kruidenpreparaten die bestaan uit materiaal dat geheel of ten dele afkomstig is van planten, bedoeld in onderdeel I van de bijlage, of van andere planten waarvan wordt aangenomen dat ze toxische pyrrolizidine-alkaloïden bevatten, bedraagt niet meer dan 1 µg per kg, onderscheidenlijk per liter.
-
-2. Kruidenpreparaten bevatten geen:
+1. Kruidenpreparaten bevatten geen:
 
 - a. aconitine of derivaten hiervan;
 
@@ -98,7 +96,7 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 - f. m- en o-synefrine of derivaten hiervan;
 
-- g. olie uit Artemisia absinthium (absintalsem), onverminderd de bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2020-07-01&g=2020-07-01), en bijlage III, deel B, van [verordening (EG) 1334/2008](32008R1334) gestelde voorschriften inzake de toegelaten aanwezigheid van thujon in bepaalde samengestelde levensmiddelen;
+- g. olie uit Artemisia absinthium (absintalsem), onverminderd de bij [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2022-07-01&g=2022-07-01), en bijlage III, deel B, van [verordening (EG) 1334/2008](32008R1334) gestelde voorschriften inzake de toegelaten aanwezigheid van thujon in bepaalde samengestelde levensmiddelen;
 
 - h. pilocarpine of derivaten hiervan;
 
@@ -108,11 +106,11 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 - k. yohimbe-alkaloïden of derivaten hiervan.
 
-3. Kruidenpreparaten bevatten geen materiaal dat geheel of ten dele afkomstig is van planten en schimmels bedoeld in onderdeel II van de bijlage.
+2. Kruidenpreparaten bevatten geen materiaal dat geheel of ten dele afkomstig is van planten en schimmels bedoeld in de bijlage.
 
-4. Kruidenpreparaten bevatten per dagelijks volgens de gebruiksaanwijzing te nuttigen hoeveelheid ten hoogste 27 mg p-synefrine.
+3. Kruidenpreparaten bevatten per dagelijks volgens de gebruiksaanwijzing te nuttigen hoeveelheid ten hoogste 27 mg p-synefrine.
 
-5. In afwijking van het derde lid mogen kruidenpreparaten olie bevatten die gewonnen is uit de zaden van Ricinus communis, voor zover het voorgeschreven gebruiks- en doseringsadvies, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2020-07-01&g=2020-07-01), niet leidt tot een hogere inname van deze olie dan 0,4 g per dag.
+4. In afwijking van het derde lid mogen kruidenpreparaten olie bevatten die gewonnen is uit de zaden van Ricinus communis, voor zover het voorgeschreven gebruiks- en doseringsadvies, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2022-07-01&g=2022-07-01), niet leidt tot een hogere inname van deze olie dan 0,4 g per dag.
 
 ##### Artikel 5
 
@@ -140,6 +138,60 @@ Dit besluit wordt aangehaald als: Warenwetbesluit Kruidenpreparaten.
 
 ## Bijlage
 
+Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2022-07-01&g=2022-07-01).
+
+De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2022-07-01&g=2022-07-01) bedoelde planten en schimmels zijn:
+
+| Aconitum carmichaelii |
+| --- |
+| Aconitum kusnezoffii |
+| Aconitum napellus (Monnikskap of Duivelskruid) |
+| Adonis vernalis (Voorjaarsadonis of Duivelsoog) |
+| Artemisia cina (Echt wormkruid) |
+| Artemisia maritima Zeealsem) |
+| Atropa belladonna (Wolfskers) |
+| Brassica nigra (Zwarte mosterd), behoudens de toepassing in levensmiddelen van het zaad Bryonia alba (Heggerank) |
+| Cephaelis acuminata of Uragoga granatensis (waaronder Ipecacuanhae radix) |
+| Chenopodium ambrosioides (var. anthelminthicum) (Welriekende ganzevoet) |
+| Chrysanthemum vulgare of Tanacetum vulgare (Boerenwormkruid of Reinvaren) |
+| Citrullus colocynthis (Kolokwint of Kwintappel) |
+| Claviceps purpurea (Moederkoorn) |
+| Colchicum autumnale (Herfsttijloos) |
+| Convallaria majalis (Lelietje-van-dalen) |
+| Convolvulus scammonia |
+| Croton tiglium |
+| Datura stramonium (Doornappel) |
+| Digitalis lanata (Wollig vingerhoedskruid) |
+| Digitalis purpurea (Vingerhoedskruid) |
+| Dryopteris filix-mas (Mannetjesvaren) |
+| Exogonium purga of Ipomoea purga (Jalappe) |
+| Genista tinctoria (Verfbrem) |
+| Hyoscyamus niger (Bilzekruid) |
+| Juglans regia (Walnotenboom of Okkernotenboom), behalve de noten |
+| Juniperus sabina (Zevenboom) |
+| Ledum palustre (Moerasrozemarijn) |
+| Lobelia inflata (Lobeliakruid) |
+| Lycopus europaeus (Wolfspoot) |
+| Mallotus philippensis of Rottlera tinctoria (Kamala) |
+| Mandragora officinarum (alruin) |
+| Nerium oleander (Oleander) |
+| Pausinystalia johimbe of Corynanthe johimbe |
+| Pilocarpus jaborandi |
+| Piper methysticum (Kava kava) |
+| Podophyllum peltatum (Voetblad, Meiappel of Eendvoet), met uitzondering van de vruchten |
+| Pulsatilla vulgaris of Anemona pulsatilla (Wildemanskruid of Paarse anemoon) |
+| Rauwolfia serpentina (Rauwolfia) |
+| Ricinus communis (Kruisboom of Wonderboom) |
+| Rubia tinctorum (Meekrap) |
+| Sarothamnus scoparius of Cystisus scoparius (Bremkruid) |
+| Scopolia carniolica (Klokbilzenkruid) |
+| Solanum dulcamara (Bitterzoet) |
+| Strophantus kombé (Strofantus) |
+| Strychnos nux-vomica (Braaknootboom) |
+| Teucrium chamaedrys (Gamander of Wilde salie) |
+| Urginea maritima of Scilla maritima (Zeeajuin) |
+| Vinca minor (Kleine maagdepalm) |
+
 Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2020-07-01&g=2020-07-01).
 
 ### I. Ten minste de volgende plantensoorten worden geacht toxische pyrrolizidine-alkaloïden te bevatten.
@@ -147,6 +199,8 @@ Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR001
 ### II. De volgende planten en schimmels:
 
 ### III. De volgende planten en schimmels:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
