@@ -4,7 +4,7 @@ identifier: "BWBR0046464"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-20"
-last_updated: "2022-05-09"
+last_updated: "2022-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046464"
 soort: "ministeriele-regeling"
@@ -66,19 +66,19 @@ In deze regeling wordt verstaan onder:
 
 - 3°. voertuig, niet bestemd voor personen- of goederenvervoer over de weg, of vaartuig; en
 
-- 4°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-05-09&g=2022-05-09), onderdeel A; of
+- 4°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-07-02&g=2022-07-02), onderdeel A; of
 
 - b. hulpfunctie:
 
 - 1°. machine die is gemonteerd op het chassis van een weg- of spoorvoertuig of een drijvend werktuig; en
 
-- 2°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-05-09&g=2022-05-09), onderdeel B; of
+- 2°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-07-02&g=2022-07-02), onderdeel B; of
 
 - c. bouwvoertuig:
 
 - 1°. voertuig met de in het kentekenregister vastgelegde voertuigkwalificatie N2 of N3 en met de carrosseriecode 9, 10, 15, 16, 26, 27 en 28 of de aanduiding voor speciale doeleinden SF en indien het voertuigcategorie N2 betreft vanaf een gewicht van 4.250 kg; en
 
-- 2°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-05-09&g=2022-05-09), onderdeel C; en
+- 2°. welke genoemd is in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-07-02&g=2022-07-02), onderdeel C; en
 
 - d. indien elektrisch aangedreven beschikkende over een continu elektrisch vermogen van 8 kilowatt of hoger; en
 
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 - **emissieloos:** zonder uitlaatemissie van NOx, roetdeeltjes en broeikasgassen, uitgezonderd CO2 die vrijkomt bij gebruik van niet fossiele waterstofdragers in een brandstofcel;
 
-- **emissiearm:** uitlaatemissies van NOx en roetdeeltjes die voldoen aan emissielimieten zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-05-09&g=2022-05-09);
+- **emissiearm:** uitlaatemissies van NOx en roetdeeltjes die voldoen aan emissielimieten zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-07-02&g=2022-07-02);
 
 - **fijnstof:** vaste stofdeeltjes die kleiner zijn dan 10 micrometer doorsnee;
 
@@ -132,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 - **voertuigkwalificaties N2 of N3:** voertuigkwalificaties N2 en N3 als bedoeld in bijlage II, onderdeel A, van de [Verordening (EU) 2018/858](32758R2018) van het Europees parlement en de Raad van 30 mei 2018 betreffende de goedkeuring van en het markttoezicht op motorvoertuigen en aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd, tot wijziging van [Verordeningen (EG) nr. 715/2007](32007R0715) en [(EG) nr. 595/2009](32009R0595) en tot intrekking van [Richtlijn 2007/46/EG](32007L0046) (PB L 151 van 14.6.2018, blz. 1–218);
 
-- **zeegaand bouwvaartuig:** vaartuig dat mede wordt ingezet voor bouwwerkzaamheden in de Nederlandse exclusieve economische zone, waarvoor een geldig certificaat als bedoeld in de [artikelen 4 tot en met 6 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=4) vereist is, dat is genoemd in [bijlage 1, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-05-09&g=2022-05-09), bij deze regeling, niet zijnde een binnenvaartschip of drijvend werktuig als bedoeld in de artikelen 2 en 3 van de [Richtlijn (EU) 2016/1629](32016L1629) van het Europees parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van [Richtlijn 2009/100/EG](32009L0100) en tot intrekking van [Richtlijn 2006/87/EG](32006L0087);
+- **zeegaand bouwvaartuig:** vaartuig dat mede wordt ingezet voor bouwwerkzaamheden in de Nederlandse exclusieve economische zone, waarvoor een geldig certificaat als bedoeld in de [artikelen 4 tot en met 6 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=4) vereist is, dat is genoemd in [bijlage 1, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-07-02&g=2022-07-02), bij deze regeling, niet zijnde een binnenvaartschip of drijvend werktuig als bedoeld in de artikelen 2 en 3 van de [Richtlijn (EU) 2016/1629](32016L1629) van het Europees parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van [Richtlijn 2009/100/EG](32009L0100) en tot intrekking van [Richtlijn 2006/87/EG](32006L0087);
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -146,13 +146,13 @@ Deze regeling heeft als hoofddoel om de emissie van NOx in de bouwsector te verm
 
 ##### Artikel 1.3. Maximale verlening per jaar
 
-Per aanvrager of groep wordt per kalenderjaar ten hoogste € 1.000.000 aan subsidie als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.1&z=2022-05-09&g=2022-05-09) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09) verleend.
+Per aanvrager of groep wordt per kalenderjaar ten hoogste € 1.000.000 aan subsidie als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.1&z=2022-07-02&g=2022-07-02) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02) verleend.
 
 ### Hoofdstuk 2. Aanschafsubsidie
 
 ##### Artikel 2.1. Subsidiabele activiteit
 
-De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.3&z=2022-05-09&g=2022-05-09), aan een aanvrager subsidie verstrekken voor de aanschaf van één of meerdere emissieloze bouwmachines die voor het eerst in gebruik worden genomen na productie dan wel na de eerste inschrijving en tenaamstelling.
+De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.3&z=2022-07-02&g=2022-07-02), aan een aanvrager subsidie verstrekken voor de aanschaf van één of meerdere emissieloze bouwmachines die voor het eerst in gebruik worden genomen na productie dan wel na de eerste inschrijving en tenaamstelling.
 
 ##### Artikel 2.2. Hoogte subsidie
 
@@ -170,9 +170,9 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 ##### Artikel 2.3. Subsidieplafond
 
-1. Het subsidieplafond voor 2022 is € 3.330.000 voor bouwwerktuigen en hulpfuncties als bedoeld in de begripsomschrijving van ‘bouwmachine’, artikel 1.1, onderdelen a en b.
+1. Het subsidieplafond voor 2022 is € 23.500.000 voor bouwwerktuigen en hulpfuncties als bedoeld in de begripsomschrijving van ‘bouwmachine’, [artikel 1.1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.1&z=2022-07-02&g=2022-07-02).
 
-2. Het subsidieplafond voor 2022 is € 1.670.000 voor bouwvoertuigen als bedoeld in de begripsomschrijving van ‘bouwmachine’ artikel 1.1, onderdeel c.
+2. Het subsidieplafond voor 2022 is € 1.670.000 voor bouwvoertuigen als bedoeld in de begripsomschrijving van ‘bouwmachine’ [artikel 1.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.1&z=2022-07-02&g=2022-07-02).
 
 3. Indien het subsidieplafond, bedoeld in eerste lid,ontoereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, worden de bedragen aangevuld met de onaangesproken middelen gereserveerd op grond van het tweede lid.
 
@@ -196,7 +196,11 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 3. Een aanvraag tot subsidieverlening op grond van dit hoofdstuk kan worden ingediend in de volgende perioden:
 
-- a. in 2022 van 9 mei 2022, 9.00 uur tot en met 30 december 2022, 12.00 uur;
+- a. in 2022 voor:
+
+- 1°. bouwwerktuigen en hulpfuncties als bedoeld in de begripsomschrijving van ‘bouwmachine’, [artikel 1.1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.1&z=2022-07-02&g=2022-07-02), van 9 mei 2022, 9.00 uur tot en met 30 december 2022, 12.00 uur;
+
+- 2°. bouwvoertuigen als bedoeld in de begripsomschrijving van ‘bouwmachine’ [artikel 1.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.1&z=2022-07-02&g=2022-07-02), van 9 mei 2022, 9.00 uur tot en met 29 juli 2022;
 
 - b. in 2023 van 2 januari 2023, 9.00 uur tot en met 31 december 2023, 12.00 uur;
 
@@ -222,13 +226,13 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 - g. de overeenkomst voor de aanschaf, die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten en niet gedateerd mag zijn voor 1 januari 2022;
 
-- h. indien het een bouwmachine, bedoeld in [artikel 2.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.2&z=2022-05-09&g=2022-05-09), betreft, een bewijs van minder dan drie maanden oud waaruit blijkt wat de netto referentiekosten zijn;
+- h. indien het een bouwmachine, bedoeld in [artikel 2.2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.2&z=2022-07-02&g=2022-07-02), betreft, een bewijs van minder dan drie maanden oud waaruit blijkt wat de netto referentiekosten zijn;
 
 - i. de code of codes verbonden aan de Standaard Bedrijfsindeling van het Centraal Bureau voor de Statistiek van de aanvrager op het moment van de aanvraag;
 
 - j. de aanduiding van de subsidieregeling en de hoogte van het bedrag van eventuele reeds aangevraagde of ontvangen subsidies of andere tegemoetkomingen van andere bestuursorganen of de Europese Commissie voor de aanschaf van de bouwmachine;
 
-- k. een getekende verklaring dat de bouwmachine gedurende de instandhoudingstermijn, bedoeld in [artikel 2.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.11&z=2022-05-09&g=2022-05-09), hoofdzakelijk zal worden ingezet ten behoeve van de bouwsector in Nederland.
+- k. een getekende verklaring dat de bouwmachine gedurende de instandhoudingstermijn, bedoeld in [artikel 2.11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.11&z=2022-07-02&g=2022-07-02), hoofdzakelijk zal worden ingezet ten behoeve van de bouwsector in Nederland.
 
 ##### Artikel 2.6. Afwijzingsgronden
 
@@ -246,7 +250,7 @@ De Minister beslist in elk geval afwijzend op een aanvraag om subsidie op grond 
 
 - f. de onderneming ten tijde van de aanvraag niet staat geregistreerd als onderneming in de bouwsector op basis van de Standaard Bedrijfsindeling van het Centraal Bureau voor de Statistiek;
 
-- g. de schriftelijke overeenkomst of overeenkomsten ten behoeve van het uitvoeren van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09), ten tijde van de indiening van de aanvraag reeds is of zijn gesloten die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten en niet gedateerd mag zijn voor 1 januari 2022;
+- g. de schriftelijke overeenkomst of overeenkomsten ten behoeve van het uitvoeren van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02), ten tijde van de indiening van de aanvraag reeds is of zijn gesloten die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten en niet gedateerd mag zijn voor 1 januari 2022;
 
 - h. een bouwmachine met kenteken reeds is tenaamgesteld ten tijde van de indiening van de aanvraag;
 
@@ -256,7 +260,7 @@ De Minister beslist in elk geval afwijzend op een aanvraag om subsidie op grond 
 
 - k. er al een subsidie is verstrekt voor dezelfde activiteit met betrekking tot dezelfde bouwmachine; of
 
-- m. indien voor een bouwvoertuig als in [bijlage 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-05-09&g=2022-05-09), reeds subsidie is verleend op basis van de Subsidieregeling Aanschaf Zero Emissie Trucks (AanZET); of
+- m. indien voor een bouwvoertuig als in [bijlage 1, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=1&z=2022-07-02&g=2022-07-02), reeds subsidie is verleend op basis van de Subsidieregeling Aanschaf Zero Emissie Trucks (AanZET); of
 
 - n. de aanvraag niet voldoet aan de in de regeling gestelde regels.
 
@@ -316,21 +320,21 @@ Betalingen vinden plaats op een bankrekening die op naam staat van de aanvrager.
 
 ##### Artikel 2.12. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.11&z=2022-05-09&g=2022-05-09) kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.11&z=2022-07-02&g=2022-07-02) kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichtingen, genoemd in [artikel 2.11. derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.11&z=2022-05-09&g=2022-05-09), inzake de verplichting om de bouwmachine in eigendom te houden en hoofdzakelijk te gebruiken in de bouwsector in Nederland.
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichtingen, genoemd in [artikel 2.11. derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.11&z=2022-07-02&g=2022-07-02), inzake de verplichting om de bouwmachine in eigendom te houden en hoofdzakelijk te gebruiken in de bouwsector in Nederland.
 
 ### Hoofdstuk 3. Retrofitsubsidie
 
 ##### Artikel 3.1. Subsidiabele activiteit
 
-De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.3&z=2022-05-09&g=2022-05-09), aan een aanvrager subsidie verstrekken voor:
+De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.3&z=2022-07-02&g=2022-07-02), aan een aanvrager subsidie verstrekken voor:
 
-- a. de ombouw van een bouwwerktuig, die beschikt over een motor met een vermogen groter of gelijk 19 kilowatt en kleiner dan 56 kW waarvoor de fase V emissienorm, bedoeld in de bijlage bij de NRMM-verordening, geldt, tot een emissiearme bouwmachine door installatie van een SCR-katalysator die leidt tot een bouwmachine die voldoet aan de limietwaarden voor NOx uit Tabel 1 in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-05-09&g=2022-05-09) van deze regeling;
+- a. de ombouw van een bouwwerktuig, die beschikt over een motor met een vermogen groter of gelijk 19 kilowatt en kleiner dan 56 kW waarvoor de fase V emissienorm, bedoeld in de bijlage bij de NRMM-verordening, geldt, tot een emissiearme bouwmachine door installatie van een SCR-katalysator die leidt tot een bouwmachine die voldoet aan de limietwaarden voor NOx uit Tabel 1 in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-07-02&g=2022-07-02) van deze regeling;
 
 - b. de ombouw van een bouwwerktuig, die beschikt over een motor met een vermogen groter of gelijk 56 kilowatt en kleiner of gelijk 560 kW waarvoor de fase II, fase III A of fase III B emissienormen, bedoeld in de bijlage bij de NRMM-verordening, gelden, tot een emissiearme bouwmachine door installatie van een SCR-katalysator, die leidt tot een bouwmachine die voldoet aan de voor die bouwmachine geldende fase V-emissienormen voor NOx, bedoeld in de bijlage bij de NRMM-verordening;
 
-- c. de ombouw van een bouwwerktuig met een vermogen groter dan 560 kW tot emissiearme bouwmachine door installatie van een SCR-katalysator, die leidt tot een bouwmachine die voldoet aan de limietwaarden voor NOx uit Tabel 1 in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-05-09&g=2022-05-09) van deze regeling;
+- c. de ombouw van een bouwwerktuig met een vermogen groter dan 560 kW tot emissiearme bouwmachine door installatie van een SCR-katalysator, die leidt tot een bouwmachine die voldoet aan de limietwaarden voor NOx uit Tabel 1 in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-07-02&g=2022-07-02) van deze regeling;
 
 - d. de ombouw van een in gebruik zijnd bouwwerktuig tot emissieloos bouwwerktuig door inbouw en installatie van een elektrische aandrijfmotor met een brandstofcel of een niet loodhoudend accupakket;
 
@@ -338,23 +342,23 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 ##### Artikel 3.2. Hoogte subsidie
 
-1. De subsidie bedraagt per bouwmachine of per maatregel, als bedoeld in [artikel 3.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09), op een zeegaand bouwvaartuig ten hoogste 40% van de kosten van de maatregelen, bedoeld in artikel 3.1, verminderd met 11,25% forfaitaire milieu-investeringsaftrek over de investeringskosten voor de bouwmachine of de maatregel als bedoeld in artikel 3.1, onderdeel e, op een zeegaand bouwvaartuig, genoemd in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) Milieu investeringsaftrek, indien deze aftrek van toepassing is op de bouwmachine of zeegaand bouwvaartuig, tot een bedrag van ten hoogste € 300.000. In het geval van een zeegaand bouwvaartuig zijn, met inachtneming van [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.3&z=2022-05-09&g=2022-05-09), per zeegaand bouwvaartuig meerdere maatregelen, als bedoeld in artikel 3.1, onderdeel e, subsidiabel.
+1. De subsidie bedraagt per bouwmachine of per maatregel, als bedoeld in [artikel 3.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02), op een zeegaand bouwvaartuig ten hoogste 40% van de kosten van de maatregelen, bedoeld in artikel 3.1, verminderd met 11,25% forfaitaire milieu-investeringsaftrek over de investeringskosten voor de bouwmachine of de maatregel als bedoeld in artikel 3.1, onderdeel e, op een zeegaand bouwvaartuig, genoemd in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) Milieu investeringsaftrek, indien deze aftrek van toepassing is op de bouwmachine of zeegaand bouwvaartuig, tot een bedrag van ten hoogste € 300.000. In het geval van een zeegaand bouwvaartuig zijn, met inachtneming van [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.3&z=2022-07-02&g=2022-07-02), per zeegaand bouwvaartuig meerdere maatregelen, als bedoeld in artikel 3.1, onderdeel e, subsidiabel.
 
-2. De kosten per bouwmachine of zeegaand bouwvaartuig, bedoeld in het eerste lid, worden bepaald op basis van de netto investeringskosten die onder [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09) subsidiabel zijn.
+2. De kosten per bouwmachine of zeegaand bouwvaartuig, bedoeld in het eerste lid, worden bepaald op basis van de netto investeringskosten die onder [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02) subsidiabel zijn.
 
-3. [Artikel 2.2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.2&z=2022-05-09&g=2022-05-09), zijn van overeenkomstige toepassing.
+3. [Artikel 2.2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.2&z=2022-07-02&g=2022-07-02), zijn van overeenkomstige toepassing.
 
 ##### Artikel 3.3. Subsidieplafond
 
-1. Het subsidieplafond voor 2022 voor de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09) is: € 5.000.000.
+1. Het subsidieplafond voor 2022 voor de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02) is: € 7.000.000.
 
-2. [Artikel 2.3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.3&z=2022-05-09&g=2022-05-09), is van overeenkomstige toepassing.
+2. [Artikel 2.3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.3&z=2022-07-02&g=2022-07-02), is van overeenkomstige toepassing.
 
 ##### Artikel 3.4. Verdelingsregime
 
 1. De Minister verdeelt de in de betreffende subsidieperiode beschikbare gelden op volgorde van ontvangst van de volledige aanvragen voor subsidies op grond van dit hoofdstuk.
 
-2. [Artikel 2.4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.4&z=2022-05-09&g=2022-05-09), is van toepassing.
+2. [Artikel 2.4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=2&artikel=2.4&z=2022-07-02&g=2022-07-02), is van toepassing.
 
 ##### Artikel 3.5. Aanvraag subsidieverlening
 
@@ -384,9 +388,9 @@ De Minister kan, overeenkomstig het bepaalde bij dit hoofdstuk en [artikel 1.3](
 
 - f. de code of codes verbonden aan de Standaard Bedrijfsindeling van het Centraal Bureau voor de Statistiek van de aanvrager op het moment van de aanvraag;
 
-- g. een verklaring dat de bouwmachine gedurende de instandhoudingstermijn, bedoeld in [artikel 3.11, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-05-09&g=2022-05-09), hoofdzakelijk wordt ingezet in de bouwsector;
+- g. een verklaring dat de bouwmachine gedurende de instandhoudingstermijn, bedoeld in [artikel 3.11, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-07-02&g=2022-07-02), hoofdzakelijk wordt ingezet in de bouwsector;
 
-- h. de schriftelijke overeenkomst of overeenkomsten ten behoeve van het uitvoeren van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09), ten tijde van de indiening van de aanvraag reeds is of zijn gesloten die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten en niet gedateerd mag zijn voor 1 januari 2022;
+- h. de schriftelijke overeenkomst of overeenkomsten ten behoeve van het uitvoeren van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02), ten tijde van de indiening van de aanvraag reeds is of zijn gesloten die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten en niet gedateerd mag zijn voor 1 januari 2022;
 
 - i. indien de aanvraag betrekking heeft op een SCR-katalysator op een bouwmachine met een vermogen groter of gelijk 56 kilowatt en kleiner of gelijk 560 kW, waarop de emissiegrenswaarden van fase II, fase III A of fase III B van toepassing zijn als bedoeld in de NRMM-verordening, of een bouwmachine met een vermogen groter dan 560 kW, een bewijsstuk indien een roetfilter aantoonbaar niet mogelijk is;
 
@@ -408,17 +412,17 @@ Met toepassing van de in [artikel 12 van het Kaderbesluit](https://wetten.overhe
 
 - e. de subsidieverstrekking niet in overeenstemming is met enige andere bepaling van de Algemene groepsvrijstellingsverordening;
 
-- f. de aanvraag betrekking heeft op hetgeen bedoeld is in [artikel 3.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09), de energie voor de aandrijving wordt geleverd door een accupakket dat lood bevat;
+- f. de aanvraag betrekking heeft op hetgeen bedoeld is in [artikel 3.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02), de energie voor de aandrijving wordt geleverd door een accupakket dat lood bevat;
 
 - g. de aanvrager niet staat geregistreerd als onderneming in de bouwsector op basis van de Standaard Bedrijfsindeling van het Centraal Bureau voor de Statistiek;
 
-- h. de schriftelijke overeenkomst of overeenkomsten ten behoeve van het uitvoeren van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09), ten tijde van de indiening van de aanvraag reeds is of zijn gesloten die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten en niet gedateerd mag zijn voor 1 januari 2022;
+- h. de schriftelijke overeenkomst of overeenkomsten ten behoeve van het uitvoeren van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02), ten tijde van de indiening van de aanvraag reeds is of zijn gesloten die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten en niet gedateerd mag zijn voor 1 januari 2022;
 
-- i. een typegoedkeuring of een enkelstukskeuringbewijs van het nabehandelingssysteem ontbreekt zoals voorgeschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-05-09&g=2022-05-09);
+- i. een typegoedkeuring of een enkelstukskeuringbewijs van het nabehandelingssysteem ontbreekt zoals voorgeschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-07-02&g=2022-07-02);
 
 - j. de aanvraag betrekking heeft op de installatie van een SCR-katalysator op een bouwmachine zonder dat een roetfilter is of wordt gemonteerd, tenzij dit aantoonbaar niet mogelijk is;
 
-- k. de aanvrager op grond van Europees recht al verplicht is om een maatregel zoals beschreven in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09) uit te voeren;
+- k. de aanvrager op grond van Europees recht al verplicht is om een maatregel zoals beschreven in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02) uit te voeren;
 
 - l. de bouwmachine niet in de handel is gebracht met inachtneming van de voorschriften die bij of krachtens [hoofdstuk 3 van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3) zijn gesteld of zonder EG-verklaring van conformiteit of geschiktheid als bedoeld in [artikel 26a van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26a); of
 
@@ -436,7 +440,7 @@ De Minister verstrekt ambtshalve, gelijktijdig met de beschikking tot subsidieve
 
 1. De aanvraag tot vaststelling van de subsidie op grond van dit hoofdstuk wordt uiterlijk ingediend tot 8 maanden na de datum van verlening van de subsidie.
 
-2. De aanvrager kan bij RVO een verzoek doen tot uitstel van maximaal 4 maanden van de indiening van de aanvraag, bedoeld in het eerste lid, indien hij kan aantonen dat de uitvoering van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09), is vertraagd.
+2. De aanvrager kan bij RVO een verzoek doen tot uitstel van maximaal 4 maanden van de indiening van de aanvraag, bedoeld in het eerste lid, indien hij kan aantonen dat de uitvoering van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02), is vertraagd.
 
 3. Een aanvraag tot subsidievaststelling op grond van dit hoofdstuk wordt ingediend door middel van een daartoe vastgesteld formulier dat beschikbaar is via de website van RVO.
 
@@ -444,11 +448,11 @@ De Minister verstrekt ambtshalve, gelijktijdig met de beschikking tot subsidieve
 
 5. Bij de aanvraag tot vaststelling van de subsidie worden in elk geval de volgende gegevens verstrekt:
 
-- a. bijbehorende factuur en het betaalbewijs aangaande maatregelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09);
+- a. bijbehorende factuur en het betaalbewijs aangaande maatregelen als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02);
 
 - b. indien van toepassing, het kenteken van de gesubsidieerde omgebouwde bouwmachine;
 
-- c. indien bij de aanvraag subsidieverlening geen rapport typegoedkeuring aanwezig was, een enkelstuksgoedkeuring zoals voorgeschreven is in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-05-09&g=2022-05-09);
+- c. indien bij de aanvraag subsidieverlening geen rapport typegoedkeuring aanwezig was, een enkelstuksgoedkeuring zoals voorgeschreven is in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-07-02&g=2022-07-02);
 
 - d. een verklaring dat de aangepaste bouwmachine in de handel is gebracht of in gebruik genomen met inachtneming van de voorschriften die bij of krachtens [hoofdstuk 3 van het Warenwetbesluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3) zijn gesteld of met EG-verklaring van conformiteit of geschiktheid als bedoeld in [artikel 26a van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26a).
 
@@ -466,13 +470,13 @@ Betalingen vinden plaats op een bankrekening die op naam staat van de aanvrager.
 
 - c. om op verzoek van de Minister alle gevraagde medewerking te verlenen aan een door de Minister ter zake van de toepassing en de effecten van deze regeling ingesteld evaluatieonderzoek, die de Minister redelijkerwijs nodig heeft voor de uitvoering van dat evaluatieonderzoek.
 
-2. Om een adequate emissiereducerende werking te borgen van de maatregelen, bedoeld in [artikel 3.1, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09), toont een gecertificeerd meetbedrijf overeenkomstig ISO 9001, 9003, 17020, 17025, VCA, NEN 14001 of daaraan gelijk aan, dat de SCR-katalysator een typegoedkeuring heeft overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-05-09&g=2022-05-09) of de bouwmachine met SCR-katalysator een enkelstukskeuringbewijs heeft overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-05-09&g=2022-05-09);
+2. Om een adequate emissiereducerende werking te borgen van de maatregelen, bedoeld in [artikel 3.1, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02), toont een gecertificeerd meetbedrijf overeenkomstig ISO 9001, 9003, 17020, 17025, VCA, NEN 14001 of daaraan gelijk aan, dat de SCR-katalysator een typegoedkeuring heeft overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-07-02&g=2022-07-02) of de bouwmachine met SCR-katalysator een enkelstukskeuringbewijs heeft overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-07-02&g=2022-07-02);
 
-3. Om een adequate emissiereducerende werking te borgen van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-05-09&g=2022-05-09), toont een gecertificeerd meetbedrijf overeenkomstig ISO 9001, 9003, 17020, 17025, VCA, NEN 14001 of daaraan gelijk aan dat de emissienorm, bedoeld in artikel 3.1, onderdeel e, is behaald met een emissietest overeenkomstig de testprocedure voorgeschreven in bijlage 3.
+3. Om een adequate emissiereducerende werking te borgen van de maatregelen, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.1&z=2022-07-02&g=2022-07-02), toont een gecertificeerd meetbedrijf overeenkomstig ISO 9001, 9003, 17020, 17025, VCA, NEN 14001 of daaraan gelijk aan dat de emissienorm, bedoeld in artikel 3.1, onderdeel e, is behaald met een emissietest overeenkomstig de testprocedure voorgeschreven in bijlage 3.
 
 4. De subsidieontvanger is verplicht, voor de bouwmachine die met een retrofit-nabehandelingsysteem is uitgerust, om gedurende de instandhoudingstermijn jaarlijks, uiterlijk 2 maanden na een volledig jaar nadat de maatregel in gebruik is genomen, het verbruik van ureumoplossing, die overeenkomstig ISO 22241 is vervaardigd, te rapporteren. Voor het zeegaande bouwvaartuig dat met retrofit-nabehandeling is uitgerust worden gedurende de instandhoudingstermijn jaarlijks, uiterlijk 2 maanden na een volledig jaar nadat de maatregel in gebruik is genomen, het verbruik van zowel de hoeveelheid brandstof als van de ureumoplossing verstrekt.
 
-5. Op verzoek van de Minister werkt de subsidieontvanger mee aan de monitoring van emissies van de gesubsidieerde bouwmachine of zeegaand bouwvaartuig overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-05-09&g=2022-05-09) gedurende 48 maanden na vaststelling van de subsidie.
+5. Op verzoek van de Minister werkt de subsidieontvanger mee aan de monitoring van emissies van de gesubsidieerde bouwmachine of zeegaand bouwvaartuig overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=3&z=2022-07-02&g=2022-07-02) gedurende 48 maanden na vaststelling van de subsidie.
 
 6. De subsidieontvanger heeft gedurende 48 maanden na vaststelling van de gesubsidieerde ombouw van de bouwmachine, zonder overdracht aan derden, in eigendom, en gebruikt deze hoofdzakelijk in de bouwsector. Gedurende 48 maanden na de vaststelling van de subsidie toont de subsidieontvanger desgevraagd aan dat de bouwmachine hoofdzakelijk in Nederland en hoofdzakelijk in de bouwsector is ingezet.
 
@@ -482,15 +486,15 @@ Betalingen vinden plaats op een bankrekening die op naam staat van de aanvrager.
 
 ##### Artikel 3.12. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-05-09&g=2022-05-09) kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-07-02&g=2022-07-02) kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichtingen, genoemd in [artikel 3.11, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-05-09&g=2022-05-09), inzake de verplichting om de bouwmachine in eigendom te houden en hoofdzakelijk te gebruiken in de bouwsector in Nederland.
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichtingen, genoemd in [artikel 3.11, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-07-02&g=2022-07-02), inzake de verplichting om de bouwmachine in eigendom te houden en hoofdzakelijk te gebruiken in de bouwsector in Nederland.
 
 ### Hoofdstuk 4. Innovatiesubsidie
 
 ##### Artikel 4.1. Subsidiabele activiteiten
 
-De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden uitgevoerd en bijdragen aan het realiseren van de doelstelling van de regeling als bedoeld in [artikel 1.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.2&z=2022-05-09&g=2022-05-09), in de vorm van:
+De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden uitgevoerd en bijdragen aan het realiseren van de doelstelling van de regeling als bedoeld in [artikel 1.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.2&z=2022-07-02&g=2022-07-02), in de vorm van:
 
 - a. een project experimentele ontwikkeling dat bijdraagt aan het versnellen van de ontwikkeling van emissieloze bouwmachines in de pre-commerciële fase, de uitrol of het gebruik van infrastructuur voor alternatieve energiedragers voor emissieloze bouwmachines of oplaadsystemen voor het laden al dan niet ontladen van accu’s van emissieloze bouwmachines met uitzondering van de energieopwekking ten behoeve van het opladen;
 
@@ -508,9 +512,9 @@ De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden u
 
 ##### Artikel 4.3. Subsidieplafonds
 
-1. Het subsidieplafond in 2022 voor projecten experimentele ontwikkeling als bedoeld in [artikel 4.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.1&z=2022-05-09&g=2022-05-09), bedraagt € 9.000.000,-.
+1. Het subsidieplafond in 2022 voor projecten experimentele ontwikkeling als bedoeld in [artikel 4.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.1&z=2022-07-02&g=2022-07-02), bedraagt € 9.000.000,-.
 
-2. Het subsidieplafond in 2022 voor projecten haalbaarheidsstudie als bedoeld in [artikel 4.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.1&z=2022-05-09&g=2022-05-09), bedraagt € 1.000.000,-.
+2. Het subsidieplafond in 2022 voor projecten haalbaarheidsstudie als bedoeld in [artikel 4.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.1&z=2022-07-02&g=2022-07-02), bedraagt € 1.000.000,-.
 
 3. De Minister stelt de subsidieplafonds voor de jaren na 2022 vast en maakt deze bekend in de Staatscourant voor aanvang van het tijdvak waarvoor het wordt vastgesteld.
 
@@ -534,7 +538,7 @@ De Minister kan subsidie verstrekken voor activiteiten die in Nederland worden u
 
 ##### Artikel 4.5. Aanvragers
 
-Bij een project experimentele ontwikkeling en een project haalbaarheidsstudie kan, in afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.1&z=2022-05-09&g=2022-05-09), een aanvraag voor subsidie op grond van dit hoofdstuk, worden ingediend door een onderneming met een vestiging in Nederland die in staat is de experimentele ontwikkeling, die onderwerp is van het project, uit te voeren waarbij het mogelijk is in een samenwerkingsverband van die ondernemingen of een niet-gouvernementele organisatie of een publiek-gefinancierde onderzoeksorganisaties uit te voeren, waarbij een van de daaraan deelnemende ondernemingen door het samenwerkingsverband is aangewezen als penvoerder.
+Bij een project experimentele ontwikkeling en een project haalbaarheidsstudie kan, in afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.1&z=2022-07-02&g=2022-07-02), een aanvraag voor subsidie op grond van dit hoofdstuk, worden ingediend door een onderneming met een vestiging in Nederland die in staat is de experimentele ontwikkeling, die onderwerp is van het project, uit te voeren waarbij het mogelijk is in een samenwerkingsverband van die ondernemingen of een niet-gouvernementele organisatie of een publiek-gefinancierde onderzoeksorganisaties uit te voeren, waarbij een van de daaraan deelnemende ondernemingen door het samenwerkingsverband is aangewezen als penvoerder.
 
 ##### Artikel 4.6. Vereisten subsidieaanvraag
 
@@ -554,19 +558,19 @@ Bij een project experimentele ontwikkeling en een project haalbaarheidsstudie ka
 
 1. Voor een project haalbaarheidsstudie vindt de subsidieverdeling plaats op volgorde van binnenkomst van volledige aanvragen.
 
-2. Voor een project experimentele ontwikkeling vindt de subsidieverdeling plaats aan de hand van een rangschikking, overeenkomstig [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.8&z=2022-05-09&g=2022-05-09), van de aanvragen die voor subsidieverstrekking in aanmerking komen.
+2. Voor een project experimentele ontwikkeling vindt de subsidieverdeling plaats aan de hand van een rangschikking, overeenkomstig [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.8&z=2022-07-02&g=2022-07-02), van de aanvragen die voor subsidieverstrekking in aanmerking komen.
 
 3. Indien twee of meer aanvragen voor projecten experimentele ontwikkeling op dezelfde plaats in de rangschikking terechtkomen wordt door middel van loting de definitieve plaats in de rangschikking bepaald.
 
-4. In afwijking van het eerste lid en tweede lid vindt, indien een gevraagde subsidie niet geheel doch voor ten minste 70 procent kan worden verstrekt omdat het subsidieplafond, bedoeld in [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.3&z=2022-05-09&g=2022-05-09), bijna is bereikt, overleg plaats met de aanvrager over het al dan niet geven van een beschikking houdende een afwijking van het subsidiebedrag dat is aangevraagd.
+4. In afwijking van het eerste lid en tweede lid vindt, indien een gevraagde subsidie niet geheel doch voor ten minste 70 procent kan worden verstrekt omdat het subsidieplafond, bedoeld in [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.3&z=2022-07-02&g=2022-07-02), bijna is bereikt, overleg plaats met de aanvrager over het al dan niet geven van een beschikking houdende een afwijking van het subsidiebedrag dat is aangevraagd.
 
-5. Aan de aanvrager van een subsidie voor een project experimentele ontwikkeling worden maximaal twee subsidies verstrekt per periode als bedoeld in [artikel 4.4, tweede lid, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.4&z=2022-05-09&g=2022-05-09).
+5. Aan de aanvrager van een subsidie voor een project experimentele ontwikkeling worden maximaal twee subsidies verstrekt per periode als bedoeld in [artikel 4.4, tweede lid, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.4&z=2022-07-02&g=2022-07-02).
 
-6. Aan de aanvrager van een subsidie voor een project haalbaarheidsstudie worden maximaal drie subsidies verstrekt per periode als bedoeld in [artikel 4.4, eerste lid onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.4&z=2022-05-09&g=2022-05-09).
+6. Aan de aanvrager van een subsidie voor een project haalbaarheidsstudie worden maximaal drie subsidies verstrekt per periode als bedoeld in [artikel 4.4, eerste lid onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.4&z=2022-07-02&g=2022-07-02).
 
 ##### Artikel 4.8. Beoordelingscriteria
 
-1. De aanvragen voor projecten experimentele ontwikkeling worden beoordeeld en gerangschikt op onderwerp, impact en kwaliteit van het project, zoals vastgelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=2&z=2022-05-09&g=2022-05-09) bij deze regeling.
+1. De aanvragen voor projecten experimentele ontwikkeling worden beoordeeld en gerangschikt op onderwerp, impact en kwaliteit van het project, zoals vastgelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&bijlage=2&z=2022-07-02&g=2022-07-02) bij deze regeling.
 
 2. Bij de beoordeling worden punten toegekend, met een maximum van 100 punten per aanvraag.
 
@@ -578,7 +582,7 @@ Een subsidieaanvraag wordt, met toepassing van het bepaalde in [artikel 12 van h
 
 - b. er sprake is van ongeoorloofde cumulatie van steun als bedoeld in artikel 8 van de Algemene groepsvrijstellingsverordening die de maximale steunintensiteit overschrijdt;
 
-- c. er sprake is van een onderneming of organisatie, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.5&z=2022-05-09&g=2022-05-09), in moeilijkheden als bedoeld in artikel 2, achttiende lid, van de Algemene groepsvrijstellingsverordening;
+- c. er sprake is van een onderneming of organisatie, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.5&z=2022-07-02&g=2022-07-02), in moeilijkheden als bedoeld in artikel 2, achttiende lid, van de Algemene groepsvrijstellingsverordening;
 
 - d. de werkzaamheden aan het reeds project zijn aangevangen voordat de aanvraag voor dat project is ingediend en het stimulerend effect als bedoeld in artikel 6, tweede lid, van de Algemene groepsvrijstellingsverordening daardoor ontbreekt;
 
@@ -638,7 +642,7 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 ##### Artikel 4.14. Berekening subsidiabele kosten bij toepassing kosten per kostendrager met opslag
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 4.12, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.12&z=2022-05-09&g=2022-05-09), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 4.12, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.12&z=2022-07-02&g=2022-07-02), worden de directe loonkosten per uur vermenigvuldigd met het aantal uren dat direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid berekende bedrag te vermeerderen met:
 
@@ -652,7 +656,7 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 ##### Artikel 4.15. Berekening met forfaitair uurtarief loonkosten
 
-1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 4.12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.12&z=2022-05-09&g=2022-05-09), wordt een uurtarief gehanteerd van € 60,– per uur.
+1. Bij het hanteren van uurtarieven die tot stand zijn gekomen met de standaardberekeningswijze bedoeld in [artikel 4.12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.12&z=2022-07-02&g=2022-07-02), wordt een uurtarief gehanteerd van € 60,– per uur.
 
 2. De subsidiabele kosten worden berekend door het ingevolge het eerste lid gehanteerde bedrag te vermenigvuldigen met het aantal uren dat de direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gewerkt en te vermeerderen met:
 
@@ -670,11 +674,11 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 - b. met in achtneming van het eerste lid, het voorschot wordt berekend door het totale voorschotbedrag te delen door het aantal kwartalen in de periode waarover de subsidie is verleend.
 
-3. De voorschotverstrekking, bedoeld in het tweede lid, wordt opgeschort zolang de rapportage, bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.17&z=2022-05-09&g=2022-05-09), in strijd met dat artikel, niet is ontvangen.
+3. De voorschotverstrekking, bedoeld in het tweede lid, wordt opgeschort zolang de rapportage, bedoeld in [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.17&z=2022-07-02&g=2022-07-02), in strijd met dat artikel, niet is ontvangen.
 
 ##### Artikel 4.17. Verplichtingen
 
-1. De subsidieontvanger dient door middel van een jaarlijkse voortgangsrapportage tijdens de looptijd van het project en een eindrapport met een openbaar gedeelte verslag te doen van de mate waarin het project heeft bijgedragen aan de doelen van deze regeling zoals opgenomen in [artikel 1.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.2&z=2022-05-09&g=2022-05-09), en [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.1&z=2022-05-09&g=2022-05-09).
+1. De subsidieontvanger dient door middel van een jaarlijkse voortgangsrapportage tijdens de looptijd van het project en een eindrapport met een openbaar gedeelte verslag te doen van de mate waarin het project heeft bijgedragen aan de doelen van deze regeling zoals opgenomen in [artikel 1.2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.2&z=2022-07-02&g=2022-07-02), en [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.1&z=2022-07-02&g=2022-07-02).
 
 2. In het verslag, bedoeld in het eerste lid wordt in ieder geval opgenomen:
 
@@ -690,11 +694,11 @@ De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ont
 
 ##### Artikel 4.18. Subsidievaststelling
 
-1. De aanvraag tot vaststelling van de subsidie op grond van dit hoofdstuk wordt, onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.2&z=2022-05-09&g=2022-05-09), uiterlijk ingediend tot 4 maanden nadat het project is voltooid.
+1. De aanvraag tot vaststelling van de subsidie op grond van dit hoofdstuk wordt, onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.2&z=2022-07-02&g=2022-07-02), uiterlijk ingediend tot 4 maanden nadat het project is voltooid.
 
 2. Een aanvraag tot subsidievaststelling op grond van dit hoofdstuk wordt ingediend door middel van een daartoe vastgesteld formulier dat beschikbaar is via de website van RVO.
 
-3. Bij de aanvraag tot vaststelling van de subsidie wordt in ieder geval het eindrapport verstrekt en overige verplichte verantwoording krachtens [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.17&z=2022-05-09&g=2022-05-09).
+3. Bij de aanvraag tot vaststelling van de subsidie wordt in ieder geval het eindrapport verstrekt en overige verplichte verantwoording krachtens [artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.17&z=2022-07-02&g=2022-07-02).
 
 ##### Artikel 4.19. Betaling
 
@@ -702,7 +706,7 @@ Betalingen van de Minister vinden plaats op een bankrekening die op naam staat v
 
 ##### Artikel 4.20. Gewijzigde vaststelling en terugvordering
 
-Indien niet is voldaan aan het bepaalde in [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.18&z=2022-05-09&g=2022-05-09) kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
+Indien niet is voldaan aan het bepaalde in [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.18&z=2022-07-02&g=2022-07-02) kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -738,7 +742,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling schoon en emissieloos bouwm
 
 2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op de voor die datum aangevraagde subsidies.
 
-## Bijlage 1. Lijst van bouwmachines en zeegaande bouwvaartuigen, behorende bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.1&z=2022-05-09&g=2022-05-09) van de regeling.
+## Bijlage 1. Lijst van bouwmachines en zeegaande bouwvaartuigen, behorende bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=1&artikel=1.1&z=2022-07-02&g=2022-07-02) van de regeling.
 
 Hier wordt in een lijst aangegeven welke machines in deze regeling onder de definitie van bouwmachine of zeegaand bouwvaartuig vallen, en daarmee in aanmerking komen voor aanschaf- of retrofitsubsidie, mits de aanvragen voldoen aan alle andere in de regeling vermelde eisen. Vermeldingen zijn per categorie in alfabetische volgorde.
 
@@ -754,7 +758,7 @@ N = nee
 
 ### D. Zeegaande bouwvaartuigen (uitsluitend retrofit SCR)
 
-## Bijlage 2. – Beoordelingscriteria projecten experimentele ontwikkeling en maximale puntentoedeling, behorende bij de [artikelen 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.8&z=2022-05-09&g=2022-05-09) en [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.18&z=2022-05-09&g=2022-05-09) van de regeling.
+## Bijlage 2. – Beoordelingscriteria projecten experimentele ontwikkeling en maximale puntentoedeling, behorende bij de [artikelen 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.8&z=2022-07-02&g=2022-07-02) en [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=4&artikel=4.18&z=2022-07-02&g=2022-07-02) van de regeling.
 
 | Criterium | Omschrijving | Punten Techn. ontw. | Punten Praktijk- ervaring | Punten Praktijk- ervaring |
 | --- | --- | --- | --- | --- |
@@ -773,7 +777,7 @@ N = nee
 |   | 10. **Samenwerking**. De mate en wijze van samenwerking tussen verschillende (keten)partners, en de bijdrage die dit levert aan de kwaliteit van het project. | 5 | 15 | 15 |
 |   | TOTAAL | 100 | 100 | 100 |
 
-## Bijlage 3. – Protocol voor typegoedkeuring UNECE R132 en enkelstukskeuring ISO 8178, behorende bij de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.6&z=2022-05-09&g=2022-05-09) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-05-09&g=2022-05-09) van de regeling.
+## Bijlage 3. – Protocol voor typegoedkeuring UNECE R132 en enkelstukskeuring ISO 8178, behorende bij de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.6&z=2022-07-02&g=2022-07-02) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-07-02&g=2022-07-02) van de regeling.
 
 ### 1. Inleiding
 
@@ -855,7 +859,7 @@ Afhankelijk van het type aandrijving dient gebruik gemaakt te worden van verschi
 
 De best passende testcyclus bij het belastingpatroon in de praktijk dient gebruikt te worden. Het meetbedrijf dient de best passende testcyclus te kiezen in overleg met de machine eigenaar of de leverancier van het nabehandelingsysteem, rekening houdend met de technische mogelijkheid om de meetpunten te realiseren op het vaartuig.
 
-De aanvrager dient te beschikken over een nauwkeurige systeembeschrijving van de motor(en) en het nabehandelingssysteem, die op verzoek van de Minister kan worden opgevraagd ([artikel 3.11, lid 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-05-09&g=2022-05-09)):
+De aanvrager dient te beschikken over een nauwkeurige systeembeschrijving van de motor(en) en het nabehandelingssysteem, die op verzoek van de Minister kan worden opgevraagd ([artikel 3.11, lid 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0046464&hoofdstuk=3&artikel=3.11&z=2022-07-02&g=2022-07-02)):
 
 Er wordt een berekening van de NOx-reductie verstrekt waarin de NOx emissie per jaar voor alle motoren wordt berekend en vervolgens de NOx reductie voor de motoren welke voorzien worden van SCR-systeem.
 
