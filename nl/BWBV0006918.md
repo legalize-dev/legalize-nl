@@ -4,7 +4,7 @@ identifier: "BWBV0006918"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-09-03"
-last_updated: "2021-05-23"
+last_updated: "2022-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006918"
 soort: "verdrag"
@@ -128,7 +128,7 @@ Any dispute concerning the interpretation or implementation of this Administrati
 
 ##### Article XIII. (Entry into force and duration)
 
-This Administrative Arrangement shall enter into force on the day of signature by both Parties with retrospective effect to 1 July 2019, and shall expire at the end of the period mentioned in [Article I, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006918&artikel=I&z=2021-05-23&g=2021-05-23), of this Administrative Arrangement or on the date on which the Project has been completed in conformity with the provisions of this Administrative Arrangement and of the DPPs of the Project, whichever date is the later.
+This Administrative Arrangement shall enter into force on the day of signature by both Parties with retrospective effect to 1 July 2019, and shall expire at the end of the period mentioned in [Article I, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006918&artikel=I&z=2021-05-23&g=2022-07-02), of this Administrative Arrangement or on the date on which the Project has been completed in conformity with the provisions of this Administrative Arrangement and of the DPPs of the Project, whichever date is the later.
 
 DONE at Dhaka, in two originals, in the English language only.
 
