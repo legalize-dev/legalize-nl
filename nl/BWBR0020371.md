@@ -4,7 +4,7 @@ identifier: "BWBR0020371"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2022-06-09"
+last_updated: "2022-07-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020371"
 soort: "ministeriele-regeling"
@@ -153,5 +153,31 @@ Dit onderdeel is nog niet inwerking getreden
 9. De gegevensverstrekking ingevolge het derde lid, onder c, en het vierde tot en met achtste lid, geschiedt kosteloos.
 
 10. De Minister van Economische Zaken en Klimaat is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het kader van dit artikel.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1ad
+
+1. De Kamer van Koophandel is bevoegd om bij in het handelsregister ingeschreven onderneming of rechtspersoon een aantekening op te nemen van een relatie die bestaat tussen:
+
+- a. enig in het handelsregister opgenomen gegeven over die onderneming of rechtspersoon dat wordt genoemd in de [artikelen 9 tot en met 15a van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), of andere gegevens krachtens [artikel 17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=17), en
+
+- b. natuurlijke personen of rechtspersonen, entiteiten of lichamen, bedoeld in artikel 2 van Verordening (EG) nr. 765/2006.
+
+2. Een aantekening als bedoeld in het eerste lid, wordt in ieder geval in het handelsregister opgenomen, indien de Kamer van Koophandel informatie ontvangt van Nederlandse of buitenlandse overheidsinstanties dan wel van Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), die de relatie legt of bevestigt als bedoeld in het eerste lid.
+
+3. De Kamer van Koophandel verwijdert op grond van informatie die hij ontvangt van een instantie als bedoeld in het tweede lid, een aantekening als bedoeld in het eerste lid, indien de relatie als bedoeld in het eerste lid, zich niet langer voordoet.
+
+##### Artikel 1ae
+
+1. Het Octrooicentrum Nederland is bevoegd een aantekening op te nemen bij octrooien, aanvullende beschermingscertificaten en topografieën van halfgeleiderproducten geregistreerd in het register als bedoeld in [artikel 19 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=19) of het register als bedoeld in [artikel 1, onder d, van de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=1), indien er sprake is van een relatie tussen dat geregistreerd recht en:
+
+- a. natuurlijke personen of rechtspersonen, entiteiten of lichamen, bedoeld in artikel 2 van Verordening (EG)) nr. 765/2006, of
+
+- b. rechtspersonen, entiteiten of lichamen, bedoeld in artikel 5 bis bis van Verordening (EU) nr. 833/2014.
+
+2. Een aantekening als bedoeld in het eerste lid, wordt in het register opgenomen indien het Octrooicentrum Nederland op eigen gezag deze relatie constateert of informatie ontvangt van Nederlandse of buitenlandse overheidsinstanties dan wel van Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), die de relatie legt of bevestigt als bedoeld in het eerste lid.
+
+3. Het Octrooicentrum Nederland verwijdert een aantekening als bedoeld in het eerste lid, indien de relatie als bedoeld in het eerste lid, zich niet langer voordoet.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
