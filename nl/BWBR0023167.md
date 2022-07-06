@@ -4,7 +4,7 @@ identifier: "BWBR0023167"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-06"
-last_updated: "2022-01-01"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023167"
 soort: "ministeriele-regeling"
@@ -124,7 +124,7 @@ Voor de afgifte van een verklaring van vrijstelling, bedoeld in [artikel 2, eers
 
 ##### Artikel 8. Grondslag
 
-Deze regeling berust mede op de [artikelen 27d, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d), en [68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=68).
+Deze regeling berust mede op de [artikelen 27d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27d), en [68, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=68).
 
 ##### Artikel 9. Intrekken regelingen
 
@@ -152,7 +152,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Ter nadere bepaling van het T-tarief, bedoeld in [artikel 4.3 van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.3), worden de zeehavengebieden overeenkomstig bijlage 1 bij deze regeling ingedeeld in tariefgebieden.
 
-2. De in het eerste lid bedoelde tariefgebieden, worden overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&bijlage=2&z=2022-01-01&g=2022-01-01) bij deze regeling ingedeeld in tariefkolommen.
+2. De in het eerste lid bedoelde tariefgebieden, worden overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&bijlage=2&z=2022-07-06&g=2022-07-06) bij deze regeling ingedeeld in tariefkolommen.
 
 ## Bijlage 1. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=3a&z=2014-01-01&g=2014-01-01), Regeling markttoezicht registerloodsen
 
@@ -337,7 +337,7 @@ Voor de toepassing van [artikel 2.10, onderdelen a en c, van het Besluit marktto
 | Klasse 8 | 110.701 | 177.600 | 195.001 | 325.000 |
 | Klasse 9 | vanaf 177.601 |   | vanaf 325.001 |   |
 
-## Bijlage 1. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=3a&z=2022-01-01&g=2022-01-01), Regeling markttoezicht registerloodsen
+## Bijlage 1. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=3a&z=2022-07-06&g=2022-07-06), Regeling markttoezicht registerloodsen
 
 - 1. **Zeehavengebied Delfzijl-Eemshaven:**
 
@@ -487,7 +487,7 @@ Voor de toepassing van [artikel 2.10, onderdelen a en c, van het Besluit marktto
 
 - –. **Tariefgebied Scheldemonden G**: Het gebied met alle ligplaatsen in of aan de kades van het Kanaal van Gent naar Terneuzen vanaf de grens tot in Gent.
 
-## Bijlage 2. bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=3a&z=2022-01-01&g=2022-01-01), Regeling markttoezicht registerloodsen
+## Bijlage 2. bij [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023167&artikel=3a&z=2022-07-06&g=2022-07-06), Regeling markttoezicht registerloodsen
 
 ### Bijlage indeling tariefgebieden naar tariefkolommen NTL
 
