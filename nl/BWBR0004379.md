@@ -4,7 +4,7 @@ identifier: "BWBR0004379"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-06"
-last_updated: "2020-01-01"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004379"
 soort: "ministeriele-regeling"
@@ -59,7 +59,7 @@ Het vacatiegeld voor de leden van het tuchtcollege loodsen bedraagt per zittings
 
 1. Het vacatiegeld voor de secretaris van het tuchtcollege loodsen bedraagt € 136,13 per aan het secretariaat bestede dag.
 
-2. Op het in het eerste lid genoemd bedrag is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=1&z=2020-01-01&g=2020-01-01), van toepassing.
+2. Op het in het eerste lid genoemd bedrag is [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=1&z=2022-07-06&g=2022-07-06), van toepassing.
 
 ##### Artikel 4
 
@@ -67,7 +67,7 @@ De reis- en verblijfkosten van de voorzitter, de leden en de secretaris van het 
 
 ##### Artikel 5
 
-De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=2&z=2020-01-01&g=2020-01-01) onderscheidenlijk [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=3&z=2020-01-01&g=2020-01-01) zijn van overeenkomstige toepassing op de vacatiegelden van de plaatsvervangers van de leden onderscheidenlijk de secretaris van het tuchtcollege loodsen.
+De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=2&z=2022-07-06&g=2022-07-06) onderscheidenlijk [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004379&artikel=3&z=2022-07-06&g=2022-07-06) zijn van overeenkomstige toepassing op de vacatiegelden van de plaatsvervangers van de leden onderscheidenlijk de secretaris van het tuchtcollege loodsen.
 
 ##### Artikel 6
 
@@ -80,5 +80,11 @@ Deze regeling treedt in werking met ingang van 1 september 1988.
 ##### Artikel 8
 
 Deze regeling kan worden aangehaald als: Vergoedingsregeling tuchtcollege loodsen.
+
+Deze regeling zal worden geplaatst in de Nederlands Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer, de Nederlandse Loodsencorporatie en de personen, bedoeld in deze regeling.
+
+##### Artikel 6a
+
+Deze regeling berust mede op [artikel 32, tweede lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=32).
 
 Deze regeling zal worden geplaatst in de Nederlands Staatscourant en in afschrift worden gezonden aan de Algemene Rekenkamer, de Nederlandse Loodsencorporatie en de personen, bedoeld in deze regeling.
