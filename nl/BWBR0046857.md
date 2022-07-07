@@ -4,7 +4,7 @@ identifier: "BWBR0046857"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-07-07"
-last_updated: "2022-04-14"
+last_updated: "2022-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046857"
 soort: "zbo"
@@ -57,7 +57,7 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 ##### Artikel 2. Doel van de regeling
 
-Deze regeling beoogt voorschriften te stellen die een zorgaanbieder in acht moet nemen bij het registratieonderzoek (zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=1&z=2022-07-07&g=2022-04-14) van deze regeling). De voorschriften zijn van toepassing op de zorgaanbieders die zijn geselecteerd conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=4&z=2022-07-07&g=2022-04-14) van deze regeling en daarmee onderdeel uitmaken van het registratieonderzoek. De voorschriften hebben betrekking op:
+Deze regeling beoogt voorschriften te stellen die een zorgaanbieder in acht moet nemen bij het registratieonderzoek (zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=1&z=2022-07-07&g=2022-07-07) van deze regeling). De voorschriften zijn van toepassing op de zorgaanbieders die zijn geselecteerd conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=4&z=2022-07-07&g=2022-07-07) van deze regeling en daarmee onderdeel uitmaken van het registratieonderzoek. De voorschriften hebben betrekking op:
 
 - •. registratie;
 
@@ -69,9 +69,9 @@ Het registratieonderzoek wordt uitgevoerd ten behoeve van het ontwikkelen van ee
 
 Deze regeling is van toepassing op zorgaanbieders die:
 
-- •. eerstelijnsverblijf en/of psychologische zorg binnen eerstelijnsverblijf, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=1&z=2022-07-07&g=2022-04-14) van deze regeling, leveren;
+- •. eerstelijnsverblijf en/of psychologische zorg binnen eerstelijnsverblijf, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=1&z=2022-07-07&g=2022-07-07) van deze regeling, leveren;
 
-- •. Wlz crisiszorg vv, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=1&z=2022-07-07&g=2022-04-14) van deze regeling, leveren.
+- •. Wlz crisiszorg vv, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=1&z=2022-07-07&g=2022-07-07) van deze regeling, leveren.
 
 ##### Artikel 4. Selectie zorgaanbieders
 
@@ -83,7 +83,7 @@ Deze regeling is van toepassing op zorgaanbieders die:
 
 4. Zorgaanbieders die geselecteerd worden, moeten redelijkerwijs aan de onderstaande eisen voldoen:
 
-- •. de zorgaanbieder moet de gegevens aan kunnen leveren conform het speciaal voor deze uitvraag opgestelde format (‘aanleverformulier registratievereisten’, zie verder [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=5&z=2022-07-07&g=2022-04-14));
+- •. de zorgaanbieder moet de gegevens aan kunnen leveren conform het speciaal voor deze uitvraag opgestelde format (‘aanleverformulier registratievereisten’, zie verder [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=5&z=2022-07-07&g=2022-07-07));
 
 - •. de zorgaanbieder mag niet onder toezicht staan van de Inspectie Gezondheidszorg en Jeugd;
 
@@ -93,7 +93,7 @@ Deze regeling is van toepassing op zorgaanbieders die:
 
 ##### Artikel 5. Registratie van gegevens
 
-1. Zorgaanbieders die op grond van [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=4&z=2022-07-07&g=2022-04-14) zijn aangeschreven, zijn verplicht om de onderstaande gegevens te registreren. Hiervoor is door de NZa een format (‘aanleverformulier registratievereisten’) opgesteld dat aan de zorgaanbieder zal worden verstuurd. De gegevens die voor het registratieonderzoek (soms optioneel) moeten worden geregistreerd worden onderscheiden in:
+1. Zorgaanbieders die op grond van [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&artikel=4&z=2022-07-07&g=2022-07-07) zijn aangeschreven, zijn verplicht om de onderstaande gegevens te registreren. Hiervoor is door de NZa een format (‘aanleverformulier registratievereisten’) opgesteld dat aan de zorgaanbieder zal worden verstuurd. De gegevens die voor het registratieonderzoek (soms optioneel) moeten worden geregistreerd worden onderscheiden in:
 
 - •. 'Traject en Patiëntkenmerken';
 
@@ -134,7 +134,7 @@ Deze regeling is van toepassing op zorgaanbieders die:
 
 4. Uitzondering in geval van privacy bezwaren
 
-De registratieverplichting als genoemd in dit artikel 5 is niet van toepassing wanneer op initiatief van de cliënt, gezamenlijk met de zorgaanbieder, een privacyverklaring is ondertekend ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&bijlage=1&z=2022-07-07&g=2022-04-14) bij deze regeling). De zorgaanbieder houdt de privacyverklaring in zijn administratie en stelt die op verzoek van de NZa beschikbaar.
+De registratieverplichting als genoemd in dit artikel 5 is niet van toepassing wanneer op initiatief van de cliënt, gezamenlijk met de zorgaanbieder, een privacyverklaring is ondertekend ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046857&bijlage=1&z=2022-07-07&g=2022-07-07) bij deze regeling). De zorgaanbieder houdt de privacyverklaring in zijn administratie en stelt die op verzoek van de NZa beschikbaar.
 
 ##### Artikel 6. Aanleveren van gegevens
 
