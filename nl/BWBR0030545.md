@@ -4,7 +4,7 @@ identifier: "BWBR0030545"
 country: "nl"
 rank: "wet"
 publication_date: "2024-12-19"
-last_updated: "2021-09-09"
+last_updated: "2022-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030545"
 soort: "wet"
@@ -141,7 +141,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. de goederen voor tweeërlei gebruik geheel of gedeeltelijk bestemd zijn of kunnen zijn voor militair eindgebruik in een land van bestemming als bedoeld in artikel 4, eerste lid, onderdeel b, van de Verordening producten voor tweeërlei gebruik.
 
-2. Indien degene die tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land verleent ervan op de hoogte is dat de goederen voor tweeërlei gebruikwaarvoor hij voornemens is deze tussenhandeldiensten te verlenen, geheel of gedeeltelijk bestemd zijn voor één van de doeleinden, bedoeld in artikel 4, eerste lid, van de Verordening producten voor tweeërlei gebruik of voor militair eindgebruik in een land van bestemming als bedoeld in artikel 4, eerste lid, onderdeel b, van de Verordening producten voor tweeërlei gebruik, deelt hij dit mede aan Onze Minister.
+2. Indien degene die tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land verleent ervan op de hoogte is dat de goederen voor tweeërlei gebruikwaarvoor hij voornemens is deze tussenhandeldiensten te verlenen, geheel of gedeeltelijk bestemd zijn voor één van de doeleinden, bedoeld in artikel 4, eerste lid, onderdeel a, van de Verordening producten voor tweeërlei gebruik of voor militair eindgebruik in een land van bestemming als bedoeld in artikel 4, eerste lid, onderdeel b, van de Verordening voor tweeërlei gebruik, deelt hij dit mede aan Onze Minister.
 
 3. Het eerste en tweede lid zijn niet van toepassing op vervoer, financiële diensten, verzekering, herverzekering, algemene reclame of promotie met betrekking tot goederen voor tweeërlei gebruik.
 
@@ -217,15 +217,15 @@ Het is verboden te handelen in strijd met de artikelen:
 
 1. De Nederlandse strafwet is toepasselijk op de Nederlander die zich buiten het Europese deel van Nederland en Bonaire, Sint Eustatius en Saba schuldig maakt aan een bij deze wet strafbaar gesteld feit door in strijd te handelen met:
 
-- a. de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2021-09-09&g=2021-09-09), [4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2021-09-09&g=2021-09-09), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=5&z=2021-09-09&g=2021-09-09), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=6&z=2021-09-09&g=2021-09-09), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=9&z=2021-09-09&g=2021-09-09), of [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2021-09-09&g=2021-09-09);
+- a. de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-07-07&g=2022-07-07), [4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2022-07-07&g=2022-07-07), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=5&z=2022-07-07&g=2022-07-07), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=6&z=2022-07-07&g=2022-07-07), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=9&z=2022-07-07&g=2022-07-07), of [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2022-07-07&g=2022-07-07);
 
-- b. [artikel 4, eerste, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2021-09-09&g=2021-09-09), voor zover de Nederlander de tussenhandeldiensten verleent buiten de Europese Unie.
+- b. [artikel 4, eerste, lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2022-07-07&g=2022-07-07), voor zover de Nederlander de tussenhandeldiensten verleent buiten de Europese Unie.
 
 2. De Nederlandse strafwet is toepasselijk op de vreemdeling die in het Europese deel van Nederland een vaste woon- of verblijfplaats heeft en zich buiten het Europese deel van Nederland en Bonaire, Sint Eustatius en Saba schuldig maakt aan een bij deze wet strafbaar gesteld feit door in strijd te handelen met:
 
-- a. de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2021-09-09&g=2021-09-09), [4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2021-09-09&g=2021-09-09), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=5&z=2021-09-09&g=2021-09-09), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=6&z=2021-09-09&g=2021-09-09), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=9&z=2021-09-09&g=2021-09-09), of [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2021-09-09&g=2021-09-09);
+- a. de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-07-07&g=2022-07-07), [4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2022-07-07&g=2022-07-07), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=5&z=2022-07-07&g=2022-07-07), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=6&z=2022-07-07&g=2022-07-07), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=9&z=2022-07-07&g=2022-07-07), of [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2022-07-07&g=2022-07-07);
 
-- b. [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2021-09-09&g=2021-09-09), voor zover de vreemdeling de tussenhandeldiensten verleent buiten de Europese Unie.
+- b. [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2022-07-07&g=2022-07-07), voor zover de vreemdeling de tussenhandeldiensten verleent buiten de Europese Unie.
 
 ##### Artikel 13
 
@@ -237,7 +237,7 @@ Het is verboden te handelen in strijd met de artikelen:
 
 ##### Artikel 14
 
-1. Onze Minister kan aan een toestemming als bedoeld in de artikelen 3, tweede lid, en 4, tweede lid, van [verordening 2019/125](32025R2019), aan een ontheffing als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2021-09-09&g=2021-09-09), van deze wet, en aan een vergunning als bedoeld in de artikelen 12, eerste lid, onderdelen a, b en c, en 13, eerste lid, van de Verordening producten voor tweeërlei gebruik, en de [artikelen 4, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2021-09-09&g=2021-09-09), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=5&z=2021-09-09&g=2021-09-09), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=6&z=2021-09-09&g=2021-09-09), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2021-09-09&g=2021-09-09) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2021-09-09&g=2021-09-09), voorschriften en voorwaarden verbinden.
+1. Onze Minister kan aan een toestemming als bedoeld in de artikelen 3, tweede lid, en 4, tweede lid, van [verordening 2019/125](32025R2019), aan een ontheffing als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-07-07&g=2022-07-07), van deze wet, en aan een vergunning als bedoeld in de artikelen 12, eerste lid, onderdelen a, b en c, en 13, eerste lid, van de Verordening producten voor tweeërlei gebruik, en de [artikelen 4, derde lid en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=4&z=2022-07-07&g=2022-07-07), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=5&z=2022-07-07&g=2022-07-07), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=6&z=2022-07-07&g=2022-07-07), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2022-07-07&g=2022-07-07) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2022-07-07&g=2022-07-07), voorschriften en voorwaarden verbinden.
 
 2. Ten aanzien van de vergunningverlening worden bij ministeriële regeling nadere regels gesteld over:
 
@@ -251,7 +251,7 @@ Het is verboden te handelen in strijd met de artikelen:
 
 4. De vergunning kan ook worden geweigerd, dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3). Voordat toepassing wordt gegeven aan de vorige volzin, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-5. Een vergunning als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2021-09-09&g=2021-09-09) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2021-09-09&g=2021-09-09), wordt in ieder geval geweigerd voor zover dit voortvloeit uit internationale verplichtingen.
+5. Een vergunning als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2022-07-07&g=2022-07-07) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2022-07-07&g=2022-07-07), wordt in ieder geval geweigerd voor zover dit voortvloeit uit internationale verplichtingen.
 
 #### § 7. Administratieve verplichtingen
 
@@ -281,7 +281,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 1. [Artikel 8:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:13) is niet van toepassing.
 
-2. [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V), met uitzondering van de [artikelen 22j](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=22j), [24a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=24a), [25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), [25b tot en met 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25b), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26a), [26b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26b), [26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26c), [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27a), [27e, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e), [27f](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27f) en [27ga tot en met 27ge](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27ga), is van overeenkomstige toepassing op een beschikking als bedoeld in het derde lid, met dien verstande dat voor de overeenkomstige toepassing van artikel 27e, onderdeel b, geldt dat het de situatie betreft waarin niet volledig is voldaan aan de verplichting ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=7&artikel=15&z=2021-09-09&g=2021-09-09).
+2. [Hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V), met uitzondering van de [artikelen 22j](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=22j), [24a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=24a), [25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25), [25b tot en met 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=25b), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26a), [26b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26b), [26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26c), [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27a), [27e, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27e), [27f](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27f) en [27ga tot en met 27ge](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27ga), is van overeenkomstige toepassing op een beschikking als bedoeld in het derde lid, met dien verstande dat voor de overeenkomstige toepassing van artikel 27e, onderdeel b, geldt dat het de situatie betreft waarin niet volledig is voldaan aan de verplichting ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=7&artikel=15&z=2022-07-07&g=2022-07-07).
 
 3. Voor de overeenkomstige toepassing van [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) is een beschikking voor bezwaar vatbaar indien het een beschikking betreft die is genomen bij of krachtens deze wet.
 
@@ -327,7 +327,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 - b. het ten behoeve van één of meer partijen verkopen of kopen van militaire goederen die zich niet in Bonaire, Sint Eustatius en Saba en het Europese deel van Nederland bevinden en niet bestemd zijn voor invoer in Bonaire, Sint Eustatius of Saba of het Europese deel van Nederland;
 
-- –. **Verordening producten voor tweeërlei gebruik:** [Verordening (EU) 2021/821](32721R2021) van het Europees Parlement en de Raad van 20 mei 2021 tot instelling van een EU-regeling voor controle op de uitvoer, de overbrenging, de tussenhandel, de technische bijan d en de doorvoer van producten voor tweeërlei gebruik (herschikking) (PbEU 2021, L 206);
+- –. **Verordening producten voor tweeërlei gebruik:** [Verordening (EU) 2021/821](32721R2021) van het Europees Parlement en de Raad van 20 mei 2021 tot instelling van een EU-regeling voor controle op de uitvoer, de overbrenging, de tussenhandel, de technische bijstand en de doorvoer van producten voor tweeërlei gebruik (herschikking) (PbEU 2021, L 206);
 
 - –. **wapenembargo:** een wapenembargo als bedoeld in artikel 2, negentiende lid, van de Verordening producten voor tweeërlei gebruik.
 
@@ -353,7 +353,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 ##### Artikel 21
 
-[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2021-09-09&g=2021-09-09) is van toepassing in Bonaire, Sint Eustatius en Saba.
+[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-07-07&g=2022-07-07) is van toepassing in Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 22
 
@@ -373,7 +373,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 3. Een ieder die voornemens is tussenhandeldiensten goederen voor tweeërlei gebruik derde land-derde land of tussenhandeldiensten goederen voor tweeërlei gebruik Bonaire, Sint Eustatius en Saba-derde land te verlenen met betrekking tot:
 
-- a. een goed voor tweeërlei gebruik genoemd in bijlage II, Sectie I, van de Verordening producten tweeërlei gebruik of
+- a. een goed voor tweeërlei gebruik genoemd in bijlage II, Sectie I, van de Verordening producten voor tweeërlei gebruik of
 
 - b. een goed voor tweeërlei gebruik uit te voeren naar een in een ministeriële regeling aan te wijzen land,
 
@@ -385,23 +385,23 @@ deelt dit mede aan Onze Minister.
 
 ##### Artikel 24
 
-1. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2021-09-09&g=2021-09-09) is van toepassing in Bonaire, Sint Eustatius en Saba met dien verstande dat in onderdeel a het militaire programmatuur of technologie betreft waarvan de uitvoer als militair goed krachtens [artikel 2.26 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.26) zonder vergunning verboden is.
+1. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=8&z=2022-07-07&g=2022-07-07) is van toepassing in Bonaire, Sint Eustatius en Saba met dien verstande dat in onderdeel a het militaire programmatuur of technologie betreft waarvan de uitvoer als militair goed krachtens [artikel 2.26 van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=2.26) zonder vergunning verboden is.
 
 2. Artikel 9 is van toepassing in Bonaire, Sint Eustatius en Saba.
 
 3. Het is verboden zonder een vergunning van Onze Minister tussenhandeldiensten militaire goederen Bonaire, Sint Eustatius en Saba te verlenen.
 
-4. [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2021-09-09&g=2021-09-09), is van toepassing in Bonaire, Sint Eustatius en Saba.
+4. [Artikel 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=3&artikel=10&z=2022-07-07&g=2022-07-07), is van toepassing in Bonaire, Sint Eustatius en Saba.
 
 #### § 4. Vergunningverlening
 
 ##### Artikel 25
 
-1. Onze Minister kan aan een vergunning als bedoeld in de [artikelen 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2021-09-09&g=2021-09-09), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2021-09-09&g=2021-09-09), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2021-09-09&g=2021-09-09), een ontheffing verleend op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2021-09-09&g=2021-09-09), en aan een vergunning verleend op grond van artikel 24, eerste lid, voorschriften en voorwaarden verbinden.
+1. Onze Minister kan aan een vergunning als bedoeld in de [artikelen 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2022-07-07&g=2022-07-07), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2022-07-07&g=2022-07-07), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2022-07-07&g=2022-07-07), een ontheffing verleend op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2022-07-07&g=2022-07-07), en aan een vergunning verleend op grond van artikel 24, eerste lid, voorschriften en voorwaarden verbinden.
 
-2. Ten aanzien van de vergunningverlening is [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=6&artikel=14&z=2021-09-09&g=2021-09-09), van toepassing in Bonaire, Sint Eustatius en Saba.
+2. Ten aanzien van de vergunningverlening is [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=6&artikel=14&z=2022-07-07&g=2022-07-07), van toepassing in Bonaire, Sint Eustatius en Saba.
 
-3. Een vergunning als bedoeld in [artikel 24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2021-09-09&g=2021-09-09), wordt in ieder geval geweigerd voor zover dit voortvloeit uit internationale verplichtingen.
+3. Een vergunning als bedoeld in [artikel 24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2022-07-07&g=2022-07-07), wordt in ieder geval geweigerd voor zover dit voortvloeit uit internationale verplichtingen.
 
 #### § 5. Administratieve verplichtingen
 
@@ -423,7 +423,7 @@ De boeken, bescheiden en andere gegevensdragers van een ontbonden rechtspersoon 
 
 ##### Artikel 28
 
-[Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) en de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=8&artikel=16&z=2021-09-09&g=2021-09-09) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=8&artikel=17&z=2021-09-09&g=2021-09-09) zijn van overeenkomstige toepassing in Bonaire, Sint Eustatius en Saba.
+[Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) en de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=8&artikel=16&z=2022-07-07&g=2022-07-07) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=8&artikel=17&z=2022-07-07&g=2022-07-07) zijn van overeenkomstige toepassing in Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 29
 
@@ -433,9 +433,9 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 ##### Artikel 30
 
-1. Degene die het gestelde bij of krachtens de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2021-09-09&g=2021-09-09), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2021-09-09&g=2021-09-09), [22, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2021-09-09&g=2021-09-09), [23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2021-09-09&g=2021-09-09), en [24, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2021-09-09&g=2021-09-09), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+1. Degene die het gestelde bij of krachtens de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2022-07-07&g=2022-07-07), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2022-07-07&g=2022-07-07), [22, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2022-07-07&g=2022-07-07), [23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2022-07-07&g=2022-07-07), en [24, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2022-07-07&g=2022-07-07), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
-2. Overtredingen van het gestelde bij of krachtens de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2021-09-09&g=2021-09-09), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2021-09-09&g=2021-09-09), [22, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2021-09-09&g=2021-09-09), [23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2021-09-09&g=2021-09-09), en [24, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2021-09-09&g=2021-09-09), zijn misdrijven, voor zover zij opzettelijk zijn begaan. Voor zover deze overtredingen geen misdrijven zijn, zijn zij overtredingen.
+2. Overtredingen van het gestelde bij of krachtens de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2022-07-07&g=2022-07-07), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2022-07-07&g=2022-07-07), [22, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2022-07-07&g=2022-07-07), [23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2022-07-07&g=2022-07-07), en [24, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2022-07-07&g=2022-07-07), zijn misdrijven, voor zover zij opzettelijk zijn begaan. Voor zover deze overtredingen geen misdrijven zijn, zijn zij overtredingen.
 
 3. Voor zover de in het eerste lid strafbaar gestelde feiten misdrijven zijn wordt een overtreding gestraft met een gevangenisstraf van ten hoogste zes jaar of een geldboete van de vijfde categorie.
 
@@ -453,7 +453,7 @@ Met het toezicht op de naleving van het bij of krachtens dit hoofdstuk bepaalde 
 
 ##### Artikel 31
 
-De strafwet van Bonaire, Sint Eustatius en Saba is toepasselijk op de vreemdeling die in Bonaire, Sint Eustatius of Saba een vaste woon- of verblijfplaats heeft en zich buiten Bonaire, Sint Eustatius en Saba en het Europese deel van Nederland, schuldig maakt aan een bij deze wet strafbaar gesteld feit door in strijd te handelen met de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2021-09-09&g=2021-09-09), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2021-09-09&g=2021-09-09), [22, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2021-09-09&g=2021-09-09), [23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2021-09-09&g=2021-09-09), en [24, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2021-09-09&g=2021-09-09).
+De strafwet van Bonaire, Sint Eustatius en Saba is toepasselijk op de vreemdeling die in Bonaire, Sint Eustatius of Saba een vaste woon- of verblijfplaats heeft en zich buiten Bonaire, Sint Eustatius en Saba en het Europese deel van Nederland, schuldig maakt aan een bij deze wet strafbaar gesteld feit door in strijd te handelen met de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=20&z=2022-07-07&g=2022-07-07), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=21&z=2022-07-07&g=2022-07-07), [22, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=22&z=2022-07-07&g=2022-07-07), [23, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2022-07-07&g=2022-07-07), en [24, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=3&artikel=24&z=2022-07-07&g=2022-07-07).
 
 ### Hoofdstuk 3. Wijziging van andere wetten
 
@@ -473,7 +473,7 @@ Wijzigt de Uitvoeringswet verdrag chemische wapens.
 
 ##### Artikel 35
 
-Degene die tussenhandeldiensten als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=7&z=2021-09-09&g=2021-09-09), of tussenhandeldiensten als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2021-09-09&g=2021-09-09), verleent op het moment waarop deze wet in werking treedt, deelt dit binnen zes maanden na inwerkingtreding van deze wet aan Onze Minister mede.
+Degene die tussenhandeldiensten als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=1&paragraaf=2&artikel=7&z=2022-07-07&g=2022-07-07), of tussenhandeldiensten als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&hoofdstuk=2&paragraaf=2&artikel=23&z=2022-07-07&g=2022-07-07), verleent op het moment waarop deze wet in werking treedt, deelt dit binnen zes maanden na inwerkingtreding van deze wet aan Onze Minister mede.
 
 ##### Artikel 36
 
