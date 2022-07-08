@@ -4,7 +4,7 @@ identifier: "BWBR0024755"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-08"
-last_updated: "2018-09-08"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024755"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De aanvraag tot een erkenning van beroepskwalificaties, als bedoeld in [artikel 41, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en [artikel 45, eerste lid, onderdeel c, van de wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) alsmede tot erkenning van de beroepskwalificatie van de bachelor medisch hulpverlener, geschiedt met gebruikmaking van een daarvoor door de minister beschikbaar te stellen aanvraagformulier.
+1. De aanvraag tot een erkenning van beroepskwalificaties, als bedoeld in [artikel 41, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en [artikel 45, eerste lid, onderdeel c, van de wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45), geschiedt met gebruikmaking van een daarvoor door de minister beschikbaar te stellen aanvraagformulier.
 
 2. Bij de aanvraag worden de volgende gegevens en bescheiden verstrekt:
 
@@ -80,11 +80,9 @@ In deze regeling wordt verstaan onder:
 
 - d. het programma van de opleiding tot het desbetreffende beroep, onderverdeeld in theorie en praktijkvakken, met opgave van de duur van het onderwijs in die vakken, afkomstig van de instelling waarbij de aanvrager het getuigschrift heeft behaald;
 
-- e. cijferlijsten en beoordelingen van studieresultaten, praktijkperiode of stages van de aanvrager;
+- e. een document niet ouder dan drie maanden, waaruit blijkt dat ten aanzien van de aanvrager geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de rechten tot de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend is verloren;
 
-- f. een document niet ouder dan drie maanden, waaruit blijkt dat ten aanzien van de aanvrager geen maatregel berustend op een in het buitenland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de rechten tot de uitoefening van het betrokken beroep in het land waar de beslissing is gegeven, geheel of gedeeltelijk, tijdelijk of blijvend is verloren;
-
-- g. indien de aanvrager houder is van een getuigschrift afgegeven in een ander land dan de betrokken staat, een verklaring waaruit blijkt:
+- f. indien de aanvrager houder is van een getuigschrift afgegeven in een ander land dan de betrokken staat, een verklaring waaruit blijkt:
 
 - –. dat het getuigschrift door het daarvoor bevoegd gezag van de betrokken staat is erkend;
 
@@ -92,9 +90,13 @@ In deze regeling wordt verstaan onder:
 
 - –. voor zover de verklaring betrekking heeft op een beroep dat valt onder titel III van hoofdstuk III van de richtlijn dat bij de eerste erkenning rekening is gehouden met de in genoemd hoofdstuk van de richtlijn bedoelde minimum opleidingseisen;
 
-- h. bewijsstukken van eventuele beroepservaring en aanvullend onderwijs.
+- g. bewijsstukken van eventuele beroepservaring en aanvullend onderwijs.
 
-3. De bescheiden bedoeld in het tweede lid, onderdeel c, tot en met onderdeel i, zijn gesteld in het Nederlands, Engels, Frans of Duits, dan wel door een beëdigd vertaler in een van deze talen vertaald. Fotokopieën van deze bescheiden zijn gewaarmerkt.
+3. De bescheiden, bedoeld in het tweede lid, onderdelen c tot en met g, zijn gesteld in het Nederlands of Engels, dan wel door een beëdigd vertaler in een van deze talen vertaald.
+
+4. Indien het document, bedoeld in het tweede lid, onderdeel e, niet wordt afgegeven door de bevoegde autoriteiten, wordt dit vervangen door een attest, niet ouder dan drie maanden, afgegeven door een bevoegde, gerechtelijke autoriteit, een andere bevoegde overheidsautoriteit, een notaris of een bevoegde beroepsvereniging in het land van herkomst, waaruit blijkt dat de aanvrager tegenover die instantie of functionaris onder ede, dan wel plechtig heeft verklaard, dat ten aanzien van hem geen maatregel van kracht is als bedoeld in het tweede lid, onderdeel e.
+
+5. Van de bescheiden, bedoeld in het tweede lid, onderdelen c tot en met g, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het desbetreffende document heeft afgegeven, of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland. Van het attest, bedoeld in het vierde lid, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de betreffende autoriteit, notaris, bevoegde beroepsvereniging als bedoeld in dat artikellid, dan wel door een in Nederland gevestigde notaris.
 
 ##### Artikel 3
 
@@ -134,13 +136,17 @@ Indien een erkenning van beroepskwalificaties wordt aangevraagd voor het beroep 
 
 2. De dienstverrichter verstrekt de in het eerste lid bedoelde verklaring een maal per jaar indien hij voornemens is gedurende dat jaar in Nederland diensten te verrichten. Daarbij verstrekt de dienstverrichter opnieuw de documenten genoemd in het eerste lid voor zover zich daarin een wijziging heeft voorgedaan.
 
-3. De bescheiden genoemd in het eerste lid, onderdeel a, c, d, e, f en g, zijn gesteld in het Nederlands, Engels, Frans of Duits, dan wel door een beëdigd vertaler in een van deze talen vertaald. Fotokopieën van deze bescheiden zijn gewaarmerkt.
+3. De bescheiden, bedoeld in het eerste lid, onderdelen a en c tot en met en g, zijn gesteld in het Nederlands of Engels, dan wel door een beëdigd vertaler in een van deze talen vertaald.
+
+4. Indien het document, bedoeld in het eerste lid, onderdeel e, niet wordt afgegeven door de bevoegde autoriteiten, wordt dit vervangen door een attest, niet ouder dan drie maanden, afgegeven door een bevoegde, gerechtelijke autoriteit, een andere bevoegde overheidsautoriteit, een notaris of een bevoegde beroepsvereniging in het land van herkomst, waaruit blijkt dat de aanvrager tegenover die instantie of functionaris onder ede, dan wel plechtig heeft verklaard, dat ten aanzien van hem geen maatregel van kracht is als bedoeld in het eerste lid, onder e.
+
+5. Van de bescheiden, bedoeld in het eerste lid, onderdelen a tot en met g, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het desbetreffende document heeft afgegeven, of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland. Van het attest, bedoeld in het vierde lid, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de betreffende autoriteit, notaris, bevoegde beroepsvereniging als bedoeld in dat artikellid, dan wel door een in Nederland gevestigde notaris.
 
 ##### Artikel 6
 
 1. Voorafgaand aan de eerste dienstverrichting controleert de minister de beroepskwalificaties van de dienstverrichter die een beroep uitoefent waarvoor op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [14 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) een register is ingesteld en de beroepsbeoefenaar niet op grond van titel III, hoofdstuk III, van de richtlijn in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen.
 
-2. In aanvulling op de documenten genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=5&z=2018-09-08&g=2018-09-08), verstrekt de dienstverrichter voor de controle de documenten, genoemd in [artikel 2, tweede lid, onderdeel d, e en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=2&z=2018-09-08&g=2018-09-08).
+2. In aanvulling op de documenten genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=5&z=2022-07-08&g=2022-07-08), verstrekt de dienstverrichter voor de controle de documenten, genoemd in [artikel 2, tweede lid, onderdelen d en g](https://wetten.overheid.nl/jci1.3:c:BWBR0024755&artikel=2&z=2022-07-08&g=2022-07-08).
 
 3. Teneinde te kunnen beoordelen of de situatie, genoemd in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) zich voordoet, wint de minister advies in van de commissie.
 
