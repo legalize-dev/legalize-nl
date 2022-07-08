@@ -4,7 +4,7 @@ identifier: "BWBR0046866"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-08"
-last_updated: "2022-01-01"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046866"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 2. De minister kan de inspecteur-generaal verzoeken de inspectie onderzoeken uit te laten voeren die niet zijn opgenomen in het door de inspecteur-generaal vastgestelde werkprogramma. Over de budgettaire consequenties van dergelijke verzoeken treedt de inspecteur-generaal in overleg met de minister.
 
-3. Op wijzigingen in het werkprogramma van de inspectie zoals bedoeld in het eerste en tweede lid, is het bepaalde in [artikel 2, tweede tot en met het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046866&paragraaf=2&artikel=2&z=2022-07-08&g=2022-01-01), van overeenkomstige toepassing, waarbij nadere afspraken worden gemaakt over de in deze leden genoemde data.
+3. Op wijzigingen in het werkprogramma van de inspectie zoals bedoeld in het eerste en tweede lid, is het bepaalde in [artikel 2, tweede tot en met het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046866&paragraaf=2&artikel=2&z=2022-07-08&g=2022-07-08), van overeenkomstige toepassing, waarbij nadere afspraken worden gemaakt over de in deze leden genoemde data.
 
 ##### Artikel 4. Onderzoeksprotocol
 
