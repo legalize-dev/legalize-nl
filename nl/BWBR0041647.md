@@ -4,7 +4,7 @@ identifier: "BWBR0041647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2022-01-01"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041647"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Mkb-onderneming
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01) wordt verstaan onder mkb-onderneming:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2022-07-08&g=2022-07-08) wordt verstaan onder mkb-onderneming:
 
 een onderneming die op grond van de laatst vastgestelde jaarrekening op het moment van een aanvraag of melding van de eenmalige handeling, aan ten minste twee van de volgende drie criteria voldoet:
 
@@ -64,7 +64,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 - 3°. een jaarlijkse netto-omzet van ten hoogste € 50.000.000.
 
-2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
+2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2022-07-08&g=2022-07-08), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
 
 3. Indien een onderneming deel uitmaakt van een groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), wordt bij de beoordeling of sprake is van een mkb-onderneming uitgegaan van de vastgestelde geconsolideerde jaarrekening van de uiteindelijke moeder.
 
@@ -72,7 +72,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 ##### Artikel 3. In rekening brengen vergoedingen
 
-1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2022-01-01&g=2022-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2022-01-01&g=2022-01-01).
+1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2022-07-08&g=2022-07-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2022-07-08&g=2022-07-08).
 
 2. De toezichthouder brengt een vergoeding voor zover mogelijk direct na ontvangst van de aanvraag of de melding in rekening.
 
@@ -235,6 +235,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 | EU.A8.04 | Van de geschiktheid van een lid van een leidinggevend orgaan of directie als bedoeld in artikel 27, eerste en vierde lid, van verordening (EU) nr. 909/2014 (centrale effectenbewaarinstellingen) | € 2.900 |
 | EU.A8.05 | De toetsing van de betrouwbaarheid als bedoeld in artikel 12, tweede lid, onderdeel l, van verordening (EU) nr. 2020/1503 (crowdfundingdienstverleners voor bedrijven) van een persoon als bedoeld in artikel 12, tweede lid, onderdeel k, van verordening (EU) nr. 2020/1503 (crowdfundingdienstverleners voor bedrijven) | € 700 |
 | EU.A8.06 | De toetsing van de kennis, vaardigheden en ervaring als bedoeld in artikel 12, tweede lid, onderdeel l, van verordening (EU) nr. 2020/1503 (crowdfundingdienstverleners voor bedrijven) van een persoon als bedoeld in artikel 12, tweede lid, onderdeel k, van verordening (EU) nr. 2020/1503 (crowdfundingdienstverleners voor bedrijven) | € 2.700 |
+| EU.A8.07 | Van de kennis, vaardigheden en ervaring van een lid van een leidinggevend orgaan of directie als bedoeld in artikel 12, tweede lid, onderdeel l, van verordening (EU) nr. 2020/1503 (crowdfundingdienstverleners voor bedrijven) indien het de crowdfundingdienstverlener reeds voorafgaand aan de inwerkingtreding van verordening (EU) nr. 2020/1503 op grond van artikel 2:96 of 4:3, vierde lid, van de Wft was toegestaan om crowdfundingdiensten aan te bieden in Nederland | € 1.500 |
 | **Onderdeel EU.A9** | **Emissies: De behandeling van een aanvraag tot goedkeuring of deponering van:** |   |
 | EU.A9.01 | een prospectus dat bestaat uit een enkel document als bedoeld in artikel 6, derde lid, van de prospectusverordening en dat betrekking heeft op effecten met een aandelenkarakter, met inbegrip van effecten die rechten van deelneming betreffen in een beleggingsinstelling als bedoeld in artikel 1:1 van de Wft die niet op verzoek van de houder ten laste van de activa direct of indirect worden ingekocht of terugbetaald, ingediend door een mkb-onderneming. | € 22.500 |
 | EU.A9.02 | de behandeling van een aanvraag bedoeld onder EU.A9.01, voor ondernemingen niet zijnde een mkb-onderneming | € 65.000 |
