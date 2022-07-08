@@ -4,7 +4,7 @@ identifier: "BWBR0020537"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2020-10-01"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020537"
 soort: "ministeriele-regeling"
@@ -222,17 +222,17 @@ de bedragen zoals genoemd in artikel 4, tiende lid, van de richtlijn verzekering
 
 ##### Artikel 16
 
-Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2020-10-01&g=2020-10-01).
+Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2022-07-08&g=2022-07-08).
 
 ##### Artikel 17
 
-Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2020-10-01&g=2020-10-01).
+Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2022-07-08&g=2022-07-08).
 
 ##### Artikel 18
 
-1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2020-10-01&g=2020-10-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2020-10-01&g=2020-10-01).
+1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2022-07-08&g=2022-07-08) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2022-07-08&g=2022-07-08).
 
-2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2020-10-01&g=2020-10-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2020-10-01&g=2020-10-01).
+2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2022-07-08&g=2022-07-08) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2022-07-08&g=2022-07-08).
 
 ### Hoofdstuk 8. Houder van een gereglementeerde markt
 
@@ -306,7 +306,7 @@ De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van to
 
 als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
 
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2020-10-01&g=2020-10-01)
+## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2022-07-08&g=2022-07-08)
 
 ### **Volmacht**
 
@@ -326,7 +326,7 @@ Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [b
 
 …..2Handtekening van de ondertekenaar, met vermelding van de datum van ondertekening.
 
-Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2020-10-01&g=2020-10-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
+Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2022-07-08&g=2022-07-08) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
 
 ### **Paragraaf III**
 
@@ -354,45 +354,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 20a
 
-Een bank die een verzoek doet als bedoeld in [artikel 3:33a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:33a), overlegt aan de Nederlandsche Bank ten aanzien van de uitgegeven of uit te geven obligaties per categorie:
-
-- a. een juridische opinie van een juridische deskundige die onafhankelijk is van de verzoekende bank, waaruit de Nederlandsche Bank kan concluderen dat ten aanzien van de obligaties wordt voldaan aan [artikel 40d, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40d);
-
-- b. de gegevens en bescheiden waarop de juridische opinie, bedoeld in onderdeel a, is gebaseerd;
-
-- c. een plan voor adequaat beheer van de dekkingsactiva voor de situatie waarin de bank in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren;
-
-- d. de overeenkomst of overeenkomsten van de rechtspersoon die rechthebbende is van de dekkingsactiva met zijn bestuurder;
-
-- e. de overeenkomst met een externe accountant voor de controle van de dekkingsactiva, bedoeld in [artikel 20f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20f&z=2020-10-01&g=2020-10-01);
-
-- f. een schriftelijke verklaring van een bestuurder van de bank die het verzoek doet, inhoudende dat de obligaties voldoen aan de [artikelen 40d tot en met 40h van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40d); en
-
-- g. alle overige gegevens en bescheiden die de Nederlandsche Bank nodig acht in het belang van de beoordeling van het verzoek.
+Vervallen
 
 ##### Artikel 20b
 
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de bestuurder van de rechtspersoon die rechthebbende is van de dekkingsactiva:
-
-- a. een trustkantoor is dat over een vergunning beschikt op grond van de [Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189); of
-
-- b. een rechtspersoon of natuurlijke persoon naar buitenlands recht is aan wie het op grond van het op die rechtspersoon van toepassing zijnde recht is toegestaan om vergelijkbare werkzaamheden te verrichten als een trustkantoor als bedoeld in onderdeel a en waarop toezicht- en reguleringsvereisten worden toegepast die ten minste gelijkwaardig zijn aan die welke in Nederland worden toegepast.
-
-2. Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de rechtspersoon die rechthebbende is van de dekkingsactiva geen rechtshandelingen verricht waardoor op die rechtspersoon verplichtingen komen te rusten die gelijk of hoger gerangschikt zijn ten opzichte van de verplichting tot het voldoen van de hoofdsom en rente aan de houders van de geregistreerde gedekte obligaties, tenzij deze dienen voor of verband houden met het beheer, de risicobeheersing, de betaling en de administratie van de geregistreerde gedekte obligaties of de dekkingsactiva.
-
-3. Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de rechtspersoon die rechthebbende is van de dekkingsactiva, alleen derivatencontracten of andere contracten ten behoeve van risicomitigatie aangaat:
-
-- a. voor zover dit dienstig is met het oog op risicobeheersing ten behoeve van de houders van de geregistreerde gedekte obligaties;
-
-- b. die de wederpartij geen bevoegdheid geven om die derivatencontracten of andere contracten ten behoeve van risicomitigatie, op te zeggen, te ontbinden, of de uitvoering daarvan anderszins te beperken of op te schorten vanwege verlies van kredietwaardigheid van de bank; en
-
-- c. die in geval van verlies van voldoende kredietwaardigheid van de wederpartij, de wederpartij verplichten om gepaste zekerheid te verschaffen of zich als wederpartij te doen vervangen.
+Vervallen
 
 ##### Artikel 20c
 
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat de debiteur van de dekkingsactiva zijn woonplaats heeft, respectievelijk is gevestigd of zijn zetel heeft, binnen de grenzen van de lidstaten van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of derde landen die door Europese Commissie op grond van artikel 107, vierde lid, van de verordening kapitaalvereisten zijn aangemerkt als landen die toezicht- en reguleringsvereisten toepassen die tenminste gelijkwaardig zijn aan die welke in de Europese Unie worden toegepast.
-
-2. Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat, indien van toepassing, het onderpand behorend bij de dekkingsactiva is gelegen binnen de grenzen van de leden van de lidstaten van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of één van de derde landen, bedoeld in het eerste lid.
+Vervallen
 
 ### Hoofdstuk 11. Wijziging [Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007778)
 
@@ -524,107 +494,27 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 20d
 
-1. Bij de toepassing van [artikel 40f, eerste en tweede lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f), is de waarde van de dekkingsactiva die behoren tot de soorten die een bank die geregistreerde gedekte obligaties uitgeeft, heeft opgegeven als primair gehanteerde dekkingsactiva, overeenkomstig [artikel 40e, eerste lid, onderdeel b, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40e), het nominale bedrag.
-
-2. Op de waarde van de dekkingsactiva, [bedoeld in artikel 40f van het Besluit prudentiële regels Wft, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f), worden in mindering gebracht:
-
-- a. de dekkingsactiva ten aanzien waarvan zich wanbetaling met betrekking tot een specifieke debiteur wordt geacht te hebben voorgedaan als bedoeld in artikel 178 van de verordening kapitaalvereisten;
-
-- b. dekkingsactiva bestaande uit een vordering ten aanzien waarvan een ander tegenover de rechtspersoon die rechthebbende is van de dekkingsactiva gerechtigd is tot een deel van de inkomsten uit die vordering, naar rato van de gerechtigheid van die ander in die vordering; en
-
-- c. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel c en derde alinea, van de verordening kapitaalvereisten, voor zover het blootstellingen betreft met betrekking tot de bank die geregistreerde gedekte obligaties uitgeeft, of met betrekking tot rechtspersonen die tot dezelfde groep behoren.
-
-3. Bij de toepassing van de [artikelen 40f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f), en [40g, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g), is de waarde van de in die artikelen bedoelde dekkingsactiva respectievelijk liquide activa de marktwaarde volgens een internationaal geaccepteerde boekhoudstandaard. In afwijking van de vorige volzin, is de waarde van dekkingsactiva respectievelijk liquide activa die bestaan uit giraal geld de nominale waarde.
-
-4. Op de dekkingsactiva, bedoeld in [artikel 40f, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f), zijn de artikelen 208 en 229, eerste lid, van de verordening kapitaalvereisten van toepassing, voor zover het dekkingsactiva betreft als bedoeld in artikel 129, eerste lid, onderdelen d, onder i, e, en f, van de verordening kapitaalvereisten.
-
-5. Het onderpand van dekkingsactiva die bestaan uit leningen of woonkredieten als bedoeld in artikel 129, eerste lid, onderdelen d, onder i, e, en f, van de verordening kapitaalvereisten, wordt ten minste jaarlijks geherwaardeerd. De Nederlandsche Bank kan vereisen dat de herwaardering bedoeld in de vorige volzin vaker plaatsvindt.
+Vervallen
 
 ##### Artikel 20e
 
-1. Als liquide activa als bedoeld in [artikel 40g van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g) worden aangemerkt:
-
-- a. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel a, van de verordening kapitaalvereisten;
-
-- b. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel b, van de verordening kapitaalvereisten;
-
-- c. blootstellingen als bedoeld in artikel 129, eerste lid, onderdeel c, van de verordening kapitaalvereisten; en
-
-- d. blootstellingen ten aanzien waarvan de Nederlandsche Bank ontheffing heeft verleend, bedoeld in de derde alinea van artikel 129, eerste lid, van de verordening kapitaalvereisten.
-
-2. In aanvulling op [artikel 40g, eerste lid, onderdelen a en b, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g), draagt een bank die geregistreerde gedekte obligaties uitgeeft, er zorg voor dat de rechtspersoon die rechthebbende is van de dekkingsactiva, voldoende liquide activa aanhoudt of door middel van dekkingsactiva genereert, om te kunnen voldoen aan betalingsverplichtingen voor de volgende zes maanden jegens derden die, indien die bank in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren, ten opzichte van de verplichting tot het voldoen van hoofdsom en rente aan de houders van de geregistreerde gedekte obligaties, gelijke of hoger gerangschikte vorderingen hebben jegens de rechtspersoon die rechthebbende is van de dekkingsactiva.
+Vervallen
 
 ##### Artikel 20f
 
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat voorafgaand aan de eerste uitgifte onder een categorie geregistreerde gedekte obligaties een overeenkomst wordt aangegaan met een externe accountant voor controle van de dekkingsactiva.
-
-2. De externe accountant voor controle van de dekkingsactiva, bedoeld in het eerste lid, heeft ten minste de volgende contractuele verplichtingen:
-
-- a. ten minste jaarlijks controleren of de bank, bedoeld in het eerste lid, op correcte wijze heeft berekend dat zij voldoet aan [artikel 40f, eerste en tweede lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f); en
-
-- b. ten minste jaarlijks controleren of de bank, bedoeld in het eerste lid, op correcte wijze heeft berekend dat zij voldoet aan [artikel 40g, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g).
-
-3. De overeenkomst met de accountant voor de controles, bedoeld in het tweede lid, bevat waarborgen dat deze controles gehandhaafd blijven nadat de bank, bedoeld in het eerste lid, in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren.
-
-4. Een bank die een geregistreerde gedekte obligatie uitgeeft, draagt er zorg voor dat, zolang die bank niet in de toestand komt te verkeren dat zij het beheer van de dekkingsactiva niet langer zelf kan voeren, een externe accountant ten minste jaarlijks steekproefsgewijs de dossiers die betrekking hebben op de dekkingsactiva controleert.
+Vervallen
 
 ##### Artikel 20g
 
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft, voert regelmatig stresstesten uit om vast te stellen of in situaties van financiële stress sprake blijft van een gezonde verhouding tussen de totale uitstaande geregistreerde gedekte obligaties van die bank en de totale geconsolideerde balans van die bank, bedoeld in [artikel 40i, eerste en tweede lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40i).
-
-2. De in het eerste lid genoemde stresstesten hebben minimaal betrekking op:
-
-- a. het kredietrisico;
-
-- b. het renterisico;
-
-- c. het valutarisico;
-
-- d. het liquiditeitsrisico; en
-
-- e. andere risico’s die de Nederlandsche Bank relevant acht.
-
-3. Bij het uitvoeren van de in het eerste lid genoemde stresstesten wordt rekening gehouden met relevante risico-mitigerende factoren, zoals derivatencontracten en andere contracten ten behoeve van risicomitigatie.
+Vervallen
 
 ##### Artikel 20h
 
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft:
-
-- a. toont ten minste één maal per kwartaal aan de Nederlandsche Bank aan dat de geregistreerde gedekte obligatie voldoet aan de [artikelen 40e, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40e), [40f](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f) en [40g van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g), door aan de Nederlandsche Bank rapportages te verstrekken over de dekkingsactiva en de daar tegenoverstaande verplichtingen en deze toe te lichten;
-
-- b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan [artikel 40h](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40h); en
-
-- c. verstrekt ten minste jaarlijks aan de Nederlandsche Bank de informatie die de Nederlandsche Bank nodig heeft om haar bevoegdheid ingevolge [artikel 40i](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40i) uit te oefenen.
-
-2. Een bank die een geregistreerde gedekte obligatie uitgeeft, verstrekt aan de Nederlandsche Bank binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag van de rechtspersoon die rechthebbende is van de dekkingsactiva. De bank vermeldt daarbij of de jaarrekening al dan niet is vastgesteld en goedgekeurd in overeenstemming met de statuten of oprichtingsakte van die rechtspersoon.
-
-3. Een bank die een geregistreerde gedekte obligatie uitgeeft, en die gedurende de looptijd van de geregistreerde gedekte obligatie voornemens is significante wijzigingen aan te brengen in de voorwaarden die van toepassing zijn op die geregistreerde gedekte obligatie, doet daarvan voorafgaand aan het doorvoeren daarvan mededeling aan de Nederlandsche Bank.
-
-4. Een bank die een geregistreerde gedekte obligatie uitgeeft, verstrekt aan de Nederlandsche Bank alle relevante gegevens en bescheiden met betrekking tot de geregistreerde gedekte obligatie die de Nederlandsche Bank nodig acht in het belang van het uitoefenen van toezicht daarop, zo vaak als de Nederlandsche Bank dit nodig acht.
+Vervallen
 
 ##### Artikel 20i
 
-1. Een bank die een geregistreerde gedekte obligatie uitgeeft, verschaft per categorie minimaal elk kwartaal ten minste de volgende gegevens aan de houders van die geregistreerde gedekte obligaties:
-
-- a. informatie over de krediet-, markt-, valuta-, rente- en liquiditeitsrisico’s verbonden aan de dekkingsactiva en de geregistreerde gedekte obligaties;
-
-- b. de totale nominale waarde van de uitstaande geregistreerde gedekte obligaties;
-
-- c. de totale waarde en samenstelling van de dekkingsactiva en de geografische verdeling van de dekkingsactiva;
-
-- d. de verhouding tussen de totale waarde van de dekkingsactiva volgens [artikel 40f, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40f) en de totale nominale waarde van de uitstaande geregistreerde gedekte obligaties;
-
-- e. de verhouding tussen waarde die dekkingsactiva dienen te hebben op grond van de toepasselijke voorwaarden en de totale nominale waarde van de uitstaande geregistreerde gedekte obligaties;
-
-- f. de totale waarde en de samenstelling van de liquide activa en de verhouding daarvan tot de betalingsverplichtingen als bedoeld in [artikel 40g eerste lid, onderdelen a tot en met c, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40g);
-
-- g. de looptijdstructuur van de dekkingsactiva en de uitstaande geregistreerde gedekte obligaties;
-
-- h. het percentage dekkingsactiva met meer dan negentig achterstallige dagen; en
-
-- i. informatie over de wederpartijen van de rechtspersoon die rechthebbende is van de dekkingsactiva.
-
-2. De in het eerste lid genoemde informatie is voldoende gedetailleerd om de houders van de geregistreerde gedekte obligaties in staat te stellen om een adequate risicoanalyse uit te voeren.
+Vervallen
 
 ### Hoofdstuk 10. Wijziging [Tijdelijke vrijstellingsregeling openbare biedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019870)
 
@@ -712,7 +602,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 12. Slotbepalingen
 
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2020-10-01&g=2020-10-01)
+## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2022-07-08&g=2022-07-08)
 
 ### **Paragraaf IV**
 
