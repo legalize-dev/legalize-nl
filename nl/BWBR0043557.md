@@ -4,7 +4,7 @@ identifier: "BWBR0043557"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-07-21"
+last_updated: "2022-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043557"
 soort: "ministeriele-regeling"
@@ -68,77 +68,13 @@ In deze regeling wordt verstaan onder:
 
 4. Het aantal woningen, bedoeld in [artikel 2, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2), is substantieel als dit:
 
-- a. ten minste 500 woningen betreft, indien de aanvragende gemeente gelegen is in het functioneel woningmarktgebied:
+- a. ten minste 500 woningen betreft, indien de aanvragende gemeente uit meer dan 50.000 inwoners bestaat op grond van de laatstelijk door het CBS vastgestelde definitieve cijfers bevolkingsaantallen per gemeente op het moment dat een aanvraagtijdvak wordt bekendgemaakt op grond van [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4); of
 
-- 1°. Amsterdam;
-
-- 2°. Breda;
-
-- 3°. Den Haag;
-
-- 4°. Ede;
-
-- 5°. Emmen;
-
-- 6°. Gouda;
-
-- 7°. Groningen;
-
-- 8°. Heerenveen;
-
-- 9°. Roosendaal;
-
-- 10°. Rotterdam;
-
-- 11°. ’s-Hertogenbosch;
-
-- 12°. Utrecht; of
-
-- 13°. Venlo.
-
-- b. ten minste 200 woningen betreft, indien de aanvragende gemeente gelegen is in het functioneel woningmarktgebied:
-
-- 1°. Alkmaar;
-
-- 2°. Amersfoort;
-
-- 3°. Apeldoorn;
-
-- 4°. Arnhem;
-
-- 5°. Doetinchem;
-
-- 6°. Dordrecht;
-
-- 7°. Eindhoven;
-
-- 8°. Enschede;
-
-- 9°. Leeuwarden;
-
-- 10°. Leiden;
-
-- 11°. Lelystad;
-
-- 12°. Maastricht;
-
-- 13°. Middelburg;
-
-- 14°. Nijmegen;
-
-- 15°. Oss;
-
-- 16°. Sittard;
-
-- 17°. Tilburg; of
-
-- 18°. Zwolle,
-
-tenzij voor inwerkingtreding van de **Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 juli 2021, nr. 2021-0000308943, tot wijziging van de Regeling Woningbouwimpuls 2020 in verband met het verlagen van de grens van minimumaantal woningen voor gemeenten in woningmarktgebieden met een bovengemiddeld aantal kleine gemeenten** aan de aanvragende gemeente reeds een uitkering is toegekend op grond van het besluit, in welk geval het aantal woningen substantieel is als dit ten minste 500 woningen betreft.
+- b. ten minste 200 woningen betreft, indien de aanvragende gemeente uit ten hoogste 50.000 inwoners bestaat op grond van de laatstelijk door het CBS vastgestelde definitieve cijfers bevolkingsaantallen per gemeente op het moment dat een aanvraagtijdvak wordt bekendgemaakt op grond van [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=4).
 
 ##### Artikel 3. Uitkeringsplafond
 
-In totaal is ten hoogste € 985.000.000 beschikbaar voor specifieke uitkeringen.
+In totaal is ten hoogste € 2.250.000.000 beschikbaar voor specifieke uitkeringen.
 
 ##### Artikel 4. De aanvraag
 
@@ -164,7 +100,9 @@ In totaal is ten hoogste € 985.000.000 beschikbaar voor specifieke uitkeringen
 
 3. Een aanvraag wordt ingediend via een formulier dat beschikbaar wordt gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
-4. De uitkeringsbeschikking vermeldt in elk geval:
+4. In een aanvraagtijdvak kan een gemeente ten hoogste drie aanvragen indienen.
+
+5. De uitkeringsbeschikking vermeldt in elk geval:
 
 - a. aan welke activiteiten voor het versnellen of realiseren van de bouw van woningen met de uitkering wordt bijgedragen;
 
@@ -176,19 +114,13 @@ In totaal is ten hoogste € 985.000.000 beschikbaar voor specifieke uitkeringen
 
 - e. de wijze waarop kan worden aangetoond dat de activiteiten binnen het project zijn verricht.
 
-5. De minister betaalt in het geval van een toewijzende uitkeringsbeschikking, de uitkering in één keer uit. De minister kan daarbij een voorschot van 100% verlenen als:
+6. De Minister betaalt in het geval van een toekennende uitkeringsbeschikking, de uitkering in één keer uit. De Minister verleent daarbij een voorschot van 100%.
 
-- a. de gemeente uiterlijk 30 juni van het daaropvolgende jaar het bestemmingsplan bestendigt;
-
-- b. de gemeente uiterlijk 30 juni van het daaropvolgende jaar een anterieure overeenkomst sluit met marktpartijen; of
-
-- c. de gemeente uiterlijk 30 juni van het daaropvolgende jaar voorbereidende werkzaamheden verricht voor de desbetreffende gebiedsontwikkeling.
-
-6. Aan een uitkering kunnen in de uitkeringsbeschikking nadere verplichtingen worden verbonden.
+7. Aan een uitkering kunnen in de uitkeringsbeschikking nadere verplichtingen worden verbonden.
 
 ##### Artikel 5. Scoring van aanvragen
 
-De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder 1° tot en met 4°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), worden bepaald conform [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&bijlage=1&z=2021-07-21&g=2021-07-21). De totaalscore van een aanvraag is het gewogen gemiddelde van de scores op die criteria.
+De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder 1° tot en met 4°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=5), worden bepaald conform [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&bijlage=1&z=2022-07-09&g=2022-07-09). De totaalscore van een aanvraag is het gewogen gemiddelde van de scores op die criteria.
 
 ##### Artikel 6. Rangschikking van aanvragen
 
@@ -196,7 +128,7 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 2. Indien na toepassing van het eerste lid nog steeds meerdere aanvragen gelijk scoren worden die aanvragen onderling gerangschikt op grond van de hoogte van de gevraagde bijdrage per woning, waarbij de aanvraag met de laagste bijdrage per woning het hoogst eindigt.
 
-3. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 3, tweede of derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=4&z=2021-07-21&g=2021-07-21), voor een geval als bedoeld in de eerste volzin besluiten om de uitkering in twee keer uit te betalen.
+3. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 3, tweede of derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=3), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=4&z=2022-07-09&g=2022-07-09), voor een geval als bedoeld in de eerste volzin besluiten om de uitkering in twee keer uit te betalen.
 
 ##### Artikel 7. Weigeringsgronden
 
@@ -218,13 +150,13 @@ De scores en de weging van de criteria, bedoeld in [artikel 5, tweede lid, onder
 
 - e. Zuid: de provincies Noord-Brabant en Limburg.
 
-3. Op grond van de woningbouwopgave van de regio’s, genoemd in het tweede lid, wordt beoordeeld of sprake is van een onevenwichtige spreiding van de beschikbare middelen over die regio’s. De woningbouwopgave wordt bepaald op basis van de door de minister in 2020 in het kader van de staat van de woningmarkt gepubliceerde cijfers over het tekort aan woningen in 2020 vermeerderd met de verwachte groei aan huishoudens in de periode tot en met 2030.
+3. Op grond van de woningbouwopgave van de regio’s, genoemd in het tweede lid, wordt beoordeeld of sprake is van een onevenwichtige spreiding van de beschikbare middelen over die regio’s. De woningbouwopgave wordt bepaald op basis van de door de Minister in het kader van de in de meest actuele staat van de woningmarkt gepubliceerde cijfers over het tekort aan woningen.
 
 ##### Artikel 8. Leden van de commissie
 
 1. De commissie bestaat uit een voorzitter en ten minste drie en ten hoogste vier leden.
 
-2. De leden worden door de minister benoemd voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=3&z=2021-07-21&g=2021-07-21), is uitgeput.
+2. De leden worden door de minister benoemd voor de duur van vier jaar of tot uiterlijk zoveel eerder dat het uitkeringsplafond, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=3&z=2022-07-09&g=2022-07-09), is uitgeput.
 
 3. De voorzitter en de andere leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
@@ -246,7 +178,7 @@ Deze regeling treedt in werking op het tijdstip waarop het [Besluit woningbouwim
 
 Deze regeling wordt aangehaald als: Regeling Woningbouwimpuls 2020.
 
-## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=5&z=2021-07-21&g=2021-07-21) van de Regeling Woningbouwimpuls 2020
+## Bijlage 1. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043557&artikel=5&z=2022-07-09&g=2022-07-09) van de Regeling Woningbouwimpuls 2020
 
 ### Beoordelingscriteria en weging
 
@@ -271,6 +203,10 @@ Het hoofdcriterium urgentie betreft de omvang van de woningbouwopgave in de regi
 Gemeenten met een woondeal krijgen 2 extra punten. De maximale score voor urgentie is 10 punten.
 
 ### Schematische weergave beoordelingskader
+
+De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krijgt een deelscore op een schaal van 1 tot 10. De totaalscore van een aanvraag is: deelscore noodzaak*0,25 + deelscore effectiviteit*0,25 + deelscore efficiëntie*0,25 + deelscore urgentie*0,25.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De totaalscore van een aanvraag wordt als volgt bepaald: elk hoofdcriterium krijgt een deelscore op een schaal van 1 tot 10. De totaalscore van een aanvraag is: deelscore noodzaak*0,25 + deelscore effectiviteit*0,25 + deelscore efficiëntie*0,25 + deelscore urgentie*0,25.
 
