@@ -53,13 +53,3 @@ Het monitoringcomité, zoals ingesteld bij besluit van het College van burgemees
 ##### Artikel 3
 
 Dit onderdeel is nog niet inwerking getreden
-
-Gelet op [artikel 3 van de Uitvoeringswet EFRO](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&artikel=3);
-
-Gezien het verzoek van het College van burgemeester en Wethouders van de gemeente Rotterdam, gedaan in overeenstemming met de provincies Flevoland, Zuid- en Noord-Holland en Utrecht en de gemeenten Amsterdam, Utrecht, Rotterdam en Den Haag van 22 december 2021 en het verzoek van de Auditdienst Rijk van 24 mei 2022, kenmerk 2022-0000135794;
-
-Besluit:
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
