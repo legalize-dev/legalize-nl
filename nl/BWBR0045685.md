@@ -4,7 +4,7 @@ identifier: "BWBR0045685"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2021-12-15"
+last_updated: "2022-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045685"
 soort: "ministeriele-regeling"
@@ -58,11 +58,29 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
+- **algemene groepsvrijstellingsverordening:** [verordening (EU) nr. 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
+
 - **beheerautoriteit:** door de minister als zodanig aangewezen autoriteit;
 
 - **bevoegde autoriteit:** minister of beheerautoriteit;
 
+- **deelbetaling:** betaling aan de subsidieontvanger, vooruitlopend op de subsidievaststelling, op basis van gemaakte kosten of een verrichte prestatie;
+
 - **groep:** groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
+
+- **kennisinstelling:**
+
+- a. in onderdeel a, b, g of h van de [bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde instelling voor hoger onderwijs en een academisch ziekenhuis als bedoeld in onderdeel j van de bijlage behorende bij die wet;
+
+- b. andere dan in onderdeel a bedoelde geheel of gedeeltelijk, meerjarig door de overheid gefinancierde onderzoeksorganisatie zonder winstoogmerk die activiteiten verricht met als doel de algemene wetenschappelijke of technische kennis uit te breiden;
+
+- c. geheel of gedeeltelijk, meerjarig door een andere lidstaat van de Europese Unie gefinancierde:
+
+- 1°. openbare instelling voor hoger onderwijs of een daaraan verbonden ziekenhuis gelijkwaardig aan een instelling respectievelijk academisch ziekenhuis als bedoeld in onderdeel a;
+
+- 2°. onderzoeksorganisatie zonder winstoogmerk die activiteiten verricht met als doel de algemene wetenschappelijke en technische kennis uit te breiden;
+
+- d. onderzoeksorganisatie zonder winstoogmerk met eigen medewerkers in loondienst, die tot doel heeft via het structureel doen van eigen onderzoek en het ontwikkelen en testen van technische toepassingen door haar medewerkers, de technologische kennis op een specifiek terrein te bevorderen, die geen instelling is als bedoeld in onderdelen a tot en met c;
 
 - **laatste betaling:** laatste betaling door de bevoegde autoriteit aan de begunstigde van het bedrag of een deel van het bedrag, genoemd in de beschikking tot subsidievaststelling;
 
@@ -94,19 +112,25 @@ Onverminderd artikel 63, negende lid, van [verordening 2021/1060](32960R2021), w
 
 ##### Artikel 1.3. Subsidiabele kosten
 
-Voor zover zij direct verbonden zijn met de uitvoering van de desbetreffende subsidiabele activiteit, komen als subsidiabele kosten in aanmerking:
+1. Voor zover zij direct verbonden zijn met de uitvoering van de desbetreffende subsidiabele activiteit, komen als subsidiabele kosten in aanmerking:
 
-- a. loonkosten;
+- a. loonkosten inclusief overheadkosten;
 
-- b. bijdragen in natura als bedoeld in artikel 67, eerste lid, van [verordening 2021/1060](32960R2021);
+- b. de kosten van door een subsidieontvanger verrichte eigen arbeid;
 
-- c. afschrijvingskosten als bedoeld in artikel 67, tweede lid, van [verordening 2021/1060](32960R2021); en
+- c. bijdragen in natura als bedoeld in artikel 67, eerste lid, van [verordening 2021/1060](32960R2021);
 
-- d. andere kosten waarvoor een factuur of document met gelijkwaardige bewijskracht kan worden overgelegd.
+- d. afschrijvingskosten als bedoeld in artikel 67, tweede lid, van [verordening 2021/1060](32960R2021); en
+
+- e. andere kosten waarvoor een factuur of document met gelijkwaardige bewijskracht kan worden overlegd.
+
+2. Vóór indiening van de aanvraag door de subsidieontvanger gemaakte kosten komen niet voor subsidie in aanmerking.
+
+3. De subsidiabele kosten, bedoeld in het eerste lid, worden in aanmerking genomen met inbegrip van de BTW, indien de subsidieontvanger die de kosten heeft gemaakt, de BTW niet in aftrek kan brengen.
 
 ##### Artikel 1.4. Niet-subsidiabele kosten
 
-Onverminderd artikel 64, eerste lid, van [verordening 2021/1060](32960R2021) komen de volgende kosten niet als subsidiabele kosten als bedoeld in [artikel 1.3, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2021-12-15&g=2021-12-15), in aanmerking:
+Onverminderd artikel 64, eerste lid, van [verordening 2021/1060](32960R2021) komen de volgende kosten niet als subsidiabele kosten als bedoeld in [artikel 1.3, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09), in aanmerking:
 
 - a. administratieve en financiële sancties en boetes;
 
@@ -154,7 +178,7 @@ De subsidieontvanger, of in geval van een samenwerkingsverband de penvoerder, do
 
 ##### Artikel 2.1. Reikwijdte
 
-Dit hoofdstuk is van toepassing op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&z=2021-12-15&g=2021-12-15).
+Dit hoofdstuk is van toepassing op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&z=2022-07-09&g=2022-07-09).
 
 ##### Artikel 2.2. Subsidiabele activiteiten
 
@@ -198,7 +222,7 @@ De minister verdeelt het subsidieplafond:
 
 ##### Artikel 2.7. Verdeling van subsidieplafond per categorie
 
-Indien per categorie van aanvragers of activiteiten een subsidieplafond is vastgesteld, vindt de verdeling, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.4&z=2021-12-15&g=2021-12-15), plaats per categorie.
+Indien per categorie van aanvragers of activiteiten een subsidieplafond is vastgesteld, vindt de verdeling, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.4&z=2022-07-09&g=2022-07-09), plaats per categorie.
 
 ##### Artikel 2.8. Adviescommissie
 
@@ -266,7 +290,7 @@ Indien per categorie van aanvragers of activiteiten een subsidieplafond is vastg
 
 ##### Artikel 2.10. Niet-subsidiabele kosten samenwerkingsverband
 
-Onverminderd [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2021-12-15&g=2021-12-15) komen in geval van een samenwerkingsverband kosten die een deelnemer van het samenwerkingsverband in rekening brengt bij een andere deelnemer van het samenwerkingsverband niet voor subsidie in aanmerking.
+Onverminderd [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2022-07-09&g=2022-07-09) komen in geval van een samenwerkingsverband kosten die een deelnemer van het samenwerkingsverband in rekening brengt bij een andere deelnemer van het samenwerkingsverband niet voor subsidie in aanmerking.
 
 ##### Artikel 2.11. Afwijzingsgronden
 
@@ -308,21 +332,21 @@ Onverminderd [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofd
 
 Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, verzendt de minister de beschikkingen tot subsidieverlening aan de penvoerder.
 
-##### Artikel 2.14. Bevoorschotting
+##### Artikel 2.14. Deelbetalingen
 
-1. Indien in deze regeling is bepaald dat er een voorschot voor gemaakte kosten wordt verstrekt, bedraagt het voorschot ten hoogste 90% van de verleende subsidie.
+1. Indien in deze regeling is bepaald dat er een deelbetaling voor gemaakte kosten wordt verstrekt, bedraagt de deelbetaling ten hoogste 90% van de verleende subsidie.
 
-2. Een voorschot wordt verstrekt op aanvraag. De aanvraag wordt ingediend met gebruikmaking van een middel, dat door de minister beschikbaar wordt gesteld.
+2. Een deelbetaling wordt verstrekt op aanvraag. De aanvraag wordt ingediend met gebruikmaking van een middel, dat door de Minister beschikbaar wordt gesteld.
 
-3. De minister geeft een beschikking op een aanvraag tot verlening van een voorschot binnen dertien weken na ontvangst van die aanvraag.
+3. De Minister geeft een beschikking op een aanvraag tot verlening van een deelbetaling binnen tachtig dagen na ontvangst van die aanvraag.
 
-4. Indien subsidieontvangers samenwerken in een samenwerkingsverband, wordt een voorschot aangevraagd door de penvoerder.
+4. Indien subsidieontvangers samenwerken in een samenwerkingsverband, wordt een deelbetaling aangevraagd door de penvoerder.
 
-5. Een voorschot wordt verstrekt voor de gemaakte kosten, bedoeld in [artikel 1.3, aanhef en onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2021-12-15&g=2021-12-15).
+5. Een deelbetaling wordt verstrekt voor de gemaakte kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09).
 
 ##### Artikel 2.15. Algemene verplichtingen subsidieontvanger
 
-1. Onverminderd [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2021-12-15&g=2021-12-15) doet de subsidieontvanger of, indien subsidieontvangers samenwerken in een samenwerkingsverband, de penvoerder onverwijld schriftelijk mededeling aan de minister zodra aannemelijk is dat:
+1. Onverminderd [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2022-07-09&g=2022-07-09) doet de subsidieontvanger of, indien subsidieontvangers samenwerken in een samenwerkingsverband, de penvoerder onverwijld schriftelijk mededeling aan de minister zodra aannemelijk is dat:
 
 - a. de subsidiabele activiteiten niet, niet tijdig of niet geheel zullen worden verricht, of
 
@@ -348,7 +372,7 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 - a. de aard, inhoud en voortgang van de verrichte activiteiten;
 
-- b. dat de communicatieactiviteiten, bedoeld in [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2021-12-15&g=2021-12-15), worden uitgevoerd;
+- b. dat de communicatieactiviteiten, bedoeld in [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2022-07-09&g=2022-07-09), worden uitgevoerd;
 
 - c. het aantal eenheden dat per kostendrager is besteed aan activiteiten die voor subsidie in aanmerking komen; en
 
@@ -378,7 +402,7 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 - b. gegevens over de hoogte van de gemaakte subsidiabele kosten; en
 
-- c. gegevens die aantonen dat de communicatieactiviteiten, bedoeld in [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2021-12-15&g=2021-12-15), zijn uitgevoerd.
+- c. gegevens die aantonen dat de communicatieactiviteiten, bedoeld in [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2022-07-09&g=2022-07-09), zijn uitgevoerd.
 
 5. Een aanvraag tot subsidievaststelling gaat vergezeld van een eindverslag indien de beschikking tot subsidieverlening betrekking heeft op een projectplan. Het eindverslag bevat ten minste:
 
@@ -398,7 +422,7 @@ Indien subsidieontvangers samenwerken in een samenwerkingsverband, dient de penv
 
 ##### Artikel 2.21. Beschikking subsidievaststelling
 
-1. De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
+1. De minister geeft de beschikking tot subsidievaststelling binnen tachtig dagen na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
 2. Indien subsidieontvangers samenwerken in een samenwerkingsverband, verzendt de minister de beschikkingen tot subsidievaststelling aan de penvoerder.
 
@@ -450,7 +474,7 @@ De minister beslist afwijzend op een aanvraag om subsidie, voor zover:
 
 ##### Artikel 3.1.4. Informatieverplichtingen
 
-Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2021-12-15&g=2021-12-15) bevat een aanvraag om subsidie in ieder geval:
+Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2022-07-09&g=2022-07-09) bevat een aanvraag om subsidie in ieder geval:
 
 - a. indien de subsidieaanvrager een natuurlijke persoon is, het burgerservicenummer;
 
@@ -460,27 +484,27 @@ Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofd
 
 - d. gegevens met betrekking tot het project of de investering waarvoor subsidie wordt aangevraagd om monitoring, evaluatie en rapportage aan de Europese Commissie, zoals bedoeld in de artikelen 42, eerste lid, 43 en 49, derde lid, van [verordening 2021/1060](32960R2021), mogelijk te maken;
 
-- e. voor zover ten tijde van de aanvraag om subsidie bekend is dat de aanvrager een opdracht wil verlenen als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2021-12-15&g=2021-12-15), kopieën van de opgevraagde offertes, waarmee de kosten waarvoor subsidie wordt aangevraagd, onderbouwd worden; en
+- e. voor zover ten tijde van de aanvraag om subsidie bekend is dat de aanvrager een opdracht wil verlenen als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2022-07-09&g=2022-07-09), kopieën van de opgevraagde offertes, waarmee de kosten waarvoor subsidie wordt aangevraagd, onderbouwd worden; en
 
-- f. voor zover ten tijde van de aanvraag om subsidie bekend is dat een aanvrager een opdracht wil verlenen als bedoeld in [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2021-12-15&g=2021-12-15), gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.7, zesde lid.
+- f. voor zover ten tijde van de aanvraag om subsidie bekend is dat een aanvrager een opdracht wil verlenen als bedoeld in [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2022-07-09&g=2022-07-09), gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.7, zesde lid.
 
-##### Artikel 3.1.5. Voorschotverlening en opdrachtgunning
+##### Artikel 3.1.5. Deelbetalingverlening en opdrachtgunning
 
-De aanvraag tot voorschotverlening bevat, voor zover de subsidieontvanger voor de kosten waarvoor hij een voorschot als bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.14&z=2021-12-15&g=2021-12-15) aanvraagt een opdracht heeft verleend als bedoeld in:
+De aanvraag tot deelbetalingverlening bevat, voor zover de subsidieontvanger voor de kosten waarvoor hij een deelbetaling als bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.14&z=2022-07-09&g=2022-07-09) aanvraagt een opdracht heeft verleend als bedoeld in:
 
-- a. [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2021-12-15&g=2021-12-15): kopieën van de opgevraagde offertes als bedoeld in artikel 3.1.7, tweede lid, en de relevante redenen voor een op basis van de offertes genomen gunningsbeslissing; of
+- a. [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2022-07-09&g=2022-07-09): kopieën van de opgevraagde offertes als bedoeld in artikel 3.1.7, tweede lid, en de relevante redenen voor een op basis van de offertes genomen gunningsbeslissing; of
 
-- b. [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2021-12-15&g=2021-12-15): gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.7, zesde lid.
+- b. [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2022-07-09&g=2022-07-09): gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.7, zesde lid.
 
 ##### Artikel 3.1.6. Indiening aanvraag tot subsidievaststelling
 
-Onverminderd [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2021-12-15&g=2021-12-15), bevat de aanvraag tot subsidievaststelling:
+Onverminderd [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2022-07-09&g=2022-07-09), bevat de aanvraag tot subsidievaststelling:
 
 - a. gegevens met betrekking tot het halen van de doelstellingen en prioriteiten van het project of de investering waarvoor subsidie is aangevraagd;
 
-- b. voor zover van toepassing en voor zover deze nog niet zijn aangeleverd bij de aanvraag om subsidie of een aanvraag tot voorschotverlening, kopieën van opgevraagde offertes als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2021-12-15&g=2021-12-15), en de relevante redenen voor een op basis van deze offertes genomen gunningsbeslissing; en
+- b. voor zover van toepassing en voor zover deze nog niet zijn aangeleverd bij de aanvraag om subsidie of een aanvraag tot voorschotverlening, kopieën van opgevraagde offertes als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2022-07-09&g=2022-07-09), en de relevante redenen voor een op basis van deze offertes genomen gunningsbeslissing; en
 
-- c. voor zover van toepassing en voor zover deze nog niet zijn aangeleverd bij de aanvraag om subsidie of een aanvraag tot voorschotverlening, gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2021-12-15&g=2021-12-15).
+- c. voor zover van toepassing en voor zover deze nog niet zijn aangeleverd bij de aanvraag om subsidie of een aanvraag tot voorschotverlening, gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2022-07-09&g=2022-07-09).
 
 ##### Artikel 3.1.7. Verplichtingen subsidieontvanger
 
@@ -502,7 +526,7 @@ Onverminderd [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoof
 
 ##### Artikel 3.1.8. Adviescommissie EMFAF
 
-1. Er is een adviescommissie EMFAF die tot taak heeft de minister te adviseren over de afwijzingsgrond, bedoeld in [artikel 2.11, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2021-12-15&g=2021-12-15), en indien het subsidieplafond wordt verdeeld op volgorde van rangschikking van de aanvragen, over de rangschikking van aanvragen tot subsidieverlening.
+1. Er is een adviescommissie EMFAF die tot taak heeft de minister te adviseren over de afwijzingsgrond, bedoeld in [artikel 2.11, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2022-07-09&g=2022-07-09), en indien het subsidieplafond wordt verdeeld op volgorde van rangschikking van de aanvragen, over de rangschikking van aanvragen tot subsidieverlening.
 
 2. De commissie bestaat uit ten minste vijf en ten hoogste tien leden.
 
@@ -514,7 +538,7 @@ De overeenstemming van op algemeen aanvaarde gegevensdragers bewaarde documenten
 
 ##### Artikel 3.1.10. Vaststelling beleidsregels EMFAF
 
-De minister stelt beleidsregels als bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.6&z=2021-12-15&g=2021-12-15) in ieder geval vast voor de toepassing van financiële correcties in verband met de niet-naleving van regels die gelden op grond van:
+De minister stelt beleidsregels als bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.6&z=2022-07-09&g=2022-07-09) in ieder geval vast voor de toepassing van financiële correcties in verband met de niet-naleving van regels die gelden op grond van:
 
 - a. deze regeling;
 
@@ -546,7 +570,7 @@ In deze paragraaf wordt verstaan onder:
 
 2. Subsidie, als bedoeld in het eerste lid, wordt uitsluitend verleend indien dit past binnen een door de Europese Commissie goedgekeurd programma als bedoeld in artikel 8 van [verordening 2021/1139](33039R2021).
 
-3. In afwijking van [artikel 2.12, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.12&z=2021-12-15&g=2021-12-15), wordt een beschikking tot subsidieverlening gegeven binnen 38 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend.
+3. In afwijking van [artikel 2.12, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.12&z=2022-07-09&g=2022-07-09), wordt een beschikking tot subsidieverlening gegeven binnen 52 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend.
 
 ##### Artikel 3.2.3. Hoogte subsidie
 
@@ -554,7 +578,7 @@ De subsidie bedraagt 60 procent van de subsidiabele kosten, tot een maximum van 
 
 ##### Artikel 3.2.4. Subsidiabele kosten
 
-Voor zover zij direct verbonden zijn aan de uitvoering van de subsidiabele activiteiten als bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2021-12-15&g=2021-12-15), komen als subsidiabele kosten in aanmerking:
+Voor zover zij direct verbonden zijn aan de uitvoering van de subsidiabele activiteiten als bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2022-07-09&g=2022-07-09), komen als subsidiabele kosten in aanmerking:
 
 - a. de kosten voor de aankoop, bouw en plaatsing van een mosselzaadinvanginstallatie; en
 
@@ -566,19 +590,15 @@ De minister verdeelt het subsidieplafond evenredig over de ingediende aanvragen.
 
 ##### Artikel 3.2.6. Realisatietermijn
 
-De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2021-12-15&g=2021-12-15), is 18 maanden na subsidieverlening.
+De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2022-07-09&g=2022-07-09), is 18 maanden na subsidieverlening.
 
 ##### Artikel 3.2.7. Afwijzingsgronden
 
-Onverminderd de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2021-12-15&g=2021-12-15) en [3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2021-12-15&g=2021-12-15) beslist de minister afwijzend op een aanvraag tot subsidieverlening, indien:
-
-- a. er aan de aanvrager al een subsidie als bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2021-12-15&g=2021-12-15), is verstrekt;
-
-- b. de aanvrager geen houder is van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op mosselzaad in de Waddenzee.
+Onverminderd de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2022-07-09&g=2022-07-09) en [3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2022-07-09&g=2022-07-09) beslist de Minister afwijzend op een aanvraag tot subsidieverlening, indien de aanvrager geen houder is van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op mosselzaad in de Waddenzee.
 
 ##### Artikel 3.2.8. Informatieverplichtingen
 
-Onverminderd de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2021-12-15&g=2021-12-15) en [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.4&z=2021-12-15&g=2021-12-15), gaat een aanvraag tot subsidieverlening vergezeld van de volgende gegevens:
+Onverminderd de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2022-07-09&g=2022-07-09) en [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.4&z=2022-07-09&g=2022-07-09), gaat een aanvraag tot subsidieverlening vergezeld van de volgende gegevens:
 
 - a. een investeringsplan met daarin een beschrijving van de investering;
 
@@ -586,21 +606,21 @@ Onverminderd de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&
 
 - c. gegevens waarmee de subsidieaanvrager kan aantonen dat de aanvrager mkb is; en
 
-- d. een onderbouwing van de kosten voor aankoop, bouw en plaatsing van de mosselzaadinvanginstallatie, en indien de aanvraag betrekking heeft op subsidie voor de kosten als bedoeld in [artikel 3.2.4, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2021-12-15&g=2021-12-15), een onderbouwing van de kosten voor het aanpassen van een vissersvaartuig.
+- d. een onderbouwing van de kosten voor aankoop, bouw en plaatsing van de mosselzaadinvanginstallatie, en indien de aanvraag betrekking heeft op subsidie voor de kosten als bedoeld in [artikel 3.2.4, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2022-07-09&g=2022-07-09), een onderbouwing van de kosten voor het aanpassen van een vissersvaartuig.
 
 ##### Artikel 3.2.9. Verplichtingen subsidieontvanger
 
-Onverminderd de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2021-12-15&g=2021-12-15), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.15&z=2021-12-15&g=2021-12-15) en [3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2021-12-15&g=2021-12-15), is de subsidieontvanger verplicht:
+Onverminderd de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2022-07-09&g=2022-07-09), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.15&z=2022-07-09&g=2022-07-09) en [3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2022-07-09&g=2022-07-09), is de subsidieontvanger verplicht:
 
 - a. de mosselzaadinvanginstallatie in gebruik te nemen in de Waddenzee, Oosterschelde of Voordelta;
 
-- b. de betaling van de kosten voor de activiteiten, bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2021-12-15&g=2021-12-15), te doen plaatsvinden voor het indienen van de aanvraag tot subsidievaststelling; en
+- b. de betaling van de kosten voor de activiteiten, bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2022-07-09&g=2022-07-09), te doen plaatsvinden voor het indienen van de aanvraag tot subsidievaststelling; en
 
-- c. in het jaar dat de subsidievaststelling, bedoeld in [artikel 3.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.10&z=2021-12-15&g=2021-12-15), wordt aangevraagd, houder te zijn van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op mosselzaad in de Waddenzee.
+- c. in het jaar dat de subsidievaststelling, bedoeld in [artikel 3.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.10&z=2022-07-09&g=2022-07-09), wordt aangevraagd, houder te zijn van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op mosselzaad in de Waddenzee.
 
 ##### Artikel 3.2.10. Subsidievaststelling
 
-Onverminderd de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2021-12-15&g=2021-12-15) en [3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.6&z=2021-12-15&g=2021-12-15), bevat de aanvraag tot subsidievaststelling in ieder geval:
+Onverminderd de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2022-07-09&g=2022-07-09) en [3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.6&z=2022-07-09&g=2022-07-09), bevat de aanvraag tot subsidievaststelling in ieder geval:
 
 - a. facturen en betaalbewijzen van de ten behoeve van de subsidiabele activiteiten gemaakte en betaalde kosten; en
 
@@ -608,13 +628,13 @@ Onverminderd de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685
 
 ##### Artikel 3.2.11. Niet-subsidiabele kosten
 
-Onverminderd de [artikelen 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2021-12-15&g=2021-12-15) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2021-12-15&g=2021-12-15), komen de volgende kosten niet in aanmerking voor subsidie:
+Onverminderd de [artikelen 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2022-07-09&g=2022-07-09) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2022-07-09&g=2022-07-09), komen de volgende kosten niet in aanmerking voor subsidie:
 
 - a. kosten van lease en huurkoop;
 
 - b. legeskosten; en
 
-- c. kosten als bedoeld in [artikel 1.3, aanhef en onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2021-12-15&g=2021-12-15).
+- c. kosten als bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09).
 
 ##### Artikel 3.2.12. Vervaltermijn
 
@@ -639,6 +659,300 @@ Deze regeling wordt aangehaald als: Regeling Europese EZK- en LNV-subsidies 2021
 ## Bijlage. behorende bij [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.9&z=2021-12-15&g=2021-12-15) van de Regeling Europese EZK- en LNV-subsidies 2021
 
 ### Procedure als bedoeld in [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.9&z=2021-12-15&g=2021-12-15) van de Regeling Europese EZK- en LNV-subsidies 2021
+
+Kopieën of volledig digitale documenten kunnen worden geaccepteerd als bewijsstuk. In deze bijlage worden de procedures vastgesteld voor documenten die in het kader van de uitvoering van de Regeling Europese EZK- en LNV-subsidies 2021 en verantwoording op grond van [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231) en op grond van [Verordening (EU) 2021/1139](33039R2021) van het Europees Parlement en de Raad van 7 juli 2021 tot oprichting van het Europees Fonds voor maritieme zaken, visserij en aquacultuur en tot wijziging van [Verordening (EU) 2017/1004](32904R2017) (PbEU 2021, L 247) kunnen worden gebruikt.
+
+### 1. Typen documenten
+
+De volgende documenten worden als bewijsstukken geaccepteerd:
+
+### 2. Procedure voor het gebruik van de documenten, bedoeld onder 1, onderdelen a, b en c
+
+De in 1, onderdelen a, b en c, bedoelde bewijsstukken zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
+
+Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
+
+Als de conversie op de juiste wijze gebeurt, is het in het kader van de verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
+
+### 3. Procedure voor het bewaren van stukken die uitsluitend in een elektronische versie bestaan, bedoeld onder 1, onderdeel d
+
+Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen.
+
+Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1.1a. Reikwijdte
+
+Dit hoofdstuk is niet van toepassing op [paragraaf 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&z=2022-07-09&g=2022-07-09).
+
+##### Artikel 1.3a. Berekening loonkosten en eigen arbeid
+
+1. De loonkosten worden berekend:
+
+- a. door het aantal aan het project bestede uren te vermenigvuldigen met een vast uurtarief van € 55;
+
+- b. als een vast percentage van een maandtarief van € 7.800 per werknemer bij een voltijd dienstverband van 1.720 uur per jaar, of een evenredig deel daarvan bij een deeltijd dienstverband, overeenkomstig het vooraf vastgestelde vaste percentage van de tijd dat de werknemer per maand aan het project heeft gewerkt, zonder de verplichting om een afzonderlijk arbeidstijdregistratiesysteem op te zetten;
+
+- c. door de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09), te vermenigvuldigen met 0,23, onder de voorwaarden, genoemd in artikel 55, eerste lid, van [verordening 2021/1060](32960R2021).
+
+2. De kosten van de door een subsidieontvanger verrichte eigen arbeid ten behoeve van het project worden berekend door het aantal uren dat de betrokken persoon ten behoeve van het project heeft gemaakt te vermenigvuldigen met een vast uurtarief van € 55.
+
+3. De subsidieontvanger stelt een document op met vermelding van de namen van de werknemers en de vaste percentages, bedoeld in het eerste lid, aanhef en onderdeel b.
+
+4. Indien een vast uurtarief wordt gehanteerd, kan het totale aantal voor een bepaald jaar te subsidiëren uren:
+
+- a. indien gebruik wordt gemaakt een vast uurtarief als bedoeld in het eerste lid, onderdeel a, per werknemer niet meer bedragen dan 1.720 uren bij een voltijd dienstverband of een evenredig deel daarvan bij een deeltijd dienstverband;
+
+- b. indien gebruik wordt gemaakt van een vast uurtarief als bedoeld in het tweede lid voor eigen arbeid, niet meer bedragen dan 1.720 uren.
+
+##### Artikel 1.3b. Integrale kostensystematiek
+
+1. In afwijking van [artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2022-07-09&g=2022-07-09) kunnen kennisinstellingen gebruik maken van een uurtarief berekend op basis van een door de Minister goedgekeurde integrale kostensystematiek als bedoeld in [artikel 12, eerste lid, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12).
+
+2. Indien op grond van het eerste lid wordt gekozen voor de integrale kostensystematiek, zijn [artikel 12, derde lid, van het Kaderbesluit nationale EZK- en LNV subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12) en [artikel 1.2, eerste lid, van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.2), van overeenkomstige toepassing.
+
+##### Artikel 1.3c. Berekening loonkosten en eigen arbeid, met inbegrip van de overige subsidiabele kosten
+
+1. In afwijking van [artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2022-07-09&g=2022-07-09) kunnen de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09), worden berekend met inbegrip van de kosten, bedoeld in onderdelen c tot en met e van dat artikellid:
+
+- a. door het aantal aan het project bestede uren te vermenigvuldigen met een vast uurtarief van € 67; of
+
+- b. als een vast percentage van een maandtarief van € 9.600 per werknemer bij een voltijd dienstverband van 1.720 uur per jaar, of een evenredig deel daarvan bij een deeltijd dienstverband, overeenkomstig het vooraf vastgestelde vaste percentage van de tijd dat de werknemer per maand aan het project heeft gewerkt, zonder de verplichting om een afzonderlijk arbeidstijdregistratiesysteem op te zetten.
+
+2. De subsidieontvanger stelt een document op met vermelding van de namen van de werknemers en de vaste percentages, bedoeld in het eerste lid, aanhef en onderdeel b.
+
+3. Indien een vast uurtarief, bedoeld in het eerste lid, onderdeel a, wordt gehanteerd, kan het totale aantal voor een bepaald jaar per werknemer gedeclareerde uren niet meer bedragen dan 1.720 uren bij een voltijd dienstverband of een evenredig deel daarvan bij een deeltijd dienstverband.
+
+##### Artikel 1.3d. Combinatie berekeningsmethoden
+
+1. De berekeningsmethoden, bedoeld in [artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2022-07-09&g=2022-07-09) en [1.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2022-07-09&g=2022-07-09), kunnen niet worden gecombineerd met de berekeningsmethoden, bedoeld in [artikel 1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2022-07-09&g=2022-07-09), binnen een project.
+
+2. Indien een subsidieontvanger de integrale kostensystematiek, bedoeld in [artikel 1.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2022-07-09&g=2022-07-09), hanteert binnen een project, kunnen het vaste uurtarief en het vaste percentage, bedoeld in [artikel 1.3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2022-07-09&g=2022-07-09), gehanteerd worden door, indien van toepassing, de andere subsidieontvangers binnen hetzelfde project.
+
+3. Indien de in het tweede lid bedoelde combinatie binnen een project wordt toegepast, kunnen de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09), niet apart worden toegerekend aan het project.
+
+### Hoofdstuk 2. Regels omtrent subsidieverstrekking door de minister
+
+### Hoofdstuk 3. Europees fonds voor maritieme zaken, visserij en aquacultuur
+
+#### § 3.1. Algemene bepalingen
+
+#### § 3.2. Investeringen in mosselzaadinvanginstallaties
+
+### Hoofdstuk 4. Europees fonds voor regionale ontwikkeling
+
+#### § 4.1. Algemene bepalingen
+
+##### Artikel 4.1.1. Begripsbepalingen
+
+In dit hoofdstuk wordt verstaan onder:
+
+- **auditautoriteit:** door de Minister aangewezen autoriteit als bedoeld in artikel 71, eerste lid, van [verordening 2021/1060](32960R2021);
+
+- **financieringsinstrument:** financieringsinstrument als bedoeld in artikel 58, eerste lid, van [verordening 2021/1060](32960R2021);
+
+- **programmasubsidie:** subsidie die wordt verstrekt aan een autoriteit van een grensoverschrijdend programma ten behoeve van het financieren van projecten die binnen dat grensoverschrijdende programma vallen.
+
+##### Artikel 4.1.2. Vervaldatum
+
+Dit hoofdstuk vervalt met ingang van 1 juli 2027.
+
+#### § 4.2. Regels omtrent subsidieverstrekking door de beheerautoriteit in het kader van de landsdelige EFRO-programma’s
+
+##### Artikel 4.2.1. Subsidiabele activiteiten
+
+1. De beheerautoriteit verstrekt subsidie voor activiteiten passend binnen het programma waarvoor de beheerautoriteit is aangewezen.
+
+2. Een subsidie als bedoeld in het eerste lid kan worden verstrekt in de vorm van een bijdrage aan een financieringsinstrument.
+
+3. Indien wordt gekozen voor het verstrekken van subsidie in de vorm van een bijdrage aan een financieringsinstrument zijn de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09), [1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2022-07-09&g=2022-07-09), [1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2022-07-09&g=2022-07-09), [1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2022-07-09&g=2022-07-09), [1.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3d&z=2022-07-09&g=2022-07-09), [4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.5&z=2022-07-09&g=2022-07-09), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.6&z=2022-07-09&g=2022-07-09), [4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2022-07-09&g=2022-07-09), [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.9&z=2022-07-09&g=2022-07-09) en [4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.10&z=2022-07-09&g=2022-07-09) niet van toepassing.
+
+##### Artikel 4.2.2. Subsidieplafond en subsidiebedrag
+
+1. De beheerautoriteit stelt een subsidieplafond of meerdere deelplafonds ter uitvoering van deze regeling vast, alsmede de wijze van verdeling van het beschikbare bedrag onder het desbetreffende plafond.
+
+2. De beheerautoriteit kan een beschikbaar subsidiebedrag bestemmen voor een of meer financieringsinstrumenten.
+
+3. De beheerautoriteit maakt de criteria en procedures, bedoeld in artikel 73, eerste lid, van [verordening 2021/1060](32960R2021), die worden gehanteerd binnen de wijze van verdeling, bedoeld in het eerste lid, bekend.
+
+##### Artikel 4.2.3. Indiening aanvraag om subsidie
+
+Een aanvraag om subsidie wordt ingediend met gebruikmaking van een middel dat door de beheerautoriteit beschikbaar wordt gesteld.
+
+##### Artikel 4.2.4. Beslissing op de aanvraag
+
+1. De beheerautoriteit geeft binnen 26 weken een beschikking op een aanvraag om subsidie.
+
+2. Indien een beschikbaar subsidiebedrag wordt verdeeld op basis van rangschikking als bedoeld in [artikel 4.2.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2022-07-09&g=2022-07-09), begint de termijn, bedoeld in het eerste lid, op de eerste dag na afloop van de aanvraagperiode.
+
+##### Artikel 4.2.5. Facturen voor kosten als bedoeld in [artikel 1.3, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09), met een factuurbedrag lager dan € 250, exclusief BTW
+
+1. Kosten als bedoeld in [artikel 1.3, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09), kunnen niet worden vergoed indien het factuurbedrag lager is dan € 250, exclusief BTW.
+
+2. De subsidie voor de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2022-07-09&g=2022-07-09), waarvoor een factuur wordt ingediend met een factuurbedrag van € 250 of meer, exclusief BTW, wordt verhoogd met een opslag van 1 procent ter dekking van de kosten, bedoeld in het eerste lid.
+
+##### Artikel 4.2.6. Subsidievaststelling projecten minder dan € 200.000
+
+1. Indien subsidie wordt aangevraagd voor projecten waarvan de totale kostprijs niet meer dan € 200.000 bedraagt, wordt de subsidie verleend met gebruikmaking van eenheidskosten of vaste bedragen als bedoeld in artikel 53, tweede lid, van [verordening 2021/1060](32960R2021) en kan de subsidie worden vastgesteld op basis van een ontwerpbegroting als bedoeld in artikel 53, derde lid, aanhef en onderdeel b, van [verordening 2021/1060](32960R2021).
+
+2. De [artikelen 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2022-07-09&g=2022-07-09), [1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2022-07-09&g=2022-07-09), [1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2022-07-09&g=2022-07-09) en [1.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3d&z=2022-07-09&g=2022-07-09) zijn niet van toepassing, indien de subsidie wordt verleend met gebruikmaking van het eerste lid.
+
+##### Artikel 4.2.7. Afwijzingsgronden
+
+1. De beheerautoriteit beslist afwijzend op een aanvraag indien:
+
+- a. het project niet voldoet aan deze regeling, [verordening 2021/1060](32960R2021) of [verordening 2021/1058](32958R2021), of gelet op de wijze van verdeling van het beschikbare bedrag, bedoeld in [artikel 4.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2022-07-09&g=2022-07-09), of de criteria en procedures, bedoeld in artikel 4.2.2, derde lid, niet voor subsidie in aanmerking komt;
+
+- b. het project niet voldoende bijdraagt aan de verwezenlijking van de specifieke doelstellingen binnen het programma of het gedeelte van het programma waarvoor het subsidieplafond of het deelplafond beschikbaar is gesteld;
+
+- c. de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag op de uiterste datum van indiening in het geval van verdeling op basis van rangschikking als bedoeld in [artikel 4.2.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2022-07-09&g=2022-07-09);
+
+- d. de subsidie bestemd is voor:
+
+- 1°. een onderneming tegen wie een bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, aanhef en onderdeel a, van de algemene groepsvrijstellingsverordening; of
+
+- 2°. een onderneming in moeilijkheden als bedoeld in artikel 2, onderdeel 18, van de algemene groepsvrijstellingsverordening.
+
+2. De beheerautoriteit kan geheel of gedeeltelijk afwijzend beslissen op een aanvraag indien blijkt dat de beoogde financiering door de overige financiers geheel of gedeeltelijk niet zal worden verleend.
+
+##### Artikel 4.2.8. Verdeling subsidiebedrag
+
+Behoudens de bijdrage aan een financieringsinstrument als bedoeld in [artikel 4.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2022-07-09&g=2022-07-09), verdeelt de beheerautoriteit een beschikbaar subsidiebedrag:
+
+- a. op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.9&z=2022-07-09&g=2022-07-09); of
+
+- b. op basis van rangschikking van de aanvragen, overeenkomstig [artikel 4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.10&z=2022-07-09&g=2022-07-09).
+
+##### Artikel 4.2.9. Volgorde van ontvangst
+
+1. Indien wordt gekozen voor verdeling op volgorde van ontvangst als bedoeld in [artikel 4.2.8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2022-07-09&g=2022-07-09), komt de eerst ontvangen aanvraag het eerst voor subsidie in aanmerking.
+
+2. Indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, geldt met betrekking tot de verdeling de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst.
+
+3. Indien de beheerautoriteit op de dag dat het subsidieplafond wordt bereikt meer dan een aanvraag ontvangt, stelt zij de onderlinge rangschikking van die aanvragen vast door middel van loting.
+
+##### Artikel 4.2.10. Rangschikking
+
+1. Indien wordt gekozen voor verdeling op volgorde van rangschikking van de aanvragen als bedoeld in [artikel 4.2.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2022-07-09&g=2022-07-09), komt de aanvraag die naar het oordeel van de beheerautoriteit in de hoogste mate aan de rangschikkingscriteria voldoet het eerst voor subsidie in aanmerking.
+
+2. Voor zover het subsidieplafond dreigt te worden overschreden, stelt de beheerautoriteit de onderlinge rangschikking van die aanvragen die bij de beoordeling gelijk zijn gerangschikt vast door middel van loting.
+
+##### Artikel 4.2.11. Verplichtingen subsidieontvanger
+
+De subsidieontvanger voert het project uit overeenkomstig het projectplan waarop de subsidieverlening betrekking heeft en voltooit het uiterlijk op het bij de verlening bepaalde tijdstip.
+
+##### Artikel 4.2.12. Wijziging project
+
+Een wijziging van een project waarvoor subsidie wordt verstrekt, betreffende
+
+- a. de subsidieontvanger;
+
+- b. de uit te voeren activiteiten of de te realiseren doelstellingen;
+
+- c. de financiering van het project; of
+
+- d. de planning of looptijd,
+
+behoeft de goedkeuring van de beheerautoriteit.
+
+##### Artikel 4.2.13. Meldingsplicht subsidieontvanger
+
+De subsidieontvanger doet onverwijld schriftelijk melding aan de beheerautoriteit zodra aannemelijk is dat:
+
+- a. de activiteiten waarvoor subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht; of
+
+- b. niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
+
+##### Artikel 4.2.14. Administratie
+
+De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten kunnen worden afgelezen en gespecificeerd, met dien verstande dat ter zake van de kosten, bedoeld in [artikel 1.3a, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2022-07-09&g=2022-07-09), en [artikel 1.3c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2022-07-09&g=2022-07-09), een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
+
+##### Artikel 4.2.15. Verplichtingen
+
+1. De beheerautoriteit verbindt verplichtingen aan de subsidie.
+
+2. De beheerautoriteit verbindt zodanig verplichtingen aan de subsidie dat de subsidieontvanger aan de auditautoriteit de medewerking verleent die zij voor haar taakvervulling nodig heeft.
+
+##### Artikel 4.2.16. Aanvraag tot subsidievaststelling
+
+Een aanvraag tot subsidievaststelling wordt ingediend met gebruikmaking van een middel dat door de beheerautoriteit beschikbaar wordt gesteld.
+
+##### Artikel 4.2.17. Beslissing op de aanvraag tot subsidievaststelling
+
+De beheerautoriteit geeft binnen 26 weken een beschikking op een aanvraag tot subsidievaststelling.
+
+#### § 4.3. Regels omtrent subsidieverstrekking ten laste van de Rijkscofinanciering in het kader van de landsdelige EFRO-programma’s
+
+##### Artikel 4.3.1. Subsidieaanvraag
+
+De Minister verstrekt op aanvraag subsidie aan degene die een project tot stand brengt dat past in een programma en dat bijdraagt aan de realisatie van nationale beleidsdoelen op het gebied van innovatie of de transitie naar een koolstofarme of circulaire economie.
+
+##### Artikel 4.3.2. Subsidieplafond
+
+1. Het subsidieplafond voor subsidies als bedoeld in [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2022-07-09&g=2022-07-09) is voor de gehele programmaperiode:
+
+- a. voor programma EFRO 2021-2027 Noord-Nederland: € 19.475.579;
+
+- b. voor programma EFRO 2021-2027 Oost-Nederland: € 22.946.144;
+
+- c. voor programma EFRO 2021-2027 Zuid-Nederland: € 19.640.087;
+
+- d. voor programma EFRO 2021-2027 West-Nederland: € 37.352.960.
+
+2. Het voor de cofinanciering beschikbare bedrag wordt in jaarlijkse tranches beschikbaar gesteld.
+
+##### Artikel 4.3.3. Afwijzingsgronden
+
+De Minister beslist afwijzend op een aanvraag tot subsidieverlening indien het project onvoldoende bijdraagt aan de realisatie van het in [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2022-07-09&g=2022-07-09) bedoelde Rijksbeleid of de subsidieaanvrager niet in aanmerking komt voor subsidie op grond van [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&z=2022-07-09&g=2022-07-09).
+
+##### Artikel 4.3.4. Schakelbepaling
+
+De [artikelen 4.2.3 tot en met 4.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.3&z=2022-07-09&g=2022-07-09) zijn van overeenkomstige toepassing.
+
+#### § 4.4. Regels omtrent subsidieverstrekking ten laste van Rijkscofinanciering in het kader van de doelstelling “Europese territoriale samenwerking” (Interreg)
+
+##### Artikel 4.4.1. Subsidieaanvraag
+
+De Minister verstrekt op aanvraag een programmasubsidie voor de programma’s, bedoeld in [artikel 4.4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.2&z=2022-07-09&g=2022-07-09).
+
+##### Artikel 4.4.2. Subsidieplafond
+
+1. Het subsidieplafond voor subsidies als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2022-07-09&g=2022-07-09) is voor de gehele programmaperiode:
+
+- a. voor het programma Interreg Duitsland – Nederland € 25.706.117;
+
+- b. voor het programma Interreg Maas-Rijn € 4.336.389;
+
+- c. voor het programma Interreg Vlaanderen-Nederland € 18.957.494.
+
+2. De Minister maakt de in het eerste lid bedoelde subsidieplafonds op verzoek van de beheerautoriteiten in voorschotten over naar de beheerautoriteiten.
+
+3. Rentebaten over een voorschot worden op dezelfde wijze besteed als de programmasubsidie.
+
+##### Artikel 4.4.3. Instemming Minister en afwijzingsgronden
+
+1. De ontvanger van een programmasubsidie als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2022-07-09&g=2022-07-09) financiert geen projecten ten laste van de programmasubsidie, bedoeld in artikel 4.4.1 zonder voorafgaande schriftelijke instemming van de Minister.
+
+2. De Minister onthoudt de instemming of wijst een aanvraag als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2022-07-09&g=2022-07-09) af, indien het project niet in voldoende mate bijdraagt aan tenminste een van de volgende aspecten:
+
+- a. de realisatie van nationale beleidsdoelen op het gebied van innovatie en de transities naar een koolstofarme, circulaire, economie;
+
+- b. verbeteren van de aansluiting tussen onderwijs en arbeidsmarkt of arbeidsmobiliteit;
+
+- c. economische structuurversterking binnen economische sectoren of in het programmagebied.
+
+3. Het tweede lid is niet van toepassing op Rijkscofinanciering voor technische bijstand.
+
+### Hoofdstuk 5. Overige bepalingen en slotbepalingen
+
+##### Artikel 5.1a. Overgangsrecht
+
+Op aanvragen om subsidie die zijn ingediend voor het tijdstip van inwerkingtreding van een wijziging van deze regeling, op subsidies die voor dat tijdstip zijn verleend en op subsidies die voor dat tijdstip zijn vastgesteld, blijft deze regeling van toepassing zoals deze luidde voor dat tijdstip tenzij de wijziging met terugwerkende kracht in werking treedt.
+
+## Bijlage. behorende bij [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.9&z=2022-07-09&g=2022-07-09) van de Regeling Europese EZK- en LNV-subsidies 2021
+
+### Procedure als bedoeld in [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.9&z=2022-07-09&g=2022-07-09) van de Regeling Europese EZK- en LNV-subsidies 2021
 
 Kopieën of volledig digitale documenten kunnen worden geaccepteerd als bewijsstuk. In deze bijlage worden de procedures vastgesteld voor documenten die in het kader van de uitvoering van de Regeling Europese EZK- en LNV-subsidies 2021 en verantwoording op grond van [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231) en op grond van [Verordening (EU) 2021/1139](33039R2021) van het Europees Parlement en de Raad van 7 juli 2021 tot oprichting van het Europees Fonds voor maritieme zaken, visserij en aquacultuur en tot wijziging van [Verordening (EU) 2017/1004](32904R2017) (PbEU 2021, L 247) kunnen worden gebruikt.
 
