@@ -4,7 +4,7 @@ identifier: "BWBR0046202"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-07-09"
-last_updated: "2022-01-18"
+last_updated: "2022-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046202"
 soort: "beleidsregel"
@@ -46,7 +46,7 @@ De beleidsregel inzake het subsidiëren van de Kickstart Medicatieoverdracht wor
 
 ##### Artikel 2. Subsidieplafond
 
-1. Voor de subsidieverlening op grond van dit besluit is een totaalbedrag van € 25.000.000 beschikbaar.
+1. Voor de subsidieverlening op grond van dit besluit is een totaalbedrag van € 27.500.000 beschikbaar.
 
 2. De Minister verdeelt het beschikbare bedrag na onderlinge weging van de aanvragen, overeenkomstig de bijlage bij dit besluit.
 
@@ -236,7 +236,7 @@ Indien het voorgaande in acht wordt genomen bij de subsidieverstrekking levert d
 
 ### 3.1. Subsidieplafond en wijze van verdeling
 
-Voor de Beleidsregel is voor de periode van 15 april 2022 tot en met 30 september 2024 een bedrag van maximaal € 25 miljoen beschikbaar.
+Voor de Beleidsregel is voor de periode van 15 april 2022 tot en met 30 september 2024 een bedrag van maximaal € 27,5 miljoen beschikbaar.
 
 De Minister van VWS kan subsidie verstrekken voor de activiteiten die worden genoemd in paragraaf 2.2. De subsidie aan de penvoerder ten behoeve van het samenwerkingsverband bedraagt niet meer dan een door de Minister van VWS vast te stellen bedrag, overeenkomstig een door de Minister van VWS goed te keuren activiteitenplan en begroting.
 
@@ -244,11 +244,11 @@ Ten aanzien van de kosten voor ICT geldt dat alleen een redelijke en gemaximeerd
 
 Ten aanzien van de kosten die een zorgaanbieder maakt voor de implementatie van de richtlijn en MP9 geldt dat alleen redelijke en gemaximeerde kosten subsidiabel zijn, die bovendien de DAEB-de-minimis ruimte niet mogen overschrijden. Subsidie voor deze activiteit is ingevolge de regels van de DAEB de-minimis gemaximeerd op een bedrag van € 500.000 over drie belastingjaren per zorgaanbieder. Voor maximale vergoedingen die worden gehanteerd wordt verwezen naar de bedragen als genoemd in bijlage 2. Deze bedragen zijn gebaseerd op de systematiek die is gehanteerd in de sectorale BIA’s. Redelijke kosten zijn kosten die binnen de maximale bedragen per post vallen en een onderbouwing kennen die door het Programma van een positief advies is voorzien.
 
-Het samenwerkingsverband maakt in het activiteitenplan en in de begroting **per sector en zorgaanbieder** inzichtelijk welke activiteiten en bijbehorende financiering worden voorzien. Voor de activiteiten die voor de sector Openbare farmacie worden aangevraagd is een bedrag van maximaal € 5 miljoen beschikbaar voor de ingediende subsidieaanvragen. Voor de activiteiten die voor de overige sectoren en de penvoerder worden aangevraagd is een bedrag van maximaal € 20 miljoen beschikbaar voor de ingediende subsidieaanvragen.
+Het samenwerkingsverband maakt in het activiteitenplan en in de begroting **per sector en zorgaanbieder** inzichtelijk welke activiteiten en bijbehorende financiering worden voorzien. Voor de activiteiten die voor de sector Openbare farmacie worden aangevraagd is een bedrag van maximaal € 7,5 miljoen beschikbaar voor de ingediende subsidieaanvragen. Voor de activiteiten die voor de overige sectoren en de penvoerder worden aangevraagd is een bedrag van maximaal € 20 miljoen beschikbaar voor de ingediende subsidieaanvragen.
 
 De ontvangen aanvragen worden eerst getoetst aan de subsidievoorwaarden als bedoeld in paragraaf 2.3. Pas als aan deze subsidievoorwaarden wordt voldaan, kan een samenwerkingsverband voor subsidiëring in aanmerking komen. Vervolgens wordt getoetst of het subsidiebedrag van alle aanvragen gezamenlijk:
 
-Aanvragen die aan de voorwaarden voldoen komen in beginsel voor subsidie in aanmerking, totdat het subsidieplafond van € 25 miljoen en het toegespitste bedrag voor Openbare farmacie dan wel voor de overige sectoren en de penvoerder wordt bereikt. Indien daarvan sprake is, zullen de aanvragen onderling worden gewogen.
+Aanvragen die aan de voorwaarden voldoen komen in beginsel voor subsidie in aanmerking, totdat het subsidieplafond van € 27,5 miljoen en het toegespitste bedrag voor Openbare farmacie dan wel voor de overige sectoren en de penvoerder wordt bereikt. Indien daarvan sprake is, zullen de aanvragen onderling worden gewogen.
 
 De aanvragen zullen dan worden beoordeeld en gerangschikt naar geschiktheid aan de hand van de wegingscriteria uitgezet in paragraaf 3.2. Daarna zal subsidie worden verleend aan de aanvraag of aanvragen die het best scoren op de wegingscriteria. Het Ministerie van VWS zal bij deze beoordeling aan de hand van de wegingscriteria advies inwinnen van het Programma.
 
