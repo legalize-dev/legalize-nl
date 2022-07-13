@@ -4,7 +4,7 @@ identifier: "BWBR0027840"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-25"
-last_updated: "2018-10-01"
+last_updated: "2022-07-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027840"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Treedt in werking op het tijdstip waarop de Wet veiligheidsregio's in werking tr
 
 ##### Artikel 1
 
-1. Met betrekking tot de functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1) en [bijlage 1a bij het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1a), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&bijlage=A&z=2018-10-01&g=2018-10-01).
+1. Met betrekking tot de functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1) en [bijlage 1a bij het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1a), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&bijlage=A&z=2022-07-13&g=2022-07-13).
 
-2. Met betrekking tot de functies, genoemd in [artikel 2, tweede lid, van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&bijlage=B&z=2018-10-01&g=2018-10-01).
+2. Met betrekking tot de functies, genoemd in [artikel 2, tweede lid, van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&bijlage=B&z=2022-07-13&g=2022-07-13).
 
-3. Met betrekking tot de functies, genoemd in [artikel 2, derde lid, van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&bijlage=C&z=2018-10-01&g=2018-10-01).
+3. Met betrekking tot de functies, genoemd in [artikel 2, derde lid, van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&bijlage=C&z=2022-07-13&g=2022-07-13).
 
 ##### Artikel 2
 
@@ -58,7 +58,7 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet veiligheidsregio�
 
 Deze regeling wordt aangehaald als: Regeling personeel veiligheidsregio’s.
 
-## Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+## Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement a. Functie adviseur gevaarlijke stoffen
 
@@ -124,7 +124,7 @@ Informeert en draagt advies voortvloeiend uit kerntaak 2 over aan alle betrokken
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement b. Functie bevelvoerder
 
@@ -182,7 +182,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 ### Werkzaamheden:
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement c. Functie brandweerduiker
 
@@ -232,7 +232,7 @@ De bevelvoerder geeft leiding aan de bemensing van een blusvoertuig en de bemens
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement d. Functie centralist meldkamer
 
@@ -282,7 +282,7 @@ Na afloop van het incident legt de centralist meldkamer de relevante informatie 
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement e. Functie chauffeur
 
@@ -320,7 +320,7 @@ De chauffeur ruimt, al dan niet samen met leden van zijn eenheid, de materialen 
 
 ### Werkzaamheden:
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 Heeft een goede fysieke en psychische conditie.
 
@@ -360,7 +360,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Vereiste competenties en niveaus van functioneren
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement g. Functie controleur brandpreventie
 
@@ -412,7 +412,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement h. Functie docent
 
@@ -460,7 +460,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Werkzaamheden:
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 Functie zoals genoemd in [artikel 2 lid 1 sub g Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
 
@@ -512,7 +512,7 @@ De duikploegleider is verantwoordelijk voor de nazorg van het ingezette personee
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 Functie zoals genoemd in [artikel 2 lid 1 sub h Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
 
@@ -562,7 +562,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement k. Functie hoofdofficier van dienst
 
@@ -604,7 +604,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Werkzaamheden:
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement l. Functie instructeur
 
@@ -652,7 +652,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Werkzaamheden:
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement m. Functie manager veiligheid
 
@@ -716,7 +716,7 @@ Treedt op als commandant ondersteuningspeloton:
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement n. Functie manschap
 
@@ -776,13 +776,13 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Werkzaamheden:
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement o
 
 ### Vereiste competenties en niveaus van functioneren
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement p. Functie medewerker brandpreventie
 
@@ -852,7 +852,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement q. Functie medewerker operationele voorbereiding
 
@@ -908,7 +908,7 @@ De manschap A voert met de overige leden van de blusploeg en onder leiding van d
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement r. Functie medewerker opleiden en oefenen
 
@@ -964,7 +964,7 @@ De medewerker brandpreventie adviseert bij standaard bouwvergunningen en niet-co
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement s. Functie meetplanleider
 
@@ -1032,7 +1032,7 @@ De manschap A voert met de overige leden van de blusploeg onder leiding van de b
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement t. Functie oefencoördinator
 
@@ -1096,7 +1096,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement u. Functie officier van dienst
 
@@ -1158,7 +1158,7 @@ De OvD maakt een analyse van het incident en de te verwachten incidentontwikkeli
 
 ### Werkzaamheden:
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement v. Functie operationeel manager
 
@@ -1302,7 +1302,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub s Besluit personeel veiligheidsreg
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij’ worden gelezen.
 
@@ -1354,7 +1354,7 @@ Dit brengt de volgende werkzaamheden met zich mee:
 
 Informeert en draagt advies voortvloeiend uit kerntaak 2 over aan hoofd stafsectie brandweer en AGS.
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement y. Functie specialist brandpreventie
 
@@ -1434,7 +1434,7 @@ Functie zoals genoemd in [artikel 2 lid 1 sub u Besluit personeel veiligheidsreg
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 De OVD stuurt brandweerprocessen aan bij basis en grootschalig monodisciplinair repressief optreden. Hij is eindverantwoordelijk voor de bestrijding van het incident bij basis monodisciplianir repressief optreden. Bij grootschalige incidenten is hij als pelotonscommandant verantwoordelijk voor de bestrijding van het incident in zijn pelotonsvak.
 
@@ -1548,7 +1548,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 De operationeel manager is verantwoordelijk voor de aanwending en besteding van middelen die door de naast hogere leidinggevende zijn gedelegeerd. Vanuit die verantwoordelijkheid is actieve procesbewaking van groot belang. Dit brengt de volgende werkzaamheden met zich mee:
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement bb. Functie specialist risico’s en veiligheid
 
@@ -1714,7 +1714,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement dd. Functie tactisch manager
 
@@ -1922,7 +1922,7 @@ In supplement gg is de competentiematrix uitgewerkt.
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement gg. uitwerking competentiematrix
 
@@ -2138,7 +2138,7 @@ Niveau 2:
 
 ### Vereiste competenties en niveaus van functioneren
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement hh. Leiderschapsprofiel
 
@@ -2186,7 +2186,7 @@ De verkenner gevaarlijke stoffen controleert na een inzet de inventaris van de W
 
 ### Werkzaamheden:
 
-### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement b. Functie directeur publieke gezondheid voor zover het de GHOR-taken betreft
 
@@ -2220,7 +2220,7 @@ De voertuigbediener draagt zorg voor het inzetgereed maken van het voertuig en n
 
 ### Werkzaamheden:
 
-### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement c. Functie hoofd acute gezondheidszorg
 
@@ -2252,7 +2252,7 @@ De voertuigbediener draagt zorg voor het inzetgereed maken van het voertuig en n
 
 ### Werkzaamheden:
 
-### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement d. Functie hoofd informatie geneeskundige zorg
 
@@ -2558,23 +2558,23 @@ Niveau: Op hoofdlijnen.
 
 Dit betreft competenties op vakgebieden die specifiek voor de brandweer zijn.
 
-### Supplement a. Functie calamiteitencoördinator meldkamer
+### Supplement a. Calamiteitencoördinator meldkamer
 
-Functie zoals genoemd in [artikel 2 lid 3 sub a Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Functie zoals genoemd in [artikel 2 lid 3, sub a van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2).
 
 **Effectief organiseren van het eigen werk door het plannen van doelstellingen, tijd en activiteiten; beschikbare tijd en energie richten op de hoofdzaken en acute problemen.**
 
-¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij» worden gelezen.
+Functienaam: calamiteitencoördinator meldkamer
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.
+Beschrijving van de functie: De calamiteitencoördinator meldkamer:
 
-### 2.1. Kerntaken
+### 2.1. Kerntaken en taakgebieden
 
-**Opstellen en bewaken van procedures om de voortgang van de taken en activiteiten van medewerkers en van de eigen taken en verantwoordelijkheden te bewaken en zeker te stellen.**
+De calamiteitencoördinator meldkamer wordt vooraf geraadpleegd en adviseert bij het (her)organiseren van de randvoorwaarden voor de grootschalige alarmering. De calamiteitencoördinator meldkamer is verantwoordelijk voor besluiten tot en het uitvoeren van de grootschalige alarmering.
 
-De calamiteitencoördinator geeft leiding aan de multidisciplinaire invulling van het gemeenschappelijke meldkamerproces binnen het meldkamerdomein. Een adequate en snelle opschaling en het borgen van de veiligheid van de hulpverleningsdiensten zijn hierbij belangrijke aandachtspunten.
+De calamiteitencoördinator meldkamer wordt vooraf geraadpleegd en adviseert bij het (her)definiëren van de te behalen prestaties binnen het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken. De calamiteitencoördinator meldkamer is verantwoordelijk voor het (opnieuw) organiseren van het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken. De calamiteitencoördinator is verantwoordelijk voor het verzamelen, verwerken, veredelen en verstrekken van feiten en gegevens.
 
-**Ideeën en meningen aan anderen duidelijk maken, gebruik makend van duidelijke taal. Ideeën en meningen duidelijk maken in een rapportage of document dat de juiste opzet heeft en structuur heeft, grammaticaal correct is en dat de juiste taal en terminologie voor de lezer bevat. Bijv. SitRaps, logboek.**
+De calamiteitencoördinator meldkamer wordt vooraf geraadpleegd en adviseert bij het (her)definiëren van de prestaties binnen operationele leiding, operatiën en informatie. De calamiteitencoördinator meldkamer is verantwoordelijk voor het (her) organiseren van de randvoorwaarden voor operationele leiding, operatiën en informatie. De calamiteitencoördinator meldkamer is verantwoordelijk voor het uitvoeren van operationele leiding, operatiën en informatie in de meldkamer.
 
 De calamiteitencoördinator geeft doelmatig sturing aan het verzamelen van relevante gegevens, het verwerken tot informatie en de deling van de informatie bij, alarmering en opschaling van de bestrijdingsorganisatie.
 
@@ -2582,11 +2582,11 @@ De calamiteitencoördinator geeft doelmatig sturing aan het verzamelen van relev
 
 ### G8:. Luisteren
 
-De competenties voor de functie calamiteitencoördinator meldkamer zijn te vinden in onderstaande tabel.
+Besluiten over opschaling op basis van onvolledige en/of tegenstrijdige (niet gevalideerde) informatie en beperkte tijd.
 
 ### G9:. Samenwerken
 
-**Bijdragen aan een gezamenlijk resultaat, ook wanneer de samenwerking niet direct van eigen belang is.**
+Besluiten op basis van huidige scenario binnen het totale overzicht met in ogenschouw mogelijk toekomstige scenario’s.
 
 ### Kerntaak 1:. Leiding geven aan het gemeenschappelijk meldkamerproces
 
@@ -2598,7 +2598,7 @@ De competenties voor de functie calamiteitencoördinator meldkamer zijn te vinde
 
 ### Werkzaamheden
 
-De calamiteitencoördinator geeft doeltreffend en doelmatig sturing aan het verzamelen van relevante gegevens, het verwerken tot informatie en de deling van de informatie bij, alarmering en opschaling van de bestrijdingsorganisatie conform de GRIP structuur. Dit brengt de volgende werkzaamheden met zich mee:
+Delen van informatie op basis van onvolledige en/of tegenstrijdige dan wel ongevalideerde informatie.
 
 ### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
 
@@ -2606,7 +2606,7 @@ De calamiteitencoördinator geeft doeltreffend en doelmatig sturing aan het verz
 
 ### G14:. Omgevingsbewustzijn
 
-**Laten blijken goed geïnformeerd te zijn over organisatorische, maatschappelijke en politieke ontwikkelingen of andere omgevingsfactoren en deze kennis effectief benutten voor de eigen functie en organisatie.**
+Aansturen van proces en niet van het personeel, zonder hiërarchische verhoudingen maar op basis van de eigen positie.
 
 ### 2.1. Kerntaken
 
@@ -2618,11 +2618,11 @@ De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdracht
 
 ### G17:. Energie
 
-**Gedurende een lange periode in hoge mate actief zijn wanneer de functie dat vraagt. Hard werken, uithoudingsvermogen tonen.**
+Blijft onder tijdsdruk, hoge werkdruk en bemoeilijkende omstandigheden adequaat functioneren (bijvoorbeeld tegenslag, teleurstelling).
 
 ### G18:. Discipline
 
-**Zich voegen naar het beleid en/of de procedures van de organisatie. Bij onduidelijkheid of veranderingen bevestiging zoeken bij de juiste autoriteit.**
+Brengt belangen, opinies en inbreng van diverse partijen samen. Geeft vorm aan en richting aan (uiteenlopende) samenwerkingsverbanden en realiseert een gemeenschappelijk resultaat.
 
 ### Organisatiecompetenties
 
@@ -2634,11 +2634,11 @@ De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdracht
 
 ### 3.1. Uitwerking kerntaken
 
-### Kerntaak 1:. Het voorbereiden op de uitvoering van de evaluatie-opdracht
+### Supplement b. Evaluator multidisciplinair oefenen
 
-**Kent de bestuurlijke en operationele omgeving en zijn positie daarin.**
+Functie zoals genoemd in [artikel 2 lid 3, sub b van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2).
 
-### V2:. Verantwoordelijkheden en bevoegdheden
+### 1.1 Algemene informatie
 
 ### Vereiste competenties en niveaus van functioneren
 
@@ -2648,19 +2648,19 @@ De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdracht
 
 ### V4:. Richtlijnen, protocollen en procedures
 
-### Vereiste competenties en niveaus van functioneren
+### 3.1. Uitwerking kerntaken
 
 ### Kerntaak 3:. Het geven van feedback
 
 ### Werkzaamheden
 
-De evaluator multidisciplinair oefenen analyseert zijn observaties, formuleert een oordeel hierover en doet aanbevelingen. Hij bespreekt dit met de deelnemers.
+Overdenkt en weegt vooraf de mogelijke effecten af die de schriftelijke evaluatie met zich meebrengt.
 
-### Vereiste competenties en niveaus van functioneren
+### 4.1. Competenties
 
 ### Kerntaak 4:. Het uitvoeren van een schriftelijke evaluatie
 
-Niveau: 1
+Niveau D: kwaliteit bewaken
 
 ### 1.1. Algemene informatie
 
@@ -2672,25 +2672,25 @@ Niveau: 1
 
 ### 2.2. Competentiematrix
 
-Niveau: 7
+Niveau C: bewust zijn van
 
 ### Supplement c. Functie informatiemanager commando plaats incident
 
 ### Niveauduiding organisatie/proces competenties
 
+### Supplement c. Informatiemanager commando plaats incident (CoPI)
+
+Functie zoals genoemd in [artikel 2 lid 3, sub c van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2).
+
 ### 1.1. Algemene informatie
-
-In supplement l. zijn de niveaus van aansturing uitgewerkt.
-
-### 2.1. Kerntaak
 
 ### Kerntaak 1:. Zorg dragen voor het informatieproces in het COPI
 
 ### Bijlage B, behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2010-10-01&g=2010-10-01) Regeling personeel veiligheidsregio’s
 
-### 2.2. Competenties
+### 2.1. Overzicht kerntaken
 
-Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
+De informatiemanager CoPI wordt vooraf geraadpleegd en adviseert aan de leider CoPI bij het (her)definiëren van de te behalen prestaties binnen het proces in de gehele informatielijn om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers; Indien de informatiemanager ROT de regie op het informatieproces op zich heeft genomen, wordt de informatiemanager CoPI alleen vooraf geraadpleegd en adviseert hij over het proces in het CoPI. De informatiemanager CoPI is verantwoordelijk voor het (opnieuw) organiseren van het proces in de gehele informatielijn om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers; Indien de informatiemanager ROT de regie op het informatieproces op zich heeft genomen, is de informatiemanager CoPI alleen verantwoordelijk voor het proces in het CoPI. De informatiemanager CoPI is verantwoordelijk voor het verzamelen, verwerken, veredelen en beschikbaar stellen van feiten en gegevens binnen de crisisstructuur.
 
 ### 1.1. Algemene informatie
 
@@ -2704,7 +2704,7 @@ Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de c
 
 ### 2.2. Competentiematrix
 
-In supplement k is de competentiematrix uitgewerkt.
+Bewust zijn van de mogelijke risico’s die het detailniveau waarop het totaalbeeld wordt geschetst met zich meebrengt. Een afweging maken in de verkregen informatie en het beschikbaar stellen van informatie voor het totaalbeeld. De waarde van de informatie is naast de bruikbaarheid ook afhankelijk van de actor en de tijd.
 
 ### Supplement d. Functie informatiemanager regionaal operationeel team
 
@@ -2712,7 +2712,7 @@ In supplement k is de competentiematrix uitgewerkt.
 
 ### 1.1. Algemene informatie
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.
+Overdenken en vooraf afwegen welk besluit genomen moet worden in het licht van de mogelijke effecten van informatiespreiding.
 
 ### 2.1. Kerntaken
 
@@ -2722,15 +2722,15 @@ In supplement l. zijn de niveaus van aansturing uitgewerkt.
 
 ### Kerntaak 2:. Leiding geven aan de sectie informatiemanagement in het ROT
 
-De informatiemanager ROT geeft leiding en invulling aan de sectie informatiemanagement..
+Omgaan met het mogelijk niet als volwaardig lid van het team gezien worden en daarbij toch rolvast weten te blijven.
 
 ### Kerntaak 3:. Optreden als adviseur in het informatieproces
 
 ### Supplement e. Functie hoofd sectie GHOR
 
-Functie zoals genoemd in [artikel 2 lid 2 sub e Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Omgaan met de verschillende belangen tussen de betrokken partijen en daarbij omgaan met eventuele weerstand.
 
-### Kerntaak 1:. Leiding geven aan het gemeenschappelijk meldkamerproces
+### 4.1. Competenties
 
 ### Werkzaamheden
 
@@ -2742,7 +2742,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub e Besluit personeel veiligheidsreg
 
 ### Werkzaamheden
 
-De informatiemanager ROT zorgt voor het verzamelen, analyseren en beoordelen van informatie ten behoeve van het totaalbeeld van de ramp of crisis. Daarnaast is hij verantwoordelijk voor het beschikbaar houden van een actueel totaalbeeld tijdens een ramp of crisis.
+Niveau B: langdurig en effectief
 
 ### Supplement b. Functie evaluator multidisciplinair oefenen
 
@@ -2750,9 +2750,9 @@ De informatiemanager ROT zorgt voor het verzamelen, analyseren en beoordelen van
 
 ### Werkzaamheden
 
-De informatiemanager ROT geeft leiding en invulling aan de multidisciplinaire sectie informatiemanagement in het ROT. Dit brengt de volgende werkzaamheden met zich mee:
+Niveau B: woordenschat en bondig
 
-### Kerntaak 3:. Optreden als adviseur in het informatieproces
+### Supplement d. Informatiemanager regionaal operationeel team
 
 ### Werkzaamheden
 
@@ -2768,13 +2768,13 @@ Functie zoals genoemd in [artikel 2 lid 3 sub e Besluit personeel veiligheidsreg
 
 ### Supplement f. Functie leider kernteam psychosociale hulpverlening
 
-Functie zoals genoemd in [artikel 2 lid 2 sub f Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+De informatiemanager ROT is eindverantwoordelijk voor het verzamelen, verwerken, veredelen en beschikbaar stellen van feiten en gegevens binnen de crisisstructuur.
 
 ### Kerntaak 1:. Leidinggeven aan het COPI
 
 ### 2.1. Kerntaken
 
-### Kerntaak 2:. Adviseren en informeren van het lokale bestuur (GRIP 1)/de regionaal operationeel leider (GRIP 2 en hoger)
+### 3.1. Uitwerking kerntaken
 
 ### Kerntaak 1:. Het voorbereiden op de uitvoering van de evaluatie-opdracht
 
@@ -2786,7 +2786,7 @@ Functie zoals genoemd in [artikel 2 lid 2 sub f Besluit personeel veiligheidsreg
 
 ### Kerntaak 2:. Het observeren van teamgedrag en -prestaties (inhoud, proces en resultaat)
 
-In supplement k is de competentiematrix uitgewerkt.
+De informatiemanager ROT ondersteunt de regionaal operationeel leider bij het (her)definiëren van de te behalen prestaties bij het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
 
 ### Kerntaak 1:. Leidinggeven aan het COPI
 
@@ -2794,7 +2794,7 @@ In supplement k is de competentiematrix uitgewerkt.
 
 ### Kerntaak 3:. Het geven van feedback
 
-Geeft namens de RGF leiding op tactisch niveau aan de psychosociale hulpverlening
+Op de juiste momenten blijven overtuigen en accepteren dat je advies niet wordt overgenomen.
 
 ### Werkzaamheden
 
@@ -2808,17 +2808,17 @@ Geeft namens de RGF leiding op tactisch niveau aan de psychosociale hulpverlenin
 
 ### Vereiste competenties en niveaus van functioneren
 
-### 1.1. Algemene informatie
+### 4.1. Competenties
 
 ### 2.1. Kerntaken
 
-De evaluator multidisciplinair oefenen evalueert de klanttevredenheid van de opdrachtgever en de deelnemer.
+Niveau B: relaties leggen
 
 ### Vereiste competenties en niveaus van functioneren
 
 ### Supplement c. Functie informatiemanager commando plaats incident
 
-Functie zoals genoemd in [artikel 2 lid 3 sub c Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Verricht werkzaamheden met een grote mate van accuratesse
 
 ### 1.1. Algemene informatie
 
@@ -2830,11 +2830,11 @@ Functie zoals genoemd in [artikel 2 lid 3 sub c Besluit personeel veiligheidsreg
 
 ### Kerntaak 3:. Afstemmen en samenwerken met de andere diensten ter plaatse.
 
-### 2.2. Competenties
+### Supplement e. functie leider commando plaats incident
 
-Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
+Functie zoals genoemd in [artikel 2 lid 3, sub e van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2).
 
-### 3.1. Uitwerking kerntaken
+### 1.1. Algemene informatie
 
 ### Kerntaak 1:. Leiding geven aan en coördineren van het psychosociaal opvangteam
 
@@ -2854,13 +2854,13 @@ Directe leiding en uitvoeringscoördinatie van het psychosociaal opvangteam:
 
 ### Werkzaamheden
 
-De PMO vertaalt het vastgestelde (meerjaren)beleid in effectieve multidisciplinaire OTO activiteiten. Het team dat zorgt voor voorbereiding, uitvoering en evaluatie, ontwikkelt deze activiteiten onder zijn verantwoordelijke leiding. Daarbij houdt de PMO rekening met leerbehoefte(n), ontwikkelnoodzaak en leervoorkeur(en). In overleg met multidisciplinaire partners zorgt de PMO dat deze activiteiten worden uitgevoerd. De PMO draagt er zorg voor dat de deelnemers aan én begeleiders van de multidisciplinaire OTO-activiteiten, zijn of worden geïnstrueerd. Onder zijn verantwoordelijkheid vindt observatie en evaluatie van de activiteiten plaats. Indien nodig geeft de PMO zelf tussentijds feedback.
+De leider CoPI is eindverantwoordelijk voor het (opnieuw) organiseren van het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
 
 ### Vereiste competenties en niveaus van functioneren
 
 ### Kerntaak 3:. Borgen van de kwaliteit van multidisciplinaire OTO activiteiten
 
-### Werkzaamheden
+### 3.1. Uitwerking kerntaken
 
 ### Kerntaak 2:. Leiding geven aan de sectie informatiemanagement in het ROT
 
@@ -2868,7 +2868,7 @@ De PMO vertaalt het vastgestelde (meerjaren)beleid in effectieve multidisciplina
 
 ### Kerntaak 4:. Het leren van multidisciplinaire OTO activiteiten door de cyclische inzet van evaluaties
 
-De informatiemanager ROT geeft gevraagd en ongevraagd advies aan de regionaal operationeel leider vanuit het informatieproces.
+Onafhankelijk en rolvast blijven uitvoeren van taken, ondanks tijdsdruk, onzekerheid en urgentie, kolom overstijgend.
 
 ### 2.2. Competenties
 
@@ -2876,37 +2876,37 @@ De informatiemanager ROT geeft gevraagd en ongevraagd advies aan de regionaal op
 
 ### Vereiste competenties en niveaus van functioneren
 
-In supplement j. is het competentieoverzicht uitgewerkt.
+De leider CoPI is verantwoordelijk voor het (her)definiëren van de te behalen prestaties bij het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
 
 ### Werkzaamheden
 
 ### Kerntaak 1:. Sturing geven aan het regionale informatieproces
 
-Afstemmen van de multidisciplinaire samenwerking in het motorkapoverleg of in het CoPI:
+Besluiten met voldoende mate van kennis van functionele partners; op basis van hun incident- en gevolgbestrijding.
 
 ### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
 
 ### Supplement g. Functie regionaal operationeel leider
 
-Functie zoals genoemd in [artikel 2 lid 3 sub g Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+De leider CoPI is eindverantwoordelijk voor het verzamelen, verwerken, veredelen en verstrekken van feiten en gegevens aan de juiste afnemers.
 
 ### 1.1. Algemene informatie
 
 ### Supplement i. Functie operationeel directeur GHOR
 
-Functie zoals genoemd in [artikel 2 lid 2 sub i Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Zorgen voor communicatie op basis van het maatschappelijke beeld over de risicovolle situatie in de media en maatschappij.
 
 ### Kerntaak 1:. Leiding geven aan het ROT
 
 ### 2.1. Kerntaken
 
-### Kerntaak 2:. Adviseren en informeren aan/van het beleidsteam
+### 4.1. Competenties
 
 ### Supplement e. Functie leider commando plaats incident
 
 ### 2.2. Competenties
 
-Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
+Blijft onder tijdsdruk, hoge werkdruk en bemoeilijkende omstandigheden adequaat functioneren (bijvoorbeeld tegenslag, teleurstelling).
 
 ### 3.1. Uitwerking kerntaken
 
@@ -2914,15 +2914,15 @@ Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de c
 
 ### 3.1. Uitwerking kerntaken
 
-De leider commando plaats incident (COPI), geeft leiding aan de multidisciplinaire samenwerking in het COPI. Hij is verantwoordelijk voor het multidisciplinair aanpakken van de gevolgen van het incident.
+Brengt belangen, opinies en inbreng van diverse partijen samen. Geeft vorm aan en richting aan (uiteenlopende) samenwerkingsverbanden en realiseert een gemeenschappelijk resultaat.
 
 ### Werkzaamheden
 
 ### Werkzaamheden
 
-Neemt als adviseur deel aan het GBT/RBT:
+Niveau C: afwegen
 
-### Werkzaamheden
+### Supplement f. functie procesmanager multidisciplinair oefenen (PMO)
 
 ### Supplement j. Functie operationeel medewerker actiecentrum GHOR
 
@@ -2932,77 +2932,77 @@ In supplement j. is het competentieoverzicht uitgewerkt.
 
 ### Kerntaak 1:. Leidinggeven aan het COPI
 
-### 1.1. Algemene informatie
+### 2.1. Overzicht kerntaken
 
 ### Kerntaak 2:. Rapporteren en adviseren.
 
 ### 2.1. Kerntaken
 
-In supplement k is de competentiematrix uitgewerkt.
+De Procesmanager is verantwoordelijk voor het organiseren van de randvoorwaarden voor de evaluatie van de multidisciplinaire oefening.
 
 ### 3.1. Uitwerking kerntaken en beoordelingscriteria
 
 ### Kerntaak 2:. Informatie delen
 
-### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2017-12-01&g=2017-12-01) Regeling personeel veiligheidsregio’s
+### 3.1. Uitwerking kerntaken
 
-Geeft binnen het Ac uitvoering aan de opdrachten van het HAc m.b.t. de logistieke en facilitaire ondersteuning van de drie GHOR-processen, bestaande uit (o.a.):
+De Procesmanager Multidisciplinair Oefenen is verantwoordelijk voor het uitvoeren van de multidisciplinaire OTO-activiteit.
 
 ### Kerntaak 2:. Rapporteren en adviseren
 
 ### 1.1. Algemene informatie
 
-In supplement j. is het competentieoverzicht uitgewerkt.
+Het leggen van de focus bij oefenactiviteiten op de inhoudelijke aspecten ervan, alsook op het laten functioneren van de organisatie ervan, het hebben van overzicht en het zo nodig bijsturen.
 
 ### 3.1. Uitwerking kerntaken
 
 ### Kerntaak 1:. Informeren van media
 
-De PMO zorgt voor de afstemming van het (meerjaren)beleid en het jaarplan ‘Oefenen» met de regionale en landelijke richtlijnen. Ook stemt hij het beleid en het plan af op de mono-disciplinaire oefenplannen van andere diensten en de behoeften van zowel de eigen organisatie als die van de partners.
+De Procesmanager Multidisciplinair Oefenen is eindverantwoordelijk voor het uitvoeren van de evaluatie van de multidisciplinaire oefening.
 
-De voorlichtingsfunctionaris commando plaats incident (COPI) heeft als primaire taak het informeren van de media en het geven van sturing aan het totale proces voorlichting bij het plaats incident. Dit brengt de volgende werkzaamheden met zich mee:
+Integer rapporteren over zowel positieve als negatieve prestaties van geoefenden binnen de oefening.
 
-De PMO vertaalt het vastgestelde (meerjaren)beleid in effectieve multidisciplinaire OTO activiteiten. Het team dat zorgt voor voorbereiding, uitvoering en evaluatie, ontwikkelt deze activiteiten onder zijn verantwoordelijke leiding. Daarbij houdt de PMO rekening met leerbehoefte(n), ontwikkelnoodzaak en leervoorkeur(en). In overleg met multidisciplinaire partners zorgt de PMO dat deze activiteiten worden uitgevoerd. De PMO draagt er zorg voor dat de deelnemers aan én begeleiders van de multidisciplinaire OTO- activiteiten, zijn of worden geïnstrueerd. Onder zijn verantwoordelijkheid vindt observatie en evaluatie van de activiteiten plaats. Indien nodig geeft de PMO zelf tussentijds feedback.
+De mogelijke effecten die de schriftelijke rapportage met zich meebrengt vooraf overdenken en afwegen.
 
-**Vaktechnische competenties:** hierbij zijn zes competenties benoemd en uitgewerkt.
+De inhoudelijke beoordelingscapaciteit van de evaluator over de inhoud van de opdracht overdenken en afwegen.
 
-Het doeltreffend en doelmatig verzamelen van informatie en die delen binnen het COPI en met de voorlichter ROT bij melding en opschaling conform de GRIP structuur. Dit brengt de volgende werkzaamheden met zich mee:
+De Procesmanager Multidisciplinair Oefenen wordt vooraf geraadpleegd en adviseert het afdelings-/bureauhoofd bij het organiseren van de randvoorwaarden voor het uitvoeren van het multidisciplinaire OTO-beleid.
 
-**Gedragscompetenties:** uit de achttien omschreven gedragscompetenties worden er per functie maximaal acht toegewezen in volgorde van belangrijkheid (1 t/m 8).
+Afweging maken tussen strategische ambities en de operationele haalbaarheid in de multidisciplinaire OTO-planning.
 
 De PMO evalueert op cyclische basis, systematisch de kwaliteit van de multidisciplinaire OTO activiteiten, alsmede het professionele functioneren van de betrokken partijen. Evaluatie geschiedt, aan de hand van de vooraf gestelde criteria, in samenspraak met alle relevante betrokken partijen uit de veiligheidsregio. Daarbij stimuleert de PMO de betrokkenen tot reflectie op het eigen handelen.
 
-Functie zoals genoemd in [artikel 2 lid 3 sub i Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Signaleert problemen; herkent belangrijke informatie; legt verbanden tussen gegevens. Spoort mogelijke oorzaken van problemen op; zoekt terzake doende gegevens.
 
 ### 1.1. Algemene informatie
 
 ### G1:. Leidinggeven
 
-In supplement k. is deze competentiematrix uitgewerkt.
+Niveau B: regionaal
 
 ### Kerntaak 1:. Het adviseren van het ROT over alle aspecten van voorlichting
 
-De voorlichtingsfunctionaris ROT is verantwoordelijk voor een adequate en volledige communicatie met én advisering aan het ROT. Hij adviseert en informeert het ROT, waarmee dit team besluiten kan nemen op het operationeel niveau.
+Niveau B: afstemmen
 
 ### Kerntaak 2:. Sturing geven aan het communicatieproces
 
-De voorlichtingsfunctionaris ROT geeft sturing aan het totale proces voorlichting. Hij draagt zorg voor een goedlopend voorlichtingsproces. Hij zorgt voor tijdige en kwalitatief hoogwaardige adviezen.
+inzet van de leden ten behoeve van het groepsdoel, desnoods ten koste van eigen korte termijn
 
 ### 2.2. Competenties
 
-Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
+Niveau B: zorgdragen voor cohesie
 
 ### Kerntaak 2:. Het ontwikkelen, organiseren en uitvoeren van multidisciplinaire OTO activiteiten
 
-In supplement j. is het competentieoverzicht uitgewerkt.
+Niveau B: formuleert resultaten
 
-### 3.1. Uitwerking kerntaken
+### Supplement g. functie regionaal operationeel leider
 
-**Ideeën en meningen aan anderen duidelijk maken, gebruik makend van duidelijke taal. Ideeën en meningen duidelijk maken in een rapportage of document dat de juiste opzet heeft en structuur heeft, grammaticaal correct is en dat de juiste taal en terminologie voor de lezer bevat. Bijv. SitRaps, logboek.**
+Functie zoals genoemd in [artikel 2 lid 3, sub g van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2).
 
-### Werkzaamheden
+### 1.1. Algemene informatie
 
-De voorlichtingsfunctionaris ROT is verantwoordelijk voor een adequate en volledige communicatie met en advisering aan het ROT. Hij adviseert en informeert het ROT, waarmee dit team besluiten kan nemen op operationeel niveau. Dit brengt de volgende werkzaamheden met zich mee:
+Functienaam: regionaal operationeel leider
 
 ### Kerntaak 2:. Sturing geven aan het communicatieproces
 
@@ -3010,73 +3010,73 @@ De voorlichtingsfunctionaris ROT is verantwoordelijk voor een adequate en volled
 
 ### Kerntaak 4:. Het leren van multidisciplinaire OTO activiteiten door de cyclische inzet van evaluaties
 
-**Bijdragen aan een gezamenlijk resultaat, ook wanneer de samenwerking niet direct van eigen belang is.**
+De regionaal operationeel leider is verantwoordelijk voor het organiseren van de randvoorwaarden binnen de algemene operationele leiding. De regionaal operationeel leider is verantwoordelijk voor het uitvoeren van algemene operationele leiding (binnen het ROT en onderliggende diensten).
 
 ### Supplement j. Uitwerking competentieoverzicht
 
-Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt:
+De regionaal operationeel leider is verantwoordelijk voor het (her)definiëren van de te behalen prestaties binnen het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers. De regionaal operationeel leider is eindverantwoordelijk voor het (opnieuw) organiseren van het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
 
 ### Vereiste competenties en niveaus van functioneren
 
-**Gegevens en mogelijke alternatieve handelswijzen in het licht van relevante criteria tegen elkaar afwegen en tot realistische beoordelingen komen.**
+De regionaal operationeel leider is verantwoordelijk voor het adviseren van het bevoegd gezag bij niet opgeschaalde (of dreiging van) incidenten met een bepaalde uitstraling of effecten.
 
-### Werkzaamheden
+### 3.1. Uitwerking kerntaken
 
-De PMO is verantwoordelijk voor het verzorgen van communicatie en public relations (PR) aangaande de ontwikkeling, voorbereiding en uitvoering van de multidisciplinaire OTO activiteiten. Daartoe stelt hij een communicatiebeleidsplan op. Hij draagt er zorg voor dat alle betrokkenen binnen de veiligheidsregio tijdig en juist zijn geïnformeerd. Zijn inzet is er tevens op gericht relevante partners in de veiligheidsregio te overtuigen van het nut en de noodzaak van de multidisciplinaire OTO activiteiten. Mede doordat hij zijn contacten met relevante betrokkenen zorgvuldig onderhoudt, creëert de PMO draagvlak voor de multidisciplinaire OTO activiteiten. De uitkomsten van evaluatie van ontwikkelde en uitgevoerde activiteiten koppelt de PMO terug aan alle relevante betrokkenen en het Management Team (MT). Hij legt zowel mondeling als schriftelijk verantwoording af over de verrichte werkzaamheden en behaalde resultaten.
+De regionaal operationeel leider is verantwoordelijk voor het (her)organiseren van de randvoorwaarden binnen de algemene operationele leiding.
 
 ### Vereiste competenties en niveaus van functioneren
 
-**Onderkennen van invloed en gevolgen van eigen beslissingen of activiteiten op andere onderdelen van de organisatie; onderkennen van belangen van andere onderdelen van de organisatie.**
+Afwegen en beslissen op basis van (conflicterende) belangen.
 
 ### Supplement g. Functie regionaal operationeel leider
 
-Functie zoals genoemd in [artikel 2 lid 3 sub g Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Afwegen of besluit aan bevoegd gezag moet worden voorgelegd, op basis van belangen van het bevoegd gezag.
 
 ### 1.1. Algemene informatie
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.
+De regionaal operationeel leider is eindverantwoordelijk voor het (opnieuw) organiseren van de randvoorwaarden voor het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
 
 ### 2.1. Kerntaken
 
-**Effectief blijven presteren onder tijdsdruk, bij tegenslag en onder extreme fysieke en psychische omstandigheden.**
+Besluiten met voldoende mate van kennis van functionele partners; op basis van hun incident- en gevolgbestrijding.
 
 ### G17:. Energie
 
-**Gedurende een lange periode in hoge mate actief zijn wanneer de functie dat vraagt. Hard werken, uithoudingsvermogen tonen.**
+De regionaal operationeel leider is eindverantwoordelijk voor het (opnieuw) organiseren van het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
 
 ### G18:. Discipline
 
-**Zich voegen naar het beleid en/of de procedures van de organisatie. Bij onduidelijkheid of veranderingen bevestiging zoeken bij de juiste autoriteit.**
+De regionaal operationeel leider is eindverantwoordelijk voor het (opnieuw) organiseren van de randvoorwaarden voor het realiseren van de crisiscommunicatie.
 
 ### Organisatiecompetenties
 
-De competenties voor de functie regionaal operationeel leider zijn te vinden in onderstaande tabel.
+Zorgen voor communicatie op basis van het onjuiste beeld over de crisisorganisatie in de media en maatschappij.
 
-**Op inspirerende wijze richting geven. Tonen van voorbeeldgedrag. Delegeren. Randvoorwaarden scheppen en mensen motiveren zodat resultaten bereikt worden. Charisma.**
+Zorgen voor communicatie ondanks de positie en snelheid van (sociale) media.
 
-**O3: De actuele organisatiestructuur en primaire processen en procedures van de GHOR-ketenorganisaties.**
+De regionaal operationeel leider is verantwoordelijk voor het adviseren van het bevoegd gezag bij niet opgeschaalde (of dreiging van) incidenten met een bepaalde uitstraling of effecten.
 
 ### Kerntaak 1:. Leiding geven aan het ROT
 
-### Oordelen
+### 4.1. Competenties
 
-**Op basis van beschikbare informatie en ervaring en met inachtneming van de heersende waarden en normen tot een mening komen die als geldig erkend wordt.**
+Signaleert problemen; herkent belangrijke informatie; legt verbanden tussen gegevens. Spoort mogelijke oorzaken van problemen op; zoekt terzake doende gegevens.
 
 ### Overtuigingskracht
 
-**Het verkrijgen van instemming en enthousiasme voor bepaalde doelen, plannen of ideeën zodat deze worden geaccepteerd of gedragen.**
+Blijft onder tijdsdruk, hoge werkdruk en bemoeilijkende omstandigheden adequaat functioneren (bijvoorbeeld tegenslag, teleurstelling).
 
 ### Plannen, organiseren en coördineren
 
-**Vanuit een vastgesteld doel bepalen welke taken/activiteiten georganiseerd en gepland moeten worden en daar naar handelen. Bepalen van prioriteiten en aangeven van een volgorde van werkzaamheden.**
+Geeft situationeel sturing aan een individuele medewerker en/of een groep in het kader van de taakvervulling.
 
 ### Politiek-bestuurlijk inzicht
 
-**Anticiperen op en onderkennen van de relevantie van gebeurtenissen die van invloed zijn op de positionering van de brandweer en rampenbestrijdingsorganisatie in de politiek-bestuurlijke context.**
+Selecteert één te volgen verantwoorde strategie voor zichzelf (en anderen), ondanks onvolledigheid in kennis van alternatieven en van hun risico's.
 
 ### Probleemanalyse
 
-**Signaleren van problemen, herkennen van belangrijke informatie; verbanden leggen tussen gegevens. Opsporen van mogelijke oorzaken van problemen; zoeken naar ter zake doende gegevens.**
+Is zich bewust van maatschappelijke en politieke ontwikkelingen of andere omgevingsfactoren. Speelt in op deze ontwikkelingen en vertaalt deze naar het eigen werkgebied.
 
 ### Samenwerken
 
@@ -3086,51 +3086,51 @@ De competenties voor de functie regionaal operationeel leider zijn te vinden in 
 
 **Kalm, objectief en effectief blijven functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel. Om kunnen gaan met weerstanden.**
 
-Het doeltreffend en doelmatig verzamelen van informatie en die delen binnen het COPI en met de voorlichter ROT bij melding en opschaling conform de GRIP structuur.
+Functienaam: Functionaris crisiscommunicatie commando plaats incident/communicatieadviseur CoPI
 
-**Op inspirerende wijze richting geven aan het proces. Randvoorwaarden scheppen en mensen motiveren zodat resultaten bereikt worden.**
+Beschrijving van de functie: De functionaris crisiscommunicatie commando plaats incident/
 
-Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
+De communicatieadviseur CoPI:
 
 De competenties voor de functie voorlichtingsfunctionaris commando plaats incident zijn te vinden in onderstaande tabel.
 
-Voor het competentieprofiel is een kader ontwikkeld dat de volgende competenties onderscheidt:
+De communicatieadviseur CoPI handelt op basis van de kaders (strategie en doelstellingen) en mandaten waarbinnen de communicatie-operatie plaatsvindt (informatievoorziening, schadebeperking, betekenisgeving). Stemt hierover af met leider CoPI en andere partners.
 
-**Kerncompetenties:** bij de functieomschrijving de verschillende kerncompetenties beschreven, van gedragsvoorbeelden voorzien en vervolgens gekoppeld aan niveauduiding. Deze niveauduiding is opgedeeld in het niveau aangaande de strategische/organisatorische competenties en het niveau aangaande de sociaal, maatschappelijke en communicatieve competenties.
+De communicatieadviseur CoPI informeert publiek en pers over feiten, omstandigheden, te voorziene ontwikkelingen en aandachtspunten.
 
-**Strategische/organisatorische competenties:** dit betreft de verschillende competenties die met name betrekking hebben op het geven van richting aan organisatie(onderdeel) (visie, strategievorming) en de inrichting van het werk (de interne organisatie). Deze competenties zijn vervolgens gekoppeld aan een niveauduiding
+De communicatieadviseur CoPI draagt bij aan het omgevingsbeeld en rapporteert over communicatiefeiten en -gebeurtenissen, aard, toon en ervaring met publiek en media.
 
-### Werkzaamheden
+### 3.1. Uitwerking kerntaken
 
-De voorlichtingsfunctionaris commando plaats incident (COPI) heeft als primaire taak het informeren van de media en het geven van sturing aan het totale proces voorlichting bij het plaats incident. Dit brengt de volgende werkzaamheden met zich mee:
+De communicatieadviseur CoPI:
 
 Is en houdt zich op de hoogte van de beleidsontwikkelingen m.b.t. de rampenorganisaties en inhoudelijke processen en procedures. Kent de relevante sleutelfiguren in het beleids- en uitvoeringsveld.
 
-**Zorgvuldig en stipt handelen, gericht op het voorkómen van fouten. Nauwkeurig uitvoeren van activiteiten.**
+Selecteert één te volgen verantwoorde strategie voor zichzelf (en anderen), ondanks onvolledigheid in kennis van alternatieven en van hun risico's.
 
-Niveau 1
+Niveau C (afwegen)
 
-Niveau 2:
+Overtuigt anderen van een bepaald standpunt om instemming te krijgen met bepaalde plannen, ideeën of producten.
 
-Niveau 3:
+Niveau C (acceptatie bereiken)
 
 ### Samenwerken
 
-**Zich inzetten om met anderen resultaten te bereiken en daarmee bijdragen aan een gezamenlijk doel. Denken en handelen vanuit gemeenschappelijke belangen.**
+Niveau C (terugkoppelen)
 
-Niveau 1
+Verricht zonder hulp van anderen taken, probeert op eigen kracht probleemsituaties de baas te worden. Handelt volgens eigen overtuiging, onafhankelijk van anderen.
 
-Niveau 2:
+Niveau B (proberen)
 
 ## Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2010-10-01&g=2010-10-01) Regeling personeel veiligheidsregio’s
 
 ### Stressbestendig
 
-**Kalm, objectief en effectief blijven functioneren bij tijdsdruk, tegenslag, teleurstelling of tegenspel. Om kunnen gaan met weerstanden.**
+De volgende competenties worden als aanwezig verondersteld:
 
-### 1.1. Algemene informatie
+### Supplement i. Functionaris crisiscommunicatie regionaal operationeel team/communicatieadviseur ROT
 
-Niveau 2
+Functie zoals genoemd in [artikel 2 lid 3, sub i van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2).
 
 Niveau 3
 
@@ -3138,39 +3138,39 @@ Niveau 3
 
 ### Kerntaak 1:. Leidinggeven aan het gemeenschappelijk meldkamerproces
 
-De calamiteitencoördinator geeft leiding aan de multidisciplinaire invulling van het gemeenschappelijke meldkamerproces binnen het meldkamerdomein. Een adequate en snelle opschaling en het borgen van de veiligheid van de hulpverleningsdiensten zijn hierbij belangrijke aandachtspunten.
+De communicatieadviseur ROT:
 
-### Kerntaak 1:. Het adviseren van het ROT over alle aspecten van voorlichting
+### 2.1. Kerntaken en taakgebieden
 
-Niveau 1
+De communicatieadviseur ROT deelt informatie over het omgevingsbeeld en meldt welke communicatieactiviteiten in voorbereiding zijn en op welke van de communicatiedoelstellingen het accent ligt.
 
 ### 2.2. Competenties
 
-Niveau 3:
+De communicatieadviseur ROT deelt informatie, besluiten en inzetopdrachten binnen het ROT en analyseert welke informatie relevant is voor het communicatieproces.
 
-De competenties voor de functie calamiteitencoördinator meldkamer zijn te vinden in onderstaande tabel.
+De communicatieadviseur ROT deelt en bespreekt informatie, besluiten en opdrachten van het ROT met het hoofd crisiscommunicatie.
 
 **Creëren van nieuwe en originele ideeën, werkwijzen en toepassingen door het combineren van formele en informele informatie, bestaande en nieuwe oplossingen/aanpakken.**
 
-### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2017-12-01&g=2017-12-01) Regeling personeel veiligheidsregio’s
+### 4.1. Competenties
 
 ### Supplement j. Uitwerking competentieoverzicht
 
 ### Werkzaamheden
 
-**Kerncompetenties:** hierbij zijn de verschillende kerncompetenties omschreven en van gedragsvoorbeelden voorzien.
+Overtuigt anderen van een bepaald standpunt om instemming te krijgen met bepaalde plannen, ideeën of producten.
 
 ### Kerncompetenties
 
 ### Werkzaamheden
 
-Niveau 2
+Niveau B (relaties leggen)
 
 ### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2010-10-01&g=2010-10-01) Regeling personeel veiligheidsregio’s
 
 ### Leren en reflecteren
 
-**Terugkijken op het eigen functioneren en het gedrag daaraan aanpassen of ondernemen van ontwikkelacties om tot verbetering van eigen functioneren en vaardigheden te komen. Je kwetsbaar durven opstellen en fouten durven maken. Actief werken aan zelfontwikkeling.**
+Verricht zonder hulp van anderen taken, probeert op eigen kracht probleemsituaties de baas te worden. Handelt volgens eigen overtuiging, onafhankelijk van anderen.
 
 ### Analyseren
 
@@ -4234,7 +4234,7 @@ Afstemming binnen de eigen organisatie inzake concrete projecten en de hierover 
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 Functie zoals genoemd in [artikel 2 lid 1 sub aa. Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
 
@@ -4312,7 +4312,7 @@ Voor de tactisch manager binnen de brandweer is het opbouwen en onderhouden van 
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 Functie zoals genoemd in [artikel 2 lid 1 sub ee Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
 
@@ -4336,7 +4336,7 @@ In supplement gg is de competentiematrix uitgewerkt
 
 ### Beoordelingscriteria
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Beoordelingscriteria
 
@@ -4584,7 +4584,7 @@ Niveau 2:
 
 ### Werkzaamheden:
 
-### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### 1.1. Algemene informatie
 
@@ -4598,7 +4598,7 @@ Niveau 2:
 
 ### Werkzaamheden:
 
-### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Supplement g. Functie officier van dienst geneeskundig
 
@@ -4732,191 +4732,191 @@ Niveau: Op gemiddeld niveau.
 
 ### G6:. Mondelinge/schriftelijke communicatie
 
-### G7:. Overtuigingskracht
+### 3.1. Uitwerking kerntaken
 
-**Gebruikmakend van de juiste stijl en methode proberen anderen te overtuigen van een bepaald standpunt en trachten instemming te verkrijgen met bepaalde plannen, ideeën of activiteiten.**
+De calamiteitencoördinator meldkamer wordt vooraf geraadpleegd en adviseert bij het (her)organiseren van de randvoorwaarden voor de grootschalige alarmering.
 
-**Signaleren van problemen, herkennen van belangrijke informatie; verbanden leggen tussen gegevens. Opsporen van mogelijke oorzaken van problemen; zoeken naar ter zake doende gegevens.**
+De calamiteitencoördinator meldkamer wordt vooraf geraadpleegd en adviseert bij het (her)definiëren van de te behalen prestaties binnen het proces om feiten en gegevens te verzamelen, verwerken, veredelen en beschikbaar te stellen.
 
-**Gegevens en mogelijke alternatieve handelwijzen in het licht van relevante criteria tegen elkaar afwegen en tot realistische beoordelingen komen.**
+De calamiteiten coördinator is verantwoordelijk voor het verzamelen, verwerken en veredelen van feiten en gegevens en het beschikbaar stellen van het startbeeld
 
-**Onderkennen van invloed en gevolgen van eigen beslissingen of activiteiten op andere onderdelen van de organisatie; onderkennen van belangen van andere onderdelen van de organisatie.**
+De calamiteitencoördinator meldkamer is verantwoordelijk voor het uitvoeren van operationele leiding, operatiën en informatie in de meldkamer.
 
-**Effectief blijven handelen door zich aan te passen aan veranderde omstandigheden, taken verantwoordelijkheden en/of mensen.**
+Afwegen van de mate waarin opschaling effectief en efficiënt is, rekening houdend met bestuurlijke gevoeligheid.
 
-### G16:. Stressbestendigheid
+### 4.1. Competenties
 
-**Effectief blijven presteren onder tijdsdruk, bij tegenslag en onder extreme fysieke en psychische omstandigheden.**
+Signaleert problemen; herkent belangrijke informatie; legt verbanden tussen gegevens. Spoort mogelijke oorzaken van problemen op; zoekt terzake doende gegevens.
 
-**O1:** **Beleid van de rampenorganisaties in het algemeen en de GHOR-ketenorganisaties in het bijzonder met betrekking tot de ontwikkelingen in structuur, cultuur en inhoudelijke processen en procedures.**
+Selecteert één te volgen verantwoorde strategie voor zichzelf (en anderen), ondanks onvolledigheid in kennis van alternatieven en van hun risico's.
 
-De evaluator multidisciplinair oefenen evalueert de klanttevredenheid van de opdrachtgever en de deelnemers.
+Niveau A: daadkrachtig optreden
 
-In supplement k. is deze competentiematrix uitgewerkt.
+Is zich bewust van maatschappelijke en politieke ontwikkelingen of andere omgevingsfactoren. Speelt in op deze ontwikkelingen en vertaalt deze naar het eigen werkgebied.
 
-**Heeft inzicht in verantwoordelijkheden en bevoegdheden.**
+Functienaam: evaluator multidisciplinair oefenen
 
 **Kent de richtlijnen, protocollen en procedures en kan deze toepassen en waar nodig bijstellen.**
 
-**Heeft kennis van en kan gebruik maken van de beschikbare (technische) hulpmiddelen.**
+Voor iedere oefenactiviteit en doelstelling zijn andere dataverzamelingsmethoden mogelijk. De evaluator multidisciplinair oefenen dient hier een juiste keuze in te maken.
 
 ### V6:. Juridische aspecten
 
 **Kent de juridische aspecten die van invloed zijn op de functies binnen de operationele GHOR organisatie.**
 
-De Evaluator Multidisciplinair Oefenen legt zijn observaties, zijn oordeel hierover en zijn aanbevelingen schriftelijk vast in een evaluatierapport. De eindrapportage wordt aangeboden aan de opdrachtgever.
+Signaleert problemen; herkent belangrijke informatie; legt verbanden tussen gegevens. Spoort mogelijke oorzaken van problemen op; zoekt terzake doende gegevens.
 
-Niveau: 3
+Niveau B: relaties leggen
 
-Niveau: 4
+Weegt gegevens en mogelijke handelwijzen in het licht van relevante criteria tegen elkaar af om tot realistische beoordelingen te komen.
 
-Niveau: 5
+Niveau B: afwegen
 
-De evaluator multidisciplinair oefenen evalueert de klanttevredenheid van de opdrachtgever en de deelnemer.
+Onderkent en verplaatst zich in de gevoelens en behoeften van anderen, en houdt rekening met de gevolgen van eigen handelen op andere mensen of onderdelen van de organisatie.
 
-Niveau: 8
+Brengt opvattingen duidelijk onder woorden en weet aan te sluiten bij de lezer. Formuleert ingewikkelde zaken kernachtig en weet woorden trefzeker te kiezen.
 
 Niveau: Strategisch
 
 Niveau: Tactisch
 
-Is en houdt zich op de hoogte van de ontwikkelingen m.b.t. de rampenorganisaties en inhoudelijke processen en procedures. Kent de relevante sleutelfiguren in het uitvoeringsveld.
+Functienaam: informatiemanager CoPI
 
-De informatiemanager COPI verzamelt, analyseert en beoordeelt zelfstandig informatie in het COPI. Tevens is hij verantwoordelijk voor het verzorgen van een adequaat en doelmatig informatieproces in het COPI. Hij is hiermee voorwaardenscheppend voor andere functionarissen in het COPI.
+Beschrijving van de functie: De informatiemanager CoPI:
 
 Is en houdt zich op de hoogte van de ontwikkelingen mbt de GHOR-ketenorganisaties en de primaire processen in het algemeen en die van het eigen beroepsdomein in het bijzonder. Kent de relevante sleutelfiguren in zijn beroepsdomein.
 
 ### Niveauduiding vaktechnische competenties
 
-De competenties voor de functie informatiemanager commando plaats incident zijn te vinden in onderstaande tabel.
+De informatiemanager CoPI ondersteunt de leider CoPI bij het (her)definiëren van de te behalen prestaties bij het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
 
-In supplement j. is het competentieoverzicht uitgewerkt.
+De informatiemanager CoPI ondersteunt de leider CoPI bij het (her)definiëren van de prestaties binnen operationele leiding, operatiën, informatie en crisiscommunicatie. De informatiemanager CoPI ondersteunt de leider CoPI bij het organiseren van de randvoorwaarden voor operationele leiding, operatiën, informatie en crisiscommunicatie.
 
 Niveau: Op gemiddeld niveau.
 
 ## Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2017-12-01&g=2017-12-01) Regeling personeel veiligheidsregio’s
 
-De informatiemanager COPI verzamelt, analyseert en beoordeelt zelfstandig informatie in het COPI. Tevens is hij verantwoordelijk voor het verzorgen van een adequaat en doelmatig informatieproces in het COPI. Hij is hiermee voorwaardenscheppend voor andere functionarissen in het COPI. Dit brengt de volgende werkzaamheden met zich mee:
+De informatiemanager CoPI is verantwoordelijk voor het verzamelen, verwerken, veredelen en beschikbaar stellen van feiten en gegevens binnen de crisisstructuur.
 
 ### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
 
-¹ Overal waar in deze bijlage ‘hij’ wordt geduid kan ook ‘zij» worden gelezen.
+Een evenwicht houden tussen actieve ‘coachende’ sturing en directieve sturing.
 
-Functie zoals genoemd in [artikel 2 lid 3 sub d Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+De informatiemanager CoPI ondersteunt de leider CoPI bij het (her)definiëren van de te behalen prestaties bij het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
 
 ### Kerntaak 1:. Leidinggeven aan het gemeenschappelijk meldkamerproces
 
-De calamiteitencoördinator geeft leiding aan de multidisciplinaire invulling van het gemeenschappelijke meldkamerproces binnen het meldkamerdomein. Een adequate en snelle opschaling en het borgen van de veiligheid van de hulpverleningsdiensten zijn hierbij belangrijke aandachtspunten.
+Op de juiste momenten blijven overtuigen en accepteren dat je advies niet wordt overgenomen.
 
-De informatiemanager ROT zorgt voor het verzamelen, analyseren en beoordelen van informatie ten behoeve van het totaalbeeld van de ramp of crisis. Daarnaast is hij verantwoordelijk voor het beschikbaar houden van een actueel totaalbeeld tijdens een ramp of crisis.
+De informatiemanager CoPI ondersteunt de leider CoPI bij het (her)definiëren van de prestaties binnen operationele leiding, operatiën, informatie en crisiscommunicatie.
 
-De competenties voor de functie calamiteitencoördinator meldkamer zijn te vinden in onderstaande tabel.
+Overdenken en vooraf afwegen welk besluit genomen moet worden in het licht van de mogelijke effecten van informatiespreiding.
 
-De informatiemanager ROT geeft gevraagd en ongevraagd advies aan de regionaal operationeel leider vanuit het informatieproces.
+Op de juiste momenten blijven overtuigen en accepteren dat je advies niet wordt overgenomen.
 
 ### 2.2. Competenties
 
-In supplement j. is het competentieoverzicht uitgewerkt.
+Niveau C: overzicht houden
 
-De calamiteitencoördinator geeft doeltreffend en doelmatig sturing aan het verzamelen van relevante gegevens, het verwerken tot informatie en de deling van de informatie bij, alarmering en opschaling van de bestrijdingsorganisatie conform de GRIP structuur. Dit brengt de volgende werkzaamheden met zich mee:
+Verricht werkzaamheden met een grote mate van accuratesse.
 
 ### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2017-12-01&g=2017-12-01) Regeling personeel veiligheidsregio’s
 
-Functie zoals genoemd in [artikel 2 lid 3 sub b Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Niveau B: analyseren en bespreken
 
 ### 2.1. Kerntaken
 
-De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdrachtformulering ontvangt. Hij bereidt zich aan de hand van de opdrachtkaders en relevante documentatie voor op het observeren en evalueren van de multidisciplinaire oefening en maakt werkafspraken met zijn collega evaluatoren.
-
-### Kerntaak 2:. Het observeren van teamgedrag en -prestaties (inhoud, proces en resultaat)
-
-De evaluator multidisciplinair oefenen observeert aan de hand van geoperationaliseerde oefendoelen (organisatorisch, functioneel en/of persoonlijk) de deelnemers aan de oefening en legt zijn waarnemingen vast.
-
-In supplement l. zijn de niveaus van aansturing uitgewerkt.
-
-### 2.1. Kerntaken
-
-De evaluator multidisciplinair oefenen evalueert de klanttevredenheid van de opdrachtgever en de deelnemers.
-
-De leider commando plaats incident (COPI), geeft leiding aan de multidisciplinaire samenwerking in het COPI. Hij is verantwoordelijk voor het multidisciplinair aanpakken van de gevolgen van het incident.
-
-Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
-
-### 3.1. Uitwerking kerntaken
-
-De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdrachtformulering ontvangt. Hij bereidt zich aan de hand van de opdrachtkaders en relevante documentatie voor op het observeren en evalueren van de multidisciplinaire oefening en maakt werkafspraken met zijn collega evaluatoren.
-
-### Kerntaak 2:. Adviseren en informeren van het lokale bestuur (GRIP 1)/de regionaal operationeel leider (GRIP 2 en hoger)
-
-De evaluator multidisciplinair oefenen analyseert zijn observaties, formuleert een oordeel hierover en doet aanbevelingen. Hij bespreekt dit met de deelnemers.
-
-De Evaluator Multidisciplinair Oefenen legt zijn observaties, zijn oordeel hierover en zijn aanbevelingen schriftelijk vast in een evaluatierapport. De eindrapportage wordt aangeboden aan de opdrachtgever.
-
-In supplement l. zijn de niveaus van aansturing uitgewerkt.
-
-De PMO evalueert op cyclische basis, systematisch de kwaliteit van de multidisciplinaire OTO activiteiten, alsmede het professionele functioneren van de betrokken partijen. Evaluatie geschiedt, aan de hand van de vooraf gestelde criteria, in samenspraak met alle relevante betrokken partijen uit de veiligheidsregio. Daarbij stimuleert de PMO de betrokkenen tot reflectie op het eigen handelen.
-
-De PMO is verantwoordelijk voor het verzorgen van communicatie en public relations (PR) aangaande de ontwikkeling, voorbereiding en uitvoering van de multidisciplinaire OTO activiteiten. Daartoe stelt hij een communicatiebeleidsplan op. Hij draagt er zorg voor dat alle betrokkenen binnen de veiligheidsregio tijdig en juist zijn geïnformeerd. Zijn inzet is er tevens op gericht relevante partners in de veiligheidsregio te overtuigen van het nut en de noodzaak van de multidisciplinaire OTO activiteiten. Mede doordat hij zijn contacten met relevante betrokkenen zorgvuldig onderhoudt, creëert de PMO draagvlak voor de multidisciplinaire OTO activiteiten. De uitkomsten van evaluatie van ontwikkelde en uitgevoerde activiteiten koppelt de PMO terug aan alle relevante betrokkenen en het management team (MT). Hij legt zowel mondeling als schriftelijk verantwoording af over de verrichte werkzaamheden en behaalde resultaten.
-
-In supplement k. is deze competentiematrix uitgewerkt.
-
-### Kerntaak 1:. Bijdragen aan beleidsvorming op het gebied van multidisciplinaire OTO activiteiten
-
-De PMO levert binnen de veiligheidsregio een inhoudelijke bijdrage aan het opstellen en uitvoeren van het (meerjaren)beleid op het gebied van multidisciplinaire OTO activiteiten. Onderdeel daarvan is een beleidskader voor de evaluatie van deze activiteiten en de systematiek van borging. De PMO is bovendien mede verantwoordelijk voor het opstellen en uitvoeren van het jaarplan ‘Oefenen» van de desbetreffende veiligheidsregio.
-
-Functie zoals genoemd in [artikel 2 lid 3 sub d Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
-
-De informatiemanager ROT zorgt voor het verzamelen, analyseren en beoordelen van informatie ten behoeve van het totaalbeeld van de ramp of crisis. Daarnaast is hij verantwoordelijk voor het beschikbaar houden van een actueel totaalbeeld tijdens een ramp of crisis.
-
-De informatiemanager ROT geeft leiding en invulling aan de sectie informatiemanagement..
-
-Evaluatie heeft enerzijds tot doel inhoudelijke en organisatorische verbeteringen te realiseren in de activiteiten. Anderzijds dient de cyclische evaluatie aantoonbaar te leiden tot verdere professionalisering van de betrokkenen. De PMO adviseert in het aanbrengen van noodzakelijke en gewenste verbeteringen in de multidisciplinaire activiteiten. Tevens adviseert hij in de wenselijkheid en noodzaak van gerichte professionaliseringsacties (zoals scholing, coaching, training en dergelijke).
-
-De competenties voor de functie informatiemanager regionaal operationeel team zijn te vinden in onderstaande tabel.
-
-### Vereiste competenties en niveaus van functioneren
-
-De informatiemanager ROT zorgt voor het verzamelen, analyseren en beoordelen van informatie ten behoeve van het totaalbeeld van de ramp of crisis. Daarnaast is hij verantwoordelijk voor het beschikbaar houden van een actueel totaalbeeld tijdens een ramp of crisis.
-
-Dit brengt de volgende werkzaamheden met zich mee:
-
-### Kerntaak 2:. Sturing geven aan de regionale informatieorganisatie
-
-In supplement l. zijn de niveaus van aansturing uitgewerkt.
-
-### 2.1. Kerntaken
-
-De regionaal operationeel leider geeft leiding aan de multidisciplinaire samenwerking in het ROT. Hij is verantwoordelijk voor het multidisciplinair aanpakken van het effectgebied van het incident. Hierin vertaalt hij de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het ROT op als adviseur naar het bestuur/de burgemeester (beleidsteam).
-
-Functie zoals genoemd in [artikel 2 lid 3 sub e Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Functie zoals genoemd in [artikel 2 lid 3, sub d van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2).
 
 ### 1.1. Algemene informatie
 
-De competenties voor de functie regionaal operationeel leider zijn te vinden in onderstaande tabel.
+Functienaam: informatiemanager regionaal operationeel team
 
-De regionaal operationeel leider geeft leiding aan de multidisciplinaire samenwerking in het ROT. Hij is verantwoordelijk voor het multidisciplinair aanpakken van de gevolgen van het incident. Hierin vertaalt hij de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het ROT op als adviseur naar het bestuur/de burgemeester (beleidsteam).
+De informatiemanager ROT is verantwoordelijk voor het (opnieuw) organiseren van het proces in de gehele informatielijn om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
+
+### 2.1. Kerntaken
+
+De informatiemanager ROT ondersteunt de regionaal operationeel leider bij het (her)definiëren van de te behalen prestaties bij het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
+
+De informatiemanager ROT ondersteunt de regionaal operationeel leider bij het (her)definiëren van de prestaties binnen de algemene operationele leiding. De informatiemanager ROT ondersteunt de regionaal operationeel leider bij het organiseren van de randvoorwaarden binnen de algemene operationele leiding.
+
+De informatiemanager ROT is eindverantwoordelijk voor het verzamelen, verwerken, veredelen en beschikbaar stellen van feiten en gegevens binnen de crisisstructuur.
+
+### 3.1. Uitwerking kerntaken
+
+> Op basis van de beschikbare data gevraagd en ongevraagd adviseren van de regionaal operationeel leider over de te bereiken doelen van het ROT.
+
+### Kerntaak 2:. Adviseren en informeren van het lokale bestuur (GRIP 1)/de regionaal operationeel leider (GRIP 2 en hoger)
+
+Omgaan met de verschillende belangen tussen de betrokken partijen en daarbij omgaan met eventuele weerstand.
+
+Overdenken en vooraf afwegen welk besluit genomen moet worden in het licht van de mogelijke effecten van informatiespreiding.
+
+Blijft onder tijdsdruk, hoge werkdruk en bemoeilijkende omstandigheden adequaat functioneren (bijvoorbeeld tegenslag, teleurstelling).
+
+Niveau B: woordenschat en bondig
+
+De PMO is verantwoordelijk voor het verzorgen van communicatie en public relations (PR) aangaande de ontwikkeling, voorbereiding en uitvoering van de multidisciplinaire OTO activiteiten. Daartoe stelt hij een communicatiebeleidsplan op. Hij draagt er zorg voor dat alle betrokkenen binnen de veiligheidsregio tijdig en juist zijn geïnformeerd. Zijn inzet is er tevens op gericht relevante partners in de veiligheidsregio te overtuigen van het nut en de noodzaak van de multidisciplinaire OTO activiteiten. Mede doordat hij zijn contacten met relevante betrokkenen zorgvuldig onderhoudt, creëert de PMO draagvlak voor de multidisciplinaire OTO activiteiten. De uitkomsten van evaluatie van ontwikkelde en uitgevoerde activiteiten koppelt de PMO terug aan alle relevante betrokkenen en het management team (MT). Hij legt zowel mondeling als schriftelijk verantwoording af over de verrichte werkzaamheden en behaalde resultaten.
+
+Functienaam: Leider commando plaats incident
+
+### 2.1. Overzicht kerntaken
+
+De leider CoPI is verantwoordelijk voor het (her)organiseren van de randvoorwaarden voor operationele leiding, operatiën, informatie en crisiscommunicatie.
+
+De leider CoPI is eindverantwoordelijk voor het (opnieuw) organiseren van de randvoorwaarden voor het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
+
+De informatiemanager ROT zorgt voor het verzamelen, analyseren en beoordelen van informatie ten behoeve van het totaalbeeld van de ramp of crisis. Daarnaast is hij verantwoordelijk voor het beschikbaar houden van een actueel totaalbeeld tijdens een ramp of crisis.
+
+De leider CoPI is verantwoordelijk voor het (her)organiseren van de randvoorwaarden voor operationele leiding, operatiën, informatie en crisiscommunicatie.
+
+Afwegen of besluit aan bevoegd gezag moet worden voorgelegd, op basis van belangen van het bevoegd gezag.
+
+Besluitvorming en advisering op basis van de verschillende rollen van de burgermeester.
+
+### Vereiste competenties en niveaus van functioneren
+
+De leider CoPI is verantwoordelijk voor het (her)definiëren van de te behalen prestaties binnen het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
+
+De leider CoPI is eindverantwoordelijk voor het (opnieuw) organiseren van het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
+
+### Kerntaak 2:. Sturing geven aan de regionale informatieorganisatie
+
+De leider CoPI is eindverantwoordelijk voor het (opnieuw) organiseren van de randvoorwaarden voor het realiseren van de crisiscommunicatie.
+
+### 2.1. Kerntaken
+
+Zorgen voor communicatie ondanks de positie en snelheid van (sociale) media.
+
+Niveau C: overzicht houden
+
+### 1.1. Algemene informatie
+
+Niveau A: beheersen
+
+Selecteert één te volgen verantwoorde strategie voor zichzelf (en anderen), ondanks onvolledigheid in kennis van alternatieven en van hun risico's
 
 ### Kerntaak 2:. Adviseren en informeren aan/van het beleidsteam
 
 Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
 
-De regionaal operationeel leider, is verantwoordelijk voor de benodigde informatie overdracht en advisering aan de burgemeester (beleidsteam). Hij vertaalt de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het ROT op als adviseur. (Vanaf GRIP 2 is de regionaal operationeel leider verantwoordelijk voor het samenstellen van realistische multidisciplinair samengestelde scenario’s, heldere adviezen en beslispunten voor het beleidsteam.)
+Functie zoals genoemd in [artikel 2 lid 3, sub f van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2).
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.
+De Procesmanager Multidisciplinair Oefenen is verantwoordelijk voor het uitvoeren van de multidisciplinaire OTO-activiteit.
 
 ### Kerntaak 1:. Informeren van media
 
-De voorlichtingsfunctionaris commando plaats incident (COPI) heeft als primaire taak het informeren van de media en het geven van sturing aan het totale proces voorlichting bij het plaats incident.
+De Procesmanager Multidisciplinair Oefenen is eindverantwoordelijk voor het uitvoeren van de evaluatie van de multidisciplinaire oefening.
 
-Dit brengt de volgende werkzaamheden met zich mee:
+De Procesmanager Multidisciplinair Oefenen wordt vooraf geraadpleegd en adviseert het afdelings-/bureauhoofd bij het organiseren van de randvoorwaarden voor het uitvoeren van het multidisciplinaire OTO-beleid.
 
 ### 2.2. Competenties
 
-Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
+De Procesmanager Multidisciplinair Oefenen is professional in zijn vakgebied, maar is niet per definitie inhoudelijk expert in alle disciplines waarvoor hij de OTO-activiteiten moet ontwikkelen en uitvoeren.
 
 ### 2.1. Kerntaken
 
-De PMO levert binnen de veiligheidsregio een inhoudelijke bijdrage aan het opstellen en uitvoeren van het (meerjaren)beleid op het gebied van multidisciplinaire OTO activiteiten. Onderdeel daarvan is een beleidskader voor de evaluatie van deze activiteiten en de systematiek van borging. De PMO is bovendien mede verantwoordelijk voor het opstellen en uitvoeren van het jaarplan ‘Oefenen» van de desbetreffende veiligheidsregio.
+De Procesmanager is verantwoordelijk voor het organiseren van de randvoorwaarden voor de evaluatie van de multidisciplinaire oefening.
 
 ### Kerntaak 2:. Het ontwikkelen, organiseren en uitvoeren van multidisciplinaire OTO activiteiten
 
@@ -4924,11 +4924,11 @@ De PMO levert binnen de veiligheidsregio een inhoudelijke bijdrage aan het opste
 
 ### Bijlage C. behorende bij [artikel 2 lid 3 Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
 
-In supplement l. zijn de niveaus van aansturing uitgewerkt.
+Is zich bewust van maatschappelijke en politieke ontwikkelingen of andere omgevingsfactoren. Speelt in op deze ontwikkelingen en vertaalt deze naar het eigen werkgebied.
 
 ### Kerntaak 1:. Bijdragen aan beleidsvorming op het gebied van multidisciplinaire OTO activiteiten
 
-De PMO zorgt voor de afstemming van het (meerjaren)beleid en het jaarplan ‘Oefenen» met de regionale en landelijke richtlijnen. Ook stemt hij het beleid en het plan af op de mono-disciplinaire oefenplannen van andere diensten en de behoeften van zowel de eigen organisatie als die van de partners.
+belangen.
 
 ### Vereiste competenties en niveaus van functioneren
 
@@ -4940,13 +4940,13 @@ De PMO vertaalt het vastgestelde (meerjaren)beleid in effectieve multidisciplina
 
 ### Werkzaamheden
 
-De PMO bewaakt de kwaliteit van de multidisciplinaire OTO activiteiten. Hij stelt voor iedere activiteit eenduidige kwaliteitscriteria op, in samenspraak met zijn team en relevante partners in de veiligheidsregio. Deze criteria zijn SMART geformuleerd. De PMO zorgt op basis van deze criteria voor evaluatie van de activiteiten en levert op die manier input ten behoeve van het kwaliteitssysteem in de desbetreffende veiligheidsregio. Op grond van de analyse adviseert de PMO in bijstelling en/of aanpassing van de multidisciplinaire OTO activiteiten.
+Beschrijving van de functie: De regionaal operationeel leider:
 
-### Werkzaamheden
+### 2.1. Overzicht kerntaken
 
 ### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
 
-De PMO evalueert op cyclische basis, systematisch de kwaliteit van de multidisciplinaire OTO activiteiten, alsmede het professionele functioneren van de betrokken partijen. Evaluatie geschiedt, aan de hand van de vooraf gestelde criteria, in samenspraak met alle relevante betrokken partijen uit de veiligheidsregio. Daarbij stimuleert de PMO de betrokkenen tot reflectie op het eigen handelen.
+De regionaal operationeel leider is verantwoordelijk voor het (her)definiëren van de te behalen prestaties bij het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident. De regionaal operationeel leider is eindverantwoordelijk voor het (opnieuw) organiseren van de randvoorwaarden voor het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
 
 ### Kerncompetenties
 
@@ -4954,29 +4954,29 @@ De PMO evalueert op cyclische basis, systematisch de kwaliteit van de multidisci
 
 ### Daadkracht
 
-**Op adequate en krachtige wijze nemen van beslissingen op basis van een inzichtelijke afweging en eigen oordeel, ook als kennis en/of informatie beperkt is en tevens het uitvoeren en afronden van activiteiten. Handelen naar en ‘staan voor’ een genomen besluit (van zichzelf of een ander).**
+De regionaal operationeel leider is verantwoordelijk voor het (her)definiëren van de te behalen prestaties binnen het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
 
 ### Delegeren
 
-**Eigen taken, beslissingsbevoegdheden en verantwoordelijkheden op duidelijke wijze toedelen aan juiste medewerkers.**
+Beslissen over de openbaarheid van de informatie; wat wel of niet vrijgeven?
 
 ### Inleven
 
-**Onderkennen van gevoelens en behoeften van anderen. Verplaatsen in anderen en zich bewust tonen van de invloed van het eigen handelen.**
+Zorgen voor communicatie op basis van het maatschappelijke beeld over de risicovolle situatie in de media en maatschappij.
 
 ### Omgevingsbewustzijn
 
 ### Werkzaamheden
 
-De regionaal operationeel leider, is verantwoordelijk voor de benodigde informatie overdracht en advisering aan de burgemeester (beleidsteam). Hij vertaalt de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het ROT op als adviseur. (Vanaf GRIP 2 is de regionaal operationeel leider verantwoordelijk voor het samenstellen van realistische multidisciplinair samengestelde scenario’s, heldere adviezen en beslispunten voor het beleidsteam.)
+Niveau C: voorbeeld zijn
 
 ### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2017-12-01&g=2017-12-01) Regeling personeel veiligheidsregio’s
 
-### Kerntaak 1:. Informeren van media
+### Supplement h. Functionaris crisiscommunicatie commando plaats incident/ communicatieadviseur CoPI
 
-De voorlichtingsfunctionaris commando plaats incident (COPI) heeft als primaire taak het informeren van de media en het geven van sturing aan het totale proces voorlichting bij het plaats incident.
+Functie zoals genoemd in [artikel 2 lid 3, sub h van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2).
 
-### Kerntaak 2:. Informatie delen
+### 1.1. Algemene informatie
 
 ### 2.2. Competenties
 
@@ -4984,7 +4984,7 @@ De voorlichtingsfunctionaris commando plaats incident (COPI) heeft als primaire 
 
 ### Kerntaak 1:. Informeren van media
 
-### Accuraat
+### 4.1. Competenties
 
 ### Werkzaamheden
 
@@ -4992,7 +4992,7 @@ De voorlichtingsfunctionaris commando plaats incident (COPI) heeft als primaire 
 
 ### Supplement i. Functie voorlichtingsfunctionaris regionaal operationeel team
 
-Functie zoals genoemd in [artikel 2 lid 3 sub i Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Voert in een team een opdracht uit. Draagt bij aan de harmonie van de groep en aan de optimale inzet van de leden ten behoeve van het groepsdoel, desnoods ten koste van eigen korte termijn belangen.
 
 ### 1.1. Algemene informatie
 
@@ -5000,7 +5000,7 @@ Functie zoals genoemd in [artikel 2 lid 3 sub i Besluit personeel veiligheidsreg
 
 ### Kerntaak 1:. Het adviseren van het ROT over alle aspecten van voorlichting
 
-De voorlichtingsfunctionaris ROT is verantwoordelijk voor een adequate en volledige communicatie met én advisering aan het ROT. Hij adviseert en informeert het ROT, waarmee dit team besluiten kan nemen op het operationeel niveau.
+Niveau B (relaties leggen)
 
 ### Kerntaak 2:. Sturing geven aan het communicatieproces
 
@@ -5008,29 +5008,29 @@ Niveau 1
 
 ### 2.2. Competenties
 
-De competenties voor de functie voorlichtingsfunctionaris regionaal operationeel team zijn te vinden in onderstaande tabel.
+Functienaam: functionaris crisiscommunicatie regionaal operationeel team/ communicatieadviseur ROT
 
-Dit betreft strategische en organisatorische competenties die met name betrekking hebben op het geven van richting aan organisatie(onderdeel) (visie, strategievorming) en de inrichting van het werk (de interne organisatie).
+Beschrijving van de functie: De functionaris crisiscommunicatie regionaal operationeel team/
 
 ### Probleem oplossen
 
 ### Werkzaamheden
 
-Niveau 2:
+De communicatieadviseur ROT adviseert over mogelijke implicaties van ontwikkelingen en besluiten voor de communicatieaanpak.
 
 ### Kerntaak 2:. Sturing geven aan het communicatieproces
 
 ### Innoveren en creativiteit
 
-Niveau 3
+Niveau A (daadkrachtig optreden)
 
-Niveau 1
+Signaleert problemen; herkent belangrijke informatie; legt verbanden tussen gegevens. Spoort mogelijke oorzaken van problemen op; zoekt ter zake doende gegevens.
 
 ### Aanpassingsvermogen
 
-Niveau 3
+Is zich bewust van maatschappelijke en politieke ontwikkelingen of andere omgevingsfactoren. Speelt in op deze ontwikkelingen en vertaalt deze naar het eigen werkgebied.
 
-Niveau 2:
+De volgende competenties worden als aanwezig verondersteld:
 
 ### Omgevingsbewustzijn
 
@@ -5618,7 +5618,7 @@ Op basis van een analyse en/of evaluatie ontwikkelt, beheert en innoveert een SO
 
 Een SOV geeft advies over de operationele voorbereiding van incidentbestrijding en crisisbeheersing en stemt deze af op zowel operationeel, tactisch als strategisch niveau.
 
-### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage A. behorende bij [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 In supplement gg is de competentiematrix uitgewerkt.
 
@@ -5780,7 +5780,7 @@ Niveau 2:
 
 ### Profiel: operationeel leidinggevende
 
-## Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+## Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Kerntaak 1:. Functioneel leiding geven aan de sectie geneeskundige zorg
 
@@ -5814,13 +5814,13 @@ Functienaam: hoofd informatie geneeskundige zorg (HIN)
 
 ### Werkzaamheden:
 
-### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### Kerntaak 2:. Adviseren van de ACGZ
 
 ### 2.1. Kerntaken
 
-### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### Bijlage B. behorende bij [artikel 1 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 Vaktechnische competenties: per functie wordt aangegeven of er sprake is van noodzakelijke kennis en kunde tot op detailniveau (d); of alleen op hoofdlijnen (h); of op gemiddeld niveau (m).
 
@@ -5852,7 +5852,7 @@ Is en houdt zich op de hoogte van de beleidsontwikkelingen m.b.t. de rampenorgan
 
 ### Niveauduiding vaktechnische competenties
 
-## Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+## Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2022-07-13&g=2022-07-13) Regeling personeel veiligheidsregio’s
 
 ### 1.1. Algemene informatie
 
@@ -5862,161 +5862,161 @@ Is en houdt zich op de hoogte van de beleidsontwikkelingen m.b.t. de rampenorgan
 
 ### 2.2. Competenties
 
-Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
+De calamiteitencoördinator meldkamer is verantwoordelijk voor het besluiten tot en uitvoeren van de grootschalige alarmering.
 
-In supplement j. is het competentieoverzicht uitgewerkt.
+Besluiten in een korte tijdsbestek op basis van ingekleurde, gefragmenteerde en/of onvolledige informatie.
 
 ### 3.1. Uitwerking kerntaken
 
-De calamiteitencoördinator geeft leiding aan de multidisciplinaire invulling van het gemeenschappelijke meldkamerproces binnen het meldkamerdomein. Een adequate en snelle opschaling en het borgen van de veiligheid van de hulpverleningsdiensten zijn hierbij belangrijke aandachtspunten. Dit brengt de volgende werkzaamheden met zich mee:
+De calamiteitencoördinator meldkamer is verantwoordelijk voor het (opnieuw) organiseren van het proces om feiten en gegevens te verzamelen, verwerken en veredelen tot een startbeeld en dit beschikbaar te stellen.
 
-Functie zoals genoemd in [artikel 2 lid 3 sub b Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Onafhankelijk en rolvast uitvoeren van taken ondanks de hoge tijdsdruk en onzekerheid.
 
 ### 1.1. Algemene informatie
 
-De evaluator multidisciplinair oefenen observeert aan de hand van geoperationaliseerde oefendoelen (organisatorisch, functioneel en/of persoonlijk) de deelnemers aan de oefening en legt zijn waarnemingen vast.
+Niveau B: relaties leggen
 
 ### Kerntaak 3:. Het geven van feedback
 
-De evaluator multidisciplinair oefenen analyseert zijn observaties, formuleert een oordeel hierover en doet aanbevelingen. Hij bespreekt dit met de deelnemers.
+Niveau A: beheersen
 
 ### Kerntaak 4:. Het uitvoeren van een schriftelijke evaluatie
 
-De evaluator multidisciplinair oefenen legt zijn observaties, zijn oordeel hierover en zijn aanbevelingen schriftelijk vast in een evaluatierapport. De eindrapportage wordt aangeboden aan de opdrachtgever.
+Niveau B: afstemmen
 
 ### Werkzaamheden
 
 De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdrachtformulering ontvangt. Hij bereidt zich aan de hand van de opdrachtkaders en relevante documentatie voor op het observeren en evalueren van de multidisciplinaire oefening en maakt werkafspraken met zijn collega evaluatoren.
 
-### Werkzaamheden
+### 2.1. Overzicht kerntaken
 
-De evaluator multidisciplinair oefenen zorgt ervoor dat hij een heldere opdrachtformulering ontvangt. Hij bereidt zich aan de hand van de opdrachtkaders en relevante documentatie voor op het observeren en evalueren van de multidisciplinaire oefening en maakt werkafspraken met zijn collega evaluatoren.
+De evaluator multidisciplinair oefenen wordt vooraf geraadpleegd en adviseert over het organiseren van de randvoorwaarden voor de evaluatie van de multidisciplinaire oefening. De evaluator multidisciplinair oefenen is verantwoordelijk voor het uitvoeren van de evaluatie van de multidisciplinaire oefening.
 
 ### Werkzaamheden
 
 ### Vereiste competenties en niveaus van functioneren
 
-Functie zoals genoemd in [artikel 2 lid 3 sub c Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Niveau B: kernachtig
 
 Voor deze functie zijn de acht belangrijkste competenties benoemd. Dit zijn de competenties die minimaal noodzakelijk worden geacht voor de betreffende functionaris om succesvol te functioneren.
 
-De competenties voor de functie informatiemanager regionaal operationeel team zijn te vinden in onderstaande tabel.
+Signaleert problemen; herkent belangrijke informatie; legt verbanden tussen gegevens. Spoort mogelijke oorzaken van problemen op; zoekt terzake doende gegevens.
 
-Dit brengt de volgende werkzaamheden met zich mee:
+Blijft onder tijdsdruk, hoge werkdruk en bemoeilijkende omstandigheden adequaat functioneren (bijvoorbeeld tegenslag, teleurstelling).
 
-De leider commando plaats incident (COPI), adviseert en deelt doeltreffend en doelmatig informatie mede aan het lokale bestuur bij GRIP 1 en in het geval van GRIP 2 (en hoger) naar de regionaal operationeel leider.
+De informatiemanager ROT wordt vooraf geraadpleegd en adviseert aan de regionaal operationeel leider bij het (her)definiëren van de te behalen prestaties binnen het proces in de gehele informatielijn om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
 
-De competenties voor de functie leider commando plaats incident zijn te vinden in onderstaande tabel.
+Bewust zijn van de mogelijke risico’s die het detailniveau waarop het totaalbeeld wordt geschetst met zich meebrengt. Een afweging maken in de verkregen informatie en het beschikbaar stellen van informatie voor het totaalbeeld. De waarde van de informatie is naast de bruikbaarheid ook afhankelijk van de actor en de tijd.
 
-In supplement j. is het competentieoverzicht uitgewerkt.
+Een evenwicht houden tussen actieve ‘coachende’ sturing en directieve sturing.
 
-De leider commando plaats incident (COPI), geeft leiding aan de multidisciplinaire samenwerking in het COPI. Hij is verantwoordelijk voor het multidisciplinair aanpakken van de gevolgen van het incident. Dit brengt de volgende werkzaamheden met zich mee:
+Overdenken en vooraf afwegen welk besluit genomen moet worden in het licht van de mogelijke effecten van informatiespreiding.
 
-De leider commando plaats incident (COPI), adviseert en deelt doeltreffend en doelmatig informatie mede aan het lokale bestuur bij GRIP 1 en in het geval van GRIP 2 (en hoger) naar de regionaal operationeel leider.
+De informatiemanager ROT ondersteunt de regionaal operationeel leider bij het (her)definiëren van de prestaties binnen de algemene operationele leiding.
 
-Dit brengt de volgende werkzaamheden met zich mee:
+De informatiemanager ROT ondersteunt de regionaal operationeel leider bij het organiseren van de randvoorwaarden binnen de algemene operationele leiding.
 
-Functie zoals genoemd in [artikel 2 lid 3 sub f Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Op de juiste momenten blijven overtuigen en accepteren dat je advies niet wordt overgenomen. Omgaan met de verschillende belangen tussen de betrokken partijen en daarbij omgaan met eventuele weerstand.
 
 ### Kerntaak 1:. Bijdragen aan beleidsvorming op het gebied van multidisciplinaire OTO activiteiten
 
-De PMO levert binnen de veiligheidsregio een inhoudelijke bijdrage aan het opstellen en uitvoeren van het (meerjaren)beleid op het gebied van multidisciplinaire OTO activiteiten. Onderdeel daarvan is een beleidskader voor de evaluatie van deze activiteiten en de systematiek van borging. De PMO is bovendien mede verantwoordelijk voor het opstellen en uitvoeren van het jaarplan ‘Oefenen» van de desbetreffende veiligheidsregio.
+Stemt activiteiten van zichzelf (en anderen) op elkaar af en bepaalt hun volgorde zodat doeleinden efficiënt en effectief gerealiseerd worden.
 
-De PMO zorgt voor de afstemming van het (meerjaren)beleid en het jaarplan ‘Oefenen» met de regionale en landelijke richtlijnen. Ook stemt hij het beleid en het plan af op de mono-disciplinaire oefenplannen van andere diensten en de behoeften van zowel de eigen organisatie als die van de partners.
+Niveau B: afstemmen
 
 ### Kerntaak 2:. Het ontwikkelen, organiseren en uitvoeren van multidisciplinaire OTO activiteiten
 
-De PMO vertaalt het vastgestelde (meerjaren)beleid in effectieve multidisciplinaire OTO activiteiten. Het team dat zorgt voor voorbereiding, uitvoering en evaluatie, ontwikkelt deze activiteiten onder zijn verantwoordelijke leiding. Daarbij houdt de PMO rekening met leerbehoefte(n), ontwikkelnoodzaak en leervoorkeur(en). In overleg met multidisciplinaire partners zorgt de PMO dat deze activiteiten worden uitgevoerd. De PMO draagt er zorg voor dat de deelnemers aan én begeleiders van de multidisciplinaire OTO- activiteiten, zijn of worden geïnstrueerd. Onder zijn verantwoordelijkheid vindt observatie en evaluatie van de activiteiten plaats. Indien nodig geeft de PMO zelf tussentijds feedback.
+Niveau A: overzicht houden
 
-De PMO bewaakt de kwaliteit van de multidisciplinaire OTO activiteiten. Hij stelt voor iedere activiteit eenduidige kwaliteitscriteria op, in samenspraak met zijn team en relevante partners in de veiligheidsregio. Deze criteria zijn SMART geformuleerd. De PMO zorgt op basis van deze criteria voor evaluatie van de activiteiten en levert op die manier input ten behoeve van het kwaliteitssysteem in de desbetreffende veiligheidsregio. Op grond van de analyse adviseert de PMO in bijstelling en/of aanpassing van de multidisciplinaire OTO activiteiten.
+Niveau D: ontspannen
 
 Evaluatie heeft enerzijds tot doel inhoudelijke en organisatorische verbeteringen te realiseren in de activiteiten. Anderzijds dient de cyclische evaluatie aantoonbaar te leiden tot verdere professionalisering van de betrokkenen. De PMO adviseert in het aanbrengen van noodzakelijke en gewenste verbeteringen in de multidisciplinaire activiteiten. Tevens adviseert hij in de wenselijkheid en noodzaak van gerichte professionaliseringsacties (zoals scholing, coaching, training en dergelijke).
 
 ### Kerntaak 5:. Het verzorgen van communicatie en public relations in het kader van de multidisciplinaire OTO activiteiten
 
-De PMO zorgt voor de afstemming van het (meerjaren)beleid en het jaarplan ‘Oefenen» met de regionale en landelijke richtlijnen. Ook stemt hij het beleid en het plan af op de mono-disciplinaire oefenplannen van andere diensten en de behoeften van zowel de eigen organisatie als die van de partners.
+De leider CoPI is eindverantwoordelijk voor het uitvoeren van operationele leiding, operatiën, informatie en crisiscommunicatie.
 
-De PMO bewaakt de kwaliteit van de multidisciplinaire OTO activiteiten. Hij stelt voor iedere activiteit eenduidige kwaliteitscriteria op, in samenspraak met zijn team en relevante partners in de veiligheidsregio. Deze criteria zijn SMART geformuleerd. De PMO zorgt op basis van deze criteria voor evaluatie van de activiteiten en levert op die manier input ten behoeve van het kwaliteitssysteem in de desbetreffende veiligheidsregio. Op grond van de analyse adviseert de PMO in bijstelling en/of aanpassing van de multidisciplinaire OTO activiteiten.
+De leider CoPI is verantwoordelijk voor het (her)definiëren van de prestaties binnen operationele leiding, operatiën, informatie en crisiscommunicatie.
 
 ### Werkzaamheden
 
-De PMO evalueert op cyclische basis, systematisch de kwaliteit van de multidisciplinaire OTO activiteiten, alsmede het professionele functioneren van de betrokken partijen. Evaluatie geschiedt, aan de hand van de vooraf gestelde criteria, in samenspraak met alle relevante betrokken partijen uit de veiligheidsregio. Daarbij stimuleert de PMO de betrokkenen tot reflectie op het eigen handelen.
+Adequaat omgaan met conflicterende belangen in de organisatie van rampenbestrijding en crisisbeheersing.
 
 ### Kerntaak 5:. Het verzorgen van communicatie en public relations in het kader van de multidisciplinaire OTO activiteiten
 
-De PMO is verantwoordelijk voor het verzorgen van communicatie en public relations (PR) aangaande de ontwikkeling, voorbereiding en uitvoering van de multidisciplinaire OTO activiteiten. Daartoe stelt hij een communicatiebeleidsplan op. Hij draagt er zorg voor dat alle betrokkenen binnen de veiligheidsregio tijdig en juist zijn geïnformeerd. Zijn inzet is er tevens op gericht relevante partners in de veiligheidsregio te overtuigen van het nut en de noodzaak van de multidisciplinaire OTO activiteiten. Mede doordat hij zijn contacten met relevante betrokkenen zorgvuldig onderhoudt, creëert de PMO draagvlak voor de multidisciplinaire OTO activiteiten. De uitkomsten van evaluatie van ontwikkelde en uitgevoerde activiteiten koppelt de PMO terug aan alle relevante betrokkenen en het Management Team (MT). Hij legt zowel mondeling als schriftelijk verantwoording af over de verrichte werkzaamheden en behaalde resultaten.
+Het afwegen van de veiligheid van eigen personeel, andere hulpverleningsdiensten en derden tegen het beoogde (doel/taak/opdracht).
 
-De regionaal operationeel leider, is verantwoordelijk voor de benodigde informatie overdracht en advisering aan de burgemeester (beleidsteam). Hij vertaalt de tactische informatie waar nodig naar strategische beslispunten en treedt in voorkomende gevallen namens het ROT op als adviseur. (Vanaf GRIP 2 is de regionaal operationeel leider verantwoordelijk voor het samenstellen van realistische multidisciplinair samengestelde scenario’s, heldere adviezen en beslispunten voor het beleidsteam.)
+Signaleert problemen; herkent belangrijke informatie; legt verbanden tussen gegevens. Spoort mogelijke oorzaken van problemen op; zoekt terzake doende gegevens.
 
-In supplement j. is het competentieoverzicht uitgewerkt.
+Geeft situationeel sturing aan een individuele medewerker en/of een groep in het kader van de taakvervulling.
 
 ### Kerntaak 1:. Leiding geven aan het ROT
 
-### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
+### 1.1. Algemene informatie
 
-Functie zoals genoemd in [artikel 2 lid 3 sub h Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2)
+Beschrijving van de functie: De procesmanager multidisciplinair oefenen:
 
 Het doeltreffend en doelmatig verzamelen van informatie en die delen binnen het COPI en met de voorlichter ROT bij melding en opschaling conform de GRIP structuur.
 
-De competenties voor de functie voorlichtingsfunctionaris commando plaats incident zijn te vinden in onderstaande tabel.
+Een afweging maken tussen kosten en impact van een oefenactiviteit ten opzichte van de baten.
 
 ### Werkzaamheden
 
 ### Kerntaak 2:. Informatie delen
 
-### Supplement i. Functie voorlichtingsfunctionaris regionaal operationeel team
+### 4.1. Competenties
 
 ### 2.1. Kerntaken
 
-De competenties voor de functie voorlichtingsfunctionaris regionaal operationeel team zijn te vinden in onderstaande tabel.
+Formuleert heldere doelstellingen en resultaten en is er actief op gericht om deze te behalen.
 
-De voorlichtingsfunctionaris ROT geeft sturing aan het totale proces voorlichting. Hij draagt zorg voor een goedlopend communicatieproces. Hij zorgt voor tijdige en kwalitatief hoogwaardige adviezen. Dit brengt de volgende werkzaamheden met zich mee:
+De regionaal operationeel leider ondersteunt de voorzitter veiligheidsregio dan wel de burgemeester bij het (her)definiëren van de prestaties binnen de algemene operationele leiding.
 
-**Kerncompetenties:** hierbij zijn de verschillende kerncompetenties omschreven en van gedragsvoorbeelden voorzien.
+De regionaal operationeel leider is eindverantwoordelijk voor het (opnieuw) organiseren van de randvoorwaarden voor het realiseren van de crisiscommunicatie.
 
 **In deze bijlage zijn alle competenties, die zijn benoemd in de kwalificatiedossiers van de functionarissen werkzaam binnen de organisatie van rampenbestrijding en crisisbeheersing, opgenomen.**
 
 ### Aanpassingsvermogen
 
-**Effectief blijven handelen door zich aan te passen aan veranderde omstandigheden, taken verantwoordelijkheden en/of mensen.**
+De regionaal operationeel leider is verantwoordelijk voor het uitvoeren van algemene operationele leiding (binnen de rampenbestrijding en crisisbeheersing).
 
-**Zorgvuldig en stipt handelen, gericht op het voorkómen van fouten. Nauwkeurig uitvoeren van activiteiten.**
+Adviseren en beslissen rekening houdend met verschillende verantwoordelijkheden (functionele en algemene keten).
 
 ### Analyseren
 
-**Systematisch onderzoeken en alloceren van problemen en vragen. Ontleden van relevante informatie, achtergronden en structuren. Verbanden leggen tussen gegevens en overzien van relaties tussen oorzaak en gevolg.**
+De regionaal operationeel leider is verantwoordelijk voor het (her)definiëren van de te behalen prestaties bij het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
 
 ### Communiceren
 
-**Ideeën, meningen en informatie aan anderen overdragen in voor de ontvanger begrijpelijke taal, gebaren en non-verbale signalen. Tactvol en effectief reageren op behoeften en gevoelens van anderen, taal en terminologie aanpassen aan de doelgroep (incl. Engels).**
+Het afwegen van de veiligheid van eigen personeel, andere hulpverleningsdiensten en derden tegen het beoogde (doel/taak/opdracht).
 
 ### Leiding geven
 
-**Laten blijken geïnformeerd te zijn over maatschappelijke en politieke ontwikkelingen of andere omgevingsfactoren en deze kennis effectief benutten voor de eigen functie of organisatie.**
+Herkennen van bestuurlijke dilemma’s en deze doorzetten naar het juiste bevoegd gezag.
 
 ### Sturing geven aan proces
 
 ### Bijlage C. behorende bij [artikel 1 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&artikel=1&z=2018-10-01&g=2018-10-01) Regeling personeel veiligheidsregio’s
 
-### Supplement k. Uitwerking competentiematrix
+### 2.1. Kerntaken en taakgebieden
 
 **Sociaal, maatschappelijke en communicatieve competenties (omgeving):** dit betreft de sociale, maatschappelijke en communicatieve competenties die betrekking hebben op de interactie met de omgeving zowel extern als intern. Deze competenties zijn vervolgens gekoppeld aan een niveauduiding
 
 ### Competenties
 
-Niveau 3
+Signaleert problemen; herkent belangrijke informatie; legt verbanden tussen gegevens. Spoort mogelijke oorzaken van problemen op; zoekt ter zake doende gegevens.
 
 **Het signaleren van (potentiële) problemen/knelpunten en deze zelfstandig of in samenwerking met anderen verhelpen.**
 
 Niveau 1
 
-Niveau 2
+Selecteert één te volgen verantwoorde strategie voor zichzelf (en anderen), ondanks onvolledigheid in kennis van alternatieven en van hun risico's.
 
 ### Plannen, organiseren en coördineren
 
-**Vanuit een vastgesteld doel bepalen welke taken/activiteiten georganiseerd en gepland moeten worden en daar naar handelen. Bepalen van prioriteiten en aangeven van een volgorde van werkzaamheden.**
+Niveau A (overwicht houden)
 
-Niveau 1
+Niveau A (eigen koers varen)
 
 Niveau 3:
 
@@ -6061,5 +6061,105 @@ Niveau 1
 ### Politiek-bestuurlijk inzicht
 
 Niveau 1:
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+Besluiten met een bepaalde mate van kennis van functionele partners; wat doen zij aan incident- en gevolgbestrijding?
+
+Inschatten van informatie op haar waarde qua bruikbaarheid, afhankelijk van actor en tijd.
+
+De calamiteitencoördinator meldkamer wordt vooraf geraadpleegd en adviseert bij het (her)definiëren van de prestaties binnen operationele leiding, operatiën en informatie.
+
+Het (laten) afwegen van de veiligheid van eigen personeel, andere hulpverleningsdiensten en derden tegen het beoogde (doel/taak/opdracht).
+
+Niveau B: regionaal
+
+Beschrijving van de functie: De evaluator multidisciplinair oefenen:
+
+De evaluator multidisciplinair oefenen wordt vooraf geraadpleegd en adviseert over het organiseren van de randvoorwaarden van de evaluatie van de multidisciplinaire oefening.
+
+Verricht werkzaamheden met een grote mate van accuratesse.
+
+De informatiemanager CoPI wordt vooraf geraadpleegd en adviseert aan de leider CoPI bij het (her)definiëren van de te behalen prestaties binnen het proces in de gehele informatielijn om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers; Indien de informatiemanager ROT de regie op het informatieproces op zich heeft genomen, wordt de informatiemanager CoPI alleen vooraf geraadpleegd en adviseert hij over het proces in het CoPI.
+
+De informatiemanager CoPI is verantwoordelijk voor het (opnieuw) organiseren van het proces in de gehele informatielijn om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers; Indien de informatiemanager ROT de regie op het informatieproces op zich heeft genomen, is de informatiemanager CoPI alleen verantwoordelijk voor het proces in het CoPI.
+
+Omgaan met het mogelijk niet als volwaardig lid van het team gezien worden en daarbij toch rolvast weten te blijven.
+
+Omgaan met de verschillende belangen tussen de betrokken partijen en daarbij omgaan met eventuele weerstand.
+
+De informatiemanager CoPI ondersteunt de leider CoPI bij het organiseren van de randvoorwaarden voor operationele leiding, operatiën, informatie en crisiscommunicatie.
+
+Stemt activiteiten van zichzelf (en anderen) op elkaar af en bepaalt hun volgorde zodat doeleinden efficiënt en effectief gerealiseerd worden.
+
+Niveau D: uitwerken
+
+Maakt ideeën en meningen in begrijpelijke taal aan anderen mondeling duidelijk en weet aan te sluiten bij het publiek.
+
+Beschrijving van de functie: De informatiemanager ROT:
+
+### 2.1. Overzicht kerntaken
+
+De informatiemanager ROT wordt vooraf geraadpleegd en adviseert aan de regionaal operationeel leider bij het (her)definiëren van de te behalen prestaties binnen het proces in de gehele informatielijn om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
+
+De informatiemanager ROT is verantwoordelijk voor het (opnieuw) organiseren van het proces in de gehele informatielijn om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
+
+Omgaan met het mogelijk niet als volwaardig lid van het team gezien worden en daarbij toch rolvast weten te blijven.
+
+Omgaan met het mogelijk niet als volwaardig lid van het team gezien worden en daarbij toch rolvast weten te blijven.
+
+Signaleert problemen; herkent belangrijke informatie; legt verbanden tussen gegevens. Spoort mogelijke oorzaken van problemen op; zoekt terzake doende gegevens.
+
+Maakt ideeën en meningen in begrijpelijke taal aan anderen mondeling duidelijk en weet aan te sluiten bij het publiek.
+
+Beschrijving van de functie: De leider commando plaats incident:
+
+De leider CoPI is verantwoordelijk voor het (her)definiëren van de prestaties binnen operationele leiding, operatiën, informatie en crisiscommunicatie.
+
+De leider CoPI is verantwoordelijk voor het (her)definiëren van de te behalen prestaties bij het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
+
+De leider CoPI is verantwoordelijk voor het (her)definiëren van de te behalen prestaties binnen het proces om feiten en gegevens te verzamelen, verwerken, veredelen en verstrekken aan de juiste afnemers.
+
+De leider CoPI is eindverantwoordelijk voor het verzamelen, verwerken, veredelen en verstrekken van feiten en gegevens aan de juiste afnemers.
+
+De leider CoPI is eindverantwoordelijk voor het (opnieuw) organiseren van de randvoorwaarden voor het realiseren van de crisiscommunicatie.
+
+De leider CoPI is (eind)verantwoordelijk voor het uitvoeren van de operationele leiding, operatiën, informatie en crisiscommunicatie.
+
+De leider CoPI is eindverantwoordelijk voor het (opnieuw) organiseren van de randvoorwaarden voor het bestrijden van de oorzaak en/of het beheersen van de gevolgen van een (dreigend) incident.
+
+Afwegen van de openbaarheid van de informatie; wat wel of niet vrijgeven?
+
+Zorgen voor communicatie op basis van het onjuiste beeld over de crisisorganisatie in de media en maatschappij.
+
+Niveau C: bijsturen
+
+Niveau A: beheersen
+
+Functienaam: procesmanager multidisciplinair oefenen
+
+De Procesmanager Multidisciplinair Oefenen is verantwoordelijk voor het (her)definiëren van de prestaties in de uitvoering van de evaluatie van de multidisciplinaire oefening.
+
+De Procesmanager Multidisciplinair Oefenen is verantwoordelijk voor het (her)definiëren van de prestaties in de uitvoering van de evaluatie van de multidisciplinaire oefening.
+
+Niveau C: overzicht houden
+
+Stemt activiteiten van zichzelf (en anderen) op elkaar af en bepaalt hun volgorde zodat doeleinden efficiënt en effectief gerealiseerd worden.
+
+Voert in een team een opdracht uit. Draagt bij aan de harmonie van de groep en aan de optimale
+
+Niveau B: relaties leggen
+
+Niveau B: stimuleren
+
+Niveau C: afwegen
+
+Niveau B: regionaal
+
+### 1.1. Algemene informatie
+
+### 3.1. Uitwerking kerntaken
+
+Niveau B (regionaal)
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
