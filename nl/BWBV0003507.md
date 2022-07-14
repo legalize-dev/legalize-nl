@@ -4,7 +4,7 @@ identifier: "BWBV0003507"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-02-09"
-last_updated: "2016-09-19"
+last_updated: "2022-07-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003507"
 soort: "verdrag"
@@ -116,7 +116,11 @@ Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de daara
 
 - (z). „Rijrichting” en „overeenkomstig de rijrichting”: de rechterzijde indien ingevolge de nationale wetgeving de bestuurder een tegemoetkomend voertuig aan zijn linkerzijde moet laten voorbijgaan; in het omgekeerde geval betekenen deze uitdrukkingen: de linkerzijde;
 
-- (aa). Onder de eis, dat de bestuurder andere voertuigen „voorrang” moet „verlenen” wordt verstaan, dat hij niet mag doorrijden of een manoeuvre mag voortzetten, indien zulks de kans met zich zou brengen dat bestuurders van andere voertuigen gedwongen worden de richting of de snelheid van hun voertuig plotseling te wijzigen.
+- (aa). Onder de eis, dat de bestuurder andere voertuigen „voorrang” moet „verlenen” wordt verstaan, dat hij niet mag doorrijden of een manoeuvre mag voortzetten, indien zulks de kans met zich zou brengen dat bestuurders van andere voertuigen gedwongen worden de richting of de snelheid van hun voertuig plotseling te wijzigen;
+
+- (ab). „Geautomatiseerd rijsysteem”: een voertuigsysteem dat gebruikmaakt van zowel hardware als software voor het voortdurend dynamisch besturen van een voertuig;
+
+- (ac). „Dynamisch besturen”: het in real time uitvoeren van alle operationele en tactische functies die nodig zijn om het voertuig te verplaatsen. Dit omvat het besturen van de laterale en longitudinale bewegingen van het voertuig, het monitoren van de weg, het reageren op gebeurtenissen in het wegverkeer en het plannen en signaleren van manoeuvres.
 
 ##### Artikel 2. Bijlagen bij het Verdrag
 
@@ -234,9 +238,9 @@ De Partijen bij dit Verdrag die geen Partij zijn bij het [Verdrag inzake Verkeer
 
 5. Elke bestuurder dient te allen tijde in staat te zijn om zijn voertuig in zijn macht te hebben of zijn dieren te geleiden.
 
-5bis. Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2016-09-19&g=2016-09-19), wanneer zij in overeenstemming zijn met de eisen voor constructie, montage en gebruik zoals vervat in internationale juridische instrumenten inzake wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen4)De Reglementen van de VN gehecht aan de „Overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen”, gedaan te Genève op 20 maart 1958.De Mondiale Technische Reglementen van de VN opgesteld in het kader van de „Overeenkomst betreffende de vaststelling van mondiale technische reglementen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen”, gedaan te Genève op 25 juni 1998.;
+5bis. Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2022-07-14&g=2022-07-14), wanneer zij in overeenstemming zijn met de eisen voor constructie, montage en gebruik zoals vervat in internationale juridische instrumenten inzake wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen4)De Reglementen van de VN gehecht aan de „Overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen”, gedaan te Genève op 20 maart 1958.De Mondiale Technische Reglementen van de VN opgesteld in het kader van de „Overeenkomst betreffende de vaststelling van mondiale technische reglementen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen”, gedaan te Genève op 25 juni 1998.;
 
-Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd en die niet in overeenstemming zijn met voornoemde eisen voor constructie, montage en gebruik, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2016-09-19&g=2016-09-19), wanneer deze systemen door de bestuurder kunnen worden overgenomen of uitgeschakeld.
+Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd en die niet in overeenstemming zijn met voornoemde eisen voor constructie, montage en gebruik, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2022-07-14&g=2022-07-14), wanneer deze systemen door de bestuurder kunnen worden overgenomen of uitgeschakeld.
 
 6. Een bestuurder van een voertuig dient te allen tijde alle andere activiteiten dan rijden tot een minimum te beperken. De nationale wetgeving moet regels opstellen voor het gebruik van telefoons door bestuurders van voertuigen. In elk geval moet de wet het gebruik verbieden van een in de hand gehouden telefoon door een bestuurder van een motorvoertuig of bromfiets wanneer het voertuig in beweging is.
 
@@ -786,7 +790,7 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 ##### Artikel 39. Technische eisen en inspectie van voertuigen
 
-1. Elk motorvoertuig, elke aanhangwagen en elk samenstel van voertuigen in het internationale verkeer dient te voldoen aan de bepalingen van [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&z=2016-09-19&g=2016-09-19) bij dit Verdrag. Bovendien dienen zij rijtechnisch in goede staat van onderhoud te verkeren. Wanneer deze voertuigen worden voorzien van systemen, onderdelen en uitrustingsstukken die in overeenstemming zijn met de eisen voor constructie, montage en gebruik conform de technische bepalingen van internationale juridische instrumenten bedoeld in [artikel 8, lid 5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=8&z=2016-09-19&g=2016-09-19), van dit Verdrag, worden zij geacht in overeenstemming te zijn met Bijlage 5.
+1. Elk motorvoertuig, elke aanhangwagen en elk samenstel van voertuigen in het internationale verkeer dient te voldoen aan de bepalingen van [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&z=2022-07-14&g=2022-07-14) bij dit Verdrag. Bovendien dienen zij rijtechnisch in goede staat van onderhoud te verkeren. Wanneer deze voertuigen worden voorzien van systemen, onderdelen en uitrustingsstukken die in overeenstemming zijn met de eisen voor constructie, montage en gebruik conform de technische bepalingen van internationale juridische instrumenten bedoeld in [artikel 8, lid 5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=8&z=2022-07-14&g=2022-07-14), van dit Verdrag, worden zij geacht in overeenstemming te zijn met Bijlage 5.
 
 2. De nationale wetgeving dient periodieke technische inspecties voor te schrijven van:
 
@@ -995,6 +999,28 @@ Behalve de verklaringen, mededelingen en kennisgevingen bedoeld in de artikelen 
 ##### Artikel 56
 
 De oorspronkelijke tekst van dit Verdrag, gedaan in één enkel exemplaar in de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle vijf teksten gelijkelijk authentiek, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten bedoeld in artikel 45, eerste lid van dit Verdrag.
+
+IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized by their respective Governments, have signed this Convention.
+
+DONE at Vienna this eighth day of November, one thousand nine hundred and sixty-eight.
+
+##### Artikel 34bis. Geautomatiseerd rijden
+
+Aan de eis dat elk rijdend voertuig of elk rijdend samenstel van voertuigen een bestuurder dient te hebben, wordt geacht te zijn voldaan wanneer het voertuig gebruikmaakt van een geautomatiseerd rĳsysteem dat voldoet aan:
+
+- a. de nationaal van toepassing zijnde technische reglementen en elk toepasselijk internationaal rechtsinstrument betreffende wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen, en
+
+- b. de nationaal van toepassing zijnde regelgeving inzake werking en gebruik.
+
+De toepassing van dit artikel is beperkt tot het grondgebied van de Verdragsluitende Partij waar de relevante nationaal van toepassing zijnde technische reglementen en regelgeving inzake werking en gebruik van toepassing zijn.
+
+### Hoofdstuk III. VOORWAARDEN VOOR DE TOELATING VAN MOTORVOERTUIGEN EN AANHANGWAGENS TOT HET INTERNATIONALE VERKEER
+
+### Hoofdstuk IV. BESTUURDERS VAN MOTORVOERTUIGEN
+
+### Hoofdstuk V. VOORWAARDEN VOOR DE TOELATING VAN FIETSEN EN BROMFIETSEN TOT HET INTERNATIONALE VERKEER
+
+### Hoofdstuk VI. SLOTBEPALINGEN
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized by their respective Governments, have signed this Convention.
 
