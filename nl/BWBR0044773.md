@@ -4,7 +4,7 @@ identifier: "BWBR0044773"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-15"
-last_updated: "2021-10-01"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044773"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **concern:** de economische eenheid waarin rechtspersonen, vennootschappen en natuurlijke personen organisatorisch zijn verbonden;
 
-- –. **elektronische middelen:** de elektronische middelen, met inbegrip van de controledatabank, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.3&z=2021-10-01&g=2021-10-01), die worden gebruikt bij het organiseren van kansspelen op afstand;
+- –. **elektronische middelen:** de elektronische middelen, met inbegrip van de controledatabank, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.3&z=2022-07-15&g=2022-07-15), die worden gebruikt bij het organiseren van kansspelen op afstand;
 
 - –. **gekwalificeerde deelneming:** een rechtstreeks of middellijk belang van ten minste tien procent van het geplaatste aandelenkapitaal of een daarmee vergelijkbaar belang, of het rechtstreeks of middellijk kunnen uitoefenen van ten minste tien procent van de stemrechten of een daarmee vergelijkbare zeggenschap;
 
@@ -76,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **lidstaat:** staat die partij is bij het Verdrag betreffende de werking van de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte;
 
-- –. **niet-kritiek onderdeel van het spelsysteem:** een onderdeel van het spelsysteem dat in het systeem voor wijzigingsbeheer, bedoeld in [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=6&artikel=4.41&z=2021-10-01&g=2021-10-01), niet is aangemerkt als kritiek voor de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen;
+- –. **niet-kritiek onderdeel van het spelsysteem:** een onderdeel van het spelsysteem dat in het systeem voor wijzigingsbeheer, bedoeld in [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=6&artikel=4.41&z=2022-07-15&g=2022-07-15), niet is aangemerkt als kritiek voor de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen;
 
 - –. **Onze Minister:** Onze Minister voor Rechtsbescherming;
 
@@ -102,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **sportwedstrijd:** wedstrijd, georganiseerd door of onder auspiciën van de door het NOC*NSF erkende nationale sportorganisaties en hun geledingen, of door vergelijkbare internationale, al dan niet overkoepelende sportorganisaties, dan wel een andere wedstrijd van een sport die door het NOC*NSF als sport is aangemerkt;
 
-- –. **tegenrekening:** de op naam van een speler bij een in een lidstaat gevestigde kredietinstelling met een vergunning als bedoeld in artikel 8 van [Richtlijn 2013/36](32013L0036)/EU of bij een in een lidstaat gevestigde betaaldienstverlener met een vergunning als bedoeld in artikel 11 van Richtlijn (EU) 2015/2366 aangehouden rekening;
+- –. **tegenrekening:** de op naam van een speler aangehouden rekening bij een in een lidstaat gevestigde kredietinstelling met een vergunning als bedoeld in artikel 8 van [Richtlijn 2013/36](32013L0036)/EU, bij een in een lidstaat gevestigde betaaldienstverlener met een vergunning als bedoeld in artikel 11 van [Richtlijn (EU) 2015/2366](32015L2366) of bij een in een lidstaat gevestigde elektronisch geldinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met een vergunning als bedoeld in [artikel 2:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) of die voldoet aan [artikel 2:10e van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10e);
 
 - –. **uiteindelijke belanghebbende:** degene die daaronder wordt verstaan op grond van de [Wet ter voorkoming van witwassen en financiering van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
 
@@ -272,11 +272,11 @@ De vergunninghouder draagt er zorg voor dat zijn werknemers en anderen die bij d
 
 - b. bevoegd zijn hem buiten rechte te vertegenwoordigen.
 
-2. De vertegenwoordiger of vertegenwoordigers zijn deskundig op het gebied van kansspelverslaving en verslavingspreventie. Onverminderd [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=3&artikel=3.5&z=2021-10-01&g=2021-10-01) draagt de vergunninghouder er voor zorg dat de vertegenwoordiger of vertegenwoordigers te allen tijde volledig zijn geïnformeerd over zijn ter zake relevante voornemens en besluiten en over de ter zake relevante bevindingen en adviezen van de functionaris of functionarissen, bedoeld in de [artikelen 7, derde lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7).
+2. De vertegenwoordiger of vertegenwoordigers zijn deskundig op het gebied van kansspelverslaving en verslavingspreventie. Onverminderd [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=3&artikel=3.5&z=2022-07-15&g=2022-07-15) draagt de vergunninghouder er voor zorg dat de vertegenwoordiger of vertegenwoordigers te allen tijde volledig zijn geïnformeerd over zijn ter zake relevante voornemens en besluiten en over de ter zake relevante bevindingen en adviezen van de functionaris of functionarissen, bedoeld in de [artikelen 7, derde lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7).
 
 3. De vertegenwoordiger of vertegenwoordigers beheersen de Nederlandse taal of een andere voor de organisaties, bedoeld in het eerste lid, onder a, begrijpelijke taal in voldoende mate voor een goede uitoefening van hun werkzaamheden.
 
-4. Voor de toepassing van [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.6&z=2021-10-01&g=2021-10-01) wordt de vertegenwoordiger aangemerkt als een persoon op een sleutelpositie.
+4. Voor de toepassing van [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.6&z=2022-07-15&g=2022-07-15) wordt de vertegenwoordiger aangemerkt als een persoon op een sleutelpositie.
 
 5. De vergunninghouder maakt zijn vertegenwoordiger of vertegenwoordigers in Nederland, hun contactgegevens en hun volmacht bekend op zijn website. De raad van bestuur maakt deze gegevens bekend op de website van de kansspelautoriteit.
 
@@ -322,7 +322,7 @@ De vergunninghouder draagt er zorg voor dat zijn werknemers en anderen die bij d
 
 2. De vergunninghouder voert de administratie, bedoeld in het eerste lid, op zodanige wijze dat zijn rechten en verplichtingen en de rechten van de speler te allen tijde duidelijk blijken.
 
-3. De vergunninghouder voert de administratie, bedoeld in het eerste lid, op zodanige wijze dat toezicht op naleving van het bepaalde bij en krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) binnen een redelijke termijn mogelijk is. Daartoe administreert hij in ieder geval de gegevens, bedoeld in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.1&z=2021-10-01&g=2021-10-01), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.2&z=2021-10-01&g=2021-10-01) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.3&z=2021-10-01&g=2021-10-01).
+3. De vergunninghouder voert de administratie, bedoeld in het eerste lid, op zodanige wijze dat toezicht op naleving van het bepaalde bij en krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) binnen een redelijke termijn mogelijk is. Daartoe administreert hij in ieder geval de gegevens, bedoeld in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.1&z=2022-07-15&g=2022-07-15), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.2&z=2022-07-15&g=2022-07-15) en [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.3&z=2022-07-15&g=2022-07-15).
 
 4. Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de administratie. Deze hebben in ieder geval betrekking op de daarin op te nemen gegevens en de termijnen gedurende welke die gegevens moeten worden bewaard.
 
@@ -358,7 +358,7 @@ De vergunninghouder vergewist zich van de betrouwbaarheid van de leidinggevenden
 
 ##### Artikel 4.7
 
-1. Onverminderd de [artikelen 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.5&z=2021-10-01&g=2021-10-01) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.6&z=2021-10-01&g=2021-10-01) draagt de vergunninghouder die weddenschappen organiseert, er zorg voor dat in zijn organisatie een doeltreffend beleid wordt ontwikkeld, toegepast en onderhouden, dat gericht is op het behoud van de integriteit van de bij die weddenschappen betrokken wedstrijden.
+1. Onverminderd de [artikelen 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.5&z=2022-07-15&g=2022-07-15) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.6&z=2022-07-15&g=2022-07-15) draagt de vergunninghouder die weddenschappen organiseert, er zorg voor dat in zijn organisatie een doeltreffend beleid wordt ontwikkeld, toegepast en onderhouden, dat gericht is op het behoud van de integriteit van de bij die weddenschappen betrokken wedstrijden.
 
 2. De vergunninghouder treft in ieder geval passende maatregelen gericht op samenwerking en uitwisseling van gegevens die in het belang zijn voor het voorkomen en onderkennen van manipulatie van wedstrijden met ter zake relevante organisaties die werkzaam zijn op het gebied van de integriteit van sport, waaronder in ieder geval de bij de wedstrijden betrokken wedstrijdorganisatoren en sportorganisaties, het Nationaal platform matchfixing, en een internationaal samenwerkingsverband van wedstrijdorganisatoren en kansspelaanbieders.
 
@@ -404,7 +404,7 @@ De vergunninghouder vergewist zich van de betrouwbaarheid van de leidinggevenden
 
 ##### Artikel 4.9
 
-1. De vergunninghouder organiseert geen weddenschappen op wedstrijden ten aanzien waarvan het onderzoek, bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.8&z=2021-10-01&g=2021-10-01), duidt op een onaanvaardbaar hoog risico op manipulatie van gebeurtenissen of uitkomsten.
+1. De vergunninghouder organiseert geen weddenschappen op wedstrijden ten aanzien waarvan het onderzoek, bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=4.8&z=2022-07-15&g=2022-07-15), duidt op een onaanvaardbaar hoog risico op manipulatie van gebeurtenissen of uitkomsten.
 
 2. De vergunninghouder organiseert in ieder geval geen weddenschappen:
 
@@ -486,7 +486,7 @@ De vergunninghouder schrijft uitsluitend natuurlijke personen als speler in.
 
 1. De vergunninghouder schrijft een persoon slechts in als speler, nadat die persoon heeft verklaard:
 
-- a. kennis te hebben genomen van de gegevens, bedoeld in [artikel 4.34](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=5&artikel=4.34&z=2021-10-01&g=2021-10-01) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8) en [9 van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=9);
+- a. kennis te hebben genomen van de gegevens, bedoeld in [artikel 4.34](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=5&artikel=4.34&z=2022-07-15&g=2022-07-15) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8) en [9 van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=9);
 
 - b. handelingsbekwaam te zijn;
 
@@ -534,11 +534,11 @@ De vergunninghouder beëindigt de inschrijving in ieder geval, indien de speler 
 
 - c. bij een redelijk vermoeden dat de speler door onmatige deelname aan kansspelen of door kansspelverslaving zichzelf of zijn naasten schade kan berokkenen en de vergunninghouder ten aanzien van hem de in [artikel 31m, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m) bedoelde kennisgeving aan de raad van bestuur heeft gedaan.
 
-2. Bij de toepassing van het eerste lid, onder b en c, maakt de vergunninghouder in ieder geval gebruik van de analyses, bedoeld in [artikel 4.5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.5&z=2021-10-01&g=2021-10-01), onderscheidenlijk de analyses bedoeld in artikel 15 van het Besluit werving, reclame en verslavingspreventie kansspelen.
+2. Bij de toepassing van het eerste lid, onder b en c, maakt de vergunninghouder in ieder geval gebruik van de analyses, bedoeld in [artikel 4.5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&paragraaf=1&artikel=4.5&z=2022-07-15&g=2022-07-15), onderscheidenlijk de analyses bedoeld in artikel 15 van het Besluit werving, reclame en verslavingspreventie kansspelen.
 
 ##### Artikel 4.20
 
-1. In gevallen als bedoeld in [artikel 4.19, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&artikel=4.19&z=2021-10-01&g=2021-10-01), onderzoekt de vergunninghouder de gegrondheid van het daarbedoelde vermoeden. De mogelijkheid tot deelname aan de vergunde kansspelen wordt geschorst voor de duur van het onderzoek.
+1. In gevallen als bedoeld in [artikel 4.19, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&artikel=4.19&z=2022-07-15&g=2022-07-15), onderzoekt de vergunninghouder de gegrondheid van het daarbedoelde vermoeden. De mogelijkheid tot deelname aan de vergunde kansspelen wordt geschorst voor de duur van het onderzoek.
 
 2. Indien de vergunninghouder de raad van bestuur overeenkomstig [artikel 31m, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m) in kennis stelt van een redelijk vermoeden dat de speler door onmatige deelname aan kansspelen of door kansspelverslaving zichzelf of zijn naasten schade kan berokkenen, wordt de mogelijkheid tot deelname geschorst voor de duur van het onderzoek door de raad van bestuur naar de toepassing van [artikel 33da van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33da).
 
@@ -566,7 +566,13 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 2. De vergunninghouder staat voor betalingstransacties met de speler uitsluitend het gebruik toe van betaalinstrumenten, die:
 
-- a. zijn uitgegeven door een in een lidstaat gevestigde kredietinstelling met een vergunning als bedoeld in artikel 8 van [Richtlijn 2013/36](32013L0036)/EU of door een in een lidstaat gevestigde betaaldienstverlener met een vergunning als bedoeld in artikel 11 van Richtlijn (EU) 2015/2366, en
+- a. zijn uitgegeven:
+
+- 1°. door een in een lidstaat gevestigde kredietinstelling met een vergunning als bedoeld in artikel 8 van [Richtlijn 2013/36](32013L0036)/EU;
+
+- 2°. door een in een lidstaat gevestigde betaaldienstverlener met een vergunning als bedoeld in artikel 11 van [Richtlijn (EU) 2015/2366](32015L2366), of
+
+- 3°. door een in een lidstaat gevestigde elektronisch geldinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met een vergunning als bedoeld in [artikel 2:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) of die voldoet aan [artikel 2:10e van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10e), en
 
 - b. ondubbelzinnig zijn te herleiden tot de persoon van de speler.
 
@@ -582,7 +588,7 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 1. Behoudens correcties crediteert de vergunninghouder de speelrekening van een speler uitsluitend met geldmiddelen die:
 
-- a. afkomstig zijn van de tegenrekening van die speler of van een andere betaalrekening die wordt aangehouden bij een kredietinstelling of betaaldienstverlener als bedoeld in [artikel 4.25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=4&artikel=4.25&z=2021-10-01&g=2021-10-01), en die ondubbelzinnig tot de persoon van die speler is te herleiden;
+- a. afkomstig zijn van de tegenrekening van die speler of van een andere betaalrekening die wordt aangehouden bij een instelling of dienstverlener als bedoeld in [artikel 4.25, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=4&artikel=4.25&z=2022-07-15&g=2022-07-15), en die ondubbelzinnig tot de persoon van die speler is te herleiden;
 
 - b. voortkomen uit speelwinst, of
 
@@ -590,7 +596,7 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 2. De vergunninghouder crediteert de speelrekening van een speler niet met geldmiddelen als bedoeld in het eerste lid, onder a:
 
-- a. voor zover daarmee een of meer van de door die speler met toepassing van [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&artikel=4.14&z=2021-10-01&g=2021-10-01) gestelde maxima wordt overschreden;
+- a. voor zover daarmee een of meer van de door die speler met toepassing van [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&artikel=4.14&z=2022-07-15&g=2022-07-15) gestelde maxima wordt overschreden;
 
 - b. indien de mogelijkheid tot deelname is geschorst.
 
@@ -618,13 +624,13 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 - b. voor zover het saldo op de speelrekening het door de speler in zijn spelersprofiel opgegeven maximum overschrijdt;
 
-- c. indien de inschrijving van de speler overeenkomstig [artikel 4.17, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&artikel=4.17&z=2021-10-01&g=2021-10-01), op diens verzoek wordt beëindigd.
+- c. indien de inschrijving van de speler overeenkomstig [artikel 4.17, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&artikel=4.17&z=2022-07-15&g=2022-07-15), op diens verzoek wordt beëindigd.
 
-4. Het derde lid is niet van toepassing, zo lang de mogelijkheid tot deelname van de speler overeenkomstig [artikel 4.19, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&artikel=4.19&z=2021-10-01&g=2021-10-01), is geschorst op grond van een redelijk vermoeden dat niet of niet langer wordt voldaan aan de voorwaarden voor inschrijving.
+4. Het derde lid is niet van toepassing, zo lang de mogelijkheid tot deelname van de speler overeenkomstig [artikel 4.19, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&artikel=4.19&z=2022-07-15&g=2022-07-15), is geschorst op grond van een redelijk vermoeden dat niet of niet langer wordt voldaan aan de voorwaarden voor inschrijving.
 
 ##### Artikel 4.30
 
-1. De vergunninghouder treft passende maatregelen die waarborgen dat het saldo op een speelrekening te allen tijde met inachtneming van de wettelijk voorschriften aan de speler kan worden uitgekeerd en dat daarvoor de gegevens, bedoeld in [artikel 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=4&artikel=4.32&z=2021-10-01&g=2021-10-01), beschikbaar zijn.
+1. De vergunninghouder treft passende maatregelen die waarborgen dat het saldo op een speelrekening te allen tijde met inachtneming van de wettelijk voorschriften aan de speler kan worden uitgekeerd en dat daarvoor de gegevens, bedoeld in [artikel 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=4&artikel=4.32&z=2022-07-15&g=2022-07-15), beschikbaar zijn.
 
 2. De vergunninghouder die de tegoeden van een speelrekening onderbrengt op een of meer bijzondere rekeningen als bedoeld in [artikel 31l, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31l), houdt die rekeningen aan op zijn naam met vermelding van zijn hoedanigheid als vergunninghouder.
 
@@ -662,7 +668,7 @@ De vergunninghouder registreert de betalingstransacties tussen hem en de speler 
 
 Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de betalingen tussen de vergunninghouder en de speler. Daarbij worden in ieder geval regels gesteld met betrekking tot:
 
-- a. de registratie van de betalingstransacties, bedoeld in [artikel 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=4&artikel=4.32&z=2021-10-01&g=2021-10-01), en
+- a. de registratie van de betalingstransacties, bedoeld in [artikel 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=4&artikel=4.32&z=2022-07-15&g=2022-07-15), en
 
 - b. de uitkering van prijzen in natura.
 
@@ -766,7 +772,7 @@ De vergunninghouder draagt er voor zorg dat in zijn organisatie wordt ontwikkeld
 
 1. De vergunninghouder plaatst de elektronische middelen in een lidstaat of de staat waar hij met ontheffing krachtens [artikel 31g, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31g) zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging heeft.
 
-2. In afwijking van het eerste lid, plaatst de vergunninghouder de controledatabank, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.3&z=2021-10-01&g=2021-10-01), in Nederland.
+2. In afwijking van het eerste lid, plaatst de vergunninghouder de controledatabank, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.3&z=2022-07-15&g=2022-07-15), in Nederland.
 
 ##### Artikel 4.43
 
@@ -788,11 +794,11 @@ Bij regeling van Onze Minister kunnen nadere technische en operationele vereiste
 
 5. De aanwijzing als keuringsinstelling kan worden ingetrokken, indien:
 
-- a. de aangewezen keuringsinstelling niet voldoet aan de vereisten, bedoeld in het eerste lid en de [artikelen 4.46 tot en met 4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=1&artikel=4.46&z=2021-10-01&g=2021-10-01);
+- a. de aangewezen keuringsinstelling niet voldoet aan de vereisten, bedoeld in het eerste lid en de [artikelen 4.46 tot en met 4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=1&artikel=4.46&z=2022-07-15&g=2022-07-15);
 
 - b. de aangewezen keuringsinstelling een aan de aanwijzing verbonden voorschrift heeft overtreden;
 
-- c. de aangewezen keuringsinstelling haar verplichtingen, bedoeld in [artikel 4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=1&artikel=4.49&z=2021-10-01&g=2021-10-01), niet heeft nageleefd, of
+- c. de aangewezen keuringsinstelling haar verplichtingen, bedoeld in [artikel 4.49](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=1&artikel=4.49&z=2022-07-15&g=2022-07-15), niet heeft nageleefd, of
 
 - d. de kwaliteit van de door de aangewezen keuringsinstelling uitgevoerde keuringen naar het oordeel van Onze Minister onvoldoende is.
 
@@ -800,7 +806,7 @@ Bij regeling van Onze Minister kunnen nadere technische en operationele vereiste
 
 ##### Artikel 4.45
 
-Met de aanwijzing als keuringsinstelling wordt gelijkgesteld een aanwijzing of vergelijkbare beschikking afgegeven door een bevoegde autoriteit in een andere lidstaat op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat wordt gewaarborgd met [artikel 4.44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=1&artikel=4.44&z=2021-10-01&g=2021-10-01). Artikel 4.44, derde tot en met zesde lid, is van overeenkomstige toepassing.
+Met de aanwijzing als keuringsinstelling wordt gelijkgesteld een aanwijzing of vergelijkbare beschikking afgegeven door een bevoegde autoriteit in een andere lidstaat op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat wordt gewaarborgd met [artikel 4.44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=1&artikel=4.44&z=2022-07-15&g=2022-07-15). Artikel 4.44, derde tot en met zesde lid, is van overeenkomstige toepassing.
 
 ##### Artikel 4.46
 
@@ -826,7 +832,7 @@ Met de aanwijzing als keuringsinstelling wordt gelijkgesteld een aanwijzing of v
 
 ##### Artikel 4.49
 
-1. De aangewezen keuringsinstelling verstrekt Onze Minister desgevraagd alle inlichtingen die deze voor de toepassing van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=1&artikel=4.44&z=2021-10-01&g=2021-10-01) nodig heeft.
+1. De aangewezen keuringsinstelling verstrekt Onze Minister desgevraagd alle inlichtingen die deze voor de toepassing van [artikel 4.44](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=1&artikel=4.44&z=2022-07-15&g=2022-07-15) nodig heeft.
 
 2. De aangewezen keuringstelling verstrekt de raad van bestuur desgevraagd alle inlichtingen die deze voor de uitoefening van zijn taken nodig heeft.
 
@@ -856,7 +862,7 @@ De vergunninghouder onderwerpt het gehele spelsysteem voor de ingebruikname daar
 
 ##### Artikel 4.52
 
-De vergunninghouder onderwerpt ieder onderdeel van het spelsysteem aan keuring door een aangewezen keuringsinstelling overeenkomstig de procedures, bedoeld in [artikel 4.41, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=6&artikel=4.41&z=2021-10-01&g=2021-10-01).
+De vergunninghouder onderwerpt ieder onderdeel van het spelsysteem aan keuring door een aangewezen keuringsinstelling overeenkomstig de procedures, bedoeld in [artikel 4.41, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=6&artikel=4.41&z=2022-07-15&g=2022-07-15).
 
 #### Paragraaf 3. Uitvoering
 
@@ -876,11 +882,11 @@ De vergunninghouder onderwerpt ieder onderdeel van het spelsysteem aan keuring d
 
 ##### Artikel 4.54
 
-1. Het keuringsrapport, bedoeld in [artikel 4.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=3&artikel=4.53&z=2021-10-01&g=2021-10-01), bevat in ieder geval:
+1. Het keuringsrapport, bedoeld in [artikel 4.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=3&artikel=4.53&z=2022-07-15&g=2022-07-15), bevat in ieder geval:
 
-- a. een beschrijving van het keuringsplan, bedoeld in [artikel 4.53, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=3&artikel=4.53&z=2021-10-01&g=2021-10-01);
+- a. een beschrijving van het keuringsplan, bedoeld in [artikel 4.53, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=3&artikel=4.53&z=2022-07-15&g=2022-07-15);
 
-- b. een beoordeling en toepassing van de procedures, bedoeld in [artikel 4.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=6&artikel=4.41&z=2021-10-01&g=2021-10-01), ter beoordeling van het risiconiveau van de onderscheiden onderdelen van diens spelsysteem;
+- b. een beoordeling en toepassing van de procedures, bedoeld in [artikel 4.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=6&artikel=4.41&z=2022-07-15&g=2022-07-15), ter beoordeling van het risiconiveau van de onderscheiden onderdelen van diens spelsysteem;
 
 - c. een beschrijving van de wijze waarop de procedures, bedoeld onder b, door de vergunninghouder worden toegepast;
 
@@ -888,7 +894,7 @@ De vergunninghouder onderwerpt ieder onderdeel van het spelsysteem aan keuring d
 
 - e. een verantwoording van de bij de keuring gehanteerde methoden, technieken en principes;
 
-- f. een verantwoording van de bij de keuring betrokken resultaten van eerdere keuringen als bedoeld in [artikel 4.53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=3&artikel=4.53&z=2021-10-01&g=2021-10-01);
+- f. een verantwoording van de bij de keuring betrokken resultaten van eerdere keuringen als bedoeld in [artikel 4.53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=7&paragraaf=3&artikel=4.53&z=2022-07-15&g=2022-07-15);
 
 - g. de resultaten van de keuring en een toereikende onderbouwing daarvan;
 
@@ -904,13 +910,13 @@ De vergunninghouder onderwerpt ieder onderdeel van het spelsysteem aan keuring d
 
 1. De vergunninghouder rapporteert aan de raad van bestuur periodiek over de uitvoering van:
 
-- a. het integriteitsbeleid, bedoeld in [hoofdstuk 4, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&z=2021-10-01&g=2021-10-01);
+- a. het integriteitsbeleid, bedoeld in [hoofdstuk 4, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=2&z=2022-07-15&g=2022-07-15);
 
-- b. de voorschriften met betrekking tot de inschrijving van spelers, bedoeld in [hoofdstuk 4, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&z=2021-10-01&g=2021-10-01);
+- b. de voorschriften met betrekking tot de inschrijving van spelers, bedoeld in [hoofdstuk 4, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=3&z=2022-07-15&g=2022-07-15);
 
-- c. de voorschriften met betrekking tot de betalingstransacties, bedoeld in [hoofdstuk 4, afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=4&z=2021-10-01&g=2021-10-01), en
+- c. de voorschriften met betrekking tot de betalingstransacties, bedoeld in [hoofdstuk 4, afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=4&z=2022-07-15&g=2022-07-15), en
 
-- d. de voorschriften met betrekking tot de consumentenbescherming, bedoeld in [hoofdstuk 4, afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=5&z=2021-10-01&g=2021-10-01).
+- d. de voorschriften met betrekking tot de consumentenbescherming, bedoeld in [hoofdstuk 4, afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=5&z=2022-07-15&g=2022-07-15).
 
 2. De vergunninghouder informeert de raad van bestuur onverwijld over:
 
