@@ -4,7 +4,7 @@ identifier: "BWBR0045051"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2022-07-15"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045051"
 soort: "ministeriele-regeling"
@@ -62,13 +62,13 @@ Dit hoofdstuk berust op verordening (EU) 2016/429 van het Europees Parlement en 
 
 ##### Artikel 2.2. Afwijking verbod drijfmethode bij doden wilde zwijnen
 
-1. In afwijking van [artikel 3.33, eerste lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.33) is het degenen die wilde zwijnen doden op grond van een vrijstelling of ontheffing als bedoeld in [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.10), in samenhang met [artikel 3.8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.8), een ontheffing als bedoeld in [artikel 3.17, eerste lid, aanhef in samenhang met onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.17), of een opdracht als bedoeld in [artikel 3.18, eerste lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.18), toegestaan daarbij tussen zonsopgang en zonsondergang een methode toe te passen waarbij hoogstens zes personen, in aanwezigheid van ten hoogste drie aangelijnde honden, voor wilde zwijnen hoorbaar in het gebied aanwezig zijn zonder deze opzettelijk te verontrusten, met het oogmerk om deze dieren binnen het schootsveld van hoogstens zes geweerdragers te bewegen, opdat zij deze dieren kunnen doden.
+1. In afwijking van [artikel 3.33, eerste lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.33) is het degenen die wilde varkens doden op grond van een vrijstelling of ontheffing als bedoeld in [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.10), in samenhang met [artikel 3.8, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.8), een ontheffing als bedoeld in [artikel 3.17, eerste lid, aanhef in samenhang met onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.17), of een opdracht als bedoeld in [artikel 3.18, eerste lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.18), toegestaan daarbij tussen zonsopgang en zonsondergang een methode toe te passen waarbij hoogstens zes personen, in aanwezigheid van ten hoogste drie aangelijnde honden, voor wilde varkens hoorbaar in het gebied aanwezig zijn zonder deze opzettelijk te verontrusten, met het oogmerk om deze dieren binnen het schootsveld van hoogstens zes geweerdragers te bewegen, opdat zij deze dieren kunnen doden.
 
 2. Het eerste lid is alleen van toepassing in het grondgebied van de provincies:
 
-- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2022-07-15&g=2022-07-15);
+- a. Gelderland, met uitzondering van het gebied, aangeduid op kaart 1 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2022-07-16&g=2022-07-16);
 
-- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2022-07-15&g=2022-07-15);
+- b. Limburg, met uitzondering van de gebieden, aangeduid op kaart 2 in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=1&z=2022-07-16&g=2022-07-16);
 
 - c. Noord-Brabant; en
 
@@ -76,7 +76,7 @@ Dit hoofdstuk berust op verordening (EU) 2016/429 van het Europees Parlement en 
 
 ### Hoofdstuk 3. Preventieve maatregelen aviaire influenza
 
-#### § 3.1. Algemeen
+#### § 2.2. Beheer wilde varkens
 
 ##### Artikel 3.1. Grondslag
 
@@ -114,7 +114,7 @@ Dit hoofdstuk berust op:
 
 ##### Artikel 3.3
 
-De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2022-07-15&g=2022-07-15), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2022-07-15&g=2022-07-15), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2022-07-15&g=2022-07-15), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2022-07-15&g=2022-07-15) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2022-07-15&g=2022-07-15) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
+De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.6&z=2022-07-16&g=2022-07-16), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.3&artikel=3.7&z=2022-07-16&g=2022-07-16), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2022-07-16&g=2022-07-16), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.10&z=2022-07-16&g=2022-07-16) en [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.11&z=2022-07-16&g=2022-07-16) zijn niet van toepassing op slachthuizen, vervoermiddelen, quarantainevoorzieningen, quarantainestations, grenscontroleposten en laboratoria die met officiële toestemming aviaire influenzavirussen bewaren.
 
 #### § 3.2. Algemene maatregelen
 
@@ -124,7 +124,7 @@ De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&p
 
 2. Een passende maatregel als bedoeld in het eerste lid is voor een exploitant van commercieel gehouden vogels, met uitzondering van vogels, behorende tot fazanten (Phasianidae), loopvogels of sierwatervogels, ten minste het binnen een gebouw brengen en daar houden van de vogels.
 
-3. Het eerste en tweede lid zijn niet van toepassing ten aanzien van vogels die zich bevinden in een regio als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=2&z=2022-07-15&g=2022-07-15).
+3. Het eerste en tweede lid zijn niet van toepassing ten aanzien van vogels die zich bevinden in een regio als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&bijlage=2&z=2022-07-16&g=2022-07-16).
 
 ##### Artikel 3.5. Verbod wedstrijden en tentoonstellingen met vogels
 
@@ -142,7 +142,7 @@ Een exploitant van commercieel gehouden eenden dekt de op zijn inrichting aanwez
 
 2. Het eerste lid is niet van toepassing indien het aanbrengen van strooisel overeenkomstig een hygiëneprotocol plaatsvindt.
 
-#### § 3.4. Maatregelen bezoek
+#### § 3.1. Algemeen
 
 ##### Artikel 3.8. Bezoekverbod vogelverblijfplaatsen
 
@@ -176,7 +176,7 @@ Een exploitant van commercieel gehouden eenden dekt de op zijn inrichting aanwez
 
 ##### Artikel 3.9. Afwijking bezoekverbod dierentuinen
 
-In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2022-07-15&g=2022-07-15) is het toegestaan een vogelverblijfplaats van een dierentuin waar risicovogels aanwezig zijn of gewoonlijk worden gehouden te betreden, indien:
+In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2022-07-16&g=2022-07-16) is het toegestaan een vogelverblijfplaats van een dierentuin waar risicovogels aanwezig zijn of gewoonlijk worden gehouden te betreden, indien:
 
 - a. risicovogels aanwezig zijn of gewoonlijk worden gehouden in een overkapte doorloopvolière; en
 
@@ -184,7 +184,7 @@ In afwijking van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&h
 
 ##### Artikel 3.10. Bezoekverbod commerciële inrichting
 
-1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2022-07-15&g=2022-07-15) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
+1. Onverminderd [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.4&artikel=3.8&z=2022-07-16&g=2022-07-16) is het bezoekers verboden een inrichting te betreden waar vogels commercieel worden gehouden.
 
 2. In afwijking van het eerste lid is het betreden van een inrichting als bedoeld in het eerste lid toegestaan, indien:
 
@@ -334,7 +334,7 @@ De exploitant die voor een zending salamanders verantwoordelijk is, voldoet aan 
 
 ### Hoofdstuk 7
 
-### Hoofdstuk 6. Reiniging en ontsmetting voertuigen uit het buitenland
+### Hoofdstuk 4. Preventieve maatregelen Sars-CoV-2 nertsen
 
 ### Hoofdstuk 6. Reiniging en ontsmetting voertuigen uit het buitenland
 
@@ -396,19 +396,19 @@ Dit hoofdstuk berust op [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci
 
 ##### Artikel 6.3. Reiniging en ontsmetting van voertuigen uit het buitenland
 
-1. Een vervoermiddel waarmee een of meer evenhoevigen, pluimvee of broedeieren in Nederland worden gebracht, afkomstig uit een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2022-07-15&g=2022-07-15) is bevestigd, of afkomstig uit een derde land, dat wordt gelost op een inrichting die niet beschikt over een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reinigings- en ontsmettingsplaats, wordt in voorkomend geval na reiniging en ontsmetting als bedoeld in [artikel 2.10b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10b) onmiddellijk vervoerd naar een ingevolge artikel 2.10c van het besluit erkende reinigings- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij, om aldaar te worden gereinigd en ontsmet.
+1. Een vervoermiddel waarmee een of meer evenhoevigen, pluimvee of broedeieren in Nederland worden gebracht, afkomstig uit een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2022-07-16&g=2022-07-16) is bevestigd, of afkomstig uit een derde land, dat wordt gelost op een inrichting die niet beschikt over een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reinigings- en ontsmettingsplaats, wordt in voorkomend geval na reiniging en ontsmetting als bedoeld in [artikel 2.10b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10b) onmiddellijk vervoerd naar een ingevolge artikel 2.10c van het besluit erkende reinigings- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij, om aldaar te worden gereinigd en ontsmet.
 
-2. Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen, pluimvee of broedeieren in een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2022-07-15&g=2022-07-15) is bevestigd, of in derde landen, en dat vanuit deze lidstaat of derde landen, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reiniging- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij.
+2. Een vervoermiddel dat kennelijk is gebruikt voor het vervoeren van evenhoevigen, pluimvee of broedeieren in een lidstaat waar een uitbraak van een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2022-07-16&g=2022-07-16) is bevestigd, of in derde landen, en dat vanuit deze lidstaat of derde landen, anders dan in doorvoer leeg in Nederland wordt gebracht, wordt onmiddellijk gereinigd en ontsmet op een ingevolge [artikel 2.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10c) erkende reiniging- en ontsmettingsplaats, een slachthuis, een verzamelcentrum of een broederij.
 
 3. De exploitant van het vervoermiddel, bedoeld in het eerste of tweede lid, overlegt binnen 24 uur na binnenkomst in Nederland aan de Minister een bewijs van de reiniging en ontsmetting als bedoeld in [artikel 2.10d, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.10d).
 
 4. Wanneer het vervoermiddel, bedoeld in het eerste of tweede lid, afkomstig is uit een lidstaat, meldt de exploitant aan de Minister in aanvulling op het derde lid binnen 24 uur na binnenkomst in Nederland het nummer van het gezondheidscertificaat, bedoeld in artikel 143 van [verordening (EU) nr. 2016/429](32329R2016), dat het meest recentelijk is afgegeven.
 
-5. Het eerste, tweede, derde en vierde lid zijn van overeenkomstige toepassing op een vervoermiddel dat afkomstig is uit een lidstaat, of gebied van een lidstaat, waar een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2022-07-15&g=2022-07-15), bij een in het wild levend dier is bevestigd, indien die lidstaat, of dat gebied van die lidstaat, is aangewezen in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.5&z=2022-07-15&g=2022-07-15).
+5. Het eerste, tweede, derde en vierde lid zijn van overeenkomstige toepassing op een vervoermiddel dat afkomstig is uit een lidstaat, of gebied van een lidstaat, waar een besmettelijke dierziekte, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.4&z=2022-07-16&g=2022-07-16), bij een in het wild levend dier is bevestigd, indien die lidstaat, of dat gebied van die lidstaat, is aangewezen in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.5&z=2022-07-16&g=2022-07-16).
 
 ##### Artikel 6.4. Besmettelijke dierziekten reiniging en ontsmetting vervoermiddelen afkomstig uit het buitenland
 
-De besmettelijke dierziekte, bedoeld in [artikel 6.3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2022-07-15&g=2022-07-15), zijn:
+De besmettelijke dierziekte, bedoeld in [artikel 6.3, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2022-07-16&g=2022-07-16), zijn:
 
 - a. voor evenhoevigen:
 
@@ -436,13 +436,13 @@ De besmettelijke dierziekte, bedoeld in [artikel 6.3, eerste, tweede en vijfde l
 
 ##### Artikel 6.5. Aanwijzing lidstaten met besmettingen bij wilde dieren waarvoor reiniging en ontsmetting is verplicht
 
-Als lidstaten of gebieden daarvan als bedoeld in [artikel 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2022-07-15&g=2022-07-15), zijn aangewezen:
+Als lidstaten of gebieden daarvan als bedoeld in [artikel 6.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=6&artikel=6.3&z=2022-07-16&g=2022-07-16), zijn aangewezen:
 
 - –. geen.
 
 ### Hoofdstuk 7
 
-### Hoofdstuk 8
+### Hoofdstuk 5. Verplaatsingen van salamanders
 
 ### Hoofdstuk 7
 
@@ -520,7 +520,7 @@ Vervallen
 
 ### Hoofdstuk 9
 
-### Hoofdstuk 10
+### Hoofdstuk 6. Reiniging en ontsmetting voertuigen uit het buitenland
 
 ## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&artikel=2.2&z=2022-04-30&g=2022-04-30)
 
@@ -606,11 +606,161 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Regio 11
 
-### Regio 13
+### 1. Leefgebied Wild zwijn Veluwe
 
 ### Regio 16
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 2. Leefgebied De Meinweg, Leefgebied Meerlebroek
+
+### Regio 18
+
+### Enige bepaling
+
+### Regio 20
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 2.1. Algemeen
+
+##### Artikel 2.1a. Begripsbepalingen
+
+1. In deze paragraaf wordt verstaan onder:
+
+- **beperkingszone I:** gebied, opgenomen in deel I van bijlage I bij [verordening 2021/605](32505R2021), of in deel I van bijlage 1a;
+
+- **beperkingszone II:** gebied, opgenomen in deel II van bijlage I bij [verordening 2021/605](32505R2021), of in deel II van bijlage 1a;
+
+- **beperkingszone III:** gebied, opgenomen in deel III van bijlage I bij [verordening 2021/605](32505R2021), of in deel III van bijlage 1a;
+
+- **verordening 853/2004:** [verordening (EG) 853/2004](32004R0853) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139);
+
+- **verordening 2020/687:** gedelegeerde [verordening (EU) 2020/687](32587R2020) van de Commissie van 17 december 2019 tot aanvulling van [Verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad wat regels voor de preventie en bestrijding van bepaalde in de lijst opgenomen ziekten betreft (PbEU 2020, L 174);
+
+- **verordening 2021/605:** [uitvoeringsverordening (EU) 2021/605](32505R2021) van de Commissie van 7 april 2021 tot vaststelling van bijzondere maatregelen ter bestrijding van Afrikaanse varkenspest (PbEU 2021, L 129).
+
+2. De definities, opgenomen in artikel 2 van [verordening 2020/687](32587R2020), in bijlage I bij [verordening 853/2004](32004R0853) en in artikel 2 van [verordening 2021/605](32505R2021) zijn van toepassing.
+
+#### § 2.3. Verplaatsingsverboden varkens ter uitvoering van [verordening 2021/605](32505R2021)
+
+##### Artikel 2.4. Verplaatsing gehouden varkens
+
+Het is verboden gehouden varkens te verplaatsen vanuit een beperkingszone I, II of III naar buiten de desbetreffende zone.
+
+##### Artikel 2.5. Verplaatsing levende producten van gehouden varkens
+
+Het is verboden levende producten, verkregen van varkens, gehouden in een beperkingszone II of III, te verplaatsen naar buiten de desbetreffende zone.
+
+##### Artikel 2.6. Verplaatsing dierlijke bijproducten van gehouden varkens
+
+1. Het is verboden dierlijke bijproducten, verkregen van varkens, gehouden in een beperkingszone II of III, te verplaatsen naar buiten de desbetreffende zone.
+
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op dierlijke bijproducten die zijn verkregen van varkens die zijn gehouden buiten een beperkingszone II en III, en die in slachthuizen in een beperkingszone II of III zijn geslacht, indien die dierlijke bijproducten in inrichtingen en tijdens het vervoer duidelijk worden gescheiden van dierlijke bijproducten die zijn verkregen van varkens, gehouden in een beperkingszone II of III.
+
+##### Artikel 2.7. Verplaatsing vers vlees, casings en vleesproducten van gehouden varkens
+
+1. Het is verboden vers vlees, casings en vleesproducten, verkregen van varkens, gehouden in een beperkingszone II of III, te verplaatsen naar buiten de desbetreffende zone.
+
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op vers vlees, casings en vleesproducten die zijn verkregen van varkens, gehouden in een beperkingszone II of III, indien die één van de risicobeperkende behandelingen hebben ondergaan die in de tabel in bijlage VII bij [verordening 2020/687](32587R2020) zijn aangegeven voor Afrikaanse varkenspest in een op grond van artikel 41, eerste lid, van [verordening 2021/605](32505R2021) aangewezen inrichting.
+
+##### Artikel 2.8. Verplaatsing producten van in het wild levende varkens
+
+1. Het is verboden de volgende producten te verplaatsen in een beperkingszone I, II en III of vanuit een beperkingszone I, II of III naar buiten de desbetreffende zone:
+
+- a. van in het wild levende varkens verkregen:
+
+- 1°. vers vlees;
+
+- 2°. vleesproducten,
+
+- 3°. andere producten van dierlijke oorsprong;
+
+- 4°. dierlijke bijproducten; en
+
+- 5°. afgeleide producten; en
+
+- b. voor menselijke consumptie bestemde kadavers van in het wild levende varkens.
+
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van dierlijke bijproducten indien:
+
+- a. de producten worden verplaatst naar een inrichting die is gelegen op Nederlands grondgebied;
+
+- b. de producten overeenkomstig [verordening (EG) nr. 1069/2009](32009R1069) worden verzameld, vervoerd en verwijderd; en
+
+- c. ingeval van verplaatsing naar een gebied buiten een beperkingszone I, II en III, het vervoermiddel is uitgerust met een satellietnavigatiesysteem om op enig moment de actuele locatie ervan te bepalen, door te geven en te registreren.
+
+3. De exploitant van het vervoer stelt de Minister in staat om op enig moment toezicht te houden op de verplaatsing van de vervoermiddelen als bedoeld in het tweede lid, onderdeel c, en bewaart de elektronische registratie van de verplaatsing gedurende ten minste twee maanden vanaf het tijdstip van de verplaatsing van de zending
+
+### Hoofdstuk 3. Preventieve maatregelen aviaire influenza
+
+#### § 3.2. Algemene maatregelen
+
+#### § 3.3. Maatregelen strooisel eenden
+
+#### § 3.4. Maatregelen bezoek
+
+#### § 3.5. Maatregelen vervoer
+
+#### § 3.6. Maatregel meldingsplicht
+
+#### § 3.7. Maatregel vroegsignalering eenden
+
+##### Artikel 3.16*. Verplichting tot zenden kadavers aan Gezondheidsdienst voor Dieren
+
+Vervallen
+
+### Hoofdstuk 7
+
+### Hoofdstuk 8
+
+### Hoofdstuk 9
+
+### Hoofdstuk 10
+
+### Hoofdstuk 11. Slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2022-07-16&g=2022-07-16)
+
+Gebieden als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2022-07-16&g=2022-07-16)
+
+Het leefgebied is in donkergroen aangeduid.
+
+## Bijlage 1a. Beperkingszones I, II en III als bedoeld in [artikel 2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=2&paragraaf=2.1&artikel=2.1a&z=2022-07-16&g=2022-07-16)
+
+Wanneer een in deze bijlage genoemde beperkingszone ook is opgenomen in bijlage I bij [verordening 2021/605](32505R2021), heeft de beschrijving van die zone in die verordening voorrang.
+
+### Deel I
+
+Lijst van gebieden die zijn aangewezen als beperkingszone I (Extra beperkingszones)
+
+(gereserveerd)
+
+### Deel II
+
+Lijst van gebieden die zijn aangewezen als beperkingszone II (Besmette zones)
+
+(gereserveerd)
+
+### Deel III
+
+Lijst van gebieden die zijn aangewezen als beperkingszone III (Beperkingszones)
+
+(gereserveerd)
+
+## Bijlage 2. Regio’s als bedoeld in [artikel 3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045051&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2022-07-16&g=2022-07-16)
+
+### Regio 4
+
+### Regio 5
+
+### Regio 8
+
+### Regio 11
+
+### Regio 13
+
+### Regio 16
 
 ### Regio 17
 
