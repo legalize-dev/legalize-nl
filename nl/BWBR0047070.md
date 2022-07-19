@@ -4,7 +4,7 @@ identifier: "BWBR0047070"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-04"
-last_updated: "2022-03-04"
+last_updated: "2022-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047070"
 soort: "ministeriele-regeling"
@@ -42,14 +42,12 @@ Wijzigt het Voorschrift Vreemdelingen 2000.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 3.9a, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.9a), zoals dat luidde tot 19 juli 2022, blijft tot 4 maart 2023 van toepassing op vreemdelingen:
+
+- a. die niet beschikken over een op 23 februari 2022 geldige Oekraïense permanente verblijfsvergunning; en
+
+- b. die vóór 19 juli 2022 stonden ingeschreven in de BRP.
 
 ##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
-
-Gelet op [artikel 3.1a, eerste lid, aanhef en onderdeel e, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.1a);
-
-Besluit:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
