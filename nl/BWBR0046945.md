@@ -4,7 +4,7 @@ identifier: "BWBR0046945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-20"
-last_updated: "2022-03-01"
+last_updated: "2022-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046945"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Als dienstonderdeel Toetsingskamer STAP, bedoeld in [artikel 22, eerste lid, van
 
 ##### Artikel 2
 
-Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046945&artikel=1&z=2022-07-20&g=2022-03-01) genoemde dienstonderdeel Toetsingskamer STAP voert de in [artikel 22, tweede lid, Subsidieregeling STAP-budget](https://wetten.overheid.nl/jci1.3:c:BWBR0045419&artikel=22) genoemde taken uit.
+Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046945&artikel=1&z=2022-07-20&g=2022-07-20) genoemde dienstonderdeel Toetsingskamer STAP voert de in [artikel 22, tweede lid, Subsidieregeling STAP-budget](https://wetten.overheid.nl/jci1.3:c:BWBR0045419&artikel=22) genoemde taken uit.
 
 ##### Artikel 3
 
