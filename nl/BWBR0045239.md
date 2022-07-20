@@ -4,7 +4,7 @@ identifier: "BWBR0045239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2021-06-17"
+last_updated: "2022-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045239"
 soort: "ministeriele-regeling"
@@ -72,7 +72,13 @@ In deze regeling wordt verstaan onder:
 
 - e. het rapporteren van haar bevindingen aan de Belastingdienst/Toeslagen.
 
-3. De commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij dat dienstig acht aan haar opdracht.
+3. De commissie geeft geen beoordeling als bedoeld in het tweede lid, onderdeel c of d, indien er over de feiten geen verschil van mening is tussen de Belastingdienst/Toeslagen en de belanghebbende, tenzij:
+
+- a. de kinderopvangtoeslag is uitbetaald aan een andere persoon dan de belanghebbende; of
+
+- b. er een bestuurlijke boete is opgelegd aan de belanghebbende.
+
+4. De commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij dat dienstig acht aan haar opdracht.
 
 ##### Artikel 4. Instellingsduur
 
@@ -124,7 +130,7 @@ De commissie stelt op een met de Belastingdienst/Toeslagen nader te bepalen mome
 
 2. Deze regeling vervalt met ingang van 1 juli 2024.
 
-3. Onze Minister kan de datum, genoemd in het tweede lid, eenmalig bij ministeriële regeling wijzigen in een ten hoogste twee jaar na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien geen werkzaamheden als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2021-06-17&g=2021-06-17), meer te verrichten zijn en ook niet meer te verwachten zijn.
+3. Onze Minister kan de datum, genoemd in het tweede lid, eenmalig bij ministeriële regeling wijzigen in een ten hoogste twee jaar na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien geen werkzaamheden als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2022-07-20&g=2022-07-20), meer te verrichten zijn en ook niet meer te verwachten zijn.
 
 ##### Artikel 11. Citeertitel
 
