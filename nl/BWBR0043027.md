@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2022-07-01"
+last_updated: "2022-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-02-18&g=2022-07-01).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2022-07-20).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-02-18&g=2022-07-01).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2022-07-20).
 
 ##### Artikel 4. De bestuursraad
 
@@ -250,9 +250,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-02-18&g=2022-07-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2022-07-20) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-02-18&g=2022-07-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2022-07-20) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -326,13 +326,17 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. Het ramen van en het doen van onderzoek naar de opbrengst van de belastingen en de milieuheffingen;
 
-- e. Het volgen van internationale economische ontwikkelingen en van de economische positie van voor Nederland belangrijke landen, zowel ten behoeve van internationaal overleg als ten behoeve van de beleidsvoorbereiding ter zake van de externe positie van de Nederlandse economie;
+- e. Het beheer van het inkomstenkader;
 
-- f. De vertegenwoordiging in interdepartementaal overleg en andere overlegorganen op algemeen financieel-economisch terrein, evenals het interdepartementaal coördineren op genoemd terrein;
+- f. Het volgen van internationale economische ontwikkelingen en van de economische positie van voor Nederland belangrijke landen, zowel ten behoeve van internationaal overleg als ten behoeve van de beleidsvoorbereiding ter zake van de externe positie van de Nederlandse economie;
 
-- g. De vertegenwoordiging in internationaal overleg met betrekking tot het algemene financiële en economische beleid en aspecten daarvan;
+- g. De vertegenwoordiging in interdepartementaal overleg en andere overlegorganen op algemeen financieel-economisch terrein, evenals het interdepartementaal coördineren op genoemd terrein;
 
-- h. Het doen en entameren van beleidsgericht wetenschappelijk onderzoek op het financieel-economische terrein uitmondend in een geregelde stroom publicaties in wetenschappelijke tijdschriften.
+- h. De vertegenwoordiging in internationaal overleg met betrekking tot het algemene financiële en economische beleid en aspecten daarvan;
+
+- i. Het doen en entameren van beleidsgericht wetenschappelijk onderzoek op het financieel-economische terrein uitmondend in een geregelde stroom publicaties in wetenschappelijke tijdschriften;
+
+- j. Het doen en entameren van kwantitatief beleidsgericht (wetenschappelijk) onderzoek op nationaal en internationaal financieel-economisch terrein, waarbij het datateam binnen AFEP (AFEP Analytics) hierbij een zelfstandige verantwoordelijkheid voor onderzoeksselectie, dataverzameling en -beheer, analyses, conclusies en presentaties draagt.
 
 ##### Artikel 14. Directie Bedrijfsvoering
 
@@ -410,7 +414,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2022-02-18&g=2022-07-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2022-07-20&g=2022-07-20). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -1210,7 +1214,7 @@ De Generale Thesaurie:
 
 - iv. Behandelt en adviseert over juridische vraagstukken voortvloeiende uit de taken van het Agentschap, incl. zaken met betrekking tot naoorlogs rechtsherstel;
 
-- v. Is verantwoordelijk voor het beheer van mandaten en (voor zover niet extern belegd) voor de uitvoering van de compliancefunctie van het Agentschap.
+- v. Is verantwoordelijk voor het beheer van mandaten en (voor zover niet extern belegd) voor de uitvoering van de compliancefunctie van het Agentschap, waarbij zij tevens tot taak heeft partijen waarmee het Agentschap samenwerkt te screenen op integriteit, als onderdeel waarvan persoonsgegevens, waaronder strafrechtelijke persoonsgegevens, kunnen worden verwerkt wanneer dat noodzakelijk is.
 
 - c. de afdeling Staatsschuld- en Schatkistbeheer (SSB), met als taken:
 
@@ -1226,7 +1230,7 @@ De Generale Thesaurie:
 
 - vi. Is verantwoordelijk voor het beheer en de administratie van de garantstelling voor de uitgifte van middellang schuldpapier van banken;
 
-- vii. Vervult de traditionele Mid-Office functie van het Agentschap bestaande uit onder andere de controle op de uitvoering van transacties door de afdeling CMK en de bewaking van limieten.
+- vii. Vervult de traditionele Mid-Office functie van het Agentschap bestaande uit onder andere de controle op de uitvoering van transacties door de afdeling CMK en de bewaking van limieten, waarbij zij tevens tot taak heeft partijen waarmee het Agentschap samenwerkt te screenen op integriteit, als onderdeel waarvan persoonsgegevens, waaronder strafrechtelijke persoonsgegevens, kunnen worden verwerkt wanneer dat noodzakelijk is.
 
 - d. de afdeling Control, Accounting en Rapportage (CAR), met als taken:
 
@@ -1384,9 +1388,9 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-02-18&g=2022-07-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2022-07-20) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-02-18&g=2022-07-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2022-07-20), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
