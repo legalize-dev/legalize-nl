@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2022-01-01"
+last_updated: "2022-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -56,7 +56,13 @@ In deze regeling wordt verstaan onder:
 
 - e. cursus Nederlands als tweede taal: door een cursusinstelling aangeboden cursus die de verzoeker in staat stelt mondelinge en schriftelijke vaardigheden in de Nederlandse taal te verwerven, teneinde het staatsexamen Nederlands als tweede taal te behalen;
 
-- f. inburgeringscursus: een door een cursusinstelling aangeboden cursus die opleidt tot de in [artikel 7, tweede lid, onderdelen b en c, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) bedoelde onderdelen van het inburgeringsexamen.
+- f. [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611): de Wet inburgering, zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip waarop de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) in werking treedt;
+
+- g. [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674): het Besluit inburgering, zoals dat besluit luidde onmiddellijk voorafgaand aan het tijdstip waarop het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555) in werking treedt;
+
+- h. [Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657): de Regeling inburgering, zoals die regeling luidde onmiddellijk voorafgaand aan het tijdstip waarop de [Regeling inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045574) in werking treedt;
+
+- i. inburgeringscursus: een door een cursusinstelling aangeboden cursus die opleidt tot de in [artikel 7, tweede lid, onderdelen b en c, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) bedoelde onderdelen van het inburgeringsexamen.
 
 #### § 2. Naturalisatietoets
 
@@ -74,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en consulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2020-10-10&g=2022-01-01), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
+2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2022-07-21&g=2022-07-21), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
 
 - a. voor wat betreft de examinering van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal de onderdelen, bedoeld in [artikel 3.9, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met goed gevolg heeft afgelegd; en
 
@@ -130,17 +136,17 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 7. Van het afleggen van de onderdelen van het inburgeringsexamen, bedoeld in [artikel 3.9, tweede lid, onderdelen a tot en met d, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) dan wel van het praktijkdeel, bedoeld in [artikel 3.7 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.7) zoals dit luidde op 31 december 2012 alsmede van het elektronisch praktijkexamen en de toets gesproken Nederlands, bedoeld in artikel 3.9, eerste lid, van het Besluit inburgering zoals dit luidde op 31 december 2012, is vrijgesteld de verzoeker die beschikt over één van de volgende certificaten van het Certificaat Nederlands als Vreemde Taal:
 
-- a. Certificaat Profiel Toeristische en Informele Taalvaardigheid (ERK-niveau A2);
+- a. Certificaat Maatschappelijk Informeel (ERK-niveau A2);
 
 - b. Certificaat Profiel Taalvaardigheid Praktische Beroepen (ERK-niveau A2);
 
-- c. Certificaat Profiel Maatschappelijke Taalvaardigheid (ERK-niveau B1),
+- c. Certificaat Maatschappelijk Formeel (ERK-niveau B1),
 
-- d. Certificaat Profiel Professionele Taalvaardigheid (ERK-niveau B2),
+- d. Certificaat Zakelijk Professioneel (ERK-niveau B2),
 
-- e. Certificaat Profiel Taalvaardigheid Hoger Onderwijs (ERK-niveau B2), of
+- e. Certificaat Educatief Startbekwaam (ERK-niveau B2), of
 
-- f. Certificaat Profiel Academische Taalvaardigheid (ERK-niveau C1).
+- f. Certificaat Educatief Professioneel (ERK-niveau C1).
 
 8. Van het afleggen van het onderdeel van het inburgeringsexamen oriëntatie op de Nederlandse arbeidsmarkt, bedoeld in de [artikelen 2.10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.10), en [3.9, derde lid, onderdeel b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), zijn vrijgesteld:
 
@@ -192,9 +198,7 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 5. Ter zake van de door DUO afgenomen toets, bedoeld in het vierde lid, onder b en c, is de vreemdeling aan DUO een bedrag van € 150 verschuldigd.
 
-6. Geen verplichting tot het afleggen van de naturalisatietoets op grond van [artikel 4, eerste lid, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), heeft de verzoeker, die ongeletterd is in de eigen en de Nederlandse taal en die in het bezit is van een verklaring en een advies van het Regionaal Opleidingen Centrum van Amsterdam te Amsterdam, dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan vijf jaar, inhoudende dat niettegenstaande de aantoonbaar geleverde inspanningen om zich te alfabetiseren in de Nederlandse taal van verzoeker niet meer kan worden verwacht dat hij binnen een tijdsbestek van vijf jaar de schriftelijke vaardigheden in het Nederlands zal beheersen op het in deze Regeling gewenste niveau en die het onderdeel spreekvaardigheid van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid onderdeel d, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), zoals dit luidde op 30 september 2017, met succes heeft afgelegd.
-
-7. Het derde tot en met vijfde lid is niet van toepassing op vreemdelingen die op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) nog inburgeringsplichtig zijn voor het onderdeel genaamd het participatieverklaringstraject.
+6. Het derde tot en met vijfde lid is niet van toepassing op vreemdelingen die op grond van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) nog inburgeringsplichtig zijn voor het onderdeel genaamd het participatieverklaringstraject.
 
 #### § 5. Overgangs- en slotbepalingen
 
