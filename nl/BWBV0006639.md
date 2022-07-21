@@ -4,7 +4,7 @@ identifier: "BWBV0006639"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-07-21"
-last_updated: "2016-10-05"
+last_updated: "2022-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006639"
 soort: "verdrag"
@@ -388,7 +388,7 @@ De partijen erkennen het belang van transparantie en een behoorlijke rechtsgang 
 
 3. De partijen erkennen dat het niet gepast is handel of investeringen aan te moedigen door de beschermingsniveaus die in de binnenlandse milieu- en arbeidswetgeving worden geboden, te verlagen of een verlaging ervan in het vooruitzicht te stellen. De partijen erkennen dat het tevens niet gepast is om milieu- of arbeidswetgeving, of beleidsmaatregelen en praktijken op dit gebied, te gebruiken in het kader van handelsprotectionisme.
 
-4. De partijen wisselen informatie en ervaringen uit over hun activiteiten ter bevordering van coherente en elkaar wederzijds versterkende handels-, sociale en milieudoelstellingen, met inbegrip van aspecten zoals maatschappelijk verantwoord ondernemen, milieuvriendelijke producten en diensten, klimaatvriendelijke producten en technologieën en programma’s om duurzaamheid te waarborgen, alsmede de overige aspecten als bedoeld in [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=VIII&z=2016-10-05&g=2016-10-05), en voeren de dialoog en de samenwerking op inzake duurzame ontwikkelingskwesties die in het kader van de handelsbetrekkingen aan de orde kunnen komen.
+4. De partijen wisselen informatie en ervaringen uit over hun activiteiten ter bevordering van coherente en elkaar wederzijds versterkende handels-, sociale en milieudoelstellingen, met inbegrip van aspecten zoals maatschappelijk verantwoord ondernemen, milieuvriendelijke producten en diensten, klimaatvriendelijke producten en technologieën en programma’s om duurzaamheid te waarborgen, alsmede de overige aspecten als bedoeld in [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=VIII&z=2022-07-21&g=2022-07-21), en voeren de dialoog en de samenwerking op inzake duurzame ontwikkelingskwesties die in het kader van de handelsbetrekkingen aan de orde kunnen komen.
 
 ##### Artikel 26. Dialoog met het maatschappelijk middenveld
 
@@ -456,7 +456,7 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 Overeenkomstig hun internationale verplichtingen, onder meer uit hoofde van het op 7 december 1944 ondertekende [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), verstrekken de lidstaten en Nieuw-Zeeland hun onderdanen daartoe de nodige identiteitsdocumenten.
 
-3. De partijen gaan na, op verzoek van een van beide partijen, of de sluiting van een overeenkomst tussen Nieuw-Zeeland en de Europese Unie op het gebied van overname, overeenkomstig [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2016-10-05&g=2016-10-05), van deze overeenkomst, mogelijk is. In die overeenkomst worden passende regelingen opgenomen voor onderdanen van derde landen en staatloze personen.
+3. De partijen gaan na, op verzoek van een van beide partijen, of de sluiting van een overeenkomst tussen Nieuw-Zeeland en de Europese Unie op het gebied van overname, overeenkomstig [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2022-07-21&g=2022-07-21), van deze overeenkomst, mogelijk is. In die overeenkomst worden passende regelingen opgenomen voor onderdanen van derde landen en staatloze personen.
 
 ##### Artikel 36. Consulaire bescherming
 
@@ -678,7 +678,7 @@ De partijen erkennen het belang van de energiesector en de rol van een goed func
 
 - b. houdt toezicht op de ontwikkeling van de brede betrekkingen tussen de partijen;
 
-- c. verzoekt waar nodig om informatie aan comités en andere lichamen die bij andere specifieke overeenkomsten, welke overeenkomstig [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2016-10-05&g=2016-10-05), deel uitmaken van het gemeenschappelijke institutionele kader, zijn ingesteld, en neemt door hen ingediende verslagen in overweging;
+- c. verzoekt waar nodig om informatie aan comités en andere lichamen die bij andere specifieke overeenkomsten, welke overeenkomstig [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2022-07-21&g=2022-07-21), deel uitmaken van het gemeenschappelijke institutionele kader, zijn ingesteld, en neemt door hen ingediende verslagen in overweging;
 
 - d. zorgt voor de uitwisseling van standpunten en de formulering van voorstellen over alle aangelegenheden van gemeenschappelijk belang, waaronder in de toekomst te nemen maatregelen en de daarvoor beschikbare middelen;
 
@@ -688,7 +688,7 @@ De partijen erkennen het belang van de energiesector en de rol van een goed func
 
 - g. streeft naar de beslechting van geschillen die zich ten aanzien van de toepassing of de interpretatie van deze overeenkomst voordoen;
 
-- h. onderzoekt de informatie die door een partij wordt ingediend overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=54&z=2016-10-05&g=2016-10-05); en
+- h. onderzoekt de informatie die door een partij wordt ingediend overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=54&z=2022-07-21&g=2022-07-21); en
 
 - i. doet aanbevelingen en treft besluiten, waar nodig, om uitvoering te geven aan specifieke aspecten van deze overeenkomst.
 
@@ -702,15 +702,15 @@ De partijen erkennen het belang van de energiesector en de rol van een goed func
 
 2. Onverminderd het bepaalde in de leden 3 tot en met 8 van dit artikel, worden alle geschillen met betrekking tot de uitlegging of toepassing van deze overeenkomst, uitsluitend via overleg tussen de partijen in de Gemengde Commissie opgelost. Om het geschil op te lossen, verstrekken de partijen de Gemengde Commissie alle relevante informatie die voor een grondig onderzoek van de kwestie noodzakelijk is.
 
-3. De partijen benadrukken opnieuw hun sterke, wederzijdse gehechtheid aan de mensenrechten en non-proliferatie en komen overeen dat wanneer een partij van oordeel is dat de andere partij zich schuldig heeft gemaakt aan een bijzonder ernstige en zwaarwegende schending van een van de essentiële elementen als beschreven in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=I&artikel=2&z=2016-10-05&g=2016-10-05), en [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=II&artikel=8&z=2016-10-05&g=2016-10-05), die een bedreiging vormt voor de internationale vrede en veiligheid zodat een onmiddellijke reactie vereist is, zij de andere partij onverwijld in kennis stelt van dit feit en van de passende maatregel(en) die zij voornemens is te nemen in het kader van deze overeenkomst. De kennisgevende partij adviseert de Gemengde Commissie over de noodzaak om dringend overleg over deze aangelegenheid te plegen.
+3. De partijen benadrukken opnieuw hun sterke, wederzijdse gehechtheid aan de mensenrechten en non-proliferatie en komen overeen dat wanneer een partij van oordeel is dat de andere partij zich schuldig heeft gemaakt aan een bijzonder ernstige en zwaarwegende schending van een van de essentiële elementen als beschreven in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=I&artikel=2&z=2022-07-21&g=2022-07-21), en [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=II&artikel=8&z=2022-07-21&g=2022-07-21), die een bedreiging vormt voor de internationale vrede en veiligheid zodat een onmiddellijke reactie vereist is, zij de andere partij onverwijld in kennis stelt van dit feit en van de passende maatregel(en) die zij voornemens is te nemen in het kader van deze overeenkomst. De kennisgevende partij adviseert de Gemengde Commissie over de noodzaak om dringend overleg over deze aangelegenheid te plegen.
 
-4. Bovendien kan een bijzonder ernstige en zwaarwegende schending van de essentiële elementen een reden zijn voor passende maatregelen binnen het gemeenschappelijke institutionele kader als bedoeld in [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2016-10-05&g=2016-10-05).
+4. Bovendien kan een bijzonder ernstige en zwaarwegende schending van de essentiële elementen een reden zijn voor passende maatregelen binnen het gemeenschappelijke institutionele kader als bedoeld in [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2022-07-21&g=2022-07-21).
 
 5. De Gemengde Commissie dient als forum voor dialoog en de partijen stellen alles in het werk om een minnelijke schikking te vinden in het onwaarschijnlijke geval dat zich een situatie als beschreven in lid 3 zou voordoen. Indien de Gemengde Commissie niet in staat blijkt een wederzijds aanvaardbare oplossing te vinden binnen 15 dagen na de aanvang van het overleg en uiterlijk 30 dagen na de datum van de kennisgeving als bedoeld in lid 3, wordt de kwestie doorverwezen voor overleg op ministerieel niveau, voor een verdere periode van maximaal 15 dagen.
 
 6. Indien binnen 15 dagen na de aanvang van het overleg op ministerieel niveau en uiterlijk 45 dagen na de datum van kennisgeving geen wederzijds aanvaardbare oplossing wordt gevonden, kan de kennisgevende partij besluiten passende maatregelen te nemen als kennisgegeven overeenkomstig lid 3. Het besluit tot opschorting wordt in de Unie met eenparigheid van stemmen genomen. In Nieuw-Zeeland wordt het besluit tot opschorting door de regering van Nieuw-Zeeland overeenkomstig zijn wet- en regelgeving genomen.
 
-7. Voor de toepassing van dit artikel wordt onder „passende maatregelen” verstaan: de gedeeltelijke opschorting, de volledige opschorting of de beëindiging van deze overeenkomst, dan wel, in voorkomend geval, van een andere specifieke overeenkomst die deel uitmaakt van het gemeenschappelijke institutionele kader als bedoeld in [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2016-10-05&g=2016-10-05), overeenkomstig de desbetreffende bepalingen van een dergelijke overeenkomst. De door een partij genomen passende maatregelen met het oog op de gedeeltelijke opschorting van deze overeenkomst zijn alleen van toepassing op de bepalingen van de titels I tot en met VIII. Bij de keuze van de passende maatregelen moet voorrang worden gegeven aan maatregelen die de betrekkingen tussen de partijen het minst verstoren. Deze maatregelen, die onder artikel 52, lid 2, vallen, moeten in verhouding staan tot de schending van de verplichtingen uit hoofde van deze overeenkomst en in overeenstemming zijn met het internationaal recht.
+7. Voor de toepassing van dit artikel wordt onder „passende maatregelen” verstaan: de gedeeltelijke opschorting, de volledige opschorting of de beëindiging van deze overeenkomst, dan wel, in voorkomend geval, van een andere specifieke overeenkomst die deel uitmaakt van het gemeenschappelijke institutionele kader als bedoeld in [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006639&titeldeel=IX&artikel=52&z=2022-07-21&g=2022-07-21), overeenkomstig de desbetreffende bepalingen van een dergelijke overeenkomst. De door een partij genomen passende maatregelen met het oog op de gedeeltelijke opschorting van deze overeenkomst zijn alleen van toepassing op de bepalingen van de titels I tot en met VIII. Bij de keuze van de passende maatregelen moet voorrang worden gegeven aan maatregelen die de betrekkingen tussen de partijen het minst verstoren. Deze maatregelen, die onder artikel 52, lid 2, vallen, moeten in verhouding staan tot de schending van de verplichtingen uit hoofde van deze overeenkomst en in overeenstemming zijn met het internationaal recht.
 
 8. De partijen zien nauwlettend toe op de ontwikkeling van de situatie die tot de maatregelen op grond van dit artikel heeft geleid. De partij die de passende maatregelen neemt, trekt deze in, zodra dit gerechtvaardigd is, en in elk geval zodra de redenen die aanleiding gaven tot toepassing ervan, niet meer bestaan.
 
