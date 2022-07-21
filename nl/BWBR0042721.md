@@ -4,7 +4,7 @@ identifier: "BWBR0042721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-04-01"
+last_updated: "2022-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042721"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 1. In dit artikel wordt onder KVK-nummer verstaan: het unieke nummer, bedoeld in de [artikelen 9, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), en [13, onder a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=13).
 
-2. Voor het verstrekken van overzichten van ondernemingen of rechtspersonen van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden, onverminderd de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=1&z=2022-04-01&g=2022-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=2&z=2022-04-01&g=2022-04-01), de volgende tarieven berekend:
+2. Voor het verstrekken van overzichten van ondernemingen of rechtspersonen van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden, onverminderd de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=1&z=2022-07-21&g=2022-07-21) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=2&z=2022-07-21&g=2022-07-21), de volgende tarieven berekend:
 
 - a. voor digitaal gewaarmerkte Uittreksels Handelsregister Kamer van Koophandel® in bulk:
 
@@ -158,9 +158,7 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 - –. verwerkingskosten extra rubriek: € 155,90 per levering per rubriek;
 
-- i. abonnement via internet voor KVK Handelsregister zoeken op natuurlijk persoon op grond van [artikel 28, derde lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=28): € 1.040,– per abonnement per jaar;
-
-- j. voor Jaarrekening selecties (gestandaardiseerd; losse posten van een jaarrekening):
+- i. voor Jaarrekening selecties (gestandaardiseerd; losse posten van een jaarrekening):
 
 - −. per geselecteerde financiële post: € 260,–, alsmede
 
@@ -168,7 +166,7 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 - −. KVK-nummer (met of zonder naam, adres en woonplaats): € 0,04 per verstrekt KVK-nummer;
 
-- k. voor KVK Dataservice:
+- j. voor KVK Dataservice:
 
 - –. per aansluiting: € 1.040,– eenmalig, alsmede
 
@@ -186,17 +184,15 @@ Voor het verstrekken van een afschrift of een Uittreksel Handelsregister Kamer v
 
 - –. voor Overzicht van deponeringen: € 2,40 per overzicht;
 
-- l. voor Application Programming Interface (KVK API), verstrekt via internet: € 5,20 per maand per aansluiting, alsmede
-
-- –. KVK Handelsregister search: € 0,008 per aanvraag;
-
-- –. KVK Handelsregister profile: € 0, 016 per aanvraag;
+- k. voor Application Programming Interface (KVK API), verstrekt via internet: € 5,20 per maand per aansluiting, alsmede
 
 - –. KVK Handelsregister basisprofiel: € 0, 016 per aanvraag;
 
 - –. KVK Handelsregister vestigingsprofiel: € 0, 016 per aanvraag;
 
-- m. voor KVK Handelsregister tellingen, offline uit te voeren door de Kamer van Koophandel:
+- –. KVK Handelsregister naamgeving: € 0,016 per aanvraag;
+
+- l. voor KVK Handelsregister tellingen, offline uit te voeren door de Kamer van Koophandel:
 
 - –. basis per aanvraag: € 83,15;
 
@@ -232,7 +228,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Voor de uitgifte van de identificatiecode voor juridische entiteiten die ingeschreven zijn in het handelsregister, bedoeld in de bijlage van de Uitvoeringsverordening (EU) Nr. 1247/2012 van de Commissie van 19 december 2012 tot vaststelling van technische uitvoeringsnormen met betrekking tot de formattering en de frequentie van de transactierapportage aan transactieregisters overeenkomstig Verordening (EU) nr. 648/2012 van het Europees parlement en de Raad betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (Legal Entity Identifier) is de volgende vergoeding verschuldigd:
 
-- –. € 65,– voor de eerste Legal Entity Identifier Inschrijving; en
+- –. € 65,– voor de eerste Legal Entity Identifier Inschrijving of Heropening; en
 
 - –. € 40,– voor de jaarlijkse Legal Entity Identifier Verlenging.
 
@@ -240,7 +236,7 @@ Voor de uitgifte van de identificatiecode voor juridische entiteiten die ingesch
 
 De wijze van inzien of verstrekking van gegevens, bedoeld in [artikel 2, zesde lid, van het Financieel besluit handelsregister 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034829&artikel=2), is vastgesteld in de bijlage bij deze regeling.
 
-## Bijlage. behorende bij [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=5a&z=2022-04-01&g=2022-04-01)
+## Bijlage. behorende bij [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0042721&artikel=5a&z=2022-07-21&g=2022-07-21)
 
 **De wijze van inzien of verstrekking van gegevens, bedoeld in artikel 2, zesde lid, van het Financieel besluit handelsregister 2014**
 
@@ -270,9 +266,7 @@ Het betreft informatieproducten die voor alle klanten, 24 uur en 7 dagen per wee
 
 - 9. Inzien van ten hoogste drie van de meest recente boekjaren jaarrekeningen (gestandaardiseerd)
 
-- 10. KVK Handelsregister zoeken op natuurlijke persoon via Internet
-
-- 11. KVK dataservice:
+- 10. KVK dataservice:
 
 - –. KVK Dataservice Inschrijving
 
@@ -286,17 +280,15 @@ Het betreft informatieproducten die voor alle klanten, 24 uur en 7 dagen per wee
 
 - –. Uittreksel Handelsregister Kamer van Koophandel® digitaal gewaarmerkt
 
-- 12. KVK API:
-
-- –. KVK Handelsregister search
-
-- –. KVK Handelsregister profile
+- 11. KVK API:
 
 - –. KVK Handelsregister basisprofiel
 
 - –. KVK Handelsregister vestigingsprofiel
 
-- 13. KVK Handelsregister tellingen
+- –. KVK Handelsregister naamgeving
+
+- 12. KVK Handelsregister tellingen
 
 Het betreft producten die alleen op aanvraag besteld kunnen worden.
 
