@@ -4,7 +4,7 @@ identifier: "BWBR0016067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-22"
-last_updated: "2015-07-01"
+last_updated: "2022-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016067"
 soort: "ministeriele-regeling"
@@ -44,13 +44,11 @@ Besluit:
 
 1. De vergoedingen voor reiskosten in verband met opleiding of scholing als bedoeld in [artikel 47a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47a), worden niet in mindering gebracht op de werkloosheidsuitkering voorzover zij niet meer bedragen dan:
 
-- a. in geval van vervoer per auto € 0,19 per kilometer, of
+- a. in geval van vervoer per auto het bedrag per afgelegde kilometer, genoemd in [artikel 31a, tweede lid, onderdeel a, onder 3°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), of
 
 - b. de werkelijk gemaakte reiskosten voor openbaar vervoer tweede klas.
 
-2. Indien het bedrag, bedoeld in [artikel 31a, tweede lid, onderdeel a, onder 3°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) wordt herzien, wordt het bedrag bedoeld in het eerste lid, onderdeel a, overeenkomstig herzien.
-
-3. In afwijking van het eerste lid, onderdeel a, worden indien de werknemer, bedoeld in [artikel 47a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47a), en voor zijn vervoer op medische gronden is aangewezen op vervoer per auto, de vergoedingen voor reiskosten niet in mindering gebracht op de werkloosheidsuitkering voorzover zij niet meer bedragen dan de kilometervergoeding voor vervoer per auto in eigen bezit, die het UWV op grond van [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) vaststelt.
+2. In afwijking van het eerste lid, onderdeel a, worden indien de werknemer, bedoeld in [artikel 47a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=47a), en voor zijn vervoer op medische gronden is aangewezen op vervoer per auto, de vergoedingen voor reiskosten niet in mindering gebracht op de werkloosheidsuitkering voorzover zij niet meer bedragen dan de kilometervergoeding voor vervoer per auto in eigen bezit, die het UWV op grond van [artikel 35 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=35) vaststelt.
 
 ##### Artikel 2. Overgangsrecht
 
