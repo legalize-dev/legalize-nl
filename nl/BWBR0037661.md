@@ -4,7 +4,7 @@ identifier: "BWBR0037661"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2021-05-05"
+last_updated: "2022-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037661"
 soort: "ministeriele-regeling"
@@ -44,13 +44,13 @@ Besluit:
 
 ##### Artikel 1. Vaststelling van modellen, instructies en toetsingskader
 
-1. Het model voor een kwalificatiedossier wordt vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2021-05-05&g=2021-05-05) behorende bij deze regeling.
+1. Het model voor een kwalificatiedossier wordt vastgesteld op de wijze bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2022-07-23&g=2022-07-23) behorende bij deze regeling.
 
-2. Het model voor een keuzedeel wordt vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=2&z=2021-05-05&g=2021-05-05) behorende bij deze regeling.
+2. Het model voor een keuzedeel wordt vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=2&z=2022-07-23&g=2022-07-23) behorende bij deze regeling.
 
-3. De instructies behorende bij de modellen, bedoeld in het eerste en tweede lid, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=3&z=2021-05-05&g=2021-05-05) behorende bij deze regeling.
+3. De instructies behorende bij de modellen, bedoeld in het eerste en tweede lid, worden vastgesteld op de wijze bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=3&z=2022-07-23&g=2022-07-23) behorende bij deze regeling.
 
-4. Het toetsingskader voor de kwalificatiestructuur wordt vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=4&z=2021-05-05&g=2021-05-05) behorende bij deze regeling.
+4. Het toetsingskader voor de kwalificatiestructuur wordt vastgesteld op de wijze bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=4&z=2022-07-23&g=2022-07-23) behorende bij deze regeling.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -86,7 +86,7 @@ In bijlage 1 is een overzicht met de NLQF/EQF descriptoren opgenomen. In bijlage
 
 ### 2.1.1. Voorblad
 
-De naamgeving is kort, weloverwogen en herkenbaar voor onderwijs, bedrijfsleven en deelnemer. De naam is ook uniek in de kwalificatiestructuur. Het kwalificatiedossier bevat de kwalificaties die op basis van verwantschap in de beroepengroep gebundeld zijn.
+De naamgeving is kort, weloverwogen en herkenbaar voor onderwijs, bedrijfsleven en student. De naam is ook uniek in de kwalificatiestructuur. Het kwalificatiedossier bevat de kwalificaties die op basis van verwantschap in de beroepengroep gebundeld zijn.
 
 ### 2. Voorblad, colofon en overzicht dossier
 
@@ -1000,9 +1000,9 @@ Als kwalificatiedossiers, keuzedelen, beroepsgerichte onderdelen en/of keuzedele
 
 Er is één (en bij uitzondering twee) twee keer de mogelijkheid tot het vaststellen van een nieuw of vernieuwd kwalificatiedossier door de minister van OCW. Voor de overige onderdelen van de kwalificatiestructuur kan dat vier keer per jaar gebeuren. Het toetsproces van de Toetsingskamer is afgestemd op de data van vaststelling.
 
-Deze regeling wordt met toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2021-05-05&g=2021-05-05) in de Staatscourant geplaatst.
+Deze regeling wordt met toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2022-07-23&g=2022-07-23) in de Staatscourant geplaatst.
 
-De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2021-05-05&g=2021-05-05) worden eveneens geplaatst op de websites:
+De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037661&bijlage=1&z=2022-07-23&g=2022-07-23) worden eveneens geplaatst op de websites:
 
 • www.s-bb.nl/kwalificatiedossiers; en
 
