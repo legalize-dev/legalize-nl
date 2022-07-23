@@ -4,7 +4,7 @@ identifier: "BWBR0046953"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-21"
-last_updated: "2022-07-09"
+last_updated: "2022-07-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046953"
 soort: "ministeriele-regeling"
@@ -38,7 +38,11 @@ entry_into_force: "2022-12-10"
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+In dit besluit wordt verstaan onder:
+
+- –. **verordening 2021/1060:** [Verordening (EU) Nr. 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231);
+
+- –. **Programma EFRO 2021-2027 West-Nederland:** programma als bedoeld in artikel 21 van [verordening 2021/1060](32960R2021) dat de provincies Flevoland, Zuid- en Noord-Holland en Utrecht beslaat.
 
 ##### Artikel 2
 
@@ -52,4 +56,14 @@ Het monitoringcomité, zoals ingesteld bij besluit van het College van burgemees
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+
+Gelet op [artikel 3 van de Uitvoeringswet EFRO](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&artikel=3);
+
+Gezien het verzoek van het College van burgemeester en Wethouders van de gemeente Rotterdam, gedaan in overeenstemming met de provincies Flevoland, Zuid- en Noord-Holland en Utrecht en de gemeenten Amsterdam, Utrecht, Rotterdam en Den Haag van 22 december 2021 en het verzoek van de Auditdienst Rijk van 24 mei 2022, kenmerk 2022-0000135794;
+
+Besluit:
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
