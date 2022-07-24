@@ -4,7 +4,7 @@ identifier: "BWBR0046954"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-24"
-last_updated: "2022-07-01"
+last_updated: "2022-07-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046954"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **Eenjarig project:** een project met een duur van maximaal één jaar gericht op de lokale integrale aanpak van radicalisering, extremisme en terrorisme, niet zijnde een preventieproject;
 
-- –. **Basis op orde taken:** een pakket taken dat de basis is voor de lokale integrale aanpak van radicalisering, extremisme en terrorisme als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-01);
+- –. **Basis op orde taken:** een pakket taken dat de basis is voor de lokale integrale aanpak van radicalisering, extremisme en terrorisme als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-24);
 
 - –. **hoofdaanvrager:** de gemeente die mede namens andere gemeenten in zijn regio een aanvraag indient;
 
-- –. **preventieproject:** een preventieproject van een gemeente als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=3&z=2022-07-24&g=2022-07-01):
+- –. **preventieproject:** een preventieproject van een gemeente als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=3&z=2022-07-24&g=2022-07-24):
 
 - –. **minister:** de Minister van Justitie en Veiligheid;
 
@@ -90,7 +90,7 @@ De minister kan in 2023 tot en met 2026 op aanvraag aan een gemeente een specifi
 
 ##### Artikel 4. Aanvraag
 
-1. Zowel de gemeente als de hoofdaanvrager kunnen een aanvraag tot verlening van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-01), indienen bij de minister.
+1. Zowel de gemeente als de hoofdaanvrager kunnen een aanvraag tot verlening van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-24), indienen bij de minister.
 
 2. De aanvraag in 2022 en in 2024 tot verlening van een uitkering voor de Basis op orde taken en preventieprojecten die meerjarig zijn, heeft telkens betrekking op de twee erop volgende jaren.
 
@@ -120,7 +120,7 @@ De minister kan in 2023 tot en met 2026 op aanvraag aan een gemeente een specifi
 
 ##### Artikel 6. Hoogte specifieke uitkering
 
-1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-01) bedraagt jaarlijks maximaal € 5.925.000.
+1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-24) bedraagt jaarlijks maximaal € 5.925.000.
 
 2. Bij de beoordeling van de aanvraag om een specifieke uitkering:
 
@@ -168,7 +168,7 @@ De hoofdaanvrager coördineert:
 
 - c. de regionale samenwerking met als doel het bewerkstelligen van een effectieve (regionale) samenwerking en kennisdeling tussen gemeenten;
 
-- d. de evaluatie van de effectiviteit van de besteding van de gelden, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=9&z=2022-07-24&g=2022-07-01).
+- d. de evaluatie van de effectiviteit van de besteding van de gelden, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=9&z=2022-07-24&g=2022-07-24).
 
 ##### Artikel 11. Verantwoording
 
