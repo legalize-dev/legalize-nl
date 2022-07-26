@@ -4,7 +4,7 @@ identifier: "BWBR0022123"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-26"
-last_updated: "2007-06-22"
+last_updated: "2022-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022123"
 soort: "ministeriele-regeling"
@@ -42,11 +42,15 @@ Besluit:
 
 ##### Artikel 1
 
-De vergoeding per vergadering, bedoeld in [artikel 3 van het Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353&artikel=3), wordt voor de commissie auteursrecht, genoemd in [artikel 3 van de Wet adviesstelsel Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008808&artikel=3), als volgt vastgesteld:
+De vergoeding per vergadering als bedoeld in [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) wordt voor de Commissie auteursrecht, genoemd in [artikel 3 van de Wet adviesstelsel Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008808&artikel=3), als volgt vastgesteld:
 
-- –. voor de voorzitter: € 187,
+- –. voor de voorzitter: € 130,
 
-- –. voor de overige leden: € 125.
+- –. voor de overige leden: € 100,
+
+- –. voor de secretaris: € 100,
+
+- –. voor de adjunct-secretaris: € 100.
 
 ##### Artikel 2
 
