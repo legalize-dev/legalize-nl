@@ -4,7 +4,7 @@ identifier: "BWBR0046969"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-27"
-last_updated: "2022-07-01"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046969"
 soort: "ministeriele-regeling"
@@ -106,9 +106,9 @@ In dit besluit wordt verstaan onder
 
 ##### Artikel 4. Personeels- en financieel mandaat
 
-1. De functionarissen genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&bijlage=1&z=2022-07-27&g=2022-07-01) bij dit besluit, zijn gemandateerd/ge(vol)machtigd tot het optreden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen en voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+1. De functionarissen genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&bijlage=1&z=2022-07-27&g=2022-07-27) bij dit besluit, zijn gemandateerd/ge(vol)machtigd tot het optreden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen en voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
-2. Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het doen van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&bijlage=2&z=2022-07-27&g=2022-07-01) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+2. Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het doen van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&bijlage=2&z=2022-07-27&g=2022-07-27) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 5. Mandaatverlening aan raadsmedewerkers in verband met het primaire proces
 
@@ -172,11 +172,11 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Raad voor de Kinderbescherming 
 
 ## Bijlage 1. Mandaatbesluit Raad voor de Kinderbescherming 2022
 
-Behorend bij en deel uitmakend van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&artikel=4&z=2022-07-27&g=2022-07-01) van het Mandaatbesluit Raad voor de Kinderbescherming 2022.
+Behorend bij en deel uitmakend van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&artikel=4&z=2022-07-27&g=2022-07-27) van het Mandaatbesluit Raad voor de Kinderbescherming 2022.
 
-De functionarissen bij wie in de kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&artikel=4&z=2022-07-27&g=2022-07-01) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het Burgerlijk Wetboek (BW) en de CAO Rijk aan de werkgever zijn toegekend.
+De functionarissen bij wie in de kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&artikel=4&z=2022-07-27&g=2022-07-27) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het Burgerlijk Wetboek (BW) en de CAO Rijk aan de werkgever zijn toegekend.
 
-De ambtenaren bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&artikel=4&z=2022-07-27&g=2022-07-01) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het BW en de CAO Rijk aan de werkgever zijn toegekend, met uitzondering van:
+De ambtenaren bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&artikel=4&z=2022-07-27&g=2022-07-27) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het BW en de CAO Rijk aan de werkgever zijn toegekend, met uitzondering van:
 
 - a. de bevoegdheid van werkgever tot het sluiten van een arbeidsovereenkomst als bedoeld in hoofdstuk 2 CAO Rijk;
 
@@ -216,7 +216,7 @@ De vestigingsmanager, manager administratieve ondersteuning, manager coördinato
 
 ## Bijlage 2. Mandaatbesluit Raad voor de Kinderbescherming 2022
 
-Behorend bij en deel uitmakend van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&artikel=4&z=2022-07-27&g=2022-07-01) van het Mandaatbesluit Raad voor de Kinderbescherming 2022.
+Behorend bij en deel uitmakend van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046969&artikel=4&z=2022-07-27&g=2022-07-27) van het Mandaatbesluit Raad voor de Kinderbescherming 2022.
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3), tot het aangaan van verplichtingen en het doen van uitgaven.
 
