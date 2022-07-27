@@ -4,7 +4,7 @@ identifier: "BWBR0035636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2021-07-16"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035636"
 soort: "ministeriele-regeling"
@@ -66,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De minister kan ten behoeve van de subsidiejaren 2020 tot en met 2022 op aanvraag een subsidie voor het verzorgen van een zorgopleiding verstrekken aan een opleidingsinrichting of een praktijkopleidingsinrichting die uitsluitend zorg levert aan jeugdigen tot 18 jaar.
+1. De minister kan ten behoeve van de subsidiejaren 2023 en 2024 op aanvraag een subsidie voor het verzorgen van een zorgopleiding verstrekken aan een opleidingsinrichting of een praktijkopleidingsinrichting die uitsluitend zorg levert aan jeugdigen tot 18 jaar.
 
 2. De subsidie wordt per kalenderjaar verstrekt.
 
-3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2021-07-16&g=2021-07-16) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2022-07-27&g=2022-07-27) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de CRT of de RSV.
 
@@ -150,9 +150,9 @@ Vervallen
 
 ##### Artikel 11
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2023, met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2025, met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
-Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2020–2022. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2023–2024. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 1. Instellingen
 
@@ -202,13 +202,13 @@ Besluit:
 
 | nr. | zorgopleiding | Subsidiebedrag per opleidingsplaats per jaar |
 | --- | --- | --- |
-| 1. | Gezondheidszorgpsycholoog in ggz | € 46.000,– |
-| 2. | Klinisch psycholoog in ggz | € 86.400,– |
-| 3. | Psychiater in ggz | € 87.200,– |
-| 4. | Psychotherapeut in ggz | € 58.500,– |
-| 5. | Klinisch Neuropsycholoog in ggz | € 90.600,– |
-| 6. | Verpleegkundig specialist ggz | € 85.300,– |
-|   | Prijspeil 2021 |   |
+| 1. | Gezondheidszorgpsycholoog in ggz | € 48.100,– |
+| 2. | Klinisch psycholoog in ggz | € 90.400,– |
+| 3. | Psychiater in ggz | € 91.300,– |
+| 4. | Psychotherapeut in ggz | € 61.200,– |
+| 5. | Klinisch Neuropsycholoog in ggz | € 94.900,– |
+| 6. | Verpleegkundig specialist ggz | € 89.300,– |
+|   | Prijspeil 2022 |   |
 
 **Ministerie van Volksgezondheid, Welzijn en Sport**
 
