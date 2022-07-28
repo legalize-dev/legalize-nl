@@ -4,7 +4,7 @@ identifier: "BWBR0047649"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-21"
-last_updated: "2022-07-09"
+last_updated: "2022-07-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047649"
 soort: "ministeriele-regeling"
@@ -59,5 +59,11 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaats
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Het Comité van Toezicht, ingesteld bij besluit van Gedeputeerde Staten van Noord-Brabant in de hoedanigheid als beheerautoriteit van 19 juli 2022 (Pb 2022, 9041), wordt aangewezen als monitoringcomité als bedoeld in artikel 38 van [verordening (EU) 2021/1060](32960R2021).
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
