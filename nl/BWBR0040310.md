@@ -4,7 +4,7 @@ identifier: "BWBR0040310"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2021-08-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040310"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **aanvullende eisen:** eisen als bedoeld in [artikel 8.2.2a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.2.2a);
 
-- **voortgezet onderwijs:** onderwijs bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- **voortgezet onderwijs:** onderwijs bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
 - **wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
@@ -100,7 +100,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelbaar beroepsonderwijs.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2021-08-01&g=2021-08-01), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2022-08-01&g=2022-08-01), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
 
 | Crebo | Opleiding | Grond voor aanvullende eis |
 | --- | --- | --- |
@@ -109,9 +109,6 @@ Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelb
 | 25071 | Zilversmid niveau 4 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
 | 25076 | Medewerker Uurwerktechniek niveau 3 | Fijne oog-handcoördinatie |
 | 25077 | Uurwerktechnicus niveau 4 | Fijne oog-handcoördinatie |
-| 25194 | AV-specialist niveau 4 | Creatieve en artistieke aanleg |
-| 25195 | Fotograaf niveau 4 | Creatieve en artistieke aanleg |
-| 25212 | Ruimtelijk vormgever niveau 4 | Creatieve en artistieke aanleg en ruimtelijk inzicht |
 | 25411 | Coördinator buurt, onderwijs en sport niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25412 | Coördinator sport- en bewegingsagogie niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25413 | Coördinator sport, bewegen en gezondheid niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
@@ -149,5 +146,8 @@ Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelb
 | 25683 | Maritiem officier alle schepen technisch | Fysieke geschiktheid (medische keuring) |
 | 25692 | Allround make-up and hair artist | Creatieve en artistieke aanleg |
 | 25710 | Instructeur paardensport en -houderij | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25717 | AV-Specialist | Creatieve en artistieke aanleg |
+| 25718 | Fotograaf niveau 4 | Creatieve en artistieke aanleg |
+| 25811 | Ruimtelijk vormgever niveau 4 | Creatieve en artistieke aanleg en ruimtelijk inzicht |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
