@@ -4,7 +4,7 @@ identifier: "BWBR0006192"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2022-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006192"
 soort: "AMvB"
@@ -52,19 +52,17 @@ In dit besluit wordt verstaan onder:
 
 "Onze Minister": Onze Minister van Onderwijs, Cultuur en Wetenschap,
 
-"wet": de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399),
-
-"inspectie": de inspectie, bedoeld in [artikel 113 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=113),
+"inspectie": de inspectie, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800),
 
 "examen": het staatsexamen Nederlands als tweede taal,
 
 "examenjaar": het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar,
 
-"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2022-01-01&g=2022-01-01),
+"examenonderdeel": een onderdeel van het examen als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2022-08-01&g=2022-08-01),
 
-"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=2022-01-01&g=2022-01-01),
+"examenprogramma": het examenprogramma, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=II&artikel=8&z=2022-08-01&g=2022-08-01),
 
-"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=2022-01-01&g=2022-01-01),
+"examenreglement": het examenreglement, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=III&artikel=10&z=2022-08-01&g=2022-08-01),
 
 "College voor toetsen en examens": College voor toetsen en examens, genoemd in [artikel 2, eerste lid, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2),
 
@@ -72,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 "diploma": het diploma Nederlands als tweede taal,
 
-"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2022-01-01&g=2022-01-01),
+"certificaat": een certificaat als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2022-08-01&g=2022-08-01),
 
 "kandidaat": degene die aan een of meer examenonderdelen deelneemt.
 
@@ -188,7 +186,7 @@ De kandidaat is geslaagd voor een examen indien voor alle examenonderdelen van e
 
 2. Aan de kandidaat die voor een of meer examenonderdelen een voldoende resultaat heeft behaald, wordt een certificaat uitgereikt. Op het certificaat wordt ten minste vermeld het examenonderdeel waarvoor het certificaat is verleend.
 
-3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2022-01-01&g=2022-01-01).
+3. Een diploma, als bedoeld in het eerste lid, wordt tevens uitgereikt aan degene die certificaten overlegt van alle examenonderdelen, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=I&artikel=4&z=2022-08-01&g=2022-08-01).
 
 4. Het College voor toetsen en examens stelt modellen van de diploma's en de certificaten voor programma I onderscheidenlijk programma II vast.
 
@@ -230,7 +228,7 @@ Het College voor toetsen en examens kan toestaan dat een gehandicapte kandidaat 
 
 2. Het College voor toetsen en examens kan ten behoeve van de toetsontwikkeling de kandidaat verzoeken om meer gegevens dan die bedoeld in het eerste lid. Het College voor toetsen en examens deelt de kandidaat mede dat hij niet verplicht is deze gegevens te verstrekken.
 
-3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2022-01-01&g=2022-01-01).
+3. De gegevens, bedoeld in het eerste en tweede lid, worden bewaard op een niet op de persoon herleidbare wijze. De gegevens kunnen langer worden bewaard dan het examenwerk, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 22. Geheimhouding
 
@@ -240,11 +238,11 @@ Een ieder die betrokken is bij de uitvoering van dit besluit en daarbij de besch
 
 ##### Artikel 23. Gelijkstelling certificaten
 
-Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2022-01-01&g=2022-01-01).
+Certificaten, voor 1 januari 1994 toegekend door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ingesteld bij besluit van Onze Minister van 12 maart 1992 (**Uitleg OenW-Regelingen** 1992, nr. 8) worden aangemerkt als certificaten, verkregen op grond van dit besluit. Degene die certificaten overlegt van alle examenonderdelen, behorend tot een programma, als geëxamineerd door de Tijdelijke voorbereidingscommissie Staatsexamens Nederlands als tweede taal, ontvangt een diploma als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=V&artikel=16&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 24. Overgangsbepaling vanwege de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770)
 
-Op een inburgeringsplichtige, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1) zoals die luidde op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770), op wie het [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) van toepassing was op de dag voorafgaand aan de inwerkingtreding van het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555), blijft [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2022-01-01&g=2022-01-01), van het Staatsexamenbesluit Nederlands als tweede taal, zoals dit luidde op de dag voorafgaand aan de inwerkingtreding van de Wet inburgering 2021, van toepassing.
+Op een inburgeringsplichtige, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=1) zoals die luidde op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770), op wie het [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) van toepassing was op de dag voorafgaand aan de inwerkingtreding van het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555), blijft [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&hoofdstuk=VI&artikel=17&z=2022-08-01&g=2022-08-01), van het Staatsexamenbesluit Nederlands als tweede taal, zoals dit luidde op de dag voorafgaand aan de inwerkingtreding van de Wet inburgering 2021, van toepassing.
 
 ##### Artikel 25. Inwerkingtreding
 
@@ -253,5 +251,11 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 ##### Artikel 26. Citeertitel
 
 Dit besluit wordt aangehaald als: Staatsexamenbesluit Nederlands als tweede taal.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 24*. Omhangbepaling
+
+Dit besluit berust op [artikel 2.72, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.72).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
