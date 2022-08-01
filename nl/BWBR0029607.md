@@ -4,7 +4,7 @@ identifier: "BWBR0029607"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-08-01"
-last_updated: "2014-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029607"
 soort: "AMvB-BES"
@@ -50,21 +50,21 @@ Treedt in werking op het tijdstip waarop artikel 78, tweede lid, van de Wet prim
 
 ##### Artikel 1. Begripsbepalingen
 
-- a. **wet:** de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
+- a. **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- b. **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13);
+- b. **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
 
-- c. **mavo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=15);
+- c. **mavo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
 
-- d. **avo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14) of mavo;
+- d. **avo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) of mavo;
 
-- e. **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=17);
+- e. **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-- f. **praktijkonderwijs:** praktijkonderwijs als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=31);
+- f. **praktijkonderwijs:** praktijkonderwijs als bedoeld in [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
-- g. **een scholengemeenschap:** een scholengemeenschap als bedoeld in [artikel 123 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=123);
+- g. **een scholengemeenschap:** een scholengemeenschap als bedoeld in [artikel 4.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5);
 
-- h. **gemengde leerweg:** de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29).
+- h. **gemengde leerweg:** de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in [artikel 2.27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.27).
 
 ##### Artikel 2. Bruto vloeroppervlakte basisonderwijs
 
@@ -78,7 +78,7 @@ Treedt in werking op het tijdstip waarop artikel 78, tweede lid, van de Wet prim
 
 - a. van 890 m2 per scholengemeenschap ;
 
-- b. van 890 m2 per school als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), niet zijnde een school voor praktijkonderwijs, die geen deel uitmaakt van een scholengemeenschap;
+- b. van 890 m2 per school als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), niet zijnde een school voor praktijkonderwijs, die geen deel uitmaakt van een scholengemeenschap;
 
 - c. van 260 m2 per school voor praktijkonderwijs die geen deel uitmaakt van een scholengemeenschap.
 
@@ -98,5 +98,11 @@ Dit besluit treedt in werking met ingang van het tijdstip waarop [artikel 78, tw
 ##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a. Omhangbepaling
+
+Dit besluit berust mede op [artikel 11.62, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.62).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
