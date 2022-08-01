@@ -4,7 +4,7 @@ identifier: "BWBR0039713"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2019-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039713"
 soort: "AMvB"
@@ -62,17 +62,13 @@ Wijzigt het Staatsexamenbesluit VO BES.
 
 ##### Artikel VII. Overgangsrecht vakbenaming bedrijfseconomie, afsluiten vak culturele en kunstzinnige vorming, en vak algemene natuurwetenschappen
 
-1. Een voldoende eindcijfer voor het examen in het vak management en organisatie in het vwo of havo geldt voor de toepassing van het [Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593), het [Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990), het [Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538) en het [Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981) als hetzelfde eindcijfer voor het examen in het vak bedrijfseconomie in het vwo onderscheidenlijk havo, indien dit eindcijfer voor het vak management en organisatie niet langer dan 10 jaar geleden is behaald.
-
-2. Op eindexamenkandidaten die het vak culturele en kunstzinnige vorming hebben afgesloten volgens het examenprogramma zoals luidend tot 1 augustus 2017 zijn met betrekking tot het havo-examen voor dit vak voor de laatste maal in 2019 en met betrekking tot het vwo-examen voor dit vak voor de laatste maal in 2020 in afwijking van het [Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593) onderscheidenlijk het [Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990) zoals luidend ingevolge dit besluit, van toepassing de regels van die besluiten betreffende de uitslag zoals luidend op de datum voor inwerkingtreding van artikel III onderscheidenlijk artikel IV van dit besluit.
-
-3. Bij de uitslagbepaling volgens [artikel 50, eerste lid, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=50) en [artikel 37a, eerste lid, van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=37a), heeft tot 1 augustus 2017 het gemiddelde van de eindcijfers ook betrekking op het eindcijfer dat is bepaald voor algemene natuurwetenschappen.
+Een voldoende eindcijfer voor het examen in het vak management en organisatie in het vwo of havo geldt voor de toepassing van het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787) als hetzelfde eindcijfer voor het examen in het vak bedrijfseconomie in het vwo onderscheidenlijk havo, indien dit eindcijfer voor het vak management en organisatie niet langer dan 10 jaar geleden is behaald.
 
 ##### Artikel VIII. Inwerkingtreding
 
-1. De [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=I&z=2019-01-01&g=2019-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2019-01-01&g=2019-01-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel III, onderdeel OO](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=III&z=2019-01-01&g=2019-01-01), en [artikel VII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2019-01-01&g=2019-01-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. De [artikelen I tot en met IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=I&z=2022-08-01&g=2022-08-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2022-08-01&g=2022-08-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. [Artikel III, onderdeel OO](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=III&z=2022-08-01&g=2022-08-01), en [artikel VII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VII&z=2022-08-01&g=2022-08-01), kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=V&z=2019-01-01&g=2019-01-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VI&z=2019-01-01&g=2019-01-01) treden in werking met ingang van 1 januari 2018.
+2. De [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=V&z=2022-08-01&g=2022-08-01) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0039713&artikel=VI&z=2022-08-01&g=2022-08-01) treden in werking met ingang van 1 januari 2018.
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 17 maart 2017, nr. WJZ/1163336 (7625), directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Economische Zaken;
 
