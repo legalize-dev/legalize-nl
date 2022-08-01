@@ -4,7 +4,7 @@ identifier: "BWBR0045604"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-16"
-last_updated: "2022-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045604"
 soort: "ministeriele-regeling"
@@ -46,37 +46,37 @@ In deze regeling wordt verstaan onder:
 
 - **BAG:** basisregistratie adressen en gebouwen als bedoeld in [artikel 2 van de Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=2);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - **brede scholengemeenschap:** scholengemeenschap voor voortgezet onderwijs waarop de schoolsoorten vwo, havo, mavo en vbo worden aangeboden, al dan niet in combinatie met pro;
 
-- **havo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8);
+- **havo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5);
 
 - **hemelsbreed gemeten afstand:** geografische afstand tussen vestigingen op basis van de adresgegevens opgenomen in de Basisregistratie Instellingen en de bijbehorende coördinaten uit de BAG;
 
-- **leerling:** leerling als bedoeld in [artikel 8 van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=8);
+- **leerling:** leerling als bedoeld in [artikel 5.8 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.8);
 
-- **mavo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9);
+- **mavo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
 
 - **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- **pro:** praktijkonderwijs als bedoeld in [artikel 10f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f);
+- **pro:** praktijkonderwijs als bedoeld in [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
-- **scholengemeenschap:** scholengemeenschap als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- **scholengemeenschap:** scholengemeenschap als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **school:** school voor voortgezet onderwijs als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.3);
+- **school:** school voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - **teldatum:** 1 oktober voorafgaand aan het jaar waarvoor de aanvullende bekostiging wordt verstrekt;
 
-- **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10a) of voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.3);
+- **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-- **vestiging:** hoofdvestiging als bedoeld in [artikel 73a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73a) of nevenvestiging als bedoeld in [artikel 73b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73b), die voldoet aan de voorwaarden, bedoeld in [artikel 2, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=2);
+- **vestiging:** hoofdvestiging als bedoeld in [artikel 4.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13) of nevenvestiging als bedoeld in [artikel 4.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14), die voldoet aan de voorwaarden, bedoeld in [artikel 6.1, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.1);
 
-- **voortgezet onderwijs:** voortgezet onderwijs als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- **voortgezet onderwijs:** voortgezet onderwijs als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7);
+- **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
 
-- **wet:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Reikwijdte
 
@@ -86,9 +86,9 @@ In deze regeling wordt verstaan onder:
 
 - b. eventueel een extra toeslag voor kleine geïsoleerde brede scholengemeenschappen of kleine brede geïsoleerde vestigingen van brede scholengemeenschappen.
 
-2. De aanvullende bekostiging kan slechts worden verstrekt voor vestigingen die voldoen aan de voorwaarden, bedoeld in [artikel 2, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=2).
+2. De aanvullende bekostiging kan slechts worden verstrekt voor vestigingen die voldoen aan de voorwaarden, bedoeld in [artikel 6.1, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.1).
 
-3. Bovendien wordt geen aanvullende bekostiging verstrekt voor vestigingen die reeds op grond van [artikel 2 van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden](onbekend) voor aanvullende bekostiging in aanmerking komen.
+3. Bovendien wordt geen aanvullende bekostiging verstrekt voor vestigingen die reeds op grond van [artikel 2 van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden](https://wetten.overheid.nl/jci1.3:c:BWBR0045607) voor aanvullende bekostiging in aanmerking komen.
 
 ##### Artikel 3. Afbakening geïsoleerde vestiging
 
@@ -106,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Toeslag voor geïsoleerde vestigingen
 
-1. De minister verstrekt aan het bevoegd gezag van een geïsoleerde vestiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2022-01-01&g=2022-01-01), daarvoor een toeslag. De hoogte van de toeslag is gelijk aan het vaste bedrag voor de hoofdvestiging van een school, bedoeld in [artikel 2, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen](onbekend).
+1. De minister verstrekt aan het bevoegd gezag van een geïsoleerde vestiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2022-08-01&g=2022-08-01), daarvoor een toeslag. De hoogte van de toeslag is gelijk aan het vaste bedrag voor de hoofdvestiging van een school, bedoeld in [artikel 2, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen](onbekend).
 
 2. Indien onder een bevoegd gezag meerdere geïsoleerde vestigingen vallen die binnen 5 kilometer hemelsbreed gemeten afstand van één of meer andere geïsoleerde vestigingen van het bevoegd gezag zijn gevestigd, delen deze geïsoleerde vestigingen de in het eerste lid bedoelde toeslag.
 
@@ -114,11 +114,11 @@ In deze regeling wordt verstaan onder:
 
 1. Een kleine geïsoleerde brede scholengemeenschap is een brede scholengemeenschap die voldoet aan de volgende voorwaarden:
 
-- a. op de scholengemeenschap wordt onderwijs in de schoolsoorten vwo, havo, mavo en vbo aangeboden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2022-01-01&g=2022-01-01), tweede lid, alsmede onderwijs in het eerste en tweede leerjaar van het voortgezet onderwijs, bedoeld in artikel 3, derde lid;
+- a. op de scholengemeenschap wordt onderwijs in de schoolsoorten vwo, havo, mavo en vbo aangeboden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2022-08-01&g=2022-08-01), tweede lid, alsmede onderwijs in het eerste en tweede leerjaar van het voortgezet onderwijs, bedoeld in artikel 3, derde lid;
 
 - b. op de teldatum staan op het niveau van de scholengemeenschap als geheel minder dan 1.200 leerlingen als werkelijk schoolgaand ingeschreven; en
 
-- c. de brede scholengemeenschap heeft minimaal één geïsoleerde vestiging waarvoor de toeslag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=4&z=2022-01-01&g=2022-01-01) wordt verstrekt.
+- c. de brede scholengemeenschap heeft minimaal één geïsoleerde vestiging waarvoor de toeslag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=4&z=2022-08-01&g=2022-08-01) wordt verstrekt.
 
 2. De minister verstrekt aan het bevoegd gezag van kleine geïsoleerde brede scholengemeenschappen een extra toeslag. De hoogte van de extra toeslag wordt berekend overeenkomstig de formule X = A * (1.200 – LLX), waarbij:
 
@@ -136,9 +136,9 @@ LLX = het aantal leerlingen dat als werkelijk schoolgaand op de scholengemeensch
 
 - a. op de vestiging zijn op de teldatum minder dan 1.200 leerlingen ingeschreven;
 
-- b. op de vestiging wordt onderwijs in de schoolsoorten vwo, havo, mavo en vbo aangeboden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2022-01-01&g=2022-01-01), alsmede onderwijs in het eerste en tweede leerjaar van het voortgezet onderwijs, bedoeld in artikel 3, derde lid;
+- b. op de vestiging wordt onderwijs in de schoolsoorten vwo, havo, mavo en vbo aangeboden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2022-08-01&g=2022-08-01), alsmede onderwijs in het eerste en tweede leerjaar van het voortgezet onderwijs, bedoeld in artikel 3, derde lid;
 
-- c. de vestiging ligt op minimaal 8 kilometer hemelsbreed gemeten afstand af van een andere vestiging waarop één of meer van de schoolsoorten vwo, havo, mavo en vbo worden aangeboden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2022-01-01&g=2022-01-01), alsmede onderwijs in het eerste en tweede leerjaar van het voortgezet onderwijs, bedoeld in artikel 3, derde lid.
+- c. de vestiging ligt op minimaal 8 kilometer hemelsbreed gemeten afstand af van een andere vestiging waarop één of meer van de schoolsoorten vwo, havo, mavo en vbo worden aangeboden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2022-08-01&g=2022-08-01), alsmede onderwijs in het eerste en tweede leerjaar van het voortgezet onderwijs, bedoeld in artikel 3, derde lid.
 
 2. De hoogte van de extra toeslag, bedoeld in het eerste lid, wordt berekend overeenkomstig de formule Y = A * (1.200 – LLY), waarbij:
 
@@ -152,7 +152,7 @@ LLY = het aantal leerlingen dat als werkelijk schoolgaand op de vestiging op de 
 
 ##### Artikel 7. Beschikking en betaling
 
-1. De aanvullende bekostiging, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=4&z=2022-01-01&g=2022-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=5&z=2022-01-01&g=2022-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=6&z=2022-01-01&g=2022-01-01), wordt jaarlijks ambtshalve uiterlijk in de maand mei verstrekt.
+1. De aanvullende bekostiging, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=4&z=2022-08-01&g=2022-08-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=5&z=2022-08-01&g=2022-08-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=6&z=2022-08-01&g=2022-08-01), wordt jaarlijks ambtshalve uiterlijk in de maand mei verstrekt.
 
 2. De aanvullende bekostiging wordt uiterlijk in de maand december van het jaar waarop de bekostiging betrekking heeft gewijzigd vastgesteld en wordt berekend op basis van:
 
@@ -164,7 +164,7 @@ LLY = het aantal leerlingen dat als werkelijk schoolgaand op de vestiging op de 
 
 ##### Artikel 8. Besteding en verantwoording
 
-1. Het bevoegd gezag besteedt de aanvullende bekostiging, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=4&z=2022-01-01&g=2022-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=5&z=2022-01-01&g=2022-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=6&z=2022-01-01&g=2022-01-01), overeenkomstig [artikel 99 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=99).
+1. Het bevoegd gezag besteedt de aanvullende bekostiging, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=4&z=2022-08-01&g=2022-08-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=5&z=2022-08-01&g=2022-08-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=6&z=2022-08-01&g=2022-08-01), overeenkomstig [artikel 5.39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.39).
 
 2. De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
@@ -175,5 +175,11 @@ De regeling treedt in werking met ingang van 1 januari 2022.
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging geïsoleerde vestigingen vo.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a. Omhang
+
+Deze regeling is mede gebaseerd op [artikel 5.9 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
