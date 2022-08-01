@@ -4,7 +4,7 @@ identifier: "BWBR0018065"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2022-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018065"
 soort: "AMvB"
@@ -56,7 +56,7 @@ school: een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs
 
 bevoegd gezag: een bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) dan wel [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-samenwerkingsverband: een samenwerkingsverband als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+samenwerkingsverband: een samenwerkingsverband als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 centrale dienst: een centrale dienst als bedoeld in de [artikelen 68 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68) en [69 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69);
 
@@ -88,11 +88,11 @@ registervoorportaal: registervoorportaal als bedoeld in [artikel 38p van de Wet 
 
 ##### Artikel 3. Beschrijving van de gegevens
 
-De gegevens, bedoeld in de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165) en [166 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=166) dan wel de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=142) en [143 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143) waarover een bevoegd gezag of een centrale dienst beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=1&z=2022-04-01&g=2022-04-01) bij dit besluit.
+De gegevens, bedoeld in de [artikelen 165](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=165) en [166 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=166) dan wel de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=142) en [143 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=143) waarover een bevoegd gezag of een centrale dienst beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=1&z=2022-08-01&g=2022-08-01) bij dit besluit.
 
 ##### Artikel 4. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2022-04-01&g=2022-04-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
+Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2022-08-01&g=2022-08-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
 
 ##### Artikel 5. Nadere specificatie gegevens lerarenregister en registervoorportaal
 
@@ -326,11 +326,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8. Beschrijving gegevens lerarenregister en registervoorportaal
 
-De gegevens die worden geleverd en verwerkt voor het lerarenregister en het registervoorportaal worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=2&z=2022-04-01&g=2022-04-01) bij dit besluit.
+De gegevens die worden geleverd en verwerkt voor het lerarenregister en het registervoorportaal worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&bijlage=2&z=2022-08-01&g=2022-08-01) bij dit besluit.
 
 ##### Artikel 9. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven aan de definiëring en ordening als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2022-04-01&g=2022-04-01), en aan:
+Bij ministeriële regeling kan een nadere invulling worden gegeven aan de definiëring en ordening als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2022-08-01&g=2022-08-01), en aan:
 
 - a. de wijze waarop de gegevens worden gedefinieerd, geordend, gecorrigeerd en verstrekt.
 
@@ -352,7 +352,7 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 
 Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO/WEC.
 
-## Bijlage 1. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2022-04-01&g=2022-04-01) van het Besluit informatievoorziening WPO/WEC
+## Bijlage 1. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=II&artikel=3&z=2022-08-01&g=2022-08-01) van het Besluit informatievoorziening WPO/WEC
 
 ### A. Instellingsgegevens
 
@@ -388,7 +388,7 @@ Toelagen
 
 Ziekte en verlofgegevens
 
-## Bijlage 2. als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2022-04-01&g=2022-04-01) van het Besluit informatievoorziening WPO/WEC
+## Bijlage 2. als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&hoofdstuk=III&artikel=8&z=2022-08-01&g=2022-08-01) van het Besluit informatievoorziening WPO/WEC
 
 Deze bijlage bevat een uitputtend overzicht van de gegevens die het bevoegd gezag dient te leveren voor het lerarenregister en het registervoorportaal.
 
