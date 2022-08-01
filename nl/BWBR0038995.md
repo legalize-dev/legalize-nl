@@ -4,7 +4,7 @@ identifier: "BWBR0038995"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-04-14"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038995"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1) of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- **bevoegd gezag:** bevoegd gezag, bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
 - **BRON:** Basisregister onderwijs;
 
@@ -58,15 +58,15 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- **nieuwkomer:** nieuwkomer als bedoeld in [artikel 1 van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=1), met dien verstande dat daarbij onder teldatum een van de peildata, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=4&z=2022-04-14&g=2022-04-14), wordt verstaan;
+- **nieuwkomer:** nieuwkomer als bedoeld in [artikel 1.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=1.1), met dien verstande dat daarbij onder teldatum een van de peildata, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=4&z=2022-08-01&g=2022-08-01), wordt verstaan;
 
 - **nieuwkomer eerste categorie:** nieuwkomer die op 1 oktober 2020 nog niet in Nederland was;
 
 - **nieuwkomer tweede categorie:** nieuwkomer die op 1 oktober 2020 in Nederland was en op de betreffende peildatum korter dan twee jaar in Nederland is;
 
-- **school:** school voor voortgezet onderwijs, bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), waaronder begrepen het voorbereidend beroepsonderwijs in een agrarisch opleidingscentrum, bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3);
+- **school:** school voor voortgezet onderwijs, bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **schoolplan:** schoolplan, bedoeld in [artikel 24 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=24).
+- **schoolplan:** schoolplan, bedoeld in de [artikelen 2.88 tot en met 2.91 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.88).
 
 ##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
@@ -80,15 +80,15 @@ De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS]
 
 ##### Artikel 4. Bekostigingsbedrag
 
-1. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-04-14&g=2022-04-14), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
+1. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-08-01&g=2022-08-01), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
 
-2. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-04-14&g=2022-04-14), bedraagt:
+2. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-08-01&g=2022-08-01), bedraagt:
 
 - a. € 3.075,05 per kwartaal per nieuwkomer eerste categorie;
 
 - b. € 1.133,33 per kwartaal per nieuwkomer tweede categorie.
 
-3. De aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-04-14&g=2022-04-14), bedraagt € 17.356,19 per school.
+3. De aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-08-01&g=2022-08-01), bedraagt € 17.356,19 per school.
 
 4. De peildata zijn 1 januari, 1 april, 1 juli en 1 oktober van het kalenderjaar 2022.
 
@@ -104,11 +104,11 @@ Indien er in de BRP geen datum verblijfstitel aanwezig is hanteert de minister:
 
 ##### Artikel 5. Bekostiging
 
-1. DUO hanteert voor de voorlopige telling en de daarop gebaseerde bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-04-14&g=2022-04-14), de registratie in BRON op respectievelijk 16 januari, 16 april, 16 juli en 16 oktober 2022 van het aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2022 als schoolgaand stond ingeschreven.
+1. DUO hanteert voor de voorlopige telling en de daarop gebaseerde bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-08-01&g=2022-08-01), de registratie in BRON op respectievelijk 16 januari, 16 april, 16 juli en 16 oktober 2022 van het aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2022 als schoolgaand stond ingeschreven.
 
-2. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-04-14&g=2022-04-14), mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
+2. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-08-01&g=2022-08-01), mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
 
-3. Voor het indienen van een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-04-14&g=2022-04-14), wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl. Aanvragen die op de peildata 1 januari, 1 april, 1 juli en 1 oktober 2022 niet uiterlijk op respectievelijk 15 januari, 15 april, 15 juli en 15 oktober 2022 door DUO zijn ontvangen, worden afgewezen.
+3. Voor het indienen van een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2022-08-01&g=2022-08-01), wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl. Aanvragen die op de peildata 1 januari, 1 april, 1 juli en 1 oktober 2022 niet uiterlijk op respectievelijk 15 januari, 15 april, 15 juli en 15 oktober 2022 door DUO zijn ontvangen, worden afgewezen.
 
 ##### Artikel 6. Vaststelling, betaling en verantwoording
 
@@ -128,7 +128,7 @@ Indien er in de BRP geen datum verblijfstitel aanwezig is hanteert de minister:
 
 ##### Artikel 8. Omhangbepaling
 
-Deze regeling berust op [artikel 82 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=82).
+Deze regeling berust mede op [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 
 ##### Artikel 9. Inwerkingtreding en horizonbepaling
 
