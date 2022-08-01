@@ -4,7 +4,7 @@ identifier: "BWBR0043681"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043681"
 soort: "ministeriele-regeling-BES"
@@ -66,9 +66,9 @@ Vervallen
 
 ##### Artikel 6. Vaststelling uitslag schooljaren 2020–2021 en 2021–2022 na gespreid examen en na examen in eerder leerjaar dan het laatste
 
-1. De eindcijfers die in het schooljaar 2019–2020 zijn behaald door de kandidaat die een gespreid eindexamen als bedoeld in [artikel 47 van het EB VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=47) aflegt, of de kandidaat op wie [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=3&z=2021-01-01&g=2021-01-01), van toepassing is, tellen mee als eindcijfers bij het vaststellen van de uitslag van het eindexamen door de directeur en secretaris in de schooljaren 2020–2021 en 2021–2022.
+1. De eindcijfers die in het schooljaar 2019–2020 zijn behaald door de kandidaat die een gespreid eindexamen als bedoeld in [artikel 3.56 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.56) aflegt, of de kandidaat op wie [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=3&z=2022-08-01&g=2022-08-01), van toepassing is, tellen mee als eindcijfers bij het vaststellen van de uitslag van het eindexamen door de directeur en secretaris in de schooljaren 2020–2021 en 2021–2022.
 
-2. In het geval de leerling die in het schooljaar 2019–2020 in een of meer vakken eindexamen heeft afgelegd in het voorlaatste of direct daaraan voorafgaande leerjaar als bedoeld [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=3&z=2021-01-01&g=2021-01-01), niet wordt bevorderd tot het volgende leerjaar, komen de met dat eindexamen behaalde eindcijfer te vervallen.
+2. In het geval de leerling die in het schooljaar 2019–2020 in een of meer vakken eindexamen heeft afgelegd in het voorlaatste of direct daaraan voorafgaande leerjaar als bedoeld [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=3&z=2022-08-01&g=2022-08-01), niet wordt bevorderd tot het volgende leerjaar, komen de met dat eindexamen behaalde eindcijfer te vervallen.
 
 ##### Artikel 7. Uitslag eindexamen leerwegen vmbo
 
@@ -132,7 +132,7 @@ Vervallen
 
 1. De ingevolge dit besluit behaalde eindcijfers worden bij de vaststelling van de uitslag van het eindexamen betrokken, indien na het jaar waarin zij zijn vastgesteld, nog geen tien jaren zijn verstreken.
 
-2. Op kandidaten die een of meer eindexamens hebben afgesloten in het schooljaar 2019–2020, zijn de [artikelen 37, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=37), en [37a, eerste lid, onderdeel a, van het EB VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=37a) niet van toepassing, tenzij voor de betreffende vakken geen centraal examen is geregeld in het Rooster voor de centrale examens van de eindexamens end e staatsexamens voortgezet onderwijs in 2020.
+2. Op kandidaten die een of meer eindexamens hebben afgesloten in het schooljaar 2019–2020, zijn de [artikelen 3.35, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.35) en [3.34, eerste lid, onderdeel a, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.34) niet van toepassing, tenzij voor de betreffende vakken geen centraal examen is geregeld in het Rooster voor de centrale examens van de eindexamens end e staatsexamens voortgezet onderwijs in 2020.
 
 ##### Artikel 22. Inwerkingtreding en vervaldatum
 
@@ -140,12 +140,18 @@ Vervallen
 
 2. Dit besluit vervalt met ingang van 1 januari 2021, met uitzondering van:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=6&z=2021-01-01&g=2021-01-01), dat vervalt met ingang van 1 januari 2023;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=6&z=2022-08-01&g=2022-08-01), dat vervalt met ingang van 1 januari 2023;
 
-- b. de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=20&z=2021-01-01&g=2021-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=21&z=2021-01-01&g=2021-01-01), die vervallen met ingang van 1 januari 2030.
+- b. de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=20&z=2022-08-01&g=2022-08-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=21&z=2022-08-01&g=2022-08-01), die vervallen met ingang van 1 januari 2030.
 
 ##### Artikel 23. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit eindexamens voortgezet onderwijs BES 2020.
+
+Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 21a. Omhang
+
+Deze regeling berust op de [artikelen 2.58, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58), [2.61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.61) en [2.65 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.65).
 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
