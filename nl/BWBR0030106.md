@@ -4,7 +4,7 @@ identifier: "BWBR0030106"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2022-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030106"
 soort: "AMvB"
@@ -50,80 +50,72 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- **bestuur:** bestuur van het vervangingsfonds;
 
-- b. **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- **bevoegd gezag:** een bij het vervangingsfonds, op grond van [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) of [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167), aangesloten bevoegd gezag van een school of instelling of bestuur van een samenwerkingsverband;
 
-- c. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- **Onze Minister:** Onze Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- d. **het bevoegd gezag:** het bevoegd gezag van een school of instelling, dat is aangesloten bij het Vervangingsfonds op grond van [artikel 188, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) of [artikel 167, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167) of bij het Participatiefonds op grond van [artikel 190, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) of [artikel 169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169);
-
-- e. **het Vervangingsfonds:** de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs, zijnde de rechtspersoon, bedoeld in [artikel 188, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167);
-
-- f. **het Participatiefonds:** de Stichting Participatiefonds voor het Onderwijs, zijnde de rechtspersoon, bedoeld in [artikel 190, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169).
+- **vervangingsfonds:** de rechtspersoon, bedoeld in [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167).
 
 ##### Artikel 2. Taak Vervangingsfonds en Participatiefonds
 
-1. Het Vervangingsfonds heeft tot taak het bevoegd gezag de waarborgen te bieden, bedoeld in [artikel 188, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167).
-
-2. In verband met de uitoefening van de taak, bedoeld in [artikel 188, eerste lid, onderdeel b, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, onderdeel b, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167), beheert het Vervangingsfonds een noodfonds dat de bedragen omvat die Onze Minister op grond van artikel 188, vijfde lid, van de WPO, en artikel 167, vijfde lid, van de WEC jaarlijks aan het Vervangingsfonds toekent.
-
-3. Het Participatiefonds heeft tot taak het bevoegd gezag de waarborgen te bieden, bedoeld in [artikel 190, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169).
+Vervallen
 
 ##### Artikel 3. Instemming statuten
 
-1. Onze Minister stemt in met de statuten van het Vervangingsfonds en het Participatiefonds, bedoeld in [artikel 194, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194) en [artikel 173, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=173), uitsluitend indien deze statuten ten minste de volgende bepalingen bevatten:
+1. Onze Minister stemt in met de statuten alsmede de wijziging daarvan, bedoeld in [artikel 194, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194) en [artikel 173, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=173), indien de statuten ten minste de volgende bepalingen bevatten:
 
-- a. dat het Vervangingsfonds zich ten doel stelt de waarborgen te bieden, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=2&z=2022-04-01&g=2022-04-01), en dat het Participatiefonds zich ten doelt stelt de waarborgen te bieden, bedoeld in artikel 2, derde lid;
+- a. dat het vervangingsfonds zich ten doel stelt de waarborgen te bieden, bedoeld in [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167);
 
-- b. de wijze van benoeming, herbenoeming, schorsing en ontslag door het Vervangingsfonds en het Participatiefonds van de leden en plaatsvervangend leden van het bestuur;
+- b. de wijze van benoeming, herbenoeming, schorsing en ontslag door het vervangingsfonds van de leden en plaatsvervangend leden van het bestuur;
 
-- c. het aantal leden en plaatsvervangend leden van het bestuur dat wordt benoemd, met dien verstande dat het bestuur ten minste drie en ten hoogste negen leden heeft waarvan één voorzitter;
+- c. het aantal leden en plaatsvervangend leden van het bestuur dat wordt benoemd, met dien verstande dat het bestuur ten minste drie en ten hoogste negen leden heeft, waarvan één voorzitter;
 
-- d. dat de leden en plaatsvervangend leden, met uitzondering van de voorzitter, voor de helft worden benoemd op bindende voordracht van de daarvoor in aanmerking komende personeelsorganisaties in het onderwijs en voor de helft door de centrale werkgeversorganisatie primair onderwijs;
+- d. dat de leden en plaatsvervangend leden, met uitzondering van de voorzitter, voor de worden benoemd op bindende voordracht van de daarvoor in aanmerking komende personeelsorganisaties in het onderwijs en voor de andere helft worden benoemd op bindende voordracht van de centrale werkgeversorganisatie primair onderwijs;
 
-- e. dat het Vervangingsfonds en het Participatiefonds ten minste eenmaal per jaar overleg voeren met Onze Minister of een door Onze Minister aan te wijzen vertegenwoordiger;
+- e. dat het vervangingsfonds ten minste eenmaal per jaar overleg voert met Onze Minister of een door Onze Minister aan te wijzen vertegenwoordiger;
 
-- f. dat het bestuur van het Vervangingsfonds en het bestuur van het Participatiefonds in het kader van hun taakuitoefening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=2&z=2022-04-01&g=2022-04-01), het bevoegd gezag bij algemeen verbindend voorschrift verplichtingen van administratieve aard opleggen ten behoeve van:
+- f. dat het bestuur in het kader van zijn taakuitoefening, bedoeld in [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167), het bevoegd gezag bij reglement of anderszins verplichtingen van administratieve aard oplegt ten behoeve van:
 
-- 1°. de controle van de rechtmatigheid van de uitgaven van het Vervangingsfonds of het Participatiefonds;
+- 1°. de controle van de rechtmatigheid van de uitgaven van het vervangingsfonds;
 
-- 2°. het verkrijgen door het Vervangingsfonds van betrouwbare gegevens met betrekking tot ziekteverzuim, andere vormen van afwezigheid en vervanging, of door het Participatiefonds van betrouwbare gegevens met betrekking tot het ontstaan van aanspraken op werkloosheidsuitkeringen of uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+- 2°. het verkrijgen door het vervangingsfonds van betrouwbare gegevens met betrekking tot ziekteverzuim, andere vormen van afwezigheid en vervanging;
 
-- 3°. de doelmatige uitvoering van de werkzaamheden door het Vervangingsfonds of het Participatiefonds;
+- 3°. de doelmatige uitvoering van de werkzaamheden door het vervangingsfonds;
 
-- 4°. het voldoen aan verplichtingen van het Vervangingsfonds of het Participatiefonds uit hoofde van de wet of dit besluit;
+- 4°. het voldoen aan verplichtingen van het vervangingsfonds uit hoofde van de wet of dit besluit;
 
-- 5°. het vaststellen van de bijdrage die het bevoegd gezag aan het Vervangingsfonds of het Participatiefonds moet voldoen;
+- 5°. het vaststellen van de bijdrage die het bevoegd gezag aan het vervangingsfonds moet voldoen;
 
-- g. dat bij ontbinding of beëindiging van de werkzaamheden van het Vervangingsfonds of het Participatiefonds de bestemming van het bij liquidatie aanwezige vermogen wordt vastgesteld in overeenstemming met Onze Minister.
+- g. dat bij ontbinding of beëindiging van de werkzaamheden van het vervangingsfonds de bestemming van het bij liquidatie aanwezige vermogen door het bestuur wordt vastgesteld in overeenstemming met Onze Minister; en
 
-2. Het eerste lid is van overeenkomstige toepassing bij het verlenen van instemming door Onze Minister met wijziging van de statuten.
+- h. dat het vervangingsfonds een van het bestuur onafhankelijke commissie instelt die is belast met het interne toezicht en waarvan de taken zijn vastgelegd in de statuten.
 
-3. Onze Minister stemt in ieder geval niet in met een door het Vervangingsfonds of het Participatiefonds voorgestelde wijziging van de statuten, indien een dergelijk besluit in strijd is met de wet of met dit besluit, dan wel in strijd is met het algemeen belang of met een op grond van [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) door Onze Minister vastgestelde beleidsregel, dan wel niet is te verenigen met de waarborgen welke het Vervangingsfonds of het Participatiefonds zich ten doel stelt te bieden.
+2. Onze Minister stemt in ieder geval niet in met een door het Vervangingsfonds voorgestelde wijziging van de statuten, indien een dergelijk besluit in strijd is met de wet of met dit besluit, dan wel in strijd is met het algemeen belang of met een op grond van [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) door Onze Minister vastgestelde beleidsregel, dan wel niet is te verenigen met de waarborgen welke het Vervangingsfonds zich ten doel stelt te bieden.
 
 ##### Artikel 4. Gevolgen intrekking van de aanwijzing
 
-Bij de intrekking van de aanwijzing van het Vervangingsfonds of het Participatiefonds als de rechtspersoon, bedoeld in de [artikelen 188, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188), en [190, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en de [artikelen 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167), en [169, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169):
+Bij de intrekking van de aanwijzing van de rechtspersoon, bedoeld in [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167):
 
-- a. wenden het Vervangingsfonds en het Participatiefonds de onder hun beheer staande middelen, bestemd voor het verschaffen van de waarborgen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030106&artikel=2&z=2022-04-01&g=2022-04-01), aan voor het doel waartoe die middelen aan het Vervangingsfonds of het Participatiefonds ter beschikking zijn gesteld; of
+- a. wendt het vervangingsfonds de onder zijn beheer staande middelen, bestemd voor het verschaffen van de waarborgen, bedoeld in [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167), aan voor het doel waartoe die middelen aan het vervangingsfonds ter beschikking zijn gesteld; of
 
-- b. dragen het Vervangingsfonds en het Participatiefonds de in onderdeel a bedoelde middelen over aan een andere, door Onze Minister op grond van de in de aanhef genoemde artikelen, aan te wijzen rechtspersoon.
+- b. draagt het vervangingsfonds de in onderdeel a bedoelde middelen over aan een andere, door Onze Minister op grond van de in de aanhef genoemde artikelen, aan te wijzen rechtspersoon.
 
 ##### Artikel 5. Wijziging [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
 
-Wijzigt het Besluit SUWI.
+Vervallen
 
 ##### Artikel 6. Intrekking Besluiten
 
-Het [Besluit vervangingsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0007009) en het [Besluit participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0008102) worden ingetrokken.
+Vervallen
 
 ##### Artikel 7. Inwerkingtreding
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vervalt op het tijdstip waarop artikel I, onderdeel E, en artikel II, onderdeel D, van de Wet van 11 oktober 2021 tot wijziging van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) in verband met beëindiging van de verplichte aansluiting bij een rechtspersoon in verband met kosten van vervanging en in verband met wijziging van de wijze waarop de werkloosheidsuitkeringen worden verevend (beëindiging vervangingsfonds en modernisering participatiefonds) (Stb. 2021, 538) in werking treden.
 
 ##### Artikel 8. Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit Vervangingsfonds en Participatiefonds.
+Dit besluit wordt aangehaald als: Besluit vervangingsfonds, met vermelding van het jaartal van het Staatsblad waarin het zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
