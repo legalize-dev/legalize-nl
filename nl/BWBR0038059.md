@@ -4,7 +4,7 @@ identifier: "BWBR0038059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2022-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038059"
 soort: "ministeriele-regeling"
@@ -56,9 +56,9 @@ In deze regeling wordt verstaan onder:
 
 - **financiële onderneming:** een onderneming die in een lidstaat het bedrijf van bank mag uitoefenen, beleggingsdiensten mag verlenen, beleggingsinstellingen mag beheren, rechten van deelneming in een beleggingsmaatschappij mag aanbieden, of het bedrijf van verzekeraar mag uitoefenen;
 
-- **instellingen:** door de minister bekostigde onderwijsaanbieder als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), met uitzondering van de onderwijsaanbieders, bedoeld in [titel II, afdeling II, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&afdeling=II), [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) en [artikel 2.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.1) en niet aangewezen op grond van [artikel 45, eerste of derde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=45);
+- **instellingen:** door de minister bekostigde onderwijsaanbieder als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), met uitzondering van de onderwijsaanbieders, bedoeld in de [artikelen 2.66](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66) en [3.27 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.27), [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) en [artikel 2.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.1) en niet aangewezen op grond van [artikel 45, eerste of derde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=45);
 
-- **interne toezichthouder:** toezicht als bedoeld in de [artikelen 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17b) en [17c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17c), de [artikelen 24e](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=24e) en [24e1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=24e1), de [artikelen 28h](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28h) en [28i van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28i), de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.1) en [3.1.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.2) en de [artikelen 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.8), [9.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.9) en [10.3d van de Wet hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.3d);
+- **interne toezichthouder:** toezicht als bedoeld in de [artikelen 17b](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17b) en [17c van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17c), de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.1) en [3.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.3), de [artikelen 28h](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28h) en [28i van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28i), de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.1) en [3.1.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.2) en de [artikelen 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.8), [9.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.9) en [10.3d van de Wet hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.3d);
 
 - **jaarverslaggeving:** het geheel van verslagleggingsdocumenten bestaande uit de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in [artikel 392 van Titel 9, Boek 2, van het Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), zoals dit in de onderwijssector van toepassing is verklaard op grond van de Regeling jaarverslaglegging onderwijs;
 
@@ -142,9 +142,9 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 3. Indien een instelling in het hoger beroepsonderwijs of een universiteit zich als professionele belegger wil laten aanmerken, stemt de instelling deze keuze af met de interne toezichthouder en wordt dit in het treasurystatuut opgenomen. Tevens wordt deze keuze aan de externe toezichthouder gemeld.
 
-4. Een instelling die als niet-professionele belegger is aangemerkt, sluit bij het afsluiten van een financieel derivaat met de financiële onderneming een raamovereenkomst als opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&bijlage=I&z=2022-04-01&g=2022-04-01) af.
+4. Een instelling die als niet-professionele belegger is aangemerkt, sluit bij het afsluiten van een financieel derivaat met de financiële onderneming een raamovereenkomst als opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&bijlage=I&z=2022-08-01&g=2022-08-01) af.
 
-5. Een instelling die als niet-professionele belegger is aangemerkt, is bij het aangaan van derivatenovereenkomsten gebonden aan de modelovereenkomst die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&bijlage=II&z=2022-04-01&g=2022-04-01).
+5. Een instelling die als niet-professionele belegger is aangemerkt, is bij het aangaan van derivatenovereenkomsten gebonden aan de modelovereenkomst die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&bijlage=II&z=2022-08-01&g=2022-08-01).
 
 #### § 3. Specifieke regels
 
@@ -154,9 +154,9 @@ Indien een instelling in het hoger onderwijs zich wil laten aanmerken als profes
 
 2. De periode van het beleggen door instellingen is eindig en de belegging wordt op een vooraf vastgestelde einddatum terugontvangen.
 
-3. De hoofdsom van de belegging wordt door de financiële onderneming, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=4&z=2022-04-01&g=2022-04-01) gegarandeerd. In geval van koerswijzigingen op de belegging kan hier, met instemming van de interne toezichthouder, van af worden geweken.
+3. De hoofdsom van de belegging wordt door de financiële onderneming, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=4&z=2022-08-01&g=2022-08-01) gegarandeerd. In geval van koerswijzigingen op de belegging kan hier, met instemming van de interne toezichthouder, van af worden geweken.
 
-4. Instellingen mogen beleggen in staatsobligaties van lidstaten, mits deze lidstaten aan de ratingeisen, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=4&z=2022-04-01&g=2022-04-01), voldoen.
+4. Instellingen mogen beleggen in staatsobligaties van lidstaten, mits deze lidstaten aan de ratingeisen, genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=4&z=2022-08-01&g=2022-08-01), voldoen.
 
 5. Instellingen beleggen niet in:
 
@@ -228,11 +228,11 @@ De instelling doet ieder jaar in de jaarverslaglegging ten aanzien van de publie
 
 ##### Artikel 11. Toezicht
 
-1. De externe toezichthouder kan toetsen de instelling voldoet aan de eisen met betrekking tot de interne organisatie van de instelling, zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=3&z=2022-04-01&g=2022-04-01) van deze regeling.
+1. De externe toezichthouder kan toetsen de instelling voldoet aan de eisen met betrekking tot de interne organisatie van de instelling, zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=3&z=2022-08-01&g=2022-08-01) van deze regeling.
 
 2. De externe toezichthouder beoordeelt minimaal eenmaal per jaar, mede op basis van in ieder geval de informatie van de accountant, of een instelling zich in voldoende mate houdt aan de regelgeving inzake derivatentransacties en neemt ter zake gepaste actie bij tekortkomingen of risico’s.
 
-#### § 5. Overgangsrecht
+#### § 5. Slotbepalingen
 
 ##### Artikel 12. Overgangsrecht
 
@@ -258,6 +258,8 @@ Deze regeling wordt aangehaald als: Regeling beleggen, lenen en derivaten OCW 20
 
 DEZE RAAMOVEREENKOMST is opgesteld op [•]tussen:
 
+DEZE RAAMOVEREENKOMST is opgesteld op [•]tussen:
+
 OVERWEGENDE DAT
 
 VERKLAREN TE ZIJN OVEREENGEKOMEN ALS VOLGT:
@@ -272,11 +274,11 @@ Indien Partij A met Partij B één of meer transacties aangaat die ingevolge de 
 
 Deze Overeenkomst wordt beheerst door en uitgelegd in overeenstemming met Nederlands recht. De Nederlandse rechter is exclusief bevoegd om geschillen te beslechten die voortvloeien uit of verband houden met deze Overeenkomst. Voorts zullen alle juridische geschillen (de ‘Procedures’) die voortvloeien uit of verband houden met deze Overeenkomst exclusief worden voorgelegd aan de Nederlandse rechter. In het geval van Procedures, verklaren beide partijen zich onherroepelijk te committeren tot de jurisdictie van de Nederlandse rechter en doen hierbij op voorhand afstand van het recht bezwaar te maken tegen voornoemde rechtskeuze en forumkeuze.
 
-TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
-
 ## Bijlage II. behorende bij [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2022-04-01&g=2022-04-01), van de Regeling beleggen, lenen en derivaten OCW 2016
 
 ### Schedule to the 2002 master agreement
+
+Dated as of .....
 
 Dated as of .....
 
@@ -286,13 +288,11 @@ Between
 
 And
 
-[**(semi-) publieke instelling**] **(‘Party B’),**
-
 ### Scope of Agreement
 
 As of the date of this Agreement, all Transactions entered into from that date between the parties to this Agreement (and the respective rights and obligations of the parties in respect of those Transactions) shall be governed by, subject to, and determined in accordance with, the terms and conditions set out in this Agreement and the related Confirmations.
 
-In respect of this Agreement, Party B shall be considered as a non-professional investor, in accordance with the Dutch Wet op het financieel toezicht. Regarding these Transactions, Party A shall act as an advisor for Party B. All of the above is incorporated in the independent agreement governed by Dutch law, as referred to in article 5, section 4 of the Dutch Regeling beleggen, lenen en derivaten OCW 2016.
+As of the date of this Agreement, all Transactions entered into from that date between the parties to this Agreement (and the respective rights and obligations of the parties in respect of those Transactions) shall be governed by, subject to, and determined in accordance with, the terms and conditions set out in this Agreement and the related Confirmations.
 
 ### Part 1. Termination Provisions
 
@@ -300,11 +300,45 @@ In this Agreement:
 
 ### Part 2. Tax Representations
 
-### Part 3. Documents to be Delivered
+### Part 2. Tax Representations
 
 For the purpose of Section 4(a)(i) and 4(a)(ii) of the Agreement, each party agrees to deliver the following documents, covered by Section 3(d) of this Agreement, as applicable:
 
 ### Part 4. Miscellaneous
+
+### Part 4. Miscellaneous
+
+IN WITNESS WHEREOF the parties have executed this document on the respective dates specified below with effect from the date specified on the first page of this document.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 13a. Omhang
+
+Deze regeling berust mede [op artikel 115, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=115), [artikel 113, zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=113) en [artikel 5.43 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.43) en [artikel 2.2.7 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.7).
+
+## Bijlage I. behorende bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), van de Regeling beleggen, lenen en derivaten OCW 2016
+
+### Raamovereenkomst INTEREST RATE Swaps
+
+TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
+
+## Bijlage II. behorende bij [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038059&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), van de Regeling beleggen, lenen en derivaten OCW 2016
+
+### Schedule to the 2002 master agreement
+
+[**(semi-) publieke instelling**] **(‘Party B’),**
+
+### Scope of Agreement
+
+In respect of this Agreement, Party B shall be considered as a non-professional investor, in accordance with the Dutch Wet op het financieel toezicht. Regarding these Transactions, Party A shall act as an advisor for Party B. All of the above is incorporated in the independent agreement governed by Dutch law, as referred to in article 5, section 4 of the Dutch Regeling beleggen, lenen en derivaten OCW 2016.
+
+### Part 1. Termination Provisions
+
+In this Agreement:
+
+### Part 3. Documents to be Delivered
+
+For the purpose of Section 4(a)(i) and 4(a)(ii) of the Agreement, each party agrees to deliver the following documents, covered by Section 3(d) of this Agreement, as applicable:
 
 ### Part 5. Other Provisions
 
