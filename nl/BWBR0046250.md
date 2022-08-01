@@ -4,7 +4,7 @@ identifier: "BWBR0046250"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2022-02-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046250"
 soort: "ministeriele-regeling"
@@ -48,27 +48,27 @@ In deze regeling wordt verstaan onder:
 
 - **aanvraag:** aanvraag tot de vorming, wijziging of beëindiging van een verticale scholengemeenschap als bedoeld in [artikel 2.6.2, eerste lid, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.6.2);
 
-- **afsplitsing:** afsplitsing van een scholengemeenschap door een school als bedoeld in [artikel 74b, eerste lid, WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=74b);
+- **afsplitsing:** afsplitsing van een scholengemeenschap door een school als bedoeld in artikel 74b, eerste lid, WVO 2020;
 
 - **beëindiging:** beëindiging van een verticale scholengemeenschap, waarna de school of scholengemeenschap en de instelling niet langer deel van de verticale scholengemeenschap uitmaken;
 
 - **bestuursoverdracht:** bestuursoverdracht als bedoeld in [artikel 53e, eerste lid, onderdeel c, WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53e) of [artikel 1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **bevoegd gezag:** bevoegd gezag van een school of scholengemeenschap als bedoeld in [artikel 1 WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1) of bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- **bevoegd gezag:** bevoegd gezag van een school of scholengemeenschap als bedoeld in artikel 1 WVO 2020 of bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **inkrimping:** inkrimping van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-02-01&g=2022-02-01);
+- **inkrimping:** inkrimping van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01);
 
 - **institutionele fusie:** fusie als bedoeld in [artikel 53e, eerste lid, onderdeel b, WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53e) of [1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **uitbreiding:** uitbreiding van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-02-01&g=2022-02-01);
+- **uitbreiding:** uitbreiding van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01);
 
 - **vorming:** vorming van een nieuwe verticale scholengemeenschap;
 
 - **WEB:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- **wijziging:** uitbreiding of inkrimping van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-02-01&g=2022-02-01);
+- **wijziging:** uitbreiding of inkrimping van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01);
 
-- **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Samenstelling verticale scholengemeenschap
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - b. vbo;
 
-- c. mavo of mavo met een afdeling havo als bedoeld in [artikel 8, onderdeel b, WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8); of
+- c. mavo of mavo met een afdeling havo als bedoeld in [artikel 2.5, vierde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5); of
 
 - d. havo of vwo, indien het een verticale scholengemeenschap betreft die reeds deze schoolsoorten omvatte op 1 januari 2020.
 
@@ -88,15 +88,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Aanvraag tot vorming, wijziging of beëindiging van een verticale scholengemeenschap
 
-1. Het bevoegd gezag kan een verticale scholengemeenschap met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=2&z=2022-02-01&g=2022-02-01) vormen, wijzigen of beëindigen en doet hiertoe een aanvraag tot goedkeuring bij de Minister.
+1. Het bevoegd gezag kan een verticale scholengemeenschap met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=2&z=2022-08-01&g=2022-08-01) vormen, wijzigen of beëindigen en doet hiertoe een aanvraag tot goedkeuring bij de Minister.
 
 2. Een aanvraag wordt gedaan in het digitale portaal via de website [www.duo.nl](onbekend).
 
 3. Een wijziging van een verticale scholengemeenschap kan:
 
-- a. een uitbreiding betreffen door daar een schoolsoort als bedoeld in [artikel 2, tweede lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=2&z=2022-02-01&g=2022-02-01), aan toe te voegen; of
+- a. een uitbreiding betreffen door daar een schoolsoort als bedoeld in [artikel 2, tweede lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=2&z=2022-08-01&g=2022-08-01), aan toe te voegen; of
 
-- b. een inkrimping betreffen door daar een schoolsoort als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=2&z=2022-02-01&g=2022-02-01), buiten te brengen.
+- b. een inkrimping betreffen door daar een schoolsoort als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=2&z=2022-08-01&g=2022-08-01), buiten te brengen.
 
 ##### Artikel 4. Termijnen
 
@@ -112,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 2. Beëindiging of inkrimping vindt plaats met ingang van 1 augustus van het kalenderjaar volgend op de goedkeuring.
 
-3. In afwijking van het eerste en tweede lid vindt vorming, wijziging of beëindiging waarbij sprake is van samenloop met een fusie of afsplitsing als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=3&z=2022-02-01&g=2022-02-01), gelijktijdig met die fusie of afsplitsing plaats op 1 augustus van enig kalenderjaar.
+3. In afwijking van het eerste en tweede lid vindt vorming, wijziging of beëindiging waarbij sprake is van samenloop met een fusie of afsplitsing als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=3&z=2022-08-01&g=2022-08-01), gelijktijdig met die fusie of afsplitsing plaats op 1 augustus van enig kalenderjaar.
 
 ##### Artikel 6. Postcode-eis
 
@@ -152,23 +152,23 @@ Het bevoegd gezag stelt de gemeente of gemeenten waarin de betrokken school of s
 
 1. Indien het bevoegd gezag voornemens is een verticale scholengemeenschap te vormen, te wijzigen of te beëindigen tegelijkertijd met een institutionele fusie, geldt de aanvraag tot goedkeuring van de institutionele fusie tevens als aanvraag tot goedkeuring van de vorming, wijziging of beëindiging.
 
-2. In de aanvraag tot goedkeuring van de institutionele fusie neemt het bevoegd gezag de aanvullende gegevens op, bedoeld in [bijlage 1, onderdeel 6. Gevolgen voor een verticale scholengemeenschap (indien van toepassing) van de Regeling en beleidsregels fusietoets in het onderwijs 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=1). [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=2&artikel=8&z=2022-02-01&g=2022-02-01) is niet van toepassing.
+2. In de aanvraag tot goedkeuring van de institutionele fusie neemt het bevoegd gezag de aanvullende gegevens op, bedoeld in [bijlage 1, onderdeel 6. Gevolgen voor een verticale scholengemeenschap (indien van toepassing) van de Regeling en beleidsregels fusietoets in het onderwijs 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=1). [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=2&artikel=8&z=2022-08-01&g=2022-08-01) is niet van toepassing.
 
-3. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=6&z=2022-02-01&g=2022-02-01) geldt een besluit tot goedkeuring van de institutionele fusie tevens als goedkeuring van de aanvraag tot vorming, wijziging of beëindiging van de verticale scholengemeenschap.
+3. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=6&z=2022-08-01&g=2022-08-01) geldt een besluit tot goedkeuring van de institutionele fusie tevens als goedkeuring van de aanvraag tot vorming, wijziging of beëindiging van de verticale scholengemeenschap.
 
 ##### Artikel 10. Samenloop bestuursoverdracht
 
 1. Indien het bevoegd gezag voornemens is een verticale scholengemeenschap te vormen, te wijzigen of te beëindigen tegelijkertijd met een bestuursoverdracht, geldt de aanvraag tot goedkeuring van de bestuursoverdracht tevens als aanvraag tot goedkeuring van de vorming, wijziging of beëindiging.
 
-2. In de aanvraag tot goedkeuring van de bestuursoverdracht neemt het bevoegd gezag de aanvullende gegevens op, bedoeld in [bijlage 1, onderdeel 6. Gevolgen voor een verticale scholengemeenschap (indien van toepassing) van de Regeling en beleidsregels fusietoets in het onderwijs 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=1). [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=2&artikel=8&z=2022-02-01&g=2022-02-01) is niet van toepassing.
+2. In de aanvraag tot goedkeuring van de bestuursoverdracht neemt het bevoegd gezag de aanvullende gegevens op, bedoeld in [bijlage 1, onderdeel 6. Gevolgen voor een verticale scholengemeenschap (indien van toepassing) van de Regeling en beleidsregels fusietoets in het onderwijs 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=1). [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=2&artikel=8&z=2022-08-01&g=2022-08-01) is niet van toepassing.
 
-3. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=6&z=2022-02-01&g=2022-02-01) geldt een besluit tot goedkeuring van de bestuursoverdracht tevens als goedkeuring van de aanvraag tot vorming, wijziging of beëindiging van de verticale scholengemeenschap.
+3. Onverminderd [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=6&z=2022-08-01&g=2022-08-01) geldt een besluit tot goedkeuring van de bestuursoverdracht tevens als goedkeuring van de aanvraag tot vorming, wijziging of beëindiging van de verticale scholengemeenschap.
 
 ##### Artikel 11. Samenloop afsplitsing
 
 1. Indien sprake is van een inkrimping door via een afsplitsing tegelijkertijd een schoolsoort buiten de verticale scholengemeenschap te brengen, geldt de aanvraag om de af te splitsen school voor bekostiging in aanmerking te brengen tevens als aanvraag tot goedkeuring van de inkrimping.
 
-2. In de aanvraag om de af te splitsen school voor bekostiging in aanmerking te brengen, neemt het bevoegd gezag de aanvullende gegevens op, bedoeld in [artikel 23, eerste lid, onderdeel e, van de Regeling voorzieningenplanning vo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=23). [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=2&artikel=8&z=2022-02-01&g=2022-02-01) is niet van toepassing.
+2. In de aanvraag om de af te splitsen school voor bekostiging in aanmerking te brengen, neemt het bevoegd gezag de aanvullende gegevens op, bedoeld in [artikel 23, eerste lid, onderdeel e, van de Regeling voorzieningenplanning vo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044042&artikel=23). [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=2&artikel=8&z=2022-08-01&g=2022-08-01) is niet van toepassing.
 
 3. Een besluit om de af te splitsen school voor bekostiging in aanmerking te brengen, geldt tevens als goedkeuring van de aanvraag tot inkrimping.
 
