@@ -4,7 +4,7 @@ identifier: "BWBV0006929"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-08-01"
-last_updated: "2021-09-20"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006929"
 soort: "verdrag"
@@ -128,7 +128,7 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassin
 
 ##### Artikel 11. Inwerkingtreding
 
-1. Dit Verdrag, uitgezonderd [artikel 9, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006929&artikel=9&z=2021-09-20&g=2021-09-20), wordt voorlopig toegepast vanaf de dag van ondertekening.
+1. Dit Verdrag, uitgezonderd [artikel 9, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006929&artikel=9&z=2022-08-01&g=2022-08-01), wordt voorlopig toegepast vanaf de dag van ondertekening.
 
 2. Dit Verdrag treedt in werking op de eerste dag van de eerste maand volgend op de datum van ontvangst van de laatste schriftelijke kennisgeving langs diplomatieke weg waarin de verdragsluitende partijen elkaar ervan in kennis stellen dat aan hun respectieve interne procedures, noodzakelijk voor de inwerkingtreding van het Verdrag, is voldaan.
 
