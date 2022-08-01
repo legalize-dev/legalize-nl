@@ -4,7 +4,7 @@ identifier: "BWBR0004746"
 country: "nl"
 rank: "wet"
 publication_date: "2022-10-01"
-last_updated: "2017-09-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004746"
 soort: "wet"
@@ -51,11 +51,13 @@ In deze wet wordt verstaan onder
 
 - b. het Haagse verdrag: het op 25 oktober 1980 te 's-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (**Trb.** 1987, 139);
 
-- c. internationale ontvoering van kinderen: de ongeoorloofde overbrenging of het ongeoorloofd niet doen terugkeren van een kind in strijd met een gezagsrecht, als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=3&z=2017-09-01&g=2017-09-01) in verband met artikel 5 onder **a** van het Haagse verdrag.
+- c. de verordening: de Verordening (EU) nr. 2019/1111 van de Raad van 25 juni 2019 betreffende de bevoegdheid, de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en betreffende internationale kinderontvoering (PbEU L 178);
+
+- d. internationale ontvoering van kinderen: de ongeoorloofde overbrenging of het ongeoorloofd niet doen terugkeren van een kind in strijd met een gezagsrecht, als omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=3&z=2022-08-01&g=2022-08-01) in verband met artikel 5 onder **a** van het Haagse verdrag.
 
 ##### Artikel 2
 
-Deze wet regelt de uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2017-09-01&g=2017-09-01) vermelde verdragen en is tevens van toepassing in de gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst.
+Deze wet regelt de uitvoering van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2022-08-01&g=2022-08-01) vermelde verdragen en verordening en is tevens van toepassing in de gevallen van internationale ontvoering van kinderen die niet door een verdrag of de verordening worden beheerst.
 
 ##### Artikel 3
 
@@ -109,13 +111,13 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ##### Artikel 11
 
-1. Onverminderd de bevoegdheid van de voorzieningenrechter Den Haag in kort geding, is in eerste aanleg uitsluitend de kinderrechter van de rechtbank te ’s-Gravenhage bevoegd tot kennisneming van alle zaken met betrekking tot de gedwongen afgifte van een internationaal ontvoerd kind aan degene wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens.
+1. Onverminderd de bevoegdheid van de voorzieningenrechter Den Haag in kort geding, is in eerste aanleg uitsluitend de kinderrechter van de rechtbank te ’s-Gravenhage bevoegd tot kennisneming van alle zaken met betrekking tot de gedwongen afgifte van een internationaal ontvoerd kind aan degene wie het gezag daarover toekomt en de teruggeleiding van een zodanig kind over de Nederlandse grens. De kinderrechter van deze rechtbank is bevoegd ook kennis te nemen van door partijen tijdens de procedure onderling getroffen regelingen over de ouderlijke verantwoordelijkheid, bedoeld in de verordening, en kan deze geheel of gedeeltelijk in zijn beschikking opnemen.
 
-2. De kinderrechter van de rechtbank binnen wier rechtsgebied het kind zijn werkelijke verblijfplaats heeft is, onverminderd de bevoegdheid van de voorzieningenrechter in kort geding, bevoegd tot de kennisneming van alle zaken met betrekking tot de regeling en uitvoering van het omgangsrecht in internationale gevallen, daaronder begrepen verzoeken als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=14&z=2017-09-01&g=2017-09-01) van deze wet. Heeft het kind geen werkelijke verblijfplaats of kan zijn verblijfplaats niet worden vastgesteld, dan is bevoegd de kinderrechter van de rechtbank Den Haag.
+2. De kinderrechter van de rechtbank binnen wier rechtsgebied het kind zijn werkelijke verblijfplaats heeft is, onverminderd de bevoegdheid van de voorzieningenrechter in kort geding, bevoegd tot de kennisneming van alle zaken met betrekking tot de regeling en uitvoering van het omgangsrecht in internationale gevallen, daaronder begrepen verzoeken als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=14&z=2022-08-01&g=2022-08-01) van deze wet. Heeft het kind geen werkelijke verblijfplaats of kan zijn verblijfplaats niet worden vastgesteld, dan is bevoegd de kinderrechter van de rechtbank Den Haag.
 
 ##### Artikel 12
 
-De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=11&z=2017-09-01&g=2017-09-01) bedoelde zaken worden ingeleid door indiening van een verzoek.
+De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&artikel=11&z=2022-08-01&g=2022-08-01) bedoelde zaken worden ingeleid door indiening van een verzoek.
 
 ##### Artikel 13
 
@@ -149,11 +151,11 @@ De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=3&a
 
 ##### Artikel 15
 
-De rechter die moet beslissen met betrekking tot het gezag over een kind ten aanzien van hetwelk een verzoek tot teruggeleiding is gedaan bij de centrale autoriteit, houdt zijn beslissing aan totdat op dat verzoek onherroepelijk is beslist. Indien nog geen verzoek tot teruggeleiding is gedaan houdt de rechter zijn beslissing gedurende een redelijke termijn aan, indien hij goede gronden heeft om aan te nemen dat het kind internationaal is ontvoerd in de zin van [artikel 1 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2017-09-01&g=2017-09-01) en dat een verzoek tot zijn teruggeleiding zal worden ingediend.
+De rechter die moet beslissen met betrekking tot het gezag over een kind ten aanzien van hetwelk een verzoek tot teruggeleiding is gedaan bij de centrale autoriteit, houdt zijn beslissing aan totdat op dat verzoek onherroepelijk is beslist. Indien nog geen verzoek tot teruggeleiding is gedaan houdt de rechter zijn beslissing gedurende een redelijke termijn aan, indien hij goede gronden heeft om aan te nemen dat het kind internationaal is ontvoerd in de zin van [artikel 1 onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2022-08-01&g=2022-08-01) en dat een verzoek tot zijn teruggeleiding zal worden ingediend.
 
 ##### Artikel 16
 
-1. Ieder die in verband met de toepassing van een verdrag als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2017-09-01&g=2017-09-01) of in verband met de toepassing van deze wet in Nederland in rechte wil optreden en daartoe rechtsbijstand behoeft, kan zonodig daarop recht doen gelden op de voet van de Wet van 4 juli 1957, **Stb.** 233, tot regeling van de rechtsbijstand aan on- en minvermogenden.
+1. Ieder die in verband met de toepassing van een verdrag of de verordening als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&titeldeel=1&artikel=1&z=2022-08-01&g=2022-08-01) of in verband met de toepassing van deze wet in Nederland in rechte wil optreden en daartoe rechtsbijstand behoeft, kan zonodig daarop recht doen gelden op de voet van de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
 
 2. De in het eerste lid bedoelde personen zijn vrijgesteld van het stellen van zekerheid voor de betaling van kosten, schaden en interessen waarin zij zouden kunnen worden verwezen.
 
@@ -172,5 +174,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 ##### Artikel 19
 
 Deze wet wordt aangehaald als: Uitvoeringswet internationale kinderontvoering.
+
+Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+## Titel 4. Internationale samenwerking van gerechten
+
+##### Artikel 16a
+
+[Artikel 24 van de Uitvoeringswet internationale kinderbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&artikel=24) is van overeenkomstige toepassing in gevallen die door de verordening worden bestreken.
+
+## Titel 5. Slotbepalingen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
