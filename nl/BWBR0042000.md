@@ -4,7 +4,7 @@ identifier: "BWBR0042000"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2019-03-20"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042000"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Informatie instellingen
 
-1. Het bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) levert voor iedere beroepsopleiding de informatie, bedoeld in [artikel 6.1.3a, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3a), ten aanzien van de volgende indicatoren:
+1. Het bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) levert voor iedere beroepsopleiding de informatie, bedoeld in [artikel 6.1.3a, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.1.3a), ten aanzien van de volgende indicatoren:
 
 - a. de kans op werk;
 
@@ -76,9 +76,9 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling studiebijsluiter mbo.
 
-## Bijlage. behorende bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042000&artikel=1&z=2019-03-20&g=2019-03-20), van de Regeling studiebijsluiter mbo
+## Bijlage. behorende bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042000&artikel=1&z=2022-08-01&g=2022-08-01), van de Regeling studiebijsluiter mbo
 
-### [Artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042000&artikel=1&z=2019-03-20&g=2019-03-20),
+### [Artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042000&artikel=1&z=2022-08-01&g=2022-08-01),
 
 ### Onderdeel a. Kans op werk
 
@@ -96,7 +96,7 @@ Kans op stage en kans op leerbaan tonen de verwachte kansen van bol-studenten op
 
 Startsalaris (uurloon) is het salaris dat afgestudeerden aan de opleiding per uur gemiddeld verdienen.
 
-### [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042000&artikel=1&z=2019-03-20&g=2019-03-20),
+### [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042000&artikel=1&z=2022-08-01&g=2022-08-01),
 
 ### Onderdeel a. Studententevredenheid
 
