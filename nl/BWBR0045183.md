@@ -4,7 +4,7 @@ identifier: "BWBR0045183"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
-last_updated: "2022-02-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045183"
 soort: "beleidsregel"
@@ -58,7 +58,7 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet inburgering 2021]
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel diploma-erkenning opleidingen overige educatie (2021).
 
-## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045183&artikel=1&z=2022-02-01&g=2022-02-01)
+## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045183&artikel=1&z=2022-08-01&g=2022-08-01)
 
 ### Aanleiding
 
