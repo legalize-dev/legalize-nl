@@ -4,7 +4,7 @@ identifier: "BWBR0046936"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2022-07-19"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046936"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 127e van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=127e), of [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
 
 - **Convenant Rijke Schooldag:** document waarin de lokale coalitie de samenwerking voor het uitvoeren en uitbreiden van een lokale rijke schooldag heeft vastgelegd voor de periode van ten minste drie jaar, en waarin is vastgelegd aan welke ambities de lokale coalitie zich committeert;
 
@@ -68,9 +68,9 @@ In deze regeling wordt verstaan onder:
 
 - **programma rijke schooldag:** lokaal programma met activiteiten buiten de reguliere onderwijstijd van een school of schoolvestiging, aangeboden door de lokale coalitie ten behoeve van leerlingen op scholen met relatief veel leerlingen met een risico op een onderwijsachterstand;
 
-- **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 127e van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=127e) of [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
+- **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
 
-- **schoolvestiging:** nevenvestiging als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), hoofdvestiging als bedoeld in [artikel 73a van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73a) of [artikel 127b van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=127b), nevenvestiging als bedoeld in [artikel 73b van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73b) of [artikel 127c van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=127c) of tijdelijke nevenvestiging als bedoeld in [artikel 73d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73d);
+- **schoolvestiging:** nevenvestiging als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), hoofdvestiging als bedoeld in [artikel 4.13 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13), nevenvestiging als bedoeld in [artikel 4.14 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14) of tijdelijke nevenvestiging als bedoeld in [artikel 4.16 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16);
 
 - **so:** speciaal onderwijs, niet zijnde voortgezet speciaal onderwijs;
 
@@ -106,7 +106,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - d. scholen voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), die meer dan vier leerlingen hebben met een niet-Nederlandse culturele achtergrond als bedoeld in [artikel 1 van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=1);
 
-- d. scholen voor voortgezet onderwijs als bedoeld in van [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1) die ten minste een positieve achterstandsscore hebben op basis van de onderwijsscores van de leerlingen die op 1 oktober 2021 op deze vestigingen zijn ingeschreven, zoals opgenomen in de [bijlage van de Regeling aanvullende bekostiging uitvoering Nationaal Programma Onderwijs PO en VO](onbekend); en
+- d. scholen voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) die ten minste een positieve achterstandsscore hebben op basis van de onderwijsscores van de leerlingen die op 1 oktober 2021 op deze vestigingen zijn ingeschreven, zoals opgenomen in de [bijlage van de Regeling aanvullende bekostiging uitvoering Nationaal Programma Onderwijs PO en VO](onbekend); en
 
 - e. scholen als bedoeld in [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1).
 
@@ -144,7 +144,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 5. Aanvrager
 
-1. De subsidieaanvraag wordt ingediend door een bevoegd gezag van de school of schoolvestiging die behoort tot de doelgroep als bedoeld in [artikel drie, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=3&z=2022-07-19&g=2022-07-19).
+1. De subsidieaanvraag wordt ingediend door een bevoegd gezag van de school of schoolvestiging die behoort tot de doelgroep als bedoeld in [artikel drie, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=3&z=2022-08-01&g=2022-08-01).
 
 2. In aanvulling op het eerste lid geldt dat een subsidie voor een voorloper of doorgroeier door de penvoerder wordt ingediend namens een lokale coalitie.
 
@@ -152,7 +152,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 4. De penvoerder is verantwoordelijk voor alle aan de subsidie verbonden verplichtingen, ongeacht welke van de deelnemers aan de lokale coalitie feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
-5. In aanvulling op het eerste lid geldt dat in het geval van een starter alleen scholen die behoren tot de doelgroep, als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=3&z=2022-07-19&g=2022-07-19), een aanvraag kunnen indienen.
+5. In aanvulling op het eerste lid geldt dat in het geval van een starter alleen scholen die behoren tot de doelgroep, als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=3&z=2022-08-01&g=2022-08-01), een aanvraag kunnen indienen.
 
 6. Scholen of schoolvestigingen kunnen aan maximaal één aanvraag deelnemen.
 
@@ -164,7 +164,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 7. Aanvullende eisen aanvraag voorlopers
 
-1. In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=6&z=2022-07-19&g=2022-07-19) gaat een aanvraag voor subsidie aan voorlopers vergezeld van:
+1. In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=6&z=2022-08-01&g=2022-08-01) gaat een aanvraag voor subsidie aan voorlopers vergezeld van:
 
 - a. een Convenant Rijke Schooldag;
 
@@ -214,13 +214,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 2. De aanvraag voor subsidie aan doorgroeiers komt slechts voor subsidie in aanmerking als deze vergezeld gaat van:
 
-- a. een Convenant Rijke Schooldag als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=7&z=2022-07-19&g=2022-07-19), met dien verstande dat artikel 7, tweede lid, onderdeel b, onder 4°, niet van toepassing is; en
+- a. een Convenant Rijke Schooldag als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=7&z=2022-08-01&g=2022-08-01), met dien verstande dat artikel 7, tweede lid, onderdeel b, onder 4°, niet van toepassing is; en
 
-- b. een activiteitenplan, ten aanzien waarvan [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=7&z=2022-07-19&g=2022-07-19), van overeenkomstige toepassing is.
+- b. een activiteitenplan, ten aanzien waarvan [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=7&z=2022-08-01&g=2022-08-01), van overeenkomstige toepassing is.
 
 ##### Artikel 9. Aanvullende eisen aanvraag starters
 
-In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=6&z=2022-07-19&g=2022-07-19) bevat een aanvraag voor subsidie aan starters een verklaring dat de aanvrager starter is en een intentieverklaring van minimaal de schoolvestiging en minimaal één gemeente om tot een convenant te komen.
+In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=6&z=2022-08-01&g=2022-08-01) bevat een aanvraag voor subsidie aan starters een verklaring dat de aanvrager starter is en een intentieverklaring van minimaal de schoolvestiging en minimaal één gemeente om tot een convenant te komen.
 
 ##### Artikel 10. Loting
 
@@ -254,7 +254,7 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&art
 
 1. De activiteiten van voorlopers worden uitgevoerd in de periode van 1 augustus 2022 tot en met 31 juli 2023.
 
-2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=12&z=2022-07-19&g=2022-07-19) geldt voor voorlopers dat:
+2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=12&z=2022-08-01&g=2022-08-01) geldt voor voorlopers dat:
 
 - a. de activiteiten plaatsvinden op een reguliere schooldag, buiten de reguliere onderwijstijd;
 
@@ -266,15 +266,15 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&art
 
 ##### Artikel 14. Aanvullende subsidieverplichtingen doorgroeiers
 
-De subsidieverplichtingen als beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=13&z=2022-07-19&g=2022-07-19) gelden tevens voor doorgroeiers.
+De subsidieverplichtingen als beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=13&z=2022-08-01&g=2022-08-01) gelden tevens voor doorgroeiers.
 
 ##### Artikel 15. Aanvullende subsidieverplichtingen starters
 
 1. De activiteiten van starters worden uitgevoerd in de periode van 1 augustus 2022 tot en met 31 juli 2025.
 
-2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=12&z=2022-07-19&g=2022-07-19) dienen starters:
+2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=12&z=2022-08-01&g=2022-08-01) dienen starters:
 
-- a. binnen acht weken na de subsidieperiode het ontwikkelde convenant en een activiteitenplan in, als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=8&z=2022-07-19&g=2022-07-19); en
+- a. binnen acht weken na de subsidieperiode het ontwikkelde convenant en een activiteitenplan in, als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=8&z=2022-08-01&g=2022-08-01); en
 
 - b. op een publiek toegankelijke plaats het convenant en activiteitenplan te publiceren.
 
@@ -290,11 +290,9 @@ De subsidieverplichtingen als beschreven in [artikel 13](https://wetten.overheid
 
 Wijzigt deze regeling.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 18. Inwerkingtreding en geldigheidsduur
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=17&z=2022-07-19&g=2022-07-19), dat in werking treedt met ingang van 1 augustus 2022.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=17&z=2022-08-01&g=2022-08-01), dat in werking treedt met ingang van 1 augustus 2022.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027.
 
