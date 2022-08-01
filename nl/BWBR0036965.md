@@ -4,7 +4,7 @@ identifier: "BWBR0036965"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
-last_updated: "2015-09-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036965"
 soort: "beleidsregel"
@@ -48,11 +48,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - 2. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- 3. **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- 3. **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
 - 4. **medezeggenschapsraad:** medezeggenschapsraad als bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3);
 
-- 5. **vwo:** opleiding voor voortgezet wetenschappelijk onderwijs als bedoeld in [artikel 7 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7);
+- 5. **vwo:** opleiding voor voortgezet wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
 
 - 6. **versneld vwo:** speciaal vijfjarig vwo-programma voor groepen talentvolle leerlingen;
 
@@ -64,7 +64,7 @@ In deze beleidsregel wordt verstaan onder:
 
 1. Het doel van deze beleidsregel is om bevoegde gezagsorganen meer ruimte te bieden ten aanzien van de inrichting van het onderwijs op hun scholen, zodat zij de kwaliteit van het vwo-onderwijs aan talentvolle leerlingen kunnen vergroten en meer maatwerk kunnen bieden. Op deze manier kunnen scholen talentvolle leerlingen optimaal stimuleren en uitdagen, waardoor deze leerlingen hun talenten optimaal kunnen ontwikkelen.
 
-2. Deze beleidsregel beschrijft de manier waarop de minister invulling geeft aan de bevoegdheid om een bevoegd gezag ten behoeve van een school toe te staan af te wijken van de wettelijke bepalingen, genoemd in [artikel 25 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=25). Op grond van deze beleidsregel geeft de minister het bevoegd gezag de mogelijkheid om op een school aan te bieden:
+2. Deze beleidsregel beschrijft de manier waarop de minister invulling geeft aan de bevoegdheid om een bevoegd gezag ten behoeve van een school toe te staan af te wijken van de wettelijke bepalingen, genoemd in [artikel 9.3 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3). Op grond van deze beleidsregel geeft de minister het bevoegd gezag de mogelijkheid om op een school aan te bieden:
 
 - a. een versneld vwo-programma, en/of
 
@@ -130,15 +130,15 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 6. Afwijking van voorschriften met betrekking tot onderwijstijd
 
-In afwijking van [artikel 6g van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=6g) kan een bevoegd gezag een versneld en/of verrijkt vwo programma inrichten dat minder dan 5.700 klokuren omvat. Voorwaarde is dat dit programma wordt ingericht naast het reguliere vwo dat wel tenminste 5.700 klokuren omvat.
+In afwijking van [artikel 2.38 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) kan een bevoegd gezag een versneld en/of verrijkt vwo programma inrichten dat minder dan 5.700 klokuren omvat. Voorwaarde is dat dit programma wordt ingericht naast het reguliere vwo dat wel tenminste 5.700 klokuren omvat.
 
 ##### Artikel 7. Afwijking van voorschriften met betrekking tot onderbouw
 
-In afwijking van de [artikelen 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11a), [11c](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11c) en [11f van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11f) kan een bevoegd gezag de eerste drie leerjaren zodanig inrichten dat de periode van voorbereidend hoger onderwijs als bedoeld in [artikel 12 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12) eerder start dan in het vierde leerjaar.
+In afwijking van de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.12), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.14), [2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.19) en [2.38 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) kan een bevoegd gezag de eerste drie leerjaren zodanig inrichten dat de periode van voorbereidend hoger onderwijs als bedoeld in [artikel 2.20 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.20) eerder start dan in het vierde leerjaar.
 
 ##### Artikel 8. Afwijking van voorschriften met betrekking tot de periode van voorbereidend hoger onderwijs
 
-In afwijking van [artikel 12, eerste lid van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12) kan een bevoegd gezag de eerste drie leerjaren zodanig inrichten dat de periode van voorbereidend hoger onderwijs eerder start dan in het vierde leerjaar.
+In afwijking van [artikel 2.20 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.20) kan een bevoegd gezag de eerste drie leerjaren zodanig inrichten dat de periode van voorbereidend hoger onderwijs eerder start dan in het vierde leerjaar.
 
 ##### Artikel 9. Evaluatie
 
@@ -153,5 +153,11 @@ Deze regeling treedt in werking met ingang van 1 september 2015. De beleidsregel
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Beleidsregel versneld vwo en/of verrijkt vwo.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de website (www.duo.nl) van DUO van het Ministerie van Onderwijs, Cultuur en Wetenschap, alsmede op het digitale informatiepunt voor onderwijs en talentontwikkeling (www.talentstimuleren.nl) van Stichting Leerplan Ontwikkeling.
+
+##### Artikel 9a. Omhang
+
+Deze beleidsregel is gebaseerd op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de website (www.duo.nl) van DUO van het Ministerie van Onderwijs, Cultuur en Wetenschap, alsmede op het digitale informatiepunt voor onderwijs en talentontwikkeling (www.talentstimuleren.nl) van Stichting Leerplan Ontwikkeling.
