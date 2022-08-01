@@ -4,7 +4,7 @@ identifier: "BWBR0035059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-01"
-last_updated: "2022-04-15"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035059"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ Besluit:
 
 ##### Artikel 1.2. Identificatie opleidingen
 
-Voor de toepassing van deze regeling gelden door instellingen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen, met uitzondering van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2022-04-15&g=2022-04-15).
+Voor de toepassing van deze regeling gelden door instellingen verzorgde opleidingen met dezelfde naam als dezelfde opleidingen, met uitzondering van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 1.3. Data
 
@@ -130,9 +130,9 @@ De data in deze regeling vallen steeds in het studiejaar dat voorafgaat aan het 
 
 ##### Artikel 2.1. Nadere vooropleidingseisen per opleiding
 
-1. Voor opleidingen aan universiteiten kan het instellingsbestuur bepalen dat slechts kandidaten worden ingeschreven die voldoen aan de nadere vooropleidingseisen die zijn opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2022-04-15&g=2022-04-15).
+1. Voor opleidingen aan universiteiten kan het instellingsbestuur bepalen dat slechts kandidaten worden ingeschreven die voldoen aan de nadere vooropleidingseisen die zijn opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2022-08-01&g=2022-08-01).
 
-2. Voor opleidingen aan hogescholen kan het instellingsbestuur bepalen dat slechts kandidaten worden ingeschreven die voldoen aan de nadere vooropleidingseisen die zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2022-04-15&g=2022-04-15).
+2. Voor opleidingen aan hogescholen kan het instellingsbestuur bepalen dat slechts kandidaten worden ingeschreven die voldoen aan de nadere vooropleidingseisen die zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2022-08-01&g=2022-08-01).
 
 3. Als de naam van een opleiding wordt gewijzigd, blijven de nadere vooropleidingseisen gelden zoals die golden voor het tijdstip van de naamswijziging.
 
@@ -158,9 +158,9 @@ Vervallen
 
 ##### Artikel 3.1. Aanvullende eisen in verband met de uitoefening van een beroep of beroepen
 
-1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de uitoefening van een beroep of de beroepen waarop zij voorbereiden, zijn opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-04-15&g=2022-04-15).
+1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de uitoefening van een beroep of de beroepen waarop zij voorbereiden, zijn opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-08-01&g=2022-08-01).
 
-2. De minister neemt, al dan niet op een aanvraag, een opleiding op in de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-04-15&g=2022-04-15), als:
+2. De minister neemt, al dan niet op een aanvraag, een opleiding op in de in het eerste lid bedoelde [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-08-01&g=2022-08-01), als:
 
 - a. objectieve gronden in verband met de toekomstige beroepsuitoefening het stellen van de aanvullende eisen voor toelating tot deze opleiding rechtvaardigen,
 
@@ -168,7 +168,7 @@ Vervallen
 
 - c. het stellen van de aanvullende eisen geen afbreuk doet aan de toegankelijkheid van het betreffende hoger onderwijs.
 
-3. De gronden bedoeld in het tweede lid, onderdeel a, worden in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-04-15&g=2022-04-15) bij de betreffende opleiding vermeld.
+3. De gronden bedoeld in het tweede lid, onderdeel a, worden in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-08-01&g=2022-08-01) bij de betreffende opleiding vermeld.
 
 4. Een aanvraag als bedoeld in het tweede lid kan worden ingediend door het instellingsbestuur of, indien het een opleiding betreft die door meerdere instellingen wordt verzorgd, de betreffende instellingsbesturen gezamenlijk. In de aanvraag wordt gemotiveerd aangevoerd waarom wordt voldaan aan de in het tweede lid opgesomde voorwaarden.
 
@@ -178,9 +178,9 @@ Vervallen
 
 ##### Artikel 3.2. Aanvullende eisen in verband met de organisatie en inrichting van het onderwijs
 
-1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de organisatie en inrichting van het onderwijs zijn opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-04-15&g=2022-04-15).
+1. De opleidingen waarvoor aanvullende eisen gelden, die verband houden met de organisatie en inrichting van het onderwijs zijn opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-08-01&g=2022-08-01).
 
-2. De minister neemt op een aanvraag van het betreffende instellingsbestuur, of de betreffende instellingsbesturen gezamenlijk als het betreft alle opleidingen met dezelfde naam, een opleiding op in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-04-15&g=2022-04-15), indien met de aanvraag is aangetoond, dat:
+2. De minister neemt op een aanvraag van het betreffende instellingsbestuur, of de betreffende instellingsbesturen gezamenlijk als het betreft alle opleidingen met dezelfde naam, een opleiding op in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-08-01&g=2022-08-01), indien met de aanvraag is aangetoond, dat:
 
 - a. de opleiding zich onderscheidt door een specifiek onderwijsconcept,
 
@@ -190,7 +190,7 @@ Vervallen
 
 - d. het stellen van de aanvullende eisen geen afbreuk doet aan de toegankelijkheid van het betreffende hoger onderwijs.
 
-3. De gronden bedoeld in het tweede lid, onderdeel b, worden in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-04-15&g=2022-04-15) bij de opleiding vermeld.
+3. De gronden bedoeld in het tweede lid, onderdeel b, worden in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-08-01&g=2022-08-01) bij de opleiding vermeld.
 
 4. Bij de aanvraag legt het instellingsbestuur een door de NVAO opgesteld advies met betrekking tot de in het tweede lid, onderdeel a tot en met c genoemde voorwaarden over.
 
@@ -200,7 +200,7 @@ Vervallen
 
 ##### Artikel 3.3. Verwijdering van de bijlage en informatieplicht
 
-1. De minister kan een opleiding uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-04-15&g=2022-04-15), respectievelijk [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-04-15&g=2022-04-15) verwijderen, als de omstandigheden op grond waarvan is besloten de opleiding in de bijlage te vermelden, zijn komen te vervallen.
+1. De minister kan een opleiding uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-08-01&g=2022-08-01), respectievelijk [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-08-01&g=2022-08-01) verwijderen, als de omstandigheden op grond waarvan is besloten de opleiding in de bijlage te vermelden, zijn komen te vervallen.
 
 2. Het instellingsbestuur stelt de minister op de hoogte van een wijziging in de omstandigheden, die aanleiding kan zijn voor toepassing van de bevoegdheid genoemd in het eerste lid.
 
@@ -212,7 +212,7 @@ Vervallen
 
 1. De kandidaat die zich overeenkomstig [artikel 7.31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.31a) aanmeldt, doet dat met behulp van DigiD via Studielink.
 
-2. Onverminderd de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-04-15&g=2022-04-15) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2022-04-15&g=2022-04-15) kan de in het eerste lid bedoelde aanmelding betrekking hebben op ten hoogste drie opleidingen.
+2. Onverminderd de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=2&artikel=4.3&z=2022-08-01&g=2022-08-01) en [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2022-08-01&g=2022-08-01) kan de in het eerste lid bedoelde aanmelding betrekking hebben op ten hoogste drie opleidingen.
 
 3. De minister verifieert de persoonsgegevens van de kandidaat aan de hand van de over de kandidaat in de basisregistratie personen, bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) opgenomen gegevens.
 
@@ -222,7 +222,7 @@ Vervallen
 
 ##### Artikel 4.2. Bevestiging aanmelding (verzoek tot inschrijving)
 
-1. De minister zendt de kandidaat die zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-04-15&g=2022-04-15) heeft aangemeld, een elektronische bevestiging.
+1. De minister zendt de kandidaat die zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-08-01&g=2022-08-01) heeft aangemeld, een elektronische bevestiging.
 
 2. De minister maakt aan de kandidaat tevens zo spoedig mogelijk bekend:
 
@@ -236,9 +236,9 @@ Vervallen
 
 1. De kandidaat die wenst te worden ingeschreven voor een opleiding waarvoor krachtens [artikel 7.26a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26a) aanvullende eisen zijn gesteld, meldt zich voor 15 januari aan bij de desbetreffende instelling voor het onderzoek dienaangaande.
 
-2. De kandidaat die aan de aanvullende eisen voldoet en aan de desbetreffende opleiding wil worden ingeschreven, meldt zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-04-15&g=2022-04-15), aan bij de minister.
+2. De kandidaat die aan de aanvullende eisen voldoet en aan de desbetreffende opleiding wil worden ingeschreven, meldt zich overeenkomstig [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=1&artikel=4.1&z=2022-08-01&g=2022-08-01), aan bij de minister.
 
-3. In afwijking van het eerste lid kan het instellingsbestuur van een opleiding waarvan de organisatie en inrichting van het onderwijs als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2022-04-15&g=2022-04-15), uitgaat van een internationale studentenpopulatie, een uiterste datum voor aanmelding na 15 januari vaststellen.
+3. In afwijking van het eerste lid kan het instellingsbestuur van een opleiding waarvan de organisatie en inrichting van het onderwijs als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2022-08-01&g=2022-08-01), uitgaat van een internationale studentenpopulatie, een uiterste datum voor aanmelding na 15 januari vaststellen.
 
 #### § 1. Algemene bepalingen aanmelding
 
@@ -314,7 +314,7 @@ Vervallen
 
 ##### Artikel 4.11. Tweede instroom
 
-1. Als voor een opleiding gedurende het eerste studiejaar een tweede instroommoment bestaat, en er gedurende het studiejaar plaatsen opengevallen zijn, kan het instellingsbestuur bepalen dat kandidaten die na de selectie voor dat studiejaar, op basis van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2022-04-15&g=2022-04-15) wel een rankingnummer, maar geen bewijs van toelating hebben ontvangen, een bewijs van toelating voor het tweede instroommoment ontvangen.
+1. Als voor een opleiding gedurende het eerste studiejaar een tweede instroommoment bestaat, en er gedurende het studiejaar plaatsen opengevallen zijn, kan het instellingsbestuur bepalen dat kandidaten die na de selectie voor dat studiejaar, op basis van [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.8&z=2022-08-01&g=2022-08-01) wel een rankingnummer, maar geen bewijs van toelating hebben ontvangen, een bewijs van toelating voor het tweede instroommoment ontvangen.
 
 2. Indien de instelling gebruik maakt van het tweede instroommoment, bedoeld in het eerste lid, stelt het instellingsbestuur een procedure in voor het uitreiken en accepteren van bewijzen van toelating en maakt deze bekend.
 
@@ -394,27 +394,27 @@ Vervallen
 
 ##### Artikel 5.1. Inwerkingtreding
 
-1. Deze regeling treedt met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-04-15&g=2022-04-15) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2022-04-15&g=2022-04-15) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+1. Deze regeling treedt met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-08-01&g=2022-08-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2022-08-01&g=2022-08-01) in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-04-15&g=2022-04-15) treedt in werking met ingang van 1 september 2014, met uitzondering van de wijzigingen van de nadere vooropleidingseisen van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2022-04-15&g=2022-04-15) opgenomen opleiding Technische Aardwetenschappen en van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2022-04-15&g=2022-04-15) opgenomen opleidingen Media & Entertainment Management, Creative Media and Game Technology. Deze treden in werking met ingang van 1 september 2017.
+2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2022-08-01&g=2022-08-01) treedt in werking met ingang van 1 september 2014, met uitzondering van de wijzigingen van de nadere vooropleidingseisen van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=A&z=2022-08-01&g=2022-08-01) opgenomen opleiding Technische Aardwetenschappen en van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2022-08-01&g=2022-08-01) opgenomen opleidingen Media & Entertainment Management, Creative Media and Game Technology. Deze treden in werking met ingang van 1 september 2017.
 
-3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2022-04-15&g=2022-04-15) treedt in werking met ingang van 1 september 2015.
+3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=2&paragraaf=3&artikel=2.4&z=2022-08-01&g=2022-08-01) treedt in werking met ingang van 1 september 2015.
 
 ##### Artikel 5.2. Intrekken oude regelingen
 
-1. De [Regeling aanmelding en selectie hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025627), de [Regeling aanwijzing opleidingen inzake toelating deficiënte studenten](https://wetten.overheid.nl/jci1.3:c:BWBR0022404) en de [Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022032) worden ingetrokken met ingang van de dag, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.1&z=2022-04-15&g=2022-04-15).
+1. De [Regeling aanmelding en selectie hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025627), de [Regeling aanwijzing opleidingen inzake toelating deficiënte studenten](https://wetten.overheid.nl/jci1.3:c:BWBR0022404) en de [Regeling aanvullende eisen hoger onderwijs en kunstonderwijs 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022032) worden ingetrokken met ingang van de dag, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.1&z=2022-08-01&g=2022-08-01).
 
 2. De [Regeling nadere vooropleidingseisen](https://wetten.overheid.nl/jci1.3:c:BWBR0022022) wordt ingetrokken met ingang van 1 september 2014.
 
 ##### Artikel 5.3. Overgangsbepalingen in verband met de [Wet kwaliteit in verscheidenheid hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0033693)
 
-1. De deelname aan loting in het verleden, telt vanaf het studiejaar 2000/2001 mee voor het maximale aantal aanmeldingen, bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2022-04-15&g=2022-04-15).
+1. De deelname aan loting in het verleden, telt vanaf het studiejaar 2000/2001 mee voor het maximale aantal aanmeldingen, bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.5&z=2022-08-01&g=2022-08-01).
 
-2. Kandidaten die in het studiejaar 2016/2017, een succesvol beroep hebben gedaan op de hardheidsclausule uitgelote kandidaten, bedoeld in [artikel 4.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.24&z=2022-04-15&g=2022-04-15), ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
+2. Kandidaten die in het studiejaar 2016/2017, een succesvol beroep hebben gedaan op de hardheidsclausule uitgelote kandidaten, bedoeld in [artikel 4.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.24&z=2022-08-01&g=2022-08-01), ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
 
-3. Kandidaten op wie voor het studiejaar 2016/2017, [artikel 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2022-04-15&g=2022-04-15), van toepassing is, ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
+3. Kandidaten op wie voor het studiejaar 2016/2017, [artikel 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2022-08-01&g=2022-08-01), van toepassing is, ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
 
-4. Kandidaten wiens verzoek als bedoeld in [artikel 4.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2022-04-15&g=2022-04-15), in het studiejaar 2016/2017, gehonoreerd wordt, ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
+4. Kandidaten wiens verzoek als bedoeld in [artikel 4.19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=4&paragraaf=3&artikel=4.19&z=2022-08-01&g=2022-08-01), in het studiejaar 2016/2017, gehonoreerd wordt, ontvangen een bewijs van toelating voor het studiejaar 2017/2018.
 
 5. Het instellingsbestuur draagt er zorg voor dat een kandidaat die op grond van de leden 2 tot en met 5 een bewijs van toelating heeft ontvangen, wordt ingeschreven voor de betreffende opleiding.
 
@@ -1030,19 +1030,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2.5. Vereiste kennisniveaus
 
-1. Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2022-04-15&g=2022-04-15).
+1. Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2022-08-01&g=2022-08-01).
 
-2. Voor wat betreft het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2022-04-15&g=2022-04-15).
+2. Voor wat betreft het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2022-08-01&g=2022-08-01).
 
-3. Voor wat betreft het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2022-04-15&g=2022-04-15).
+3. Voor wat betreft het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in [bijlage F, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=F&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 2.6. Examenvakken die zonder meer tot toelating leiden
 
-1. Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), indien het vak aardrijkskunde deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8) of [artikel 14 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14).
+1. Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied aardrijkskunde, bedoeld in [artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), indien het vak aardrijkskunde deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 2.5 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5).
 
-2. Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), indien het vak geschiedenis deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8) of [artikel 14 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14).
+2. Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied geschiedenis, bedoeld in [artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), indien het vak geschiedenis deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 2.5 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5).
 
-3. Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), indien het vak natuurkunde, biologie of nlt (natuur, leven en technologie) deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 8 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8) of [artikel 14 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14).
+3. Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied de natuur, waaronder biologie, bedoeld in [artikel 9, tweede lid, onderdeel c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9), indien het vak natuurkunde, biologie of nlt (natuur, leven en technologie) deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in [artikel 2.5 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5).
 
 ### Hoofdstuk 3. Aanvullende eisen voor opleidingen, opleidingen op het gebied van de kunst en lerarenopleidingen op het gebied van de kunst
 
@@ -1630,7 +1630,7 @@ In deze regeling wordt verstaan onder:
 
 - 3. gewaarmerkte verklaring van het bestuur van een instelling, inhoudende dat de kandidaat met toepassing van de [artikelen 7.25, derde lid of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25), [7.28, lid 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.28), of [7.29, eerste, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.29), onverminderd artikel 7.28, vierde lid, van de wet, tot de opleiding van zijn keuze kan worden toegelaten;
 
-- **domein:** opleidingsdomein als bedoeld in [artikel 1.1.1, onder t2, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- **domein:** opleidingsdomein als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
 - **fixusopleiding:** opleiding waarvoor op grond van de [artikelen 7.53](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.53) of [7.56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.56) een beperkt aantal studenten kan worden ingeschreven;
 
@@ -1656,7 +1656,7 @@ In deze regeling wordt verstaan onder:
 
 - **plaats:** plaats als opgenomen in de mededeling bedoeld in [artikel 7.53, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.23);
 
-- **profiel:** profiel als bedoeld in [artikel 12, tweede lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=12) of [artikel 38, tweede lid, van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=38);
+- **profiel:** profiel als bedoeld in [artikel 2.20, tweede en derde lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.20);
 
 - **rankingnummer:** uniek nummer dat door de instelling toegekend wordt aan een kandidaat die de selectie heeft doorlopen, waaruit blijkt hoe hij ten opzichte van de andere deelnemers aan de selectie is beoordeeld;
 
@@ -1682,17 +1682,15 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
-
-- **WVO BES:** [Wet op het voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
+- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### 5.0.1. Overgangsbepaling nadere vooropleidingseisen instroom met havo-diploma
 
-Voor een student die ingeschreven is geweest voor een opleiding met toepassing van de artikelen 5.0.1, eerste lid, [5.0.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.2&z=2022-04-15&g=2022-04-15), [5.0.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.3&z=2022-04-15&g=2022-04-15), [5.0.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.4&z=2022-04-15&g=2022-04-15) of [5.0.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.5&z=2022-04-15&g=2022-04-15), zoals deze luidden onmiddellijk voor 1 september 2021, geldt in afwijking van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2022-04-15&g=2022-04-15) opgenomen tabel Economie (instroom met havo-diploma) en de tabel Landbouw en natuurlijke omgeving (instroom met havo-diploma), gedurende de gehele duur van die opleiding hetgeen in de genoemde artikelen is bepaald ten aanzien van de nadere vooropleidingseisen.
+Voor een student die ingeschreven is geweest voor een opleiding met toepassing van de artikelen 5.0.1, eerste lid, [5.0.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.2&z=2022-08-01&g=2022-08-01), [5.0.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.3&z=2022-08-01&g=2022-08-01), [5.0.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.4&z=2022-08-01&g=2022-08-01) of [5.0.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.5&z=2022-08-01&g=2022-08-01), zoals deze luidden onmiddellijk voor 1 september 2021, geldt in afwijking van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2022-08-01&g=2022-08-01) opgenomen tabel Economie (instroom met havo-diploma) en de tabel Landbouw en natuurlijke omgeving (instroom met havo-diploma), gedurende de gehele duur van die opleiding hetgeen in de genoemde artikelen is bepaald ten aanzien van de nadere vooropleidingseisen.
 
 ##### Artikel 5.0.2. Overgangsbepaling nadere vooropleidingseisen instroom met vwo-diploma
 
-Voor een student die ingeschreven is geweest voor een opleiding met toepassing van de [artikelen 5.0.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.1&z=2022-04-15&g=2022-04-15), 5.0.2, tweede lid, [5.0.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.3&z=2022-04-15&g=2022-04-15) of [5.0.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.5&z=2022-04-15&g=2022-04-15), zoals deze luidden onmiddellijk voor 1 september 2021, geldt in afwijking van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2022-04-15&g=2022-04-15) opgenomen tabel Economie (instroom met vwo-diploma), gedurende de gehele duur van die opleiding hetgeen in de genoemde artikelen is bepaald ten aanzien van de nadere vooropleidingseisen.
+Voor een student die ingeschreven is geweest voor een opleiding met toepassing van de [artikelen 5.0.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.1&z=2022-08-01&g=2022-08-01), 5.0.2, tweede lid, [5.0.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.3&z=2022-08-01&g=2022-08-01) of [5.0.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=5&artikel=5.0.5&z=2022-08-01&g=2022-08-01), zoals deze luidden onmiddellijk voor 1 september 2021, geldt in afwijking van de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=B&z=2022-08-01&g=2022-08-01) opgenomen tabel Economie (instroom met vwo-diploma), gedurende de gehele duur van die opleiding hetgeen in de genoemde artikelen is bepaald ten aanzien van de nadere vooropleidingseisen.
 
 ##### Artikel 5.0.3. Overgangsbepalingen nadere vooropleidingseisen opleiding Business Innovation
 
@@ -2732,7 +2730,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De aanvraag, bedoeld in het eerste lid, wordt elektronisch of per post ingediend.
 
-3. Voor de aanvraag, bedoeld in het eerste lid, wordt gebruik gemaakt van het formulier, zoals opgenomen in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=G&z=2022-04-15&g=2022-04-15).
+3. Voor de aanvraag, bedoeld in het eerste lid, wordt gebruik gemaakt van het formulier, zoals opgenomen in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=G&z=2022-08-01&g=2022-08-01).
 
 ### Hoofdstuk 2. Nadere vooropleidingseisen
 
@@ -2765,17 +2763,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 |   |
 |   |
 |   |
-| 4. Wat zijn de aanvullende eisen? Gelieve de objectieve gronden voor het stellen van aanvullende eisen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-04-15&g=2022-04-15) of [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-04-15&g=2022-04-15) te vermelden. |
+| 4. Wat zijn de aanvullende eisen? Gelieve de objectieve gronden voor het stellen van aanvullende eisen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-08-01&g=2022-08-01) of [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-08-01&g=2022-08-01) te vermelden. |
 |   |
 |   |
 |   |
 |   |
-| 5. Wilt u dat een opleiding met aanvullende eisen uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-04-15&g=2022-04-15) of [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-04-15&g=2022-04-15) wordt verwijderd? Per wanneer moet de verwijdering in werking treden? |
+| 5. Wilt u dat een opleiding met aanvullende eisen uit [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=D&z=2022-08-01&g=2022-08-01) of [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&bijlage=E&z=2022-08-01&g=2022-08-01) wordt verwijderd? Per wanneer moet de verwijdering in werking treden? |
 |   |
 |   |
 |   |
 |   |
-| 6.Wat zijn de overwegingen voor het stellen van de aanvullende eisen? Gelieve de specifieke vereisten van [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.1&z=2022-04-15&g=2022-04-15), van deze regeling of [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2022-04-15&g=2022-04-15), van deze regeling gemotiveerd weergeven. Indien het een opleiding met aanvullende eisen i.v.m. de organisatie en inrichting van het onderwijs betreft, dient het instellingsbestuur een door NVAO opgesteld advies mee te versturen. |
+| 6.Wat zijn de overwegingen voor het stellen van de aanvullende eisen? Gelieve de specifieke vereisten van [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.1&z=2022-08-01&g=2022-08-01), van deze regeling of [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035059&hoofdstuk=3&artikel=3.2&z=2022-08-01&g=2022-08-01), van deze regeling gemotiveerd weergeven. Indien het een opleiding met aanvullende eisen i.v.m. de organisatie en inrichting van het onderwijs betreft, dient het instellingsbestuur een door NVAO opgesteld advies mee te versturen. |
 |   |
 |   |
 |   |
