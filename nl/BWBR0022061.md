@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2022-03-24"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2022-03-24&g=2022-03-24) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2022-08-01&g=2022-08-01) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
@@ -146,7 +146,7 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 5. Overgangsrecht
 
-Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de paragrafen 2.53 tot en met 2.62 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2022-03-24&g=2022-03-24) behorende bij artikel 2, zoals deze luidden op 1 juli 2021, van toepassing.
+Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de paragrafen 2.53 tot en met 2.62 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2022-08-01&g=2022-08-01) behorende bij artikel 2, zoals deze luidden op 1 juli 2021, van toepassing.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -168,7 +168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 Vervallen
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2022-03-24&g=2022-03-24) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2022-08-01&g=2022-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -5204,7 +5204,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 1a. Omhangbepaling
 
-Deze regeling is mede gebaseerd op [artikel 6 van het Eindexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029990&artikel=6).
+Deze regeling berust op [artikel 2.54 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.54).
 
 ### Het eindexamen
 
@@ -6208,7 +6208,7 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 Domein A Vaardigheden
 
-Het CvE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.
+Het centraal examen heeft betrekking op de subdomeinen B2, B3, B4, B5, B8, C1, D4, E4, F1 en F2, in combinatie met de vaardigheden uit domein A.
 
 Het CvE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.
 
@@ -6620,7 +6620,7 @@ Het schoolexamen heeft betrekking op de (sub)domeinen B4 en B5, F, en G, in comb
 
 indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2022-03-24&g=2022-03-24) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2022-08-01&g=2022-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
 
 ## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
 
