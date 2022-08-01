@@ -4,7 +4,7 @@ identifier: "BWBR0030555"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2017-09-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030555"
 soort: "wet"
@@ -67,7 +67,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 4
 
-Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=1&artikel=3&z=2017-09-01&g=2017-09-01), wordt in verzoekprocedures, geen griffierecht geheven.
+Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01), wordt in verzoekprocedures, geen griffierecht geheven.
 
 #### § 2. Erkenning en tenuitvoerlegging op grond van het verdrag
 
@@ -95,7 +95,7 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 ##### Artikel 6
 
-1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2017-09-01&g=2017-09-01), heeft beschikt, neemt kennis van het rechtsmiddel bedoeld in artikel 23, vijfde lid, van het verdrag tegen die beschikking.
+1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), heeft beschikt, neemt kennis van het rechtsmiddel bedoeld in artikel 23, vijfde lid, van het verdrag tegen die beschikking.
 
 2. Het in artikel 23, tiende lid, van het verdrag bedoelde toegestane rechtsmiddel is beroep in cassatie.
 
@@ -111,7 +111,7 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 ##### Artikel 8
 
-1. Op de verzoeken die betrekking hebben op de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud op grond van afdeling 2 van hoofdstuk IV van de verordening is [artikel 5, eerste, derde, vierde, vijfde lid, eerste volzin, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2017-09-01&g=2017-09-01), van overeenkomstige toepassing.
+1. Op de verzoeken die betrekking hebben op de erkenning en de tenuitvoerlegging van beslissingen inzake levensonderhoud op grond van afdeling 2 van hoofdstuk IV van de verordening is [artikel 5, eerste, derde, vierde, vijfde lid, eerste volzin, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), van overeenkomstige toepassing.
 
 2. Het in artikel 28, eerste lid, onder b, van de verordening bedoelde formulier wordt in de Nederlandse taal vertaald.
 
@@ -119,11 +119,11 @@ Voor het optreden van de centrale autoriteit als bedoeld in [artikel 3, eerste l
 
 ##### Artikel 9
 
-1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=3&artikel=8&z=2017-09-01&g=2017-09-01), heeft beschikt, neemt kennis van het rechtsmiddel, bedoeld in artikel 32 van de verordening.
+1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=3&artikel=8&z=2022-08-01&g=2022-08-01), heeft beschikt, neemt kennis van het rechtsmiddel, bedoeld in artikel 32 van de verordening.
 
-2. Het rechtsmiddel, bedoeld in artikel 32 van de verordening, wordt, indien het wordt ingesteld door de verzoeker en is gericht tegen een weigering om een verzoek als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=3&artikel=8&z=2017-09-01&g=2017-09-01), in te willigen, ingesteld binnen een maand na de dagtekening van de beschikking.
+2. Het rechtsmiddel, bedoeld in artikel 32 van de verordening, wordt, indien het wordt ingesteld door de verzoeker en is gericht tegen een weigering om een verzoek als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=3&artikel=8&z=2022-08-01&g=2022-08-01), in te willigen, ingesteld binnen een maand na de dagtekening van de beschikking.
 
-3. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=6&z=2017-09-01&g=2017-09-01), is van toepassing.
+3. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030555&paragraaf=2&artikel=6&z=2022-08-01&g=2022-08-01), is van toepassing.
 
 4. Het in artikel 33 van de verordening toegestane rechtsmiddel is beroep in cassatie.
 
@@ -146,5 +146,17 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 13
 
 Deze wet wordt aangehaald als: Uitvoeringswet internationale inning levensonderhoud.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 9a
+
+1. Voor de toepassing van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede) op een beslissing uit een andere lidstaat worden het afschrift van de beslissing en het formulier, bedoeld in artikel 20, eerste lid, onder a en b, van de verordening tezamen als een executoriale titel in de zin van [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=430) aangemerkt.
+
+2. Onverminderd artikel 48 van de verordening is het eerste lid van overeenkomstige toepassing op gerechtelijke schikkingen en authentieke akten uit een andere lidstaat.
+
+#### § 4. Wijzigingen in andere wetten
+
+#### § 5. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
