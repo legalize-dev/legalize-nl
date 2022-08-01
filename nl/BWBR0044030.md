@@ -4,7 +4,7 @@ identifier: "BWBR0044030"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-08-01"
-last_updated: "2020-09-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044030"
 soort: "beleidsregel"
@@ -44,21 +44,21 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - **DAMU-leerling:** leerling die is toegelaten tot het hbo-voortraject en daardoor wordt beschouwd als toptalent op het gebied van dans of muziek;
 
-- **DAMU-licentie:** licentie van de minister aan het bevoegd gezag van een school waarin een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=3&z=2020-09-01&g=2020-09-01) wordt ingewilligd;
+- **DAMU-licentie:** licentie van de minister aan het bevoegd gezag van een school waarin een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=3&z=2022-08-01&g=2022-08-01) wordt ingewilligd;
 
 - **hbo-voortraject:** beroepsvoorbereidend traject voor vo-leerlingen, aangeboden door een hogeschool, dat voorafgaat aan een hbo-bachelor op het gebied van dansvakonderwijs of muziekvakonderwijs;
 
 - **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- **school:** school of scholengemeenschap voor voortgezet onderwijs waar uit de openbare kas bekostigd onderwijs wordt verzorgd als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8), en [9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9);
+- **school:** school of scholengemeenschap voor voortgezet onderwijs waar uit de openbare kas bekostigd onderwijs wordt verzorgd als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) en [2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
 
 - **Stichting DAMU:** de stichting Dans- en Muziekscholen;
 
-- **wet:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -78,9 +78,9 @@ Het doel van deze regeling is om een DAMU-leerling op een DAMU-school in staat t
 
 - c. bij gelijktijdige binnenkomst van de aanvragen komt de school met het hoogste aantal DAMU-leerlingen als eerste in aanmerking voor een DAMU-licentie.
 
-4. Een aanvraag van het bevoegd gezag van een school wordt in behandeling genomen indien is voldaan aan de vereisten in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=4&z=2020-09-01&g=2020-09-01).
+4. Een aanvraag van het bevoegd gezag van een school wordt in behandeling genomen indien is voldaan aan de vereisten in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=4&z=2022-08-01&g=2022-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=5&z=2022-08-01&g=2022-08-01).
 
-5. Scholen waar op het moment van de aanvraag of op het moment van besluiten de kwaliteit van het onderwijs zeer zwak is als bedoeld in [artikel 23a1, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1) of door de inspectie ingevolge [artikel 11 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=11) het onderwijs als onvoldoende is beoordeeld, komen niet in aanmerking voor een DAMU-licentie.
+5. Scholen waar op het moment van de aanvraag of op het moment van besluiten de kwaliteit van het onderwijs zeer zwak is als bedoeld in [artikel 2.94, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94) of door de inspectie ingevolge [artikel 11 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=11) het onderwijs als onvoldoende is beoordeeld, komen niet in aanmerking voor een DAMU-licentie.
 
 6. De aanvraag voor een DAMU-licentie wordt jaarlijks op uiterlijk 1 oktober ingediend. Aanvragen ingediend na deze datum worden in een volgend kalenderjaar in behandeling genomen.
 
@@ -94,13 +94,13 @@ De aanvraag gaat vergezeld van de volgende documenten:
 
 - a. een verklaring van de school dat op de desbetreffende school een door de betrokken hogeschool goedgekeurde lijst met de namen en adressen van minimaal vijftien DAMU-leerlingen die toegelaten zijn tot het hbo-voortraject aanwezig is, waarbij de meest recente teldatum van 1 oktober voorafgaand aan de aanvraag voor deze telling leidend is;
 
-- b. het schoolplan, met daarin een beleidsnotitie waaruit blijkt op welke wijze de school voldoet aan [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=5&z=2020-09-01&g=2020-09-01), en hoe de school waar nodig zorg draagt voor flexibiliteit in de onderwijsprogramma’s, flexibiliteit bij het afleggen van toetsen en schoolexamens en centrale examens, en hoe de specifieke kunstvakken worden ingevuld, rekening houdend met de belangen van de betrokken DAMU-leerling; en
+- b. het schoolplan, met daarin een beleidsnotitie waaruit blijkt op welke wijze de school voldoet aan [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=5&z=2022-08-01&g=2022-08-01), en hoe de school waar nodig zorg draagt voor flexibiliteit in de onderwijsprogramma’s, flexibiliteit bij het afleggen van toetsen en schoolexamens en centrale examens, en hoe de specifieke kunstvakken worden ingevuld, rekening houdend met de belangen van de betrokken DAMU-leerling; en
 
 - c. een schriftelijke steunverklaring van de Vereniging Hogescholen voor de aanvraag van een DAMU-licentie.
 
 ##### Artikel 5. Voorschriften voor het verstrekken van een DAMU-licentie
 
-De school, waarvoor het bevoegd gezag een aanvraag als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=4&z=2020-09-01&g=2020-09-01) heeft ingediend, voldoet aan de volgende voorschriften:
+De school, waarvoor het bevoegd gezag een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=3&z=2022-08-01&g=2022-08-01) heeft ingediend, voldoet aan de volgende voorschriften:
 
 - a. op de school zijn ten minste vijftien DAMU-leerlingen ingeschreven; en
 
@@ -116,13 +116,13 @@ Alleen een school met een DAMU-licentie mag zich profileren als een DAMU-school.
 
 2. Het bevoegd gezag dient op uiterlijk 1 oktober van het kalenderjaar, voorafgaande aan het kalenderjaar waarin de licentie expireert, een verzoek tot verlenging in.
 
-3. Op de verlenging van de DAMU-licentie zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=3&z=2020-09-01&g=2020-09-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=4&z=2020-09-01&g=2020-09-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=5&z=2020-09-01&g=2020-09-01) van overeenkomstige toepassing.
+3. Op de verlenging van de DAMU-licentie zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=3&z=2022-08-01&g=2022-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=4&z=2022-08-01&g=2022-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=5&z=2022-08-01&g=2022-08-01) van overeenkomstige toepassing.
 
 ##### Artikel 8. Consequentie van het niet meer deelnemen aan een hbo-voortraject
 
 1. Indien de DAMU-leerling niet langer deelneemt aan het hbo-voortraject kan de leerling niet langer als DAMU-leerling worden aangemerkt. Vanaf dat moment neemt de leerling weer deel aan het reguliere onderwijsprogramma.
 
-2. Indien het voor een leerling als bedoeld in het eerste lid redelijkerwijs niet mogelijk is om de gemiste vakonderdelen nog in te halen blijft een reeds geëffectueerde ontheffing op grond van [artikelen 9 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=9&z=2020-09-01&g=2020-09-01) van kracht, evenals een reeds lopende spreiding van het examen op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=14&z=2020-09-01&g=2020-09-01).
+2. Indien het voor een leerling als bedoeld in het eerste lid redelijkerwijs niet mogelijk is om de gemiste vakonderdelen nog in te halen blijft een reeds geëffectueerde ontheffing op grond van [artikelen 9 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=9&z=2022-08-01&g=2022-08-01) van kracht, evenals een reeds lopende spreiding van het examen op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=14&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 9. Consequentie voor de DAMU-leerlingen bij het niet verlengen van de DAMU-licentie
 
@@ -130,11 +130,11 @@ Indien de DAMU-licentie niet wordt verlengd, behouden de betrokken leerlingen de
 
 ##### Artikel 10. Afwijking onderbouw
 
-Het bevoegd gezag dat beschikt over een DAMU-licentie kan in afwijking van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=6d) en [11c, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11c), de DAMU-leerling in de eerste twee leerjaren ontheffing verlenen van de onderdelen van het onderwijsprogramma die betrekking hebben op de kerndoelen bewegen en sport, bedoeld in [bijlage 1, onderdeel G, bij het Besluit kerndoelen onderbouw VO](onbekend).
+Het bevoegd gezag dat beschikt over een DAMU-licentie kan in afwijking van de [artikelen 2.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.14) en [2.33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33), de DAMU-leerling in de eerste twee leerjaren ontheffing verlenen van de onderdelen van het onderwijsprogramma die betrekking hebben op de kerndoelen bewegen en sport, in onderdeel G van [bijlage 1, behorende bij artikel 2.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&bijlage=1).
 
 ##### Artikel 11. Afwijking van vakken in de bovenbouw vmbo theoretische leerweg
 
-Het bevoegd gezag dat beschikt over een DAMU-licentie kan, in afwijking van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=6d) en [10, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10) en [artikel 22, eerste lid, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=22), een DAMU-leerling, die de theoretische leerweg in het vmbo volgt, ontheffing verlenen voor:
+Het bevoegd gezag dat beschikt over een DAMU-licentie kan, in afwijking van [artikel 2.33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33) en de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.15) en [3.4, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.4), een DAMU-leerling, die de theoretische leerweg in het vmbo volgt, ontheffing verlenen voor:
 
 - a. lichamelijke opvoeding;
 
@@ -144,7 +144,7 @@ Het bevoegd gezag dat beschikt over een DAMU-licentie kan, in afwijking van [art
 
 ##### Artikel 12. Afwijking van vakken in de bovenbouw havo
 
-Het bevoegd gezag dat beschikt over een DAMU-licentie kan, in afwijking van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=6d) en [14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=14), [artikel 26c, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26c) en [artikel 13, eerste lid, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=13) een DAMU-leerling in de havo ontheffing verlenen voor:
+Het bevoegd gezag dat beschikt over een DAMU-licentie kan, in afwijking van [artikel 2.33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33), [paragraaf 3 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&paragraaf=3) en [artikel 3.1, eerste lid van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.1), een DAMU-leerling in de havo ontheffing verlenen voor:
 
 - a. lichamelijke opvoeding;
 
@@ -152,11 +152,11 @@ Het bevoegd gezag dat beschikt over een DAMU-licentie kan, in afwijking van [art
 
 - c. culturele en kunstzinnige vorming; en
 
-- d. een profielkeuzevak als bedoeld in [artikel 26c, tweede tot en met vijfde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26c) of een keuzevak als bedoeld in artikel 26c, zesde lid, van het Inrichtingsbesluit WVO.
+- d. een vak als bedoeld in de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.11) en [2.12 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.12).
 
 ##### Artikel 13. Afwijking van vakken in de bovenbouw vwo
 
-Het bevoegd gezag dat beschikt over een DAMU-licentie kan, in afwijking van de [artikelen 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=6d) en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=13), [artikel 26b van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26b) en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=11), dan wel [artikel 12, eerste lid, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=12) een DAMU-leerling in het vwo ontheffing verlenen voor:
+Het bevoegd gezag dat beschikt over een DAMU-licentie kan, in afwijking van [artikel 2.33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33) en [paragraaf 2 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=2), en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.1) dan wel [3.2 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.2), een DAMU-leerling in het vwo ontheffing verlenen voor:
 
 - a. lichamelijke opvoeding;
 
@@ -164,13 +164,13 @@ Het bevoegd gezag dat beschikt over een DAMU-licentie kan, in afwijking van de [
 
 - c. culturele en kunstzinnige vorming; en
 
-- d. een profielkeuzevak als bedoeld in [artikel 26b, derde tot en met zesde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26b), of een keuzevak als bedoeld in artikel 26b, zevende lid, van het Inrichtingsbesluit WVO.
+- d. een vak als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.6) of [2.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.7).
 
 ##### Artikel 14. Gespreid examen
 
-1. In uitzonderlijke gevallen kan het bevoegd gezag, dat beschikt over een DAMU-licentie, voor een DAMU-leerling beroep doen op [artikel 59 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=59), voor het doen van gespreid examen.
+1. In uitzonderlijke gevallen kan het bevoegd gezag, dat beschikt over een DAMU-licentie, voor een DAMU-leerling beroep doen op [artikel 3.56 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.56) voor het doen van gespreid examen.
 
-2. Alleen een DAMU-leerling die in het laatste leerjaar wordt geconfronteerd met activiteiten in het kader van uitoefening van de dans of muziek, waardoor het niet mogelijk is het eindexamen in het laatste leerjaar volledig af te leggen, komt voor toepassing van [artikel 59 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=59) in aanmerking.
+2. Alleen een DAMU-leerling die in het laatste leerjaar wordt geconfronteerd met activiteiten in het kader van uitoefening van de dans of muziek, waardoor het niet mogelijk is het eindexamen in het laatste leerjaar volledig af te leggen, komt voor toepassing van [artikel 3.56 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.56) in aanmerking.
 
 ##### Artikel 15. Evaluatie
 
@@ -191,5 +191,11 @@ Deze beleidsregel treedt in werking met ingang van 1 september 2020.
 ##### Artikel 19. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel DAMU-licentie VO 2020.
+
+Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 17a. Omhang
+
+Deze beleidsregel is mede gebaseerd op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3).
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
