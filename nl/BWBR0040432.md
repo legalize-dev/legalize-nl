@@ -4,7 +4,7 @@ identifier: "BWBR0040432"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2018-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040432"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-De beleidsregel Onderzoekskader College voor toetsen en examens wordt vastgesteld ([Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040432&bijlage=I&z=2018-01-01&g=2018-01-01)).
+De beleidsregel Onderzoekskader College voor toetsen en examens wordt vastgesteld ([Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040432&bijlage=I&z=2022-08-01&g=2022-08-01)).
 
 ##### Artikel 2
 
@@ -58,7 +58,7 @@ Dit besluit treedt in werking met ingang van 1 januari 2018.
 
 Met een wetswijziging die op 1 augustus 2014 in werking is getreden is de Wet College voor examens gewijzigd in de [Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364). Het College voor Examens heet vanaf dat moment College voor Toetsen en Examens (CvTE). Op basis van de Wet College voor toetsen en examens is het CvTE officieel (ook) verantwoordelijk voor de Centrale Eindtoets in het primair onderwijs. In 2014 heeft het CvTE ook een start gemaakt met de eerste ontwikkeling van de diagnostische tussentijdse toets en eerder waren de rekentoets Vo en de centrale examens Nederlandse taal, rekenen en Engels in het mbo aan het takenpakket toegevoegd.
 
-De [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800) (WOT) vormt de grondslag voor het toezicht door de Inspectie van het Onderwijs (Inspectie). Krachtens deze wet is het toezicht op het CvTE opgedragen aan de Inspectie ([artikel 15f WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15f)). De Inspectie houdt toezicht op de kwaliteit van het functioneren van het CvTE en op de naleving van de bij of krachtens de [Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284) gegeven voorschriften.
+De [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800) (WOT) vormt de grondslag voor het toezicht door de Inspectie van het Onderwijs (Inspectie). Krachtens deze wet is het toezicht op het CvTE opgedragen aan de Inspectie ([artikel 15f WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15f)). De Inspectie houdt toezicht op de kwaliteit van het functioneren van het CvTE en op de naleving van de bij of krachtens de [Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) gegeven voorschriften.
 
 Bij haar stelseltoezicht ([artikel 8 WOT](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=8)) kan de Inspectie desgevraagd of uit eigen beweging rapporteren aan de Minister over de ontwikkeling, in het bijzonder van de kwaliteit van het onderwijs, waaronder ook het toets- en examenstelsel valt. Op grond van deze rapportage doet de Inspectie voorstellen die zij in het belang van het onderwijs nodig acht.
 
@@ -68,7 +68,7 @@ Bij het vormgeven van het toezicht op de kwaliteitsborging zijn het kwaliteitsbe
 
 Het kwaliteitsbeleid van het CvTE bestaat in de kern uit: 1. de kwaliteit van procedures die de validiteit, betrouwbaarheid en normering van de toetsen en de examens waarborgen; 2. de kwaliteit van de procedures voor het betrekken van stakeholders, de opdrachtgever, de ketenpartners en externe deskundigen bij de werkzaamheden. Het CvTE heeft een systeem van kwaliteitsbewaking voor de centrale toetsen en examens en een onderzoek van de Inspectie naar de inhoud of de kwaliteit van de examens zou een dubbeling zijn. Het CvTE verantwoordt zich over de kwaliteitsborging en de resultaten hiervan. De Inspectie kan hierop aansluiten door de juistheid van de verantwoordingsinformatie te verifiëren. Hierdoor kunnen twee vragen worden beantwoord: 1. werkt het CvTE conform de eigen kwaliteitsprocedures?; 2. waarborgt het CvTE daarmee de kwaliteit, het niveau en de afname van de centrale toetsen en examens?
 
-De Inspectie houdt toezicht op de naleving van de bij of krachtens de [Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364), de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) en de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284) gegeven voorschriften. In [artikel 2 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) staan de wettelijke taken van het CvTE. Daarnaast is in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3) bepaald dat het college is belast met bij Algemene Maatregel van Bestuur aan te wijzen taken ten aanzien van de uitvoering van de centrale examinering in het beroepsonderwijs, bedoeld in [artikel 7.4.3a van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3a) en [artikel 7.4.4 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.4.4), en de op dit artikel gebaseerde uitvoeringsvoorschriften.
+De Inspectie houdt toezicht op de naleving van de bij of krachtens de [Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) gegeven voorschriften. In [artikel 2 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) staan de wettelijke taken van het CvTE. Daarnaast is in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3) bepaald dat het college is belast met bij Algemene Maatregel van Bestuur aan te wijzen taken ten aanzien van de uitvoering van de centrale examinering in het beroepsonderwijs, bedoeld in [artikel 7.4.3a van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3a) en [artikel 7.4.4 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.4.4), en de op dit artikel gebaseerde uitvoeringsvoorschriften.
 
 In de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=7) en [8 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=8) zijn wettelijke voorschriften opgenomen waarin is bepaald dat:
 
