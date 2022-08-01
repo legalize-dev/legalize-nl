@@ -4,7 +4,7 @@ identifier: "BWBR0030839"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2021-10-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030839"
 soort: "ministeriele-regeling"
@@ -42,13 +42,13 @@ Besluit:
 
 ##### Artikel 1
 
-De in [artikel 8, eerste lid, onderdeel b, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=8) bedoelde gevallen betreffen leerlingen die tijdelijk verblijven in voorzieningen als bedoeld in:
+De in [artikel 6.7, eerste lid, onderdeel b, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7) bedoelde gevallen betreffen leerlingen die tijdelijk verblijven in voorzieningen als bedoeld in:
 
 - a. de [Regeling regionaal zorgbudget en regionale verwijzingscommissie voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0035215);
 
 - b. [artikel 19, onder a, van de Regeling regionale aanpak voortijdig schoolverlaters en prestatiesubsidie vo](https://wetten.overheid.nl/jci1.3:c:BWBR0031387&artikel=19); en
 
-- c. [artikel 17a, tweede lid en lid 10a, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a).
+- c. [artikel 2.47, tweede en twaalfde lid van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47).
 
 ##### Artikel 2
 
@@ -62,6 +62,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a. Omhangbepaling
 
-Deze regeling berust op [artikel 8, eerste lid, onderdeel b, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=8).
+Deze regeling berust op [artikel 6.7, eerste lid, onderdeel b, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
