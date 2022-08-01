@@ -4,7 +4,7 @@ identifier: "BWBR0012991"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2001-11-24"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012991"
 soort: "ministeriele-regeling"
@@ -39,6 +39,12 @@ Besluit:
 ##### Artikel 1. Begripsbepalingen
 
 In deze beschikking wordt verstaan onder:
+
+- **bewindspersoon:** de minister of staatssecretaris van onderwijs, cultuur en wetenschappen; ouders: ouders, voogden of verzorgders;
+
+- **primair onderwijs:** de onderwijssoorten als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+
+- **voortgezet onderwijs:** de onderwijssoorten als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Instelling Leerling- en Ouderkamer
 
