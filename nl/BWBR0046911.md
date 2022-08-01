@@ -4,7 +4,7 @@ identifier: "BWBR0046911"
 country: "nl"
 rank: "wet"
 publication_date: "2024-08-01"
-last_updated: "2022-07-14"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046911"
 soort: "wet"
@@ -55,11 +55,9 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 Wijzigt de Wet voortgezet onderwijs 2020.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. Evaluatiebepaling
 
-Onze Minister voor Primair en Voortgezet Onderwijs zendt binnen een jaar na het vervallen van het in [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046911&artikel=II&z=2022-07-14&g=2022-07-14), voorgestelde [artikel 9.5 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.5), een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk aan de Staten-Generaal.
+Onze Minister voor Primair en Voortgezet Onderwijs zendt binnen een jaar na het vervallen van het in [artikel II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046911&artikel=II&z=2022-08-01&g=2022-08-01), voorgestelde [artikel 9.5 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.5), een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk aan de Staten-Generaal.
 
 ##### Artikel V. Inwerkingtreding
 
