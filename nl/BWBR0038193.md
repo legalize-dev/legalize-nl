@@ -4,7 +4,7 @@ identifier: "BWBR0038193"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2022-03-24"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038193"
 soort: "ministeriele-regeling"
@@ -44,29 +44,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **agrarisch opleidingscentrum:** agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3) voor zover het betreft het daaraan verzorgde voorbereidend beroepsonderwijs;
+- **beroepsgericht keuzevak:** vak als bedoeld in [artikel 2.24, derde lid, onderdeel b van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.24);
 
-- **beroepsgericht keuzevak:** beroepsgericht keuzevak als bedoeld in [artikel 10b, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), of [10d, zevende lid, onderdeel b, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), of in [artikel 18, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), of [29, zevende lid, onderdeel b, van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29);
-
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1) of [artikel 1 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - **DUO:** de Dienst Uitvoering Onderwijs;
 
-- **medezeggenschapsraad:** medezeggenschapsraad als bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3) of, in geval van een agrarisch opleidingscentrum de ondernemingsraad, bedoeld in de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747), de studentenraad, bedoeld in [artikel 8a.1.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8a.1.2) en de ouderraad, bedoeld in [artikel 8a.1.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8a.1.3);
+- **medezeggenschapsraad:** medezeggenschapsraad als bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken;
+- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **profielvak:** profielvak als bedoeld in [artikel 10b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), of [10d, zesde lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), of [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=18), of [29, zesde lid, van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=29);
+- **profielvak:** profielvak als bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.21), of [2.25, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.25);
 
 - **profielmodule:** elk van één van de vier modules waaruit een profielvak is samengesteld;
 
-- **school:** school voor vbo, scholengemeenschap waarvan ten minste een school voor vbo deel uitmaakt of agrarisch opleidingscentrum;
+- **school:** school voor vbo of scholengemeenschap waarvan ten minste een school voor vbo deel uitmaakt;
 
-- **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 10a van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10a) of [artikel 17 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=17);
+- **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-- **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
-
-- **WVO BES:** [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
+- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Profielmodules als beroepsgericht keuzevak
 
@@ -76,19 +72,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Melding van het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak
 
-1. Het bevoegd gezag meldt het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak aan de Dienst Uitvoering Onderwijs, Postbus 606, 2700ML te Zoetermeer.
+1. Het bevoegd gezag meldt het voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak aan de Dienst Uitvoering Onderwijs, Postbus 30205, 2500 GE, Den Haag.
 
-2. Het formulier voor de melding, bedoeld in [artikel 26k, derde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26k), dan wel [artikel 28, derde lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2022-03-24&g=2022-03-24).
+2. Het formulier voor de melding, bedoeld in [artikel 2.30, vijfde lid, Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.30), wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=1&z=2022-08-01&g=2022-08-01).
 
 3. Een volledige melding bestaat uit een volledig ingevuld formulier als bedoeld in het tweede lid, en een schriftelijke verklaring van kennisgeving van het voornemen aan de medezeggenschapsraad van de school.
 
-4. De minister kan zich bij het advies, bedoeld in [artikel 26k, vierde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26k), dan wel [artikel 28, vierde lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28), laten adviseren door een onafhankelijke adviescommissie.
+4. De minister kan zich bij het advies, bedoeld in [artikel 2.30, vierde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.30), laten adviseren door een onafhankelijke adviescommissie.
 
 ##### Artikel 4. Aanvraag tot goedkeuring van een nieuw beroepsgericht keuzevak
 
-1. Het bevoegd gezag dient een aanvraag tot goedkeuring van een nieuw ontwikkeld beroepsgericht keuzevak, als bedoeld in [artikel 26l, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26l), dan wel [artikel 28a, eerste lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28a), voor 1 oktober van enig jaar in bij de Dienst Uitvoering Onderwijs, Postbus 606, 2700ML te Zoetermeer.
+1. Het bevoegd gezag dient een aanvraag tot goedkeuring van een nieuw ontwikkeld beroepsgericht keuzevak, als bedoeld in [artikel 2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31), voor 1 oktober van enig jaar in bij de Dienst Uitvoering Onderwijs, Postbus 30205, 2500 GE te Den Haag.
 
-2. Het formulier voor de aanvraag, bedoeld in [artikel 26l, eerste lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26l) dan wel [artikel 28a, eerste lid, van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=28a), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2022-03-24&g=2022-03-24).
+2. Het formulier voor de aanvraag, bedoeld in [artikel 2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31), wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=2&z=2022-08-01&g=2022-08-01).
 
 3. Een volledige aanvraag bestaat uit:
 
@@ -120,7 +116,7 @@ Een nieuw beroepsgericht keuzevak voldoet in ieder geval aan de volgende voorwaa
 
 ##### Artikel 6. vaststelling examenprogramma’s beroepsgerichte keuzevakken
 
-De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2022-03-24&g=2022-03-24).
+De examenprogramma’s van de beroepsgerichte keuzevakken worden vastgesteld zoals aangegeven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -160,35 +156,11 @@ Medemelders
 
 MBO/AOC-instelling:
 
-Vestiging:
+Bij het meldingsformulier moet een schriftelijk bewijs zijn gevoegd van kennisgeving van het voornemen aan de medezeggenschapsraden dan wel de gemeenschappelijke medezeggenschapsraden.
 
 BRIN:
 
 Bevoegd gezag:
-
-Adres:
-
-Telefoonnummer:
-
-Contactpersoon (naam, functie, adres, telefoon, e-mail):
-
-Arbeidsmarktpartij:
-
-Adres:
-
-### Nadere informatie beroepsgericht keuzevak
-
-### Toelichting bij het meldformulier beroepsgerichte keuzevak
-
-Bij het meldingsformulier moet een schriftelijk bewijs zijn gevoegd van kennisgeving van het voornemen aan de medezeggenschapsraden dan wel de gemeenschappelijke medezeggenschapsraden.
-
-## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2020-11-25&g=2020-11-25), van de Regeling beroepsgerichte keuzevakken vmbo
-
-### Formulier aanvraag van een nieuw beroepsgericht keuzevak
-
-### Algemeen
-
-Melder
 
 **Algemeen**
 
@@ -200,7 +172,31 @@ Vestiging:
 
 BRIN:
 
-Bevoegd gezag:
+### Nadere informatie beroepsgericht keuzevak
+
+### Toelichting bij het meldformulier beroepsgerichte keuzevak
+
+Telefoonnummer:
+
+## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2020-11-25&g=2020-11-25), van de Regeling beroepsgerichte keuzevakken vmbo
+
+### Formulier aanvraag van een nieuw beroepsgericht keuzevak
+
+### Algemeen
+
+Bij het aanvraagformulier moeten de volgende zaken worden gevoegd:
+
+Van de bij 1 t/m 3 genoemde producten moet er één uitgewerkt worden. De andere twee kunnen schematisch worden weergegeven.
+
+Melder
+
+School:
+
+Vestiging:
+
+De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
+
+Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
 
 Adres:
 
@@ -228,69 +224,21 @@ Arbeidsmarktpartij:
 
 Adres:
 
-### Nadere informatie beroepsgericht keuzevak
+### 1.13. bouwmethoden en bouwstijlen
 
-### Toelichting bij het beroepsgerichte keuzevak
+### 1.14. bijzonder metselwerk
 
 **Nadere informatie beroepsgericht keuzevak**
 
 ## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2016-08-01&g=2016-08-01) van de Regeling beroepsgerichte keuzevakken vmbo
 
-### Examenprogramma’s beroepsgerichte keuzevakken
-
-### Examenprogramma’s beroepsgerichte keuzevakken
-
-De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
-
-De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
-
-### Leeswijzer
-
-### 1. Profiel bouwen, wonen en interieur
-
-### 1.1. bouwproces en bouwvoorbereiding
-
-### 1. Profiel bouwen, wonen en interieur
-
-### 1.1. bouwproces en bouwvoorbereiding
-
-### 1.2. bouwen vanaf de fundering
-
-### 1.3. hout- en meubelverbindingen
-
-### 1.4. design en decoratie
-
-### 1.5. constructieve aansluitingen en afwerking
-
-### 1.6. schoonmetselwerk
-
-### 1.7. schilderen van hout- en steenachtige ondergronden
-
-### 1.8. interieurbouw, stands en betimmeringen
-
-### 1.9. bouwkundig onderhoud, renovatie en transformatie
-
-### 1.10. gevelopeningen
-
-### 1.11. daken en kapconstructies van hout
-
-### 1.12. vloeren
-
-### 1.13. bouwmethoden en bouwstijlen
-
-### 1.14. bijzonder metselwerk
-
-### 1.15. scheidingswanden
-
-### 1.16. wandafwerking
-
 ### 1.17. schilderen en spuiten op kunststof en metalen
 
 ### 1.18. onderhoud schilderwerk
 
-### 1.19. glaszetten
+De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
 
-### 1.20. meubelmaken
+De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
 
 ### 1.21. bouw- en woonrijp maken
 
@@ -518,7 +466,7 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 7.1. commercieel
 
-* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
+### 7.2. secretarieel
 
 ### 7.3. logistiek
 
@@ -558,7 +506,7 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 8.5. gastheerspecialisatie
 
-### 9. Profiel groen
+### 6.16. voorkomen van ongevallen en EHBO
 
 ### 8.6. brood- en banketspecialisatie
 
@@ -566,7 +514,7 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 8.8. evenementen
 
-### 8.9. patisserie
+* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
 
 ### 8.10. de bijzondere keuken
 
@@ -576,7 +524,7 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 8.13. Siervakken
 
-### 9.9. groene vormgeving en styling
+### 7.7. distributie
 
 ### 9. Profiel groen
 
@@ -594,26 +542,6 @@ De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profie
 
 ### 9.7. werk in tuin en landschap
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-**Algemeen**
-
-Telefoonnummer:
-
-Contactpersoon (naam, functie, adres, telefoon, e-mail):
-
-Toelichting bij het beroepsgerichte keuzevak
-
-## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2020-11-25&g=2020-11-25) van de Regeling beroepsgerichte keuzevakken vmbo
-
-### Leeswijzer
-
-Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
-
-### 7.2. secretarieel
-
-* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
-
 ### 9.8. bloemwerk
 
 ### 9.9. groene vormgeving en styling
@@ -625,6 +553,74 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 ### 9.12. het houden van dieren
 
 ### 9.13. gezonde dieren
+
+### 9.14. water
+
+### 9.15. voeding: hoe maak je het?
+
+### 9.16. groene zorg
+
+### 9.17. natuurlijk groen
+
+### 9.18. Actief in de natuur
+
+### 919. Visstandbeheer en sportvisserij
+
+### 9.20. Duurzame melkveehouderij
+
+### 10. Profiel dienstverlening en producten
+
+### 10.1. organiseren van een activiteit voor een opdrachtgever
+
+### 10.2. presenteren, promoten en verkopen
+
+### 10.3. een product maken en verbeteren
+
+### 10.4. multimediale producten maken
+
+### 10.5. digispel
+
+### 10.6. robotica
+
+### 10.7. werken aan natuur en milieu
+
+### 10.8. voeding en beweging
+
+### 10.9. podium
+
+### 10.10. geüniformeerde dienstverlening en veiligheid
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Toelichting bij het beroepsgerichte keuzevak
+
+Telefoonnummer:
+
+Contactpersoon (naam, functie, adres, telefoon, e-mail):
+
+Toelichting bij het beroepsgerichte keuzevak
+
+## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2020-11-25&g=2020-11-25) van de Regeling beroepsgerichte keuzevakken vmbo
+
+### 1.19. glaszetten
+
+Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.
+
+### 8.9. patisserie
+
+1 meer complexe situatie: in relatief kortere tijd siervakproducten vervaardigen waarvoor meerdere en andere technieken dan in het patisserie worden toegepast en gecombineerd.
+
+### 10.11. milieu, hergebruik en duurzaamheid
+
+### 10.12. Dans-, acteer- en zangactiviteiten
+
+### 10.13. Talentvak acteren, zang en dans
+
+### 10.14. Danstechniek
+
+### 10.15. Acteren en zingen
+
+### 10.16. Kunstvak informatie, creatie en presentatie
 
 ### 9.14. water
 
@@ -660,27 +656,27 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a. Omhang
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling is gebaseerd op de [artikelen 2.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.29), [2.30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.30), en [2.31 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.31).
 
 ##### Artikel 6a*. Overgangsrecht
 
-Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de onderdelen 1.24 tot en met 1.26, 2.22 tot en met 2.26, 4.17, 5.20, 7.13, 7.14, 9.18. 9.19, 10.12 tot en met 10.14 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2022-03-24&g=2022-03-24) behorende bij artikel 6, zoals deze luidden op 1 juli 2021, van toepassing.
+Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de onderdelen 1.24 tot en met 1.26, 2.22 tot en met 2.26, 4.17, 5.20, 7.13, 7.14, 9.18. 9.19, 10.12 tot en met 10.14 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&bijlage=3&z=2022-08-01&g=2022-08-01) behorende bij artikel 6, zoals deze luidden op 1 juli 2021, van toepassing.
 
-## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2022-03-24&g=2022-03-24), van de Regeling beroepsgerichte keuzevakken vmbo
+## Bijlage 1. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=3&z=2022-08-01&g=2022-08-01), van de Regeling beroepsgerichte keuzevakken vmbo
 
 ### Formulier melding voornemen tot ontwikkeling van een nieuw beroepsgericht keuzevak
 
 ### Algemeen
 
-Telefoonnummer:
+Bevoegd gezag:
 
-Contactpersoon (naam, functie, adres, telefoon, e-mail):
+Adres:
 
 ### Nadere informatie beroepsgericht keuzevak
 
 ### Toelichting bij het meldformulier beroepsgerichte keuzevak
 
-Bij het meldingsformulier moet een schriftelijk bewijs zijn gevoegd van kennisgeving van het voornemen aan de medezeggenschapsraden dan wel de gemeenschappelijke medezeggenschapsraden.
+**Nadere informatie beroepsgericht keuzevak**
 
 ## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2022-03-24&g=2022-03-24), van de Regeling beroepsgerichte keuzevakken vmbo
 
@@ -692,7 +688,7 @@ Van de bij 1 t/m 3 genoemde producten moet er één uitgewerkt worden. De andere
 
 ## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2022-03-24&g=2022-03-24) van de Regeling beroepsgerichte keuzevakken vmbo
 
-### Examenprogramma’s beroepsgerichte keuzevakken
+### 1.20. meubelmaken
 
 De landelijk ontwikkelde beroepsgerichte keuzevakken zijn ingedeeld in de profielen waar ze oorspronkelijk onder zijn geschaard. In het onderstaande overzicht volgen per profiel eerst de vier profielmodules die als beroepsgerichte keuzevakken gekozen kunnen worden, en daarna de overige onder het profiel geschaarde beroepsgerichte keuzevakken.
 
@@ -727,5 +723,55 @@ Hieronder worden de examenprogramma's per beroepsgericht keuzevak gedefinieerd i
 ### 10.15. Acteren en zingen
 
 ### 10.16. Kunstvak informatie, creatie en presentatie
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Nadere informatie beroepsgericht keuzevak
+
+### Toelichting bij het meldformulier beroepsgerichte keuzevak
+
+## Bijlage 2. behorende bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=4&z=2022-08-01&g=2022-08-01), van de Regeling beroepsgerichte keuzevakken vmbo
+
+### Formulier aanvraag van een nieuw beroepsgericht keuzevak
+
+Contactpersoon (naam, functie, adres, telefoon, e-mail):
+
+## Bijlage 3. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0038193&artikel=6&z=2022-08-01&g=2022-08-01) van de Regeling beroepsgerichte keuzevakken vmbo
+
+### Examenprogramma’s beroepsgerichte keuzevakken
+
+### Leeswijzer
+
+### 1. Profiel bouwen, wonen en interieur
+
+### 1.1. bouwproces en bouwvoorbereiding
+
+### 1.2. bouwen vanaf de fundering
+
+### 1.3. hout- en meubelverbindingen
+
+### 1.4. design en decoratie
+
+### 1.5. constructieve aansluitingen en afwerking
+
+### 1.6. schoonmetselwerk
+
+### 1.7. schilderen van hout- en steenachtige ondergronden
+
+### 1.8. interieurbouw, stands en betimmeringen
+
+### 1.9. bouwkundig onderhoud, renovatie en transformatie
+
+### 1.10. gevelopeningen
+
+### 1.11. daken en kapconstructies van hout
+
+### 1.12. vloeren
+
+### 1.15. scheidingswanden
+
+### 1.16. wandafwerking
+
+* meer complexe praktijkomgeving: mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
