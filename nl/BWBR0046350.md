@@ -4,7 +4,7 @@ identifier: "BWBR0046350"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-10-11"
-last_updated: "2022-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046350"
 soort: "AMvB"
@@ -125,13 +125,11 @@ Bij ministeriële regeling worden geregeld:
 
 ##### Artikel 2.4. Aanvullend onderzoek inspectie
 
-1. Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de meting van de leerresultaten, verricht de inspectie een aanvullend onderzoek, volgens bij ministeriële regeling te geven voorschriften. Het aanvullend onderzoek kan onder meer omvatten:
+Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de meting van de leerresultaten, verricht de inspectie een aanvullend onderzoek, volgens bij ministeriële regeling te geven voorschriften. Het aanvullend onderzoek kan onder meer omvatten:
 
 - a. het verkrijgen van nadere gegevens van de school over de resultaten en de doorstroom van leerlingen; en
 
 - b. onderzoek en verificatie ter plekke.
-
-2. De inspectie laat in het schooljaar 2021–2022, in afwijking van het eerste lid, het aanvullend onderzoek achterwege.
 
 ##### Artikel 2.5. Monitor veiligheid op school
 
@@ -219,7 +217,7 @@ Het percentage, bedoeld in [artikel 9, lid 13a, van de wet](https://wetten.overh
 
 ### Hoofdstuk 5. Slotbepalingen
 
-##### Artikel 5.1. Dubbelwijziging [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=2&artikel=2.4&z=2022-04-01&g=2022-04-01).
+##### Artikel 5.1. Dubbelwijziging [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&hoofdstuk=2&artikel=2.4&z=2022-08-01&g=2022-08-01).
 
 Wijzigt dit Besluit.
 
