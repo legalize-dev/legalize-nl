@@ -4,7 +4,7 @@ identifier: "BWBR0043066"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2022-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043066"
 soort: "ministeriele-regeling"
@@ -46,17 +46,17 @@ Besluit:
 
 In bijlage A bij deze regeling wordt geregeld:
 
-- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 2.2, onderdeel a, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-04-01&g=2022-04-01).
+- a. De wijze waarop de beoordeling van de leerresultaten, bedoeld in [artikel 10a, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) tot stand komt, bedoeld in [artikel 2.2, onderdeel a, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 1 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-08-01&g=2022-08-01).
 
-- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 2.2, onderdeel b, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-04-01&g=2022-04-01).
+- b. De wijze waarop en omstandigheden waarin bij kleine scholen de leerresultaten worden gewogen, bedoeld in [artikel 2.2, onderdeel b, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 2 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-08-01&g=2022-08-01).
 
-- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 2.2, onderdeel c, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-04-01&g=2022-04-01).
+- c. De wijze van correctie van de meting voor schoolkenmerken en individuele kenmerken van leerlingen, bedoeld in [artikel 2.2, onderdeel c, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 3 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-08-01&g=2022-08-01).
 
-- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 2.2, onderdeel d, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-04-01&g=2022-04-01).
+- d. De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaat baseert, bedoeld in [artikel 2.2, onderdeel d, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.2), in deel 4 van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=A&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 2. Meting onmogelijk of gegevens incompleet
 
-[Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2022-04-01&g=2022-04-01) regelt de wijze waarop de inspectie het aanvullend onderzoek, bedoeld in [artikel 2.4 van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4), verricht.
+[Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2022-08-01&g=2022-08-01) regelt de wijze waarop de inspectie het aanvullend onderzoek, bedoeld in [artikel 2.4 van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4), verricht.
 
 ##### Artikel 3. Omhangbepaling
 
@@ -98,7 +98,7 @@ De signaleringswaarden voor beide indicatoren staan in Tabel 1. Als het behaalde
 
 Als scholen fuseren dan vindt de beoordeling van de leerresultaten plaats op basis van de leerresultaten behorend bij het BRIN van de fusieschool. In de schooljaren voor de fusie worden de leerresultaten van de oorspronkelijke school die niet wordt opgeheven beschouwd en in de schooljaren na de fusie de leerresultaten van de fusieschool.
 
-Een voorbeeld: als school A en B per 1-8-2019 fuseren en doorgaan onder het BRIN van school A, dan baseren we het oordeel over de leerresultaten van 2018, 2019 en 2020 op de referentieniveaus van school A in 2018 en 2019 en de referentieniveaus behaald door de fusieschool (A+B) in 2020.
+Als scholen fuseren dan vindt de beoordeling van de leerresultaten plaats op basis van de leerresultaten behorend bij het BRIN van de fusieschool. In de schooljaren voor de fusie worden de leerresultaten van de oorspronkelijke school die niet wordt opgeheven beschouwd en in de schooljaren na de fusie de leerresultaten van de fusieschool.
 
 ### Nieuwe scholen
 
@@ -108,9 +108,9 @@ In [artikel 10a, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Er kan sprake zijn van een onbetrouwbare schoolweging, bijvoorbeeld in de volgende gevallen:
 
-Dit betekent niet automatisch dat de schoolweging geen goede afspiegeling van de leerlingenpopulatie is. Vaak zal dat wel het geval zijn. Tijdens het onderzoek op de school kan de inspecteur tot de conclusie komen dat er sprake is van een onbetrouwbare schoolweging, die het onmogelijk maakt om een oordeel over de leerresultaten te geven.
+Er kan sprake zijn van een onbetrouwbare schoolweging, bijvoorbeeld in de volgende gevallen:
 
-Een school heeft meerdere vestigingen die door de inspectie als afzonderlijke objecten van toezicht worden gezien, maar er is in BRON niet duidelijk aangegeven op welke locatie de leerlingen zijn ingeschreven.
+Dit betekent niet automatisch dat de schoolweging geen goede afspiegeling van de leerlingenpopulatie is. Vaak zal dat wel het geval zijn. Tijdens het onderzoek op de school kan de inspecteur tot de conclusie komen dat er sprake is van een onbetrouwbare schoolweging, die het onmogelijk maakt om een oordeel over de leerresultaten te geven.
 
 In verband met de uitbraak van COVID-19 zijn er in het schooljaar 2021–2022 onvoldoende gegevens voor een betrouwbaar oordeel over de meting van de leerresultaten. Daarom worden de leerresultaten van scholen in het schooljaar 2021–2022 niet beoordeeld. Alle scholen krijgen in die periode ‘geen oordeel’. Er wordt geen aanvullend onderzoek als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2022-04-01&g=2022-04-01) verricht, overeenkomstig [artikel 2.4, tweede lid, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4).
 
@@ -141,3 +141,49 @@ In het schooljaar 2021–2022 blijft het aanvullend onderzoek achterwege, overee
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Geen oordeel wegens COVID-19
+
+Tabel 1 vermeldt tevens de correctiewaarden die gehanteerd worden bij de beoordeling van de leerresultaten in de schooljaren 2022–2023 en 2023–2024.
+
+### Fusiescholen
+
+Een voorbeeld: als school A en B per 1-8-2019 fuseren en doorgaan onder het BRIN van school A, dan baseren we het oordeel over de leerresultaten van 2018, 2019 en 2020 op de referentieniveaus van school A in 2018 en 2019 en de referentieniveaus behaald door de fusieschool (A+B) in 2020.
+
+### Nieuwe scholen
+
+In [artikel 10a, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) is geregeld dat er sprake is van onvoldoende leerresultaten als de leerresultaten gemeten over een periode van drie schooljaren onder de norm liggen. Dit betekent dat de leerresultaten van nieuwe scholen pas als onvoldoende beoordeeld kunnen worden als er ten minste leerresultaten van drie schooljaren beschikbaar zijn.
+
+### Schoolweging geen goede afspiegeling van leerlingenpopulatie
+
+### Geen oordeel wegens COVID-19
+
+In verband met de uitbraak van COVID-19 zijn er in het schooljaar 2021–2022 onvoldoende gegevens voor een betrouwbaar oordeel over de meting van de leerresultaten. Daarom worden de leerresultaten van scholen in het schooljaar 2021–2022 niet beoordeeld. Alle scholen krijgen in die periode ‘geen oordeel’. Er wordt geen aanvullend onderzoek als bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0043066&bijlage=B&z=2022-08-01&g=2022-08-01) verricht, overeenkomstig [artikel 2.4, tweede lid, van het Inrichtingsbesluit WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0046350&artikel=2.4).
+
+### Deel 2. Kleine scholen
+
+Bij kleine scholen beschouwt de inspectie bij de beoordeling de behaalde referentieniveaus in de laatste vijf schooljaren. Een school is een kleine school als er in het meest recente schooljaar dat wordt beschouwd minder dan vijf leerlingen in het achtste leerjaar zitten.
+
+### Deel 3. Correctie voor schoolkenmerken en individuele kenmerken van leerlingen
+
+Bij de beoordeling van de leerresultaten houdt de inspectie rekening met de schoolkenmerken en individuele kenmerken van leerlingen. Dit doet zij op twee manieren:
+
+### Deel 4. Normering
+
+Het oordeel over de leerresultaten komt aan de hand van de twee indicatoren tot stand:
+
+Voldoende
+
+Onvoldoende
+
+Geen oordeel
+
+## Bijlage B. Meting onmogelijk of gegevens incompleet
+
+Indien er geen of onvoldoende gegevens zijn voor een betrouwbaar oordeel over de leerresultaten, zal de inspectie een aanvullend onderzoek naar de leerresultaten (laten) verrichten. Het onderzoek kan onder meer bestaan uit:
+
+- •. het verkrijgen van nadere gegevens van de school over de leerresultaten voor zover ze wel beschikbaar zijn;
+
+- •. analyse van de beschikbare leerresultaten en beoordeling door de inspecteur ter plekke.
+
+Als uit het onderzoek niet geconcludeerd kan worden dat de leerresultaten voldoende zijn, wordt geen oordeel gegeven.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
