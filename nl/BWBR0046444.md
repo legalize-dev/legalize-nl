@@ -4,7 +4,7 @@ identifier: "BWBR0046444"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-07-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046444"
 soort: "wet"
@@ -47,25 +47,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947)
 
 Wijzigt de Ambtenarenwet 2017.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755)
 
 Wijzigt de Elektriciteitswet 1998.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IVa. [Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259)
 
@@ -77,8 +69,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Gaswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. [Invoerings- en aanpassingswet WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044812)
 
 Wijzigt de Invoerings- en aanpassingswet WVO 2020
@@ -87,19 +77,13 @@ Wijzigt de Invoerings- en aanpassingswet WVO 2020
 
 Wijzigt de Leerplichtwet 1969.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188)
 
 Wijzigt de Les- en cursusgeldwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX. [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691)
 
 Wijzigt de Mededingingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028)
 
@@ -117,13 +101,9 @@ Wijzigt de Wet bestuurlijke harmonisatie beroepsonderwijs.
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII. [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
 
 Wijzigt de Wet educatie en beroepsonderwijs BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII. [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)
 
@@ -146,8 +126,6 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 ##### Artikel XVII. [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
 Wijzigt de Wet op het onderwijstoezicht.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVIII. [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420)
 
@@ -173,13 +151,9 @@ Wijzigt de Wet studiefinanciering 2000.
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIV. [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
 
 Wijzigt de Wet voortgezet onderwijs 2020.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV. [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284)
 
@@ -189,13 +163,9 @@ Wijzigt de Wet voortgezet onderwijs BES.
 
 Wijzigt de Wet kinderopvang.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVII. [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705)
 
 Wijzigt de Wet publieke gezondheid.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVIII. [Wet vereenvoudiging bekostiging po](https://wetten.overheid.nl/jci1.3:c:BWBR0045030) (STB. 2021, 171)
 
@@ -215,9 +185,9 @@ Wijzigt deze wet.
 
 2. In dat besluit kan worden bepaald dat:
 
-- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2022-07-01&g=2022-07-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
+- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2022-08-01&g=2022-08-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
 
-- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2022-07-01&g=2022-07-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
+- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2022-08-01&g=2022-08-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
 
 ##### Artikel XXXII. Citeertitel
 
