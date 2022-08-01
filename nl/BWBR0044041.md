@@ -4,7 +4,7 @@ identifier: "BWBR0044041"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2022-07-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044041"
 soort: "ministeriele-regeling-BES"
@@ -48,11 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **aanvrager:** bevoegd gezag dat bij de Minister een aanvraag indient voor bekostiging van een openbare of een bijzondere school;
 
-- **belangstellingsmeting:** belangstellingsmeting als bedoeld in [artikel 124a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a);
-
-- **bevoegd gezag:** bevoegd gezag als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
-
-- **bijzondere school:** bijzondere school als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
+- **belangstellingsmeting:** belangstellingsmeting als bedoeld in [artikel 11.45b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b);
 
 - **CAPE:** Caribbean Advanced Proficiency Examination als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1);
 
@@ -61,8 +57,6 @@ In deze regeling wordt verstaan onder:
 - **CVQ:** Caribbean Vocational Qualification als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1);
 
 - **DUO:** Dienst Uitvoering Onderwijs;
-
-- **havo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14);
 
 - **kalenderjaar waarin de school volgroeid is:**
 
@@ -76,11 +70,9 @@ In deze regeling wordt verstaan onder:
 
 - e. wat betreft een scholengemeenschap op Saba of St. Eustatius die CVQ, CSCEC of CAPE aanbiedt: het vijfde kalenderjaar dat de school bekostigd wordt.
 
-- **mavo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=15);
-
 - **Minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- **nieuwe school:** school of scholengemeenschap als bedoeld in [artikel 120, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=120), niet zijnde een school als bedoeld in [artikel 121, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=121);
+- **nieuwe school:** school of scholengemeenschap als bedoeld in [artikel 11.42, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.42), niet zijnde een school als bedoeld in [artikel 11.44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.44);
 
 - **schooljaar waarin de school volgroeid is:**
 
@@ -96,21 +88,13 @@ In deze regeling wordt verstaan onder:
 
 - **Rijksvertegenwoordiger:** Rijksvertegenwoordiger als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
 
-- **school:** school als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
+- **voedingsgebied:** voedingsgebied als bedoeld in [artikel 11.45b, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b);
 
-- **scholengemeenschap:** scholengemeenschap als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
-
-- **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=17);
-
-- **voedingsgebied:** voedingsgebied als bedoeld in [artikel 124a, tweede lid, onderdeel b, van wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a);
-
-- **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13);
-
-- **wet:** [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
+- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Stichtingsnormen school
 
-1. Het aantal leerlingen, bedoeld in [artikel 120, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=120), bedraagt voor een school per schoolsoort op Bonaire:
+1. Het aantal leerlingen, bedoeld in [artikel 11.43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.43), bedraagt voor een school per schoolsoort op Bonaire:
 
 - a. 210 leerlingen voor een school voor vwo;
 
@@ -126,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 2. Op Sint Eustatius en Saba kan uitsluitend een nieuwe scholengemeenschap voor voortgezet onderwijs voor bekostiging in aanmerking komen.
 
-3. Het aantal leerlingen, bedoeld in [artikel 120, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=120) bedraagt voor een scholengemeenschap op:
+3. Het aantal leerlingen, bedoeld in [artikel 11.43, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.43) bedraagt voor een scholengemeenschap op:
 
 - a. Sint Eustatius 170 leerlingen;
 
@@ -134,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Stichtingsnormen nevenvestiging
 
-1. Het aantal leerlingen, bedoeld in [artikel 120, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=120), bedraagt voor een nevenvestiging per schoolsoort op Bonaire:
+1. Het aantal leerlingen, bedoeld in [artikel 11.43, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.43), bedraagt voor een nevenvestiging per schoolsoort op Bonaire:
 
 - a. 105 leerlingen voor een nevenvestiging voor vwo;
 
@@ -148,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 2. Op Sint Eustatius en Saba kan uitsluitend een nevenvestiging van een scholengemeenschap voor bekostiging in aanmerking komen.
 
-3. Het aantal leerlingen, bedoeld in [artikel 120, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=120) bedraagt voor een nevenvestiging op:
+3. Het aantal leerlingen, bedoeld in [artikel 11.43, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.43) bedraagt voor een nevenvestiging op:
 
 - a. Sint Eustatius 28 leerlingen;
 
@@ -156,11 +140,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Opheffing of beëindiging bekostiging
 
-Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=188), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2022-05-18&g=2022-07-01).
+Het aantal leerlingen, bedoeld in [artikel 11.53, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.53), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 5. Melding voorgenomen aanvraag tot bekostiging
 
-1. Het bevoegd gezag maakt melding van een voorgenomen aanvraag als bedoeld in [artikel 123, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=123), van 1 juni tot en met 30 juni in het kalenderjaar van de aanvraag, bedoeld in artikel 123, eerste lid, van de wet.
+1. Het bevoegd gezag maakt melding van een voorgenomen aanvraag als bedoeld in [artikel 11.45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45), van de wet, van 1 juni tot en met 30 juni in het kalenderjaar van de aanvraag, bedoeld in [artikel 11.45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45).
 
 2. De melding bevat de volgende gegevens:
 
@@ -192,7 +176,7 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 ##### Artikel 6. Aanvraag tot bekostiging
 
-1. Een aanvraag als bedoeld in [artikel 123, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=123), bevat naast de gegevens, genoemd in [artikel 124, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124) de volgende gegevens:
+1. Een aanvraag als bedoeld in [artikel 11.45, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45), bevat naast de gegevens, genoemd in [artikel 11.45a, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45a) de volgende gegevens:
 
 - a. naam van de contactpersoon;
 
@@ -218,19 +202,19 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 - l. beschrijving van het onderwijskundig concept in ten hoogste 3.000 tekens.
 
-2. Uit het document, bedoeld in [artikel 124, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124), blijkt dat in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 15 september van het kalenderjaar van de aanvraag de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
+2. Uit het document, bedoeld in [artikel 11.45a, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45a), van de wet, blijkt dat in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 15 september van het kalenderjaar van de aanvraag de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
 
 3. De aanvraag tot bekostiging wordt ingediend met een formulier dat is bekendgemaakt op de website www.duo.nl.
 
 ##### Artikel 7. Verklaring omtrent het gedrag
 
-1. De verklaring omtrent het gedrag, bedoeld in [artikel 124, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124), is afgegeven volgens het screeningsprofiel onderwijs.
+1. De verklaring omtrent het gedrag, bedoeld in [artikel 11.45a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45a), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2022-05-18&g=2022-07-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2022-08-01&g=2022-08-01), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 8. Verblijfsjaren
 
-1. Het aantal verblijfsjaren, bedoeld in [artikel 124a, derde lid, onderdeel a, letter w en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), is voor de schoolsoort:
+1. Het aantal verblijfsjaren, bedoeld in [artikel 11.45b, derde lid, onderdeel a, letter w en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45), is voor de schoolsoort:
 
 - a. vwo: 5,70;
 
@@ -248,7 +232,7 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 - h. het praktijkonderwijs: 4,80.
 
-2. Het aantal verblijfsjaren voor een nevenvestiging als bedoeld in [artikel 127c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=127c) is voor de schoolsoort:
+2. Het aantal verblijfsjaren voor een nevenvestiging als bedoeld in [artikel 11.50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.50) is voor de schoolsoort:
 
 - a. vwo: 2,96;
 
@@ -260,19 +244,19 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 - e. praktijkonderwijs: 4,80.
 
-3. Het aantal verblijfsjaren voor de afdeling havo, bedoeld in [artikel 14, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=14), is 2,00.
+3. Het aantal verblijfsjaren voor de afdeling havo, bedoeld in [artikel 2.5, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5), is 2,00.
 
 ##### Artikel 9. Nadere regels belangstellingsmeting
 
-1. De correctiefactor, bedoeld in [artikel 124a, derde lid, onderdeel a, letter z en onderdeel b, letter z, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), is 1.
+1. De correctiefactor, bedoeld in [artikel 11.45b, derde lid, onderdeel a, letter z en onderdeel b, letter z, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45), is 1.
 
-2. Bij een overlappend voedingsgebied als bedoeld in [artikel 124a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), voert de minister de vermindering na 1 november van het kalenderjaar van de aanvraag uit en wordt dit opgenomen in het besluit, bedoeld in [artikel 123, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=123).
+2. Bij een overlappend voedingsgebied als bedoeld in [artikel 11.45b, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45), voert de minister de vermindering na 1 november van het kalenderjaar van de aanvraag uit en wordt dit opgenomen in het besluit, bedoeld in [artikel 11.45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45).
 
-3. De aantallen, bedoeld in [artikel 124a, derde lid, onderdeel a, letters x en w, en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), stelt DUO vanaf 1 juli in het jaar van aanvraag beschikbaar aan de aanvrager.
+3. De aantallen, bedoeld in [artikel 11.45b, derde lid, onderdeel a, letters x en w, en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b), stelt DUO vanaf 1 juli in het jaar van aanvraag beschikbaar aan de aanvrager.
 
 ##### Artikel 10. Nadere regels ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 124a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 15 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 11.45b, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 15 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
@@ -282,7 +266,7 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 5. Indien de aanvrager een melding van een voorgenomen aanvraag intrekt, vervallen de hierbij behorende ingediende ouderverklaringen.
 
-6. De ouder kan in een volgend kalenderjaar opnieuw een ouderverklaring als bedoeld in [artikel 124a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), indienen ten aanzien van hetzelfde kind, indien de aanvraag waarvoor eerder een ouderverklaring is ingediend:a. wel is gemeld, maar niet is ingediend; ofb. onherroepelijk is afgewezen.
+6. De ouder kan in een volgend kalenderjaar opnieuw een ouderverklaring als bedoeld in [artikel 145b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b), indienen ten aanzien van hetzelfde kind, indien de aanvraag waarvoor eerder een ouderverklaring is ingediend:a. wel is gemeld, maar niet is ingediend; ofb. onherroepelijk is afgewezen.
 
 7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
@@ -292,17 +276,17 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 ##### Artikel 11. Uitzonderingssituaties toepassing marktonderzoek
 
-1. Een marktonderzoek als bedoeld in [artikel 124a, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a) is uitsluitend toegestaan indien:
+1. Een marktonderzoek als bedoeld in [artikel 11.45b, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b) is uitsluitend toegestaan indien:
 
 - a. op het eiland van de plaats van vestiging een groei van ten minste 19% in het aantal leerlingen in de leeftijd van 10 tot en met 12 jaar wordt verwacht tussen het kalenderjaar waarin het marktonderzoek plaatsvindt en het tiende kalenderjaar daaraanvolgend; of
 
-- b. met een beroep op [artikel 122 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=122) een aanvraag tot bekostiging van een openbare school of scholengemeenschap wordt ingediend.
+- b. met een beroep op [artikel 4.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.4) een aanvraag tot bekostiging van een openbare school of scholengemeenschap wordt ingediend.
 
 2. Bij het aantonen van een groei als bedoeld in het eerste lid, onderdeel a, gebruikt het bevoegd gezag in ieder geval gegevens verstrekt door het Centraal Bureau voor de Statistiek en een voorspelling ten aanzien van de woningbouw van het eiland.
 
 ##### Artikel 12. Nadere regels marktonderzoek
 
-1. Een marktonderzoek als bedoeld in [artikel 124a, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), wordt schriftelijk uitgevoerd, waarbij de anonimiteit van de ondervraagden wordt gegarandeerd.
+1. Een marktonderzoek als bedoeld in [artikel 11.45b, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45), wordt schriftelijk uitgevoerd, waarbij de anonimiteit van de ondervraagden wordt gegarandeerd.
 
 2. Per individuele leerling vult de ouder een vragenlijst in.
 
@@ -326,25 +310,25 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 - e. de periode waarin het onderzoek heeft plaatsgevonden.
 
-8. Het minimale aantal leerlingen, bedoeld in [artikel 124a, derde lid, onderdeel b, letter y, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), ten aanzien van wie is aangegeven dat er belangstelling is voor de school en schoolsoort waarop de aanvraag betrekking heeft, is 5.
+8. Het minimale aantal leerlingen, bedoeld in [artikel 11.45b, derde lid, onderdeel b, letter y, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45), ten aanzien van wie is aangegeven dat er belangstelling is voor de school en schoolsoort waarop de aanvraag betrekking heeft, is 5.
 
-9. Indien de onderzoekspopulatie, bedoeld in [artikel 124a, vijfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=124a), minder dan 5.000 leerlingen bedraagt, is het minimale aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 124a, derde lid, onderdeel b, letter x, van de wet, 10% van de onderzoekspopulatie. Indien de onderzoekspopulatie 5.000 of meer leerlingen bedraagt dan is het minimale aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 124a, derde lid, onderdeel b, letter x, van de wet, 500.
+9. Indien de onderzoekspopulatie, bedoeld in [artikel 11.45b, vijfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b), minder dan 5.000 leerlingen bedraagt, is het minimale aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in [artikel 11.45b, derde lid, onderdeel b, letter x, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b), 10% van de onderzoekspopulatie. Indien de onderzoekspopulatie 5.000 of meer leerlingen bedraagt dan is het minimale aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in [artikel 11.45b, derde lid, onderdeel b, letter x, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b), 500.
 
 ##### Artikel 13. Omzetting openbare school in bijzondere school
 
-1. Het bevoegd gezag kan een aanvraag voor een omzetting als bedoeld in [artikel 126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=126), indienen voor 1 november voorafgaand aan het kalenderjaar van de omzetting.
+1. Het bevoegd gezag kan een aanvraag voor een omzetting als bedoeld in [artikel 4.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.9), indienen voor 1 november voorafgaand aan het kalenderjaar van de omzetting.
 
 2. Het bevoegd gezag vraagt advies aan de Rijksvertegenwoordiger over de voorgenomen omzetting. Indien de Rijksvertegenwoordiger advies geeft, wordt dit advies met de aanvraag voor omzetting meegezonden.
 
 ##### Artikel 14. Omzetting bijzondere school in openbare school
 
-1. Het bevoegd gezag meldt voor 1 april schriftelijk aan DUO het voornemen om per 1 augustus daaraanvolgend over te gaan tot omzetting van een bijzondere school in een openbare school als bedoeld in [artikel 126, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=126).
+1. Het bevoegd gezag meldt voor 1 april schriftelijk aan DUO het voornemen om per 1 augustus daaraanvolgend over te gaan tot omzetting van een bijzondere school in een openbare school als bedoeld in [artikel 4.9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.9).
 
 2. Bij de melding voegt het bevoegd gezag een document waaruit blijkt dat het bevoegd gezag over de omzetting overleg heeft gevoerd met de gezaghebber en gedeputeerden van het betreffende openbaar lichaam.
 
 ##### Artikel 15. Verplaatsing vestiging of deel onderwijsaanbod vestiging
 
-1. Het bevoegd gezag doet uiterlijk 17 weken voorafgaand aan de verplaatsing, bedoeld in [artikel 127d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=127d), een schriftelijke melding aan DUO.
+1. Het bevoegd gezag doet uiterlijk 17 weken voorafgaand aan de verplaatsing, bedoeld in [artikel 11.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.51), een schriftelijke melding aan DUO.
 
 2. De melding gaat vergezeld van een document waaruit blijkt dat de eilandsraad van het openbaar lichaam met ingang van de datum van de feitelijke ingebruikneming de benodigde huisvesting ter beschikking stelt.
 
@@ -376,11 +360,11 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 ##### Artikel 18. Aanvullende bekostiging nieuwe school vanaf het eerste kalenderjaar na start
 
-1. De Minister verstrekt aan een nieuwe school in het eerste kalenderjaar waarin de school bekostiging als bedoeld in [artikel 152, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=152) ontvangt, ambtshalve een aanvullende bekostiging ter hoogte van 1,5 maal het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
+1. De Minister verstrekt aan een nieuwe school in het eerste kalenderjaar waarin de school bekostiging als bedoeld in [artikel 11.56, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56) ontvangt, ambtshalve een aanvullende bekostiging ter hoogte van 1,5 maal het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
 
-2. De Minister verstrekt aan een nieuwe school in het tweede kalenderjaar waarin de school bekostiging als bedoeld in [artikel 152, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=152) ontvangt, ambtshalve een aanvullende bekostiging ter hoogte van het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
+2. De Minister verstrekt aan een nieuwe school in het tweede kalenderjaar waarin de school bekostiging als bedoeld in [artikel 11.56, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56) ontvangt, ambtshalve een aanvullende bekostiging ter hoogte van het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
 
-3. De Minister verstrekt aan een nieuwe school vanaf het derde kalenderjaar waarin de school bekostiging als bedoeld in [artikel 152, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=152) ontvangt, tot en met het kalenderjaar waarin de school volgroeid is ambtshalve een aanvullende bekostiging ter hoogte van de helft van het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
+3. De Minister verstrekt aan een nieuwe school vanaf het derde kalenderjaar waarin de school bekostiging als bedoeld in [artikel 11.56, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56) ontvangt, tot en met het kalenderjaar waarin de school volgroeid is ambtshalve een aanvullende bekostiging ter hoogte van de helft van het bedrag per school als bedoeld in [artikel 8, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8).
 
 4. De Minister betaalt de aanvullende bekostiging, bedoeld in het eerste, tweede en derde lid, in de maand augustus.
 
@@ -388,9 +372,9 @@ Het aantal leerlingen, bedoeld in [artikel 188, eerste lid, van de wet](https://
 
 ### Hoofdstuk 3. Slotbepalingen
 
-##### Artikel 19. Omhangbepaling
+##### Artikel 19. Omhang
 
-Deze regeling berust mede op [artikel 155 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=155).
+Deze regeling berust op de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.9), [4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.29), [5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9), [11.45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45), [11.45a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45a), [11.45b, eerste, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b), en [11.53, vierde lid van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.53).
 
 ##### Artikel 20. Inwerkingtreding
 
@@ -404,7 +388,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 18a. Aanvraag aanvullende bekostiging voor leerlingengroei nieuwe school tweede en volgende schooljaar
 
-1. Een bevoegd gezag van een nieuwe school kan vanaf het tweede schooljaar tot en met het schooljaar waarin de school volgroeid is op grond van [artikel 156 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=156) een aanvraag indienen voor aanvullende bekostiging vanwege leerlingengroei. De aanvraag wordt ingediend in het kalenderjaar waarin de leerlingengroei zich voordoet.
+1. Een bevoegd gezag van een nieuwe school kan vanaf het tweede schooljaar tot en met het schooljaar waarin de school volgroeid is op grond van [artikel 5.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.10) een aanvraag indienen voor aanvullende bekostiging vanwege leerlingengroei. De aanvraag wordt ingediend in het kalenderjaar waarin de leerlingengroei zich voordoet.
 
 2. De leerlingengroei wordt vastgesteld door het verschil te berekenen tussen het aantal geprognosticeerde leerlingen in het lopende schooljaar en het aantal leerlingen op 1 oktober van het kalenderjaar t-1.
 
