@@ -4,7 +4,7 @@ identifier: "BWBR0044028"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-08-01"
-last_updated: "2020-09-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044028"
 soort: "beleidsregel"
@@ -44,9 +44,9 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **licentie Topsporttalentschool:** beschikking van de minister aan het bevoegd gezag van een school waarin een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=3&z=2020-09-01&g=2020-09-01) wordt ingewilligd;
+- **licentie Topsporttalentschool:** beschikking van de minister aan het bevoegd gezag van een school waarin een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=3&z=2022-08-01&g=2022-08-01) wordt ingewilligd;
 
 - **Loot-leerling:** leerling waarvan is vastgesteld dat deze wordt beschouwd als talent of topsporter met een officiële talent-, of topsportstatus van NOC*NSF;
 
@@ -54,13 +54,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - **NOC*NSF:** Nederlands Olympisch Comité*Nederlandse Sport Federatie;
 
-- **school:** school of scholengemeenschap voor voortgezet onderwijs waar uit de openbare kas bekostigd onderwijs wordt verzorgd als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8), en [9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9);
+- **school:** school of scholengemeenschap voor voortgezet onderwijs waar uit de openbare kas bekostigd onderwijs wordt verzorgd als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) en [2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
 
 - **Stichting LOOT:** Stichting Landelijk Overleg Onderwijs en Topsport;
 
-- **vmbo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9) en voorbereidend beroepsonderwijs als bedoeld in [artikel 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10a);
+- **vmbo:** middelbaar algemeen voortgezet onderwijs [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6) en voorbereidend beroepsonderwijs [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-- **wet:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -70,9 +70,9 @@ Het doel van deze regeling is om sporttalenten met een officiële talent-, of to
 
 1. De minister kan op verzoek van het bevoegd gezag van een school een licentie Topsporttalentschool verstrekken.
 
-2. Een aanvraag van het bevoegd gezag van een school wordt in behandeling genomen indien is voldaan aan de vereisten in de artikelen 3 en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=4&z=2020-09-01&g=2020-09-01). De minister kan in uitzonderlijke gevallen van de genoemde aantallen in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=4&z=2020-09-01&g=2020-09-01) afwijken indien leerlingendaling of schoolsplitsing hier aanleiding toe geeft.
+2. Een aanvraag van het bevoegd gezag van een school wordt in behandeling genomen indien is voldaan aan de vereisten in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=4&z=2022-08-01&g=2022-08-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=6&z=2022-08-01&g=2022-08-01). De Minister kan in uitzonderlijke gevallen van de genoemde aantallen in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=5&z=2022-08-01&g=2022-08-01) afwijken indien leerlingendaling of schoolsplitsing hier aanleiding toe geeft.
 
-3. Scholen waar op het moment van de aanvraag of op het moment van besluiten de kwaliteit van het onderwijs zeer zwak is als bedoeld in [artikel 23a1, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=23a1) of door de inspectie ingevolge [artikel 11 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=11) het onderwijs als onvoldoende is beoordeeld, komen niet in aanmerking voor een licentie Topsporttalentschool.
+3. Scholen waar op het moment van de aanvraag of op het moment van besluiten de kwaliteit van het onderwijs zeer zwak is als bedoeld in [artikel 2.94, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94) of door de inspectie ingevolge [artikel 11 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=11) het onderwijs als onvoldoende is beoordeeld, komen niet in aanmerking voor een licentie Topsporttalentschool.
 
 4. De aanvraag voor een licentie Topsporttalentschool wordt jaarlijks op uiterlijk 1 oktober ingediend. Aanvragen ingediend na deze datum worden in een volgend kalenderjaar in behandeling genomen.
 
@@ -86,11 +86,11 @@ De aanvraag gaat vergezeld van de volgende documenten:
 
 - a. een verklaring van de school dat op de desbetreffende school een door het NOC*NSF goedgekeurde lijst met de namen en sport met talent-, of topsportniveau van de Loot-leerlingen aanwezig is;
 
-- b. het schoolplan, met daarin een beleidsnotitie waaruit blijkt op welke wijze de school voldoet aan [artikel 5, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=5&z=2020-09-01&g=2020-09-01), en hoe de school zorg draagt voor flexibiliteit in de onderwijsprogramma’s, en flexibiliteit bij het afleggen van toetsen en schoolexamens en centrale examens, rekening houdend met de belangen van de betrokken Loot-leerling.
+- b. het schoolplan, met daarin een beleidsnotitie waaruit blijkt op welke wijze de school voldoet aan [artikel 5, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=5&z=2022-08-01&g=2022-08-01), en hoe de school zorg draagt voor flexibiliteit in de onderwijsprogramma’s, en flexibiliteit bij het afleggen van toetsen en schoolexamens en centrale examens, rekening houdend met de belangen van de betrokken Loot-leerling.
 
 ##### Artikel 5. Voorschriften voor het verstrekken van een licentie Topsporttalentschool
 
-De school, waarvoor het bevoegd gezag een aanvraag als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=4&z=2020-09-01&g=2020-09-01) heeft ingediend, voldoet aan de volgende voorschriften:
+De school, waarvoor het bevoegd gezag een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=3&z=2022-08-01&g=2022-08-01) heeft ingediend, voldoet aan de volgende voorschriften:
 
 - a. op de meest recente teldatum van 1 oktober die voorafgaat aan de aanvraag, zijn op de school ten minste 35 Loot-leerlingen ingeschreven, waarbij per sport maximaal 15 leerlingen meetellen, tenzij:
 
@@ -106,7 +106,7 @@ De school, waarvoor het bevoegd gezag een aanvraag als bedoeld in [artikel 4](ht
 
 1. Stichting LOOT visiteert een school met een licentie Topsporttalentschool elk derde jaar na de datum waarop de licentie Topsporttalentschool is verstrekt.
 
-2. Op basis van de visitaties adviseert Stichting LOOT de minister of een school met een licentie Topsporttalentschool nog steeds voldoet aan de voorschriften, bedoeld [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=5&z=2020-09-01&g=2020-09-01).
+2. Op basis van de visitaties adviseert Stichting LOOT de minister of een school met een licentie Topsporttalentschool nog steeds voldoet aan de voorschriften, bedoeld [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=5&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 7. Gebruik terminologie Topsporttalentschool
 
@@ -114,7 +114,7 @@ Alleen een school met de licentie Topsporttalentschool kan zich profileren als e
 
 ##### Artikel 8. Intrekken van de licentie Topsporttalentschool
 
-Indien uit het advies van Stichting LOOT als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=6&z=2020-09-01&g=2020-09-01), volgt dat Topsporttalentschool niet meer aan de voorschriften voldoet kan de minister besluiten:
+Indien uit het advies van Stichting LOOT als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=6&z=2022-08-01&g=2022-08-01), volgt dat Topsporttalentschool niet meer aan de voorschriften voldoet kan de minister besluiten:
 
 - a. tot intrekking van de licentie Topsporttalentschool;
 
@@ -124,7 +124,7 @@ Indien uit het advies van Stichting LOOT als bedoeld in [artikel 6, tweede lid](
 
 1. Indien NOC*NSF oordeelt dat een betrokken leerling niet langer kan worden beschouwd als een Loot-leerling, neemt die leerling vanaf dat moment weer deel aan het reguliere onderwijsprogramma.
 
-2. Indien het voor de leerling als bedoeld in het eerste lid redelijkerwijs niet mogelijk is om de gemiste vakonderdelen nog in te halen, blijft Een reeds geëffectueerde ontheffing op grond van [artikel 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=10&z=2020-09-01&g=2020-09-01) van kracht, evenals een reeds lopende spreiding van het examen op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=15&z=2020-09-01&g=2020-09-01).
+2. Indien het voor de leerling als bedoeld in het eerste lid redelijkerwijs niet mogelijk is om de gemiste vakonderdelen nog in te halen, blijft Een reeds geëffectueerde ontheffing op grond van [artikel 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=10&z=2022-08-01&g=2022-08-01) van kracht, evenals een reeds lopende spreiding van het examen op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=15&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 10. Consequentie voor de Loot-leerlingen bij het intrekken van de licentie Topsporttalentschool
 
@@ -132,11 +132,11 @@ Indien de licentie Topsporttalentschool wordt ingetrokken, behouden de betrokken
 
 ##### Artikel 11. Afwijking onderbouw
 
-Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan in afwijking van de [artikelen 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=6d) en [11c, eerste lid, onder a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=11c), de Loot-leerling in de eerste twee leerjaren ontheffing verlenen van de onderdelen van het onderwijsprogramma die betrekking hebben op de kerndoelen bewegen en sport, bedoeld in [bijlage 1, onderdeel G, bij het Besluit kerndoelen onderbouw VO](onbekend).
+Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan in afwijking van de [artikelen 2.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.14), en [2.33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33), de Loot-leerling in de eerste twee leerjaren ontheffing verlenen van de onderdelen van het onderwijsprogramma die betrekking hebben op de kerndoelen bewegen en sport, in onderdeel G van [bijlage 1, behorende bij artikel 2.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&bijlage=1).
 
 ##### Artikel 12. Afwijking van de vakken in de bovenbouw vmbo
 
-Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in afwijking van de [artikelen 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=6d), [10, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10), [10b, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), en [10d, vijfde en zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d) en van de [artikelen 22, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=22), [23, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=23), [24, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=24) en [25, eerste lid, onder a en c, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=25) door een Loot-leerling in het vmbo ontheffing te verlenen voor:
+Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in afwijking van [artikel 2.33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33) en de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.20), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.22), [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.24), [2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.26), [3.4, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.4), [3.5, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.5), [3.6, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.6) en [3.7, eerste lid, onder a en c, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.7), een Loot-leerling in het vmbo ontheffing verlenen voor:
 
 - a. lichamelijke opvoeding;
 
@@ -144,11 +144,11 @@ Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in af
 
 - c. één van de vakken behorende tot de beeldende vorming, muziek, dans of drama; en
 
-- d. in de theoretische leerweg één vak uit het vrije deel als bedoeld in [artikel 10, zevende lid, onderdelen a en b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10), in de gemengde leerweg één vak uit het vrije deel of twee beroepsgerichte keuzevakken als bedoeld in [artikel 10d, zevende lid, onderdelen a, b en c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d) en in de basisberoepsgerichte- of kaderberoepsgerichte leerweg vier beroepsgerichte keuzevakken als bedoeld in [artikel 10b, zevende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b).
+- d. in de theoretische leerweg één vak uit het vrije deel als bedoeld in [artikel 2.17, eerste lid, onderdelen a en b, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.17), in de gemengde leerweg één vak uit het vrije deel of twee beroepsgerichte keuzevakken als bedoeld in [artikel 2.26, onderdelen a, b en c van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.26) en in de basisberoepsgerichte- of kaderberoepsgerichte leerweg vier beroepsgerichte keuzevakken als bedoeld in [artikel 2.22, onderdeel a, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.22).
 
 ##### Artikel 13. Afwijking van de vakken in de bovenbouw havo
 
-Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in afwijking van de [artikelen 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=6d) en [14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=14), [artikel 26c van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26c) en [artikel 13, eerste lid, van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=13) een Loot-leerling in de havo ontheffing verlenen voor:
+Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in afwijking van [artikel 2.33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33), [paragraaf 3 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&paragraaf=3) en [artikel 3.1, eerste lid van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.1), een DAMU-leerling in de havo ontheffing verlenen voor:
 
 - a. lichamelijke opvoeding;
 
@@ -156,11 +156,11 @@ Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in af
 
 - c. culturele en kunstzinnige vorming; en
 
-- d. een profielkeuzevak als bedoeld in [artikel 26c, tweede tot en met vijfde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26c) of een keuzevak als bedoeld in artikel 26c, zesde lid, van het Inrichtingsbesluit WVO.
+- d. een vak als bedoeld in de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.11) en [2.12 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.12).
 
-##### Artikel 14. Afwijking van de vakken in de bovenbouw vwo
+##### Artikel 14. Afwijking van vakken in de bovenbouw vwo
 
-Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in afwijking van de [artikelen 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=6d) en [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=13), [artikel 26b van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26b) en [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=11), dan wel [artikel 12, eerste lid van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=12) een Loot-leerling in het vwo ontheffing verlenen voor:
+Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in afwijking van [artikel 2.33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33) en [paragraaf 2 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=2), en artikel 3.1 dan wel [3.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.1), een Loot-leerling in het vwo ontheffing verlenen voor:
 
 - a. lichamelijke opvoeding;
 
@@ -168,13 +168,13 @@ Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in af
 
 - c. culturele en kunstzinnige vorming; en
 
-- d. een profielkeuzevak als bedoeld in [artikel 26b, derde tot en met zesde lid, van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=26b), of een keuzevak als bedoeld in artikel 26b, zevende lid, van het Inrichtingsbesluit WVO.
+- d. een vak als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.6) of [2.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.7).
 
 ##### Artikel 15. Gespreid examen
 
-1. In uitzonderlijke gevallen kan het bevoegd gezag, dat beschikt over een licentie Topsporttalentschool, voor een Loot-leerling beroep doen op [artikel 59 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=59), voor het doen van gespreid examen.
+1. In uitzonderlijke gevallen kan het bevoegd gezag, dat beschikt over een licentie Topsporttalentschool, voor een Loot-leerling beroep doen op [artikel 3.56 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.56) voor het doen van gespreid examen.
 
-2. Alleen een LOOT-leerling die in het laatste leerjaar wordt geconfronteerd met activiteiten in het kader van uitoefening van de sport, waardoor het niet mogelijk is het eindexamen in het laatste leerjaar volledig af te leggen, komt voor toepassing van [artikel 59 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=59) in aanmerking.
+2. Alleen een LOOT-leerling die in het laatste leerjaar wordt geconfronteerd met activiteiten in het kader van uitoefening van de sport, waardoor het niet mogelijk is het eindexamen in het laatste leerjaar volledig af te leggen, komt voor toepassing van [artikel 3.56 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.56) in aanmerking.
 
 ##### Artikel 16. Evaluatie
 
@@ -197,5 +197,11 @@ Deze beleidsregel treedt in werking met ingang van 1 september 2020.
 ##### Artikel 20. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel verstrekking licentie Topsporttalentschool VO 2020.
+
+Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 18a. Omhang
+
+Deze beleidsregel is mede gebaseerd op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3).
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
