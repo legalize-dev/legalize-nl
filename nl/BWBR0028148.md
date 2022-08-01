@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2022-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- a. Verwantschappen: bacheloropleidingen als bedoeld in [artikel 33, lid 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33), op grond waarvan onderwijs verzorgd kan worden in daarbij aangewezen vakken;
+- a. Verwantschappen: bacheloropleidingen als bedoeld in [artikel 7.12, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.12), op grond waarvan onderwijs verzorgd kan worden in daarbij aangewezen vakken;
 
 - b. Verwantschapstabel: tabel waarin verwantschappen zijn opgenomen.
 
@@ -52,9 +52,9 @@ Besluit:
 
 2. De verwantschapstabel is opgenomen als bijlagebij deze regeling.
 
-##### Artikel 3. Wijziging van de Regeling subsidiëring stagebegeleiding educatieve minoren in het voortgezet onderwijs 2009–2012
+##### Artikel 3. Rechtsgrondslag
 
-Wijzigt de Regeling subsidiëring stagebegeleiding educatieve minoren in het voortgezet onderwijs 2009–2012.
+Deze regeling berust op [artikel 7.12, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.12).
 
 ##### Artikel 4. Inwerkingtreding
 
