@@ -4,7 +4,7 @@ identifier: "BWBR0035939"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035939"
 soort: "ministeriele-regeling"
@@ -141,9 +141,9 @@ Met ingang van 1 januari 2022 wordt de hoogte van de basistoelage per kalenderma
 
 Met ingang van schooljaar 2022–2023 luiden de bedragen van de tegemoetkoming schoolkosten, bedoeld in [artikel 4.6 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6), als volgt:
 
-| a. onderbouw volledig op grond van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) bekostigd onderwijs en onderbouw + bovenbouw volledig op grond van de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) bekostigd voorbereidend beroepsonderwijs verzorgd in een agrarisch opleidingscentrum | € 85,89 |
+| a. onderbouw op grond van de [WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) bekostigd onderwijs | € 85,89 |
 | --- | --- |
-| b. bovenbouw volledig op grond van de WVO bekostigd onderwijs | € 94,03 |
+| b. bovenbouw op grond van de WVO bekostigd onderwijs | € 94,03 |
 | c. onderbouw niet volledig en rechtstreeks bekostigd vo | € 117,59 |
 | d. bovenbouw niet volledig en rechtstreeks bekostigd vo | € 125,78 |
 | e. speciaal onderwijs en voortgezet speciaal onderwijs | € 57,05 |
