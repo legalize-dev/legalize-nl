@@ -4,7 +4,7 @@ identifier: "BWBR0041926"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2019-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041926"
 soort: "ministeriele-regeling"
@@ -47,6 +47,10 @@ Besluit:
 In dit besluit wordt verstaan onder:
 
 ### 2. Ontheffing ‘Groepsleerkracht onderbouw vmbo basis- en kader’
+
+### 2a. Omhang
+
+Deze beleidsregel is gebaseerd op [artikel 7.11, zevende lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.11).
 
 ### 3. Citeertitel
 
