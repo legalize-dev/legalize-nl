@@ -4,7 +4,7 @@ identifier: "BWBR0028647"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-08-01"
-last_updated: "2010-10-10"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028647"
 soort: "AMvB-BES"
@@ -41,7 +41,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de wet:** de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284);
+- b. **de wet:** de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
 - c. **het bevoegd gezag:** voor wat betreft:
 
@@ -51,11 +51,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Indien voldaan wordt aan de voorwaarden, genoemd in het tweede lid, kan Onze Minister verklaren, dat een leraar geacht wordt in het bezit te zijn van een bewijs van bekwaamheid tot het geven van voortgezet onderwijs in vakken waarvoor geen bewijzen van bekwaamheid zijn aangewezen, en van een bewijs als bedoeld in [artikel 35, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=35).
+1. Indien voldaan wordt aan de voorwaarden, genoemd in het tweede lid, kan Onze Minister verklaren, dat een leraar geacht wordt in het bezit te zijn van een bewijs van bekwaamheid tot het geven van voortgezet onderwijs in vakken waarvoor geen bewijzen van bekwaamheid zijn aangewezen, en van een bewijs als bedoeld in [artikel 7.24, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.24).
 
 2. De voorwaarden, bedoeld in het eerste lid, zijn:
 
-- a. de leraar komt niet in aanmerking voor een verklaring als bedoeld in [artikel 36, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=36);
+- a. de leraar komt niet in aanmerking voor een verklaring als bedoeld in [artikel 7.10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.10);
 
 - b. de leraar moet tenminste twee schooljaren naar volle tevredenheid van het bevoegd gezag lesgegeven hebben in het desbetreffende vak;
 
