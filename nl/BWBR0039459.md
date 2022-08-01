@@ -4,7 +4,7 @@ identifier: "BWBR0039459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-14"
-last_updated: "2022-07-19"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039459"
 soort: "ministeriele-regeling"
@@ -44,21 +44,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bekwaamheidsonderzoek:** bekwaamheidsonderzoek als bedoeld in [artikel 175 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=175), [artikel 118o van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118o) of [artikel 155 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=155);
+- **bekwaamheidsonderzoek:** bekwaamheidsonderzoek als bedoeld in [artikel 175 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=175), [artikel 7.31 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.31) of [artikel 155 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=155);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1.1, onderdeel w, subonderdelen 1 en 2, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1.1, onderdelen a en b van de begripsbepaling van bevoegd gezag, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **geschiktheidsonderzoek:** geschiktheidsonderzoek als bedoeld in [artikel 172 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 118l van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118l) of [artikel 152 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152);
+- **geschiktheidsonderzoek:** geschiktheidsonderzoek als bedoeld in [artikel 172 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=172), [artikel 7.27 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.27) of [artikel 152 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=152);
 
-- **geschiktheidsverklaring:** geschiktheidsverklaring als bedoeld in [artikel 171 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171), [artikel 118k van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=118k), [artikel 151 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=151) of [artikel 4.2.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.4);
+- **geschiktheidsverklaring:** geschiktheidsverklaring als bedoeld in [artikel 171 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171), [artikel 7.28 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.28), [artikel 151 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=151) of [artikel 4.2.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.4);
 
-- **leraar:** persoon, die voldoet aan de bevoegdheidseisen die worden gesteld in [artikel 3 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 3 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) of [artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI), dan wel wordt benoemd of tewerkgesteld zonder benoeming als bedoeld in [artikel 33 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33) of [artikel 4.2.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), of die lesgeeft in het hoger beroepsonderwijs;
+- **leraar:** persoon, die voldoet aan de bevoegdheidseisen die worden gesteld in [artikel 3 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), [artikel 3 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) of [artikel XI van de Wet op de beroepen in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0016944&artikel=XI), dan wel wordt benoemd of tewerkgesteld zonder benoeming als bedoeld in [hoofdstuk 7 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=7) of [artikel 4.2.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), of die lesgeeft in het hoger beroepsonderwijs;
 
 - **lerarenopleiding:** bachelor- of masteropleiding die leidt tot het verkrijgen van een bevoegdheid om les te geven in het voortgezet onderwijs of bacheloropleiding die leidt tot het verkrijgen van een bevoegdheid om les te geven in het primair onderwijs;
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap of Minister voor Primair en Voortgezet Onderwijs;
 
-- **zij-instromer:** in het basisonderwijs en in het speciaal onderwijs: persoon die instroomt in de functie van leraar als bedoeld in hoofdstuk I, titel III, afdeling 11, van de Wet op het primair onderwijs of [titel IV, afdeling 10, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&afdeling=10) en die niet voldoet aan de bevoegdheidseisen welke in die functie worden gesteld; of in het voortgezet onderwijs: persoon die instroomt in de functie van leraar als bedoeld in[titel II, afdeling I, hoofdstuk I, paragraaf 3, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&paragraaf=3); of in het middelbaar beroepsonderwijs: persoon die in het middelbaar beroepsonderwijs instroomt in de functie van leraar, die niet in het bezit is van een in [artikel 4.2.1, tweede lid, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1) genoemd getuigschrift, diploma of bewijs van erkenning, en die een pedagogisch-didactisch scholing volgt als bedoeld in [artikel 4.2.4, tweede en derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.4) of in het bezit is van een geschiktheidsverklaring als bedoeld in [artikel 3, eerste lid, van het Besluit zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&artikel=3) en scholing en begeleiding ontvangt als bedoeld in de [artikelen 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&artikel=5), en [8 van het Besluit zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&artikel=8).
+- **zij-instromer:** in het basisonderwijs en in het speciaal onderwijs: persoon die instroomt in de functie van leraar als bedoeld in hoofdstuk I, titel III, afdeling 11, van de Wet op het primair onderwijs of [titel IV, afdeling 10, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&afdeling=10) en die niet voldoet aan de bevoegdheidseisen welke in die functie worden gesteld; of in het voortgezet onderwijs: persoon die instroomt in de functie van leraar [hoofdstuk 7 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=7); of in het middelbaar beroepsonderwijs: persoon die in het middelbaar beroepsonderwijs instroomt in de functie van leraar, die niet in het bezit is van een in [artikel 4.2.1, tweede lid, onder b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1) genoemd getuigschrift, diploma of bewijs van erkenning, en die een pedagogisch-didactisch scholing volgt als bedoeld in [artikel 4.2.4, tweede en derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.4) of in het bezit is van een geschiktheidsverklaring als bedoeld in [artikel 3, eerste lid, van het Besluit zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&artikel=3) en scholing en begeleiding ontvangt als bedoeld in de [artikelen 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&artikel=5), en [8 van het Besluit zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024390&artikel=8).
 
 ##### Artikel 2. Te subsidiëren activiteiten
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - f. het in het kader van scholing en begeleiding volgen door de zij-instromer van een door de minister aangewezen verdiepend trainingsprogramma.
 
-2. Met uitzondering van het bedrag, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2022-07-19&g=2022-07-19), wordt geen subsidie verstrekt aan het bevoegd gezag, indien:
+2. Met uitzondering van het bedrag, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2022-08-01&g=2022-08-01), wordt geen subsidie verstrekt aan het bevoegd gezag, indien:
 
 - a. de betreffende zij-instromer staat ingeschreven als student aan een lerarenopleiding;
 
@@ -108,7 +108,7 @@ De subsidie bedraagt ten hoogste € 20.000 per zij-instromer.
 
 1. Het bevoegd gezag dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website van de Dienst Uitvoering Onderwijs beschikbaar wordt gesteld.
 
-2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2022-07-19&g=2022-07-19), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
+2. Een subsidieaanvraag kan worden ingediend vanaf het moment waarop de scholing, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=2&z=2022-08-01&g=2022-08-01), is aangevangen tot en met 15 oktober van het daaropvolgende kalenderjaar.
 
 ##### Artikel 7. Subsidieverstrekking, betaling en besteding
 
@@ -116,7 +116,7 @@ De subsidie bedraagt ten hoogste € 20.000 per zij-instromer.
 
 2. In afwijking van het eerste lid wordt de subsidie uiterlijk vóór 1 maart van het daaropvolgende kalenderjaar direct vastgesteld, indien:
 
-- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2022-07-19&g=2022-07-19), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
+- a. het plafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2022-08-01&g=2022-08-01), is bereikt vóór 16 oktober van het betreffende kalenderjaar; of
 
 - b. de aanvraag is ingediend in de periode van 16 oktober tot en met 31 december van het kalenderjaar waarin de scholing is aangevangen.
 
@@ -152,7 +152,7 @@ Deze regeling wordt aangehaald als: Regeling subsidie zij-instroom.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage I. behorend bij [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2022-07-19&g=2022-07-19), opleidingen bèta en techniek in het mbo
+## Bijlage I. behorend bij [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039459&artikel=4&z=2022-08-01&g=2022-08-01), opleidingen bèta en techniek in het mbo
 
 De onderstaande opleidingen worden aangemerkt als bèta en techniek opleidingen in het middelbaar beroepsonderwijs:
 
