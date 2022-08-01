@@ -4,7 +4,7 @@ identifier: "BWBR0036359"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-14"
-last_updated: "2022-02-18"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036359"
 soort: "zbo"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-1. In deze regeling gelden de begripsbepalingen die zijn gegeven in [artikel 1 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=1).
+1. In deze regeling gelden de begripsbepalingen die zijn gegeven in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) en [artikel 1.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=1.1).
 
 2. Voorts wordt in deze regeling verstaan onder:
 
@@ -58,25 +58,23 @@ Besluit:
 
 - •. opgave: enige bij elkaar behorende opdrachten in een toets die als zodanig zijn aangemerkt;
 
-- •. praktische toets: het in [artikel 41 a van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=41a) genoemd praktische gedeelte van het centraal examen v.m.b.o., onderscheiden in een cspe (centraal schriftelijk en praktisch examen) voor de beroepsgerichte vakken en een cpe (centraal praktisch examen) voor de beeldende vakken;
+- •. praktische toets: het in [artikel 3.26 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.26) genoemd praktische gedeelte van het centraal examen v.m.b.o., onderscheiden in een cspe (centraal schriftelijk en praktisch examen) voor de beroepsgerichte vakken en een cpe (centraal praktisch examen) voor de beeldende vakken;
 
-- •. tweede examinator: de door de directeur aangewezen medebeoordelaar van een examentoets;
-
-- •. Examenbesluit: het [Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593), dan wel het [Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538).
+- •. tweede examinator: de door de directeur aangewezen medebeoordelaar van een examentoets.
 
 ##### Artikel 2. Beoordelingsnormen
 
 1. De beoordelingsnormen voor de centrale examens worden weergegeven in een correctievoorschrift bij iedere toets. Dit bestaat uit:
 
-- a. regels voor de beoordeling, op grond van het [Examenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004593);
+- a. regels voor de beoordeling, op grond van het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787);
 
 - b. algemene regels, op grond van deze regeling;
 
-- c. vakspecifieke regels, op grond van een besluit van het College voor Toetsen en Examens op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2022-02-18&g=2022-02-18) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=12&z=2022-02-18&g=2022-02-18) van deze regeling;
+- c. vakspecifieke regels, op grond van een besluit van het College voor Toetsen en Examens op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2022-08-01&g=2022-08-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=12&z=2022-08-01&g=2022-08-01) van deze regeling;
 
 - d. een beoordelingsmodel bij iedere toets.
 
-2. Het correctievoorschrift, bedoeld in het eerste lid, wordt ingericht met inachtneming van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=1&z=2022-02-18&g=2022-02-18) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-02-18&g=2022-02-18). In afwijking hiervan wordt het correctievoorschrift voor het centraal schriftelijk en praktisch examen vmbo ingericht met inachtneming van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=2&z=2022-02-18&g=2022-02-18) en 3.
+2. Het correctievoorschrift, bedoeld in het eerste lid, wordt ingericht met inachtneming van de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=1&z=2022-08-01&g=2022-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-08-01&g=2022-08-01). In afwijking hiervan wordt het correctievoorschrift voor het centraal schriftelijk en praktisch examen vmbo ingericht met inachtneming van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=2&z=2022-08-01&g=2022-08-01) en 3.
 
 3. De directeur stelt na de afname van een toets het correctievoorschrift aan de examinator ter beschikking.
 
@@ -120,7 +118,7 @@ Besluit:
 
 ##### Artikel 6. Vakspecifieke regels en beoordelingsmodel
 
-De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2022-02-18&g=2022-02-18), worden door het College voor Toetsen en Examens vastgesteld voor elk van de vakken zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-02-18&g=2022-02-18), en maken na bekendmaking deel uit van die bijlage.
+De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2022-08-01&g=2022-08-01), worden door het College voor Toetsen en Examens vastgesteld voor elk van de vakken zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-08-01&g=2022-08-01), en maken na bekendmaking deel uit van die bijlage.
 
 ##### Artikel 7. Vermeende fouten
 
@@ -128,7 +126,7 @@ De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [a
 
 2. Degene die in de toets of het beoordelingsmodel een fout of onvolkomenheid meent te hebben geconstateerd kan deze fout aan het College voor Toetsen en Examens meedelen.
 
-3. Deze mededeling wordt voorgelegd aan de desbetreffende vakcommissie, en indien deze de mededeling als juist aanmerkt, kan de vakcommissie de voorzitter adviseren een beslissing op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=10&z=2022-02-18&g=2022-02-18) te nemen.
+3. Deze mededeling wordt voorgelegd aan de desbetreffende vakcommissie, en indien deze de mededeling als juist aanmerkt, kan de vakcommissie de voorzitter adviseren een beslissing op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=10&z=2022-08-01&g=2022-08-01) te nemen.
 
 4. Het is niet toegestaan zelfstandig af te wijken van het beoordelingsmodel. Met een eventuele fout wordt bij de bepaling van het cijfer voor het centraal examen zoals bedoeld in [artikel 2, tweede lid onder e, van de wet College voor Toetsen en Examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2), rekening gehouden.
 
@@ -164,7 +162,7 @@ Het College voor Toetsen en Examens kan op voorstel van een vakcommissie besliss
 
 ##### Artikel 13. Aanpassing
 
-De voorzitter van het College voor Toetsen en Examens is gemachtigd de vaststellingen als opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-02-18&g=2022-02-18) op onderdelen aan te passen.
+De voorzitter van het College voor Toetsen en Examens is gemachtigd de vaststellingen als opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-08-01&g=2022-08-01) op onderdelen aan te passen.
 
 ##### Artikel 14. Inwerkingtreding
 
@@ -174,7 +172,7 @@ Deze regeling treedt in werking op 1 april 2015.
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De vakspecifieke regels en beoordelingsmodellen per toets bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2022-02-18&g=2022-02-18) worden bekend gemaakt op de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-02-18&g=2022-02-18) onder 2 opgenomen wijze.
+2. De vakspecifieke regels en beoordelingsmodellen per toets bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2022-08-01&g=2022-08-01) worden bekend gemaakt op de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-08-01&g=2022-08-01) onder 2 opgenomen wijze.
 
 ##### Artikel 16. Intrekking
 
@@ -188,17 +186,17 @@ Deze regeling wordt aangehaald als: Regeling beoordelingsnormen en bijbehorende 
 
 ### Inrichting correctievoorschrift centraal (schriftelijk) examen
 
-Het correctievoorschrift bevat de relevante bepalingen van het [Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593) en van de onderhavige regeling beoordeling centraal examen.
+Het correctievoorschrift bevat de relevante bepalingen van het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787) en van de onderhavige regeling beoordeling centraal examen.
 
 Het correctievoorschrift bestaat uit de onderdelen:
 
 ### 1. Regels voor de beoordeling
 
-Het werk van de kandidaten wordt beoordeeld met inachtneming van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=41) en [42 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=42).
+Het werk van de kandidaten wordt beoordeeld met inachtneming van de [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.21), [3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.24), [3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.26) en [3.27 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.27).
 
-Voorts heeft het College voor Toetsen en Examens op grond van [artikel 2 lid 2d van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) de [Regeling beoordelingsnormen en bijbehorende scores centraal examen](https://wetten.overheid.nl/jci1.3:c:BWBR0027449) vastgesteld.
+Voorts heeft het College voor Toetsen en Examens op grond van [artikel 2, tweede lid, onderdeel d, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) de [Regeling beoordelingsnormen en bijbehorende scores centraal examen](https://wetten.overheid.nl/jci1.3:c:BWBR0027449) vastgesteld.
 
-Voor de beoordeling zijn de volgende passages van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=36), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=41), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=41a) en [42 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=42) van belang:
+Voor de beoordeling zijn de volgende passages van de [artikelen 3.21 tot en met 3.27 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.21) van belang:
 
 ### 2. Algemene regels
 
@@ -206,13 +204,13 @@ Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeli
 
 ### 3. Vakspecifieke regel(s)
 
-In het correctievoorschrift van een vak kunnen vakspecifieke regels gegeven worden. Hiervoor zij verwezen naar [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-02-18&g=2022-02-18).
+In het correctievoorschrift van een vak kunnen vakspecifieke regels gegeven worden. Hiervoor zij verwezen naar [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-08-01&g=2022-08-01).
 
 ### 4. Beoordelingsmodel
 
 (antwoorden en scores per vraag).
 
-Zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-02-18&g=2022-02-18).
+Zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-08-01&g=2022-08-01).
 
 ## Bijlage 2. bij de Regeling beoordelingsnormen en bijbehorende scores centraal examen, van 9 februari 2015, nummer CvTE-15.00617
 
@@ -222,11 +220,11 @@ Het correctievoorschrift bestaat uit:
 
 ### 1. Regels voor de beoordeling
 
-Het werk van de kandidaten wordt beoordeeld met inachtneming van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=41), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=42) en [42 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=42).
+Het werk van de kandidaten wordt beoordeeld met inachtneming van de [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.21) en [3.24 tot en met 3.27 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.24).
 
-Voorts heeft het College voor Toetsen en Examens op grond van [artikel 2 lid 2d van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) de Regeling beoordelingsnormen en bijbehorende scores centraal examen vastgesteld.
+Voorts heeft het College voor Toetsen en Examens op grond van [artikel 2, tweede lid, onderdeel d, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) de Regeling beoordelingsnormen en bijbehorende scores centraal examen vastgesteld.
 
-Voor de beoordeling zijn de volgende passages van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=41), [41a](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=41a) en [42 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=42) van belang:
+Voor de beoordeling zijn de volgende passages van de [artikelen 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.21) en [3.24 tot en met 3.27 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.24) van belang:
 
 ### 2. Algemene regels
 
@@ -236,7 +234,7 @@ Voor de beoordeling van het examenwerk zijn de volgende bepalingen uit de regeli
 
 Voor het centraal schriftelijk en praktisch examen kunnen vakspecifieke regels worden vastgesteld.
 
-Zie hiervoor [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-02-18&g=2022-02-18).
+Zie hiervoor [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-08-01&g=2022-08-01).
 
 ### 4. Beoordelingsmodel
 
@@ -244,7 +242,7 @@ Het beoordelingsmodel bestaat uit twee delen: het beoordelingsschema (paragraaf 
 
 In (de toelichting bij) het beoordelingsschema staan:
 
-Zie verder bijlage 3.
+Zie verder [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&bijlage=3&z=2022-08-01&g=2022-08-01).
 
 ### 5. Berekening cijfer
 
@@ -254,7 +252,7 @@ De examinator en de tweede examinator stellen in onderling overleg de score vast
 
 De directeur stelt het cijfer voor het cspe vast op basis van de regels voor omzetting van score naar cijfer.
 
-## Bijlage 3. als bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2022-02-18&g=2022-02-18), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2022-02-18&g=2022-02-18) en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=15&z=2022-02-18&g=2022-02-18)
+## Bijlage 3. als bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2022-08-01&g=2022-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=6&z=2022-08-01&g=2022-08-01) en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=15&z=2022-08-01&g=2022-08-01)
 
 De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2020-03-17&g=2020-03-17), van de Regeling beoordelingsnormen en bijbehorende scores centraal examen vo worden door het College voor Toetsen en Examens voor het examenjaar 2020 vastgesteld voor elk van de vakken zoals vermeld in deze bijlage en maken na bekendmaking deel uit van die bijlage.
 
@@ -300,7 +298,7 @@ Alle vakken worden afgenomen als aangewezen vak, zie tabel 5c.
 
 De rekentoets VO wordt digitaal afgenomen en bevat uitsluitend automatisch scoorbare vragen. Dientengevolge staat de rekentoets niet onder toezicht van een of meer gecommitteerden ([artikel 46 lid 6 Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=46)).
 
-De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2022-02-18&g=2022-02-18), van de Regeling beoordelingsnormen en bijbehorende scores centraal examen VO worden door het College voor toetsen en examens voor het examenjaar 2022 vastgesteld voor elk van de vakken waarvan examenstof centraal wordt geëxamineerd als bedoeld in [artikel 7 van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=7) en vastgesteld met de [Regeling examenprogramma’s voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0022061), en de vakken die centraal geëxamineerd worden waarvoor het bevoegd gezag toestemming heeft gekregen als bedoeld in [artikel 29, zesde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) (de pilot-examens).
+De vakspecifieke regels en het beoordelingsmodel bij iedere toets, bedoeld in [artikel 2, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036359&artikel=2&z=2022-08-01&g=2022-08-01), van de Regeling beoordelingsnormen en bijbehorende scores centraal examen VO worden door het College voor toetsen en examens voor het examenjaar 2022 vastgesteld voor elk van de vakken waarvan examenstof centraal wordt geëxamineerd als bedoeld in [artikel 2.54 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.54) en vastgesteld met de [Regeling examenprogramma’s voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0022061), en de vakken die centraal geëxamineerd worden waarvoor het bevoegd gezag toestemming heeft gekregen als bedoeld in [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3) (de pilot-examens).
 
 **Voor wat betreft de vakspecifieke regels, beoordelingsmodellen per toets en de daarbij behorende scores geldt het volgende rooster van bekendmaking**
 
