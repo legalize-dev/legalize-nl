@@ -4,7 +4,7 @@ identifier: "BWBR0045554"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2021-10-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045554"
 soort: "wet"
@@ -127,8 +127,6 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 Wijzigt de Wet voortgezet onderwijs 2020.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XX. Samenloop met [Invoerings- en aanpassingswet WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044812)
 
 1. Wijzigt deze wet.
@@ -147,9 +145,9 @@ Wijzigt deze wet.
 
 ##### Artikel XXIII. Inwerkingtreding
 
-1. Deze wet treedt, met uitzondering van [artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045554&artikel=XIV&z=2021-10-01&g=2021-10-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet treedt, met uitzondering van [artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045554&artikel=XIV&z=2022-08-01&g=2022-08-01), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045554&artikel=XIV&z=2021-10-01&g=2021-10-01), treedt in werking met ingang van 1 augustus 2022.
+2. [Artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0045554&artikel=XIV&z=2022-08-01&g=2022-08-01), treedt in werking met ingang van 1 augustus 2022.
 
 ##### Artikel XXIV. Citeertitel
 
