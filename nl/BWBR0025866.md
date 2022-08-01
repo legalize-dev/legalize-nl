@@ -4,7 +4,7 @@ identifier: "BWBR0025866"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2020-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025866"
 soort: "AMvB"
@@ -86,7 +86,7 @@ De in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BW
 
 1. Bij de aanvraag voor het afleggen van het examen rijinstructeur overlegt de aanvrager een bewijsstuk aan het instituut waaruit blijkt dat deze met goed gevolg:
 
-- a. een opleiding heeft gevolgd op het niveau van ten minste voorbereidend middelbaar beroepsonderwijs in de theoretische of gemengde leerweg, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10) respectievelijk [artikel 10d van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), of op een gelijkwaardig niveau, of
+- a. een opleiding heeft gevolgd op het niveau van ten minste voorbereidend middelbaar beroepsonderwijs in de theoretische of gemengde leerweg, bedoeld in [artikel 2.22, eerste lid, onderdeel a, respectievelijk onderdeel d, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.22), of op een gelijkwaardig niveau, of
 
 - b. de geschiktheidstest, bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=9), heeft afgelegd.
 
@@ -190,7 +190,7 @@ Fase 3. Bekwaam handelen als rijinstructeur in authentieke lessituaties:
 
 ##### Artikel 11
 
-Onverminderd [artikel 12b, eerste lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), voldoet de aanvrager voor de afgifte van een certificaat in verband met het verstrijken van de geldigheidsduur van een eerder aan de aanvrager afgegeven certificaat aan de eisen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=9&z=2020-04-01&g=2020-04-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10&z=2020-04-01&g=2020-04-01) en [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10a&z=2020-04-01&g=2020-04-01).
+Onverminderd [artikel 12b, eerste lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12b), voldoet de aanvrager voor de afgifte van een certificaat in verband met het verstrijken van de geldigheidsduur van een eerder aan de aanvrager afgegeven certificaat aan de eisen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=9&z=2022-08-01&g=2022-08-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10&z=2022-08-01&g=2022-08-01) en [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10a&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 12
 
@@ -198,7 +198,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
 - a. de omvang en de inhoud van de gecertificeerde cursussen en de verplichtingen van degene die de gecertificeerde cursussen verzorgen,
 
-- b. de omvang, de inhoud, de duur en de mogelijke verlenging van de praktische bijscholing in verband met bijzondere omstandigheden, waarbij verschillende regels worden gesteld indien er sprake is van een verlenging als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10a&z=2020-04-01&g=2020-04-01), en
+- b. de omvang, de inhoud, de duur en de mogelijke verlenging van de praktische bijscholing in verband met bijzondere omstandigheden, waarbij verschillende regels worden gesteld indien er sprake is van een verlenging als bedoeld in [artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10a&z=2022-08-01&g=2022-08-01), en
 
 - c. de beoordeling van de competenties van degene die rijonderricht geeft en de wijze waarop die beoordeling plaatsvindt.
 
@@ -210,11 +210,11 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
 - a. voor motorrijtuigcategorie B en voor de motorrijtuigcategorieën A en T indien de herintreder blijkens het register, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=4), minder dan vijf jaar geleden beschikte over uitsluitend een geldig certificaat voor motorrijtuigcategorie A respectievelijk T, uit:
 
-- 1°. fase 1 als bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2020-04-01&g=2020-04-01), voor de desbetreffende motorrijtuigcategorie;
+- 1°. fase 1 als bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), voor de desbetreffende motorrijtuigcategorie;
 
-- 2°. fase 2 als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2020-04-01&g=2020-04-01), voor de motorrijtuigcategorie B, dan wel voor motorrijtuigcategorie T voor het herintrederstraject voor die motorrijtuigcategorie; en
+- 2°. fase 2 als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01), voor de motorrijtuigcategorie B, dan wel voor motorrijtuigcategorie T voor het herintrederstraject voor die motorrijtuigcategorie; en
 
-- 3°. fase 3 als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=3&artikel=7&z=2020-04-01&g=2020-04-01) voor de desbetreffende motorrijtuigcategorie, met dien verstande dat de omvang ervan minder is dan op grond van [artikel 8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=3&artikel=8&z=2020-04-01&g=2020-04-01);
+- 3°. fase 3 als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=3&artikel=7&z=2022-08-01&g=2022-08-01) voor de desbetreffende motorrijtuigcategorie, met dien verstande dat de omvang ervan minder is dan op grond van [artikel 8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=3&artikel=8&z=2022-08-01&g=2022-08-01);
 
 - b. voor de overige motorrijtuigcategorieën uit het bezit van een geldig certificaat voor de motorrijtuigcategorie B.
 
@@ -264,11 +264,11 @@ Vervallen
 
 ##### Artikel 19
 
-In afwijking van [artikel 4, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=1&artikel=4&z=2020-04-01&g=2020-04-01), kan de aanvrager bij de aanvraag voor het afleggen van het examen rijinstructeur een bewijsstuk aan het instituut overleggen waaruit blijkt dat deze met goed gevolg een opleiding heeft gevolgd op het niveau van ten minste lager dan wel voorbereidend beroepsonderwijs of individueel beroepsonderwijs, indien de aanvrager vóór de inwerkingtreding van het Besluit van 29 januari 2020 tot wijziging van het Besluit rijonderricht motorrijtuigen 2009 in verband met wijzigingen ten aanzien van de vooropleiding, de bijscholing en het herintrederstraject en enige andere wijzigingen (Stb. 2020, 37) een examen rijinstructeur heeft afgelegd.
+In afwijking van [artikel 4, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=1&artikel=4&z=2022-08-01&g=2022-08-01), kan de aanvrager bij de aanvraag voor het afleggen van het examen rijinstructeur een bewijsstuk aan het instituut overleggen waaruit blijkt dat deze met goed gevolg een opleiding heeft gevolgd op het niveau van ten minste lager dan wel voorbereidend beroepsonderwijs of individueel beroepsonderwijs, indien de aanvrager vóór de inwerkingtreding van het Besluit van 29 januari 2020 tot wijziging van het Besluit rijonderricht motorrijtuigen 2009 in verband met wijzigingen ten aanzien van de vooropleiding, de bijscholing en het herintrederstraject en enige andere wijzigingen (Stb. 2020, 37) een examen rijinstructeur heeft afgelegd.
 
 ##### Artikel 20
 
-Voor degenen die aan het herintrederstraject, bedoeld in [artikel 12c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c) zijn begonnen vóór de inwerkingtreding van het Besluit van 29 januari 2020 tot wijziging van het Besluit rijonderricht motorrijtuigen 2009 in verband met wijzigingen ten aanzien van de vooropleiding, de bijscholing en het herintrederstraject en enige andere wijzigingen (Stb. 2020, 37), blijft [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=5&artikel=13&z=2020-04-01&g=2020-04-01) van dit besluit zoals dat luidde voor inwerkingtreding van het voornoemde besluit van kracht tot zes maanden na de datum van inwerkingtreding.
+Voor degenen die aan het herintrederstraject, bedoeld in [artikel 12c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c) zijn begonnen vóór de inwerkingtreding van het Besluit van 29 januari 2020 tot wijziging van het Besluit rijonderricht motorrijtuigen 2009 in verband met wijzigingen ten aanzien van de vooropleiding, de bijscholing en het herintrederstraject en enige andere wijzigingen (Stb. 2020, 37), blijft [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=5&artikel=13&z=2022-08-01&g=2022-08-01) van dit besluit zoals dat luidde voor inwerkingtreding van het voornoemde besluit van kracht tot zes maanden na de datum van inwerkingtreding.
 
 ##### Artikel 21
 
@@ -300,7 +300,7 @@ Vervallen
 
 ##### Artikel 6b
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eisen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2020-04-01&g=2020-04-01).
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eisen, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01).
 
 #### Paragraaf 3. Stage
 
@@ -326,7 +326,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Het instituut registreert de gevolgde bijlessen als de daarbij behorende omvang in dagdelen volledig is gevolgd.
 
-4. [Artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10&z=2020-04-01&g=2020-04-01), is van toepassing op de praktijkbegeleiding, bedoeld in het eerste lid.
+4. [Artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&hoofdstuk=III&paragraaf=4&artikel=10&z=2022-08-01&g=2022-08-01), is van toepassing op de praktijkbegeleiding, bedoeld in het eerste lid.
 
 #### Paragraaf 5. Herintreding
 
