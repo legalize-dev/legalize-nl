@@ -4,7 +4,7 @@ identifier: "BWBR0045003"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-06-15"
-last_updated: "2021-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045003"
 soort: "zbo"
@@ -92,7 +92,7 @@ De organisatie van het bureau van het college wordt vastgesteld overeenkomstig d
 
 - c. stukken gericht aan de Nationale ombudsman en het College voor de rechten van de mens;
 
-- d. beslissingen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=2&artikel=12&z=2021-04-01&g=2021-04-01), en
+- d. beslissingen als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=2&artikel=12&z=2022-08-01&g=2022-08-01), en
 
 - e. beslissingen op bezwaar of het indienen van beroepschriften.
 
@@ -116,7 +116,7 @@ De organisatie van het bureau van het college wordt vastgesteld overeenkomstig d
 
 ##### Artikel 6. Voorbehouden aan de secretaris-directeur
 
-1. Aan de secretaris-directeur is voorbehouden het namens het college afdoen en ondertekenen van stukken houdende de gehele of gedeeltelijke afwijzing van een verzoek om informatie ingevolge de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
+1. Aan de secretaris-directeur is voorbehouden het namens het college afdoen en ondertekenen van stukken houdende de gehele of gedeeltelijke afwijzing van een verzoek om informatie ingevolge de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
 2. Een afdelingshoofd of teamleider kan de stukken bij afwezigheid van de secretaris-directeur afdoen en ondertekenen indien daarover afspraken zijn gemaakt tussen de secretaris-directeur en het betreffende afdelingshoofd of teamleider.
 
@@ -126,13 +126,13 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 ##### Artikel 8. Mandaat directeur-generaal DUO
 
-1. Aan de directeur-generaal van DUO wordt mandaat en machtiging verleend tot het nemen van besluiten op grond van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=2a) en, [3, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=3), [6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=6), en [33, eerste lid van het Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=33), de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=2a) en [3, eerste lid, tweede volzin van het Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981&artikel=3), en de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=4), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=9), en [20 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=20), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&artikel=3), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&artikel=8), en [19 van het Staatsexamenbesluit Nederlands als vreemde taal BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&artikel=19) en de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) over informatie die verband houdt met de uitvoering van deze bevoegdheid.
+1. Aan de directeur-generaal van DUO wordt mandaat en machtiging verleend tot het nemen van besluiten op grond van [artikel 2.82, tweede lid, Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.82) en de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=4.1), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=4.2) en [4.34 Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=4.34), de artikelen 4.1 en 4.2 Uitvoeringsbesluit WVO 2020, en de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=4), en [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=9), en [20 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=20), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&artikel=3), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&artikel=8), en [19 van het Staatsexamenbesluit Nederlands als vreemde taal BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029980&artikel=19) en de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) over informatie die verband houdt met de uitvoering van deze bevoegdheid.
 
 2. Aan de directeur-generaal van DUO wordt mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde handelingen die betrekking hebben op bezwaar-, en (hoger) beroepsprocedures en klachten, voor zover deze verband houden met de uitoefening van de bevoegdheden, met dien verstande dat hij geen besluit neemt op een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen.
 
 3. De directeur-generaal van DUO kan zijn bevoegdheden, genoemd in het eerste en tweede lid, in een door hem te bepalen omvang mandateren aan onder hem ressorterende functionarissen, met dien verstande dat hij geen mandaat verleent tot het nemen van besluiten op bezwaar aan dezelfde functionaris aan wie mandaat is verleend tot het nemen van het besluit waartegen het bezwaarschrift zich richt.
 
-4. Alvorens wordt beslist op een verzoek op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), dan wel op een bezwaarschrift, treedt de directeur-generaal van DUO in overleg met de secretaris-directeur.
+4. Alvorens wordt beslist op een verzoek op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), dan wel op een bezwaarschrift, treedt de directeur-generaal van DUO in overleg met de secretaris-directeur.
 
 ##### Artikel 9. Mandaat vaststellingscommissies en vakcommissies
 
@@ -188,7 +188,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 - c. het jaarverslag, bedoeld in [artikel 18 van de kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), en
 
-- d. de klachtenprocedure, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=16&z=2021-04-01&g=2021-04-01).
+- d. de klachtenprocedure, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=17&z=2022-08-01&g=2022-08-01).
 
 2. Het college neemt voorts de volgende beslissingen of verricht de volgende handelingen:
 
@@ -204,7 +204,7 @@ De afdelingshoofden en clustermanagers hebben, onverminderd het mandaat aan de v
 
 ##### Artikel 13. Reikwijdte
 
-De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=14&z=2021-04-01&g=2021-04-01) zijn van toepassing op de behandeling van de klachten, bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1).
+De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=3&artikel=14&z=2022-08-01&g=2022-08-01) zijn van toepassing op de behandeling van de klachten, bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1).
 
 ##### Artikel 14. Klachtbehandeling
 
@@ -214,7 +214,7 @@ De [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&
 
 ##### Artikel 15. Klachtafdoening
 
-Een klacht wordt onverlet [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=8&z=2021-04-01&g=2021-04-01), afgedaan door de secretaris-directeur, tenzij de klacht naar aard of inhoud een zodanig gewicht heeft dat de voorzitter deze behoort af te doen.
+Een klacht wordt onverlet [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=8&z=2022-08-01&g=2022-08-01), afgedaan door de secretaris-directeur, tenzij de klacht naar aard of inhoud een zodanig gewicht heeft dat de voorzitter deze behoort af te doen.
 
 ##### Artikel 16. Klachtregistratie
 
@@ -248,7 +248,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Bestuursreglement College voor Toetsen en Examens.
 
-## Bijlage. Organisatie van het College voor Toetsen en Examens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=3&z=2021-04-01&g=2021-04-01)
+## Bijlage. Organisatie van het College voor Toetsen en Examens als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045003&hoofdstuk=1&artikel=3&z=2022-08-01&g=2022-08-01)
 
 ### Samenstelling College voor Toetsen en Examens
 
