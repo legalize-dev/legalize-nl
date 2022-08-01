@@ -4,7 +4,7 @@ identifier: "BWBR0046622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-07"
-last_updated: "2022-05-04"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046622"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - **Minister:** Minister voor Armoedebeleid, Participatie en Pensioenen;
 
-- **praktijkonderwijs:** onderwijs als bedoeld in [artikel 10f, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f);
+- **praktijkonderwijs:** onderwijs als bedoeld in [artikel 2.8, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
 - **Programma:** Programma ESF+ Nederland 2021–2027;
 
-- **project:** samenhangend geheel van activiteiten met betrekking tot een onderwerp als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.4&z=2022-05-04&g=2022-05-04);
+- **project:** samenhangend geheel van activiteiten met betrekking tot een onderwerp als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.4&z=2022-08-01&g=2022-08-01);
 
 - **projectperiode:** periode tussen het tijdstip waarop activiteiten starten en worden beëindigd;
 
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de Europese Commissie niet instemt met het Programma, kan de Minister de subsidieverlening aanpassen aan het gewijzigde Programma, dat de instemming van de Europese Commissie heeft verkregen.
 
-5. Voor zover de bepalingen uit [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2022-05-04&g=2022-05-04) in tegenspraak zijn met [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&z=2022-05-04&g=2022-05-04), prevaleren de bepalingen in hoofdstuk 2.
+5. Voor zover de bepalingen uit [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2022-08-01&g=2022-08-01) in tegenspraak zijn met [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&z=2022-08-01&g=2022-08-01), prevaleren de bepalingen in hoofdstuk 2.
 
 ##### Artikel 1.3. Aanwijzing autoriteiten
 
@@ -98,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.4. Aard van de projecten
 
-De Minister verleent met inachtneming van deze regeling subsidie ten behoeve van projecten op het gebied van een regio-aanvraag voor leerlingen voortgezet speciaal onderwijs en praktijkonderwijs, nader uitgewerkt in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2022-05-04&g=2022-05-04).
+De Minister verleent met inachtneming van deze regeling subsidie ten behoeve van projecten op het gebied van een regio-aanvraag voor leerlingen voortgezet speciaal onderwijs en praktijkonderwijs, nader uitgewerkt in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 1.5. Subsidieaanvrager
 
@@ -134,7 +134,7 @@ De Minister verleent met inachtneming van deze regeling subsidie ten behoeve van
 
 7. Desgevraagd verstrekt de subsidieaanvrager een nadere toelichting op de projectbeschrijving en de begroting.
 
-8. De Minister maakt een alternatieve wijze voor de registratie, het indienen van de aanvraag en de elektronische handtekening bekend, indien dit vanwege een calamiteit niet mogelijk is op de wijze, bedoeld in het eerste lid en [artikel 1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.5&z=2022-05-04&g=2022-05-04).
+8. De Minister maakt een alternatieve wijze voor de registratie, het indienen van de aanvraag en de elektronische handtekening bekend, indien dit vanwege een calamiteit niet mogelijk is op de wijze, bedoeld in het eerste lid en [artikel 1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.5&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 1.7. Rangschikking
 
@@ -150,7 +150,7 @@ De Minister verleent met inachtneming van deze regeling subsidie ten behoeve van
 
 2. De beschikking vermeldt de periode, de totale subsidiabele kosten en het maximumbedrag van de subsidie.
 
-3. Bij het bepalen van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2022-05-04&g=2022-05-04) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd, met dien verstande dat in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten of op een lager bedrag kunnen worden bepaald.
+3. Bij het bepalen van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2022-08-01&g=2022-08-01) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd, met dien verstande dat in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten of op een lager bedrag kunnen worden bepaald.
 
 4. Onverminderd [artikel 4:37 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37) kunnen aan de beschikking tot subsidieverlening verplichtingen worden verbonden.
 
@@ -184,7 +184,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 1.10. Hoogte van de subsidie
 
-1. De subsidie ten behoeve van projecten als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2022-05-04&g=2022-05-04) bedraagt maximaal 40% van de subsidiabele kosten.
+1. De subsidie ten behoeve van projecten als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2022-08-01&g=2022-08-01) bedraagt maximaal 40% van de subsidiabele kosten.
 
 2. Indien uit de subsidieaanvraag of de einddeclaratie blijkt dat de aanvrager meer dan 60% van de subsidiabele kosten voor eigen rekening neemt, of dat meer dan 60% van de subsidiabele kosten uit een andere financieringsbron wordt bekostigd, wordt het subsidiepercentage verlaagd met dit meerdere.
 
@@ -258,13 +258,13 @@ Niet voor subsidiering komen in aanmerking:
 
 5. De deelnemersadministratie bevat het burgerservicenummer van de deelnemers aan het project, geeft inzicht in de subsidiabiliteit van de individuele deelnemer en de verrichte activiteiten en behaalde resultaten per individuele deelnemer.
 
-6. Een subsidieontvanger verstrekt desgevraagd aan de instanties, genoemd in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.3&z=2022-05-04&g=2022-05-04), inzage in of informatie uit de administratie. Tevens verstrekt de subsidieontvanger die instanties desgevraagd informatie over de projecten die voor monitoring en evaluatiedoeleinden gebruikt kunnen worden.
+6. Een subsidieontvanger verstrekt desgevraagd aan de instanties, genoemd in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.3&z=2022-08-01&g=2022-08-01), inzage in of informatie uit de administratie. Tevens verstrekt de subsidieontvanger die instanties desgevraagd informatie over de projecten die voor monitoring en evaluatiedoeleinden gebruikt kunnen worden.
 
 ##### Artikel 1.14. Beschikbaarheid van bescheiden
 
 1. Onverminderd de voorschriften voor staatssteun bewaart de subsidieontvanger alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project ten minste tot 31 december 2036 of tot een nader door de Minister aan de subsidieontvanger schriftelijk bekend te maken datum. Indien de Europese Commissie vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de Minister de gevolgen voor de bewaartermijn in de Staatscourant bekend.
 
-2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=1&z=2022-05-04&g=2022-05-04) bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
+2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=1&z=2022-08-01&g=2022-08-01) bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
 
 3. De administratie is zodanig ingericht en wordt zodanig gevoerd en bewaard, dat controle daarvan binnen een redelijke termijn mogelijk is. Daartoe verleent de subsidieontvanger de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.
 
@@ -342,11 +342,11 @@ De subsidie op grond van deze paragraaf kan worden aangevraagd door het college 
 
 ##### Artikel 2.2. Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk dat betrekking heeft op een regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs als bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-05-04&g=2022-05-04), worden ingediend in het aanvraagtijdvak van 16 mei 2022, 09.00 uur, tot en met 1 juli 2022, 17.00 uur, voor de projectperiode van 1 augustus 2022 tot en met 31 juli 2023.
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk dat betrekking heeft op een regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs als bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-08-01&g=2022-08-01), worden ingediend in het aanvraagtijdvak van 16 mei 2022, 09.00 uur, tot en met 1 juli 2022, 17.00 uur, voor de projectperiode van 1 augustus 2022 tot en met 31 juli 2023.
 
 ##### Artikel 2.3. Subsidieplafond
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.2&z=2022-05-04&g=2022-05-04), bedraagt € 15.000.000.
+Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.2&z=2022-08-01&g=2022-08-01), bedraagt € 15.000.000.
 
 ##### Artikel 2.4. Doel en doelgroep
 
@@ -358,13 +358,13 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraag
 
 1. Het college van burgemeester en wethouders van een centrumgemeente kan een regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs indienen.
 
-2. Een project in het kader van dit hoofdstuk komt slechts voor subsidie in aanmerking indien het project past binnen het doel, genoemd in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-05-04&g=2022-05-04).
+2. Een project in het kader van dit hoofdstuk komt slechts voor subsidie in aanmerking indien het project past binnen het doel, genoemd in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-08-01&g=2022-08-01).
 
 3. De Minister kan in de beschikking tot subsidieverlening op verzoek of bij een kennelijke verschrijving in plaats van de datum van ontvangst van de volledige subsidieaanvraag een andere startdatum van het project vermelden.
 
 ##### Artikel 2.6. Subsidiabele activiteiten & kosten
 
-1. Voor subsidie komen enkel activiteiten in aanmerking die direct zijn gericht op de bevordering van de aansluiting praktijkonderwijs of voortgezet speciaal onderwijs op de arbeidsmarkt of vervolgonderwijs en die het in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-05-04&g=2022-05-04) genoemde doel ondersteunen;
+1. Voor subsidie komen enkel activiteiten in aanmerking die direct zijn gericht op de bevordering van de aansluiting praktijkonderwijs of voortgezet speciaal onderwijs op de arbeidsmarkt of vervolgonderwijs en die het in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-08-01&g=2022-08-01) genoemde doel ondersteunen;
 
 2. Voor het schooljaar 2022 -2023 wordt per leerling een maximumbedrag gesubsidieerd van € 1.788.
 
@@ -378,11 +378,11 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraag
 
 ##### Artikel 2.8. Maximum subsidie per subsidieaanvrager
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie in het kader van dit hoofdstuk is per centrumgemeente vastgelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=2&z=2022-05-04&g=2022-05-04) bij deze regeling.
+Het maximaal beschikbare bedrag voor het verlenen van subsidie in het kader van dit hoofdstuk is per centrumgemeente vastgelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=2&z=2022-08-01&g=2022-08-01) bij deze regeling.
 
 ##### Artikel 2.9. Onderwijsnummer
 
-In afwijking van de [artikelen 1.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.15&z=2022-05-04&g=2022-05-04), en [1.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.16&z=2022-05-04&g=2022-05-04), verstrekt de subsidieontvanger voor een persoon die behoort tot de doelgroep, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-05-04&g=2022-05-04), in plaats van een burgerservicenummer een onderwijsnummer als bedoeld in [artikel 1, onderdeel g, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=1), indien deze persoon niet beschikt over een burgerservicenummer.
+In afwijking van de [artikelen 1.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.15&z=2022-08-01&g=2022-08-01), en [1.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.16&z=2022-08-01&g=2022-08-01), verstrekt de subsidieontvanger voor een persoon die behoort tot de doelgroep, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-08-01&g=2022-08-01), in plaats van een burgerservicenummer een onderwijsnummer als bedoeld in [artikel 1, onderdeel g, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=1), indien deze persoon niet beschikt over een burgerservicenummer.
 
 ### Hoofdstuk 3. Slotartikelen
 
@@ -394,7 +394,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling ESF+ 2021–2027.
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.
 
-## Bijlage 1. als bedoeld in [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2022-05-04&g=2022-05-04)
+## Bijlage 1. als bedoeld in [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2022-08-01&g=2022-08-01)
 
 ### Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
 
@@ -412,15 +412,15 @@ Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de
 
 Als de conversie op de juiste wijze gebeurt, is het in het kader van de ESF-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
 
-De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de ESF-administratie, voldoen aan de vereisten uit [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2022-05-04&g=2022-05-04) van de ESF+ subsidieregeling 2021–2027 en daarmee aan deze bijlage.
+De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de ESF-administratie, voldoen aan de vereisten uit [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2022-08-01&g=2022-08-01) van de ESF+ subsidieregeling 2021–2027 en daarmee aan deze bijlage.
 
 ### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
 
 Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt:
 
-De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de ESF-verantwoording. [Artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2022-05-04&g=2022-05-04) is onverminderd van toepassing.
+De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de ESF-verantwoording. [Artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2022-08-01&g=2022-08-01) is onverminderd van toepassing.
 
-## Bijlage 2. als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.8&z=2022-05-04&g=2022-05-04)
+## Bijlage 2. als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.8&z=2022-08-01&g=2022-08-01)
 
 Subsidieplafonds voor regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs
 
