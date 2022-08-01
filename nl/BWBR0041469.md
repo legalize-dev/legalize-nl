@@ -4,7 +4,7 @@ identifier: "BWBR0041469"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2017-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041469"
 soort: "ministeriele-regeling"
@@ -95,5 +95,11 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling subsidieverstrekking SBB.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a. Omhang
+
+Deze regeling is mede gebaseerd op [artikel 5.45 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.45).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
