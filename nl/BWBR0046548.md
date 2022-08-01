@@ -4,7 +4,7 @@ identifier: "BWBR0046548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2022-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046548"
 soort: "ministeriele-regeling"
@@ -214,6 +214,6 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel XXIV. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 april 2022, met uitzondering van de [artikelen V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=V&z=2022-04-01&g=2022-04-01), [VIII, onderdelen A, onder 1, 3, 5 en 6, C, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=VIII&z=2022-04-01&g=2022-04-01), [XIV, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=XIV&z=2022-04-01&g=2022-04-01), en [XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=XV&z=2022-04-01&g=2022-04-01), die in werking treden met ingang van 1 augustus 2022.
+Deze regeling treedt in werking met ingang van 1 april 2022, met uitzondering van de [artikelen V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=V&z=2022-08-01&g=2022-08-01), [VIII, onderdelen A, onder 1, 3, 5 en 6, C, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=VIII&z=2022-08-01&g=2022-08-01), [XIV, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=XIV&z=2022-08-01&g=2022-08-01), en [XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=XV&z=2022-08-01&g=2022-08-01), die in werking treden met ingang van 1 augustus 2022.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
