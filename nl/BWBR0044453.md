@@ -4,7 +4,7 @@ identifier: "BWBR0044453"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2022-02-09"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044453"
 soort: "ministeriele-regeling-BES"
@@ -46,9 +46,9 @@ In deze regeling wordt verstaan onder:
 
 - **Caribisch Nederland:** in de Caribische regio gelegen deel van het land Nederland, dat wil zeggen de gezamenlijke openbare lichamen Bonaire, Saba en Sint Eustatius;
 
-- **eilandelijk zorgplan:** eilandelijk zorgplan als bedoeld in [artikel 27 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=27), [artikel 68 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=68) en [artikel 3.3 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.3);
+- **eilandelijk zorgplan:** eilandelijk zorgplan als bedoeld in [artikel 27 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=27), [artikel 11.17 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.17) en [artikel 3.3 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.3);
 
-- **EOZ:** expertisecentrum onderwijszorg als bedoeld in [artikel 28, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 69, eerste lid, van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=69) en [artikel 3.4, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4);
+- **EOZ:** expertisecentrum onderwijszorg als bedoeld in [artikel 28, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 11.18 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.18) en [artikel 3.4, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4);
 
 - **Europees Nederland:** in Europa gelegen deel van het land Nederland;
 
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **instelling voor middelbaar beroepsonderwijs:** instelling als bedoeld in [artikel 1.1.1 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
-- **leerling:** leerling als bedoeld in [artikel 1 van het Besluit bekostiging WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=1) en [artikel 1 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1);
+- **leerling:** leerling als bedoeld in [artikel 1 van het Besluit bekostiging WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=1) en [artikel 5.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.8);
 
 - **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - **school voor basisonderwijs:** school voor basisonderwijs als bedoeld in [artikel 1 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- **school voor voortgezet onderwijs:** school voor voortgezet onderwijs als bedoeld in [artikel 1 van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1);
+- **school voor voortgezet onderwijs:** school als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - **student:** student als bedoeld in [artikel 1.1.1 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - **WPO BES:** [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-- **WVO BES:** [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
+- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Te subsidiëren activiteiten
 
-De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsidie aan een EOZ, gevestigd in een openbaar lichaam voor in ieder geval de uitvoering van het eilandelijk zorgplan en het uitoefenen van de taken, bedoeld in [artikel 28, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 69, eerste lid, van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=69) en [artikel 3.4, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4).
+De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsidie aan een EOZ, gevestigd in een openbaar lichaam voor in ieder geval de uitvoering van het eilandelijk zorgplan en het uitoefenen van de taken, bedoeld in [artikel 28, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 11.18 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.18) en [artikel 3.4, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4).
 
 ##### Artikel 4. Subsidieaanvraag
 
@@ -116,23 +116,23 @@ De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsi
 
 ##### Artikel 6. Hoogte van de bedragen
 
-1. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-02-09&g=2022-02-09), bedraagt voor het EOZ in het openbaar lichaam Bonaire: USD 369.800.
+1. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt voor het EOZ in het openbaar lichaam Bonaire: USD 369.800.
 
-2. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-02-09&g=2022-02-09), bedraagt voor het EOZ in het openbaar lichaam Sint Eustatius: USD 364.887.
+2. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt voor het EOZ in het openbaar lichaam Sint Eustatius: USD 364.887.
 
-3. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-02-09&g=2022-02-09), bedraagt voor het EOZ in het openbaar lichaam Saba: USD 283.603.
+3. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt voor het EOZ in het openbaar lichaam Saba: USD 283.603.
 
-4. Het bedrag per leerling en student, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-02-09&g=2022-02-09), bedraagt USD 440,24.
+4. Het bedrag per leerling en student, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt USD 440,24.
 
-5. Het aanvullende bedrag, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-02-09&g=2022-02-09), bedraagt zestien procent van het vaste bedrag, bedoeld in artikel 5, eerste lid. Dit bedrag zal rekenkundig worden afgerond op twee decimalen.
+5. Het aanvullende bedrag, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt zestien procent van het vaste bedrag, bedoeld in artikel 5, eerste lid. Dit bedrag zal rekenkundig worden afgerond op twee decimalen.
 
 ##### Artikel 7. Besteding en verantwoording
 
-1. Het subsidiebedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-02-09&g=2022-02-09), wordt in ieder geval besteed aan de uitvoering van het eilandelijk zorgplan en aan de wettelijke taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=3&z=2022-02-09&g=2022-02-09).
+1. Het subsidiebedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), wordt in ieder geval besteed aan de uitvoering van het eilandelijk zorgplan en aan de wettelijke taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=3&z=2022-08-01&g=2022-08-01).
 
 2. Eventuele niet-bestede middelen kunnen door het EOZ in de daaropvolgende jaren worden aangewend voor de uitvoering van de activiteiten, bedoeld in het eerste lid.
 
-3. Een EOZ stelt jaarlijks een jaarverslag, inclusief jaarrekening, over het voorafgaande kalenderjaar vast. [Artikel 2, derde lid, van het Besluit informatievoorziening WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=2) en het [Besluit informatievoorziening WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029594) is van overeenkomstige toepassing op het bestuur van het EOZ.
+3. Een EOZ stelt jaarlijks een jaarverslag, inclusief jaarrekening, over het voorafgaande kalenderjaar vast. [Artikel 2, derde lid van het Besluit informatievoorziening WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=2) en de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.68), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.23) en [6.25 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.25) zijn van overeenkomstige toepassing op het bestuur van het EOZ.
 
 4. De verantwoording over de besteding van het subsidiebedrag geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801).
 
@@ -142,15 +142,15 @@ De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsi
 
 ##### Artikel 8. Subsidievaststelling en betaling
 
-1. Het subsidiebedrag, bedoeld in [artikel 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-02-09&g=2022-02-09), wordt direct vastgesteld in de maand december voorafgaande aan het kalenderjaar waarop de subsidieverstrekking betrekking heeft.
+1. Het subsidiebedrag, bedoeld in [artikel 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), wordt direct vastgesteld in de maand december voorafgaande aan het kalenderjaar waarop de subsidieverstrekking betrekking heeft.
 
-2. Het subsidiebedrag wordt jaarlijks geëvalueerd, waarbij de bedragen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=6&z=2022-02-09&g=2022-02-09) gewijzigd kunnen worden voor het volgende kalenderjaar, onder andere vanwege loon- en prijsontwikkelingen, tenzij de toestand van 's Rijks financiën zich daartegen verzet.
+2. Het subsidiebedrag wordt jaarlijks geëvalueerd, waarbij de bedragen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=6&z=2022-08-01&g=2022-08-01) gewijzigd kunnen worden voor het volgende kalenderjaar, onder andere vanwege loon- en prijsontwikkelingen, tenzij de toestand van 's Rijks financiën zich daartegen verzet.
 
 3. De betaling van het subsidiebedrag vindt plaats in gelijke maandelijkse termijnen.
 
 ##### Artikel 9. Aanwijzing toezichthouders
 
-Als de ambtenaren, bedoeld in [artikel 29, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=29), [artikel 70, eerste lid, van de WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=70), en [artikel 3.6, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.6), worden aangewezen de inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in [artikel 3, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3).
+Als de ambtenaren, bedoeld in [artikel 29, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=29), [artikel 11.21, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.21), en [artikel 3.6, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.6), worden aangewezen de inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in [artikel 3, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3).
 
 ##### Artikel 10. Sancties
 
@@ -170,6 +170,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a. Omhang
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling is mede gebaseerd op de [artikelen 11.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.20) en [11.21, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.21).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
