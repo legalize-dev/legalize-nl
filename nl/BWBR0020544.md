@@ -4,7 +4,7 @@ identifier: "BWBR0020544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-16"
-last_updated: "2022-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020544"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ Treedt volgens Stcrt. 2007/1 in werking op het tijdstip waarop het Wijzigingsbes
 
 In deze regeling wordt verstaan onder:
 
-- **collectieve deel:** uitkeringskosten als bedoeld in [artikel 5, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5);
+- **collectieve deel:** uitkeringskosten als bedoeld [artikel 6.5, eerste lid, van het Uitvoeringsbesluit bekostiging WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.5);
 
-- **individuele deel:** uitkeringskosten als bedoeld in [artikel 5, tweede lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5).
+- **individuele deel:** uitkeringskosten als bedoeld in [artikel 6.5, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.5)’.
 
 ##### Artikel 2. Percentage collectieve deel uitkeringskosten
 
@@ -58,9 +58,9 @@ Het percentage van het collectieve deel wordt vastgesteld op 75.
 
 ##### Artikel 3. Voorlopige inhouding en definitieve vaststelling voor het collectieve deel
 
-1. De voorlopige inhouding van de vermindering van de de bekostiging als bedoeld in [artikel 6 van de regeling bekostiging vo-scholen en samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=6) per kalenderjaar, bedoeld in [artikel 5, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5) volgt hetzelfde ritme als de betaling van de de bekostiging als bedoeld in artikel 6 van de regeling bekostiging vo-scholen en samenwerkingsverbanden.
+1. De voorlopige inhouding van de vermindering van de de bekostiging als bedoeld in [artikel 6 van de regeling bekostiging vo-scholen en samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=6) per kalenderjaar, bedoeld in [artikel 6.5, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.5) volgt hetzelfde ritme als de betaling van de de bekostiging als bedoeld in artikel 6 van de regeling bekostiging vo-scholen en samenwerkingsverbanden.
 
-2. De definitieve vaststelling van de vermindering vindt jaarlijks plaats in december van het lopende kalenderjaar en is gebaseerd op de werkelijke uitgaven in het lopende kalenderjaar met betrekking tot de uitkeringskosten, bedoeld in [artikel 5, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5).
+2. De definitieve vaststelling van de vermindering vindt jaarlijks plaats in december van het lopende kalenderjaar en is gebaseerd op de werkelijke uitgaven in het lopende kalenderjaar met betrekking tot de uitkeringskosten, bedoeld in [artikel 6.5, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.5).
 
 ##### Artikel 4. Percentage individuele deel uitkeringskosten
 
@@ -68,7 +68,7 @@ Het percentage van het individuele deel wordt vastgesteld op 25.
 
 ##### Artikel 5. Inhouding individuele deel
 
-Met inachtneming van [artikel 5, vijfde lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5) vindt het moment van het in mindering brengen, bedoeld in artikel 5, eerste en tweede lid, van het Besluit bekostiging WVO 2021, maandelijks plaats.
+Met inachtneming van [artikel 6.5, vijfde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.5) vindt het moment van het in mindering brengen, bedoeld in artikel 6.5, eerste en tweede lid, van het Uitvoeringsbesluit WVO 2020, maandelijks plaats.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -80,8 +80,8 @@ Deze regeling wordt aangehaald als: Regeling verrekening uitkeringskosten vo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-##### Artikel 5a. Omhangbepaling
+##### Artikel 5a. Omhang
 
-Deze regeling berust op de [artikelen 5, eerste lid, tweede lid, onder b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=5), en [20, derde lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=20).
+Deze regeling berust op de [artikelen 6.4, eerste lid, tweede lid onder b en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.4), en [6.14, derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.14).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
