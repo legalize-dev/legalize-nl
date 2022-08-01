@@ -4,7 +4,7 @@ identifier: "BWBR0039721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-15"
-last_updated: "2022-07-15"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039721"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **aanvrager:** bevoegd gezag dat als penvoerder optreedt bij de aanvraag van subsidie op grond van deze regeling,
 
-- •. **bevoegd gezag:** bevoegd gezag, bedoeld in [artikel 1 van de Wet primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), [artikel 1 van de Wet voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1); [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1),
+- •. **bevoegd gezag:** bevoegd gezag, bedoeld in [artikel 1 van de Wet primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1),
 
 - •. **deelnemer:** leerling die deelneemt aan het doorstroomprogramma,
 
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - •. **minister:** Minister van Onderwijs, Cultuur en Wetenschap,
 
-- •. **school:** uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op het primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), [artikel 1 van de Wet op het voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), of een instelling als bedoeld in [artikel 1.3.3, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3).
+- •. **school:** uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op het primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
 ##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
@@ -92,7 +92,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Na afloop van de aanvraagperiode wordt jaarlijks door middel van loting bepaald welke subsidieaanvragen worden gehonoreerd.
 
-2. Indien de middelen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=4&z=2022-07-15&g=2022-07-15), ontoereikend zijn om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt eerst voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
+2. Indien de middelen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=4&z=2022-08-01&g=2022-08-01), ontoereikend zijn om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt eerst voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
 
 3. Indien na toepassing van het tweede lid nog middelen resteren, wordt vervolgens voorrang verleend aan de aanvragen die zijn gericht op in ieder geval één basisschool als bedoeld [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) met een positieve achterstandsscore als bedoeld in [artikel 18 van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), blijkend uit de in het jaar van de aanvraag door het Centraal Bureau voor de Statistiek aan de minister verstrekte gegevens. Indien niet genoeg middelen resteren om al deze aanvragen te honoreren, dan wordt er geloot.
 
@@ -150,7 +150,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. De aanvraag bevat een verklaring van alle bevoegd gezagen die aan het doorstroomprogramma willen deelnemen, waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2022-07-15&g=2022-07-15).
+5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 8. Subsidieaanvraag
 
@@ -224,6 +224,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 13a. Omhang
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling is mede gebaseerd op [artikel 5.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.11).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
