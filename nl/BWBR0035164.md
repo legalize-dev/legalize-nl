@@ -4,7 +4,7 @@ identifier: "BWBR0035164"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2014-08-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035164"
 soort: "wet"
@@ -67,7 +67,7 @@ Wijzigt de Wet op het onderwijstoezicht.
 
 Wijzigt de Wet op de expertisecentra en de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit speciaal en voortgezet speciaal onderwijs)
 
-##### Artikel VI. Samenloop van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=I&z=2014-08-01&g=2014-08-01) met de [Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679) (Stb. 2010, 194), de [Wet van 19 april 2012 tot wijziging van de Wet op het primair onderwijs in verband met de wettelijke verankering van afdelingen voor internationaal georiënteerd basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031571) (Stb. 2012, 216) en de [Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032176) (Stb. 2012, 533)
+##### Artikel VI. Samenloop van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=I&z=2022-08-01&g=2022-08-01) met de [Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679) (Stb. 2010, 194), de [Wet van 19 april 2012 tot wijziging van de Wet op het primair onderwijs in verband met de wettelijke verankering van afdelingen voor internationaal georiënteerd basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031571) (Stb. 2012, 216) en de [Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032176) (Stb. 2012, 533)
 
 1. Wijzigt de Wet op het primair onderwijs en de Wijzigingswet enkele onderwijswetten (herziening organisatie en financiering van ondersteuning leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs).
 
@@ -79,13 +79,13 @@ Wijzigt de Wet op de expertisecentra en de Wijzigingswet Wet op de expertisecent
 
 5. Wijzigt de Wet referentieniveaus Nederlandse taal en rekenen, de Wet op het primair onderwijs, de Leerplichtwet 1969 en deze wet.
 
-##### Artikel VII. Samenloop van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=II&z=2014-08-01&g=2014-08-01) met de [Wet van 11 oktober 2012 tot wijziging van onder meer de Wet op de expertisecentra in verband met de kwaliteit van het speciaal en voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032212) (Stb. 2012, 545)
+##### Artikel VII. Samenloop van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=II&z=2022-08-01&g=2022-08-01) met de [Wet van 11 oktober 2012 tot wijziging van onder meer de Wet op de expertisecentra in verband met de kwaliteit van het speciaal en voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032212) (Stb. 2012, 545)
 
 1. Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit speciaal en voortgezet speciaal onderwijs).
 
 2. Wijzigt de Wet op de expertisecentra en de Wet op het voortgezet onderwijs.
 
-##### Artikel VIII. Samenloop van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=III&z=2014-08-01&g=2014-08-01) met de [Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679) (Stb. 2010, 194) en de [Wet van 11 oktober 2012 tot wijziging van onder meer de Wet op de expertisecentra in verband met de kwaliteit van het speciaal en voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032212) (Stb. 2012, 545 )
+##### Artikel VIII. Samenloop van [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=III&z=2022-08-01&g=2022-08-01) met de [Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679) (Stb. 2010, 194) en de [Wet van 11 oktober 2012 tot wijziging van onder meer de Wet op de expertisecentra in verband met de kwaliteit van het speciaal en voortgezet speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032212) (Stb. 2012, 545 )
 
 1. Wijzigt de Wet referentieniveaus Nederlandse taal en rekenen.
 
@@ -95,7 +95,7 @@ Wijzigt de Wet op de expertisecentra en de Wijzigingswet Wet op de expertisecent
 
 4. Wijzigt de Wijzigingswet Wet op de expertisecentra, enz. (kwaliteit speciaal en voortgezet speciaal onderwijs) en deze wet.
 
-##### Artikel IX. Samenloop van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=IV&z=2014-08-01&g=2014-08-01) met de [Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032176) (Stb. 2012, 533)
+##### Artikel IX. Samenloop van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=IV&z=2022-08-01&g=2022-08-01) met de [Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0032176) (Stb. 2012, 533)
 
 Wijzigt de Wijzigingswet enkele onderwijswetten (herziening organisatie en financiering van ondersteuning leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs).
 
@@ -103,11 +103,11 @@ Wijzigt de Wet op het onderwijstoezicht.
 
 ##### Artikel X. Overgangsrecht
 
-Tot het tijdstip waarop voor het eerst kerndoelen in werking treden die zijn vastgesteld door provinciale staten van Fryslân volgens de daartoe in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=I&z=2014-08-01&g=2014-08-01), [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=II&z=2014-08-01&g=2014-08-01), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=III&z=2014-08-01&g=2014-08-01) onderscheidenlijk [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=V&z=2014-08-01&g=2014-08-01) opgenomen procedure, zijn in afwijking van die artikelen de kerndoelen Friese taal en de kerndoelen Friese taal en cultuur van toepassing op de te onderscheiden soorten onderwijs, zoals die kerndoelen luidden tot aan het tijdstip van inwerkingtreding van die artikelen.
+Tot het tijdstip waarop voor het eerst kerndoelen in werking treden die zijn vastgesteld door provinciale staten van Fryslân volgens de daartoe in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=I&z=2022-08-01&g=2022-08-01), [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=III&z=2022-08-01&g=2022-08-01) onderscheidenlijk [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=V&z=2022-08-01&g=2022-08-01) opgenomen procedure, zijn in afwijking van die artikelen de kerndoelen Friese taal van toepassing op de te onderscheiden soorten onderwijs, zoals die kerndoelen luidden tot aan het tijdstip van inwerkingtreding van die artikelen.
 
 ##### Artikel XI. Publicatie Friese vertaling
 
-Onze Minister van Onderwijs, Cultuur en Wetenschap draagt zorg voor een vertaling in de Friese taal van deze wet met uitzondering van de [artikelen XIA](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=XIa&z=2014-08-01&g=2014-08-01) en [XIB](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=XIb&z=2014-08-01&g=2014-08-01), en plaatst deze in de Staatscourant.
+Onze Minister van Onderwijs, Cultuur en Wetenschap draagt zorg voor een vertaling in de Friese taal van deze wet met uitzondering van de [artikelen XIA](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=XIa&z=2022-08-01&g=2022-08-01) en [XIB](https://wetten.overheid.nl/jci1.3:c:BWBR0035164&artikel=XIb&z=2022-08-01&g=2022-08-01), en plaatst deze in de Staatscourant.
 
 ##### Artikel XIa. Wijziging van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) in verband met centrale eindtoets en leerling- en onderwijsvolgsysteem
 
