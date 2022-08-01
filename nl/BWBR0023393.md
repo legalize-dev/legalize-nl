@@ -4,7 +4,7 @@ identifier: "BWBR0023393"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2018-08-30"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023393"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Deze regeling is van toepassing op:
 
 - 2°. directeur, adjunct-directeur en leraar als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- 3°. rector, directeur, conrector, adjunct-directeur en leraar als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- 3°. rector, directeur, conrector, adjunct-directeur en leraar als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
 - 4°. docent als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
