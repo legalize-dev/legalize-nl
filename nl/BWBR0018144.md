@@ -4,7 +4,7 @@ identifier: "BWBR0018144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2022-02-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018144"
 soort: "ministeriele-regeling"
@@ -52,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - c. staatssecretaris: de staatssecretaris van onderwijs, cultuur en wetenschap,
 
-- d. school: een school als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1),
+- d. school: een school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1),
 
 - e. instelling: instelling als bedoeld in [artikel 1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of instituut als bedoeld in [artikel 12.3.8 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.3.8),
 
-- f. leerling: leerling als bedoeld in [artikel 27 van de Wet op het voorgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=27),
+- f. leerling: leerling als bedoeld in [hoofdstuk 8 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=8),
 
 - g. **student:** student als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625),
 
@@ -162,7 +162,7 @@ Subsidie wordt telkens verleend voor een boekjaar.
 
 ##### Artikel 7. Niet vervullen begrotingsvoorwaarde
 
-In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=4&z=2022-02-01&g=2022-02-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=5&z=2022-02-01&g=2022-02-01) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.
+In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=4&z=2022-08-01&g=2022-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018144&paragraaf=2&artikel=5&z=2022-08-01&g=2022-08-01) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat.
 
 ##### Artikel 8. Voorschotten
 
