@@ -4,7 +4,7 @@ identifier: "BWBR0037674"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2022-07-22"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037674"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder wet: [Wet educatie en beroepsonderwijs](ht
 
 ##### Artikel 2.1. Keuzedelen
 
-1. De keuzedelen en de studielast daarvan worden vastgesteld op de wijze bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2022-07-22&g=2022-07-22), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=3&z=2022-07-22&g=2022-07-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=5&z=2022-07-22&g=2022-07-22), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=7&z=2022-07-22&g=2022-07-22), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=9&z=2022-07-22&g=2022-07-22), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=11&z=2022-07-22&g=2022-07-22), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=13&z=2022-07-22&g=2022-07-22), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=15&z=2022-07-22&g=2022-07-22), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=17&z=2022-07-22&g=2022-07-22), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=19&z=2022-07-22&g=2022-07-22), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=21&z=2022-07-22&g=2022-07-22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=23&z=2022-07-22&g=2022-07-22), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=25&z=2022-07-22&g=2022-07-22), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=27&z=2022-07-22&g=2022-07-22), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=29&z=2022-07-22&g=2022-07-22), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=31&z=2022-07-22&g=2022-07-22), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=33&z=2022-07-22&g=2022-07-22), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=35&z=2022-07-22&g=2022-07-22) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=37&z=2022-07-22&g=2022-07-22) behorende bij deze regeling.
+1. De keuzedelen en de studielast daarvan worden vastgesteld op de wijze bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2022-08-01&g=2022-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=3&z=2022-08-01&g=2022-08-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=5&z=2022-08-01&g=2022-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=7&z=2022-08-01&g=2022-08-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=9&z=2022-08-01&g=2022-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=11&z=2022-08-01&g=2022-08-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=13&z=2022-08-01&g=2022-08-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=15&z=2022-08-01&g=2022-08-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=17&z=2022-08-01&g=2022-08-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=19&z=2022-08-01&g=2022-08-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=21&z=2022-08-01&g=2022-08-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=23&z=2022-08-01&g=2022-08-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=25&z=2022-08-01&g=2022-08-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=27&z=2022-08-01&g=2022-08-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=29&z=2022-08-01&g=2022-08-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=31&z=2022-08-01&g=2022-08-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=33&z=2022-08-01&g=2022-08-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=35&z=2022-08-01&g=2022-08-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=37&z=2022-08-01&g=2022-08-01) behorende bij deze regeling.
 
-2. De koppeling van keuzedelen aan kwalificaties, bedoeld in het eerste lid, wordt vastgesteld op de wijze bedoeld in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=2&z=2022-07-22&g=2022-07-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=4&z=2022-07-22&g=2022-07-22), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=6&z=2022-07-22&g=2022-07-22), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=8&z=2022-07-22&g=2022-07-22), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=10&z=2022-07-22&g=2022-07-22), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=12&z=2022-07-22&g=2022-07-22), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=14&z=2022-07-22&g=2022-07-22), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=16&z=2022-07-22&g=2022-07-22), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=18&z=2022-07-22&g=2022-07-22), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=20&z=2022-07-22&g=2022-07-22), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=22&z=2022-07-22&g=2022-07-22), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=24&z=2022-07-22&g=2022-07-22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=26&z=2022-07-22&g=2022-07-22), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=28&z=2022-07-22&g=2022-07-22), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=30&z=2022-07-22&g=2022-07-22), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=32&z=2022-07-22&g=2022-07-22), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=34&z=2022-07-22&g=2022-07-22), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=36&z=2022-07-22&g=2022-07-22), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=38&z=2022-07-22&g=2022-07-22), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=39&z=2022-07-22&g=2022-07-22), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=42&z=2022-07-22&g=2022-07-22), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=43&z=2022-07-22&g=2022-07-22), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=44&z=2022-07-22&g=2022-07-22), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=45&z=2022-07-22&g=2022-07-22), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=46&z=2022-07-22&g=2022-07-22), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=47&z=2022-07-22&g=2022-07-22) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=48&z=2022-07-22&g=2022-07-22) behorende bij deze regeling.
+2. De koppeling van keuzedelen aan kwalificaties, bedoeld in het eerste lid, wordt vastgesteld op de wijze bedoeld in de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=2&z=2022-08-01&g=2022-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=4&z=2022-08-01&g=2022-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=6&z=2022-08-01&g=2022-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=8&z=2022-08-01&g=2022-08-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=10&z=2022-08-01&g=2022-08-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=12&z=2022-08-01&g=2022-08-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=14&z=2022-08-01&g=2022-08-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=16&z=2022-08-01&g=2022-08-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=18&z=2022-08-01&g=2022-08-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=20&z=2022-08-01&g=2022-08-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=22&z=2022-08-01&g=2022-08-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=24&z=2022-08-01&g=2022-08-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=26&z=2022-08-01&g=2022-08-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=28&z=2022-08-01&g=2022-08-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=30&z=2022-08-01&g=2022-08-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=32&z=2022-08-01&g=2022-08-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=34&z=2022-08-01&g=2022-08-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=36&z=2022-08-01&g=2022-08-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=38&z=2022-08-01&g=2022-08-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=39&z=2022-08-01&g=2022-08-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=42&z=2022-08-01&g=2022-08-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=43&z=2022-08-01&g=2022-08-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=44&z=2022-08-01&g=2022-08-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=45&z=2022-08-01&g=2022-08-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=46&z=2022-08-01&g=2022-08-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=47&z=2022-08-01&g=2022-08-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=48&z=2022-08-01&g=2022-08-01) behorende bij deze regeling.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -258,11 +258,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [b
 
 ##### Artikel 2.2. Vaststelling keuzedelen vanaf 1 augustus 2020
 
-Keuzedelen die op of na 1 augustus 2020 worden vastgesteld of gewijzigd, worden opgenomen in [bijlage 40](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=40&z=2022-07-22&g=2022-07-22) bij deze Regeling.
+Keuzedelen die op of na 1 augustus 2020 worden vastgesteld of gewijzigd, worden opgenomen in [bijlage 40](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=40&z=2022-08-01&g=2022-08-01) bij deze Regeling.
 
 ##### Artikel 2.3. Vervallen keuzedelen vanaf 1 augustus 2020
 
-Keuzedelen die op of na 1 augustus 2020 vervallen, worden opgenomen in [bijlage 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=41&z=2022-07-22&g=2022-07-22) bij deze Regeling.
+Keuzedelen die op of na 1 augustus 2020 vervallen, worden opgenomen in [bijlage 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=41&z=2022-08-01&g=2022-08-01) bij deze Regeling.
 
 #### Paragraaf 3. Slotbepalingen
 
@@ -280,7 +280,7 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 ## Bijlage 40. Vastgestelde keuzedelen vanaf 1 augustus 2020
 
-Deze bijlage behoort bij [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&paragraaf=2&artikel=2.2&z=2022-07-22&g=2022-07-22) van de Regeling vaststelling keuzedelen.
+Deze bijlage behoort bij [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&paragraaf=2&artikel=2.2&z=2022-08-01&g=2022-08-01) van de Regeling vaststelling keuzedelen.
 
 | Naam keuzedeel | Code | Aantal sbu | Nieuw of bestaand | Vorige versie | Toelichting |
 | --- | --- | --- | --- | --- | --- |
@@ -449,15 +449,22 @@ Deze bijlage behoort bij [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ## Bijlage 41. Vervallen keuzedelen vanaf 1 augustus 2020
 
-Deze bijlage behoort bij [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&paragraaf=2&artikel=2.3&z=2022-07-22&g=2022-07-22) van de Regeling vaststelling keuzedelen.
+Deze bijlage behoort bij [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&paragraaf=2&artikel=2.3&z=2022-08-01&g=2022-08-01) van de Regeling vaststelling keuzedelen.
 
 | Naam keuzedeel | Code | Aantal SBU | Einddatum | Toelichting |
 | --- | --- | --- | --- | --- |
+| Audio-opname | K0489 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Audio-opname’. |
+| Automatisch melken | K0272 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Robotmelken ‘ |
 | Beveiliging van het spoor (ERTMS) | K0554 | 240 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
+| Bewegend licht | K0490 | 480 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Operator licht’. |
+| Cloud en datacenter engineering | K0762 | 480 |   | Het keuzedeel wordt vervangen door Cloud Engineering en Datacenter IT techniek |
+| Combifunctionaris IKC / Brede School | K0145 | 240 |   | Het keuzedeel wordt vervangen door Combifunctionaris IKC / Brede school Versie 2 |
 | Edelsteenkunde (DGI) | K0449 | 240 |   | Het keuzedeel wordt vervangen door Edelsteenkunde I |
 | Edelsteenkunde (FEEG) | K0450 | 240 |   | Het keuzedeel wordt vervangen door Edelsteenkunde II |
 | Farmacologie, toxicologie en bijbehorende kwaliteitssystemen | K0382 | 240 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
 | Genetica en complexe fok van diermodellen | K0351 | 240 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
+| Helpende plus | K0905 | 240 |   | Het keuzedeel wordt vervangen door Helpende plus Versie 2 |
+| Houder van herpeten | K0469 | 240 |   | Dit keuzedeel is onderhouden n.a.v. een wijziging in het kwalificatiedossier Dierverzorging. |
 | Huisartsenvervoer | K0433 | 240 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
 | Interactief ontwerpen met BIM | K0684 | 240 | 1-8-2021 | Wordt vervangen door Versie 2 van Interactief ontwerpen met BIM |
 | Introductie QRM industrieel produceren met hout | K0259 | 240 | 01/08/2021 | Wordt vervangen door Introductie QRM industrieel produceren |
@@ -465,23 +472,44 @@ Deze bijlage behoort bij [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0
 | Koolmonoxidepreventie bij gasverbrandingsinstallaties | K0966 | 240 |   | Het keuzedeel wordt vervangen door Koolmonoxide bij gasverbrandingsinstallaties |
 | Laboratoriumvissen | K0227 | 240 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
 | Landbouwhuisdieren in de proefdiersector geschikt voor niveau 4 | K0336 | 480 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
+| Lesgeven paardensport op instructeursniveau | K0604 | 240 |   | Het keuzedeel wordt vervangen door Beoefenen paardensport en geven van lessen/trainingen vanaf de basissport |
+| Live beeld | K0358 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Live beeld’. |
+| Melken | K0316 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Machinaal melken basis’. |
+| Melkwinning | K0317 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Machinaal melken’. |
+| Nagelstyling | K0070 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Nagelstyling’. |
 | Nautische oriëntatie | K0563 | 480 | 01/08/2021 | Dit keuzedeel wordt uitgefaseerd omdat de kwalificatie waarvoor het keuzedeel was ontwikkeld ook is uitgefaseerd. |
 | Nautische techniek | K0657 | 240 |   | Het keuzedeel wordt vervangen door Nautische techniek ten behoeve van verkoop |
 | Nautische vaktheorie t.b.v. verkoop | K0658 | 240 |   | Het keuzedeel wordt vervangen door Nautische techniek ten behoeve van verkoop |
+| Onderhoud aan windturbines | K0350 | 480 |   | Dit keuzedeel wordt vervangen door het nieuwe keuzedeel 'Onderhoud aan windturbines'. |
+| Ontwikkelingsgericht werken in de VVE | K0388 | 240 |   | Dit keuzedeel wordt vervangen door het nieuwe keuzedeel ‘Basis ontwikkelingsgericht werken in de VVE’. |
+| Paardensport op instructeursniveau | K0605 | 240 |   | Het keuzedeel wordt vervangen door Beoefenen paardensport en geven van lessen/trainingen vanaf de basissport |
 | Pedicurebehandelingen uitvoeren | K0511 | 480 |   | Het keuzedeel wordt vervangen door een nieuwe versie |
 | Praktijkopleider | K0087 | 240 |   | Het keuzedeel wordt vervangen door Begeleider praktijkleren |
+| Rigging in de evenemententechniek | K0499 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Rigging in de evenemententechniek’. |
 | Scannen en designen | K0195 | 480 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
+| Systeembeheer voor ethernet | K0546 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Ethernetsystemen voor podia en evenementen’. |
+| Systeemtechniek en geluidsmetingen | K0500 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Systeemtechniek en geluidsmetingen’. |
+| Toewerken naar Nederlands 2F | K1133 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Toewerken naar Nederlands 2F’. |
+| Trainer-coach gymnastiek | K0934 | 240 |   | Het keuzedeel wordt vervangen door Trainer-coach gymsport |
 | Veilig sportklimaat | K0445 | 240 | 1-8-2020 | Wordt vervangen door Versie 2 van Veilig sportklimaat |
 | Veiligheidsadviseur gevaarlijke stoffen | K0327 | 240 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
+| Verbeterprocessen procestechniek | K0376 | 240 |   | Het keuzedeel wordt vervangen door Verbeterprocessen procestechniek Versie 2 |
+| Verdieping audiologisch advies | K0451 | 240 |   | Het keuzedeel wordt vervangen door Verdieping audiologisch advies Versie 2 |
+| Verdieping binoculair zien en vooronderzoek | K0942 | 240 |   | Dit keuzedeel wordt vervangen door het keuzedeel ‘Verdieping binoculair zien en vooronderzoek’. |
+| Verdieping experimental design | K0607 | 240 |   | Het keuzedeel wordt al meerdere jaren achter elkaar niet aangeboden en wordt daarom uitgefaseerd |
+| Verdieping geluid | K0503 | 240 |   | Dit keuzedeel wordt opgesplitst in de twee keuzedelen ‘Verdieping geluid – geschikt voor niveau 2’ en ‘Verdieping geluid – geschikt voor niveau 3 en 4’. |
 | Verdieping horlogemaken: bijzondere horloges repareren | K0363 | 960 |   | Het keuzedeel wordt vervangen door een nieuwe versie |
 | Verdieping klokkenmaken: bijzondere klokken repareren | K0366 | 960 |   | Het keuzedeel wordt vervangen door een nieuwe versie |
+| Verdieping licht | K0504 | 240 |   | Dit keuzedeel wordt opgesplitst in de drie keuzedelen ‘Verdieping licht – geschikt voor niveau 2’, ‘Verdieping licht – geschikt voor niveau 3 ‘ en ‘Verdieping licht – geschikt voor niveau 4’. |
 | Verdieping maintenance in de procesindustrie, geschikt voor niveau 3 | K0415 | 720 |   | Het keuzedeel wordt vervangen door een nieuwe versie |
 | Verdieping maintenance in de procesindustrie, geschikt voor niveau 4 | K0416 | 960 |   | Het keuzedeel wordt vervangen door een nieuwe versie |
 | Verdieping operations voor de procesindustrie, geschikt voor niveau 3 | K0438 | 720 |   | Het keuzedeel wordt vervangen door een nieuwe versie |
 | Verdieping operations voor de procesindustrie, geschikt voor niveau 4 | K0439 | 960 |   | Het keuzedeel wordt vervangen door een nieuwe versie |
+| Verzorgen van educatieve activiteiten | K1217 | 480 |   | Dit keuzedeel wordt vervangen door het nieuwe keuzedeel 'Verzorgen van educatieve activiteiten'. |
 | VIP- en directievervoer | K0423 | 240 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
 | Visagie | K0120 | 240 |   | Het keuzedeel wordt opgesplitst in Visagie en Introductie tot visagie |
 | Voorbereiding havo management en organisatie | K0845 | 480 |   | Het keuzedeel wordt vervangen door Voorbereiding havo bedrijfseconomie |
+| Voorbereiding HBO Wiskunde voor de techniek | K0205 | 240 |   | Dit keuzedeel wordt opgesplitst in de twee keuzedelen ‘Voorbereiding hbo wiskunde voor de techniek-I-Breed’ en ‘Voorbereiding hbo wiskunde voor de techniek-II-Specifiek’. |
 | Werken met baby's | K0290 | 240 |   | Het keuzedeel wordt vervangen door een nieuwe versie |
 | Werken met het ADR | K0328 | 240 |   | Het keuzedeel wordt niet aangeboden en wordt uitgefaseerd |
 
@@ -527,4 +555,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [b
 
 Gepubliceerd op [https://kwalificatie-mijn.s-bb.nl/](onbekend).
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2022-07-22&g=2022-07-22) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2022-08-01&g=2022-08-01) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
