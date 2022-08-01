@@ -4,7 +4,7 @@ identifier: "BWBR0003689"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "1984-08-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003689"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Voor de toepassing van de Leerplichtwet 1969 worden tot wederopzegging, aangewez
 
 ##### Artikel 2
 
-Met uitzondering van het onderwijsinstituut, genoemd in artikel 1, onder 7e geldt de in dat artikel bedoelde aanwijzing van onderwijsinstituten slechts voor zover deze instituten uit 's rijks kas worden bekostigd, dan wel krachtens artikel 56 van de wet op het voortgezet onderwijs zijn aangewezen.
+Met uitzondering van het onderwijsinstituut, genoemd in [artikel 1, onder 7e](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=1&z=2022-08-01&g=2022-08-01) geldt de in dat artikel bedoelde aanwijzing van onderwijsinstituten slechts voor zover deze instituten uit 's rijks kas worden bekostigd, dan wel krachtens [artikel 2.66 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66) zijn aangewezen.
 
 ##### Artikel 3
 
@@ -80,15 +80,15 @@ Voor de toepassing van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3
 
 - 1e. de civiele vakopleidingen voor technisch specialist bij de Koninklijke Landmacht:
 
-- 2e. de inrichtingen voor de opleiding ziekenverzorging, aangewezen ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=1&z=1984-08-01&g=1984-08-01) van de beschikking van de staatssecretaris van volksgezondheid en milieuhygiëne dd. 30 juni 1981, nr. 123)
+- 2e. de inrichtingen voor de opleiding ziekenverzorging, aangewezen ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=1&z=2022-08-01&g=2022-08-01) van de beschikking van de staatssecretaris van volksgezondheid en milieuhygiëne dd. 30 juni 1981, nr. 123)
 
 ##### Artikel 4
 
-1. De hoofden van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=1&z=1984-08-01&g=1984-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=3&z=1984-08-01&g=1984-08-01) bedoelde onderwijsinstituten en bedrijfscursussen geven aan burgemeester en wethouders van de gemeente waar het onderwijsinstituut respectievelijk de bedrijfscursus is gevestigd, binnen zeven dagen kennis van de in en afschrijving van de leerling ten aanzien van wie de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) van toepassing is.
+1. De hoofden van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=1&z=2022-08-01&g=2022-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=3&z=2022-08-01&g=2022-08-01) bedoelde onderwijsinstituten en bedrijfscursussen geven aan burgemeester en wethouders van de gemeente waar het onderwijsinstituut respectievelijk de bedrijfscursus is gevestigd, binnen zeven dagen kennis van de in en afschrijving van de leerling ten aanzien van wie de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) van toepassing is.
 
 2. Indien aan het hoofd blijkt, dal een ingeschreven leerling ten aanzien van wie de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) van toepassing is, zonder geldige reden les- of praktijktijd verzuimt, geeft hij hiervan binnen drie dagen kennis aan burgemeester en wethouders van de gemeente waar de ouders, de voogd of de verzorgers van de leerling woon- en verblijfplaats hebben.
 
-3. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=1&z=1984-08-01&g=1984-08-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=2&z=1984-08-01&g=1984-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=4&z=1984-08-01&g=1984-08-01) en 9 van de Leerplichtbeschikking 1971 (Stcrt. 1971, nr. 135) zijn van overeenkomstige toepassing.
+3. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=1&z=2022-08-01&g=2022-08-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=2&z=2022-08-01&g=2022-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003689&artikel=4&z=2022-08-01&g=2022-08-01) en 9 van de Leerplichtbeschikking 1971 (Stcrt. 1971, nr. 135) zijn van overeenkomstige toepassing.
 
 ##### Artikel 5
 
