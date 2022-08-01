@@ -4,7 +4,7 @@ identifier: "BWBR0046805"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-01"
-last_updated: "2022-07-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046805"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - **ouders:** ouders of wettelijke vertegenwoordigers van niet-ingeschreven kinderen of jongeren;
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 18a, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a), landelijk samenwerkingsverband als bedoeld in artikel 18a, vijftiende lid, van de WPO, samenwerkingsverband als bedoeld in [artikel 17a, tweede lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a), of landelijk samenwerkingsverband als bedoeld in artikel 17a, zestiende lid, van de WVO;
+- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 18a, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a), landelijk samenwerkingsverband als bedoeld in artikel 18a, vijftiende lid, van de WPO, samenwerkingsverband als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
@@ -78,9 +78,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 4. Subsidieplafond en subsidiebedrag
 
-1. Voor de subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046805&artikel=3&z=2022-07-01&g=2022-07-01) is een bedrag beschikbaar van € 5.800.000.
+1. Voor de subsidieverstrekking op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046805&artikel=3&z=2022-08-01&g=2022-08-01) is een bedrag beschikbaar van € 5.800.000.
 
-2. Per samenwerkingsverband geldt een vast subsidiebedrag, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046805&bijlage=1&z=2022-07-01&g=2022-07-01).
+2. Per samenwerkingsverband geldt een vast subsidiebedrag, dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046805&bijlage=1&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 5. Subsidieaanvraag
 
@@ -128,11 +128,9 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 Wijzigt deze regeling.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 11. Inwerkingtreding
 
-1. Deze regeling treedt in werking met ingang van 1 juli 2022, met uitzondering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046805&artikel=10&z=2022-07-01&g=2022-07-01), dat in werking treedt met ingang van 1 augustus 2022.
+1. Deze regeling treedt in werking met ingang van 1 juli 2022, met uitzondering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046805&artikel=10&z=2022-08-01&g=2022-08-01), dat in werking treedt met ingang van 1 augustus 2022.
 
 2. Deze regeling vervalt met ingang van 1 juli 2026.
 
