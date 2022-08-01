@@ -4,7 +4,7 @@ identifier: "BWBR0043852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2021-08-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043852"
 soort: "ministeriele-regeling"
@@ -46,27 +46,27 @@ In deze regeling wordt verstaan onder:
 
 - **beroepsopleiding:** beroepsopleiding van het derde en vierde niveau als bedoeld in [artikel 7.2.2, eerste lid, onderdelen c en d, en derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
-- **gemengde leerweg:** gemengde leerweg als bedoeld in [artikel 10d van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d);
+- **gemengde leerweg:** gemengde leerweg als bedoeld in [artikel 2.22, eerste lid, onderdeel d, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.22);
 
 - **kaderberoepsgerichte leerweg:** kaderberoepsgerichte leerweg als bedoeld in [artikel 10b van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b);
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **theoretische leerweg** theoretische leerweg als bedoeld in [artikel 10 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10);
+- **theoretische leerweg** theoretische leerweg als bedoeld in [artikel 2.22, eerste lid, onderdeel a, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.22);
 
-- **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Kaderberoepsgerichte leerweg
 
-Ten aanzien van een student die in het bezit is van een diploma van de kaderberoepsgerichte leerweg in de profielen, bedoeld in [artikel 10b, derde lid, onderdelen f tot en met h en j, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b), wordt als aanvullende voorwaarde gesteld dat het vak wiskunde of natuur- en scheikunde I deel heeft uitgemaakt van het eindexamen om te kunnen worden toegelaten tot een beroepsopleiding als bedoeld in de bijlage behorende bij deze regeling.
+Ten aanzien van een student die in het bezit is van een diploma van de kaderberoepsgerichte leerweg in de profielen, bedoeld in [artikel 2.26, tweede lid, onderdelen f tot en met h en j, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.26), wordt als aanvullende voorwaarde gesteld dat het vak wiskunde of natuur- en scheikunde I deel heeft uitgemaakt van het eindexamen om te kunnen worden toegelaten tot een beroepsopleiding als bedoeld in de bijlage behorende bij deze regeling.
 
 ##### Artikel 3. Gemengde leerweg
 
-Ten aanzien van een student die in het bezit is van een diploma van de gemengde leerweg in de profielen, bedoeld in [artikel 10d, derde lid, onderdelen f tot en met h en j, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d), wordt als aanvullende voorwaarde gesteld dat het vak wiskunde of natuur- en scheikunde I deel heeft uitgemaakt van het eindexamen om te kunnen worden toegelaten tot een beroepsopleiding als bedoeld in de bijlage behorende bij deze regeling.
+Ten aanzien van een student die in het bezit is van een diploma van de gemengde leerweg in de profielen, bedoeld in [artikel 2.27, tweede lid, onderdelen f tot en met h en j, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.27), wordt als aanvullende voorwaarde gesteld dat het vak wiskunde of natuur- en scheikunde I deel heeft uitgemaakt van het eindexamen om te kunnen worden toegelaten tot een beroepsopleiding als bedoeld in de bijlage behorende bij deze regeling.
 
 ##### Artikel 4. Theoretische leerweg
 
-Ten aanzien van een student die in het bezit is van een diploma van de theoretische leerweg in de profielen, bedoeld in [artikel 10, derde lid, onderdelen b en c, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10), wordt als aanvullende voorwaarde gesteld dat het vak wiskunde of natuur- en scheikunde I deel heeft uitgemaakt van het eindexamen om te kunnen worden toegelaten tot een beroepsopleiding als bedoeld in de bijlage behorende bij deze regeling
+Ten aanzien van een student die in het bezit is van een diploma van de theoretische leerweg in de profielen, bedoeld in [artikel 2.25, tweede lid, onderdelen b en c, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.25), wordt als aanvullende voorwaarde gesteld dat het vak wiskunde of natuur- en scheikunde I deel heeft uitgemaakt van het eindexamen om te kunnen worden toegelaten tot een beroepsopleiding als bedoeld in de bijlage behorende bij deze regeling
 
 ##### Artikel 5. Intrekking regeling
 
@@ -80,7 +80,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2021.
 
 Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 
-## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=2&z=2021-08-01&g=2021-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=3&z=2021-08-01&g=2021-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=4&z=2021-08-01&g=2021-08-01) van de Regeling houdende regels over de nadere vooropleidingseisen voor toelating tot het middelbaar beroepsonderwijs (Doorstroomregeling vmbo – mbo 2020)
+## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=2&z=2022-08-01&g=2022-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=3&z=2022-08-01&g=2022-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=4&z=2022-08-01&g=2022-08-01) van de Regeling houdende regels over de nadere vooropleidingseisen voor toelating tot het middelbaar beroepsonderwijs (Doorstroomregeling vmbo – mbo 2020)
 
 | Kwalificatiedossier | Naam dossier | Crebo | Opleiding | Niveau | Leerweg |
 | --- | --- | --- | --- | --- | --- |
@@ -104,48 +104,29 @@ Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 | 23047 | **Betonstaalverwerken** | 25081 | Allround betonstaalverwerker bouwplaats | 3 | BOL/BBL |
 | 23047 | **Betonstaalverwerken** | 25082 | Allround betonstaalverwerker prefabricage | 3 | BOL/BBL |
 | 23048 | **Betontimmeren** | 25085 | Allround betontimmerman | 3 | BOL/BBL |
-| 23050 | **Grond-, water- en wegenbouw** | 25091 | Allround vakman gww | 3 | BOL/BBL |
-| 23050 | **Grond-, water- en wegenbouw** | 25092 | Allround waterbouwer | 3 | BOL/BBL |
-| 23050 | **Grond-, water- en wegenbouw** | 25094 | Balkman | 3 | BOL/BBL |
-| 23050 | **Grond-, water- en wegenbouw** | 25096 | Straatmaker | 3 | BOL/BBL |
 | 23051 | **Machinisten** | 25099 | Machinist grondverzet / | 3 | BOL/BBL |
 | 23051 | **Machinisten** | 25558 | Machinist hijswerk | 3 | BOL/BBL |
 | 23051 | **Machinisten** | 25101 | Machinist wegenbouw | 3 | BOL/BBL |
-| 23052 | **Metselen** | 25102 | Allround Metselaar | 3 | BOL/BBL |
 | 23054 | **Natuursteenbewerken** | 25109 | Allround natuursteenbewerker | 3 | BOL/BBL |
 | 23055 | **Slopen** | 25114 | Allround sloper | 3 | BOL/BBL |
-| 23056 | **Tegelzetten** | 25116 | Allround tegelzetter | 3 | BOL/BBL |
-| 23057 | **Timmeren** | 25118 | Allround timmerman | 3 | BOL/BBL |
 | 23060 | **Steigerbouw** | 25126 | Eerste monteur steigerbouw | 3 | BOL/BBL |
 | 23238 | **Assemblage, Carrosseriebouw en Recreatievoertuigen** | 25594 | Eerste Carrosseriebouwer | 3 | BOL/BBL |
 | 23103 | **Autoschadeherstel-techniek** | 25226 | Eerste Autoschadehersteller | 3 | BOL/BBL |
 | 23103 | **Autoschadeherstel-techniek** | 25227 | Eerste Autoschadetechnicus | 3 | BOL/BBL |
-| 23104 | **Autospuiten** | 25229 | Eerste Autospuiter | 3 | BOL/BBL |
 | 23105 | **Fietstechniek** | 25230 | Eerste Fietstechnicus | 3 | BOL/BBL |
-| 23107 | **Verbrandingsmotor-techniek** | 25236 | Eerste Verbrandingsmotortechnicus | 3 | BOL/BBL |
 | 23116 | **Isolatiewerken** | 25279 | Opmeter technische isolatie | 3 | BOL/BBL |
 | 23118 | **Metaalbewerken** | 25286 | Allround constructiewerker | 3 | BOL/BBL |
 | 23118 | **Metaalbewerken** | 25287 | Allround lasser | 3 | BOL/BBL |
 | 23118 | **Metaalbewerken** | 25288 | Allround pijpenbewerker | 3 | BOL/BBL |
 | 23118 | **Metaalbewerken** | 25289 | Allround plaatwerker | 3 | BOL/BBL |
 | 23118 | **Metaalbewerken** | 25294 | Scheepsbouwer | 3 | BOL/BBL |
-| 23122 | **Service- en onderhoudstechniek** | 25304 | Eerste monteur service en onderhoud elektrotechniek en instrumentatie | 3 | BOL/BBL |
-| 23122 | **Service- en onderhoudstechniek** | 25305 | Eerste monteur service en onderhoud gasturbines | 3 | BOL/BBL |
-| 23122 | **Service- en onderhoudstechniek** | 25306 | Eerste monteur service en onderhoud werktuigbouw | 3 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25315 | Tekenaar werktuigbouw | 3 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25316 | Tekenaar werktuigkundige installaties | 3 | BOL/BBL |
 | 23125 | **Vliegtuigonderhoud** | 25320 | Constructie repair specialist vliegtuigonderhoud | 3 | BOL/BBL |
 | 23125 | **Vliegtuigonderhoud** | 25321 | Eerste monteur vliegtuigonderhoud | 3 | BOL/BBL |
-| 23127 | **Elektrotechnische Installaties** | 25331 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | BOL/BBL |
-| 23127 | **Elektrotechnische Installaties** | 25332 | Eerste monteur elektrotechnische installaties woning en utiliteit | 3 | BOL/BBL |
-| 23129 | **Industriële processen** | 25336 | Mechanisch operator B | 3 | BOL/BBL |
-| 23129 | **Industriële processen** | 25338 | Procesoperator B | 3 | BOL/BBL |
 | 23130 | **Mechatronica** | 25339 | Eerste monteur elektrotechnische systemen | 3 | BOL/BBL |
 | 23130 | **Mechatronica** | 25340 | Eerste monteur Mechatronica | 3 | BOL/BBL |
 | 23132 | **Operationele Techniek** | 25346 | Operationeel technicus | 3 | BOL/BBL |
-| 23133 | **Werktuigkundige Installaties (Montage)** | 25347 | Eerste Monteur dakbedekking | 3 | BOL/BBL |
-| 23133 | **Werktuigkundige Installaties (Montage)** | 25348 | Eerste monteur utiliteit | 3 | BOL/BBL |
-| 23133 | **Werktuigkundige Installaties (Montage)** | 25349 | Eerste monteur woning | 3 | BOL/BBL |
 | 23196 | **Voegen/gevelbehandelen** | 25504 | Vakman restauratie voegwerk | 3 | BOL/BBL |
 | 23215 | **Dakdekken** | 25086 | Allround dakdekker bitumen en kunststof | 3 | BOL/BBL |
 | 23215 | **Dakdekken** | 25087 | Allround dakdekker pannen/leien | 3 | BOL/BBL |
@@ -167,9 +148,6 @@ Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 | 23278 | **Maritiem officier** | 25679 | Maritiem officier kleine schepen technisch | 3 | BOL/BBL |
 | 23001 | **Afval, Milieu, Beheer & Onderhoud Openbare Ruimte** | 25042 | Teamleider AMBOR | 4 | BOL/BBL |
 | 23235 | **Industrieel produceren met hout** | 25587 | Werkvoorbereider houttechniek | 4 | BOL/BBL |
-| 23006 | **Kaderfunctie Afbouw, Onderhoud en Interieur** | 25012 | Kleur- en interieuradviseur | 4 | BOL/BBL |
-| 23006 | **Kaderfunctie Afbouw, Onderhoud en Interieur** | 25013 | Projectmanager vastgoedonderhoud | 4 | BOL/BBL |
-| 23006 | **Kaderfunctie Afbouw, Onderhoud en Interieur** | 25014 | Uitvoerder | 4 | BOL/BBL |
 | 23008 | **Meubels en (scheeps)interieurs maken** | 25019 | Ondernemend meubelmaker/(scheeps)-interieurbouw | 4 | BOL/BBL |
 | 23008 | **Meubels en (scheeps)interieurs maken** | 25020 | Werkvoorbereider meubelindustrie/(scheeps)-interieurbouwer | 4 | BOL/BBL |
 | 23026 | **Specialist schilderen** | 25036 | Decoratie- en restauratieschilder | 4 | BOL/BBL |
@@ -187,19 +165,12 @@ Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 | 23058 | **Werkvoorbereiden /uitvoeren** | 25122 | Werkvoorbereider fabricage | 4 | BOL/BBL |
 | 23058 | **Werkvoorbereiden /uitvoeren** | 25123 | Werkvoorbereider gespecialiseerde aannemerij | 4 | BOL/BBL |
 | 23058 | **Werkvoorbereiden /uitvoeren** | 25124 | Werkvoorbereider installaties | 4 | BOL/BBL |
-| 23107 | **Verbrandingsmotortechniek** | 25237 | Technisch Specialist Verbrandingsmotoren | 4 | BOL/BBL |
-| 23111 | **Elektrotechnische systemen en installaties** | 25262 | Technicus elektrotechnische industriële installaties en systemen | 4 | BOL/BBL |
-| 23111 | **Elektrotechnische systemen en installaties** | 25263 | Technicus elektrotechnische installaties woning en utiliteit | 4 | BOL/BBL |
 | 23113 | **Human Technology** | 25265 | Technicus human technology | 4 | BOL/BBL |
 | 23115 | **Infratechniek (kader)** | 25275 | Technicus data | 4 | BOL/BBL |
 | 23115 | **Infratechniek (kader)** | 25276 | Technicus electrotechniek | 4 | BOL/BBL |
 | 23115 | **Infratechniek (kader)** | 25277 | Technicus gas | 4 | BOL/BBL |
 | 23119 | **Middenkader Engineering** | 25296 | Commercieel technicus engineering | 4 | BOL/BBL |
 | 23119 | **Middenkader Engineering** | 25297 | Technicus engineering | 4 | BOL/BBL |
-| 23121 | **Procestechniek** | 25303 | Operator C | 4 | BOL/BBL |
-| 23122 | **Service- en onderhoudstechniek** | 25309 | Technicus service en onderhoud elektrotechniek en instrumentatie | 4 | BOL/BBL |
-| 23122 | **Service- en onderhoudstechniek** | 25310 | Technicus service en onderhoud werktuigbouw | 4 | BOL/BBL |
-| 23122 | **Service- en onderhoudstechniek** | 25311 | Technicus service en onderhoud werktuigkundige installaties | 4 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25312 | Tekenaar constructeur | 4 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25313 | Tekenaar ontwerper elektrotechniek | 4 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25314 | Tekenaar ontwerper werktuigkundige installaties | 4 | BOL/BBL |
@@ -219,5 +190,42 @@ Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 | 23278 | **Maritiem officier** | 25681 | Maritiem officier alle schepen nautisch, waterbouw | 4 | BOL/BBL |
 | 23278 | **Maritiem officier** | 25682 | Maritiem officier alle schepen nautisch, visserij | 4 | BOL/BBL |
 | 23278 | **Maritiem officier** | 25683 | Maritiem officier alle schepen technisch | 4 | BOL/BBL |
+| 23006 | Kaderfunctie Afbouw, Onderhoud en Interieur | 25013 | Vastgoedadviseur | 4 | BOL/BBL |
+| 23050 | Grond-, water- en wegenbouw | 25091 | Allround vakman gww | 3 | BOL/BBL |
+| 23107 | Verbrandingsmotor-techniek | 25236 | Eerste Verbrandingsmotortechnicus | 3 | BOL/BBL |
+| 23111 | Elektrotechnische systemen en installaties | 25263 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | BOL/BBL |
+| 23127 | Elektrotechnische Installaties | 25332 | Eerste monteur elektrotechnische installaties in de gebouwde omgeving | 3 | BOL/BBL |
+| 23006 | Kaderfunctie Afbouw, Onderhoud en Interieur | 25013 | Vastgoedadviseur | 4 | BOL/BBL |
+| 23006 | Kaderfunctie Afbouw, Onderhoud en Interieur | 25014 | Uitvoerder | 4 | BOL/BBL |
+| 23050 | Grond-, water- en wegenbouw | 25091 | Allround vakman gww | 3 | BOL/BBL |
+| 23050 | Grond-, water- en wegenbouw | 25092 | Allround waterbouwer | 3 | BOL/BBL |
+| 23050 | Grond-, water- en wegenbouw | 25094 | Balkman | 3 | BOL/BBL |
+| 23050 | Grond-, water- en wegenbouw | 25096 | Straatmaker | 3 | BOL/BBL |
+| 23052 | Metselen | 25102 | Allround Metselaar | 3 | BOL/BBL |
+| 23056 | Tegelzetten | 25116 | Allround tegelzetter | 3 | BOL/BBL |
+| 23057 | Timmeren | 25118 | Allround timmerman | 3 | BOL/BBL |
+| 23104 | Autospuiten | 25229 | Eerste Autospuiter | 3 | BOL/BBL |
+| 23107 | Verbrandingsmotortechniek | 25237 | Technisch Specialist Verbrandingsmotoren | 4 | BOL/BBL |
+| 23107 | Verbrandingsmotor-techniek | 25236 | Eerste Verbrandingsmotortechnicus | 3 | BOL/BBL |
+| 23111 | Elektrotechnische systemen en installaties | 25262 | Technicus elektrotechnische industriële installaties en systemen | 4 | BOL/BBL |
+| 23111 | Elektrotechnische systemen en installaties | 25263 | Technicus elektrotechnische installaties in de gebouwde omgeving | 4 | BOL/BBL |
+| 23114 | Infratechniek | 25266 | Eerste monteur datadistributie | 3 | BOL/BBL |
+| 23114 | Infratechniek | 25267 | Eerste monteur gas-, water- of warmtedistributie | 3 | BOL/BBL |
+| 23114 | Infratechniek | 25269 | Eerste monteur laagspanningsdistributie | 3 | BOL/BBL |
+| 23114 | Infratechniek | 25270 | Eerste monteur middenspanning-distributie | 3 | BOL/BBL |
+| 23121 | Procestechniek | 25303 | Operator C | 4 | BOL/BBL |
+| 23122 | Service- en onderhoudstechniek | 25304 | Eerste monteur service en onderhoud elektrotechniek en instrumentatie | 3 | BOL/BBL |
+| 23122 | Service- en onderhoudstechniek | 25305 | Eerste monteur service en onderhoud gasturbines | 3 | BOL/BBL |
+| 23122 | Service- en onderhoudstechniek | 25306 | Eerste monteur service en onderhoud werktuigbouw | 3 | BOL/BBL |
+| 23122 | Service- en onderhoudstechniek | 25309 | Technicus service en onderhoud elektrotechniek en instrumentatie | 4 | BOL/BBL |
+| 23122 | Service- en onderhoudstechniek | 25310 | Technicus service en onderhoud werktuigbouw | 4 | BOL/BBL |
+| 23122 | Service- en onderhoudstechniek | 25311 | Technicus service en onderhoud werktuigkundige installaties | 4 | BOL/BBL |
+| 23127 | Elektrotechnische Installaties | 25331 | Eerste monteur elektrotechnische industriële installaties en systemen | 3 | BOL/BBL |
+| 23127 | Elektrotechnische Installaties | 25332 | Eerste monteur elektrotechnische installaties in de gebouwde omgeving | 3 | BOL/BBL |
+| 23129 | Industriële processen | 25336 | Mechanisch operator B | 3 | BOL/BBL |
+| 23129 | Industriële processen | 25338 | Procesoperator B | 3 | BOL/BBL |
+| 23133 | Werktuigkundige Installaties (Montage) | 25347 | Eerste Monteur dakbedekking | 3 | BOL/BBL |
+| 23133 | Werktuigkundige Installaties (Montage) | 25348 | Eerste monteur utiliteit | 3 | BOL/BBL |
+| 23133 | Werktuigkundige Installaties (Montage) | 25349 | Eerste monteur woning | 3 | BOL/BBL |
 
 Deze regeling zal met de bijlage alsmede de toelichting in de Staatscourant worden geplaatst.
