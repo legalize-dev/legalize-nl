@@ -4,7 +4,7 @@ identifier: "BWBR0031801"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-03-16"
-last_updated: "2021-08-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031801"
 soort: "ministeriele-regeling-BES"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), of in [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
+- **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), of in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
 - **onderwijsinstelling:** een bekostigde school of een expertisecentrum onderwijszorg als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) of in [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), dan wel een instelling of een expertisecentrum onderwijszorg als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
@@ -74,7 +74,7 @@ De jaarverslaggeving, inclusief de jaarrekening, wordt ingericht en ingediend ov
 
 7. Ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, blijft het model van de bijlage, onder A, beperkt tot die posten waarvoor die toerekening wel mogelijk is.
 
-8. Aan het jaarverslag wordt een onderdeel toegevoegd waarin het bevoegd gezag met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&bijlage=2&z=2021-08-01&g=2021-08-01) bij deze regeling opgenomen set gegevens en de daarbij behorende toelichting de resultaten van het financiële beleid over het verslagjaar aangeeft. Daarnaast rapporteert het bevoegd gezag in dit onderdeel in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage omvat ook het risicomanagement en het interne toezicht.
+8. Aan het jaarverslag wordt een onderdeel toegevoegd waarin het bevoegd gezag met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&bijlage=2&z=2022-08-01&g=2022-08-01) bij deze regeling opgenomen set gegevens en de daarbij behorende toelichting de resultaten van het financiële beleid over het verslagjaar aangeeft. Daarnaast rapporteert het bevoegd gezag in dit onderdeel in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage omvat ook het risicomanagement en het interne toezicht.
 
 ##### Artikel 4. Bestuursverslag
 
@@ -144,7 +144,7 @@ Set gegevens voor de continuïteitsparagraaf, voor zover van toepassing
 
 ### A. Gegevensset
 
-### Balans
+### A. Gegevensset
 
 Met onderverdeling naar VASTE ACTIVA (uitgesplitst naar Immateriële VA, Materiële VA en Financiële VA), VLOTTENDE ACTIVA, EIGEN VERMOGEN (uitgesplitst naar Algemene reserve, Bestemmingsreserve publiek, Bestemmingsreserve privaat, Bestemmingsfonds publiek en Bestemmingsfonds privaat), VOORZIENINGEN, LANGLOPENDE SCHULDEN en KORTLOPENDE SCHULDEN
 
@@ -156,11 +156,11 @@ In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwik
 
 De BATEN, uitgesplitst naar Rijksbijdrage, Overige overheidsbijdragen en subsidies en Overige baten.
 
+De BATEN, uitgesplitst naar Rijksbijdrage, Overige overheidsbijdragen en subsidies en Overige baten.
+
 De LASTEN, uitgesplitst naar Personeelslasten, Afschrijvingen, Huisvestingslasten en Overige lasten.
 
 Het Saldo Baten en lasten, Saldo financiële bedrijfsvoering, Saldo buitengewone baten en lasten.
-
-Totaal resultaat en Incidentele baten en lasten in totaal resultaat.
 
 ### Toelichting
 
@@ -168,7 +168,7 @@ In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwik
 
 ### B. Overige rapportages
 
-### B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.
+### B. Overige rapportages
 
 In deze rapportage geeft het bestuur aan op welke wijze het interne risicobeheersingssysteem is ingericht en hoe dit in de praktijk functioneert. Daarbij wordt aangegeven welke resultaten hiermee zijn bereikt en welke aanpassingen eventueel worden doorgevoerd in de komende jaren.
 
@@ -176,7 +176,7 @@ In deze rapportage geeft het bestuur aan op welke wijze het interne risicobeheer
 
 In deze rapportage geeft het bestuur aan voor welke risico’s en onzekerheden zij zich in de komende jaren ziet geplaatst en op welke wijze zij passende maatregelen treft om aan deze risico’s en onzekerheden het hoofd te bieden.
 
-Waar nodig en relevant wordt dit aangevuld met een cijfermatige toelichting.
+In deze rapportage geeft het bestuur aan voor welke risico’s en onzekerheden zij zich in de komende jaren ziet geplaatst en op welke wijze zij passende maatregelen treft om aan deze risico’s en onzekerheden het hoofd te bieden.
 
 ### B3. Rapportage toezichthoudend orgaan.
 
@@ -187,5 +187,49 @@ In deze rapportage, onderdeel van het jaarverslag, geeft het toezichthoudend org
 ### Model Jaarrekening
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a. Omhang
+
+Deze regeling is mede gebaseerd op [artikel 6.19, zesde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.19).
+
+## Bijlage 1. behorende bij de Regeling jaarverslaggeving onderwijs BES
+
+### Model Jaarrekening
+
+## Bijlage 2. behorende bij de Regeling jaarverslaggeving onderwijs BES
+
+### Bijlage bij [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&artikel=3&z=2022-08-01&g=2022-08-01)
+
+Set gegevens voor de continuïteitsparagraaf, voor zover van toepassing
+
+### Balans
+
+Met onderverdeling naar VASTE ACTIVA (uitgesplitst naar Immateriële VA, Materiële VA en Financiële VA), VLOTTENDE ACTIVA, EIGEN VERMOGEN (uitgesplitst naar Algemene reserve, Bestemmingsreserve publiek, Bestemmingsreserve privaat, Bestemmingsfonds publiek en Bestemmingsfonds privaat), VOORZIENINGEN, LANGLOPENDE SCHULDEN en KORTLOPENDE SCHULDEN
+
+### Toelichting
+
+In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om verwachte ontwikkelingen in
+
+### Staat / Raming van Baten en Lasten
+
+Totaal resultaat en Incidentele baten en lasten in totaal resultaat.
+
+### Toelichting
+
+In de toelichting bij deze posten geeft het bestuur aan welke belangrijke ontwikkelingen zij verwacht. Het gaat daarbij om de financiële gevolgen van de ontwikkelingen in
+
+### B1. Rapportage aanwezigheid en werking van het interne risicobeheersings- en controlesysteem.
+
+In deze rapportage geeft het bestuur aan op welke wijze het interne risicobeheersingssysteem is ingericht en hoe dit in de praktijk functioneert. Daarbij wordt aangegeven welke resultaten hiermee zijn bereikt en welke aanpassingen eventueel worden doorgevoerd in de komende jaren.
+
+### B2. Beschrijving van de belangrijkste risico’s en onzekerheden
+
+Waar nodig en relevant wordt dit aangevuld met een cijfermatige toelichting.
+
+### B3. Rapportage toezichthoudend orgaan.
+
+In deze rapportage, onderdeel van het jaarverslag, geeft het toezichthoudend orgaan aan op welke wijze zij het bestuur ondersteunt en/of adviseert over de beleidsvraagstukken en de financiële problematiek.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
