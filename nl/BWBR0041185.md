@@ -4,7 +4,7 @@ identifier: "BWBR0041185"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2018-07-24"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041185"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - **instelling:**
 
-- a. school als bedoeld in [artikel 1 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1), [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- a. school als bedoeld in [artikel 1 van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1), [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - b. exameninstelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1); en
 
@@ -102,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 4. De inspectie stelt de teksten van het verslag tijdig aan het ministerie ter beschikking ten behoeve van een controle op de in het verslag opgenomen feiten en ten behoeve van de voorbereiding op ambtelijk niveau van een volledige en adequate beleidsreactie van de Minister. Ten minste zes weken voor het tijdstip van verzending van het verslag aan de Staten-Generaal stelt de inspectie de integrale tekst van het verslag aan het ministerie ter beschikking.
 
-5. Ten minste acht weken voor het tijdstip van verzending, bedoeld in het vierde lid, informeert de inspectie de Minister over de belangrijkste bevindingen uit het verslag. In het regulier overleg, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041185&hoofdstuk=4&artikel=15&z=2018-07-24&g=2018-07-24), worden afspraken gemaakt over de presentatie van het verslag en de beleidsreactie.
+5. Ten minste acht weken voor het tijdstip van verzending, bedoeld in het vierde lid, informeert de inspectie de Minister over de belangrijkste bevindingen uit het verslag. In het regulier overleg, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041185&hoofdstuk=4&artikel=15&z=2022-08-01&g=2022-08-01), worden afspraken gemaakt over de presentatie van het verslag en de beleidsreactie.
 
 6. Ten minste twee weken voor het tijdstip van verzending, bedoeld in het vierde lid, ontvangt de Minister het definitieve verslag. Het verslag is geheim tot aan het tijdstip van de verzending aan de Staten-Generaal.
 
