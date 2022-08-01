@@ -4,7 +4,7 @@ identifier: "BWBR0046401"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2022-04-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046401"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvullende bekostiging praktijkonderwijs:** aanvullende bekostiging als bedoeld in [artikel 82, eerste lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=82) of aanvullende middelen als bedoeld in [artikel 2.2.3, eerste lid, onderdeel b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
+- **aanvullende bekostiging praktijkonderwijs:** aanvullende bekostiging als bedoeld in [artikel 5.9, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) of aanvullende middelen als bedoeld in [artikel 2.2.3, eerste lid, onderdeel b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
 
 - **aanvullende bekostiging voortgezet speciaal onderwijs:** aanvullende bekostiging als bedoeld in [artikel 117, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117);
 
 - **arbeidsmarktgerichte uitstroomprofiel:** uitstroomprofiel als bedoeld in [artikel 14, eerste lid, onderdeel b, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **school voor praktijkonderwijs:** school voor praktijkonderwijs als bedoeld in [artikel 10f, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f);
+- **school voor praktijkonderwijs:** school voor praktijkonderwijs als bedoeld in [artikel 2.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
 - **school voor voortgezet speciaal onderwijs:** school, dan wel instelling, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs voor zover het betreft het daaraan verzorgde voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+- **WVO 2020**: [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Aanvullende bekostiging voortgezet speciaal onderwijs
 
@@ -80,17 +80,17 @@ In deze regeling wordt verstaan onder:
 
 2. De aanvullende bekostiging, bedoeld in het eerste lid, wordt bepaald door het leerlingenaantal, voor zover het leerlingen in het praktijkonderwijs betreft, te vermenigvuldigen met een bedrag per leerling.
 
-3. Het leerlingenaantal wordt vastgesteld overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=9) en [10, tweede lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=10) op teldatum 1 oktober 2021.
+3. Het leerlingenaantal wordt vastgesteld overeenkomstig de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.8) en [6.9 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.9) op teldatum 1 oktober 2021.
 
 4. Het bedrag per leerling, bedoeld in het tweede lid, bedraagt € 22,26.
 
-5. [Artikel 99 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=99) is van overeenkomstige toepassing, met dien verstande dat de aanvullende bekostiging praktijkonderwijs zowel kan worden aangewend voor voorzieningen in de huisvesting, als voor personeels- of exploitatiekosten.
+5. [Artikel 5.39 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.39) is van overeenkomstige toepassing, met dien verstande dat de aanvullende bekostiging praktijkonderwijs zowel kan worden aangewend voor voorzieningen in de huisvesting, als voor personeels- of exploitatiekosten.
 
 ##### Artikel 4. Vaststelling en betaling
 
-1. De minister stelt de bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046401&artikel=2&z=2022-04-01&g=2022-04-01), uiterlijk in mei 2022 ambtshalve vast. De Minister betaalt het bedrag van bekostiging ineens uiterlijk in mei 2022.
+1. De minister stelt de bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046401&artikel=2&z=2022-08-01&g=2022-08-01), uiterlijk in mei 2022 ambtshalve vast. De Minister betaalt het bedrag van bekostiging ineens uiterlijk in mei 2022.
 
-2. De minister stelt de bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046401&artikel=3&z=2022-04-01&g=2022-04-01), uiterlijk in mei 2022 ambtshalve vast op basis van de voorlopige telling op 1 oktober 2021 en stelt deze uiterlijk in december 2022 ambtshalve gewijzigd vast op basis van de definitieve telling op 1 oktober 2021. De minister betaalt het bedrag van bekostiging ineens uiterlijk in mei 2022 en wijzigt het bedrag van bekostiging ineens uiterlijk in december 2022 indien de definitieve telling daartoe aanleiding geeft.
+2. De minister stelt de bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046401&artikel=3&z=2022-08-01&g=2022-08-01), uiterlijk in mei 2022 ambtshalve vast op basis van de voorlopige telling op 1 oktober 2021 en stelt deze uiterlijk in december 2022 ambtshalve gewijzigd vast op basis van de definitieve telling op 1 oktober 2021. De minister betaalt het bedrag van bekostiging ineens uiterlijk in mei 2022 en wijzigt het bedrag van bekostiging ineens uiterlijk in december 2022 indien de definitieve telling daartoe aanleiding geeft.
 
 ##### Artikel 5. Verantwoording aanvullende bekostiging
 
@@ -104,12 +104,12 @@ De besteding van de aanvullende bekostiging op grond van deze regeling wordt ver
 
 ##### Artikel 7. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling bijzondere en aanvullende bekostiging voor aanpak jeugdwerkloosheid als gevolg van de coronacrisis 2022.
+Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging voor aanpak jeugdwerkloosheid als gevolg van de coronacrisis 2022.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a. Omhangbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling is mede gebaseerd op [artikel 117, tweede en derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117) en [artikel 5.9, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
