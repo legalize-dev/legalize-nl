@@ -4,7 +4,7 @@ identifier: "BWBR0045020"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-08-01"
-last_updated: "2021-08-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045020"
 soort: "AMvB-BES"
@@ -66,25 +66,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **deelcertificaat:** een certificaat voor een vak;
 
-- **praktijkonderwijs:** praktijkonderwijs als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=13&z=2021-08-01&g=2021-08-01);
+- **praktijkonderwijs:** praktijkonderwijs als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=13&z=2022-08-01&g=2022-08-01);
 
 - **ERK-niveaus:** niveaus, overeenkomstig het Europees Referentiekader voor moderne vreemde talen, van beheersing van de Nederlandse taal, waarmee de beheersing van de Nederlandse taal door de leerlingen aan het einde van een onderwijssoort kan worden vergeleken, zoals opgenomen in de bijlage bij dit besluit;
 
-- **ROA CN:** de Raad onderwijs arbeidsmarkt, bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1);
+- **ROA CN:** de Raad onderwijs arbeidsmarkt, bedoeld in [artikel 11.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.1);
 
 - **school:** de Gwendoline van Puttenschool of de Saba Comprehensive School;
 
-- **wet:** de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284).
+- **wet:** de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Aanwijzing
 
-De Gwendoline van Puttenschool en de Saba Comprehensive School worden aangewezen als inrichting als bedoeld in [artikel 117, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=117).
+De Gwendoline van Puttenschool en de Saba Comprehensive School worden aangewezen als inrichting als bedoeld in [artikel 2.86, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.86).
 
-##### Artikel 3. Reikwijdte en bekostigingsvoorwaarden
+##### Artikel 3. Bekostigingsvoorwaarden
 
-1. Het bij of krachtens de wet bepaalde in [titel II, afdeling I, artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=7), [hoofdstuk I, de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=8), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=10), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=12a), [13 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=13), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=45), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=61), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=72), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=73), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=74), [77 tot en met 89](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=77), [92](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=92) en [93](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=93), [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&hoofdstuk=II), [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&hoofdstuk=IV), [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&afdeling=II), de [artikelen 110 tot en met 115](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=110), en [afdeling III](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&afdeling=III), is niet op de scholen van toepassing, behoudens voor zover daarvan bij dit besluit wordt afgeweken.
-
-2. Onverminderd het bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284) bepaalde, zijn de bepalingen in dit besluit voorwaarden voor bekostiging.
+Onverminderd het bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) bepaalde, zijn de bepalingen in dit besluit voorwaarden voor bekostiging.
 
 ### Hoofdstuk 2. Onderwijs
 
@@ -124,7 +122,7 @@ Het bevoegd gezag leeft de regels na die CXC stelt met betrekking tot:
 
 3. Het bevoegd gezag stelt voor de school een gedragscode vast voor het gebruik van een andere taal dan het Engels bij het geven van onderwijs in de gevallen, bedoeld in het tweede lid, onderdelen b en c. De gedragscode wordt aan de inspectie gestuurd.
 
-4. In afwijking van [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=10) is de aandacht voor de bestrijding van taalachterstanden in het bijzonder gericht op de beheersing van de Engelse taal.
+4. In afwijking van [artikel 2.34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.34) is de aandacht voor de bestrijding van taalachterstanden in het bijzonder gericht op de beheersing van de Engelse taal.
 
 ##### Artikel 7. Onderwijs in het vak Nederlands
 
@@ -152,37 +150,37 @@ Het bevoegd gezag leeft de regels na die CXC stelt met betrekking tot:
 
 ##### Artikel 8. Onderwijsprogramma in de eerste drie leerjaren
 
-In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderwijsprogramma ingericht, dat is gebaseerd op CCSLC onderwijs, het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01), omvat, en dat, met behoud van keuzevrijheid, de doorstroming van de leerlingen naar CSEC onderwijs of CVQ onderwijs bevordert.
+In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderwijsprogramma ingericht, dat is gebaseerd op CCSLC onderwijs, het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), omvat, en dat, met behoud van keuzevrijheid, de doorstroming van de leerlingen naar CSEC onderwijs of CVQ onderwijs bevordert.
 
 ##### Artikel 9. Onderwijs CSEC
 
-1. CSEC onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-08-01&g=2021-08-01), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs.
+1. CSEC onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2022-08-01&g=2022-08-01), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs.
 
-2. Het onderwijs omvat het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01), en ten minste vijf CSEC vakken, waaronder in ieder geval:
+2. Het onderwijs omvat het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), en ten minste vijf CSEC vakken, waaronder in ieder geval:
 
 - a. English language and literature; en
 
 - b. Mathematics.
 
-3. Het onderwijs omvat, samen met het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-08-01&g=2021-08-01), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
+3. Het onderwijs omvat, samen met het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2022-08-01&g=2022-08-01), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
 
 ##### Artikel 10. Onderwijs CVQ
 
-1. CVQ onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-08-01&g=2021-08-01), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs of op het uitoefenen van een beroep, waarvoor een beroepskwalificerende opleiding is vereist of dienstig kan zijn.
+1. CVQ onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2022-08-01&g=2022-08-01), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs of op het uitoefenen van een beroep, waarvoor een beroepskwalificerende opleiding is vereist of dienstig kan zijn.
 
-2. Het onderwijs omvat, samen met onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2021-08-01&g=2021-08-01), en het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
+2. Het onderwijs omvat, samen met onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2022-08-01&g=2022-08-01), en het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
 
 ##### Artikel 11. Buitenschools praktijkgedeelte CVQ
 
 1. Ten minste een vijfde deel van het CVQ onderwijs is onderricht in de praktijk van het beroep.
 
-2. Op het buitenschoolse praktijkgedeelte CVQ onderwijs zijn de [artikelen 20 tot en met 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=20) van overeenkomstige toepassing.
+2. Op het buitenschoolse praktijkgedeelte CVQ onderwijs zijn de [artikelen 11.30](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.30), [11.31](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.31), [11.58](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.58), en [2.103, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.103) en [artikel 2.64 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.64) van overeenkomstige toepassing.
 
 3. De wijze waarop het buitenschoolse praktijkgedeelte binnen de CVQ opleidingen wordt ingericht, wordt opgenomen in het schoolplan.
 
 ##### Artikel 12. Onderwijs CAPE
 
-1. CAPE onderwijs is het onderwijs, volgend op het CSEC onderwijs, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=9&z=2021-08-01&g=2021-08-01), dat is ingericht ter voorbereiding op wetenschappelijk onderwijs.
+1. CAPE onderwijs is het onderwijs, volgend op het CSEC onderwijs, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=9&z=2022-08-01&g=2022-08-01), dat is ingericht ter voorbereiding op wetenschappelijk onderwijs.
 
 2. Het onderwijs omvat ten minste zes CAPE vakken, waaronder in ieder geval:
 
@@ -204,7 +202,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 2. Het onderwijs bestaat uit een gedeelte waarin aangepast theoretisch onderwijs, persoonlijkheidsvorming en het aanleren van sociale vaardigheden worden verzorgd, en een gedeelte waarin de leerling wordt voorbereid op het uitoefenen van functies op de arbeidsmarkt op een niveau dat ligt onder het niveau van CVQ 1.
 
-3. Het onderwijs sluit zo veel mogelijk aan bij de inhoud van CVQ 1. [Artikel 31, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=31), en de [artikelen 30 tot en met 34 van het Inrichtingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029589&artikel=30), zijn van overeenkomstige toepassing.
+3. Het onderwijs sluit zo veel mogelijk aan bij de inhoud van CVQ 1. [Artikel 2.38, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) en de [artikelen 2.34 tot en met 2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.34) en [2.39 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.39), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Toelating, schorsing en verwijdering
 
@@ -212,7 +210,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 1. Met in achtneming van de regels van CXC beslist het bevoegd gezag tot welke vorm van onderwijs en tot welk leerjaar de leerling wordt toegelaten op grond van criteria die in de schoolgids worden opgenomen.
 
-2. Aan de ouders van een leerling van wie het bevoegd gezag redelijkerwijs kan aannemen dat deze niet in staat is onderwijs CSEC of CVQ 2 met een certificaat af te sluiten, kan het bevoegd gezag voorstellen deze leerling in plaats daarvan praktijkonderwijs te doen volgen. Het [tweede en het derde lid van artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=32) zijn van overeenkomstige toepassing.
+2. Aan de ouders van een leerling van wie het bevoegd gezag redelijkerwijs kan aannemen dat deze niet in staat is onderwijs CSEC of CVQ 2 met een certificaat af te sluiten, kan het bevoegd gezag voorstellen deze leerling in plaats daarvan praktijkonderwijs te doen volgen. Het [tweede en derde lid van artikel 11.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.8) zijn van overeenkomstige toepassing.
 
 ##### Artikel 15. Ontheffing onderdelen onderwijsprogramma
 
@@ -242,7 +240,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 2. Binnen zes weken na de bekendmaking kunnen belanghebbenden bezwaar maken bij het bevoegd gezag.
 
-3. Het bevoegd gezag beslist in overeenstemming met [artikel 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=64) binnen vier weken na ontvangst van het bezwaarschrift, doch niet eerder dan nadat de kandidaat-leerling, onderscheidenlijk de leerling en, indien deze nog niet meerderjarig is, ook diens ouders, voogden of verzorgers, in de gelegenheid is, onderscheidenlijk zijn gesteld, te worden gehoord en kennis heeft onderscheidenlijk hebben kunnen nemen van de op die besluiten betrekking hebbende adviezen of rapporten.
+3. Het bevoegd gezag beslist in overeenstemming met [artikel 8.8, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.8) binnen vier weken na ontvangst van het bezwaarschrift, doch niet eerder dan nadat de kandidaat-leerling, onderscheidenlijk de leerling en, indien deze nog niet meerderjarig is, ook diens ouders, voogden of verzorgers, in de gelegenheid is, onderscheidenlijk zijn gesteld, te worden gehoord en kennis heeft onderscheidenlijk hebben kunnen nemen van de op die besluiten betrekking hebbende adviezen of rapporten.
 
 4. Het bevoegd gezag kan de desbetreffende leerling, gedurende de behandeling van het bezwaar tegen een besluit tot definitieve verwijdering de toegang tot de school ontzeggen.
 
@@ -296,19 +294,19 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 ##### Artikel 23. Schooldiploma praktijkonderwijs
 
-[Artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=73) is van overeenkomstige toepassing op het praktijkonderwijs.
+[Artikel 2.58, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58) is van overeenkomstige toepassing op het praktijkonderwijs.
 
 ##### Artikel 24. Schooldiploma
 
 1. De directeur reikt een schooldiploma uit aan de leerling die:
 
-- a. zes vakken voor CAPE met de grades I, II of III heeft afgelegd en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01), een cijfer 6,0 of hoger heeft behaald;
+- a. zes vakken voor CAPE met de grades I, II of III heeft afgelegd en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), een cijfer 6,0 of hoger heeft behaald;
 
-- b. zes vakken voor CSEC met de grades I, II of III heeft afgelegd en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01), een cijfer 6,0 of hoger heeft behaald;
+- b. zes vakken voor CSEC met de grades I, II of III heeft afgelegd en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), een cijfer 6,0 of hoger heeft behaald;
 
-- c. vijf vakken voor CSEC heeft afgelegd met een andere combinatie van grades, dan genoemd in onderdeel b, en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01), een cijfer 6,0 of hoger heeft behaald; of
+- c. vijf vakken voor CSEC heeft afgelegd met een andere combinatie van grades, dan genoemd in onderdeel b, en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), een cijfer 6,0 of hoger heeft behaald; of
 
-- d. het certificaat CVQ 2 heeft verkregen en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01), een cijfer 6,0 of hoger heeft behaald.
+- d. het certificaat CVQ 2 heeft verkregen en voor het examen in het verdiepende vak Nederlands, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), een cijfer 6,0 of hoger heeft behaald.
 
 2. Bij ministeriële regeling worden de modellen voor de schooldiploma’s vastgesteld.
 
@@ -316,11 +314,11 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=1) worden aangewezen:
 
-- a. het certificaat CSEC, bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=20&z=2021-08-01&g=2021-08-01);
+- a. het certificaat CSEC, bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=20&z=2022-08-01&g=2022-08-01);
 
-- b. een certificaat CVQ, bedoeld in [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=21&z=2021-08-01&g=2021-08-01), op niveau 2; en
+- b. een certificaat CVQ, bedoeld in [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=21&z=2022-08-01&g=2022-08-01), op niveau 2; en
 
-- c. het diploma CAPE, bedoeld in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=22&z=2021-08-01&g=2021-08-01).
+- c. het diploma CAPE, bedoeld in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=4&artikel=22&z=2022-08-01&g=2022-08-01).
 
 ### Hoofdstuk 5. Bekostiging
 
@@ -352,15 +350,9 @@ Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](htt
 
 1. Het bevoegd gezag draagt er zorg voor dat aan de school een aantal leraren is verbonden dat nodig is om onderwijs van voldoende kwaliteit te bieden.
 
-2. Om aan de school verbonden te worden is de leraar benoembaar overeenkomstig [artikel 80, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=80) of is deze blijkens een ander getuigschrift bekwaam om onderwijs van voldoende kwaliteit te geven. Voorts is deze leraar:
+2. Het bevoegd gezag legt ten aanzien van elke leraar vast over welke opleiding en ervaring deze beschikt. Een overzicht wordt op diens verzoek aan de inspectie overgelegd.
 
-- a. in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258), die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan zes maanden; en
-
-- b. niet krachtens rechterlijke uitspraak van het geven van onderwijs zijn uitgesloten.
-
-3. Het bevoegd gezag legt ten aanzien van elke leraar vast over welke opleiding en ervaring deze beschikt. Een overzicht wordt op diens verzoek aan de inspectie overgelegd.
-
-4. Het bevoegd gezag benoemt, schorst en ontslaat de leraar in algemene dienst.
+3. Het bevoegd gezag benoemt, schorst en ontslaat de leraar in algemene dienst.
 
 ##### Artikel 28. Directeur en overig personeel
 
@@ -368,7 +360,7 @@ Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](htt
 
 2. Het overige personeel heeft tot taak het onderwijs te ondersteunen of de directeur bij te staan.
 
-3. [Artikel 27, tweede lid, onderdelen a en b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=6&artikel=27&z=2021-08-01&g=2021-08-01), zijn op de directeur en het overige personeel van overeenkomstige toepassing.
+3. [Artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=6&artikel=27&z=2022-08-01&g=2022-08-01), zijn op de directeur en het overige personeel van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -378,9 +370,9 @@ Het [Tijdelijk besluit Saba Comprehensive School en Gwendoline van Puttenschool 
 
 ##### Artikel 30. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01), terug tot en met 1 augustus 2020.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), terug tot en met 1 augustus 2020.
 
-2. [Artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01), treedt in werking met ingang van 1 augustus 2021.
+2. [Artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), treedt in werking met ingang van 1 augustus 2021.
 
 ##### Artikel 31. Citeertitel
 
@@ -389,5 +381,19 @@ Dit besluit wordt aangehaald als: Besluit Saba Comprehensive School en Gwendolin
 ## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=1&artikel=1&z=2021-08-01&g=2021-08-01)
 
 ### Beschrijving van de ERK niveaus van het basisvak en het verdiepende vak Nederlands, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 28a. Toepassing [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787)
+
+Het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787) is niet van toepassing, behoudens de bepalingen die betrekking hebben op het praktijkonderwijs en het buitenschoolse praktijkgedeelte.
+
+##### Artikel 28b. Omhangbepaling
+
+Dit besluit berust mede op [artikel 2.86 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.86).
+
+## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=1&artikel=1&z=2022-08-01&g=2022-08-01)
+
+### Beschrijving van de ERK niveaus van het basisvak en het verdiepende vak Nederlands, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
