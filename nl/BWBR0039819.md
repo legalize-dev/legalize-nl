@@ -4,7 +4,7 @@ identifier: "BWBR0039819"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2022-07-23"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039819"
 soort: "ministeriele-regeling"
@@ -50,23 +50,23 @@ In deze regeling wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** adviescommissie, bedoeld in [artikel 64c, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [artikel 66c, derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c), [artikel 53h, vierde lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53h), [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8), en [artikel 16.16b, derde lid van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b);
+- b. **commissie:** adviescommissie, bedoeld in [artikel 64c, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [artikel 66c, derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c), [artikel 3.30, zesde lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30), [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8), en [artikel 16.16b, derde lid van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b);
 
 - c. **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
 - d. **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- e. **WVO:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- e. **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
 - f. **WEB:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
 - g. **WHW:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- h. **school:** school als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
+- h. **school:** school als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) en [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - i. **instelling:** instelling als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) en [artikel 1.8 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
 
-- j. **fusie:** fusie als bedoeld in [artikel 64 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64), [artikel 66 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66), [artikel 53e van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53e), [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 16.16 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16);
+- j. **fusie:** fusie als bedoeld in [artikel 64 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64), [artikel 66 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66), [artikel 3.30 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30), [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), en [artikel 16.16 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16);
 
 - k. **mbo-student:** student als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
@@ -76,17 +76,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Aanvraag
 
-1. Het modelformulier voor de aanvraag wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=1&z=2022-07-23&g=2022-07-23). Voor de aanvraag kan tevens het digitale aanvraagformulier van de website van de Dienst Uitvoering Onderwijs worden gebruikt. Dit is te vinden op: https://www.duo.nl/zakelijk/formulieren/.
+1. Het modelformulier voor de aanvraag wordt vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=1&z=2022-08-01&g=2022-08-01). Voor de aanvraag kan tevens het digitale aanvraagformulier van de website van de Dienst Uitvoering Onderwijs worden gebruikt. Dit is te vinden op: https://www.duo.nl/zakelijk/formulieren/.
 
-2. Het modelformulier voor de fusie-effectrapportage wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=2&z=2022-07-23&g=2022-07-23).
+2. Het modelformulier voor de fusie-effectrapportage wordt vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&bijlage=2&z=2022-08-01&g=2022-08-01).
 
-3. De aanvraag en daarbij behorende stukken, bedoeld in [artikel 64b, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64b), [artikel 66b, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66b), [artikel 53g, eerste lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53g), [artikel 2.1.7, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.7) of [artikel 16.16a, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16a), worden ingediend bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+3. De aanvraag en daarbij behorende stukken, bedoeld in [artikel 64b, eerste lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64b), [artikel 66b, eerste lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66b), [artikel 3.31, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.31), [artikel 2.1.7, eerste lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.7) of [artikel 16.16a, tweede lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16a), worden ingediend bij de Dienst Uitvoering Onderwijs van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 3. Advisering
 
-1. De noodzaak tot advisering ten aanzien van de goedkeuring, bedoeld in [artikel 64c, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [artikel 53h, derde lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53h) en [artikel 66c, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c), en voor bestuursoverdrachten als bedoeld in [artikel 17 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17), [artikel 53c van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53c), of [artikel 28 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28), ontbreekt.
+1. De noodzaak tot advisering ten aanzien van de goedkeuring, bedoeld in [artikel 64c, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [artikel 3.30, vijfde lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30) en [artikel 66c, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c), en voor bestuursoverdrachten als bedoeld in [artikel 17 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=17), [artikel 3.16 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.16), of [artikel 28 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28), ontbreekt.
 
-2. Fusies waarbij zowel een school als bedoeld in [art. 1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), als een instelling als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), of een instelling voor hoger onderwijs als bedoeld in [artikel 1.1, onderdeel g, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), is betrokken, worden voor advies voorgelegd aan de commissie als bedoeld in [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8) of als bedoeld in [artikel 16.16b, derde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b).
+2. Fusies waarbij zowel een school als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), als een instelling als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), of een instelling voor hoger onderwijs als bedoeld in [artikel 1.1, onderdeel g, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), is betrokken, worden voor advies voorgelegd aan de commissie als bedoeld in [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8) of als bedoeld in [artikel 16.16b, derde lid, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.16b).
 
 ##### Artikel 4. Noodzaak tot advisering
 
@@ -98,7 +98,7 @@ Vervallen
 
 ##### Artikel 5. Toetscriteria
 
-Bij het advies, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=3&z=2022-07-23&g=2022-07-23), en in [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8), onderzoekt de commissie of sprake is van een significante belemmering van de daadwerkelijke variatie in het onderwijsaanbod, bedoeld in artikel 2.1.8, eerste lid, van de WEB, waarbij de commissie in haar advies ten aanzien van de goedkeuring in ieder geval de volgende aspecten betrekt bij de afweging of er sprake is van een significante belemmering:
+Bij het advies, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=3&z=2022-08-01&g=2022-08-01), en in [artikel 2.1.8, tweede lid, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8), onderzoekt de commissie of sprake is van een significante belemmering van de daadwerkelijke variatie in het onderwijsaanbod, bedoeld in artikel 2.1.8, eerste lid, van de WEB, waarbij de commissie in haar advies ten aanzien van de goedkeuring in ieder geval de volgende aspecten betrekt bij de afweging of er sprake is van een significante belemmering:
 
 - a. de regionale context, waaronder begrepen leerlingendaling;
 
@@ -128,7 +128,7 @@ In het hoger onderwijs is in ieder geval sprake van een significante belemmering
 
 ##### Artikel 7. Rechtvaardigingsgronden
 
-Rechtvaardigingsgronden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=3&paragraaf=2&artikel=6&z=2022-07-23&g=2022-07-23), kunnen in het hoger onderwijs in ieder geval zijn:
+Rechtvaardigingsgronden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=3&paragraaf=2&artikel=6&z=2022-08-01&g=2022-08-01), kunnen in het hoger onderwijs in ieder geval zijn:
 
 - a. de omstandigheid dat bij het achterwege blijven van de fusie de continuïteit of de variatie van het onderwijsaanbod in gevaar komt, hetgeen onder meer kan blijken uit een daling of binnen vijf jaar te verwachten daling van het aantal ho-studenten;
 
@@ -140,7 +140,7 @@ Rechtvaardigingsgronden als bedoeld in [artikel 6](https://wetten.overheid.nl/jc
 
 ##### Artikel 8. Overgangsrecht
 
-Aanvragen die voor 1 augustus 2018 in behandeling zijn genomen door de adviescommissie, bedoeld in de [artikelen 64c, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [66c, derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c) en [artikel 53h, vierde lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53h), worden afgedaan overeenkomstig de Regeling en beleidsregels fusietoets in het onderwijs 2017, zoals deze luidde op 31 juli 2018.
+Aanvragen die voor 1 augustus 2018 in behandeling zijn genomen door de adviescommissie, bedoeld in de [artikelen 64c, derde lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=64c), [66c, derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=66c) en [artikel 3.30, vijfde lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30), worden afgedaan overeenkomstig de Regeling en beleidsregels fusietoets in het onderwijs 2017, zoals deze luidde op 31 juli 2018.
 
 ##### Artikel 9
 
@@ -148,7 +148,7 @@ De [Regeling en beleidsregels fusietoets in het onderwijs](https://wetten.overhe
 
 ##### Artikel 10. Omhang
 
-Deze regeling is mede gebaseerd op de [artikelen 2.1.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.7), en [2.1.8, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8) en [4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.1) en [4.1.2 van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.2).
+Deze regeling is mede gebaseerd op de [artikelen 3.30, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30), en [3.31, vierde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.30), [2.1.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.7), en [2.1.8, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.8) en [4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.1) en [4.1.2 van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.2).
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -284,7 +284,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Indien er sprake is van samenloop met een vorming, wijziging of beëindiging van een verticale scholengemeenschap als bedoeld in [paragraaf 3 van de Regeling verticale scholengemeenschap](onbekend), vinden de fusie en de vorming, wijziging of beëindiging van de verticale scholengemeenschap gelijktijdig plaats op 1 augustus van enig kalenderjaar.
 
-## Bijlage 1. bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=2&z=2022-07-23&g=2022-07-23), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
+## Bijlage 1. bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=2&z=2022-08-01&g=2022-08-01), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
 
 ### Aanvraag fusietoets
 
@@ -298,7 +298,7 @@ Bij een bestuursoverdracht moet er namens elk bestuur worden getekend. Als het g
 
 Stuur met dit formulier de volgende bijlagen mee
 
-## Bijlage 2. bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=2&z=2022-07-23&g=2022-07-23), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
+## Bijlage 2. bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=2&z=2022-08-01&g=2022-08-01), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
 
 ### 5. Kosten en baten van de fusie
 
@@ -308,6 +308,6 @@ Het advies van B&W van de betrokken gemeente(n) is een wettelijk verplichte bijl
 
 ### 6. Effecten op personeel en ho-studenten
 
-## Bijlage 3. bij [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=4&z=2022-07-23&g=2022-07-23), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
+## Bijlage 3. bij [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039819&hoofdstuk=2&artikel=4&z=2022-08-01&g=2022-08-01), van de Regeling en beleidsregels fusietoets in het onderwijs 2017
 
 Vervallen
