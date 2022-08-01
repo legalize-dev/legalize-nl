@@ -4,7 +4,7 @@ identifier: "BWBR0045852"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2022-01-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045852"
 soort: "wet"
@@ -59,8 +59,6 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
@@ -84,8 +82,6 @@ Wijzigt de Wet normering topinkomens.
 ##### Artikel Xa. Wijziging [Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685)
 
 Wijzigt de Wet medezeggenschap op scholen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. Evaluatie
 
