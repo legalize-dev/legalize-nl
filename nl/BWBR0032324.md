@@ -4,7 +4,7 @@ identifier: "BWBR0032324"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-02-09"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032324"
 soort: "ministeriele-regeling"
@@ -48,11 +48,11 @@ De gebieden, bedoeld in [18a, derde lid, van de Wet op het primair onderwijs](ht
 
 ##### Artikel 2. Regio-indeling samenwerkingsverbanden VO
 
-De gebieden, bedoeld in [artikel 17a, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a) worden vastgesteld als aangegeven in de bijlage bij dit besluit.
+De gebieden, bedoeld in [artikel 2.47, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47) worden vastgesteld als aangegeven in de bijlage bij dit besluit.
 
 ##### Artikel 3. Gemeentelijke herindeling en wijziging gemeentenaam
 
-1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2022-02-09&g=2022-02-09) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2022-02-09&g=2022-02-09), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
+1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2022-08-01&g=2022-08-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2022-08-01&g=2022-08-01), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
 
 2. Indien op grond van [artikel 158, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=158) de naam van een gemeente wordt gewijzigd, treedt de gewijzigde naam op het moment van de naamswijziging in de plaats van de in de bijlage van deze regeling opgenomen oorspronkelijke naam.
 
@@ -8611,4 +8611,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Omhang
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling is mede gebaseerd op [artikel 2.47, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47).
