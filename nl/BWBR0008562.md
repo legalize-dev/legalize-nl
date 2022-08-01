@@ -4,7 +4,7 @@ identifier: "BWBR0008562"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-01"
-last_updated: "2022-02-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008562"
 soort: "AMvB"
@@ -52,23 +52,23 @@ Werkt terug tot en met 1 januari 1997.
 
 ##### Artikel 1. Begripsbepalingen
 
-a. wet: de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399);
+- a. wet: de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-b. vwo: voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7);
+- b. vwo: voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
 
-c. mavo: middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=9);
+- c. mavo: middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
 
-d. avo: hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8) of mavo;
+- d. avo: hoger algemeen voortgezet onderwijs als bedoeld in [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) of mavo;
 
-e. vbo: voorbereidend beroepsonderwijs als bedoeld in [artikel 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10);
+- e. vbo: voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-f. praktijkonderwijs: een school voor praktijkonderwijs als bedoeld in [artikel 10f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10f);
+- f. praktijkonderwijs: een school voor praktijkonderwijs als bedoeld in [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
-g. vwo/avo: een scholengemeenschap die ten minste bestaat uit een school voor vwo en een school voor avo;
+- g. vwo/avo: een scholengemeenschap die ten minste bestaat uit een school voor vwo en een school voor avo;
 
-h. gemengde leerweg: de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in [artikel 10d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10d);
+- h. gemengde leerweg: de leerjaren 3 en 4 van de gemengde leerweg als bedoeld in [artikel 2.27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.27);
 
-i. vwo/avo/vbo: een scholengemeenschap die ten minste bestaat uit een school voor vbo en een school voor vwo of een school voor avo.
+- i. vwo/avo/vbo: een scholengemeenschap die ten minste bestaat uit een school voor vbo en een school voor vwo of een school voor avo.
 
 #### Paragraaf 2. Drempelbedrag
 
@@ -84,7 +84,7 @@ Vervallen
 
 2. De bruto vloeroppervlakte per gelijktijdig aanwezige leerling die een speciale school voor basisonderwijs tenminste dient te bevatten, bedraagt 6,6 m2. Tevens geldt per school en per nevenvestiging een vaste voet van ten minste 90 m2.
 
-3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2022-02-01&g=2022-02-01).
+3. Indien aan een speciale school voor basisonderwijs een schoolsoort voor het speciaal of het voortgezet speciaal onderwijs is verbonden, is de schoolsoort met het grootste aantal leerlingen bepalend voor de vaste voet van de school, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008562&paragraaf=3&artikel=4&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 4. Bruto vloeroppervlakte (voortgezet) speciaal onderwijs
 
@@ -145,13 +145,7 @@ Vervallen
 
 ##### Artikel 6. Beperking reikwijdte besluit
 
-Dit besluit is niet van toepassing op:
-
-- a. scholen voor voortgezet onderwijs die deel uitmaken van een verticale scholengemeenschap met een regionaal opleidingencentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625),
-
-- b. scholen voor mavo die deel uitmaken van een verticale scholengemeenschap met een agrarisch opleidingscentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), en
-
-- c. vbo dat wordt verzorgd in een agrarisch opleidingscentrum als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+Dit besluit is niet van toepassing op scholen voor voortgezet onderwijs die deel uitmaken van een verticale scholengemeenschap.
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -165,6 +159,6 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a. Omhangbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit berust mede op [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=6.2).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
