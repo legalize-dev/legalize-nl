@@ -4,7 +4,7 @@ identifier: "BWBR0043822"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2020-09-01"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043822"
 soort: "ministeriele-regeling"
@@ -46,19 +46,19 @@ In deze regeling wordt verstaan onder:
 
 - **leerling:**
 
-- a. leerling aan een school als bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) die een opleiding praktijkonderwijs of de basisberoepsgerichte, kaderberoepsgerichte, gemengde of theoretische leerweg volgt; of
+- a. leerling aan een school als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) die een opleiding praktijkonderwijs of de basisberoepsgerichte, kaderberoepsgerichte, gemengde of theoretische leerweg volgt; of
 
 - b. leerling aan een school of instelling als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) die ingeschreven staat op het uitstroomprofiel vervolgonderwijs of het arbeidsmarktgerichte uitstroomprofiel.
 
 - **overstappende leerling of vavo-student:** leerling of vavo-student die naar verwachting in het aankomend school- of studiejaar de opleiding zal vervolgen aan een beroepsopleiding in de zin van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-- **vavo-student:** vavo-student als bedoeld in [artikel 1.1.1, onder n4, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1).
+- **vavo-student:** vavo-student als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1).
 
 - **ICT-voorziening:** informatiesysteem dat beheerd wordt door de PO-Raad, de VO-raad, de MBO Raad en de Vereniging Nederlandse Gemeenten.
 
 ##### Artikel 2. Levering gegevens van overstappende leerling of vavo-student
 
-1. Ter uitvoering van de taak genoemd in [artikel 42b, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=42b), [artikel 27d, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=27d) en [artikel 8.0.2, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.0.2), levert het bevoegd gezag van de de school of instelling als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), school als bedoeld in de [Wet op het voorgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) of de instelling als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) aan het college van burgemeester en wethouders van de woon- of verblijfplaats van de overstappende leerling of vavo-student:
+1. Ter uitvoering van de taak genoemd in [artikel 42b, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=42b), [8.31, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.31) en [artikel 8.0.2, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.0.2), levert het bevoegd gezag van de school of instelling als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), school als bedoeld in de [Wet voorgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.31) of de instelling als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) aan het college van burgemeester en wethouders van de woon- of verblijfplaats van de overstappende leerling of vavo-student:
 
 - a. het persoonsgebonden nummer;
 
@@ -94,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 3. De gegevens bedoeld in het eerste lid worden zo spoedig mogelijk na aanmelding geleverd.
 
-4. De gegevens bedoeld in het eerste en tweede lid worden, tezamen met de postcode en het huisnummer van de leerling of vavo-student, zo spoedig mogelijk na aanmelding aan het college van burgemeester en wethouders van de woon- of verblijfplaats van de leerling of vavo-student geleverd indien degene die zich heeft aangemeld niet in het bezit is van een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder b tot en met e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=7) onderscheidenlijk [8 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=8)en de leeftijd van 23 jaren nog niet heeft bereikt.
+4. De gegevens bedoeld in het eerste en tweede lid worden, tezamen met de postcode en het huisnummer van de leerling of vavo-student, zo spoedig mogelijk na aanmelding aan het college van burgemeester en wethouders van de woon- of verblijfplaats van de leerling of vavo-student geleverd indien degene die zich heeft aangemeld niet in het bezit is van een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder b tot en met e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4) en [2.5 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) en de leeftijd van 23 jaren nog niet heeft bereikt.
 
 5. De gegevens worden geleverd via de ICT-voorziening.
 
@@ -105,5 +105,11 @@ Deze regeling treedt in werking met ingang van 1 september 2020.
 ##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking bij overstap naar het mbo.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Omhang
+
+Deze regeling is mede gebaseerd op [artikel 8.31, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.31).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
