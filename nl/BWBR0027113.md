@@ -4,7 +4,7 @@ identifier: "BWBR0027113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-13"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027113"
 soort: "ministeriele-regeling"
@@ -60,17 +60,17 @@ In deze regeling wordt verstaan onder:
 
 - **personeelsgegevens:** personeelsgegevens als bedoeld in bijlage B bij het Convenant Leerkracht van Nederland en [bijlage 1 bij het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&bijlage=1);
 
-- **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2021 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2022-01-13&g=2022-01-13);
+- **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2021 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2022-08-01&g=2022-08-01);
 
-- **school:** een school of scholengemeenschap als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1), die wordt bekostigd op grond van de wet;
+- **school:** een school of scholengemeenschap als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), die wordt bekostigd op grond van de wet;
 
-- **teldatum:** 1 oktober van het jaar voorafgaand aan het jaar waarin de bekostiging wordt verstrekt.
+- **teldatum:** 1 oktober van het jaar voorafgaand aan het jaar waarin de bekostiging wordt verstrekt;
 
-- **vestiging:** hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging als bedoeld in de [artikelen 73a](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73a), [73b](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73b) en [73d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=73d), waarop leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 18, eerste lid, van het Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100&artikel=18);
+- **vestiging:** hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school als bedoeld in de [artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14) en [4.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16), waarop leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 6.12, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.12);
 
 - **voortgezet onderwijs:** het voortgezet onderwijs, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=2);
 
-- **wet:** [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399).
+- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ### 2. Hoofdlijnen
 
@@ -114,7 +114,7 @@ LLri = de op de teldatum bekostigde leerlingen op de in de Randstadregio’s gel
 
 LLi = de op de teldatum bekostigde leerlingen van school i;
 
-Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor aanvullende bekostiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=3&z=2022-01-13&g=2022-01-13) in aanmerking komende scholen.
+Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor aanvullende bekostiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=3&z=2022-08-01&g=2022-08-01) in aanmerking komende scholen.
 
 ##### Artikel 5. Vaststelling en betaling aanvullende bekostiging
 
@@ -260,7 +260,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a. Omhangbepaling
 
-Deze regeling berust op [artikel 82 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=82).
+Deze regeling berust op [artikel 5.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 
 ## Bijlage 1. Gemeenten in Randstadregio’s
 
