@@ -4,7 +4,7 @@ identifier: "BWBR0011173"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2022-08-01"
+last_updated: "2022-08-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011173"
 soort: "wet"
@@ -66,7 +66,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De werknemer kan de werkgever verzoeken om aanpassing voor al dan niet wisselende perioden en met al dan niet verschillende omvang van de uit zijn arbeidsovereenkomst of publiekrechtelijke aanstelling voortvloeiende arbeidsduur, arbeidsplaats of werktijd, indien de werknemer ten minste 26 weken voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in dienst is bij die werkgever, behoudens onvoorziene omstandigheden. Voor de berekening van de termijn van 26 weken worden perioden waarin arbeid wordt verricht, die elkaar opvolgen met een onderbreking van niet meer dan zes maanden, samengeteld. De vorige volzin is van overeenkomstige toepassing op perioden waarin voor verschillende werkgevers arbeid wordt verricht die ten aanzien van de verrichte arbeid redelijkerwijs geacht moeten worden elkanders opvolger te zijn.
 
-2. Voor militaire ambtenaren wordt het recht op aanpassing van de arbeidsduur geregeld bij algemene maatregel van bestuur op voordracht van Onze Minister van Defensie en Onze Minister van Sociale Zaken en Werkgelegenheid met gebruikmaking van onbezoldigd verlof in verband met deeltijdarbeid.
+2. Voor militaire ambtenaren wordt, met inachtneming van het vijftiende en zestiende lid en de artikelen 2a en 3a, het recht op aanpassing van de arbeidsduur geregeld bij algemene maatregel van bestuur op voordracht van Onze Minister van Defensie en Onze Minister van Sociale Zaken en Werkgelegenheid met gebruikmaking van onbezoldigd verlof in verband met deeltijdarbeid.
 
 3. Het verzoek om aanpassing van de arbeidsduur, de arbeidsplaats of de werktijd wordt, behoudens onvoorziene omstandigheden, ten minste twee maanden vóór het beoogde tijdstip van ingang van de aanpassing schriftelijk bij de werkgever ingediend onder opgave van het tijdstip van ingang, alsmede van:
 
@@ -118,11 +118,15 @@ De werknemer kan, behoudens onvoorziene omstandigheden, een jaar nadat de werkge
 
 14. Alvorens de beslissing tot herziening, bedoeld in het dertiende lid, te nemen, pleegt de werkgever overleg met de werknemer. De werkgever deelt de werknemer de beslissing schriftelijk onder opgave van redenen mee.
 
-15. Uitsluitend ten aanzien van vermeerdering van de arbeidsduur of aanpassing van de arbeidsplaats of de werktijd kan van dit artikel of een of meer onderdelen daarvan worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging.
+15. Indien de duur van de aanpassing van de arbeidsduur, de arbeidsplaats of de werktijd beperkt is, heeft de werknemer aan het eind van de overeengekomen periode het recht terug te keren naar het oorspronkelijke werkpatroon.
 
-16. Dit artikel is niet van toepassing ten aanzien van een werkgever met minder dan 10 werknemers. Deze dient een regeling te treffen met betrekking tot het recht van de werknemers op aanpassing van de arbeidsduur.
+16. Indien een wijziging van de omstandigheden dit rechtvaardigt, kan de werknemer de werkgever verzoeken voor het einde van de overeengekomen periode van de aanpassing van de arbeidsduur, de arbeidsplaats of de werktijd naar het oorspronkelijke werkpatroon terug te keren. Het vierde tot en met elfde lid zijn van overeenkomstige toepassing op een dergelijk verzoek.
 
-17. Voor de toepassing van het vijftiende lid geldt een afwijkende regeling door of namens een daartoe bevoegd bestuursorgaan of een afwijkende regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met de ondernemingsraad, of bij het ontbreken daarvan, met de personeelsvertegenwoordiging, voor vijf jaren vanaf het tijdstip waarop die regeling ingaat, indien geen termijn van ten hoogste vijf jaren is bepaald. Indien geen termijn is bepaald gaat bij wijziging van de regeling waarvan de in de eerste zin bedoelde afwijking deel uitmaakt binnen het in die zin bedoelde tijdvak, ten aanzien van de afwijking een nieuw tijdvak in op het tijdstip van inwerkingtreding van de wijziging.
+17. Uitsluitend ten aanzien van vermeerdering van de arbeidsduur of aanpassing van de arbeidsplaats of de werktijd kan van dit artikel of een of meer onderdelen daarvan worden afgeweken bij collectieve arbeidsovereenkomst of bij regeling door of namens een daartoe bevoegd bestuursorgaan dan wel, indien geen collectieve arbeidsovereenkomst of regeling van toepassing is of terzake geen bepaling bevat, indien de werkgever terzake schriftelijke overeenstemming heeft bereikt met de ondernemingsraad of, bij het ontbreken daarvan, met de personeelsvertegenwoordiging.
+
+18. Dit artikel is niet van toepassing ten aanzien van een werkgever met minder dan 10 werknemers. Deze dient een regeling te treffen met betrekking tot het recht van de werknemers op aanpassing van de arbeidsduur.
+
+19. Voor de toepassing van het zeventiende lid geldt een afwijkende regeling door of namens een daartoe bevoegd bestuursorgaan of een afwijkende regeling waaromtrent de werkgever schriftelijk overeenstemming heeft bereikt met de ondernemingsraad, of bij het ontbreken daarvan, met de personeelsvertegenwoordiging, voor vijf jaren vanaf het tijdstip waarop die regeling ingaat, indien geen termijn van ten hoogste vijf jaren is bepaald. Indien geen termijn is bepaald gaat bij wijziging van de regeling waarvan de in de eerste zin bedoelde afwijking deel uitmaakt binnen het in die zin bedoelde tijdvak, ten aanzien van de afwijking een nieuw tijdvak in op het tijdstip van inwerkingtreding van de wijziging.
 
 #### Recht op aanpassing van de arbeidsduur, arbeidsplaats en werktijd
 
@@ -160,11 +164,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2a. Werknemer met een kind in de leeftijd tot acht jaar of mantelzorger
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=1a&z=2022-08-02&g=2022-08-02) en [2, derde lid, laatste zin, en zeventiende tot en met negentiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2&z=2022-08-02&g=2022-08-02), zijn niet van toepassing op een verzoek om aanpassing van de arbeidsduur, de arbeidsplaats of de werktijd van een werknemer:
+
+- a. die ouder is van een kind in de leeftijd tot acht jaar;
+
+- b. die zorg draagt voor de verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:1), die levensbedreigend ziek is; of
+
+- c. die zorg draagt voor de noodzakelijke verzorging van een persoon als bedoeld in [artikel 5:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:1), die ziek of hulpbehoevend is.
+
+2. De werkgever kan van de werknemer verlangen dat hij aannemelijk maakt dat een omstandigheden als bedoeld in het eerste lid zich voordoet.
 
 ##### Artikel 2b. Overgang naar een andere vorm van arbeid met meer voorspelbare en zekere arbeidsvoorwaarden
 
-1. De werknemer kan de werkgever verzoeken om een vorm van arbeid met meer voorspelbare en zekere arbeidsvoorwaarden, indien de werknemer ten minste 26 weken voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in dienst is bij die werkgever. Het verzoek wordt door de werknemer schriftelijk bij de werkgever ingediend. De tweede en derde zin van het eerste lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2&z=2022-08-01&g=2022-08-01) zijn van overeenkomstige toepassing.
+1. De werknemer kan de werkgever verzoeken om een vorm van arbeid met meer voorspelbare en zekere arbeidsvoorwaarden, indien de werknemer ten minste 26 weken voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in dienst is bij die werkgever. Het verzoek wordt door de werknemer schriftelijk bij de werkgever ingediend. De tweede en derde zin van het eerste lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=2&z=2022-08-02&g=2022-08-02) zijn van overeenkomstige toepassing.
 
 2. De werkgever beslist, indien hij tien of meer werknemers heeft, binnen een maand schriftelijk en gemotiveerd op het verzoek van de werknemer. Indien de werkgever minder dan tien werknemers heeft beslist hij schriftelijk en gemotiveerd binnen drie maanden na het verzoek.
 
@@ -182,13 +194,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3a. Bescherming tegen nadelige behandeling of gevolgen
 
-Dit onderdeel is nog niet inwerking getreden
+De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer in of buiten rechte het recht op aanpassing van de arbeidsduur, de arbeidsplaats of de werktijd geldend maakt, ter zake bijstand heeft verleend, of hieromtrent een klacht binnen de onderneming heeft ingediend.
 
 #### Evaluatiebepaling
 
 ##### Artikel 4a. Onderzoek College voor de rechten van de mens
 
-Dit onderdeel is nog niet inwerking getreden
+Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=1), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&artikel=3a&z=2022-08-02&g=2022-08-02). De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=22) en [23 van de Wet College voor de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBR0030733&artikel=23) zijn van overeenkomstige toepassing.
 
 #### Inwerkingtreding
 
