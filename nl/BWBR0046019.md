@@ -4,7 +4,7 @@ identifier: "BWBR0046019"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-02"
-last_updated: "2022-01-01"
+last_updated: "2022-08-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046019"
 soort: "wet"
@@ -52,61 +52,41 @@ Wijzigt de Wet arbeid en zorg.
 
 Wijzigt de Wet flexibel werken.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III. Wijziging van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV. Wijziging van de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671)
 
 Wijzigt de Arbeidstijdenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V. Wijziging van [Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. Wijziging van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 Wijzigt de Werkloosheidswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
 Wijzigt de Wet financiering sociale verzekeringen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. Wijziging van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
 Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX. Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI. Wijziging van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Wijzigt de Ziektewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII. Samenloop met wetsvoorstel uitvoeren breed offensief
 
@@ -118,18 +98,16 @@ Wijzigt deze wet.
 
 Wijzigt deze wet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV. Evaluatie
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen drie jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel XV. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt, met uitzondering van [artikel I, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0046019&artikel=I&z=2022-08-02&g=2022-08-02), in werking op een bij koninklijk besluit te bepalen tijdstip. Artikel I, onderdeel G, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel XVI. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet betaald ouderschapsverlof.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
