@@ -4,7 +4,7 @@ identifier: "BWBV0006893"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-08-03"
-last_updated: "1976-02-24"
+last_updated: "2022-08-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006893"
 soort: "verdrag"
@@ -84,7 +84,7 @@ De Hoge Verdragsluitende Partijen bevorderen actieve samenwerking op economisch,
 
 ##### Artikel 5
 
-Met het oog op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006893&hoofdstuk=III&artikel=4&z=1976-02-24&g=1976-02-24) getroosten de Hoge Verdragsluitende Partijen zich maximale inspanningen, zowel multilateraal als bilateraal, op basis van gelijkwaardigheid, non- discriminatie en wederzijds voordeel.
+Met het oog op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006893&hoofdstuk=III&artikel=4&z=2022-08-03&g=2022-08-03) getroosten de Hoge Verdragsluitende Partijen zich maximale inspanningen, zowel multilateraal als bilateraal, op basis van gelijkwaardigheid, non- discriminatie en wederzijds voordeel.
 
 ##### Artikel 6
 
