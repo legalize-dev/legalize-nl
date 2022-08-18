@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2022-07-22"
+last_updated: "2022-08-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -7575,7 +7575,7 @@ Geen bijzonderheden.
 
 ### 28.1. Besluitmoratorium
 
-Geen bijzonderheden.
+Er geldt een besluitmoratorium in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) ten aanzien van asielaanvragen van dienstplichtige Russische mannen in de leeftijd van 18 tot 27 jaar, die in het kader van deze asielaanvraag een beroep doen op:
 
 De IND beschouwt de volgende groep als groep die systematisch wordt blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag:
 
@@ -7961,7 +7961,7 @@ Geen bijzonderheden.
 
 Voor de Russische Federatie geldt in zijn algemeenheid dat:
 
-Geen bijzonderheden.
+Er geldt een vertrekmoratorium in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) voor Russische mannen in de leeftijd van 18 tot 27 jaar, die in ieder geval:
 
 Geen bijzonderheden.
 
