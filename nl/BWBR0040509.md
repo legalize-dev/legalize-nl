@@ -4,7 +4,7 @@ identifier: "BWBR0040509"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2019-02-15"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040509"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ Een complexvergunning is vereist:
 
 ##### Artikel 3.3. (aanwijzing van gevallen waarin bij een aanvraag om een vergunning gegevens m.b.t. een beveiligingsplan, bedrijfsnoodplan of beëindigingsplan dienen te worden verstrekt)
 
-In gevallen, waarin krachtens [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2019-02-15&g=2019-02-15), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2019-02-15&g=2019-02-15) of [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=10&artikel=10.1&z=2019-02-15&g=2019-02-15) een beveiligingsplan, bedrijfsnoodplan of beëindigingsplan is vereist, worden bij een aanvraag om een vergunning gegevens met betrekking tot die plannen verstrekt als bedoeld in [artikel 3.6, derde lid, aanhef en onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.6).
+In gevallen, waarin krachtens [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2022-08-24&g=2022-08-24), [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2022-08-24&g=2022-08-24) of [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=10&artikel=10.1&z=2022-08-24&g=2022-08-24) een beveiligingsplan, bedrijfsnoodplan of beëindigingsplan is vereist, worden bij een aanvraag om een vergunning gegevens met betrekking tot die plannen verstrekt als bedoeld in [artikel 3.6, derde lid, aanhef en onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.6).
 
 #### § 3.3. Vrijstelling en vrijgave controlestelsel
 
@@ -162,25 +162,25 @@ Het minimumbedrag waarvoor per volume-eenheid af te voeren hoogactieve bron, de 
 
 Deskundigheid van een stralingsbeschermingsdeskundige als bedoeld in [artikel 5.4, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=5.4), voor een handeling waarvoor een vergunning, registratie of kennisgeving is vereist of voor een maatregel of blootstellingsituatie waarvoor een kennisgeving is vereist, is ten minste van het niveau:
 
-- a. van een algemeen coördinerend deskundige, overeenkomstig [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.2&z=2019-02-15&g=2019-02-15), voor:
+- a. van een algemeen coördinerend deskundige, overeenkomstig [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.2&z=2022-08-24&g=2022-08-24), voor:
 
 - 1°. omvangrijke handelingen of handelingen die een uitgebreide bescherming tegen ioniserende straling vereisen en waarvoor een complexvergunning is vereist;
 
-- 2°. handelingen waarvoor overeenkomstig [artikel 5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.2&artikel=5.28&z=2019-02-15&g=2019-02-15) een stralingsbeschermingseenheid wordt vereist;
+- 2°. handelingen waarvoor overeenkomstig [artikel 5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.5&paragraaf=5.5.2&artikel=5.28&z=2022-08-24&g=2022-08-24) een stralingsbeschermingseenheid wordt vereist;
 
 - 3°. door de Autoriteit bij beschikking of verordening aangewezen specifieke handelingen met een aanmerkelijk risico; of
 
-- b. van een coördinerend deskundige, overeenkomstig [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.4&z=2019-02-15&g=2019-02-15), voor andere dan in onderdeel a bedoelde handelingen, maatregelen of blootstellingsituaties.
+- b. van een coördinerend deskundige, overeenkomstig [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.4&z=2022-08-24&g=2022-08-24), voor andere dan in onderdeel a bedoelde handelingen, maatregelen of blootstellingsituaties.
 
 ##### Artikel 5.2. (eisen stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige)
 
-1. Aan de eisen met betrekking tot de kennis, vaardigheden en bekwaamheden van een stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15), wordt voldaan, indien:
+1. Aan de eisen met betrekking tot de kennis, vaardigheden en bekwaamheden van een stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24), wordt voldaan, indien:
 
 - a. een opleiding tot stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige bij een erkende instelling is gevolgd, en
 
 - b. de deskundige beschikt over de kerncompetenties en overige kwalificaties, bedoeld in bijlage 5.1, onderdeel B.
 
-2. Aan de eisen, bedoeld in het eerste lid, wordt tevens voldaan door een persoon die overeenkomstig [paragraaf 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.3&z=2019-02-15&g=2019-02-15) heeft aangetoond te beschikken over competenties en kwalificaties die gelijkwaardig zijn.
+2. Aan de eisen, bedoeld in het eerste lid, wordt tevens voldaan door een persoon die overeenkomstig [paragraaf 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.3&z=2022-08-24&g=2022-08-24) heeft aangetoond te beschikken over competenties en kwalificaties die gelijkwaardig zijn.
 
 ##### Artikel 5.3. (eisen opleiding stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige)
 
@@ -190,21 +190,21 @@ Een opleiding bij een erkende instelling tot stralingsbeschermingsdeskundige op 
 
 - b. beschikt over faciliteiten die nodig zijn om cursisten van de kerncompetenties en overige kwalificaties, bedoeld onder a, te voorzien;
 
-- c. beschikt over adequate procedures ten behoeve van de kwaliteitsborging als bedoeld in de [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.25&z=2019-02-15&g=2019-02-15) en [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.26&z=2019-02-15&g=2019-02-15);
+- c. beschikt over adequate procedures ten behoeve van de kwaliteitsborging als bedoeld in de [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.25&z=2022-08-24&g=2022-08-24) en [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.26&z=2022-08-24&g=2022-08-24);
 
-- d. heeft een opleidingsverantwoordelijke die is geregistreerd als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15); en
+- d. heeft een opleidingsverantwoordelijke die is geregistreerd als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24); en
 
 - e. verstrekt uitsluitend diploma’s tot algemeen coördinerend deskundige aan cursisten die de opleiding, bedoeld in de aanhef, met goed gevolg hebben doorlopen.
 
 ##### Artikel 5.4. (eisen stralingsbeschermingsdeskundige op het niveau van coördinerend deskundige)
 
-1. Aan de eisen met betrekking tot de kennis, vaardigheden en bekwaamheden van een stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15), wordt voldaan indien:
+1. Aan de eisen met betrekking tot de kennis, vaardigheden en bekwaamheden van een stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24), wordt voldaan indien:
 
 - a. een opleiding tot stralingsbeschermingsdeskundige op het niveau van coördinerend deskundige bij een erkende instelling is gevolgd, en
 
 - b. de deskundige beschikt over de kerncompetenties en overige kwalificaties, bedoeld in bijlage 5.1, onderdeel C.
 
-2. Aan de eisen, bedoeld in het eerste lid, wordt tevens voldaan door een persoon die overeenkomstig [paragraaf 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.3&z=2019-02-15&g=2019-02-15) heeft aangetoond te beschikken over competenties en kwalificaties die gelijkwaardig zijn.
+2. Aan de eisen, bedoeld in het eerste lid, wordt tevens voldaan door een persoon die overeenkomstig [paragraaf 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.3&z=2022-08-24&g=2022-08-24) heeft aangetoond te beschikken over competenties en kwalificaties die gelijkwaardig zijn.
 
 ##### Artikel 5.5. (eisen opleiding stralingsbeschermingsdeskundige op het niveau van coördinerend deskundige)
 
@@ -214,9 +214,9 @@ Een opleiding bij een erkende instelling tot stralingsbeschermingsdeskundige op 
 
 - b. beschikt over faciliteiten die nodig zijn om cursisten van de kerncompetenties en kwalificaties, bedoeld onder a, te voorzien;
 
-- c. beschikt over adequate procedures ten behoeve van de kwaliteitsborging als bedoeld in de [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.25&z=2019-02-15&g=2019-02-15) en [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.26&z=2019-02-15&g=2019-02-15);
+- c. beschikt over adequate procedures ten behoeve van de kwaliteitsborging als bedoeld in de [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.25&z=2022-08-24&g=2022-08-24) en [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.26&z=2022-08-24&g=2022-08-24);
 
-- d. heeft een opleidingsverantwoordelijke die is geregistreerd als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15); en
+- d. heeft een opleidingsverantwoordelijke die is geregistreerd als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24); en
 
 - e. verstrekt uitsluitend diploma’s tot coördinerend deskundige aan cursisten die de opleiding, bedoeld in dit artikel, met goed gevolg hebben doorlopen.
 
@@ -230,21 +230,21 @@ Een opleiding bij een erkende instelling tot stralingsbeschermingsdeskundige op 
 
 - b. **herregistratie:** herinschrijving in het register;
 
-- c. **buitengewone registratie:** herregistratie waarbij wordt afgeweken van de eis, bedoeld in [artikel 5.8, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.8&z=2019-02-15&g=2019-02-15), of [5.9, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.9&z=2019-02-15&g=2019-02-15).
+- c. **buitengewone registratie:** herregistratie waarbij wordt afgeweken van de eis, bedoeld in [artikel 5.8, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.8&z=2022-08-24&g=2022-08-24), of [5.9, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&artikel=5.9&z=2022-08-24&g=2022-08-24).
 
 2. Registratie, herregistratie of buitengewone registratie van een stralingsbeschermingsdeskundige vindt plaats door de Autoriteit indien is voldaan aan de voorwaarden die krachtens deze paragraaf daaraan worden gesteld.
 
 ##### Artikel 5.7. (criteria voor registratie)
 
-1. Voor registratie als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15), is een diploma van een opleiding tot stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige vereist.
+1. Voor registratie als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24), is een diploma van een opleiding tot stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige vereist.
 
-2. Voor registratie als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15), is een diploma van een opleiding tot stralingsbeschermingsdeskundige op het niveau van coördinerend deskundige vereist.
+2. Voor registratie als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24), is een diploma van een opleiding tot stralingsbeschermingsdeskundige op het niveau van coördinerend deskundige vereist.
 
 3. Registratie is eenmalig en kent een duur van vijf jaar.
 
 ##### Artikel 5.8. (criteria voor herregistratie van een stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige)
 
-1. Voor herregistratie van een stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15), is vereist:
+1. Voor herregistratie van een stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24), is vereist:
 
 - a. een diploma van een opleiding tot stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige;
 
@@ -256,7 +256,7 @@ Een opleiding bij een erkende instelling tot stralingsbeschermingsdeskundige op 
 
 ##### Artikel 5.9. (criteria voor herregistratie van een stralingsbeschermingsdeskundige op het niveau van coördinerend deskundige)
 
-1. Voor herregistratie van een stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15), is vereist:
+1. Voor herregistratie van een stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24), is vereist:
 
 - a. een diploma van een opleiding tot stralingsbeschermingsdeskundige op het niveau van coördinerend deskundige;
 
@@ -268,7 +268,7 @@ Een opleiding bij een erkende instelling tot stralingsbeschermingsdeskundige op 
 
 ##### Artikel 5.10. (criteria voor buitengewone registratie van een stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige)
 
-1. Voor een buitengewone registratie als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15), is vereist:
+1. Voor een buitengewone registratie als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24), is vereist:
 
 - a. een eerdere registratie of herregistratie,
 
@@ -280,7 +280,7 @@ Een opleiding bij een erkende instelling tot stralingsbeschermingsdeskundige op 
 
 ##### Artikel 5.11. (criteria voor buitengewone registratie van een stralingsbeschermingsdeskundige op het niveau van coördinerend deskundige)
 
-1. Voor een buitengewone registratie als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15), is vereist:
+1. Voor een buitengewone registratie als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24), is vereist:
 
 - a. een eerdere registratie of herregistratie:
 
@@ -398,7 +398,11 @@ Indien na afgifte van de erkenning van de EU-beroepskwalificaties is gebleken, d
 
 - h. industriële radiografie: bijlage 5.2, onderdeel H;
 
-- i. meet- en regeltoepassingen: bijlage 5.2, onderdeel I.
+- i. meet- en regeltoepassingen, voor:
+
+- 1°. toestellen en versnellers: bijlage 5.2, onderdeel I-1;
+
+- 2°. ingekapselde radioactieve bronnen: bijlage 5.2, onderdeel I-2.
 
 2. Een opleiding bij een erkende instelling voorziet een toezichthoudend medewerker stralingsbescherming voor een in het eerste lid bedoelde toepassing van de bijbehorende kerncompetenties en overige kwalificaties, bedoeld in het desbetreffende onderdeel van bijlage 5.2.
 
@@ -406,9 +410,9 @@ Indien na afgifte van de erkenning van de EU-beroepskwalificaties is gebleken, d
 
 - a. beschikt over faciliteiten die nodig zijn om cursisten van de kerncompetenties en overige kwalificaties, bedoeld in dat lid, te voorzien;
 
-- b. beschikt over adequate procedures ten behoeve van de kwaliteitsborging, bedoeld in de [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.25&z=2019-02-15&g=2019-02-15) en [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.26&z=2019-02-15&g=2019-02-15);
+- b. beschikt over adequate procedures ten behoeve van de kwaliteitsborging, bedoeld in de [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.25&z=2022-08-24&g=2022-08-24) en [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.26&z=2022-08-24&g=2022-08-24);
 
-- c. beschikt over een opleidingsverantwoordelijke die is geregistreerd als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15);
+- c. beschikt over een opleidingsverantwoordelijke die is geregistreerd als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24);
 
 - d. verstrekt uitsluitend diploma’s voor de desbetreffende toepassing aan cursisten die een opleiding als bedoeld in het eerste lid met goed gevolg hebben afgerond.
 
@@ -428,13 +432,13 @@ Indien na afgifte van de erkenning van de EU-beroepskwalificaties is gebleken, d
 
 Een opleiding bij een erkende instelling voor opleidingen voor medisch-radiologische handelingen:
 
-- a. beschikt over faciliteiten die nodig zijn om cursisten van de kerncompetenties, bedoeld in [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&artikel=5.23&z=2019-02-15&g=2019-02-15), te voorzien;
+- a. beschikt over faciliteiten die nodig zijn om cursisten van de kerncompetenties, bedoeld in [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&artikel=5.23&z=2022-08-24&g=2022-08-24), te voorzien;
 
-- b. beschikt over adequate procedures ten behoeve van de kwaliteitsborging als bedoeld in de [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.25&z=2019-02-15&g=2019-02-15) en [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.26&z=2019-02-15&g=2019-02-15);
+- b. beschikt over adequate procedures ten behoeve van de kwaliteitsborging als bedoeld in de [artikelen 5.25](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.25&z=2022-08-24&g=2022-08-24) en [5.26](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.4&artikel=5.26&z=2022-08-24&g=2022-08-24);
 
-- c. beschikt over een opleidingsverantwoordelijke die is geregistreerd als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15);
+- c. beschikt over een opleidingsverantwoordelijke die is geregistreerd als stralingsbeschermingsdeskundige als bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24);
 
-- d. verstrekt uitsluitend diploma’s voor medisch-radiologische handelingen aan cursisten die een opleiding als bedoeld in [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&artikel=5.23&z=2019-02-15&g=2019-02-15) met goed gevolg hebben afgerond.
+- d. verstrekt uitsluitend diploma’s voor medisch-radiologische handelingen aan cursisten die een opleiding als bedoeld in [artikel 5.23](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&artikel=5.23&z=2022-08-24&g=2022-08-24) met goed gevolg hebben afgerond.
 
 ### Afdeling 5.4. Kwaliteitsborging erkende instellingen
 
@@ -498,7 +502,7 @@ Een opleiding aan een erkende instelling beschikt over adequate procedures ten b
 
 ##### Artikel 5.28. (vereiste aanwezigheid stralingsbeschermingseenheid)
 
-1. De aanwezigheid van een stralingsbeschermingseenheid is vereist in gevallen waarin overeenkomstig [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2019-02-15&g=2019-02-15) een complexvergunning is vereist.
+1. De aanwezigheid van een stralingsbeschermingseenheid is vereist in gevallen waarin overeenkomstig [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2022-08-24&g=2022-08-24) een complexvergunning is vereist.
 
 2. De aanwezigheid van een stralingsbeschermingseenheid is voorts vereist binnen inrichtingen als bedoeld in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), waarop het [Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667) van toepassing is.
 
@@ -532,7 +536,7 @@ Indien de aanwezigheid van een stralingsbeschermingseenheid wordt vereist, besch
 
 ##### Artikel 5.30. (taken stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige in de stralingsbeschermingseenheid)
 
-De stralingsbeschermingsdeskundige, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2019-02-15&g=2019-02-15), in de stralingsbeschermingseenheid heeft tot taak:
+De stralingsbeschermingsdeskundige, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&artikel=5.1&z=2022-08-24&g=2022-08-24), in de stralingsbeschermingseenheid heeft tot taak:
 
 - a. het voorbereiden en opstellen van het stralingsbeschermingsbeleid en het adviseren over dit beleid;
 
@@ -552,11 +556,11 @@ De stralingsbeschermingsdeskundige, bedoeld in [artikel 5.1, onderdeel a](https:
 
 ##### Artikel 6.1. (systeem voor het registreren en analyseren van stralingsincidenten, ongevallen of radiologische noodsituaties)
 
-De verplichting tot het invoeren en in werking houden van een systeem voor het registreren en analyseren van stralingsincidenten, ongevallen of radiologische noodsituaties, bedoeld in [artikel 6.2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.2), berust op de in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2019-02-15&g=2019-02-15), aangewezen vergunninghouders.
+De verplichting tot het invoeren en in werking houden van een systeem voor het registreren en analyseren van stralingsincidenten, ongevallen of radiologische noodsituaties, bedoeld in [artikel 6.2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.2), berust op de in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2022-08-24&g=2022-08-24), aangewezen vergunninghouders.
 
 ##### Artikel 6.2. (bedrijfsnoodplan)
 
-De verplichting tot het zorgen voor een bedrijfsnoodplan als bedoeld in [artikel 6.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.7), berust op de in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2019-02-15&g=2019-02-15) aangewezen ondernemer.
+De verplichting tot het zorgen voor een bedrijfsnoodplan als bedoeld in [artikel 6.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.7), berust op de in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2022-08-24&g=2022-08-24) aangewezen ondernemer.
 
 #### § 6.2. Bouwmaterialen
 
@@ -680,7 +684,7 @@ Indien in een vergunning, ontheffing of andere beschikking, die voor het tijdsti
 
 ##### Artikel 12.6. (nadere regels overgangsrecht, financiële zekerheid hoogactieve bronnen)
 
-In gevallen waarin voor het tijdstip van inwerkingtreding van deze regeling op grond van het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) een verplichting tot financiële zekerheidstelling voor een hoogactieve bron gold, wordt binnen drie maanden na dat tijdstip aan [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2019-02-15&g=2019-02-15) voldaan.
+In gevallen waarin voor het tijdstip van inwerkingtreding van deze regeling op grond van het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) een verplichting tot financiële zekerheidstelling voor een hoogactieve bron gold, wordt binnen drie maanden na dat tijdstip aan [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.2&artikel=4.3&z=2022-08-24&g=2022-08-24) voldaan.
 
 ##### Artikel 12.7. (nadere regels overgangsrecht, reguliere procedure Awb voor vergunningen voor bepaalde handelingen met van nature voorkomende radionucliden)
 
@@ -716,15 +720,15 @@ Bijlage 4.1, behorend bij de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c
 
 ### Bijlagen bij hoofdstuk 5. Informatie en deskundigheid
 
-Bijlage 3.2, behorend bij de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.3&artikel=3.4&z=2019-02-15&g=2019-02-15) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.3&artikel=3.5&z=2019-02-15&g=2019-02-15) (vrijstellings- en vrijgavewaarden).
+Bijlage 3.2, behorend bij de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.3&artikel=3.4&z=2022-08-24&g=2022-08-24) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.3&artikel=3.5&z=2022-08-24&g=2022-08-24) (vrijstellings- en vrijgavewaarden).
 
 Bijlage 5.2, behorend bij [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.2&z=2018-02-06&g=2018-02-06) (eisen deskundigheid en opleiding toezichthoudend medewerker stralingsbescherming).
 
-Bijlage 4.1, behorend bij de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=1&artikel=1.1&z=2019-02-15&g=2019-02-15) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2019-02-15&g=2019-02-15) (begrippen en indeling van radioactieve stoffen in categorieën met het oog op het beveiligingsplan).
+Bijlage 4.1, behorend bij de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=1&artikel=1.1&z=2022-08-24&g=2022-08-24) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2022-08-24&g=2022-08-24) (begrippen en indeling van radioactieve stoffen in categorieën met het oog op het beveiligingsplan).
 
 ### Bijlage bij hoofdstuk 6. Algemene bepalingen inzake blootstelling
 
-Bijlage 5.1, behorend bij [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&z=2019-02-15&g=2019-02-15), de [paragrafen 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&z=2019-02-15&g=2019-02-15) en [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&z=2019-02-15&g=2019-02-15) (eisen deskundigheid en opleiding stralingsbeschermingsdeskundigen).
+Bijlage 5.1, behorend bij [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&z=2022-08-24&g=2022-08-24), de [paragrafen 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&z=2022-08-24&g=2022-08-24) en [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&z=2022-08-24&g=2022-08-24) (eisen deskundigheid en opleiding stralingsbeschermingsdeskundigen).
 
 ## Bijlage. bij [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=2&z=2018-02-06&g=2018-02-06). rechtvaardiging, van de regeling basisveiligheidsnormen stralingsbescherming
 
@@ -732,7 +736,7 @@ Bijlage 5.1, behorend bij [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1 Voor alle toepassingen gelden in meer of mindere mate de argumenten ‘werkgelegenheid’, ‘de verhoging van gemak’ en ‘economische of sociale voordelen voor de maatschappij’.
 
-Bijlage 6.1, behorend bij [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&paragraaf=6.2&artikel=6.3&z=2019-02-15&g=2019-02-15), eerste lid (lijst van grondstoffen en bouwmaterialen die gezien de uitgezonden gammastraling in aanmerking moeten worden genomen, omdat ze kunnen leiden tot een overschrijding van het desbetreffende referentieniveau van 1 millisievert in een kalenderjaar en om die reden aandacht vragen vanuit het oogpunt van de stralingsbescherming).
+Bijlage 6.1, behorend bij [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&paragraaf=6.2&artikel=6.3&z=2022-08-24&g=2022-08-24), eerste lid (lijst van grondstoffen en bouwmaterialen die gezien de uitgezonden gammastraling in aanmerking moeten worden genomen, omdat ze kunnen leiden tot een overschrijding van het desbetreffende referentieniveau van 1 millisievert in een kalenderjaar en om die reden aandacht vragen vanuit het oogpunt van de stralingsbescherming).
 
 3 Voor zover het de blootstelling van het personeel of leden van de bevolking ten gevolge van onderzoek of therapie van anderen of dieren betreft en niet de blootstelling van personen of dieren die zelf een onderzoek of therapie ondergaan.
 
@@ -1088,19 +1092,67 @@ K (kennis), V (vaardigheid), en C (competentie). Toepassen van C impliceert dat 
 
 **Daarvoor is het nodig dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen:**
 
-**Nadere typering van de context:**
+De eindtermen voor de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers) zijn primair bedoeld voor de medewerker die toezicht houdt op toestellen en versnellers, voor zover hiermee handelingen met een gering stralingsrisico worden uitgevoerd. Voor versnellers wordt daarbij de grens gehanteerd van een versnelspanning kleiner dan 20 mega-elektronvolt, voor zover deze normaal gebruikt worden, dus exclusief het toezicht op onderdelen van de versneller die geactiveerd kunnen zijn.
 
-De toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen is er voor verantwoordelijk dat er veilig wordt gewerkt volgens de wet- en regelgeving en dient te zorgen voor schriftelijke en mondelinge instructies voor medewerkers. Hij draagt zorg voor het gebruik van de juiste meetapparatuur en beschermingsmiddelen. Hij ziet erop toe dat een correcte administratie wordt gevoerd en weet wanneer hij de stralingsbeschermings-deskundige moet raadplegen, bijvoorbeeld voor het opstellen of laten goedkeuren van de risicoanalyse. Hij zorgt voor een gedegen administratie voor blootstelling van de medewerkers en derden (inclusief dosislimieten). Hij is verantwoordelijk voor de kwaliteit van het beheerssysteem op gebied van stralingsbescherming.
+**Kerncompetentie 1**
 
-**In deze context gaat het erom dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen:**
+**De toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers) verricht handelingen of houdt toezicht op de uitvoering van handelingen, zodanig dat de werkzaamheden verantwoord en veilig uitgevoerd worden om onnodige blootstelling van zichzelf en anderen te voorkomen. Hierbij worden de gestelde voorschriften en richtlijnen, rechtvaardiging, optimalisatie (ALARA-principe) en de dosislimieten in acht genomen.**
 
-**Daarvoor is het nodig dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen kennis heeft van:**
+**In deze context gaat het erom dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers):**
 
-**In deze context gaat het erom dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen:**
+**Daarvoor is het nodig dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers)**:
 
-**Daarvoor is het nodig dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen:**
+**Kerncompetentie 2**
 
 ### Bijlage 5.3. behorend bij [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&z=2018-02-06&g=2018-02-06) van de Regeling basisveiligheidsnormen stralingsbescherming (eisen opleidingen medisch- radiologische handelingen).
+
+**Nadere typering van de context**:
+
+De toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers) is er verantwoordelijk voor dat er veilig wordt gewerkt volgens de wet- en regelgeving. Hij dient te zorgen voor schriftelijke en mondelinge instructies voor medewerkers. Hij draagt zorg voor het gebruik van de juiste meetapparatuur en beschermingsmiddelen. Hij ziet erop toe dat een correcte administratie wordt gevoerd en weet wanneer hij de stralingsbeschermingsdeskundige moet raadplegen, bijvoorbeeld voor het opstellen of laten goedkeuren van de risico-inventarisatie en -evaluatie (hierna: de risicoanalyse). Hij zorgt voor een gedegen administratie zoals bijv. ten aanzien van de blootstelling van medewerkers en derden. Hij is verantwoordelijk voor de kwaliteit van het beheerssysteem op het gebied van stralingsbescherming.
+
+**In deze context gaat het erom dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers)**:
+
+**Daarvoor is het nodig dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers)**:
+
+**Kerncompetentie 3**
+
+**De toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers) beschikt over communicatieve vaardigheden om zowel gevraagd en ongevraagd, op overtuigende wijze inhoudelijk adequate adviezen en aanwijzingen te geven over het veilig werken met ioniserende straling, als om advies of hulp te vragen in voorkomende situaties.**
+
+**In deze context gaat het erom dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers)**:
+
+**Daarvoor is het nodig dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers)**:
+
+De eindtermen voor de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen) zijn primair bedoeld voor de medewerker die toezicht houdt op ingekapselde radioactieve bronnen die een gering stralingsrisico met zich brengen. Het toezicht op handelingen met vergunningplichtige ingekapselde radioactieve bronnen is beperkt tot bronnen in vaste meetopstellingen waarbij de blootstelling voor de werknemer onder reguliere omstandigheden kleiner is dan 1 mSv/jaar.
+
+**Kerncompetentie 1**
+
+**De toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen) verricht handelingen of houdt toezicht op de uitvoering van handelingen, zodanig dat de werkzaamheden verantwoord en veilig uitgevoerd worden om onnodige blootstelling van zichzelf en anderen te voorkomen. Hierbij worden de gestelde voorschriften en richtlijnen, rechtvaardiging, optimalisatie (ALARA-principe) en de dosislimieten in acht genomen.**
+
+**In deze context gaat het erom dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen)**:
+
+**Daarvoor is het nodig dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen)**:
+
+**Kerncompetentie 2**
+
+**De toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen) zorgt ervoor dat de administratie voor het beheer en gebruik van de toepassing volgens de geldende wetgeving op orde is. Hij weet wanneer nodig experts te consulteren en volgt na- en bijscholing om de kennis op peil te houden.**
+
+**Nadere typering van de context**:
+
+De toezichthouder stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen) is er verantwoordelijk voor dat er veilig wordt gewerkt volgens de wet- en regelgeving. Hij dient te zorgen voor schriftelijke en mondelinge instructies voor medewerkers. Hij draagt zorg voor het gebruik van de juiste meetapparatuur en beschermingsmiddelen. Hij ziet erop toe dat een correcte administratie wordt gevoerd en weet wanneer hij de stralingsbeschermingsdeskundige moet raadplegen, bijvoorbeeld voor het opstellen of laten goedkeuren van de risico-inventarisatie en – evaluatie (hierna: risicoanalyse). Hij zorgt voor een gedegen administratie zoals bijv. ten aanzien van de blootstelling van medewerkers en derden. Hij is verantwoordelijk voor de kwaliteit van het beheerssysteem op gebied van stralingsbescherming.
+
+**In deze context gaat het erom dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen)**:
+
+**Daarvoor is het nodig dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen)**:
+
+**Kerncompetentie 3**
+
+**De toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen) beschikt over communicatieve vaardigheden om zowel gevraagd en ongevraagd, op overtuigende wijze inhoudelijk adequate adviezen en aanwijzingen te geven over het veilig werken met ioniserende straling, als om advies of hulp te vragen in voorkomende situaties.**
+
+**In deze context gaat het erom dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen)**:
+
+**Daarvoor is het nodig dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (ingekapselde radioactieve bronnen)**:
+
+**B.3. Toegepaste stralingsfysica voor radiotherapie**
 
 De eindtermen zijn voorzien van de aanduidingen K = kennis (knowledge); V = vaardigheden (skills) en C = competenties (competences). Deze drie categorieën zijn in de genoemde volgorde hiërarchisch ondergeschikt: een hogere categorie-aanduiding impliceert dat ook aan de voorgaande moet zijn voldaan (K < V < C).
 
@@ -1200,9 +1252,9 @@ Aangezien alle volgens de nieuwe opleiding opgeleide radiologen in Nederland enk
 
 **C.1.5 Stralingshygiëne in de radiologie (röntgenstraling)**
 
-**Kennis**
-
 **Vaardigheden**
+
+**Competenties**
 
 **Competenties**
 
@@ -1248,19 +1300,115 @@ Deze leerdoelen zijn een naar voren gehaalde selectie uit die voor Nucleair Radi
 
 **Kennis**
 
+## Bijlage. bij [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&z=2018-02-06&g=2018-02-06). Algemene bepalingen inzake blootstelling, van de Regeling basisveiligheidsnormen stralingsbescherming.
+
+### Bijlage 6.1. behorend bij [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&paragraaf=6.2&artikel=6.3&z=2018-02-06&g=2018-02-06)
+
+**C.2.3 Radiobiologie**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 12.8. (nadere regels overgangsrecht, handelingen met natuurlijke bronnen)
+
+1. Ten aanzien van een werkzaamheid als bedoeld in [artikel 12.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=12.8), waarvoor ingevolge het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) een melding is gedaan en die op grond van dat lid is aangemerkt als een handeling met natuurlijke bronnen, waarvoor op grond van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) een vergunningplicht of registratieplicht is gaan gelden, wordt voor 6 februari 2020 een daartoe strekkende aanvraag ingediend.
+
+2. Tot het tijdstip waarop de beslissing op een aanvraag als bedoeld in het eerste lid onherroepelijk van kracht is geworden geldt de melding als een tijdelijke vergunning of tijdelijke registratie.
+
+##### Artikel 12.9. (nadere regels overgangsrecht, overige voorheen meldingsplichtige handelingen)
+
+1. Ten aanzien van een andere handeling dan bedoeld in [artikel 12.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=12.11), waarvoor ingevolge het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) een melding is gedaan en waarvoor op grond van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) een vergunningplicht of registratieplicht is gaan gelden, wordt voor 6 februari 2020 een daartoe strekkende aanvraag ingediend.
+
+2. Tot het tijdstip waarop de beslissing op een aanvraag als bedoeld in het eerste lid onherroepelijk van kracht is geworden geldt de melding als een tijdelijke vergunning of tijdelijke registratie.
+
+##### Artikel 12.10. (nadere regels overgangsrecht, overige voorheen niet meldingsplichtige of vergunningplichtige handelingen)
+
+1. Ten aanzien van een andere handeling dan bedoeld in [artikel 12.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=12.11) of een werkzaamheid als bedoeld in het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) die voor 6 februari 2018 werd verricht en waarvoor op grond van het Besluit stralingsbescherming geen meldingsplicht of vergunningplicht gold, terwijl die handeling, of ingevolge het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) als handeling aangemerkte werkzaamheid, op grond van het besluit kennisgevingsplichtig, registratieplichtig of vergunningplichtig is geworden, wordt voor 1 juni 2019 de daartoe strekkende kennisgeving of aanvraag om een registratie of vergunning ingediend.
+
+2. Tot het tijdstip waarop de beslissing op een aanvraag als bedoeld in het eerste lid onherroepelijk van kracht is geworden, geldt de aanvraag als een tijdelijke vergunning of een tijdelijke registratie.
+
+##### Artikel 12.11. (nadere regels overgangsrecht, afwijkende vergunningvoorschriften)
+
+1. In gevallen waarin een vergunning die is verleend op grond van het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) een voorschrift bevat dat niet in overeenstemming is met het bepaalde bij of krachtens het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) en de vergunninghouder toepassing wil blijven geven aan dat voorschrift, vraagt hij voor 6 februari 2020 een ontheffing als bedoeld in [artikel 11.7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=11.7) of andere toepasselijke ontheffing krachtens het besluit aan.
+
+2. Tot het tijdstip waarop de beslissing op een aanvraag als bedoeld in het eerste lid onherroepelijk van kracht is geworden kan het vergunningvoorschrift waarvoor de ontheffing is aangevraagd worden toegepast.
+
+### Hoofdstuk 13. Slotbepalingen
+
+## Bijlagen. bij de Regeling basisveiligheidsnormen stralingsbescherming
+
+### Bijlage bij hoofdstuk 2. Rechtvaardiging, optimalisatie, dosislimitering
+
+Bijlage 2.1, behorend bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=2&artikel=2.1&z=2022-08-24&g=2022-08-24) (aanwijzing van categorieën of soorten gerechtvaardigde of niet-gerechtvaardigde handelingen en maatregelen).
+
+### Bijlagen bij hoofdstuk 3. Controlestelsel
+
+Bijlage 3.1, behorend bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2022-08-24&g=2022-08-24) (aanwijzing van handelingen met van nature voorkomend radioactief materiaal).
+
+### Bijlage bij hoofdstuk 4. Algemene regels voor bronnen en handelingen in geplande blootstellingsituaties
+
+Bijlage 5.2, behorend bij [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.2&z=2022-08-24&g=2022-08-24) (eisen deskundigheid en opleiding toezichthoudend medewerker stralingsbescherming).
+
+Bijlage 5.3, behorend bij [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&z=2022-08-24&g=2022-08-24) (eisen opleidingen medisch-radiologische handelingen).
+
+### Bijlage bij hoofdstuk 6. Algemene bepalingen inzake blootstelling
+
+## Bijlage. bij [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=2&z=2022-08-24&g=2022-08-24). rechtvaardiging, van de regeling basisveiligheidsnormen stralingsbescherming
+
+### Bijlage 2.1. behorend bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=2&artikel=2.1&z=2022-08-24&g=2022-08-24) (aanwijzing van categorieën of soorten gerechtvaardigde of niet-gerechtvaardigde handelingen en maatregelen).
+
+1 Voor alle toepassingen gelden in meer of mindere mate de argumenten ‘werkgelegenheid’, ‘de verhoging van gemak’ en ‘economische of sociale voordelen voor de maatschappij’.
+
+2 Bepaalde aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd, zijn voor ‘civiel’ gebruik niet te rechtvaardigen en daarom ingevolge het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) verboden.
+
+## Bijlagen. bij [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&z=2022-08-24&g=2022-08-24). Controlestelsel, van de Regeling basisveiligheidsnormen stralingsbescherming
+
+### Bijlage 3.1. behorend bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2022-08-24&g=2022-08-24) (aanwijzing van handelingen met van nature voorkomend radioactief materiaal).
+
+### Bijlage 3.2. behorend bij de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.3&artikel=3.4&z=2022-08-24&g=2022-08-24) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.3&artikel=3.5&z=2022-08-24&g=2022-08-24) (vrijstellings- en vrijgavewaarden)
+
+De in Aanhangsel B bij tabel B genoemde radionucliden hebben dochters met halveringstijden van 10 dagen of minder, die voor 10% of meer bijdragen aan de dosis.
+
+Deze dochters zijn ook niet meegenomen bij de evenwichten als opgenomen in aanhangsel A van tabel B. Zij dienen derhalve bij dosisberekeningen in de sommatie meegenomen te worden. Voorts is de ratio tussen de moeder en dochter bij evenwicht gegeven.
+
+## Bijlagen. bij [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&z=2022-08-24&g=2022-08-24). Algemene regels voor bronnen en handelingen in geplande blootstellingsituaties, van de Regeling basisveiligheidsnormen stralingsbescherming.
+
+### Bijlage 4.1. behorend bij de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=1&artikel=1.1&z=2022-08-24&g=2022-08-24) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2022-08-24&g=2022-08-24) (begrippen en indeling van radioactieve stoffen in categorieën met het oog op het beveiligingsplan).
+
+De gesommeerde A/D-waarde wordt daarbij bepaald volgens de formule:
+
+Waar
+
+## Bijlagen. bij [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&z=2022-08-24&g=2022-08-24). Informatie en deskundigheid, van de Regeling basisveiligheidsnormen stralingsbescherming.
+
+### Bijlage 5.1. behorend bij [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&z=2022-08-24&g=2022-08-24), de [paragrafen 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&z=2022-08-24&g=2022-08-24) en [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&z=2022-08-24&g=2022-08-24) (eisen deskundigheid en opleiding stralingsbeschermingsdeskundigen).
+
+**In deze context gaat het erom dat de stralingsbeschermingsdeskundige (niveau coördinerend deskundige):**
+
+### Bijlage 5.2. behorend bij [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.2&z=2022-08-24&g=2022-08-24) (eisen deskundigheid en opleiding toezichthoudend medewerker stralingsbescherming).
+
+**De toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen (toestellen en versnellers) zorgt ervoor dat de administratie voor het beheer en gebruik van de toepassing volgens de geldende wetgeving op orde is. Hij weet wanneer het nodig is experts te consulteren en volgt na- en bijscholing om de kennis op peil te houden.**
+
+### Bijlage 5.3. behorend bij [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&z=2019-02-15&g=2019-02-15) van de Regeling basisveiligheidsnormen stralingsbescherming (eisen opleidingen medisch- radiologische handelingen).
+
 **Vaardigheden**
 
 **Competenties**
 
-**C.2.3 Radiobiologie**
-
 **Kennis**
+
+## Bijlage. bij [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&z=2019-02-15&g=2019-02-15). Algemene bepalingen inzake blootstelling, van de Regeling basisveiligheidsnormen stralingsbescherming.
+
+### Bijlage 6.1. behorend bij [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&paragraaf=6.2&artikel=6.3&z=2019-02-15&g=2019-02-15)
+
+**Vaardigheden**
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Bijlage 5.3. behorend bij [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&z=2022-08-24&g=2022-08-24) van de Regeling basisveiligheidsnormen stralingsbescherming (eisen opleidingen medisch- radiologische handelingen).
 
 **C.2.4 Stralingshygiëne in de interventieradiologie (röntgenstraling)**
 
 **Kennis**
-
-**Vaardigheden**
 
 **Competenties**
 
@@ -1296,105 +1444,9 @@ Deze leerdoelen zijn een naar voren gehaalde selectie uit die voor Nucleair Radi
 
 **Competenties**
 
-## Bijlage. bij [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&z=2018-02-06&g=2018-02-06). Algemene bepalingen inzake blootstelling, van de Regeling basisveiligheidsnormen stralingsbescherming.
+## Bijlage. bij [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&z=2022-08-24&g=2022-08-24). Algemene bepalingen inzake blootstelling, van de Regeling basisveiligheidsnormen stralingsbescherming.
 
-### Bijlage 6.1. behorend bij [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&paragraaf=6.2&artikel=6.3&z=2018-02-06&g=2018-02-06)
-
-Lijst van grondstoffen en bouwmaterialen die gezien de uitgezonden gammastraling in aanmerking moeten worden genomen, omdat ze kunnen leiden tot een overschrijding van het betreffende referentieniveau van 1 millisievert in een kalenderjaar en om die reden aandacht vragen vanuit het oogpunt van de stralingsbescherming.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 12.8. (nadere regels overgangsrecht, handelingen met natuurlijke bronnen)
-
-1. Ten aanzien van een werkzaamheid als bedoeld in [artikel 12.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=12.8), waarvoor ingevolge het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) een melding is gedaan en die op grond van dat lid is aangemerkt als een handeling met natuurlijke bronnen, waarvoor op grond van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) een vergunningplicht of registratieplicht is gaan gelden, wordt voor 6 februari 2020 een daartoe strekkende aanvraag ingediend.
-
-2. Tot het tijdstip waarop de beslissing op een aanvraag als bedoeld in het eerste lid onherroepelijk van kracht is geworden geldt de melding als een tijdelijke vergunning of tijdelijke registratie.
-
-##### Artikel 12.9. (nadere regels overgangsrecht, overige voorheen meldingsplichtige handelingen)
-
-1. Ten aanzien van een andere handeling dan bedoeld in [artikel 12.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=12.11), waarvoor ingevolge het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) een melding is gedaan en waarvoor op grond van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) een vergunningplicht of registratieplicht is gaan gelden, wordt voor 6 februari 2020 een daartoe strekkende aanvraag ingediend.
-
-2. Tot het tijdstip waarop de beslissing op een aanvraag als bedoeld in het eerste lid onherroepelijk van kracht is geworden geldt de melding als een tijdelijke vergunning of tijdelijke registratie.
-
-##### Artikel 12.10. (nadere regels overgangsrecht, overige voorheen niet meldingsplichtige of vergunningplichtige handelingen)
-
-1. Ten aanzien van een andere handeling dan bedoeld in [artikel 12.11, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=12.11) of een werkzaamheid als bedoeld in het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) die voor 6 februari 2018 werd verricht en waarvoor op grond van het Besluit stralingsbescherming geen meldingsplicht of vergunningplicht gold, terwijl die handeling, of ingevolge het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) als handeling aangemerkte werkzaamheid, op grond van het besluit kennisgevingsplichtig, registratieplichtig of vergunningplichtig is geworden, wordt voor 1 juni 2019 de daartoe strekkende kennisgeving of aanvraag om een registratie of vergunning ingediend.
-
-2. Tot het tijdstip waarop de beslissing op een aanvraag als bedoeld in het eerste lid onherroepelijk van kracht is geworden, geldt de aanvraag als een tijdelijke vergunning of een tijdelijke registratie.
-
-##### Artikel 12.11. (nadere regels overgangsrecht, afwijkende vergunningvoorschriften)
-
-1. In gevallen waarin een vergunning die is verleend op grond van het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) een voorschrift bevat dat niet in overeenstemming is met het bepaalde bij of krachtens het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) en de vergunninghouder toepassing wil blijven geven aan dat voorschrift, vraagt hij voor 6 februari 2020 een ontheffing als bedoeld in [artikel 11.7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=11.7) of andere toepasselijke ontheffing krachtens het besluit aan.
-
-2. Tot het tijdstip waarop de beslissing op een aanvraag als bedoeld in het eerste lid onherroepelijk van kracht is geworden kan het vergunningvoorschrift waarvoor de ontheffing is aangevraagd worden toegepast.
-
-### Hoofdstuk 13. Slotbepalingen
-
-## Bijlagen. bij de Regeling basisveiligheidsnormen stralingsbescherming
-
-### Bijlage bij hoofdstuk 2. Rechtvaardiging, optimalisatie, dosislimitering
-
-Bijlage 2.1, behorend bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=2&artikel=2.1&z=2019-02-15&g=2019-02-15) (aanwijzing van categorieën of soorten gerechtvaardigde of niet-gerechtvaardigde handelingen en maatregelen).
-
-### Bijlagen bij hoofdstuk 3. Controlestelsel
-
-Bijlage 3.1, behorend bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2019-02-15&g=2019-02-15) (aanwijzing van handelingen met van nature voorkomend radioactief materiaal).
-
-### Bijlage bij hoofdstuk 4. Algemene regels voor bronnen en handelingen in geplande blootstellingsituaties
-
-Bijlage 5.2, behorend bij [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.2&z=2019-02-15&g=2019-02-15) (eisen deskundigheid en opleiding toezichthoudend medewerker stralingsbescherming).
-
-Bijlage 5.3, behorend bij [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&z=2019-02-15&g=2019-02-15) (eisen opleidingen medisch-radiologische handelingen).
-
-### Bijlage bij hoofdstuk 6. Algemene bepalingen inzake blootstelling
-
-## Bijlage. bij [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=2&z=2019-02-15&g=2019-02-15). rechtvaardiging, van de regeling basisveiligheidsnormen stralingsbescherming
-
-### Bijlage 2.1. behorend bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=2&artikel=2.1&z=2019-02-15&g=2019-02-15) (aanwijzing van categorieën of soorten gerechtvaardigde of niet-gerechtvaardigde handelingen en maatregelen).
-
-1 Voor alle toepassingen gelden in meer of mindere mate de argumenten ‘werkgelegenheid’, ‘de verhoging van gemak’ en ‘economische of sociale voordelen voor de maatschappij’.
-
-2 Bepaalde aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd, zijn voor ‘civiel’ gebruik niet te rechtvaardigen en daarom ingevolge het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) verboden.
-
-## Bijlagen. bij [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&z=2019-02-15&g=2019-02-15). Controlestelsel, van de Regeling basisveiligheidsnormen stralingsbescherming
-
-### Bijlage 3.1. behorend bij [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2019-02-15&g=2019-02-15) (aanwijzing van handelingen met van nature voorkomend radioactief materiaal).
-
-### Bijlage 3.2. behorend bij de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.3&artikel=3.4&z=2019-02-15&g=2019-02-15) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=3&paragraaf=3.3&artikel=3.5&z=2019-02-15&g=2019-02-15) (vrijstellings- en vrijgavewaarden)
-
-De in Aanhangsel B bij tabel B genoemde radionucliden hebben dochters met halveringstijden van 10 dagen of minder, die voor 10% of meer bijdragen aan de dosis.
-
-Deze dochters zijn ook niet meegenomen bij de evenwichten als opgenomen in aanhangsel A van tabel B. Zij dienen derhalve bij dosisberekeningen in de sommatie meegenomen te worden. Voorts is de ratio tussen de moeder en dochter bij evenwicht gegeven.
-
-## Bijlagen. bij [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&z=2019-02-15&g=2019-02-15). Algemene regels voor bronnen en handelingen in geplande blootstellingsituaties, van de Regeling basisveiligheidsnormen stralingsbescherming.
-
-### Bijlage 4.1. behorend bij de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=1&artikel=1.1&z=2019-02-15&g=2019-02-15) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2019-02-15&g=2019-02-15) (begrippen en indeling van radioactieve stoffen in categorieën met het oog op het beveiligingsplan).
-
-De gesommeerde A/D-waarde wordt daarbij bepaald volgens de formule:
-
-Waar
-
-## Bijlagen. bij [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&z=2019-02-15&g=2019-02-15). Informatie en deskundigheid, van de Regeling basisveiligheidsnormen stralingsbescherming.
-
-### Bijlage 5.1. behorend bij [afdeling 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&z=2019-02-15&g=2019-02-15), de [paragrafen 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.1&z=2019-02-15&g=2019-02-15) en [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.1&paragraaf=5.1.2&z=2019-02-15&g=2019-02-15) (eisen deskundigheid en opleiding stralingsbeschermingsdeskundigen).
-
-**In deze context gaat het erom dat de stralingsbeschermingsdeskundige (niveau coördinerend deskundige):**
-
-### Bijlage 5.2. behorend bij [afdeling 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.2&z=2019-02-15&g=2019-02-15) (eisen deskundigheid en opleiding toezichthoudend medewerker stralingsbescherming).
-
-**In deze context gaat het erom dat de toezichthoudend medewerker stralingsbescherming voor meet- en regeltoepassingen:**
-
-### Bijlage 5.3. behorend bij [afdeling 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=5&afdeling=5.3&z=2019-02-15&g=2019-02-15) van de Regeling basisveiligheidsnormen stralingsbescherming (eisen opleidingen medisch- radiologische handelingen).
-
-**C.3.2 Stralingsbescherming voor medewerkers en omgeving in de nucleaire geneeskunde**
-
-**Kennis**
-
-**Competenties**
-
-## Bijlage. bij [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&z=2019-02-15&g=2019-02-15). Algemene bepalingen inzake blootstelling, van de Regeling basisveiligheidsnormen stralingsbescherming.
-
-### Bijlage 6.1. behorend bij [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&paragraaf=6.2&artikel=6.3&z=2019-02-15&g=2019-02-15)
+### Bijlage 6.1. behorend bij [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&hoofdstuk=6&paragraaf=6.2&artikel=6.3&z=2022-08-24&g=2022-08-24)
 
 Lijst van grondstoffen en bouwmaterialen die gezien de uitgezonden gammastraling in aanmerking moeten worden genomen, omdat ze kunnen leiden tot een overschrijding van het betreffende referentieniveau van 1 millisievert in een kalenderjaar en om die reden aandacht vragen vanuit het oogpunt van de stralingsbescherming.
 
