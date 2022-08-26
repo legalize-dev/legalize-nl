@@ -4,7 +4,7 @@ identifier: "BWBR0035180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-26"
-last_updated: "2019-12-07"
+last_updated: "2022-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035180"
 soort: "ministeriele-regeling"
@@ -136,9 +136,9 @@ De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waa
 
 - a. 12 procent voor rode wijn;
 
-- b. 13,5 procent voor rode wijn met een oorsprongsbenaming;
+- b. 13,5 procent voor rode wijn met een oorsprongsbenaming of geografische aanduiding;
 
-- c. 13 procent voor witte en rosé wijn met een oorsprongsbenaming.
+- c. 13 procent voor witte en rosé wijn met een oorsprongsbenaming of geografische aanduiding.
 
 #### § 4. Administratieve verplichtingen
 
@@ -148,13 +148,7 @@ Het minimumpercentage alcoholvolume in bijproducten is 5% van het alcoholvolume 
 
 ##### Artikel 7
 
-1. Indien de weersomstandigheden uitzonderlijk ongunstig zijn geweest, kan de minister op verzoek voor het betreffende oogstjaar besluiten:
-
-- a. het in bijlage VIII, deel I, afdeling A, punt 2, van de basisverordening genoemde maximale alcoholpercentage te verhogen met 0,5%;
-
-- b. toestemming te verlenen voor het aanzuren als bedoeld in Bijlage VIII, deel I, afdeling C, punt 6, van de basisverordening.
-
-2. Het in het eerste lid, onderdeel b, bedoelde verzoek tot toestemming wordt bij de minister ingediend met een door de minister ter beschikking gesteld middel.
+Indien de weersomstandigheden uitzonderlijk ongunstig zijn geweest, kan de minister op verzoek voor het betreffende oogstjaar besluiten het in bijlage VIII, deel I, afdeling A, punt 2, van de basisverordening genoemde maximale alcoholpercentage te verhogen met 0,5%.
 
 ##### Artikel 8
 
@@ -234,7 +228,7 @@ Een aanvraag tot opname in het register van beschermde oorsprongsbenamingen en g
 
 ##### Artikel 18
 
-1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2019-12-07&g=2019-12-07), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
+1. Iedere belanghebbende kan binnen twee maanden na de datum van bekendmaking in de Staatscourant door de minister van de aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035180&hoofdstuk=2&paragraaf=7&artikel=17&z=2022-08-26&g=2022-08-26), daartegen bedenkingen kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
 
 2. Iedere belanghebbende kan binnen vier weken na de datum van bekendmaking in het Publicatieblad van de Europese Unie van het enig document afkomstig uit een andere lidstaat dan van belanghebbende, zijn bedenkingen tegen de bescherming daarvan kenbaar maken door middel van toezending van een gemotiveerde verklaring aan de minister.
 
