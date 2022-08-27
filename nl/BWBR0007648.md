@@ -4,7 +4,7 @@ identifier: "BWBR0007648"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-27"
-last_updated: "2021-01-01"
+last_updated: "2022-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007648"
 soort: "AMvB"
@@ -80,29 +80,31 @@ In dit besluit wordt verstaan onder:
 
 8. Onze Minister stelt regels omtrent de bescheiden die bij de indiening van een aanvraag om vermelding als bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=5) worden verstrekt.
 
-9. Als bewijs van voldoende beheersing van de Nederlandse taal, als bedoeld in het eerste lid, onderdeel e, geldt:
+9. Als bewijs van voldoende beheersing van de Nederlandse taal, als bedoeld in het eerste lid, onder d, geldt:
 
 - a. diploma’s van primair plus secundair onderwijs van een Nederlandstalige onderwijsinstelling;
 
 - b. een diploma van een voltooide Nederlandstalige opleiding van het beroep waarvoor inschrijving aangevraagd wordt;
 
-- c. een certificaat voor een examen Nederlandse taal op het niveau:
+- c. een certificaat voor een examen Nederlandse taal waarbij de mondelinge en schriftelijke vaardigheden in de Nederlandse taal zijn geëxamineerd op ten minste het niveau:
 
-- –. B1 van het Gemeenschappelijk Europees Opleidingskader voor inschrijving in het register van verpleegkundigen;
+- –. B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van verpleegkundigen;
 
-- –. B2 van het Gemeenschappelijk Europees Opleidingskader voor inschrijving in het register van fysiotherapeuten, verloskundigen of physician assistants;
+- –. B2 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van fysiotherapeuten, verloskundigen of physician assistants;
 
-- d. een certificaat voor het onderdeel Nederlandse taal (met specifieke beheersing van medisch interactief Nederlands) van de algemene kennis- en vaardighedentoets voor inschrijving in het register van artsen, tandartsen, apothekers, psychotherapeuten, gezondheidszorgpsychologen, orthopedagogen-generalist en klinisch technologen;
+- –. B2+ van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen voor inschrijving in het register van artsen, tandartsen, apothekers, psychotherapeuten, gezondheidszorgpsychologen, orthopedagogen-generalist en klinisch technologen;
 
-- e. de verklaring van Onze Minister, bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
+- d. de verklaring van Onze Minister, bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
 
-10. De bewijsstukken, bedoeld in het negende lid, onder c, d en e zijn op het moment van indiening van de aanvraag, bedoeld in het eerste lid, niet ouder dan twee jaar.
+10. Als een bewijsstuk als bedoeld in het negende lid, onder c of d, op het moment van indiening van de aanvraag ouder is dan twee jaar overlegt de aanvrager schriftelijk aanvullende bewijsstukken om aannemelijk te maken dat hij op het moment van de aanvraag nog steeds mondeling en schriftelijk vaardig is in de Nederlandse taal op het voor het desbetreffende beroep in het negende lid, onder c, genoemde niveau.
 
 11. Van de bewijsmiddelen, bedoeld in het negende lid, kan een door de instelling die het document heeft afgegeven gewaarmerkte kopie worden overgelegd.
 
+12. Indien de aanvrager niet beschikt over een bewijsstuk als bedoeld in het negende lid geldt als bewijs van voldoende beheersing van de Nederlandse taal een ander document of een combinatie van documenten waaruit redelijkerwijs kan worden afgeleid dat de aanvrager mondeling en schriftelijk vaardig is in de Nederlandse taal op het voor het desbetreffende beroep in het negende lid, onder c, genoemde niveau.
+
 ##### Artikel 3
 
-In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2021-01-01&g=2021-01-01), kunnen degenen die de bevoegdheid hadden verkregen of waren toegelaten tot de uitoefening van een in artikel 104, vierde lid, van de wet genoemd beroep, dan wel de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop artikel 3, eerste lid, van de wet ten aanzien van het desbetreffende beroep in werking is getreden, bij de indiening van de aanvrage om inschrijving, behalve het in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2021-01-01&g=2021-01-01), bedoelde formulier, een fotokopie verstrekken van het getuigschrift of de beschikking waaraan zij de desbetreffende bevoegdheid of toelating ontlenen.
+In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2022-08-27&g=2022-08-27), kunnen degenen die de bevoegdheid hadden verkregen of waren toegelaten tot de uitoefening van een in artikel 104, vierde lid, van de wet genoemd beroep, dan wel de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop artikel 3, eerste lid, van de wet ten aanzien van het desbetreffende beroep in werking is getreden, bij de indiening van de aanvrage om inschrijving, behalve het in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2022-08-27&g=2022-08-27), bedoelde formulier, een fotokopie verstrekken van het getuigschrift of de beschikking waaraan zij de desbetreffende bevoegdheid of toelating ontlenen.
 
 ##### Artikel 4
 
@@ -152,9 +154,9 @@ Aan een ieder die dat verlangt, wordt meegedeeld hetgeen in het register staat a
 
 ##### Artikel 7
 
-1. Van de totstandkoming van een inschrijving in een register met toepassing van [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2021-01-01&g=2021-01-01), bedoelde instanties.
+1. Van de totstandkoming van een inschrijving in een register met toepassing van [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2022-08-27&g=2022-08-27), bedoelde instanties.
 
-2. Van de doorhaling van een met toepassing van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in [artikel 7, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2021-01-01&g=2021-01-01), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid, in de Staatscourant en door middel van publicatie op daartoe bestemde websites op internet.
+2. Van de doorhaling van een met toepassing van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in [artikel 7, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2022-08-27&g=2022-08-27), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid, in de Staatscourant en door middel van publicatie op daartoe bestemde websites op internet.
 
 ##### Artikel 8
 
@@ -187,5 +189,11 @@ Een beoefenaar van een beroep als bedoeld in [artikel 3 van de wet](https://wett
 - 1°. bij het gebruik van zijn naam op de website van de beroepsbeoefenaar of van de organisatie waarvoor hij het beroep of het specialisme daarvan uitoefent;
 
 - 2°. onder door de beroepsbeoefenaar of onder diens naam door zijn werkgever verzonden e-mailberichten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 5a
+
+Aan een beoefenaar van een beroep als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [36a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a) wordt op diens verzoek binnen twee maanden een document verstrekt, waaruit blijkt dat, voor zover van toepassing, ten aanzien van de betrokkene geen maatregel berustend op een in Nederland gegeven rechterlijke, tuchtrechtelijke of bestuursrechtelijke beslissing van kracht is, op grond waarvan de betrokkene zijn rechten tot de uitoefening van het betrokken beroep in Nederland, geheel of gedeeltelijk, tijdelijk of blijvend is verloren.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
