@@ -4,7 +4,7 @@ identifier: "BWBR0041109"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-12"
-last_updated: "2018-07-04"
+last_updated: "2022-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041109"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16) en [artikel 18.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.5) worden aangewezen de inspecteurs werkzaam bij de Dienst Nederlandse Emissieautoriteit van het Ministerie van Economische Zaken en Klimaat.
+Als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de[hoofdstukken 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16a) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&hoofdstuk=16b) en de [artikelen 18.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.5), [18.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.5a), [18.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.5b), [18.5c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.5c) en [18.6 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.6) worden aangewezen de inspecteurs werkzaam bij de Dienst Nederlandse Emissieautoriteit van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 2
 
