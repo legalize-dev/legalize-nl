@@ -4,7 +4,7 @@ identifier: "BWBR0024254"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2022-04-01"
+last_updated: "2022-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024254"
 soort: "AMvB"
@@ -62,13 +62,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van verloskundigen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding tot verloskundige die is opgenomen in het Centraal register opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=3&artikel=3&z=2022-04-01&g=2022-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=3&artikel=4&z=2022-04-01&g=2022-04-01).
+Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van verloskundigen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding tot verloskundige die is opgenomen in het Centraal register opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=3&artikel=3&z=2022-08-27&g=2022-08-27) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=3&artikel=4&z=2022-08-27&g=2022-08-27).
 
 #### § 3. Opleiding
 
 ##### Artikel 3
 
-1. Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=2&artikel=2&z=2022-04-01&g=2022-04-01) heeft een studielast van 240 studiepunten en omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de verloskundige die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2022-04-01&g=2022-04-01):
+1. Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=2&artikel=2&z=2022-08-27&g=2022-08-27) duurt voltijds ten minste drie jaar en omvat ten minste 4.600 uur theoretisch en praktisch onderwijs, waarbij de duur van het klinisch onderwijs ten minste een derde van de minimumduur van de opleiding bedraagt.
+
+2. Het theoretisch en praktisch onderwijs is gericht op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de verloskundige die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2022-08-27&g=2022-08-27):
 
 - a. stellen van een diagnose gebaseerd op anamnese en onderzoek;
 
@@ -94,11 +96,11 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - l. kwaliteit van zorg.
 
-2. Het praktische onderwijs omvat naast vaardigheidsonderwijs in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2022-04-01&g=2022-04-01), onder toezicht van een verloskundige.
+3. Het praktische onderwijs omvat naast vaardigheidsonderwijs in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2022-08-27&g=2022-08-27), onder toezicht van een verloskundige.
 
-3. De stages vinden gespreid over de gehele opleiding plaats en hebben een omvang van in totaal ten minste 100 studiepunten, waarvan ten minste 60 studiepunten worden besteed aan stages in de zelfstandige verloskundige praktijk en de resterende 40 studiepunten flexibel zijn te verdelen over de overige relevante sectoren.
+4. De stages vinden gespreid over de gehele opleiding plaats en hebben een omvang van in totaal ten minste 100 studiepunten, waarvan ten minste 60 studiepunten worden besteed aan stages in de zelfstandige verloskundige praktijk en de resterende 40 studiepunten flexibel zijn te verdelen over de overige relevante sectoren.
 
-4. De stages zijn eerst afgerond indien op de volgende gebieden van zorg ten minste de daarbij genoemde verrichtingen zijn uitgevoerd:
+5. De stages zijn eerst afgerond indien op de volgende gebieden van zorg ten minste de daarbij genoemde verrichtingen zijn uitgevoerd:
 
 - a. prenatale zorg:
 
@@ -124,9 +126,11 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - –. evaluatie van zorg: 30 onderzoeken, waarvan 10 adviezen inzake preconceptie.
 
-5. Onverminderd het derde en het vierde lid voldoen het theoretische en praktische onderwijs ten minste aan de eisen, gesteld in punt 5.5.1 van Bijlage V van [richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEU L 255).
+6. Onverminderd het vierde en het vijfde lid voldoen het theoretische en praktische onderwijs ten minste aan de eisen, gesteld in punt 5.5.1 van Bijlage V van [richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEU L 255).
 
-6. Een wijziging van punt 5.5.1 van Bijlage V, bedoeld in het vijfde lid, gaat voor de toepassing van het vijfde lid gelden met ingang van de dag waarop aan die wijzigingsrichtlijn uitvoering moet zijn gegeven.
+7. Een wijziging van punt 5.5.1 van Bijlage V, bedoeld in het zesde lid, gaat voor de toepassing van het zesde lid gelden met ingang van de dag waarop aan die wijzigingsrichtlijn uitvoering moet zijn gegeven.
+
+8. De onderwijsinstellingen die de opleiding verzorgen zijn gedurende het gehele studieprogramma verantwoordelijk voor de coördinatie tussen het theoretisch en praktisch onderwijs.
 
 ##### Artikel 4
 
@@ -174,7 +178,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - c. het verrichten van medische en technische handelingen;
 
-- d. het verrichten van andere handelingen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2022-04-01&g=2022-04-01);
+- d. het verrichten van andere handelingen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2022-08-27&g=2022-08-27);
 
 - e. het handelen in medische noodsituaties;
 
@@ -368,7 +372,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 1. Degene aan wie op grond van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](https://wetten.overheid.nl/jci1.3:c:BWBR0009025) een getuigschrift is uitgereikt, behoudt op basis van dit getuigschrift het recht op inschrijving in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van verloskundigen.
 
-2. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2022-04-01&g=2022-04-01) blijven ten aanzien van de studenten die op 1 september 2008 de opleiding nog op de voet van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](https://wetten.overheid.nl/jci1.3:c:BWBR0009025) volgen, de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=2) en [12 tot en met 18 van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=12) van kracht, met dien verstande dat in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=13), in plaats van [richtlijn 80/155/EEG](31980L0155) gelezen wordt [richtlijn 2005/36/EG](32005L0036).
+2. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2022-08-27&g=2022-08-27) blijven ten aanzien van de studenten die op 1 september 2008 de opleiding nog op de voet van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](https://wetten.overheid.nl/jci1.3:c:BWBR0009025) volgen, de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=2) en [12 tot en met 18 van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=12) van kracht, met dien verstande dat in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=13), in plaats van [richtlijn 80/155/EEG](31980L0155) gelezen wordt [richtlijn 2005/36/EG](32005L0036).
 
 ##### Artikel 7
 
