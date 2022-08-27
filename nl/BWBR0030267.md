@@ -4,7 +4,7 @@ identifier: "BWBR0030267"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2011-08-01"
+last_updated: "2022-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030267"
 soort: "AMvB"
@@ -60,11 +60,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van verpleegkundigen te worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot verpleegkundige heeft afgelegd die is opgenomen in het het Centrale register voor opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13) of in het het Centrale register voor beroepsopleidingen, genoemd in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1) en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=4&z=2011-08-01&g=2011-08-01) van dit besluit.
+Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van verpleegkundigen te worden ingeschreven, wordt vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot verpleegkundige heeft afgelegd die is opgenomen in het het Centrale register voor opleidingen hoger onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13) of in het het Centrale register voor beroepsopleidingen, genoemd in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1) en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=4&z=2022-08-27&g=2022-08-27) van dit besluit.
 
 ##### Artikel 3
 
-1. Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=2&z=2011-08-01&g=2011-08-01), omvat zowel theoretisch als praktisch onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de verpleegkundige die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=33):
+1. Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=2&z=2022-08-27&g=2022-08-27), omvat zowel theoretisch als praktisch onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de verpleegkundige die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=33):
 
 - a. het afnemen van een anamnese;
 
@@ -82,21 +82,37 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - h. het bieden van goede kwaliteit van zorg.
 
-2. Het theoretische onderwijs bestaat uit ten minste 1535 uren en het praktische onderwijs uit ten minste 2300 uren.
+2. De opleiding duurt ten minste drie jaar en omvat ten minste 4.600 uur theoretisch en praktisch onderwijs, waarbij de duur van het theoretisch onderwijs ten minste een derde en die van het praktisch onderwijs ten minste de helft van de minimumduur van de opleiding bedraagt.
 
 3. Het theoretische en praktische onderwijs voldoen ten minste aan de eisen, gesteld in punt 5.2.1 van Bijlage V van [richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005, betreffende de erkenning van beroepskwalificaties (PbEU L 255).
 
 4. Een wijziging van punt 5.2.1 van Bijlage V, bedoeld in het derde lid, gaat voor de toepassing van het derde lid gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
+5. De onderwijsinstellingen die de opleiding verzorgen zijn gedurende het gehele studieprogramma verantwoordelijk voor de coördinatie tussen het theoretisch en praktisch onderwijs.
+
+6. Het praktisch onderwijs is erop gericht dat de betrokkene:
+
+- a. in teamverband en in rechtstreeks contact met een gezond persoon, patiënt of groep op grond van verworven kennis, vaardigheden en competenties de vereiste algemene verpleegkundige verzorging leert plannen, verstrekken en beoordelen; en
+
+- b. als teamleider leert optreden en zich leert bezig te houden met de organisatie van de algemene verpleegkundige verzorging, waaronder de gezondheidseducatie voor individuele personen en kleine groepen.
+
 ##### Artikel 4
 
-1. Het in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01), genoemde aspect is zodanig ingericht dat de betrokkene in staat is snel inzicht te krijgen in de zorgbehoefte van de cliënt. De betrokkene draagt daarbij verantwoordelijkheid voor het zelfstandig verzamelen en interpreteren van gegevens rond een individuele cliënt en het interpreteren en registreren van de effecten hiervan. Op grond hiervan is de betrokkene in staat de benodigde verpleegkundige interventies en bijbehorende activiteiten te plannen, uit te voeren en te verantwoorden.
+1. Het in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27), genoemde aspect is zodanig ingericht dat de betrokkene in staat is snel inzicht te krijgen in de zorgbehoefte van de cliënt. De betrokkene draagt daarbij verantwoordelijkheid voor het zelfstandig verzamelen en interpreteren van gegevens rond een individuele cliënt en het interpreteren en registreren van de effecten hiervan. Op grond hiervan is de betrokkene in staat de benodigde verpleegkundige interventies en bijbehorende activiteiten te plannen, uit te voeren en te verantwoorden.
 
-2. Het in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01), genoemde aspect is zodanig ingericht dat de betrokkene in staat isaan de hand van standaardprocedures en combinaties van procedures de dreigende of bestaande gezondheidsproblemen van de cliënt te onderkennen en in staat is zorg te plannen en uit te voeren.
+2. Het in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27), genoemde aspect is zodanig ingericht dat de betrokkene in staat is:
 
-3. Het in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01), genoemde aspect is zodanig ingericht dat de betrokkene in staat is een verpleegproces in een verpleegplan vast te leggen, alsmede een eigen werkplanning te maken, voorwaarden te formuleren die wenselijk zijn voor de te verlenen zorg en efficiënt en kostenbewust om te gaan met de beschikbare materiële en financiële middelen.
+- a. aan de hand van standaardprocedures en combinaties van procedures de dreigende of bestaande gezondheidsproblemen van de cliënt te onderkennen en in staat is zorg te plannen en uit te voeren;
 
-4. Het in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01), genoemde aspect is zodanig ingericht dat de betrokkene:
+- b. personen, gezinnen en groepen te helpen een gezonde levensstijl aan te nemen en voor zichzelf te zorgen op basis van de volgende door de betrokkene verworven kennis:
+
+- 1°. uitgebreide kennis van de wetenschappen waarop de algemene verpleegkunde is gebaseerd, met inbegrip van voldoende kennis van het organisme, de fysiologie en het gedrag van de gezonde en de zieke mens, alsmede van het verband tussen de gezondheidstoestand en de fysieke en sociale omgeving van de mens;
+
+- 2°. kennis van de aard en de ethiek van het beroep en van de algemene beginselen betreffende gezondheid en verpleging.
+
+3. Het in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27), genoemde aspect is zodanig ingericht dat de betrokkene in staat is een verpleegproces in een verpleegplan vast te leggen, alsmede een eigen werkplanning te maken, voorwaarden te formuleren die wenselijk zijn voor de te verlenen zorg en efficiënt en kostenbewust om te gaan met de beschikbare materiële en financiële middelen.
+
+4. Het in [artikel 3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27), genoemde aspect is zodanig ingericht dat de betrokkene:
 
 - a. op het terrein van de somatische zorg in staat is tot:
 
@@ -106,11 +122,13 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - b. op het terrein van de psychosociale zorg in staat is tot psychosociale begeleiding, waaronder het geven van voorlichting en advies aan de cliënt;
 
-- c. op het terrein van de zorgcoördinatie in staat is tot het organiseren en coördineren van de zorg en het consulteren van, dan wel verwijzen naar andere hulpverleners in de zorg.
+- c. op het terrein van de zorgcoördinatie in staat is tot het organiseren en coördineren van de zorg en het consulteren van, dan wel verwijzen naar andere hulpverleners in de zorg;
 
-5. Het in [artikel 3, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01), genoemde aspect is zodanig ingericht dat de betrokkene in staat is om periodiek de effecten van de zorgverlening op de gezondheidstoestand van de cliënt te evalueren en het verpleegplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
+- d. in staat is zelfstandig urgente levensreddende maatregelen te treffen en in crisis- en rampensituaties te handelen.
 
-6. Het in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01), genoemde aspect is zodanig ingericht dat de betrokkene in staat is:
+5. Het in [artikel 3, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27), genoemde aspect is zodanig ingericht dat de betrokkene in staat is om periodiek de effecten van de zorgverlening op de gezondheidstoestand van de cliënt te evalueren en het verpleegplan zodanig bij te stellen dat optimale resultaten bereikt kunnen worden.
+
+6. Het in [artikel 3, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27), genoemde aspect is zodanig ingericht dat de betrokkene in staat is:
 
 - a. om te werken aan de eigen competentieontwikkeling overeenkomstig de kwaliteitsstandaarden en normen van de beroepsgroep van verpleegkundigen en te reflecteren op het persoonlijke en professionele functioneren in relatie tot de verschillende aspecten van de beroepsuitoefening, teneinde de beroepsuitoefening op een hoog kwaliteitsniveau te waarborgen;
 
@@ -118,19 +136,33 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - c. om bij te dragen aan de maatschappelijke ontwikkeling en profilering van het beroep door visieontwikkeling, onderbouwing en implementatie van het verpleegkundig handelen aan de hand van EBP.
 
-7. Het in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01), genoemde aspect is zodanig ingericht dat de betrokkene in staat is om de zorg te organiseren en te coördineren voor de cliënt volgens geldende kwaliteitscriteria, alsmede om deel te nemen aan samenwerkingsverbanden en multidisciplinair overleg teneinde continuïteit van zorg te garanderen en met andere disciplines in de zorg afstemming te bereiken.
+7. Het in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27), genoemde aspect is zodanig ingericht dat de betrokkene:
 
-8. Het in [artikel 3, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01), genoemde aspect is zodanig ingericht dat de betrokkene in staat is:
+- a. in staat is om de zorg te organiseren en te coördineren voor de cliënt volgens geldende kwaliteitscriteria, alsmede om deel te nemen aan samenwerkingsverbanden en multidisciplinair overleg teneinde continuïteit van zorg te garanderen en met andere disciplines in de zorg afstemming te bereiken;
+
+- b. in staat is om doeltreffend samen te werken met andere actoren in de gezondheidszorg, met inbegrip van deelname aan de praktische opleiding van het op het gebied van de gezondheidszorg werkzame personeel, op basis van:
+
+- 1°. bekwaamheid om deel te nemen aan de praktische opleiding van het op het gebied van de gezondheidszorg werkzame personeel en ervaring op het gebied van samenwerking met dit personeel;
+
+- 2°. ervaring op het gebied van samenwerking met andere personen die beroepsmatig op het gebied van de gezondheidszorg werkzaam zijn.
+
+8. Het in [artikel 3, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27), genoemde aspect is zodanig ingericht dat de betrokkene in staat is:
 
 - a. in een cyclisch proces van kwaliteitszorg te werken aan continue toetsing en verbetering van de verpleegkundige zorgverlening en organisatie van de zorg;
 
 - b. tot het initiëren en stimuleren van inhoudelijke verbeteringen en het maken van afspraken over een optimale organisatie ten behoeve van de continuïteit en kwaliteit van de zorgverlening;
 
-- c. om nieuwe inzichten te vertalen naar de cliëntenzorg en daarbij te handelen vanuit een juist begrip van wettelijke regelingen en andere regelingen betreffende de verpleegkundige beroepsuitoefening.
+- c. om nieuwe inzichten te vertalen naar de cliëntenzorg en daarbij te handelen vanuit een juist begrip van wettelijke regelingen en andere regelingen betreffende de verpleegkundige beroepsuitoefening;
+
+- d. zorgbehoevenden en hun naasten onafhankelijk te adviseren, instrueren en ondersteunen.
 
 ##### Artikel 5
 
-Het praktische onderwijs omvat het opdoen van ervaring in de praktijk op de in [artikel 3, eerste lid, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01), bedoelde aspecten van de opleiding onder verantwoordelijkheid van docenten verpleegkunde.
+1. Het praktische onderwijs omvat het opdoen van ervaring in de praktijk op de in [artikel 3, eerste lid, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27), bedoelde aspecten van de opleiding onder verantwoordelijkheid van docenten verpleegkunde.
+
+2. Het praktisch onderwijs wordt gegeven in instellingen voor gezondheidszorg en andere omgevingen waar verpleegkundige zorg wordt verleend.
+
+3. In het kader van het praktisch onderwijs neemt de betrokkene deel aan de werkzaamheden voor zover deze bijdragen aan diens opleiding en de betrokkene in staat stellen de verantwoordelijkheden op zich te leren nemen die aan de verpleegkundige zorg zijn verbonden.
 
 #### § 3. Overgangsregeling
 
@@ -155,5 +187,15 @@ Dit besluit treedt in werking met ingang 1 augustus 2011.
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen verpleegkundige 2011.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+Het theoretisch onderwijs voor verpleegkundigen wordt gegeven door docenten in de verpleegkunde en andere bevoegde personen in een onderwijsinstelling die een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030267&paragraaf=2&artikel=2&z=2022-08-27&g=2022-08-27) verzorgt.
+
+#### § 3. Overgangsregeling
+
+#### § 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
