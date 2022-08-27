@@ -4,7 +4,7 @@ identifier: "BWBR0008949"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "1997-12-01"
+last_updated: "2022-08-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008949"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder «wet»: de [Wet op de beroepen in de indivi
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=1997-12-01&g=1997-12-01) van de wet ingestelde register van tandartsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot tandarts die voldoet aan [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=1997-12-01&g=1997-12-01) tot en met [10](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=10&z=1997-12-01&g=1997-12-01) van dit besluit.
+Om in het krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27) van de wet ingestelde register van tandartsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot tandarts die voldoet aan de [artikelen 2a tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008949&paragraaf=2&artikel=3&z=2022-08-27&g=2022-08-27) van dit besluit.
 
 #### § 2. Opleidingseisen
 
@@ -191,5 +191,17 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen tandarts.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 2a
+
+1. De opleiding tot tandarts duurt ten minste vijf jaar en omvat ten minste 5.000 uur voltijds theoretisch en praktisch onderwijs.
+
+2. Het theoretisch en praktisch onderwijs voldoen ten minste aan de eisen, gesteld in punt 5.3.1 van Bijlage V van [Richtlijn 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU 2005, L 255).
+
+3. Een wijziging van punt 5.3.1 van Bijlage V, bedoeld in het tweede lid, gaat voor de toepassing van het tweede lid gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+
+#### § 3. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
