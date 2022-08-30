@@ -4,7 +4,7 @@ identifier: "BWBR0035525"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-30"
-last_updated: "2021-07-01"
+last_updated: "2022-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035525"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De bezoldiging van de voorzitter van de centrale commissie wordt vastgesteld vol
 
 ##### Artikel 3
 
-De bezoldiging van de leden van de centrale commissie wordt vastgesteld volgens het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, rekening houdend met een arbeidsduur van gemiddeld 4 uren per week.
+De bezoldiging van de overige leden van de centrale commissie wordt vastgesteld volgens het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, rekening houdend met een arbeidsduur van gemiddeld 4 uren per week.
 
 ##### Artikel 4
 
@@ -58,7 +58,7 @@ De plaatsvervangende leden van de centrale commissie ontvangen een schadeloosste
 
 ##### Artikel 5
 
-De voorzitter, de leden en de plaatsvervangende leden van de centrale commissie hebben recht op een vergoeding van reis- en verblijfskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+De voorzitter, de plaatsvervangend voorzitters, de overige leden en de plaatsvervangende leden van de centrale commissie hebben recht op een vergoeding van reis- en verblijfskosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 6
 
