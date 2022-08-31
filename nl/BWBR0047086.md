@@ -4,7 +4,7 @@ identifier: "BWBR0047086"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-31"
-last_updated: "2021-08-01"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047086"
 soort: "ministeriele-regeling"
@@ -422,7 +422,7 @@ De bedragen, bedoeld in [artikel 117, vijfde lid, WEC](https://wetten.overheid.n
 
 1. [Artikel 1 van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=1) is van toepassing op dit hoofdstuk.
 
-2. Indien de peildatum, bedoeld in de [artikelen 32 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=32&z=2022-08-31&g=2021-08-01), valt op een zaterdag, zondag of algemeen erkende feestdag wordt als peildatum de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is aangehouden.
+2. Indien de peildatum, bedoeld in de [artikelen 32 tot en met 34](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=32&z=2022-08-31&g=2022-08-31), valt op een zaterdag, zondag of algemeen erkende feestdag wordt als peildatum de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is aangehouden.
 
 ##### Artikel 29. Aanwezigheid schipperskinderen
 
@@ -796,7 +796,7 @@ Ap = het aantal op de peildatum ingeschreven leerlingen dat asielzoeker of overi
 
 1. Het bevoegd gezag van een instelling of een school waar (voortgezet) speciaal onderwijs wordt verzorgd ontvangt bijzondere bekostiging voor personeel.
 
-2. De bijzondere bekostiging bedraagt € 535,06 per ingeschreven so-leerling en vso-leerling op 1 oktober 2020, waarbij voor scholen die bijzondere bekostiging op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=38&z=2022-08-31&g=2021-08-01) hebben ontvangen een aftrek plaatsvindt gelijk aan de berekening op grond van artikel 38 vermenigvuldigd met 58,33%.
+2. De bijzondere bekostiging bedraagt € 535,06 per ingeschreven so-leerling en vso-leerling op 1 oktober 2020, waarbij voor scholen die bijzondere bekostiging op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=38&z=2022-08-31&g=2022-08-31) hebben ontvangen een aftrek plaatsvindt gelijk aan de berekening op grond van artikel 38 vermenigvuldigd met 58,33%.
 
 ##### Artikel 39. Bijzondere bekostiging bij het samengaan van een basisschool met een speciale school voor basisonderwijs
 
@@ -838,7 +838,7 @@ Het bedrag per leerling, bedoeld in [artikel 3, eerste lid, van de Regeling bijz
 
 1. Tenzij in deze regeling anders is bepaald worden de bekostigingsbedragen, bedoeld in deze regeling, uitbetaald in maandelijkse termijnen van gelijke omvang.
 
-2. De maandelijkse betaling van de bekostigingsbedragen voor personeelskosten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=2&z=2022-08-31&g=2021-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-08-31&g=2021-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-08-31&g=2021-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-08-31&g=2021-08-01), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=8&z=2022-08-31&g=2021-08-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=2&artikel=10&z=2022-08-31&g=2021-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=2&artikel=11&z=2022-08-31&g=2021-08-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=2&artikel=12&z=2022-08-31&g=2021-08-01), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=2&artikel=13&z=2022-08-31&g=2021-08-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=3&artikel=15&z=2022-08-31&g=2021-08-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=3&artikel=16&z=2022-08-31&g=2021-08-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=3&artikel=17&z=2022-08-31&g=2021-08-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=3&artikel=18&z=2022-08-31&g=2021-08-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=4&artikel=25&z=2022-08-31&g=2021-08-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=4&artikel=27&z=2022-08-31&g=2021-08-01) vindt plaats op grond van de volgende percentages:
+2. De maandelijkse betaling van de bekostigingsbedragen voor personeelskosten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=2&z=2022-08-31&g=2022-08-31), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-08-31&g=2022-08-31), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-08-31&g=2022-08-31), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-08-31&g=2022-08-31), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=1&artikel=8&z=2022-08-31&g=2022-08-31), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=2&artikel=10&z=2022-08-31&g=2022-08-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=2&artikel=11&z=2022-08-31&g=2022-08-31), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=2&artikel=12&z=2022-08-31&g=2022-08-31), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=2&artikel=13&z=2022-08-31&g=2022-08-31), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=3&artikel=15&z=2022-08-31&g=2022-08-31), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=3&artikel=16&z=2022-08-31&g=2022-08-31), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=3&artikel=17&z=2022-08-31&g=2022-08-31), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=2&paragraaf=3&artikel=18&z=2022-08-31&g=2022-08-31), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=4&artikel=25&z=2022-08-31&g=2022-08-31) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=4&artikel=27&z=2022-08-31&g=2022-08-31) vindt plaats op grond van de volgende percentages:
 
 | Augustus | 6,91% |
 | --- | --- |
@@ -854,7 +854,7 @@ Het bedrag per leerling, bedoeld in [artikel 3, eerste lid, van de Regeling bijz
 | Juni | 9,20% |
 | Juli | 9,20% |
 
-3. De bekostigingsbedragen, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=32&z=2022-08-31&g=2021-08-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=33&z=2022-08-31&g=2021-08-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=34&z=2022-08-31&g=2021-08-01) worden telkens in één termijn uitbetaald.
+3. De bekostigingsbedragen, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=32&z=2022-08-31&g=2022-08-31), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=33&z=2022-08-31&g=2022-08-31) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0047086&hoofdstuk=5&artikel=34&z=2022-08-31&g=2022-08-31) worden telkens in één termijn uitbetaald.
 
 ### Hoofdstuk 7. Slotbepalingen
 
