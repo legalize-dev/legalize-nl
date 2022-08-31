@@ -4,7 +4,7 @@ identifier: "BWBR0047083"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-08-31"
-last_updated: "2021-08-01"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047083"
 soort: "ministeriele-regeling-BES"
@@ -60,13 +60,13 @@ Het bedrag per school, bedoeld in [artikel 101, eerste lid, van de wet](https://
 
 ##### Artikel 4. Aanvullende bekostiging voor zorg voor leerlingen met een specifieke onderwijsbehoefte op Bonaire, Sint Eustatius en Saba
 
-1. De aanvullende bekostiging, bedoeld in [artikel 22, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=22), zoals dat luidde op 31 maart 2022, bedraagt voor Sint Eustatius en Saba 11,50% van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=2&z=2022-08-31&g=2021-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=3&z=2022-08-31&g=2021-08-01).
+1. De aanvullende bekostiging, bedoeld in [artikel 22, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=22), zoals dat luidde op 31 maart 2022, bedraagt voor Sint Eustatius en Saba 11,50% van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=2&z=2022-08-31&g=2022-08-31) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=3&z=2022-08-31&g=2022-08-31).
 
 2. De aanvullende bekostiging, bedoeld in [artikel 22, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=22), zoals dat luidde op 31 maart 2022, bedraagt voor Bonaire USD 334.864,68.
 
 ##### Artikel 5. Aanvullende bekostiging prijspeil Bovenwinden
 
-De aanvullende bekostiging, bedoeld in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=19), zoals dat luidde op 31 maart 2022, bedraagt 16% van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=2&z=2022-08-31&g=2021-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=3&z=2022-08-31&g=2021-08-01) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=4&z=2022-08-31&g=2021-08-01).
+De aanvullende bekostiging, bedoeld in [artikel 19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=19), zoals dat luidde op 31 maart 2022, bedraagt 16% van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=2&z=2022-08-31&g=2022-08-31), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=3&z=2022-08-31&g=2022-08-31) en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=4&z=2022-08-31&g=2022-08-31).
 
 ##### Artikel 6. Bekostiging één school op een eiland
 
@@ -74,7 +74,7 @@ De aanvullende bekostiging, bedoeld in [artikel 20 van het besluit](https://wett
 
 ##### Artikel 7. Betaalritme
 
-De maandelijkse betaling van de bekostigingsbedragen, bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=2&z=2022-08-31&g=2021-08-01), vindt plaats op grond van percentages, genoemd in de onderstaande tabel.
+De maandelijkse betaling van de bekostigingsbedragen, bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047083&artikel=2&z=2022-08-31&g=2022-08-31), vindt plaats op grond van percentages, genoemd in de onderstaande tabel.
 
 | Augustus | 7,13% |
 | --- | --- |
