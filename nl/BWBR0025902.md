@@ -4,7 +4,7 @@ identifier: "BWBR0025902"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-31"
-last_updated: "2014-01-01"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025902"
 soort: "ministeriele-regeling"
@@ -54,27 +54,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De minister stelt de provincies en gemeenten, die voor een verzameluitkering in aanmerking komen, vóór 15 november van het jaar voorafgaand aan het uitkeringsjaar in kennis van de bedragen die zij, onder het voorbehoud dat de voorstellen van wet tot vaststelling van de betrokken begrotingen door de Staten-Generaal worden aangenomen, zullen ontvangen.
+1. Indien de minister die het aangaat in een bepaald uitkeringsjaar voornemens is een verzameluitkering te laten verstrekken, meldt de minister die het aangaat deze verzameluitkering uiterlijk op 1 juni van dat uitkeringsjaar bij de minister aan. De minister die het aangaat doet deze aanmelding niet eerder dan nadat de bedragen ten behoeve van de betreffende verzameluitkering in overeenstemming met [artikel 16a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=16a), in een begrotingswet zijn opgenomen.
 
-2. Indien het voor een verzameluitkering beschikbare bedrag tijdens het uitkeringsjaar wordt verhoogd, worden de betrokken provincies en gemeenten vóór 1 maart of 1 september van dat uitkeringsjaar door de minister in kennis gesteld van het effect daarvan op de bedragen, bedoeld in het eerste lid. Ook voor deze wijzigingen geldt het voorbehoud dat de voorstellen van wet tot wijziging van de betrokken begrotingen door de Staten-Generaal worden aangenomen.
+2. Bij de aanmelding, bedoeld in het eerste lid, vermeldt de minister die het aangaat in ieder geval:
+
+- a. op welke beleidsthema’s de verzameluitkering betrekking heeft;
+
+- b. wat de hoogte is van de bedragen die provincies of gemeenten per beleidsthema ontvangen.
 
 ##### Artikel 3
 
-De betaling van de verzameluitkeringen vindt bij wijze van bevoorschotting plaats in twaalf maandelijkse termijnen.
+1. De minister stelt de hoogte van de verzameluitkeringen uiterlijk op 1 september van het uitkeringsjaar vast.
+
+2. De betaling van de verzameluitkeringen aan provincies en gemeenten vindt eveneens plaats op uiterlijk 1 september van het uitkeringsjaar.
 
 ##### Artikel 4
 
-1. De minister stelt de hoogte van de verzameluitkeringen voor de betrokken provincies en gemeenten vast vóór 1 maart van het tweede jaar volgend op het uitkeringsjaar. De vaststelling wordt gebaseerd op de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Indien de minister die het aangaat voornemens is in het uitkeringsjaar 2022 een verzameluitkering te laten verstrekken, meldt de minister die het aangaat deze verzameluitkering in afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025902&artikel=2&z=2022-08-31&g=2022-08-31), uiterlijk op 1 september 2022 bij de minister aan.
 
-2. De minister kan verzameluitkeringen geheel of gedeeltelijk terugvorderen indien:
-
-- a. er geen of onjuiste verantwoordingsinformatie is verstrekt;
-
-- b. uit de verantwoordingsinformatie blijkt dat een verzameluitkering niet volledig is besteed in het uitkeringsjaar waarvoor deze is verstrekt;
-
-- c. uit de verantwoordingsinformatie blijkt dat een verzameluitkering niet rechtmatig is besteed, of
-
-- d. uit de verantwoordingsinformatie blijkt dat het onzeker is dat een verzameluitkering rechtmatig is besteed.
+2. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025902&artikel=3&z=2022-08-31&g=2022-08-31), stelt de minister de hoogte van de verzameluitkeringen die in 2022 worden verstrekt, uiterlijk vast op 1 oktober 2022. De betaling vindt in afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025902&artikel=3&z=2022-08-31&g=2022-08-31), eveneens uiterlijk plaats op 1 oktober 2022.
 
 ##### Artikel 5
 
