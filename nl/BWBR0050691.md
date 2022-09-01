@@ -4,7 +4,7 @@ identifier: "BWBR0050691"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2022-07-01"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050691"
 soort: "AMvB"
@@ -115,6 +115,18 @@ Wijzigt het Burgerlijk ambtenarenreglement defensie.
 Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 8. Wijzigingen met ingang van 1 januari 2023
+
+### Hoofdstuk 9. Wijzigingen met ingang van 1 juli 2023
+
+### Hoofdstuk 8. Wijzigingen met ingang van 1 januari 2023
+
+##### Artikel 7.1
+
+Wijzigt het Algemeen militair ambtenarenreglement.
+
+##### Artikel 7.2
+
+Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
 ### Hoofdstuk 9. Wijzigingen met ingang van 1 juli 2023
 
