@@ -4,7 +4,7 @@ identifier: "BWBR0046444"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-08-01"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046444"
 soort: "wet"
@@ -117,7 +117,7 @@ Wijzigt de Wet op de expertisecentra.
 
 ##### Artikel XV. [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955)
 
-Dit onderdeel is nog niet inwerking getreden
+De [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955) wordt ingetrokken.
 
 ##### Artikel XVI. [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
@@ -185,9 +185,9 @@ Wijzigt deze wet.
 
 2. In dat besluit kan worden bepaald dat:
 
-- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2022-08-01&g=2022-08-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
+- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2022-09-01&g=2022-09-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
 
-- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2022-08-01&g=2022-08-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
+- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2022-09-01&g=2022-09-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
 
 ##### Artikel XXXII. Citeertitel
 
