@@ -4,7 +4,7 @@ identifier: "BWBR0030482"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2022-05-01"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030482"
 soort: "zbo"
@@ -45,7 +45,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Wmg:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- b. **NZa:** Nederlandse Zorgautoriteit, als bedoeld in [artikel 3, eerste lid van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- b. **NZa:** Nederlandse Zorgautoriteit, als bedoeld in [artikel 3, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
 - c. **Raad van Bestuur:** voorzitter en de overige leden van de NZa gezamenlijk, als bedoeld in [artikel 4 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=4);
 
@@ -63,17 +63,13 @@ In dit besluit wordt verstaan onder:
 
 - j. **CIO:**
 
-- Chief Information Officer;
-
-- k. **CIO-office:**
-
-- ondersteuning van de CIO op het gebied van informatievoorzieningsbeleid, waaronder informatietechnologie, kennismanagement, data en informatiebeveiliging en op het gebied van toezicht op het informatievoorzieningsbeleid.
+- Chief Information Officer.
 
 ##### Artikel 2. Directie Regulering
 
 1. De directie Regulering is voor de zorgmarkten in de langdurige en de curatieve zorg belast met monitoring, tarief- en prestatieregulering, bekostigingsvraagstukken, het vaststellen van de DBC’s en de verwerking daarvan in het DBC-systeem en met advisering op het gebied van marktordeningsvraagstukken.
 
-2. De directie Regulering kent de units Eerstelijnszorg, Tweedelijns Somatische Zorg 1, Tweedelijns Somatische Zorg 2, Beschikbaarheidbijdragen Geestelijke Gezondheid en Forensische Zorg, Langdurige Zorg 1, Langdurige Zorg 2, Zorgbrede Regulering en Vernieuwing en een Mt-staf.
+2. De directie Regulering kent de units Eerstelijnszorg, Tweedelijns Somatische Zorg 1, Tweedelijns Somatische Zorg 2, Beschikbaarheidbijdragen, Geestelijke Gezondheid en Forensische Zorg, Langdurige Zorg 1, Langdurige Zorg 2, Zorgbrede Regulering en Vernieuwing en een Mt-staf.
 
 ##### Artikel 3. Directie Toezicht en Handhaving
 
@@ -83,19 +79,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Directie IT en Facilitair
 
-1. De directie IT en Facilitair is belast met het uitvoeren van het informatievoorzieningsbeleid (IV-beleid). Dit betreft informatietechnologie, uitvoering kennismanagement, data en informatiebeveiliging en het leveren van de IV-diensten en producten, waaronder het leveren van een passende en fysieke (IV-)werkplek met toegang tot de beschikbare applicaties, het verzamelen, beheren en uitleveren van data ten behoeve van de reguleringsprocessen, de processen op het gebied van toezicht, handhaving en strategie, regie op de interne IV-processen en het afstemmen met leveranciers, het beheren van (maatwerk)applicaties binnen de NZa, ontwikkeling van de NZa-portalen voor de formele interactie tussen NZa en zorgaanbieders, professionals en verzekeraars, het ter beschikking stellen van facilitaire voorzieningen, het verzorgen van alle administratieve processen rondom post en archivering en de verantwoordelijkheid voor het ICT-investeringsbudget.
+1. De directie IT en Facilitair is belast met het ontwikkelen, uitvoeren van en toezicht houden op het informatievoorzieningsbeleid (IV-beleid). Dit betreft informatietechnologie, uitvoering kennismanagement, data en informatiebeveiliging en het leveren van de IV-diensten en producten, waaronder het leveren van een passende en fysieke (IV-)werkplek met toegang tot de beschikbare applicaties, het verzamelen, beheren en uitleveren van data ten behoeve van de reguleringsprocessen, de processen op het gebied van toezicht, handhaving en strategie, regie op de interne IV-processen en het afstemmen met leveranciers, het beheren van (maatwerk)applicaties binnen de NZa, ontwikkeling van de NZa-portalen voor de formele interactie tussen NZa en zorgaanbieders, professionals en verzekeraars, het ter beschikking stellen van facilitaire voorzieningen, het verzorgen van alle administratieve processen rondom post, archivering en de verantwoordelijkheid voor het ICT-investeringsbudget en het adviseren en ondersteunen van de directies vanuit een onafhankelijke positie bij het vertalen van het beleid en het vaststellen en uitvoeren van het toetsingskader hiervoor. De unit IT-beleid ondersteunt, naast de directeur IT en Facilitair, ook de CIO.
 
-2. De directie IT en Facilitair bestaat uit de units Informatiemanagement, IT-Regie, IT-Ontwikkeling en Onderhoud, Facilitair, een Mt-staf en een stafafdeling Projectmanagement.
+2. De directie IT en Facilitair bestaat uit de units IT-Beleid, Informatiemanagement, Regie, IT-Ontwikkeling en Onderhoud en een Mt-staf.
 
 ##### Artikel 5. Directie Bedrijfsvoering en Bestuursondersteuning
 
-1. De directie Bedrijfsvoering en Bestuursondersteuning is belast met advisering op economisch, medisch en juridisch gebied van de Raad van Bestuur en de beleidsdirecties, kennisontwikkeling en onderzoek, strategie en communicatie, bestuursondersteuning, ondersteuning van de bedrijfsvoering van de CIO-office en de CIO relatiebeheer, bestuurlijke kaderstelling en control, juridische zaken, de uitvoering van projecten met financiële ondersteuning en met het ondersteunen van medewerkers, unitmanagers en directeuren bij de uitvoering van het HRM-beleid en de advisering van de Raad van Bestuur op het gebied van organisatievraagstukken en personele vraagstukken, in het bijzonder op het gebied van persoonlijke ontplooiing, organisatie-ontwikkeling, arbeidsvoorwaarden, de HR-cyclus, personeels in-, door- en uitstroom, opleiding, coaching, conflictbemiddeling, arbeidsomstandigheden, het verstrekken van informatie en voorlichting betreffende het beleid van de NZa, het beantwoorden van vragen van burgers en zorgprofessionals en het fungeren als meldpunt in de zin van [artikel 74 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=74) voor het ontvangen van gegevens en inlichtingen omtrent feiten en omstandigheden die mogelijk niet in overeenstemming zijn met het bij of krachtens de wet bepaalde.
+1. De directie Bedrijfsvoering en Bestuursondersteuning is belast met advisering op economisch, medisch en juridisch gebied van de Raad van Bestuur en de beleidsdirecties, kennisontwikkeling en onderzoek, strategie en communicatie, bestuursondersteuning, de bescherming van persoonsgegevens relatiebeheer, bestuurlijke kaderstelling en control, juridische zaken, de uitvoering van projecten met financiële ondersteuning en met het ondersteunen van medewerkers, unitmanagers en directeuren bij de uitvoering van het HRM-beleid en de advisering van de Raad van Bestuur op het gebied van organisatievraagstukken en personele vraagstukken, in het bijzonder op het gebied van persoonlijke ontplooiing, organisatie-ontwikkeling, arbeidsvoorwaarden, de HR-cyclus, personeels in-, door- en uitstroom, opleiding, coaching, conflictbemiddeling, arbeidsomstandigheden, het verstrekken van informatie en voorlichting betreffende het beleid van de NZa, het beantwoorden van vragen van burgers en zorgprofessionals en het fungeren als meldpunt in de zin van [artikel 74 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=74) voor het ontvangen van gegevens en inlichtingen omtrent feiten en omstandigheden die mogelijk niet in overeenstemming zijn met het bij of krachtens de wet bepaalde.
 
 2. De directie Bedrijfsvoering en Bestuursondersteuning bestaat uit de units Economisch en Medisch Bureau, Strategie- en Bestuursondersteuning, Communicatie, Informatie en Contact Centrum, Juridische Zaken, Financiën en Control, Human Resource Management en een Mt-staf.
 
 ##### Artikel 6. Binnen beleid en begroting
 
-1. De op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2022-11-24&g=2022-05-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2022-11-24&g=2022-05-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2022-11-24&g=2022-05-01) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2022-11-24&g=2022-05-01) bij dit besluit.
+1. De op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2022-09-01&g=2022-09-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2022-09-01&g=2022-09-01), [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9a&z=2022-09-01&g=2022-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2022-09-01&g=2022-09-01) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2022-09-01&g=2022-09-01) bij dit besluit.
 
 2. Directeuren oefenen hun bevoegdheden uit in overleg met hun portefeuillehouder.
 
@@ -107,23 +103,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8. Mandaat
 
-1. Directeuren en de CIO zijn met inachtneming van het derde en vierde lid, voor de uitvoering van de werkzaamheden van hun directie respectievelijk de CIO-office, bevoegd om namens de NZa beschikkingen te nemen, met uitzondering van beschikkingen als bedoeld in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=48), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49), [85 tot en met 90 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=85) en beschikkingen op bezwaar.
+1. Directeuren zijn met inachtneming van het derde en vierde lid, voor de uitvoering van de werkzaamheden van hun directie, bevoegd om namens de NZa beschikkingen te nemen, met uitzondering van beschikkingen als bedoeld in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=48), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49), [85 tot en met 90 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=85) en beschikkingen op bezwaar.
 
 2. Directeuren zijn bevoegd tot het verlenen van ondermandaat aan hun unitmanagers voor het nemen van beschikkingen betreffende tarieven, prestatiebeschrijvingen, beschikbaarheidbijdragen, vereffeningsbedragen, het vaststellen van grenzen als bedoeld in [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), beschikkingen krachtens de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), verdagingsbeschikkingen, dwangsombeschikkingen in verband met het niet-tijdig beslissen op een aanvraag of een bezwaarschrift, beschikkingen waarmee het bedrag van de verschuldigde wettelijke rente wordt vastgesteld als bedoeld in [artikel 4:99 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:99) en handhavingsbeschikkingen met uitzondering van boetebeschikkingen.
 
-3. In afwijking van het eerste lid is de directeur Bedrijfsvoering en Bestuursondersteuning bevoegd om namens de NZa te beslissen op een verzoek in te stemmen met rechtstreeks beroep tegen beschikkingen, alsmede te beslissen op bezwaar, met uitzondering van beschikkingen van de Raad van Bestuur.
+3. In aanvulling op het eerste lid is de directeur Bedrijfsvoering en Bestuursondersteuning bevoegd om namens de NZa te beslissen op een verzoek in te stemmen met rechtstreeks beroep tegen beschikkingen en in afwijking van het eerste lid is de directeur Bedrijfsvoering en Bestuursondersteuning bevoegd om namens de NZa te beslissen op bezwaar, met uitzondering van beschikkingen van de Raad van Bestuur.
 
-4. Door vernummering vervallen.
-
-5. Door vernummering vervallen.
-
-6. De portefeuillehouder Toezicht en Handhaving is bevoegd om beschikkingen te nemen tot het ter openbare kennis brengen van een aanwijzing en een last onder dwangsom.
+4. De portefeuillehouder Toezicht en Handhaving is bevoegd om beschikkingen te nemen tot het ter openbare kennis brengen van een aanwijzing en een last onder dwangsom.
 
 ##### Artikel 9. Volmacht en machtiging personele aangelegenheden
 
 1. De portefeuillehouders hebben voor hun aandachtsgebieden machtiging tot het vaststellen van beoordelingen van het functioneren van unitmanagers en tot het nemen van de daaruit voortvloeiende beslissingen.
 
-2. Directeuren en de CIO hebben volmacht en machtiging ten aanzien van personeelsaangelegenheden betreffende de onder hen ressorterende medewerkers, met uitzondering van ontslag anders dan ontslag op verzoek van de medewerker zelf en het nemen van ordemaatregelen of het opleggen van straffen als bedoeld in de CAO Rijk.
+2. Directeuren hebben volmacht en machtiging ten aanzien van personeelsaangelegenheden betreffende de onder hen ressorterende medewerkers, met uitzondering van ontslag anders dan ontslag op verzoek van de medewerker zelf en het nemen van ordemaatregelen of het opleggen van straffen als bedoeld in de CAO Rijk.
 
 3. De voorzitter heeft volmacht om te beslissen over het ontslag anders dan ontslag op eigen verzoek.
 
@@ -135,7 +127,7 @@ In dit besluit wordt verstaan onder:
 
 1. De leden van de Raad van Bestuur zijn bevoegd namens de NZa handelingen te verrichten, anders dan besluiten en privaatrechtelijke rechtshandelingen.
 
-2. Directeuren en de CIO zijn voor de uitvoering van de werkzaamheden van hun directie respectievelijk de CIO-office bevoegd, namens de NZa handelingen te verrichten, anders dan besluiten en privaatrechtelijke rechtshandelingen, voor zover het de normale uitoefening van hun functie betreft.
+2. Directeuren zijn voor de uitvoering van de werkzaamheden van hun directie bevoegd, namens de NZa handelingen te verrichten, anders dan besluiten en privaatrechtelijke rechtshandelingen, voor zover het de normale uitoefening van hun functie betreft.
 
 3. Directeuren zijn, voor de uitoefening van de in het tweede lid bedoelde bevoegdheden, bevoegd verdere machtiging te verlenen aan de unitmanagers onderscheidenlijk medewerkers van hun directie, voor zover het de normale uitoefening van de functie als unitmanager, onderscheidenlijk medewerker betreft.
 
@@ -201,15 +193,15 @@ De organisatie van de NZa kent vier directies: Regulering, Toezicht en Handhavin
 
 De directie Toezicht en Handhaving is belast met het in [artikel 16 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) bedoelde toezicht op de uitvoering van het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), met het toezicht op de naleving van hetgeen bij of krachtens de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) is bepaald en met de beoordeling van aanmerkelijke marktmacht en concentraties, met het uitbrengen van zienswijzen, met monitoring en met handhaving. De directie Toezicht en Handhaving kent de units Toezicht Zorgaanbieders I, Toezicht Zorgaanbieders II, Toezicht Zorgverzekeraars, Toezicht Wlz-uitvoerders en CAK, de unit Detectie, Data-analyse en Casusteam en een MT-staf.
 
-De directie IT en Facilitair (I&F) is belast met het uitvoeren van het informatievoorzieningsbeleid. Hieronder valt informatietechnologie, uitvoering kennismanagement, data en informatiebeveiliging en het leveren van de IV diensten en producten, waaronder het leveren van een passende en fysieke (IV)-werkplek met toegang tot de beschikbare applicaties, het verzamelen, beheren en uitleveren van data ten behoeve van de reguleringsprocessen, de processen op het gebied van toezicht en handhaving en strategie en regie op de interne IV processen. Ook stemt de directie I&F af met leveranciers en is zij voorts belast met het beheren van (maatwerk)applicaties binnen de NZa, ontwikkeling van de NZa Portalen voor de formele interactie tussen NZa en zorgaanbieders, professionals en verzekeraars, het ter beschikking stellen van facilitaire voorzieningen en het verzorgen van alle administratieve processen rondom post en archivering. De directeur I&F is verantwoordelijk voor het ICT-investeringsbudget en de toekenning van de ICT- investeringsbedragen. De directeur I&F zal aan de hand van het totaal aan geraamde investeringen een advies geven over het meerjarig investeringskader en de daarbij behorende beheerskosten. De directie IT en Facilitair (I&F) bestaat uit de units Informatiemanagement, IT-Regie, IT-Ontwikkeling en Onderhoud, Facilitair, een Mt-staf en een stafafdeling Projectmanagement.
+De directie IT en Facilitair (I&F) is belast met het ontwikkelen, uitvoeren van en het toezicht houden op het informatievoorzieningsbeleid. Hieronder valt informatietechnologie, uitvoering kennismanagement, data en informatiebeveiliging en het leveren van de IV diensten en producten, waaronder het leveren van een passende en fysieke (IV)-werkplek met toegang tot de beschikbare applicaties, het verzamelen, beheren en uitleveren van data ten behoeve van de reguleringsprocessen, de processen op het gebied van toezicht en handhaving en strategie en regie op de interne IV processen. Ook stemt de directie I&F af met leveranciers en is zij voorts belast met het beheren van (maatwerk)applicaties binnen de NZa, ontwikkeling van de NZa Portalen voor de formele interactie tussen NZa en zorgaanbieders, professionals en verzekeraars, het ter beschikking stellen van facilitaire voorzieningen, het verzorgen van alle administratieve processen rondom post en archivering en het adviseren en ondersteunen van de directies vanuit een onafhankelijke positie bij het vertalen van het beleid en het vaststellen en uitvoeren van het toetsingskader hiervoor. De unit IT-beleid ondersteunt, naast de directeur IT en Facilitair, ook de CIO. De directeur I&F is verantwoordelijk voor het ICT-investeringsbudget en de toekenning van de ICT- investeringsbedragen. De directeur I&F zal aan de hand van het totaal aan geraamde investeringen een advies geven over het meerjarig investeringskader en de daarbij behorende beheerskosten. De directie IT en Facilitair (I&F) bestaat uit de units IT-Beleid, Informatiemanagement, Regie, IT-Ontwikkeling en Onderhoud en een Mt-staf.
 
-De directie Strategie is belast met advisering van de Raad van Bestuur en de beleidsdirecties op economisch, medisch en juridisch gebied en met kennisontwikkeling en onderzoek, strategie en communicatie, bestuursondersteuning ondersteuning van de bedrijfsvoering van de CIO-office en de CIO, relatiebeheer, bestuurlijke kaderstelling en control, juridische zaken, de uitvoering van projecten met financiële ondersteuning en met het ondersteunen van medewerkers, unitmanagers en directeuren bij de uitvoering van het HRM-beleid en de advisering van de Raad van Bestuur op het gebied van organisatievraagstukken en personele vraagstukken in het bijzonder op het gebied van persoonlijke ontplooiing, organisatie-ontwikkeling, arbeidsvoorwaarden, de HR-cyclus, personeels in-, door- en uitstroom, opleiding, coaching, conflictbemiddeling, arbeidsomstandigheden, het verstrekken van informatie en voorlichting betreffende het beleid van de NZa, het beantwoorden van vragen van burgers en zorgprofessionals en het fungeren als meldpunt in de zin van artikel 74 van de Wmg voor het ontvangen van gegevens en inlichtingen omtrent feiten en omstandigheden die mogelijk niet in overeenstemming zijn met het bij of krachtens de wet bepaalde. De directie Strategie bestaat uit de units Economisch en Medisch Bureau, Strategie en Bestuursondersteuning, Communicatie, Informatie en Contact Centrum, Juridische Zaken, Financiën en Control, Human Resource Management en een Mt-staf.
+De directie Bedrijfsvoering en Bestuursondersteuning is belast met advisering van de Raad van Bestuur en de beleidsdirecties op economisch, medisch en juridisch gebied en met kennisontwikkeling en onderzoek, strategie en communicatie, bestuursondersteuning de bescherming van persoonsgegevens, relatiebeheer, bestuurlijke kaderstelling en control, juridische zaken, de uitvoering van projecten met financiële ondersteuning en met het ondersteunen van medewerkers, unitmanagers en directeuren bij de uitvoering van het HRM-beleid en de advisering van de Raad van Bestuur op het gebied van organisatievraagstukken en personele vraagstukken in het bijzonder op het gebied van persoonlijke ontplooiing, organisatie-ontwikkeling, arbeidsvoorwaarden, de HR-cyclus, personeels in-, door- en uitstroom, opleiding, coaching, conflictbemiddeling, arbeidsomstandigheden, het verstrekken van informatie en voorlichting betreffende het beleid van de NZa, het beantwoorden van vragen van burgers en zorgprofessionals en het fungeren als meldpunt in de zin van artikel 74 van de Wmg voor het ontvangen van gegevens en inlichtingen omtrent feiten en omstandigheden die mogelijk niet in overeenstemming zijn met het bij of krachtens de wet bepaalde. De directie Bedrijfsvoering en Bestuursondersteuning bestaat uit de units Economisch en Medisch Bureau, Strategie- en Bestuursondersteuning, Communicatie, Informatie en Contact Centrum, Juridische Zaken, Financiën en Control, Human Resource Management en een Mt-staf.
 
 De betreffende partners binnen het samenwerkingsverband Bestuurlijk Overleg Integriteit Zorgsector (BO TIZ) hebben samenwerkingsafspraken gemaakt die zijn vastgelegd in het Convenant houdende afspraken over de samenwerking in het kader van de verbetering van de bestrijding van zorgfraude: Informatie Knooppunt Zorgfraude (IKZ). Deze afspraken zien onder meer op de oprichting van een IKZ en de beheersverantwoordelijkheid van de NZa daarvoor.
 
 Het IKZ is een publiekrechtelijk samenwerkingsverband van de in het convenant genoemde partners die deelnemen aan het samenwerkingsverband BO TIZ. Het IKZ is beheersmatig in de unit IKZ van de NZa ingebed. Het doel van het IKZ zoals opgenomen in het genoemde convenant is het versterken van de integriteit van de zorgsector door het voorkomen en aanpakken van onrechtmatigheden in de zorg die ten laste komen van de voor zorg bestemde middelen. De taken van het IKZ (de unit IKZ) zijn omschreven in dit convenant en de daarbij behorende stukken. Het IKZ draagt zorg voor het verrijken van signalen van een vermoeden van fraude in de zorg, het opstellen van een advies door welke partner het verrijkte signaal moet worden afgehandeld, het doorsturen van het verrijkte signaal naar een of meerdere aangesloten partners, het in behandeling nemen van verrijkte signalen die multidisciplinaire afhandeling vergen binnen het IKZ en monitoren van de status van de melding (procescoördinatie). Ook draagt het IKZ zorg voor het opstellen van een geanonimiseerde rapportage op geaggregeerd niveau met kwantitatieve en kwalitatieve informatie over meldingen die binnenkomen bij het IKZ en het vergroten van de kennis over fraude in de zorg bij de convenantpartners. De taken van het hoofd IKZ (de unitmanager van de unit IKZ) zijn eveneens nader omschreven in het hiervoor genoemde convenant en de daarbij behorende stukken.
 
-De CIO-office is belast met het ondersteunen van de CIO bij het ontwikkelen van het informatievoorzieningsbeleid waaronder informatietechnologie, kennismanagement, data en informatiebeveiliging en met het toezicht op het informatievoorzieningsbeleid. Daarnaast adviseert en ondersteunt de CIO-office vanuit een onafhankelijke positie de beleidsdirecties bij het vertalen van het beleid en stelt het toetsingskader op dit gebied vast en voert dit uit. Hiermee wordt de integrale werkwijze binnen de NZa op het gebied van het informatievoorzieningsbeleid waaronder informatietechnologie, kennismanagement, data en informatiebeveiliging bevorderd. De kader stellende en toezichthoudende taken op IV-gebied, zijn gebundeld in de CIO-office. De CIO heeft dezelfde bevoegdheden als een directeur voor wat betreft de personeelsaangelegenheden. Een ander lid van de Raad van Bestuur kan de CIO conform het Bestuursreglement NZa vervangen en treedt daarmee in de bevoegdheden van de CIO zoals in dit Mandaatbesluit opgenomen.
+De functionaris gegevensbescherming valt onder de verantwoordelijkheid van de directeur Bedrijfsvoering en Bestuursondersteuning/unitmanager Juridische Zaken, voor wat betreft personeelsaangelegenheden en in financieel opzicht. De chief information security officer en de privacy officer vallen onder de verantwoordelijkheid van de directeur IT en Facilitair/unitmanager IT-Beleid voor wat betreft personeelsaangelegenheden en in financieel opzicht. Gelet op hun functies leggen zij voor wat betreft de inhoud van hun werkzaamheden direct verantwoording af aan de portefeuillehouder die voor beveiliging c.q. privacy is aangewezen als eerst verantwoordelijk bestuurslid binnen de Raad van Bestuur. Gelet op hun onafhankelijke positie kunnen zij los daarvan direct escaleren naar de voorzitter van de Raad van Bestuur.
 
 ## Bijlage 2. Volmachten
 
@@ -235,7 +227,7 @@ In deze notitie wordt in het kort de inrichting en werkwijze van de werkorganisa
 
 ### 1. Inleiding
 
-De directie Regulering is voor de zorgmarkten in de langdurige en de curatieve zorg belast met monitoring, tarief- en prestatieregulering, bekostigingsvraagstukken, het vaststellen van de DBC’s en de verwerking daarvan in het DBC-systeem en met advisering op het gebied van marktordeningsvraagstukken. De directie Regulering kent de units Eerstelijnszorg, Tweedelijns Somatische Zorg 1, Tweedelijns Somatische Zorg 2, Beschikbaarheidbijdragen Geestelijke Gezondheid en Forensische Zorg, Langdurige Zorg 1, Langdurige Zorg 2, Zorgbrede Regulering en Vernieuwing, en een Mt-staf.
+De directie Regulering is voor de zorgmarkten in de langdurige en de curatieve zorg belast met monitoring, tarief- en prestatieregulering, bekostigingsvraagstukken, het vaststellen van de DBC’s en de verwerking daarvan in het DBC-systeem en met advisering op het gebied van marktordeningsvraagstukken. De directie Regulering kent de units Eerstelijnszorg, Tweedelijns Somatische Zorg 1, Tweedelijns Somatische Zorg 2, Beschikbaarheidbijdragen, Geestelijke Gezondheid en Forensische Zorg, Langdurige Zorg 1, Langdurige Zorg 2, Zorgbrede Regulering en Vernieuwing, en een Mt-staf.
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
@@ -263,7 +255,7 @@ Vervallen
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
-De functionaris gegevensbescherming, de security officer en de privacy officer vallen ook onder de verantwoordelijkheid van de CIO voor wat betreft personeelsaangelegenheden en in financieel opzicht, omdat de CIO verantwoordelijk is voor het gehele informatievoorzieningsbeleid. Gelet op hun functies leggen zij voor wat betreft de inhoud van hun werkzaamheden direct verantwoording af aan de portefeuillehouder die voor beveiliging c.q. privacy is aangewezen als eerst verantwoordelijk bestuurslid binnen de Raad van Bestuur. Gelet op hun onafhankelijke positie kunnen zij los daarvan direct escaleren naar de voorzitter van de Raad van Bestuur.
+Directeuren zijn verantwoordelijk voor een goede uitvoering van de werkzaamheden die tot het aandachtsgebied van hun directie behoren. Binnen de kaders van het door de Raad van Bestuur vastgestelde werkprogramma, de begroting en de personeelsformatie is het de verantwoordelijkheid van directeuren om sturing te geven aan de werkzaamheden van hun directie en daarbij prioriteiten te stellen. De NZa werkt op basis van de VBTB-systematiek (Van Beleidsbegroting Tot Beleidsverantwoording), hetgeen betekent dat via de wettelijke taken, de missie van de NZa en de geformuleerde hoofddoelstellingen, in het werkprogramma processen en projecten worden benoemd en worden gekoppeld aan de begroting. In het jaarverslag van de NZa wordt vervolgens verantwoording afgelegd over de bereikte resultaten. Ten behoeve van dit plannings- en verantwoordingsproces leggen de directies via voortgangsrapportages (zowel inhoudelijk als financieel) verantwoording af over de werkzaamheden.
 
 ## Bijlage 2. Volmachten
 
@@ -279,11 +271,11 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
-Directeuren zijn verantwoordelijk voor een goede uitvoering van de werkzaamheden die tot het aandachtsgebied van hun directie behoren. Binnen de kaders van het door de Raad van Bestuur vastgestelde werkprogramma, de begroting en de personeelsformatie is het de verantwoordelijkheid van directeuren om sturing te geven aan de werkzaamheden van hun directie en daarbij prioriteiten te stellen. De NZa werkt op basis van de VBTB-systematiek (Van Beleidsbegroting Tot Beleidsverantwoording), hetgeen betekent dat via de wettelijke taken, de missie van de NZa en de geformuleerde hoofddoelstellingen, in het werkprogramma processen en projecten worden benoemd en worden gekoppeld aan de begroting. In het jaarverslag van de NZa wordt vervolgens verantwoording afgelegd over de bereikte resultaten. Ten behoeve van dit plannings- en verantwoordingsproces leggen de directies via voortgangsrapportages (zowel inhoudelijk als financieel) verantwoording af over de werkzaamheden.
-
 De Raad van Bestuur geeft leiding aan de organisatie via het beginsel van integraal management, hetgeen inhoudt dat directeuren en unitmanagers integraal aansturen en verantwoordelijk zijn voor in- en output van directie of unit, zowel beleidsinhoudelijk en financieel, als op het terrein van de personele organisatie. Binnen het kader van de in het werkprogramma gemaakte afspraken hebben directeuren de vrijheid om prioriteiten te stellen op voorwaarde dat het gehele werkprogramma wordt gerealiseerd. Het Besluit organisatie, mandaat, volmacht en machtiging NZa biedt directeuren mogelijkheden om bevoegdheden over te dragen aan hun unitmanagers, die op hun beurt ook bevoegdheden aan medewerkers kunnen overdragen, teneinde tot een zo doelmatig mogelijke werkwijze en aansturing van de organisatie te komen. Ondanks het sturingsconcept van het integraal management kunnen directeuren en unitmanagers bevoegdheden ook aan zich houden als dat in verband met specifieke omstandigheden aangewezen is.
 
 Belangrijk uitgangspunt voor de uitoefening van bevoegdheden is dat op elk niveau van de organisatie geldt, van medewerker tot directeur, dat aangelegenheden die meerdere projecten, units- of directies aangaan, onderling dienen te worden afgestemd. Deze afstemmingsverplichting geldt als een richtlijn in het kader van het Besluit organisatie, mandaat, volmacht en machtiging NZa, en daarmee als conditie waaronder bevoegdheden worden verleend. De portefeuillehouders maken met directeuren afspraken over het detailniveau van de vereiste afstemming, hetgeen mutatis mutandis ook geldt voor directeuren met hun unitmanagers en de unitmanagers met hun medewerkers.
+
+De unitmanagers spreken aldus met hun medewerkers af welke zaken zelfstandig kunnen worden behandeld en verzorgen tevens de afstemming met hun collega-unitmanagers en de verantwoordelijke directeur(en). Zonodig vindt overleg plaats met de portefeuillehouder. Bij verschillen van inzicht dienen de verschillen expliciet te worden gemaakt en aan de RvB ter besluitvorming te worden voorgelegd.
 
 ## Bijlage 2. Volmachten
 
@@ -307,7 +299,7 @@ De unit Informatie Knooppunt Zorgfraude (IKZ) is belast met de werkzaamheden voo
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
-De unitmanagers spreken aldus met hun medewerkers af welke zaken zelfstandig kunnen worden behandeld en verzorgen tevens de afstemming met hun collega-unitmanagers en de verantwoordelijke directeur(en). Zonodig vindt overleg plaats met de portefeuillehouder. Bij verschillen van inzicht dienen de verschillen expliciet te worden gemaakt en aan de RvB ter besluitvorming te worden voorgelegd.
+Aldus betekent een handtekening onder een brief of besluit dat de ondertekenaar zich ervan heeft vergewist dat het ingenomen standpunt overeenstemt met het door de Raad van Bestuur vastgesteld beleid, in- en zonodig extern is afgestemd en dat eventuele financiële consequenties passen binnen de afgesproken financiële kaders. Ook de portefeuillehouders zullen attent moeten zijn op de (tijdige) inschakeling van de vereiste disciplines. Aldus worden gebreken in de beleidsinhoudelijke, financiële of juridische voorbereiding zo veel mogelijk voorkomen.
 
 ## Bijlage 2. Volmachten
 
@@ -323,7 +315,7 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 ### 3. Bevoegdheden en verantwoordelijkheden
 
-Aldus betekent een handtekening onder een brief of besluit dat de ondertekenaar zich ervan heeft vergewist dat het ingenomen standpunt overeenstemt met het door de Raad van Bestuur vastgesteld beleid, in- en zonodig extern is afgestemd en dat eventuele financiële consequenties passen binnen de afgesproken financiële kaders. Ook de portefeuillehouders zullen attent moeten zijn op de (tijdige) inschakeling van de vereiste disciplines. Aldus worden gebreken in de beleidsinhoudelijke, financiële of juridische voorbereiding zo veel mogelijk voorkomen.
+Bij gebruik van een handtekeningenstempel in situaties van grote aantallen brieven of besluiten, geldt uiteraard dat instemming is vereist van degene wiens handtekening het betreft en die persoon bevoegd dient te zijn tot ondertekening.
 
 Bij gebruik van een handtekeningenstempel in situaties van grote aantallen brieven of besluiten, geldt uiteraard dat instemming is vereist van degene wiens handtekening het betreft en die persoon bevoegd dient te zijn tot ondertekening.
 
@@ -359,11 +351,11 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 ##### Artikel 9a. Volmacht financiële verplichtingen
 
-1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2022-11-24&g=2022-05-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2022-09-01&g=2022-09-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2022-11-24&g=2022-05-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2022-09-01&g=2022-09-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-3. De unitmanager Informatie Knooppunt Zorgfraude is bevoegd voor de uitvoering van werkzaamheden van zijn unit, namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2022-11-24&g=2022-05-01) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+3. De unitmanager Informatie Knooppunt Zorgfraude is bevoegd voor de uitvoering van werkzaamheden van zijn unit, namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2022-09-01&g=2022-09-01) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
 ## Bijlage 1. Werkwijze NZa – sturing en verantwoording
 
@@ -387,8 +379,23 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 ##### Artikel 5b. Cio-office
 
-De CIO-office is belast met het ondersteunen van de CIO bij het ontwikkelen van het informatievoorzieningsbeleid waaronder informatietechnologie, kennismanagement, data en informatiebeveiliging en met het toezicht op het informatievoorzieningsbeleid. De CIO-office adviseert en ondersteunt de beleidsdirecties vanuit een onafhankelijke positie bij het vertalen van het beleid en stelt het toetsingskader hiervoor vast en voert dit uit.
+Vervallen
 
 ## Bijlage 1. Werkwijze NZa – sturing en verantwoording
 
 ### 2. Inrichting organisatie
+
+### 3. Bevoegdheden en verantwoordelijkheden
+
+## Bijlage 2. Volmachten op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9a&z=2022-09-01&g=2022-09-01)
+
+Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, of van hun unit bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de volgende maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen:
+
+|   | Rechtshandeling | RvB | Lid RvB | Portefeuillehouder IKZ | Directeur | Unitmanager |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1. | Vanaf € 200.000 (incl. BTW) | X |   |   |   |   |
+| 2. | Van € 10.000 tot € 200.000 (incl. BTW) | X |   |   | X |   |
+| 3. | Van € 10.000 tot € 100.000 (incl. BTW) | X |   | X | X |   |
+| 4. | Tot € 10.000 (incl. BTW) | X | X | X | X | X |
+
+(Onder)volmachten kunnen uitsluitend worden uitgeoefend met in achtneming van de door de Raad van Bestuur vastgestelde budgetten en met inachtneming van de door de Raad van Bestuur vastgestelde richtlijnen.
