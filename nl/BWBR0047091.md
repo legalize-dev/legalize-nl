@@ -4,7 +4,7 @@ identifier: "BWBR0047091"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-01"
-last_updated: "2022-04-01"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047091"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ entry_into_force: "2022-09-01"
 
 1. **bewindspersonen:** Minister van Buitenlandse Zaken, Minister van Defensie, en Staatssecretaris van Justitie en Veiligheid gezamenlijk;
 
-2. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=2&z=2022-09-01&g=2022-04-01).
+2. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=2&z=2022-09-01&g=2022-09-01).
 
 ##### Artikel 2. Instelling en taak
 
@@ -126,7 +126,7 @@ De commissie heeft de volgende samenstelling:
 
 1. De commissie is bevoegd zich voor het inwinnen van informatie rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek. Daarnaast zal de commissie belanghebbenden en betrokkenen de gelegenheid bieden zich te wenden tot de commissie.
 
-2. De bewindspersonen verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=7&z=2022-09-01&g=2022-04-01) bedoelde protocol.
+2. De bewindspersonen verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=7&z=2022-09-01&g=2022-09-01) bedoelde protocol.
 
 3. Ambtenaren van het Ministerie van Buitenlandse Zaken, het Ministerie van Defensie en het Ministerie van Justitie en Veiligheid zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun (huidige dan wel voormalige) ambtelijke taak.
 
@@ -176,7 +176,7 @@ Bij de beëindiging van haar werkzaamheden brengt de commissie een eindrapport u
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 april 2022, en werkt ten aanzien van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=9&z=2022-09-01&g=2022-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=10&z=2022-09-01&g=2022-04-01) terug tot en met 1 februari 2022 voor zover het gaat om voorbereidende werkzaamheden.
+Dit besluit treedt in werking met ingang van 1 april 2022, en werkt ten aanzien van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=9&z=2022-09-01&g=2022-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=10&z=2022-09-01&g=2022-09-01) terug tot en met 1 februari 2022 voor zover het gaat om voorbereidende werkzaamheden.
 
 ##### Artikel 14. Citeertitel
 
