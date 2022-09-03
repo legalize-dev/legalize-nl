@@ -4,7 +4,7 @@ identifier: "BWBR0046704"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-09-03"
-last_updated: "2022-05-25"
+last_updated: "2022-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046704"
 soort: "AMvB"
@@ -60,26 +60,24 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking op het tijdstip waarop artikel I van de Implementatiewet omnibusrichtlijn en -verordening ESFS-review in werking treedt, met uitzondering van [artikel I, onderdeel A, onder 2 en onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046704&artikel=I&z=2022-09-03&g=2022-09-03), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatblad waarin het wordt geplaatst.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Implementatiebesluit omnibusrichtlijn en -verordening ESFS-review.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel II
+
+Wijzigt het Besluit bekostiging financieel toezicht 2019.
