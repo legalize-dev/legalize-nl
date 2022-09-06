@@ -4,7 +4,7 @@ identifier: "BWBR0035926"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-06"
-last_updated: "2017-10-28"
+last_updated: "2022-09-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035926"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **graad:** graad als bedoeld in [artikel 7.10a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a);
 
-- d. **kwalificatiedossier:** kwalificatiedossier in de zin van [artikel 1.1.1, onderdeel t1, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- d. **kwalificatiedossier:** kwalificatiedossier in de zin van [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
 ##### Artikel 2
 
@@ -102,13 +102,13 @@ Als diploma of getuigschrift, bedoeld in [artikel 6, derde lid, van de Dierproev
 
 ##### Artikel 4
 
-1. Een in [artikel 1 van de Regeling erkenning diploma’s Dierproevenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005982&artikel=1) genoemd diploma voor een opleiding tot proefdierverzorger, behaald vóór 1 juli 2013, wordt gelijk gesteld met een diploma als bedoeld in [artikel 3, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035926&artikel=3&z=2017-10-28&g=2017-10-28). De overige diploma’s genoemd in artikel 1 van de Regeling erkenning diploma’s Dierproevenbesluit, behaald vóór de datum waarop dit besluit in werking treedt, worden gelijkgesteld met de diploma’s en graden als bedoeld in artikel 3, onder d tot en met i.
+1. Een in [artikel 1 van de Regeling erkenning diploma’s Dierproevenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005982&artikel=1) genoemd diploma voor een opleiding tot proefdierverzorger, behaald vóór 1 juli 2013, wordt gelijk gesteld met een diploma als bedoeld in [artikel 3, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035926&artikel=3&z=2022-09-06&g=2022-09-06). De overige diploma’s genoemd in artikel 1 van de Regeling erkenning diploma’s Dierproevenbesluit, behaald vóór de datum waarop dit besluit in werking treedt, worden gelijkgesteld met de diploma’s en graden als bedoeld in artikel 3, onder d tot en met i.
 
-2. Een diploma voor de opleiding proefdierverzorging aan het Groenhorstcollege Barneveld, behaald vóór 1 augustus 2015, wordt, indien daarnaast een opleiding Dierverzorging, Paardenhouderij, Veehouderij of Dierenartsassistente, minimaal op MBO-niveau, is afgerond, gelijkgesteld met een diploma als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035926&artikel=3&z=2017-10-28&g=2017-10-28).
+2. Een diploma voor de opleiding proefdierverzorging aan het Groenhorstcollege Barneveld, behaald vóór 1 augustus 2015, wordt, indien daarnaast een opleiding Dierverzorging, Paardenhouderij, Veehouderij of Dierenartsassistente, minimaal op MBO-niveau, is afgerond, gelijkgesteld met een diploma als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035926&artikel=3&z=2022-09-06&g=2022-09-06).
 
-3. Een certificaat als bedoeld in [artikel 1a van de Regeling erkenning diploma’s Dierproevenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005982&artikel=1a), behaald vóór 1 juli 2013, wordt gelijkgesteld met een diploma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035926&artikel=3&z=2017-10-28&g=2017-10-28).
+3. Een certificaat als bedoeld in [artikel 1a van de Regeling erkenning diploma’s Dierproevenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005982&artikel=1a), behaald vóór 1 juli 2013, wordt gelijkgesteld met een diploma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035926&artikel=3&z=2022-09-06&g=2022-09-06).
 
-4. Een in [artikel 2 van het Besluit erkenning opleidingen verzorging en behandeling proefdieren](https://wetten.overheid.nl/jci1.3:c:BWBR0033382&artikel=2) genoemd diploma, behaald vóór de inwerkingtreding van dit besluit, wordt gelijk gesteld met een diploma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035926&artikel=3&z=2017-10-28&g=2017-10-28).
+4. Een in [artikel 2 van het Besluit erkenning opleidingen verzorging en behandeling proefdieren](https://wetten.overheid.nl/jci1.3:c:BWBR0033382&artikel=2) genoemd diploma, behaald vóór de inwerkingtreding van dit besluit, wordt gelijk gesteld met een diploma als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035926&artikel=3&z=2022-09-06&g=2022-09-06).
 
 ##### Artikel 5
 
