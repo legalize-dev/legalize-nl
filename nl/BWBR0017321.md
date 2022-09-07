@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-09-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -96,7 +96,7 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 ##### Artikel 5
 
-De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-01-01&g=2022-01-01), wordt jaarlijks aangepast overeenkomstig:
+De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-09-07&g=2022-09-07), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -104,19 +104,19 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 6
 
-Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2022-01-01&g=2022-01-01) opgenomen.
+Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2022-09-07&g=2022-09-07) opgenomen.
 
 ##### Artikel 7
 
-De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-01-01&g=2022-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
+De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-09-07&g=2022-09-07), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
 ##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2022-01-01&g=2022-01-01).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2022-09-07&g=2022-09-07).
 
-3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-01-01&g=2022-01-01), € 127.939, of meer bedraagt, ontvangt de ouder voor de kosten van de kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), een kinderopvangtoeslag waarvan de hoogte 33,3 procent van die kosten betreft.
+3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-09-07&g=2022-09-07), € 127.939, of meer bedraagt, ontvangt de ouder voor de kosten van de kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-09-07&g=2022-09-07), een kinderopvangtoeslag waarvan de hoogte 33,3 procent van die kosten betreft.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -506,7 +506,7 @@ Vervallen
 | 194.885 | 198.154 | 33,3% | 68,5% |
 | 198.155 | en hoger | 33,3% | 67,6% |
 
-## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-01-01&g=2022-01-01) van het Besluit kinderopvangtoeslag
+## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-09-07&g=2022-09-07) van het Besluit kinderopvangtoeslag
 
 | Kinderopvangtoeslagtabel 2022 (gezamenlijk) toetsingsinkomen (€) | Kinderopvangtoeslagtabel 2022 (gezamenlijk) toetsingsinkomen (€) | Tegemoetkoming Rijk als % van de kosten van kinderopvang | Tegemoetkoming Rijk als % van de kosten van kinderopvang |
 | --- | --- | --- | --- |
@@ -601,11 +601,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. per berekeningsjaar:
 
-- 1°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2022-01-01&g=2022-01-01), gezamenlijk;
+- 1°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2022-09-07&g=2022-09-07), gezamenlijk;
 
 - 2°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor buitenschoolse opvang en gastouderopvang aan een kind in de leeftijd waarop kinderen naar het basisonderwijs kunnen gaan, gezamenlijk;
 
-- 3°. de duur van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in [artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6) uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand.
+- 3°. de duur van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in [artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6) uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand;
+
+- 4°. de duur van het recht op zorg, bedoeld in [artikel 1.6, achtste of negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand;
+
+- 5°. de duur van de vrijheidsbenemende straf of maatregel, bedoeld in [artikel 1.6, tiende of elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand.
 
 2. Voor het aantal uren dat voor kinderopvangtoeslag in aanmerking komt, bedoeld in het eerste lid, onderdeel b, wordt uitgegaan van het aantal uren van de ouder of partner die in dat berekeningsjaar het minste uren heeft gewerkt, gebruik heeft gemaakt van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus heeft gevolgd.
 
@@ -621,7 +625,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-01-01&g=2022-01-01) worden de bedragen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-01-01&g=2022-01-01), voor het berekeningsjaar 2022 geïndexeerd met 0,51%.
+In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-09-07&g=2022-09-07) worden de bedragen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-09-07&g=2022-09-07), voor het berekeningsjaar 2022 geïndexeerd met 0,51%.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -675,7 +679,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8b
 
-1. In afwijking van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=8a&z=2022-01-01&g=2022-01-01) bedraagt voor de berekeningsjaren 2020 en 2021 het aantal uren kinderopvang dat voor kinderopvangtoeslag in aanmerking komt, voor ieder kind niet meer dan:
+1. In afwijking van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=8a&z=2022-09-07&g=2022-09-07) bedraagt voor de berekeningsjaren 2020 en 2021 het aantal uren kinderopvang dat voor kinderopvangtoeslag in aanmerking komt, voor ieder kind niet meer dan:
 
 - a. 230 uren per kalendermaand; en
 
