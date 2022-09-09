@@ -4,7 +4,7 @@ identifier: "BWBR0044041"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2022-08-01"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044041"
 soort: "ministeriele-regeling-BES"
@@ -140,7 +140,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Opheffing of beëindiging bekostiging
 
-Het aantal leerlingen, bedoeld in [artikel 11.53, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.53), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2022-08-01&g=2022-08-01).
+Het aantal leerlingen, bedoeld in [artikel 11.53, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.53), bedraagt voor een school of scholengemeenschap 75% van het aantal genoemd in [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=2&z=2022-09-09&g=2022-09-09).
 
 ##### Artikel 5. Melding voorgenomen aanvraag tot bekostiging
 
@@ -210,7 +210,7 @@ Het aantal leerlingen, bedoeld in [artikel 11.53, tweede lid, van de wet](https:
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 11.45a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45a), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2022-08-01&g=2022-08-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044041&hoofdstuk=1&artikel=6&z=2022-09-09&g=2022-09-09), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 8. Verblijfsjaren
 
@@ -266,7 +266,11 @@ Het aantal leerlingen, bedoeld in [artikel 11.53, tweede lid, van de wet](https:
 
 5. Indien de aanvrager een melding van een voorgenomen aanvraag intrekt, vervallen de hierbij behorende ingediende ouderverklaringen.
 
-6. De ouder kan in een volgend kalenderjaar opnieuw een ouderverklaring als bedoeld in [artikel 145b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b), indienen ten aanzien van hetzelfde kind, indien de aanvraag waarvoor eerder een ouderverklaring is ingediend:a. wel is gemeld, maar niet is ingediend; ofb. onherroepelijk is afgewezen.
+6. De ouder kan in een volgend kalenderjaar opnieuw een ouderverklaring als bedoeld in [artikel 145b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.45b), indienen ten aanzien van hetzelfde kind, indien de aanvraag waarvoor eerder een ouderverklaring is ingediend:
+
+- a. wel is gemeld, maar niet is ingediend; of
+
+- b. is afgewezen.
 
 7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
@@ -395,6 +399,16 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 3. De aanvullende bekostiging wordt vastgesteld door de leerlingengroei te vermenigvuldigen met het bedrag per leerling, bedoeld in [artikel 8, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen en samenwerkingsverbanden vo](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&artikel=8). De uitkomst wordt vervolgens vermenigvuldigd met 5/12de.
 
 4. De aanvullende bekostiging wordt in december van het lopende schooljaar gewijzigd vastgesteld op basis van de voorlopige telling van het werkelijk aantal leerlingen op 1 oktober en uiterlijk in de maand december van het daaropvolgende schooljaar nader gewijzigd vastgesteld op basis van het door de accountant goedgekeurde aantal leerlingen dat op 1 oktober in het voorafgaande schooljaar staat ingeschreven bij de school.
+
+### Hoofdstuk 3. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a. Aanvragen tot bekostiging 2022
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 2. Startbekostiging en aanvullende bekostiging nieuwe scholen voortgezet onderwijs
 
 ### Hoofdstuk 3. Slotbepalingen
 
