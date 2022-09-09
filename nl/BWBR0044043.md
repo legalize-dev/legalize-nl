@@ -4,7 +4,7 @@ identifier: "BWBR0044043"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2022-07-01"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044043"
 soort: "ministeriele-regeling-BES"
@@ -132,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 72, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-05-18&g=2022-07-01), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-09-09&g=2022-09-09), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 5. Nadere regels belangstellingsmeting
 
@@ -158,7 +158,7 @@ In deze regeling wordt verstaan onder:
 
 - a. wel is gemeld, maar niet is ingediend; of
 
-- b. onherroepelijk is afgewezen.
+- b. is afgewezen.
 
 7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
@@ -213,5 +213,11 @@ Deze regeling treedt in werking met ingang van 1 februari 2021.
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning po CN 2021.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Aanvragen tot bekostiging 2022
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
