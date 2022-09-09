@@ -4,7 +4,7 @@ identifier: "BWBR0037781"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-04-27"
-last_updated: "2016-04-02"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037781"
 soort: "beleidsregel"
@@ -122,7 +122,7 @@ De (para)medicus die aanspraak maakt op toepassing van de medische vrijstelling 
 
 ### Bijlage
 
-In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037781&bijlage=I&z=2016-04-02&g=2016-04-02) bij dit besluit is een lijst opgenomen met voorbeelden van belaste medische prestaties.
+In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037781&bijlage=I&z=2023-04-27&g=2022-09-09) bij dit besluit is een lijst opgenomen met voorbeelden van belaste medische prestaties.
 
 ### 6. Tandtechnici en tandprothetici
 
