@@ -4,7 +4,7 @@ identifier: "BWBR0045758"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-28"
-last_updated: "2021-12-01"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045758"
 soort: "ministeriele-regeling"
@@ -76,9 +76,11 @@ In deze regeling wordt verstaan onder:
 
 - a. voor 2021 € 500.000;
 
-- b. voor 2022 € 1.250.000; en
+- b. voor 2022 € 1.250.000;
 
-- c. voor 2023 € 1.250.000.
+- c. voor najaar 2022 € 1.000.000; en
+
+- d. voor 2023 € 1.250.000.
 
 3. Het ingevolge het uitkeringsplafond beschikbare bedrag wordt verdeeld op volgorde van binnenkomst van volledige aanvragen.
 
@@ -90,9 +92,11 @@ In deze regeling wordt verstaan onder:
 
 - a. in 2021 kan worden ingediend tot en met 15 november 2021;
 
-- b. in 2022 kan worden ingediend tot en met 29 april 2022; en
+- b. in 2022 kan worden ingediend tot en met 29 april 2022;
 
-- c. in 2023 kan worden ingediend tot en met 28 april 2023.
+- c. in najaar 2022 kan worden ingediend tot en met 14 oktober 2022; en
+
+- d. in 2023 kan worden ingediend tot en met 28 april 2023.
 
 2. Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -122,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Vaststelling van de uitkering
 
-1. De minister besluit binnen 37 weken na ontvangst van de laatste verantwoordingsinformatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045758&artikel=8&z=2021-12-01&g=2021-12-01), over de vaststelling van de uitkering op grond van werkelijk gemaakte kosten.
+1. De minister besluit binnen 37 weken na ontvangst van de laatste verantwoordingsinformatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045758&artikel=8&z=2022-09-09&g=2022-09-09), over de vaststelling van de uitkering op grond van werkelijk gemaakte kosten.
 
 2. Indien de activiteiten waarvoor de uitkering is verleend zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de uitkering, wordt de uitkering vastgesteld tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
