@@ -4,7 +4,7 @@ identifier: "BWBR0037127"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2022-01-01"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037127"
 soort: "ministeriele-regeling"
@@ -183,6 +183,10 @@ Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belas
 | In een door Nederland gesloten verdrag of getroffen regeling ter voorkoming van dubbele belasting opgenomen regeling voor dividenden |   | verzoek om teruggaaf |   | x | MijnBelastingdienst Ondernemers | Door Belastingdienst verstrekte gebruikersnaam en wachtwoord |
 | [Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952) | [Artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=5.1) | aangifte | x |   |   |   |
 | [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168) |   | alle berichten in verband met de heffing van de belasting op leidingwater, de afvalstoffenbelasting, de kolenbelasting en de energiebelasting | x |   |   |   |
+|   | [Artikel 6, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6) jo. [artikel 89, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=89) | uitnodiging tot het doen van aangifte minimum CO2-prijs elektriciteitsopwekking en aangifte minimum CO2-prijs elektriciteitsopwekking |   | x | CO2-heffingsregister | Alle bedrijfs- en organisatiemiddelen die ingevolge Verordening (EU) nr. 910/2014 voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
+|   |   | alle overige berichten in verband met de heffing en invordering van de minimum CO2-prijs elektriciteitsopwekking | x |   |   |   |
+|   | [Artikel 6, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6) jo. [artikel 89, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=89) | uitnodiging tot het doen van aangifte CO2-heffing industrie en aangifte CO2-heffing industrie |   | x | CO2-heffingsregister | Alle bedrijfs- en organisatiemiddelen die ingevolge Verordening (EU) nr. 910/2014 voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
+|   |   | alle overige berichten in verband met de heffing en invordering van de CO2-heffing industrie | x |   |   |   |
 |   | [Artikel 89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=89) | aangifte vliegbelasting |   | xx | MijnBelastingdienst Zakelijk | Alle bedrijfs- en organisatiemiddelen die ingevolge Verordening (EU) nr. 910/2014 voldoen aan het beveiligingsniveau ‘substantieel’ en bij de Europese Commissie zijn genotificeerd |
 | [Wet op de kansspelbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002359) |   | alle berichten in verband met de heffing van de kansspelbelasting | x |   |   |   |
 | [Wet maatregelen woningmarkt 2014 II](https://wetten.overheid.nl/jci1.3:c:BWBR0034553) |   | aangifte verhuurderheffing, ingediend door een persoon die geen toegang heeft tot MijnBelastingdienst Zakelijk | x |   |   |   |
