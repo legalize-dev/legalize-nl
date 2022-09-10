@@ -4,7 +4,7 @@ identifier: "BWBR0047128"
 country: "nl"
 rank: "archiefselectielijst"
 publication_date: "2022-09-10"
-last_updated: "2022-04-01"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047128"
 soort: "ministeriele-regeling-archiefselectielijst"
@@ -45,7 +45,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Defensie;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047128&artikel=2&z=2022-09-10&g=2022-04-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047128&artikel=2&z=2022-09-10&g=2022-09-10).
 
 ##### Artikel 2. Instelling en taak
 
@@ -113,7 +113,7 @@ De commissie wordt ingesteld voor de duur van het onderzoek.
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
-2. Het Ministerie van Defensie verleent de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047128&artikel=7&z=2022-09-10&g=2022-04-01) bedoelde protocol.
+2. Het Ministerie van Defensie verleent de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047128&artikel=7&z=2022-09-10&g=2022-09-10) bedoelde protocol.
 
 3. Ambtenaren van het Ministerie van Defensie zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak.
 
