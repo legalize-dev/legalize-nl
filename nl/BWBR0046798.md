@@ -4,7 +4,7 @@ identifier: "BWBR0046798"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-12-17"
-last_updated: "2022-07-01"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046798"
 soort: "AMvB"
@@ -55,6 +55,8 @@ Wijzigt het Besluit SUWI.
 1. Een onderdaan van Oekraïne wordt, voor de werking van [artikel 3.1, eerste lid, onderdeel d, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=3.1), beschouwd als vreemdeling als bedoeld in dat artikel.
 
 2. Het eerste lid is van toepassing tot en met 31 augustus 2022.
+
+In Stcrt. 2022/23668 verlengd tot en met 31 oktober 2022.
 
 3. De periode, bedoeld in het tweede lid, kan bij ministeriële regeling steeds worden verlengd voor een periode van maximaal drie maanden, indien dit noodzakelijk is in verband met de uitvoering.
 
