@@ -4,7 +4,7 @@ identifier: "BWBR0037021"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-09-13"
-last_updated: "2016-11-15"
+last_updated: "2022-09-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037021"
 soort: "pbo"
@@ -56,7 +56,7 @@ Besluit op te stellen en af te kondigen de volgende fusiegedragsregels ter besch
 
 - ii. onder in de onderneming werkzame personen worden mede verstaan:
 
-- a. degenen die in het kader van werkzaamheden van de onderneming daarin ten minste 24 maanden werkzaam zijn krachtens een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), en
+- a. degenen die in het kader van werkzaamheden van de onderneming daarin ten minste 15 maanden werkzaam zijn krachtens een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), en
 
 - b. degenen die krachtens een publiekrechtelijke aanstelling bij dan wel krachtens arbeidsovereenkomst met de ondernemer werkzaam zijn in een door een andere ondernemer in stand gehouden onderneming.
 
@@ -78,7 +78,7 @@ Besluit op te stellen en af te kondigen de volgende fusiegedragsregels ter besch
 
 - iii. waarvan is gebleken dat zij in de twee voorafgaande kalenderjaren als zodanig regelmatig werkzaam zijn geweest ten behoeve van hun leden in een bij de fusie betrokken in Nederland gevestigde onderneming.
 
-2. Indien de Fusiegedragsregels ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=2&artikel=2&z=2016-11-15&g=2016-11-15), op een onderneming van toepassing zijn, worden – in afwijking van de omschrijving van 'verenigingen van werknemers' in [artikel 1, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=1&artikel=1&z=2016-11-15&g=2016-11-15) – als verenigingen van werknemers aangemerkt:
+2. Indien de Fusiegedragsregels ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=2&artikel=2&z=2022-09-13&g=2022-09-13), op een onderneming van toepassing zijn, worden – in afwijking van de omschrijving van 'verenigingen van werknemers' in [artikel 1, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=1&artikel=1&z=2022-09-13&g=2022-09-13) – als verenigingen van werknemers aangemerkt:
 
 verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot doel hebben de belangen van hun leden als in de onderneming werkzame personen te behartigen en welke partij zijn bij die collectieve arbeidsovereenkomst.
 
@@ -86,11 +86,11 @@ verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot doel
 
 ##### Artikel 2
 
-1. De in paragraaf 3 opgenomen gedragsregels dienen in acht te worden genomen:
+1. De in paragraaf 3 opgenomen gedragsregels zijn slechts van toepassing op ondernemingen die behoren tot het bedrijfsleven en dienen in acht te worden genomen:
 
 - a. indien bij een fusie ten minste één in Nederland gevestigde onderneming is betrokken waarin in de regel 50 of meer personen werkzaam zijn; of
 
-- b. indien een bij een fusie betrokken onderneming deel uitmaakt van een samenstel van ondernemingen en in de daartoe behorende in Nederland gevestigde ondernemingen tezamen in de regel 50 of meer personen werkzaam zijn.
+- b. indien een bij een fusie betrokken onderneming deel uitmaakt van een samenstel van ondernemingen en in de daartoe behorende in Nederland gevestigde onderneming of ondernemingen tezamen in de regel 50 of meer personen werkzaam zijn.
 
 2. Bij collectieve arbeidsovereenkomst kunnen de Fusiegedragsregels van toepassing worden verklaard op andere dan de ondernemingen, bedoeld in het eerste lid.
 
@@ -112,7 +112,7 @@ verenigingen met volledige rechtsbevoegdheid die krachtens hun statuten tot doel
 
 2. Indien een algemeen voor het effectenverkeer geldend voorschrift zich tegen voorafgaande kennisgeving verzet, vindt, in afwijking van het eerste lid, de kennisgeving aan de verenigingen van werknemers plaats uiterlijk op het moment waarop de openbare mededeling wordt gedaan.
 
-3. De verplichtingen, bedoeld in het eerste en tweede lid, rusten op degenen op wie verplichtingen worden gelegd in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2016-11-15&g=2016-11-15).
+3. De verplichtingen, bedoeld in het eerste en tweede lid, rusten op degenen op wie verplichtingen worden gelegd in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13).
 
 ##### Artikel 4. Verstrekken gegevens aan verenigingen van werknemers
 
@@ -144,23 +144,23 @@ De uiteenzetting, bedoeld in dit lid, wordt schriftelijk verstrekt, tenzij met d
 
 ##### Artikel 5. Openbaar bod
 
-1. De bieder die het voornemen heeft om, anders dan op grond van overeenstemming als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2016-11-15&g=2016-11-15), door middel van een openbaar bod een fusie tot stand te brengen, geeft voor zover mogelijk toepassing aan artikel 4.
+1. De bieder die het voornemen heeft om, anders dan op grond van overeenstemming als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13), door middel van een openbaar bod een fusie tot stand te brengen, geeft voor zover mogelijk toepassing aan artikel 4.
 
-2. Het bestuur van de doelvennootschap op de aandelen waarvan een openbaar bod wordt uitgebracht, geeft eveneens voor zover mogelijk toepassing aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2016-11-15&g=2016-11-15).
+2. Het bestuur van de doelvennootschap op de aandelen waarvan een openbaar bod wordt uitgebracht, geeft eveneens voor zover mogelijk toepassing aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13).
 
 ##### Artikel 6. Geleidelijke aankoop ter beurze
 
-Degene die voornemens is een fusie in de zin van [artikel 1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=1&artikel=1&z=2016-11-15&g=2016-11-15), tot stand te brengen door middel van geleidelijke aankoop ter beurze van (rechten op) aandelen, moet voor zover mogelijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2016-11-15&g=2016-11-15) toepassen.
+Degene die voornemens is een fusie in de zin van [artikel 1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=1&artikel=1&z=2022-09-13&g=2022-09-13), tot stand te brengen door middel van geleidelijke aankoop ter beurze van (rechten op) aandelen, moet voor zover mogelijk [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13) toepassen.
 
 #### Paragraaf 4. Geheimhouding
 
 ##### Artikel 7
 
-1. Over de kennisgevingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=3&z=2016-11-15&g=2016-11-15), en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2016-11-15&g=2016-11-15), dienen verenigingen van werknemers geheimhouding te betrachten, tenzij het tegendeel schriftelijk aan hen is meegedeeld. De geheimhouding duurt totdat de voorgenomen fusie openbaar is, tenzij fusiepartijen en verenigingen van werknemers anders overeenkomen.
+1. Over de kennisgevingen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=3&z=2022-09-13&g=2022-09-13), en [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13), dienen verenigingen van werknemers geheimhouding te betrachten, tenzij het tegendeel schriftelijk aan hen is meegedeeld. De geheimhouding duurt totdat de voorgenomen fusie openbaar is, tenzij fusiepartijen en verenigingen van werknemers anders overeenkomen.
 
 2. Ten aanzien van gegevens die in het kader van artikel 4 moeten worden verstrekt geldt een geheimhoudingsplicht indien aan de betrokken vereniging(en) van werknemers vóór het verstrekken van die gegevens schriftelijk geheimhouding is verzocht. Degene die de geheimhouding verzoekt, deelt daarbij tevens mede hoe lang de geheimhouding dient te duren.
 
-3. Een vereniging van werknemers kan binnen drie werkdagen na ontvangst van het verzoek, bedoeld in het tweede lid, de geheimhouding afwijzen. Ten opzichte van de vereniging van werknemers die dat doet, behoeven de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2016-11-15&g=2016-11-15) neergelegde gedragsregels niet in acht te worden genomen, tenzij zij tijdig en schriftelijk alsnog geheimhouding aanvaardt. Een vereniging van werknemers die niet binnen de bovengenoemde termijn geheimhouding afwijst, wordt verondersteld deze te aanvaarden.
+3. Een vereniging van werknemers kan binnen drie werkdagen na ontvangst van het verzoek, bedoeld in het tweede lid, de geheimhouding afwijzen. Ten opzichte van de vereniging van werknemers die dat doet, behoeven de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13) neergelegde gedragsregels niet in acht te worden genomen, tenzij zij tijdig en schriftelijk alsnog geheimhouding aanvaardt. Een vereniging van werknemers die niet binnen de bovengenoemde termijn geheimhouding afwijst, wordt verondersteld deze te aanvaarden.
 
 4. Een vereniging van werknemers kan de Geschillencommissie Fusiegedragsregels verzoeken de geheimhouding, bedoeld in het eerste of tweede lid, (gedeeltelijk) op te heffen als die vereniging van werknemers op grond van door haar aan te voeren feiten en omstandigheden bij afweging van de betrokken belangen in redelijkheid niet of niet langer kan worden gehouden aan de geheimhoudingsverplichtingen voortvloeiend uit het eerste of tweede lid.
 
@@ -168,11 +168,11 @@ Degene die voornemens is een fusie in de zin van [artikel 1, eerste lid, onder e
 
 ##### Artikel 8
 
-1. Tezelfdertijd dat degene die aan de verenigingen van werknemers de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2016-11-15&g=2016-11-15), doet, of zou moeten doen indien een vereniging van werknemers aanwezig zou zijn, zendt deze een overeenkomstige kennisgeving aan het secretariaat van de Sociaal-Economische Raad, hierna te noemen: de Raad.
+1. Tezelfdertijd dat degene die aan de verenigingen van werknemers de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13), doet, of zou moeten doen indien een vereniging van werknemers aanwezig zou zijn, zendt deze een overeenkomstige kennisgeving aan het secretariaat van de Sociaal-Economische Raad, hierna te noemen: de Raad.
 
-2. Het secretariaat van de Raad heeft tot taak te bevorderen dat de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2016-11-15&g=2016-11-15), wordt gedaan en kan de inlichtingen verlangen die het voor de uitvoering van deze taak nodig heeft.
+2. Het secretariaat van de Raad heeft tot taak te bevorderen dat de kennisgeving, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=4&z=2022-09-13&g=2022-09-13), wordt gedaan en kan de inlichtingen verlangen die het voor de uitvoering van deze taak nodig heeft.
 
-3. Indien partijen een kennisgeving, als bedoeld in het eerste lid, doen aan het secretariaat van de Raad en van mening zijn dat de Fusiegedragsregels niet van toepassing zijn op de (in voorbereiding zijnde) fusie kan het secretariaat van de Raad een verkorte kennisgeving zenden aan de betrokken vereniging(en) van werknemers. Op de verkorte kennisgeving is [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=4&artikel=7&z=2016-11-15&g=2016-11-15), van overeenkomstige toepassing.
+3. Indien partijen een kennisgeving, als bedoeld in het eerste lid, doen aan het secretariaat van de Raad en van mening zijn dat de Fusiegedragsregels niet van toepassing zijn op de (in voorbereiding zijnde) fusie kan het secretariaat van de Raad een verkorte kennisgeving zenden aan de betrokken vereniging(en) van werknemers. Op de verkorte kennisgeving is [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=4&artikel=7&z=2022-09-13&g=2022-09-13), van overeenkomstige toepassing.
 
 #### Paragraaf 6. Geschillencommissie Fusiegedragsregels
 
@@ -204,7 +204,7 @@ Degene die voornemens is een fusie in de zin van [artikel 1, eerste lid, onder e
 
 ##### Artikel 12. Machtiging dagelijks bestuur Raad
 
-De Raad kan zijn dagelijks bestuur machtigen namens hem toepassing te geven aan [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=6&artikel=11&z=2016-11-15&g=2016-11-15).
+De Raad kan zijn dagelijks bestuur machtigen namens hem toepassing te geven aan [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=6&artikel=11&z=2022-09-13&g=2022-09-13).
 
 ##### Artikel 13. Onafhankelijkheid en onpartijdigheid
 
@@ -234,7 +234,7 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 2. De secretaris van de Geschillencommissie en de overige leden van haar secretariaat worden benoemd door de algemeen secretaris van de Raad.
 
-3. Op de leden van het secretariaat is [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=6&artikel=15&z=2016-11-15&g=2016-11-15) van overeenkomstige toepassing.
+3. Op de leden van het secretariaat is [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=6&artikel=15&z=2022-09-13&g=2022-09-13) van overeenkomstige toepassing.
 
 #### Paragraaf 7. Procedure bij de Geschillencommissie
 
@@ -256,11 +256,13 @@ Een lid van de Geschillencommissie voorkomt belangenverstrengeling. Hij doet dat
 
 3. Een bij de totstandbrenging van een fusie betrokken partij kan bij de Geschillencommissie een geschil aanhangig maken over de niet- of niet behoorlijke naleving van de Fusiegedragsregels door een of meer verenigingen van werknemers.
 
-4. Als bij de totstandbrenging van de fusie betrokken partijen worden beschouwd degenen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=3&z=2016-11-15&g=2016-11-15).
+4. Als bij de totstandbrenging van de fusie betrokken partijen worden beschouwd degenen, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=3&artikel=3&z=2022-09-13&g=2022-09-13).
 
-##### Artikel 19. Wijze van aanhangig maken van geschillen
+##### Artikel 19. Wijze van aanhangig maken van geschillen en bemiddeling
 
-Een geschil, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=7&artikel=18&z=2016-11-15&g=2016-11-15), moet aanhangig worden gemaakt bij schriftelijk verzoek dat bij het secretariaat van de Geschillencommissie moet worden ingediend. Het schriftelijk verzoek moet worden ingediend binnen een termijn eindigende een maand na openbaarmaking door of namens een of meer bij de totstandbrenging van de fusie betrokken partijen dat de fusie al dan niet doorgang vindt.
+1. Een geschil, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=7&artikel=18&z=2022-09-13&g=2022-09-13), moet aanhangig worden gemaakt bij schriftelijk verzoek dat bij het secretariaat van de Geschillencommissie moet worden ingediend. Het schriftelijk verzoek moet worden ingediend binnen een termijn eindigende een maand na openbaarmaking door of namens een of meer bij de totstandbrenging van de fusie betrokken partijen dat de fusie al dan niet doorgang vindt.
+
+2. De Geschillencommissie, of namens haar de voorzitter, kan in het geval van een reeds aan haar voorgelegd geschil als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=7&artikel=18&z=2022-09-13&g=2022-09-13) dan wel in het geval er zulk een geschil dreigt te ontstaan op verzoek van een der partijen of ambtshalve een poging tot bemiddeling doen of laten doen.
 
 ##### Artikel 20. Inhoud schriftelijk verzoek
 
@@ -302,7 +304,7 @@ Een geschil, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 ##### Artikel 23. Mondelinge behandeling
 
-1. Zo spoedig mogelijk na de schriftelijke behandeling, bedoeld in [artikel 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=7&artikel=20&z=2016-11-15&g=2016-11-15), houdt de Geschillencommissie een mondelinge behandeling in de zaak.
+1. Zo spoedig mogelijk na de schriftelijke behandeling, bedoeld in [artikel 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037021&paragraaf=7&artikel=20&z=2022-09-13&g=2022-09-13), houdt de Geschillencommissie een mondelinge behandeling in de zaak.
 
 2. De secretaris van de Geschillencommissie stelt ieder der partijen tijdig in kennis van plaats, datum en tijdstip van de mondelinge behandeling.
 
@@ -360,7 +362,7 @@ De beslissing van de Geschillencommissie wordt met redenen omkleed en houdt de g
 
 2. Indien de Geschillencommissie het door een bij de totstandbrenging van een fusie betrokken partij ingediende bezwaar gegrond bevindt, beslist zij dat een vereniging van werknemers een of meer van de Fusiegedragsregels niet of niet naar behoren heeft nageleefd.
 
-3. Zowel in het geval, bedoeld in het eerste lid, als het geval, bedoeld in het tweede lid, kan de Geschillencommissie oordelen dat de niet-naleving of niet behoorlijke naleving een ernstig karakter draagt en in ernstige mate verwijtbaar is.
+3. Zowel in het geval, bedoeld in het eerste lid, als het geval, bedoeld in het tweede lid, kan de Geschillencommissie oordelen dat de niet-naleving of niet behoorlijke naleving een ernstig karakter draagt en in ernstige mate verwijtbaar is. Alsdan kan zij besluiten om onder vermelding van de naam van partijen een persbericht uit te doen gaan met betrekking tot haar beslissing.
 
 ##### Artikel 33. Openbare beslissing
 
