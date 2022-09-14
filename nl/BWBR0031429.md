@@ -4,7 +4,7 @@ identifier: "BWBR0031429"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2022-07-01"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031429"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 - a. van de [Wegenverkeerswet 1994](onbekend): de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), [36, eerste, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), [40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), [107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), [108, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123), [123b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123b), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=124), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=162), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [164, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), [174, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=180), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=182), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=184) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=185);
 
-- b. van het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825): de [artikelen 1 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) en de bij dat reglement behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=2), alsmede de gebruikelijke, door de wegbeheerder geplaatste, aanduidingen, ter geleiding van het verkeer of ter informatie van de weggebruikers;
+- b. van het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825), alsmede de gebruikelijke, door de wegbeheerder geplaatste, aanduidingen, ter geleiding van het verkeer of ter informatie van de weggebruikers;
 
 - c. van het [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826): de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=8) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=9);
 
@@ -122,7 +122,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 - b. met betrekking tot de bepalingen van de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671), het [Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386) en daarop gebaseerde bepalingen;
 
-- c. met betrekking tot de [Wet goederenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0005443) en het [Besluit goederenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0005496) en daarop gebaseerde bepalingen;
+- c. met betrekking tot de [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) en het [Besluit wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0033600) en daarop gebaseerde bepalingen;
 
 - d. met betrekking tot de voertuig- en vervoersdocumenten die zijn vereist voor nationaal en internationaal vervoer van goederen en personen, met inbegrip van vrachtbrieven conform AVC en CMR condities;
 
@@ -138,7 +138,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 - a. voorschriften inzake rij- en rusttijden zoals beschreven in Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer;
 
-- b. het gebruik van controleapparatuur zoals beschreven in Verordening (EEG) nr. 3821/85 van de Raad van 20 december 1985 betreffende het controleapparaat in het wegvervoer;
+- b. het gebruik van controleapparatuur zoals beschreven in Verordening (EU) nr. 165/2014 van het Europees Parlement en van de Raad van 4 februari 2014 betreffende tachografen in het wegvervoer, tot intrekking van Verordening (EEG) nr. 3821/85 van de Raad betreffende het controleapparaat in het wegvervoer en tot wijziging van Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer (PbEU 2014, L 60);
 
 - c. de voorzorgsmaatregelen die moeten worden genomen bij het verwisselen van wielen;
 
@@ -150,7 +150,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 ##### Artikel 6
 
-1. De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=1&z=2022-09-14&g=2022-07-01) zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie C, bedoeld in [artikel 53, achtste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
+1. De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=1&z=2022-09-14&g=2022-09-14) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie C.
 
 2. De in het eerste lid bedoelde aanvragers geven tevens blijk van kennis van:
 
@@ -178,17 +178,23 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 ##### Artikel 7
 
-[Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=2&artikel=6&z=2022-09-14&g=2022-07-01), is van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie C, bedoeld in [artikel 53, tiende lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
+1. De aanvrager van het theorie-examen voor de rijbewijscategorie C die het onderdeel rijbewijs/vakbekwaamheid 1 van het theorie-examen voor de rijbewijscategorie C vóór de inwerkingtreding van dit artikel met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie C door het overgangsexamen rijbewijs C met goed gevolg af te leggen.
+
+2. De aanvrager van het theorie-examen voor de rijbewijscategorie C die het onderdeel rijbewijs 2 van het theorie-examen voor de rijbewijscategorie C vóór de inwerkingtreding van dit artikel met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie C door het theorie-examen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=2&artikel=6&z=2022-09-14&g=2022-09-14), met goed gevolg af te leggen.
+
+3. De eisen van het overgangsexamen rijbewijs C, bedoeld in het eerste lid, betreffen de eisen, bedoeld in de [artikelen 4, aanhef en onderdelen b, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=4&z=2022-09-14&g=2022-09-14), [5, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=5&z=2022-09-14&g=2022-09-14), en [6, tweede lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=2&artikel=6&z=2022-09-14&g=2022-09-14), en worden nader uitgewerkt door het CBR. Deze eisen worden bekendgemaakt op de website van het CBR.
+
+4. Dit artikel vervalt met ingang van 1 juli 2024.
 
 #### § 3. Overige bepalingen
 
 ##### Artikel 8
 
-De [Regeling eisen theorie-examen rijbewijscategorie C](https://wetten.overheid.nl/jci1.3:c:BWBR0015604) wordt ingetrokken
+De eisen, bedoeld in de [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=1&z=2022-09-14&g=2022-09-14), worden nader uitgewerkt door het CBR. Deze eisen worden bekendgemaakt op de website van het CBR.
 
 ##### Artikel 9
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0031264&artikel=I) (Stb. 2012, 39) in werking treedt.
+Vervallen
 
 ##### Artikel 10
 
@@ -200,14 +206,18 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De aanvrager van het theorie-examen voor de rijbewijscategorie C1 die het onderdeel rijbewijs/vakbekwaamheid 1 van het theorie-examen voor de rijbewijscategorie C1 vóór de inwerkingtreding van dit artikel met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie C1 door het overgangsexamen rijbewijs C1 met goed gevolg af te leggen.
 
-2. De aanvrager van het theorie-examen voor de rijbewijscategorie C1 die het onderdeel rijbewijs 2 van het theorie-examen voor de rijbewijscategorie C1 vóór de inwerkingtreding van dit artikel met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie C1 door het theorie-examen, bedoeld in de [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=1&z=2022-09-14&g=2022-07-01), met goed gevolg af te leggen.
+2. De aanvrager van het theorie-examen voor de rijbewijscategorie C1 die het onderdeel rijbewijs 2 van het theorie-examen voor de rijbewijscategorie C1 vóór de inwerkingtreding van dit artikel met goed gevolg heeft afgelegd, behaalt het theorie-examen voor de rijbewijscategorie C1 door het theorie-examen, bedoeld in de [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=1&z=2022-09-14&g=2022-09-14), met goed gevolg af te leggen.
 
-3. De eisen van het overgangsexamen rijbewijs C1, bedoeld in het eerste lid, betreffen de eisen, genoemd in de [artikelen 4, aanhef en onderdelen b, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=4&z=2022-09-14&g=2022-07-01), en [5, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=5&z=2022-09-14&g=2022-07-01), en worden nader uitgewerkt door het CBR. Deze eisen worden bekendgemaakt op de website van het CBR.
+3. De eisen van het overgangsexamen rijbewijs C1, bedoeld in het eerste lid, betreffen de eisen, genoemd in de [artikelen 4, aanhef en onderdelen b, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=4&z=2022-09-14&g=2022-09-14), en [5, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=5&z=2022-09-14&g=2022-09-14), en worden nader uitgewerkt door het CBR. Deze eisen worden bekendgemaakt op de website van het CBR.
 
 4. Dit artikel vervalt met ingang van 1 juli 2024.
 
 #### § 2. Eisen theorie-examen rijbewijscategorie C
 
-#### § 3. Overige bepalingen
+#### § 3. Vaststelling toetsmatrijzen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 4. Citeertitel
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
