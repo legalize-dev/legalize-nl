@@ -4,7 +4,7 @@ identifier: "BWBR0031430"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2022-07-01"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031430"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 - a. van de [Wegenverkeerswet 1994](onbekend): de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), [2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21), [36, eerste, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), [40, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41), [60, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=60), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72), [81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=81), [107, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107),[108, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=108), [118](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=118), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123), [123b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123b), [124](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=124), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132), [160](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=162), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=163), [164, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), [174, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=179), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=180), [181](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=181), [182](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=182), [184](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=184) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=185);
 
-- b. van het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825): de [artikelen 1 tot en met 98](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) en de bij dat reglement behorende [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=2), alsmede de gebruikelijke, door de wegbeheerder geplaatste, aanduidingen ter geleiding van het verkeer of ter informatie van de weggebruikers;
+- b. van het [Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825), alsmede de gebruikelijke, door de wegbeheerder geplaatste, aanduidingen ter geleiding van het verkeer of ter informatie van de weggebruikers;
 
 - c. van het [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826): de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=8) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=9);
 
@@ -122,7 +122,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 - b. met betrekking tot de bepalingen van de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671), het [Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386) en daarop gebaseerde bepalingen;
 
-- c. van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), het [Besluit personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) en daarop gebaseerde bepalingen;
+- c. van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), het [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) en daarop gebaseerde bepalingen;
 
 - d. van de voertuig- en vervoersdocumenten die zijn vereist voor nationaal en internationaal vervoer van goederen en personen;
 
@@ -150,7 +150,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 - a. voorschriften inzake rij- en rusttijden zoals beschreven in Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer;
 
-- b. het gebruik van controleapparatuur zoals beschreven in [Verordening (EEG) nr. 3821/85](31985R3821) van de Raad van 20 december 1985 betreffende het controleapparaat in het wegvervoer;
+- b. het gebruik van controleapparatuur zoals beschreven in Verordening (EU) nr. 165/2014 van het Europees Parlement en van de Raad van 4 februari 2014 betreffende tachografen in het wegvervoer, tot intrekking van Verordening (EEG) nr. 3821/85 van de Raad betreffende het controleapparaat in het wegvervoer en tot wijziging van Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer (PbEU 2014, L 60);
 
 - c. de voorzorgsmaatregelen die moeten worden genomen bij het verwisselen van wielen;
 
@@ -162,7 +162,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 ##### Artikel 7
 
-1. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2015-04-01&g=2022-07-01) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D, bedoeld in [artikel 53, achtste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
+1. De [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=1&artikel=1&z=2022-09-14&g=2022-09-14) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D.
 
 2. Tevens dienen de in het eerste lid bedoelde aanvragers blijk te geven van kennis van:
 
@@ -188,7 +188,7 @@ De aanvrager van het theorie-examen rijbewijscategorie D1 moet blijk geven kenni
 
 ##### Artikel 8
 
-[Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=2&artikel=7&z=2015-04-01&g=2022-07-01), is van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie D, bedoeld in [artikel 53, tiende lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
+[Artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031430&paragraaf=2&artikel=7&z=2022-09-14&g=2022-09-14), is van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie D, bedoeld in [artikel 53, elfde lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
 
 ##### Artikel 9
 
@@ -196,7 +196,7 @@ De [Regeling eisen theorie-examen rijbewijscategorie D](https://wetten.overheid.
 
 ##### Artikel 10
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0031264&artikel=I) (Stb. 2012, 39) in werking treedt.
+Vervallen
 
 ##### Artikel 11
 
@@ -209,5 +209,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 10
 
 Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 2. **Eisen theorie-examen rijbewijscategorie D**
+
+#### § 3. Vaststelling toetsmatrijzen
+
+#### § 4. Citeertitel
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
