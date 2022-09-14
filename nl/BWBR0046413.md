@@ -4,7 +4,7 @@ identifier: "BWBR0046413"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-14"
-last_updated: "2022-03-11"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046413"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Doel van de specifieke uitkering
 
-De minister verstrekt een specifieke uitkering aan de gemeenten, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-03-11&g=2022-03-11), ten behoeve van het toepassen van een wijkgerichte aanpak die gericht is op het aardgasvrij maken van gebouwen, of op het met behulp van een stapsgewijze aanpak gereed maken van gebouwen voor aansluiting op een duurzame warmtebron, met als doel om te leren hoe de wijkgerichte aanpak kan worden ingericht en opgeschaald.
+De minister verstrekt een specifieke uitkering aan de gemeenten, genoemd in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-09-14&g=2022-09-14), ten behoeve van het toepassen van een wijkgerichte aanpak die gericht is op het aardgasvrij maken van gebouwen, of op het met behulp van een stapsgewijze aanpak gereed maken van gebouwen voor aansluiting op een duurzame warmtebron, met als doel om te leren hoe de wijkgerichte aanpak kan worden ingericht en opgeschaald.
 
 ##### Artikel 3. Activiteiten waarvoor de uitkering wordt verstrekt
 
-1. De minister verstrekt een specifieke uitkering aan de gemeenten, genoemd in het tweede lid, voor de activiteiten die geformuleerd zijn in de aanvraag van die gemeente en bijdragen aan de realisatie van de doelstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=2&z=2022-03-11&g=2022-03-11).
+1. De minister verstrekt een specifieke uitkering aan de gemeenten, genoemd in het tweede lid, voor de activiteiten die geformuleerd zijn in de aanvraag van die gemeente en bijdragen aan de realisatie van de doelstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=2&z=2022-09-14&g=2022-09-14).
 
 2. De specifieke uitkering bedraagt voor de gemeente:
 
@@ -82,27 +82,31 @@ De minister verstrekt een specifieke uitkering aan de gemeenten, genoemd in [art
 
 - h. Leeuwarden: € 3.250.052;
 
-- i. Leusden: € 3.874.563;
+- i. Leidschendam-Voorburg: € 4.000.000;
 
-- j. Peel en Maas: € 4.000.000;
+- j. Leusden: € 3.874.563;
 
-- k. Schiermonnikoog: € 2.297.183;
+- k. Noardeast-Fryslân: € 4.430.160;
 
-- l. Súdwest-Fryslân: € 3.970.860;
+- l. Peel en Maas: € 4.000.000;
 
-- m. Vlissingen: € 3.900.250; en
+- m. Schiermonnikoog: € 2.297.183;
 
-- n. Westerkwartier: € 4.612.000.
+- n. Súdwest-Fryslân: € 3.970.860;
 
-3. De specifieke uitkering wordt niet verstrekt voor het bekostigen van de BTW die verschuldigd is over de kosten ten gevolge van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-03-11&g=2022-03-11), voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
+- o. Vlissingen: € 3.900.250; en
+
+- p. Westerkwartier: € 4.612.000.
+
+3. De specifieke uitkering wordt niet verstrekt voor het bekostigen van de BTW die verschuldigd is over de kosten ten gevolge van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-09-14&g=2022-09-14), voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
 ##### Artikel 4. Wijze van betaling
 
-Bij de toekenning van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=2&z=2022-03-11&g=2022-03-11), wordt een voorschot van 100% verleend. De betaling van dit voorschot vindt uiterlijk plaats op 1 augustus 2022.
+Bij de toekenning van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=2&z=2022-09-14&g=2022-09-14), wordt een voorschot van 100% verleend. De betaling van dit voorschot vindt uiterlijk plaats op 31 december 2022.
 
 ##### Artikel 5. Verplichtingen
 
-1. De gemeente die een specifieke uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-03-11&g=2022-03-11) ontvangt is verplicht om:
+1. De gemeente die een specifieke uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-09-14&g=2022-09-14) ontvangt is verplicht om:
 
 - a. de specifieke uitkering volledig te besteden uiterlijk op 31 december 2030 aan de activiteiten waarvoor deze is verstrekt;
 
@@ -112,7 +116,7 @@ Bij de toekenning van de specifieke uitkering, bedoeld in [artikel 2](https://we
 
 2. Indien de uitvoering van de activiteiten voor de datum, genoemd in het eerste lid, onder a, niet mogelijk is en dit niet aan de ontvanger is te wijten, kan de minister die termijn op schriftelijk en gemotiveerd verzoek van de ontvanger telkens met ten hoogste een jaar verlengen. Het verzoek tot verlenging wordt uiterlijk ingediend op 1 november van het kalenderjaar waarin de specifieke uitkering volledig dient te worden besteed.
 
-3. De minister kan op een schriftelijk en gemotiveerd verzoek van het college besluiten om andere activiteiten toe te staan dan de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-03-11&g=2022-03-11), indien dat in het belang is van het doel van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=2&z=2022-03-11&g=2022-03-11).
+3. De minister kan op een schriftelijk en gemotiveerd verzoek van het college besluiten om andere activiteiten toe te staan dan de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-09-14&g=2022-09-14), indien dat in het belang is van het doel van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=2&z=2022-09-14&g=2022-09-14).
 
 ##### Artikel 6. Informatievoorziening na uitkering
 
@@ -120,13 +124,13 @@ Het college informeert de minister op verzoek over de voortgang van de activitei
 
 ##### Artikel 7. Verantwoording, terugvordering en vaststelling
 
-1. Het college legt verantwoording af over de besteding van de specifieke uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-03-11&g=2022-03-11), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Het college legt verantwoording af over de besteding van de specifieke uitkering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=3&z=2022-09-14&g=2022-09-14), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=2&z=2022-03-11&g=2022-03-11), niet, niet volledig of onrechtmatig is besteed, dat niet is voldaan aan de verplichtingen gesteld op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=5&z=2022-03-11&g=2022-03-11), of niet is voldaan aan de verantwoordingsplicht, bedoeld in het eerste lid, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in het eerste lid, mededeling van de terugvordering aan het college.
+2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=2&z=2022-09-14&g=2022-09-14), niet, niet volledig of onrechtmatig is besteed, dat niet is voldaan aan de verplichtingen gesteld op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=5&z=2022-09-14&g=2022-09-14), of niet is voldaan aan de verantwoordingsplicht, bedoeld in het eerste lid, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in het eerste lid, mededeling van de terugvordering aan het college.
 
 3. De minister stelt de specifieke uitkering vast nadat het college, op de in het eerste lid bedoelde wijze, de eindverantwoording aan de minister heeft verstrekt.
 
-4. Indien de uiterlijke datum voor het afronden van de activiteiten, bedoeld in [artikel 5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=5&z=2022-03-11&g=2022-03-11), is verstreken en het college geen eindverantwoording heeft verstrekt, stelt de minister de specifieke uitkering vast aan de hand van de eerstvolgende verantwoordingsinformatie.
+4. Indien de uiterlijke datum voor het afronden van de activiteiten, bedoeld in [artikel 5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046413&artikel=5&z=2022-09-14&g=2022-09-14), is verstreken en het college geen eindverantwoording heeft verstrekt, stelt de minister de specifieke uitkering vast aan de hand van de eerstvolgende verantwoordingsinformatie.
 
 ##### Artikel 8. Inwerkingtreding en vervaldatum
 
