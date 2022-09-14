@@ -4,7 +4,7 @@ identifier: "BWBR0047146"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-14"
-last_updated: "2022-06-02"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047146"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ De gemeente die een specifieke uitkering heeft ontvangen is verplicht om onverwi
 
 ##### Artikel 8. Terugvordering
 
-De minister kan onverschuldigd uitgekeerde bedragen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047146&artikel=7&z=2022-09-14&g=2022-06-02), terugvorderen.
+De minister kan onverschuldigd uitgekeerde bedragen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047146&artikel=7&z=2022-09-14&g=2022-09-14), terugvorderen.
 
 ##### Artikel 9. Inwerkingtreding
 
