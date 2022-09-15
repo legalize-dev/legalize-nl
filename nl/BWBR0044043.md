@@ -4,7 +4,7 @@ identifier: "BWBR0044043"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2022-09-15"
-last_updated: "2022-09-09"
+last_updated: "2022-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044043"
 soort: "ministeriele-regeling-BES"
@@ -124,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 - l. beschrijving van het onderwijskundig concept van ten hoogste 3.000 tekens.
 
-2. Uit het document, bedoeld in [artikel 72, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), blijkt dat in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 15 september van het kalenderjaar van de aanvraag de in dat artikel bedoelde partijen zijn gevraagd om te overleggen.
+2. Uit het document, bedoeld in [artikel 72, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), blijkt dat de in dat lid bedoelde partijen zijn gevraagd om te overleggen over de aanvraag, waarbij de voorgestelde datum van het overleg dient te liggen in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 14 september van het kalenderjaar van de aanvraag.
 
 3. De aanvraag tot bekostiging wordt ingediend met een formulier dat is bekendgemaakt op de website www.duo.nl.
 
@@ -132,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 72, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-09-09&g=2022-09-09), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel met het formulier langs digitale weg, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-09-15&g=2022-09-15), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 5. Nadere regels belangstellingsmeting
 
@@ -144,11 +144,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Nadere regels ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 72a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 15 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 72a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
-3. De ouder kan de ouderverklaring uiterlijk op 15 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
+3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
 
 4. Na indiening van de aanvraag kan de ouderverklaring niet meer worden ingetrokken.
 
@@ -160,7 +160,7 @@ In deze regeling wordt verstaan onder:
 
 - b. is afgewezen.
 
-7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+7. Vanaf 30 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
 8. Degene die een ouderverklaring indient ontvangt daarvoor geen beloning in enige vorm.
 
@@ -218,6 +218,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Aanvragen tot bekostiging 2022
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-09-15&g=2022-09-15), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 72, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), dat in de periode van 15 september 2022 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
