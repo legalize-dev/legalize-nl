@@ -4,7 +4,7 @@ identifier: "BWBR0035073"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-15"
-last_updated: "2012-10-01"
+last_updated: "2022-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035073"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Aanwijzing ambtenaren
 
-De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs, genoemd in [artikel 2, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800), worden aangewezen als ambtenaren die toezicht houden op de uitvoering van de aan het college van burgemeester en wethouders bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) opgedragen taken.
+De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs, genoemd in [artikel 2, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800), worden aangewezen als ambtenaren die toezicht houden op de uitvoering van de aan het college van burgemeester en wethouders bij of krachtens de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) opgedragen taken.
 
 ##### Artikel 2. Inwerkingtreding
 
@@ -50,6 +50,6 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 3. Citeertitel
 
-Deze regeling wordt aangehaald als: Aanwijzingsregeling ambtenaren interbestuurlijk toezicht en deskundigen Wet op het primair onderwijs.
+Deze regeling wordt aangehaald als: Aanwijzingsregeling ambtenaren interbestuurlijk toezicht en deskundigen Wet op het primair onderwijs en de Wet voortgezet onderwijs 2020.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
