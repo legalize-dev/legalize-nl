@@ -4,7 +4,7 @@ identifier: "BWBR0044044"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2022-09-09"
+last_updated: "2022-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044044"
 soort: "ministeriele-regeling"
@@ -136,7 +136,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 - l. beschrijving van het onderwijskundig concept in ten hoogste 3000 tekens.
 
-2. Uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), blijkt dat in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 15 september van het kalenderjaar van de aanvraag de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
+2. Uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), blijkt dat de in dat lid bedoelde partijen zijn gevraagd om te overleggen over de aanvraag, waarbij de voorgestelde datum van het overleg dient te liggen in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 14 september van het kalenderjaar van de aanvraag.
 
 3. De aanvraag tot bekostiging wordt ingediend in het digitale portaal via de website www.duo.nl.
 
@@ -144,7 +144,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 74, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-09-09&g=2022-09-09), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-09-15&g=2022-09-15), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 6. Nadere regels belangstellingsmeting
 
@@ -156,11 +156,11 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 ##### Artikel 7. Geldigheid ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 74a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 15 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 74a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
-3. De ouder kan de ouderverklaring uiterlijk op 15 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
+3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
 
 4. Na indiening van de aanvraag kan de ouderverklaring niet meer worden ingetrokken.
 
@@ -172,7 +172,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 - b. is afgewezen.
 
-7. Vanaf 15 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+7. Vanaf 30 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
 8. Degene die een ouderverklaring indient ontvangt daarvoor geen beloning in enige vorm.
 
@@ -222,9 +222,9 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien sprake is van verzelfstandiging als bedoeld in [artikel 84a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a):
 
-- a. zijn van [artikel 3 het eerste lid en het tweede lid met uitzondering van onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-09-09&g=2022-09-09) van overeenkomstige toepassing;
+- a. zijn van [artikel 3 het eerste lid en het tweede lid met uitzondering van onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-09-15&g=2022-09-15) van overeenkomstige toepassing;
 
-- b. is [artikel 4, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-09-09&g=2022-09-09), van overeenkomstige toepassing;
+- b. is [artikel 4, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-09-15&g=2022-09-15), van overeenkomstige toepassing;
 
 - c. is de aanvraag voorzien van een prognose, bedoeld in het derde en vierde lid; en
 
@@ -292,4 +292,4 @@ Deze regeling wordt aangehaald als: Regeling voorzieningenplanning po 2021. Deze
 
 ##### Artikel 4a. Aanvragen tot bekostiging 2022
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-09-15&g=2022-09-15), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), dat in de periode van 15 september 2021 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
