@@ -4,7 +4,7 @@ identifier: "BWBR0045964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-08"
-last_updated: "2021-12-02"
+last_updated: "2022-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045964"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **provincie:** provincie die uitvoering geeft aan de regionale MIT-regeling;
 
-- **regionale MIT-regeling:** de provinciale subsidieregeling als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=1&z=2021-12-02&g=2021-12-02);
+- **regionale MIT-regeling:** de provinciale subsidieregeling als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=1&z=2022-09-16&g=2022-09-16);
 
 - **uitvoeringsactiviteit:** activiteit die wordt uitgevoerd in het kader van de regionale MIT-regeling 2021.
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Hoogte van de uitkering
 
-De specifieke uitkering bedraagt ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=2&z=2021-12-02&g=2021-12-02) bij deze regeling.
+De specifieke uitkering bedraagt ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=2&z=2022-09-16&g=2022-09-16) bij deze regeling.
 
 ##### Artikel 4. Aanvraag tot verlening
 
@@ -104,11 +104,11 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering MIT 2021.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=1&z=2021-12-02&g=2021-12-02)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=1&z=2022-09-16&g=2022-09-16)
 
 ### Regionale MIT-regeling
 
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2021-12-02&g=2021-12-02)
+## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2022-09-16&g=2022-09-16)
 
 ### Maximale Rijksbijdrage per provincie
 
