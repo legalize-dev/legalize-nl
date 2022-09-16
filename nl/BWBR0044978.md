@@ -4,7 +4,7 @@ identifier: "BWBR0044978"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-16"
-last_updated: "2021-04-01"
+last_updated: "2022-09-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044978"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Buitenlandse Zaken;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=2&z=2021-04-01&g=2021-04-01).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=2&z=2022-09-16&g=2022-09-16).
 
 ##### Artikel 2. Instelling en taak
 
@@ -94,9 +94,9 @@ Tot lid van de commissie worden benoemd:
 
 ##### Artikel 5. Instellingsduur
 
-1. De commissie wordt ingesteld met ingang van 1 april 2021 en wordt opgeheven per 1 oktober 2022.
+1. De commissie wordt ingesteld met ingang van 1 april 2021 en wordt opgeheven per 1 maart 2023.
 
-2. De commissie brengt uiterlijk 1 oktober 2022, en zoveel eerder als mogelijk, haar eindrapport uit aan de minister.
+2. De commissie brengt uiterlijk 1 maart 2023, en zoveel eerder als mogelijk, haar eindrapport uit aan de minister.
 
 3. Indien onvoorziene omstandigheden naar het oordeel van de commissie in de weg staan aan het tijdig afronden van het onderzoek, dan stelt zij de minister daarvan onverwijld op de hoogte.
 
@@ -126,7 +126,7 @@ Tot lid van de commissie worden benoemd:
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
-2. Het Ministerie van Buitenlandse Zaken verleent de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=7&z=2021-04-01&g=2021-04-01) bedoelde protocol.
+2. Het Ministerie van Buitenlandse Zaken verleent de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft met inachtneming van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=7&z=2022-09-16&g=2022-09-16) bedoelde protocol.
 
 3. Ambtenaren van het Ministerie van Buitenlandse Zaken zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak.
 
