@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2022-09-07"
+last_updated: "2022-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -96,9 +96,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen, over te brengen dan wel door of uit te voeren naar Rusland, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
 
-2. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect in te voeren, te kopen, te vervoeren, over te dragen of geleverd te krijgen van natuurlijke personen of rechtspersonen uit de Russische Federatie.
+2. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect in te voeren, te kopen, te vervoeren, over te dragen of geleverd te krijgen van natuurlijke personen of rechtspersonen uit de Rusland.
 
-3. Een verbod, bedoeld in het eerste of tweede lid, laat de uitvoering van vóór 1 augustus 2014 gesloten contracten of aanvullende overeenkomsten die nodig zijn voor de uitvoering daarvan, alsmede de levering van reserveonderdelen en de verstrekking van diensten voor de instandhouding en veiligheid van binnen de Unie bestaande capaciteiten, onverlet.
+3. Het verbod, bedoeld in het eerste lid, laat de levering van reserveonderdelen en de verstrekking van diensten voor de instandhouding en veiligheid van binnen de Unie bestaande capaciteiten, onverlet. Het verbod, bedoeld in het tweede lid, laat de uitvoering van vóór 1 augustus 2014 gesloten contracten of aanvullende overeenkomsten die nodig zijn voor de uitvoering daarvan, alsmede de levering van reserveonderdelen en de verstrekking van diensten voor de instandhouding en veiligheid van binnen de Unie bestaande capaciteiten, onverlet.
 
 4. Het verbod, bedoeld in het eerste of tweede lid, geldt niet in geval van:
 
@@ -112,7 +112,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-09-07&g=2022-09-07) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-09-17&g=2022-09-17) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
