@@ -4,7 +4,7 @@ identifier: "BWBR0047157"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-17"
-last_updated: "2022-01-01"
+last_updated: "2022-09-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047157"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Bij verordening kan van de in [artikel 16 van de Uitvoeringsregeling](https://we
 
 ##### Artikel 3. Netto-ouderdomspensioen in plaats van bijstandsnorm
 
-1. Onverminderd het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047157&paragraaf=2&artikel=2&z=2022-09-17&g=2022-01-01) kan bij verordening worden bepaald dat voor de vaststelling van de kosten van bestaan van pensioengerechtigden in plaats van de bijstandsnorm het netto-ouderdomspensioen wordt gehanteerd.
+1. Onverminderd het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047157&paragraaf=2&artikel=2&z=2022-09-17&g=2022-09-17) kan bij verordening worden bepaald dat voor de vaststelling van de kosten van bestaan van pensioengerechtigden in plaats van de bijstandsnorm het netto-ouderdomspensioen wordt gehanteerd.
 
 2. Het hanteren van het netto-ouderdomspensioen, bedoeld in het eerste lid, geschiedt door:
 
@@ -112,7 +112,7 @@ De [Regeling van de Staatssecretaris van Binnenlandse Zaken en de Minister van V
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
-2. Met ingang van 1 januari 2022 berusten verordeningen ter uitvoering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008024&artikel=1) of [1a van de Regeling van de Staatssecretaris van Binnenlandse Zaken en de Minister van Verkeer en Waterstaat van 2 mei 1996 houdende Nadere regels kwijtschelding gemeentelijke en waterschapsbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008024&artikel=1a) (Stcrt. 1996, 98) mede op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047157&paragraaf=2&artikel=2&z=2022-09-17&g=2022-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047157&paragraaf=2&artikel=3&z=2022-09-17&g=2022-01-01) van deze regeling.
+2. Met ingang van 1 januari 2022 berusten verordeningen ter uitvoering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008024&artikel=1) of [1a van de Regeling van de Staatssecretaris van Binnenlandse Zaken en de Minister van Verkeer en Waterstaat van 2 mei 1996 houdende Nadere regels kwijtschelding gemeentelijke en waterschapsbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008024&artikel=1a) (Stcrt. 1996, 98) mede op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047157&paragraaf=2&artikel=2&z=2022-09-17&g=2022-09-17) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047157&paragraaf=2&artikel=3&z=2022-09-17&g=2022-09-17) van deze regeling.
 
 ##### Artikel 7. Citeertitel
 
