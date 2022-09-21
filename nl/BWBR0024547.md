@@ -4,7 +4,7 @@ identifier: "BWBR0024547"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-09-21"
-last_updated: "2011-07-01"
+last_updated: "2022-09-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024547"
 soort: "beleidsregel"
@@ -42,11 +42,7 @@ Besluiten:
 
 ##### Artikel 1. Algemeen
 
-1. Deze beleidsregels zijn van toepassing op subsidies die worden verstrekt door:
-
-- a. de Minister van Volksgezondheid, Welzijn en Sport;
-
-- b. de Staatssecretaris van Volksgezondheid, Welzijn en Sport.
+1. Deze beleidsregels zijn van toepassing op subsidies die worden verstrekt door de Minister van Volksgezondheid, Welzijn en Sport.
 
 2. Deze beleidsregels zijn niet van toepassing:
 
@@ -86,23 +82,25 @@ De verlening van voorschotten kan worden ingetrokken of ten nadele van de subsid
 
 4. Indien de aanvrager binnen de termijn, gesteld op grond van het eerste lid, niet heeft voldaan aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie, wordt op het bedrag van de vast te stellen subsidie een bedrag in mindering gebracht van:
 
-- a. 10% van het bedrag van de verleende subsidie tot ten hoogste € 100.000 indien:
+- a. 3% van het bedrag van de verleende subsidie tot ten hoogste € 9.000 indien:
 
 - –. in het geheel geen aanvraag tot vaststelling van een verleende subsidie is ontvangen of
 
 - –. alle voorgeschreven verantwoordingselementen ontbreken;
 
-- b. 7% van het bedrag van de verleende subsidie tot ten hoogste € 70.000 indien:
+- b. 1% van het bedrag van de verstrekte subsidie tot ten hoogste € 3.000 indien:
 
 - –. twee van de drie voorgeschreven verantwoordingselementen ontbreken of
 
 - –. één van de twee voorgeschreven verantwoordingselementen ontbreekt;
 
-- c. 5% van het bedrag van de verleende subsidie tot ten hoogste € 50.000 indien één van de drie voorgeschreven verantwoordingselementen ontbreekt;
+- c. 0,5% van het bedrag van de verstrekte subsidie tot ten hoogste € 1.500 indien één van de drie voorgeschreven verantwoordingselementen ontbreekt;
 
-- d. 3% van het bedrag van de verleende subsidie tot ten hoogste € 30.000 indien er uitsluitend andere gebreken aan de aanvraag kleven.
+- d. 0,25% van het bedrag van de verstrekte subsidie tot ten hoogste € 750 indien er uitsluitend andere gebreken aan de aanvraag kleven.
 
-5. Onverminderd de uitkomst van een eventueel ingesteld bezwaar of beroep, zal de vaststelling van de subsidie niet worden herzien wanneer de subsidieontvanger alsnog voldoet aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie.
+5. Indien rekening en verantwoording dient te worden afgelegd aan de hand van een financieel verslag dat vergezeld gaat van een controleverklaring, opgesteld door een accountant en de accountant een controleverklaring met beperking of oordeelsonthouding afgeeft, kan op het bedrag van de vast te stellen subsidie of het relevante subsidieonderdeel een bedrag in mindering gebracht worden van minstens 20%.
+
+6. Onverminderd de uitkomst van een eventueel ingesteld bezwaar of beroep, zal de vaststelling van de subsidie niet worden herzien wanneer de subsidieontvanger alsnog voldoet aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie.
 
 ##### Artikel 5. De subsidie overstijgende gevolgen
 
@@ -126,13 +124,13 @@ Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaats
 
 1. Indien de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichting tot schriftelijke melding van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie, wordt op het bedrag van de verstrekte subsidie in ieder geval een bedrag in mindering gebracht van:
 
-- a. 10% van het bedrag van de verstrekte subsidie tot ten hoogste € 100.000 indien het bedrag van de verstrekte subsidie met 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
+- a. 3% van het bedrag van de verstrekte subsidie tot ten hoogste € 9.000 indien het bedrag van de verstrekte subsidie met 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
 
-- b. 7% van het bedrag van de verstrekte subsidie tot ten hoogste € 70.000 indien het bedrag van de verstrekte subsidie met 35% tot 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
+- b. 1% van het bedrag van de verstrekte subsidie tot ten hoogste € 3.000 indien het bedrag van de verstrekte subsidie met 35% tot 50% of meer wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
 
-- c. 5% van het bedrag van de verstrekte subsidie tot ten hoogste € 50.000 indien het bedrag van de verstrekte subsidie met 25% tot 35% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
+- c. 0,5% van het bedrag van de verstrekte subsidie tot ten hoogste € 1.500 indien het bedrag van de verstrekte subsidie met 25% tot 35% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan;
 
-- d. 3% van het bedrag van de verstrekte subsidie tot ten hoogste € 30.000 indien het bedrag van de verstrekte subsidie met 15% tot 25% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan.
+- d. 0,25% van het bedrag van de verstrekte subsidie tot ten hoogste € 750 indien het bedrag van de verstrekte subsidie met 15% tot 25% wordt verlaagd op grond van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan.
 
 2. Afhankelijk van de omstandigheden waarvan de subsidieontvanger geen melding of geen tijdige melding heeft gedaan, kan de minister een hoger bedrag in mindering brengen op de subsidie dan voortvloeit uit het eerste lid.
 
