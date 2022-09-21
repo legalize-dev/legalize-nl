@@ -4,7 +4,7 @@ identifier: "BWBR0028898"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-09-21"
-last_updated: "2021-08-19"
+last_updated: "2022-09-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028898"
 soort: "ministeriele-regeling"
@@ -73,7 +73,7 @@ In deze regeling wordt verstaan onder:
 
 - c. het vervoer geschiedt in het kader van een schietserie, een operatie of een eindoefening of afsluitende training direct voorafgaande aan een operatie; en
 
-- d. wordt voldaan aan de bij of krachtens het besluit gestelde regels met betrekking tot logistieke voertuigen met uitzondering van het gestelde in [artikel 4 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=4&z=2021-08-19&g=2021-08-19) en [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=5).
+- d. wordt voldaan aan de bij of krachtens het besluit gestelde regels met betrekking tot logistieke voertuigen met uitzondering van het gestelde in [artikel 4 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=4&z=2022-09-21&g=2022-09-21) en [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009142&artikel=5).
 
 ##### Artikel 4. Logistiek voertuig
 
@@ -151,7 +151,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 ##### Artikel 6. Militair keuringsdocument
 
-1. Voor het militair keuringsdocument wordt het in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&bijlage=A&z=2021-08-19&g=2021-08-19) van deze regeling opgenomen model vastgesteld.
+1. Voor het militair keuringsdocument wordt het in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&bijlage=A&z=2022-09-21&g=2022-09-21) van deze regeling opgenomen model vastgesteld.
 
 2. De datum einde geldigheidsduur van het keuringsdocument moet op het document zijn ingevuld.
 
@@ -177,7 +177,7 @@ Het vloeroppervlak mag geen onderbrekingen vertonen. Als onderbreking wordt niet
 
 1. Verpakkingen van ontplofbare stoffen moeten ten behoeve van een veilige behandeling en juist gebruik van de verpakte voorwerpen en artikelen zijn voorzien van de door de civiele en militaire autoriteiten vastgestelde aanduidingen en aanwijzingen ter identificatie.
 
-2. Aanduidingen en aanwijzingen op verpakkingen van ontplofbare stoffen dienen in overeenstemming te zijn met de in de ministeriële publicaties nr. 40-40 gepubliceerde voorschriften inzake het merken van munitie en van de verpakking van munitie. Voor zover deze voorschriften geen aanduidingen of aanwijzingen voorschrijven, dient te worden voldaan aan het gestelde in deel 5 van het ADR met betrekking tot het markeren en etiketteren van verpakkingen.
+2. Aanduidingen en aanwijzingen op verpakkingen van ontplofbare stoffen dienen in overeenstemming te zijn met het [Voorschrift inzake het merken van munitie en de verpakking van munitie 2022](onbekend). Voor zover deze voorschriften geen aanduidingen of aanwijzingen voorschrijven, dient te worden voldaan aan het gestelde in deel 5 van het ADR met betrekking tot het markeren en etiketteren van verpakkingen.
 
 3. De aanduidingen en aanwijzingen dienen goed leesbaar, onuitwisbaar en onbedekt te zijn en tenminste op één zijde van de verpakking te zijn aangebracht.
 
@@ -203,6 +203,6 @@ Deze regeling treedt in werking met ingang van 1 januari 2011.
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Besluit vervoer ontplofbare stoffen krijgsmacht 2011.
 
-## Bijlage A. Model voor het militair keuringsbewijs, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=6&z=2021-08-19&g=2021-08-19)
+## Bijlage A. Model voor het militair keuringsbewijs, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028898&artikel=6&z=2022-09-21&g=2022-09-21)
 
 Deze regeling zal met de toelichting worden geplaatst in de Staatscourant en in de serie Ministeriële publicaties.
