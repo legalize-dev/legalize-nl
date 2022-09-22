@@ -153,9 +153,3 @@ Na de inwerkingtreding van dit besluit berust:
 2. In het koninklijk besluit kan worden bepaald dat dit besluit terugwerkt tot en met 22 september 2022.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 6. Citeertitel
-
-Dit besluit wordt aangehaald als: Besluit specifieke uitkeringen volkshuisvesting
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
