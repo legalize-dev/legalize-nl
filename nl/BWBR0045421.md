@@ -4,7 +4,7 @@ identifier: "BWBR0045421"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-03"
-last_updated: "2022-05-13"
+last_updated: "2022-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045421"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- b. **expertgroep:** Wetenschappelijke Expertgroep Nationaal Programma Onderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045421&artikel=2&z=2021-07-21&g=2022-05-13).
+- b. **expertgroep:** Wetenschappelijke Expertgroep Nationaal Programma Onderwijs, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045421&artikel=2&z=2022-09-27&g=2022-09-27).
 
 ##### Artikel 2. Instelling en taken
 
@@ -78,7 +78,7 @@ Voor de duur van de expertgroep worden tot lid van de expertgroep benoemd:
 
 - a. de heer L. Borghans, tevens voorzitter;
 
-- b. de heer W. Admiraal;
+- b. mevrouw P. Meijer;
 
 - c. mevrouw J. Bolhaar;
 
@@ -92,7 +92,7 @@ Voor de duur van de expertgroep worden tot lid van de expertgroep benoemd:
 
 1. De expertgroep wordt ingesteld met ingang van 1 juni 2021.
 
-2. De expertgroep wordt opgeheven op de datum van indiening van het eindverslag. Dat eindverslag zal uiterlijk op 31 december 2023 door de expertgroep worden aangeboden aan de minister.
+2. De expertgroep wordt opgeheven op de datum van indiening van het eindverslag. Dat eindverslag zal uiterlijk op 31 februari 2026 door de expertgroep worden aangeboden aan de minister.
 
 ##### Artikel 6. Secretariaat
 
@@ -144,7 +144,7 @@ Een ieder die betrokken is geweest bij de werkzaamheden van de expertgroep en da
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt daarbij terug tot en met 1 juni 2021.
 
-2. Dit besluit vervalt op 31 juli 2024.
+2. Dit besluit vervalt op 31 juli 2026.
 
 ##### Artikel 14. Citeertitel
 
