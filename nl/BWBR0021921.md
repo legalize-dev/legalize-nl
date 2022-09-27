@@ -4,7 +4,7 @@ identifier: "BWBR0021921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-13"
-last_updated: "2021-03-11"
+last_updated: "2022-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021921"
 soort: "ministeriele-regeling"
@@ -56,9 +56,11 @@ Deze regeling kan worden aangehaald als: Warenwetregeling aanwijzing algemene ve
 
 EN 581-1:2006 Buitenmeubelen – Zitmeubelen en tafels voor gebruik op campings, in huishoudens en voor verhuurdoeleinden – Deel 1: Algemene veiligheidseisen
 
+EN 716-1:2017+AC:2019 Meubelen – Kinderledikanten en opvouwbare kinderbedjes voor huishoudelijk gebruik – Deel 1: Veiligheidsvoorschriften
+
 EN 913:2018 Turntoestellen – Algemene veiligheidseisen en beproevingsmethoden
 
-EN 914:2008 Turntoestellen – Bruggen met gelijke liggers en bruggen met ongelijke liggers – Eisen en beproevingsmethoden inclusief veiligheid
+EN 914:2020 Turntoestellen – Bruggen met gelijke liggers en bruggen met ongelijke liggers – Eisen en beproevingsmethoden inclusief veiligheid
 
 EN 915:2008 Turntoestellen – Bruggen met ongelijke liggers – Functionele eisen en veiligheidseisen, beproevingsmethoden
 
@@ -74,13 +76,15 @@ EN 1129-1:1995 Meubelen – Opklapbedden – Veiligheidseisen en beproeving – 
 
 EN 1129-2:1995 Meubelen – Opklapbedden – Veiligheidseisen en beproeving – Deel 2: Beproevingsmethoden
 
-EN 1130-1:1996 Meubelen – Wiegen voor huiselijk gebruik – Deel 1: Veiligheidseisen
+EN 1130:2019 Kindermeubelen – Wiegen – Veiligheidseisen en beproevingsmethoden EN 1130:2019/AC:2020
 
-EN 1130-2:1996 Meubelen – Wiegen voor huiselijk gebruik – Deel 2: Beproevingsmethoden
+EN 1272:2017 Artikelen voor zuigelingen en peuters – Aan een tafel bevestigde stoelen – Veiligheidseisen en beproevingsmethoden
 
 EN 1273:2005 Artikelen voor zuigelingen en peuters – Loopstoeltjes – Veiligheidseisen en beproevingsmethoden
 
-EN 1466:2014 Artikelen voor zuigelingen en peuters – Reiswiegen en standaards – Veiligheidseisen en beproevingsmethoden
+EN 1400:2013+A2:2018 Artikelen voor zuigelingen en peuters – Fopspenen voor baby’s en kleine kinderen – Veiligheidseisen en beproevingsmethoden
+
+EN 1466:2014 Artikelen voor zuigelingen en peuters – Reiswiegen en standaards – Veiligheidseisen en beproevingsmethoden EN 1466:2014/AC:2015
 
 EN 1651:1999 Uitrusting voor schermvliegen – Harnasgordels – Veiligheidseisen en sterktebeproevingen
 
@@ -106,7 +110,7 @@ EN ISO 4210-9:2014 Rijwielen – Veiligheidseisen voor fietsen – Deel 9: Bepro
 
 EN ISO 8098:2014 Fietsen – Veiligheidseisen voor fietsen voor jonge kinderen (ISO 8098:2014)
 
-EN ISO 9994:2006 Aanstekers – Veiligheidsbepalingen (ISO 9994:2005)
+EN ISO 9994:2019 Aanstekers – Veiligheidsbepalingen (ISO 9994:2018)
 
 EN ISO 11243:2016 Cycli – Bagagedragers voor fietsen – Eisen en beproevingsmethoden (ISO 11243: 2016)
 
@@ -150,6 +154,10 @@ EN 14350-1:2004 Artikelen voor zuigelingen en peuters – Drinkgerei – Deel 1:
 
 EN 14682:2014 Veiligheid van kinderkleding – Koorden en treksluitingen van kinderkleding – Specificaties
 
+EN 14988:2017+A1:2020 Hoge kinderstoelen – Eisen en beproevingsmethoden
+
+EN 16120:2012+A2:2016 Artikelen voor zuigelingen en peuters – Stoelverhoger
+
 EN 16156:2010 Sigaretten – Beoordeling van het ontstekend vermogen – Veiligheidseis
 
 EN 16281:2013 Producten veilig voor kinderen – Kindveilige sluitingen voor ramen en balkondeuren bestemd voor de consument – Veiligheidseisen en beproevingsmethoden
@@ -190,9 +198,7 @@ EN ISO 25649-6:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het wa
 
 EN ISO 25649-7:2017 Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 7: Aanvullende bijzondere eisen en beproevingsmethoden voor klasse E toestellen (ISO 25649-7:2017)
 
-EN 60065:2002 Audio-, video- en soortgelijke elektronische toestellen – Veiligheidseisen IEC 60065:2001 (Gewijzigd) EN 60065:2002/A12:2011
-
-EN 60950-1:2006 Apparatuur voor informatietechniek – Veiligheid – Deel 1: Algemene eisen IEC 60950-1:2005 (Gewijzigd) EN 60950-1:2006+A12:2011
+EN IEC 62368-1:2020 Audio/video, informatietechnologie- en communicatietechnologieapparatuur – Deel 1: Veiligheidsvoorschriften EN IEC 62368-1:2020/A11:2020. Deze aangewezen norm heeft alleen betrekking op de punten 3.3.19 ‘Geluidsblootstelling’ en 10.6 ‘Bescherming tegen akoestische energiebronnen’ van EN IEC 62368-1:2020/A11:2020
 
 ### Bijlage bij de Warenwetregeling aanwijzing algemene veiligheidsnormen: Normen die vermoed worden geen gevaar op te leveren als bedoeld in [artikel 18a, eerste lid van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=18a)
 
