@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2022-01-11"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -64,11 +64,11 @@ Deze regeling wordt aangehaald als: Kiesregeling.
 
 ### Model D 3-1. Registratieformulier voor kiezers buiten Nederland voor de verkiezing van de Tweede Kamer
 
-### Model D 3-1
+### Model D 3-1. Registratieformulier voor kiezers buiten Nederland
 
 ### Model D 3-2
 
-### Model G 1-1
+### Model G 1-1. Verzoek tot registratie van een aanduiding (en logo)
 
 ### Model G 1-2
 
@@ -174,29 +174,29 @@ Deze regeling wordt aangehaald als: Kiesregeling.
 
 ### Model M 6-3. Enveloppe voor het stembiljet
 
-### Model M 3
+### Model M 3. Verzoek om per brief te stemmen
 
-### Model M 6-1
+### Model M 6-1. Stembiljet voor kiezers buiten Nederland
 
-### Model M 6-2
+### Model M 6-2. Overzicht van de kandidaten voor kiezers buiten Nederland
 
-### Model N 10-2b
+### Model M 6-3
 
-### Model M 6-3. Enveloppe voor het stembiljet
+### Model M 6-4
 
 ### Model N 10-1
 
-### Model N 10-2a
+### Model M 6-5. Enveloppe voor het stembiljet
 
-### Model N 10-2b
+### Model M 6b-1. Verzoek om een vervangend briefstembewijs voor kiezers buiten Nederland
 
-### Model N 11
+### Model M 6b-2. Vervangend briefstembewijs voor kiezers buiten Nederland
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2022-01-11&g=2022-01-11) bij artikel 2a van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2022-10-01&g=2022-10-01) bij artikel 2a van deze regeling opgenomen eisen.
 
 ## Bijlage
 
@@ -212,7 +212,7 @@ De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](http
 
 6. Het model voor de kiezerspas voor de verkiezing van de leden van de Tweede Kamer luidt in Saba als volgt:
 
-### Model O 3
+### Model N 10-1
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2014-10-14&g=2014-10-14) van de Kies- en referendumregeling
 
@@ -230,7 +230,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Het model voor het schriftelijk volmachtbewijs luidt voor een verkiezing als bedoeld in artikel 52 van de Wet algemene regels herindeling als volgt:
 
-### Model P 22-1
+### Model N 10-2a
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-01-01&g=2015-01-01) van de Kies- en referendumregeling
 
@@ -242,9 +242,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2022-01-11&g=2022-01-11) van de Kiesregeling
+## Bijlage 1. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2022-10-01&g=2022-10-01) van de Kiesregeling
 
 4. Het model voor de stempas voor de verkiezing van de leden van het algemeen bestuur van het waterschap waarmee in elk willekeurig stemlokaal in de gemeente kan worden gestemd, luidt als volgt:
+
+### Model N 10-2b
+
+### Model N 11
+
+### Model O 3
+
+### Model P 22-1
 
 ### Model P 22-2
 
@@ -256,23 +264,15 @@ Vervallen
 
 ### Model V 9
 
-### Model W 1-1
-
-### Model W 1-2
-
-### Model W 1-3
-
-### Model W 2
-
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
 
-### Model W 5
+### Model W 1-2
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
 
-### Model Y 35. Verklaring dat u in de lidstaat van uw herkomst niet bent uitgesloten van het recht om gekozen te worden/Declaration of non-exclusion from the right to stand for election in your home Member State
+### Model W 4
 
 De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
@@ -280,17 +280,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De kiezerspas voor de verkiezing van de leden van het algemeen bestuur van het waterschap luidt als volgt:
 
-### Model W 4
+### Model W 1-1
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
 
-### Model Y 13. Verklaring dat u zich niet in een andere lidstaat kandidaat stelt voor het Europees Parlement
+### Model W 1-3
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
 
-### Model Ya 7
+### Model W 5
 
 De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
@@ -314,25 +314,27 @@ U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat 
 
 3. Het model voor het schriftelijk volmachtbewijs voor de verkiezing van de leden van de provinciale staten luidt als volgt:
 
+### Model W 2
+
+### Model Y 13. Verklaring dat u zich niet in een andere lidstaat kandidaat stelt voor het Europees Parlement
+
 ### Model Y 32
+
+### Model Y 35. Verklaring dat u in de lidstaat van uw herkomst niet bent uitgesloten van het recht om gekozen te worden/Declaration of non-exclusion from the right to stand for election in your home Member State
+
+### Model Ya 7
 
 ### Model Ya 9
 
-### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
-
-### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
-
-### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
-
-### Model Wrr 118. Vaststelling van het aantal in een openbaar lichaam ingediende ondersteuningsverklaringen (definitief verzoek)
-
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2018-01-10&g=2018-01-10) van de Kies- en referendumregeling
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2022-10-01&g=2022-10-01) van de Kiesregeling
 
 ### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
-## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2018-01-10&g=2018-01-10) van de Kies- en referendumregeling
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2022-10-01&g=2022-10-01) van de Kies- en referendumregeling
+
+Vervallen
 
 ### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
 
@@ -455,3 +457,7 @@ Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2022-01-11&g=2022-01-11) van de Kiesregeling
 
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
+
+Het model voor het briefstembewijs voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal en voor de verkiezing van de leden van het Europees parlement luidt als volgt:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
