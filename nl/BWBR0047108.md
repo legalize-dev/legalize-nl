@@ -195,9 +195,3 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering ontzorgingspro
 ### Bijlage bij [artikel 6, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=6&z=2022-10-01&g=2022-10-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage II. Beoordelingscriteria
-
-### Bijlage bij [artikel 6, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=6&z=2024-10-01&g=2024-10-01)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
