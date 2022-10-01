@@ -4,7 +4,7 @@ identifier: "BWBR0041619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-11"
-last_updated: "2021-12-03"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041619"
 soort: "ministeriele-regeling"
@@ -54,11 +54,15 @@ In deze regeling wordt verstaan onder:
 
 **leraarondersteuner:** iemand die als leraarondersteuner werkzaam is op een school, instelling of samenwerkingsverband welke valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-**minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+**minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 **onderwijsassistent:** iemand die als onderwijsassistent werkzaam is op een school, instelling of samenwerkingsverband welke valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-**opleiding tot leraar:** op basis van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) bekostigde bachelor- of masteropleiding die leidt tot het verkrijgen van een bevoegdheid om les te geven in een school of instelling die valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+**opleiding tot leraar:**
+
+- a. op basis van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) bekostigde bachelor- of masteropleiding die leidt tot het verkrijgen van een bevoegdheid om les te geven in een school of instelling die valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280); of
+
+- b. opleiding aan de University of Curaçao of het Instituto Pedagogico Arubano, die leidt tot het verkrijgen van een bevoegdheid om les te geven in een school of instelling die valt onder de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
 **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), samenwerkingsverband als bedoeld in [artikel 26 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=26) voor zover deze rechtspersoonlijkheid heeft of expertisecentrum onderwijszorg als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
@@ -74,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Te subsidiëren activiteiten
 
-1. De minister kan aan een bevoegd gezag of samenwerkingsverband subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag of samenwerkingsverband in dienst zijnde onderwijsassistent of leraarondersteuner die in 2019, 2020, 2021 of 2022 met die opleiding is gestart.
+1. De minister kan aan een bevoegd gezag of samenwerkingsverband subsidie verstrekken als tegemoetkoming in de studiekosten en kosten van studieverlof in verband met het volgen van een opleiding tot leraar gedurende een periode van ten hoogste vier jaren door een bij het bevoegd gezag of samenwerkingsverband in dienst zijnde onderwijsassistent of leraarondersteuner die in 2019, 2020, 2021, 2022, 2023, 2024 of 2025 met die opleiding is gestart.
 
 2. Het bevoegd gezag of samenwerkingsverband en de onderwijsassistent of leraarondersteuner sluiten een overeenkomst, waarin ten minste is opgenomen:
 
@@ -94,9 +98,13 @@ In deze regeling wordt verstaan onder:
 
 - a. € 1.000.000 voor het kalenderjaar 2019;
 
-- b. in totaal € 11.000.000 voor de kalenderjaren 2020;
+- b. in totaal € 11.000.000 voor het kalenderjaar 2020;
 
-- c. € 4.000.000 voor subsidieverstrekking in het kalenderjaar 2021 en € 8.000.000 voor subsidieverstrekking in het kalenderjaar 2022.
+- c. € 4.000.000 voor subsidieverstrekking in het kalenderjaar 2021 en € 14.000.000 voor subsidieverstrekking in het kalenderjaar 2022;
+
+- d. € 8.000.000 voor subsidieverstrekking in het kalenderjaar 2023;
+
+- e. € 6.000.000 per kalenderjaar voor subsidieverstrekking in de kalenderjaren 2024 en 2025.
 
 2. De subsidie bedraagt € 5.000 per onderwijsassistent of leraarondersteuner per jaar gedurende maximaal vier jaren.
 
@@ -112,11 +120,13 @@ In deze regeling wordt verstaan onder:
 
 3. Indien het voor subsidieverstrekking beschikbare bedrag in het betreffende kalenderjaar na toepassing van het eerste en tweede lid niet wordt uitgeput, worden de resterende middelen in afwijking van het tweede lid verdeeld over een vierde aanvraag per bevoegd gezag of samenwerkingsverband. Hierbij wordt beslist in volgorde van binnenkomst van de aanvragen.
 
-4. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid op 15 oktober van het betreffende jaar niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent of leraarondersteuner per bevoegd gezag of samenwerkingsverband.
+4. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid op 15 oktober van het betreffende kalenderjaar niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent of leraarondersteuner tot een maximum van zes onderwijsassistenten of leraarondersteuners per bevoegd gezag of samenwerkingsverband.
 
 5. Vervallen.
 
 6. Indien een aanvraag voor subsidieverstrekking in het jaar 2021 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidieverstrekking in het jaar 2022 en behandeld als ware zij op 16 oktober 2021 ingediend.
+
+7. Indien een aanvraag voor subsidieverstrekking in het jaar 2022, 2023 of 2024 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt de aanvraag aangemerkt als aanvraag voor subsidieverstrekking in het daaropvolgende kalenderjaar en behandeld als ware zij ingediend op 1 januari van dat daaropvolgende kalenderjaar.
 
 ##### Artikel 6. Verplichtingen subsidie
 
@@ -134,17 +144,37 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 1. Het bevoegd gezag of samenwerkingsverband dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website www.dus-i.nl beschikbaar is gesteld.
 
-2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent of leraarondersteuner is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=3&z=2021-12-03&g=2021-12-03):
+2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent of leraarondersteuner is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=3&z=2022-10-01&g=2022-10-01):
 
 - a. tot en met 15 oktober 2019, voor subsidieverstrekking in het jaar 2019;
 
 - b. van 16 oktober 2019 tot en met 15 oktober 2020, voor subsidieverstrekking in het jaar 2020;
 
-- c. tot en met 15 oktober 2021, voor subsidieverstrekking in het jaar 2021; en
+- c. tot en met 15 oktober 2021, voor subsidieverstrekking in het jaar 2021;
 
-- d. van 16 oktober 2021 tot en met 15 oktober 2022, voor subsidieverstrekking in het jaar 2022.
+- d. van 16 oktober 2021 tot en met 15 oktober 2022, voor subsidieverstrekking in het jaar 2022;
+
+- e. van 1 januari 2023 tot en met 15 oktober 2023, voor subsidieverstrekking in het jaar 2023;
+
+- f. van 1 januari 2024 tot en met 15 oktober 2024, voor subsidieverstrekking in het jaar 2024; en
+
+- g. van 1 januari 2025 tot en met 15 oktober 2025, voor subsidieverstrekking in het jaar 2025.
 
 3. Per onderwijsassistent of leraarondersteuner kan eenmaal per opleiding op grond van deze regeling subsidie worden verstrekt.
+
+4. De subsidie wordt aangevraagd in het kalenderjaar waarin de onderwijsassistent of leraarondersteuner met de opleiding tot leraar is gestart of in het daaropvolgende kalenderjaar. Aanvragen die op een eerder of later tijdstip worden ingediend, worden afgewezen.
+
+5. Het vierde lid is niet van toepassing ten aanzien van aanvragen als bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=5&z=2022-10-01&g=2022-10-01), indien de desbetreffende aanvraag aanvankelijk binnen het in het vierde lid bedoelde aanvraagtijdvak werd ingediend.
+
+6. De subsidieaanvraag gaat vergezeld van een afschrift van het inschrijvingsbewijs van de onderwijsassistent of leraarondersteuner voor de opleiding tot leraar, waarin in ieder geval is vermeld:
+
+- a. de naam van de onderwijsassistent of leraarondersteuner;
+
+- b. de opleider;
+
+- c. de opleiding tot leraar; en
+
+- d. de startdatum van de opleiding tot leraar.
 
 ##### Artikel 8. Vaststelling en besteding subsidie
 
@@ -158,15 +188,21 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 - b. in de periode van 1 augustus 2020 tot en met 15 oktober 2020, uiterlijk vóór 11 december 2020 direct vastgesteld;
 
-- c. in de periode van 16 oktober 2021 tot en met 31 december 2021, uiterlijk vóór 1 maart 2022 direct vastgesteld; en
+- c. in de periode van 16 oktober 2021 tot en met 31 december 2021, uiterlijk vóór 1 maart 2022 direct vastgesteld;
 
-- d. in de periode van 1 augustus 2022 tot en met 15 oktober 2022, uiterlijk vóór 11 december 2022 direct vastgesteld.
+- d. in de periode van 1 augustus 2022 tot en met 15 oktober 2022, uiterlijk vóór 18 december 2022 direct vastgesteld;
+
+- e. in de periode van 1 augustus 2023 tot en met 15 oktober 2023, uiterlijk vóór 18 december 2023 direct vastgesteld;
+
+- f. in de periode van 1 augustus 2024 tot en met 15 oktober 2024, uiterlijk vóór 18 december 2024 direct vastgesteld;
+
+- g. in de periode van 1 augustus 2025 tot en met 15 oktober 2025, uiterlijk vóór 18 december 2025 direct vastgesteld.
 
 ##### Artikel 9. Betaling
 
 1. De minister betaalt het gehele subsidiebedrag ineens.
 
-2. In afwijking van het eerste lid en [artikel 6.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1), betaalt de minister een subsidie die in 2020, 2021 of 2022 is verstrekt uit in gelijke delen van €5.000,– per onderwijsassistent of leraarondersteuner per kalenderjaar totdat het vastgestelde subsidiebedrag is bereikt.
+2. In afwijking van het eerste lid en [artikel 6.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1), betaalt de minister een subsidie die een subsidie die op grond van deze regeling is verstrekt is verstrekt uit in gelijke delen van €5.000,– per onderwijsassistent of leraarondersteuner per kalenderjaar totdat het vastgestelde subsidiebedrag is bereikt.
 
 ##### Artikel 10. Overgang bevoegd gezag of samenwerkingsverband
 
@@ -182,10 +218,16 @@ Indien de onderwijsassistent of leraarondersteuner het dienstverband met de subs
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2019.
 
-2. Deze regeling vervalt met ingang van 1 januari 2024.
+2. Deze regeling vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling onderwijsassistenten opleiding tot leraar.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 11a. Overgangsrecht aanvraagtermijn
+
+[Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&artikel=7&z=2022-10-01&g=2022-10-01), is niet van toepassing ten aanzien van aanvragen die aanvankelijk in 2022 of in een eerder jaar werden ingediend.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
