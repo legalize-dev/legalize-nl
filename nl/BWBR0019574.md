@@ -4,7 +4,7 @@ identifier: "BWBR0019574"
 country: "nl"
 rank: "wet"
 publication_date: "2022-10-01"
-last_updated: "2022-08-01"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019574"
 soort: "wet"
@@ -55,7 +55,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 2
 
-De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&z=2022-08-01&g=2022-08-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&z=2022-08-01&g=2022-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=4&z=2022-08-01&g=2022-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=7&z=2022-08-01&g=2022-08-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=8&z=2022-08-01&g=2022-08-01) zijn mede van toepassing op internationale kwesties van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die niet door het verdrag of de verordening worden beheerst.
+De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&z=2022-10-01&g=2022-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&z=2022-10-01&g=2022-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=4&z=2022-10-01&g=2022-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=7&z=2022-10-01&g=2022-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=8&z=2022-10-01&g=2022-10-01) zijn mede van toepassing op internationale kwesties van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die niet door het verdrag of de verordening worden beheerst.
 
 ##### Artikel 3
 
@@ -91,7 +91,7 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ##### Artikel 8
 
-1. Indien de centrale autoriteit voor het vinden van de verblijfplaats van een kind in Nederland medewerking behoeft van dienaren van de openbare macht, kan zij zich voor het verkrijgen daarvan wenden tot de officier van justitie in het arrondissement waar het kind vermoedelijk verblijft, of anders in het arrondissement ’s-Gravenhage. De officier van justitie kan de zaak overeenkomstig door hem te geven aanwijzingen overdragen aan een officier van justitie in een ander arrondissement, indien de opsporing vermoedelijk in dat arrondissement moet geschieden.
+1. Indien de centrale autoriteit voor het vinden van de verblijfplaats van een kind in Nederland medewerking behoeft van dienaren van de openbare macht, kan zij zich voor het verkrijgen daarvan wenden tot de officier van justitie in het arrondissement waar het kind vermoedelijk verblijft, of anders in het arrondissement Den Haag. De officier van justitie kan de zaak overeenkomstig door hem te geven aanwijzingen overdragen aan een officier van justitie in een ander arrondissement, indien de opsporing vermoedelijk in dat arrondissement moet geschieden.
 
 2. De in het eerste lid bedoelde officier van justitie behandelt een verzoek om medewerking van de centrale autoriteit met voorrang.
 
@@ -101,11 +101,11 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ##### Artikel 9
 
-1. De beslissing tot plaatsing van, of tot verstrekking van zorg aan een uit Nederland afkomstig kind in een pleeggezin of in een instelling in een andere staat ingevolge artikel 33 van het verdrag dan wel artikel 82 van de verordening, wordt in Nederland genomen door de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-08-01&g=2022-08-01).
+1. De beslissing tot plaatsing van, of tot verstrekking van zorg aan een uit Nederland afkomstig kind in een pleeggezin of in een instelling in een andere staat ingevolge artikel 33 van het verdrag dan wel artikel 82 van de verordening, wordt in Nederland genomen door de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-10-01&g=2022-10-01).
 
 2. De centrale autoriteit zendt een gemotiveerd verzoek, vergezeld van een rapport betreffende het kind, toe aan de centrale autoriteit dan wel de andere bevoegde autoriteit van de staat waar de plaatsing of de verstrekking van zorg dient plaats te vinden. Zij treedt met deze autoriteit in overleg.
 
-3. De in het eerste lid bedoelde beslissing wordt eerst genomen nadat de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-08-01&g=2022-08-01), de volgende bescheiden heeft ontvangen:
+3. De in het eerste lid bedoelde beslissing wordt eerst genomen nadat de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-10-01&g=2022-10-01), de volgende bescheiden heeft ontvangen:
 
 - a. een schriftelijke verklaring van de personen of de instelling bij welke de plaatsing of de verstrekking van zorg dient plaats te vinden, waaruit hun instemming dan wel goedkeuring blijkt;
 
@@ -117,9 +117,9 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ##### Artikel 10
 
-1. In geval van plaatsing van een kind vanuit een andere staat in Nederland of verstrekking van zorg aan een zodanig kind in een pleeggezin of in een instelling in Nederland ingevolge artikel 33 van het verdrag dan wel artikel 82 van de verordening, dient de instemming dan wel goedkeuring, bedoeld in de genoemde artikelen, te worden gegeven door de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-08-01&g=2022-08-01).
+1. In geval van plaatsing van een kind vanuit een andere staat in Nederland of verstrekking van zorg aan een zodanig kind in een pleeggezin of in een instelling in Nederland ingevolge artikel 33 van het verdrag dan wel artikel 82 van de verordening, dient de instemming dan wel goedkeuring, bedoeld in de genoemde artikelen, te worden gegeven door de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-10-01&g=2022-10-01).
 
-2. De instemming dan wel goedkeuring, bedoeld in het eerste lid, wordt eerst gegeven nadat de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-08-01&g=2022-08-01), van de bevoegde autoriteit van de staat van herkomst van het kind een gemotiveerd verzoek heeft ontvangen, vergezeld van een rapport betreffende het kind, en nadat zij de volgende bescheiden heeft ontvangen, welke bescheiden zij toezendt aan de bevoegde autoriteit van het land van herkomst van het kind:
+2. De instemming dan wel goedkeuring, bedoeld in het eerste lid, wordt eerst gegeven nadat de centrale autoriteit, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=2&artikel=4&z=2022-10-01&g=2022-10-01), van de bevoegde autoriteit van de staat van herkomst van het kind een gemotiveerd verzoek heeft ontvangen, vergezeld van een rapport betreffende het kind, en nadat zij de volgende bescheiden heeft ontvangen, welke bescheiden zij toezendt aan de bevoegde autoriteit van het land van herkomst van het kind:
 
 - a. een schriftelijke verklaring van de personen of de instelling bij welke de plaatsing of de verstrekking van zorg dient plaats te vinden, waaruit hun instemming dan wel goedkeuring blijkt;
 
@@ -129,11 +129,11 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ##### Artikel 11
 
-1. Indien de voorschriften van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=3&artikel=10&z=2022-08-01&g=2022-08-01) niet in acht zijn genomen, kan de officier van justitie of de centrale autoriteit de kinderrechter verzoeken een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) te belasten met de voorlopige voogdij over het kind. Dit verzoek kan ook worden gedaan door de raad voor de kinderbescherming. Tenzij de kinderrechter een langere termijn van verval van de voorlopige voogdij heeft bepaald, wendt de raad zich binnen zes weken na de beslissing over de voorlopige voogdij tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241), alsmede [artikel 306a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=306a) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=813) is van overeenkomstige toepassing.
+1. Indien de voorschriften van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=3&artikel=10&z=2022-10-01&g=2022-10-01) niet in acht zijn genomen, kan de officier van justitie of de centrale autoriteit de kinderrechter verzoeken een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) te belasten met de voorlopige voogdij over het kind. Dit verzoek kan ook worden gedaan door de raad voor de kinderbescherming. Tenzij de kinderrechter een langere termijn van verval van de voorlopige voogdij heeft bepaald, wendt de raad zich binnen zes weken na de beslissing over de voorlopige voogdij tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241), alsmede [artikel 306a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=306a) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=813) is van overeenkomstige toepassing.
 
 2. De voorlopige voogdij eindigt, behoudens eerdere opheffing, op het tijdstip waarop hetzij de voogdij over het kind, dan wel diens plaatsing bij andere personen of een andere instelling, een aanvang neemt, of zijn terugkeer naar het land van herkomst is geregeld.
 
-3. De kosten die de voogdij-instelling ten behoeve van het kind moet maken, komen ten laste van degene bij wie het kind in strijd met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=3&artikel=10&z=2022-08-01&g=2022-08-01) is geplaatst. De [artikelen 8.2.1 tot en met 8.2.7 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.2.1) zijn van overeenkomstige toepassing.
+3. De kosten die de voogdij-instelling ten behoeve van het kind moet maken, komen ten laste van degene bij wie het kind in strijd met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=3&artikel=10&z=2022-10-01&g=2022-10-01) is geplaatst. De [artikelen 8.2.1 tot en met 8.2.7 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=8.2.1) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Rechtspleging ter zake van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen
 
@@ -145,7 +145,7 @@ De gemeentebesturen en de ambtenaren van de burgerlijke stand verschaffen de cen
 
 ##### Artikel 13
 
-De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=4&artikel=12&z=2022-08-01&g=2022-08-01), bevoegd is, worden ingeleid met een verzoekschrift. Het verzoekschrift wordt ingediend door een advocaat. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
+De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=4&artikel=12&z=2022-10-01&g=2022-10-01), bevoegd is, worden ingeleid met een verzoekschrift. Het verzoekschrift wordt ingediend door een advocaat. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
 
 ##### Artikel 14
 
@@ -163,17 +163,17 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 ##### Artikel 16
 
-1. De voorzieningenrechter bij wie een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-08-01&g=2022-08-01), is ingediend, doet daarover onverwijld uitspraak.
+1. De voorzieningenrechter bij wie een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-10-01&g=2022-10-01), is ingediend, doet daarover onverwijld uitspraak.
 
 2. Het verlof tot tenuitvoerlegging is uitvoerbaar bij voorraad.
 
 ##### Artikel 17
 
-1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-08-01&g=2022-08-01), heeft beschikt, neemt kennis van het hoger beroep van die beschikking. Alleen de partijen kunnen hoger beroep tegen de beschikking instellen.
+1. De rechtbank waarvan de voorzieningenrechter op een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-10-01&g=2022-10-01), heeft beschikt, neemt kennis van het hoger beroep van die beschikking. Alleen de partijen kunnen hoger beroep tegen de beschikking instellen.
 
-2. Het hoger beroep tegen een beschikking waarbij een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-08-01&g=2022-08-01), is ingewilligd, moet worden ingesteld binnen een maand na de betekening van de beschikking. Indien de partij tegen wie tenuitvoerlegging wordt gevraagd, haar gewone verblijfplaats heeft in het buitenland, bedraagt de termijn voor het instellen van hoger beroep twee maanden, te rekenen vanaf de datum van de betekening aan deze partij in persoon of aan zijn adres. De termijn kan niet op grond van de afstand worden verlengd.
+2. Het hoger beroep tegen een beschikking waarbij een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-10-01&g=2022-10-01), is ingewilligd, moet worden ingesteld binnen een maand na de betekening van de beschikking. Indien de partij tegen wie tenuitvoerlegging wordt gevraagd, haar gewone verblijfplaats heeft in het buitenland, bedraagt de termijn voor het instellen van hoger beroep twee maanden, te rekenen vanaf de datum van de betekening aan deze partij in persoon of aan zijn adres. De termijn kan niet op grond van de afstand worden verlengd.
 
-3. Indien hoger beroep wordt ingesteld door de verzoeker en is gericht tegen de weigering om een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-08-01&g=2022-08-01), in te willigen, wordt het ingesteld binnen een maand na de dagtekening van de beschikking.
+3. Indien hoger beroep wordt ingesteld door de verzoeker en is gericht tegen de weigering om een verzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=5&artikel=15&z=2022-10-01&g=2022-10-01), in te willigen, wordt het ingesteld binnen een maand na de dagtekening van de beschikking.
 
 4. De rechtbank bij welke hoger beroep is ingesteld, doet daarover onverwijld uitspraak.
 
@@ -205,7 +205,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 ##### Artikel 19
 
-1. Ten aanzien van beslissingen in huwelijkszaken is de voorzieningenrechter van de rechtbank binnen wiens rechtsgebied de verzoeker zijn woonplaats dan wel zijn verblijfplaats heeft, of bij gebreke daarvan in Nederland, de voorzieningenrechter van de rechtbank Den Haag, bevoegd tot kennisneming van een verzoek tot erkenning of de weigering daarvan, als bedoeld in artikel 30, derde lid, respectievelijk 40, eerste lid, van de verordening. [Artikel 18, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=18&z=2022-08-01&g=2022-08-01), is van overeenkomstige toepassing. De in het verzoekschrift genoemde belanghebbenden worden in de procedure niet opgeroepen.
+1. Ten aanzien van beslissingen in huwelijkszaken is de voorzieningenrechter van de rechtbank binnen wiens rechtsgebied de verzoeker zijn woonplaats dan wel zijn verblijfplaats heeft, of bij gebreke daarvan in Nederland, de voorzieningenrechter van de rechtbank Den Haag, bevoegd tot kennisneming van een verzoek tot erkenning of de weigering daarvan, als bedoeld in artikel 30, derde lid, respectievelijk 40, eerste lid, van de verordening. [Artikel 18, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=18&z=2022-10-01&g=2022-10-01), is van overeenkomstige toepassing. De in het verzoekschrift genoemde belanghebbenden worden in de procedure niet opgeroepen.
 
 2. In de zaken, bedoeld in het eerste lid, is de procedure van [artikel 26 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=26) niet van toepassing.
 
@@ -219,9 +219,9 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 ##### Artikel 21
 
-1. Heeft de partij tegen wie de tenuitvoerlegging zich richt woonplaats in Nederland, dan kan de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=20&z=2022-08-01&g=2022-08-01) bedoelde executoriale titel niet dan na verloop van een maand na betekening, als bedoeld in artikel 55 van de verordening, tegen die partij ten uitvoer worden gelegd.
+1. Heeft de partij tegen wie de tenuitvoerlegging zich richt woonplaats in Nederland, dan kan de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=20&z=2022-10-01&g=2022-10-01) bedoelde executoriale titel niet dan na verloop van een maand na betekening, als bedoeld in artikel 55 van de verordening, tegen die partij ten uitvoer worden gelegd.
 
-2. Heeft de partij tegen wie de tenuitvoerlegging zich richt geen woonplaats in Nederland, dan kan de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=20&z=2022-08-01&g=2022-08-01) bedoelde executoriale titel niet dan na verloop van twee maanden na betekening, als bedoeld in artikel 55 van de verordening, tegen die partij ten uitvoer worden gelegd.
+2. Heeft de partij tegen wie de tenuitvoerlegging zich richt geen woonplaats in Nederland, dan kan de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=20&z=2022-10-01&g=2022-10-01) bedoelde executoriale titel niet dan na verloop van twee maanden na betekening, als bedoeld in artikel 55 van de verordening, tegen die partij ten uitvoer worden gelegd.
 
 3. De voorzieningenrechter van de rechtbank kan, indien daartoe gronden aanwezig zijn, de in het eerste en tweede lid genoemde termijn inkorten op verzoek van de partij die de executoriale titel ten uitvoer wil leggen. Dit verzoek wordt door tussenkomst van een advocaat ingediend bij de voorzieningenrechter van de rechtbank binnen wiens rechtsgebied de persoon tegen wie de tenuitvoerlegging wordt gevraagd of het kind waarop het verzoek betrekking heeft, gewone verblijfplaats heeft dan wel binnen wiens rechtsgebied de tenuitvoerlegging dient plaats te vinden. De partij tegen wie de tenuitvoerlegging zich richt, wordt op dit verzoek niet gehoord. Tegen de beschikking van de voorzieningenrechter staat geen hoger beroep open.
 
@@ -231,7 +231,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 1. Op de tenuitvoerlegging van een rechterlijke beslissing inzake ouderlijke verantwoordelijkheid, bedoeld in de verordening, zijn de [artikelen 812](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=812) en [813 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=813) van overeenkomstige toepassing.
 
-2. Onverminderd het eerste lid, kan de voorzieningenrechter van de rechtbank op verzoek van de partij die de executoriale titel ten uitvoer wil leggen, bepalen op welke wijze de tenuitvoerlegging van een rechterlijke beslissing moet plaatsvinden. [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=18&z=2022-08-01&g=2022-08-01), is van overeenkomstige toepassing op de relatieve bevoegdheid van de voorzieningenrechter.
+2. Onverminderd het eerste lid, kan de voorzieningenrechter van de rechtbank op verzoek van de partij die de executoriale titel ten uitvoer wil leggen, bepalen op welke wijze de tenuitvoerlegging van een rechterlijke beslissing moet plaatsvinden. [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=6&artikel=18&z=2022-10-01&g=2022-10-01), is van overeenkomstige toepassing op de relatieve bevoegdheid van de voorzieningenrechter.
 
 3. Een beslissing op een verzoek als bedoeld in het tweede lid wordt gevraagd bij verzoekschrift door tussenkomst van een advocaat. Het verzoekschrift houdt tevens de keuze in van een woonplaats binnen het arrondissement van de rechtbank.
 
@@ -269,7 +269,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van [artikel 12, eerste 
 
 ##### Artikel 26
 
-In de betrekkingen tussen Nederland en andere staten die partij zijn zowel bij het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-08-01&g=2022-08-01) bedoelde verdrag als bij het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10) gaat het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-08-01&g=2022-08-01) bedoelde verdrag voor.
+In de betrekkingen tussen Nederland en andere staten die partij zijn zowel bij het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-10-01&g=2022-10-01) bedoelde verdrag als bij het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10) gaat het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-10-01&g=2022-10-01) bedoelde verdrag voor.
 
 ### Hoofdstuk 10. Wijziging van andere wetten
 
@@ -289,13 +289,13 @@ Wijzigt de Uitvoeringswet EG-executieverordening.
 
 ##### Artikel 30
 
-1. [Artikel 28, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=10&artikel=28&z=2022-08-01&g=2022-08-01), van deze wet is van toepassing op procedures inzake echtscheiding, scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed, nietigverklaring alsmede nietigheid en geldigheid van het huwelijk die worden ingesteld op of na 1 maart 2005.
+1. [Artikel 28, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=10&artikel=28&z=2022-10-01&g=2022-10-01), van deze wet is van toepassing op procedures inzake echtscheiding, scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed, nietigverklaring alsmede nietigheid en geldigheid van het huwelijk die worden ingesteld op of na 1 maart 2005.
 
-2. Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-08-01&g=2022-08-01) bedoelde verdrag is niet van toepassing in procedures inzake ouderlijke verantwoordelijkheid of maatregelen ter bescherming van kinderen, die vóór zijn inwerkingtreding in Nederland zijn ingesteld en waarin na zijn inwerkingtreding een beslissing wordt genomen.
+2. Het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-10-01&g=2022-10-01) bedoelde verdrag is niet van toepassing in procedures inzake ouderlijke verantwoordelijkheid of maatregelen ter bescherming van kinderen, die vóór zijn inwerkingtreding in Nederland zijn ingesteld en waarin na zijn inwerkingtreding een beslissing wordt genomen.
 
-3. De inwerkingtreding in Nederland van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-08-01&g=2022-08-01) bedoelde verdrag laat ouderlijke verantwoordelijkheid die voordien van rechtswege aan een persoon is toegekomen, onverlet.
+3. De inwerkingtreding in Nederland van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-10-01&g=2022-10-01) bedoelde verdrag laat ouderlijke verantwoordelijkheid die voordien van rechtswege aan een persoon is toegekomen, onverlet.
 
-4. Vanaf het tijdstip van de inwerkingtreding in Nederland van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-08-01&g=2022-08-01) bedoelde verdrag wordt het van rechtswege ontstaan van ouderlijke verantwoordelijkheid van een persoon die deze niet reeds heeft, door dat verdrag beheerst.
+4. Vanaf het tijdstip van de inwerkingtreding in Nederland van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019574&hoofdstuk=1&artikel=1&z=2022-10-01&g=2022-10-01) bedoelde verdrag wordt het van rechtswege ontstaan van ouderlijke verantwoordelijkheid van een persoon die deze niet reeds heeft, door dat verdrag beheerst.
 
 ##### Artikel 31
 
