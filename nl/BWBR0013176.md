@@ -4,7 +4,7 @@ identifier: "BWBR0013176"
 country: "nl"
 rank: "wet"
 publication_date: "2023-05-01"
-last_updated: "2009-06-10"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013176"
 soort: "wet"
@@ -58,7 +58,7 @@ In deze wet wordt verstaan onder:
 
 1. Als verzendende instanties worden voor Nederland aangewezen de gerechtsdeurwaarders.
 
-2. Als ontvangende instanties worden aangewezen de gerechtsdeurwaarders en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders.
+2. Als ontvangende instanties worden aangewezen de gerechtsdeurwaarders.
 
 3. Ten aanzien van de kennisgeving van gerechtelijke stukken door een gerecht of de griffier van een gerecht worden mede als verzendende instantie aangewezen de gerechten.
 
@@ -112,7 +112,7 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering
 
 ##### Artikel 11
 
-Indien deze wet in werking treedt voor het tijdstip waarop de [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197) in werking treedt, wordt in afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013176&artikel=3&z=2009-06-10&g=2009-06-10), tot dat tijdstip voor Nederland als centrale instantie aangewezen de Koninklijke Vereniging van Gerechtsdeurwaarders.
+Indien deze wet in werking treedt voor het tijdstip waarop de [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197) in werking treedt, wordt in afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013176&artikel=3&z=2022-10-01&g=2022-10-01), tot dat tijdstip voor Nederland als centrale instantie aangewezen de Koninklijke Vereniging van Gerechtsdeurwaarders.
 
 ##### Artikel 12
 
