@@ -4,7 +4,7 @@ identifier: "BWBR0047122"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-09-22"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047122"
 soort: "wet"
@@ -47,37 +47,25 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Algemene douanewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
 Wijzigt de Auteurswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt het Burgerlijk Wetboek Boek 1.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt het Burgerlijk Wetboek Boek 6.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
@@ -87,31 +75,21 @@ Wijzigt het Burgerlijk Wetboek Boek 7.
 
 Wijzigt het Burgerlijk Wetboek Boek 8.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Wijzigt het Burgerlijk Wetboek Boek 10.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Faillissementswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
 Wijzigt de Penitentiaire beginselenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
@@ -141,8 +119,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringswet EG-betekeningsverordening.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII
 
 Wijzigt de Uitvoeringswet EG-verordening betreffende Gemeenschapsmodellen.
@@ -159,13 +135,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Uitvoeringswet internationale kinderbescherming.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI
 
 Wijzigt de Uitvoeringswet internationale kinderontvoering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
@@ -177,25 +149,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Vreemdelingenwet 2000.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIV
 
 Wijzigt de Wegenverkeerswet 1994.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
 Wijzigt de Wet aansprakelijkheid olietankschepen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVI
 
 Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVII
 
@@ -231,25 +195,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet op de economische delicten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII
 
 Wijzigt de Wet op de kansspelen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIV
 
 Wijzigt de Wet op het financieel toezicht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXV
 
 Wijzigt de Wet op het notarisambt.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVI
 
@@ -261,55 +217,37 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet politiegegevens.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVIII
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIX
 
 Wijzigt de Wet toezicht effectenverkeer 1995.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XL
 
 Wijzigt de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLa1
 
 Wijzigt de Wet uitbreiding slachtofferrechten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLa
 
 Wijzigt de Aanpassingswet Auteurswet 1912, enz. (uitvoering richtlijn auteursrecht en naburige rechten in de informatiemaatschappij).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLI
 
 Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLII
 
 Wijzigt het Wetboek van Strafrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLIII
 
 Wijzigt het Wetboek van Strafvordering.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLIV
 
@@ -317,12 +255,12 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLV
 
-1. Deze wet, met uitzondering van [artikel V, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=V&z=2022-09-22&g=2022-09-22), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet, met uitzondering van [artikel V, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=V&z=2022-10-01&g=2022-10-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel V, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=V&z=2022-09-22&g=2022-09-22), treedt in werking op 1 januari 2030.
+2. [Artikel V, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=V&z=2022-10-01&g=2022-10-01), treedt in werking op 1 januari 2030.
 
 ##### Artikel XLVa
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet Justitie en Veiligheid 2022.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
