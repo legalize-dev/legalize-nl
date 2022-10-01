@@ -239,5 +239,3 @@ Wijzigt de Wet nieuwe procedure vaststelling verkiezingsuitslagen.
 Deze wet wordt aangehaald als: Tijdelijke experimentenwet nieuwe stembiljetten.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
