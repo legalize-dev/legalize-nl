@@ -4,7 +4,7 @@ identifier: "BWBR0041629"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2019-01-01"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041629"
 soort: "ministeriele-regeling"
@@ -112,7 +112,7 @@ Vrijstelling van het verbod wordt verleend aan rechtspersonen, vennootschappen o
 
 ##### Artikel 7. Vrijstelling besturen pensioenfondsen
 
-Vrijstelling van het verbod wordt verleend aan rechtspersonen, voor zover deze in opdracht bestuurder zijn van een pensioenfonds als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+Vrijstelling van het verbod wordt verleend aan rechtspersonen, voor zover deze de trustdienst ‘in opdracht bestuurder zijn’ verlenen aan een pensioenfonds als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 ### Hoofdstuk 3. Gegevens vergunningaanvraag
 
@@ -175,5 +175,17 @@ Deze regeling treedt in werking met ingang van 1 januari 2019.
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toezicht trustkantoren 2018.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 7a. Vrijstelling besturen beleggingsinstellingen en icbe’s
+
+Vrijstelling van het verbod wordt verleend aan personen voor zover deze de trustdienst ‘in opdracht bestuurder zijn’ verlenen aan een beheerder van een beleggingsinstelling of een beheerder van een icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die is ingeschreven in het register, bedoeld in [artikel 1:107 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:107).
+
+### Hoofdstuk 3. Gegevens vergunningaanvraag
+
+### Hoofdstuk 4. Gegevens melding incidenten
+
+### Hoofdstuk 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
