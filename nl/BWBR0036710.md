@@ -4,7 +4,7 @@ identifier: "BWBR0036710"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-10-01"
-last_updated: "2021-02-11"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036710"
 soort: "zbo"
@@ -68,7 +68,7 @@ In dit reglement wordt verstaan onder:
 
 1. De werknemer geeft onverwijld en uit eigen beweging aan het UWV alle feiten en omstandigheden door, waarvan het hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op de uitkering. De werknemer gebruikt hiervoor het door het UWV beschikbaar gestelde wijzigingsformulier en stuurt dit formulier aan het UWV op de wijze zoals beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](onbekend).
 
-2. De werknemer vult maandelijks een formulier inkomstenopgave in. De werknemer stuurt het ingevulde formulier zo snel mogelijk na afloop van de kalendermaand, maar uiterlijk voor afloop van de daaropvolgende kalendermaand aan het UWV op de wijze zoals beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](onbekend).
+2. De werknemer vult over iedere maand het formulier inkomstenopgave in en stuurt dit aan het UWV op de wijze zoals is beschreven in de [Beleidsregel elektronische communicatie UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0031975) en de daarbij behorende [bijlage](onbekend). De werknemer verzendt het formulier uiterlijk op de 15e dag van de tweede maand na de kalendermaand waarop de inkomstenopgave betrekking heeft.
 
 3. Gedurende de periode, waarover de werknemer de in het tweede lid bedoelde formulieren inkomstenopgave invult en aan het UWV stuurt, is hij ontheven van de verplichting bedoeld in het eerste lid, voor zover deze verplichting ziet op het onverwijld en uit eigen beweging doorgeven van de gegevens die op het formulier inkomstenopgave uitgevraagd worden.
 
@@ -110,19 +110,19 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 6. Bevoegdheid uitkeringsaanvraag door werkgever
 
-Indien de werkgever op grond van [artikel 628, negende lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=628) niet verplicht is het loon te betalen, kan het UWV toestaan dat de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=2&z=2021-02-11&g=2021-02-11), namens de werknemer door de werkgever wordt gedaan en dat de betaling van de uitkering door tussenkomst van de werkgever plaatsvindt.
+Indien de werkgever op grond van [artikel 628, negende lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=628) niet verplicht is het loon te betalen, kan het UWV toestaan dat de aanvraag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=2&z=2022-10-01&g=2022-10-01), namens de werknemer door de werkgever wordt gedaan en dat de betaling van de uitkering door tussenkomst van de werkgever plaatsvindt.
 
 ##### Artikel 7. Verplichtingen werkgever
 
-1. De werkgever aan wie is toegestaan de aanvraag te doen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=6&z=2021-02-11&g=2021-02-11), houdt een administratie bij van de dagen waarop en de uren gedurende welke de werknemer of werknemers, namens wie hij genoemde aanvraag heeft gedaan, uitsluitend als gevolg van buitengewone omstandigheden niet hebben gewerkt. Deze administratie voldoet aan de door het UWV daaraan gestelde eisen. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=4&z=2021-02-11&g=2021-02-11) is van overeenkomstige toepassing.
+1. De werkgever aan wie is toegestaan de aanvraag te doen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=6&z=2022-10-01&g=2022-10-01), houdt een administratie bij van de dagen waarop en de uren gedurende welke de werknemer of werknemers, namens wie hij genoemde aanvraag heeft gedaan, uitsluitend als gevolg van buitengewone omstandigheden niet hebben gewerkt. Deze administratie voldoet aan de door het UWV daaraan gestelde eisen. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=4&z=2022-10-01&g=2022-10-01) is van overeenkomstige toepassing.
 
-2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=2&z=2021-02-11&g=2021-02-11) is van overeenkomstige toepassing op de aanvraag als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=6&z=2021-02-11&g=2021-02-11).
+2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=2&z=2022-10-01&g=2022-10-01) is van overeenkomstige toepassing op de aanvraag als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=6&z=2022-10-01&g=2022-10-01).
 
-3. Als het UWV daarom verzoekt, zendt de werkgever aan wie de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=6&z=2021-02-11&g=2021-02-11) bedoelde toestemming is verleend de formulieren inkomstenopgave van ieder van de werknemers, namens wie hij de aanvraag heeft gedaan, overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=4&z=2021-02-11&g=2021-02-11) tegen een door het UWV aan te geven tijdstip aan het UWV.
+3. Als het UWV daarom verzoekt, zendt de werkgever aan wie de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=6&z=2022-10-01&g=2022-10-01) bedoelde toestemming is verleend de formulieren inkomstenopgave van ieder van de werknemers, namens wie hij de aanvraag heeft gedaan, overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=4&z=2022-10-01&g=2022-10-01) tegen een door het UWV aan te geven tijdstip aan het UWV.
 
 ##### Artikel 8. Sanctie op overtreding verplichtingen werkgever
 
-Als de werkgever aan wie de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=7&z=2021-02-11&g=2021-02-11) bedoelde toestemming is verleend, één of meer verplichtingen, bedoeld in artikel 7, eerste en derde lid niet naar behoren nakomt, kan het UWV besluiten om de door de werkgever als voorschot op de uitkering aan de werknemer gedane betalingen, geheel of gedeeltelijk niet te vergoeden.
+Als de werkgever aan wie de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=4&artikel=7&z=2022-10-01&g=2022-10-01) bedoelde toestemming is verleend, één of meer verplichtingen, bedoeld in artikel 7, eerste en derde lid niet naar behoren nakomt, kan het UWV besluiten om de door de werkgever als voorschot op de uitkering aan de werknemer gedane betalingen, geheel of gedeeltelijk niet te vergoeden.
 
 #### § 5. Voorwaarden bij ontvangen van uitkering
 
@@ -140,7 +140,7 @@ Als de werkgever aan wie de in [artikel 7, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 10. Voorwaarden bij betaling van uitkering
 
-Het UWV betaalt de uitkering binnen twee weken nadat de werknemer over de betreffende kalendermaand heeft voldaan aan de verplichting, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=3&z=2021-02-11&g=2021-02-11).
+Het UWV betaalt de uitkering binnen twee weken nadat de werknemer over de betreffende kalendermaand heeft voldaan aan de verplichting, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036710&paragraaf=2&artikel=3&z=2022-10-01&g=2022-10-01).
 
 #### § 6. Slotbepalingen
 
