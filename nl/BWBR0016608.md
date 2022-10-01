@@ -4,7 +4,7 @@ identifier: "BWBR0016608"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-01"
-last_updated: "2018-01-01"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016608"
 soort: "ministeriele-regeling"
@@ -61,9 +61,9 @@ De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=2), [3]
 
 ##### Artikel 3
 
-1. De aanvraag voor een vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handelaars en bemiddelaars en een melding van een verandering van de gegevens, bedoeld in [artikel 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=4), wordt gedaan met de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=1&z=2018-01-01&g=2018-01-01) bij deze regeling opgenomen formulieren.
+1. De aanvraag voor een vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handelaars en bemiddelaars en een melding van een verandering van de gegevens, bedoeld in [artikel 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=4), wordt gedaan met de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=1&z=2022-10-01&g=2022-10-01) bij deze regeling opgenomen formulieren.
 
-2. De aanvraag om een vergunning als bedoeld in [artikel 9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=9) wordt gedaan met het daarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=2&z=2018-01-01&g=2018-01-01) bij deze regeling opgenomen formulier.
+2. De aanvraag om een vergunning als bedoeld in [artikel 9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016530&artikel=9) wordt gedaan met het daarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=2&z=2022-10-01&g=2022-10-01) bij deze regeling opgenomen formulier.
 
 ##### Artikel 4
 
@@ -75,7 +75,7 @@ Vermelding op de lijst van inzamelaars dan wel de lijst van vervoerders, handela
 
 ##### Artikel 5
 
-1. Ter voldoening aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2018-01-01&g=2018-01-01), worden bij de eerste aanvraag de volgende gegevens verstrekt aan de instantie bedoeld in [artikel 10.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45), of [artikel 10.55, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.55):
+1. Ter voldoening aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2022-10-01&g=2022-10-01), worden bij de eerste aanvraag de volgende gegevens verstrekt aan de instantie bedoeld in [artikel 10.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.45), of [artikel 10.55, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.55):
 
 - a. ten aanzien van betrouwbaarheid: een niet ouder dan drie maanden zijnde verklaring omtrent het gedrag van een natuurlijke persoon of een rechtspersoon als bedoeld in [titel 2, afdeling 5, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&afdeling=5), en
 
@@ -87,7 +87,7 @@ Vermelding op de lijst van inzamelaars dan wel de lijst van vervoerders, handela
 
 - b. ten aanzien van vakbekwaamheid: een door een daartoe bevoegde instantie afgegeven verklaring waaruit blijkt dat de aanvrager vakbekwaam is op het gebied van afvalstoffen.
 
-3. In plaats van de gegevens, bedoeld in het eerste of tweede lid, kan de aanvrager, ter voldoening aan criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2018-01-01&g=2018-01-01), de volgende gegevens verstrekken:
+3. In plaats van de gegevens, bedoeld in het eerste of tweede lid, kan de aanvrager, ter voldoening aan criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2022-10-01&g=2022-10-01), de volgende gegevens verstrekken:
 
 - a. het registratienummer van de vergunning voor binnenlands of communautair beroepsvervoer, bedoeld in [artikel 2.1, eerste lid, onderdelen a en b, onderscheidenlijk onderdeel c, van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.1);
 
@@ -105,6 +105,8 @@ Vermelding op de lijst van inzamelaars dan wel de lijst van vervoerders, handela
 
 - 2°. de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het handelen of bemiddelen van afvalstoffen, of indien de leiding bij meer personen berust, ten minste een van hen, op 30 april 2004 bij aanvrager werkzaam was en belast was met het permanent en daadwerkelijk leidinggeven aan het handelen of bemiddelen van afvalstoffen.
 
+5. Ter voldoening aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2022-10-01&g=2022-10-01), beoordeelt de instantie, bedoeld in het eerste lid, ten minste elke vijf jaar de gegevens, bedoeld in het eerste tot en met vierde lid, op juistheid en volledigheid. Desgevraagd worden door de aanvrager aan die instantie opnieuw gegevens verstrekt.
+
 ##### Artikel 6
 
 De vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handelaars en bemiddelaars wordt beëindigd indien:
@@ -113,7 +115,9 @@ De vermelding op de lijst van inzamelaars of op de lijst van vervoerders, handel
 
 - b. de vermelding is geschied op grond van onjuiste gegevens;
 
-- c. niet meer wordt voldaan aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2018-01-01&g=2018-01-01).
+- c. niet meer wordt voldaan aan de criteria, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=4&z=2022-10-01&g=2022-10-01);
+
+- d. de communautaire vergunning of vergunning voor communautair beroepsvervoer van een vervoerder, genoemd in [artikel 5, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&artikel=5&z=2022-10-01&g=2022-10-01), onherroepelijk is ingetrokken.
 
 ##### Artikel 7
 
@@ -147,4 +151,4 @@ Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en
 
 Ligt ter inzage bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer te Den Haag.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=1&z=2018-01-01&g=2018-01-01), die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Rijnstraat 8 te Den Haag.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0016608&bijlage=1&z=2022-10-01&g=2022-10-01), die ter inzage worden gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Rijnstraat 8 te Den Haag.
