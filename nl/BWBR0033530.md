@@ -4,7 +4,7 @@ identifier: "BWBR0033530"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-10-04"
-last_updated: "2014-01-01"
+last_updated: "2022-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033530"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aanvrager:** natuurlijk persoon of rechtspersoon die een subsidie aanvraagt op grond van een ministeriële regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=2&artikel=2&z=2014-01-01&g=2014-01-01);
+- –. **aanvrager:** natuurlijk persoon of rechtspersoon die een subsidie aanvraagt op grond van een ministeriële regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=2&artikel=2&z=2022-10-04&g=2022-10-04);
 
 - –. **algemene groepsvrijstellingsverordening:** [verordening (EG) nr. 800/2008](32008R0800) van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard («de algemene groepsvrijstellingsverordening») (PbEU 9.8.2008, L 214/3), dan wel later daarvoor in de plaats tredende Europese regelgeving;
 
@@ -68,7 +68,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Subsidies die worden verstrekt krachtens een ministeriële regeling op de gebieden, genoemd in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=2), worden verstrekt volgens de regels van dit besluit.
 
-2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=13&artikel=25&z=2014-01-01&g=2014-01-01) van dit besluit is tevens van toepassing op subsidieverstrekking door Onze Minister die niet op een wettelijk voorschrift berust.
+2. [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=13&artikel=25&z=2022-10-04&g=2022-10-04) van dit besluit is tevens van toepassing op subsidieverstrekking door Onze Minister die niet op een wettelijk voorschrift berust.
 
 ##### Artikel 3
 
@@ -104,7 +104,7 @@ Geen subsidie wordt verstrekt aan een provincie, gemeente, waterschap of openbaa
 
 5. Vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen niet voor subsidie in aanmerking, tenzij
 
-- a. het een subsidie lager dan € 25.000 betreft waarbij met toepassing van [artikel 16, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2014-01-01&g=2014-01-01), direct een beschikking tot subsidievaststelling wordt gegeven; of
+- a. het een subsidie lager dan € 25.000 betreft waarbij met toepassing van [artikel 16, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2022-10-04&g=2022-10-04), direct een beschikking tot subsidievaststelling wordt gegeven; of
 
 - b. bij ministeriële regeling anders is bepaald.
 
@@ -150,7 +150,7 @@ Bij ministeriële regeling wordt de periode vastgesteld waarbinnen de aanvragen 
 
 1. Indien het subsidieplafond wordt verdeeld op volgorde van binnenkomst van de aanvragen verdeelt Onze Minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften met betrekking tot de verdeling als datum van ontvangst geldt.
 
-2. Indien het subsidieplafond wordt verdeeld op volgorde van binnenkomst en Onze Minister op de dag dat het subsidieplafond wordt bereikt meer dan één aanvraag ontvangt, stelt hij de onderlinge rangschikking van die aanvragen vast door middel van loting.
+2. Indien het subsidieplafond wordt verdeeld op volgorde van binnenkomst en Onze Minister op de dag dat het subsidieplafond wordt bereikt meer dan één aanvraag ontvangt, stelt hij de onderlinge rangschikking van die aanvragen vast door middel van loting, tenzij bij ministeriële regeling een andere wijze van vaststelling van die rangschikking is bepaald.
 
 3. Indien het subsidieplafond wordt verdeeld op volgorde van binnenkomst en het subsidieplafond is bereikt, doet Onze Minister daarvan onverwijld mededeling in de Staatscourant.
 
@@ -210,7 +210,7 @@ Onze Minister beslist voorts afwijzend op een aanvraag om subsidie voor zover:
 
 ##### Artikel 14
 
-Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgronden, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=7&artikel=12&z=2014-01-01&g=2014-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=7&artikel=13&z=2014-01-01&g=2014-01-01), worden vastgesteld.
+Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgronden, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=7&artikel=12&z=2022-10-04&g=2022-10-04) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=7&artikel=13&z=2022-10-04&g=2022-10-04), worden vastgesteld.
 
 ### Hoofdstuk 8. Wijze van subsidieverstrekking
 
@@ -292,9 +292,9 @@ De subsidieontvanger is verplicht:
 
 1. Een beschikking tot subsidieverlening wordt gegeven binnen dertien weken na ontvangst van de aanvraag of, indien sprake is van een subsidieplafond en de verdeling plaatsvindt in volgorde van rangschikking of evenredige verdeling, binnen dertien weken na afloop van de periode waarbinnen aanvragen kunnen worden ingediend. Indien sprake is van cofinanciering, over de aanvraag advies wordt ingewonnen of een nader onderzoek is ingesteld dan geldt een termijn van 22 weken.
 
-2. Een beschikking tot subsidievaststelling als bedoeld in [artikel 16, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2014-01-01&g=2014-01-01), wordt gegeven binnen dertien weken na ontvangst van de aanvraag van de subsidie.
+2. Een beschikking tot subsidievaststelling als bedoeld in [artikel 16, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2022-10-04&g=2022-10-04), wordt gegeven binnen dertien weken na ontvangst van de aanvraag van de subsidie.
 
-3. Een ambtshalve beschikking tot subsidievaststelling als bedoeld in [artikel 16, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2014-01-01&g=2014-01-01), wordt gegeven binnen 22 weken na de in de verleningsbeschikking opgenomen datum waarop de activiteiten waarvoor de subsidie wordt verleend moeten zijn verricht.
+3. Een ambtshalve beschikking tot subsidievaststelling als bedoeld in [artikel 16, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2022-10-04&g=2022-10-04), wordt gegeven binnen 22 weken na de in de verleningsbeschikking opgenomen datum waarop de activiteiten waarvoor de subsidie wordt verleend moeten zijn verricht.
 
 4. Een aanvraag van een beschikking tot subsidievaststelling vindt plaats binnen dertien weken na het verricht zijn van de activiteiten waarvoor de subsidie is verleend. Bij ministeriële regeling of bij de beschikking tot subsidieverlening kan een andere termijn worden bepaald. Als sprake is van een subsidie waarbij verantwoord wordt volgens het principe van Single information Single audit als bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), vindt vaststelling plaatst op basis van die verantwoording.
 
@@ -304,11 +304,11 @@ De subsidieontvanger is verplicht:
 
 ##### Artikel 23
 
-1. In het geval van een subsidie als bedoeld in [artikel 16, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2014-01-01&g=2014-01-01), vindt de betaling van het vastgestelde subsidiebedrag in één keer plaats.
+1. In het geval van een subsidie als bedoeld in [artikel 16, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2022-10-04&g=2022-10-04), vindt de betaling van het vastgestelde subsidiebedrag in één keer plaats.
 
-2. Indien een beschikking tot subsidieverlening als bedoeld in [artikel 16, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2014-01-01&g=2014-01-01), wordt gegeven wordt een voorschot uitgekeerd van 100%.
+2. Indien een beschikking tot subsidieverlening als bedoeld in [artikel 16, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=16&z=2022-10-04&g=2022-10-04), wordt gegeven wordt een voorschot uitgekeerd van 100%.
 
-3. Bij subsidies als bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=17&z=2014-01-01&g=2014-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=18&z=2014-01-01&g=2014-01-01) wordt in de beschikking tot subsidieverlening de wijze van bevoorschotting opgenomen.
+3. Bij subsidies als bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=17&z=2022-10-04&g=2022-10-04) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=18&z=2022-10-04&g=2022-10-04) wordt in de beschikking tot subsidieverlening de wijze van bevoorschotting opgenomen.
 
 ### Hoofdstuk 12. Subsidievaststelling
 
@@ -318,7 +318,7 @@ De subsidieontvanger is verplicht:
 
 - a. een eindverslag omtrent de uitvoering van en de resultaten van de activiteiten, en
 
-- b. indien het een subsidie als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=18&z=2014-01-01&g=2014-01-01) betreft, een controleverklaring.
+- b. indien het een subsidie als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&hoofdstuk=8&artikel=18&z=2022-10-04&g=2022-10-04) betreft, een controleverklaring.
 
 2. Indien sprake van een subsidieverlening in de vorm van een vast bedrag dan vindt verantwoording plaats van het totaal van de geleverde prestaties.
 
@@ -328,11 +328,11 @@ De subsidieontvanger is verplicht:
 
 5. Bij ministeriële regeling of bij de subsidieverlening kan worden bepaald dat, in afwijking van het eerste lid, onderdeel b, de aanvraag tot subsidievaststelling niet vergezeld hoeft te gaan van een controleverklaring.
 
-### Hoofdstuk 13. Misbruik en oneigenlijk gebruik (M&O)
+### Hoofdstuk 13. Registratie
 
 ##### Artikel 25
 
-1. Onze Minister houdt ter voorkoming van misbruik en oneigenlijk gebruik van subsidie een registratie bij waarin wordt vastgelegd:
+1. Onze Minister houdt ter voorkoming van misbruik van subsidie een registratie bij waarin wordt vastgelegd:
 
 - a. het opleggen van een boete aan een subsidieontvanger op grond van de [Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0032155);
 
@@ -344,7 +344,7 @@ De subsidieontvanger is verplicht:
 
 2. De registratie kan worden geraadpleegd door daartoe door Onze Minister aangewezen ambtenaren die zich bezighouden met het verstrekken van subsidies op het terrein van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-3. De registratie van gegevens vindt plaats voor de duur van vijf jaar na de datum van registratie, waarna de betreffende gegevens uit de registratie worden verwijderd.
+3. De gegevens worden gedurende drie jaren geregistreerd vanaf de datum waarop een besluit als bedoeld in het eerste lid, onderdelen a of b, is genomen, waarna de betreffende gegevens uit de registratie worden verwijderd. De gegevens worden eveneens uit de registratie verwijderd indien het besluit bij een onherroepelijke beslissing op bezwaar is herroepen of bij een onherroepelijke rechterlijke uitspraak is vernietigd.
 
 4. Indien blijkt dat een aanvrager in de in het eerste lid bedoelde registratie is opgenomen kan Onze Minister aan de geregistreerde gegevens gevolgtrekkingen verbinden bij de beoordeling van de aanvraag, de in het kader van de subsidieverstrekking op te leggen verplichtingen en de controle op de naleving van die verplichtingen.
 
