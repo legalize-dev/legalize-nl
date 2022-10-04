@@ -4,7 +4,7 @@ identifier: "BWBR0047219"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-20"
-last_updated: "2022-09-01"
+last_updated: "2022-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047219"
 soort: "ministeriele-regeling"
@@ -42,15 +42,13 @@ BESLUIT:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
-
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2022-10-04&g=2022-09-01);
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2022-10-04&g=2022-10-04);
 
 - c. **Landelijke Eenheid:** de Landelijke eenheid van de politie.
 
@@ -114,7 +112,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 7. Werkwijze
 
-1. De commissie stelt haar eigen werkwijze vast. De commissie zorgt daarbij voor actief contact met de werkvloer zodat voldaan kan worden aan de bepaling in [artikel 2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2022-10-04&g=2022-09-01) van dit besluit.
+1. De commissie stelt haar eigen werkwijze vast. De commissie zorgt daarbij voor actief contact met de werkvloer zodat voldaan kan worden aan de bepaling in [artikel 2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2022-10-04&g=2022-10-04) van dit besluit.
 
 2. De leden van de commissie zijn verplicht tot geheimhouding op basis van [artikel 2:5 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5).
 
