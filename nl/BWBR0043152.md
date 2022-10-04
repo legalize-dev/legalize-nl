@@ -4,7 +4,7 @@ identifier: "BWBR0043152"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-13"
-last_updated: "2022-02-09"
+last_updated: "2022-10-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043152"
 soort: "ministeriele-regeling"
@@ -222,7 +222,7 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2022-10-13&g=2022-02-09) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2020-11-11&g=2022-10-04) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling;
 
@@ -337,6 +337,24 @@ De teamleider NOW is verantwoordelijk voor:
 5. De teamleider NOW wordt gemachtigd tot het paraferen en ondertekenen van stukken, niet zijnde besluiten, die betrekking hebben op taken van het eigen team, een en ander met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur afgedaan moeten worden.
 
 6. Bij afwezigheid of verhindering van de teamleider NOW besluit teamleider NOW na voorafgaande instemming van de directeur, voor de duur van de afwezigheid of verhindering, welk afdelingshoofd, clustermanager, teamleider of medewerker zijn taken en bevoegdheden waarneemt.
+
+#### § 5. Slotbepalingen
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 8a
+
+1. De kasbeheerders zijn voor de bij het samenwerkingsverband aangesloten ministeries en de onderliggende rijksonderdelen, namens de betreffende directeuren Financieel Economische Zaken, verantwoordelijk voor:
+
+- a. het uitvoeren van het rekeningenbeheer van het Perceel B Rijksbetalingsverkeer voor de bij het samenwerkingsverband aangesloten ministeries en onderliggende rijksonderdelen;
+
+- b. het optreden als (hoofd)contactpersonen en vertegenwoordigers richting het Ministerie van Financiën/Agentschap van de Generale Thesaurie, bij het samenwerkingsverband aangesloten ministeries en onderliggende rijksonderdelen en de gecontracteerde dienstverleners voor het Perceel B Rijksbetalingsverkeer;
+
+2. De kasbeheerders worden namens de directeuren Financieel Economische Zaken van de bij het samenwerkingsverband aangesloten ministeries en onderliggende rijksonderdelen, aangewezen door de directeur Financieel Economische Zaken SZW.
+
+3. De kasbeheerders opereren binnen het FDC onafhankelijk voor wat betreft de taken genoemd in het eerste lid van dit artikel.
+
+#### § 4. Bevoegdheden
 
 #### § 5. Slotbepalingen
 
