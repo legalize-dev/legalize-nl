@@ -4,7 +4,7 @@ identifier: "BWBR0046248"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-07"
-last_updated: "2022-06-18"
+last_updated: "2022-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046248"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046248&artikel=2&z=2022-06-18&g=2022-06-18).
+- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046248&artikel=2&z=2022-10-07&g=2022-10-07).
 
 ##### Artikel 2. Instelling en taak
 
@@ -76,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur en eindrapport
 
-1. De commissie wordt ingesteld voor de duur van negen maanden, te rekenen vanaf de datum van inwerkingtreding van dit besluit, en zij brengt voor het einde van de instellingsduur haar eindrapport uit.
+1. De commissie wordt ingesteld voor de duur van elf maanden, te rekenen vanaf de datum van inwerkingtreding van dit besluit, en zij brengt voor het einde van de instellingsduur haar eindrapport uit.
 
 2. Indien onvoorziene omstandigheden naar het oordeel van de commissie in de weg staan aan het tijdig uitbrengen van het rapport, dan stelt zij, via haar voorzitter, de minister daarvan onverwijld op de hoogte.
 
