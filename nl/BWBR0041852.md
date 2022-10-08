@@ -4,7 +4,7 @@ identifier: "BWBR0041852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-15"
-last_updated: "2022-05-14"
+last_updated: "2022-10-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041852"
 soort: "ministeriele-regeling"
@@ -50,29 +50,27 @@ In dit besluit wordt verstaan onder:
 
 - b. **de directeuren:** de directeuren van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- c. **het MT-B&I:** het collectief van de onder a en b bedoelde functionarissen;
+- c. het hoofd Algemene Zaken: het hoofd Algemene Zaken van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- d. **de MT-leden van een directie:** de leden van het managementteam van een directie met uitzondering van de directeur en de plaatsvervangend directeur;
+- d. de Chief Analyst: de hoofdanalist van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- e. **de Chief Analyst:** de Chief Analyst van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- e. het MT-B&I: het collectief van de onder a tot en met d genoemde functionarissen;
 
-- f. **de programmamanager DTC:** de programmamanager Digital Trust Center van het Ministerie van Economische Zaken en Klimaat;
+- f. het MT-lid van een directie: een lid van het managementteam van een directie met uitzondering van de directeur;
 
-- g. **de programmamanager CSIRT-DSP:** de programmamanager van het Computer Security Incident Response Team voor Digital Service Providers (CSIRT-DSP) van het Ministerie van Economische Zaken en Klimaat;
+- g. **de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland:** de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland van het Ministerie van Economische Zaken en Klimaat;
 
-- h. **de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland:** de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland van het Ministerie van Economische Zaken en Klimaat;
+- h. **de regioambassadeurs:** de regioambassadeurs van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- i. **de regioambassadeurs:** de regioambassadeurs van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- i. **de secretaris ATR:** de secretaris Adviescollege toetsing regeldruk;
 
-- j. **de secretaris ATR:** de secretaris Adviescollege toetsing regeldruk;
+- j. **de Commissaris Militaire Productie:** de Commissaris Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- k. **de Commissaris Militaire Productie:** de Commissaris Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- k. **de Compensatieadviseurs Militaire Productie:** de compensatieadviseurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- l. **de Compensatieadviseurs Militaire Productie:** de compensatieadviseurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
+- l. **de Compensatieadministrateurs Militaire Productie:** de Compensatieadministrateurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
 
-- m. **de Compensatieadministrateurs Militaire Productie:** de Compensatieadministrateurs Militaire Productie van het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat;
-
-- n. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
+- m. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende functionarissen
 
@@ -82,11 +80,11 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - a. onderwerpen die twee of meer directies van zijn dienstonderdeel raken, tenzij daarover tussen de betrokken directeuren overeenstemming bestaat;
 
-- b. aangelegenheden op het werkterrein van een directeur, respectievelijk de secretaris MT-B&I:
+- b. aangelegenheden op het werkterrein van een directeur, respectievelijk het hoofd Algemene Zaken:
 
 - 1°. ten aanzien waarvan de directeur-generaal in een incidenteel geval mededeling heeft gedaan dat zij door hem zullen worden behandeld, of
 
-- 2°. die door een directeur, respectievelijk de secretaris MT-B&I aan de directeur-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de directeur-generaal door een andere directeur moeten worden behandeld;
+- 2°. die door een directeur, respectievelijk het hoofd Algemene Zaken aan de directeur-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de directeur-generaal door een andere functionaris moeten worden behandeld;
 
 - c. aangelegenheden op het werkterrein van onderzoek, monitoring, effectmeting en beleidsexperimenten, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de Chief Analyst.
 
@@ -105,12 +103,6 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 - d. het aangaan en afhandelen van verplichtingen inzake de opleiding van personeel en het accorderen van de desbetreffende betalingen;
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.
-
-3. In uitzondering op het eerste en tweede lid, geldt het ondermandaat, de volmacht en de machtiging aan de plaatsvervangend directeur van een directie niet voor aangelegenheden op hun werkterrein:
-
-- 1°. ten aanzien waarvan de directeur in een incidenteel geval mededeling heeft gedaan dat zij door hem zullen worden behandeld, of
-
-- 2°. die door de plaatsvervangend directeur aan de directeur worden voorgelegd, tenzij zij naar het oordeel van de directeur door een ander MT-lid van de directie moeten worden behandeld.
 
 ##### Artikel 4
 
@@ -136,21 +128,33 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 5
 
-Aan de Chief Analyst wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 250.000 per verplichting niet te boven gaat.
+1. Aan het hoofd Algemene Zaken wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 15.000 per verplichting niet te boven gaat.
 
-##### Artikel 6
+2. Aan het hoofd Algemene Zaken wordt voorts, voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
-1. Aan de programmamanager DTC wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
-
-2. Aan de programmamanager DTC wordt tevens voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
-
-- a. het verlenen van verlof en kort buitengewoon verlof;
+- a. het verlenen van vakantie en kort buitengewoon verlof;
 
 - b. het verlenen van zwangerschaps-, bevallings-, en ouderschapsverlof;
 
 - c. het accorderen van P-Direkt aanvragen;
 
-- d. het aangaan van verplichtingen inzake de opleiding van personeel;
+- d. het aangaan en afhandelen van verplichtingen inzake de opleiding van personeel en het accorderen van de desbetreffende betalingen;
+
+- e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.
+
+##### Artikel 6
+
+1. Aan de Chief Analyst wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 250.000 per verplichting niet te boven gaat.
+
+2. Aan de Chief Analyst wordt voorts, voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
+
+- a. het verlenen van vakantie en kort buitengewoon verlof;
+
+- b. het verlenen van zwangerschaps-, bevallings-, en ouderschapsverlof;
+
+- c. het accorderen van P-Direkt aanvragen;
+
+- d. het aangaan en afhandelen van verplichtingen inzake de opleiding van personeel en het accorderen van de desbetreffende betalingen;
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.
 
@@ -220,19 +224,7 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 6a
 
-1. Aan de programmamanager CSIRT-DSP wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
-
-2. Aan de programmamanager CSIRT-DSP wordt tevens voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
-
-- a. het verlenen van verlof en kort buitengewoon verlof;
-
-- b. het verlenen van zwangerschaps-, bevallings-, en ouderschapsverlof;
-
-- c. het accorderen van P-Direkt aanvragen;
-
-- d. het aangaan van verplichtingen inzake de opleiding van personeel;
-
-- e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.
+Vervallen
 
 #### § 3. Vervanging
 
