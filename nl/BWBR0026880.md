@@ -4,7 +4,7 @@ identifier: "BWBR0026880"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-08"
-last_updated: "2009-12-22"
+last_updated: "2022-10-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026880"
 soort: "ministeriele-regeling"
@@ -44,15 +44,13 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **Bureau verontreinigingsheffing rijkswateren:** **Bureau** verontreinigingsheffing rijkswateren van Rijkswaterstaat vallende onder het gezag van de Directeur-Generaal van Rijkswaterstaat;
-
-- **hoofd:** hoofd van het **Bureau** verontreinigingsheffing rijkswateren;
-
-- **verontreinigingsheffing:** verontreinigingsheffing als bedoeld in [artikel 7.10, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.10).
+- **Bureau verontreinigingsheffing rijkswateren:** **Bureau** verontreinigingsheffing rijkswateren van Rijkswaterstaat vallende onder het gezag van de Directeur-Generaal van Rijkswaterstaat.
 
 ##### Artikel 2
 
-Onverminderd het bepaalde in [artikel 7.10, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.10) worden het hoofd en de onder hem ressorterende ambtenaren aangewezen als bestuur van ’s Rijksbelastingen en de inspecteur, bedoeld in artikel 7.10, vierde lid, van de Waterwet.
+1. Als ambtenaren die ingevolge [artikel 7.10, vierde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.10) voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) in de plaats treden van het bestuur van ’s Rijksbelastingen en van de inspecteur worden aangewezen het hoofd van Bureau verontreinigingsheffing rijkswateren en de onder hem ressorterende ambtenaren.
+
+2. Als ambtenaren die ingevolge [artikel 7.10, vierde lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.10) voor de toepassing van de [Algemene wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) in de plaats treden van de ambtenaren van de rijksbelastingdienst worden aangewezen de ambtenaren ressorterende onder het hoofd van Bureau verontreinigingsheffing rijkswateren en de ambtenaren van Rijkswaterstaat werkzaam onder verantwoordelijkheid van een hoofdingenieur-directeur van een landelijke of van een regionale dienst.
 
 ##### Artikel 3
 
