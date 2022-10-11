@@ -4,7 +4,7 @@ identifier: "BWBR0045408"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2021-10-01"
+last_updated: "2022-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045408"
 soort: "ministeriele-regeling"
@@ -74,9 +74,21 @@ De minister is het centraal verbindingsorgaan bedoeld in artikel 4 van [Verorden
 
 - –. voor zuivelproducten, uiterlijk de tiende dag, 23:59 uur, voor de voorgaande maand.
 
-3. Marktdeelnemers melden de niet-wekelijkse productie- en marktinformatie, bedoeld in artikel 12, onder b, en bijlage III, punten 1b, 1c, 2, 3, 8, 9, 10, 11 en 12, van [Verordening (EU) 2017/1185](33085R2017), aan de minister met behulp van een door de minister ter beschikking gesteld middel:
+3. Marktdeelnemers melden de niet-wekelijkse productie- en marktinformatie, bedoeld in artikel 12, onder b, en bijlage III, punten 1a tot en met 1d, 2, 3, 8, 9, 10, 11 en 12, van [Verordening (EU) 2017/1185](33085R2017), aan de minister met behulp van een door de minister ter beschikking gesteld middel:
 
 - –. voor rijst, uiterlijk 5 januari, 23:59 uur, jaarlijks voor het voorgaande verkoopseizoen;
+
+- –. voor in Nederland opgeslagen rijstvoorraden, uiterlijk de 25e dag 23.59 uur, voor de stand van zaken op de laatste werkdag van de voorafgaande maand;
+
+- –. voor in Nederland opgeslagen voorraden van tarwe, gerst en mais, uiterlijk de 25e dag 23.59 uur, voor de stand van zaken op de laatste werkdag van de voorafgaande maand;
+
+- –. voor in Nederland opgeslagen voorraden koolzaad, zonnebloempitten, sojabonen, koolzaadmeel, zonnebloemzaadschroot, sojaschroot, ruwe koolzaadolie, ruwe zonnebloemolie en ruwe sojaolie, uiterlijk de 25e dag 23.59 uur voor de stand van zaken op de laatste werkdag van de voorafgaande maand;
+
+- –. voor het voor certificering aanvaarde areaal granen, uiterlijk op 10 november het in dat jaar aanvaarde areaal;
+
+- –. voor het voor certificering geoogste zaad van granen, uiterlijk op 10 januari de geoogste hoeveelheid voor wat betreft het voorgaande jaar;
+
+- –. voor voorraden gecertificeerd zaad van granen, uiterlijk op 25 februari 23.59 uur en 25 juli 23.59 uur het niveau van voorraden op de laatste werkdag van januari respectievelijk juni;
 
 - –. voor het suikerbietenareaal, uiterlijk 1 mei, 23:59 uur, jaarlijks, voor het lopende verkoopseizoen en een raming voor het daaropvolgende verkoopseizoen;
 
@@ -100,7 +112,7 @@ De minister is het centraal verbindingsorgaan bedoeld in artikel 4 van [Verorden
 
 4. Degene die ingevolge deze regeling gegevens moet melden doet dat op de daartoe bestemde wijze, volledig, juist en naar waarheid.
 
-5. Voor zover de in dit artikel bedoelde gegevens zijn verstrekt op grond van de [artikelen 22 tot en met 28 van de Regeling interventie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&artikel=22), de [artikelen 2:29](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&artikel=2:29) en [3a:1 van de Regeling marktordening vlees](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&artikel=3a:1) of uit hoofde van een ten behoeve van betrokken marktdeelnemers afgesloten convenant en deze gegevens niet zijn gewijzigd, behoeven deze gegevens niet opnieuw te worden verstrekt. De doorgifte van deze gegevens geldt in dat geval als verstrekking in de zin van dit artikel.
+5. Voor zover de in dit artikel bedoelde gegevens zijn verstrekt op grond van de [artikelen 22 tot en met 28 van de Regeling interventie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039438&artikel=22), de [artikelen 2:29](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&artikel=2:29) en [3a:1 van de Regeling marktordening vlees](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&artikel=3a:1) of uit hoofde van een ten behoeve van betrokken marktdeelnemers afgesloten convenant dan wel met een brancheorganisatie of sectorvertegenwoordiger gemaakte afspraken en deze gegevens niet zijn gewijzigd, behoeven deze gegevens niet opnieuw te worden verstrekt. De doorgifte van deze gegevens geldt in dat geval als verstrekking in de zin van dit artikel.
 
 6. De in dit artikel bedoelde verzamelde gegevens, worden door de minister, voor zover niet uitdrukkelijk anders is bepaald, gedurende ten hoogste vijf jaar bewaard.
 
