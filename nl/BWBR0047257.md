@@ -4,7 +4,7 @@ identifier: "BWBR0047257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-11"
-last_updated: "2022-09-02"
+last_updated: "2022-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047257"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Aan de programmadirecteur-generaal blijft voorbehouden:
 
 1. Ondermandaat wordt verleend voor het beschikken over bedragen voor het aangaan van verplichtingen en het verrichten van uitgaven, in overeenstemming met [artikel 3.3. van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3).
 
-2. Met inachtneming van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047257&artikel=1&z=2022-10-11&g=2022-09-02) is de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047257&artikel=1&z=2022-10-11&g=2022-09-02) genoemde ambtenaar bevoegd tot uitoefening van de bevoegdheden die conform paragraaf 1.3 van de CAO Rijk bij of krachtens de wet aan het bevoegd gezag zijn toegekend ten aanzien van de ambtenaren in de Medewerkerpool DGO.
+2. Met inachtneming van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047257&artikel=1&z=2022-10-11&g=2022-10-11) is de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047257&artikel=1&z=2022-10-11&g=2022-10-11) genoemde ambtenaar bevoegd tot uitoefening van de bevoegdheden die conform paragraaf 1.3 van de CAO Rijk bij of krachtens de wet aan het bevoegd gezag zijn toegekend ten aanzien van de ambtenaren in de Medewerkerpool DGO.
 
 ##### Artikel 5
 
