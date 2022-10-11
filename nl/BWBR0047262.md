@@ -4,7 +4,7 @@ identifier: "BWBR0047262"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2022-08-01"
+last_updated: "2022-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047262"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=14), [
 
 ##### Artikel 5. Volledige doorbetaling van aanvulling op het salaris voor zittende chauffeurs bij arbeidsongeschiktheid wegens ziekte of zwangerschap
 
-De aanvulling op het salaris als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047262&artikel=4&z=2022-10-11&g=2022-08-01) van deze regeling, wordt volledig doorbetaald in geval van arbeidsongeschiktheid wegens ziekte, het genieten van zwangerschaps- en bevallingsverlof of het verrichten van aangepaste werkzaamheden in verband met zwangerschap van de chauffeur.
+De aanvulling op het salaris als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047262&artikel=4&z=2022-10-11&g=2022-10-11) van deze regeling, wordt volledig doorbetaald in geval van arbeidsongeschiktheid wegens ziekte, het genieten van zwangerschaps- en bevallingsverlof of het verrichten van aangepaste werkzaamheden in verband met zwangerschap van de chauffeur.
 
 ##### Artikel 6. Compensatie inkomensverlies zittende chauffeurs
 
@@ -92,7 +92,7 @@ De aanvulling op het salaris als bedoeld in [artikel 4](https://wetten.overheid.
 
 - 1°. salaris, als bedoeld in [artikel 1, eerste lid, onderdeel m, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
-- 2°. de aanvulling op het salaris als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047262&artikel=5&z=2022-10-11&g=2022-08-01);
+- 2°. de aanvulling op het salaris als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047262&artikel=5&z=2022-10-11&g=2022-10-11);
 
 - 3°. uitkeringen op grond van de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23) en [25b van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b).
 
