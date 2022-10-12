@@ -4,7 +4,7 @@ identifier: "BWBR0045388"
 country: "nl"
 rank: "wet"
 publication_date: "2022-10-12"
-last_updated: "2022-07-01"
+last_updated: "2022-10-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045388"
 soort: "wet"
@@ -88,19 +88,19 @@ Wijzigt de Algemene pensioen- en uitkeringswet politieke ambtsdragers.
 
 ##### Artikel XII
 
-1. Deze wet, met uitzondering van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2022-07-01&g=2022-07-01), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+1. Deze wet, met uitzondering van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2022-10-12&g=2022-10-12), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. [Artikel I, met uitzondering van de onderdelen Ra en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2022-07-01&g=2022-07-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld.
+2. [Artikel I, met uitzondering van de onderdelen Ra en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2022-10-12&g=2022-10-12), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen verschillend kan worden vastgesteld.
 
-3. Indien het bij koninklijke boodschap van 2 september 2020 ingediende voorstel van wet houdende wijziging van de Pensioenwet, de Wet verplichte beroepspensioenregeling, de Wet op het Financieel toezicht, de Wet inkomstenbelasting 2001 en de Wet op de Loonbelasting 1964 in verband met de introductie van de mogelijkheid om een deel van de waarde van de aanspraken op ouderdomspensioen of op periodieke uitkeringen van oudedagsvoorzieningen in de derde pijler op de ingangsdatum daarvan te laten afkopen, de tijdelijke versoepeling van de pseudo-eindheffing bij regelingen voor vervroegde uittreding en de uitbreiding van de fiscale ruimte voor het sparen van bovenwettelijk verlof ([Wet bedrag ineens, RVU en verlofsparen](https://wetten.overheid.nl/jci1.3:c:BWBR0044727)) (Kamerstukken 35 555) tot wet is of wordt verheven en [artikel I, onderdeel C, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044727&artikel=I) in werking treedt, treedt [artikel I, onderdeel Ra](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2022-07-01&g=2022-07-01), van deze wet op hetzelfde tijdstip in werking.
+3. Indien het bij koninklijke boodschap van 2 september 2020 ingediende voorstel van wet houdende wijziging van de Pensioenwet, de Wet verplichte beroepspensioenregeling, de Wet op het Financieel toezicht, de Wet inkomstenbelasting 2001 en de Wet op de Loonbelasting 1964 in verband met de introductie van de mogelijkheid om een deel van de waarde van de aanspraken op ouderdomspensioen of op periodieke uitkeringen van oudedagsvoorzieningen in de derde pijler op de ingangsdatum daarvan te laten afkopen, de tijdelijke versoepeling van de pseudo-eindheffing bij regelingen voor vervroegde uittreding en de uitbreiding van de fiscale ruimte voor het sparen van bovenwettelijk verlof ([Wet bedrag ineens, RVU en verlofsparen](https://wetten.overheid.nl/jci1.3:c:BWBR0044727)) (Kamerstukken 35 555) tot wet is of wordt verheven en [artikel I, onderdeel C, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044727&artikel=I) in werking treedt, treedt [artikel I, onderdeel Ra](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2022-10-12&g=2022-10-12), van deze wet op hetzelfde tijdstip in werking.
 
-4. [Artikel I, onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2022-07-01&g=2022-07-01), treedt in werking drie maanden na het tijdstip, bedoeld in onderdeel 2.
+4. [Artikel I, onderdeel AA](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2022-10-12&g=2022-10-12), treedt in werking drie maanden na het tijdstip, bedoeld in onderdeel 2.
 
-5. [Artikel I, onderdelen R en II, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=I&z=2022-07-01&g=2022-07-01), werkt terug tot en met 1 januari 2019.
+5. Vervallen.
 
-6. De [artikelen II, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=II&z=2022-07-01&g=2022-07-01), [III, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=III&z=2022-07-01&g=2022-07-01), [IV, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=IV&z=2022-07-01&g=2022-07-01), en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=VI&z=2022-07-01&g=2022-07-01) werken terug tot en met 1 januari 2020.
+6. De [artikelen II, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=II&z=2022-10-12&g=2022-10-12), [III, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=III&z=2022-10-12&g=2022-10-12), [IV, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=IV&z=2022-10-12&g=2022-10-12), en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=VI&z=2022-10-12&g=2022-10-12) werken terug tot en met 1 januari 2020.
 
-7. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=IX&z=2022-07-01&g=2022-07-01) werkt terug tot en met 1 januari 2019.
+7. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0045388&artikel=IX&z=2022-10-12&g=2022-10-12) werkt terug tot en met 1 januari 2019.
 
 ##### Artikel XIII
 
