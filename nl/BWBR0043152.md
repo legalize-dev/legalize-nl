@@ -4,7 +4,7 @@ identifier: "BWBR0043152"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-13"
-last_updated: "2022-10-04"
+last_updated: "2022-10-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043152"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 - a. **directie DSU:** de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering;
 
-- b. **directeur:** de directeur Dienstverlening, Samenwerkingsverbanden en Uitvoering;
+- b. **afdeling:** een afdeling van de directie DSU;
 
 - c. **SVC:** de afdeling Sturing, Verantwoording en Control;
 
@@ -54,9 +54,9 @@ Besluit:
 
 - e. **UEC:** de afdeling Uitvoering Expertisecentrum;
 
-- f. **ICT:** de afdeling Informatie en Communicatietechnologie;
+- f. **IV:** de afdeling Informatievoorziening;
 
-- g. **FDC:** de afdeling Financieel Dienstencentrum met de volgende clusters:
+- g. **FDC:** de afdeling Financieel Dienstencentrum, met de volgende clusters:
 
 - i. beheer;
 
@@ -64,27 +64,29 @@ Besluit:
 
 - iii. betalen;
 
-- iv. specialties;
+- iv. Bekostiging Subsidies en Vorderingenbeheer;
 
-- h. **LO-plein:** afdeling Leer- en Ontwikkelplein;
+- h. **LO-Plein:** de afdeling Leer- en Ontwikkelplein;
 
-- i. **afdeling:** een afdeling van de directie;
+- i. **directeur:** de directeur van de directie DSU;
 
-- j. **afdelingshoofd:** het hoofd van de afdeling;
+- j. **plaatsvervangend directeur:** de plaatsvervangend directeur van de directie DSU;
 
-- k. **clustermanager:** een functionaris die leiding geeft aan een cluster van het FDC;
+- k. **afdelingshoofd of hoofd:** het hoofd van een afdeling;
 
-- l. **teamleider:** een functionaris die leiding geeft aan een team binnen de afdelingen UV of UEC, het LO-plein of binnen het cluster Betalen van het FDC;
+- l. **clustermanager:** een functionaris die leiding geeft aan een cluster van het FDC;
 
-- m. **controller:** een functionaris die de activiteiten rond de planning en control cyclus coördineert en bewaakt;
+- m. **teamleider:** een functionaris die leiding geeft aan een team binnen de afdelingen UV of UEC, IV, het LO-Plein of binnen een cluster van het FDC;
 
-- n. **teamleider NOW:** de teamleider NOW stuurt het team aan belast met het toezicht op de naleving van de verplichtingen, bedoeld in [artikel 13 van de Tijdelijke noodmaatregel overbrugging voor werkgelegenheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043340&artikel=13).
+- n. **controller:** een functionaris die de activiteiten rond de planning en control cyclus coördineert en bewaakt;
+
+- o. **Europese fondsen:** in ieder geval het Europees Sociaal Fonds plus (ESF en ESF+), het Fonds voor asiel, migratie en integratie (AMIF), het Fonds voor interne veiligheid (ISF), het Fonds voor geïntegreerd grensbeheer van het Instrument voor financiële steun voor grensbeheer en visumbeleid (BMVI), het Europees Globalisering Fonds (EGF), het Just Transition Fund (JTF) en het Europees Fonds voor de meest behoeftigen (EFMB).
 
 #### § 2. Organisatie
 
 ##### Artikel 2
 
-1. De directie bestaat uit de volgende afdelingen met aan het hoofd een afdelingshoofd:
+1. De directie bestaat uit de volgende afdelingen met aan het hoofd één of meer afdelingshoofden:
 
 - a. SVC;
 
@@ -92,7 +94,7 @@ Besluit:
 
 - c. UEC;
 
-- d. ICT;
+- d. IV;
 
 - e. FDC;
 
@@ -132,19 +134,17 @@ Het hoofd SVC is verantwoordelijk voor:
 
 - c. het voeren van de financiële beleidsadministratie voor programmagelden, die gepaard gaan met de uitvoering van regelingen en opdrachten, die zijn opgedragen aan UV of UEC;
 
-- d. goed georganiseerde bedrijfsmatige ondersteuning binnen DSU;
-
-- e. het informatiemanagement voor DSU.
+- d. goed georganiseerde bedrijfsmatige ondersteuning binnen DSU.
 
 ##### Artikel 5
 
-Het hoofd UV is verantwoordelijk voor:
+De hoofden UV zijn verantwoordelijk voor:
 
-- a. de uitvoering van door de minister vastgestelde subsidieregelingen op het terrein van het Europees Sociaal Fondsen;
+- a. de uitvoering van subsidieregelingen op het terrein van Europese fondsen;
 
 - b. de uitvoering van overige door de minister vastgestelde regelingen op het terrein van werk en inkomen;
 
-- c. het, na instemming van de directeur, uitvoeren van regelingen voor opdrachtgevers buiten het ministerie;
+- c. het, na instemming van de directeur, uitvoeren van regelingen en opdrachten voor een partij buiten het ministerie;
 
 - d. het, na instemming van de directeur, verrichten van overige diensten, dan de in dit artikel bedoelde diensten;
 
@@ -164,17 +164,21 @@ Het hoofd UEC is verantwoordelijk voor:
 
 - e. het afhandelen van klachten;
 
-- f. het gestalte geven aan het kennismanagement binnen UV en UEC, door middel van deskundigheidsbevordering en de ontwikkeling van personeel door middel van onder andere opleidingsplannen.
+- f. het gestalte geven aan het kennismanagement binnen UV en UEC, door middel van deskundigheidsbevordering en de ontwikkeling van personeel door middel van onder andere opleidingsplannen;
+
+- g. de uitvoering van overige door de minister vastgestelde regelingen en opdrachten op het terrein van werk en inkomen.
 
 ##### Artikel 7
 
-Het hoofd ICT is verantwoordelijk voor:
+Het hoofd IV is verantwoordelijk voor:
 
-- a. de continuïteit en de verdere ontwikkeling van de ICT-infrastructuur van UV en UEC, onder andere door het vervullen van de opdrachtgeverrol richting ontwikkelaars en het onderhouden van contacten met leveranciers;
+- a. de continuïteit en de verdere ontwikkeling van de ICT-infrastructuur van SVC, UV, UEC en LO-Plein, onder andere door het vervullen van de opdrachtgeverrol richting ontwikkelaars en het onderhouden van contacten met leveranciers;
 
 - b. het uitvoering geven aan het functioneel beheer voor UV, UEC, SVC en LO-Plein;
 
-- c. de informatiebeveiliging voor UV, UEC en SVC.
+- c. de informatiebeveiliging en privacybescherming voor SVC, UV, UEC en LO-Plein;
+
+- d. het informatiemanagement voor de directie DSU.
 
 ##### Artikel 8
 
@@ -184,7 +188,7 @@ Het hoofd FDC is verantwoordelijk voor:
 
 - b. het opstellen van de financiële verantwoordingsinformatie voor de aangesloten ministeries;
 
-- c. het verzorgen van het functioneel- en applicatiebeheer van het SAP HANA;
+- c. het verzorgen van het functioneel- en applicatiebeheer van het financiële systeem van het SAP HANA;
 
 - d. het financieel administratief ondersteunen van beleidsdirecties van de Ministeries van SZW en BZK op het gebied van bekostiging van en/of de subsidieverlening aan gemeenten en ZBO’s overige externe organisaties op basis van wet- en regelgeving.
 
@@ -198,9 +202,7 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 - c. vanuit het perspectief van innovatie en kwaliteitsverbetering leveren van leer- en ontwikkelmaatwerk aan de afdelingen van de aangesloten organisaties;
 
-- d. het ontwikkelen van een leer- en ontwikkelaanpak afgestemd op politieke opdracht en meerjarige personele planning aan de bij het samenwerkingsverband aangesloten ministeries;
-
-- e. de continuïteit en de verdere ontwikkeling van de ICT infrastructuur van het LO-Plein, onder andere door het vervullen van de opdrachtgeversrol richting ontwikkelaars en het onderhouden van contacten met leveranciers.
+- d. het ontwikkelen van een leer- en ontwikkelaanpak afgestemd op politieke opdracht en meerjarige personele planning aan de bij het samenwerkingsverband aangesloten ministeries.
 
 #### § 4. Bevoegdheden
 
@@ -218,11 +220,11 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 - d. overeenkomsten met betrekking tot onderzoek.
 
-3. Alle voorgenomen verplichtingen dienen voorafgaand getoetst te worden door de controller van de desbetreffende afdeling.
+3. Alle voorgenomen verplichtingen dienen voorafgaand getoetst te worden door de controller van de directie DSU.
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2020-11-11&g=2022-10-04) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2022-10-13&g=2022-10-13) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling;
 
@@ -272,7 +274,7 @@ Aan de clustermanagers en teamleiders wordt volmacht en machtiging verleend tot 
 
 ##### Artikel 17
 
-1. Bij afwezigheid of verhindering van de directeur besluit de directeur, voor de duur van de afwezigheid of verhindering, welk afdelingshoofd zijn taken en bevoegdheden waarneemt.
+1. Bij afwezigheid of verhindering van de directeur worden de taken en bevoegdheden voor de duur van de afwezigheid of verhindering, waargenomen door de plaatsvervangend directeur. Bij gelijktijdige afwezigheid of verhindering van de directeur en de plaatsvervangend directeur worden, voor de duur van de afwezigheid of verhindering, de taken en bevoegdheden van de directeur waargenomen door een door hem aan te aan te wijzen afdelingshoofd.
 
 2. Bij afwezigheid of verhindering van het afdelingshoofd besluit het afdelingshoofd na voorafgaande instemming van de directeur, voor de duur van de afwezigheid of verhindering, welk afdelingshoofd, clustermanager, teamleider of medewerker zijn taken en bevoegdheden waarneemt.
 
@@ -292,51 +294,13 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-De teamleider NOW is verantwoordelijk voor:
-
-- a. het leiding geven aan het team aan belast met het toezicht op de naleving van de verplichtingen, bedoeld in [artikel 13 van de Tijdelijke noodmaatregel overbrugging voor werkgelegenheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043340&artikel=13);
-
-- b. de personeelsaangelegenheden van de onder elk van hen ressorterende functionarissen, met in begrip van de uitvoering van het arbeidsomstandigheden- en ziekteverzuimbeleid, voor zover dit niet is voorbehouden aan de secretaris-generaal, de plaatsvervangend secretaris-generaal dan wel de directeur;
-
-- c. het op orde hebben van de processen en de administratieve organisatie;
-
-- d. het formuleren en uitvoeren van jaarplannen voor het eigen team binnen de door de secretaris-generaal, de plaatsvervangend secretaris-generaal en de directeur vastgestelde uitgangspunten;
-
-- e. het rapporteren en verantwoorden aan de directeur over de uitvoering van de jaarplannen betreffende het eigen team.
+Vervallen
 
 #### § 4. Bevoegdheden
 
 ##### Artikel 12a
 
-1. De teamleider NOW is bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met het team aan belast met het toezicht op de naleving van de verplichtingen, bedoeld in [artikel 13 van de Tijdelijke noodmaatregel overbrugging voor werkgelegenheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043340&artikel=13), tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur.
-
-2. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde van € 5.000,- per overeenkomst voor:
-
-- a. overeenkomsten die gebaseerd zijn op een raamovereenkomst;
-
-- b. overeenkomsten voor het opleiden van medewerkers van het team;
-
-- c. overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder de directe verantwoordelijkheid van het departementale management worden verricht;
-
-- d. overeenkomsten met betrekking tot onderzoek.
-
-3. Alle voorgenomen verplichtingen dienen voorafgaand getoetst te worden door de controller van het team.
-
-4. Aan de teamleider NOW wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
-
-- a. de taken van het eigen team;
-
-- b. de personeelsaangelegenheden van het eigen team voor zover het betreft;
-
-- i. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers.
-
-- ii. het houden van personeelsgesprekken.
-
-- iii. verlof van medewerkers.
-
-5. De teamleider NOW wordt gemachtigd tot het paraferen en ondertekenen van stukken, niet zijnde besluiten, die betrekking hebben op taken van het eigen team, een en ander met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur afgedaan moeten worden.
-
-6. Bij afwezigheid of verhindering van de teamleider NOW besluit teamleider NOW na voorafgaande instemming van de directeur, voor de duur van de afwezigheid of verhindering, welk afdelingshoofd, clustermanager, teamleider of medewerker zijn taken en bevoegdheden waarneemt.
+Vervallen
 
 #### § 5. Slotbepalingen
 
