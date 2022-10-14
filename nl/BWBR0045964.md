@@ -4,7 +4,7 @@ identifier: "BWBR0045964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-08"
-last_updated: "2022-09-16"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045964"
 soort: "ministeriele-regeling"
@@ -50,25 +50,23 @@ In deze regeling wordt verstaan onder:
 
 - **provincie:** provincie die uitvoering geeft aan de regionale MIT-regeling;
 
-- **regionale MIT-regeling:** de provinciale subsidieregeling als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=1&z=2022-09-16&g=2022-09-16);
+- **regionale MIT-regeling:** de provinciale subsidieregeling als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=1&z=2022-10-14&g=2022-10-14);
 
-- **uitvoeringsactiviteit:** activiteit die wordt uitgevoerd in het kader van de regionale MIT-regeling 2021.
+- **uitvoeringsactiviteit:** activiteit die wordt uitgevoerd in het kader van de regionale MIT-regeling.
 
 ##### Artikel 2. Specifieke uitkering
 
-1. De Minister kan een eenmalige specifieke uitkering voor uitvoeringsactiviteiten verstrekken aan een provincie.
-
-2. Er wordt per uitvoeringsactiviteit één specifieke uitkering verstrekt.
+De Minister kan een specifieke uitkering voor uitvoeringsactiviteiten verstrekken aan een provincie.
 
 ##### Artikel 3. Hoogte van de uitkering
 
-De specifieke uitkering bedraagt ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=2&z=2022-09-16&g=2022-09-16) bij deze regeling.
+De specifieke uitkering bedraagt ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&bijlage=2&z=2022-10-14&g=2022-10-14) bij deze regeling.
 
 ##### Artikel 4. Aanvraag tot verlening
 
 1. Een specifieke uitkering wordt op aanvraag verstrekt.
 
-2. De aanvraag tot verlening van een specifieke uitkering kan worden ingediend in de periode vanaf 3 december 2021 tot en met 10 december 2021.
+2. De aanvraag tot verlening van een specifieke uitkering wordt op zijn vroegst elf weken en uiterlijk tien weken voor het einde van het boekjaar ingediend voor de uitvoeringsperiode die in hetzelfde boekjaar aanvangt.
 
 3. De aanvraag bevat in ieder geval:
 
@@ -102,14 +100,24 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 10. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling specifieke uitkering MIT 2021.
+Deze regeling wordt aangehaald als: Regeling specifieke uitkering MKB-innovatiestimulering topsectoren (MIT).
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=1&z=2022-09-16&g=2022-09-16)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=1&z=2022-10-14&g=2022-10-14)
 
-### Regionale MIT-regeling
+### 1. Regionale MIT-regeling voor uitvoeringsperiode 2021–2025
 
 ## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2022-09-16&g=2022-09-16)
 
 ### Maximale Rijksbijdrage per provincie
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### 2. Regionale MIT-regeling voor uitvoeringsperiode 2022–2026
+
+## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045964&artikel=3&z=2022-10-14&g=2022-10-14)
+
+### 1. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2021–2025
+
+### 2. Maximale Rijksbijdrage per provincie voor de uitvoeringsperiode 2022–2026
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
