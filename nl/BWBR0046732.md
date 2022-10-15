@@ -4,7 +4,7 @@ identifier: "BWBR0046732"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-01"
-last_updated: "2022-08-26"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046732"
 soort: "ministeriele-regeling"
@@ -92,59 +92,45 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Hoogte van de specifieke uitkering
 
-1. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-08-26&g=2022-08-26), een normbedrag van minimaal € 100 per dag per gerealiseerde opvangplek. Dit normbedrag wordt indien nodig achteraf opwaarts bijgesteld op basis van een monitoronderzoek.
+1. Gemeenten ontvangen:
 
-2. Indien het normbedrag, bedoeld in het eerste lid niet toereikend is om de werkelijke kosten van de opvangvoorziening te bekostigen dan kan de gemeente de werkelijke kosten declareren als de oorzaak daarvan ligt in de periode 1 maart 2022 tot en met de datum van inwerkingtreding van deze regeling of komt door aangegane verplichtingen in die periode.
+- a. tot 15 oktober 2022, ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een normbedrag van € 100 per dag per gerealiseerde opvangplek;
 
-3. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-08-26&g=2022-08-26), een vergoeding van de werkelijke kosten per verstrekking als bedoeld in de [Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503).
+- b. met ingang van 15 oktober 2022, ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een normbedrag van € 83 per dag per gerealiseerde opvangplek.
 
-4. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-08-26&g=2022-08-26), een normbedrag per persoon waaraan een verstrekking is gedaan. Dit normbedrag wordt achteraf vastgesteld op basis van een monitoronderzoek.
+2. Indien de totale werkelijke kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), per bestedingsjaar, een uitkering op basis van de normbedragen, bedoeld in het eerste lid, in betekenende mate zouden overschrijden dan kan de gemeente deze totale werkelijke kosten per opvangplek per dag declareren. De gemeente kan eveneens de totale werkelijke kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), per bestedingsjaar, declareren indien deze werkelijke kosten een uitkering op basis van normbedragen in betekenende mate zouden onderschrijden. Voor het jaar 2022 ligt de oorzaak van de kosten in alle gevallen in de periode 1 maart 2022 tot en met 31 december 2022 of in de in deze periode aangegane verplichtingen.
 
-5. Gemeenten ontvangen ter bekostiging van de transitiekosten, bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-08-26&g=2022-08-26), een vergoeding van de werkelijke kosten.
+3. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een vergoeding van de werkelijke kosten per verstrekking als bedoeld in de [Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503).
+
+4. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een normbedrag van € 210 per geregistreerde persoon per maand waarin aan deze persoon een verstrekking is gedaan.
+
+5. Gemeenten ontvangen ter bekostiging van de transitiekosten, bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een vergoeding van de werkelijke kosten.
 
 ##### Artikel 4. Voorwaarden
 
-De gemeenten besteden de specifieke uitkering gedurende de periode van 1 maart tot en met 31 december 2022.
+De gemeenten besteden de specifieke uitkering gedurende de periode van 1 maart 2022 tot en met 28 februari 2023 of tot en met de dag waarop een binnen dat tijdvak bij de Staten-Generaal ingediend voorstel van wet waarop deze regeling komt te berusten is verworpen, danwel, indien dat voorstel tot wet is verheven en in werking is getreden, tot en met de dag waarop die wet vervalt.
 
 ##### Artikel 5. Voorschot
 
 1. Op aanvraag verstrekt en betaalt de staatssecretaris in 2022 aan gemeenten een voorschot van 100% van het aantal opvangplekken voor ontheemden dat een gemeente in een boekjaar verwacht te realiseren maal het normbedrag en de werkelijke transitiekosten.
 
-2. De aanvraag voor een voorschot, bedoeld in het eerste lid, kan het college indienen bij de staatssecretaris.
+2. De aanvraag voor een voorschot, bedoeld in het eerste lid, kan de gemeente indienen bij de staatssecretaris.
+
+3. In het geval, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=4&z=2022-10-15&g=2022-10-15), wordt in het eerste lid de zinsnede ‘in 2022’ gelezen als ‘in het jaar van besteding van de uitkering’.
 
 ##### Artikel 6. Verantwoording
 
-1. De gemeenten leggen uiterlijk 15 juli 2023 verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. De gemeenten leggen uiterlijk 15 juli van het jaar dat volgt op het jaar van besteding verantwoording af over de besteding van de specifieke uitkering. [Artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is van overeenkomstige toepassing.
 
 2. De gemeenten nemen de artikelen 107 en 108 van het Verdrag betreffende de Werking van de Europese Unie in acht bij de besteding van de specifieke uitkering.
 
-3. SiSa indicatoren die in ieder geval onderdeel zijn van de verantwoording:
-
-- •. Aantal gerealiseerde opvangplekken in (jaar T) (GOO);
-
-- •. Berekening totaal gerealiseerde opvangplekken x normbedrag per dag (pxq) (GOO);
-
-- •. Werkelijke bestedingen (jaar T) – uitzonderingsbepaling (GOO);
-
-- •. Besteding (jaar T) ten behoeve van de transitie in eigen uitvoering – uitgezonderd uitvoeringkosten;
-
-- •. Besteding (jaar T) uitvoeringskosten ten behoeve van de transitie;
-
-- •. Aantal uitgekeerde verstrekkingen (POO);
-
-- •. Berekening totaal te ontvangen bijdrage (POO);
-
-- •. Besteding (jaar T) ten behoeve van uitvoeringskosten (werkelijke kosten) (POO).
-
-Daar waar sprake is van SiSa tussen overheden wordt er een systematiek ingebouwd die erin voorziet dat dit mogelijk is.
-
 ##### Artikel 7. Procedure tot vaststelling van de uitkering
 
-1. De staatssecretaris stelt de uitkering uiterlijk op 31 december 2023 vast. De staatssecretaris kan de uitkering lager vaststellen:
+1. De Staatssecretaris stelt de uitkering uiterlijk op 31 december van het jaar dat volgt op het jaar van besteding vast. De Staatssecretaris kan de uitkering lager vaststellen:
 
 - a. voor zover er geen volledige of onjuiste verantwoordingsinformatie is verstrekt;
 
-- b. indien de verantwoordingsinformatie na 15 juli 2023 is ontvangen, tenzij SiSa tussen overheden van toepassing is;
+- b. indien de verantwoordingsinformatie na 15 juli van het jaar van vaststelling is ontvangen, tenzij SiSa tussen overheden van toepassing is;
 
 - c. voor zover de uitkering niet rechtmatig is besteed;
 
