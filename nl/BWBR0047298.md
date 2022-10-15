@@ -4,7 +4,7 @@ identifier: "BWBR0047298"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-15"
-last_updated: "2022-05-01"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047298"
 soort: "ministeriele-regeling"
@@ -42,11 +42,13 @@ Wijzigt het Organisatie- en mandaatbesluit OCW 2008.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+De op het moment van inwerkingtreding van dit besluit geldende algemene ondermandaten in de zin van [artikel 11 van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11) die niet eerder in de Staatscourant zijn geplaatst, blijven van kracht tot het moment waarop zij op grond van dat artikel worden ingetrokken of vervangen dan wel op grond van het derde lid van diezelfde bepaling alsnog in de Staatscourant worden geplaatst.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van de dag volgend op de dag waarop dit besluit in de Staatscourant wordt geplaatst.
+
+2. [Onderdeel C van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0047298&artikel=I&z=2022-10-15&g=2022-10-15) treedt met terugwerkende kracht in werking met ingang van 1 mei 2022.
 
 Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
 
