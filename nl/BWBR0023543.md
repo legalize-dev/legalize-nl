@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2022-08-01"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -110,7 +110,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Wijziging van de bijlage geschiedt door de secretaris-generaal.
 
-5. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van de bijlage door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.
+5. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van de bijlage door plaatsing op het intranet en de internetsite van het Ministerie.
 
 ##### Artikel 4. Voorbehouden aan bewindspersonen
 
@@ -182,7 +182,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2022-08-01&g=2022-08-01), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2022-10-15&g=2022-10-15), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -198,17 +198,17 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. De directeuren-generaal maken managementafspraken met de volgens de bijlage onder hen ressorterende hoofden van de in de bijlage opgenomen organisatieonderdelen.
 
-3. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van de managementafspraken voor zover het betreft daarin opgenomen beperkingen of uitbreidingen van een mandaat dat op grond van dit besluit is verleend, door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie.
+3. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van de managementafspraken voor zover het betreft daarin opgenomen beperkingen of uitbreidingen van een mandaat dat op grond van dit besluit is verleend, door plaatsing op het intranet en de internetsite van het Ministerie.
 
-##### Artikel 11. Ondermandaat en mandaatregister
+##### Artikel 11. Ondermandaat
 
 1. Ondermandaat van de in dit besluit gemandateerde bevoegdheden is mogelijk, tenzij in dit besluit anders is bepaald. Bij het verlenen van ondermandaat wordt aangegeven in hoeverre het verlenen van verder ondermandaat mogelijk is.
 
 2. Voor het verlenen van ondermandaat door een directeur is de goedkeuring vereist door de desbetreffende leidinggevende functionaris. Voor machtiging om op te treden in gerechtelijke procedures en ondermandaat inzake het passeren van notariële akten is de goedkeuring niet vereist.
 
-3. De directeur Organisatie & Bedrijfsvoering draagt zorg voor bekendmaking van krachtens dit besluit verleende algemene ondermandaten door openbare ter inzage legging op het Ministerie en door plaatsing op het intranet en de internetsite van het Ministerie. In afwijking hiervan dragen de hoofden van inspecties en de functionarissen die aan het hoofd staan van een baten-lastendienst zorg voor bekendmaking van de krachtens dit besluit door hen verleende ondermandaten door openbare ter inzage legging en plaatsing op het intranet en de internetsite van het Ministerie of het betreffende dienstonderdeel.
+3. Krachtens dit besluit verleende algemene ondermandaten worden gepubliceerd in de Staatscourant en geplaatst op het intranet en de internetsite van het Ministerie of het betreffende dienstonderdeel.
 
-4. De functionarissen genoemd in lid 3 houden een register bij van de handtekeningen van de functionarissen, waarvan het mandaat door hen bekend is gemaakt.
+4. De directeur Organisatie & Bedrijfsvoering, respectievelijk het hoofd van een inspectie of de functionaris die aan het hoofd staat van een baten-lastendienst, houdt een register bij met specimen van de handtekeningen van de functionarissen, aan wie op grond van dit artikel ondermandaat is verleend.
 
 ##### Artikel 12. Voorbehouden aan SG
 
@@ -220,7 +220,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2022-08-01&g=2022-08-01),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2022-10-15&g=2022-10-15),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -242,7 +242,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2022-08-01&g=2022-08-01).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2022-10-15&g=2022-10-15).
 
 3. De directeur-generaal Hoger Onderwijs, Beroepsonderwijs, Wetenschap en Emancipatie, de directeur-generaal Primair en Voortgezet Onderwijs en de directeur-generaal Cultuur en Media zijn met uitsluiting van anderen, met uitzondering van de secretaris-generaal, gemandateerd met betrekking tot het geven van toestemming voor schatkistbankieren.
 
@@ -262,7 +262,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 4. Onverminderd het eerste tot en met het derde lid hebben direct-leidinggevenden binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2022-08-01&g=2022-08-01) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
+5. Het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=16&z=2022-10-15&g=2022-10-15) is niet van toepassing op de in het vorige lid genoemde personele aangelegenheden die via het P-direktportaal worden afgehandeld.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -288,7 +288,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2022-08-01&g=2022-08-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gevolmachtigde is gehouden in de ondertekening van stukken inzake personele aangelegenheden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2022-10-15&g=2022-10-15) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De Staat der Nederlanden,**
 
@@ -302,7 +302,7 @@ naam van de gemandateerde.
 
 **naam van de gevolmachtigde**
 
-3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2022-08-01&g=2022-08-01) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+3. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2022-10-15&g=2022-10-15) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Binnenlandse Zaken en Koninkrijksrelaties,**
 
@@ -988,7 +988,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 14b. Voorbehouden aan de directeur Wetgeving en Juridische Zaken
 
-De directeur Wetgeving en Juridische Zaken is gemandateerd te beslissen tot gehele of gedeeltelijke afwijzing van een verzoek om informatie ingevolge de Wet openbaarheid van bestuur. Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
+De directeur Wetgeving en Juridische Zaken is gemandateerd te beslissen over een verzoek om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en tot de gehele of gedeeltelijke afwijzing van een verzoek op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795). Hij kan met betrekking tot dit mandaat ondermandaat verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 14c. Bestedingsplan
 
