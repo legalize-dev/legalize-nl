@@ -4,7 +4,7 @@ identifier: "BWBR0047311"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-12-13"
-last_updated: "2020-01-01"
+last_updated: "2022-10-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047311"
 soort: "pbo"
@@ -38,7 +38,7 @@ entry_into_force: "2022-10-18"
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
-### Hoofdstuk 2. – Mandaat en machtiging directie
+### Hoofdstuk 1. – Algemene bepalingen
 
 ##### Artikel 2
 
@@ -70,13 +70,13 @@ Het bestuur verleent mandaat en machtiging aan de directie om:
 
 ##### Artikel 3
 
-De directie kan ter zake van de in [artikel 2, onderdeel a tot en met e en g tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=2&artikel=2&z=2022-12-13&g=2020-01-01) genoemde mandaten en machtigingen, ondermandaat en machtiging verlenen aan een daartoe aangewezen orgaan of functionaris.
+De directie kan ter zake van de in [artikel 2, onderdeel a tot en met e en g tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=2&artikel=2&z=2022-10-18&g=2022-10-18) genoemde mandaten en machtigingen, ondermandaat en machtiging verlenen aan een daartoe aangewezen orgaan of functionaris.
 
 ### Hoofdstuk 3. – Mandaat en machtiging Raad voor Toezicht
 
 ### Hoofdstuk 4. – Mandaat en machtiging Raad voor de praktijkopleidingen
 
-### Hoofdstuk 5. – Overige bepalingen
+### Hoofdstuk 3. – Mandaat en machtiging Raad voor Toezicht
 
 Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
 
