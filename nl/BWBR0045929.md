@@ -4,7 +4,7 @@ identifier: "BWBR0045929"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2022-01-01"
+last_updated: "2022-10-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045929"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ In deze regeling wordt verstaan onder:
 
 - **algemene groepsvrijstellingsverordening:** [Verordening (EU) 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
 
-- **bouwkosten:** alle kosten van de investeringen in materiële en immateriële activa die direct raken aan de bouw van de ontmoetingsruimte, waaronder niet wordt verstaan kosten voor aanschaf of gebruik van de bouwgrond van de ontmoetingsruimte, en de kosten voor de arbeid voor constructie van de ontmoetingsruimte, met dien verstande dat, indien sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01), de arbeid door een derde wordt verricht tegen marktconforme voorwaarden, blijkend uit een aanbestedingsprocedure of een vergelijk van minstens drie onderhandse offertes aan relevante partijen;
+- **bouwkosten:** alle kosten van de investeringen in materiële en immateriële activa die direct raken aan de bouw van de ontmoetingsruimte, waaronder niet wordt verstaan kosten voor aanschaf of gebruik van de bouwgrond van de ontmoetingsruimte, en de kosten voor de arbeid voor constructie van de ontmoetingsruimte, met dien verstande dat, indien sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19), de arbeid door een derde wordt verricht tegen marktconforme voorwaarden, blijkend uit een aanbestedingsprocedure of een vergelijk van minstens drie onderhandse offertes aan relevante partijen;
 
 - **bouwplan:** door één of meer bij de bouw betrokken partijen opgesteld dossier, waarin staat wat er gebouwd zal worden, op welke locatie, welke partijen hierbij betrokken zijn, en wat de planning is voor de bouw, inclusief de aanvangs- en einddatum;
 
 - **exploitatieplan:** : door één of meer eigenaren van de geclusterde woonvorm opgesteld plan waarin staat hoe de exploitatie van de ontmoetingsruimte zal plaatsvinden gedurende de vijf jaren na de opleveringsdatum daarvan, inclusief de wijze waarop een exploitant zal worden gevonden en een overzicht van de verwachte kosten en opbrengsten van exploitatie;
 
-- **geclusterde woonvorm:** vijf of meer woongelegenheden als bedoeld in [artikel 1 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) gelegen in Nederland, die fysiek verbonden zijn, dan wel zich in elkaars directe nabijheid bevinden, waarvan minimaal de helft bestemd is voor bewoning door ouderen die geen recht hebben op zorg in de zin van [artikel 3.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1), en waarvan:
+- **geclusterde woonvorm:** vijf of meer woongelegenheden als bedoeld in [artikel 1 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) gelegen in Nederland, die fysiek verbonden zijn, dan wel zich in elkaars directe nabijheid bevinden, en waarvan:
 
 - a. van de huurwoningen bij oplevering van de ontmoetingsruimte minimaal 75% wordt verhuurd tegen een huurprijs van niet meer dan € 1.000 per maand;
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - **Kaderbesluit:** [Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530);
 
-- **Minister:** : Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- **Minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
 - **ontmoetingsruimte:** ruimte die fysiek verbonden is aan een geclusterde woonvorm, dan wel zich op maximaal 100 meter daarvandaan bevindt, die in ieder geval toegankelijk is voor bewoners van die geclusterde woonvorm, die geëxploiteerd wordt door een organisatie die verbonden is met de geclusterde woonvorm, en die primair een sociale functie voor haar bewoners heeft;
 
@@ -122,9 +122,9 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 ##### Artikel 5. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond voor 2022 bedraagt € 20.000.000.
+1. Het subsidieplafond voor 2022 bedraagt € 28.000.000.
 
-2. Het subsidieplafond voor 2023 bedraagt € 18.000.000.
+2. Het subsidieplafond voor 2023 bedraagt € 26.000.000.
 
 3. De Minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
@@ -154,7 +154,7 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 1. De subsidieontvanger is verplicht:
 
-- a. de bouw van de ontmoetingsruimte te voltooien op de wijze beschreven in het bouwplan, bedoeld in [artikel 4, derde lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01);
+- a. de bouw van de ontmoetingsruimte te voltooien op de wijze beschreven in het bouwplan, bedoeld in [artikel 4, derde lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19);
 
 - b. aan te vangen met de bouw van de ontmoetingsruimte binnen drie jaar na de datum van verlening van de subsidie;
 
@@ -164,21 +164,21 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 - e. gedurende de vijf jaren na de datum van oplevering van de ontmoetingsruimte:
 
-- 1°. te borgen dat de ontmoetingsruimte conform het aangeleverde exploitatieplan wordt gebruikt als ontmoetingsruimte voor bewoners van de geclusterde woonvorm en, indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01), voor anderen;
+- 1°. te borgen dat de ontmoetingsruimte conform het aangeleverde exploitatieplan wordt gebruikt als ontmoetingsruimte voor bewoners van de geclusterde woonvorm en, indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19), voor anderen;
 
-- 2°. de ontmoetingsruimte op open, transparante en niet-discriminerende basis, als bedoeld in artikel 56, derde lid, van de algemene groepsvrijstellingsverordening, beschikbaar te stellen aan de bewoners van de bijhorende geclusterde woonruimte en, indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01), voor anderen;
+- 2°. de ontmoetingsruimte op open, transparante en niet-discriminerende basis, als bedoeld in artikel 56, derde lid, van de algemene groepsvrijstellingsverordening, beschikbaar te stellen aan de bewoners van de bijhorende geclusterde woonruimte en, indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19), voor anderen;
 
 - 3°. de ontmoetingsruimte bij gebruik of verkoop minimaal tegen een marktconforme prijs aan te bieden, als bedoeld in artikel 56, derde lid, van de algemene groepsvrijstellingsverordening;
 
 - 4°. indien er sprake is van verkoop van die ontmoetingsruimte, de Minister te melden tegen welke prijs, aan welke partij en per welke datum deze verkocht wordt, en hoe ook na verkoop voldaan kan blijven worden aan de subsidieverplichtingen; en
 
-- 5°. indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01):
+- 5°. indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19):
 
 - 1. geen nettowinst te maken op de exploitatie van de ontmoetingsruimte; en
 
 - 2. iedere concessie of iedere andere vorm van toewijzing aan een derde om de ontmoetingsruimte te exploiteren, op open, transparante en niet-discriminerende basis plaats te laten vinden, rekening houdende met de geldende aanbestedingsregels, als bedoeld in artikel 56, vierde lid, van de algemene groepsvrijstellingsverordening, door minstens drie onderhandse offertes aan te vragen aan relevante partijen of de exploitatie aan te besteden; en
 
-- f. indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-01-01&g=2022-01-01), de in het kader van de subsidieverlening gevoerde administratie te bewaren tot tien belastingjaren na de datum van de beschikking tot subsidievaststelling.
+- f. indien er sprake is van een aanvrager als bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=4&z=2022-10-19&g=2022-10-19), de in het kader van de subsidieverlening gevoerde administratie te bewaren tot tien belastingjaren na de datum van de beschikking tot subsidievaststelling.
 
 2. Indien de bouw van de ontmoetingsruimte buiten de schuld van de subsidieontvanger niet mogelijk is binnen de termijnen, genoemd onder b en c, kan de Minister die termijnen op schriftelijk en gemotiveerd verzoek van de subsidieontvanger eenmalig met ten hoogste één jaar verlengen.
 
@@ -212,7 +212,7 @@ Een subsidie als bedoeld in deze regeling kan staatssteun bevatten en gerechtvaa
 
 - a. uit hoeveel m² de gebouwde ontmoetingsruimte bestaat en uit hoeveel woonruimten de bijbehorende geclusterde woonvorm bestaat;
 
-- b. dat is of zal worden voldaan aan de subsidieverplichtingen uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01); en
+- b. dat is of zal worden voldaan aan de subsidieverplichtingen uit [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045929&hoofdstuk=2&artikel=8&z=2022-10-19&g=2022-10-19); en
 
 - c. wat de definitieve bouwkosten van de ontmoetingsruimte bedragen.
 
