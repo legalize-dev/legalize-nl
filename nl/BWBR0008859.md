@@ -4,7 +4,7 @@ identifier: "BWBR0008859"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-20"
-last_updated: "2021-02-04"
+last_updated: "2022-10-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008859"
 soort: "ministeriele-regeling"
@@ -38,15 +38,15 @@ Gelet op het op 18 april 1961 te Wenen tot stand gekomen Verdrag van Wenen inzak
 
 Gelet op het op 24 april 1963 te Wenen tot stand gekomen Verdrag van Wenen inzake consulaire betrekkingen (Trb. 1981, 143);
 
-Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2021-02-04&g=2021-02-04);
+Gelet op de zetelovereenkomsten met in Nederland gevestigde internationale organisaties opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2022-10-20&g=2022-10-20);
 
-Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2021-02-04&g=2021-02-04);
+Gelet op overige in Nederland gevestigde internationale organisaties zonder zetelovereenkomst opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2022-10-20&g=2022-10-20);
 
 Besluit:
 
 ##### Artikel 1
 
-1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status, de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2021-02-04&g=2021-02-04) bij deze regeling, en personen in de openbare dienst van een vreemde staat die aanspraak maken op een geprivilegieerde status op grond van een verdrag, genoemd in die bijlage, alsmede hun gezinsleden voor zover die eveneens aanspraak kunnen maken op een geprivilegieerde status op grond van datzelfde verdrag.
+1. De Minister van Buitenlandse Zaken verstrekt identiteitsbewijzen aan geprivilegieerden, welke groep omvat de personeels- en gezinsleden van het Corps Diplomatique en het Corps Consulaire, de personeels- en gezinsleden van de in Nederland gevestigde Internationale Organisaties die ingevolge een zetelovereenkomst aanspraak maken op een dergelijke status, de personeels- en gezinsleden van de in Nederland gevestigde organisaties, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008859&bijlage=1&z=2022-10-20&g=2022-10-20) bij deze regeling, en personen in de openbare dienst van een vreemde staat die aanspraak maken op een geprivilegieerde status op grond van een verdrag, genoemd in die bijlage, alsmede hun gezinsleden voor zover die eveneens aanspraak kunnen maken op een geprivilegieerde status op grond van datzelfde verdrag.
 
 2. Vervallen.
 
@@ -468,7 +468,7 @@ Voor personeel en diens gezinsleden op wie het Verdrag nopens de voorrechten en 
 
 ### Toevoeging
 
-Personeel alsmede diens gezinsleden, allen met de Nederlandse nationaliteit, dat respectievelijk die voorafgaand aan de indiensttreding bij een internationale organisatie die met Nederland een zetelverdrag, een daarmee vergelijkbaar verdrag dan wel een aan een verdrag gelijkgestelde Nota-wisseling heeft, ten minste 12 maanden woonachtig was respectievelijk waren in een andere Europese lidstaat dan Nederland, krijgen de toevoeging ‘/VV’.
+Personeel met de Nederlandse nationaliteit dat ten minste 12 maanden woonachtig en werkzaam was in een ander land van de Europese Economische Ruimte of Zwitserland, voorafgaand aan de indiensttreding bij een internationale organisatie die met Nederland een zetelverdrag, een daarmee vergelijkbaar verdrag dan wel een aan een verdrag gelijkgestelde Notawisseling heeft, krijgt de toevoeging ‘/VV’.
 
 ### Het model van het identiteitsbewijs geprivilegieerden
 
@@ -477,6 +477,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### Coderingen
 
 Nederlanders in dienst van genoemde instellingen, met uitzondering van Nederlanders in dienst van de Europeesrechtelijke instellingen, worden onderscheiden door achter de bovengenoemde codering de aanduiding ‘/NL’ te plaatsen. Duurzaam in Nederland verblijvende vreemdelingen krijgen, met uitzondering van duurzaam in Nederland verblijvende vreemdelingen in dienst van de Europeesrechtelijke instellingen, als toevoeging ‘/DV’.
+
+Een gezinslid van vorenbedoeld personeel komt, ongeacht de nationaliteit, in aanmerking voor de toevoeging ‘/VV’ indien:
+
+### Het model van het identiteitsbewijs geprivilegieerden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Experts op bijzondere missie, in dienst van bepaalde internationale organisaties, krijgen de toevoeging ‘/EM’. Personeel dat geen privileges geniet krijgt de toevoeging ‘/NP’.
 
