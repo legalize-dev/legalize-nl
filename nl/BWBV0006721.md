@@ -4,7 +4,7 @@ identifier: "BWBV0006721"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-10-21"
-last_updated: "2017-08-07"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006721"
 soort: "verdrag"
@@ -434,7 +434,7 @@ De partijen erkennen het belang van transparantie en een behoorlijke rechtsgang 
 
 3. De partijen erkennen ook dat dient vermeden te worden handel of investeringen aan te moedigen door de beschermingsniveaus die in de binnenlandse milieu- en arbeidswetgeving worden geboden, te verlagen of een verlaging ervan in het vooruitzicht te stellen.
 
-4. De partijen wisselen informatie en ervaringen uit over hun activiteiten ter bevordering van coherente en elkaar wederzijds versterkende handels-, sociale en milieudoelstellingen, met inbegrip van de aspecten als bedoeld in [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=VIII&z=2017-08-07&g=2017-08-07), en voeren de dialoog en de samenwerking op inzake ontwikkelingskwesties die in de context van de handelsbetrekkingen aan de orde kunnen komen.
+4. De partijen wisselen informatie en ervaringen uit over hun activiteiten ter bevordering van coherente en elkaar wederzijds versterkende handels-, sociale en milieudoelstellingen, met inbegrip van de aspecten als bedoeld in [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=VIII&z=2022-10-21&g=2022-10-21), en voeren de dialoog en de samenwerking op inzake ontwikkelingskwesties die in de context van de handelsbetrekkingen aan de orde kunnen komen.
 
 ##### Artikel 29. Samenwerking tussen bedrijven
 
@@ -476,7 +476,7 @@ De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten,
 
 ##### Artikel 34. Bestrijding van terrorisme, grensoverschrijdende georganiseerde misdaad en corruptie
 
-1. De partijen komen overeen samen te werken voor de preventie en bestrijding van terrorisme als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=II&artikel=9&z=2017-08-07&g=2017-08-07).
+1. De partijen komen overeen samen te werken voor de preventie en bestrijding van terrorisme als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=II&artikel=9&z=2022-10-21&g=2022-10-21).
 
 2. De partijen herbevestigen hun engagement om samen te werken voor het voorkomen en bestrijden van georganiseerde economische en financiële misdaad en corruptie, namaak en illegale transacties, door te voldoen aan hun bestaande wederzijdse internationale verplichtingen op dit gebied, onder meer met betrekking tot effectieve samenwerking om beslag te leggen op uit corruptie verkregen vermogensbestanddelen of gelden.
 
@@ -758,7 +758,7 @@ De partijen komen overeen wederzijdse samenwerking en informatie-uitwisseling en
 
 2. Deze overeenkomst heeft geen gevolgen voor en doet geen afbreuk aan de interpretatie of toepassing van andere overeenkomsten tussen de partijen. De bepalingen inzake geschillenbeslechting van deze overeenkomst dienen met name niet ter vervanging van of doen op generlei wijze afbreuk aan de bepalingen inzake geschillenbeslechting van andere overeenkomsten tussen de partijen.
 
-3. De partijen erkennen dat een bijzonder dringend geval als bedoeld in [artikel 57, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=IX&artikel=57&z=2017-08-07&g=2017-08-07), eveneens een reden kan zijn voor de schorsing of beëindiging van andere overeenkomsten tussen de partijen. In dergelijke omstandigheden houden de partijen zich aan de bepalingen inzake geschillenbeslechting, schorsing en beëindiging van dergelijke andere overeenkomsten om een eventueel geschil op te lossen.
+3. De partijen erkennen dat een bijzonder dringend geval als bedoeld in [artikel 57, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=IX&artikel=57&z=2022-10-21&g=2022-10-21), eveneens een reden kan zijn voor de schorsing of beëindiging van andere overeenkomsten tussen de partijen. In dergelijke omstandigheden houden de partijen zich aan de bepalingen inzake geschillenbeslechting, schorsing en beëindiging van dergelijke andere overeenkomsten om een eventueel geschil op te lossen.
 
 ##### Artikel 56. Gemengde Commissie
 
@@ -780,9 +780,9 @@ De partijen komen overeen wederzijdse samenwerking en informatie-uitwisseling en
 
 - f. zoekt naar passende methoden om problemen te voorkomen die op de onder deze overeenkomst vallende gebieden zouden kunnen rijzen;
 
-- g. beslecht geschillen die zich ten aanzien van de toepassing of de interpretatie van deze overeenkomst voordoen overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=IX&artikel=57&z=2017-08-07&g=2017-08-07);
+- g. beslecht geschillen die zich ten aanzien van de toepassing of de interpretatie van deze overeenkomst voordoen overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=IX&artikel=57&z=2022-10-21&g=2022-10-21);
 
-- h. onderzoekt de informatie die door een partij overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=IX&artikel=57&z=2017-08-07&g=2017-08-07) wordt ingediend; en
+- h. onderzoekt de informatie die door een partij overeenkomstig [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=IX&artikel=57&z=2022-10-21&g=2022-10-21) wordt ingediend; en
 
 - i. treft besluiten, waar nodig, om uitvoering te geven aan specifieke aspecten van deze overeenkomst.
 
@@ -800,11 +800,11 @@ De partijen komen overeen wederzijdse samenwerking en informatie-uitwisseling en
 
 4. In het onwaarschijnlijke en onverwachte geval dat geen wederzijds aanvaardbare oplossing wordt gevonden binnen 15 dagen na aanvang van het overleg op ministerieel niveau en uiterlijk 45 dagen na de datum van indiening van de kwestie bij de Gemengde Commissie, kan elke partij besluiten passende maatregelen te treffen ten aanzien van deze overeenkomst, met inbegrip van de schorsing of de beëindiging van de bepalingen van deze overeenkomst. De partijen erkennen dat een bijzonder dringend geval ook een reden kan zijn voor het treffen van passende maatregelen buiten deze overeenkomst, volgens de rechten en verplichtingen van de partijen uit hoofde van andere overeenkomsten tussen de partijen of uit hoofde van algemeen internationaal recht. Het besluit tot schorsing wordt in de Unie met eenparigheid van stemmen genomen. In Australië wordt het besluit tot schorsing door de regering van Australië overeenkomstig de wet- en regelgeving genomen.
 
-5. De partijen komen overeen dat elk besluit tot het treffen van passende maatregelen overeenkomstig lid 4 degelijk dient te worden onderbouwd. Het besluit wordt onverwijld schriftelijk medegedeeld aan de andere partij. De partijen komen overeen dat deze maatregelen proportioneel dienen te zijn en in overeenstemming met [artikel 55, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=IX&artikel=55&z=2017-08-07&g=2017-08-07), en met de algemene beginselen van internationaal recht dienen te zijn.
+5. De partijen komen overeen dat elk besluit tot het treffen van passende maatregelen overeenkomstig lid 4 degelijk dient te worden onderbouwd. Het besluit wordt onverwijld schriftelijk medegedeeld aan de andere partij. De partijen komen overeen dat deze maatregelen proportioneel dienen te zijn en in overeenstemming met [artikel 55, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=IX&artikel=55&z=2022-10-21&g=2022-10-21), en met de algemene beginselen van internationaal recht dienen te zijn.
 
 6. Indien een maatregel krachtens lid 4 wordt getroffen, wordt die opnieuw ingetrokken zodra de redenen die daartoe aanleiding hebben gegeven, niet meer bestaan. De partij die een beroep doet op de bepalingen van lid 4, ziet nauwlettend toe op het verloop van de situatie die tot het besluit heeft geleid, zich ontwikkelt en trekt de maatregelen in, zodra dit gerechtvaardigd is.
 
-7. De partijen komen overeen dat voor een correcte interpretatie en praktische toepassing van deze overeenkomst de term „bijzonder dringend geval” betekent: een bijzonder ernstige en zwaarwegende schending door een van de partijen van de verplichtingen als beschreven in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=I&artikel=2&z=2017-08-07&g=2017-08-07), en [artikel 6, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=II&artikel=6&z=2017-08-07&g=2017-08-07), van deze overeenkomst, en die leidt tot een situatie waartegen de andere partij onverwijld moet optreden. De partijen zijn van oordeel dat een bijzonder ernstige en zwaarwegende schending van artikel 2, lid 2, of artikel 6, lid 2, van dergelijke uitzonderlijke aard moet zijn dat de internationale vrede en veiligheid erdoor in gevaar komt.
+7. De partijen komen overeen dat voor een correcte interpretatie en praktische toepassing van deze overeenkomst de term „bijzonder dringend geval” betekent: een bijzonder ernstige en zwaarwegende schending door een van de partijen van de verplichtingen als beschreven in [artikel 2, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=I&artikel=2&z=2022-10-21&g=2022-10-21), en [artikel 6, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=II&artikel=6&z=2022-10-21&g=2022-10-21), van deze overeenkomst, en die leidt tot een situatie waartegen de andere partij onverwijld moet optreden. De partijen zijn van oordeel dat een bijzonder ernstige en zwaarwegende schending van artikel 2, lid 2, of artikel 6, lid 2, van dergelijke uitzonderlijke aard moet zijn dat de internationale vrede en veiligheid erdoor in gevaar komt.
 
 8. Wanneer de ernst en aard van een situatie in een derde land als gelijkwaardig aan een bijzonder dringend geval kan worden beschouwd, houden de partijen, wanneer een van beide partijen daarom verzoekt, spoedoverleg om van gedachten te wisselen over de situatie en zich te buigen over mogelijke reacties.
 
@@ -858,7 +858,7 @@ Voor de toepassing van deze overeenkomst wordt onder „de partijen” verstaan:
 
 ##### Artikel 62. Kennisgevingen
 
-De in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=X&artikel=61&z=2017-08-07&g=2017-08-07) bedoelde kennisgevingen worden toegezonden aan het secretariaat-generaal van de Raad van de Europese Unie of aan het departement van Buitenlandse Zaken en Handel van Australië, of hun opvolgerorganisaties.
+De in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0006721&titeldeel=X&artikel=61&z=2022-10-21&g=2022-10-21) bedoelde kennisgevingen worden toegezonden aan het secretariaat-generaal van de Raad van de Europese Unie of aan het departement van Buitenlandse Zaken en Handel van Australië, of hun opvolgerorganisaties.
 
 ##### Artikel 63. Territoriale toepassing
 
