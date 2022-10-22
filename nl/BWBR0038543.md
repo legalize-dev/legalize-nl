@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2022-08-01"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2022-08-01&g=2022-08-01) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2022-10-22&g=2022-10-22) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2022-08-01&g=2022-08-01).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2022-10-22&g=2022-10-22).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2022-08-01&g=2022-08-01)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2022-10-22&g=2022-10-22)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -403,10 +403,17 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K0868 | Klimaatbeheersing en koudetechniek |
 | K1102 | Koudetechniek voor warmtepompsystemen |
 | K0399 | Procestechniek basis |
+|   |   |
+| **Certificaten voor keuzedelen vanaf oktober 2022** | **Certificaten voor keuzedelen vanaf oktober 2022** |
+| K0140 | Aziatische keuken |
+| K1309 | Klantcontact Professional |
+| K1327 | Machinaal melken |
+| K1329 | Nagelstyling |
+| K1332 | Robotmelken |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2022-08-01&g=2022-08-01)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2022-10-22&g=2022-10-22)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -493,13 +500,26 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0079 | Voorbereiden van ondersteunende begeleiding en zorg geschikt voor niveau 2 | 25498 | Helpende Zorg en Welzijn |
 |   |   |   |   |
 | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2022** |
-| C0078 | Aansturen en coachen van begeleiders praktijkleren | 25801 | Praktijkopleider (Gewijzigd 2022) |
-| C0079 | Componenten aansluiten voor duurzame energietechniek | 25737 | Monteur elektrotechnische installaties (Gewijzigd 2022) |
+| C0090 | Aansturen en coachen van begeleiders praktijkleren | 25801 | Praktijkopleider (Gewijzigd 2022) |
+| C0093 | Componenten aansluiten voor duurzame energietechniek | 25737 | Monteur elektrotechnische installaties (Gewijzigd 2022) |
 | C0080 | Coördineren van leertrajecten van (nieuwe) medewerkers en stagiairs | 25801 | Praktijkopleider (Gewijzigd 2022) |
-| C0081 | Examinering van studenten | 25801 | Praktijkopleider (Gewijzigd 2022) |
+| C0095 | Examinering van studenten | 25801 | Praktijkopleider (Gewijzigd 2022) |
 | C0087 | Kwaliteitsborging van de beroepspraktijkvorming | 25801 | Praktijkopleider (Gewijzigd 2022) |
 | C0088 | Ondersteunen gebruikers van IT systems and devices | 25606 | Expert IT systems and devices |
 | C0089 | Starten met managen in de horeca | 25184 | Manager/ondernemer horeca |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2022** | **Certificaten voor beroepsgerichte onderdelen vanaf oktober 2022** |   |   |
+| C0092 | Borgen van professionalisering en kwaliteit in de maatschappelijke zorg | 25779 | Persoonlijk begeleider maatschappelijke zorg (Gewijzigd 2022) |
+| C0094 | Coördineren en organiseren in de maatschappelijke zorg | 25779 | Persoonlijk begeleider maatschappelijke zorg (Gewijzigd 2022) |
+| C0098 | Individuele ondersteuning en zorg in de maatschappelijke zorg | 25780 | Begeleider maatschappelijke zorg (Gewijzigd 2022) |
+| C0100 | Ondersteunen bij participatie, wonen en huishouden in de maatschappelijke zorg | 25780 | Begeleider maatschappelijke zorg (Gewijzigd 2022) |
+| C0101 | Ondersteunen en begeleiden in de maatschappelijke zorg | 25780 | Begeleider maatschappelijke zorg (Gewijzigd 2022) |
+| C0102 | Optimaliseren van werktuigkundige installaties | 25821 | Eerste monteur service en onderhoud werktuigkundige installaties (Gewijzigd 2022) |
+| C0103 | Organiseren en begeleiden in de maatschappelijke zorg | 25779 | Persoonlijk begeleider maatschappelijke zorg (Gewijzigd 2022) |
+| C0104 | Professionalisering en kwaliteit in de maatschappelijke zorg | 25780 | Begeleider maatschappelijke zorg (Gewijzigd 2022) |
+| C0106 | Verpleegtechnisch handelen, niveau 3 | 25656 | Verzorgende-IG (Gewijzigd 2020) |
+| C0108 | Zorgdragen voor het ondersteuningsproces in de maatschappelijke zorg | 25780 | Begeleider maatschappelijke zorg (Gewijzigd 2022) |
+| C0109 | Zorgplan ontwikkelen | 25656 | Verzorgende-IG (Gewijzigd 2020) |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
