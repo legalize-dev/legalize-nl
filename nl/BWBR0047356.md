@@ -4,7 +4,7 @@ identifier: "BWBR0047356"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-25"
-last_updated: "2022-09-01"
+last_updated: "2022-10-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047356"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **begeleidingscommissie:** Begeleidingscommissie Leerlingen- en Studentenramingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047356&artikel=2&z=2022-10-25&g=2022-09-01).
+- b. **begeleidingscommissie:** Begeleidingscommissie Leerlingen- en Studentenramingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047356&artikel=2&z=2022-10-25&g=2022-10-25).
 
 ##### Artikel 2. Instelling en taak
 
