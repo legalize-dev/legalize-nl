@@ -4,7 +4,7 @@ identifier: "BWBR0047361"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-12-19"
-last_updated: "2022-01-01"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047361"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Van een ouder als bedoeld in [artikel 1.1, eerste lid, van de Wet kinderopvang](
 
 ##### Artikel 2
 
-1. Om als gedupeerde ouder, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047361&artikel=1&z=2022-10-26&g=2022-01-01), te worden aangemerkt legt de ouder een kopie van de beschikking van de Belastingdienst/Toeslagen over waaruit dit blijkt.
+1. Om als gedupeerde ouder, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047361&artikel=1&z=2022-10-26&g=2022-10-26), te worden aangemerkt legt de ouder een kopie van de beschikking van de Belastingdienst/Toeslagen over waaruit dit blijkt.
 
 2. Indien de ouder op het moment van heffing van griffierecht nog geen beschikking als bedoeld in het eerste lid heeft ontvangen, legt de ouder een kopie van de bevestiging van de aanmelding bij de Belastingdienst/Toeslagen over. In dat geval wordt geen griffierecht geheven mits de beschikking alsnog wordt overgelegd voordat de rechter einduitspraak heeft gedaan.
 
