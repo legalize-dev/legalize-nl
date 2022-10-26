@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2022-10-13"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Besluit:
 
 9. De bevoegde autoriteit, bedoeld in artikel 5 duodecies, tweede lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Economische Zaken en Klimaat, de Minister voor Klimaat en Energie, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister van de Minister van Buitenlandse Zaken, de Staatssecretaris van Infrastructuur en Waterstaat of de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, elk voor het gebied waartoe hun competenties zich uitstrekken.
 
-10. De bevoegde autoriteit, bedoeld in artikel 5 quaterdecies, vijfde en zesde lid, en artikel 5 quindecies, tiende en elfde lid, van Verordening (EU) nr. 833/2014, is de Minister van Financiën of de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, elk voor het gebied waartoe hun competenties zich uitstrekken.
+10. De bevoegde autoriteit, bedoeld in artikel 5 quaterdecies, vijfde en zesde lid, en artikel 5 quindecies, tiende en elfde lid, van Verordening (EU) nr. 833/2014, is de Minister van Financiën, de Minister van Buitenlandse Zaken of de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, elk voor het gebied waartoe hun competenties zich uitstrekken.
 
 ##### Artikel 3
 
@@ -112,7 +112,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-10-13&g=2022-10-13) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2022-10-26&g=2022-10-26) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -128,7 +128,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2b
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Minister die het aangaat is, of zelfstandige bestuursorganen als bedoeld in [artikel 1 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=1) zijn, onverminderd de bepalingen terzake in bindende besluiten van organen van de Europese Unie of andere volkenrechtelijke organisaties, in afwijking van [artikel 10g van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10g) bevoegd om gegevens of inlichtingen verkregen bij de vervulling van de hem bij of krachtens enig wettelijk voorschrift opgedragen taken, te verstrekken aan Nederlandse of buitenlandse overheidsinstanties dan wel aan Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), tenzij:
+
+- a. het doel waarvoor de gegevens of inlichtingen zullen worden gebruikt onvoldoende bepaald is;
+
+- b. de verstrekking van de gegevens of inlichtingen zich niet zou verdragen met de Nederlandse wet of de openbare orde;
+
+- c. de vertrouwelijkheid van de gegevens of inlichtingen niet in voldoende mate is gewaarborgd;
+
+- d. de verstrekking van de gegevens of inlichtingen redelijkerwijs in strijd is of zou kunnen komen met de belangen die de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) beoogt te beschermen; of
+
+- e. onvoldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze worden verstrekt.
+
+2. De bevoegde autoriteiten, bedoeld in artikel 12 bis, derde lid, van [Verordening (EU) nr. 833/2014](32014R0833), en artikel 8, vierde lid, van [Verordening (EU) nr. 269/2014](32014R0269) zijn:
+
+- a. alle bevoegde autoriteiten die zijn aangewezen bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296);
+
+- b. alle toezichthouders en toezichthoudende ambtenaren die bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) belast zijn met het toezicht op de naleving van [Verordening (EU) nr. 269/2014](32014R0269) of [Verordening (EU) nr. 833/2014](32014R0833) of de bij of krachtens de Sanctiewet 1977 gestelde voorschriften; of
+
+- c. alle autoriteiten of beheerders van registers die bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) belast zijn met de uitvoering van [Verordening (EU) nr. 269/2014](32014R0269) en [Verordening (EU) nr. 833/2014](32014R0833).
 
 ##### Artikel 2c
 
