@@ -4,7 +4,7 @@ identifier: "BWBR0047359"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-10-26"
-last_updated: "2022-01-01"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047359"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Voor het jaar 2022 is voor de beheerskosten Wlz van de Wlz-uitvoerders en de Soc
 
 ##### Artikel 2
 
-Van het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047359&artikel=1&z=2022-10-26&g=2022-01-01) genoemd van € 16,195 miljoen is € 7,994 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), € 4,522 miljoen bestemd voor de overige bij of krachtens die wet geregelde taken van Wlz-uitvoerders en € 3,679 miljoen voor de Sociale verzekeringsbank.
+Van het bedrag in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047359&artikel=1&z=2022-10-26&g=2022-10-26) genoemd van € 16,195 miljoen is € 7,994 miljoen bestemd voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), € 4,522 miljoen bestemd voor de overige bij of krachtens die wet geregelde taken van Wlz-uitvoerders en € 3,679 miljoen voor de Sociale verzekeringsbank.
 
 ##### Artikel 3
 
