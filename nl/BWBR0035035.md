@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2021-11-11"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -58,21 +58,19 @@ Besluit:
 
 - a. goederen als bedoeld in het eerste lid die uitsluitend bestemd zijn voor de ondersteuning van, of voor gebruik door, de Multidimensionale Geïntegreerde Stabilisatiemissie van de Verenigde Naties in de Centraal-Afrikaanse Republiek (United Nations Multidimensional Integrated Stabilization Mission in the CAR – ‘MINUSCA’), de missies van de Europese Unie, de in de Centraal-Afrikaanse Republiek ingezette Franse troepen, alsmede andere troepen van lidstaten van de Verenigde Naties die opleiding en bijstand verstrekken, na kennisgeving van de transactie aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
 
-- b. goederen als bedoeld in het eerste lid die bestemd zijn voor Tsjadische of Sudanese troepen en uitsluitend voor gebruik in internationale patrouilles van de tripartiete strijdmacht die op 23 mei 2011 door de Centraal-Afrikaanse Republiek, Tsjaad en Sudan in Khartoem is opgericht om de grensgebieden beter te beveiligen in samenwerking met Minusca, mits de transactie vooraf is goedgekeurd door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
+- b. goederen als bedoeld in het eerste lid die bestemd zijn voor Tsjadische of Sudanese troepen en uitsluitend voor gebruik in internationale patrouilles van de tripartiete strijdmacht die op 23 mei 2011 door de Centraal-Afrikaanse Republiek, Tsjaad en Sudan in Khartoem is opgericht om de grensgebieden beter te beveiligen in samenwerking met Minusca, na kennisgeving van de transactie aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
 
 - c. beschermende kledij, waaronder kogelwerende vesten en militaire helmen, die door VN-personeel, personeel van de Europese Unie of haar lidstaten, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar de Centraal-Afrikaanse Republiek wordt uitgevoerd;
 
 - d. handvuurwapens en aanverwante uitrusting, uitsluitend bedoeld voor gebruik in internationaal geleide patrouilles ten behoeve van de beveiliging in het Sangha River Tri–national Protected Area alsmede voor gebruik door gewapende wildopzichters van het Chinko Project of het nationaal park Bamingui-Bangoran ter bestrijding van stropen, smokkel van ivoor en wapens, en ter bestrijding van andere activiteiten die in strijd zijn met de nationale wetten of internationale wettelijke verplichtingen van de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties;
 
-- e. wapens met een kaliber van 14,5 mm of minder en specifiek voor die wapens ontworpen munitie en componenten, militaire voertuigen zonder wapens en militaire voertuigen met daarop gemonteerde wapens met een kaliber van 14,5 mm of minder, alsmede reserveonderdelen daarvoor, raketgestuwde granaten en specifiek voor die wapens ontworpen munitie, mortieren met een kaliber van 60 mm en 82 mm en specifiek voor die wapens ontworpen munitie aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, met inbegrip van de civiele rechtshandhavende overheidsinstanties, in geval vorenbedoelde wapens, munitie, componenten en voertuigen uitsluitend bedoeld zijn ter ondersteuning van of voor gebruik in het kader van de hervorming van de veiligheidssector in de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
+- e. wapens en munitie, militaire voertuigen en militaire uitrusting, alsmede het bieden van daaraan gerelateerde steun, aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, met inbegrip van de civiele rechtshandhavende overheidsinstanties, in geval vorenbedoelde wapens, munitie, voertuigen of uitrusting bedoeld zijn ter ondersteuning van of voor gebruik in het kader van de hervorming van de veiligheidssector in de Centraal-Afrikaanse Republiek, na kennisgeving aan het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties.
 
 3. Het eerste lid is niet van toepassing in geval door het Comité, bedoeld in paragraaf 57 van Resolutie 2127 (2013) van de Veiligheidsraad van de Verenigde Naties, vooraf goedkeuring is verleend aan een levering, verkoop of overdracht van:
 
 - a. niet-dodelijke militaire uitrusting of aanverwante technische bijstand die uitsluitend bestemd is voor humanitaire of beschermende doeleinden;
 
-- b. andere wapens dan bedoeld in het tweede lid, onder e, of aanverwante dodelijke uitrusting aan de veiligheidstroepen van de Centraal-Afrikaanse Republiek, waaronder tevens begrepen de civiele rechtshandhavende onderheidsinstanties, die uitsluitend bestemd zijn ter ondersteuning van, of voor gebruik in het kader van de hervorming van de veiligheidssector in de Centraal-Afrikaanse Republiek;
-
-- c. wapens en aanverwant materieel, en aanverwante technische of financiële bijstand, met inbegrip van personeel.
+- b. wapens en aanverwant materieel, en aanverwante technische of financiële bijstand, met inbegrip van personeel.
 
 4. Het is verboden gewapende huurlingen te leveren aan entiteiten of personen in de Centraal-Afrikaanse Republiek of voor gebruik in de Centraal-Afrikaanse Republiek.
 
