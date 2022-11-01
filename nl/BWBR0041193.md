@@ -4,7 +4,7 @@ identifier: "BWBR0041193"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-02-04"
-last_updated: "2021-04-01"
+last_updated: "2022-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041193"
 soort: "AMvB"
@@ -148,7 +148,7 @@ In dit besluit wordt verstaan onder:
 
 - 2°. indien na uitputting van alle mogelijke middelen en op voorwaarde dat er geen gronden voor verdenking bestaan, geen van de personen, bedoeld in subonderdeel 1°, is achterhaald, of indien er enige twijfel bestaat of een persoon als bedoeld in subonderdeel 1° de uiteindelijke eigenaar is of zeggenschap heeft, dan wel de natuurlijke persoon is voor wiens rekening een transactie wordt verricht, de natuurlijke persoon of personen die behoort of behoren tot het hoger leidinggevend personeel van de personenvennootschap;
 
-- e. in het geval van een trust:
+- e. in het geval van een trust, de volgende natuurlijke personen:
 
 - 1°. de oprichter of oprichters;
 
@@ -156,7 +156,7 @@ In dit besluit wordt verstaan onder:
 
 - 3°. voor zover van toepassing, de protector of protectors;
 
-- 4°. de begunstigden, of voor zover de afzonderlijke personen die de begunstigden zijn van de trust niet kunnen worden bepaald, de groep van personen in wier belang de trust hoofdzakelijk is opgericht of werkzaam is; en
+- 4°. de begunstigden, of voor zover de afzonderlijke personen die de begunstigden zijn van de trust niet kunnen worden bepaald dan wel het vijfde lid, tweede volzin van toepassing is, de groep van personen in wier belang de trust hoofdzakelijk is opgericht of werkzaam is; en
 
 - 5°. elke andere natuurlijke persoon die door directe of indirecte eigendom of via andere middelen uiteindelijke zeggenschap over de trust uitoefent.
 
@@ -166,15 +166,15 @@ In dit besluit wordt verstaan onder:
 
 4. Het eerste lid, onderdeel d, is van overeenkomstige toepassing op rederijen, Europees economische samenwerkingsverbanden of andere juridische entiteiten vergelijkbaar met een personenvennootschap.
 
-5. Het eerste lid, onderdeel e, is van overeenkomstige toepassing op andere juridische constructies vergelijkbaar met een trust.
+5. Het eerste lid, onderdeel e, is van overeenkomstige toepassing op andere juridische constructies vergelijkbaar met een trust. In geval van een fonds voor gemene rekening dat wordt aangeboden aan honderdvijftig personen of meer en wordt beheerd door een beheerder waaraan een vergunning als bedoeld in [artikel 2:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) of [artikel 2:69b, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b) is verleend, wordt als uiteindelijk belanghebbende in de zin van het eerste lid, onderdeel e, onder 4°, aangemerkt de groep van natuurlijke personen in wier belang dit fonds voor gemene rekening hoofdzakelijk is opgericht of werkzaam is.
 
 6. Voor de toepassing van het eerste lid wordt onder hoger leidinggevend personeel uitsluitend verstaan: elke bestuurder in de zin van [artikel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=9), of, in het geval van een personenvennootschap, elke vennoot, met uitzondering van een vennoot bij wijze van geldschieting als bedoeld in [artikel 19, eerste lid, van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=19).
 
-7. Het eerste lid, onderdeel e, en het vijfde lid zijn niet van toepassing op de personen die op grond van [artikel 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=10a) als uiteindelijk belanghebbenden moeten worden aangemerkt.
+7. Het eerste lid, onderdelen a, b, c en d, het tweede, derde, vierde en zesde lid, zijn van overeenkomstige toepassing op een juridische entiteit die is aangewezen als uiteindelijk belanghebbende als bedoeld in het eerste lid, onderdeel e.
 
 ##### Artikel 4
 
-1. De indicatoren, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15), zijn vastgesteld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=1&z=2021-04-01&g=2021-04-01) bij dit besluit.
+1. De indicatoren, bedoeld in [artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15), zijn vastgesteld in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=1&z=2022-11-01&g=2022-11-01) bij dit besluit.
 
 2. Voor bijkantoren in Nederland van een bank of andere financiële onderneming met zetel buiten Nederland als bedoeld in [artikel 1a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), gelden de indicatoren die van toepassing zijn voor een bank of het type financiële onderneming waarvan het bijkantoor deel uitmaakt.
 
@@ -184,11 +184,11 @@ De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoe
 
 ##### Artikel 6
 
-De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=5&z=2021-04-01&g=2021-04-01), in ieder geval de antecedenten genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2021-04-01&g=2021-04-01) in aanmerking.
+De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=5&z=2022-11-01&g=2022-11-01), in ieder geval de antecedenten genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2022-11-01&g=2022-11-01) in aanmerking.
 
 ##### Artikel 7
 
-1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=5&z=2021-04-01&g=2021-04-01) bedoelde voornemens, handelingen en antecedenten op grond van:
+1. De Nederlandsche Bank verkrijgt inzicht in de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=5&z=2022-11-01&g=2022-11-01) bedoelde voornemens, handelingen en antecedenten op grond van:
 
 - a. door betrokkene verstrekte gegevens en inlichtingen;
 
@@ -224,15 +224,15 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in [artikel 5](https://
 
 1. De betrouwbaarheid van de betrokkene staat niet buiten twijfel indien:
 
-- a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2021-04-01&g=2021-04-01), waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;
+- a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2022-11-01&g=2022-11-01), waarbij sinds het onherroepelijk worden van de uitspraak minder dan acht jaren zijn verstreken;
 
-- b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2021-04-01&g=2021-04-01), waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;
+- b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2022-11-01&g=2022-11-01), waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;
 
 - c. deze veroordeeld is terzake van een overtreding van [artikel 69 van de Algemene wet inzake de rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=69) of [artikel 65 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=65), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of
 
-- d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit, genoemd in onderdeel 5 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2021-04-01&g=2021-04-01), en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.
+- d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit, genoemd in onderdeel 5 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&bijlage=2&z=2022-11-01&g=2022-11-01), en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.
 
-2. De Nederlandsche Bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=9&z=2021-04-01&g=2021-04-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
+2. De Nederlandsche Bank kan op grond van de omstandigheden of belangen, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=9&z=2022-11-01&g=2022-11-01), afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.
 
 ##### Artikel 9
 
@@ -408,7 +408,7 @@ Het ligt in de rede dat transacties die in verband met witwassen of financieren 
 
 Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
 
-### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2021-04-01&g=2021-04-01)
+### 2. Overige strafrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2022-11-01&g=2022-11-01)
 
 ### 2.1. Veroordelingen
 
@@ -450,7 +450,7 @@ Onder al dan niet voorwaardelijk sepot, niet verdere vervolging, vrijspraak of o
 
 Andere feiten of omstandigheden die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van de betrouwbaarheid van betrokkene, zoals blijkend uit door tot de opsporing van strafbare feiten bevoegde ambtenaren opgemaakte processen-verbaal of rapporten die erop wijzen dat betrokkene betrokken is (geweest) bij een of meer van de onder 2.1 genoemde strafbare feiten. Onder processen-verbaal of rapporten wordt ook verstaan soortgelijke documenten met gelijke bewijskracht, opgemaakt door tot de opsporing van strafbare feiten bevoegde ambtenaren in het buitenland ter zake van daar geldende strafbepalingen, vergelijkbaar met de onder 2.1 genoemde.
 
-### 3. Financiële antecedenten als bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2021-04-01&g=2021-04-01)
+### 3. Financiële antecedenten als bedoeld in [artikel 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2022-11-01&g=2022-11-01)
 
 ### 3.1. Persoonlijk
 
@@ -460,7 +460,7 @@ Andere feiten of omstandigheden die redelijkerwijs voor de Nederlandsche Bank va
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 4. Toezichtantecedenten als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2021-04-01&g=2021-04-01)
+### 4. Toezichtantecedenten als bedoeld in [artikel 6, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2022-11-01&g=2022-11-01)
 
 ### 4.1. Toezichtantecedenten
 
@@ -468,7 +468,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen ter zake waarvan in Nederlandse of buitenlandse financiële toezichtswetgeving regels zijn gesteld, welke gedraging of gedragingen die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2021-04-01&g=2021-04-01)
+### 5. Fiscaal bestuursrechtelijke antecedenten als bedoeld in [artikel 6, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2022-11-01&g=2022-11-01)
 
 ### 5.1. Persoonlijk
 
@@ -482,6 +482,6 @@ Aan de huidige of één van de voormalige werkgevers of enige vennootschap of re
 
 Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor de Nederlandsche Bank van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
 
-### 6. Overige antecedenten als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2021-04-01&g=2021-04-01)
+### 6. Overige antecedenten als bedoeld in [artikel 6, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&paragraaf=3&artikel=6&z=2022-11-01&g=2022-11-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
