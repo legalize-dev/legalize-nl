@@ -4,7 +4,7 @@ identifier: "BWBR0038301"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-11-02"
-last_updated: "2020-06-05"
+last_updated: "2022-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038301"
 soort: "ministeriele-regeling"
@@ -58,9 +58,9 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft tot taak:
 
-- a. de minister een advies te geven over het aanvaarden of vervullen door een kandidaat-voorzitter of een kandidaat-lid van het Huis van nevenfuncties die ongewenst zijn met het oog op een goede vervulling van hun voorziene functie in het bestuur van het Huis of de handhaving van hun onafhankelijkheid of van het vertrouwen daarin;
+- a. de minister een advies te geven over het aanvaarden of vervullen door een kandidaat-voorzitter of een kandidaat-lid van het Huis van nevenfuncties met het oog op een goede vervulling van hun voorziene functie in het bestuur van het Huis of de handhaving van hun onafhankelijkheid of van het vertrouwen daarin;
 
-- b. zittende leden van het Huis een bindend advies te geven over het aanvaarden of vervullen van nevenfuncties die ongewenst zijn met het oog op een goede vervulling van hun functie in het bestuur van het Huis of de handhaving van hun onafhankelijkheid of van het vertrouwen daarin - een afschrift van dit advies wordt aan de minister ter beschikking gesteld.
+- b. zittende leden van het Huis een bindend advies te geven over het aanvaarden van nevenfuncties met het oog op een goede vervulling van hun functie in het bestuur van het Huis of de handhaving van hun onafhankelijkheid of van het vertrouwen daarin – een afschrift van dit advies wordt onverwijld aan de minister ter beschikking gesteld.
 
 3. De commissie komt bijeen zo vaak als nodig is voor de uitvoering van haar werkzaamheden.
 
@@ -74,19 +74,23 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Benoeming
 
-Met ingang van 1 juli 2020 worden voor een periode van ten hoogste twee jaar tot lid van de commissie benoemd:
+1. Met ingang van 1 november 2022 worden tot leden van de commissie benoemd:
 
-- a. de heer K. van der Steenhoven, tevens voorzitter,
+- a. de heer J.G. Pot, tevens voorzitter;
 
-- b. mevrouw S.C. Bleker-van Eyk,
+- b. mevrouw D.J.M. Corbey;
 
-- c. de heer H. Brouwer,
+- c. de heer T. Koklu; en
 
-- d. de heer T.H.J. Joustra.
+- d. mevrouw W. Slingerland.
+
+2. De leden worden benoemd voor de duur van vier jaar.
 
 ##### Artikel 5. Vergoeding
 
-De leden zien af van de vergoeding, bedoeld in [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
+1. Aan de leden van de commissie wordt, met uitzondering van de voorzitter, een vergoeding per vergadering toegekend ter hoogte van 3% van het maximum van salarisschaal 18 conform de laatstelijk afgesloten CAO Rijk.
+
+2. Het lid dat optreedt als voorzitter van de commissie ontvangt een vergoeding per vergadering van 130% van de vergoeding, bedoeld in het eerste lid.
 
 ##### Artikel 6. Inwerkingtreding
 
