@@ -4,7 +4,7 @@ identifier: "BWBR0045790"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-02-11"
-last_updated: "2021-11-26"
+last_updated: "2022-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045790"
 soort: "zbo"
@@ -66,9 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - h). **EBA:** de Europese Bankenautoriteit (European Banking Authority).
 
-##### Artikel 1:2. – toepassingsbereik van deze regeling
+##### Artikel 1:2
 
-Voor de toepassing van deze regeling wordt onder beheerder verstaan: een beheerder van een beleggingsinstelling of een beheerder van een icbe die een activiteit verricht of een beleggingsdienst verleent als bedoeld in [artikel 2:67a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67a), respectievelijk [artikel 2:69c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69c).
+1. Voor de toepassing van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&z=2022-11-04&g=2022-11-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=3&z=2022-11-04&g=2022-11-04) van deze regeling wordt onder beheerder verstaan: een beheerder van een beleggingsinstelling of een beheerder van een icbe die een activiteit verricht of een beleggingsdienst verleent als bedoeld in [artikel 2:67a, tweede lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:67a), respectievelijk [artikel 2:69c, tweede lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69c).
+
+2. Voor de toepassing van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=3&z=2022-11-04&g=2022-11-04) van deze regeling wordt onder beleggingsonderneming verstaan: een beleggingsonderneming in de zin van de richtlijn prudentieel toezicht beleggingsondernemingen als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
 ### Hoofdstuk 2. – Kapitaaleisen voor beheerders van beleggingsinstellingen en beheerders van een icbe die tevens beleggingsdiensten mogen verlenen
 
@@ -80,11 +82,11 @@ Op beheerders is het kapitaalvereiste van toepassing dat de hoogste kapitaaleis 
 
 1. Het kapitaalvereiste onder de IFR bedraagt het hoogste van de volgende elementen:
 
-- a). het vastekostenvereiste, berekend overeenkomstig [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:3&z=2021-11-26&g=2021-11-26);
+- a). het vastekostenvereiste, berekend overeenkomstig [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:3&z=2022-11-04&g=2022-11-04);
 
-- b). het permanente minimumkapitaalvereiste overeenkomstig [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:4&z=2021-11-26&g=2021-11-26);
+- b). het permanente minimumkapitaalvereiste overeenkomstig [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:4&z=2022-11-04&g=2022-11-04);
 
-- c). het K–factor-vereiste, berekend overeenkomstig [artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:5&z=2021-11-26&g=2021-11-26).
+- c). het K–factor-vereiste, berekend overeenkomstig [artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045790&hoofdstuk=2&artikel=2:5&z=2022-11-04&g=2022-11-04).
 
 2. In afwijking van lid 1 bedraagt het kapitaalvereiste onder de IFR, indien een beheerder aan de in artikel 12, lid 1, IFR bepaalde voorwaarden voldoet om als kleine en niet-verweven beleggingsonderneming aangemerkt te worden, het hoogste van de in de lid 1, punten a) en b), bepaalde bedragen.
 
@@ -123,5 +125,27 @@ Deze regeling treedt inwerking op het tijdstip dat [artikel I, onderdeel N, van 
 ##### Artikel 4:2
 
 Deze regeling wordt aangehaald als: Regeling specifieke bepalingen IFR en IFD.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3:1. – ICLAAP verplichting voor kleine en niet-verweven beleggingsondernemingen
+
+1. Een beleggingsonderneming die kwalificeert als kleine en niet-verweven beleggingsonderneming als bedoeld in artikel 12, eerste lid, van de IFR en een beheerder die aan de in artikel 12, eerste lid, IFR bepaalde voorwaarden voldoet, voldoen aan [artikel 24a1, eerste lid, van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=24a1).
+
+2. Het eerste lid is niet van toepassing op een beleggingsonderneming die kwalificeert als kleine en niet-verweven beleggingsonderneming als bedoeld in artikel 12, eerste lid, van de IFR of een beheerder die aan de in artikel 12, eerste lid, IFR bepaalde voorwaarden voldoet, indien zij uitsluitend beleggingsdiensten als bedoeld in onderdelen a of d van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) verlenen.
+
+##### Artikel 3:2. – Aanmerking deltaformule uit de CRR als passend model voor de berekening van de delta van opties en swaptions
+
+1. De selectie van deltaformules en bijbehorende parameters gegeven in artikel 279 bis CRR is in elk geval goedgekeurd als een passend model dat door beleggingsondernemingen mag worden toegepast voor de berekening van de delta voor toezichtdoeleinden van opties en swaptions als bedoeld in artikel 29, zesde lid, van de IFR en voor de berekening van de delta in artikel 329(1) CRR.
+
+2. Wanneer een beleggingsonderneming gebruik maakt van deltaformules en bijbehorende parameters gegeven in artikel 279 bis CRR past zij, voor zover relevant, de Gedelegeerde [Verordening (EU) 2021/931](32831R2021) van de Europese Commissie toe.
+
+3. De deltaformule en de bijbehorende parameters in artikel 279 bis CRR mogen niet gebruikt worden indien deze niet tot een uitkomst leiden of leiden tot een berekende delta die geen correcte benadering is van de verandering van de prijs van de optie door de prijs van de onderliggende waarde.
+
+##### Artikel 3:3. – Notionele eigenvermogensvereisten bij toepassing van artikel 8, vierde lid, IFR
+
+Voor de toepassing van artikel 8, vierde lid, IFR is in elk geval goedgekeurd dat de notionele eigenvermogensvereisten voor dochterondernemingen die in derde landen gevestigd zijn, als bedoeld in de tweede alinea van artikel 8, vierde lid, IFR, de eigenvermogensvereisten zijn die op individuele basis ingevolge de IFR op deze dochters van toepassing zouden zijn geweest indien zij hun zetel zouden hebben in een lidstaat.
+
+### Hoofdstuk 4. – Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
