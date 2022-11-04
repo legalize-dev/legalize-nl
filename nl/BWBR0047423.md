@@ -4,7 +4,7 @@ identifier: "BWBR0047423"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-11-04"
-last_updated: "2022-01-01"
+last_updated: "2022-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047423"
 soort: "ministeriele-regeling"
@@ -73,11 +73,11 @@ De directeur Communicatie laat zich bij de uitvoering van zijn taken, genoemd in
 
 ##### Artikel 3a. Ondermandaat, -volmacht en -machtiging Plv. directeur Communicatie
 
-Aan de plv. directeur van de directie Communicatie wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die ingevolge van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047423&artikel=3&z=2022-11-04&g=2022-01-01) tot zijn werkterrein behoren.
+Aan de plv. directeur van de directie Communicatie wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die ingevolge van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047423&artikel=3&z=2022-11-04&g=2022-11-04) tot zijn werkterrein behoren.
 
 ##### Artikel 4. Uitzondering op verleende bevoegdheden
 
-De functionaris, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0047423&artikel=3a&z=2022-11-04&g=2022-01-01) maakt geen gebruik van de aan hem verleende bevoegdheden in gevallen waarin de rechtshandeling of andere handeling van een zodanig gewicht is dat deze redelijkerwijs door de directeur Communicatie dient te worden verricht.
+De functionaris, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0047423&artikel=3a&z=2022-11-04&g=2022-11-04) maakt geen gebruik van de aan hem verleende bevoegdheden in gevallen waarin de rechtshandeling of andere handeling van een zodanig gewicht is dat deze redelijkerwijs door de directeur Communicatie dient te worden verricht.
 
 ##### Artikel 5. Ondertekening krachtens mandaat, volmacht of machtiging
 
