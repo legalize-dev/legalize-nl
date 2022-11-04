@@ -4,7 +4,7 @@ identifier: "BWBR0041548"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2019-01-01"
+last_updated: "2022-11-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041548"
 soort: "wet"
@@ -66,7 +66,7 @@ De [Wet bekostiging financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. [Bijlage 2 bij de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2), zoals die wet luidde op de dag voor de datum van inwerkingtreding van deze wet, blijft van toepassing op de verantwoording, bedoeld in het eerste lid, onderdeel b.
 
-4. In afwijking van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2019-01-01&g=2019-01-01), geldt voor de begroting van de Nederlandsche Bank voor het jaar 2020 dat het maximum van de begroting niet hoger is dan het kostenkader vermeerdert met de kosten voor de uitvoering van:
+4. In afwijking van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2022-11-04&g=2022-11-04), geldt voor de begroting van de Nederlandsche Bank voor het jaar 2020 dat het maximum van de begroting niet hoger is dan het kostenkader vermeerdert met de kosten voor de uitvoering van:
 
 - a. de afwikkeling van banken en beleggingsondernemingen, bedoeld in [hoofdstuk 3A.1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=3a.1), en Verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225);
 
@@ -90,9 +90,9 @@ Wijzigt de Wet bekostiging financieel toezicht.
 
 ##### Artikel 22. Inwerkingtreding
 
-1. Deze wet treedt, met uitzondering van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=4&artikel=21&z=2019-01-01&g=2019-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet treedt, met uitzondering van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=4&artikel=21&z=2022-11-04&g=2022-11-04), in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=4&artikel=21&z=2019-01-01&g=2019-01-01) treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2018.
+2. [Artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=4&artikel=21&z=2022-11-04&g=2022-11-04) treedt, onder toepassing van [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2018.
 
 ##### Artikel 23. Citeertitel
 
@@ -142,6 +142,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 2°. de titels III, IV en V van verordening (EU) nr. 648/2012 van het Europees Parlement en de Raad van 4 juli 2012 betreffende otc-derivaten, centrale tegenpartijen en transactieregisters (PbEU 2012, L 201);
 
+- 3°. [Verordening (EU) 2021/23](31923R2021) van het Europees Parlement en de Raad van 16 december 2020 betreffende een kader voor het herstel en de afwikkeling van centrale tegenpartijen en tot wijziging van de [Verordeningen (EU) nr. 1095/2010](32010R1095), [(EU) nr. 648/2012](32012R0648), [(EU) nr. 600/2014](32014R0600), [(EU) nr. 806/2014](32014R0806) en [(EU) 2015/2365](32365R2015), en de [Richtlijnen 2002/47/EG](32002L0047), [2004/25/EG](32004L0025), [2007/36/EG](32007L0036), [2014/59](32014L0059)/EU en (EU) [2017/1132](32017L1132) (PbEU 2021, L 22);
+
 - d. de taken op grond van de [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515).
 
 #### § 2.1. Begroting
@@ -172,7 +174,7 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 ##### Artikel 5. Inrichting begroting
 
-1. Voor de toepassing van [artikel 27, vierde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27) wordt met betrekking tot de begroting van de Nederlandsche Bank voor «laatst goedgekeurde jaarrekening» gelezen: laatst goedgekeurde verantwoording als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2019-01-01&g=2019-01-01) van de Wet bekostiging financieel toezicht 2019.
+1. Voor de toepassing van [artikel 27, vierde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27) wordt met betrekking tot de begroting van de Nederlandsche Bank voor «laatst goedgekeurde jaarrekening» gelezen: laatst goedgekeurde verantwoording als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-11-04&g=2022-11-04) van de Wet bekostiging financieel toezicht 2019.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels over de inrichting van de begroting worden gesteld.
 
@@ -188,7 +190,7 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 ##### Artikel 7. Bijzondere bepalingen
 
-1. Bij de toepassing van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) en [35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) wordt het afleggen van rekening en verantwoording voor de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), door de Nederlandsche Bank aangeduid als «verantwoording» in plaats van «jaarrekening».
+1. Bij de toepassing van de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) en [35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) wordt het afleggen van rekening en verantwoording voor de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=1&artikel=2&z=2022-11-04&g=2022-11-04), door de Nederlandsche Bank aangeduid als «verantwoording» in plaats van «jaarrekening».
 
 2. In afwijking van [artikel 35, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) gaat de jaarrekening van de Autoriteit Financiële Markten vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de Autoriteit Financiële Markten aangewezen registeraccountant of Accountant-administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in [artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36), die niet werkzaam is bij of verbonden is aan een accountantsorganisatie.
 
@@ -242,7 +244,7 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 ##### Artikel 13. Vergoeding kosten toezichthouders
 
-1. De kosten van de toezichthouder voor de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), worden ten laste gebracht van de onder toezicht staande personen en de personen voor wie de toezichthouder een eenmalige handeling verricht.
+1. De kosten van de toezichthouder voor de uitvoering van de taken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=1&artikel=2&z=2022-11-04&g=2022-11-04), worden ten laste gebracht van de onder toezicht staande personen en de personen voor wie de toezichthouder een eenmalige handeling verricht.
 
 2. De kosten worden bepaald en ten laste gebracht op basis van een systematiek met de volgende uitgangspunten:
 
@@ -274,9 +276,9 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 
 - b. het exploitatiesaldo over het voorafgaande jaar, verminderd met:
 
-- 1°. het deel van het exploitatiesaldo, bedoeld in [artikel 8, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2019-01-01&g=2019-01-01); en
+- 1°. het deel van het exploitatiesaldo, bedoeld in [artikel 8, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2022-11-04&g=2022-11-04); en
 
-- 2°. de aan de Staat toekomende opbrengsten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2019-01-01&g=2019-01-01).
+- 2°. de aan de Staat toekomende opbrengsten, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0041548&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2022-11-04&g=2022-11-04).
 
 3. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de personen die, gelet op de aard en omvang van het toezicht, voor de toepassing van deze wet worden aangemerkt als onder toezicht staand alsmede over de indeling van deze personen in categorieën.
 
@@ -295,6 +297,22 @@ De toezichthouder zendt de begroting, bedoeld in [artikel 26 van de Kaderwet zel
 1. De toezichthouder kan aan de betrokken financiële onderneming een bedrag in rekening brengen ter vergoeding van de kosten die hij maakt voor de toepassing van de [artikelen 1:76](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76) en [1:76a van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:76a).
 
 2. De hoogte van het bedrag, bedoeld in het eerste lid, wordt per geval vastgesteld door de toezichthouder en is gebaseerd op de voor het toezicht op de desbetreffende financiële onderneming werkelijk gemaakte kosten.
+
+### Hoofdstuk 4. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 8a. Reserve
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 2.3. Overige bepalingen
+
+##### Artikel 12a. Spreiding exploitatiesaldo
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 3. Vergoeding van de kosten
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
