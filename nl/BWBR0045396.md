@@ -4,7 +4,7 @@ identifier: "BWBR0045396"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2021-07-15"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045396"
 soort: "ministeriele-regeling"
@@ -40,35 +40,27 @@ Gelet op [artikel 49f van de Algemene wet inkomensafhankelijke regelingen](https
 
 Besluit:
 
-##### Artikel 1. Reikwijdte
+##### Artikel 1. Grondslag
 
-Deze regeling geeft uitvoering aan [artikel 49f van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49f).
+Deze regeling berust op [artikel 5.1 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.1).
 
 ##### Artikel 2. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **commissie:** Oudercommissie kinderopvangtoeslag;
+- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045396&artikel=3&z=2022-11-05&g=2022-11-05);
 
-- b. **hersteloperatie:** het recht doen aan ouders die gedupeerd zijn door de handelwijze van de Belastingdienst/Toeslagen bij de uitvoering van de kinderopvangtoeslag;
+- **minister:** Minister van Financiën;
 
-- c. **lid:** ouder die lid is van de commissie en die wordt geholpen in het kader van de hersteloperatie;
+- **ministerie:** Ministerie van Financiën;
 
-- d. **ministerie:** Ministerie van Financiën;
+- **wet:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
-- e. **voorzitter:** de voorzitter van de commissie;
+##### Artikel 3. Instelling en overleg met de minister
 
-- f. **wet:** [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472).
+1. Er is een Oudercommissie kinderopvangtoeslag.
 
-##### Artikel 3. Instelling en taak
-
-1. Er wordt een commissie ingesteld op grond van [artikel 49f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49f).
-
-2. De commissie heeft tot taak:
-
-- a. het gevraagd en ongevraagd adviseren van Onze Minister en de Belastingdienst/Toeslagen over de uitvoering, de juridische aspecten, het beleid en de communicatie van de hersteloperatie;
-
-- b. het overleggen met Onze Minister over de hersteloperatie.
+2. Ten behoeve van het uitvoeren van de taak van de commissie, bedoeld in [artikel 5.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.1), heeft zij overleg met de minister, hetzij op initiatief van de commissie, hetzij op initiatief van de minister.
 
 ##### Artikel 4. Instellingsduur
 
@@ -76,23 +68,23 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 ##### Artikel 5. Samenstelling, benoeming, ontheffing en werkwijze
 
-1. De commissie bestaat uit een voorzitter en ten minste acht leden.
+1. De commissie bestaat uit gedupeerde aanvragers van een kinderopvangtoeslag of hun partners en heeft een voorzitter en ten minste acht leden.
 
 2. De voorzitter en de leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
-3. De voorzitter en de leden worden door Onze Minister benoemd. De benoeming geschiedt voor de duur van de commissie.
+3. De voorzitter en de leden worden door de minister benoemd. De benoeming geschiedt voor de duur van deze regeling.
 
-4. De voorzitter en de leden worden op eigen verzoek door Onze Minister ontheven van het lidmaatschap van de commissie.
+4. De voorzitter en de leden worden op eigen verzoek door de minister ontheven van het lidmaatschap van de commissie.
 
-5. Bij tussentijds vertrek van de voorzitter benoemt Onze Minister een andere voorzitter.
+5. Bij tussentijds vertrek van de voorzitter benoemt de minister een andere voorzitter.
 
-6. Bij tussentijds vertrek van een lid kan Onze Minister een ander lid benoemen.
+6. Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.
 
 7. De commissie stelt haar eigen werkwijze vast.
 
 ##### Artikel 6. Secretariaat van de commissie
 
-1. Onze Minister voorziet in het secretariaat van de commissie.
+1. De minister voorziet in het secretariaat van de commissie.
 
 2. Het secretariaat van de commissie is voor de uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitter van de commissie.
 
@@ -100,9 +92,9 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 ##### Artikel 7. Behandeling adviezen
 
-1. Onze Minister stelt een reactie op naar aanleiding van een advies van de commissie. Deze reactie wordt naar de commissie gezonden.
+1. De minister stelt een reactie op naar aanleiding van een advies van de commissie. Deze reactie wordt naar de commissie gezonden.
 
-2. De adviezen van de commissie en de reactie van Onze Minister daarop worden gepubliceerd op de website van de Belastingdienst/Toeslagen.
+2. De adviezen van de commissie en de reactie van de minister daarop worden gepubliceerd op de website van de Belastingdienst/Toeslagen.
 
 ##### Artikel 8. Archiefbescheiden
 
@@ -112,11 +104,7 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 ##### Artikel 9. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 7 juli 2020.
-
-2. Deze regeling vervalt met ingang van 1 juli 2024.
-
-3. Onze Minister kan de datum, bedoeld in het tweede lid, bij ministeriële regeling wijzigen in een na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien de werkzaamheden, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045396&artikel=3&z=2021-07-15&g=2021-07-15), voltooid zijn.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 7 juli 2020.
 
 ##### Artikel 10. Citeertitel
 
