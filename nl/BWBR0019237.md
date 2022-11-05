@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -237,7 +237,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2022-01-01&g=2022-01-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2022-11-05&g=2022-11-05), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -257,8 +257,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De Belastingdienst/Toeslagen herziet onder bijzondere omstandigheden, onder overeenkomstige toepassing van het eerste lid, onderdelen a tot en met c, in het voordeel van de belanghebbende een beschikking tot terugvordering die onherroepelijk is geworden voor zover de nadelige gevolgen van die beschikking onevenredig zijn in verhouding tot de met die beschikking te dienen doelen.
 
-3. Met betrekking tot de toepassing van het tweede lid op de kinderopvangtoeslag is [artikel 9b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9b&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9bis. Overgangsrecht vermogenstoets letselschade-uitkeringen
@@ -269,7 +267,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2022-11-05&g=2022-11-05), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -285,33 +283,37 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. [Artikel 7, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), [artikel 2a, eerste lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2a) of [artikel 1, vierde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1) blijft buiten toepassing indien wel aanspraak op huurtoeslag, zorgtoeslag, onderscheidenlijk kindgebonden budget, zou bestaan indien ten aanzien van de belanghebbende, zijn partner of een medebewoner de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), zou worden verminderd met de waarde van een bezitting als bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001 die is verkregen als gevolg van:
 
-- a. een toegekende compensatie als bedoeld in de [Compensatieregeling CAF 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042854);
+- a. het verlagen of op nihil vaststellen van een terug te vorderen bedrag kinderopvangtoeslag in bijzondere omstandigheden vanwege de onevenredigheid van de nadelige gevolgen van een voor 23 oktober 2019 genomen beschikking tot vaststelling of tot terugvordering kinderopvangtoeslag in verhouding tot de met die beschikking te dienen doelen;
 
-- b. een toegekende compensatie, extra compensatie, aanvullende compensatie voor de werkelijke schade of een extra aanvullende compensatie voor de werkelijke schade als bedoeld in het [Besluit Compensatieregeling CAF 11 of vergelijkbare (CAF-)zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0044059);
+- b. een herziening van een op 23 oktober 2019 onherroepelijk vaststaande beschikking tot terugvordering kinderopvangtoeslag, in bijzondere omstandigheden vanwege de onevenredigheid van de nadelige gevolgen van deze beschikking in verhouding tot de met de beschikking te dienen doelen, indien die beschikking tot terugvordering betrekking heeft op een berekeningsjaar waarover ten minste € 1.500 aan kinderopvangtoeslag is teruggevorderd;
 
-- c. een matiging of herziening van een terugvorderingsbeschikking kinderopvangtoeslag die uiterlijk op 23 oktober 2019 onherroepelijk is geworden op grond van [onderdeel 2.1 van het Verzamelbesluit Toeslagen](onbekend);
+- c. een herziening van een op 23 oktober 2019 onherroepelijk vaststaande beschikking tot toekenning kinderopvangtoeslag waarbij het recht op kinderopvangtoeslag wordt vastgesteld naar rato van het bedrag van de kosten van kinderopvang waarvan aannemelijk is dat het tijdig is betaald, indien de naar rato vaststelling betrekking heeft op een berekeningsjaar waarover het recht op kinderopvangtoeslag met ten minste € 1.500 is verlaagd;
 
-- d. een herziening van een toekenningsbeschikking die uiterlijk op 23 oktober 2019 onherroepelijk is geworden of een toegekende kinderopvangtoeslag over een berekeningsjaar dat ligt voor 2019 op grond van [onderdeel 3.1 van het Verzamelbesluit Toeslagen](onbekend);
+- d. een toegekende hardheidstegemoetkoming als bedoeld in artikel 49, eerste lid, van de wet, zoals dat luidde op 25 januari 2021;
 
-- e. een toegekende hardheidstegemoetkoming als bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49);
+- e. een toegekende bijzondere tegemoetkoming als bedoeld in [artikel 2.9 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9);
 
-- f. een toegekende bijzondere tegemoetkoming als bedoeld in [artikel 49a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49a);
+- f. een toegekende compensatie of aanvullende compensatie als bedoeld in [artikel 2.1, eerste of derde lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1);
 
-- g. een toegekende compensatie als bedoeld in [artikel 49b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49b);
+- g. een toegekende O/GS-tegemoetkoming als bedoeld in [artikel 2.6, eerste lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6);
 
-- h. een toegekende O/GS-tegemoetkoming als bedoeld in [artikel 49c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49c);
+- h. een toegekende aanvullende tegemoetkoming voor de werkelijke schade als bedoeld in [artikel 2.6, derde lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6);
 
-- i. een toegekende aanvullende tegemoetkoming voor de werkelijke schade als bedoeld in het [Besluit aanvullende tegemoetkoming werkelijke schade bij O/GS](https://wetten.overheid.nl/jci1.3:c:BWBR0044447);
+- i. een toegekende eenmalige tegemoetkoming als bedoeld in [artikel 49g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49g), zoals dat luidde op 25 januari 2021;
 
-- j. een toegekende eenmalige tegemoetkoming als bedoeld in [artikel 49g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49g);
+- j. een toegekende noodvoorziening als bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.8), of [artikel 2.18, eerste lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.18);
 
-- k. een toegekende noodvoorziening als bedoeld in het [Besluit noodvoorziening kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0044164) of in het [Besluit noodvoorziening toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044497);
+- k. een toegekend forfaitair bedrag als bedoeld in [artikel 2.7, eerste lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), voor zover dat bedrag niet is toegekend aan de partner of voormalige partner van de belanghebbende;
 
-- l. een toegekend forfaitair bedrag als bedoeld in [onderdeel 2.2 van het Besluit uitbreiding Catshuisregeling Kinderopvangtoeslag](onbekend), voor zover dat bedrag niet is toegekend aan de partner of voormalige partner van de belanghebbende;
+- l. een compensatie naar aanleiding van hardheid als bedoeld in [artikel 2.5 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.5);
 
-- m. een compensatie naar aanleiding van hardheid als bedoeld in [onderdeel 5 van het Besluit uitbreiding Catshuisregeling Kinderopvangtoeslag](onbekend).
+- m. een toegekend bedrag als bedoeld in [artikel 2.7, tweede lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7);
 
-2. Op verzoek van de belanghebbende is het eerste lid van overeenkomstige toepassing ten aanzien van een bezitting als bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) die is verkregen als gevolg van de feitelijke toebedeling van een aan de voormalige partner van de belanghebbende toegekend forfaitair bedrag aan de belanghebbende, bedoeld in [onderdeel 2.2, tweede alinea, van het Besluit uitbreiding Catshuisregeling Kinderopvangtoeslag](onbekend).
+- n. een tegemoetkoming als bedoeld in [artikel 2.12 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.12);
+
+- o. een tegemoetkoming op grond van [afdeling 2.5 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&afdeling=2.5).
+
+2. Op verzoek van de belanghebbende is het eerste lid van overeenkomstige toepassing ten aanzien van een bezitting als bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3) die is verkregen als gevolg van de feitelijke toebedeling van een aan de voormalige partner van de belanghebbende toegekend forfaitair bedrag als bedoeld in [artikel 2.7, eerste of tweede lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), aan de belanghebbende.
 
 3. De vermogenstoetsuitzonderingen, bedoeld in het eerste en tweede lid, gelden uitsluitend over de eerste drie berekeningsjaren volgend op het kalenderjaar waarin de bezitting verkregen werd. Een verzoek als bedoeld in het tweede lid wordt geacht mede te zijn gedaan voor de op het berekeningsjaar waarop het verzoek betrekking heeft volgende berekeningsjaren waarover de vermogenstoetsuitzonderingen kunnen gelden.
 
@@ -321,23 +323,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9b. Hardheidsregeling kinderopvangtoeslag
 
-1. Van bijzondere omstandigheden als bedoeld in [artikel 49, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49) is in ieder geval sprake indien:
-
-- a. een derde fraudeert ten aanzien van de kinderopvangtoeslag zonder medeweten en betrokkenheid van de belanghebbende die de gevolgen ondervindt van die fraude; of
-
-- b. een door de belanghebbende redelijkerwijs niet meer te herstellen geringe formele tekortkoming heeft geleid tot aanzienlijke negatieve gevolgen voor het recht op kinderopvangtoeslag, terwijl aan alle materiële eisen voor de betreffende toeslag is voldaan, tenzij de belanghebbende na herhaalde verzoeken van de Belastingdienst/Toeslagen die geringe formele tekortkoming niet heeft hersteld, terwijl hij daartoe wel in de gelegenheid was.
-
-2. Van bijzondere omstandigheden als bedoeld in [artikel 49, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49) is op zichzelf in ieder geval geen sprake indien:
-
-- a. de belanghebbende te kwader trouw is;
-
-- b. de beschikking tot terugvordering het gevolg is van een afwijking tussen het daadwerkelijk afgenomen aantal uren kinderopvang en het aantal uren kinderopvang op basis waarvan het voorschot kinderopvangtoeslag is berekend in dat berekeningsjaar; of
-
-- c. de beschikking tot terugvordering het gevolg is van een afwijking van het daadwerkelijke over het berekeningsjaar vastgestelde toetsingsinkomen voor de kinderopvangtoeslag en het geschatte inkomen op basis waarvan het voorschot op kinderopvangtoeslag is berekend.
-
-3. De Belastingdienst/Toeslagen zal de belanghebbende, indien de omstandigheden daartoe noodzaken, de gelegenheid bieden om zijn zienswijze te geven ten aanzien van het door de Minister van Financiën, in overeenstemming met de ministers die het aangaat, voorgenomen beschikking tot vaststelling van de hardheidstegemoetkoming, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49).
-
-4. Indien de belanghebbende tijdig een bezwaarschrift heeft ingediend tegen de beschikking van de Minister van Financiën, in overeenstemming met de ministers die het aangaat, tot vaststelling van de hardheidstegemoetkoming, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49), brengt een onafhankelijke bezwaarschriftenadviescommissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) advies uit over dit bezwaarschrift.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
