@@ -4,7 +4,7 @@ identifier: "BWBR0045876"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-11-24"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045876"
 soort: "ministeriele-regeling"
@@ -42,27 +42,23 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte
 
-Deze regeling geeft uitvoering aan [artikel 49e van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49e).
+Deze regeling berust op [artikel 5.2 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.2).
 
-##### Artikel 2. Definities
+##### Artikel 2. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **adviescommissie:** bezwaarschriftenadviescommissie;
+- **adviescommissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045876&artikel=3&z=2022-11-05&g=2022-11-05);
 
-- b. **commissie van onafhankelijke deskundigen:** commissie als bedoeld in [artikel 3, eerste lid, van de Instellingsregeling Commissie van onafhankelijke deskundigen hersteloperatie](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3) toeslagen;
+- **minister:** Minister van Financiën;
 
-- c. **commissie werkelijke schade:** commissie als bedoeld in [artikel 3, eerste lid, van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3);
+- **ministerie:** Ministerie van Financiën;
 
-- d. **beleidsbesluiten houdende de herstelregelingen:** Het [Besluit Compensatieregeling CAF 11 en vergelijkbare (CAF-)zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0044059), het [Besluit forfaitair bedrag en verruiming compensatieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044956), het [Besluit uitbreiding Catshuisregeling Kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0045192), met uitzondering van [onderdeel 3](onbekend) voor zover het betreft de kwijtschelding van openstaande belastingschulden, de nog te betalen bestuurlijke boeten, of het ontslag van de betalingsverplichting voor aansprakelijkheidsschulden die samenhangen met de belastingheffing, het [Besluit compensatie schuldentrajecten](https://wetten.overheid.nl/jci1.3:c:BWBR0045191), het [Besluit noodvoorziening kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0044164), het [Besluit noodvoorziening toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044497), de [onderdelen 2.1](onbekend) en [3.1 van het Verzamelbesluit Toeslagen](onbekend) en het [Besluit aanvullende tegemoetkoming werkelijke schade bij O/GS](https://wetten.overheid.nl/jci1.3:c:BWBR0044447);
-
-- e. **ministerie:** Ministerie van Financiën;
-
-- f. **wet:** [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472).
+- **wet:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
 ##### Artikel 3. Instelling en taak
 
-1. Er is een adviescommissie ingesteld op grond van [artikel 49e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49e) die advies uitbrengt op bezwaren tegen beschikkingen van de Belastingdienst/Toeslagen die genomen zijn op basis van [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=5) en beleidsbesluiten houdende de herstelregelingen, met uitzondering vanbeschikkingen die betrekking hebben op het overnemen of betalen van geldschulden door de Belastingdienst/Toeslagen.
+1. Er is een Bezwaarschriftenadviescommissie hersteloperatie toeslagen die advies uitbrengt over bezwaren tegen beschikkingen van de Belastingdienst/Toeslagen die gegeven zijn op grond van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1), [2.4 tot en met 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.4) en [3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.1).
 
 2. De adviescommissie heeft tot taak: het adviseren van de Belastingdienst/Toeslagen over de te nemen beslissingen op aan haar door de Belastingdienst/Toeslagen voorgelegde bezwaarschriften en, indien dat door de adviescommissie nodig wordt geacht, het horen van belanghebbenden.
 
@@ -76,19 +72,19 @@ De adviescommissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 20
 
 2. De leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
-3. De leden worden door Onze Minister benoemd.
+3. De leden worden door de minister benoemd.
 
-4. De benoeming geschiedt voor de duur van de adviescommissie.
+4. De benoeming geschiedt voor de duur van deze regeling.
 
-5. De leden maken geen deel uit van het ministerie, zijn niet werkzaam onder verantwoordelijkheid van Onze Minister, zijn geen lid van de commissie van onafhankelijke deskundigen of de commissie werkelijke schade en zijn geen lid geweest van deze commissies.
+5. De leden maken geen deel uit van het ministerie, zijn niet werkzaam onder verantwoordelijkheid van de minister, zijn geen lid van de commissie, genoemd in [artikel 3, eerste lid, van de Instellingsregeling Commissie van onafhankelijke deskundigen hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3) of de commissie, genoemd in artikel 3, eerste lid, van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade en zijn geen lid geweest van deze commissies.
 
-6. De leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door Onze Minister.
+6. De leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
 
-7. Bij tussentijds vertrek van de voorzitter of een ander lid kan Onze Minister een andere voorzitter, onderscheidenlijk een ander lid, benoemen.
+7. Bij tussentijds vertrek van de voorzitter of een ander lid kan de minister een andere voorzitter, onderscheidenlijk een ander lid, benoemen.
 
 ##### Artikel 6. Secretariaat
 
-1. Onze Minister voorziet in het secretariaat van de adviescommissie.
+1. De minister voorziet in het secretariaat van de adviescommissie.
 
 2. Het secretariaat is voor de uitvoering van zijn taak uitsluitend verantwoording schuldig aan de adviescommissie.
 
@@ -118,11 +114,7 @@ De adviescommissie stelt uiterlijk 31 maart 2022, en vervolgens telkens na twee 
 
 ##### Artikel 10. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 7 juli 2020.
-
-2. Deze regeling vervalt met ingang van 31 december 2026.
-
-3. Onze Minister kan de datum, bedoeld in het tweede lid, bij ministeriële regeling wijzigen in een na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien bezwaarschriften als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045876&artikel=3&z=2021-11-24&g=2021-11-24), niet meer aanhangig zijn en niet meer te verwachten zijn.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 7 juli 2020.
 
 ##### Artikel 11. Citeertitel
 
