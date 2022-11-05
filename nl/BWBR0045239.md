@@ -4,7 +4,7 @@ identifier: "BWBR0045239"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2022-07-20"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045239"
 soort: "ministeriele-regeling"
@@ -40,39 +40,37 @@ Gelet op [artikel 49e van de Algemene wet inkomensafhankelijke regelingen](https
 
 Besluit:
 
-##### Artikel 1. Reikwijdte
+##### Artikel 1. Grondslag
 
-Deze regeling geeft uitvoering aan [artikel 49e van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49e).
+Deze regeling berust op [artikel 5.2 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.2).
 
-##### Artikel 2. Definities
+##### Artikel 2. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **commissie:** Commissie van onafhankelijke deskundigen;
+- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2022-11-05&g=2022-11-05);
 
-- b. **compensatieregeling:** compensatieregeling als bedoeld in het [Besluit Compensatieregeling CAF 11 en vergelijkbare (CAF-)zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0044059), in [artikel 49b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49b) en de regeling voor compensatie naar aanleiding van hardheid, bedoeld in het [Besluit forfaitair bedrag en verruiming compensatieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044956);
+- **minister:** Minister van Financiën;
 
-- c. **ministerie:** Ministerie van Financiën;
+- **ministerie:** Ministerie van Financiën;
 
-- d. **wet:** [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472).
+- **wet:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
 ##### Artikel 3. Instelling en taak
 
-1. Er is een commissie ingesteld op grond van [artikel 49e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49e) met het oog op de uitvoering van de [artikelen 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49a) en [49c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49c) en van de compensatieregeling.
+1. Er is een Commissie van onafhankelijke deskundigen hersteloperatie toeslagen.
 
 2. De commissie heeft tot taak:
 
-- a. het adviseren over de vraag of sprake is van een bijzonder schrijnend geval als bedoeld in [artikel 49a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49a);
+- a. het beoordelen van voorgenomen beschikkingen inhoudende het geheel of gedeeltelijk afwijzen van een aanvraag van compensatie als bedoeld in [artikel 2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1);
 
-- b. het beoordelen van de voorlopige conclusie van de Belastingdienst/Toeslagen met betrekking tot de vraag of een CAF-zaak of een ander onderzoek op onderzoeksniveau vergelijkbaar is met CAF 11 voor zover de compensatieregeling voorschrijft dat deze voorlopige conclusie aan de commissie wordt voorgelegd;
+- b. het beoordelen van voorgenomen beschikkingen inhoudende het geheel of gedeeltelijk afwijzen van een aanvraag van een O/GS-tegemoetkoming als bedoeld in [artikel 2.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6);
 
-- c. het beoordelen of de voorgenomen beschikking dat in individuele gevallen een compensatie op grond van de compensatieregeling geheel of gedeeltelijk geweigerd kan worden juist is;
+- c. het adviseren over de vraag of sprake is van een schrijnend geval als bedoeld in [artikel 2.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9);
 
-- d. het beoordelen van de voorgenomen geheel of gedeeltelijk afwijzende beschikking aangaande het toekennen van een O/GS-tegemoetkoming als bedoeld in [artikel 49c](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49c);
+- d. het rapporteren van haar bevindingen aan de Belastingdienst/Toeslagen.
 
-- e. het rapporteren van haar bevindingen aan de Belastingdienst/Toeslagen.
-
-3. De commissie geeft geen beoordeling als bedoeld in het tweede lid, onderdeel c of d, indien er over de feiten geen verschil van mening is tussen de Belastingdienst/Toeslagen en de belanghebbende, tenzij:
+3. De commissie geeft geen beoordeling als bedoeld in het tweede lid, onderdeel a of b, indien er over de feiten geen verschil van mening is tussen de Belastingdienst/Toeslagen en de belanghebbende, tenzij:
 
 - a. de kinderopvangtoeslag is uitbetaald aan een andere persoon dan de belanghebbende; of
 
@@ -90,17 +88,17 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 2. De leden hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak.
 
-3. De leden worden door Onze Minister benoemd.
+3. De leden worden door de minister benoemd.
 
-4. De benoeming geschiedt voor de duur van de commissie.
+4. De benoeming geschiedt voor de duur van deze regeling.
 
-5. De leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door Onze Minister.
+5. De leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
 
-6. Bij tussentijds vertrek, schorsing of ontslag van de voorzitter of een ander lid kan Onze Minister een andere voorzitter, onderscheidenlijk een ander lid, benoemen.
+6. Bij tussentijds vertrek, schorsing of ontslag van de voorzitter of een ander lid kan de minister een andere voorzitter, onderscheidenlijk een ander lid, benoemen.
 
 ##### Artikel 6. Secretariaat
 
-1. Onze Minister voorziet in het secretariaat van de commissie.
+1. De minister voorziet in het secretariaat van de commissie.
 
 2. Het secretariaat is voor de uitvoering van zijn taak uitsluitend verantwoording schuldig aan de commissie.
 
@@ -126,11 +124,7 @@ De commissie stelt op een met de Belastingdienst/Toeslagen nader te bepalen mome
 
 ##### Artikel 10. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 7 juli 2020.
-
-2. Deze regeling vervalt met ingang van 1 juli 2024.
-
-3. Onze Minister kan de datum, genoemd in het tweede lid, eenmalig bij ministeriële regeling wijzigen in een ten hoogste twee jaar na die datum gelegen datum, dan wel deze regeling op een eerdere datum intrekken indien geen werkzaamheden als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2022-07-20&g=2022-07-20), meer te verrichten zijn en ook niet meer te verwachten zijn.
+Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 7 juli 2020.
 
 ##### Artikel 11. Citeertitel
 
