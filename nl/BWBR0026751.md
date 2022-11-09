@@ -4,7 +4,7 @@ identifier: "BWBR0026751"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-11-09"
-last_updated: "2014-12-05"
+last_updated: "2022-11-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026751"
 soort: "beleidsregel"
@@ -369,29 +369,29 @@ Bij opname in een AWBZ-instelling geldt de eigenwoningregeling nog twee jaar ([a
 
 ### 6.2. Uitzending en terbeschikkingstelling aan derden
 
-Er geldt geen uitzondering voor kamerverhuur als bedoeld in [artikel 3.114 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.114). De uitzendregeling geldt dus ook niet bij ter beschikkingstelling aan derden zonder vergoeding of tegen een vergoeding die lager is dan het maximale bedrag voor de kamerverhuurvrijstelling.
+In dit verband geldt geen uitzondering voor kamerverhuur als bedoeld in [artikel 3.114 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.114). De uitzendregeling geldt dus ook niet bij het ter beschikking stellen van de woning aan derden zonder vergoeding of tegen een vergoeding die lager is dan het maximale bedrag voor de kamerverhuurvrijstelling.
 
-Kinderen die na uitzending achterblijven zijn in dit kader ook derden.
+Kinderen, partners en andere personen die direct voorafgaand aan de uitzending al tot het huishouden van de uitgezonden belastingplichtige behoorden en die aansluitend of gedurende de uitzending in de woning van de belastingplichtige (gaan) wonen, zijn in dit kader ook derden.1Tot de inwerkingtreding van dit besluit geldt dat kinderen op basis van de goedkeuring in onderdeel 6.2 van het besluit van 24 november 2009, nr. CPP2009/2342M onder voorwaarden niet worden aangemerkt als derden. Dit heeft tot gevolg dat de uitzendregeling niet (meer) op verzoek kan worden toegepast. De uitgezonden belastingplichtige ervaart het echter in het algemeen niet zo dat hij zijn woning in deze gevallen ter beschikking stelt aan een derde, aangezien hij zijn woning op elk gewenst moment weer als hoofdverblijf kan betrekken. Daarnaast kunnen de financiële gevolgen voor het niet (meer) van toepassing kunnen zijn van de uitzendregeling groot zijn. Daarom vind ik het niet langer redelijk om de gevallen die hiervóór zijn beschreven gelijk te stellen aan het ter beschikking stellen aan een derde. Daarom keur ik vooruitlopend op een mogelijke wetswijziging het volgende goed. Daarbij maak ik het voorbehoud dat wanneer het parlement niet akkoord zou gaan met een desbetreffende wetswijziging, deze goedkeuring vanaf dat moment voor de toekomst komt te vervallen.
 
-Ik keur met toepassing van de [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat de uitzendregeling kan worden toegepast als kinderen in de woning blijven wonen. De goedkeuring geldt zolang is voldaan aan elk van de volgende voorwaarden.
+Ik keur onder de volgende voorwaarden goed dat voor de toepassing van de uitzendregeling de woning niet wordt geacht ter beschikking te zijn gesteld aan een derde als één of meerdere van onderstaande personen in de woning van de belastingplichtige (gaan) wonen:
 
-De hiervoor bedoelde kinderen worden in dit kader niet gezien als derden. Als die kinderen verhuizen, kan de uitzendregeling dus van toepassing blijven.
+De goedkeuring werkt terug tot en met 23 oktober 2020.
 
-De tijdelijke verhuurregeling van [artikel 3.111, zevende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), geldt bij uitzending niet. De tijdelijke verhuurregeling is namelijk alleen van toepassing wanneer het hoofdverblijf niet wordt verplaatst, zoals bij vakanties en kortstondig verblijf in het buitenland. De tijdelijke verhuurregeling is niet van toepassing als een andere woning het hoofdverblijf is. Bij de uitzendregeling is het hoofdverblijf verplaatst.
+Voor deze goedkeuring gelden de volgende drie voorwaarden:
 
-De tijdelijke verhuurregeling van [artikel 3.111, zevende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), geldt bij uitzending niet. De tijdelijke verhuurregeling is namelijk alleen van toepassing wanneer het hoofdverblijf niet wordt verplaatst, zoals bij vakanties en kortstondig verblijf in het buitenland. De tijdelijke verhuurregeling is niet van toepassing als een andere woning het hoofdverblijf is. Bij de uitzendregeling is het hoofdverblijf verplaatst.
+Hierna volgen twee voorbeelden ter toelichting van goedkeuring 1.
 
 ### 6.3. De woning wordt gebruikt tijdens de vakantie
 
-Er geldt geen uitzondering voor kamerverhuur als bedoeld in [artikel 3.114 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.114). De uitzendregeling geldt dus ook niet bij ter beschikkingstelling aan derden zonder vergoeding of tegen een vergoeding die lager is dan het maximale bedrag voor de kamerverhuurvrijstelling.
+De woning wordt geacht vanaf 1 maart 2018 niet ter beschikking te zijn gesteld aan een derde, omdat de persoon die door de uitzending van de belastingplichtige niet meer kwalificeert als fiscale partner in de woning is blijven wonen. Daarnaast wordt voldaan aan de drie voorwaarden van goedkeuring 1, omdat:
 
 ### 7. Ingetrokken regelingen
 
-Ik keur met toepassing van de [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat de uitzendregeling kan worden toegepast als kinderen in de woning blijven wonen. De goedkeuring geldt zolang is voldaan aan elk van de volgende voorwaarden.
+**2018**
 
 ### 8. Inwerkingtreding
 
-De tijdelijke verhuurregeling van [artikel 3.111, zevende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), geldt bij uitzending niet. De tijdelijke verhuurregeling is namelijk alleen van toepassing wanneer het hoofdverblijf niet wordt verplaatst, zoals bij vakanties en kortstondig verblijf in het buitenland. De tijdelijke verhuurregeling is niet van toepassing als een andere woning het hoofdverblijf is. Bij de uitzendregeling is het hoofdverblijf verplaatst.
+**2019**
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
@@ -405,7 +405,7 @@ Voor de uitzendregeling moet de woning een jaar hoofdverblijf zijn geweest, als 
 
 ### 5. Awbz-regeling. opname partner in een awbz-instelling
 
-Voor de uitzendregeling mag de woning tijdens de gehele periode van de uitzending (naar het buitenland) niet aan derden ter beschikking worden gesteld. Dit geldt voor elke terbeschikkingstelling aan derden, en dus ook als de woning deels ter beschikking is gesteld, ongeacht de hoogte van de vergoeding.
+Voor de toepassing van de uitzendregeling mag de woning niet aan derden ter beschikking worden gesteld. Dit geldt voor elke wijze van ter beschikking stellen aan derden en dus ook als de woning deels ter beschikking is gesteld, ongeacht de hoogte van de vergoeding die voor het ter beschikking stellen van de woning wordt ontvangen.
 
 ### 6. Uitzendregeling
 
@@ -413,23 +413,23 @@ Voor de uitzendregeling mag de woning tijdens de gehele periode van de uitzendin
 
 ### 6.3. De woning wordt gebruikt tijdens de vakantie
 
-Als de woning tijdens vakantie in Nederland door de eigenaar wordt gebruikt, kan de uitzendregeling van toepassing blijven. Een van de eisen voor de uitzendregeling is dat de woning niet aan derden ter beschikking wordt gesteld ([artikel 3.111, zesde lid, onderdeel a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Alleen eigen gebruik (tijdens vakantie) is dus mogelijk. De uitzendregeling eindigt als de woning hoofdverblijf wordt in de zin van artikel 3.111, eerste lid, van de Wet IB 2001. Bij vakantiegebruik blijft de uitzendregeling van toepassing.
+**De belastingplichtige is ongehuwd en is op 1 maart 2018 voor drie jaar voor zijn werk uitgezonden naar het buitenland. Zijn partner, die tot aan het moment van uitzending kwalificeerde als fiscale partner, is in de woning blijven wonen. De belastingaanslag over 2018 staat op 23 oktober 2020 nog niet onherroepelijk vast.**
 
-Het [besluit van 2 november 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026621), nr. CPP2009/998M is ingetrokken met ingang van de inwerkingtreding van dit besluit.
+**Zelfde als voorbeeld 1, alleen staat de belastingaanslag over 2018 op 23 oktober 2020 al wel onherroepelijk vast, maar de belastingaanslag over 2019 nog niet.**
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het is geplaatst.
+Goedkeuring 1 kan voor 2018 niet worden toegepast, omdat niet aan voorwaarde 1 van de goedkeuring wordt voldaan. De belastingaanslag over 2018 staat op 23 oktober 2020 namelijk al onherroepelijk vast. Dit heeft tot gevolg dat de woning op 1 maart 2018 naar box 3 is verhuisd, omdat de partner kwalificeert als derde.
 
 ### 6.3. De woning wordt gebruikt tijdens de vakantie
 
-Als de woning tijdens vakantie in Nederland door de eigenaar wordt gebruikt, kan de uitzendregeling van toepassing blijven. Een van de eisen voor de uitzendregeling is dat de woning niet aan derden ter beschikking wordt gesteld ([artikel 3.111, zesde lid, onderdeel a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Alleen eigen gebruik (tijdens vakantie) is dus mogelijk. De uitzendregeling eindigt als de woning hoofdverblijf wordt in de zin van artikel 3.111, eerste lid, van de Wet IB 2001. Bij vakantiegebruik blijft de uitzendregeling van toepassing.
+De woning kan voor de belastingplichtige pas weer onder de eigenwoningregeling vallen, zodra de woning weer anders dan tijdelijk het hoofdverblijf van de belastingplichtige is geworden.3ECLI:NL:HR:2015:355. Goedkeuring 1 zorgt er dus niet voor dat de uitzendregeling voor 2019 van kracht is geworden.
 
 ### 7. Ingetrokken regelingen
 
-Het [besluit van 2 november 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026621), nr. CPP2009/998M is ingetrokken met ingang van de inwerkingtreding van dit besluit.
+Voor deze goedkeuring gelden de volgende vier voorwaarden:
 
 ### 8. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het is geplaatst.
+**De belastingplichtige is ongehuwd en is op 1 januari 2018 voor drie jaar voor zijn werk uitgezonden naar het buitenland. Zijn partner, die tot aan het moment van uitzending kwalificeerde als fiscale partner, is om niet in de woning blijven wonen. De belastingaanslag over 2018 staat op 23 oktober 2020 nog niet onherroepelijk vast, maar de belastingaanslag over 2019 wel. Tot 1 januari 2018 was de woning een eigen woning op basis van artikel 3.111, eerste lid, Wet IB 2001. Op 1 mei 2022 doet de belastingplichtige een verzoek om ambtshalve vermindering voor de belastingaanslag over 2019.**
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
@@ -605,10 +605,60 @@ In [artikel 3.111, zesde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci
 
 ### 6.1. Eenjaarsbewoningseis
 
-### 6.2. Uitzending en terbeschikkingstelling aan derden
+### 6.2. Uitzending en ter beschikking stellen van de woning aan derden
 
 ### 7. Ingetrokken regelingen
 
 ### 8. Inwerkingtreding
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+Goedkeuring 1 kan voor 2019 evenmin worden toegepast, omdat niet wordt voldaan aan voorwaarde 3.
+
+Ik keur onder de volgende voorwaarden goed dat in de bijzondere situatie dat goedkeuring 1 in een belastingjaar is toegepast, maar in de daaropvolgende belastingjaren niet kan worden toegepast omdat alleen niet is voldaan aan voorwaarde 1 van goedkeuring 1, de uitzendregeling toch in de daaropvolgende belastingjaren kan worden toegepast.
+
+Hierna volgen twee voorbeelden ter toelichting van goedkeuring 2.
+
+**2018**
+
+De woning wordt geacht in 2018 niet ter beschikking te zijn gesteld aan een derde, omdat de persoon die door de uitzending van de belastingplichtige niet meer kwalificeert als fiscale partner in de woning is blijven wonen. Daarnaast wordt voldaan aan de drie voorwaarden van goedkeuring 1, omdat:
+
+**2019**
+
+Goedkeuring 1 kan voor 2019 niet worden toegepast, omdat de belastingaanslag over 2019 op 23 oktober 2020 al onherroepelijk vaststaat.
+
+Goedkeuring 2 kan voor 2019 wél worden toegepast, omdat:
+
+**De belastingplichtige is ongehuwd en is op 1 januari 2018 voor drie jaar voor zijn werk uitgezonden naar het buitenland. Zijn zoon (30 jaar) is om niet in de woning blijven wonen. Zijn partner, die tot aan het moment van uitzending kwalificeerde als fiscale partner, is meegegaan naar het buitenland. Zijn partner keert op 24 juni 2019 terug naar de woning. Tot 1 januari 2018 was de woning een eigen woning op basis van artikel 3.111, eerste lid, Wet IB 2001. De belastingaanslag over 2018 staat op 23 oktober 2020 nog niet onherroepelijk vast, maar de belastingaanslag over 2019 wel. Op 1 mei 2022 doet de belastingplichtige een verzoek om ambtshalve vermindering voor de belastingaanslag over 2019.**
+
+Van 1 januari 2018 tot 24 juni 2019 wordt de woning alleen ter beschikking gesteld aan de zoon. Vanaf 24 juni 2019 wordt de woning ter beschikking gesteld aan de zoon en aan de partner.
+
+**2018**
+
+De woning wordt geacht in 2018 niet ter beschikking te zijn gesteld aan een derde, omdat een kind van de belastingplichtige in de woning is blijven wonen. Daarnaast wordt voldaan aan de drie voorwaarden van goedkeuring 1, omdat:
+
+**2019**
+
+Goedkeuring 1 kan voor 2019 niet worden toegepast, omdat de belastingaanslag over 2019 op 23 oktober 2020 al onherroepelijk vaststaat.
+
+Goedkeuring 2 kan tot 24 juni 2019 wél worden toegepast, omdat:
+
+Goedkeuring 2 kan echter vanaf 24 juni 2019 niet meer worden toegepast, omdat niet meer wordt voldaan aan voorwaarde 1 en 2. Goedkeuring 1 is in 2018 namelijk niet toegepast voor de partner en omdat de partner vanaf 24 juni 2019 in de woning is gaan wonen, heeft zich een omstandigheid voorgedaan op basis waarvan niet meer aan de voorwaarden van [artikel 3.111, zesde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) wordt voldaan.
+
+Dit betekent dat alleen de zoon voor de toepassing van de uitzendregeling niet wordt aangemerkt als derde en de belastingaanslag over 2019 deels (tot 24 juni 2019) ambtshalve wordt verminderd.
+
+De tijdelijke verhuurregeling van [artikel 3.111, zevende lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) geldt bij uitzending niet. De tijdelijke verhuurregeling is namelijk alleen van toepassing wanneer het hoofdverblijf niet wordt verplaatst, zoals bij vakanties en kortstondig verblijf in het buitenland. De tijdelijke verhuurregeling is niet van toepassing als een andere woning het hoofdverblijf is. Bij de uitzendregeling is het hoofdverblijf verplaatst.
+
+### 6.3. De woning wordt gebruikt tijdens de vakantie
+
+Als de woning tijdens vakantie in Nederland door de eigenaar wordt gebruikt, kan de uitzendregeling van toepassing blijven. Een van de eisen voor de uitzendregeling is dat de woning niet aan derden ter beschikking wordt gesteld ([artikel 3.111, zesde lid, onderdeel a, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Alleen eigen gebruik (tijdens vakantie) is dus mogelijk. De uitzendregeling eindigt als de woning hoofdverblijf wordt in de zin van artikel 3.111, eerste lid, van de Wet IB 2001. Bij vakantiegebruik blijft de uitzendregeling van toepassing.
+
+### 7. Ingetrokken regelingen
+
+Het [besluit van 2 november 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026621), nr. CPP2009/998M is ingetrokken met ingang van de inwerkingtreding van dit besluit.
+
+### 8. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het is geplaatst.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
