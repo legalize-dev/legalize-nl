@@ -4,7 +4,7 @@ identifier: "BWBR0040698"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-12-11"
-last_updated: "2022-06-23"
+last_updated: "2022-11-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040698"
 soort: "ministeriele-regeling-BES"
@@ -70,7 +70,7 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 ##### Artikel 3. (subsidiebedragen)
 
-1. De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-06-23&g=2022-06-23), bedraagt ten hoogste het bedrag volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
+1. De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-11-10&g=2022-11-10), bedraagt ten hoogste het bedrag volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
 
 | Omschrijving | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -96,10 +96,10 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 | v. Extra subsidie op drinkwater Bonaire |   |   |   |   | 3.275 | 3.751 | 4.358 |
 | w. Extra subsidie op drinkwater Sint Eustatius |   |   |   |   | 889 | 865 | 891 |
 | x. Subsidie op drinkwater Saba |   |   |   |   |   | 168 | 168 |
-| y. Subsidie op investeringen watervoorziening Saba |   |   |   |   | 350 |   |   |
-| Totaal | 6.435 | 5.523 | 8.258 | 10.631 | 10.232 | 9.902 | 8.135 |
+| y. Subsidie op investeringen watervoorziening Saba |   |   |   |   | 1.000 |   |   |
+| Totaal | 6.435 | 5.523 | 8.258 | 10.631 | 10.782 | 9.902 | 8.135 |
 
-2. De subsidie, bedoeld in [artikel 2, derde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-06-23&g=2022-06-23), bedraagt ten hoogste € 880.000. De verhoging, bedoeld in artikel 2, derde lid, tweede zin, bedraagt ten hoogste € 100.000.
+2. De subsidie, bedoeld in [artikel 2, derde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-11-10&g=2022-11-10), bedraagt ten hoogste € 880.000. De verhoging, bedoeld in artikel 2, derde lid, tweede zin, bedraagt ten hoogste € 100.000.
 
 ##### Artikel 4. (aanvraag)
 
@@ -107,7 +107,7 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 2. De aanvraag bevat de volgende gegevens en bescheiden:
 
-- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-06-23&g=2022-06-23), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
+- a. een projectplan of plan van aanpak met betrekking tot de wijze waarop de subsidie over het jaar of de jaren waarvoor deze wordt aangevraagd bijdraagt aan het doel van de subsidieverlening, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-11-10&g=2022-11-10), met een beschrijving van de prestaties die met de subsidie worden bekostigd;
 
 - b. het benodigde subsidiebedrag in euro’s met een gespecificeerde begroting over het desbetreffende jaar of de desbetreffende jaren die een goed inzicht geeft in de kosten van de te subsidiëren activiteit en het effect van de subsidie erop, waaronder een liquiditeitsoverzicht waaruit de benodigde subsidie blijkt;
 
@@ -117,15 +117,15 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 ##### Artikel 5. (verplichtingen subsidieontvanger)
 
-1. De voor enig jaar te subsidiëren activiteiten moeten uiterlijk 31 december van dat jaar zijn verricht, met dien verstande dat in geval van een subsidie, verleend over een tijdvak van meerdere kalenderjaren, de activiteiten in elk geval uiterlijk 31 december van het laatste kalenderjaar zijn verricht, waarbij de over enig kalenderjaar binnen dat tijdvak verleende subsidie met toestemming van de minister kan worden aangewend voor hetzelfde doel voor een daaropvolgend kalenderjaar binnen dat tijdvak. In afwijking van de eerste volzin worden de activiteiten, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-06-23&g=2022-06-23), verricht voor 1 januari 2022.
+1. De voor enig jaar te subsidiëren activiteiten moeten uiterlijk 31 december van dat jaar zijn verricht, met dien verstande dat in geval van een subsidie, verleend over een tijdvak van meerdere kalenderjaren, de activiteiten in elk geval uiterlijk 31 december van het laatste kalenderjaar zijn verricht, waarbij de over enig kalenderjaar binnen dat tijdvak verleende subsidie met toestemming van de minister kan worden aangewend voor hetzelfde doel voor een daaropvolgend kalenderjaar binnen dat tijdvak. In afwijking van de eerste volzin worden de activiteiten, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-11-10&g=2022-11-10), verricht voor 1 januari 2022.
 
-2. In afwijking van het eerste lid kan de subsidie, genoemd in de tabel in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2022-06-23&g=2022-06-23), in rij:
+2. In afwijking van het eerste lid kan de subsidie, genoemd in de tabel in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2022-11-10&g=2022-11-10), in rij:
 
 - a. ‘m. Extra subsidie op investeringen drinkwatervoorziening Sint Eustatius’ voor de kalenderjaren 2021, 2022 en 2023, mede worden aangewend gedurende het kalenderjaar 2024;
 
 - b. ‘s. Extra subsidie op drinkwater Saba i.v.m. COVID-19’ voor het kalenderjaar 2021, mede worden aangewend gedurende het kalenderjaar 2022;
 
-- c. ‘y. Subsidie op investeringen watervoorziening Saba’ voor het kalenderjaar 2022, mede worden aangewend gedurende het kalenderjaar 2023.
+- c. ‘y. Subsidie op investeringen watervoorziening Saba’ voor het kalenderjaar 2022, mede worden aangewend gedurende de kalenderjaren 2023 en 2024.
 
 3. De subsidieontvanger is verplicht onverwijld een schriftelijke melding aan de minister te doen zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel vóór de in het eerste of tweede lid genoemde datum zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen uiterlijk op de in het eerste of tweede lid genoemde datum zal worden voldaan.
 
@@ -135,7 +135,7 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 6. Indien door een ander bestuursorgaan voor dezelfde activiteiten subsidie wordt verstrekt, doet de subsidieontvanger daarvan onverwijld mededeling aan de minister.
 
-7. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-06-23&g=2022-06-23).
+7. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-11-10&g=2022-11-10).
 
 ##### Artikel 6. (intrekken of wijzigen van de subsidieverstrekking)
 
@@ -151,7 +151,7 @@ De minister kan een beschikking tot subsidieverlening of subsidievaststelling in
 
 ##### Artikel 7. (subsidievaststelling)
 
-1. De subsidieontvanger dient uiterlijk 1 september na het laatste kalenderjaar van het tijdvak waarvoor subsidie is aangevraagd of het kalenderjaar waarin de activiteiten, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-06-23&g=2022-06-23), zijn voltooid, bij de minister een aanvraag tot subsidievaststelling in.
+1. De subsidieontvanger dient uiterlijk 1 september na het laatste kalenderjaar van het tijdvak waarvoor subsidie is aangevraagd of het kalenderjaar waarin de activiteiten, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2022-11-10&g=2022-11-10), zijn voltooid, bij de minister een aanvraag tot subsidievaststelling in.
 
 2. De subsidieontvanger toont bij de aanvraag tot subsidievaststelling door middel van een financiële verantwoording aan dat de activiteiten waarvoor subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -179,11 +179,11 @@ Het subsidiebedrag wordt binnen zes weken na de bekendmaking van de subsidievast
 
 ##### Artikel 9. (voorschotten)
 
-Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2022-06-23&g=2022-06-23) genoemde subsidiebedragen.
+Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2022-11-10&g=2022-11-10) genoemde subsidiebedragen.
 
 ##### Artikel 10. (onverschuldigde betaling)
 
-Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2022-06-23&g=2022-06-23) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2022-06-23&g=2022-06-23) sprake is van onverschuldigd betaalde subsidiebedragen worden deze door de minister teruggevorderd.
+Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2022-11-10&g=2022-11-10) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2022-11-10&g=2022-11-10) sprake is van onverschuldigd betaalde subsidiebedragen worden deze door de minister teruggevorderd.
 
 ##### Artikel 11. (inwerkingtreding)
 
