@@ -4,7 +4,7 @@ identifier: "BWBR0046930"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-21"
-last_updated: "2022-07-16"
+last_updated: "2022-11-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046930"
 soort: "ministeriele-regeling"
@@ -59,5 +59,11 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Het monitoringcomité, ingesteld bij besluit van gedeputeerde staten van Gelderland in de hoedanigheid als beheerautoriteit van 1 november 2022 (Pb 2022, 13308), wordt aangewezen als monitoringcomité als bedoeld in artikel 38 van [verordening (EU) 2021/1060](32960R2021).
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
