@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2022-11-05"
+last_updated: "2022-11-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -6133,11 +6133,11 @@ Geen bijzonderheden.
 
 ### 19.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-Geen bijzonderheden.
+De IND merkt voor Jemen uitsluitend de volgende groepen aan als risicogroep:
 
 ### 19.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND neemt voor asielzoekers uit Jemen, gezien de uitzonderlijke situatie in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in het hele land, geen vlucht- en vestigingsalternatief aan.
+De IND neemt voor asielzoekers uit Jemen, gezien de uitzonderlijke situatie in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) in het hele land, geen binnenlands beschermingsalternatief aan.
 
 ### 19.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -6161,7 +6161,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 19.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/3.4 Vc
+### 19.5.2. Binnenlands beschermingsalternatief in de zin van paragraaf C2/3.4 Vc
 
 ### 19.7. Vertrekmoratorium
 
