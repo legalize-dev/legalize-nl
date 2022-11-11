@@ -4,7 +4,7 @@ identifier: "BWBR0047443"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-11-12"
-last_updated: "2021-07-01"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047443"
 soort: "zbo"
@@ -137,7 +137,7 @@ Dit reglement verstaat onder:
 
 2. De secretaris legt de voorzitter tijdig een conceptagenda voor.
 
-3. De secretaris legt aan de Kwaliteitsraad gerichte stukken, met uitzondering van stukken tot afdoening waarvan hij krachtens een besluit van het bestuur of een besluit van de Kwaliteitsraad, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047443&hoofdstuk=4&artikel=5&z=2022-11-11&g=2021-07-01), respectievelijk het tweede lid en derde lid bevoegd is, aan de voorzitter voor.
+3. De secretaris legt aan de Kwaliteitsraad gerichte stukken, met uitzondering van stukken tot afdoening waarvan hij krachtens een besluit van het bestuur of een besluit van de Kwaliteitsraad, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047443&hoofdstuk=4&artikel=5&z=2022-11-11&g=2022-11-11), respectievelijk het tweede lid en derde lid bevoegd is, aan de voorzitter voor.
 
 4. De voorzitter plaatst aan hem voorgelegde stukken, met uitzondering van stukken tot afdoening waarvan hij krachtens een beslissing van de Kwaliteitsraad bevoegd is, ter bespreking door de Kwaliteitsraad op de agenda.
 
@@ -255,4 +255,4 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 ##### Artikel 23
 
-Dit besluit treedt in werking na publicatie daarvan in de Staatscourant en werkt, uitgezonderd het bepaalde in [artikel 4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047443&hoofdstuk=3&artikel=4&z=2022-11-11&g=2021-07-01), terug tot en met 1 juli 2021. Artikel 4, lid 3 treedt met ingang van de tweede dag na publicatie in Staatscourant in werking.
+Dit besluit treedt in werking na publicatie daarvan in de Staatscourant en werkt, uitgezonderd het bepaalde in [artikel 4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047443&hoofdstuk=3&artikel=4&z=2022-11-11&g=2022-11-11), terug tot en met 1 juli 2021. Artikel 4, lid 3 treedt met ingang van de tweede dag na publicatie in Staatscourant in werking.
