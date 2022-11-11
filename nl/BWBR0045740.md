@@ -4,7 +4,7 @@ identifier: "BWBR0045740"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-11-11"
-last_updated: "2021-11-10"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045740"
 soort: "AMvB"
@@ -54,17 +54,15 @@ Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt het Besluit bekostiging financieel toezicht 2019.
 
 ##### Artikel IV
 
-1. Dit besluit treedt in werking met ingang van 10 november 2021, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0045740&artikel=II&z=2021-11-10&g=2021-11-10), dat in werking treedt met ingang van 11 november 2022.
+1. Dit besluit treedt in werking met ingang van 10 november 2021, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0045740&artikel=II&z=2022-11-11&g=2022-11-11), dat in werking treedt met ingang van 11 november 2022.
 
-2. In afwijking van het eerste lid kan bij koninklijk besluit worden bepaald dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0045740&artikel=II&z=2021-11-10&g=2021-11-10) in werking treedt met ingang van 11 november 2023.
+2. In afwijking van het eerste lid kan bij koninklijk besluit worden bepaald dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0045740&artikel=II&z=2022-11-11&g=2022-11-11) in werking treedt met ingang van 11 november 2023.
 
 ##### Artikel V
 
