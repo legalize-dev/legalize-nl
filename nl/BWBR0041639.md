@@ -4,7 +4,7 @@ identifier: "BWBR0041639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-25"
-last_updated: "2020-01-01"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041639"
 soort: "ministeriele-regeling"
@@ -42,55 +42,21 @@ Besluit:
 
 ##### Artikel 1
 
-1. Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de plaatsvervangend secretaris-generaal ten aanzien van de aangelegenheden die de eigenaarsrol betreffende:
+1. Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de plaatsvervangend secretaris-generaal ten aanzien van de aangelegenheden die de eigenaarsrol betreffen zoals bedoeld in de Regeling agentschappen en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen genoemd in [artikel 2, derde lid van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), de Inspectie Justitie en Veiligheid, het secretariaat van het Schadefonds Geweldsmisdrijven alsmede de in [artikel 3, eerste lid van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=3) genoemde zelfstandige bestuursorganen.
 
-- a. de dienst Justitiële informatiedienst;
-
-- b. de baten-lastenagentschappen:
-
-- 1°. het Centraal Justitieel Incassobureau;
-
-- 2°. de Dienst JUSTIS;
-
-- 3°. het Nederlands Forensisch Instituut
-
-- c. de zelfstandige bestuursorganen:
-
-- 1°. het Instituut Fysieke Veiligheid;
-
-- 2°. de Onderzoeksraad voor veiligheid;
-
-- 3°. het Schadefonds Geweldsmisdrijven.
-
-2. De in het eerste lid genoemde aangelegenheden omvatten in ieder geval de besluiten ten aanzien van benoeming en bezoldiging, verplaatsing, disciplinaire maatregelen en ontslag van hoofden van de taakorganisaties.
+2. De in het eerste lid genoemde aangelegenheden omvatten in ieder geval de besluiten ten aanzien van benoeming en bezoldiging, verplaatsing, disciplinaire maatregelen en ontslag van hoofden van de diensten en baten-lastenagentschappen genoemd in [artikel 2, derde lid van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) en het secretariaat van het Schadefonds Geweldsmisdrijven.
 
 ##### Artikel 2
 
-1. Aan de secretaris-generaal blijft voorbehouden de bevoegdheid om besluiten te nemen, indien deze:
+Aan de secretaris-generaal blijft voorbehouden de bevoegdheid om besluiten te nemen, indien deze worden genomen op grond van:
 
-- a. zijn neergelegd in een document, gericht tot:
+- a. [artikel 7:611](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=611) jo. [artikel 7:658 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=658), voor zover de schadeloosstelling betrekking heeft op immateriële schade, of materiële schade boven een bedrag van € 10.000,–;
 
-- 1°. de Nationale ombudsman, behoudens de afdoening van ontvangstbevestigingen, tussenberichten, waaronder uitstelberichten, en stukken naar aanleiding van verzoeken van de Nationale ombudsman om, ter vermijding van een volledig onderzoek, te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies);
-
-- 2°. de president van en de procureur-generaal bij de Hoge Raad der Nederlanden;
-
-- b. worden genomen op grond van:
-
-- 1°. [artikel 69 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69), [artikel 46 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46), [artikel 69 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=69) of [artikel 22 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=22), voor zover de schadeloosstelling betrekking heeft op immateriële schade, of materiële schade boven een bedrag van € 10.000,–;
-
-- 2°. [artikel 96b van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=96b), [artikel 92, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=92) of [artikel 39 van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=39);
-
-- 3°. [artikel 99 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=99), [artikel 36b van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36b) of [artikel 95 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=95), indien de meerkosten aangaande de minimale uitkering meer bedragen dan drie bruto maandsalarissen;
-
-- c. het verstrekken van reisopdrachten aan functionarissen naar landen buiten Europa alsmede Turkije betreffen.
-
-2. Aan de secretaris-generaal blijft tevens voorbehouden de bevoegdheid om besluiten te nemen, indien deze:
-
-- a. zijn neergelegd in een document dat betrekking heeft op een verzoek in de zin van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), indien inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben.
+- b. een financiële vergoeding in verband met de beëindiging van de arbeidsovereenkomst die de uitkomst van de berekening overeenkomstig een transitievergoeding in de zin van [artikel 7:673 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), vermeerderd met € 10.000, overstijgt;
 
 ##### Artikel 3
 
-De plaatsvervangend secretaris-generaal wordt gemandateerd als bevoegd gezag in de zin van [artikel 4, eerste lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=4) ten aanzien van de hoofden van de taakorganisaties, bedoeld in [artikel 1, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0041639&artikel=1&z=2022-11-12&g=2020-01-01), onder hun ressorterende ambtenaren.
+De plaatsvervangend secretaris-generaal wordt aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de hoofden van de taakorganisaties als bedoeld in [artikel 2, derde lid, van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2).
 
 ##### Artikel 4
 
