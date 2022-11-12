@@ -4,7 +4,7 @@ identifier: "BWBR0041688"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-27"
-last_updated: "2022-06-04"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041688"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en V
 
 - b). de volgende aangelegenheden die mede hun cluster betreffen:
 
-- 1°. het nemen van besluiten op verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en daarmee samenhangende beslissingen;
+- 1°. het nemen van besluiten op verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en daarmee samenhangende beslissingen;
 
 - 2°. het nemen van besluiten op verzoeken als bedoeld in de artikelen 15 tot en met 22 van de Algemene verordening gegevensbescherming en daarmee samenhangende beslissingen;
 
@@ -86,7 +86,7 @@ De hoofden van de clusters, genoemd in [artikel 2, tweede lid, van het Organisat
 
 2. Aan de secretaris-generaal blijft tevens voorbehouden de bevoegdheid om besluiten te nemen, indien deze:
 
-- a. zijn neergelegd in een document dat betrekking heeft op een verzoek in de zin van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), indien gehele of gedeeltelijke inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben;
+- a. zijn neergelegd in een document dat betrekking heeft op een verzoek in de zin van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), indien gehele of gedeeltelijke inwilliging of afwijzing daarvan belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben;
 
 - b. uitleveringsbeschikkingen inhouden;
 
@@ -114,16 +114,10 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan:
-
-- a). de plaatsvervangend secretaris-generaal bedoeld in [artikel 2, eerste lid van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), ten aan zien van de aangelegenheden die het SG-cluster bedoeld in artikel 2, tweede lid, onder a, van het Organisatiebesluit Ministerie van Justitie en Veiligheid betreffen, alsmede ten aanzien van de aangelegenheden als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1&z=2022-06-04&g=2022-06-04);
-
-- b). de hoofddirecteur bedrijfsvoering bedoeld in [artikel 2, tweede lid onder c van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), ten aanzien van de aangelegenheden die het pSG-cluster bedoeld in artikel tweede lid, onder b, van het Organisatiebesluit Ministerie van Justitie en Veiligheid betreffen, alsmede ten aanzien van de aangelegenheden als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041688&artikel=1&z=2022-06-04&g=2022-06-04).
+Vervallen
 
 ##### Artikel 2a
 
-1. De plaatsvervangend secretaris-generaal wordt aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder SG-cluster ressorterende ambtenaren.
-
-2. De hoofddirecteur bedrijfsvoering wordt aangewezen en volmacht verleend om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder pSG-cluster ressorterende ambtenaren.
+De secretaris-generaal blijft eindverantwoordelijk voor de beleidsmatige kwesties die de directie Financieel-Economische Zaken en de directie Wetgeving en Juridische Zaken als bedoeld in [artikel 4, tweede lid, onderdelen a en e, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=4) betreffen.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
