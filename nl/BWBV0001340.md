@@ -4,7 +4,7 @@ identifier: "BWBV0001340"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-11-16"
-last_updated: "2022-02-17"
+last_updated: "2022-11-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001340"
 soort: "verdrag"
@@ -54,7 +54,7 @@ Er wordt een onafhankelijke internationale organisatie opgericht met de naam „
 
 1. De Regering van de Republiek Korea verleent het Instituut dezelfde rechten, voorrechten en immuniteiten als die welke gewoonlijk worden toegekend aan soortgelijke internationale organisaties.
 
-2. Voorrechten en immuniteiten worden verleend aan de Leden van de Raad van Toezicht, de Directeur en het personeel van het Instituut zoals vastgelegd in de artikelen VIII, IX en [XIII van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XIII&z=2022-02-17&g=2022-02-17) van het Instituut dat is bijgevoegd en aan deskundigen die opdrachten uitvoeren ten behoeve van het Instituut.
+2. Voorrechten en immuniteiten worden verleend aan de Leden van de Raad van Toezicht, de Directeur en het personeel van het Instituut zoals vastgelegd in de artikelen VIII, IX en [XIII van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XIII&z=2022-11-16&g=2022-11-16) van het Instituut dat is bijgevoegd en aan deskundigen die opdrachten uitvoeren ten behoeve van het Instituut.
 
 ##### Artikel III. Depositaris
 
@@ -66,11 +66,11 @@ Dit Verdrag staat op het Hoofdkantoor van de Verenigde Naties te New York open v
 
 ##### Artikel V. Bekrachtiging, aanvaarding en goedkeuring
 
-Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende Staten en intergouvernementele organisaties bedoeld in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2022-02-17&g=2022-02-17).
+Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende Staten en intergouvernementele organisaties bedoeld in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2022-11-16&g=2022-11-16).
 
 ##### Artikel VI. Toetreding
 
-Na afloop van de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2022-02-17&g=2022-02-17) genoemde termijn kan iedere Staat of intergouvernementele organisatie tot dit Verdrag toetreden behoudens goedkeuring van de Raad van Toezicht van het Instituut met gewone meerderheid van stemmen.
+Na afloop van de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2022-11-16&g=2022-11-16) genoemde termijn kan iedere Staat of intergouvernementele organisatie tot dit Verdrag toetreden behoudens goedkeuring van de Raad van Toezicht van het Instituut met gewone meerderheid van stemmen.
 
 ##### Artikel VII. Regeling van geschillen
 
@@ -98,7 +98,7 @@ Iedere Partij bij dit Verdrag kan dit Verdrag te allen tijde opzeggen door midde
 
 ##### Artikel X. Beëindiging
 
-Dit Verdrag wordt beëindigd drie maanden nadat het Instituut is opgeheven krachtens [artikel XXI van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XXI&z=2022-02-17&g=2022-02-17).
+Dit Verdrag wordt beëindigd drie maanden nadat het Instituut is opgeheven krachtens [artikel XXI van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XXI&z=2022-11-16&g=2022-11-16).
 
 ##### Artikel XI. Authentieke tekst
 
@@ -261,6 +261,8 @@ De organen van het Instituut zijn:
 4. De Raad stelt zijn eigen reglement van orde vast.
 
 5. Het quorum voor de bijeenkomsten van de Raad wordt gevormd door de meerderheid der leden.
+
+6. Gespreide termijnen kunnen van toepassing zijn op de leden die een positie in de Raad bekleden zodat deze langer kunnen aanblijven dan hun reguliere termijn als functionaris in omstandigheden waarbij meer dan twee functionarissen in hetzelfde jaar de Raad verlaten. De Raad kan de gespreide termijnen vaststellen voor of na het verstrijken van de reguliere termijn van de functionarissen. Niettegenstaande het bepaalde in artikel IX, tweede lid, kan de termijn van functionarissen als lid van de Raad worden verlengd tot het verstrijken van de gespreide termijnen. De gespreide termijnen mogen echter niet langer zijn dan drie jaar.
 
 ##### Artikel XII. Stemming door de Raad
 
