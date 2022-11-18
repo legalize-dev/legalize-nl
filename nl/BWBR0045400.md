@@ -4,7 +4,7 @@ identifier: "BWBR0045400"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-05-05"
-last_updated: "2020-07-07"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045400"
 soort: "beleidsregel"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 ### 3. Vergoeding voorzitter
 
-De voorzitter vervult een functie bij een instelling of organisatie als bedoeld in [artikel 1.2 tot en met 1.5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2) en ontvangt geen vergoeding op grond van de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775).
+Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn en de arbeidsduurfactor op 32/36.
 
 ### 4. Vergoeding andere leden
 
