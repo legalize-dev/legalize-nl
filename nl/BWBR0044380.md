@@ -4,7 +4,7 @@ identifier: "BWBR0044380"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-17"
-last_updated: "2022-10-01"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044380"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2022-11-18&g=2022-10-01).
+- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044380&artikel=2&z=2022-11-18&g=2022-11-18).
 
 ##### Artikel 2. Instelling en taak
 
@@ -56,6 +56,8 @@ In dit besluit wordt verstaan onder:
 
 3. De commissie heeft tot taak om de minister, alsmede partijen in het onderwijs- en onderzoeksveld, te adviseren over de uitvoering en monitoring van diversiteitsbeleid en bijbehorende instrumenten, met het oog op het bereiken van de doelstellingen genoemd in het ‘Nationaal Actieplan Diversiteit en Inclusie in het Hoger Onderwijs en Onderzoek’, Kamerstuk 29338-220.
 
+4. Een commissielid onthoud zich van advies in het geval dit commissielid buiten het kader van deze commissie de partij eerder heeft geadviseerd over de uitvoering en monitoring van diversiteitsbeleid en bijbehorende instrumenten.
+
 ##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en ten hoogste 10 andere leden, waarvan 1 studentlid.
@@ -64,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 3. De voorzitter en de andere leden worden door de minister benoemd.
 
-4. De benoeming geschiedt voor de duur van 2 of 3 jaar met mogelijkheid om éénmaal herbenoemd te worden voor eenzelfde periode. Het studentlid wordt 1 jaar benoemd zonder mogelijkheid tot herbenoeming.
+4. De benoeming geschiedt voor de duur van 2 of 3 jaar met mogelijkheid om éénmaal herbenoemd te worden voor eenzelfde periode. Het studentlid wordt 1 jaar benoemd met mogelijkheid om éénmaal herbenoemd te worden voor eenzelfde periode.
 
 5. De voorzitter en overige leden kunnen (op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden) worden geschorst en ontslagen door de minister.
 
@@ -98,7 +100,15 @@ In dit besluit wordt verstaan onder:
 
 4. Te rekenen vanaf 1 oktober 2020 wordt Mohamed Badaou te Amsterdam voor een periode van 1 jaar tot studentlid van de commissie benoemd.
 
-5. Te rekenen vanaf 1 oktober 2021 wordt Khaled Tamimy te Amsterdam voor een periode van 1 jaar tot studentlid van de commissie benoemd.
+5. Te rekenen vanaf 1 oktober 2021 wordt Khaled Tamimy te Amsterdam voor een periode van 1 jaar tot studentlid van de commissie benoemd. Te rekenen vanaf 1 oktober 2022 wordt deze benoeming met een jaar verlengd.
+
+6. Te rekenen vanaf 1 oktober 2022 worden voor een periode van 2 jaar tot lid van de commissie benoemd
+
+- a. Milly Kock MSc te Voorhout
+
+- b. Eline Pollaert MA te Voorschoten
+
+- c. dr. Claartje Vinkenburg te Amsterdam
 
 ##### Artikel 5. Instellingsduur
 
