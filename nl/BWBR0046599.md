@@ -4,7 +4,7 @@ identifier: "BWBR0046599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-01"
-last_updated: "2022-06-01"
+last_updated: "2022-11-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046599"
 soort: "ministeriele-regeling"
@@ -220,7 +220,7 @@ De Minister van Infrastructuur en Waterstaat maakt de gegevens, bedoeld in bijla
 
 - d. niet wordt voldaan aan de voorschriften die in de groenverklaring zijn opgenomen; of
 
-- e. niet wordt voldaan aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=5&artikel=10&z=2022-06-01&g=2022-06-01).
+- e. niet wordt voldaan aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=5&artikel=10&z=2022-11-19&g=2022-11-19).
 
 2. Het besluit tot intrekking kan terugwerkende kracht hebben.
 
@@ -256,7 +256,7 @@ Deze regeling treedt in werking met ingang van 1 juni 2022.
 
 Deze regeling wordt aangehaald als: Regeling groenprojecten 2022.
 
-## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=2&artikel=2&z=2022-06-01&g=2022-06-01)
+## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=2&artikel=2&z=2022-11-19&g=2022-11-19)
 
 ### Projectcategorie 1. Natuur
 
