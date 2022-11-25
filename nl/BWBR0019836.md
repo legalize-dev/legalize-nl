@@ -4,7 +4,7 @@ identifier: "BWBR0019836"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-11-25"
-last_updated: "2020-03-25"
+last_updated: "2022-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019836"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 2. Van toepassing van videoconferentie wordt bovendien geen gebruik gemaakt indien de te horen persoon een zodanige auditieve of visuele handicap heeft waardoor redelijkerwijs kan worden verondersteld dat videoconferentie afbreuk doet aan zijn inbreng of positie in het strafproces, dan wel aan de rechten van andere procesdeelnemers.
 
-3. In afwijking van het eerste lid kan van videoconferentie gebruik worden gemaakt indien de meervoudige of enkelvoudige kamer bepaalt dat videoconferentie noodzakelijk is in het bijzondere belang van de beveiliging van de zitting.
+3. In afwijking van het eerste lid kan van videoconferentie gebruik worden gemaakt indien de meervoudige kamer of de rechter-commissaris bepaalt dat videoconferentie noodzakelijk is in het bijzondere belang van de beveiliging van de zitting of van het vervoer naar of van de zitting.
 
 ##### Artikel 3
 
