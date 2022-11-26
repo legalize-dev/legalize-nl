@@ -4,7 +4,7 @@ identifier: "BWBR0024926"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-01-01"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024926"
 soort: "ministeriele-regeling"
@@ -62,15 +62,15 @@ Besluit:
 
 3. In deze regeling wordt onder ziektekostenverzekeraar tevens verstaan degene bedoeld in [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=44).
 
-4. In deze regeling wordt in [artikel 2, onderdelen 4a, 8a, 10b, 10c, 10e en 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2019-01-01&g=2019-01-01), [artikel 3, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=3&z=2019-01-01&g=2019-01-01), [artikel 4, onderdelen 1, 5 en 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=4&z=2019-01-01&g=2019-01-01), en [artikel 5, onderdelen 1, 2, 3a, 4 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2019-01-01&g=2019-01-01), onder ziektekostenverzekeraar tevens verstaan een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voldoen.
+4. In deze regeling wordt in [artikel 2, onderdelen 4a, 8a, 10b, 10c, 10e en 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2022-11-26&g=2022-11-26), [artikel 3, onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=3&z=2022-11-26&g=2022-11-26), [artikel 4, onderdelen 1, 5, 7 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=4&z=2022-11-26&g=2022-11-26), en [artikel 5, onderdelen 1, 2, 3a, 4 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2022-11-26&g=2022-11-26), onder ziektekostenverzekeraar tevens verstaan een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voldoen.
 
-5. In deze regeling wordt in [artikel 2, onderdeel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2019-01-01&g=2019-01-01), en in [artikel 5, onderdelen 2, 4, 5 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2019-01-01&g=2019-01-01), onder zorgverzekeraar tevens verstaan een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voldoen.
+5. In deze regeling wordt in [artikel 2, onderdeel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2022-11-26&g=2022-11-26), en in [artikel 5, onderdelen 2, 4, 5 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2022-11-26&g=2022-11-26), onder zorgverzekeraar tevens verstaan een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voldoen.
 
-6. In deze regeling wordt in [artikel 2, onderdelen 7 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2019-01-01&g=2019-01-01), en [artikel 5, onderdelen 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2019-01-01&g=2019-01-01), onder zorgverzekeraar tevens verstaan het CAK.
+6. In deze regeling wordt in [artikel 2, onderdelen 7 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2022-11-26&g=2022-11-26), en [artikel 5, onderdelen 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2022-11-26&g=2022-11-26), onder zorgverzekeraar tevens verstaan het CAK.
 
-7. In de regeling wordt in [artikel 2, onderdelen 9 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2019-01-01&g=2019-01-01), en [artikel 5, onderdelen 3, 4 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2019-01-01&g=2019-01-01), onder Wlz-uitvoerder tevens verstaan het CAK.
+7. In de regeling wordt in [artikel 2, onderdelen 9 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2022-11-26&g=2022-11-26), en [artikel 5, onderdelen 3, 4 en 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2022-11-26&g=2022-11-26), onder Wlz-uitvoerder tevens verstaan het CAK.
 
-8. In de regeling wordt in [artikel 5, onderdelen 1, 3a, 5, 6 en 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2019-01-01&g=2019-01-01), onder ziektekostenverzekeraar tevens verstaan het CAK.
+8. In de regeling wordt in [artikel 5, onderdelen 1, 3a, 5, 6 en 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2022-11-26&g=2022-11-26), onder ziektekostenverzekeraar tevens verstaan het CAK.
 
 ##### Artikel 2
 
@@ -122,7 +122,7 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 3](https
 
 Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5) worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorieën van persoonsgegevens:
 
-- 1. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens ter uitvoering van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2019-01-01&g=2019-01-01) en 3 vermelde artikelen en voor zover de categorie van persoonsgegevens daarbij is vermeld;
+- 1. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens ter uitvoering van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2022-11-26&g=2022-11-26) en 3 vermelde artikelen en voor zover de categorie van persoonsgegevens daarbij is vermeld;
 
 - 2. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens die noodzakelijk zijn voor de interne en externe controle van de naleving van een door de zorgautoriteit vastgestelde regeling door een op grond van artikel 61 van de wet door de zorgautoriteit aangewezen persoon en voor zover de categorie van persoonsgegevens daarbij is vermeld;
 
@@ -146,11 +146,13 @@ De zorgautoriteit verstrekt aan de in [artikel 70 van de wet](https://wetten.ove
 
 - 6. het College bescherming persoonsgegevens en de FIOD-ECD: persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en verzekeraars als bedoeld in [artikel 35, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35) en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten;
 
-- 7. de Gezondheidsraad, het Rijksinstituut voor de volksgezondheid en milieu, de Raad voor de Volksgezondheid en Samenleving en het Sociaal Cultureel Planbureau: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders;
+- 7. het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, genoemd in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8): persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en van ziektekostenverzekeraars;
 
-- 8. het Centraal Planbureau: persoonsgegevens behorend tot de categorieën identificerende persoonsgegevens van zorgaanbieders en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten;
+- 8. de Gezondheidsraad, het Rijksinstituut voor de volksgezondheid en milieu, de Raad voor de Volksgezondheid en Samenleving en het Sociaal Cultureel Planbureau: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders;
 
-- 9. het Centraal Bureau voor de Statistiek: persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en van ziektekostenverzekeraars en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten.
+- 9. het Centraal Planbureau: persoonsgegevens behorend tot de categorieën identificerende persoonsgegevens van zorgaanbieders en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten;
+
+- 10. het Centraal Bureau voor de Statistiek: persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en van ziektekostenverzekeraars en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten.
 
 ##### Artikel 5
 
