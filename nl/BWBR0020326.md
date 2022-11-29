@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -188,11 +188,11 @@ De [artikelen 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a) 
 
 - d. natuurlijke personen die geen zorg doen verlenen;
 
-- e. natuurlijke personen voor zover zij zorg doen verlenen in het kader van een maatschap of vennootschap waarvan zij vennoot zijn.
+- e. natuurlijke personen en rechtspersonen voor zover zij zorg doen verlenen in het kader van een maatschap of vennootschap waarvan zij vennoot zijn.
 
 ##### Artikel 5b
 
-1. [Artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) blijft in afwijking van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=5a&z=2022-01-01&g=2022-01-01), buiten toepassing voor zorgaanbieders waarop op het onmiddellijk aan de inwerkingtreding van [artikel II, onderdeel C, van de Aanpassingswet Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043812&artikel=II) voorafgaand tijdstip, de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=15) en [16 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) niet van toepassing waren.
+1. [Artikel 40b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) blijft in afwijking van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0020326&artikel=5a&z=2022-11-29&g=2022-11-29), buiten toepassing voor zorgaanbieders waarop op het onmiddellijk aan de inwerkingtreding van [artikel II, onderdeel C, van de Aanpassingswet Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043812&artikel=II) voorafgaand tijdstip, de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=15) en [16 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=16) niet van toepassing waren.
 
 2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
