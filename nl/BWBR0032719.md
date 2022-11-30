@@ -4,7 +4,7 @@ identifier: "BWBR0032719"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-11-30"
-last_updated: "2013-01-04"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032719"
 soort: "ministeriele-regeling"
@@ -42,9 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) heeft tot taak om namens de Minister van Volksgezondheid, Welzijn en Sport de landelijke aansturing en begeleiding van programmatische preventieprogramma’s uit te voeren.
-
-2. De taak, bedoeld in het eerste lid, omvat in ieder geval:
+1. De taak, bedoeld in [artikel 3, eerste lid, onderdeel c, van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=3), omvat in ieder geval:
 
 - a. de uitvoering, dan wel het doen uitvoeren van de programma’s,
 
@@ -56,17 +54,21 @@ Besluit:
 
 - e. het uitvoeren, dan wel laten uitvoeren van onder andere de inkoop, opslag en distributie van farmaceutische producten en medische hulpmiddelen ten behoeve van de programma’s, en
 
-- f. het bevorderen van de aansluiting van de programma’s met de reguliere zorg. 3. 3. De programma’s, bedoeld in het eerste lid, omvatten:
+- f. het bevorderen van de aansluiting van de programma’s met de reguliere zorg.
 
-- a. de bevolkingsonderzoeken naar borstkanker, baarmoederhalskanker, darmkanker,
+2. De programma’s, bedoeld in [artikel 3, eerste lid, onderdeel c, van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=3), omvatten:
 
-- b. de opsporing van familiaire hypercholesterolomie in de periode tot 1 januari 2014,
+- a. de bevolkingsonderzoeken naar borstkanker, baarmoederhalskanker en darmkanker;
 
-- c. de prenatale screening van zwangeren op infectieziekten en erytrocytenimmunisatie (PSIE),
+- b. de prenatale screening op infectieziekten en erytrocytenimmunisatie (PSIE);
 
-- d. de neonatale hielprikscreening (NHS) en de gehoorscreening bij pasgeborenen, en
+- c. de prenatale screening op down-, edwards- en patausyndroom en het structureel echoscopisch onderzoek;
 
-- e. het Nationaal programma grieppreventie (NPG).
+- d. de neonatale hielprikscreening (NHS) en de gehoorscreening bij pasgeborenen;
+
+- e. het Nationaal programma grieppreventie (NPG);
+
+- f. het Nationaal programma pneumokokkenvaccinatie volwassenen (NPPV).
 
 ##### Artikel 2
 
@@ -89,5 +91,11 @@ Het besluit van 12 september 2005, kenmerk PG-2.612.655, wordt ingetrokken.
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+Dit besluit wordt in de Staatscourant geplaatst.
+
+##### Artikel 6
+
+Dit besluit wordt aangehaald als: Besluit RIVM.
 
 Dit besluit wordt in de Staatscourant geplaatst.
