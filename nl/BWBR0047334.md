@@ -4,7 +4,7 @@ identifier: "BWBR0047334"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-27"
-last_updated: "2022-10-21"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047334"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - b. genormeerde gemiddelde personeelslasten leraar: € 83.482,88;
 
-- c. genormeerde gemiddelde personeelslasten schoolleiding: € 105.333,07.
+- c. genormeerde gemiddelde personeelslasten schoolleiding: € 101.848,51.
 
 2. Het formatiebasisbedrag respectievelijk het formatieleeftijdsbedrag bedraagt voor basisscholen:
 
@@ -103,7 +103,7 @@ Het basisbedrag respectievelijk het leeftijdsbedrag, bedoeld in de in de eerste 
 
 | Artikel | Basisbedrag | Leeftijdsbedrag |
 | --- | --- | --- |
-| [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=23), (zeer kleine scholen) | € 108.939,69 | € 2.939,73 |
+| [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=23), (zeer kleine scholen) | € 130.790,32 | € 2.939,73 |
 | [24, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=24), (kleine scholen voet) | € 87.015,82 | € 2.348,11 |
 | [24, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=24), (kleine scholen verminderingsbedrag) | € 602,82 | € 16,27 |
 
@@ -131,7 +131,7 @@ Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO]
 
 ##### Artikel 7. Vaststelling bedragen programma's van eisen voor basisscholen
 
-De bedragen van de programma's van eisen voor de basisscholen, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113), zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-10-21&g=2022-10-21).
+De bedragen van de programma's van eisen voor de basisscholen, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113), zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-11-30&g=2022-11-30).
 
 #### Paragraaf 2. Speciale scholen voor basisonderwijs
 
@@ -193,7 +193,7 @@ B = het aantal leerlingen met een niet-Nederlandse culturele achtergrond, vermen
 
 ##### Artikel 13. Vaststelling bedragen programma's van eisen voor speciale scholen voor basisonderwijs
 
-De bedragen van de programma's van eisen voor de speciale scholen voor basisonderwijs, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113) zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-10-21&g=2022-10-21).
+De bedragen van de programma's van eisen voor de speciale scholen voor basisonderwijs, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113) zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-11-30&g=2022-11-30).
 
 #### Paragraaf 3. Scholen voor (voortgezet) speciaal onderwijs in cluster 3 en 4
 
@@ -263,7 +263,7 @@ B = het aantal leerlingen met een niet-Nederlandse culturele achtergrond, vermen
 
 ##### Artikel 19. Vaststelling bedragen van de materiele instandhouding voor het (voortgezet) speciaal onderwijs
 
-De bedragen van de materiële instandhouding voor het (voortgezet) speciaal onderwijs, bedoeld in de [artikelen 111, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114) en [128, zesde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=128) zoals die luidden op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=2&z=2022-10-21&g=2022-10-21).
+De bedragen van de materiële instandhouding voor het (voortgezet) speciaal onderwijs, bedoeld in de [artikelen 111, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114) en [128, zesde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=128) zoals die luidden op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=2&z=2022-11-30&g=2022-11-30).
 
 ### Hoofdstuk 3. Vaststelling bedragen voor de bepaling van de bekostiging, bedoeld in [artikel 214, tweede lid, onderdeel e, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=214) en voor de bepaling van de bekostiging, bedoeld in [artikel 188, tweede lid, onderdeel e, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=188)
 
@@ -271,7 +271,7 @@ De bedragen van de materiële instandhouding voor het (voortgezet) speciaal onde
 
 ##### Artikel 20. Basisbekostiging, bedrag per school en bedrag per leerling
 
-1. Het bedrag per leerling, bedoeld in [artikel 116, tweede lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), bedraagt € 6.601,21.
+1. Het bedrag per leerling, bedoeld in [artikel 116, tweede lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), bedraagt € 5.923,90.
 
 2. Het bedrag per school, bedoeld in [artikel 13, vierde lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=13) bedraagt voor:
 
@@ -288,7 +288,7 @@ Het startbedrag, verminderingsbedrag en basisbedrag, bedoeld in de in de eerste 
 | --- | --- |
 | [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(kleine scholen startbedrag)** | € 231.429,01 |
 | [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(kleine scholen verminderingsbedrag)** | € 1.599,86 |
-| [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(zeer kleine scholen basisbedrag)** | € 413.284,47 |
+| [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=14), **(zeer kleine scholen basisbedrag)** | € 413.284,92 |
 
 ##### Artikel 22. Extra bekostiging een of meer nevenvestigingen
 
@@ -493,7 +493,7 @@ Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit
 
 Deze regeling wordt aangehaald als: Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC.
 
-## Bijlage 1. behorende bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=1&artikel=7&z=2022-10-21&g=2022-10-21) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=2&artikel=13&z=2022-10-21&g=2022-10-21) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
+## Bijlage 1. behorende bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=1&artikel=7&z=2022-11-30&g=2022-11-30) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=2&artikel=13&z=2022-11-30&g=2022-11-30) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
 
 ### Bedragen programma's van eisen voor basisscholen en speciale scholen voor basisonderwijs voor het jaar 2022
 
@@ -559,9 +559,37 @@ Bedrag per leerling = € 21,93
 
 De bedragen, bedoeld in [artikel 111, vierde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111) zoals die luidde op 31 maart 2022, staan in onderstaande tabel.
 
+### 1. De basisbekostiging
+
+De bedragen per school en per schooltype als bedoeld in [artikel 111, vierde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111) zoals die luidde op 31 maart 2022, staan in onderstaande tabel
+
+De bedragen, bedoeld in [artikel 111, vierde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111) zoals die luidde op 31 maart 2022, staan in onderstaande tabel.
+
 ### II. Vaste voeten cluster 3 en 4
 
 De bedragen per school en per schooltype als bedoeld in [artikel 111, vierde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111) zoals die luidde op 31 maart 2022, staan in onderstaande tabel
+
+### IV. Schoolbaden
+
+Dit betreft een aanvullende vergoeding voor ruimten voor watergewenning of bewegingstherapie (hydrotherapie) in gebruik bij en door scholen. De genormeerde vergoeding is afhankelijk van het soort bad en het bedrag per m3 waterinhoud.
+
+### 2. Aanvullende materiële bekostiging voor zware ondersteuning cluster 3 en 4
+
+De bedragen voor zware ondersteuning bedoeld in [artikel 128, zesde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=128) zoals die luidde op 31 maart 2022, staan in onderstaande tabel.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### D. Extra bekostiging
+
+Yd = bedrag per leerling in het speciaal basisonderwijs
+
+Bedrag per leerling = € 246,38
+
+## Bijlage 2. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=3&artikel=19&z=2022-11-30&g=2022-11-30) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
+
+### Bedragen materiële instandhouding voor scholen voor (voortgezet) speciaal onderwijs
+
+### I. Bedragen per leerling cluster 3 en 4
 
 Bij LG-scholen en ZMLK-scholen met een reguliere SO MG-afdeling wordt het SO schooltype bedrag verhoogd met € 4.373,32
 
