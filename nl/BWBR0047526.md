@@ -4,7 +4,7 @@ identifier: "BWBR0047526"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-11-30"
-last_updated: "2022-11-29"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047526"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **minister:** de Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **adviescommissie:** de adviescommissie Lijst beroepsziekten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047526&artikel=2&z=2022-11-30&g=2022-11-29);
+- b. **adviescommissie:** de adviescommissie Lijst beroepsziekten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047526&artikel=2&z=2022-11-30&g=2022-11-30);
 
 - c. **RIVM:** Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven;
 
