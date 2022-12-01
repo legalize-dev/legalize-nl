@@ -4,7 +4,7 @@ identifier: "BWBR0042645"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-12-01"
-last_updated: "2020-01-01"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042645"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van orthopedagogen-generalist te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot orthopedagoog-generalist heeft afgelegd, uitgereikt door een krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=3&artikel=7&z=2020-01-01&g=2020-01-01) aangewezen opleidingsinstelling.
+Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van orthopedagogen-generalist te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot orthopedagoog-generalist heeft afgelegd, uitgereikt door een krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=3&artikel=7&z=2022-12-01&g=2022-12-01) aangewezen opleidingsinstelling.
 
 #### § 2. Opleiding
 
@@ -178,17 +178,17 @@ De opleiding tot orthopedagoog-generalist is erop gericht dat de betrokkene comp
 
 - a. klinische vaardigheden op het terrein van de psychologie of pedagogiek; en
 
-- b. een klinische stage van ten minste 520 uur op het terrein van de psychologie of pedagogiek, ten aanzien van een categorie van personen als bedoeld in [artikel 3, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01).
+- b. een klinische stage van ten minste 520 uur op het terrein van de psychologie of pedagogiek, ten aanzien van een categorie van personen als bedoeld in [artikel 3, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=2&artikel=3&z=2022-12-01&g=2022-12-01).
 
 #### § 3. Opleidingsinstellingen
 
 ##### Artikel 7
 
-1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot orthopedagoog-generalist verzorgen die naar zijn oordeel voldoet aan de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01).
+1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot orthopedagoog-generalist verzorgen die naar zijn oordeel voldoet aan de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=2&artikel=3&z=2022-12-01&g=2022-12-01).
 
 2. Voor aanwijzing komen in aanmerking opleidingsinstellingen waarvan in redelijkheid verwacht mag worden dat zij:
 
-- a. de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=3&artikel=9&z=2020-01-01&g=2020-01-01) zullen naleven;
+- a. de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=2&artikel=3&z=2022-12-01&g=2022-12-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=3&artikel=8&z=2022-12-01&g=2022-12-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=3&artikel=9&z=2022-12-01&g=2022-12-01) zullen naleven;
 
 - b. zorg dragen voor een evenwichtige verhouding tussen het theoretische en praktische gedeelte van de opleiding enerzijds en de werkervaring anderzijds;
 
@@ -222,13 +222,13 @@ De opleidingsinstelling organiseert het onderwijs overeenkomstig de [artikelen 7
 
 ##### Artikel 10
 
-1. Met het bezit van een getuigschrift als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=1&artikel=2&z=2020-01-01&g=2020-01-01) wordt gelijkgesteld het gezamenlijk bezit van:
+1. Met het bezit van een getuigschrift als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=1&artikel=2&z=2022-12-01&g=2022-12-01) wordt gelijkgesteld het gezamenlijk bezit van:
 
 - a. een getuigschrift waaruit blijkt dat de betrokkene een doctoraalexamen of een masteropleiding pedagogische wetenschappen, psychologie of gezondheidswetenschappen aan een instelling voor wetenschappelijk onderwijs met goed gevolg heeft afgerond; en
 
-- b. een getuigschrift waaruit blijkt dat de betrokkene tussen 1 januari 2001 en 1 januari 2023 een opleiding tot orthopedagoog-generalist heeft afgerond aan de RINO Zuid, de Postdoctorale Beroepsopleiding Orthopedagogiek Randstad, de Rijksuniversiteit Groningen of het opleidingsinstituut Postmasteropleidingen binnen de Psychologie en de Orthopedagogiek te Groningen of een getuigschrift waaruit blijkt dat betrokkene een door de Nederlandse vereniging van pedagogen en onderwijskundigen vastgesteld opleidingstraject vóór 1 januari 2023 heeft afgerond.
+- b. een getuigschrift waaruit blijkt dat de betrokkene tussen 1 januari 2001 en 1 januari 2023 een opleiding tot orthopedagoog-generalist heeft afgerond aan de RINO Zuid, de Postdoctorale Beroepsopleiding Orthopedagogiek Randstad, de Rijksuniversiteit Groningen of het opleidingsinstituut Postmasteropleidingen binnen de Psychologie en de Orthopedagogiek te Groningen of een getuigschrift waaruit blijkt dat betrokkene een door de Nederlandse vereniging van pedagogen en onderwijskundigen vastgesteld opleidingstraject vóór 1 juli 2023 heeft afgerond.
 
-2. Met het bezit van een getuigschrift als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=1&artikel=2&z=2020-01-01&g=2020-01-01) wordt tot één jaar na inwerkingtreding van dit besluit tevens gelijkgesteld het gezamenlijk bezit van:
+2. Met het bezit van een getuigschrift als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=1&artikel=2&z=2022-12-01&g=2022-12-01) wordt tot één jaar na inwerkingtreding van dit besluit tevens gelijkgesteld het gezamenlijk bezit van:
 
 - a. een getuigschrift waaruit blijkt dat de betrokkene een doctoraalexamen of een masteropleiding pedagogische wetenschappen, psychologie of gezondheidswetenschappen aan een instelling voor wetenschappelijk onderwijs met goed gevolg heeft afgerond; en
 
