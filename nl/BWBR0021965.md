@@ -4,7 +4,7 @@ identifier: "BWBR0021965"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-01"
-last_updated: "2022-09-01"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021965"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ In dit besluit wordt verstaan onder:
 
 - b. Ministerie: het Ministerie van Veiligheid en Justitie;
 
-- c. commissie: commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021965&artikel=2&z=2021-05-20&g=2022-09-01).
+- c. commissie: commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021965&artikel=2&z=2022-12-01&g=2022-12-01).
 
 ##### Artikel 2
 
@@ -73,7 +73,7 @@ De commissie stelt een reglement omtrent haar werkwijze vast en brengt dit ter k
 
 ##### Artikel 6
 
-1. De commissie heeft tot taak advies uit te brengen aan het bevoegd gezag in de gevallen bedoel in [artikel 12a, derde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12a).
+1. De commissie heeft tot taak advies uit te brengen aan het bevoegd gezag in de gevallen bedoeld in [artikel 12a, vierde lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=12a).
 
 2. Gelijktijdig met het uitbrengen van haar schriftelijke advies aan het bevoegd gezag stelt de commissie de betrokken ambtenaar die de aanvraag heeft ingediend schriftelijk in kennis van haar advies.
 
@@ -89,7 +89,7 @@ Het bevoegd gezag vermeldt in of bij besluit dat de commissie advies heeft uitge
 
 ##### Artikel 9
 
-1. De leden van de commissie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021965&artikel=3&z=2021-05-20&g=2022-09-01), alsmede haar secretarissen en de deskundigen die aan de werkzaamheden van de commissie deelnemen, ontvangen voor hun werkzaamheden een vergoeding per vergadering ter hoogte van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat de voorzitter per vergadering een vergoeding ontvangt ter hoogte van 130% van de vergoeding per vergadering die de overige leden ontvangen.
+1. De leden van de commissie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021965&artikel=3&z=2022-12-01&g=2022-12-01), alsmede haar secretarissen en de deskundigen die aan de werkzaamheden van de commissie deelnemen, ontvangen voor hun werkzaamheden een vergoeding per vergadering ter hoogte van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat de voorzitter per vergadering een vergoeding ontvangt ter hoogte van 130% van de vergoeding per vergadering die de overige leden ontvangen.
 
 2. Twee of meer vergaderingen op dezelfde dag gelden als één vergadering.
 
