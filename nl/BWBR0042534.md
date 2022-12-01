@@ -4,7 +4,7 @@ identifier: "BWBR0042534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-28"
-last_updated: "2022-10-15"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042534"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- a. **minister:** Minister voor Langdurige Zorg en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2022-12-01&g=2022-10-15).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=2&z=2022-12-01&g=2022-12-01).
 
 ##### Artikel 2. Instelling en taak
 
@@ -94,19 +94,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instelling
 
-De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2023.
+De commissie wordt ingesteld met ingang van 1 oktober 2019 en wordt opgeheven met ingang van 1 januari 2025.
 
 ##### Artikel 5. Leden
 
-Met ingang van 1 januari 2022 worden voor de periode van 1 januari 2022 tot en met 1 januari 2023 tot lid van de commissie benoemd:
+Met ingang van 15 oktober 2022 worden voor de periode van 15 oktober 2022 tot 1 januari 2025 tot lid van de commissie benoemd:
 
-- a. Mevrouw A.A.H.M de Bresser, te Badhoevedorp, tevens voorzitter;
+- a. Mevrouw M.H.A. Braks, te Nijmegen, tevens ad interim voorzitter;
 
-- b. Mevrouw M.H.A. Brakx, te Nijmegen;
+- b. Mevrouw D.A.M. Maes-Festen, te Rotterdam;
 
-- c. mevrouw D.A.M. Maes-Festen te Rotterdam;
+- c. De heer R.T.C.M. Koopmans, te Malden;
 
-- d. De heer R.T.C.M. Koopmans, te Malden.
+- d. De heer M.B.V. Rouppe van der Voort, te Houten.
 
 ##### Artikel 6. Secretariaat
 
@@ -130,9 +130,9 @@ Met ingang van 1 januari 2022 worden voor de periode van 1 januari 2022 tot en m
 
 ##### Artikel 9. Vergoeding
 
-1. De voorzitter en de andere leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-12-01&g=2022-10-15), die de commissie bijstaan) ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
+1. De voorzitter en de andere leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-12-01&g=2022-12-01), die de commissie bijstaan) ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
-2. De vergoeding per vergadering van de leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-12-01&g=2022-10-15), die de commissie bijstaan) bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+2. De vergoeding per vergadering van de leden (alsmede personen als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042534&artikel=7&z=2022-12-01&g=2022-12-01), die de commissie bijstaan) bedraagt 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding die aan de andere leden van de commissie is toegekend.
 
@@ -148,7 +148,7 @@ Met ingang van 1 januari 2022 worden voor de periode van 1 januari 2022 tot en m
 
 ##### Artikel 11. Verantwoording
 
-De commissie biedt de minister bij voorkeur vóór 1 december 2022, doch uiterlijk 31 december 2022 een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
+De commissie biedt de minister bij voorkeur vóór 1 december 2024, doch uiterlijk voor 31 december 2024 een eindverslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
 
 ##### Artikel 12. Archiefbescheiden
 
@@ -158,7 +158,7 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 1. Dit besluit treedt in werking met ingang van 1 oktober 2019.
 
-2. Dit besluit vervalt met ingang van 1 januari 2022.
+2. Dit besluit vervalt met ingang van 1 januari 2025.
 
 ##### Artikel 14. Citeertitel
 
