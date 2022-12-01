@@ -4,7 +4,7 @@ identifier: "BWBR0024797"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-30"
-last_updated: "2021-10-01"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024797"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- b. **tegemoetkoming:** de tegemoetkoming in de kosten van rechtskundige hulp, bedoeld in de [artikelen 69a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=69a) en [22a van het Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321&artikel=22a);
+- b. **tegemoetkoming:** de tegemoetkoming in de kosten van rechtskundige hulp, bedoeld in [artikel 69a van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=69a);
 
 - c. **bestuurlijke strafbeschikking:** straf opgelegd in het kader van de [wet OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0020074).
 
@@ -81,9 +81,11 @@ In deze regeling wordt verstaan onder:
 
 - g. vervolging door een strafbeschikking als bedoeld in [artikel 257a en volgende van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a);
 
-- h. vergoeding van kosten als bedoeld in de [artikelen 591](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591) en [591a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591a);
+- h. vergoeding van kosten als bedoeld in de [artikelen 529](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=529) en [530 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=530);
 
-- i. een procedure ter zake een bestuurlijke boete.
+- i. een procedure ter zake een bestuurlijke boete;
+
+- j. een ingesteld feitenonderzoek als bedoeld in [artikel 511a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511a).
 
 5. Het uurtarief genoemd in het derde lid wordt jaarlijks per 1 oktober geïndexeerd overeenkomstig de prijsindex voor rechtskundige diensten van het Centraal Bureau voor de Statistiek.
 
@@ -105,15 +107,15 @@ In deze regeling wordt verstaan onder:
 
 4. Het bevoegd gezag overweegt in zijn besluit of:
 
-- –. het handelen of nalaten van de ambtenaar, dat de aanleiding vormt tot het strafrechtelijk onderzoek, dan wel de aansprakelijkheidstelling naar burgerlijk recht, een gevolg is van de uitvoering van de politietaak;
+- –. het handelen of nalaten van de ambtenaar, dat de aanleiding vormt tot het strafrechtelijk onderzoek, dan wel de aansprakelijkheidstelling naar burgerlijk recht, een gevolg is van de uitvoering van de werkzaamheden;
 
 - –. de ambtenaar opzettelijk onrechtmatig dan wel opzettelijk wederrechtelijk of bewust roekeloos heeft gehandeld;
 
 - –. de ambtenaar grof nalatig is geweest;
 
-5. Indien de ambtenaar schadevergoeding vordert op grond van onrechtmatige daad overweegt het bevoegd gezag in zijn besluit of:
+5. Indien de ambtenaar een vordering instelt op grond van onrechtmatige daad overweegt het bevoegd gezag in zijn besluit of:
 
-- –. de onrechtmatige daad jegens de ambtenaar gepleegd is tijdens de uitoefening van de politietaak;
+- –. de onrechtmatige daad jegens de ambtenaar gepleegd is wegens de uitoefening van de werkzaamheden;
 
 - –. de vordering kennelijk onvoldoende grond heeft of kennelijk onredelijk is.
 
@@ -131,7 +133,7 @@ In deze regeling wordt verstaan onder:
 
 2. Indien een schikking met de wederpartij tot stand komt draagt de ambtenaar er zo mogelijk zorg voor dat de kosten van rechtsbijstand in het schikkingsbedrag worden opgenomen en toekomen aan het bevoegd gezag.
 
-3. In een strafrechtelijke procedure draagt de ambtenaar zorg voor een verzoek tot vergoeding van kosten op grond van de [artikelen 591](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591) en [591a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=591a) en draagt er bij toewijzing van dit verzoek zorg voor dat deze vergoeding toekomt aan het bevoegd gezag.
+3. In een strafrechtelijke procedure draagt de ambtenaar zorg voor een verzoek tot vergoeding van kosten op grond van [artikel 529](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=529) en [530 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=530), tenzij het indienen van het verzoek onvoldoende grond heeft of kennelijk onredelijk is. De ambtenaar draagt er bij toewijzing van dit verzoek zorg voor dat deze vergoeding toekomt aan het bevoegd gezag.
 
 4. Bij de indiening van de aanvraag tot vergoeding van de kosten van rechtsbijstand wijst het bevoegd gezag de ambtenaar op het eerste tot en met derde lid van dit artikel.
 
