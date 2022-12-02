@@ -4,7 +4,7 @@ identifier: "BWBR0019673"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2020-12-23"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019673"
 soort: "ministeriele-regeling"
@@ -58,13 +58,13 @@ entry_into_force: "2011-11-30"
 
 ##### Artikel 2. Bijzondere onderzoeken
 
-1. Onverminderd [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2020-12-23&g=2020-12-23), is tot het verrichten van onderzoeken van elektronisch aangedreven liften, personenliften, niet zijnde elektrisch aangedreven liften, en roltrappen tevens bevoegd de Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut) te Amsterdam.
+1. Onverminderd [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2022-12-02&g=2022-12-02), is tot het verrichten van onderzoeken van elektronisch aangedreven liften, personenliften, niet zijnde elektrisch aangedreven liften, en roltrappen tevens bevoegd de Stichting Nederlands Instituut voor Lifttechniek (Liftinstituut) te Amsterdam.
 
 2. Als keuringsinstantie voor opblaasbare reddingsmiddelen als bedoeld in voorschrift III/20.8 van het SOLAS-verdrag, worden aangewezen:
 
-- a. Peerbolte Lifesaving V.O.F. te Grou;
+- a. Peerbolte Lifesaving V.O.F. te Warffum;
 
-- b. Survitec Service & Distribution B.V. te Rotterdam;
+- b. Survitec Safety Solutions Netherlands B.V. te Rotterdam;
 
 - c. Hunfeld B.V. te Delfzijl;
 
@@ -86,21 +86,19 @@ entry_into_force: "2011-11-30"
 
 3. Als testing ASP voor het verrichten van onderzoeken gericht op het testen van geschiktheid van apparatuur voor het automatisch zenden van gegevens, bedoeld in voorschrift V/19.1 van het SOLAS-verdrag worden aangewezen:
 
-- a. Alewijnse Marine Systems B.V., te Krimpen aan den IJssel;
+- a. Radio Holland Group B.V. Rotterdam;
 
-- b. Radio Holland Group B.V. Rotterdam;
+- b. Pole Star Space Applications Limited, te Londen, Verenigd Koninkrijk, in combinatie met de rechtspersonen, genoemd in de onderdelen a en b;
 
-- c. Pole Star Space Applications Limited, te Londen, Verenigd Koninkrijk, in combinatie met de rechtspersonen, genoemd in de onderdelen a en b;
+- c. Alphatron Marine B.V., te Rotterdam;
 
-- d. Alphatron Marine B.V., te Rotterdam;
+- d. door vernummering vervallen;
 
-- e. Wärtsilä Netherlands B.V. te Zwolle;
+- e. Collecte Localisation Satellites, te Ramonville Saint-Agne, Frankrijk.
 
-- f. Collecte Localisation Satellites, te Ramonville Saint-Agne, Frankrijk.
+4. Als keuringsinstantie voor de zeegaande zeilende beroepsvaart, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, wordt aangewezen: Register Holland Classebureau Zeevaart B.V. te Harlingen.
 
-4. Als keuringsinstantie voor de zeegaande zeilende beroepsvaart, bevoegd tot het verrichten van onderzoeken gericht op de certificering van zeilschepen van minder dan 500 GT, gebruikt voor het vervoer van ten hoogste 36 passagiers, die op grond van Nederlandse rechtsregels gerechtigd zijn de vlag van het Koninkrijk te voeren, wordt aangewezen: Register Holland Classebureau Zeevaart B.V. te Steenwijk.
-
-5. Als keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat, bevoegd tot het verrichten van bij of krachtens [artikel 15, vierde lid, van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=15) voorgeschreven onderzoeken, wordt aangewezen: Register Holland Classebureau Zeevaart B.V. te Steenwijk.
+5. Als keuringsinstantie in verband met de afgifte van het nationaal veiligheidscertificaat, bevoegd tot het verrichten van bij of krachtens [artikel 15, vierde lid, van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=15) voorgeschreven onderzoeken, wordt aangewezen: Register Holland Classebureau Zeevaart B.V. te Harlingen.
 
 6. Als keuringsinstantie voor reddingsmiddelen, bevoegd tot het verrichten van onderzoeken gericht op het onderhoud van reddingsmiddelen als bedoeld in Resolutie MSC.402(96) van de Maritieme Veiligheidscommissie, wordt in het Koninkrijk aangewezen:
 
@@ -116,19 +114,19 @@ entry_into_force: "2011-11-30"
 
 - f. De Wolf Maritime Safety B.V. te Yerseke;
 
-- g. Survitec Safety Solutions Netherlands B.V. te Rotterdam.
+- g. Survitec Safety Solutions Netherlands B.V. te Rotterdam;
 
-7. Als keuringsinstantie voor tuigage, bevoegd tot het verrichten van onderzoeken aan de tuigage van zeilschepen, wordt aangewezen: Register Holland Classebureau Zeevaart B.V. te Steenwijk.
+- h. Viking Life-Saving Equipment BV te Rotterdam.
 
-8. Als keuringsinstantie voor radio-uitrusting, bevoegd tot het verrichten van onderzoeken in verband met het certificeren van de radio-uitrusting van vissersvaartuigen en schepen voor zover zij niet door een klassenbureau als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2020-12-23&g=2020-12-23), worden onderzocht, worden aangewezen:
+7. Als keuringsinstantie voor tuigage, bevoegd tot het verrichten van onderzoeken aan de tuigage van zeilschepen, wordt aangewezen: Register Holland Classebureau Zeevaart B.V. te Harlingen.
+
+8. Als keuringsinstantie voor radio-uitrusting, bevoegd tot het verrichten van onderzoeken in verband met het certificeren van de radio-uitrusting van vissersvaartuigen en schepen voor zover zij niet door een klassenbureau als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2022-12-02&g=2022-12-02), worden onderzocht, worden aangewezen:
 
 - a. Radio Holland Group B.V. te Rotterdam;
 
 - b. Alphatron Marine B.V. te Rotterdam;
 
-- c. Wärtsilä Netherlands B.V. te Zwolle;
-
-- d. Navcom Inspection & Consultancy B.V. te IJmuiden.
+- c. Navcom Inspection & Consultancy B.V. te IJmuiden.
 
 9. Aan de aanwijzingen, bedoeld in het derde tot en met het achtste lid, zijn de voorschriften verbonden, opgenomen in de bijlage bij dit besluit.
 
@@ -144,7 +142,7 @@ entry_into_force: "2011-11-30"
 
 | Instanties | bevoegd ten aanzien van de taken, bedoeld in de volgende voorschriften van de IMDG-Code |
 | --- | --- |
-| Rechtspersonen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2020-12-23&g=2020-12-23) | 4.2.1.7; 4.2.1.9; 4.2.3.6.4*; 4.2.3.7.1*; 4.2.5.3 (TP4, TP10, TP16 en TP24); 6.7.1.1.1; 6.7.2.2; 6.7.2.3; 6.7.2.6; 6.7.2.7; 6.7.2.8; 6.7.2.10; 6.7.2.12; 6.7.2.18; 6.7.2.19.4; 6.7.2.19.5; 6.7.19.9; 6.7.19.10; 6.7.3.2; 6.7.3.7; 6.7.3.8; 6.7.3.14; 6.7.3.15.3; 6.7.3.15.5; 6.7.3.15.9; 6.7.3.15.10; 6.7.4.2; 6.7.4.3; 6.7.4.6; 6.7.4.7; 6.7.4.13; 6.7.4.14.3; 6.7.4.14.10; 6.7.4.14.11; 6.7.5; 6.8.3.1; 6.8.3.2.1; 6.8.3.2.2.1; 6.8.3.2.3; 6.8.3.3.2.1; 6.8.3.3.3; 7.4.2.3; 7.5.1.3 |
+| Rechtspersonen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2022-12-02&g=2022-12-02) | 4.2.1.7; 4.2.1.9; 4.2.3.6.4*; 4.2.3.7.1*; 4.2.5.3 (TP4, TP10, TP16 en TP24); 6.7.1.1.1; 6.7.2.2; 6.7.2.3; 6.7.2.6; 6.7.2.7; 6.7.2.8; 6.7.2.10; 6.7.2.12; 6.7.2.18; 6.7.2.19.4; 6.7.2.19.5; 6.7.19.9; 6.7.19.10; 6.7.3.2; 6.7.3.7; 6.7.3.8; 6.7.3.14; 6.7.3.15.3; 6.7.3.15.5; 6.7.3.15.9; 6.7.3.15.10; 6.7.4.2; 6.7.4.3; 6.7.4.6; 6.7.4.7; 6.7.4.13; 6.7.4.14.3; 6.7.4.14.10; 6.7.4.14.11; 6.7.5; 6.8.3.1; 6.8.3.2.1; 6.8.3.2.2.1; 6.8.3.2.3; 6.8.3.3.2.1; 6.8.3.3.3; 7.4.2.3; 7.5.1.3 |
 | TÜV Rheinland Nederland B.V. | 6.1.1.2*; 6.1.1.3*; 6.1.3.1; 6.1.3.7; 6.1.3.8, 6.1.5; 6.3.1.1; 6.3.2.7; 6.3.3.2; 6.5.1.1.2*; 6.5.1.1.3; 6.5.1.6.1*; 6.5.1.6.4; 6.5.1.6.7; 6.5.2; 6.5.4; 6.6.1.2*; 6.6.1.3*; 6.6.3.1; 6.6.5.1; 6.6.5.4 |
 | Lloyds Register Nederland | 4.1.4.1 P200, P201, P203, P902; 4.1.4.3 LP902; 4.1.6.1.2; 6.2 |
 | SGS Redwood B.V | 6.7.2.19.5 |
@@ -152,7 +150,7 @@ entry_into_force: "2011-11-30"
 
 ##### Artikel 4. Erkende beveiligingsorganisaties
 
-Als erkende beveiligingsorganisaties, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19), worden aangewezen de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2020-12-23&g=2020-12-23), genoemde rechtspersonen.
+Als erkende beveiligingsorganisaties, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19), worden aangewezen de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2022-12-02&g=2022-12-02), genoemde rechtspersonen.
 
 ##### Artikel 5
 
@@ -160,7 +158,7 @@ Dit besluit wordt aangehaald als: Besluit erkende organisaties Schepenwet.
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2020-12-23&g=2020-12-23) en, voor zover betrekking hebbende op de aanwijzing van Registro Italiano Navale (RINA) als erkende beveiligingsorganisatie, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=4&z=2020-12-23&g=2020-12-23), terug tot en met 1 januari 2005.
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt ten aanzien van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=1&z=2022-12-02&g=2022-12-02) en, voor zover betrekking hebbende op de aanwijzing van Registro Italiano Navale (RINA) als erkende beveiligingsorganisatie, bevoegd tot het verrichten van onderzoeken als bedoeld in [artikel 19 van het Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880&artikel=19), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=4&z=2022-12-02&g=2022-12-02), terug tot en met 1 januari 2005.
 
 ##### Artikel 7
 
@@ -186,4 +184,4 @@ Dit besluit zal met de toelichting in de Staatscourant, in de Curaçaosche Coura
 
 ## Bijlage
 
-### Voorschriften verbonden aan de aanwijzing, bedoeld in [artikel 2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=2&z=2020-12-23&g=2020-12-23)
+### Voorschriften verbonden aan de aanwijzing, bedoeld in [artikel 2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019673&artikel=2&z=2022-12-02&g=2022-12-02)
