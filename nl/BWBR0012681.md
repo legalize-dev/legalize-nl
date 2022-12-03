@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2021-08-28"
+last_updated: "2022-12-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -272,7 +272,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 1°. Baltic Air Policing ‘BAP’, voor zover deze deelname heeft plaatsgehad vanaf de luchthaven Siauliai in Litouwen boven de Baltische staten, vanaf 4 januari 2017;
 
-- 2°. Enhanced Forward Presence Baltics ‘EFP’, voor zover deze deelname heeft plaatsgehad in en boven de Oostzee, Polen, Estland, Letland en Litouwen vanaf 1 maart 2017: FORWARD PRESENCE BALTICS.
+- 2°. Enhanced Forward Presence Baltics ‘EFP’, voor zover deze deelname heeft plaatsgehad in en boven de Oostzee, Polen, Estland, Letland en Litouwen vanaf 1 maart 2017: FORWARD PRESENCE BALTICS;
+
+- mm. voor deelname aan Non-Combattant Evacuation Operation Kabul ‘NEO KABUL’, voor zover deze deelname heeft plaatsgevonden op het grondgebied in Kabul, Islamabad en Tblisi, alsmede in het luchtruim boven Afghanistan, vanaf 16 augustus, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode van ten minste dertig dagen betreft: NEO KABUL 2021.
 
 ##### Artikel 2
 
