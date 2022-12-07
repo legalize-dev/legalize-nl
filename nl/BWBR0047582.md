@@ -4,7 +4,7 @@ identifier: "BWBR0047582"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-07"
-last_updated: "2022-01-01"
+last_updated: "2022-12-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047582"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ De Staatssecretaris verstrekt een eenmalige specifieke uitkering aan een pilotge
 
 ##### Artikel 3. Hoogte van de uitkering
 
-De hoogte van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047582&artikel=2&z=2022-12-07&g=2022-01-01), is als volgt:
+De hoogte van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047582&artikel=2&z=2022-12-07&g=2022-12-07), is als volgt:
 
 - a. Amsterdam: € 5.090.000;
 
