@@ -4,7 +4,7 @@ identifier: "BWBR0042578"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-06"
-last_updated: "2022-12-01"
+last_updated: "2022-12-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042578"
 soort: "zbo"
@@ -68,19 +68,25 @@ In deze regeling wordt verstaan onder:
 
 - e). **Wft:** de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368);
 
-- f). **Bpr:** [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420).
+- f). **Bpr:** [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420);
+
+- g). **LCR DR:** de **Liquidity Coverage Ratio Delegated Regulation**, oftewel Gedelegeerde [Verordening (EU) 2015/61](31961R2015) van de Commissie van 10 oktober 2014 ter aanvulling van [Verordening (EU) nr. 575/2013](32013R0575) van het Europees Parlement en de Raad met betrekking tot het liquiditeitsdekkingsvereiste voor kredietinstellingen.
 
 ##### Artikel 1:2. - Toepassingsbereik van deze regeling
 
-1. Voor de toepassing van [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=2&z=2022-12-01&g=2022-12-01) van deze regeling wordt onder bank verstaan: een bank als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+1. Voor de toepassing van [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=2&z=2022-12-08&g=2022-12-08) van deze regeling wordt onder instelling verstaan:
 
-2. Voor de toepassing van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2022-12-01&g=2022-12-01) van deze regeling wordt onder instelling verstaan:
+- a. een bank, als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), met zetel in Nederland;
 
-- a). een bank als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) die niet is aangemerkt als belangrijke kredietinstelling overeenkomstig artikel 6 lid 4 van de SSM Verordening; of
+- b. een beleggingsonderneming onder de verordening kapitaalvereisten als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 
-- b). een beleggingsonderneming die beleggingsdiensten verleent of beleggingsactiviteiten verricht in Nederland.
+2. Voor de toepassing van [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2022-12-08&g=2022-12-08) van deze regeling wordt onder instelling verstaan:
 
-3. [Hoofstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2022-12-01&g=2022-12-01) van deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van de bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.
+- a. een bank, als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), met zetel in Nederland die niet is aangemerkt als belangrijke kredietinstelling overeenkomstig artikel 6 lid 4 van de SSM Verordening; of
+
+- b. een beleggingsonderneming onder de verordening kapitaalvereisten als bedoeld in [artikel 1:1 van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+3. [Hoofstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&z=2022-12-08&g=2022-12-08) van deze regeling is van overeenkomstige toepassing op clearinginstellingen met zetel in Nederland en op clearinginstellingen met zetel in een niet-aangewezen staat die hun bedrijf uitoefenen vanuit in Nederland gelegen bijkantoren, tenzij de aard van de bepaling of de systematiek van deze regeling deze overeenkomstige toepassing uitsluit.
 
 ##### Artikel 1:3. - Aanwijzing gemeenschappelijke regelingen met openbaar lichaam
 
@@ -88,13 +94,11 @@ Gemeenschappelijke regelingen als bedoeld in de [Wet gemeenschappelijke regeling
 
 ### Hoofdstuk 2. - Macroprudentiële opties en discreties
 
-##### Artikel 2:1. Systeemrisicobuffer
+##### Artikel 2:1. - Systeemrisicobuffer
 
-1. Een bank met zetel in Nederland als bedoeld in [artikel 3:62a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:62a), die naar het oordeel van DNB een dominante positie heeft in het financiële stelsel van Nederland of anderszins is blootgesteld aan systeemrisico's, als bedoeld in artikel 133 van de CRD, beschikt over een systeemrisicobuffer, als bedoeld in [artikel 105, lid 1, aanhef en onderdeel d, van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=105).
+1. Een instelling beschikt over een systeemrisicobuffer, als bedoeld in [artikel 105, eerste lid 1, onderdeel d van het Bpr](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=105), wanneer dat naar het oordeel van DNB nodig is ter voorkoming of beperking van macroprudentiële of systeemrisico’s als bedoeld in artikel 133, eerste lid van de CRD.
 
-2. Bij besluit van DNB wordt bepaald of het eerste lid op een bank van toepassing is en wat de hoogte is van de door deze bank aan te houden systeemrisicobuffer, uitgedrukt als percentage van het overeenkomstig artikel 92, lid 3 van de CRR berekende totaal van risicoposten.
-
-3. Een bank voldoet aan de verplichting ingevolge het tweede lid op basis van de geconsolideerde positie, overeenkomstig afdeling 2 van deel één van de CRR. De systeemrisicobuffer wordt aangehouden op het hoogste geconsolideerde niveau in Nederland.
+2. Met inachtneming van artikel 133, vierde tot en met achtste lid van de CRD, besluit DNB op welke instellingen het eerste lid van toepassing is, op welk niveau en voor welke blootstellingen de systeemrisicobuffer geldt en wat de hoogte van de aan te houden buffer is.
 
 ### Hoofdstuk 3. Microprudentiële opties en discreties
 
@@ -114,11 +118,11 @@ Instellingen passen met betrekking tot de in artikel 178, lid 1, onderdeel b) va
 
 1. In de context van artikel 178, lid 2, onderdeel d) van de CRR beoordelen instellingen de materialiteit van een achterstallige kredietverplichting met gebruik van de volgende drempelwaarde, die twee componenten bevat:
 
-- a. een grens in termen van de som van alle achterstallige bedragen verschuldigd door de debiteur aan de instelling, de moederonderneming van de instelling of een van haar dochterondernemingen (hierna: de ‘achterstallige kredietverplichting’), gelijk aan:
+- a. een grens in termen van de som van alle achterstallige bedragen verschuldigd door de debiteur aan de instelling, de moederonderneming van de instelling of een van haar dochterondernemingen (hierna: de ‘achterstallige kredietverplichting’), die gelijk is aan:
 
-- i. voor blootstellingen met betrekking tot particulieren, tot 100 EUR;
+- i. 100 EUR voor blootstellingen met betrekking tot particulieren;
 
-- ii. voor andere blootstellingen dan blootstellingen met betrekking tot particulieren, tot 500 EUR;
+- ii. 500 EUR voor andere blootstellingen dan blootstellingen met betrekking tot particulieren;
 
 - b. een grens in termen van het bedrag van de achterstallige kredietverplichting in verhouding tot het totaalbedrag van alle blootstellingen binnen de balanstelling voor de instelling, de moederonderneming van de instelling of een van haar dochterondernemingen aan deze debiteur, met uitzondering van blootstellingen in aandelen, gelijk aan 1%.
 
@@ -128,11 +132,7 @@ Instellingen passen met betrekking tot de in artikel 178, lid 1, onderdeel b) va
 
 4. Instellingen passen de drempelwaarde voor de beoordeling van de materialiteit van een achterstallige kredietverplichting ten laatste op 31 december 2020 toe. Zij stellen DNB uiterlijk op 1 maart 2020 in kennis van de exacte datum waarop zij beginnen met de toepassing van een dergelijke drempelwaarde.
 
-##### Artikel 3:4. - Hedging sets (samenstellen van afdekkingsinstrumenten)
-
-Instellingen gebruiken voor de in artikel 282, lid 6, van de CRR genoemde transacties de in artikel 274 van de CRR genoemde waardering tegen marktwaarde (mark-to-market) methode.
-
-##### Artikel 3:5. - Vrijstelling van limieten voor grote blootstellingen (grote posten)
+##### Artikel 3:4. - Vrijstelling van limieten voor grote blootstellingen (grote posten)
 
 1. De volgende blootstellingen worden vrijgesteld van toepassing van de in artikel 395, lid 1 van de CRR genoemde limieten voor grote blootstellingen (grote posten), mits is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden:
 
@@ -140,59 +140,47 @@ Instellingen gebruiken voor de in artikel 282, lid 6, van de CRR genoemde transa
 
 - b). de in artikel 400, lid 2, onderdeel b) van de CRR opgesomde blootstellingen, ten belope van 80% van hun blootstellingswaarde;
 
-- c). de in artikel 400, lid 2, onderdeel c) van de CRR opgesomde blootstellingen die een instelling heeft ten aanzien van de in artikel 400, lid 2 van de CRR genoemde ondernemingen, en voor zover op die ondernemingen hetzelfde toezicht op geconsolideerde basis van toepassing is overeenkomstig de CRR, de richtlijn financiële conglomeraten, dan wel de in een derde land vigerende equivalente normen, en voor zover tevens is voldaan aan de voorwaarden in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2022-12-01&g=2022-12-01);
+- c). de in artikel 400, lid 2, onderdeel c) van de CRR opgesomde blootstellingen die een instelling heeft ten aanzien van de in artikel 400, lid 2 van de CRR genoemde ondernemingen, voor zover deze ondernemingen zijn gevestigd in de Europese Unie en op die ondernemingen hetzelfde toezicht op geconsolideerde basis van toepassing is overeenkomstig de CRR, de richtlijn financiële conglomeraten, dan wel de in een derde land vigerende equivalente normen, en voor zover tevens is voldaan aan de voorwaarden in bijlage I;
 
-- d). de in artikel 400, lid 2, onderdeel d) van de CRR opgesomde blootstellingen, en voor zover tevens voldaan is aan de voorwaarden in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2022-12-01&g=2022-12-01);
+- d). de in artikel 400, lid 2, onderdeel d) van de CRR opgesomde blootstellingen, en voor zover tevens voldaan is aan de voorwaarden in bijlage II;
 
-- e). de in artikel 400, lid 2, onderdelen e) tot en met h), j) en k) van de CRR opgesomde blootstellingen;
+- e). de in artikel 400, lid 2, onderdelen e) tot en met h) en j) tot en met l) van de CRR opgesomde blootstellingen, ten belope van het volledige bedrag van de blootstellingswaarde;
 
 - f). de in artikel 400, lid 2, onderdeel i) van de CRR opgesomde vrijstellingen, tot het maximaal toegestane bedrag.
 
-2. Instellingen beoordelen of is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden, alsook aan de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2022-12-01&g=2022-12-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2022-12-01&g=2022-12-01), voor zover van toepassing op de specifieke blootstelling. DNB kan te allen tijde deze beoordeling verifiëren en daartoe van instellingen verlangen dat zij de in bijlage I of II bedoelde documentatie indienen.
+2. Instellingen beoordelen of is voldaan aan de in artikel 400, lid 3 van de CRR gestelde voorwaarden, alsook aan de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=I&z=2022-12-08&g=2022-12-08) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&bijlage=II&z=2022-12-08&g=2022-12-08), voor zover van toepassing op de specifieke blootstelling. DNB kan te allen tijde deze beoordeling verifiëren en daartoe van instellingen verlangen dat zij de in bijlage I of II bedoelde documentatie indienen.
 
-##### Artikel 3:6. - Vrijstelling van aftrek van deelnemingen in verzekeringsondernemingen van tier 1- kernkapitaalbestanddelen
+##### Artikel 3:5. – Identificatie van de belangrijke beursindexen van een lidstaat of een derde land
 
-1. Gelet op artikel 471, lid 1, van de CRR is het gedurende de periode van 1 januari 2018 tot en met 31 december 2018 toegestaan dat instellingen geen aftrek van deelnemingen in verzekeringsondernemingen, herverzekeringsondernemingen en verzekeringsholdings van tier 1-kernkapitaalbestanddelen toepassen, mits is voldaan aan de artikel 471, lid 1 van de CRR gestelde voorwaarden.
+De volgende indexen kwalificeren als belangrijke aandelenindexen voor het bepalen van de omvang van aandelen die overeenkomstig artikel 12, lid 1, punt c), van de LCR DR als activa van niveau 2B kunnen worden aangemerkt:
 
-2. Dit artikel is van toepassing onverminderd het bepaalde in artikel 49, lid 1, van de CRR.
+- a). de in bijlage I bij [Uitvoeringsverordening (EU) 2016/1646](33546R2016) van de Commissie opgenomen indexen;
 
-##### Artikel 3:7. - Invoering van in International Accounting Standard 19 aangebrachte wijzigingen
+- b). een niet in onderdeel a) opgenomen belangrijke aandelenindex in een lidstaat of in een derde land, die voor de toepassing van dit onderdeel als zodanig wordt aangemerkt door de bevoegde autoriteit van de betrokken lidstaat of overheidsinstantie van een derde land;
 
-Gedurende de periode van 1 januari 2016 tot en met 31 december 2018 kunnen instellingen hun tier 1-kernkapitaal vermeerderen met het in artikel 473, lid 1 van de CRR bedoelde bedrag vermenigvuldigd met gebruik van de navolgende toepasselijke factor:
+- c). elke niet onder onderdelen a) of b) opgenomen belangrijke aandelenindex, bestaande uit vooraanstaande ondernemingen in het desbetreffende rechtsgebied.
 
-- a). 0,6 gedurende de periode van 1 januari tot en met 31 december 2016;
+##### Artikel 3:6. – Niveau 2B-activa
 
-- b). 0,4 gedurende de periode van 1 januari tot en met 31 december 2017;
+1. Instellingen die krachtens hun statuten om redenen van godsdienstige overtuiging niet in staat zijn om rentedragende activa aan te houden, kunnen bedrijfsschuldpapieren opnemen als activa van niveau 2B overeenkomstig alle in artikel 12, lid 1, onderdeel b) van de LCR DR vastgelegde voorwaarden.
 
-- c). 0,2 gedurende de periode van 1 januari tot en met 31 december 2018.
+2. Voor de in lid 1 bedoelde instellingen kan DNB periodiek het in lid 1 vastgelegde vereiste herzien en vrijstelling van artikel 12, lid 1, onderdeel b), ii) en iii), van de LCR DR verlenen, indien aan de in artikel 12, lid 3, van de LCR DR is voldaan.
 
-##### Artikel 3:8. - Toepasselijke percentages van aftrek van uitgestelde belastingvorderingen die op toekomstige winstgevendheid berusten en voortvloeien uit tijdelijke verschillen van de tier 1-kernkapitaalbestanddelen
+##### Artikel 3:7. – Factoren voor vereiste stabiele financiering voor blootstellingen buiten de balanstelling
 
-1. Gelet op artikel 478, lid 3, onderdeel b) van de CRR worden voor wat betreft artikel 478, lid 2 de toepasselijke percentages als volgt vastgesteld:
+1. Tenzij DNB andere factoren voor vereiste stabiele financiering vaststelt, passen instellingen op blootstellingen buiten de balanstelling die niet in deel zes, titel IV, hoofdstuk 4, van de CRR worden genoemd en die binnen het toepassingsgebied van artikel 428 septdecies, lid 10, van de CRR vallen, factoren voor vereiste stabiele financiering toe die overeenstemmen met de uitstroompercentages die zij in het kader van artikel 23 van de LCR DR toepassen op gerelateerde producten en diensten in het liquiditeitsdekkingsvereiste.
 
-- a). 80% gedurende de periode van 1 januari 2018 tot en met 31 december 2018;
+2. Instellingen die toestemming hebben ontvangen van DNB om het in deel zes, titel IV, hoofdstuk 5, van de CRR bedoelde vereenvoudigde nettostabielefinancieringsvereiste toe te passen, volgen de in het eerste lid gespecificeerde benadering bij de toepassing van artikel 428 quaterquadragies, lid 10 van de CRR.
 
-- b). 100% vanaf 1 januari 2019.
+##### Artikel 3:8. – Bepaling van de bezwaringsduur voor activa die zijn afgescheiden
 
-2. Het in het eerste lid bepaalde is niet van toepassing op een instelling waarvoor op de datum van inwerkingtreding van deze regeling een door de Europese Commissie goedgekeurd herstructureringsplan geldt.
+1. Indien activa overeenkomstig artikel 11, lid 3 van [Verordening (EU) nr. 648/2012](32012R0648) van het Europees Parlement en de Raad zijn afgescheiden en instellingen niet vrijelijk over dergelijke activa kunnen beschikken, beschouwen instellingen deze activa als bezwaard voor een periode die overeenkomt met de termijn van de verplichtingen jegens de cliënten van de instellingen waarop dat afscheidingsvereiste betrekking heeft.
 
-3. Indien een binnen het bereik van lid 2 vallende instelling wordt verkregen door een andere instelling of met die instelling fuseert, zulks terwijl het herstructureringsplan nog in uitvoering is, zulks zonder wijzigingen inzake de prudentiële behandeling van uitgestelde belastingvorderingen, is de uitzondering zoals opgenomen lid 2 van toepassing op de verkrijgende instelling, de nieuwe uit de fusie resulterende instelling of op de instelling die de oorspronkelijke instelling incorporeert, op gelijke wijze zoals die van toepassing was op de verkregen, gefuseerde, of geïncorporeerde instelling.
-
-4. Indien de impact van de in lid 1 bedoelde aftrek onvoorzien toeneemt en DNB vaststelt dat die impact materieel is, mogen instellingen de toepassing van lid 1 achterwege laten.
+2. Instellingen die toestemming hebben ontvangen van DNB om het in deel zes, titel IV, hoofdstuk 5, van de CRR bedoelde vereenvoudigde nettostabielefinancieringsvereiste toe te passen, volgen de in het eerste lid gespecificeerde benadering bij de toepassing van artikel 428 quinquesquadragies, lid 2, van de CRR.
 
 ##### Artikel 3:9. - Limieten van de grandfatheringposten voor bestanddelen die onder tier 1-kernkapitaal-, aanvullend tier 1-, en tier 2-bestanddelen vallen
 
-Gelet op artikel 486, lid 6 van de CRR zijn de toepasselijke percentages:
-
-- a). 40% gedurende de periode van 1 januari 2018 tot en met 31 december 2018;
-
-- b). 30% gedurende de periode van 1 januari 2019 tot en met 31 december 2019;
-
-- c). 20% gedurende de periode van 1 januari 2020 tot en met 31 december 2020;
-
-- d). 10% gedurende de periode van 1 januari 2021 tot en met 31 december 2021;
-
-- e). 0% voor de periode vanaf 1 januari 2022.
+Vervallen
 
 ### Hoofdstuk 4. - Slotbepalingen
 
@@ -202,7 +190,7 @@ De [Regeling specifieke bepalingen CRD IV en CRR](https://wetten.overheid.nl/jci
 
 ##### Artikel 4:2. - Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling specifieke bepalingen CRD en CRR 2019.
+Deze regeling wordt aangehaald als: Regeling specifieke bepalingen CRD en CRR.
 
 ##### Artikel 4:3. - Inwerkingtreding
 
@@ -332,53 +320,53 @@ Van de aldus berekende risicogewichten voor de individuele blootstellingen wordt
 
 ### Hoofdstuk 4. - Slotbepalingen
 
-## Bijlage I. Bij de Regeling specifieke bepalingen CRD en CRR 2019
+## Bijlage I. bij de Regeling specifieke bepalingen CRD en CRR
 
-**Voorwaarden voor de beoordeling van een vrijstelling van de limiet voor grote blootstellingen, zulks overeenkomstig artikel 400, lid 2, onderdeel c) van de CRR en artikel 3:5 van deze regeling.**
+**Voorwaarden voor de beoordeling van een vrijstelling van de limiet voor grote blootstellingen, overeenkomstig artikel 400, lid 2, onderdeel c) van de CRR en artikel 3:4 van deze regeling.**
 
-- 1. Deze bijlage is van toepassing op vrijstellingen van de limiet voor grote blootstellingen krachtens [artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&artikel=3:5&z=2022-12-01&g=2022-12-01) van deze regeling. Voor de toepassing van artikel 3:5 van deze regeling worden de in bijlage I bij Uitvoeringsbesluit 2014/908/EU van de Commissie1Uitvoeringsbesluit 2014/908/EU van de Commissie van 12 december 2014 betreffende de gelijkwaardigheid van de toezicht- en reguleringsvereisten van bepaalde derde landen en grondgebieden ten behoeve van de behandeling van blootstellingen overeenkomstig Verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad.https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421 opgevoerde derde landen als equivalent beschouwd.
+- 1. Deze bijlage is van toepassing op vrijstellingen van de limiet voor grote blootstellingen krachtens [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0042578&hoofdstuk=3&artikel=3:4&z=2022-12-08&g=2022-12-08) van deze regeling. Voor de toepassing van artikel 3:4 van deze regeling worden de in bijlage I bij Uitvoeringsbesluit 2014/908/EU van de Commissie1Uitvoeringsbesluit 2014/908/EU van de Commissie van 12 december 2014 betreffende de gelijkwaardigheid van de toezicht- en reguleringsvereisten van bepaalde derde landen en grondgebieden ten behoeve van de behandeling van blootstellingen overeenkomstig [Verordening (EU) nr. 575/2013](32013R0575) van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563706168&uri=CELEX:02014D0908-20190421](onbekend) opgevoerde derde landen als equivalent beschouwd.
 
 - 2. Instellingen nemen de volgende criteria in acht om te beoordelen of een in artikel 400, lid 2, onderdeel c), van de CRR bedoelde blootstelling voldoet aan de voorwaarden voor een vrijstelling van de limiet voor grote blootstellingen, zulks overeenkomstig artikel 400, lid 3 van de CRR:
 
-- a). beoordelende of de specifieke aard van de blootstelling de tegenpartij, de relatie tussen de instelling en de tegenpartij of het blootstellingsrisico elimineert of reduceert, zoals bedoeld in artikel 400, lid 3, onderdeel a) van de CRR, gaan instellingen na of:
+- a). Teneinde te beoordelen of de specifieke aard van de blootstelling, de tegenpartij, of de relatie tussen de instelling en de tegenpartij, het blootstellingsrisico elimineert of reduceert, zoals bedoeld in artikel 400, lid 3, onderdeel a) van de CRR, moeten instellingen nagaan of:
 
-- i). aan de in artikel 113, lid 6, onderdelen b), c) en e) van de CRR bedoelde voorwaarden is voldaan, met name of op de tegenpartij dezelfde risicobeoordeling, waarderings- en controleprocedures van toepassing zijn als op de instelling, en of de IT-systemen geïntegreerd zijn, of ten minste, volledig op elkaar afgestemd. Daarnaast gaan zij na of er sprake is van enige bestaande of verwachte materiële praktische of juridische belemmering die de tijdige terugbetaling van de blootstelling door de tegenpartij aan de instelling zou belemmeren, afgezien van een herstel- of een afwikkelingssituatie waarin de in [Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad2[Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de totstandbrenging van een kader voor het herstel en de afwikkeling van kredietinstellingen en beleggingsondernemingen en tot wijziging van [Richtlijn 82/891/EEG](31982L0891) van de Raad en de [Richtlijnen 2001/24/EG](32001L0024), [2002/47/EG](32002L0047), [2004/25/EG](32004L0025), [2005/56/EG](32005L0056), [2007/36/EG](32007L0036), [2011/35](32011L0035)/EU, [2012/30](32012L0030)/EU en [2013/36](32013L0036)/EU en de Verordeningen (EU) [nr. 1093/2010](32993L2010) en (EU) [nr. 648/2012](32548L2012) van het Europees Parlement en de Raad.https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627 bedoelde beperkingen toegepast moeten worden;
+- i). aan de in artikel 113, lid 6, onderdelen b), c) en e) van de CRR bedoelde voorwaarden is voldaan, en met name of de tegenpartij onderworpen is aan dezelfde risicobeoordelings-, waarderings- en controleprocedures als de instelling, en of de IT-systemen geïntegreerd zijn, of ten minste, volledig op elkaar zijn afgestemd. Daarnaast moeten zij nagaan of er sprake is van enige bestaande of verwachte materiële praktische of juridische belemmering die de tijdige terugbetaling van de blootstelling door de tegenpartij aan de instelling zou belemmeren, afgezien van een herstel- of een afwikkelingssituatie waarin de in [Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad2[Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de totstandbrenging van een kader voor het herstel en de afwikkeling van kredietinstellingen en beleggingsondernemingen en tot wijziging van [Richtlijn 82/891/EEG](31982L0891) van de Raad en de [Richtlijnen 2001/24/EG](32001L0024), [2002/47/EG](32002L0047), [2004/25/EG](32004L0025), [2005/56/EG](32005L0056), [2007/36/EG](32007L0036), [2011/35](32011L0035)/EU, [2012/30](32012L0030)/EU en [2013/36](32013L0036)/EU en de Verordeningen (EU) [nr. 1093/2010](32993L2010) en (EU) [nr. 648/2012](32548L2012) van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627](onbekend) bedoelde beperkingen toegepast moeten worden;
 
-- ii). de groepsfinancieringsstructuur de voorgestelde intragroepblootstellingen rechtvaardigt;
+- ii). de intragroepblootstellingen worden gerechtvaardigd door de groepsfinancieringsstructuren -strategie;
 
-- iii). het proces waarin een besluit wordt genomen om een blootstelling aan de intragroeptegenpartij goed te keuren, en het op die blootstellingen toepasselijke monitoring- en herzieningsproces, op individueel en geconsolideerd niveau, waar toepasselijk, vergelijkbaar zijn met de op kredietverstrekking door derden toepasselijke processen;
+- iii). het proces waarin een besluit wordt genomen om een blootstelling aan de intragroeptegenpartij goed te keuren, en het op die blootstellingen toepasselijke monitoring- en herzieningsprocedures, op individueel en geconsolideerd niveau, indien toepasselijk, vergelijkbaar zijn met de op kredietverstrekking door derden toepasselijke procedures;
 
 - iv). de risicobeheerprocedures, het IT-systeem en de interne rapportage van de instelling een doorgaande controle mogelijk maken en verzekeren dat grote blootstellingen aan groepsondernemingen in overeenstemming zijn met haar risicostrategie op het niveau van de juridische entiteit en op geconsolideerd niveau, indien toepasselijk.
 
-- b). om vast te stellen of enig resterend concentratierisico op andere net zo effectieve wijze geadresseerd kan worden zoals de regelingen, processen en mechanismen van artikel 81 van de CRD IV, zoals bepaald in artikel 400, lid 3, onderdeel b) van de CRR, moeten instellingen nagaan of:
+- b). Teneinde vast te stellen of overblijvende concentratierisico kunnen worden aangepakt met andere even doeltreffende middelen zoals de regelingen, processen en mechanismen van artikel 81 van de CRD IV, zoals bepaald in artikel 400, lid 3, onderdeel b) van de CRR, moeten instellingen nagaan of:
 
 - i). de instelling robuuste processen, procedures en controles heeft, op individueel niveau en op geconsolideerd niveau, indien toepasselijk, om te verzekeren dat het gebruik van de vrijstelling niet zou resulteren in een concentratierisico dat haar risicostrategie te boven gaat en indruist tegen de beginselen van goed intern liquiditeitsbeheer binnen de groep;
 
-- ii). de instelling formeel met het uit intragroepblootstellingen voortvloeiende concentratierisico rekening heeft gehouden als deel van haar globale risicobeoordelingskader;
+- ii). de instelling formeel met het uit intragroepblootstellingen voortvloeiende concentratierisico rekening heeft gehouden als onderdeel van haar globale risicobeoordelingskader;
 
 - iii). de instelling op het niveau van de juridische entiteit en op geconsolideerd niveau, indien toepasselijk, een risicobeheersingskader heeft dat de voorgestelde blootstellingen adequaat monitort;
 
-- iv). het voorkomende concentratierisico duidelijk is geïdentificeerd in het internal capital adequacy assessment process (ICAAP) van de instelling, of zulks zal gebeuren, en actief beheerd zal worden; de regelingen, processen en mechanismen voor het concentratierisicobeheer in het toezichttoetsings- en evaluatieproces beoordeeld zullen worden;
+- iv). het voorkomende concentratierisico duidelijk is geïdentificeerd in het proces voor de beoordeling van de interne kapitaaltoereikendheid (internal capital adequacy assessment process, ICAAP) van de instelling, of zulks zal gebeuren, en actief beheerd zal worden. De regelingen, processen en mechanismen voor het concentratierisicobeheer in het toetsings- en evaluatieproces in het kader van toezicht (supervisory review and evaluation process, SREP) worden beoordeeld;
 
 - v). aangetoond kan worden dat het concentratierisicobeheer strookt met het herstelplan van de groep.
 
-- 3. Om te verifiëren of aan de in leden 1 en 2 vastgelegde voorwaarden is voldaan, kan DNB instellingen verzoeken de volgende documentatie te verstrekken:
+- 3. Teneinde te verifiëren of aan de in punten 1 en 2 vastgelegde voorwaarden is voldaan, kan DNB instellingen verzoeken de volgende documentatie te verstrekken:
 
-- a). een door de wettelijke vertegenwoordiger van de instelling ondertekende en door het beheerorgaan goedgekeurde brief waarin verklaard wordt dat de instelling voldoet aan alle voorwaarden voor een vrijstelling, zoals bedoeld in artikel 400, lid 2, onderdeel c) en artikel 400, lid 3 van de CRR;
+- a). een door de wettelijke vertegenwoordiger van de instelling ondertekende en door het beheersorgaan goedgekeurde brief waarin verklaard wordt dat de instelling voldoet aan alle voorwaarden voor een vrijstelling, zoals bedoeld in artikel 400, lid 2, onderdeel c) en artikel 400, lid 3 van de CRR;
 
-- b). een door het beheerorgaan goedgekeurd juridisch advies van hetzij een externe onafhankelijke derde, hetzij een interne juridische afdeling, waarin wordt aangetoond dat niets een tijdige terugbetaling van blootstellingen door een tegenpartij aan de instelling in de weg staat, welke blootstellingen resulteren uit toepasselijke voorschriften, waaronder fiscale voorschriften, of bindende overeenkomsten;
+- b). een door het beheersorgaan goedgekeurd juridisch advies van hetzij een externe onafhankelijke derde, hetzij een interne juridische afdeling, waarin wordt aangetoond dat niets een tijdige terugbetaling van blootstellingen door een tegenpartij aan de instelling in de weg staat, welke blootstellingen resulteren uit toepasselijke voorschriften, waaronder fiscale voorschriften, of bindende overeenkomsten;
 
-- c). een door de wettelijke vertegenwoordiger ondertekende en door het beheerorgaan goedgekeurde verklaring dat:
+- c). een door de wettelijke vertegenwoordiger ondertekende en door het beheersorgaan goedgekeurde verklaring waarin wordt bevestigd dat:
 
 - i). er geen praktische belemmeringen zijn voor de tijdige terugbetaling van blootstellingen door een tegenpartij aan de instelling;
 
-- ii). de groepsfinancieringsstructuur de voorgestelde intragroepblootstellingen rechtvaardigt;
+- ii). de intragroepblootstellingen worden gerechtvaardigd door de groepsfinancieringsstructuur en -strategie;
 
-- iii). het proces waarin een besluit wordt genomen om een blootstelling aan een intragroeptegenpartij goed te keuren, en het op die blootstellingen toepasselijke monitoring- en herzieningsproces, op het niveau van de juridische entiteit en op geconsolideerd niveau, vergelijkbaar zijn met de op kredietverstrekking aan derden toepasselijke processen;
+- iii). het besluitvormingsproces waarmee een blootstelling aan een intragroeptegenpartij wordt goedgekeurd, en het op die blootstellingen toepasselijke monitorings- en herzieningsproces, zowel op het niveau van de juridische entiteit en op geconsolideerd niveau, vergelijkbaar zijn met de processen die op kredietverstrekking aan derden worden toegepast;
 
-- iv). rekening is gehouden met het uit intragroepblootstellingen voortvloeiende concentratierisico als deel van het globale risicobeoordelingskader van de instelling.
+- iv). rekening is gehouden met het uit intragroepblootstellingen voortvloeiende concentratierisico als onderdeel van het globale risicobeoordelingskader van de instelling.
 
-- d). door de wettelijke vertegenwoordiger ondertekende en door het beheerorgaan goedgekeurde documentatie waarin verklaard wordt dat de risico-evaluatieprocedures, de waarderings- en controleprocedures van de instelling dezelfde zijn als die van de tegenpartij en dat de risicobeheerprocedures, het IT-systeem en de interne rapportage van de instelling mogelijk maken dat het beheerorgaan het niveau van de grote blootstelling voortdurend monitort, en dat het beheerorgaan voortdurend kan monitoren of het niveau van de grote blootstelling strookt met de risicostrategie van de instelling op het niveau van de juridische entiteit en op geconsolideerd niveau, indien toepasselijk, en of het niveau van de grote blootstelling strookt met de beginselen van goed intern liquiditeitsbeheer binnen de groep;
+- d). door de wettelijke vertegenwoordiger ondertekende en door het beheersorgaan goedgekeurde documentatie waarin verklaard wordt dat de risico-evaluatieprocedures, de waarderings- en controleprocedures van de instelling dezelfde zijn als die van de tegenpartij en dat de risicobeheerprocedures, het IT-systeem en de interne rapportage van de instelling mogelijk maken dat het beheersorgaan het niveau van de grote blootstelling voortdurend monitort, en dat het beheersorgaan voortdurend kan monitoren of het niveau van de grote blootstelling strookt met de risicostrategie van de instelling op het niveau van de juridische entiteit en op geconsolideerd niveau, indien toepasselijk, en of het niveau van de grote blootstelling strookt met de beginselen van goed intern liquiditeitsbeheer binnen de groep;
 
 - e). documentatie die aantoont dat de ICAAP het uit grote intragroepblootstellingen voortvloeiende concentratierisico duidelijk identificeert en dat dit risico actief beheerd wordt;
 
@@ -388,29 +376,31 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2:3. – Erkenning van buitenlandse macroprudentiële maatregelen
 
-Dit onderdeel is nog niet inwerking getreden
+1. DNB kan besluiten, met inachtneming van artikel 134 van de CRD en de relevante aanbevelingen van het Europees Comité voor systeemrisico’s, om een door een andere lidstaat vastgesteld systeemrisicobufferpercentage als bedoeld in artikel 133 van de CRD te erkennen en toe te passen op instellingen voor blootstellingen in de lidstaat waar dat bufferpercentage is vastgesteld.
+
+2. DNB kan besluiten om, met inachtneming van artikel 458, vijfde tot en met zevende lid, van de CRR en de relevante aanbevelingen van het Europees Comité voor systeemrisico’s, een door een andere lidstaat op basis van artikel 458 CRR vastgestelde maatregel te erkennen en toe te passen op instellingen die bijkantoren of blootstellingen hebben in de lidstaat waar die maatregel is vastgesteld.
 
 ### Hoofdstuk 3. Microprudentiële opties en discreties
 
 ### Hoofdstuk 4. - Slotbepalingen
 
-## Bijlage II. Bij de Regeling specifieke bepalingen CRD en CRR 2019
+## Bijlage II. bij de Regeling specifieke bepalingen CRD en CRR
 
-**Voorwaarden voor de beoordeling van een vrijstelling van de limiet voor grote blootstellingen, zulks overeenkomstig artikel 400, lid 2, onderdeel d) van de CRR en artikel 3:5 van deze regeling**
+**Voorwaarden voor de beoordeling van een vrijstelling van de limiet voor grote blootstellingen, overeenkomstig artikel 400, lid 2, onderdeel d) van de CRR en artikel 3:4 van deze regeling.**
 
-- 1. Instellingen nemen de volgende criteria in acht om te beoordelen of een in artikel 400, lid 2, onderdeel d), van de CRR bedoelde blootstelling voldoet aan de voorwaarden voor een vrijstelling van de limiet voor grote blootstellingen, zulks overeenkomstig artikel 400, lid 3, van de CRR.
+- 1. Instellingen houden rekening met de volgende criteria om te beoordelen of een in artikel 400, lid 2, onderdeel d), van de CRR bedoelde blootstelling voldoet aan de voorwaarden voor een vrijstelling van de limiet voor grote blootstellingen, zulks overeenkomstig artikel 400, lid 3, van de CRR.
 
-- a). beoordelende of de specifieke aard van de blootstelling, het regionale of centrale orgaan of de relatie tussen de instelling en het regionale of centrale orgaan het blootstellingsrisico elimineert of reduceert, zoals bedoeld in artikel 400, lid 3, onderdeel a) van de CRR, gaan instellingen na of:
+- a). teneinde te beoordelen of de specifieke aard van de blootstelling, het regionale of centrale orgaan, of de relatie tussen de instelling en het regionale of centrale orgaan het blootstellingsrisico elimineert of reduceert, zoals bedoeld in artikel 400, lid 3, onderdeel a) van de CRR, moeten instellingen nagaan of:
 
-- i). er sprake is van enige bestaande of verwachte materiële praktische of juridische belemmering die de tijdige terugbetaling van de blootstelling door de tegenpartij aan de instelling zou belemmeren, afgezien van een herstel- of een afwikkelingssituatie waarin de in [Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad3[Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de totstandbrenging van een kader voor het herstel en de afwikkeling van kredietinstellingen en beleggingsondernemingen en tot wijziging van [Richtlijn 82/891/EEG](31982L0891) van de Raad en de [Richtlijnen 2001/24/EG](32001L0024), [2002/47/EG](32002L0047), [2004/25/EG](32004L0025), [2005/56/EG](32005L0056), [2007/36/EG](32007L0036), [2011/35](32011L0035)/EU, [2012/30](32012L0030)/EU en [2013/36](32013L0036)/EU en de Verordeningen (EU) [nr. 1093/2010](32993L2010) en (EU) [nr. 648/2012](32548L2012), van het Europees Parlement en de Raad.https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627 bedoelde beperkingen moeten worden toegepast;
+- i). er sprake is van enige bestaande of verwachte materiële praktische of juridische belemmering die de tijdige terugbetaling van de blootstelling door de tegenpartij aan de instelling zou belemmeren, afgezien van een herstel- of een afwikkelingssituatie waarin de in [Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad3[Richtlijn 2014/59](32014L0059)/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de totstandbrenging van een kader voor het herstel en de afwikkeling van kredietinstellingen en beleggingsondernemingen en tot wijziging van [Richtlijn 82/891/EEG](31982L0891) van de Raad en de [Richtlijnen 2001/24/EG](32001L0024), [2002/47/EG](32002L0047), [2004/25/EG](32004L0025), [2005/56/EG](32005L0056), [2007/36/EG](32007L0036), [2011/35](32011L0035)/EU, [2012/30](32012L0030)/EU en [2013/36](32013L0036)/EU en de Verordeningen (EU) [nr. 1093/2010](32993L2010) en (EU) [nr. 648/2012](32548L2012), van het Europees Parlement en de Raad.[https://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1566563803411&uri=CELEX:02014L0059-20190627](onbekend) bedoelde beperkingen moeten worden toegepast;
 
-- ii). de voorgestelde blootstellingen stroken met de normale bedrijfsvoering en het bedrijfsmodel van de instelling of de netwerkfinancieringsstructuur deze rechtvaardigt;
+- ii). de voorgestelde blootstellingen stroken met de normale bedrijfsvoering en het bedrijfsmodel van de instelling of worden gerechtvaardigd door de netwerkfinancieringsstructuur;
 
-- iii). het proces waarin een besluit wordt genomen om een blootstelling aan het centrale orgaan van de instelling goed te keuren, en het op die blootstellingen toepasselijke monitoring- en herzieningsproces, op individueel niveau en op geconsolideerd niveau, indien toepasselijk, vergelijkbaar zijn met de op kredietverstrekking aan derden toepasselijke processen;
+- iii). het besluitvormingsproces waarmee een blootstelling aan een intragroeptegenpartij wordt goedgekeurd, en het op die blootstellingen toepasselijke monitorings- en herzieningsproces, op het niveau van de juridische entiteit en op geconsolideerd niveau, indien toepasselijk, vergelijkbaar zijn met de processen die van toepassing zijn op kredietverstrekking aan derden;
 
 - iv). de risicobeheerprocedures, het IT-systeem en de interne rapportage van de instelling een doorgaande controle mogelijk maken en verzekeren dat de grote blootstellingen aan haar regionale of centrale orgaan in overeenstemming zijn met haar risicostrategie.
 
-- b). beoordelende of enig resterend concentratierisico anders en net zo effectief geadresseerd kan worden, bijvoorbeeld middels de regelingen, processen en mechanismen van artikel 81 van de CRD IV, zoals bepaald in artikel 400, lid 3, onderdeel b) van de CRR, gaan instellingen na of:
+- b). teneinde te beoordelen of overblijvende concentratierisico’s kunnen worden aangepakt met andere even doeltreffende middelen zoals de regelingen, processen en mechanismen van artikel 81 van de CRD IV, zoals bepaald in artikel 400, lid 3, onderdeel b) van de CRR, moeten instellingen nagaan of:
 
 - i). de instelling robuuste processen, procedures en controles heeft om te verzekeren dat gebruik van de vrijstelling niet zou resulteren in een concentratierisico dat haar risicostrategie te boven gaat;
 
@@ -418,9 +408,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 - iii). de instelling een risicobeheersingskader heeft dat de voorgestelde blootstellingen adequaat monitort;
 
-- iv). het voorkomende concentratierisico duidelijk is of zal worden geïdentificeerd in het internal capital adequacy assessment process (ICAAP) van de instelling en actief zal worden beheerd. De regelingen, processen en mechanismen voor het concentratierisicobeheer in het toezichttoetsings- en evaluatieproces beoordeeld zullen worden.
+- iv). het voorkomende concentratierisico duidelijk is of zal worden geïdentificeerd in het proces voor de beoordeling van de interne kapitaaltoereikendheid (internal capital adequacy assessment process, ICAAP) van de instelling en actief zal worden beheerd. De regelingen, processen en mechanismen voor het concentratierisicobeheer zullen in het toetsings- en evaluatieproces in het kader van toezicht (supervisory review and evaluation process, SREP) worden beoordeeld.
 
-- 2. Beoordelende of het regionale of centrale orgaan, waarmee de instelling is verbonden in een netwerk, verantwoordelijk is voor de verevening van onderlinge geldposities, zoals bedoeld in artikel 400, lid 2, onderdeel d) van de CRR, nemen instellingen naast de in lid 1 bedoelde voorwaarden ook in acht of de statuten van het regionale of centrale orgaan die verantwoordelijkheden expliciet stipuleren, waaronder, maar niet beperkt tot de volgende:
+- 2. In aanvulling op de in punt 1 vervatte voorwaarden, nemen instellingen ten behoeve van de beoordeling of het regionale of centrale orgaan, waarmee de instelling is verbonden in een netwerk, verantwoordelijk is voor de verevening van onderlinge geldposities, zoals bedoeld in artikel 400, lid 2, onderdeel d) van de CRR, ook in acht of de statuten van het regionale of centrale orgaan die verantwoordelijkheden expliciet stipuleren, waaronder, maar niet beperkt tot de volgende:
 
 - a). marktfinanciering voor het hele netwerk;
 
@@ -430,23 +420,23 @@ Dit onderdeel is nog niet inwerking getreden
 
 - d). afroming van liquiditeitsoverschot van aangesloten instellingen.
 
-- 3. Om te verifiëren of aan de in de leden 1 en 2 vastgelegde voorwaarden is voldaan, kan DNB instellingen verzoeken de volgende documentatie te verstrekken:
+- 3. Teneinde te verifiëren of aan de in de punten 1 en 2 vastgelegde voorwaarden is voldaan, kan DNB instellingen verzoeken de volgende documentatie te verstrekken:
 
-- a). een door de wettelijke vertegenwoordiger van de instelling ondertekende en door het beheerorgaan goedgekeurde brief waarin verklaard wordt dat de instelling voldoet aan alle voorwaarden voor de verlening van een vrijstelling, zoals bedoeld in artikel 400, lid 2, onderdeel d) en artikel 400, lid 3 van de CRR;
+- a). een door de wettelijke vertegenwoordiger van de instelling ondertekende en door het beheersorgaan goedgekeurde brief waarin verklaard wordt dat de instelling voldoet aan alle voorwaarden voor de verlening van een vrijstelling, zoals bedoeld in artikel 400, lid 2, onderdeel d) en artikel 400, lid 3 van de CRR;
 
-- b). een door het beheerorgaan goedgekeurd juridisch advies van hetzij een externe onafhankelijke derde, hetzij een interne juridische afdeling, waarin wordt aangetoond dat niets een tijdige terugbetaling van blootstellingen door een regionaal of centraal orgaan aan de instelling in de weg staat, welke blootstellingen resulteren uit toepasselijke voorschriften, waaronder fiscale voorschriften, of bindende overeenkomsten;
+- b). een door het beheersorgaan goedgekeurd juridisch advies van hetzij een externe onafhankelijke derde, hetzij een interne juridische afdeling, waarin wordt aangetoond dat niets een tijdige terugbetaling van blootstellingen door een regionaal of centraal orgaan aan de instelling in de weg staat, welke blootstellingen resulteren uit toepasselijke voorschriften, waaronder fiscale voorschriften, of bindende overeenkomsten;
 
-- c). een door de wettelijke vertegenwoordiger ondertekende en door het beheerorgaan goedgekeurde verklaring dat:
+- c). een door de wettelijke vertegenwoordiger ondertekende en door het beheersorgaan goedgekeurde verklaring waarin wordt bevestigd dat:
 
 - i). er geen praktische belemmeringen zijn voor de tijdige terugbetaling van blootstellingen door een regionaal of centraal orgaan aan de instelling;
 
-- ii). de netwerkfinancieringsstructuur de blootstellingen van het regionale of centrale orgaan rechtvaardigt;
+- ii). de blootstellingen aan het regionale of centrale orgaan worden gerechtvaardigd door de financieringsstructuur van het netwerk;
 
-- iii). het proces waarin een besluit wordt genomen om een blootstelling aan een regionaal of centraal orgaan goed te keuren, en het op die blootstellingen toepasselijke monitoring- en herzieningsproces, op het niveau van de juridische entiteit en op geconsolideerd niveau, vergelijkbaar zijn met de op kredietverstrekking aan derden toepasselijke processen;
+- iii). het besluitvormingsproces voor de goedkeuring van een blootstelling aan een regionaal of centraal orgaan, en het op die blootstellingen toepasselijke monitoring- en herzieningsproces, op het niveau van de juridische entiteit en op geconsolideerd niveau, vergelijkbaar zijn met de processen die van toepassing zijn op kredietverstrekking aan derden;
 
-- iv). rekening is gehouden met het uit blootstellingen aan het regionale of centrale orgaan voortvloeiende concentratierisico als deel van het globale risicobeoordelingskader van de instelling.
+- iv). rekening is gehouden met het uit blootstellingen aan het regionale of centrale orgaan voortvloeiende concentratierisico als onderdeel van het globale risicobeoordelingskader van de instelling.
 
-- d). door de wettelijke vertegenwoordiger ondertekende en door het beheerorgaan goedgekeurde documentatie waarin verklaard wordt dat de risico-evaluatieprocedures, de waarderings- en controleprocedures van de instelling dezelfde zijn als die van het regionale of centrale orgaan, en dat de risicobeheerprocedures, het IT-systeem en de interne rapportage van de instelling mogelijk maken dat het beheerorgaan het niveau van de grote blootstelling voortdurend monitort, en dat het beheerorgaan voortdurend kan monitoren of het niveau van de grote blootstelling strookt met de risicostrategie van de instelling op het niveau van de juridische entiteit en op geconsolideerd niveau, indien toepasselijk, en of het niveau van de grote blootstelling strookt met de beginselen van goed intern liquiditeitsbeheer binnen het netwerk;
+- d). door de wettelijke vertegenwoordiger ondertekende en door het beheersorgaan goedgekeurde documentatie waarin verklaard wordt dat de risico-evaluatieprocedures, de waarderings- en controleprocedures van de instelling dezelfde zijn als die van het regionale of centrale orgaan, en dat de risicobeheerprocedures, het IT-systeem en de interne rapportage van de instelling mogelijk maken dat het beheersorgaan het niveau van de grote blootstelling voortdurend monitort, en dat het beheersorgaan voortdurend kan monitoren of het niveau van de grote blootstelling strookt met de risicostrategie van de instelling op het niveau van de juridische entiteit en op geconsolideerd niveau, indien toepasselijk, en of het niveau van de grote blootstelling strookt met de beginselen van goed intern liquiditeitsbeheer binnen het netwerk;
 
 - e). documentatie die aantoont dat het ICAAP het uit grote blootstellingen aan het regionale of centrale orgaan voortvloeiende concentratierisico duidelijk identificeert en dat dit risico actief wordt beheerd.
 
