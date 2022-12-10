@@ -4,7 +4,7 @@ identifier: "BWBR0039820"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-04-01"
-last_updated: "2021-10-12"
+last_updated: "2022-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039820"
 soort: "zbo"
@@ -60,11 +60,9 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. degene die is vrijgesteld van het verbod als bedoeld in [artikel 3:5, eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5);
 
-- c. degene die een ontheffing is verleend als bedoeld in [artikel 3:5, vierde lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5);
+- c. degene die een ontheffing is verleend als bedoeld in [artikel 3:5, vierde lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:5); of
 
-- d. een curator als bedoeld in [artikel 1:383 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383); of
-
-- e. een curator als bedoeld in [artikel 68 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=68).
+- d. een curator als bedoeld in [artikel 68 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=68).
 
 - 5. **Datum van het oordeel of uitspraak welke heeft geleid tot toepassing van het depositogarantiestelsel (DGS):** datum van het oordeel van De Nederlandsche Bank of van de gerechtelijke uitspraak ten aanzien van de betreffende bank als bedoeld in [artikel 3:260, eerste lid, onderdeel a, onderscheidenlijk onderdeel b van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:260);
 
@@ -174,9 +172,19 @@ De berekening van aangegroeide rente, zoals vastgelegd in [artikel 29.06, tweede
 
 De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
-### Afdeling 2.2. Uitsluitingen
+### Afdeling 2.2. Overleden depositohouders
 
 ##### Artikel 2.3
+
+1. In het geval een depositohouder is overleden en er nog geen wijziging van de tenaamstelling van het deposito uit de administratie van de bank blijkt of indien er sprake is van een zogenoemde ‘ervenrekening’, beoordeelt DNB de eventuele aanspraak van de erfgenamen op een vergoeding aan de hand van de door DNB te bepalen documentatie.
+
+2. Indien de overleden depositohouder vóór de datum van het oordeel of de uitspraak welke heeft geleid tot toepassing van het depositogarantiestelsel is overleden en de nalatenschap van de depositohouder is verdeeld of er is een enig erfgenaam, is (ieder van) de erfgena(a)m(en) aan wie het deposito van de overleden depositohouder is toegedeeld of de enig erfgenaam, al naargelang het geval, individueel aan te merken als depositohouder van het betreffende (deel van het) deposito.
+
+3. Indien de overleden depositohouder ná de datum van het oordeel of de uitspraak welke heeft geleid tot toepassing van het depositogarantiestelsel is overleden en de nalatenschap van de depositohouder is verdeeld of er is een enig erfgenaam, volgen de erfgena(a)m(en) of volgt de enig erfgenaam, al naargelang het geval, de overleden depositohouder op in het recht van de overleden depositohouder op de vergoeding uit hoofde van het depositogarantiestelsel. Indien er meerdere erfgenamen zijn die ieder een deel van de deposito’s van de overleden depositohouder toegedeeld hebben gekregen, zal een pro rata deel van de vergoeding aan de erfgenamen worden toegekend. De vergoeding uit hoofde van het voorgaande staat los van en zal geen invloed hebben op de hoogte van een eventuele vergoeding van de betreffende erfgena(a)m(en) in verband met één of meer andere door de betreffende erfgenaam bij de bank aangehouden deposito’s.
+
+4. Indien en zolang de nalatenschap van de overleden depositohouder nog niet is verdeeld, zijn de erfgenamen de gezamenlijke rechtsopvolgers van de overleden depositohouder voor wat betreft de gerechtigdheid tot een vergoeding uit hoofde van het depositogarantiestelsel. De vergoeding zal worden toegekend aan de erfgenamen gezamenlijk en worden uitbetaald op één door of namens de gezamenlijke erfgenamen op te geven bankrekening. Bij het vaststellen van de hoogte van de vergoeding uit hoofde van het depositogarantiestelsel die wordt toegekend aan de gezamenlijke erfgenamen wordt gekeken naar de vergoeding die aan de overleden depositohouder zou zijn toegekend ware deze nog in leven. Deze vergoeding staat los van en zal geen invloed hebben op de hoogte van een eventuele vergoeding van de betreffende erfgena(a)m(en) in verband met één of meer andere door de betreffende erfgenaam bij de bank aangehouden deposito’s.
+
+##### Artikel 2.4
 
 1. Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel, als bedoeld in [artikel 3:261, eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261), beschouwt DNB de volgende overheden als overheden op wie het depositogarantiestelsel niet van toepassing is, als bedoeld in [artikel 29.01, tweede lid, aanhef en onderdeel a, sub 8 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01):
 
@@ -194,19 +202,31 @@ De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Bij het vaststellen van de vergoeding uit hoofde van het depositogarantiestelsel, als bedoeld in [artikel 3:261, eerste lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:261), beschouwt DNB het depositogarantiestelsel wel van toepassing op entiteiten met een publiekrechtelijke grondslag die geen direct en integraal onderdeel zijn van de overheden bedoeld in het eerste lid.
 
-##### Artikel 2.4
+### Hoofdstuk 3. Uitvoering
+
+##### Artikel 3.7
+
+1. In het geval van deposito’s die conform [artikel 6, eerste lid, onderdeel i van de Beleidsregel Individueel Klantbeeld Wft 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&artikel=6) zijn gemarkeerd als lijfrenterekeningen als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) of stamrechtspaarrekeningen als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), stelt DNB de bijbehorende toegekende vergoeding uit hoofde van het depositogarantiestelsel niet automatisch beschikbaar voor uitkering via de website als bedoeld in [artikel 29.07, eerste lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.07).
+
+2. Alvorens de vergoeding bedoeld in het eerste lid beschikbaar te stellen, wijst DNB de depositohouder op de mogelijke fiscale consequenties van het direct ontvangen van de vergoeding.
+
+3. Waar dit mogelijk is, ondersteunt DNB een constructie voor depositohouders om dat deel van de toegekende vergoeding uit hoofde van het depositogarantiestelsel dat samenhangt met een lijfrenterekening als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) of stamrechtspaarrekening als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), uit te laten keren op een andere rekening waarmee de toepasselijke fiscale behandeling kan worden voortgezet.
+
+### Hoofdstuk 4. Slotbepalingen
+
+De beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Afdeling 2.3. Uitsluitingen
+
+##### Artikel 2.5
 
 Wanneer een depositohouder een niet-natuurlijk persoon zonder rechtspersoonlijkheid is die classificeert als een onderneming op wie het depositogarantiestelsel niet van toepassing is, als bedoeld in [artikel 29.01, tweede lid van het Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.01), kent DNB voor dit deposito geen vergoeding toe aan de personen die als leden van de vennootschap of soortgelijke groepering aanspraak maken op het deposito.
 
 ### Hoofdstuk 3. Uitvoering
 
-##### Artikel 3.7
+##### Artikel 3.8
 
-1. In het geval van deposito’s die conform [artikel 6, eerste lid, onderdeel j van de Beleidsregel Individueel Klantbeeld Wft 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039826&artikel=6) zijn gemarkeerd als lijfrenterekeningen als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) of stamrechtspaarrekeningen als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), stelt DNB de bijbehorende toegekende vergoeding uit hoofde van het depositogarantiestelsel niet automatisch beschikbaar voor uitkering via de website als bedoeld in [artikel 29.07, eerste lid van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=29.07).
-
-2. Alvorens de vergoeding bedoeld in het eerste lid beschikbaar te stellen, wijst DNB de depositohouder op de mogelijke fiscale consequenties van het direct ontvangen van de vergoeding.
-
-3. Waar dit mogelijk is, ondersteunt DNB een constructie voor depositohouders om dat deel van de toegekende vergoeding uit hoofde van het depositogarantiestelsel dat samenhangt met een lijfrenterekening als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) of stamrechtspaarrekening als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), uit te laten keren op een andere rekening waarmee de toepasselijke fiscale behandeling kan worden voortgezet.
+Bij het vaststellen van de uitkeringstermijn classificeert DNB als werkdag alle dagen van maandag tot en met vrijdag die niet zijn aangemerkt als feestdag conform de cao van DNB.
 
 ### Hoofdstuk 4. Slotbepalingen
 
