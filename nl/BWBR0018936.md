@@ -4,7 +4,7 @@ identifier: "BWBR0018936"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2019-11-20"
+last_updated: "2022-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018936"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Vervallen
 
 - b. beschermende kledingstukken, waaronder scherfwerende vesten en militaire helmen, die door VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties en ontwikkelingswerkers en aanverwant personeel louter voor hun eigen bescherming tijdelijk naar de Democratische Republiek Congo worden uitgevoerd;
 
-- c. niet-dodelijke militaire uitrusting die uitsluitend voor humanitaire of beschermende doeleinden bestemd is;
+- c. niet-dodelijke militaire uitrusting die uitsluitend voor humanitaire of beschermde doeleinden bestemd is, of op de verstrekking van technische bijstand en opleidingen in verband met dergelijke niet-dodelijke uitrusting;
 
 - d. militaire goederen of militaire technologie uitsluitend bestemd ter ondersteuning van of voor gebruik door de regionale taskforce van de Afrikaanse Unie;
 
