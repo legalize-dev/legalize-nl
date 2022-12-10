@@ -4,7 +4,7 @@ identifier: "BWBR0042987"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-25"
-last_updated: "2020-01-01"
+last_updated: "2022-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042987"
 soort: "ministeriele-regeling"
@@ -41,7 +41,9 @@ Besluit:
 
 ##### Artikel 1
 
-In verband met de hulpverlening in militair verband bij de leniging van de nood van slachtoffers van de orkaan Dorian op de Bahama’s, waarbij in de periode van 11 september 2019 tot en met 26 september 2019 op het eiland Abaco en vanaf het schip Zr.Ms. Johan de Witt en het vaartuig Zr.Ms. Snellius hulp werd verleend, wordt de gesp ‘BAHAMA’S 2019’ ingesteld.
+1. In verband met de hulpverlening in militair verband bij de leniging van de nood van slachtoffers van de orkaan Dorian op de Bahama’s, waarbij in de periode van 11 september 2019 tot en met 26 september 2019 op het eiland Abaco en vanaf het schip Zr.Ms. Johan de Witt en het vaartuig Zr.Ms. Snellius hulp werd verleend, wordt de gesp ‘BAHAMA’S 2019’ ingesteld.
+
+2. In verband met de hulpverlening in militair verband bij de leniging van de nood van slachtoffers van de aardbeving in Haïti in de periode 19 augustus 2021 tot en met 1 september 2021 wordt de gesp ‘HAÏTI 2021’ ingesteld.
 
 ##### Artikel 2
 
