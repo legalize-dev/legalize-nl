@@ -4,7 +4,7 @@ identifier: "BWBR0044767"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2021-10-01"
+last_updated: "2022-12-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044767"
 soort: "ministeriele-regeling"
@@ -78,13 +78,23 @@ In deze regeling wordt verstaan onder:
 
 1. De vergunninghouder houdt iedere maand 10% van het bruto spelresultaat in over de weddenschappen die hij die maand heeft afgesloten op uitslagen van draf- of renwedstrijden die in Nederland zijn georganiseerd.
 
-2. Dit lid is nog niet in werking getreden.
+2. De vergunninghouder draagt het ingevolge het eerste lid ingehouden bedrag de daarop eerstvolgende maand af aan een door de Minister voor Rechtsbescherming aangewezen ontvanger.
 
-3. Dit lid is nog niet in werking getreden.
+3. De aangewezen ontvanger, bedoeld in het tweede lid, besteedt de met de afdracht ontvangen gelden uitsluitend aan:
 
-4. Dit lid is nog niet in werking getreden.
+- a. het uitkeren van geldprijzen aan deelnemers van draf- of renwedstrijden die in Nederland worden georganiseerd;
 
-5. Dit lid is nog niet in werking getreden.
+- b. het bevorderen van de fokkerij van paarden in Nederland; en
+
+- c. het tegengaan van manipulatie van draf- of renwedstrijden.
+
+4. Aan de aanwijzing van de ontvanger worden voorschriften verbonden. Deze voorschriften hebben in ieder geval betrekking op de wijze waarop de ontvanger de ontvangen gelden besteedt aan de doeleinden, bedoeld in het derde lid, en de wijze waarop hij verantwoording hierover aflegt.
+
+5. De aanwijzing kan worden ingetrokken, indien:
+
+- a. de ontvanger niet voldoet aan de bestedingseisen, bedoeld in het derde lid;
+
+- b. de ontvanger een aan de aanwijzing verbonden voorschrift heeft overtreden.
 
 ##### Artikel 2.3. Het verbod op de vergunning van loterijen op afstand
 
@@ -110,7 +120,7 @@ De vergunninghouder organiseert geen kansspel dat naar het oordeel van de raad v
 
 ##### Artikel 2.4. Het antecedentenonderzoek
 
-De antecedenten, bedoeld in [artikel 3.4, tweede lid, onder c, van het besluit](onbekend), zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=1&z=2021-10-01&g=2021-10-01) bij deze regeling.
+De antecedenten, bedoeld in [artikel 3.4, tweede lid, onder c, van het besluit](onbekend), zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=1&z=2022-12-10&g=2022-12-10) bij deze regeling.
 
 ### Hoofdstuk 3. De organisatie van kansspelen op afstand
 
@@ -262,11 +272,11 @@ De vergunninghouder die weddenschappen organiseert treft passende maatregelen di
 
 ##### Artikel 3.13. Van voorafgaande analyse uitgezonderde wedstrijden
 
-Als wedstrijden en competities, bedoeld in [artikel 4.8, zesde lid, van het besluit](onbekend), zijn aangewezen de wedstrijden en competities die zijn opgenomen in onderdeel 2.1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=2&z=2021-10-01&g=2021-10-01) bij deze regeling.
+Als wedstrijden en competities, bedoeld in [artikel 4.8, zesde lid, van het besluit](onbekend), zijn aangewezen de wedstrijden en competities die zijn opgenomen in onderdeel 2.1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=2&z=2022-12-10&g=2022-12-10) bij deze regeling.
 
 ##### Artikel 3.14. Van weddenschappen uitgesloten wedstrijden en competities
 
-De vergunninghouder organiseert in ieder geval geen weddenschappen op wedstrijden en competities die zijn opgenomen in onderdeel 2.2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=2&z=2021-10-01&g=2021-10-01) bij deze regeling.
+De vergunninghouder organiseert in ieder geval geen weddenschappen op wedstrijden en competities die zijn opgenomen in onderdeel 2.2 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=2&z=2022-12-10&g=2022-12-10) bij deze regeling.
 
 ##### Artikel 3.15. Van weddenschappen uitgesloten gebeurtenissen
 
@@ -282,7 +292,7 @@ De vergunninghouder organiseert in ieder geval geen weddenschappen op wedstrijde
 
 - b. geen overwegende invloed heeft op het verloop of de uitslag van de wedstrijd.
 
-3. De vergunninghouder organiseert in ieder geval geen weddenschappen op de gebeurtenissen die zijn opgenomen in onderdeel 2.3 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=2&z=2021-10-01&g=2021-10-01) bij deze regeling.
+3. De vergunninghouder organiseert in ieder geval geen weddenschappen op de gebeurtenissen die zijn opgenomen in onderdeel 2.3 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=2&z=2022-12-10&g=2022-12-10) bij deze regeling.
 
 ##### Artikel 3.15a. Uitzondering meldplicht matchfixing
 
@@ -446,11 +456,11 @@ De vergunninghouder die kansspelen met een jackpot organiseert biedt op de kanss
 
 ##### Artikel 3.27. Kwaliteitsmanagement, informatiebeveiliging en ICT-beheer
 
-1. Het kwaliteitsmanagementsysteem van de vergunninghouder, bedoeld in [artikel 4.40, onder a, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in onderdeel 3.1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2021-10-01&g=2021-10-01) bij deze regeling.
+1. Het kwaliteitsmanagementsysteem van de vergunninghouder, bedoeld in [artikel 4.40, onder a, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in onderdeel 3.1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2022-12-10&g=2022-12-10) bij deze regeling.
 
-2. Het informatiebeveiligingssysteem van de vergunninghouder, bedoeld in [artikel 4.40, onder b, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in onderdeel 3.2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2021-10-01&g=2021-10-01) bij deze regeling.
+2. Het informatiebeveiligingssysteem van de vergunninghouder, bedoeld in [artikel 4.40, onder b, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in onderdeel 3.2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2022-12-10&g=2022-12-10) bij deze regeling.
 
-3. Het systeem voor het beheer van de informatietechnologie en- communicatienetwerken van de vergunninghouder, bedoeld in [artikel 4.40, onder c, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in onderdeel 3.3 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2021-10-01&g=2021-10-01) bij deze regeling.
+3. Het systeem voor het beheer van de informatietechnologie en- communicatienetwerken van de vergunninghouder, bedoeld in [artikel 4.40, onder c, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in onderdeel 3.3 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2022-12-10&g=2022-12-10) bij deze regeling.
 
 ##### Artikel 3.28. Het risiconiveau van onderdelen van het spelsysteem
 
@@ -510,7 +520,7 @@ De vergunninghouder draagt er zorg voor dat de werkzaamheden bij een eigen keuri
 
 1. De aangewezen keuringsinstelling betrekt de resultaten van een eerdere keuring van het spelsysteem of een onderdeel daarvan, bij diens keuring van het spelsysteem of een onderdeel daarvan uitsluitend indien:
 
-- a. die eerdere keuring is uitgevoerd door een keuringsinstelling die is geaccrediteerd tegen een voor die keuringswerkzaamheden toepasselijke geharmoniseerde norm als bedoeld in [artikel 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=6&artikel=3.29&z=2021-10-01&g=2021-10-01); en
+- a. die eerdere keuring is uitgevoerd door een keuringsinstelling die is geaccrediteerd tegen een voor die keuringswerkzaamheden toepasselijke geharmoniseerde norm als bedoeld in [artikel 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=6&artikel=3.29&z=2022-12-10&g=2022-12-10); en
 
 - b. de eisen met betrekking tot de uitvoering van de eerdere keuring naar het oordeel van de aangewezen keuringsinstelling voldoende overeenkomen met de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) aan dat spelsysteem of dat onderdeel gestelde eisen.
 
@@ -594,7 +604,7 @@ De vergunninghouder registreert met betrekking tot iedere speler, voor zover van
 
 ##### Artikel 4.5. De gegevens over spelonderbrekingen
 
-De vergunninghouder registreert met betrekking tot iedere onderbreking als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=1&artikel=3.3&z=2021-10-01&g=2021-10-01) ten minste:
+De vergunninghouder registreert met betrekking tot iedere onderbreking als bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=1&artikel=3.3&z=2022-12-10&g=2022-12-10) ten minste:
 
 - a. de oorzaak van de onderbreking;
 
@@ -688,7 +698,7 @@ De vergunninghouder registreert met betrekking tot ieder risico dat overeenkomst
 
 1. De vergunninghouder registreert de gegevens, bedoeld in [artikel 4.5, tweede lid, onder b, van het besluit](onbekend), en de gegevens, bedoeld in deze afdeling, op het moment waarop deze gegevens worden gegenereerd of, indien dit niet mogelijk is, onverwijld na dat moment.
 
-2. De vergunninghouder neemt de gegevens, bedoeld in [artikel 5.3, tweede lid, van het besluit](onbekend), en in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.11&z=2021-10-01&g=2021-10-01), van deze regeling in onbewerkte vorm op in de controledatabank op het moment waarop deze gegevens worden gegenereerd of, indien dit niet mogelijk is, onverwijld na dat moment.
+2. De vergunninghouder neemt de gegevens, bedoeld in [artikel 5.3, tweede lid, van het besluit](onbekend), en in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.11&z=2022-12-10&g=2022-12-10), van deze regeling in onbewerkte vorm op in de controledatabank op het moment waarop deze gegevens worden gegenereerd of, indien dit niet mogelijk is, onverwijld na dat moment.
 
 ##### Artikel 4.13. De termijnen voor het bewaren en aanhouden van gegevens
 
@@ -696,7 +706,7 @@ De vergunninghouder registreert met betrekking tot ieder risico dat overeenkomst
 
 2. In afwijking van het eerste lid bewaart de vergunninghouder de spelersprofielen, de daarin opgenomen persoonsgegevens van spelers, alsmede andere persoonsgegevens die hij van spelers registreert ter uitvoering van deze afdeling en [artikel 4.4 van het besluit](onbekend) en vernietigt hij deze na afloop van drie jaar, gerekend vanaf het moment van beëindiging van de inschrijving van de speler, tenzij uit een wettelijk voorschrift anders voortvloeit.
 
-3. In afwijking van de voorgaande leden bewaart de vergunninghouder de gegevens, bedoeld in [artikel 4.2, onder c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.2&z=2021-10-01&g=2021-10-01), en in [artikel 4.4, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.4&z=2021-10-01&g=2021-10-01), zeven jaar, gerekend vanaf het moment van registratie daarvan.
+3. In afwijking van de voorgaande leden bewaart de vergunninghouder de gegevens, bedoeld in [artikel 4.2, onder c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.2&z=2022-12-10&g=2022-12-10), en in [artikel 4.4, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.4&z=2022-12-10&g=2022-12-10), zeven jaar, gerekend vanaf het moment van registratie daarvan.
 
 4. Onverminderd de voorgaande leden houdt de vergunninghouder de gegevens die hij opneemt in de controledatabank ter uitvoering van deze afdeling en [artikel 5.3, tweede lid, van het besluit](onbekend) voor de duur van twaalf maanden in de controledatabank.
 
@@ -710,7 +720,7 @@ De vergunninghouder neemt in de rapportage, bedoeld in [artikel 5.1, eerste lid,
 
 - 1°. het totaal aantal vermoedelijke integriteitsinbreuken;
 
-- 2°. het totaal aantal onderzoeken dat is verricht naar aanleiding van vermoedelijke integriteitsinbreuken onderverdeeld naar status of uitkomst als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.7&z=2021-10-01&g=2021-10-01) van deze regeling;
+- 2°. het totaal aantal onderzoeken dat is verricht naar aanleiding van vermoedelijke integriteitsinbreuken onderverdeeld naar status of uitkomst als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.7&z=2022-12-10&g=2022-12-10) van deze regeling;
 
 - 3°. het totaal aantal overeenkomstig [artikel 4.19, eerste lid, aanhef en onder b, van het besluit](onbekend) uitgevoerde schorsingen naar aanleiding van vermoedelijke integriteitsinbreuken onderverdeeld naar de aard van deze inbreuken en de daarop getroffen maatregelen;
 
@@ -764,7 +774,7 @@ De vergunninghouder treft passende technische en operationele maatregelen die wa
 
 - b. gegevens na opneming in de controledatabank uitsluitend worden gewijzigd onder vermelding van de datum en het tijdstip van wijziging van die gegevens met behoud van de oorspronkelijke gegevens;
 
-- c. gegevens na opneming in de controledatabank in ieder geval niet worden verwijderd in strijd met [artikel 4.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.13&z=2021-10-01&g=2021-10-01);
+- c. gegevens na opneming in de controledatabank in ieder geval niet worden verwijderd in strijd met [artikel 4.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.13&z=2022-12-10&g=2022-12-10);
 
 - d. personen uitsluitend in de controledatabank gegevens kunnen opnemen, wijzigen of verwijderen, indien:
 
@@ -780,7 +790,7 @@ De vergunninghouder treft passende technische en operationele maatregelen die wa
 
 - 1°. de gegevens, bedoeld in [artikel 5.3, tweede lid, onder a, d en e, van het besluit](onbekend);
 
-- 2°. de gegevens, bedoeld in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.11&z=2021-10-01&g=2021-10-01), van deze regeling.
+- 2°. de gegevens, bedoeld in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.11&z=2022-12-10&g=2022-12-10), van deze regeling.
 
 ##### Artikel 4.20. Afscheiding en fysieke plaatsing van de controledatabank
 
@@ -820,7 +830,7 @@ Wijzigt de Uitvoeringsregeling kansspelheffing.
 
 2. De keuringsinstellingen, bedoeld in het eerste lid, voldoen in ieder geval aan de volgende vereisten:
 
-- a. de keuringsinstelling is overeenkomstig [artikel 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=6&artikel=3.29&z=2021-10-01&g=2021-10-01), geaccrediteerd tegen een of meerdere in dat artikel bedoelde accreditatienormen voor het verrichten van keuringen ten aanzien van de organisatie van kansspelen op afstand in ten minste twee lidstaten;
+- a. de keuringsinstelling is overeenkomstig [artikel 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=6&artikel=3.29&z=2022-12-10&g=2022-12-10), geaccrediteerd tegen een of meerdere in dat artikel bedoelde accreditatienormen voor het verrichten van keuringen ten aanzien van de organisatie van kansspelen op afstand in ten minste twee lidstaten;
 
 - b. de accreditaties, bedoeld in onderdeel a, zijn afgegeven door een accreditatie-instantie die volwaardig lid is van de **International Laboratory Accreditation Cooperation** of het **International Accreditation Forum**;
 
@@ -832,13 +842,13 @@ Wijzigt de Uitvoeringsregeling kansspelheffing.
 
 ##### Artikel 6.2. Inwerkingtreding
 
-Deze regeling treedt met uitzondering van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=2&artikel=2.2&z=2021-10-01&g=2021-10-01) in werking op 1 april 2021.
+Deze regeling treedt met uitzondering van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=2&artikel=2.2&z=2022-12-10&g=2022-12-10) in werking op 1 april 2021.
 
 ##### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling kansspelen op afstand.
 
-## Bijlage 1. behorend bij [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=2&artikel=2.4&z=2021-10-01&g=2021-10-01) van de Regeling kansspelen op afstand
+## Bijlage 1. behorend bij [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=2&artikel=2.4&z=2022-12-10&g=2022-12-10) van de Regeling kansspelen op afstand
 
 ### Onderdeel 1.1. Strafrechtelijke antecedenten
 
@@ -860,7 +870,7 @@ Onder geen vervolging of geen verdere vervolging al dan niet onder voorwaarden, 
 
 Onder gerechtelijke of strafvorderlijke documenten, processen-verbaal of rapporten als bedoeld in onderdeel 1.1, onder e, worden tevens verstaan daarmee vergelijkbare documenten met gelijke bewijskracht, opgemaakt door tot de berechting, vervolging of opsporing van strafbare feiten bevoegde personen in het buitenland ter zake van de hiervoor bedoelde vergelijkbare strafbare feiten.
 
-## Bijlage 2. behorend bij de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.13&z=2021-10-01&g=2021-10-01), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.14&z=2021-10-01&g=2021-10-01) en [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.15&z=2021-10-01&g=2021-10-01) van de Regeling kansspelen op afstand
+## Bijlage 2. behorend bij de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.13&z=2022-12-10&g=2022-12-10), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.14&z=2022-12-10&g=2022-12-10) en [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.15&z=2022-12-10&g=2022-12-10) van de Regeling kansspelen op afstand
 
 ### Onderdeel 2.1
 
@@ -874,7 +884,7 @@ De vergunninghouder organiseert in ieder geval geen weddenschappen op de volgend
 
 De vergunninghouder organiseert in ieder geval geen weddenschappen op de volgende gebeurtenissen:
 
-## Bijlage 3. behorend bij [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=5&artikel=3.27&z=2021-10-01&g=2021-10-01) van de Regeling kansspelen op afstand
+## Bijlage 3. behorend bij [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=5&artikel=3.27&z=2022-12-10&g=2022-12-10) van de Regeling kansspelen op afstand
 
 | **Onderdeel 3.1** |   |   |
 | --- | --- | --- |
