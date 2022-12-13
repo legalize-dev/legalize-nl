@@ -4,7 +4,7 @@ identifier: "BWBR0008587"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-09"
-last_updated: "2022-07-01"
+last_updated: "2022-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008587"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ In het jaarverslag van een certificerende instelling, bedoeld in [artikel 1.5eb,
 
 ##### Artikel 1.2. Algemeen
 
-Voor zover in deze regeling regels zijn gesteld over opleidingen zijn de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2022-07-01&g=2022-07-01) van toepassing.
+Voor zover in deze regeling regels zijn gesteld over opleidingen zijn de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2022-12-13&g=2022-12-13) van toepassing.
 
 ##### Artikel 1.3. Materiaal
 
@@ -116,7 +116,7 @@ De opleidingsinstelling overhandigt de cursist die het examen met goed gevolg he
 
 ##### Artikel 1.8. Administratie
 
-De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlijke gegevens van de cursist en de datum waarop het schriftelijk bewijs, bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2022-07-01&g=2022-07-01) is uitgereikt in ieder geval zijn opgenomen en waarin de periode is bepaald gedurende welke de examenopgaven en de uitwerkingen daarvan worden bewaard.
+De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlijke gegevens van de cursist en de datum waarop het schriftelijk bewijs, bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2022-12-13&g=2022-12-13) is uitgereikt in ieder geval zijn opgenomen en waarin de periode is bepaald gedurende welke de examenopgaven en de uitwerkingen daarvan worden bewaard.
 
 #### Paragraaf 1.2. Algemene bepalingen over opleidingen
 
@@ -274,7 +274,7 @@ Vervallen
 
 ##### Artikel 2.6. Melding wijziging organisatievorm
 
-De arbodienst meldt een wijziging van zijn organisatievorm terstond aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2022-07-01&g=2022-07-01).
+De arbodienst meldt een wijziging van zijn organisatievorm terstond aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2022-12-13&g=2022-12-13).
 
 #### Paragraaf 2.2. Certificatie
 
@@ -284,7 +284,7 @@ Als certificerende instelling als bedoeld in [artikel 2.14, eerste en tweede lid
 
 ##### Artikel 2.8. Eisen aan de arbodienst
 
-Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een instelling heeft aangewezen als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2022-07-01&g=2022-07-01), door die instelling afgegeven indien wordt voldaan aan de eisen vastgelegd in Deel 1 van het Certificatieschema Arbodiensten dat is vastgesteld door de Stichting Beheer Certificatieregeling Arbodiensten op 9 november 2018 en door de minister is gepubliceerd in de Staatscourant van 5 december 2018, Stcrt. 2018, 68321.
+Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een instelling heeft aangewezen als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2022-12-13&g=2022-12-13), door die instelling afgegeven indien wordt voldaan aan de eisen vastgelegd in Deel 1 van het Certificatieschema Arbodiensten dat is vastgesteld door de Stichting Beheer Certificatieregeling Arbodiensten op 9 november 2018 en door de minister is gepubliceerd in de Staatscourant van 5 december 2018, Stcrt. 2018, 68321.
 
 ##### Artikel 2.9. Klachtenprocedure
 
@@ -382,7 +382,7 @@ Vervallen
 
 ##### Artikel 3.2. Definities
 
-In deze paragraaf en [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&z=2022-07-01&g=2022-07-01) wordt verstaan onder:
+In deze paragraaf en [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&z=2022-12-13&g=2022-12-13) wordt verstaan onder:
 
 ##### Artikel 3.3. Veiligheids- en gezondheidszorgsysteem
 
@@ -416,7 +416,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.7. Veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Voor zover niet reeds bij het opstellen van het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), hiermee rekening is gehouden, wordt er een veiligheids- en gezondheidsdocument opgesteld voor de volgende bijzondere werkzaamheden:
+1. Voor zover niet reeds bij het opstellen van het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), hiermee rekening is gehouden, wordt er een veiligheids- en gezondheidsdocument opgesteld voor de volgende bijzondere werkzaamheden:
 
 - a. het boren van een boorgat;
 
@@ -428,7 +428,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.8. Onderdelen veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-1. Het veiligheids- en gezondheidsdocument, bedoeld in artikel [3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), bestaat uit de volgende onderdelen:
+1. Het veiligheids- en gezondheidsdocument, bedoeld in artikel [3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), bestaat uit de volgende onderdelen:
 
 - a. het voorontwerprapport;
 
@@ -440,7 +440,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 - e. het addendum verlaten en verwijderen.
 
-2. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), bestaat uit de volgende onderdelen:
+2. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), bestaat uit de volgende onderdelen:
 
 - a. het gedetailleerd ontwerp, opstarten en gebruik;
 
@@ -450,25 +450,25 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 ##### Artikel 3.9. Inhoud veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), bevat:
+Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), bevat:
 
 - a. een duidelijke en nauwkeurige beschrijving van het mijnbouwwerk alsmede van de werkzaamheden die op het mijnbouwwerk worden uitgevoerd, met inbegrip van een aanduiding van de voorzieningen die in het ontwerp van het mijnbouwwerk zijn opgenomen ter uitsluiting of vermindering van de risico's;
 
-- b. in aanvulling op onderdeel a, de informatie, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IV&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- b. in aanvulling op onderdeel a, de informatie, bedoeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IV&z=2022-12-13&g=2022-12-13) bij deze regeling;
 
-- c. de informatie, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=V&z=2022-07-01&g=2022-07-01) bij deze regeling, met betrekking tot het brandbestrijdingsplan;
+- c. de informatie, bedoeld in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=V&z=2022-12-13&g=2022-12-13) bij deze regeling, met betrekking tot het brandbestrijdingsplan;
 
 - d. de informatie, bedoeld in onderdeel c, is gebaseerd op de opgave, bedoeld in [artikel 2.42f, eerste lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42f);
 
 - e. een opgave van de acceptatiecriteria;
 
-- f. een lijst van alle geïdentificeerde en geanalyseerde risico's, inclusief een samenvatting van het onderzoek dat in dit kader is verricht voor het mijnbouwwerk op het land of de vast opgestelde mijnbouwinstallatie als bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2022-07-01&g=2022-07-01) bij deze regeling of voor de als een geheel verplaatsbare mijnbouwinstallatie of een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd, bedoeld in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- f. een lijst van alle geïdentificeerde en geanalyseerde risico's, inclusief een samenvatting van het onderzoek dat in dit kader is verricht voor het mijnbouwwerk op het land of de vast opgestelde mijnbouwinstallatie als bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2022-12-13&g=2022-12-13) bij deze regeling of voor de als een geheel verplaatsbare mijnbouwinstallatie of een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd, bedoeld in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2022-12-13&g=2022-12-13) bij deze regeling;
 
 - g. een specificatie van de bronnen, die zijn gebruikt bij het identificeren, analyseren en evalueren van de risico's, met inbegrip van een beschrijving van de wijze waarop de geschiktheid en betrouwbaarheid van de bronnen is vastgesteld;
 
 - h. een beoordeling van de doeltreffendheid en geschiktheid van het veiligheids- en gezondheidszorgsysteem voor het mijnbouwwerk met inbegrip van de resultaten en de noodzakelijk bevonden wijzigingen of aanvullingen van dat zorgsysteem;
 
-- i. een samenvatting, in niet-technische terminologie, van het onderzoek, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2022-07-01&g=2022-07-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2022-07-01&g=2022-07-01) bij deze regeling, dat is verricht in het kader van het opstellen van het veiligheids- en gezondheidsdocument;
+- i. een samenvatting, in niet-technische terminologie, van het onderzoek, bedoeld in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VI&z=2022-12-13&g=2022-12-13) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VII&z=2022-12-13&g=2022-12-13) bij deze regeling, dat is verricht in het kader van het opstellen van het veiligheids- en gezondheidsdocument;
 
 - j. een opgave van de noodzakelijk geachte risicoverminderende maatregelen, inclusief een samenvatting van al het onderzoek dat in dit kader is verricht;
 
@@ -486,7 +486,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 ##### Artikel 3.10. Inhoud veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2022-07-01&g=2022-07-01), bevat:
+1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2022-12-13&g=2022-12-13), bevat:
 
 - a. een overzichtstekening waarop de combinaties, bedoeld in het tweede lid, zijn aangegeven;
 
@@ -506,31 +506,31 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 - i. een toetsing van de prestaties van een procesinstallatie of componenten daarvan, van apparatuur en van beheerssystemen aan de prestatienormen.
 
-2. In het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, worden de maatregelen, die noodzakelijk zijn voor het beheersen van risico's, afgestemd op het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), indien bij het uitvoeren van werkzaamheden gebruik wordt gemaakt van een combinatie van:
+2. In het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, worden de maatregelen, die noodzakelijk zijn voor het beheersen van risico's, afgestemd op het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), indien bij het uitvoeren van werkzaamheden gebruik wordt gemaakt van een combinatie van:
 
-- a. een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) en een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01);
+- a. een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) en een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13);
 
-- b. een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) en een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01);
+- b. een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) en een vast opgestelde mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13);
 
-- c. een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) en een andere verplaatsbare installatie met behulp waarvan werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), of
+- c. een als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) en een andere verplaatsbare installatie met behulp waarvan werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), of
 
-- d. een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) en een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01).
+- d. een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) en een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13).
 
 ##### Artikel 3.11. Toezenden voorontwerprapport en veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
-1. Het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01), wordt voorafgaand aan de aanvraag om een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) en de aanvraag om een vergunning als bedoeld in [artikel 40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40), in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+1. Het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13), wordt voorafgaand aan de aanvraag om een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) en de aanvraag om een vergunning als bedoeld in [artikel 40 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=40), in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-2. Het gedetailleerd ontwerp, opstarten en gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01), wordt twaalf weken voor het in gebruik nemen van een mijnbouwwerk in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+2. Het gedetailleerd ontwerp, opstarten en gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13), wordt twaalf weken voor het in gebruik nemen van een mijnbouwwerk in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-3. Het addendum gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01), wordt voor de eerste maal vijf jaar na toezending van het gedetailleerd ontwerp, opstarten en gebruik en vervolgens eenmaal in de vijf jaar in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+3. Het addendum gebruik, bedoeld in [artikel 3.8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13), wordt voor de eerste maal vijf jaar na toezending van het gedetailleerd ontwerp, opstarten en gebruik en vervolgens eenmaal in de vijf jaar in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-4. Het addendum verlaten en verwijderen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01), wordt twaalf weken voor het verlaten van een mijnbouwwerk of het verwijderen van een vast opgestelde mijnbouwinstallatie in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+4. Het addendum verlaten en verwijderen, bedoeld in [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13), wordt twaalf weken voor het verlaten van een mijnbouwwerk of het verwijderen van een vast opgestelde mijnbouwinstallatie in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-5. De informatie, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01), wordt op verzoek van een daartoe aangewezen toezichthouder in tweevoud aan hem toegezonden.
+5. De informatie, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13), wordt op verzoek van een daartoe aangewezen toezichthouder in tweevoud aan hem toegezonden.
 
 ##### Artikel 3.12. Toezenden van het veiligheids- en gezondheidsdocument voor werkzaamheden
 
-1. Het veiligheids- en gezondheidsdocument voor de bijzondere werkzaamheden, bedoeld in [artikel 3.7, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2022-07-01&g=2022-07-01), wordt acht weken voor de aanvang van de werkzaamheden in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
+1. Het veiligheids- en gezondheidsdocument voor de bijzondere werkzaamheden, bedoeld in [artikel 3.7, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2022-12-13&g=2022-12-13), wordt acht weken voor de aanvang van de werkzaamheden in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
 2. Dit veiligheids- en gezondheidsdocument gaat vergezeld van het werkprogramma, bedoeld in [artikel 74 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=74) indien het de volgende werkzaamheden betreft:
 
@@ -540,17 +540,17 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 ##### Artikel 3.13. Naleving veiligheids- en gezondheidsdocument
 
-1. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), gaat na of het veiligheids- en gezondheidsdocument, met uitzondering van het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01), wordt nageleefd.
+1. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), gaat na of het veiligheids- en gezondheidsdocument, met uitzondering van het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13), wordt nageleefd.
 
-2. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), beoordeelt regelmatig en systematisch de naleving en de doeltreffendheid van het veiligheids- en gezondheidsdocument.
+2. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), beoordeelt regelmatig en systematisch de naleving en de doeltreffendheid van het veiligheids- en gezondheidsdocument.
 
 3. Indien de resultaten van de beoordeling, bedoeld in het tweede lid, daartoe aanleiding geven, herziet de werkgever die verantwoordelijk is voor de arbeidsplaats het veiligheids- en gezondheidsdocument. De herziene delen van het veiligheids- en gezondheidsdocument worden, alvorens het gewijzigde veiligheids- en gezondheidsdocument wordt uitgevoerd, in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
 ##### Artikel 3.14. Noodplan
 
-1. Het noodplan, bedoeld in [artikel 3.37v, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v), bevat in ieder geval de informatie, bedoeld in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIII&z=2022-07-01&g=2022-07-01) bij deze regeling.
+1. Het noodplan, bedoeld in [artikel 3.37v, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v), bevat in ieder geval de informatie, bedoeld in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIII&z=2022-12-13&g=2022-12-13) bij deze regeling.
 
-2. Het noodplan is op het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), aanwezig.
+2. Het noodplan is op het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), aanwezig.
 
 ### Hoofdstuk 4. Gevaarlijke Stoffen
 
@@ -596,9 +596,9 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - r. ladingzone: de ladingtanks en alle rechtstreeks aan deze tanks grenzende tanks of andere ruimten, welke als afscheiding dienen tussen de ladingtanks en de overige ruimten van het schip;
 
-- s. gasdeskundige: een deskundig persoon als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) die voldoet aan [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2022-07-01&g=2022-07-01);
+- s. gasdeskundige: een deskundig persoon als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) die voldoet aan [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.14&z=2022-12-13&g=2022-12-13);
 
-- t. veiligheids- en gezondheidsverklaring: een door een gasdeskundige na een doeltreffend onderzoek afgegeven verklaring als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h), overeenkomstig een van de bij [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IX&z=2022-07-01&g=2022-07-01) van deze regeling vastgestelde modellen.
+- t. veiligheids- en gezondheidsverklaring: een door een gasdeskundige na een doeltreffend onderzoek afgegeven verklaring als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h), overeenkomstig een van de bij [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IX&z=2022-12-13&g=2022-12-13) van deze regeling vastgestelde modellen.
 
 ##### Artikel 4.2. Toepassingsgebied
 
@@ -650,11 +650,11 @@ Tijdens het schoonmaken wordt zo dikwijls als dit nodig is, onderzocht of als ge
 
 ##### Artikel 4.8. Veiligheids- en gezondheidsverklaring
 
-De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2022-07-01&g=2022-07-01), en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2022-07-01&g=2022-07-01) zijn niet van toepassing op K3-ruimten buiten de ladingzone op K1-, KT- en T-schepen indien met betrekking tot deze schepen een veiligheids- en gezondheidsverklaring als bedoeld in [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2022-07-01&g=2022-07-01), is afgegeven.
+De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2022-12-13&g=2022-12-13), en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2022-12-13&g=2022-12-13) zijn niet van toepassing op K3-ruimten buiten de ladingzone op K1-, KT- en T-schepen indien met betrekking tot deze schepen een veiligheids- en gezondheidsverklaring als bedoeld in [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2022-12-13&g=2022-12-13), is afgegeven.
 
 ##### Artikel 4.9. Onderhouden, verbouwen, herstellen en slopen
 
-1. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt slechts plaats nadat een onderzoek, uitgevoerd overeenkomstig de bij [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-07-01&g=2022-07-01) gestelde regels heeft plaatsgevonden en in verband met dit onderzoek een volledig en correct ingevulde veiligheids- en gezondheidsverklaring is uitgereikt aan de werkgever die de onderhouds-, herstellings-, verbouwings-, of sloopwerkzaamheden zal uitvoeren.
+1. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt slechts plaats nadat een onderzoek, uitgevoerd overeenkomstig de bij [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-12-13&g=2022-12-13) gestelde regels heeft plaatsgevonden en in verband met dit onderzoek een volledig en correct ingevulde veiligheids- en gezondheidsverklaring is uitgereikt aan de werkgever die de onderhouds-, herstellings-, verbouwings-, of sloopwerkzaamheden zal uitvoeren.
 
 2. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt voorts slechts plaats voor zover die werkzaamheden en de ruimten waarin deze worden uitgevoerd, zijn vermeld in de in het eerste lid bedoelde veiligheids- en gezondheidsverklaring als zijnde toegestaan.
 
@@ -664,7 +664,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 ##### Artikel 4.10. Onderzoek gasdeskundige
 
-1. Het in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-07-01&g=2022-07-01) bedoelde onderzoek wordt ingesteld door de gasdeskundige, die de uitslag van dat onderzoek vermeldt op de door hem uit te reiken veiligheids- en gezondheidsverklaring.
+1. Het in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-12-13&g=2022-12-13) bedoelde onderzoek wordt ingesteld door de gasdeskundige, die de uitslag van dat onderzoek vermeldt op de door hem uit te reiken veiligheids- en gezondheidsverklaring.
 
 2. De gasdeskundige strekt dit onderzoek uit over alle ruimten ten aanzien waarvan hij dit in verband met de aard van de te verrichten werkzaamheden noodzakelijk acht. Bij het onderzoek betrekt de gasdeskundige zo nodig een goed geoutilleerd laboratorium. Hij maakt gebruik van deugdelijke, in goede staat verkerende meet- en andere hulpapparatuur.
 
@@ -706,7 +706,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 ##### Artikel 4.11. Werken met vuur zonder veiligheids- en gezondheidsverklaring
 
-Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-07-01&g=2022-07-01) en waarbij in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-07-01&g=2022-07-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt is alleen dan toegestaan indien:
+Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-12-13&g=2022-12-13) en waarbij in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-12-13&g=2022-12-13) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt is alleen dan toegestaan indien:
 
 - a. de aard van de werkzaamheden, de plaats of plaatsen waar deze werkzaamheden zullen worden uitgevoerd en de periode waarin zij zullen worden verricht, nauwkeurig zijn aangeduid door de reparateur;
 
@@ -716,11 +716,11 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 - d. door een gasdeskundige een gedagtekende verklaring is uitgereikt waaruit blijkt dat op de onder a tot en met c bedoelde plaatsen de resten van brandbare vloeistoffen zijn verwijderd, zodat geen brandgevaar bestaat;
 
-- e. door een gasdeskundige een volledig en juist ingevulde veiligheids- en gezondheidsverklaring is afgegeven waaruit blijkt dat ruimten waarin gewerkt moet worden en aangrenzende ruimten veilig voor mensen zijn of geïnertiseerd als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-07-01&g=2022-07-01).
+- e. door een gasdeskundige een volledig en juist ingevulde veiligheids- en gezondheidsverklaring is afgegeven waaruit blijkt dat ruimten waarin gewerkt moet worden en aangrenzende ruimten veilig voor mensen zijn of geïnertiseerd als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-12-13&g=2022-12-13).
 
 ##### Artikel 4.12. Werken met vuur zonder veiligheids- en gezondheidsverklaring, binnen 25 meter van de ladingzone
 
-1. Binnen 25 meter van de ladingzone op een K1, of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-07-01&g=2022-07-01), en waarvoor, in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-07-01&g=2022-07-01) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt, is de aanwezigheid van vuur slechts toegestaan indien door een gasdeskundige voor de aanvang van de werkzaamheden een verklaring is afgegeven waaruit blijkt, dat de ladingzone veilig voor mensen is als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-07-01&g=2022-07-01).
+1. Binnen 25 meter van de ladingzone op een K1, of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-12-13&g=2022-12-13), en waarvoor, in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-12-13&g=2022-12-13) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt, is de aanwezigheid van vuur slechts toegestaan indien door een gasdeskundige voor de aanvang van de werkzaamheden een verklaring is afgegeven waaruit blijkt, dat de ladingzone veilig voor mensen is als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2022-12-13&g=2022-12-13).
 
 2. De aanwezigheid van vuur, bedoeld in het eerste lid, is voorts toegestaan indien blijkt uit de verklaring, bedoeld in voornoemd lid, dat:
 
@@ -730,7 +730,7 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 ##### Artikel 4.13. Melding werkzaamheden
 
-Indien de situaties, bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2022-07-01&g=2022-07-01) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2022-07-01&g=2022-07-01), zich voordoen, wordt hiervan melding gedaan aan de daartoe aangewezen toezichthouder vóór de aanvang van de werkzaamheden.
+Indien de situaties, bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2022-12-13&g=2022-12-13) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2022-12-13&g=2022-12-13), zich voordoen, wordt hiervan melding gedaan aan de daartoe aangewezen toezichthouder vóór de aanvang van de werkzaamheden.
 
 ##### Artikel 4.14. Afgifte certificaat van vakbekwaamheid gasdeskundige
 
@@ -784,7 +784,7 @@ Een certificaat van vakbekwaamheid gasdeskundige als bedoeld in [artikel 3.5h, v
 
 - 2°. ontplofbare oorlogsresten overdraagt aan de Explosieven Opruimingsdienst Defensie; of
 
-- 3°. toezicht uitoefent op de werkzaamheden van Assistent deskundige opsporing ontplofbare oorlogsresten en de Deskundige opsporing ontplofbare oorlogsresten indien dat op grond van het certificatieschema, bedoeld in [artikel 4.17f, is vereist](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2022-07-01&g=2022-07-01);
+- 3°. toezicht uitoefent op de werkzaamheden van Assistent deskundige opsporing ontplofbare oorlogsresten en de Deskundige opsporing ontplofbare oorlogsresten indien dat op grond van het certificatieschema, bedoeld in [artikel 4.17f, is vereist](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2022-12-13&g=2022-12-13);
 
 - f. Schietmeester, indien hij explosieve stoffen gebruikt ten behoeve van geologische verkenning en opsporing of winning van delfstoffen;
 
@@ -814,9 +814,9 @@ a. groot vuurwerk: professioneel vuurwerk dat bestemd is voor gebruik buiten tij
 
 ##### Artikel 4.17b. Afgifte certificaat van vakbekwaamheid professioneel vuurwerk
 
-1. De aanwijzing als certificerende instelling als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), kan geschieden indien de aanvragende instelling voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen behorend bij het certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WDAT-VD zoals opgenomen in [bijlage XIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIa&z=2022-07-01&g=2022-07-01) bij de regeling.
+1. De aanwijzing als certificerende instelling als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), kan geschieden indien de aanvragende instelling voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen behorend bij het certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WDAT-VD zoals opgenomen in [bijlage XIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIa&z=2022-12-13&g=2022-12-13) bij de regeling.
 
-2. Een certificaat vakbekwaamheid professioneel vuurwerk als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), wordt door de certificerende instelling bedoeld in het eerste lid, afgegeven indien de aanvrager voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WSCS-VD, zoals opgenomen in [bijlage XIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIb&z=2022-07-01&g=2022-07-01) bij de regeling.
+2. Een certificaat vakbekwaamheid professioneel vuurwerk als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), wordt door de certificerende instelling bedoeld in het eerste lid, afgegeven indien de aanvrager voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WSCS-VD, zoals opgenomen in [bijlage XIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIb&z=2022-12-13&g=2022-12-13) bij de regeling.
 
 ##### Artikel 4.17c. Verstrekken gegevens bij aanvraag certificaat
 
@@ -830,13 +830,13 @@ Vervallen
 
 ##### Artikel 4.18. Beoordeling risico van blootstelling aan gevaarlijke stoffen in combinatie
 
-Bij de beoordeling van het risico van blootstelling in de individuele ademhalingszone van de werknemer aan gevaarlijke stoffen in combinatie, zoals bedoeld in [artikel 4.2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2), wordt in geval van het risico van blootstelling aan stoffen waarvan bekend is dat deze stoffen hetzelfde gezondheidkundige gevolg hebben op hetzelfde orgaansysteem, [bijlage XIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIc&z=2022-07-01&g=2022-07-01) bij de regeling toegepast.
+Bij de beoordeling van het risico van blootstelling in de individuele ademhalingszone van de werknemer aan gevaarlijke stoffen in combinatie, zoals bedoeld in [artikel 4.2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2), wordt in geval van het risico van blootstelling aan stoffen waarvan bekend is dat deze stoffen hetzelfde gezondheidkundige gevolg hebben op hetzelfde orgaansysteem, [bijlage XIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIc&z=2022-12-13&g=2022-12-13) bij de regeling toegepast.
 
 #### Paragraaf 4.2. Veilig werken met explosieven
 
 ##### Artikel 4.19. Gevaarlijke stoffen
 
-1. Als grenswaarden als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), jo. [artikel 4.1, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2022-07-01&g=2022-07-01) bij deze regeling.
+1. Als grenswaarden als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), jo. [artikel 4.1, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2022-12-13&g=2022-12-13) bij deze regeling.
 
 2.
 
@@ -848,7 +848,7 @@ Als grenswaarde als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid
 
 ##### Artikel 4.20. Kankerverwekkende en mutagene stoffen
 
-1. Als grenswaarden als bedoeld in [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2022-07-01&g=2022-07-01) bij deze regeling.
+1. Als grenswaarden als bedoeld in [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2022-12-13&g=2022-12-13) bij deze regeling.
 
 2. De resultaten van de beoordeling, bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2) worden voor elke stof waarvoor overeenkomstig het eerste lid en [artikel 4.16, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) een grenswaarde is vastgesteld, getoetst aan die grenswaarde. De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
 
@@ -872,7 +872,7 @@ Als grenswaarde als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid
 
 3. Het loodgehalte in het bloed als bedoeld in [artikel 4.10b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b) wordt gemeten met behulp van de atomaire absorptiespectrometrie of een andere gelijkwaardige methode.
 
-4. De resultaten van de meting, bedoeld in het eerste lid, worden getoetst aan de grenswaarde, bedoeld in [artikel 4.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19a&z=2022-07-01&g=2022-07-01). De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
+4. De resultaten van de meting, bedoeld in het eerste lid, worden getoetst aan de grenswaarde, bedoeld in [artikel 4.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19a&z=2022-12-13&g=2022-12-13). De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
 
 5. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b), wordt de werknemers ten minste eenmaal per jaar aangeboden.
 
@@ -928,7 +928,7 @@ Een aanwijzing als certificerende instelling kan geschieden indien:
 
 ##### Artikel 4.29. Verstrekken van gegevens en inlichtingen
 
-Het verstrekken van gegevens en inlichtingen tussen de minister, de toezichthouders, de certificerende instellingen en de Stichting Raad voor Accreditatie, als bedoeld in [artikel 1.5eb, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5eb), op het werkveld asbest geschiedt overeenkomstig het informatieprotocol zoals opgenomen in [bijlage XIIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIg&z=2022-07-01&g=2022-07-01) bij de regeling.
+Het verstrekken van gegevens en inlichtingen tussen de minister, de toezichthouders, de certificerende instellingen en de Stichting Raad voor Accreditatie, als bedoeld in [artikel 1.5eb, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5eb), op het werkveld asbest geschiedt overeenkomstig het informatieprotocol zoals opgenomen in [bijlage XIIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIg&z=2022-12-13&g=2022-12-13) bij de regeling.
 
 ##### Artikel 4.30. Uitzonderingen in geval van eindmeting
 
@@ -970,7 +970,7 @@ Vervallen
 
 3. Het tweede lid, onder b, is niet van toepassing op:
 
-- a. metalen bestanddelen van gebouwen ten aanzien waarvan toepassing van producten op grond van de in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIV&z=2022-07-01&g=2022-07-01) bij deze regeling beschreven omstandigheden is toegestaan;
+- a. metalen bestanddelen van gebouwen ten aanzien waarvan toepassing van producten op grond van de in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIV&z=2022-12-13&g=2022-12-13) bij deze regeling beschreven omstandigheden is toegestaan;
 
 - b. het voorbewerken van muren en plafonds van woningen of andere gebouwen op plaatsen waar deze muren en plafonds ernstig verontreinigd zijn door brand- of rookschade of aanslag als gevolg van het roken van tabakswaren;
 
@@ -1052,13 +1052,13 @@ a. lakkeren: het aanbrengen van een lak op een flexibel materiaal of van een kle
 
 2. Als werkzaamheden als bedoeld in [artikel 4.62b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62b) worden aangewezen:
 
-- a. het aanbrengen of toepassen van primer, surfacer, sealer of 1- en 2-laags aflaksystemen of van speciale dan wel overige producten als bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2022-07-01&g=2022-07-01) bij deze regeling, ten behoeve van het herstellen van lakschade of vernieuwing van laklagen op onderdelen van motorrijtuigen;
+- a. het aanbrengen of toepassen van primer, surfacer, sealer of 1- en 2-laags aflaksystemen of van speciale dan wel overige producten als bedoeld in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2022-12-13&g=2022-12-13) bij deze regeling, ten behoeve van het herstellen van lakschade of vernieuwing van laklagen op onderdelen van motorrijtuigen;
 
 - b. het reinigen van gereedschappen die worden gebruikt bij de werkzaamheden, bedoeld onder a, of oppervlakken van onderdelen van motorrijtuigen ten behoeve van de herstel- of vernieuwingswerkzaamheden, bedoeld onder a.
 
 3. Het tweede lid is niet van toepassing op werkzaamheden ten behoeve van het herstellen van lakschade of het vernieuwen van laklagen op onderdelen van motorrijtuigen die zijn gebouwd vóór 1970;
 
-4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, bevatten in gebruiks- of spuitklare vorm, ten hoogste het gehalte aan vluchtige organische stoffen dat met betrekking tot deze producten is vastgesteld bij [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2022-07-01&g=2022-07-01) bij deze regeling.
+4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, bevatten in gebruiks- of spuitklare vorm, ten hoogste het gehalte aan vluchtige organische stoffen dat met betrekking tot deze producten is vastgesteld bij [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2022-12-13&g=2022-12-13) bij deze regeling.
 
 ##### Artikel 4.32g. Coating van timmerwerk in binnensituaties
 
@@ -1230,7 +1230,7 @@ De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldo
 
 1. Als certificerende instelling als bedoeld in [artikel 6.14a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a) kan worden aangewezen een opleidingsinstelling die een opleiding verzorgt die tot doel heeft personen op te leiden die uit hoofde van een bedrijf of beroep arbeidsgezondheidskundige onderzoeken als bedoeld in artikel 6.14a, eerste en tweede lid, van het besluit, uitvoeren of zullen gaan uitvoeren, en die voldoet aan de criteria zoals vastgelegd in het document, genoemd in het tweede lid.
 
-2. Als certificerende instelling als bedoeld in [artikel 6.16, derde, zesde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), kan worden aangewezen een instelling die voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met persoonscertificatie op het gebied van Werken onder Overdruk, document: WDAT-WOD-P, zoals opgenomen in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVI&z=2022-07-01&g=2022-07-01) bij de regeling.
+2. Als certificerende instelling als bedoeld in [artikel 6.16, derde, zesde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), kan worden aangewezen een instelling die voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met persoonscertificatie op het gebied van Werken onder Overdruk, document: WDAT-WOD-P, zoals opgenomen in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVI&z=2022-12-13&g=2022-12-13) bij de regeling.
 
 3. Als certificerende instelling als bedoeld in [artikel 6.16, derde, zesde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), is aangewezen een instelling die:
 
@@ -1262,19 +1262,19 @@ Vervallen
 
 - a. is ingeschreven als bedrijfsarts als bedoeld in [artikel 14, eerste lid, aanhef van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14);
 
-- b. met goed gevolg het examen, behorende bij de opleiding, bedoeld bij [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2022-07-01&g=2022-07-01), heeft afgelegd, en
+- b. met goed gevolg het examen, behorende bij de opleiding, bedoeld bij [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2022-12-13&g=2022-12-13), heeft afgelegd, en
 
-- c. voldoet aan de criteria zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikerarts, document: WSCS-WOD-A, zoals opgenomen in [bijlage XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIa&z=2022-07-01&g=2022-07-01) bij de regeling.
+- c. voldoet aan de criteria zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikerarts, document: WSCS-WOD-A, zoals opgenomen in [bijlage XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIa&z=2022-12-13&g=2022-12-13) bij de regeling.
 
-2. Een certificaat als bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager, niet zijnde brandweerduikploegleider, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikploegleider, document: WSCS-WOD-L, zoals opgenomen in [bijlage XVIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIb&z=2022-07-01&g=2022-07-01) bij de regeling.
+2. Een certificaat als bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager, niet zijnde brandweerduikploegleider, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikploegleider, document: WSCS-WOD-L, zoals opgenomen in [bijlage XVIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIb&z=2022-12-13&g=2022-12-13) bij de regeling.
 
-3. Een certificaat als bedoeld in [artikel 6.16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikarbeid, document: WSCS-WOD-D, zoals opgenomen in [bijlage XVIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIc&z=2022-07-01&g=2022-07-01) bij de regeling.
+3. Een certificaat als bedoeld in [artikel 6.16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikarbeid, document: WSCS-WOD-D, zoals opgenomen in [bijlage XVIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIc&z=2022-12-13&g=2022-12-13) bij de regeling.
 
-4. Een certificaat als bedoeld in [artikel 6.16, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikmedisch begeleider, document: WSCS-WOD-B, zoals opgenomen in [bijlage XVId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVId&z=2022-07-01&g=2022-07-01) bij de regeling.
+4. Een certificaat als bedoeld in [artikel 6.16, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikmedisch begeleider, document: WSCS-WOD-B, zoals opgenomen in [bijlage XVId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVId&z=2022-12-13&g=2022-12-13) bij de regeling.
 
 ##### Artikel 6.6. Afgifte certificaat brandweerduikploegleider
 
-Een certificaat als bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling, bedoeld in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2022-07-01&g=2022-07-01), afgegeven indien de aanvrager, zijnde brandweerduikploegleider, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikploegleider bij de brandweer, document: WSCS-WOD-F, zoals opgenomen in [bijlage XVIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIe&z=2022-07-01&g=2022-07-01) bij de regeling.
+Een certificaat als bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling, bedoeld in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2022-12-13&g=2022-12-13), afgegeven indien de aanvrager, zijnde brandweerduikploegleider, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikploegleider bij de brandweer, document: WSCS-WOD-F, zoals opgenomen in [bijlage XVIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIe&z=2022-12-13&g=2022-12-13) bij de regeling.
 
 #### Paragraaf 6.1. Certificatie
 
@@ -1352,21 +1352,21 @@ Als model van het register, bedoeld in [artikel 7.29, tiende lid, van het beslui
 
 ##### Artikel 7.7. Eisen voor registratie of herregistratie
 
-Registratie of herregistratie in het Register kraanmachinisten, bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-07-01&g=2022-07-01), geschiedt indien de aanvrager voldoet aan de navolgende eisen:
+Registratie of herregistratie in het Register kraanmachinisten, bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-12-13&g=2022-12-13), geschiedt indien de aanvrager voldoet aan de navolgende eisen:
 
-- a. indien het betreft registratie of herregistratie voor de bediening van een torenkraan als bedoeld in [artikel 7.6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-07-01&g=2022-07-01),het schema voor de machinist torenkraan ‘Schema voor registratie van de Machinist Torenkraan in het Register Kraanmachinisten, W4-06’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- a. indien het betreft registratie of herregistratie voor de bediening van een torenkraan als bedoeld in [artikel 7.6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-12-13&g=2022-12-13),het schema voor de machinist torenkraan ‘Schema voor registratie van de Machinist Torenkraan in het Register Kraanmachinisten, W4-06’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- b. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een mobiele kraan op banden of rupsen als bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-07-01&g=2022-07-01), het schema voor de machinist mobiele kraan op banden en/of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- b. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een mobiele kraan op banden of rupsen als bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-12-13&g=2022-12-13), het schema voor de machinist mobiele kraan op banden en/of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- c. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een grondverzetmachine met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-07-01&g=2022-07-01), het schema voor de machinist grondverzetmachine met hijsfunctie ‘Schema voor registratie van de Machinist Grondverzetmachine in het Register Kraanmachinisten, W4-05’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, nr. dan wel het schema voor de machinist mobiele kraan op banden of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- c. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een grondverzetmachine met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-12-13&g=2022-12-13), het schema voor de machinist grondverzetmachine met hijsfunctie ‘Schema voor registratie van de Machinist Grondverzetmachine in het Register Kraanmachinisten, W4-05’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, nr. dan wel het schema voor de machinist mobiele kraan op banden of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- d. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een autolaadkraan, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-07-01&g=2022-07-01), het schema voor de machinist autolaadkraan ‘Schema voor registratie van de Machinist Autolaadkraan in het Register Kraanmachinisten, W4-04’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist mobiele kraan op banden en/of rupsen 2019 ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- d. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een autolaadkraan, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-12-13&g=2022-12-13), het schema voor de machinist autolaadkraan ‘Schema voor registratie van de Machinist Autolaadkraan in het Register Kraanmachinisten, W4-04’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist mobiele kraan op banden en/of rupsen 2019 ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- e. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een verreiker met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-07-01&g=2022-07-01), het schema voor de machinist verreiker met hijsfunctie ‘Schema voor registratie van de Machinist Verreiker in het Register Kraanmachinisten, W4-07’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist mobiele kraan op banden of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
+- e. indien het betreft registratie of herregistratie voor de bediening van een mobiele kraan, zijnde een verreiker met hijsfunctie, van de categorie, bedoeld in [artikel 7.6, tweede lid, onderdeel b, sub 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-12-13&g=2022-12-13), het schema voor de machinist verreiker met hijsfunctie ‘Schema voor registratie van de Machinist Verreiker in het Register Kraanmachinisten, W4-07’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist mobiele kraan op banden of rupsen ‘Schema voor registratie van de Machinist Mobiele Kraan in het Register Kraanmachinisten, W4-01’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050;
 
-- f. indien het betreft registratie of herregistratie voor de bediening van een kleine funderingsmachine als bedoeld in [artikel 7.6, tweede lid, onderdeel c, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-07-01&g=2022-07-01), het schema voor de machinist kleine funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Klein in het Register Kraanmachinisten, W4-02’ dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist grote funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Groot in het Register Kraanmachinisten, W4-03’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050; en
+- f. indien het betreft registratie of herregistratie voor de bediening van een kleine funderingsmachine als bedoeld in [artikel 7.6, tweede lid, onderdeel c, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-12-13&g=2022-12-13), het schema voor de machinist kleine funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Klein in het Register Kraanmachinisten, W4-02’ dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050, dan wel het schema voor de machinist grote funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Groot in het Register Kraanmachinisten, W4-03’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050; en
 
-- g. indien het betreft registratie of herregistratie voor de bediening van een grote funderingsmachine als bedoeld in [artikel 7.6, tweede lid, onderdeel c, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-07-01&g=2022-07-01), van het schema voor de machinist grote funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Groot in het Register Kraanmachinisten, W4-03’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050.
+- g. indien het betreft registratie of herregistratie voor de bediening van een grote funderingsmachine als bedoeld in [artikel 7.6, tweede lid, onderdeel c, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2022-12-13&g=2022-12-13), van het schema voor de machinist grote funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Groot in het Register Kraanmachinisten, W4-03’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport op 6 november 2019, Staatscourant van 13 december 2019, nr. 66050.
 
 ##### Artikel 7.8. Verstrekken gegevens bij aanvraag certificaat
 
@@ -1424,7 +1424,7 @@ Vervallen
 
 ##### Artikel 8.1. Vereisten
 
-1. Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=8.4) voldoet aan het tweede lid en de [artikelen 8.2 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2022-07-01&g=2022-07-01).
+1. Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=8.4) voldoet aan het tweede lid en de [artikelen 8.2 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2022-12-13&g=2022-12-13).
 
 2. Veiligheids- of gezondheidssignalering wordt, al naar gelang het geval, geregeld schoongemaakt, onderhouden, geverifieerd en gerepareerd of zo nodig vervangen, met het oog op het behoud van hun intrinsieke of functionele kwaliteiten.
 
@@ -1434,7 +1434,7 @@ Vervallen
 
 2. De signalering voor de lokalisatie en identificatie van brandbestrijdingsmateriaal geschiedt permanent door middel van borden of een veiligheidskleur.
 
-3. De signalering op reservoirs en leidingen geschiedt overeenkomstig de [artikelen 8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2022-07-01&g=2022-07-01), [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2022-07-01&g=2022-07-01) en [8.11 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.11&z=2022-07-01&g=2022-07-01).
+3. De signalering op reservoirs en leidingen geschiedt overeenkomstig de [artikelen 8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2022-12-13&g=2022-12-13), [8.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2022-12-13&g=2022-12-13) en [8.11 tot en met 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.11&z=2022-12-13&g=2022-12-13).
 
 4. De signalering van gevaren van stoten tegen obstakels en van vallen van personen geschiedt permanent door middel van een veiligheidskleur of borden.
 
@@ -1524,9 +1524,9 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 5. Borden in verband met het brandbestrijdingsmateriaal kenmerken zich door een rechthoekige of vierkante vorm en een wit pictogram op rode achtergrond, waarbij de rode kleur ten minste 50% van het oppervlak van het bord beslaat.
 
-6. De in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2022-07-01&g=2022-07-01) bij deze regeling opgenomen borden, worden gebruikt in de daarbij vermelde situaties.
+6. De in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2022-12-13&g=2022-12-13) bij deze regeling opgenomen borden, worden gebruikt in de daarbij vermelde situaties.
 
-7. De gebruikte pictogrammen mogen licht afwijken van of meer gedetailleerd zijn dan de pictogrammen van de borden, bedoeld in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2022-07-01&g=2022-07-01) bij deze regeling. De betekenis ervan is dan evenwel dezelfde en verschillen of aanpassingen maken de betekenis niet onduidelijk.
+7. De gebruikte pictogrammen mogen licht afwijken van of meer gedetailleerd zijn dan de pictogrammen van de borden, bedoeld in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2022-12-13&g=2022-12-13) bij deze regeling. De betekenis ervan is dan evenwel dezelfde en verschillen of aanpassingen maken de betekenis niet onduidelijk.
 
 ##### Artikel 8.11. Plaatsing van borden
 
@@ -1552,7 +1552,7 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 ##### Artikel 8.13. Aanbrengen van signalering op reservoirs en leidingen
 
-De signalering bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2022-07-01&g=2022-07-01) wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
+De signalering bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2022-12-13&g=2022-12-13) wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
 
 ##### Artikel 8.14. Plaatsing op leidingen
 
@@ -1560,11 +1560,11 @@ De op leidingen gebruikte gevarenpictogrammen of signaalwoorden worden zichtbaar
 
 ##### Artikel 8.15. Signalering bij opslag gevaarlijke stoffen
 
-1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2022-07-01&g=2022-07-01) of door gevarenpictogrammen en signaalwoorden als bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2022-07-01&g=2022-07-01) tenzij, rekening houdend met [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2022-07-01&g=2022-07-01), wat de afmeting betreft, de gevarenpictogrammen en signaalwoorden van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
+1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2022-12-13&g=2022-12-13) of door gevarenpictogrammen en signaalwoorden als bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2022-12-13&g=2022-12-13) tenzij, rekening houdend met [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2022-12-13&g=2022-12-13), wat de afmeting betreft, de gevarenpictogrammen en signaalwoorden van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
 
 2. De in het eerste lid bedoelde borden of gevarenpictogrammen en signaalwoorden worden bij de opslagruimte of op de toegangsdeur tot de opslagruimte geplaatst.
 
-3. Indien [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2022-07-01&g=2022-07-01) geen gelijkwaardig waarschuwingsbord bevat, wordt het relevante gevarenpictogram als weergegeven in bijlage V van EG-verordening indeling, etikettering en verpakking van stoffen en mengsels gebruikt.
+3. Indien [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2022-12-13&g=2022-12-13) geen gelijkwaardig waarschuwingsbord bevat, wordt het relevante gevarenpictogram als weergegeven in bijlage V van EG-verordening indeling, etikettering en verpakking van stoffen en mengsels gebruikt.
 
 ##### Artikel 8.16. Wijze van gebruik lichtsignalen
 
@@ -1574,9 +1574,9 @@ Rekening houdend met de gebruiksomstandigheden veroorzaakt het door een signaal 
 
 1. Het lichtoppervlak dat een signaal uitzendt, is uniform van kleur of bevat een pictogram op een bepaalde achtergrond.
 
-2. De uniforme kleur voldoet aan [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2022-07-01&g=2022-07-01).
+2. De uniforme kleur voldoet aan [artikel 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2022-12-13&g=2022-12-13).
 
-3. Wanneer het signaal een pictogram bevat, voldoet dit aan [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2022-07-01&g=2022-07-01).
+3. Wanneer het signaal een pictogram bevat, voldoet dit aan [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2022-12-13&g=2022-12-13).
 
 ##### Artikel 8.18. Bijzondere lichtsignalen
 
@@ -1664,7 +1664,7 @@ De seingever is makkelijk herkenbaar voor de ontvanger van de seinen.
 
 ##### Artikel 8.26. Voorkomen onduidelijkheid seinen
 
-De in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIX&z=2022-07-01&g=2022-07-01) bij deze regeling opgenomen hand- en armseinen, worden gebruikt in de daarbij vermelde situaties, waarbij deze geen afbreuk doen aan het gebruik van andere van toepassing zijnde codes, met name in bepaalde bedrijvigheidssectoren, waarmee dezelfde handelingen worden aangeduid.
+De in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIX&z=2022-12-13&g=2022-12-13) bij deze regeling opgenomen hand- en armseinen, worden gebruikt in de daarbij vermelde situaties, waarbij deze geen afbreuk doen aan het gebruik van andere van toepassing zijnde codes, met name in bepaalde bedrijvigheidssectoren, waarmee dezelfde handelingen worden aangeduid.
 
 ##### Artikel 8.27. Signalering van obstakels en gevaarlijke plaatsen
 
@@ -1704,11 +1704,11 @@ Vervallen
 
 ##### Artikel 9.2b. Overgangsregeling certificering duikerartsen
 
-De in [artikel 6.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-07-01&g=2022-07-01), opgenomen eis geldt niet indien de aanvrager voor 1 januari 2003 al werkzaam was als duikerarts en in de periode van een jaar voor de eerste afgifte van het certificaat duikerarts aan hem, ten minste 10 personen belast met het verrichten van duikarbeid heeft gekeurd.
+De in [artikel 6.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-12-13&g=2022-12-13), opgenomen eis geldt niet indien de aanvrager voor 1 januari 2003 al werkzaam was als duikerarts en in de periode van een jaar voor de eerste afgifte van het certificaat duikerarts aan hem, ten minste 10 personen belast met het verrichten van duikarbeid heeft gekeurd.
 
 ##### Artikel 9.2c. Overgangsbepaling OCE-deskundige, springmeester en schietmeester
 
-1. De persoon die op 1 januari 2021 beschikt over een geldig certificaat basiskennis OCE, assistent OCE-deskundige, OCE-deskundige of senior OCE-deskundige dat is verkregen op basis van paragraaf 6.2.1 en bijlage 2 van [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2022-07-01&g=2022-07-01), zoals deze luidden op 31 december 2020, wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Basiskennis opsporing ontplofbare oorlogsresten, Assistent deskundige opsporing ontplofbare oorlogsresten, Deskundige opsporing ontplofbare oorlogsresten respectievelijk Senior deskundige opsporing ontplofbare oorlogsresten waarbij hij geacht wordt te voldoen aan op de hem betrekking hebbende eisen die zijn opgenomen in het registratieschema veilig werken met explosieve stoffen, met dien verstande dat hij bij het verzoek om inschrijving een Verklaring omtrent het gedrag overlegt die niet ouder is dan zes maanden.
+1. De persoon die op 1 januari 2021 beschikt over een geldig certificaat basiskennis OCE, assistent OCE-deskundige, OCE-deskundige of senior OCE-deskundige dat is verkregen op basis van paragraaf 6.2.1 en bijlage 2 van [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2022-12-13&g=2022-12-13), zoals deze luidden op 31 december 2020, wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Basiskennis opsporing ontplofbare oorlogsresten, Assistent deskundige opsporing ontplofbare oorlogsresten, Deskundige opsporing ontplofbare oorlogsresten respectievelijk Senior deskundige opsporing ontplofbare oorlogsresten waarbij hij geacht wordt te voldoen aan op de hem betrekking hebbende eisen die zijn opgenomen in het registratieschema veilig werken met explosieve stoffen, met dien verstande dat hij bij het verzoek om inschrijving een Verklaring omtrent het gedrag overlegt die niet ouder is dan zes maanden.
 
 2. De persoon die op 1 januari 2021 beschikt over een geldig certificaat springmeester 1 wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Springmeester 1 en op het competentieniveau Springmeester industriële reiniging.
 
@@ -1720,25 +1720,25 @@ De in [artikel 6.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c
 
 6. De persoon die op 1 januari 2021 beschikt over een geldig getuigschrift schietmeester wordt op zijn verzoek voor de resterende geldigheidsduur van dat getuigschrift ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Schietmeester.
 
-7. Voor de in het eerste tot en met zesde lid bedoelde personen die om redenen van openbare veiligheid niet opgenomen kunnen worden in het Register veilig werken met explosieve stoffen, blijven [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2&artikel=4.16&z=2022-07-01&g=2022-07-01) van deze regeling, de [bijlagen X](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=X&z=2022-07-01&g=2022-07-01), paragraaf 6.2.1, en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2022-07-01&g=2022-07-01), bijlage 2 behorend bij deze regeling en [artikel 4.8, tweede, derde en vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8), zoals deze luidden op 31 december 2020, van toepassing.
+7. Voor de in het eerste tot en met zesde lid bedoelde personen die om redenen van openbare veiligheid niet opgenomen kunnen worden in het Register veilig werken met explosieve stoffen, blijven [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2&artikel=4.16&z=2022-12-13&g=2022-12-13) van deze regeling, de [bijlagen X](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=X&z=2022-12-13&g=2022-12-13), paragraaf 6.2.1, en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2022-12-13&g=2022-12-13), bijlage 2 behorend bij deze regeling en [artikel 4.8, tweede, derde en vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8), zoals deze luidden op 31 december 2020, van toepassing.
 
 ##### Artikel 9.2d. Overgangsregeling opsporen van ontplofbare oorlogsresten door defensie
 
-In afwijking van de [artikelen 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2022-07-01&g=2022-07-01) en [4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2022-07-01&g=2022-07-01) blijven voor explosievenopruimingseenheden van het Ministerie van Defensie die ontplofbare oorlogsresten opsporen de artikelen 4.17e en 4.17f en de [bijlagen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2022-07-01&g=2022-07-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2022-07-01&g=2022-07-01) van kracht zoals deze luidden op 31 december 2020.
+In afwijking van de [artikelen 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2022-12-13&g=2022-12-13) en [4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2022-12-13&g=2022-12-13) blijven voor explosievenopruimingseenheden van het Ministerie van Defensie die ontplofbare oorlogsresten opsporen de artikelen 4.17e en 4.17f en de [bijlagen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2022-12-13&g=2022-12-13) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2022-12-13&g=2022-12-13) van kracht zoals deze luidden op 31 december 2020.
 
 ##### Artikel 9.2e. Tijdelijke bepaling certificering asbest en Covid-19
 
-1. In afwijking van de artikelen 16, vijfde lid, 20, vijfde lid, 24, vijfde lid, van het certificatieschema, bedoeld in [artikel 4.27, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-07-01&g=2022-07-01), dat door de minister is gepubliceerd in de Staatscourant van 29 maart 2019 (Stcrt. 2019, 17010), wordt de geldigheidsduur van een certificaat dat verloopt in de periode van 15 december 2020 tot en met 30 maart 2021, verlengd tot en met 24 mei 2021.
+1. In afwijking van de artikelen 16, vijfde lid, 20, vijfde lid, 24, vijfde lid, van het certificatieschema, bedoeld in [artikel 4.27, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-12-13&g=2022-12-13), dat door de minister is gepubliceerd in de Staatscourant van 29 maart 2019 (Stcrt. 2019, 17010), wordt de geldigheidsduur van een certificaat dat verloopt in de periode van 15 december 2020 tot en met 30 maart 2021, verlengd tot en met 24 mei 2021.
 
 2. Na het eindigen van de verlengingsperiode, bedoeld in het eerste lid, en de daarop volgende hercertificatieprocedure wordt bij vaststelling van de einddatum van de duur van de hercertificatie, de duur van de verlengingsperiode, bedoeld in het eerste lid, in mindering gebracht op de geldigheidsduur van de hercertificatie zoals die is vastgelegd in het certificatieschema.
 
-3. In afwijking van de artikelen 15, eerste lid, onderdeel b, 19, tweede lid, onderdeel a, en 23, eerste lid, onderdeel b, van het certificatieschema, bedoeld in [artikel 4.27, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-07-01&g=2022-07-01), dat door de minister is gepubliceerd in de Staatscourant van 29 maart 2019 (Stcrt. 2019, 17010), geldt in de periode van 15 december 2020 tot en met 24 mei 2021 niet de verplichting om aantoonbaar minder dan 12 maanden voor het afleggen van het examen een facefit-test te hebben uitgevoerd.
+3. In afwijking van de artikelen 15, eerste lid, onderdeel b, 19, tweede lid, onderdeel a, en 23, eerste lid, onderdeel b, van het certificatieschema, bedoeld in [artikel 4.27, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-12-13&g=2022-12-13), dat door de minister is gepubliceerd in de Staatscourant van 29 maart 2019 (Stcrt. 2019, 17010), geldt in de periode van 15 december 2020 tot en met 24 mei 2021 niet de verplichting om aantoonbaar minder dan 12 maanden voor het afleggen van het examen een facefit-test te hebben uitgevoerd.
 
-4. In verband met het derde lid geldt in afwijking van de artikelen 14, eerste lid, onderdeel b, en 34, eerste lid, onderdeel b, van het certificatieschema, bedoeld in [artikel 4.27, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-07-01&g=2022-07-01), dat door de minister is gepubliceerd in de Staatscourant van 6 december 2018 (Stcrt. 2018, 68771), in de periode van 15 december 2020 tot en met 24 mei 2021 niet verplichting om ervoor zorg te dragen dat ten minste één keer per twaalf maanden de daar genoemde facefit-test is uitgevoerd.
+4. In verband met het derde lid geldt in afwijking van de artikelen 14, eerste lid, onderdeel b, en 34, eerste lid, onderdeel b, van het certificatieschema, bedoeld in [artikel 4.27, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-12-13&g=2022-12-13), dat door de minister is gepubliceerd in de Staatscourant van 6 december 2018 (Stcrt. 2018, 68771), in de periode van 15 december 2020 tot en met 24 mei 2021 niet verplichting om ervoor zorg te dragen dat ten minste één keer per twaalf maanden de daar genoemde facefit-test is uitgevoerd.
 
-##### Artikel 9.3. Overgangsregeling [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&z=2022-07-01&g=2022-07-01), [Paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&z=2022-07-01&g=2022-07-01) Winningsindustrieën voor het opsporen en de winning van koolwaterstoffen
+##### Artikel 9.3. Overgangsregeling [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&z=2022-12-13&g=2022-12-13), [Paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&z=2022-12-13&g=2022-12-13) Winningsindustrieën voor het opsporen en de winning van koolwaterstoffen
 
-De aanvulling van het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.16&z=2022-07-01&g=2022-07-01), de aanvulling van het veiligheids- en gezondheidsbeleid en -document, bedoeld in[artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2022-07-01&g=2022-07-01), de aanvulling van de risico-inventarisatie en -evaluatie, bedoeld in de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.18&z=2022-07-01&g=2022-07-01) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.19&z=2022-07-01&g=2022-07-01), en de aanvulling van het noodplan, bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.20&z=2022-07-01&g=2022-07-01), worden door de werkgever vastgelegd en aan de toezichthouder gezonden:
+De aanvulling van het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.16&z=2022-12-13&g=2022-12-13), de aanvulling van het veiligheids- en gezondheidsbeleid en -document, bedoeld in[artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2022-12-13&g=2022-12-13), de aanvulling van de risico-inventarisatie en -evaluatie, bedoeld in de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.18&z=2022-12-13&g=2022-12-13) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.19&z=2022-12-13&g=2022-12-13), en de aanvulling van het noodplan, bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.20&z=2022-12-13&g=2022-12-13), worden door de werkgever vastgelegd en aan de toezichthouder gezonden:
 
 - a. voor installaties die bestaan op de dag voorafgaand aan de dag van inwerkingtreding, bedoeld in artikel II: uiterlijk 19 juli 2018;
 
@@ -6018,7 +6018,7 @@ Vervallen
 
 ### 3.2. **Actieve partijen**
 
-### **Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit**
+### Lijst van wettelijke grenswaarden op grond van de [artikelen 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), en [4.16, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16)
 
 Verklaring van de gebruikte letters en aanduidingen
 
@@ -6559,9 +6559,9 @@ Intrinsieke kenmerken:
 
 ##### Artikel 3.2a. Bepaling risico’s en grenzen
 
-1. De risico’s in het kader van de risico-analyse, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2022-07-01&g=2022-07-01), worden kwalitatief en, voor zover mogelijk, kwantitatief bepaald.
+1. De risico’s in het kader van de risico-analyse, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2022-12-13&g=2022-12-13), worden kwalitatief en, voor zover mogelijk, kwantitatief bepaald.
 
-2. De grenzen in het kader van bepaling van de acceptatiecriteria, bedoeld in [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2022-07-01&g=2022-07-01), worden, voor zover mogelijk, kwantitatief bepaald. Voor zover dit niet mogelijk is, worden deze grenzen kwalitatief bepaald.
+2. De grenzen in het kader van bepaling van de acceptatiecriteria, bedoeld in [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2022-12-13&g=2022-12-13), worden, voor zover mogelijk, kwantitatief bepaald. Voor zover dit niet mogelijk is, worden deze grenzen kwalitatief bepaald.
 
 ### Hoofdstuk 4. Gevaarlijke Stoffen
 
@@ -6689,7 +6689,7 @@ In NEN-EN-ISO/IEC 17024:2012 wordt aangegeven dat het scheme committee (CCvD) ze
 
 ##### Artikel 4.32h. Gelijkstelling vervangende producten
 
-Met de in de [artikelen 4.32a vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2022-07-01&g=2022-07-01), [4.32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32b&z=2022-07-01&g=2022-07-01), [4.32c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32c&z=2022-07-01&g=2022-07-01), [4.32d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32d&z=2022-07-01&g=2022-07-01), [4.32e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32e&z=2022-07-01&g=2022-07-01), [4.32f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2022-07-01&g=2022-07-01) en [4.32g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32g&z=2022-07-01&g=2022-07-01), bedoelde producten worden gelijkgesteld producten, die rechtmatig zijn vervaardigd en in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
+Met de in de [artikelen 4.32a vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2022-12-13&g=2022-12-13), [4.32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32b&z=2022-12-13&g=2022-12-13), [4.32c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32c&z=2022-12-13&g=2022-12-13), [4.32d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32d&z=2022-12-13&g=2022-12-13), [4.32e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32e&z=2022-12-13&g=2022-12-13), [4.32f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2022-12-13&g=2022-12-13) en [4.32g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32g&z=2022-12-13&g=2022-12-13), bedoelde producten worden gelijkgesteld producten, die rechtmatig zijn vervaardigd en in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
 #### Paragraaf 4.4b. Kankerverwekkende processen
 
@@ -6905,7 +6905,7 @@ De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het persoonscertificatieschema AH. De CKI beheert de examinatoren-pool. De CKI maken gebruik van deze examinatoren voor het afnemen van examens voor AH certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
 
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2022-07-01&g=2022-07-01) Arboregeling.
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2022-12-13&g=2022-12-13) Arboregeling.
 
 Ten behoeve van de informatieverzameling dient de CKI kosteloos:
 
@@ -7091,7 +7091,7 @@ Een adequate behandeling van klachten is belangrijk voor het creëren van vertro
 
 Een klacht over het handelen van een certificaathouder binnen het toepassingsgebied van het certificaat, kan door een belanghebbende worden ingediend bij de CKI of bij de certificaathouder zelf. In dit laatste geval is de certificaathouder verplicht deze klacht te registreren en meteen te melden aan de CKI. De certificaathouder is tevens verplicht constatering of verdenking door het bevoegd gezag van bij de uitvoering van werkzaamheden gepleegde strafbare feiten te registreren en meteen aan de CKI te melden.
 
-Jaarlijks beoordeelt de CKI op basis van een aselecte steekproef van tenminste 5% van de certificaathouders de in hoofdstuk 13 voorgeschreven, door de certificaathouder bij te houden, registratie over de periode sinds de afgifte van het persoonscertificaat. Als werkervaringseis geldt hierbij dat aantoonbaar, tenminste tweemaal per periode van 12 maanden sinds de datum van afgifte van het persoonscertifcaat, betreffende soort arbeid binnen het toepassingsgebied Groot Vuurwerk c.q. Pyrotechnische Speciale Effecten is verricht. Dit dient te blijken uit het overleggen van tenminste twee werkplannen over elke periode van 12 maanden. Het werkplan dient te voldoen aan de eisen conform [art. 4.9 1e lid Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) en zoals bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2022-07-01&g=2022-07-01) van de Arboregeling. Voor deze eis kan schriftelijk een gemotiveerd dispensatieverzoek ter besluitvorming worden ingediend bij het CCvD-VD. Deze eis is niet van toepassing bij de aanvraag voor een certificaat met een beperkt toepassingsgebied.
+Jaarlijks beoordeelt de CKI op basis van een aselecte steekproef van tenminste 5% van de certificaathouders de in hoofdstuk 13 voorgeschreven, door de certificaathouder bij te houden, registratie over de periode sinds de afgifte van het persoonscertificaat. Als werkervaringseis geldt hierbij dat aantoonbaar, tenminste tweemaal per periode van 12 maanden sinds de datum van afgifte van het persoonscertifcaat, betreffende soort arbeid binnen het toepassingsgebied Groot Vuurwerk c.q. Pyrotechnische Speciale Effecten is verricht. Dit dient te blijken uit het overleggen van tenminste twee werkplannen over elke periode van 12 maanden. Het werkplan dient te voldoen aan de eisen conform [art. 4.9 1e lid Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9) en zoals bedoeld in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2022-12-13&g=2022-12-13) van de Arboregeling. Voor deze eis kan schriftelijk een gemotiveerd dispensatieverzoek ter besluitvorming worden ingediend bij het CCvD-VD. Deze eis is niet van toepassing bij de aanvraag voor een certificaat met een beperkt toepassingsgebied.
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -7281,93 +7281,93 @@ Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde c
 
 De kerndeskundige is een vak dat onder de Arbeidshygiënisten valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m hoofdstuk 4 van het Competentie profiel Arbeidshygiënisten te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van dit certificatieschema arbeidshygiënisten. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het competentieprofiel. Dit deel gaat in op de specialisaties van de kerndeskundige.
 
-Het vak van de kerndeskundige is een kunde, ofwel een toepassing van wetenschap en wetenschappelijke beargumentering. In het geval van de arbodeskundige is het een samengesteld vak uit verschillende wetenschappelijke gebieden. De kerndeskundige Arbeidshygiënist heeft als kenmerk dat hij na een gevolgde hbo/wo-opleiding of dagopleiding ‘Arbeidshygiëne op HBO/WO-niveau, een kopopleiding heeft doorlopen en afgerond. De arbeidshygiënist heeft in elk geval een natuurwetenschappelijke achtergrond op HBO+ niveau. Dit komt overeen met (minimaal) een bachelor in de natuurwetenschappen (bachelor of science, BSc). Bij sommige opleidingen wordt pas voldaan aan de minimum eis voor certificering in een afgeronde academische pleiding. Die komt dan overeen met een master in de natuurwetenschappen (master of science, MSc).
+Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
 
 Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
 
-Als basisattitude kenmerkt een arbeidshygiënist zich door pro-activiteit en preventiegerichtheid, door haar/zijn objectieve, onafhankelijke en zelfstandige beoordeling met gevoel voor verhoudingen en mogelijkheden. Zij/hij streeft altijd naar goede en uitvoerbare adviezen over gezonde werkplekken. De kopopleiding geeft zowel basis als gevorderde kennis, vaardigheden en werkt aan een gevorderde attitude. Dit wordt tijdens de opleiding weergegeven in een portfolio en aan het einde van de opleiding geëxamineerd. Het examen is competentiegericht. Dit wil zeggen dat het portfolio beoordeeld en getoetst wordt op essentiële kennis en vaardigheden zoals omschreven in hoofdstuk 2 t/m hoofdstuk 4 van het Competentie profiel Arbeidshygiënisten.
+Stoffen die relatief gemakkelijk door de huid kunnen worden opgenomen, hetgeen een substantiële bijdrage kan betekenen aan de totale inwendige blootstelling, hebben in de lijst een H-aanduiding. Bij deze stoffen moeten naast maatregelen tegen inademing ook adequate maatregelen ter voorkoming van huidcontact worden genomen.
 
 Stoffen die relatief gemakkelijk door de huid kunnen worden opgenomen, hetgeen een substantiële bijdrage kan betekenen aan de totale inwendige blootstelling, hebben in de lijst een H-aanduiding. Bij deze stoffen moeten naast maatregelen tegen inademing ook adequate maatregelen ter voorkoming van huidcontact worden genomen.
 
-De initiële of eerste certificering is vooral gericht op de generalist als beginner. Hier worden de basisvaardigheden getoetst. De opleidingen hebben hier een passende methodiek voor. De inhoud volgt de eisen die in de arbeidsomstandighedenwetgeving zijn vastgelegd en die zijn uitgewerkt in het competentieprofiel.
-
 Voor stoffen die ook als deeltjes/aërosolen kunnen voorkomen geldt dat de grenswaarde betrekking heeft op de deeltjes bemonsterd als ‘inhaleerbaar stof’, tenzij anders vermeld. Voor nadere definiëring van inhaleerbaar en respirabel stof en meetaspecten hiervan wordt verwezen naar NEN-norm NEN-EN 481:1994 ‘Werkplekatmosfeer. Definitie van de deeltjesgrootteverdeling voor het meten van in de lucht zwevende deeltjes’.
 
-In het competentieprofiel Arbeidshygiënisten worden vijf kerntaken benoemd die in ieder geval uitgevoerd moeten worden. Hierin kan met verschillende competenties gewerkt worden.
+Voor stoffen die ook als deeltjes/aërosolen kunnen voorkomen geldt dat de grenswaarde betrekking heeft op de deeltjes bemonsterd als ‘inhaleerbaar stof’, tenzij anders vermeld. Voor nadere definiëring van inhaleerbaar en respirabel stof en meetaspecten hiervan wordt verwezen naar NEN-norm NEN-EN 481:1994 ‘Werkplekatmosfeer. Definitie van de deeltjesgrootteverdeling voor het meten van in de lucht zwevende deeltjes’.
 
 Respirabele vezels worden als volgt gedefinieerd: vezels die langer zijn dan 5 micrometer, met een diameter kleiner dan 3 micrometer en die een lengte/breedteverhouding hebben van meer dan 3/1. Voor minerale wolvezels geldt nog het extra criterium dat de vezels korter moeten zijn dan 200 micrometer.
 
 De hierna vermelde grenswaarden gelden bij een temperatuur van 20 °C en een druk van 101,3 kPa.
 
-1 Tijdens de blootstellingsmonitoring voor kwik en zijn tweewaardige anorganische verbindingen wordt rekening gehouden met relevante biologische monitoringtechnieken in aanvulling op de luchtgrenswaarde
+De hierna vermelde grenswaarden gelden bij een temperatuur van 20 °C en een druk van 101,3 kPa.
 
-2 Respirabel.
+1 TGG 1 minuut
 
-3 TGG 1 minuut.
+2 TGG 1 minuut
 
-4 Inhaleerbaar.
+3 Bij het beoordelen van de blootstelling wordt rekening gehouden met de relevante, door het Wetenschappelijk Comité inzake grenswaarden voor beroepsmatige blootstelling aan chemische agentia (SCOEL) voorgestelde, biologische-monitoringwaarden.
 
-5 Bij het beoordelen van de blootstelling wordt rekening gehouden met de relevante, door het Wetenschappelijk Comité inzake grenswaarden voor beroepsmatige blootstelling aan chemische agentia (SCOEL) voorgestelde, biologische-monitoringwaarden.
+4 Respirabel.
 
-1 Vezels per cm3
+5 Respirabel.
 
-2 Respirabele fractie
+6Respirabel.
 
-3 Sensibilisatie van de huid en de luchtwegen
+7 Respirabel.
 
-4 Sensibilisatie van de huid
+8 5 Bij het beoordelen van de blootstelling wordt rekening gehouden met de relevante, door het Wetenschappelijk Comité inzake grenswaarden voor beroepsmatige blootstelling aan chemische agentia (SCOEL) voorgestelde, biologische-monitoringwaarden.
 
-1 microgram/m3
+9 Tijdens de blootstellingsmonitoring voor kwik en zijn tweewaardige anorganische verbindingen wordt rekening gehouden met relevante biologische monitoringtechnieken in aanvulling op de luchtgrenswaarde
 
-2 Als brandstof voor verbrandingsmotoren. Dit mengsel wordt als kankerverwekkend ingedeeld indien het benzeengehalte groter is dan 0,1%.
+10 Inhaleerbaar.
+
+11 Respirabel.
 
 3 Definitie van hardhout volgens de International Agency for Research on Cancer (IARC) van hout op basis van botanische karakteristiek: hout van bedektzadigen = hardhout.
 
-4 Als stof van hardhout wordt gemengd met ander houtstof geldt de grenswaarde voor hardhoutstof voor alle houtstof in dat mengsel.
+1 Sensibilisatie van de huid en de luchtwegen
 
-5 Nanogr/m3.
+2 Sensibilisatie van de huid
 
-6 Geldt voor alle mengsels van paks, niet alleen de mengsels die afkomstig zijn van steenkool.
+3 Vezels per cm3
 
-7 Nanogr/m3
+4 Respirabele fractie
 
-De Nederlandse [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) vereist certificering voor ‘Hogere Veiligheidskundigen’. Een Hogere Veiligheidskundige is een deskundige op het terrein van de arbeids- en organisatiekunde conform [artikel 2.7 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7) en hij is in het bezit van een certificaat van vakbekwaamheid arbeids- en organisatiekunde conform [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2022-01-01&g=2022-01-01) van de Arbeidsomstandighedenregeling. Meer informatie over het vakbekwaamheidsprofiel (competentieprofiel) van de HVK-er is terug te vinden in bijlage 6 van deze regeling.
+1 Microgram/m3
 
-Deze certificatieregeling is gestructureerd in overeenstemming met de eisen uit NEN-EN-ISO/IEC 17024:2012.
+2 Microgram/m3
 
-Deze certificatieregeling is gestructureerd in overeenstemming met de eisen uit NEN-EN-ISO/IEC 17024:2012.
+3 Microgram/m3
 
-In deze persoonscertificatieregeling voor Hogere Veiligheidskundigen (HVK), wordt enerzijds algemene uitgangspunten en bepalingen opgenomen en wordt beschreven binnen welke voorwaarden de afgifte van certificaten dient te gebeuren. Anderzijds worden in het schema de normen vastgelegd waaraan personen dienen te voldoen om een certificaat van vakbekwaamheid te kunnen ontvangen.
+4 Microgram/m3
 
-Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep HVK.
+5 Microgram/m3
 
-Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep HVK.
+6 Microgram/m3
 
-Dit werkveldspecifieke certificatieschema Hogere Veiligheidskundige is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
+7 Microgram/m3
 
-Dit werkveldspecifieke certificatieschema Hogere Veiligheidskundige is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
+8 Microgram/m3
 
-Ondergetekenden,
+9 Nanogram/m3
 
-Overwegende dat:
+10 Als brandstof voor verbrandingsmotoren. Dit mengsel wordt als kankerverwekkend ingedeeld indien het benzeengehalte groter is dan 0,1%
 
-Komen het volgende overeen:
+11 Definitie van hardhout volgens de International Agency for Research on Cancer (IARC) van hout op basis van botanische karakteristiek: hout van bedektzadigen = hardhout.
 
-In dit Protocol wordt een aantal begrippen met een beginhoofdletter gebruikt. Aan deze begrippen komt de betekenis toe die hieraan wordt gegeven in het hierna volgende artikel 1
+12 Als stof van hardhout wordt gemengd met ander houtstof geldt de grenswaarde voor hardhoutstof voor alle houtstof in dat mengsel
 
-Dit werkveldspecifieke certificatieschema Hogere Veiligheidskundige is door de stichting BCD voorgesteld en door het ministerie van SZW – inclusief eventuele aanpassingen – vastgesteld. De minister van SZW kan ook op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over de certificatieregeling kunnen worden ingediend bij de stichting BCD.
+13 Microgram/m3
 
-Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt word en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van toezicht, klachtenafhandeling en het indienen van een verzoek om herziening.
+14 Parts per billion (ppb)
 
-Nederlandse Arbeidsinspectie en Certificerende Instelling wijzen contactpersonen aan voor de uitvoering van het Protocol en brengen elkaar daarvan op de hoogte;
+15 Microgram/m3
 
-De Hogere Veiligheidskundige, dient in overeenstemming met de certificatieregeling HVK een aanvraag in voor het persoonscertificaat bij een CKI. Vervolgens verstrekt de CKI relevante informatie over de gang van zaken betreffende het gehele certificatieproces.
+16 Nanogr/m3
 
-De Hogere Veiligheidskundige, dient in overeenstemming met de certificatieregeling HVK een aanvraag in voor het persoonscertificaat bij een CKI. Vervolgens verstrekt de CKI relevante informatie over de gang van zaken betreffende het gehele certificatieproces.
+17 Geldt voor alle mengsels van paks, niet alleen de mengsels die afkomstig zijn van steenkool.
 
-Het certificatiebesluit wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaat. Deze functionaris is daartoe gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem en de procedures die de CKI heeft op grond van het Document voor aanwijzing en toezicht op de certificatie-instellingen voor HVK (het WDA&T).
+18 Microgram/m3
 
-Het certificatiebesluit wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaat. Deze functionaris is daartoe gekwalificeerd en aangesteld conform het kwaliteitsmanagementsysteem en de procedures die de CKI heeft op grond van het Document voor aanwijzing en toezicht op de certificatie-instellingen voor HVK (het WDA&T).
+19 Parts per billion (ppb)
 
 De geldigheidsduur voor een persoonscertificaat volgens het certificatieschema voor de certificatie van HVK is vijf jaar.
 
@@ -7387,19 +7387,19 @@ De bezwaarprocedure is opgenomen in bijlage 2.
 
 De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeen
 
-Dit Protocol treedt in werking op de dag na ondertekening ervan.
+Ondergetekenden,
 
-Dit Protocol is overeengekomen en ondertekend
+Overwegende dat:
 
-Namens de Nederlandse Arbeidsinspectie te Den Haag op de datum: 2 mei 2012
+Komen het volgende overeen:
 
-Namens de Certificerende Instelling op de datum: 31 mei 2012
-
-Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieregeling HVK. De CKI beheert de examinatoren-pool. De CKI maakt gebruik van deze examinatoren voor het afnemen van examens voor HVK certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
+In dit Protocol wordt een aantal begrippen met een beginhoofdletter gebruikt. Aan deze begrippen komt de betekenis toe die hieraan wordt gegeven in het hierna volgende artikel 1
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieregeling HVK. De CKI beheert de examinatoren-pool. De CKI maakt gebruik van deze examinatoren voor het afnemen van examens voor HVK certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
 
-Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieschema HVK. De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit een schriftelijke en/of mondelinge portfoliobeoordeling.
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieregeling HVK. De CKI beheert de examinatoren-pool. De CKI maakt gebruik van deze examinatoren voor het afnemen van examens voor HVK certificatie. De examinator legt zich toe op de voorbereiding, uitvoering en beoordeling van examens. De eisen aan de examinatoren zijn in bijlage 3 verwoord, in bijlage 4 staan de exameneisen.
+
+Nederlandse Arbeidsinspectie en Certificerende Instelling wijzen contactpersonen aan voor de uitvoering van het Protocol en brengen elkaar daarvan op de hoogte;
 
 Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van de persoonscertificatieschema HVK. De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit een schriftelijke en/of mondelinge portfoliobeoordeling.
 
@@ -7413,27 +7413,27 @@ Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer
 
 Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
 
-Werken onder overdruk betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor het werken onder overdruk. Onder werken onder overdruk wordt in overeenstemming met [artikel 6.13 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.13) verstaan: duikarbeid, caissonarbeid en overige arbeid onder overdruk.
+Een ieder die in het kader van dit Protocol bedrijfs- of persoonsgegevens dan wel andersoortige vertrouwelijke informatie ontvangt is verplicht tot geheimhouding. De gegevens die in het kader van dit Protocol verstrekt worden aan een andere partij mogen alleen gebruikt worden met het oog op het in dit Protocol omschreven doel. De Nederlandse Arbeidsinspectie behoudt wel de mogelijkheid om haar handhavingsinformatie met andere toezichthoudende instanties te delen.
 
 Het betreft de volgende in het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) genoemde activiteiten:
 
-De certificaten voor deze werkzaamheden worden onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken moet een CKI hiertoe worden aangewezen door de minister. Dit gebeurt door toetsing aan dit document betreffende aanwijzing en toezicht. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich moeten houden.
+Partijen zullen elkaar geen kosten in rekening brengen voor het doen van meldingen en/of voor de afhandeling van die meldingen en/of voor andere activiteiten die voortvloeien uit dit Protocol.
 
 De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Inspectie SZW. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
 
-Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlijk in de tekst van het certificatieschema voorkomen, maar deze begrippen of afkortingen zijn toch in de definitielijst opgenomen in verband met het feit dat deze begrippen of afkortingen in direct verband tot dit certificatieschema kunnen worden gehanteerd. Indien de definities in dit document afwijken van de definities in NEN-EN-ISO/IEC 17024:2012, gelden de definities van dit document.
+Wijzigingen in en opzegging van het Protocol behoeven de schriftelijke instemming van alle bij het protocol betrokken partijen.
 
 De termijn voor het aanleveren van de benodigde documenten bestaande uit de werkgeversverklaring of accountantsverklaring en de deelnamelijst, dienen binnen zes weken te worden overlegd aan de CKI.
 
 De termijn voor het aanleveren van de benodigde documenten bestaande uit de werkgeversverklaring of accountantsverklaring en de deelnamelijst, dienen binnen zes weken te worden overlegd aan de CKI.
 
-Dit werkveldspecifieke document voor aanwijzing en toezicht op CKI’s belast met persoonscertificatie op het gebied van werken onder overdruk wordt aangehaald als WDAT-WOD-P. Dit werkveldspecifieke document voor aanwijzing en toezicht binnen het werkveld Werken onder druk, is door de minister van SZW vastgesteld. De minister van SZW kan wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde document vervangt eerdere versies. Op- en of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen ‘Werken onder overdruk’.
+Dit Protocol treedt in werking op de dag na ondertekening ervan.
 
-De CKI stelt een verslag op van de bevindingen van het toezicht. Het resultaat van het toezicht wordt schriftelijk aan de certificaathouder bekend gemaakt. De certificaathouder kan bezwaar aantekenen tegen maatregelen (zie paragraaf 6.5) die opgelegd kunnen worden naar aanleiding van het toezicht. De CKI behandelt het bezwaar conform haar bezwaarprocedure (bijlage 2).
+Dit Protocol is overeengekomen en ondertekend
 
-Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
+Namens de Nederlandse Arbeidsinspectie te Den Haag op de datum: 2 mei 2012
 
-Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling.
+Namens de Certificerende Instelling op de datum: 31 mei 2012
 
 De volgende risico’s kunnen optreden, indien de CKI in het certificatieproces niet voldoende functioneert:
 
@@ -7447,13 +7447,53 @@ Het beoordelen en aanwijzen van de CKI’s voor persoonscertificatie vindt plaat
 
 Indien er sprake is van maatregel wordt dit aan de certificaathouder kenbaar gemaakt. Bij het opleggen van een maatregel dient de CKI aan te geven binnen welke periode de maatregel moet zijn uitgevoerd. De CKI controleert daarop de uitvoering. Schorsen en intrekken dienen door de CKI ingebracht te worden in een centraal registratiesysteem. Tevens dient de Nederlandse Arbeidsinspectie hiervan in kennis gesteld te worden.
 
-Onverlet de overige bepalingen van paragraaf 8.4 van NEN-EN-ISO/IEC 17024:2012 mag de CKI in afwijking van deze paragraaf het certificatieschema niet zelf ontwikkelen of wijzigen. De CKI moet het certificatieschema gebruiken dat door de minister is vastgesteld. De CKI moet een eventueel wijzigingsvoorstel indienen bij de beheerstichting. Het Centraal College van Deskundigen moet een wijzigingsvoorstel beoordelen en kan het bestuur van de beheerstichting adviseren om een wijzigingsvoorstel voor te leggen aan de minister. De minister zal het voorstel beoordelen en bepalen of het wijzigingsvoorstel overgenomen wordt.
+Document: WDAT-WOD-P
 
 Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Opnieuw certificeren na een intrekking kan pas na een jaar na de datum van intrekking. De CKI dient voor verstrekking van een certificaat bij het centraal registratiesysteem te verifiëren of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
 
 De bepalingen van paragraaf 6.1.2 van NEN-EN-ISO/IEC 17024:2012 zijn onverkort van toepassing.
 
-Het onderwerp (de scope) van dit certificatieschema betreft de competenties A tot en met J in het competentieprofiel van de Hogere Veiligheidskundige, zoals beschreven in hoofdstuk 3 van bijlage 6 bij dit document. Voor het aantonen van de competenties wordt een portfolio opgesteld door de aanvrager van de (her)certificatie.
+Werken onder overdruk betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor het werken onder overdruk. Onder werken onder overdruk wordt in overeenstemming met [artikel 6.13 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.13) verstaan: duikarbeid, caissonarbeid en overige arbeid onder overdruk.
+
+Het betreft de volgende in het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) genoemde activiteiten:
+
+De certificaten voor deze werkzaamheden worden onder deze regeling verstrekt door CKI’s. Om certificaten te mogen verstrekken moet een CKI hiertoe worden aangewezen door de minister. Dit gebeurt door toetsing aan dit document betreffende aanwijzing en toezicht. In dit document is aangegeven aan welke regels en procedures de betreffende CKI’s zich moeten houden.
+
+Op grond van de aanwijzing door de minister en de overeenkomst met de beheerstichting moet de CKI de beoordelingseisen en beoordelingsmethodiek van het werkveldspecifiek certificatieschema toepassen. De beheerstichting heeft de taak om de certificatieschema’s voor de relevante werkvelden te beheren en te onderhouden. De CKI moet de verrichtingen van het door de beheerstichting ingestelde Centraal College van Deskundigen, dat belast is met de werkveldspecifieke certificatieschema’s, volgen en kan hieraan ook inhoudelijk bijdragen.
+
+Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlijk in de tekst van het certificatieschema voorkomen, maar deze begrippen of afkortingen zijn toch in de definitielijst opgenomen in verband met het feit dat deze begrippen of afkortingen in direct verband tot dit certificatieschema kunnen worden gehanteerd. Indien de definities in dit document afwijken van de definities in NEN-EN-ISO/IEC 17024:2012, gelden de definities van dit document.
+
+De aanvrager kan hiervoor één van de volgende documenten aanleveren:
+
+De bepalingen van paragraaf 6.3 van NEN-EN-ISO/IEC 17024:2012 zijn onverkort van toepassing.
+
+Dit werkveldspecifieke document voor aanwijzing en toezicht op CKI’s belast met persoonscertificatie op het gebied van werken onder overdruk wordt aangehaald als WDAT-WOD-P. Dit werkveldspecifieke document voor aanwijzing en toezicht binnen het werkveld Werken onder druk, is door de minister van SZW vastgesteld. De minister van SZW kan wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde document vervangt eerdere versies. Op- en of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen ‘Werken onder overdruk’.
+
+In aanvulling op de bepalingen van paragraaf 6.2 van NEN-EN-ISO/IEC 17024:2012 moet de CKI bij de selectie van examinatoren en de overige betrokkenen bij het examen aan de onderstaande eisen toepassen. De uitwerking van de eisen ten aanzien van het examenpersoneel moeten worden opgenomen in competentieprofielen en andere relevante documenten, zoals het kwaliteitshandboek van de certificerende instelling.
+
+Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
+
+De genoemde eisen ten aanzien van het examenpersoneel gelden volledig voor de examinator die betrokken is bij de beoordeling van het examenwerk en praktijkonderdelen. Voor het toezicht tijdens het theorie-examen mag een medewerker worden ingezet die niet beschikt over de inhoudelijke kennis zoals genoemd in punt 2.
+
+De volgende risico’s kunnen optreden, indien de CKI in het certificatieproces niet voldoende functioneert:
+
+### 13. **Geldigheidscondities**
+
+De CKI controleert of de aanvraag voldoet aan de bovenstaande eisen, wanneer dit niet het geval is wordt er met de aanvrager contact opgenomen.
+
+In aanvulling op de bepalingen van paragraaf 9.4.8 van NEN-EN-ISO/IEC 17024:2012 moet op het certificaat worden vermeld:
+
+Het beoordelen en aanwijzen van de CKI’s voor persoonscertificatie vindt plaats op basis van de eisen die aan de certificerende instelling gesteld worden op grond van de aanwijzing (zie paragraaf 4.5 van dit document) en de NEN-EN-ISO/IEC 17024:2012 behoudens de volgende aanvullingen en afwijkingen:
+
+De bepalingen van paragraaf 8.3 van NEN-EN-ISO/IEC 17024:2012 zijn onverkort van toepassing, maar de CKI moet rekening houden met bijzondere voorschriften ten aanzien van het toezicht op de certificaathouder, indien de minister hiervoor bijzondere bepalingen in een werkveldspecifiek certificatieschema heeft vastgesteld.
+
+Onverlet de overige bepalingen van paragraaf 8.4 van NEN-EN-ISO/IEC 17024:2012 mag de CKI in afwijking van deze paragraaf het certificatieschema niet zelf ontwikkelen of wijzigen. De CKI moet het certificatieschema gebruiken dat door de minister is vastgesteld. De CKI moet een eventueel wijzigingsvoorstel indienen bij de beheerstichting. Het Centraal College van Deskundigen moet een wijzigingsvoorstel beoordelen en kan het bestuur van de beheerstichting adviseren om een wijzigingsvoorstel voor te leggen aan de minister. De minister zal het voorstel beoordelen en bepalen of het wijzigingsvoorstel overgenomen wordt.
+
+Onverlet de overige bepalingen van paragraaf 9.6 van NEN-EN-ISO/IEC 17024:2012 moet de CKI rekening houden met bijzondere voorschriften ten aanzien van de hercertificatie, indien de minister hiervoor bijzondere bepalingen in een werkveldspecifiek certificatieschema heeft vastgesteld.
+
+De bepalingen van paragraaf 6.1.2 van NEN-EN-ISO/IEC 17024:2012 zijn onverkort van toepassing.
+
+In aanvulling op de bepaling van paragraaf 9.7 van NEN-EN-ISO/IEC 17024:2012 moet de CKI zich bij het gebruik van een beeldmerk van de beheerstichting houden aan de voorschriften van de overeenkomst tussen de beheerstichting en de CKI.
 
 Onverlet de overige bepalingen van paragraaf 8.6 van NEN-EN-ISO/IEC 17024:2012 moet de CKI rekening houden met de procedure voor wijziging van de beoordelingseisen en beoordelingsmethodiek, indien de minister hiervoor bijzondere bepalingen in een werkveldspecifiek certificatieschema heeft vastgesteld.
 
@@ -7463,11 +7503,11 @@ Op grond van de aanwijzing door de minister en de overeenkomst met de beheerstic
 
 De CKI moet de uitvoering van de examinering van de kandidaten overeenkomstig paragraaf 8.5 van NEN-EN-ISO/IEC 17024:2012 zelf evalueren. Indien uit de evaluatie blijkt dat het certificatieschema aanpassingen behoeft, dan moet de CKI hiervoor een met argumenten onderbouwd voorstel aan het Centraal College van Deskundigen doen.
 
-De aanvrager kan hiervoor één van de volgende documenten aanleveren:
+Ten behoeve van de informatieverzameling dient de CKI kosteloos:
 
 De bepalingen van paragraaf 6.3 van NEN-EN-ISO/IEC 17024:2012 zijn onverkort van toepassing.
 
-De aanvrager dient hiervoor het volgende document te overhandigen:
+Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
 
 In aanvulling op de bepalingen van paragraaf 6.2 van NEN-EN-ISO/IEC 17024:2012 moet de CKI bij de selectie van examinatoren en de overige betrokkenen bij het examen aan de onderstaande eisen toepassen. De uitwerking van de eisen ten aanzien van het examenpersoneel moeten worden opgenomen in competentieprofielen en andere relevante documenten, zoals het kwaliteitshandboek van de certificerende instelling.
 
@@ -7477,47 +7517,47 @@ De genoemde eisen ten aanzien van het examenpersoneel gelden volledig voor de ex
 
 De CKI moet ervoor zorgen dat de personen die bij het examen optreden als leden van de duikploeg, maar niet zelf kandidaat zijn, voldoende instructie krijgen om de veiligheid en onafhankelijkheid tijdens het examen te borgen. Indien de duikploeg uit meerdere kandidaten bestaat, moet elk van de leden van de duikploeg overeenkomstig worden geïnstrueerd. De CKI moet ervoor zorgen dat aan de briefing een heldere en eenduidige examencase ten grondslag ligt. Indien betrokkenen bij het examen duiken, dienen zij te beschikken over het persoonscertificaat duikarbeid (WSCS-WOD D of WSCS-WOD E). Indien de betrokkenen bij het examen optreden als duikploegleider dan wel deze rol overnemen dienen zij te beschikken over het persoonscertificaat duikploegleider (WSCS-WOD-F of WSCS-WOD-L)
 
-### 13. **Geldigheidscondities**
+De examinatoren, de overige betrokkenen bij het examen en het personeel van de CKI moeten jegens de examenkandidaat onafhankelijk en onbevooroordeeld kunnen optreden. De onafhankelijkheid van alle betrokken omvat ten minste dat zij niet persoonlijk betrokken zijn geweest bij de opleiding van de kandidaat en dat zij in relatie tot de werkgever van de kandidaat aantoonbaar over voldoende onafhankelijkheid beschikken om hun optreden tijdens het examen en jegens de kandidaat hierdoor niet te laten beïnvloeden. De CKI moet ervoor zorgen dat de kandidaten tijdens het examen gelijke kansen krijgen en het examen veilig kunnen uitvoeren.
 
-De CKI controleert of de aanvraag voldoet aan de bovenstaande eisen, wanneer dit niet het geval is wordt er met de aanvrager contact opgenomen.
+Dit werkveldspecifieke certificatieschema voor personen is door het Centraal College van Deskundigen ‘Werken onder overdruk’ opgesteld. Het betreft certificatie op het gebied van arbeidsgezondheidskundig onderzoek door duikerartsen. Het bestuur van de Stichting werken onder overdruk (SWOD) heeft het schema heeft goedgekeurd. Door het Ministerie van Sociale Zaken en Werkgelegenheid is het schema vastgesteld. Dit schema vervangt eerdere versies.
 
 In aanvulling op de bepalingen van paragraaf 9.4.8 van NEN-EN-ISO/IEC 17024:2012 moet op het certificaat worden vermeld:
 
-De CKI bekijkt of alle bewijsstukken zijn overlegd en stuurt hiervan een ontvangstbevestiging naar de kandidaat. Wanneer de kandidaat aan de bovenstaande entreecriteria heeft voldaan, dan wordt de aanvraag in behandeling genomen, waarna de examinator de inhoudelijke check van de bewijsstukken verricht.
+Het certificatiesysteem van de certificerende instelling moet zijn gestructureerd in overeenstemming met de eisen uit de NEN-EN-ISO/IEC 17024:2012.
 
 De bepalingen van paragraaf 8.3 van NEN-EN-ISO/IEC 17024:2012 zijn onverkort van toepassing, maar de CKI moet rekening houden met bijzondere voorschriften ten aanzien van het toezicht op de certificaathouder, indien de minister hiervoor bijzondere bepalingen in een werkveldspecifiek certificatieschema heeft vastgesteld.
 
-NB. De opbouw van het portfolio is niet gebonden aan een opleidingsinstelling of een CKI.
+Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlijk in de tekst van het certificatieschema voorkomen, maar deze begrippen of afkortingen zijn toch in de definitielijst opgenomen in verband met het feit dat de beheerstichting en het Ministerie van Sociale Zaken en Werkgelegenheid deze begrippen of afkortingen in direct verband tot dit certificatieschema kunnen hanteren.
 
 Onverlet de overige bepalingen van paragraaf 9.6 van NEN-EN-ISO/IEC 17024:2012 moet de CKI rekening houden met bijzondere voorschriften ten aanzien van de hercertificatie, indien de minister hiervoor bijzondere bepalingen in een werkveldspecifiek certificatieschema heeft vastgesteld.
 
-Omwille van de leesbaarheid van dit certificatieschema is het competentieprofiel van de Hogere Veiligheidskundige opgenomen als bijlage 6 bij dit document.
+De initiële matrix wordt ingevuld bij de initiële certificering en aan het begin van een nieuwe certificeringperiode. De Hogere Veiligheidskundige geeft op elke kerntaak aan over welke competenties hij beschikt. Dat dient minimaal één algemene en één beroepsspecifieke competentie te zijn. In de ontwikkelmatrix geeft de deskundige aan welke competenties hij wil ontwikkelen. Dit kan een nieuwe competentie zijn, of een verbetering van een bestaande competentie. Gedurende de certificeringperiode van vijf jaar illustreert de deskundige zijn ontwikkeling aan de hand van 4 cases. Per casus benoemt hij ten minste 3 competenties binnen de kerntaak waar de casus betrekking op heeft. De ontwikkelmatrix bevat minimaal twaalf kruisjes waarvan er 4 gekoppeld zijn aan de ingebrachte cases. Deze ontwikkelcompetenties worden in het verslag uitgewerkt in leervragen, een verbetervoorstel en een verbeteractie. In totaal dus 4 verslagen met 4 ontwikkel punten over 5 jaar.
 
 In aanvulling op de bepaling van paragraaf 9.7 van NEN-EN-ISO/IEC 17024:2012 moet de CKI zich bij het gebruik van een beeldmerk van de beheerstichting houden aan de voorschriften van de overeenkomst tussen de beheerstichting en de CKI.
 
-De aanvrager heeft aan de entreecriteria van hoofdstuk 8 voldaan. Daarna volgt de vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven.
+Tijdens de toets verdedigd de Hogere Veiligheidskundige dit portfolio. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
 
 De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
 
-De examinator gaat na of:
+Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven:
 
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2022-07-01&g=2022-07-01) Arboregeling.
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2022-12-13&g=2022-12-13) Arboregeling.
 
 Ten behoeve van de informatieverzameling dient de CKI kosteloos:
 
-De examinator bekijkt of:
+De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
 
 Indien de aangewezen instelling niet meer voldoet aan de eisen in dit schema kan dit gevolgen hebben voor de aanwijzing. Zie [beleidsmaatregel maatregelenbeleid certificering Arbeidsomstandighedenwet en Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027905), Stcrt. 2010, nr. 10839 van 14 juli 2010.
 
-De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+De afzonderlijke risicofactoren treden vaak in onderlinge combinatie en per definitie in combinatie met de onderdompeling in water op. De gevolgen van een incident kunnen daarom zeer ernstig zijn en vereisen door de natuurkundige en lichamelijke verschijnselen in verband met de overdruk een specifieke behandeling. Voor de behandeling van incidenten onder overdruk is een gedegen kennis van de aard van de duikarbeid, duikerziekten en behandeling in compressiefaciliteiten noodzakelijk.
 
-De werkervaring van de Hogere Veiligheidskundige toont aan dat hij in staat is competenties zelfstandig in de praktijk toe te passen. Met betrekking tot de opgedane werkervaring bekijkt de examinator:
+Een meer omvangrijke risicoanalyse is opgenomen in het document Werkveldspecifiek document voor aanwijzing en toezicht op de certificerende instellingen belast met persoonscertificatie op het gebied van duikarbeid (WDAT-WOD-P).
 
 Document: WSCS-WOD-A
 
-De examinator kijkt naar de inhoud van het portfolio. Het portfolio bestaat uit een beschrijving van tenminste twee van de volgende vijf kerntaken:
+Bestaande uit één algemeen en één beroeps specifieke competentie. Hiervoor wordt verwezen naar het Competentie Profiel Hogere Veiligheidskundige welke terug is te vinden in bijlage 6 van deze regeling.
 
-Bij iedere kerntaak wordt aangegeven welke competenties hieraan zijn gekoppeld.
+Dit reglement omschrijft de procedures die relevant zijn voor de juiste toepassing van het specifieke schema. Hierbij moet gedacht worden aan onder meer de procedures van de aanvraag, examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, afgifte van certificaten, procedures bij het uitvoeren van beoordelingen, klachtenafhandeling en het indienen van verzoeken om herziening.
 
 Dit werkveldspecifieke certificatieschema voor personen is door het Centraal College van Deskundigen ‘Werken onder overdruk’ opgesteld. Het betreft certificatie op het gebied van arbeidsgezondheidskundig onderzoek door duikerartsen. Het bestuur van de Stichting werken onder overdruk (SWOD) heeft het schema heeft goedgekeurd. Door het Ministerie van Sociale Zaken en Werkgelegenheid is het schema vastgesteld. Dit schema vervangt eerdere versies.
 
@@ -7525,25 +7565,25 @@ De te certificeren vakbekwaamheid betreft het uitvoeren van een arbeidsgezondhei
 
 Het certificatiesysteem van de certificerende instelling moet zijn gestructureerd in overeenstemming met de eisen uit de NEN-EN-ISO/IEC 17024:2012.
 
-Ontbrekende informatie in het portfolio wordt via de CKI bij de kandidaat opgevraagd. De ontbrekende informatie moet tijdig (ten minste twee weken voor datum examen) worden aangeleverd zodat de examinator nog voldoende tijd heeft voor een beoordeling. Indien de kandidaat hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De kandidaat wordt hiervan schriftelijk door de CKI op de hoogte gesteld. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+De certificatiebeslissing wordt genomen door een functionaris van de certificerende instelling die niet betrokken is geweest bij de beoordeling van de kandidaten. Hij is daartoe gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de certificatie-instelling heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
 
 Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlijk in de tekst van het certificatieschema voorkomen, maar deze begrippen of afkortingen zijn toch in de definitielijst opgenomen in verband met het feit dat de beheerstichting en het Ministerie van Sociale Zaken en Werkgelegenheid deze begrippen of afkortingen in direct verband tot dit certificatieschema kunnen hanteren.
 
-Met bovenstaande kerntaak-competentie-matrix stelt de Hogere Veiligheidskundige een profiel samen dat past bij zijn eigen invulling van het vak. Er wordt onderscheid gemaakt tussen een profiel dat de situatie bij de initiële certificering of aan het begin van een nieuwe certificeringperiode weergeeft (de initiële matrix) en een profiel dat weergeeft op welke aspecten de deskundige zich verder wil ontwikkelen of zich heeft ontwikkeld tijdens de achterliggende certificeringperiode (de ontwikkelmatrix).
+De geldigheidsduur van het certificaat is op grond van de risicoanalyse vier jaar. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in de verrichtingen en bekendheid met de technieken en de werkzaamheden bij duikarbeid. Gedurende deze periode van vier jaar is het voor de certificaathouder noodzakelijk om de doorlopende beroepservaring te onderhouden en te ontwikkelen.
 
-De initiële matrix wordt ingevuld bij de initiële certificering en aan het begin van een nieuwe certificeringperiode. De Hogere Veiligheidskundige geeft op elke kerntaak aan over welke competenties hij beschikt. Dat dient minimaal één algemene en één beroepsspecifieke competentie te zijn. In de ontwikkelmatrix geeft de deskundige aan welke competenties hij wil ontwikkelen. Dit kan een nieuwe competentie zijn, of een verbetering van een bestaande competentie. Gedurende de certificeringperiode van vijf jaar illustreert de deskundige zijn ontwikkeling aan de hand van 4 cases. Per casus benoemt hij ten minste 3 competenties binnen de kerntaak waar de casus betrekking op heeft. De ontwikkelmatrix bevat minimaal twaalf kruisjes waarvan er 4 gekoppeld zijn aan de ingebrachte cases. Deze ontwikkelcompetenties worden in het verslag uitgewerkt in leervragen, een verbetervoorstel en een verbeteractie. In totaal dus 4 verslagen met 4 ontwikkel punten over 5 jaar.
+Indien het proces met één examinator niet goed functioneert worden er twee examinatoren ingezet tijdens examens.
 
 Duikarbeid is een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van duikerartsen.
 
-Tijdens de toets verdedigd de Hogere Veiligheidskundige dit portfolio. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
+Voor meer informatie inzake de toetsingsprocedure wordt verwezen naar het examenreglement het Competentie profiel Hogere Veiligheidskundige (HVK) paragraaf 4.2.
 
 Dit werkveldspecifieke certificatieschema wordt aangeduid als WSCS-WOD-A, Persoonscertificaat duikerarts. Het certificatieschema is door de Stichting werken onder overdruk (SWOD), als beheerstichting goedgekeurd en aangeboden aan het Ministerie van Sociale Zaken. De Minister van Sociale Zaken en Werkgelegenheid stelt het schema vast. De Minister van Sociale Zaken en Werkgelegenheid kan wijzigingen aanbrengen in de vastgestelde documenten. Dit schema vervangt eerdere versies.
 
-Vijf jaar na (her)certificatie vervalt het certificaat en moet de aanvrager aantonen aan de (her)certificatie eisen te voldoen. Ook nu volgt er een vakinhoudelijke toets welke wordt verricht door de examinator en onderstaand is beschreven:
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Binnen het kader van dit certificatieschema zijn actief:
 
-De CKI controleert of de bovengenoemde documenten aanwezig zijn volgens hoofdstuk 8, voor zover van toepassing.
+Het bovenstaande moet zijn opgenomen in de certificatieovereenkomst welke door de certificaathouder is ondertekend.
 
 De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
 
@@ -7553,37 +7593,37 @@ De afzonderlijke risicofactoren treden vaak in onderlinge combinatie en per defi
 
 Een meer omvangrijke risicoanalyse is opgenomen in het document Werkveldspecifiek document voor aanwijzing en toezicht op de certificerende instellingen belast met persoonscertificatie op het gebied van duikarbeid (WDAT-WOD-P).
 
-Bij iedere kerntaak wordt aangegeven welke competenties hieraan zijn gekoppeld.
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
-Bestaande uit één algemeen en één beroeps specifieke competentie. Hiervoor wordt verwezen naar het Competentie Profiel Hogere Veiligheidskundige welke terug is te vinden in bijlage 6 van deze regeling.
+Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
 
 Dit reglement omschrijft de procedures die relevant zijn voor de juiste toepassing van het specifieke schema. Hierbij moet gedacht worden aan onder meer de procedures van de aanvraag, examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, afgifte van certificaten, procedures bij het uitvoeren van beoordelingen, klachtenafhandeling en het indienen van verzoeken om herziening.
 
-Minimaal vier cases kort uitgewerkt in een verslag, die in een ICT groep zijn besproken. Hieruit worden er dus de bijbehorende competenties, vier leervragen, vier verbeter en ontwikkelvoorstellen en vier verbeteracties beschreven. Deze punten kunnen overlappen zijn.
+Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte legt dossier aan tbv voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling.
 
 De aanvrager dient in overeenstemming met dit certificatiereglement een aanvraag tot (her)certificatie in voor het persoonscertificaat duikerarts (WSCS-WOD-A) bij een CKI. Vervolgens verstrekt de certificerende instelling alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
 
-Wanneer het portfolio niet in orde is, dan wordt de Hogere Veiligheidskundige in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de Hogere Veiligheidskundige hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De Hogere Veiligheidskundige wordt hiervan schriftelijk door de CKI op de hoogte gesteld. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij.
 
 De certificatiebeslissing wordt genomen door een functionaris van de certificerende instelling die niet betrokken is geweest bij de beoordeling van de kandidaten. Hij is daartoe gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de certificatie-instelling heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
 
-Certificaathouders tonen aan dat zij kennis van het vak bijhouden (bij- en nascholing) door bijvoorbeeld het schrijven van een artikel binnen de ICT-groep of het vervullen van een bestuursfunctie binnen het vakgebied. Hieraan wordt een nog op te stellen cesuur gekoppeld.
+Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
 
 De geldigheidsduur van het certificaat is op grond van de risicoanalyse vier jaar. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in de verrichtingen en bekendheid met de technieken en de werkzaamheden bij duikarbeid. Gedurende deze periode van vier jaar is het voor de certificaathouder noodzakelijk om de doorlopende beroepservaring te onderhouden en te ontwikkelen.
 
-Indien het proces met één examinator niet goed functioneert worden er twee examinatoren ingezet tijdens examens.
+De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 Met betrekking tot de geldigheid van het certificaat worden nadere condities gesteld. Als niet aan de condities wordt voldaan, dan heeft dat consequenties voor het certificaat. De condities en de wijze van toezicht daarop door de certificerende instelling worden beschreven in deel II van het certificatieschema.
 
-Voor meer informatie inzake de toetsingsprocedure wordt verwezen naar het examenreglement het Competentie profiel Hogere Veiligheidskundige (HVK) paragraaf 4.2.
+De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier. Hier wordt tevens vermeld dat het gaat om een incident.
 
-De volgende gegevens worden (minimaal) op het certificaat vermeld:
+Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-Het bovenstaande moet zijn opgenomen in de certificatieovereenkomst welke door de certificaathouder is ondertekend.
+Algemeen:
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -7591,7 +7631,7 @@ Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient 
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
-Aan een CKI worden onder meer de volgende eisen gesteld:
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
@@ -7615,57 +7655,17 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier. Hier wordt tevens vermeld dat het gaat om een incident.
-
-Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
-
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
-
-De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
-
-Algemeen:
-
-Het bezwaar wordt niet-ontvankelijk verklaard:
-
-De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier. Hier wordt tevens vermeld dat het gaat om een incident.
-
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
-
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
-
-Algemeen:
-
-De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan het de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
-
-Het bezwaar wordt niet-ontvankelijk verklaard:
-
-Het CCvD WOD moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, certificerende instellingen of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
-
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
-
-De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en praktijkexamen waarmee de vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat dient te voldoen aan de gestelde entree-eisen.
-
-De CKI houdt hierbij rekening met het volgende:
-
-Het examenbureau is onafhankelijk van de beroepsverenigingen en opereert onder de verantwoording van de stichting BCD.
-
-Examenpersoneel moet voldoen aan de volgende algemene, vakinhoudelijke en onafhankelijkheidseisen:
-
-Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het persoonscertificaat duikerarts (WSCS-WOD-A).
-
-Het examenreglement is onderdeel van het certificatieschema duikerarts. De examinering geschiedt onder verantwoordelijkheid van de certificerende instelling en bestaat uit de volgende onderdelen:
-
 Het examen wordt door de certificerende instelling afgenomen.
 
 Tweemaal per jaar is er een bijeenkomst voor examinatoren. De examinator is verplicht minimaal één bijeenkomst bij te wonen. In uitzonderlijke gevallen kan de stichting BCD hiervoor uitstel verlenen. De bijeenkomsten worden georganiseerd door de stichting BCD en de daartoe aangewezen CKI. Tijdens de bijeenkomsten worden de logboeken van de examinatoren, op compleetheid getoetst en besproken waarna eventuele verbeter en ontwikkelvoorstellen worden opgesteld.
 
-De certificerende instelling stelt haar werkwijze rond de examens nader vast in een uitvoeringsbesluit ten aanzien van het examenreglement. Het uitvoeringsbesluit bevat ten minste de volgende bepalingen:
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
 Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
 
-Het examenpersoneel moet voldoen aan de algemene en vakinhoudelijke eisen alsmede onafhankelijkheidseisen die zijn gesteld in het Werkveldspecifieke document voor aanwijzing en toezicht voor CKI’s bij persoonscertificatie (WDAT-WOD-P).
+Algemeen:
 
-In aanvulling op het WDAT-WOD-P gelden voor de examinator die betrokken is bij de beoordeling van het praktijkexamen de volgende eisen, waaruit de deskundigheid blijkt:
+Het bezwaar wordt niet-ontvankelijk verklaard:
 
 Te stellen eisen aan de examenmiddelen zijn:
 
@@ -7675,6 +7675,46 @@ De medewerkers van de certificerende instelling dragen zorg voor de absolute geh
 
 Uitgangspunt is dat een portfolio-examen bij voorkeur in de Nederlandse taal wordt afgenomen.
 
+De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan het de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
+
+De eisen ten aanzien van de examenmiddelen voor het theorie-examen zijn:
+
+Het CCvD WOD moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, certificerende instellingen of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
+
+De eisen ten aanzien van de faciliteiten voor het praktijkexamen worden nauwkeurig uitgewerkt door de certificerende instelling.
+
+De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en praktijkexamen waarmee de vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat dient te voldoen aan de gestelde entree-eisen.
+
+De CKI houdt hierbij rekening met het volgende:
+
+Het toezicht heeft tot doel om de vakbekwaamheid van gecertificeerd personeel te borgen. De certificerende instelling is verplicht te beoordelen of de certificaathouder blijft voldoen aan de gestelde eisen. Alhoewel de certificerende instelling normaliter geen tussentijds toezicht uitvoert vanwege de beperkte geldigheidsduur van vier jaar, moet de certificerende instelling in bepaalde situaties wel tussentijds toezicht uitvoeren. Deze situaties zijn nader uitgewerkt in paragraaf 6.2. De certificaathouder is verplicht mee te werken aan toezicht door de certificatie-instelling, de nationale accreditatie-instelling en de Nederlandse Arbeidsinspectie.
+
+In de overeenkomst tussen de certificerende instelling en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waartoe ten minste de volgende verplichtingen van de certificaathouder behoren:
+
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het persoonscertificaat duikerarts (WSCS-WOD-A).
+
+Het examenreglement is onderdeel van het certificatieschema duikerarts. De examinering geschiedt onder verantwoordelijkheid van de certificerende instelling en bestaat uit de volgende onderdelen:
+
+Het examen wordt door de certificerende instelling afgenomen.
+
+De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CI inzage in zijn doorlopende jaarlijkse beroepservaring door een jaarlijks overzicht te overleggen van verrichtte her- dan wel inkeuringen en studiepunten. Hierdoor kan de CI de doorlopende beroepservaring met het oog op hercertificatie tijdig bijhouden
+
+De certificerende instelling stelt haar werkwijze rond de examens nader vast in een uitvoeringsbesluit ten aanzien van het examenreglement. Het uitvoeringsbesluit bevat ten minste de volgende bepalingen:
+
+De Hogere Veiligheidskundige heeft de kerntaken 1 t/m 3 en beroepscompetenties A t/m J gemeen met de andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en Organisatiedeskundige, Arbeidshygiënist). De Hogere Veiligheidskundige onderscheidt zich van andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en organisatiedeskundige en arbeidshygiënist) in de kerntaken 4 en 5 en in een specialisatie in het onderzoeken en/of adviseren op het gebied van veilige werkomgeving.
+
+Het examenpersoneel moet voldoen aan de algemene en vakinhoudelijke eisen alsmede onafhankelijkheidseisen die zijn gesteld in het Werkveldspecifieke document voor aanwijzing en toezicht voor CKI’s bij persoonscertificatie (WDAT-WOD-P).
+
+In aanvulling op het WDAT-WOD-P gelden voor de examinator die betrokken is bij de beoordeling van het praktijkexamen de volgende eisen, waaruit de deskundigheid blijkt:
+
+Het plan wordt schriftelijk aan de certificaathouder kenbaar gemaakt. De certificaathouder moet binnen zes weken na de aankondiging zijn medewerking verlenen aan de uitvoering van de controle.
+
+Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
+
+De medewerkers van de certificerende instelling dragen zorg voor de absolute geheimhouding van de examenopgaven. De handhaving van de geheimhouding geschiedt vanuit de certificerende instelling.
+
+De Hogere Veiligheidskundige heeft de kerntaken 1 t/m 3 en beroepscompetenties A t/m J gemeen met de andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en Organisatiedeskundige, Arbeidshygiënist). De Hogere Veiligheidskundige onderscheidt zich van andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en organisatiedeskundige en arbeidshygiënist) in de kerntaken 4 en 5 en in een specialisatie in het onderzoeken en/of adviseren op het gebied van veilige werkomgeving.
+
 De eisen die gesteld worden aan de examenlocatie voor het theorie-examen zijn:
 
 De eisen ten aanzien van de examenmiddelen voor het theorie-examen zijn:
@@ -7683,15 +7723,15 @@ Het theorie-examen wordt afgenomen in de Nederlandse taal. Het theorie-examen wo
 
 De eisen ten aanzien van de faciliteiten voor het praktijkexamen worden nauwkeurig uitgewerkt door de certificerende instelling.
 
-In dit document is een kerntaak-competentie-matrix opgenomen (hoofdstuk 4). Deze matrix geeft weer welke competenties ingezet worden bij de uitvoering van de deelprocessen van een kerntaak. Op basis van hoofdzakelijk deze kerntaak-competentie-matrix, worden de toetsingscriteria opgesteld. Deze criteria stelt het Centraal College van Deskundigen (CCvD) vast. Mede aan de hand van de mate waarin aan deze criteria wordt voldoen, verstrekt of verlengt de certificatiecommissie en de certificerende instelling(en) al dan niet een persoonscertificaat. Daarnaast kunnen opleidingsinstellingen het competentieprofiel en de toetsingscriteria gebruiken als uitgangspunt voor het optimaal laten aansluiten van hun opleiding op het certificeringsysteem van de Stichting Beheer Certificatie Deskundigen (Stichting BCD). Waar in dit document de mannelijke verwijzing wordt gehanteerd kan, waar van toepassing, ook de vrouwelijke vorm worden gelezen.
+Het verslag wordt ter beschikking gesteld van de certificaathouder. Tegen de eventueel opgelegde maatregel kan de certificaathouder overeenkomstig paragraaf 4.7 een verzoek tot herziening indienen.
 
-In dit document is een kerntaak-competentie-matrix opgenomen (hoofdstuk 4). Deze matrix geeft weer welke competenties ingezet worden bij de uitvoering van de deelprocessen van een kerntaak. Op basis van hoofdzakelijk deze kerntaak-competentie-matrix, worden de toetsingscriteria opgesteld. Deze criteria stelt het Centraal College van Deskundigen (CCvD) vast. Mede aan de hand van de mate waarin aan deze criteria wordt voldoen, verstrekt of verlengt de certificatiecommissie en de certificerende instelling(en) al dan niet een persoonscertificaat. Daarnaast kunnen opleidingsinstellingen het competentieprofiel en de toetsingscriteria gebruiken als uitgangspunt voor het optimaal laten aansluiten van hun opleiding op het certificeringsysteem van de Stichting Beheer Certificatie Deskundigen (Stichting BCD). Waar in dit document de mannelijke verwijzing wordt gehanteerd kan, waar van toepassing, ook de vrouwelijke vorm worden gelezen.
+De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD ARBO zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
 
 Het toezicht heeft tot doel om de vakbekwaamheid van gecertificeerd personeel te borgen. De certificerende instelling is verplicht te beoordelen of de certificaathouder blijft voldoen aan de gestelde eisen. Alhoewel de certificerende instelling normaliter geen tussentijds toezicht uitvoert vanwege de beperkte geldigheidsduur van vier jaar, moet de certificerende instelling in bepaalde situaties wel tussentijds toezicht uitvoeren. Deze situaties zijn nader uitgewerkt in paragraaf 6.2. De certificaathouder is verplicht mee te werken aan toezicht door de certificatie-instelling, de nationale accreditatie-instelling en de Nederlandse Arbeidsinspectie.
 
 In de overeenkomst tussen de certificerende instelling en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waartoe ten minste de volgende verplichtingen van de certificaathouder behoren:
 
-Dit competentieprofiel voor de Hogere Veiligheidskundige is opgesteld om de inhoud van het beroep Hogere Veiligheidskundige vast te leggen. Het beroep wordt omschreven in kerntaken en competenties. Op deze manier is het competentieprofiel een instrument voor het meten van het vakmanschap. Daarnaast is het profiel het uitgangspunt voor de eisen die worden gesteld aan de te certificeren beroepsbeoefenaar. Het competentieprofiel is onderdeel van het certificeringssysteem dat moet resulteren in het certificaat voor de Arbeids- en organisatiedeskundige volgens de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346).
+Indien blijkt dat de certificaathouder een tijdelijke tekortkoming, bedoeld onder de punten 3 en 4, heeft, dan wordt hij binnen een redelijke termijn in de gelegenheid gesteld om de tekortkoming te corrigeren door een nadere opleiding of praktijkervaring en een daarop volgende examinering. De schorsing wordt opgeheven, indien de certificaathouder de tekortkoming heeft gecorrigeerd.
 
 De CKI voert indien nodig tussentijdse controles uit. De CKI moet een certificaathouder in elk geval tussentijds controleren in de volgende situaties:
 
@@ -7699,9 +7739,9 @@ De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid i
 
 De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CI inzage in zijn doorlopende jaarlijkse beroepservaring door een jaarlijks overzicht te overleggen van verrichtte her- dan wel inkeuringen en studiepunten. Hierdoor kan de CI de doorlopende beroepservaring met het oog op hercertificatie tijdig bijhouden
 
-De Hogere Veiligheidskundige ontwikkelt zich voortdurend in zijn vak en vaardigheden, werkt samen, verbindt en integreert kennis van oorzaken, gevolgen en oplossingen en beoefent zijn vak op ondernemende wijze.
+De certificerende instelling besluit tot intrekking van een certificaat, indien de certificaathouder:
 
-De Hogere Veiligheidskundige heeft de kerntaken 1 t/m 3 en beroepscompetenties A t/m J gemeen met de andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en Organisatiedeskundige, Arbeidshygiënist). De Hogere Veiligheidskundige onderscheidt zich van andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en organisatiedeskundige en arbeidshygiënist) in de kerntaken 4 en 5 en in een specialisatie in het onderzoeken en/of adviseren op het gebied van veilige werkomgeving.
+Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden, wordt dezelfde procedure doorlopen als bij initiële certificatie. Bij het opleggen van een sanctie geeft de certificerende instelling aan en registreert hij dat na een periode van één jaar certificatie weer is toegestaan. Een verzoek tot hercertificatie kan worden ingediend vanaf één jaar na intrekking van het certificaat. De certificerende instelling verifieert voorafgaand aan de verstrekking van een certificaat in het centraal register of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
 
 De CKI maakt een plan voor de uitvoering van een controle, zoals bedoeld in paragraaf 6.2.
 
@@ -7709,25 +7749,25 @@ Het plan beschrijft ten minste:
 
 Het plan wordt schriftelijk aan de certificaathouder kenbaar gemaakt. De certificaathouder moet binnen zes weken na de aankondiging zijn medewerking verlenen aan de uitvoering van de controle.
 
-Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
+De weigering van een hercertificatie wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
 Indien de certificerende instelling inzage neemt in het overzicht van dossiers van de certificaathouder, dan wordt ingegaan op de wijze van administreren en aanwezigheid van onlogische gegevens.
 
-De Hogere Veiligheidskundige heeft de kerntaken 1 t/m 3 en beroepscompetenties A t/m J gemeen met de andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en Organisatiedeskundige, Arbeidshygiënist). De Hogere Veiligheidskundige onderscheidt zich van andere gecertificeerde niet-medische arbodeskundigen (Arbeids- en organisatiedeskundige en arbeidshygiënist) in de kerntaken 4 en 5 en in een specialisatie in het onderzoeken en/of adviseren op het gebied van veilige werkomgeving.
+De certificerende instelling moet onmiddellijk bij de Nederlandse Arbeidsinspectie melding maken van de haar bekende feiten ten aanzien van een kandidaat of certificaathouder in de volgende gevallen:
 
 Indien de certificerende instelling de beoordeling van een praktijkverrichting noodzakelijk acht, dan moet de keuze van de vereiste verrichting beargumenteerd in verhouding staan tot de aanleiding voor de controle en de eindtermen en toetstermen van het certificatieschema.
 
 Het uitvoeringsplan kan in overleg met de certificaathouder tot stand komen met betrekking tot het tijdstip. Het uitvoeringsplan beschrijft verder de locatie en de partij die het materieel, de medische behandelkamer en eventueel de duikploeg ter beschikking stelt en de partij die de verantwoordelijkheid over het materieel, de duikploeg en de verrichtingen van de certificaathouder draagt. De partij waarmee wordt samengewerkt is naar keuze van de certificerende instelling. De praktijkverrichting die in de controle betrokken wordt, moet worden beoordeeld volgens de eisen van het certificatieschema.
 
-In het beroep van Hogere Veiligheidskundige kan onderscheid gemaakt worden tussen algemene competenties – die in veel beroepen terug te vinden zijn – en beroepsspecifieke competenties. De algemene competenties zijn beschreven in paragraaf 3.1 en de beroepsspecifieke competenties zijn beschreven in paragraaf 3.2. De gebruikte aanduidingen zijn dezelfde als die in de kerntaak-competentie matrices in hoofdstuk 4.
+Voor alle vormen van duikarbeid is het noodzakelijk dat de persoon die met die arbeid belast wordt, in een zodanige lichamelijke en geestelijk toestand verkeert, dat hij in staat is de gevaren, die verbonden zijn aan de door hem te verrichten arbeid, te onderkennen en zo mogelijk te voorkomen of te beperken. Een persoon mag daarom slechts duikarbeid verrichten als uit arbeidsgezondheidskundig onderzoek blijkt dat het verrichten van die arbeid op medische gronden toelaatbaar is.
 
 De certificerende instelling maakt een verslag van de bevindingen naar aanleiding van de controles in het kader van het tussentijds toezicht. In het verslag wordt ingegaan op:
 
 Het verslag wordt ter beschikking gesteld van de certificaathouder. Tegen de eventueel opgelegde maatregel kan de certificaathouder overeenkomstig paragraaf 4.7 een verzoek tot herziening indienen.
 
-De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD ARBO zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
+De herkeuring moet worden uitgevoerd door een duikerarts die in bezit is van een certificaat van vakbekwaamheid om een herhaling van het arbeidsgezondheidskundig onderzoek bij personen die worden belast met het verrichten van duikarbeid uit te voeren (duikerarts A)..
 
-De opleidingsinstituten kunnen toegelaten worden door een beoordeling van een daartoe door de stichting BCD aangewezen CKI. Een toegelaten opleiding voldoet aan de eisen die in het document ‘toelaten van opleidingen’ gesteld worden. Het CCvD ARBO zal de huidige documenten van Hobéon SKO en KIWA in 2012 bijstellen en verbeteren. Tot de bijgestelde documenten gepubliceerd en goedgekeurd door de stichting BCD blijven de oude documenten in gebruik. De documenten zijn te vinden op de website van de stichting BCD.
+De duikerarts die de volgende taken verricht moet in het bezit zijn van het certificaat Duikerarts B, voor deze werkzaamheden gelden namelijk zwaardere eisen:
 
 De certificerende instelling besluit tot schorsing van een certificaat, indien de certificaathouder:
 
@@ -7737,7 +7777,7 @@ De schorsing wordt verder opgeheven, indien de certificaathouder heeft voldaan a
 
 De schorsing als mede de opheffing van de schorsing wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-Naam examinandus:
+De certificerende instelling heeft tot taak om in samenspraak met een examinator op onderhavig WSCS te bepalen of en in hoeverre een in het buitenland afgeronde opleiding tot duikerarts in Nederland door de medische beroepsvereniging erkend wordt. In het verlengde daarvan kan de certificerende instelling bepalen welke eventuele aanvullingen op het opleidingsniveau van de kandidaat noodzakelijk zijn.
 
 De certificerende instelling besluit tot intrekking van een certificaat, indien de certificaathouder:
 
@@ -7745,17 +7785,17 @@ Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden
 
 De intrekking wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-Naam examinator:
+vragen, kennisvragen, enz.)
 
 De certificerende instelling besluit tot weigering van een certificaat, indien de certificaathouder:
 
 De weigering van een hercertificatie wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-Vraag:
+De certificerende instelling draagt er zorg voor dat de toetstermen minimaal blijven voldoen aan de vigerende EDTC regeling. De certificerende instelling hanteert een standaardmethodiek om te beoordelen of de kandidaat voldoet aan de eindtermen. De vakbekwaamheid van de kandidaat wordt getoetst aan de volgende toetscriteria:
 
 De certificerende instelling moet onmiddellijk bij de Nederlandse Arbeidsinspectie melding maken van de haar bekende feiten ten aanzien van een kandidaat of certificaathouder in de volgende gevallen:
 
-(welke (ant)woorden zijn goed/fout,
+Het voldoen aan de toetstermen wordt beoordeeld door een schriftelijk examen, een praktijkexamen en een verrichtingenboekje. Het schriftelijk examen duurt maximaal 1,5 uur. Aan de hand van iedere examenopgave wordt de kennis van de kandidaat ten aanzien van elk van de toetstermen getoetst. De kandidaat kan maximaal 200 punten volgens de onderstaande tabel behalen.
 
 De vakbekwaamheid die gecertificeerd wordt, betreft de beoordeling van de lichamelijk en geestelijke geschiktheid van personen die worden belast met het verrichten van duikarbeid. In het werkveld van arbeid onder overdruk wordt onderscheiden:
 
@@ -7771,7 +7811,7 @@ De duikerarts die de volgende taken verricht moet in het bezit zijn van het cert
 
 Het certificatieschema beschrijft de eisen die gesteld worden aan:
 
-(welke (ant)woorden zijn goed/fout,
+Bovendien kan de Hogere Veiligheidskundige zich verder specialiseren in een of meerdere van de navolgende kennisgebieden of -aspecten:
 
 De kandidaat wordt toegelaten tot het certificatieproces ter verkrijging van het wettelijk vereiste persoonscertificaat duikerarts, indien hij voldoet aan de volgende entreecriteria:
 
@@ -7779,17 +7819,17 @@ Ter verkrijging van de aantekening van bekwaamheid duikerarts B voldoet de kandi
 
 De certificerende instelling heeft tot taak om in samenspraak met een examinator op onderhavig WSCS te bepalen of en in hoeverre een in het buitenland afgeronde opleiding tot duikerarts in Nederland door de medische beroepsvereniging erkend wordt. In het verlengde daarvan kan de certificerende instelling bepalen welke eventuele aanvullingen op het opleidingsniveau van de kandidaat noodzakelijk zijn.
 
-Eindbeoordeling:
+Voor de vervolgafgifte van het wettelijk verplichte persoonscertificaat duikerarts gelden de volgende toetstermen:
 
 De kandidaat voldoet aan de volgende eindtermen en is dientengevolge vakbekwaam:
 
 Ter verkrijging van de aantekening van bekwaamheid duikerarts B voldoet de kandidaat bovendien de volgende aanvullende eindtermen:
 
-vragen, kennisvragen, enz.)
+Binnen de kennisgebieden van het HVK vak kan de Hogere Veiligheidskundige zich ook specialiseren in bepaalde taakgebieden.
 
 In de omschrijving van de eind- en toetstermen wordt gesproken over basale kennis, uitgebreide kennis en expertise. Deze drie indicaties van het kennisniveau zijn ontleend aan de ‘Diving Industry Personnel Competence Standards’, die zijn uitgegeven door het European Diving Technology Committee in maart 2003. In dit certificatieschema worden de kennisniveaus als volgt geïnterpreteerd:
 
-De kerndeskundige is een vak dat onder de Hogere Veiligheidskundige valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m 4 van het Competentieprofiel Hogere Veiligheidskundige te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van de regeling Hogere Veiligheidskundige. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het Competentieprofiel Hogere Veiligheidskundige. Dit deel gaat in op de specialisaties van de kerndeskundige.
+De kandidaat moet aantonen dat hij op de hoogte blijft van nieuwe ontwikkelingen op zijn vakgebied en dat hij zijn vakkennis voortdurend uitbreidt. Hij doet dit door publicaties, deelname aan cursussen, seminars en congressen. Iedere deelname aan een congres, publicatie of dag waarop op het vakgebied geaccrediteerd onderwijs is gegeven levert 15 studiepunt op. Het behalen van het studiepunt wordt door de kandidaat aangetoond door de publicatie of een verslag van de gebeurtenis die wordt opgevoerd. De kandidaat moet in de 2 kalenderjaren voorafgaand aan de certificatie 30 studiepunten hebben behaald. Als de kandidaat 4 of meer gebeurtenissen opvoert is het maximale aantal punten 50.
 
 De certificerende instelling draagt er zorg voor dat de toetstermen minimaal blijven voldoen aan de vigerende EDTC regeling. De certificerende instelling hanteert een standaardmethodiek om te beoordelen of de kandidaat voldoet aan de eindtermen. De vakbekwaamheid van de kandidaat wordt getoetst aan de volgende toetscriteria:
 
@@ -7811,21 +7851,21 @@ Toetsterm 9.2 wordt getoetst door een praktijkexamen dat bestaat uit minimaal 10
 
 Toetsterm 11 wordt getoetst op grond van behaalde studiepunten. Iedere deelname aan een congres of publicatie levert per publicatie, per dag of gedeelte daarvan 15 studiepunt op. Het behalen van het studiepunt wordt door de kandidaat aangetoond door de publicatie, een bewijs van aanwezigheid of een verslag van de gebeurtenis die wordt opgevoerd. De kandidaat moet in het jaar voorafgaand aan de certificatie 30 studiepunten hebben behaald. Als de kandidaat 4 of meer gebeurtenissen opvoert is het maximale aantal punten 50. Toetstermen 12 en 13 worden getoetst door controle van het verrichtingenboekje. Het verrichtingenboekje moet zijn afgetekend door een leidinggevende in het geval werksituaties onder overdruk. In het geval van bijgewoonde klinische behandelingen van duikincidenten moet het verrichtingenboekje zijn afgetekend door een duikerarts in categorie B. Op grond van het verrichtingenboekje kunnen maximaal 100 punten worden behaald. De praktijkervaring die wordt getoetst in het kader van toetsterm 9.2, 12.1 en 13.1 omvatten gezamenlijk ten minste 10 praktijkuren van de kandidaat.
 
-Bovendien kan de Hogere Veiligheidskundige zich verder specialiseren in een of meerdere van de navolgende kennisgebieden of -aspecten:
+Op het certificaat wordt de tekst opgenomen dat de certificerende instelling verklaart dat de betreffende persoon voldoet aan eisen van het normdocument WSCS-WOD-A Persoonscertificaat duikerarts en dientengevolge als duikerarts vakbekwaam is in het uitvoeren van het periodiek arbeidsgezondheidskundig onderzoek bij personen die duikarbeid verrichten.
 
 De uitslagregel van het examen wordt geregeld in de centrale itembank en in het uitvoeringsbesluit van de CKI.
 
-Deze taakspecialisatie hangt samen met een nadere specialisatie in bepaalde vaardigheden binnen het vakgebied van de Hogere Veiligheidskundige.
+De tekst vermeldt tevens of het certificaat is afgeven op grond van een initiële certificatie of een hercertificatie.
 
-Deze taakspecialisatie hangt samen met een nadere specialisatie in bepaalde vaardigheden binnen het vakgebied van de Hogere Veiligheidskundige.
+Binnen het kader van deze certificatieregeling zijn actief:
 
 Voor de vervolgafgifte van het wettelijk verplichte persoonscertificaat duikerarts gelden de volgende toetstermen:
 
 Om bij hercertficatie opnieuw de aantekening van bekwaamheid in het uitvoeren van het initiële arbeidsgezondheidskundige onderzoek te verkrijgen, moet de kandidaat bovendien voldoen aan de volgende toetstermen:
 
-De specifieke specialisatie in kennis, taak en/of branche kan de kerndeskundige in zijn persoonlijke portfolio tot uitdrukking brengen.
+Afbreuk risico’s voor de adviseur zijn, dat je als adviseur moet kiezen tussen de kwaliteit van het advies en de implementatiekans hiervan binnen de organisatie van de werkgever. Een niet prettig of wenselijk advies daar waar de opdrachtgever zelf onderdeel van het probleem is, maar ook de privacy gegevens die anoniem zijn blijven bij de opdrachtgever.
 
-Binnen de kennisgebieden van het HVK vak kan de Hogere Veiligheidskundige zich ook specialiseren in bepaalde taakgebieden.
+Het onderwerp (de scope) van dit certificatieschema betreft de competenties A tot en met J in het competentieprofiel van de Hogere Veiligheidskundige, zoals beschreven in hoofdstuk 3 van bijlage 6 bij dit document. Voor het aantonen van de competenties wordt een portfolio opgesteld door de aanvrager van de (her)certificatie.
 
 De hercertificatie wordt beoordeeld door middel van een documentenonderzoek en het aantonen van studiepunten. Het documentenonderzoek ten aanzien de praktijkervaring levert de kandidaat per opgevoerde keuring 5 punten, doch gezamenlijk maximaal 100 punten op en bestaat uit:
 
@@ -7835,7 +7875,7 @@ De kandidaat moet de documenten volledig aan de certificerende instelling overle
 
 Het toelichtende gesprek vindt plaats nadat de kandidaat de bewijzen voor het documentenonderzoek en de studiepunten heeft aangetoond. In het toelichtende gesprek wordt het overzicht van de uitgevoerde duikmedische keuringen doorgenomen en in verband gebracht met de toetstermen 1 tot en met 4. De toetstermen 1.1 en 4.1 nemen hierbij de voornaamste positie in. Het toelichtende gesprek duurt maximaal 1,5 uur en levert de kandidaat maximaal 150 punten op volgende verdeling:
 
-Deze certificatieregeling is opgesteld door het betreffende Centraal College van Deskundigen (CCvD ARBO) van de Beheerstichting Certificatie van Deskundigen (Stichting BCD). Het schema is door het ministerie van SZW vastgesteld. Pas na vaststelling van deze regeling door de minister van SZW mag de certificatieregeling door de certificatie-instellingen (CKI’s) worden toegepast.
+De te certificeren vakbekwaamheid betreft het optreden als duikploegleider. Het certificaat duikploegleider is wettelijk vereist op grond van [artikel 6.16 lid 3 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16). De duikploegleider geeft leiding aan een duikploeg waarin door ten minste één persoon duikarbeid wordt verricht. Onder duikarbeid wordt in overeenstemming met [artikel 6.13 lid 1 onder letter a van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.13) verstaan het verrichten van arbeid in een vloeistof of in een gesloten duikklok met inbegrip van het verblijf in die vloeistof of in die gesloten duikklok, waarbij voor de ademhaling gebruik wordt gemaakt van een gas onder een hogere druk dan de atmosferische druk.
 
 De hercertificatie met de aantekening van bekwaamheid in het uitvoeren van het duikerarts B wordt beoordeeld door middel van een documentenonderzoek bestaande uit:
 
@@ -7843,11 +7883,11 @@ De kandidaat moet de documenten volledig aan de certificerende instelling overle
 
 Om de aantekening van bekwaamheid in het uitvoeren van het initiële arbeidsgezondheidskundige onderzoek opnieuw te verkrijgen, moet de kandidaat reeds in het bezit zijn van een geldig certificaat duikerarts met diezelfde aantekening.
 
-Deze certificatieregeling is gestructureerd in overeenstemming met de eisen uit NEN-EN-ISO/IEC 17024:2012.
+Indien de definities in dit document afwijken van de definities in NEN-EN-ISO/IEC 17024:2012 en mandatory documents, gelden de definities van dit document.
 
 De cesuur van de beoordeling wordt nader vastgelegd in de centrale itembank en in het uitvoeringsbesluit van de CKI.
 
-Het verrichten van arbeid is een risicovolle activiteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van de beroepsgroep A&O.
+Behandelingswijze van klachten van kandidaten en certificaathouders. De klachtenregeling is opgenomen in bijlage 1.
 
 Op het certificaat moeten minimaal de volgende gegevens vermeld zijn:
 
@@ -7857,21 +7897,21 @@ Hieraan wordt in de gevallen van certificatie met aantekening de tekst toegevoeg
 
 De tekst vermeldt tevens of het certificaat is afgeven op grond van een initiële certificatie of een hercertificatie.
 
-Binnen het kader van deze certificatieregeling zijn actief:
+De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met de stichting BCD tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de stichting ten behoeve van het Certificaatregister van de stichting, dat wordt opgezet conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De stichting BCD is verantwoordelijk voor het beheer van het register.
 
 Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat.
 
 Het certificaat kan worden geschorst wanneer de certificaathouder geen relevante werkervaring kan aantonen.
 
-Afbreuk risico’s voor de adviseur zijn, dat je als adviseur moet kiezen tussen de kwaliteit van het advies en de implementatiekans hiervan binnen de organisatie van de werkgever. Een niet prettig of wenselijk advies daar waar de opdrachtgever zelf onderdeel van het probleem is, maar ook de privacy gegevens die anoniem zijn blijven bij de opdrachtgever.
+De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
 
-Het onderwerp (de scope) van dit certificatieschema betreft de competenties A tot en met J in het competentieprofiel van de Hogere Veiligheidskundige, zoals beschreven in hoofdstuk 3 van bijlage 6 bij dit document. Voor het aantonen van de competenties wordt een portfolio opgesteld door de aanvrager van de (her)certificatie.
+De afzonderlijke risicofactoren treden vaak in onderlinge combinatie en per definitie in combinatie met de onderdompeling in een vloeistof op. De gevolgen van een incident kunnen daarom zeer ernstig zijn. In de praktijk blijken de naleving van voorschriften en het gebruik van deugdelijk duik- en caissonmaterieel de belangrijkste factoren ter voorkoming van incidenten te zijn.
 
 Document: WSCS-WOD-L
 
-Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het specifieke schema. Hierbij moet gedacht worden aan onder meer procedure van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt word en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van toezicht, klachtenafhandeling en het indienen van een verzoek om herziening.
+Het is voor de veiligheid en gezondheid van de duiker van belang dat de arbeids- en rusttijden worden nageleefd en dat onder alle omstandigheden effectief leiding wordt gegeven aan de duikploeg. De duikploegleider ziet toe op het naleven van de verantwoordelijkheid van de duiker dat hij psychisch en fysiek gereed is voor de werkzaamheden. De duikploegleider ziet toe op de geldigheid van de certificaten van de duikploeg. De duiker is verantwoordelijk dat hij psychisch en fysiek gereed is voor de werkzaamheden. Indien de (reserve)duiker twijfels heeft over zijn gereedheid dan wel zeker weet dat hij niet gereed is voor duikwerkzaamheden moet hij dit terstond melden aan de duikploegleider. De persoon die duikarbeid verricht, is daarnaast afhankelijk van materieel en van de andere leden van de duikploeg. De duikploegleider ziet erop toe dat de duikploeg en het duikmaterieel goed worden ingezet.
 
-De arbeid & organisatiedeskundige, dient in overeenstemming met de certificatieregeling A&O een aanvraag in voor het persoonscertificaat bij een CKI. Vervolgens verstrekt de CKI relevante informatie over de gang van zaken betreffende het gehele certificatieproces.
+In het examenreglement van de CKI dienen de volgende zaken opgenomen te zijn:
 
 Dit werkveldspecifieke certificatieschema voor personen is door het Centraal College van Deskundigen ‘Werken onder overdruk’ opgesteld. Het betreft certificatie op het gebied van het leidinggeven aan een duikploeg. Het bestuur van de Stichting werken onder overdruk (SWOD) heeft het schema goedgekeurd. Dit schema is vastgesteld door het Ministerie van Sociale Zaken en vervangt eerdere versies.
 
@@ -7879,29 +7919,29 @@ De te certificeren vakbekwaamheid betreft het optreden als duikploegleider. Het 
 
 Het certificatiesysteem van de CKI moet zijn gestructureerd in overeenstemming met de eisen uit WDAT-WOD-P.
 
-De geldigheidsduur voor een persoonscertificaat volgens het certificatieschema voor de certificatie van A&O is vijf jaar.
+De kandidaat dient in overeenstemming met dit certificatiereglement een aanvraag in voor (her)certificatie voor het persoonscertificaat duikploegleider (WSCS-WOD-L) bij een CKI. Vervolgens verstrekt de CKI alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
 
 Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlijk in de tekst van het certificatieschema voorkomen, maar deze begrippen of afkortingen zijn toch in de definitielijst opgenomen in verband met het feit dat de beheerstichting en het Ministerie van Sociale Zaken en Werkgelegenheid deze begrippen of afkortingen in direct verband tot dit certificatieschema kunnen hanteren.
 
 Indien de definities in dit document afwijken van de definities in NEN-EN-ISO/IEC 17024:2012 en mandatory documents, gelden de definities van dit document.
 
-Met betrekking tot de geldigheid van het certificaat worden condities gesteld. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat. De condities en de wijze waarop door de CKI toegezien dient te worden, worden opgesteld door de stichting BCD en vastgelegd in het Document voor aanwijzing en toezicht op de certificatie-instellingen voor A&O.
+De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Nederlandse Arbeidsinspectie. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
 
-Behandelingswijze van klachten van kandidaten en certificaathouders. De klachtenregeling is opgenomen in bijlage 1.
+De geldigheidsduur van het certificaat is op grond van de risicoanalyse vier jaar. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in het leidinggeven, vertrouwdheid met de werkomgeving en bekendheid met het functioneren van een duikploeg. Gedurende de periode van vier jaar is het voor de certificaathouder noodzakelijk om de doorlopende beroepservaring te onderhouden.
 
 Duikarbeid is een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van personen die leiding geven aan een duikploeg.
 
-De bezwaarprocedure is opgenomen in bijlage 2.
+Met betrekking tot de geldigheid van het certificaat worden nadere condities gesteld. Als niet aan de condities wordt voldaan, dan heeft dat consequenties voor het certificaat. De condities en de wijze van toezicht daarop door de CKI worden beschreven in deel II van het certificatieschema.
 
 Dit werkveldspecifieke certificatieschema wordt voluit aangehaald als persoonscertificaat duikploegleider. De verkorte aanduiding is WSCS-WOD-L.
 
 Het certificatieschema is door de Stichting werken onder overdruk (SWOD), als beheerstichting goedgekeurd en aangeboden aan het Ministerie van Sociale Zaken. De Minister van Sociale Zaken en Werkgelegenheid stelt het schema vast. De Minister van Sociale Zaken en Werkgelegenheid kan op eigen initiatief wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde schema vervangt daarmee eerdere versies.
 
-De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met de stichting BCD tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de stichting ten behoeve van het Certificaatregister van de stichting, dat wordt opgezet conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De stichting BCD is verantwoordelijk voor het beheer van het register.
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Binnen het kader van dit certificatieschema zijn actief:
 
-De stichting BCD dient te zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan dienen afwijkende interpretaties te worden voorgelegd aan de stichting BCD, die alvorens te antwoorden advies vraagt aan het CCvD ARBO.
+Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling (bijlage 1).
 
 De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
 
@@ -7911,37 +7951,37 @@ Deze incidenten kunnen worden voorkomen door:
 
 Het is voor de veiligheid en gezondheid van de duiker van belang dat de arbeids- en rusttijden worden nageleefd en dat onder alle omstandigheden effectief leiding wordt gegeven aan de duikploeg. De duikploegleider ziet toe op het naleven van de verantwoordelijkheid van de duiker dat hij psychisch en fysiek gereed is voor de werkzaamheden. De duikploegleider ziet toe op de geldigheid van de certificaten van de duikploeg. De duiker is verantwoordelijk dat hij psychisch en fysiek gereed is voor de werkzaamheden. Indien de (reserve)duiker twijfels heeft over zijn gereedheid dan wel zeker weet dat hij niet gereed is voor duikwerkzaamheden moet hij dit terstond melden aan de duikploegleider. De persoon die duikarbeid verricht, is daarnaast afhankelijk van materieel en van de andere leden van de duikploeg. De duikploegleider ziet erop toe dat de duikploeg en het duikmaterieel goed worden ingezet.
 
-In het examenreglement van de CKI dienen de volgende zaken opgenomen te zijn:
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
-De examen-pool is een organisatorisch onderdeel van de CKI. De CKI dient zich hierbij te houden aan artikel 4.5 ‘subcontracting’ van NEN-EN-ISO/IEC 17024:2012.
+Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
 
 Dit reglement omschrijft de procedures die relevant zijn voor de juiste toepassing van het specifieke schema. Hierbij moet gedacht worden aan onder meer de procedures van de aanvraag, toelating, examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, afgifte van certificaten, procedures bij het uitvoeren van beoordelingen, klachtenafhandeling en het indienen van verzoeken om herziening.
 
-Indien gebruik wordt gemaakt van een centrale itembank, dan geschiedt het beheer van de itembank onder strikte geheimhouding door de CKI. De wijze van beheer van de itembank is schriftelijk vastgelegd en aantoonbaar geaccordeerd door het management van de CKI. In de itembank worden de theorievragen inclusief de cesuur opgeslagen welke vooraf zijn opgesteld.
+Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte legt dossier aan tbv voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling.
 
 De kandidaat dient in overeenstemming met dit certificatiereglement een aanvraag in voor (her)certificatie voor het persoonscertificaat duikploegleider (WSCS-WOD-L) bij een CKI. Vervolgens verstrekt de CKI alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
 
-Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te toetsen. De CKI is verplicht te beoordelen of de certificaathouder voldoet en blijft voldoen aan de gestelde eisen. Gezien de risicoanalyse en het geringe afbreukrisico op de korte termijn voor het bedrijf is de certificatieperiode vastgesteld op vijf jaar. Om dezelfde reden kan normaliter worden volstaan met één tussentijdse controle van alle certificaathouders.
+Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij.
 
 De certificatiebeslissing wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaten. Hij is daartoe gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de certificatie-instelling heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
 
-De certificaathouder is verplicht mee te werken aan toezicht door de CKI en, voor zover van toepassing, de nationale accreditatie-instantie en de Nederlandse Arbeidsinspectie. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waaronder bepalingen ten aanzien van een meer uitgebreide controles door de CKI bij een ad random gekozen deel van de certificaathouders ter verificatie van de aangeleverde gegevens bij de tussentijdse controles.
+Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
 
 De geldigheidsduur van het certificaat is op grond van de risicoanalyse vier jaar. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in het leidinggeven, vertrouwdheid met de werkomgeving en bekendheid met het functioneren van een duikploeg. Gedurende de periode van vier jaar is het voor de certificaathouder noodzakelijk om de doorlopende beroepservaring te onderhouden.
 
-Het toezicht wordt als volgt uitgevoerd:
+De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 Met betrekking tot de geldigheid van het certificaat worden nadere condities gesteld. Als niet aan de condities wordt voldaan, dan heeft dat consequenties voor het certificaat. De condities en de wijze van toezicht daarop door de CKI worden beschreven in deel II van het certificatieschema.
 
-De termijn voor het aanleveren van de benodigde documenten bestaande uit de werkgeversverklaring (of accountantsverklaring) en de deelnamelijst, dienen binnen zes weken te worden overlegd aan de CKI.
+De CKI controleert of de aanvraag voldoet aan de bovenstaande eisen, wanneer dit niet het geval is wordt er met de aanvrager contact opgenomen.
 
-De CKI stelt een verslag op van de bevindingen van het toezicht. Het resultaat van het toezicht wordt schriftelijk aan de certificaathouder bekend gemaakt. De certificaathouder kan bezwaar aantekenen tegen maatregelen (zie paragraaf 6.5) die opgelegd kunnen worden naar aanleiding van het toezicht. De CKI behandelt het bezwaar conform haar bezwaarprocedure (bijlage 2).
+De aanvrager dient hiervoor het volgende document te overhandigen: een examenoproep waaruit blijkt dat de kandidaat deelneemt aan het examen van een toegelaten beroepsopleiding Arbeids & Organisatiedeskundige.
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-Een klacht betreffende de certificaathouder wordt bij de CKI ingediend. De CKI behandelt de klacht conform haar klachtenregeling (bijlage 1).
+Algemeen:
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -7949,7 +7989,7 @@ Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient 
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
-Intrekken van het certificaat vindt in ieder geval plaats indien de werkervaring aantoonbaar minder is als twee dagdelen gemiddeld per week en/of deelname aan de ICT-groep niet is aangetoond.
+De aanvrager dient hiervoor het volgende document te overhandigen:
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
@@ -7973,57 +8013,17 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-De CKI controleert of de aanvraag voldoet aan de bovenstaande eisen, wanneer dit niet het geval is wordt er met de aanvrager contact opgenomen.
-
-De aanvrager dient hiervoor het volgende document te overhandigen: een examenoproep waaruit blijkt dat de kandidaat deelneemt aan het examen van een toegelaten beroepsopleiding Arbeids & Organisatiedeskundige.
-
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
-
-In het geval de kandidaat een niet toegelaten beroeps opleiding heeft gevolgd biedt de CKI de mogelijkheid om een onderzoek te verrichten waaruit al dan niet de gelijkwaardigheid van de beroepsopleiding blijkt. Wanneer hiervan sprake is dan wordt het diploma als gelijkwaardig gesteld aan een door de CKI toegelaten opleiding. De kosten van dit onderzoek zijn voor rekening van de kandidaat.
-
-Algemeen:
-
-Het bezwaar wordt niet-ontvankelijk verklaard:
-
-De aanvrager kan hiervoor één van de volgende documenten aanleveren:
-
-De CKI controleert of de aanvraag voldoet aan de bovenstaande eisen, wanneer dit niet het geval is wordt er met de aanvrager contact opgenomen.
-
-De aanvrager dient hiervoor het volgende document te overhandigen:
-
-De CKI bekijkt of alle bewijsstukken zijn overlegd en stuurt hiervan een ontvangstbevestiging naar de kandidaat. Wanneer de kandidaat aan de bovenstaande entreecriteria heeft voldaan, dan wordt de aanvraag in behandeling genomen, zie hoofdstuk 10, waarna de examinator de inhoudelijke check van de bewijsstukken verricht.
-
-De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de beheerstichting. De overeenkomst met de CKI zal voorschrijven in welk digitaal formaat de toelevering van gegevens moet plaats vinden, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
-
-NB. De opbouw van het portfolio is niet gebonden aan een opleidingsinstelling of een CKI.
-
-Het Centraal College van Deskundigen ‘Werken onder overdruk’ moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
-
-Omwille van de leesbaarheid van dit certificatieschema is het competentieprofiel van de Arbeids- en Organisatiedeskundige opgenomen als bijlage 6 bij dit document.
-
-De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en praktijkexamen waarmee de vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat dient in elk geval te voldoen aan de gestelde entree-eisen.
-
-De CKI houdt hierbij rekening met het volgende:
-
-De examinator bekijkt of de scope van de aanvraag valt onder de regeling van de Arbeids en Organisatiedeskundige. Wanneer dit niet het geval is, dan wordt de aanvraag niet verder in behandeling genomen. De examinator stelt de CKI hiervan op de hoogte. De CKI stelt de aanvrager hiervan schriftelijk op de hoogte ook voor wat betreft de verdere afhandeling van de aanvraag.
-
-De examinator gaat na of:
-
-Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het Persoonscertificaat duikploegleider (WSCS-WOD-L). Het examenreglement is onderdeel van het certificatieschema duikploegleider. Het examen wordt door de CKI afgenomen.
-
-De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit de volgende onderdelen:
-
 Wanneer één van de bovenstaande punten niet in orde is, dan wordt de aanvrager in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de aanvrager hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
 
 De CKI stelt haar werkwijze rond de examens nader vast in een uitvoeringsbesluit ten aanzien van het examenreglement. Het uitvoeringsbesluit bevat ten minste de volgende bepalingen:
 
-Wanneer één van de bovenstaande punten niet in orde is, dan wordt de kandidaat (via de CKI) in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de kandidaat hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De aanvrager heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
 Het examenpersoneel moet voldoen aan de algemene en vakinhoudelijke eisen alsmede onafhankelijkheidseisen die zijn gesteld in het Werkveldspecifieke document voor aanwijzing en toezicht voor CKI’s bij persoonscertificatie (WDAT-WOD-P).
 
-In aanvulling op het WDAT-WOD-P gelden voor de examinator die betrokken is bij het praktijkexamen de volgende eisen, waaruit de deskundigheid blijkt:
+Algemeen:
 
-Bij iedere kerntaak wordt weergegeven welke kennis (uit bijvoorbeeld boeken, internet, rapporten, werkinstructies) als achtergrond voor de uitoefening van deze kerntaak is gebruikt ter onderbouwing. Wenselijk is dat er bij een kerntaak een beschrijving wordt gegeven van de relevante informatie bijvoorbeeld een boek: titel, auteur, druk en hoofdstuk vermelding, waarvan gebruik is gemaakt voor de uitoefening van deze taak.
+Het bezwaar wordt niet-ontvankelijk verklaard:
 
 Tijdens de initiële opleiding worden de vier kerntaken uitgewerkt binnen de afstudeeropdracht, die in een ICT-groep zijn besproken. Hieruit worden er dus de bijbehorende competenties, vier leervragen, vier verbeter en ontwikkelvoorstellen en vier verbeteracties beschreven. Deze punten kunnen overlappend zijn.
 
@@ -8033,29 +8033,69 @@ Ontbrekende informatie in het portfolio wordt via de CKI bij de kandidaat opgevr
 
 De eisen die gesteld worden aan de examenlocatie voor het theorie-examen zijn:
 
+De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de beheerstichting. De overeenkomst met de CKI zal voorschrijven in welk digitaal formaat de toelevering van gegevens moet plaats vinden, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
+
+Het theorie-examen wordt in beginsel schriftelijk afgenomen in de Nederlandse taal. De eisen ten aanzien van de faciliteiten voor de demonstratie van de leidinggevende vaardigheid worden nauwkeurig uitgewerkt in de overeenkomst tussen de opleidingsinstelling en de CKI. De CKI ziet toe op de juiste inrichting, het onderhoud en juiste gebruik van de faciliteiten. De CKI kan hiertoe controles uitvoeren en zich laten bijstaan door externe adviseurs.
+
+Het Centraal College van Deskundigen ‘Werken onder overdruk’ moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
+
+Tijdens de toets verdedigd de Arbeids- en Organisatiekundige dit portfolio. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
+
+De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en praktijkexamen waarmee de vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat dient in elk geval te voldoen aan de gestelde entree-eisen.
+
+De CKI houdt hierbij rekening met het volgende:
+
+In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waartoe ten minste de volgende verplichtingen van de certificaathouder behoren:
+
+De CKI controleert of de bovengenoemde documenten aanwezig zijn volgens hoofdstuk 8, voor zover van toepassing.
+
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het Persoonscertificaat duikploegleider (WSCS-WOD-L). Het examenreglement is onderdeel van het certificatieschema duikploegleider. Het examen wordt door de CKI afgenomen.
+
+De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit de volgende onderdelen:
+
+Wanneer één van de bovenstaande punten niet in orde is, dan wordt de Arbeids en Organisatiedeskundige (via de CKI) in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de Arbeids en Organisatiedeskundige hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De Arbeids en Organisatiedeskundige heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+
+De CKI stelt haar werkwijze rond de examens nader vast in een uitvoeringsbesluit ten aanzien van het examenreglement. Het uitvoeringsbesluit bevat ten minste de volgende bepalingen:
+
+De CKI maakt een plan voor de uitvoering van een controle, zoals bedoeld in paragraaf 6.2.
+
+Het examenpersoneel moet voldoen aan de algemene en vakinhoudelijke eisen alsmede onafhankelijkheidseisen die zijn gesteld in het Werkveldspecifieke document voor aanwijzing en toezicht voor CKI’s bij persoonscertificatie (WDAT-WOD-P).
+
+In aanvulling op het WDAT-WOD-P gelden voor de examinator die betrokken is bij het praktijkexamen de volgende eisen, waaruit de deskundigheid blijkt:
+
+Minimaal vier cases kort uitgewerkt in een verslag, die eventueel tijdens de toegelaten beroepsopleiding in een ICT groep zijn besproken. Hieruit worden er dus de bijbehorende competenties, vier leervragen, vier verbeter en ontwikkelvoorstellen en vier verbeteracties beschreven. Deze punten kunnen overlappend zijn.
+
+Indien de CKI inzage neemt in het duikploegleiderlogboek van de certificaathouder, dan wordt ingegaan op de volgende onderwerpen:
+
+De medewerkers van de CKI dragen zorg voor de absolute geheimhouding van de examenopgaven. De handhaving van de geheimhouding geschiedt vanuit de CKI.
+
+Indien de CKI de beoordeling van een praktijkverrichting noodzakelijk acht, dan moet de keuze van de vereiste verrichting beargumenteerd in verhouding staan tot de aanleiding voor de controle en de eindtermen en toetstermen van het certificatieschema.
+
+De eisen die gesteld worden aan de examenlocatie voor het theorie-examen zijn:
+
 De eisen ten aanzien van de examenmiddelen voor het theorie-examen zijn:
 
 Het theorie-examen wordt in beginsel schriftelijk afgenomen in de Nederlandse taal. De eisen ten aanzien van de faciliteiten voor de demonstratie van de leidinggevende vaardigheid worden nauwkeurig uitgewerkt in de overeenkomst tussen de opleidingsinstelling en de CKI. De CKI ziet toe op de juiste inrichting, het onderhoud en juiste gebruik van de faciliteiten. De CKI kan hiertoe controles uitvoeren en zich laten bijstaan door externe adviseurs.
 
 De faciliteiten voor de demonstratie van de leidinggevende vaardigheid en het praktijkexamen voldoen ten minste aan de volgende eisen:
 
-Tijdens de toets verdedigd de Arbeids- en Organisatiekundige dit portfolio. De examinator stelt een verslag op van de toetsing van het portfolio. Op basis van dit verslag brengt de examinator een advies uit. Het verslag en het advies worden aan de CKI toegezonden.
+Het verslag wordt ter beschikking gesteld van de certificaathouder. Tegen de eventueel opgelegde maatregel kan de certificaathouder overeenkomstig paragraaf 4.7 een verzoek tot herziening indienen.
 
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
+De volgende gegevens worden (minimaal) op het certificaat vermeld:
 
 Het toezicht heeft tot doel om de vakbekwaamheid van gecertificeerd personeel te borgen. De CKI is verplicht te beoordelen of de certificaathouder blijft voldoen aan de gestelde eisen. De CI voert in bepaalde situaties tussentijds toezicht uit. Deze situaties zijn nader uitgewerkt in paragraaf 6.2. De certificaathouder is verplicht mee te werken aan toezicht door de CKI, de nationale accreditatie-instantie en de Nederlandse Arbeidsinspectie.
 
 In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waartoe ten minste de volgende verplichtingen van de certificaathouder behoren:
 
-De CKI controleert of de bovengenoemde documenten aanwezig zijn volgens hoofdstuk 8, voor zover van toepassing.
+Indien blijkt dat de certificaathouder een tijdelijke tekortkoming, bedoeld onder de punten 3 en 4, heeft, dan wordt hij binnen een redelijke termijn in de gelegenheid gesteld om de tekortkoming te corrigeren door een nadere opleiding of praktijkervaring en een daarop volgende examinering. De schorsing wordt opgeheven, indien de certificaathouder de tekortkoming heeft gecorrigeerd.
 
 De CKI voert indien nodig tussentijdse controles uit. De CKI moet een certificaathouder in elk geval controleren in de volgende situaties:
 
 De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in het leidinggeven, vertrouwdheid met de werkomgeving en bekendheid met het functioneren van een duikploeg. De periode van twee jaar is voor de certificaathouder noodzakelijk om deze doorlopende beroepservaring te onderhouden. De controle van de doorlopende beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de ten minste twee jaarlijks CI inzage in zijn doorlopende beroepservaring van ten minste 20 duiken waaraan hij de leiding heeft gegeven voor subcategorie A1, A2 en B1 dan wel ten minste 30 duiken voor de overige subcategorieën waaraan hij de leiding heeft gegeven en door hiervan ten minste twee jaarlijks een overzicht te overleggen dan wel zodra aan deze eis van doorlopende beroepservaring per 24 maanden is voldaan.
 
-Wanneer één van de bovenstaande punten niet in orde is, dan wordt de Arbeids en Organisatiedeskundige (via de CKI) in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de Arbeids en Organisatiedeskundige hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De Arbeids en Organisatiedeskundige heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
-De examinator kijkt naar de inhoud van het portfolio. Het portfolio bestaat na vijf jaar uit een beschrijving van de volgende vijf kerntaken:
+De certificerende instelling besluit tot intrekking van een certificaat, indien de certificaathouder:
 
 De CKI maakt een plan voor de uitvoering van een controle, zoals bedoeld in paragraaf 6.2.
 
@@ -8063,11 +8103,11 @@ Het plan beschrijft ten minste:
 
 Het plan wordt schriftelijk aan de certificaathouder kenbaar gemaakt. De certificaathouder moet binnen zes weken na de aankondiging zijn medewerking verlenen aan de uitvoering van de controle.
 
-Minimaal vier cases kort uitgewerkt in een verslag, die eventueel tijdens de toegelaten beroepsopleiding in een ICT groep zijn besproken. Hieruit worden er dus de bijbehorende competenties, vier leervragen, vier verbeter en ontwikkelvoorstellen en vier verbeteracties beschreven. Deze punten kunnen overlappend zijn.
+De certificerende instelling besluit tot weigering van een certificaat, indien de certificaathouder:
 
 Indien de CKI inzage neemt in het duikploegleiderlogboek van de certificaathouder, dan wordt ingegaan op de volgende onderwerpen:
 
-Wanneer het portfolio niet in orde is, dan wordt de Arbeids en Organisatie deskundige in de gelegenheid gesteld om dit binnen zes weken alsnog aan te vullen. Indien de Arbeids en Organisatiedeskundige hierop niet reageert dan wordt de aanvraag door de CKI afgewezen. De Arbeids en Organisatiedeskundige wordt hiervan schriftelijk door de CKI op de hoogte gesteld. De Arbeids en Organisatiedeskundige heeft dan de mogelijkheid om een nieuwe aanvraag voor certificatie in te dienen bij de CKI.
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
 Indien de CKI de beoordeling van een praktijkverrichting noodzakelijk acht, dan moet de keuze van de vereiste verrichting beargumenteerd in verhouding staan tot de aanleiding voor de controle en de eindtermen en toetstermen van het certificatieschema.
 
@@ -8075,15 +8115,15 @@ Het uitvoeringsplan kan in overleg met de certificaathouder tot stand komen voor
 
 De praktijkverrichting die in de controle betrokken wordt, moet worden beoordeeld volgens de eisen van het certificatieschema.
 
-Indien het proces met één examinator niet goed functioneert worden er twee examinatoren ingezet tijdens examens.
+In het certificatieschema worden categorieën onderscheiden op grond van het gebruikte duikmaterieel, de maximaal bereikbare diepte en de aard van de omgeving waarin gedoken wordt. Het certificatieschema beschrijft de eisen die gesteld worden aan de vakbekwaamheid in de volgende categorieën:
 
 De CKI maakt een verslag van de bevindingen naar aanleiding van de controles in het kader van het tussentijds toezicht. In het verslag wordt ingegaan op:
 
 Het verslag wordt ter beschikking gesteld van de certificaathouder. Tegen de eventueel opgelegde maatregel kan de certificaathouder overeenkomstig paragraaf 4.7 een verzoek tot herziening indienen.
 
-De volgende gegevens worden (minimaal) op het certificaat vermeld:
+Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
 
-De volgende gegevens worden (minimaal) op het certificaat vermeld:
+De kandidaat wordt toegelaten tot het certificatieproces ter verkrijging van het wettelijk vereiste persoonscertificaat duikploegleider, indien hij voldoet aan de volgende entreecriteria:
 
 De certificerende instelling besluit tot schorsing van een certificaat, indien de certificaathouder:
 
@@ -8093,7 +8133,7 @@ De schorsing wordt verder opgeheven, indien de certificaathouder heeft voldaan a
 
 De schorsing als mede de opheffing van de schorsing wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
+De kandidaat is vakbekwaam als duikploegleider, indien hij voldoet aan de volgende eindtermen:
 
 De certificerende instelling besluit tot intrekking van een certificaat, indien de certificaathouder:
 
@@ -8101,17 +8141,17 @@ Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden
 
 De intrekking wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie.
+De CKI hanteert een standaardmethodiek om te beoordelen of de kandidaat voldoet aan de eindtermen. De vakbekwaamheid van de kandidaat wordt voor de verkrijging van het persoonscertificaat duikploegleider getoetst aan de volgende toetscriteria:
 
 De certificerende instelling besluit tot weigering van een certificaat, indien de certificaathouder:
 
 De weigering van een hercertificatie wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
+**verslag assessment**
 
 De CKI moet onmiddellijk bij de Nederlandse Arbeidsinspectie melding maken van de haar bekende feiten ten aanzien van een kandidaat of certificaathouder in de volgende gevallen:
 
-De kwaliteitsmanager registreert de klacht op een klachtenformulier en stelt de directeur CKI op de hoogte van de klacht. De directeur van de CKI wijst de klachtafhandelaar aan. De kwaliteitsmanager vermeldt de klachtafhandelaar op het klachtenformulier en brengt de klachtafhandelaar schriftelijk op de hoogte van de klacht. De klachtafhandelaar informeert de indiener van de klacht schriftelijk over de ontvangst van de klacht.
+De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CI ten minste tweejaarlijks inzage in zijn doorlopende beroepservaring van ten minste 20 duiken waaraan hij de leiding heeft gegeven voor de duikploegleider A1, A2 en B1 dan wel ten minste 30 duiken waaraan hij de leiding heeft gegeven voor de overige subcategorieën dan wel zodra aan deze eis van doorlopende beroepservaring is voldaan.
 
 De vakbekwaamheid die gecertificeerd wordt, betreft het leiden van een duikploeg, waarin duikarbeid wordt verricht. Onder duikarbeid wordt verstaan het verrichten van arbeid in een vloeistof of in een gesloten duikklok met inbegrip van het verblijf in die vloeistof of in die gesloten duikklok, waarbij voor de ademhaling gebruik wordt gemaakt van een gas onder een hogere druk dan de atmosferische druk.
 
@@ -8119,41 +8159,41 @@ In het certificatieschema worden categorieën onderscheiden op grond van het geb
 
 duikploegleider, waarbij de aard van de werkzaamheden waaraan leiding gegeven wordt, vermeld wordt:
 
-De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier. Hier wordt tevens vermeld dat het gaat om een incident.
+De kandidaat moet de documenten volledig aan de CKI overleggen. Ter voorkoming van fraude met certificaten moet de kandidaat altijd een geldig identiteitsbewijs kunnen overleggen. De CKI mag desalniettemin het initiatief nemen om te verifiëren bij de instantie die de documenten heeft afgegeven.
 
-Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
+Het examenpersoneel (examinatoren) heeft als doel de deskundigen te examineren bij initiële certificering en bij hercertificatie. Het examenpersoneel bestaat uit alle examinatoren die voor dit doel zijn aangewezen door de stichting BCD op voordracht van de beroepsverenigingen. Het examenpersoneel kiest uit de groep een vertegenwoordiger welke aanwezig is tijdens de vergaderingen van het CCvD ARBO ter advisering. Het examenpersoneel vormt het examenbureau. Het examenbureau is onafhankelijk van de beroepsverenigingen en opereert onder de verantwoording van de stichting BCD.
 
 De kandidaat wordt toegelaten tot het certificatieproces ter verkrijging van het wettelijk vereiste persoonscertificaat duikploegleider, indien hij voldoet aan de volgende entreecriteria:
 
-De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
+Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
 
-De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
+De kandidaat toont zijn leidinggevende vaardigheid in het kader van een documentenonderzoek aan met een portfolio waarin:
 
 In de omschrijving van de eind- en toetstermen wordt gesproken over elementaire kennis en uitgebreide kennis. Deze indicaties van het kennisniveau worden in dit certificatieschema als volgt geïnterpreteerd:
 
-De oplossing zoals die met de indiener is besproken wordt vastgelegd op het klachtenformulier. Hier wordt tevens vermeld dat het gaat om een incident.
+Het rollenspel is een nagespeelde situatie waarbij de kandidaat het gedrag dat bij een duikploegleider hoort, moet nabootsen of in bepaalde situaties moeten handelen om daardoor aan te tonen dat hij over als duikploegleider over leidinggevende vaardigheden beschikt.
 
 De kandidaat is vakbekwaam als duikploegleider, indien hij voldoet aan de volgende eindtermen:
 
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
+Uitgangspunt is dat een portfolio-examen bij voorkeur in de Nederlandse taal wordt afgenomen.
 
-Algemeen:
+Het theorie-examen voor de duikploegleider bestaat uit 2 delen:
 
-Het bezwaar wordt niet-ontvankelijk verklaard:
+Deel 1:
 
 De CKI hanteert een standaardmethodiek om te beoordelen of de kandidaat voldoet aan de eindtermen. De vakbekwaamheid van de kandidaat wordt voor de verkrijging van het persoonscertificaat duikploegleider getoetst aan de volgende toetscriteria:
 
 Toetstermen aangegeven met een ster zijn niet van toepassing voor duikploegleider A1 en A2.
 
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
+Het examen duurt voor ieder vak maximaal 40 minuten. Indien de vakken achtereenvolgens worden afgenomen, wordt na ieder vak 5 minuten pauze gehouden. Bij een examen bestaande uit meerdere vakken wordt iedere 85 minuten, namelijk na 2 vakken en 1 korte pauze, 15 minuten pauze gehouden. Het examen kan in deelexamens gespreid worden afgenomen.
 
-**verslag assessment**
+Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Ook wordt de totstandkoming van dit Competentieprofiel onderbouwd en wordt verwezen naar bronmateriaal. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
 
 De leidinggevende ervaring van de kandidaat mede beoordeeld aan de hand van het duikploegleiderslogboek, waarin ten minste melding wordt gemaakt van:
 
 De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CI ten minste tweejaarlijks inzage in zijn doorlopende beroepservaring van ten minste 20 duiken waaraan hij de leiding heeft gegeven voor de duikploegleider A1, A2 en B1 dan wel ten minste 30 duiken waaraan hij de leiding heeft gegeven voor de overige subcategorieën dan wel zodra aan deze eis van doorlopende beroepservaring is voldaan.
 
-Examinatoren die voldoen aan de bovenstaande eisen kunnen door de CKI worden benoemd en worden ingezet voor het afnemen van examens.
+De examinator besteedt tijdens het praktijkexamen aandacht aan de praktische verrichtingen van de kandidaat, waartoe ten minste behoren:
 
 Het voldoen aan de entreecriteria wordt beoordeeld door portfoliobeoordeling van de door de kandidaat overlegde documenten. De documenten voor de respectievelijke categorieën uit:
 
@@ -8161,11 +8201,11 @@ Duikploegleider:
 
 De kandidaat moet de documenten volledig aan de CKI overleggen. Ter voorkoming van fraude met certificaten moet de kandidaat altijd een geldig identiteitsbewijs kunnen overleggen. De CKI mag desalniettemin het initiatief nemen om te verifiëren bij de instantie die de documenten heeft afgegeven.
 
-Het examenpersoneel (examinatoren) heeft als doel de deskundigen te examineren bij initiële certificering en bij hercertificatie. Het examenpersoneel bestaat uit alle examinatoren die voor dit doel zijn aangewezen door de stichting BCD op voordracht van de beroepsverenigingen. Het examenpersoneel kiest uit de groep een vertegenwoordiger welke aanwezig is tijdens de vergaderingen van het CCvD ARBO ter advisering. Het examenpersoneel vormt het examenbureau. Het examenbureau is onafhankelijk van de beroepsverenigingen en opereert onder de verantwoording van de stichting BCD.
+Daarnaast onderscheidt hij zich in een specialisatie in het onderzoeken en/of adviseren op het gebied van gezonde organisaties.
 
 Het voldoen aan de toetstermen wordt beoordeeld door een portfoliobeoordeling, een theorie-examen en een praktijkexamen.
 
-Medewerkers van de CKI (inclusief de examinatoren) dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Medewerkers van de CKI hebben een verklaring van geheimhouding ondertekend.
+Voor de vervolgafgifte van het wettelijk verplichte persoonscertificaat duikploegleider gelden de volgende toetstermen:
 
 De kandidaat toont zijn leidinggevende vaardigheid in het kader van een documentenonderzoek aan met een portfolio waarin:
 
@@ -8175,7 +8215,7 @@ Het rollenspel is een nagespeelde situatie waarbij de kandidaat het gedrag dat b
 
 De opleidingsinstelling kan aan de CKI een leerlingvolgsysteem of toetskaart ter beschikking stellen, waarmee de CKI inzicht wordt verschaft over:
 
-Uitgangspunt is dat een portfolio-examen bij voorkeur in de Nederlandse taal wordt afgenomen.
+Het voldoen aan toetsterm H2.1 wordt geëxamineerd in een theorie-examen voor duikploegleider A3, B1, B2, B3 en B4. Het voldoen aan de toetsterm H3.1 wordt geëxamineerd eens in de vier jaar in een praktijkexamen bestaande uit een werkoefening in de praktijk. Als examinator bij het uitvoeren van het praktijkexamen behorend bij toetsterm H3.1 kan optreden iedere duikploegleider die:
 
 Het theorie-examen voor de duikploegleider bestaat uit 2 delen:
 
@@ -8187,7 +8227,7 @@ In de examenvakken moet de kandidaat zijn kennis ten aanzien van de toetstermen 
 
 Het examen duurt voor ieder vak maximaal 40 minuten. Indien de vakken achtereenvolgens worden afgenomen, wordt na ieder vak 5 minuten pauze gehouden. Bij een examen bestaande uit meerdere vakken wordt iedere 85 minuten, namelijk na 2 vakken en 1 korte pauze, 15 minuten pauze gehouden. Het examen kan in deelexamens gespreid worden afgenomen.
 
-Dit document bestaat uit vier hoofdstukken. Hoofdstuk 1 beschrijft het beroep. Ook wordt de totstandkoming van dit Competentieprofiel onderbouwd en wordt verwezen naar bronmateriaal. Hoofdstuk 2 beschrijft de kerntaken die de beroepsbeoefenaar uitvoert. Hoofdstuk 3 beschrijft de algemene en beroepsspecifieke competenties. Hoofdstuk 4 maakt inzichtelijk welke competenties ingezet worden bij de uitvoering van een kerntaak.
+De tekst vermeldt tevens of het certificaat is afgeven op grond van een initiële certificatie of een hercertificatie.
 
 De leidinggevende vaardigheid van de duikploegleider wordt getoetst aan toetstermen 1.6.1 tot en met 1.6.4, waarbij tevens de praktische toepassing van de overige toetstermen wordt betrokken.
 
@@ -8195,21 +8235,21 @@ Het praktijkexamen bestaat uit een door de CKI geleverde casus waarin de kandida
 
 De examinator besteedt tijdens het praktijkexamen aandacht aan de praktische verrichtingen van de kandidaat, waartoe ten minste behoren:
 
-De arbeids- en organisatiedeskundige houdt zich bezig met mensen en arbeid binnen een organisatie. Vanuit een veranderkundig perspectief adviseert de deskundige over onder andere gezondheidsmanagement, psychosociale arbeidsbelasting en de kwaliteit van de arbeid.
+**verslag assessment**
 
 De uitwerking van de cesuur wordt nader uitgewerkt in het uitvoeringsbesluit van de CKI en bij meerdere CKI’s op onderhavig WSCS eveneens in de centrale itembank. De uitwerkingen van het examen voor duikploegleider worden gewaardeerd met een cijfer op een schaal van 1 tot 10 waarvoor geldt:
 
 De kandidaat slaagt voor het theorie-examen, indien hij voor ieder examenvak afzonderlijk een cijfer van ten minste 6 heeft gehaald. Hiervoor dient hij ten minste 70% van de vragen juist hebben beantwoord. Het examenresultaat bestaat uit het cijfer voor het theorie-examen, de demonstratie van leidinggevende vaardigheden en het praktijkexamen.
 
-Daarnaast onderscheidt hij zich in een specialisatie in het onderzoeken en/of adviseren op het gebied van gezonde organisaties.
+In deze bijlage wordt verstaan onder:
 
-Daarnaast onderscheidt hij zich in een specialisatie in het onderzoeken en/of adviseren op het gebied van gezonde organisaties.
+Plaats examen:
 
 Voor de vervolgafgifte van het wettelijk verplichte persoonscertificaat duikploegleider gelden de volgende toetstermen:
 
 H.2.1 is niet van toepassing voor de duikploegleider A1 en A2.
 
-Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
+Artikel:
 
 De hercertificatie wordt beoordeeld door middel van een documentenonderzoek, een theorie-examen en een praktijkexamen. In het documentenonderzoek wordt toetsterm H1.1 beoordeeld en het documentenonderzoek bestaat ten minste uit de controle van een volledig geadministreerd duikploegleiderlogboek, waaruit de praktijkervaring in de afgelopen 24 maanden blijkt.
 
@@ -8217,11 +8257,11 @@ De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercerti
 
 Het voldoen aan toetsterm H2.1 wordt geëxamineerd in een theorie-examen voor duikploegleider A3, B1, B2, B3 en B4. Het voldoen aan de toetsterm H3.1 wordt geëxamineerd eens in de vier jaar in een praktijkexamen bestaande uit een werkoefening in de praktijk. Als examinator bij het uitvoeren van het praktijkexamen behorend bij toetsterm H3.1 kan optreden iedere duikploegleider die:
 
-In het beroep van Arbeids- en Organisatiedeskundige kan onderscheid gemaakt worden tussen algemene competenties – die in veel beroepen terug te vinden zijn – en beroepsspecifieke competenties. De algemene competenties zijn beschreven in paragraaf 3.1 en de beroepsspecifieke competenties zijn beschreven in paragraaf 3.2. De gebruikte aanduidingen zijn dezelfde als die in de kerntaak-competentie matrices in hoofdstuk 4.
+vragen, kennisvragen, enz.)
 
 De hercertificatie wordt verleend, indien de met het duikploegleiderlogboek aangetoonde praktijkervaring aan de gestelde eis voldoet en het theorie-examen en praktijkexamen voor hercertificatie met voldoende resultaat is afgerond.
 
-Beroepsuitoefenaars kunnen zich daar in meerdere of mindere mate in specialiseren.
+Beoordeling:
 
 Op het certificaat moeten minimaal de volgende gegevens vermeld zijn:
 
@@ -8229,51 +8269,11 @@ Op het certificaat wordt de tekst opgenomen dat de CKI verklaart dat de betreffe
 
 De tekst vermeldt tevens of het certificaat is afgeven op grond van een initiële certificatie of een hercertificatie.
 
-Per 1 april 2012 wordt er op de nieuwe manier van wetenschappelijk niveau (portfoliocyclus) gewerkt. Dit betekent voor certificatie-aanvragers die de opleiding reeds hebben afgerond dat zij nog initieel gecertificeerd kunnen worden op de ‘oude’ manier en daarna de portfoliocyclus voor hercertificatie ingaan.
+Beoordelingscriteria:
 
 Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden:
 
 Indien niet voldaan wordt aan deze condities kan het certificaat worden geschorst of ingetrokken.
-
-**verslag assessment**
-
-Naam examinandus:
-
-Certificatieschema:
-
-In deze bijlage wordt verstaan onder:
-
-Plaats examen:
-
-De eisen in NEN-EN-ISO/IEC 17024 zijn onverkort van toepassing voor het verlenen van een certificaat overeenkomstig deze bijlage, tenzij daarvan in deze bijlage wordt afgeweken.
-
-Naam document:
-
-Artikel:
-
-Vraag:
-
-Beoordelingscriteria:
-
-(welke (ant)woorden zijn goed/fout,
-
-vragen, kennisvragen, enz.)
-
-Antwoord examinandus:
-
-Beoordeling:
-
-Naam document:
-
-Artikel:
-
-Vraag:
-
-Beoordelingscriteria:
-
-(welke (ant)woorden zijn goed/fout,
-
-vragen, kennisvragen, enz.)
 
 Antwoord examinandus:
 
@@ -8281,11 +8281,11 @@ Beoordeling:
 
 Eindbeoordeling:
 
-(minimaal <invoegen> van de vragen goed beantwoord).
+In deze bijlage wordt verstaan onder:
 
 De certificerende instelling controleert het duiklogboek op zijn minst op de volgende criteria:
 
-vragen, kennisvragen, enz.)
+De eisen in NEN-EN-ISO/IEC 17024 zijn onverkort van toepassing voor het verlenen van een certificaat overeenkomstig deze bijlage, tenzij daarvan in deze bijlage wordt afgeweken.
 
 De kerndeskundige is een vak dat onder de Arbeids- en Organisatiedeskundige valt, hij kan zijn vak op verschillende manieren invullen. Bij iedere certificatieaanvraag en hercertificering dienen de competenties op basis van het niveau zoals omschreven in hoofdstuk 2 t/m 4 van het competentieprofiel Arbeids en Organisatiedeskundige te worden aangetoond. Daarnaast zijn er diverse specialisaties mogelijk zoals kennisspecialisatie, taakspecialisatie en branchespecialisatie. De hierna genoemde specialisaties zijn geen verplicht onderdeel van de regeling Arbeids en Organisatiedeskundige. De kerndeskundige is vrij om zich te specialiseren in deze diverse specialisaties. De basis van het vak is beschreven in de vijf kerntaken in hoofdstuk 2 van het competentieprofiel Arbeids en Organisatiedeskundige. Dit deel gaat in op de specialisaties van de kerndeskundige.
 
@@ -8323,7 +8323,7 @@ Tenslotte kan de Arbeids- en Organisatiedeskundige zich bijzonder bekwamen in be
 
 Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie A1 worden in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
 
-De kandidaat doet ervaring op met het gebruik van duikapparatuur van het type SCUBA bij het verrichten van werkzaamheden in het verband van een duikploeg, waarbij door de kandidaat minimaal 600 duikminuten worden gemaakt tot een maximale duikdiepte van 9 meter, waarvan;
+De certificerende instelling controleert het duiklogboek op zijn minst op de volgende criteria:
 
 Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De kandidaat heeft hierbij zowel aan de oppervlakte als onder water op een zelfstandige wijze werkzaamheden uitgevoerd. Hierdoor heeft hij kennis en ervaring opgedaan met:
 
@@ -8349,7 +8349,47 @@ Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De
 
 Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
 
-**INHOUD**
+De kandidaat wordt toegelaten tot het certificatieprocedure ter verkrijging van het wettelijk vereiste persoonscertificaat duikarbeid met aantekening van categorie A1, A2 of A3, indien hij voldoet aan de volgende entreecriteria:
+
+Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie B0 worden in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
+
+De kandidaat doet ervaring op met het gebruik van duikapparatuur met ademluchtvoorziening van de oppervlakte (SSE) bij het verrichten van werkzaamheden in het verband van een duikploeg, waarbij door de kandidaat ten minste 100 duikminuten worden gemaakt en wordt voldaan aan de volgende specificaties:
+
+De kandidaat wordt toegelaten tot het certificatieprocedure ter verkrijging van het wettelijk vereiste persoonscertificaat duikarbeid met aantekening van categorie C, indien hij voldoet aan de volgende entreecriteria:
+
+Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
+
+Het certificaat springmeester heeft een geldigheidsduur van maximaal vijf jaar te rekenen vanaf de dag van verstrekking.
+
+Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie A1 worden in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
+
+De kandidaat doet ervaring op met het gebruik van duikapparatuur van het type SCUBA bij het verrichten van werkzaamheden in het verband van een duikploeg, waarbij door de kandidaat minimaal 600 duikminuten worden gemaakt tot een maximale duikdiepte van 9 meter, waarvan;
+
+Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De kandidaat heeft hierbij zowel aan de oppervlakte als onder water op een zelfstandige wijze werkzaamheden uitgevoerd. Hierdoor heeft hij kennis en ervaring opgedaan met:
+
+Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
+
+Persoonscertificatie heeft tot doel aan belanghebbenden vertrouwen te bieden ten aanzien van de competentie van certificaathouders. Dit vertrouwen is gebaseerd op het voldoen door de CKI aan de hierna beschreven principes. Indien hieraan niet wordt voldaan, leidt dit tot risico’s met betrekking tot het functioneren van de CKI en kan het vertrouwen van belanghebbenden in de persoonscertificatieregeling Vuurwerkdeskundige worden geschaad. In het WSCS-VD, alsmede in onderhavig document, is specifiek voor de persoonscertificatieregeling Vuurwerkdeskundige aangegeven op welke wijze aan bedoelde principes invulling moet worden gegeven door de CKI. Dit om te voorkomen dat de risico’s met betrekking tot deze principes zich manifesteren.
+
+Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie A2 worden in aanvulling op de leerdoelstellingen voor subcategorie A1 in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
+
+De kandidaat doet ervaring op met het gebruik van duikapparatuur van het type SCUBA bij het verrichten van werkzaamheden in het verband van een duikploeg, waarbij door de kandidaat ten minste 300 duikminuten worden gemaakt en wordt voldaan aan de volgende specificaties:
+
+Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De kandidaat heeft hierbij zowel aan de oppervlakte als onder water op een zelfstandige wijze werkzaamheden uitgevoerd. Hierdoor heeft hij kennis en ervaring opgedaan met:
+
+Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
+
+Indien certificatiewerkzaamheden (bijvoorbeeld examinering) aan een externe partij worden uitbesteed door de CKI, dient hieraan een schriftelijke overeenkomst ten grondslag te liggen. Deze beschrijft de taken, bevoegdheden en verantwoordelijkheden van beide partijen, alsmede de regelingen met betrekking tot vertrouwelijkheid en het voorkomen van belangenverstrengeling alsmede, voor zover nodig, bezwaar en beroep. Het nemen van een certificatiebesluit kan niet worden uitbesteed door de CKI.
+
+Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie A3 worden in aanvulling op de leerdoelstellingen voor subcategorie A1 en A2 in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
+
+De kandidaat doet ervaring op met het gebruik van duikapparatuur van het type SCUBA bij het verrichten van werkzaamheden in het verband van een duikploeg, waarbij door de kandidaat minimaal 200 duikminuten worden gemaakt waarvan:
+
+Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De kandidaat heeft hierbij zowel aan de oppervlakte als onderwater op een zelfstandige wijze werkzaamheden uitgevoerd. Hierdoor heeft hij kennis en ervaring opgedaan met:
+
+Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
+
+Verder kan het certificaat op verzoek van de certificaathouder worden ingetrokken.
 
 Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie B0 worden in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
 
@@ -8359,7 +8399,7 @@ Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De
 
 Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
 
-Het certificaat springmeester heeft een geldigheidsduur van maximaal vijf jaar te rekenen vanaf de dag van verstrekking.
+Na de acceptatie in het CCvD van wijzigingen in het WSCS, biedt het CCvD het gewijzigde schema aan aan de minister van SZW. De Minister verklaart vervolgens het schema verbindend door middel van een statische verwijzing in de wet- en regelgeving. Indien de Minister overwegende bezwaren heeft tegen één of meer onderdelen treedt hij daarover in overleg met het CCvD. Het CCvD kan de schema’s vervolgens aanpassen. Indien het CCvD zich niet kan vinden in de bezwaren van minister zal zij dit met redenen omkleed aan de minister duidelijk maken. De Minister neemt vervolgens een besluit.
 
 Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie B1 worden in aanvulling op de leerdoelstellingen voor B0 in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
 
@@ -8369,7 +8409,7 @@ Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De
 
 Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat voor de in deze subcategorie aanvullende theoretische kennis opgedaan ten aanzien van:
 
-Persoonscertificatie heeft tot doel aan belanghebbenden vertrouwen te bieden ten aanzien van de competentie van certificaathouders. Dit vertrouwen is gebaseerd op het voldoen door de CKI aan de hierna beschreven principes. Indien hieraan niet wordt voldaan, leidt dit tot risico’s met betrekking tot het functioneren van de CKI en kan het vertrouwen van belanghebbenden in de persoonscertificatieregeling Vuurwerkdeskundige worden geschaad. In het WSCS-VD, alsmede in onderhavig document, is specifiek voor de persoonscertificatieregeling Vuurwerkdeskundige aangegeven op welke wijze aan bedoelde principes invulling moet worden gegeven door de CKI. Dit om te voorkomen dat de risico’s met betrekking tot deze principes zich manifesteren.
+De toetsmethodiek die wordt toegepast bij het bepalen van de competentie van aanvragers van het persoonscertificaat Vuurwerkdeskundige, is beschreven in de hoofdstukken 9 tot en met 11 van het WSCS-VD. Op basis van rapportages van de CKI (zie verder), bepaalt het CCvD tenminste jaarlijks de voortdurend de eerlijkheid, validiteit, betrouwbaarheid en actualiteit van de toetsmethodiek.
 
 Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie B2 worden in aanvulling op de leerdoelstellingen voor subcategorie B0 en B1 in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
 
@@ -8379,7 +8419,7 @@ Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De
 
 Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
 
-Indien certificatiewerkzaamheden (bijvoorbeeld examinering) aan een externe partij worden uitbesteed door de CKI, dient hieraan een schriftelijke overeenkomst ten grondslag te liggen. Deze beschrijft de taken, bevoegdheden en verantwoordelijkheden van beide partijen, alsmede de regelingen met betrekking tot vertrouwelijkheid en het voorkomen van belangenverstrengeling alsmede, voor zover nodig, bezwaar en beroep. Het nemen van een certificatiebesluit kan niet worden uitbesteed door de CKI.
+**C. Gesloten duikklok:**
 
 Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie B3 worden in aanvulling op de leerdoelstellingen voor subcategorie B0, B1 en B2 in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
 
@@ -8389,7 +8429,7 @@ Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De
 
 Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
 
-Verder kan het certificaat op verzoek van de certificaathouder worden ingetrokken.
+De kandidaat is vakbekwaam in het verrichten van duikarbeid in **categorie C**, indien de kandidaat in aanvulling op de eindtermen van categorie A3 en B4 voldoet aan de volgende eindtermen:
 
 Bij de duikopleiding die toegang geeft tot de certificatie in subcategorie B4 worden in aanvulling op de leerdoelstellingen voor subcategorie B0, B1, B2 en B3 in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
 
@@ -8399,7 +8439,7 @@ Voornoemde duikenoefeningen worden uitgevoerd in het verband van een duikploeg. 
 
 Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
 
-Na de acceptatie in het CCvD van wijzigingen in het WSCS, biedt het CCvD het gewijzigde schema aan aan de minister van SZW. De Minister verklaart vervolgens het schema verbindend door middel van een statische verwijzing in de wet- en regelgeving. Indien de Minister overwegende bezwaren heeft tegen één of meer onderdelen treedt hij daarover in overleg met het CCvD. Het CCvD kan de schema’s vervolgens aanpassen. Indien het CCvD zich niet kan vinden in de bezwaren van minister zal zij dit met redenen omkleed aan de minister duidelijk maken. De Minister neemt vervolgens een besluit.
+Alvorens tot acceptatie van een exameninstelling over te gaan, beoordeelt de CKI deze op het voldoen aan de eisen uit de paragrafen 5.2 tot en met 5.5 van het WSCS SCVE-VD. De resultaten en conclusies van deze beoordeling legt de CKI schriftelijk vast. De CKI herhaalt deze beoordeling van de exameninstelling tenminste jaarlijks. Ook woont de CKI tenminste jaarlijks een examen Vuurwerkdeskundige van de exameninstelling bij en legt de resultaten en conclusies hiervan schriftelijk vast. Indien door de CKI tijdens een beoordeling van de exameninstelling of bijwoning van een examen Vuurwerkdeskundige wordt vastgesteld dat niet wordt voldaan aan de gestelde eisen, dient de exameninstelling corrigerende maatregelen door te voeren, ten einde de vastgestelde afwijking te corrigeren en herhaling te voorkomen. De maximale termijn voor het doorvoeren van corrigerende maatregelen bedraagt drie maanden, met dien verstande dat dit te allen tijde vóór het eerstvolgende examen Vuurwerkdeskundige dient plaats te vinden.
 
 Bij de duikopleiding die toegang geeft tot de certificatie in hoofdcategorie C worden in aanvulling op de leerdoelstellingen voor subcategorie B4 in elk geval de volgende leerdoelstellingen onderscheiden en onderwezen:
 
@@ -8409,9 +8449,9 @@ Voornoemde duikoefeningen worden uitgevoerd in het verband van een duikploeg. De
 
 Voor het veilig kunnen verrichten van werkzaamheden in het verband van een duikploeg heeft de kandidaat theoretische kennis opgedaan ten aanzien van:
 
-De toetsmethodiek die wordt toegepast bij het bepalen van de competentie van aanvragers van het persoonscertificaat Vuurwerkdeskundige, is beschreven in de hoofdstukken 9 tot en met 11 van het WSCS-VD. Op basis van rapportages van de CKI (zie verder), bepaalt het CCvD tenminste jaarlijks de voortdurend de eerlijkheid, validiteit, betrouwbaarheid en actualiteit van de toetsmethodiek.
+Personeel van de CKI en de exameninstelling dat is betrokken bij het certificatieschema Vuurwerkdeskundige, dient een verklaring te ondertekenen, waarin zij te kennen geven de instructies van de CKI te zullen naleven, met inbegrip van die met betrekking tot vertrouwelijkheid en onafhankelijkheid van commerciële of andere belangen. Ook dienen zij te verklaren geen banden te hebben of te hebben gehad met aanvragers van het certificaat Vuurwerkdeskundige en examenkandidaten, waardoor hun onpartijdigheid in het geding zou kunnen komen.
 
-Wijzigingen in de certificatie-eisen Vuurwerkdeskundige, alsmede de daarop van toepassing zijnde overgangsregeling, worden door de CKI bekend gemaakt aan de certificaathouders, bijvoorbeeld door publicatie ervan. De CKI waarborgt dat alle certificaathouders binnen de overgangstermijn worden onderzocht op conformiteit met de gewijzigde certificatie-eisen. De CKI waarborgt dat toegang tot de certificatieprocedure niet wordt beperkt of belemmerd op basis van ongepaste financiële of andere voorwaarden, zoals het lidmaatschap van een beroepsvereniging. De CKI maakt tijdens het certificatieproces geen onderscheid tussen aanvragers van het certificaat Vuurwerkdeskundige, op basis van het feit of deze al dan niet een opleiding of training op het gebied van professioneel vuurwerk hebben gevolgd.
+De vakbekwaamheid van de kandidaat wordt voor de beoordeling ter verkrijging van het persoonscertificaat duikarbeid:
 
 De certificerende instelling beoordeelt door controle van het portfolio of voldaan wordt aan de entreecriteria, bedoeld in hoofdstuk 8. Het portfolio bestaat voor de respectievelijke categorieën ten minste uit:
 
@@ -8421,13 +8461,13 @@ De certificerende instelling beoordeelt door controle van het portfolio of volda
 
 **C. Gesloten duikklok:**
 
-Beoordelaar persoonscertificaat Vuurwerkdeskundige: Deze beoordeelt op basis van de door exameninstellingen aangeleverde examenresultaten of kandidaten in aanmerking komen voor een persoonscertificaat Vuurwerkdeskundigen rapporteert zijn/haar bevindingen en conclusies schriftelijk aan de beslisser (zie hieronder).
+In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
 
-Beslisser persoonscertificaat en exameninstelling Vuurwerkdeskundige: Deze besluit, op basis van de rapportages van de beoordelaar exameninstelling en de beoordelaar persoonscertificaat, tot het al dan niet accepteren van een exameninstelling voor het certificatieschema Vuurwerkdeskundige, respectievelijk het al dan niet toekennen van een persoonscertificaat Vuurwerkdeskundige aan een aanvrager.
+De wijze waarop de CKI gedurende de geldigheidstermijn van het persoonscertificaat Vuurwerkdeskundige toezicht houdt op de certificaathouder, is beschreven in hoofdstuk 6 van het WSCS SCVE-VD.
 
-De aan dit personeel gestelde eisen zijn hierna weergegeven.
+De wijze waarop de CKI gedurende de geldigheidstermijn van het persoonscertificaat Vuurwerkdeskundige toezicht houdt op de certificaathouder, is beschreven in hoofdstuk 6 van het WSCS SCVE-VD.
 
-Beoordelaar exameninstelling Vuurwerkdeskundige
+De criteria waaraan de certificaathouder Vuurwerkdeskundige dient te voldoen bij hercertificatie zijn beschreven in hoofdstuk 11 van het WSCS SCVE-VD.
 
 De kandidaat is vakbekwaam in het verrichten van duikarbeid in **categorie C**, indien de kandidaat in aanvulling op de eindtermen van categorie A3 en B4 voldoet aan de volgende eindtermen:
 
@@ -8439,41 +8479,41 @@ T14C. de kandidaat heeft kennis van de gevaren van het gebruik van de gesloten d
 
 T15C. de kandidaat is in staat de procedures voor het in- en uitsluizen (lock-out) en het vervoer onder druk uit te voeren.
 
-Alvorens tot acceptatie van een exameninstelling over te gaan, beoordeelt de CKI deze op het voldoen aan de eisen uit de paragrafen 5.2 tot en met 5.5 van het WSCS SCVE-VD. De resultaten en conclusies van deze beoordeling legt de CKI schriftelijk vast. De CKI herhaalt deze beoordeling van de exameninstelling tenminste jaarlijks. Ook woont de CKI tenminste jaarlijks een examen Vuurwerkdeskundige van de exameninstelling bij en legt de resultaten en conclusies hiervan schriftelijk vast. Indien door de CKI tijdens een beoordeling van de exameninstelling of bijwoning van een examen Vuurwerkdeskundige wordt vastgesteld dat niet wordt voldaan aan de gestelde eisen, dient de exameninstelling corrigerende maatregelen door te voeren, ten einde de vastgestelde afwijking te corrigeren en herhaling te voorkomen. De maximale termijn voor het doorvoeren van corrigerende maatregelen bedraagt drie maanden, met dien verstande dat dit te allen tijde vóór het eerstvolgende examen Vuurwerkdeskundige dient plaats te vinden.
+**Praktijkexamen A3**
 
-De eisen die gelden voor examenpersoneel zijn vastgelegd in paragraaf 5.3 van het WSCS SCVE-VD. Het examenpersoneel wordt voor aanstelling door de CKI beoordeeld op het voldoen aan deze eisen. Registraties van deze beoordeling worden door de CKI bewaard in het personeelsdossier van de betreffende medewerker van de exameninstelling.
+**Praktijkexamen B0**
 
 In dit hoofdstuk wordt verstaan onder:
 
-Niet uitbesteedbaar is de certificatiebeslissing, de afgifte van certificaten met de daaraan voorafgaande beoordeling van bewijsstukken, alsmede het hernieuwen van certificaten. De eisen aan de CKI die voortvloeien uit de overeenkomst met de SCVE en de toepassing van de certificatieregeling gelden onverkort voor de exameninstelling.
+**Praktijkexamens B2 en B3**
 
 De vakbekwaamheid van de kandidaat wordt door de certificerende instelling voor de verkrijging van het persoonscertificaat duikarbeid in categorie A1, A2 en A3 getoetst aan de volgende toetscriteria:
 
-Personeel van de CKI en de exameninstelling dat is betrokken bij het certificatieschema Vuurwerkdeskundige, dient een verklaring te ondertekenen, waarin zij te kennen geven de instructies van de CKI te zullen naleven, met inbegrip van die met betrekking tot vertrouwelijkheid en onafhankelijkheid van commerciële of andere belangen. Ook dienen zij te verklaren geen banden te hebben of te hebben gehad met aanvragers van het certificaat Vuurwerkdeskundige en examenkandidaten, waardoor hun onpartijdigheid in het geding zou kunnen komen.
+Een portfoliocontrole op categorie B3 en in aanvulling hierop ten minste een van de hieronder genoemde onderdelen A of B:
 
 De vakbekwaamheid van de kandidaat wordt voor de beoordeling ter verkrijging van het persoonscertificaat duikarbeid:
 
 die elk worden aangevuld met de volgende relevante toetscriteria:
 
-De CKI beschikt over een actueel dossier van elke eigen medewerker en elke medewerker van de gecontracteerde exameninstelling. Dit dossier is toegankelijk voor de persoon in kwestie en bevat de volgende informatie:
+**INHOUD**
 
 De vakbekwaamheid van de kandidaat wordt ter verkrijging van het persoonscertificaat duikarbeid in categorie C getoetst aan de volgende aanvullende toetscriteria:
 
-In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
+Voor de vervolgafgifte van het persoonscertificaat duikarbeid gelden de volgende toetscriteria:
 
-In hoofdstuk 12 van het WSCS SCVE-VD is beschreven welke gegevens door de CKI worden vermeld op de persoonscertificaten Vuurwerkdeskundige.
+Deel I van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CKI’s en voorwaarden waar onder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
 
-De wijze waarop de CKI gedurende de geldigheidstermijn van het persoonscertificaat Vuurwerkdeskundige toezicht houdt op de certificaathouder, is beschreven in hoofdstuk 6 van het WSCS SCVE-VD.
+Dit werkveldspecifieke certificatieschema voor personen is door het CCvD-VD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk.
 
-De wijze waarop de CKI gedurende de geldigheidstermijn van het persoonscertificaat Vuurwerkdeskundige toezicht houdt op de certificaathouder, is beschreven in hoofdstuk 6 van het WSCS SCVE-VD.
+Door het ministerie van SZW is het schema vastgesteld. Dit vastgestelde schema vervangt daarmee eerdere versies.
 
-De criteria waaraan de certificaathouder Vuurwerkdeskundige dient te voldoen bij hercertificatie zijn beschreven in hoofdstuk 11 van het WSCS SCVE-VD.
+De te certificeren vakbekwaamheid betreft:
 
-De criteria waaraan de certificaathouder Vuurwerkdeskundige dient te voldoen bij hercertificatie zijn beschreven in hoofdstuk 11 van het WSCS SCVE-VD.
+De hercertificatie wordt verleend, indien op basis van de met het duiklogboek aangetoonde praktijkervaring en de door de certificerende instelling beoordeelde proeve van bekwaamheid wordt aangetoond dat aan de toetscriteria H1 en H2 wordt voldaan.
 
 Het theorie-examen wordt uitgevoerd conform het examenreglement.
 
-De certificaathouder mag, indien van toepassing, door middel van een door de CKI beschikbaar gesteld beeldmerk of pictogram kenbaar maken gecertificeerd te zijn als Vuurwerkdeskundige. Het gebruik van logo’s van andere (bijvoorbeeld SCVE of RvA), al dan niet in combinatie met het beeldmerk of pictogram van de CKI, is uitsluitend toegestaan conform de voorwaarden van de eigenaar van het desbetreffende logo.
+Document: WSCS-OCE
 
 **Praktijkexamen A1**
 
@@ -8495,51 +8535,11 @@ Een portfoliocontrole op categorie B3 en in aanvulling hierop ten minste een van
 
 Voor categorie C voert de certificerende instelling een portfoliobeoordeling uit. Indien hieruit blijkt dat de kandidaat tijdens zijn opleiding getoetst is, is geen aanvullend praktijkexamen nodig.
 
-**INHOUD**
-
-**INHOUD**
-
-Voor de vervolgafgifte van het persoonscertificaat duikarbeid gelden de volgende toetscriteria:
-
-Deel I van dit certificatieschema bevat algemene uitgangspunten en bepalingen voor certificatie door CKI’s en voorwaarden waar onder de afgifte van certificaten dient te gebeuren. Beschreven wordt achtereenvolgens:
-
-Dit werkveldspecifieke certificatieschema voor personen is door het CCvD-VD opgesteld. Het betreft certificatie van vakbekwaamheid op het gebied van het uitvoeren van werkzaamheden met professioneel vuurwerk.
-
-Door het ministerie van SZW is het schema vastgesteld. Dit vastgestelde schema vervangt daarmee eerdere versies.
-
-De te certificeren vakbekwaamheid betreft:
-
-De hercertificatie wordt verleend, indien op basis van de met het duiklogboek aangetoonde praktijkervaring en de door de certificerende instelling beoordeelde proeve van bekwaamheid wordt aangetoond dat aan de toetscriteria H1 en H2 wordt voldaan.
-
-Het certificatiesysteem van de Certificatie Instelling (CKI) moet zijn gestructureerd in overeenstemming met de eisen uit de NEN-EV-ISO/IEC 17024:2012 en IAF GD 24:2004.
-
-Document: WSCS-OCE
-
-Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplicht certificatieschema voor de borging van de vakbekwaamheid van vuurwerkdeskundigen.
-
-Het tot ontbranding brengen van professioneel vuurwerk, het ter plaatse opbouwen, installeren, monteren, assembleren en na ontbranding verwijderen van professioneel vuurwerk, alsmede het bewerken, verwerken, verpakken, herverpakken, voormonteren, monteren en assembleren van professioneel vuurwerk in een inrichting als bedoeld in [artikel 3.2.1 Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=3.2.1), betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplicht certificatieschema voor de borging van de vakbekwaamheid van vuurwerkdeskundigen.
-
-Dit werkveldspecifieke certificatieschema (WSCS-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het WSCS is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen VD.
-
-Dit werkveldspecifieke certificatieschema (WSCS-VD) heeft betrekking op arbeid in relatie tot professioneel vuurwerk. Het WSCS is door de minister van SZW vastgesteld. Dit vastgestelde schema vervangt eerdere versies. Op- en of aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen VD.
-
-Document: WSCS-WOD-B
-
-Binnen het kader van dit certificatieschema zijn actief:
-
-Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in onderstaande tekst. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis voor het uitwerken van werkveldspecifieke eisen
-
-Dit werkveldspecifieke certificatieschema voor personen is door het Centraal College van Deskundigen ‘Werken onder overdruk’ opgesteld. Het betreft certificatie op het gebied van duikmedische begeleiding in een duikploeg. Dit schema is goedgekeurd door de Stichting werken onder overdruk en is vastgesteld door het Ministerie van Sociale Zaken en Werkgelegenheid. Dit schema vervangt eerdere versies.
-
-De te certificeren vakbekwaamheid betreft het optreden als duikmedisch begeleider. Het persoonscertificaat duikmedisch begeleider is wettelijk vereist op grond van [artikel 6.16 lid 7 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16). De duikmedisch begeleider maakt deel uit van de duikploeg en ondersteunt de persoon die duikarbeid verricht. Onder duikarbeid wordt in overeenstemming met [artikel 6.13 lid 1 onder letter a van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.13) verstaan het verrichten van arbeid in een vloeistof of in een gesloten duikklok met inbegrip van het verblijf in die vloeistof of in die gesloten duikklok, waarbij voor de ademhaling gebruik wordt gemaakt van een gas onder een hogere druk dan de atmosferische druk.
-
-Het certificatiesysteem van de certificerende instelling moet zijn gestructureerd in overeenstemming met de eisen uit de NEN-EN-ISO/IEC 17024:2012.
-
 Andere risico’s die zich voordoen bij het werken met vuurwerk zijn:
 
 Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlijk in de tekst van het certificatieschema voorkomen, maar deze begrippen of afkortingen zijn toch in de definitielijst opgenomen in verband met het feit dat de beheerstichting en het Ministerie van Sociale Zaken en Werkgelegenheid deze begrippen of afkortingen in direct verband tot dit certificatieschema kunnen hanteren.
 
-Indien de definities in dit document afwijken van de definities in NEN-EN-ISO/IEC 17024:2012 en mandatory documents, gelden de definities van dit document.
+Voor de vervolgafgifte van het persoonscertificaat duikarbeid gelden de volgende toetscriteria:
 
 Dit reglement omschrijft de procedures die relevant zijn voor het juist toepassen van het WSCS-VD. Hierbij moet gedacht worden aan onder meer procedures van aanvraag, de examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, de afgifte van certificaten/verklaringen, procedures bij het uitvoeren van keuringen, klachtenafhandeling en herziening.
 
@@ -8549,7 +8549,7 @@ Duikarbeid is een risicovolle beroepsactiviteit. Om het maatschappelijke belang 
 
 De certificatiebeslissing wordt genomen door een functionaris van de CKI die niet betrok- ken is geweest bij de beoordeling van de kandidaten en daartoe is gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de CKI heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
 
-Dit werkveldspecifieke certificatieschema wordt aangeduid als WSCS-WOD-B. Het certificatieschema is door de Stichting werken onder overdruk (SWOD), als beheerstichting goedgekeurd en aangeboden aan het Ministerie van Sociale Zaken. De Minister van Sociale Zaken en Werkgelegenheid stelt het schema vast. De Minister van Sociale Zaken en Werkgelegenheid kan wijzigingen aanbrengen in de vastgestelde documenten. Dit schema vervangt eerdere versies. Op- en aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen ‘Werken onder overdruk’.
+De hercertificatie wordt verleend, indien op basis van de met het duiklogboek aangetoonde praktijkervaring en de door de certificerende instelling beoordeelde proeve van bekwaamheid wordt aangetoond dat aan de toetscriteria H1 en H2 wordt voldaan.
 
 Onder verantwoordelijkheid van het CCvD-VD is een risicoanalyse opgesteld van de gevaren en de risico’s in het werkveld. Deze beoordeling is weergegeven in paragraaf 3.3. De risicoanalyse en de hieruit naar voor gekomen afbreukcriteria gelden als basis de maximale geldigheidsduur van het persoonscertificaat Vuurwerkdeskundige. Deze is door het CCvD-VD vastgesteld op 3 jaar.
 
@@ -8563,41 +8563,81 @@ De afzonderlijke risicofactoren treden vaak in onderlinge combinatie en per defi
 
 Deze incidenten kunnen verder worden voorkomen door:
 
-De persoon die duikarbeid verricht, is afhankelijk van materieel en van de andere leden van de duikploeg. De duiklocatie is vaak ver verwijderd van medische assistentie en in relatie tot duiken kunnen specifieke complicaties optreden. De duikmedisch begeleider in de duikploeg is in staat om in het geval van calamiteiten onmiddellijk assistentie te verlenen.
+Document: WSCS-WOD-B
 
 Een meer omvangrijke risicoanalyse is opgenomen in het document Werkveldspecifiek document voor aanwijzing en toezicht op de certificerende instellingen belast met persoonscertificatie op het gebied van werken onder overdruk (WDAT-WOD-P).
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
-Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie. In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
+Dit werkveldspecifieke certificatieschema voor personen is door het Centraal College van Deskundigen ‘Werken onder overdruk’ opgesteld. Het betreft certificatie op het gebied van duikmedische begeleiding in een duikploeg. Dit schema is goedgekeurd door de Stichting werken onder overdruk en is vastgesteld door het Ministerie van Sociale Zaken en Werkgelegenheid. Dit schema vervangt eerdere versies.
 
-Dit reglement omschrijft de procedures die relevant zijn voor de juiste toepassing van het specifieke schema. Hierbij moet gedacht worden aan onder meer de procedures van de aanvraag, examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, afgifte van certificaten, procedures bij het uitvoeren van beoordelingen, klachtenafhandeling en het indienen van verzoeken om herziening.
+De te certificeren vakbekwaamheid betreft het optreden als duikmedisch begeleider. Het persoonscertificaat duikmedisch begeleider is wettelijk vereist op grond van [artikel 6.16 lid 7 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16). De duikmedisch begeleider maakt deel uit van de duikploeg en ondersteunt de persoon die duikarbeid verricht. Onder duikarbeid wordt in overeenstemming met [artikel 6.13 lid 1 onder letter a van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.13) verstaan het verrichten van arbeid in een vloeistof of in een gesloten duikklok met inbegrip van het verblijf in die vloeistof of in die gesloten duikklok, waarbij voor de ademhaling gebruik wordt gemaakt van een gas onder een hogere druk dan de atmosferische druk.
 
-Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
+Het certificatiesysteem van de certificerende instelling moet zijn gestructureerd in overeenstemming met de eisen uit de NEN-EN-ISO/IEC 17024:2012.
 
 De aanvrager dient in overeenstemming met dit certificatiereglement een aanvraag in voor het Persoonscertificaat Duikmedisch Begeleider bij een certificerende instelling (CKI). Vervolgens verstrekt de certificerende instelling alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
 
-Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte, legt een dossier aan t.b.v. de voortgangsbewaking en neemt de afhandeling van de klacht mee door bedrijf/persoon bij eerstvolgende beoordeling.
+Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlijk in de tekst van het certificatieschema voorkomen, maar deze begrippen of afkortingen zijn toch in de definitielijst opgenomen in verband met het feit dat de beheerstichting en het Ministerie van Sociale Zaken en Werkgelegenheid deze begrippen of afkortingen in direct verband tot dit certificatieschema kunnen hanteren.
 
-De certificatiebeslissing wordt genomen door een functionaris van de certificerende instelling die niet betrokken is geweest bij de beoordeling van de kandidaten. Hij is daartoe gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de certificatie-instelling heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
+Indien de definities in dit document afwijken van de definities in NEN-EN-ISO/IEC 17024:2012 en mandatory documents, gelden de definities van dit document.
 
 Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij.
 
 De geldigheidsduur van het certificaat beperkt duikmedische begeleider (EHBO duikarbeid), duikmedisch begeleider (mad A) en uitgebreid duikmedisch begeleider (mad B) is op grond van de risicoanalyse twee kalenderjaren. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in de verrichtingen, vertrouwdheid met de werkomgeving en bekendheid met het functioneren van een duikploeg. Na vier jaar volgt de certificaathouder een herhalingsopleiding en moet opnieuw een theorie- en praktijkexamen afleggen. De herhalingsopleiding en examinering is noodzakelijk, omdat de vakbekwaamheid verrichtingen betreft die slechts in noodsituaties worden toegepast en waarin de certificaathouder normaliter geen praktijkervaring opdoet. Voor de uitgebreid duikmedisch begeleider (mad B) is de geldigheid op basis van andere wet en regelgeving beperkt tot 1 jaar vanwege de voorbehouden medische handelingen.
 
-Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
+Duikarbeid is een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van personen die duikmedische begeleiding verlenen.
 
 Met betrekking tot de geldigheid van het certificaat worden nadere condities gesteld. Als niet aan de condities wordt voldaan, dan heeft dat consequenties voor het certificaat. De condities en de wijze van toezicht daarop door de certificerende instelling worden beschreven in deel II van het certificatieschema.
 
-De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
+Dit werkveldspecifieke certificatieschema wordt aangeduid als WSCS-WOD-B. Het certificatieschema is door de Stichting werken onder overdruk (SWOD), als beheerstichting goedgekeurd en aangeboden aan het Ministerie van Sociale Zaken. De Minister van Sociale Zaken en Werkgelegenheid stelt het schema vast. De Minister van Sociale Zaken en Werkgelegenheid kan wijzigingen aanbrengen in de vastgestelde documenten. Dit schema vervangt eerdere versies. Op- en aanmerkingen over het certificatieschema kunnen worden ingediend bij het Centraal College van Deskundigen ‘Werken onder overdruk’.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
+
+Binnen het kader van dit certificatieschema zijn actief:
+
+Aan een CKI worden onder meer de volgende eisen gesteld:
+
+De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
+
+De afzonderlijke risicofactoren treden vaak in onderlinge combinatie en per definitie in combinatie met de onderdompeling in water op. De gevolgen van een incident kunnen daarom zeer ernstig zijn. In de praktijk blijken de naleving van voorschriften in wet- en regelgeving en het gebruik van deugdelijk duik- en caissonmaterieel de belangrijkste factoren ter voorkoming van incidenten te zijn.
+
+Deze incidenten kunnen verder worden voorkomen door:
+
+De persoon die duikarbeid verricht, is afhankelijk van materieel en van de andere leden van de duikploeg. De duiklocatie is vaak ver verwijderd van medische assistentie en in relatie tot duiken kunnen specifieke complicaties optreden. De duikmedisch begeleider in de duikploeg is in staat om in het geval van calamiteiten onmiddellijk assistentie te verlenen.
+
+Een meer omvangrijke risicoanalyse is opgenomen in het document Werkveldspecifiek document voor aanwijzing en toezicht op de certificerende instellingen belast met persoonscertificatie op het gebied van werken onder overdruk (WDAT-WOD-P).
+
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
+
+Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
+
+Dit reglement omschrijft de procedures die relevant zijn voor de juiste toepassing van het specifieke schema. Hierbij moet gedacht worden aan onder meer de procedures van de aanvraag, examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, afgifte van certificaten, procedures bij het uitvoeren van beoordelingen, klachtenafhandeling en het indienen van verzoeken om herziening.
+
+Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte legt dossier aan tbv voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling.
+
+De aanvrager dient in overeenstemming met dit certificatiereglement een aanvraag in voor het Persoonscertificaat Duikmedisch Begeleider bij een certificerende instelling (CKI). Vervolgens verstrekt de certificerende instelling alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
+
+Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij.
+
+De certificatiebeslissing wordt genomen door een functionaris van de certificerende instelling die niet betrokken is geweest bij de beoordeling van de kandidaten. Hij is daartoe gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de certificatie-instelling heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
+
+Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
+
+De geldigheidsduur van het certificaat beperkt duikmedische begeleider (EHBO duikarbeid), duikmedisch begeleider (mad A) en uitgebreid duikmedisch begeleider (mad B) is op grond van de risicoanalyse twee kalenderjaren. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in de verrichtingen, vertrouwdheid met de werkomgeving en bekendheid met het functioneren van een duikploeg. Na vier jaar volgt de certificaathouder een herhalingsopleiding en moet opnieuw een theorie- en praktijkexamen afleggen. De herhalingsopleiding en examinering is noodzakelijk, omdat de vakbekwaamheid verrichtingen betreft die slechts in noodsituaties worden toegepast en waarin de certificaathouder normaliter geen praktijkervaring opdoet. Voor de uitgebreid duikmedisch begeleider (mad B) is de geldigheid op basis van andere wet en regelgeving beperkt tot 1 jaar vanwege de voorbehouden medische handelingen.
+
+De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
+
+Met betrekking tot de geldigheid van het certificaat worden nadere condities gesteld. Als niet aan de condities wordt voldaan, dan heeft dat consequenties voor het certificaat. De condities en de wijze van toezicht daarop door de certificerende instelling worden beschreven in deel II van het certificatieschema.
+
+Examenpersoneel moet voldoen aan de algemene, vakinhoudelijke en onafhankelijkheidseisen van de CKI zoals opgenomen in competentieprofielen en andere relevante documenten. Het selectieproces moet garanderen dat examenpersoneel dat (een deel van) een examen afneemt ten minste voldoet aan de volgende eisen:
+
+Voor de aanstelling en begeleiding van nieuwe examinatoren, dient een exameninstelling te beschikken over een gedocumenteerde procedure.
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
+Algemeen:
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -8605,7 +8645,7 @@ Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient 
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
-De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden conform de overeenkomst met SCVE tenminste zo vaak als mutaties zich voordoen ter kennisgeving elektronisch verzonden aan het secretariaat van SCVE. De CKI zet een certificaatregister Vuurwerkdeskundige op conform wettelijke bepalingen. Dit register wordt via internet toegankelijk gemaakt. De CKI is verantwoordelijk voor het beheer van het register. Vanaf de website van SCVE wordt doorgelinkt naar de website van de CKI met daarop het certificaatregister.
+Te stellen eisen aan het examen zijn:
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
@@ -8629,57 +8669,17 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-Examenpersoneel moet voldoen aan de algemene, vakinhoudelijke en onafhankelijkheidseisen van de CKI zoals opgenomen in competentieprofielen en andere relevante documenten. Het selectieproces moet garanderen dat examenpersoneel dat (een deel van) een examen afneemt ten minste voldoet aan de volgende eisen:
-
-Voor de aanstelling en begeleiding van nieuwe examinatoren, dient een exameninstelling te beschikken over een gedocumenteerde procedure.
-
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
-
-De kwaliteitsmanager registreert de klacht op een klachtenformulier en stelt de directeur CKI op de hoogte van de klacht. De directeur van de CKI wijst de klachtafhandelaar aan. De kwaliteitsmanager vermeldt de klachtafhandelaar op het klachtenformulier en brengt de klachtafhandelaar schriftelijk op de hoogte van de klacht. De klachtafhandelaar informeert de indiener van de klacht schriftelijk over de ontvangst van de klacht
-
-Algemeen:
-
-Het bezwaar wordt niet-ontvankelijk verklaard:
-
-Te stellen eisen aan de examenlocatie zijn:
-
-Te stellen eisen aan het examen zijn:
-
-Te stellen eisen aan het examen zijn:
-
-Elke exameninstelling is verantwoordelijk voor het beheer van haar eigen itembank. Dit geschiedt onder strikte geheimhouding door de examencommissie van de exameninstelling.
-
-De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
-
-Het doel van het toezicht is om de vakbekwaamheid van gecertificeerd personeel te borgen. De CKI is verplicht te beoordelen of de certificaathouder voldoet aan de gestelde eisen. Afhankelijk van het onderwerp van certificatie, de periode van certificatie en de risicoanalyse wordt het toezicht ingevuld.
-
-Het Centraal College van Deskundigen ‘Werken onder overdruk’ moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, certificerende instellingen of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
-
-De certificaathouder is verplicht mee te werken aan toezicht door de CKI, de nationale accreditatie-instelling, de Nederlandse Arbeidsinspectie en eventuele andere overheidsinstanties. In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen.
-
-De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en/of praktijkexamen waarmee de vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat voor uitgebreid duikmedisch begeleider (mad B) dient een praktijkstage in een ziekenhuis te volgen om voorbehouden handelingen te mogen doen gevolgd door een pratijkexamen door de begeleidend arts. De kandidaat dient in elk geval te voldoen aan de gestelde entree-eisen.
-
-De CKI houdt hierbij rekening met het volgende:
-
-De CKI rapporteert jaarlijks aan het CCvD-VD over het aantal en de aard van de over certificaathouders ontvangen klachten en over de wijze waarop deze zijn afgehandeld en eventueel ingestelde sancties naar aanleiding hiervan, het op de certificaathouders uitgevoerde toezicht, de resultaten en eventueel ingestelde sancties naar aanleiding hiervan. Indien het CCvD-VD op basis van deze rapportages van mening is dat aanvullend toezicht gewenst is, kan door de minister van SZW, o.a. op advies van het CCvD-VD, worden besloten tot aanvullende dan wel alternatieve controles. In deze paragraaf zal in dat geval worden aangegeven uit waaruit deze controles dienen te bestaan, wat hun omvang dient te zijn en met welke frequentie de controles worden uitgevoerd.
-
-De CKI rapporteert jaarlijks aan het CCvD-VD over het aantal en de aard van de over certificaathouders ontvangen klachten en over de wijze waarop deze zijn afgehandeld en eventueel ingestelde sancties naar aanleiding hiervan, het op de certificaathouders uitgevoerde toezicht, de resultaten en eventueel ingestelde sancties naar aanleiding hiervan. Indien het CCvD-VD op basis van deze rapportages van mening is dat aanvullend toezicht gewenst is, kan door de minister van SZW, o.a. op advies van het CCvD-VD, worden besloten tot aanvullende dan wel alternatieve controles. In deze paragraaf zal in dat geval worden aangegeven uit waaruit deze controles dienen te bestaan, wat hun omvang dient te zijn en met welke frequentie de controles worden uitgevoerd.
-
-Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het Persoonscertificaat duikmedisch begeleider (WSCS-WOD-B).
-
-Het examenreglement is onderdeel van WSCS-WOD-B. De examinering geschiedt onder verantwoordelijkheid van de certificerende instelling en bestaat uit de volgende onderdelen:
-
 Het examen wordt door de certificerende instelling afgenomen.
 
 De CKI stelt de certificaathouder schriftelijk en met opgave van redenen op de hoogte van zijn beslissing naar aanleiding van het klachtenonderzoek. Eventuele extra kosten die aan de maatregel zijn verbonden kunnen door de CKI aan de certificaathouder in rekening worden gebracht. De CKI stelt een verslag op van de bevindingen van het toezicht. Dit verslag wordt ter beschikking gesteld van de certificaathouder. Deze kan naar aanleiding hiervan een klacht of herzieningsverzoek indienen bij de CKI. De daarbij te volgen werkwijzen zijn beschreven in paragraaf 4.6 en 4.7 van onderhavig document.
 
-De certificerende instelling stelt haar werkwijze rond de examens nader vast in een uitvoeringsbesluit ten aanzien van het examenreglement. Het uitvoeringsbesluit bevat ten minste de volgende bepalingen:
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
 Indien blijkt dat een certificaathouder niet voldoet aan de eisen of normen in het werkveldspecifieke certificatieschema heeft dit op zo kort mogelijke termijn maatregelen door de CKI tot gevolg. Mogelijke maatregelen zijn het weigeren, schorsen of intrekken van het certificaat.
 
-Het examenpersoneel moet voldoen aan de algemene en vakinhoudelijk eisen alsmede onafhankelijkheidseisen die zijn gesteld in het Werkveldspecifieke document voor aan wijzing en toezicht voor certificerende instellingen bij persoonscertificatie (WDAT-WOD-P).
+Algemeen:
 
-In aanvulling op het WDAT-WOD-P gelden voor de examinator die betrokken is bij de beoordeling van de demonstratie van praktische vaardigheden en het praktijkeindexamen de volgende eisen, waaruit de deskundigheid blijkt:
+Het bezwaar wordt niet-ontvankelijk verklaard:
 
 Weigeren van het certificaat vindt plaats indien de aanvrager bij initiële certificatie niet voldoet aan de entreecriteria uit hoofdstuk 8 van dit document, dan wel bij hercertificatie niet voldoet aan de criteria uit hoofdstuk 11. Verder vindt weigering plaats indien van de aanvrager een eerder persoonscertificaat binnen het toepassingsgebied korter dan een jaar geleden is ingetrokken.
 
@@ -8689,6 +8689,46 @@ De medewerkers van de certificerende instelling dragen zorg voor de absolute geh
 
 Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden dient dezelfde procedure doorlopen te worden als bij initiële certificatie. Bij het opleggen van een sanctie dient de CKI aan te geven (en te registreren) na welke periode certificatie weer is toegestaan. Opnieuw certificeren na een intrekking kan pas na een jaar na de datum van intrekking. De CKI dient voor verstrekking van een certificaat bij het centraal registratiesysteem te verifiëren of er geen sprake is van een intrekking met de daaraan gekoppelde wachtperiode.
 
+De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
+
+De eisen ten aanzien van de examenmiddelen voor het theorie-examen zijn:
+
+Het Centraal College van Deskundigen ‘Werken onder overdruk’ moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, certificerende instellingen of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
+
+De eisen ten aanzien van de faciliteiten voor het praktijkexamen worden uitgewerkt door de certificerende instelling. De certificerende instelling ziet toe op de juiste inrichting, het onderhoud en juiste gebruik van de faciliteiten. De certificerende instelling kan hiertoe controles uitvoeren.
+
+De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en/of praktijkexamen waarmee de vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat voor uitgebreid duikmedisch begeleider (mad B) dient een praktijkstage in een ziekenhuis te volgen om voorbehouden handelingen te mogen doen gevolgd door een pratijkexamen door de begeleidend arts. De kandidaat dient in elk geval te voldoen aan de gestelde entree-eisen.
+
+De CKI houdt hierbij rekening met het volgende:
+
+Het toezicht heeft tot doel om de vakbekwaamheid van gecertificeerd personeel te borgen. De certificerende instelling is verplicht te beoordelen of de certificaathouder blijft voldoen aan de gestelde eisen. Alhoewel de certificerende instelling normaliter geen tussentijds toezicht uitvoert vanwege de beperkte geldigheidsduur van twee kalenderjaren, moet de certificerende instelling wel tussentijds toezicht uitvoeren. Voor de uitgebreid duikmedisch begeleider is op grond van andere wet en regelgeving een doorlopende jaarlijkse beroepservaring geëist om voorbehouden medische handelingen te mogen uitvoeren. De CKI dient hierop tussentijds toezicht uit te voeren. Deze situaties zijn nader uitgewerkt in paragraaf 6.2. De certificaathouder is verplicht mee te werken aan toezicht door de certificerende instelling, de nationale accreditatie-instelling en de Nederlandse Arbeidsinspectie.
+
+In de overeenkomst tussen de certificerende instelling en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waartoe ten minste de volgende verplichtingen van de certificaathouder behoren:
+
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het Persoonscertificaat duikmedisch begeleider (WSCS-WOD-B).
+
+Het examenreglement is onderdeel van WSCS-WOD-B. De examinering geschiedt onder verantwoordelijkheid van de certificerende instelling en bestaat uit de volgende onderdelen:
+
+Het examen wordt door de certificerende instelling afgenomen.
+
+Voor de minimale frequentie en tijdsbesteding van initiële beoordeling, herbeoordeling en periodieke beoordelingen gelden onderstaande tabellen.
+
+De certificerende instelling stelt haar werkwijze rond de examens nader vast in een uitvoeringsbesluit ten aanzien van het examenreglement. Het uitvoeringsbesluit bevat ten minste de volgende bepalingen:
+
+De CKI maakt een plan voor de uitvoering van een controle zoals bedoeld in paragraaf 6.2.
+
+Het examenpersoneel moet voldoen aan de algemene en vakinhoudelijk eisen alsmede onafhankelijkheidseisen die zijn gesteld in het Werkveldspecifieke document voor aan wijzing en toezicht voor certificerende instellingen bij persoonscertificatie (WDAT-WOD-P).
+
+In aanvulling op het WDAT-WOD-P gelden voor de examinator die betrokken is bij de beoordeling van de demonstratie van praktische vaardigheden en het praktijkeindexamen de volgende eisen, waaruit de deskundigheid blijkt:
+
+Indien het aantal onaangekondigde projectbeoordelingen in een certificatiejaar niet is uitgevoerd doordat de certificaathouder te weinig projecten in uitvoering heeft c.q. bij de CKI heeft aangemeld, dient het ontbrekend aantal in het daarop volgende certificatiejaar alsnog te worden uitgevoerd. De CKI legt een dergelijke maatregel schriftelijk in het dossier vast. Deze maatregel kan slechts één keer in een certificatieperiode worden toegepast. Als hier niet aan kan worden voldaan, dient de CKI het certificaat in te trekken. Hierop is paragraaf 4.2.6 en 5.4 niet van toepassing.
+
+Indien de certificerende instelling de beoordeling van een praktijkverrichting noodzakelijk acht, dan moet de keuze van de vereiste verrichting beargumenteerd in verhouding staan tot de aanleiding voor de controle en de eindtermen en toetstermen van het certificatieschema.
+
+De medewerkers van de certificerende instelling dragen zorg voor de absolute geheimhouding van de examenopgaven. De handhaving van de geheimhouding geschiedt vanuit de certificerende instelling.
+
+De praktijkverrichting die in de controle betrokken wordt, moet worden beoordeeld volgens de eisen van het certificatieschema.
+
 De eisen die gesteld worden aan de examenlocatie voor het theorie-examen zijn:
 
 De eisen ten aanzien van de examenmiddelen voor het theorie-examen zijn:
@@ -8697,23 +8737,23 @@ Het theorie-examen wordt afgenomen in de Nederlandse taal. Het theorie-examen wo
 
 De eisen ten aanzien van de faciliteiten voor het praktijkexamen worden uitgewerkt door de certificerende instelling. De certificerende instelling ziet toe op de juiste inrichting, het onderhoud en juiste gebruik van de faciliteiten. De certificerende instelling kan hiertoe controles uitvoeren.
 
-De te certificeren vakbekwaamheid betreft:
+Kandidaten die in aanmerking willen komen voor het WSCS-VD met beide toepassingsgebieden, worden geëxamineerd op basis van de toetstermen in de categorieën a, b en c. Het examen bestaat uit meerkeuzevragen, open vragen en cases en duurt in totaal 4,5 uur.
 
-De te certificeren vakbekwaamheid betreft:
+De certificerende instelling besluit tot schorsing van een certificaat, indien de certificaathouder:
 
 Het toezicht heeft tot doel om de vakbekwaamheid van gecertificeerd personeel te borgen. De certificerende instelling is verplicht te beoordelen of de certificaathouder blijft voldoen aan de gestelde eisen. Alhoewel de certificerende instelling normaliter geen tussentijds toezicht uitvoert vanwege de beperkte geldigheidsduur van twee kalenderjaren, moet de certificerende instelling wel tussentijds toezicht uitvoeren. Voor de uitgebreid duikmedisch begeleider is op grond van andere wet en regelgeving een doorlopende jaarlijkse beroepservaring geëist om voorbehouden medische handelingen te mogen uitvoeren. De CKI dient hierop tussentijds toezicht uit te voeren. Deze situaties zijn nader uitgewerkt in paragraaf 6.2. De certificaathouder is verplicht mee te werken aan toezicht door de certificerende instelling, de nationale accreditatie-instelling en de Nederlandse Arbeidsinspectie.
 
 In de overeenkomst tussen de certificerende instelling en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waartoe ten minste de volgende verplichtingen van de certificaathouder behoren:
 
-De kandidaat voldoet aan de volgende eindtermen en is dientengevolge vakbekwaam.
+De toetstermen in elk van bovengenoemde categorieën worden geëxamineerd op basis van:
 
 De CKI voert indien nodig tussentijdse controles uit. De CKI moet een certificaathouder in elk geval tussentijds controleren in de volgende situaties:
 
 De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in de verrichtingen, vertrouwdheid met de werkomgeving en bekendheid met het functioneren van een duikploeg. Na twee kalenderjaren volgt de certificaathouder een herhalingsopleiding en moet opnieuw een theorie- en praktijkexamen afleggen. De herhalingsopleiding en examinering is noodzakelijk, omdat de vakbekwaamheid verrichtingen betreft die slechts in noodsituaties worden toegepast en waarin de certificaathouder normaliter geen praktijkervaring opdoet.
 
-Voor de minimale frequentie en tijdsbesteding van initiële beoordeling, herbeoordeling en periodieke beoordelingen gelden onderstaande tabellen.
+De intrekking wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-5.2.2. Tussentijdse steekproef (onaangekondigde projectbeoordelingen)
+De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
 
 De CKI maakt een plan voor de uitvoering van een controle zoals bedoeld in paragraaf 6.2.
 
@@ -8721,7 +8761,7 @@ Het plan beschrijft ten minste:
 
 Het plan wordt schriftelijk aan de certificaathouder kenbaar gemaakt. De certificaathouder moet binnen zes weken na de aankondiging zijn medewerking verlenen aan de uitvoering van de controle.
 
-Indien het aantal onaangekondigde projectbeoordelingen in een certificatiejaar niet is uitgevoerd doordat de certificaathouder te weinig projecten in uitvoering heeft c.q. bij de CKI heeft aangemeld, dient het ontbrekend aantal in het daarop volgende certificatiejaar alsnog te worden uitgevoerd. De CKI legt een dergelijke maatregel schriftelijk in het dossier vast. Deze maatregel kan slechts één keer in een certificatieperiode worden toegepast. Als hier niet aan kan worden voldaan, dient de CKI het certificaat in te trekken. Hierop is paragraaf 4.2.6 en 5.4 niet van toepassing.
+De certificerende instelling moet onmiddellijk bij de Nederlandse Arbeidsinspectie melding maken van de haar bekende feiten ten aanzien van een kandidaat of certificaathouder in de volgende gevallen:
 
 Indien de certificerende instelling de beoordeling van een praktijkverrichting noodzakelijk acht, dan moet de keuze van de vereiste verrichting beargumenteerd in verhouding staan tot de aanleiding voor de controle en de eindtermen en toetstermen van het certificatieschema.
 
@@ -8729,15 +8769,15 @@ Het uitvoeringsplan kan in overleg met de certificaathouder tot stand komen en b
 
 De praktijkverrichting die in de controle betrokken wordt, moet worden beoordeeld volgens de eisen van het certificatieschema.
 
-Het voldoen aan de toetstermen wordt als volgt beoordeeld:
+Het certificatieschema beschrijft de eisen die gesteld worden aan:
 
 De certificerende instelling maakt een verslag van de bevindingen naar aanleiding van de controles in het kader van het tussentijds toezicht. In het verslag wordt ingegaan op:
 
 Het verslag wordt ter beschikking gesteld van de certificaathouder. Tegen de eventueel opgelegde maatregel kan de certificaathouder overeenkomstig paragraaf 4.7 een verzoek tot herziening indienen.
 
-Kandidaten die in aanmerking willen komen voor het WSCS-VD met het toepassingsgebied Pyrotechnische Speciale Effecten, worden geëxamineerd op basis van de toetstermen in de categorieën a en c. Het examen bestaat uit meerkeuzevragen, open vragen en cases en duurt in totaal drie uur.
+Het voldoen aan de entreecriteria voor de duikmedisch begeleider (WSCS-WOD-B-B2) wordt beoordeeld door portfoliobeoordeling van de door de kandidaat overlegde documenten. De documenten bestaan uit:
 
-Kandidaten die in aanmerking willen komen voor het WSCS-VD met beide toepassingsgebieden, worden geëxamineerd op basis van de toetstermen in de categorieën a, b en c. Het examen bestaat uit meerkeuzevragen, open vragen en cases en duurt in totaal 4,5 uur.
+Ter verkrijging van de aantekening van bevoegdheid tot het uitvoeren van uitgebreide duikmedische begeleiding (WSCS-WOD-B-B3) met voorbehouden medische handelingen (mad B) wordt de portfoliobeoordeling uitgebreid met het onderzoek van de volgende aanvullende documenten:
 
 De certificerende instelling besluit tot schorsing van een certificaat, indien de certificaathouder:
 
@@ -8745,7 +8785,7 @@ Indien blijkt dat de certificaathouder een tijdelijke tekortkoming zoals bedoeld
 
 De schorsing wordt verder opgeheven, indien de certificaathouder heeft voldaan aan de verplichtingen genoemd onder punt 1 en 4 of het misbruik van het beeldmerk heeft gestaakt en de eventuele schade heeft hersteld. De schorsing alsmede de opheffing van de schorsing wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-De toetstermen in elk van bovengenoemde categorieën worden geëxamineerd op basis van:
+Een kandidaat is geslaagd voor het volledige examen Groot Vuurwerk als hij voor deel A en B van het examen enerzijds, en voor deel C van het examen anderszijds elk afzonderlijk een voldoende resultaat heeft gescoord. Bij het bepalen van het totaalresultaat van een examenkandidaat wordt de volgende verdeling aangehouden: deel A en B gezamenlijk tellen mee voor 40% van de eindscore en deel C van het examen telt voor 60%.
 
 De certificerende instelling besluit tot intrekking van een certificaat, indien de certificaathouder:
 
@@ -8753,17 +8793,17 @@ Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden
 
 De intrekking wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
+Het resultaat van het algemene deel van het examen blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen of herexamen doen voor een aanvullende applicatie.
 
 De certificerende instelling besluit tot weigering van een certificaat, indien de certificaathouder:
 
 De weigering van een hercertificatie wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-Deel C van het examen bestaat uit vijf cases, waarvan 1 uit het algemene deel van de toetstermen. De overige vier cases zijn gebaseerd op de toetstermen van de afzonderlijke applicaties (Pyrotechnische Speciale Effecten of Groot Vuurwerk).
+De certificerende instelling hanteert een standaardmethodiek om te beoordelen of de kandidaat voldoet aan de eindtermen. Voor de beperkt duikmedisch begeleider (EHBO-duikarbeid) gelden onderstaande toetstermen (WSCS-WOD-B-B1) 2.1 tot en met 2.6, doch met uitzondering van de toetstermen 2.4.2 en 2.5.1.
 
 De certificerende instelling moet onmiddellijk bij de Nederlandse Arbeidsinspectie melding maken van de haar bekende feiten ten aanzien van een kandidaat of certificaathouder in de volgende gevallen:
 
-De examenkandidaat is geslaagd voor het deel A en B van het examen (algemene deel plus applicatie Groot Vuurwerk) indien hij van het totaal van 52 vragen tenminste 36 vragen (70%) juist heeft beantwoord en voor elk van de afzonderlijke delen een voldoende resultaat (70% goed) heeft behaald.
+Ter verkrijging van de aantekening van bekwaamheid in het uitvoeren van voorbehouden medische handelingen (mad B) wordt bovendien getoetst aan de volgende toetscriteria (WSCS-WOD-B-B3):
 
 De vakbekwaamheid die gecertificeerd wordt, betreft de deelname aan een duikploeg als duikmedisch begeleider. De duikmedisch begeleider ondersteunt de duiker bij het verrichten van duikarbeid. Onder duikarbeid wordt in dit document verstaan het verrichten van arbeid in een vloeistof of in een gesloten duikklok met inbegrip van het verblijf in die vloeistof of in die gesloten duikklok, waarbij voor de ademhaling gebruik wordt gemaakt van een gas onder een hogere druk dan de atmosferische druk.
 
@@ -8771,7 +8811,7 @@ De duikploeg, die de duiker ondersteunt bij het verrichten van duikarbeid bestaa
 
 Het certificatieschema beschrijft de eisen die gesteld worden aan:
 
-Een kandidaat is geslaagd voor het volledige examen Groot Vuurwerk als hij voor deel A en B van het examen enerzijds, en voor deel C anderzijds elk afzonderlijk een voldoende resultaat heeft gescoord. Bij het bepalen van het totaalresultaat van een examenkandidaat wordt de volgende verdeling aangehouden: deel A en B tellen gezamenlijk mee voor 40% van de eindscore en deel C van het examen telt voor 60%.
+In de examenvakken moet de kandidaat zijn kennis ten aanzien van de toetstermen aantonen:
 
 Voor de certificatie van beperkte duikmedisch begeleiding (WSCS-WOD-B-B1) met beperking tot duikarbeid geldt geen entreecriterium.
 
@@ -8785,7 +8825,7 @@ De kandidaat moet de documenten volledig aan de certificerende instelling overle
 
 De certificerende instelling kan de kandidaat opdragen om van zijn opleiding tot EHBO duikarbeid, mad A, dan wel mad B, nadere gegevens te verstrekken om het niveau van deze opleiding te beoordelen. Deze gegevens kunnen bestaan uit de contactgegevens van de opleidingsinstelling en opleiders en het curriculum van de opleiding. Als de certificerende instelling niet over gegevens voorde beoordeling van het niveau van de opleiding kan beschikken, wordt de opleiding niet erkend.
 
-Een kandidaat is geslaagd voor het volledige examen Groot Vuurwerk als hij voor deel A en B van het examen enerzijds, en voor deel C van het examen anderszijds elk afzonderlijk een voldoende resultaat heeft gescoord. Bij het bepalen van het totaalresultaat van een examenkandidaat wordt de volgende verdeling aangehouden: deel A en B gezamenlijk tellen mee voor 40% van de eindscore en deel C van het examen telt voor 60%.
+De hercertificatie van EHBO duikarbeid, mad A, dan wel mad Bis gelijk aan de initiële certificatie. De kandidaat moet iedere 2 kalenderjaren een herhalingsopleiding EHBO-duikarbeid of duikmedisch begeleider te volgen en het praktijk- en theorie-examen afleggen.
 
 Voor de beperkt duikmedisch begeleider met beperking tot duikarbeid bij bassins (**EHBO-duikarbeid**) gelden de volgende eindtermen(WSCS-WOD-B-B1):
 
@@ -8793,11 +8833,11 @@ Voor de duikmedisch begeleider (**mad A**) gelden de volgende eindtermen (WSCS-W
 
 Ter verkrijging van de aantekening van bekwaamheid in het uitvoeren van voorbehouden medische handelingen (**mad B**) voldoet de kandidaat bovendien de volgende eindtermen (WSCS-WOD-B-B3):
 
-Het resultaat van het algemene deel van het examen blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen of herexamen doen voor een aanvullende applicatie.
+De hercertificatie van beperkt duikmedisch begeleider (EHBO Duikarbeid/WSCS-WOD-B-B1)) en duikmedisch begeleider (mad A/WSCS-WOD-B-B2)) wordt beoordeeld door middel van een documentenonderzoek en een theorie- en praktijkexamen. Bij het documentenonderzoek moet een getuigschrift of diploma kunnen worden overlegd van een herhalingsopleiding duikmedisch begeleider dat niet ouder is dan 3 maanden.
 
 De vakbekwaamheidseisen zijn weergegeven als eindtermen en worden in het volgende hoofdstuk uitgewerkt in toetstermen. In de omschrijving van de eind- en toetstermen wordt gesproken over elementaire kennis en uitgebreide kennis. Deze indicaties van het kennisniveau worden in dit certificatieschema als volgt geïnterpreteerd:
 
-De waardering bij deel A en B van het examen is 1 punt per vraag. Totaal zijn er met deze delen dus 36 punten te verdienen, voor deel A 27 punten en voor deel B 9 punten. De cesuur is als volgt: men is geslaagd voor het algemene deel indien men 70% van de 36 vragen correct heeft beantwoord. Dit betekent een score van 25 goede antwoorden.
+Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
 
 De certificerende instelling hanteert een standaardmethodiek om te beoordelen of de kandidaat voldoet aan de eindtermen. Voor de beperkt duikmedisch begeleider (EHBO-duikarbeid) gelden onderstaande toetstermen (WSCS-WOD-B-B1) 2.1 tot en met 2.6, doch met uitzondering van de toetstermen 2.4.2 en 2.5.1.
 
@@ -8805,7 +8845,7 @@ De vakbekwaamheid van de kandidaat-duikmedisch begeleider (mad A) wordt getoetst
 
 Ter verkrijging van de aantekening van bekwaamheid in het uitvoeren van voorbehouden medische handelingen (mad B) wordt bovendien getoetst aan de volgende toetscriteria (WSCS-WOD-B-B3):
 
-Het resultaat van het examen in het beperkte toepassingsgebied blijft geldig gedurende de gehele certificatieperiode. De examenkandidaat kan dus desgewenst op een later moment examen doen voor (een) aanvullende applicatie(s), dat wil zeggen GV en/of PSE.
+De resultaten van de validatie worden gerapporteerd, waarin tevens een vergelijking plaatsvindt met de specificaties van de gebruikershandleiding en/of de resultaten van vorige validaties van vergelijkbare apparatuur.
 
 Het voldoen aan de toetstermen wordt beoordeeld door een theorie-examen en een praktijkexamen. Voor de beperkt duikmedisch begeleider (EHBO-duikarbeid) gelden onderstaande toetstermen 2.1 tot en met 2.6, doch met uitzondering van de toetstermen 2.4.2 en 2.5.1.
 
@@ -8817,27 +8857,27 @@ Het theorie-examen wordt schriftelijk en in de Nederlandse taal afgenomen. Het t
 
 Ter verkrijging van de aantekening van uitgebreide duikmedische bevoegdheid met het verrichten van voorbehouden medische handelingen moet een specifiek examen worden afgelegd. De kandidaat toont zijn verrichting voor het praktijkexamen aan door middel van een verrichtingenboekje. Dit examen bestaat geheel uit een praktijkexamen onder begeleiding van een arts.
 
-Het CCvD-VD zal de eind- en toetstermen tenminste jaarlijks beoordelen op actualiteit en deze zonodig aanpassen.
+Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde concentratie bij een blootstellingduur tot 8 uur per dag tevens een grenswaarde vastgesteld voor een kortdurende blootstelling van ten hoogste 15 minuten.
 
 De uitslagregel van het examen wordt nader uitgewerkt in het uitvoeringsbesluit van de CKI en indien er een centrale itembank is, is het tevens aldaar vastgelegd.
 
-Minimaal dienen de volgende gegevens op het certificaat vermeld te zijn:
+De houder van het certificaat met de aantekening uitgebreid duikmedisch begeleider (mad B/WSCS-WOD-B-B3) om voorbehouden medische handelingen uit te voeren moet elk kalenderjaar opnieuw zijn ziekenhuisstage herhalen. Het certificaat wordt ingetrokken en vervangen door een certificaat duikmedisch begeleider (mad A/WSCS-WOD-B-B2), indien de kandidaat niet aan deze voorwaarde voldoet.
 
-Bij Groot Vuurwerk:
+Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
 
 De hercertificatie van EHBO duikarbeid, mad A, dan wel mad Bis gelijk aan de initiële certificatie. De kandidaat moet iedere 2 kalenderjaren een herhalingsopleiding EHBO-duikarbeid of duikmedisch begeleider te volgen en het praktijk- en theorie-examen afleggen.
 
 Om bij hercertificatie opnieuw de aantekening van uitgebreid duikmedisch begeleider met de bevoegdheid in het uitvoeren van voorbehouden medische handelingen (mad B) te verkrijgen, moet de kandidaat op grond van andere wet en regelgeving bovendien jaarlijks een ziekenhuisstage onder begeleiding van een arts lopen. De duur van de stage is ten minste 2 weken en de aard van de stage is ter beoordeling van de begeleidende arts.
 
-Bij beperkt toepassingsgebied:
+Stoffen die relatief gemakkelijk door de huid kunnen worden opgenomen, hetgeen een substantiële bijdrage kan betekenen aan de totale inwendige blootstelling, hebben in de lijst een H-aanduiding. Bij deze stoffen moeten naast maatregelen tegen inademing ook adequate maatregelen ter voorkoming van huidcontact worden genomen.
 
-Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat.
+Voor stoffen die ook als deeltjes/aërosolen kunnen voorkomen geldt dat de grenswaarde betrekking heeft op de deeltjes bemonsterd als ‘inhaleerbaar stof’, tenzij anders vermeld. Voor nadere definiëring van inhaleerbaar en respirabel stof en meetaspecten hiervan wordt verwezen naar NEN-norm NEN-EN 481:1994 ‘Werkplekatmosfeer. Definitie van de deeltjesgrootteverdeling voor het meten van in de lucht zwevende deeltjes’.
 
 De hercertificatie van beperkt duikmedisch begeleider (EHBO Duikarbeid/WSCS-WOD-B-B1)) en duikmedisch begeleider (mad A/WSCS-WOD-B-B2)) wordt beoordeeld door middel van een documentenonderzoek en een theorie- en praktijkexamen. Bij het documentenonderzoek moet een getuigschrift of diploma kunnen worden overlegd van een herhalingsopleiding duikmedisch begeleider dat niet ouder is dan 3 maanden.
 
 Het af te leggen praktijk- en theorie-examen is gelijk als bij initiële certificatie.
 
-Persoonscertificaten die voorafgaand aan de datum van het inwerkingtreden van dit WSCS-VD zijn afgegeven, behouden hun vijfjarige geldigheidsduur mits de hieronder beschreven tussentijdse beoordeling door de CKI met positief resultaat wordt afgerond.
+Het certificatiesysteem van de CKI moet zijn gestructureerd in overeenstemming met de eisen uit WDAT-WOD-P.
 
 De hercertificatie met de aantekening van uitvoeren van voorbehouden medische handelingen (mad B) wordt beoordeeld door middel van een documentenonderzoek bestaande uit:
 
@@ -8845,11 +8885,11 @@ De kandidaat moet de documenten volledig aan de certificerende instelling overle
 
 De certificerende instelling controleert jaarlijks of de uitgebreid duikmedisch begeleider (mad B) de ziekenhuisstage onder begeleiding van een arts tijdig heeft herhaald.
 
-De resultaten van de validatie worden gerapporteerd, waarin tevens een vergelijking plaatsvindt met de specificaties van de gebruikershandleiding en/of de resultaten van vorige validaties van vergelijkbare apparatuur.
+4 Inhaleerbaar.
 
 De cesuur van het praktijk- en theorie-examen is gelijk aan de cesuur bij initiële certificatie.
 
-Verklaring van de gebruikte letters en aanduidingen
+Duikarbeid is een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van personen die leiding geven aan een duikploeg.
 
 Op het certificaat moeten minimaal de volgende gegevens vermeld zijn:
 
@@ -8857,21 +8897,21 @@ Op het certificaat wordt de tekst opgenomen dat de certificerende instelling ver
 
 De tekst vermeldt tevens of het certificaat is afgeven op grond van een initiële certificatie of een hercertificatie.
 
-Tijdgewogen gemiddelde. Voor een aantal stoffen is naast de maximale aanvaarde concentratie bij een blootstellingduur tot 8 uur per dag tevens een grenswaarde vastgesteld voor een kortdurende blootstelling van ten hoogste 15 minuten.
+1 microgram/m3
 
 Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden. Indien niet voldaan wordt aan deze condities kan dit consequenties hebben voor het certificaat.
 
 De houder van het certificaat met de aantekening uitgebreid duikmedisch begeleider (mad B/WSCS-WOD-B-B3) om voorbehouden medische handelingen uit te voeren moet elk kalenderjaar opnieuw zijn ziekenhuisstage herhalen. Het certificaat wordt ingetrokken en vervangen door een certificaat duikmedisch begeleider (mad A/WSCS-WOD-B-B2), indien de kandidaat niet aan deze voorwaarde voldoet.
 
-Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
+De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
 
-Deze aanduiding is toegepast bij stoffen waarvan de grenswaarde een ceilingwaarde of plafondwaarde is. Een dergelijke waarde geeft aan dat overschrijding van deze concentratie in alle gevallen moet worden voorkomen.
+De afzonderlijke risicofactoren treden vaak in onderlinge combinatie en per definitie in combinatie met de onderdompeling in een vloeistof op. De gevolgen van een incident kunnen daarom zeer ernstig zijn. In de praktijk blijken de naleving van voorschriften en het gebruik van deugdelijk duik- en caissonmaterieel de belangrijkste factoren ter voorkoming van incidenten te zijn.
 
 Document: WSCS-WOD-F
 
-Stoffen die relatief gemakkelijk door de huid kunnen worden opgenomen, hetgeen een substantiële bijdrage kan betekenen aan de totale inwendige blootstelling, hebben in de lijst een H-aanduiding. Bij deze stoffen moeten naast maatregelen tegen inademing ook adequate maatregelen ter voorkoming van huidcontact worden genomen.
+Het is voor de veiligheid en gezondheid van de duiker van belang dat de arbeids- en rusttijden worden nageleefd en dat onder alle omstandigheden effectief leiding wordt gegeven aan de duikploeg. De duikploegleider ziet toe op het naleven van de verantwoordelijkheid van de reddings- en de veiligheidsduiker dat zij psychisch en fysiek gereed zijn voor de werkzaamheden. De duikploegleider ziet toe op de geldigheid van de certificaten van de duikploeg. De veiligheids- en de reddingsduiker zijn verantwoordelijk dat zij psychisch en fysiek gereed zijn voor de werkzaamheden. Indien de veiligheids- of reddingsduiker twijfels heeft over zijn gereedheid dan wel zeker weet dat hij niet gereed is voor duikwerkzaamheden moet hij dit terstond melden aan de duikploegleider. De persoon die duikarbeid verricht, is daarnaast afhankelijk van materieel en van de andere leden van de duikploeg. De duikploegleider ziet erop toe dat de duikploeg en het duikmaterieel goed worden ingezet.
 
-Voor stoffen die ook als deeltjes/aërosolen kunnen voorkomen geldt dat de grenswaarde betrekking heeft op de deeltjes bemonsterd als ‘inhaleerbaar stof’, tenzij anders vermeld. Voor nadere definiëring van inhaleerbaar en respirabel stof en meetaspecten hiervan wordt verwezen naar NEN-norm NEN-EN 481:1994 ‘Werkplekatmosfeer. Definitie van de deeltjesgrootteverdeling voor het meten van in de lucht zwevende deeltjes’.
+Er dient een gedocumenteerde procedure te zijn waarin is vastgelegd hoe:
 
 Dit werkveldspecifieke certificatieschema voor personen is door het Centraal College van Deskundigen ‘Werken onder overdruk’ voorgesteld. Het betreft certificatie op het gebied van het leidinggeven aan een duikploeg bij de brandweer. Het bestuur van de Stichting werken onder overdruk (SWOD) heeft het schema goedgekeurd door het Ministerie van Sociale Zaken en Werkgelegenheid is het schema vastgesteld. Dit schema vervangt eerdere versies.
 
@@ -8879,29 +8919,29 @@ De te certificeren vakbekwaamheid betreft het optreden als duikploegleider bij d
 
 Het certificatiesysteem van de CKI moet zijn gestructureerd in overeenstemming met de eisen uit WDAT-WOD-P.
 
-1 Tijdens de blootstellingsmonitoring voor kwik en zijn tweewaardige anorganische verbindingen wordt rekening gehouden met relevante biologische monitoringtechnieken in aanvulling op de luchtgrenswaarde
+De kandidaat moet in overeenstemming met dit certificatiereglement een aanvraag indienen voor (her)certificatie voor het persoonscertificaat duikploegleiderbij de brandweer bij de CKI. Vervolgens verstrekt de CKI alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
 
 Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlijk in de tekst van het certificatieschema voorkomen, maar deze begrippen of afkortingen zijn toch in de definitielijst opgenomen in verband met het feit dat de beheerstichting en het Ministerie van Sociale Zaken en Werkgelegenheid deze begrippen of afkortingen in direct verband tot dit certificatieschema kunnen hanteren.
 
 Indien de definities in dit document afwijken van de definities in NEN-EN-ISO/IEC 17024:2012 en de mandatory documents, gelden de definities van dit document.
 
-4 Inhaleerbaar.
+Overwegende dat:
 
-5 Bij het beoordelen van de blootstelling wordt rekening gehouden met de relevante, door het Wetenschappelijk Comité inzake grenswaarden voor beroepsmatige blootstelling aan chemische agentia (SCOEL) voorgestelde, biologische-monitoringwaarden.
+De geldigheidsduur van het certificaat is vier jaar. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in het leidinggeven, vertrouwdheid met de werkomgeving en bekendheid met het functioneren van een duikploeg. Gedurende de periode van vier jaar is het voor de certificaathouder noodzakelijk om de doorlopende beroepservaring te onderhouden.
 
 Duikarbeid is een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid van en rondom de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor de borging van de vakbekwaamheid van personen die leiding geven aan een duikploeg.
 
-2 Respirabele fractie
+Met betrekking tot de geldigheid van het certificaat worden nadere condities gesteld. Als niet aan de condities wordt voldaan, dan heeft dat consequenties voor het certificaat. De condities en de wijze van toezicht daarop door de CKI worden beschreven in deel II van het certificatieschema.
 
 Dit werkveldspecifieke certificatieschema wordt voluit aangehaald als persoonscertificaat duikploegleider bij de brandweer. De verkorte aanduiding is WSCS-WOD-F.
 
 Het certificatieschema is door de Stichting werken onder overdruk (SWOD), als beheerstichting goedgekeurd en aangeboden aan het Ministerie van Sociale Zaken. De Minister van Sociale Zaken en Werkgelegenheid stelt het schema vast en kan wijzigingen aanbrengen in de vastgestelde documenten. Dit schema vervangt eerdere versies.
 
-1 microgram/m3
+Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Binnen het kader van dit certificatieschema zijn actief:
 
-3 Definitie van hardhout volgens de International Agency for Research on Cancer (IARC) van hout op basis van botanische karakteristiek: hout van bedektzadigen = hardhout.
+De organisatie dient ten minste de in de onderstaande tabel weergegeven verplichte bronnen te raadplegen. Aanvullende bronnen worden in ieder geval geraadpleegd indien sprake is van de onder de toelichting op de aanvullende bronnen beschreven situatie. In de rapportage wordt gemotiveerd waarom een aanvullende bron wel/niet geraadpleegd is. Eventuele leemten in kennis dienen te worden gespecificeerd in de rapportage.
 
 De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
 
@@ -8911,37 +8951,37 @@ Deze incidenten kunnen worden voorkomen door:
 
 Het is voor de veiligheid en gezondheid van de duiker van belang dat de arbeids- en rusttijden worden nageleefd en dat onder alle omstandigheden effectief leiding wordt gegeven aan de duikploeg. De duikploegleider ziet toe op het naleven van de verantwoordelijkheid van de reddings- en de veiligheidsduiker dat zij psychisch en fysiek gereed zijn voor de werkzaamheden. De duikploegleider ziet toe op de geldigheid van de certificaten van de duikploeg. De veiligheids- en de reddingsduiker zijn verantwoordelijk dat zij psychisch en fysiek gereed zijn voor de werkzaamheden. Indien de veiligheids- of reddingsduiker twijfels heeft over zijn gereedheid dan wel zeker weet dat hij niet gereed is voor duikwerkzaamheden moet hij dit terstond melden aan de duikploegleider. De persoon die duikarbeid verricht, is daarnaast afhankelijk van materieel en van de andere leden van de duikploeg. De duikploegleider ziet erop toe dat de duikploeg en het duikmaterieel goed worden ingezet.
 
-Er dient een gedocumenteerde procedure te zijn waarin is vastgelegd hoe:
+In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
-De organisatie dient te beschikken over een schriftelijke procedure en deze op peil te houden ten aanzien van de behandeling van klachten en tekortkomingen in relatie tot het geleverde werk en het managementsysteem. Door middel van de procedure dient o.a. geregeld te zijn:
+Wanneer iemand probeert een klacht telefonisch of mondeling te melden, wordt aan hem/haar gevraagd deze schriftelijk te verwoorden. Als een klacht schriftelijk binnenkomt wordt deze meteen naar de kwaliteitsmanager gebracht en indien de klachtafhandelaar duidelijk is krijgt hij/zij meteen een kopie van de klacht.
 
 Dit reglement omschrijft de procedures die relevant zijn voor de juiste toepassing van het specifieke schema. Hierbij moet gedacht worden aan onder meer de procedures van de aanvraag, toelating, examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, afgifte van certificaten, procedures bij het uitvoeren van beoordelingen, klachtenafhandeling en het indienen van verzoeken om herziening.
 
-Ondergetekenden,
+Klachtafhandelaar stuurt klacht door naar betrokken bedrijf/persoon; stelt indiener op de hoogte legt dossier aan tbv voortgangsbewaking en meenemen afhandeling klacht door bedrijf/persoon bij eerstvolgende beoordeling.
 
 De kandidaat moet in overeenstemming met dit certificatiereglement een aanvraag indienen voor (her)certificatie voor het persoonscertificaat duikploegleiderbij de brandweer bij de CKI. Vervolgens verstrekt de CKI alle relevante informatie over de gang van zaken bij het gehele certificatieproces.
 
-Ondergetekenden,
+Indien het een incident betreft, wordt de indiener daarvan op de hoogte gesteld. De klachtafhandelaar bedenkt samen met de indiener binnen drie weken na het indienen van de klacht een oplossing voor de afhandeling en betrekt bedrijf/persoon hierbij.
 
 De certificatiebeslissing wordt genomen door een functionaris van de CKI die niet betrokken is geweest bij de beoordeling van de kandidaten. Hij is daartoe gekwalificeerd en aangesteld conform het kwaliteitssysteem en de procedures die de certificatie-instelling heeft op grond van het werkveldspecifieke schema voor aanwijzing en toezicht.
 
-Overwegende dat:
+Indien de klacht een aanpassing van de werkwijze vergt bedenkt de klachtafhandelaar binnen 10 dagen een verbetervoorstel en bespreekt dit met de kwaliteitsmanager en betrekt bedrijf/persoon hierbij. Het verbetervoorstel moet een structurele verbetering inhouden van de werkwijze. Het verbetervoorstel wordt ingevuld op het klachtenformulier.
 
 De geldigheidsduur van het certificaat is vier jaar. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in het leidinggeven, vertrouwdheid met de werkomgeving en bekendheid met het functioneren van een duikploeg. Gedurende de periode van vier jaar is het voor de certificaathouder noodzakelijk om de doorlopende beroepservaring te onderhouden.
 
-Overwegende dat:
+De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 Met betrekking tot de geldigheid van het certificaat worden nadere condities gesteld. Als niet aan de condities wordt voldaan, dan heeft dat consequenties voor het certificaat. De condities en de wijze van toezicht daarop door de CKI worden beschreven in deel II van het certificatieschema.
 
-In dit Protocol wordt een aantal begrippen met een beginhoofdletter gebruikt. Aan deze begrippen komt de betekenis toe die hieraan wordt gegeven in het hierna volgende artikel 1
+Namens de Certificerende Instelling op de datum: 31 mei 2012
 
-Inspectie SZW en Certificerende Instelling wijzen contactpersonen aan voor de uitvoering van het Protocol en brengen elkaar daarvan op de hoogte;
+In overleg met de opdrachtgever wordt bepaald of getuigen worden gehoord. Dit wordt gerapporteerd. Indien getuigen worden gehoord, dient een schriftelijke getuigenverklaring te worden opgesteld en getekend door de getuige en/of door een vertegenwoordiger van de opdrachtgever die bij het horen van de getuige aanwezig is. De getuigenverklaring wordt opgenomen als bijlage bij het rapport.
 
 Een adequate behandeling van klachten is belangrijk voor het creëren van vertrouwen in certificatie en belangrijk voor de bescherming van zowel de certificaathouders als de gebruikers van certificaten.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-De organisatie dient ten minste de in de onderstaande tabel weergegeven verplichte bronnen te raadplegen. Aanvullende bronnen worden in ieder geval geraadpleegd indien sprake is van de onder de toelichting op de aanvullende bronnen beschreven situatie. In de rapportage wordt gemotiveerd waarom een aanvullende bron wel/niet geraadpleegd is. Eventuele leemten in kennis dienen te worden gespecificeerd in de rapportage.
+Algemeen:
 
 Indien de CKI klachten van derden, zoals een opdrachtgever, ontvangt over het voldoen aan dit schema door het bedrijf of de persoon die een aanvraag voor het certificaat heeft ingediend of certificaathouder is, dient de CKI de klager te verwijzen naar het bedrijf of de persoon. De CKI dient de klacht te betrekken bij de eerstvolgende beoordeling bij het betreffende bedrijf of de betreffende persoon.
 
@@ -8949,7 +8989,7 @@ Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient 
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
-Een ieder die in het kader van dit Protocol bedrijfs- of persoonsgegevens dan wel andersoortige vertrouwelijke informatie ontvangt is verplicht tot geheimhouding. De gegevens die in het kader van dit Protocol verstrekt worden aan een andere partij mogen alleen gebruikt worden met het oog op het in dit Protocol omschreven doel. De Inspectie SZW behoudt wel de mogelijkheid om haar handhavingsinformatie met andere toezichthoudende instanties te delen.
+Werken onder overdruk betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor het werken onder overdruk. Onder werken onder overdruk wordt in overeenstemming met [artikel 6.13 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.13) verstaan: duikarbeid, caissonarbeid en overige arbeid onder overdruk.
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
@@ -8973,57 +9013,17 @@ De kwaliteitsmanager maakt de gewijzigde werkwijze bekend.
 
 De kwaliteitsmanager start, indien nodig, een vervolgonderzoek naar de invoering van het verbetervoorstel. De bevindingen worden vastgelegd op het klachtenformulier. Het klachtenformulier wordt gearchiveerd.
 
-Namens de Certificerende Instelling op de datum: 31 mei 2012
-
-In overleg met de opdrachtgever wordt bepaald of getuigen worden gehoord. Dit wordt gerapporteerd. Indien getuigen worden gehoord, dient een schriftelijke getuigenverklaring te worden opgesteld en getekend door de getuige en/of door een vertegenwoordiger van de opdrachtgever die bij het horen van de getuige aanwezig is. De getuigenverklaring wordt opgenomen als bijlage bij het rapport.
-
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
-
-Document: WDAT-WOD-P
-
-Algemeen:
-
-Het bezwaar wordt niet-ontvankelijk verklaard:
-
-Het betreft de volgende in het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) genoemde activiteiten:
-
-Document: WDAT-WOD-P
-
-Werken onder overdruk betreft een risicovolle beroepsactiviteit. Om het maatschappelijke belang – veiligheid en gezondheid in verband met de arbeid – te waarborgen, is door de overheid gekozen voor een wettelijk verplichte certificatieregeling voor het werken onder overdruk. Onder werken onder overdruk wordt in overeenstemming met [artikel 6.13 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.13) verstaan: duikarbeid, caissonarbeid en overige arbeid onder overdruk.
-
-Het betreft de volgende in het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) genoemde activiteiten:
-
-De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden elektronisch verzonden aan de beheerstichting. De overeenkomst met de CKI zal voorschrijven in welk digitaal format de toelevering van gegevens moet plaats vinden, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. Dit register wordt via internet toegankelijk gemaakt. SWOD is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
-
-Het betreft de volgende in het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498) genoemde activiteiten:
-
-Het Centraal College van Deskundigen ‘Werken onder overdruk’ moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
-
-Dit werkveldspecifieke document voor aanwijzing en toezicht op CKI’s belast met persoonscertificatie op het gebied van werken onder overdruk wordt aangehaald als WDAT-WOD-P. Dit werkveldspecifieke document voor aanwijzing en toezicht binnen het werkveld Werken onder druk, is door de minister van SZW vastgesteld. De minister van SZW kan wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde document vervangt eerdere versies. Op- en of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen ‘Werken onder overdruk’.
-
-De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en praktijkexamen waarmee de huidige vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat dient te voldoen aan de gestelde entree-eisen.
-
-De CKI houdt hierbij rekening met:
-
-Binnen het kader van dit document voor aanwijzing en toezicht zijn bij de opstelling betrokken geweest:
-
-Dit werkveldspecifieke document voor aanwijzing en toezicht op CKI’s belast met persoonscertificatie op het gebied van werken onder overdruk wordt aangehaald als WDAT-WOD-P. Dit werkveldspecifieke document voor aanwijzing en toezicht binnen het werkveld Werken onder druk, is door de minister van SZW vastgesteld. De minister van SZW kan wijzigingen aanbrengen in de vastgestelde documenten. Dit vastgestelde document vervangt eerdere versies. Op- en of aanmerkingen over dit document kunnen worden ingediend bij het Centraal College van Deskundigen ‘Werken onder overdruk’.
-
-Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het persoonscertificaat duikploegleider bij de brandweer. Het examenreglement is onderdeel van het certificatieschema duikploegleider bij de brandweer (WSCS-WOD-F).
-
-De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit de volgende onderdelen:
-
 Het examen wordt afgenomen door de CKI.
 
 De volgende risico’s kunnen optreden, indien de CKI in het certificatieproces niet voldoende functioneert:
 
-De CKI stelt haar werkwijze rond de examens nader vast in een uitvoeringsbesluit ten aanzien van het examenreglement. Het uitvoeringsbesluit bevat ten minste de volgende bepalingen:
+Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
 
 Voor de toepassing van dit certificatieschema is als examenreglement het document ‘Proeve van vakbekwaamheid voor duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
 
-Onverlet de overige bepalingen van paragraaf 8.4 van NEN-EN-ISO/IEC 17024:2012 mag de CKI in afwijking van deze paragraaf het certificatieschema niet zelf ontwikkelen of wijzigen. De CKI moet het certificatieschema gebruiken dat door de minister is vastgesteld. De CKI moet een eventueel wijzigingsvoorstel indienen bij de beheerstichting. Het Centraal College van Deskundigen moet een wijzigingsvoorstel beoordelen en kan het bestuur van de beheerstichting adviseren om een wijzigingsvoorstel voor te leggen aan de minister. De minister zal het voorstel beoordelen en bepalen of het wijzigingsvoorstel overgenomen wordt.
+Algemeen:
 
-Examenpersoneel moet voldoen aan de algemene, vakinhoudelijke en onafhankelijkheidseisen van de CKI zoals opgenomen in competentieprofielen en andere relevante documenten. Voor de toepassing van dit certificatieschema zijn als eisen aan het examenpersoneel mede de eisen uit het document ‘Regeling benoemingseisen examencommissieleden functiegerichte leergangen binnen Nederland en Caribisch Nederland’ van toepassing.
+Het bezwaar wordt niet-ontvankelijk verklaard:
 
 De bepalingen van paragraaf 6.1.2 van NEN-EN-ISO/IEC 17024:2012 zijn onverkort van toepassing.
 
@@ -9033,25 +9033,65 @@ Medewerkers van de certificatie-/exameninstelling dragen zorg voor de absolute g
 
 De bepalingen van paragraaf 6.1.2 van NEN-EN-ISO/IEC 17024:2012 zijn onverkort van toepassing.
 
-Het document ‘Proeve van vakbekwaamheid voor duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) is van toepassing.
+De CKI registreert de gegevens van de certificaathouder. Deze gegevens worden elektronisch verzonden aan de beheerstichting. De overeenkomst met de CKI zal voorschrijven in welk digitaal format de toelevering van gegevens moet plaats vinden, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. Dit register wordt via internet toegankelijk gemaakt. SWOD is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
 
 Onverlet de overige bepalingen van paragraaf 8.6 van NEN-EN-ISO/IEC 17024:2012 moet de CKI rekening houden met de procedure voor wijziging van de beoordelingseisen en beoordelingsmethodiek, indien de minister hiervoor bijzondere bepalingen in een werkveldspecifiek certificatieschema heeft vastgesteld.
 
-In aanvulling op paragraaf 8 van NEN-EN-ISO/IEC 17024:2012 moet de CKI bij de communicatie over en toepassing van wijzigingen in een werkveldspecifiek certificatieschema rekeningen houden met de procedure voor vaststelling van wijzigingen overeenkomstig paragraaf 4.2.1 van dit document voor aanwijzing en toezicht.
+Het Centraal College van Deskundigen ‘Werken onder overdruk’ moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, CKI’s of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
 
 Het toezicht heeft tot doel om de vakbekwaamheid van gecertificeerd personeel te borgen. De CKI moet beoordelen of de certificaathouder blijft voldoen aan de gestelde eisen. De certificaathouder is verplicht mee te werken aan toezicht door de CKI, de nationale accreditatie-instantie en de Nederlandse Arbeidsinspectie.
 
-In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waartoe ten minste de volgende verplichtingen van de certificaathouder behoren:
+De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en praktijkexamen waarmee de huidige vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat dient te voldoen aan de gestelde entree-eisen.
 
-In aanvulling op de bepalingen van paragraaf 6.2 van NEN-EN-ISO/IEC 17024:2012 moet de CKI bij de selectie van examinatoren en de overige betrokkenen bij het examen aan de onderstaande eisen toepassen. De uitwerking van de eisen ten aanzien van het examenpersoneel moeten worden opgenomen in competentieprofielen en andere relevante documenten, zoals het kwaliteitshandboek van de certificerende instelling.
+De CKI houdt hierbij rekening met:
 
 De CKI voert indien nodig tussentijdse controles uit. De CKI moet een certificaathouder in elk geval tussentijds controleren in de volgende situaties:
 
 De beoordeling van de relevante beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CKI ten minste tweejaarlijks inzage in zijn doorlopende beroepservaring van ten minste 20 duiken waaraan hij de leiding heeft gegeven dan wel zodra aan deze eis van doorlopende beroepservaring is voldaan.
 
-In aanvulling op de bepalingen van paragraaf 6.2 van NEN-EN-ISO/IEC 17024:2012 moet de CKI bij de selectie van examinatoren en de overige betrokkenen bij het examen aan de onderstaande eisen toepassen. De uitwerking van de eisen ten aanzien van het examenpersoneel moeten worden opgenomen in competentieprofielen en andere relevante documenten, zoals het kwaliteitshandboek van de certificerende instelling.
+Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het persoonscertificaat duikploegleider bij de brandweer. Het examenreglement is onderdeel van het certificatieschema duikploegleider bij de brandweer (WSCS-WOD-F).
 
-Bij de selectie van examenpersoneel moet het examenpersoneel aan de hand van een portfolio ten minste worden beoordeeld op de volgende eisen:
+De examinering geschiedt onder verantwoordelijkheid van de CKI en bestaat uit de volgende onderdelen:
+
+Het examen wordt afgenomen door de CKI.
+
+Het plan beschrijft ten minste:
+
+De CKI stelt haar werkwijze rond de examens nader vast in een uitvoeringsbesluit ten aanzien van het examenreglement. Het uitvoeringsbesluit bevat ten minste de volgende bepalingen:
+
+Voor de toepassing van dit certificatieschema is als examenreglement het document ‘Proeve van vakbekwaamheid voor duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
+
+Indien de CKI inzage neemt in het duikploegleiderlogboek van de certificaathouder, dan wordt ingegaan op de volgende onderwerpen:
+
+Examenpersoneel moet voldoen aan de algemene, vakinhoudelijke en onafhankelijkheidseisen van de CKI zoals opgenomen in competentieprofielen en andere relevante documenten. Voor de toepassing van dit certificatieschema zijn als eisen aan het examenpersoneel mede de eisen uit het document ‘Regeling benoemingseisen examencommissieleden functiegerichte leergangen binnen Nederland en Caribisch Nederland’ van toepassing.
+
+Indien de CKI de beoordeling van een praktijkverrichting noodzakelijk acht, dan moet de keuze van de vereiste verrichting beargumenteerd in verhouding staan tot de aanleiding voor de controle en de eindtermen en toetstermen van het certificatieschema.
+
+Het uitvoeringsplan kan in overleg met de certificaathouder tot stand komen met betrekking tot het tijdstip. Het uivoeringsplan beschrijft verder de locatie en de partij die het materieel en de duikploeg ter beschikking stelt en de partij de verantwoordelijkheid over het materieel, de duikploeg en de verrichtingen van de certificaathouder draagt. De partij waarmee wordt samengewerkt is naar keuze van de CKI. De CKI treedt louter op als beoordelaar van de praktijkverrichting en er bestaat uit dien hoofde dan ook geen werkgever-werknemer De bepalingen van paragraaf 4.2 vinden hier overeenkomstige toepassing.
+
+Medewerkers van de certificatie-/exameninstelling dragen zorg voor de absolute geheimhouding van de examenopgaven, voor zover deze opgaven geen onderdeel uitmaken van een publieke norm. Verificatie en implementatie hiervan dient te geschieden door de certificatie-instelling. Medewerkers van de exameninstelling moeten een verklaring van geheimhouding hebben ondertekend.
+
+De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
+
+Het document ‘Proeve van vakbekwaamheid voor duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) is van toepassing.
+
+In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2021-05-01&g=2021-05-01) Arboregeling.
+
+De CKI maakt een verslag van de bevindingen naar aanleiding van de controles in het kader van het tussentijds toezicht. In het verslag wordt ingegaan op:
+
+Het toezicht heeft tot doel om de vakbekwaamheid van gecertificeerd personeel te borgen. De CKI moet beoordelen of de certificaathouder blijft voldoen aan de gestelde eisen. De certificaathouder is verplicht mee te werken aan toezicht door de CKI, de nationale accreditatie-instantie en de Nederlandse Arbeidsinspectie.
+
+In de overeenkomst tussen de CKI en de certificaathouder worden de hiertoe benodigde bepalingen opgenomen, waartoe ten minste de volgende verplichtingen van de certificaathouder behoren:
+
+Ten behoeve van de informatieverzameling dient de CKI kosteloos:
+
+De CKI voert indien nodig tussentijdse controles uit. De CKI moet een certificaathouder in elk geval tussentijds controleren in de volgende situaties:
+
+De beoordeling van de relevante beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CKI ten minste tweejaarlijks inzage in zijn doorlopende beroepservaring van ten minste 20 duiken waaraan hij de leiding heeft gegeven dan wel zodra aan deze eis van doorlopende beroepservaring is voldaan.
+
+De schorsing wordt verder opgeheven, indien de certificaathouder heeft voldaan aan de verplichtingen genoemd onder de punten 1, 2 en 5, of het misbruik van het beeldmerk heeft gestaakt en de eventuele schade heeft hersteld.
+
+De schorsing als mede de opheffing van de schorsing wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
 De CKI maakt een plan voor de uitvoering van een controle, wanneer zich een situatie voordoet, waarin zij op grond van paragraaf 6.2 moet controleren.
 
@@ -9059,11 +9099,11 @@ Het plan beschrijft ten minste:
 
 Het plan wordt schriftelijk aan de certificaathouder kenbaar gemaakt. De certificaathouder moet binnen zes weken na de aankondiging zijn medewerking verlenen aan de uitvoering van de controle.
 
-De bepalingen van paragraaf 8.3 van NEN-EN-ISO/IEC 17024:2012 zijn onverkort van toepassing, maar de CKI moet rekening houden met bijzondere voorschriften ten aanzien van het toezicht op de certificaathouder, indien de minister hiervoor bijzondere bepalingen in een werkveldspecifiek certificatieschema heeft vastgesteld.
+De intrekking wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
 Indien de CKI inzage neemt in het duikploegleiderlogboek van de certificaathouder, dan wordt ingegaan op de volgende onderwerpen:
 
-Onverlet de overige bepalingen van paragraaf 9.6 van NEN-EN-ISO/IEC 17024:2012 moet de CKI rekening houden met bijzondere voorschriften ten aanzien van de hercertificatie, indien de minister hiervoor bijzondere bepalingen in een werkveldspecifiek certificatieschema heeft vastgesteld.
+De certificerende instelling besluit tot weigering van een certificaat, indien de certificaathouder:
 
 Indien de CKI de beoordeling van een praktijkverrichting noodzakelijk acht, dan moet de keuze van de vereiste verrichting beargumenteerd in verhouding staan tot de aanleiding voor de controle en de eindtermen en toetstermen van het certificatieschema.
 
@@ -9071,19 +9111,19 @@ Het uitvoeringsplan kan in overleg met de certificaathouder tot stand komen met 
 
 De praktijkverrichting die in de controle betrokken wordt, moet worden beoordeeld volgens de eisen van het certificatieschema.
 
-De CKI wordt in het kader van haar aanwijzing op grond van de [artikelen 1.5a t/m 1.5d Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) op de volgende criteria getoetst:
+Dit werkveldspecifieke certificatieschema wordt aangeduid als WSCS-WOD-A, Persoonscertificaat duikerarts. Het certificatieschema is door de Stichting werken onder overdruk (SWOD), als beheerstichting goedgekeurd en aangeboden aan het Ministerie van Sociale Zaken. De Minister van Sociale Zaken en Werkgelegenheid stelt het schema vast. De Minister van Sociale Zaken en Werkgelegenheid kan wijzigingen aanbrengen in de vastgestelde documenten. Dit schema vervangt eerdere versies.
 
 Indien de CKI van belanghebbende klachten over de certificaathouder ontvangt, moet de CKI beoordelen of de klacht aanleiding geeft tot een controle. De klager en de certificaathouder worden schriftelijk op de hoogte gesteld van de beslissing. Een eventuele controle wordt uitgevoerd zoals beschreven in paragraaf 6.3.1 tot en met 6.3.3.
 
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2021-05-01&g=2021-05-01) Arboregeling.
+Binnen het kader van dit certificatieschema zijn actief:
 
 De CKI maakt een verslag van de bevindingen naar aanleiding van de controles in het kader van het tussentijds toezicht. In het verslag wordt ingegaan op:
 
 Het verslag wordt ter beschikking gesteld van de certificaathouder. Tegen de eventueel opgelegde maatregel kan de certificaathouder overeenkomstig paragraaf 4.7 een verzoek tot herziening indienen.
 
-In verband met de verplichtingen in het kader van toezicht zijn de volgende artikelen van toepassing; [artikelen 1.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) en [1.5c Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5c) en [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2022-01-01&g=2022-01-01) Arboregeling.
+Binnen het kader van dit certificatieschema zijn actief:
 
-Ten behoeve van de informatieverzameling dient de CKI kosteloos:
+De vakbekwaamheidseisen zijn weergegeven als eindtermen en worden in het volgende hoofdstuk uitgewerkt in toetstermen. In de omschrijving van de eind- en toetstermen wordt gesproken over elementaire kennis en uitgebreide kennis. Deze indicaties van het kennisniveau worden in dit certificatieschema als volgt geïnterpreteerd:
 
 De certificerende instelling besluit tot schorsing van een certificaat, indien de certificaathouder:
 
@@ -9093,7 +9133,7 @@ De schorsing wordt verder opgeheven, indien de certificaathouder heeft voldaan a
 
 De schorsing als mede de opheffing van de schorsing wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-Document: WSCS-WOD-A
+Dit reglement omschrijft de procedures die relevant zijn voor de juiste toepassing van het specifieke schema. Hierbij moet gedacht worden aan onder meer de procedures van de aanvraag, examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, afgifte van certificaten, procedures bij het uitvoeren van beoordelingen, klachtenafhandeling en het indienen van verzoeken om herziening.
 
 De certificerende instelling besluit tot intrekking van een certificaat, indien de certificaathouder:
 
@@ -9101,73 +9141,33 @@ Indien een certificaathouder na een intrekking opnieuw gecertificeerd wil worden
 
 De intrekking wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-De te certificeren vakbekwaamheid betreft het uitvoeren van een arbeidsgezondheidskundig onderzoek in verband bij werknemers die duikarbeid verrichten. Onder duikarbeid wordt in overeenstemming met [artikel 6.13 lid 1 onder letter a van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.13) verstaan het verrichten van duikarbeid, caissonarbeid en overige arbeid onder overdruk. Het betreffende arbeidsgezondheidskundig onderzoek wordt uitgevoerd door duikerartsen. Het persoonscertificaat duikerarts is wettelijk vereist op grond van [artikel 6.14a lid 3 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a).
+De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CKI ten minste tweejaarlijks inzage in zijn doorlopende beroepservaring van ten minste 20 duiken waaraan hij de leiding heeft gegeven dan wel zodra aan deze eis van doorlopende beroepservaring is voldaan.
 
 De certificerende instelling besluit tot weigering van een certificaat, indien de certificaathouder:
 
 De weigering van een hercertificatie wordt onmiddellijk verwerkt in het openbaar register van de beheerstichting.
 
-Het is mogelijk dat enkele gedefinieerde begrippen of afkortingen niet letterlijk in de tekst van het certificatieschema voorkomen, maar deze begrippen of afkortingen zijn toch in de definitielijst opgenomen in verband met het feit dat de beheerstichting en het Ministerie van Sociale Zaken en Werkgelegenheid deze begrippen of afkortingen in direct verband tot dit certificatieschema kunnen hanteren.
+Voor de wijze van beoordelen is naast de toetstermen uit dit schema tevens van toepassing het document ‘Proeve van vakbekwaamheid brandweer duikploegleider’ zoals vastgesteld in het uitvoeringsbesluit van de CKI.
 
 De CKI moet onmiddellijk bij de Nederlandse Arbeidsinspectie melding maken van de haar bekende feiten ten aanzien van een kandidaat of certificaathouder in de volgende gevallen:
 
-Dit werkveldspecifieke certificatieschema wordt aangeduid als WSCS-WOD-A, Persoonscertificaat duikerarts. Het certificatieschema is door de Stichting werken onder overdruk (SWOD), als beheerstichting goedgekeurd en aangeboden aan het Ministerie van Sociale Zaken. De Minister van Sociale Zaken en Werkgelegenheid stelt het schema vast. De Minister van Sociale Zaken en Werkgelegenheid kan wijzigingen aanbrengen in de vastgestelde documenten. Dit schema vervangt eerdere versies.
+Voor de wijze van beoordelen van de toetstermen is het document ‘Proeve van vakbekwaamheid duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
 
 De vakbekwaamheid die gecertificeerd wordt, betreft het leiden van een duikploeg bij de brandweer. Het certificatieschema beschrijft de eisen die gesteld worden aan de vakbekwaamheid van de duikploegleider met de expliciete beperking dat leiding wordt gegeven aan een duikploeg bij de uitoefening van de brandweertaak.
 
-Binnen het kader van dit certificatieschema zijn actief:
+Voor de wijze van beoordelen van de toetstermen is het document ‘Proeve van vakbekwaamheid duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
 
 De kandidaat wordt toegelaten tot het certificatieproces ter verkrijging van het wettelijk vereiste persoonscertificaat duikploegleider, indien hij voldoet aan de volgende entreecriteria:
-
-De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
-
-Binnen het kader van dit certificatieschema zijn actief:
-
-De vakbekwaamheidseisen zijn weergegeven als eindtermen en worden in het volgende hoofdstuk uitgewerkt in toetstermen. In de omschrijving van de eind- en toetstermen wordt gesproken over elementaire kennis en uitgebreide kennis. Deze indicaties van het kennisniveau worden in dit certificatieschema als volgt geïnterpreteerd:
-
-De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
-
-De kandidaat is vakbekwaam als duikploegleider, indien hij voldoet aan de volgende eindtermen:
-
-De afzonderlijke risicofactoren treden vaak in onderlinge combinatie en per definitie in combinatie met de onderdompeling in water op. De gevolgen van een incident kunnen daarom zeer ernstig zijn en vereisen door de natuurkundige en lichamelijke verschijnselen in verband met de overdruk een specifieke behandeling. Voor de behandeling van incidenten onder overdruk is een gedegen kennis van de aard van de duikarbeid, duikerziekten en behandeling in compressiefaciliteiten noodzakelijk.
-
-Een meer omvangrijke risicoanalyse is opgenomen in het document Werkveldspecifiek document voor aanwijzing en toezicht op de certificerende instellingen belast met persoonscertificatie op het gebied van duikarbeid (WDAT-WOD-P).
-
-Dit reglement omschrijft de procedures die relevant zijn voor de juiste toepassing van het specifieke schema. Hierbij moet gedacht worden aan onder meer de procedures van de aanvraag, examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, afgifte van certificaten, procedures bij het uitvoeren van beoordelingen, klachtenafhandeling en het indienen van verzoeken om herziening.
-
-De CKI hanteert een standaardmethodiek om te beoordelen of de kandidaat voldoet aan de eindtermen. De vakbekwaamheid van de kandidaat wordt voor de verkrijging van het persoonscertificaat duikploegleider getoetst aan de volgende toetscriteria:
-
-Dit reglement omschrijft de procedures die relevant zijn voor de juiste toepassing van het specifieke schema. Hierbij moet gedacht worden aan onder meer de procedures van de aanvraag, examinering, de wijze waarop de uitslag bekend gemaakt wordt en condities met betrekking tot de certificatie, afgifte van certificaten, procedures bij het uitvoeren van beoordelingen, klachtenafhandeling en het indienen van verzoeken om herziening.
-
-De leidinggevende ervaring van de kandidaat wordt beoordeeld aan de hand van gegevens uit het duikploegleiderlogboek, waarin ten minste melding wordt gemaakt van:
-
-De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CKI ten minste tweejaarlijks inzage in zijn doorlopende beroepservaring van ten minste 20 duiken waaraan hij de leiding heeft gegeven dan wel zodra aan deze eis van doorlopende beroepservaring is voldaan.
-
-De geldigheidsduur van het certificaat is op grond van de risicoanalyse vier jaar. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in de verrichtingen en bekendheid met de technieken en de werkzaamheden bij duikarbeid. Gedurende deze periode van vier jaar is het voor de certificaathouder noodzakelijk om de doorlopende beroepservaring te onderhouden en te ontwikkelen.
-
-Het examen bestaat ten minste uit:
-
-Voor de wijze van beoordelen is naast de toetstermen uit dit schema tevens van toepassing het document ‘Proeve van vakbekwaamheid brandweer duikploegleider’ zoals vastgesteld in het uitvoeringsbesluit van de CKI.
-
-De geldigheidsduur van het certificaat is op grond van de risicoanalyse vier jaar. De risico’s van de werkzaamheden worden beperkt door praktische bedrevenheid in de verrichtingen en bekendheid met de technieken en de werkzaamheden bij duikarbeid. Gedurende deze periode van vier jaar is het voor de certificaathouder noodzakelijk om de doorlopende beroepservaring te onderhouden en te ontwikkelen.
-
-Voor de wijze van beoordelen van de toetstermen is het document ‘Proeve van vakbekwaamheid duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
-
-Met betrekking tot de geldigheid van het certificaat worden nadere condities gesteld. Als niet aan de condities wordt voldaan, dan heeft dat consequenties voor het certificaat. De condities en de wijze van toezicht daarop door de certificerende instelling worden beschreven in deel II van het certificatieschema.
-
-Voor de wijze van beoordelen van de toetstermen is het document ‘Proeve van vakbekwaamheid duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
-
-Aan een CKI worden onder meer de volgende eisen gesteld:
 
 Voor de bepaling van het slagen van de kandidaat is het document ‘Proeve van vakbekwaamheid voor duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
 
 Aan een CKI worden onder meer de volgende eisen gesteld:
 
-Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie.
+De vakbekwaamheidseisen zijn weergegeven als eindtermen en worden in het volgende hoofdstuk uitgewerkt in toetstermen. In de omschrijving van de eind- en toetstermen wordt gesproken over elementaire kennis en uitgebreide kennis. Deze indicaties van het kennisniveau worden in dit certificatieschema als volgt geïnterpreteerd:
 
 Voor de vervolgafgifte van het wettelijk verplichte persoonscertificaat duikploegleider bij de brandweer gelden de volgende toetstermen:
 
-Echter, indien het naar de mening van de CKI een ernstige klacht betreft, dient de CKI, naast de behandeling door het bedrijf of de persoon, zelf ook direct te beoordelen of de klacht gevolgen dient te hebben voor de beslissing m.b.t. certificatie.
+De kandidaat is vakbekwaam als duikploegleider, indien hij voldoet aan de volgende eindtermen:
 
 In dat geval dient de CKI af te wegen of het gewenst is een extra beoordeling uit te voeren. De kosten van deze extra beoordeling komen in beginsel voor rekening van de certificaathouder.
 
@@ -9175,13 +9175,53 @@ De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercerti
 
 In deze werkinstructie wordt de afhandeling van een klacht besproken. Voor iedere afzonderlijke klacht wordt een apart klachtenformulier ingevuld.
 
-De hercertificatie na iedere periode van vier jaar wordt beoordeeld door middel van:
+De CKI hanteert een standaardmethodiek om te beoordelen of de kandidaat voldoet aan de eindtermen. De vakbekwaamheid van de kandidaat wordt voor de verkrijging van het persoonscertificaat duikploegleider getoetst aan de volgende toetscriteria:
 
 De kwaliteitsmanager registreert de klacht op een klachtenformulier en stelt de directeur CKI op de hoogte van de klacht. De directeur van de CKI wijst de klachtafhandelaar aan. De kwaliteitsmanager vermeldt de klachtafhandelaar op het klachtenformulier en brengt de klachtafhandelaar schriftelijk op de hoogte van de klacht. De klachtafhandelaar informeert de indiener van de klacht schriftelijk over de ontvangst van de klacht.
 
+De leidinggevende ervaring van de kandidaat wordt beoordeeld aan de hand van gegevens uit het duikploegleiderlogboek, waarin ten minste melding wordt gemaakt van:
+
+De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CKI ten minste tweejaarlijks inzage in zijn doorlopende beroepservaring van ten minste 20 duiken waaraan hij de leiding heeft gegeven dan wel zodra aan deze eis van doorlopende beroepservaring is voldaan.
+
+Op het certificaat moeten minimaal de volgende gegevens vermeld zijn:
+
+Het examen bestaat ten minste uit:
+
+Voor de wijze van beoordelen is naast de toetstermen uit dit schema tevens van toepassing het document ‘Proeve van vakbekwaamheid brandweer duikploegleider’ zoals vastgesteld in het uitvoeringsbesluit van de CKI.
+
+De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht.
+
+Voor de wijze van beoordelen van de toetstermen is het document ‘Proeve van vakbekwaamheid duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
+
+Indien niet voldaan wordt aan deze condities kan het certificaat worden geschorst of ingetrokken.
+
+Voor de wijze van beoordelen van de toetstermen is het document ‘Proeve van vakbekwaamheid duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
+
+Algemeen:
+
+Voor de bepaling van het slagen van de kandidaat is het document ‘Proeve van vakbekwaamheid voor duikploegleider’ zoals vastgesteld door het bestuur van het Nederlands bureau brandweerexamens (Nbbe) van toepassing.
+
+Het bezwaar wordt niet-ontvankelijk verklaard:
+
+Algemeen:
+
+Voor de vervolgafgifte van het wettelijk verplichte persoonscertificaat duikploegleider bij de brandweer gelden de volgende toetstermen:
+
+De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan het de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
+
+De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan het de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
+
+De beoordeling van de doorlopende beroepservaring maakt deel uit van de hercertificatie. De certificaathouder geeft de CKI ten minste tweejaarlijks inzage in zijn doorlopende beroepservaring van ten minste 20 duiken waaraan hij de leiding heeft gegeven dan wel zodra aan deze eis van doorlopende beroepservaring is voldaan.
+
+Het CCvD WOD moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, certificerende instellingen of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
+
+De hercertificatie na iedere periode van vier jaar wordt beoordeeld door middel van:
+
+De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en praktijkexamen waarmee de vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat dient te voldoen aan de gestelde entree-eisen.
+
 De hercertificatie wordt na een periode van vier jaar verleend, indien aan de hercertificatie-eis na een wordt voldaan en tevens de toetskaart met voldoende resultaat is beoordeeld.
 
-Klachtafhandelaar beoordeelt de klacht en stelt vast of de klacht een incident betreft of dat de klacht moet leiden tot een aanpassing in de werkwijze.
+De CKI houdt hierbij rekening met het volgende:
 
 Op het certificaat moeten minimaal de volgende gegevens vermeld zijn:
 
@@ -9189,51 +9229,11 @@ Op het certificaat wordt de tekst opgenomen dat de CKI verklaart dat de betreffe
 
 De tekst vermeldt tevens of het certificaat is afgeven op grond van een initiële certificatie of een hercertificatie.
 
-De klachtafhandelaar stelt de indiener op de hoogte van de afhandeling van de klacht.
+Het examenreglement is onderdeel van het certificatieschema duikerarts. De examinering geschiedt onder verantwoordelijkheid van de certificerende instelling en bestaat uit de volgende onderdelen:
 
 Gedurende de looptijd gelden de volgende condities waar de certificaathouder zich aan moet houden:
 
 Indien niet voldaan wordt aan deze condities kan het certificaat worden geschorst of ingetrokken.
-
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
-
-Algemeen:
-
-Onderstaand worden de stappen beschreven die nodig zijn voor het afhandelen van een bezwaarschrift. Een dergelijk bezwaarschrift kan bijvoorbeeld ingediend worden tegen besluiten van de CKI inzake het niet (opnieuw) verlenen, schorsen of intrekken van een certificaat.
-
-Het bezwaar wordt niet-ontvankelijk verklaard:
-
-Algemeen:
-
-Het bezwaar wordt niet-ontvankelijk verklaard:
-
-De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan het de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
-
-De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan het de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
-
-De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan het de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
-
-Het CCvD WOD moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, certificerende instellingen of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
-
-De certificerende instelling registreert de gegevens van de certificaathouder. Deze gegevens worden tenminste zo vaak als mutaties zich voordoen elektronisch verzonden aan het de beheerstichting. De overeenkomst met de certificerende instelling zal voorschrijven welk digitale formaat de toelevering van gegevens moet hebben, zodat de gegevens kunnen worden gebruikt voor het SWOD Certificaatregister. Dit register wordt opgezet in overeenstemming met wettelijke bepalingen en wordt via internet toegankelijk gemaakt. De beheerstichting is verantwoordelijk voor het beheer van het register, doch draagt geen aansprakelijkheid voor eventuele onvolkomenheden.
-
-De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en praktijkexamen waarmee de vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat dient te voldoen aan de gestelde entree-eisen.
-
-Het CCvD WOD moet zorgen voor eenduidige norminterpretatie van dit certificatieschema. Toch kan het voorkomen dat er in de operationele fase verschillende interpretaties bestaan van één of meerdere in werkveldspecifieke certificatieschema’s gehanteerde begrippen. Mocht het gebeuren dat certificaathouders, certificerende instellingen of andere belanghebbenden uiteenlopende definities hanteren en hierover meningsverschillen bestaan, dan moeten afwijkende interpretaties worden voorgelegd aan het college.
-
-De CKI houdt hierbij rekening met het volgende:
-
-De kandidaat die beschikt over een certificaat waarvan de geldigheidsduur is verlopen en/of niet voldoet aan de eisen gesteld aan de procedure tot hercertificatie, moet een initiële certificatie aanvragen. De CKI gaat dan over tot het vaststellen van het theorie-examen en praktijkexamen waarmee de vakbekwaamheid van de kandidaat kan worden getoetst. De kandidaat dient te voldoen aan de gestelde entree-eisen.
-
-De CKI houdt hierbij rekening met het volgende:
-
-Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het persoonscertificaat duikerarts (WSCS-WOD-A).
-
-Het examenreglement is onderdeel van het certificatieschema duikerarts. De examinering geschiedt onder verantwoordelijkheid van de certificerende instelling en bestaat uit de volgende onderdelen:
-
-Dit reglement bevat bepalingen voor de voorbereiding, uitvoering en beoordeling van examens ten behoeve van het persoonscertificaat duikerarts (WSCS-WOD-A).
-
-Het examenreglement is onderdeel van het certificatieschema duikerarts. De examinering geschiedt onder verantwoordelijkheid van de certificerende instelling en bestaat uit de volgende onderdelen:
 
 Het examen wordt door de certificerende instelling afgenomen.
 
@@ -11925,7 +11925,7 @@ Intrinsieke kenmerken:
 
 ##### Artikel 2.0. Veiligheidsbeheerssysteem
 
-In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen ten minste de elementen aan de orde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=I&z=2022-07-01&g=2022-07-01) bij deze regeling.
+In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen ten minste de elementen aan de orde, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=I&z=2022-12-13&g=2022-12-13) bij deze regeling.
 
 ##### Artikel 2.0a. Procedures risico-inventarisatie en -evaluatie
 
@@ -11961,7 +11961,7 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ##### Artikel 2.0c. Intern noodplan
 
-Het intern noodplan, bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c), bevat ten minste de gegevens en de beschrijvingen, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=II&z=2022-07-01&g=2022-07-01) bij deze regeling.
+Het intern noodplan, bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c), bevat ten minste de gegevens en de beschrijvingen, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=II&z=2022-12-13&g=2022-12-13) bij deze regeling.
 
 #### Paragraaf 2.1. Nadere voorschriften risico-inventarisatie en -evaluatie
 
@@ -12185,9 +12185,9 @@ Met betrekking tot de geldigheid van het certificaat worden condities gesteld. I
 
 ### 4.6. **Klachten**
 
-De examinatoren, de overige betrokkenen bij het examen en het personeel van de CKI moeten jegens de examenkandidaat onafhankelijk en onbevooroordeeld kunnen optreden. De onafhankelijkheid van alle betrokken omvat ten minste dat zij niet persoonlijk betrokken zijn geweest bij de opleiding van de kandidaat en dat zij in relatie tot de werkgever van de kandidaat aantoonbaar over voldoende onafhankelijkheid beschikken om hun optreden tijdens het examen en jegens de kandidaat hierdoor niet te laten beïnvloeden. De CKI moet ervoor zorgen dat de kandidaten tijdens het examen gelijke kansen krijgen en het examen veilig kunnen uitvoeren.
+De vereisten in dit document ten aanzien van de CKI moeten de bovengenoemde risico’s beperken.
 
-### 9. **Competentieprofiel**
+### 4.1.2. **Voldoende personeel**
 
 De hercertificatie van beperkt duikmedisch begeleider (EHBO Duikarbeid/WSCS-WOD-B-B1)) en duikmedisch begeleider (mad A/WSCS-WOD-B-B2)) wordt beoordeeld door middel van een documentenonderzoek en een theorie- en praktijkexamen. Bij het documentenonderzoek moet een getuigschrift of diploma kunnen worden overlegd van een herhalingsopleiding duikmedisch begeleider dat niet ouder is dan 3 maanden.
 
@@ -12934,7 +12934,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage I. behorend bij [artikel 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2022-07-01&g=2022-07-01)
+## Bijlage I. behorend bij [artikel 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2022-12-13&g=2022-12-13)
 
 In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen aan de orde:
 
@@ -12960,11 +12960,11 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met: persoonscertificatie op gebied van Arbeids- en Organisatiedeskundige, Arbeidshygiënist en Hogere Veiligheidskundige
 
-## Bijlage IIe. behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2022-07-01&g=2022-07-01)
+## Bijlage IIe. behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2022-12-13&g=2022-12-13)
 
 Vervallen
 
-## Bijlage IIf. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2022-07-01&g=2022-07-01)
+## Bijlage IIf. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2022-12-13&g=2022-12-13)
 
 Vervallen
 
@@ -12972,13 +12972,13 @@ Vervallen
 
 Vervallen
 
-## Bijlage IV. behorend bij [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01)
+## Bijlage IV. behorend bij [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13)
 
-De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01), betreft voor zover van toepassing:
+De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13), betreft voor zover van toepassing:
 
 - a. een locatiekaart waarop de inter- en intrafieldpijpleidingen alsmede de onder water afgewerkte boorgaten zijn aangeduid;
 
-- b. algemene tekeningen van ligging en plattegrond van het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), of de opbouw en configuratie van de mijnbouwinstallatie, bedoel in [artikel 3.6, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01);
+- b. algemene tekeningen van ligging en plattegrond van het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), of de opbouw en configuratie van de mijnbouwinstallatie, bedoel in [artikel 3.6, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13);
 
 - c. voor- en zijaanzichten van het mijnbouwwerk;
 
@@ -13010,11 +13010,11 @@ De informatie, bedoeld in [artikel 3.9, onderdeel b](https://wetten.overheid.nl/
 
 - r. de locatie van opslagplaatsen voor ontplofbare stoffen.
 
-## Bijlage V. behorend bij [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01)
+## Bijlage V. behorend bij [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13)
 
-De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01), betreft:
+De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13), betreft:
 
-- 1. een plattegrond van het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), en, voor zover nodig, een situatieschets van elk van de op het mijnbouwwerk aanwezige installaties, verblijven of overige lokalen, waarop zijn aangegeven:
+- 1. een plattegrond van het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), en, voor zover nodig, een situatieschets van elk van de op het mijnbouwwerk aanwezige installaties, verblijven of overige lokalen, waarop zijn aangegeven:
 
 - a. de plaatsen en ruimten waar stoffen, voor welke verhoogd brandgevaar bestaat, worden verkregen, behandeld, verwerkt, gebezigd, vervoerd of opgeslagen zomede de plaatsen en ruimten, waar stoffen, die direct of indirect gevaar voor ontploffing kunnen veroorzaken, worden verkregen, behandeld, verwerkt, gebezigd, vervoerd of opgeslagen, met de naaste omgeving daarvan;
 
@@ -13026,7 +13026,7 @@ De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 
 
 - e. het globale aantal en de soort handbrandblusapparaten per ruimte; de plaatsen, waar pompen voor de bluswatervoorziening zijn opgesteld, de capaciteit van deze pompen, de plaatsen waar hydranten en brandslangen aanwezig zijn en brandslangen aan de bluswaterleiding kunnen worden aangesloten;
 
-- f. indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01): de aanwezigheid van vijvers en sloten, indien bluswater zonodig aan het oppervlaktewater zal worden onttrokken;
+- f. indien het brandbestrijdingsplan betrekking heeft op een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13): de aanwezigheid van vijvers en sloten, indien bluswater zonodig aan het oppervlaktewater zal worden onttrokken;
 
 - 2. de organisatie van de brandbestrijdingsdienst;
 
@@ -13036,9 +13036,9 @@ De informatie met betrekking tot het brandbestrijdingsplan, bedoeld in [artikel 
 
 - 5. gegevens betreffende ademhalingsbeschermingsmiddelen voor de met het bestrijden van brand belaste personen.
 
-## Bijlage VI. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01)
+## Bijlage VI. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13)
 
-Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01), met betrekking tot het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) of iedere vast opgestelde mijnbouwinstallatie, bedoeld in [artikel 3.6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) betreft ten aanzien van:
+Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13), met betrekking tot het mijnbouwwerk op het land, bedoeld in [artikel 3.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) of iedere vast opgestelde mijnbouwinstallatie, bedoeld in [artikel 3.6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) betreft ten aanzien van:
 
 - A. het voorontwerprapport:
 
@@ -13114,9 +13114,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 - het aantonen dat de hoeveelheid koolwaterstoffen, toxische stoffen en chemische stoffen geminimaliseerd is.
 
-## Bijlage VII. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01)
+## Bijlage VII. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13)
 
-Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01), met betrekking tot iedere als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) en iedere andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in of aan een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) betreft ten aanzien van:
+Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13), met betrekking tot iedere als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) en iedere andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in of aan een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) betreft ten aanzien van:
 
 - A. het gedetailleerd ontwerp, opstarten en gebruik:
 
@@ -13142,7 +13142,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 - het evalueren van de bestaande systemen van toezicht ten aanzien van de werkzaamheden;
 
-- het evalueren van de procedures voor het in gebruik nemen en het verwijderen van de als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) of andere verplaatsbare mijnbouwinstallatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01);
+- het evalueren van de procedures voor het in gebruik nemen en het verwijderen van de als een geheel verplaatsbare mijnbouwinstallatie als bedoeld in [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) of andere verplaatsbare mijnbouwinstallatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13);
 
 - B. het addendum gebruik:
 
@@ -13164,9 +13164,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 - het aantonen van de doelgerichtheid en de doeltreffendheid van alle beheerssystemen.
 
-## Bijlage VIII. behorend bij [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2022-07-01&g=2022-07-01)
+## Bijlage VIII. behorend bij [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2022-12-13&g=2022-12-13)
 
-De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2022-07-01&g=2022-07-01), betreft:
+De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2022-12-13&g=2022-12-13), betreft:
 
 - a. een beschrijving van de organisatiestructuur van de werkgever en de en verantwoordelijke personen in geval van nood alsmede een overzicht van hun taken en bevoegdheden;
 
@@ -13188,7 +13188,7 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 - j. de te nemen maatregelen ter verzekering van de veiligheid en gezondheid van met reddingswerk belaste personen, met name met het oog op de aan het verrichten van reddingswerk in een atmosfeer, waarin verstikkende of giftige gassen aanwezig zijn, of in een met radioactieve stoffen besmette atmosfeer verbonden gevaren.
 
-## Bijlage IX. behorend bij [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2022-07-01&g=2022-07-01)
+## Bijlage IX. behorend bij [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2022-12-13&g=2022-12-13)
 
 **Veiligheids- en gezondheidsverklaring 10**
 
@@ -13438,11 +13438,11 @@ De toestand van de ladingzone is gelijk aan de toestand zoals die vermeld wordt 
 
 De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-## Bijlage X. behorend bij [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2&artikel=4.16&z=2022-07-01&g=2022-07-01) van de Arbeidsomstandighedenregeling
+## Bijlage X. behorend bij [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2&artikel=4.16&z=2022-12-13&g=2022-12-13) van de Arbeidsomstandighedenregeling
 
 Vervallen
 
-## Bijlage XI. behorend bij [Artikel 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2022-07-01&g=2022-07-01)
+## Bijlage XI. behorend bij [Artikel 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2022-12-13&g=2022-12-13)
 
 Vervallen
 
@@ -13450,7 +13450,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage II. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2022-07-01&g=2022-07-01)
+## Bijlage II. behorend bij [artikel 2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2022-12-13&g=2022-12-13)
 
 Het intern noodplan als bedoeld in [artikel 2.5c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5c) bevat de volgende gegevens en beschrijvingen:
 
@@ -13470,7 +13470,7 @@ Het intern noodplan als bedoeld in [artikel 2.5c van het besluit](https://wetten
 
 ### Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met: persoonscertificatie op gebied van Arbeids- en Organisatiedeskundige, Arbeidshygiënist en Hogere Veiligheidskundige
 
-## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2022-07-01&g=2022-07-01)
+## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2022-12-13&g=2022-12-13)
 
 Vervallen
 
@@ -13620,11 +13620,11 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 3. Maatregelen
 
-## Bijlage IIc. behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2022-07-01&g=2022-07-01)
+## Bijlage IIc. behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.14&z=2022-12-13&g=2022-12-13)
 
 Vervallen
 
-## Bijlage IId. behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2022-07-01&g=2022-07-01)
+## Bijlage IId. behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2022-12-13&g=2022-12-13)
 
 Vervallen
 
@@ -14180,7 +14180,7 @@ Een aanwijzing als certificerende instelling als bedoeld in [artikel 4.10, vijfd
 
 ### Hoofdstuk 8a. Strafbare feiten en beboetbare feiten
 
-## Bijlage IIa. behorend bij [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2022-07-01&g=2022-07-01) Arbeidsomstandighedenregeling
+## Bijlage IIa. behorend bij [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2022-12-13&g=2022-12-13) Arbeidsomstandighedenregeling
 
 Vervallen
 
@@ -14224,7 +14224,7 @@ Vervallen
 
 ### 2. Risico’s
 
-## Bijlage IIb. behorend bij [Artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2022-07-01&g=2022-07-01) Arbeidsomstandighedenregeling
+## Bijlage IIb. behorend bij [Artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2022-12-13&g=2022-12-13) Arbeidsomstandighedenregeling
 
 Vervallen
 
@@ -14240,7 +14240,7 @@ Vervallen
 
 ##### Artikel 8.29a. Overtredingen
 
-Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of het nalaten in strijd met de voorschriften welke zijn opgenomen in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2022-07-01&g=2022-07-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2022-07-01&g=2022-07-01), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2022-07-01&g=2022-07-01), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2022-07-01&g=2022-07-01), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.13&z=2022-07-01&g=2022-07-01), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2022-07-01&g=2022-07-01), [4.3 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2022-07-01&g=2022-07-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-07-01&g=2022-07-01), [4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2022-07-01&g=2022-07-01), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1a&artikel=4.15&z=2022-07-01&g=2022-07-01), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2022-07-01&g=2022-07-01), [4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2022-07-01&g=2022-07-01), [4.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19b&z=2022-07-01&g=2022-07-01), [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2022-07-01&g=2022-07-01), [4.20a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20a&z=2022-07-01&g=2022-07-01), [4.20b, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20b&z=2022-07-01&g=2022-07-01), [4.22 tot en met 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.22&z=2022-07-01&g=2022-07-01), [5.1 tot en met 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=5&artikel=5.1&z=2022-07-01&g=2022-07-01), [8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.1&z=2022-07-01&g=2022-07-01), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2022-07-01&g=2022-07-01), [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.3&z=2022-07-01&g=2022-07-01), [8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2022-07-01&g=2022-07-01), [8.5 tot en met 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2022-07-01&g=2022-07-01), [8.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2022-07-01&g=2022-07-01), en [8.13 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.13&z=2022-07-01&g=2022-07-01).
+Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of het nalaten in strijd met de voorschriften welke zijn opgenomen in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2022-12-13&g=2022-12-13), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2022-12-13&g=2022-12-13), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2022-12-13&g=2022-12-13), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2022-12-13&g=2022-12-13), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.13&z=2022-12-13&g=2022-12-13), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2022-12-13&g=2022-12-13), [4.3 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2022-12-13&g=2022-12-13), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-12-13&g=2022-12-13), [4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2022-12-13&g=2022-12-13), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1a&artikel=4.15&z=2022-12-13&g=2022-12-13), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2022-12-13&g=2022-12-13), [4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2022-12-13&g=2022-12-13), [4.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19b&z=2022-12-13&g=2022-12-13), [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2022-12-13&g=2022-12-13), [4.20a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20a&z=2022-12-13&g=2022-12-13), [4.20b, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20b&z=2022-12-13&g=2022-12-13), [4.22 tot en met 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.5&artikel=4.22&z=2022-12-13&g=2022-12-13), [5.1 tot en met 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=5&artikel=5.1&z=2022-12-13&g=2022-12-13), [8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.1&z=2022-12-13&g=2022-12-13), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2022-12-13&g=2022-12-13), [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.3&z=2022-12-13&g=2022-12-13), [8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2022-12-13&g=2022-12-13), [8.5 tot en met 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2022-12-13&g=2022-12-13), [8.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2022-12-13&g=2022-12-13), en [8.13 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.13&z=2022-12-13&g=2022-12-13).
 
 ##### Artikel 8.29b
 
@@ -14466,25 +14466,25 @@ Als soortgelijke overtredingen als bedoeld in artikel 9.10c van het besluit word
 
 - c. van de Arbeidsomstandighedenregeling:
 
-- 1°. [artikel 3.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2022-07-01&g=2022-07-01);
+- 1°. [artikel 3.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2022-12-13&g=2022-12-13);
 
-- 2°. [artikel 3.11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2022-07-01&g=2022-07-01);
+- 2°. [artikel 3.11, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2022-12-13&g=2022-12-13);
 
-- 3°. [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2022-07-01&g=2022-07-01);
+- 3°. [artikel 3.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2022-12-13&g=2022-12-13);
 
-- 4°. [artikel 4.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2022-07-01&g=2022-07-01);
+- 4°. [artikel 4.4, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2022-12-13&g=2022-12-13);
 
-- 5°. [artikel 4.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2022-07-01&g=2022-07-01);
+- 5°. [artikel 4.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.6&z=2022-12-13&g=2022-12-13);
 
-- 6°. [artikel 4.7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2022-07-01&g=2022-07-01);
+- 6°. [artikel 4.7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2022-12-13&g=2022-12-13);
 
-- 7°. [artikel 4.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-07-01&g=2022-07-01);
+- 7°. [artikel 4.9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2022-12-13&g=2022-12-13);
 
-- 8°. [artikel 4.15, eerste lid, onderdelen a tot en met d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1a&artikel=4.15&z=2022-07-01&g=2022-07-01);
+- 8°. [artikel 4.15, eerste lid, onderdelen a tot en met d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1a&artikel=4.15&z=2022-12-13&g=2022-12-13);
 
-- 9°. de [artikelen 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2022-07-01&g=2022-07-01), en [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2022-07-01&g=2022-07-01); en
+- 9°. de [artikelen 4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2022-12-13&g=2022-12-13), en [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2022-12-13&g=2022-12-13); en
 
-- 10°. [artikel 8.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2022-07-01&g=2022-07-01).
+- 10°. [artikel 8.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2022-12-13&g=2022-12-13).
 
 ### Hoofdstuk 8a. Strafbare feiten en overtredingen
 
@@ -15179,9 +15179,9 @@ Vervallen
 
 ### Bijlage A. gedragscode vuurwerkdeskundige
 
-### 4.4. **Geldigheidsduur**
+### H (Huidopname)
 
-### Specialisaties van de Arbeidshygiënist
+### A. Lijst wettelijke grenswaarden
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Hogere Veiligheidskundige
 
@@ -15257,7 +15257,7 @@ Vervallen
 
 ### 3. **De werkveldspecifieke kenmerken**
 
-## Bijlage XIIc. behorend bij [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2022-07-01&g=2022-07-01)
+## Bijlage XIIc. behorend bij [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2022-12-13&g=2022-12-13)
 
 De grenswaarde voor een gevaarlijke stof geldt in beginsel alleen voor blootstelling aan de stof in zuivere vorm en is niet zonder meer van toepassing indien de stof een bestanddeel is van een mengsel van stoffen, waaraan blootstelling plaatsvindt of kan plaatsvinden.
 
@@ -15267,13 +15267,13 @@ Indien de verschillende stoffen in een mengsel afzonderlijk hetzelfde gezondheid
 
 De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzonderlijke grenswaarden, is kleiner dan één. Of te wel:
 
-## Bijlage XIII. behorend bij [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2022-07-01&g=2022-07-01)
+## Bijlage XIII. behorend bij de [artikelen 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2022-12-13&g=2022-12-13), en [4.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2022-12-13&g=2022-12-13)
 
-### Inleiding
+### Respirabel/inhaleerbaar stof
 
 ### Kennisspecialisatie
 
-### **Inhoudsopgave**
+### B. Lijst met wettelijke grenswaarden voor kankerverwekkende stoffen
 
 ## Bijlage XIIIc. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-07-01&g=2022-07-01)
 
@@ -15303,7 +15303,7 @@ Vervallen
 
 ### Inleiding
 
-### T-Profielen
+### Respirabele vezels
 
 ### Branche/beroep/proces-specialisatie
 
@@ -15548,7 +15548,7 @@ Intrinsieke kenmerken:
 
 ### Procedure wederzijds erkenning buitenlandse beroepskwalificaties
 
-## Bijlage XIIa. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2022-07-01&g=2022-07-01)
+## Bijlage XIIa. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2022-12-13&g=2022-12-13)
 
 ## Bijlage I. behorend bij [artikel 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2012-07-01&g=2012-07-01)
 
@@ -15612,31 +15612,31 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 4.7. **Bezwaarprocedure**
 
-### Artikel 12:. geldigheid
+### Protocol Informatieuitwisseling ASBESTverwijdering Nederlandse Arbeidsinspectie – Certificerende Instellingen
 
 ### 4.9. **Norminterpretatie**
 
-### Bijlage A. Afwijkingen genoemd in bijlage H van SC 530 die direct telefonisch aan de Nederlandse Arbeidsinspectie moeten worden gemeld
+### Artikel 1:. begripsomschrijvingen
 
 ### 5.1. **Doelstelling**
 
-### 5.2. **Het examenreglement**
+### Artikel 4:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van overige categorie II afwijkingen (bijlage B van dit protocol)
 
-### 5.3. **Beheer centrale itembank en examenversies**
+### Artikel 6:. melding door de Nederlandse Arbeidsinspectie aan de Certificerende Instelling van overtredingen die leiden tot (een groot risico op) asbestemissie (bijlage A van dit protocol)
 
-### 1. **Inleiding**
+### Artikel 8:. privacy-aspecten
 
-### 2. **Definities**
+### Artikel 10:. wijzigingen in en opzegging van het Protocol
 
-### 3. **Werkveldspecifieke kenmerken**
+### Artikel 11:. evaluatie
 
 ### 3.3. **Risicoanalyse**
 
-### 6.3. **Verslag van bevindingen**
+### Bijlage B. Categorie II overtredingen vastgesteld tijdens een projectlocatie, niet zijnde overtredingen genoemd in bijlage A
 
 ### 4. **Eisen ten behoeve van de aanwijzing**
 
-### 4.1.2. **Voldoende personeel**
+### **Inhoudsopgave**
 
 ### 4.1.3. **Ontwikkeling en onderhoud van het certificatieschema**
 
@@ -15644,11 +15644,11 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 7. **Het onderwerp van certificatie**
 
-### 11.3. **Toets (verdediging van het portfolio)**
+### 3.1. **Beschrijving van het document**
 
-### 11.3. **Toets (verdediging van het portfolio)**
+### 3.3. **Risicoanalyse**
 
-### 12. **Het certificaat**
+### 4.1. **Persoonscertificatie bij werken onder overdruk**
 
 ### 4.1.7. **Toezicht op de certificaathouder**
 
@@ -15658,51 +15658,51 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 5. **Toezicht**
 
-### 10. **Toetsmethodiek bij initiële certificatie**
+### 4.1.4. **Aan derden uitbestede werkzaamheden**
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts
 
 ### **Inhoudsopgave**
 
-### 7.7.8. Inkoop en uitbesteding
+### 4.1.6. **Vermeldingen op het certificaat**
 
-### 10.2. **Toets (Overhoring van het portfolio)**
+### 4.1.8. **Hercertificatie**
 
-### 3.2. **Beschrijving van het schema**
+### 4.2. **Aanwijzingscriteria**
 
-### 3.3. **Actieve partijen**
+### 5. **Toezicht**
 
 ### 3.4. **Risicoanalyse en afbreukcriteria**
 
-### Procedure
+### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts
 
-### 4.1. **Doelstelling**
+### **Inhoudsopgave**
 
 ### 4.2. **Certificatieprocedure**
 
 ### 4.4. **Geldigheidsduur van het certificaat**
 
-### 4.6. **Klachtenregeling**
+### 3.2. **Beschrijving van het schema**
 
-### 13. **Geldigheidscondities**
+### 3.3. **Actieve partijen**
 
 ### Klachten over de CKI
 
-### Klachten over het bedrijf of de persoon
+### 4. **Certificatiereglement**
 
 ### Bijlage 1:. Klachtenregeling
 
 ### Klachtenregeling
 
-### Klachtenregeling
+### 4.3. **Certificatiebeslissing**
 
-### 2. **Kerntaken**
+### 4.5. **Geldigheidscondities**
 
 ### 2.2. Beschrijving van de kerntaken
 
 ### 4.7.3. **Procedure**
 
-### 4.7.5. **Bestuursrechter**
+### 4.6.3. **Klachtenregeling**
 
 ### 4.8. **Register voor vakbekwaamheid**
 
@@ -15714,21 +15714,21 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 5. **Examenreglement**
 
-### 5.2. **Uitvoering van het examen**
+### 4.7.1. **Inleiding**
 
 ### 4.1. Beslotenheid van examens
 
 ### 4.2. Algemene regels bij de uitvoering van examens
 
-### 5.4.1. **Beslotenheid**
+### 4.7.4. **Beslissing op het bezwaarschrift**
 
-### Inleiding
+### 4.9. **Norminterpretatie**
 
-### Inleiding
+### 4.10. **Aanvraag van het certificaat bij herintreding**
 
 ### 6. **Toezicht**
 
-### Indeling van het competentieprofiel
+### 5. **Examenreglement**
 
 ### 6.2. **Frequentie van het toezicht**
 
@@ -15736,21 +15736,21 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 6.3. **Uitvoering van het toezicht**
 
-### 6.3.1. **Uitvoeringsplan**
+### 5.3. **Eisen te stellen aan het examenpersoneel**
 
 ### 2.1. Inleiding
 
-### 6.3.3. **Beoordeling van een praktijkverrichting**
+### 5.4.2. **Algemene regels**
 
 ### 6.4. **Verslag van bevindingen**
 
 ### Bijlage 8:. Overgangsregeling
 
-### 3.2. Algemene competenties
+### 6.2. **Frequentie van het toezicht**
 
-### Bijlage 8:. Overgangsregeling
+### 6.3. **Uitvoering van het toezicht**
 
-### 3.1. **Beschrijving schema**
+### 6.3.3. **Beoordeling van een praktijkverrichting**
 
 ### 3.3. **Risicoanalyse en afbreukrisico**
 
@@ -15768,9 +15768,9 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 11.1. **Toetstermen voor hercertificatie**
 
-### 11.2.1. **Hercertificatie**
+### 10. **Toetsmethodiek bij initiële certificatie**
 
-### **Inhoudsopgave**
+### 10.1. **Toetstermen**
 
 ### 6.2. **Frequentie en uitvoering van het toezicht**
 
@@ -15780,17 +15780,17 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 3.2. **Actieve partijen**
 
-### 13. **Geldigheidscondities**
+### 11.1. **Toetstermen voor hercertificatie**
 
 ### 3.1. **Beschrijving schema**
 
-### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider
+### 11.2.1. **Hercertificatie**
 
 ### 4.1. **Doelstelling**
 
-### 4.3. **Certificatiebesluit**
+### 11.2.2. **Hercertificatie met aantekening**
 
-### 4.5. **Geldigheidscondities**
+### 11.3. **Cesuur van de beoordeling**
 
 ### 4.8. **Register voor vakbekwaamheid**
 
@@ -15798,45 +15798,45 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 3.4. **Risicoanalyse en afbreukcriteria**
 
-### 5.1. **Doelstelling**
+### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider
 
 ### 5.1. **Doelstelling**
 
-### 5.2. **Het examenreglement**
+### **Inhoudsopgave**
 
-### 4. **Certificatiereglement**
+### 1. **Inleiding**
 
 ### 4.1. **Doelstelling**
 
 ### 4.3. **Certificatiebeslissing**
 
-### 4.4. **Geldigheidsduur van het certificaat**
+### 3. **Werkveldspecifieke kenmerken**
 
-### 6.4. **Klachten betreffende de certificaathouder**
+### 3.3. **Actieve partijen**
 
-### 4.6.2. **Klachten over het bedrijf of de persoon**
+### 3.4. **Risicoanalyse en afbreukcriteria**
 
 ### 6.3. **Verslag van bevindingen**
 
 ### 11. **Toetsmethodiek bij hercertificatie**
 
-### 7. **Het onderwerp van certificatie**
+### 4.2. **Certificatieprocedure**
 
-### 11.2. **Beoordelingsmethode**
+### 4.3. **Certificatiebeslissing**
 
-### 8. **Entreecriteria**
+### 4.4. **Geldigheidsduur van het certificaat**
 
-### 7. **Het onderwerp van certificatie**
+### 4.5. **Geldigheidscondities**
 
 ### Verplichtend karakter
 
-### 4.7.1. **Inleiding**
+### 4.6.1. **Klachten over de CKI**
 
 ### Informatief karakter
 
 ### 4.7.2. **Werkwijze**
 
-### 12. **Het certificaat**
+### 4.6.2. **Klachten over het bedrijf of de persoon**
 
 ### 6.1. **Medewerking aan toezicht**
 
@@ -15846,59 +15846,59 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### 5.3. **Eisen te stellen aan het examenpersoneel**
 
-### Klachtenregeling
+### 4.7.2. **Werkwijze**
 
-### 5.4.1. **Beslotenheid**
+### 4.7.3. **Procedure**
 
-### Artikel 2. Plichten:
+### 4.7.4. **Beslissing op het bezwaarschrift**
 
-### 5.4.2. **Algemene regels**
+### 4.7.5. **Bestuursrechter**
 
-### 10.2. **Toets (verdediging van het portfolio)**
+### 4.8. **Register voor vakbekwaamheid**
 
-### Artikel 5. Klachten
+### 4.9. **Norminterpretatie**
 
-### 6. **Toezicht**
+### 4.10. **Aanvraag van het certificaat bij herintreding**
 
-### Bijlage 2:. Bezwaarprocedure
+### 5. **Examenreglement**
 
-### 6.2. **Frequentie van het toezicht**
+### 5.1. **Algemeen**
 
-### 6.3. **Uitvoering van het toezicht**
+### 5.2. **Uitvoering van het examen**
 
 ### 11.2. **Beoordelingsmethode**
 
 ### Beslissing op het bezwaarschrift
 
-### 6.3.2. **Inzage in het duikploegleiderlogboek**
+### 5.4. **Eisen te stellen aan het examen**
 
 ### 6.4. **Verslag van bevindingen**
 
-### 12. **Het certificaat**
+### 6. **Toezicht**
 
 ### Klachtenregeling
 
 ### 8. **Entreecriteria**
 
-### 8.1. **Duikploegleider**
+### 6.5. **Maatregelen**
 
 ### 9. **Eindtermen**
 
 ### Bijlage 2:. Bezwaarprocedure
 
-### Inleiding
+### 6.5.2. **Intrekking**
 
 ### 10. **Toetsmethodiek bij initiële certificatie**
 
-### Procedure
+### 6.5.3. **Weigering**
 
 ### 10.2. **Beoordelingsmethode**
 
 ### De toetsing van examenpersoneel
 
-### 4.2. Algemene regels bij de uitvoering van examens
+### 9.1. **Algemeen**
 
-### Indeling van het competentieprofiel
+### 10.2. **Beoordelingsmethode**
 
 ### Inleiding
 
@@ -15914,19 +15914,19 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 ### Paragraaf 5.2. Uitvoering van het examen
 
-### Paragraaf 6.3.1. Uitvoeringsplan
+### Hoofdstuk 1. Definities
 
-### Paragraaf 6.5.3. Weigering
+### Paragraaf 4.4. Geldigheidsduur van het certificaat
 
 ### Taakspecialisatie
 
-### 6.1. **Medewerking aan toezicht**
+### Paragraaf 6.5.2. Intrekking
 
-### Certificatieschema Springmeester
+### Hoofdstuk 7. Onderwerp van de certificatie en categorieën van duikarbeid
 
-### 1. Inleiding
+### Paragraaf 8.2. B. SSE
 
-### 3. Werkveldspecifieke kenmerken
+### Paragraaf 8.4. Eisen aan het opleidingscurriculum
 
 ### Artikel 4.2. Wijziging voorwaarden of intrekking certificaat
 
@@ -16032,15 +16032,15 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.8. Instructies, vertrouwelijkheid en onafhankelijkheid
 
-### 4.2. **Eisen aan certificatiepersoneel**
+### Paragraaf 8.6. Beoordeling van de entreecriteria
 
 ### 4.9. Personeelsdossiers
 
 ### Paragraaf 10.2. Beoordeling eindtermen
 
-### Paragraaf 10.2.3. Theorie-examen B. SSE
+### Paragraaf 9.2. B. SSE
 
-### Paragraaf 10.2.4. Theorie-examen C. Gesloten duikklok (met ademgas)
+### Paragraaf 9.3. C. Gesloten duikklok
 
 ### 4.13. Gebruik van het persoonscertificaat en beeldmerken
 
@@ -16052,9 +16052,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### Paragraaf 11.1. Toetscriteria voor hercertificatie
 
-### Paragraaf 11.2. Uitgangspunten toetsing
+### Paragraaf 10.2.1. Beoordeling opleidingsportfolio
 
-### Paragraaf 11.4. Beoordeling bij hercertificatie
+### Paragraaf 10.2.4. Theorie-examen C. Gesloten duikklok (met ademgas)
 
 ### Paragraaf 11.5. Ingangsdatum van hercertificatie
 
@@ -16064,29 +16064,29 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 2. **Definities**
 
-### 2. **Definities**
+### Hoofdstuk 11. Hercertificatie
 
 ### 4.1. Doelstelling
 
-### 4.3. Certificatiebeslissing
+### Paragraaf 11.3. Aanvraag hercertificatie
 
 ### 4.4. Geldigheidsduur van het certificaat
 
-### 4.5. Geldigheidscondities
+### Hoofdstuk 12. Certificaat
 
 ### Klachten over de CKI
 
 ### 4.2.1. **Algemeen**
 
-### Klachten over het bedrijf of de persoon
+### **Inhoudsopgave**
 
 ### 4.1. **Doelstelling**
 
-### 4.2.3. **Verlenging van het systeemcertificaat**
+### 2. **Definities**
 
 ### 4.3. **Certificatiebeslissing**
 
-### 4.4. **Geldigheidsduur van het certificaat**
+### 3. **Werkveldspecifieke kenmerken**
 
 ### 4.5. **Geldigheidscondities**
 
@@ -16100,27 +16100,27 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.6.3. **Klachtenregeling**
 
-### 4.9. Norminterpretatie
+### 4. **Certificatiereglement**
 
-### 4.9. Norminterpretatie
+### 4.1. **Doelstelling**
 
 ### 4.6. **Klachten**
 
-### 5. Examenreglement
+### 4.2. **Certificatieprocedure**
 
-### 5.1. Doelstelling
+### 4.3. **Certificatiebeslissing**
 
 ### 5.2. De exameninstelling
 
 ### 5.3. Eisen te stellen aan het examenpersoneel
 
-### 4.7.1. **Inleiding**
+### 4.6.1. **Klachten over de CKI**
 
 ### 4.7.2. **Werkwijze**
 
 ### 4.7.3. **Procedure**
 
-### 4.7.5. **Bestuursrechter**
+### 4.6.3. **Klachtenregeling**
 
 ### 6. Toezicht
 
@@ -16134,29 +16134,29 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.7.2.1. **Algemeen**
 
-### 5.2. **Uitvoering van het examen**
+### 4.7.1. **Inleiding**
 
-### 5.3. **Eisen te stellen aan het examenpersoneel**
+### 4.7.2. **Werkwijze**
 
 ### 4.7.2.4. **Bestuursrechter**
 
-### 5.4. **Eisen te stellen aan het examen**
+### 4.7.3. **Procedure**
 
-### 5.4.2. **Algemene regels**
+### 4.8. **Register voor vakbekwaamheid**
 
-### Deel II:. Normen
+### 4.9. **Norminterpretatie**
 
-### 7. Onderwerp van certificatie
+### 4.10. **Aanvraag van het certificaat bij herintreding**
 
 ### 6.1. **Medewerking aan toezicht**
 
-### 9. Eindtermen
+### 5.1. **Algemeen**
 
 ### 9.2 Eindtermen groot vuurwerk
 
 ### 10.1. Toetstermen
 
-### 6.3.2. **Beoordeling van een praktijkverrichting**
+### 5.4. **Eisen te stellen aan het examen**
 
 ### 10.2.1. Toepassingsgebieden
 
@@ -16166,21 +16166,21 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### Paragraaf 1. Definities
 
-### 10.3.1. Algemene toetstermen (1.1 t/m 3.4.2)
+### 6.3. **Uitvoering van het toezicht**
 
 ### 5.4.4. **Schorsing van het Systeemcertificaat**
 
 ### 6. **Eisen**
 
-### 10.3.2. Groot Vuurwerk (toetstermen 4.1.1 t/m 5.15.1)
+### 6.3.2. **Beoordeling van een praktijkverrichting**
 
 ### 6.1.1. **Wet- en regelgeving**
 
-### 6.1.2. **Ontheffing Wet wapens en munitie**
+### 6.4. **Verslag van bevindingen**
 
 ### 10.3.3. Pyrotechnische Speciale Effecten (toetstermen 6.1.1 t/m 7.10.1)
 
-### 6.1.1. **Wet- en regelgeving**
+### 6.5.1. **Schorsing**
 
 ### 6.1.4. **Verzekeringen**
 
@@ -16188,7 +16188,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 10.3.4. Beide toepassingsgebieden
 
-### 10. **Toetsmethodiek bij initiële certificatie**
+### 6.5.3. **Weigering**
 
 ### 10.1. **Toetstermen**
 
@@ -16208,11 +16208,11 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 11.2. **Beoordelingsmethode**
 
-### Bijlage A. gedragscode vuurwerkdeskundige
+### 10. **Toetsmethodiek bij initiële certificatie**
 
 ### 3.2. **Actieve partijen**
 
-### 11.3. **Cesuur van de beoordeling**
+### 10.2. **Beoordelingsmethode**
 
 ### 12. **Certificaat**
 
@@ -16222,13 +16222,13 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### **C**
 
-### **Ceilingwaarde**
+### 11.1. **Toetstermen voor hercertificatie**
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer
 
-### **Inhoudsopgave**
+### 11.2. **Beoordelingsmethode**
 
-### 1. **Inleiding**
+### 11.2.1. **Hercertificatie**
 
 ### **Respirabele vezels**
 
@@ -16238,11 +16238,11 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 6.4.10. **Werkplekinspecties**
 
-### 3.3. **Actieve partijen**
+### 13. **Geldigheidscondities**
 
 ### 6.4.10. **Werkplekinspecties**
 
-### 5.. **Toezicht**
+### **Inhoudsopgave**
 
 ### 4.1. **Doelstelling**
 
@@ -16252,7 +16252,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 6.4.14. **Voorbereiding op noodsituaties**
 
-### Artikel 2:. aanwijzen van contactpersonen
+### 3.1. **Algemeen**
 
 ### 4.6. **Klachtenregeling**
 
@@ -16262,13 +16262,13 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.6.3. **Klachtenregeling**
 
-### Artikel 10:. wijzigingen in en opzegging van het Protocol
+### 4.1. **Doelstelling**
 
 ### Artikel 10:. wijzigingen in en opzegging van het Protocol
 
-### Artikel 12:. geldigheid
+### 4.3. **Certificatiebeslissing**
 
-### Artikel 12:. geldigheid
+### 4.4. **Geldigheidsduur van het certificaat**
 
 ### Bijlage B. Categorie II overtredingen vastgesteld tijdens een projectlocatie, niet zijnde overtredingen genoemd in bijlage A
 
@@ -16280,7 +16280,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.7.4. **Beslissing op het bezwaarschrift**
 
-### 4.7.5. **Bestuursrechter**
+### 4.6.3. **Klachtenregeling**
 
 ### 2. **Definities**
 
@@ -16294,9 +16294,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.1. **Persoonscertificatie bij werken onder overdruk**
 
-### 5.4.1. **Beslotenheid**
+### 4.7.4. **Beslissing op het bezwaarschrift**
 
-### 5.4.2. **Algemene regels**
+### 4.8. **Register voor vakbekwaamheid**
 
 ### 6.3. **Uitvoering van het toezicht**
 
@@ -16308,13 +16308,13 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 6.3.3. **Beoordeling van een praktijkverrichting**
 
-### 6.3.4. **Beoordeling naar aanleiding van klachten**
+### 5.4.2. **Algemene regels**
+
+### 6.1. **Medewerking aan toezicht**
 
 ### 6. **Maatregelen**
 
-### 6. **Maatregelen**
-
-### **Inhoudsopgave**
+### 6.3. **Uitvoering van het toezicht**
 
 ### 6.5.2. **Intrekking**
 
@@ -16330,7 +16330,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 3.4. **Risicoanalyse en afbreukcriteria**
 
-### 9.1. **Algemeen**
+### 6.5. **Maatregelen**
 
 ### 9.2. **Duikploegleider**
 
@@ -16338,7 +16338,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 4.1. **Doelstelling**
 
-### 4.4. **Geldigheidsduur van het certificaat**
+### 6.5.3. **Weigering**
 
 ### 4.5. **Geldigheidscondities**
 
@@ -16348,31 +16348,31 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 10.4. **Cesuur van het examen**
 
-### 4.6.2. **Klachten over het bedrijf of de persoon**
+### 9. **Eindtermen**
 
 ### 11.2. **Beoordelingsmethode**
 
-### 11.2.2. **Beoordeling duikploegleiderlogboek en toetskaart**
+### 10.1.1. **Duikploegleider**
 
 ### Bijlage 2A:. Eindtermen assistent oce-deskundige
 
 ### 4.7. **Bezwaarprocedure**
 
-### 13. **Geldigheidscondities**
+### 10.3.1. **Praktijkexamen**
 
-### 4.7.1. **Inleiding**
+### 10.3.2. **Toetstermen: Theorie-examen voor duikploegleider**
 
-### 4.7.1. **Inleiding**
-
-### 4.7.4. **Beslissing op het bezwaarschrift**
-
-### 4.7.3. **Procedure**
+### 10.4. **Cesuur van het examen**
 
 ### 4.7.4. **Beslissing op het bezwaarschrift**
 
-### 4.7.3. **Procedure**
+### 11.1. **Toetstermen voor hercertificatie**
 
 ### 4.7.4. **Beslissing op het bezwaarschrift**
+
+### 11.2. **Beoordelingsmethode**
+
+### 11.2.1. **Algemeen**
 
 ### 4.7.5. **Bestuursrechter**
 
@@ -17533,45 +17533,45 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### 5. **Het examenreglement**
 
-### Bijlage B. Categorie II overtredingen vastgesteld tijdens een projectlocatie, niet zijnde overtredingen genoemd in bijlage A
+### Artikel 2:. aanwijzen van contactpersonen
 
-### 5.2. **Het examenreglement**
+### Artikel 3:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van afwijkingen die leiden tot (een groot risico op) asbestemissie (bijlage A van dit protocol)
 
-### Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met: persoonscertificatie op het gebied van Werken onder Overdruk
+### Artikel 5:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van categorie III en IV afwijkingen (bijlage H van SC 530)
 
-### 6.1. **Medewerking aan toezicht**
+### Artikel 9:. kosten
 
 ### 6.3. **Verslag van bevindingen**
 
 ### 6.4. **Klachten betreffende de certificaathouder**
 
-### 6.5. **Maatregelen**
+### Bijlage A. Afwijkingen genoemd in bijlage H van SC 530 die direct telefonisch aan de Nederlandse Arbeidsinspectie moeten worden gemeld
 
 ### 4.1. **Persoonscertificatie bij werken onder overdruk**
 
-### 4.1.1. **Wijziging van het certificatieschema**
+### Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met: persoonscertificatie op het gebied van Werken onder Overdruk
 
-### 11.2. **Beoordelingsmethode**
+### 2. **Definities**
 
-### 4.1.4. **Aan derden uitbestede werkzaamheden**
+### 3. **Werkveldspecifieke kenmerken**
 
 ### 4.1.5. **Kwalificaties van examinatoren**
 
 ### 8. **Entreecriteria**
 
-### 13. **Geldigheidscondities**
+### 4.1.1. **Wijziging van het certificatieschema**
 
 ### Bijlage 1:. Klachtenregeling
 
-### Klachtenregeling
+### 4.1.5. **Kwalificaties van examinatoren**
 
-### 11.2. **Beoordelingsmethode**
+### 6. **Maatregelen**
 
 ### 4.6.1. **Klachten over de CKI**
 
 ### Klachten over de CKI
 
-### Klachten over het bedrijf of de persoon
+### 4.1. **Doelstelling**
 
 ### Bijlage 3:. Eisen te stellen aan het examenpersoneel (examinatoren)
 
@@ -17579,23 +17579,23 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### Inleiding
 
-### 1. **Algemene informatie**
+### 5.1. **Algemeen**
 
 ### 1.1. Beeld van de branche en het beroep
 
-### 6.3.2. **Inzage in het overzicht van dossiers**
+### 5.4.1. **Beslotenheid**
 
 ### 2.2. Beschrijving van de kerntaken
 
 ### 3.1. Inleiding
 
-### 6.5. **Maatregelen**
+### 6.1. **Medewerking aan toezicht**
 
 ### 6.5.1. **Schorsing**
 
 ### 6.5.2. **Intrekking**
 
-### **Inhoudsopgave**
+### 6.3.1. **Uitvoeringsplan**
 
 ### **Inhoudsopgave**
 
@@ -17605,9 +17605,9 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### 3.1. **Beschrijving schema**
 
-### 4. **Het certificatiereglement**
+### 6.5. **Maatregelen**
 
-### 4.1. **Doelstelling**
+### 6.5.1. **Schorsing**
 
 ### 8. **Entreecriteria**
 
@@ -17615,7 +17615,7 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### 9. **Eindtermen**
 
-### 10. **Toetsmethodiek bij initiële certificatie**
+### 6.5.3. **Weigering**
 
 ### 11.2.2. **Hercertificatie met aantekening**
 
@@ -17625,7 +17625,7 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### 3.3. **Risicoanalyse en afbreukrisico**
 
-### 4. **Het certificatiereglement**
+### 11.2. **Beoordelingsmethode**
 
 ### **Inhoudsopgave**
 
@@ -17649,7 +17649,7 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### 4.6.3. **Klachtenregeling**
 
-### 6.5. **Maatregelen**
+### 4.1. **Doelstelling**
 
 ### 4.7.4. **Beslissing op het bezwaarschrift**
 
@@ -17669,7 +17669,7 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### 6.5.3. **Weigering**
 
-### 6.6. **Melding aan de Nederlandse Arbeidsinspectie**
+### 6.3.3. **Beoordeling van een praktijkverrichting**
 
 ### 9.2. **Duikploegleider**
 
@@ -17679,9 +17679,9 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### Bijlage 3:. Eisen te stellen aan het examenpersoneel (examinatoren)
 
-### Bijlage 9:. Format Goed- en afkeurcriteria examen
+### 7. **Onderwerp van de certificatie**
 
-### 10.2.4. **Portfoliobeoordeling**
+### 9. **Eindtermen**
 
 ### 1. **Algemene informatie**
 
@@ -17689,13 +17689,13 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### 10.3. **Cesuur van het examen**
 
-### 11. **Hercertificatie**
+### 10.2.3. **Algemeen**
+
+### 10.2.4. **Portfoliobeoordeling**
 
 ### 2.1. Inleiding
 
-### 2.1. Inleiding
-
-### 3.1. Inleiding
+### 10.2.5. **Theorie-examen voor duikploegleider**
 
 ### 3.2. Algemene competenties
 
@@ -17703,11 +17703,11 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### Bijlage 7:. Toelaten van opleidingen
 
-### Bijlage 9:. Format goed- en afkeurcriteria examen
+### 10.3. **Cesuur van het examen**
 
 ### Bijlage 9:. Format goed- en afkeurcriteria examen
 
-### Hoofdstuk 4. Certificatieprocedure
+### 11.2. **Beoordelingsmethode**
 
 ### Paragraaf 4.1. Certificatiereglement
 
@@ -17721,15 +17721,15 @@ Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [
 
 ### Paragraaf 6.3.2. Inzage in het duiklogboek
 
-### Bijlage 10:. Specialisatie arbeids- en organisatiedeskunige (toelichtend)
+### Hoofdstuk 2. Eisen
 
-### Paragraaf 6.3.4. Beoordeling naar aanleiding van klachten
+### (Hoofdstuk 3. vervallen)
 
-### Paragraaf 6.5.1. Schorsing
+### Paragraaf 4.2. Aanvraag
 
-### Paragraaf 1. Definities
+### Paragraaf 7.1. Dieper duiken dan aangegeven in de categorie van het certificaat (geldt alleen voor de categorieën A3, B3, B4)
 
-### Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op certificatie-instellingen behorend bij het: certificatieschema voor het persoonscertificaat Vuurwerkdeskundige
+### Hoofdstuk 8. Entreecriteria
 
 ### Paragraaf 8.4.4. Opleidingscurriculum B0 SSE (geconditioneerde omstandigheden)
 
@@ -17893,47 +17893,47 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 ### 4.3. Klachten en bezwaarschriften
 
+### Paragraaf 8.4.6. Opleidingscurriculum B2 SSE (tot en met 30 meter)
+
+### 4.5. Certificatiepersoneel
+
+### 4.5. Certificatiepersoneel
+
+### Paragraaf 8.4.7. Opleidingscurriculum B3 SSE (tot 50 meter)
+
 ### Paragraaf 8.5. Algemene eisen duiklogboek
-
-### 4.5. Certificatiepersoneel
-
-### 4.5. Certificatiepersoneel
-
-### 3.2. **Actieve partijen**
-
-### Paragraaf 10.1.2. B. SSE
 
 ### 4.10. Gegevens op het certificaat
 
-### Paragraaf 10.2.1. Beoordeling opleidingsportfolio
+### Hoofdstuk 9. Eindtermen
 
 ### Paragraaf 10.2.5. Uitvoering van het theorie-examen
 
 ### Paragraaf 10.2.6. Praktijkexamen
 
-### 5. Toezicht
+### Hoofdstuk 10. Toetsmethodiek bij initiële certificatie
 
 ### 4.7. **Schorsing, intrekking of beperking van het werkterrein**
 
 ## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2012-07-01&g=2012-07-01)
 
-### Hoofdstuk 12. Certificaat
+### Paragraaf 10.2.6. Praktijkexamen
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikmedisch Begeleider
 
 ### 3.2. Actieve partijen
 
-### 4.1. Doelstelling
+### Paragraaf 11.1. Toetscriteria voor hercertificatie
 
-### 3.1. **Algemeen**
+### Paragraaf 11.2.1. Eindtermen doorlopende beroepservaring
 
-### 3.2. **Beschrijving van het schema**
+### Paragraaf 11.4. Beoordeling bij hercertificatie
 
-### 3.3. **Actieve partijen**
+### Paragraaf 11.5. Ingangsdatum van hercertificatie
 
-### Klachten over de CKI
+### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikmedisch Begeleider
 
-### 4. **Certificatiereglement**
+### 1. **Inleiding**
 
 ### 4.2. **Certificatieprocedure**
 
@@ -17943,11 +17943,11 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 ### 5.1. Doelstelling
 
-### 5.2. De exameninstelling
+### 4.4. **Geldigheidsduur van het certificaat**
 
 ### 5.4. Eisen te stellen aan het examen
 
-### 5.4.1. Beslotenheid van examens
+### 4.6.2. **Klachten over het bedrijf of de persoon**
 
 ### 4.7.4. **Beslissing op het bezwaarschrift**
 
@@ -17955,35 +17955,35 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 ### 6.5. Maatregelen ([artikel 1.5 E Arbobesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5))
 
-### 5.4.1. **Beslotenheid**
+### 4.7.4. **Beslissing op het bezwaarschrift**
 
-### 4.9. **Norminterpretatie**
+### 4.7.5. **Bestuursrechter**
 
 ### 6. **Toezicht**
 
-### 8. Certificatiecriteria
+### 5. **Examenreglement**
 
-### 6.3. **Uitvoering van het toezicht**
+### 5.2. **Uitvoering van het examen**
 
 ### 6.3.1. **Uitvoeringsplan**
 
 ### 6.4. **Verslag van bevindingen**
 
-### 6.5.1. **Schorsing**
+### 6. **Toezicht**
 
-### 6.5.2. **Intrekking**
+### 6.2. **Frequentie van het toezicht**
 
 ### 6.6. **Melding aan de Nederlandse Arbeidsinspectie**
 
 ### 10.3.4. Beide toepassingsgebieden
 
-### 3.. **Werkveldspecifieke kenmerken**
+### 9. **Eindtermen**
 
 ### 6.3.3. **Beheersing van detectie- en meetapparatuur**
 
-### **Ceilingwaarde**
+### 11. **Hercertificatie**
 
-### 4.3. **Gegevens op het certificaat**
+### 11.2.2. **Hercertificatie uitgebreid duikmedische begeleider (WSCS-WOD-B-B3)**
 
 ### 6.4.6. **Directieverantwoordelijkheid**
 
@@ -17991,9 +17991,9 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 ### 3.4. **Risicoanalyse en afbreukcriteria**
 
-### 4.9. **Aanwijzingscriteria**
+### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikploegleider bij de brandweer
 
-### 4. **Certificatiereglement**
+### 1. **Inleiding**
 
 ### Artikel 5:. melding door de Certificerende Instelling aan de Nederlandse Arbeidsinspectie van categorie III en IV afwijkingen (bijlage H van SC 530)
 
@@ -18001,29 +18001,29 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 ### 4.8. **Register voor vakbekwaamheid**
 
+### 4.7.3. **Procedure**
+
+### 4.10. **Aanvraag van het certificaat bij herintreding**
+
+### 5.1. **Algemeen**
+
+### 5.3. **Eisen te stellen aan het examenpersoneel**
+
 ### 5.4. **Eisen te stellen aan het examen**
 
-### 4.1.4. **Aan derden uitbestede werkzaamheden**
-
-### 4.1.5. **Kwalificaties van examinatoren**
-
-### 4.1.8. **Hercertificatie**
-
-### 4.1.9. **Gebruik van het beeldmerk**
-
-### 6.4. **Verslag van bevindingen**
+### 6. **Toezicht**
 
 ### 6.5. **Maatregelen**
 
 ### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts
 
-### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikerarts
+### 6.3.1. **Uitvoeringsplan**
 
-### 3. **Werkveldspecifieke kenmerken**
+### 6.3.3. **Beoordeling van een praktijkverrichting**
 
 ### 6.6. **Melding aan de Nederlandse Arbeidsinspectie**
 
-### 7. **Onderwerp van de certificatie**
+### 6.3.4. **Beoordeling naar aanleiding van klachten**
 
 ### 4. **Certificatiereglement**
 
@@ -18033,9 +18033,9 @@ De informatie met betrekking tot het noodplan, bedoeld in [artikel 3.14](https:/
 
 ### 4.7.1. **Inleiding**
 
-### 4.9. **Norminterpretatie**
+### 11.3. **Uitslagregel van de beoordeling**
 
-### 4.10. **Aanvraag van het certificaat bij herintreding**
+### 12. **Certificaat**
 
 ## Bijlage XIIa. behorend bij [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2012-07-01&g=2012-07-01)
 
@@ -22838,9 +22838,9 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 1.9c. Controle beroepskwalificaties bij tijdelijke en incidentele dienstverrichting voor beroepen die verband houden met de volksgezondheid of openbare veiligheid
 
-1. Voorafgaand aan de eerste dienstverrichting controleert de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, op grond van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) de beroepskwalificaties van de dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2022-07-01&g=2022-07-01).
+1. Voorafgaand aan de eerste dienstverrichting controleert de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, op grond van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) de beroepskwalificaties van de dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2022-12-13&g=2022-12-13).
 
-2. In aanvulling op de documenten, genoemd in [artikel 1.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2022-07-01&g=2022-07-01), verstrekt de dienstverrichter de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, desgevraagd, met inachtneming van het bepaalde in artikel 1.9b, derde lid, de volgende documenten:
+2. In aanvulling op de documenten, genoemd in [artikel 1.9b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2022-12-13&g=2022-12-13), verstrekt de dienstverrichter de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, desgevraagd, met inachtneming van het bepaalde in artikel 1.9b, derde lid, de volgende documenten:
 
 - a. het programma van de opleiding tot het desbetreffende beroep, onderverdeeld in theorie en praktijkvakken, met opgave van de duur van het onderwijs in die vakken, afkomstig van de instelling waarbij de dienstverrichter de opleidingstitel heeft behaald;
 
@@ -22850,13 +22850,13 @@ In deze paragraaf wordt verstaan onder:
 
 3. De minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, beslist met inachtneming van de termijnen, genoemd in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28).
 
-4. In geval van constatering van wezenlijke verschillen als bedoeld in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, de dienstverrichter de mogelijkheid om door middel van een proeve van bekwaamheid, bedoeld in [artikel 1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2022-07-01&g=2022-07-01), aan te tonen dat hij over de ontbrekende kennis, vaardigheden of competenties beschikt.
+4. In geval van constatering van wezenlijke verschillen als bedoeld in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, de dienstverrichter de mogelijkheid om door middel van een proeve van bekwaamheid, bedoeld in [artikel 1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2022-12-13&g=2022-12-13), aan te tonen dat hij over de ontbrekende kennis, vaardigheden of competenties beschikt.
 
 5. De dienstverrichter ontvangt van de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) heeft aangewezen, die instelling, een schriftelijke verklaring in de vorm van een bewijs van toetsing indien op grond van de controle de beroepskwalificaties voldoende zijn voor tijdelijke en incidentele dienstverrichting in Nederland.
 
 ##### Artikel 1.9d. Proeve van bekwaamheid bij tijdelijke en incidentele dienstverrichting
 
-1. De dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2022-07-01&g=2022-07-01), wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, in de gelegenheid gesteld de proeve van bekwaamheid, bedoeld in [artikel 1.9c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2022-07-01&g=2022-07-01), af te leggen. [Artikel 1.9a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
+1. De dienstverrichter, bedoeld in [artikel 1.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9b&z=2022-12-13&g=2022-12-13), wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, in de gelegenheid gesteld de proeve van bekwaamheid, bedoeld in [artikel 1.9c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2022-12-13&g=2022-12-13), af te leggen. [Artikel 1.9a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2022-12-13&g=2022-12-13), is van overeenkomstige toepassing.
 
 2. Na het afleggen van de proeve van bekwaamheid zendt de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, een bewijs van toetsing aan de dienstverrichter indien het resultaat van de proeve van bekwaamheid voldoende is voor tijdelijke en incidentele dienstverrichting in Nederland.
 
@@ -22902,7 +22902,7 @@ Vervallen
 
 ### 4. **Het certificatiereglement**
 
-### Artikel 7:. melding door de Nederlandse Arbeidsinspectie aan de Certificerende Instelling van overige overtredingen
+### C. Lijst met wettelijke grenswaarden voor allergenen, vastgesteld volgens de risicobenadering en na haalbaarheidsafweging
 
 ### Artikel 8:. privacy-aspecten
 
@@ -22910,7 +22910,7 @@ Vervallen
 
 ### Artikel 11:. evaluatie
 
-### **Inhoudsopgave**
+### Artikel 7:. melding door de Nederlandse Arbeidsinspectie aan de Certificerende Instelling van overige overtredingen
 
 ### 6. **Toezicht**
 
@@ -22922,29 +22922,29 @@ Vervallen
 
 ### 4. **Certificatiereglement**
 
-### 4.6.2. **Klachten over het bedrijf of de persoon**
+### 3.4. **Risicoanalyse en afbreukcriteria**
 
 ### 4.6.3. **Klachtenregeling**
 
 ### 3. **Competenties**
 
-### 4.7.1. **Inleiding**
+### 4.6.1. **Klachten over de CKI**
 
 ### 4.10. **Aanvraag van het certificaat bij herintreding**
 
-### De toetsing van examenpersoneel
+### 4.7. **Bezwaarprocedure**
 
-### 5.4.2. **Algemene regels**
+### 4.8. **Register voor vakbekwaamheid**
 
 ### Bijlage 6:. Competentieprofiel hogere veiligheidskunde
 
-### 2.1. Inleiding
+### 5.4. **Eisen te stellen aan het examen**
 
 ### 3.3. Beroepsspecifieke competenties
 
 ### Bijlage 9:. Format Goed- en afkeurcriteria examen
 
-### 3. **De werkveldspecifieke kenmerken**
+### 6.3.2. **Inzage in het overzicht van dossiers**
 
 ### 4.7. **Bezwaarprocedure**
 
@@ -22960,47 +22960,47 @@ Vervallen
 
 ## Bijlage IId. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2013-01-01&g=2013-01-01)
 
-### 3.2. **Actieve partijen**
+### 11. **Hercertificatie**
 
 ### 4.3. **Certificatiebesluit**
 
 ### 4.5. **Geldigheidscondities**
 
-### 3.1. **Algemeen**
+### 12. **Certificaat**
 
 ### 4.8. **Register voor vakbekwaamheid**
 
-### 3.3. **Actieve partijen**
+### 13. **Geldigheidscondities**
 
 ### 6.4. **Klachten betreffende de certificaathouder**
 
 ### 6.5. **Maatregelen**
 
-### 11.1. **Toetstermen**
+### 4. **Certificatiereglement**
 
-### De toetsing van examenpersoneel
+### 5.4.1. **Beslotenheid**
 
 ### 11.3. **Toets (verdediging van het portfolio)**
 
-### 13. **Geldigheidscondities**
+### 6.3.1. **Uitvoeringsplan**
 
-### Klachten over de CKI
+### 6.3.2. **Inzage in het duikploegleiderlogboek**
 
 ### 1.1. Beeld van de branche en het beroep
 
-### 2. **Kerntaken**
+### 6.4. **Verslag van bevindingen**
 
 ### 10.2.2. **Entreecriteria**
 
 ### De toetsing van examenpersoneel
 
-### Bijlage 4:. Eisen te stellen aan het examen
+### 8. **Entreecriteria**
 
 ### Bestuursrechter
 
-### Bijlage 4:. Eisen te stellen aan het examen
+### 9.2. **Duikploegleider**
 
-### Bijlage 6:. Competentieprofiel A&O
+### 10.1.1. **Duikploegleider**
 
 ### Bijlage 4:. Eisen te stellen aan het examen
 
@@ -23008,27 +23008,27 @@ Vervallen
 
 ### 3. **Competenties**
 
-### Bijlage 8:. Overgangsregeling
+### 10.2.6. **Praktijkexamen**
 
 ### 13. **Geldigheidscondities**
 
 ### Hoofdstuk 1. Definities
 
-### Hoofdstuk 2. Eisen
+### 11.1. **Toetstermen voor hercertificatie**
 
 ### (Hoofdstuk 3. vervallen)
 
-### Paragraaf 4.4. Geldigheidsduur van het certificaat
+### 11.3. **Uitslagregel van de beoordeling**
 
-### Paragraaf 8.1. A. SCUBA
+### Paragraaf 5.3. Eisen te stellen aan het examenpersoneel
 
-### Kennisspecialisatie
+### Paragraaf 5.4. Eisen inzake het examen
 
-### Paragraaf 8.3. C. Gesloten duikklok
+### Paragraaf 6.1. Medewerking aan toezicht
 
-### 5.1. **Doelstelling**
+### Paragraaf 6.3.3. Beoordeling van een praktijkverrichting
 
-### 6. **Toezicht**
+### Paragraaf 6.5. Maatregelen
 
 ## Bijlage IX. behorend bij [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2019-04-01&g=2019-04-01)
 
@@ -23724,7 +23724,7 @@ Vervallen
 
 ### Artikel 3.2. Eindtermen opleidingen springmeester
 
-### Paragraaf 8.4.7. Opleidingscurriculum B3 SSE (tot 50 meter)
+### Paragraaf 8.4.3. Opleidingscurriculum A3 SCUBA (tot en met 30 meter)
 
 ### Artikel 4.1. Toezicht
 
@@ -23734,7 +23734,7 @@ Vervallen
 
 ### Hoofdstuk 9. Eindtermen
 
-### 10. **Toetsmethodiek bij initiële certificatie**
+### Paragraaf 8.4.8. Opleidingscurriculum B4 SSE (met open duikklok)
 
 ### 4.6. Uitbesteding
 
@@ -23744,27 +23744,27 @@ Vervallen
 
 ## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2013-01-01&g=2013-01-01)
 
-### 6. Maatregelen
+### Paragraaf 10.1.1. A. SCUBA
 
-### Paragraaf 11.2.1. Eindtermen doorlopende beroepservaring
+### Paragraaf 10.2.2. Theorie-examen A. SCUBA
 
 ### Hoofdstuk 13. Geldigheidscondities
 
 ### **Inhoudsopgave**
 
-### 4.6. Klachtenregeling
+### Hoofdstuk 14. Overgangsbepalingen duikercertificaten
 
 ### 4.2.2. **Beoordeling van het managementsysteem en projectlocaties**
 
-### 4.1. Beslotenheid van examens
+### 3.1. **Algemeen**
 
-### 4.6.1. **Klachten over de CKI**
+### 3.3. **Actieve partijen**
 
-### Inleiding
+### 3.4. **Risicoanalyse en afbreukcriteria**
 
 ### 4.3. **Certificatiebeslissing**
 
-### 4.7. **Bezwaarprocedure**
+### 4.6. **Klachtenregeling**
 
 ### 4.8. **Register voor vakbekwaamheid**
 
@@ -23778,29 +23778,29 @@ Vervallen
 
 ### 6.2. **Frequentie van het toezicht**
 
-### 10.1. Toetstermen
+### 5.3. **Eisen te stellen aan het examenpersoneel**
 
-### 10.1.3. Toetstermen pyrotechnische speciale effecten
+### 5.4.1. **Beslotenheid**
 
 ### 5.4.2. **Uitwisseling van informatie met de Inspectie SZW**
 
-### Artikel 4.4. Nieuw verzoek na intrekking certificaat
+### 7. **Onderwerp van de certificatie**
 
 ### 11. Hercertificatie
 
 ### Bijlage b:. overgangsregeling
 
-### 3. **Werkveldspecifieke kenmerken**
+### 11.3. **Cesuur van de beoordeling**
 
 ### 6.4.11. **Interne audits**
 
-### Artikel 1:. begripsomschrijvingen
+### 3.2. **Beschrijving van het schema**
 
 ### Artikel 9:. kosten
 
-### 4.7. **Bezwaarprocedure**
+### 4.6. **Klachtenregeling**
 
-### Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen belast met: persoonscertificatie op het gebied van Werken onder Overdruk
+### 4.6.2. **Klachten over het bedrijf of de persoon**
 
 ### 4.9. **Norminterpretatie**
 
@@ -23808,23 +23808,23 @@ Vervallen
 
 ### 5.3. **Eisen te stellen aan het examenpersoneel**
 
-### 4.1.2. **Voldoende personeel**
+### 4.7.5. **Bestuursrechter**
 
-### 6. **Toezicht**
+### 4.9. **Norminterpretatie**
 
-### 6.6.2.3. **Projectgebonden risico-inventarisatie en -evaluatie**
+### 5. **Examenreglement**
 
 ### 6.3.1. **Uitvoeringsplan**
 
-### 4.1.6. **Vermeldingen op het certificaat**
+### 5.2. **Uitvoering van het examen**
 
-### 4.1.8. **Hercertificatie**
+### 5.4.1. **Beslotenheid**
 
 ### 4.2. **Certificatieprocedure**
 
-### 4.5. **Geldigheidscondities**
+### 7. **Onderwerp van de certificatie**
 
-### 11.2.1. **Algemeen**
+### 10. **Toetsmethodiek bij initiële certificatie**
 
 ## Bijlage XIIa. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2013-01-01&g=2013-01-01)
 
@@ -23840,9 +23840,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### 4.7. **Bezwaarprocedure**
 
-### 4.8. **Register voor vakbekwaamheid**
+### 11.2.2. **Beoordeling duikploegleiderlogboek en toetskaart**
 
-## Bijlage XIIIa. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2012-11-01&g=2012-11-01)
+## Bijlage XVIIc. behorend bij [artikel 7.7, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2022-12-13&g=2022-12-13), Arbeidsomstandighedenregeling
+
+Vervallen
 
 ### 5.4. **Eisen te stellen aan het examen**
 
@@ -32416,11 +32418,11 @@ Intrinsieke kenmerken:
 
 ## Bijlage IId. behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.15&z=2013-11-01&g=2013-11-01)
 
-### **CAS-nummer**
+### CAS-nummer
 
-### **TGG**
+### TGG
 
-### **C**
+### C (Ceilingwaarde)
 
 ### 4.8. **Register voor vakbekwaamheid**
 
@@ -32430,11 +32432,11 @@ Intrinsieke kenmerken:
 
 ### 2. **Definities**
 
-### 3.1. **Beschrijving van het document**
+### Artikel 12:. geldigheid
 
 ### 11. **Toetsmethodiek bij hercertificatie**
 
-### Bijlage 2:. Bezwaarprocedure
+### 4.1.7. **Toezicht op de certificaathouder**
 
 ### 2. **Definities**
 
@@ -32444,23 +32446,23 @@ Intrinsieke kenmerken:
 
 ### 11.1. **Toetstermen**
 
-### 11.3. **Toets (verdediging van het portfolio)**
+### 3. **Werkveldspecifieke kenmerken**
 
-### 4.5. **Geldigheidscondities**
+### 3.1. **Algemeen**
 
 ### Beslotenheid van examens
 
 ### Bijlage 1:. Klachtenregeling
 
-### Klachten over de CKI
+### 4.2. **Certificatieprocedure**
 
 ### Klachten over het bedrijf of de persoon
 
-### 2.1. Inleiding
+### 4.4. **Geldigheidsduur van het certificaat**
 
 ### Klachtenregeling
 
-### 4.7. **Bezwaarprocedure**
+### 4.6. **Klachtenregeling**
 
 ### 4.7.2. **Werkwijze**
 
@@ -32474,15 +32476,15 @@ Intrinsieke kenmerken:
 
 ### Inleiding
 
-### T-profielen
+### 6.6. **Melding aan de Nederlandse Arbeidsinspectie**
 
-### Bijlage 10:. Specialisatie van de hogere veiligheidskundige(toelichtend)
+### 7. **Onderwerp van de certificatie**
 
 ### Kennisspecialisatie
 
 ### Taakspecialisatie
 
-### Branchespecialisatie
+### 9. **Eindtermen**
 
 ### 1. **Inleiding**
 
@@ -32494,7 +32496,7 @@ Intrinsieke kenmerken:
 
 ### 5. **Examenreglement**
 
-### 5.2. **Uitvoering van het examen**
+### 4.7. **Bezwaarprocedure**
 
 ### Bijlage 2:. Bezwaarprocedure
 
@@ -32504,15 +32506,15 @@ Intrinsieke kenmerken:
 
 ### 11. **Toetsmethodiek bij hercertificatie**
 
-### Bijlage 4:. Eisen te stellen aan het examen
+### 5.4.2. **Algemene regels**
 
 ### 13. **Geldigheidscondities**
 
-### Bijlage 6:. Competentieprofiel hogere veiligheidskunde
+### 6.2. **Frequentie van het toezicht**
 
 ### Klachten over het bedrijf of de persoon
 
-### 2.2. Beschrijving van de kerntaken
+### 6.5.1. **Schorsing**
 
 ### 9.1. **Algemeen**
 
@@ -32520,41 +32522,41 @@ Intrinsieke kenmerken:
 
 ## Bijlage XVIc. behorend bij [Artikel 6.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-07-01&g=2022-07-01)
 
-### Paragraaf 5.4. Eisen inzake het examen
+### 13. **Geldigheidscondities**
 
-### Paragraaf 6.3. Uitvoering van het toezicht
+### Werkveldspecifiek certificatieschema voor het persoonscertificaat Duikarbeid (WSCS-WOD-D)
 
 ### Paragraaf 6.3.3. Beoordeling van een praktijkverrichting
 
+### Hoofdstuk 4. Certificatieprocedure
+
+### Hoofdstuk 5. Examenreglement
+
+### Paragraaf 5.2. Uitvoering van het examen
+
+### Paragraaf 6.3. Uitvoering van het toezicht
+
+### Paragraaf 6.3.2. Inzage in het duiklogboek
+
 ### Paragraaf 6.4. Verslag van bevindingen
 
-### Hoofdstuk 7. Onderwerp van de certificatie en categorieën van duikarbeid
+### Paragraaf 6.5.4. Waarschuwing
 
-### Hoofdstuk 8. Entreecriteria
+### Paragraaf 8.1. A. SCUBA
 
-### Paragraaf 8.4. Eisen aan het opleidingscurriculum
+### Paragraaf 8.3. C. Gesloten duikklok
 
-### 5.2. **Het examenreglement**
+### Paragraaf 10.2. Beoordeling eindtermen
 
-### Paragraaf 8.4.2. Opleidingscurriculum A2 SCUBA (tot en met een diepte van 15 meter)
+### Paragraaf 10.2.5. Uitvoering van het theorie-examen
 
-### Paragraaf 8.4.3. Opleidingscurriculum A3 SCUBA (tot en met 30 meter)
+### Hoofdstuk 13. Geldigheidscondities
 
-### Werkveldspecifiek document voor aanwijzing en toezicht (WDA&T) op certificatie-instellingen behorend bij het: certificatieschema voor het persoonscertificaat Vuurwerkdeskundige
-
-### 1. Inleiding
-
-### Deel I:. Algemene Bepalingen
-
-### Werkveldspecifiek certificatieschema voor het systeemcertificaat Opsporen Conventionele Explosieven
-
-### 3.4. **Risicoanalyse en afbreukcriteria**
-
-### 4.6.3. **Klachtenregeling**
+### 4.5. **Geldigheidscondities**
 
 ### 5.4.2. Algemene regels bij de uitvoering van examens
 
-### 10.2. Beoordelingsmethode
+### 5.4.2. **Algemene regels**
 
 ## Bijlage VII. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2018-10-01&g=2018-10-01)
 
@@ -33288,7 +33290,7 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 8. **Entreecriteria**
 
-### 10.3.3. Pyrotechnische Speciale Effecten (toetstermen 6.1.1 t/m 7.10.1)
+### 6.5. **Maatregelen**
 
 ### 6.1.4. **Verzekeringen**
 
@@ -33300,7 +33302,7 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### **Lijst van wettelijke grenswaarden op grond van de artikelen 4.3, eerste lid, en 4.16, eerste lid, van het Arbeidsomstandighedenbesluit**
 
-### 13. **Geldigheidscondities**
+### 10.3. **Uitslagregel van het examen**
 
 ### **H (Huidopname)**
 
@@ -33312,11 +33314,11 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 4.6.1. **Klachten over de CKI**
 
-### 4.6.2. **Klachten over het bedrijf of de persoon**
+### 3.4. **Risicoanalyse en afbreukcriteria**
 
 ### Artikel 11:. evaluatie
 
-### 4.7.1. **Inleiding**
+### 4.6.1. **Klachten over de CKI**
 
 ### 4.7.2. **Werkwijze**
 
@@ -33332,9 +33334,9 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 9. **Eindtermen**
 
-### 10.1.1. **Duikploegleider**
+### 6.5.2. **Intrekking**
 
-### 4.4. **Geldigheidsduur van het certificaat**
+### 6.6. **Melding aan de Nederlandse Arbeidsinspectie**
 
 ### 6. **Eisen**
 
@@ -37568,7 +37570,7 @@ Intrinsieke kenmerken:
 
 ##### Artikel 1.9da. Geldigheidsduur opname in register, certificaat van vakbekwaamheid en bewijs van toetsing
 
-1. Registratie of herregistratie als bedoeld in [artikel 1.5j, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), een certificaat dat op grond van [artikel 1.5h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5h) is afgegeven, en een bewijs van toetsing dat op grond van de [artikelen 1.9c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2022-07-01&g=2022-07-01) of [1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2022-07-01&g=2022-07-01) is afgegeven, ten behoeve van tijdelijke en incidentele dienstverrichting, hebben een geldigheidsduur die gelijk is aan de geldigheidsduur van de registratie of herregistratie in het register, genoemd in artikel 1.5j, eerste lid, van het besluit, dan wel van het persoonscertificaat dat op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), bedoeld in [artikel 1.5f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5f), vereist is voor de uitoefening van hetzelfde beroep.
+1. Registratie of herregistratie als bedoeld in [artikel 1.5j, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), een certificaat dat op grond van [artikel 1.5h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5h) is afgegeven, en een bewijs van toetsing dat op grond van de [artikelen 1.9c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2022-12-13&g=2022-12-13) of [1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2022-12-13&g=2022-12-13) is afgegeven, ten behoeve van tijdelijke en incidentele dienstverrichting, hebben een geldigheidsduur die gelijk is aan de geldigheidsduur van de registratie of herregistratie in het register, genoemd in artikel 1.5j, eerste lid, van het besluit, dan wel van het persoonscertificaat dat op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), bedoeld in [artikel 1.5f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5f), vereist is voor de uitoefening van hetzelfde beroep.
 
 2. De geldigheid van het bewijs van toetsing, bedoeld in het eerste lid, kan door de minister worden beperkt of beëindigd naar aanleiding van controles die zijn uitgevoerd in het kader van toezicht.
 
@@ -37626,21 +37628,21 @@ Intrinsieke kenmerken:
 
 ### 12. **Het certificaat**
 
-### 4.1.6. **Vermeldingen op het certificaat**
+### 4. **Eisen ten behoeve van de aanwijzing**
 
 ### 4.1.8. **Hercertificatie**
 
-### 10.1. **Toetstermen**
+### 4.1.3. **Ontwikkeling en onderhoud van het certificatieschema**
 
-### 3.1. **Algemeen**
+### 4.1.9. **Gebruik van het beeldmerk**
 
-### De toetsing van examenpersoneel
+### 1. **Inleiding**
 
 ### Bijlage 4:. Eisen te stellen aan het examen
 
 ### 13. **Geldigheidscondities**
 
-### 3.3. Beroepsspecifieke competenties
+### 4.6.2. **Klachten over het bedrijf of de persoon**
 
 ### 4.7.4. **Beslissing op het bezwaarschrift**
 
@@ -37650,19 +37652,19 @@ Intrinsieke kenmerken:
 
 ## Bijlage IIe. behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2016-07-05&g=2016-07-05)
 
-### Bijlage 7:. Toelaten van opleidingen
+### 6. **Toezicht**
 
 ### 6.6. **Melding aan de Nederlandse Arbeidsinspectie**
 
-### 3. **De werkveldspecifieke kenmerken**
+### 6.4. **Verslag van bevindingen**
 
-### 4.1. **Doelstelling**
+### 6.5.2. **Intrekking**
 
 ### 4.2. **Certificatieprocedure**
 
 ### 10.1. **Toetstermen**
 
-### 10.2. **Uitslagregel van het examen**
+### 8. **Entreecriteria**
 
 ### 11. **Hercertificatie**
 
@@ -37670,13 +37672,13 @@ Intrinsieke kenmerken:
 
 ### 11.3. **Cesuur van de beoordeling**
 
-### 4.7.5. **Bestuursrechter**
+### 4.6.3. **Klachtenregeling**
 
-### Klachten over het bedrijf of de persoon
+### 4.7.1. **Inleiding**
 
 ### 6.1. **Medewerking aan toezicht**
 
-### Procedure
+### 5.3. **Eisen te stellen aan het examenpersoneel**
 
 ### 6.3.3. **Beoordeling van een praktijkverrichting**
 
@@ -37690,7 +37692,7 @@ Intrinsieke kenmerken:
 
 ### 10.1. **Toetstermen**
 
-### 10.2.1. **Algemene eisen ten aanzien van het duikploegleiderlogboek**
+### 6.6. **Melding aan de Nederlandse Arbeidsinspectie**
 
 ### 3.2. Algemene competenties
 
@@ -37698,45 +37700,45 @@ Intrinsieke kenmerken:
 
 ### Paragraaf 5.3. Eisen te stellen aan het examenpersoneel
 
-### Paragraaf 6.5. Maatregelen
+### Paragraaf 4.1. Certificatiereglement
 
-### Paragraaf 6.5.2. Intrekking
+### Paragraaf 4.3. Certificatiebeslissing
 
-### Paragraaf 6.5.4. Waarschuwing
+### Paragraaf 4.5. Norminterpretatie
 
-### Paragraaf 7.1. Dieper duiken dan aangegeven in de categorie van het certificaat (geldt alleen voor de categorieën A3, B3, B4)
+### Paragraaf 5.1. Algemeen
 
-### Paragraaf 8.2. B. SSE
+### Hoofdstuk 6. Toezicht
 
-### 4.8. **Register voor vakbekwaamheid**
+### Paragraaf 6.2. Frequentie van het toezicht
 
-### Paragraaf 8.4.1. Opleidingscurriculum A1 SCUBA (geconditioneerde omstandigheden)
+### Paragraaf 6.3.1. Uitvoeringsplan
 
-### 5.3. **Beheer centrale itembank en examenversies**
+### Paragraaf 6.3.4. Beoordeling naar aanleiding van klachten
 
-### 5.3. **Beheer centrale itembank en examenversies**
+### Paragraaf 6.5.3. Weigering
 
 ### 2. Definities
 
-### Paragraaf 8.4.5. Opleidingscurriculum B1 SSE (tot en met 15 meter)
+### Paragraaf 8.4.1. Opleidingscurriculum A1 SCUBA (geconditioneerde omstandigheden)
 
 ### 3.2. Actieve partijen
 
 ### Artikel 4.2. Wijziging voorwaarden of intrekking certificaat
 
-### Paragraaf 10.2.2. Theorie-examen A. SCUBA
+### Paragraaf 9.1. A. SCUBA
 
 ### Werkveldspecifiek certificatieschema **voor het persoonscertificaat Vuurwerkdeskundige**
 
-### Paragraaf 11.3. Aanvraag hercertificatie
+### Paragraaf 10.2.3. Theorie-examen B. SSE
 
 ### 3.1. Beschrijving schema
 
-### 4.2.4. **Weigering, schorsing en intrekking van het systeemcertificaat**
+### 3.2. **Beschrijving van het schema**
 
 ### 9.1. Algemene eindtermen professioneel vuurwerk, pyrotechniek, veiligheid en gezondheid
 
-### 5.4.3. **Certificatiecriteria en opvolging afwijkingen**
+### 6.1. **Medewerking aan toezicht**
 
 ## Bijlage VII. behorend bij [artikel 3.9, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2015-09-15&g=2015-09-15)
 
@@ -37790,9 +37792,9 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 7. **Onderwerp van de certificatie**
 
-### 9. **Eindtermen**
+### 6.5.2. **Intrekking**
 
-### 11. Hercertificatie
+### 8. **Entreecriteria**
 
 ### 11.2.1. **Hercertificatie**
 
@@ -37800,27 +37802,27 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2014-10-01&g=2014-10-01)
 
-### 4.4. **Geldigheidsduur van het certificaat**
+### 3. **Werkveldspecifieke kenmerken**
 
 ### 4.5. **Geldigheidscondities**
 
-### Artikel 2:. aanwijzen van contactpersonen
+### 3.3. **Actieve partijen**
 
-### Bijlage A. Afwijkingen genoemd in bijlage H van SC 530 die direct telefonisch aan de Inspectie SZW moeten worden gemeld
+### 4.5. **Geldigheidscondities**
 
 ### 4.10. **Aanvraag van het certificaat bij herintreding**
 
-### 2. **Definities**
+### 6.3.2. **Inzage in het duikploegleiderlogboek**
 
 ### 10.1. **Toetstermen**
 
 ### 10.3. **Opbouw van het examen**
 
-### 4.6. **Klachtenregeling**
+### 8. **Entreecriteria**
 
 ### 4.7. **Bezwaarprocedure**
 
-### 4.7.2. **Werkwijze**
+### 11. **Hercertificatie**
 
 ### 5. **Examenreglement**
 
@@ -38623,35 +38625,35 @@ Intrinsieke kenmerken:
 
 ### 10.3.5. Beperkt toepassingsgebied (toetstermen 1.1 t/m 3.4.2)
 
-### Paragraaf 4. Toezicht en handhaving
+### 6.6. **Melding aan de Nederlandse Arbeidsinspectie**
 
 ### 10.2. **Beoordelingsmethode**
 
 ## Bijlage XI. behorend bij [Artikel 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2017-10-01&g=2017-10-01)
 
-### 11.2.2. **Hercertificatie uitgebreid duikmedische begeleider (WSCS-WOD-B-B3)**
+### 10.1. **Toetstermen**
 
 ### 2. **Definities**
 
 ### Protocol Informatieuitwisseling ASBESTverwijdering Inspectie SZW – Certificerende Instellingen
 
-### Protocol Informatieuitwisseling ASBESTverwijdering Inspectie SZW – Certificerende Instellingen
+### 2. **Definities**
 
 ## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2017-10-01&g=2017-10-01)
 
-### Artikel 11:. evaluatie
+### 4.2. **Certificatieprocedure**
 
 ### 6.1. **Medewerking aan toezicht**
 
-### 6.5.1. **Schorsing**
+### 6.2. **Frequentie van het toezicht**
 
-### 8. **Entreecriteria**
+### 6.4. **Verslag van bevindingen**
 
 ### 11.1. **Toetstermen voor hercertificatie**
 
-### 11.3. **Uitslagregel van de beoordeling**
+### 10.2. **Beoordelingsmethode**
 
-### Bijlage 2C:. Eindtermen senior oce-deskundige
+### 10.3. **Opbouw van het examen**
 
 ### 4.10. **Aanvraag van het certificaat bij herintreding**
 
@@ -39488,7 +39490,7 @@ Intrinsieke kenmerken:
 
 ### 4.3. **Certificatiebeslissing**
 
-### De toetsing van examenpersoneel
+### 2. **Definities**
 
 ### Bijlage 2:. Bezwaarprocedure
 
@@ -39496,7 +39498,7 @@ Intrinsieke kenmerken:
 
 ### 6.5.3. **Weigering**
 
-### 3.1. **Beschrijving schema**
+### 10.2. **Uitslagregel van het examen**
 
 ### 1. **Inleiding**
 
@@ -39506,7 +39508,7 @@ Intrinsieke kenmerken:
 
 ### Klachten over de CKI
 
-### 6.5. **Maatregelen**
+### 6.1. **Medewerking aan toezicht**
 
 ### 7. **Onderwerp van de certificatie**
 
@@ -39516,7 +39518,7 @@ Intrinsieke kenmerken:
 
 ### Paragraaf 4.5. Norminterpretatie
 
-### Hoofdstuk 5. Examenreglement
+### 12. **Certificaat**
 
 ### 4.2. **Certificatieprocedure**
 
@@ -39808,15 +39810,15 @@ De modellen, bedoeld in deze bijlage, liggen ter inzage in de bibliotheek van he
 
 ### 5.1. **Algemeen**
 
-### 4. **Eisen ten behoeve van de aanwijzing**
+### 4.7.2. **Werkwijze**
 
 ### 4.2. **Aanwijzingscriteria**
 
-### 3.4. **Risicoanalyse en afbreukcriteria**
+### 6.5.1. **Schorsing**
 
-### 11. **Hercertificatie**
+### 9.1. **Algemeen**
 
-### 4.6.3. **Klachtenregeling**
+### 10.1. **Toetstermen**
 
 ### 6.4. **Verslag van bevindingen**
 
@@ -40373,9 +40375,9 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-### 6. **Toezicht**
+### 3.2. **Beschrijving van het schema**
 
-### 4.7. **Bezwaarprocedure**
+### 4.6.. **Klachtenregeling**
 
 ### 4.7.3. **Procedure**
 
@@ -40391,17 +40393,17 @@ Intrinsieke kenmerken:
 
 ### Paragraaf 4.3. Certificatiebeslissing
 
-### 5.3. **Beheer centrale itembank en examenversies**
+### Paragraaf 6.5.1. Schorsing
 
-### Paragraaf 8.4.6. Opleidingscurriculum B2 SSE (tot en met 30 meter)
+### Paragraaf 8.4.2. Opleidingscurriculum A2 SCUBA (tot en met een diepte van 15 meter)
 
 ### Paragraaf 10.1.1. A. SCUBA
 
-### 4.8. **Uitwisseling bevindingen tussen CKI en overheidsinstantie**
+### Paragraaf 10.1.2. B. SSE
 
-### Hoofdstuk 11. Hercertificatie
+### Paragraaf 10.1.3. C. Gesloten duikklok
 
-### 3. **Werkveldspecifieke kenmerken**
+### Paragraaf 11.2. Uitgangspunten toetsing
 
 ### Deel II:. Normen
 
@@ -40623,13 +40625,13 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 ### 10.3. Cesuur examen
 
-### 6.5.3. **Weigering**
+### 6.3.1. **Uitvoeringsplan**
 
 ### 6.1.1. **Wet- en regelgeving**
 
 ## Bijlage XI. behorend bij [Artikel 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2016-07-05&g=2016-07-05)
 
-### 6.4.8. **Externe communicatie**
+### 12. **Certificaat**
 
 ### 6.4.9. **Bewaking en meting**
 
@@ -40637,7 +40639,7 @@ Het onderzoek, bedoeld in [artikel 3.9, onderdelen f en i](https://wetten.overhe
 
 Vervallen
 
-### 3.3. **Risicoanalyse**
+### 4.7. **Bezwaarprocedure**
 
 ### 4.1.2. **Voldoende personeel**
 
@@ -42967,31 +42969,31 @@ Intrinsieke kenmerken:
 
 ##### Artikel 3.15. Schakelbepaling
 
-Op een arbeidsplaats in de winningsindustrie voor het opsporen en de winning van koolwaterstoffen zijn naast de voorschriften van [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&z=2022-07-01&g=2022-07-01) van dit hoofdstuk tevens de voorschriften van deze paragraaf van toepassing.
+Op een arbeidsplaats in de winningsindustrie voor het opsporen en de winning van koolwaterstoffen zijn naast de voorschriften van [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&z=2022-12-13&g=2022-12-13) van dit hoofdstuk tevens de voorschriften van deze paragraaf van toepassing.
 
 ##### Artikel 3.16. Veiligheids- en gezondheidszorgsysteem in verband met zware ongevallen
 
-In aanvulling op [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2022-07-01&g=2022-07-01) bevat de aanvulling op het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 2.42k, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 9, en IV, onderdeel 1, bij de richtlijn.
+In aanvulling op [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2022-12-13&g=2022-12-13) bevat de aanvulling op het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 2.42k, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 9, en IV, onderdeel 1, bij de richtlijn.
 
 ##### Artikel 3.17. Veiligheids- en gezondheidsbeleid en -document in verband met zware ongevallen
 
-In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, over de aanvulling op het arbeidsomstandighedenbeleid, bedoeld in [artikel 2.42k, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 8, en IV, onderdeel 1, bij de richtlijn.
+In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, over de aanvulling op het arbeidsomstandighedenbeleid, bedoeld in [artikel 2.42k, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 8, en IV, onderdeel 1, bij de richtlijn.
 
-##### Artikel 3.18. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01)
+##### Artikel 3.18. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13)
 
-1. In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
+1. In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
 
-2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
+2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
 
-##### Artikel 3.19. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01)
+##### Artikel 3.19. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13)
 
-1. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
+1. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
 
-2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-07-01&g=2022-07-01) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-07-01&g=2022-07-01) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d,](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-07-01&g=2022-07-01) voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
+2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2022-12-13&g=2022-12-13) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2022-12-13&g=2022-12-13) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d,](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2022-12-13&g=2022-12-13) voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
 
 ##### Artikel 3.20. Noodplan in verband met zware ongevallen
 
-In aanvulling op[artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2022-07-01&g=2022-07-01), bevat de aanvulling op het noodplan, bedoeld in [artikel 3.37za, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37za), ten minste de informatie, genoemd in bijlage I, onderdeel 10, bij de richtlijn, met dien verstande dat onder extern rampenplan als bedoeld in de punten 2 en 9 wordt verstaan: het Incidentbestrijdingsplan Noordzee, bedoeld in [artikel 23 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=23), het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=16), of het rampbestrijdingsplan, bedoeld in [artikel 17 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=17).
+In aanvulling op[artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2022-12-13&g=2022-12-13), bevat de aanvulling op het noodplan, bedoeld in [artikel 3.37za, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37za), ten minste de informatie, genoemd in bijlage I, onderdeel 10, bij de richtlijn, met dien verstande dat onder extern rampenplan als bedoeld in de punten 2 en 9 wordt verstaan: het Incidentbestrijdingsplan Noordzee, bedoeld in [artikel 23 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=23), het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=16), of het rampbestrijdingsplan, bedoeld in [artikel 17 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=17).
 
 ### Hoofdstuk 4. Veiligheid tankschepen en gevaarlijke stoffen
 
@@ -43021,7 +43023,7 @@ In aanvulling op[artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ### 3.3. **Risicoanalyse en afbreukrisico**
 
-### 7. **Het onderwerp van certificatie**
+### 1. **Inleiding**
 
 ## Bijlage IIe. behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2017-06-20&g=2017-06-20)
 
@@ -43031,7 +43033,7 @@ In aanvulling op[artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ### Klachtenregeling
 
-### 6.5.2. **Intrekking**
+### 6.3. **Uitvoering van het toezicht**
 
 ## Bijlage IIf. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2017-06-20&g=2017-06-20)
 
@@ -43039,9 +43041,9 @@ In aanvulling op[artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2017-06-20&g=2017-06-20)
 
-### Artikel 8:. privacy-aspecten
+### 4. **Certificatiereglement**
 
-### 5.2. **Uitvoering van het examen**
+### 4.7.1. **Inleiding**
 
 ## Bijlage XIIa. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2017-06-20&g=2017-06-20)
 
@@ -43540,11 +43542,11 @@ De taken en bevoegdheden, bedoeld in de [artikelen 5](https://wetten.overheid.nl
 
 ### Bijlage 9:. Format goed- en afkeurcriteria examen
 
-### Indeling van het competentieprofiel
+### 5.2. **Uitvoering van het examen**
 
 ## Bijlage IIe. behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2017-10-01&g=2017-10-01)
 
-### 4.6.3. **Klachtenregeling**
+### 9.2. **Duikploegleider**
 
 ### 10.2.4. **Portfoliobeoordeling**
 
@@ -43850,7 +43852,7 @@ De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van h
 
 ## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2017-05-01&g=2017-05-01)
 
-### 5.1. **Algemeen**
+### 13. **Geldigheidscondities**
 
 ### 4.3. **Certificatiebeslissing**
 
@@ -45193,7 +45195,7 @@ De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van h
 
 ## Bijlage IIe. behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.16&z=2018-10-01&g=2018-10-01)
 
-### **Inhoudsopgave**
+### 11. **Hercertificatie**
 
 ### Paragraaf 10.1. Toetscriteria
 
@@ -45966,7 +45968,7 @@ Intrinsieke kenmerken:
 
 ### Beslissing op het bezwaarschrift
 
-### 4.1. Beslotenheid van examens
+### 4.7.5. **Bestuursrechter**
 
 ### 2. **Kerntaken**
 
@@ -45974,15 +45976,15 @@ Intrinsieke kenmerken:
 
 ### 3. **Werkveldspecifieke kenmerken**
 
-### 6.2. **Frequentie en uitvoering van het toezicht**
+### 3.1. **Algemeen**
 
 ### 4.6.1. **Klachten over de CKI**
 
 ### 4.1. Beslotenheid van examens
 
-### Bijlage 6:. Competentieprofiel A&O
+### 10.1. **Toetstermen**
 
-### 10.2.6. **Praktijkexamen**
+### 10.2.1. **Algemene eisen ten aanzien van het duikploegleiderlogboek**
 
 ## Bijlage IX. behorend bij [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2022-01-01&g=2022-01-01)
 
@@ -46250,7 +46252,7 @@ Vervallen
 
 ## Bijlage XIIa. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2021-01-09&g=2021-01-01)
 
-### Paragraaf 8.4.8. Opleidingscurriculum B4 SSE (met open duikklok)
+### Paragraaf 8.4.4. Opleidingscurriculum B0 SSE (geconditioneerde omstandigheden)
 
 ### 4.2. Centraal College van Deskundigen SCVE
 
@@ -46258,13 +46260,15 @@ Vervallen
 
 ## Bijlage XI. behorend bij [Artikel 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2019-04-01&g=2019-04-01)
 
-### 5. Toezicht
+### Paragraaf 10.1. Toetscriteria
 
 ## Bijlage XVId. behorend bij [Artikel 6.5, 4e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-07-01&g=2022-07-01)
 
-### 6.4. Verslag van bevindingen
+### 4.7. **Bezwaarprocedure**
 
-## Bijlage XIIa. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2019-04-01&g=2019-04-01)
+## Bijlage XVIIa. behorend bij [artikel 7.7, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2022-12-13&g=2022-12-13), Arbeidsomstandighedenregeling
+
+Vervallen
 
 ## Bijlage XIIb. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2019-04-01&g=2019-04-01)
 
@@ -46784,9 +46788,9 @@ Intrinsieke kenmerken:
 
 ##### Artikel 1.1d. Verzoek om registratie of herregistratie
 
-1. De persoon die zich wil laten registeren of herregistreren in een register als bedoeld in [artikel 1.1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-07-01&g=2022-07-01), doet de verwerker van dit register de gegevens, bedoeld in artikel 1.1c, tweede lid, toekomen. De persoon die zich wil laten registeren of herregistreren in een register als bedoeld in artikel 1.1c, derde lid, doet de verwerker van dit register tevens het gegeven, bedoeld in artikel 1.1c, derde lid, toekomen.
+1. De persoon die zich wil laten registeren of herregistreren in een register als bedoeld in [artikel 1.1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-12-13&g=2022-12-13), doet de verwerker van dit register de gegevens, bedoeld in artikel 1.1c, tweede lid, toekomen. De persoon die zich wil laten registeren of herregistreren in een register als bedoeld in artikel 1.1c, derde lid, doet de verwerker van dit register tevens het gegeven, bedoeld in artikel 1.1c, derde lid, toekomen.
 
-2. De verwerker van het register kan bepalen dat de persoon, bedoeld in het eerste lid, een of meer gegevens als bedoeld in [artikel 1.1c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-07-01&g=2022-07-01), in digitale vorm verstrekt. Daartoe zorgt de verwerker voor een permanent bereikbare en volgens de stand van de techniek beveiligde website.
+2. De verwerker van het register kan bepalen dat de persoon, bedoeld in het eerste lid, een of meer gegevens als bedoeld in [artikel 1.1c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-12-13&g=2022-12-13), in digitale vorm verstrekt. Daartoe zorgt de verwerker voor een permanent bereikbare en volgens de stand van de techniek beveiligde website.
 
 3. De persoon, bedoeld in het eerste lid, legitimeert zich bij de verwerker zodanig dat deze zijn identiteit kan vaststellen.
 
@@ -46796,29 +46800,29 @@ Intrinsieke kenmerken:
 
 1. De administratie van het register is zodanig ingericht dat op verzoek van:
 
-- a. de geregistreerde of geherregistreerde tijdig aan hem de gegevens, bedoeld in het [artikel 1.1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-07-01&g=2022-07-01) en voor zover van toepassing het derde lid, worden verstrekt ten behoeve van controle op juistheid en volledigheid;
+- a. de geregistreerde of geherregistreerde tijdig aan hem de gegevens, bedoeld in het [artikel 1.1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-12-13&g=2022-12-13) en voor zover van toepassing het derde lid, worden verstrekt ten behoeve van controle op juistheid en volledigheid;
 
 - b. de werkgever van een werknemer, de opdrachtgever van een zelfstandige tijdig of de door de werkgever of opdrachtgever gemachtigde aan hem meegedeeld wordt of de door hem in zijn verzoek vermelde persoon in het register is opgenomen, en zo ja met welke status en voor welk werkveld of welke werkvelden;
 
 - c. een andere direct betrokkene tijdig aan hem meegedeeld wordt of de door hem in zijn verzoek vermelde persoon in het register is opgenomen en zo ja met welke status en voor welk werkveld of welke werkvelden; en
 
-- d. de toezichthouder tijdig aan hem de gegevens, bedoeld in [artikel 1.1c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-07-01&g=2022-07-01), worden verstrekt die voor de naleving van de bij en krachtens de wet gegeven voorschriften van belang zijn.
+- d. de toezichthouder tijdig aan hem de gegevens, bedoeld in [artikel 1.1c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-12-13&g=2022-12-13), worden verstrekt die voor de naleving van de bij en krachtens de wet gegeven voorschriften van belang zijn.
 
 2. De personen, bedoeld in het eerste lid, legitimeren zich bij de verwerker zodanig dat deze kan vaststellen dat zij geregistreerde of geherregistreerde, werkgever, opdrachtgever, gemachtigde, andere direct betrokkene of toezichthouder zijn.
 
 ##### Artikel 1.1f. Aanpassing gegevens op verzoek geregistreerde of geherregistreerde
 
-1. De geregistreerde of geherregistreerde kan de minister gemotiveerd verzoeken de in het register opgenomen gegevens, bedoeld in de [artikelen 1.1c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-07-01&g=2022-07-01), [1.9a, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2022-07-01&g=2022-07-01), en [1.9d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2022-07-01&g=2022-07-01), aan te passen of te verwijderen.
+1. De geregistreerde of geherregistreerde kan de minister gemotiveerd verzoeken de in het register opgenomen gegevens, bedoeld in de [artikelen 1.1c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2022-12-13&g=2022-12-13), [1.9a, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2022-12-13&g=2022-12-13), en [1.9d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2022-12-13&g=2022-12-13), aan te passen of te verwijderen.
 
 2. In voorkomend geval doet de geregistreerde of geherregistreerde de minister met het verzoek, bedoeld in het eerste lid, nieuwe gegevens toekomen.
 
-3. [Artikel 1.1d, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1d&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing.
+3. [Artikel 1.1d, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1d&z=2022-12-13&g=2022-12-13), is van overeenkomstige toepassing.
 
 ##### Artikel 1.1g. Informeren geregistreerde of geherregistreerde
 
 De minister informeert de geregistreerde of geherregistreerde desgevraagd over:
 
-- a. door hem genomen besluiten betreffende een verzoek om informatie of inzage als bedoeld in [artikel 1.1e, eerste lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1e&z=2022-07-01&g=2022-07-01); en
+- a. door hem genomen besluiten betreffende een verzoek om informatie of inzage als bedoeld in [artikel 1.1e, eerste lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1e&z=2022-12-13&g=2022-12-13); en
 
 - b. door hem anders dan op verzoek van de geregistreerde of geherregistreerde in dat register aangepaste gegevens dan wel uit het register verwijderde gegevens.
 
@@ -46860,11 +46864,11 @@ De minister informeert de geregistreerde of geherregistreerde desgevraagd over:
 
 ## Bijlage IIf. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2022-01-01&g=2022-01-01)
 
-### 6. **Toezicht**
+### 2. **Definities**
 
-### 10.2.3. **Algemeen**
+### 8.1. **Duikploegleider**
 
-### 10.2.5. **Theorie-examen voor duikploegleider**
+### 10. **Toetsmethodiek bij initiële certificatie**
 
 ## Bijlage III. behorend bij artikel 3.1
 
@@ -47321,7 +47325,7 @@ Vervallen
 
 ### 6.2. **Frequentie en uitvoering van het toezicht**
 
-### 5.3. **Eisen te stellen aan het examenpersoneel**
+### 4.7.2. **Werkwijze**
 
 ## Bijlage IIf. behorend bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2021-01-09&g=2021-01-01)
 
@@ -47329,9 +47333,9 @@ Vervallen
 
 ### 4.1. Beslotenheid van examens
 
-### 1.1. Beeld van de branche en het beroep
+### 10.2.2. **Entreecriteria**
 
-### Paragraaf 8.4.9. Opleidingscurriculum C Gesloten duikklok (met ademgas)
+### Paragraaf 8.4.5. Opleidingscurriculum B1 SSE (tot en met 15 meter)
 
 ## Bijlage XII. behorend bij [Artikel 4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2021-01-09&g=2020-12-15)
 
@@ -47389,7 +47393,7 @@ Vervallen
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-### Hoofdstuk 10. Toetsmethodiek bij initiële certificatie
+### Paragraaf 8.4.9. Opleidingscurriculum C Gesloten duikklok (met ademgas)
 
 ## Bijlage XIIb. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2022-01-01&g=2022-01-01)
 
@@ -47409,9 +47413,7 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 Vervallen
 
-## Bijlage XIIIb. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2021-02-03&g=2021-02-10)
-
-Vervallen
+## Bijlage XVIe. behorend bij [Artikel 6.6, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2022-12-13&g=2022-12-13)
 
 ## Bijlage XIIIa. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2021-05-01&g=2021-05-01)
 
@@ -47772,7 +47774,7 @@ Intrinsieke kenmerken:
 
 #### Paragraaf 7.3. Registratie of herregistratie machinisten hijskranen en funderingsmachines
 
-## Bijlage XIIb. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2022-07-01&g=2022-07-01)
+## Bijlage XIIb. behorend bij [artikel 4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2a&artikel=4.17b&z=2022-12-13&g=2022-12-13)
 
 ## Bijlage XIIIe. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2022-07-01&g=2022-07-01)
 
@@ -47827,7 +47829,7 @@ Vervallen
 
 ## Bijlage XVIa. behorend bij [Artikel 6.5, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-07-01&g=2022-07-01)
 
-### 5.4. **Eisen te stellen aan het examen**
+### 4.7.3. **Procedure**
 
 ## Bijlage XVIb. behorend bij [Artikel 6.5, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-07-01&g=2022-07-01)
 
@@ -47906,6 +47908,179 @@ Intrinsieke kenmerken:
 - wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
 
 ## Bijlage XIX. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2022-07-01&g=2022-07-01)
+
+| **A. Algemene Gebaren** | **A. Algemene Gebaren** | **A. Algemene Gebaren** |
+| --- | --- | --- |
+| Betekenis | Beschrijving | Illustratie |
+| ﻿BEGIN Pas op! Begin van commando | ﻿Beide armen zijn horizontaal gestrekt met de handpalmen naar boven |   |
+| ﻿STOP Onderbreking Einde van de beweging | ﻿ De rechterhand is opgeheven en de rechterhandpalm naar voren gehouden |   |
+| ﻿EINDE Einde van de werkzaamheden | ﻿Beide handen zijn ter hoogte van de borst samengevoegd |   |
+
+| **B. Verticale bewegingen** | **B. Verticale bewegingen** | **B. Verticale bewegingen** |
+| --- | --- | --- |
+| Betekenis | Beschrijving | Illustratie |
+| HIJSEN | ﻿Met de opgeheven rechterarm en naar voren gebrachte rechterhandpalm wordt traag een cirkelbeweging gemaakt |   |
+| VIEREN | ﻿Met de naar beneden gerichte rechterarm en naar binnen gehouden rechterhandpalm wordt traag een cirkelbeweging gemaakt |   |
+| VERTICALE AFSTAND | ﻿De afstand wordt met de handen aangegeven |   |
+
+| **C. Horizontale bewegingen** | **C. Horizontale bewegingen** | **C. Horizontale bewegingen** |
+| --- | --- | --- |
+| Betekenis | Beschrijving | Illustratie |
+| VOORUIT | ﻿Beide armen worden gebogen, palmen worden naar binnen gehouden en met de voorarmen worden trage bewegingen naar het lichaam toe gemaakt |   |
+| ACHTERUIT | ﻿Beide armen worden gebogen, beide handpalmen worden naar buiten gehouden, met de voorarmen worden trage beweging van het lichaam af gemaakt |   |
+| NAAR RECHTS ﻿ten opzichte van de signaalgever | ﻿Met de ongeveer horizontaal gestrekte rechterarm en de naar beneden gehouden rechterhandpalm worden trage, richting aanwijzende bewegingen gemaakt |   |
+| NAAR LINKS ﻿ten opzichte van de signaalgever | ﻿Met de ongeveer horizontaal gestrekte linkerarm en de naar beneden gehouden linkerhandpalm worden trage richtingaanwijzende bewegingen gemaakt |   |
+| HORIZONTALE AFSTAND | ﻿De afstand wordt met de handen aangegeven |   |
+
+| **D. Gevaar** | **D. Gevaar** | **D. Gevaar** |
+| --- | --- | --- |
+| Betekenis | Beschrijving | Illustratie |
+| GEVAAR | ﻿Beide handen opgeheven, handpalmen naar voren |   |
+| SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
+| TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
+
+## Bijlage XIIIa. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-12-13&g=2022-12-13)
+
+Vervallen
+
+## Bijlage XIIIb. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-12-13&g=2022-12-13)
+
+Vervallen
+
+## Bijlage XIIIc. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-12-13&g=2022-12-13)
+
+Vervallen
+
+## Bijlage XIIId. behorend bij [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2022-12-13&g=2022-12-13)
+
+Vervallen
+
+## Bijlage XIIIe. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2022-12-13&g=2022-12-13)
+
+Vervallen
+
+## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2022-12-13&g=2022-12-13)
+
+Vervallen
+
+## Bijlage XIIIg. behorend bij [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.29&z=2022-12-13&g=2022-12-13) Arbeidsomstandighedenregeling
+
+## Bijlage XIV. behorende bij [artikel 4.32a, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2022-12-13&g=2022-12-13)
+
+| Belastende situatie in de gebruiksfase | Belastingen die een belangrijke toename in de corrosie veroorzaken en/of die hogere eisen stellen aan de prestaties van het verfsysteem nadat het is aangebracht |
+| --- | --- |
+| Beschermingsmaatregel | Maatregelen ter bescherming van de gezondheid |
+| Bijzondere belastende omstandigheden | Situaties in de gebruikersfase die gelijktijdig een verhoogde kans op corrosie veroorzaken door bij voorbeeld gelijktijdig mechanische en chemische belasting |
+| C1–C5 | Corrosiesnelheden gekoppeld aan belastingen met voorbeelden: |
+|   | C1 Verwarmde gebouwen met een schone atmosfeer b.v. kantoren, winkels, scholen, hotels, woningen. |
+|   | C2 Onverwarmde gebouwen waar condensatie kan optreden b.v. depots, sporthallen. |
+|   | C3 Productiehallen met een hoge vochtigheid en enige luchtvervuiling b.v. Voedselverwerkende fabrieken, wasserijen, brouwerijen zuivelindustrie |
+|   | C4 Productiehallen of gebouwen met een permanente belasting of hoge condensatie b.v. chemische fabrieken, zwembaden |
+|   | C5 Gebouwen met bijna permanente condensatie of een hoge vervuiling |
+| Dauwpunt | De temperatuur waaronder het vocht in de lucht zal condenseren op het oppervlak |
+| Derivaten | Afgeleide producten van minerale oliën of combinaties van producten waarin minerale oliën aanwezig zijn |
+| Droge ruimte | Een ruimte waarin de relatie luchtvochtigheid en temperatuur van dien aard is dat van een normale geaccepteerde leefomgeving kan worden gesproken, waarin verblijfomstandigheden voor langere duur zijn geaccepteerd |
+| Enige luchtvervuiling | Een vervuiling welke incidenteel dan wel permanent wordt gekenmerkt door een chemische verontreiniging welke invloed kan uitoefenen op de kwaliteit van het beschermende verfsysteem |
+| Hoge luchtvervuiling | Een vervuiling welke bijna permanent aanwezig is welke gezien de aanwezige chemische stoffen invloed hebben op het verfsysteem en direct negatieve invloed hebben, in corrosieve zin, op een metalen ondergrond |
+| NEN 12944 ( NPR 7452) | Norm die de bescherming van metalen door middel van verfsystemen behandelt. In deze norm vertegenwoordigen de aanduidingen C1 t/m C5 corrosiebelastingscategorieën. Aan deze categorie-indeling zijn nu ook vervangings- en beheersmaatregelen gekoppeld. |
+| Onderdompeling langer dan 5 minuten per 24 uur | Directe blootstelling aan een vloeistof, welke plaats vindt langer dan 5 minuten en die zoor zijn samenstelling directe deformatie van het beschermende verfsysteem veroorzaakt, dan wel omdat de vloeistof door het verfsysteem heen dringt en dan corrosie van de onderliggende metalen ondergrond veroorzaakt |
+| Schone atmosfeer | Een atmosfeer welke zich kenmerkt door zeer weinig of geen verontreiniging en welke gezien wordt als een normale situatie onder normale leefomstandigheden |
+| VOS | Vluchtige organische stof. Volgens het [Arbeidsomstandighedenbesluit artikel 4.62a](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a) wordt hieronder verstaan: organische verbindingen en mengsels hiervan, die bij 293,15 K (20°C) een dampspanning hebben van ten minste 0,01 kPa, dan wel een overeenkomstige vluchtigheid bij de specifieke gebruiksomstandigheden. Blootstelling aan VOS kan schadelijk zijn voor de gezondheid. VOS moeten zoveel mogelijk worden vervangen. In gevallen waarin vervanging onmogelijk is, moeten beschermingsmaatregelen worden genomen. |
+
+## Bijlage XV. behorend bij [artikel 4.32f, tweede lid, onder a en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2022-12-13&g=2022-12-13)
+
+| **Groepen** | **VOS 1Het VOS-gehalte is bepaald conform de methodiek ASTM – D 3960-96 voor gebruiksklare mengsels. in het gebruiks-/spuitklare mengsel** |
+| --- | --- |
+| Spuitenreinigers | 850 gr/liter |
+| Oppervlaktereinigers | 200 gr/liter |
+| Washprimers | 780 gr/liter |
+| Primer surfacer, | 540 gr/liter |
+| 1 of 2 component |   |
+| Sealer | 540 gr/liter |
+| 1-laags aflaksysteem | 420 gr/liter |
+| en chassiscoating |   |
+| 2-laagsaflaksysteem bestaande uit: | 420 gr/liter 2Het gemiddelde wordt bepaald door het VOSgehalte per laag te hanteren in de formule (a. L1 + b.L2)/ ( a + b)Dit gemiddelde is gelijk aan of minder dan 420 gram/liter spuitklaar product. Hierbij is L1 het VOS-gehalte van de basiskleurlaag en L2 het VOS-gehalte van de blanke lak, waarbij a en b staan voor de aangemaakte hoeveelheid in gram van resp. L1 en L2. De hoeveelheden hebben betrekking op spuitklare producten en géén van de lagen mag méér VOS bevatten dan 480 gr/liter. |
+| basiskleurlak en blanke lak |   |
+| Speciale producten 3Speciale producten zijn bedoeld voor speciale behandelingen (zoals bijvoorbeeld motorfietskleuren en speciale designkleuren waar inkten voor worden gebruikt die niet met een gewone basecoat gemaakt kunnen worden) en speciale toepassingen (bijvoorbeeld moeilijk hechtende ondergronden). Deze groep producten betreft ook additieven die worden toegevoegd aan bestaande producten om speciale effecten te realiseren zoals ruwheid, mattering, etc. Dit betekent dat producten waar deze specifieke additieven aan zijn toegevoegd het maximum gehalte aan VOS/liter van dat product kunnen overschrijden. Speciale reinigers (siliconen, lakverwijdering) zijn toegevoegd omdat zij niet onder de aangegeven spuitreinigers en oppervlaktereinigers vallen.De groep speciale producten bevat elastificeermiddelen, (ver)harders, versnellers/activeerders, vertragers, matteringsmiddelen, structuurmiddelen, effectmiddelen, antisiliconen, basisverf en inkt ten behoeve van speciale kleuren (design), matte lak, hechtprimer voor speciale kunststof- of metaalondergronden (waar geen gewone (wash)primer gebruikt kan worden), spuitbussen, uitspuitverdunning, kunststofreiniger, siliconenverwijderaar en lakverwijderaar. | 840 gr/liter |
+| Overige producten 44 Overige producten zijn: polijst- en poetsmiddelen, vulmiddelen, kitten, lijmen en plamuren. | 150 gr/liter |
+
+## Bijlage XVI. behorend bij [Artikel 6.1, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2022-12-13&g=2022-12-13)
+
+### 3.2. **Actieve partijen**
+
+## Bijlage XVIa. behorend bij [Artikel 6.5, 1e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-12-13&g=2022-12-13)
+
+## Bijlage XVIb. behorend bij [Artikel 6.5, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-12-13&g=2022-12-13)
+
+## Bijlage XVIc. behorend bij [Artikel 6.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-12-13&g=2022-12-13)
+
+## Bijlage XVId. behorend bij [Artikel 6.5, 4e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2022-12-13&g=2022-12-13)
+
+## Bijlage XVIf. behorend bij [Artikel 6.6, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.6&z=2022-12-13&g=2022-12-13)
+
+Vervallen
+
+## Bijlage XVII. behorend bij [artikel 7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2022-12-13&g=2022-12-13)
+
+Vervallen
+
+## Bijlage XVIIb. behorend bij [artikel 7.7, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2022-12-13&g=2022-12-13), Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage XVIId. behorend bij [artikel 7.7, tweede lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2022-12-13&g=2022-12-13), Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage XVIIe. behorend bij [artikel 7.7, tweede lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2022-12-13&g=2022-12-13), Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage XVIIf. behorend bij [artikel 7.7, tweede lid onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2022-12-13&g=2022-12-13), Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage XVIIg. behorend bij [artikel 7.7, tweede lid onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2022-12-13&g=2022-12-13), Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage XVIIh. behorend bij [artikel 7.7, tweede lid onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.7&z=2022-12-13&g=2022-12-13), Arbeidsomstandighedenregeling
+
+Vervallen
+
+## Bijlage XVIII. behorend bij [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2022-12-13&g=2022-12-13)
+
+Intrinsieke kenmerken:
+
+- rond;
+
+- zwart pictogram op witte achtergrond, rode rand en balk die van links naar rechts over het pictogram loopt onder een hoek van 45° ten opzichte van de horizontale lijn. De rode kleur beslaat ten minste 35% van het oppervlak van het bord.
+
+Intrinsieke kenmerken:
+
+- driehoekig;
+
+- zwart pictogram op gele achtergrond, zwarte rand. De gele kleur beslaat ten minste 50% van het oppervlak van het bord.
+
+Intrinsieke kenmerken:
+
+- rond;
+
+- wit pictogram op blauwe achtergrond. De blauwe kleur beslaat ten minste 50% van het oppervlak van het bord
+
+Intrinsieke kenmerken:
+
+- rechthoekig of vierkant;
+
+- wit pictogram op groene achtergrond. De groene kleur beslaat ten minste 50% van het oppervlak van het bord.
+
+Intrinsieke kenmerken:
+
+- rechthoekig of vierkant;
+
+- wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
+
+## Bijlage XIX. behorend bij [artikel 8.26](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.26&z=2022-12-13&g=2022-12-13)
 
 | **A. Algemene Gebaren** | **A. Algemene Gebaren** | **A. Algemene Gebaren** |
 | --- | --- | --- |
