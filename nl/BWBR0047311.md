@@ -4,7 +4,7 @@ identifier: "BWBR0047311"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-12-13"
-last_updated: "2022-10-18"
+last_updated: "2022-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047311"
 soort: "pbo"
@@ -44,7 +44,7 @@ entry_into_force: "2022-10-18"
 
 Het bestuur verleent mandaat en machtiging aan de directie om:
 
-- a. alle besluiten te nemen ter uitvoering van [artikel 30, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=3), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=9) en [10 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=10) en de daarmee verband houdende handelingen te verrichten;
+- a. alle besluiten te nemen ter uitvoering van artikel 30, eerste lid, van de wet en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=3), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=9) en [10 van de Algemene contributieverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0033789&artikel=10) en de daarmee verband houdende handelingen te verrichten;
 
 - b. alle besluiten te nemen ter uitvoering van [artikel 30, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=30) en de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&artikel=6) en [7 van de Verordening op de kosten kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039810&artikel=7) en de daarmee verband houdende handelingen te verrichten;
 
@@ -56,21 +56,23 @@ Het bestuur verleent mandaat en machtiging aan de directie om:
 
 - f. te besluiten getuigschriften als bedoeld in [artikel 47, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47) af te geven en de daarmee verband houdende handelingen te verrichten;
 
-- g. alle besluiten te nemen ter uitvoering van het bepaalde in de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en de daarmee verband houdende handelingen te verrichten;
+- g. te besluiten verklaringen van vakbekwaamheid als bedoeld in [artikel 54, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=54) af te geven en de daarmee verband houdende handelingen te verrichten;
 
-- h. alle besluiten te nemen op een verzoek als bedoeld in [artikel 11, tweede lid, van de Verordening accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0035459&artikel=11) en de daarmee verband houdende handelingen te verrichten;
+- h. alle besluiten te nemen ter uitvoering van het bepaalde in de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en de daarmee verband houdende handelingen te verrichten;
 
-- i. alle besluiten te nemen ter uitvoering van de bevoegdheden of taken van de [Nadere voorschriften permanente educatie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041616) en daarop gebaseerde beleidsregels en de daarmee verband houdende handelingen te verrichten met uitzondering van besluiten als bedoeld in [artikel 6 van de Nadere voorschriften permanente educatie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041616&artikel=6);
+- i. alle besluiten te nemen op een verzoek als bedoeld in [artikel 11, tweede lid, van de Verordening accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0035459&artikel=11) en de daarmee verband houdende handelingen te verrichten;
 
-- j. alle besluiten te nemen op een verzoek als bedoeld in [artikel 5, vierde lid, van de Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869&artikel=5) alsmede besluiten te nemen als bedoeld in artikel 5, zevende lid, van de Nadere voorschriften kwaliteitssystemen en de daarmee verband houdende handelingen te verrichten;
+- j. alle besluiten te nemen ter uitvoering van de bevoegdheden of taken van de [Nadere voorschriften permanente educatie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041616) en daarop gebaseerde beleidsregels en de daarmee verband houdende handelingen te verrichten met uitzondering van besluiten als bedoeld in [artikel 6 van de Nadere voorschriften permanente educatie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041616&artikel=6);
 
-- k. alle besluiten te nemen ter uitvoering van [artikel 6, derde lid van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=6) en de daarmee verband houdende handelingen te verrichten; en
+- k. alle besluiten te nemen op een verzoek als bedoeld in [artikel 5, vierde lid, van de Nadere voorschriften kwaliteitssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0038869&artikel=5) alsmede besluiten te nemen als bedoeld in artikel 5, zevende lid, van de Nadere voorschriften kwaliteitssystemen en de daarmee verband houdende handelingen te verrichten;
 
-- l. alle besluiten te nemen ter uitvoering van de bevoegdheden of taken van de [Verordening examen Nederlands recht en examen gedrags- en beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033788) en de [Verordening examengelden Nederlands recht en gedrags- en beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033791).
+- l. alle besluiten te nemen ter uitvoering van [artikel 6, derde lid van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=6) en de daarmee verband houdende handelingen te verrichten; en
+
+- m. alle besluiten te nemen ter uitvoering van de bevoegdheden of taken van de Verordening examen Nederlands recht en examen gedrags- en beroepsregels en de [Verordening examengelden Nederlands recht en gedrags- en beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0033791).
 
 ##### Artikel 3
 
-De directie kan ter zake van de in [artikel 2, onderdeel a tot en met e en g tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=2&artikel=2&z=2022-10-18&g=2022-10-18) genoemde mandaten en machtigingen, ondermandaat en machtiging verlenen aan een daartoe aangewezen orgaan of functionaris.
+De directie kan ter zake van de in [artikel 2, onderdeel a tot en met e en h tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=2&artikel=2&z=2022-12-13&g=2022-12-13) genoemde mandaten en machtigingen, ondermandaat en machtiging verlenen aan een daartoe aangewezen orgaan of functionaris.
 
 ### Hoofdstuk 3. – Mandaat en machtiging Raad voor Toezicht
 
@@ -114,7 +116,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-Indien en voor zover noodzakelijk bekrachtigt het bestuur de besluiten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=2&artikel=2&z=2022-10-18&g=2022-10-18), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=3&artikel=4&z=2022-10-18&g=2022-10-18) en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=4&artikel=5&z=2022-10-18&g=2022-10-18), genomen door respectievelijk de directie, de Raad voor Toezicht en de Raad voor de praktijkopleidingen voor de inwerkingtreding van dit besluit.
+Indien en voor zover noodzakelijk bekrachtigt het bestuur de besluiten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=2&artikel=2&z=2022-12-13&g=2022-12-13), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=3&artikel=4&z=2022-12-13&g=2022-12-13) en [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=4&artikel=5&z=2022-12-13&g=2022-12-13), genomen door respectievelijk de directie, de Raad voor Toezicht en de Raad voor de praktijkopleidingen voor de inwerkingtreding van dit besluit.
 
 ##### Artikel 7
 
