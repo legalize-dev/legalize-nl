@@ -4,7 +4,7 @@ identifier: "BWBR0044528"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-12-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044528"
 soort: "zbo"
@@ -50,7 +50,9 @@ Het stimuleren van de artistieke ontwikkeling en het cultureel ondernemerschap v
 
 4. Een Startbijdrage kan slechts worden verstrekt voor zover het belastbaar inkomen van de aanvrager in het kalenderjaar of de kalenderjaren waarin de periode valt waarover de financiële bijdrage zich uitstrekt naar verwachting lager zal zijn dan een door het bestuur voor het betreffende jaar vast te stellen bedrag.
 
-5. Een Startbijdrage wordt aan dezelfde kunstenaar voor ten hoogste 12 maanden verstrekt.
+5. Een Startbijdrage wordt voor een periode van maximaal 12 maanden verstrekt.
+
+6. Een startbijdrage kan aan dezelfde kunstenaar maximaal twee keer worden verstrekt.
 
 ##### Artikel 3. Aanvraag
 
