@@ -4,7 +4,7 @@ identifier: "BWBR0019569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-16"
-last_updated: "2021-03-10"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019569"
 soort: "ministeriele-regeling"
@@ -70,15 +70,15 @@ Besluit:
 
 - a. Voor de toets leesvaardigheid: € 50;
 
-- b. voor de toets spreekvaardigheid: € 60;
+- b. voor de toets spreekvaardigheid: € 50;
 
-- c. voor de toets kennis van de Nederlandse samenleving: € 40.
+- c. voor de toets kennis van de Nederlandse samenleving: € 50.
 
 5. DUO verstrekt na ontvangst de verschuldigde bedragen een bewijs van betaling.
 
 ##### Artikel 3. Gang van zaken voor en tijdens het examen
 
-1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2021-03-10&g=2021-03-10), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
+1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2022-12-16&g=2022-12-16), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
 
 2. Voor de aanvang van het basisexamen draagt de toezichthouder zorg voor:
 
