@@ -4,7 +4,7 @@ identifier: "BWBR0046798"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-12-17"
-last_updated: "2022-09-10"
+last_updated: "2022-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046798"
 soort: "AMvB"
@@ -52,7 +52,15 @@ Wijzigt het Besluit SUWI.
 
 ##### Artikel II
 
-1. Een onderdaan van Oekraïne wordt, voor de werking van [artikel 3.1, eerste lid, onderdeel d, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=3.1), beschouwd als vreemdeling als bedoeld in dat artikel.
+1. Voor de werking van [artikel 3.1, eerste lid, onderdeel d, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=3.1), worden beschouwd als vreemdeling als bedoeld in dat artikel:
+
+- a. een onderdaan van Oekraïne;
+
+- b. staatlozen en onderdanen van andere derde landen dan Oekraïne die kunnen aantonen dat zij op 23 februari 2022 in Oekraïne internationale of nationale bescherming genoten;
+
+- c. staatlozen en onderdanen van andere derde landen dan Oekraïne die kunnen aantonen dat zij op 23 februari 2022 in het bezit waren van een geldige permanente verblijfsvergunning die overeenkomstig Oekraïens recht is afgegeven;
+
+- d. staatlozen en onderdanen van andere derde landen dan Oekraïne die kunnen aantonen dat zij op 23 februari 2022 in het bezit waren van een geldige tijdelijke verblijfsvergunning die overeenkomstig Oekraïens recht is afgegeven en die vóór 19 juli 2022 waren ingeschreven in de Basisregistratie Personen of zich vóór 19 juli 2022 hadden gemeld bij de gemeente voor inschrijving in de Basisregistratie Personen.
 
 2. Het eerste lid is van toepassing tot en met 31 augustus 2022.
 
