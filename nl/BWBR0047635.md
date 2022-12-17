@@ -4,7 +4,7 @@ identifier: "BWBR0047635"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-13"
-last_updated: "2022-07-01"
+last_updated: "2022-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047635"
 soort: "AMvB"
@@ -84,12 +84,36 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. Intrekking
 
-Dit onderdeel is nog niet inwerking getreden
+De volgende besluiten worden ingetrokken:
+
+- a. Besluit van 27 maart 2019 tot wijziging van sociale zekerheidswetten in verband met het regelen van overgangsrecht voor de situatie waarin het Verenigd Koninkrijk zich terugtrekt uit de Europese Unie zonder akkoord over de voorwaarden voor deze terugtrekking (no deal brexit) (Stb 2019, 144);
+
+- b. Besluit van 28 oktober 2019 tot wijziging van sociale zekerheidswetten in verband met het regelen van overgangsrecht voor de vaststelling van de toepasselijke wetgeving in verband met de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie zonder akkoord over de voorwaarden voor deze terugtrekking (no deal Brexit) (Stb 2019, 377).
 
 ##### Artikel X. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking met ingang van 1 januari 2023, met uitzondering van de in de volgende leden genoemde onderdelen.
+
+2. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=I&z=2022-12-17&g=2022-12-17) en [IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=IV&z=2022-12-17&g=2022-12-17), treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=V&z=2022-12-17&g=2022-12-17) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, en werkt terug tot en met 1 juli 2022.
+
+4. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=VIII&z=2022-12-17&g=2022-12-17) treedt in werking met ingang van de dag vier weken na de datum van uitgifte van het Staatsblad waarin dit besluit is geplaatst.
+
+5. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=IX&z=2022-12-17&g=2022-12-17) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 ##### Artikel XI. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Verzamelbesluit SZW 2023.
+
+Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 24 oktober 2022, nr. 2022-0000213285;
+
+Gelet op [artikel 78f van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78f), [artikel 7, eerste lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=7), [artikel 3, vierde en vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=3), [artikel 3, eerste lid, onderdeel c, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=3), [artikelen 1.47b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.47b), en [1.81, vierde lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.81), [artikel 3, vierde en vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=3), [artikelen 33, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), [42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=42), en [73, vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), [artikel 8, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=8) en [artikel 3, vierde en vijfde lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3);
+
+De Afdeling advisering van de Raad van State gehoord (advies van 23 november 2022, nr. W12.22.00135/III);
+
+Gezien het nader rapport van 7 december 2022 nr. 2022-0000251578;
+
+Hebben goedgevonden en verstaan:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
