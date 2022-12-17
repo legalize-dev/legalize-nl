@@ -4,7 +4,7 @@ identifier: "BWBR0032523"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-04-30"
+last_updated: "2022-12-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032523"
 soort: "ministeriele-regeling"
@@ -82,8 +82,6 @@ Besluit:
 
 - **verordening (EU) nr. 2017/625:** [verordening (EU) 2017/625](32525R2017) van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoeder-wetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plant-gezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de [Verordeningen (EG) nr. 999/2001](32001R0999), [(EG) nr. 396/2005](32005R0396), [(EG) nr. 1069/2009](32009R1069), [(EG) nr. 1107/2009](32009R1107), (EU) [nr. 1151/2012](32012R1151), (EU) [nr. 652/2014](32014R0652), (EU) [2016/429](32329R2016) en (EU) [2016/2031](32031R2016) van het Europees Parlement en de Raad, de Verordeningen [(EG) nr. 1/2005](32005R0001) en (EG) nr. [1099/2009](32009R1099) van de Raad en de Richtlijnen [98/58/EG](31958R0098), [1999/74/EG](31974R1999), [2007/43/EG](31943R2007), [2008/119/EG](32019R2008) en [2008/120/EG](32020R2008) van de Raad, en tot intrekking van de Verordeningen [(EG) nr. 854/2004](32004R0854) en (EG) nr. [882/2004](32004R0882) van het Europees Parlement en de Raad, de richtlijnen[89/608/EEG](32508R0089), [89/662/EEG](32562R0089), [90/425/EEG](32325R0090), [91/496/EEG](32396R0091), [96/23/EG](31923R0096), [96/93/EG](31993R0096) en [97/78/EG](31978R0097) van de Raad en Besluit [92/438/EEG](32338R0092) van de Raad (verordening officiële controles) (PbEU 2017 L 95);
 
-- **verordening (EU) nr. 2019/625:** gedelegeerde verordening (EU) 2019/625 van de Commissie van 4 maart 2019 tot aanvulling van Verordening (EU) 2017/625 van het Europees parlement en de Raad wat betreft voorwaarden voor de binnenkomst in de Unie van zendingen van bepaalde voor menselijke consumptie bestemde dieren en goederen;
-
 - **verordening (EU) 2019/1602:** [verordening (EU) 2019/1602](33502R2019) van de Commissie van 23 april 2019 tot aanvulling van [Verordening (EU) 2017/625](32525R2017) van het Europees Parlement en de Raad betreffende het gemeenschappelijk gezondheidsdocument van binnenkomst dat zendingen van dieren en goederen tot hun bestemming vergezelt (PbEU L 250);
 
 - **verordening (EU) 2019/1666:** [verordening (EU) 2019/1666](33566R2019) van de Commissie van 24 juni 2019 tot aanvulling van [Verordening (EU) 2017/625](32525R2017) van het Europees Parlement en de Raad wat betreft de voorwaarden voor de monitoring van het vervoer en de aankomst van zendingen van bepaalde goederen van de grenscontrolepost van aankomst tot de inrichting op de plaats van bestemming in de Unie (PbEU L 255);
@@ -132,7 +130,9 @@ Besluit:
 
 - **verordening (EU) nr. 2021/1933:** gedelegeerde [verordening (EU) 2021/1933](31933R2021) van de Commissie van 14 juli 2021 tot aanvulling van [Verordening (EU) nr. 576/2013](32013R0576) van het Europees Parlement en de Raad wat betreft voorschriften voor het niet-commerciële verkeer van gezelschapsvogels naar een lidstaat vanuit een gebied of derde land (PbEU 2021, L 396);
 
-- **verordening (EU) nr. 2022/140:** [uitvoeringsverordening (EU) 2022/140](32040R2022) van de Commissie van 16 november 2021 tot vaststelling van uitvoeringsbepalingen voor [Verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad wat de antigeen-, vaccin- en diagnosereagensbanken van de Unie betreft (PbEU 2022, L 23).
+- **verordening (EU) nr. 2022/140:** [uitvoeringsverordening (EU) 2022/140](32040R2022) van de Commissie van 16 november 2021 tot vaststelling van uitvoeringsbepalingen voor [Verordening (EU) 2016/429](32329R2016) van het Europees Parlement en de Raad wat de antigeen-, vaccin- en diagnosereagensbanken van de Unie betreft (PbEU 2022, L 23);
+
+- **verordening (EU) nr. 2022/2292:** gedelegeerde [verordening (EU) 2022/2292](32292R2022) van de Commissie van 6 september 2022 tot aanvulling van [Verordening (EU) 2017/625](32525R2017) van het Europees Parlement en de Raad wat betreft voorwaarden voor de binnenkomst in de Unie van zendingen van voedselproducerende dieren en bepaalde voor menselijke consumptie bestemde goederen (PbEU L 304).
 
 2. Deze regeling berust mede op de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), [6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1), [7.2, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), [7.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.3), [7.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [8.8, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.8) en [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=2.2), en [artikel 4.9 van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=4.9).
 
@@ -178,7 +178,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. Op het verzoek zijn de [artikelen 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [4.14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:14) van overeenkomstige toepassing.
 
-3. Indien niet langer wordt voldaan aan de voorwaarden bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=2&artikel=2.4&z=2022-04-30&g=2022-04-30), trekt de minister de beoordeling in en doet hij daarvan mededeling.
+3. Indien niet langer wordt voldaan aan de voorwaarden bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=2&artikel=2.4&z=2022-12-17&g=2022-12-17), trekt de minister de beoordeling in en doet hij daarvan mededeling.
 
 ##### Artikel 2.6
 
@@ -485,11 +485,11 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 1.4. Toepassingsbereik
 
-1. De [artikelen 1.5 tot en met 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.5&z=2022-04-30&g=2022-04-30) zijn van toepassing op de aanwijzing van een register, bedoeld in [artikel 1.27, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27).
+1. De [artikelen 1.5 tot en met 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.5&z=2022-12-17&g=2022-12-17) zijn van toepassing op de aanwijzing van een register, bedoeld in [artikel 1.27, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27).
 
-2. De [artikelen 1.5 tot en met 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.5&z=2022-04-30&g=2022-04-30) en [1.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11a&z=2022-04-30&g=2022-04-30) zijn van toepassing op de aanwijzing van een register, bedoeld in [artikel 7b.49, eerste lid, onderdeel a, van de Regeling houders van dieren](onbekend).
+2. De [artikelen 1.5 tot en met 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.5&z=2022-12-17&g=2022-12-17) en [1.11a](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11a&z=2022-12-17&g=2022-12-17) zijn van toepassing op de aanwijzing van een register, bedoeld in [artikel 7b.49, eerste lid, onderdeel a, van de Regeling houders van dieren](onbekend).
 
-3. De [artikelen 1.5 tot en met 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.5&z=2022-04-30&g=2022-04-30) en [1.11b](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11b&z=2022-04-30&g=2022-04-30) zijn van toepassing op de aanwijzing van een elektronisch portaal, bedoeld in de [artikelen 5b.62](onbekend) en [5b.68 van de Regeling houders van dieren](onbekend).
+3. De [artikelen 1.5 tot en met 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.5&z=2022-12-17&g=2022-12-17) en [1.11b](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11b&z=2022-12-17&g=2022-12-17) zijn van toepassing op de aanwijzing van een elektronisch portaal, bedoeld in de [artikelen 5b.62](onbekend) en [5b.68 van de Regeling houders van dieren](onbekend).
 
 ##### Artikel 1.5. Aanvraag tot aanwijzing register
 
@@ -497,13 +497,13 @@ In deze paragraaf wordt verstaan onder:
 
 2. Een aanvraag tot aanwijzing gaat vergezeld van:
 
-- a. bewijsstukken dat voldaan wordt aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2022-04-30&g=2022-04-30) en [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2022-04-30&g=2022-04-30), en
+- a. bewijsstukken dat voldaan wordt aan de [artikelen 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2022-12-17&g=2022-12-17) en [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2022-12-17&g=2022-12-17), en
 
 - b. een verklaring dat een bewerkersovereenkomst en een gegevensleveringsovereenkomst wordt gesloten, indien het register wordt aangewezen.
 
 ##### Artikel 1.6. Voorwaarden voor aanwijzing register
 
-Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-04-30&g=2022-04-30), vindt plaats, indien:
+Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-12-17&g=2022-12-17), vindt plaats, indien:
 
 - a. de beheerder van het register een onderneming heeft als bedoeld in [artikel 5 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5) of een rechtspersoon is in de zin van artikel 54 van het Verdrag betreffende de Werking van de Europese Unie, die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte is gevestigd;
 
@@ -545,11 +545,11 @@ Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 1.9. Onvoorziene situatie
 
-De beheerder van een register die vanwege een onvoorziene situatie niet kan voldoen aan de [artikelen 1.6 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2022-04-30&g=2022-04-30) stelt de minister daarvan onverwijld op de hoogte.
+De beheerder van een register die vanwege een onvoorziene situatie niet kan voldoen aan de [artikelen 1.6 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2022-12-17&g=2022-12-17) stelt de minister daarvan onverwijld op de hoogte.
 
 ##### Artikel 1.10. Intrekking, schorsing of beëindiging aanwijzing
 
-1. De minister kan de aanwijzing, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-04-30&g=2022-04-30), intrekken of schorsen, indien de beheerder van een aangewezen register niet voldoet aan de voorwaarden, bedoeld in de [artikelen 1.7 tot en met 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2022-04-30&g=2022-04-30).
+1. De minister kan de aanwijzing, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-12-17&g=2022-12-17), intrekken of schorsen, indien de beheerder van een aangewezen register niet voldoet aan de voorwaarden, bedoeld in de [artikelen 1.7 tot en met 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2022-12-17&g=2022-12-17).
 
 2. Indien de aanwijzing van een register wordt ingetrokken, geschorst of anderzijds beëindigd:
 
@@ -559,11 +559,11 @@ De beheerder van een register die vanwege een onvoorziene situatie niet kan vold
 
 ##### Artikel 1.11. Aanvullende bepalingen melding diergeneesmiddelen
 
-1. De gegevens, bedoeld in [artikel 3.3 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.3) en [artikel 5.11 van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.11), die worden gemeld in een register als bedoeld in [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-04-30&g=2022-04-30), worden verwerkt met als doel het in het belang van de bescherming van diergezondheid en volksgezondheid verkrijgen van inzicht in de aflevering, toepassing en ontvangst van diergeneesmiddelen, het hiermee bevorderen van een verantwoord en weloverwogen gebruik van diergeneesmiddelen en een effectief systeem van toezicht op en handhaving van de regelgeving.
+1. De gegevens, bedoeld in [artikel 3.3 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.3) en [artikel 5.11 van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.11), die worden gemeld in een register als bedoeld in [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-12-17&g=2022-12-17), worden verwerkt met als doel het in het belang van de bescherming van diergezondheid en volksgezondheid verkrijgen van inzicht in de aflevering, toepassing en ontvangst van diergeneesmiddelen, het hiermee bevorderen van een verantwoord en weloverwogen gebruik van diergeneesmiddelen en een effectief systeem van toezicht op en handhaving van de regelgeving.
 
-2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanwijzing als bedoeld in [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-04-30&g=2022-04-30).
+2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanwijzing als bedoeld in [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-12-17&g=2022-12-17).
 
-3. Op een aanvraag tot een aanwijzing als bedoeld in [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-04-30&g=2022-04-30), wordt binnen zes weken na de datum van ontvangst van de aanvraag beslist.
+3. Op een aanvraag tot een aanwijzing als bedoeld in [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-12-17&g=2022-12-17), wordt binnen zes weken na de datum van ontvangst van de aanvraag beslist.
 
 4. De minister kan de termijn, bedoeld in het derde lid, eenmaal met zes weken verlengen.
 
@@ -587,7 +587,7 @@ Deze paragraaf is van toepassing op tarieven voor:
 
 ##### Artikel 1.13. Goedkeuring tarieven registers
 
-1. De goedkeuring van tarieven voor een vergoeding als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=2&artikel=1.12&z=2022-04-30&g=2022-04-30), wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, waarbij de vergoeding van de werkzaamheden waarvoor een register is aangewezen niet meer bedraagt dan de kosten die de beheerder maakt bij de uitvoering van die werkzaamheden.
+1. De goedkeuring van tarieven voor een vergoeding als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=2&artikel=1.12&z=2022-12-17&g=2022-12-17), wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, waarbij de vergoeding van de werkzaamheden waarvoor een register is aangewezen niet meer bedraagt dan de kosten die de beheerder maakt bij de uitvoering van die werkzaamheden.
 
 2. De tarieven worden per kalenderjaar goedgekeurd.
 
@@ -1539,23 +1539,7 @@ Als voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, 
 
 - –. artikel 69, eerste lid;
 
-- m. van verordening (EU) nr. 2019/625:
-
-- –. artikel 3;
-
-- –. artikel 5, eerste lid;
-
-- –. artikel 7;
-
-- –. artikel 8;
-
-- –. artikel 10;
-
-- –. artikel 12;
-
-- –. artikel 13, eerste lid;
-
-- –. artikel 14, eerste lid;
+- m. vervallen;
 
 - n. van verordening (EU) 2019/1602:
 
@@ -2463,7 +2447,21 @@ Als voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, 
 
 - –. artikel 5, tweede lid;
 
-- –. artikel 6, tweede en derde lid.
+- –. artikel 6, tweede en derde lid;
+
+- au. van [verordening (EU) nr. 2022/2292](32292R2022):
+
+- –. artikel 3, aanhef en onderdelen a en c;
+
+- –. artikel 6, eerste lid;
+
+- –. artikel 7;
+
+- –. artikel 9, eerste en tweede lid;
+
+- –. artikel 10, eerste en tweede lid;
+
+- –. artikel 21, eerste lid, aanhef en onderdelen a en e, en vierde lid.
 
 ### Hoofdstuk 2. : Gidsen voor goede praktijken
 
@@ -2794,15 +2792,15 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1.11a. Aanvullende bepalingen melding uitslag onderzoek Salmonella
 
-1. De gegevens, bedoeld in [artikel 7b.49, eerste lid, onderdeel a, van de Regeling houders van dieren](onbekend), die worden gemeld in een register als bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-04-30&g=2022-04-30), worden verwerkt met als doel het ten behoeve van de bescherming van de diergezondheid of de volksgezondheid verkrijgen van inzicht in de gezondheidsstatus van dieren waarop de registratieverplichting van toepassing is en een effectief systeem van toezicht op de naleving van en handhaving van de op deze dieren en de houders daarvan van toepassing zijnde regelgeving door de minister te bevorderen.
+1. De gegevens, bedoeld in [artikel 7b.49, eerste lid, onderdeel a, van de Regeling houders van dieren](onbekend), die worden gemeld in een register als bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-12-17&g=2022-12-17), worden verwerkt met als doel het ten behoeve van de bescherming van de diergezondheid of de volksgezondheid verkrijgen van inzicht in de gezondheidsstatus van dieren waarop de registratieverplichting van toepassing is en een effectief systeem van toezicht op de naleving van en handhaving van de op deze dieren en de houders daarvan van toepassing zijnde regelgeving door de minister te bevorderen.
 
-2. [Artikel 1.11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11&z=2022-04-30&g=2022-04-30), zijn van overeenkomstige toepassing op een aanwijzing als bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-04-30&g=2022-04-30).
+2. [Artikel 1.11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11&z=2022-12-17&g=2022-12-17), zijn van overeenkomstige toepassing op een aanwijzing als bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-12-17&g=2022-12-17).
 
 ##### Artikel 1.11b. Aanvullende bepalingen verwerking gegevens
 
-1. De gegevens, bedoeld in de [artikelen 5b.59](onbekend), [5b.60](onbekend) en [5b.66 van de Regeling houders van dieren](onbekend), die worden gemeld door middel van een elektronisch portaal, bedoeld in [artikel 1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-04-30&g=2022-04-30), worden verwerkt met als doel het ten behoeve van de bescherming van de diergezondheid of de volksgezondheid, het dierenwelzijn of het milieu, of de uitvoering van de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252), verkrijgen van inzicht in de verplaatsingen van dieren waarop de verplichting tot melding of registratie van toepassing is en een effectief systeem van toezicht op de naleving van en handhaving van de op deze dieren en de houders daarvan van toepassing zijnde regelgeving door de minister te bevorderen.
+1. De gegevens, bedoeld in de [artikelen 5b.59](onbekend), [5b.60](onbekend) en [5b.66 van de Regeling houders van dieren](onbekend), die worden gemeld door middel van een elektronisch portaal, bedoeld in [artikel 1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-12-17&g=2022-12-17), worden verwerkt met als doel het ten behoeve van de bescherming van de diergezondheid of de volksgezondheid, het dierenwelzijn of het milieu, of de uitvoering van de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252), verkrijgen van inzicht in de verplaatsingen van dieren waarop de verplichting tot melding of registratie van toepassing is en een effectief systeem van toezicht op de naleving van en handhaving van de op deze dieren en de houders daarvan van toepassing zijnde regelgeving door de minister te bevorderen.
 
-2. [Artikel 1.11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11&z=2022-04-30&g=2022-04-30) zijn van overeenkomstige toepassing op een aanwijzing als bedoeld in [artikel 1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-04-30&g=2022-04-30).
+2. [Artikel 1.11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11&z=2022-12-17&g=2022-12-17) zijn van overeenkomstige toepassing op een aanwijzing als bedoeld in [artikel 1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2022-12-17&g=2022-12-17).
 
 #### § 2. Goedkeuring tarieven registers
 
@@ -3233,7 +3231,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - a. documenten waarmee de aanvrager aantoont dat voldaan kan worden aan [artikel 3.32, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.32);
 
-- b. documenten waarmee de aanvrager aantoont dat voldaan kan worden aan [artikel 1.13b](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=3&artikel=1.13b&z=2022-04-30&g=2022-04-30); en
+- b. documenten waarmee de aanvrager aantoont dat voldaan kan worden aan [artikel 1.13b](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=3&artikel=1.13b&z=2022-12-17&g=2022-12-17); en
 
 - c. een bewijs van inschrijving in het handelsregister.
 
@@ -3253,7 +3251,7 @@ De beheerder van een aangewezen elektronisch portaal verstrekt aan de houder van
 
 ### Hoofdstuk 3. : Overige bepalingen
 
-## Bijlage. als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a0&artikel=1.2&z=2022-04-30&g=2022-04-30) van de Regeling handhaving en overige zaken Wet dieren
+## Bijlage. als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a0&artikel=1.2&z=2022-12-17&g=2022-12-17) van de Regeling handhaving en overige zaken Wet dieren
 
 | [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) | Categorie |
 | --- | --- |
