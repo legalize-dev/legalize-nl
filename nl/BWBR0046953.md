@@ -4,7 +4,7 @@ identifier: "BWBR0046953"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-21"
-last_updated: "2022-07-23"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046953"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 1. Het College van burgemeester en Wethouders van de gemeente Rotterdam wordt aangewezen als beheerautoriteit, bedoeld in artikel 71, eerste lid, van [verordening 2021/1060](32960R2021) voor het Programma EFRO 2021-2027 West-Nederland.
 
-2. De directeur van de Auditdienst Rijk, wordt aangewezen als auditautoriteit, bedoeld in artikel 71, eerste lid, van [verordening 2021/1060](32960R2021) voor het Programma EFRO 2021-2027 Oost-Nederland.
+2. De directeur van de Auditdienst Rijk, wordt aangewezen als auditautoriteit, bedoeld in artikel 71, eerste lid, van [verordening 2021/1060](32960R2021) voor het Programma EFRO 2021–2027 West-Nederland.
 
 ##### Artikel 2a
 
