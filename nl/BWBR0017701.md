@@ -4,7 +4,7 @@ identifier: "BWBR0017701"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2022-02-08"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017701"
 soort: "ministeriele-regeling"
@@ -45,45 +45,27 @@ In deze regeling wordt verstaan onder:
 
 - a. wet: de [Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926);
 
-- b. CBS: Centraal bureau voor de statistiek;
-
-- c. [verordening 638/2004](32004R0638): [verordening (EG) nr. 638/2004](32004R0638) van het Europees Parlement en de Raad van 31 maart 2004 betreffende de communautaire statistieken van het goederenverkeer tussen de lidstaten en houdende intrekking van [verordening (EEG) nr. 3330/91](31991R3330) van de Raad.
+- b. CBS: Centraal bureau voor de statistiek.
 
 ##### Artikel 2
 
-De opgave, bedoeld in [artikel 38c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c), van de wet bevat de volgende gegevens:
-
-- a. de vermoedelijke wijze van vervoer;
-
-- b. het statistisch stelsel.
+Vervallen
 
 ##### Artikel 3
 
-1. Voor het doen van de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave wordt gebruik gemaakt van de volgende gegevensdragers:
-
-- a. computerbestanden waarvan de indeling naar het oordeel van de directeur-generaal van het CBS overeenkomt met een door het CBS opgestelde standaard indeling voor elektronische waarneming van het goederenverkeer tussen de lidstaten van de Europese Unie, waarvan het model is opgenomen in de bij deze regeling behorende bijlage, of
-
-- b. computerbestanden die zijn opgesteld met behulp van door het CBS opgestelde software.
+1. Voor het doen van de opgave, bedoeld in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) wordt gebruik gemaakt van de online applicatie IDEP+ die het CBS daarvoor beschikbaar heeft gesteld.
 
 2. In afwijking van het eerste lid kan, indien de informatieplichtige niet beschikt over apparatuur waarmee een opgave op de wijze als in dat lid bedoeld kan worden gedaan, voor de opgave gebruik worden gemaakt van de originele door het CBS beschikbaar gestelde formulieren, waarvan het model is opgenomen in de bij deze regeling behorende bijlage.
 
 ##### Artikel 4
 
-Bij het doen van de in [artikel 38c, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c) bedoelde opgave kan gebruik worden gemaakt van de volgende procedures:
-
-- a. verstrekking van een computerbestand als bedoeld in [artikel 3, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2021-01-01&g=2022-02-08), door middel van een door het CBS goedgekeurde procedure voor elektronische gegevensoverdracht;
-
-- b. toezending van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017701&artikel=3&z=2021-01-01&g=2022-02-08), bedoelde bescheiden.
+Vervallen
 
 ##### Artikel 5
 
-1. De hoogte van de in artikel 10, eerste lid, van verordening 638/2004 bedoelde statistische drempels wordt vastgesteld op:
+1. De vereenvoudigingsmethoden, bedoeld in [artikel 38c, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=38c), zijn de methoden, bedoeld in Bijlage V, afdeling 31, derde lid, vijfde lid, zevende lid, en negende lid, van [verordening 2020/1197](33097R2020).
 
-- a. € 800.000,- aan waarde van de per jaar vanuit de andere lidstaten van de Europese Unie ontvangen goederen;
-
-- b. € 1.000.000,- aan waarde van de per jaar naar de andere lidstaten van de Europese Unie verzonden goederen.
-
-2. De in het eerste lid genoemde hoogte van de statistische drempels geldt voor het jaar 2021.
+2. De in het eerste lid genoemde vereenvoudigingsmethoden gelden voor het jaar 2022.
 
 ##### Artikel 6
 
