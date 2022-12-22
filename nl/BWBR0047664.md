@@ -4,7 +4,7 @@ identifier: "BWBR0047664"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-22"
-last_updated: "2021-01-01"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047664"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **de Verordening:** [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU L 231/159);
 
-- e. **het comité:** het comité, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047664&artikel=2&z=2022-12-22&g=2021-01-01).
+- e. **het comité:** het comité, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047664&artikel=2&z=2022-12-22&g=2022-12-22).
 
 ##### Artikel 2. Instelling
 
