@@ -4,7 +4,7 @@ identifier: "BWBR0042692"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2021-01-01"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042692"
 soort: "AMvB"
@@ -72,9 +72,7 @@ Als functies als bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.o
 
 - f. buitengewoon ambtenaar van de burgerlijke stand, bedoeld in [artikel 16, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=16);
 
-- g. gemeentelijke lijkschouwer;
-
-- h. toezichthouder als bedoeld in [artikel 114 van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=114).
+- g. gemeentelijke lijkschouwer.
 
 ##### Artikel 3. Verwerking van persoonsgegevens over gezondheid
 
