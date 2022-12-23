@@ -4,7 +4,7 @@ identifier: "BWBV0005045"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-02-21"
-last_updated: "2022-10-04"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005045"
 soort: "verdrag"
@@ -76,9 +76,9 @@ b). De instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een
 
 - -. de toekenning van gelijk stemrecht aan alle leden van de Raad van Bestuur;
 
-- -. de garantie van de aandeelhouders inzake de uitvoering van door de Maatschappij gesloten financieringsovereenkomsten (bepalingen, vervat in de artikelen 2, 3, 4, 9, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2022-10-04&g=2022-10-04) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=27&z=2022-10-04&g=2022-10-04) van de hierbij gevoegde Statuten).
+- -. de garantie van de aandeelhouders inzake de uitvoering van door de Maatschappij gesloten financieringsovereenkomsten (bepalingen, vervat in de artikelen 2, 3, 4, 9, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2022-12-23&g=2022-12-23) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=27&z=2022-12-23&g=2022-12-23) van de hierbij gevoegde Statuten).
 
-c). Voor wijziging in de Statuten met betrekking tot de vermeerdering of vermindering van het maatschappelijk kapitaal, het stemrecht der aandeelhouders, de samenstelling van de Raad van Bestuur en de winstverdeling (bepalingen, vervat in de artikelen 5, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2022-10-04&g=2022-10-04) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2022-10-04&g=2022-10-04) van de hierbij gevoegde Statuten), is de instemming van de Regering van de Staat van vestiging vereist.
+c). Voor wijziging in de Statuten met betrekking tot de vermeerdering of vermindering van het maatschappelijk kapitaal, het stemrecht der aandeelhouders, de samenstelling van de Raad van Bestuur en de winstverdeling (bepalingen, vervat in de artikelen 5, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2022-12-23&g=2022-12-23) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2022-12-23&g=2022-12-23) van de hierbij gevoegde Statuten), is de instemming van de Regering van de Staat van vestiging vereist.
 
 d). De Regering van de Staat van vestiging geeft onverwijld kennis aan de andere Regeringen van alle Statutenwijzigingen, waartoe door de Maatschappij is besloten. In de gevallen, voorzien in de leden **b)** en **c)** van dit artikel, treden deze wijzigingen, indien geen bezwaar is gemaakt door enige Regering wier instemming op grond van de genoemde leden is vereist, drie maanden na de datum van deze kennisgeving in werking. De op grond van dit lid gemaakte bezwaren worden ter kennis gebracht van de Regering van de Staat van vestiging, die daarvan mededeling doet aan de andere Regeringen.
 
@@ -104,7 +104,7 @@ b). Deze garantie is evenwel niet vereist, indien een zodanige spoorweg zelf dez
 
 ##### Artikel 6
 
-a). Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de [leden d) en e) van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=2&z=2022-10-04&g=2022-10-04) vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.
+a). Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de [leden d) en e) van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=2&z=2022-12-23&g=2022-12-23) vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.
 
 b). De Maatschappij brengt ieder jaar aan de bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is, verslag uit over de ontwikkeling van de Maatschappij en haar financiële positie. Deze Regeringen plegen overleg omtrent alle problemen van gemeenschappelijk belang, die uit de werkzaamheden van de Maatschappij kunnen voortvloeien, alsmede over de maatregelen, die met het oog daarop noodzakelijk blijken.
 
@@ -126,7 +126,7 @@ De bij dit Verdrag partij zijnde Regeringen nemen, in het kader van hun deviezen
 
 ##### Artikel 10
 
-Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2022-10-04&g=2022-10-04), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298).
+Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2022-12-23&g=2022-12-23), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298).
 
 ##### Artikel 11
 
@@ -134,7 +134,7 @@ a). Iedere Regering van een Europees land, die dit Verdrag niet heeft onderteken
 
 b). De toetreding van een Regering, die geen lid is van de Europese Conferentie van Ministers van Verkeer, zal evenwel eerst van kracht worden nadat de instemming van alle bij dit Verdrag partij zijnde Regeringen aan de Regering van Zwitserland ter kennis is gebracht.
 
-c). De toetreding tot dit Verdrag heeft toetreding tot het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2022-10-04&g=2022-10-04), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) tot gevolg.
+c). De toetreding tot dit Verdrag heeft toetreding tot het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2022-12-23&g=2022-12-23), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) tot gevolg.
 
 ##### Artikel 12
 
@@ -144,7 +144,7 @@ Dit Verdrag is gesloten voor de duur van de Maatschappij.
 
 a). Een bij dit Verdrag partij zijnde Regering, waarvan geen spoorweg aandeelhouder is of waarvan iedere spoorweg heeft opgehouden aandeelhouder te zijn van de Maatschappij, kan haar deelneming aan dit Verdrag beëindigen door met inachtneming van een opzeggingstermijn van drie maanden een desbetreffende mededeling tot de Regering van Zwitserland te richten. Indien de opzegging echter geschiedt door de Regering van de Staat van vestiging, eindigt haar deelneming aan dit Verdrag eerst nadat de zetel van de Maatschappij is verplaatst naar een andere Staat.
 
-b). De uittreding van een Regering overeenkomstig dit artikel tast de door deze Regering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=5&z=2022-10-04&g=2022-10-04) op zich genomen verplichtingen niet aan, voor wat betreft de verbintenissen welke door haar spoorweg of spoorwegen werden aangegaan, toen deze aandeelhouder van de Maatschappij waren.
+b). De uittreding van een Regering overeenkomstig dit artikel tast de door deze Regering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=5&z=2022-12-23&g=2022-12-23) op zich genomen verplichtingen niet aan, voor wat betreft de verbintenissen welke door haar spoorweg of spoorwegen werden aangegaan, toen deze aandeelhouder van de Maatschappij waren.
 
 ##### Artikel 14
 
@@ -152,7 +152,7 @@ Ieder geschil tussen de bij dit Verdrag partij zijnde Regeringen met betrekking 
 
 ##### Artikel 15
 
-a). Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2022-10-04&g=2022-10-04), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.
+a). Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2022-12-23&g=2022-12-23), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.
 
 b). Voor iedere ondertekenende Regering, die het later bekrachtigt, treedt het Verdrag in werking onmiddellijk na de nederlegging van de akte van bekrachtiging.
 
@@ -162,7 +162,7 @@ c). De akten van bekrachtiging worden neder gelegd bij de Regering van Zwitserla
 
 a). Niettegenstaande de bepalingen van het vorige artikel komen de ondertekenende Regeringen overeen dit Verdrag voorlopig toe te passen voor zover met hun grondwettelijke bepalingen verenigbaar is. Op het ogenblik van de ondertekening zal iedere Regering bekend maken op welke voorwaarden en in hoeverre zij dit Verdrag voorlopig zal toepassen.
 
-b). Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2022-10-04&g=2022-10-04), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd.
+b). Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2022-12-23&g=2022-12-23), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd.
 
 ##### Artikel 17
 
@@ -184,7 +184,7 @@ De vennootschap heeft ten doel het aanschaffen of financieren van rollend materi
 
 De vennootschap kan tevens rechtstreeks voor de spoorwegadministraties die geen aandeelhouders zijn rollend materieel aanschaffen of financieren, op voorwaarde dat een of meer aandeelhouders hun hoofdgarantie geven met betrekking tot verbintenissen die zijn aangegaan door deze spoorwegadministraties ten aanzien van de vennootschap.
 
-De eventuele financiering door de vennootschap wordt verstrekt overeenkomstig het beleid dat de raad van bestuur op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2022-10-04&g=2022-10-04) heeft vastgesteld.
+De eventuele financiering door de vennootschap wordt verstrekt overeenkomstig het beleid dat de raad van bestuur op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2022-12-23&g=2022-12-23) heeft vastgesteld.
 
 De vennootschap werft de nodige middelen, onafhankelijk van haar eigen vermogen, in de vorm van leningen. Zij zal alle commerciële en financiële verrichtingen uitvoeren die nuttig zijn voor het bereiken van haar doel.
 
@@ -202,15 +202,15 @@ Het kapitaal van categorie A van de vennootschap bedraagt 2 miljard 600 miljoen 
 
 Met het oog op het toelaten van nieuwe aandeelhouders of, meer in het algemeen, om haar kapitaal te verhogen, kan de vennootschap kapitaal van categorie B creëren door de uitgifte van aandelen van categorie B, die volledig volgestort moeten zijn en elk een nominale waarde van 100.000 Zwitserse francs moeten hebben.
 
-De aandelen van categorie B scheppen geen garantieverplichtingen voor de houders van aandelen van categorie B op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=26&z=2022-10-04&g=2022-10-04).
+De aandelen van categorie B scheppen geen garantieverplichtingen voor de houders van aandelen van categorie B op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=26&z=2022-12-23&g=2022-12-23).
 
-Behoudens het voorrangsrecht van de aandelen van categorie A, verlenen de aandelen van categorie B een proportioneel recht op uitkering en liquidatieoverschot op dezelfde manier als de aandelen van categorie A. De aandelen van categorie A hebben een prioritair recht om uitkeringen en liquidatieoverschotten te ontvangen van de reserves van de vennootschap, met uitzondering van het gewone reservefonds waarnaar wordt verwezen in [artikel 29, eerste alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=29&z=2022-10-04&g=2022-10-04) (de „in aanmerking komende reserves”), tot een bedrag dat overeenkomt met de in aanmerking komende reserves per 31 december 2017 (het „prioritaire bedrag”). Het prioritaire bedrag ten gunste van de aandelen van categorie A zal worden verminderd met het bedrag van uitkeringen of betalingen in verband met een liquidatie of terugkoop van aandelen van categorie A uit de in aanmerking komende reserves en met het nettobedrag van de verliezen die worden gerealiseerd op financieringsovereenkomsten die vóór 1 januari 2018 zijn aangegaan en die niet op of na 1 januari 2018 worden geherfinancierd. Het prioritaire bedrag wordt verhoogd met de toegerekende theoretische rente berekend over het saldo van het prioritair bedrag, gekapitaliseerd op jaarbasis op 31 december van elk jaar. Deze rente komt overeen met het rekenkundig gemiddelde van het rendement op 10-jarige obligaties van de Zwitserse Bondsstaat (R10) zoals dat dagelijks door de Zwitserse nationale bank voor het afgelopen kalenderjaar wordt gepubliceerd, en als deze rente negatief is, zal deze gelijk zijn aan nul.
+Behoudens het voorrangsrecht van de aandelen van categorie A, verlenen de aandelen van categorie B een proportioneel recht op uitkering en liquidatieoverschot op dezelfde manier als de aandelen van categorie A. De aandelen van categorie A hebben een prioritair recht om uitkeringen en liquidatieoverschotten te ontvangen van de reserves van de vennootschap, met uitzondering van het gewone reservefonds waarnaar wordt verwezen in [artikel 29, eerste alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=29&z=2022-12-23&g=2022-12-23) (de „in aanmerking komende reserves”), tot een bedrag dat overeenkomt met de in aanmerking komende reserves per 31 december 2017 (het „prioritaire bedrag”). Het prioritaire bedrag ten gunste van de aandelen van categorie A zal worden verminderd met het bedrag van uitkeringen of betalingen in verband met een liquidatie of terugkoop van aandelen van categorie A uit de in aanmerking komende reserves en met het nettobedrag van de verliezen die worden gerealiseerd op financieringsovereenkomsten die vóór 1 januari 2018 zijn aangegaan en die niet op of na 1 januari 2018 worden geherfinancierd. Het prioritaire bedrag wordt verhoogd met de toegerekende theoretische rente berekend over het saldo van het prioritair bedrag, gekapitaliseerd op jaarbasis op 31 december van elk jaar. Deze rente komt overeen met het rekenkundig gemiddelde van het rendement op 10-jarige obligaties van de Zwitserse Bondsstaat (R10) zoals dat dagelijks door de Zwitserse nationale bank voor het afgelopen kalenderjaar wordt gepubliceerd, en als deze rente negatief is, zal deze gelijk zijn aan nul.
 
 De vennootschap kan te allen tijde aandelen van categorie A terugkopen en/of het kapitaal van categorie A verminderen bij besluit van de aandeelhouders van categorie A, zonder deze terugkoop of kapitaalvermindering uit te breiden tot de aandeelhouders van categorie B.
 
-Wanneer de aandeelhouders van categorie A geen verplichtingen meer hebben op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=26&z=2022-10-04&g=2022-10-04) en er geen prioritair bedrag ten gunste van de aandelen van categorie A meer uitstaat, kan de vennootschap, bij besluit van de algemene vergadering, de aandelen van categorie A omzetten in aandelen van categorie B. Indien alle aandelen van categorie A worden omgezet in categorie B, zullen de aandelen van categorie B de enige aandelencategorie vormen en zullen deze statuten worden gewijzigd om elk verschil tussen de aandelencategorieën op te heffen.
+Wanneer de aandeelhouders van categorie A geen verplichtingen meer hebben op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=26&z=2022-12-23&g=2022-12-23) en er geen prioritair bedrag ten gunste van de aandelen van categorie A meer uitstaat, kan de vennootschap, bij besluit van de algemene vergadering, de aandelen van categorie A omzetten in aandelen van categorie B. Indien alle aandelen van categorie A worden omgezet in categorie B, zullen de aandelen van categorie B de enige aandelencategorie vormen en zullen deze statuten worden gewijzigd om elk verschil tussen de aandelencategorieën op te heffen.
 
-Over elk volgend verzoek om bijstorting op nog niet volledig volgestorte aandelen wordt beslist door de raad van bestuur van de vennootschap in overeenstemming met [artikel 21, derde alinea, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2022-10-04&g=2022-10-04). De betaling van een dergelijk verzoek om bijstorting geschiedt rechtstreeks op de rekening van de vennootschap die daartoe door de raad van bestuur is aangewezen en de bedragen die op deze rekening worden gestort staan onmiddellijk ter beschikking van de vennootschap. De raad van bestuur wijzigt artikel 5 om aanvullende bijstortingen weer te geven die zijn geschied op de eerste van de volgende data: de datum waarop alle bijstortingen zijn uitgevoerd of de 31edecember die volgt op een dergelijk verzoek om bijstortingen. Deze wijziging wordt door de raad van bestuur vastgesteld en medegedeeld aan het handelsregister vergezeld van een bevestiging door de raad van bestuur dat de vennootschap de bijstortingen heeft ontvangen.
+Over elk volgend verzoek om bijstorting op nog niet volledig volgestorte aandelen wordt beslist door de raad van bestuur van de vennootschap in overeenstemming met [artikel 21, derde alinea, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2022-12-23&g=2022-12-23). De betaling van een dergelijk verzoek om bijstorting geschiedt rechtstreeks op de rekening van de vennootschap die daartoe door de raad van bestuur is aangewezen en de bedragen die op deze rekening worden gestort staan onmiddellijk ter beschikking van de vennootschap. De raad van bestuur wijzigt artikel 5 om aanvullende bijstortingen weer te geven die zijn geschied op de eerste van de volgende data: de datum waarop alle bijstortingen zijn uitgevoerd of de 31edecember die volgt op een dergelijk verzoek om bijstortingen. Deze wijziging wordt door de raad van bestuur vastgesteld en medegedeeld aan het handelsregister vergezeld van een bevestiging door de raad van bestuur dat de vennootschap de bijstortingen heeft ontvangen.
 
 Na de zevende uitbreiding van het kapitaal (1997), na overdracht van de aandelen (2007) en na de herverdeling van aandelen (2016) zijn de aandelen als volgt verdeeld:
 
@@ -305,7 +305,7 @@ De algemene vergadering van aandeelhouders is de hoogste macht in de vennootscha
 
 - 3. zij benoemt het controlerend orgaan;
 
-- 4. zij wijzigt de statuten met uitzondering van wijzigingen die tot de bevoegdheid van de raad van bestuur behoren, voorzien in [artikel 21, derde alinea, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2022-10-04&g=2022-10-04);
+- 4. zij wijzigt de statuten met uitzondering van wijzigingen die tot de bevoegdheid van de raad van bestuur behoren, voorzien in [artikel 21, derde alinea, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2022-12-23&g=2022-12-23);
 
 - 5. zij beslist over elke uitbreiding of vermindering van het maatschappelijk kapitaal van de vennootschap, elke terugkoop van aandelen en elke omzetting van aandelen;
 
@@ -315,7 +315,7 @@ De algemene vergadering van aandeelhouders is de hoogste macht in de vennootscha
 
 - 8. zij spreekt verlenging van de vennootschap uit;
 
-- 9. zij keurt het in [artikel 21, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2022-10-04&g=2022-10-04), bedoelde reglement goed;
+- 9. zij keurt het in [artikel 21, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2022-12-23&g=2022-12-23), bedoelde reglement goed;
 
 - 10. zij neemt kennis van het verslag van het controlerend orgaan, onderzoekt het bestuursverslag en keurt het jaarverslag, de jaarrekening en bestemming van de nettowinst goed en verleent decharge aan de leden van de raad van bestuur;
 
@@ -341,13 +341,27 @@ Een buitengewone algemene vergadering van aandeelhouders wordt bijeengeroepen en
 
 ##### Artikel 13
 
-Voor een algemene vergadering van aandeelhouders worden de aandeelhouders ten minste twee weken voor de datum van de vergadering schriftelijk met bevestiging van ontvangst opgeroepen.
+De bijeenroeping van de aandeelhouders voor de algemene vergadering geschiedt ten minste 14 dagen van tevoren langs elektronische weg of schriftelijk.
 
-De oproeping moet de agenda vermelden, en, indien deze een statutenwijziging behelst (onderdelen 4, 5 en 8 van artikel 10) tevens in hoofdzaak de strekking van de voorgestelde wijziging.
+De bijeenroeping voor de algemene vergadering moet de agenda vermelden, en, indien er een statutenwijziging wordt voorgesteld (onderdelen 4, 5 en 8 van artikel 10) tevens in hoofdzaak de strekking van de voorgestelde wijziging.
+
+De documenten kunnen ook langs elektronische weg beschikbaar worden gesteld. In dat geval moeten de toegangsgegevens samen met de bijeenroeping naar de aandeelhouders worden gezonden. Er kan worden afgezien van het aanwijzen van een onafhankelijke vertegenwoordiger in de bijeenroeping, ongeacht de vorm van de algemene vergadering.
 
 Geen enkel besluit kan worden genomen ten aanzien van onderwerpen die niet op de agenda voorkomen, behalve indien in de vergadering voorgesteld wordt een buitengewone algemene vergadering van aandeelhouders bijeen te roepen.
 
-De vergaderingen van aandeelhouders worden gehouden in de plaats van vestiging van de vennootschap, tenzij de raad van bestuur anders beslist.
+Een algemene vergadering kan de volgende vormen aannemen:
+
+- •. fysiek (d.w.z. alle deelnemende aandeelhouders zijn fysiek aanwezig);
+
+- •. hybride (d.w.z. een deel van de aandeelhouders is fysiek aanwezig en een ander deel neemt met behulp van elektronische middelen deel);
+
+- •. virtueel (deelname is uitsluitend met behulp van elektronische middelen); of
+
+- •. door middel van circulaires (een besluit wordt langs elektronische weg of schriftelijk genomen) op voorwaarde dat er niet om een bespreking wordt gevraagd door een aandeelhouder of diens vertegenwoordiger.
+
+Fysieke en hybride algemene vergaderingen kunnen worden gehouden in een of meer vergaderlocaties in Zwitserland of in het buitenland. Virtuele algemene vergaderingen en algemene vergaderingen door middel van circulaires kunnen worden gehouden zonder dat er een vergaderlocatie wordt aangewezen.
+
+De raad van bestuur beslist over de vorm en locatie van de vergadering en het gebruik van elektronische middelen.
 
 ##### Artikel 14
 
@@ -369,11 +383,15 @@ De algemene vergadering van aandeelhouders benoemt door handopsteking twee stemo
 
 ##### Artikel 17
 
-Van de beraadslagingen en de beslissingen van de algemene vergadering van aandeelhouders worden notulen gehouden.
+Van de beraadslagingen en de besluiten van de algemene vergadering van aandeelhouders worden notulen gehouden.
+
+De raad van bestuur is verantwoordelijk voor het bijhouden van de notulen.
 
 De notulen moeten worden ondertekend door de voorzitter van de vergadering, de stemopnemers en de secretaris.
 
 Afschriften of uittreksels worden ondertekend door de voorzitter of een van de vicevoorzitters of door de secretaris van de raad van bestuur.
+
+Ondertekening met elektronische middelen is toegestaan.
 
 #### DE RAAD VAN BESTUUR
 
@@ -423,15 +441,27 @@ De raad van bestuur stelt ook het kredietbeleid vast, dat onder meer de criteria
 
 ##### Artikel 22
 
-De raad van bestuur komt bijeen zo dikwijls als nodig is, doch ten minste eenmaal in de drie maanden. De bijeenroeping geschiedt door de voorzitter of een van de vicevoorzitters. De oproepingen geschieden schriftelijk, tezamen met de agenda, ten minste acht dagen van tevoren.
+De raad van bestuur komt bijeen zo dikwijls als nodig is, doch ten minste eenmaal in de drie maanden. De bijeenroeping geschiedt door de voorzitter of een van de vicevoorzitters. De bijeenroeping, tezamen met de agenda, wordt langs elektronische weg of schriftelijk verzonden, ten minste acht dagen voor de vergadering.
 
-De voorzitter is gehouden de raad bijeen te roepen wanneer een lid zulks schriftelijk verzoekt onder opgave van de aangelegenheid die hij op de agenda geplaatst wenst te zien. In een dergelijk geval moet de vergadering plaatsvinden uiterlijk binnen twee weken na ontvangst van het schriftelijk verzoek.
+De voorzitter of een van de vicevoorzitters is gehouden een vergadering van de raad van bestuur bijeen te roepen wanneer een lid van de raad van bestuur daartoe langs elektronische weg of schriftelijk een verzoek indient, waarbij deze aangeeft welke kwestie er op de agenda zou moeten worden gezet. In een dergelijk geval moet de vergadering plaatsvinden binnen twee weken na ontvangst van het schriftelijk verzoek.
 
-De oproeping vermeldt de plaats van de vergadering.
+Een vergadering van de raad van bestuur kan in de volgende vormen plaatsvinden:
 
-Wanneer een lid verhinderd is de vergadering bij te wonen, kan hij zijn stem schriftelijk uitbrengen of zich doen vertegenwoordigen door een ander lid, aan wie hij uitdrukkelijk zijn stemrecht overdraagt. Elk lid van de raad kan slechts één ander lid vertegenwoordigen.
+- •. fysiek (d.w.z. alle deelnemende leden van de raad van bestuur zijn fysiek aanwezig);
 
-In dringende gevallen kunnen besluiten per brief genomen worden, tenzij een van de leden een besluit in vergadering verlangt.
+- •. hybride (d.w.z. een deel van de deelnemers is fysiek aanwezig en een ander deel neemt met behulp van elektronische middelen deel);
+
+- •. virtueel (deelname is uitsluitend met behulp van elektronische middelen); of
+
+- •. door middel van circulaires (een besluit wordt langs elektronische weg of schriftelijk genomen).
+
+Fysieke en hybride vergaderingen van de raad van bestuur kunnen gehouden worden in een of meer vergaderlocaties in Zwitserland of in het buitenland.
+
+In de bijeenroeping voor een vergadering van de raad van bestuur staat de locatie van de vergadering vermeld. De virtuele vergaderingen of vergaderingen door middel van circulaires van de raad van bestuur kunnen worden georganiseerd zonder vergaderlocatie.
+
+Wanneer een lid verhinderd is de vergadering bij te wonen, kan hij zijn stem schriftelijk uitbrengen of zich doen vertegenwoordigen door een ander lid van de raad, aan wie hij uitdrukkelijk zijn stemrecht overdraagt. Een lid van de raad kan slechts één ander lid vertegenwoordigen.
+
+De voorzitter van de raad van bestuur beslist over de vorm van de vergadering, de locatie van de vergadering en het gebruik van elektronische middelen, op voorwaarde dat een lid van de raad van bestuur geen fysieke vergadering verlangt.
 
 ##### Artikel 23
 
@@ -447,6 +477,8 @@ De notulen worden ondertekend door de voorzitter van de vergadering en de secret
 
 Afschriften of uittreksels worden ondertekend door de voorzitter of een van de vicevoorzitters of door de secretaris van de raad van bestuur.
 
+Ondertekening met elektronische middelen is toegestaan.
+
 ##### Artikel 25
 
 De leden van de raad van bestuur ontvangen geen bezoldiging; niettemin kan hun presentiegeld worden toegekend.
@@ -457,7 +489,7 @@ Met inachtneming van de volgende beperkingen zullen de houders van gewaarborgde 
 
 Indien de uitvoering van de financieringsovereenkomst gedekt wordt door andere garanties, met name die welke voortvloeien uit artikel 3 of uit het in artikel 1 bedoelde internationale verdrag, treedt de garantie door de aandeelhouders alleen subsidiair in werking.
 
-Er zal slechts een beroep op de garantie door de aandeelhouders worden gedaan voor zover enige spoorweg de door haar aangegane verplichtingen niet is nagekomen en deze het bedrag van de bijzondere garantiereserve, bedoeld in [artikel 29, derde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=29&z=2022-10-04&g=2022-10-04), overschrijden.
+Er zal slechts een beroep op de garantie door de aandeelhouders worden gedaan voor zover enige spoorweg de door haar aangegane verplichtingen niet is nagekomen en deze het bedrag van de bijzondere garantiereserve, bedoeld in [artikel 29, derde alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=29&z=2022-12-23&g=2022-12-23), overschrijden.
 
 De bedragen die de aandeelhouders als garantie hebben betaald, zullen verhoudingsgewijs worden terugbetaald naar gelang de vennootschap later betaling verkrijgt uit hoofde van haar vordering met betrekking tot de desbetreffende financieringsovereenkomst of van het materieel bedoeld in die financieringsovereenkomst.
 
