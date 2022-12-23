@@ -4,7 +4,7 @@ identifier: "BWBR0039990"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-23"
-last_updated: "2021-07-01"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039990"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Aanwijzing commandant
 
-1. Voor de uitvoering van het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482), het [Burgerlijk ambtenarenreglement Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), het [Besluit dienstreizen Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956), het [Inkomstenbesluit militairen](onbekend), het [Inkomstenbesluit burgerlijke ambtenaren Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191), het [Verplaatsingskostenbesluit Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312) en de ter uitvoering hiervan vastgestelde ministeriële regelingen en beleidsregels wordt onder commandant verstaan de commandant in de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2021-07-01&g=2021-07-01) bij deze regeling, ieder voor de militairen en ambtenaren van zijn bevoegdhedenressort.
+1. Voor de uitvoering van het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482), het [Burgerlijk ambtenarenreglement Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040), het [Besluit dienstreizen Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0007956), het [Inkomstenbesluit militairen](onbekend), het [Inkomstenbesluit burgerlijke ambtenaren Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191), het [Verplaatsingskostenbesluit Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0032312) en de ter uitvoering hiervan vastgestelde ministeriële regelingen en beleidsregels wordt onder commandant verstaan de commandant in de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2022-12-23&g=2022-12-23) bij deze regeling, ieder voor de militairen en ambtenaren van zijn bevoegdhedenressort.
 
 2. In aanvulling op het eerste lid geldt het volgende:
 
@@ -102,15 +102,15 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Mandatering van uitvoerende personele bevoegdheden
 
-1. Ik verleen de mandaten als weergegeven in de [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2021-07-01&g=2021-07-01).
+1. Ik verleen de mandaten als weergegeven in de [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2022-12-23&g=2022-12-23).
 
-2. De [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2021-07-01&g=2021-07-01) bevatten tevens een overzicht van verleende ondermandaten en de voorwaarden die daarbij van toepassing zijn.
+2. De [bijlagen 1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2022-12-23&g=2022-12-23) bevatten tevens een overzicht van verleende ondermandaten en de voorwaarden die daarbij van toepassing zijn.
 
-3. Onverlet de in het vorige lid genoemde [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2021-07-01&g=2021-07-01) is de Secretaris-Generaal bevoegd om namens mij uitvoerende personele bevoegdheden uit te oefenen.
+3. Onverlet de in het vorige lid genoemde [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2022-12-23&g=2022-12-23) is de Secretaris-Generaal bevoegd om namens mij uitvoerende personele bevoegdheden uit te oefenen.
 
 ##### Artikel 3a. Wijzigen bijlagen
 
-De Hoofddirecteur Personeel van het Directoraat-Generaal Beleid is bevoegd de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2021-07-01&g=2021-07-01) en [1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2021-07-01&g=2021-07-01) van deze regeling te wijzigen.
+De Hoofddirecteur Personeel van het Directoraat-Generaal Beleid is bevoegd de [bijlagen A tot en met G](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=A&z=2022-12-23&g=2022-12-23) en [1 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=1&z=2022-12-23&g=2022-12-23) van deze regeling te wijzigen.
 
 ##### Artikel 4. Aanwijsbevoegdheid Secretaris-Generaal en Commandant der Strijdkrachten
 
@@ -118,7 +118,7 @@ De Secretaris-Generaal en de Commandant der Strijdkrachten zijn bevoegd om aanwi
 
 ##### Artikel 5. Ondermandaat
 
-Ondermandaat van de bevoegdheden is enkel toegestaan voor zover dit volgt uit de bijlagen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2021-07-01&g=2021-07-01).
+Ondermandaat van de bevoegdheden is enkel toegestaan voor zover dit volgt uit de bijlagen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2022-12-23&g=2022-12-23).
 
 ##### Artikel 6. Bijzondere gevallen
 
@@ -180,7 +180,7 @@ Naam van de gemandateerde
 
 ##### Artikel 10. Intrekking mandaatbesluiten
 
-Met dit mandaatbesluit zijn de mandaatbesluiten genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=H&z=2021-07-01&g=2021-07-01) vervallen, evenals de Regeling aanwijzing commandanten defensie en [Mandaatbesluit Personele Bevoegdheden Defensie 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038363).
+Met dit mandaatbesluit zijn de mandaatbesluiten genoemd in [bijlage H](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&bijlage=H&z=2022-12-23&g=2022-12-23) vervallen, evenals de Regeling aanwijzing commandanten defensie en [Mandaatbesluit Personele Bevoegdheden Defensie 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038363).
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -190,7 +190,7 @@ Dit besluit treedt in werking met ingang van 1 september 2017.
 
 Dit besluit wordt aangehaald als: Besluit toedeling uitvoerende personele bevoegdheden Defensie 2021.
 
-## Bijlage A. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage A. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2022-12-23&g=2022-12-23) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
@@ -223,7 +223,8 @@ Dit besluit wordt aangehaald als: Besluit toedeling uitvoerende personele bevoeg
 | Commandant Korps Marinebrandweer | Voor defensiepersoneel geplaatst bij het korps Marinebrandweer |
 |   |   |
 | **Directie Personeel & Bedrijfsvoering** |   |
-| Directeur Personeel & Bedrijfsvoering CZSK | Voor defensiepersoneel geplaatst bij de directie Personeel & Bedrijfsvoering |
+| Directeur Personeel & Organisatie | Voor defensiepersoneel geplaatst bij de directie Personeel & Organisatie |
+| Directeur Integrale Bedrijfsvoering & Besturing | Voor defensiepersoneel geplaatst bij de directie Integrale Bedrijfsvoering & Besturing |
 | Chef Kabinet | Voor defensiepersoneel geplaatst bij het kabinet |
 | Hoofd van de afdeling Financiën & Control | Voor defensiepersoneel geplaatst bij de afdeling Financiën & Control |
 | Hoofd van de afdeling Opleidingen Koninklijke Marine | Voor defensiepersoneel geplaatst bij de afdeling Opleidingen Koninklijke Marine |
@@ -245,7 +246,7 @@ Dit besluit wordt aangehaald als: Besluit toedeling uitvoerende personele bevoeg
 | **Kustwachtcentrum Nederland** |   |
 | Directeur Kustwacht Nederland | Voor defensiepersoneel geplaatst bij de Kustwacht Nederland |
 
-## Bijlage B. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage B. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2022-12-23&g=2022-12-23) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
@@ -299,7 +300,7 @@ Dit besluit wordt aangehaald als: Besluit toedeling uitvoerende personele bevoeg
 | Commandant Defensie Grondgebonden Luchtverdedigings Commando | Voor defensiepersoneel geplaatst bij het Defensie Grondgebonden Luchtverdedigings Commando |
 | Commandant Materieellogistiek Commando Land | Voor defensiepersoneel geplaatst bij het Materieellogistiek Commando Land |
 
-## Bijlage C. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage C. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2022-12-23&g=2022-12-23) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
@@ -307,14 +308,14 @@ Dit besluit wordt aangehaald als: Besluit toedeling uitvoerende personele bevoeg
 | Chef Kabinet | Voor defensiepersoneel geplaatst bij de staf van het Commando Luchtstrijdkrachten behoudens opperofficieren alsmede Militair Luchtvaart Museum (tot oprichting Nationaal Militair Museum) en Kapel Koninklijke Luchtmacht |
 | Commandant Vliegbasis Leeuwarden | Voor defensiepersoneel geplaatst bij de Vliegbasis Leeuwarden |
 | Commandant Vliegbasis Volkel | Voor defensiepersoneel geplaatst bij de Vliegbasis Volkel |
-| Commandant Vliegbasis Eindhoven | Voor defensiepersoneel geplaatst bij de Vliegbasis Eindhoven |
+| Commandant Air Mobility Command | Voor defensiepersoneel geplaatst bij het Air Mobility Command (Vliegbasis Eindhoven) |
 | Commandant Defensie Helikopter Commando | Voor defensiepersoneel geplaatst bij het Defensie Helikopter Commando en de Groep Luchtmacht Reserve |
 | Commandant Air Operations Control Station Nieuw Milligen | Voor defensiepersoneel geplaatst bij het Air Operations Control Station Nieuw Milligen en de Nationale Datalink Management Cel |
 | Commandant Koninklijke Militaire School Luchtmacht Vliegbasis Woensdrecht | Voor defensiepersoneel geplaatst bij de Koninklijke Militaire School Luchtmacht Vliegbasis Woensdrecht en de Joint Meteorologische Groep |
 | Commandant Logistiek Centrum Woensdrecht | Voor defensiepersoneel geplaatst bij het Logistiek Centrum Woensdrecht |
 | Commandant Luchtmachtreserve | Voor al het reservepersoneel van de Luchtmacht |
 
-## Bijlage D. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage D. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2022-12-23&g=2022-12-23) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
@@ -322,56 +323,47 @@ Dit besluit wordt aangehaald als: Besluit toedeling uitvoerende personele bevoeg
 | Commandant Landelijk Tactisch Commando | Voor defensiepersoneel geplaatst bij het Landelijk Tactisch Commando en voor defensiepersoneel geplaatst bij de Passagiersinformatie-eenheid (Pi-NL) |
 | Commandant Opleidings- en Trainingscentrum KMar | Voor defensiepersoneel geplaatst bij Opleidings- en Trainingscentrum KMar |
 
-## Bijlage E. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage E. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2022-12-23&g=2022-12-23) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
-| Directeur Defensie Materieel Organisatie | Voor defensiepersoneel geplaatst bij de Defensie Materieel organisatie |
-| Chef Kabinet | Voor defensiepersoneel geplaatst bij het kabinet |
+| Directeur Defensie Materieel Organisatie | Voor defensiepersoneel geplaatst bij de Defensie Materieel Organisatie |
+| Chef Kabinet | Voor defensiepersoneel geplaatst bij het Kabinet |
 | Directeur Financiën & Control | Voor defensiepersoneel geplaatst bij de directie Financiën & Control |
-| Hoofd afdeling Personeel & Organisatie | Voor defensiepersoneel geplaatst bij de afdeling Personeel & Organisatie |
-| Hoofd Bestuur en Bedrijfsvoering | Voor defensiepersoneel geplaatst bij Bestuur en Bedrijfsvoering |
-| Directeur Materieellogistiek | Voor defensiepersoneel geplaatst bij de directie Materieellogistiek |
+| Directeur Personeel & Organisatie | Voor defensiepersoneel geplaatst bij de afdeling Personeel & Organisatie |
+| Directeur Bestuur en Bedrijfsvoering | Voor defensiepersoneel geplaatst bij Bestuur en Bedrijfsvoering |
 | Commandant Defensie Munitiebedrijf | Voor defensiepersoneel geplaatst bij het Defensie Munitiebedrijf |
 | Commandant Kleding en Persoonsgebonden Uitrustingsbedrijf | Voor defensiepersoneel geplaatst bij het Kleding en Persoonsgebonden Uitrustingsbedrijf |
-| Commandant Defensie Brand- en Bedrijfsstoffen Bedrijf | Voor defensiepersoneel geplaatst bij het Defensie Brand- en Bedrijfsstoffen Bedrijf |
+| Commandant Afdeling Brand- en Bedrijfsstoffen Bedrijf | Voor defensiepersoneel geplaatst bij het Defensie Brand- en Bedrijfsstoffen Bedrijf |
 | Directeur Defensie Pijpleiding Organisatie | Voor defensiepersoneel geplaatst bij de Defensie Pijpleiding Organisatie |
-| Hoofd afdeling Brand- en Bedrijfsstoffen Bedrijf | Voor defensiepersoneel geplaatst bij de afdeling Brand- en Bedrijfsstoffen Bedrijf |
 | Directeur Projecten | Voor defensiepersoneel geplaatst bij de directie Projecten |
 | Directeur Inkoop | Voor defensiepersoneel geplaatst bij de directie Inkoop |
-| Directeur Wapensystemen | Voor defensiepersoneel geplaatst bij de directie Wapensystemen |
-| Commandant Command and Control Centre of Excellence | Voor defensiepersoneel geplaatst bij het Command and Control Centre of Excellence |
-| Hoofd afdeling Maritieme Systemen | Voor defensiepersoneel geplaatst bij de afdeling Maritieme Systemen |
-| Hoofd afdeling Grondgebonden Wapensystemen | Voor defensiepersoneel geplaatst bij de afdeling Grondgebonden Wapensystemen |
-| Hoofd afdeling Luchtvaartsystemen | Voor defensiepersoneel geplaatst bij de afdeling Luchtvaartsystemen |
+| Hoofd Afdeling Maritieme Systemen | Voor defensiepersoneel geplaatst bij de Afdeling Maritieme Systemen |
+| Hoofd Afdeling Grondgebonden Wapensystemen | Voor defensiepersoneel geplaatst bij de Afdeling Grondgebonden Wapensystemen |
+| Hoofd Afdeling Luchtvaartsystemen | Voor defensiepersoneel geplaatst bij de Afdeling Luchtvaartsystemen |
 | Directeur Joint Informatievoorziening Commando | Voor defensiepersoneel geplaatst bij het Joint Informatievoorziening Commando |
-| Hoofd Staf Joint Informatievoorziening Commando | Voor defensiepersoneel geplaatst bij de staf van het Joint Informatievoorziening Commando |
-| Hoofd afdeling Command, Control, Communication, Computers Information & Informatiebeheer | Voor defensiepersoneel geplaatst bij de afdeling Command, Control, Communication, Computers Information & Informatiebeheer |
-| Hoofd afdeling Kennis, Innovatie, eXperimenten en Simulatie | Voor defensiepersoneel geplaatst bij de afdeling Kennis, Innovatie, eXperimenten en Simulatie |
-| Directeur Operations | Voor defensiepersoneel geplaatst bij de directie Operations |
+| Hoofd Staf Joint Informatievoorziening Commando | Voor defensiepersoneel geplaatst bij de Staf van het Joint Informatievoorziening Commando |
+| Hoofd Afdeling Kennis, Innovatie, eXperimenten en Simulatie | Voor defensiepersoneel geplaatst bij de Afdeling Kennis, Innovatie, eXperimenten en Simulatie |
 
-## Bijlage F. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage F. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2022-12-23&g=2022-12-23) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
+|   |   |
 | Commandant Defensie Ondersteuningscommando | Voor Commandant Divisie Facilitair, Logistiek & Beveiliging, Commandant Divisie Personeel & Organisatie Defensie, Commandant Divisie Defensie Gezondheidszorg Organisatie, Commandant Nederlandse Defensie Academie, Plaatsvervangend Commandant DOSCO/Chef-Staf, Directeur Financiën & Control DOSCO |
-| Plaatsvervangend Commmandant DOSCO/Chef-Staf | Directeur Centrale Organisatie Integriteit Defensie, Directeur Personeel & Organisatie, Commandant Militaire Muziek Krijgsmacht en de Inspecteur Militaire Gezondheidszorg, Hoofd Bedrijfsvoering Ondersteuning, Hoofd Kernstaf, Hoofd Inkoop- en Contractmanagement, Hoofd Vraag en Aanbodmanagement, Hoofd Defensie Vastgoedmanagement |
+| Plaatsvervangend Commandant DOSCO/Chef-Staf | Directeur Personeel & organisatie, Hoofd Bedrijfsvoering Ondersteuning, Hoofd Kernstaf, Hoofd Inkoop- en contractmanagement, Hoofd Vraag en Aanbodmanagement, Directeur Defensie Vastgoedmanagement |
 |   |   |
 | **Staf DOSCO** |   |
 | Directeur Financiën & Control | Voor defensiepersoneel geplaatst bij de directie Financiën & Control |
 | Directeur Personeel & Organisatie | Voor defensiepersoneel geplaatst bij de directie Personeel & Organisatie |
-| Directeur Centrale Organisatie Integriteit Defensie | Voor defensiepersoneel geplaatst bij de Centrale Organisatie Integriteit Defensie |
-| Commandant Militaire Muziek Krijgsmacht | Voor defensiepersoneel geplaatst bij het Impresariaat Militaire Muziek Krijgsmacht |
 | Hoofd BedrijfsvoeringOndersteuning | Voor defensiepersoneel geplaatst bij BedrijfsvoeringOndersteuning |
-| Hoofd Kernstaf | Voor defensiepersoneel geplaatst bij Communicatie, Kabinet en Bestuursondersteuning |
+| Hoofd Kernstaf | Voor defensiepersoneel geplaatst bij Communicatie, Kabinet, Staf Militaire Muziek en Bestuursondersteuning |
 | Hoofd Inkoop & Contractmanagement | Voor defensiepersoneel geplaatst bij Inkoop- en Contractmanagement |
 | Hoofd Vraag- en Aanbodmanagement | Voor defensiepersoneel geplaatst bij Vraag- en Aanbodmanagement |
-| Hoofd Defensie Vastgoedmanagement | Voor Hoofd Servicedienst Vastgoed Defensie, Hoofd Assetmanagement en defensiepersoneel geplaatst bij Defensie Vastgoed Management |
-| Hoofd Servicedienst Vastgoed Defensie | Voor defensiepersoneel geplaatst bij de Servicedienst Vastgoed Defensie |
-| Hoofd Assetmanagement | Voor defensiepersoneel geplaatst bij Assetmangement en defensiepersoneel gedetacheerd bij het RijksVastgoedBedrijf |
+| Directeur Defensie Vastgoedmanagement | Voor defensiepersoneel geplaatst bij Defensie Vastgoed Management en defensiepersoneel gedetacheerd bij het RijksVastgoedBedrijf |
 |   |   |
 | **Divisie Facilitair, Logistiek & Beveiliging** |   |
-| Commandant Divisie Facilitair, Logistiek & Beveiliging | Voor Chef Staf/Plaatsvervangend Commandant, Directeur Paresto, Commandant Facilitair Bedrijf Defensie, Commandant Defensie Verkeers- en Vervoersorganisatie, Commandant Mediacentrum Defensie, Commandant Financieel Administratie en Beheer Kantoor, Hoofd Bureau Internationale Militaire Sport, Commandant KTOMM Bronbeek, Commandant Defensie Bewakings- en BeveiligingsOrganisatie en defensiepersoneel geplaatst bij het Kabinet |
+| Commandant Divisie Facilitair, Logistiek & Beveiliging | Voor Chef Staf/Plaatsvervangend Commandant, Directeur Paresto, Commandant Facilitair Bedrijf Defensie, Commandant Defensie Verkeers-en Vervoersorganisatie, Commandant Mediacentrum Defensie, Commandant Financieel Administratie en Beheer Kantoor, Hoofd Bureau Internationale Militaire Sport, Commandant KTOMM Bronbeek, Commandant Defensie-en Beveiligingsorganisatie en defensiepersoneel geplaatst bij het Kabinet Divisie Facilitair, Logistiek & Beveiliging. |
 | Chef Staf/Plaatsvervangend Commandant DFL&B | Voor defensiepersoneel geplaatst bij de Staf Divisie Facilitair, Logistiek & Beveiliging |
 | Directeur Paresto | Voor defensiepersoneel geplaatst bij Staf, Operationele Ondersteuningsgroep en Hoofd Operaties/Plaatsvervangend Directeur |
 | Hoofd Operaties/Plaatsvervangend Directeur Paresto | Voor Districtsmanager Noord-West, Districtsmanager Zuid-West, Districtmanager Zuid-Oost, Districtmanager Midden, Districtmanager Oost, Districtmanager Noord-Oost |
@@ -396,68 +388,67 @@ Dit besluit wordt aangehaald als: Besluit toedeling uitvoerende personele bevoeg
 | Commandant Financieel Administratie en Beheer Kantoor | Voor defensiepersoneel geplaatst bij het Financieel Administratie en Beheer Kantoor |
 | Hoofd Bureau Internationale Militaire Sport | Voor defensiepersoneel geplaatst bij het bureau Internationale Militaire Sport |
 | Commandant KTOMM Bronbeek | Voor defensiepersoneel geplaatst bij KTOMM Bronbeek |
-| Commandant Defensie Bewakings- en BeveiligingsOrganisatie | Voor Hoofd OPSCEN, Regio Commandant Noord, Regio Commandant Zuid, Regio Commandant West en defensiepersoneel geplaatst bij het Kabinet |
-| Chef Staf Defensie Bewakings- en BeveiligingsOrganisatie | Voor Hoofd Programmamanagement, Hoofd operaties, Hoofd Afdeling Advies Inrichting Fysieke Beveiliging, Hoofd Afdeling Defensie Bewakings- en BeveiligingsSystemen, Projectleider Defensie Bewakings- en BeveiligingsSystemen |
-| Hoofd OPSCEN | Voor defensiepersoneel geplaatst bij het OPSCEN |
-| Hoofd Programmamanagement | Voor defensiepersoneel geplaatst bij Programmamanagement |
-| Hoofd Operaties | Voor defensiepersoneel geplaatst bij Operaties |
-| Hoofd Advies Inrichting Fysieke Beveiliging | Voor defensiepersoneel geplaatst bij Advies Inrichting Fysieke Beveiliging |
-| Hoofd Afdeling Defensie Bewakings- en BeveiligingsSystemen | Voor defensiepersoneel geplaatst bij afdeling Defensie Bewakings- en BeveiligingsSystemen |
-| Projectleider Defensie Bewakings- en BeveiligingsSystemen | Voor defensiepersoneel geplaatst bij Project Defensie Bewakings- en BeveiligingsSystemen |
+| Commandant Defensie Bewakings- en BeveiligingsOrganisatie | Voor Chef Staf DBBO, Hoofd OPSCEN, Regio Commandant Noord, Regio Commandant Zuid, Regio Commandant West en defensiepersoneel geplaatst bij het Kabinet |
+| Chef Staf Defensie Bewakings- en BeveiligingsOrganisatie | Voor defensiepersoneel geplaatst bij Programmamanagement, Operaties, Advies Inrichting Fysiek Beveiliging, afdeling Defensie Bewakings-en BeveiligingsSystemen en het Project Defensie Bewakings-en BeveiligingsSystemen. |
+| Hoofd OPSCEN | Voor defensiepersoneel geplaatst bij het OPSCEN DBBO |
 | Regio Commandant Beveiligingsregio Noord | Voor defensiepersoneel geplaatst bij de Beveiligingsregio Noord |
 | Regio Commandant Beveiligingsregio Zuid | Voor defensiepersoneel geplaatst bij de Beveiligingsregio Zuid |
 | Regio Commandant Beveiligingsregio West | Voor defensiepersoneel geplaatst bij de Beveiligingsregio West |
 |   |   |
 | **Divisie Personeel & Organisatie Defensie** |   |
-| Commandant Divisie Personeel & Organisatie Defensie | Voor Chef Staf, Directeur Dienstencentrum Human Resources en Rechtspositie, Directeur Dienstencentrum Re-integratie, Directeur Dienstencentrum Personeellogistiek, Directeur Juridische dienstverlening, Directeur Diensten Geestelijke Verzorging, Hoofd Management en Development Groep, Hoofd Coördinatiecel, defensiepersoneel geplaatst bij het Kabinet Divisie Personeel & Organisatie Defensie |
+| Commandant Divisie Personeel & Organisatie Defensie | Voor Chef Staf Divisie Personeel & Organisatie Defensie, Hoofd Afdeling Coördinatie & Beleidsimplementatie, Directeur Dienstencentrum Personeelslogistiek, Directeur Dienstencentrum Personeelszorg, Directeur Dienstencentrum Organisatie en Formatie, Directeur Dienstencentrum Human Resources en Rechtspositie, Directeur Dienstencentrum Re-integratie, Directeur Juridische dienstverlening, Commandant Dienstencentrum Internationale Ondersteuning Defensie, Directeur, Diensten Geestelijke Verzorging, Hoofd Management en Developmentgroep, defensiepersoneel geplaatst bij het Kabinet Divisie Personeel & Organisatie Defensie |
 | Chef Staf Divisie Personeel & Organisatie Defensie | Voor defensiepersoneel geplaatst bij de Staf Divisie Personeel & Organisatie Defensie |
-| Hoofd Coördinatiecel | Voor defensiepersoneel geplaatst bij de Coördinatiecel |
+| Hoofd Afdeling Coördinatie & Beleidsimplementatie | Voor defensiepersoneel geplaatst bij de Afdeling Coördinatie & Beleidsimplementatie |
 | Directeur Dienstencentrum Personeellogistiek | Voor defensiepersoneel geplaatst bij het Dienstencentrum Personeellogistiek |
 | Directeur Dienstencentrum Personeelszorg | Voor defensiepersoneel geplaatst bij het Dienstencentrum Personeelszorg |
 | Directeur Dienstencentrum Organisatie en Formatie | Voor defensiepersoneel geplaatst bij het Dienstencentrum Organisatie en Formatie |
 | Directeur Dienstencentrum Human Resources en Rechtspositie | Voor defensiepersoneel geplaatst bij het Dienstencentrum Human Resources en Rechtspositie |
 | Directeur Dienstencentrum Re-integratie | Voor defensiepersoneel geplaatst bij het Dienstencentrum Re-integratie |
 | Directeur Dienstencentrum Juridische Dienstverlening | Voor defensiepersoneel geplaatst bij het Dienstencentrum Juridische Dienstverlening |
-| Directeur Diensten Geestelijke Verzorging | Voor defensiepersoneel geplaatst bij de Diensten Geestelijke Verzorging |
+| Directeur Diensten Geestelijke Verzorging (per 1-5-2022 naar Kerndepartement) | Voor defensiepersoneel geplaatst bij de Diensten Geestelijke Verzorging |
 | Hoofd Management en Developmentgroep | Voor defensiepersoneel geplaatst bij de Management en Development Groep |
 |   |   |
 | **Nederlandse Defensie Academie** |   |
-| Commandant Nederlandse Defensie Academie | Voor Chef Staf Nederlandse Defensie Academie, Commandant Koninklijk Instituut voor de Marine, Commandant Koninklijke Militaire Academie, Decaan Faculteit Militaire Wetenschappen, Directeur Instituut Defensie Leergangen, Directeur Nederlands Instituut voor Militaire Historie, Commandant Expertisecentrum Leiderschap Defensie, Commandant Talencentrum Defensie en defensiepersoneel geplaatst bij het kabinet |
+| Commandant Nederlandse Defensie Academie | Voor Chef Staf Nederlandse Defensie Academie, Commandant Koninklijk Instituut voor de Marine, Commandant Koninklijke Militaire Academie, Decaan Faculteit Militaire Wetenschappen, Directeur Instituut Defensie Leergangen, Directeur Nederlands Instituut voor Militaire Historie, Commandant Expertisecentrum Leiderschap Defensie, Commandant Talencentrum Defensie en defensiepersoneel geplaatst bij het kabinet Nederlandse Defensie Academie |
 | Chef Staf Nederlandse Defensie Academie | Voor defensiepersoneel geplaatst bij de Staf van de Nederlandse Defensie Academie |
 | Commandant Koninklijk Instituut voor de Marine | Voor defensiepersoneel geplaatst bij het Koninklijk Instituut voor de Marine |
-| Commandant Koninklijke Militaire Academie | Voor defensiepersoneel geplaatst bij de Koninklijke Militaire Academie |
-| Decaan Faculteit Militaire Wetenschappen | Voor defensiepersoneel geplaatst bij de Faculteit Militaire Wetenschappen |
-| Directeur Instituut Defensie Leergangen | Voor defensiepersoneel geplaatst bij het Instituut Defensie Leergangen |
-| Directeur Nederlands Instituut voor Militaire Historie | Voor defensiepersoneel geplaatst bij het Nederlands Instituut voor Militaire Historie |
-| Commandant Expertisecentrum Leiderschap Defensie | Voor defensiepersoneel geplaatst bij het Expertisecentrum Leiderschap Defensie |
-| Commandant Talencentrum Defensie | Voor defensiepersoneel geplaatst bij het Talencentrum Defensie |
+| Commandant Koninklijke Militaire Academie | [Voor defensiepersoneel geplaatst bij de Koninklijke Militaire Academie](onbekend) |
+| Decaan Faculteit Militaire Wetenschappen | [Voor defensiepersoneel geplaatst bij de Faculteit Militaire Wetenschappen](onbekend) |
+| Directeur Instituut Defensie Leergangen | [Voor defensiepersoneel geplaatst bij het Instituut Defensie Leergangen](onbekend) |
+| Directeur Nederlands Instituut voor Militaire Historie | [Voor defensiepersoneel geplaatst bij het Nederlands Instituut voor Militaire Historie](onbekend) |
+| Commandant Expertisecentrum Leiderschap Defensie | [Voor defensiepersoneel geplaatst bij het Expertisecentrum Leiderschap Defensie](onbekend) |
+| Commandant Talencentrum Defensie | [Voor defensiepersoneel geplaatst bij het Talencentrum Defensie](onbekend) |
 |   |   |
-| **Divisie Defensie Gezondheidszorg Organisatie** |   |
-| Commandant Divisie Defensie Gezondheidszorg Organisatie | Voor Plaatsvervangend Commandant Divisie Defensie Gezondheidszorg Organisatie, Directeur Militaire Geestelijke Gezondheidszorg, Commandant Centraal Militair Hospitaal, Commandant Bijzondere Medische Beoordelingen, Commandant Defensie Gezondheidszorg Opleidings- en Trainingscentrum, Commandant Militair Revalidatie Centrum, Commandant Militair Geneeskundig Logistiek Centrum, Commandant Instituut samenwerking Defensie en Relatieziekenhuizen, Directeur Coördinatiecentrum Expertise Arbeidsomstandigheden en Gezondheid, Commandant Defensie Tandheelkundige Dienst, Commandant Eerstelijns Gezondheidszorg Bedrijf |
+| Divisie Defensie Gezondheidszorg Organisatie |   |
+| Commandant Divisie Defensie Gezondheidszorg Organisatie | Voor Plaatsvervangend Commandant Divisie Defensie Gezondheidszorg Organisatie, Directeur Militaire Geestelijke Gezondheidszorg, Commandant Centraal Militair Hospitaal, Commandant Bijzondere Medische Beoordelingen, Commandant Defensie Gezondheidszorg Opleidings- en Trainingscentrum, Commandant Militair Revalidatie Centrum, Commandant Militair Geneeskundig Logistiek Centrum, Commandant Instituut samenwerking Defensie en Relatieziekenhuizen, Directeur Coördinatiecentrum Expertise Arbeidsomstandigheden en Gezondheid, Commandant Defensie Tandheelkundige Dienst, Commandant Eerstelijns Gezondheidszorg Bedrijf en defensiepersoneel geplaatst bij het kabinet Defensie Gezondheidszorg Organisatie |
 | Plaatsvervangend Commandant Divisie Defensie Gezondheidszorg Organisatie | Voor defensiepersoneel geplaatst bij de Staf Divisie Defensie Gezondheidszorg Organisatie |
-| Commandant Militaire Geestelijke GezondheidsZorg | Voor defensiepersoneel geplaatst bij de Militaire Geestelijke Gezondheidszorg |
-| Commandant Centraal Militair Hospitaal | Voor defensiepersoneel geplaatst bij het Centraal Militair Hospitaal |
+| Commandant Militaire Geestelijke GezondheidsZorg | [Voor defensiepersoneel geplaatst bij de Militaire Geestelijke Gezondheidszorg](onbekend) |
+| Commandant Centraal Militair Hospitaal | [Voor defensiepersoneel geplaatst bij het Centraal Militair Hospitaal](onbekend) |
 | Commandant Defensie Gezondheidszorg Opleidings- en Trainingscentrum | Voor defensiepersoneel geplaatst bij het Defensie Gezondheidszorg Opleidings- en Trainingscentrum |
-| Commandant Militair Revalidatie Centrum | Voor defensiepersoneel geplaatst bij het Militair Revalidatie Centrum |
-| Commandant Militair Geneeskundig Logistiek Centrum | Voor defensiepersoneel geplaatst bij het Militair Geneeskundig Logistiek Centrum |
-| Commandant Instituut samenwerking Defensie en Relatieziekenhuizen | Voor defensiepersoneel geplaatst bij het Instituut samenwerking Defensie en Relatieziekenhuizen |
-| Directeur Coördinatiecentrum Expertise Arbeidsomstandigheden en Gezondheid | Voor defensiepersoneel geplaatst bij het Coördinatiecentrum Expertise Arbeidsomstandigheden en Gezondheid |
-| Commandant Bijzondere Medische Beoordelingen | Voor defensiepersoneel geplaatst bij Bijzondere Medische Beoordelingen |
-| Commandant Defensie Tandheelkundige Dienst | Voor defensiepersoneel geplaatst bij de Defensie Tandheelkundige Dienst |
-| Commandant Eerstelijns Gezondheidszorg Bedrijf | Voor defensiepersoneel geplaatst bij het Eerstelijns Gezondheidszorg Bedrijf |
+| [Commandant Militair Revalidatie Centrum](onbekend) | [Voor defensiepersoneel geplaatst bij het Militair Revalidatie Centrum](onbekend) |
+| [Commandant Militair Geneeskundig Logistiek Centrum](onbekend) | [Voor defensiepersoneel geplaatst bij het Militair Geneeskundig Logistiek Centrum](onbekend) |
+| [Commandant Instituut samenwerking Defensie en Relatieziekenhuizen](onbekend) | [Voor defensiepersoneel geplaatst bij het Instituut samenwerking Defensie en Relatieziekenhuizen](onbekend) |
+| [Directeur Coördinatiecentrum Expertise Arbeidsomstandigheden en Gezondheid](onbekend) | [Voor defensiepersoneel geplaatst bij het Coördinatiecentrum Expertise Arbeidsomstandigheden en Gezondheid](onbekend) |
+| [Commandant Bijzondere Medische Beoordelingen](onbekend) | [Voor defensiepersoneel geplaatst bij Bijzondere Medische Beoordelingen](onbekend) |
+| [Commandant Defensie Tandheelkundige Dienst](onbekend) | [Voor defensiepersoneel geplaatst bij de Defensie Tandheelkundige Dienst](onbekend) |
+| [Commandant Eerstelijns Gezondheidszorg Bedrijf](onbekend) | [Voor defensiepersoneel geplaatst bij het Eerstelijns Gezondheidszorg Bedrijf](onbekend) |
 
-## Bijlage G. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage G. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2&z=2022-12-23&g=2022-12-23) van dit besluit
 
 | Commandant | Bevoegdhedenressort |
 | --- | --- |
-| Secretaris-generaal | Defensiepersoneel geplaatst bij het Kerndepartement |
-| Plaatsvervangend Secretaris-generaal | Defensiepersoneel geplaatst bij het Kerndepartement |
+| Secretaris-generaal | Defensiepersoneel geplaatst bij het Kerndepartement en de BOE-en |
+| Plaatsvervangend Secretaris-generaal | Defensiepersoneel geplaatst bij het Kerndepartement en de BOE-en |
 | Directeur Militaire Inlichtingen- en Veiligheidsdienst | Defensiepersoneel geplaatst bij de Militaire Inlichtingen- en Veiligheidsdienst |
 | Directeur Militaire Luchtvaartautoriteit | Defensiepersoneel geplaatst bij de Militaire Luchtvaart autoriteit |
 | Inspecteur-generaal der Krijgsmacht | Defensiepersoneel geplaatst bij de inspecteur-generaal der Krijgsmacht |
 | Chef van het militaire huis van Z.M. de Koning | Defensiepersoneel geplaatst bij het militaire huis van Z.M. de Koning |
+| Inspecteur Veiligheid Defensie | Defensiepersoneel geplaatst bij de Inspectie Veiligheid Defensie |
+| Inspecteur Militaire Gezondheidszorg | Defensiepersoneel geplaatst bij de Inspectie Militaire Gezondheidszorg |
+| Directeur Centrale Organisatie Integriteit Defensie | Defensiepersoneel geplaatst bij de Centrale Organisatie Integriteit Defensie |
+| Directeur Diensten Geestelijke Verzorging | Defensiepersoneel geplaatst bij de Diensten Geestelijke Verzorging |
 
-## Bijlage H. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=10&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage H. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=10&z=2022-12-23&g=2022-12-23) van dit besluit
 
 Ingetrokken mandaatbesluiten
 
@@ -645,31 +636,31 @@ Ingetrokken mandaatbesluiten
 
 - •. Subondermandaatbesluit DP&O uitvoerende bevoegdheden BARD
 
-## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage 1. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2022-12-23&g=2022-12-23) van dit besluit
 
 Niet opgenomen.
 
-## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage 2. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2022-12-23&g=2022-12-23) van dit besluit
 
 Niet opgenomen.
 
-## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage 3. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2022-12-23&g=2022-12-23) van dit besluit
 
 Niet opgenomen.
 
-## Bijlage 4. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage 4. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2022-12-23&g=2022-12-23) van dit besluit
 
 Niet opgenomen.
 
-## Bijlage 5. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage 5. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2022-12-23&g=2022-12-23) van dit besluit
 
 Niet opgenomen.
 
-## Bijlage 6. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage 6. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2022-12-23&g=2022-12-23) van dit besluit
 
 Niet opgenomen.
 
-## Bijlage 7. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2021-07-01&g=2021-07-01) van dit besluit
+## Bijlage 7. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=3&z=2022-12-23&g=2022-12-23) van dit besluit
 
 Niet opgenomen.
 
