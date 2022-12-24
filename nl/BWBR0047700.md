@@ -85,11 +85,3 @@ Bij de voorbereiding en de vaststelling van een beschikking inzake het verlenen,
 Deze beleidsregel wordt aangehaald als: Tijdelijke beleidsregel inzake de toepassing van de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) op elektrische laadpunten op verzorgingsplaatsen.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a. (grondslag en overgangsrecht)
-
-1. Deze beleidsregel berust met ingang van 1 januari 2024 op [artikel 5.11, eerste lid, aanhef en onder f, onderdeel 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.11), gelezen in samenhang met de [artikelen 5.1, tweede lid, aanhef en onder f, aanhef en onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), [5.5, eerste lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.5), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.12), [5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.18), [5.28](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.28), [5.34](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.34) en [5.36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.36), [artikel 8.16 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=8.16), [artikel 8.2 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.2) en de [artikelen 4:2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2), en [4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81).
-
-2. Op een aanvraag inzake een beschikking inzake het verlenen, weigeren, wijzigen of intrekken van een krachtens de [Wet beheer rijkswaterstaatswerken](https://wetten.overheid.nl/jci1.3:c:BWBR0008331) vergunning die is ingediend voor 1 januari 2024 en waarop nog niet onherroepelijk is beslist blijft de Tijdelijke beleidsregel inzake de toepassing van de Wet beheer rijkswaterstaatswerken op elektrische laadpunten op verzorgingsplaatsen, zoals die luidde tot 1 januari 2024, van toepassing.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
