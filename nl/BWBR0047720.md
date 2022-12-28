@@ -4,7 +4,7 @@ identifier: "BWBR0047720"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047720"
 soort: "wet"
@@ -199,11 +199,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit kan worden bepaald dat de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=XV&z=2022-12-28&g=2022-12-28), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=XIX&z=2022-12-28&g=2022-12-28) en [XXII, onderdeel A, onderdeel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=XXII&z=2022-12-28&g=2022-12-28), terugwerken tot en met 1 januari 2022.
+
+2. [Artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=V&z=2022-12-28&g=2022-12-28), van deze wet treedt in werking met ingang van 1 januari 2023. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2022, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt het terug tot en met 1 januari 2023.
 
 ##### Artikel XXVII. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet SZW 2023.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
