@@ -4,7 +4,7 @@ identifier: "BWBR0022751"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2022-12-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022751"
 soort: "wet"
@@ -62,7 +62,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. In afwijking van [artikel 7, derde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7), bestaat geen aanspraak op kindgebonden budget indien de rendementsgrondslag, bedoeld in [artikel 5.3 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.3), van de ouder aan het begin van het berekeningsjaar meer bedraagt dan € 120.020 of, indien de ouder het gehele berekeningsjaar dezelfde partner heeft, de gezamenlijke rendementsgrondslag, bedoeld in artikel 5.3 van de Wet inkomstenbelasting 2001, van de ouder en zijn partner aan het begin van het berekeningsjaar meer bedraagt dan € 151.767. Bij de bepaling van de rendementsgrondslag, bedoeld in de vorige zin, wordt geen rekening gehouden met de vrijstelling, bedoeld in [artikel 5.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.13).
 
-5. In afwijking van [artikel 9, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=9), bestaat er wel aanspraak op kindgebonden budget voor een kind dat rechtmatig in Nederland verblijf houdt in de zin van [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+5. In afwijking van [artikel 9, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=9), bestaat er wel aanspraak op kindgebonden budget voor een kind dat geen vreemdeling is of dat rechtmatig verblijf houdt in de zin van [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 ##### Artikel 2. Aanspraak en hoogte kindgebonden budget
 
@@ -112,13 +112,15 @@ bedraagt het kindgebonden budget een bij ministeriële regeling vastgesteld perc
 
 bedraagt het kindgebonden budget een volgens bij ministeriële regeling te stellen regels vastgesteld bedrag. Dat bedrag is gebaseerd op de in het tweede en vierde tot en met zesde lid, opgenomen bedragen en de verhouding tussen het kostenniveau van het land dat als woonland in aanmerking wordt genomen voor het desbetreffende kind of voor de desbetreffende kinderen en dat van Nederland uitgedrukt in procenten. Het percentage bedraagt maximaal 100.
 
+14. Het twaalfde en dertiende lid zijn niet van toepassing indien het een kind betreft dat op de eerste dag van een kalenderkwartaal niet in Nederland woont doch langer dan drie maanden onafgebroken in Nederland verblijft.
+
 ##### Artikel 3. Wijziging bedragen
 
-1. De bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2022-01-01&g=2022-01-01), en [2, tweede, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2022-01-01&g=2022-01-01), worden met ingang van 1 januari van elk kalenderjaar gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2). De gewijzigde bedragen worden door of namens Onze Minister medegedeeld in de Staatscourant.
+1. De bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2022-12-28&g=2022-12-28), en [2, tweede, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2022-12-28&g=2022-12-28), worden met ingang van 1 januari van elk kalenderjaar gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2). De gewijzigde bedragen worden door of namens Onze Minister medegedeeld in de Staatscourant.
 
 2. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
-3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2022-01-01&g=2022-01-01), en [2, tweede, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2022-01-01&g=2022-01-01).
+3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2022-12-28&g=2022-12-28), en [2, tweede, vierde tot en met zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2022-12-28&g=2022-12-28).
 
 4. Indien een verhoging als bedoeld in het tweede lid wordt toegepast, vindt deze verhoging plaats nadat het eerste lid toepassing heeft gevonden.
 
