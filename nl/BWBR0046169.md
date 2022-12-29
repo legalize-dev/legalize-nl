@@ -4,7 +4,7 @@ identifier: "BWBR0046169"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-12-29"
-last_updated: "2022-01-12"
+last_updated: "2022-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046169"
 soort: "zbo"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 1. De beoordelingsnormen voor het examen Nederlands als tweede taal worden weergegeven in een voorschrift voor de beoordeling bij ieder examenonderdeel. Dit voorschrift bestaat uit algemene aanwijzingen, op grond van deze regeling en een beoordelingsmodel bij ieder examenonderdeel.
 
-2. Het voorschrift voor de beoordeling, bedoeld in het eerste lid, wordt ingericht met inachtneming van de [bijlagen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=1&z=2022-01-12&g=2022-01-12).
+2. Het voorschrift voor de beoordeling, bedoeld in het eerste lid, wordt ingericht met inachtneming van de [bijlagen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=1&z=2022-12-29&g=2022-12-29).
 
 3. Het College voor toetsen en examens stelt na de afname van een examen in de onderdelen Schrijven en Spreken het voorschrift voor de beoordeling aan de beoordelaar ter beschikking.
 
@@ -60,17 +60,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Algemene aanwijzingen
 
-1. De algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel Schrijven zijn voor de Programma’s I en II opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=1&z=2022-01-12&g=2022-01-12).
+1. De algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel Schrijven zijn voor de Programma’s I en II opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=1&z=2022-12-29&g=2022-12-29).
 
-2. De algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel Spreken zijn voor de Programma’s I en II opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=2&z=2022-01-12&g=2022-01-12).
+2. De algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel Spreken zijn voor de Programma’s I en II opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=2&z=2022-12-29&g=2022-12-29).
 
-3. De algemene aanwijzingen betreffende de beoordeling van het onderdeel Lezen voor de Programma’s I en II zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=3&z=2022-01-12&g=2022-01-12).
+3. De algemene aanwijzingen betreffende de beoordeling van het onderdeel Lezen voor de Programma’s I en II zijn opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=3&z=2022-12-29&g=2022-12-29).
 
-4. De algemene aanwijzingen betreffende de beoordeling van het onderdeel Luisteren voor de Programma’s I en II zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=4&z=2022-01-12&g=2022-01-12).
+4. De algemene aanwijzingen betreffende de beoordeling van het onderdeel Luisteren voor de Programma’s I en II zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=4&z=2022-12-29&g=2022-12-29).
 
 ##### Artikel 4. Beoordelingsmodel
 
-Het beoordelingsmodel bij ieder examenonderdeel wordt door het College voor toetsen en examens vastgesteld zoals vermeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=5&z=2022-01-12&g=2022-01-12).
+Het beoordelingsmodel bij ieder examenonderdeel wordt door het College voor toetsen en examens vastgesteld zoals vermeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=5&z=2022-12-29&g=2022-12-29).
 
 ##### Artikel 5. Afwijking
 
@@ -82,7 +82,7 @@ Het College voor toetsen en examens of de voorzitter kan op voorstel van de Comm
 
 ##### Artikel 7. Aanpassing
 
-De voorzitter van het College voor toetsen en examens is bevoegd de vaststellingen als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=5&z=2022-01-12&g=2022-01-12) op onderdelen aan te passen.
+De voorzitter van het College voor toetsen en examens is bevoegd de vaststellingen als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=5&z=2022-12-29&g=2022-12-29) op onderdelen aan te passen.
 
 ##### Artikel 8. Intrekking
 
@@ -94,13 +94,13 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 10. Bekendmaking
 
-De beoordelingsmodellen per examenonderdeel bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=4&z=2022-01-12&g=2022-01-12) worden bekendgemaakt op de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=5&z=2022-01-12&g=2022-01-12) onder 1 opgenomen wijze.
+De beoordelingsmodellen per examenonderdeel bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=4&z=2022-12-29&g=2022-12-29) worden bekendgemaakt op de in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&bijlage=5&z=2022-12-29&g=2022-12-29) onder 1 opgenomen wijze.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als de Regeling beoordelingsnormen Staatsexamen Nt2.
 
-## Bijlage 1. Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel Schrijven van het Staatsexamen Nt2, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=3&z=2022-01-12&g=2022-01-12)
+## Bijlage 1. Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel Schrijven van het Staatsexamen Nt2, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=3&z=2022-12-29&g=2022-12-29)
 
 ### Inhoud examens schrijven programma i en ii
 
@@ -146,11 +146,11 @@ Voor de rapportage aan de kandidaat wordt de puntenscore omgezet in een vaardigh
 
 Het aantal aspecten waarop kandidaten worden beoordeeld, is niet voor elk examen hetzelfde. Bovendien zijn de opgaven niet allemaal even moeilijk. Daarom is bij elk examen een ander aantal punten nodig om een vaardigheidsscore van 500 te halen om te slagen.
 
-## Bijlage 2. Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel Spreken van het Staatsexamen Nt2, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=3&z=2022-01-12&g=2022-01-12)
+## Bijlage 2. Algemene aanwijzingen voor de beoordelaar betreffende de beoordeling van het onderdeel Spreken van het Staatsexamen Nt2, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=3&z=2022-12-29&g=2022-12-29)
 
 ### Inhoud Examens Spreken Programma I en II
 
-De examenonderdelen Spreken I en II bestaan uit verschillende spreekopdrachten. De opgaven bevatten meestal een beschrijving van een situatie en een spreektaak, soms wordt om een mening gevraagd. Regelmatig is ook een tekening of zijn meerdere tekeningen van de situatie toegevoegd. De gegeven situaties en taken passen qua inhoud (werk, opleiding en dagelijks leven) en qua moeilijkheidsgraad bij het beoogde doel van Programma I of Programma II. Zie ook het examenprogramma. De examenduur is maximaal 25 minuten, tenzij anders aangegeven bij het examen.
+De examenonderdelen Spreken I en II bestaan uit verschillende spreekopdrachten. De opgaven bevatten meestal een beschrijving van een situatie en een spreektaak, soms wordt om een mening gevraagd. Regelmatig is ook een tekening of zijn meerdere tekeningen van de situatie toegevoegd. De gegeven situaties en taken passen qua inhoud (werk, opleiding en dagelijks leven) en qua moeilijkheidsgraad bij het beoogde doel van Programma I of Programma II. Zie ook het examenprogramma. De examenduur is maximaal 30 minuten, tenzij anders aangegeven bij het examen.
 
 De examens worden afgenomen met een computer. De opdrachten worden via het beeldscherm weergegeven. Ze worden via de computer met een koptelefoon beluisterd en de antwoorden worden via een microfoon ingesproken en digitaal bewaard.
 
@@ -190,7 +190,7 @@ Voor de rapportage aan de kandidaat wordt de puntenscore omgezet in een vaardigh
 
 Het aantal en type aspecten waarop kandidaten beoordeeld worden, kan variëren per examen. Bovendien zijn de opgaven niet allemaal even moeilijk. Daarom is bij elk examen een ander aantal punten nodig om een vaardigheidsscore van 500 te halen.
 
-## Bijlage 3. Algemene aanwijzingen betreffende de beoordeling van het onderdeel Lezen, van het Staatsexamen Nt2, als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=3&z=2022-01-12&g=2022-01-12)
+## Bijlage 3. Algemene aanwijzingen betreffende de beoordeling van het onderdeel Lezen, van het Staatsexamen Nt2, als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=3&z=2022-12-29&g=2022-12-29)
 
 ### Inhoud examen Lezen Programma I en II
 
@@ -206,7 +206,7 @@ Voor de rapportage aan de kandidaat wordt de puntenscore omgezet in een vaardigh
 
 De examens zijn niet altijd even lang. Bovendien zijn de opgaven niet allemaal even moeilijk. Daarom is bij elk examen een ander aantal punten nodig om een vaardigheidsscore van 500 te halen.
 
-## Bijlage 4. Algemene aanwijzingen betreffende de beoordeling van het onderdeel Luisteren van het Staatsexamen Nt2, als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=3&z=2022-01-12&g=2022-01-12)
+## Bijlage 4. Algemene aanwijzingen betreffende de beoordeling van het onderdeel Luisteren van het Staatsexamen Nt2, als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=3&z=2022-12-29&g=2022-12-29)
 
 ### Inhoud examen Luisteren Programma I en II
 
@@ -222,7 +222,7 @@ Voor de rapportage aan de kandidaat wordt de puntenscore omgezet in een vaardigh
 
 De examens zijn niet altijd even lang. Bovendien zijn de opgaven niet allemaal even moeilijk. Daarom is bij elk examen een ander aantal punten nodig om een vaardigheidsscore van 500 te halen.
 
-## Bijlage 5. Bekendmaking van (vastgestelde) beoordelingsmodellen per examenonderdeel en de daarbij behorende scores, als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=4&z=2022-01-12&g=2022-01-12) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=10&z=2022-01-12&g=2022-01-12)
+## Bijlage 5. Bekendmaking van (vastgestelde) beoordelingsmodellen per examenonderdeel en de daarbij behorende scores, als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=4&z=2022-12-29&g=2022-12-29) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0046169&artikel=10&z=2022-12-29&g=2022-12-29)
 
 - 1. **Voor wat betreft de beoordelingsmodellen per examenonderdeel en de daarbij behorende scores geldt:** De beoordelingsmodellen en de daarbij behorende scores worden niet eerder bekendgemaakt dan nadat het College voor toetsen en examens heeft vastgesteld dat de betreffende opgaven niet meer onderdeel van een examenonderdeel zullen uitmaken. De opgaven kunnen daarna onderdeel uitmaken van oefenopgaven die openbaar gemaakt worden.
 
