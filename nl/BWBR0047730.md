@@ -4,7 +4,7 @@ identifier: "BWBR0047730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-30"
-last_updated: "2021-01-01"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047730"
 soort: "ministeriele-regeling"
@@ -74,11 +74,11 @@ Aan de intermediaire instanties wordt voor de uitvoering van de [Subsidieregelin
 
 ##### Artikel 4. Bezwaar en (hoger) beroep
 
-Aan de intermediaire instanties wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047730&artikel=2&z=2022-12-30&g=2021-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen en behandelen van (hoger) beroep.
+Aan de intermediaire instanties wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047730&artikel=2&z=2022-12-30&g=2022-12-30), waaronder het nemen van beslissingen op bezwaarschriften en het instellen en behandelen van (hoger) beroep.
 
 ##### Artikel 5. Doorverlenen bevoegdheden
 
-De intermediaire instanties zijn bevoegd tot het doorverlenen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047730&artikel=2&z=2022-12-30&g=2021-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047730&artikel=3&z=2022-12-30&g=2021-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047730&artikel=4&z=2022-12-30&g=2021-01-01) vermelde bevoegdheden aan de onder de intermediaire instanties ressorterende ambtenaren.
+De intermediaire instanties zijn bevoegd tot het doorverlenen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047730&artikel=2&z=2022-12-30&g=2022-12-30), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047730&artikel=3&z=2022-12-30&g=2022-12-30) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047730&artikel=4&z=2022-12-30&g=2022-12-30) vermelde bevoegdheden aan de onder de intermediaire instanties ressorterende ambtenaren.
 
 ##### Artikel 6. Mandaat en ondermandaat beslissen op bezwaar
 
