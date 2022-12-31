@@ -4,7 +4,7 @@ identifier: "BWBR0037392"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037392"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Het verbod bedoeld in [artikel 3, zesde lid, van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=3) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037392&paragraaf=2&artikel=2&z=2021-07-01&g=2021-07-01) van deze regeling is van overeenkomstige toepassing op een distributeur.
+Het verbod bedoeld in [artikel 3, zesde lid, van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=3) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037392&paragraaf=2&artikel=2&z=2022-12-31&g=2022-12-31) van deze regeling is van overeenkomstige toepassing op een distributeur.
 
 ##### Artikel 4
 
@@ -100,11 +100,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6
 
-De minimale hoogte van het statiegeld, bedoeld in [artikel 12, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=12), wordt vastgesteld op € 0,15 voor kunststof flessen met een inhoud tot 1 liter en op € 0,25 voor kunststof flessen met een inhoud van 1 liter tot en met 3 liter.
+1. De minimale hoogte van het statiegeld, bedoeld in [artikel 12, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=12), wordt vastgesteld op € 0,15 voor kunststof flessen met een inhoud tot 1 liter en op € 0,25 voor kunststof flessen met een inhoud van 1 liter tot en met 3 liter.
+
+2. De minimale hoogte van het statiegeld, bedoeld in [artikel 13, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=13), wordt vastgesteld op € 0,15 voor metalen drankverpakkingen met een inhoud van 3 liter of minder.
 
 ##### Artikel 7
 
-De vorm en inhoud van de aanduiding omtrent het statiegeld, bedoeld in [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15), bestaat uit het woord ‘Statiegeldfles’ in een lettergrootte van minimaal 1,2 millimeter.
+1. Op de kunststof fles, bedoeld in [artikel 12, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=12), bestaat de vorm en inhoud van de aanduiding omtrent het statiegeld, bedoeld in [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15), uit het woord ‘Statiegeldfles’ in een lettergrootte van minimaal 1,2 millimeter.
+
+2. Op de metalen drankverpakking, bedoeld in [artikel 13, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=13), bestaat de vorm en inhoud van de aanduiding omtrent het statiegeld, bedoeld in [artikel 15, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=15), uit het woord ‘Statiegeld’ in een lettergrootte van minimaal 1,2 millimeter.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
