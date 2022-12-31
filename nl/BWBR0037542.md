@@ -4,7 +4,7 @@ identifier: "BWBR0037542"
 country: "nl"
 rank: "zbo"
 publication_date: "2022-12-31"
-last_updated: "2016-01-18"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037542"
 soort: "zbo"
@@ -62,15 +62,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2:1. (Modellen van staten)
 
-1. De modellen van de staten, bedoeld in [artikel 131, eerste lid, onderdeel a, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131), worden vastgesteld voor een verzekeraar met beperkte risico-omvang met zetel in Nederland of een bijkantoor van een dergelijke verzekeraar als bedoeld in [artikel 130, vierde lid, aanhef, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=1&z=2016-01-18&g=2016-01-18) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=2&z=2016-01-18&g=2016-01-18) bij deze regeling.
+1. De modellen van de staten, bedoeld in [artikel 131, eerste lid, onderdeel a, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131), worden vastgesteld voor een verzekeraar met beperkte risico-omvang met zetel in Nederland of een bijkantoor van een dergelijke verzekeraar als bedoeld in [artikel 130, vierde lid, aanhef, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), zoals opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=1&z=2022-12-31&g=2022-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=2&z=2022-12-31&g=2022-12-31) bij deze regeling.
 
 2. De regels met betrekking tot de staten, bedoeld in [artikel 131, eerste lid, onderdelen b tot en met f en h van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=131) zijn opgenomen in de modellen van de staten, bedoeld in het eerste lid, en de bijbehorende toelichting op de staten.
 
 ##### Artikel 2:2. (Indieningstermijnen)
 
-1. Een verzekeraar of een bijkantoor van een dergelijke verzekeraar als bedoeld in [artikel 130, vierde lid, aanhef, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), verstrekt de staten, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=1&z=2016-01-18&g=2016-01-18) bij deze regeling jaarlijks binnen 20 weken na afloop van ieder boekjaar met betrekking tot dat boekjaar aan DNB.
+1. Een verzekeraar of een bijkantoor van een dergelijke verzekeraar als bedoeld in [artikel 130, vierde lid, aanhef, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), verstrekt de staten, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=1&z=2022-12-31&g=2022-12-31) bij deze regeling jaarlijks binnen 20 weken na afloop van ieder boekjaar met betrekking tot dat boekjaar aan DNB. In afwijking van het bepaalde in de vorige volzin verstrekt een verzekeraar in de jaren 2023 en 2024 voor de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=1&z=2022-12-31&g=2022-12-31) opgenomen staat ‘Business Model Analysis ‘ deze staten binnen 24 weken na afloop van ieder boekjaar met betrekking tot dat boekjaar aan DNB.
 
-2. Een verzekeraar of een bijkantoor van een dergelijke verzekeraar als bedoeld in [artikel 130, vierde lid, aanhef, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), verstrekt de staten, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=2&z=2016-01-18&g=2016-01-18) bij deze regeling per kwartaal binnen 6 weken na afloop van dat kwartaal aan DNB.
+2. Een verzekeraar of een bijkantoor van een dergelijke verzekeraar als bedoeld in [artikel 130, vierde lid, aanhef, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=130), verstrekt de staten, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=2&z=2022-12-31&g=2022-12-31) bij deze regeling per kwartaal binnen 6 weken na afloop van dat kwartaal aan DNB.
 
 3. In afwijking op het tweede lid verstrekt een verzekeraar of een bijkantoor de staten bedoeld in het tweede lid aan DNB over een kwartaal in boekjaar 2016 binnen 8 weken na afloop van dat kwartaal, over een kwartaal in boekjaar 2017 binnen 7 weken na afloop van dat kwartaal.
 
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2:4
 
-Een accountant betrekt bij zijn onderzoek, bedoeld in [artikel 133 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=133), de staten, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=3&z=2016-01-18&g=2016-01-18) bij deze regeling.
+Een accountant betrekt bij zijn onderzoek, bedoeld in [artikel 133 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=133), de staten, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=3&z=2022-12-31&g=2022-12-31) bij deze regeling.
 
 ### Hoofdstuk 3. Branchegroepen en opgave van gesloten verzekeringen
 
@@ -92,15 +92,15 @@ Een accountant betrekt bij zijn onderzoek, bedoeld in [artikel 133 van het Beslu
 
 ##### Artikel 3:1
 
-Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een levensverzekeraar met beperkte risico-omvang met zetel in Nederland met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, wordt vastgesteld zoals is opgenomen in het onderdeel bijkantoren en vrije dienstverrichting levensverzekeraars met beperkte risico-omvang van [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=1&z=2016-01-18&g=2016-01-18) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=2&z=2016-01-18&g=2016-01-18) bij deze regeling.
+Het model van de opgave, bedoeld in [artikel 135, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een levensverzekeraar met beperkte risico-omvang met zetel in Nederland met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, wordt vastgesteld zoals is opgenomen in het onderdeel bijkantoren en vrije dienstverrichting levensverzekeraars met beperkte risico-omvang van [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=1&z=2022-12-31&g=2022-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=2&z=2022-12-31&g=2022-12-31) bij deze regeling.
 
 ##### Artikel 3:2
 
-De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een schadeverzekeraar met beperkte risico-omvang met zetel in Nederland, met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in het onderdeel bijkantoren en vrije dienstverrichting schadeverzekeraars met beperkte risico-omvang van [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=1&z=2016-01-18&g=2016-01-18) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=2&z=2016-01-18&g=2016-01-18) bij deze regeling.
+De branchegroepen en het model van de opgave, bedoeld in [artikel 135, tweede lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een schadeverzekeraar met beperkte risico-omvang met zetel in Nederland, met betrekking tot de vanuit Nederland of vanuit een bijkantoor in een andere lidstaat gesloten overeenkomsten van verzekering, worden vastgesteld zoals zij zijn opgenomen in het onderdeel bijkantoren en vrije dienstverrichting schadeverzekeraars met beperkte risico-omvang van [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=1&z=2022-12-31&g=2022-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=2&z=2022-12-31&g=2022-12-31) bij deze regeling.
 
 ##### Artikel 3:3
 
-Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een natura-uitvaartverzekeraar wordt vastgesteld zoals is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=4&z=2016-01-18&g=2016-01-18) bij deze regeling.
+Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), in te dienen door een natura-uitvaartverzekeraar wordt vastgesteld zoals is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=4&z=2022-12-31&g=2022-12-31) bij deze regeling.
 
 ### Hoofdstuk 4. Waardering deelnemingen van verzekeraars met beperkte risico-omvang
 
@@ -120,7 +120,7 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit pru
 
 ##### Artikel 5:1
 
-1. Een verzekeraar als bedoeld in [artikel 3:281, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281) rapporteert alle significante intragroepovereenkomsten en -posities met ondernemingen, bedoeld in [artikel 3:281a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281a) met gebruikmaking van bladen IG-posities 1, 2 en 3 van de staat opgenomen in de [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=5&z=2016-01-18&g=2016-01-18) bij deze regeling. De rapportage wordt uiterlijk 6 weken na de ingevolge [artikel 2:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=2&artikel=2:2&z=2016-01-18&g=2016-01-18), van toepassing zijnde indieningstermijn bij DNB ingediend.
+1. Een verzekeraar als bedoeld in [artikel 3:281, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281) rapporteert alle significante intragroepovereenkomsten en -posities met ondernemingen, bedoeld in [artikel 3:281a, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281a) met gebruikmaking van bladen IG-posities 1, 2 en 3 van de staat opgenomen in de [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=5&z=2022-12-31&g=2022-12-31) bij deze regeling. De rapportage wordt uiterlijk 6 weken na de ingevolge [artikel 2:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=2&artikel=2:2&z=2022-12-31&g=2022-12-31), van toepassing zijnde indieningstermijn bij DNB ingediend.
 
 2. Van een significante individuele intragroepovereenkomst is sprake wanneer het bedrag van de hieruit voortvloeiende intragroeppositie meer bedraagt dan twintig procent van het solvabiliteitskapitaalvereiste van de verzekeraar. Van een significante totale intragroeppositie is sprake indien deze positie meer bedraagt dan twintig procent van het solvabiliteitskapitaalvereiste van de verzekeraar.
 
@@ -128,19 +128,19 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit pru
 
 ##### Artikel 5:2
 
-1. Voor de toepassing van [artikel 5:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=5&artikel=5:1&z=2016-01-18&g=2016-01-18), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
+1. Voor de toepassing van [artikel 5:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=5&artikel=5:1&z=2022-12-31&g=2022-12-31), wordt ten aanzien van elke significante individuele intragroepovereenkomst aangegeven:
 
 - a. het bedrag van de vordering: de intragroeppositie, waarbij alleen actiefposten en daarmee vergelijkbare off balance sheet instrumenten worden gerapporteerd; en
 
 - b. met welke onderneming van de groep de intragroepovereenkomst is aangegaan.
 
-2. Voor de toepassing van [artikel 5:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=5&artikel=5:1&z=2016-01-18&g=2016-01-18), wordt ten aanzien van elke significante totale intragroeppositie aangegeven:
+2. Voor de toepassing van [artikel 5:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=5&artikel=5:1&z=2022-12-31&g=2022-12-31), wordt ten aanzien van elke significante totale intragroeppositie aangegeven:
 
 - a. het bedrag van de totale intragroeppositie; en
 
 - b. met welke ondernemingen van de groep de intragroepovereenkomst is aangegaan.
 
-3. Voor de toepassing van [artikel 5:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=5&artikel=5:1&z=2016-01-18&g=2016-01-18), worden de significante intragroepovereenkomsten en -posities ondergebracht in één van de volgende categorieën:
+3. Voor de toepassing van [artikel 5:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=5&artikel=5:1&z=2022-12-31&g=2022-12-31), worden de significante intragroepovereenkomsten en -posities ondergebracht in één van de volgende categorieën:
 
 - a. beleggingen;
 
@@ -162,9 +162,9 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit pru
 
 ##### Artikel 6
 
-1. Een verzekeraar als bedoeld in de [artikel 3:281b, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281b) gebruikt voor de berekening van de aangepaste solvabiliteit, bedoeld in [artikel 9 van het Besluit prudentieel toezicht financiële groepen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=9) de staten zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=5&z=2016-01-18&g=2016-01-18) bij deze regeling met uitzondering van de bladen IG-posities 1, 2 en 3.
+1. Een verzekeraar als bedoeld in de [artikel 3:281b, eerste lid, van de Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281b) gebruikt voor de berekening van de aangepaste solvabiliteit, bedoeld in [artikel 9 van het Besluit prudentieel toezicht financiële groepen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&artikel=9) de staten zoals opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&bijlage=5&z=2022-12-31&g=2022-12-31) bij deze regeling met uitzondering van de bladen IG-posities 1, 2 en 3.
 
-2. De staten, bedoeld in het eerst lid, worden uiterlijk 6 weken na de ingevolge [artikel 2:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=2&artikel=2:2&z=2016-01-18&g=2016-01-18), van toepassing zijnde indieningstermijn bij DNB ingediend.
+2. De staten, bedoeld in het eerst lid, worden uiterlijk 6 weken na de ingevolge [artikel 2:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=2&artikel=2:2&z=2022-12-31&g=2022-12-31), van toepassing zijnde indieningstermijn bij DNB ingediend.
 
 ## Bijlage 1. Modellen van jaarstaten voor verzekeraars met beperkte risico-omvang
 
@@ -176,7 +176,7 @@ Het model van de opgave, bedoeld in [artikel 135, derde lid, van het Besluit pru
 
 ## Bijlage 3. Door accountant te waarmerken jaarstaten voor verzekeraars met beperkte risico-omvang
 
-### Bijlage bij [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=2&artikel=2:4&z=2016-01-18&g=2016-01-18)
+### Bijlage bij [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0037542&hoofdstuk=2&artikel=2:4&z=2022-12-31&g=2022-12-31)
 
 Voor geen van de kwartaalrapportages voor verzekeraars met een beperkte risico-omvang zal certificering door de externe accountant gevraagd gaan worden.
 
