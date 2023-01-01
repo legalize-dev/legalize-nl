@@ -4,7 +4,7 @@ identifier: "BWBR0005758"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2021-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005758"
 soort: "AMvB"
@@ -60,89 +60,85 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **behandelen:** het bewerken van eet- en drinkwaren na het bereiden en vóór het verpakken ervan, met welke handelingen de aard van de betrokken waar geen verandering ondergaat;
+- –. **bedrijfsruimte:** de ruimte kennelijk bestemd voor het bereiden, behandelen, verpakken of het bewaren van eet- en drinkwaren, alsmede de bij bereiders van eet- en drinkwaren in gebruik zijnde ruimte voor het bewaren van grondstoffen;
 
-- b. **bedrijfsruimte:** de ruimte kennelijk bestemd voor het bereiden, behandelen, verpakken of het bewaren van eet- of drinkwaren, alsmede de bij bereiders van eet- of drinkwaren in gebruik zijnde ruimte voor het bewaren van grondstoffen;
+- –. **behandelen:** het bewerken van eet- en drinkwaren na het bereiden en vóór het verpakken ervan, met welke handelingen de aard van de betrokken waar geen verandering ondergaat;
 
-- c. **bereidplaats:** het gedeelte van de bedrijfsruimte kennelijk bestemd voor het bereiden van eet- of drinkwaren, of voor het behandelen of verpakken van niet door verpakkingsmateriaal omhulde eet- of drinkwaren, met dien verstande dat niet als bereidplaats wordt beschouwd een verkoopruimte waarin eet- en drinkwaren worden behandeld of verpakt op een wijze die gebruikelijk is in zodanige ruimte;
+- –. **bestrijdingsmiddel:** gewasbeschermingsmiddel of biocide, bedoeld in artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden;
 
-- d. **grondstoffen:** grondstoffen, halffabrikaten en ingrediënten, bestemd voor de bereiding van eet- en drinkwaren;
+- –. **cafeïne:** coffeïne of coffeïnemonohydraat (cafeïnemonohydraat) zoals omschreven in de Nederlandse Pharmacopee, achtste uitgave, deel II, pagina 535 en 536;
 
-- e. **decontaminatie-middel:** een proceshulpstof die:
+- –. **cafeïnegehalte:** de som van de gehaltes van de onder de definitie van cafeïne bedoelde stoffen, berekend als coffeïne (cafeïne);
 
-- 1°. uitsluitend bedoeld is om in direct contact met eet- of drinkwaren levende micro-organismen die op of in de waar aanwezig zijn, te doden; en
+- –. **decontaminatie-middel:** een proceshulpstof die:
+
+- 1°. uitsluitend bedoeld is om in direct contact met eet- en drinkwaren levende micro-organismen die op of in de waar aanwezig zijn, te doden; en
 
 - 2°. geen ingrediënt wordt van die waar, maar daarin uitsluitend aanwezig is als onbedoeld maar technisch onvermijdelijk residu;
 
-- f. **richtlijn 2013/51/Euratom:** Richtlijn 2013/51/Euratom van de Raad van 22 oktober 2013 tot vaststelling van voorschriften voor de bescherming van de volksgezondheid tegen radioactieve stoffen in voor menselijke consumptie bestemd water (PbEU 2013, L 296);
+- –. **EU-noodmaatregel:** een in het Publicatieblad van de Europese Unie bekendgemaakte maatregel van de Commissie van de Europese Unie, vastgesteld krachtens artikel 53, eerste lid, onder a, of tweede lid, van [verordening (EG) 178/2002](32002R0178), voor zover die maatregel strekt tot bescherming van de gezondheid van de mens;
 
-- g. **voor menselijke consumptie bestemd water:** al het water, niet zijnde natuurlijk mineraalwater, bronwater of een geneesmiddel, dat in enig levensmiddelenbedrijf wordt gebruikt voor de vervaardiging, de behandeling, de conservering of het in de handel brengen van voor menselijke consumptie bestemde waren of stoffen;
+- –. **grondstoffen:** grondstoffen, halffabrikaten en ingrediënten, bestemd voor de bereiding van eet- en drinkwaren;
 
-- h. **pluimveevlees:** vlees van kippen, ganzen, kalkoenen of parelhoenders;
+- –. **kinine:** kinine en de zouten van kinine als omschreven in de Nederlandse Pharmacopee, achtste uitgave, deel II, pagina 502 tot en met 504;
 
-- i. **verordening (EG) 1881/2006:** verordening (EG) nr. 1881/2006 van de Commissie van de Europese Gemeenschappen van 19 december 2006 tot vaststelling van de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEU 2006, L 364);
+- –. **kininegehalte:** de som van de gehaltes aan de onder de definitie van kinine bedoelde stoffen, berekend als kininebase (C20H24N2 O2);
 
-- j. **richtlijn 2001/22/EG:** richtlijn nr. 2001/22/EG van de Commissie van de Europese Gemeenschappen van 8 maart 2001 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de maximumgehalten aan lood, cadmium, kwik en 3-MCPD in levensmiddelen (PbEG 2001, L 77);
+- –. **lokaal vervoer:** rechtstreekse aflevering van bestellingen aan consumenten, filialen, horecagelegenheden, instellingen en marktplaatsen voor zover deze aflevering plaatsvindt binnen een straal van twintig kilometer van de plaats van waaruit het vervoer plaatsvindt gedurende ten hoogste twee uren;
 
-- k. **kinine:** kinine en de zouten van kinine als omschreven in de Nederlandse Pharmacopee, achtste uitgave, deel II, pagina 502 tot en met 504;
+- –. **pluimveevlees:** vlees van kippen, ganzen, kalkoenen of parelhoenders;
 
-- l. **kininegehalte:** de som van de gehaltes aan de onder k bedoelde stoffen, berekend als kininebase (C20H24N2 O2);
+- –. **richtlijn 89/108/EEG:** Richtlijn van de Raad van 21 december 1988 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake voor menselijke voeding bestemde diepvriesprodukten (PbEU 1988, PbEG L 40);
 
-- m. **cafeïne:** coffeïne of coffeïnemonohydraat (cafeïnemonohydraat) zoals omschreven in de Nederlandse Pharmacopee, achtste uitgave, deel II, pagina 535 en 536;
+- –. **richtlijn 2009/32/EG:** Richtlijn van het Europees Parlement en de Raad van 23 april 2009 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het gebruik van extractiemiddelen bij de productie van levensmiddelen en bestanddelen daarvan (Herschikking) (PbEU 2009, L 141);
 
-- n. **cafeïnegehalte:** de som van de gehaltes van de onder m bedoelde stoffen, berekend als coffeïne (cafeïne);
+- –. **richtlijn 2013/51/Euratom:** [Richtlijn 2013/51](32013L0051)/Euratom van de Raad van 22 oktober 2013 tot vaststelling van voorschriften voor de bescherming van de volksgezondheid tegen radioactieve stoffen in voor menselijke consumptie bestemd water (PbEU 2013, L 296);
 
-- o. **verordening (EG) 178/2002:** verordening (EG) nr. 178/2002 van het Europees Parlement en de Raad van de Europese Unie van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden (PbEG 2002, L 31);
+- –. **verordening (EEG) 315/93:** [Verordening (EEG) nr. 315/93](31993R0315) van de Raad van 8 februari 1993 tot vaststelling van communautaire procedures inzake verontreinigingen in levensmiddelen (PbEG 1993, L 37).
 
-- p. **verordening (EG) 37/2005:** verordening (EG) nr. 37/2005 van de Commissie van de Europese Gemeenschappen van 12 januari 2005 betreffende de temperatuurcontrole in vervoermiddelen en in opslagruimten van voor menselijke voeding bestemde diepvriesproducten (PbEU 2005, L 10);
+- –. **verordening (EG) 37/2005:** [Verordening (EG) nr. 37/2005](32005R0037) van de Commissie van de Europese Gemeenschappen van 12 januari 2005 betreffende de temperatuurcontrole in vervoermiddelen en in opslagruimten van voor menselijke voeding bestemde diepvriesproducten (PbEU 2005, L 10);
 
-- q. **verordening (EG) 396/2005:** verordening (EG) nr. 396/2005 van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2005 tot vaststelling van maximumgehalten aan bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorsprong en houdende wijziging van richtlijn 91/414/EG van de Raad (PbEU 2005, L 70);
+- –. **verordening (EG) 124/2009:** [Verordening (EG) nr. 124/2009](32009R0124) van de Commissie van 10 februari 2009 tot vaststelling van maximumgehalten voor coccidiostatica en histomonostatica in levensmiddelen als gevolg van niet te voorkomen versleping van die stoffen naar niet-doeldiervoeders (PbEU 2009, L 40);
 
-- r. **bestrijdingsmiddel:** gewasbeschermingsmiddel of biocide, bedoeld in [artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1);
+- –. **verordening (EG) 178/2002:** [Verordening (EG) nr. 178/2002](32002R0178) van het Europees Parlement en de Raad van de Europese Unie van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden (PbEG 2002, L 31);
 
-- s. **EU-noodmaatregel:** een in het Publicatieblad van de Europese Unie bekendgemaakte maatregel van de Commissie van de Europese Unie, vastgesteld krachtens artikel 53, eerste lid, onder a, of tweede lid, van verordening (EG) 178/2002, voor zover die maatregel strekt tot bescherming van de gezondheid van de mens;
+- –. **verordening (EG) 333/2007:** [Verordening (EG) nr. 333/2007](32007R0333) van de Commissie van 28 maart 2007 tot vaststelling van bemonsteringswijzen en analysemethoden voor de officiële controle op de gehalten aan lood, cadmium, kwik, anorganisch tin, 3-MCPD en benzo(a)pyreen in levensmiddelen (PbEU 2007, L 88);
 
-- t. **verordening (EG) 124/2009:** verordening (EG) nr. 124/2009 van de Commissie van 10 februari 2009 tot vaststelling van maximumgehalten voor coccidiostatica en histomonostatica in levensmiddelen als gevolg van niet te voorkomen versleping van die stoffen naar niet-doeldiervoeders (PbEU 2009, L 40);
+- –. **verordening (EG) 396/2005:** [Verordening (EG) nr. 396/2005](32005R0396) van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2005 tot vaststelling van maximumgehalten aan bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorsprong en houdende wijziging van [richtlijn 91/414/EG](31991L0414) van de Raad (PbEU 2005, L 70);
 
-- u. **verordening (EG) 1333/2008:** verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354);
+- –. **verordening (EG) 470/2009:** [Verordening (EG) nr. 470/2009](32009R0470) van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van [Verordening (EEG) nr. 2377/90](31990R2377) van de Raad en tot wijziging van [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad en van [Verordening (EG) nr. 726/2004](32004R0726) van het Europees Parlement en de Raad (PbEU 2009, L 152);
 
-- v. **lokaal vervoer:** rechtstreekse aflevering van bestellingen aan consumenten, filialen, horecagelegenheden, instellingen en marktplaatsen voor zover deze aflevering plaatsvindt binnen een straal van twintig kilometer van de plaats van waaruit het vervoer plaatsvindt gedurende ten hoogste twee uren;
+- –. **verordening (EG) 853/2004:** [Verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139 en 226);
 
-- w. **verordening (EU) 1169/2011:** Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
+- –. **verordening (EG) 1333/2008:** [Verordening (EG) nr. 1333/2008](32008R1333) van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354);
+
+- –. **verordening (EG) 1881/2006:** [Verordening (EG) nr. 1881/2006](32006R1881) van de Commissie van de Europese Gemeenschappen van 19 december 2006 tot vaststelling van de maximumgehalten aan bepaalde verontreinigingen in levensmiddelen (PbEU 2006, L 364);
+
+- –. **verordening (EU) 1169/2011:** [Verordening (EU) nr. 1169/2011](32011R1169) van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van [Verordeningen (EG) nr. 1924/2006](32006R1924) en [(EG) nr. 1925/2006](32006R1925) van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 87/250/EEG](31987L0250) van de Commissie, [Richtlijn 90/496/EEG](31990L0496) van de Raad, [Richtlijn 1999/10/EG](31999L0010) van de Commissie, [Richtlijn 2000/13/EG](32000L0013) van het Europees Parlement en de Raad, [Richtlijnen 2002/67/EG](32002L0067) en [2008/5/EG](32008L0005) van de Commissie, en [Verordening (EG) nr. 608/2004](32004R0608) van de Commissie (PbEU 2011, L 304);
+
+- –. **voor menselijke consumptie bestemd water:** al het water, niet zijnde natuurlijk mineraalwater, bronwater of een geneesmiddel, dat in enig levensmiddelenbedrijf wordt gebruikt voor de vervaardiging, de behandeling, de conservering of het in de handel brengen van voor menselijke consumptie bestemde waren of stoffen.
 
 ##### Artikel 2
 
-1. Het is verboden eet- en drinkwaren te bereiden, te behandelen, te verpakken, te bewaren of te vervoeren, anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
+1. Het is verboden eet- en drinkwaren te bereiden, te behandelen, te verpakken, te bewaren, te vervoeren of te verhandelen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
-2. Het is verboden voor de bereiding van eet- en drinkwaren grondstoffen te bezigen die niet voldoen aan de bij of krachtens dit besluit gestelde eisen.
+2. Het is verboden extractiemiddelen te verhandelen anders dan met inachtneming van de krachtens dit besluit gestelde voorschriften.
 
-3. Het is verboden eet- en drinkwaren te verhandelen met betrekking tot welke in afwijking van het bepaalde bij of krachtens dit besluit is gehandeld.
+3. Het is verboden te handelen in strijd met de voorschriften gesteld bij of krachtens artikel 23 van [verordening (EG) 470/2009](32009R0470).
 
-4. Het is verboden eet- en drinkwaren te verhandelen die in een toestand verkeren, welke niet voldoet aan de bij of krachtens dit besluit gestelde eisen.
+4. Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van [verordening (EG) 1881/2006](32006R1881).
 
-5. Het is verboden eet- en drinkwaren te verhandelen anders dan met inachtneming van de voorschriften, bij of krachtens dit besluit gesteld, met betrekking tot het bezigen van vermeldingen.
+5. Het is verboden te handelen in strijd met de bij artikel 14, eerste lid, artikel 18, eerste tot en met vierde lid, artikel 19, en de krachtens artikel 18, vijfde lid, van [verordening (EG) 178/2002](32002R0178) vastgestelde bepalingen.
 
-6. Het is verboden extractiemiddelen te verhandelen anders dan met inachtneming van de voorschriften, krachtens dit besluit gesteld met betrekking tot het bezigen van aanduidingen en vermeldingen.
+6. Het is verboden eet- en drinkwaren te verhandelen na de uiterste consumptiedatum, bedoeld in artikel 24, eerste lid, van [verordening (EU) 1169/2011](32011R1169).
 
-7. Het is verboden eet- of drinkwaren te verhandelen die afkomstig zijn van dieren waarop diergeneesmiddelen zijn beproefd, tenzij overeenkomstig [Verordening (EEG) nr. 2377/90](31990R2377) van de Raad van de Europese Gemeenschappen van 26 juni 1990 houdende een communautaire procedure tot vaststelling van maximumwaarden voor residuen van geneesmiddelen voor diergeneeskundig gebruik in levensmiddelen van dierlijke oorsprong (PbEG L 224) maximumwaarden aan residuen en een passende wachttijd zijn vastgesteld om te waarborgen dat deze maximumwaarden aan residuen in die eet- of drinkwaren niet worden overschreden, en die bepalingen in acht zijn genomen.
+7. Het is verboden te handelen in strijd met artikel 2 van [verordening (EG) 37/2005](32005R0037).
 
-8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2021-07-01&g=2021-07-01) inzake de verpakking van de waar.
+8. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de artikelen 18, eerste lid, 19 en 20, eerste lid, van [verordening (EG) 396/2005](32005R0396).
 
-9. Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van verordening (EG) 1881/2006.
+9. Het is verboden te handelen in strijd met artikel 1, eerste lid, eerste en derde alinea, van [verordening (EG) 124/2009](32009R0124).
 
-10. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de bij artikel 14, eerste lid, artikel 18, eerste tot en met vierde lid, artikel 19, en de krachtens artikel 18, vijfde lid, van verordening (EG) 178/2002 vastgestelde bepalingen.
-
-11. Het is verboden eet- of drinkwaren te verhandelen na de uiterste consumptiedatum, bedoeld in artikel 24, eerste lid, van verordening (EU) 1169/2011.
-
-12. Het is verboden te handelen in strijd met artikel 2 van [verordening (EG) 37/2005](32005R0037).
-
-13. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de artikelen 18, eerste lid, 19 en 20, eerste lid, van verordening (EG) 396/2005.
-
-14. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=2&artikel=3&z=2021-07-01&g=2021-07-01).
-
-15. Het is verboden te handelen in strijd met artikel 1, eerste lid, eerste en derde alinea, van verordening (EG) 124/2009.
-
-16. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, van [Verordening (EEG) Nr. 315/93](31993R0315) van de Raad van 8 februari 1993 tot vaststelling van communautaire procedures inzake verontreinigingen in levensmiddelen (PbEG 1993, L 37).
+10. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, van [verordening (EEG) 315/93](31993R0315).
 
 #### § 2. Hygiëne bij de bereiding en behandeling
 
@@ -182,15 +178,17 @@ Eet- en drinkwaren, van oorsprong uit de Europese Unie, worden verhandeld met in
 
 1. Pluimveevlees wordt uitsluitend in een verpakking aan de consument verkocht of afgeleverd.
 
-2. Op een in het eerste lid bedoelde verpakte eetwaar wordt in een apart kader met contrasterende kleuren eenvoudig leesbaar de navolgende vermelding gebezigd:
+2. Op een in het eerste lid bedoelde verpakte eetwaar wordt in een apart kader met contrasterende kleuren eenvoudig leesbaar de afbeelding, bedoeld in de bijlage, gebezigd.
 
-«Let op, geef schadelijke bacteriën geen kans. Zorg daarom dat deze bacteriën niet via de verpakking, uw handen of het keukengerei in uw eten terecht komen. Maak dit vlees door en door gaar om deze bacteriën uit te schakelen.»
+3. De afbeelding, bedoeld in de bijlage, wordt aangebracht:
 
-Deze vermelding wordt aangebracht:
+- a. voor zover de waar is voorverpakt, in hetzelfde gezichtsveld als de aanduiding van de waar; of
 
-- a. voor zover de waar is voorverpakt, in het zelfde gezichtsveld als de aanduiding van de waar; of
+- b. voor zover de waar niet is voorverpakt, op de voor- of achterzijde van de verpakking van de waar.
 
-- b. voor zover de waar niet is voorverpakt, op de voor- en achterzijde van de verpakking van de waar.
+4. In afwijking van het derde lid, kan de afbeelding, bedoeld in de bijlage, bij niet-voorverpakt pluimveevlees dat op de plaats van verkoop op verzoek van de koper wordt verpakt of wordt voorverpakt met het oog op de onmiddellijke verkoop daarvan, ook aangebracht worden op een informatieblad, bon of folder die aan de koper wordt meegegeven.
+
+5. Het tweede lid is niet van toepassing op diepgevroren pluimveevlees.
 
 ##### Artikel 5
 
@@ -204,15 +202,15 @@ Het voor menselijke consumptie bestemd water voldoet op het punt waar het water 
 
 3. Onze Minister maakt de in het eerste lid bedoelde goedgekeurde proces-beschrijving bekend in de **Staatscourant**.
 
-4. Dit artikel heeft geen betrekking op producten van dierlijke oorsprong, bedoeld in bijlage I, punt 8.1, van [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en 226).
+4. Dit artikel heeft geen betrekking op producten van dierlijke oorsprong, bedoeld in bijlage I, punt 8.1, van [verordening (EG) 853/2004](32004R0853).
 
 ##### Artikel 6
 
-Onze Minister stelt ter uitvoering van Richtlijn 2009/32/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het gebruik van extractiemiddelen bij de productie van levensmiddelen en bestanddelen daarvan (PbEU 2009, L 141) nadere regels vast ter zake van:
+Onze Minister stelt ter uitvoering van [richtlijn 2009/32/EG](32009L0032) nadere regels vast ter zake van:
 
 - a. de aard en de goede hoedanigheid van extractiemiddelen;
 
-- b. de ten hoogste toegestane hoeveelheden van extractiemiddelen in eet- of drinkwaren; en
+- b. de ten hoogste toegestane hoeveelheden van extractiemiddelen in eet- en drinkwaren; en
 
 - c. de te bezigen aanduidingen of vermeldingen op verpakkingen of recipiënten van extractiemiddelen.
 
@@ -226,7 +224,7 @@ Onze Minister stelt ter uitvoering van Richtlijn 2009/32/EG van het Europees Par
 
 1. Het roken van eetwaren mag uitsluitend geschieden met rook, verkregen uit hout of houtachtige gewassen in onbehandelde staat, onder de voorwaarde dat de waar hierdoor de kenmerkende geur-, kleur- en smaakeffecten van het rookproces verkrijgt.
 
-2. De verhandeling van hout of houtachtige gewassen aan bereiders van eet- of drinkwaren ten behoeve van het roken van eetwaren mag uitsluitend geschieden indien dat hout, of die houtachtige gewassen, in onbehandelde staat verkeert, onderscheidenlijk verkeren.
+2. De verhandeling van hout of houtachtige gewassen aan bereiders van eet- en drinkwaren ten behoeve van het roken van eetwaren mag uitsluitend geschieden indien dat hout, of die houtachtige gewassen, in onbehandelde staat verkeert, onderscheidenlijk verkeren.
 
 3. In bedrijfsruimten mogen, ten behoeve van het roken van eetwaren, uitsluitend hout of houtachtige gewassen in voorraad of voorhanden worden gehouden indien dat hout, onderscheidenlijk die houtachtige gewassen, in natuurlijke of onbehandelde staat verkeert, onderscheidenlijk verkeren.
 
@@ -236,7 +234,7 @@ Onze Minister stelt ter uitvoering van Richtlijn 2009/32/EG van het Europees Par
 
 1. Olie of vet, aanwezig in de bereidplaats en kennelijk bestemd voor het bakken of frituren van eetwaren, moet, onverminderd andere op die grondstof van toepassing zijnde wettelijke bepalingen, voldoen aan de eis dat het gehalte aan dimere en polymere triglyceriden niet hoger is dan 16%.
 
-2. Voor de bereiding of verwerking van eet- of drinkwaren mag geen gebruik worden gemaakt van oliën en vetten welke:
+2. Voor de bereiding of verwerking van eet- en drinkwaren mag geen gebruik worden gemaakt van oliën en vetten welke:
 
 - a. zijn bereid uit afval, ontstaan:
 
@@ -252,13 +250,13 @@ Onze Minister stelt ter uitvoering van Richtlijn 2009/32/EG van het Europees Par
 
 ##### Artikel 10
 
-1. In eet- of drinkwaren mogen vitamines, fluor- en jodiumverbindingen, aminozuren of hun zouten niet aanwezig zijn, tenzij deze naar aard en hoeveelheid van nature aanwezig zijn in die eet- of drinkwaren.
+1. In eet- en drinkwaren mogen vitamines, fluor- en jodiumverbindingen, aminozuren of hun zouten niet aanwezig zijn, tenzij deze naar aard en hoeveelheid van nature aanwezig zijn in die eet- en drinkwaren.
 
 2. Het eerste lid is niet van toepassing ten aanzien van:
 
-- a. verrijkte eet- of drinkwaren als bedoeld in het [Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0008065), voor wat betreft de aanwezigheid van vitamines;
+- a. verrijkte eet- en drinkwaren als bedoeld in het [Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0008065), voor wat betreft de aanwezigheid van vitamines;
 
-- b. eet- of drinkwaren waarvoor in enig wettelijk voorschrift anders is bepaald.
+- b. eet- en drinkwaren waarvoor in enig wettelijk voorschrift anders is bepaald.
 
 ##### Artikel 11
 
@@ -268,57 +266,47 @@ Vervallen
 
 ##### Artikel 12
 
-1. Schimmeltoxinen en bacteriële toxinen in hoeveelheden die schadelijk kunnen zijn voor de volksgezondheid, moeten afwezig zijn in eet- of drinkwaren en grondstoffen.
+1. Schimmeltoxinen en bacteriële toxinen in hoeveelheden die schadelijk kunnen zijn voor de volksgezondheid, moeten afwezig zijn in eet- en drinkwaren en grondstoffen.
 
-2. In bereidplaatsen, alsmede in de gedeeltes van bedrijfsruimten van bereiders van eet- of drinkwaren, die kennelijk in gebruik zijn voor het bewaren van grondstoffen, mogen grondstoffen die niet voldoen aan het eerste lid, niet in voorraad of voorhanden worden gehouden, tenzij de bergplaats of de recipiënt voorzien is van een duidelijke vermelding waaruit blijkt dat die grondstof niet geschikt is voor de bereiding van eet- of drinkwaren.
+2. In bereidplaatsen, alsmede in de gedeeltes van bedrijfsruimten van bereiders van eet- en drinkwaren, die kennelijk in gebruik zijn voor het bewaren van grondstoffen, mogen grondstoffen die niet voldoen aan het eerste lid, niet in voorraad of voorhanden worden gehouden, tenzij de bergplaats of de recipiënt voorzien is van een duidelijke vermelding waaruit blijkt dat die grondstof niet geschikt is voor de bereiding van eet- en drinkwaren.
 
 3. Onze Minister kan nadere regels stellen met betrekking tot het in het eerste lid gestelde.
 
 ##### Artikel 13
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2021-07-01&g=2021-07-01), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2023-01-01&g=2023-01-01), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- en drinkwaren verschillend worden bepaald.
 
 #### § 4. Verontreinigingen en residuen van bestrijdingsmiddelen
 
 ##### Artikel 14
 
-Onze Minister stelt ter uitvoering van de Richtlijn van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende de onderlinge aanpassing van de wetgevingen der Lid-Staten inzake voor menselijke voeding bestemde diepvriesprodukten (89/108/EEG) (**PbEG** L 40) en van de krachtens die richtlijn getroffen maatregelen nadere regels vast ter zake van:
+Onze Minister stelt ter uitvoering van [richtlijn 89/108/EEG](31989L0108) en van de krachtens die richtlijn getroffen maatregelen nadere regels vast ter zake van:
 
 - a. de aard en de goede hoedanigheid van het diepvries-procédé;
 
 - b. de daarbij te gebruiken koelmiddelen;
 
-- c. de verpakkingen van en de te bezigen aanduidingen of vermeldingen op eet- of drinkwaren; en
+- c. de verpakkingen van en de te bezigen aanduidingen of vermeldingen op eet- en drinkwaren; en
 
-- d. de bewaar- en vervoersomstandigheden van diepgevroren eet- of drinkwaren.
+- d. de bewaar- en vervoersomstandigheden van diepgevroren eet- en drinkwaren.
 
 ##### Artikel 15
 
-1. Eet- of drinkwaren of grondstoffen, welke gekoeld moeten worden bewaard teneinde microbiologisch bederf of de uitgroei van pathogene bacteriën tegen te gaan, moeten:
+1. Eet- en drinkwaren of grondstoffen, welke gekoeld moeten worden bewaard teneinde microbiologisch bederf of de uitgroei van pathogene bacteriën tegen te gaan, moeten:
 
-- a. voor zover het betreft voorverpakte eet- of drinkwaren of grondstoffen, zodanig worden vervoerd of in voorraad worden gehouden dat de temperatuur van de waar ten hoogste de door de bereider aangegeven temperatuur bedraagt; of,
+- a. voor zover het betreft voorverpakte eet- en drinkwaren of grondstoffen, zodanig worden vervoerd of in voorraad worden gehouden dat de temperatuur van de waar ten hoogste de door de bereider aangegeven temperatuur bedraagt; of,
 
 - b. voor zover door de bereider geen bijzondere bewaartemperatuur op de voorverpakking is vermeld of de waar niet is voorverpakt, zodanig worden vervoerd of in voorraad worden gehouden dat de temperatuur van de waar ten hoogste 7°C bedraagt.
 
-2. Indien op de verpakking van een in het eerste lid bedoelde eet- of drinkwaar:
+2. In afwijking van het eerste lid mogen de daar bedoelde bederfelijke eet- en drinkwaren, die zodanig verhit zijn dat zij geschikt zijn voor onmiddellijke consumptie door de eindverbruiker, tevens ter rechtstreekse aflevering aan de eindverbruiker voorhanden worden gehouden indien de temperatuur van de waar ten minste 60°C bedraagt.
 
-- a. in een bewaarvoorschrift is vermeld dat de waar bewaard dient te worden tussen de 0°C en 6°C; of
+3. Onze Minister kan nadere regels stellen met betrekking tot het eerste tot en met vierde lid.
 
-- b. een houdbaarheidstermijn is vermeld die korter is dan 5 dagen;
+4. In afwijking van het eerste lid, onder b, bedraagt de temperatuur van de waar ten hoogste 10°C gedurende het lokaal vervoer van gekoelde bakkerswaren.
 
-is artikel 24, eerste lid, van verordening (EU) 1169/2011 inzake de uiterste consumptiedatum van toepassing.
+5. Het eerste lid, onder b, is niet van toepassing op het vervoer of het in voorraad houden van niet-voorverpakte eet- en drinkwaren of grondstoffen gedurende een nader te bepalen periode van ten hoogste 24 uur na de bereiding daarvan, voor zover de ter zake in een krachtens het [Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823) door Onze Minister goedgekeurde hygiënecode vastgestelde voorschriften in acht worden genomen. De desbetreffende hygiënecode zal slechts worden goedgekeurd indien voldaan is aan de volgende voorschriften:
 
-3. Onverminderd de ter zake geldende eisen ten aanzien van de etikettering van levensmiddelen moet op de verpakking van de in het tweede lid, onder **a**, bedoelde eet- of drinkwaar een bewaarvoorschrift worden gebezigd waaruit onder andere blijkt dat de waar binnen een bepaald aantal dagen na aankoop dient te worden geconsumeerd, echter nooit later dan de reeds vermelde datum.
-
-4. In afwijking van het eerste lid mogen de daar bedoelde bederfelijke eet- of drinkwaren, die zodanig verhit zijn dat zij geschikt zijn voor onmiddellijke consumptie door de eindverbruiker, tevens ter rechtstreekse aflevering aan de eindverbruiker voorhanden worden gehouden indien de temperatuur van de waar ten minste 60°C bedraagt.
-
-5. Onze Minister kan nadere regels stellen met betrekking tot het eerste tot en met vierde lid.
-
-6. In afwijking van het eerste lid, onderdeel b, bedraagt de temperatuur van de waar ten hoogste 10°C gedurende het lokaal vervoer van gekoelde bakkerswaren.
-
-7. Het eerste lid, onder b, is niet van toepassing op het vervoer of het in voorraad houden van niet-voorverpakte eet- of drinkwaren of grondstoffen gedurende een nader te bepalen periode van ten hoogste 24 uur na de bereiding daarvan, voor zover de ter zake in een krachtens het [Warenwetbesluit hygiëne van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018823) door Onze Minister goedgekeurde hygiënecode vastgestelde voorschriften in acht worden genomen. De desbetreffende hygiënecode zal slechts worden goedgekeurd indien voldaan is aan de volgende voorschriften:
-
-- a. de uitzondering heeft slechts betrekking op eet- of drinkwaren of grondstoffen waarvan koeling met het oog op de smaak ongewenst is, of die bij de bereiding direct voorafgaand aan de ongekoelde bewaar- of vervoerperiode een intensieve hittebehandeling hebben ondergaan;
+- a. de uitzondering heeft slechts betrekking op eet- en drinkwaren of grondstoffen waarvan koeling met het oog op de smaak ongewenst is, of die bij de bereiding direct voorafgaand aan de ongekoelde bewaar- of vervoerperiode een intensieve hittebehandeling hebben ondergaan;
 
 - b. de desbetreffende hygiënecode schrijft voor dat bij onverpakte verkoop van de waar aan de koper duidelijk wordt gemaakt dat de waar een (zeer) beperkte houdbaarheid heeft, en werkt uit hoe dat voorschrift kan worden toegepast;
 
@@ -338,7 +326,7 @@ Vervallen
 
 - a. het gehalte of de gehaltes van de levensmiddelenadditieven indien zij aanwezig zijn in mengsels van deze stoffen, al dan niet met andere grondstoffen, voor zover regels zijn gesteld ten aanzien van de ten hoogste toegelaten hoeveelheid van een of meer van de desbetreffende levensmiddelenadditieven;
 
-- b. het gebruiksdoel, voor zover regels zijn gesteld ten aanzien van de ten hoogste toegelaten hoeveelheid in de eet- of drinkwaar, voor de bereiding waarvan het betrokken levensmiddelenadditief bestemd is.
+- b. het gebruiksdoel, voor zover regels zijn gesteld ten aanzien van de ten hoogste toegelaten hoeveelheid in de eet- en drinkwaren, voor de bereiding waarvan het betrokken levensmiddelenadditief bestemd is.
 
 2. De vermeldingen, bedoeld in het eerste lid, mogen worden aangebracht in een code, die zodanig moet zijn dat onjuist gebruik ter zake bij de bereiding wordt voorkomen.
 
@@ -348,35 +336,19 @@ Vervallen
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
-2. Onverminderd het eerste lid worden bij de controle of al dan niet is voldaan aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01) de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties in acht genomen.
+2. Onverminderd het eerste lid worden bij de controle of al dan niet is voldaan aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01) de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties in acht genomen.
 
 3. Onze Minister kan omtrent de in het eerste lid bedoelde methoden nadere regels stellen.
 
-4. Onverminderd het eerste lid wordt de in artikel 2 juncto bijlage II, punten 3.1 tot en met 3.6, van [richtlijn 2001/22/EG](32001L0022), beschreven methode, aangewezen als methode van onderzoek die bij uitsluiting beslissend is voor de vaststelling of met betrekking tot de maximumgehalten aan lood, cadmium, kwik en 3-monochloorpropaan-1,2-diol in eet- en drinkwaren al dan niet is voldaan aan bijlage I, deel 3 en deel 4, van [verordening (EG) 466/2001](32001R0466).
+4. Onverminderd het eerste lid wordt de in artikel 1 en de bijlage bij [verordening (EU) 333/2007](32007R0333) beschreven methode, aangewezen als methode van onderzoek die bij uitsluiting beslissend is voor de vaststelling of met betrekking tot de maximumgehalten aan lood, cadmium, kwik, anorganisch tin, 3-MCPD en benzo(a)pyreen in eet- en drinkwaren al dan niet is voldaan aan de afdelingen 3, 4 en 6 van de bijlage bij [verordening (EG) 1881/2006](32006R1881).
 
 ##### Artikel 19
 
-1. Bevat wijzigingen in andere regelgeving.
-
-2. Op waren waarvoor krachtens artikel 10bis, eerste lid, van het Algemeen Besluit (Warenwet), toestemming is verleend voor de aanwezigheid van een der in dat artikel-lid bedoelde stoffen, blijft, in afwijking van het eerste lid, genoemd artikel 10**bis**, eerste lid, van toepassing:
-
-- a. voor zover in de desbetreffende toestemming een termijn is genoemd waarvoor die toestemming is verleend, welke afloopt binnen drie maanden na de datum van inwerkingtreding van dit besluit, gedurende drie maanden na afloop van die termijn;
-
-- b. voor zover in de desbetreffende toestemming een termijn is genoemd waarvoor die toestemming is verleend, welke afloopt vanaf drie maanden na de datum van inwerkingtreding van dit besluit, tot de afloop van die termijn;
-
-een en ander behoudens indien de toestemming op een eerder tijdstip wordt ingetrokken.
-
-3. Bevat wijzigingen in andere regelgeving.
-
-4. Bevat wijzigingen in andere regelgeving.
+Vervallen
 
 ##### Artikel 20
 
-1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
-
-2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2021-07-01&g=2021-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2021-07-01&g=2021-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2021-07-01&g=2021-07-01) in werking met ingang van 10 januari 1993.
-
-3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2021-07-01&g=2021-07-01), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
+Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
 
 ##### Artikel 21
 
@@ -489,5 +461,11 @@ Het tappen onder overdruk van bier als bedoeld in [artikel 7b van het Warenwetbe
 #### § 6. Verpakking
 
 #### § 7. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+## Bijlage. als bedoeld in [artikel 4a, tweede lid, van het Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2023-01-01&g=2023-01-01)
+
+De afbeelding, bedoeld in [artikel 4a, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2023-01-01&g=2023-01-01), ziet er als volgt uit:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
