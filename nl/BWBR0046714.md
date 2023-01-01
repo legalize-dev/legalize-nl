@@ -4,7 +4,7 @@ identifier: "BWBR0046714"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2022-05-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046714"
 soort: "ministeriele-regeling"
@@ -44,17 +44,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister voor Volkshuisvesting en Ruimtelijke Ordening
+- **BZK**: het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **commissie:** de commissie versnelling tijdelijke huisvesting
+- **commissie**: de commissie versnelling tijdelijke huisvesting;
 
-- c. **woningmarktpartijen:** woningcorporaties, projectontwikkelaars, bouwbedrijven
+- **minister**: de Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
-- d. **ontheemden:** vluchtelingen uit Oekraïne
+- **uitvoeringsorganisatie**: de uitvoeringsorganisatie zoals bedoeld in artikel 7, eerste lid, van dit besluit; en
 
-- e. **tijdelijke woningen:** een wooneenheid waarbij de duur van bewoning of de locatie waarop de eenheid geplaatst is tijdelijk is
-
-- f. **aandachtsgroepen:** statushouders, arbeidsmigranten, dak- en thuislozen, mensen met sociale en/of medische urgentie, mensen die uitstromen uit een intramurale (zorg)instelling, studenten, woonwagenbewoners en ouderen.
+- **woningmarktpartijen**: woningcorporaties, projectontwikkelaars en bouwbedrijven.
 
 ##### Artikel 2
 
@@ -64,35 +62,35 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-De werkzaamheden van de commissie leiden tot voldoende extra huisvesting op meerdere locaties. De commissie hanteert in haar advisering een integrale aanpak, waarbij zij zich richt op:
+De commissie adviseert op strategisch niveau vanuit kennis van de praktijk op de volgende onderdelen:
 
-- a. het bestuurlijk aanjagen van huisvestingsprojecten bij gemeenten en provincies zodat meer gebouwen naar woningen worden getransformeerd en de realisatie van tijdelijke woningen wordt versneld.
+- a. het verder ontwikkelen van de aanpak op de versnelling van de realisatie van flex- en transformatiewoningen;
 
-- b. het doorbreken van impasses door onder meer effecten inzichtelijk te maken aan de hand van financieel, juridische en planologische haalbaarheidsstudies en investeringsvoorstellen.
+- b. het hiermee bereiken van de doelstelling van 32.500 flex- en transformatiewoningen in de jaren 2023-2024;
 
-- c. het agenderen van knelpunten in onder andere processen en procedures en het formuleren van voorstellen om deze knelpunten weg te nemen.
+- c. daartoe gemeenten, provincies, woningcorporaties, marktpartijen en andere partijen via bestuurlijke contacten en vanuit een integrale blik op verschillende belangen in beweging krijgen en houden bij het initiëren en realiseren van projecten, en
 
-- d. het actief verspreiden van gestandaardiseerde processen en contracten aan partijen zodat doorlooptijden voor ontwikkeling en realisatie korter worden.
+- d. hoe de aanpak van de commissie en uitvoeringsorganisatie op versnelling en standaardisering ingezet kan worden voor de brede woningbouwopgave.
 
-- e. het agenderen van knelpunten in wetgeving en voorschriften die leiden tot vertraging, handreikingen doen die bijdragen aan een oplossing en voorzien in gevraagd en ongevraagd advies;
+- e. Hiermee dient de commissie als aanjager, ambassadeur en onafhankelijk klankbord voor zowel de uitvoeringsorganisatie als BZK en geeft aan beide gevraagd en ongevraagd advies.
 
-- f. het bij elkaar brengen en inzichtelijk houden van vraag naar huisvesting en aanbod van locaties en bouwcapaciteit op lokaal niveau.
+- f. De commissie signaleert richting BZK en in landelijke gremia waar wetgeving, financieel instrumentarium of beleid knelt.
 
 ##### Artikel 4
 
 1. De commissie bestaat uit een voorzitter en ten hoogste twee andere leden
 
-2. Voor de duur van de commissie worden door de minister tot lid van de commissie benoemd:
+2. Voor de duur van de commissie worden per ingang van 1 januari 2023 door de minister tot lid van de commissie benoemd:
 
-- a. Rob Haans, tevens voorzitter;
+- a. Nicole Maarsen, tevens voorzitter;
 
-- b. Nicole Maarsen;
+- b. Rob Haans;
 
 - c. Harriët Tiemens.
 
 ##### Artikel 5
 
-1. Aan de voorzitter en de leden wordt een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor voor de voorzitter van 20/36, voor lid Maarsen 8/36 en voor lid Tiemens 4/36.
+1. Aan de voorzitter en de leden wordt een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor voor de voorzitter van 8/36, voor lid Haans 4/36 en voor lid Tiemens 4/36.
 
 2. De voorzitter en leden kunnen afzien van de vergoeding, bedoeld in het eerste lid.
 
