@@ -4,7 +4,7 @@ identifier: "BWBR0039274"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2017-03-10"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039274"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Telecommunicatiewet, e
 
 1. Een aanvraag voor een aanwijzing als bedoeld in [artikel 18.17a, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17a), wordt schriftelijk ingediend bij:
 
-Ministerie van Economische Zaken
+Ministerie van Economische Zaken en Klimaat
 
 Directie Regeldruk en ICT-beleid
 
@@ -98,7 +98,7 @@ Postbus 20141
 
 1. Een verlener van vertrouwensdiensten dient een aanvraag tot toekenning van de status gekwalificeerd als bedoeld in [artikel 2.5b, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.5b), schriftelijk, opgesteld in de Nederlandse of Engelse taal, in bij:
 
-Agentschap Telecom
+Rijksinspectie Digitale Infrastructuur
 
 Emmasingel 1
 
@@ -130,7 +130,7 @@ Emmasingel 1
 
 ##### Artikel 4. Publicatie vingerafdrukken van de publieke sleutelcertificaten
 
-De Minister van Economische Zaken draagt er zorg voor dat de vingerafdrukken van de publieke sleutelcertificaten, bedoeld in artikel 4, tweede lid, van het Uitvoeringsbesluit 2015/1505 van de Commissie tot vaststelling van de technische specificaties en formaten van vertrouwenslijsten overeenkomstig artikel 22, lid 5, van de Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt (PbEU 2015 L 235), waarmee de vertrouwenslijst wordt ondertekend of verzegeld, worden gepubliceerd in de Staatscourant.
+De Minister van Economische Zaken en Klimaat draagt er zorg voor dat de vingerafdrukken van de publieke sleutelcertificaten, bedoeld in artikel 4, tweede lid, van het Uitvoeringsbesluit 2015/1505 van de Commissie tot vaststelling van de technische specificaties en formaten van vertrouwenslijsten overeenkomstig artikel 22, lid 5, van de Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt (PbEU 2015 L 235), waarmee de vertrouwenslijst wordt ondertekend of verzegeld, worden gepubliceerd in de Staatscourant.
 
 #### § 3. Intrekking en wijziging van andere ministeriële regelingen
 
@@ -140,7 +140,7 @@ De Minister van Economische Zaken draagt er zorg voor dat de vingerafdrukken van
 
 1. Deze regeling treedt in werking op het tijdstip dat [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=I), en [artikel VII van de Wet van 21 december 2016 tot wijziging van de Telecommunicatiewet, de Boeken 3 en 6 van het Burgerlijk Wetboek, de Algemene wet bestuursrecht alsmede daarmee samenhangende wijzigingen van andere wetten in verband met de uitvoering van EU-verordening elektronische identiteiten en vertrouwensdiensten (uitvoering EU-verordening elektronische identiteiten en vertrouwensdiensten)](https://wetten.overheid.nl/jci1.3:c:BWBR0039151&artikel=VII) (Stb. 2017, 13) in werking treden.
 
-2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039274&paragraaf=3&artikel=8&z=2017-03-10&g=2017-03-10) werkt terug tot en met 1 januari 2017.
+2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039274&paragraaf=3&artikel=8&z=2023-01-01&g=2023-01-01) werkt terug tot en met 1 januari 2017.
 
 ##### Artikel 13
 
