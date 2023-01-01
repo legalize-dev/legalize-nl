@@ -4,7 +4,7 @@ identifier: "BWBR0041794"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-05"
-last_updated: "2022-10-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041794"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ De organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit wordt
 
 - a. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding of beperking van de bemoeienissen van de minister;
 
-- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2022-05-20&g=2022-10-01), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2022-05-20&g=2022-10-01) en beleidsregels als bedoeld in artikel 6, zevende lid;
+- b. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=4&z=2022-05-20&g=2023-01-01), [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2022-05-20&g=2023-01-01) en beleidsregels als bedoeld in artikel 6, zevende lid;
 
 - c. delegatie van bevoegdheden;
 
@@ -348,7 +348,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 10
 
-1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2022-05-20&g=2022-10-01), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+1. De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=2&artikel=6&z=2022-05-20&g=2023-01-01), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 2. Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden:
 
@@ -380,7 +380,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2022-05-20&g=2022-10-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2022-05-20&g=2022-10-01) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=9&z=2022-05-20&g=2023-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&paragraaf=4&artikel=10&z=2022-05-20&g=2023-01-01) wordt gezonden aan de secretaris-generaal, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat, de directeur Bedrijfsvoering van het Ministerie van Economische Zaken en Klimaat en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 
@@ -778,7 +778,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 3. In uitzondering op het tweede lid kan een automatisch gegenereerd stuk ook met handtekening worden ondertekend. De ondertekening geschiedt dan zoals genoemd in het eerste lid.
 
-#### § 10. Overgangs- en slotbepalingen
+#### § 9. Instructies aan niet-ondergeschikten
 
 ##### Artikel 28
 
@@ -806,6 +806,8 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 20
 
 ### I. Hoofdstructuur van de organisatie
 
+### I. Hoofdstructuur van de organisatie
+
 ### II. Algemene leiding
 
 ### III. Het directoraat-generaal Agro
@@ -822,8 +824,6 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging LNV 20
 
 ### IV. Het directoraat-generaal Natuur, Visserij en Landelijk Gebied
 
-### IVA. De Regieorganisatie Transitie Landelijk Gebied in oprichting
-
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
 ##### Artikel 32a
@@ -832,11 +832,11 @@ Vervallen
 
 ## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-### V. Het programmadirectoraat-generaal Stikstof
+### IVA. De Regieorganisatie Transitie Landelijk Gebied in oprichting
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
-### VI. De directie Bestuurlijke en Politieke Zaken
+### V. Het programmadirectoraat-generaal Stikstof
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
@@ -862,13 +862,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### § 8. Ondermandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
 
-#### § 9. Instructies aan niet-ondergeschikten
+#### § 8. Ondermandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken en Klimaat
 
 #### § 10. Overgangs- en slotbepalingen
 
 ## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
-### VII. De directie Communicatie
+### VI. De directie Bestuurlijke en Politieke Zaken
 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
 
@@ -890,7 +890,51 @@ Aan de programmadirecteur PDC, kostprijsmodel en herziening retributiestelsel en
 
 ## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
+### VII. De directie Communicatie
+
 ### VIII. De directie Financieel-Economische Zaken
+
+Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+##### Artikel 18b
+
+1. Aan de directeur Mens en Organisatie van het Ministerie van Economische Zaken en Klimaat wordt mandaat, volmacht en machtiging verleend voor besluiten, privaatrechtelijke rechtshandelingen en feitelijke handelingen die verband houden met:
+
+- a. het ontwikkelen van beleid en adviseren van de departementsleiding en het management en het leveren van een bijdrage aan interdepartementale beleidsontwikkeling op het gebied van personeel en organisatie, en ondersteuning van het management bij de directoraten-generaal en de stafdirecties;
+
+- b. het adviseren van de departementsleiding en het management over het implementeren van beleid op het gebied van management development (ABD), mobiliteit, werving, opleiding, de personeelscyclus, leren en ontwikkelen, diversiteit en gezond & veilig werken (of vitaliteit);
+
+- c. het ondersteunen en adviseren van de departementsleiding en het management inzake medezeggenschap, personeelsadvies en sociaal-juridische zaken;
+
+- d. het uitvoeren van taken rond personeels- en salarisadministratie voor zover die niet bij P-Direkt zijn ondergebracht en met betrekking tot de personeelsstichting;
+
+- e. het voorzien in de secretariële ondersteuning bij de directoraten-generaal en de stafdirecties en het standaardiseren van bijbehorende werkprocessen;
+
+- f. het ondersteunen van concern en bestuur bij organisatieontwikkeling en verandertrajecten door middel van advisering, teamcoaching en procesbegeleiding;
+
+- g. voorbereiden van (inter)departementaal overleg op het terrein van organisatie en bedrijfsvoering en het zorg dragen voor een integrale afweging;
+
+- h. het voortouw nemen op bedrijfsvoeringsbrede thema's zoals het nieuwe werken, integriteit en programmatisch werken;
+
+- i. het voorzien in expertise en capaciteit op het terrein van beleid (projectenpool), bedrijfsvoering en interim-management;
+
+- j. het geven van sturing ten aanzien van budgetten en kwaliteit van dienstverlening aan shared service organisaties (SSO’s) en concern dienstverleners (CDV’s) op het gebied van bedrijfsvoeringsdienstverlening;
+
+2. Aan de directeur Mens en Organisatie wordt tevens mandaat, volmacht en machtiging verleend voor het nemen van besluiten en beslissingen en het verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 1 tot en met 14 van paragraaf 6.3 van de CAO Rijk geldt, betreffende:
+
+- a. het verlenen van langdurend verlof ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie als bedoeld in paragraaf 4.6 van de CAO Rijk;
+
+- b. het toekennen van een terugkeergarantie op grond van sociaal flankerend beleid;
+
+- c. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid;
+
+- d. het toekennen van verplichte en onverplichte schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
+
+- e. de mogelijkheid van hoofdstuk 2 van de CAO Rijk om tijdelijke arbeidsovereenkomsten in zeer bijzondere situaties te sluiten, waarbij wordt afgeweken van hetgeen is geregeld in de CAO Rijk.
+
+#### § 10. Overgangs- en slotbepalingen
+
+## Bijlage. Organisatie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 
 ### IX. De Nederlandse Voedsel- en Warenautoriteit
 
