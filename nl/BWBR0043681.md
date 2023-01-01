@@ -4,7 +4,7 @@ identifier: "BWBR0043681"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-01-01"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043681"
 soort: "ministeriele-regeling-BES"
@@ -66,9 +66,7 @@ Vervallen
 
 ##### Artikel 6. Vaststelling uitslag schooljaren 2020–2021 en 2021–2022 na gespreid examen en na examen in eerder leerjaar dan het laatste
 
-1. De eindcijfers die in het schooljaar 2019–2020 zijn behaald door de kandidaat die een gespreid eindexamen als bedoeld in [artikel 3.56 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=3.56) aflegt, of de kandidaat op wie [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=3&z=2022-08-01&g=2022-08-01), van toepassing is, tellen mee als eindcijfers bij het vaststellen van de uitslag van het eindexamen door de directeur en secretaris in de schooljaren 2020–2021 en 2021–2022.
-
-2. In het geval de leerling die in het schooljaar 2019–2020 in een of meer vakken eindexamen heeft afgelegd in het voorlaatste of direct daaraan voorafgaande leerjaar als bedoeld [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=3&z=2022-08-01&g=2022-08-01), niet wordt bevorderd tot het volgende leerjaar, komen de met dat eindexamen behaalde eindcijfer te vervallen.
+Vervallen
 
 ##### Artikel 7. Uitslag eindexamen leerwegen vmbo
 
@@ -140,9 +138,9 @@ Vervallen
 
 2. Dit besluit vervalt met ingang van 1 januari 2021, met uitzondering van:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=6&z=2022-08-01&g=2022-08-01), dat vervalt met ingang van 1 januari 2023;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=6&z=2023-01-01&g=2023-01-01), dat vervalt met ingang van 1 januari 2023;
 
-- b. de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=20&z=2022-08-01&g=2022-08-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=21&z=2022-08-01&g=2022-08-01), die vervallen met ingang van 1 januari 2030.
+- b. de [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=20&z=2023-01-01&g=2023-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0043681&artikel=21&z=2023-01-01&g=2023-01-01), die vervallen met ingang van 1 januari 2030.
 
 ##### Artikel 23. Citeertitel
 
