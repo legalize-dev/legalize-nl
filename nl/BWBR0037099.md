@@ -4,7 +4,7 @@ identifier: "BWBR0037099"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2016-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037099"
 soort: "wet"
@@ -89,7 +89,7 @@ Wijzigt de Toeslagenwet.
 
 3. In afwijking van het in [artikel 669, lid 3, onderdelen b en c, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669) genoemde tijdvak van 6 weken, geldt tot een bij koninklijk besluit te bepalen tijdstip een tijdvak van dertien weken voor de werknemer die de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft bereikt.
 
-4. Met ingang van het tijdstip, bedoeld in het eerste lid, geldt de in de [artikelen 629, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), en [670, lid 1, onder a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670) genoemde termijn van zes weken, voor zover het totale tijdvak niet meer bedraagt dan dertien weken.
+4. Indien de ongeschiktheid tot het verrichten van arbeid wegens ziekte een aanvang heeft genomen voor het op grond van het eerste lid vast te stellen tijdstip blijft het in dat lid genoemde tijdvak van dertien weken gelden.
 
 5. Het tijdstip, bedoeld in het eerste en derde lid, wordt niet eerder vastgesteld, dan nadat:
 
@@ -99,15 +99,15 @@ Wijzigt de Toeslagenwet.
 
 ##### Artikel IX. Overgangsrecht Burgerlijk Wetboek
 
-1. Het in [artikel 629, lid 1, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) genoemde tijdvak van 104 weken alsmede [artikel 670, lid 1, onder a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670), zoals deze bepaling luidde voor het tijdstip van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=I&z=2016-07-01&g=2016-07-01) van de Wet werken na de AOW-gerechtigde leeftijd, blijven gedurende zes maanden na dat tijdstip van toepassing op de werknemer:
+1. Het in [artikel 629, lid 1, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) genoemde tijdvak van 104 weken alsmede [artikel 670, lid 1, onder a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670), zoals deze bepaling luidde voor het tijdstip van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=I&z=2023-01-01&g=2023-01-01) van de Wet werken na de AOW-gerechtigde leeftijd, blijven gedurende zes maanden na dat tijdstip van toepassing op de werknemer:
 
-- a. die op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=I&z=2016-07-01&g=2016-07-01), van de Wet werken na de AOW-gerechtigde leeftijd ten minste de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft, dan wel binnen zes maanden na dat tijdstip deze leeftijd bereikt, en
+- a. die op de dag voor het tijdstip van inwerkingtreding van [artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=I&z=2023-01-01&g=2023-01-01), van de Wet werken na de AOW-gerechtigde leeftijd ten minste de in [artikel 7, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd heeft, dan wel binnen zes maanden na dat tijdstip deze leeftijd bereikt, en
 
 - b. die voor het in onderdeel a bedoelde tijdstip en tevens, al dan niet na een onderbreking gedurende minder dan vier weken, na die dag verhinderd is de bedongen arbeid te verrichten in verband met ongeschiktheid ten gevolge van ziekte, en
 
 - c. op wie op die dag het in [artikel 629, lid 1, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) genoemde tijdvak van 104 weken van toepassing is.
 
-2. Na afloop van de in lid 1 genoemde termijn van zes maanden, geldt de in [artikel VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=VIIIa&z=2016-07-01&g=2016-07-01) genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
+2. Na afloop van de in lid 1 genoemde termijn van zes maanden, geldt de in [artikel VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0037099&artikel=VIIIa&z=2023-01-01&g=2023-01-01) genoemde termijn van dertien weken, voor zover het totale tijdvak niet meer bedraagt dan 104 weken.
 
 ##### Artikel X. Samenloop met het initiatiefwetsvoorstel tot wijziging van de Wet aanpassing arbeidsduur ten einde flexibel werken te bevorderen
 
