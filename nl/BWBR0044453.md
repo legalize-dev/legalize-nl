@@ -4,7 +4,7 @@ identifier: "BWBR0044453"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044453"
 soort: "ministeriele-regeling-BES"
@@ -44,13 +44,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Caribisch Nederland:** in de Caribische regio gelegen deel van het land Nederland, dat wil zeggen de gezamenlijke openbare lichamen Bonaire, Saba en Sint Eustatius;
-
 - **eilandelijk zorgplan:** eilandelijk zorgplan als bedoeld in [artikel 27 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=27), [artikel 11.17 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.17) en [artikel 3.3 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.3);
 
 - **EOZ:** expertisecentrum onderwijszorg als bedoeld in [artikel 28, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 11.18 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.18) en [artikel 3.4, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4);
-
-- **Europees Nederland:** in Europa gelegen deel van het land Nederland;
 
 - **inspectie:** Inspectie van het onderwijs als bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
 
@@ -58,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - **leerling:** leerling als bedoeld in [artikel 1 van het Besluit bekostiging WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=1) en [artikel 5.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.8);
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 - **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
@@ -116,19 +112,19 @@ De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsi
 
 ##### Artikel 6. Hoogte van de bedragen
 
-1. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt voor het EOZ in het openbaar lichaam Bonaire: USD 369.800.
+1. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2023-01-01&g=2023-01-01), bedraagt voor het EOZ in het openbaar lichaam Bonaire: USD 381.190.
 
-2. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt voor het EOZ in het openbaar lichaam Sint Eustatius: USD 364.887.
+2. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2023-01-01&g=2023-01-01), bedraagt voor het EOZ in het openbaar lichaam Sint Eustatius: USD 376.126.
 
-3. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt voor het EOZ in het openbaar lichaam Saba: USD 283.603.
+3. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2023-01-01&g=2023-01-01), bedraagt voor het EOZ in het openbaar lichaam Saba: USD 292.338.
 
-4. Het bedrag per leerling en student, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt USD 440,24.
+4. Het bedrag per leerling en student, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2023-01-01&g=2023-01-01), bedraagt USD 453,80.
 
-5. Het aanvullende bedrag, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), bedraagt zestien procent van het vaste bedrag, bedoeld in artikel 5, eerste lid. Dit bedrag zal rekenkundig worden afgerond op twee decimalen.
+5. Het aanvullende bedrag, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2023-01-01&g=2023-01-01), bedraagt zestien procent van het vaste bedrag, bedoeld in artikel 5, eerste lid. Dit bedrag zal rekenkundig worden afgerond op twee decimalen.
 
 ##### Artikel 7. Besteding en verantwoording
 
-1. Het subsidiebedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), wordt in ieder geval besteed aan de uitvoering van het eilandelijk zorgplan en aan de wettelijke taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=3&z=2022-08-01&g=2022-08-01).
+1. Het subsidiebedrag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2023-01-01&g=2023-01-01), wordt in ieder geval besteed aan de uitvoering van het eilandelijk zorgplan en aan de wettelijke taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=3&z=2023-01-01&g=2023-01-01).
 
 2. Eventuele niet-bestede middelen kunnen door het EOZ in de daaropvolgende jaren worden aangewend voor de uitvoering van de activiteiten, bedoeld in het eerste lid.
 
@@ -142,9 +138,9 @@ De minister verstrekt voor de kalenderjaren 2021, 2022, 2023, 2024 en 2025 subsi
 
 ##### Artikel 8. Subsidievaststelling en betaling
 
-1. Het subsidiebedrag, bedoeld in [artikel 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2022-08-01&g=2022-08-01), wordt direct vastgesteld in de maand december voorafgaande aan het kalenderjaar waarop de subsidieverstrekking betrekking heeft.
+1. Het subsidiebedrag, bedoeld in [artikel 5, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2023-01-01&g=2023-01-01), wordt direct vastgesteld in de maand december voorafgaande aan het kalenderjaar waarop de subsidieverstrekking betrekking heeft.
 
-2. Het subsidiebedrag wordt jaarlijks geëvalueerd, waarbij de bedragen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=6&z=2022-08-01&g=2022-08-01) gewijzigd kunnen worden voor het volgende kalenderjaar, onder andere vanwege loon- en prijsontwikkelingen, tenzij de toestand van 's Rijks financiën zich daartegen verzet.
+2. Het subsidiebedrag wordt jaarlijks geëvalueerd, waarbij de bedragen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=6&z=2023-01-01&g=2023-01-01) gewijzigd kunnen worden voor het volgende kalenderjaar, onder andere vanwege loon- en prijsontwikkelingen, tenzij de toestand van 's Rijks financiën zich daartegen verzet.
 
 3. De betaling van het subsidiebedrag vindt plaats in gelijke maandelijkse termijnen.
 
