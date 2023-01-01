@@ -4,7 +4,7 @@ identifier: "BWBR0016459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2004-04-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016459"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-Het formulier, bedoeld in [artikel 7, eerste lid, van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=7), wordt vastgesteld overeenkomstig [bijlage 1 bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=1&z=2004-04-01&g=2004-04-01).
+Het formulier, bedoeld in [artikel 7, eerste lid, van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=7), wordt vastgesteld overeenkomstig [bijlage 1 bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=1&z=2023-07-01&g=2023-01-01).
 
 ##### Artikel 2
 
-Het formulier, bedoeld in [artikel 8 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=8), wordt vastgesteld overeenkomstig [bijlage 2 bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=2&z=2004-04-01&g=2004-04-01).
+Het formulier, bedoeld in [artikel 8 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=8), wordt vastgesteld overeenkomstig [bijlage 2 bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=2&z=2023-07-01&g=2023-01-01).
 
 ##### Artikel 3
 
@@ -59,7 +59,7 @@ Deze regeling treedt in werking met ingang van 1 april 2004.
 
 Deze regeling wordt aangehaald als: Regeling beheer autobanden.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&artikel=1&z=2004-04-01&g=2004-04-01)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&artikel=1&z=2023-07-01&g=2023-01-01)
 
 In de tabel hieronder dient u aan te geven op welke wijze uitvoering gegeven zal worden aan de in het [Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038) gestelde verplichtingen. De toelichting bij dit formulier bevat nadere informatie over de wijze van invulling.
 
@@ -87,7 +87,7 @@ Na de inname van de afgedankte autobanden zullen deze nuttig moeten worden toege
 
 2 Op basis van 5.000.000/jaar voor het jaar 2003, vervolgens geïndexeerd.
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&artikel=2&z=2004-04-01&g=2004-04-01)
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&artikel=2&z=2023-07-01&g=2023-01-01)
 
 Ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=8) en [10 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=10) moeten producenten en importeurs van autobanden of aanhangwagens jaarlijks vóór 1 augustus aan de Minister van VROM een verslag zenden met daarin de resultaten van het voorafgaande jaar (van 1 januari tot 1 januari). In het verslag dient informatie te worden gegeven over de volgende zaken:
 
