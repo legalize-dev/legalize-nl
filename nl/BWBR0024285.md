@@ -4,7 +4,7 @@ identifier: "BWBR0024285"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-12-03"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024285"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - e. GMDSS: Global Martime Distress and Safety System, het wereldwijde radiocommunicatiesysteem ten behoeve van de veiligheid van de scheepvaart;
 
-- f. zeevaartschool: een door de Minister van Onderwijs, Cultuur en Wetenschap als zodanig erkende instelling, welke op MBO-niveau 3 en 4 een opleiding verzorgt op basis van crebo-codes, KOAS 91940/KOAL 91930 en Maritiem Officier op HBO-niveau, met credo-codes 34384;
+- f. zeevaartschool: een door de Minister van Onderwijs, Cultuur en Wetenschap als zodanig erkende instelling, welke op MBO-niveau 3 en 4 een opleiding verzorgt op basis van opleidingscodes, KOAS 91940/KOAL 91930 en Maritiem Officier op HBO-niveau, met credo-codes 34384;
 
 - g. radiozendamateur: degene die vanuit een persoonlijke belangstelling en zonder financieel oogmerk gebruik maakt van frequentieruimte ten behoeve van het opdoen van vaardigheden, het communiceren via de radio en het doen van technisch onderzoekingen.
 
@@ -78,7 +78,7 @@ Indien een examen door een kandidaat wordt afgelegd bij een examinerende instell
 
 2. Indien feiten of omstandigheden daartoe aanleiding geven, kan de Minister beslissen dat het examen geheel of gedeeltelijk opnieuw moet worden afgenomen.
 
-3. De Minister informeert de betrokken kandida(a)t(en) uiterlijk binnen tien werkdagen na de datum waarop het verslag, bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2015-12-03&g=2015-12-03), is opgemaakt, over de verdere gang van zaken met betrekking tot het geconstateerde voorval.
+3. De Minister informeert de betrokken kandida(a)t(en) uiterlijk binnen tien werkdagen na de datum waarop het verslag, bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2023-01-01&g=2023-01-01), is opgemaakt, over de verdere gang van zaken met betrekking tot het geconstateerde voorval.
 
 ##### Artikel 5
 
@@ -86,7 +86,7 @@ Indien een examen door een kandidaat wordt afgelegd bij een examinerende instell
 
 2. De toestemming is drie maanden geldig en wordt niet verlengd.
 
-3. Een verzoek voor het afleggen van een bijzonder examen wordt gemotiveerd bij de Minister ingediend. Indien nodig verzoekt de kandidaat gemotiveerd om een tijdsduur voor het afleggen van het examen die afwijkt van de tijdsduur als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=10&z=2015-12-03&g=2015-12-03) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=15&z=2015-12-03&g=2015-12-03).
+3. Een verzoek voor het afleggen van een bijzonder examen wordt gemotiveerd bij de Minister ingediend. Indien nodig verzoekt de kandidaat gemotiveerd om een tijdsduur voor het afleggen van het examen die afwijkt van de tijdsduur als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=15&z=2023-01-01&g=2023-01-01).
 
 4. De Minister bepaalt hoe het bijzondere examen wordt afgenomen en stelt zonodig eisen aan de examinator.
 
@@ -122,7 +122,7 @@ Een radiozendamateur voldoet aan de in [artikel 4, tweede lid, van de Regeling g
 
 ##### Artikel 9
 
-De examens in de categorie N, genoemd in [artikel 7, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2015-12-03&g=2015-12-03) en de examens in de categorie F, genoemd in [artikel 7, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2015-12-03&g=2015-12-03), voldoen aan respectievelijk de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=1&z=2015-12-03&g=2015-12-03) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=2&z=2015-12-03&g=2015-12-03).
+De examens in de categorie N, genoemd in [artikel 7, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2023-01-01&g=2023-01-01) en de examens in de categorie F, genoemd in [artikel 7, onder d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=7&z=2023-01-01&g=2023-01-01), voldoen aan respectievelijk de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=1&z=2023-01-01&g=2023-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=2&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 10
 
@@ -146,7 +146,7 @@ Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte m
 
 - c. hij beschikt over het algemeen certificaat maritieme radiocommunicatie, voor het gebruik van apparatuur waarbij in [bijlage 2, punt 5, van de Regeling gebruik van frequentieruimte met meldingsplicht 2015](onbekend) de aanduiding ‘X’ is geplaatst in de kolom ‘MARCOM A’, of
 
-- d. hij beschikt over een erkenning als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=18&z=2015-12-03&g=2015-12-03), voor het betreffende frequentiegebruik.
+- d. hij beschikt over een erkenning als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=18&z=2023-01-01&g=2023-01-01), voor het betreffende frequentiegebruik.
 
 ##### Artikel 13
 
@@ -160,13 +160,13 @@ Aan de in [artikel 4, eerste lid, van de Regeling gebruik van frequentieruimte m
 
 ##### Artikel 14
 
-De examens, bedoeld in [artikel 13, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2015-12-03&g=2015-12-03), voldoen aan respectievelijk de [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=3&z=2015-12-03&g=2015-12-03), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=4&z=2015-12-03&g=2015-12-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=5&z=2015-12-03&g=2015-12-03).
+De examens, bedoeld in [artikel 13, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01), voldoen aan respectievelijk de [bijlagen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=4&z=2023-01-01&g=2023-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=5&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 15
 
 1. Voor zover praktische vaardigheden deel uitmaken van het examen mag de termijn tussen het schriftelijk examen en het praktijkgedeelte ten hoogste vijf jaar bedragen.
 
-2. De tijdsduur van de examens als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2015-12-03&g=2015-12-03) bedraagt:
+2. De tijdsduur van de examens als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01) bedraagt:
 
 - a. voor het examen voor het basiscertificaat marifonie: maximaal zestig minuten;
 
@@ -190,13 +190,13 @@ De examens, bedoeld in [artikel 13, eerste, tweede en derde lid](https://wetten.
 
 ##### Artikel 17
 
-Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2015-12-03&g=2015-12-03) moet de kandidaat de leeftijd van elf jaar hebben bereikt.
+Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01) moet de kandidaat de leeftijd van elf jaar hebben bereikt.
 
 ##### Artikel 18
 
 1. De Minister erkent op verzoek geldige buitenlandse maritieme certificaten van bediening, indien de aanvrager kan aantonen dat de exameneisen van het buitenlandse examen overeenkomen met de eisen gesteld in de ERC/DEC (99)01 of in het Regionaal akkoord met betrekking tot de radiotelefoondienst voor de binnenvaart (Basel-overeenkomst, Stcrt. 2003, 153).
 
-2. Het verzoek wordt door de kandidaat schriftelijk onderbouwd ingediend bij Agentschap Telecom van het Ministerie van Economische Zaken.
+2. Het verzoek wordt door de kandidaat schriftelijk onderbouwd ingediend bij de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 #### Paragraaf 4. Examinerende instellingen
 
@@ -212,25 +212,25 @@ Voor deelname aan een examen als bedoeld in [artikel 13](https://wetten.overheid
 
 1. De aanvraag heeft betrekking op één of meer examensoorten.
 
-2. De Minister toetst de aanvraag aan de criteria, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2015-12-03&g=2015-12-03).
+2. De Minister toetst de aanvraag aan de criteria, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=4&artikel=21&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 21
 
 1. De aanvrager toont aan, voor zover mogelijk door het overleggen van stukken, dat hij ten tijde van het afnemen van de examens kan beschikken over de vereiste kennis en faciliteiten die noodzakelijk zijn voor de door hem af te nemen examens. De aanvrager voldoet in ieder geval aan de volgende criteria:
 
-- a. de aanvrager beschikt over voldoende mogelijkheden om aan [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2015-12-03&g=2015-12-03) te voldoen.
+- a. de aanvrager beschikt over voldoende mogelijkheden om aan [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2023-01-01&g=2023-01-01) te voldoen.
 
-- b. ten aanzien van examens genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=8&z=2015-12-03&g=2015-12-03) en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2015-12-03&g=2015-12-03), beschikt de aanvrager ten minste over:
+- b. ten aanzien van examens genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=2&artikel=8&z=2023-01-01&g=2023-01-01) en [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01), beschikt de aanvrager ten minste over:
 
 - 1. geschikte ruimte;
 
 - 2. voldoende surveillanten.
 
-- c. ten aanzien van de examens genoemd in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2015-12-03&g=2015-12-03), beschikt de aanvrager bovendien over:
+- c. ten aanzien van de examens genoemd in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01), beschikt de aanvrager bovendien over:
 
 - 1. toereikende technische middelen om de vaardigheden te toetsen;
 
-- 2. personen die op basis van een te overleggen certificaat, verkregen na het met goed gevolg afleggen van een examen genoemd in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2015-12-03&g=2015-12-03), in staat worden geacht om de praktische vaardigheden te toetsen.
+- 2. personen die op basis van een te overleggen certificaat, verkregen na het met goed gevolg afleggen van een examen genoemd in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01), in staat worden geacht om de praktische vaardigheden te toetsen.
 
 ##### Artikel 22
 
@@ -238,7 +238,7 @@ Indien de examinerende instelling niet meer voldoet aan de criteria op basis waa
 
 ##### Artikel 23
 
-1. De examinerende instelling neemt examens af in overeenstemming met [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2015-12-03&g=2015-12-03).
+1. De examinerende instelling neemt examens af in overeenstemming met [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2023-01-01&g=2023-01-01).
 
 2. De examinerende instelling verleent op verzoek van de Minister een bijdrage aan het actueel houden van de vragen uit examencategorieën waarvoor zij is aangewezen.
 
@@ -260,7 +260,7 @@ De Minister kan de aanwijzing opschorten indien:
 
 - a. de examinerende instelling naar oordeel van de Minister tijdelijk niet meer voldoet aan de criteria voor aanwijzing;
 
-- b. de examinerende instelling tijdelijk niet geacht wordt in staat te zijn om examens af te nemen in overeenstemming met de procedurele eisen, bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2015-12-03&g=2015-12-03).
+- b. de examinerende instelling tijdelijk niet geacht wordt in staat te zijn om examens af te nemen in overeenstemming met de procedurele eisen, bedoeld in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 26
 
@@ -270,7 +270,7 @@ De Minister kan de aanwijzing geheel of gedeeltelijk intrekken indien:
 
 - b. de examinerende instelling gedurende een jaar niet het minimale aantal examens heeft afgenomen en ook niet aannemelijk is dat dit binnen afzienbare termijn nog zal gebeuren;
 
-- c. de examinerende instelling tekort is geschoten bij de uitvoering van procedurele eisen als bedoeld [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2015-12-03&g=2015-12-03).
+- c. de examinerende instelling tekort is geschoten bij de uitvoering van procedurele eisen als bedoeld [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&bijlage=6&z=2023-01-01&g=2023-01-01).
 
 #### Paragraaf 5. Slotbepalingen en wijziging van de [Regeling vergoedingen Agentschap Telecom 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023043)
 
