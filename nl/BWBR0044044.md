@@ -4,7 +4,7 @@ identifier: "BWBR0044044"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-01"
-last_updated: "2022-09-15"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044044"
 soort: "ministeriele-regeling"
@@ -144,7 +144,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De verklaring omtrent het gedrag, bedoeld in [artikel 74, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), is afgegeven volgens het screeningsprofiel onderwijs.
 
-2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-09-15&g=2022-09-15), als in originele vorm aan DUO verstrekt.
+2. De verklaring omtrent het gedrag wordt zowel via het digitale portaal, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2023-01-01&g=2023-01-01), als in originele vorm aan DUO verstrekt.
 
 ##### Artikel 6. Nadere regels belangstellingsmeting
 
@@ -222,31 +222,31 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. Indien sprake is van verzelfstandiging als bedoeld in [artikel 84a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a):
 
-- a. zijn van [artikel 3 het eerste lid en het tweede lid met uitzondering van onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2022-09-15&g=2022-09-15) van overeenkomstige toepassing;
+- a. zijn van [artikel 3 het eerste lid en het tweede lid met uitzondering van onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=3&z=2023-01-01&g=2023-01-01) van overeenkomstige toepassing;
 
-- b. is [artikel 4, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-09-15&g=2022-09-15), van overeenkomstige toepassing;
+- b. is [artikel 4, eerste lid, met uitzondering van onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2023-01-01&g=2023-01-01), van overeenkomstige toepassing;
 
 - c. is de aanvraag voorzien van een prognose, bedoeld in het derde en vierde lid; en
 
 - d. zijn de melding en de aanvraag voorzien van de instellingscode van de te verzelfstandigen vestiging.
 
-2. Het aantal leerlingen op 1 oktober in het jaar voorafgaand aan de aanvraag, bedoeld in [artikel 84a, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), is van het overblijvende deel van de school minimaal de opheffingsnorm en van de te verzelfstandigen vestiging minimaal de stichtingsnorm.
+2. Het aantal leerlingen op 1 februari in het jaar voorafgaand aan de aanvraag, bedoeld in [artikel 84a, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), is van het overblijvende deel van de school minimaal de opheffingsnorm en van de te verzelfstandigen vestiging minimaal de stichtingsnorm.
 
-3. Het verwachte aantal leerlingen, bedoeld in [artikel 84a, tweede lid, onderdeel b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), van het overblijvende deel van de school wordt berekend door het optellen van het verwachte aantal leerlingen per viercijferig postcodegebied, waaruit het overblijvende deel van de school op 1 oktober in het jaar voorafgaand aan de aanvraag zijn leerlingen betrekt. Het verwachte aantal leerlingen per viercijferig postcodegebied wordt berekend overeenkomstig de formule e = (f / g) * h, waarbij:
+3. Het verwachte aantal leerlingen, bedoeld in [artikel 84a, tweede lid, onderdeel b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), van het overblijvende deel van de school wordt berekend door het optellen van het verwachte aantal leerlingen per viercijferig postcodegebied, waaruit het overblijvende deel van de school op 1 februari in het jaar voorafgaand aan de aanvraag zijn leerlingen betrekt. Het verwachte aantal leerlingen per viercijferig postcodegebied wordt berekend overeenkomstig de formule e = (f / g) * h, waarbij:
 
 - e. = het verwachte aantal leerlingen van het overblijvende deel van de school per betreffende viercijferig postcodegebied;
 
-- f. = het aantal leerlingen van het overblijvende deel van de school op 1 oktober voorafgaande aan het jaar van de aanvraag woonachtig in het betreffende viercijferig postcodegebied;
+- f. = het aantal leerlingen van het overblijvende deel van de school op 1 februari voorafgaande aan het jaar van de aanvraag woonachtig in het betreffende viercijferig postcodegebied;
 
 - g. = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari van het jaar van aanvraag;
 
 - h. = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari in elk van de 10 jaren na het moment van de verzelfstandiging.
 
-4. Het verwachte aantal leerlingen, bedoeld in [artikel 84a, tweede lid, onderdeel b en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), van de school die na verzelfstandiging ontstaat, wordt berekend door het optellen van het verwachte aantal leerlingen per viercijferig postcodegebied waaruit de te verzelfstandigen vestiging op 1 oktober in het jaar voorafgaand aan de aanvraag zijn leerlingen betrekt. Het verwachte aantal leerlingen wordt per viercijferig postcodegebied wordt berekend overeenkomstig de formule i = (j / k) * l, waarbij:
+4. Het verwachte aantal leerlingen, bedoeld in [artikel 84a, tweede lid, onderdeel b en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), van de school die na verzelfstandiging ontstaat, wordt berekend door het optellen van het verwachte aantal leerlingen per viercijferig postcodegebied waaruit de te verzelfstandigen vestiging op 1 februari in het jaar voorafgaand aan de aanvraag zijn leerlingen betrekt. Het verwachte aantal leerlingen wordt per viercijferig postcodegebied wordt berekend overeenkomstig de formule i = (j / k) * l, waarbij:
 
 - i. = het verwachte aantal leerlingen van de te verzelfstandigen vestiging per betreffende viercijferig postcodegebied;
 
-- j. = het aantal leerlingen van de te verzelfstandigen vestiging op 1 oktober voorafgaande aan het jaar van de aanvraag woonachtig in het betreffende viercijferige postcodegebied;
+- j. = het aantal leerlingen van de te verzelfstandigen vestiging op 1 februari voorafgaande aan het jaar van de aanvraag woonachtig in het betreffende viercijferige postcodegebied;
 
 - k. = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari van het jaar van aanvraag;
 
@@ -292,4 +292,4 @@ Deze regeling wordt aangehaald als: Regeling voorzieningenplanning po 2021. Deze
 
 ##### Artikel 4a. Aanvragen tot bekostiging 2022
 
-In afwijking van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2022-09-15&g=2022-09-15), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), dat in de periode van 15 september 2021 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
+In afwijking van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2023-01-01&g=2023-01-01), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), dat in de periode van 15 september 2021 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
