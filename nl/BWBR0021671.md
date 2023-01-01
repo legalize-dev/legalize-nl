@@ -4,7 +4,7 @@ identifier: "BWBR0021671"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2017-03-18"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021671"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Tenzij anders is vermeld, wordt voor de toepassing van de Uitvoeringsregeling pl
 
 3. Voor of bij aanvang van de plaatsgebonden consignatie, als bedoeld in de leden 1 en 2, wordt de locatie bepaald.
 
-4. Voor de Dienst bewaken en beveiligen van de Landelijke eenheid geldt dat de volgende planningsmogelijkheden beschikbaar zijn:
+4. Voor Dienst koninklijke en diplomatieke beveiliging van de Landelijke eenheid geldt dat de volgende planningsmogelijkheden beschikbaar zijn:
 
 - a. in Nederland vindt planning plaats in dienst, plaatsgebonden consignatie of vrije tijd met dien verstande dat:
 
