@@ -4,7 +4,7 @@ identifier: "BWBR0046589"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-07-02"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046589"
 soort: "ministeriele-regeling"
@@ -144,9 +144,13 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 ##### Artikel 1.5. Subsidieplafond
 
-1. Het subsidieplafond voor 2022 is € 25.000.000.
+1. Het subsidieplafond is:
 
-2. De Minister stelt het subsidieplafond vast voor de jaren na 2022 en geeft hiervan kennis in de Staatscourant voor aanvang van het kalenderjaar waarvoor het betreffende subsidieplafond wordt vastgesteld.
+- a. voor het jaar 2022 € 25.000.000;
+
+- b. voor het jaar 2023 € 30.000.000.
+
+2. De Minister stelt het subsidieplafond vast voor de jaren na 2023 en geeft hiervan kennis in de Staatscourant voor aanvang van het kalenderjaar waarvoor het betreffende subsidieplafond wordt vastgesteld.
 
 3. Indien het subsidieplafond wordt bereikt voor afloop van de betreffende kalenderperiode maakt de Minister dit bekend in de Staatscourant.
 
@@ -166,11 +170,9 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 - a. de aanschaf van de nieuwe emissieloze vrachtauto door de aanvrager vindt plaats op basis van een overeenkomst die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten;
 
-- b. ten tijde van de aanvraag om subsidieverlening is de nieuwe emissieloze vrachtauto nog niet tenaamgesteld;
+- b. ten tijde van de aanvraag om subsidieverlening is de nieuwe emissieloze vrachtauto nog niet tenaamgesteld; en
 
-- c. de overeenkomst voor de aanschaf, die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten en niet gedateerd mag zijn voor 1 januari 2022; en
-
-- d. indien de energie voor de aandrijving van de nieuwe emissieloze vrachtauto wordt geleverd door een accupakket mag dit geen lood bevatten.
+- c. indien de energie voor de aandrijving van de nieuwe emissieloze vrachtauto wordt geleverd door een accupakket mag dit geen lood bevatten.
 
 ##### Artikel 2.2. Aanvraag subsidieverlening
 
@@ -180,17 +182,19 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 - a. in 2022 van 9 mei 2022, 9.00 uur tot en met 31 december 2022, 12.00 uur;
 
-- b. in 2023 van 2 januari 2023, 9.00 uur tot en met 31 december 2023, 12.00 uur;
+- b. in 2023 van 4 april 2023, 9.00 uur tot en met 29 december 2023, 12.00 uur;
 
-- c. in 2024 van 2 januari 2024, 9.00 uur tot en met 31 december 2024, 12.00 uur;
+- c. in 2024 van 9 januari 2024, 9.00 uur tot en met 27 december 2024, 12.00 uur;
 
-- d. in 2025 van 2 januari 2025, 9.00 uur tot en met 31 december 2025, 12.00 uur;
+- d. in 2025 van 7 januari 2025, 9.00 uur tot en met 31 december 2025, 12.00 uur;
 
-- e. in 2026 van 2 januari 2026, 9.00 uur tot en met 31 december 2026, 12.00 uur; en
+- e. in 2026 van 6 januari 2026, 9.00 uur tot en met 31 december 2026, 12.00 uur; en
 
-- f. in 2027 van 4 januari 2027, 9.00 uur tot en met 8 mei 2027, 12.00 uur.
+- f. in 2027 van 5 januari 2027, 9.00 uur tot en met 7 mei 2027, 12.00 uur.
 
 3. Als tijdstip van indiening van een aanvraag geldt de datum van ontvangst van de volledige aanvraag.
+
+4. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2023-01-01&g=2023-01-01), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
 
 ##### Artikel 2.3. Gegevensverstrekking aanvraag subsidieverlening
 
@@ -266,9 +270,9 @@ Na vaststelling van de subsidie vindt de betaling van het resterende subsidiebed
 
 ##### Artikel 2.10. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2022-07-02&g=2022-07-02), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2023-01-01&g=2023-01-01), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2022-07-02&g=2022-07-02).
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2023-01-01&g=2023-01-01).
 
 ### Hoofdstuk 3. Verplichtingen
 
