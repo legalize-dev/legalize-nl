@@ -4,7 +4,7 @@ identifier: "BWBR0046444"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-09-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046444"
 soort: "wet"
@@ -62,8 +62,6 @@ Wijzigt de Elektriciteitswet 1998.
 ##### Artikel IVa. [Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259)
 
 Wzijgt de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440)
 
@@ -185,9 +183,9 @@ Wijzigt deze wet.
 
 2. In dat besluit kan worden bepaald dat:
 
-- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2022-09-01&g=2022-09-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
+- a. [artikel XA](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=Xa&z=2023-01-01&g=2023-01-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip;
 
-- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2022-09-01&g=2022-09-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
+- b. [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046444&artikel=XXVIII&z=2023-01-01&g=2023-01-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende onderdelen van genoemd artikel verschillend kan worden vastgesteld.
 
 ##### Artikel XXXII. Citeertitel
 
