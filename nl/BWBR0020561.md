@@ -4,7 +4,7 @@ identifier: "BWBR0020561"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2022-01-02"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020561"
 soort: "ministeriele-regeling"
@@ -54,26 +54,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De Minister kan ten behoeve van het jaar 2022 aan de volgende gemeenten een specifieke uitkering verstrekken voor de kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden, van ten hoogste het bij de desbetreffende gemeente genoemde bedrag, met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
+1. De Minister kan ten behoeve van het jaar 2023 aan de volgende gemeenten een specifieke uitkering verstrekken voor de kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden, van ten hoogste het bij de desbetreffende gemeente genoemde bedrag, met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:
 
-| naam gemeente | aantal behandeleenheden | maximum aantal behandelplaatsen | maximale uitkering 2022 |
+| Amsterdam | 2 | 98 | 2.066.522 |
 | --- | --- | --- | --- |
-| Amsterdam | 2 | 100 | € 2.037.076 |
-| Apeldoorn | 1 | 20 | € 588.756 |
-| Arnhem | 1 | 24 | € 673.535 |
-| Den Haag | 1 | 68 | € 1.307.024 |
-| Deventer | 1 | 20 | € 588.756 |
-| Eindhoven | 1 | 20 | € 588.756 |
-| Enschede | 1 | 25 | € 694.730 |
-| Groningen | 1 | 38 | € 920.809 |
-| Heerlen | 1 | 33 | € 838.385 |
-| ‘s-Hertogenbosch | 1 | 20 | € 588.756 |
-| Leeuwarden | 1 | 30 | € 788.931 |
-| Maastricht | 1 | 20 | € 588.756 |
-| Nijmegen | 1 | 22 | € 631.146 |
-| Rotterdam | 1 | 82 | € 1.471.869 |
-| Tilburg | 1 | 22 | € 631.146 |
-| Utrecht | 1 | 45 | € 1.024.429 |
+| Apeldoorn | 1 | 20 | 604.252 |
+| Arnhem | 1 | 23 | 669.510 |
+| Den Haag | 1 | 65 | 1.305.171 |
+| Deventer | 1 | 20 | 604.252 |
+| Eindhoven | 1 | 20 | 604.252 |
+| Enschede | 1 | 30 | 809.696 |
+| Groningen | 1 | 29 | 790.360 |
+| Heerlen | 1 | 34 | 877.370 |
+| ‘s-Hertogenbosch | 1 | 20 | 604.252 |
+| Leeuwarden | 1 | 28 | 771.024 |
+| Maastricht | 1 | 20 | 604.252 |
+| Nijmegen | 1 | 20 | 604.252 |
+| Rotterdam | 1 | 89 | 1.595.200 |
+| Tilburg | 1 | 22 | 647.757 |
+| Utrecht | 1 | 45 | 1.051.392 |
 
 2. Onder kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.
 
@@ -165,7 +164,7 @@ Het college van burgemeester en wethouders neemt de volgende verantwoordingsinfo
 
 ##### Artikel 11
 
-1. De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2024-01-01&g=2022-01-02), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
+1. De Minister geeft binnen zes maanden na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020561&artikel=10&z=2023-01-01&g=2023-01-01), een beschikking tot vaststelling van de uitkering. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:52](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:52), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) zijn van overeenkomstige toepassing.
 
 2. De specifieke uitkering wordt vastgesteld op een bedrag voor:
 
