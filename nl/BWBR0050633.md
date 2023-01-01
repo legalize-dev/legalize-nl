@@ -4,7 +4,7 @@ identifier: "BWBR0050633"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2021-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050633"
 soort: "ministeriele-regeling"
@@ -103,8 +103,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
