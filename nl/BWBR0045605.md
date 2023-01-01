@@ -4,7 +4,7 @@ identifier: "BWBR0045605"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045605"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Betaalritme bekostiging vo-scholen Europees Nederland
 
-De minister stelt de bekostiging, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=1&artikel=2&z=2022-08-01&g=2022-08-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang. De eerste termijn wordt betaald in januari van het jaar waarop de bekostiging betrekking heeft.
+De minister stelt de bekostiging, bedoeld in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=1&artikel=2&z=2022-08-01&g=2023-01-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang. De eerste termijn wordt betaald in januari van het jaar waarop de bekostiging betrekking heeft.
 
 #### § 2. Bekostiging vo-scholen Caribisch Nederland
 
@@ -238,7 +238,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 10. Betaalritme bekostiging vo-scholen Caribisch Nederland
 
-De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=8&z=2022-08-01&g=2022-08-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=9&z=2022-08-01&g=2022-08-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald vanaf januari van het jaar waarop de bekostiging betrekking heeft conform de percentages in tabel 1.
+De minister stelt de bekostiging, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=8&z=2022-08-01&g=2023-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0045605&paragraaf=2&artikel=9&z=2022-08-01&g=2023-01-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De bekostiging wordt betaald vanaf januari van het jaar waarop de bekostiging betrekking heeft conform de percentages in tabel 1.
 
 | januari | 9,72% | juli | 7,62% |
 | --- | --- | --- | --- |
