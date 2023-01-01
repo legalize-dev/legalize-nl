@@ -4,7 +4,7 @@ identifier: "BWBR0040599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2019-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040599"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Aanwijzing
 
-De Stichting Projectenbureau Publieke Gezondheid en Veiligheid Nederland van de Vereniging Publieke Gezondheid en Veiligheid Nederland te Utrecht, verder te noemen, de Stichting, voor de periode van 1 januari 2019 tot 1 januari 2023 aan te wijzen als de instelling, bedoeld in [artikel 1.61a van de Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.61a).
+De Stichting Projectenbureau Publieke Gezondheid en Veiligheid Nederland van de Vereniging Publieke Gezondheid en Veiligheid Nederland te Utrecht, verder te noemen, de Stichting, voor de periode van 1 januari 2019 tot 1 januari 2027 aan te wijzen als de instelling, bedoeld in [artikel 1.61a van de Wko](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.61a).
 
 ##### Artikel 2. Taken en activiteiten
 
@@ -64,7 +64,7 @@ De Stichting Projectenbureau Publieke Gezondheid en Veiligheid Nederland van de 
 
 2. Met inachtneming van de Uitvoeringsafspraken worden Jaarafspraken gemaakt waarin is vastgelegd welke specifieke Diensten door de Stichting worden geleverd en welke financiële middelen daartoe door mij beschikbaar worden gesteld.
 
-3. Binnen de bepalingen van de Uitvoeringsafspraken legt de Stichting de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040599&artikel=2&z=2019-01-01&g=2019-01-01) bedoelde voorgenomen activiteiten in een Jaarplan inclusief Begroting aan mij voor.
+3. Binnen de bepalingen van de Uitvoeringsafspraken legt de Stichting de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040599&artikel=2&z=2023-01-01&g=2023-01-01) bedoelde voorgenomen activiteiten in een Jaarplan inclusief Begroting aan mij voor.
 
 4. De Stichting ontvangt ter uitvoering van de in het Jaarplan genoemde voorgenomen activiteiten na mijn goedkeuring een financiële vergoeding.
 
@@ -76,10 +76,8 @@ De Stichting Projectenbureau Publieke Gezondheid en Veiligheid Nederland van de 
 
 3. Deze aanwijzing kan worden ingetrokken met inachtneming van een termijn van één volledig kalenderjaar, indien een zodanige verandering van omstandigheden is opgetreden dat de aanwijzing billijkheidshalve op korte termijn behoort te eindigen. Onder verandering van omstandigheden wordt mede begrepen gewijzigde politieke inzichten. De intrekking moet de verandering van omstandigheden vermelden.
 
-4. Indien de Stichting met ingang van 1 januari 2023 niet opnieuw wordt aangewezen, wordt dit vóór 1 januari 2022 aan de Stichting kenbaar gemaakt.
+4. Indien de Stichting met ingang van 1 januari 2027 niet opnieuw wordt aangewezen, wordt dit vóór 1 januari 2026 aan de Stichting kenbaar gemaakt.
 
-##### Artikel 5. Inwerkingtreding
+##### Artikel 5. Vervaldatum
 
-1. Deze beschikking treedt in werking met ingang van 1 januari 2019 en vervalt met ingang van 1 januari 2023.
-
-2. Deze beschikking wordt in de Staatscourant geplaatst.
+Deze beschikking vervalt met ingang van 1 januari 2027.
