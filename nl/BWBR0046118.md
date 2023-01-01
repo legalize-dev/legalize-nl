@@ -4,7 +4,7 @@ identifier: "BWBR0046118"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-07-01"
-last_updated: "2022-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046118"
 soort: "AMvB"
@@ -88,21 +88,21 @@ De **artikelen 1a en 1b** van het [Uitvoeringsbesluit Algemene wet inkomensafhan
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2022, met dien verstande dat:
 
-- a. de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=XI&z=2022-07-01&g=2022-07-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=XII&z=2022-07-01&g=2022-07-01) terugwerken tot en met 1 januari 2021;
+- a. de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=XI&z=2023-01-01&g=2023-01-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=XII&z=2023-01-01&g=2023-01-01) terugwerken tot en met 1 januari 2021;
 
-- b. de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=IV&z=2022-07-01&g=2022-07-01) en [IX, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=IX&z=2022-07-01&g=2022-07-01), terugwerken tot en met 1 juli 2021.
+- b. de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=IV&z=2023-01-01&g=2023-01-01) en [IX, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=IX&z=2023-01-01&g=2023-01-01), terugwerken tot en met 1 juli 2021.
 
 2. In afwijking van het eerste lid:
 
-- a. treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=II&z=2022-07-01&g=2022-07-01) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt dat artikel terug tot en met 1 januari 2022, met dien verstande dat dat artikel voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2022;
+- a. treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=II&z=2023-01-01&g=2023-01-01) in werking met ingang van de dag die is gelegen acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt dat artikel terug tot en met 1 januari 2022, met dien verstande dat dat artikel voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2022;
 
-- b. treedt [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=III&z=2022-07-01&g=2022-07-01), in werking met ingang van 1 april 2022;
+- b. treedt [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=III&z=2023-01-01&g=2023-01-01), in werking met ingang van 1 april 2022;
 
-- c. treedt [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=V&z=2022-07-01&g=2022-07-01), in werking met ingang van 1 juli 2022;
+- c. treedt [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=V&z=2023-01-01&g=2023-01-01), in werking met ingang van 1 juli 2022;
 
-- d. treedt [artikel V, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=V&z=2022-07-01&g=2022-07-01), in werking met ingang van 1 januari 2023;
+- d. treedt [artikel V, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=V&z=2023-01-01&g=2023-01-01), in werking met ingang van 1 januari 2023;
 
-- e. treedt [artikel V, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=V&z=2022-07-01&g=2022-07-01), in werking met ingang van 1 juli 2023.
+- e. treedt [artikel V, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0046118&artikel=V&z=2023-01-01&g=2023-01-01), in werking met ingang van 1 juli 2023.
 
 Op de voordracht van de Staatssecretaris van Financiën van 19 november 2021, nr. 2021-0000228261.
 
