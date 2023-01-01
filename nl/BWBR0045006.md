@@ -4,7 +4,7 @@ identifier: "BWBR0045006"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-26"
-last_updated: "2022-04-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045006"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Voor de schooljaren 2021–2022 en 2022–2023 verstrekt de minister per schoolj
 
 ##### Artikel 3. Bekostiging en verdeling van de middelen
 
-1. De aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2022-04-01&g=2022-04-01), bestaat uit een bedrag per leerling.
+1. De aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2022-04-01&g=2023-01-01), bestaat uit een bedrag per leerling.
 
 2. De hoogte van de bekostiging voor de periode tot en met 31 december 2022 wordt berekend op grond van het aantal leerlingen dat is ingeschreven aan de school op 1 oktober van het jaar voorafgaand aan het schooljaar waarvoor de bijzondere bekostiging wordt verstrekt, met dien verstande dat voor het schooljaar waarin een nieuwe school wordt geopend, het aantal leerlingen van de school op 1 oktober volgende op de opening geldt. De hoogte van de bekostiging voor de periode van 1 januari 2023 tot en met 31 juli 2023 wordt berekend op grond van het aantal leerlingen dat is ingeschreven aan de school op 1 februari 2022, met dien verstande dat voor nieuwe scholen die op 1 augustus 2022 zijn geopend, het aantal leerlingen aan de school op 1 februari 2023 geldt.
 
@@ -70,13 +70,13 @@ Voor de schooljaren 2021–2022 en 2022–2023 verstrekt de minister per schoolj
 
 ##### Artikel 4. Besteding en verantwoording
 
-De verantwoording van de besteding van de bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2022-04-01&g=2022-04-01), geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
+De verantwoording van de besteding van de bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2022-04-01&g=2023-01-01), geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
 ##### Artikel 5. Monitor en evaluatie
 
 1. De minister monitort jaarlijks de effecten van deze regeling op landelijk niveau. Uiterlijk in 2023 wordt deze regeling geëvalueerd.
 
-2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie overlegt het bestuur van de school desgevraagd een samenhangend overzicht van de gepleegde inspanningen ten behoeve van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2022-04-01&g=2022-04-01) bedoelde doelen.
+2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie overlegt het bestuur van de school desgevraagd een samenhangend overzicht van de gepleegde inspanningen ten behoeve van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045006&artikel=2&z=2022-04-01&g=2023-01-01) bedoelde doelen.
 
 ##### Artikel 6. Inwerkingtreding
 
