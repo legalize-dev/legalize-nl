@@ -4,7 +4,7 @@ identifier: "BWBR0009024"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009024"
 soort: "AMvB"
@@ -56,9 +56,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. Centraal register opleidingen hoger onderwijs: het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- a. Registratie instellingen en opleidingen: het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
-- b. instelling: een instelling als bedoeld in artikel 1.8 dan wel aangewezen krachtens [artikel 1.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.11);
+- b. instelling: een instelling als bedoeld in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) dan wel aangewezen krachtens [artikel 1.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.11);
 
 - c. studiepunt: veertig uren studie.
 
@@ -66,19 +66,19 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Het recht tot het voeren van de titel van radiodiagnostisch laborant is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor medisch beeldvormende en radiotherapeutische technieken die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=II&artikel=3&z=2022-08-01&g=2022-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=II&artikel=4&z=2022-08-01&g=2022-08-01) gestelde, alsmede aan degene aan wie door een door Onze Minister krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2022-08-01&g=2022-08-01), aangewezen examenorganisatie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg voor de door die examenorganisatie ingestelde examencommissie het examen voor radiodiagnostisch laborant heeft afgelegd.
+1. Het recht tot het voeren van de titel van radiodiagnostisch laborant is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor medisch beeldvormende en radiotherapeutische technieken die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan het in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=II&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=II&artikel=4&z=2023-01-01&g=2023-01-01) gestelde, alsmede aan degene aan wie door een door Onze Minister krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2023-01-01&g=2023-01-01), aangewezen examenorganisatie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg voor de door die examenorganisatie ingestelde examencommissie het examen voor radiodiagnostisch laborant heeft afgelegd.
 
-2. Het recht tot het voeren van de titel van radiotherapeutisch laborant is voorbehouden aan degene aan wie het in het eerste lid bedoelde getuigschrift ter zake van medisch beeldvormende en radiotherapeutische technieken is uitgereikt, alsmede aan degene aan wie door een door Onze Minister krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2022-08-01&g=2022-08-01), aangewezen examenorganisatie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg voor de door die examenorganisatie ingestelde examencommissie het examen voor radiotherapeutisch laborant heeft afgelegd.
+2. Het recht tot het voeren van de titel van radiotherapeutisch laborant is voorbehouden aan degene aan wie het in het eerste lid bedoelde getuigschrift ter zake van medisch beeldvormende en radiotherapeutische technieken is uitgereikt, alsmede aan degene aan wie door een door Onze Minister krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2023-01-01&g=2023-01-01), aangewezen examenorganisatie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg voor de door die examenorganisatie ingestelde examencommissie het examen voor radiotherapeutisch laborant heeft afgelegd.
 
 ### HOOFDSTUK II. OPLEIDING VOOR MEDISCH BEELDVORMENDE EN RADIOTHERAPEUTISCHE TECHNIEKEN
 
 ##### Artikel 3
 
-Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=I&paragraaf=2&artikel=2&z=2022-08-01&g=2022-08-01), omvat ten minste de volgende onderdelen:
+Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=I&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), omvat ten minste de volgende onderdelen:
 
-- a. het centrale vakgebied radiodiagnostiek met een studielast van ten minste 15 studiepunten, omvattende ten minste de in [artikel 26, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VI&artikel=26&z=2022-08-01&g=2022-08-01), bedoelde aspecten van het uitvoeren van een radiodiagnostisch onderzoek;
+- a. het centrale vakgebied radiodiagnostiek met een studielast van ten minste 15 studiepunten, omvattende ten minste de in [artikel 26, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VI&artikel=26&z=2023-01-01&g=2023-01-01), bedoelde aspecten van het uitvoeren van een radiodiagnostisch onderzoek;
 
-- b. het centrale vakgebied radiotherapie met een studielast van ten minste 16 studiepunten, omvattende ten minste de in [artikel 27, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VII&artikel=27&z=2022-08-01&g=2022-08-01), bedoelde aspecten van het uitvoeren van een bestralingsbehandeling;
+- b. het centrale vakgebied radiotherapie met een studielast van ten minste 16 studiepunten, omvattende ten minste de in [artikel 27, onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VII&artikel=27&z=2023-01-01&g=2023-01-01), bedoelde aspecten van het uitvoeren van een bestralingsbehandeling;
 
 - c. stages radiodiagnostiek en radiotherapie met een gezamenlijke studielast van ten minste 35 studiepunten;
 
@@ -88,7 +88,7 @@ Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als b
 
 ##### Artikel 4
 
-1. De in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=II&artikel=3&z=2022-08-01&g=2022-08-01), bedoelde stages omvatten het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid zoals omschreven in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VI&artikel=26&z=2022-08-01&g=2022-08-01) onderscheidenlijk [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VII&artikel=27&z=2022-08-01&g=2022-08-01).
+1. De in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=II&artikel=3&z=2023-01-01&g=2023-01-01), bedoelde stages omvatten het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid zoals omschreven in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VI&artikel=26&z=2023-01-01&g=2023-01-01) onderscheidenlijk [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VII&artikel=27&z=2023-01-01&g=2023-01-01).
 
 2. De stages radiodiagnostiek en radiotherapie vinden plaats in het derde en vierde leerjaar onder begeleiding van een daartoe door de instelling aangewezen docent en worden doorgebracht onder toezicht van een radiodiagnostisch laborant onderscheidenlijk radiotherapeutisch laborant.
 
@@ -96,11 +96,11 @@ Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als b
 
 ##### Artikel 5
 
-1. Onze Minister kan op hun daartoe strekkend verzoek examenorganisaties aanwijzen, onder verantwoordelijkheid waarvan examencommissies worden samengesteld ten overstaan waarvan de examens, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2022-08-01&g=2022-08-01) dan wel [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2022-08-01&g=2022-08-01), worden afgelegd.
+1. Onze Minister kan op hun daartoe strekkend verzoek examenorganisaties aanwijzen, onder verantwoordelijkheid waarvan examencommissies worden samengesteld ten overstaan waarvan de examens, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2023-01-01&g=2023-01-01) dan wel [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), worden afgelegd.
 
 2. Voor aanwijzing komt in aanmerking een examenorganisatie die:
 
-- a. naar het oordeel van Onze Minister in voldoende mate bewerkstelligt dat de kandidaten voldoen aan de voor de toelating tot de examens gestelde eisen, bedoeld in [de artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2022-08-01&g=2022-08-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=14&z=2022-08-01&g=2022-08-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=16&z=2022-08-01&g=2022-08-01), dan wel [22](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2022-08-01&g=2022-08-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=23&z=2022-08-01&g=2022-08-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=25&z=2022-08-01&g=2022-08-01), en dat de voorschriften met betrekking tot de examens, gesteld krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=7&z=2022-08-01&g=2022-08-01), en die, bedoeld in [de artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2022-08-01&g=2022-08-01), dan wel 17 tot en met 21, worden nageleefd;
+- a. naar het oordeel van Onze Minister in voldoende mate bewerkstelligt dat de kandidaten voldoen aan de voor de toelating tot de examens gestelde eisen, bedoeld in [de artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=14&z=2023-01-01&g=2023-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=16&z=2023-01-01&g=2023-01-01), dan wel [22](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=23&z=2023-01-01&g=2023-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=25&z=2023-01-01&g=2023-01-01), en dat de voorschriften met betrekking tot de examens, gesteld krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=7&z=2023-01-01&g=2023-01-01), en die, bedoeld in [de artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2023-01-01&g=2023-01-01), dan wel 17 tot en met 21, worden nageleefd;
 
 - b. zorg draagt voor het op systematische wijze bewaken, beheersen en verbeteren van de kwaliteit van de examens;
 
@@ -114,11 +114,11 @@ Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als b
 
 ##### Artikel 6
 
-Het in [artikel 5, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2022-08-01&g=2022-08-01), bedoelde examenreglement bevat ten minste:
+Het in [artikel 5, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2023-01-01&g=2023-01-01), bedoelde examenreglement bevat ten minste:
 
-- a. een regeling met betrekking tot de inhoud van de in [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2022-08-01&g=2022-08-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2022-08-01&g=2022-08-01) genoemde examenonderdelen, en de wijze waarop deze worden afgenomen en beoordeeld;
+- a. een regeling met betrekking tot de inhoud van de in [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2023-01-01&g=2023-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01) genoemde examenonderdelen, en de wijze waarop deze worden afgenomen en beoordeeld;
 
-- b. een omschrijving van de leerstof voor de in [de artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=9&z=2022-08-01&g=2022-08-01) en [18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=18&z=2022-08-01&g=2022-08-01) omschreven examenonderdelen, een verdeling van het in [de artikelen 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2022-08-01&g=2022-08-01), en [22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2022-08-01&g=2022-08-01), genoemde aantal studiepunten over deze onderdelen, alsmede vereisten ten aanzien van de deskundigheid van de docenten die het onderricht verzorgen;
+- b. een omschrijving van de leerstof voor de in [de artikelen 9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=9&z=2023-01-01&g=2023-01-01) en [18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=18&z=2023-01-01&g=2023-01-01) omschreven examenonderdelen, een verdeling van het in [de artikelen 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), en [22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), genoemde aantal studiepunten over deze onderdelen, alsmede vereisten ten aanzien van de deskundigheid van de docenten die het onderricht verzorgen;
 
 - c. een regeling van de procedure bij verschil van mening in de examencommissie over het toe te kennen cijfer;
 
@@ -128,13 +128,13 @@ Het in [artikel 5, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 7
 
-Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot de in [de Hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&z=2022-08-01&g=2022-08-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&z=2022-08-01&g=2022-08-01) bedoelde examens.
+Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot de in [de Hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&z=2023-01-01&g=2023-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&z=2023-01-01&g=2023-01-01) bedoelde examens.
 
 ### HOOFDSTUK IV. BEPALINGEN BETREFFENDE HET EXAMEN VOOR RADIODIAGNOSTISCH LABORANT
 
 ##### Artikel 8
 
-1. Het examen voor radiodiagnostisch laborant betreft de eindbeoordeling van de kennis en het inzicht van de kandidaat ter zake van de radiodiagnostiek voor zover betrekking hebbend op het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VI&artikel=26&z=2022-08-01&g=2022-08-01) omschreven deskundigheidsgebied van de radiodiagnostisch laborant.
+1. Het examen voor radiodiagnostisch laborant betreft de eindbeoordeling van de kennis en het inzicht van de kandidaat ter zake van de radiodiagnostiek voor zover betrekking hebbend op het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VI&artikel=26&z=2023-01-01&g=2023-01-01) omschreven deskundigheidsgebied van de radiodiagnostisch laborant.
 
 2. Het examen omvat de volgende onderdelen:
 
@@ -190,13 +190,13 @@ Het examenonderdeel stralingshygiëne omvat:
 
 ##### Artikel 13
 
-1. De kandidaat wordt slechts tot de in [artikel 8, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2022-08-01&g=2022-08-01), bedoelde examenonderdelen toegelaten, indien hij overlegt:
+1. De kandidaat wordt slechts tot de in [artikel 8, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2023-01-01&g=2023-01-01), bedoelde examenonderdelen toegelaten, indien hij overlegt:
 
-- a. een diploma van een ingevolge de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) bekostigde openbare of bekostigde of aangewezen bijzondere school of afdeling voor h.a.v.o., hetzij het Staatsdiploma h.a.v.o., hetzij een door een door Onze Minister krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2022-08-01&g=2022-08-01), aangewezen examenorganisatie met een van deze bescheiden gelijkgesteld diploma, getuigschrift of verklaring, of een zodanig stuk ten aanzien waarvan Onze Minister heeft verklaard dat het overleggen daarvan in het gegeven geval voldoende is;
+- a. een diploma van een ingevolge de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) bekostigde openbare of bekostigde of aangewezen bijzondere school of afdeling voor h.a.v.o., hetzij het Staatsdiploma h.a.v.o., hetzij een door een door Onze Minister krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2023-01-01&g=2023-01-01), aangewezen examenorganisatie met een van deze bescheiden gelijkgesteld diploma, getuigschrift of verklaring, of een zodanig stuk ten aanzien waarvan Onze Minister heeft verklaard dat het overleggen daarvan in het gegeven geval voldoende is;
 
-- b. een bewijsstuk waaruit blijkt dat de kandidaat onderricht heeft gevolgd in de in [artikel 8, tweede lid, onder a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2022-08-01&g=2022-08-01), genoemde examenonderdelen met een gezamenlijke studielast van 42 studiepunten.
+- b. een bewijsstuk waaruit blijkt dat de kandidaat onderricht heeft gevolgd in de in [artikel 8, tweede lid, onder a, b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2023-01-01&g=2023-01-01), genoemde examenonderdelen met een gezamenlijke studielast van 42 studiepunten.
 
-2. De kandidaat wordt slechts tot het in [artikel 8, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2022-08-01&g=2022-08-01), bedoelde examenonderdeel toegelaten, indien hij overlegt:
+2. De kandidaat wordt slechts tot het in [artikel 8, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2023-01-01&g=2023-01-01), bedoelde examenonderdeel toegelaten, indien hij overlegt:
 
 - a. een opleidingsboek, niet ouder dan drie jaren, opgemaakt volgens een door een in het eerste lid, onder a, bedoelde examenorganisatie vast te stellen model, waaruit blijkt dat de kandidaat een praktijkopleiding heeft genoten op de radiodiagnostische afdeling van een algemeen ziekenhuis of radiotherapeutisch instituut met een totale studielast van 84 studiepunten;
 
@@ -204,17 +204,17 @@ Het examenonderdeel stralingshygiëne omvat:
 
 ##### Artikel 14
 
-In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2022-08-01&g=2022-08-01) kan de kandidaat die in het bezit is van het getuigschrift van radiotherapeutisch laborant volstaan met het overleggen van dat getuigschrift en de in [artikel 13, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2022-08-01&g=2022-08-01), bedoelde bescheiden, met dien verstande dat:
+In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01) kan de kandidaat die in het bezit is van het getuigschrift van radiotherapeutisch laborant volstaan met het overleggen van dat getuigschrift en de in [artikel 13, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), bedoelde bescheiden, met dien verstande dat:
 
-- a. het bewijsstuk, bedoeld in [artikel 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2022-08-01&g=2022-08-01), betrekking heeft op het door een in onderdeel **a** van dat lid bedoelde examenorganisatie voor de onderhavige categorie van kandidaten vast te stellen vereiste onderricht, en
+- a. het bewijsstuk, bedoeld in [artikel 13, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), betrekking heeft op het door een in onderdeel **a** van dat lid bedoelde examenorganisatie voor de onderhavige categorie van kandidaten vast te stellen vereiste onderricht, en
 
-- b. het opleidingsboek, bedoeld in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2022-08-01&g=2022-08-01), betrekking heeft op een studielast van 42 studiepunten.
+- b. het opleidingsboek, bedoeld in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), betrekking heeft op een studielast van 42 studiepunten.
 
 ##### Artikel 15
 
 1. De kandidaat is voor het examen geslaagd, indien hij alle onderdelen van het examen met voldoende resultaat heeft afgelegd.
 
-2. Indien de kandidaat voor een of meer van de onderdelen van het examen een onvoldoende resultaat heeft behaald en hij niet in aanmerking komt voor een herexamen als bedoeld in [artikel 6, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=6&z=2022-08-01&g=2022-08-01), wordt hij afgewezen voor het examen.
+2. Indien de kandidaat voor een of meer van de onderdelen van het examen een onvoldoende resultaat heeft behaald en hij niet in aanmerking komt voor een herexamen als bedoeld in [artikel 6, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=6&z=2023-01-01&g=2023-01-01), wordt hij afgewezen voor het examen.
 
 ##### Artikel 16
 
@@ -222,7 +222,7 @@ In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&ho
 
 - a. een bewijsstuk heeft overgelegd, waaruit blijkt dat hij voorafgaande aan de tweede toelating een aanvullende praktijkopleiding heeft genoten met een totale studielast van 17 studiepunten;
 
-- b. een bewijsstuk heeft overgelegd, waaruit blijkt dat hij voorafgaande aan de tweede toelating aanvullend onderricht heeft gevolgd in de in [artikel 8, tweede lid, onder a,b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2022-08-01&g=2022-08-01), genoemde examenonderdelen met een door een in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2022-08-01&g=2022-08-01), bedoelde examenorganisatie vast te stellen studielast;
+- b. een bewijsstuk heeft overgelegd, waaruit blijkt dat hij voorafgaande aan de tweede toelating aanvullend onderricht heeft gevolgd in de in [artikel 8, tweede lid, onder a,b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2023-01-01&g=2023-01-01), genoemde examenonderdelen met een door een in [artikel 13, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), bedoelde examenorganisatie vast te stellen studielast;
 
 - c. een bewijsstuk heeft overgelegd, waaruit blijkt dat het door Onze Minister vastgestelde examengeld is betaald.
 
@@ -232,7 +232,7 @@ In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&ho
 
 ##### Artikel 17
 
-1. Het examen voor radiotherapeutisch laborant betreft de eindbeoordeling van de kennis en het inzicht van de kandidaat ter zake van de radiotherapie voor zover betrekking hebbend op het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VII&artikel=27&z=2022-08-01&g=2022-08-01) omschreven deskundigheidsgebied van de radiotherapeutisch laborant.
+1. Het examen voor radiotherapeutisch laborant betreft de eindbeoordeling van de kennis en het inzicht van de kandidaat ter zake van de radiotherapie voor zover betrekking hebbend op het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VII&artikel=27&z=2023-01-01&g=2023-01-01) omschreven deskundigheidsgebied van de radiotherapeutisch laborant.
 
 2. Het examen omvat de volgende onderdelen:
 
@@ -290,13 +290,13 @@ Het examenonderdeel stralingshygiëne omvat:
 
 ##### Artikel 22
 
-1. De kandidaat wordt slechts tot de in [artikel 17, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2022-08-01&g=2022-08-01), bedoelde examenonderdelen toegelaten, indien hij overlegt:
+1. De kandidaat wordt slechts tot de in [artikel 17, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), bedoelde examenonderdelen toegelaten, indien hij overlegt:
 
-- a. een diploma van een ingevolge de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) bekostigde openbare of bekostigde of aangewezen bijzondere school of afdeling voor h.a.v.o., hetzij het Staatsdiploma h.a.v.o., hetzij een door een door Onze Minister krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2022-08-01&g=2022-08-01), aangewezen examenorganisatie met een van deze bescheiden gelijkgesteld diploma, getuigschrift of verklaring, of een zodanig stuk ten aanzien waarvan Onze Minister heeft verklaard dat het overleggen daarvan in het gegeven geval voldoende is;
+- a. een diploma van een ingevolge de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) bekostigde openbare of bekostigde of aangewezen bijzondere school of afdeling voor h.a.v.o., hetzij het Staatsdiploma h.a.v.o., hetzij een door een door Onze Minister krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2023-01-01&g=2023-01-01), aangewezen examenorganisatie met een van deze bescheiden gelijkgesteld diploma, getuigschrift of verklaring, of een zodanig stuk ten aanzien waarvan Onze Minister heeft verklaard dat het overleggen daarvan in het gegeven geval voldoende is;
 
-- b. een bewijsstuk waaruit blijkt dat de kandidaat onderricht heeft gevolgd in de in [artikel 17, tweede lid, onder a,b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2022-08-01&g=2022-08-01), genoemde examenonderdelen met een gezamenlijke studielast van 42 studiepunten.
+- b. een bewijsstuk waaruit blijkt dat de kandidaat onderricht heeft gevolgd in de in [artikel 17, tweede lid, onder a,b, en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), genoemde examenonderdelen met een gezamenlijke studielast van 42 studiepunten.
 
-2. De kandidaat wordt slechts tot het in [artikel 17, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2022-08-01&g=2022-08-01), bedoelde examenonderdeel toegelaten, indien hij overlegt:
+2. De kandidaat wordt slechts tot het in [artikel 17, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), bedoelde examenonderdeel toegelaten, indien hij overlegt:
 
 - a. een opleidingsboek, niet ouder dan drie jaren, opgemaakt volgens een door een in het eerste lid, onder a, bedoelde examenorganisatie vast te stellen model, waaruit blijkt dat de kandidaat een praktijkopleiding heeft genoten op de radiotherapeutische afdeling van een algemeen ziekenhuis of in een radiotherapeutisch instituut met een totale studielast van 84 studiepunten;
 
@@ -304,17 +304,17 @@ Het examenonderdeel stralingshygiëne omvat:
 
 ##### Artikel 23
 
-In afwijking van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2022-08-01&g=2022-08-01) kan de kandidaat die in het bezit is van het getuigschrift van radiodiagnostisch laborant volstaan met het overleggen van dat getuigschrift en de in [artikel 22, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2022-08-01&g=2022-08-01), bedoelde bescheiden, met dien verstande dat:
+In afwijking van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01) kan de kandidaat die in het bezit is van het getuigschrift van radiodiagnostisch laborant volstaan met het overleggen van dat getuigschrift en de in [artikel 22, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), bedoelde bescheiden, met dien verstande dat:
 
-- a. het bewijsstuk, bedoeld in [artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2022-08-01&g=2022-08-01), betrekking heeft op het door een in onderdeel a van dat lid bedoelde examenorganisatie voor de onderhavige categorie van kandidaten vast te stellen vereiste onderricht, en
+- a. het bewijsstuk, bedoeld in [artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), betrekking heeft op het door een in onderdeel a van dat lid bedoelde examenorganisatie voor de onderhavige categorie van kandidaten vast te stellen vereiste onderricht, en
 
-- b. het opleidingsboek, bedoeld in [artikel 22, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2022-08-01&g=2022-08-01), betrekking heeft op een studielast van 42 studiepunten.
+- b. het opleidingsboek, bedoeld in [artikel 22, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), betrekking heeft op een studielast van 42 studiepunten.
 
 ##### Artikel 24
 
 1. De kandidaat is voor het examen geslaagd, indien hij alle onderdelen van het examen met voldoende resultaat heeft afgelegd.
 
-2. Indien de kandidaat voor een of meer van de onderdelen van het examen een onvoldoende resultaat heeft behaald en hij niet in aanmerking komt voor een herexamen als bedoeld in [artikel 6, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=6&z=2022-08-01&g=2022-08-01), wordt hij afgewezen voor het examen.
+2. Indien de kandidaat voor een of meer van de onderdelen van het examen een onvoldoende resultaat heeft behaald en hij niet in aanmerking komt voor een herexamen als bedoeld in [artikel 6, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=6&z=2023-01-01&g=2023-01-01), wordt hij afgewezen voor het examen.
 
 ##### Artikel 25
 
@@ -322,7 +322,7 @@ In afwijking van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&ho
 
 - a. een bewijsstuk heeft overgelegd, waaruit blijkt dat hij voorafgaande aan de tweede toelating een aanvullende praktijkopleiding heeft genoten met een totale studielast van 17 studiepunten;
 
-- b. een bewijsstuk heeft overgelegd, waaruit blijkt dat hij voorafgaande aan de tweede toelating aanvullend onderricht heeft gevolgd in de in [artikel 17, tweede lid, onder **a**, **b**, en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2022-08-01&g=2022-08-01), genoemde examenonderdelen met een door een in [artikel 22, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2022-08-01&g=2022-08-01), bedoelde examenorganisatie vast te stellen studielast;
+- b. een bewijsstuk heeft overgelegd, waaruit blijkt dat hij voorafgaande aan de tweede toelating aanvullend onderricht heeft gevolgd in de in [artikel 17, tweede lid, onder **a**, **b**, en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), genoemde examenonderdelen met een door een in [artikel 22, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), bedoelde examenorganisatie vast te stellen studielast;
 
 - c. een bewijsstuk heeft overgelegd, waaruit blijkt dat het door Onze Minister vastgestelde examengeld is betaald.
 
