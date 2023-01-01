@@ -4,7 +4,7 @@ identifier: "BWBR0045163"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2021-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045163"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **besluit:** [Besluit beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041520);
 
-- **ISMS:** Information Security Management System als bedoeld in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01);
+- **ISMS:** Information Security Management System als bedoeld in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01);
 
 - **risicoanalyse:** risicoanalyse als bedoeld in onderdeel 1 van de [bijlage bij artikel 3a, eerste lid, van het besluit](onbekend).
 
@@ -58,9 +58,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Reikwijdte
 
-1. Deze regeling is van toepassing op iedere AED in de sectoren drinkwater en vervoer, onderdelen luchtvervoer en vervoer over water, voor zover het de netwerk- en informatiesystemen betreft die gebruikt worden voor de essentiële dienst.
+1. Deze regeling is van toepassing op iedere AED in de sectoren drinkwater en vervoer, voor zover het de netwerk- en informatiesystemen betreft die gebruikt worden voor de essentiële dienst.
 
-2. Bij het nemen van de maatregelen, opgenomen in onderdelen 1 tot en met 5 van de [bijlage bij artikel 3a van het besluit](onbekend), past de AED de [paragrafen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&z=2021-07-01&g=2021-07-01) toe.
+2. Bij het nemen van de maatregelen, opgenomen in onderdelen 1 tot en met 5 van de [bijlage bij artikel 3a van het besluit](onbekend), past de AED de [paragrafen 3 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&z=2023-01-01&g=2023-01-01) toe.
 
 #### Paragraaf 3. ISMS en risicoanalyse
 
@@ -70,9 +70,9 @@ In deze regeling wordt verstaan onder:
 
 2. Het ISMS stelt de AED in staat om maatregelen te nemen, uit te voeren en waar nodig bij te stellen met als doel op een structurele wijze risico’s terug te brengen tot een acceptabel niveau.
 
-3. Het ISMS omvat omschrijvingen van het beleid, de processen en procedures, gericht op de maatregelen, bedoeld in de [paragrafen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&z=2021-07-01&g=2021-07-01).
+3. Het ISMS omvat omschrijvingen van het beleid, de processen en procedures, gericht op de maatregelen, bedoeld in de [paragrafen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&z=2023-01-01&g=2023-01-01).
 
-4. Het ISMS ondersteunt de AED bij het toepassen van de continue verbetercyclus, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01).
+4. Het ISMS ondersteunt de AED bij het toepassen van de continue verbetercyclus, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01).
 
 5. De AED beschikt over een document waarin is vastgelegd op welke wijze uitvoering is gegeven aan het eerste lid.
 
@@ -224,9 +224,9 @@ Het crisis- of bedrijfscontinuïteitsplan wordt ten minste jaarlijks getest op d
 
 ##### Artikel 24. Rechtsvermoeden
 
-1. Een AED kan aantonen dat de [paragrafen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&z=2021-07-01&g=2021-07-01) zijn toegepast, door aan te tonen dat een met deze regeling tenminste gelijkwaardige sectorspecifieke norm wordt toegepast.
+1. Een AED kan aantonen dat de [paragrafen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&z=2023-01-01&g=2023-01-01) zijn toegepast, door aan te tonen dat een met deze regeling tenminste gelijkwaardige sectorspecifieke norm wordt toegepast.
 
-2. De Beveiligingsnorm Procesautomatisering, zoals vastgesteld op 28 maart 2019 door de drinkwaterbedrijven gezamenlijk en die geldt voor de sector drinkwater, wordt vermoed tenminste gelijkwaardig te zijn met deze regeling, behoudens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=3&z=2021-07-01&g=2021-07-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=4&z=2021-07-01&g=2021-07-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=5&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=7&z=2021-07-01&g=2021-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=5&artikel=9&z=2021-07-01&g=2021-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=5&artikel=10&z=2021-07-01&g=2021-07-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=12&z=2021-07-01&g=2021-07-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=13&z=2021-07-01&g=2021-07-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=15&z=2021-07-01&g=2021-07-01) en [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=8&artikel=23&z=2021-07-01&g=2021-07-01).
+2. De Beveiligingsnorm Procesautomatisering, zoals vastgesteld op 28 maart 2019 door de drinkwaterbedrijven gezamenlijk en die geldt voor de sector drinkwater, wordt vermoed tenminste gelijkwaardig te zijn met deze regeling, behoudens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=6&z=2023-01-01&g=2023-01-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=7&z=2023-01-01&g=2023-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=4&artikel=8&z=2023-01-01&g=2023-01-01), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=5&artikel=9&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=5&artikel=10&z=2023-01-01&g=2023-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=12&z=2023-01-01&g=2023-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=13&z=2023-01-01&g=2023-01-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=6&artikel=15&z=2023-01-01&g=2023-01-01) en [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045163&paragraaf=8&artikel=23&z=2023-01-01&g=2023-01-01).
 
 3. EASA.rmt720, zodra deze is vastgesteld en geldt voor de sector vervoer, onderdeel luchtvaart, wordt vermoed tenminste gelijkwaardig te zijn met deze regeling.
 
