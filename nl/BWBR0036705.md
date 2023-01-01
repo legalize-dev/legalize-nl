@@ -4,7 +4,7 @@ identifier: "BWBR0036705"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-01"
-last_updated: "2017-11-29"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036705"
 soort: "AMvB"
@@ -54,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - **ambtenaren van politie:** ambtenaren als bedoeld in [artikel 2, onder a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
-- **arrestantenzorg:** zorg voor de huisvesting, veiligheid, verzorging, bejegening en het vervoer van ingeslotenen door de regionale eenheid en door de Landelijke eenheid, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=3&z=2017-11-29&g=2017-11-29), in het gebied van die regionale eenheid;
+- **arrestantenzorg:** zorg voor de huisvesting, veiligheid, verzorging, bejegening en het vervoer van ingeslotenen door de regionale eenheid en door de Landelijke eenheid, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=3&z=2023-01-01&g=2023-01-01), in het gebied van die regionale eenheid;
 
 - **beheersplan:** het beheersplan, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37);
 
-- **commissies van toezicht op de arrestantenzorg:** de commissie, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=9&artikel=50&z=2017-11-29&g=2017-11-29);
+- **commissies van toezicht op de arrestantenzorg:** de commissie, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=9&artikel=50&z=2023-01-01&g=2023-01-01);
 
 - **ingeslotene:** de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een politiebureau is ondergebracht;
 
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - **managementrapportage:** rapportage van de korpschef aan Onze Minister waarin wordt ingegaan op de uitvoering van het beheersplan;
 
-- **politiecellencomplex:** een in een gebouw van de politie te onderscheiden ruimte waarin één of meer gangen met daaraan grenzend één of meer ruimten liggen die door de politie worden gebruikt voor het insluiten van personen.
+- **politiecellencomplex:** een in een gebouw te onderscheiden ruimte waarin één of meer gangen met daaraan grenzend één of meer ruimten liggen die door de politie worden gebruikt voor het insluiten van personen.
 
 ### Hoofdstuk 2. Aanwijzing leden van de leiding van een eenheid
 
@@ -90,13 +90,13 @@ Bij ministeriële regeling worden ambtenaren van politie aangewezen die naast de
 
 - c. de Dienst landelijke recherche;
 
-- d. de Dienst landelijke informatieorganisatie;
+- d. de Dienst landelijke intelligenceorganisatie;
 
-- e. de Dienst landelijke operationele samenwerking;
+- e. de Dienst specialistische operaties;
 
 - f. de Dienst infrastructuur;
 
-- g. de Dienst bewaken en beveiligen;
+- g. de Dienst koninklijke en diplomatieke beveiliging;
 
 - h. de Dienst speciale interventies;
 
@@ -130,7 +130,7 @@ De Dienst landelijke recherche heeft in ieder geval tot taak:
 
 ##### Artikel 7
 
-De Dienst landelijke informatieorganisatie heeft in ieder geval tot taak:
+De Dienst landelijke intelligenceorganisatie heeft in ieder geval tot taak:
 
 - a. het landelijk inwinnen, coördineren en verwerken van informatie ten behoeve van de sturing op en de ondersteuning van de politietaak;
 
@@ -140,7 +140,7 @@ De Dienst landelijke informatieorganisatie heeft in ieder geval tot taak:
 
 ##### Artikel 8
 
-De Dienst landelijke operationele samenwerking heeft in ieder geval tot taak het leveren van hoogwaardige, specialistische ondersteuning ten behoeve van de uitvoering van de politietaak, waaronder:
+De Dienst specialistische operaties heeft in ieder geval tot taak het leveren van hoogwaardige, specialistische ondersteuning ten behoeve van de uitvoering van de politietaak, waaronder:
 
 - a. het in stand houden van infiltratieteams die als taak hebben het uitvoeren van een bevel tot infiltratie, tot pseudo-koop of -dienstverlening en tot stelselmatige inwinning van informatie;
 
@@ -168,7 +168,7 @@ De Dienst infrastructuur heeft in ieder geval tot taak:
 
 ##### Artikel 10
 
-De Dienst bewaken en beveiligen heeft in ieder geval tot taak:
+De Dienst koninklijke en diplomatieke beveiliging heeft in ieder geval tot taak:
 
 - a. de persoonsbeveiliging van de leden van het Koninklijk Huis en hun gasten;
 
@@ -236,15 +236,13 @@ De regionale eenheden worden als volgt aangeduid:
 
 - d. de Dienst regionale recherche;
 
-- e. de Dienst regionale informatieorganisatie;
+- e. de Dienst regionale intelligenceorganisatie;
 
 - f. de Dienst regionale operationele samenwerking;
 
 - g. de Dienst bedrijfsvoering regionale eenheid.
 
-2. De regionale eenheid Amsterdam bestaat tevens uit een Dienst infrastructuur.
-
-3. De regionale eenheid Rotterdam bestaat tevens uit een Dienst zeehavenpolitie.
+2. De regionale eenheid Rotterdam bestaat tevens uit een Dienst zeehavenpolitie.
 
 ##### Artikel 15
 
@@ -254,7 +252,7 @@ De Staf regionale eenheid heeft in ieder geval tot taak het ondersteunen van de 
 
 1. Een district is geografisch verdeeld in basisteams, die gebiedsgebonden basispolitiezorg uitvoeren.
 
-2. Een district bestaat voorts uit:
+2. Een district bestaat voorts uit de leiding van het district en in ieder geval de volgende onderdelen:
 
 - a. een districtsrecherche;
 
@@ -310,7 +308,7 @@ De Dienst regionale operationele samenwerking heeft in ieder geval tot taak het 
 
 ##### Artikel 23
 
-De Dienst infrastructuur van de regionale eenheid Amsterdam is in ieder geval belast met de uitvoering van de politietaak op de hoofdwegen, het water en het havengebied van Amsterdam.
+Vervallen
 
 ##### Artikel 24
 
@@ -440,39 +438,39 @@ De Staf politiedienstencentrum heeft in ieder geval tot taak de ondersteuning va
 
 ##### Artikel 38
 
-De Dienst human resource management heeft in ieder geval tot taak het uitvoeren van het door de Directie human resource management, bedoeld in [artikel 28, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-11-29&g=2017-11-29), geformuleerde beleid.
+De Dienst human resource management heeft in ieder geval tot taak het uitvoeren van het door de Directie human resource management, bedoeld in [artikel 28, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2023-01-01&g=2023-01-01), geformuleerde beleid.
 
 ##### Artikel 39
 
-De Dienst facility management heeft in ieder geval tot taak het uitvoeren van het door de Directie facility management, bedoeld in [artikel 28, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-11-29&g=2017-11-29), geformuleerde beleid.
+De Dienst facility management heeft in ieder geval tot taak het uitvoeren van het door de Directie facility management, bedoeld in [artikel 28, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2023-01-01&g=2023-01-01), geformuleerde beleid.
 
 ##### Artikel 40
 
-De Dienst financiën heeft in ieder geval tot taak het uitvoeren van het door de Directie financiën en control, bedoeld in [artikel 28, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-11-29&g=2017-11-29), geformuleerde beleid.
+De Dienst financiën heeft in ieder geval tot taak het uitvoeren van het door de Directie financiën en control, bedoeld in [artikel 28, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2023-01-01&g=2023-01-01), geformuleerde beleid.
 
 ##### Artikel 41
 
-De Dienst informatiemanagement heeft in ieder geval tot taak het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-11-29&g=2017-11-29), geformuleerde beleid.
+De Dienst informatiemanagement heeft in ieder geval tot taak het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2023-01-01&g=2023-01-01), geformuleerde beleid.
 
 ##### Artikel 42
 
-De Dienst informatie- en communicatietechnologie heeft in ieder geval tot taak het leveren van informatie- en communicatiediensten binnen de regionale eenheid en het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-11-29&g=2017-11-29), geformuleerde beleid.
+De Dienst informatie- en communicatietechnologie heeft in ieder geval tot taak het leveren van informatie- en communicatiediensten binnen de regionale eenheid en het uitvoeren van het door de Directie informatievoorziening, bedoeld in [artikel 28, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2023-01-01&g=2023-01-01), geformuleerde beleid.
 
 ##### Artikel 43
 
-De Dienst communicatie heeft in ieder geval tot taak het uitvoeren van door de Directie communicatie, bedoeld in [artikel 28, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2017-11-29&g=2017-11-29), geformuleerd beleid.
+De Dienst communicatie heeft in ieder geval tot taak het uitvoeren van door de Directie communicatie, bedoeld in [artikel 28, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&artikel=28&z=2023-01-01&g=2023-01-01), geformuleerd beleid.
 
 ### Hoofdstuk 7. Nadere regels over de organisatie van de politie
 
 ##### Artikel 44
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de organisatie van de politie, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&z=2017-11-29&g=2017-11-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=4&z=2017-11-29&g=2017-11-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=5&z=2017-11-29&g=2017-11-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&z=2017-11-29&g=2017-11-29).
+Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de organisatie van de politie, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=4&z=2023-01-01&g=2023-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=5&z=2023-01-01&g=2023-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=6&z=2023-01-01&g=2023-01-01).
 
 ### Hoofdstuk 8. Jaaraanschrijving, beheersplan, managementrapportages, jaarverslag en informatieverstrekking
 
 ##### Artikel 45
 
-Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijving. De jaaraanschrijving heeft betrekking op de managementrapportages, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=8&artikel=47&z=2017-11-29&g=2017-11-29), op de voorbereidende werkzaamheden door de korpschef ten behoeve van het beheersplan en het jaarverslag en de daarvoor nodige informatie, alsmede op de in [artikel 3 van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=3) bedoelde onderwerpen.
+Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijving. De jaaraanschrijving heeft betrekking op de managementrapportages, bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=8&artikel=47&z=2023-01-01&g=2023-01-01), op de ontwerpen van het beheersplan en het jaarverslag, alsmede op de in [artikel 3 van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=3) bedoelde onderwerpen.
 
 ##### Artikel 46
 
@@ -490,9 +488,9 @@ Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijvi
 
 2. In het beheersplan worden de in het eerste lid, onderdelen a tot en met d, genoemde onderwerpen inzichtelijk gemaakt ten aanzien van de sterkte die feitelijk ter beschikking wordt gesteld aan de Politieacademie.
 
-3. Onze Minister stelt voor de derde dinsdag van september het ontwerpbeheersplan voor het komende begrotingsjaar op.
+3. De korpschef zendt het ontwerp van het beheersplan voor het komende begrotingsjaar voor 1 juli aan Onze Minister.
 
-4. Het ontwerpbeheersplan wordt als bijlage bij de begroting van het Ministerie van Veiligheid en Justitie aan de Staten-Generaal gezonden.
+4. Het door Onze Minister voorgenomen beheersplan wordt als bijlage bij de begroting van het Ministerie van Justitie en Veiligheid aan de Staten-Generaal gezonden.
 
 5. Onze Minister stelt het beheersplan vast na goedkeuring van de begroting voor hetzelfde jaar van zijn ministerie door de Staten-Generaal.
 
@@ -512,11 +510,13 @@ Onze Minister zendt de korpschef jaarlijks vóór 1 december een jaaraanschrijvi
 
 - d. de sterkte die feitelijk ter beschikking is gesteld aan de politieonderwijsraad.
 
-3. Onze Minister stelt jaarlijks voor 15 mei het jaarverslag over het voorafgaande jaar vast.
+3. De korpschef zendt jaarlijks voor 1 april een ontwerp van het jaarverslag over het voorafgaande jaar aan Onze Minister.
 
-4. Het vastgestelde jaarverslag wordt als bijlage bij het jaarverslag van het Ministerie van Veiligheid en Justitie ter informatie aan de Staten-Generaal gezonden.
+4. Onze Minister stelt jaarlijks voor 15 mei het jaarverslag over het voorafgaande jaar vast.
 
-5. De korpschef toetst in periodieke audits de mate waarin de door hem verwerkte gegevens eenduidig, consistent en volledig zijn.
+5. Het vastgestelde jaarverslag wordt als bijlage bij het jaarverslag van het Ministerie van Justitie en Veiligheid ter informatie aan de Staten-Generaal gezonden.
+
+6. De korpschef toetst in periodieke audits de mate waarin de door hem verwerkte gegevens eenduidig, consistent en volledig zijn.
 
 ##### Artikel 48
 
@@ -536,9 +536,9 @@ Bij ministeriële regeling worden regels gesteld over de informatieverstrekking 
 
 - a. toezicht te houden op de arrestantenzorg;
 
-- b. jaarlijks voor 1 maart rapport uit te brengen aan de korpschef over haar werkzaamheden en bevindingen over het voorgaande jaar;
+- b. jaarlijks voor 1 maart rapport uit te brengen aan de korpschef en de politiechef over haar werkzaamheden en bevindingen over het voorgaande jaar;
 
-- c. gevraagd en ongevraagd aan de korpschef advies uit te brengen en inlichtingen te geven omtrent aangelegenheden betreffende de arrestantenzorg.
+- c. gevraagd en ongevraagd aan de korpschef en de politiechef advies uit te brengen en inlichtingen te geven omtrent aangelegenheden betreffende de arrestantenzorg.
 
 2. Onze Minister benoemt, herbenoemt, schorst en ontslaat de voorzitter, de plaatsvervangend voorzitter en de overige leden van de commissies.
 
@@ -548,7 +548,7 @@ Bij ministeriële regeling worden regels gesteld over de informatieverstrekking 
 
 5. Bij ministeriële regeling worden regels gesteld over de bevoegdheden, de samenstelling, de werkwijze van, de afstemming tussen en de jaarlijkse rapportage door de commissies alsmede over de benoeming, de herbenoeming, de schorsing en het ontslag en de vergoeding van de leden.
 
-6. De korpschef zendt uiterlijk 15 mei aan Onze Minister de rapporten, bedoeld in het eerste lid, onderdeel b, alsmede een verslag over de wijze waarop hij gevolg heeft gegeven aan deze rapporten. De korpschef zendt het verslag in afschrift aan de voorzitters van de commissies.
+6. Het jaarverslag, bedoeld in [artikel 37, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=37), doet verslag over de arrestantenzorg bij de politie alsmede over de wijze waarop gevolg is gegeven aan de rapporten van de commissies van toezicht op de arrestantenzorg.
 
 ### Hoofdstuk 10. Politielegitimatiebewijs, politiecellencomplex en politielogo
 
@@ -592,7 +592,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 11. Slotbepaling
 
-## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=7&z=2017-11-29&g=2017-11-29)
+## Bijlage. als bedoeld in [artikel 7, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&hoofdstuk=3&artikel=7&z=2023-01-01&g=2023-01-01)
 
 Vervallen
 
