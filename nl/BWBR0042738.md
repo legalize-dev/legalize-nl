@@ -4,7 +4,7 @@ identifier: "BWBR0042738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2020-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042738"
 soort: "ministeriele-regeling"
@@ -132,7 +132,7 @@ Als format als bedoeld in [artikel 4.1, zevende lid, van het Besluit zorg en dwa
 
 ##### Artikel 7
 
-1. In de analyse, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=18) neemt de zorgaanbieder in ieder geval op, uitgesplitst per vorm van onvrijwillige zorg zoals weergegeven in het format, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042738&hoofdstuk=3&artikel=5&z=2020-01-01&g=2020-01-01):
+1. In de analyse, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=18) neemt de zorgaanbieder in ieder geval op, uitgesplitst per vorm van onvrijwillige zorg zoals weergegeven in het format, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042738&hoofdstuk=3&artikel=5&z=2020-01-01&g=2023-01-01):
 
 - a. het aantal unieke cliënten op wie de vorm van onvrijwillige zorg is toegepast;
 
@@ -166,7 +166,7 @@ Deze regeling treedt in werking op het tijdstip waarop de Wet zorg en dwang psyc
 
 Deze regeling wordt aangehaald als: Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
 
-## Bijlage. Bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042738&hoofdstuk=3&artikel=5&z=2020-01-01&g=2020-01-01) van de Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten
+## Bijlage. Bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042738&hoofdstuk=3&artikel=5&z=2020-01-01&g=2023-01-01) van de Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten
 
 FORMAT DIGITAAL OVERZICHT ONVRIJWILLIGE ZORG
 
