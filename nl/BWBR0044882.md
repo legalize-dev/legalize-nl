@@ -4,7 +4,7 @@ identifier: "BWBR0044882"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-01"
-last_updated: "2022-03-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044882"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. (begripsbepalingen)
 
-In deze regeling en voor zover van toepassing in de besluiten, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=2&artikel=2&z=2022-03-01&g=2022-03-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=4&z=2022-03-01&g=2022-03-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=5&z=2022-03-01&g=2022-03-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2022-03-01&g=2022-03-01), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=8&z=2022-03-01&g=2022-03-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=9&z=2022-03-01&g=2022-03-01), wordt verstaan onder:
+In deze regeling en voor zover van toepassing in de besluiten, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=8&z=2023-01-01&g=2023-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=9&z=2023-01-01&g=2023-01-01), wordt verstaan onder:
 
 - **aansluiting:** aansluiting als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1);
 
@@ -110,7 +110,7 @@ In deze regeling en voor zover van toepassing in de besluiten, bedoeld in de [ar
 
 - a. het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor netlevering zijn verstrekt die aantonen dat met de productie-installatie in het betreffende kalenderjaar dat aantal kWh is geproduceerd en op het elektriciteitsnet is ingevoed; en
 
-- b. het verschil tussen het in de beschikking tot subsidieverlening opgenomen basisbedrag en het voor het betreffende kalenderjaar op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2022-03-01&g=2022-03-01) geldende definitieve correctiebedrag.
+- b. het verschil tussen het in de beschikking tot subsidieverlening opgenomen basisbedrag en het voor het betreffende kalenderjaar op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01) geldende definitieve correctiebedrag.
 
 2. De subsidie bedraagt de som van de voor ieder kalenderjaar volgens het eerste lid berekende bedragen over de hele subsidieperiode.
 
@@ -120,7 +120,7 @@ In deze regeling en voor zover van toepassing in de besluiten, bedoeld in de [ar
 
 ##### Artikel 4. (aantal kWh dat jaarlijks voor subsidie in aanmerking komt)
 
-1. Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt, bedoeld in [artikel 3, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=3&z=2022-03-01&g=2022-03-01), bedraagt ten hoogste het in de beschikking tot subsidieverlening voor een kalenderjaar vastgestelde maximum aantal kWh.
+1. Het aantal kWh dat jaarlijks voor subsidie in aanmerking komt, bedoeld in [artikel 3, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01), bedraagt ten hoogste het in de beschikking tot subsidieverlening voor een kalenderjaar vastgestelde maximum aantal kWh.
 
 2. Het maximum aantal kWh is gebaseerd op het vermogen van de productie-installatie en het voor die categorie productie-installaties geldende maximum aantal vollasturen.
 
@@ -150,7 +150,7 @@ In deze regeling en voor zover van toepassing in de besluiten, bedoeld in de [ar
 
 ##### Artikel 7. (elektriciteitsprijs)
 
-De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2022-03-01&g=2022-03-01), bedraagt voor:
+De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01), bedraagt voor:
 
 - a. elektriciteit die wordt ingevoed op het elektriciteitsnet: de gemiddelde waarde van elektriciteit die wordt ingevoed op het elektriciteitsnet, minus de profielkosten van elektriciteitslevering aan het elektriciteitsnet en de onbalanskosten;
 
@@ -158,11 +158,11 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 ##### Artikel 8. (basiselektriciteitsprijs)
 
-1. Indien de elektriciteitsprijs voor elektriciteit die wordt ingevoed op het elektriciteitsnet lager is dan de basiselektriciteitsprijs wordt in afwijking van [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2022-03-01&g=2022-03-01), in plaats van met de elektriciteitsprijs gerekend met die basiselektriciteitsprijs.
+1. Indien de elektriciteitsprijs voor elektriciteit die wordt ingevoed op het elektriciteitsnet lager is dan de basiselektriciteitsprijs wordt in afwijking van [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01), in plaats van met de elektriciteitsprijs gerekend met die basiselektriciteitsprijs.
 
-2. Indien de elektriciteitsprijs voor elektriciteit die niet wordt ingevoed op het elektriciteitsnet lager is dan de basiselektriciteitsprijs wordt in afwijking van [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2022-03-01&g=2022-03-01), in plaats van met de elektriciteitsprijs gerekend met die basiselektriciteitsprijs.
+2. Indien de elektriciteitsprijs voor elektriciteit die niet wordt ingevoed op het elektriciteitsnet lager is dan de basiselektriciteitsprijs wordt in afwijking van [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01), in plaats van met de elektriciteitsprijs gerekend met die basiselektriciteitsprijs.
 
-3. Voor de toepassing van het eerste en tweede lid, en voor de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=11&z=2022-03-01&g=2022-03-01), stelt de minister per aan te wijzen categorie productie-installaties een basiselektriciteitsprijs voor elektriciteit vast die kan verschillen voor:
+3. Voor de toepassing van het eerste en tweede lid, en voor de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=11&z=2023-01-01&g=2023-01-01), stelt de minister per aan te wijzen categorie productie-installaties een basiselektriciteitsprijs voor elektriciteit vast die kan verschillen voor:
 
 - a. elektriciteit die wordt ingevoed op het elektriciteitsnet; en
 
@@ -188,7 +188,7 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 - b. voor elektriciteit die niet wordt ingevoed op het elektriciteitsnet als elektriciteitsprijs wordt gehanteerd: de gemiddelde waarde van elektriciteit die niet is ingevoed op het elektriciteitsnet in de periode 1 september tot en met 31 augustus voorafgaand aan het kalenderjaar.
 
-2. Voor de voorschotverlening stelt de minister, in afwijking van het eerste lid, een voorlopig correctiebedrag vast voor de op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=2&artikel=2&z=2022-03-01&g=2022-03-01), aangewezen categorieën productie-installaties, waarmee het voorschot voor die categorieën productie-installaties wordt bepaald indien er voor die categorieën productie-installaties nog geen voorlopige correctiebedragen op grond van het eerste lid gelden.
+2. Voor de voorschotverlening stelt de minister, in afwijking van het eerste lid, een voorlopig correctiebedrag vast voor de op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), aangewezen categorieën productie-installaties, waarmee het voorschot voor die categorieën productie-installaties wordt bepaald indien er voor die categorieën productie-installaties nog geen voorlopige correctiebedragen op grond van het eerste lid gelden.
 
 ##### Artikel 10. (banking)
 
@@ -214,7 +214,7 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 ##### Artikel 12. (verdeling subsidieplafond)
 
-1. De minister verdeelt het in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=2&artikel=2&z=2022-03-01&g=2022-03-01), bedoelde subsidieplafond op volgorde van ontvangst van de aanvragen.
+1. De minister verdeelt het in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), bedoelde subsidieplafond op volgorde van ontvangst van de aanvragen.
 
 2. Indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en op grond van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, geldt voor de verdeling de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als dag van ontvangst.
 
@@ -240,6 +240,8 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 - f. het tijdschema van de ingebruikname van de productie-installatie.
 
+3. Indien de aanvraag betrekking heeft op een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonne-energie, waarbij sprake is van plaatsing op daken of bevestiging aan gevels, gaat de aanvraag vergezeld van een verklaring van de aanvrager dat het dak of de gevel geschikt is of wordt gemaakt voor de plaatsing met gebruikmaking van het middel dat door de minister beschikbaar wordt gesteld.
+
 ##### Artikel 14. (verklaring toestemming en verklaring netbeheerder)
 
 1. De aanvraag gaat vergezeld van een verklaring van de aanvrager dat hij ermee instemt dat de informatie over de productie-installatie die hij bij de aanvraag heeft verstrekt en de informatie over de productie-installatie die in de beschikking tot subsidieverlening is opgenomen, door de minister worden verstrekt aan de door de minister op grond van [artikel 74 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=74) gemandateerde niet-ondergeschikte.
@@ -252,15 +254,13 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 ##### Artikel 15. (overeenkomsten locatie productie-installatie)
 
-1. Indien de productie-installatie wordt aangebracht op, in of boven een onroerende zaak van een derde waarvoor een recht van opstal als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=28&z=2022-03-01&g=2022-03-01), nodig is, gaat de aanvraag vergezeld van een ondertekende overeenkomst tussen subsidieontvanger en de derde. Uit de overeenkomst blijkt dat wordt beoogd een recht van opstal te vestigen als bedoeld in artikel 28, eerste lid.
+1. Indien de productie-installatie wordt aangebracht op, in of boven een onroerende zaak van een derde waarvoor een recht van opstal als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=28&z=2023-01-01&g=2023-01-01), nodig is, gaat de aanvraag vergezeld van een ondertekende overeenkomst tussen subsidieontvanger en de derde. Uit de overeenkomst blijkt dat wordt beoogd een recht van opstal te vestigen als bedoeld in artikel 28, eerste lid.
 
-2. Indien de productie-installatie wordt aangebracht op, in of boven een onroerende zaak van een derde waarvoor een huur- of gebruikersovereenkomst nodig is als bedoeld in [artikel 28, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=28&z=2022-03-01&g=2022-03-01), gaat de aanvraag vergezeld van de huur- of gebruikersovereenkomst.
+2. Indien de productie-installatie wordt aangebracht op, in of boven een onroerende zaak van een derde waarvoor een huur- of gebruikersovereenkomst nodig is als bedoeld in [artikel 28, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=28&z=2023-01-01&g=2023-01-01), gaat de aanvraag vergezeld van de huur- of gebruikersovereenkomst.
 
-##### Artikel 16. (statuten coöperatie en ledenlijst vereniging van eigenaars)
+##### Artikel 16. (statuten coöperatie)
 
-1. Indien de aanvraag wordt ingediend door een coöperatie, gaat de aanvraag vergezeld van de statuten van de coöperatie en een kopie van notariële akte van oprichting.
-
-2. Indien de aanvraag wordt ingediend door een vereniging van eigenaars, gaat de aanvraag vergezeld van een lijst van leden van de vereniging van eigenaars met de naam en het adres van elk lid.
+Indien de aanvraag wordt ingediend door een coöperatie, gaat de aanvraag vergezeld van de statuten van de coöperatie en een kopie van notariële akte van oprichting.
 
 ##### Artikel 17. (vergunningen)
 
@@ -292,7 +292,7 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 ##### Artikel 19. (exploitatieberekening)
 
-1. De exploitatieberekening, bedoeld in [artikel 18, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=4&artikel=18&z=2022-03-01&g=2022-03-01), omvat:
+1. De exploitatieberekening, bedoeld in [artikel 18, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=4&artikel=18&z=2023-01-01&g=2023-01-01), omvat:
 
 - a. een specificatie van de investeringskosten van de productie-installatie;
 
@@ -302,7 +302,7 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 ##### Artikel 20. (windenergie-opbrengstberekening productie-installatie ≥100 kW)
 
-1. Indien de productie-installatie die gebruik maakt van windenergie een vermogen heeft van 100 kW of meer, is de windenergie-opbrengstberekening, bedoeld in het [artikel 18, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=4&artikel=18&z=2022-03-01&g=2022-03-01), opgesteld door een organisatie met expertise op het gebied van windenergie-opbrengstberekeningen, met gebruikmaking van gerenommeerde rekenmodellen, omgevingsmodellen, windmodellen en windkaarten.
+1. Indien de productie-installatie die gebruik maakt van windenergie een vermogen heeft van 100 kW of meer, is de windenergie-opbrengstberekening, bedoeld in het [artikel 18, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=4&artikel=18&z=2023-01-01&g=2023-01-01), opgesteld door een organisatie met expertise op het gebied van windenergie-opbrengstberekeningen, met gebruikmaking van gerenommeerde rekenmodellen, omgevingsmodellen, windmodellen en windkaarten.
 
 2. De wind-energieopbrengstberekening, bedoeld in het eerste lid, bevat in ieder geval:
 
@@ -334,7 +334,7 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 - a. de aanvraag niet voldoet aan de bij of krachtens deze regeling gestelde bepalingen;
 
-- b. hij het onaannemelijk acht dat de productie-installatie binnen de op grond van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=24&z=2022-03-01&g=2022-03-01), geldende uiterste termijn in gebruik wordt genomen;
+- b. hij het onaannemelijk acht dat de productie-installatie binnen de op grond van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=24&z=2023-01-01&g=2023-01-01), geldende uiterste termijn in gebruik wordt genomen;
 
 - c. hij het onaannemelijk acht dat de productie-installatie de hele subsidieperiode in gebruik kan zijn;
 
@@ -348,7 +348,7 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 - 4°. economisch haalbaar is;
 
-- e. één of meer vergunningen als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=4&artikel=17&z=2022-03-01&g=2022-03-01), indien van toepassing, niet zijn verleend;
+- e. één of meer vergunningen als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=4&artikel=17&z=2023-01-01&g=2023-01-01), indien van toepassing, niet zijn verleend;
 
 - f. de productie-installatie geheel of gedeeltelijk bestaat uit gebruikte materialen;
 
@@ -376,13 +376,13 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 1. De subsidie wordt verstrekt voor een periode van vijftien jaar.
 
-2. De periode vangt aan op de door de subsidieontvanger in de aanvraag aangegeven datum, die valt binnen de uiterste termijn waarop de productie-installatie op grond van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=24&z=2022-03-01&g=2022-03-01), in gebruik moet zijn genomen.
+2. De periode vangt aan op de door de subsidieontvanger in de aanvraag aangegeven datum, die valt binnen de uiterste termijn waarop de productie-installatie op grond van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=24&z=2023-01-01&g=2023-01-01), in gebruik moet zijn genomen.
 
 3. De minister kan op verzoek van de subsidieontvanger ten hoogste driemaal het tijdstip van aanvang van de periode wijzigen, mits:
 
 - a. het verzoek niet later wordt ingediend dan de datum van ingebruikname van de productie-installatie; en
 
-- b. het tijdstip niet later wordt vastgesteld dan de in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=24&z=2022-03-01&g=2022-03-01), bedoelde uiterste termijn.
+- b. het tijdstip niet later wordt vastgesteld dan de in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=24&z=2023-01-01&g=2023-01-01), bedoelde uiterste termijn.
 
 4. Indien aannemelijk is dat na afloop van de periode een ongebruikt aantal kWh zal resteren, verlengt de minister de periode voor het aflopen ervan.
 
@@ -412,7 +412,7 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 3. De minister kan op voorafgaand verzoek van de subsidieontvanger ontheffing verlenen van de verplichting, bedoeld in het eerste lid, in geval van vertragingen of essentiële wijzigingen. Aan de ontheffing kunnen voorschriften worden verbonden.
 
-4. De ontheffing wordt niet verleend indien dit zou inhouden dat de subsidieontvanger de productie-installatie later in gebruik neemt dan een jaar na de dag waarop de productie-installatie op grond van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=24&z=2022-03-01&g=2022-03-01), in gebruik moet zijn genomen.
+4. De ontheffing wordt niet verleend indien dit zou inhouden dat de subsidieontvanger de productie-installatie later in gebruik neemt dan een jaar na de dag waarop de productie-installatie op grond van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=24&z=2023-01-01&g=2023-01-01), in gebruik moet zijn genomen.
 
 ##### Artikel 26. (meetverplichting)
 
@@ -434,7 +434,7 @@ De elektriciteitsprijs, bedoeld in [artikel 6, eerste lid, onderdeel a](https://
 
 3. In afwijking van het eerste en tweede lid heeft de subsidieontvanger, indien hij een coöperatie is en de productie-installatie wordt aangebracht op, in of boven een gebouw dat in eigendom is van een vereniging van eigenaars, een huur- of gebruiksovereenkomst met de vereniging van eigenaars voor het aanbrengen en in gebruik hebben van de productie-installatie op, in of boven de onroerende zaak.
 
-4. In een geval als bedoeld in het eerste lid overlegt de subsidieontvanger uiterlijk zes maanden na de datum van de beschikking tot subsidieverlening een kopie van de akte van vestiging van het recht van opstal aan de minister.
+4. In een geval als bedoeld in het eerste lid overlegt de subsidieontvanger uiterlijk twaalf maanden na de datum van de beschikking tot subsidieverlening een kopie van de akte van vestiging van het recht van opstal aan de minister.
 
 5. Indien de subsidieontvanger een vereniging van eigenaars is, wordt de productie-installatie aangebracht op, in of boven een gebouw of de daarbij behorende grond, ter zake waarvan de vereniging van eigenaars is opgericht.
 
@@ -464,15 +464,15 @@ De productie-installatie is aangebracht in de bij beschikking tot subsidieverlen
 
 ##### Artikel 33. (postcoderoosvereiste coöperatie en vereniging van eigenaars)
 
-1. Indien de subsidieontvanger een coöperatie is, zijn de deelnemende leden op het moment dat de lijst van deelnemende leden overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=37&z=2022-03-01&g=2022-03-01), aan de minister wordt overgelegd, woonachtig of gevestigd op een adres binnen de in de beschikking tot subsidieverlening vastgestelde postcoderoos.
+1. Indien de subsidieontvanger een coöperatie is, zijn de deelnemende leden op het moment dat de lijst van deelnemende leden overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=37&z=2023-01-01&g=2023-01-01), aan de minister wordt overgelegd, woonachtig of gevestigd op een adres binnen de in de beschikking tot subsidieverlening vastgestelde postcoderoos.
 
-2. Een lid dat na het moment dat de lijst van deelnemende leden overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=37&z=2022-03-01&g=2022-03-01), aan de minister wordt overgelegd, deelnemend lid wordt, is op de datum van de ondertekening van de overeenkomst tussen het lid en de coöperatie tot vaststelling van de financiële inleg van het lid, woonachtig of gevestigd op een adres binnen de in de beschikking tot subsidieverlening vastgestelde postcoderoos.
+2. Een lid dat na het moment dat de lijst van deelnemende leden overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=37&z=2023-01-01&g=2023-01-01), aan de minister wordt overgelegd, deelnemend lid wordt, is op de datum van de ondertekening van de overeenkomst tussen het lid en de coöperatie tot vaststelling van de financiële inleg van het lid, woonachtig of gevestigd op een adres binnen de in de beschikking tot subsidieverlening vastgestelde postcoderoos.
 
 3. Op een adres als bedoeld in het eerste of tweede lid, is niet meer dan één deelnemend lid woonachtig of gevestigd.
 
-4. De minister kan de in de beschikking tot subsidieverlening vastgestelde postcoderoos op verzoek van de coöperatie wijzigen binnen een periode van zes maanden die ingaat op de datum van de beschikking tot subsidieverlening.
+4. De minister kan de in de beschikking tot subsidieverlening vastgestelde postcoderoos op verzoek van de coöperatie wijzigen binnen een periode van twaalf maanden die ingaat op de datum van de beschikking tot subsidieverlening.
 
-5. Indien de subsidieontvanger een vereniging van eigenaars is, is ten minste 90% van de leden op het moment van het indienen van de aanvraag woonachtig of gevestigd in de in de aanvraag opgenomen postcoderoos.
+5. Indien de subsidieontvanger een vereniging van eigenaars is, is ten minste 75% van de leden op het moment van het indienen van de aanvraag woonachtig of gevestigd in de in de aanvraag opgenomen postcoderoos.
 
 ##### Artikel 34. (wijziging postcodegebieden)
 
@@ -480,7 +480,7 @@ Bij een postcodewijziging door de daartoe bevoegde instantie blijven voor de toe
 
 ##### Artikel 35. (minimum aantal leden)
 
-1. Indien de subsidieontvanger een coöperatie is, bedraagt het aantal deelnemende leden vanaf het moment dat de lijst van deelnemende leden, overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=37&z=2022-03-01&g=2022-03-01), aan de minister wordt overgelegd, ten minste:
+1. Indien de subsidieontvanger een coöperatie is, bedraagt het aantal deelnemende leden vanaf het moment dat de lijst van deelnemende leden, overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=37&z=2023-01-01&g=2023-01-01), aan de minister wordt overgelegd, ten minste:
 
 - a. één deelnemend lid per 5 kWp vermogen bij een productie-installatie die gebruik maakt van zonne-energie;
 
@@ -488,7 +488,7 @@ Bij een postcodewijziging door de daartoe bevoegde instantie blijven voor de toe
 
 - c. één deelnemend per 1 kW vermogen bij een productie-installatie die gebruik maakt van waterkracht.
 
-2. Indien de subsidieontvanger een vereniging van eigenaars is en de productie-installatie is aangebracht op, in of boven de grond ter zake waarvan de vereniging van eigenaars is opgericht, bedraagt het aantal leden op het moment van het indienen van de aanvraag ten minste:
+2. Indien de subsidieontvanger een vereniging van eigenaars is en de productie-installatie is aangebracht op, in of boven de grond ter zake waarvan de vereniging van eigenaars is opgericht, bedraagt het aantal leden op het moment dat de lijst van leden, overeenkomstig [artikel 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=37&z=2023-01-01&g=2023-01-01), aan de minister wordt overgelegd, ten minste:
 
 - a. één lid per 5 kWp vermogen bij een productie-installatie die gebruik maakt van zonne-energie;
 
@@ -500,19 +500,21 @@ Bij een postcodewijziging door de daartoe bevoegde instantie blijven voor de toe
 
 ##### Artikel 36. (kleinverbruikersaansluiting leden)
 
-1. Indien de subsidieontvanger een coöperatie is, wordt aan elk deelnemend lid elektriciteit met een kleinverbruikersaansluiting geleverd vanaf het moment dat de lijst van deelnemende leden overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=37&z=2022-03-01&g=2022-03-01), aan de minister wordt overgelegd.
+1. Indien de subsidieontvanger een coöperatie is, wordt aan elk deelnemend lid elektriciteit met een kleinverbruikersaansluiting geleverd vanaf het moment dat de lijst van deelnemende leden overeenkomstig [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=37&z=2023-01-01&g=2023-01-01), aan de minister wordt overgelegd.
 
 2. Aan een lid dat na het moment, bedoeld in het eerste lid, deelnemend lid wordt, wordt elektriciteit met een kleinverbruikersaansluiting geleverd vanaf het moment van ondertekening van de overeenkomst tussen het lid en de coöperatie tot vaststelling van de financiële inleg van dat lid.
 
-3. Indien de subsidieontvanger een vereniging van eigenaars is, wordt op het moment van het indienen van de aanvraag aan elk lid elektriciteit met een kleinverbruikersaansluiting geleverd.
+3. Indien de subsidieontvanger een vereniging van eigenaars is, wordt op het moment van het indienen van de aanvraag aan ten minste 75% van de leden elektriciteit met een kleinverbruikersaansluiting geleverd.
 
-##### Artikel 37. (lijst deelnemende leden en financiële inleg coöperatie)
+##### Artikel 37. (lijst leden en financiële inleg coöperatie)
 
-1. Indien de subsidieontvanger een coöperatie is, overlegt deze uiterlijk zes maanden na de datum van de beschikking tot subsidieverlening een lijst van deelnemende leden met de naam en het adres van elk deelnemend lid aan de minister.
+1. Indien de subsidieontvanger een coöperatie is, overlegt deze uiterlijk twaalf maanden na de datum van de beschikking tot subsidieverlening een lijst van deelnemende leden met de naam en het adres van elk deelnemend lid aan de minister.
 
 2. Wijzigingen in de lijst van deelnemende leden worden eenmaal per jaar aan de minister gemeld.
 
 3. De coöperatie overlegt op verzoek aan de minister van elk deelnemend lid een overeenkomst tussen het lid en de coöperatie tot vaststelling van de financiële inleg van het lid.
+
+4. Indien de subsidieontvanger een vereniging van eigenaars is, overlegt deze uiterlijk twaalf maanden na de datum van de beschikking tot subsidieverlening een ledenlijst met de naam en het adres van elk deelnemend lid aan de minister.
 
 ##### Artikel 38. (overige gegevensverstrekking)
 
@@ -540,9 +542,9 @@ De subsidieontvanger verleent tot en met vijf jaar na de datum van de beschikkin
 
 - a. het in de beschikking tot subsidieverlening per kalenderjaar vastgestelde maximum aantal kWh; en
 
-- b. het in de beschikking tot subsidieverlening opgenomen basisbedrag minus het op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=9&z=2022-03-01&g=2022-03-01) geldende voorlopige correctiebedrag.
+- b. het in de beschikking tot subsidieverlening opgenomen basisbedrag minus het op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=9&z=2023-01-01&g=2023-01-01) geldende voorlopige correctiebedrag.
 
-3. Na ieder kalenderjaar wordt het voorschot in het daaropvolgende kalenderjaar bijgesteld aan de hand van de productie in het voorgaande kalenderjaar waarover garanties van oorsprong zijn afgegeven en het voor het voorgaande kalenderjaar vastgestelde definitieve correctiebedrag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2022-03-01&g=2022-03-01).
+3. Na ieder kalenderjaar wordt het voorschot in het daaropvolgende kalenderjaar bijgesteld aan de hand van de productie in het voorgaande kalenderjaar waarover garanties van oorsprong zijn afgegeven en het voor het voorgaande kalenderjaar vastgestelde definitieve correctiebedrag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01).
 
 4. Indien de meetgegevens niet beschikbaar zijn in het kalenderjaar, bedoeld in het tweede en derde lid, wordt in afwijking van het tweede en derde lid het voorschot uiterlijk vastgesteld in het eerstvolgende kalenderjaar nadat de meetgegevens beschikbaar zijn.
 
@@ -558,13 +560,13 @@ De minister verstrekt het eerste voorschot aan de subsidieontvanger niet eerder 
 
 - a. het in de beschikking tot subsidieverlening voor een kalenderjaar vastgestelde maximum aantal kWh; en
 
-- b. het in de beschikking tot subsidieverlening opgenomen basisbedrag minus het op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=9&z=2022-03-01&g=2022-03-01) geldende voorlopige correctiebedrag.
+- b. het in de beschikking tot subsidieverlening opgenomen basisbedrag minus het op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=9&z=2023-01-01&g=2023-01-01) geldende voorlopige correctiebedrag.
 
 3. Indien de subsidieperiode start op een andere datum dan 1 januari of eindigt op een andere datum dan 31 december, bedraagt voor het eerste jaar respectievelijk het laatste jaar van de periode waarover subsidie wordt verstrekt, het maandelijkse bedrag een evenredig deel van het aantal maanden of van het jaar waarover het voorschot wordt verstrekt.
 
 4. De minister kan het maandelijkse bedrag herberekenen, indien:
 
-- a. de subsidieontvanger een verzoek tot ontheffing als bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=25&z=2022-03-01&g=2022-03-01), indient;
+- a. de subsidieontvanger een verzoek tot ontheffing als bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=5&artikel=25&z=2023-01-01&g=2023-01-01), indient;
 
 - b. de maandelijkse productie gedurende ten minste twee maanden ten minste 50% zal achterblijven dan wel achter is gebleven ten opzichte van de in de beschikking tot voorschotverlening opgenomen maximum productie in kWh;
 
@@ -574,11 +576,11 @@ De minister verstrekt het eerste voorschot aan de subsidieontvanger niet eerder 
 
 ##### Artikel 43. (bijstelling voorschot)
 
-1. De bijstelling van het voorschot, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=6&artikel=40&z=2022-03-01&g=2022-03-01), vindt plaats binnen zes maanden na afloop van het kalenderjaar aan de hand van:
+1. De bijstelling van het voorschot, bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=6&artikel=40&z=2023-01-01&g=2023-01-01), vindt plaats binnen zes maanden na afloop van het kalenderjaar aan de hand van:
 
 - a. de productie in het voorgaande kalenderjaar waarover garanties van oorsprong zijn afgegeven;
 
-- b. het voor het voorgaande kalenderjaar vastgestelde definitieve correctiebedrag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2022-03-01&g=2022-03-01).
+- b. het voor het voorgaande kalenderjaar vastgestelde definitieve correctiebedrag, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01).
 
 2. Indien de som van de maandelijks bedragen die in het voorgaande kalenderjaar zijn verstrekt, minder bedraagt dan het op grond van het eerste lid bijgestelde voorschot, wordt het tekort aan verstrekte maandelijkse bedragen verrekend. De minister verstrekt het te weinig betaalde bedrag binnen zes weken na de datum van de bijstelling aan de subsidieontvanger.
 
@@ -604,7 +606,7 @@ De minister verstrekt geen voorschot indien de subsidieontvanger:
 
 1. De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe of nadat de voor het indienen ervan geldende termijn is verstreken.
 
-2. Indien het definitieve correctiebedrag, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2022-03-01&g=2022-03-01), voor het laatste jaar waarin de subsidiabele productie heeft plaatsgevonden nog niet is vastgesteld op het moment dat de aanvraag tot subsidievaststelling is ingediend, wordt de termijn, bedoeld in het eerste lid, opgeschort met twee weken, ingaande na de dag nadat dit bedrag wel is vastgesteld.
+2. Indien het definitieve correctiebedrag, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044882&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01), voor het laatste jaar waarin de subsidiabele productie heeft plaatsgevonden nog niet is vastgesteld op het moment dat de aanvraag tot subsidievaststelling is ingediend, wordt de termijn, bedoeld in het eerste lid, opgeschort met twee weken, ingaande na de dag nadat dit bedrag wel is vastgesteld.
 
 #### § 8. Slotbepalingen
 
