@@ -4,7 +4,7 @@ identifier: "BWBR0043680"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2022-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043680"
 soort: "AMvB"
@@ -46,7 +46,7 @@ Het percentage van de belastingrente, bedoeld in [artikel 30hb van de Algemene w
 
 ##### Artikel 2
 
-1. Het percentage van de in rekening te brengen invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), bedraagt 1.
+1. Het percentage van de in rekening te brengen invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), bedraagt 2.
 
 2. Het percentage van de te vergoeden invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29), is gelijk aan het percentage van de ingevolge [artikel 120, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=120) bij algemene maatregel van bestuur vastgestelde wettelijke rente, bedoeld in [artikel 119 van Boek 6 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=119), met dien verstande dat het eerstgenoemde percentage ten minste 4 bedraagt.
 
@@ -56,7 +56,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 4
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2022-07-01&g=2022-07-01) terugwerkt tot en met 1 juni 2020.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat daarbij tevens kan worden bepaald dat [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=2&z=2023-01-01&g=2023-01-01) terugwerkt tot en met 1 juni 2020.
 
 ##### Artikel 5
 
