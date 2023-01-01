@@ -4,7 +4,7 @@ identifier: "BWBR0008927"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2007-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008927"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Het recht tot het voeren van de titel van apothekersassistent is voorbehouden aan degene aan wie het diploma is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen van een opleiding tot apothekersassistent heeft afgelegd die is opgenomen in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1).
+Het recht tot het voeren van de titel van apothekersassistent is voorbehouden aan degene aan wie het diploma is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen van een opleiding tot apothekersassistent heeft afgelegd die is opgenomen in de Registratie instellingen en opleidingen, bedoeld in [artikel 6.4.1. van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1).
 
 #### § 3. Deskundigheid
 
