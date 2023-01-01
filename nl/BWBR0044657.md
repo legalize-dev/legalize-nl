@@ -4,7 +4,7 @@ identifier: "BWBR0044657"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2021-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044657"
 soort: "wet"
@@ -75,7 +75,7 @@ Wijzigt de Woningwet.
 
 3. Op een statutaire regeling die inhoudt dat in alle gevallen waarin de vereniging, coöperatie of onderlinge waarborgmaatschappij een tegenstrijdig belang heeft met een of meer bestuurders of commissarissen, de vereniging, coöperatie of onderlinge waarborgmaatschappij wordt vertegenwoordigd door een ander dan het bestuur of een bestuurder, kan na de inwerkingtreding van de wet geen beroep meer worden gedaan.
 
-4. De rechtspersoon brengt bij de eerstvolgende statutenwijziging na inwerkingtreding van deze wet de statuten in overeenstemming met [artikel 44 leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=44), [artikel 47 leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=47), [artikel 291 leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=291) en [artikel 292a leden 4 en 5 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=292a).
+4. De rechtspersoon brengt bij de eerstvolgende statutenwijziging na inwerkingtreding van deze wet de statuten in overeenstemming met [artikel 44 leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=44), [artikel 47 leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=47), [artikel 142 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=142), [artikel 291 leden 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=291) en [artikel 292a leden 4 en 5 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=292a).
 
 5. Een statutaire bepaling die vóór inwerkingtreding van deze wet bepaalt dat een bepaalde bestuurder of een commissaris van een vereniging, een coöperatie, een onderlinge waarborgmaatschappij of een stichting, meer stemmen kan uitbrengen dan de andere bestuurders respectievelijk commissarissen tezamen, is geldig tot uiterlijk vijf jaar na de datum van inwerkingtreding van deze wet of tot de eerstvolgende statutenwijziging na de inwerkingtreding van deze wet, naar gelang welk moment eerst valt.
 
