@@ -4,7 +4,7 @@ identifier: "BWBR0040886"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2018-09-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040886"
 soort: "AMvB"
@@ -74,7 +74,7 @@ Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
 
 ##### Artikel 9
 
-1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=5&artikel=6&z=2018-09-01&g=2018-09-01), treedt in werking op 15 mei 2018.
+1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=5&artikel=6&z=2023-01-01&g=2023-01-01), treedt in werking op 15 mei 2018.
 
 2. De overige artikelen treden in werking op 1 september 2018.
 
@@ -100,11 +100,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van physician assistants te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen van een opleiding voor physician assistant heeft afgelegd, welke opleiding is opgenomen in het Centraal Register Opleidingen Hoger Onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=3&artikel=3&z=2018-09-01&g=2018-09-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=3&artikel=4&z=2018-09-01&g=2018-09-01).
+Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van physician assistants te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen van een opleiding voor physician assistant heeft afgelegd, welke opleiding is opgenomen in de Registratie instellingen en opleidingen, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 3
 
-De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=2&artikel=2&z=2018-09-01&g=2018-09-01), heeft een studielast van 150 studiepunten, omvat zowel theoretisch als praktisch onderwijs, en is erop gericht dat de betrokkene de competenties verwerft die betrekking hebben op het gebied van deskundigheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=3&artikel=4&z=2018-09-01&g=2018-09-01), ter zake van:
+De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), heeft een studielast van 150 studiepunten, omvat zowel theoretisch als praktisch onderwijs, en is erop gericht dat de betrokkene de competenties verwerft die betrekking hebben op het gebied van deskundigheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), ter zake van:
 
 - a. medische deskundigheid;
 
