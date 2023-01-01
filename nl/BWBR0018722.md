@@ -4,7 +4,7 @@ identifier: "BWBR0018722"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2005-07-22"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018722"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluiten:
 
 ##### Artikel 1
 
-1. Er wordt een agentschap ingesteld, waarvan de naam komt te luiden: Agentschap Telecom.
+1. Er wordt een agentschap ingesteld, waarvan de naam komt te luiden: Rijksinspectie Digitale Infrastructuur.
 
-2. Aan het Agentschap Telecom wordt de status van baten-lastendienst als bedoeld in [artikel 10, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=10), verleend.
+2. Aan de Rijksinspectie Digitale Infrastructuur wordt de status van baten-lastendienst als bedoeld in [artikel 10, eerste lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=10), verleend.
 
 ##### Artikel 2
 
@@ -56,6 +56,6 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ##### Artikel 4
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Agentschap Telecom.
+Dit besluit wordt aangehaald als: Instellingsbesluit Rijksinspectie Digitale Infrastructuur.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
