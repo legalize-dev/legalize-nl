@@ -4,7 +4,7 @@ identifier: "BWBR0045041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-09-22"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045041"
 soort: "ministeriele-regeling"
@@ -68,9 +68,9 @@ De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2
 
 In 2022 ontvangt het bevoegd gezag van een school in het kader van deze regeling een bedrag van:
 
-- a. € 503,36 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2022-09-22&g=2022-09-22); en
+- a. € 503,36 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-01-01); en
 
-- b. € 22,32 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2022-09-22&g=2022-09-22).
+- b. € 22,32 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-01-01).
 
 ##### Artikel 5. Beschikking en betaling
 
@@ -94,9 +94,9 @@ In 2022 ontvangt het bevoegd gezag van een school in het kader van deze regeling
 
 ##### Artikel 7. Monitor en evaluatie
 
-1. De minister monitort de voortgang op de doelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2022-09-22&g=2022-09-22), op landelijk niveau en voert een evaluatie uit.
+1. De minister monitort de voortgang op de doelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-01-01), op landelijk niveau en voert een evaluatie uit.
 
-2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2022-09-22&g=2022-09-22) bedoelde doelen.
+2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-01-01) bedoelde doelen.
 
 ##### Artikel 8. Inwerkingtreding
 
