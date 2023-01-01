@@ -4,7 +4,7 @@ identifier: "BWBR0047704"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-12-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047704"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 1.1. Solidariteitsbijdrage
 
-Onder de naam solidariteitsbijdrage wordt een belasting geheven van een bijdrageplichtige als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=2&artikel=2.1&z=2022-12-28&g=2022-12-28).
+Onder de naam solidariteitsbijdrage wordt een belasting geheven van een bijdrageplichtige als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=2&artikel=2.1&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 1.2. Definities
 
@@ -120,7 +120,7 @@ In afwijking van [artikel 20, derde lid, van de Algemene wet inzake rijksbelasti
 
 1. Met betrekking tot een naheffingsaanslag wordt belastingrente als bedoeld in [Hoofdstuk VA van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VA) in rekening gebracht.
 
-2. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag volgend op de laatste dag van de betaaltermijn, bedoeld in [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=5&artikel=5.1&z=2022-12-28&g=2022-12-28), en eindigt op de dag voorafgaand aan de dag waarop de naheffingsaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) en heeft als grondslag de nageheven solidariteitsbijdrage.
+2. De belastingrente wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag volgend op de laatste dag van de betaaltermijn, bedoeld in [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=5&artikel=5.1&z=2023-01-01&g=2023-01-01), en eindigt op de dag voorafgaand aan de dag waarop de naheffingsaanslag invorderbaar is ingevolge [artikel 9 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=9) en heeft als grondslag de nageheven solidariteitsbijdrage.
 
 3. Indien een naheffingsaanslag ter zake waarvan belastingrente in rekening is gebracht naar aanleiding van een bezwaarschrift, een daaropvolgende gerechtelijke procedure of een ambtshalve vermindering wordt verminderd of wordt vernietigd, wordt de eerder in rekening gebrachte rente naar evenredigheid verminderd, onderscheidenlijk vernietigd.
 
@@ -128,7 +128,7 @@ In afwijking van [artikel 20, derde lid, van de Algemene wet inzake rijksbelasti
 
 ##### Artikel 6.3. Bestuurlijke boeten
 
-1. Voor de toepassing van [artikel 67b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67b) vormt het verzuim het niet doen van aangifte dan wel het niet doen van aangifte binnen de termijn, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=5&artikel=5.1&z=2022-12-28&g=2022-12-28).
+1. Voor de toepassing van [artikel 67b, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67b) vormt het verzuim het niet doen van aangifte dan wel het niet doen van aangifte binnen de termijn, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=5&artikel=5.1&z=2023-01-01&g=2023-01-01).
 
 2. In afwijking van de [artikelen 67c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67c), en [67f, vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67f) vervalt de bevoegdheid tot het opleggen van een bestuurlijke boete op grond van die artikelen door verloop van zeven jaren na afloop van het kalenderjaar waarin de belastingschuld is ontstaan.
 
@@ -162,17 +162,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ### Hoofdstuk 8. Slotbepalingen
 
 ##### Artikel 8.1. Inwerkingtreding
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, werkt terug tot en met 1 januari 2022 en vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-2. In afwijking van het eerste lid treedt [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=7&artikel=7.2&z=2022-12-28&g=2022-12-28) in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treedt [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. In afwijking van het eerste lid treedt [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=7&artikel=7.3&z=2022-12-28&g=2022-12-28) in werking met ingang van 1 januari 2023, dan wel indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 januari 2023, treedt artikel 7.3 in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin de wet wordt geplaatst, en werkt terug tot en met 1 januari 2023. Artikel 7.3 vindt eerst toepassing nadat [artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) bij het begin van het kalenderjaar 2023 is toegepast.
+3. In afwijking van het eerste lid treedt [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047704&hoofdstuk=7&artikel=7.3&z=2023-01-01&g=2023-01-01) in werking met ingang van 1 januari 2023, dan wel indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 januari 2023, treedt artikel 7.3 in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin de wet wordt geplaatst, en werkt terug tot en met 1 januari 2023. Artikel 7.3 vindt eerst toepassing nadat [artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) bij het begin van het kalenderjaar 2023 is toegepast.
 
 ##### Artikel 8.2. Citeertitel
 
