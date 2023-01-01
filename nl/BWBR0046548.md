@@ -4,7 +4,7 @@ identifier: "BWBR0046548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046548"
 soort: "ministeriele-regeling"
@@ -42,13 +42,7 @@ Besluit:
 
 ##### Artikel I. Verlenging termijn leerlingentelling [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) en [WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280)
 
-1. De termijn voor het bepalen van het aantal leerlingen, bedoeld in [artikel 7, tweede lid, van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=7), en [artikel 6, tweede lid, van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=6), wordt voor de leerlingentelling op 1 februari 2022 verlengd tot 8 april 2022.
-
-2. De termijn voor het zenden van de opgave, bedoeld in [artikel 11, eerste lid, van het Besluit WPO BES 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046152&artikel=11), wordt voor de leerlingentelling op 1 februari 2022 verlengd tot 15 april 2022.
-
-3. De termijn voor het doen van de mededeling, bedoeld in[artikel 11, tweede lid, van het Besluit WPO BES 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046152&artikel=11), wordt voor de leerlingentelling op 1 februari 2022 verlengd tot 15 mei 2022.
-
-4. Dit artikel vervalt met ingang van 1 januari 2023.
+Vervallen
 
 ##### Artikel II. Wijziging Aanpassingsregeling WVO 2020
 
@@ -214,6 +208,6 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel XXIV. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 april 2022, met uitzondering van de [artikelen V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=V&z=2022-08-01&g=2022-08-01), [VIII, onderdelen A, onder 1, 3, 5 en 6, C, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=VIII&z=2022-08-01&g=2022-08-01), [XIV, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=XIV&z=2022-08-01&g=2022-08-01), en [XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=XV&z=2022-08-01&g=2022-08-01), die in werking treden met ingang van 1 augustus 2022.
+Deze regeling treedt in werking met ingang van 1 april 2022, met uitzondering van de [artikelen V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=V&z=2023-01-01&g=2023-01-01), [VIII, onderdelen A, onder 1, 3, 5 en 6, C, E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=VIII&z=2023-01-01&g=2023-01-01), [XIV, onderdeel E, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=XIV&z=2023-01-01&g=2023-01-01), en [XV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046548&artikel=XV&z=2023-01-01&g=2023-01-01), die in werking treden met ingang van 1 augustus 2022.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
