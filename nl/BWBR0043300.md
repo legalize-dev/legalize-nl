@@ -4,7 +4,7 @@ identifier: "BWBR0043300"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2020-10-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043300"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Wijzigt het Registratiebesluit BIG.
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 juli 2020, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=5&artikel=6&z=2020-10-01&g=2020-10-01), dat in werking treedt met ingang van 1 april 2020.
+Dit besluit treedt in werking met ingang van 1 juli 2020, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=5&artikel=6&z=2023-01-01&g=2023-01-01), dat in werking treedt met ingang van 1 april 2020.
 
 ##### Artikel 10
 
@@ -86,11 +86,11 @@ In dit besluit wordt verstaan onder de wet: de [Wet op de beroepen in de individ
 
 ##### Artikel 2
 
-Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van klinisch technologen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen van een masteropleiding voor klinisch technoloog heeft afgelegd, welke opleiding is opgenomen in het Centraal Register Opleidingen Hoger Onderwijs, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=3&z=2020-10-01&g=2020-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=4&z=2020-10-01&g=2020-10-01).
+Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van klinisch technologen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen van een masteropleiding voor klinisch technoloog heeft afgelegd, welke opleiding is opgenomen in de Registratie instellingen en opleidingen, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 3
 
-De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=2&artikel=2&z=2020-10-01&g=2020-10-01), heeft een studielast van 10.080 studiebelastingsuren, omvat zowel theoretisch als praktisch onderwijs, en is erop gericht dat de betrokkene de competenties verwerft die betrekking hebben op het gebied van deskundigheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=4&z=2020-10-01&g=2020-10-01), ter zake van:
+De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), heeft een studielast van 10.080 studiebelastingsuren, omvat zowel theoretisch als praktisch onderwijs, en is erop gericht dat de betrokkene de competenties verwerft die betrekking hebben op het gebied van deskundigheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), ter zake van:
 
 - a. technisch-medische deskundigheid;
 
