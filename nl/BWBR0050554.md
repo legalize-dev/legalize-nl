@@ -4,7 +4,7 @@ identifier: "BWBR0050554"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2022-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050554"
 soort: "wet"
@@ -94,8 +94,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Provinciewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI. [Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565)
 
 Wijzigt de Kadasterwet BES.
@@ -157,8 +155,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXI. [Wet herstel voorzieningen Sint Eustatius](https://wetten.overheid.nl/jci1.3:c:BWBR0043889)
 
 Wijzigt de Wet herstel voorzieningen Sint Eustatius.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII. [Wet incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612)
 
