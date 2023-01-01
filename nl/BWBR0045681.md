@@ -4,7 +4,7 @@ identifier: "BWBR0045681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2021-10-12"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045681"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Het plafond voor het verstrekken van de specifieke uitkeringen bedraagt in totaa
 
 ##### Artikel 3. Verstrekken van de specifieke uitkering
 
-1. De Minister verstrekt aan alle in Europees Nederland gelegen gemeenten een eenmalige specifieke uitkering om in de periode van 1 juli 2021 tot en met 31 juli 2023 in samenwerking met scholen en lokale partijen maatregelen te treffen om de onderwijsvertragingen bij kinderen als gevolg van COVID-19 in te lopen op cognitief, executief, sociaal en emotioneel vlak in aanvulling op de interventies die scholen nemen.
+1. De Minister verstrekt aan alle in Europees Nederland gelegen gemeenten een eenmalige specifieke uitkering om in de periode van 1 juli 2021 tot en met 31 juli 2025 in samenwerking met scholen en lokale partijen maatregelen te treffen om de onderwijsvertragingen bij kinderen als gevolg van COVID-19 in te lopen op cognitief, executief, sociaal en emotioneel vlak in aanvulling op de interventies die scholen nemen.
 
 2. Een specifieke uitkering wordt verstrekt voor kosten, bestaande uit:
 
@@ -110,7 +110,7 @@ De gemeente:
 
 - a. verleent medewerking aan de Minister bij het verzamelen van informatie ten behoeve van monitoring en evaluatie van deze regeling.
 
-- b. doet onverwijld een schriftelijke melding aan de Minister indien aannemelijk is geworden dat de activiteiten waarvoor de specifieke uitkering is verstrekt, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045681&artikel=3&z=2021-10-12&g=2021-10-12), niet tijdig of niet geheel zullen worden verricht of dat niet tijdig of niet geheel aan de verplichtingen in dit artikel zal worden voldaan.
+- b. doet onverwijld een schriftelijke melding aan de Minister indien aannemelijk is geworden dat de activiteiten waarvoor de specifieke uitkering is verstrekt, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045681&artikel=3&z=2023-01-01&g=2023-01-01), niet tijdig of niet geheel zullen worden verricht of dat niet tijdig of niet geheel aan de verplichtingen in dit artikel zal worden voldaan.
 
 ##### Artikel 6. Betaling
 
@@ -124,7 +124,7 @@ De gemeente:
 
 1. De ontvangende gemeente legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. De Minister stelt de specifieke uitkering vast nadat de gemeente de eindverantwoording, namelijk de jaarverslaggeving over jaar 2023 of uiterlijk over het jaar 2024, zoals bedoeld in het eerste lid, aan de Minister heeft verstrekt.
+2. De Minister stelt de specifieke uitkering vast nadat de gemeente de eindverantwoording, namelijk de jaarverslaggeving over uiterlijk het jaar 2026, zoals bedoeld in het eerste lid, aan de Minister heeft verstrekt.
 
 3. Als uit de eindverantwoording blijkt dat de uitkering niet, niet geheel, of onrechtmatig is besteed kan de Minister tot twaalf maanden na het ontvangen van de eindverantwoording de uitkering ter hoogte van het niet of onrechtmatig bestede deel terugvorderen.
 
@@ -132,7 +132,7 @@ De gemeente:
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2021.
 
-2. Deze regeling vervalt met ingang van 1 juli 2026.
+2. Deze regeling vervalt met ingang van 1 juli 2028.
 
 ##### Artikel 9. Citeertitel
 
