@@ -4,7 +4,7 @@ identifier: "BWBR0036723"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2017-03-18"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036723"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - e). **commissie:** de commissie van toezicht op de arrestantenzorg, bedoeld in [artikel 50, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50);
 
-- f). **landelijk afstemmingsoverleg:** het overleg, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=6&z=2017-03-18&g=2017-03-18);
+- f). **landelijk afstemmingsoverleg:** het overleg, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=6&z=2023-01-01&g=2023-01-01);
 
 - g). **de minister:** de Minister van Veiligheid en Justitie;
 
@@ -114,13 +114,15 @@ Voor benoeming als lid komen niet in aanmerking:
 
 7. Van de bevindingen tijdens een inspectie wordt ten behoeve van de voor de arrestantenzorg direct verantwoordelijke leidinggevende een verslag gemaakt. De politiechef ontvangt een afschrift van dit verslag.
 
+8. De commissie overlegt jaarlijks met de politiechef over haar werkzaamheden en bevindingen op het terrein van het toezicht op de arrestantenzorg.
+
 ##### Artikel 6
 
 1. Er is een landelijk afstemmingsoverleg voor de borging van de kwaliteit van het toezicht op de arrestantenzorg. Het landelijk afstemmingsoverleg bestaat uit maximaal vier leden die door de voorzitters van de commissies uit hun midden worden aangewezen.
 
 2. Het landelijk afstemmingsoverleg ontwikkelt ten behoeve van de commissies handreikingen met betrekking tot de kwaliteit en frequentie van het toezicht op de arrestantenzorg.
 
-3. Het landelijk afstemmingsoverleg rapporteert jaarlijks voor 1 maart aan de korpschef over haar activiteiten en bevindingen op het terrein van het toezicht op de arrestantenzorg door de politie. [Artikel 50, zesde lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50) is van overeenkomstige toepassing op de rapporten van het landelijk afstemmingsoverleg, met dien verstande dat de korpschef zijn verslag in afschrift aan de leden van het landelijk afstemmingsoverleg zendt.
+3. Het landelijk afstemmingsoverleg rapporteert jaarlijks aan de korpschef over haar activiteiten en bevindingen op het terrein van het toezicht op de arrestantenzorg door de politie en voert hierover jaarlijks overleg met de korpschef. [Artikel 50, zesde lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50) is van overeenkomstige toepassing op de rapporten van het landelijke afstemmingsoverleg.
 
 4. De korpschef wijst een secretaris voor het landelijk afstemmingsoverleg aan. De secretaris is een ambtenaar van politie als bedoeld in [artikel 2, onder a of b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2). De secretaris is geen lid van het landelijk afstemmingsoverleg, neemt niet deel aan de besluitvorming van het landelijk afstemmingsoverleg en is in diens taak niet betrokken bij de arrestantenzorg.
 
@@ -130,7 +132,7 @@ De korpschef voorziet in de bekostiging van de commissies en het landelijk afste
 
 ##### Artikel 8
 
-In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=2&z=2017-03-18&g=2017-03-18), kunnen de leden van de commissies van toezicht op de arrestantenzorg tot uiterlijk 1 januari 2016 worden benoemd op voordracht van de leden van deze commissies uit hun midden.
+In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=2&z=2023-01-01&g=2023-01-01), kunnen de leden van de commissies van toezicht op de arrestantenzorg tot uiterlijk 1 januari 2016 worden benoemd op voordracht van de leden van deze commissies uit hun midden.
 
 ##### Artikel 9
 
