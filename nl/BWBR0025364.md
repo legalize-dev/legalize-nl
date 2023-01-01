@@ -4,7 +4,7 @@ identifier: "BWBR0025364"
 country: "nl"
 rank: "wet"
 publication_date: "2024-08-01"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025364"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- **college:** College voor toetsen en examens, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2022-08-01&g=2022-08-01);
+- **college:** College voor toetsen en examens, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2023-01-01&g=2023-01-01);
 
 - **Cito:** Stichting Cito Instituut voor Toetsontwikkeling, genoemd in [artikel 3 van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3);
 
@@ -100,21 +100,7 @@ In deze wet wordt verstaan onder:
 
 - c. het tot stand brengen en bij regeling vaststellen van de beoordelingsnormen.
 
-6. Het college is belast met de volgende taken op het gebied van de centrale eindtoets, bedoeld in [artikel 9b, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [artikel 18b, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), en de toets, bedoeld in artikel 9b, tweede lid, tweede volzin, van de Wet op het primair onderwijs en artikel 18b, tweede lid, tweede volzin, van de Wet op de expertisecentra:
-
-- a. het vaststellen van het tijdstip en de tijdsduur van de toets, de wijze waarop en de vorm waarin de toets wordt afgenomen;
-
-- b. het tot stand brengen en vaststellen van de opgaven van de toets en het bij regeling vaststellen van de toetswijzer overeenkomstig de kerndoelen met betrekking tot Nederlandse taal en rekenen en wiskunde, bedoeld in [artikel 9 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) en [artikel 13 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13) en met inachtneming van de referentieniveaus Nederlandse taal en de referentieniveaus rekenen, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel b, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2);
-
-- c. het tot stand brengen en vaststellen van de opgaven van de toets en het bij regeling vaststellen van de toetswijzer overeenkomstig de kerndoelen voor de kennisgebieden, genoemd in [artikel 9, tweede lid, onderdelen a, b en c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) en [artikel 13, derde lid, onderdelen a, b en c, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13);
-
-- d. het tot stand brengen en bij regeling vaststellen van de beoordelingsnormen en de daarbij behorende scores;
-
-- e. het geven van regels met betrekking tot de hulpmiddelen die gebruikt mogen worden bij het maken van de toets; en
-
-- f. het opstellen van het leerlingrapport.
-
-7. Het college is verder nog belast met de volgende taken:
+6. Het college is verder nog belast met de volgende taken:
 
 - a. het afnemen van examens onder bijzondere omstandigheden;
 
@@ -122,9 +108,9 @@ In deze wet wordt verstaan onder:
 
 - c. het uitoefenen van andere door Onze Minister opgedragen taken.
 
-8. De regelingen, bedoeld in het tweede lid, onderdelen e en f, en vijfde lid, onderdeel a, treden slechts in werking na goedkeuring door Onze Minister. Onze Minister kan zijn goedkeuring onthouden wegens strijd met het recht of het algemeen belang.
+7. De regelingen, bedoeld in het tweede lid, onderdelen e en f, en vijfde lid, onderdeel a, treden slechts in werking na goedkeuring door Onze Minister. Onze Minister kan zijn goedkeuring onthouden wegens strijd met het recht of het algemeen belang.
 
-9. In afwijking van [artikel 5, aanhef en onder b, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) kan de bekendmaking van een regeling als bedoeld in het tweede lid, onderdeel d, vierde lid, onderdeel c, of vijfde lid, onderdeel c, geschieden op een andere geschikte, al dan niet elektronische, wijze.
+8. In afwijking van [artikel 5, aanhef en onder b, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) kan de bekendmaking van een regeling als bedoeld in het tweede lid, onderdeel d, vierde lid, onderdeel c, of vijfde lid, onderdeel c, geschieden op een andere geschikte, al dan niet elektronische, wijze.
 
 ##### Artikel 3
 
@@ -164,7 +150,7 @@ Het college stelt een bestuursreglement vast, waarin in elk geval regels over de
 
 - a. de voorgenomen activiteiten van het college;
 
-- b. de voorstellen voor de uitvoerende werkzaamheden op het terrein van de toetsen, bedoeld in [artikel 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [artikel 18b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), de centrale examens of op het terrein van de staatsexamens, bedoeld in [hoofdstuk 2, paragraaf 7, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=7) en de daarop berustende bepalingen, waaronder in ieder geval de werkzaamheden van de Cito;
+- b. de voorstellen voor de uitvoerende werkzaamheden op het terrein van de centrale examens of op het terrein van de staatsexamens, bedoeld in [hoofdstuk 2, paragraaf 7, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=7) en de daarop berustende bepalingen, waaronder in ieder geval de werkzaamheden van de Cito;
 
 - c. de voorstellen voor de kosten van de werkzaamheden, bedoeld in onderdeel b.
 
@@ -172,7 +158,7 @@ Het college stelt een bestuursreglement vast, waarin in elk geval regels over de
 
 ##### Artikel 9*
 
-Zolang een of meer van de in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2022-08-01&g=2022-08-01), genoemde artikelen van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=8&z=2022-08-01&g=2022-08-01), uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra.
+Zolang een of meer van de in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2023-01-01&g=2023-01-01), genoemde artikelen van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=8&z=2023-01-01&g=2023-01-01), uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra.
 
 ##### Artikel 10
 
@@ -184,11 +170,11 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ##### Artikel 12
 
-De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=1) zoals deze artikelen luidden op de dag voor de inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=11&z=2022-08-01&g=2022-08-01) worden overgedragen aan het college.
+De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=1) zoals deze artikelen luidden op de dag voor de inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=11&z=2023-01-01&g=2023-01-01) worden overgedragen aan het college.
 
 ##### Artikel 13
 
-Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=13), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=3) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2022-08-01&g=2022-08-01) van deze wet.
+Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=13), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=3) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2023-01-01&g=2023-01-01) van deze wet.
 
 ##### Artikel 14
 
@@ -208,7 +194,37 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 3a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het college is belast met de volgende taken op het gebied van toetsen in het basisonderwijs en het speciaal onderwijs:
+
+- a. erkenning voor een periode van vier jaar van doorstroomtoetsen als doorstroomtoets, bedoeld in [artikel 45b, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b), [artikel 48c, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48c) en [artikel 51b, eerste lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51b);
+
+- b. jaarlijkse vaststelling of de in dat schooljaar aan te bieden erkende doorstroomtoets voldoet aan de criteria op basis waarvan de erkenning is verleend;
+
+- c. erkenning voor een periode van tien jaar van toetsen als toets, bedoeld in [artikel 45b, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b), [artikel 48c, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48c) en [artikel 51a, eerste lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51a);
+
+- d. het doen van mededelingen van de erkenningen, bedoeld in onderdelen a en c, en jaarlijkse vaststellingen, bedoeld in onderdeel b, op elektronische wijze;
+
+- e. het bij regeling vaststellen van de toetswijzer voor de verschillende niveaus overeenkomstig de kerndoelen met betrekking tot Nederlandse taal en rekenen en wiskunde, bedoeld in [artikel 9 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) en [artikel 13 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13) en met inachtneming van de referentieniveaus Nederlandse taal en de referentieniveaus rekenen, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel b, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2);
+
+- f. het bij regeling vaststellen van de procedure om te komen tot de beoordelingsnormen van de doorstroomtoetsen; en
+
+- g. het opstellen van een beoordelingskader voor de erkenning en jaarlijkse vaststelling, bedoeld in de onderdelen a tot en met c, waarin ten aanzien van de psychometrische, onderwijskundige en organisatorische aspecten van de toetsen de toepassing is vastgelegd van de regels, bedoeld in het tweede lid.
+
+2. Het college verleent een erkenning als bedoeld in het eerste lid, onderdelen a en c:
+
+- a. voor een doorstroomtoets, indien deze toets voldoet aan de voorwaarden, genoemd in [artikel 45b, vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b), [artikel 48c, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48c) of [artikel 51b, tweede lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51b), en het eerste lid, onderdeel e;
+
+- b. voor een toets verbonden aan een leerling- en onderwijsvolgsysteem, indien deze toets voldoet aan de voorwaarden, genoemd in [artikel 45b, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b), [artikel 48c, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48c) of [artikel 51a, tweede lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51a); en
+
+- c. de toets, bedoeld in de onderdelen a of b, voldoet aan de bij of krachtens algemene maatregel van bestuur te stellen regels over de validiteit, betrouwbaarheid, deugdelijke normering, organisatorische aspecten en voor ouders en leerlingen inzichtelijke weergave van de resultaten.
+
+3. Het college beslist binnen vijftien weken na ontvangst van een aanvraag tot erkenning of jaarlijkse vaststelling als bedoeld in het eerste lid, onderdelen a tot en met c.
+
+4. Indien het college vaststelt dat een doorstroomtoets of een toets verbonden aan een leerling- en onderwijsvolgsysteem niet langer voldoet aan de criteria op basis waarvan de erkenning, bedoeld in het eerste lid, onderdelen a of c, is verleend, kan het college de erkenning intrekken.
+
+5. De voordracht voor een krachtens het tweede lid, onderdeel c, vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+6. De regeling en het beoordelingskader, bedoeld in het eerste lid, onderdelen f en g, worden vastgesteld na goedkeuring door Onze Minister. Onze Minister kan zijn goedkeuring onthouden wegens strijd met het recht of het algemeen belang.
 
 ##### Artikel 9
 
