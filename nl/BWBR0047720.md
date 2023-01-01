@@ -4,7 +4,7 @@ identifier: "BWBR0047720"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-12-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047720"
 soort: "wet"
@@ -41,85 +41,57 @@ entry_into_force: "2022-12-28"
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Wijzigt de Algemene nabestaandenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene Ouderdomswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752)
 
 Wijzigt het Burgerlijk Wetboek BES Boek 7a.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
 Wijzigt de Participatiewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI. [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
 
 Wijzigt de Politiewet 2012.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
 
 Wijzigt de Remigratiewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
 Wijzigt de Wet algemene ouderdomsverzekering BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
 
 Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel X. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
 
 Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI. [Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952)
 
 Wijzigt de Wet ambtenaren defensie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII. [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
 Wijzigt de Wet arbeid vreemdelingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIV. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
 Wijzigt de Wet financiering sociale verzekeringen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV. [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770)
 
@@ -129,31 +101,21 @@ Wijzigt de Wet inburgering 2021.
 
 Wijzigt de Wet invoering minimumuurloon.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
 
 Wijzigt de Wet kinderbijslagvoorziening BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII. [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
 Wijzigt de Wet kinderopvang.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIIa. [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058)
 
 Wijzigt de Wet op de Sociaal-Economische Raad.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII. [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987)
 
 Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX. [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751)
 
@@ -163,19 +125,13 @@ Wijzigt de Wet op het kindgebonden budget.
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXa. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI. [Wet werken na de AOW-gerechtigde leeftijd](https://wetten.overheid.nl/jci1.3:c:BWBR0037099)
 
 Wijzigt de Wet werken na de AOW-gerechtigde leeftijd.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
@@ -185,23 +141,21 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 Wijzigt de Ziektewet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIV. Overgangsrecht [artikel 1614ca van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1614ca)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien de vrouwelijke arbeider op het tijdstip waarop [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=IV&z=2023-01-01&g=2023-01-01) van de Verzamelwet SZW 2023 in werking treedt reeds met zwangerschaps- of bevallingsverlof is, blijft op dat verlof [artikel 1614ca, tweede en derde lid, van Boek 7a van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1614ca) van toepassing zoals deze leden luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van artikel IV van de Verzamelwet SZW 2023.
+
+2. Dit artikel vervalt één jaar na het tijdstip van inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=IV&z=2023-01-01&g=2023-01-01) van de Verzamelwet SZW 2023.
 
 ##### Artikel XXV. Samenloop
 
 Wijzigt de Wijzigingswet Kaderwet zelfstandige bestuursorganen, enz. (doorvoeren van aanbevelingen uit de tweede evaluatie van de Kaderwet zelfstandige bestuursorganen) (Kst. 35890).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVI. Inwerkingtreding
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit kan worden bepaald dat de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=XV&z=2022-12-28&g=2022-12-28), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=XIX&z=2022-12-28&g=2022-12-28) en [XXII, onderdeel A, onderdeel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=XXII&z=2022-12-28&g=2022-12-28), terugwerken tot en met 1 januari 2022.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit kan worden bepaald dat de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=XV&z=2023-01-01&g=2023-01-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=XIX&z=2023-01-01&g=2023-01-01) en [XXII, onderdeel A, onderdeel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=XXII&z=2023-01-01&g=2023-01-01), terugwerken tot en met 1 januari 2022.
 
-2. [Artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=V&z=2022-12-28&g=2022-12-28), van deze wet treedt in werking met ingang van 1 januari 2023. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2022, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt het terug tot en met 1 januari 2023.
+2. [Artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047720&artikel=V&z=2023-01-01&g=2023-01-01), van deze wet treedt in werking met ingang van 1 januari 2023. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2022, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt het terug tot en met 1 januari 2023.
 
 ##### Artikel XXVII. Citeertitel
 
