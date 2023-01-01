@@ -4,7 +4,7 @@ identifier: "BWBR0030327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2021-04-08"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030327"
 soort: "ministeriele-regeling"
@@ -180,15 +180,29 @@ Het hoofd van de afdeling Creatie en Publieksinformatie is verantwoordelijk voor
 
 ##### Artikel 7
 
-De coördinator van de afdeling Stafbureau is in de dagelijkse aansturing verantwoordelijk voor:
+Het hoofd van de afdeling Omgevingskennis en Responsiviteit is verantwoordelijk voor:
 
-- a. het adviseren en ondersteunen van de leiding bij het managen van de organisatie van de directie Communicatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
+- a. het versterken van de signaalfunctie (over de grenzen van de organisatie heen) en het verbeteren van de responsiviteit van het ministerie, waarmee de beleidsdirecties in staat worden gesteld om gerichter beleid te ontwikkelen;
 
-- b. het bezien van de directiebrede consequenties;
+- b. het beoordelen welke issues en trends relevant zijn voor het ministerie;
 
-- c. het directiebreed leveren van de geïntegreerde managementinformatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
+- c. het gericht en structureel ophalen van signalen uit de samenleving, deze te monitoren en te analyseren;
 
-- d. het adviseren over en het monitoren van de organisatorische, financiële en personele consequenties van de interdepartementale ontwikkelingen in Voorlichtingsraad-verband.
+- d. het regulier opstellen van de (dagelijkse) media- en omgevingsoverzichten, inclusief duiding en analyse;
+
+- e. het dagelijks, gedurende de dag, monitoren van het nieuws;
+
+- f. analyses waarin een integraal omgevingsbeeld is opgenomen, waarbij media mogelijk wordt aangevuld met bijvoorbeeld social media, publieksvragen en gericht opinieonderzoek. Omgevingsbeelden vertalen naar issues en concrete adviezen aan het ministerie;
+
+- g. het omzetten van data en analyse naar gerichte adviezen. Dat kan gaan over bijvoorbeeld onderdelen van het beleidsinstrumentarium of meer gericht inzichten vanuit de gedragswetenschap zoals nudging;
+
+- h. het onderzoeken van de corporate identiteit en de beleidsthema’s van het ministerie vanuit de communicatiediscipline;
+
+- i. het adviseren van de communicatieadviseurs en woordvoerders, beleidsdirecties en bewindspersonen op basis van de resultaten van het onderzoek genoemd in onderdeel m;
+
+- j. het vergaren, analyseren en duiden van omgevingskennis;
+
+- k. het monitoren van beleidsonderwerpen ten behoeve van het ministerie.
 
 #### § 3. Bevoegdheden
 
@@ -235,5 +249,23 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 7
+
+De coördinator van de afdeling Stafbureau is in de dagelijkse aansturing verantwoordelijk voor:
+
+- a. het adviseren en ondersteunen van de leiding bij het managen van de organisatie van de directie Communicatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
+
+- b. het bezien van de directiebrede consequenties;
+
+- c. het directiebreed leveren van de geïntegreerde managementinformatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
+
+- d. het adviseren over en het monitoren van de organisatorische, financiële en personele consequenties van de interdepartementale ontwikkelingen in Voorlichtingsraad-verband.
+
+#### § 3. Bevoegdheden
+
+#### § 4. Slotbepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
