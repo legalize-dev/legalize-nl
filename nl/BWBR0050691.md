@@ -4,7 +4,7 @@ identifier: "BWBR0050691"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2022-09-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050691"
 soort: "AMvB"
@@ -127,6 +127,30 @@ Wijzigt het Algemeen militair ambtenarenreglement.
 ##### Artikel 7.2
 
 Wijzigt het Burgerlijk ambtenarenreglement defensie.
+
+### Hoofdstuk 9. Wijzigingen met ingang van 1 juli 2023
+
+### Hoofdstuk 10. Slotbepalingen
+
+##### Artikel 8.1
+
+Wijzigt het Besluit personenchauffeurs defensie.
+
+##### Artikel 8.2
+
+Wijzigt het Besluit uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie.
+
+##### Artikel 8.3
+
+Wijzigt het Burgerlijk ambtenarenreglement defensie.
+
+##### Artikel 8.4
+
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
+
+##### Artikel 8.5
+
+Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 9. Wijzigingen met ingang van 1 juli 2023
 
