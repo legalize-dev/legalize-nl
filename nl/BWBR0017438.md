@@ -4,7 +4,7 @@ identifier: "BWBR0017438"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2013-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017438"
 soort: "wet"
@@ -52,7 +52,7 @@ In afwijking van [artikel 994 van het Wetboek van Burgerlijke Rechtsvordering](h
 
 ##### Artikel 3
 
-Voor alle vorderingen, bedoeld in artikel 81 van de verordening, is in eerste aanleg uitsluitend bevoegd de rechtbank Den Haag en in kort geding de voorzieningenrechter van die rechtbank.
+Voor alle vorderingen, bedoeld in artikel 81 van de verordening, is in eerste aanleg uitsluitend bevoegd de rechtbank Den Haag en in kort geding de voorzieningenrechter van de rechtbank die op grond van artikel 4.6 van het Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) bevoegd is.
 
 ##### Artikel 4
 
