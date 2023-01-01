@@ -4,7 +4,7 @@ identifier: "BWBR0011461"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2011-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011461"
 soort: "AMvB"
@@ -52,19 +52,19 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder Centraal register opleidingen hoger onderwijs: het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
+In dit besluit wordt verstaan onder Registratie instellingen en opleidingen: het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
 #### § 2. Titel
 
 ##### Artikel 2
 
-Het recht tot het voeren van de titel van optometrist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor optometrie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=3&artikel=3&z=2011-01-01&g=2011-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=3&artikel=4&z=2011-01-01&g=2011-01-01).
+Het recht tot het voeren van de titel van optometrist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor optometrie die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01).
 
 #### § 3. Opleiding
 
 ##### Artikel 3
 
-1. Een opleiding voor optometrie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=2&artikel=2&z=2011-01-01&g=2011-01-01) omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de optometrist die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=4&artikel=5&z=2011-01-01&g=2011-01-01):
+1. Een opleiding voor optometrie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01) omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de optometrist die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=4&artikel=5&z=2023-01-01&g=2023-01-01):
 
 - a. diagnostiek;
 
@@ -78,7 +78,7 @@ Het recht tot het voeren van de titel van optometrist is voorbehouden aan degene
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat ten minste stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=4&artikel=5&z=2011-01-01&g=2011-01-01), onder toezicht van een optometrist.
+2. Het praktische onderwijs omvat ten minste stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011461&paragraaf=4&artikel=5&z=2023-01-01&g=2023-01-01), onder toezicht van een optometrist.
 
 ##### Artikel 4
 
