@@ -4,7 +4,7 @@ identifier: "BWBR0038004"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2017-07-05"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038004"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving, bedoeld in [artikel 13, eerste lid, van de Wet ruimtevaartactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&artikel=13), zijn belast de ambtenaren met de functiebenamingen coördinerend/specialistisch inspecteur, senior inspecteur en inspecteur/medewerker toezicht van de hoofdafdeling Toezicht van Agentschap Telecom van het Ministerie van Economische Zaken.
+Met het toezicht op de naleving, bedoeld in [artikel 13, eerste lid, van de Wet ruimtevaartactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&artikel=13), zijn belast de ambtenaren met de functiebenamingen coördinerend/specialistisch inspecteur, senior inspecteur en inspecteur/medewerker toezicht van de directies Apparatuur, Infrastructuur en Digitale Weerbaarheid van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 2
 
