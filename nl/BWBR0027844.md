@@ -4,7 +4,7 @@ identifier: "BWBR0027844"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2017-12-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027844"
 soort: "AMvB"
@@ -54,13 +54,13 @@ Treedt in werking op het tijdstip waarop de Wet veiligheidsregio's in werking tr
 
 In dit besluit wordt verstaan onder:
 
-- **commando plaats incident:** commando plaats incident als bedoeld in [artikel 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2017-12-01&g=2017-12-01);
+- **commando plaats incident:** commando plaats incident als bedoeld in [artikel 2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2023-01-01&g=2023-01-01);
 
-- **gemeentelijk beleidsteam:** gemeentelijk beleidsteam als bedoeld in [artikel 2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.5&z=2017-12-01&g=2017-12-01);
+- **gemeentelijk beleidsteam:** gemeentelijk beleidsteam als bedoeld in [artikel 2.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.5&z=2023-01-01&g=2023-01-01);
 
-- **grootschalige alarmering:** het bij een ramp of crisis onverwijld en volledig alarmeren van de onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing, bedoeld in [artikel 2.1.1, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2017-12-01&g=2017-12-01);
+- **grootschalige alarmering:** het bij een ramp of crisis onverwijld en volledig alarmeren van de onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing, bedoeld in [artikel 2.1.1, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2023-01-01&g=2023-01-01);
 
-- **hoofdstructuur van de rampenbestrijding en crisisbeheersing:** hoofdstructuur van de rampenbestrijding en crisisbeheersing als bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2017-12-01&g=2017-12-01);
+- **hoofdstructuur van de rampenbestrijding en crisisbeheersing:** hoofdstructuur van de rampenbestrijding en crisisbeheersing als bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2023-01-01&g=2023-01-01);
 
 - **meldkamer:** gemeenschappelijke meldkamer, bedoeld in [artikel 35, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=35);
 
@@ -68,15 +68,15 @@ In dit besluit wordt verstaan onder:
 
 - **opkomsttijd:** de tijd tussen aanname van de melding door de meldkamer en de aankomst van de eerste brandweereenheid op de plaats van het incident;
 
-- **rapport:** rapport inzake de bedrijfsbrandweer, bedoeld in [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2017-12-01&g=2017-12-01);
+- **rapport:** rapport inzake de bedrijfsbrandweer, bedoeld in [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01);
 
 - **regionaal beleidsteam:** regionaal beleidsteam als bedoeld in [artikel 39, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39);
 
-- **regionaal operationeel team:** regionaal operationeel team als bedoeld in [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2017-12-01&g=2017-12-01);
+- **regionaal operationeel team:** regionaal operationeel team als bedoeld in [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2023-01-01&g=2023-01-01);
 
 - **risicoprofiel:** risicoprofiel als bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=15);
 
-- **team bevolkingszorg:** team bevolkingszorg als bedoeld in [artikel 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2017-12-01&g=2017-12-01);
+- **team bevolkingszorg:** team bevolkingszorg als bedoeld in [artikel 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2023-01-01&g=2023-01-01);
 
 - **veiligheidsrapport:** rapport als bedoeld in [artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=1);
 
@@ -178,13 +178,13 @@ Het bestuur van de veiligheidsregio stelt criteria vast voor de situaties waarin
 
 ##### Artikel 2.2.3
 
-1. Binnen twee minuten nadat is vastgesteld dat is voldaan aan de criteria voor grootschalige alarmering, begint de meldkamer met de alarmering van de onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing, bedoeld in [artikel 2.1.1, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2017-12-01&g=2017-12-01), en wordt de burgemeester of in het geval [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39) van toepassing is, de voorzitter van de veiligheidsregio en de betrokken burgemeesters geïnformeerd.
+1. Binnen twee minuten nadat is vastgesteld dat is voldaan aan de criteria voor grootschalige alarmering, begint de meldkamer met de alarmering van de onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing, bedoeld in [artikel 2.1.1, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2023-01-01&g=2023-01-01), en wordt de burgemeester of in het geval [artikel 39 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=39) van toepassing is, de voorzitter van de veiligheidsregio en de betrokken burgemeesters geïnformeerd.
 
 2. Afhankelijk van de aard en omstandigheden van de ramp of crisis, alarmeert de meldkamer andere functionarissen en eenheden die nodig zijn voor de rampenbestrijding en crisisbeheersing.
 
 ##### Artikel 2.2.4
 
-Binnen vijf minuten nadat is vastgesteld dat is voldaan aan de criteria voor grootschalige alarmering geeft de meldkamer, op grond van de beschikbare gegevens, een zo volledig mogelijke beschrijving van het incident aan de onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing en aan andere functionarissen of eenheden als bedoeld in [artikel 2.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2017-12-01&g=2017-12-01).
+Binnen vijf minuten nadat is vastgesteld dat is voldaan aan de criteria voor grootschalige alarmering geeft de meldkamer, op grond van de beschikbare gegevens, een zo volledig mogelijke beschrijving van het incident aan de onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing en aan andere functionarissen of eenheden als bedoeld in [artikel 2.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 2.2.5
 
@@ -200,7 +200,7 @@ Het bestuur van de veiligheidsregio draagt zorg voor een voorziening waardoor in
 
 ##### Artikel 2.3.2
 
-1. Vanaf het moment dat is vastgesteld dat is voldaan aan de criteria, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2017-12-01&g=2017-12-01) beginnen de volgende onderdelen of functionarissen binnen de gestelde tijd met de uitvoering van hun taken:
+1. Vanaf het moment dat is vastgesteld dat is voldaan aan de criteria, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2023-01-01&g=2023-01-01) beginnen de volgende onderdelen of functionarissen binnen de gestelde tijd met de uitvoering van hun taken:
 
 - a. een eerste commando plaats incident binnen dertig minuten;
 
@@ -236,7 +236,7 @@ Het bestuur van de veiligheidsregio draagt zorg voor een voorziening waardoor in
 
 ##### Artikel 2.4.2
 
-1. De onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing, bedoeld in [artikel 2.1.1, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2017-12-01&g=2017-12-01), houden bij de rampenbestrijding en crisisbeheersing een eigen beeld bij.
+1. De onderdelen van de hoofdstructuur van de rampenbestrijding en crisisbeheersing, bedoeld in [artikel 2.1.1, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=1&artikel=2.1.1&z=2023-01-01&g=2023-01-01), houden bij de rampenbestrijding en crisisbeheersing een eigen beeld bij.
 
 2. Het eigen beeld bestaat uit de beschikbare gegevens over de ontwikkeling en effecten van een incident, de risico’s voor de veiligheid van de hulpverleners en de personen in het getroffen gebied, de aanpak van het incident en de daarvoor benodigde mensen en middelen.
 
@@ -256,7 +256,7 @@ Een advies of opdracht van een onderdeel van de hoofdstructuur van de rampenbest
 
 ##### Artikel 2.4.4
 
-In het geval dat een advies of een opdracht niet of niet volledig is opgevolgd of uitgevoerd, wordt het onderdeel van de hoofdstructuur van de rampenbestrijding en crisisbeheersing dat dit advies of deze opdracht heeft gegeven, daarvan op de hoogte gesteld. De opdracht wordt vervolgens in overeenstemming met [artikel 2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=4&artikel=2.4.3&z=2017-12-01&g=2017-12-01) opnieuw geformuleerd.
+In het geval dat een advies of een opdracht niet of niet volledig is opgevolgd of uitgevoerd, wordt het onderdeel van de hoofdstructuur van de rampenbestrijding en crisisbeheersing dat dit advies of deze opdracht heeft gegeven, daarvan op de hoogte gesteld. De opdracht wordt vervolgens in overeenstemming met [artikel 2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=2&paragraaf=4&artikel=2.4.3&z=2023-01-01&g=2023-01-01) opnieuw geformuleerd.
 
 #### § 5. Eisen voor oefening
 
@@ -332,7 +332,7 @@ Ten behoeve van de uitvoering van de taken, genoemd in [artikel 25, eerste lid, 
 
 ##### Artikel 3.1.5
 
-1. In afwijking van [artikel 3.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=3&paragraaf=1&artikel=3.1.2&z=2017-12-01&g=2017-12-01), kan het bestuur van de veiligheidsregio besluiten tot een andere samenstelling van basisbrandweereenheden, mits daarmee wordt voorzien in een gelijkwaardig niveau van brandweerzorg en geen afbreuk wordt gedaan aan de veiligheid en gezondheid van het brandweerpersoneel.
+1. In afwijking van [artikel 3.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=3&paragraaf=1&artikel=3.1.2&z=2023-01-01&g=2023-01-01), kan het bestuur van de veiligheidsregio besluiten tot een andere samenstelling van basisbrandweereenheden, mits daarmee wordt voorzien in een gelijkwaardig niveau van brandweerzorg en geen afbreuk wordt gedaan aan de veiligheid en gezondheid van het brandweerpersoneel.
 
 2. Toepassing van het eerste lid doet geen afbreuk aan de afspraken, bedoeld in [artikel 51, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=51).
 
@@ -416,7 +416,7 @@ Vervallen
 
 1. In geval van bedreiging van de gezondheid van de bevolking werken een eenheid voor het verkennen van gevaarlijke stoffen, een eenheid bestrijding van ongevallen met gevaarlijke stoffen en een adviseur gevaarlijke stoffen samen met de in de regio werkzame instellingen, zorgaanbieders, ambulancevervoerders en gezondheidsdiensten, bedoeld in [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=33).
 
-2. Een eenheid voor de bestrijding van ongevallen met gevaarlijke stoffen en een adviseur gevaarlijke stoffen treden op in aanvulling op de basisbrandweereenheden, bedoeld in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2017-12-01&g=2017-12-01).
+2. Een eenheid voor de bestrijding van ongevallen met gevaarlijke stoffen en een adviseur gevaarlijke stoffen treden op in aanvulling op de basisbrandweereenheden, bedoeld in [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2023-01-01&g=2023-01-01).
 
 3. Voor de bestrijding van ongevallen met gevaarlijke stoffen beschikt de regionale brandweer over beschreven procedures voor:
 
@@ -428,7 +428,7 @@ Vervallen
 
 ##### Artikel 4.1.6
 
-1. De veiligheidsregio’s, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&bijlage=1&z=2017-12-01&g=2017-12-01) bij dit besluit, hebben mede ten behoeve van de genoemde omliggende veiligheidsregio’s, een ontsmettingseenheid voor grootschalige chemische, biologische, radiologische en nucleaire incidenten.
+1. De veiligheidsregio’s, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&bijlage=1&z=2023-01-01&g=2023-01-01) bij dit besluit, hebben mede ten behoeve van de genoemde omliggende veiligheidsregio’s, een ontsmettingseenheid voor grootschalige chemische, biologische, radiologische en nucleaire incidenten.
 
 2. Een ontsmettingseenheid voor grootschalige chemische, biologische, radiologische en nucleaire incidenten bestaat uit:
 
@@ -518,7 +518,7 @@ De schriftelijke afspraken over de geneeskundige hulpverlening tussen het bestuu
 
 ##### Artikel 6.1.2
 
-Onverminderd [artikel 6.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=1&artikel=6.1.7&z=2017-12-01&g=2017-12-01), worden het rampbestrijdingsplan of wijzigingen daarvan vastgesteld uiterlijk een jaar na het tijdstip waarop het bestuur van de veiligheidsregio, op grond van [artikel 6.15, eerste lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=6.15), de delen van het veiligheidsrapport waarvan een aanvraag om een omgevingsvergunning vergezeld gaat, heeft ontvangen.
+Onverminderd [artikel 6.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=1&artikel=6.1.7&z=2023-01-01&g=2023-01-01), worden het rampbestrijdingsplan of wijzigingen daarvan vastgesteld uiterlijk een jaar na het tijdstip waarop het bestuur van de veiligheidsregio, op grond van [artikel 6.15, eerste lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=6.15), de delen van het veiligheidsrapport waarvan een aanvraag om een omgevingsvergunning vergezeld gaat, heeft ontvangen.
 
 ##### Artikel 6.1.3
 
@@ -616,7 +616,7 @@ Het rampbestrijdingsplan bevat in ieder geval:
 
 3. Bij de oefeningen, bedoeld in het tweede lid, wordt het calamiteitenplan van de luchthaven mede geoefend.
 
-4. Het bestuur van de veiligheidsregio draagt zorg voor de evaluatie van de oefeningen, bedoeld in het tweede lid. Bij de uitvoering van de evaluatie worden de exploitant van een burgerluchthaven en de basiscommandant, bedoeld in [artikel 6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=2&artikel=6.2.1&z=2017-12-01&g=2017-12-01), betrokken.
+4. Het bestuur van de veiligheidsregio draagt zorg voor de evaluatie van de oefeningen, bedoeld in het tweede lid. Bij de uitvoering van de evaluatie worden de exploitant van een burgerluchthaven en de basiscommandant, bedoeld in [artikel 6.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=2&artikel=6.2.1&z=2023-01-01&g=2023-01-01), betrokken.
 
 5. Het bestuur van de veiligheidsregio draagt er zorg voor dat het rampbestrijdingsplan één maal per vier jaar wordt geactualiseerd.
 
@@ -626,17 +626,17 @@ Het rampbestrijdingsplan bevat in ieder geval:
 
 1. Het bestuur van de veiligheidsregio stelt een rampbestrijdingsplan vast voor een ramp in een afvalvoorziening categorie A als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
-2. [Artikel 6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=1&artikel=6.1.3&z=2017-12-01&g=2017-12-01) is van overeenkomstige toepassing op het rampbestrijdingsplan, bedoeld in het eerste lid.
+2. [Artikel 6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=1&artikel=6.1.3&z=2023-01-01&g=2023-01-01) is van overeenkomstige toepassing op het rampbestrijdingsplan, bedoeld in het eerste lid.
 
 3. Een rampbestrijdingsplan, bedoeld in het eerste lid, wordt vastgesteld uiterlijk een jaar na het tijdstip waarop het bevoegd gezag een afschrift van een aanvraag om een omgevingsvergunning voor een afvalvoorziening categorie A heeft ontvangen.
 
 ##### Artikel 6.3.2
 
-Degene die de afvalvoorziening categorie A drijft, verstrekt bij een aanvraag om een omgevingsvergunning voor die afvalvoorziening of op enig ander tijdstip aan het bevoegd gezag, bedoeld in [artikel 6.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2017-12-01&g=2017-12-01), en het bestuur van de veiligheidsregio de gegevens die nodig zijn opdat zij hun taken in het kader van de voorbereiding van bestrijding van een ramp naar behoren kunnen uitvoeren. Dit geldt niet voor zover deze gegevens reeds op grond van andere voorschriften zijn verschaft of kunnen worden verkregen.
+Degene die de afvalvoorziening categorie A drijft, verstrekt bij een aanvraag om een omgevingsvergunning voor die afvalvoorziening of op enig ander tijdstip aan het bevoegd gezag, bedoeld in [artikel 6.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2023-01-01&g=2023-01-01), en het bestuur van de veiligheidsregio de gegevens die nodig zijn opdat zij hun taken in het kader van de voorbereiding van bestrijding van een ramp naar behoren kunnen uitvoeren. Dit geldt niet voor zover deze gegevens reeds op grond van andere voorschriften zijn verschaft of kunnen worden verkregen.
 
 ##### Artikel 6.3.3
 
-Op de vaststelling van een rampbestrijdingsplan als bedoeld in [artikel 6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2017-12-01&g=2017-12-01) of van belangrijke wijzigingen daarvan is [artikel 6.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=1&artikel=6.1.4&z=2017-12-01&g=2017-12-01) van overeenkomstige toepassing.
+Op de vaststelling van een rampbestrijdingsplan als bedoeld in [artikel 6.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=3&artikel=6.3.1&z=2023-01-01&g=2023-01-01) of van belangrijke wijzigingen daarvan is [artikel 6.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=1&artikel=6.1.4&z=2023-01-01&g=2023-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Bedrijfsbrandweer
 
@@ -644,13 +644,9 @@ Op de vaststelling van een rampbestrijdingsplan als bedoeld in [artikel 6.3.1](h
 
 Voor een aanwijzing als inrichting die over een bedrijfsbrandweer moeten beschikken, komen in aanmerking:
 
-- a. inrichtingen als bedoeld in [artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015](onbekend);
+- a. inrichtingen als bedoeld in [artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=1);
 
-- b. inrichtingen met installaties waarop [hoofdstuk 2, afdeling 2, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=2) van toepassing is voor zover het betreft:
-
-- 1°. inrichtingen die geheel of nagenoeg geheel zijn bestemd voor de opslag in verband met vervoer van in die afdeling genoemde stoffen, al dan niet in combinatie met andere stoffen en producten;
-
-- 2°. spoorwegemplacementen voor zover zij geen onderdeel zijn van een inrichting als bedoeld in [artikel 1, eerste lid, van het Besluit risico’s zware ongevallen 2015](onbekend), en
+- b. inrichtingen die tot een krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) aangewezen categorie behoren en bestemd zijn voor de opslag in verband met vervoer van gevaarlijke stoffen, al dan niet in combinatie met andere stoffen en producten, waarin gevaarlijke stoffen krachtens een omgevingsvergunning op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) aanwezig mogen zijn. Onder «opslag in verband met vervoer van gevaarlijke stoffen» wordt verstaan: opslag van verpakte gevaarlijke stoffen als bedoeld in [artikel 2.2, onderdeel a, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.2) zoals dat luidde op 31 december 2022, gedurende korte tijd en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, met inbegrip van het laden en lossen van die stoffen en de overbrenging daarvan naar of van een andere tak van vervoer, voor zover daadwerkelijk in aansluitend vervoer is voorzien en de betrokken gevaarlijke stoffen in hun oorspronkelijke verpakking blijven.
 
 - c. inrichtingen, bedoeld in [artikel 15, onderdeel b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15), met uitzondering van de inrichtingen waarop [artikel 44 van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=44) van toepassing is.
 
@@ -690,13 +686,13 @@ Voor een aanwijzing als inrichting die over een bedrijfsbrandweer moeten beschik
 
 ##### Artikel 7.3
 
-1. Indien het bestuur van de veiligheidsregio van oordeel is dat de inrichting waarvoor het bestuur ingevolge [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2017-12-01&g=2017-12-01), een rapport heeft ontvangen in geval van een brand of ongeval bijzonder gevaar kan opleveren voor de openbare veiligheid, wijst het bestuur de inrichting aan die binnen een door het bestuur te stellen termijn over een bedrijfsbrandweer dient te beschikken.
+1. Indien het bestuur van de veiligheidsregio van oordeel is dat de inrichting waarvoor het bestuur ingevolge [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01), een rapport heeft ontvangen in geval van een brand of ongeval bijzonder gevaar kan opleveren voor de openbare veiligheid, wijst het bestuur de inrichting aan die binnen een door het bestuur te stellen termijn over een bedrijfsbrandweer dient te beschikken.
 
-2. Het bestuur van de veiligheidsregio gaat niet over tot het aanwijzen van een inrichting dan nadat de bestuursorganen, bedoeld in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2017-12-01&g=2017-12-01), door het bestuur in de gelegenheid zijn gesteld advies ter zake uit te brengen en nadat het hoofd of de bestuurder van de inrichting door het bestuur is gehoord.
+2. Het bestuur van de veiligheidsregio gaat niet over tot het aanwijzen van een inrichting dan nadat de bestuursorganen, bedoeld in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01), door het bestuur in de gelegenheid zijn gesteld advies ter zake uit te brengen en nadat het hoofd of de bestuurder van de inrichting door het bestuur is gehoord.
 
 3. Het bestuur van de veiligheidsregio kan inrichtingen aanwijzen die gezamenlijk over een bedrijfsbrandweer dienen te beschikken. Het tweede lid is van overeenkomstige toepassing.
 
-4. Het bestuur van de veiligheidsregio stuurt een afschrift van de aanwijzing aan de bestuursorganen, bedoeld in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2017-12-01&g=2017-12-01).
+4. Het bestuur van de veiligheidsregio stuurt een afschrift van de aanwijzing aan de bestuursorganen, bedoeld in [artikel 7.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01).
 
 5. Het bestuur van de veiligheidsregio kan in de aanwijzing, bedoeld in het eerste en derde lid, slechts eisen stellen aan:
 
@@ -716,25 +712,25 @@ Voor een aanwijzing als inrichting die over een bedrijfsbrandweer moeten beschik
 
 1. Na wijziging of uitbreiding van een aangewezen inrichting dan wel verandering van de daarin gebezigde processen die in betekenende mate consequenties hebben voor de inhoud van het rapport, dient het hoofd of de bestuurder van die inrichting zo spoedig mogelijk een dienovereenkomstig gewijzigd rapport aan het bestuur van de veiligheidsregio over te leggen.
 
-2. [Artikel 7.2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2017-12-01&g=2017-12-01), is van overeenkomstige toepassing.
+2. [Artikel 7.2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing.
 
 3. Indien het gewijzigde rapport, het veiligheidsrapport of de wijziging daarvan daartoe aanleiding geven, kan het bestuur van de veiligheidsregio de aanwijzing intrekken dan wel de bij de aanwijzing gestelde eisen wijzigen.
 
 4. Het bestuur van de veiligheidsregio bepaalt bij het vaststellen van gewijzigde eisen, bedoeld in het derde lid, een termijn waarbinnen aan die eisen moet zijn voldaan.
 
-5. [Artikel 7.3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.3&z=2017-12-01&g=2017-12-01), is van overeenkomstige toepassing.
+5. [Artikel 7.3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.3&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7.5
 
-1. Na wijziging van de omgeving van een aangewezen inrichting die in betekenende mate consequenties heeft voor gegevens over de geloofwaardige en maatgevende incidentscenario’s, bedoeld in [artikel 7.2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2017-12-01&g=2017-12-01), kan het bestuur van de veiligheidsregio de aanwijzing intrekken dan wel de bij de aanwijzing gestelde eisen wijzigen.
+1. Na wijziging van de omgeving van een aangewezen inrichting die in betekenende mate consequenties heeft voor gegevens over de geloofwaardige en maatgevende incidentscenario’s, bedoeld in [artikel 7.2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01), kan het bestuur van de veiligheidsregio de aanwijzing intrekken dan wel de bij de aanwijzing gestelde eisen wijzigen.
 
 2. Het bestuur van de veiligheidsregio bepaalt bij het vaststellen van gewijzigde eisen, bedoeld in het eerste lid, een termijn waarbinnen aan die eisen moet zijn voldaan.
 
-3. [Artikel 7.3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.3&z=2017-12-01&g=2017-12-01), is van overeenkomstige toepassing.
+3. [Artikel 7.3, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.3&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 7.6
 
-1. Op een aanwijzing die Onze Minister geeft ten aanzien van een inrichting die is gelegen op of deel uitmaakt van een bij de krijgsmacht in gebruik zijnd terrein, zijn de [artikelen 7.1 tot en met 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.1&z=2017-12-01&g=2017-12-01) van overeenkomstige toepassing met dien verstande dat Onze Minister tevens een exemplaar van het rapport zendt aan de Minister van Defensie en het bestuur van de veiligheidsregio.
+1. Op een aanwijzing die Onze Minister geeft ten aanzien van een inrichting die is gelegen op of deel uitmaakt van een bij de krijgsmacht in gebruik zijnd terrein, zijn de [artikelen 7.1 tot en met 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.1&z=2023-01-01&g=2023-01-01) van overeenkomstige toepassing met dien verstande dat Onze Minister tevens een exemplaar van het rapport zendt aan de Minister van Defensie en het bestuur van de veiligheidsregio.
 
 2. Onze Minister zendt een rapport aan het bestuur van de veiligheidsregio nadat hij het rapport zodanig heeft bewerkt dat de gegevens waarvoor geheimhouding geboden is, daarin niet voorkomen of daaruit niet kunnen worden afgeleid.
 
@@ -742,7 +738,7 @@ Voor een aanwijzing als inrichting die over een bedrijfsbrandweer moeten beschik
 
 ##### Artikel 8.1
 
-1. Onze Minister stelt, onder voorbehoud van goedkeuring van de begroting van de uitgaven en de ontvangsten van het Ministerie van Veiligheid en Justitie, jaarlijks vóór 1 juli voor het eerstvolgende jaar de bijdrage voor de doeluitkering aan de veiligheidsregio’s vast. Het voor de doeluitkering beschikbare totaalbedrag, bestaat uit de bedragen, bedoeld in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=8&artikel=8.2&z=2017-12-01&g=2017-12-01) en uit een vast en een variabel deel. Het vaste en variabele deel worden verdeeld volgens het verdeelsysteem in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&bijlage=2&z=2017-12-01&g=2017-12-01) bij dit besluit.
+1. Onze Minister stelt, onder voorbehoud van goedkeuring van de begroting van de uitgaven en de ontvangsten van het Ministerie van Veiligheid en Justitie, jaarlijks vóór 1 juli voor het eerstvolgende jaar de bijdrage voor de doeluitkering aan de veiligheidsregio’s vast. Het voor de doeluitkering beschikbare totaalbedrag, bestaat uit de bedragen, bedoeld in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=8&artikel=8.2&z=2023-01-01&g=2023-01-01) en uit een vast en een variabel deel. Het vaste en variabele deel worden verdeeld volgens het verdeelsysteem in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&bijlage=2&z=2023-01-01&g=2023-01-01) bij dit besluit.
 
 2. Onze Minister kan de jaarlijkse bijdrage bijstellen in verband met loon- en prijsmutaties die tot wijziging van het voor de doeluitkering beschikbare bedrag leiden.
 
@@ -760,7 +756,7 @@ Voor een aanwijzing als inrichting die over een bedrijfsbrandweer moeten beschik
 
 3. Voor de interregionale versterking van de veiligheidsregio’s Amsterdam-Amstelland en Kennemerland in verband met de luchthaven Schiphol ontvangt de veiligheidsregio Kennemerland jaarlijks een bedrag van € 2.500.000,–.
 
-4. Voor de uitvoering van de taak, bedoeld in [artikel 4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=4&paragraaf=1&artikel=4.1.6&z=2017-12-01&g=2017-12-01), ontvangen de veiligheidsregio’s, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&bijlage=1&z=2017-12-01&g=2017-12-01) bij dit besluit, elk jaarlijks een bedrag van € 175.000,–.
+4. Voor de uitvoering van de taak, bedoeld in [artikel 4.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=4&paragraaf=1&artikel=4.1.6&z=2023-01-01&g=2023-01-01), ontvangen de veiligheidsregio’s, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&bijlage=1&z=2023-01-01&g=2023-01-01) bij dit besluit, elk jaarlijks een bedrag van € 175.000,–.
 
 ##### Artikel 8.3
 
@@ -770,7 +766,7 @@ Voor een aanwijzing als inrichting die over een bedrijfsbrandweer moeten beschik
 
 ##### Artikel 8.4
 
-De betaling van de ingevolge de [artikelen 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=8&artikel=8.1&z=2017-12-01&g=2017-12-01) en [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=8&artikel=8.2&z=2017-12-01&g=2017-12-01) toegekende bijdragen vindt plaats in vier gelijke termijnen, op de eerste werkdag na de 14e van de eerste maand van ieder kwartaal.
+De betaling van de ingevolge de [artikelen 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=8&artikel=8.1&z=2023-01-01&g=2023-01-01) en [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=8&artikel=8.2&z=2023-01-01&g=2023-01-01) toegekende bijdragen vindt plaats in vier gelijke termijnen, op de eerste werkdag na de 14e van de eerste maand van ieder kwartaal.
 
 ##### Artikel 8.5
 
@@ -784,13 +780,13 @@ Indien de accountant een afkeurende verklaring of een verklaring met beperking o
 
 ##### Artikel 9.1
 
-1. De rampbestrijdingsplannen die op grond van het [Besluit rampbestrijdingsplannen inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010506) zijn vastgesteld door de burgemeester, blijven van kracht. Onverminderd het bepaalde in [artikel 6.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=1&artikel=6.1.7&z=2017-12-01&g=2017-12-01), worden zij door het bestuur van de veiligheidsregio opnieuw vastgesteld indien deze dit nodig oordeelt.
+1. De rampbestrijdingsplannen die op grond van het [Besluit rampbestrijdingsplannen inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0010506) zijn vastgesteld door de burgemeester, blijven van kracht. Onverminderd het bepaalde in [artikel 6.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=6&paragraaf=1&artikel=6.1.7&z=2023-01-01&g=2023-01-01), worden zij door het bestuur van de veiligheidsregio opnieuw vastgesteld indien deze dit nodig oordeelt.
 
 2. De rampbestrijdingsplannen die op grond van het [Besluit rampbestrijdingsplannen luchtvaartterreinen](https://wetten.overheid.nl/jci1.3:c:BWBR0012703) zijn vastgesteld door de burgemeester, blijven van kracht. Zij worden door het bestuur van de veiligheidsregio opnieuw vastgesteld indien deze dit nodig oordeelt.
 
 ##### Artikel 9.2
 
-Een aanwijzing, vastgesteld op grond van [artikel 4 van het Besluit bedrijfsbrandweren](https://wetten.overheid.nl/jci1.3:c:BWBR0004694&artikel=4), blijft van kracht met dien verstande dat de aanwijzing kan worden ingetrokken of de bij de aanwijzing gestelde eisen kunnen worden gewijzigd met toepassing van de [artikelen 7.4 tot en met 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.4&z=2017-12-01&g=2017-12-01).
+Een aanwijzing, vastgesteld op grond van [artikel 4 van het Besluit bedrijfsbrandweren](https://wetten.overheid.nl/jci1.3:c:BWBR0004694&artikel=4), blijft van kracht met dien verstande dat de aanwijzing kan worden ingetrokken of de bij de aanwijzing gestelde eisen kunnen worden gewijzigd met toepassing van de [artikelen 7.4 tot en met 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=7&artikel=7.4&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 9.3
 
@@ -811,47 +807,56 @@ Dit besluit wordt aangehaald als: Besluit veiligheidsregio’s.
 | Rotterdam-Rijnmond | Zuid-Holland-Zuid Midden- en West-Brabant Zeeland |
 | Haaglanden | Hollands Midden |
 
-## Bijlage 2. behorende bij [artikel 8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=8&artikel=8.1&z=2017-12-01&g=2017-12-01), van het Besluit veiligheidsregio’s
+## Bijlage 1. behorende bij [artikel 4.1.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=4&paragraaf=1&artikel=4.1.6&z=2023-01-01&g=2023-01-01)
+
+| **De veiligheidsregio’s die een ontsmettingseenheid voor grootschalige chemische, biologische, radiologische en nucleaire incidenten hebben, zijn:** | **De omliggende veiligheidsregio’s zijn:** |
+| --- | --- |
+| Groningen | Fryslân Drenthe |
+| Noord- en Oost-Gelderland | IJsselland Twente Gelderland-Midden Gelderland-Zuid |
+| Brabant- Zuidoost | Brabant-Noord Limburg-Noord Limburg-Zuid |
+| Amsterdam-Amstelland | Flevoland Gooi en Vechtstreek Kennemerland Noord-Holland-Noord Zaanstreek-Waterland Utrecht |
+| Rotterdam-Rijnmond | Zuid-Holland-Zuid Midden- en West-Brabant Zeeland |
+| Haaglanden | Hollands Midden |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Het voor het vaste en variabele deel van het voor de doeluitkering beschikbare bedrag wordt verdeeld op grond van de volgende formule:
 
-[vast deel + (8,15 * woonruimten) + (67,71 * bebouwde oppervlakte) + (0,48 * oadwr) + (659,22 * kernen500) + (2,41 * totale oppervlakte) + (7.736,14 * hoofdvaarwegen) + (28.430,04 * BRZO) + (0,32 * inwoners) + (11,37 * OZB niet-woningen)] * uitkeringsfactor.
+Het voor het vaste en variabele deel van het voor de doeluitkering beschikbare bedrag wordt verdeeld op grond van de volgende formule:
 
-De vaststelling van het aantal eenheden per structuurkenmerk of maatstaf geschiedt naar de toestand op 1 januari voorafgaand aan het uitkeringsjaar.
+[vast deel + (8,15 * woonruimten) + (67,71 * bebouwde oppervlakte) + (0,48 * oadwr) + (659,22 * kernen500) + (2,41 * totale oppervlakte) + (7.736,14 * hoofdvaarwegen) + (28.430,04 * BRZO) + (0,32 * inwoners) + (11,37 * OZB niet-woningen)] * uitkeringsfactor.
 
 ### Toelichting op de in de formule gebruikte structuurkenmerken en maatstaven
 
-### Bebouwde oppervlakte
+### Toelichting op de in de formule gebruikte structuurkenmerken en maatstaven
 
 Oppervlakte van de bebouwing in hectaren.
 
-Vindplaats: tabelnummer 21 van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+Oppervlakte van de bebouwing in hectaren.
 
 ### BRZO
 
 Het aantal hogedrempelbedrijven als bedoeld in [artikel 1 van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=1).
 
-Vindplaats: lijst van **risicovolle bedrijven** via www.brzoplus.nl; in die lijst zijn de hogedrempelbedrijven voorzien van het kenmerk **VR.**
+Het aantal hogedrempelbedrijven als bedoeld in [artikel 1 van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=1).
 
 ### Hoofdvaarwegen
 
 Lengte van de hoofdvaarwegen per kilometer in het hoofdvaarwegennet.
 
-Vindplaats: Ministerie van Infrastructuur en Milieu, database Vaarwegen in Nederland (VIN).
+Lengte van de hoofdvaarwegen per kilometer in het hoofdvaarwegennet.
 
 ### Inwoners
 
 Aantal inwoners.
 
-Vindplaats: tabelnummer 2 van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+Aantal inwoners.
 
 ### Kernen500
 
 Aantal woonkernen die ieder 500 adressen of meer omvatten.
 
-Vindplaats: tabelnummer 36a van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+Aantal woonkernen die ieder 500 adressen of meer omvatten.
 
 ### Oadwr
 
@@ -861,13 +866,13 @@ De oadwr (de omgevingsadressendichtheid woonruimten van een regio) wordt bereken
 
 Betreft de maatstaf «belastingcapaciteit niet-woningen»: Het totaal van de vastgestelde waarden van onroerende zaken die niet in hoofdzaak tot woning dienen, als bedoeld in [artikel 220, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220) en waarover naar de toestand op 1 januari van het uitkeringsjaar door de gemeente onroerende zaakbelastingen (Ozb) kan worden geheven. De maatstaf bedraagt 70% van de Ozb-waarde en wordt uitgedrukt in miljoenen euro’s.
 
-Vindplaats: tabelnummer 38a van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+Betreft de maatstaf «belastingcapaciteit niet-woningen»: Het totaal van de vastgestelde waarden van onroerende zaken die niet in hoofdzaak tot woning dienen, als bedoeld in [artikel 220, onderdeel b, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220) en waarover naar de toestand op 1 januari van het uitkeringsjaar door de gemeente onroerende zaakbelastingen (Ozb) kan worden geheven. De maatstaf bedraagt 70% van de Ozb-waarde en wordt uitgedrukt in miljoenen euro’s.
 
 ### Totale oppervlakte
 
 Totale oppervlakte van land, binnenwater en buitenwater in hectaren.
 
-Vindplaats: tabelnummers 16, 19 en 20 van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+Totale oppervlakte van land, binnenwater en buitenwater in hectaren.
 
 ### Uitkeringsfactor
 
@@ -880,6 +885,104 @@ Een gelijk bedrag per regio.
 ### Woonruimten
 
 Aantal woonruimten.
+
+Aantal woonruimten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1.2
+
+Dit onderdeel is nog niet inwerking getreden
+
+### Hoofdstuk 2. Eisen rampenbestrijding en crisisbeheersing
+
+#### § 1. Organisatie
+
+#### § 2. Alarmering
+
+#### § 3. Opschaling
+
+#### § 4. Informatiemanagement
+
+#### § 5. Eisen voor oefening
+
+### Hoofdstuk 3. Eisen brandweerzorg
+
+#### § 1. Organisatie
+
+#### § 2. Opkomsttijden
+
+#### § 3. Materieel en uitrusting
+
+### Hoofdstuk 4. Eisen bestrijding van ongevallen met gevaarlijke stoffen
+
+#### § 1. Organisatie
+
+#### § 2. Opkomsttijden
+
+#### § 3. Materieel en uitrusting
+
+### Hoofdstuk 5. Eisen afspraken geneeskundige hulpverlening
+
+### Hoofdstuk 6. Rampbestrijdingsplannen
+
+#### § 1. Rampbestrijdingsplannen voor inrichtingen
+
+#### § 2. Rampbestrijdingsplannen voor luchthavens
+
+#### § 3. Rampbestrijdingsplannen voor afvalvoorzieningen categorie A
+
+### Hoofdstuk 7. Bedrijfsbrandweer
+
+### Hoofdstuk 8. Financiën
+
+### Hoofdstuk 9. Overgangs- en slotbepalingen
+
+## Bijlage 2. behorende bij [artikel 8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=8&artikel=8.1&z=2023-01-01&g=2023-01-01), van het Besluit veiligheidsregio’s
+
+De vaststelling van het aantal eenheden per structuurkenmerk of maatstaf geschiedt naar de toestand op 1 januari voorafgaand aan het uitkeringsjaar.
+
+### Bebouwde oppervlakte
+
+Vindplaats: tabelnummer 21 van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+
+### BRZO
+
+Vindplaats: lijst van **risicovolle bedrijven** via www.brzoplus.nl; in die lijst zijn de hogedrempelbedrijven voorzien van het kenmerk **VR.**
+
+### Hoofdvaarwegen
+
+Vindplaats: Ministerie van Infrastructuur en Milieu, database Vaarwegen in Nederland (VIN).
+
+### Inwoners
+
+Vindplaats: tabelnummer 2 van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+
+### Kernen500
+
+Vindplaats: tabelnummer 36a van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+
+### Oadwr
+
+De oadwr (de omgevingsadressendichtheid woonruimten van een regio) wordt berekend door de gemiddelde omgevingsadressendichtheid van de adressen in elke in die regio gelegen gemeente, uitgedrukt in het aantal adressen per vierkante kilometer (bron: Centraal bureau voor de statistiek), te vermenigvuldigen met het aantal woonruimten in die gemeente (bron: Centraal bureau voor de statistiek) en die uitkomsten op te tellen. Die uitkomst wordt gedeeld door 1000, om te komen tot een voor de verdeelformule bruikbare waarde.
+
+### OZB niet-woningen
+
+Vindplaats: tabelnummer 38a van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+
+### Totale oppervlakte
+
+Vindplaats: tabelnummers 16, 19 en 20 van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
+
+### Uitkeringsfactor
+
+Het quotiënt van het beschikbare totaalbedrag, verminderd met de bedragen die zijn genoemd in [artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&hoofdstuk=8&artikel=8.2&z=2023-01-01&g=2023-01-01), en de som van a) de producten die worden verkregen door voor iedere verdeelmaatstaf het aantal eenheden te vermenigvuldigen met het bedrag per eenheid, en b) de vaste bedragen.
+
+### Vast deel
+
+Een gelijk bedrag per regio.
+
+### Woonruimten
 
 Vindplaats: tabelnummer 24 van [bijlage 2 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&bijlage=2).
 
