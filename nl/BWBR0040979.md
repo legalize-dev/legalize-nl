@@ -4,7 +4,7 @@ identifier: "BWBR0040979"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2018-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040979"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5) en [artikel 39 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=39) zijn belast de inspecteurs van de hoofdafdeling toezicht van Agentschap Telecom van het Ministerie van Economische Zaken en Klimaat.
+Met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&hoofdstuk=5) en [artikel 39 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=39) zijn belast de inspecteurs van de directies Apparatuur, Infrastructuur en Digitale Weerbaarheid van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 2
 
@@ -54,7 +54,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 
 
 ##### Artikel 4
 
-Met het toezicht op de naleving van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009275&hoofdstuk=IV) en [hoofdstuk V van de Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275&hoofdstuk=V) zijn belast de inspecteurs van de hoofdafdeling toezicht van Agentschap Telecom van het Ministerie van Economische Zaken en Klimaat.
+Met het toezicht op de naleving van [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009275&hoofdstuk=IV) en [hoofdstuk V van de Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275&hoofdstuk=V) zijn belast de inspecteurs van de directies Apparatuur, Infrastructuur en Digitale Weerbaarheid van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 5
 
