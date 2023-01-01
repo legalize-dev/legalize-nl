@@ -4,7 +4,7 @@ identifier: "BWBR0045574"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2022-10-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045574"
 soort: "ministeriele-regeling"
@@ -54,6 +54,8 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - **belastbaar loon:** het belastbaar loon, bedoeld in [artikel 9 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=9);
 
+- **Regeling inburgering:** de [regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657), zoals die luidde de dag voorafgaande aan de inwerkingtreding van deze regeling;
+
 - **toetsingsinkomen:** het toetsingsinkomen, bedoeld in [artikel 8 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8);
 
 - **staatsexamen Nederlands als tweede taal:** staatsexamen Nederlands als tweede taal I of II als bedoeld in [artikel 2 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=2).
@@ -80,7 +82,7 @@ De Minister verleent vrijstelling, bedoeld in [artikel 4, eerste lid, onderdeel 
 
 - b. een inburgeringsdiploma als bedoeld in [artikel 3.10 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.10), vergezeld van bewijsstukken waaruit blijkt dat de onderdelen, genoemd in [artikel 3.3, aanhef en onderdeel a tot en met d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), allen zijn geëxamineerd op ten minste het niveau B1 van het Europees Raamwerk voor Moderne Vreemde talen;
 
-- c. een op grond van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), uitgereikt diploma of getuigschrift van afronding van een Nederlandstalige opleiding van wetenschappelijk onderwijs, hoger beroepsonderwijs, vwo, havo of vmbo op ten minste het niveau gemengde leerweg of theoretische leerweg, of beroepsonderwijs vanaf het tweede niveau als bedoeld in [artikel 7.2.2., eerste lid, onderdeel b tot en met e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
+- c. een op grond van de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212), de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) of de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), uitgereikt diploma of getuigschrift van afronding van een Nederlandstalige opleiding van wetenschappelijk onderwijs, hoger beroepsonderwijs, vwo, havo of vmbo, of beroepsonderwijs vanaf het tweede niveau als bedoeld in [artikel 7.2.2., eerste lid, onderdeel b tot en met e, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
 - d. een diploma of ander document vergelijkbaar met de in onderdeel c genoemde diploma’s of getuigschriften, behaald in het Nederlandstalig onderwijs in Aruba, Curaçao, Sint Maarten, Suriname of België mits een voldoende is behaald voor het vak Nederlandse taal;
 
@@ -90,7 +92,7 @@ De Minister verleent vrijstelling, bedoeld in [artikel 4, eerste lid, onderdeel 
 
 ##### Artikel 2.2. Tijdelijke vrijstelling van de inburgeringsplicht bij volgen opleiding
 
-De Minister verleent vrijstelling, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=4), aan de inburgeringsplichtige die een opleiding volgt die leidt tot uitreiking van een van de bewijsstukken, genoemd in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=1&artikel=2.1&z=2022-10-01&g=2022-10-01), gedurende de periode dat de inburgeringsplichtige is ingeschreven voor de betreffende opleiding.
+De Minister verleent vrijstelling, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=4), aan de inburgeringsplichtige die een opleiding volgt die leidt tot uitreiking van een van de bewijsstukken, genoemd in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=1&artikel=2.1&z=2023-01-01&g=2023-01-01), gedurende de periode dat de inburgeringsplichtige is ingeschreven voor de betreffende opleiding.
 
 ##### Artikel 2.3. Aanvraag vrijstelling van de inburgeringsplicht
 
@@ -108,11 +110,11 @@ Als organisaties, bedoeld in [artikel 2.4 van het besluit](https://wetten.overhe
 
 ##### Artikel 2.5. Medische deskundigenverklaring
 
-1. De deskundigenverklaring, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), bevat in ieder geval een advies met betrekking tot het verlenen dan wel het weigeren van de gehele of gedeeltelijke ontheffing van de inburgeringsplicht en, indien van toepassing, een voorstel met betrekking tot de in aanmerking komende aangepaste examenomstandigheden als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2022-10-01&g=2022-10-01).
+1. De deskundigenverklaring, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), bevat in ieder geval een advies met betrekking tot het verlenen dan wel het weigeren van de gehele of gedeeltelijke ontheffing van de inburgeringsplicht en, indien van toepassing, een voorstel met betrekking tot de in aanmerking komende aangepaste examenomstandigheden als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-01-01&g=2023-01-01).
 
 2. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), adviseert tot gehele of gedeeltelijke ontheffing van de inburgeringsplicht indien de inburgeringsplichtige niet in staat is zich met lichte aanpassingen binnen vijf jaar voor te bereiden op de inburgeringsplicht dan wel op een of meerdere onderdelen daarvan, en dit ook niet mogelijk is door het treffen van aangepaste examenomstandigheden voor een of meerdere onderdelen van het inburgeringsexamen of een of meerdere van de examenonderdelen van de onderwijsroute als bedoeld in artikel 2.7, derde lid, onderdeel b, van het besluit.
 
-3. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), stelt de deskundigenverklaring op conform het protocol dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=1&z=2022-10-01&g=2022-10-01) bij deze regeling.
+3. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), stelt de deskundigenverklaring op conform het protocol dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=1&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 2.6. Ontheffing bijzondere individuele omstandigheden
 
@@ -126,13 +128,13 @@ Als organisaties, bedoeld in [artikel 2.4 van het besluit](https://wetten.overhe
 
 2. Indien de bijzondere individuele omstandigheden bestaan uit medische omstandigheden, verstrekt de inburgeringsplichtige, of, indien van toepassing, diens gezinslid of bloedverwant in de eerste graad, bij de aanvraag een medische machtiging.
 
-3. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), stelt een advies op over de medische omstandigheden, bedoeld in het tweede lid, conform het protocol dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=1&z=2022-10-01&g=2022-10-01) bij deze regeling.
+3. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), stelt een advies op over de medische omstandigheden, bedoeld in het tweede lid, conform het protocol dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=1&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 2.7. Tarieven ontheffing
 
-1. Voor het onderzoek ten behoeve van het opstellen van een deskundigenverklaring als bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2022-10-01&g=2022-10-01), is door de inburgeringsplichtige een bedrag verschuldigd van € 225.
+1. Voor het onderzoek ten behoeve van het opstellen van een deskundigenverklaring als bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01), is door de inburgeringsplichtige een bedrag verschuldigd van € 225.
 
-2. Het bedrag, bedoeld in het eerste lid, wordt aan de inburgeringsplichtige terugbetaald indien in de deskundigenverklaring, bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2022-10-01&g=2022-10-01), wordt geadviseerd de gevraagde gehele of gedeeltelijke ontheffing van de inburgeringsplicht te verlenen dan wel deze niet te verlenen, maar wel wordt geadviseerd de inburgeringsplichtige de examens onder aangepaste examenomstandigheden af te laten leggen.
+2. Het bedrag, bedoeld in het eerste lid, wordt aan de inburgeringsplichtige terugbetaald indien in de deskundigenverklaring, bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01), wordt geadviseerd de gevraagde gehele of gedeeltelijke ontheffing van de inburgeringsplicht te verlenen dan wel deze niet te verlenen, maar wel wordt geadviseerd de inburgeringsplichtige de examens onder aangepaste examenomstandigheden af te laten leggen.
 
 ### Hoofdstuk 3. De inburgeringsplicht
 
@@ -148,7 +150,7 @@ Ten minste 40 uren van de module Arbeidsmarkt en Participatie zijn gericht op de
 
 ##### Artikel 3.2. Eindtermen kennis van de Nederlandse maatschappij
 
-De te behalen eindtermen van het examenonderdeel kennis van de Nederlandse maatschappij, bedoeld in [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.4), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=2&z=2022-10-01&g=2022-10-01) bij deze regeling.
+De te behalen eindtermen van het examenonderdeel kennis van de Nederlandse maatschappij, bedoeld in [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.4), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=2&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 3.3. Auteursrecht
 
@@ -170,7 +172,7 @@ Het examengeld, bedoeld in [artikel 3.7, eerste lid, van het besluit](https://we
 
 2. Een asielstatushouder in de onderwijsroute mag kosteloos twee keer examen van het examenonderdeel kennis van de Nederlandse maatschappij, dat wordt aangeboden als onderdeel van het inburgeringsexamen, afleggen.
 
-3. Een asielstatushouder in de Z-route mag kosteloos twee keer examen per taalexamenonderdeel op het niveau A2, dat wordt aangeboden als onderdeel van het inburgeringsexamen, afleggen, mits is voldaan aan de voorwaarden, bedoeld in [artikel 3.14, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.14).
+3. Een asielstatushouder in de Z-route mag kosteloos twee keer examen per taalexamenonderdeel op het niveau A2, en het examen kennis van de Nederlandse maatschappij, dat wordt aangeboden als onderdeel van het inburgeringsexamen, afleggen, mits is voldaan aan de voorwaarden, bedoeld in [artikel 3.14, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.14).
 
 ##### Artikel 3.6. Aangepaste examenomstandigheden
 
@@ -208,13 +210,13 @@ De aangepaste examenomstandigheden, bedoeld in [artikel 3.9, eerste lid, van het
 
 ##### Artikel 3.8. Beoordelen van het examen
 
-1. De examenonderdelen leesvaardigheid en luistervaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 worden beoordeeld door de Minister door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2022-10-01&g=2022-10-01).
+1. De examenonderdelen leesvaardigheid en luistervaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 worden beoordeeld door de Minister door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2023-01-01&g=2023-01-01).
 
-2. Het examenonderdeel spreekvaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 wordt voor wat betreft de antwoorden op de meerkeuzevragen beoordeeld door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2022-10-01&g=2022-10-01), en voor de antwoorden op de open vragen door een of meer door de Minister aan te wijzen beoordelaars.
+2. Het examenonderdeel spreekvaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 wordt voor wat betreft de antwoorden op de meerkeuzevragen beoordeeld door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2023-01-01&g=2023-01-01), en voor de antwoorden op de open vragen door een of meer door de Minister aan te wijzen beoordelaars.
 
 3. Het examenonderdeel schrijfvaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 wordt beoordeeld door een of meer door de Minister aan te wijzen beoordelaars.
 
-4. Het examenonderdeel kennis van de Nederlandse maatschappij, bedoeld in [artikel 3.5, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.5), wordt door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2022-10-01&g=2022-10-01), beoordeeld.
+4. Het examenonderdeel kennis van de Nederlandse maatschappij, bedoeld in [artikel 3.5, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.5), wordt door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2023-01-01&g=2023-01-01), beoordeeld.
 
 #### § 4. Training voor beoordelaars
 
@@ -248,11 +250,11 @@ De aangepaste examenomstandigheden, bedoeld in [artikel 3.9, eerste lid, van het
 
 - f. het beschrijven van de procedure die wordt gevolgd bij een vermoeden van onregelmatigheden bij het afleggen van de examens en het omschrijven van de sancties die getroffen kunnen worden indien sprake is van onregelmatigheden.
 
-4. Om tot de examens, bedoeld in [artikel 3.5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.5), te worden toegelaten is de kandidaat verplicht in te stemmen met de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=3&z=2022-10-01&g=2022-10-01) bij deze regeling opgenomen geheimhoudingsverklaring ten aanzien van de inhoud van het examen.
+4. Om tot de examens, bedoeld in [artikel 3.5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.5), te worden toegelaten is de kandidaat verplicht in te stemmen met de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=3&z=2023-01-01&g=2023-01-01) bij deze regeling opgenomen geheimhoudingsverklaring ten aanzien van de inhoud van het examen.
 
 ##### Artikel 3.11. Examenreglement
 
-In het examenreglement, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2022-10-01&g=2022-10-01), wordt in ieder geval vermeld:
+In het examenreglement, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-01-01&g=2023-01-01), wordt in ieder geval vermeld:
 
 - a. de procedure van aanmelding en identificatie van de inburgeringsplichtige;
 
@@ -326,11 +328,11 @@ Als organisaties, bedoeld in [artikel 3.13 van het besluit](https://wetten.overh
 
 ##### Artikel 3.17. Het inburgeringsdiploma
 
-Het model van het inburgeringsdiploma is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=4&z=2022-10-01&g=2022-10-01) bij deze regeling.
+Het model van het inburgeringsdiploma is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=4&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 3.18. Het inburgeringscertificaat
 
-1. Het model van het inburgeringscertificaat is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=5&z=2022-10-01&g=2022-10-01) bij deze regeling.
+1. Het model van het inburgeringscertificaat is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=5&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 2. Het college overhandigt het inburgeringscertificaat persoonlijk aan de inburgeringsplichtige.
 
@@ -430,7 +432,7 @@ Als organisatie, bedoeld in [artikel 14, vijfde lid, van de wet](https://wetten.
 
 ##### Artikel 6.1. Hoogte van de lening
 
-1. Van het bedrag van de lening, bedoeld in [artikel 6.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.2) wordt twee maal de vastgestelde draagkracht, als vastgesteld op grond van [artikel 6.8, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2022-10-01&g=2022-10-01), afgetrokken.
+1. Van het bedrag van de lening, bedoeld in [artikel 6.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.2) wordt twee maal de vastgestelde draagkracht, als vastgesteld op grond van [artikel 6.8, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01), afgetrokken.
 
 2. Indien het bedrag van de lening minder dan € 180 bedraagt, wordt dit op nul gesteld.
 
@@ -480,15 +482,15 @@ Als organisatie, bedoeld in [artikel 14, vijfde lid, van de wet](https://wetten.
 
 ##### Artikel 6.5. Berekening maandelijkse termijn
 
-1. De hoogte van de maandelijkse termijn wordt berekend op basis van het bedrag aan opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2022-10-01&g=2022-10-01) en gedeeld door het aantal te betalen termijnen.
+1. De hoogte van de maandelijkse termijn wordt berekend op basis van het bedrag aan opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-01-01&g=2023-01-01) en gedeeld door het aantal te betalen termijnen.
 
-2. De hoogte van de maandelijkse termijn bedraagt ten minste € 15. Indien de draagkracht overeenkomstig [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2022-10-01&g=2022-10-01) is vastgesteld op minder dan € 180 per jaar, wordt het maandelijkse termijnbedrag op nul gesteld.
+2. De hoogte van de maandelijkse termijn bedraagt ten minste € 15. Indien de draagkracht overeenkomstig [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01) is vastgesteld op minder dan € 180 per jaar, wordt het maandelijkse termijnbedrag op nul gesteld.
 
 ##### Artikel 6.6. Terugbetaling niet binnenlands belastingplichtige
 
-1. In afwijking van [artikel 6.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.8) vervallen de rente en aflossing van de lening van een debiteur, die niet binnenlands belastingplichtig is in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), gedurende de aflosfase in jaarlijkse termijnen. [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2022-10-01&g=2022-10-01) is in dat geval van overeenkomstige toepassing. Indien de debiteur zich voor het einde van een jaartermijn metterwoon in Nederland vestigt, wordt hij tot het einde van die jaartermijn behandeld als een debiteur die niet binnenlands belastingplichtig is. Op aanvraag van de in de eerste volzin bedoelde debiteur kan de Minister besluiten dat de rente en aflossing van de lening niet vervallen in jaarlijkse termijnen maar in maandelijkse termijnen.
+1. In afwijking van [artikel 6.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.8) vervallen de rente en aflossing van de lening van een debiteur, die niet binnenlands belastingplichtig is in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), gedurende de aflosfase in jaarlijkse termijnen. [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-01-01&g=2023-01-01) is in dat geval van overeenkomstige toepassing. Indien de debiteur zich voor het einde van een jaartermijn metterwoon in Nederland vestigt, wordt hij tot het einde van die jaartermijn behandeld als een debiteur die niet binnenlands belastingplichtig is. Op aanvraag van de in de eerste volzin bedoelde debiteur kan de Minister besluiten dat de rente en aflossing van de lening niet vervallen in jaarlijkse termijnen maar in maandelijkse termijnen.
 
-2. De hoogte van de jaarlijkse dan wel de maandelijkse termijn, bedoeld in het eerste lid, laatste volzin, wordt berekend overeenkomstig [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.5&z=2022-10-01&g=2022-10-01), tenzij de debiteur, bedoeld in het eerste lid, bij de Minister een aanvraag indient tot vaststelling van zijn draagkracht voor de resterende aflosfase. In dat geval levert hij aan de Minister de door de Minister gevraagde gegevens.
+2. De hoogte van de jaarlijkse dan wel de maandelijkse termijn, bedoeld in het eerste lid, laatste volzin, wordt berekend overeenkomstig [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.5&z=2023-01-01&g=2023-01-01), tenzij de debiteur, bedoeld in het eerste lid, bij de Minister een aanvraag indient tot vaststelling van zijn draagkracht voor de resterende aflosfase. In dat geval levert hij aan de Minister de door de Minister gevraagde gegevens.
 
 3. De betaling van de maandelijkse termijn, bedoeld in het eerste lid, laatste volzin, geschiedt door middel van:
 
@@ -498,7 +500,7 @@ Als organisatie, bedoeld in [artikel 14, vijfde lid, van de wet](https://wetten.
 
 ##### Artikel 6.7. Mogelijkheid eenmalige aflossing
 
-De debiteur kan in afwijking van [artikel 6.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.8) de lening in een keer terugbetalen. De terugbetaling omvat het bedrag van de opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2022-10-01&g=2022-10-01).
+De debiteur kan in afwijking van [artikel 6.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.8) de lening in een keer terugbetalen. De terugbetaling omvat het bedrag van de opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 6.8. Vaststelling draagkracht debiteur
 
@@ -520,7 +522,7 @@ De debiteur kan in afwijking van [artikel 6.8, eerste lid, van het besluit](http
 
 ##### Artikel 6.9. Terugval inkomen
 
-1. Op aanvraag van de debiteur wordt bij de toepassing van [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2022-10-01&g=2022-10-01) uitgegaan van het inkomen van een ander jaar dan het inkomen over het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, indien sprake is van terugval in inkomen:
+1. Op aanvraag van de debiteur wordt bij de toepassing van [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01) uitgegaan van het inkomen van een ander jaar dan het inkomen over het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, indien sprake is van terugval in inkomen:
 
 - a. over het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, in welk geval wordt uitgegaan van het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld; of
 
@@ -534,7 +536,7 @@ De debiteur kan in afwijking van [artikel 6.8, eerste lid, van het besluit](http
 
 Indien de partner van de debiteur ook een debiteur is die een beschikking tot terugbetaling als bedoeld in [artikel 6.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.9) heeft ontvangen, wordt:
 
-- a. [artikel 6.8, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2022-10-01&g=2022-10-01), slechts eenmaal toegepast op het totaal van het toetsingsinkomen; en
+- a. [artikel 6.8, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01), slechts eenmaal toegepast op het totaal van het toetsingsinkomen; en
 
 - b. bij toepassing van [artikel 6.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.11) de te betalen maandelijkse termijn per debiteur vastgesteld op basis van de verhouding tussen de hoogte van het toetsingsinkomen van beide debiteuren afzonderlijk.
 
@@ -564,7 +566,7 @@ Bij uitvaardiging van het dwangbevel, bedoeld in [artikel 21, vierde lid, van de
 
 - c. het aantal onderdelen van het inburgeringsexamen dat de inburgeringsplichtige heeft behaald.
 
-2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6a&z=2022-10-01&g=2022-10-01) bij deze regeling.
+2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6a&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 7.2. Boete bij niet tijdig afronden onderwijsroute
 
@@ -576,7 +578,7 @@ Bij uitvaardiging van het dwangbevel, bedoeld in [artikel 21, vierde lid, van de
 
 - c. het aantal examenonderdelen, bedoeld in onderdeel b, dat de inburgeringsplichtige heeft behaald.
 
-2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6b&z=2022-10-01&g=2022-10-01) bij deze regeling.
+2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6b&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 7.3. Boete bij niet tijdig afronden zelfredzaamheidsroute
 
@@ -586,7 +588,7 @@ Bij uitvaardiging van het dwangbevel, bedoeld in [artikel 21, vierde lid, van de
 
 - b. het aantal uren dat de asielstatushouder heeft besteed aan activiteiten gericht op participatie.
 
-2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6c&z=2022-10-01&g=2022-10-01) bij deze regeling.
+2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6c&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 ### Afdeling 2. Vaststellen nieuwe termijn
 
@@ -694,9 +696,9 @@ Ten aanzien van de eisen die zien op de bedrijfsvoering, bedoeld in [artikel 8.2
 
 ##### Artikel 9.1. Gegevensverstrekking ten behoeve van statistiek, monitoring en evaluatie
 
-1. Ten behoeve van de uitvoering van de taak, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=39), verstrekken de Minister van Justitie en Veiligheid, het college, de Stichting Nuffic, de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven en het COA de gegevens, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=7&z=2022-10-01&g=2022-10-01) behorend bij deze regeling, door tussenkomst van het Centraal Bureau voor de Statistiek aan de Minister, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze en frequentie.
+1. Ten behoeve van de uitvoering van de taak, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=39), verstrekken de Minister van Justitie en Veiligheid, het college, de Stichting Nuffic, de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven en het COA de gegevens, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=7&z=2023-01-01&g=2023-01-01) behorend bij deze regeling, door tussenkomst van het Centraal Bureau voor de Statistiek aan de Minister, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze en frequentie.
 
-2. Ten behoeve van de uitvoering van de taak, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=39), verstrekt de Minister de gegevens, bedoeld [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=7&z=2022-10-01&g=2022-10-01) behorend bij deze regeling, aan het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze en frequentie.
+2. Ten behoeve van de uitvoering van de taak, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=39), verstrekt de Minister de gegevens, bedoeld [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=7&z=2023-01-01&g=2023-01-01) behorend bij deze regeling, aan het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze en frequentie.
 
 3. De Minister ontvangt ten behoeve van monitoring en evaluatie van het CBS in ieder geval gegevens op geaggregeerd niveau over:
 
@@ -740,7 +742,7 @@ Wijzigt de Regeling inburgering.
 
 ##### Artikel 12.1. Overgangsrecht [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959)
 
-[Artikel 9a van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9a), zoals dat luidde voor de inwerkingtreding van [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=11&artikel=11.1&z=2022-10-01&g=2022-10-01) van de Regeling inburgering 2021, blijft van toepassing op de personen op wie de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) van toepassing was op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770).
+[Artikel 9a van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9a), zoals dat luidde voor de inwerkingtreding van [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=11&artikel=11.1&z=2023-01-01&g=2023-01-01) van de Regeling inburgering 2021, blijft van toepassing op de personen op wie de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) van toepassing was op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770).
 
 ##### Artikel 12.2. Intrekken [Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657)
 
@@ -770,13 +772,13 @@ Op grond van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Belangrijke wijzigingen in de nieuwe wet hebben betrekking op de introductie van een gedeeltelijke medische ontheffing en op het toekennen van aanpaste examenomstandigheden, daartoe komen onder de nieuwe wet meer mogelijkheden. Ook worden de kosten voor de medische deskundigenverklaring terugbetaald indien aan de inburgeringsplichtige (gedeeltelijke) ontheffing op medische gronden wordt toegekend of wanneer er aangepaste examenomstandigheden worden geadviseerd. Het medisch onderzoek ten behoeve van aangepaste examenomstandigheden (zonder verzoek tot gehele of gedeeltelijke ontheffing) wordt kosteloos. Een aanvraag voor ontheffing op medische gronden of voor aangepaste examenomstandigheden wordt door de inburgeringsplichtige direct bij DUO ingediend. DUO ontvangt na medisch onderzoek van de aangewezen onafhankelijk arts een deskundigenverklaring en neemt daarop een besluit dat wordt gedeeld met de aanvrager en de gemeente zodat de gemeente snel kan handelen ten aanzien van het stoppen (in geval van ontheffing op medische gronden) of voortzetten van de inburgeringsactiviteiten.
 
+Op grond van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) zijn inburgeringsplichtigen verplicht om in te burgeren. In deze wet zijn wijzigingen doorgevoerd ten opzichte van de vorige [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611). Daartoe is ook het medisch protocol aangepast. De aanvraag voor ontheffing op medische gronden wordt door de inburgeringsplichtige ingediend bij de Dienst Uitvoering Onderwijs (hierna: DUO) waarna een door een door de Minister van SZW aangewezen onafhankelijk arts een deskundigenverklaring afgeeft. De beslissing naar aanleiding van deze verklaring wordt genomen door de Dienst Uitvoering Onderwijs (hierna: DUO). Overal waar in dit protocol wordt gesproken over ‘hij’ of ‘zijn’, kan ook ‘zij’ of ‘haar’ worden gelezen.
+
+Belangrijke wijzigingen in de nieuwe wet hebben betrekking op de introductie van een gedeeltelijke medische ontheffing en op het toekennen van aanpaste examenomstandigheden, daartoe komen onder de nieuwe wet meer mogelijkheden. Ook worden de kosten voor de medische deskundigenverklaring terugbetaald indien aan de inburgeringsplichtige (gedeeltelijke) ontheffing op medische gronden wordt toegekend of wanneer er aangepaste examenomstandigheden worden geadviseerd. Het medisch onderzoek ten behoeve van aangepaste examenomstandigheden (zonder verzoek tot gehele of gedeeltelijke ontheffing) wordt kosteloos. Een aanvraag voor ontheffing op medische gronden of voor aangepaste examenomstandigheden wordt door de inburgeringsplichtige direct bij DUO ingediend. DUO ontvangt na medisch onderzoek van de aangewezen onafhankelijk arts een deskundigenverklaring en neemt daarop een besluit dat wordt gedeeld met de aanvrager en de gemeente zodat de gemeente snel kan handelen ten aanzien van het stoppen (in geval van ontheffing op medische gronden) of voortzetten van de inburgeringsactiviteiten.
+
 Dit protocol geldt voor de medische advisering ten behoeve van inburgeringsplichtigen die na 1 januari 2022 inburgeringsplichtig zijn geworden; het is alleen van toepassing op inburgeringsplichtigen die vallen onder de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770). Voor inburgeringsplichtigen die voor de inwerkingtreding van deze wet inburgeringsplichtig zijn geworden, geldt de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) en het daarbij behorende protocol medische advisering (zie [bijlage 4 bij de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&bijlage=4) (oud)). Wel wordt ook voor die doelgroep per januari 2022 een aantal wijzigingen doorgevoerd in het proces en de vergoeding.
 
 In het huidige stelsel wordt er voor iedere inburgeringsplichtige een persoonlijk plan inburgering en participatie (PIP) vastgesteld door de gemeente, waarbij een van de drie leerroutes die in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) zijn opgenomen, wordt vastgelegd. Iemand voldoet aan de inburgeringsplicht als hij heeft voldaan aan de eisen van de in het PIP vastgestelde leerroute en aan de aanvullende onderdelen: het participatieverklaringstraject (PVT) en de Module Arbeidsmarkt en Participatie (MAP)1MAP is geïntegreerd in het taalschakeltraject dat gevolgd wordt door deelnemers aan de onderwijsroute..
-
-Indien iemand door een psychische of lichamelijke belemmering dan wel een verstandelijke beperking niet in staat is om aan de inburgeringsplicht te voldoen, kan ontheffing van de inburgeringsplicht worden gevraagd. Dit kan een gehele ontheffing zijn of een gedeeltelijke ontheffing. De voorwaarden hiervoor zijn uitgewerkt in de wet. Over of een belemmering of beperking dusdanig is dat betrokkene niet aan de inburgeringsplicht kan voldoen, kan de inburgeringsplichtige advies vragen bij een door de Minister van SZW aangewezen medisch deskundige. Dit zijn artsen die zijn ingeschreven in het BIG-register van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) met een specialisatie als arts Maatschappij + Gezondheid, arts Indicatie + Advies of verzekeringsarts en artsen die zijn opgenomen in het VIA register die tevens beschikken over kennis van de [wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611).
-
-Voor een dergelijke medische deskundigenverklaring zijn er kaders en uitgangspunten geformuleerd die zijn neergelegd in dit protocol. Dit protocol is een bijlage bij een ministeriële regeling; de Regeling inburgering 2021 die een uitwerking is van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) en het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555). Dit protocol is geënt op het medisch protocol bij van het vorige stelsel ([Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)) en is oorspronkelijk tot stand gekomen in samenwerking met de VNG (Vereniging Nederlandse Gemeenten) en de VIA (Vereniging Indicerende en Adviserende Artsen).
 
 ### 1. Algemeen
 
@@ -786,9 +788,13 @@ In dit protocol wordt de procedure rond de medische advisering in het kader van 
 
 Het protocol beoogt uniformiteit te bevorderen in de advisering door de medisch deskundige en uniformiteit in de opbouw van de deskundigenverklaring. Uniformiteit draagt bij aan een gelijke behandeling van gelijke gevallen. Het protocol is opgesteld in de wetenschap dat het periodiek zal moeten worden geactualiseerd. Nieuwe inzichten en ontwikkelingen op het gebied van wetgeving, jurisprudentie, medische technologie, hulpmiddelen en de examens kunnen een aanpassing van het protocol tot gevolg hebben.
 
-Het protocol kent een algemeen deel en een medisch deel. De volgende bijlagen maken onderdeel uit van het protocol:
+In dit protocol wordt de procedure rond de medische advisering in het kader van de inburgeringsplicht nader uitgewerkt. Het protocol is van toepassing op inburgeringsplichtigen die bij DUO een verzoek tot ontheffing op medische gronden indienen, ongeacht de leerroute die zij volgen en het niveau waarop de taalvaardigheden worden afgelegd. Het protocol heeft zowel betrekking op een verzoek tot (gehele of gedeeltelijke) ontheffing als op een verzoek tot aangepaste examenomstandigheden.
 
 ### 1.2. Inleiding
+
+Het protocol kent een algemeen deel en een medisch deel. De volgende bijlagen maken onderdeel uit van het protocol:
+
+Er zijn drie leerroutes is het stelsel:
 
 Gemeenten krijgen in het nieuwe stelsel de regierol in de uitvoering van de inburgering. Zij zorgen voor de afname van een brede intake en voor (advies over) passende trajecten in een van de drie leerroutes en het vastleggen van de leerroute in het PIP. Bij asielstatushouders heeft de gemeente de plicht tot het doen van een inburgeringsaanbod op de leerroutes en bekostigen gemeenten de inburgeringstrajecten. Gezinsmigranten bepalen zelf hoe zij aan de eisen van de voor hen vastgestelde leerroute voldoen en bekostigen hun lessen zelf (PVT en MAP worden hen wel aangeboden door de gemeente), eventueel met een lening van DUO.
 
@@ -800,25 +806,21 @@ Betrokkene dient hiertoe een aanvraag in bij DUO en wordt opgeroepen door de ona
 
 Uitkomst op basis van medisch onderzoek bij een aanvraag onder 1 (ontheffing) kan ook zijn dat geen ontheffing wordt verleend, omdat dat examens wel kunnen worden afgelegd met aangepaste examenomstandigheden.
 
-De regels rond medische ontheffing zijn nader uitgewerkt in het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555) ([Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7)) en de Regeling inburgering ([Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2022-10-01&g=2022-10-01) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2022-10-01&g=2022-10-01)). De artikelen uit Besluit en Regeling zijn in dit protocol opgenomen onder paragraaf 1.4 en 1.5. Indien iemand door medische omstandigheden in het geheel niet kan voldoen aan het leren van de taal en aan de MAP of het PVT, zal een gehele ontheffing van de inburgeringsplicht volgen.
+De regels rond medische ontheffing zijn nader uitgewerkt in het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555) ([Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7)) en de Regeling inburgering ([Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2023-01-01&g=2023-01-01)). De artikelen uit Besluit en Regeling zijn in dit protocol opgenomen onder paragraaf 1.4 en 1.5. Indien iemand door medische omstandigheden in het geheel niet kan voldoen aan het leren van de taal en aan de MAP of het PVT, zal een gehele ontheffing van de inburgeringsplicht volgen.
 
 Gedeeltelijke ontheffing kan worden verleend indien een inburgeringsplichtig door zijn beperking of belemmering niet in staat is om aan bepaalde onderdelen van de leerroute te voldoen. Het kan gaan om twee varianten:
 
-In onderstaande tabel staat vermeld hoe de eisen zich verhouden tot de mogelijkheid tot gedeeltelijke ontheffing op medische gronden.
+### 1.3. Advisering
 
 Voor inburgeringsplichtigen met een auditieve of visuele beperking die tevens een revalidatietraject volgen in verband met hun beperking, is het mogelijk het aantal uren voor de Z-route in het PIP naar beneden bij te stellen, dit geldt alleen voor deelnemers aan de Z-route en valt niet onder ontheffing maar wordt door de gemeente in het PIP vastgelegd. Dit is uitgewerkt in de [Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657).
 
-### 1.3. Advisering
+Een overzicht van mogelijke aangepaste examenomstandigheden is hiertoe in de Regeling inburgering 2021 opgenomen. Dit overzicht is, in tegenstelling tot de lijst in [artikel 3.2 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.2) (oud), niet limitatief. Doordat er onder de vorige [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) geen gedeeltelijke ontheffing mogelijk was, zijn veel mensen met bijvoorbeeld een auditieve of visuele beperking (geheel) ontheven van de inburgeringsplicht en waren er geen aangepaste examens nodig voor mensen die volledig doof of blind zijn. Onder de huidige [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) zal gekeken moeten worden aan welke aangepaste examens behoefte is in aanvulling op de al beschikbare aanpassingen. De mogelijkheden tot aangepaste examenomstandigheden verschillen bovendien voor de taalexamens op niveau A2 en voor de Staatsexamens Nt2 (niveau B1 en B2). Niet alle aanpassingen zijn op elk niveau beschikbaar. Mocht iemand op advies van de medisch deskundige met een aanpassing die niet is opgenomen in de lijst met aangepaste examenomstandigheden ([artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2022-10-01&g=2022-10-01) van deze regeling) toch examens kunnen afleggen, dan wordt in overleg met DUO en indien nodig met het Ministerie van SZW gekeken of de aanpassing kan worden gerealiseerd. DUO overlegt periodiek met de aangewezen arts. Signalen hierover kunnen in dat kader worden besproken.
 
 De geraadpleegde medisch deskundige zal omtrent de toestand van betrokkene een advies opmaken, waarbij de medisch deskundige een relatie legt tussen enerzijds de belemmeringen en beperkingen voortvloeiend uit de medische toestand van betrokkene en anderzijds de mogelijkheden tot het voldoen aan de inburgerinsplicht. Is het voor betrokkene mogelijk om het examen wel aangepast af te leggen, dan zal de medisch deskundige in zijn advies aangeven onder welke aangepaste examenomstandigheden het examen door betrokkene gemaakt kan worden. In geval betrokkene naar verwachting niet alle onderdelen van het examen kan afleggen of slechts deels of niet kan voldoen aan het participatiedeel in de Z-route, dan zal de medisch deskundige aangeven welke onderdelen wel en welke onderdelen niet afgelegd kunnen worden.
 
-Een overzicht van mogelijke aangepaste examenomstandigheden is hiertoe in de Regeling inburgering 2021 opgenomen. Dit overzicht is, in tegenstelling tot de lijst in [artikel 3.2 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.2) (oud), niet limitatief. Doordat er onder de vorige [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) geen gedeeltelijke ontheffing mogelijk was, zijn veel mensen met bijvoorbeeld een auditieve of visuele beperking (geheel) ontheven van de inburgeringsplicht en waren er geen aangepaste examens nodig voor mensen die volledig doof of blind zijn. Onder de huidige [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) zal gekeken moeten worden aan welke aangepaste examens behoefte is in aanvulling op de al beschikbare aanpassingen. De mogelijkheden tot aangepaste examenomstandigheden verschillen bovendien voor de taalexamens op niveau A2 en voor de Staatsexamens Nt2 (niveau B1 en B2). Niet alle aanpassingen zijn op elk niveau beschikbaar. Mocht iemand op advies van de medisch deskundige met een aanpassing die niet is opgenomen in de lijst met aangepaste examenomstandigheden ([artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2022-10-01&g=2022-10-01) van deze regeling) toch examens kunnen afleggen, dan wordt in overleg met DUO en indien nodig met het Ministerie van SZW gekeken of de aanpassing kan worden gerealiseerd. DUO overlegt periodiek met de aangewezen arts. Signalen hierover kunnen in dat kader worden besproken.
-
-Bij de advisering over het wel of niet kunnen voldoen aan de inburgeringsplicht neemt de medisch deskundige in zijn overweging ook (in algemene termen) mee of iemand in staat is om lessen te volgen en deel te nemen aan de andere verplichte onderdelen van de inburgeringsplicht. In het protocol wordt steeds waar er wordt gesproken over ‘de inburgeringsplicht’ ook het deelnemen aan deze lessen en activiteiten bedoeld.
-
 ### 1.4. Wettelijk kader ontheffing en gedeeltelijke ontheffing
 
-Voor inburgeringsplichtigen met een psychische of lichamelijke belemmering dan wel een verstandelijke beperking is het mogelijk om te worden ontheven van de inburgeringsplicht door aan te tonen dat hij door deze belemmering dan wel beperking blijvend niet in staat is om te voldoen aan de inburgeringsplicht. In het geval van een gedeeltelijke ontheffing op medische gronden geldt dat moet worden aangetoond dat de inburgeringsplichtige door de belemmering dan wel beperking niet in staat is te voldoen aan alle vastgestelde onderdelen van het inburgeringsexamen of de leerroute die wordt gevolgd. Hieronder volgt hoe dat in het wettelijk kader is beschreven.
+Bij de advisering over het wel of niet kunnen voldoen aan de inburgeringsplicht neemt de medisch deskundige in zijn overweging ook (in algemene termen) mee of iemand in staat is om lessen te volgen en deel te nemen aan de andere verplichte onderdelen van de inburgeringsplicht. In het protocol wordt steeds waar er wordt gesproken over ‘de inburgeringsplicht’ ook het deelnemen aan deze lessen en activiteiten bedoeld.
 
 [Artikel 5, eerste lid, van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=5) luidt:
 
@@ -872,11 +874,33 @@ In [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afd
 
 - 3. **De arts, bedoeld in artikel 2.7, eerste lid, van het besluit, stelt de deskundigenverklaring op conform het protocol dat is opgenomen in bijlage 1 bij deze regeling.**
 
-##### Artikel 2.7. Tarieven ontheffing
+##### Artikel 2.7. Medische ontheffing
 
-- 1. **Voor het onderzoek ten behoeve van het opstellen van een deskundigenverklaring als bedoeld in artikel 2.5, eerste lid, is door de inburgeringsplichtige een bedrag verschuldigd van € 225.**
+- 1. **In het kader van de aanvraagprocedure tot gehele of gedeeltelijke ontheffing van de inburgeringsplicht op grond van een psychische of lichamelijke belemmering dan wel verstandelijke beperking als bedoeld in artikel 5, eerste lid, van de wet, verzoekt Onze Minister een door hem aangewezen arts, niet zijnde de behandelend arts van de inburgeringsplichtige, die is ingeschreven in het register, bedoeld in artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg, een deskundigenverklaring af te geven met betrekking tot de inburgeringsplichtige die de aanvraag tot ontheffing heeft ingediend.**
 
-- 2. **Het bedrag, bedoeld in het eerste lid, wordt aan de inburgeringsplichtige terugbetaald indien in de deskundigenverklaring, bedoeld in artikel 2.5, eerste lid, wordt geadviseerd de gevraagde gehele of gedeeltelijke ontheffing van de inburgeringsplicht te verlenen dan wel deze niet te verlenen, maar wel wordt geadviseerd de inburgeringsplichtige de examens onder aangepaste examenomstandigheden af te laten leggen.**
+- 2. **De gehele of gedeeltelijke ontheffing van de inburgeringsplicht wordt verleend indien redelijkerwijs verwacht mag worden dat de aard en de ernst van de psychische of lichamelijke belemmering dan wel verstandelijke beperking zodanig is dat niet binnen vijf jaar na de aanvraag van de ontheffing aan de inburgeringsplicht dan wel aan een of meerdere onderdelen daarvan kan worden voldaan.**
+
+- 3. **Een gedeeltelijke ontheffing van de inburgeringsplicht wordt uitsluitend verleend indien vanwege de belemmering of beperking niet kan worden voldaan aan:**
+
+- a. **maximaal drie van de vier examenonderdelen van de mondelinge en schriftelijke vaardigheden op ten minste het niveau B1 of het examen KNM van het inburgeringsexamen;**
+
+- b. **maximaal drie van de vier examenonderdelen van de mondelinge en schriftelijke vaardigheden op ten minste het niveau B1 of het examen KNM als bedoeld in artikel 8, vierde lid, van de wet van de onderwijsroute; of**
+
+- c. **het participatiegedeelte van de zelfredzaamheidsroute, bedoeld in artikel 3.14, tweede lid, onderdeel b, met uitzondering van de activiteiten van het participatieverklaringstraject en de module Arbeidsmarkt en Participatie.**
+
+- 4. **Indien Onze Minister op grond van de deskundigenverklaring, bedoeld in het eerste lid, van oordeel is dat de inburgeringsplichtige wel aan een of meerdere onderdelen van het inburgeringsexamen dan wel een of meerdere examenonderdelen van de onderwijsroute als bedoeld in het derde lid, kan voldoen onder examenomstandigheden die zijn aangepast aan de mogelijkheden van die inburgeringsplichtige, geldt dat:**
+
+- a. **voor het examen mondelinge en schriftelijke vaardigheden op het niveau A2 en het examen kennis van de Nederlandse maatschappij in een beschikking wordt vermeld welke aangepaste examenomstandigheden het betreft; en**
+
+- b. **voor het examen mondelinge en schriftelijke vaardigheden op ten minste het niveau B1, de deskundigenverklaring, bedoeld in het eerste lid, waarin ten aanzien van de inburgeringsplichtige een voorstel wordt gedaan met betrekking tot in aanmerking komende aangepaste examenomstandigheden voor het voornoemde examen, aan de inburgeringsplichtige wordt verstrekt.**
+
+- 5. **Onze Minister geeft binnen acht weken na ontvangst van de aanvraag een beschikking.**
+
+- 6. **Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de verlening van de ontheffing alsmede omtrent de deskundigenverklaring, bedoeld in het eerste lid.**
+
+- 7. **Bij ministeriële regeling worden regels gesteld omtrent de omstandigheden waaronder de kosten van de deskundigenverklaring, bedoeld in het eerste lid, worden vergoed aan de inburgeringsplichtige.**
+
+In [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01) (Medische deskundigenverklaring) en [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2023-01-01&g=2023-01-01) (Tarieven ontheffing) van de **Regeling inburgering 2021**staat:
 
 ### 1.5. Wettelijk kader aangepaste examenomstandigheden
 
@@ -924,29 +948,33 @@ In het kader van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:B
 
 Betrokkene dient hiertoe een verzoek in bij DUO. DUO zal over deze aanvraag een besluit nemen op basis van een medische deskundigenverklaring over betrokkene. Deze medische deskundigenverklaring wordt op verzoek van de inburgeringsplichtige opgesteld door de medisch deskundige die daartoe door DUO is gecontracteerd. De medisch deskundige dient een onafhankelijk arts te zijn – niet zijnde een behandelend arts van betrokkene – die is ingeschreven in het BIG-register van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251). De medisch deskundige dient op de hoogte te zijn van de relevante wet- en regelgeving ten aanzien van de inburgeringsplicht en het inburgeringsexamen en van de mogelijke aangepaste examenomstandigheden. Daarnaast kan DUO extra eisen stellen aan de medisch deskundige, zoals bijvoorbeeld ten aanzien van scholing.
 
+In het kader van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) is de inburgeringsplichtige zelf verantwoordelijk voor het op tijd voldoen aan de inburgeringsplicht. Hij wordt daarin begeleid door de gemeente. De gemeenten stelt een PIP op met een van de drie leerroutes. De inburgeringsplichtige kan op eigen verzoek (conform [artikel 5 van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=5)) door DUO geheel of gedeeltelijk worden ontheven van de inburgeringsplicht op medische gronden vanwege een psychische of lichamelijke belemmering dan wel verstandelijke beperking die zodanig is dat de inburgeringsplichtige binnen een termijn van vijf jaar na de aanvraag van de ontheffing niet in staat geacht wordt te kunnen voldoen aan de inburgeringsplicht.
+
+Betrokkene dient hiertoe een verzoek in bij DUO. DUO zal over deze aanvraag een besluit nemen op basis van een medische deskundigenverklaring over betrokkene. Deze medische deskundigenverklaring wordt op verzoek van de inburgeringsplichtige opgesteld door de medisch deskundige die daartoe door DUO is gecontracteerd. De medisch deskundige dient een onafhankelijk arts te zijn – niet zijnde een behandelend arts van betrokkene – die is ingeschreven in het BIG-register van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251). De medisch deskundige dient op de hoogte te zijn van de relevante wet- en regelgeving ten aanzien van de inburgeringsplicht en het inburgeringsexamen en van de mogelijke aangepaste examenomstandigheden. Daarnaast kan DUO extra eisen stellen aan de medisch deskundige, zoals bijvoorbeeld ten aanzien van scholing.
+
 De inburgeringsplichtige dient zich bij DUO te melden met een verzoek voor ontheffing op medische gronden of met een verzoek voor aangepaste examenomstandigheden op grond van een belemmering of beperking. DUO zal de aanvraag in behandeling nemen, de kosten innen en de aanvraag doorzetten naar deze medisch deskundige, een partij die hiertoe door DUO gecontracteerd is. De medisch deskundige stelt vervolgens vast of er een psychische of lichamelijke belemmering dan wel verstandelijke beperking is waardoor de betrokkene binnen een termijn van vijf jaar al dan niet kan voldoen aan de inburgeringsplicht. Tevens kan de medisch deskundige adviseren of aangepaste examenomstandigheden noodzakelijk zijn bij het afleggen van de onderdelen van het inburgeringsexamen of de mondelinge en schriftelijke vaardigheden of KNM in de onderwijsroute.
-
-De aangewezen onafhankelijk arts deelt (conform [artikel 2.7, eerste lid van het Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7)) de deskundigenverklaring met DUO waarna DUO conform artikel 2.7, vijfde lid, van het Besluit inburgering 2021 binnen acht weken na ontvangst van de aanvraag een beschikking geeft die wordt gedeeld met de aanvrager en (conform [artikel 9.1, derde lid en onder c, van het Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=9.1)) de gemeente. Er is geen geldigheidstermijn gekoppeld aan de medische deskundigenverklaring. Betrokkene dient bij het indienen van een aanvraag bij DUO en de vervolgstappen zelf rekening te houden met de inburgeringstermijn en dit proces tijdig in gang te zetten. DUO heeft een vergewisplicht (conform [art. 3:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9)), maar treedt niet in de inhoudelijke beoordeling van de (medische) deskundigenverklaring. De vergewisplicht houdt in dat DUO naast het controleren van de formulieren op het juist en volledig invullen hiervan, zich ervan moet vergewissen dat het onderzoek op zorgvuldige wijze heeft plaatsgevonden.
-
-Een verkorte procedure kan volstaan indien aan de hand van bij de aanvraag tot de medische deskundigenverklaring aangeleverde medische stukken, reeds een deskundigenverklaring kan worden opgesteld. Dit betekent dat naar het oordeel van de medisch deskundige evident vaststaat dat betrokkene niet in staat zal zijn om te voldoen aan de inburgeringsplicht of bepaalde onderdelen daarvan of dat de inburgeringsplichtige aangepaste examens nodig heeft. Betrokkene hoeft dan niet (apart hiervoor) in persoon te worden gezien door de medisch deskundige. Voor de niet-evidente situaties is het gebruikelijk dat betrokkene tijdens een spreekuur in persoon door de medisch deskundige wordt opgeroepen. De te volgen procedure (verkort of regulier) is ter beoordeling aan de medisch deskundige die de deskundigenverklaring opstelt.
 
 ### 1.7. Aanvraagperiode en invulling begrip ‘blijvend’
 
-Aangezien ontheffing op grond van een wezenlijke belemmering of beperking gedurende de gehele periode waarin de inburgeringsplicht op grond van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) bestaat, relevant is en ook op ieder moment tijdens de periode kan ontstaan, worden geen regels gesteld over de termijn waarbinnen een ontheffingsverzoek op medische gronden moet worden ingediend. De aanvraag kan dus aan het begin, tijdens of aan het einde van de termijn waarbinnen aan de inburgeringsplicht moet zijn voldaan worden ingediend.
+Een verkorte procedure kan volstaan indien aan de hand van bij de aanvraag tot de medische deskundigenverklaring aangeleverde medische stukken, reeds een deskundigenverklaring kan worden opgesteld. Dit betekent dat naar het oordeel van de medisch deskundige evident vaststaat dat betrokkene niet in staat zal zijn om te voldoen aan de inburgeringsplicht of bepaalde onderdelen daarvan of dat de inburgeringsplichtige aangepaste examens nodig heeft. Betrokkene hoeft dan niet (apart hiervoor) in persoon te worden gezien door de medisch deskundige. Voor de niet-evidente situaties is het gebruikelijk dat betrokkene tijdens een spreekuur in persoon door de medisch deskundige wordt opgeroepen. De te volgen procedure (verkort of regulier) is ter beoordeling aan de medisch deskundige die de deskundigenverklaring opstelt.
 
 De medisch deskundige adviseert over de vraag of betrokkene binnen een periode van vijf jaar na aanvraag van ontheffing in staat is aan de inburgeringsplicht te voldoen. Op grond van [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7) is sprake van het niet in staat zijn om geheel of gedeeltelijk aan de inburgeringplicht te voldoen indien in redelijkheid verwacht mag worden dat de aard en de ernst van de belemmering of beperking zodanig is dat het voldoen aan de inburgeringsplicht binnen vijf jaar niet mogelijk is. Deze termijn van vijf jaar wordt gerekend vanaf het moment van de aanvraag van het advies.
 
-Indien te verwachten is dat de betrokkene wegens een psychische of lichamelijke belemmering dan wel verstandelijke beperking niet binnen vijf jaar kan voldoen aan de inburgeringsplicht en een gedeeltelijke ontheffing op medische gronden en aangepaste examenomstandigheden geen perspectief bieden, dan wordt ervan uit gegaan dat er reden tot ontheffing bestaat.
+Aangezien ontheffing op grond van een wezenlijke belemmering of beperking gedurende de gehele periode waarin de inburgeringsplicht op grond van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) bestaat, relevant is en ook op ieder moment tijdens de periode kan ontstaan, worden geen regels gesteld over de termijn waarbinnen een ontheffingsverzoek op medische gronden moet worden ingediend. De aanvraag kan dus aan het begin, tijdens of aan het einde van de termijn waarbinnen aan de inburgeringsplicht moet zijn voldaan worden ingediend.
 
 ### 1.8. Bezwaar en beroep
 
-**Beschikking ontheffing in het kader van de Wet inburgering 2021**
+Indien te verwachten is dat de betrokkene wegens een psychische of lichamelijke belemmering dan wel verstandelijke beperking niet binnen vijf jaar kan voldoen aan de inburgeringsplicht en een gedeeltelijke ontheffing op medische gronden en aangepaste examenomstandigheden geen perspectief bieden, dan wordt ervan uit gegaan dat er reden tot ontheffing bestaat.
 
 Tegen een beschikking van DUO kan de inburgeringsplichtige binnen zes weken in bezwaar gaan. Betrokkene wordt door DUO over deze mogelijkheid in de beschikking geïnformeerd.
 
-De afdeling Bezwaar en Beroep van DUO draagt zorg voor de afhandeling van het bezwaar conform voorgeschreven regels in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Bij een negatieve beslissing op bezwaar kan de inburgeringsplichtige in beroep bij de sector Bestuursrecht van de rechtbank. Betrokkene wordt over deze mogelijkheid in de negatieve beschikking op bezwaar geïnformeerd.
+**Beschikking ontheffing in het kader van de Wet inburgering 2021**
 
 ### 1.9. Examens
+
+De afdeling Bezwaar en Beroep van DUO draagt zorg voor de afhandeling van het bezwaar conform voorgeschreven regels in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Bij een negatieve beslissing op bezwaar kan de inburgeringsplichtige in beroep bij de sector Bestuursrecht van de rechtbank. Betrokkene wordt over deze mogelijkheid in de negatieve beschikking op bezwaar geïnformeerd.
+
+Het taalniveau B1 is in het CEF als volgt geformuleerd2[http://taalunieversum.org/onderwijs/gemeenschappelijk_europees_referentiekader/3/3/](onbekend):
 
 De vereiste mondelinge en schriftelijke taalvaardigheid is in de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) gesteld op het niveau B1. Niet iedereen zal in staat zijn om dit niveau te behalen binnen de gestelde termijn. Onder voorwaarden is het daarom in de B1-route mogelijk om de examens op niveau A2 af te leggen. Daarnaast kunnen mensen met een lage leerbaarheid de Z-route volgen en daarmee voldoen aan de inburgeringsplicht. Met de Z-route wordt beoogd de doelgroep die in het oude stelsel werd ontheven na aantoonbaar geleverde inspanning (zonder A2 niveau te hebben behaald), beter te ondersteunen op een manier die aansluit bij een lagere leerbaarheid. In de Z-route hoeven deelnemers geen examens af te leggen. Overigens kan het ook voorkomen dat inburgeringsplichtigen juist een hoger niveau aan zouden kunnen dan B1, daarom kunnen gemeenten de afspraak maken met een inburgeringsplichtige dat de examens op niveau B2 worden afgelegd.
 
@@ -966,21 +994,21 @@ De totale afnametijd van het examen, inclusief 15 minuten instructietijd per exa
 
 **Niveau A2 en KNM**: de verschillende examenonderdelen worden als volgt afgenomen:
 
-De examens worden afgelegd bij DUO op één van de examenlocaties in Amsterdam, Rotterdam, Rijswijk, Eindhoven, Utrecht en Zwolle.
-
-Een kandidaat die door een belemmering of beperking niet in staat is om de inburgeringsexamens op de gebruikelijke wijze af te leggen, kan door DUO in de gelegenheid worden gesteld om examens op een aan zijn belemmering of beperking aangepaste wijze af te leggen. De aangepaste examenomstandigheden waarin DUO in elk geval kan voorzien, worden toegelicht onder 2.6. van dit protocol. Indien uit de medische deskundigenverklaring een andere wenselijke aanpassing komt, zal in overleg met DUO worden gekeken of daaraan kan worden voldaan. Soms worden aangepaste examens ook afgenomen op een andere locatie dan de reguliere examens omdat er bepaalde apparatuur en/of expertise nodig is. Ook is het op basis van een medische deskundigenverklaring mogelijk op de reguliere examenlocaties in een aangepaste ruimte examen te doen.
-
 ### 2. Medisch protocol
 
 ### 2.1. Begrippen
 
-### 2.2. Algemeen
+### 2. Medisch protocol
 
 Dit medisch protocol bevat ten behoeve van de medisch deskundige aanwijzingen, richtlijnen en feiten om door middel van anamnese en lichamelijk onderzoek tot een goed oordeel en een onderbouwd advies te komen in het kader van een aanvraag voor (gehele of gedeeltelijke) ontheffing van de inburgeringsplicht of om te komen tot advies voor aangepaste examenomstandigheden.
 
 De medisch deskundige kan tot de overtuiging komen dat betrokkene op grond van medische stoornissen en daaruit voortvloeiende beperkingen niet in staat is binnen vijf jaar te voldoen aan de inburgeringsplicht ondanks de mogelijkheid voor een gedeeltelijke ontheffing of aangepaste examenomstandigheden. Bij de beoordeling wordt ook het voorbereidingstraject tot het afleggen van het inburgeringsexamen betrokken. Wanneer betrokkene niet zonder lichte aanpassingen in dit voorbereidingstraject het inburgeringsexamen kan behalen, zal hij moeten worden ontheven. Zijn de aanpassingen in het voorbereidingstraject gering, dan is dat geen reden voor een ontheffing.
 
-Er wordt vanuit gegaan dat voor het kunnen afleggen van het voorbereidingstraject dezelfde vaardigheden van belang zijn als bij het kunnen behalen van het inburgeringsexamen. Mochten lichte aanpassingen nodig zijn voor het afleggen van het voorbereidingstraject dan zal de medisch deskundige dit in het advies aangeven.
+Dit medisch protocol bevat ten behoeve van de medisch deskundige aanwijzingen, richtlijnen en feiten om door middel van anamnese en lichamelijk onderzoek tot een goed oordeel en een onderbouwd advies te komen in het kader van een aanvraag voor (gehele of gedeeltelijke) ontheffing van de inburgeringsplicht of om te komen tot advies voor aangepaste examenomstandigheden.
+
+De medisch deskundige kan tot de overtuiging komen dat betrokkene op grond van medische stoornissen en daaruit voortvloeiende beperkingen niet in staat is binnen vijf jaar te voldoen aan de inburgeringsplicht ondanks de mogelijkheid voor een gedeeltelijke ontheffing of aangepaste examenomstandigheden. Bij de beoordeling wordt ook het voorbereidingstraject tot het afleggen van het inburgeringsexamen betrokken. Wanneer betrokkene niet zonder lichte aanpassingen in dit voorbereidingstraject het inburgeringsexamen kan behalen, zal hij moeten worden ontheven. Zijn de aanpassingen in het voorbereidingstraject gering, dan is dat geen reden voor een ontheffing.
+
+### 2.3. Beperkingen
 
 Naast het protocol gelden uiteraard de gedragsregels van artsen zoals die door de KNMG zijn vastgesteld en tevens de in de medische adviespraktijk gangbare inzichten (artsen Maatschappij + Gezondheid, artsen Indictie + Advies, artsen uit het VIA register en verzekeringsartsen). Zo zal het onderzoek door de medisch deskundige op een voor betrokkene zo min mogelijk belastende wijze plaatsvinden. Lichamelijk onderzoek zal achterwege kunnen blijven indien de medisch deskundige op grond van de anamnese voldoende overtuiging voor zijn oordeel heeft verkregen. Bovendien zal reeds beschikbare informatie van de behandelsector in de overwegingen worden betrokken en kan indien nodig en met gerichte toestemming van betrokkene nadere informatie bij de behandelaar worden ingewonnen. De medisch deskundige zal (verdere) medicalisering zoveel mogelijk vermijden.
 
@@ -994,47 +1022,47 @@ De medisch deskundige zal tot de overtuiging moeten komen dat betrokkene wel, ge
 
 ### Inleiding
 
-Waarom een aanvraag voor ontheffing/aangepaste examenomstandigheden op dit moment?
+### Beoordelen van de beperkingen en belemmeringen
 
-### Specifiek
+Welke beperkingen ondervindt betrokkene ten aanzien van:
 
 ### Beoordelen van de beperkingen en belemmeringen
 
 Welke beperkingen ondervindt betrokkene ten aanzien van:
 
-### 2.5. Weging en beoordeling
+Er komen situaties voor waarbij het zeer onduidelijk is hoe de prognose zal zijn, bijvoorbeeld als een ziekte binnen korte termijn aanzienlijk kan verbeteren of verslechteren. De medisch deskundige kan in zo’n geval met toestemming van betrokkene besluiten de medisch deskundigenverklaring eenmalig voor maximaal drie maanden aan te houden. Het aanhouden van de deskundigenverklaring – in feite het opschorten van de conclusie van het advies – is alleen mogelijk indien de medisch deskundige dit redelijkerwijs noodzakelijk acht en kan motiveren.
 
 Naast aandoeningen en belemmeringen die blijvend van aard zijn, zijn er aandoeningen en belemmeringen die tijdelijk zijn. Het is hierbij van belang om vast te stellen op welke termijn een dermate verbetering zal optreden waarna iemand wel in staat is aan de inburgeringsplicht te voldoen. Ook wordt meegewogen in hoeverre er voorzieningen of anderszins oplossingen te treffen zijn om de beperking te compenseren. In sommige gevallen zullen behandeling en/of hulpmiddelen nodig zijn om een verbetering te bewerkstelligen. Hierbij wordt alleen uitgegaan van algemeen gebruikelijke behandelingen en/of hulpmiddelen. Er mag niet van betrokkene verwacht worden dat hij buitensporige inspanningen zal verrichten ten aanzien van de (medische) behandeling.
 
-Er komen situaties voor waarbij het zeer onduidelijk is hoe de prognose zal zijn, bijvoorbeeld als een ziekte binnen korte termijn aanzienlijk kan verbeteren of verslechteren. De medisch deskundige kan in zo’n geval met toestemming van betrokkene besluiten de medisch deskundigenverklaring eenmalig voor maximaal drie maanden aan te houden. Het aanhouden van de deskundigenverklaring – in feite het opschorten van de conclusie van het advies – is alleen mogelijk indien de medisch deskundige dit redelijkerwijs noodzakelijk acht en kan motiveren.
+### 2.6. Bijzondere examenomstandigheden
 
 Het gaat bij de medische deskundigenverklaring niet primair om het stellen van een diagnose met de daarbij behorende prognose. Aan de hand van aandoeningen, stoornissen en beperkingen stelt de medisch deskundige een advies op ten aanzien van het wel of niet kunnen voldoen aan de inburgeringsplicht via een van de drie leerroutes in het stelsel. Het gaat hierbij, zoals eerder gesteld, om de overtuiging van de medisch deskundige.
 
-### 2.6. Bijzondere examenomstandigheden
-
-In bepaalde gevallen kunnen betrokkenen met een beperking of belemmering reguliere examens afleggen onder aangepaste examenomstandigheden of kunnen er aangepaste examenversies worden gemaakt. Het uitgangspunt is dat het examen zoveel mogelijk onder dezelfde omstandigheden en met gelijke normering wordt afgenomen. De volgende aangepaste examenomstandigheden zijn beschikbaar zij het niet voor alle taalniveaus (lijst is niet limitatief):
-
 Genoemde mogelijkheden voor aangepaste examenafnames op niveau A2 zijn vervat in het volgende overzicht:
 
-De verantwoordelijkheid voor de ontwikkeling en uitvoering van de Staatsexamens Nt2 op niveau B1 en B2 ligt bij het CvTE. DUO voert ook deze examens uit. Aanpassingen zijn mogelijk voor:
+In bepaalde gevallen kunnen betrokkenen met een beperking of belemmering reguliere examens afleggen onder aangepaste examenomstandigheden of kunnen er aangepaste examenversies worden gemaakt. Het uitgangspunt is dat het examen zoveel mogelijk onder dezelfde omstandigheden en met gelijke normering wordt afgenomen. De volgende aangepaste examenomstandigheden zijn beschikbaar zij het niet voor alle taalniveaus (lijst is niet limitatief):
 
 ### Bijlage 1. Bij het protocol medische deskundigenverklaring
 
 ### Begrippen- en afkortingenlijst
 
-### Bijlage 2. Bij het protocol medische deskundigenverklaring model deskundigenverklaring
+### Bijlage 1. Bij het protocol medische deskundigenverklaring
+
+### Begrippen- en afkortingenlijst
+
+[Wet Inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) ontheffingsverzoek
 
 ### Deskundigenverklaring
 
 [Wet Inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) ontheffingsverzoek
 
-### Voorblad
-
-Cliënt werd uitleg gegeven over de aard van de beoordeling en de status van de deskundigenverklaring.
-
 Client werd uitleg gegeven over inzage-, correctie- en blokkeringsrecht.
 
 ### Medische deskundigenverklaring
+
+Client werd uitleg gegeven over inzage-, correctie- en blokkeringsrecht.
+
+Kan betrokkene op medische gronden in staat worden geacht binnen een termijn van 5 jaar te voldoen aan de inburgeringsplicht binnen een van de drie leerroutes?
 
 Cliënte heeft bij DUO een verzoek ingediend tot ontheffing voor het voldoen aan de inburgeringsplicht aan vanwege ..... (**DIT IS TE HALEN UIT DE AANVRAAG)**
 
@@ -1056,11 +1084,11 @@ De cliënt is tijdens het spreekuur op de hoogte gebracht van de strekking van d
 
 De cliënt werd schriftelijk op de hoogte gebracht van de deskundigenverklaring. (**na ontvangst informatie en bij negatief advies**)
 
-Naam arts, datum
+### Bijlage 3. Bij het protocol medische deskundigenverklaring machtigingsformulier eigen arts
 
 Handtekening
 
-### Bijlage 3. Bij het protocol medische deskundigenverklaring machtigingsformulier eigen arts
+**Persoonsgegevens:**
 
 **I.v.m. het verstrekken van medische informatie**
 
@@ -1084,15 +1112,11 @@ De beoordelend arts heeft de gegevens nodig voor een advies in het kader van de 
 
 –
 
-–
+**Handtekening**
 
 –
 
 **Handtekening**
-
-Ik ga ermee akkoord dat er gegevensverstrekking is tussen de beide bovengenoemde artsen, mits niet anders gebruikt dan is vermeld.
-
-¹ Of handtekening wettelijk vertegenwoordiger (indien van toepassing)
 
 ## Bijlage 2. Eindtermen kennis van de nederlandse maatschappij als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2022-10-01&g=2022-10-01)
 
@@ -1102,7 +1126,11 @@ In dit document zijn de herziene eindtermen opgenomen voor het onderdeel kennis 
 
 Ten opzichte van de laatste versie, uit begin 2015, zijn enkele eindtermen aangepast aan de actualiteit. Zo is ‘eerste hulp’ bijvoorbeeld vervangen door ‘spoedeisende hulp’. Inhoudelijk is er niets veranderd, ook de opzet en structuur is gelijk gebleven.
 
-Deze nieuwe versie van de eindtermen wordt van kracht per 1 januari 2022, met ingang van het nieuwe inburgeringsstelsel. Ook de examens zijn dan aangepast aan de nieuwe eindtermen.
+In dit document zijn de herziene eindtermen opgenomen voor het onderdeel kennis van de Nederlandse maatschappij (KNM) van het inburgeringsexamen Nederland.
+
+Ten opzichte van de laatste versie, uit begin 2015, zijn enkele eindtermen aangepast aan de actualiteit. Zo is ‘eerste hulp’ bijvoorbeeld vervangen door ‘spoedeisende hulp’. Inhoudelijk is er niets veranderd, ook de opzet en structuur is gelijk gebleven.
+
+### Hoofdstuk 1. toelichting op de opbouw van het eindtermendocument
 
 Voor de eindtermen van KNM uit is gegaan van cruciale praktijksituaties (CP’s). Dat zijn situaties, gekoppeld aan de onderscheiden thema’s, waarin inburgeraars adequaat moeten kunnen functioneren. Binnen de thema’s zijn vervolgens handelingen beschreven die essentieel zijn voor adequaat functioneren: de Cruciale Handelingen (CH’s). Bij elke handeling hoort kennis (Cruciale Kennis, CK). Tot slot zijn, gegeven de onderscheiden thema’s, handelingen en kennis, indicatoren geformuleerd. Dat zijn de normen die aangeven wanneer een handeling als succesvol kan worden beschouwd. De indicatoren voor succesvol gedrag zijn leidend voor de inhoud van het examen KNM.
 
@@ -1110,7 +1138,7 @@ Voor de eindtermen van KNM uit is gegaan van cruciale praktijksituaties (CP’s)
 
 Het eindtermendocument is als volgt opgebouwd. In dit hoofdstuk gaan we nader in op het niveau dat hoort bij het examen KNM. We geven hierbij zowel een toelichting op het niveau van taalvaardigheid als op een toelichting op het verwachte cognitieve niveau. In hoofdstuk 2 beschrijven we de onderscheiden situaties en leggen we de relatie met de onderscheiden thema’s. In hoofdstuk 3 beschrijven we per thema de cruciale handelingen. In hoofdstuk 4 beschrijven we per cruciale handeling de bijbehorende cruciale kennis en de indicatoren voor succesvol handelen. In de bijlage is het geheel van eindtermen nogmaals schematisch opgenomen.
 
-### 1.1. Niveau examen Kennis van de Nederlandse maatschappij
+Om de kandidaten en onderwijsaanbieders meer houvast te bieden bij de voorbereiding op het examenonderdeel KNM, geven we hieronder een toelichting op het niveau van de eindtermen en de daaraan gekoppelde toetsopgaven.
 
 De beschrijving van de cruciale handelingen, de bijbehorende cruciale kennis, evenals de indicatoren voor succesvol handelen kunnen in eerste instantie de indruk wekken te refereren aan complexe situaties. Bij het ontwikkelen van de eindtermen en het examen KNM hebben we dit ondervangen door het niveau van het examen te koppelen aan bestaande beschrijvingen van cognitief niveau en taalniveau.
 
@@ -1122,15 +1150,15 @@ Voor een indicatie van het cognitieve niveau dat aan de eindtermen is gekoppeld,
 
 Uitgaande van niveau 1 als uitgangspunt voor het cognitieve niveau van de eindtermen KNM en de daaraan gerelateerde toetsopgaven hebben we de kenmerken van niveau 1 voor de eindtermen en examenopgaven KNM op de volgende manier nader uitgewerkt:
 
-De opgaven in het examen KNM zijn geconstrueerd op niveau A2 van het Raamwerk NT5**Dalderop, K. e.a.(2002): Raamwerk Nt2. De Bilt. BVE-Raad**. Dit niveau is als uitgangspunt gekozen zodat ook degenen voor wie niveau B1 niet haalbaar is, en diehet inburgeringsexamen op niveau A2 afleggen, in staat gesteld worden het(zelfde) examen KNM af te leggen. De opgaven in het examen KNM worden allemaal mondeling aangeboden zodat beheersing van A2 voor luistervaardigheid uitgangspunt is voor het examen KNM. In het onderstaande overzicht staat aangegeven wat er talig verwacht kan worden van een taalgebruiker op niveau A2.
+### Hoofdstuk 2. Cruciale Praktijksituaties en thema’s
 
 Om de toegankelijkheid van de examenopgaven te vergroten, worden de opdrachten ondersteund door beeldmateriaal. Veelal worden opgaven geïntroduceerd met een kort filmpje waarin de context van de opgave snel en efficiënt kan worden geschetst. De vragen en antwoorden worden ook voor het overgrote deel voorzien van film- of fotomateriaal.
 
-### Hoofdstuk 2. Cruciale Praktijksituaties en thema’s
+In het onderzoek uitgevoerd door Euro RSCG Bikker zijn daarbij 8 thema’s onderscheiden met de bijbehorende uitwerking:
 
 We onderscheiden vier essentiële situaties waarin het voor inburgeraars van belang is in Nederland te kunnen functioneren. Deze zogenoemde ‘Cruciale Praktijksituaties (CP’s)’ zijn:
 
-In het onderzoek uitgevoerd door Euro RSCG Bikker zijn daarbij 8 thema’s onderscheiden met de bijbehorende uitwerking:
+### Hoofdstuk 3. Thema’s en bijbehorende Cruciale Handelingen (CH’s)
 
 De onderscheiden thema’s kunnen in meerdere cruciale praktijksituaties een rol spelen. Zo is een thema als ‘Normen en waarden’ zelfs in alle vier de cruciale praktijksituaties van belang. Immers, in elke situatie wordt van een inburgeraar verwacht dat hij zich aan de bij de situaties behorende normen en waarden houdt. Een thema als ‘Werk en Inkomen’ is weer alleen relevant voor de cruciale situatie ‘Functioneren op de arbeidsmarkt’. Dit impliceert dat in het examen sommige thema’s in meerdere situaties voor kunnen komen en andere thema’s gekoppeld zijn aan een enkele situatie.
 
@@ -1170,19 +1198,19 @@ De inburgeraar is in staat om, door de staatsinrichting van Nederland te kennen,
 
 De inburgeraar kent het Nederlandse onderwijssysteem en onderkent het belang van onderwijs in de Nederlandse kenniseconomie. Inburgeraars laten hun kinderen aan onderwijs deelnemen en kennen de rol die van ouders wordt verwacht.
 
-### Hoofdstuk 4. Cruciale kennis en indicatoren voor succesvol handelen
+Deze normen worden niet apart getoetst, maar geïntegreerd in andere normen aangeboden.
 
 Er is een aantal eindtermen dat van toepassing is op alle situaties en thema’s. Daarbinnen verwachten we dat inburgeraars kennis hebben van en zich bepaalde handelingen eigen hebben gemaakt, ongeacht de situatie waarin ze verkeren. Dit zijn de eindtermen Algemene Redzaamheid. De volgende eindtermen Algemene Redzaamheid zijn van toepassing:
 
 Deze normen worden niet apart getoetst, maar geïntegreerd in andere normen aangeboden.
 
-Op de volgende bladzijden werken we de cruciale handelingen verder uit in bijbehorende cruciale kennis en indicatoren voor succesvol handelen. Hieronder leggen we uit op welke wijze deze gelezen moeten worden.
+### 1. Werk en inkomen
 
 De eindtermen zijn opgebouwd rond thema’s, waaraan Cruciale praktijksituaties zijn gekoppeld. Elke CP kent vervolgens een of meer cruciale handelingen, die uitgewerkt zijn in indicatoren voor succesvol handelen, waarvoor cruciale kennis nodig is. Hieronder verduidelijken we deze opbouw van de eindtermen met een voorbeeld uit het eindtermendocument.
 
 ### 1. Werk en inkomen
 
-De inburgeraar is in staat stappen te zetten om werk te zoeken, te behouden en in eigen onderhoud te voorzien.
+### 1.2. Actief deel uit maken van een arbeidsorganisatie
 
 ### 1.1. Snel en efficiënt (nieuw) werk zoeken
 
@@ -1190,11 +1218,11 @@ De inburgeraar is in staat stappen te zetten om werk te zoeken, te behouden en i
 
 ### 1.3. Omgaan met (verborgen) discriminatie op de arbeidsmarkt
 
-### 1.4. Voorbereidingen treffen om een eigen bedrijf te starten
+De inburgeraar is in staat om om te gaan met de Nederlandse omgangsvormen, waarden en normen
 
 ### 2. Omgangsvormen, waarden en normen
 
-De inburgeraar is in staat om om te gaan met de Nederlandse omgangsvormen, waarden en normen
+### 2.2. Omgaan met ongewone of botsende gewoonten, waarden en normen
 
 ### 2.1. Duiden en hanteren van verschillende omgangsvormen in Nederland
 
@@ -1202,21 +1230,21 @@ De inburgeraar is in staat om om te gaan met de Nederlandse omgangsvormen, waard
 
 ### 2.3. Deelnemen aan sociale netwerken
 
-### 2.4. Aangaan en onderhouden van alledaagse sociale contacten
+De inburgeraar is in staat passende huisvesting te vinden en nutsvoorzieningen te regelen. Hij draagt zorg voor de veiligheid in de woning. En draagt zorg voor milieu en schone leefomgeving.
 
 ### 3. Wonen
 
-De inburgeraar is in staat passende huisvesting te vinden en nutsvoorzieningen te regelen. Hij draagt zorg voor de veiligheid in de woning. En draagt zorg voor milieu en schone leefomgeving.
+### 3.2. Regelen van en omgaan met nutsvoorzieningen en communicatie-middelen in de eigen woning
 
 ### 3.1. Passende huisvesting regelen
 
 ### 3.2. Regelen van en omgaan met nutsvoorzieningen en communicatie-middelen in de eigen woning
 
-### 3.3. Omgaan met gebruiken met betrekking tot de aankleding en onderhoud van de woonomgeving
+Inburgeraars zijn in staat om volgens de regels van het Nederlandse zorgstelsel gebruik te maken van de gezondheidszorg.
 
 ### 4. Gezondheid en gezondheidszorg
 
-Inburgeraars zijn in staat om volgens de regels van het Nederlandse zorgstelsel gebruik te maken van de gezondheidszorg.
+### 4.2. Gebruik maken van eerstelijns gezondheidszorg (huisarts)
 
 ### 4.1. Bewuste keuzes doen ten aanzien van de eigen gezondheid en levensstijl
 
@@ -1234,11 +1262,11 @@ Inburgeraars zijn in staat om volgens de regels van het Nederlandse zorgstelsel 
 
 ### 4.8. Een zorgverzekering afsluiten en gebruiken
 
-### 4.9. Gebruik maken van en/of regelen van zorg voor ouderen, chronisch zieken en gehandicapten
+De inburgeraar is in staat om, door de geschiedenis en geografie van Nederland te kennen, betrokken te zijn bij Nederland en de Nederlandse samenleving.
 
 ### 5. Geschiedenis en geografie
 
-De inburgeraar is in staat om, door de geschiedenis en geografie van Nederland te kennen, betrokken te zijn bij Nederland en de Nederlandse samenleving.
+### 5.2. Omgaan met voor Nederland gevoelige relaties en gebeurtenissen
 
 ### 5.1. Zich verdiepen in de geschiedenis van Nederland
 
@@ -1246,11 +1274,11 @@ De inburgeraar is in staat om, door de geschiedenis en geografie van Nederland t
 
 ### 5.3. Geografische kennis van Nederland gebruiken in het dagelijkse leven
 
-### 5.4. Kent de denkbeelden die in Nederland geaccepteerd zijn (sinds de jaren ‘70)
+De inburgeraar is op de hoogte van de dienstverlening van de lokale overheid, de belastingdienst, de politie en instanties voor sociale en juridische dienstverlening. Hij is in staat in voorkomende gevallen informatie of hulp te vragen bij Bureau voor Juridische Hulpverlening en/of maatschappelijk werk.
 
 ### 6. Instanties
 
-De inburgeraar is op de hoogte van de dienstverlening van de lokale overheid, de belastingdienst, de politie en instanties voor sociale en juridische dienstverlening. Hij is in staat in voorkomende gevallen informatie of hulp te vragen bij Bureau voor Juridische Hulpverlening en/of maatschappelijk werk.
+### 6.2. Omgaan met belastingaangifte, -teruggave en aanvragen van toeslagen (zorg-, kinderopvang-, woontoeslag)
 
 ### 6.1. Gebruik maken van de dienstverlening van de gemeente aan de burger
 
@@ -1260,21 +1288,17 @@ De inburgeraar is op de hoogte van de dienstverlening van de lokale overheid, de
 
 ### 6.4. Gebruik maken van juridische hulp (sociale raadslieden) en sociale dienstverlening
 
-### 6.5. Verantwoord omgaan met verzekeringen
+De inburgeraar is in staat om, door de staatsinrichting van Nederland te kennen, betrokken te zijn bij Nederland en de Nederlandse samenleving.
 
 ### 7. Staatsinrichting en rechtsstaat
 
-De inburgeraar is in staat om, door de staatsinrichting van Nederland te kennen, betrokken te zijn bij Nederland en de Nederlandse samenleving.
+### 7.2. Zich verdiepen in de verantwoordelijkheden van de Nederlandse bestuurslagen
 
 ### 7. In het dagelijks handelen invulling geven aan de Nederlandse [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840)
 
 ### 7.2. Zich verdiepen in de verantwoordelijkheden van de Nederlandse bestuurslagen
 
 ### 7.3. Omgaan met de scheiding tussen kerk (religie) en staat
-
-### 7.4. Hanteert wet- en regelgeving
-
-### 8. Onderwijs en opvoeding
 
 De inburgeraar kent het Nederlandse onderwijssysteem en onderkent het belang van onderwijs in de Nederlandse kenniseconomie. Inburgeraars laten hun kinderen aan onderwijs deelnemen en kennen de rol die van ouders wordt verwacht.
 
@@ -1284,23 +1308,23 @@ De inburgeraar kent het Nederlandse onderwijssysteem en onderkent het belang van
 
 ### 8.2. Draagt verantwoordelijkheid voor het gedrag van de eigen minderjarige kinderen
 
-### 8.3. Maakt gebruik van kinderopvang en speelzaal
+### 8.1. Maakt gebruik van het Nederlandse onderwijssysteem voor zichzelf of de eigen kinderen
 
-### 8.4. Omgaan met schoolkosten en tegemoetkomingen in schoolkosten en studiefinanciering
+### 8.2. Draagt verantwoordelijkheid voor het gedrag van de eigen minderjarige kinderen
 
 ## Bijlage 3. Geheimhoudingsverklaring inburgeringsexamen als bedoeld in [artikel 3.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2022-10-01&g=2022-10-01)
 
-### 1. Verklaring met betrekking tot de geheimhoudingsplicht
+### 8.4. Omgaan met schoolkosten en tegemoetkomingen in schoolkosten en studiefinanciering
+
+**Ondergetekende,**
+
+Bij overtreding van deze geheimhoudingsverklaring houdt de Minister van SZW zich het recht voor om over te gaan tot het treffen van maatregelen.
 
 **Ondergetekende,**
 
 Bij overtreding van deze geheimhoudingsverklaring houdt de Minister van SZW zich het recht voor om over te gaan tot het treffen van maatregelen.
 
 Plaats:
-
-Datum:
-
-Handtekening:
 
 ## Bijlage 4. Model inburgeringsdiploma als bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.17&z=2022-10-01&g=2022-10-01)
 
@@ -1405,7 +1429,110 @@ Spreekvaardigheid niveau A2
 |   | [certificaatnummer, ISI] |
 | Doorhalingen en/of wijzigingen maken dit certificaat ongeldig | Doorhalingen en/of wijzigingen maken dit certificaat ongeldig |
 
-## Bijlage 6a. Tabel als bedoeld in [artikel 7.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.1&z=2022-10-01&g=2022-10-01) (boete bij niet tijdig afronden b1-route)
+## Bijlage 4. Model inburgeringsdiploma als bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.17&z=2023-01-01&g=2023-01-01)
+
+**Inburgeringsdiploma**
+
+(voor- en achternaam)
+
+geboren (geboortedatum) te (geboorteplaats, geboorteland),
+
+**heeft met goed gevolg het inburgeringsexamen afgelegd.**
+
+**Het inburgeringsexamen, bedoeld in artikel 7, eerste lid, van de Wet inburgering 2021 is behaald op het vereiste niveau van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen.**
+
+**Het inburgeringsexamen van de Wet inburgering 2021 bestaat uit de volgende examenonderdelen:**
+
+Leesvaardigheid niveau.
+
+Luistervaardigheid niveau.
+
+Schrijfvaardigheid niveau.
+
+Spreekvaardigheid niveau.
+
+Kennis van de Nederlandse Maatschappij
+
+**Daarnaast heeft betrokkene afgerond:**
+
+Participatieverklaringstraject
+
+Module Arbeidsmarkt en Participatie
+
+| Plaats | Datum |
+| --- | --- |
+|   |   |
+| Groningen | (datum diplomagerechtigd) |
+|   |   |
+| Namens de Minister van Sociale Zaken en Werkgelegenheid, | Handtekening van de kandidaat |
+| voor deze |   |
+| ...... | ...... |
+|   |   |
+| (naam van de ondertekenaar) |   |
+|   |   |
+| (functie van de ondertekenaar) |   |
+|   |   |
+|   | Diplomanummer: **(unieke klantsleutel alleen bekend in ISI)** |
+| Doorhalingen en/of wijzigingen maken dit diploma ongeldig. | Doorhalingen en/of wijzigingen maken dit diploma ongeldig. |
+
+## Bijlage 5. Model inburgeringscertificaat als bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.18&z=2023-01-01&g=2023-01-01)
+
+[voor- en achternaam]
+
+Geboren op [geboortedatum] te [geboorteplaats, geboorteland],
+
+Heeft voldaan aan de inburgeringsplicht.
+
+Heeft aan de inburgeringsplicht, bedoeld in [artikel 6, eerste lid, van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=6) voldaan.
+
+Hiertoe is het volgende afgerond:
+
+- –. de Zelfredzaamheidsroute, oftewel de Z-route, bestaande uit:
+
+- ○. 800 uren taalonderwijs en kennis van de Nederlandse Maatschappij;
+
+- ○. 800 uren activering en participatie, waar de module Arbeidsmarkt en Participatie en het Participatieverklaringstraject onderdeel van zijn; en
+
+- ○. een eindgesprek met de gemeente.
+
+****OF****
+
+Hiertoe is het volgende afgerond:
+
+- –. de Zelfredzaamheidsroute, oftewel de Z-route, bestaande uit:
+
+- ○. 800 uren taalonderwijs en kennis van de Nederlandse Maatschappij;
+
+- ○. de module Arbeidsmarkt en Participatie;
+
+- ○. het Participatieverklaringstraject; en
+
+- ○. een eindgesprek met de gemeente.
+
+**INDIEN VAN TOEPASSING**
+
+Daarnaast heeft betrokkene de volgende examens afgerond:
+
+Leesvaardigheid niveau A2
+
+Luistervaardigheid niveau A2
+
+Schrijfvaardigheid niveau A2
+
+Spreekvaardigheid niveau A2
+
+| [plaats] | [datum] |
+| --- | --- |
+|   |   |
+| Groningen | [datum certificeringsgerechtigd] |
+| Namens de Minister van Sociale Zaken en Werkgelegenheid, |   |
+| [handtekening] | [handtekening kandidaat] |
+| [naam ondertekenaar] |   |
+| [functie ondertekenaar] |   |
+|   | [certificaatnummer, ISI] |
+| Doorhalingen en/of wijzigingen maken dit certificaat ongeldig | Doorhalingen en/of wijzigingen maken dit certificaat ongeldig |
+
+## Bijlage 6a. Tabel als bedoeld in [artikel 7.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.1&z=2023-01-01&g=2023-01-01) (boete bij niet tijdig afronden b1-route)
 
 |   |   | **Gevolgde uren cursus Nederlands als tweede taal en KNM** | **Gevolgde uren cursus Nederlands als tweede taal en KNM** | **Gevolgde uren cursus Nederlands als tweede taal en KNM** |
 | --- | --- | --- | --- | --- |
@@ -1429,7 +1556,7 @@ De Minister van Sociale Zaken en Werkgelegenheid matigt zowel voor asielstatusho
 | 3 behaalde examenonderdelen | 60% matiging van de boete |
 | 4 behaalde examenonderdelen | 80% matiging van de boete |
 
-## Bijlage 6b. Tabel als bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.2&z=2022-10-01&g=2022-10-01) (boete bij niet tijdig afronden onderwijsroute)
+## Bijlage 6b. Tabel als bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.2&z=2023-01-01&g=2023-01-01) (boete bij niet tijdig afronden onderwijsroute)
 
 |   |   | **Aanwezigheid bij (taal)lessen binnen de onderwijsroute** | **Aanwezigheid bij (taal)lessen binnen de onderwijsroute** | **Aanwezigheid bij (taal)lessen binnen de onderwijsroute** |
 | --- | --- | --- | --- | --- |
@@ -1446,27 +1573,9 @@ De Minister van Sociale Zaken en Werkgelegenheid matigt zowel voor asielstatusho
 | 3 behaalde examenonderdelen | 60% matiging van de boete |
 | 4 behaalde examenonderdelen | 80% matiging van de boete |
 
-## Bijlage 6c. Tabel als bedoeld in [artikel 7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.3&z=2022-10-01&g=2022-10-01) (boete bij niet tijdig afronden z-route)
+### Gegevenslevering door de Minister van Justitie en Veiligheid
 
-|   |   | **Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹** | **Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹** | **Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹** |
-| --- | --- | --- | --- | --- |
-|   |   | 0 t/m 299 | 300 t/m 599 | 600 of meer |
-| **Bestede uren participatie-component**² | 0 t/m 299 | € 1.000 | € 800 | € 400 |
-| **Bestede uren participatie-component**² | 300 t/m 599 | € 800 | € 640 | € 320 |
-| **Bestede uren participatie-component**² | 600 of meer | € 600 | € 450 | € 225 |
-
-¹ Dit is inclusief de in het kader van de brede intake gevolgde cursusuren Nederlands als tweede taal en KNM. Deze uren tellen ingevolge [artikel 3.14, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.14) namelijk mee voor het voldoen aan de urennorm van het taalgedeelte (artikel 3.14, tweede lid, onderdeel a, van het besluit).
-
-² Dit is inclusief de uren gemoeid met activiteiten die – voorafgaand aan de vaststelling van het PIP – zijn verricht: (i) in het kader van de brede intake, (ii) in het kader van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) tijdens de brede intake, en (iii) in het kader van de maatschappelijke begeleiding. Deze uren tellen ingevolge de [artikelen 3.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.1), [3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.2), en [3.14, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.14) namelijk mee voor het voldoen aan de urennorm van het participatiegedeelte (artikel 3.14, tweede lid, onderdeel b, van het besluit).
-
-| Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹ | Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹ | Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹ |
-| --- | --- | --- |
-| 0 t/m 299 | 300 t/m 599 | 600 of meer |
-| € 1.000,– | € 800 | € 400 |
-
-¹ Dit is inclusief de in het kader van de brede intake gevolgde cursusuren Nederlands als tweede taal en KNM. Deze uren tellen ingevolge [artikel 3.14, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.14) namelijk mee voor het voldoen aan de urennorm van het taalgedeelte (artikel 3.14, tweede lid, onderdeel a, van het besluit).
-
-## Bijlage 7. Behorend bij [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=9&artikel=9.1&z=2022-10-01&g=2022-10-01) gegevensverstrekking ten behoeve van statistiek, monitoring en evaluatie
+De Minister van Justitie en Veiligheid levert het Centraal Bureau voor de Statistiek over de inburgeringsplichtige, bedoeld in [artikel 13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=13), het vreemdelingenummer, bedoeld in [artikel 107, derde lid, van de Vreemdelingenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107), het burgerservicenummer en de ingangsdatum van het verblijfsrecht.
 
 ### Gegevenslevering door de Minister van Justitie en Veiligheid
 
@@ -1483,10 +1592,6 @@ Het COA levert het Centraal Bureau voor de Statistiek gegevens over:
 ### Gegevenslevering door de Minister van Sociale Zaken en Werkgelegenheid
 
 Minister van SZW levert gegevens aan het Centraal Bureau voor de Statistiek over:
-
-### Gegevenslevering door de Stichting Nuffic en de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven
-
-De Stichting Nuffic en de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven leveren gegevens aan het Centraal Bureau voor de Statistiek over:
 
 ## Bijlage. Transponeringstabel
 
@@ -1573,23 +1678,23 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ### Voorwoord
 
-Voor een dergelijke medische deskundigenverklaring zijn er kaders en uitgangspunten geformuleerd die zijn neergelegd in dit protocol. Dit protocol is een bijlage bij een ministeriële regeling; de Regeling inburgering 2021 die een uitwerking is van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) en het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555). Dit protocol is geënt op het medisch protocol bij van het vorige stelsel ([Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)) en is oorspronkelijk tot stand gekomen in samenwerking met de VNG (Vereniging Nederlandse Gemeenten) en de VIA (Vereniging Indicerende en Adviserende Artsen).
+Indien iemand door een psychische of lichamelijke belemmering dan wel een verstandelijke beperking niet in staat is om aan de inburgeringsplicht te voldoen, kan ontheffing van de inburgeringsplicht worden gevraagd. Dit kan een gehele ontheffing zijn of een gedeeltelijke ontheffing. De voorwaarden hiervoor zijn uitgewerkt in de wet. Over of een belemmering of beperking dusdanig is dat betrokkene niet aan de inburgeringsplicht kan voldoen, kan de inburgeringsplichtige advies vragen bij een door de Minister van SZW aangewezen medisch deskundige. Dit zijn artsen die zijn ingeschreven in het BIG-register van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) met een specialisatie als arts Maatschappij + Gezondheid, arts Indicatie + Advies of verzekeringsarts en artsen die zijn opgenomen in het VIA register die tevens beschikken over kennis van de [wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611).
 
-### 1.1. Het protocol
+### 1. Algemeen
 
-Het protocol kent een algemeen deel en een medisch deel. De volgende bijlagen maken onderdeel uit van het protocol:
+Het protocol beoogt uniformiteit te bevorderen in de advisering door de medisch deskundige en uniformiteit in de opbouw van de deskundigenverklaring. Uniformiteit draagt bij aan een gelijke behandeling van gelijke gevallen. Het protocol is opgesteld in de wetenschap dat het periodiek zal moeten worden geactualiseerd. Nieuwe inzichten en ontwikkelingen op het gebied van wetgeving, jurisprudentie, medische technologie, hulpmiddelen en de examens kunnen een aanpassing van het protocol tot gevolg hebben.
 
 ### 1.2. Inleiding
 
-Voor inburgeringsplichtigen met een auditieve of visuele beperking die tevens een revalidatietraject volgen in verband met hun beperking, is het mogelijk het aantal uren voor de Z-route in het PIP naar beneden bij te stellen, dit geldt alleen voor deelnemers aan de Z-route en valt niet onder ontheffing maar wordt door de gemeente in het PIP vastgelegd. Dit is uitgewerkt in de [Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657).
+In onderstaande tabel staat vermeld hoe de eisen zich verhouden tot de mogelijkheid tot gedeeltelijke ontheffing op medische gronden.
 
 ### 1.3. Advisering
 
-Bij de advisering over het wel of niet kunnen voldoen aan de inburgeringsplicht neemt de medisch deskundige in zijn overweging ook (in algemene termen) mee of iemand in staat is om lessen te volgen en deel te nemen aan de andere verplichte onderdelen van de inburgeringsplicht. In het protocol wordt steeds waar er wordt gesproken over ‘de inburgeringsplicht’ ook het deelnemen aan deze lessen en activiteiten bedoeld.
+Een overzicht van mogelijke aangepaste examenomstandigheden is hiertoe in de Regeling inburgering 2021 opgenomen. Dit overzicht is, in tegenstelling tot de lijst in [artikel 3.2 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.2) (oud), niet limitatief. Doordat er onder de vorige [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) geen gedeeltelijke ontheffing mogelijk was, zijn veel mensen met bijvoorbeeld een auditieve of visuele beperking (geheel) ontheven van de inburgeringsplicht en waren er geen aangepaste examens nodig voor mensen die volledig doof of blind zijn. Onder de huidige [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) zal gekeken moeten worden aan welke aangepaste examens behoefte is in aanvulling op de al beschikbare aanpassingen. De mogelijkheden tot aangepaste examenomstandigheden verschillen bovendien voor de taalexamens op niveau A2 en voor de Staatsexamens Nt2 (niveau B1 en B2). Niet alle aanpassingen zijn op elk niveau beschikbaar. Mocht iemand op advies van de medisch deskundige met een aanpassing die niet is opgenomen in de lijst met aangepaste examenomstandigheden ([artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-01-01&g=2023-01-01) van deze regeling) toch examens kunnen afleggen, dan wordt in overleg met DUO en indien nodig met het Ministerie van SZW gekeken of de aanpassing kan worden gerealiseerd. DUO overlegt periodiek met de aangewezen arts. Signalen hierover kunnen in dat kader worden besproken.
 
 ### 1.4. Wettelijk kader ontheffing en gedeeltelijke ontheffing
 
-[Artikel 5, eerste lid, van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=5) luidt:
+Voor inburgeringsplichtigen met een psychische of lichamelijke belemmering dan wel een verstandelijke beperking is het mogelijk om te worden ontheven van de inburgeringsplicht door aan te tonen dat hij door deze belemmering dan wel beperking blijvend niet in staat is om te voldoen aan de inburgeringsplicht. In het geval van een gedeeltelijke ontheffing op medische gronden geldt dat moet worden aangetoond dat de inburgeringsplichtige door de belemmering dan wel beperking niet in staat is te voldoen aan alle vastgestelde onderdelen van het inburgeringsexamen of de leerroute die wordt gevolgd. Hieronder volgt hoe dat in het wettelijk kader is beschreven.
 
 ##### Artikel 2.7. Medische ontheffing
 
@@ -1675,23 +1780,23 @@ In [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afd
 
 ### 1.6. Taken betrokkene, DUO en medisch deskundige
 
-Een verkorte procedure kan volstaan indien aan de hand van bij de aanvraag tot de medische deskundigenverklaring aangeleverde medische stukken, reeds een deskundigenverklaring kan worden opgesteld. Dit betekent dat naar het oordeel van de medisch deskundige evident vaststaat dat betrokkene niet in staat zal zijn om te voldoen aan de inburgeringsplicht of bepaalde onderdelen daarvan of dat de inburgeringsplichtige aangepaste examens nodig heeft. Betrokkene hoeft dan niet (apart hiervoor) in persoon te worden gezien door de medisch deskundige. Voor de niet-evidente situaties is het gebruikelijk dat betrokkene tijdens een spreekuur in persoon door de medisch deskundige wordt opgeroepen. De te volgen procedure (verkort of regulier) is ter beoordeling aan de medisch deskundige die de deskundigenverklaring opstelt.
+De aangewezen onafhankelijk arts deelt (conform [artikel 2.7, eerste lid van het Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7)) de deskundigenverklaring met DUO waarna DUO conform artikel 2.7, vijfde lid, van het Besluit inburgering 2021 binnen acht weken na ontvangst van de aanvraag een beschikking geeft die wordt gedeeld met de aanvrager en (conform [artikel 9.1, derde lid en onder c, van het Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=9.1)) de gemeente. Er is geen geldigheidstermijn gekoppeld aan de medische deskundigenverklaring. Betrokkene dient bij het indienen van een aanvraag bij DUO en de vervolgstappen zelf rekening te houden met de inburgeringstermijn en dit proces tijdig in gang te zetten. DUO heeft een vergewisplicht (conform [art. 3:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:9)), maar treedt niet in de inhoudelijke beoordeling van de (medische) deskundigenverklaring. De vergewisplicht houdt in dat DUO naast het controleren van de formulieren op het juist en volledig invullen hiervan, zich ervan moet vergewissen dat het onderzoek op zorgvuldige wijze heeft plaatsgevonden.
 
 ### 1.7. Aanvraagperiode en invulling begrip ‘blijvend’
 
-Indien te verwachten is dat de betrokkene wegens een psychische of lichamelijke belemmering dan wel verstandelijke beperking niet binnen vijf jaar kan voldoen aan de inburgeringsplicht en een gedeeltelijke ontheffing op medische gronden en aangepaste examenomstandigheden geen perspectief bieden, dan wordt ervan uit gegaan dat er reden tot ontheffing bestaat.
+De medisch deskundige adviseert over de vraag of betrokkene binnen een periode van vijf jaar na aanvraag van ontheffing in staat is aan de inburgeringsplicht te voldoen. Op grond van [artikel 2.7, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7) is sprake van het niet in staat zijn om geheel of gedeeltelijk aan de inburgeringplicht te voldoen indien in redelijkheid verwacht mag worden dat de aard en de ernst van de belemmering of beperking zodanig is dat het voldoen aan de inburgeringsplicht binnen vijf jaar niet mogelijk is. Deze termijn van vijf jaar wordt gerekend vanaf het moment van de aanvraag van het advies.
 
 ### 1.8. Bezwaar en beroep
 
-De afdeling Bezwaar en Beroep van DUO draagt zorg voor de afhandeling van het bezwaar conform voorgeschreven regels in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537). Bij een negatieve beslissing op bezwaar kan de inburgeringsplichtige in beroep bij de sector Bestuursrecht van de rechtbank. Betrokkene wordt over deze mogelijkheid in de negatieve beschikking op bezwaar geïnformeerd.
+Tegen een beschikking van DUO kan de inburgeringsplichtige binnen zes weken in bezwaar gaan. Betrokkene wordt door DUO over deze mogelijkheid in de beschikking geïnformeerd.
 
 ### 1.9. Examens
 
-Een kandidaat die door een belemmering of beperking niet in staat is om de inburgeringsexamens op de gebruikelijke wijze af te leggen, kan door DUO in de gelegenheid worden gesteld om examens op een aan zijn belemmering of beperking aangepaste wijze af te leggen. De aangepaste examenomstandigheden waarin DUO in elk geval kan voorzien, worden toegelicht onder 2.6. van dit protocol. Indien uit de medische deskundigenverklaring een andere wenselijke aanpassing komt, zal in overleg met DUO worden gekeken of daaraan kan worden voldaan. Soms worden aangepaste examens ook afgenomen op een andere locatie dan de reguliere examens omdat er bepaalde apparatuur en/of expertise nodig is. Ook is het op basis van een medische deskundigenverklaring mogelijk op de reguliere examenlocaties in een aangepaste ruimte examen te doen.
+De examens worden afgelegd bij DUO op één van de examenlocaties in Amsterdam, Rotterdam, Rijswijk, Eindhoven, Utrecht en Zwolle.
 
-### 2.2. Algemeen
+### 2.1. Begrippen
 
-Naast het protocol gelden uiteraard de gedragsregels van artsen zoals die door de KNMG zijn vastgesteld en tevens de in de medische adviespraktijk gangbare inzichten (artsen Maatschappij + Gezondheid, artsen Indictie + Advies, artsen uit het VIA register en verzekeringsartsen). Zo zal het onderzoek door de medisch deskundige op een voor betrokkene zo min mogelijk belastende wijze plaatsvinden. Lichamelijk onderzoek zal achterwege kunnen blijven indien de medisch deskundige op grond van de anamnese voldoende overtuiging voor zijn oordeel heeft verkregen. Bovendien zal reeds beschikbare informatie van de behandelsector in de overwegingen worden betrokken en kan indien nodig en met gerichte toestemming van betrokkene nadere informatie bij de behandelaar worden ingewonnen. De medisch deskundige zal (verdere) medicalisering zoveel mogelijk vermijden.
+Er wordt vanuit gegaan dat voor het kunnen afleggen van het voorbereidingstraject dezelfde vaardigheden van belang zijn als bij het kunnen behalen van het inburgeringsexamen. Mochten lichte aanpassingen nodig zijn voor het afleggen van het voorbereidingstraject dan zal de medisch deskundige dit in het advies aangeven.
 
 ### 2.3. Beperkingen
 
@@ -1705,39 +1810,39 @@ De medisch deskundige zal tot de overtuiging moeten komen dat betrokkene wel, ge
 
 Waarom een aanvraag voor ontheffing/aangepaste examenomstandigheden op dit moment?
 
-### Beoordelen van de beperkingen en belemmeringen
+### Specifiek
 
 Welke beperkingen ondervindt betrokkene ten aanzien van:
 
 ### 2.5. Weging en beoordeling
 
-Het gaat bij de medische deskundigenverklaring niet primair om het stellen van een diagnose met de daarbij behorende prognose. Aan de hand van aandoeningen, stoornissen en beperkingen stelt de medisch deskundige een advies op ten aanzien van het wel of niet kunnen voldoen aan de inburgeringsplicht via een van de drie leerroutes in het stelsel. Het gaat hierbij, zoals eerder gesteld, om de overtuiging van de medisch deskundige.
+Er komen situaties voor waarbij het zeer onduidelijk is hoe de prognose zal zijn, bijvoorbeeld als een ziekte binnen korte termijn aanzienlijk kan verbeteren of verslechteren. De medisch deskundige kan in zo’n geval met toestemming van betrokkene besluiten de medisch deskundigenverklaring eenmalig voor maximaal drie maanden aan te houden. Het aanhouden van de deskundigenverklaring – in feite het opschorten van de conclusie van het advies – is alleen mogelijk indien de medisch deskundige dit redelijkerwijs noodzakelijk acht en kan motiveren.
 
 ### 2.6. Bijzondere examenomstandigheden
 
-De verantwoordelijkheid voor de ontwikkeling en uitvoering van de Staatsexamens Nt2 op niveau B1 en B2 ligt bij het CvTE. DUO voert ook deze examens uit. Aanpassingen zijn mogelijk voor:
+Genoemde mogelijkheden voor aangepaste examenafnames op niveau A2 zijn vervat in het volgende overzicht:
 
-### Deskundigenverklaring
+### Bijlage 2. Bij het protocol medische deskundigenverklaring model deskundigenverklaring
 
 [Wet Inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) ontheffingsverzoek
 
 ### Voorblad
 
-Client werd uitleg gegeven over inzage-, correctie- en blokkeringsrecht.
+Cliënt werd uitleg gegeven over de aard van de beoordeling en de status van de deskundigenverklaring.
 
 ### Medische deskundigenverklaring
 
-Handtekening
+Naam arts, datum
 
 ### Bijlage 3. Bij het protocol medische deskundigenverklaring machtigingsformulier eigen arts
 
-¹ Of handtekening wettelijk vertegenwoordiger (indien van toepassing)
+Ik ga ermee akkoord dat er gegevensverstrekking is tussen de beide bovengenoemde artsen, mits niet anders gebruikt dan is vermeld.
 
 ## Bijlage 2. Eindtermen kennis van de nederlandse maatschappij als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2023-01-01&g=2022-10-01)
 
 ### Voorwoord
 
-Voor de eindtermen van KNM uit is gegaan van cruciale praktijksituaties (CP’s). Dat zijn situaties, gekoppeld aan de onderscheiden thema’s, waarin inburgeraars adequaat moeten kunnen functioneren. Binnen de thema’s zijn vervolgens handelingen beschreven die essentieel zijn voor adequaat functioneren: de Cruciale Handelingen (CH’s). Bij elke handeling hoort kennis (Cruciale Kennis, CK). Tot slot zijn, gegeven de onderscheiden thema’s, handelingen en kennis, indicatoren geformuleerd. Dat zijn de normen die aangeven wanneer een handeling als succesvol kan worden beschouwd. De indicatoren voor succesvol gedrag zijn leidend voor de inhoud van het examen KNM.
+Deze nieuwe versie van de eindtermen wordt van kracht per 1 januari 2022, met ingang van het nieuwe inburgeringsstelsel. Ook de examens zijn dan aangepast aan de nieuwe eindtermen.
 
 ### Hoofdstuk 1. toelichting op de opbouw van het eindtermendocument
 
@@ -1745,11 +1850,11 @@ Het eindtermendocument is als volgt opgebouwd. In dit hoofdstuk gaan we nader in
 
 ### 1.1. Niveau examen Kennis van de Nederlandse maatschappij
 
-Om de toegankelijkheid van de examenopgaven te vergroten, worden de opdrachten ondersteund door beeldmateriaal. Veelal worden opgaven geïntroduceerd met een kort filmpje waarin de context van de opgave snel en efficiënt kan worden geschetst. De vragen en antwoorden worden ook voor het overgrote deel voorzien van film- of fotomateriaal.
+De opgaven in het examen KNM zijn geconstrueerd op niveau A2 van het Raamwerk NT5**Dalderop, K. e.a.(2002): Raamwerk Nt2. De Bilt. BVE-Raad**. Dit niveau is als uitgangspunt gekozen zodat ook degenen voor wie niveau B1 niet haalbaar is, en diehet inburgeringsexamen op niveau A2 afleggen, in staat gesteld worden het(zelfde) examen KNM af te leggen. De opgaven in het examen KNM worden allemaal mondeling aangeboden zodat beheersing van A2 voor luistervaardigheid uitgangspunt is voor het examen KNM. In het onderstaande overzicht staat aangegeven wat er talig verwacht kan worden van een taalgebruiker op niveau A2.
 
 ### Hoofdstuk 2. Cruciale Praktijksituaties en thema’s
 
-De onderscheiden thema’s kunnen in meerdere cruciale praktijksituaties een rol spelen. Zo is een thema als ‘Normen en waarden’ zelfs in alle vier de cruciale praktijksituaties van belang. Immers, in elke situatie wordt van een inburgeraar verwacht dat hij zich aan de bij de situaties behorende normen en waarden houdt. Een thema als ‘Werk en Inkomen’ is weer alleen relevant voor de cruciale situatie ‘Functioneren op de arbeidsmarkt’. Dit impliceert dat in het examen sommige thema’s in meerdere situaties voor kunnen komen en andere thema’s gekoppeld zijn aan een enkele situatie.
+In het onderzoek uitgevoerd door Euro RSCG Bikker zijn daarbij 8 thema’s onderscheiden met de bijbehorende uitwerking:
 
 ### Hoofdstuk 3. Thema’s en bijbehorende Cruciale Handelingen (CH’s)
 
@@ -1789,49 +1894,67 @@ De inburgeraar kent het Nederlandse onderwijssysteem en onderkent het belang van
 
 ### Hoofdstuk 4. Cruciale kennis en indicatoren voor succesvol handelen
 
-De eindtermen zijn opgebouwd rond thema’s, waaraan Cruciale praktijksituaties zijn gekoppeld. Elke CP kent vervolgens een of meer cruciale handelingen, die uitgewerkt zijn in indicatoren voor succesvol handelen, waarvoor cruciale kennis nodig is. Hieronder verduidelijken we deze opbouw van de eindtermen met een voorbeeld uit het eindtermendocument.
+Op de volgende bladzijden werken we de cruciale handelingen verder uit in bijbehorende cruciale kennis en indicatoren voor succesvol handelen. Hieronder leggen we uit op welke wijze deze gelezen moeten worden.
 
 ### 1. Werk en inkomen
 
 De inburgeraar is in staat stappen te zetten om werk te zoeken, te behouden en in eigen onderhoud te voorzien.
 
-### 2. Omgangsvormen, waarden en normen
+### 1.4. Voorbereidingen treffen om een eigen bedrijf te starten
 
 De inburgeraar is in staat om om te gaan met de Nederlandse omgangsvormen, waarden en normen
 
-### 3. Wonen
+### 2.4. Aangaan en onderhouden van alledaagse sociale contacten
 
 De inburgeraar is in staat passende huisvesting te vinden en nutsvoorzieningen te regelen. Hij draagt zorg voor de veiligheid in de woning. En draagt zorg voor milieu en schone leefomgeving.
 
-### 4. Gezondheid en gezondheidszorg
+### 3.3. Omgaan met gebruiken met betrekking tot de aankleding en onderhoud van de woonomgeving
 
 Inburgeraars zijn in staat om volgens de regels van het Nederlandse zorgstelsel gebruik te maken van de gezondheidszorg.
 
-### 5. Geschiedenis en geografie
+### 4.9. Gebruik maken van en/of regelen van zorg voor ouderen, chronisch zieken en gehandicapten
 
 De inburgeraar is in staat om, door de geschiedenis en geografie van Nederland te kennen, betrokken te zijn bij Nederland en de Nederlandse samenleving.
 
-### 6. Instanties
+### 5.4. Kent de denkbeelden die in Nederland geaccepteerd zijn (sinds de jaren ‘70)
 
 De inburgeraar is op de hoogte van de dienstverlening van de lokale overheid, de belastingdienst, de politie en instanties voor sociale en juridische dienstverlening. Hij is in staat in voorkomende gevallen informatie of hulp te vragen bij Bureau voor Juridische Hulpverlening en/of maatschappelijk werk.
 
-### 7. Staatsinrichting en rechtsstaat
+### 6.5. Verantwoord omgaan met verzekeringen
 
 De inburgeraar is in staat om, door de staatsinrichting van Nederland te kennen, betrokken te zijn bij Nederland en de Nederlandse samenleving.
 
-### 8. Onderwijs en opvoeding
+### 7.4. Hanteert wet- en regelgeving
 
-**Cruciale handelingen**
+De inburgeraar kent het Nederlandse onderwijssysteem en onderkent het belang van onderwijs in de Nederlandse kenniseconomie. Inburgeraars laten hun kinderen aan onderwijs deelnemen en kennen de rol die van ouders wordt verwacht.
 
-### 8.4. Omgaan met schoolkosten en tegemoetkomingen in schoolkosten en studiefinanciering
+### 8.3. Maakt gebruik van kinderopvang en speelzaal
 
 ## Bijlage 3. Geheimhoudingsverklaring inburgeringsexamen als bedoeld in [artikel 3.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-01-01&g=2022-10-01)
 
 ### 1. Verklaring met betrekking tot de geheimhoudingsplicht
 
-Handtekening:
+Datum:
 
-## Bijlage 7. Behorend bij [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=9&artikel=9.1&z=2023-01-01&g=2022-10-01) gegevensverstrekking ten behoeve van statistiek, monitoring en evaluatie
+## Bijlage 6c. Tabel als bedoeld in [artikel 7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.3&z=2023-01-01&g=2023-01-01) (boete bij niet tijdig afronden z-route)
+
+|   |   | **Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹** | **Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹** | **Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹** |
+| --- | --- | --- | --- | --- |
+|   |   | 0 t/m 299 | 300 t/m 599 | 600 of meer |
+| **Bestede uren participatie-component**² | 0 t/m 299 | € 1.000 | € 800 | € 400 |
+| **Bestede uren participatie-component**² | 300 t/m 599 | € 800 | € 640 | € 320 |
+| **Bestede uren participatie-component**² | 600 of meer | € 600 | € 450 | € 225 |
+
+¹ Dit is inclusief de in het kader van de brede intake gevolgde cursusuren Nederlands als tweede taal en KNM. Deze uren tellen ingevolge [artikel 3.14, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.14) namelijk mee voor het voldoen aan de urennorm van het taalgedeelte (artikel 3.14, tweede lid, onderdeel a, van het besluit).
+
+² Dit is inclusief de uren gemoeid met activiteiten die – voorafgaand aan de vaststelling van het PIP – zijn verricht: (i) in het kader van de brede intake, (ii) in het kader van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) tijdens de brede intake, en (iii) in het kader van de maatschappelijke begeleiding. Deze uren tellen ingevolge de [artikelen 3.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.1), [3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.2), en [3.14, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.14) namelijk mee voor het voldoen aan de urennorm van het participatiegedeelte (artikel 3.14, tweede lid, onderdeel b, van het besluit).
+
+| Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹ | Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹ | Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹ |
+| --- | --- | --- |
+| 0 t/m 299 | 300 t/m 599 | 600 of meer |
+| € 1.000,– | € 800 | € 400 |
+
+¹ Dit is inclusief de in het kader van de brede intake gevolgde cursusuren Nederlands als tweede taal en KNM. Deze uren tellen ingevolge [artikel 3.14, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.14) namelijk mee voor het voldoen aan de urennorm van het taalgedeelte (artikel 3.14, tweede lid, onderdeel a, van het besluit).
 
 ### Gegevenslevering door de Minister van Justitie en Veiligheid
 
@@ -1895,6 +2018,245 @@ De Stichting Nuffic en de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven 
 | [Artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.11) Beide partners debiteur | [Artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.10&z=2023-01-01&g=2022-10-01) |   |
 | [Artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.12) Verzuim | [Artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.11&z=2023-01-01&g=2022-10-01) |   |
 | [Artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.16) Schuld in zijn geheel opeisbaar | [Artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.12&z=2023-01-01&g=2022-10-01) |   |
+| [Artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.17) Kwijtschelden |   | Artikel 4.17 ziet geheel op asielstatushouders. Er zijn geen groepen bekend die in het huidige stelsel voor kwijtschelding in aanmerking komen. |
+| [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=5.1) Maatschappelijke begeleiding |   | De maatschappelijke begeleiding is uitgewerkt in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=13) en [artikel 5.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=5.1). |
+| [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=6.1) Omschrijving bijzondere persoonsgegevens | [Artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=37) | De uitzondering op het verbod om bijzondere persoonsgegevens te verwerken, evenals een omschrijving van die gegevens, zijn neergelegd in artikel 37 van de wet. |
+| [Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=6.2) Omschrijving noodzakelijkheid bijzondere persoonsgegevens | [Artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=37) | De uitzondering op het verbod om bijzondere persoonsgegevens te verwerken, evenals een omschrijving van die gegevens, zijn neergelegd in artikel 37 van de wet. |
+| [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=6.3) Beveiliging bestand met bijzondere persoonsgegevens | [Artikel 9.10 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=9.10) |   |
+| [Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=6.4) Tegengaan onverenigbare verwerking van bijzondere persoonsgegevens |   | Vanwege het vervallen van het Informatiesysteem Inburgering is de bepaling komen te vervallen. |
+
+Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+##### Artikel 4.2. Verlengingsgrond bij volgen niet vrijstellende opleiding, aanvraag en termijn
+
+1. Niet vrijstellende opleidingen als bedoeld in [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=4.3), van het besluit zijn:
+
+- a. praktijkonderwijs, bedoeld in [artikel 5, onderdeel d, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=5) of [artikel 2.8 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
+
+- b. voortgezet speciaal onderwijs, bedoeld in [artikel 8, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), in het arbeidsmarktgerichte uitstroomprofiel of het uitstroomprofiel dagbesteding, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van voornoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14); of
+
+- c. een entreeopleiding (mbo-niveau 1), bedoeld in [artikel 7.2.2, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
+
+2. De inburgeringsplichtige verstrekt bij de aanvraag om verlenging op grond van het eerste lid:
+
+- a. een bewijs van inschrijving van de school of instelling die de opleiding verzorgt of heeft verzorgd;
+
+- b. een bewijsstuk met daarin de vermelding van het uitstroomprofiel, bij het eerste lid, onderdeel b; en
+
+- c. een bewijs van uitschrijving van de school of instelling die de opleiding heeft verzorgd indien de inburgeringsplichtige de opleiding op het moment van het indienen van de aanvraag niet langer volgt.
+
+3. De termijn, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=11), of de op grond van [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=12) verlengde termijn, wordt voor een inburgeringsplichtige die de opleiding op het moment van de aanvraagniet langer volgt, verlengd met een periode die gelijk is aan de datum van inschrijving bij de school of instelling die de opleiding heeft verzorgd, waarbij de periode voorafgaand aan de datum waarop de inburgeringsplicht aanving niet meetelt, tot aan de datum van uitschrijving bij de school of instelling die de opleiding heeft verzorgd, met dien verstande dat de verlengingsduur voor de opleiding, bedoeld in het eerste lid, onderdeel c, ten hoogste twee jaar is.
+
+4. De termijn, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=11), of de op grond van [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=12) verlengde termijn, wordt voor een inburgeringsplichtige die de opleiding nog volgt op het moment van de aanvraag, verlengd met de periode van twee jaren. Na deze verlenging kan de termijn nog twee keer worden verlengd met de periode van een jaar, met dien verstande dat de verlengingsduur voor de opleiding, bedoeld in het eerste lid, onderdeel c, ten hoogste twee jaar is.
+
+5. Indien een inburgeringsplichtige na de opleiding, bedoeld in het eerste lid, onderdeel a of b, doorstroomt naar de opleiding, bedoeld in het eerste lid, onderdeel c, worden verlengingstermijnen bij elkaar opgeteld mits de inburgeringsplichtige de opleidingen direct aansluitend op elkaar heeft gevolgd of volgt. Indien dit niet het geval is, wordt uitgegaan van de verlengingsduur behorende bij de opleiding die de inburgeringsplichtige volgde op de datum waarop de inburgeringsplicht aanving.
+
+### Hoofdstuk 5. De taak van het college
+
+### Afdeling 1. De brede intake
+
+### Hoofdstuk 6. Sociale lening
+
+### Afdeling 1. Lening
+
+### Afdeling 2. Terugbetaling
+
+### Hoofdstuk 7. Handhaving
+
+### Afdeling 1. Hoogte boete bij niet tijdig afronden leerroute
+
+### Afdeling 2. Vaststellen nieuwe termijn
+
+### Hoofstuk 8. Overheidscertificering
+
+### Hoofdstuk 9. Informatiebepalingen
+
+### Hoofdstuk 10. Financiële bepalingen
+
+### Hoofdstuk 11. Wijziging van andere ministeriële regelingen en beleidsregels
+
+### Hoofdstuk 12. Overgangs- en slotbepalingen
+
+## Bijlage 1. Protocol medische deskundigenverklaring, als bedoeld in [artikel 2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.6&z=2023-01-01&g=2023-01-01)
+
+### Voorwoord
+
+Voor een dergelijke medische deskundigenverklaring zijn er kaders en uitgangspunten geformuleerd die zijn neergelegd in dit protocol. Dit protocol is een bijlage bij een ministeriële regeling; de Regeling inburgering 2021 die een uitwerking is van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) en het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555). Dit protocol is geënt op het medisch protocol bij van het vorige stelsel ([Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)) en is oorspronkelijk tot stand gekomen in samenwerking met de VNG (Vereniging Nederlandse Gemeenten) en de VIA (Vereniging Indicerende en Adviserende Artsen).
+
+### 1.1. Het protocol
+
+### 1.2. Inleiding
+
+### 1.3. Advisering
+
+### 1.4. Wettelijk kader ontheffing en gedeeltelijke ontheffing
+
+[Artikel 5, eerste lid, van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=5) luidt:
+
+##### Artikel 2.5. Medische deskundigenverklaring
+
+- 1. **De deskundigenverklaring, bedoeld in artikel 2.7, eerste lid, van het besluit, bevat in ieder geval een advies met betrekking tot het verlenen dan wel het weigeren van de gehele of gedeeltelijke ontheffing van de inburgeringsplicht en, indien van toepassing, een voorstel met betrekking tot de in aanmerking komende aangepaste examenomstandigheden als bedoeld in artikel 3.6.**
+
+- 2. **De arts, bedoeld in artikel 2.7, eerste lid, van het besluit, adviseert tot gehele of gedeeltelijke ontheffing van de inburgeringsplicht indien de inburgeringsplichtige niet in staat is zich met lichte aanpassingen binnen vijf jaar voor te bereiden op de inburgeringsplicht dan wel op een of meerdere onderdelen daarvan, en dit ook niet mogelijk is door het treffen van aangepaste examenomstandigheden voor een of meerdere onderdelen van het inburgeringsexamen of een of meerdere van de examenonderdelen van de onderwijsroute als bedoeld in artikel 2.7, derde lid, onderdeel b, van het besluit.**
+
+- 3. **De arts, bedoeld in artikel 2.7, eerste lid, van het besluit, stelt de deskundigenverklaring op conform het protocol dat is opgenomen in bijlage 1 bij deze regeling.**
+
+##### Artikel 2.7. Tarieven ontheffing
+
+- 1. **Voor het onderzoek ten behoeve van het opstellen van een deskundigenverklaring als bedoeld in artikel 2.5, eerste lid, is door de inburgeringsplichtige een bedrag verschuldigd van € 225.**
+
+- 2. **Het bedrag, bedoeld in het eerste lid, wordt aan de inburgeringsplichtige terugbetaald indien in de deskundigenverklaring, bedoeld in artikel 2.5, eerste lid, wordt geadviseerd de gevraagde gehele of gedeeltelijke ontheffing van de inburgeringsplicht te verlenen dan wel deze niet te verlenen, maar wel wordt geadviseerd de inburgeringsplichtige de examens onder aangepaste examenomstandigheden af te laten leggen.**
+
+### 1.5. Wettelijk kader aangepaste examenomstandigheden
+
+In [artikel 3.9 van het Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.9) is [artikel 5, eerste lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5) uitgewerkt:
+
+##### Artikel 3.9. Aangepaste examenomstandigheden
+
+- 1. **Onze Minister kan de kandidaat met een psychische of lichamelijke belemmering, of een verstandelijke beperking op diens verzoek in de gelegenheid stellen om de examens, bedoeld in artikel 3.5, tweede lid, af te leggen op een wijze die is aangepast aan zijn mogelijkheden.**
+
+- 2. **De inburgeringsplichtige kan kosteloos een deskundigenverklaring aanvragen van een door Onze Minister aangewezen onafhankelijke arts, die is ingeschreven in het register, bedoeld in artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg, waarin deze arts zich uitlaat over de noodzaak tot het treffen van aangepaste examenomstandigheden bij het afleggen van een of meerdere onderdelen van het inburgeringsexamen en welke mogelijke aangepaste examenomstandigheden dit kunnen betreffen.**
+
+- 3. **Bij het verzoek, bedoeld in het eerste lid, legt de kandidaat de deskundigenverklaring, bedoeld in het tweede lid, over, waaruit blijkt dat hij een of meerdere van de examens, bedoeld in het eerste lid, slechts kan afleggen op een wijze die is aangepast aan zijn mogelijkheden.**
+
+- 4. **Indien Onze Minister bij de toepassing van artikel 2.7 heeft geoordeeld dat de inburgeringsplichtige een of meerdere van de examens, bedoeld in het eerste lid, slechts kan afleggen op een wijze die is aangepast aan de mogelijkheden van die inburgeringsplichtige, legt de kandidaat bij de aanmelding voor het voornoemde examen, de beschikking, bedoeld in het vierde lid, onderdeel a, van dat artikel over.**
+
+- 5. **Bij ministeriële regeling worden regels gesteld over de toepassing van dit artikel.**
+
+In [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-01-01&g=2023-01-01) van de **Regeling inburgering 2021** staat:
+
+**De aangepaste examenomstandigheden, bedoeld in artikel 3.9, eerste lid, van het besluit, betreffen in ieder geval:**
+
+- a. **examen in aangepaste locatie;**
+
+- b. **verlenging examentijd;**
+
+- c. **onderbroken examenafname;**
+
+- d. **aangepaste inroostering;**
+
+- e. **examenhulp;**
+
+- f. **grootbeeld;**
+
+- g. **grootschrift;**
+
+- h. **loepfunctie;**
+
+- i. **typen in plaats van schrijven; en**
+
+- j. **voorleesfunctie.**
+
+### 1.6. Taken betrokkene, DUO en medisch deskundige
+
+### 1.7. Aanvraagperiode en invulling begrip ‘blijvend’
+
+### 1.8. Bezwaar en beroep
+
+### 1.9. Examens
+
+Een kandidaat die door een belemmering of beperking niet in staat is om de inburgeringsexamens op de gebruikelijke wijze af te leggen, kan door DUO in de gelegenheid worden gesteld om examens op een aan zijn belemmering of beperking aangepaste wijze af te leggen. De aangepaste examenomstandigheden waarin DUO in elk geval kan voorzien, worden toegelicht onder 2.6. van dit protocol. Indien uit de medische deskundigenverklaring een andere wenselijke aanpassing komt, zal in overleg met DUO worden gekeken of daaraan kan worden voldaan. Soms worden aangepaste examens ook afgenomen op een andere locatie dan de reguliere examens omdat er bepaalde apparatuur en/of expertise nodig is. Ook is het op basis van een medische deskundigenverklaring mogelijk op de reguliere examenlocaties in een aangepaste ruimte examen te doen.
+
+### 2.2. Algemeen
+
+Waarom een aanvraag voor ontheffing/aangepaste examenomstandigheden op dit moment?
+
+### 2.5. Weging en beoordeling
+
+### 2.6. Bijzondere examenomstandigheden
+
+De verantwoordelijkheid voor de ontwikkeling en uitvoering van de Staatsexamens Nt2 op niveau B1 en B2 ligt bij het CvTE. DUO voert ook deze examens uit. Aanpassingen zijn mogelijk voor:
+
+### Voorblad
+
+### Medische deskundigenverklaring
+
+### Bijlage 3. Bij het protocol medische deskundigenverklaring machtigingsformulier eigen arts
+
+¹ Of handtekening wettelijk vertegenwoordiger (indien van toepassing)
+
+## Bijlage 2. Eindtermen kennis van de nederlandse maatschappij als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2023-01-01&g=2023-01-01)
+
+### Voorwoord
+
+### 1.1. Niveau examen Kennis van de Nederlandse maatschappij
+
+### Hoofdstuk 2. Cruciale Praktijksituaties en thema’s
+
+### Hoofdstuk 4. Cruciale kennis en indicatoren voor succesvol handelen
+
+De inburgeraar is in staat stappen te zetten om werk te zoeken, te behouden en in eigen onderhoud te voorzien.
+
+De inburgeraar is in staat om om te gaan met de Nederlandse omgangsvormen, waarden en normen
+
+De inburgeraar is in staat passende huisvesting te vinden en nutsvoorzieningen te regelen. Hij draagt zorg voor de veiligheid in de woning. En draagt zorg voor milieu en schone leefomgeving.
+
+Inburgeraars zijn in staat om volgens de regels van het Nederlandse zorgstelsel gebruik te maken van de gezondheidszorg.
+
+De inburgeraar is in staat om, door de geschiedenis en geografie van Nederland te kennen, betrokken te zijn bij Nederland en de Nederlandse samenleving.
+
+De inburgeraar is op de hoogte van de dienstverlening van de lokale overheid, de belastingdienst, de politie en instanties voor sociale en juridische dienstverlening. Hij is in staat in voorkomende gevallen informatie of hulp te vragen bij Bureau voor Juridische Hulpverlening en/of maatschappelijk werk.
+
+De inburgeraar is in staat om, door de staatsinrichting van Nederland te kennen, betrokken te zijn bij Nederland en de Nederlandse samenleving.
+
+### 8. Onderwijs en opvoeding
+
+**Cruciale handelingen**
+
+## Bijlage 3. Geheimhoudingsverklaring inburgeringsexamen als bedoeld in [artikel 3.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-01-01&g=2023-01-01)
+
+### 1. Verklaring met betrekking tot de geheimhoudingsplicht
+
+Handtekening:
+
+## Bijlage 7. Behorend bij [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=9&artikel=9.1&z=2023-01-01&g=2023-01-01) gegevensverstrekking ten behoeve van statistiek, monitoring en evaluatie
+
+### Gegevenslevering door de Stichting Nuffic en de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven
+
+De Stichting Nuffic en de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven leveren gegevens aan het Centraal Bureau voor de Statistiek over:
+
+## Bijlage. Transponeringstabel
+
+| Artikel in [Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657) | Artikel in Regeling inburgering 2021 | Toelichting |
+| --- | --- | --- |
+| [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=1.1) Begripsbepalingen | [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=1&artikel=1.1&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.1) Instelling die keurmerk toekent en beheert | [Artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=8&artikel=8.1&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=1.3) Uitwerking geestelijk bedienaar | [Artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=1&artikel=1.2&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.1) Tijdelijke verblijfsdoelen |   | De tijdelijke verblijfsdoelen zijn uitgewerkt in [artikel 2.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.2). De grondslag voor een verdere uitwerking hiervan in een ministeriële regeling ([artikel 2.2, vierde lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.2)) is in het huidige stelsel geschrapt. |
+| [Artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2) Bewijsstukken voor vrijstelling gehele inburgeringsplicht |   | De bewijsstukken die leiden tot vrijstelling van gehele inburgeringsplicht zijn opgenomen in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=1&artikel=2.1&z=2023-01-01&g=2023-01-01). De wijzigingen die in dit artikel zijn doorgevoerd ten opzichte van het vorige stelsel houden verband met het vereiste minimale taalniveau van B1 in het huidige stelsel. |
+| [Artikel 2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2a) Gedeeltelijke vrijstelling van het inburgeringsexamen, taalexamens |   | Een vrijstelling voor een of meerdere taalexamens van het inburgeringsexamen is geregeld in de [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.12&z=2023-01-01&g=2023-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.13&z=2023-01-01&g=2023-01-01). Artikel 3.12 ziet op een vrijstelling van de taalexamens op ten minste het niveau B1. Artikel 3.13 is pas aan de orde indien de gemeente heeft besloten dat de inburgeringsplichtige mag afschalen. In dat geval kan hij vrijstelling verzoeken voor een of meerdere taalexamens op het niveau A2. |
+| [Artikel 2.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2c) Gedeeltelijke vrijstelling van het inburgeringsexamen, taalexamens |   | Een vrijstelling voor een of meerdere taalexamens van het inburgeringsexamen is geregeld in de [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.12&z=2023-01-01&g=2023-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.13&z=2023-01-01&g=2023-01-01). Artikel 3.12 ziet op een vrijstelling van de taalexamens op ten minste het niveau B1. Artikel 3.13 is pas aan de orde indien de gemeente heeft besloten dat de inburgeringsplichtige mag afschalen. In dat geval kan hij vrijstelling verzoeken voor een of meerdere taalexamens op het niveau A2. |
+| [Artikel 2.2d](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2d) Gedeeltelijke vrijstelling van het inburgeringsexamen, taalexamens |   | Een vrijstelling voor een of meerdere taalexamens van het inburgeringsexamen is geregeld in de [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.12&z=2023-01-01&g=2023-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.13&z=2023-01-01&g=2023-01-01). Artikel 3.12 ziet op een vrijstelling van de taalexamens op ten minste het niveau B1. Artikel 3.13 is pas aan de orde indien de gemeente heeft besloten dat de inburgeringsplichtige mag afschalen. In dat geval kan hij vrijstelling verzoeken voor een of meerdere taalexamens op het niveau A2. |
+| [Artikel 2.2e](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2e) Gedeeltelijke vrijstelling van het inburgeringsexamen, onderdeel ONA |   | Het onderdeel ONA is vervallen in het huidige stelsel. ONA is vervangen door de MAP. Voor het onderdeel MAP is geen (gedeeltelijke) vrijstelling mogelijk. |
+| [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4) Medisch advies voor ontheffing inburgeringsplicht | [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 2.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4a) Ontheffing aantoonbaar voldoende ingeburgerd |   | Aantoonbaar voldoende ingeburgerd is in het huidige stelsel een vrijstellingsgrond in plaats van een ontheffingsgrond. Dit is uitgewerkt in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.3). |
+| [Artikel 2.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4b) Ontheffing bij aantoonbaar geleverde inspanningen |   | Aantoonbaar geleverde inspanning is geen ontheffingsgrond in het huidige stelsel. De doelgroep die hier in het vorige stelsel een beroep op doet, kan in het huidige stelsel toch inburgeren via de Z-route. |
+| [Artikel 2.4c](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4c) Verlengingsgronden |   | De gronden voor verlenging van de termijn bij niet verwijtbaarheid zijn uitgewerkt in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=4&artikel=4.1&z=2023-01-01&g=2023-01-01). |
+| [Artikel 2.4d](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4d) Tarief medisch advies en ontheffing | [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2023-01-01&g=2023-01-01) | In het huidige stelsel worden de kosten van de deskundigen-verklaring (medisch advies) onder voorwaarden terugbetaald aan de inburgeringsplichtige (tweede lid). |
+| [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.5) Eindtermen KNM en ONA | [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2023-01-01&g=2023-01-01) (eindtermen KNM) | Het onderdeel ONA is vervallen in het huidige stelsel. ONA is vervangen door de MAP. De MAP is uitgewerkt in artikel 3.2 van het besluit en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=1&artikel=3.1&z=2023-01-01&g=2023-01-01). |
+| [Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.1) Hoogte examengeld | [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.4&z=2023-01-01&g=2023-01-01) | Bij het PVT is in het huidige stelsel geen sprake van examinering. De hoogte van het examengeld voor het examen op het niveau B1/B2 is geregeld in [artikel 5, eerste lid, van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=5). |
+| [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.2) Bijzondere examenomstandigheden | [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-01-01&g=2023-01-01) (KNM en niveau A2) | In het huidige stelsel is de lijst met mogelijke aangepaste examenomstandigheden niet limitatief. De mogelijke aangepaste examenomstandigheden voor het examen op het niveau B1/B2 zijn omschreven in het examenreglement (vgl. [artikel 10, tweede lid, onderdeel b, van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10)). |
+| [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.3) Model inburgeringsdiploma en tekst participatieverklaring | [Artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.17&z=2023-01-01&g=2023-01-01) (inburgeringsdiploma) | De tekst van de participatieverklaring is geregeld in [3.1, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.1). Het model van het inburgeringscertificaat is geregeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.18&z=2023-01-01&g=2023-01-01). |
+| [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.4) Auteursrecht | [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.3&z=2023-01-01&g=2023-01-01) (KNM en niveau A2) |   |
+| [Artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.5) Praktijkexamen ONA |   | ONA is vervallen in het huidige stelsel en is vervangen door de MAP. Bij de MAP is geen sprake van examinering. |
+| [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.6) Wijze van beoordelen spreekvaardigheid A2 | [Artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.8&z=2023-01-01&g=2023-01-01) (niveau A2) | Voor het examen op het niveau B1/B2 is de wijze van beoordelen geregeld in [artikel 12 van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=12). |
+| [Artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.8) Training en deskundigheid beoordelaars niveau A2 | [Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.9&z=2023-01-01&g=2023-01-01) (niveau A2) |   |
+| [Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.9) Training en deskundigheid examinator ONA |   | ONA is vervallen in het huidige stelsel en is vervangen door de MAP. Bij de MAP is geen sprake van examinering. |
+| [Artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.10) Vaststellen examenreglement, toelating examens en waarborging kwaliteit | [Artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-01-01&g=2023-01-01) (KNM en niveau A2) | De aanmeldingsprocedure en het examenreglement voor het examen op het niveau B1/B1 worden vastgesteld door het College voor toetsen en examens (vgl. [artikel 10 van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10)). |
+| [Artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.13) Examenreglement | [Artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.11&z=2023-01-01&g=2023-01-01) | Het examenreglement voor het examen op het niveau B1/B1 wordt vastgesteld door het College voor toetsen en examens (vgl. artikel 10, tweede lid, van het Staatsexamenbesluit Nt2). |
+| [Artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.15) Aanwijzing instelling voor diplomawaardering | [Artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=6&artikel=3.20&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.1) Hoogte van de lening | [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=1&artikel=6.1&z=2023-01-01&g=2023-01-01) |   |
+| Artikel 4.2 Betaling van de lening | [Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=1&artikel=6.2&z=2023-01-01&g=2023-01-01) | De wijzigingen in de onderdelen van het eerste lid van het artikel zien op de koppeling van de te volgen cursus/het af te leggen examen van de in het PIP vastgestelde leerroute. |
+| Artikel[4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.4) Renteberekening | [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.5) Rentevaste aanloopfase en terugbetalingsperiode | [Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.4&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.6) Berekening maandelijkse termijn | [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.5&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.7) Terugbetaling niet binnenlands belastingplichtige | [Artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.6&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.7a) Mogelijkheid eenmalige aflossing | [Artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.7&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.9) Vaststelling draagkracht debiteur | [Artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.10) Terugval inkomen | [Artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.9&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.11) Beide partners debiteur | [Artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.10&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.12) Verzuim | [Artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.11&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.16) Schuld in zijn geheel opeisbaar | [Artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.12&z=2023-01-01&g=2023-01-01) |   |
 | [Artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.17) Kwijtschelden |   | Artikel 4.17 ziet geheel op asielstatushouders. Er zijn geen groepen bekend die in het huidige stelsel voor kwijtschelding in aanmerking komen. |
 | [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=5.1) Maatschappelijke begeleiding |   | De maatschappelijke begeleiding is uitgewerkt in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=13) en [artikel 5.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=5.1). |
 | [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=6.1) Omschrijving bijzondere persoonsgegevens | [Artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=37) | De uitzondering op het verbod om bijzondere persoonsgegevens te verwerken, evenals een omschrijving van die gegevens, zijn neergelegd in artikel 37 van de wet. |
