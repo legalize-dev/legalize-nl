@@ -4,7 +4,7 @@ identifier: "BWBR0047473"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2022-11-15"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047473"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit en in de op dit besluit berustende bepalingen wordt verstaan onde
 
 - **complexe ondersteuningsbehoefte:** ondersteuningsbehoefte van een jongere op het gebied van onderwijs en zorg die zodanig complex is dat die niet kan worden ondervangen in het basis-, voortgezet, speciaal, en voortgezet speciaal onderwijs;
 
-- **experiment:** tijdelijke mogelijkheid om af te wijken van wetgeving op het gebied van onderwijstijd, inhoud van het onderwijs, locatie van het onderwijs en bekostiging in het onderwijs ten behoeve van jongeren met een complexe ondersteuningsbehoefte met het oog op de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=2&z=2022-11-15&g=2022-11-15);
+- **experiment:** tijdelijke mogelijkheid om af te wijken van wetgeving op het gebied van onderwijstijd, inhoud van het onderwijs, locatie van het onderwijs en bekostiging in het onderwijs ten behoeve van jongeren met een complexe ondersteuningsbehoefte met het oog op de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=2&z=2023-01-01&g=2023-01-01);
 
 - **jeugdhulpaanbieder:** jeugdhulpaanbieder als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
 
@@ -80,7 +80,7 @@ Het doel van het experiment is te onderzoeken:
 
 ##### Artikel 3. Afwijkingen van de wet door bevoegd gezag
 
-1. Het bevoegd gezag kan voor leerlingen met een complexe ondersteuningsbehoefte met toestemming van Onze Minister, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8&z=2022-11-15&g=2022-11-15), afwijken van:
+1. Het bevoegd gezag kan voor leerlingen met een complexe ondersteuningsbehoefte met toestemming van Onze Minister, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8&z=2023-01-01&g=2023-01-01), afwijken van:
 
 - a. de voorschriften omtrent de onderwijstijd en onderwijsdagen, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=12) en [25 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=25), [artikel 8, negende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8) of de [artikelen 2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) en [2.39 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.39);
 
@@ -92,7 +92,7 @@ Het doel van het experiment is te onderzoeken:
 
 ##### Artikel 4. Afwijkingen van de wet door samenwerkingsverband
 
-1. Een samenwerkingsverband kan in overeenstemming met een bevoegd gezag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=3&z=2022-11-15&g=2022-11-15) voor leerlingen met een complexe ondersteuningsbehoefte afwijken van de bekostigingsvoorschriften, bedoeld in:
+1. Een samenwerkingsverband kan in overeenstemming met een bevoegd gezag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=3&z=2023-01-01&g=2023-01-01) voor leerlingen met een complexe ondersteuningsbehoefte afwijken van de bekostigingsvoorschriften, bedoeld in:
 
 - a. de [artikelen 122, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=122), en [124, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=124), voor zover het betreft de overeenkomstige toepassing van [artikel 115 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=115); of
 
@@ -112,13 +112,13 @@ Het doel van het experiment is te onderzoeken:
 
 ##### Artikel 6. Projectplan
 
-Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=5&z=2022-11-15&g=2022-11-15), bevat ten minste:
+Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=5&z=2023-01-01&g=2023-01-01), bevat ten minste:
 
 - a. het doel en de visie van het onderwijszorgarrangement, waaronder in elk geval de doelgroep op wie het onderwijszorgarrangement betrekking heeft;
 
 - b. de wettelijke knelpunten die worden ervaren bij het bieden van maatwerk op het gebied van onderwijs en zorg voor jongeren met een complexe ondersteuningsbehoefte;
 
-- c. van welke wettelijke voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=3&z=2022-11-15&g=2022-11-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=4&z=2022-11-15&g=2022-11-15), in het onderwijszorgarrangement wordt afgeweken;
+- c. van welke wettelijke voorschriften, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=4&z=2023-01-01&g=2023-01-01), in het onderwijszorgarrangement wordt afgeweken;
 
 - d. in hoeverre door afwijking van de desbetreffende wettelijke bepalingen het doel kan worden bereikt;
 
@@ -154,13 +154,13 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 2. Het bevoegd gezag van de school of het bestuur van het samenwerkingsverband overlegt bij de aanvraag:
 
-- a. de samenwerkingsovereenkomst, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=5&z=2022-11-15&g=2022-11-15);
+- a. de samenwerkingsovereenkomst, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=5&z=2023-01-01&g=2023-01-01);
 
-- b. het projectplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=6&z=2022-11-15&g=2022-11-15); en
+- b. het projectplan, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=6&z=2023-01-01&g=2023-01-01); en
 
 - c. de adviezen van de medezeggenschapsraad van de school en de medezeggenschapsraad van het samenwerkingsverband of het blijk van instemming van de ondersteuningsplanraad, bedoeld in [artikel 4a van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=4a), omtrent de deelname aan het experiment.
 
-3. Ingeval het bevoegd gezag van een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8) een aanvraag indient, is het bepaalde over het samenwerkingsverband in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=5&z=2022-11-15&g=2022-11-15), [6, onder e, subonderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=6&z=2022-11-15&g=2022-11-15), en [8, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8&z=2022-11-15&g=2022-11-15), niet van toepassing.
+3. Ingeval het bevoegd gezag van een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8) een aanvraag indient, is het bepaalde over het samenwerkingsverband in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=5&z=2023-01-01&g=2023-01-01), [6, onder e, subonderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=6&z=2023-01-01&g=2023-01-01), en [8, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8&z=2023-01-01&g=2023-01-01), niet van toepassing.
 
 ##### Artikel 9. Selectie
 
@@ -226,13 +226,11 @@ Onze Minister kan de toestemming voor deelname aan het experiment geheel of gede
 
 Wijzigt het Besluit register onderwijsdeelnemers.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 15. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van 15 november 2022, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2022-11-15&g=2022-11-15), dat in werking treedt met ingang van 1 januari 2023.
+1. Dit besluit treedt in werking met ingang van 15 november 2022, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2023-01-01&g=2023-01-01), dat in werking treedt met ingang van 1 januari 2023.
 
-2. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 15 november, treedt het besluit, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2022-11-15&g=2022-11-15), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 15 november.
+2. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 15 november, treedt het besluit, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2023-01-01&g=2023-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 15 november.
 
 ##### Artikel 16. Citeertitel
 
