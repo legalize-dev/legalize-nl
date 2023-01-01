@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2022-12-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2022-12-01).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2023-01-01).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2022-12-01).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2023-01-01).
 
 ##### Artikel 4. De bestuursraad
 
@@ -250,9 +250,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2022-12-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2023-01-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2022-12-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2023-01-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -414,7 +414,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2022-07-20&g=2022-12-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2022-07-20&g=2023-01-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -1076,7 +1076,7 @@ Het directoraat-generaal van de Rijksbegroting:
 
 - iii. regelgeving maken voor beleidsevaluaties.
 
-### Hoofdstuk 8. Generale thesaurie
+### Hoofdstuk 7. Directoraat-generaal rijksbegroting
 
 ##### Artikel 35. De thesaurier-generaal
 
@@ -1388,9 +1388,9 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2022-12-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2023-01-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2022-12-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2023-01-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
@@ -1424,7 +1424,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De directeur-generaal Toeslagen geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
-### Hoofdstuk 5B. Directoraat-generaal douane
+### Hoofdstuk 5A. Directoraat-generaal toeslagen
 
 ##### Artikel 23b. Directeur-generaal Douane
 
@@ -1432,7 +1432,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De directeur-generaal Douane geeft leiding aan de onder hem ressorterende directeuren en voorziet daartoe in de nodige ondermandaten van die directeuren zoals geregeld in het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078).
 
-### Hoofdstuk 6. Directoraat-generaal fiscale zaken
+### Hoofdstuk 5B. Directoraat-generaal douane
 
 ### Hoofdstuk 7. Directoraat-generaal rijksbegroting
 
@@ -1516,7 +1516,7 @@ De minister stelt nadere regels omtrent de taakuitoefening en bevoegdheden van d
 
 ### Hoofdstuk 10. Overige bepalingen
 
-### Hoofdstuk 11. Slotbepalingen
+### Hoofdstuk 10. Overige bepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -1555,6 +1555,44 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
 
 ### Hoofdstuk 10. Overige bepalingen
+
+### Hoofdstuk 11. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 19b. Directie Digitalisering en Informatisering (D&I)
+
+1. De directie Digitalisering en Informatisering heeft de volgende taken:
+
+- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2023-07-12&g=2023-01-01) van dit besluit;
+
+- b. invulling geven aan de rol van de CIO van het kernministerie en [artikel 5, derde lid, van de Regeling Informatiehuishouding Financiën 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046157&artikel=5);
+
+- c. het onderhouden van diverse (externe) contacten waaronder de contacten met de CIO-Rijk, de Algemeen Rijksarchivaris, de Inspectie Overheidsinformatie en Erfgoed en het Adviescollege ICT toetsing en deze gevraagd en ongevraagd adviseren en/of voorzien van informatie die noodzakelijk is voor hun taakuitoefening;
+
+- d. adviseren van alle directies en bewindspersonen over het beleid ten aanzien van informatievoorziening, digitalisering en informatiehuishouding en implicaties van (voorgenomen) wet- en regelgeving, beleids- en uitvoeringstrajecten en investeringen van het kernministerie;
+
+- e. zorgdragen voor de advisering, (beleids)kaders en de naleving hiervan op het terrein van de informatievoorziening en ICT, alsmede voor het bevorderen van informatiebewustzijn en het gebruik van ICT-middelen van het kernministerie;
+
+- f. zorgdragen voor advisering, (beleids)kaders, uitgangspunten en de naleving hiervan op het terrein van informatiehuishouding van het kernministerie;
+
+- g. zorgdragen voor specifieke en gemeenschappelijke ICT-diensten gericht op de ondersteuning van het kernministerie;
+
+- h. adviseren over en besluiten op verzoeken op grond van de Algemene verordening gegevensbescherming (AVG).
+
+2. De directie Digitalisering en Informatisering bestaat uit een afdeling D&I-beleid en een afdeling D&I-dienstverlening.
+
+#### Paragraaf 4.3. Rijksbrede organisatieonderdelen SG-cluster
+
+### Hoofdstuk 5. Directoraat-generaal belastingdienst
+
+### Hoofdstuk 6. Directoraat-generaal Fiscale Zaken
+
+### Hoofdstuk 8. Generale thesaurie
+
+### Hoofdstuk 8A. Inspectie belastingen, toeslagen en douane
+
+### Hoofdstuk 9. Verantwoording
 
 ### Hoofdstuk 11. Slotbepalingen
 
