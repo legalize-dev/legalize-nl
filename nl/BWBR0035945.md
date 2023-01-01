@@ -4,7 +4,7 @@ identifier: "BWBR0035945"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035945"
 soort: "ministeriele-regeling"
@@ -48,27 +48,27 @@ Vervallen
 
 1. De vergoedingen, bedoeld in [artikel 34, eerste lid, van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=34), bedragen voor:
 
-- a. een bijeenkomst voor starters: maximaal € 50,65 per deelnemer;
+- a. een bijeenkomst voor starters: maximaal € 54,90 per deelnemer;
 
-- b. overige bijeenkomsten: maximaal € 50,65 per deelnemer;
+- b. overige bijeenkomsten: maximaal € 54,90 per deelnemer;
 
-- c. een afgifte van een certificaat van oorsprong: € 20,10;
+- c. een afgifte van een certificaat van oorsprong: € 21,80;
 
-- d. een digitale afgifte van een certificaat van oorsprong: € 14,40;
+- d. een digitale afgifte van een certificaat van oorsprong: € 15,60;
 
-- e. een afgifte van het Admission Temporaire/Temporary Admission-carnet: € 222,85 per carnet, verhoogd met 0,6655 promille in verband met de verzekeringspremie niet-voldane douaneverplichtingen;
+- e. een afgifte van het Admission Temporaire/Temporary Admission-carnet: € 242,– per carnet, verhoogd met 0,6655 promille in verband met de verzekeringspremie niet-voldane douaneverplichtingen;
 
-- f. een afgifte van legalisatiedocumenten: € 11,80;
+- f. een afgifte van legalisatiedocumenten: € 12,80;
 
-- g. een digitale afgifte van legalisatiedocumenten: € 9,70;
+- g. een digitale afgifte van legalisatiedocumenten: € 10,55;
 
-- h. het in depot houden van algemene voorwaarden: € 18,25 per jaar;
+- h. het in depot houden van algemene voorwaarden: € 19,75 per jaar;
 
-- i. een kopie van certificaten van oorsprong en legalisatiedocumenten: € 1,– per kopie;
+- i. een kopie van certificaten van oorsprong en legalisatiedocumenten: € 1,05 per kopie;
 
-- j. een afgifte van de vergunning winkelweekactie: € 28,35 per vergunning;
+- j. een afgifte van de vergunning winkelweekactie: € 30,75 per vergunning;
 
-- k. een Europese Gemeenschap Verklaring op basis van [richtlijn 2005/36/EG](32005L0036): € 81,05 per EU-Verklaring;
+- k. een Europese Gemeenschap Verklaring op basis van [richtlijn 2005/36/EG](32005L0036): € 87,85 per EU-Verklaring;
 
 - l. inkomende en uitgaande handelsmissies: tarief per deelnemer wordt berekend per missie op basis van hoofdelijke omslag;
 
@@ -90,25 +90,25 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 
 Deze regeling wordt aangehaald als: Regeling vergoedingen Kamer van Koophandel 2015.
 
-## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2022-01-01&g=2022-01-01)
+## Bijlage. behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035945&artikel=2&z=2023-01-01&g=2023-01-01)
 
-- a. Uurtarieven begroting 2022 (in euro, exclusief BTW)
+- a. Uurtarieven begroting 2023 (in euro, exclusief BTW)
 
-| Loonschaal 4 | 49 |
+| Loonschaal 4 | 54 |
 | --- | --- |
-| Loonschaal 5 | 52 |
-| Loonschaal 6 | 54 |
-| Loonschaal 7 | 58 |
-| Loonschaal 8 | 62 |
-| Loonschaal 9 | 67 |
-| Loonschaal 10 | 72 |
-| Loonschaal 11 | 81 |
-| Loonschaal 12 | 90 |
-| Loonschaal 13 | 101 |
-| Loonschaal 14 | 110 |
-| Loonschaal 15 | 118 |
-| Loonschaal 16 | 127 |
+| Loonschaal 5 | 57 |
+| Loonschaal 6 | 59 |
+| Loonschaal 7 | 63 |
+| Loonschaal 8 | 67 |
+| Loonschaal 9 | 72 |
+| Loonschaal 10 | 78 |
+| Loonschaal 11 | 86 |
+| Loonschaal 12 | 97 |
+| Loonschaal 13 | 108 |
+| Loonschaal 14 | 118 |
+| Loonschaal 15 | 127 |
+| Loonschaal 16 | 136 |
 
-- b. Voor de werkzaamheden en diensten van de IT-afdeling is voor 2022 een standaardtarief vastgesteld van € 114,– per uur.
+- b. Voor de werkzaamheden en diensten van de IT-afdeling is voor 2023 een standaard tarief vastgesteld van € 118 per uur, inclusief BTW.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
