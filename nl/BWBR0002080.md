@@ -4,7 +4,7 @@ identifier: "BWBR0002080"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-03-24"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002080"
 soort: "wet"
@@ -81,7 +81,7 @@ Er zijn vier gerechtshoven, die als volgt worden aangeduid:
 
 ##### Artikel 3
 
-Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2022-03-24&g=2022-03-24) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2022-03-24&g=2022-03-24) als zodanig genoemde arrondissement onderscheidenlijk ressort.
+Het rechtsgebied van een rechtbank onderscheidenlijk gerechtshof omvat het in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=2&z=2023-01-01&g=2023-01-01) onderscheidenlijk [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002080&paragraaf=3&z=2023-01-01&g=2023-01-01) als zodanig genoemde arrondissement onderscheidenlijk ressort.
 
 ##### Artikel 4
 
@@ -117,7 +117,7 @@ Het arrondissement Overijssel omvat het grondgebied van de provincie Overijssel.
 
 ##### Artikel 12
 
-Het arrondissement Rotterdam omvat het grondgebied van de gemeenten Alblasserdam, Albrandswaard, Barendrecht, Brielle, Capelle aan den IJssel, Dordrecht, Goeree-Overflakkee, Gorinchem, Hardinxveld-Giessendam, Hellevoetsluis, Hendrik-Ido-Ambacht, Hoeksche Waard, Krimpen aan den IJssel, Lansingerland, Maassluis, Molenlanden, Nissewaard, Papendrecht, Ridderkerk, Rotterdam, Schiedam, Sliedrecht, Vlaardingen, Westvoorne en Zwijndrecht.
+Het arrondissement Rotterdam omvat het grondgebied van de gemeenten Alblasserdam, Albrandswaard, Barendrecht, Capelle aan den IJssel, Dordrecht, Goeree-Overflakkee, Gorinchem, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Hoeksche Waard, Krimpen aan den IJssel, Lansingerland, Maassluis, Molenlanden, Nissewaard, Papendrecht, Ridderkerk, Rotterdam, Schiedam, Sliedrecht, Vlaardingen, Voorne aan Zee en Zwijndrecht.
 
 ##### Artikel 14
 
