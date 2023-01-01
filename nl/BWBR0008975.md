@@ -4,7 +4,7 @@ identifier: "BWBR0008975"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2020-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008975"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. Centraal register opleidingen hoger onderwijs: het register als bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- a. Registratie instellingen en opleidingen: het register als bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
 - b. preventieve mondzorg: primaire preventie met betrekking tot de mondzorg en secundaire en tertiaire preventie op het gebied van de parodontologie en cariologie.
 
@@ -64,13 +64,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor voeding en diëtetiek die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=3&z=2020-07-01&g=2020-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=4&z=2020-07-01&g=2020-07-01) gestelde.
+Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor voeding en diëtetiek die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan het in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=2&artikel=4&z=2023-01-01&g=2023-01-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 3
 
-1. De opleiding tot diëtist, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=1&artikel=2&z=2020-07-01&g=2020-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de diëtist die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2020-07-01&g=2020-07-01):
+1. De opleiding tot diëtist, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de diëtist die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01):
 
 - a. diagnostiek en behandeling;
 
@@ -84,7 +84,7 @@ Het recht tot het voeren van de titel van diëtist is voorbehouden aan degene aa
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2020-07-01&g=2020-07-01), onder toezicht van een diëtist.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=II&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), onder toezicht van een diëtist.
 
 ##### Artikel 4
 
@@ -208,13 +208,13 @@ Tot het gebied van deskundigheid van de diëtist wordt gerekend:
 
 ##### Artikel 6
 
-Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor ergotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=7&z=2020-07-01&g=2020-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=8&z=2020-07-01&g=2020-07-01) gestelde.
+Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor ergotherapie die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=7&z=2023-01-01&g=2023-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=2&artikel=8&z=2023-01-01&g=2023-01-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 7
 
-1. De opleiding tot ergotherapeut, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=1&artikel=6&z=2020-07-01&g=2020-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de ergotherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2020-07-01&g=2020-07-01):
+1. De opleiding tot ergotherapeut, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=1&artikel=6&z=2023-01-01&g=2023-01-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de ergotherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2023-01-01&g=2023-01-01):
 
 - a. diagnostiek en behandeling;
 
@@ -228,7 +228,7 @@ Het recht tot het voeren van de titel van ergotherapeut is voorbehouden aan dege
 
 - f. beroepsontwikkeling;
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2020-07-01&g=2020-07-01), onder toezicht van een ergotherapeut.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=III&paragraaf=3&artikel=9&z=2023-01-01&g=2023-01-01), onder toezicht van een ergotherapeut.
 
 ##### Artikel 8
 
@@ -334,13 +334,13 @@ Tot het gebied van deskundigheid van de ergotherapeut wordt gerekend:
 
 ##### Artikel 10
 
-Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor logopedie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=11&z=2020-07-01&g=2020-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=12&z=2020-07-01&g=2020-07-01) gestelde.
+Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor logopedie die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan het in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=11&z=2023-01-01&g=2023-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=2&artikel=12&z=2023-01-01&g=2023-01-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 11
 
-1. De opleiding tot logopedist, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=1&artikel=10&z=2020-07-01&g=2020-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de logopedische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2020-07-01&g=2020-07-01):
+1. De opleiding tot logopedist, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=1&artikel=10&z=2023-01-01&g=2023-01-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de logopedische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01):
 
 - a. diagnostiek en behandeling;
 
@@ -354,7 +354,7 @@ Het recht tot het voeren van de titel van logopedist is voorbehouden aan degene 
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2020-07-01&g=2020-07-01), onder toezicht van een logopedist.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=IV&paragraaf=3&artikel=13&z=2023-01-01&g=2023-01-01), onder toezicht van een logopedist.
 
 ##### Artikel 12
 
@@ -472,13 +472,13 @@ Tot het gebied van deskundigheid van de logopedist wordt gerekend:
 
 ##### Artikel 14
 
-Het recht tot het voeren van de titel van mondhygiënist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor mondzorgkunde die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=15&z=2020-07-01&g=2020-07-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=16&z=2020-07-01&g=2020-07-01).
+Het recht tot het voeren van de titel van mondhygiënist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor mondzorgkunde die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=15&z=2023-01-01&g=2023-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=2&artikel=16&z=2023-01-01&g=2023-01-01).
 
 #### § 2. Opleiding
 
 ##### Artikel 15
 
-1. De opleiding, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=1&artikel=14&z=2020-07-01&g=2020-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de mondzorgkundige beroepsuitoefening in het kader van het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2020-07-01&g=2020-07-01):
+1. De opleiding, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=1&artikel=14&z=2023-01-01&g=2023-01-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de mondzorgkundige beroepsuitoefening in het kader van het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2023-01-01&g=2023-01-01):
 
 - a. professionele mondzorgkundige vorming;
 
@@ -492,7 +492,7 @@ Het recht tot het voeren van de titel van mondhygiënist is voorbehouden aan deg
 
 - f. praktijkvoering.
 
-2. Het praktische onderwijs omvat in ieder geval stage in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2020-07-01&g=2020-07-01), onder toezicht van een tandarts of mondhygiënist.
+2. Het praktische onderwijs omvat in ieder geval stage in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=V&paragraaf=3&artikel=17&z=2023-01-01&g=2023-01-01), onder toezicht van een tandarts of mondhygiënist.
 
 ##### Artikel 16
 
@@ -588,13 +588,13 @@ Tot het gebied van deskundigheid van de mondhygiënist wordt gerekend:
 
 ##### Artikel 18
 
-Het recht tot het voeren van de titel van oefentherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor oefentherapie-Cesar onderscheidenlijk voor oefentherapie-Mensendieck die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=19&z=2020-07-01&g=2020-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=20&z=2020-07-01&g=2020-07-01) gestelde.
+Het recht tot het voeren van de titel van oefentherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor oefentherapie-Cesar onderscheidenlijk voor oefentherapie-Mensendieck die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan het in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=19&z=2023-01-01&g=2023-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=2&artikel=20&z=2023-01-01&g=2023-01-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 19
 
-1. De opleiding tot oefentherapeut, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=1&artikel=18&z=2020-07-01&g=2020-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de oefentherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2020-07-01&g=2020-07-01):
+1. De opleiding tot oefentherapeut, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=1&artikel=18&z=2023-01-01&g=2023-01-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de oefentherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2023-01-01&g=2023-01-01):
 
 - a. diagnostiek en behandeling;
 
@@ -608,7 +608,7 @@ Het recht tot het voeren van de titel van oefentherapeut is voorbehouden aan deg
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2020-07-01&g=2020-07-01), onder toezicht van een oefentherapeut.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VI&paragraaf=3&artikel=21&z=2023-01-01&g=2023-01-01), onder toezicht van een oefentherapeut.
 
 ##### Artikel 20
 
@@ -710,13 +710,13 @@ Tot het gebied van deskundigheid van de oefentherapeut wordt gerekend:
 
 ##### Artikel 22
 
-Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor orthoptie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=23&z=2020-07-01&g=2020-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=24&z=2020-07-01&g=2020-07-01) gestelde.
+Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor orthoptie die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan het in de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=23&z=2023-01-01&g=2023-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=2&artikel=24&z=2023-01-01&g=2023-01-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 23
 
-1. De opleiding tot orthoptist, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=1&artikel=22&z=2020-07-01&g=2020-07-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de orthoptische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2020-07-01&g=2020-07-01):
+1. De opleiding tot orthoptist, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=1&artikel=22&z=2023-01-01&g=2023-01-01), omvat zowel theoretisch als praktisch onderwijs, dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de orthoptische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2023-01-01&g=2023-01-01):
 
 - a. diagnostiek en behandeling;
 
@@ -730,7 +730,7 @@ Het recht tot het voeren van de titel van orthoptist is voorbehouden aan degene 
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2020-07-01&g=2020-07-01), onder toezicht van een orthoptist.
+2. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VII&paragraaf=3&artikel=25&z=2023-01-01&g=2023-01-01), onder toezicht van een orthoptist.
 
 ##### Artikel 24
 
@@ -862,13 +862,13 @@ Tot het gebied van deskundigheid van de orthoptist wordt gerekend:
 
 ##### Artikel 26
 
-Het recht tot het voeren van de titel van podotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor podotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan het in [de artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2020-07-01&g=2020-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=28&z=2020-07-01&g=2020-07-01) gestelde.
+Het recht tot het voeren van de titel van podotherapeut is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor podotherapie die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan het in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=27&z=2023-01-01&g=2023-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=2&artikel=28&z=2023-01-01&g=2023-01-01) gestelde.
 
 #### § 2. Opleiding
 
 ##### Artikel 27
 
-1. De opleiding tot podotherapeut, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=1&artikel=26&z=2020-07-01&g=2020-07-01), omvat zowel theoretisch als praktisch onderwijs en is gericht op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de podotherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2020-07-01&g=2020-07-01):
+1. De opleiding tot podotherapeut, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=1&artikel=26&z=2023-01-01&g=2023-01-01), omvat zowel theoretisch als praktisch onderwijs en is gericht op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de podotherapeutische beroepsuitoefening die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2023-01-01&g=2023-01-01):
 
 - a. diagnostiek en behandeling;
 
@@ -902,7 +902,7 @@ Het recht tot het voeren van de titel van podotherapeut is voorbehouden aan dege
 
 - e. bijdragen aan de professionele ontwikkeling van het beroep.
 
-4. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2020-07-01&g=2020-07-01), onder toezicht van een podotherapeut.
+4. Het praktische onderwijs omvat in ieder geval stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&hoofdstuk=VIII&paragraaf=3&artikel=29&z=2023-01-01&g=2023-01-01), onder toezicht van een podotherapeut.
 
 ##### Artikel 28
 
