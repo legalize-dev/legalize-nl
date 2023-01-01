@@ -4,7 +4,7 @@ identifier: "BWBR0015104"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2021-03-05"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015104"
 soort: "AMvB"
@@ -108,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-Indien een verkoper, die in een reclame-uiting producten aan de consument te koop aanbiedt, daarbij de verkoopprijs of de prijs per meeteenheid bekend maakt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=2&z=2021-03-05&g=2021-03-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2021-03-05&g=2021-03-05) en [4, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=4&z=2021-03-05&g=2021-03-05) van toepassing.
+Indien een verkoper, die in een reclame-uiting producten aan de consument te koop aanbiedt, daarbij de verkoopprijs of de prijs per meeteenheid bekend maakt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2023-01-01&g=2023-01-01) en [4, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=4&z=2023-01-01&g=2023-01-01) van toepassing.
 
 ##### Artikel 6
 
@@ -138,7 +138,31 @@ D. Producten die bij een dienstverlening worden verstrekt.
 
 E. Producten die op een markt met behulp van welsprekendheid te koop worden aangeboden aan het aanwezige publiek, waarbij in de regel de verkoopprijs of prijs per meeteenheid van een product niet tevoren vaststaan.
 
-## Bijlage II, behorende bij [artikel 3, derde lid, aanhef en onder c, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2021-03-05&g=2021-03-05)
+## Bijlage I, behorende bij [artikel 3, tweede lid, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2023-01-01&g=2023-01-01)
+
+A. Antiquiteiten.
+
+B. Producten die als individueel werkstuk door een kunstenaar zijn ontworpen of voor een belangrijk deel als individueel werkstuk door een kunstenaar zijn vervaardigd.
+
+C. Producten die te koop worden aangeboden op een veiling.
+
+D. Producten die bij een dienstverlening worden verstrekt.
+
+E. Producten die op een markt met behulp van welsprekendheid te koop worden aangeboden aan het aanwezige publiek, waarbij in de regel de verkoopprijs of prijs per meeteenheid van een product niet tevoren vaststaan.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+1. Bij aankondigingen van prijsverminderingen geeft de verkoper de laagste verkoopprijs aan die door hem is toegepast gedurende een periode die niet korter is dan dertig dagen voor de toepassing van de prijsvermindering.
+
+2. In afwijking van het eerste lid mag de verkoper voor producten van bij ministeriële regeling aangewezen categorieën die snel bederven of een beperkte houdbaarheid hebben, de verkoopprijs aangeven die direct voorafgaand aan de prijsvermindering is toegepast.
+
+3. Ingeval een prijsvermindering progressief wordt verhoogd, mag de verkoper, in afwijking van het eerste lid, gedurende een periode tot drie kalendermaanden na aanvang van de eerste prijsvermindering de laagste verkoopprijs aangeven die door hem is toegepast gedurende een periode die niet korter is dan dertig dagen voorafgaand aan de toepassing van de eerste prijsvermindering.
+
+4. Indien een product minder dan dertig dagen op de markt is, mag de verkoper, in afwijking van het eerste lid, de laagste verkoopprijs aangeven in een door hem te vermelden periode.
+
+## Bijlage II, behorende bij [artikel 3, derde lid, aanhef en onder c, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2023-01-01&g=2023-01-01)
 
 A. Producten die te koop worden aangeboden in fantasieverpakking of in fantasievorm voor speciale gelegenheden.
 
