@@ -4,7 +4,7 @@ identifier: "BWBR0047735"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2022-02-24"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047735"
 soort: "wet"
@@ -46,43 +46,29 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VIII
 
 Wijzigt de Zorgverzekeringswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
@@ -92,19 +78,13 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
 Wijzigt de Wet op de loonbelasting 1964.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
@@ -114,155 +94,119 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVa
 
 Wijzigt de Wet op de kansspelbelasting.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt de Successiewet 1956.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
 Wijzigt de Successiewet 1956.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. [Artikel 33a, tweede lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) zoals dat luidde op 31 december 2022 is met ingang van 1 januari 2024 niet meer van toepassing.
+
+2. [Artikel 33a, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) zoals dat luidde op 31 december 2022 blijft van toepassing op een schenking als bedoeld in artikel 33a, eerste of tweede lid, van de Successiewet 1956 zoals dat luidde op 31 december 2022:
+
+- a. die uiterlijk op 31 december 2023 is gedaan; en
+
+- b. waarvoor een beroep op de verhoogde vrijstelling, bedoeld in [artikel 33, onderdeel 5°, onder c, of onderdeel 7°, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) zoals dat luidde op 31 december 2022 is gedaan.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 12, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=12) zoals dat luidde op 31 december 2023 blijft tot en met 30 juni 2024 van toepassing op een schenking als bedoeld in [artikel 33a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) zoals dat luidde op 31 december 2023 en op een schenking als bedoeld in artikel 33a, tweede lid, van de Successiewet 1956 zoals dat luidde op 31 december 2022.
 
 ##### Artikel XX
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI
 
 Wijzigt de Wet op de omzetbelasting 1968.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+[Vervallen]
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn bij het begin van het kalenderjaar 2024 van overeenkomstige toepassing op het bedrag, genoemd in [artikel XXII, onderdeel E, subonderdeel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XXII&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel XXV
 
 Wijzigt de Wet milieubeheer.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) vindt bij het begin van het kalenderjaar 2023 geen toepassing op het bedrag, genoemd in [artikel 77 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=77).
 
 ##### Artikel XXVIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXIX
 
 Wijzigt de Wet belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXI
 
 Wijzigt de Wet belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIV
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXV
 
-Dit onderdeel is nog niet inwerking getreden
+[ Vervallen]
 
 ##### Artikel XXXVI
 
 Wijzigt de Wet op de accijns.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXVII
 
 Wijzigt de Wet op de accijns.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVIII
 
 Wijzigt de Wet op de accijns.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXIX
 
-Dit onderdeel is nog niet inwerking getreden
+[ Vervallen]
 
 ##### Artikel XL
 
 Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLa
 
@@ -278,138 +222,148 @@ Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLIII
 
 Wijzigt de Invorderingswet 1990.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLIV
 
 Wijzigt de Wet loonbelasting BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLIVbis
 
 Wijzigt de Douane- en Accijnswet BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLIVa
 
 Wijzigt de Belastingwet BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLIVb
 
 Wijzigt de Douane- en Accijnswet BES.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLV
 
 Wijzigt de Wet aanvullende koopkrachtmaatregelen 2022.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLVI
 
 Wijzigt de Algemene Kinderbijslagwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLVII
 
-Dit onderdeel is nog niet inwerking getreden
+Het in [artikel XLVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLVI&z=2023-01-01&g=2023-01-01), genoemde bedrag wordt vóór de toepassing van dat onderdeel vervangen door het bedrag, genoemd in [artikel 8.14a, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), zoals dat luidde op 31 december 2024.
 
 ##### Artikel XLVIII
 
 Wijzigt de Wet opslag duurzame energie- en klimaattransitie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLIX
 
-Dit onderdeel is nog niet inwerking getreden
+De [Wet opslag duurzame energie- en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0032660) wordt met ingang van 1 januari 2024 ingetrokken.
 
 ##### Artikel XLIXbis
 
 Wijzigt de Wet tijdelijk verlaagd tarief laadpalen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XLIXa
 
 Wijzigt de Mijnbouwwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel L
 
 Wijzigt het Belastingplan 2018.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LI
 
 Wijzigt het Belastingplan 2021.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LII
 
 Wijzigt de Wet fiscale maatregelen Klimaatakkoord.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Voor periodieke giften die berusten op een vóór 4 oktober 2022, 16.00 uur, aangegane verplichting als bedoeld in [artikel 6.38, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38) blijft artikel 6.38 van die wet zoals dat luidde op 31 december 2022, van toepassing tot en met 31 december 2026.
 
 ##### Artikel LIII
 
-Dit onderdeel is nog niet inwerking getreden
+Na toepassing van de [artikelen II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=II&z=2023-01-01&g=2023-01-01), [III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=III&z=2023-01-01&g=2023-01-01), en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=VI&z=2023-01-01&g=2023-01-01), of de [artikelen X, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=X&z=2023-01-01&g=2023-01-01), [XI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XI&z=2023-01-01&g=2023-01-01) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XII&z=2023-01-01&g=2023-01-01) worden de bedragen in kolom III van de tabel in [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10) bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die artikelen voortvloeien uit de aan het begin van de betreffende jaren in de kolommen I en II van die tabel vermelde bedragen en de in de kolom IV van die tabel vermelde percentages. De eerste zin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in [artikel 2.10a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10a), op de bedragen in kolom III van de tabel in [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) en op de bedragen in kolom III van de tabel in [artikel 20b, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b).
 
 ##### Artikel LIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Bij de toepassing van [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2023 met betrekking tot:
+
+- a. het in [artikel 8.11, tweede lid, eerste zin, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) en [artikel 22a, tweede lid, onderdeel a, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) vermelde bedrag wordt dat bedrag berekend door het vóór toepassing van [artikel I, onderdeel DD, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=I&z=2023-01-01&g=2023-01-01), in [artikel 8.11, tweede lid, eerste zin, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) vermelde bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en vervolgens te verhogen met het in artikel I, onderdeel DD, onder 1, vermelde bedrag;
+
+- b. het in [artikel 8.11, tweede lid, eerste zin, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) en [artikel 22a, tweede lid, onderdeel b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) als tweede vermelde bedrag wordt dat bedrag berekend door het vóór toepassing van [artikel I, onderdeel DD, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=I&z=2023-01-01&g=2023-01-01), in artikel 8.11, tweede lid, eerste zin, onderdeel b, van de Wet inkomstenbelasting 2001 als tweede vermelde bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en vervolgens te verhogen met het in artikel I, onderdeel DD, onder 2, vermelde bedrag;
+
+- c. het in [artikel 8.11, tweede lid, eerste zin, onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.11) en [artikel 22a, tweede lid, onderdeel c, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22a) als tweede vermelde bedrag wordt dat bedrag berekend door het vóór toepassing van [artikel I, onderdeel DD, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=I&z=2023-01-01&g=2023-01-01), in artikel 8.11, tweede lid, eerste zin, onderdeel c, van de Wet inkomstenbelasting 2001 als tweede vermelde bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en vervolgens te verhogen met het in artikel I, onderdeel DD, onder 3, vermelde bedrag.
 
 ##### Artikel LIV
 
 Wijzigt de Wet invoering minimumuurloon (Kamerstuk 35335).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LV
 
 Wijzigt deze wet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LVI
 
 Wijzigt de Wet toekomst pensioenen (Kamerstuk 36067).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LVII
 
 Wijzigt de Wet toekomst pensioenen (Kamerstuk 36067).
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel LVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Ingeval de samenloop van wetten die in 2022 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
 ##### Artikel LIX
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking met ingang van 1 januari 2023, met dien verstande dat:
+
+- a. [artikel I, onderdelen F, G, H, I, J, K, L, N, P, Q, R, S, T, U, V en KK](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=I&z=2023-01-01&g=2023-01-01), in afwijking van [artikel 3.66, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.66), en [artikel XLII](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLII&z=2023-01-01&g=2023-01-01) voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2023;
+
+- b. [artikel I, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=I&z=2023-01-01&g=2023-01-01), en [artikel IX, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=IX&z=2023-01-01&g=2023-01-01), terugwerken tot en met 1 april 2017;
+
+- c. [artikel I, onderdeel HH](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=I&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 1 januari 2022;
+
+- ca. [artikel IX, onderdeel Ja](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=IX&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 1 januari 2020;
+
+- d. [artikel XLI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLI&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 24 februari 2022;
+
+- e. [artikel I, onderdelen A, B en X](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=I&z=2023-01-01&g=2023-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van kalenderjaar 2023 is toegepast;
+
+- f. [artikel IX, onderdelen E en F](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=IX&z=2023-01-01&g=2023-01-01), eerst toepassing vindt nadat de [artikelen 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), en [20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) bij het begin van het kalenderjaar 2023 zijn toegepast;
+
+- g. [artikel XVI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XVI&z=2023-01-01&g=2023-01-01), toepassing vindt nadat [artikel 35a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35a) bij het begin van het kalenderjaar 2023 is toegepast;
+
+- h. [artikel XLV, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLVI&z=2023-01-01&g=2023-01-01) toepassing vinden voordat [artikel VII van de Wet aanvullende koopkrachtmaatregelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046871&artikel=VII) wordt toegepast;
+
+- ha. [artikel XLIXBIS](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLIXbis&z=2023-01-01&g=2023-01-01) toepassing vindt voordat [artikel II van de Wet tijdelijk verlaagd tarief laadpalen](https://wetten.overheid.nl/jci1.3:c:BWBR0038926&artikel=II) wordt toegepast;
+
+- i. [artikel LII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=LII&z=2023-01-01&g=2023-01-01), en [artikel XLV, onderdelen A, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLVI&z=2023-01-01&g=2023-01-01) eerst toepassing vinden voordat [artikel V van de Wet aanvullende fiscale koopkrachtmaatregelen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046871&artikel=V) en de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=XI) en [XIA van de Wet fiscale maatregelen Klimaatakkoord](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=XIa) in samenhang met [artikel XXX, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042935&artikel=XXX) worden toegepast; en
+
+- j. [artikel II, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=II&z=2023-01-01&g=2023-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2024 is toegepast.
+
+2. In afwijking van het eerste lid, treedt [artikel XLI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLI&z=2023-01-01&g=2023-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip. In dat besluit kan worden bepaald dat artikel XLI, onderdeel C, terugwerkt tot en met de datum waarop het Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022 tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van [Richtlijn 2001/55/EG](32001L0055), en tot invoering van tijdelijke bescherming naar aanleiding daarvan (PbEU 2022, L 71/1) of een verlenging daarvan geen tijdelijke bescherming meer verleent aan ontheemden uit Oekraïne en kan zo nodig worden voorzien in overgangsrecht.
+
+3. In afwijking van het eerste lid treedt [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XIII&z=2023-01-01&g=2023-01-01) in werking met ingang van 1 januari 2024.
+
+4. In afwijking van het eerste lid treedt [artikel I, onderdelen Na en Wa](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=I&z=2023-01-01&g=2023-01-01), in werking op het tijdstip waarop [artikel I van de Wet verbetering uitvoerbaarheid toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0044577&artikel=I) in werking treedt.
+
+5. In afwijking van het eerste lid treedt [artikel XLA](https://wetten.overheid.nl/jci1.3:c:BWBR0047735&artikel=XLa&z=2023-01-01&g=2023-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat niet ligt voor 1 januari 2029.
 
 ##### Artikel LX
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Belastingplan 2023.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is fiscale maatregelen te treffen die voortvloeien uit de koopkrachtbesluitvorming voor het jaar 2023 en dat het ook in het kader van het fiscale beleid voor het jaar 2023 en volgende jaren wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
