@@ -4,7 +4,7 @@ identifier: "BWBR0046504"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2022-04-09"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046504"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Uitvoeringswet cyberbeveiligingsvero
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van de bepalingen van de [Uitvoeringswet cyberbeveiligingsverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0046349) zijn belast de ambtenaren met de functiebenamingen inspecteur, senior inspecteur, coördinerend/specialistisch inspecteur en inspecteur/medewerker toezicht van Agentschap Telecom van het Ministerie van Economische Zaken en Klimaat.
+Met het toezicht op de naleving van de bepalingen van de [Uitvoeringswet cyberbeveiligingsverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0046349) zijn belast de ambtenaren met de functiebenamingen inspecteur, senior inspecteur, coördinerend/specialistisch inspecteur en inspecteur/medewerker toezicht van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 2
 
