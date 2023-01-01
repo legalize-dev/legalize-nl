@@ -4,7 +4,7 @@ identifier: "BWBR0026381"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2017-03-18"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026381"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 - **aanhoudings- en ondersteuningsteams:** teams als bedoeld in [artikel 11, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=11);
 
-- **bijzondere bijstandseenheid:** de bijzondere bijstandseenheid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=2&z=2017-03-18&g=2017-03-18);
+- **bijzondere bijstandseenheid:** de bijzondere bijstandseenheid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=2&z=2023-01-01&g=2023-01-01);
 
 - **Dienst speciale interventies:** de dienst, bedoeld in [artikel 11 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=11).
 
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de beveiliging van personen en objecten in bijzondere situaties, waaronder het beveiligen van ambtenaren van de Algemene inlichtingen- en veiligheidsdienst bij operaties van die dienst;
 
-- c. het uitvoeren van andere door de Ministers van Veiligheid en Justitie en van Defensie opgedragen bijzondere onderdelen van de politietaak.
+- c. het uitvoeren van andere door de Ministers van Justitie en Veiligheid en van Defensie opgedragen bijzondere onderdelen van de politietaak.
 
 2. De bijzondere bijstandseenheid bestaat uit de volgende onderdelen:
 
@@ -82,15 +82,15 @@ Vervallen
 
 ##### Artikel 6
 
-1. De voorzitter van het College van procureurs-generaal is bevoegd in naam van de Minister van Veiligheid en Justitie te beslissen op een verzoek tot bijstand van de bijzondere bijstandseenheid, tenzij het een situatie betreft:
+1. De voorzitter van het College van procureurs-generaal is bevoegd in naam van de Minister van Justitie en Veiligheid te beslissen op een verzoek tot bijstand van de bijzondere bijstandseenheid, tenzij het een situatie betreft:
 
-- a. waarvoor geen standaard inzetscenario als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=8&z=2017-03-18&g=2017-03-18), voorhanden is; of
+- a. waarvoor geen standaard inzetscenario als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=8&z=2023-01-01&g=2023-01-01), voorhanden is; of
 
 - b. waarin zich meerdere incidenten op verschillende locaties tegelijkertijd voordoen, waartussen vermoedelijk een verband bestaat; of
 
 - c. waarin op enige andere wijze een groot nationaal belang in het geding is.
 
-2. De voorzitter van het College van procureurs-generaal brengt de Minister van Veiligheid en Justitie onmiddellijk in kennis van zijn beslissing tot bijstandverlening door de bijzondere bijstandseenheid.
+2. De voorzitter van het College van procureurs-generaal brengt de Minister van Justitie en Veiligheid onmiddellijk in kennis van zijn beslissing tot bijstandverlening door de bijzondere bijstandseenheid.
 
 ##### Artikel 7
 
@@ -102,15 +102,15 @@ Vervallen
 
 - b. de situatie van de dreiging.
 
-3. Het operationeel plan van inzet behoeft goedkeuring van de Minister van Veiligheid en Justitie, dan wel van de voorzitter van het College van procureurs-generaal indien hij bevoegd is te beslissen over een verzoek tot bijstand.
+3. Het operationeel plan van inzet behoeft goedkeuring van de Minister van Justitie en Veiligheid, dan wel van de voorzitter van het College van procureurs-generaal indien hij bevoegd is te beslissen over een verzoek tot bijstand.
 
 ##### Artikel 8
 
-1. De Ministers van Veiligheid en Justitie en van Defensie stellen gezamenlijk standaard inzetscenario’s vast ten behoeve van de inzet van de bijzondere bijstandseenheid.
+1. De Ministers van Justitie en Veiligheid en van Defensie stellen gezamenlijk standaard inzetscenario’s vast ten behoeve van de inzet van de bijzondere bijstandseenheid.
 
 2. Het hoofd van de Dienst speciale interventies neemt bij het opstellen van het operationeel plan de standaardscenario’s in acht.
 
-3. Indien er voor de inzet van de bijzondere bijstandseenheid geen standaard inzetscenario voorhanden is, raadpleegt de Minister van Veiligheid en Justitie, indien mogelijk, de Minister van Defensie voorafgaand aan de goedkeuring van het operationeel plan van inzet.
+3. Indien er voor de inzet van de bijzondere bijstandseenheid geen standaard inzetscenario voorhanden is, raadpleegt de Minister van Justitie en Veiligheid, indien mogelijk, de Minister van Defensie voorafgaand aan de goedkeuring van het operationeel plan van inzet.
 
 ##### Artikel 9
 
@@ -138,7 +138,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9a
 
-Deze regeling berust op [artikel 59, eerste en vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) en [artikel 44 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=44).
+Deze regeling berust op [artikel 59, eerste en vijfde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) en [artikel 44 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=44).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
