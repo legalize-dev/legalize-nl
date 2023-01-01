@@ -4,7 +4,7 @@ identifier: "BWBR0004772"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2019-06-20"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004772"
 soort: "AMvB"
@@ -88,9 +88,9 @@ Vervallen
 
 1. Indien het krachtens [artikel 25, vijfde of achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt invorderingsrente berekend met ingang van de dag waarop zes weken zijn verstreken na de eerste dag van het jaar volgend op het jaar waarin zich de handeling of gebeurtenis voordoet op grond waarvan het uitstel wordt beëindigd.
 
-2. Indien het krachtens [artikel 25, negende, elfde of zeventiende tot en met negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt invorderingsrente berekend met ingang van de dag volgende op de dag waarop zich de omstandigheid voordoet op grond waarvan het uitstel wordt beëindigd.
+2. Indien het krachtens [artikel 25, negende, elfde, zeventiende tot en met negentiende of eenentwintigste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt invorderingsrente berekend met ingang van de dag volgende op de dag waarop zich de omstandigheid voordoet op grond waarvan het uitstel wordt beëindigd.
 
-### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+### Hoofdstuk IIa. Aansprakelijkheid van begunstigden
 
 ##### Artikel 7
 
@@ -102,7 +102,7 @@ Vervallen
 
 ##### Artikel 8
 
-Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2019-06-20&g=2019-06-20) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2019-06-20&g=2019-06-20), doet, is gehouden aan de ontvanger:
+Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2023-01-01&g=2023-01-01) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2023-01-01&g=2023-01-01), doet, is gehouden aan de ontvanger:
 
 - a. de door deze gevraagde gegevens en inlichtingen te verstrekken die voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam van belang kunnen zijn;
 
@@ -110,7 +110,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ##### Artikel 9
 
-1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2019-06-20&g=2019-06-20), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
+1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2023-01-01&g=2023-01-01), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
 2. De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de ontvanger.
 
@@ -128,7 +128,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7a
 
-1. De mededeling bedoeld in [artikel 36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b), in verbinding met [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) wordt gedaan uiterlijk twee weken na de dag waarop ingevolge de in [artikel 49, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49), bedoelde beschikking de aansprakelijkheidsschuld had moeten zijn voldaan.
+1. De mededeling bedoeld in [artikel 36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b), in verbinding met [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) wordt gedaan uiterlijk twee weken na de dag waarop ingevolge de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) bedoelde beschikking de aansprakelijkheidsschuld had moeten zijn voldaan.
 
 2. Bij de mededeling wordt inzicht gegeven in de omstandigheden die ertoe hebben geleid dat de aansprakelijkheidsschuld niet is voldaan.
 
@@ -142,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2019-06-20&g=2019-06-20), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
+[Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
 
 ### Hoofdstuk IIIa. Overgangsbepaling
 
@@ -167,6 +167,24 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 - f. na het ontstaan van de materiële belastingschuld vermogensbestanddelen van de belastingschuldige zijn overgegaan op een of meer natuurlijke personen of rechtspersonen en ten minste een van die natuurlijke personen, onderscheidenlijk rechtspersonen, buiten Nederland woont, onderscheidenlijk buiten Nederland is gevestigd.
 
 ### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+
+### Hoofdstuk IV. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 6bis
+
+1. Invorderingsrente wordt niet in rekening gebracht gedurende de periode waarin het aanbod van de ontvanger geldt om de invordering ter zake van een voorlopige aanslag in de inkomstenbelasting die betrekking heeft op het tijdvak 2022 aan te houden:
+
+- a. bij wege waarvan in ieder geval over belastbaar inkomen uit sparen en beleggen als bedoeld in [artikel 5.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1) belasting wordt geheven; en
+
+- b. waarvan het aanslagbiljet een dagtekening heeft die is gelegen in het jaar 2022.
+
+2. Indien het aanbod van de ontvanger om de vordering aan te houden is komen te vervallen, wordt invorderingsrente berekend overeenkomstig [artikel 28 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), tenzij de belastingschuldige binnen zes weken nadat de ontvanger het inkomen, bedoelt in [artikel 5.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1), opnieuw heeft vastgesteld in een voorlopige of definitieve aanslag en daarmee het eerdergenoemde aanbod is komen te vervallen, het openstaande bedrag heeft voldaan.
+
+### Hoofdstuk III. Meldingsregeling bestuurdersaansprakelijkheid
+
+### Hoofdstuk IIIa. Overgangsbepaling
 
 ### Hoofdstuk IV. Inwerkingtreding en citeertitel
 
