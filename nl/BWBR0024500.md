@@ -4,7 +4,7 @@ identifier: "BWBR0024500"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2008-09-24"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024500"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 Deze regeling wordt aangehaald als: Regeling mededelingenformulier batterijen en accu’s 2008.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024500&artikel=1&z=2008-09-24&g=2008-09-24)
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024500&artikel=1&z=2023-07-01&g=2023-01-01)
 
 ### **Formulier mededeling**
 
