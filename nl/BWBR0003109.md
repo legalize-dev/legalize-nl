@@ -4,7 +4,7 @@ identifier: "BWBR0003109"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2020-09-03"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003109"
 soort: "wet"
@@ -120,7 +120,7 @@ Tot een verzameldepot behoren:
 
 - b. het ten name van de intermediair staande aandeel in het verzameldepot van effecten van de betreffende soort bij een andere intermediair;
 
-- c. het ten name van de aangesloten instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2020-09-03&g=2020-09-03) bedoelde girodepot van effecten van de betreffende soort;
+- c. het ten name van de aangesloten instelling staande aandeel in het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&z=2023-01-01&g=2023-01-01) bedoelde girodepot van effecten van de betreffende soort;
 
 - d. het ten name van de intermediair staande tegoed terzake van effecten van de betreffende soort, dat wordt aangehouden bij een instelling in het buitenland;
 
@@ -260,13 +260,13 @@ Levert de intermediair aan een deelgenoot meer effecten uit dan waartoe hij inge
 
 ##### Artikel 31
 
-1. Voor zover uitlevering op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2020-09-03&g=2020-09-03) mogelijk is, komt bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of beslag rust dit beperkte recht of beslag mede op de uitgeleverde effecten te rusten.
+1. Voor zover uitlevering op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2023-01-01&g=2023-01-01) mogelijk is, komt bij de uitlevering van effecten uit hoofde van een aandeel waarop een beperkt recht of beslag rust dit beperkte recht of beslag mede op de uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkering als bedoeld in [artikel 27, tweede lid, tweede volzin en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2020-09-03&g=2020-09-03) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkering als bedoeld in [artikel 27, tweede lid, tweede volzin en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2023-01-01&g=2023-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 32
 
-Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2020-09-03&g=2020-09-03), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2020-09-03&g=2020-09-03), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2020-09-03&g=2020-09-03), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2020-09-03&g=2020-09-03) en [49db](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49db&z=2020-09-03&g=2020-09-03) uit te oefenen.
+Degene die overeenkomstig [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=12&z=2023-01-01&g=2023-01-01), een hoeveelheid effecten in bewaring heeft gegeven of heeft geleverd maar daarvoor geen deelgenoot is, wordt vermoed bevoegd te zijn de rechten van de deelgenoot uit de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2023-01-01&g=2023-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2023-01-01&g=2023-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2023-01-01&g=2023-01-01) en [49db](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49db&z=2023-01-01&g=2023-01-01) uit te oefenen.
 
 ## Titel 4. Faillissement
 
@@ -338,7 +338,7 @@ Tot een girodepot behoren:
 
 ##### Artikel 39
 
-Een centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2020-09-03&g=2020-09-03) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
+Een centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoen aan hun in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=1&artikel=15&z=2023-01-01&g=2023-01-01) bedoelde verplichting ten aanzien van het aan de effecten verbonden stemrecht.
 
 ## Titel 2. Vervreemding en bezwaring
 
@@ -358,7 +358,7 @@ Een centraal instituut draagt zorg dat de aangesloten instellingen kunnen voldoe
 
 1. Vestiging van een pandrecht ten behoeve van een andere aangesloten instelling op een aandeel in een girodepot geschiedt door bijschrijving ten name van de andere instelling in de administratie van het centraal instituut.
 
-2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2020-09-03&g=2020-09-03), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2020-09-03&g=2020-09-03) zijn van overeenkomstige toepassing.
+2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=20&z=2023-01-01&g=2023-01-01), en [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=22&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 43
 
@@ -388,7 +388,7 @@ Beslag onder een centraal instituut op een ten name van een aangesloten instelli
 
 ##### Artikel 46
 
-De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2020-09-03&g=2020-09-03).
+De verdeling van een girodepot dat niet toereikend is om aan iedere instelling de haar toekomende hoeveelheid effecten uit te leveren, geschiedt door overeenkomstige toepassing van [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 47
 
@@ -402,7 +402,7 @@ Een centraal instituut is tot uitlevering bevoegd zonder medewerking van de ande
 
 1. Bij uitlevering van effecten uit hoofde van een aandeel waarop een pandrecht rust, komt dit pandrecht mede op de uitgeleverde effecten te rusten.
 
-2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2020-09-03&g=2020-09-03) van overeenkomstige toepassing.
+2. Het eerste lid is bij uitkeringen als bedoeld in [artikel 27, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=27&z=2023-01-01&g=2023-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
@@ -456,17 +456,17 @@ Indien effecten op naam zijn geleverd aan een intermediair of aan een centraal i
 
 ##### Artikel 50c
 
-In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2020-09-03&g=2020-09-03) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=3&artikel=45&z=2020-09-03&g=2020-09-03) kunnen effecten tot uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze bepaling worden uitgeleverd aan een deelgenoot onderscheidenlijk een aangesloten instelling, met inachtneming van het op het tijdstip voorafgaande aan de inwerkingtreding van deze wet met betrekking tot uitlevering bepaalde.
+In afwijking van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=3&artikel=26&z=2023-01-01&g=2023-01-01) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=3&artikel=45&z=2023-01-01&g=2023-01-01) kunnen effecten tot uiterlijk zes maanden na het tijdstip van inwerkingtreding van deze bepaling worden uitgeleverd aan een deelgenoot onderscheidenlijk een aangesloten instelling, met inachtneming van het op het tijdstip voorafgaande aan de inwerkingtreding van deze wet met betrekking tot uitlevering bepaalde.
 
 ##### Artikel 50d
 
-1. Indien effecten aan toonder behoren tot een verzameldepot of een girodepot, maar niet zijn belichaamd in een verzamelbewijs, kunnen de met deze effecten corresponderende aandelen in een verzameldepot of girodepot vanaf 1 januari 2013 niet meer worden geleverd op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2020-09-03&g=2020-09-03) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2020-09-03&g=2020-09-03).
+1. Indien effecten aan toonder behoren tot een verzameldepot of een girodepot, maar niet zijn belichaamd in een verzamelbewijs, kunnen de met deze effecten corresponderende aandelen in een verzameldepot of girodepot vanaf 1 januari 2013 niet meer worden geleverd op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2023-01-01&g=2023-01-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2023-01-01&g=2023-01-01).
 
 2. Een instelling die effecten aan toonder heeft uitgegeven die zijnopgenomen in een verzameldepot of een girodepot zet deze effecten voor 1 januari 2013 om in een verzamelbewijs of in effecten op naam.
 
 3. Indien de voorwaarden waaronder effecten aan toonder zijn uitgegeven niet voorzien in de mogelijkheid die effecten om te zetten in verzamelbewijzen of een procedure om de voorwaarden aan te passen, kan de uitgevende instelling van die effecten eenzijdig de voorwaarden wijzigen om een omzetting als bedoeld in het tweede lid mogelijk te maken.
 
-4. Indien een buitenlands recht dat op effecten van toepassing is niet voorziet in de mogelijkheid van omzetting, zullen de effecten in afwijking van het eerste lid wel geleverd kunnen worden op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2020-09-03&g=2020-09-03) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2020-09-03&g=2020-09-03).
+4. Indien een buitenlands recht dat op effecten van toepassing is niet voorziet in de mogelijkheid van omzetting, zullen de effecten in afwijking van het eerste lid wel geleverd kunnen worden op grond van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=2&titeldeel=2&artikel=17&z=2023-01-01&g=2023-01-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3&titeldeel=2&artikel=41&z=2023-01-01&g=2023-01-01).
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -492,9 +492,9 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 - 1°. degene die voor eigen rekening een tegoed, luidend in effecten met een aandelenkarakter aanhoudt bij een aangesloten instelling, intermediair of instelling in het buitenland, of
 
-- 2°. beheerder van een belegginginstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+- 2°. beheerder van een belegginginstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of een beheerder van een icbe als bedoeld in artikel 1:1 van die wet.
 
-- d. **uitgevende instelling:** vennootschap naar Nederlands recht of een rechtspersoon opgericht naar het recht van een andere lidstaat als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) dan Nederland, niet zijnde een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt.
+- d. **uitgevende instelling:** vennootschap naar Nederlands recht of een rechtspersoon opgericht naar het recht van een andere lidstaat als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) dan Nederland, niet zijnde een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een icbe als bedoeld in artikel 1:1 van die wet, waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt.
 
 - e. **bewaarketen:** een of meer van de volgende partijen gezamenlijk voor zover die door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter van een soort bewaren: centraal instituut, intermediair, bewaarder van een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) of instelling in het buitenland.
 
@@ -508,7 +508,7 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 - c. een instelling in het buitenland van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat zij, beroepsmatig en anders dan als aandeelhouder, door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter bewaart, administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres, in voorkomend geval de unieke identificatiecode voor rechtspersonen, het tegoed luidend in zodanige effecten en, indien aanwezig, het e-mailadres van iedere cliënt voor wie zij een tegoed luidend in effecten met een aandelenkarakter bewaart, administreert of aanhoudt alsmede van het tegoed van iedere cliënt luidend in zodanige effecten dat bij de instelling wordt aangehouden, de categorieën of klassen van de effecten en de datum sinds welke de effecten worden aangehouden; of
 
-- d. een bewaarder van een beleggingsinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat hij door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter bewaart, administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres, in voorkomend geval de unieke identificatiecode voor rechtspersonen en, indien aanwezig, het e-mailadres van de beheerder van die beleggingsinstelling alsmede van het tegoed van de beheerder luidend in zodanige effecten dat bij de bewaarder wordt aangehouden, de categorieën of klassen van de effecten en de datum sinds welke de effecten worden aangehouden.
+- d. een bewaarder als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) van wie de uitgevende instelling weet of redelijkerwijs mag aannemen dat hij door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter bewaart, administreert of aanhoudt, schriftelijk verzoeken tot verstrekking van de naam, het adres, in voorkomend geval de unieke identificatiecode voor rechtspersonen en, indien aanwezig, het e-mailadres van de beheerder van de desbetreffende beleggingsinstelling of icbe alsmede van het tegoed van de beheerder luidend in zodanige effecten dat bij de bewaarder wordt aangehouden, de categorieën of klassen van de effecten en de datum sinds welke de effecten worden aangehouden.
 
 2. Een uitgevende instelling kan een partij in de bewaarketen verzoeken tot verstrekking van de naam, het adres, in voorkomend geval de unieke identificatiecode voor rechtspersonen, en, indien aanwezig, het e-mailadres van iedere aandeelhouder die door de uitgevende instelling of met haar medewerking uitgegeven effecten met een aandelenkarakter aanhoudt, alsmede het tegoed in zodanige effecten, de categorieën of klassen van de effecten en de datum sinds welke de effecten worden aangehouden.
 
@@ -520,13 +520,13 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 6. Op schriftelijk verzoek, gedaan in een periode vanaf zestig dagen tot de tweeënveertigste dag voor die van de algemene vergadering, van een aandeelhouder die op het moment van het verzoek alleen of gezamenlijk met andere aandeelhouders tenminste een tiende gedeelte van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigt, identificeert de uitgevende instelling aandeelhouders van door haar of met haar medewerking uitgegeven effecten met een aandelenkarakter door middel van het doen van verzoeken als bedoeld in het eerste lid.
 
-7. Uiterlijk op het moment van het eerste verzoek als bedoeld in het eerste lid doet de uitgevende instelling hierover een mededeling op haar website, onder vermelding van de mogelijkheid van verzending van informatie overeenkomstig [artikel 49c](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2020-09-03&g=2020-09-03), de mogelijke data van die verzending en de uiterlijke data voor terbeschikkingstelling van informatie door aandeelhouders.
+7. Uiterlijk op het moment van het eerste verzoek als bedoeld in het eerste lid doet de uitgevende instelling hierover een mededeling op haar website, onder vermelding van de mogelijkheid van verzending van informatie overeenkomstig [artikel 49c](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2023-01-01&g=2023-01-01), de mogelijke data van die verzending en de uiterlijke data voor terbeschikkingstelling van informatie door aandeelhouders.
 
 8. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop een verzoek op grond van het eerste of vijfde lid wordt gedaan en beantwoord.
 
 ##### Artikel 49c
 
-1. Op schriftelijk verzoek van een aandeelhouder die alleen of gezamenlijk met andere aandeelhouders tenminste een honderdste gedeelte van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigt of rechthebbende is op een bedrag van aandelen of certificaten daarvan met een gezamenlijke waarde van tenminste € 250 000, verzendt de uitgevende instelling, indien deze beschikt over op grond van [artikel 49b, eerste lid, onder b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03), verkregen gegevens, door de aandeelhouder ter beschikking gestelde informatie welke verband houdt met een onderwerp dat is geagendeerd voor de algemene vergadering aan de aandeelhouders van de uitgevende instelling. De uitgevende instelling verzendt de informatie met de meeste spoed, in elk geval binnen drie werkdagen na ontvangst van het verzoek of plaatst deze informatie met de meeste spoed, in elk geval binnen drie werkdagen, op haar website, waar deze informatie tenminste tot en met de dag van de algemene vergadering beschikbaar wordt gehouden.
+1. Op schriftelijk verzoek van een aandeelhouder die alleen of gezamenlijk met andere aandeelhouders tenminste een honderdste gedeelte van het geplaatste kapitaal van een uitgevende instelling vertegenwoordigt of rechthebbende is op een bedrag van aandelen of certificaten daarvan met een gezamenlijke waarde van tenminste € 250 000, verzendt de uitgevende instelling, indien deze beschikt over op grond van [artikel 49b, eerste lid, onder b, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01), verkregen gegevens, door de aandeelhouder ter beschikking gestelde informatie welke verband houdt met een onderwerp dat is geagendeerd voor de algemene vergadering aan de aandeelhouders van de uitgevende instelling. De uitgevende instelling verzendt de informatie met de meeste spoed, in elk geval binnen drie werkdagen na ontvangst van het verzoek of plaatst deze informatie met de meeste spoed, in elk geval binnen drie werkdagen, op haar website, waar deze informatie tenminste tot en met de dag van de algemene vergadering beschikbaar wordt gehouden.
 
 2. In afwijking van het eerste lid is de uitgevende instelling niet verplicht tot verzending van informatie die minder dan zeven werkdagen voor de algemene vergadering door haar wordt ontvangen.
 
@@ -540,7 +540,7 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 5. De uitgevende instelling plaatst informatie die zij uit eigen beweging of op schriftelijk verzoek van een aandeelhouder heeft verzonden onverwijld na verzending op haar website. De uitgevende instelling houdt de informatie gedurende tenminste een jaar op de website toegankelijk.
 
-6. Voor de toepassing van dit artikel wordt als aandeelhouder beschouwd degene die aandeelhouder is op de peildatum die is vermeld in het laatst gedane verzoek, bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03).
+6. Voor de toepassing van dit artikel wordt als aandeelhouder beschouwd degene die aandeelhouder is op de peildatum die is vermeld in het laatst gedane verzoek, bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01).
 
 7. Indien door de aandeelhouder, bedoeld in het zesde lid, een overeenkomst is gesloten met een derde op grond waarvan deze derde naar eigen goeddunken stemmen kan uitbrengen en de aandeelhouder informatie van de uitgevende instelling ontvangt, verstrekt hij de naam, het adres en het emailadres van de derde aan de uitgevende instelling en stuurt hij de informatie die van de uitgevende instelling is ontvangen onverwijld door aan de derde.
 
@@ -550,25 +550,25 @@ Voor de toepassing van het ingevolge dit hoofdstuk bepaalde wordt verstaan onder
 
 ##### Artikel 49d
 
-1. De uitgevende instelling is verplicht tot geheimhouding van de in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03) en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2020-09-03&g=2020-09-03) bedoelde gegevens, waarvan zij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.
+1. De uitgevende instelling is verplicht tot geheimhouding van de in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01) en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2023-01-01&g=2023-01-01) bedoelde gegevens, waarvan zij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.
 
-2. Indien een uitgevende instelling aan een derde volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03), te doen en de verzochte gegevens te ontvangen, is deze derde verplicht tot geheimhouding van de in artikel 49b, eerste en tweede lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2020-09-03&g=2020-09-03), bedoelde gegevens waarvan hij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.
+2. Indien een uitgevende instelling aan een derde volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01), te doen en de verzochte gegevens te ontvangen, is deze derde verplicht tot geheimhouding van de in artikel 49b, eerste en tweede lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2023-01-01&g=2023-01-01), bedoelde gegevens waarvan hij kennis neemt en verwerkt deze gegevens op een behoorlijke en zorgvuldige wijze.
 
-3. De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03), te doen, verwerkt de in artikel 49b, eerste en tweede lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2020-09-03&g=2020-09-03), bedoelde gegevens niet verder op een wijze die onverenigbaar is met de doeleinden waarvoor ze zijn verkregen.
+3. De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01), te doen, verwerkt de in artikel 49b, eerste en tweede lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2023-01-01&g=2023-01-01), bedoelde gegevens niet verder op een wijze die onverenigbaar is met de doeleinden waarvoor ze zijn verkregen.
 
-4. De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03), te doen, legt passende technische en organisatorische maatregelen ten uitvoer om de in de in artikel 49b, eerste en tweede lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2020-09-03&g=2020-09-03), bedoelde gegevens te beveiligen tegen verlies of enige vorm van onrechtmatige verwerking.
+4. De uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend om namens haar een verzoek als bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01), te doen, legt passende technische en organisatorische maatregelen ten uitvoer om de in de in artikel 49b, eerste en tweede lid en [artikel 49c, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49c&z=2023-01-01&g=2023-01-01), bedoelde gegevens te beveiligen tegen verlies of enige vorm van onrechtmatige verwerking.
 
-5. Partijen in de bewaarketen, de uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend, bewaren de persoonsgegevens, bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03), niet langer dan twaalf maanden nadat zij ervan op de hoogte zijn geraakt dat de betrokkene niet langer ten minste twee honderdste van het geplaatste kapitaal van de uitgevende instelling vertegenwoordigt.
+5. Partijen in de bewaarketen, de uitgevende instelling of, indien van toepassing, de derde aan wie de uitgevende instelling een volmacht heeft verleend, bewaren de persoonsgegevens, bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01), niet langer dan twaalf maanden nadat zij ervan op de hoogte zijn geraakt dat de betrokkene niet langer ten minste twee honderdste van het geplaatste kapitaal van de uitgevende instelling vertegenwoordigt.
 
-6. Rechtspersonen hebben het recht om gegevens betreffende hun identiteit die door de uitgevende instelling met zetel in Nederland verkregen zijn naar aanleiding van een verzoek als bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03), te corrigeren wanneer deze onvolledig of onjuist zijn gebleken.
+6. Rechtspersonen hebben het recht om gegevens betreffende hun identiteit die door de uitgevende instelling met zetel in Nederland verkregen zijn naar aanleiding van een verzoek als bedoeld in [artikel 49b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01), te corrigeren wanneer deze onvolledig of onjuist zijn gebleken.
 
-7. Een partij in de bewaarketen die een verzoek als bedoeld in [artikel 49b, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03), beantwoordt kan niet worden aangesproken voor overtreding van een civielrechtelijk of bestuursrechtelijk beding op grond waarvan geheimhouding van deze gegevens verplicht is.
+7. Een partij in de bewaarketen die een verzoek als bedoeld in [artikel 49b, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01), beantwoordt kan niet worden aangesproken voor overtreding van een civielrechtelijk of bestuursrechtelijk beding op grond waarvan geheimhouding van deze gegevens verplicht is.
 
 ##### Artikel 49e
 
-1. Indien een verzoek als bedoeld in [artikel 49b, eerste lid, onderdeel a, b of d, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2020-09-03&g=2020-09-03) en [artikel 49da, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49da&z=2020-09-03&g=2020-09-03), geheel of gedeeltelijk niet wordt beantwoord, kan de rechtbank binnen wiens arrondissement de partij in de bewaarketen tot wie het verzoek is gericht is gevestigd, op vordering van de uitgevende instelling of een derde aan wie de uitgevende instelling een volmacht heeft verleend degene tot wie het verzoek is gericht bevelen het gedane verzoek na te komen.
+1. Indien een verzoek als bedoeld in [artikel 49b, eerste lid, onderdeel a, b of d, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49b&z=2023-01-01&g=2023-01-01) en [artikel 49da, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49da&z=2023-01-01&g=2023-01-01), geheel of gedeeltelijk niet wordt beantwoord, kan de rechtbank binnen wiens arrondissement de partij in de bewaarketen tot wie het verzoek is gericht is gevestigd, op vordering van de uitgevende instelling of een derde aan wie de uitgevende instelling een volmacht heeft verleend degene tot wie het verzoek is gericht bevelen het gedane verzoek na te komen.
 
-2. Indien een verzoek als bedoeld in [artikel 49da, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49da&z=2020-09-03&g=2020-09-03) en [artikel 49db, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49db&z=2020-09-03&g=2020-09-03), niet wordt beantwoord, kan de rechtbank binnen wiens arrondissement de partij in de bewaarketen tot wie het verzoek is gericht is gevestigd, op vordering van de aandeelhouder of een derde aan wie de aandeelhouder een volmacht heeft verleend degene tot wie het verzoek is gericht bevelen het gedane verzoek na te komen.
+2. Indien een verzoek als bedoeld in [artikel 49da, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49da&z=2023-01-01&g=2023-01-01) en [artikel 49db, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003109&hoofdstuk=3a&artikel=49db&z=2023-01-01&g=2023-01-01), niet wordt beantwoord, kan de rechtbank binnen wiens arrondissement de partij in de bewaarketen tot wie het verzoek is gericht is gevestigd, op vordering van de aandeelhouder of een derde aan wie de aandeelhouder een volmacht heeft verleend degene tot wie het verzoek is gericht bevelen het gedane verzoek na te komen.
 
 3. De bevoegdheid om de vordering in te stellen vervalt door verloop van drie maanden vanaf de dag waarop de uitgevende instelling van de niet-beantwoording kennis heeft genomen of heeft kunnen nemen.
 
