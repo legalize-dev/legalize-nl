@@ -4,7 +4,7 @@ identifier: "BWBR0047337"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-04"
-last_updated: "2022-10-21"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047337"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **besluit:** [Besluit bekostiging WPO BES 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046152);
 
-- **school:** school als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=1&z=2022-10-21&g=2022-10-21);
+- **school:** school als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=1&z=2023-10-04&g=2023-01-01);
 
 - **wet:** [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280).
 
@@ -60,11 +60,11 @@ Het bedrag per school, bedoeld in [artikel 100, tweede lid, van de wet](https://
 
 ##### Artikel 4. Extra bekostiging voor zorg voor leerlingen met een specifieke onderwijsbehoefte op Bonaire, Sint Eustatius en Saba
 
-1. De extra bekostiging, bedoeld in [artikel 16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046152&artikel=16), bedraagt voor Bonaire USD 407.368,24. De extra bekostiging, bedoeld in [artikel 16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046152&artikel=16), bedraagt voor Sint Eustatius en Saba 11,50% van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=2&z=2022-10-21&g=2022-10-21) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=3&z=2022-10-21&g=2022-10-21).
+1. De extra bekostiging, bedoeld in [artikel 16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046152&artikel=16), bedraagt voor Bonaire USD 407.368,24. De extra bekostiging, bedoeld in [artikel 16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046152&artikel=16), bedraagt voor Sint Eustatius en Saba 11,50% van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=2&z=2023-10-04&g=2023-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=3&z=2023-10-04&g=2023-01-01).
 
 ##### Artikel 5. Extra bekostiging prijspeil Sint Eustatius en Saba
 
-De aanvullende bekostiging, bedoeld in [artikel 14, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046152&artikel=14), bedraagt 16% van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=2&z=2022-10-21&g=2022-10-21), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=3&z=2022-10-21&g=2022-10-21) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=4&z=2022-10-21&g=2022-10-21).
+De aanvullende bekostiging, bedoeld in [artikel 14, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046152&artikel=14), bedraagt 16% van de bedragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=2&z=2023-10-04&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=3&z=2023-10-04&g=2023-01-01) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047337&artikel=4&z=2023-10-04&g=2023-01-01).
 
 ##### Artikel 6. Extra bekostiging één school op een eiland
 
