@@ -4,7 +4,7 @@ identifier: "BWBR0042377"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2019-07-06"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042377"
 soort: "AMvB"
@@ -50,13 +50,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **Dienst landelijke informatieorganisatie:** de dienst, bedoeld in [artikel 3, eerste lid, onder d, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=3);
+- **Dienst landelijke intelligenceorganisatie:** de dienst, bedoeld in [artikel 3, eerste lid, onder d, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=3);
 
 - **wet:** de [Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0042301).
 
 ##### Artikel 2
 
-1. De in [artikel 10, eerste, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=10), bedoelde verstrekking van passagiersgegevens, onderscheidenlijk verwerkingsresultaten die, met bijbehorende passagiersgegevens, overeenkomstig [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=8) aan de bevoegde instanties zijn doorgegeven, kan worden geweigerd of aan beperkende voorwaarden worden onderworpen indien dit naar het oordeel van de Dienst landelijke informatieorganisatie:
+1. De in [artikel 10, eerste, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=10), bedoelde verstrekking van passagiersgegevens, onderscheidenlijk verwerkingsresultaten die, met bijbehorende passagiersgegevens, overeenkomstig [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=8) aan de bevoegde instanties zijn doorgegeven, kan worden geweigerd of aan beperkende voorwaarden worden onderworpen indien dit naar het oordeel van de Dienst landelijke intelligenceorganisatie:
 
 - a. essentiële nationale veiligheidsbelangen zou schaden;
 
@@ -76,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-De doorgifte van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042377&artikel=2&z=2019-07-06&g=2019-07-06), bedoelde gegevens aan Europol geschiedt onder de voorwaarde dat deze gegevens slechts kunnen worden verwerkt voor het voorkomen, opsporen, onderzoeken of vervolgen van terroristische of ernstige misdrijven.
+De doorgifte van de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042377&artikel=2&z=2023-01-01&g=2023-01-01), bedoelde gegevens aan Europol geschiedt onder de voorwaarde dat deze gegevens slechts kunnen worden verwerkt voor het voorkomen, opsporen, onderzoeken of vervolgen van terroristische of ernstige misdrijven.
 
 ##### Artikel 4
 
