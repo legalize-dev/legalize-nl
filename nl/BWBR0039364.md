@@ -4,7 +4,7 @@ identifier: "BWBR0039364"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-01-01"
-last_updated: "2017-03-24"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039364"
 soort: "ministeriele-regeling-BES"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) en de [Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263), zijn belast: personen in dienst bij de Rijksdienst Caribisch Nederland en werkzaam voor Agentschap Telecom van het Ministerie van Economische Zaken, alsmede inspecteurs van de afdeling Toezicht van Agentschap Telecom van het Ministerie van Economische Zaken.
+Met het toezicht op de naleving van het bepaalde bij of krachtens de [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469), zijn belast: personen in dienst bij de Rijksdienst Caribisch Nederland en werkzaam voor de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat, alsmede inspecteurs van het team Caribisch Nederland en inspecteurs van de directie Infrastructuur van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 2
 
@@ -50,6 +50,6 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ##### Artikel 3
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouder Wet telecommunicatievoorzieningen BES en Wet post BES.
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouder Wet telecommunicatievoorzieningen BES.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
