@@ -4,7 +4,7 @@ identifier: "BWBR0004613"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2022-08-02"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004613"
 soort: "AMvB"
@@ -214,7 +214,7 @@ Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd dege
 
 ##### Artikel 14
 
-1. Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene, anders dan bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2022-08-02&g=2022-08-02), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=8&z=2022-08-02&g=2022-08-02) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=12&z=2022-08-02&g=2022-08-02), die buiten Nederland woont, in dienst is van een buiten Nederland wonende of gevestigde werkgever en tijdelijk in Nederland werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan zes maanden, gerekend vanaf de aanvang van die werkzaamheden, in Nederland zullen worden verricht.
+1. Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd degene, anders dan bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2023-01-01&g=2023-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=8&z=2023-01-01&g=2023-01-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=12&z=2023-01-01&g=2023-01-01), die buiten Nederland woont, in dienst is van een buiten Nederland wonende of gevestigde werkgever en tijdelijk in Nederland werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan zes maanden, gerekend vanaf de aanvang van die werkzaamheden, in Nederland zullen worden verricht.
 
 2. Onze Minister is bevoegd in bepaalde gevallen van het eerste lid en de aldaar genoemde termijn af te wijken. Een buiten Nederland en op het continentaal plat doorgebrachte verlofperiode geldt niet als onderbreking van zowel de termijn, genoemd in het eerste lid, als de termijn, vastgesteld na toepassing van de eerste volzin.
 
@@ -258,7 +258,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende toelichting in het *
 
 ##### Artikel 3a. Buiten Nederland en Europa werkzaam
 
-1. Onverminderd de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2022-08-02&g=2022-08-02) en [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4b&z=2022-08-02&g=2022-08-02) wordt als werknemer in de zin van de werknemersverzekeringen beschouwd degene die:
+1. Onverminderd de [artikelen 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4a&z=2023-01-01&g=2023-01-01) en [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4b&z=2023-01-01&g=2023-01-01) wordt als werknemer in de zin van de werknemersverzekeringen beschouwd degene die:
 
 - a. de nationaliteit heeft van een van de lidstaten van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;
 
@@ -294,7 +294,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende toelichting in het *
 
 ##### Artikel 16b
 
-[Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2022-08-02&g=2022-08-02), is niet van toepassing ten aanzien van de particulier bediende, bedoeld in dat lid, indien deze persoon op de dag van inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) werknemer was in de zin van de werknemersverzekeringen.
+[Artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=7&z=2023-01-01&g=2023-01-01), is niet van toepassing ten aanzien van de particulier bediende, bedoeld in dat lid, indien deze persoon op de dag van inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) werknemer was in de zin van de werknemersverzekeringen.
 
 #### Slotbepalingen
 
@@ -305,3 +305,7 @@ Lasten en bevelen, dat dit besluit met de daarbij behorende toelichting in het *
 [Artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4b&z=2022-08-02&g=2022-08-02), zoals dat onmiddellijk voor 1 juli 2022 luidde, blijft van toepassing op personen die onmiddellijk voor die datum verzekerd waren voor de volksverzekeringen op grond van dat lid zolang de verzekering op die grond voortduurt.
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 16c
+
+[Artikel 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004613&artikel=4b&z=2023-01-01&g=2023-01-01), zoals dat onmiddellijk voor 1 juli 2022 luidde, blijft van toepassing op personen die onmiddellijk voor die datum verzekerd waren voor de werknemersverzekeringen op grond van dat lid zolang de verzekering op die grond voortduurt.
