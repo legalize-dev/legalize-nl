@@ -4,7 +4,7 @@ identifier: "BWBR0010480"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2023-01-01"
-last_updated: "2000-04-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010480"
 soort: "rijkswet"
@@ -53,7 +53,7 @@ Treedt voor Nederland in werking op 28 april 2000. Treedt voor Aruba en de Neder
 
 ##### Artikel 2
 
-De buitengrens van de exclusieve economische zone wordt voor Nederland vastgesteld bij algemene maatregel van bestuur en voor de Nederlandse Antillen, onderscheidenlijk Aruba, bij algemene maatregel van rijksbestuur.
+De buitengrens van de exclusieve economische zone wordt voor Nederland vastgesteld bij algemene maatregel van bestuur en voor Curaçao, Aruba, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba bij algemene maatregel van rijksbestuur.
 
 ##### Artikel 3
 
