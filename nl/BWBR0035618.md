@@ -4,7 +4,7 @@ identifier: "BWBR0035618"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-12"
-last_updated: "2022-11-04"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035618"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1. Vaststelling regio’s
 
-De regio’s, bedoeld in [artikel 2.3.1, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden vastgesteld als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=1&z=2022-11-04&g=2022-11-04) bij deze regeling.
+De regio’s, bedoeld in [artikel 2.3.1, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden vastgesteld als aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=1&z=2022-11-04&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 2. Aanwijzing contactgemeenten
 
-De contactgemeenten, bedoeld in [artikel 2.3.1, tweede lid, tweede volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden aangewezen als aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=2&z=2022-11-04&g=2022-11-04) bij deze regeling.
+De contactgemeenten, bedoeld in [artikel 2.3.1, tweede lid, tweede volzin, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.3.1) worden aangewezen als aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&bijlage=2&z=2022-11-04&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 3. [Uitvoeringsregeling WEB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0024795)
 
@@ -64,7 +64,7 @@ Deze regeling wordt aangehaald als: Regeling regio’s en contactgemeenten educa
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-## Bijlage 1. Vaststelling regio’s, behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=1&z=2022-11-04&g=2022-11-04) van de Regeling regio’s en contactgemeenten educatie
+## Bijlage 1. Vaststelling regio’s, behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=1&z=2022-11-04&g=2023-01-01) van de Regeling regio’s en contactgemeenten educatie
 
 |   | De regio educatie | omvat de volgende gemeenten: |
 | --- | --- | --- |
@@ -104,7 +104,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2015.
 | **34** | **Midden-Limburg** | Echt-Susteren, Leudal, Maasgouw, Nederweert, Roerdalen, Roermond, Weert |
 | **35** | **Zuid-Limburg** | Beek, Beekdaelen, Brunssum, Eijsden-Margraten, Gulpen-Wittem, Heerlen, Kerkrade, Landgraaf, Maastricht, Meerssen, Simpelveld, Sittard-Geleen, Stein, Vaals, Valkenburg aan de Geul, Voerendaal |
 
-## Bijlage 2. Aanwijzing contactgemeenten, behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=2&z=2022-11-04&g=2022-11-04) van de Regeling regio’s en contactgemeenten educatie
+## Bijlage 2. Aanwijzing contactgemeenten, behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035618&artikel=2&z=2022-11-04&g=2023-01-01) van de Regeling regio’s en contactgemeenten educatie
 
 |   | De regio | heeft de volgende contactgemeente |
 | --- | --- | --- |
