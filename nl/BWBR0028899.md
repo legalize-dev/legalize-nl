@@ -4,7 +4,7 @@ identifier: "BWBR0028899"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028899"
 soort: "wet"
@@ -199,13 +199,13 @@ Voor overige gevallen luidt het artikel als volgt:
 
 Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
-1. De vordering tot voeging of tussenkomst, bedoeld in [artikel 217 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=217), geldt voor de partij die de vordering instelt, als het aanvangen van een nieuwe zaak. Van hem wordt een bedrag aan griffierecht geheven met betrekking tot de vordering in de oorspronkelijke zaak op basis van de tabel die als bijlage bij deze wet is gevoegd. Geen griffierecht wordt geheven van de partij die zich voegt aan de zijde van de verweerder als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-01-01&g=2022-01-01).
+1. De vordering tot voeging of tussenkomst, bedoeld in [artikel 217 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=217), geldt voor de partij die de vordering instelt, als het aanvangen van een nieuwe zaak. Van hem wordt een bedrag aan griffierecht geheven met betrekking tot de vordering in de oorspronkelijke zaak op basis van de tabel die als bijlage bij deze wet is gevoegd. Geen griffierecht wordt geheven van de partij die zich voegt aan de zijde van de verweerder als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-01-01&g=2023-01-01).
 
 2. De partij, bedoeld in het eerste lid, is het griffierecht verschuldigd vanaf het tijdstip waarop hij de vordering tot voeging of tussenkomst indient en zorgt dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort.
 
 Voor overige gevallen luidt het artikel als volgt:
 
-1. De vordering tot voeging of tussenkomst, bedoeld in [artikel 217 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=217), geldt voor de partij die de vordering instelt, als het aanvangen van een nieuwe zaak. Van hem wordt een bedrag aan griffierecht geheven met betrekking tot de vordering in de oorspronkelijke zaak op basis van de tabel die als bijlage bij deze wet is gevoegd. Geen griffierecht wordt geheven van de partij die zich voegt aan de zijde van de gedaagde als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-01-01&g=2022-01-01).
+1. De vordering tot voeging of tussenkomst, bedoeld in [artikel 217 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=217), geldt voor de partij die de vordering instelt, als het aanvangen van een nieuwe zaak. Van hem wordt een bedrag aan griffierecht geheven met betrekking tot de vordering in de oorspronkelijke zaak op basis van de tabel die als bijlage bij deze wet is gevoegd. Geen griffierecht wordt geheven van de partij die zich voegt aan de zijde van de gedaagde als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-01-01&g=2023-01-01).
 
 2. De partij, bedoeld in het eerste lid, is het griffierecht verschuldigd vanaf het tijdstip waarop hij de vordering tot voeging of tussenkomst indient en zorgt dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort.
 
@@ -225,7 +225,7 @@ Voor overige gevallen luidt het artikel als volgt:
 
 ##### Artikel 7
 
-Het verzet door een derde tegen een vonnis of een arrest dat hem in zijn rechten benadeelt, bedoeld in de [negende titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Negende), geldt voor de derde die het verzet doet, als het aanvangen van een nieuwe zaak. [Artikel 3, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), zijn op de derde van overeenkomstige toepassing.
+Het verzet door een derde tegen een vonnis of een arrest dat hem in zijn rechten benadeelt, bedoeld in de [negende titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Negende), geldt voor de derde die het verzet doet, als het aanvangen van een nieuwe zaak. [Artikel 3, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), zijn op de derde van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -295,7 +295,7 @@ Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zi
 
 1. Op het griffierecht wordt in mindering gebracht het griffierecht dat reeds is voldaan in de zaak waarop de procesinleiding betrekking heeft.
 
-2. Indien in een zaak waarbij een vordering is ingesteld, de eiser de procesinleiding intrekt voordat de verweerder in de procedure is verschenen of uiterlijk in de procedure had kunnen verschijnen, wordt van de eiser een derde deel van het ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01) verschuldigde griffierecht geheven met een maximum van € 82 voor onvermogenden, € 273 voor natuurlijke personen en € 547 voor rechtspersonen. Indien de eiser het griffierecht reeds heeft voldaan, stort de griffier het te veel betaalde griffierecht aan de eiser terug.
+2. Indien in een zaak waarbij een vordering is ingesteld, de eiser de procesinleiding intrekt voordat de verweerder in de procedure is verschenen of uiterlijk in de procedure had kunnen verschijnen, wordt van de eiser een derde deel van het ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01) verschuldigde griffierecht geheven met een maximum van € 82 voor onvermogenden, € 273 voor natuurlijke personen en € 547 voor rechtspersonen. Indien de eiser het griffierecht reeds heeft voldaan, stort de griffier het te veel betaalde griffierecht aan de eiser terug.
 
 3. Dit lid is nog niet in werking getreden.
 
@@ -317,7 +317,7 @@ Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zi
 
 4. Partijen zijn het verhoogde griffierecht verschuldigd vanaf het tijdstip van de vermeerdering van de eis of het verzoek en zorgen dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort. Indien de rechter de vermeerdering van de eis of het verzoek echter buiten beschouwing laat, blijft de heffing beperkt tot het oorspronkelijk geheven bedrag en wordt het eventueel te veel betaalde griffierecht door de griffier teruggestort.
 
-5. Het griffierecht wordt niet verhoogd, indien op het tijdstip waarop de eis dan wel het verzoek wordt vermeerderd een van de stukken, bedoeld in [artikel 16, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=16&z=2022-01-01&g=2022-01-01), is overlegd.
+5. Het griffierecht wordt niet verhoogd, indien op het tijdstip waarop de eis dan wel het verzoek wordt vermeerderd een van de stukken, bedoeld in [artikel 16, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=16&z=2023-01-01&g=2023-01-01), is overlegd.
 
 Voor overige gevallen luidt het artikel als volgt:
 
@@ -329,7 +329,7 @@ Voor overige gevallen luidt het artikel als volgt:
 
 4. Partijen zijn het verhoogde griffierecht verschuldigd vanaf het tijdstip van de vermeerdering van de eis of het verzoek en zorgen dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort. Indien de rechter de vermeerdering van de eis of het verzoek echter buiten beschouwing laat, blijft de heffing beperkt tot het oorspronkelijk geheven bedrag en wordt het eventueel te veel betaalde griffierecht door de griffier teruggestort.
 
-5. Het griffierecht wordt niet verhoogd, indien op het tijdstip waarop de eis dan wel het verzoek wordt vermeerderd een van de stukken, bedoeld in [artikel 16, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=16&z=2022-01-01&g=2022-01-01), is overlegd.
+5. Het griffierecht wordt niet verhoogd, indien op het tijdstip waarop de eis dan wel het verzoek wordt vermeerderd een van de stukken, bedoeld in [artikel 16, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=16&z=2023-01-01&g=2023-01-01), is overlegd.
 
 ##### Artikel 13
 
@@ -391,23 +391,23 @@ Voor overige gevallen luidt het artikel als volgt:
 
 1. In elk faillissement betaalt de curator uit de baten van de boedel bij het deponeren van de eerste uitdelingslijst of zodra de uitspraak tot homologatie van een akkoord in kracht van gewijsde is gegaan, een griffierecht van € 666.
 
-2. Onder het griffierecht, bedoeld in het eerste lid, is niet begrepen het griffierecht dat ingevolge [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), wordt geheven voor verificatiegeschillen. Partijen zijn dit griffierecht verschuldigd vanaf hun verschijning op de bepaalde zitting en zorgen dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort.
+2. Onder het griffierecht, bedoeld in het eerste lid, is niet begrepen het griffierecht dat ingevolge [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), wordt geheven voor verificatiegeschillen. Partijen zijn dit griffierecht verschuldigd vanaf hun verschijning op de bepaalde zitting en zorgen dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort.
 
-3. Van de niet-geverifieerde schuldeiser die ingevolge [artikel 349aa van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=349aa) verzet doet tegen de uitdelingslijst, wordt overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), griffierecht geheven, met dien verstande dat indien tevens door wel geverifieerde schuldeisers verzet wordt gedaan tegen de uitdelingslijst, geen griffierecht wordt geheven.
+3. Van de niet-geverifieerde schuldeiser die ingevolge [artikel 349aa van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=349aa) verzet doet tegen de uitdelingslijst, wordt overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), griffierecht geheven, met dien verstande dat indien tevens door wel geverifieerde schuldeisers verzet wordt gedaan tegen de uitdelingslijst, geen griffierecht wordt geheven.
 
 4. Het eerste tot en met het derde lid zijn van overeenkomstige toepassing bij toepassing van de schuldsaneringsregeling natuurlijke personen.
 
 ##### Artikel 18
 
-1. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=17&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing in geval van een op de voet van [artikel 60b, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=60b) aan de curator gegeven opdracht om het beheer van de onder bewind staande goederen over te nemen en voor de vereffening zorg te dragen, gegeven door de rechtbank op verzoek van een schuldeiser die op de goederen verhaal heeft, maar niet in het faillissement kan opkomen.
+1. [Artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=17&z=2023-01-01&g=2023-01-01) is van overeenkomstige toepassing in geval van een op de voet van [artikel 60b, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=60b) aan de curator gegeven opdracht om het beheer van de onder bewind staande goederen over te nemen en voor de vereffening zorg te dragen, gegeven door de rechtbank op verzoek van een schuldeiser die op de goederen verhaal heeft, maar niet in het faillissement kan opkomen.
 
-2. [Artikel 17, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=17&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing in geval van benoeming door de rechter van een of meer vereffenaars van een ontbonden rechtspersoon, van een gemeenschap of van een nalatenschap.
+2. [Artikel 17, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=17&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing in geval van benoeming door de rechter van een of meer vereffenaars van een ontbonden rechtspersoon, van een gemeenschap of van een nalatenschap.
 
 ##### Artikel 19
 
-1. Voor de opening van een gerechtelijke rangregeling buiten faillissement en de benoeming van een rechter-commissaris als bedoeld in de [artikelen 481, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=481), [552, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=552), [584f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=584f) en [776 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=776) wordt van de verzoeker een griffierecht geheven van € 397. De [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=16&z=2022-01-01&g=2022-01-01) zijn van overeenkomstige toepassing.
+1. Voor de opening van een gerechtelijke rangregeling buiten faillissement en de benoeming van een rechter-commissaris als bedoeld in de [artikelen 481, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=481), [552, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=552), [584f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=584f) en [776 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=776) wordt van de verzoeker een griffierecht geheven van € 397. De [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=16&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing.
 
-2. In het geval van verwijzing ingevolge tegenspraak wordt griffierecht geheven overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-01-01&g=2022-01-01). Partijen zijn het griffierecht verschuldigd vanaf hun verschijning op de bepaalde zitting en zorgen dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort.
+2. In het geval van verwijzing ingevolge tegenspraak wordt griffierecht geheven overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01). Partijen zijn het griffierecht verschuldigd vanaf hun verschijning op de bepaalde zitting en zorgen dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort.
 
 ##### Artikel 20
 
@@ -461,11 +461,11 @@ Voor overige gevallen luidt het artikel als volgt:
 
 2. Voor de legalisatie van handtekeningen wordt voor iedere handtekening een griffierecht geheven van € 22, met dien verstande dat meerdere handtekeningen van dezelfde persoon op hetzelfde stuk als één handtekening worden beschouwd.
 
-3. Voor zover niet anders is bepaald in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=2&artikel=24&z=2022-01-01&g=2022-01-01) wordt voor de afgifte van apostilles als bedoeld in artikel 3, eerste lid, van het op 5 oktober 1961 te ’s-Gravenhage tot stand gekomen Verdrag tot afschaffing van het vereiste van legalisatie van buitenlandse openbare akten, een griffierecht geheven van € 22 voor iedere apostille.
+3. Voor zover niet anders is bepaald in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=2&artikel=24&z=2023-01-01&g=2023-01-01) wordt voor de afgifte van apostilles als bedoeld in artikel 3, eerste lid, van het op 5 oktober 1961 te ’s-Gravenhage tot stand gekomen Verdrag tot afschaffing van het vereiste van legalisatie van buitenlandse openbare akten, een griffierecht geheven van € 22 voor iedere apostille.
 
 ##### Artikel 24
 
-Geen griffierecht wordt geheven van openbare colleges en van ambtenaren van openbare lichamen voor de afgifte van afschriften of uittreksels van stukken, of de legalisaties van handtekeningen dan wel afgifte van apostilles als bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=2&artikel=23&z=2022-01-01&g=2022-01-01), voor zover zij deze stukken behoeven voor de waarneming van de dienst.
+Geen griffierecht wordt geheven van openbare colleges en van ambtenaren van openbare lichamen voor de afgifte van afschriften of uittreksels van stukken, of de legalisaties van handtekeningen dan wel afgifte van apostilles als bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&hoofdstuk=2&paragraaf=2&artikel=23&z=2023-01-01&g=2023-01-01), voor zover zij deze stukken behoeven voor de waarneming van de dienst.
 
 ##### Artikel 25
 
@@ -725,7 +725,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Voor de indiening van verzoeken als bedoeld in de [artikelen 42a](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=42a), [371, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=371), [376, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=376), [377, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=377), [378, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=378), [379, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=379), en [383, zevende lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=383) wordt van de verzoeker het griffierecht geheven bij de rechtbank voor andere zaken dan kantonzaken met betrekking tot een vordering van onbepaalde waarde op basis van de tabel die als bijlage bij deze wet is gevoegd.
 
-2. Voor de indiening van een verzoek tot homologatie van een akkoord als bedoeld in [artikel 383, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=383) wordt van de verzoeker het griffierecht geheven bij de rechtbank voor andere zaken dan kantonzaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100.000 op basis van de tabel die als bijlage bij deze wet is gevoegd.
+2. Voor de indiening van een verzoek tot homologatie van een akkoord als bedoeld in [artikel 383, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=383) wordt van de verzoeker het griffierecht geheven bij de rechtbank voor andere zaken dan kantonzaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100.000 en niet meer dan € 1.000.000 op basis van de tabel die als bijlage bij deze wet is gevoegd.
 
 3. Voor de indiening van een verzoek tot afwijzing van het verzoek tot homologatie van het akkoord als bedoeld in [artikel 383, achtste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=383) wordt van een stemgerechtigde schuldeiser of aandeelhouder het griffierecht geheven bij de rechtbank voor andere zaken dan kantonzaken op basis van de tabel die als bijlage bij deze wet is gevoegd. De hoogte van het griffierecht wordt bepaald aan de hand van het bedrag van hun vordering of het nominale bedrag van hun aandeel.
 
