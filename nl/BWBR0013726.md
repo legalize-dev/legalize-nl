@@ -4,7 +4,7 @@ identifier: "BWBR0013726"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2021-04-08"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013726"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Aan de voorzitter van de Commissie van advies inzake volkenrechtelijke vraagstuk
 
 ##### Artikel 2
 
-Aan de leden van de Commissie van advies inzake volkenrechtelijke vraagstukken wordt een vaste vergoeding per maand toegekend ter hoogte van 100% van salarisschaal 18, trede 10, van [bijlage I-B van de Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311&bijlage=I-B) met een arbeidsduurfactor van 0,0848. De leden van de Staatscommissie voor het internationaal privaatrecht ontvangen een vergoeding van € 235 per vergadering.
+Aan de leden van de Commissie van advies inzake volkenrechtelijke vraagstukken wordt een vaste vergoeding per maand toegekend ter hoogte van 100% van salarisschaal 18, trede 10, van [bijlage I-B van de Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311&bijlage=I-B) met een arbeidsduurfactor van 0,0848. De leden van de Staatscommissie voor het internationaal privaatrecht ontvangen een vergoeding van € 235 per vergadering. De secretaris en de adjunct-secretarissen van de Staatscommissie voor het internationaal privaatrecht ontvangen een vergoeding van € 100 per vergadering.
 
 ##### Artikel 3
 
@@ -59,6 +59,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-Na het verstrijken van de geldigheidsduur van de [Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311) wordt de vergoeding, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=1&z=2021-04-08&g=2021-04-08) en [artikel 2, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=2&z=2021-04-08&g=2021-04-08), voortgezet alsof de geldigheidsduur niet verstreken is, met dien verstande dat bij het tot stand komen van een nieuwe Arbeidsvoorwaardenovereenkomst sector Rijk gedurende de werkingssfeer van dit besluit de vergoedingen overeenkomstig wordt aangepast.
+Na het verstrijken van de geldigheidsduur van de [Arbeidsvoorwaardenovereenkomst sector Rijk 2018–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041311) wordt de vergoeding, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=1&z=2023-01-01&g=2023-01-01) en [artikel 2, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0013726&artikel=2&z=2023-01-01&g=2023-01-01), voortgezet alsof de geldigheidsduur niet verstreken is, met dien verstande dat bij het tot stand komen van een nieuwe Arbeidsvoorwaardenovereenkomst sector Rijk gedurende de werkingssfeer van dit besluit de vergoedingen overeenkomstig wordt aangepast.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
