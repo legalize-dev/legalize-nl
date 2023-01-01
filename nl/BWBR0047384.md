@@ -4,7 +4,7 @@ identifier: "BWBR0047384"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-11-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047384"
 soort: "wet"
@@ -55,7 +55,7 @@ Na de eerste verkiezing van de leden van het kiescollege geschiedt in afwijking 
 
 ##### Artikel 33
 
-De gedragscode, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=II&hoofdstuk=II&artikel=11&z=2022-11-01&g=2022-11-01), wordt vastgesteld uiterlijk in de kalendermaand voorafgaande aan de eerstvolgende verkiezing van de leden van de Eerste Kamer na de inwerkingtreding van deze wet.
+De gedragscode, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=II&hoofdstuk=II&artikel=11&z=2023-01-01&g=2023-01-01), wordt vastgesteld uiterlijk in de kalendermaand voorafgaande aan de eerstvolgende verkiezing van de leden van de Eerste Kamer na de inwerkingtreding van deze wet.
 
 ##### Artikel 34
 
@@ -63,81 +63,53 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel 35
 
-1. De leden van het kiescollege worden gekozen door degenen die Nederlander zijn, op de dag van de stemming voor de verkiezing van de leden van provinciale staten als bedoeld in [artikel J 1, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_1) de leeftijd van achttien jaar hebben bereikt en op de dag van kandidaatstelling voor de verkiezing van de leden van provinciale staten als bedoeld in [artikel F 1, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=F_1) geen ingezetenen van Nederland zijn, met uitzondering van degenen die op de dag van de kandidaatstelling hun werkelijke woonplaats hebben in Aruba, Curaçao of Sint Maarten.
-
-2. Deze uitzondering geldt niet voor:
-
-- a. de Nederlander die gedurende ten minste tien jaren ingezetene van Nederland is geweest;
-
-- b. de Nederlander die in Nederlandse openbare dienst in Aruba, Curaçao of Sint Maarten werkzaam is, alsmede zijn Nederlandse echtgenoot, geregistreerde partner of levensgezel en kinderen, voor zover dezen met hem een gemeenschappelijke huishouding voeren.
+Vervallen
 
 ##### Artikel 36
 
-1. Registratie van kiesgerechtigden voor de verkiezing van de leden van het kiescollege vindt plaats met overeenkomstige toepassing van het bepaalde bij en krachtens [hoofdstuk D van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&hoofdstuk=D), met dien verstande dat in [artikel D 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_2) in plaats van «aan wie kiesrecht toekomt op grond van [artikel B 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=B_1)» wordt gelezen: aan wie kiesrecht toekomt op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=35&z=2022-11-01&g=2022-11-01).
-
-2. Het eerste lid werkt terug tot het tijdstip dat het bij koninklijk besluit van 31 maart 2021 ingediende voorstel van wet tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), strekkende tot het opnemen van een bepaling over een door niet-ingezetenen gekozen kiescollege voor de verkiezing van de Eerste Kamer der Staten-Generaal (35 785), na tot wet te zijn verheven, in werking is getreden, met dien verstande dat het formulier dat burgemeester en wethouders van ’s-Gravenhage na inwerkingtreding van dat wetsvoorstel hebben ontvangen van een persoon als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=35&z=2022-11-01&g=2022-11-01), die tot doel had zich te registreren als kiesgerechtigde voor de verkiezing van de leden van het kiescollege, wordt geacht een aanvraag te zijn als bedoeld in het eerste lid in samenhang met [artikel D 3, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_3). De beslistermijn van zeven dagen uit [artikel D 9 van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=D_9) vangt niet eerder aan dan het tijdstip dat deze wet in werking treedt.
+Vervallen
 
 ##### Artikel 37
 
-Het centraal stembureau voor de verkiezing van de leden van provinciale staten van de provincie Zuid-Holland fungeert tevens als het centraal stembureau voor de verkiezing van de leden van het kiescollege.
+Vervallen
 
 ##### Artikel 38
 
-Registratie van een aanduiding voor de verkiezing van de leden van het kiescollege vindt plaats met overeenkomstige toepassing van het bepaalde bij en krachtens de [artikelen G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2) en [G 6 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_6), met dien verstande dat het centraal stembureau van de beslissing, bedoeld in artikel G 2, vijfde lid, mededeling doet in de Staatscourant.
+Vervallen
 
 ##### Artikel 39
 
-Het bepaalde bij of krachtens [artikel G 1a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1a) over het registreren van logo’s is van overeenkomstige toepassing op de verkiezing van de leden van het kiescollege, met dien verstande dat in plaats van het eerste lid, eerste volzin wordt gelezen: Een politieke groepering waarvan het logo niet reeds bij het centraal stembureau voor de verkiezing van de leden van de Tweede Kamer is geregistreerd, kan aan het centraal stembureau voor de verkiezing van de leden van het kiescollege schriftelijk verzoeken haar logo bij te schrijven in het register, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=38&z=2022-11-01&g=2022-11-01).
+Vervallen
 
 ##### Artikel 40
 
-1. Degene die als kiezer is geregistreerd als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=36&z=2022-11-01&g=2022-11-01), ontvangt als bewijs dat hij per brief mag stemmen voor de stemming een briefstembewijs.
-
-2. Op het briefstembewijs wordt een nummer vermeld.
-
-3. Overeenkomstig [artikel M 5, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_5) is er een register van briefstembewijzen voor de verkiezing van de leden van het kiescollege. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de gegevens die het register van briefstembewijzen bevat.
-
-4. De burgemeester van ’s-Gravenhage zendt de personen bedoeld in het eerste lid:
-
-- a. een geadresseerde retourenveloppe;
-
-- b. het briefstembewijs, bevattende een door de persoon te ondertekenen verklaring dat hij het stembiljet persoonlijk heeft ingevuld;
-
-- c. een enveloppe voor het stembiljet;
-
-- d. een handleiding voor de kiezer.
-
-Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toezending van de stembescheiden.
-
-5. De stukken, bedoeld in het tweede lid, worden aan de personen, bedoeld in het eerste lid, uiterlijk twaalf weken voor de dag van de stemming toegezonden. Aan kiezers die hun werkelijke woonplaats in Aruba, Curaçao of Sint Maarten hebben, worden de stembescheiden met tussenkomst van de Vertegenwoordiging van Nederland in Aruba, Curaçao of Sint Maarten toegezonden.
-
-6. Bij ministeriële regeling worden voor de stukken, bedoeld in het tweede lid, onder a tot en met d, modellen vastgesteld. Onze Minister verstrekt tijdig voor de verkiezing aan de gemeente ’s-Gravenhage de informatie die nodig is voor het produceren van het briefstembewijs.
+Vervallen
 
 ##### Artikel 41
 
-Wijzigt deze wet.
+Vervallen
 
 ##### Artikel 42
 
-Dit onderdeel is nog niet inwerking getreden
+De kiesgerechtigden die op grond van [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=36&z=2023-01-01&g=2023-01-01), in samenhang met [artikel D 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_2) zijn geregistreerd, worden geacht geregistreerd te zijn op basis van [artikel Pa 3 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Pa_3).
 
 ##### Artikel 43
 
-Dit onderdeel is nog niet inwerking getreden
+De aanduidingen die zijn geregistreerd op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=38&z=2023-01-01&g=2023-01-01) in samenhang met [artikel G 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2), worden geacht geregistreerd te zijn op basis van [artikel Pa 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Pa_1) in samenhang met artikel G 2 van de Kieswet.
 
 ##### Artikel 44
 
-Dit onderdeel is nog niet inwerking getreden
+De logo’s die zijn geregistreerd op grond van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=39&z=2023-01-01&g=2023-01-01) in samenhang met [artikel 4 van de Tijdelijke experimentenwet stembiljetten en centrale stemopneming](https://wetten.overheid.nl/jci1.3:c:BWBR0033598&artikel=4) dan wel in samenhang met [artikel G 1a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1a), worden geacht geregistreerd te zijn op basis van [artikel Pa 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Pa_8).
 
 ##### Artikel 45
 
-Dit onderdeel is nog niet inwerking getreden
+De gegevens die het register bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=40&z=2023-01-01&g=2023-01-01), bevat, worden opgenomen in het register bedoeld in [artikel M 5, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_5).
 
 ##### Artikel 46
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=III&artikel=30&z=2022-11-01&g=2022-11-01), [42 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=42&z=2022-11-01&g=2022-11-01) in werking treden. Op dit tijdstip vervallen de artikelen [35 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=35&z=2022-11-01&g=2022-11-01).
+2. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=III&artikel=30&z=2023-01-01&g=2023-01-01), [42 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=42&z=2023-01-01&g=2023-01-01) in werking treden. Op dit tijdstip vervallen de artikelen [35 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=35&z=2023-01-01&g=2023-01-01).
 
 3. Indien het bij koninklijk besluit van 31 maart 2021 ingediende voorstel van wet tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), strekkende tot het opnemen van een bepaling over een door niet-ingezetenen gekozen kiescollege voor de verkiezing van de Eerste Kamer der Staten-Generaal (35 785), na tot wet te zijn verheven in werking is getreden voor het tijdstip waarop deze wet in werking treedt, eindigt de termijn gedurende welke [artikel 55 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=55), naar de tekst van 2017, van kracht blijft, op het tijdstip waarop deze wet in werking treedt.
 
@@ -365,7 +337,7 @@ De leden van het kiescollege stemmen zonder last.
 
 - a. ingeval opnieuw wordt gestemd over een voorstel ten aanzien waarvan in een vorige vergadering een stemming op grond van dat lid niet geldig was;
 
-- b. in een vergadering als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=II&hoofdstuk=II&artikel=16&z=2022-11-01&g=2022-11-01), voor zover het betreft onderwerpen die in de daaraan voorafgaande, ingevolge artikel 16, eerste lid, niet geopende vergadering aan de orde waren gesteld.
+- b. in een vergadering als bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=II&hoofdstuk=II&artikel=16&z=2023-01-01&g=2023-01-01), voor zover het betreft onderwerpen die in de daaraan voorafgaande, ingevolge artikel 16, eerste lid, niet geopende vergadering aan de orde waren gesteld.
 
 ##### Artikel 23
 
@@ -432,8 +404,6 @@ Voor het tot stand komen van een beslissing bij stemming wordt de volstrekte mee
 ##### Artikel 30
 
 Wijzigt de Kieswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ## Titel IV. Overgangs- en slotbepalingen
 
