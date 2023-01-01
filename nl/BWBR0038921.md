@@ -4,7 +4,7 @@ identifier: "BWBR0038921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-23"
-last_updated: "2016-12-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038921"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **besluit nr. 2013/638/EU:** Besluit van de Commissie van 12 augustus 2013 betreffende essentiële eisen ten aanzien van radioapparatuur die bedoeld is om op niet-Solas-schepen te worden gebruikt voor deelname aan het wereldwijde maritieme nood- en veiligheidssysteem (GMDSS) (PbEU L 296);
 
-- g. **Agentschap Telecom:** Agentschap Telecom van het Ministerie van Economische Zaken.
+- g. **Rijksinspectie Digitale Infrastructuur:** Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 2
 
@@ -90,7 +90,7 @@ De overeenkomsten bedoeld in [artikel 1, onderdeel l, van het Besluit radioappar
 
 ##### Artikel 4
 
-1. Een marktdeelnemer deelt, op verzoek, aan het Agentschap Telecom de identiteit mee van:
+1. Een marktdeelnemer deelt, op verzoek, aan de Rijksinspectie Digitale Infrastructuur de identiteit mee van:
 
 - a. elke marktdeelnemer die een radioapparaat aan hem heeft geleverd;
 
@@ -100,7 +100,7 @@ De overeenkomsten bedoeld in [artikel 1, onderdeel l, van het Besluit radioappar
 
 ##### Artikel 5
 
-1. Een aanvraag tot aanwijzing als bedoeld in [artikel 8 van het Besluit radioapparaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&artikel=8) wordt ingediend bij het Agentschap Telecom van het Ministerie van Economische Zaken.
+1. Een aanvraag tot aanwijzing als bedoeld in [artikel 8 van het Besluit radioapparaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&artikel=8) wordt ingediend bij de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 2. De aanvraag, bedoeld in het eerste lid, bevat:
 
@@ -112,7 +112,7 @@ De overeenkomsten bedoeld in [artikel 1, onderdeel l, van het Besluit radioappar
 
 ##### Artikel 6
 
-1. Een aanvraag om een aanwijzing als bedoeld in [artikel 13, eerste lid, van het Besluit radioapparaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&artikel=13) wordt ingediend bij het Agentschap Telecom van het Ministerie van Economische Zaken.
+1. Een aanvraag om een aanwijzing als bedoeld in [artikel 13, eerste lid, van het Besluit radioapparaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&artikel=13) wordt ingediend bij de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 2. De aanvraag, bedoeld in het eerste lid, bevat:
 
@@ -122,11 +122,11 @@ De overeenkomsten bedoeld in [artikel 1, onderdeel l, van het Besluit radioappar
 
 ##### Artikel 7
 
-Indien de aanwijzing van een aangemelde instantie wordt beperkt, geschorst of ingetrokken of indien een aangemelde instantie haar activiteiten heeft gestaakt, draagt zij alle relevante dossiers ten aanzien van conformiteitsbeoordelingsactiviteiten in het kader van die aanwijzing over aan diens rechtsopvolger, of, indien niet aanwezig, aan de Minister van Economische Zaken.
+Indien de aanwijzing van een aangemelde instantie wordt beperkt, geschorst of ingetrokken of indien een aangemelde instantie haar activiteiten heeft gestaakt, draagt zij alle relevante dossiers ten aanzien van conformiteitsbeoordelingsactiviteiten in het kader van die aanwijzing over aan diens rechtsopvolger, of, indien niet aanwezig, aan de Minister van Economische Zaken en Klimaat.
 
 ##### Artikel 8
 
-De Minister van Economische Zaken wijst slechts een instantie aan als een overeenstemmingsbeoordelingsorgaan als bedoeld in [artikel 13, eerste lid, van het Besluit radioapparaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&artikel=13) voor een in kolom 2 genoemd land indien voldaan is aan de bepalingen genoemd in kolom 4 van de overeenkomst genoemd in kolom 3.
+De Minister van Economische Zaken en Klimaat wijst slechts een instantie aan als een overeenstemmingsbeoordelingsorgaan als bedoeld in [artikel 13, eerste lid, van het Besluit radioapparaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038910&artikel=13) voor een in kolom 2 genoemd land indien voldaan is aan de bepalingen genoemd in kolom 4 van de overeenkomst genoemd in kolom 3.
 
 | 1 | 2 | 3 | 4 |
 | --- | --- | --- | --- |
