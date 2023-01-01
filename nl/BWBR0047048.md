@@ -4,7 +4,7 @@ identifier: "BWBR0047048"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2022-08-12"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047048"
 soort: "ministeriele-regeling"
@@ -72,15 +72,15 @@ De verkrijger of houder van een vergunning als bedoeld in de onderdelen a tot en
 
 ##### Artikel 3. Betaling eenmalige bedragen
 
-1. De verkrijger of de houder van een vergunning als bedoeld in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0047048&artikel=2&z=2022-08-12&g=2022-08-12), waarvan de geldigheidsduur ambtshalve is verlengd, betaalt het bedrag, bedoeld in artikel 2, in zijn geheel op een bij beschikking van de minister te bepalen datum.
+1. De verkrijger of de houder van een vergunning als bedoeld in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0047048&artikel=2&z=2023-01-01&g=2023-01-01), waarvan de geldigheidsduur ambtshalve is verlengd, betaalt het bedrag, bedoeld in artikel 2, in zijn geheel op een bij beschikking van de minister te bepalen datum.
 
-2. De betaling wordt verricht door overmaking op het bankrekeningnummer 705001199, IBAN: NL41INGB0705001199, BIC: INGBNL2A, ten name van Ministerie van Economische Zaken en Klimaat, Agentschap Telecom, Afdeling Finance & Control, onder vermelding van de desbetreffende kavel in de FM-band en van ‘ambtshalve verlenging vergunning voor landelijke commerciële radio-omroep’.
+2. De betaling wordt verricht door overmaking op het bankrekeningnummer 705001199, IBAN: NL41INGB0705001199, BIC: INGBNL2A, ten name van Ministerie van Economische Zaken en Klimaat, Rijksinspectie Digitale Infrastructuur, Afdeling Finance & Control, onder vermelding van de desbetreffende kavel in de FM-band en van ‘ambtshalve verlenging vergunning voor landelijke commerciële radio-omroep’.
 
-3. De minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) genomen besluit, verrekenen met een vordering op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047048&artikel=2&z=2022-08-12&g=2022-08-12).
+3. De minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) genomen besluit, verrekenen met een vordering op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047048&artikel=2&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 4. Restitutie (gedeelte van) eenmalige bedragen na inleveren vergunning door vergunninghouder
 
-1. Indien de minister in de periode van 1 september 2022 tot en met 31 augustus 2023 een vergunning als bedoeld in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0047048&artikel=2&z=2022-08-12&g=2022-08-12), intrekt op grond van [artikel 3.19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19), betaalt de minister aan de houder wiens vergunning wordt ingetrokken een restitutie waarvan de hoogte wordt berekend aan de hand van de volgende formule, mits deze berekening een positief bedrag oplevert:
+1. Indien de minister in de periode van 1 september 2022 tot en met 31 augustus 2023 een vergunning als bedoeld in [artikel 2, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0047048&artikel=2&z=2023-01-01&g=2023-01-01), intrekt op grond van [artikel 3.19, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19), betaalt de minister aan de houder wiens vergunning wordt ingetrokken een restitutie waarvan de hoogte wordt berekend aan de hand van de volgende formule, mits deze berekening een positief bedrag oplevert:
 
 2. Bij de toepassing van de formule, bedoeld in het eerste lid, wordt:
 
@@ -88,7 +88,7 @@ De verkrijger of houder van een vergunning als bedoeld in de onderdelen a tot en
 
 - b. voor de ‘y’ ingevuld het aantal dagen dat sinds 1 september 2022 is verstreken tot en met de dag waarop de betreffende vergunning wordt ingetrokken, en
 
-- c. voor de ‘z’ ingevuld het bedrag dat de vergunninghouder op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047048&artikel=2&z=2022-08-12&g=2022-08-12) was verschuldigd voor de betreffende vergunning.
+- c. voor de ‘z’ ingevuld het bedrag dat de vergunninghouder op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047048&artikel=2&z=2023-01-01&g=2023-01-01) was verschuldigd voor de betreffende vergunning.
 
 3. De uitkomst van de formule, bedoeld in het eerste lid, wordt:
 
