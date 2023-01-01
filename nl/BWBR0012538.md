@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-04-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -184,7 +184,7 @@ Vervallen
 
 5. De codering volgens het ‘serialized user protocol’ of het ‘standard location protocol’ resulteert in een 15-digit hexadecimale code.
 
-6. De 15-digit hexadecimale codes, alsmede de wijzigingen daarin en de bijbehorende gegevens van het vliegtuig, de gegevens van de contactpersonen, worden door de directeur-hoofdinspecteur van het Agentschap Telecom van het Ministerie van Economische Zaken opgenomen in het gegevensbestand van de opsporings- en reddingsdienst in Nederland. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de opsporings-en reddingsdienst in Nederland opgenomen, alsmede afwijkend geprogrammeerde ELT’s na verkregen toestemming van de Minister.
+6. De 15-digit hexadecimale codes, alsmede de wijzigingen daarin en de bijbehorende gegevens van het vliegtuig, de gegevens van de contactpersonen, worden door de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat opgenomen in het gegevensbestand van de opsporings- en reddingsdienst in Nederland. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de opsporings-en reddingsdienst in Nederland opgenomen, alsmede afwijkend geprogrammeerde ELT’s na verkregen toestemming van de Minister.
 
 7. Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de bij het luchtvaartuig behorende ELT’s.
 
@@ -194,7 +194,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2020-04-01&g=2020-04-01) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2023-01-01&g=2023-01-01) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -283,7 +283,7 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 13b
 
-Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2020-04-01&g=2020-04-01), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2023-01-01&g=2023-01-01), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
 ##### Artikel 13c
 
@@ -339,7 +339,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 ##### Artikel 13h
 
-1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2020-04-01&g=2020-04-01) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2023-01-01&g=2023-01-01) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
 2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
 
