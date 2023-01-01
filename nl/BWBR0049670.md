@@ -4,7 +4,7 @@ identifier: "BWBR0049670"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2022-04-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049670"
 soort: "wet"
@@ -163,8 +163,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXII. [Wet van 9 februari 2022 tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0046751) (STB. 2022, 135)
 
 Wijzigt de Wijzigingswet Wet op het primair onderwijs, enz. (aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs).
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII. [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
 
