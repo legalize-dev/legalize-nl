@@ -4,7 +4,7 @@ identifier: "BWBR0041256"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-07-26"
-last_updated: "2018-08-21"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041256"
 soort: "zbo"
@@ -83,7 +83,7 @@ In deze regeling wordt verstaan onder:
 
 - d). bekend zijn met de ‘Werkinstructie verzoekprocedures moratorium, voorlopige voorziening, dwangakkoord’, zoals te vinden is op www.bureauwsnp.nl.
 
-2. De Raad kan in zwaarwegende omstandigheden de overeenkomst weigeren aan te gaan indien uit concrete feiten of omstandigheden is gebleken, al dan niet naar aanleiding van een eerder advies van de klachtencommissie, van enig handelen of nalaten in strijd met een zorgvuldige en doelmatige rechtsbijstandverlening en/of niet hebben voldaan aan de voorwaarden genoemd in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=3&z=2018-08-21&g=2018-08-21).
+2. De Raad kan in zwaarwegende omstandigheden de overeenkomst weigeren aan te gaan indien uit concrete feiten of omstandigheden is gebleken, al dan niet naar aanleiding van een eerder advies van de klachtencommissie, van enig handelen of nalaten in strijd met een zorgvuldige en doelmatige rechtsbijstandverlening en/of niet hebben voldaan aan de voorwaarden genoemd in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=3&z=2018-08-21&g=2023-01-01).
 
 ##### Artikel 3
 
@@ -107,11 +107,11 @@ In deze regeling wordt verstaan onder:
 
 - ii. de [gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0034033); en/of
 
-- iii. de in [artikel 2 lid 1 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=2&z=2018-08-21&g=2018-08-21) van deze regeling gestelde voorwaarde;
+- iii. de in [artikel 2 lid 1 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=2&z=2018-08-21&g=2023-01-01) van deze regeling gestelde voorwaarde;
 
 - b). indien het bestuur, al dan niet naar aanleiding van een advies van de klachtencommissie, tot oordeel komt dat voortzetting van de overeenkomst niet langer verantwoord is.
 
-3. De beëindiging van de overeenkomst geldt voor een periode van minimaal één jaar. Voor het sluiten van een nieuwe overeenkomst gelden de voorwaarden zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=2&z=2018-08-21&g=2018-08-21) van deze regeling.
+3. De beëindiging van de overeenkomst geldt voor een periode van minimaal één jaar. Voor het sluiten van een nieuwe overeenkomst gelden de voorwaarden zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=2&z=2018-08-21&g=2023-01-01) van deze regeling.
 
 ##### Artikel 4
 
@@ -127,7 +127,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-De rechtsbijstand waarvoor een toevoeging kan worden verleend, is strikt beperkt tot het voeren van verzoekschriftenprocedures, zoals bedoeld in [artikel 1 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=1&z=2018-08-21&g=2018-08-21).
+De rechtsbijstand waarvoor een toevoeging kan worden verleend, is strikt beperkt tot het voeren van verzoekschriftenprocedures, zoals bedoeld in [artikel 1 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=1&z=2018-08-21&g=2023-01-01).
 
 ##### Artikel 6
 
