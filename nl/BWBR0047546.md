@@ -1,0 +1,54 @@
+---
+title: "Besluit premievaststelling vrijwillige verzekering WAO 2023"
+identifier: "BWBR0047546"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047546"
+soort: "zbo"
+stam_id: "16580783"
+version_id: "29072832"
+internal_id: "C41327221"
+label_id: "16500364"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047546/2023-01-01/0"
+intitule_bron: "Stcrt.2022-32206"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-16"
+intitule_published: "2022-11-30"
+intitule_in_force: "2022-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-32206"
+original_signed_date: "2022-11-16"
+original_published_date: "2022-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-32206"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047546&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047546&g=2023-01-01"
+citeertitel_status: "officieel"
+signed_date: "2022-11-16"
+entry_into_force: "2023-01-01"
+---
+# Besluit premievaststelling vrijwillige verzekering WAO 2023
+
+Gelet op [artikel 75, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=75);
+
+Besluit:
+
+##### Artikel 1
+
+De premie voor de vrijwillige verzekering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt voor het kalenderjaar 2023 vastgesteld op 7,11%.
+
+##### Artikel 2
+
+Dit besluit treedt in werking met ingang van 1 januari 2023.
+
+##### Artikel 3
+
+Dit besluit wordt aangehaald als: Besluit premievaststelling vrijwillige verzekering WAO 2023.
+
+Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
