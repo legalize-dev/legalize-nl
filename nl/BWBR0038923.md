@@ -4,7 +4,7 @@ identifier: "BWBR0038923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2016-12-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038923"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ De overeenkomsten bedoeld in [artikel 1, onderdeel n, van het Besluit elektromag
 
 ##### Artikel 2
 
-1. Een marktdeelnemer deelt, op verzoek, aan het Agentschap Telecom de identiteit mee van:
+1. Een marktdeelnemer deelt, op verzoek, aan de Rijksinspectie Digitale Infrastructuur de identiteit mee van:
 
 - a. elke marktdeelnemer die een apparaat aan hem heeft geleverd;
 
@@ -70,7 +70,7 @@ De overeenkomsten bedoeld in [artikel 1, onderdeel n, van het Besluit elektromag
 
 ##### Artikel 3
 
-1. Een aanvraag tot aanwijzing als bedoeld in [artikel 11, eerste lid, van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=11) wordt ingediend bij het Agentschap Telecom van het Ministerie van Economische Zaken.
+1. Een aanvraag tot aanwijzing als bedoeld in [artikel 11, eerste lid, van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=11) wordt ingediend bij de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 2. De aanvraag, bedoeld in het eerste lid, bevat:
 
@@ -82,7 +82,7 @@ De overeenkomsten bedoeld in [artikel 1, onderdeel n, van het Besluit elektromag
 
 ##### Artikel 4
 
-1. Een aanvraag om een aanwijzing als bedoeld in [artikel 16, eerste lid, van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=16) wordt ingediend bij het Agentschap Telecom van het Ministerie van Economische Zaken.
+1. Een aanvraag om een aanwijzing als bedoeld in [artikel 16, eerste lid, van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=16) wordt ingediend bij de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 2. De aanvraag, bedoeld in het eerste lid, bevat:
 
@@ -92,11 +92,11 @@ De overeenkomsten bedoeld in [artikel 1, onderdeel n, van het Besluit elektromag
 
 ##### Artikel 5
 
-Indien de aanwijzing van een aangemelde instantie wordt beperkt, geschorst of ingetrokken of indien een aangemelde instantie haar activiteiten heeft gestaakt, draagt zij alle relevante dossiers ten aanzien van conformiteitsbeoordelingsactiviteiten in het kader van die aanwijzing over aan haar rechtsopvolger, of, indien niet aanwezig, aan de Minister van Economische Zaken.
+Indien de aanwijzing van een aangemelde instantie wordt beperkt, geschorst of ingetrokken of indien een aangemelde instantie haar activiteiten heeft gestaakt, draagt zij alle relevante dossiers ten aanzien van conformiteitsbeoordelingsactiviteiten in het kader van die aanwijzing over aan haar rechtsopvolger, of, indien niet aanwezig, aan de Minister van Economische Zaken en Klimaat.
 
 ##### Artikel 6
 
-De Minister van Economische Zaken wijst slechts een instantie aan als een overeenstemmingsbeoordelingsorgaan als bedoeld in [artikel 16, eerste lid, van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=16) voor een in kolom 2 genoemd land indien voldaan is aan de bepalingen genoemd in kolom 4 van de overeenkomst genoemd in kolom 3.
+De Minister van Economische Zaken en Klimaat wijst slechts een instantie aan als een overeenstemmingsbeoordelingsorgaan als bedoeld in [artikel 16, eerste lid, van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=16) voor een in kolom 2 genoemd land indien voldaan is aan de bepalingen genoemd in kolom 4 van de overeenkomst genoemd in kolom 3.
 
 | 1 | 2 | 3 | 4 |
 | --- | --- | --- | --- |
@@ -110,7 +110,7 @@ De Minister van Economische Zaken wijst slechts een instantie aan als een overee
 
 ##### Artikel 7
 
-1. De Minister van Economische Zaken kan maatregelen nemen om de ingebruikneming of het gebruik van uitrusting die voldoet aan de beschermingseisen, bedoeld in [artikel 3, eerste en tweede lid, van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=3) te beperken:
+1. De Minister van Economische Zaken en Klimaat kan maatregelen nemen om de ingebruikneming of het gebruik van uitrusting die voldoet aan de beschermingseisen, bedoeld in [artikel 3, eerste en tweede lid, van het Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913&artikel=3) te beperken:
 
 - a. om een bestaand of te verwachten probleem in verband met elektromagnetische compatibiliteit op een bepaalde locatie te verhelpen, of
 
