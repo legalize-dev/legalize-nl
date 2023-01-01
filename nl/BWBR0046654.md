@@ -4,7 +4,7 @@ identifier: "BWBR0046654"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-01-01"
-last_updated: "2022-05-13"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046654"
 soort: "ministeriele-regeling-BES"
@@ -50,13 +50,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Als vergoedingen worden vastgesteld de vergoedingen die zijn opgenomen in de bij deze regeling behorende [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=I&z=2022-05-13&g=2022-05-13) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=II&z=2022-05-13&g=2022-05-13).
+Als vergoedingen worden vastgesteld de vergoedingen die zijn opgenomen in de bij deze regeling behorende [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=I&z=2023-01-01&g=2023-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=II&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 3
 
-1. Voor de kosten van de bemoeiingen met betrekking tot werkzaamheden en diensten die niet zijn genoemd in de bij deze regeling behorende [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=I&z=2022-05-13&g=2022-05-13) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=II&z=2022-05-13&g=2022-05-13), is een vergoeding verschuldigd die wordt vastgesteld op grond van een uurtarief van USD 116.
+1. Voor de kosten van de bemoeiingen met betrekking tot werkzaamheden en diensten die niet zijn genoemd in de bij deze regeling behorende [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=I&z=2023-01-01&g=2023-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=II&z=2023-01-01&g=2023-01-01), is een vergoeding verschuldigd die wordt vastgesteld op grond van een uurtarief van USD 116.
 
-2. Bij onregelmatigheid of overwerk kan de vergoeding, bedoeld in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=I&z=2022-05-13&g=2022-05-13) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=II&z=2022-05-13&g=2022-05-13), worden verhoogd met een toeslag van 30% voor onregelmatigheid of 50% voor overwerk.
+2. Bij onregelmatigheid of overwerk kan de vergoeding, bedoeld in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=I&z=2023-01-01&g=2023-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=II&z=2023-01-01&g=2023-01-01), worden verhoogd met een toeslag van 30% voor onregelmatigheid of 50% voor overwerk.
 
 ##### Artikel 4
 
@@ -68,9 +68,9 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 6
 
-Deze regeling wordt aangehaald als: Regeling vergoeding telecommunicatievoorzieningen Agentschap Telecom BES 2022.
+Deze regeling wordt aangehaald als: Regeling vergoeding telecommunicatievoorzieningen Rijksinspectie Digitale Infrastructuur BES 2022.
 
-## Bijlage I. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&artikel=2&z=2022-05-13&g=2022-05-13) van de Regeling vergoedingen telecommunicatievoorzieningen Agentschap Telecom BES 2022
+## Bijlage I. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&artikel=2&z=2023-01-01&g=2023-01-01) van de Regeling vergoedingen telecommunicatievoorzieningen Rijksinspectie Digitale Infrastructuur BES 2022
 
 Toelichting tabel:
 
@@ -245,7 +245,7 @@ II = vergoeding voor het toezicht
 |   | **3** | **Radioamateur** |   |   |
 |   |   | Machtiging A, B, C, F of N Radiotechniek en voorschriften | USD 42 |   |
 
-## Bijlage II. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&artikel=2&z=2022-05-13&g=2022-05-13) van de Regeling vergoedingen telecommunicatievoorzieningen Agentschap Telecom BES 2022
+## Bijlage II. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&artikel=2&z=2023-01-01&g=2023-01-01) van de Regeling vergoedingen telecommunicatievoorzieningen Rijksinspectie Digitale Infrastructuur BES 2022
 
 Jaartarieven digitale lokale radioverbindingen, digitale inter-eilandelijke en digitale internationale radio-, straal- en satellietverbindingen. Voor het toezicht op deze vaste verbindingen gelden per bandbreedte en frequentieband de volgende bedragen:
 
