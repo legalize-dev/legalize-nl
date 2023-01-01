@@ -4,7 +4,7 @@ identifier: "BWBR0047390"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2022-11-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047390"
 soort: "ministeriele-regeling"
@@ -90,21 +90,17 @@ De vergoeding per vergadering, bedoeld in [artikel 27, eerste lid, onder a, van 
 
 Wijzigt de Kiesregeling.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ### Titel III. Overgangs- en slotbepalingen
 
 ##### Artikel 6
 
-1. Als de modellen, bedoeld in de [Wet kiescollege niet-ingezetenen](https://wetten.overheid.nl/jci1.3:c:BWBR0047384), worden de modellen vastgesteld die in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&bijlage=III&z=2022-11-01&g=2022-11-01) bij deze regeling zijn opgenomen.
-
-2. De tekst van de modellen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&bijlage=III&z=2022-11-01&g=2022-11-01) kan redactioneel worden aangepast voor een specifieke doelgroep of voor de digitale toepassing, indien dat de leesbaarheid of doelmatigheid van het model ten goede komt.
+Vervallen
 
 ##### Artikel 7
 
-1. Deze regeling, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&titeldeel=II&artikel=5&z=2022-11-01&g=2022-11-01), treedt in werking op het tijdstip waarop de [Wet kiescollege niet-ingezetenen](https://wetten.overheid.nl/jci1.3:c:BWBR0047384) in werking treedt.
+1. Deze regeling, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&titeldeel=II&artikel=5&z=2023-01-01&g=2023-01-01), treedt in werking op het tijdstip waarop de [Wet kiescollege niet-ingezetenen](https://wetten.overheid.nl/jci1.3:c:BWBR0047384) in werking treedt.
 
-2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&titeldeel=II&artikel=5&z=2022-11-01&g=2022-11-01) treedt in werking op het tijdstip waarop [artikel 30 van de Wet kiescollege niet-ingezetenen](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&artikel=30) in werking treedt. Op dit tijdstip vervallen [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&titeldeel=III&artikel=6&z=2022-11-01&g=2022-11-01) en [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&bijlage=III&z=2022-11-01&g=2022-11-01) bij deze regeling.
+2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&titeldeel=II&artikel=5&z=2023-01-01&g=2023-01-01) treedt in werking op het tijdstip waarop [artikel 30 van de Wet kiescollege niet-ingezetenen](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&artikel=30) in werking treedt. Op dit tijdstip vervallen [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&titeldeel=III&artikel=6&z=2023-01-01&g=2023-01-01) en [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047390&bijlage=III&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 8
 
@@ -119,5 +115,7 @@ Wijzigt de Kiesregeling.
 Wijzigt de Kiesregeling.
 
 ## Bijlage III
+
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
