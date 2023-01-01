@@ -4,7 +4,7 @@ identifier: "BWBV0004052"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-01-01"
-last_updated: "2002-10-02"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004052"
 soort: "verdrag"
@@ -750,13 +750,13 @@ Een internationale depositaris verstrekt een monster van een gedeponeerd micro-o
 
 11.4. **Algemene regels**
 
-- (a). Een verzoek, verklaring, bevestiging of mededeling, zoals bedoeld in Regel 11, eerste, tweede en derde lid, is gesteld:
+- a). Een verzoek, verklaring, bevestiging of mededeling, zoals bedoeld in Regel 11, eerste, tweede en derde lid, is gesteld:
 
-- (i). in het Engels, Frans, Russisch of Spaans, indien het document wordt gericht aan een internationale depositaris waarvan de officiële taal het Engels, Frans, Russisch of Spaans is, of waarvan de officiële talen een van deze talen insluiten, met dien verstande dat, indien het document in het Russisch of het Spaans dient te worden gesteld, dit in plaats daarvan in het Engels of het Frans mag worden ingediend, en dat, indien dit het geval is, het Internationaal Bureau, op verzoek van de in de genoemde Regel vermelde belanghebbende partij of van de internationale depositaris, onverwijld en kosteloos voor een gewaarmerkte vertaling in het Russisch of het Spaans zorgt.
+- (i). in het Arabisch, het Chinees, het Engels, het Frans, het Russisch of het Spaans, indien het document wordt gericht aan een internationale depositaris waarvan de officiële taal het Arabisch, het Chinees, het Engels, het Frans, het Russisch of het Spaans is, of waarvan de officiële talen een van deze talen insluiten, met dien verstande dat, indien het document in het Arabisch, het Chinees, het Russisch of het Spaans dient te worden gesteld, dit in plaats daarvan in het Engels of het Frans mag worden ingediend, en dat, indien dit het geval is, het Internationaal Bureau, op verzoek van de in de genoemde Regel vermelde belanghebbende partij of van de internationale depositaris, onverwijld en kosteloos voor een gewaarmerkte vertaling in het Arabisch, het Chinees, het Russisch of het Spaans zorgt;
 
 - (ii). in alle andere gevallen in het Engels of het Frans, met dien verstande dat het document, in plaats daarvan, in de officiële taal of de officiële talen van de internationale depositaris mag zijn gesteld.
 
-- (b). Niettegenstaande het bepaalde in letter (a), mag het in Regel 11, eerste lid, bedoelde verzoek, indien het wordt gedaan door een bureau voor de industriële eigendom, waarvan de officiële taal het Russisch of het Spaans is, in het Russisch of het Spaans zijn gesteld en zorgt het Internationale Bureau, onverwijld en kosteloos, voor een gewaarmerkte vertaling in het Engels of het Frans, op verzoek van het betrokken bureau of de internationale depositaris die genoemd verzoek heeft ontvangen.
+- b). Niettegenstaande het bepaalde in letter (a), mag het in Regel 11, eerste lid, bedoelde verzoek, indien het wordt gedaan door een bureau voor de industriële eigendom, waarvan de officiële taal het Arabisch, het Chinees, het Russisch of het Spaans is, in het Arabisch, het Chinees, het Russisch of het Spaans zijn gesteld en zorgt het Internationale Bureau, onverwijld en kosteloos, voor een gewaarmerkte vertaling in het Engels of het Frans, op verzoek van het betrokken bureau of de internationale depositaris die genoemd verzoek heeft ontvangen.
 
 - (c). Een verzoek, verklaring, bevestiging of mededeling, zoals bedoeld in Regel 11, eerste, tweede en derde lid, dient schriftelijk te geschieden, dient te worden ondertekend en van een datum te worden voorzien.
 
