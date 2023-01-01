@@ -4,7 +4,7 @@ identifier: "BWBR0026550"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2016-12-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026550"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Economische Zaken;
+- a. **minister:** Minister van Economische Zaken en Klimaat;
 
 - b. **storing:** elektromagnetische storing, ondervonden in uitrusting of radioapparaten als gevolg van het gebruik van uitrusting of radioapparaten;
 
@@ -54,13 +54,13 @@ In deze regeling wordt verstaan onder:
 
 - d. **Radioreglement:** Radioreglement (Trb. 1981, 78), behorende bij het op 22 december 1992 te Genève tot stand gekomen Statuut en Verdrag van de Internationale Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen (Trb. 1993, 138);
 
-- e. **Agentschap Telecom:** Agentschap Telecom van het Ministerie van Economische Zaken.
+- e. **Rijksinspectie Digitale Infrastructuur:** Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 #### § 2. Storingsmelding en beoordeling
 
 ##### Artikel 2
 
-1. Een melding aan de minister over storing kan naar keuze van degene die de melding doet telefonisch, schriftelijk, per elektronische post of via de website van Agentschap Telecom worden gedaan bij Agentschap Telecom.
+1. Een melding aan de minister over storing kan naar keuze van degene die de melding doet telefonisch, schriftelijk, per elektronische post of via de website van de Rijksinspectie Digitale Infrastructuur worden gedaan bij de Rijksinspectie Digitale Infrastructuur.
 
 2. De ontvangst van de storingsmelding wordt bevestigd aan degene die de storing heeft gemeld.
 
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - a. het duidelijk is dat de melding geen betrekking heeft op een storing;
 
-- b. de storing op aanwijzing van Agentschap Telecom op eenvoudige wijze kan worden verholpen;
+- b. de storing op aanwijzing van de Rijksinspectie Digitale Infrastructuur op eenvoudige wijze kan worden verholpen;
 
 - c. de melding betrekking heeft op een storing die eerder is behandeld op grond van deze regeling en er geen sprake is van nieuwe feiten of gewijzigde omstandigheden;
 
@@ -112,11 +112,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien uit het onderzoek blijkt dat de uitrusting die of het radioapparaat dat storing ondervindt niet voldoet aan [artikel 4, eerste lid, onder a, b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2016-12-28&g=2016-12-28), of [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2016-12-28&g=2016-12-28), zal de behandeling van de storingsmelding worden beëindigd onder opgaaf van redenen.
+1. Indien uit het onderzoek blijkt dat de uitrusting die of het radioapparaat dat storing ondervindt niet voldoet aan [artikel 4, eerste lid, onder a, b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), of [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), zal de behandeling van de storingsmelding worden beëindigd onder opgaaf van redenen.
 
-2. Indien de uitrusting die of het radioapparaat dat de storing veroorzaakt, voldoet aan [artikel 4, eerste lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2016-12-28&g=2016-12-28), zal geen verdere behandeling van de storingsmelding plaatsvinden.
+2. Indien de uitrusting die of het radioapparaat dat de storing veroorzaakt, voldoet aan [artikel 4, eerste lid, onder a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), zal geen verdere behandeling van de storingsmelding plaatsvinden.
 
-3. Indien uit het onderzoek blijkt dat de uitrusting die of het radioapparaat dat de storing veroorzaakt niet voldoet aan [artikel 4, eerste lid, onder a, b, c, of d](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2016-12-28&g=2016-12-28), kan de minister de houder van de uitrusting of het radioapparaat waarmee de storing wordt veroorzaakt, aanwijzingen geven maatregelen te nemen die de storing verhelpen. De houder volgt de aanwijzingen op.
+3. Indien uit het onderzoek blijkt dat de uitrusting die of het radioapparaat dat de storing veroorzaakt niet voldoet aan [artikel 4, eerste lid, onder a, b, c, of d](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), kan de minister de houder van de uitrusting of het radioapparaat waarmee de storing wordt veroorzaakt, aanwijzingen geven maatregelen te nemen die de storing verhelpen. De houder volgt de aanwijzingen op.
 
 4. Behalve door afdoening van de storingsmelding overeenkomstig de voorgaande leden wordt de behandeling van de storingsmelding beëindigd indien:
 
@@ -130,9 +130,9 @@ In deze regeling wordt verstaan onder:
 
 - e. het een storing betreft die internationaal is afgestemd of overeengekomen tussen landen als bedoeld in de onderdelen 1.167 en 1.168 van het Radioreglement;
 
-- f. blijkt dat de storingsmelding in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=2&artikel=3&z=2016-12-28&g=2016-12-28), in behandeling is genomen.
+- f. blijkt dat de storingsmelding in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), in behandeling is genomen.
 
-5. Van de beëindiging van de behandeling van de storingsmelding wordt door het Agentschap Telecom aan degene die de storing heeft gemeld onder vermelding van de resultaten van het onderzoek naar de storingsmelding, mededeling gedaan.
+5. Van de beëindiging van de behandeling van de storingsmelding wordt door de Rijksinspectie Digitale Infrastructuur aan degene die de storing heeft gemeld onder vermelding van de resultaten van het onderzoek naar de storingsmelding, mededeling gedaan.
 
 #### § 4. Wijziging in andere regelingen
 
