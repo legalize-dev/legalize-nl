@@ -4,7 +4,7 @@ identifier: "BWBR0042533"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-01-01"
-last_updated: "2018-05-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042533"
 soort: "beleidsregel"
@@ -68,15 +68,15 @@ Deze beleidsregel is van toepassing op het op grond van [artikel 6.10 van de Wat
 
 ##### Artikel 3. Voorwaarden uitzondering vaarverbod in windpark
 
-1. In een besluit tot het instellen van een veiligheidszone wordt bepaald dat het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=2&z=2018-05-01&g=2018-05-01), niet geldt tussen zonsopkomst en zonsondergang voor het zich in de veiligheidszone bevinden met een vaartuig dat:
+1. Indien in een besluit tot het instellen van een veiligheidszone een doorvaartpassage wordt ingesteld, geldt het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=2&z=2023-01-01&g=2023-01-01), niet voor het zich in een doorvaartpassage bevinden met een vaartuig dat:
 
-- a. een maximale lengte over alles van vierentwintig meter heeft;
+- a. een maximale lengte over alles van zesenveertig meter heeft;
 
 - b. een Automatic Identification System in werking heeft;
 
 - c. een marifooninstallatie aan boord heeft, waarbij gecommuniceerd wordt op kanaal 16;
 
-- d. een afstand van ten minste 50 meter van de windturbines in acht neemt inclusief enig voorwerp vanaf het vaartuig;
+- d. een afstand van ten minste 150 meter van de windturbines in acht neemt inclusief enig voorwerp vanaf het vaartuig;
 
 - e. een afstand van 500 meter van een transformatorstation in acht neemt; en
 
@@ -86,13 +86,13 @@ Deze beleidsregel is van toepassing op het op grond van [artikel 6.10 van de Wat
 
 ##### Artikel 4. Het uitvoeren van experimenten passieve visserij
 
-1. In een besluit tot het instellen van een veiligheidszone kan worden bepaald dat onder daaraan te stellen voorwaarden het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=2&z=2018-05-01&g=2018-05-01), niet geldt voor degenen die zich in de veiligheidszone bevinden dan wel voorwerpen hebben of doen hebben ten behoeve van experimenten met passieve visserij als vorm van medegebruik binnen de veiligheidszone.
+1. In een besluit tot het instellen van een veiligheidszone kan worden bepaald dat onder daaraan te stellen voorwaarden het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=2&z=2023-01-01&g=2023-01-01), niet geldt voor degenen die zich in de veiligheidszone bevinden dan wel voorwerpen hebben of doen hebben ten behoeve van experimenten met passieve visserij als vorm van medegebruik binnen de veiligheidszone.
 
-2. Aan een uitzondering als bedoeld in het eerste lid, worden in ieder geval de in [artikel 3, eerste lid, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=3&z=2018-05-01&g=2018-05-01), bedoelde voorwaarden gesteld.
+2. Aan een uitzondering als bedoeld in het eerste lid, worden in ieder geval de in [artikel 3, eerste lid, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=3&z=2023-01-01&g=2023-01-01), bedoelde voorwaarden gesteld.
 
 ##### Artikel 5. Voorkomen gevaarlijk en hinderlijk gedrag
 
-In een besluit tot het instellen van een veiligheidszone wordt bepaald dat de uitzonderingen, bedoeld in [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=2&z=2018-05-01&g=2018-05-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=3&z=2018-05-01&g=2018-05-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=4&z=2018-05-01&g=2018-05-01), slechts van toepassing zijn voor zover daarbij gevaarlijk of hinderlijk gedrag voor het scheepvaartverkeer of de exploitatie van windenergie wordt vermeden.
+In een besluit tot het instellen van een veiligheidszone wordt bepaald dat de uitzonderingen, bedoeld in [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042533&artikel=4&z=2023-01-01&g=2023-01-01), slechts van toepassing zijn voor zover daarbij gevaarlijk of hinderlijk gedrag voor het scheepvaartverkeer of de exploitatie van windenergie wordt vermeden.
 
 ##### Artikel 6. Intrekken beleidsregels
 
