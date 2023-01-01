@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2022-10-19"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -60,11 +60,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ## Nationaal frequentieplan 2014 (NFP2014)
 
-Ministerie van Economische Zaken
+Ministerie van Economische Zaken en Klimaat
 
-Agentschap Telecom
+Rijksinspectie Digitale Infrastructuur
 
-Directoraat-Generaal Energie, Telecom en Mededinging
+Directoraat-Generaal Economie en Digitalisering
 
 ### 1. Inleiding
 
@@ -164,9 +164,9 @@ In de nota Frequentiebeleid 2005 is de keuze gemaakt om frequenties die nodig zi
 
 Bij de uitoefening van deze taken is vaak frequentiegebruik vereist. Toegang tot toereikende frequentieruimte moet geregeld en gegarandeerd zijn. Frequenties hiervoor worden vanwege deze voorkeurspositie apart aan de beleidsverantwoordelijke departementen toegewezen, mits door hen in een behoefte-onderbouwingsplan is aangetoond dat het gebruik van deze frequenties noodzakelijk is voor de betrokken publieke taak.15Daarbij is in nationale frequentieplannen frequentieruimtereservering voor publieke taken natuurlijk al veel langer aan de orde. Tot nu toe, zoals in het NFP2005, hadden deze banden vermelding ‘3’ in de (nu geschrapte) kolom ‘hoofdcategorie’, dat wil zeggen dat de band prioritair was bedoeld voor vitaal overheidsgebruik, voor welke het beleid ‘verdeling bij voorrang’ gold. Over dit behoefte-onderbouwingsplan (BOP) kan het volgende worden opgemerkt.
 
-In de [Regeling behoefte-onderbouwingsplan](https://wetten.overheid.nl/jci1.3:c:BWBR0032900)16Regeling van de Minister van Economische Zaken van 15 februari 2013, nr. WJZ/13014703, houdende regels inzake de aanwijzing van publieke taken en de inrichting van het behoefte-onderbouwingsplan (Regeling behoefte-onderbouwingsplan) zijn de ministeries van Defensie, Veiligheid & Justitie, Infrastructuur & Milieu en Onderwijs, Cultuur & Wetenschap vermeld als departementen met frequentiegebruik voor publieke taken. Om te bewaken dat het aan deze departementen toe te wijzen spectrum doelmatig wordt gebruikt zijn deze departementen met ingang van 2013 verplicht vooraf ten behoeve van de minister van EZ een behoefte-onderbouwingsplan op te stellen. (zie [art. 3.2 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.2)). Deze departementen zijn in het voorjaar 2013 aangeschreven om een eerste BOP aan te leveren.
+In de [Regeling behoefte-onderbouwingsplan](https://wetten.overheid.nl/jci1.3:c:BWBR0032900)16Regeling van de Minister van Economische Zaken en Klimaat van 15 februari 2013, nr. WJZ/13014703, houdende regels inzake de aanwijzing van publieke taken en de inrichting van het behoefte-onderbouwingsplan (Regeling behoefte-onderbouwingsplan) zijn de ministeries van Defensie, Veiligheid & Justitie, Infrastructuur & Milieu en Onderwijs, Cultuur & Wetenschap vermeld als departementen met frequentiegebruik voor publieke taken. Om te bewaken dat het aan deze departementen toe te wijzen spectrum doelmatig wordt gebruikt zijn deze departementen met ingang van 2013 verplicht vooraf ten behoeve van de Minister van Economische Zaken en Klimaat een behoefte-onderbouwingsplan op te stellen. (zie [art. 3.2 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.2)). Deze departementen zijn in het voorjaar 2013 aangeschreven om een eerste BOP aan te leveren.
 
-De BOP’s worden door de minister van Economische Zaken, de coördinerend minister in deze, kritisch beoordeeld t.a.v. de vraag of de gemelde behoefte inderdaad is onderbouwd en of ten aanzien van de aangevraagde frequentieruimte doelmatig gebruik wordt aangetoond. Frequentiebanden waarvoor dat geldt kunnen door de minister van EZ ten behoeve van dat departement worden aangewezen.
+De BOP’s worden door de Minister van Economische Zaken en Klimaat, de coördinerend minister in deze, kritisch beoordeeld t.a.v. de vraag of de gemelde behoefte inderdaad is onderbouwd en of ten aanzien van de aangevraagde frequentieruimte doelmatig gebruik wordt aangetoond. Frequentiebanden waarvoor dat geldt kunnen door de Minister van Economische Zaken en Klimaat ten behoeve van dat departement worden aangewezen.
 
 In plaats van de vroegere gebruikte term ‘vergunningverlening bij voorrang’ zal voortaan in de tabel de term worden gebruikt ‘aangewezen voor [naam departement]’. Hiermee wordt de transparantie van het daadwerkelijk spectrumgebruik vergroot. (In enkele gevallen zal de term ‘aangewezen voor publieke taken’ worden gebruikt, bijvoorbeeld wanneer meerdere departementen eenzelfde frequentieband aangewezen krijgen en de opsomming erg lang zou worden.)
 
@@ -174,11 +174,11 @@ Daar waar een aanwijzing wordt gevolgd door de term ‘en overigens’ wordt wat
 
 In banden waar geen of slechts verwaarloosbaar risico is dat betrokkenen elkaar storen is gedeeld gebruik en meervoudige aanwijzing zonder meer mogelijk.
 
-Soms is medegebruik niet zonder meer mogelijk en is coördinatie tussen betrokkenen nodig, waarbij kan zijn vastgelegd dat de ene gebruiker eerste rechten heeft. In dat geval is voor de ander de term ‘beperkt aangewezen voor‘ weergegeven. In dat geval zorgt Agentschap Telecom voor de coördinatie en bepaalt, in overleg met de eerst rechthebbende, welke gebruiksvoorwaarden voor het beperkt gebruik gelden.
+Soms is medegebruik niet zonder meer mogelijk en is coördinatie tussen betrokkenen nodig, waarbij kan zijn vastgelegd dat de ene gebruiker eerste rechten heeft. In dat geval is voor de ander de term ‘beperkt aangewezen voor‘ weergegeven. In dat geval zorgt de Rijksinspectie Digitale Infrastructuur voor de coördinatie en bepaalt, in overleg met de eerst rechthebbende, welke gebruiksvoorwaarden voor het beperkt gebruik gelden.
 
 Voor de rest geeft de volgorde van vermelde ministeries geen aanduiding van hogere of lagere rechten.
 
-In de komende jaren wordt door de Minister van Economische Zaken van het betreffend spectrum de mate van doelmatigheid van het gebruik verder gemonitord. Ten aanzien van frequentieruimte waar dit onvoldoende is aangetoond kan dat leiden tot beëindiging van een toewijzing aan dat departement dan wel kan er medegebruik worden opgelegd.
+In de komende jaren wordt door de Minister van Economische Zaken en Klimaat van het betreffend spectrum de mate van doelmatigheid van het gebruik verder gemonitord. Ten aanzien van frequentieruimte waar dit onvoldoende is aangetoond kan dat leiden tot beëindiging van een toewijzing aan dat departement dan wel kan er medegebruik worden opgelegd.
 
 Frequentiegebruik door overheidsorganisaties dat niet betrekking heeft op een publieke taak valt buiten de BOP-plicht en buiten het regiem van NFP-aanwijzing. Een departement kan die frequenties op reguliere wijze verwerven, bijvoorbeeld door deze via ‘aanvraag op volgorde van binnenkomst’ te verkrijgen of enig ander verdelingsregiem dat voor die betreffende band geldt. Een alternatief voor de overheidsgebruiker kan ook zijn om de functie als dienst bij een commerciële aanbieder in te kopen, (waarbij de laatste de frequentiegebruiker en vergunninghouder is).
 
@@ -204,7 +204,7 @@ Voor de aanwijzing in het NFP van frequentiebanden welke via een veiling of een 
 
 Met de wijziging van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) in maart 2013 is een nieuw verdeelinstrument geïntroduceerd, namelijk de ‘Verdeling op Afroep’ (VoA). Dit verdeelinstrument kan worden ingezet als het op voorhand onduidelijk is of er al dan niet schaarste te verwachten is bij frequentieruimte die men voornemens is te verdelen. Het belangrijkste kenmerk van deze verdelingswijze is dat niet de overheid, maar de markt de verdeling initieert. Deze verdeelwijze begint ermee dat, indien bepaalde frequentiebanden daarvoor geschikt worden geacht, het Ministerie van EZ in het frequentieplan die band voor VoA aanwijst. Vervolgens wordt gewacht tot de eerste belangstellende zich meldt voor die band. Die melding c.q. aanvraag wordt dan officieel bekendgemaakt.18Op https://www.officielebekendmakingen.nl, voorheen in de Staatscourant. Indien er geen andere belangstellenden zijn krijgt die eerste aanvrager die frequentieruimte om niet. In het geval er meerdere belangstellenden zijn wordt overgegaan tot een (eenvoudige) veilingprocedure.
 
-Met de wijziging van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) in maart 2013 is een nieuw verdeelinstrument geïntroduceerd, namelijk de ‘Verdeling op Afroep’ (VoA). Dit verdeelinstrument kan worden ingezet als het op voorhand onduidelijk is of er al dan niet schaarste te verwachten is bij frequentieruimte die men voornemens is te verdelen. Het belangrijkste kenmerk van deze verdelingswijze is dat niet de overheid, maar de markt de verdeling initieert. Deze verdeelwijze begint ermee dat, indien bepaalde frequentiebanden daarvoor geschikt worden geacht, het Ministerie van EZ in het frequentieplan die band voor VoA aanwijst. Vervolgens wordt gewacht tot de eerste belangstellende zich meldt voor die band. Die melding c.q. aanvraag wordt dan officieel bekendgemaakt.18Op https://www.officielebekendmakingen.nl, voorheen in de Staatscourant. Indien er geen andere belangstellenden zijn krijgt die eerste aanvrager die frequentieruimte om niet. In het geval er meerdere belangstellenden zijn wordt overgegaan tot een (eenvoudige) veilingprocedure.
+Met de wijziging van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) in maart 2013 is een nieuw verdeelinstrument geïntroduceerd, namelijk de ‘Verdeling op Afroep’ (VoA). Dit verdeelinstrument kan worden ingezet als het op voorhand onduidelijk is of er al dan niet schaarste te verwachten is bij frequentieruimte die men voornemens is te verdelen. Het belangrijkste kenmerk van deze verdelingswijze is dat niet de overheid, maar de markt de verdeling initieert. Deze verdeelwijze begint ermee dat, indien bepaalde frequentiebanden daarvoor geschikt worden geacht, het Ministerie van Economische Zaken en Klimaat in het frequentieplan die band voor VoA aanwijst. Vervolgens wordt gewacht tot de eerste belangstellende zich meldt voor die band. Die melding c.q. aanvraag wordt dan officieel bekendgemaakt.18Op https://www.officielebekendmakingen.nl, voorheen in de Staatscourant. Indien er geen andere belangstellenden zijn krijgt die eerste aanvrager die frequentieruimte om niet. In het geval er meerdere belangstellenden zijn wordt overgegaan tot een (eenvoudige) veilingprocedure.
 
 ### 5.7. Vergunningverlening op volgorde van binnenkomst van de aanvraag
 
@@ -304,7 +304,7 @@ Het is gebruikelijk dat deze testen worden uitgevoerd in een speciaal aangepaste
 
 ### 8.6. Buitengewone omstandigheden
 
-In buitengewone omstandigheden – dat wil zeggen bij grote rampen, in tijden van oorlog of in andere crisissituaties waarin een (beperkte of algemene) noodtoestand is afgekondigd – kan de minister aanwijzingen geven aan gebruikers van frequentieruimte ten aanzien van beperking of beëindiging hiervan. Andere gebruikers kunnen juist meer frequentieruimte toegewezen krijgen. In [hst 14 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14) zijn de regels hiervoor beschreven. Het Agentschap Telecom ziet toe op de naleving hiervan.
+In buitengewone omstandigheden – dat wil zeggen bij grote rampen, in tijden van oorlog of in andere crisissituaties waarin een (beperkte of algemene) noodtoestand is afgekondigd – kan de minister aanwijzingen geven aan gebruikers van frequentieruimte ten aanzien van beperking of beëindiging hiervan. Andere gebruikers kunnen juist meer frequentieruimte toegewezen krijgen. In [hst 14 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=14) zijn de regels hiervoor beschreven. De Rijksinspectie Digitale Infrastructuur ziet toe op de naleving hiervan.
 
 ### 9. korte handleiding voor interpretatie van de frequentietabel
 
@@ -1528,7 +1528,7 @@ Er zijn frequentiebanden die qua beschikbaarstelling tot nader order worden aang
 
 ### 6. Het Nationaal FrequentieRegister (NFR)
 
-Het Nationaal FrequentieRegister is een online applicatie waarmee men door middel van een zoekscherm informatie van een aangegeven spectrumzone kan opzoeken. Daarin is onderscheid gemaakt in het verdeelmechanisme. Voor schaarse frequentieruimte kan men detailinformatie vinden over de daarin uitgegeven vergunningen en zijn ook de vergunningbescheiden opgenomen. Voor niet-schaarse frequentieruimte is het aantal uitgegeven vergunningen opgenomen. Het NFR geeft per band de geldende bindende technische voorwaarden (radio-interfaces20dwz de te gebruiken standaarden zoals kanaalbreedte, modulatie en toegestaan vermogen. Een elektronisch woordenboek met begrippen en afkortingen treft u bijvoorbeeld op http://www.telecomabc.nl/) voor zowel vergunningplichtige als vergunningvrije frequentieruimte en verwijzingen naar eventuele betreffende ITU voetnoten en nationale voetnoten. Het NFR wordt onderhouden door Agentschap Telecom en is bereikbaar via de website van het agentschap21Zie het Nationaal Frequentieregister, http://www.agentschaptelecom.nl/algemeen/frequentiemanagement/nationaal-frequentieregister.
+Het Nationaal FrequentieRegister is een online applicatie waarmee men door middel van een zoekscherm informatie van een aangegeven spectrumzone kan opzoeken. Daarin is onderscheid gemaakt in het verdeelmechanisme. Voor schaarse frequentieruimte kan men detailinformatie vinden over de daarin uitgegeven vergunningen en zijn ook de vergunningbescheiden opgenomen. Voor niet-schaarse frequentieruimte is het aantal uitgegeven vergunningen opgenomen. Het NFR geeft per band de geldende bindende technische voorwaarden (radio-interfaces20dwz de te gebruiken standaarden zoals kanaalbreedte, modulatie en toegestaan vermogen. Een elektronisch woordenboek met begrippen en afkortingen treft u bijvoorbeeld op http://www.telecomabc.nl/) voor zowel vergunningplichtige als vergunningvrije frequentieruimte en verwijzingen naar eventuele betreffende ITU voetnoten en nationale voetnoten. Het NFR wordt onderhouden door de Rijksinspectie Digitale Infrastructuur en is bereikbaar via de website van de Rijksinspectie Digitale Infrastructuur21Zie het Nationaal Frequentieregister, http://www.agentschaptelecom.nl/algemeen/frequentiemanagement/nationaal-frequentieregister.
 
 ### 7. Wat is er nieuw in dit NFP2014?
 
@@ -1536,7 +1536,7 @@ De belangrijkste veranderingen worden in de volgende vijf paragrafen opgesomd en
 
 ### 7.6. Veranderingen in de NFP-wijzigingsprocedure
 
-De procedure voor wijziging van een NFP is door middel van de wijziging van [hoofdstuk 3 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) vereenvoudigd c.q. verkort. Het Nationaal Frequentie Plan en NFP-wijzigingen wordt niet langer ‘in overeenstemming met het gevoelen van de ministerraad’ vastgesteld, doch door de minister van EZ met de betrokken ministeries bilateraal en direct voorbereid, waarna de minister van EZ het NFP-wijzigingsbesluit direct kan vaststellen. Op deze wijze hoeft niet meer de hele ministerraadprocedure voor de veelal technische wijzigingen te worden doorlopen. Door deze verandering kunnen nieuwe mogelijkheden sneller voor de markt beschikbaar worden gemaakt, wat innovatieve diensten en toepassingen faciliteert.
+De procedure voor wijziging van een NFP is door middel van de wijziging van [hoofdstuk 3 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) vereenvoudigd c.q. verkort. Het Nationaal Frequentie Plan en NFP-wijzigingen wordt niet langer ‘in overeenstemming met het gevoelen van de ministerraad’ vastgesteld, doch door de Minister van Economische Zaken en Klimaat met de betrokken ministeries bilateraal en direct voorbereid, waarna de Minister van Economische Zaken en Klimaat het NFP-wijzigingsbesluit direct kan vaststellen. Op deze wijze hoeft niet meer de hele ministerraadprocedure voor de veelal technische wijzigingen te worden doorlopen. Door deze verandering kunnen nieuwe mogelijkheden sneller voor de markt beschikbaar worden gemaakt, wat innovatieve diensten en toepassingen faciliteert.
 
 ### 7.7. De gevolgde wijzigingsprocedureen consultatie van dit NFP2014
 
@@ -1556,7 +1556,7 @@ Ultra Wideband-toepassingen voor radiocommunicatie worden vergunningvrij toegela
 
 ### 8.3. Frequenties voor bezoekende strijdkrachten volgens NJFA
 
-In afwijking van de NFP-tabel kunnen, indien inpasbaar, naar beschikbaarheid en in coördinatie met de rechthebbende(n), voor bezoekende strijdkrachten, conform afspraken in het vigerend NJFA (NATO Joint Civil/Military Frequency Agreement), op verzoek van de minister van Defensie en voor de duur van het bezoek, door Agentschap Telecom frequenties beschikbaar worden gesteld.
+In afwijking van de NFP-tabel kunnen, indien inpasbaar, naar beschikbaarheid en in coördinatie met de rechthebbende(n), voor bezoekende strijdkrachten, conform afspraken in het vigerend NJFA (NATO Joint Civil/Military Frequency Agreement), op verzoek van de minister van Defensie en voor de duur van het bezoek, door de Rijksinspectie Digitale Infrastructuur frequenties beschikbaar worden gesteld.
 
 ### 8.4. Evenementen
 
