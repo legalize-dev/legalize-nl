@@ -4,7 +4,7 @@ identifier: "BWBR0044572"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2021-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044572"
 soort: "wet"
@@ -47,9 +47,9 @@ Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen twee jaar nadat 
 
 ##### Artikel II
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044572&artikel=I&z=2021-01-01&g=2021-01-01), terugwerkt tot en met een in dat besluit te bepalen tijdstip.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, waarbij [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0044572&artikel=I&z=2023-01-01&g=2023-01-01), terugwerkt tot en met een in dat besluit te bepalen tijdstip.
 
-2. In afwijking van het eerste lid treden de [onderdelen Ha en Hb van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0044572&artikel=I&z=2021-01-01&g=2021-01-01) in werking met ingang van 1 januari 2023.
+2. In afwijking van het eerste lid treden de [onderdelen Ha en Hb van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0044572&artikel=I&z=2023-01-01&g=2023-01-01) in werking met ingang van 1 januari 2023.
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
