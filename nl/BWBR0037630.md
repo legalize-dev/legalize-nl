@@ -4,7 +4,7 @@ identifier: "BWBR0037630"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-01-01"
-last_updated: "2016-02-17"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037630"
 soort: "ministeriele-regeling-BES"
@@ -50,7 +50,7 @@ Besluit:
 
 ##### Artikel 2
 
-Voor het, op basis van een concessie, gebruik van vaste verbindingen is een vergoeding opgenomen in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037630&bijlage=I&z=2016-02-17&g=2016-02-17).
+Voor het, op basis van een concessie, gebruik van vaste verbindingen is een vergoeding opgenomen in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037630&bijlage=I&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 3
 
@@ -70,9 +70,9 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ##### Artikel 7
 
-Deze regeling wordt aangehaald als: Regeling vergoedingen telecommunicatieconcessies Agentschap Telecom BES 2015.
+Deze regeling wordt aangehaald als: Regeling vergoedingen telecommunicatieconcessies Rijksinspectie Digitale Infrastructuur BES 2015.
 
-## Bijlage I. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037630&artikel=2&z=2016-02-17&g=2016-02-17) van de Regeling vergoedingen telecommunicatieconcessies Agentschap Telecom BES 2015
+## Bijlage I. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037630&artikel=2&z=2023-01-01&g=2023-01-01) van de Regeling vergoedingen telecommunicatieconcessies Rijksinspectie Digitale Infrastructuur BES 2015
 
 Jaartarieven digitale lokale radioverbindingen, digitale inter-eilandelijke en digitale internationale radio-, straal- en satellietverbindingen. Voor het toezicht op deze vaste verbindingen gelden per bandbreedte en frequentieband de volgende bedragen:
 
