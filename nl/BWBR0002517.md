@@ -4,7 +4,7 @@ identifier: "BWBR0002517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-01"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002517"
 soort: "ministeriele-regeling"
@@ -165,11 +165,11 @@ Als internationale organisaties als bedoeld in [artikel 10, zesde lid, van de We
 
 Voor de toepassing van artikel 10a van de Wet op de dividendbelasting 1965:
 
-- a. worden voor het bepalen van de inkomstenbelasting die verschuldigd zou zijn als voordeel uit sparen en beleggen indien de natuurlijke persoon woonachtig zou zijn in Nederland alle aandelen, winstbewijzen en geldleningen als bedoeld in [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1) in aanmerking genomen en blijven overige bezittingen en schulden buiten beschouwing;
+- a. worden voor het bepalen van de inkomstenbelasting die verschuldigd zou zijn als voordeel uit sparen en beleggen indien de natuurlijke persoon woonachtig zou zijn in Nederland alle aandelen, winstbewijzen, kapitaalverstrekkingen en geldleningen als bedoeld in [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1) in aanmerking genomen en blijven overige bezittingen en schulden buiten beschouwing;
 
 - b. wordt bij natuurlijke personen rekening gehouden met het heffingvrije vermogen, bedoeld in [artikel 5.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.5), voor zover dat niet reeds bij diezelfde natuurlijke persoon bij de heffing van de inkomstenbelasting in aanmerking is genomen;
 
-- c. worden voor het bepalen van de vennootschapsbelasting die verschuldigd zou zijn indien het lichaam gevestigd zou zijn in Nederland slechts kosten in aanmerking genomen die rechtstreeks verband houden met de inning van de opbrengst van aandelen, winstbewijzen en geldleningen als bedoeld in [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1).
+- c. worden voor het bepalen van de vennootschapsbelasting die verschuldigd zou zijn indien het lichaam gevestigd zou zijn in Nederland slechts kosten in aanmerking genomen die rechtstreeks verband houden met de inning van de opbrengst van aandelen, winstbewijzen, kapitaalverstrekkingen en geldleningen als bedoeld in [artikel 1 van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=1).
 
 ##### Artikel 4
 
@@ -207,7 +207,7 @@ Vervallen
 
 ## Bijlage. behorende bij de Uitvoeringsbeschikking dividendbelasting 1965
 
-De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2022-01-01&g=2022-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
+De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002517&artikel=1bis&z=2023-01-01&g=2023-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
 
 | Staat | Woonlandfactor |
 | --- | --- |
@@ -237,7 +237,7 @@ De woonlandfactor, bedoeld in [artikel 1bis, onderdeel g](https://wetten.overhei
 | Roemenië | 50% |
 | Slovenië | 80% |
 | Slowakije | 70% |
-| Spanje | 80% |
+| Spanje | 90% |
 | Tsjechië | 70% |
 | Zweden | 100% |
 | Zwitserland | 100% |
