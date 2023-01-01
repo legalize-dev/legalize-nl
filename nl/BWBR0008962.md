@@ -4,7 +4,7 @@ identifier: "BWBR0008962"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2011-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008962"
 soort: "AMvB"
@@ -56,17 +56,17 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. Centraal register opleidingen hoger onderwijs: het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
+- b. Registratie instellingen en opleidingen: het register, bedoeld in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
 #### § 2. Opleiding
 
 ##### Artikel 2
 
-Om in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01) van de wet bedoelde register van fysiotherapeuten te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor fysiotherapie die is opgenomen in het Centraal register opleidingen hoger onderwijs en die voldoet aan [de artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=2011-08-01&g=2011-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=4&z=2011-08-01&g=2011-08-01) van dit besluit.
+Om in het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) bedoelde register van fysiotherapeuten te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor fysiotherapie die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=4&z=2023-01-01&g=2023-01-01) van dit besluit.
 
 ##### Artikel 3
 
-1. Een opleiding tot fysiotherapeut als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=2&z=2011-08-01&g=2011-08-01) omvat zowel theoretisch als praktisch onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de fysiotherapeut die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=2011-08-01&g=2011-08-01):
+1. Een opleiding tot fysiotherapeut als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01) omvat zowel theoretisch als praktisch onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de fysiotherapeut die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01):
 
 - a. diagnostiek en behandeling;
 
@@ -80,7 +80,7 @@ Om in het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragra
 
 - f. beroepsontwikkeling.
 
-2. Het praktische onderwijs omvat ten minste stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=2011-08-01&g=2011-08-01), onder toezicht van een fysiotherapeut.
+2. Het praktische onderwijs omvat ten minste stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), onder toezicht van een fysiotherapeut.
 
 ##### Artikel 4
 
