@@ -4,7 +4,7 @@ identifier: "BWBR0046114"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046114"
 soort: "ministeriele-regeling"
@@ -124,19 +124,19 @@ Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2022, met dien verstande dat:
 
-- a. [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=II&z=2022-01-01&g=2022-01-01), terugwerkt tot en met 1 juli 2015;
+- a. [artikel II, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=II&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 1 juli 2015;
 
-- b. [artikel II, onderdeel C, subonderdeel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=II&z=2022-01-01&g=2022-01-01), terugwerkt tot en met 1 januari 2020;
+- b. [artikel II, onderdeel C, subonderdeel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=II&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 1 januari 2020;
 
-- c. de [artikelen III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=III&z=2022-01-01&g=2022-01-01), en [XIX, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XIX&z=2022-01-01&g=2022-01-01), terugwerken tot en met 25 mei 2018;
+- c. de [artikelen III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=III&z=2023-01-01&g=2023-01-01), en [XIX, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XIX&z=2023-01-01&g=2023-01-01), terugwerken tot en met 25 mei 2018;
 
-- d. de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=VI&z=2022-01-01&g=2022-01-01) en [VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=VII&z=2022-01-01&g=2022-01-01), voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2022;
+- d. de [artikelen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=VI&z=2023-01-01&g=2023-01-01) en [VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=VII&z=2023-01-01&g=2023-01-01), voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2022;
 
-- e. de [artikelen IX, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=IX&z=2022-01-01&g=2022-01-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XII&z=2022-01-01&g=2022-01-01), onderdeel F, en [XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XVII&z=2022-01-01&g=2022-01-01), terugwerken tot en met 1 januari 2021;
+- e. de [artikelen IX, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=IX&z=2023-01-01&g=2023-01-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XII&z=2023-01-01&g=2023-01-01), onderdeel F, en [XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XVII&z=2023-01-01&g=2023-01-01), terugwerken tot en met 1 januari 2021;
 
-- d. [artikel XIX, onderdelen 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XIX&z=2022-01-01&g=2022-01-01), voor het eerst toepassing vindt met betrekking tot tijdvakken die aanvangen op of na 1 januari 2022.
+- d. [artikel XIX, onderdelen 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XIX&z=2023-01-01&g=2023-01-01), voor het eerst toepassing vindt met betrekking tot tijdvakken die aanvangen op of na 1 januari 2022.
 
-2. In afwijking van het eerste lid treedt [artikel XII, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XII&z=2022-01-01&g=2022-01-01), in werking met ingang van 1 januari 2023.
+2. In afwijking van het eerste lid treedt [artikel XII, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0046114&artikel=XII&z=2023-01-01&g=2023-01-01), in werking met ingang van 1 januari 2023.
 
 Handelende wat [artikel 3.22 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) betreft, in overeenstemming met de Minister van Infrastructuur en Waterstaat;
 
