@@ -4,7 +4,7 @@ identifier: "BWBR0040429"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-25"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040429"
 soort: "ministeriele-regeling"
@@ -128,15 +128,13 @@ Deze paragraaf berust op de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 16. Gegevens
 
-De opsomming van door een school te verzamelen gegevens als bedoeld in de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.68), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.23) en [7.2, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=7.2) is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01).
+De opsomming van door een school te verzamelen gegevens als bedoeld in de [artikelen 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.68), [6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.23) en [7.2, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=7.2) is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 17. Wijze van beschikbaarstelling van de gegevens
 
-1. Het bevoegd gezag levert de gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2022-08-01&g=2022-08-01), op de wijze zoals beschreven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2022-08-01&g=2022-08-01).
+1. Het bevoegd gezag levert de gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2023-01-01&g=2023-01-01), op de wijze zoals beschreven in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2023-01-01&g=2023-01-01).
 
-2. Het burgerservicenummer, bedoeld in regel 1 van de tabel in paragraaf 2.2 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01) hoeft tot 1 januari 2025 niet verplicht te worden aangeleverd. Indien het bevoegd gezag nog niet beschikt over het burgerservicenummer van een personeelslid, dan worden de gegevens, bedoeld in de vorige volzin, verstrekt met een door het bevoegd gezag toegekend uniek nummer, zodat verschillende personeelsleden te onderscheiden en te volgen zijn. Dit lid alsmede de aanduiding ‘1’. voor het eerste lid vervallen met ingang van 1 januari 2025.
-
-3. In afwijking van paragraaf 2.1 van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=5&z=2022-08-01&g=2022-08-01) worden de gegevens genoemd in paragraaf 2.2 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01), over het kalenderjaar 2021 uiterlijk op 1 oktober 2022 verstrekt. Dit lid vervalt met ingang van 1 januari 2023.
+2. Het burgerservicenummer, bedoeld in regel 1 van de tabel in paragraaf 2.2 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01) hoeft tot 1 januari 2025 niet verplicht te worden aangeleverd. Indien het bevoegd gezag nog niet beschikt over het burgerservicenummer van een personeelslid, dan worden de gegevens, bedoeld in de vorige volzin, verstrekt met een door het bevoegd gezag toegekend uniek nummer, zodat verschillende personeelsleden te onderscheiden en te volgen zijn. Dit lid alsmede de aanduiding ‘1’. voor het eerste lid vervallen met ingang van 1 januari 2025.
 
 #### § 5. Slotbepalingen
 
@@ -162,13 +160,13 @@ Vervallen
 
 ### Specificatie inschrijvingsgegevens [artikel 103b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b)
 
-## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=8&z=2022-08-01&g=2022-08-01) van de Regeling informatievoorziening WVO
+## Bijlage 2. behorende bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=8&z=2023-01-01&g=2023-01-01) van de Regeling informatievoorziening WVO
 
 Vervallen
 
 ### Specificatie examengegevens [artikel 103b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=103b)
 
-## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2022-08-01&g=2022-08-01) van de Regeling informatievoorziening WVO
+## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2023-01-01&g=2023-01-01) van de Regeling informatievoorziening WVO
 
 ## Bijlage 4. behorende bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=16&z=2020-01-01&g=2020-01-01) van de Regeling informatievoorziening WVO
 
@@ -352,7 +350,7 @@ In deze bijlage worden voorschriften gegeven omtrent de wijze van beschikbaarste
 
 Andere gegevens worden zoveel mogelijk onttrokken aan registraties bij salarisverwerkers of onttrokken aan de schooladministratie, zodat scholen hiervan zo gering mogelijke last ondervinden. Wanneer dat niet mogelijk is, worden scholen met formulieren bevraagd.
 
-Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn gespecificeerd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01). De gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker.
+Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren van beleid zijn gegevens nodig van scholen en het bevoegd gezag van scholen. Deze gegevens zijn gespecificeerd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01). De gegevens zijn op diverse momenten nodig, sommige maar enkele malen per jaar, andere vaker.
 
 De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens in welke vorm, op welke wijze en op welk tijdstip aangeleverd moeten worden. De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken.
 
@@ -376,19 +374,19 @@ Achtereenvolgens zal in worden gegaan op de termijn voor aanlevering van de pers
 
 Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2021-10-01&g=2021-10-01)
 
-De gegevens genoemd in de tabellen 2.1.1 t/m 2.1.3 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01):
+De gegevens genoemd in de tabellen 2.1.1 t/m 2.1.3 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01):
 
 dienen vier maal per jaar aan DUO te worden aangeleverd:
 
 In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie op de peilmaand en die gedurende een kalendermaand na de laatste kalenderdag van de peilmaand administratief zijn verwerkt. Gegevens die na die kalendermaand administratief zijn verwerkt, moeten niet in de gegevenslevering worden verwerkt.
 
-Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01)
+Het jaarbestand/de jaarbestanden met per kalenderjaar samengevatte gegevens uit de tabellen 2.1.1 t/m 2.1.4 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01)
 
 ### 2.2. Wijze van aanlevering
 
-De gegevens uit tabel 2.1.5 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01) «WIA», dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.
+De gegevens uit tabel 2.1.5 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01) «WIA», dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.
 
-De gegevens, genoemd in paragraaf 2.2 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01), dienen eenmaal per jaar aan DUO te worden aangeleverd: uiterlijk 1 april moeten de gegevens over het voorafgaande kalenderjaar worden aangeleverd.
+De gegevens, genoemd in paragraaf 2.2 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01), dienen eenmaal per jaar aan DUO te worden aangeleverd: uiterlijk 1 april moeten de gegevens over het voorafgaande kalenderjaar worden aangeleverd.
 
 De gegevens uit tabel 2.1.5 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-07-23&g=2022-07-23) «WIA», dienen één keer per kalenderjaar te worden geleverd aan DUO. Deze gegevens dienen geleverd te worden uiterlijk op 1 april van het jaar, volgend op het peiljaar (het jaar waarop de gegevens betrekking hebben). In de te leveren gegevens moeten alle mutaties zijn verwerkt die van toepassing zijn op de situatie gedurende het peiljaar en na afloop van het peiljaar, maar voor de extractiedatum administratief zijn verwerkt.
 
@@ -416,15 +414,15 @@ Een toename van administratieve lasten zal worden meegenomen in de overweging om
 
 Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoeften en informatieverzameling zijn niet statisch. Om die reden kunnen wijzigingen voor gaan komen in de gegevensvraag of de wijze van aanlevering.
 
-Nieuwe gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01) worden maandelijks volledig en correct door het bevoegd gezag aan de Minister aangeleverd.
+Nieuwe gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01) worden maandelijks volledig en correct door het bevoegd gezag aan de Minister aangeleverd.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2022-08-01&g=2022-08-01) van de Regeling informatievoorziening WVO
+## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=7&z=2023-01-01&g=2023-01-01) van de Regeling informatievoorziening WVO
 
 Vervallen
 
-## Bijlage 3. behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=14&z=2022-08-01&g=2022-08-01) van de Regeling informatievoorziening WVO
+## Bijlage 3. behorende bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=3&artikel=14&z=2023-01-01&g=2023-01-01) van de Regeling informatievoorziening WVO
 
 Vervallen
 
@@ -538,7 +536,7 @@ In het overzicht dat bij dit onderdeel staat vermeld, wordt een groot aantal zak
 
 ### 2.4. Lerarenregister en registervoorportaal
 
-Op de wijze van aanlevering van gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2022-08-01&g=2022-08-01) is paragraaf 2.2 van deze bijlage van overeenkomstige toepassing, met dien verstande dat gegevens niet op cd-rom worden aangeleverd.
+Op de wijze van aanlevering van gegevens genoemd in tabel 2.1.6 van [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&bijlage=4&z=2023-01-01&g=2023-01-01) is paragraaf 2.2 van deze bijlage van overeenkomstige toepassing, met dien verstande dat gegevens niet op cd-rom worden aangeleverd.
 
 Gegevens die een leraar op grond van [artikel 7.50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.50) verstrekt, worden door de betreffende leraar aan de Minister verstrekt, waarbij hij het bewijsstuk als bedoeld in de [artikelen 7.11, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.11), [7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.12) en 7.11, eerste lid, onderdeel c, derde, vierde, vijfde of zevende lid van de wet digitaal aanlevert in de vorm van een gewaarmerkte kopie.
 
@@ -558,7 +556,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Soort loon, toelage of korting
 
-## Bijlage 5. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=17&z=2022-08-01&g=2022-08-01) van de Regeling informatievoorziening WVO
+## Bijlage 5. behorende bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040429&paragraaf=4&artikel=17&z=2023-01-01&g=2023-01-01) van de Regeling informatievoorziening WVO
 
 Voor scholen gaat het wijzigen van de naam van de school of vestiging, vastleggen van de datum opheffing, het vastleggen van fusiepartners via het BRIN-mutatieformulier. Voor alle andere gegevens zoals denominatie of vestigingsadres geldt een aanvraagprocedure. De gegevens worden alleen gemuteerd na goedkeuring.
 
