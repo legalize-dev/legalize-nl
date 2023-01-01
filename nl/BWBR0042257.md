@@ -4,7 +4,7 @@ identifier: "BWBR0042257"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2020-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042257"
 soort: "AMvB"
@@ -58,31 +58,31 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 9
 
-1. Alvorens een verklaring af te geven als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2020-07-01&g=2020-07-01), wint Onze Minister advies in van de commissie.
+1. Alvorens een verklaring af te geven als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), wint Onze Minister advies in van de commissie.
 
-2. De commissie onderzoekt en laat Onze Minister weten of naar haar oordeel voldaan is aan de vereisten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2020-07-01&g=2020-07-01).
+2. De commissie onderzoekt en laat Onze Minister weten of naar haar oordeel voldaan is aan de vereisten, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01).
 
-3. De [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) en [7, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7) zijn van overeenkomstige toepassing op aanvragen voor een verklaring van vakbekwaamheid als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2020-07-01&g=2020-07-01). De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van geregistreerd-mondhygiënist.
+3. De [artikelen 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3a), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=6) en [7, van het Besluit buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7) zijn van overeenkomstige toepassing op aanvragen voor een verklaring van vakbekwaamheid als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01). De leden-deskundigen die deel uitmaken van de commissie, zijn deskundig ter zake van de opleiding of van het beroep van geregistreerd-mondhygiënist.
 
 ##### Artikel 10
 
 1. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), met uitzondering van artikel 2, eerste lid, onder d, [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) en [8 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=8) zijn van toepassing met dien verstande dat:
 
-- a. onder de bescheiden, bedoeld in [artikel 2, eerste lid, onder b, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2020-07-01&g=2020-07-01);
+- a. onder de bescheiden, bedoeld in [artikel 2, eerste lid, onder b, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01);
 
-- b. onder een getuigschrift als bedoeld [artikel 2, vierde lid, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2020-07-01&g=2020-07-01);
+- b. onder een getuigschrift als bedoeld [artikel 2, vierde lid, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan de bescheiden, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01);
 
 - c. dat voor de toepassing van [artikel 2, negende lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2), geregistreerde mondhygiënisten gelijk worden gesteld aan fysiotherapeuten en verloskundigen;
 
-- d. onder de verklaring, bedoeld in [artikel 2, negende lid, onder e, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan een verklaring als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2020-07-01&g=2020-07-01).
+- d. onder de verklaring, bedoeld in [artikel 2, negende lid, onder e, Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2) wordt verstaan een verklaring als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01).
 
-2. Indien inschrijving in het register, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2020-07-01&g=2020-07-01), plaatsvindt op grond van een verklaring als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2020-07-01&g=2020-07-01), wordt voor de toepassing van [artikel 7 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) die verklaring gelijkgesteld met een verklaring als bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
+2. Indien inschrijving in het register, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), plaatsvindt op grond van een verklaring als bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), wordt voor de toepassing van [artikel 7 Registratiebesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=7) die verklaring gelijkgesteld met een verklaring als bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41).
 
 ##### Artikel 11
 
-1. Onze Minister kan voor de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2020-07-01&g=2020-07-01), reeds besluiten op aanvragen tot inschrijving in het tijdelijk register voor geregistreerd-mondhygiënisten. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van de datum van inwerkingtreding van artikel 2, eerste lid.
+1. Onze Minister kan voor de inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), reeds besluiten op aanvragen tot inschrijving in het tijdelijk register voor geregistreerd-mondhygiënisten. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van de datum van inwerkingtreding van artikel 2, eerste lid.
 
-2. Indien het besluit tot inschrijving op een aanvraag, bedoeld in het eerste lid, wordt genomen op een tijdstip na inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2020-07-01&g=2020-07-01), vindt de inschrijving in afwijking van het eerste lid plaats op dat tijdstip.
+2. Indien het besluit tot inschrijving op een aanvraag, bedoeld in het eerste lid, wordt genomen op een tijdstip na inwerkingtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), vindt de inschrijving in afwijking van het eerste lid plaats op dat tijdstip.
 
 ##### Artikel 12
 
@@ -94,7 +94,7 @@ Onze Minister zendt binnen vijf jaar na inwerkingtreding van dit besluit aan de 
 
 ##### Artikel 14
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=5&artikel=11&z=2020-07-01&g=2020-07-01) in werking treedt.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=5&artikel=11&z=2023-01-01&g=2023-01-01) in werking treedt.
 
 ##### Artikel 15
 
@@ -108,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **wet:** de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. **Centraal Register Opleidingen Hoger Onderwijs:** het register, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
+- b. **Registratie instellingen en opleidingen:** het register, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13).
 
 - c. **commissie:** de commissie, bedoeld in [artikel 1, onderdeel c, van het Besluit Buitenslands Gediplomeerden Volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=1).
 
@@ -116,21 +116,21 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Door Onze Minister wordt een tijdelijk register ingesteld en beheerd, waarin degene die aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2020-07-01&g=2020-07-01) gestelde voorwaarden voldoet, op aanvraag voor de duur van dit besluit worden ingeschreven.
+1. Door Onze Minister wordt een tijdelijk register ingesteld en beheerd, waarin degene die aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01) gestelde voorwaarden voldoet, op aanvraag voor de duur van dit besluit worden ingeschreven.
 
 2. [Artikel 14 Besluit diëtist, ergotherapeut, logopedist, mondhygiënist, oefentherapeut, orthoptist en podotherapeut](https://wetten.overheid.nl/jci1.3:c:BWBR0008975&artikel=14) is niet van toepassing op beroepsbeoefenaren die als geregistreerd-mondhygiënist zijn ingeschreven in het register, bedoeld in het eerste lid.
 
 ##### Artikel 3
 
-1. In het register, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2020-07-01&g=2020-07-01) wordt ingeschreven, met inachtneming van het derde lid, degene:
+1. In het register, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01) wordt ingeschreven, met inachtneming van het derde lid, degene:
 
-- a. aan wie een getuigschrift is uitgereikt waaruit blijkt dat hij in het jaar 2006 of later het afsluitende examen van een opleiding voor mondzorgkunde met goed gevolg heeft afgelegd, welke opleiding is opgenomen in het Centraal Register Opleidingen Hoger Onderwijs en die voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=6&z=2020-07-01&g=2020-07-01), of
+- a. aan wie een getuigschrift is uitgereikt waaruit blijkt dat hij in het jaar 2006 of later het afsluitende examen van een opleiding voor mondzorgkunde met goed gevolg heeft afgelegd, welke opleiding is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=6&z=2023-01-01&g=2023-01-01), of
 
 - b. die in het bezit is van een door Onze Minister afgegeven verklaring van vakbekwaamheid:
 
 - i. waaruit blijkt dat hij een examen heeft afgelegd van een opleiding, die is gericht op de uitoefening van het beroep van geregistreerd-mondhygiënist en aan de betrokkene daarvan een getuigschrift is uitgereikt dat niet is afgegeven binnen een staat aangesloten bij de overeenkomst van Oporto van 2 mei 1992 betreffende de Europese Economische Ruimte (Trb. 1992, 132) of Zwitserland, en
 
-- ii. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=6&z=2020-07-01&g=2020-07-01) kan worden afgeleid, of
+- ii. waarin Onze Minister verklaart dat de door de betrokkene verworven vakbekwaamheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) geacht kan worden gelijkwaardig te zijn aan de vakbekwaamheid welke uit de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=6&z=2023-01-01&g=2023-01-01) kan worden afgeleid, of
 
 - c. die in het bezit is van een door Onze Minister afgegeven erkenning van beroepskwalificaties als mondhygiënist in de zin van de Algemene wet erkenning EU-beroepskwalificaties.
 
@@ -140,7 +140,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Geregistreerd-mondhygiënisten zijn bevoegd tot het verrichten van handelingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=4&artikel=8&z=2020-07-01&g=2020-07-01).
+1. Geregistreerd-mondhygiënisten zijn bevoegd tot het verrichten van handelingen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=4&artikel=8&z=2023-01-01&g=2023-01-01).
 
 2. De aanwijzing, bedoeld in het eerste lid, geldt voor een termijn van vijf jaar.
 
@@ -148,7 +148,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2020-07-01&g=2020-07-01), heeft een studielast van 240 studiepunten, omvat zowel theoretisch als praktisch onderwijs en is erop gericht dat de betrokkene competenties verwerft, behorend tot het gebied van deskundigheid als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01), ter zake van:
+De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), heeft een studielast van 240 studiepunten, omvat zowel theoretisch als praktisch onderwijs en is erop gericht dat de betrokkene competenties verwerft, behorend tot het gebied van deskundigheid als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=3&artikel=7&z=2023-01-01&g=2023-01-01), ter zake van:
 
 - a. professionele mondzorgkundige vorming;
 
@@ -164,7 +164,7 @@ De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.ove
 
 ##### Artikel 6
 
-1. Het aspect professionele mondzorgkundige vorming, bedoeld in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), is zodanig ingericht dat de betrokkene in staat is tot:
+1. Het aspect professionele mondzorgkundige vorming, bedoeld in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), is zodanig ingericht dat de betrokkene in staat is tot:
 
 - a. het verwerven en verwerken van relevante informatie;
 
@@ -178,7 +178,7 @@ De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.ove
 
 - f. de evaluatie van eigen handelen, op grond waarvan eigen beperkingen worden herkend en erkend.
 
-2. Het aspect communicatie en voorlichting, bedoeld in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), is zodanig ingericht dat de betrokkene in staat is tot:
+2. Het aspect communicatie en voorlichting, bedoeld in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), is zodanig ingericht dat de betrokkene in staat is tot:
 
 - a. het effectief communiceren met de patiënt en, in daarvoor in aanmerking komende gevallen, met diens naaste betrekkingen;
 
@@ -186,7 +186,7 @@ De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.ove
 
 - c. het geven van voorlichting aan de patiënt met betrekking tot gedrag en behandeling op het gebied van de preventieve mondzorg.
 
-3. Het aspect onderzoek en diagnose van problemen op het gebied van de preventieve mondzorg en het op basis daarvan opstellen en uitvoeren van een behandelplan, bedoeld in [artikel 5, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), is zodanig ingericht dat de betrokkene in staat is tot:
+3. Het aspect onderzoek en diagnose van problemen op het gebied van de preventieve mondzorg en het op basis daarvan opstellen en uitvoeren van een behandelplan, bedoeld in [artikel 5, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), is zodanig ingericht dat de betrokkene in staat is tot:
 
 - a. het in het kader van het mondzorgkundige onderzoek bij de patiënt afnemen van een anamnese, omvattende diens tandheelkundige, medische, persoonlijke en sociaal-culturele achtergronden teneinde de implicaties van algemene gezondheidsafwijkingen en geneesmiddelengebruik voor het uitvoeren van de mondzorgkundige behandeling te kunnen beoordelen;
 
@@ -198,7 +198,7 @@ De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.ove
 
 - e. het opstellen van een behandelplan en het verwijzen van de patiënt naar een tandarts of arts indien dat in het belang van de gezondheid van de patiënt noodzakelijk is.
 
-4. Het aspect instellen en handhaven van een optimale mondgezondheid, bedoeld in [artikel 5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), is zodanig ingericht dat de betrokkene in staat is tot:
+4. Het aspect instellen en handhaven van een optimale mondgezondheid, bedoeld in [artikel 5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), is zodanig ingericht dat de betrokkene in staat is tot:
 
 - a. het geven van tandheelkundige gezondheidsvoorlichting;
 
@@ -210,7 +210,7 @@ De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.ove
 
 - e. het toepassen van lokale anesthesie door het geven van injecties ten behoeve van geleidings- of infiltratie-anesthesie.
 
-5. Het aspect beginselen van de mondzorg, bedoeld in [artikel 5, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), is zodanig ingericht dat de betrokkene:
+5. Het aspect beginselen van de mondzorg, bedoeld in [artikel 5, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), is zodanig ingericht dat de betrokkene:
 
 - a. inzicht verwerft in de epidemiologie en de behoefte aan preventieve mondzorg van de bevolking als geheel en de daartoe te hanteren interventiemogelijkheden;
 
@@ -218,7 +218,7 @@ De opleiding, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.ove
 
 - c. inzicht verwerft in de structuur en financiering van de gezondheidszorg gericht op de mondzorg.
 
-6. Het aspect praktijkvoering, bedoeld in [artikel 5, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2020-07-01&g=2020-07-01), is zodanig ingericht dat de betrokkene in staat is tot:
+6. Het aspect praktijkvoering, bedoeld in [artikel 5, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), is zodanig ingericht dat de betrokkene in staat is tot:
 
 - a. het voeren van overleg en samenwerken binnen het mondzorgteam en andere beroepsbeoefenaren in de gezondheidszorg;
 
@@ -262,7 +262,7 @@ Tot het gebied van deskundigheid van de geregistreerd-mondhygiënist wordt gerek
 
 - c. het verrichten van handelingen waarbij gebruik wordt gemaakt van radioactieve stoffen of toestellen die ioniserende straling uitzenden;
 
-2. De bevoegdheid, genoemd in het eerste lid, geldt uitsluitend voor zover het betreft handelingen die vallen binnen de deskundigheid, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=3&artikel=7&z=2020-07-01&g=2020-07-01), en die handelingen worden uitgeoefend volgens landelijke geldende richtlijnen, standaarden en daarvan afgeleide protocollen.
+2. De bevoegdheid, genoemd in het eerste lid, geldt uitsluitend voor zover het betreft handelingen die vallen binnen de deskundigheid, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042257&paragraaf=3&artikel=7&z=2023-01-01&g=2023-01-01), en die handelingen worden uitgeoefend volgens landelijke geldende richtlijnen, standaarden en daarvan afgeleide protocollen.
 
 #### § 5. Overige bepalingen
 
