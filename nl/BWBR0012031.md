@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2022-04-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -213,7 +213,9 @@ Vervallen
 
 - e. uitkeringen en verstrekkingen ingevolge de [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959);
 
-- f. inkomensondersteunende uitkeringen ingevolge [artikel 108, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108), die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten.
+- f. uitkeringen en verstrekkingen ingevolge de [Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503);
+
+- g. inkomensondersteunende uitkeringen ingevolge [artikel 108, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108), die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten.
 
 2. Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in [artikel 3.104, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), worden aangewezen: uitkeringen ingevolge de [Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0010997), zoals deze luidde op 31 december 2014.
 
@@ -229,9 +231,7 @@ Vervallen
 
 - d. voorzieningen als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=5), en [8 van het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&artikel=8);
 
-- e. subsidies voor scholing als bedoeld in [artikel 2 van de Regeling subsidie scholing en plaatsing oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0033947&artikel=2);
-
-- f. voorzieningen als bedoeld in [artikel 30a, vierde tot en met negende lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a), [artikel 26, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26) en [artikel 2:18 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:18).
+- e. voorzieningen als bedoeld in [artikel 30a, vierde tot en met negende lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a), [artikel 26, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26) en [artikel 2:18 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:18).
 
 ##### Artikel 17a. Aanvullende bepalingen met betrekking tot de eigenwoningreserve
 
@@ -501,7 +501,7 @@ Voor overige diëten worden de extra kosten gesteld op nihil.
 
 ##### Artikel 38. Uitgaven voor specifieke zorgkosten; extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven
 
-1. Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in [artikel 6.17, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17) worden in aanmerking genomen voor een bedrag van € 300 dan wel, indien blijkt dat die uitgaven € 600 te boven gaan, voor een bedrag van € 750, indien:
+1. Uitgaven voor extra kleding en beddengoed alsmede daarmee samenhangende extra uitgaven als bedoeld in [artikel 6.17, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17) worden in aanmerking genomen voor een bedrag van € 310 dan wel, indien blijkt dat die uitgaven € 620 te boven gaan, voor een bedrag van € 775, indien:
 
 - a. de genoemde uitgaven voortvloeien uit ziekte of invaliditeit van een persoon als bedoeld in [artikel 6.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.16) die tot het huishouden van de belastingplichtige behoort; en
 
@@ -549,9 +549,9 @@ Voor overige diëten worden de extra kosten gesteld op nihil.
 
 1. De ingevolge [artikel 6.26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26) bedoelde weekenduitgaven voor gehandicapten worden gesteld op:
 
-- a. € 11 per dag van verzorging van de gehandicapte door de belastingplichtige, alsmede
+- a. € 12 per dag van verzorging van de gehandicapte door de belastingplichtige, alsmede
 
-- b. € 0,19 per kilometer voor het vervoer per auto van de gehandicapte door de belastingplichtige over de reisafstand tussen de plaats waar de gehandicapte doorgaans verblijft en de plaats waar de belastingplichtige doorgaans verblijft.
+- b. € 0,21 per kilometer voor het vervoer per auto van de gehandicapte door de belastingplichtige over de reisafstand tussen de plaats waar de gehandicapte doorgaans verblijft en de plaats waar de belastingplichtige doorgaans verblijft.
 
 Dagen van verzorging van de gehandicapte door de belastingplichtige zijn de dagen waarop de gehandicapte bij de belastingplichtige verblijft, met inbegrip van de dagen waarop de gehandicapte wordt gehaald of gebracht.
 
@@ -689,11 +689,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2022-01-01&g=2022-04-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2023-01-01&g=2023-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2022-01-01&g=2022-04-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2023-01-01&g=2023-01-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2022-01-01&g=2022-04-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2023-01-01&g=2023-01-01) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -833,9 +833,9 @@ Vervallen
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2022-01-01&g=2022-04-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2023-01-01&g=2023-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2022-01-01&g=2022-04-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2023-01-01&g=2023-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
@@ -969,7 +969,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2022-01-01&g=2022-04-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
+[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2023-01-01&g=2023-01-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
