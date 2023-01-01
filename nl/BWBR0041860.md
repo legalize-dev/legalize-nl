@@ -4,7 +4,7 @@ identifier: "BWBR0041860"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2019-01-31"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041860"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2019-01-31&g=2019-01-31);
+- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2023-01-01&g=2023-01-01);
 
 - **regeling:** [Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553).
 
@@ -54,9 +54,9 @@ In dit besluit wordt verstaan onder:
 
 1. Er is een Tijdelijke adviescommissie regionaal investeringsfonds mbo.
 
-2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven per 1 januari 2025.
+2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven met ingang van 1 januari 2026.
 
-3. Leden van de commissie zijn ook na 1 januari 2025 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2019-01-31&g=2019-01-31) genoemde taken van de commissie.
+3. Leden van de commissie zijn ook na 1 januari 2026 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2023-01-01&g=2023-01-01) genoemde taken van de commissie.
 
 ##### Artikel 3. Taken
 
@@ -118,13 +118,11 @@ Tot leden van de commissie worden benoemd:
 
 - e. de heer T.A.J.M. Ariëns te Vaals;
 
-- f. de heer J. Post te Wijhe;
+- f. mevrouw dr. A.M.C. Sluijter te Oegstgeest;
 
-- g. mevrouw dr. A.M.C. Sluijter te Oegstgeest;
+- g. mevrouw M. Wagner te Zandvoort; en
 
-- h. mevrouw M. Wagner te Zandvoort; en
-
-- i. de heer E. Berends te Haarlem.
+- h. de heer E. Berends te Haarlem.
 
 ##### Artikel 7. Secretariaat
 
@@ -178,7 +176,7 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden d
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2019.
 
-2. Dit besluit vervalt met ingang van 1 januari 2025.
+2. Dit besluit vervalt met ingang van 1 januari 2026.
 
 ##### Artikel 15. Citeertitel
 
