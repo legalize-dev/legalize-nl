@@ -4,7 +4,7 @@ identifier: "BWBR0031386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031386"
 soort: "ministeriele-regeling"
@@ -114,53 +114,59 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 5°. totaal aanwas in het cumulatieve premieloon Aof uitkering;
 
-- 6°. totaal aanwas in het cumulatieve premieloon AWf laag;
+- 6°. totaal aanwas in het cumulatieve premieloon Whk;
 
-- 7°. totaal aanwas in het cumulatieve premieloon AWf hoog;
+- 7°. totaal aanwas in het cumulatieve premieloon AWf laag;
 
-- 8°. totaal aanwas in het cumulatieve premieloon AWf herzien;
+- 8°. totaal aanwas in het cumulatieve premieloon AWf hoog;
 
-- 9°. totaal aanwas in het cumulatieve premieloon Ufo;
+- 9°. totaal aanwas in het cumulatieve premieloon AWf herzien;
 
-- 10°. ingehouden loonbelasting en premie volksverzekeringen;
+- 10°. totaal aanwas in het cumulatieve premieloon AWf uitkering;
 
-- 11°. eindheffing publiekrechtelijke uitkeringen en tijdelijke knelpunten van ernstige aard;
+- 11°. totaal aanwas in het cumulatieve premieloon Ufo;
 
-- 12°. eindheffing doorlopend afwisselend gebruik bestelauto;
+- 12°. ingehouden loonbelasting en premie volksverzekeringen;
 
-- 13°. pseudo-eindheffing RVU;
+- 13°. eindheffing publiekrechtelijke uitkeringen en tijdelijke knelpunten van ernstige aard;
 
-- 14°. eindheffing overschrijding forfaitaire werkkostenregeling;
+- 14°. eindheffing doorlopend afwisselend gebruik bestelauto;
 
-- 15°. afdrachtvermindering zeevaart;
+- 15°. pseudo-eindheffing RVU;
 
-- 16°. afdrachtvermindering speur- en ontwikkelingswerk;
+- 16°. eindheffing overschrijding forfaitaire werkkostenregeling;
 
-- 17°. totaal premie Aof laag;
+- 17°. afdrachtvermindering zeevaart;
 
-- 18°. totaal premie Aof hoog;
+- 18°. afdrachtvermindering speur- en ontwikkelingswerk;
 
-- 19°. totaal premie Aof uitkering;
+- 19°. totaal premie Aof laag;
 
-- 20°. totaal opslag Wko;
+- 20°. totaal premie Aof hoog;
 
-- 21°. totaal gedifferentieerde premie Whk;
+- 21°. totaal premie Aof uitkering;
 
-- 22°. totaal premie AWf laag;
+- 22°. totaal opslag Wko;
 
-- 23°. totaal premie AWf hoog;
+- 23°. totaal gedifferentieerde premie Whk;
 
-- 24°. totaal premie AWf herzien;
+- 24°. totaal premie AWf laag;
 
-- 25°. totaal premie Ufo;
+- 25°. totaal premie AWf hoog;
 
-- 26°. totaal ingehouden bijdragen Zvw;
+- 26°. totaal premie AWf herzien;
 
-- 27°. totaal werkgeversheffing Zvw;
+- 27°. totaal premie AWf uitkering;
 
-- 28°. totaal te betalen over tijdvak;
+- 28°. totaal premie Ufo;
 
-- 29°. totaal generaal;
+- 29°. totaal ingehouden bijdragen Zvw;
+
+- 30°. totaal werkgeversheffing Zvw;
+
+- 31°. totaal te betalen over tijdvak;
+
+- 32°. totaal generaal;
 
 - b. saldo correcties voorgaand aangiftetijdvak:
 
@@ -180,7 +186,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 3°. datum einde inkomstenverhouding;
 
-- 4°. code reden einde arbeidsovereenkomst;
+- 4°. code reden einde arbeidsverhouding;
 
 - 5°. personeelsnummer;
 
@@ -302,75 +308,81 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 5°. aanwas in het cumulatieve premieloon Aof uitkering;
 
-- 6°. aanwas in het cumulatieve premieloon AWf laag;
+- 6°. aanwas in het cumulatieve premieloon Whk;
 
-- 7°. aanwas in het cumulatieve premieloon AWf hoog;
+- 7°. aanwas in het cumulatieve premieloon AWf laag;
 
-- 8°. aanwas in het cumulatieve premieloon AWf herzien;
+- 8°. aanwas in het cumulatieve premieloon AWf hoog;
 
-- 9°. aanwas in het cumulatieve premieloon Ufo;
+- 9°. aanwas in het cumulatieve premieloon AWf herzien;
 
-- 10°. loon belast volgens tabel bijzondere beloningen;
+- 10°. aanwas in het cumulatieve premieloon AWf uitkering;
 
-- 11°. vakantiebijslag;
+- 11°. aanwas in het cumulatieve premieloon Ufo;
 
-- 12°. opgebouwde recht vakantiebijslag;
+- 12°. loon belast volgens tabel bijzondere beloningen;
 
-- 13°. opname arbeidsvoorwaardenbedrag;
+- 13°. vakantiebijslag;
 
-- 14°. opbouw arbeidsvoorwaardenbedrag;
+- 14°. opgebouwde recht vakantiebijslag;
 
-- 15°. loon in geld;
+- 15°. opname arbeidsvoorwaardenbedrag;
 
-- 16°. waarde niet in geld uitgekeerd loon;
+- 16°. opbouw arbeidsvoorwaardenbedrag;
 
-- 17°. loon uit overwerk;
+- 17°. loon in geld;
 
-- 18°. verstrekte aanvulling op uitkering werknemersverzekering;
+- 18°. waarde niet in geld uitgekeerd loon;
 
-- 19°. ingehouden loonbelasting/premie volksverzekeringen;
+- 19°. loon uit overwerk;
 
-- 20°. premie Aof laag;
+- 20°. verstrekte aanvulling op uitkering werknemersverzekering;
 
-- 21°. premie Aof hoog;
+- 21°. ingehouden loonbelasting/premie volksverzekeringen;
 
-- 22°. premie Aof uitkering;
+- 22°. premie Aof laag;
 
-- 23°. opslag Wko;
+- 23°. premie Aof hoog;
 
-- 24°. gedifferentieerde premie Whk;
+- 24°. premie Aof uitkering;
 
-- 25°. premie AWf laag;
+- 25°. opslag Wko;
 
-- 26°. premie AWf hoog;
+- 26°. gedifferentieerde premie Whk;
 
-- 27°. premie AWf herzien;
+- 27°. premie AWf laag;
 
-- 28°. premie Ufo;
+- 28°. premie AWf hoog;
 
-- 29°. ingehouden bijdrage Zvw;
+- 29°. premie AWf herzien;
 
-- 30°. werkgeversheffing Zvw;
+- 30°. premie AWf uitkering;
 
-- 31°. waarde privégebruik auto;
+- 31°. premie Ufo;
 
-- 32°. werknemersbijdrage privégebruik auto;
+- 32°. ingehouden bijdrage Zvw;
 
-- 33°. bedrag vergoeding reiskosten;
+- 33°. werkgeversheffing Zvw;
 
-- 34°. verrekende arbeidskorting;
+- 34°. waarde privégebruik auto;
 
-- 35°. aantal verloonde uren;
+- 35°. werknemersbijdrage privégebruik auto;
 
-- 36°. contractloon;
+- 36°. bedrag vergoeding reiskosten;
 
-- 37°. aantal contracturen per week;
+- 37°. verrekende arbeidskorting;
 
-- 38°. bedrag rente- of kostenvoordeel personeelslening;
+- 38°. aantal verloonde uren;
 
-- 39°. bedrag in uitkering begrepen doorbetaalde alimentatie;
+- 39°. contractloon;
 
-- 40°. bedrag rechtstreeks betaalde alimentatie;
+- 40°. aantal contracturen per week;
+
+- 41°. bedrag rente- of kostenvoordeel personeelslening;
+
+- 42°. bedrag in uitkering begrepen doorbetaalde alimentatie;
+
+- 43°. bedrag rechtstreeks betaalde alimentatie;
 
 - g. sector:
 
@@ -382,7 +394,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2022-01-01&g=2022-01-01).
+De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 1a.3. Gegevens opgave bij verwijtbaar onjuiste of onvolledige aangifte over verstreken kalenderjaar (jaarloonopgave)
 
