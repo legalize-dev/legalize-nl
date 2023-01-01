@@ -4,7 +4,7 @@ identifier: "BWBR0029316"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-01-01"
-last_updated: "2011-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029316"
 soort: "ministeriele-regeling-BES"
@@ -39,7 +39,7 @@ Treedt in werking om 0.00 uur in Bonaire, Sint Eustatius en Saba en om 05.00 uur
 
 ##### Artikel 1
 
-Deze regeling geeft uitvoering aan [artikel 9C, vijfde lid, onderdeel b, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=9c) en [artikel 6C, derde lid, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6c).
+Deze regeling geeft uitvoering aan [artikel 9C, vijfde lid, onderdeel b, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=9c) en [artikel 6c, vijfde lid, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6c).
 
 ##### Artikel 2
 
