@@ -4,7 +4,7 @@ identifier: "BWBR0041524"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2018-11-09"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041524"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Treedt in werking op het tijdstip waarop artikel 25, eerste lid, van de Wet beve
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van de bepalingen van de [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515), zijn, voor zover het de bevoegdheden betreft van de Minister van Economische Zaken en Klimaat als de bevoegde autoriteit, belast de ambtenaren met de functiebenamingen inspecteur, senior inspecteur, coördinerend/specialistisch inspecteur en inspecteur/medewerker toezicht van de afdeling Toezicht van Agentschap Telecom van het Ministerie van Economische Zaken en Klimaat.
+Met het toezicht op de naleving van de bepalingen van de [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515), zijn, voor zover het de bevoegdheden betreft van de Minister van Economische Zaken en Klimaat als de bevoegde autoriteit, belast de ambtenaren met de functiebenamingen inspecteur, senior inspecteur, coördinerend/specialistisch inspecteur en inspecteur/medewerker toezicht van de directies Apparatuur, Infrastructuur en Digitale Weerbaarheid van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 ##### Artikel 2
 
