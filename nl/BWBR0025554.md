@@ -4,7 +4,7 @@ identifier: "BWBR0025554"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2021-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025554"
 soort: "AMvB"
@@ -66,9 +66,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01).
+1. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een radarontvangstapparaat aanwezig is als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01).
 
-2. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een apparaat aanwezig is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2021-07-01&g=2021-07-01).
+2. Het is de bestuurder van een motorrijtuig verboden met dat motorrijtuig te rijden en de eigenaar of houder van een motorrijtuig verboden met dat motorrijtuig te laten rijden, indien in of aan het motorrijtuig een apparaat aanwezig is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01).
 
 ### Hoofdstuk 3. Periodieke keuring van voertuigen
 
@@ -120,7 +120,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 8
 
-[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2021-07-01&g=2021-07-01) bedoeld, ten aanzien van:
+[Artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) geldt niet voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2023-01-01&g=2023-01-01) bedoeld, ten aanzien van:
 
 - a. motorrijtuigen met een verbrandingsmotor die wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel zolang sinds de datum van eerste toelating van het motorrijtuig nog geen drie jaren zijn verstreken;
 
@@ -186,13 +186,13 @@ Vervallen
 
 1. Een keuringsbewijs is geldig voor de duur van een jaar.
 
-2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2021-07-01&g=2021-07-01) bedoeld, en:
+2. In afwijking van het eerste lid is het keuringsbewijs geldig voor de duur van twee jaren indien het keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2023-01-01&g=2023-01-01) bedoeld, en:
 
 - a. dat is uitgerust met een verbrandingsmotor die niet wordt gevoed door al dan niet tot vloeistof verdicht gas of diesel; en
 
 - b. sinds de datum van eerste toelating op het moment van afgifte van het keuringsbewijs een termijn van zeven jaren nog niet is verstreken.
 
-3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2021-07-01&g=2021-07-01) bedoeld.
+3. In afwijking van het eerste lid is voorts het keuringsbewijs waarvan de datum van afgifte 30 jaren of meer ligt na de datum van eerste toelating geldig voor de duur van twee jaren indien het desbetreffende keuringsbewijs is afgegeven voor een ander motorrijtuig dan in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=5&z=2023-01-01&g=2023-01-01) bedoeld.
 
 4. In afwijking van het eerste tot en met derde lid is een keuringsbewijs afgegeven voor een landbouw- of bosbouwtrekker geldig voor de duur van twee jaren.
 
@@ -240,7 +240,7 @@ De Dienst Wegverkeer doet, indien de keuring op grond waarvan het keuringsrappor
 
 ##### Artikel 24
 
-Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2021-07-01&g=2021-07-01) is een strafbaar feit.
+Overtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=2&artikel=3&z=2023-01-01&g=2023-01-01) is een strafbaar feit.
 
 ##### Artikel 25
 
@@ -250,7 +250,7 @@ Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van [
 
 ##### Artikel 26
 
-Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2021-07-01&g=2021-07-01) van dit besluit.
+Na de inwerkingtreding van dit besluit berust de [Regeling transitokentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0020708) mede op [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) van dit besluit.
 
 ##### Artikel 27
 
@@ -398,66 +398,12 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 25a
 
-1. Voor een landbouw- of bosbouwtrekker waarvan de datum van eerste toelating is gelegen vóór 1 januari 2021 is [artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) niet van toepassing tot de in de bijlage genoemde datum behorend bij het kalenderjaar van de datum van eerste toelating van het desbetreffende voertuig.
-
-2. Indien de periode tussen de datum waarop het voertuig overeenkomstig [artikel 58y, eerste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58y) is ingeschreven en te naam gesteld en de in het eerste lid bedoelde datum korter is dan twee maanden, is [artikel 72, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=72) niet van toepassing tot twee maanden na de datum waarop het voertuig is ingeschreven en te naam gesteld.
+Vervallen
 
 ### Hoofdstuk 5. Slotbepalingen
 
-## Bijlage. Tabel met datums vanaf wanneer de APK-plicht geldt voor landbouw- en bosbouwtrekkers met een datum van eerste toelating vóór 1 januari 2021 als bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=4a&artikel=25a&z=2021-07-01&g=2021-07-01)
+## Bijlage. Tabel met datums vanaf wanneer de APK-plicht geldt voor landbouw- en bosbouwtrekkers met een datum van eerste toelating vóór 1 januari 2021 als bedoeld in [artikel 25a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&hoofdstuk=4a&artikel=25a&z=2023-01-01&g=2023-01-01)
 
-| **Kalenderjaar datum van eerste toelating** | **Datum tot wanneer artikel 72, eerste lid, van de wet niet van toepassing is** |
-| --- | --- |
-| 1971 | 1 juli 2021 |
-| 1972 | 1 juli 2021 |
-| 1973 | 1 augustus 2021 |
-| 1974 | 1 augustus 2021 |
-| 1975 | 1 september 2021 |
-| 1976 | 1 september 2021 |
-| 1977 | 1 oktober 2021 |
-| 1978 | 1 oktober 2021 |
-| 1979 | 1 november 2021 |
-| 1980 | 1 november 2021 |
-| 1981 | 1 december 2021 |
-| 1982 | 1 december 2021 |
-| 1983 | 1 januari 2022 |
-| 1984 | 1 januari 2022 |
-| 1985 | 1 februari 2022 |
-| 1986 | 1 februari 2022 |
-| 1987 | 1 maart 2022 |
-| 1988 | 1 maart 2022 |
-| 1989 | 1 april 2022 |
-| 1990 | 1 april 2022 |
-| 1991 | 1 juni 2022 |
-| 1992 | 1 juni 2022 |
-| 1993 | 1 augustus 2022 |
-| 1994 | 1 augustus 2022 |
-| 1995 | 1 oktober 2022 |
-| 1996 | 1 oktober 2022 |
-| 1997 | 1 december 2022 |
-| 1998 | 1 december 2022 |
-| 1999 | 1 augustus 2021 |
-| 2000 | 1 augustus 2021 |
-| 2001 | 1 oktober 2021 |
-| 2002 | 1 oktober 2021 |
-| 2003 | 1 december 2021 |
-| 2004 | 1 december 2021 |
-| 2005 | 1 februari 2022 |
-| 2006 | 1 februari 2022 |
-| 2007 | 1 april 2022 |
-| 2008 | 1 juni 2022 |
-| 2009 | 1 augustus 2022 |
-| 2010 | 1 oktober 2022 |
-| 2011 | 1 december 2022 |
-| 2012 | 1 september 2021 |
-| 2013 | 1 november 2021 |
-| 2014 | 1 januari 2022 |
-| 2015 | 1 maart 2022 |
-| 2016 | 1 mei 2022 |
-| 2017 (vóór 1 mei) | 1 juli 2022 |
-| 2017 (op of na 1 mei) | datum gelegen vier jaar na de datum van eerste toelating |
-| 2018 | datum gelegen vier jaar na de datum van eerste toelating |
-| 2019 | datum gelegen vier jaar na de datum van eerste toelating |
-| 2020 | datum gelegen vier jaar na de datum van eerste toelating |
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
