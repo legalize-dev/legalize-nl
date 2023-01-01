@@ -4,7 +4,7 @@ identifier: "BWBR0040482"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040482"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De basisregistratie ondergrond wordt vormgegeven aan de hand van een systeembeschrijving, die wordt gevormd door de Globale Architectuurschets Basisregistratie Ondergrond, en de Programma Start Architectuur Basisregistratie Ondergrond, beide opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2022-07-01&g=2022-07-01) bij deze regeling.
+De basisregistratie ondergrond wordt vormgegeven aan de hand van een systeembeschrijving, die wordt gevormd door de Globale Architectuurschets Basisregistratie Ondergrond, en de Programma Start Architectuur Basisregistratie Ondergrond, beide opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 ##### Artikel 3
 
@@ -90,7 +90,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 1. Bij de primaire controle vindt in ieder geval een beoordeling plaats van de adequate uitvoering van de volgende aspecten binnen de Organisatie:
 
-- a. de opzet en het bestaan van maatregelen en procedures die in de borging van de wettelijke eisen moeten voorzien met inachtneming van de systeembeschrijving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2022-07-01&g=2022-07-01), en
+- a. de opzet en het bestaan van maatregelen en procedures die in de borging van de wettelijke eisen moeten voorzien met inachtneming van de systeembeschrijving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01), en
 
 - b. de werking van de getroffen maatregelen en procedures.
 
@@ -98,7 +98,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 - a. de inrichting en organisationele inbedding van en interne besluitvorming over de basisregistratie ondergrond,
 
-- b. de processen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=3&z=2022-07-01&g=2022-07-01),
+- b. de processen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=3&z=2023-01-01&g=2023-01-01),
 
 - c. de conformiteit en de continuïteit van de gebruikte in beheer en in ontwikkeling zijnde systemen,
 
@@ -106,7 +106,7 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 - e. de verwerking van persoonsgegevens, en
 
-- f. de activiteiten, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=6&artikel=14&z=2022-07-01&g=2022-07-01).
+- f. de activiteiten, genoemd in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=6&artikel=14&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 8
 
@@ -126,13 +126,13 @@ De controle van het operationeel beheer, bedoeld in [artikel 6 van de wet](https
 
 4. De resultaten van de hercontrole worden in een hercontrolerapport vastgelegd.
 
-5. [Artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2022-07-01&g=2022-07-01), is van overeenkomstige toepassing, met dien verstande dat voor ‘primaire controle’ wordt gelezen: hercontrole.
+5. [Artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing, met dien verstande dat voor ‘primaire controle’ wordt gelezen: hercontrole.
 
 ### Hoofdstuk 4. Het bronhouderportaal
 
 ##### Artikel 10
 
-De Stichting ICTU wordt aangewezen als beheerder van het bronhouderportaal als bedoeld in [artikel 9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=9).
+Vervallen
 
 ### Hoofdstuk 5. Standaarden voor de registratie ondergrond
 
@@ -140,37 +140,37 @@ De Stichting ICTU wordt aangewezen als beheerder van het bronhouderportaal als b
 
 De catalogus bestaat uit de onderdelen:
 
-- a. geotechnisch sondeeronderzoek, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=II&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- a. geotechnisch sondeeronderzoek, opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=II&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- b. booronderzoek – bodemkundige boormonsterbeschrijving en boormonsteranalyse, opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=III&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- b. booronderzoek – bodemkundige boormonsterbeschrijving en boormonsteranalyse, opgenomen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=III&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- c. booronderzoek – geologische boormonsterbeschrijving en boormonsteranalyse, opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=IV&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- c. booronderzoek – geologische boormonsterbeschrijving en boormonsteranalyse, opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=IV&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- d. booronderzoek – geotechnische boormonsterbeschrijving en boormonsteranalyse, opgenomen in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=V&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- d. booronderzoek – geotechnische boormonsterbeschrijving en boormonsteranalyse, opgenomen in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=V&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- e. wandonderzoek – bodemkundige wandbeschrijving en wandmonsteranalyse, opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=IV&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- e. wandonderzoek – bodemkundige wandbeschrijving en wandmonsteranalyse, opgenomen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=IV&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- f. grondwatermonitoringput, opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=VII&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- f. grondwatermonitoringput, opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=VII&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- g. grondwatermonitoringnet, opgenomen in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=VIII&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- g. grondwatermonitoringnet, opgenomen in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=VIII&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- h. grondwatersamenstellingsonderzoek, opgenomen in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=IX&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- h. grondwatersamenstellingsonderzoek, opgenomen in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=IX&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- i. grondwaterstandsonderzoek, opgenomen in [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=X&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- i. grondwaterstandsonderzoek, opgenomen in [bijlage X](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=X&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- j. bodemkaart, opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XI&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- j. bodemkaart, opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XI&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- k. geomorfologische kaart, opgenomen in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XII&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- k. geomorfologische kaart, opgenomen in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XII&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- l. hydrogeologisch model, opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XIII&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- l. hydrogeologisch model, opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XIII&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- m. GeoTop, opgenomen in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XIV&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- m. GeoTop, opgenomen in [bijlage XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XIV&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- n. digitaal geologisch model, opgenomen in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XV&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- n. digitaal geologisch model, opgenomen in [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XV&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- o. formatieweerstandonderzoek, opgenomen in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XVI&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- o. formatieweerstandonderzoek, opgenomen in [bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XVI&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
-- p. model grondwaterspiegeldiepte, opgenomen in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XVII&z=2022-07-01&g=2022-07-01) bij deze regeling;
+- p. model grondwaterspiegeldiepte, opgenomen in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=XVII&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
 - q. grondwatergebruikssysteem, opgenomen in bijlage XVIII bij deze regeling;
 
@@ -218,7 +218,7 @@ De catalogus bestaat uit de onderdelen:
 
 ##### Artikel 15
 
-Voor zover in de [bijlagen I tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2022-07-01&g=2022-07-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn (EU) nr. 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
+Voor zover in de [bijlagen I tot en met XV](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&bijlage=I&z=2023-01-01&g=2023-01-01) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in de richtlijn (EU) nr. 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
 
 ##### Artikel 16
 
@@ -280,7 +280,7 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 2. De Minister komt met de Minister die het aangaat een updatefrequentie en schaalniveau van het model overeen. De maker van het model adviseert over de updatefrequentie en schaalniveau van het model. Hierbij kan onderscheid bestaan tussen landsdekkende en regionale modellen.
 
-3. Na de oplevering van een nieuw of geactualiseerd authentiek model voert de maker ervan een interne kwaliteitstoets uit op basis van een standaard toetsprotocol als bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5a&artikel=11a&z=2022-07-01&g=2022-07-01). Het toetsrapport wordt aan de Minister gezonden ter goedkeuring. Na goedkeuring van het rapport wordt het model ingeschreven als bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=11).
+3. Na de oplevering van een nieuw of geactualiseerd authentiek model voert de maker ervan een interne kwaliteitstoets uit op basis van een standaard toetsprotocol als bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5a&artikel=11a&z=2023-01-01&g=2023-01-01). Het toetsrapport wordt aan de Minister gezonden ter goedkeuring. Na goedkeuring van het rapport wordt het model ingeschreven als bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037095&artikel=11).
 
 4. De Minister verstrekt op verzoek het totstandkomingsrapport en het toetsrapport.
 
@@ -300,7 +300,7 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 - f. de opvolging van meldingen, gebruikersverzoeken en klachten.
 
-2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2022-07-01&g=2022-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=9&z=2022-07-01&g=2022-07-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=8&z=2023-01-01&g=2023-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=3&artikel=9&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 11d
 
@@ -314,11 +314,13 @@ Aan de Organisatie wordt een uitsluitend recht verleend voor het in opdracht van
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage I. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2022-07-01&g=2022-07-01) van de Regeling basisregistratie ondergrond
+## Bijlage I. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01) van de Regeling basisregistratie ondergrond
 
-Deze bijlage betreft de Globale Architectuurschets Basisregistratie Ondergrond en de Programma Start Architectuur Basisregistratie Ondergrond en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
+Deze bijlage betreft de Globale Architectuurschets Basisregistratie Ondergrond en de Programma Start Architectuur Basisregistratie Ondergrond en is gepubliceerd op [https://basisregistratieondergrond.nl/publish/pages/162257/03-04-2017_globale_architectuurschets_gas_1.pdf](onbekend).
 
-## Bijlage II. behorend bij [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2022-07-01&g=2022-07-01), van de Regeling basisregistratie ondergrond
+## Bijlage II. bij [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject geotechnisch sondeeronderzoek, versie 1.1 met datum 1 september 2022, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-CPT-20220901/](onbekend).
 
 Deze bijlage betreft de catalogus van het registratieobject geotechnisch sondeeronderzoek en is tevens gepubliceerd op www.basisregistratieondergrond.nl.
 
@@ -16293,5 +16295,83 @@ De **lopende intrekking** omvat de gegevens die bij een actueel intrekkingsbeslu
 ### 3. INSPIRE
 
 Het doel van de Europese kaderrichtlijn INSPIRE is het harmoniseren en openbaar maken van ruimtelijke gegevens van overheidsorganisaties ten behoeve van het milieubeleid. Het registratieobject mijnbouwwetvergunning valt onder het INSPIRE-thema **Gebiedsbeheer, gebieden waar beperkingen gelden, gereguleerde gebieden en rapportage-eenheden** (AM), en om die reden moeten de gegevens in het registratieobject geschikt gemaakt worden voor uitwisseling volgens de INSPIRE-standaard. Dit wordt geïmplementeerd middels een mapping van het domeinmodel van het de Mijnbouwwetvergunning op het datamodel van het INSPIRE-thema. De inhoud van deze mapping is geen onderdeel van deze catalogus.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage III. bij [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject booronderzoek – bodemkundige boormonsterbeschrijving en boormonsteranalyse, versie 2.1 met datum 1 september 2022, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-bhr-p-20220901/](onbekend).
+
+## Bijlage IV. bij [artikel 11, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject booronderzoek – geologische boormonsterbeschrijving en boormonsteranalyse, versie 3.0 met datum 1 september 2022, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-bhr-g-20220901/](onbekend).
+
+## Bijlage V. bij [artikel 11, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject booronderzoek – geotechnische boormonsterbeschrijving en boormonsteranalyse, versie 2.2 met datum 1 september 2022, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-BHR-GT-20220901/](onbekend).
+
+## Bijlage VI. bij [artikel 11, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject wandonderzoek – bodemkundige wandbeschrijving en wandmonsteranalyse, versie 2.1 met datum 1 september 2022, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-sfr-20220901/](onbekend).
+
+## Bijlage VII. bij [artikel 11, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject grondwatermonitoringput, versie 1.0 met datum 27 juni 2017, en is gepubliceerd op [https://www.bro-productomgeving.nl/bpo/latest/grondwatermonitoring/grondwatermonitoringput-gmw/catalogus-gmw](onbekend).
+
+## Bijlage VIII. bij [artikel 11, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject grondwatermonitoringnet, versie 1.0 met datum 2 juli 2020, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-gmn-20200702/](onbekend).
+
+## Bijlage IX. bij [artikel 11, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject grondwatersamenstellingsonderzoek, versie 1.0 met datum 26 maart 2020, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-gar-20200326/](onbekend).
+
+## Bijlage X. bij [artikel 11, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject grondwaterstandsonderzoek, versie 1.0 met datum 2 juli 2020, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-gld-20200702/](onbekend).
+
+## Bijlage XI. bij [artikel 11, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject bodemkaart, versie 1.1 met datum 1 juli 2021, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-SGM-20210701/](onbekend).
+
+## Bijlage XII. bij [artikel 11, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject geomorfologische kaart, versie 1.0 met datum 10 mei 2019, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-GMM-20190510/](onbekend).
+
+## Bijlage XIII. bij [artikel 11, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject hydrogeologisch model, versie 1.0 met datum 7 mei 2019, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-HGM-20190507/](onbekend).
+
+## Bijlage XIV. bij [artikel 11, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject GeoTop, versie 1.0 met datum 21 juni 2019, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-GTM-20190621/](onbekend).
+
+## Bijlage XV. bij [artikel 11, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject digitaal geologisch model, versie 1.0 met datum 7 mei 2019, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-DGM-20190507/](onbekend).
+
+## Bijlage XVI. bij [artikel 11, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogi van het registratieobject formatieweerstandonderzoek, versie 1.0 met datum 1 september 2021, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-FRD-20210701/](onbekend).
+
+## Bijlage XVII. bij [artikel 11, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogi van het registratieobject model grondwaterspiegeldiepte, versie 1.0 met datum 1 juli 2021, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-wdm-20210701/](onbekend).
+
+## Bijlage XVIII. bij [artikel 11, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject grondwatergebruiksysteem, versie 1.0 met datum 21 oktober 2021, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-guf-20211021/](onbekend).
+
+## Bijlage XIX. bij [artikel 11, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject model grondwaterproductiedossier, versie 1.0 met datum 13 januari 2022, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-gpd-20220113/](onbekend).
+
+## Bijlage XX. bij [artikel 11, onderdeel s](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject mijnbouwconstructie, versie 1.0 met datum 10 oktober 2021, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-EPC-20211021/](onbekend).
+
+## Bijlage XXI. bij [artikel 11, onderdeel t](https://wetten.overheid.nl/jci1.3:c:BWBR0040482&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), van de Regeling basisregistratie ondergrond
+
+Deze bijlage betreft de catalogus van het registratieobject mijnbouwwetvergunning, versie 2.0 met datum 21 oktober 2021, en is gepubliceerd op [https://docs.geostandaarden.nl/bro/def-im-EPL-20211021/](onbekend).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
