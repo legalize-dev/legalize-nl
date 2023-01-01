@@ -4,7 +4,7 @@ identifier: "BWBR0037196"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037196"
 soort: "zbo"
@@ -66,33 +66,33 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de inschrijving in het openbaar register van een elektronisch aangeboden stuk inhoudende een stukdeel als genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2022-01-01&g=2022-01-01) van deze regeling is verschuldigd: € 137,50.
+1. Voor de inschrijving in het openbaar register van een elektronisch aangeboden stuk inhoudende een stukdeel als genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2023-01-01&g=2023-01-01) van deze regeling is verschuldigd: € 137,50.
 
-2. Voor de inschrijving in het openbaar register van een elektronisch aangeboden stuk inhoudende een stukdeel als genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=II&z=2022-01-01&g=2022-01-01) van deze regeling is verschuldigd: € 60,–.
+2. Voor de inschrijving in het openbaar register van een elektronisch aangeboden stuk inhoudende een stukdeel als genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=II&z=2023-01-01&g=2023-01-01) van deze regeling is verschuldigd: € 60,–.
 
-3. Voor de inschrijving in het openbaar register van een elektronisch aangeboden stuk inhoudende een stukdeel als genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=III&z=2022-01-01&g=2022-01-01) van deze regeling is verschuldigd: € 23,–.
+3. Voor de inschrijving in het openbaar register van een elektronisch aangeboden stuk inhoudende een stukdeel als genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=III&z=2023-01-01&g=2023-01-01) van deze regeling is verschuldigd: € 23,–.
 
 4. Indien een elektronisch ingeschreven stuk geautomatiseerd kan worden verwerkt op basis van een gelijktijdig aangeboden kadasterstylesheet of een vooraf in depot gegeven bijlage, worden de tarieven als volgt verlaagd:
 
-- a. het tarief in het eerste lid, voor een ingeschreven stukdeel als genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2022-01-01&g=2022-01-01): met € 59,–;
+- a. het tarief in het eerste lid, voor een ingeschreven stukdeel als genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2023-01-01&g=2023-01-01): met € 59,–;
 
-- b. het tarief in het tweede lid, voor een ingeschreven stukdeel als genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=II&z=2022-01-01&g=2022-01-01): met € 26,50;
+- b. het tarief in het tweede lid, voor een ingeschreven stukdeel als genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=II&z=2023-01-01&g=2023-01-01): met € 26,50;
 
-- c. het tarief in het derde lid, voor een ingeschreven stukdeel als genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=III&z=2022-01-01&g=2022-01-01): met € 10,30.
+- c. het tarief in het derde lid, voor een ingeschreven stukdeel als genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=III&z=2023-01-01&g=2023-01-01): met € 10,30.
 
-5. Indien een stuk inhoudende een stukdeel als genoemd in [bijlage I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2022-01-01&g=2022-01-01), in papieren vorm ter inschrijving wordt aangeboden, wordt het tarief als genoemd in het eerste tot en met derde lid, verhoogd met € 26,–.
+5. Indien een stuk inhoudende een stukdeel als genoemd in [bijlage I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2023-01-01&g=2023-01-01), in papieren vorm ter inschrijving wordt aangeboden, wordt het tarief als genoemd in het eerste tot en met derde lid, verhoogd met € 26,–.
 
-6. Indien meerdere stukdelen, als genoemd in [bijlage I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2022-01-01&g=2022-01-01) van deze regeling, in een stuk voorkomen, dan is slechts eenmaal het hoogste inschrijftarief verschuldigd.
+6. Indien meerdere stukdelen, als genoemd in [bijlage I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2023-01-01&g=2023-01-01) van deze regeling, in een stuk voorkomen, dan is slechts eenmaal het hoogste inschrijftarief verschuldigd.
 
 7. Voor de boeking van een stuk in het register van voorlopige aantekeningen is verschuldigd het tarief als genoemd in het tweede lid.
 
-8. Indien een stukdeel in een stuk niet vermeld staat in [bijlage I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2022-01-01&g=2022-01-01) van deze regeling is het tarief als genoemd in het eerste lid verschuldigd.
+8. Indien een stukdeel in een stuk niet vermeld staat in [bijlage I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=I&z=2023-01-01&g=2023-01-01) van deze regeling is het tarief als genoemd in het eerste lid verschuldigd.
 
 ##### Artikel 3
 
 Kosteloos is de inschrijving van:
 
-- a. een stuk inhoudende een stukdeel genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=IV&z=2022-01-01&g=2022-01-01) van deze regeling;
+- a. een stuk inhoudende een stukdeel genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&bijlage=IV&z=2023-01-01&g=2023-01-01) van deze regeling;
 
 - b. een stuk inhoudende de doorhaling van een recht van hypotheek en welk stuk geautomatiseerd kan worden verwerkt op basis van een gelijktijdig aangeboden Kadasterstylesheet of een vooraf in depot gegeven bijlage.
 
@@ -106,7 +106,7 @@ Kosteloos is de inschrijving van:
 
 - b. in andere gevallen: € 460,–.
 
-2. In geval van een spoedteboekstelling wordt het tarief, bedoeld in het eerste lid, verhoogd met € 115,– en vermeerderd met een bedrag gelijk aan het in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01), bedoelde tarief per kwartier dat de Dienst langer dan een uur op een bewijsstuk moet wachten.
+2. In geval van een spoedteboekstelling wordt het tarief, bedoeld in het eerste lid, verhoogd met € 115,– en vermeerderd met een bedrag gelijk aan het in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01), bedoelde tarief per kwartier dat de Dienst langer dan een uur op een bewijsstuk moet wachten.
 
 3. Voor het opnieuw aanbrengen van een brandmerk is verschuldigd:
 
@@ -140,11 +140,11 @@ Kosteloos is de inschrijving van:
 
 ##### Artikel 6
 
-1. Voor het op verzoek vormen van percelen, anders dan bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=3&artikel=7&z=2022-01-01&g=2022-01-01), is per nieuw te vormen perceel verschuldigd, indien:
+1. Voor het op verzoek vormen van percelen, anders dan bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=3&artikel=7&z=2023-01-01&g=2023-01-01), is per nieuw te vormen perceel verschuldigd, indien:
 
-- a. percelen moeten worden gevormd met voorlopige grenzen: € 95,–, onverminderd de toepassing van het tarief overeenkomstig onderdeel d dan wel [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=3&artikel=7&z=2022-01-01&g=2022-01-01);
+- a. percelen moeten worden gevormd met voorlopige grenzen: € 95,–, onverminderd de toepassing van het tarief overeenkomstig onderdeel d dan wel [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=3&artikel=7&z=2023-01-01&g=2023-01-01);
 
-- b. percelen moeten worden gevormd anders dan bedoeld in onderdeel a met een oppervlakte van ten hoogste 100 centiare: € 150,–, met dien verstande dat de vorming ervan noodzakelijk is om de kadastrale grens tussen twee percelen in overeenstemming te brengen met het werkelijke gebruik;
+- b. percelen moeten worden gevormd anders dan bedoeld in onderdeel a met een oppervlakte van ten hoogste 100 centiare: € 156,–, met dien verstande dat de vorming ervan noodzakelijk is om de kadastrale grens tussen twee percelen in overeenstemming te brengen met het werkelijke gebruik;
 
 - c. percelen moeten worden gevormd anders dan bedoeld in onderdelen a en b: € 420;
 
@@ -154,15 +154,15 @@ Kosteloos is de inschrijving van:
 
 2. Indien 50 of meer nieuw te vormen percelen als één samenhangend project kunnen worden ingemeten, is in afwijking van het eerste lid, onderdelen c en d, per perceel verschuldigd:
 
-- a. indien het een perceel betreft van ten hoogste 100 centiare: € 150,–;
+- a. indien het een perceel betreft van ten hoogste 100 centiare: € 156,–;
 
-- b. in andere gevallen: € 345,–.
+- b. in andere gevallen: € 342,–.
 
 ##### Artikel 7
 
-1. Onverminderd de verschuldigdheid van het tarief overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2022-01-01&g=2022-01-01), is voor de inschrijving van een stuk, dat leidt tot een verkrijging onder bijzondere titel als bedoeld in [artikel 80, derde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=80), of tot splitsing in appartementsrechten, van een perceel met een voorlopige grens als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=3&artikel=6&z=2022-01-01&g=2022-01-01), per perceel verschuldigd:
+1. Onverminderd de verschuldigdheid van het tarief overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2023-01-01&g=2023-01-01), is voor de inschrijving van een stuk, dat leidt tot een verkrijging onder bijzondere titel als bedoeld in [artikel 80, derde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=80), of tot splitsing in appartementsrechten, van een perceel met een voorlopige grens als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=3&artikel=6&z=2023-01-01&g=2023-01-01), per perceel verschuldigd:
 
-- a. voor zover het perceel een oppervlakte heeft van ten hoogste 100 centiare en blijkens het stuk ten aanzien van dat perceel sprake is van een koopsom of tegenprestatie met een waarde van ten hoogste € 5.000,–, of, bij het ontbreken van een koopsom of tegenprestatie, een waarde van ten hoogste € 5.000,–: € 55,–;
+- a. voor zover het perceel een oppervlakte heeft van ten hoogste 100 centiare en blijkens het stuk ten aanzien van dat perceel sprake is van een koopsom of tegenprestatie met een waarde van ten hoogste € 6.500,–, of, bij het ontbreken van een koopsom of tegenprestatie, een waarde van ten hoogste € 6.500,–: € 61,–;
 
 - b. in alle andere gevallen: € 630,–.
 
@@ -172,7 +172,7 @@ Kosteloos is de inschrijving van:
 
 - b. uit een enkelvoudige splitsing van een definitief gevormd perceel, het betreffende perceel is ontstaan, en deze bedragen voor het andere uit die splitsing ontstane perceel bij een eerdere of dezelfde inschrijving, al in rekening zijn gebracht.
 
-3. Onverminderd de verschuldigdheid van het tarief overeenkomstig [artikel 2, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2022-01-01&g=2022-01-01), is voor de inschrijving van een stuk, dat aanleiding is tot het vormen van percelen, per over te dragen gedeelte van een perceel verschuldigd: € 1.260,-.
+3. Onverminderd de verschuldigdheid van het tarief overeenkomstig [artikel 2, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2023-01-01&g=2023-01-01), is voor de inschrijving van een stuk, dat aanleiding is tot het vormen van percelen, per over te dragen gedeelte van een perceel verschuldigd: € 1.260,-.
 
 4. Op verzoek verleent de Dienst teruggaaf van het op grond van het eerste lid verschuldigde tarief, indien ten aanzien van alle aangrenzende percelen met voorlopige grenzen het grens-verificatietarief reeds voldaan is op grond van [artikel 2, tweede lid, van de Regeling tarieven Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0016017&artikel=2) zoals deze tot 1 januari 2016 gold.
 
@@ -182,15 +182,15 @@ Kosteloos is de inschrijving van:
 
 1. Voor de afgifte van een verklaring inhoudende een netwerkaanduiding is verschuldigd: € 237,50.
 
-2. Voor de vervaardiging van een netwerktekening op schaal 1:5.000 of op een kleinere schaal, met een strookbreedte van tenminste 500 meter, is verschuldigd: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01), vermeerderd met € 36,– per tekening en € 0,10 per afgebeelde hectare.
+2. Voor de vervaardiging van een netwerktekening op schaal 1:5.000 of op een kleinere schaal, met een strookbreedte van tenminste 500 meter, is verschuldigd: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01), vermeerderd met € 36,– per tekening en € 0,10 per afgebeelde hectare.
 
-3. Voor het bijhouden van een in de afgelopen vijf jaren ingeschreven netwerktekening, binnen het op die tekening weergegeven gebied, is verschuldigd: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01), vermeerderd met € 36,– per tekening.
+3. Voor het bijhouden van een in de afgelopen vijf jaren ingeschreven netwerktekening, binnen het op die tekening weergegeven gebied, is verschuldigd: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01), vermeerderd met € 36,– per tekening.
 
-4. Voor het actualiseren van een nog niet in depot gegeven tekening waarvan het leidingtracé ongewijzigd blijft, is verschuldigd: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01), vermeerderd met € 36,– per tekening.
+4. Voor het actualiseren van een nog niet in depot gegeven tekening waarvan het leidingtracé ongewijzigd blijft, is verschuldigd: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01), vermeerderd met € 36,– per tekening.
 
-5. Voor de controle op inschrijvingsvereisten van een niet door de Dienst vervaardigde netwerktekening is verschuldigd: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01), vermeerderd met € 36,– per tekening.
+5. Voor de controle op inschrijvingsvereisten van een niet door de Dienst vervaardigde netwerktekening is verschuldigd: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01), vermeerderd met € 36,– per tekening.
 
-6. Voor het verrichten van een onderzoek naar ingeschreven beslagen en eisen tot vaststelling van de eigendom op grond van [artikel 155 van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=155), is per netwerk verschuldigd: € 50,–.
+6. Voor het verrichten van een onderzoek naar ingeschreven beslagen en eisen tot vaststelling van de eigendom op grond van [artikel 155 van de Overgangswet nieuw Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002565&artikel=155), is per netwerk verschuldigd: € 52,–.
 
 ##### Artikel 9
 
@@ -230,25 +230,25 @@ Kosteloos is de inschrijving van:
 
 Voor het verrichten van onderzoeken in de openbare registers en een rechtszekerheidsregistratie is per object verschuldigd:
 
-- a. indien het een onderzoek betreft naar een specifiek ingeschreven notariële akte of ander specifiek ingeschreven stuk, een filiatie of eigendomsinformatie van een specifieke datum: € 50,–;
+- a. indien het een onderzoek betreft naar een specifiek ingeschreven notariële akte of ander specifiek ingeschreven stuk, een filiatie of eigendomsinformatie van een specifieke datum, respectievelijk van de afgifte van een verklaring als bedoeld in [artikel 101, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101), of [102, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102): € 52,–;
 
 - b. indien het een periode-onderzoek betreft:
 
-- 1. teruggaand tot maximaal het jaar 1989: € 75,–;
+- 1. teruggaand tot maximaal het jaar 1989: € 78,–;
 
-- 2. teruggaand tot maximaal het jaar 1950: € 150,–;
+- 2. teruggaand tot maximaal het jaar 1950: € 156,–;
 
-- 3. teruggaand tot maximaal het jaar 1838: € 275,–;
+- 3. teruggaand tot maximaal het jaar 1838: € 286,–;
 
-- 4. over een andere aangevraagde periode die ten hoogste vijftig jaar beslaat: € 150,–;
+- 4. over een andere aangevraagde periode die ten hoogste vijftig jaar beslaat: € 156,–;
 
 - c. indien het een onderzoek naar erfdienstbaarheden betreft, teruggaand tot maximaal:
 
-- 1. het jaar 1950: € 150,–;
+- 1. het jaar 1950: € 156,–;
 
-- 2. het jaar 1838: € 275,–;
+- 2. het jaar 1838: € 286;
 
-- d. indien het andere onderzoeken betreft, het tarief als bedoeld in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01) per kwartier te besteden tijd.
+- d. indien het andere onderzoeken betreft, het tarief als bedoeld in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01) per kwartier te besteden tijd.
 
 #### Titel 7. Raadplegen en verstrekken van gegevens uit registraties
 
@@ -264,7 +264,7 @@ Voor het verrichten van onderzoeken in de openbare registers en een rechtszekerh
 
 3. Voor het raadplegen van een rechtszekerheidsregistratie op een van de kantoren van de Dienst is per geraadpleegd object voor een hypothecair of een kadastraal bericht verschuldigd: € 32,–.
 
-4. Voor de niet-geautomatiseerde verstrekking van een afschrift of een uittreksel als bedoeld in[artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=100), [101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101), of [102, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), respectievelijk van een verklaring als bedoeld in artikel 101, tweede lid, of 102, tweede lid, van de wet is per object voor een hypothecair of een kadastraal bericht verschuldigd:
+4. Voor de niet-geautomatiseerde verstrekking van een afschrift of een uittreksel als bedoeld in[artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=100), [101, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=101), of [102, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), is per object voor een hypothecair of een kadastraal bericht verschuldigd:
 
 - a. bij toezending per elektronische post: € 16,–;
 
@@ -330,9 +330,9 @@ Voor het verrichten van onderzoeken in de openbare registers en een rechtszekerh
 
 3. Na de eerste verstrekking, bedoeld in het tweede lid, is per kalenderjaar voor een abonnement op deze gegevens per 1.000 objecten verschuldigd: € 210,–.
 
-4. Voor het opnieuw verstrekken van eerder verstrekte gegevens in het kader van een abonnement als bedoeld in het derde lid, is per verstrekking verschuldigd: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01).
+4. Voor het opnieuw verstrekken van eerder verstrekte gegevens in het kader van een abonnement als bedoeld in het derde lid, is per verstrekking verschuldigd: het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01), per kwartier te besteden tijd.
 
-5. Voor een tweede mutatie-abonnement is eenmalig verschuldigd: zestien maal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01).
+5. Voor een tweede mutatie-abonnement is eenmalig verschuldigd: zestien maal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 16
 
@@ -384,7 +384,7 @@ Voor het verstrekken van een gedeelte van de landelijke digitale kadastrale kaar
 
 - a. bij verstrekking via het openbare internet: € 0,–;
 
-- b. bij verstrekking op een elektronische gegevensdrager: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01).
+- b. bij verstrekking op een elektronische gegevensdrager: achtmaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01).
 
 #### Titel 9. Geometrisch referentiesysteem
 
@@ -412,9 +412,9 @@ Voor het verstrekken van een gedeelte van de landelijke digitale kadastrale kaar
 
 - a. het de gegevens van referentiepanden betreft, per referentiepand: € 1,20;
 
-- b. het transactiegegevens betreft, het tarief genoemd in [artikel 13, zesde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=13&z=2022-01-01&g=2022-01-01);
+- b. het transactiegegevens betreft, het tarief genoemd in [artikel 13, zesde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=13&z=2023-01-01&g=2023-01-01);
 
-- c. het de gegevens van een hypotheekinschrijving betreft, het tarief genoemd in [artikel 13, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=13&z=2022-01-01&g=2022-01-01);
+- c. het de gegevens van een hypotheekinschrijving betreft, het tarief genoemd in [artikel 13, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=13&z=2023-01-01&g=2023-01-01);
 
 - d. het andere gegevens betreft dan bedoeld onder a tot en met c, per akte: € 2,17.
 
@@ -500,7 +500,13 @@ De in het derde lid, bedoelde historische transactiegegevens worden in geval van
 
 - b. tot 30 percelen: € 72,–;
 
-- c. tot 45 percelen: € 90,–.
+- c. tot 45 percelen: € 90,–;
+
+- d. tot 60 percelen: € 108,–;
+
+- e. tot 75 percelen: € 126,–;
+
+- f. tot 90 percelen: € 144,–.
 
 ##### Artikel 22
 
@@ -522,11 +528,11 @@ De in het derde lid, bedoelde historische transactiegegevens worden in geval van
 
 5. Voor het verstrekken van een eigendoms- of eigenarenkaart is verschuldigd:
 
-- a. per opgave in een digitaal verwerkbare vorm: € 1,30 per perceel, vermeerderd met het tarief als bedoeld in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01), per kwartier te besteden tijd;
+- a. per opgave in een digitaal verwerkbare vorm: € 1,30 per perceel, vermeerderd met het tarief als bedoeld in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01), per kwartier te besteden tijd;
 
-- b. per kalenderjaar voor een abonnement op de opgave als bedoeld in onderdeel a: € 255,– per 1000 percelen, vermeerderd met het tarief als bedoeld in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01), per kwartier te besteden tijd;
+- b. per kalenderjaar voor een abonnement op de opgave als bedoeld in onderdeel a: € 255,– per 1000 percelen, vermeerderd met het tarief als bedoeld in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01), per kwartier te besteden tijd;
 
-- c. voor een opgave in andere vorm dan bedoeld onder a: het tarief als bedoeld in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01), per kwartier te besteden tijd, vermeerderd met:
+- c. voor een opgave in andere vorm dan bedoeld onder a: het tarief als bedoeld in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01), per kwartier te besteden tijd, vermeerderd met:
 
 - 1°. indien het een opgave op formaat A3 of A4 betreft: € 16,90;
 
@@ -542,7 +548,7 @@ De in het derde lid, bedoelde historische transactiegegevens worden in geval van
 
 - b. Woningtypering: € 0,19.
 
-3. Voor het digitaal raadplegen of verstrekken van een opgave van gegevens uit andere dan door de Dienst gehouden registraties is de inkoopprijs van het betreffende gegeven verschuldigd, vermeerderd met het bedrag, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=29&z=2022-01-01&g=2022-01-01).
+3. Voor het digitaal raadplegen of verstrekken van een opgave van gegevens uit andere dan door de Dienst gehouden registraties is de inkoopprijs van het betreffende gegeven verschuldigd, vermeerderd met het bedrag, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=29&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 24
 
@@ -604,19 +610,19 @@ De in het derde lid, bedoelde historische transactiegegevens worden in geval van
 
 ##### Artikel 25
 
-Voor het doen van een oriëntatieverzoek of een graafmelding als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=7) of [8 van de Wet informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=8) is verschuldigd: € 13,50. Dit tarief geldt ook voor een calamiteitenmelding als bedoeld in [artikel 7, vierde lid, van het Besluit informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=7) en een INSPIRE aanvraag netinformatie die, overeenkomstig de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie, als een ruimtelijke gegeven wordt verstrekt.
+Voor het doen van een oriëntatieverzoek of een graafmelding als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=7) of [8 van de Wet informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=8) is verschuldigd: € 11,50. Dit tarief geldt ook voor een calamiteitenmelding als bedoeld in [artikel 7, vierde lid, van het Besluit informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0023775&artikel=7) en een INSPIRE aanvraag netinformatie die, overeenkomstig de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie, als een ruimtelijke gegeven wordt verstrekt.
 
 #### Titel 12. Uitzonderingen voor overheidsorganisaties
 
 ##### Artikel 26
 
-1. Indien gegevens als bedoeld in [artikel 13, eerste, tweede, vijfde lid, onderdeel a en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=13&z=2022-01-01&g=2022-01-01), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=14&z=2022-01-01&g=2022-01-01), [artikel 15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2022-01-01&g=2022-01-01), [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=16&z=2022-01-01&g=2022-01-01), [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=8&artikel=17&z=2022-01-01&g=2022-01-01), [artikel 22, vijfde lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2022-01-01&g=2022-01-01), voor zover het de perceelstarieven betreft, worden gebruikt door een overheidsorganisatie als genoemd op ‘almanak.overheid.nl’ voor de uitoefening van een openbare taak, worden deze gegevens kosteloos verstrekt.
+1. Indien gegevens als bedoeld in [artikel 13, eerste, tweede, vijfde lid, onderdeel a en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=13&z=2023-01-01&g=2023-01-01), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=14&z=2023-01-01&g=2023-01-01), [artikel 15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2023-01-01&g=2023-01-01), [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=16&z=2023-01-01&g=2023-01-01), [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=8&artikel=17&z=2023-01-01&g=2023-01-01), [artikel 22, vijfde lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2023-01-01&g=2023-01-01), voor zover het de perceelstarieven betreft, worden gebruikt door een overheidsorganisatie als genoemd op ‘organisaties.overheid.nl’ voor de uitoefening van een openbare taak, worden deze gegevens kosteloos verstrekt.
 
 2. In afwijking van het eerste lid is de aldaar bedoelde kosteloze verstrekking van gegevens niet van toepassing op notarissen en gerechtsdeurwaarders.
 
 3. Het eerste lid is van overeenkomstige toepassing op politieke partijen die zijn vertegenwoordigd in de Eerste of Tweede Kamer der Staten-Generaal.
 
-4. Voor de inschrijving van een beperkingenbesluit, als bedoeld in [artikel 1, onderdeel b, sub 1, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=1) kenbaarheid publiekrechtelijke beperkingen onroerende zaken, door een gemeente is geen tarief verschuldigd, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2022-01-01&g=2022-01-01), indien het elektronisch ingeschreven stuk geautomatiseerd kan worden verwerkt overeenkomstig artikel 2, vierde lid.
+4. Voor de inschrijving van een beperkingenbesluit, als bedoeld in [artikel 1, onderdeel b, sub 1, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=1) kenbaarheid publiekrechtelijke beperkingen onroerende zaken, door een gemeente is geen tarief verschuldigd, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2023-01-01&g=2023-01-01), indien het elektronisch ingeschreven stuk geautomatiseerd kan worden verwerkt overeenkomstig artikel 2, vierde lid.
 
 #### Titel 13. Uitvoeren andere werkzaamheden
 
@@ -624,43 +630,43 @@ Voor het doen van een oriëntatieverzoek of een graafmelding als bedoeld in [art
 
 Voor het uitvoeren van andere werkzaamheden op grond van de wet dan genoemd in deze regeling is per kwartier, of een gedeelte van een kwartier dat een medewerker van de Dienst daaraan heeft besteed, verschuldigd:
 
-- a. indien het een administratief medewerker betreft: € 20,50;
+- a. indien het een administratief medewerker betreft: € 21,25;
 
-- b. indien het een juridisch medewerker of technisch medewerker betreft: € 25,–;
+- b. indien het een juridisch medewerker of technisch medewerker betreft: € 26,–;
 
-- c. indien het een senior juridisch medewerker of senior technisch medewerker betreft: € 27,50;
+- c. indien het een senior juridisch medewerker of senior technisch medewerker betreft: € 28,50;
 
-- d. indien het een projectleider of technisch specialist betreft: € 30,50;
+- d. indien het een projectleider of technisch specialist betreft: € 31,75;
 
-- e. indien het een assistent projectmanager of GIS-specialist betreft: € 33,50;
+- e. indien het een assistent projectmanager of GIS-specialist betreft: € 34,75;
 
-- f. indien het een projectmanager of senior GIS-specialist betreft: € 36,–.
+- f. indien het een projectmanager of senior GIS-specialist betreft: € 37,50.
 
 ##### Artikel 28
 
-Voor het op verzoek door de Dienst technisch vervaardigen, aanpassen of vormgeven van een kadasterstylesheet, dan wel het goedkeuren van een door een derde vervaardigde stylesheet, is per door de Dienst besteed kwartier, of een gedeelte van een kwartier, verschuldigd: € 44,–.
+Voor het op verzoek door de Dienst technisch vervaardigen, aanpassen of vormgeven van een kadasterstylesheet, dan wel het goedkeuren van een door een derde vervaardigde stylesheet, is per door de Dienst besteed kwartier, of een gedeelte van een kwartier, verschuldigd: € 45,75.
 
 ##### Artikel 29
 
-1. Indien de opgave, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2022-01-01&g=2022-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=16&z=2022-01-01&g=2022-01-01), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=8&artikel=17&z=2022-01-01&g=2022-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=8&artikel=18&z=2022-01-01&g=2022-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=20&z=2022-01-01&g=2022-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=21&z=2022-01-01&g=2022-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2022-01-01&g=2022-01-01), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=23&z=2022-01-01&g=2022-01-01), of [24, eerste lid, onderdelen a en b of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=24&z=2022-01-01&g=2022-01-01), in een andere vorm of met een uitgebreidere inhoud dan de standaardopgave wordt verstrekt, is naast het tarief, bedoeld in die artikelen, verschuldigd:
+1. Indien de opgave, bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2023-01-01&g=2023-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=16&z=2023-01-01&g=2023-01-01), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=8&artikel=17&z=2023-01-01&g=2023-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=8&artikel=18&z=2023-01-01&g=2023-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=20&z=2023-01-01&g=2023-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=21&z=2023-01-01&g=2023-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2023-01-01&g=2023-01-01), [23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=23&z=2023-01-01&g=2023-01-01), of [24, eerste lid, onderdelen a en b of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=24&z=2023-01-01&g=2023-01-01), in een andere vorm of met een uitgebreidere inhoud dan de standaardopgave wordt verstrekt, is naast het tarief, bedoeld in die artikelen, verschuldigd:
 
 - a. de kosten voor specifieke infrastructuur, zoals die vooraf door de Dienst kenbaar worden gemaakt; en
 
-- b. per kwartier dat een medewerker van de Dienst daaraan heeft besteed: een bedrag gelijk aan het tarief als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01).
+- b. per kwartier dat een medewerker van de Dienst daaraan heeft besteed: een bedrag gelijk aan het tarief als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01).
 
-2. Indien de opgave, bedoeld in de [artikelen 13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=13&z=2022-01-01&g=2022-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2022-01-01&g=2022-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=16&z=2022-01-01&g=2022-01-01), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=8&artikel=17&z=2022-01-01&g=2022-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=20&z=2022-01-01&g=2022-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=21&z=2022-01-01&g=2022-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2022-01-01&g=2022-01-01) of [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=24&z=2022-01-01&g=2022-01-01), met een beperktere inhoud dan de standaardopgave wordt verstrekt, zijn verschuldigd de tarieven, bedoeld in die artikelen, verminderd met een bedrag dat gelijk is aan de minderkosten voor specifieke infrastructuur zoals die vooraf door de Dienst kenbaar worden gemaakt.
+2. Indien de opgave, bedoeld in de [artikelen 13, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=13&z=2023-01-01&g=2023-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2023-01-01&g=2023-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=16&z=2023-01-01&g=2023-01-01), [17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=8&artikel=17&z=2023-01-01&g=2023-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=20&z=2023-01-01&g=2023-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=21&z=2023-01-01&g=2023-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2023-01-01&g=2023-01-01) of [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=24&z=2023-01-01&g=2023-01-01), met een beperktere inhoud dan de standaardopgave wordt verstrekt, zijn verschuldigd de tarieven, bedoeld in die artikelen, verminderd met een bedrag dat gelijk is aan de minderkosten voor specifieke infrastructuur zoals die vooraf door de Dienst kenbaar worden gemaakt.
 
 ### Hoofdstuk 3. Slotbepalingen
 
 ##### Artikel 30
 
-1. De aantallen, genoemd in de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2022-01-01&g=2022-01-01), en [22, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2022-01-01&g=2022-01-01), worden naar boven afgerond op 1.000.
+1. De aantallen, genoemd in de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2023-01-01&g=2023-01-01), en [22, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2023-01-01&g=2023-01-01), worden naar boven afgerond op 1.000.
 
-2. Voor de toepassing van de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2022-01-01&g=2022-01-01), en [22, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2022-01-01&g=2022-01-01), wordt uitgegaan van het aantal objecten dan wel percelen waaruit het desbetreffende gebied bestaat op 1 januari van het jaar waarin de gegevensverstrekking plaatsvindt.
+2. Voor de toepassing van de [artikelen 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2023-01-01&g=2023-01-01), en [22, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2023-01-01&g=2023-01-01), wordt uitgegaan van het aantal objecten dan wel percelen waaruit het desbetreffende gebied bestaat op 1 januari van het jaar waarin de gegevensverstrekking plaatsvindt.
 
-3. Voor een verstrekking, bedoeld in de [artikelen 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2022-01-01&g=2022-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=20&z=2022-01-01&g=2022-01-01), [21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=21&z=2022-01-01&g=2022-01-01), [22, eerste en tweede lid en derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2022-01-01&g=2022-01-01), en [24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=24&z=2022-01-01&g=2022-01-01), is ten minste een bedrag verschuldigd ter hoogte van driemaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2022-01-01&g=2022-01-01). Dit artikellid is niet van toepassing op een verstrekking door middel van het openbare internet.
+3. Voor een verstrekking, bedoeld in de [artikelen 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=7&artikel=15&z=2023-01-01&g=2023-01-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=20&z=2023-01-01&g=2023-01-01), [21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=21&z=2023-01-01&g=2023-01-01), [22, eerste en tweede lid en derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=22&z=2023-01-01&g=2023-01-01), en [24, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=24&z=2023-01-01&g=2023-01-01), is ten minste een bedrag verschuldigd ter hoogte van driemaal het bedrag, genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=27&z=2023-01-01&g=2023-01-01). Dit artikellid is niet van toepassing op een verstrekking door middel van het openbare internet.
 
-4. Het derde lid is van overeenkomstige toepassing indien de opgave, bedoeld in [artikel 24, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=24&z=2022-01-01&g=2022-01-01), een andere vorm of andere inhoud dan de standaardopgave heeft en het tarief, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=29&z=2022-01-01&g=2022-01-01), verschuldigd is.
+4. Het derde lid is van overeenkomstige toepassing indien de opgave, bedoeld in [artikel 24, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=10&artikel=24&z=2023-01-01&g=2023-01-01), een andere vorm of andere inhoud dan de standaardopgave heeft en het tarief, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=13&artikel=29&z=2023-01-01&g=2023-01-01), verschuldigd is.
 
 ##### Artikel 31
 
@@ -676,7 +682,7 @@ Deze regeling wordt aangehaald als: Tarievenregeling Kadaster.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage I. behorend bij [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2022-01-01&g=2022-01-01) Tarievenregeling Kadaster
+## Bijlage I. behorend bij [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2023-01-01&g=2023-01-01) Tarievenregeling Kadaster
 
 |   | Omschrijving stukdeel |
 | --- | --- |
@@ -684,7 +690,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | 2 | Afkoop grondrente |
 | 3 | Afstand beperkt zakelijk recht |
 | 4 | Afstand of vermenging na afkoop erfpachtrecht |
-| 5 | Beheeroverdracht |
+| 5 | Beheeroverdracht wegens bestuurlijke herindeling |
 | 6 | Dwaling (overig) |
 | 7 | Dwaling omtrent grensaanwijs |
 | 8 | Fusie |
@@ -719,27 +725,28 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | 37 | Spiegelsplitsing t.b.v. afkoop erfpacht |
 | 38 | Splitsen rechtspersoon |
 | 39 | Splitsing in appartementsrechten |
-| 40 | Vaststellingsovereenkomst |
-| 41 | Verdeling van gemeenschap (erfgenamen) |
-| 42 | Verdeling van gemeenschap (gezamenlijk rechthebbenden) |
-| 43 | Verdeling van gemeenschap (huwelijk/geregistreerd partnerschap) |
-| 44 | Verdeling van gemeenschap onder voorbehoud van |
-| 45 | Verjaring (betwist) |
-| 46 | Verjaring (niet betwist) |
-| 47 | Verkrijging door een rechtspersoon in oprichting |
-| 48 | Vermenging |
-| 49 | Vervallen verklaring beperkt zakelijk recht |
-| 50 | Vervulling ontbindende voorwaarde (overdracht) |
-| 51 | Vervulling ontbindende voorwaarde (vestiging beperkt recht) |
-| 52 | Vervulling opschortende voorwaarde |
-| 53 | Vestiging zakelijk recht overig |
-| 54 | Vestiging zakelijk recht van erfpacht |
-| 55 | Vestiging zakelijk recht van gebruik en bewoning |
-| 56 | Vestiging zakelijk recht van opstal |
-| 57 | Vestiging zakelijk recht van opstal nutsvoorziening |
-| 58 | Vestiging zakelijk recht van vruchtgebruik |
+| 40 | Toewijzing op grond van [art. 34 Wilg](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=34) |
+| 41 | Vaststellingsovereenkomst |
+| 42 | Verdeling van gemeenschap (erfgenamen) |
+| 43 | Verdeling van gemeenschap (gezamenlijk rechthebbenden) |
+| 44 | Verdeling van gemeenschap (huwelijk/geregistreerd partnerschap) |
+| 45 | Verdeling van gemeenschap onder voorbehoud van |
+| 46 | Verjaring (betwist) |
+| 47 | Verjaring (niet betwist) |
+| 48 | Verkrijging door een rechtspersoon in oprichting |
+| 49 | Vermenging |
+| 50 | Vervallen verklaring beperkt zakelijk recht |
+| 51 | Vervulling ontbindende voorwaarde (overdracht) |
+| 52 | Vervulling ontbindende voorwaarde (vestiging beperkt recht) |
+| 53 | Vervulling opschortende voorwaarde |
+| 54 | Vestiging zakelijk recht overig |
+| 55 | Vestiging zakelijk recht van erfpacht |
+| 56 | Vestiging zakelijk recht van gebruik en bewoning |
+| 57 | Vestiging zakelijk recht van opstal |
+| 58 | Vestiging zakelijk recht van opstal nutsvoorziening |
+| 59 | Vestiging zakelijk recht van vruchtgebruik |
 
-## Bijlage II. behorend bij [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2022-01-01&g=2022-01-01) Tarievenregeling Kadaster
+## Bijlage II. behorend bij [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2023-01-01&g=2023-01-01) Tarievenregeling Kadaster
 
 |   | **Omschrijving stukdeel** |
 | --- | --- |
@@ -795,7 +802,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | 50 | Wijziging splitsing m.b.t. onttrekken grondperceel |
 | 51 | Wijziging splitsing m.b.t. toevoegen grondperceel |
 
-## Bijlage III. behorend bij [artikel 2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2022-01-01&g=2022-01-01) Tarievenregeling Kadaster
+## Bijlage III. behorend bij [artikel 2 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=2&z=2023-01-01&g=2023-01-01) Tarievenregeling Kadaster
 
 |   | **Omschrijving stukdeel** |
 | --- | --- |
@@ -810,9 +817,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | 9 | Hypotheek (wijziging) |
 | 10 | Verklaring van waardeloosheid van een gedeelte van een inschrijving, niet zijnde wijziging rechthebbende |
 | 11 | Verklaring van waardeloosheid, niet zijnde wijziging rechthebbende |
-| 12 | Wet geluidshinder |
+| 12 | [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227) |
 
-## Bijlage IV. behorend bij [artikel 3 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=3&z=2022-01-01&g=2022-01-01) Tarievenregeling Kadaster
+## Bijlage IV. behorend bij [artikel 3 onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037196&hoofdstuk=2&titeldeel=1&artikel=3&z=2023-01-01&g=2023-01-01) Tarievenregeling Kadaster
 
 |   | **Omschrijving stukdeel** |
 | --- | --- |
@@ -821,7 +828,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | 3 | Beperking beschikkingsbevoegdheid opheffen |
 | 4 | Bewaardersverklaring |
 | 5 | Faillietverklaring |
-| 6 | Huwelijkse voorwaarden |
+| 6 | Huwelijkse en/of partnerschapsvoorwaarden |
 | 7 | Inschrijving gemeenschap van goederen |
 | 8 | Stuk m.b.t. beperking beschikkingsbevoegdheid |
 | 9 | Verklaring van erfrecht |
