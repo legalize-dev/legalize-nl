@@ -4,7 +4,7 @@ identifier: "BWBR0046712"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2022-07-07"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046712"
 soort: "wet"
@@ -51,13 +51,9 @@ Wijzigt de Wet op het financieel toezicht.
 
 Wijzigt de Wet bekostiging financieel toezicht 2019.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Wet giraal effectenverkeer.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -66,8 +62,6 @@ Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme BES.
 ##### Artikel V
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
