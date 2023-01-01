@@ -4,7 +4,7 @@ identifier: "BWBR0010033"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-08"
-last_updated: "2017-03-10"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010033"
 soort: "ministeriele-regeling"
@@ -44,9 +44,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn, voor zover het de bevoegdheden betreft van de Minister van Economische Zaken, belast de ambtenaren met de functiebenamingen inspecteur, senior inspecteur, coördinerend/specialistisch inspecteur en inspecteur/medewerker toezicht van de afdeling Toezicht van Agentschap Telecom van het ministerie van Economische Zaken.
+1. Met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 15.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), zijn, voor zover het de bevoegdheden betreft van de Minister van Economische Zaken en Klimaat, belast de ambtenaren met de functiebenamingen inspecteur, senior inspecteur, coördinerend/specialistisch inspecteur en inspecteur/medewerker toezicht van de directies Apparatuur, Infrastructuur en Digitale Weerbaarheid van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
-2. Met het toezicht op de naleving van [artikel 15.1, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voor zover het betreft [artikel 18.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7), zijn tevens belast de senior beleidsmedewerkers van de directie Telecommarkt van het directoraat-generaal voor Energie, Telecom en Mededinging.
+2. Met het toezicht op de naleving van [artikel 15.1, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voor zover het betreft [artikel 18.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.7), zijn tevens belast de senior beleidsmedewerkers van de directie Digitale Economie van het directoraat-generaal Economie en Digitalisering.
 
 3. Met het toezicht op de bepalingen, bedoeld in [artikel 15.1, eerste lid, onder a en onder g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), voor zover dit bepalingen betreft die betrekking hebben op het gebruik van frequentieruimte met de bestemming ‘maritiemmobiele communicatie’, zijn voorts belast de ambtenaren van politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die zijn tewerkgesteld bij:
 
