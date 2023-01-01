@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2022-11-10"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -687,7 +687,7 @@ Het is in beginsel niet geloofwaardig dat een vreemdeling geen enkel bewijs van 
 
 De IND beoordeelt de geloofwaardigheid van de relevante elementen. Relevante elementen zijn feiten en omstandigheden die in de volgende twee categorieën worden onderscheiden:
 
-De IND beoordeelt de geloofwaardigheid van de relevante elementen. Relevante elementen zijn feiten en omstandigheden die in de volgende twee categorieën worden onderscheiden:
+De IND beoordeelt de geloofwaardigheid van de relevante elementen, tenzij de IND reden ziet de relevante elementen enkel op basis van zwaarwegendheid te beoordelen. In dat geval laat de IND kenbaar de geloofwaardigheid van de relevante elementen in het midden. Relevante elementen zijn feiten en omstandigheden die in de volgende twee categorieën worden onderscheiden:
 
 ### 4.4.3. De zwaarwegendheid
 
