@@ -4,7 +4,7 @@ identifier: "BWBR0044474"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-05-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044474"
 soort: "ministeriele-regeling"
@@ -100,9 +100,9 @@ De Regionale Ambulancevoorziening zorgt ervoor dat de spreiding van de standplaa
 
 ##### Artikel 6
 
-1. De Regionale Ambulancevoorziening analyseert jaarlijks de prestaties in relatie tot de streefwaarde, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044474&hoofdstuk=2&paragraaf=2&artikel=5&z=2021-05-28&g=2021-05-28), en neemt in overleg met de zorgverzekeraars aantoonbare maatregelen om de streefwaarde zoveel mogelijk te realiseren.
+1. De Regionale Ambulancevoorziening analyseert jaarlijks de prestaties in relatie tot de streefwaarde, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044474&hoofdstuk=2&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), en neemt in overleg met de zorgverzekeraars aantoonbare maatregelen om de streefwaarde zoveel mogelijk te realiseren.
 
-2. De Regionale Ambulancevoorziening analyseert jaarlijks de realisatie van de afspraken, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044474&hoofdstuk=2&paragraaf=2&artikel=5&z=2021-05-28&g=2021-05-28), en neemt in overleg met de zorgverzekeraars aantoonbare maatregelen om de niet spoedeisende ambulancezorg zo goed mogelijk af te stemmen op de reële behoeften van de patiënten en de zorginstellingen.
+2. De Regionale Ambulancevoorziening analyseert jaarlijks de realisatie van de afspraken, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044474&hoofdstuk=2&paragraaf=2&artikel=5&z=2023-01-01&g=2023-01-01), en neemt in overleg met de zorgverzekeraars aantoonbare maatregelen om de niet spoedeisende ambulancezorg zo goed mogelijk af te stemmen op de reële behoeften van de patiënten en de zorginstellingen.
 
 #### § 3. Zorgdifferentiatie
 
@@ -262,11 +262,7 @@ De aanbieder van mobiele zorg vanuit of naar het buitenland is verzekerd tegen r
 
 ##### Artikel 23
 
-1. De aanbieder van mobiele zorg vanuit of naar het buitenland levert jaarlijks vóór 1 juni van het jaar, volgend op het verslagjaar aan bij het Centraal Informatiepunt Beroepen Gezondheidszorg met gebruikmaking van het elektronische platform DigiMV, de jaarrekening met een accountantsverklaring als bedoeld in [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
-
-2. De aanbieder van mobiele zorg vanuit of naar het buitenland verstrekt op verzoek van de minister gegevens over zorg binnen Nederland of zorg aan Nederlandse patiënten.
-
-3. In afwijking van het eerste lid wordt de jaarrekening die betrekking heeft op het jaar 2020 uiterlijk vóór 1 oktober 2021 aangeleverd.
+De aanbieder van mobiele zorg vanuit of naar het buitenland verstrekt op verzoek van de minister gegevens over zorg binnen Nederland of zorg aan Nederlandse patiënten.
 
 ### Hoofdstuk 4. Slotbepalingen
 
