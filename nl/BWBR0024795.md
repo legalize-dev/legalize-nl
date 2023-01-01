@@ -4,7 +4,7 @@ identifier: "BWBR0024795"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-15"
-last_updated: "2022-10-08"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024795"
 soort: "ministeriele-regeling"
@@ -72,13 +72,13 @@ Deze budgetten worden jaarlijks toegevoegd aan de landelijk beschikbare budgette
 
 ##### Artikel 2.1.2. Begroting, verslaglegging, informatie en toezicht
 
-1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&artikel=2.1.1&z=2022-10-08&g=2022-10-08).
+1. Het bepaalde bij of krachtens [paragraaf 1 van titel 5 van hoofdstuk 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&paragraaf=1) is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&artikel=2.1.1&z=2023-01-01&g=2023-01-01).
 
-2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&artikel=2.1.1&z=2022-10-08&g=2022-10-08).
+2. Het bepaalde bij of krachtens [hoofdstuk 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&hoofdstuk=5), alsmede de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1), [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=1C) en [4 behorende bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&bijlage=4), is van overeenkomstige toepassing op de instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&artikel=2.1.1&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 2.1.3. Voorschriften [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die van toepassing zijn op de Instituten voor doven
 
-De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&artikel=2.1.1&z=2022-10-08&g=2022-10-08), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
+De instituten, bedoeld in [artikel 2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=2&artikel=2.1.1&z=2023-01-01&g=2023-01-01), nemen voor de beroepsopleidingen verzorgd aan die instituten in acht hetgeen bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) is bepaald ten aanzien van:
 
 - a. de taken van de instellingen ten aanzien van het beroepsonderwijs, bedoeld in [artikel 1.3.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.5);
 
@@ -164,35 +164,15 @@ De hogeschool, bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### § 1. Voorschriften bekostiging
 
-##### Artikel 3.1.1. Bedrag huisvestingskosten school voor voortgezet onderwijs in scholengemeenschap met een instelling en voorbereidend beroepsonderwijs van AOC’s
+##### Artikel 3.1.1. Bedrag huisvestingskosten school voor voortgezet onderwijs in verticale scholengemeenschap
 
 1. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 4.2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), bedraagt € 610,– per leerling ingeschreven bij een school voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
-2. Het bedrag ten behoeve van de huisvestingskosten, bedoeld in [artikel 4.2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1), bedraagt € 610,– per leerling ingeschreven voor het voorbereidend beroepsonderwijs, verzorgd aan een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.3).
-
-3. De bedragen, bedoeld in het eerste en tweede lid, kunnen worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.
+2. Het bedrag, bedoeld in het eerste lid, kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.
 
 ##### Artikel 3.1.2. Vaststelling vaste voet en prijs per leerling voorbereidend beroepsonderwijs
 
-1. De vaste voet per instelling, bedoeld in [artikel 2.3.2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), wordt berekend door elke vaste formatieplaats te vermenigvuldigen met een voor het betreffende jaar in het tweede lid vastgestelde bedrag. De vaste formatie wordt als volgt vastgesteld:
-
-- a. één formatieplaats per agrarisch opleidingscentrum; en
-
-- b. een halve formatieplaats per vestiging waar per 1 augustus voorafgaand aan het desbetreffende jaar voorbereidend beroepsonderwijs in de afdeling landbouw, natuurlijke omgeving en voedsel wordt verzorgd;
-
-- c. indien twee of meer agrarische opleidingscentra een fusie met elkaar aangaan, behoudt het agrarisch opleidingscentrum dat ten gevolge van de fusie tot stand komt het aantal formatieplaatsen, bedoeld in het eerste lid, onder a en b, dat ieder van de agrarische opleidingscentra afzonderlijk voor de fusie had, voor een periode van drie jaren na het jaar waarin de fusie plaatsvond.
-
-2. Het vastgestelde bedrag ter berekening van de vaste voet per instelling en de prijs per leerling, bedoeld in [artikel 2.3.2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=2.3.2), bedraagt:
-
-|   |   | **voor het jaar 2022** |
-| --- | --- | --- |
-| **vastgesteld bedrag ter berekening van de vaste voet per instelling** | **vastgesteld bedrag ter berekening van de vaste voet per instelling** | € 71.500,40 |
-| **prijs per leerling voorbereidend beroepsonderwijs, bestaande uit:** | **prijs per leerling voorbereidend beroepsonderwijs, bestaande uit:** | € 8.274,35 |
-|   | **een component voor de personele kosten ad** | **€ 7.039,82** |
-|   | **een component voor materiële kosten ad** | **€ 1.234,53** |
-| **ondersteuningsbedrag per leerling, bestaande uit:** | **ondersteuningsbedrag per leerling, bestaande uit:** | € 5.187,62 |
-|   | **een component voor personele kosten ad** | **€ 4.988,21** |
-|   | **een component voor materiële kosten ad** | **€ 199,41** |
+Vervallen
 
 ##### Artikel 3.1.3. Bekostiging gehandicapten
 
@@ -266,7 +246,7 @@ In deze formule wordt verstaan onder:
 
 ##### Artikel 5.2. Overgangsbepaling voor voormalige agrarische opleidingscentra
 
-1. Voor de berekening van de rijksbijdrage van de scholen voor praktijkonderwijs en vbo binnen verticale scholengemeenschappen die van rechtswege zijn ontstaan na de omzetting op grond van [artikel 12.2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.2.4), wordt voor wat betreft het kalenderjaar waarin die omzetting plaatsvindt, gebruik gemaakt van de berekeningswijze op grond van de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2022-10-08&g=2022-10-08) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=3&paragraaf=1&artikel=3.1.2&z=2022-10-08&g=2022-10-08).
+1. Voor de berekening van de rijksbijdrage van de scholen voor praktijkonderwijs en vbo binnen verticale scholengemeenschappen die van rechtswege zijn ontstaan na de omzetting op grond van [artikel 12.2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.2.4), wordt voor wat betreft het kalenderjaar waarin die omzetting plaatsvindt, gebruik gemaakt van de berekeningswijze op grond van de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2023-01-01&g=2023-01-01) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0024795&hoofdstuk=3&paragraaf=1&artikel=3.1.2&z=2023-01-01&g=2023-01-01).
 
 2. Een besluit tot de berekening van de bekostiging van een school die van rechtswege is ontstaan na de omzetting op grond van [artikel 12.2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=12.2.4), vindt voor het eerst toepassing op grond van de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) en [artikel 2.6.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.6.3) over het kalenderjaar volgend op die omzetting.
 
