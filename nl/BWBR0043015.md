@@ -4,7 +4,7 @@ identifier: "BWBR0043015"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-04"
-last_updated: "2022-06-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043015"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - **kleine onderneming:** een onderneming waar minder dan 50 personen werkzaam zijn en waarvan de jaaromzet of het jaarlijkse balanstotaal € 10 miljoen niet overschrijdt, berekend over het laatst afgesloten boekjaar voorafgaand aan de subsidieaanvraag;
 
-- **landbouw-, horeca- of recreatiesector:** sectoren die vallen onder een van de codes van de Standaard Bedrijfsindeling van het CBS, opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&bijlage=I&z=2022-06-01&g=2022-06-01) bij deze regeling;
+- **landbouw-, horeca- of recreatiesector:** sectoren die vallen onder een van de codes van de Standaard Bedrijfsindeling van het CBS, opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&bijlage=I&z=2023-01-01&g=2023-01-01) bij deze regeling;
 
 - **landbouwbedrijven:** ondernemingen die vallen onder het toepassingsgebied van artikel 1 van Verordening (EU) nr. 1408/2013 van de Commissie van 18 december 2013 (PbEU 2013, L 352);
 
@@ -90,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - **praktijkleerovereenkomst:** een overeenkomst als bedoeld in [artikel 7.2.8 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.8), [artikel 7.7, vijfde lid, van de Wet hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) of [artikel 10b3 van de Wet op het voorgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b3), dan wel stage-overeenkomst als bedoeld in [artikel 9 van het Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=9), respectievelijk [artikel 35 van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=35);
 
-- **samenwerkingsverband:** een bij overeenkomst vastgelegde samenwerking tussen ten minste twee mkb-ondernemingen eventueel aangevuld met een of meer organisaties, niet zijnde verbonden organisaties als bedoeld in [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=12&z=2022-06-01&g=2022-06-01), waarbij iedere partij van het samenwerkingsverband een activiteit, vastgelegd in het activiteitenplan, uitvoert en geen van de partijen meer dan 80% van de kosten van de samenwerking draagt;
+- **samenwerkingsverband:** een bij overeenkomst vastgelegde samenwerking tussen ten minste twee mkb-ondernemingen eventueel aangevuld met een of meer organisaties, niet zijnde verbonden organisaties als bedoeld in [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=12&z=2023-01-01&g=2023-01-01), waarbij iedere partij van het samenwerkingsverband een activiteit, vastgelegd in het activiteitenplan, uitvoert en geen van de partijen meer dan 80% van de kosten van de samenwerking draagt;
 
 - **subsidieaanvrager:** de aanvrager van een subsidie op grond van deze regeling;
 
@@ -124,27 +124,27 @@ Het doel van deze regeling is om door middel van subsidie een bijdrage te levere
 
 2. Een loopbaan- of ontwikkeladviestraject als bedoeld in het eerste lid, onderdeel b, komt alleen voor subsidie in aanmerking indien de loopbaanadviseur gesprekken met de deelnemer voert met een tijdsbeslag van in totaal minimaal vier uren.
 
-3. Een initiatief bestaande uit een activiteit als bedoeld in het eerste lid, onderdeel a, b en c, komt alleen voor subsidie in aanmerking indien de subsidiabele kosten van een subsidieaanvraag op grond van de hoofdstukken 2 of 4 ten minste € 5.000 bedragen en van een subsidieaanvraag op grond van hoofdstuk 3 ten minste € 210.000.
+3. Een initiatief bestaande uit een activiteit als bedoeld in het eerste lid, onderdeel a en c, komt alleen voor subsidie in aanmerking indien de subsidiabele kosten van een subsidieaanvraag op grond van de hoofdstukken 2 of 4 ten minste € 5.000 bedragen en van een subsidieaanvraag op grond van hoofdstuk 3 ten minste € 210.000.
 
 ##### Artikel 5. Aanvraagtijdvak
 
 Een subsidieaanvraag kan jaarlijks bij de minister worden ingediend in de volgende tijdvakken:
 
-- a. voor aanvragen op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2022-06-01&g=2022-06-01), van 1 maart 09:00 uur tot en met 31 maart 17:00 uur en van 1 september 09:00 uur tot en met 30 september 17:00 uur;
+- a. voor aanvragen op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2023-01-01&g=2023-01-01), van 1 maart 09:00 uur tot en met 30 maart 17:00 uur en van 1 september 09:00 uur tot en met 28 september 17:00 uur;
 
-- b. voor aanvragen op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2022-06-01&g=2022-06-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2022-06-01&g=2022-06-01), van 1 juni 09:00 uur tot en met 29 juli 17:00 uur.
+- b. voor aanvragen op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2023-01-01&g=2023-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2023-01-01&g=2023-01-01), van 1 juni 09:00 uur tot en met 27 juli 17:00 uur.
 
 ##### Artikel 6. Subsidieplafond
 
-1. Het subsidieplafond voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2022-06-01&g=2022-06-01) bedraagt voor het jaar 2022:
+1. Het subsidieplafond voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2023-01-01&g=2023-01-01) bedraagt voor het jaar 2023:
 
-- a. € 15 miljoen voor het tijdvak van 1 maart 09:00 uur tot en met 31 maart 17:00 uur;
+- a. € 15 miljoen voor het tijdvak van 1 maart 09:00 uur tot en met 30 maart 17:00 uur;
 
-- b. € 14,2 miljoen voor het tijdvak van 1 september 09:00 uur tot en met 30 september 17:00 uur.
+- b. € 14,2 miljoen voor het tijdvak van 1 september 09:00 uur tot en met 28 september 17:00 uur.
 
-2. Het subsidieplafond voor subsidies op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2022-06-01&g=2022-06-01) bedraagt voor het jaar 2022 € 17,5 miljoen.
+2. Het subsidieplafond voor subsidies op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2023-01-01&g=2023-01-01) bedraagt voor het jaar 2023 € 17,5 miljoen.
 
-3. Het subsidieplafond voor subsidies op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2022-06-01&g=2022-06-01) bedraagt voor het jaar 2022 € 1,2 miljoen.
+3. Het subsidieplafond voor subsidies op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2023-01-01&g=2023-01-01) bedraagt voor het jaar 2023 € 1,2 miljoen.
 
 4. Indien een deel van het bedrag dat beschikbaar is in een aanvraagtijdvak niet volledig wordt benut, kunnen de resterende middelen worden toegevoegd aan de middelen van een ander aanvraagtijdvak van hetzelfde kalenderjaar. De minister maakt de verschuivingen van het beschikbare budget bekend op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
@@ -164,7 +164,7 @@ Een subsidieaanvraag kan jaarlijks bij de minister worden ingediend in de volgen
 
 4. Voor de opzet van het activiteitenplan wordt in het daarvoor geldende format, onverminderd [artikel 3.4 van de kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), in ieder geval opgenomen:
 
-- a. op welke wijze het initiatief bijdraagt aan het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=3&z=2022-06-01&g=2022-06-01) omschreven doel;
+- a. op welke wijze het initiatief bijdraagt aan het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=3&z=2023-01-01&g=2023-01-01) omschreven doel;
 
 - b. op welke wijze het initiatief wordt geëvalueerd;
 
@@ -180,7 +180,7 @@ Een subsidieaanvraag kan jaarlijks bij de minister worden ingediend in de volgen
 
 ##### Artikel 8. Rangschikking behandeling subsidieaanvragen
 
-1. Bij overschrijding van een subsidieplafond als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=6&z=2022-06-01&g=2022-06-01), wordt na afloop van het aanvraagtijdvak door middel van loting de volgorde vastgesteld waarin de ontvangen subsidieaanvragen worden afgehandeld.
+1. Bij overschrijding van een subsidieplafond als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=6&z=2023-01-01&g=2023-01-01), wordt na afloop van het aanvraagtijdvak door middel van loting de volgorde vastgesteld waarin de ontvangen subsidieaanvragen worden afgehandeld.
 
 2. Alleen volledige subsidieaanvragen worden in behandeling genomen.
 
@@ -190,7 +190,7 @@ Een subsidieaanvraag kan jaarlijks bij de minister worden ingediend in de volgen
 
 ##### Artikel 9. Beschikking tot subsidieverlening
 
-1. Op een subsidieaanvraag op basis van hoofdstuk 2 wordt binnen 18 weken na afloop van het aanvraagtijdvak, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=5&z=2022-06-01&g=2022-06-01) beslist. De subsidieaanvraag wordt beoordeeld op grond van de voorwaarden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2022-06-01&g=2022-06-01).
+1. Op een subsidieaanvraag op basis van hoofdstuk 2 wordt binnen 18 weken na afloop van het aanvraagtijdvak, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=5&z=2023-01-01&g=2023-01-01) beslist. De subsidieaanvraag wordt beoordeeld op grond van de voorwaarden, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2023-01-01&g=2023-01-01).
 
 2. Op een subsidieaanvraag op basis van hoofdstuk 3 en hoofdstuk 4 wordt binnen 18 weken na ontvangst beslist. De subsidieaanvraag wordt beoordeeld op grond van de voorwaarden, bedoeld in artikel 7, en voor zover sprake is van een samenwerkingsverband de eisen, bedoeld in artikel 21.
 
@@ -222,21 +222,21 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - i. er geen de-minimisverklaring is afgegeven;
 
-- j. de subsidieaanvraag tot gevolg heeft dat een subsidieplafond als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=6&z=2022-06-01&g=2022-06-01) wordt overschreden; of
+- j. de subsidieaanvraag tot gevolg heeft dat een subsidieplafond als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=6&z=2023-01-01&g=2023-01-01) wordt overschreden; of
 
 - k. de subsidieaanvraag ziet op het ontwikkelen van een initiatief niet bedoeld voor werkenden in de onderneming maar voor commerciële doeleinden.
 
 ##### Artikel 11. Looptijd
 
-1. Een initiatief voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2022-06-01&g=2022-06-01) wordt afgerond binnen een periode van 12 maanden.
+1. Een initiatief voor subsidies op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=2&z=2023-01-01&g=2023-01-01) wordt afgerond binnen een periode van 12 maanden.
 
-2. Een initiatief voor subsidies op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2022-06-01&g=2022-06-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2022-06-01&g=2022-06-01) wordt afgerond binnen een periode van 24 maanden.
+2. Een initiatief voor subsidies op grond van de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&z=2023-01-01&g=2023-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&z=2023-01-01&g=2023-01-01) wordt afgerond binnen een periode van 24 maanden.
 
 3. De voor subsidie in aanmerking komende kosten worden gemaakt in een door de minister aangewezen initiatiefperiode. Deze periode start de dag na dagtekening van het besluit tot verlening van de subsidie.
 
 ##### Artikel 12. Subsidiabele kosten
 
-1. Voor de subsidie van initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), komen de volgende kosten in aanmerking:
+1. Voor de subsidie van initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), komen de volgende kosten in aanmerking:
 
 - a. externe kosten die daadwerkelijk zijn gemaakt ter uitvoering van een subsidiabel initiatief;
 
@@ -274,7 +274,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ##### Artikel 13. Niet subsidiabele kosten
 
-Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), komen niet voor subsidie in aanmerking:
+Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), komen niet voor subsidie in aanmerking:
 
 - a. onredelijk en niet noodzakelijk gemaakte kosten ter uitvoering van het initiatief of een onderdeel daarvan;
 
@@ -300,7 +300,7 @@ Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderd
 
 ##### Artikel 14. Subsidiabele vergoeding praktijkleerplaatsen
 
-1. De subsidie, bedoeld onder [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), is een tegemoetkoming in de kosten die een ondernemer voor dit doel maakt.
+1. De subsidie, bedoeld onder [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), is een tegemoetkoming in de kosten die een ondernemer voor dit doel maakt.
 
 2. De subsidiabele vergoeding wordt verleend naar rato van het aantal weken dat de leerling, deelnemer of student bij de beroepspraktijkvorming aanwezig is geweest, met een maximum van 40 weken en € 2.700 per jaar.
 
@@ -318,13 +318,13 @@ Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderd
 
 6. In aanvulling op het eerste tot en met het vijfde lid, bevat de administratie van de subsidieaanvrager ten minste, indien het betreft een subsidieaanvraag voor een activiteit als bedoeld in:
 
-- a. [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), het opleidings- of ontwikkelplan dat voortkomt uit de doorlichting;
+- a. [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), het opleidings- of ontwikkelplan dat voortkomt uit de doorlichting;
 
-- b. [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), een prestatieverklaring van de loopbaanscan of het ontwikkeladvies, getekend door de adviseur en de deelnemer. Onder prestatieverklaring wordt verstaan een verklaring in het daarvoor geldende format, getekend door de loopbaanadviseur en de deelnemer, waarin wordt bevestigd dat de deelnemer aan het ontwikkeltraject heeft deelgenomen, welke onderwerpen daarin aan bod zijn gekomen en welke resultaten hiervoor zijn behaald;
+- b. [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), een prestatieverklaring van de loopbaanscan of het ontwikkeladvies, getekend door de adviseur en de deelnemer. Onder prestatieverklaring wordt verstaan een verklaring in het daarvoor geldende format, getekend door de loopbaanadviseur en de deelnemer, waarin wordt bevestigd dat de deelnemer aan het ontwikkeltraject heeft deelgenomen, welke onderwerpen daarin aan bod zijn gekomen en welke resultaten hiervoor zijn behaald;
 
-- c. [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), de met de gerealiseerde methode gemoeide producten;
+- c. [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), de met de gerealiseerde methode gemoeide producten;
 
-- d. [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01):
+- d. [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01):
 
 - 1°. een praktijkleerovereenkomst, die door alle noodzakelijke partijen is getekend en waaruit onder andere blijkt hoe de begeleiding heeft plaatsgevonden en welk deel van de leerdoelen, de kwaliteiten of kwalificaties in de beroepsvorming bij de ondernemer zijn behaald;
 
@@ -336,9 +336,9 @@ Met betrekking tot de initiatieven, bedoeld onder [artikel 4, eerste lid, onderd
 
 1. Voor zover het initiatief waarvoor subsidie wordt verleend een periode van meer dan twaalf maanden omvat, wordt door de subsidieaanvrager, uiterlijk acht weken na afloop van de eerste twaalf maanden, een tussentijds voortgangsverslag aan de minister overgelegd onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier.
 
-2. Na ontvangst van het tussentijds voortgangsverslag kan de minister op verzoek van de subsidieaanvrager, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=19&z=2022-06-01&g=2022-06-01), of [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&artikel=22&z=2022-06-01&g=2022-06-01), gedaan bij indiening van het tussentijdse voortgangsverslag, bij beschikking een voorschot verstrekken van 80% van de gerealiseerde kosten zoals deze volgen uit het tussentijds voortgangsverslag.
+2. Na ontvangst van het tussentijds voortgangsverslag kan de minister op verzoek van de subsidieaanvrager, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=19&z=2023-01-01&g=2023-01-01), of [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&artikel=22&z=2023-01-01&g=2023-01-01), gedaan bij indiening van het tussentijdse voortgangsverslag, bij beschikking een voorschot verstrekken van 80% van de gerealiseerde kosten zoals deze volgen uit het tussentijds voortgangsverslag.
 
-3. Bij het tussentijds voortgangsverslag wordt een bewijs overgelegd, dat aantoont dat de houder van het in het voortgangsverslag opgenomen bankrekeningnummer de hoofdaanvrager is, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=19&z=2022-06-01&g=2022-06-01), dan wel de aanvraaggerechtigde, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&artikel=22&z=2022-06-01&g=2022-06-01).
+3. Bij het tussentijds voortgangsverslag wordt een bewijs overgelegd, dat aantoont dat de houder van het in het voortgangsverslag opgenomen bankrekeningnummer de hoofdaanvrager is, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=19&z=2023-01-01&g=2023-01-01), dan wel de aanvraaggerechtigde, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&artikel=22&z=2023-01-01&g=2023-01-01).
 
 ### Hoofdstuk 2. Subsidieverlening aan het mkb
 
@@ -348,9 +348,9 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 ##### Artikel 18. Subsidiebedrag en subsidiabele kosten
 
-1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01) genoemde initiatieven bedraagt niet meer dan € 25.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
+1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01) genoemde initiatieven bedraagt niet meer dan € 25.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
 
-2. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), bedraagt de subsidie:
+2. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), bedraagt de subsidie:
 
 - a. voor een kleine onderneming: 80% van de subsidiabele kosten;
 
@@ -366,15 +366,15 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een mkb-onderneming.
 
 ##### Artikel 20. Subsidiebedrag
 
-1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01) genoemde initiatieven bedraagt maximaal € 500.000, waarbij geen enkele partij van het samenwerkingsverband aanspraak kan maken op € 200.000 of meer.
+1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01) genoemde initiatieven bedraagt maximaal € 500.000, waarbij geen enkele partij van het samenwerkingsverband aanspraak kan maken op € 200.000 of meer.
 
 2. In afwijking van het eerste lid is de maximale subsidie bij deelname aan een samenwerkingsverband voor landbouwbedrijven € 20.000, voor visserijbedrijven € 30.000 en voor goederenververvoer over de weg € 100.000.
 
-3. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), bedraagt de subsidie 60% van de subsidiabele kosten.
+3. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), bedraagt de subsidie 60% van de subsidiabele kosten.
 
 ##### Artikel 21. Specifieke eisen subsidieaanvraag en administratie samenwerkingsverbanden
 
-1. In aanvulling op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2022-06-01&g=2022-06-01) bestaat de subsidieaanvraag voor samenwerkingsverbanden uit:
+1. In aanvulling op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=7&z=2023-01-01&g=2023-01-01) bestaat de subsidieaanvraag voor samenwerkingsverbanden uit:
 
 - a. de samenwerkingsovereenkomst van het samenwerkingsverband, ondertekend door alle partijen die onderdeel uitmaken van het samenwerkingsverband, vergezeld van een schriftelijke machtiging waaruit blijkt dat de subsidieaanvrager gemachtigd is de andere partijen in het samenwerkingsverband in en buiten rechte te vertegenwoordigen; en
 
@@ -390,17 +390,17 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een grootbedrijf in d
 
 ##### Artikel 23. Subsidiebedrag
 
-1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01)genoemde initiatieven bedraagt maximaal € 200.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
+1. De subsidie die wordt verleend voor een van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01)genoemde initiatieven bedraagt maximaal € 200.000, met uitzondering van landbouwbedrijven, waarvoor een maximum geldt van € 20.000.
 
-2. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), bedraagt de subsidie 60% van de subsidiabele kosten.
+2. Voor initiatieven als bedoeld onder [artikel 4, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), bedraagt de subsidie 60% van de subsidiabele kosten.
 
 ### Hoofdstuk 4. Subsidieverlening aan grootbedrijven in de landbouw- horeca- of recreatiesector
 
 ##### Artikel 24. Einddeclaratie en subsidievaststelling
 
-1. De subsidieaanvrager dient middels een elektronisch formulier binnen 22 weken na afloop van de initiatiefperiode, vastgelegd in de subsidieverlening, een verzoek tot vaststelling van subsidie in bij de minister, waarin onder andere is opgenomen een verslag van de uitgevoerde activiteiten in de desbetreffende mkb-onderneming of het grootbedrijf en een overzicht van de kosten per activiteit middels een voorgeschreven format. Indien het een verzoek tot vaststelling betreft voor een activiteit als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), dan is in het verzoek ook de prestatieverklaring, bedoeld in [artikel 15, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=15&z=2022-06-01&g=2022-06-01), opgenomen. Bij dit verzoek tot vaststelling wordt een bewijs overgelegd, waaruit blijkt dat de houder van het bankrekeningnummer dat in het verzoek is opgenomen de hoofdaanvrager is, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=19&z=2022-06-01&g=2022-06-01), dan wel de aanvraaggerechtigde, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&artikel=22&z=2022-06-01&g=2022-06-01).
+1. De subsidieaanvrager dient middels een elektronisch formulier binnen 22 weken na afloop van de initiatiefperiode, vastgelegd in de subsidieverlening, een verzoek tot vaststelling van subsidie in bij de minister, waarin onder andere is opgenomen een verslag van de uitgevoerde activiteiten in de desbetreffende mkb-onderneming of het grootbedrijf en een overzicht van de kosten per activiteit middels een voorgeschreven format. Indien het een verzoek tot vaststelling betreft voor een activiteit als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), dan is in het verzoek ook de prestatieverklaring, bedoeld in [artikel 15, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=15&z=2023-01-01&g=2023-01-01), opgenomen. Bij dit verzoek tot vaststelling wordt een bewijs overgelegd, waaruit blijkt dat de houder van het bankrekeningnummer dat in het verzoek is opgenomen de hoofdaanvrager is, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=3&artikel=19&z=2023-01-01&g=2023-01-01), dan wel de aanvraaggerechtigde, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=4&artikel=22&z=2023-01-01&g=2023-01-01).
 
-2. Indien de verleende subsidie € 25.000 of meer bedraagt, bevat het verzoek tot vaststelling, in aanvulling op het eerste lid, een evaluatieverslag als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=5&artikel=26&z=2022-06-01&g=2022-06-01).
+2. Indien de verleende subsidie € 25.000 of meer bedraagt, bevat het verzoek tot vaststelling, in aanvulling op het eerste lid, een evaluatieverslag als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=5&artikel=26&z=2023-01-01&g=2023-01-01).
 
 3. Indien de verleende subsidie € 125.000 of meer bedraagt, bevat het verzoek tot vaststelling, in aanvulling op het eerste lid, uit een controleverklaring omtrent de naleving van de aan de verleende subsidie verbonden verplichtingen door de subsidieaanvrager, opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld accountantsprotocol.
 
@@ -420,7 +420,7 @@ Subsidie op grond van dit hoofdstuk wordt aangevraagd door een grootbedrijf in d
 
 3. Indien de beschikking tot subsidievaststelling geheel of gedeeltelijk wordt ingetrokken, wordt het subsidiebedrag dat tot dat moment is uitgekeerd, vermeerderd met de wettelijke rente, geheel of gedeeltelijk van de subsidieaanvrager teruggevorderd.
 
-4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de beschikking tot voorschotverlening, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=16&z=2022-06-01&g=2022-06-01).
+4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de beschikking tot voorschotverlening, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=16&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 26. Evaluatie van de initiatieven
 
@@ -472,7 +472,7 @@ Landbouw (branche A. Landbouw, bosbouw en visserij; subbranche 01. Landbouw, jac
 
 0113 Teelt van groenten en wortel- en knolgewassen
 
-01131 Teelt van groenten in volle grond
+01131 Teelt van groenten in de volle grond
 
 01132 Teelt van groenten onder glas
 
@@ -496,7 +496,7 @@ Landbouw (branche A. Landbouw, bosbouw en visserij; subbranche 01. Landbouw, jac
 
 0121 Teelt van druiven
 
-0124 Teelt van pit- en steenvruchten
+0124 Teelt van appels, peren, pruimen, kersen en andere pit- en steenvruchten
 
 01241 Teelt van appels en peren
 
@@ -508,9 +508,9 @@ Landbouw (branche A. Landbouw, bosbouw en visserij; subbranche 01. Landbouw, jac
 
 01252 Teelt van aardbeien onder glas
 
-01253 Teelt van houtig klein fruit in de volle grond (incl. overige boomvruchten en noten)
+01253 Teelt van houtig kleinfruit in de volle grond (incl. overige boomvruchten en noten)
 
-01254 Teelt van houtig klein fruit onder glas
+01254 Teelt van houtig kleinfruit onder glas
 
 0127 Teelt van gewassen bestemd voor de vervaardiging van dranken
 
@@ -518,9 +518,9 @@ Landbouw (branche A. Landbouw, bosbouw en visserij; subbranche 01. Landbouw, jac
 
 0129 Teelt van overige meerjarige gewassen
 
-013 Teelt van sierplanten
+013 Teelt van bloembollen, sierplanten en sierbomen
 
-0130 Teelt van sierplanten
+0130 Teelt van bloembollen, sierplanten en sierbomen
 
 01301 Teelt van bloembollen
 
@@ -538,21 +538,29 @@ Landbouw (branche A. Landbouw, bosbouw en visserij; subbranche 01. Landbouw, jac
 
 01412 Opfokken van jongvee voor de melkveehouderij
 
+0142 Fokken en houden van runderen (geen melkvee)
+
 01421 Houden van vleeskalveren
 
 01422 Overige vleesveehouderij en zoogkoeienbedrijven
 
 0143 Fokken en houden van paarden en ezels
 
+0145 Fokken en houden van schapen en geiten
+
 01451 Fokken en houden van schapen
 
 01452 Fokken en houden van geiten
+
+0146 Fokken en houden van varkens
 
 01461 Fokvarkens- en vermeerderingsbedrijven
 
 01462 Vleesvarkensbedrijven
 
 01463 Gesloten en deels gesloten varkensbedrijven
+
+0147 Opfokken en/of houden van pluimvee
 
 01471 Opfokken en/of houden van leghennen
 
@@ -562,9 +570,13 @@ Landbouw (branche A. Landbouw, bosbouw en visserij; subbranche 01. Landbouw, jac
 
 01479 Opfokken en/of houden van overig pluimvee
 
+0149 Fokken en houden van overige dieren
+
 01491 Fokken en houden van edelpelsdieren
 
 01499 Fokken en houden van overige dieren (rest)
+
+015 Akker- en/of tuinbouw in combinatie met het fokken en houden van dieren
 
 0150 Akker- en/of tuinbouw in combinatie met het fokken en houden van dieren
 
@@ -576,15 +588,15 @@ Landbouw (branche A. Landbouw, bosbouw en visserij; subbranche 01. Landbouw, jac
 
 0164 Behandeling van zaden voor vermeerdering
 
+017 Jacht
+
 0170 Jacht
 
-8130 Landschapsverzorging
+5520 Verhuur van vakantiehuisjes en appartementen; jeugdherbergen en vakantiekampen
 
-Horeca (branche I. Logies-, maaltijd en drankverstrekking; subbranches 55. Logiesverstrekking en 56. Eet- en drinkgelegenheden):
+551 Hotels en dergelijke
 
-551 Hotels e.d.
-
-5510 Hotels e.d.
+5510 Hotels en dergelijke
 
 55101 Hotel-restaurants
 
@@ -594,9 +606,9 @@ Horeca (branche I. Logies-, maaltijd en drankverstrekking; subbranches 55. Logie
 
 5520 Verhuur van vakantiehuisjes en appartementen; jeugdherbergen en vakantiekampen
 
-55201 Verhuur van vakantiehuisjes en appartementen
+55201 Verhuur van vakantiehuisjes
 
-55202 Jeugdherbergen en vakantiekampen
+55202 Jeugdherbergen, vakantiekampen, groepsaccommodaties
 
 553 Kampeerterreinen
 
@@ -606,13 +618,15 @@ Horeca (branche I. Logies-, maaltijd en drankverstrekking; subbranches 55. Logie
 
 5590 Overige logiesverstrekking
 
-561 Restaurants, cafetaria’s e.d.
+56 Eet- en drinkgelegenheden
 
-5610 Restaurants, cafetaria’s e.d. en ijssalons
+561 Restaurants, cafetaria's en dergelijke en ijssalons
+
+5610 Restaurants, cafetaria's en dergelijke en ijssalons
 
 56101 Restaurants
 
-56102 Fastfoodrestaurants, cafetaria’s, ijssalons, eetkramen e.d.
+56102 Fastfoodrestaurants, cafetaria's, ijssalons, eetkramen e.d.
 
 562 Kantines en catering
 
@@ -620,23 +634,9 @@ Horeca (branche I. Logies-, maaltijd en drankverstrekking; subbranches 55. Logie
 
 5629 Kantines en contractcatering
 
-85321 Middelbaar beroepsonderwijs
-
 563 Cafés
 
 5630 Cafés
-
-Recreatie (branche R. Cultuur, sport en recreatie; subbranche 93 Sport en recreatie):
-
-55201 Verhuur van vakantiehuisjes en appartementen
-
-932 Overige recreatie
-
-9321 Pret- en themaparken; kermisattracties
-
-93211 Pret- en themaparken
-
-93212 Kermisattracties
 
 9329 Overige ontspanning en recreatie (rest)
 
@@ -644,13 +644,13 @@ Deze regeling zal met toelichting en de bijlage in de Staatscourant worden gepla
 
 ##### Artikel 4a. Eisen aan loopbaanadviseur
 
-1. De activiteiten, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01), worden uitgevoerd door een loopbaanadviseur, die:
+1. De activiteiten, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01), worden uitgevoerd door een loopbaanadviseur, die:
 
 - a. een mens- of organisatiegerichte opleiding heeft afgerond op minimaal hbo-niveau, of minimaal een hbo-opleiding in een andere richting heeft afgerond en aanvullende mens- of organisatiegerichte cursussen en trainingen heeft afgerond;
 
 - b. minimaal drie jaar relevante werkervaring heeft; en
 
-- c. verklaart zich te houden aan de gedragscode in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&bijlage=II&z=2022-06-01&g=2022-06-01).
+- c. verklaart zich te houden aan de gedragscode in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&bijlage=II&z=2023-01-01&g=2023-01-01).
 
 2. Een loopbaanadviseur wordt geacht aan de eisen in het eerste lid, onderdelen a en c, te hebben voldaan, wanneer hij is geregistreerd bij Noloc als Register Loopbaanprofessional.
 
@@ -658,7 +658,7 @@ Deze regeling zal met toelichting en de bijlage in de Staatscourant worden gepla
 
 ##### Artikel 13a. Subsidiabele vergoeding loopbaan- en ontwikkeltrajecten
 
-De subsidie bedraagt € 700,00 per afgerond loopbaan- of ontwikkeltraject, zoals bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2022-06-01&g=2022-06-01).
+De subsidie bedraagt € 700,00 per afgerond loopbaan- of ontwikkeltraject, zoals bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4&z=2023-01-01&g=2023-01-01).
 
 ### Hoofdstuk 2. Subsidieverlening aan het mkb
 
@@ -674,15 +674,15 @@ De subsidie bedraagt € 700,00 per afgerond loopbaan- of ontwikkeltraject, zoal
 
 ### Lijst met SBI-codes voor landbouw-, horeca- en recreatiesector
 
-93291 Jachthavens
+932 Overige recreatie
 
-93299 Overige recreatie (rest) (geen jachthavens)
+9321 Pret- en themaparken; kermisattracties
 
 ## Bijlage II. behorend bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4a&z=2022-03-01&g=2022-03-01), Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector
 
 ### Gedragscode
 
-De loopbaanadviseurs volgen bij de beroepsuitoefening de volgende gedragsregels:
+9329 Overige recreatie (rest)
 
 Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
 
@@ -696,13 +696,33 @@ De minister is bevoegd persoonsgegevens, die hij in het kader van deze subsidier
 
 ### Hoofdstuk 6. Slotbepalingen
 
-## Bijlage I. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=1&z=2022-06-01&g=2022-06-01), Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector
+## Bijlage I. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=1&z=2023-01-01&g=2023-01-01), Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector
 
 ### Lijst met SBI-codes voor landbouw-, horeca- en recreatiesector
 
-94993 Steunfondsen (geen steunfondsen op het gebied van welzijnszorg)
+93211 Pret- en themaparken
 
 ## Bijlage II. behorend bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4a&z=2022-06-01&g=2022-06-01), Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector
+
+### Gedragscode
+
+93291 Jachthavens
+
+Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
+
+### Landbouw (branche A. Landbouw, bosbouw en visserij; subbranche 01. Landbouw, jacht en dienstverlening voor de landbouw en jacht):
+
+### Horeca (branche I. Logies-, maaltijd en drankverstrekking; subbranches 55. Logiesverstrekking en 56. Eet- en drinkgelegenheden):
+
+### Recreatie (branche R. Cultuur, sport en recreatie; subbranche 93 Sport en recreatie):
+
+93212 Kermisattracties
+
+93299 Overige recreatie (rest, geen jachthavens)
+
+94993 Steunfondsen (niet op het gebied van welzijnszorg)
+
+## Bijlage II. behorend bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0043015&hoofdstuk=1&artikel=4a&z=2023-01-01&g=2023-01-01), Stimuleringsregeling voor leren en ontwikkelen in mkb-ondernemingen en specifiek voor de grootbedrijven in de landbouw-, horeca- of recreatiesector
 
 ### Gedragscode
 
