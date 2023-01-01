@@ -4,7 +4,7 @@ identifier: "BWBR0027018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2017-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027018"
 soort: "ministeriele-regeling"
@@ -63,21 +63,19 @@ Vervallen
 
 ##### Artikel 5. Schenking ten behoeve van een eigen woning
 
-1. Een verhoogde vrijstelling als bedoeld in de [artikelen 33, onderdeel 5°, onder c, en onderdeel 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), en [33a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) voor een schenking ten behoeve van een eigen woning als bedoeld in artikel 33a, eerste lid, van de wet wordt slechts verleend voor zover:
+1. Een verhoogde vrijstelling als bedoeld in de [artikelen 33, onderdeel 5°, onder c, en onderdeel 7°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking ten behoeve van een eigen woning als bedoeld in artikel 33a van de wet wordt slechts verleend voor zover:
 
-- a. de schenking onvoorwaardelijk wordt gedaan, dan wel onder de schriftelijk vastgelegde ontbindende voorwaarde dat de schenking vervalt voor zover niet is voldaan aan de voorwaarden voor de verhoogde vrijstelling voor een schenking ten behoeve van een eigen woning als bedoeld in [artikel 33a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a);
+- a. de schenking onvoorwaardelijk wordt gedaan, dan wel onder de schriftelijk vastgelegde ontbindende voorwaarde dat de schenking vervalt voor zover niet is voldaan aan de voorwaarden voor de verhoogde vrijstelling voor een schenking ten behoeve van een eigen woning als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a);
 
-- b. ingeval het een schenking als bedoeld in [artikel 33a, eerste lid, onderdelen b, c, d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) betreft:
+- b. ingeval het een schenking als bedoeld in [artikel 33a, onderdelen b, c, d of e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) betreft:
 
 - 1°. het bedrag van de schenking daadwerkelijk door de schenker is betaald;
 
-- 2°. het bedrag van de schenking uiterlijk in het tweede kalenderjaar volgend op het eerste kalenderjaar waarvoor een beroep op de verhoogde vrijstelling is gedaan, is besteed ten behoeve van een eigen woning als bedoeld in [artikel 33a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a); en
+- 2°. het bedrag van de schenking uiterlijk in het tweede kalenderjaar volgend op het eerste kalenderjaar waarvoor een beroep op de verhoogde vrijstelling is gedaan, is besteed ten behoeve van een eigen woning als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a); en
 
 - 3°. de verkrijger desgevraagd met schriftelijke bescheiden doet blijken dat de schenking tijdig overeenkomstig de gestelde voorwaarden is besteed.
 
 2. Voor zover voor schenkingen als bedoeld in het eerste lid, onderdeel b, niet is voldaan aan de gestelde voorwaarden doet de verkrijger hiervan uiterlijk op 31 mei van het derde kalenderjaar volgend op het kalenderjaar waarvoor een beroep op de verhoogde vrijstelling is gedaan mededeling aan de inspecteur.
-
-3. Indien met toepassing van [artikel 33a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) meerdere bedragen zijn geschonken waarvoor een beroep op de verhoogde vrijstelling is gedaan en een deel van die bedragen niet of niet tijdig is besteed ten behoeve van een eigen woning, wordt het niet of niet tijdig bestede deel geacht betrekking te hebben op de laatst verkregen schenking of schenkingen.
 
 ##### Artikel 6. Schenking voor de betaling van kosten van een studie of de opleiding voor een beroep
 
