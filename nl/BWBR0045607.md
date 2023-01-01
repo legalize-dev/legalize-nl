@@ -4,7 +4,7 @@ identifier: "BWBR0045607"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045607"
 soort: "ministeriele-regeling"
@@ -154,9 +154,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. Beschikking en betaling
 
-1. De minister stelt de aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=2&z=2022-08-01&g=2022-08-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De minister stelt de aanvullende bekostiging, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2022-08-01&g=2022-08-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=4&z=2022-08-01&g=2022-08-01), uiterlijk in de maand maart van het jaar waarop de bekostiging betrekking heeft vast. De aanvullende bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang.
+1. De minister stelt de aanvullende bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=2&z=2023-01-01&g=2023-01-01), in december voorafgaande aan het jaar waarop de bekostiging betrekking heeft vast. De minister stelt de aanvullende bekostiging, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2023-01-01&g=2023-01-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=4&z=2023-01-01&g=2023-01-01), uiterlijk in de maand maart van het jaar waarop de bekostiging betrekking heeft vast. De aanvullende bekostiging wordt betaald in maandelijkse termijnen van gelijke omvang.
 
-2. De beschikking en betaling van de aanvullende bekostiging bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2022-08-01&g=2022-08-01) vindt jaarlijks in één termijn plaats in november.
+2. De beschikking en betaling van de aanvullende bekostiging bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2023-01-01&g=2023-01-01) vindt jaarlijks in één termijn plaats in november.
 
 3. De aanvullende bekostiging wordt, uiterlijk in de maand december van het jaar waarop de bekostiging betrekking heeft, herzien en wordt berekend op basis van:
 
@@ -176,15 +176,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a. Aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
 
-1. De Minister kan de aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2022-08-01&g=2022-08-01), op aanvraag van het bevoegd gezag ook verstrekken indien:
+1. De Minister kan de aanvullende bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2023-01-01&g=2023-01-01), op aanvraag van het bevoegd gezag ook verstrekken indien:
 
-- a. het in [artikel 3, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2022-08-01&g=2022-08-01), bedoelde onderwijs binnen een scholengemeenschap is verdeeld over twee vestigingen, die hemelsbreed gemeten maximaal 300 meter van elkaar gelegen zijn; en
+- a. het in [artikel 3, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2023-01-01&g=2023-01-01), bedoelde onderwijs binnen een scholengemeenschap is verdeeld over twee vestigingen, die hemelsbreed gemeten maximaal 300 meter van elkaar gelegen zijn; en
 
 - b. er door het bevoegd gezag een bijdrage wordt geleverd aan het tegengaan van segregatie doordat de leerlingen van de verschillende schoolsoorten samenkomen op de vestigingen in reguliere onderwijstijd. Het bevoegd gezag voldoet hieraan indien:
 
-- 1°. de eerste twee leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2022-08-01&g=2022-08-01), van het vbo tot en met vwo wordt verzorgd op één van de vestigingen; of
+- 1°. de eerste twee leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2023-01-01&g=2023-01-01), van het vbo tot en met vwo wordt verzorgd op één van de vestigingen; of
 
-- 2°. onderwijs in de leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2022-08-01&g=2022-08-01), van het vbo tot en met het vwo, wordt verzorgd op één van de vestigingen; of
+- 2°. onderwijs in de leerjaren, bedoeld in [artikel 3, tweede lid, onderdeel b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2023-01-01&g=2023-01-01), van het vbo tot en met het vwo, wordt verzorgd op één van de vestigingen; of
 
 - 3°. het bevoegd gezag aantoont dat minimaal 50% van de leerlingen minimaal 20% van hun onderwijstijd gedurende het schooljaar onderwijs volgt op beide vestigingen.
 
@@ -200,13 +200,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 7. Het bevoegd gezag maakt er bij de Minister schriftelijk melding van indien niet meer wordt voldaan aan het eerste lid. De toekenning zal dan voor het kalenderjaar daaropvolgend stoppen.
 
-8. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2022-08-01&g=2022-08-01), is van overeenkomstige toepassing op de aanvullende bekostiging bedoeld in het eerste lid.
+8. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing op de aanvullende bekostiging bedoeld in het eerste lid.
 
 ##### Artikel 8a. Omhangbepaling
 
-Deze regeling is gebaseerd op [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9), [artikel 2.2.3, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3) en [artikel 6.1, vierde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.1).
+Deze regeling is gebaseerd op [artikel 5.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) en [artikel 6.1, vierde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.1).
 
-## Bijlage. behorende bij [artikel 3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2022-08-01&g=2022-08-01), van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden
+## Bijlage. behorende bij [artikel 3a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2023-01-01&g=2023-01-01), van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden
 
 ### Aanvraagformulier aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
 
@@ -248,7 +248,7 @@ ICO/VO (070) 757 51 22 bereikbaar van 09:00-13:00 op werkdagen.
 
 ### 3. Aanvullende bekostiging schoolcampus met een breed onderwijsaanbod
 
-Er zijn twee mogelijkheden waarop de aanvrager kan voldoen aan de voorwaarden om in aanmerking te komen. De eerste is door spreiding van het onderwijsaanbod over de twee (of meer) dichtbij elkaar gelegen vestigingen. De tweede is door te motiveren dat leerlingen van verschillende onderwijssoorten elkaar in reguliere onderwijstijd ontmoeten op de vestigingen.
+Er zijn twee mogelijkheden waarop de aanvrager kan voldoen aan de voorwaarden om in aanmerking te komen. De eerste is door spreiding van het onderwijsaanbod over de twee dicht bij elkaar gelegen vestigingen. De tweede is door te motiveren dat leerlingen van verschillende onderwijssoorten elkaar in reguliere onderwijstijd ontmoeten op de vestigingen.
 
 **Lees verder in de toelichting**
 
@@ -274,11 +274,11 @@ Postcode en plaats
 
 **Geef in de tabel aan in welke leerjaren van welke onderwijssoorten bekostigde leerlingen zijn ingeschreven op teldatum t-1 op vestiging 2, zet een kruisje in het bijbehorende vakje:**
 
-Let op: Uit de gegevens die DUO tot zijn beschikking heeft wordt gecontroleerd of wordt voldaan aan de voorwaarden in [artikel 3a, eerste lid, onderdeel b, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2022-08-01&g=2022-08-01), van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden.
+Let op: Uit de gegevens die DUO tot zijn beschikking heeft wordt gecontroleerd of wordt voldaan aan de voorwaarden in [artikel 3a, eerste lid, onderdeel b, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2023-01-01&g=2023-01-01), van de Regeling aanvullende bekostiging vo-scholen in uitzonderlijke omstandigheden.
 
 ### 3.2. Motivatie bevoegd gezag
 
-Mochten de opgegeven vestigingen niet voldoen aan [artikel 3a, eerste lid, onderdeel b, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2022-08-01&g=2022-08-01), dan kunt u motiveren waarom wordt voldaan aan het volgende criterium:
+Mochten de opgegeven vestigingen niet voldoen aan [artikel 3a, eerste lid, onderdeel b, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2023-01-01&g=2023-01-01), dan kunt u motiveren waarom wordt voldaan aan het volgende criterium:
 
 Minimaal 50% van de leerlingen volgt minimaal 20% van hun onderwijstijd onderwijs op beide vestigingen.
 
@@ -308,7 +308,7 @@ De aanvraag voor aanvullende bekostiging schoolcampus met een breed aanbod is ge
 
 Een scholengemeenschap heeft een schoolcampus met een breed onderwijsaanbod indien op de betreffende vestigingen op de teldatum leerlingen staan ingeschreven in:
 
-De afstand wordt gebaseerd op de gegevens zoals vastgelegd in RIO en berekend op basis van de formule opgenomen in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2022-08-01&g=2022-08-01), van de regeling.
+De afstand wordt gebaseerd op de gegevens zoals vastgelegd in RIO en berekend op basis van de formule opgenomen in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045607&artikel=3a&z=2023-01-01&g=2023-01-01), van de regeling.
 
 Om in aanmerking te komen voor de aanvullende bekostiging moet tevens voldaan worden aan de volgende voorwaarden:
 
