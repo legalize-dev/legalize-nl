@@ -4,7 +4,7 @@ identifier: "BWBR0049169"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049169"
 soort: "wet"
@@ -46,13 +46,9 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -95,8 +91,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel X
 
 Wijzigt de Invorderingswet 1990.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
