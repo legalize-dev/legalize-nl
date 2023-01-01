@@ -4,7 +4,7 @@ identifier: "BWBR0011400"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011400"
 soort: "AMvB"
@@ -52,9 +52,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2022-08-01&g=2022-08-01),
+**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2023-01-01&g=2023-01-01),
 
-**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2022-08-01&g=2022-08-01) vastgesteld bedrag,
+**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2023-01-01&g=2023-01-01) vastgesteld bedrag,
 
 **cursusgeldplichtige**: cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger,
 
@@ -90,9 +90,9 @@ Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of
 
 - a. betaling ineens binnen een maand na de datum van het betalingsverzoek, en
 
-- b. betaling ineens of in termijnen door een opdracht tot automatische incasso aan Onze minister.
+- b. betaling in termijnen door een opdracht tot automatische incasso aan Onze minister.
 
-2. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in één termijn heeft verstrekt en de leerling voor 1 oktober van het schooljaar wordt ingeschreven, wordt het verschuldigde bedrag afgeschreven in de maand oktober van het schooljaar.
+2. Indien de lesgeldplichtige heeft gekozen voor betaling in termijnen door een opdracht tot automatische incasso aan Onze minister en de laatste termijn nog niet is betaald op het moment dat een termijnregeling voor een daarop volgend schooljaar tot stand komt, kunnen beide termijnregelingen worden samengevoegd.
 
 3. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in meer dan één termijn heeft verstrekt en de leerling voor 1 oktober van het schooljaar wordt ingeschreven, wordt van het totaal verschuldigde bedrag afgeschreven in de maand:
 
@@ -114,7 +114,7 @@ Het bevoegd gezag beëindigt de inschrijving van de leerling op zijn aanvraag of
 
 - i. juni van het schooljaar: 11,11%.
 
-4. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in een of meer termijnen heeft verstrekt en de leerling na 30 september van het schooljaar wordt ingeschreven, wordt het verschuldigde bedrag afgeschreven op bij ministeriële regeling te bepalen tijdstippen.
+4. Indien de lesgeldplichtige een opdracht tot automatische incasso voor betaling in termijnen heeft verstrekt en de leerling na 30 september van het schooljaar wordt ingeschreven, wordt het verschuldigde bedrag afgeschreven op bij ministeriële regeling te bepalen tijdstippen.
 
 ##### Artikel 5. Vermindering lesgeld
 
@@ -144,7 +144,7 @@ Voor een leerling die na 31 oktober van een schooljaar wordt ingeschreven aan ee
 
 - a. het met goed gevolg hebben afgerond van de opleiding,
 
-- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2022-08-01&g=2022-08-01), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
+- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2023-01-01&g=2023-01-01), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
 
 - c. overlijden of ernstige ziekte van de leerling, of
 
@@ -170,9 +170,9 @@ De dagscholen verstrekken Onze minister gegevens omtrent de inschrijving op een 
 
 4. Inschrijving geschiedt niet dan nadat:
 
-- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2022-08-01&g=2022-08-01) van toepassing is, of
+- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2023-01-01&g=2023-01-01) van toepassing is, of
 
-- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2022-08-01&g=2022-08-01) is getroffen.
+- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2023-01-01&g=2023-01-01) is getroffen.
 
 ##### Artikel 10. Beëindiging inschrijving
 
@@ -188,13 +188,13 @@ Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de c
 
 - b. het bij de inschrijving treffen van een regeling inzake de betaling van het cursusgeld tussen het bevoegd gezag en de cursusgeldplichtige alsmede de naleving door de cursusgeldplichtige, of
 
-- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2022-08-01&g=2022-08-01) van toepassing is.
+- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2023-01-01&g=2023-01-01) van toepassing is.
 
 3. De laatste termijn van het cursusgeld wordt in ieder geval betaald binnen 4 maanden na aanvang van de cursus, en uiterlijk voor het einde van de cursus.
 
 4. Indien een cursist in een cursusjaar bij dezelfde instelling voor meerdere cursussen staat ingeschreven, is het cursusgeld van de cursus met het hoogste cursusgeldtarief verschuldigd.
 
-5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2022-08-01&g=2022-08-01).
+5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 12. Vermindering cursusgeld
 
@@ -242,7 +242,7 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 ##### Artikel 16. Afwijking cursusgeldtarieven
 
-Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2022-08-01&g=2022-08-01) genoemde cursusgeldtarieven worden verlaagd.
+Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2023-01-01&g=2023-01-01) genoemde cursusgeldtarieven worden verlaagd.
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
