@@ -4,7 +4,7 @@ identifier: "BWBR0015731"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2020-02-22"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015731"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. minister: de Minister van Economische Zaken en Klimaat;
 
-- b. Agentschap Telecom: het Agentschap Telecom van het Ministerie van Economische Zaken en Klimaat.
+- b. Rijksinspectie Digitale Infrastructuur: de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat.
 
 ### Hoofdstuk 2. De aanvraag van een vergunning
 
@@ -60,17 +60,17 @@ Deze regeling is alleen van toepassing op aanvragen tot verlening van een vergun
 
 1. Een aanvraag tot verlening van een vergunning voor het gebruik van frequentieruimte geschiedt door middel van een daartoe strekkend formulier.
 
-2. De aanvraag tot verlening van een vergunning voor frequentieruimte alsmede de aanvraag tot wijziging of intrekking van een vergunning wordt ingediend bij het Agentschap Telecom.
+2. De aanvraag tot verlening van een vergunning voor frequentieruimte alsmede de aanvraag tot wijziging of intrekking van een vergunning wordt ingediend bij de Rijksinspectie Digitale Infrastructuur.
 
-3. Een aanvraag voor de verlening van een vergunning voor het gebruik van frequentieruimte ten dienste van singlepoint-singlepoint-straalverbindingen, alsmede een aanvraag voor de verlening, wijziging of intrekking van een vergunning voor het gebruik van frequentieruimte ten dienste van de maritieme radiocommunicatie of voor het gebruik van frequentieruimte ten dienste van het doen van onderzoekingen kan bij het Agentschap Telecom worden ingediend langs elektronische weg met gebruikmaking van een daartoe strekkend elektronisch aanvraagformulier.
+3. Een aanvraag voor de verlening van een vergunning voor het gebruik van frequentieruimte ten dienste van singlepoint-singlepoint-straalverbindingen, alsmede een aanvraag voor de verlening, wijziging of intrekking van een vergunning voor het gebruik van frequentieruimte ten dienste van de maritieme radiocommunicatie of voor het gebruik van frequentieruimte ten dienste van het doen van onderzoekingen kan bij de Rijksinspectie Digitale Infrastructuur worden ingediend langs elektronische weg met gebruikmaking van een daartoe strekkend elektronisch aanvraagformulier.
 
-4. De aanvrager die voor de eerste maal een aanvraag langs elektronische weg als bedoeld in het derde lid indient, geeft daarbij een persoonlijke code op en verzendt binnen drie dagen na de datum van elektronische verzending van het elektronisch aanvraagformulier aan het Agentschap Telecom per gewone post een door hem ondertekende schriftelijke verklaring dat hij een aanvraag langs elektronische weg heeft ingediend.
+4. De aanvrager die voor de eerste maal een aanvraag langs elektronische weg als bedoeld in het derde lid indient, geeft daarbij een persoonlijke code op en verzendt binnen drie dagen na de datum van elektronische verzending van het elektronisch aanvraagformulier aan de Rijksinspectie Digitale Infrastructuur per gewone post een door hem ondertekende schriftelijke verklaring dat hij een aanvraag langs elektronische weg heeft ingediend.
 
 5. Bij het indienen van een volgende aanvraag langs elektronische weg verstrekt de aanvrager naast de op het elektronische aanvraagformulier gevraagde gegevens de persoonlijke code, bedoeld in het vierde lid.
 
-6. Voor de verklaring, bedoeld in het vierde lid, gebruikt de aanvrager de door het Agentschap Telecom opgestelde modelverklaring.
+6. Voor de verklaring, bedoeld in het vierde lid, gebruikt de aanvrager de door de Rijksinspectie Digitale Infrastructuur opgestelde modelverklaring.
 
-7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2020-02-22&g=2020-02-22).
+7. Indien de aanvraag tot verlening van een vergunning betrekking heeft op frequentieruimte die is bestemd voor openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, kan de minister, naast de gegevens die worden gevraagd in het formulier, nadere gegevens vragen aan de aanvrager ter beoordeling van het bepaalde in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&artikel=4&z=2023-01-01&g=2023-01-01).
 
 ### Hoofdstuk 3. Toelatingscriteria
 
@@ -112,7 +112,7 @@ Deze paragraaf is van toepassing op aanvragen tot verlening van een vergunning v
 
 ##### Artikel 7
 
-Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&z=2020-02-22&g=2020-02-22), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&z=2020-02-22&g=2020-02-22), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&z=2020-02-22&g=2020-02-22) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3a&z=2020-02-22&g=2020-02-22) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
+Een vergunning voor het gebruik van frequentieruimte voor ander gebruik dan bedoeld in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=1&z=2023-01-01&g=2023-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&z=2023-01-01&g=2023-01-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3a&z=2023-01-01&g=2023-01-01) wordt slechts verleend indien de aanvrager aantoont een redelijk belang te hebben bij de gevraagde vergunning.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -148,7 +148,7 @@ Indien twee of meer aanvragen op hetzelfde tijdstip voldoen aan de wettelijke vo
 
 2. De persoonlijke overhandiging, bedoeld in het eerste lid, vindt plaats op werkdagen tussen 10.00 en 12.00 uur of tussen 14.00 en 16.00 uur op het volgende adres:
 
-Agentschap Telecom
+Rijksinspectie Digitale Infrastructuur
 
 Ter attentie van: Projectteam laagvermogen middengolfvergunningen
 
@@ -172,7 +172,7 @@ Vervallen
 
 ##### Artikel 9a
 
-[Hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3a&z=2020-02-22&g=2020-02-22) vervalt met ingang van 1 januari 2020.
+[Hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3a&z=2023-01-01&g=2023-01-01) vervalt met ingang van 1 januari 2020.
 
 ## Bijlage. bij artikel 6 van de Regeling aanvraag en toelating vergunningen voor het gebruik van frequentieruimte
 
@@ -182,7 +182,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6e
 
-De [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6a&z=2020-02-22&g=2020-02-22), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6b&z=2020-02-22&g=2020-02-22), [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6c&z=2020-02-22&g=2020-02-22), en [6d](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6d&z=2020-02-22&g=2020-02-22), zijn van overeenkomstige toepassing op aanvragen tot verlening van een vergunning voor het gebruik van frequentieruimte als bedoeld in nationale voetnoot HOL007B van het Nationaal Frequentieplan 2014, met dien verstande dat in artikel 6c, tweede lid, voor ‘Projectteam laagvermogen middengolfvergunningen’ wordt gelezen ‘Projectteam tijdelijke verdeling DAB laag 6’.
+De [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6a&z=2023-01-01&g=2023-01-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6b&z=2023-01-01&g=2023-01-01), [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6c&z=2023-01-01&g=2023-01-01), en [6d](https://wetten.overheid.nl/jci1.3:c:BWBR0015731&hoofdstuk=3&paragraaf=3&artikel=6d&z=2023-01-01&g=2023-01-01), zijn van overeenkomstige toepassing op aanvragen tot verlening van een vergunning voor het gebruik van frequentieruimte als bedoeld in nationale voetnoot HOL007B van het Nationaal Frequentieplan 2014, met dien verstande dat in artikel 6c, tweede lid, voor ‘Projectteam laagvermogen middengolfvergunningen’ wordt gelezen ‘Projectteam tijdelijke verdeling DAB laag 6’.
 
 ##### Artikel 6f
 
