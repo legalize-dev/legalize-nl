@@ -4,7 +4,7 @@ identifier: "BWBR0042740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2020-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042740"
 soort: "ministeriele-regeling"
@@ -132,7 +132,7 @@ Als format als bedoeld in [artikel 3.1, zevende lid, van het Besluit verplichte 
 
 ##### Artikel 9
 
-1. In de analyse, bedoeld in [artikel 8:25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:25) neemt de zorgaanbieder in ieder geval op, uitgesplitst per vorm van verplichte zorg zoals weergegeven in het format, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042740&hoofdstuk=3&artikel=7&z=2020-01-01&g=2020-01-01):
+1. In de analyse, bedoeld in [artikel 8:25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:25) neemt de zorgaanbieder in ieder geval op, uitgesplitst per vorm van verplichte zorg zoals weergegeven in het format, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042740&hoofdstuk=3&artikel=7&z=2020-01-01&g=2023-01-01):
 
 - a. het aantal unieke betrokkenen op wie de vorm van verplichte zorg is toegepast;
 
@@ -168,7 +168,7 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet verplichte geeste
 
 Deze regeling wordt aangehaald als: Regeling verplichte geestelijke gezondheidszorg.
 
-## Bijlage. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042740&hoofdstuk=3&artikel=7&z=2020-01-01&g=2020-01-01) van de Regeling verplichte geestelijke gezondheidszorg
+## Bijlage. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042740&hoofdstuk=3&artikel=7&z=2020-01-01&g=2023-01-01) van de Regeling verplichte geestelijke gezondheidszorg
 
 FORMAT DIGITAAL OVERZICHT VERPLICHTE ZORG
 
