@@ -4,7 +4,7 @@ identifier: "BWBR0047059"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2022-08-24"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047059"
 soort: "ministeriele-regeling"
@@ -56,11 +56,11 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047059&artikel=2&z=2022-08-24&g=2022-08-24).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047059&artikel=2&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 2
 
-De personen, werkzaam in de functie van inspecteur en senior inspecteur in dienst van Agentschap Telecom, zijn aangewezen als buitengewoon opsporingsambtenaar.
+De personen, werkzaam in de functie van inspecteur en senior inspecteur in dienst van de Rijksinspectie Digitale Infrastructuur, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 3
 
@@ -82,9 +82,9 @@ Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-1. Agentschap Telecom brengt jaarlijks, voor 1 april, verslag uit over:
+1. De Rijksinspectie Digitale Infrastructuur brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047059&artikel=2&z=2022-08-24&g=2022-08-24) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047059&artikel=2&z=2023-01-01&g=2023-01-01) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
@@ -94,7 +94,7 @@ Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporings
 
 ##### Artikel 7
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Agentschap Telecom 2022.
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Rijksinspectie Digitale Infrastructuur 2022.
 
 ##### Artikel 8
 
