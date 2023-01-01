@@ -4,7 +4,7 @@ identifier: "BWBR0036721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2020-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036721"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De leden van de commissies van toezicht op de arrestantenzorg, bedoeld in [artikel 24, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=24), ontvangen voor hun werkzaamheden een vergoeding per vergadering van 1,6% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat de voorzitters per vergadering een vergoeding ontvangen van 130% van de vergoeding per vergadering die de overige leden ontvangen.
+De leden van de commissies van toezicht op de arrestantenzorg, bedoeld in [artikel 50, eerste lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50), ontvangen voor hun werkzaamheden een vergoeding per vergadering van 1,6% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat de voorzitters per vergadering een vergoeding ontvangen van 130% van de vergoeding per vergadering die de overige leden ontvangen.
 
 ##### Artikel 2
 
