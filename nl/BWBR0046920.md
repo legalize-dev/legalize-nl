@@ -4,7 +4,7 @@ identifier: "BWBR0046920"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-09"
-last_updated: "2022-07-16"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046920"
 soort: "ministeriele-regeling"
@@ -66,20 +66,20 @@ Als populaties van paardachtigen als bedoeld in artikel 60 van [verordening (EU)
 | Heesseltsche uiterwaarden | Rondom Steenfabriek 4063 CE Heesselt |
 | Heide van Allardseach en Bakkensterduinen | Jarig van de Wielenwei 2 9243 SH Bakkeveen |
 | Hellegatsplaten | Bosweg bij nummer 8 3257 KL Ooltgensplaat |
-| Herperduin | Schaijkseweg 5 5373 KL Herpen |
 | Horsterwold Stille Kern | Groenewoudseweg 7 3896 LS Zeewolde |
 | Huis ter Heide Noord | Middelstraat 1 5176 NH De Moer |
 | Huis ter Heide Zuid | Vossenbergseweg 101-109, De Moer |
 | Keent | Zuijdenhoutstraat 2 5359 NB Ravenstein |
 | Klompenwaard | Waaldijk 1 6686 MS Doornenburg |
 | Kollumerwaard | Kwelderweg te Warfstermolen |
+| Kraansvlak | Begrazingsgebied nabij Sterrewacht bij Tetterodeweg 25 2051 EG Overveen |
 | Krammerse Slikken Buitendijksgebied nabij Lodewijksweg, Achthuizen | Lodewijksweg (Krammerse Slikken) 3256 LH Achthuizen |
 | Kropswolderbuitenpolder | Kropswoldebuitenpolder 9606 PG Kropswolde |
-| Laurabossen | Lozerweg 119 6006 SR Weert |
+| De Lange Bleek | Lange Bleek 1 6029 RW Sterksel |
 | Lippenhuisterheide | 1,5 kilometer achter Sweachsterwei 2 8408 HE Lippenhuizen |
 | Loevestein | Munnikenlandse Waalkade 5307 TG Poederoijen |
 | Loozerheide | Ten noorden van de Kempenweg (N564) en tegen de Boshoverheide, gemeente Weert |
-| Maashorst | Slabroekseweg 5 5388 PX Nistelrode |
+| Maashorst en Herperduin | Nabij Schaijkseweg 5 5373 KL Herpen |
 | Meinerswijk | Meginhardweg (achter nr. 53 6841 HB Arnhem |
 | Millingerwaard (inclusief Erlecomse waard) | Millingerwaard Ten noorden van Duffeltdijk 44 6579 JE Kerkerdom |
 | Nationaal Park Zuid-Kennemerland | Duin- en Kruidbergerweg ter hoogte van nr. 66A 2071 LE Santpoort-Noord |
@@ -93,10 +93,10 @@ Als populaties van paardachtigen als bedoeld in artikel 60 van [verordening (EU)
 | Schiermonnikoog | Prins Bernhardweg 2 9166 SH Schiermonnikoog |
 | Slikken van de Heen | 100 meter vanaf Campweg nr. 5 4675 PW Sint Philipsland |
 | Slikken van Flakkee | Nabij Bouwdijk bij nummer 25 3248 LA Melissant |
+| Slufter | Krimweg 73 1795 LR De Cocksdorp |
 | Trekweg | Tussen de Praamweg, de Trekweg, de A6 en de Vaartplas 8218 Lelystad |
 | Vroongronden | Ten noorden van Vroonweg 17 (Vroongronden) 4325 KA Renesse |
 | Westerbroekstermadepolder | Westerbroekstermapolder 9607 PW Foxhol |
-| Witte Veen | Markslagweg 7, Haaksbergen |
 | Zoutkamperplaat | De Hooge Zuidwal te Zoutkamp |
 
 ##### Artikel 2
