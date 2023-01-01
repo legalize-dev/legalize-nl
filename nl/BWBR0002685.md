@@ -4,7 +4,7 @@ identifier: "BWBR0002685"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2018-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002685"
 soort: "AMvB"
@@ -62,17 +62,21 @@ In het register wordt aantekening gehouden van:
 
 - e. de aantekening van gezag na overlijden, bedoeld in [artikel 292 van Boek I van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=292);
 
-- f. meerderjarigverklaring, voor zover de desbetreffende moeder daardoor van rechtswege het gezag over haar kind verkrijgt, ondertoezichtstelling, voorlopige ondertoezichtstelling, verlenging of verkorting van de ondertoezichtstelling en de vervanging van de gezinsvoogdijinstelling door een andere;
+- f. de verklaring dat het gezag alleen door de moeder wordt uitgeoefend, bedoeld in [artikel 251b, tweede lid, onderdeel a, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=251b);
 
-- g. de maatregel van voorlopige voogdij ingevolgde de artikelen [241](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241) en [331 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=331), [artikel 13, vierde lid, van de Uitvoeringswet internationale kinderontvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&artikel=13), [artikel 10, eerste lid, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=10), alsmede op grond van enige andere wet;
+- g. de erkenning met vervangende toestemming van de rechtbank, bedoeld in [artikel 251b, tweede lid, onderdeel b, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=251b);
 
-- h. benoeming of ontslag van een bewindvoerder of opheffing van het bewind overeenkomstig [artikel 370 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=370);
+- h. meerderjarigverklaring, voor zover de desbetreffende moeder daardoor van rechtswege het gezag over haar kind verkrijgt, ondertoezichtstelling, voorlopige ondertoezichtstelling, verlenging of verkorting van de ondertoezichtstelling en de vervanging van de gezinsvoogdijinstelling door een andere;
 
-- i. alle rechterlijke beslissingen waarbij een der onder a, b, c, f en g bedoelde beslissingen dan wel de aantekeningen onder d en e worden bekrachtigd, vernietigd of herroepen;
+- i. de maatregel van voorlopige voogdij ingevolgde de artikelen [241](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241) en [331 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=331), [artikel 13, vierde lid, van de Uitvoeringswet internationale kinderontvoering](https://wetten.overheid.nl/jci1.3:c:BWBR0004746&artikel=13), [artikel 10, eerste lid, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=10), alsmede op grond van enige andere wet;
 
-- j. de bereidverklaring tot aanvaarding van voogdij;
+- j. benoeming of ontslag van een bewindvoerder of opheffing van het bewind overeenkomstig [artikel 370 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=370);
 
-- k. in kracht van gewijsde gegane uitspraken die een adoptie inhouden.
+- k. alle rechterlijke beslissingen waarbij een der onder a, b, c, h en i bedoelde beslissingen dan wel de aantekeningen onder d en e worden bekrachtigd, vernietigd of herroepen;
+
+- l. de bereidverklaring tot aanvaarding van voogdij;
+
+- m. in kracht van gewijsde gegane uitspraken die een adoptie inhouden.
 
 ##### Artikel 3
 
@@ -112,7 +116,7 @@ Binnen de eerste drie maanden van elk kalenderjaar worden de gegevens betreffend
 
 1. De griffier is verplicht aan ieder kosteloos inzage van het register te verstrekken. Hij is voorts verplicht om - met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde - aan ieder een uittreksel uit het register te verstrekken. Het verzoek tot inzage in het register dan wel tot verstrekking van een uittreksel daaruit dient op een bepaalde minderjarige betrekking te hebben.
 
-2. Het eerste lid is mede van toepassing op de inzage en de verstrekking van uittreksels van de gegevens die reeds overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=9&z=2018-08-01&g=2018-08-01), uit het register zijn gelicht.
+2. Het eerste lid is mede van toepassing op de inzage en de verstrekking van uittreksels van de gegevens die reeds overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002685&artikel=9&z=2023-01-01&g=2023-01-01), uit het register zijn gelicht.
 
 3. Aan overheidsorganen en derden kan rechtstreeks toegang tot het register worden verleend voorzover deze toegang noodzakelijk is voor de goede vervulling van hun taken. Deze toegang heeft betrekking op een bepaalde minderjarige.
 
