@@ -4,7 +4,7 @@ identifier: "BWBR0002058"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002058"
 soort: "wet"
@@ -62,7 +62,7 @@ De Raad heeft, onverminderd de hem bij de vijfde titel van dit hoofdstuk opgedra
 
 ##### Artikel 3
 
-De Raad heeft een voorzitter, een dagelijks bestuur, een algemeen secretaris en, bij toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=6&artikel=19&z=2022-01-01&g=2022-01-01), een of meer commissies uit zijn midden.
+De Raad heeft een voorzitter, een dagelijks bestuur, een algemeen secretaris en, bij toepassing van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=6&artikel=19&z=2023-01-01&g=2023-01-01), een of meer commissies uit zijn midden.
 
 #### § 2. Van de Raad
 
@@ -110,6 +110,8 @@ Bij algemene maatregel van bestuur kunnen regelen worden gesteld ter verzekering
 
 3. Hij, die tot lid of plaatsvervangend lid is benoemd ter vervulling van een tussentijds opengevallen plaats, treedt af op het tijdstip, waarop degeen, in wiens plaats hij is benoemd, had moeten aftreden.
 
+4. Hij, die in het geval van zeteluitbreiding tot lid of plaatsvervangend lid is benoemd, treedt tegelijk met de overige leden van de Raad en hun plaatsvervangers af op het tijdstip, genoemd in het eerste lid.
+
 ##### Artikel 9
 
 De leden van de Raad en hun plaatsvervangers kunnen een vergoeding genieten volgens regelen, door de Raad bij verordening te stellen.
@@ -136,7 +138,7 @@ De leden van de Raad en hun plaatsvervangers zijn verplicht tot geheimhouding va
 
 ##### Artikel 13
 
-De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2022-01-01&g=2022-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2022-01-01&g=2022-01-01) zijn ten aanzien van de voorzitter en de plaatsvervangende voorzitters van overeenkomstige toepassing.
+De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2023-01-01&g=2023-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) zijn ten aanzien van de voorzitter en de plaatsvervangende voorzitters van overeenkomstige toepassing.
 
 #### § 4. Van het dagelijks bestuur
 
@@ -150,7 +152,7 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 ##### Artikel 15
 
-De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2022-01-01&g=2022-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2022-01-01&g=2022-01-01) zijn ten aanzien van het dagelijks bestuur van overeenkomstige toepassing.
+De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2023-01-01&g=2023-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) zijn ten aanzien van het dagelijks bestuur van overeenkomstige toepassing.
 
 #### § 5. Van het secretariaat
 
@@ -172,7 +174,7 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 ##### Artikel 18
 
-[Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2022-01-01&g=2022-01-01) is ten aanzien van het personeel van het secretariaat van overeenkomstige toepassing.
+[Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) is ten aanzien van het personeel van het secretariaat van overeenkomstige toepassing.
 
 #### § 6. Van de commissies uit het midden van de Raad
 
@@ -180,7 +182,7 @@ De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerst
 
 1. De Raad is bevoegd voor bepaalde onderwerpen commissies uit zijn midden in te stellen.
 
-2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2022-01-01&g=2022-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2022-01-01&g=2022-01-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
+2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2023-01-01&g=2023-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
 
 ## Titel III. Van de werkwijze
 
@@ -236,7 +238,7 @@ De leden van de Raad onthouden zich van medestemmen over zaken, die hun, hun ech
 
 ##### Artikel 29
 
-De [artikelen 20 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=20&z=2022-01-01&g=2022-01-01) zijn van overeenkomstige toepassing ten aanzien van het dagelijks bestuur.
+De [artikelen 20 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=20&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing ten aanzien van het dagelijks bestuur.
 
 ##### Artikel 30
 
@@ -250,7 +252,7 @@ De Raad kan bij verordening nadere regelen stellen betreffende zijn werkwijze.
 
 ##### Artikel 32
 
-1. De Raad maakt ten aanzien van de onderwerpen, waarvan de regeling of nadere regeling bij de wet aan hem is overgelaten, de verordeningen, die hij ter vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2022-01-01&g=2022-01-01) omschreven taak nodig oordeelt.
+1. De Raad maakt ten aanzien van de onderwerpen, waarvan de regeling of nadere regeling bij de wet aan hem is overgelaten, de verordeningen, die hij ter vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2023-01-01&g=2023-01-01) omschreven taak nodig oordeelt.
 
 2. Bij deze verordeningen kunnen overtredingen van het bij of krachtens haar bepaalde worden aangewezen als strafbare feiten.
 
@@ -264,7 +266,7 @@ Vervallen
 
 ##### Artikel 35
 
-De Raad kan met betrekking tot de vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2022-01-01&g=2022-01-01) omschreven taak, bij verordening zijn bevoegdheden - met uitzondering van de bevoegdheid tot het maken van verordeningen en die tot het vaststellen ingevolge [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=VI&paragraaf=2&artikel=52&z=2022-01-01&g=2022-01-01), van het bedrag der inkomsten en uitgaven -, delegeren aan de voorzitter, het dagelijks bestuur of een commissie uit zijn midden.
+De Raad kan met betrekking tot de vervulling van zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=I&artikel=2&z=2023-01-01&g=2023-01-01) omschreven taak, bij verordening zijn bevoegdheden - met uitzondering van de bevoegdheid tot het maken van verordeningen en die tot het vaststellen ingevolge [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=VI&paragraaf=2&artikel=52&z=2023-01-01&g=2023-01-01), van het bedrag der inkomsten en uitgaven -, delegeren aan de voorzitter, het dagelijks bestuur of een commissie uit zijn midden.
 
 ##### Artikel 36
 
@@ -300,7 +302,7 @@ De Raad adviseert op schriftelijk verzoek van Onze Ministers of van een van beid
 
 1. De Raad kan commissies, waarin ook personen buiten de Raad zitting kunnen hebben, instellen ter voorbereiding van door hem uit te brengen adviezen.
 
-2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2022-01-01&g=2022-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2022-01-01&g=2022-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2022-01-01&g=2022-01-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
+2. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2023-01-01&g=2023-01-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
 
 ##### Artikel 43
 
@@ -310,11 +312,11 @@ De Raad adviseert op schriftelijk verzoek van Onze Ministers of van een van beid
 
 3. Indien Onze betrokken Ministers het advies van een zodanige commissie hebben gevraagd, brengt zij dit rechtstreeks aan hen uit. Van het advies wordt kennis gegeven aan de Raad.
 
-4. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2022-01-01&g=2022-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2022-01-01&g=2022-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2022-01-01&g=2022-01-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
+4. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=9&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=2&artikel=10&z=2023-01-01&g=2023-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=III&artikel=28&z=2023-01-01&g=2023-01-01) zijn ten aanzien van deze commissies van overeenkomstige toepassing.
 
 ##### Artikel 44
 
-De Raad kan de commissies, bedoeld in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2022-01-01&g=2022-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2022-01-01&g=2022-01-01), machtigen namens hem van advies te dienen. Zodanige machtiging wordt niet verleend voor een op verzoek van een Onzer Ministers uit te brengen advies, waarvan deze bepaaldelijk heeft verzocht, dat het door de Raad zelf wordt uitgebracht.
+De Raad kan de commissies, bedoeld in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2023-01-01&g=2023-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2023-01-01&g=2023-01-01), machtigen namens hem van advies te dienen. Zodanige machtiging wordt niet verleend voor een op verzoek van een Onzer Ministers uit te brengen advies, waarvan deze bepaaldelijk heeft verzocht, dat het door de Raad zelf wordt uitgebracht.
 
 ##### Artikel 45
 
@@ -438,7 +440,7 @@ Vervallen
 
 ##### Artikel 65
 
-1. De Raad brengt jaarlijks voor 1 april aan Onze Ministers verslag uit omtrent zijn werkzaamheden en die van de commissies, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=6&artikel=19&z=2022-01-01&g=2022-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2022-01-01&g=2022-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2022-01-01&g=2022-01-01), in het afgelopen kalenderjaar.
+1. De Raad brengt jaarlijks voor 1 april aan Onze Ministers verslag uit omtrent zijn werkzaamheden en die van de commissies, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=II&paragraaf=6&artikel=19&z=2023-01-01&g=2023-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=42&z=2023-01-01&g=2023-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Eerste&titeldeel=V&artikel=43&z=2023-01-01&g=2023-01-01), in het afgelopen kalenderjaar.
 
 2. Het verslag wordt, tegen betaling van de kosten, algemeen verkrijgbaar gesteld.
 
@@ -798,7 +800,7 @@ Voor oprichting van of deelneming in andere rechtspersonen behoeft de Raad de to
 
 ##### Artikel 139
 
-Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt zorg voor de elektronische toegankelijkheid van de teksten van verordeningen die op grond van [artikel 106a](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=106a&z=2022-01-01&g=2022-01-01) van deze wet, zoals dat artikel luidde onmiddellijk voorafgaand aan het tijdstip waarop het is vervallen, in geconsolideerde vorm voor een ieder beschikbaar zijn gesteld door middel van plaatsing op internet.
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt zorg voor de elektronische toegankelijkheid van de teksten van verordeningen die op grond van [artikel 106a](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede&titeldeel=IV&artikel=106a&z=2023-01-01&g=2023-01-01) van deze wet, zoals dat artikel luidde onmiddellijk voorafgaand aan het tijdstip waarop het is vervallen, in geconsolideerde vorm voor een ieder beschikbaar zijn gesteld door middel van plaatsing op internet.
 
 ##### Artikel 140
 
