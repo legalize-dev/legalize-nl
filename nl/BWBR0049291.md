@@ -4,7 +4,7 @@ identifier: "BWBR0049291"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-09-23"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049291"
 soort: "AMvB"
@@ -53,8 +53,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IV
 
 Wijzigt het Besluit reis-, verblijf-, en verhuiskosten politie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
