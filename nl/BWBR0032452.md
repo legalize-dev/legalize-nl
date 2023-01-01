@@ -4,7 +4,7 @@ identifier: "BWBR0032452"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032452"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Toepassingsbereik
 
-De [artikelen 3 tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01) zijn uitsluitend van toepassing op:
+De [artikelen 3 tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01) zijn uitsluitend van toepassing op:
 
 - a. de topfunctionarissen in het primair onderwijs;
 
@@ -100,12 +100,12 @@ De [artikelen 3 tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&p
 
 | Klasse | Bezoldigingsmaximum |
 | --- | --- |
-| A (4 complexiteitspunten) | € 128.000 |
-| B (5 – 6 complexiteitspunten) | € 143.000 |
-| C (7 – 8 complexiteitspunten) | € 154.000 |
-| D (9 – 12 complexiteitspunten) | € 168.000 |
-| E (13 – 15 complexiteitspunten) | € 183.000 |
-| F (16 – 17 complexiteitspunten) | € 196.000 |
+| A (4 complexiteitspunten) | € 132.000 |
+| B (5 – 6 complexiteitspunten) | € 148.000 |
+| C (7 – 8 complexiteitspunten) | € 159.000 |
+| D (9 – 12 complexiteitspunten) | € 173.000 |
+| E (13 – 15 complexiteitspunten) | € 189.000 |
+| F (16 – 17 complexiteitspunten) | € 202.000 |
 | G (18 – 20 complexiteitspunten) | Het bedrag, bedoeld in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3). |
 
 ##### Artikel 4. Elektronische verzending bezoldigingsgegevens
@@ -160,7 +160,7 @@ Deze paragraaf is uitsluitend van toepassing op de topfunctionarissen van de cul
 
 ##### Artikel 5b. Verlaagde bezoldigingsmaxima topfunctionarissen van de cultuurfondsen
 
-In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen voor de topfunctionarissen van de cultuurfondsen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan € 180.000 voor zover het betreft:
+In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen voor de topfunctionarissen van de cultuurfondsen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan € 186.000 voor zover het betreft:
 
 - a. het Fonds Podiumkunsten;
 
@@ -180,7 +180,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a. Begripsbepaling toezicht overige OCW-sectoren
 
-In de [artikelen 7b tot en met 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7b&z=2022-01-01&g=2022-01-01) wordt onder instellingen verstaan: rechtspersonen op wie de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01), of het Commissariaat voor de Media, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7&z=2022-01-01&g=2022-01-01), en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat.
+In de [artikelen 7b tot en met 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7b&z=2023-01-01&g=2023-01-01) wordt onder instellingen verstaan: rechtspersonen op wie de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=6&z=2023-01-01&g=2023-01-01), of het Commissariaat voor de Media, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7&z=2023-01-01&g=2023-01-01), en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat.
 
 ##### Artikel 7b. Sector primair onderwijs voor zover geen onderwijsinstelling
 
@@ -276,7 +276,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7k.1. Cultuurfondsen
 
-1. Voor instellingen die worden gesubsidieerd door een fonds als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2a&artikel=5b&z=2022-01-01&g=2022-01-01) worden, voor zover de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) op die instelling van toepassing is, zijn de leden van het bestuur van het betreffende fonds belast met het toezicht op de naleving van de wet, het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en de regeling.
+1. Voor instellingen die worden gesubsidieerd door een fonds als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2a&artikel=5b&z=2023-01-01&g=2023-01-01) worden, voor zover de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) op die instelling van toepassing is, zijn de leden van het bestuur van het betreffende fonds belast met het toezicht op de naleving van de wet, het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en de regeling.
 
 2. Indien meer dan één van de in het eerste lid bedoelde fondsen subsidie verstrekken aan een instelling als bedoeld in het eerste lid, is het fonds dat de hoogste subsidie verstrekt aan de instelling belast met het toezicht op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en de regeling.
 
@@ -300,11 +300,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Een verzoek om op grond van [artikel 2.7, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.7) ten aanzien van een topfunctionaris een hogere bezoldiging te mogen overeenkomen dan toegestaan op grond van deze regeling, wordt door een rechtspersoon of instelling ingediend uiterlijk 6 weken voorafgaand aan de periode waarin de hogere bezoldiging moet ingaan.
 
-2. [Artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3a&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3a&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 3c. Vermelding van toepassing zijnde bezoldigingsklasse of bezoldigingsmaximum in het financieel verslaggevingsdocument
 
-De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01) of [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3a&z=2022-01-01&g=2022-01-01) van toepassing zijnde klasse of het op grond van artikel 3b van toepassing zijnde bezoldigingsmaximum voor het betreffende kalenderjaar, alsmede het aantal complexiteitspunten per criterium dat geldt voor de instelling in het betreffende jaar.
+De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01) of [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3a&z=2023-01-01&g=2023-01-01) van toepassing zijnde klasse of het op grond van artikel 3b van toepassing zijnde bezoldigingsmaximum voor het betreffende kalenderjaar, alsmede het aantal complexiteitspunten per criterium dat geldt voor de instelling in het betreffende jaar.
 
 #### Paragraaf 4. Slotbepalingen
 
@@ -787,7 +787,7 @@ Deze paragraaf is van toepassing op de topfunctionarissen van media-instellingen
 
 In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen voor de topfunctionarissen van de volgende media-instellingen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan:
 
-- a. € 153.000 voor zover het betreft:
+- a. € 158.000 voor zover het betreft:
 
 - –. Omroep Zwart;
 
@@ -815,7 +815,7 @@ In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.n
 
 - –. Stichting Samenwerkende Publieke Omroepen Midden Nederland.
 
-- b. € 182.000 voor zover het betreft
+- b. € 188.000 voor zover het betreft
 
 - –. Stichting Omroep Gelderland
 
@@ -823,7 +823,7 @@ In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.n
 
 - –. Stichting RTV NH
 
-- c. € 199.000 voor zover het betreft:
+- c. € 205.000 voor zover het betreft:
 
 - –. EO;
 
@@ -1018,7 +1018,7 @@ Deze regeling berust mede op [artikel 2.7, eerste tot en met vierde lid, van de 
 
 #### Paragraaf 4. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), van de Regeling normering topinkomens OCW-sectoren
+## Bijlage. behorende bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), van de Regeling normering topinkomens OCW-sectoren
 
 Deel 1 van de bijlage is van toepassing op rechtspersonen of instellingen die beschikken over de jaarrekening over het tweede jaar voorafgaand aan het jaar waarin de indeling in een bezoldigingsklasse wordt toegepast (t-2). Voor rechtspersonen of instellingen die in het lopende jaar of de twee voorafgaande jaren zijn opgericht, gefuseerd of gesplitst, kunnen de berekeningen behorend bij de criteria uit dit eerste deel van de bijlage niet onverkort worden toegepast; voor die rechtspersonen of instellingen geldt deel 2 van deze bijlage.
 
@@ -1033,9 +1033,9 @@ Aan de rechtspersoon of instelling komt aan de hand van het totaal van de baten,
 | 125 tot 200 miljoen | 9 |
 | 200 miljoen en meer | 10 |
 
-Aan de rechtspersoon of instelling komt aan de hand van het aantal bekostigde leerlingen, deelnemers, vavo-studenten, mbo-studenten of ho-studenten die op 1 oktober van het tweede jaar voorafgaand aan het jaar waarin het bezoldigingsmaximum wordt toegepast (t-2) onderwijs volgden aan die instelling het volgende aantal bekostigde punten toe. Onder aantal bekostigde leerlingen, deelnemers, vavo-studenten, mbo-studenten of ho-studenten wordt verstaan: leerlingen, deelnemers, vavo-studenten, mbo-studenten of ho-studenten waarvoor de rechtspersoon of instelling bekostiging ontvangt op grond van de onderwijswetten.
+Aan de rechtspersoon of instelling komt aan de hand van het aantal bekostigde leerlingen, vavo-studenten, mbo-studenten of ho-studenten die op 1 oktober van het tweede jaar voorafgaand aan het jaar waarin het bezoldigingsmaximum wordt toegepast (t-2) onderwijs volgden aan die instelling het volgende aantal bekostigde punten toe. Onder aantal bekostigde leerlingen, vavo-studenten, mbo-studenten of ho-studenten wordt verstaan: leerlingen, vavo-studenten, mbo-studenten of ho-studenten waarvoor de rechtspersoon of instelling bekostiging ontvangt op grond van de onderwijswetten.
 
-| Aantal bekostigde leerlingen, deelnemers, vavo-studenten, mbo-studenten of ho-studenten | Aantal complexiteitspunten |
+| Aantal bekostigde leerlingen, vavo-studenten, mbo-studenten of ho-studenten | Aantal complexiteitspunten |
 | --- | --- |
 | 1 tot 1.500 | 1 |
 | 1.500 tot 2.500 | 2 |
@@ -1045,7 +1045,7 @@ Aan de rechtspersoon of instelling komt aan de hand van het aantal bekostigde le
 
 Aan de rechtspersoon of instelling komt aan de hand van het gewogen aantal onderwijssoorten of sectoren dat werd aangeboden op 1 oktober in het tweede jaar voorafgaand aan het jaar waarin het bezoldigingsmaximum wordt toegepast (t-2) het uit de tabel volgende aantal punten toe. De manier waarop het aantal onderwijssoorten of sectoren wordt gewogen is verschillend voor de verschillende onderwijssoorten of sectoren. Voor het bepalen van het aantal onderwijssoorten of sectoren geldt het volgende.
 
-- 1. Voor po, wec-onderwijs – onderwijssoort speciaal onderwijs, mbo, hbo en wo worden uitsluitend de onderwijssoorten of sectoren meegeteld als voor die onderwijssoorten of sectoren bij de rechtspersoon of instelling leerlingen, deelnemers, vavo-studenten, mbo-studenten of ho-studenten staan ingeschreven voor wie die rechtspersoon of instelling op grond van de onderwijswetten bekostiging ontvangt.
+- 1. Voor po, wec-onderwijs – onderwijssoort speciaal onderwijs, mbo, hbo en wo worden uitsluitend de onderwijssoorten of sectoren meegeteld als voor die onderwijssoorten of sectoren bij de rechtspersoon of instelling leerlingen, vavo-studenten, mbo-studenten of ho-studenten staan ingeschreven voor wie die rechtspersoon of instelling op grond van de onderwijswetten bekostiging ontvangt.
 
 - 2. Voor vo worden uitsluitend de bij de rechtspersoon of instelling door de minister toegestane onderwijssoorten meegeteld.
 
@@ -1141,7 +1141,7 @@ Indien een rechtspersoon of instelling in het lopende jaar is opgericht, gefusee
 
 - a. het criterium onder 1A van deze bijlage uitgegaan van de baten die zijn opgenomen in de begroting voor het lopende jaar;
 
-- b. het criterium onder 1B van deze bijlage uitgegaan van de aantallen leerlingen, deelnemers of studenten die voor de eerste bekostiging aan de minister zijn doorgegeven; en
+- b. het criterium onder 1B van deze bijlage uitgegaan van de aantallen leerlingen, vavo-studenten, mbo-studenten of ho-studenten die voor de eerste bekostiging aan de minister zijn doorgegeven; en
 
 - c. het criterium onder 1C van deze bijlage uitgegaan van het aantal onderwijssoorten of sectoren die op basis van het onderwijsaanbod in het lopende jaar kunnen worden vastgesteld.
 
@@ -1149,7 +1149,7 @@ Indien een rechtspersoon of instelling in het jaar voorafgaand aan het lopende j
 
 - a. het criterium onder 1A van deze bijlage uitgegaan van de baten volgens de jaarrekening van het voorafgaande jaar;
 
-- b. het criterium onder 1B van deze bijlage uitgegaan van de aantallen leerlingen, deelnemers of studenten van het voorafgaande jaar; en
+- b. het criterium onder 1B van deze bijlage uitgegaan van de aantallen leerlingen, vavo-studenten, mbo-studenten of ho-studenten van het voorafgaande jaar; en
 
 - c. het criterium onder 1C van deze bijlage uitgegaan van het gewogen aantal onderwijssoorten of sectoren in het voorafgaande jaar.
 
