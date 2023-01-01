@@ -4,7 +4,7 @@ identifier: "BWBR0032413"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-01-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032413"
 soort: "ministeriele-regeling"
@@ -46,11 +46,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- **biomassa:** de biologisch afbreekbare fractie van producten, afvalstoffen en residuen van biologische oorsprong uit de landbouw, met inbegrip van plantaardige en dierlijke stoffen, de bosbouw en aanverwante bedrijfstakken, met inbegrip van de visserij en de aquacultuur, alsmede de biologisch afbreekbare fractie van afval, met inbegrip van industrieel en huishoudelijk afval van biologische oorsprong;
+
+- **biomassabrandstof:** gasvormige of vaste brandstof geproduceerd uit biomassa;
+
 - **CDM-projectactiviteit:** projectactiviteit als bedoeld in artikel 16.46b, eerste lid, onderdeel b, van de wet;
 
 - **CDM-raad:** raad van bestuur van het mechanisme voor schone ontwikkeling, bedoeld in artikel 12, vierde lid, van het Protocol van Kyoto;
 
+- **conformiteitsbeoordelingsverklaring:** verklaring, afgegeven door een conformiteitsbeoordelingsinstantie, dat een gerechtvaardigd vertrouwen bestaat dat de daarin gespecificeerde biomassa is geproduceerd op een wijze die voldoet aan de daarop van toepassing zijnde duurzaamheidseisen die in de verklaring zijn gespecificeerd;
+
+- **erkende conformiteitsbeoordelingsinstantie:** conformiteitsbeoordelingsinstantie als bedoeld in [artikel 1 van het Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=1);
+
 - **geaccrediteerde onafhankelijke entiteit:** entiteit die is aangewezen volgens de procedure, bedoeld in het overeenkomstig het Protocol van Kyoto genomen besluit 9/CMP.1, Bijlage, sectie E;
+
+- **houtige biomassa:** biomassa als bedoeld in de nummers 100 tot en met 199 van NTA 8003:2017;
 
 - **JI-projectactiviteit:** projectactiviteit als bedoeld in artikel 16.46b, eerste lid, onderdeel a, van de wet;
 
@@ -68,6 +78,8 @@ In deze regeling wordt verstaan onder:
 
 - **operationele instelling:** instelling die is aangewezen volgens de procedure, bedoeld in het overeenkomstig het Protocol van Kyoto genomen besluit 3/CMP.1, Bijlage, sectie D;
 
+- **pellet:** tot vaste brokken samengeperst materiaal in grootteorden van enkele cm;
+
 - **rekeninghouder:** houder van een
 
 - 1°. exploitanttegoedrekening als bedoeld in artikel 16 van de Verordening EU-register handel in emissierechten,
@@ -80,6 +92,10 @@ In deze regeling wordt verstaan onder:
 
 - 5°. Kyotorekening;
 
+- **richtlijn (EU) 2018/2001:** [Richtlijn (EU) 2018/2001](32018L2001) van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen (PbEU 2018, L328);
+
+- **RVO:** Rijksdienst voor Ondernemend Nederland;
+
 - **subinstallatie:** productenbenchmark-, warmtebenchmark-, stadsverwarming-, brandstofbenchmark- of procesemissies-subinstallatie als bedoeld in artikel 2 van Verordening kosteloze toewijzing van emissierechten;
 
 - **Verordening aanpassingen kosteloze toewijzing door verandering activiteitsniveau:** Uitvoeringsverordening (EU) 2019/1842 van de Commissie van 31 oktober 2019 tot vaststelling van bepalingen ter uitvoering van [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad wat de verdere regelingen voor de aanpassingen van de kosteloze toewijzing van emissierechten als gevolg van veranderingen in het activiteitsniveau betreft (PbEU 2019, L282);
@@ -90,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Interpretatie en reikwijdte handel in broeikasgasemissierechten luchtvaart
 
-1. De vluchten, bedoeld in bijlage I, onder ‘Luchtvaart’, onder a tot en met c, f, g, i en j, bij de EG-richtlijn handel in broeikasgasemissierechten, worden geïnterpreteerd volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&bijlage=1&z=2021-01-01&g=2021-01-01) bij deze regeling.
+1. De vluchten, bedoeld in bijlage I, onder ‘Luchtvaart’, onder a tot en met c, f, g, i en j, bij de EG-richtlijn handel in broeikasgasemissierechten, worden geïnterpreteerd volgens [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&bijlage=1&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 2. Een commerciële luchtvervoersonderneming die:
 
@@ -106,7 +122,7 @@ valt gedurende het gehele kalenderjaar waarin deze drempels worden bereikt of ov
 
 ##### Artikel 3. Begripsbepalingen bij interpretatie handel in broeikasgasemissierechten luchtvaart
 
-Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2021-01-01&g=2021-01-01) en de op dat artikel berustende bijlage wordt verstaan onder:
+Voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2023-01-01&g=2023-01-01) en de op dat artikel berustende bijlage wordt verstaan onder:
 
 commerciële luchtvervoersonderneming: exploitant die houder is van een bewijs luchtvaartexploitant (AOC) als bedoeld in deel I van bijlage 6 bij het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109);
 
@@ -162,11 +178,29 @@ Een monitoringsplan wordt opgesteld met gebruikmaking van een door het bestuur v
 
 In het geval van de verbranding van aardgas dat in een landelijk of regionaal gasnetwerk wordt gebruikt, mag degene die een broeikasgasinstallatie exploiteert voor de bepaling van de emissiefactor voor de bronstroom aardgas, waarop niveau 3 als bedoeld in onderdeel 2.1 van bijlage II bij de Verordening monitoring en rapportage emissiehandel van toepassing is, een standaardemissiefactor gebruiken die jaarlijks door de minister wordt gepubliceerd.
 
-##### Artikel 10. Duurzaamheid van vloeibare biomassa
+##### Artikel 10. Duurzaamheid van biomassa
 
-1. Indien binnen de broeikasgasinstallatie vloeibare biomassa wordt gebruikt, verstrekt degene die de broeikasgasinstallatie exploiteert aan het bestuur van de emissieautoriteit een bewijs dat de duurzaamheid van de vloeibare biomassa is aangetoond door een door de Europese Commissie erkend duurzaamheidssysteem.
+1. De exploitant van een broeikasgasinstallatie waar biomassa wordt gebruikt voor verbranding toont aan dat de voor verbranding gebruikte biomassa voldoet aan het bepaalde in artikel 38, vijfde lid, van de Verordening monitoring en rapportage emissiehandel, middels een jaarlijkse conformiteitsbeoordelingsverklaring op basis van conformiteitsbeoordelingsverklaringen per levering.
 
-2. In het bewijs, bedoeld in het eerste lid, wordt tevens opgenomen de hoeveelheid geleverde vloeibare biomassa en de partij waarop de biomassa betrekking heeft.
+2. Jaarlijkse conformiteitsbeoordelingsverklaringen worden afgegeven door een erkende conformiteitsbeoordelingsinstantie op grond van het verificatieprotocol, bedoeld in [artikel 7ba van de Algemene uitvoeringsregeling stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=7ba).
+
+3. Conformiteitsbeoordelingsverklaringen per levering worden afgegeven op grond van:
+
+- a. een certificatieschema, waarvan de Europese Commissie op grond van artikel 30, vierde lid, van [richtlijn (EU) 2018/2001](onbekend) heeft besloten dat dit accurate gegevens verschaft met het oog op de toepassing van artikel 29 van [richtlijn (EU) 2018/2001](onbekend);
+
+- b. een nationaal schema, waarvan de Europese Commissie op grond van artikel 30, zesde lid, van [richtlijn (EU) 2018/2001](onbekend) heeft besloten dat dit voldoet aan de in die richtlijn bepaalde voorwaarden; of
+
+- c. een certificatieschema, dat op grond van [artikel 10 van het Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=10) is goedgekeurd voor de betreffende scope, uitsluitend voor houtige biomassa, niet zijnde pellets.
+
+4. In afwijking van het eerste, tweede en derde lid, toont een exploitant, die voor verbranding onder andere gebruik maakt van biomassa in de vorm van pellets, aan dat alle voor verbranding gebruikte vaste biomassa voldoet aan artikel 16 van het Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen en [artikel 2 van de Regeling conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&artikel=2), waarvoor gebruik gemaakt wordt van:
+
+- a. een jaarlijkse conformiteitsboordelingsverklaring afgegeven op grond van het verificatieprotocol, bedoeld in [artikel 4 van de Regeling conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&artikel=4); en
+
+- b. conformiteitsbeoordelingsverklaringen per levering afgegeven op grond van een certificatieschema als bedoeld in [artikel 10 van het Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040209&artikel=10) of op grond van het verificatieprotocol, bedoeld in [artikel 4 van de Regeling conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040431&artikel=4).
+
+5. Van de totale massa houtige biomassa afkomstig uit bosbeheereenheden die wordt ingezet door exploitanten als bedoeld in het vierde lid, die in een kalenderjaar wordt ingezet, voldoet ten hoogste 30 procent aan de duurzaamheidscriteria en broeikasgasemissiereductiecriteria, bedoeld in artikel 29, eerste lid, van [richtlijn (EU) 2018/2001](onbekend).
+
+6. Een exploitant die voor verbranding gebruik maakt van biomassa zijnde niet-vloeibare afval- of reststromen die niet van landbouw, aquacultuur, visserij, bosbouw afkomstig zijn en afvalstoffen en residuen die in een product zijn verwerkt alvorens zij verder worden verwerkt tot biomassabrandstof, kan, in afwijking van het eerste lid, door middel van een procedure beschreven in het monitoringsplan aantonen hoe de voor verbranding gebruikte biomassa voldoet aan artikel 38, vijfde lid, van de Verordening monitoring en rapportage emissiehandel.
 
 ##### Artikel 11. Bemonsteringsplan
 
@@ -282,7 +316,7 @@ De tonkilometergegevens worden aangeleverd met gebruikmaking van een door het be
 
 ##### Artikel 30. Verificatierapport en continue verbetering
 
-De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=19&z=2021-01-01&g=2021-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=21&z=2021-01-01&g=2021-01-01) zijn van overeenkomstige toepassing op luchtvaartactiviteiten.
+De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=19&z=2023-01-01&g=2023-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.6&artikel=21&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing op luchtvaartactiviteiten.
 
 ### Hoofdstuk 3. Toewijzing broeikasgasemissierechten
 
@@ -310,7 +344,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 36. Algemene eisen inzake de bepaling van in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2021-01-01&g=2021-01-01) bedoelde gegevens
+##### Artikel 36. Algemene eisen inzake de bepaling van in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=33&z=2023-01-01&g=2023-01-01) bedoelde gegevens
 
 Vervallen
 
@@ -378,27 +412,19 @@ Vervallen
 
 - a. een bewijs waaruit blijkt dat de reserve, achtervang of parallelle eenheid door een identificeerbare en handhaafbare technische restrictie niet tegelijkertijd in werking kan zijn met andere eenheden, zodanig dat de drempelwaarde, bedoeld in [bijlage I bij het Besluit handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I), op geen enkel moment kan worden overschreden, en
 
-- b. een bewijs dat de technische restrictie, bedoeld in onderdeel a, geplaatst is door een meetverantwoordelijke gas indien de technische restrictie is gericht op de toevoer van gas.
+- b. een bewijs dat de technische restrictie, bedoeld in onderdeel a, geplaatst is door een meetverantwoordelijke gas indien de technische restrictie is gericht op de verbranding van gasvormige brandstof, dan wel een bewijs dat de technische restrictie geplaatst is door een onafhankelijke gespecialiseerde deskundige indien de technische restrictie is gericht op de verbranding van vloeibare of vaste brandstoffen.
 
-2. Indien de technische restrictie, bedoeld in het eerste lid, onderdeel a, niet gericht is op de toevoer van gas:
+2. In een geval als bedoeld in [artikel 2, tweede lid, onderdeel e, van het Besluit handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&artikel=2), wordt na de melding, bedoeld in het eerste lid, de situatie waarin de restrictie niet naar behoren functioneert of heeft gefunctioneerd met als gevolg dat de drempelwaarde, bedoeld in [bijlage I bij het Besluit handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I), op enig moment is overschreden, binnen twee weken na het ontstaan van de overschrijding van de drempelwaarde gemeld aan het bestuur van de emissieautoriteit.
 
-- a. wordt voorafgaand aan de melding contact opgenomen met het bestuur van de emissieautoriteit;
+3. Jaarlijks wordt een controle en test van de werking van de restrictie uitgevoerd.
 
-- b. geeft het bestuur van de emissieautoriteit aan wie of welke instantie de technische restrictie dient te plaatsen en controleren, en
-
-- c. gaat de melding in afwijking van het eerste lid, onderdeel b, vergezeld van een bewijs waaruit blijkt dat de technische restrictie geplaatst is door de persoon of instantie, bedoeld in onderdeel b.
-
-3. In een geval als bedoeld in [artikel 2, tweede lid, onderdeel e, van het Besluit handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&artikel=2), wordt na de melding, bedoeld in het eerste lid, al dan niet in samenhang met het tweede lid, de situatie waarin de restrictie niet naar behoren functioneert of heeft gefunctioneerd met als gevolg dat de drempelwaarde, bedoeld in [bijlage I bij het Besluit handel in emissierechten](https://wetten.overheid.nl/jci1.3:c:BWBR0017779&bijlage=I), op enig moment is overschreden, binnen twee weken na het ontstaan van de overschrijding van de drempelwaarde gemeld aan het bestuur van de emissieautoriteit.
-
-4. Jaarlijks wordt een controle en test van de werking van de restrictie uitgevoerd.
-
-5. Een door de meetverantwoordelijke gas of andere persoon of instantie verstrekt bewijs van de controle en test van de werking wordt op verzoek van het bestuur van de emissieautoriteit of van een op grond van [artikel 18.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.4) aangewezen ambtenaar overgelegd.
+4. Een door de meetverantwoordelijke gas of een onafhankelijke gespecialiseerde deskundige als bedoeld in het eerste lid, onderdeel b, verstrekt bewijs van de controle en test van de werking wordt op verzoek van het bestuur van de emissieautoriteit of van een op grond van [artikel 18.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.4) aangewezen ambtenaar overgelegd.
 
 ##### Artikel 49. Formulier en verificatierapport van de verificateur
 
-1. Voor de meldingen, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2021-01-01&g=2021-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2021-01-01&g=2021-01-01), wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
+1. Voor de meldingen, bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2023-01-01&g=2023-01-01) en [45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2023-01-01&g=2023-01-01), wordt gebruikgemaakt van een door het bestuur van de emissieautoriteit vastgesteld en elektronisch beschikbaar gesteld standaardformulier.
 
-2. De melding, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2021-01-01&g=2021-01-01), gaat vergezeld van een verificatierapport van een verificateur.
+2. De melding, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2023-01-01&g=2023-01-01), gaat vergezeld van een verificatierapport van een verificateur.
 
 ##### Artikel 50. Melden wijzigingen periode 1 juli 2011 tot 1 juli 2012
 
@@ -520,7 +546,7 @@ Indien een opsporingsdienst een redelijk vermoeden heeft dat met een rekening fr
 
 - 2°. een verklaring van een multilaterale ontwikkelingsbank dat de projectactiviteit voldoet aan de door de multilaterale ontwikkelingsbank gehanteerde standaarden ten behoeve van milieu en sociaal beleid en die op het moment van indiening van de aanvraag niet ouder is dan achttien maanden.
 
-3. Het nalevingsrapport hydro-elektrische projectactiviteiten wordt opgesteld met gebruikmaking van het model, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&bijlage=2&z=2021-01-01&g=2021-01-01) bij deze regeling.
+3. Het nalevingsrapport hydro-elektrische projectactiviteiten wordt opgesteld met gebruikmaking van het model, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&bijlage=2&z=2023-01-01&g=2023-01-01) bij deze regeling.
 
 4. De bescheiden, bedoeld in het tweede lid, onderdelen c tot en met g, mogen Engelstalig zijn en de bescheiden, bedoeld in het tweede lid mogen elektronisch worden aangeleverd.
 
@@ -530,7 +556,7 @@ Indien een opsporingsdienst een redelijk vermoeden heeft dat met een rekening fr
 
 - a. de naam van de projectactiviteit;
 
-- b. de bescheiden, bedoeld in [artikel 58, tweede lid, onderdelen a tot en met d en f tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2021-01-01&g=2021-01-01), met dien verstande dat:
+- b. de bescheiden, bedoeld in [artikel 58, tweede lid, onderdelen a tot en met d en f tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2023-01-01&g=2023-01-01), met dien verstande dat:
 
 - 1°. in onderdeel d in plaats van ‘besluit 3/CMP.1, Bijlage, sectie G, onder 35, in samenhang met sectie B’ wordt gelezen: besluit 9/CMP.1, Bijlage, sectie E, onder 31, in samenhang met sectie B;
 
@@ -542,13 +568,13 @@ Indien een opsporingsdienst een redelijk vermoeden heeft dat met een rekening fr
 
 - a. de naam van de projectactiviteit;
 
-- b. de bescheiden, bedoeld in [artikel 58, tweede lid, onderdelen a tot en met c en f tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2021-01-01&g=2021-01-01), met dien verstande dat in onderdeel h in plaats van ‘operationele instelling’ wordt gelezen: geaccrediteerde onafhankelijke entiteit;
+- b. de bescheiden, bedoeld in [artikel 58, tweede lid, onderdelen a tot en met c en f tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2023-01-01&g=2023-01-01), met dien verstande dat in onderdeel h in plaats van ‘operationele instelling’ wordt gelezen: geaccrediteerde onafhankelijke entiteit;
 
 - c. een afschrift van het rapport inzake de projectactiviteit dat is opgesteld conform de wet- en regelgeving van het land waar de projectactiviteit plaatsvindt, en
 
 - d. een afschrift van het ontwerp van de projectactiviteit.
 
-3. Op verzoek om instemming met deelname aan en goedkeuring van een JI-projectactiviteit is [artikel 58, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2021-01-01&g=2021-01-01), van overeenkomstige toepassing.
+3. Op verzoek om instemming met deelname aan en goedkeuring van een JI-projectactiviteit is [artikel 58, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2023-01-01&g=2023-01-01), van overeenkomstige toepassing.
 
 ##### Artikel 60
 
@@ -678,15 +704,15 @@ Voor het in behandeling nemen van een verzoek om instemming met deelname aan een
 
 - a. € 800 voor zover het gaat om een projectactiviteit voor het opwekken van elektriciteit door waterkracht met een opwekkingsvermogen van meer dan 20 MW;
 
-- b. € 600 voor zover het gaat een projectactiviteit als bedoeld in [artikel 59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=59&z=2021-01-01&g=2021-01-01);
+- b. € 600 voor zover het gaat een projectactiviteit als bedoeld in [artikel 59, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=59&z=2023-01-01&g=2023-01-01);
 
 - c. € 400 voor zover het gaat om andere projectactiviteiten.
 
 ##### Artikel 62
 
-1. De deelname van een projectdeelnemer aan een projectactiviteit voldoet aan [artikel 16.46b, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.46b), indien hij een verklaring als bedoeld in [artikel 58, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2021-01-01&g=2021-01-01), heeft overgelegd.
+1. De deelname van een projectdeelnemer aan een projectactiviteit voldoet aan [artikel 16.46b, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.46b), indien hij een verklaring als bedoeld in [artikel 58, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2023-01-01&g=2023-01-01), heeft overgelegd.
 
-2. Een projectactiviteit en de uitvoering daarvan voldoen aan de in [artikel 16.46b, derde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.46b) bedoelde internationale normen en richtlijnen, indien de deelnemer een rapport als bedoeld in [artikel 58, tweede lid, onderdeel g, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2021-01-01&g=2021-01-01), of een verklaring als bedoeld in artikel 58, onderdeel g, onder 2°, heeft overlegd.
+2. Een projectactiviteit en de uitvoering daarvan voldoen aan de in [artikel 16.46b, derde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.46b) bedoelde internationale normen en richtlijnen, indien de deelnemer een rapport als bedoeld in [artikel 58, tweede lid, onderdeel g, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2023-01-01&g=2023-01-01), of een verklaring als bedoeld in artikel 58, onderdeel g, onder 2°, heeft overlegd.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -1010,7 +1036,7 @@ Het op grond van artikel 27 van Uitvoeringsverordening (EU) 2018/2067 van de Com
 
 ##### Artikel 41f. Standaardformulier aanvraag uitsluiting broeikasgasinstallaties die minder dan 2 500 ton uitstoten
 
-1. De exploitant van een broeikasgasinstallatie die minder dan 2 500 ton CO2-equivalenten aan emissies heeft gerapporteerd aan het bestuur van de emissieautoriteit, uitgezonderd emissies van biomassa, in elk van de drie jaren voorafgaand aan moment, bedoeld in artikel 27bis, eerste lid, onder a, van de EG-richtlijn handel in broeikasgasemissierechten, kan de minister verzoeken, met gebruikmaking van het formulier als bedoeld in [artikel 41b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41b&z=2021-01-01&g=2021-01-01), of, als er geen kosteloze toewijzing van emissierechten wordt aangevraagd, met gebruikmaking van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier, de broeikasgasinstallatie aan te melden bij de Europese Commissie ten behoeve van uitsluiting van het systeem van handel in broeikasgasemissierechten als bedoeld in artikel 27 bis van de EG-richtlijn handel in broeikasgasemissierechten.
+1. De exploitant van een broeikasgasinstallatie die minder dan 2 500 ton CO2-equivalenten aan emissies heeft gerapporteerd aan het bestuur van de emissieautoriteit, uitgezonderd emissies van biomassa, in elk van de drie jaren voorafgaand aan moment, bedoeld in artikel 27bis, eerste lid, onder a, van de EG-richtlijn handel in broeikasgasemissierechten, kan de minister verzoeken, met gebruikmaking van het formulier als bedoeld in [artikel 41b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41b&z=2023-01-01&g=2023-01-01), of, als er geen kosteloze toewijzing van emissierechten wordt aangevraagd, met gebruikmaking van een door het bestuur van de emissieautoriteit beschikbaar gesteld standaardformulier, de broeikasgasinstallatie aan te melden bij de Europese Commissie ten behoeve van uitsluiting van het systeem van handel in broeikasgasemissierechten als bedoeld in artikel 27 bis van de EG-richtlijn handel in broeikasgasemissierechten.
 
 2. Het standaardformulier wordt uiterlijk 30 juni 2019 ingediend bij het bestuur van de emissieautoriteit.
 
@@ -1024,7 +1050,7 @@ Het op grond van artikel 27 van Uitvoeringsverordening (EU) 2018/2067 van de Com
 
 2. De aanvraag voldoet aan de daaraan in de gedelegeerde handelingen gestelde eisen en bevat alle gegevens die op grond van de gedelegeerde handelingen wordt verlangd.
 
-3. De [artikelen 41c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41c&z=2021-01-01&g=2021-01-01), en [41d](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41d&z=2021-01-01&g=2021-01-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 41c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41c&z=2023-01-01&g=2023-01-01), en [41d](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&artikel=41d&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing.
 
 4. De minister beslist binnen vier maanden na ontvangst op de aanvraag.
 
@@ -1248,7 +1274,7 @@ Voor het vereenvoudigd monitoringsplan, bedoeld in artikel 13, eerste lid, van V
 
 - d. Uitsluitend in aanmerking worden genomen vluchten die vertrekken van of aankomen op een luchtvaartterrein dat gelegen is op het grondgebied van een lidstaat waarop het Verdrag tot oprichting van de Europese Gemeenschap (Trb. 1957, 16) van toepassing is, waarbij onder ‘luchtvaartterrein’ wordt verstaan: een afgebakende zone op het land of op het water, met inbegrip van gebouwen, installaties en uitrusting, bestemd om geheel of gedeeltelijk te worden gebruikt voor de aankomst, het vertrek en het grondverkeer van luchtvaartuigen.
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2021-01-01&g=2021-01-01)
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=2&z=2023-01-01&g=2023-01-01)
 
 - 1. Vluchten als bedoeld in bijlage I, onder ‘Luchtvaart’, onder a, bij de EG-richtlijn handel in broeikasgasemissierechten
 
@@ -1322,9 +1348,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 64a. Overgangsrecht Fase III ETS 2013-2020
 
-De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=1&z=2021-01-01&g=2021-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=5&z=2021-01-01&g=2021-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=6&z=2021-01-01&g=2021-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=7&z=2021-01-01&g=2021-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=10&z=2021-01-01&g=2021-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=12&z=2021-01-01&g=2021-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.5&artikel=18&z=2021-01-01&g=2021-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=23&z=2021-01-01&g=2021-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=24&z=2021-01-01&g=2021-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=25&z=2021-01-01&g=2021-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2021-01-01&g=2021-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2021-01-01&g=2021-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2021-01-01&g=2021-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2021-01-01&g=2021-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2021-01-01&g=2021-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2021-01-01&g=2021-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=52&z=2021-01-01&g=2021-01-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=57&z=2021-01-01&g=2021-01-01), de [paragrafen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&z=2021-01-01&g=2021-01-01), 3.2a en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.3&z=2021-01-01&g=2021-01-01) en de opschriften van [afdeling 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&z=2021-01-01&g=2021-01-01) en paragraaf 3.2b, zoals die luidden voor 1 juli 2020, en de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=51&z=2021-01-01&g=2021-01-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=55&z=2021-01-01&g=2021-01-01) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=56&z=2021-01-01&g=2021-01-01), zoals die luidden voor 1 januari 2021, blijven van toepassing op emissies van broeikasgassen in de periode tot 1 januari 2021 en op broeikasgasemissierechten als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) die zijn toegewezen en verleend of geveild voor de periode tot 1 januari 2021.
+De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=1&artikel=1&z=2023-01-01&g=2023-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=5&z=2023-01-01&g=2023-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=6&z=2023-01-01&g=2023-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=7&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=10&z=2023-01-01&g=2023-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=12&z=2023-01-01&g=2023-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.5&artikel=18&z=2023-01-01&g=2023-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=23&z=2023-01-01&g=2023-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=24&z=2023-01-01&g=2023-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=25&z=2023-01-01&g=2023-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.4&artikel=43&z=2023-01-01&g=2023-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=44&z=2023-01-01&g=2023-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=45&z=2023-01-01&g=2023-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=46&z=2023-01-01&g=2023-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=47&z=2023-01-01&g=2023-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.5&artikel=49&z=2023-01-01&g=2023-01-01), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=52&z=2023-01-01&g=2023-01-01) en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=57&z=2023-01-01&g=2023-01-01), de [paragrafen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.2&z=2023-01-01&g=2023-01-01), 3.2a en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=3&paragraaf=3.3&z=2023-01-01&g=2023-01-01) en de opschriften van [afdeling 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=2&afdeling=2.1&z=2023-01-01&g=2023-01-01) en paragraaf 3.2b, zoals die luidden voor 1 juli 2020, en de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=51&z=2023-01-01&g=2023-01-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=55&z=2023-01-01&g=2023-01-01) en [56](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4&artikel=56&z=2023-01-01&g=2023-01-01), zoals die luidden voor 1 januari 2021, blijven van toepassing op emissies van broeikasgassen in de periode tot 1 januari 2021 en op broeikasgasemissierechten als bedoeld in [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) die zijn toegewezen en verleend of geveild voor de periode tot 1 januari 2021.
 
-## Bijlage 2. behorend bij [artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2021-01-01&g=2021-01-01)
+## Bijlage 2. behorend bij [artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032413&hoofdstuk=4a&artikel=58&z=2023-01-01&g=2023-01-01)
 
 ### COMPLIANCE REPORT ASSESSING APPLICATION OF ARTICLE 11 b (6) OF EMISSIONS TRADING DIRECTIVE TO HYDROELECTRIC PROJECT ACTIVITIES EXCEEDING 20 MW
 
