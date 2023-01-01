@@ -4,7 +4,7 @@ identifier: "BWBR0047331"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2022-11-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047331"
 soort: "AMvB"
@@ -72,27 +72,25 @@ Hebben goedgevonden en verstaan:
 
 Wijzigt het Kiesbesluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ## Titel III. Overgangs- en slotbepalingen
 
 ##### Artikel 4
 
-In [artikel D 5, tweede lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=D_5) wordt voor de verkiezing van de leden van het kiescollege in plaats van «[artikel B 1, tweede lid, onder b, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=B_1)» gelezen: [artikel 35, tweede lid, onder b, van de Wet kiescollege niet-ingezetenen](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&artikel=35).
+Vervallen
 
 ##### Artikel 5
 
-Het register, bedoeld in [artikel 40, derde lid, van de Wet kiescollege niet-ingezetenen](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&artikel=40) bevat de gegevens genoemd in [artikel M 2a, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=M_2a), met uitzondering van onderdeel e, subonderdeel 1°.
+Vervallen
 
 ##### Artikel 6
 
-De burgemeester van ’s-Gravenhage zet zijn adres op de retourenveloppe, bedoeld in [artikel 40, vierde lid, onder a, van de Wet kiescollege niet-ingezetenen](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&artikel=40).
+Vervallen
 
 ##### Artikel 7
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047331&titeldeel=II&artikel=3&z=2022-11-01&g=2022-11-01) in werking treedt. Op dit tijdstip vervallen de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047331&titeldeel=III&artikel=4&z=2022-11-01&g=2022-11-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0047331&titeldeel=III&artikel=5&z=2022-11-01&g=2022-11-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0047331&titeldeel=III&artikel=6&z=2022-11-01&g=2022-11-01).
+2. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047331&titeldeel=II&artikel=3&z=2023-01-01&g=2023-01-01) in werking treedt. Op dit tijdstip vervallen de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047331&titeldeel=III&artikel=4&z=2023-01-01&g=2023-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0047331&titeldeel=III&artikel=5&z=2023-01-01&g=2023-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0047331&titeldeel=III&artikel=6&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 8
 
