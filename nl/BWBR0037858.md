@@ -4,7 +4,7 @@ identifier: "BWBR0037858"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2016-12-13"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037858"
 soort: "AMvB"
@@ -58,9 +58,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een rechtspersoon waarop [artikel 395a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a), of [396, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) van toepassing is, deponeert de bescheiden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=3&z=2016-12-13&g=2016-12-13), langs elektronische weg via SBR, te beginnen met de bescheiden die zien op het boekjaar ingaande op of na 1 januari 2016.
+1. Een rechtspersoon waarop [artikel 395a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a), of [396, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) van toepassing is, deponeert de bescheiden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=3&z=2023-01-01&g=2023-01-01), langs elektronische weg via SBR, te beginnen met de bescheiden die zien op het boekjaar ingaande op of na 1 januari 2016.
 
-2. Een rechtspersoon waarop [artikel 397, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397) van toepassing is, deponeert de bescheiden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=3&z=2016-12-13&g=2016-12-13), langs elektronische weg via SBR, te beginnen met de bescheiden die zien op het boekjaar ingaande op of na 1 januari 2017.
+2. Een rechtspersoon waarop [artikel 397, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397) van toepassing is, deponeert de bescheiden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=3&z=2023-01-01&g=2023-01-01), langs elektronische weg via SBR, te beginnen met de bescheiden die zien op het boekjaar ingaande op of na 1 januari 2017.
 
 ##### Artikel 3
 
@@ -68,13 +68,13 @@ Dit besluit is van toepassing op de bescheiden die op grond van [artikel 394 van
 
 ##### Artikel 4
 
-[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=2&z=2016-12-13&g=2016-12-13) is niet van toepassing op:
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=2&z=2023-01-01&g=2023-01-01) is niet van toepassing op:
 
 - a. een rechtspersoon die onder de reikwijdte van [paragraaf 4.3.4 van het Handelsregisterbesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&sub-paragraaf=4.3.4) valt;
 
 - b. een uitgevende instelling;
 
-- c. een rechtspersoon als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=2&z=2016-12-13&g=2016-12-13), die in een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) verbonden is, indien het hoofd van deze groep:
+- c. een rechtspersoon als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=2&z=2023-01-01&g=2023-01-01), die in een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) verbonden is, indien het hoofd van deze groep:
 
 - 1°. een rechtspersoon is die geen rechtspersoon is als bedoeld in de [artikelen 395a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a), [396, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396), of [397, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=397), of
 
@@ -84,9 +84,7 @@ Dit besluit is van toepassing op de bescheiden die op grond van [artikel 394 van
 
 ##### Artikel 5
 
-1. De Kamer van Koophandel stelt een online service zelf deponeren jaarrekening beschikbaar aan rechtspersonen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=2&z=2016-12-13&g=2016-12-13), die het mogelijk maakt de bescheiden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=3&z=2016-12-13&g=2016-12-13), langs elektronische weg via SBR bij het handelsregister te deponeren.
-
-2. De Kamer van Koophandel stelt een online service opstellen jaarrekening beschikbaar aan rechtspersonen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=2&z=2016-12-13&g=2016-12-13), die gebruikt kan worden voor het opstellen van de bescheiden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=3&z=2016-12-13&g=2016-12-13), met uitzondering van de accountantsverklaring, bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), voor verdere verwerking via SBR.
+De Kamer van Koophandel stelt een online service zelf deponeren jaarrekening beschikbaar aan rechtspersonen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=2&z=2023-01-01&g=2023-01-01), die het mogelijk maakt de bescheiden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037858&artikel=3&z=2023-01-01&g=2023-01-01), langs elektronische weg via SBR bij het handelsregister te deponeren.
 
 ##### Artikel 6
 
