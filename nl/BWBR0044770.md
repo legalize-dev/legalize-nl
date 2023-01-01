@@ -4,7 +4,7 @@ identifier: "BWBR0044770"
 country: "nl"
 rank: "wet"
 publication_date: "2025-10-21"
-last_updated: "2022-12-28"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044770"
 soort: "wet"
@@ -71,6 +71,22 @@ Onze Minister zendt binnen vijf jaar na inwerkingtreding van deze wet, en vervol
 
 2. De [artikelen 18b, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18b), [64, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=64), en [67, eerste lid, onderdeel h, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=67), [artikel 7.3.1, vierde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), de [artikelen 16, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), en [18, eerste lid, onderdeel i, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18), de [artikelen 45, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=45), en [48, eerste lid, onderdeel h, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=48), de [artikelen 45, eerste lid, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=45), en [48, eerste lid, onderdeel h, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=48), [artikel 1, begripsbepaling «onderwijsdeelnemer», onderdeel c, onder 2°, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=1), [artikel 54, derde lid, onderdeel m, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=54) en artikel 2 van [bijlage 3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3), zoals die artikelen luidden op de dag voorafgaand aan de inwerkingtreding van deze wet, blijven van toepassing op de personen, bedoeld in het eerste lid.
 
+3. Een vrijstelling op grond van het bepaalde bij of krachtens [artikel 5, eerste lid, onderdeel e, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5), wordt beschouwd als een vrijstelling als bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=2&artikel=4&z=2023-01-01&g=2023-01-01), van deze wet.
+
+4. Bij of krachtens algemene maatregel van bestuur kunnen, in afwijking van de bij of krachtens algemene maatregel van bestuur op grond van de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=6), [8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=8), en [16, vijfde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) gestelde regels, ter begunstiging regels worden gesteld:
+
+- a. omtrent de voorwaarden waaronder en de termijn waarbinnen een ontheffing kan worden afgegeven;
+
+- b. omtrent de voorwaarden waaronder de termijnen op grond van de [artikelen 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7a), en [7b, derde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7b) kunnen worden verlengd;
+
+- c. waarmee de verplichting om de lening terug te betalen wanneer sprake is van overschrijding van de termijnen, genoemd in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7a) en [7b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7b), wordt beperkt of tenietgedaan, en omtrent het vaststellen van de draagkracht ten behoeve van de terugbetaling van de lening.
+
+5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het aanbieden van begeleiding aan de inburgeringsplichtige op wie de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) van toepassing is ter bespoediging van de afronding van de inburgeringsplicht, bedoeld in die wet.
+
+6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot een goede uitvoering van het eerste lid.
+
+7. [Artikel 32, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=32&z=2023-01-01&g=2023-01-01), en de daarop berustende bepalingen, zijn van overeenkomstige toepassing op het keurmerk, bedoeld in [artikel 12a van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=12a).
+
 ##### Artikel 55. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
@@ -89,7 +105,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **brede intake:** brede intake, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2022-12-28&g=2022-12-28);
+- **brede intake:** brede intake, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2023-01-01&g=2023-01-01);
 
 - **college:** college van burgemeester en wethouders van de gemeente waar de inburgeringsplichtige woonplaats heeft als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=10), en [11 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=11), met dien verstande dat als de inburgeringsplichtige rechtmatig verblijf heeft op grond van een verblijfsvergunning asiel voor bepaalde tijd, het gaat om de gemeente waar hij op grond van [artikel 28 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=28) gehuisvest is;
 
@@ -97,29 +113,31 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 - **geestelijke bedienaar:** persoon die een geestelijk, godsdienstig of levensbeschouwelijk ambt bekleedt, werkzaamheden verricht als geestelijk voorganger, godsdienstleraar of zendeling, of voor een kerkgenootschap of ander genootschap op geestelijke of levensbeschouwelijke grondslag werkzaamheden van overwegend godsdienstige, geestelijke of levensbeschouwelijke aard verricht;
 
-- **inburgeringsexamen:** examen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2022-12-28&g=2022-12-28);
+- **inburgeringsexamen:** examen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2023-01-01&g=2023-01-01);
 
-- **inburgeringsplicht:** inburgeringsplicht, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2022-12-28&g=2022-12-28);
+- **inburgeringsplicht:** inburgeringsplicht, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2023-01-01&g=2023-01-01);
 
-- **inburgeringsplichtige:** persoon die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=2&artikel=3&z=2022-12-28&g=2022-12-28) inburgeringsplichtig is;
+- **inburgeringsplichtige:** persoon die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=2&artikel=3&z=2023-01-01&g=2023-01-01) inburgeringsplichtig is;
 
-- **leerroute:** route, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2022-12-28&g=2022-12-28), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2022-12-28&g=2022-12-28) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=9&z=2022-12-28&g=2022-12-28);
+- **leerroute:** route, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2023-01-01&g=2023-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2023-01-01&g=2023-01-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=9&z=2023-01-01&g=2023-01-01);
 
-- **module Arbeidsmarkt en Participatie:** module, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2022-12-28&g=2022-12-28);
+- **module Arbeidsmarkt en Participatie:** module, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2023-01-01&g=2023-01-01);
 
-- **onderwijsroute:** route, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2022-12-28&g=2022-12-28);
+- **onderwijsroute:** route, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2023-01-01&g=2023-01-01);
 
 - **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- **participatieverklaringstraject:** participatieverklaringstraject, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2022-12-28&g=2022-12-28);
+- **participatieverklaringstraject:** participatieverklaringstraject, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2023-01-01&g=2023-01-01);
 
-- **taalschakeltraject:** taalschakeltraject, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2022-12-28&g=2022-12-28);
+- **taalschakeltraject:** taalschakeltraject, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2023-01-01&g=2023-01-01);
 
 - **verblijfsvergunning asiel voor bepaalde tijd:** verblijfsvergunning, bedoeld in [artikel 28, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28);
 
 - **verblijfsvergunning regulier voor bepaalde tijd:** verblijfsvergunning, bedoeld in [artikel 14, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14);
 
-- **zelfredzaamheidsroute:** traject, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=9&z=2022-12-28&g=2022-12-28).
+- **Wet inburgering:** de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611), zoals die wet luidde de dag voorafgaand aan de inwerkingtreding van deze wet;
+
+- **zelfredzaamheidsroute:** traject, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=9&z=2023-01-01&g=2023-01-01).
 
 2. Bij ministeriële regeling kan de geestelijke bedienaar, bedoeld in het eerste lid, nader worden omschreven.
 
@@ -157,11 +175,11 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 
 - a. ten minste acht jaar leerplichtig of kwalificatieplichtig is geweest op grond van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628);
 
-- b. beschikt over een bij ministeriële regeling aangewezen diploma, certificaat of ander document waaruit blijkt dat diegene beschikt over de vaardigheden en kennis, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2022-12-28&g=2022-12-28);
+- b. beschikt over een bij ministeriële regeling aangewezen diploma, certificaat of ander document waaruit blijkt dat diegene beschikt over de vaardigheden en kennis, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2023-01-01&g=2023-01-01);
 
 - c. leerplichtig of kwalificatieplichtig is op grond van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628);
 
-- d. een opleiding volgt waarvan de afronding leidt tot uitreiking van een bij ministeriële regeling aangewezen diploma, certificaat of ander document waaruit blijkt dat diegene beschikt over de vaardigheden en kennis, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2022-12-28&g=2022-12-28); of
+- d. een opleiding volgt waarvan de afronding leidt tot uitreiking van een bij ministeriële regeling aangewezen diploma, certificaat of ander document waaruit blijkt dat diegene beschikt over de vaardigheden en kennis, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2023-01-01&g=2023-01-01); of
 
 - e. heeft aangetoond al voldoende te zijn ingeburgerd.
 
@@ -245,7 +263,7 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 
 ##### Artikel 9. De zelfredzaamheidsroute
 
-1. De inburgeringsplichtige die naar het oordeel van het college redelijkerwijs niet in staat is het inburgeringsexamen of het taalschakeltraject te behalen binnen de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2022-12-28&g=2022-12-28), volgt een intensief traject dat aansluit bij de persoonlijke capaciteiten van de inburgeringsplichtige, gericht op het verwerven van mondelinge en schriftelijke vaardigheden in de Nederlandse taal, zelfredzaamheid, activering en participatie in de Nederlandse maatschappij.
+1. De inburgeringsplichtige die naar het oordeel van het college redelijkerwijs niet in staat is het inburgeringsexamen of het taalschakeltraject te behalen binnen de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2023-01-01&g=2023-01-01), volgt een intensief traject dat aansluit bij de persoonlijke capaciteiten van de inburgeringsplichtige, gericht op het verwerven van mondelinge en schriftelijke vaardigheden in de Nederlandse taal, zelfredzaamheid, activering en participatie in de Nederlandse maatschappij.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inhoud en vormgeving van het traject.
 
@@ -259,7 +277,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 1. De inburgeringsplichtige voldoet binnen drie jaar aan de inburgeringsplicht.
 
-2. De termijn vangt aan op de dag na die van dagtekening van het persoonlijk plan inburgering en participatie, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28).
+2. De termijn vangt aan op de dag na die van dagtekening van het persoonlijk plan inburgering en participatie, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01).
 
 3. Het moment van aanvang wijzigt niet, indien het persoonlijk plan inburgering en participatie:
 
@@ -269,11 +287,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 ##### Artikel 12. Verlenging van de termijn
 
-1. Onze Minister verlengt telkens de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2022-12-28&g=2022-12-28), als de inburgeringsplichtige aannemelijk maakt dat:
+1. Onze Minister verlengt telkens de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2023-01-01&g=2023-01-01), als de inburgeringsplichtige aannemelijk maakt dat:
 
 - a. het overschrijden van die termijn hem niet te verwijten valt; of
 
-- b. na aanzienlijke inspanningen van de inburgeringsplichtige, verlenging leidt tot het voldoen aan de inburgeringsplicht conform de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28) vastgestelde leerroute.
+- b. na aanzienlijke inspanningen van de inburgeringsplichtige, verlenging leidt tot het voldoen aan de inburgeringsplicht conform de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01) vastgestelde leerroute.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over:
 
@@ -315,7 +333,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 3. De brede intake is een onderzoek naar de mogelijkheden die de inburgeringsplichtige heeft om aan de inburgeringsplicht te voldoen. De brede intake bestaat in ieder geval uit:
 
-- a. een leerbaarheidstoets, waarmee inzicht wordt gegeven in het te behalen niveau van de Nederlandse taal van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde talen binnen de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2022-12-28&g=2022-12-28);
+- a. een leerbaarheidstoets, waarmee inzicht wordt gegeven in het te behalen niveau van de Nederlandse taal van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde talen binnen de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2023-01-01&g=2023-01-01);
 
 - b. een onderzoek omtrent gevolgd onderwijs en werkervaring in het land van herkomst;
 
@@ -325,7 +343,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de inhoud en verslaglegging van de brede intake.
 
-5. De leerbaarheidstoets wordt afgenomen door een of meer bij ministeriële regeling aangewezen instanties, waaronder mede kan worden verstaan het college. Indien een andere instantie dan het college wordt aangewezen, adviseren deze instantie of instanties het college over de vaststelling, bedoeld in [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28).
+5. De leerbaarheidstoets wordt afgenomen door een of meer bij ministeriële regeling aangewezen instanties, waaronder mede kan worden verstaan het college. Indien een andere instantie dan het college wordt aangewezen, adviseren deze instantie of instanties het college over de vaststelling, bedoeld in [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01).
 
 6. Het college verleent de inburgeringsplichtige ontheffing van het afleggen van de leerbaarheidstoets, bedoeld in het derde lid, onderdeel a, indien de inburgeringsplichtige:
 
@@ -347,11 +365,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 - d. voor zover van toepassing, welke afspraken er zijn gemaakt met de inburgeringsplichtige over het deelnemen van diens kind aan de voorschoolse educatie, bedoeld in [artikel 1.1 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1), of de vroegschoolse educatie, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1).
 
-2. Het college stelt voor een inburgeringsplichtige als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=13&z=2022-12-28&g=2022-12-28), de intensiteit van de leerroute vast.
+2. Het college stelt voor een inburgeringsplichtige als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=13&z=2023-01-01&g=2023-01-01), de intensiteit van de leerroute vast.
 
 3. Voor zover van toepassing voegt het college bij de beschikking, bedoeld in het eerste lid en tweede lid, beschikkingen op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) waarin rechten zijn toegekend of plichten zijn opgelegd met het oog op de bevordering van participatie en waarin de verplichting, bedoeld in [artikel 56a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=56a), is vastgesteld, wat tezamen het persoonlijk plan inburgering en participatie vormt.
 
-4. Als de inburgeringsplichtige, voor wie de leerroute is vastgesteld, zijn woonplaats verplaatst naar een andere gemeente, stelt het college van de andere gemeente in afwijking van [artikel 14, derde lid, tweede zin, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2022-12-28&g=2022-12-28) de leerroute vast conform de eerder vastgestelde leerroute.
+4. Als de inburgeringsplichtige, voor wie de leerroute is vastgesteld, zijn woonplaats verplaatst naar een andere gemeente, stelt het college van de andere gemeente in afwijking van [artikel 14, derde lid, tweede zin, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2023-01-01&g=2023-01-01) de leerroute vast conform de eerder vastgestelde leerroute.
 
 5. Bij of krachtens algemene maatregel van bestuur wordt bepaald binnen welke termijn het persoonlijk plan inburgering en participatie wordt opgesteld.
 
@@ -359,41 +377,41 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 ##### Artikel 16. Het inburgeringsaanbod voor asielstatushouders
 
-1. Het college biedt de inburgeringsplichtige als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=13&z=2022-12-28&g=2022-12-28), tijdig een cursus of opleiding aan waarmee die inburgeringsplichtige aan de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28) vastgestelde leerroute kan voldoen.
+1. Het college biedt de inburgeringsplichtige als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=13&z=2023-01-01&g=2023-01-01), tijdig een cursus of opleiding aan waarmee die inburgeringsplichtige aan de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01) vastgestelde leerroute kan voldoen.
 
 2. Het college waarborgt een goede verhouding tussen de prijs voor de levering van en de eisen die worden gesteld aan de kwaliteit van het aanbod, bedoeld in het eerste lid. Het college draagt zorg voor de continuïteit van het aanbod.
 
-3. De cursusinstelling die de cursus, bedoeld in het eerste lid, gericht op het behalen van het inburgeringsexamen of de zelfredzaamheidsroute aanbiedt, is in het bezit van een certificaat als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=28&z=2022-12-28&g=2022-12-28), of een keurmerk als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=32&z=2022-12-28&g=2022-12-28), onverminderd het bepaalde in [artikel 2.78a, derde en vierde lid, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.78a).
+3. De cursusinstelling die de cursus, bedoeld in het eerste lid, gericht op het behalen van het inburgeringsexamen of de zelfredzaamheidsroute aanbiedt, is in het bezit van een certificaat als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=28&z=2023-01-01&g=2023-01-01), of een keurmerk als bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=32&z=2023-01-01&g=2023-01-01), onverminderd het bepaalde in [artikel 2.78a, derde en vierde lid, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.78a).
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de eisen in het tweede lid.
 
 ##### Artikel 17. Ondersteuning en begeleiding en wijzigen leerroute
 
-1. De vaststelling van de ondersteuning en begeleiding, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28), is zodanig dat het college voldoende zicht heeft op de voortgang van het voldoen aan de inburgeringsplicht door de inburgeringsplichtige.
+1. De vaststelling van de ondersteuning en begeleiding, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01), is zodanig dat het college voldoende zicht heeft op de voortgang van het voldoen aan de inburgeringsplicht door de inburgeringsplichtige.
 
-2. Wanneer het college van oordeel is dat er sprake is van onvoldoende voortgang of een grotere voortgang dan op grond van het persoonlijke plan inburgering en participatie, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28), was te verwachten, kan het college op een bij algemene maatregel van bestuur te bepalen termijn de door de inburgeringsplichtige te volgen leerroute opnieuw vaststellen.
+2. Wanneer het college van oordeel is dat er sprake is van onvoldoende voortgang of een grotere voortgang dan op grond van het persoonlijke plan inburgering en participatie, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01), was te verwachten, kan het college op een bij algemene maatregel van bestuur te bepalen termijn de door de inburgeringsplichtige te volgen leerroute opnieuw vaststellen.
 
-3. Wanneer, na aanzienlijke inspanningen van de inburgeringsplichtige die de leerroute, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2022-12-28&g=2022-12-28) volgt, uit de relevante feiten en omstandigheden blijkt dat deze inburgeringsplichtige niet in staat is het niveau B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen te behalen binnen de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2022-12-28&g=2022-12-28), de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2022-12-28&g=2022-12-28) verlengde termijn, of de op grond van [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2022-12-28&g=2022-12-28), vastgestelde nieuwe termijn, kan het college bepalen dat de mondelinge en schriftelijke vaardigheden in de Nederlandse taal, in afwijking van artikel 7, eerste lid, onderdeel a, geheel of gedeeltelijk op het niveau A2 worden geëxamineerd.
+3. Wanneer, na aanzienlijke inspanningen van de inburgeringsplichtige die de leerroute, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2023-01-01&g=2023-01-01) volgt, uit de relevante feiten en omstandigheden blijkt dat deze inburgeringsplichtige niet in staat is het niveau B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen te behalen binnen de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2023-01-01&g=2023-01-01), de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2023-01-01&g=2023-01-01) verlengde termijn, of de op grond van [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2023-01-01&g=2023-01-01), vastgestelde nieuwe termijn, kan het college bepalen dat de mondelinge en schriftelijke vaardigheden in de Nederlandse taal, in afwijking van artikel 7, eerste lid, onderdeel a, geheel of gedeeltelijk op het niveau A2 worden geëxamineerd.
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het derde lid waarbij in ieder geval regels worden gesteld over de aanzienlijke inspanningen.
 
 ##### Artikel 18. Gemeentelijke samenwerking
 
-Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=9&artikel=39&z=2022-12-28&g=2022-12-28) en [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&z=2022-12-28&g=2022-12-28), in de plaats van de betrokken colleges.
+Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=9&artikel=39&z=2023-01-01&g=2023-01-01) en [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&z=2023-01-01&g=2023-01-01), in de plaats van de betrokken colleges.
 
 ### Hoofdstuk 6. Sociale lening
 
 ##### Artikel 19. De doelgroep
 
-Dit hoofdstuk is van toepassing op de inburgeringsplichtige die verblijf heeft op grond van een verblijfsvergunning regulier voor bepaalde tijd, met uitzondering van een inburgeringsplichtige als bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=13&z=2022-12-28&g=2022-12-28).
+Dit hoofdstuk is van toepassing op de inburgeringsplichtige die verblijf heeft op grond van een verblijfsvergunning regulier voor bepaalde tijd, met uitzondering van een inburgeringsplichtige als bedoeld in [artikel 13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=13&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 20. Het recht op de lening
 
-1. Onze Minister verstrekt op aanvraag aan de inburgeringsplichtige die voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde voorwaarden een lening voor de kosten van de cursus, de opleiding of het examen waarmee de inburgeringsplichtige aan de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28) vastgestelde leerroute kan voldoen.
+1. Onze Minister verstrekt op aanvraag aan de inburgeringsplichtige die voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde voorwaarden een lening voor de kosten van de cursus, de opleiding of het examen waarmee de inburgeringsplichtige aan de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01) vastgestelde leerroute kan voldoen.
 
 2. Aanspraak op een lening bestaat niet of niet langer voor:
 
-- a. de inburgeringsplichtige die niet aan de inburgeringsplicht heeft voldaan binnen zes jaar na het verstrijken van de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2022-12-28&g=2022-12-28), bedoelde termijn, of de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2022-12-28&g=2022-12-28) verlengde termijn;
+- a. de inburgeringsplichtige die niet aan de inburgeringsplicht heeft voldaan binnen zes jaar na het verstrijken van de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2023-01-01&g=2023-01-01), bedoelde termijn, of de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2023-01-01&g=2023-01-01) verlengde termijn;
 
 - b. de persoon die niet langer inburgeringsplichtig is.
 
@@ -407,7 +425,7 @@ Dit hoofdstuk is van toepassing op de inburgeringsplichtige die verblijf heeft o
 
 ##### Artikel 21. Terugbetaling van de lening
 
-1. De inburgeringsplichtige, de voormalige inburgeringsplichtige of de persoon, bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=20&z=2022-12-28&g=2022-12-28), betaalt de lening vermeerderd met een volgens bij of krachtens algemene maatregel van bestuur te stellen regels berekende rente terug.
+1. De inburgeringsplichtige, de voormalige inburgeringsplichtige of de persoon, bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=20&z=2023-01-01&g=2023-01-01), betaalt de lening vermeerderd met een volgens bij of krachtens algemene maatregel van bestuur te stellen regels berekende rente terug.
 
 2. Onze Minister stelt een termijnbedrag vast dat de debiteur in maandelijkse termijnen moet terugbetalen. Het termijnbedrag kan worden vastgesteld aan de hand van de hoogte van het overeenkomstig [artikel 8, eerste, tweede, derde en vijfde lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8) te berekenen toetsingsinkomen van de inburgeringsplichtige en diens partner als bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3).
 
@@ -415,7 +433,7 @@ Dit hoofdstuk is van toepassing op de inburgeringsplichtige die verblijf heeft o
 
 - a. het voldoen aan de inburgeringsplicht; of
 
-- b. het vervallen van de aanspraak op een lening, op grond van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=20&z=2022-12-28&g=2022-12-28).
+- b. het vervallen van de aanspraak op een lening, op grond van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=20&z=2023-01-01&g=2023-01-01).
 
 4. Onze Minister kan het terug te betalen bedrag invorderen bij dwangbevel.
 
@@ -425,7 +443,7 @@ Dit hoofdstuk is van toepassing op de inburgeringsplichtige die verblijf heeft o
 
 ##### Artikel 22. Boete niet verschijnen brede intake en meewerkplicht
 
-1. Het college legt een bestuurlijke boete op aan de inburgeringsplichtige als deze niet is verschenen binnen de in [artikel 14, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2022-12-28&g=2022-12-28), bedoelde termijn of als deze onvoldoende meewerkt aan de brede intake, waaronder het afleggen van de leerbaarheidstoets, bedoeld in artikel 14, derde lid, onderdeel a.
+1. Het college legt een bestuurlijke boete op aan de inburgeringsplichtige als deze niet is verschenen binnen de in [artikel 14, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2023-01-01&g=2023-01-01), bedoelde termijn of als deze onvoldoende meewerkt aan de brede intake, waaronder het afleggen van de leerbaarheidstoets, bedoeld in artikel 14, derde lid, onderdeel a.
 
 2. Het college stelt in de boetebeschikking een nieuwe termijn van ten hoogste twee maanden waarbinnen de inburgeringsplichtige na het bekendmaken van de boetebeschikking alsnog geacht wordt te verschijnen of medewerking te verlenen.
 
@@ -433,39 +451,39 @@ Dit hoofdstuk is van toepassing op de inburgeringsplichtige die verblijf heeft o
 
 ##### Artikel 23. Boete tijdens het inburgeringstraject
 
-1. Het college legt een boete op aan de inburgeringsplichtige als die niet of onvoldoende meewerkt aan de geboden ondersteuning en begeleiding, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28), of niet voldoet aan hetgeen op grond van de vastgestelde intensiteit van het participatieverklaringstraject en de module Arbeidsmarkt en Participatie, bedoeld in artikel 15, eerste lid, onderdeel c, of de vastgestelde intensiteit van de leerroute, bedoeld in artikel 15, tweede lid, van hem verwacht wordt.
+1. Het college legt een boete op aan de inburgeringsplichtige als die niet of onvoldoende meewerkt aan de geboden ondersteuning en begeleiding, bedoeld in [artikel 15, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01), of niet voldoet aan hetgeen op grond van de vastgestelde intensiteit van het participatieverklaringstraject en de module Arbeidsmarkt en Participatie, bedoeld in artikel 15, eerste lid, onderdeel c, of de vastgestelde intensiteit van de leerroute, bedoeld in artikel 15, tweede lid, van hem verwacht wordt.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de omstandigheden waaronder en de frequentie waarmee een boete als bedoeld in het eerste lid wordt opgelegd.
 
 ##### Artikel 24. Boete participatieverklaringstraject en module Arbeidsmarkt en Participatie
 
-1. Onze Minister legt een bestuurlijke boete op aan de inburgeringsplichtige die het participatieverklaringstraject of de module Arbeidsmarkt en Participatie niet heeft afgerond binnen de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2022-12-28&g=2022-12-28), bedoelde termijn, of de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2022-12-28&g=2022-12-28) verlengde termijn.
+1. Onze Minister legt een bestuurlijke boete op aan de inburgeringsplichtige die het participatieverklaringstraject of de module Arbeidsmarkt en Participatie niet heeft afgerond binnen de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2023-01-01&g=2023-01-01), bedoelde termijn, of de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2023-01-01&g=2023-01-01) verlengde termijn.
 
-2. Onze Minister stelt in de boetebeschikking een nieuwe termijn van ten hoogste twee jaar waarbinnen de inburgeringsplichtige na het bekendmaken van de boetebeschikking alsnog het participatieverklaringstraject of de module Arbeidsmarkt en Participatie afrondt. [Artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2022-12-28&g=2022-12-28), is van overeenkomstige toepassing ten aanzien van de nieuwe termijn. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de nieuwe termijn.
+2. Onze Minister stelt in de boetebeschikking een nieuwe termijn van ten hoogste twee jaar waarbinnen de inburgeringsplichtige na het bekendmaken van de boetebeschikking alsnog het participatieverklaringstraject of de module Arbeidsmarkt en Participatie afrondt. [Artikel 12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing ten aanzien van de nieuwe termijn. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de nieuwe termijn.
 
-3. Onze Minister legt de inburgeringsplichtige die niet binnen de op grond van het tweede lid vastgestelde termijn, of de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2022-12-28&g=2022-12-28) verlengde termijn, het participatieverklaringstraject of de module Arbeidsmarkt en Participatie heeft afgerond een bestuurlijke boete op. Het tweede lid is van overeenkomstige toepassing.
+3. Onze Minister legt de inburgeringsplichtige die niet binnen de op grond van het tweede lid vastgestelde termijn, of de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2023-01-01&g=2023-01-01) verlengde termijn, het participatieverklaringstraject of de module Arbeidsmarkt en Participatie heeft afgerond een bestuurlijke boete op. Het tweede lid is van overeenkomstige toepassing.
 
 4. Zolang de inburgeringsplichtige na het verstrijken van de op grond van het derde lid gestelde termijn het participatieverklaringstraject of de module Arbeidsmarkt en Participatie niet afrondt, legt Onze Minister iedere twee jaar een bestuurlijke boete op.
 
 ##### Artikel 25. Boete leerroute
 
-1. Onze Minister legt een bestuurlijke boete op aan de inburgeringsplichtige die de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28) vastgestelde leerroute niet heeft behaald binnen de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2022-12-28&g=2022-12-28), bedoelde termijn, of de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2022-12-28&g=2022-12-28) verlengde termijn.
+1. Onze Minister legt een bestuurlijke boete op aan de inburgeringsplichtige die de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01) vastgestelde leerroute niet heeft behaald binnen de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2023-01-01&g=2023-01-01), bedoelde termijn, of de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2023-01-01&g=2023-01-01) verlengde termijn.
 
-2. [Artikel 24, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=24&z=2022-12-28&g=2022-12-28), is van overeenkomstige toepassing.
+2. [Artikel 24, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=24&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing.
 
 3. In afwijking van het eerste lid, legt Onze Minister geen boete op als bij of krachtens [artikel 18 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18) de aanvraag tot het verlengen van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd wordt afgewezen of bij of krachtens [artikel 19 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) de verblijfsvergunning voor bepaalde tijd wordt ingetrokken.
 
 ##### Artikel 26. Hoogte boete
 
-1. De bestuurlijke boetes, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=22&z=2022-12-28&g=2022-12-28), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=23&z=2022-12-28&g=2022-12-28), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=24&z=2022-12-28&g=2022-12-28) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2022-12-28&g=2022-12-28), zijn niet hoger dan:
+1. De bestuurlijke boetes, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=22&z=2023-01-01&g=2023-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=23&z=2023-01-01&g=2023-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=24&z=2023-01-01&g=2023-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2023-01-01&g=2023-01-01), zijn niet hoger dan:
 
-- a. € 250 voor de boetes, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=22&z=2022-12-28&g=2022-12-28);
+- a. € 250 voor de boetes, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=22&z=2023-01-01&g=2023-01-01);
 
-- b. € 340 voor de boete, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=24&z=2022-12-28&g=2022-12-28);
+- b. € 340 voor de boete, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=24&z=2023-01-01&g=2023-01-01);
 
-- c. € 800 voor de boetes, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=23&z=2022-12-28&g=2022-12-28);
+- c. € 800 voor de boetes, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=23&z=2023-01-01&g=2023-01-01);
 
-- d. € 1 000 voor de boete, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2022-12-28&g=2022-12-28).
+- d. € 1 000 voor de boete, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2023-01-01&g=2023-01-01).
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boetes en de omstandigheden waaronder deze worden opgelegd. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
@@ -479,7 +497,7 @@ Het opleggen van een bestuurlijke boete blijft achterwege als voor dezelfde gedr
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de afgifte van een certificaat aan een rechtspersoon of een natuurlijk persoon die in het kader van de uitoefening van beroep of bedrijf werkzaamheden verricht gericht op het toeleiden van inburgeringsplichtigen naar het inburgeringsexamen of de zelfredzaamheidsroute.
 
-2. Onze Minister of een door Onze Minister op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2022-12-28&g=2022-12-28) aangewezen instelling beslist op aanvraag over de afgifte van het certificaat en is bevoegd een afgegeven certificaat in te trekken.
+2. Onze Minister of een door Onze Minister op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2023-01-01&g=2023-01-01) aangewezen instelling beslist op aanvraag over de afgifte van het certificaat en is bevoegd een afgegeven certificaat in te trekken.
 
 3. Een certificaat wordt afgegeven voor een beperkte tijdsduur. Aan een certificaat kunnen voorschriften worden verbonden.
 
@@ -493,7 +511,7 @@ Het opleggen van een bestuurlijke boete blijft achterwege als voor dezelfde gedr
 
 ##### Artikel 29. Aanwijzen instelling
 
-1. Onze Minister kan op aanvraag een instelling aanwijzen die de bevoegdheden, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=28&z=2022-12-28&g=2022-12-28), uitoefent.
+1. Onze Minister kan op aanvraag een instelling aanwijzen die de bevoegdheden, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=28&z=2023-01-01&g=2023-01-01), uitoefent.
 
 2. Aan een aanwijzing krachtens het eerste lid kunnen voorschriften worden verbonden.
 
@@ -509,23 +527,31 @@ Het opleggen van een bestuurlijke boete blijft achterwege als voor dezelfde gedr
 
 ##### Artikel 30. Aanwijzing aan instelling
 
-1. Onze Minister kan de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2022-12-28&g=2022-12-28) aangewezen instelling aanwijzingen geven over de uitoefening van haar taken. Onze Minister treedt daarbij niet in individuele gevallen.
+1. Onze Minister kan de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2023-01-01&g=2023-01-01) aangewezen instelling aanwijzingen geven over de uitoefening van haar taken. Onze Minister treedt daarbij niet in individuele gevallen.
 
-2. De krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2022-12-28&g=2022-12-28) aangewezen instelling is gehouden overeenkomstig de aanwijzing te handelen.
+2. De krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2023-01-01&g=2023-01-01) aangewezen instelling is gehouden overeenkomstig de aanwijzing te handelen.
 
 ##### Artikel 31. Noodzakelijk voorzieningen treffen
 
-1. Als de op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2022-12-28&g=2022-12-28) aangewezen instelling zijn taak naar het oordeel van Onze Minister ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen.
+1. Als de op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2023-01-01&g=2023-01-01) aangewezen instelling zijn taak naar het oordeel van Onze Minister ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen.
 
-2. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2022-12-28&g=2022-12-28) aangewezen instelling in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog haar taak naar behoren uit te voeren.
+2. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2023-01-01&g=2023-01-01) aangewezen instelling in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog haar taak naar behoren uit te voeren.
 
 3. Onze Minister stelt beide kamers der Staten-Generaal onverwijld in kennis van de door hem getrokken voorzieningen.
 
 ##### Artikel 32. Keurmerk
 
-1. Zolang op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2022-12-28&g=2022-12-28) geen regels zijn gesteld over de afgifte van een certificaat verleent Onze Minister, of een door Onze Minister aangewezen instelling, een keurmerk als bedoeld in [artikel 2.78a van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.78a) aan cursusinstellingen.
+1. Zolang op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=29&z=2023-01-01&g=2023-01-01) geen regels zijn gesteld over de afgifte van een certificaat verleent Onze Minister, of een door Onze Minister aangewezen instelling, een keurmerk als bedoeld in [artikel 2.78a van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.78a) aan cursusinstellingen.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de aanwijzing van een instelling, de verlening van een keurmerk aan cursusinstellingen en de invulling van de eisen van het keurmerk, bedoeld in [artikel 2.78a, eerste lid onder b, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.78a).
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over:
+
+- a. de aanwijzing van een instelling;
+
+- b. de verlening van een keurmerk aan cursusinstellingen;
+
+- c. de invulling van de eisen van het keurmerk, bedoeld in [artikel 2.78a, eerste lid, onderdeel b, van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.78a);
+
+- d. de vergoeding die is verschuldigd in verband met de afgifte en het beheer van het keurmerk, en het toezien of wordt voldaan aan de eisen van het keurmerk.
 
 ### Hoofdstuk 9. Informatiebepalingen
 
@@ -539,7 +565,7 @@ Onze Minister verstrekt, uit eigen beweging of op verzoek, aan:
 
 - c. Onze Minister van Onderwijs, Cultuur en Wetenschap de diplomagegevens, bedoeld in [artikel 12, vierde lid van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=12), ten behoeve van het register onderwijsdeelnemers, bedoeld in [artikel 4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=4);
 
-- d. de instantie die belast is met de voorbereiding op de inburgering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=10&z=2022-12-28&g=2022-12-28), de gegevens die noodzakelijk zijn voor de uitvoering van die taak;
+- d. de instantie die belast is met de voorbereiding op de inburgering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=10&z=2023-01-01&g=2023-01-01), de gegevens die noodzakelijk zijn voor de uitvoering van die taak;
 
 - e. cursusinstellingen de gegevens die noodzakelijk zijn voor het zicht op de voortgang van de inburgeringsplicht;
 
@@ -549,9 +575,9 @@ Onze Minister verstrekt, uit eigen beweging of op verzoek, aan:
 
 1. Het college verstrekt, uit eigen beweging of op verzoek, aan Onze Minister de gegevens die noodzakelijk zijn voor de uitvoering van de taken die Onze Minister op grond van deze wet heeft ten aanzien van de vaststelling van de inburgeringsplicht, de examinering, het verlengen van de termijn, het verstrekken van leningen en de handhaving in het kader van de inburgeringsplicht.
 
-2. De rijksbelastingdienst verstrekt op verzoek aan Onze Minister de inkomensgegevens die noodzakelijk zijn voor de uitvoering van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=20&z=2022-12-28&g=2022-12-28) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=21&z=2022-12-28&g=2022-12-28).
+2. De rijksbelastingdienst verstrekt op verzoek aan Onze Minister de inkomensgegevens die noodzakelijk zijn voor de uitvoering van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=20&z=2023-01-01&g=2023-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=21&z=2023-01-01&g=2023-01-01).
 
-3. Cursusinstellingen verstrekken, uit eigen beweging of op verzoek, aan Onze Minister de gegevens die noodzakelijk zijn voor de handhaving van de inburgeringsplicht en de verlenging van de inburgeringstermijn, en de aangewezen cursusinstelling, bedoeld in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=20&z=2022-12-28&g=2022-12-28), verstrekt op verzoek aan Onze Minister, de gegevens die noodzakelijk zijn in verband met de verstrekte lening aan de inburgeringsplichtige.
+3. Cursusinstellingen verstrekken, uit eigen beweging of op verzoek, aan Onze Minister de gegevens die noodzakelijk zijn voor de handhaving van de inburgeringsplicht en de verlenging van de inburgeringstermijn, en de aangewezen cursusinstelling, bedoeld in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=6&artikel=20&z=2023-01-01&g=2023-01-01), verstrekt op verzoek aan Onze Minister, de gegevens die noodzakelijk zijn in verband met de verstrekte lening aan de inburgeringsplichtige.
 
 4. De door Onze Minister aangewezen organisaties die belast zijn met de uitvoering van een internationale diplomawaardering verstrekken, uit eigen beweging of op verzoek, aan Onze Minister de gegevens die noodzakelijk zijn in verband met die diplomawaardering.
 
@@ -561,13 +587,13 @@ Onze Minister verstrekt, uit eigen beweging of op verzoek, aan:
 
 ##### Artikel 35. Gegevensverstrekking door en aan het college
 
-1. De instantie, bedoeld in [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2022-12-28&g=2022-12-28), verstrekt de uitkomsten van de leerbaarheidstoets aan het college voor het afnemen van de brede intake en de uitvoering van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=22&z=2022-12-28&g=2022-12-28).
+1. De instantie, bedoeld in [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2023-01-01&g=2023-01-01), verstrekt de uitkomsten van de leerbaarheidstoets aan het college voor het afnemen van de brede intake en de uitvoering van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=22&z=2023-01-01&g=2023-01-01).
 
-2. De instantie die belast is met de voorbereiding op de inburgering, bedoeld in [artikel 10, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=10&z=2022-12-28&g=2022-12-28), verstrekt aan het college de gegevens die zij voor de uitvoering van die taak hebben verkregen, voor het afnemen van de brede intake.
+2. De instantie die belast is met de voorbereiding op de inburgering, bedoeld in [artikel 10, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=10&z=2023-01-01&g=2023-01-01), verstrekt aan het college de gegevens die zij voor de uitvoering van die taak hebben verkregen, voor het afnemen van de brede intake.
 
-3. Het college verstrekt de gegevens aan cursusinstellingen en de instelling, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2022-12-28&g=2022-12-28), die noodzakelijk zijn voor de uitvoering van hun taak, en cursusinstellingen of de instelling, bedoeld in artikel 8, tweede lid, verstrekken de gegevens over de door de inburgeringsplichtige geleverde inspanningen aan het college voor de uitvoering van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=17&z=2022-12-28&g=2022-12-28) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=23&z=2022-12-28&g=2022-12-28).
+3. Het college verstrekt de gegevens aan cursusinstellingen en de instelling, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2023-01-01&g=2023-01-01), die noodzakelijk zijn voor de uitvoering van hun taak, en cursusinstellingen of de instelling, bedoeld in artikel 8, tweede lid, verstrekken de gegevens over de door de inburgeringsplichtige geleverde inspanningen aan het college voor de uitvoering van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=17&z=2023-01-01&g=2023-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=23&z=2023-01-01&g=2023-01-01).
 
-4. Indien de inburgeringsplichtige zijn woonplaats verplaatst, verstrekt het college het persoonlijk plan inburgering en participatie, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28), evenals gegevens over de voortgang van de inburgeringsplicht en opgelegde boetes, op verzoek aan het college van de andere gemeente, bedoeld in artikel 15, vierde lid.
+4. Indien de inburgeringsplichtige zijn woonplaats verplaatst, verstrekt het college het persoonlijk plan inburgering en participatie, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01), evenals gegevens over de voortgang van de inburgeringsplicht en opgelegde boetes, op verzoek aan het college van de andere gemeente, bedoeld in artikel 15, vierde lid.
 
 5. Het college is bevoegd de gegevens die zij heeft verkregen voor de uitvoering van de taken die bij of krachtens de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) aan het college zijn opgedragen, ook te verwerken voor zover dat noodzakelijk is voor de uitvoering van deze wet.
 
@@ -581,13 +607,13 @@ Onze Minister, het college en een of meer bij of krachtens algemene maatregel va
 
 2. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming, is het verbod om gegevens over gezondheid te verwerken niet van toepassing als de verwerking geschiedt door Onze Minister of het college en voor zover de verwerking noodzakelijk is voor:
 
-- a. de beoordeling van de gehele of gedeeltelijke ontheffing van de inburgeringsplicht, bedoeld in [artikel 5, eerste lid, of het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=2&artikel=5&z=2022-12-28&g=2022-12-28), en de verlenging van de termijn, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2022-12-28&g=2022-12-28); of
+- a. de beoordeling van de gehele of gedeeltelijke ontheffing van de inburgeringsplicht, bedoeld in [artikel 5, eerste lid, of het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=2&artikel=5&z=2023-01-01&g=2023-01-01), en de verlenging van de termijn, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2023-01-01&g=2023-01-01); of
 
-- b. de afname van de brede intake, de vaststelling van het persoonlijk plan inburgering en participatie, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2022-12-28&g=2022-12-28), en de ondersteuning en begeleiding, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=17&z=2022-12-28&g=2022-12-28).
+- b. de afname van de brede intake, de vaststelling van het persoonlijk plan inburgering en participatie, bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2023-01-01&g=2023-01-01), en de ondersteuning en begeleiding, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=17&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 38. Wijze van gegevensuitwisseling
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de gegevens die worden verstrekt op grond van de [artikelen 33 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=9&artikel=33&z=2022-12-28&g=2022-12-28) en de wijze waarop deze gegevensverstrekkingen plaatsvinden, alsmede over de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=9&artikel=36&z=2022-12-28&g=2022-12-28) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=9&artikel=37&z=2022-12-28&g=2022-12-28).
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de gegevens die worden verstrekt op grond van de [artikelen 33 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=9&artikel=33&z=2023-01-01&g=2023-01-01) en de wijze waarop deze gegevensverstrekkingen plaatsvinden, alsmede over de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=9&artikel=36&z=2023-01-01&g=2023-01-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=9&artikel=37&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 39. Gegevens ten behoeve van statistiek, monitoring en evaluatie
 
@@ -615,7 +641,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 ##### Artikel 41. Aanpassing van de uitkering
 
-1. Het totale bedrag, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&artikel=40&z=2022-12-28&g=2022-12-28), voor de uitkering, bedoeld in artikel 40, eerste lid, wordt na afloop van het jaar waarop het bedrag betrekking heeft bij of krachtens de wet bijgesteld op basis van het werkelijke volume van inburgeringsplichtigen in Nederland in het uitvoeringsjaar.
+1. Het totale bedrag, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&artikel=40&z=2023-01-01&g=2023-01-01), voor de uitkering, bedoeld in artikel 40, eerste lid, wordt na afloop van het jaar waarop het bedrag betrekking heeft bij of krachtens de wet bijgesteld op basis van het werkelijke volume van inburgeringsplichtigen in Nederland in het uitvoeringsjaar.
 
 2. De verdeling van de uitkering aan gemeenten wordt tegelijk met de bijstelling van het totale bedrag, bedoeld in het eerste lid, herzien op basis van geactualiseerde gegevens.
 
@@ -627,7 +653,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 1. Het college legt verantwoording af aan Onze Minister over de uitvoering van deze wet, op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&artikel=40&z=2022-12-28&g=2022-12-28), niet volledig is besteed, wordt het niet bestede deel van de uitkering door Onze Minister teruggevorderd. Indien uit het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uit maakt van de informatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet, blijkt dat de besteding van de uitkering fout of onzeker is, wordt de uitkering voor het deel dat de besteding fout of onzeker is, door Onze Minister teruggevorderd. Onze Minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
+2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&artikel=40&z=2023-01-01&g=2023-01-01), niet volledig is besteed, wordt het niet bestede deel van de uitkering door Onze Minister teruggevorderd. Indien uit het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uit maakt van de informatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet, blijkt dat de besteding van de uitkering fout of onzeker is, wordt de uitkering voor het deel dat de besteding fout of onzeker is, door Onze Minister teruggevorderd. Onze Minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
 
 3. Indien de verantwoordingsinformatie, bedoeld in het tweede lid, niet volledig door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen binnen achttien maanden na het kalenderjaar waarop zij betrekking heeft, wordt de uitkering teruggevorderd. Als volledige terugvordering naar het oordeel van Onze Minister leidt tot een onbillijkheid van overwegende aard, stelt Onze Minister de terugvordering op een lager bedrag vast. Onze Minister doet binnen drie maanden na afloop van de achttien maanden mededeling van terugvordering aan het college.
 
