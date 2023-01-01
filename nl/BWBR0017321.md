@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-09-07"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -86,17 +86,17 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 1. De maximum uurprijs bedraagt voor:
 
-- a. dagopvang € 8,50;
+- a. dagopvang € 8,97;
 
-- b. buitenschoolse opvang € 7,31; en
+- b. buitenschoolse opvang € 7,72; en
 
-- c. gastouderopvang € 6,52.
+- c. gastouderopvang € 6,73.
 
 2. Indien de prijs per uur kinderopvang hoger ligt dan de maximum uurprijs wordt bij de bepaling van de hoogte van de kinderopvangtoeslag per kind in plaats van de prijs per uur kinderopvang de maximum uurprijs in aanmerking genomen.
 
 ##### Artikel 5
 
-De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-09-07&g=2022-09-07), wordt jaarlijks aangepast overeenkomstig:
+De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-01-01&g=2023-01-01), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -104,19 +104,19 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 6
 
-Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2022-09-07&g=2022-09-07) opgenomen.
+Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2023-01-01&g=2023-01-01) opgenomen.
 
 ##### Artikel 7
 
-De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-09-07&g=2022-09-07), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
+De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-01-01&g=2023-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
 ##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2022-09-07&g=2022-09-07).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2023-01-01&g=2023-01-01).
 
-3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-09-07&g=2022-09-07), € 127.939, of meer bedraagt, ontvangt de ouder voor de kosten van de kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2022-09-07&g=2022-09-07), een kinderopvangtoeslag waarvan de hoogte 33,3 procent van die kosten betreft.
+3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-01-01&g=2023-01-01), € 127.939, of meer bedraagt, ontvangt de ouder voor de kosten van de kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01), een kinderopvangtoeslag waarvan de hoogte 33,3 procent van die kosten betreft.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -506,80 +506,80 @@ Vervallen
 | 194.885 | 198.154 | 33,3% | 68,5% |
 | 198.155 | en hoger | 33,3% | 67,6% |
 
-## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2022-09-07&g=2022-09-07) van het Besluit kinderopvangtoeslag
+## Bijlage I. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-01-01&g=2023-01-01) van het Besluit kinderopvangtoeslag
 
-| Kinderopvangtoeslagtabel 2022 (gezamenlijk) toetsingsinkomen (€) | Kinderopvangtoeslagtabel 2022 (gezamenlijk) toetsingsinkomen (€) | Tegemoetkoming Rijk als % van de kosten van kinderopvang | Tegemoetkoming Rijk als % van de kosten van kinderopvang |
+| (gezamenlijk) toetsingsinkomen (€) | (gezamenlijk) toetsingsinkomen (€) | Tegemoetkoming Rijk als % van de kosten van kinderopvang | Tegemoetkoming Rijk als % van de kosten van kinderopvang |
 | --- | --- | --- | --- |
-|   |   | eerste kind | volgend kind |
-| lager dan | 20.584 | 96,0% | 96,0% |
-| 20.585 | 21.955 | 96,0% | 96,0% |
-| 21.956 | 23.324 | 96,0% | 96,0% |
-| 23.325 | 24.696 | 96,0% | 96,0% |
-| 24.697 | 26.066 | 96,0% | 96,0% |
-| 26.067 | 27.437 | 95,5% | 95,6% |
-| 27.438 | 28.807 | 94,4% | 95,4% |
-| 28.808 | 30.174 | 93,4% | 95,2% |
-| 30.175 | 31.648 | 92,5% | 95,0% |
-| 31.649 | 33.120 | 91,9% | 94,9% |
-| 33.121 | 34.596 | 90,9% | 94,7% |
-| 34.597 | 36.068 | 90,4% | 94,5% |
-| 36.069 | 37.546 | 89,5% | 94,5% |
-| 37.547 | 39.019 | 88,7% | 94,5% |
-| 39.020 | 40.528 | 88,1% | 94,5% |
-| 40.529 | 42.039 | 87,3% | 94,5% |
-| 42.040 | 43.550 | 86,6% | 94,5% |
-| 43.551 | 45.061 | 85,9% | 94,5% |
-| 45.062 | 46.575 | 85,0% | 94,5% |
-| 46.576 | 48.086 | 84,5% | 94,5% |
-| 48.087 | 49.596 | 83,7% | 94,5% |
-| 49.597 | 51.108 | 83,0% | 94,5% |
-| 51.109 | 52.759 | 82,1% | 94,5% |
-| 52.760 | 55.998 | 80,6% | 94,5% |
-| 55.999 | 59.235 | 79,8% | 94,1% |
-| 59.236 | 62.474 | 78,7% | 93,5% |
-| 62.475 | 65.714 | 76,4% | 93,1% |
-| 65.715 | 68.951 | 74,1% | 92,8% |
-| 68.952 | 72.192 | 71,9% | 92,1% |
-| 72.193 | 75.430 | 69,4% | 91,6% |
-| 75.431 | 78.669 | 67,1% | 91,1% |
-| 78.670 | 81.909 | 64,9% | 90,4% |
-| 81.910 | 85.146 | 62,5% | 89,8% |
-| 85.147 | 88.388 | 60,3% | 89,4% |
-| 88.389 | 91.626 | 57,8% | 89,1% |
-| 91.627 | 94.863 | 55,5% | 88,4% |
-| 94.864 | 98.102 | 53,3% | 88,0% |
-| 98.103 | 101.405 | 50,9% | 87,5% |
-| 101.406 | 104.723 | 48,8% | 86,8% |
-| 104.724 | 108.039 | 46,7% | 86,3% |
-| 108.040 | 111.356 | 44,6% | 85,9% |
-| 111.357 | 114.671 | 42,4% | 85,6% |
-| 114.672 | 117.989 | 40,5% | 84,9% |
-| 117.990 | 121.307 | 38,6% | 84,3% |
-| 121.308 | 124.625 | 36,7% | 83,9% |
-| 124.626 | 127.938 | 34,7% | 83,3% |
-| 127.939 | 131.255 | 33,3% | 82,9% |
-| 131.256 | 134.574 | 33,3% | 82,2% |
-| 134.575 | 137.889 | 33,3% | 81,6% |
-| 137.890 | 141.206 | 33,3% | 80,6% |
-| 141.207 | 144.522 | 33,3% | 80,3% |
-| 144.523 | 147.840 | 33,3% | 79,5% |
-| 147.841 | 151.160 | 33,3% | 78,6% |
-| 151.161 | 154.474 | 33,3% | 78,0% |
-| 154.475 | 157.791 | 33,3% | 77,1% |
-| 157.792 | 161.106 | 33,3% | 76,6% |
-| 161.107 | 164.425 | 33,3% | 75,8% |
-| 164.426 | 167.743 | 33,3% | 75,1% |
-| 167.744 | 171.059 | 33,3% | 74,4% |
-| 171.060 | 174.376 | 33,3% | 73,4% |
-| 174.377 | 177.689 | 33,3% | 72,9% |
-| 177.690 | 181.009 | 33,3% | 72,2% |
-| 181.010 | 184.324 | 33,3% | 71,4% |
-| 184.325 | 187.642 | 33,3% | 70,7% |
-| 187.643 | 190.960 | 33,3% | 70,1% |
-| 190.961 | 194.275 | 33,3% | 69,3% |
-| 194.276 | 197.593 | 33,3% | 68,5% |
-| 197.594 | 200.908 | 33,3% | 68,0% |
-| 200.909 | en hoger | 33,3% | 67,1% |
+| vanaf | tot en met | eerste kind | volgend kind |
+| tot en met | 21.278 | 96,0% | 96,0% |
+| 21.279 | 22.695 | 96,0% | 96,0% |
+| 22.696 | 24.110 | 96,0% | 96,0% |
+| 24.111 | 25.528 | 96,0% | 96,0% |
+| 25.529 | 26.944 | 96,0% | 96,0% |
+| 26.945 | 28.362 | 95,5% | 95,6% |
+| 28.363 | 29.778 | 94,4% | 95,4% |
+| 29.779 | 31.191 | 93,4% | 95,2% |
+| 31.192 | 32.715 | 92,5% | 95,0% |
+| 32.716 | 34.236 | 91,9% | 94,9% |
+| 34.237 | 35.762 | 90,9% | 94,7% |
+| 35.763 | 37.283 | 90,4% | 94,5% |
+| 37.284 | 38.811 | 89,5% | 94,5% |
+| 38.812 | 40.334 | 88,7% | 94,5% |
+| 40.335 | 41.894 | 88,1% | 94,5% |
+| 41.895 | 43.456 | 87,3% | 94,5% |
+| 43.457 | 45.018 | 86,6% | 94,5% |
+| 45.019 | 46.580 | 85,9% | 94,5% |
+| 46.581 | 48.145 | 85,0% | 94,5% |
+| 48.146 | 49.706 | 84,5% | 94,5% |
+| 49.707 | 51.267 | 83,7% | 94,5% |
+| 51.268 | 52.830 | 83,0% | 94,5% |
+| 52.831 | 54.537 | 82,1% | 94,5% |
+| 54.538 | 57.885 | 80,6% | 94,5% |
+| 57.886 | 61.231 | 79,8% | 94,1% |
+| 61.232 | 64.579 | 78,7% | 93,5% |
+| 64.580 | 67.929 | 76,4% | 93,1% |
+| 67.930 | 71.275 | 74,1% | 92,8% |
+| 71.276 | 74.625 | 71,9% | 92,1% |
+| 74.626 | 77.972 | 69,4% | 91,6% |
+| 77.973 | 81.320 | 67,1% | 91,1% |
+| 81.321 | 84.669 | 64,9% | 90,4% |
+| 84.670 | 88.015 | 62,5% | 89,8% |
+| 88.016 | 91.367 | 60,3% | 89,4% |
+| 91.368 | 94.714 | 57,8% | 89,1% |
+| 94.715 | 98.060 | 55,5% | 88,4% |
+| 98.061 | 101.408 | 53,3% | 88,0% |
+| 101.409 | 104.822 | 50,9% | 87,5% |
+| 104.823 | 108.252 | 48,8% | 86,8% |
+| 108.253 | 111.680 | 46,7% | 86,3% |
+| 111.681 | 115.109 | 44,6% | 85,9% |
+| 115.110 | 118.535 | 42,4% | 85,6% |
+| 118.536 | 121.965 | 40,5% | 84,9% |
+| 121.966 | 125.395 | 38,6% | 84,3% |
+| 125.396 | 128.825 | 36,7% | 83,9% |
+| 128.826 | 132.250 | 34,7% | 83,3% |
+| 132.251 | 135.678 | 33,3% | 82,9% |
+| 135.679 | 139.109 | 33,3% | 82,2% |
+| 139.110 | 142.536 | 33,3% | 81,6% |
+| 142.537 | 145.965 | 33,3% | 80,6% |
+| 145.966 | 149.392 | 33,3% | 80,3% |
+| 149.393 | 152.822 | 33,3% | 79,5% |
+| 152.823 | 156.254 | 33,3% | 78,6% |
+| 156.255 | 159.680 | 33,3% | 78,0% |
+| 159.681 | 163.109 | 33,3% | 77,1% |
+| 163.110 | 166.535 | 33,3% | 76,6% |
+| 166.536 | 169.966 | 33,3% | 75,8% |
+| 169.967 | 173.396 | 33,3% | 75,1% |
+| 173.397 | 176.824 | 33,3% | 74,4% |
+| 176.825 | 180.252 | 33,3% | 73,4% |
+| 180.253 | 183.677 | 33,3% | 72,9% |
+| 183.678 | 187.109 | 33,3% | 72,2% |
+| 187.110 | 190.536 | 33,3% | 71,4% |
+| 190.537 | 193.966 | 33,3% | 70,7% |
+| 193.967 | 197.395 | 33,3% | 70,1% |
+| 197.396 | 200.822 | 33,3% | 69,3% |
+| 200.823 | 204.252 | 33,3% | 68,5% |
+| 204.253 | 207.679 | 33,3% | 68,0% |
+| 207.680 | en hoger | 33,3% | 67,1% |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
 
@@ -599,23 +599,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. 230 uren per kalendermaand;
 
-- b. per berekeningsjaar:
+- b. per berekeningsjaar 230 uren, vermenigvuldigd met het aantal maanden waarin de ouder of partner in dat berekeningsjaar:
 
-- 1°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2022-09-07&g=2022-09-07), gezamenlijk;
+- 1°. arbeid heeft verricht als bedoeld in [artikel 1.6, eerste lid, onderdelen a of b, of derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6);
 
-- 2°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor buitenschoolse opvang en gastouderopvang aan een kind in de leeftijd waarop kinderen naar het basisonderwijs kunnen gaan, gezamenlijk;
+- 2°. gebruik heeft gemaakt van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in [artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6);
 
-- 3°. de duur van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in [artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6) uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand;
+- 3°. aanspraak op kinderopvangtoeslag behoudt op grond van [artikel 1.6, vijfde of zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6);
 
-- 4°. de duur van het recht op zorg, bedoeld in [artikel 1.6, achtste of negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand;
+- 4°. recht heeft op zorg als bedoeld in [artikel 1.6, achtste of negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6); of,
 
-- 5°. de duur van de vrijheidsbenemende straf of maatregel, bedoeld in [artikel 1.6, tiende of elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand.
+- 5°. veroordeeld is tot een vrijheidsbenemende straf of maatregel, gedurende de periode waarin die straf of maatregel ten uitvoer wordt gelegd als bedoeld in [artikel 1.6, tiende of elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6).
 
-2. Voor het aantal uren dat voor kinderopvangtoeslag in aanmerking komt, bedoeld in het eerste lid, onderdeel b, wordt uitgegaan van het aantal uren van de ouder of partner die in dat berekeningsjaar het minste uren heeft gewerkt, gebruik heeft gemaakt van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus heeft gevolgd.
-
-3. Indien de ouder of partner op hetzelfde moment in een berekeningsjaar kan worden aangemerkt als ouder, bedoeld in [artikel 1.6, eerste lid, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6) en als ouder, bedoeld in artikel 1.6, eerste lid, onderdeel g of j, van de wet wordt voor het eerste lid, onderdeel b, uitgegaan van het subonderdeel dat leidt tot het meeste aantal uren als bedoeld in het eerste lid.
-
-4. Bij de toepassing van het eerste lid wordt indien een ouder of zijn partner aanspraak op een kinderopvangtoeslag behoudt op grond van [artikel 1.6, vijfde of zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), uitgegaan van het aantal uren dat een ouder of zijn partner voorafgaand aan de beëindiging van de arbeid als bedoeld in dat artikel verrichtte.
+2. Voor het aantal uren dat voor kinderopvangtoeslag in aanmerking komt, bedoeld in het eerste lid, onderdeel b, wordt uitgegaan van het aantal uren van de ouder of partner die in dat berekeningsjaar het minste aantal maanden heeft gewerkt, gebruik heeft gemaakt van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus heeft gevolgd of aanspraak heeft behouden op kinderopvangtoeslag.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -625,7 +621,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2022-09-07&g=2022-09-07) worden de bedragen, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2022-09-07&g=2022-09-07), voor het berekeningsjaar 2022 geïndexeerd met 0,51%.
+In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-01-01&g=2023-01-01) worden voor het berekeningsjaar 2023:
+
+- a. de bedragen, bedoeld in [artikel 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-01-01&g=2023-01-01), geïndexeerd met 5,58%; en
+
+- b. het bedrag, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-01-01&g=2023-01-01), geïndexeerd met 3,22%.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -679,19 +679,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8b
 
-1. In afwijking van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=8a&z=2022-09-07&g=2022-09-07) bedraagt voor de berekeningsjaren 2020 en 2021 het aantal uren kinderopvang dat voor kinderopvangtoeslag in aanmerking komt, voor ieder kind niet meer dan:
-
-- a. 230 uren per kalendermaand; en
-
-- b. voor de berekeningsjaren 2020 en 2021 230 uren per kalendermaand vermenigvuldigd met het aantal maanden waarin de ouder of partner in dat berekeningsjaar:
-
-- 1°. arbeid heeft verricht als bedoeld in [artikel 1.6, eerste lid, onderdeel a of b, of derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6); of
-
-- 2°. gebruik heeft gemaakt van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in [artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6).
-
-2. Voor het aantal uren dat voor kinderopvangtoeslag in aanmerking komt, bedoeld in het eerste lid, wordt uitgegaan van het aantal maanden van de ouder of partner die in de berekeningsjaren 2020 of 2021 het minste aantal maanden heeft gewerkt, gebruik heeft gemaakt van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus heeft gevolgd.
-
-3. Bij de toepassing van het eerste lid, aanhef en onder a, en onder b, aanhef en onderdeel 1° wordt indien een ouder of zijn partner in de berekeningsjaren 2020 of 2021 aanspraak op kinderopvangtoeslag behoudt op grond van [artikel 1.6, vijfde of zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), uitgegaan van het aantal uren kinderopvang dat voor kinderopvangtoeslag in aanmerking kwam voor de beëindiging van de arbeid.
+Vervallen
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
