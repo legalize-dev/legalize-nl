@@ -67,9 +67,3 @@ Dit besluit treedt in werking met ingang van 1 januari 2023.
 Dit besluit wordt aangehaald als: Geïntegreerde Aanwijzing 2023-2026.
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
-
-## Bijlage
-
-De bijlage is niet openbaar.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
