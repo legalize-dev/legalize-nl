@@ -4,7 +4,7 @@ identifier: "BWBR0047122"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2022-10-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047122"
 soort: "wet"
@@ -101,19 +101,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Registratiewet 1970.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XV
 
 Wijzigt de Successiewet 1956.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt de Uitleveringswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
@@ -123,13 +117,9 @@ Wijzigt de Uitvoeringswet EG-betekeningsverordening.
 
 Wijzigt de Uitvoeringswet EG-verordening betreffende Gemeenschapsmodellen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIX
 
 Wijzigt de Uitvoeringswet E.G.-verordening inzake het Gemeenschapsmerk.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
@@ -142,8 +132,6 @@ Wijzigt de Uitvoeringswet internationale kinderontvoering.
 ##### Artikel XXII
 
 Wijzigt de Uitvoeringswet Rotterdam Rules.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIII
 
@@ -165,31 +153,21 @@ Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
 Wijzigt de Wet bestuur en toezicht rechtspersonen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXVIII
 
 Wijzigt de Wet buitengewoon pensioen 1940-1945.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIX
 
 Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXX
 
 Wijzigt de Wet elektronische registratie notariële akten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXXI
 
 Wijzigt de Wet kwaliteit, klachten en geschillen zorg.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXII
 
@@ -210,8 +188,6 @@ Wijzigt de Wet op het notarisambt.
 ##### Artikel XXXVI
 
 Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVII
 
@@ -251,13 +227,15 @@ Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel XLIV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Op zaken waarin voor de inwerkingtreding van de [artikelen XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=XVI&z=2023-01-01&g=2023-01-01), [XXXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=XXXVI&z=2023-01-01&g=2023-01-01), en [XLIII, onderdelen M, N en O](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=XLIII&z=2023-01-01&g=2023-01-01), van deze wet beroep in cassatie is ingesteld, blijven de [artikelen 437](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=437) en [447 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=447), [artikel 31 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=31) en [artikel 32 van de Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028&artikel=32) zoals deze luidden voor inwerkingtreding van de [artikelen XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=XVI&z=2023-01-01&g=2023-01-01), [XXXVI](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=XXXVI&z=2023-01-01&g=2023-01-01) en [XLIII, onderdelen M, N, en O](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=XLIII&z=2023-01-01&g=2023-01-01), van deze wet van toepassing en is [artikel 432a van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=432a) niet van toepassing.
+
+2. Op zaken waarin voor de inwerkingtreding van [artikel XLIII, onderdelen R en S](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=XLIII&z=2023-01-01&g=2023-01-01), van deze wet een aanvraag tot herziening als bedoeld in [artikel 457, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=457) dan wel een verzoek tot het instellen van nader onderzoek als bedoeld in [artikel 461, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=461), van dat wetboek is gedaan, blijven de [artikelen 460](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=460) en [461](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=461) van dat wetboek zoals deze luidden voor inwerkingtreding van [artikel XLIII, onderdelen R en S](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=XLIII&z=2023-01-01&g=2023-01-01), van deze wet van toepassing.
 
 ##### Artikel XLV
 
-1. Deze wet, met uitzondering van [artikel V, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=V&z=2022-10-01&g=2022-10-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet, met uitzondering van [artikel V, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=V&z=2023-01-01&g=2023-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel V, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=V&z=2022-10-01&g=2022-10-01), treedt in werking op 1 januari 2030.
+2. [Artikel V, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047122&artikel=V&z=2023-01-01&g=2023-01-01), treedt in werking op 1 januari 2030.
 
 ##### Artikel XLVa
 
