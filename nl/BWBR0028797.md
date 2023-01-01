@@ -4,7 +4,7 @@ identifier: "BWBR0028797"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-07-01"
-last_updated: "2021-07-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028797"
 soort: "ministeriele-regeling-BES"
@@ -94,7 +94,7 @@ De volgende delen van het luchtruim, bedoeld in [artikel 2, derde lid, van het B
 
 De volgende instanties worden aangewezen als luchtverkeersdienstverlener en belast met de daarbij aangegeven taken:
 
-- 1. De naamloze vennootschap ’Netherlands Antilles Air Traffic Control N.V.’ met de volgende taken:
+- 1. De naamloze vennootschap ’Dutch Carribean Air Navigation Service Provider’ met de volgende taken:
 
 - a. voor zover het betreft de Flamingo CTR, de taken omschreven in [artikel 70, eerste lid, onderdelen a tot en met l, Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=70);
 
@@ -110,7 +110,7 @@ De volgende instanties worden aangewezen als luchtverkeersdienstverlener en bela
 
 ##### Artikel 4
 
-De minister sluit afzonderlijke dienstverleningsovereenkomsten met de ’Netherlands Antilles Air Traffic Control N.V.’, en ‘Princess Juliana International Airport Exploitatiemaatschappij N.V’ waarin de voorwaarden en condities, waaronder de betreffende vennootschappen bereid zijn om uitvoering te geven aan de opgedragen taken nader worden geregeld.
+De minister sluit afzonderlijke dienstverleningsovereenkomsten met de ’Dutch Carribean Air Navigation Service Provider’, en ‘Princess Juliana International Airport Exploitatiemaatschappij N.V’ waarin de voorwaarden en condities, waaronder de betreffende vennootschappen bereid zijn om uitvoering te geven aan de opgedragen taken nader worden geregeld.
 
 ##### Artikel 5
 
@@ -136,7 +136,7 @@ Deze regeling berust mede op [artikel 74, eerste lid, van het Besluit luchtverke
 
 De luchtverkeersroutes en luchtverkeersprocedures zijn de luchtverkeersroutes en luchtverkeersprocedures die zijn opgenomen in de bijlage bij deze regeling.
 
-## Bijlage. Luchtverkeersroutes en luchtverkeersprocedures als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028797&artikel=5a&z=2021-07-01&g=2021-07-01)
+## Bijlage. Luchtverkeersroutes en luchtverkeersprocedures als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028797&artikel=5a&z=2023-01-01&g=2023-01-01)
 
 - 1. VFR route Curaçao – FIR overview
 
