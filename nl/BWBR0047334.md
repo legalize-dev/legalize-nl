@@ -4,7 +4,7 @@ identifier: "BWBR0047334"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-27"
-last_updated: "2022-11-30"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047334"
 soort: "ministeriele-regeling"
@@ -131,7 +131,7 @@ Het bedrag, bedoeld in [artikel 26, eerste lid, van het Besluit bekostiging WPO]
 
 ##### Artikel 7. Vaststelling bedragen programma's van eisen voor basisscholen
 
-De bedragen van de programma's van eisen voor de basisscholen, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113), zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-11-30&g=2022-11-30).
+De bedragen van de programma's van eisen voor de basisscholen, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113), zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-11-30&g=2023-01-01).
 
 #### Paragraaf 2. Speciale scholen voor basisonderwijs
 
@@ -193,7 +193,7 @@ B = het aantal leerlingen met een niet-Nederlandse culturele achtergrond, vermen
 
 ##### Artikel 13. Vaststelling bedragen programma's van eisen voor speciale scholen voor basisonderwijs
 
-De bedragen van de programma's van eisen voor de speciale scholen voor basisonderwijs, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113) zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-11-30&g=2022-11-30).
+De bedragen van de programma's van eisen voor de speciale scholen voor basisonderwijs, bedoeld in [artikel 113, vierde lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=113) zoals die luidde op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=1&z=2022-11-30&g=2023-01-01).
 
 #### Paragraaf 3. Scholen voor (voortgezet) speciaal onderwijs in cluster 3 en 4
 
@@ -263,7 +263,7 @@ B = het aantal leerlingen met een niet-Nederlandse culturele achtergrond, vermen
 
 ##### Artikel 19. Vaststelling bedragen van de materiele instandhouding voor het (voortgezet) speciaal onderwijs
 
-De bedragen van de materiële instandhouding voor het (voortgezet) speciaal onderwijs, bedoeld in de [artikelen 111, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114) en [128, zesde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=128) zoals die luidden op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=2&z=2022-11-30&g=2022-11-30).
+De bedragen van de materiële instandhouding voor het (voortgezet) speciaal onderwijs, bedoeld in de [artikelen 111, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=111), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=114) en [128, zesde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=128) zoals die luidden op 31 maart 2022, worden vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&bijlage=2&z=2022-11-30&g=2023-01-01).
 
 ### Hoofdstuk 3. Vaststelling bedragen voor de bepaling van de bekostiging, bedoeld in [artikel 214, tweede lid, onderdeel e, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=214) en voor de bepaling van de bekostiging, bedoeld in [artikel 188, tweede lid, onderdeel e, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=188)
 
@@ -493,7 +493,7 @@ Het bedrag per brancardlift, bedoeld in [artikel 16, vierde lid, van het Besluit
 
 Deze regeling wordt aangehaald als: Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC.
 
-## Bijlage 1. behorende bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=1&artikel=7&z=2022-11-30&g=2022-11-30) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=2&artikel=13&z=2022-11-30&g=2022-11-30) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
+## Bijlage 1. behorende bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=1&artikel=7&z=2022-11-30&g=2023-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=2&artikel=13&z=2022-11-30&g=2023-01-01) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
 
 ### Bedragen programma's van eisen voor basisscholen en speciale scholen voor basisonderwijs voor het jaar 2022
 
@@ -585,7 +585,7 @@ Yd = bedrag per leerling in het speciaal basisonderwijs
 
 Bedrag per leerling = € 246,38
 
-## Bijlage 2. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=3&artikel=19&z=2022-11-30&g=2022-11-30) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
+## Bijlage 2. behorende bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0047334&hoofdstuk=2&paragraaf=3&artikel=19&z=2022-11-30&g=2023-01-01) van de Regeling overgangsbekostiging vereenvoudiging bekostiging WPO en WEC
 
 ### Bedragen materiële instandhouding voor scholen voor (voortgezet) speciaal onderwijs
 
