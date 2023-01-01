@@ -4,7 +4,7 @@ identifier: "BWBR0027113"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2022-08-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027113"
 soort: "ministeriele-regeling"
@@ -46,21 +46,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
-
 - **bezoldigingsschaal:** de salarisschaal volgens welke de betrokken leraar wordt bezoldigd;
 
 - **Convenant Leerkracht van Nederland:** tripartiete afspraken tussen de minister en de sociale partners in het primair en voortgezet onderwijs, als vastgelegd op 1 juli 2008 (Stcrt. 2009, 42);
 
 - **functiemix:** verdeling van leraren in voltijdequivalenten over de bezoldigingsschalen;
 
-- **leraren:** in [artikel 84, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=84) genoemde personeelscategorie;
-
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 - **personeelsgegevens:** personeelsgegevens als bedoeld in bijlage B bij het Convenant Leerkracht van Nederland en [bijlage 1 bij het Besluit informatievoorziening WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0008948&bijlage=1);
 
-- **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2021 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2022-08-01&g=2022-08-01);
+- **Randstadregio’s:** verzameling van gemeenten op peildatum 1 oktober 2022 als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&bijlage=1&z=2023-01-01&g=2023-01-01);
 
 - **school:** een school of scholengemeenschap als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), die wordt bekostigd op grond van de wet;
 
@@ -68,15 +64,13 @@ In deze regeling wordt verstaan onder:
 
 - **vestiging:** hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school als bedoeld in de [artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14) en [4.16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16), waarop leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 6.12, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.12);
 
-- **voortgezet onderwijs:** het voortgezet onderwijs, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=2);
-
 - **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ### 2. Hoofdlijnen
 
 ##### Artikel 2. Doelomschrijving
 
-1. De minister verstrekt in 2022 aanvullende bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
+1. De minister verstrekt in 2023 aanvullende bekostiging ter versterking van de functiemix binnen de Randstadregio’s door het verhogen van het aandeel leraren in voltijdequivalenten in bezoldigingsschaal LC.
 
 2. De aanvullende bekostiging wordt verstrekt op grond van de volgende aandachtspunten:
 
@@ -92,11 +86,11 @@ De aanvullende bekostiging wordt verstrekt aan bevoegde gezagsorganen met één 
 
 ##### Artikel 4. Berekening aanvullende bekostiging
 
-1. Voor de aanvullende bekostiging is in 2022 een bedrag van € 68,75 miljoen beschikbaar.
+1. Voor de aanvullende bekostiging is in 2023 een bedrag van € 73.005.000 beschikbaar.
 
 2. De verstrekking van de aanvullende bekostiging vindt plaats per kalenderjaar.
 
-3. De aanvullende bekostiging wordt verdeeld naar rato van de bekostiging, bedoeld in [artikel 79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=79), voor scholen of vestigingen in de Randstadregio’s. De aanvullende bekostiging wordt mede bepaald op basis van het aantal leerlingen van een school dat op de teldatum is ingeschreven op een vestiging gelegen binnen de Randstadregio’s ten opzichte van het totale aantal leerlingen dat op de teldatum is ingeschreven op alle scholen voor zover het de vestigingen betreft die zijn gelegen binnen de Randstadregio’s. Herrekening op basis van het door de instellingaccountant gevalideerde aantal leerlingen vindt niet plaats.
+3. De aanvullende bekostiging wordt verdeeld naar rato van de bekostiging, bedoeld in [artikel 5.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), voor scholen of vestigingen in de Randstadregio’s. De aanvullende bekostiging wordt mede bepaald op basis van het aantal leerlingen van een school dat op de teldatum is ingeschreven op een vestiging gelegen binnen de Randstadregio’s ten opzichte van het totale aantal leerlingen dat op de teldatum is ingeschreven op alle scholen voor zover het de vestigingen betreft die zijn gelegen binnen de Randstadregio’s. Herrekening op basis van het door de instellingaccountant gevalideerde aantal leerlingen vindt niet plaats.
 
 4. De aanvullende bekostiging van een in aanmerking komende school wordt berekend op grond van de volgende formule:
 
@@ -108,13 +102,13 @@ Xi = de aanvullende bekostiging voor een individuele school;
 
 A = het voor aanvullende bekostiging beschikbare bedrag, genoemd in het eerste lid;
 
-Bi = de bekostiging, bedoeld in [artikel 79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=79), van school i in het betreffende kalenderjaar;
+Bi = de bekostiging, bedoeld in [artikel 5.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), van school i in het betreffende kalenderjaar;
 
 LLri = de op de teldatum bekostigde leerlingen op de in de Randstadregio’s gelegen vestiging(en) van school i;
 
 LLi = de op de teldatum bekostigde leerlingen van school i;
 
-Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor aanvullende bekostiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=3&z=2022-08-01&g=2022-08-01) in aanmerking komende scholen.
+Σ(Bi * LLri/ LLi) = de integrale som van het product Bi * LLri/ LLi voor het totaal van alle voor aanvullende bekostiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027113&hoofdstuk=2&artikel=3&z=2023-01-01&g=2023-01-01) in aanmerking komende scholen.
 
 ##### Artikel 5. Vaststelling en betaling aanvullende bekostiging
 
@@ -140,7 +134,7 @@ Het bevoegd gezag werkt mee aan door of namens de minister ingestelde onderzoeke
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
-2. Deze regeling vervalt met ingang van 1 januari 2023, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
+2. Deze regeling vervalt met ingang van 1 januari 2024, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.
 
 ##### Artikel 9. Citeertitel
 
@@ -275,7 +269,6 @@ Deze regeling berust op [artikel 5.9 van de wet](https://wetten.overheid.nl/jci1
 | Amsterdam |
 | Baarn |
 | Barendrecht |
-| Beemster |
 | Beverwijk |
 | Blaricum |
 | Bloemendaal |
@@ -356,7 +349,6 @@ Deze regeling berust op [artikel 5.9 van de wet](https://wetten.overheid.nl/jci1
 | Waddinxveen |
 | Wassenaar |
 | Waterland |
-| Weesp |
 | Westland |
 | Westvoorne |
 | Wijdemeren |
