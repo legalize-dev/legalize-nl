@@ -4,7 +4,7 @@ identifier: "BWBR0010757"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "1999-12-01"
+last_updated: "2023-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010757"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Het recht tot het voeren van de titel van verzorgende individuele gezondheidszorg is voorbehouden aan degene aan wie het diploma is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van de opleiding tot verzorgende die is opgenomen in het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1), waarvan de deelkwalificatie verplegende elementen onderdeel heeft uitgemaakt.
+Het recht tot het voeren van de titel van verzorgende individuele gezondheidszorg is voorbehouden aan degene aan wie het diploma is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van de opleiding tot verzorgende die is opgenomen in de Registratie instellingen en opleidingen, bedoeld in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=6.4.1), waarvan de deelkwalificatie verplegende elementen onderdeel heeft uitgemaakt.
 
 #### § 2. Deskundigheid
 
