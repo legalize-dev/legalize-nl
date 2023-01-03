@@ -4,7 +4,7 @@ identifier: "BWBR0042903"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-03"
-last_updated: "2019-12-19"
+last_updated: "2023-01-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042903"
 soort: "ministeriele-regeling"
@@ -106,6 +106,8 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 - q. Verordening (EU) nr. 747/2014 van de Raad van de Europese Unie van 10 juli 2014 betreffende beperkende maatregelen in verband met de situatie in Sudan en tot intrekking van [Verordening (EG) nr. 131/2004](32004R0131) en [Verordening (EG) nr. 1184/2005](32005R1184) (PbEU L 203);
 
-- r. Verordening (EU) nr. 1352/2014 van de Raad van de Europese Unie van 18 december 2014 betreffende beperkende maatregelen in verband met de situatie in Jemen (PbEU 365).
+- r. Verordening (EU) nr. 1352/2014 van de Raad van de Europese Unie van 18 december 2014 betreffende beperkende maatregelen in verband met de situatie in Jemen (PbEU 365);
+
+- s. [Verordening (EU) 2022/2309](32309R2022) van de Raad van de Europese Unie van 25 november 2022 betreffende beperkende maatregelen in het licht van de situatie in Haïti (PbEU 2022, L 307).
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
