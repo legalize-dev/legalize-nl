@@ -4,7 +4,7 @@ identifier: "BWBR0045076"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2022-03-19"
+last_updated: "2023-01-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045076"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ Het Directoraat-Generaal Belastingdienst staat onder leiding van de directeur-ge
 
 Het DGBD bestaat uit de volgende organisatieonderdelen:
 
-- a. het Bureau directeur-generaal;
+- a. de directie Bestuurlijke en Politieke Zaken (BPZ);
 
 - b. de volgende uitvoeringsdirecties:
 
