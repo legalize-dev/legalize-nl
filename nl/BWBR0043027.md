@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2023-01-01"
+last_updated: "2023-01-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2023-01-01).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-01-05&g=2023-01-05).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2023-01-01).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-01-05&g=2023-01-05).
 
 ##### Artikel 4. De bestuursraad
 
@@ -116,21 +116,25 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 ##### Artikel 5. Plaatsvervangend secretaris-generaal
 
-1. De plaatsvervangend secretaris-generaal (de pSG) is verantwoordelijk voor
+1. De plaatsvervangend secretaris-generaal (de pSG) is verantwoordelijk voor:
 
-- a. de integrale ontwikkeling en realisering van de strategische doelstellingen op bedrijfsvoeringgebied voor het ministerie;
+- a. de integrale ontwikkeling en realisering van de strategische doelstellingen op bedrijfsvoeringgebied voor het kernministerie en de Belastingdienst;
 
-- b. de afstemming van de bedrijfsvoering op het primaire proces van het ministerie;
+- b. de afstemming van de bedrijfsvoering op het primaire proces van het kernministerie;
 
-- c. het categoriemanagement van de categorieën die ressorteren onder het ministerie.
+- c. het categoriemanagement van de categorieën die ressorteren onder het kernministerie.
 
-2. De pSG is door middel van kaderstelling verantwoordelijk voor de bedrijfsvoering van het ministerie.
+2. De pSG is door middel van kaderstelling verantwoordelijk voor de bedrijfsvoering van de Belastingdienst en van de volgende onderdelen die rechtstreeks onder de SG vallen:
+
+- a. de directie Financieel-Economische Zaken;
+
+- b. de directie Algemene Financiële en Economische Politiek.
 
 3. De pSG is verantwoordelijk voor de volgende onderdelen binnen het cluster SG:
 
-- a. directie Bedrijfsvoering;
+- a. de directie Bedrijfsvoering;
 
-- b. de BVA-Office;
+- b. het BVA-office;
 
 - c. de directie Juridische Zaken;
 
@@ -138,27 +142,31 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 - e. de directie Communicatie;
 
-- f. de Auditdienst Rijk;
+- f. de (tijdelijke) programmadirectie Informatie op Orde.
 
-- g. de dienst Domeinen en Roerende Zaken;
-
-- h. de (tijdelijke) programmadirectie Informatie op Orde.
-
-4. De pSG is tevens verantwoordelijk voor de bedrijfsvoering van de volgende diensten en zelfstandig bestuursorganen:
+4. De pSG is tevens verantwoordelijk voor de bedrijfsvoering van de volgende onderdelen, diensten en zelfstandig bestuursorganen:
 
 - a. de Waarderingskamer;
 
 - b. de Stichting Waarborgfonds Motorverkeer;
 
-- c. het Nederlands Bureau der Motorrijtuigenverzekaars;
+- c. het Nederlands Bureau der Motorrijtuigverzekeraars;
 
-- d. de Commissie Eindtermen Accountantsopleiding.
+- d. de Commissie Eindtermen Accountantsopleiding;
+
+- e. de Auditdienst Rijk;
+
+- f. de dienst Domeinen Roerende Zaken.
 
 5. Bij afwezigheid van de SG treedt de pSG op als plaatsvervanger ten aanzien van:
 
 - a. de eigenaarsrol van de SG;
 
-- b. het overleg met de medezeggenschap en met de vakbonden.
+- b. het voorzitterschap van de overleggen met de medezeggenschap en de vakbonden.
+
+6. De pSG draagt zorg voor de voorbereiding van de overleggen tussen bestuurder en de medezeggenschap en tussen bestuurder en de vakbonden.
+
+7. De pSG vertegenwoordigt het kernministerie in interdepartementaal overleg.
 
 ##### Artikel 6. Chief information officer (CIO)
 
@@ -250,9 +258,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2023-01-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-01-05&g=2023-01-05) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2023-01-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-01-05&g=2023-01-05) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -414,7 +422,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2022-07-20&g=2023-01-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2023-01-05&g=2023-01-05). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -564,7 +572,9 @@ De directie Communicatie heeft de volgende taken:
 
 - b. het in opdracht van de ministeries uitvoeren van vraaggestuurde onderzoeken;
 
-- c. het op basis van de uitkomsten van uitgevoerde onderzoeken doen van aanbevelingen aan het management van de ministeries, in het bijzonder op het gebied van sturen, beheersen, verantwoorden en toezicht.
+- c. het op basis van de uitkomsten van uitgevoerde onderzoeken doen van aanbevelingen aan het management van de ministeries, in het bijzonder op het gebied van sturen, beheersen, verantwoorden en toezicht;
+
+- d. optreden als auditautoriteit voor het Nederlandse Herstel- en Veerkrachtplan en, in lijn met [EU-verordening 2021/241](32141R2021) en EU-verordening 2-18/1046, bij elk betaalverzoek vanuit Nederland aan de Europese Unie in het kader van het Nederlandse Herstel- en Veerkrachtplan een samenvatting van audits opstellen over de besteding van de Europese middelen voor het uitvoeren van het Herstel- en Veerkrachtplan door de lidstaat Nederland.
 
 2. De algemeen directeur geeft sturing aan de ADR.
 
@@ -1388,9 +1398,9 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2022-07-20&g=2023-01-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-01-05&g=2023-01-05) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2022-07-20&g=2023-01-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-01-05&g=2023-01-05), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
@@ -1530,7 +1540,11 @@ De programmadirectie Herstel- en Veerkrachtplan heeft de volgende taken:
 
 - c. het indienen van het Nederlands Herstel- en Veerkrachtplan bij de Europese Commissie;
 
-- d. het coördineren van de periodieke rapportages aan de Europese Commissie over het Nederlands Herstel- en Veerkrachtplan gedurende de implementatiefase.
+- d. het monitoren van de voortgang van de implementatie en het coördineren van de periodieke voortgangsrapportages aan de Europese Commissie over het Nederlands Herstel- en Veerkrachtplan gedurende de implementatiefase;
+
+- e. het, in samenwerking met de betrokken departementen en bouwend op aanbevelingen van de Auditdienst Rijk, regie houden over het monitorings-, controle- en auditsysteem en het begeleiden van de betrokken departementen en beleidsdirecties bij de implementatie van het Nederlandse Herstel- en Veerkrachtplan;
+
+- f. het namens de Nederlandse regering indienen van de betalingsverzoeken en bijbehorende Rijksbrede beheersverklaring en auditrapportages aan de Europese Commissie gedurende de implementatiefase (2023 – 2026).
 
 ### Hoofdstuk 10. Overige bepalingen
 
@@ -1564,7 +1578,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De directie Digitalisering en Informatisering heeft de volgende taken:
 
-- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2023-07-12&g=2023-01-01) van dit besluit;
+- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2023-07-12&g=2023-01-05) van dit besluit;
 
 - b. invulling geven aan de rol van de CIO van het kernministerie en [artikel 5, derde lid, van de Regeling Informatiehuishouding Financiën 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046157&artikel=5);
 
