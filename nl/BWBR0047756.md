@@ -261,25 +261,3 @@ Zuid-Afrika
 Zuid-Soedan
 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
-
-De totstandkoming van PPP’s wordt gestimuleerd als dat van toegevoegde waarde is. Bij schenkingen in het kader van DRIVE kan bij PPP-projecten o.a. een bijdrage worden geleverd om de totale opbrengsten en kosten van het project met elkaar in evenwicht te brengen en daarmee het project mogelijk te maken (zgn Viability Gap Funding). In samenhang met de wetgeving m.b.t. PPP’s in het ontvangende land behoort in het kader van DRIVE volledige financiering van de viability gap tot de mogelijkheden.
-
-In het kader van **Know-Your-Customer** beleid zal in schenkingsarrangementen een afspraak worden gemaakt op basis waarvan Invest opdrachtnemers tegen het licht zal houden.
-
-### Paragraaf 6. – Uitvoering van het project
-
-### 6.2. Inkoop van goederen en diensten i.h.k.v. ketenverantwoordelijkheid
-
-In het kader van ketenverantwoordelijkheid dient de inkoop van goederen, werken en diensten door de ontvangende overheid en de geselecteerde aannemer die het project uitvoert tijdens de realisatiefase van het project te voldoen aan de wetgeving van het betreffende land en de OESO **Good Procurement Practices for Official Development Assistance**. Bij de selectie van een leverancier zal ook aandacht zijn voor kwaliteits- en duurzaamheidsaspecten van de te leveren goederen en diensten.
-
-### Paragraaf 8. – Verantwoordelijkheid
-
-Invest keurt geen activiteiten of documenten goed, maar geeft slechts in voorkomende gevallen, zoals in relatie tot inkoop (zie paragraaf 6.2) een verklaring van geen bezwaar af. Acceptatie door Invest van activiteiten en documenten met betrekking tot het project door middel van een dergelijke verklaring heeft slechts een betekenis in relatie tot de verstrekking van de schenking.
-
-### Bijlage 1. – Landenlijst DRIVE:
-
-Zuid-Afrika
-
-Zuid-Soedan
-
-Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
