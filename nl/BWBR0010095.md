@@ -4,7 +4,7 @@ identifier: "BWBR0010095"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2013-12-01"
+last_updated: "2023-01-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010095"
 soort: "ministeriele-regeling"
@@ -61,19 +61,21 @@ In deze instructie wordt verstaan onder:
 
 - 2°. een semi-automatisch pistool van het merk Walther P5, kaliber 9 maal 19 millimeter of Walther P99Q van hetzelfde kaliber;
 
-- 3°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;
+- 3°. een korte of lange wapenstok van een door de Minister voor Rechtsbescherming goedgekeurd merk en type;
 
-- 4°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister van Justitie goedgekeurd merk en type;
+- 4°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister voor Rechtsbescherming goedgekeurd merk en type;
 
-- 5°. pepperspray van een door de Minister van Justitie goedgekeurd merk en type.
+- 5°. pepperspray van een door de Minister voor Rechtsbescherming goedgekeurd merk en type.
 
 - g. **vrijheidsbeperkende middelen:**
 
-- 1°. handboeien van een door de Minister van Justitie goedgekeurd merk en type;
+- 1°. handboeien van een door de Minister voor Rechtsbescherming goedgekeurd merk en type;
 
 - 2°. een broekstok;
 
-- 3°. middelen als bedoeld in de bijlage bij de Regeling toepassing mechanische middelen.
+- 3°. middelen als bedoeld in de bijlage bij de Regeling toepassing mechanische middelen;
+
+- 4°. Blinderingsmiddelen van een door de Minister voor Rechtsbescherming goedgekeurd merk en type.
 
 - h. **het gebruik van een vuurwapen:** het trekken, het uit voorzorg ter hand nemen, het richten, het gericht houden en het daadwerkelijk gebruik van een vuurwapen.
 
@@ -184,5 +186,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 4. Pepperspray mag niet worden gebruikt in de nabijheid van baby’s.
 
 5. De ambtenaar of medewerker die pepperspray heeft gebruikt is verantwoordelijk voor het verlenen van nazorg.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10a
+
+De ambtenaar of medewerker kan een gedetineerde ten behoeve van het vervoer met een verhoogd veiligheidsrisico, van een blinderingsmiddel voorzien.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
