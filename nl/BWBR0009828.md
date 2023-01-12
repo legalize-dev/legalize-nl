@@ -4,7 +4,7 @@ identifier: "BWBR0009828"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-12"
-last_updated: "2016-10-06"
+last_updated: "2023-01-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009828"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 - a. **richtlijn 2009/54/EG:** Richtlijn 2009/54/EG van het Europees Parlement en de Raad van 18 juni 2009 betreffende de exploitatie en het in de handel brengen van natuurlijk mineraalwater (Herschikking) (PbEU 2009, L 164);
 
-- b. **richtlijn 98/83/EG:** [richtlijn nr. 98/83/EG](31998L0083) van de Raad van de Europese Unie van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG L 330);
+- b. **richtlijn (EU) 2020/2184:** [Richtlijn (EU) 2020/2184](32020L2184) van het Europees Parlement en de Raad van 16 december 2020 betreffende de kwaliteit van voor menselijke consumptie bestemd water (herschikking) (PbEU 2020, L 435);
 
 - c. **natuurlijk mineraalwater:** bacteriologisch gezond water met als oorsprong een watervlak of een onderaardse laag, dat afkomstig is van een bron geëxploiteerd door een of meer natuurlijke of kunstmatige ontspringingspunten, met als kenmerken:
 
@@ -110,7 +110,7 @@ Hebben goedgevonden en verstaan:
 
 - a. bijlage I bij richtlijn 2009/54/EG; en
 
-- b. [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2016-10-06&g=2016-10-06); doch niet dan nadat hij, voor zover het een in Nederland gelegen bron betreft, op de voet van bijlage II van richtlijn 2009/54/EG een vergunning heeft gegeven voor de exploitatie van de desbetreffende bron.
+- b. [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2023-01-12&g=2023-01-12); doch niet dan nadat hij, voor zover het een in Nederland gelegen bron betreft, op de voet van bijlage II van richtlijn 2009/54/EG een vergunning heeft gegeven voor de exploitatie van de desbetreffende bron.
 
 2. Een in het eerste lid bedoelde erkenning wordt ingetrokken indien het desbetreffende mineraalwater niet meer voldoet aan bijlage I bij richtlijn 2009/54/EG.
 
@@ -140,9 +140,9 @@ Hebben goedgevonden en verstaan:
 
 - c. de fysisch-chemische samenstelling van het natuurlijk mineraalwater wat betreft de kenmerkende bestanddelen door de behandeling niet wordt gewijzigd;
 
-- d. het natuurlijk mineraalwater vóór behandeling voldoet aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=6&z=2016-10-06&g=2016-10-06) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=7&z=2016-10-06&g=2016-10-06); en
+- d. het natuurlijk mineraalwater vóór behandeling voldoet aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=6&z=2023-01-12&g=2023-01-12) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=7&z=2023-01-12&g=2023-01-12); en
 
-- e. de behandeling geen residuen achterlaat die schadelijk kunnen zijn voor de volksgezondheid of waarbij de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&bijlage=II&z=2016-10-06&g=2016-10-06) bedoelde grenswaarden worden overschreden.
+- e. de behandeling geen residuen achterlaat die schadelijk kunnen zijn voor de volksgezondheid of waarbij de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&bijlage=II&z=2023-01-12&g=2023-01-12) bedoelde grenswaarden worden overschreden.
 
 ##### Artikel 5
 
@@ -180,7 +180,7 @@ In natuurlijk mineraalwater zijn niet aantoonbaar:
 
 2. Recipiënten met natuurlijk mineraalwater zijn voorzien van een sluiting die erop berekend is iedere mogelijkheid van vervalsing of besmetting van de waar te voorkomen.
 
-3. Natuurlijk mineraalwater, bedoeld in het eerste lid, bevat ten hoogste de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&bijlage=I&z=2016-10-06&g=2016-10-06) bedoelde hoeveelheden van de daar genoemde bestanddelen die van nature aanwezig zijn in mineraalwater.
+3. Natuurlijk mineraalwater, bedoeld in het eerste lid, bevat ten hoogste de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&bijlage=I&z=2023-01-12&g=2023-01-12) bedoelde hoeveelheden van de daar genoemde bestanddelen die van nature aanwezig zijn in mineraalwater.
 
 4. In afwijking van het eerste lid is natuurlijk mineraalwater, bestemd voor de bereiding van een als frisdrank of limonade aangeduide waar, aan de bron gebotteld of in een andere recipiënt geplaatst die niet bestemd is voor de eindverbruiker.
 
@@ -194,7 +194,7 @@ In natuurlijk mineraalwater zijn niet aantoonbaar:
 
 - c. «natuurlijk mineraalwater met toegevoegd koolzuurgas», voor mineraalwater waaraan koolzuurgas is toegevoegd dat een andere oorsprong heeft dan het watervlak of de onderaardse laag waarvan dat mineraalwater afkomstig is.
 
-2. Voor zover het mineraalwater een in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06), bedoelde behandeling heeft ondergaan, wordt de in het eerste lid bedoelde aanduiding aangevuld met: «volledig ontgast» of «gedeeltelijk ontgast».
+2. Voor zover het mineraalwater een in [artikel 4, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12), bedoelde behandeling heeft ondergaan, wordt de in het eerste lid bedoelde aanduiding aangevuld met: «volledig ontgast» of «gedeeltelijk ontgast».
 
 ##### Artikel 10
 
@@ -204,7 +204,7 @@ In natuurlijk mineraalwater zijn niet aantoonbaar:
 
 - b. de plaats waar de bron wordt geëxploiteerd, en de naam van de bron;
 
-- c. informatie over eventuele behandelingen als bedoeld in [artikel 4, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06).
+- c. informatie over eventuele behandelingen als bedoeld in [artikel 4, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12).
 
 2. Onverminderd het eerste lid, onder c, wordt bij natuurlijk mineraalwater dat behandeld is met lucht die met ozon is verrijkt, in de nabijheid van de vermelding, bedoeld in het eerste lid, onder a, de vermelding gebezigd: «dit water heeft een toegelaten behandeling ondergaan door oxidatie met lucht die met ozon is verrijkt».
 
@@ -216,7 +216,7 @@ In natuurlijk mineraalwater zijn niet aantoonbaar:
 
 ##### Artikel 11
 
-Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=10&z=2016-10-06&g=2016-10-06) uitsluitend de volgende vermeldingen gebezigd worden, met inachtneming van de daarbij vermelde criteria:
+Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=10&z=2023-01-12&g=2023-01-12) uitsluitend de volgende vermeldingen gebezigd worden, met inachtneming van de daarbij vermelde criteria:
 
 | vermelding | criteria |
 | --- | --- |
@@ -242,13 +242,13 @@ Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https:
 
 ##### Artikel 12
 
-1. De [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=10&z=2016-10-06&g=2016-10-06), met uitzondering van:
+1. De [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=3&z=2023-01-12&g=2023-01-12), en [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=10&z=2023-01-12&g=2023-01-12), met uitzondering van:
 
-- a. [artikel 3, eerste lid, onder b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=3&z=2016-10-06&g=2016-10-06); en
+- a. [artikel 3, eerste lid, onder b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=3&z=2023-01-12&g=2023-01-12); en
 
-- b. [artikel 10, eerste lid, onder a, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=10&z=2016-10-06&g=2016-10-06); zijn van overeenkomstige toepassing op bronwater.
+- b. [artikel 10, eerste lid, onder a, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=10&z=2023-01-12&g=2023-01-12); zijn van overeenkomstige toepassing op bronwater.
 
-2. Onverminderd het eerste lid voldoet bronwater aan de ter uitvoering van [richtlijn 98/83/EG](31998L0083) bij of krachtens de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338) aan drinkwater gestelde eisen.
+2. Onverminderd het eerste lid voldoet bronwater aan de ter uitvoering van [richtlijn (EU) 2020/2184](32020L2184) bij of krachtens de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338) aan drinkwater gestelde eisen.
 
 3. Bronwater dat rechtmatig in het verkeer is gebracht in een andere lid-staat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, wordt gelijkgesteld met bronwater dat is erkend op de voet van het eerste lid.
 
@@ -270,23 +270,20 @@ Ten aanzien van natuurlijk mineraalwater mogen naast die van [artikel 10](https:
 
 a. voldoet water aan de volgende microbiologische parameters:
 
-| **parameter** | **parameterwaarde** |
+| parameter | parameterwaarde |
 | --- | --- |
+| Intestinale enterokokken | afwezig in 250 ml |
 | Escherichia coli (E. Coli) | afwezig in 250 ml |
-| Enterokokken | afwezig in 250 ml |
-| Pseudomonas aeruginosa | afwezig in 250 ml |
-| Telling kolonies bij 22° C | 100/ml |
-| Telling kolonies bij 37° C | 20/ml; en |
 
 b. is de pH van niet-bruisend water ten minste 4,5 en ten hoogste 9,5, met dien verstande dat de minimumwaarde lager kan zijn voor water in flessen of verpakkingen dat van nature rijk is aan kooldioxide of kunstmatig verrijkt is met kooldioxide.
 
 ##### Artikel 14a
 
-Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2016-10-06&g=2016-10-06), worden de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
+Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2023-01-12&g=2023-01-12), worden de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn (EU) 2020/2184](32020L2184), met dien verstande dat:
 
-- a. andere dan in bijlage III, deel 1, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;
+- a. andere dan in bijlage III, deel A, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;
 
-- b. voor de in bijlage III, delen 2 en 3, van die richtlijn genoemde parameters elke methode van onderzoek mag worden gebruikt die aan de aldaar gestelde eisen voldoet.
+- b. voor de in bijlage III, deel B, van die richtlijn genoemde parameters elke methode van onderzoek mag worden gebruikt die aan de aldaar gestelde eisen voldoet.
 
 #### § 6:. slotbepalingen
 
@@ -302,11 +299,11 @@ Wijzigt het Warenwetbesluit Frisdranken.
 
 1. Dit besluit treedt in werking met ingang van 28 oktober 1998,
 
-- –. met uitzondering van [artikel 4, eerste lid, onder b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip,
+- –. met uitzondering van [artikel 4, eerste lid, onder b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12), dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip,
 
 - –. met dien verstande dat natuurlijk mineraalwater of bronwater dat voldoet aan het Natuurlijk mineraal- en bronwaterbesluit (Warenwet) zoals dat tot het in de aanhef genoemde tijdstip luidde, en dat voor dat tijdstip rechtmatig in het verkeer is gebracht of is geëtiketteerd, nog verhandeld mag worden zolang de voorraad strekt.
 
-2. Een wijziging van bijlage II en III van richtlijn 2013/51/Euratom gaat voor de toepassing van [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14b&z=2016-10-06&g=2016-10-06) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+2. Een wijziging van bijlage II en III van richtlijn 2013/51/Euratom gaat voor de toepassing van [artikel 14b](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14b&z=2023-01-12&g=2023-01-12) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 18
 
@@ -352,9 +349,9 @@ De van nature in mineraalwater aanwezige bestanddelen en hoeveelheden, bedoeld i
 
 ## Bijlage I
 
-Deze bijlage behoort bij [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2016-10-06&g=2016-10-06).
+Deze bijlage behoort bij [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2023-01-12&g=2023-01-12).
 
-De van nature in mineraalwater aanwezige bestanddelen en hoeveelheden, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2016-10-06&g=2016-10-06), zijn:
+De van nature in mineraalwater aanwezige bestanddelen en hoeveelheden, bedoeld in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=8&z=2023-01-12&g=2023-01-12), zijn:
 
 | Bestanddeel | Hoeveelheid (mg/l) |
 | --- | --- |
@@ -378,15 +375,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 14b
 
-Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2016-10-06&g=2016-10-06), voor zover het betrekking heeft op het voldoen aan de parameterwaarden voor radioactieve stoffen, wordt gecontroleerd volgens de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties.
+Bij de vaststelling of al dan niet is voldaan aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=5&artikel=14&z=2023-01-12&g=2023-01-12), voor zover het betrekking heeft op het voldoen aan de parameterwaarden voor radioactieve stoffen, wordt gecontroleerd volgens de in bijlage II en III bij richtlijn 2013/51/Euratom vastgestelde controlestrategieën en controlefrequenties.
 
 #### § 6:. slotbepalingen
 
 ## Bijlage II
 
-Deze bijlage behoort bij [artikel 4, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06).
+Deze bijlage behoort bij [artikel 4, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12).
 
-De grenswaarden voor residuen van de behandeling van natuurlijk mineraalwater met lucht die met ozon is verrijkt, bedoeld in [artikel 4, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2016-10-06&g=2016-10-06), zijn:
+De grenswaarden voor residuen van de behandeling van natuurlijk mineraalwater met lucht die met ozon is verrijkt, bedoeld in [artikel 4, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009828&paragraaf=2&artikel=4&z=2023-01-12&g=2023-01-12), zijn:
 
 | Behandelingsresidu | Grenswaarde* (μg/l) |
 | --- | --- |
