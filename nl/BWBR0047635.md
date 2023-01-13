@@ -4,7 +4,7 @@ identifier: "BWBR0047635"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-13"
-last_updated: "2023-01-01"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047635"
 soort: "AMvB"
@@ -68,8 +68,6 @@ Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen 2022.
 
 Wijzigt het Remigratiebesluit.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX. Intrekking
 
 De volgende besluiten worden ingetrokken:
@@ -82,13 +80,13 @@ De volgende besluiten worden ingetrokken:
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2023, met uitzondering van de in de volgende leden genoemde onderdelen.
 
-2. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=I&z=2023-01-01&g=2023-01-01) en [IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=IV&z=2023-01-01&g=2023-01-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=I&z=2023-01-13&g=2023-01-13) en [IV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=IV&z=2023-01-13&g=2023-01-13), treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=V&z=2023-01-01&g=2023-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, en werkt terug tot en met 1 juli 2022.
+3. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=V&z=2023-01-13&g=2023-01-13) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst, en werkt terug tot en met 1 juli 2022.
 
-4. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=VIII&z=2023-01-01&g=2023-01-01) treedt in werking met ingang van de dag vier weken na de datum van uitgifte van het Staatsblad waarin dit besluit is geplaatst.
+4. [Artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=VIII&z=2023-01-13&g=2023-01-13) treedt in werking met ingang van de dag vier weken na de datum van uitgifte van het Staatsblad waarin dit besluit is geplaatst.
 
-5. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=IX&z=2023-01-01&g=2023-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+5. [Artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0047635&artikel=IX&z=2023-01-13&g=2023-01-13) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
 ##### Artikel XI. Citeertitel
 
