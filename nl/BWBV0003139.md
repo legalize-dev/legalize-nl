@@ -4,7 +4,7 @@ identifier: "BWBV0003139"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-01-15"
-last_updated: "2020-11-04"
+last_updated: "2023-01-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003139"
 soort: "verdrag"
@@ -96,7 +96,7 @@ Voor de toepassing van dit Protocol:
 
 - 8. wordt onder „afval of andere stoffen” verstaan materialen en substanties, ongeacht hun aard, vorm of omschrijving;
 
-- 9. wordt onder „vergunning” verstaan de toestemming die van tevoren wordt verleend overeenkomstig de desbetreffende maatregelen aangenomen ingevolge [artikel 4, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2020-11-04&g=2020-11-04), of [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=8&z=2020-11-04&g=2020-11-04);
+- 9. wordt onder „vergunning” verstaan de toestemming die van tevoren wordt verleend overeenkomstig de desbetreffende maatregelen aangenomen ingevolge [artikel 4, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15), of [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=8&z=2023-01-15&g=2023-01-15);
 
 - 10. wordt onder „verontreiniging” verstaan het direct of indirect door menselijke activiteit in zee brengen van afval of andere stoffen hetgeen leidt of kan leiden tot nadelige gevolgen zoals schade aan de levende rijkdommen en de mariene ecosystemen, gevaar voor de gezondheid van de mens, belemmering van de activiteiten op zee, met inbegrip van de visvangst en ander rechtmatig gebruik van de zee, aantasting van de kwaliteit van het zeewater in verband met het gebruik ervan en vermindering van de recreatieve waarde.
 
@@ -116,11 +116,11 @@ De verdragsluitende partijen beschermen en behouden, zowel afzonderlijk als coll
 
 ##### Artikel 4. Het storten van afval of andere stoffen
 
-- .1. De verdragsluitende partijen verbieden het storten van afval of andere stoffen, met uitzondering van die welke worden genoemd in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=1&z=2020-11-04&g=2020-11-04).
+- .1. De verdragsluitende partijen verbieden het storten van afval of andere stoffen, met uitzondering van die welke worden genoemd in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=1&z=2023-01-15&g=2023-01-15).
 
-- .2. Voor het storten van afval of andere stoffen genoemd in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=1&z=2020-11-04&g=2020-11-04) is een vergunning vereist. De verdragsluitende partijen nemen administratieve of wettelijke maatregelen aan om ervoor zorg te dragen dat de verlening van vergunningen en de bijbehorende vergunningsvoorwaarden in overeenstemming zijn met de bepalingen van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=2&z=2020-11-04&g=2020-11-04). Bijzondere aandacht dient te worden besteed aan de mogelijkheden storten te voorkomen en in plaats daarvan alternatieven te benutten die uit milieu-oogpunt de voorkeur genieten.
+- .2. Voor het storten van afval of andere stoffen genoemd in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=1&z=2023-01-15&g=2023-01-15) is een vergunning vereist. De verdragsluitende partijen nemen administratieve of wettelijke maatregelen aan om ervoor zorg te dragen dat de verlening van vergunningen en de bijbehorende vergunningsvoorwaarden in overeenstemming zijn met de bepalingen van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=2&z=2023-01-15&g=2023-01-15). Bijzondere aandacht dient te worden besteed aan de mogelijkheden storten te voorkomen en in plaats daarvan alternatieven te benutten die uit milieu-oogpunt de voorkeur genieten.
 
-2. Geen enkele bepaling van dit Protocol mag worden geïnterpreteerd als beletsel voor een verdragsluitende partij om, wat haar betreft, het storten van afval of andere stoffen die in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=1&z=2020-11-04&g=2020-11-04) zijn genoemd te verbieden. De desbetreffende verdragsluitende partij stelt de Organisatie in kennis van dergelijke verbodsmaatregelen.
+2. Geen enkele bepaling van dit Protocol mag worden geïnterpreteerd als beletsel voor een verdragsluitende partij om, wat haar betreft, het storten van afval of andere stoffen die in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=1&z=2023-01-15&g=2023-01-15) zijn genoemd te verbieden. De desbetreffende verdragsluitende partij stelt de Organisatie in kennis van dergelijke verbodsmaatregelen.
 
 ##### Artikel 5. Verbranding op zee
 
@@ -142,15 +142,15 @@ Een verdragsluitende partij die een dergelijke overeenkomst sluit of regeling aa
 
 1. Onverminderd alle overige bepalingen van dit Protocol heeft dit Protocol alleen betrekking op de binnenwateren voor zover wordt bepaald in de leden 2 en 3.
 
-2. Elke verdragsluitende partij kiest naar eigen oordeel hetzij voor toepassing van de bepalingen van dit Protocol, hetzij voor aanneming van andere doeltreffende maatregelen met betrekking tot vergunningen en regulering om controle uit te oefenen op de activiteit van het zich opzettelijk ontdoen van afval of andere stoffen in mariene binnenwateren ingeval een dergelijke activiteit in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=1&z=2020-11-04&g=2020-11-04), indien deze op zee zou geschieden, „storten” of „verbranding op zee” zou inhouden.
+2. Elke verdragsluitende partij kiest naar eigen oordeel hetzij voor toepassing van de bepalingen van dit Protocol, hetzij voor aanneming van andere doeltreffende maatregelen met betrekking tot vergunningen en regulering om controle uit te oefenen op de activiteit van het zich opzettelijk ontdoen van afval of andere stoffen in mariene binnenwateren ingeval een dergelijke activiteit in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=1&z=2023-01-15&g=2023-01-15), indien deze op zee zou geschieden, „storten” of „verbranding op zee” zou inhouden.
 
 3. Elke verdragsluitende partij dient de Organisatie inlichtingen te verschaffen betreffende de wetgeving en de institutionele mechanismen met betrekking tot de uitvoering, de naleving en de handhaving van de bepalingen in mariene binnenwateren. De verdragsluitende partijen dienen zich tevens tot het uiterste in te spannen om op vrijwillige basis overzichten te leveren inzake het type en de aard van de in de mariene binnenwateren gestorte materialen.
 
 ##### Artikel 8. Uitzonderingen
 
-1. Het bepaalde in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2020-11-04&g=2020-11-04), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=5&z=2020-11-04&g=2020-11-04), is niet van toepassing wanneer het noodzakelijk is voor de veiligheid van mensenlevens of voor de veiligheid van schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee in geval van overmacht ten gevolge van noodweer of in alle andere gevallen waarin mensenlevens in gevaar zijn of een ernstige bedreiging bestaat voor schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee, mits het ernaar uitziet dat het storten in of verbranden op zee de enige oplossing is om de dreiging af te wenden en hierdoor naar alle waarschijnlijkheid de minste schade wordt veroorzaakt. Het storten of verbranden moet dan zodanig geschieden dat de gevaren voor het menselijk leven en voor de in zee voorkomende flora en fauna tot een minimum beperkt blijven. De Organisatie dient onverwijld van het storten of verbranden in kennis te worden gesteld.
+1. Het bepaalde in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=5&z=2023-01-15&g=2023-01-15), is niet van toepassing wanneer het noodzakelijk is voor de veiligheid van mensenlevens of voor de veiligheid van schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee in geval van overmacht ten gevolge van noodweer of in alle andere gevallen waarin mensenlevens in gevaar zijn of een ernstige bedreiging bestaat voor schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee, mits het ernaar uitziet dat het storten in of verbranden op zee de enige oplossing is om de dreiging af te wenden en hierdoor naar alle waarschijnlijkheid de minste schade wordt veroorzaakt. Het storten of verbranden moet dan zodanig geschieden dat de gevaren voor het menselijk leven en voor de in zee voorkomende flora en fauna tot een minimum beperkt blijven. De Organisatie dient onverwijld van het storten of verbranden in kennis te worden gesteld.
 
-2. Een verdragsluitende partij mag, in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2020-11-04&g=2020-11-04), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=5&z=2020-11-04&g=2020-11-04), een vergunning verlenen in noodgevallen die voor de menselijke gezondheid, veiligheid of voor het mariene milieu onaanvaardbare risico’s met zich brengen en waarvoor geen andere geschikte oplossing mogelijk is. Alvorens hiertoe over te gaan, raadpleegt de verdragsluitende partij ieder ander land of alle andere landen die erbij betrokken zouden kunnen zijn, alsmede de Organisatie die, na de andere verdragsluitende partijen en de daarvoor in aanmerking komende bevoegde internationale organisaties te hebben geraadpleegd, overeenkomstig [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=18&z=2020-11-04&g=2020-11-04), de verdragsluitende partij zo spoedig mogelijk aanbevelingen doen omtrent de te volgen werkwijzen die het meest geschikt zijn. De verdragsluitende partij volgt deze aanbevelingen zoveel mogelijk op, binnen de tijd waarin de nodige maatregelen moeten worden genomen, en rekening houdend met de algemene verplichting het veroorzaken van schade aan het mariene milieu te vermijden; zij stelt de Organisatie in kennis van de door haar genomen maatregelen. De verdragsluitende partijen verbinden zich ertoe elkaar in dergelijke situaties onderling bijstand te verlenen.
+2. Een verdragsluitende partij mag, in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=5&z=2023-01-15&g=2023-01-15), een vergunning verlenen in noodgevallen die voor de menselijke gezondheid, veiligheid of voor het mariene milieu onaanvaardbare risico’s met zich brengen en waarvoor geen andere geschikte oplossing mogelijk is. Alvorens hiertoe over te gaan, raadpleegt de verdragsluitende partij ieder ander land of alle andere landen die erbij betrokken zouden kunnen zijn, alsmede de Organisatie die, na de andere verdragsluitende partijen en de daarvoor in aanmerking komende bevoegde internationale organisaties te hebben geraadpleegd, overeenkomstig [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=18&z=2023-01-15&g=2023-01-15), de verdragsluitende partij zo spoedig mogelijk aanbevelingen doen omtrent de te volgen werkwijzen die het meest geschikt zijn. De verdragsluitende partij volgt deze aanbevelingen zoveel mogelijk op, binnen de tijd waarin de nodige maatregelen moeten worden genomen, en rekening houdend met de algemene verplichting het veroorzaken van schade aan het mariene milieu te vermijden; zij stelt de Organisatie in kennis van de door haar genomen maatregelen. De verdragsluitende partijen verbinden zich ertoe elkaar in dergelijke situaties onderling bijstand te verlenen.
 
 3. Iedere verdragsluitende partij kan bij de bekrachtiging van of de toetreding tot dit Protocol, of daarna, van haar in het tweede lid bedoelde rechten afzien.
 
@@ -164,13 +164,13 @@ Een verdragsluitende partij die een dergelijke overeenkomst sluit of regeling aa
 
 - .3. het afzonderlijk of in samenwerking met andere verdragsluitende partijen en de bevoegde internationale organisaties verrichten van controlemetingen betreffende de toestand van de zee ten behoeve van de uitvoering van dit Protocol.
 
-2. De bevoegde autoriteit of autoriteiten van een verdragsluitende partij verlenen vergunningen in overeenstemming met dit Protocol voor afval of andere te storten stoffen, of, zoals bepaald in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=8&z=2020-11-04&g=2020-11-04), voor verbranding op zee:
+2. De bevoegde autoriteit of autoriteiten van een verdragsluitende partij verlenen vergunningen in overeenstemming met dit Protocol voor afval of andere te storten stoffen, of, zoals bepaald in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=8&z=2023-01-15&g=2023-01-15), voor verbranding op zee:
 
 - .1. die geladen worden op haar grondgebied; en
 
 - .2. ldie geladen worden op een schip of een luchtvaartuig dat op haar grondgebied staat ingeschreven of dat haar vlag voert, wanneer het laden plaatsvindt op het grondgebied van een Staat die geen verdragsluitende partij is.
 
-3. Bij het verlenen van vergunningen handelt de bevoegde autoriteit of handelen de bevoegde autoriteiten overeenkomstig de eisen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2020-11-04&g=2020-11-04) en overeenkomstig de aanvullende criteria, maatregelen en voorwaarden die zij ter zake dienende acht, respectievelijk achten.
+3. Bij het verlenen van vergunningen handelt de bevoegde autoriteit of handelen de bevoegde autoriteiten overeenkomstig de eisen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15) en overeenkomstig de aanvullende criteria, maatregelen en voorwaarden die zij ter zake dienende acht, respectievelijk achten.
 
 4. Iedere verdragsluitende partij brengt, rechtstreeks of door tussenkomst van een bij regionale overeenkomst ingesteld secretariaat, aan de Organisatie en zo nodig aan andere verdragsluitende partijen verslag uit van:
 
@@ -244,7 +244,7 @@ Teneinde de doelstellingen van dit Protocol te bevorderen, stellen de verdragslu
 
 - .2. mariene wetenschappelijke en technische programma’s en de doelstellingen daarvan; en
 
-- .3. de resultaten van de ingevolge [artikel 9, eerste lid, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=9&z=2020-11-04&g=2020-11-04), verrichte controlemetingen en evaluaties.
+- .3. de resultaten van de ingevolge [artikel 9, eerste lid, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=9&z=2023-01-15&g=2023-01-15), verrichte controlemetingen en evaluaties.
 
 ##### Artikel 15. Verantwoordelijkheid en aansprakelijkheid
 
@@ -254,13 +254,13 @@ In overeenstemming met de beginselen van het internationale recht met betrekking
 
 1. Geschillen met betrekking tot de interpretatie of de toepassing van dit Protocol worden in eerste instantie beslecht door middel van onderhandelingen, bemiddeling of conciliatie, of andere vreedzame middelen die door de partijen bij het geschil worden gekozen.
 
-2. Indien een oplossing niet mogelijk is binnen twaalf maanden nadat een van de verdragsluitende partijen een andere verdragsluitende partij in kennis heeft gesteld van het feit dat er een geschil tussen hen bestaat, wordt het geschil, op verzoek van een partij bij het geschil, beslecht door middel van de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2020-11-04&g=2020-11-04) bedoelde arbitrageprocedure, tenzij de partijen bij het geschil overeenkomen een van de procedures te gebruiken die worden genoemd in [artikel 287, eerste lid, van het Verdrag van de Verenigde Naties inzake het recht van de zee, 1982](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287). De partijen bij het geschil kunnen hiertoe besluiten ongeacht het feit of zij al dan niet eveneens Staten zijn die partij zijn bij het [Verdrag van de Verenigde Naties inzake het recht van de zee, 1982](https://wetten.overheid.nl/jci1.3:c:BWBV0003172).
+2. Indien een oplossing niet mogelijk is binnen twaalf maanden nadat een van de verdragsluitende partijen een andere verdragsluitende partij in kennis heeft gesteld van het feit dat er een geschil tussen hen bestaat, wordt het geschil, op verzoek van een partij bij het geschil, beslecht door middel van de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2023-01-15&g=2023-01-15) bedoelde arbitrageprocedure, tenzij de partijen bij het geschil overeenkomen een van de procedures te gebruiken die worden genoemd in [artikel 287, eerste lid, van het Verdrag van de Verenigde Naties inzake het recht van de zee, 1982](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287). De partijen bij het geschil kunnen hiertoe besluiten ongeacht het feit of zij al dan niet eveneens Staten zijn die partij zijn bij het [Verdrag van de Verenigde Naties inzake het recht van de zee, 1982](https://wetten.overheid.nl/jci1.3:c:BWBV0003172).
 
 3. Indien overeenstemming wordt bereikt over het gebruik van een van de procedures genoemd in [artikel 287, eerste lid, van het Verdrag van de Verenigde Naties inzake het recht van de zee van 1982](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287), zijn de bepalingen genoemd in [Deel XV van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XV) die betrekking hebben op de gekozen procedure **mutatis mutandis** eveneens van toepassing.
 
 4. Het in het tweede lid bedoelde tijdsbestek van twaalf maanden kan met twaalf maanden worden verlengd indien de betrokken partijen daartoe gezamenlijk overeenkomen.
 
-5. Niettegenstaande het bepaalde in het tweede lid kan elke Staat, op het moment dat hij tot uitdrukking brengt ermee in te stemmen door dit Protocol te worden gebonden, de Secretaris-Generaal ervan in kennis stellen dat, indien hij een partij is bij een geschil betreffende de interpretatie of toepassing van [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=3&z=2020-11-04&g=2020-11-04), zijn instemming vereist is voordat het geschil beslecht kan worden door middel van de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2020-11-04&g=2020-11-04) bedoelde arbitrageprocedure.
+5. Niettegenstaande het bepaalde in het tweede lid kan elke Staat, op het moment dat hij tot uitdrukking brengt ermee in te stemmen door dit Protocol te worden gebonden, de Secretaris-Generaal ervan in kennis stellen dat, indien hij een partij is bij een geschil betreffende de interpretatie of toepassing van [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=3&z=2023-01-15&g=2023-01-15), zijn instemming vereist is voordat het geschil beslecht kan worden door middel van de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2023-01-15&g=2023-01-15) bedoelde arbitrageprocedure.
 
 ##### Artikel 17. Internationale samenwerking
 
@@ -270,7 +270,7 @@ De verdragsluitende partijen bevorderen de doelstellingen van dit Protocol binne
 
 1. Tijdens Vergaderingen of Bijzondere Vergaderingen wordt de uitvoering van dit Protocol door de verdragsluitende partijen voortdurend getoetst en de doeltreffendheid ervan geëvalueerd teneinde de middelen vast te stellen om maatregelen aan te scherpen, indien nodig, ter voorkoming, vermindering en, voor zover praktisch uitvoerbaar, beëindiging van verontreiniging veroorzaakt door het storten in of verbranding op zee van afval of andere stoffen. Hiertoe kunnen de verdragsluitende partijen tijdens hun Vergaderingen of Bijzondere Vergaderingen met name:
 
-- .1. wijzigingen van dit Protocol bestuderen en aannemen in overeenstemming met de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=21&z=2020-11-04&g=2020-11-04) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=22&z=2020-11-04&g=2020-11-04);
+- .1. wijzigingen van dit Protocol bestuderen en aannemen in overeenstemming met de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=21&z=2023-01-15&g=2023-01-15) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=22&z=2023-01-15&g=2023-01-15);
 
 - .2. naar behoefte ondergeschikte organen in het leven roepen belast met de bestudering van alle aangelegenheden ter bevordering van de doeltreffende uitvoering van dit Protocol;
 
@@ -278,9 +278,9 @@ De verdragsluitende partijen bevorderen de doelstellingen van dit Protocol binne
 
 - .4. de samenwerking bevorderen met bevoegde internationale organisaties die betrokken zijn bij de voorkoming en de beheersing van verontreiniging;
 
-- .5. de informatie bestuderen die ingevolge [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=9&z=2020-11-04&g=2020-11-04), wordt verstrekt;
+- .5. de informatie bestuderen die ingevolge [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=9&z=2023-01-15&g=2023-01-15), wordt verstrekt;
 
-- .6. in overleg met de bevoegde internationale organisaties de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=8&z=2020-11-04&g=2020-11-04), bedoelde procedures ontwikkelen of aannemen, met inbegrip van basiscriteria voor de vaststelling van uitzonderlijke en noodsituaties, en procedures voor consultatief advies en de veilige verwijdering van stoffen op zee in dergelijke gevallen;
+- .6. in overleg met de bevoegde internationale organisaties de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=8&z=2023-01-15&g=2023-01-15), bedoelde procedures ontwikkelen of aannemen, met inbegrip van basiscriteria voor de vaststelling van uitzonderlijke en noodsituaties, en procedures voor consultatief advies en de veilige verwijdering van stoffen op zee in dergelijke gevallen;
 
 - .7. resoluties bestuderen en aannemen; en
 
@@ -300,13 +300,13 @@ De verdragsluitende partijen bevorderen de doelstellingen van dit Protocol binne
 
 - .3. het in behandeling nemen van verzoeken en informatie van verdragsluitende partijen, het met hen en de bevoegde internationale organisaties overleg plegen, alsmede het doen van aanbevelingen aan de verdragsluitende partijen in aangelegenheden die betrekking hebben op dit Protocol, maar waar dit Protocol niet specifiek op doelt;
 
-- .4. in overleg met de verdragsluitende partijen en de bevoegde internationale organisaties, het voorbereiden van en het helpen bij de ontwikkeling en uitvoering van de in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=18&z=2020-11-04&g=2020-11-04), bedoelde procedures;
+- .4. in overleg met de verdragsluitende partijen en de bevoegde internationale organisaties, het voorbereiden van en het helpen bij de ontwikkeling en uitvoering van de in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=18&z=2023-01-15&g=2023-01-15), bedoelde procedures;
 
 - .5. het bekendmaken aan de betrokken verdragsluitende partijen van alle kennisgevingen die door de Organisatie in overeenstemming met dit Protocol worden ontvangen; en
 
 - .6. het voorbereiden, elke twee jaar, van een begroting en een financieel overzicht ten behoeve van de administratieve uitvoering van dit Protocol, die aan alle verdragsluitende partijen worden toegezonden.
 
-3. In aanvulling op de in [artikel 13, tweede lid, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=13&z=2020-11-04&g=2020-11-04), genoemde taken heeft de Organisatie als taak, mits hiervoor voldoende middelen beschikbaar zijn:
+3. In aanvulling op de in [artikel 13, tweede lid, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=13&z=2023-01-15&g=2023-01-15), genoemde taken heeft de Organisatie als taak, mits hiervoor voldoende middelen beschikbaar zijn:
 
 - .1. mee te werken aan beoordelingen van de toestand van het mariene milieu; en
 
@@ -332,7 +332,7 @@ De Bijlagen bij dit Protocol vormen een integrerend onderdeel van dit Protocol.
 
 1. Elke verdragsluitende partij kan voorstellen doen voor wijziging van de Bijlagen bij dit Protocol. De tekst van een voorgestelde wijziging wordt ten minste zes maanden voorafgaand aan de behandeling ervan tijdens een Vergadering of een Bijzondere Vergadering van de verdragsluitende partijen door de Organisatie bekendgemaakt aan de verdragsluitende partijen.
 
-2. Wijzigingen van de Bijlagen, behoudens van [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2020-11-04&g=2020-11-04), dienen gebaseerd te zijn op wetenschappelijke of technische overwegingen en in de wijzigingen kan, naar gelang van hetgeen van toepassing is, rekening worden gehouden met juridische, sociale en economische factoren. Deze wijzigingen worden aangenomen met een twee derde meerderheid van de verdragsluitende partijen die aanwezig zijn en hun stem uitbrengen tijdens de voor dit doel aangewezen Vergadering of Bijzondere Vergadering van de verdragsluitende partijen.
+2. Wijzigingen van de Bijlagen, behoudens van [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2023-01-15&g=2023-01-15), dienen gebaseerd te zijn op wetenschappelijke of technische overwegingen en in de wijzigingen kan, naar gelang van hetgeen van toepassing is, rekening worden gehouden met juridische, sociale en economische factoren. Deze wijzigingen worden aangenomen met een twee derde meerderheid van de verdragsluitende partijen die aanwezig zijn en hun stem uitbrengen tijdens de voor dit doel aangewezen Vergadering of Bijzondere Vergadering van de verdragsluitende partijen.
 
 3. De Organisatie stelt de verdragsluitende partijen onverwijld in kennis van de wijzigingen van de Bijlagen die zijn aangenomen tijdens een Vergadering of Bijzondere Vergadering van de verdragsluitende partijen.
 
@@ -342,7 +342,7 @@ De Bijlagen bij dit Protocol vormen een integrerend onderdeel van dit Protocol.
 
 6. Een nieuwe Bijlage of een wijziging van een Bijlage die betrekking heeft op een wijziging van de artikelen van dit Protocol wordt niet van kracht voordat de wijziging van de artikelen van dit Protocol van kracht wordt.
 
-7. Ten aanzien van wijzigingen van [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2020-11-04&g=2020-11-04) betreffende de Arbitrageprocedure en ten aanzien van de aanneming en het van kracht worden van nieuwe Bijlagen zijn de procedures voor de wijziging van de artikelen van dit Protocol van toepassing.
+7. Ten aanzien van wijzigingen van [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2023-01-15&g=2023-01-15) betreffende de Arbitrageprocedure en ten aanzien van de aanneming en het van kracht worden van nieuwe Bijlagen zijn de procedures voor de wijziging van de artikelen van dit Protocol van toepassing.
 
 ##### Artikel 23. Verhouding tussen het Protocol en het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001013)
 
@@ -366,11 +366,11 @@ Dit Protocol vervangt het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001
 
 1. Dit Protocol treedt in werking op de dertigste dag volgende op de datum waarop:
 
-- .1. ten minste zesentwintig Staten tot uitdrukking hebben gebracht ermee in te stemmen door dit Protocol te worden gebonden overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=24&z=2020-11-04&g=2020-11-04); en
+- .1. ten minste zesentwintig Staten tot uitdrukking hebben gebracht ermee in te stemmen door dit Protocol te worden gebonden overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=24&z=2023-01-15&g=2023-01-15); en
 
 - .2. ten minste vijftien van de Staten bedoeld in het eerste lid, onder 1, verdragsluitende partijen zijn bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001013).
 
-2. Ten aanzien van elke Staat die tot uitdrukking heeft gebracht ermee in te stemmen door dit Protocol te worden gebonden overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=24&z=2020-11-04&g=2020-11-04), na de in het eerste lid bedoelde datum, treedt dit Protocol in werking op de dertigste dag na de datum waarop de desbetreffende Staat zijn instemming tot uitdrukking heeft gebracht door dit Protocol te worden gebonden.
+2. Ten aanzien van elke Staat die tot uitdrukking heeft gebracht ermee in te stemmen door dit Protocol te worden gebonden overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=24&z=2023-01-15&g=2023-01-15), na de in het eerste lid bedoelde datum, treedt dit Protocol in werking op de dertigste dag na de datum waarop de desbetreffende Staat zijn instemming tot uitdrukking heeft gebracht door dit Protocol te worden gebonden.
 
 ##### Artikel 26. Overgangsperiode
 
@@ -378,13 +378,13 @@ Dit Protocol vervangt het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001
 
 2. Geen enkele ingevolge het eerste lid gedane kennisgeving doet afbreuk aan de verplichtingen van een verdragsluitende partij bij dit Protocol ten aanzien van de verbranding op zee of het storten in zee van radioactief afval of andere radioactieve stoffen.
 
-3. Iedere verdragsluitende partij die de Secretaris-Generaal ingevolge het eerste lid kennisgeving heeft gedaan dat zij voor de aangegeven overgangsperiode geheel of ten dele niet in staat is de bepalingen van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2020-11-04&g=2020-11-04) of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=9&z=2020-11-04&g=2020-11-04) na te leven, verbiedt gedurende deze periode niettemin het storten van afval of andere stoffen waarvoor zij geen vergunning heeft afgegeven, doet haar best om administratieve of wettelijke maatregelen aan te nemen om ervoor zorg te dragen dat de verlening van vergunningen en de daarbij geldende voorwaarden in overeenstemming zijn met de bepalingen van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=2&z=2020-11-04&g=2020-11-04), en doet de Secretaris-Generaal kennisgeving van alle verleende vergunningen.
+3. Iedere verdragsluitende partij die de Secretaris-Generaal ingevolge het eerste lid kennisgeving heeft gedaan dat zij voor de aangegeven overgangsperiode geheel of ten dele niet in staat is de bepalingen van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15) of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=9&z=2023-01-15&g=2023-01-15) na te leven, verbiedt gedurende deze periode niettemin het storten van afval of andere stoffen waarvoor zij geen vergunning heeft afgegeven, doet haar best om administratieve of wettelijke maatregelen aan te nemen om ervoor zorg te dragen dat de verlening van vergunningen en de daarbij geldende voorwaarden in overeenstemming zijn met de bepalingen van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=2&z=2023-01-15&g=2023-01-15), en doet de Secretaris-Generaal kennisgeving van alle verleende vergunningen.
 
 4. Iedere overgangsperiode aangegeven in een kennisgeving ingevolge het eerste lid, mag niet langer zijn dan een termijn van vijf jaar na indiening van deze kennisgeving.
 
-5. De verdragsluitende partijen die een kennisgeving ingevolge het eerste lid hebben gedaan, leggen aan de eerste Vergadering van de verdragsluitende partijen die plaatsvindt na de nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding een programma en tijdschema voor ter volledige naleving van dit Protocol, tezamen met eventuele verzoeken om relevante technische samenwerking en bijstand overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=13&z=2020-11-04&g=2020-11-04) van dit Protocol.
+5. De verdragsluitende partijen die een kennisgeving ingevolge het eerste lid hebben gedaan, leggen aan de eerste Vergadering van de verdragsluitende partijen die plaatsvindt na de nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding een programma en tijdschema voor ter volledige naleving van dit Protocol, tezamen met eventuele verzoeken om relevante technische samenwerking en bijstand overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=13&z=2023-01-15&g=2023-01-15) van dit Protocol.
 
-6. De verdragsluitende partijen die een kennisgeving ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=1&z=2020-11-04&g=2020-11-04) hebben gedaan, stellen voor de overgangsperiode procedures op en mechanismen in voor de uitvoering van en controle op de voorgelegde programma’s gericht op de volledige naleving van dit Protocol. De desbetreffende verdragsluitende partijen leggen een verslag betreffende de voortgang in de naleving van deze programma’s voor aan elke Vergadering van verdragsluitende partijen die wordt gehouden gedurende de desbetreffende overgangsperiode, teneinde de nodige maatregelen te treffen.
+6. De verdragsluitende partijen die een kennisgeving ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=1&z=2023-01-15&g=2023-01-15) hebben gedaan, stellen voor de overgangsperiode procedures op en mechanismen in voor de uitvoering van en controle op de voorgelegde programma’s gericht op de volledige naleving van dit Protocol. De desbetreffende verdragsluitende partijen leggen een verslag betreffende de voortgang in de naleving van deze programma’s voor aan elke Vergadering van verdragsluitende partijen die wordt gehouden gedurende de desbetreffende overgangsperiode, teneinde de nodige maatregelen te treffen.
 
 ##### Artikel 27. Opzegging
 
@@ -398,7 +398,7 @@ Dit Protocol vervangt het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001
 
 1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal.
 
-2. Naast de in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=10&z=2020-11-04&g=2020-11-04), [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=16&z=2020-11-04&g=2020-11-04), [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=21&z=2020-11-04&g=2020-11-04), [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=22&z=2020-11-04&g=2020-11-04) en [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=26&z=2020-11-04&g=2020-11-04), aangegeven taken, is het de taak van de Secretaris-Generaal:
+2. Naast de in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=10&z=2023-01-15&g=2023-01-15), [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=16&z=2023-01-15&g=2023-01-15), [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=21&z=2023-01-15&g=2023-01-15), [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=22&z=2023-01-15&g=2023-01-15) en [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=26&z=2023-01-15&g=2023-01-15), aangegeven taken, is het de taak van de Secretaris-Generaal:
 
 - .1. alle Staten voor welke dit Protocol is ondertekend of die hiertoe zijn toegetreden kennisgeving te doen van:
 
@@ -418,7 +418,7 @@ Dit Protocol is opgesteld in een enkel origineel in de Arabische, Chinese, Engel
 
 ##### Artikel 1
 
-1. Een Scheidsgerecht (hierna te noemen „het Scheidsgerecht”) wordt ingesteld wanneer een verdragsluitende partij hiertoe een verzoek indient bij een andere verdragsluitende partij overeenkomstig [artikel 16 van dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=16&z=2020-11-04&g=2020-11-04). Het verzoek om arbitrage bestaat uit een uiteenzetting van het desbetreffende geval met eventuele documenten ter adstructie.
+1. Een Scheidsgerecht (hierna te noemen „het Scheidsgerecht”) wordt ingesteld wanneer een verdragsluitende partij hiertoe een verzoek indient bij een andere verdragsluitende partij overeenkomstig [artikel 16 van dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=16&z=2023-01-15&g=2023-01-15). Het verzoek om arbitrage bestaat uit een uiteenzetting van het desbetreffende geval met eventuele documenten ter adstructie.
 
 2. De verzoekende verdragsluitende partij doet de Secretaris-Generaal mededeling van:
 
@@ -436,7 +436,7 @@ Dit Protocol is opgesteld in een enkel origineel in de Arabische, Chinese, Engel
 
 ##### Artikel 3
 
-1. Indien de partijen bij een geschil geen overeenstemming bereiken ten aanzien van een Scheidsgerecht overeenkomstig het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&artikel=2&z=2020-11-04&g=2020-11-04) van deze Bijlage, zal het Scheidsgerecht bestaan uit drie leden:
+1. Indien de partijen bij een geschil geen overeenstemming bereiken ten aanzien van een Scheidsgerecht overeenkomstig het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&artikel=2&z=2023-01-15&g=2023-01-15) van deze Bijlage, zal het Scheidsgerecht bestaan uit drie leden:
 
 - .1. een scheidsman benoemd door iedere partij bij het geschil; en
 
@@ -460,7 +460,7 @@ Iedere partij bij het geschil draagt de kosten die zijn verbonden aan de voorber
 
 ##### Artikel 6
 
-Iedere verdragsluitende partij die een belang van juridische aard heeft, welk belang zou kunnen worden getroffen door het ter zake te nemen besluit, kan nadat zij schriftelijk mededeling heeft gedaan aan de partijen bij het geschil die de zaak oorspronkelijk aanhangig hebben gemaakt, met goedvinden van het Scheidsgerecht en op haar eigen kosten tot de arbitrageprocedure worden toegelaten. De aldus tussengekomen verdragsluitende partij heeft het recht om, overeenkomstig de ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&artikel=7&z=2020-11-04&g=2020-11-04) van deze Bijlage vastgestelde procedures, bewijsmateriaal te leveren en schriftelijke en mondelinge uiteenzettingen te geven over zaken welke tot haar tussenkomst hebben geleid, doch heeft geen rechten met betrekking tot de samenstelling van het Scheidsgerecht.
+Iedere verdragsluitende partij die een belang van juridische aard heeft, welk belang zou kunnen worden getroffen door het ter zake te nemen besluit, kan nadat zij schriftelijk mededeling heeft gedaan aan de partijen bij het geschil die de zaak oorspronkelijk aanhangig hebben gemaakt, met goedvinden van het Scheidsgerecht en op haar eigen kosten tot de arbitrageprocedure worden toegelaten. De aldus tussengekomen verdragsluitende partij heeft het recht om, overeenkomstig de ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&artikel=7&z=2023-01-15&g=2023-01-15) van deze Bijlage vastgestelde procedures, bewijsmateriaal te leveren en schriftelijke en mondelinge uiteenzettingen te geven over zaken welke tot haar tussenkomst hebben geleid, doch heeft geen rechten met betrekking tot de samenstelling van het Scheidsgerecht.
 
 ##### Artikel 7
 
