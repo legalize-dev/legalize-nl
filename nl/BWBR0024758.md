@@ -4,7 +4,7 @@ identifier: "BWBR0024758"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2022-12-03"
+last_updated: "2023-01-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024758"
 soort: "ministeriele-regeling"
@@ -50,7 +50,9 @@ In deze regeling wordt verstaan onder:
 
 - a. **de wet:** de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
 
-- b. **zorginstelling:** instelling als bedoeld in [artikel 1, eerste lid, onder f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), die beschikt over een eigen of gecontracteerde hygiënische dienst.
+- b. **zorginstelling:** instelling als bedoeld in [artikel 1, eerste lid, onder f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), die beschikt over een eigen of gecontracteerde hygiënische dienst;
+
+- c. **Verordening 2021/953:** [Verordening (EU) nr. 2021/953](32853R2021) van het Europees parlement en de Raad van 14 juni 2021 betreffende een kader voor de afgifte, verificatie en aanvaarding van interoperabele COVID-19-vaccinatie-, test- en herstelcertificaten (digitaal EU-COVID-certificaat) teneinde het vrije verkeer tijdens de COVID-19-pandemie te faciliteren (PbEU 2021, L 211/1).
 
 ### Hoofdstuk II. Infectieziektebestrijding
 
@@ -60,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor de meldingsplicht van de arts op grond van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), gelden voor de hieronder genoemde infectieziekten de volgende voorwaarden:
 
-- a. pest, tuberculose en infectieziekten behorende tot groep B2 en groep C: de vaststelling wordt op normale werktijden binnen 24 uur gemeld,
+- a. mpox, behorende tot groep B1, en pest, tuberculose en infectieziekten behorende tot groep B2 en groep C: de vaststelling wordt op normale werktijden binnen 24 uur gemeld,
 
 - b. hepatitis B: de vaststelling van chronisch dragerschap wordt alleen gemeld als de infectie voor de eerste keer wordt vastgesteld,
 
@@ -74,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 2. Voor de meldingsplicht van de arts op grond van [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), geldt voor het Middle East respiratory syndrome coronavirus (MERS-CoV) het volgende: de meldingsplicht wordt beperkt tot de vaststelling van een infectie bij een persoon, die op grond van de ernst van dit ziektebeeld is opgenomen in een ziekenhuis, door de behandelend arts van het ziekenhuis.
 
-3. Voor de meldingsplicht van de arts op grond van [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), geldt bij covid-19 dat alleen een door het laboratorium bevestigde infectie bij een persoon hoeft te worden gemeld.
+3. Voor de meldingsplicht van de arts op grond van [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), geldt bij covid-19 dat alleen een door het laboratorium of een door een snelle antigeentest als bedoeld in artikel 3, eerste lid, onderdeel b, van [Verordening (EU) 2021/953](32853R2021) bevestigde infectie bij een persoon hoeft te worden gemeld.
 
 ##### Artikel 3
 
@@ -138,7 +140,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 - –. 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.
 
-3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2022-07-01&g=2022-12-03), bedraagt € 118,14.
+3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2023-01-20&g=2023-01-20), bedraagt € 118,14.
 
 4. De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 29,53 per kwartier.
 
@@ -162,7 +164,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 ##### Artikel 11
 
-De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2022-07-01&g=2022-12-03), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
+De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2023-01-20&g=2023-01-20), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
 
 ##### Artikel 12
 
@@ -172,7 +174,7 @@ De inenting van personen tegen gele koorts geschiedt uitsluitend met een door de
 
 Het internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezondheidsregeling, van inenting tegen gele koorts dient:
 
-- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2022-07-01&g=2022-12-03), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
+- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2023-01-20&g=2023-01-20), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
 
 - b. volledig te zijn ingevuld in de Engelse of Franse taal,
 
@@ -204,7 +206,7 @@ Deze regeling treedt in werking met ingang van 1 december 2008.
 
 Deze regeling wordt aangehaald als: Regeling publieke gezondheid.
 
-## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2022-07-01&g=2022-12-03) van de Regeling publieke gezondheid
+## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2023-01-20&g=2023-01-20) van de Regeling publieke gezondheid
 
 ### Programma van eisen sanitaire controle van schepen
 
