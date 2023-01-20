@@ -1,0 +1,41 @@
+---
+title: "Besluit van het Fonds voor Cultuurparticipatie, zoals vastgesteld door de directeur-bestuurder op 1 september 2022, strekkende tot bekendmaking van de wijze waarop bezwaarschriften, klachten alsook verzoeken in het kader van de Wet open overheid en de Algemene verordening gegevensbescherming kunnen worden ingediend"
+identifier: "BWBR0047789"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-01-20"
+last_updated: "2023-01-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047789"
+soort: "zbo"
+stam_id: "16648783"
+version_id: "29202752"
+internal_id: "C41496951"
+label_id: "16566654"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047789/2023-01-20/0"
+intitule_bron: "Stcrt.2023-1505"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-09-01"
+intitule_published: "2023-01-20"
+intitule_in_force: "2023-01-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-1505"
+original_signed_date: "2022-09-01"
+original_published_date: "2023-01-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-1505"
+entry_into_force_date: "2023-01-20"
+jci_1_3: "jci1.3:c:BWBR0047789&z=2023-01-20&g=2023-01-20"
+jci_1_0: "1.0:c:BWBR0047789&g=2023-01-20"
+citeertitel_status: "redactioneel"
+short_title: "Besluit bekendmaking wijze indienen bezwaarschriften, klachten en verzoeken in het kader van de Wet open overheid en de Algemene verordening gegevensbescherming"
+signed_date: "2022-09-01"
+entry_into_force: "2023-01-20"
+---
+# Besluit van het Fonds voor Cultuurparticipatie, zoals vastgesteld door de directeur-bestuurder op 1 september 2022, strekkende tot bekendmaking van de wijze waarop bezwaarschriften, klachten alsook verzoeken in het kader van de Wet open overheid en de Algemene verordening gegevensbescherming kunnen worden ingediend
+
+De directeur-bestuurder van het Fonds voor Cultuurparticipatie besluit:
+
+Definities:
