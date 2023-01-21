@@ -4,7 +4,7 @@ identifier: "BWBR0035560"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-21"
-last_updated: "2022-12-21"
+last_updated: "2023-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035560"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 - **metrologische instantie:** de door de Minister van Volksgezondheid, Welzijn en Sport aangewezen rechtspersoon;
 
-- **gedistilleerde drank:** drank als bedoeld in artikel 2, eerste lid, van verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad van 15 januari 2008 betreffende de definitie, de aanduiding, de presentatie, de etikettering en de bescherming van geografische aanduidingen van gedistilleerde dranken en tot intrekking van Verordening (EG) nr. 1576/89 van de Raad (PbEU 2008, L 39);
+- **gedistilleerde drank**: drank als bedoeld in artikel 2 van [verordening (EU) 2019/787](32687R2019) van het Europees Parlement en de Raad van 17 april 2019 betreffende de definitie, omschrijving, presentatie en etikettering van gedistilleerde dranken, het gebruik van de namen van gedistilleerde dranken in de presentatie en etikettering van andere levensmiddelen en de bescherming van geografische aanduidingen van gedistilleerde dranken, het gebruik van ethylalcohol en distillaten uit landbouwproducten in alcoholhoudende dranken, en tot intrekking van [Verordening (EG) nr. 110/2008](32008R0110) (PbEU 2019, L 130);
 
 - **in de handel brengen:** voor het eerst tegen vergoeding of gratis in Nederland, een andere lidstaat van de Europese Unie, of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot de douane-unie strekkend Verdrag, dan wel een staat die partij is bij een tot een vrijhandelszone strekken Verdrag dat Nederland bindt een voorverpakking met daarop een ℮-teken of gedistilleerde drank ter beschikking te stellen met het oog op distributie ervan;
 
@@ -86,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 1. Het is verboden voorverpakkingen in de handel te brengen anders dan met inachtneming van de bij dit besluit gestelde voorschriften.
 
-2. Het is verboden gedistilleerde drank in een voorverpakking in de handel te brengen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=4&artikel=12&z=2022-12-21&g=2022-12-21).
+2. Het is verboden gedistilleerde drank in een voorverpakking in de handel te brengen anders dan met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=4&artikel=12&z=2023-01-21&g=2023-01-21).
 
 #### § 2. Voorverpakkingen met een ℮-teken
 
@@ -116,17 +116,17 @@ Een geregeld meetinstrument als bedoeld in de [Metrologiewet](https://wetten.ove
 
 2. Een verklaring als bedoeld in het eerste lid wordt afgegeven als voldaan is aan bijlage I, punt 4, zesde alinea, van [Richtlijn 76/211/EEG](31976L0211). Voordat de verklaring wordt afgegeven wordt de metrologische instantie gehoord.
 
-3. Indien een importeur gebruik maakt van een bedrijfscontrolesysteem is [artikel 5, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=5&z=2022-12-21&g=2022-12-21), van overeenkomstige toepassing op de erkenning van het bedrijfscontrolesysteem.
+3. Indien een importeur gebruik maakt van een bedrijfscontrolesysteem is [artikel 5, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=5&z=2023-01-21&g=2023-01-21), van overeenkomstige toepassing op de erkenning van het bedrijfscontrolesysteem.
 
 ##### Artikel 7
 
-1. De aanvrager is aan Onze Minister een retributie verschuldigd voor elke ingediende aanvraag voor en afgifte van een voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en voor de aanvraag voor en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2022-12-21&g=2022-12-21).
+1. De aanvrager is aan Onze Minister een retributie verschuldigd voor elke ingediende aanvraag voor en afgifte van een voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en voor de aanvraag voor en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2023-01-21&g=2023-01-21).
 
-2. Onze Minister stelt ter uitvoering van het eerste lid nadere regels. Deze regels hebben in elk geval betrekking op de hoogte van de retributies voor de voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2022-12-21&g=2022-12-21).
+2. Onze Minister stelt ter uitvoering van het eerste lid nadere regels. Deze regels hebben in elk geval betrekking op de hoogte van de retributies voor de voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2023-01-21&g=2023-01-21).
 
 ##### Artikel 8
 
-De voorlopige of definitieve erkenning van een bedrijfscontrolesysteem, of een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2022-12-21&g=2022-12-21), kan door Onze Minister worden ingetrokken indien:
+De voorlopige of definitieve erkenning van een bedrijfscontrolesysteem, of een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2023-01-21&g=2023-01-21), kan door Onze Minister worden ingetrokken indien:
 
 - a. het betrokken vulbedrijf of de importeur geen medewerking verleent aan ambtenaren of personen in dienst van een privaatrechtelijke rechtspersoon die op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25) onderscheidenlijk [25a van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25a) zijn belast met het toezicht op de naleving van dit besluit;
 
