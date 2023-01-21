@@ -4,7 +4,7 @@ identifier: "BWBR0009499"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2023-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009499"
 soort: "AMvB"
@@ -52,27 +52,13 @@ In dit besluit wordt verstaan onder:
 
 - a. **druiven:** vruchten van Vitis Vinifera L;
 
-- b. **verordening (EG) 110/2008:** verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad van 15 januari 2008 betreffende de definitie, de aanduiding, de presentatie, de etikettering en de bescherming van geografische aanduidingen van gedistilleerde dranken en tot intrekking van verordening (EG) nr. 1576/89 van de Raad (PbEU 2008, L 39);
+- b. **verordening (EU) 2019/787:** [Verordening (EU) 2019/787](32687R2019) van het Europees Parlement en de Raad van 17 april 2019 betreffende de definitie, omschrijving, presentatie en etikettering van gedistilleerde dranken, het gebruik van de namen van gedistilleerde dranken in de presentatie en etikettering van andere levensmiddelen en de bescherming van geografische aanduidingen van gedistilleerde dranken, het gebruik van ethylalcohol en distillaten uit landbouwproducten in alcoholhoudende dranken, en tot intrekking van [Verordening (EG) nr. 110/2008](32008R0110) (PbEU 2019 L 130);
 
-- c. **ethylalcohol uit landbouwproducten:** ethylalcohol met de in bijlage I, onder 1, van verordening (EG) 110/2008 genoemde eigenschappen;
+- c. **ethylalcohol uit landbouwproducten:** een vloeistof met de in artikel 5 van [verordening (EU) 2019/787](32687R2019) genoemde vereisten;
 
 - d. **verordening (EEG) 2658/87:** verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG 1987, L 256);
 
-- e. **gedistilleerde drank:** een alcoholhoudende drank: met dien verstande dat dranken die vallen onder de GN-codes 2203, 2204, 2205, 2206 en 2207 van verordening (EEG) 2658/87 niet als gedistilleerde dranken worden beschouwd.
-
-- 1°. bestemd voor menselijke consumptie;
-
-- 2°. met bijzondere organoleptische kenmerken en, uitgezonderd de producten eierlikeur en advocaat, zoals vermeld in categorie 41 van Bijlage II van verordening (EG) 110/2008 met een minimum-alcoholgehalte van 14 procent vol, een minimum-alcoholgehalte van 15 procent vol bevattend;
-
-- 3°. is geproduceerd:
-
-- –. hetzij rechtstreeks conform artikel 2, eerste lid, onderdeel d, onder i van verordening (EG) 110/2008;
-
-- –. hetzij door vermenging van een gedistilleerde drank conform artikel 2, eerste lid, onderdeel d, onder ii van verordening (EG) 110/2008;
-
-- –. hetzij door vermenging van ethylalcohol uit landbouwproducten met water; en
-
-- 4°. waarvoor in geval van gebruik of verbruik hier te lande alcoholaccijns verschuldigd is;
+- e. **gedistilleerde drank:** drank als bedoeld in artikel 2 van [verordening (EU) 2019/787](32687R2019);
 
 - f. **moutwijn:** granen eau-de-vie of granendistillaat zoals omschreven in verordening (EG) 110/2008, bereid door distillatie met een alcoholpercentage van ten minste 46% vol en ten hoogste 48% vol;
 
@@ -140,7 +126,7 @@ Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vastste
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2021-07-01&g=2021-07-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2021-07-01&g=2021-07-01), die in werking treden met ingang van 1 mei 1998.
+Dit besluit treedt in werking met ingang van 1 april 1998, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=6&z=2023-01-21&g=2023-01-21) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7&z=2023-01-21&g=2023-01-21), die in werking treden met ingang van 1 mei 1998.
 
 ##### Artikel 10
 
@@ -166,7 +152,7 @@ De aanduiding **bier** mag uitsluitend worden gebezigd voor een drinkwaar verkre
 
 waaraan mogen zijn toegevoegd:
 
-- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2021-07-01&g=2021-07-01);
+- –. vruchten of vruchtensappen en aroma’s, met dien verstande dat het gebruik van deze ingrediënten uitsluitend is toegestaan voor de bereiding van andere bieren dan bieren van het type pils als bedoeld in [artikel 7f](https://wetten.overheid.nl/jci1.3:c:BWBR0009499&artikel=7f&z=2023-01-21&g=2023-01-21);
 
 - –. technische hulpstoffen;
 
@@ -210,11 +196,11 @@ De aanduiding **korenwijn** mag uitsluitend worden gebezigd voor een gedistillee
 
 ##### Artikel 7i
 
-De aanduiding **advocaat** mag uitsluitend worden gebezigd voor een gedistilleerde drank die voldoet aan punt 41 van bijlage II van Verordening (EG) 110/2008 en die:
+De aanduiding **advocaat** mag uitsluitend worden gebezigd voor een gedistilleerde drank die voldoet aan categorie 39 van bijlage I van [verordening (EU) 2019/787](32687R2019) en die:
 
 - a. geel van kleur is;
 
-- b. een alcohol-, suiker- en zuiver eigeelgehalte heeft in overeenstemming met bijlage II van verordening (EG) 110/2008;
+- b. een alcohol-, suiker- en zuiver eigeelgehalte heeft in overeenstemming met bijlage I van [verordening (EU) 2019/787](32687R2019);
 
 - c. uitsluitend is bereid met eigeel en eiwit afkomstig van kippeneieren welke onbeschadigd zijn en voldoen aan de voorschriften gesteld bij of krachtens verordening (EG) nr. 1820/2006 van de Raad van 19 juni 2006 betreffende bepaalde handelsnormen voor eieren (PbEU 2006, L 186) en richtlijn 98/437/EEG van de Raad van 20 juni 1989 inzake hygiëne- en gezondheidsvraagstukken bij de bereiding en het in de handel brengen van eiprodukten (PbEG 1989, L 212);
 
