@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2022-10-22"
+last_updated: "2023-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2022-10-22&g=2022-10-22) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2023-01-31&g=2023-01-31) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2022-10-22&g=2022-10-22).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2023-01-31&g=2023-01-31).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2022-10-22&g=2022-10-22)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2023-01-31&g=2023-01-31)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -394,7 +394,6 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 |   |   |
 | **Certificaten voor keuzedelen vanaf augustus 2022** | **Certificaten voor keuzedelen vanaf augustus 2022** |
 | K1294 | Fitnesstrainer oncologie |
-| K1312 | Onderhoud aan windturbines |
 | K1189 | Positieve Gezondheid in de praktijk |
 | K1127 | Papier en kartonnage, geschikt voor niveau 2 |
 | K1128 | Papier en kartonnage, geschikt voor niveau 3 |
@@ -410,10 +409,14 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1327 | Machinaal melken |
 | K1329 | Nagelstyling |
 | K1332 | Robotmelken |
+|   |   |
+| **Certificaten voor keuzedelen vanaf januari 2023** | **Certificaten voor keuzedelen vanaf januari 2023** |
+| K1366 | Specialisatie vleeskalverhouderij |
+|   |   |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2022-10-22&g=2022-10-22)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2023-01-31&g=2023-01-31)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -520,6 +523,20 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0106 | Verpleegtechnisch handelen, niveau 3 | 25656 | Verzorgende-IG (Gewijzigd 2020) |
 | C0108 | Zorgdragen voor het ondersteuningsproces in de maatschappelijke zorg | 25780 | Begeleider maatschappelijke zorg (Gewijzigd 2022) |
 | C0109 | Zorgplan ontwikkelen | 25656 | Verzorgende-IG (Gewijzigd 2020) |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf januari 2023** | **Certificaten voor beroepsgerichte onderdelen vanaf januari 2023** |   |   |
+| C0110 | Afbouw timmeren | 25829 | Timmerman |
+| C0111 | Basis betonstaalverwerken | 25084 | Betonstaalvlechter |
+| C0112 | Coördineren van logistieke werkzaamheden | 25775 | Logistiek teamleider |
+| C0113 | Eenvoudige wapeningsconstructies maken | 25084 | Betonstaalvlechter |
+| C0114 | Goederen verzendklaar maken | 25774 | Logistiek medewerker |
+| C0115 | Goederenontvangst en opslag | 25774 | Logistiek medewerker |
+| C0116 | Industriële productie en planning | 25762 | Procesoperator B |
+| C0117 | Lasten aanslaan en hijsen | 25083 | Betonstaallasser |
+| C0118 | Meewerken in de productie | 25759 | Mechanisch operator A |
+| C0119 | Optimaliseren van het logistieke proces | 25775 | Logistiek teamleider |
+| C0120 | Ruwbouw timmeren | 25829 | Timmerman |
+| C0121 | Samengestelde wapeningsconstructies maken | 25081 | Allround betonstaalverwerker bouwplaats |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
