@@ -4,7 +4,7 @@ identifier: "BWBR0045642"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-01"
-last_updated: "2023-01-06"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045642"
 soort: "ministeriele-regeling"
@@ -64,9 +64,13 @@ Besluit:
 
 - e. [Besluit van de Staatssecretaris van Buitenlandse Zaken van 30 maart 2012, Nr. DDE-41/2012, tot vaststelling van de beleidsregels voor het doen van schenkingen aan overheidsorganen in ontwikkelingslanden met het oog op de ontwikkeling, implementatie en exploitatie van publieke infrastructuur (Schenkingsfaciliteit ORIO 2012)](https://wetten.overheid.nl/jci1.3:c:BWBR0031505) 5 Stcrt. 2012, 8239;
 
-- f. [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 mei 2022, nr. Min-BuZa.2022.11844-20 tot hernieuwde vaststelling van de beleidsregels voor sluiten van schenkingsarrangementen met het oog op de ontwikkeling en aanbesteding van ontwikkelingsrelevante infrastructurele projecten (Develop2Build 2022)](https://wetten.overheid.nl/jci1.3:c:BWBR0046709); en
+- f. [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 mei 2022, nr. Min-BuZa.2022.11844-20 tot hernieuwde vaststelling van de beleidsregels voor sluiten van schenkingsarrangementen met het oog op de ontwikkeling en aanbesteding van ontwikkelingsrelevante infrastructurele projecten (Develop2Build 2022)](https://wetten.overheid.nl/jci1.3:c:BWBR0046709);
 
-- g. [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 mei 2022, nr. Min-BuZa.2022.11844-15 tot hernieuwde vaststelling van beleidsregels voor subsidieverlening met het ook op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE 2022)](https://wetten.overheid.nl/jci1.3:c:BWBR0046711).
+- g. [Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 17 mei 2022, nr. Min-BuZa.2022.11844-15 tot hernieuwde vaststelling van beleidsregels voor subsidieverlening met het ook op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE 2022)](https://wetten.overheid.nl/jci1.3:c:BWBR0046711);
+
+- h. Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 2 december 2022, nr. MinBuZa.2022.14751-39, tot vaststelling van beleidsregels voor het doen van schenkingen met het oog op de financiering van ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE 2023)6Stcrt. 2023, 35; en
+
+- i. Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 2 december 2022, nr. MinBuza.2022.146666-9, tot vaststelling van beleidsregels voor het doen van schenkingen met het oog op de ontwikkeling en aanbesteding van ontwikkelingsrelevante infrastructurele projecten (Develop2Build 2023)7Stcrt. 2023, 36.
 
 3. Indien een besluit als bedoeld in het eerste lid, onderdeel a, vervalt, dan blijft de Chief Executive Officer van Invest International B.V. bevoegd om namens de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking de in het eerste lid, aanhef en onderdeel a en d bedoelde besluiten te nemen, rechtshandelingen en feitelijke handelingen te verrichten tot het moment waarop het vervallen besluit volledig is uitgevoerd.
 
@@ -74,7 +78,7 @@ Besluit:
 
 ##### Artikel 2
 
-De Chief Executive Officer van Invest International B.V. kan voor zijn bevoegdheden, bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045642&artikel=1&z=2023-02-01&g=2023-01-06), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende medewerkers die tevens werkzaam zijn ten behoeve van Invest International Public Programmes B.V., dan wel aan medewerkers van Invest International Public Programmes B.V.
+De Chief Executive Officer van Invest International B.V. kan voor zijn bevoegdheden, bedoeld in [artikel 1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045642&artikel=1&z=2023-02-01&g=2023-02-01), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende medewerkers die tevens werkzaam zijn ten behoeve van Invest International Public Programmes B.V., dan wel aan medewerkers van Invest International Public Programmes B.V.
 
 ##### Artikel 3
 
