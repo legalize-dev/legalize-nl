@@ -4,7 +4,7 @@ identifier: "BWBR0044517"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-02-01"
-last_updated: "2021-10-01"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044517"
 soort: "pbo"
@@ -114,9 +114,9 @@ In dit reglement wordt verstaan onder:
 
 - e. het examen en de toetsen die een onderdeel zijn van het examen.
 
-2. Waar in de [Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981) wordt verwezen naar het examenreglement, worden de paragrafen 1 en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=2&z=2021-10-01&g=2021-10-01), en [paragrafen 10 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=10&z=2021-10-01&g=2021-10-01) bedoeld.
+2. Waar in de [Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981) wordt verwezen naar het examenreglement, worden de paragrafen 1 en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=2&z=2023-02-01&g=2023-02-01), en [paragrafen 10 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=10&z=2023-02-01&g=2023-02-01) bedoeld.
 
-3. Waar in de [Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981) wordt verwezen naar het opleidingsreglement, worden de paragraaf 1, [paragrafen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=3&z=2021-10-01&g=2021-10-01), [paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&z=2021-10-01&g=2021-10-01) en [paragraaf 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=15&z=2021-10-01&g=2021-10-01) bedoeld.
+3. Waar in de [Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981) wordt verwezen naar het opleidingsreglement, worden de paragraaf 1, [paragrafen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=3&z=2023-02-01&g=2023-02-01), [paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&z=2023-02-01&g=2023-02-01) en [paragraaf 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=15&z=2023-02-01&g=2023-02-01) bedoeld.
 
 #### Paragraaf 2. Examencommissie
 
@@ -198,7 +198,7 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 7. Klachten
 
-Een stagiaire kan een klacht over de wijze waarop een onderwijsaanbieder of een onder zijn verantwoordelijkheid werkzame persoon zich in een bepaalde aangelegenheid jegens hem heeft gedragen voorleggen aan een onderwijsaanbieder. De onderwijsaanbieder probeert de klacht in der minne te schikken. Mocht de onderwijsaanbieder de klacht niet in der minne kunnen schikken, dan kan een stagiaire een klacht indienen bij de klachtencommissie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=4&artikel=8&z=2021-10-01&g=2021-10-01).
+Een stagiaire kan een klacht over de wijze waarop een onderwijsaanbieder of een onder zijn verantwoordelijkheid werkzame persoon zich in een bepaalde aangelegenheid jegens hem heeft gedragen voorleggen aan een onderwijsaanbieder. De onderwijsaanbieder probeert de klacht in der minne te schikken. Mocht de onderwijsaanbieder de klacht niet in der minne kunnen schikken, dan kan een stagiaire een klacht indienen bij de klachtencommissie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=4&artikel=8&z=2023-02-01&g=2023-02-01).
 
 ##### Artikel 8. Klachtencommissie
 
@@ -362,9 +362,9 @@ Een onderwijsaanbieder kan een stagiaire uitsluiten van deelname aan het door ha
 
 1. Een stagiaire neemt deel aan elk dagdeel contactonderwijs. Hij volgt het contactonderwijs in zijn eigen groep.
 
-2. Een stagiaire is niet vaker afwezig dan ten hoogste het aantal dagdelen dat voor het betreffende onderwijsonderdeel is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&bijlage=1&z=2021-10-01&g=2021-10-01).
+2. Een stagiaire is niet vaker afwezig dan ten hoogste het aantal dagdelen dat voor het betreffende onderwijsonderdeel is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&bijlage=1&z=2023-02-01&g=2023-02-01).
 
-3. Een onderwijsaanbieder kan tot twee weken voor aanvang van een dagdeel ter voorbereiding op de op de integratieve dagen, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=23&z=2021-10-01&g=2021-10-01), bepalen dat de stagiaire van dit dagdeel niets mag verzuimen.
+3. Een onderwijsaanbieder kan tot twee weken voor aanvang van een dagdeel ter voorbereiding op de op de integratieve dagen, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=23&z=2023-02-01&g=2023-02-01), bepalen dat de stagiaire van dit dagdeel niets mag verzuimen.
 
 4. De deelname van een stagiaire wordt vastgesteld door middel van het tekenen van een presentielijst aan het begin en aan het einde van de dag.
 
@@ -378,7 +378,7 @@ Een onderwijsaanbieder kan een stagiaire uitsluiten van deelname aan het door ha
 
 ##### Artikel 26. Alternatieve opdrachten bij verzuim
 
-Een onderwijsaanbieder kan alternatieve opdrachten aanbieden ter herstel van verzuim bij het maken of te laat inleven van opdrachten als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=22&z=2021-10-01&g=2021-10-01), of bij het niet voldoen aan de aanwezigheidsverplichtingen op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=25&z=2021-10-01&g=2021-10-01) voor het onderwijsonderdeel kantoorspecifieke vaardigheden, bedoeld in [artikel 3.14, eerste lid, onderdeel b, onder 3°, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.14) en voor het onderwijsonderdeel juridisch-inhoudelijke kennis, bedoeld in artikel 3.14, eerste lid, onderdeel b, onder 4°, van de verordening.
+Een onderwijsaanbieder kan alternatieve opdrachten aanbieden ter herstel van verzuim bij het maken of te laat inleven van opdrachten als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=22&z=2023-02-01&g=2023-02-01), of bij het niet voldoen aan de aanwezigheidsverplichtingen op grond van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=25&z=2023-02-01&g=2023-02-01) voor het onderwijsonderdeel kantoorspecifieke vaardigheden, bedoeld in [artikel 3.14, eerste lid, onderdeel b, onder 3°, van de verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.14) en voor het onderwijsonderdeel juridisch-inhoudelijke kennis, bedoeld in artikel 3.14, eerste lid, onderdeel b, onder 4°, van de verordening.
 
 #### Paragraaf 10. Inhoud en vorm van examen en toetsen
 
@@ -412,7 +412,7 @@ Het examen van de beroepsopleiding advocaten omvat drie toetsen, te weten:
 
 - b. het curriculum.
 
-3. In het geval dat een stagiaire een toets niet heeft gehaald in het opleidingsjaar waarin hij het onderwijs in dat vak heeft gevolgd, gelden, onverminderd het bepaalde in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=11&artikel=34&z=2021-10-01&g=2021-10-01), voor de toets die hij aflegt in het volgende opleidingsjaar de eisen van het dan lopende opleidingsjaar.
+3. In het geval dat een stagiaire een toets niet heeft gehaald in het opleidingsjaar waarin hij het onderwijs in dat vak heeft gevolgd, gelden, onverminderd het bepaalde in [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=11&artikel=34&z=2023-02-01&g=2023-02-01), voor de toets die hij aflegt in het volgende opleidingsjaar de eisen van het dan lopende opleidingsjaar.
 
 ##### Artikel 30. Tijdvakken, frequentie en volgorde van toetsen
 
@@ -446,15 +446,15 @@ Op schriftelijk verzoek kan de examencommissie voor stagiaires met een functiebe
 
 1. 1. Met inachtneming van het bepaalde in [artikel 3.19 van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19) meldt de onderwijsaanbieder een stagiaire aan bij de uitvoeringsorganisatie voor deelname aan een toets. De onderwijsaanbieder overlegt daarbij, aan de hand van een door de examencommissie verstrekt format, gegevens omtrent de aangemelde stagiaire ter zake van:
 
-- a. het onderwijs door de stagiaire gevolgd met inachtneming van het volgen van het aantal dagdelen voorbereiding op de integratieve dagen, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=23&z=2021-10-01&g=2021-10-01);
+- a. het onderwijs door de stagiaire gevolgd met inachtneming van het volgen van het aantal dagdelen voorbereiding op de integratieve dagen, bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=23&z=2023-02-01&g=2023-02-01);
 
-- b. de door de stagiaire gemaakte, op de integratieve dag voorbereidende opdracht alsmede de beoordeling daarvan bedoeld in [artikel 23, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=23&z=2021-10-01&g=2021-10-01); en
+- b. de door de stagiaire gemaakte, op de integratieve dag voorbereidende opdracht alsmede de beoordeling daarvan bedoeld in [artikel 23, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=23&z=2023-02-01&g=2023-02-01); en
 
 - c. een advies omtrent deelname aan de toets.
 
 2. Op basis van de in het eerste lid overgelegde gegevens beslist de examencommissie over de deelname van een stagiaire aan de toetsen waarvoor de stagiaire is aangemeld.
 
-3. In afwijking van het eerste en tweede lid meldt de uitvoeringsorganisatie de stagiaire aan voor de toets ethiek. Voor de toets ethiek geldt dat wanneer de absentie in dagdelen hoger is dan op grond van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&bijlage=1&z=2021-10-01&g=2021-10-01) is toegestaan, de examencommissie de stagiaire schriftelijk bericht dat hij niet wordt toegelaten tot de toets. Nadat de stagiaire het onderwijs heeft ingehaald, kan hij worden toegelaten tot de herkansingstoets.
+3. In afwijking van het eerste en tweede lid meldt de uitvoeringsorganisatie de stagiaire aan voor de toets ethiek. Voor de toets ethiek geldt dat wanneer de absentie in dagdelen hoger is dan op grond van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&bijlage=1&z=2023-02-01&g=2023-02-01) is toegestaan, de examencommissie de stagiaire schriftelijk bericht dat hij niet wordt toegelaten tot de toets. Nadat de stagiaire het onderwijs heeft ingehaald, kan hij worden toegelaten tot de herkansingstoets.
 
 4. Indien de examencommissie beslist dat de aangemelde stagiaire niet wordt toegelaten tot een toets, geldt dit ingevolge [artikel 3.19, derde lid, van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19) als een niet behaalde toets en verliest de stagiaire een toetskans.
 
@@ -462,11 +462,13 @@ Op schriftelijk verzoek kan de examencommissie voor stagiaires met een functiebe
 
 1. Een toets waarvoor een voldoende is behaald, kan niet worden herkanst.
 
-2. Indien voor een toets een onvoldoende is behaald, of indien sprake is van de situatie als bedoeld in [artikel 33 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=11&artikel=33&z=2021-10-01&g=2021-10-01), wordt de stagiaire door de uitvoeringsorganisatie automatisch ingeschreven voor een herkansing van de toets bij de eerstvolgende examenmogelijkheid, behoudens de beperkingen van [artikel 3.19 van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19). De uitvoeringsorganisatie stelt de stagiaire hiervan op de hoogte.
+2. Indien voor een toets een onvoldoende is behaald, of indien sprake is van de situatie als bedoeld in [artikel 33 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=11&artikel=33&z=2023-02-01&g=2023-02-01), wordt de stagiaire door de uitvoeringsorganisatie automatisch ingeschreven voor een herkansing van de toets bij de eerstvolgende examenmogelijkheid, behoudens de beperkingen van [artikel 3.19 van de Verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=3.19). De uitvoeringsorganisatie stelt de stagiaire hiervan op de hoogte.
 
-3. Voor de herkansing van een integratieve dag dient de stagiaire de voorbereiding op de integratieve dag, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=23&z=2021-10-01&g=2021-10-01), opnieuw, voor de nieuwe integratieve dag, te doorlopen.
+3. Voor de eerste herkansing van een integratieve dag hoeft de stagiaire de voorbereiding op de integratieve dag, bedoeld in [artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=23&z=2023-02-01&g=2023-02-01), niet opnieuw, voor de nieuwe integratieve dag, te doorlopen, maar kan volstaan met het opnieuw optreden op de integratieve dag.
 
-4. De deelnemer aan een herkansing is het door de uitvoeringsorganisatie, met inachtneming van het door de algemene raad gegeven kader, vastgestelde herkansingsgeld verschuldigd.
+4. Voor de tweede herkansing van een integratieve dag dient de stagiaire de voorbereiding op de integratieve dag, bedoeld in [artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=23&z=2023-02-01&g=2023-02-01), geheel opnieuw te doorlopen.
+
+5. De deelnemer aan een herkansing is het door de uitvoeringsorganisatie, met inachtneming van het door de algemene raad gegeven kader, vastgestelde herkansingsgeld verschuldigd.
 
 ##### Artikel 35. Praktische gang van zaken bij toetsen
 
@@ -496,7 +498,7 @@ Op schriftelijk verzoek kan de examencommissie voor stagiaires met een functiebe
 
 ##### Artikel 36. Fraude
 
-1. De examencommissie beoordeelt het rapport, bedoeld in [artikel 35, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=11&artikel=35&z=2021-10-01&g=2021-10-01).
+1. De examencommissie beoordeelt het rapport, bedoeld in [artikel 35, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=11&artikel=35&z=2023-02-01&g=2023-02-01).
 
 2. Indien op een ander moment dan tijdens het afleggen van de toets het vermoeden rijst dat sprake is van fraude of bij de stagiaire met betrekking tot enig onderdeel van de toetsen anderszins onregelmatigheden worden geconstateerd, wordt de zaak aan de examencommissie voorgelegd. De examencommissie maakt van haar bevindingen een rapport op.
 
@@ -514,7 +516,7 @@ Op schriftelijk verzoek kan de examencommissie voor stagiaires met een functiebe
 
 2. Het is de beoordelaar, bedoeld in het eerste lid, niet toegestaan een kantoorgenoot of een stagiaire over wie hij het patronaat uitoefent of die hij anderszins in overwegende mate begeleidt te examineren. Zo nodig wijst de examencommissie een andere beoordelaar aan.
 
-3. De beoordeling gebeurt aan de hand van de methode, bedoeld in [artikel 3, derde lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=2&artikel=3&z=2021-10-01&g=2021-10-01) en omvat het oordeel ‘voldoende’ of ‘onvoldoende’.
+3. De beoordeling gebeurt aan de hand van de methode, bedoeld in [artikel 3, derde lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=2&artikel=3&z=2023-02-01&g=2023-02-01) en omvat het oordeel ‘voldoende’ of ‘onvoldoende’.
 
 4. Indien een beoordelaar de prestatie van de stagiaire voor de toets of onderdelen van die toets als onvoldoende beoordeelt, vraagt hij een tweede beoordelaar uit het team om zijn oordeel. De gezamenlijke beoordeling wordt aan de examencommissie overhandigd.
 
@@ -538,7 +540,7 @@ Op schriftelijk verzoek kan de examencommissie voor stagiaires met een functiebe
 
 2. De examencommissie kan het resultaat van een toets als ‘geen beoordeling’ vaststellen, als:
 
-- a). de beoordeling met inachtneming van de methode, bedoeld in [artikel 3, derde lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=2&artikel=3&z=2021-10-01&g=2021-10-01), daartoe aanleiding geeft; of
+- a). de beoordeling met inachtneming van de methode, bedoeld in [artikel 3, derde lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=2&artikel=3&z=2023-02-01&g=2023-02-01), daartoe aanleiding geeft; of
 
 - b). fraude is vastgesteld.
 
@@ -548,11 +550,11 @@ Op schriftelijk verzoek kan de examencommissie voor stagiaires met een functiebe
 
 2. De beschikking vermeldt:
 
-- a. het recht op inzage, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=41&z=2021-10-01&g=2021-10-01);
+- a. het recht op inzage, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=41&z=2023-02-01&g=2023-02-01);
 
-- b. het recht op herbeoordeling, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=42&z=2021-10-01&g=2021-10-01);
+- b. het recht op herbeoordeling, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=42&z=2023-02-01&g=2023-02-01);
 
-- c. indien van toepassing, de einddatum van de geldigheid, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=43&z=2021-10-01&g=2021-10-01).
+- c. indien van toepassing, de einddatum van de geldigheid, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=43&z=2023-02-01&g=2023-02-01).
 
 ##### Artikel 41. Inzage van toetsen
 
@@ -566,7 +568,7 @@ Een stagiaire kan binnen zes weken na het bekendmaken van het resultaat van een 
 
 ##### Artikel 43. Geldigheidsduur van studieresultaten
 
-1. De als voldoende beoordeelde toetsen hebben een geldigheidsduur van vijf jaar na bekendmaking van de beschikking, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=40&z=2021-10-01&g=2021-10-01).
+1. De als voldoende beoordeelde toetsen hebben een geldigheidsduur van vijf jaar na bekendmaking van de beschikking, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=40&z=2023-02-01&g=2023-02-01).
 
 2. Ten behoeve van het verkrijgen van het certificaat beroepsopleiding advocaten dienen toetsen die hun geldigheid hebben verloren, opnieuw te worden afgelegd.
 
@@ -574,13 +576,13 @@ Een stagiaire kan binnen zes weken na het bekendmaken van het resultaat van een 
 
 ##### Artikel 44. Vastlegging en bewaring van de beoordelingen
 
-1. De registraties van aanwezigheid en voorbereiding als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=22&z=2021-10-01&g=2021-10-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=25&z=2021-10-01&g=2021-10-01) alsook de beoordelingen van opdrachten en overige voorbereidingen op toetsen van een stagiaire worden opgenomen in een geautomatiseerd systeem van de onderwijsaanbieder, waarin de voortgang van de stagiaire wordt gemonitord. Dit systeem bevindt zich in het besloten deel van de digitale leeromgeving en is slechts toegankelijk voor de stagiaire, de onderwijsaanbieder en, voor zover noodzakelijk voor hun taak, de examencommissie.
+1. De registraties van aanwezigheid en voorbereiding als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=22&z=2023-02-01&g=2023-02-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=25&z=2023-02-01&g=2023-02-01) alsook de beoordelingen van opdrachten en overige voorbereidingen op toetsen van een stagiaire worden opgenomen in een geautomatiseerd systeem van de onderwijsaanbieder, waarin de voortgang van de stagiaire wordt gemonitord. Dit systeem bevindt zich in het besloten deel van de digitale leeromgeving en is slechts toegankelijk voor de stagiaire, de onderwijsaanbieder en, voor zover noodzakelijk voor hun taak, de examencommissie.
 
 2. Een stagiaire kan ervoor kiezen het geautomatiseerde systeem, bedoeld in het eerste lid, open te stellen voor zijn patroon.
 
 ##### Artikel 45. Bewaring van afgelegde toetsen
 
-De uitvoeringsorganisatie ziet erop toe dat de gemaakte toetsen en de beoordelingsnormen worden bewaard gedurende een periode van vijf jaar na de datum van dagtekening van het bewijsstuk, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=41&z=2021-10-01&g=2021-10-01), met de behaalde beoordelingen.
+De uitvoeringsorganisatie ziet erop toe dat de gemaakte toetsen en de beoordelingsnormen worden bewaard gedurende een periode van vijf jaar na de datum van dagtekening van het bewijsstuk, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=13&artikel=41&z=2023-02-01&g=2023-02-01), met de behaalde beoordelingen.
 
 #### Paragraaf 14. Uitslag examen
 
@@ -614,11 +616,11 @@ Degene die een of meer onderdelen van het examen met gunstig gevolg heeft afgele
 
 ##### Artikel 49. Bijzondere gevallen
 
-1. Een onderwijsaanbieder kan, in bijzondere omstandigheden, afwijken van de [paragrafen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=3&z=2021-10-01&g=2021-10-01), en [paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&z=2021-10-01&g=2021-10-01), indien de belangen van de stagiaires daardoor redelijkerwijs niet worden geschaad.
+1. Een onderwijsaanbieder kan, in bijzondere omstandigheden, afwijken van de [paragrafen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=3&z=2023-02-01&g=2023-02-01), en [paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&z=2023-02-01&g=2023-02-01), indien de belangen van de stagiaires daardoor redelijkerwijs niet worden geschaad.
 
-2. De aanbieder van de basistest kan, in bijzondere omstandigheden afwijken van [paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=8&z=2021-10-01&g=2021-10-01), indien de belangen van de stagiaires daardoor redelijkerwijs niet worden geschaad.
+2. De aanbieder van de basistest kan, in bijzondere omstandigheden afwijken van [paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=8&z=2023-02-01&g=2023-02-01), indien de belangen van de stagiaires daardoor redelijkerwijs niet worden geschaad.
 
-3. De examencommissie kan, in bijzondere omstandigheden, afwijken van de [paragrafen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=10&z=2021-10-01&g=2021-10-01) indien de belangen van de stagiaires daardoor redelijkerwijs niet worden geschaad.
+3. De examencommissie kan, in bijzondere omstandigheden, afwijken van de [paragrafen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=10&z=2023-02-01&g=2023-02-01) indien de belangen van de stagiaires daardoor redelijkerwijs niet worden geschaad.
 
 4. Toepassing van de bevoegdheid in het eerste, tweede of derde lid, wordt onverwijld gemeld aan de algemene raad.
 
@@ -638,7 +640,7 @@ Degene die een of meer onderdelen van het examen met gunstig gevolg heeft afgele
 
 1. Op een stagiaire die uiterlijk in september 2020 de beroepsopleiding advocaten aanvangt en met ingang van 1 oktober 2020 zonder onderbreking op het tableau staat ingeschreven, en op zijn patroon, blijven het Opleidingsreglement beroepsopleiding advocaten oktober 2015 en het Examenreglement beroepsopleiding advocaten oktober 2015, zoals deze reglementen luidden op 30 september 2020, van toepassing, met dien verstande dat de bevoegdheden en taken die in het Examenreglement beroepsopleiding advocaten oktober 2015 worden toegekend aan de examencommissie worden uitgeoefend door de examencommissie, bedoeld in dit reglement.
 
-2. De benoemingen van de leden van de examencommissie die zijn benoemd op grond van het Opleidingsreglement beroepsopleiding advocaten oktober 2015 en het Examenreglement beroepsopleiding advocaten oktober 2015, gelden als benoemingen in de examencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=2&artikel=3&z=2021-10-01&g=2021-10-01), waarbij de oorspronkelijke benoemingstermijnen en mogelijke herbenoemingen behouden blijven.
+2. De benoemingen van de leden van de examencommissie die zijn benoemd op grond van het Opleidingsreglement beroepsopleiding advocaten oktober 2015 en het Examenreglement beroepsopleiding advocaten oktober 2015, gelden als benoemingen in de examencommissie, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=2&artikel=3&z=2023-02-01&g=2023-02-01), waarbij de oorspronkelijke benoemingstermijnen en mogelijke herbenoemingen behouden blijven.
 
 ##### Artikel 52. Inwerkingtreding
 
@@ -652,9 +654,9 @@ Dit reglement wordt aangehaald als: OER vernieuwde BA
 
 Dit reglement wordt in de Staatscourant bekendgemaakt. De Nederlandse orde van advocaten draagt zorg voor een passende en tijdige bekendmaking van dit reglement, alsmede van de wijzigingen daarvan.
 
-## Bijlage 1. Als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=25&z=2021-10-01&g=2021-10-01) van het Opleidings- en examenreglement vernieuwde beroepsopleiding advocaten
+## Bijlage 1. Als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=9&artikel=25&z=2023-02-01&g=2023-02-01) van het Opleidings- en examenreglement vernieuwde beroepsopleiding advocaten
 
-| (Onderwijs-)onderdeel beroepsopleiding advocaten, conform bijlage A van het Kwaliteits- en accreditatiekader BA2020 | Aantal dagdelen (één dagdeel is drie klokuren) | Aantal dagdelen minimaal verplichte aanwezigheid en deelname als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=10&artikel=27&z=2021-10-01&g=2021-10-01) van het Opleidings- en examenreglement beroepsopleiding advocaten |
+| (Onderwijs-)onderdeel beroepsopleiding advocaten, conform bijlage A van het Kwaliteits- en accreditatiekader BA2020 | Aantal dagdelen (één dagdeel is drie klokuren) | Aantal dagdelen minimaal verplichte aanwezigheid en deelname als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044517&paragraaf=10&artikel=27&z=2023-02-01&g=2023-02-01) van het Opleidings- en examenreglement beroepsopleiding advocaten |
 | --- | --- | --- |
 | **Basistest** | 1 | 1 |
 | **Integratieve dagen (twee)** (twee toetsen) | 4 | 4 |
