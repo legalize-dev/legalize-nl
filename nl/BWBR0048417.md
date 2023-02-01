@@ -219,11 +219,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de commissie.
-
-##### Artikel 6a. Calamiteitenprocedure
-
-1. De commissie heeft een calamiteitenprocedure voor urgente situaties. Dit betreft integriteitssituaties die direct gerelateerd zijn aan het werk, zoals een acute maatschappelijke misstand, ernstige druk of ernstige ongepaste bejegening en ernstig grensoverschrijdend gedrag. Het is aan de werknemer om aannemelijk te maken dat sprake is van een acute situatie die geen uitstel duldt. De commissie behandelt de gemelde kwestie, waarbij indien nodig direct actie wordt ondernomen richting de hoogst leidinggevende van de organisatie, om de veiligheid en het welzijn van de meldende werknemer te borgen.
-
-2. Indien de melding een secretaris-generaal (of functionaris van een vergelijkbaar niveau) betreft, dan wordt de minister van de melding op de hoogte gebracht.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de commissie.
