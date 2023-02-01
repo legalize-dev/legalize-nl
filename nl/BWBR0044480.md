@@ -4,7 +4,7 @@ identifier: "BWBR0044480"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-02-01"
-last_updated: "2020-12-15"
+last_updated: "2023-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044480"
 soort: "zbo"
@@ -46,29 +46,23 @@ Een bijdrage kan worden verstrekt aan een in Nederland gevestigde rechtspersoon 
 
 ##### Artikel 3. Subsidiesoort
 
-De bijdrage is bedoeld voor een evenement dat plaatsvindt in Nederland, zoals een festival of een manifestatie, en kan worden verstrekt in de vorm van:
-
-- a. een bijdrage in de kosten van een incidentele activiteit op het gebied van de hedendaagse beeldende kunst (projectsubsidie);
-
-- b. een tweejarige subsidie voor instellingen die evenementen op het gebied van beeldende kunst organiseren om hen in staat te stellen zich inhoudelijk en organisatorisch verder te ontwikkelen (ontwikkelsubsidie).
+De bijdrage is bedoeld voor een evenement dat plaatsvindt in Nederland, zoals een festival of een manifestatie, en kan worden verstrekt in de vorm van een bijdrage in de kosten van een activiteit op het gebied van de hedendaagse beeldende kunst (projectsubsidie).
 
 ##### Artikel 4. Hoogte bijdrage
 
 1. De hoogte van de bijdrage wordt per aanvraag vastgesteld.
 
-2. De bijdrage voor een eenmalige activiteit zoals bedoeld in [artikel 3 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044480&artikel=3&z=2020-12-15&g=2020-12-15) bestaat uit een percentage van de flexibele projectkosten van het programma. In de toelichting bij het aanvraagformulier wordt dit percentage bekend gemaakt.
-
-3. De bijdrage voor een ontwikkelfase zoals bedoeld in [artikel 3 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044480&artikel=3&z=2020-12-15&g=2020-12-15) bestaat uit een percentage van de kosten. De maximale bijdrage en dit percentage worden in de toelichting bij het aanvraagformulier bekend gemaakt.
+2. De bijdrage voor een activiteit zoals bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044480&artikel=3&z=2023-02-01&g=2023-02-01) bestaat uit een percentage van de flexibele projectkosten. In de toelichting bij het aanvraagformulier wordt dit percentage bekend gemaakt.
 
 ##### Artikel 5. Weigeringsgronden
 
 Het bestuur kan subsidie weigeren als:
 
-- a. de aanvrager bedoeld in [artikel 3 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044480&artikel=3&z=2020-12-15&g=2020-12-15) minder dan twee jaar evenementen organiseert;
+- a. de aanvrager een organisatie met winstoogmerk is;
 
-- b. de aanvrager een organisatie met winstoogmerk is;
+- b. de aanvrager een kunstpodium of museum is;
 
-- c. de aanvrager een kunstpodium of museum is.
+- c. de betrokken kunstenaar niet artistiek inhoudelijk actief is in de beeldende kunsten en in die hoedanigheid ingebed is in de professionele praktijk van de hedendaagse beeldende kunst in Nederland.
 
 ##### Artikel 6. Aanvraag
 
