@@ -4,7 +4,7 @@ identifier: "BWBR0032157"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-02-07"
-last_updated: "2013-01-01"
+last_updated: "2023-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032157"
 soort: "ministeriele-regeling-BES"
@@ -52,13 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - d. **overleg:** overleg over aangelegenheden als bedoeld in [artikel 2.2 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.2);
 
-- e. **voorzitter:** de voorzitter van de SOBES;
+- e. **voorzitter:** de voorzitter van het overleg, bedoeld in [artikel 2.3 van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.3);
 
 - f. **deelnemers aan het overleg:** de voorzitter en de vertegenwoordigers van de vakorganisaties in het overleg.
 
 ##### Artikel 2
 
-De SOBES stelt een lijst van drie bemiddelaars vast die in een voorkomend geschil om bemiddeling kunnen worden gevraagd.
+De voorzitter en de SOBES stellen gezamenlijk een lijst van drie bemiddelaars vast die in een voorkomend geschil om bemiddeling kunnen worden gevraagd.
 
 ##### Artikel 3
 
@@ -66,13 +66,13 @@ Indien de voorzitter dan wel een of meer van de vakorganisaties, in het overleg 
 
 ##### Artikel 4
 
-1. Binnen vier weken na de kennisgeving, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032157&artikel=2&z=2013-01-01&g=2013-01-01), schrijft de voorzitter een overlegvergadering uit. De vergadering wordt gehouden binnen drie weken nadat deze is uitgeschreven.
+1. Binnen vier weken na de kennisgeving, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032157&artikel=3&z=2023-02-07&g=2023-02-07), schrijft de voorzitter een overlegvergadering uit. De vergadering wordt gehouden binnen drie weken nadat deze is uitgeschreven.
 
 2. Tenzij door de voorzitter wordt besloten het overleg voort te zetten dan wel te beëindigen, wordt in de vergadering nagegaan of overeenstemming bestaat over de vraag wat het onderwerp en de inhoud van het geschil is en of een oplossing van dat geschil zal worden gezocht door middel van voortzetting van het overleg of door voortzetting van het overleg nadat een onafhankelijke bemiddelaar is ingeschakeld om het onderhandelingsproces te begeleiden.
 
 ##### Artikel 5
 
-Binnen twee weken na de vergadering, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032157&artikel=3&z=2013-01-01&g=2013-01-01), wordt het verzoek om bemiddeling ter kennis gebracht van de in te schakelen bemiddelaar. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inschakeling van een bemiddelaar hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in artikel 3, geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen tien werkdagen na eerdergenoemde vergadering ter kennis van de bemiddelaar.
+Binnen twee weken na de vergadering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032157&artikel=4&z=2023-02-07&g=2023-02-07), wordt het verzoek om bemiddeling ter kennis gebracht van de in te schakelen bemiddelaar. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inschakeling van een bemiddelaar hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032157&artikel=4&z=2023-02-07&g=2023-02-07), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen tien werkdagen na eerdergenoemde vergadering ter kennis van de bemiddelaar.
 
 ##### Artikel 6
 
@@ -82,9 +82,9 @@ Binnen twee weken na de vergadering, bedoeld in [artikel 3](https://wetten.overh
 
 ##### Artikel 7
 
-1. Binnen drie weken na ontvangst van het verslag van de bemiddelaar wordt het overleg over het geschil voortgezet. Indien in het overleg dat daarop volgt vervolgens niet tot overeenstemming gekomen kan worden, kunnen partijen gezamenlijk besluiten hun verschil van mening voor advies voor te leggen aan de Advies- en Arbitrage Commissie Rijksdienst, genoemd in [artikel 110g van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=110g).
+1. Binnen drie weken na ontvangst van het verslag van de bemiddelaar wordt het overleg over het geschil voortgezet. Indien in het overleg dat daarop volgt vervolgens niet tot overeenstemming gekomen kan worden, kunnen partijen gezamenlijk besluiten hun verschil van mening voor advies voor te leggen aan de Advies – en Arbitragecommissie van de Raad voor het Overheidspersoneel.
 
-2. De communicatie met de Advies- en Arbitrage Commissie Rijksdienst geschiedt zo veel mogelijk langs elektronische weg en door middel van videoconferencing.
+2. De communicatie met de Advies- en Arbitragecommissie, bedoeld in het eerste lid geschiedt zo veel mogelijk langs elektronische weg en door middel van videoconferencing.
 
 ##### Artikel 8
 
