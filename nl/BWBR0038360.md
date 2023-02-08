@@ -4,7 +4,7 @@ identifier: "BWBR0038360"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2016-12-20"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038360"
 soort: "ministeriele-regeling"
@@ -48,39 +48,39 @@ In deze regeling wordt verstaan onder:
 
 - b. **aanvraag:** de aanvraag, bedoeld in [artikel 6, negende lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6);
 
-- c. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, onderdeel i, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- c. **ambtenaar:** de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- d. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, eerste lid, onderdeel j, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- d. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- e. **functie:** een functie als bedoeld in [artikel 1, eerste lid, onderdeel r, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- e. **functie:** een functie als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- f. **LFNP:** Landelijk Functiegebouw Nederlandse Politie, bedoeld in [artikel 1, eerste lid, onderdeel vv, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- f. **LFNP:** Landelijk Functiegebouw Nederlandse Politie, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- g. **specifieke functionaliteit:** de specifieke functionaliteit, bedoeld in [artikel 1, eerste lid, onderdeel mm, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- g. **specifieke functionaliteit:** de specifieke functionaliteit, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- h. **werkterrein:** het werkterrein, bedoeld in [artikel 1, eerste lid, onderdeel kk, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+- h. **werkterrein:** het werkterrein, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-- i. **wezenlijk afwijken:** in overwegende mate voldoen aan de niveaubepalende elementen van een andere functie als omschreven in het onderdeel ‘kern van de functie’ van de betreffende functie, dan wel overeenkomen met de definitie van het werkterrein, het aandachtsgebied of de specifieke functionaliteit behorende bij de huidige functie opgenomen in de [bijlage 4, horende bij artikel 3, vierde lid, van de Regeling vaststelling LFNP](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4).
+- i. **wezenlijk afwijken:** het afwijken van de huidige functie, bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=1a&z=2023-02-08&g=2023-02-08).
 
 ##### Artikel 2
 
-1. In de aanvraag maakt de ambtenaar aannemelijk dat hij gedurende ten minste één jaar voorafgaand aan de aanvraag, feitelijke werkzaamheden heeft verricht die wezenlijk afwijken van zijn huidige functie dan wel overeenkomen met een werkterrein, een aandachtsgebied of een specifieke functionaliteit.
+1. In de aanvraag maakt de ambtenaar aannemelijk dat hij tenminste een jaar voorafgaand aan de aanvraag, feitelijke werkzaamheden heeft verricht die wezenlijk afwijken van zijn huidige functie dan wel overeenkomen met een werkterrein, een aandachtsgebied of een specifieke functionaliteit.
 
-2. De periode van één jaar als bedoeld in het eerste lid vangt niet eerder aan dan de dag waarop de ambtenaar in een LFNP-functie is geplaatst of aangesteld.
+2. Onder tenminste een jaar voorafgaand als bedoeld in het eerste lid wordt verstaan de werkzaamheden die ten minste tot zes weken voor de aanvraag worden verricht.
 
 ##### Artikel 3
 
-1. Het bevoegd gezag wijst de aanvraag toe, indien de feitelijke werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=2&z=2016-12-20&g=2016-12-20):
+1. Het bevoegd gezag wijst de aanvraag toe, indien de feitelijke werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=2&z=2023-02-08&g=2023-02-08):
 
 - a. zijn opgedragen;
 
-- b. gedurende ten minste één jaar voorafgaand aan de aanvraag tot wijziging van de functie dan wel wijziging of toekenning van het werkterrein, aandachtsgebied of specifieke functionaliteit zijn verricht;
+- b. tenminste een jaar voorafgaand aan de aanvraag tot wijziging van de functie dan wel wijziging of toekenning van het werkterrein, aandachtsgebied of specifieke functionaliteit zijn verricht;
 
-- c. wezenlijk afwijken van de huidige functie dan wel van een werkterrein, een aandachtsgebied of een specifieke functionaliteit van de ambtenaar, en
+- c. wezenlijk afwijken van de huidige functie dan wel van een werkterrein, een aandachtsgebied of een specifieke functionaliteit van de ambtenaar behorende bij de huidige functie, en
 
-- d. niet van kennelijk tijdelijke aard zijn.
+- d. niet van kennelijk tijdelijke aard zijn. In ieder geval is hiervan sprake wanneer de werkzaamheden langer dan twee jaar duren.
 
-2. In afwijking van het eerste lid wijst het bevoegd gezag de aanvraag af, indien een zwaarwegend dienstbelang zich tegen plaatsing op de andere functie verzet, dan wel indien de ambtenaar verzoekt niet tot plaatsing op een andere functie over te gaan, en geeft daarbij toepassing aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2016-12-20&g=2016-12-20).
+2. In afwijking van het eerste lid wijst het bevoegd gezag de aanvraag af en geeft daarbij toepassing aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2023-02-08&g=2023-02-08), indien een zwaarwegend dienstbelang zich tegen plaatsing op de andere functie verzet dan wel indien de ambtenaar verzoekt niet tot plaatsing op een andere functie over te gaan.
 
 ##### Artikel 4
 
@@ -92,15 +92,15 @@ In deze regeling wordt verstaan onder:
 
 1. Indien het bevoegd gezag besluit om de ambtenaar geen andere functie dan wel geen ander werkterrein, aandachtsgebied of specifieke functionaliteit toe te kennen, wordt de opdracht gegeven om de feitelijke werkzaamheden, voor zover deze afwijken van de huidige functie dan wel van een werkterrein, een aandachtsgebied of een specifieke functionaliteit, te staken. Het bevoegd gezag legt deze beslissing vast in een besluit.
 
-2. Indien de feitelijke werkzaamheden die voldoen aan de criteria van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2016-12-20&g=2016-12-20), zijn verricht op een schaalniveau dat uitgaat boven het schaalniveau van de functie van de ambtenaar, beslist het bevoegd gezag dat de ambtenaar eenmalig een uitkering ontvangt. Deze uitkering bedraagt het verschil tussen het naasthogere salarisbedrag in de naasthogere salarisschaal en het salarisbedrag dat de ambtenaar gedurende de periode van de opgedragen werkzaamheden heeft ontvangen, vermenigvuldigd met het aantal hele kalendermaanden dat de werkzaamheden zijn uitgeoefend.
+2. Indien een besluit als bedoeld in het eerste lid is genomen en indien de feitelijke werkzaamheden die voldoen aan de criteria van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2023-02-08&g=2023-02-08), zijn verricht op een schaalniveau dat uitgaat boven het schaalniveau van de functie van de ambtenaar, wordt de ambtenaar eenmalig een uitkering toegekend. Deze uitkering bedraagt het verschil tussen het naasthogere salarisbedrag in de naasthogere salarisschaal en het salarisbedrag dat de ambtenaar gedurende de periode van de opgedragen werkzaamheden heeft ontvangen, vermenigvuldigd met het aantal hele kalendermaanden waarin de werkzaamheden zijn uitgeoefend.
 
 3. Het tweede lid is van overeenkomstige toepassing in het geval de feitelijke werkzaamheden aanspraak gegeven zouden hebben op een extra periodiek als bedoeld in [artikel 9a van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=9a).
 
-4. Dit artikel is niet van toepassing indien het bevoegd gezag de aanvraag afwijst op grond van het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2016-12-20&g=2016-12-20).
+4. Dit artikel is niet van toepassing indien het bevoegd gezag de aanvraag afwijst op grond van het [eerste lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2023-02-08&g=2023-02-08).
 
 ##### Artikel 6
 
-Voorafgaand aan een besluit als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2016-12-20&g=2016-12-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=4&z=2016-12-20&g=2016-12-20) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2016-12-20&g=2016-12-20) stelt het bevoegd gezag de ambtenaar in de gelegenheid zijn zienswijze naar voren te brengen.
+Voorafgaand aan een besluit als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=3&z=2023-02-08&g=2023-02-08), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=4&z=2023-02-08&g=2023-02-08) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0038360&artikel=5&z=2023-02-08&g=2023-02-08) stelt het bevoegd gezag de ambtenaar in de gelegenheid zijn zienswijze naar voren te brengen.
 
 ##### Artikel 7
 
@@ -108,7 +108,7 @@ In individuele gevallen waarin deze regeling niet of niet naar billijkheid voorz
 
 ##### Artikel 8
 
-Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze regeling een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk aan het overleg met de Commissie, bedoeld in [artikel 2 van het Besluit overleg en medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&artikel=2).
+Vervallen
 
 ##### Artikel 9
 
@@ -117,5 +117,19 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling aanvraag plaatsing op een andere dan de ambtenaar opgedragen functie.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+1. De werkzaamheden van een ambtenaar wijken wezenlijk af van de huidige functie, indien die werkzaamheden:
+
+- a. in overwegende mate voldoen aan de niveaubepalende elementen van een andere functie als omschreven in het onderdeel ‘kern van de functie’ van de betreffende functie, dan wel
+
+- b. overeenkomen met de omschrijving van het werkterrein, het aandachtsgebied of de specifieke functionaliteit behorende bij de huidige functie, zoals opgenomen in [bijlage 4 van de Regeling vaststelling LFNP](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=4).
+
+2. In het geval niet aan alle in de kern van de functie opgenomen niveaubepalende elementen wordt voldaan, vindt een weging plaats van de in totaliteit verrichte overige functiebestanddelen van de andere functie of het ontbreken van het niveaubepalende element. Daarbij wordt gekeken naar de verrichte werkzaamheden in de context van het werk in de betreffende organisatorische eenheid.
+
+3. Voor de toepassing van het eerste lid, onderdeel a, wordt, indien op grond van bedrijfsvoering argumenten een bepaald functiebestanddeel niet is opgedragen, dit niet in het nadeel van een ambtenaar uitgelegd bij de vaststelling of in overwegende mate aan de niveaubepalende elementen is voldaan. Voor een succesvolle aanvraag geldt de ondergrens dat de kern van de functie in overwegende mate tot uitdrukking is gekomen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
