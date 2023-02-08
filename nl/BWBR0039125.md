@@ -4,7 +4,7 @@ identifier: "BWBR0039125"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-06-28"
-last_updated: "2022-03-03"
+last_updated: "2023-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039125"
 soort: "zbo"
@@ -73,19 +73,11 @@ entry_into_force: "2017-01-01"
 
 ##### Artikel 2. Toepasselijkheid
 
-1. Een bijdrage kunstenaarshonorarium kan worden verstrekt aan een beeldende kunstinstelling die de kunstenaar voor de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2022-03-03&g=2022-03-03) genoemde deelprestaties minimaal overeenkomstig de honoreringsrichtlijn honoreert.
+1. Een bijdrage kunstenaarshonorarium kan worden verstrekt aan een beeldende kunstinstelling die de kunstenaar voor de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2023-02-08&g=2023-02-08) genoemde deelprestaties minimaal overeenkomstig de honoreringsrichtlijn honoreert.
 
-2. Geen bijdrage kan worden verstrekt aan:
+2. Een bijdrage kunstenaarshonorarium wordt alleen verstrekt ten behoeve van het honoreren van beeldend kunstenaars die ten minste in het bezit is van een bachelor beeldende kunst of ten minste beschikt over drie jaar professionele werkervaring als beeldend kunstenaar.
 
-- a. instellingen die onderdeel zijn van de [culturele basisinfrastructuur 2021-2024](https://wetten.overheid.nl/jci1.3:c:BWBR0042754) (BIS);
-
-- b. instellingen die op grond van de [deelregeling Kunstpodia](https://wetten.overheid.nl/jci1.3:c:BWBR0043507) een meerjarige bijdrage toegekend hebben gekregen;
-
-- c. instellingen die op grond van de deelregeling Bijdragen Meerjarenprogramma’s Presentatie en Erfgoedinstellingen voor zover het betreft subsidie aan instellingen die tot primair doel hebben hedendaagse beeldende kunst te presenteren en voorzover de subsidie is verstrekt voor 2022.
-
-3. Een bijdrage kunstenaarshonorarium wordt alleen verstrekt ten behoeve van het honoreren van beeldend kunstenaars die ten minste in het bezit is van een bachelor beeldende kunst of ten minste beschikt over drie jaar professionele werkervaring als beeldend kunstenaar.
-
-4. Een bijdrage wordt uitsluitend verstrekt als de hoogte van het honorarium minimaal 100% van de in de richtlijn genoemde beloning bedraagt.
+3. Een bijdrage wordt uitsluitend verstrekt als de hoogte van het honorarium minimaal 100% van de in de richtlijn genoemde beloning bedraagt.
 
 ##### Artikel 3. Hoogte bijdrage
 
@@ -101,9 +93,9 @@ De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
 - •. een beschrijving van de tentoonstelling,
 
-- •. een omschrijving van de deelprestaties als bedoeld in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2022-03-03&g=2022-03-03)
+- •. een omschrijving van de deelprestaties als bedoeld in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2023-02-08&g=2023-02-08)
 
-- •. het ondertekend contract tussen de aanvrager en de kunstenaar(s) over de vergoeding van de in deze regeling gedefinieerde deelprestaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2022-03-03&g=2022-03-03), alsmede de factureringsmomenten,
+- •. het ondertekend contract tussen de aanvrager en de kunstenaar(s) over de vergoeding van de in deze regeling gedefinieerde deelprestaties als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2023-02-08&g=2023-02-08), alsmede de factureringsmomenten,
 
 - •. een dekkende begroting van de tentoonstelling, inclusief honorarium voor de kunstenaar,
 
@@ -115,7 +107,7 @@ De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
 ##### Artikel 5. Besluit
 
-1. Indien de aanvraag voldoet aan de bepalingen in dit reglement en indien het voor dit reglement bestemde budget niet is uitgeput, besluit het bestuur de bijdrage, waarvan de hoogte overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=3&z=2022-03-03&g=2022-03-03) wordt vastgesteld, toe te kennen.
+1. Indien de aanvraag voldoet aan de bepalingen in dit reglement en indien het voor dit reglement bestemde budget niet is uitgeput, besluit het bestuur de bijdrage, waarvan de hoogte overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=3&z=2023-02-08&g=2023-02-08) wordt vastgesteld, toe te kennen.
 
 2. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen acht weken beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager en aan de beeldend kunstenaar.
 
@@ -131,7 +123,7 @@ De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
 - •. er ingrijpende inhoudelijke en/of financiële wijzigingen zijn ten opzichte het plan op basis waarvan de bijdrage is verstrekt,
 
-- •. er wijzigingen zijn in de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2022-03-03&g=2022-03-03) genoemde deelprestaties.
+- •. er wijzigingen zijn in de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2023-02-08&g=2023-02-08) genoemde deelprestaties.
 
 3. Naar aanleiding van een in het tweede lid bedoelde melding kan, al naar gelang de aard daarvan, de bijdrage lager of op nihil worden vastgesteld of kunnen nadere afspraken worden gemaakt over de aanpassing van de verplichtingen.
 
