@@ -4,7 +4,7 @@ identifier: "BWBR0047455"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-09"
-last_updated: "2022-12-15"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047455"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **flexwoning:** bouwwerk ten behoeve van huisvesting van personen, geschikt voor verplaatsing en gebruik op een volgende locatie;
 
-- d. **gemeenten:** gemeenten, genoemd in de bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=3&z=2022-12-15&g=2022-12-15);
+- d. **gemeenten:** gemeenten, genoemd in de bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=3&z=2023-02-09&g=2023-02-09);
 
 - e. **minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
@@ -74,19 +74,19 @@ Onder een project wordt verstaan een project waarbij met flexwoningen of transfo
 
 ##### Artikel 3. Specifieke uitkering
 
-1. De minister verstrekt een specifieke uitkering aan gemeenten voor het versneld realiseren van projecten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=2&z=2022-12-15&g=2022-12-15).
+1. De minister verstrekt een specifieke uitkering aan gemeenten voor het versneld realiseren van projecten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=2&z=2023-02-09&g=2023-02-09).
 
 2. De specifieke uitkering bedraagt de in de bijlage per gemeente opgenomen bedragen.
 
 3. De gemeente besteedt de specifieke uitkering aan de in de beschikking opgenomen projecten.
 
-4. De minister kan op verzoek van het college toestaan dat de specifieke uitkering wordt besteed aan het versneld realiseren van andere projecten dan de projecten genoemd in de beschikking, voor zover die projecten tevens voldoen aan de eisen uit [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=2&z=2022-12-15&g=2022-12-15).
+4. De minister kan op verzoek van het college toestaan dat de specifieke uitkering wordt besteed aan het versneld realiseren van andere projecten dan de projecten genoemd in de beschikking, voor zover die projecten tevens voldoen aan de eisen uit [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=2&z=2023-02-09&g=2023-02-09).
 
 5. De specifieke uitkering wordt niet verstrekt voor BTW die is verschuldigd over kosten voor de uitvoering van projecten, bedoeld in het eerste lid, voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
 ##### Artikel 4. Verplichtingen
 
-1. Onverminderd [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=3&z=2022-12-15&g=2022-12-15), dient de gemeente de eerste woonruimtes binnen 12 maanden op te leveren en het project binnen 24 maanden af te ronden.
+1. Onverminderd [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=3&z=2023-02-09&g=2023-02-09), dient de gemeente de eerste woonruimtes binnen 12 maanden op te leveren en het project binnen 24 maanden af te ronden.
 
 2. De termijnen genoemd in het eerste lid, kunnen door de minister met ten hoogste een jaar verlengd worden, na een schriftelijk en gemotiveerd verzoek van het college.
 
@@ -108,17 +108,19 @@ De uitkeringsbeschikking vermeldt de prestatie waaraan de bijdrage is gekoppeld.
 
 1. Het college legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=2&z=2022-12-15&g=2022-12-15), niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
+2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=2&z=2023-02-09&g=2023-02-09), niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
 
 ##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=3&z=2022-12-15&g=2022-12-15) van de Stimuleringsregeling flex- en transformatiewoningen
+## Bijlage. bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047455&artikel=3&z=2023-02-09&g=2023-02-09) van de Stimuleringsregeling flex- en transformatiewoningen
 
 De specifiek uitkering bedraagt voor de gemeente:
 
 Amersfoort: € 3.000.000;
+
+Amsterdam: € 12.000.000;
 
 Arnhem: € 1.800.000;
 
@@ -136,7 +138,7 @@ Bunschoten: € 360.000;
 
 Den Haag: € 3.840.000;
 
-Deventer: €3 .600.000;
+Deventer: € 3.600.000;
 
 Dinkelland: € 576.000;
 
@@ -189,6 +191,8 @@ Soest: € 1.200.000
 Staphorst: € 168.000;
 
 Tilburg: € 5.100.000;
+
+Utrecht: € 11.496.000;
 
 Wierden: € 690.254;
 
