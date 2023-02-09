@@ -4,7 +4,7 @@ identifier: "BWBR0047862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-29"
-last_updated: "2023-01-01"
+last_updated: "2023-02-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047862"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2023-02-09"
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-### Hoofdstuk 2. Hoofdthema sport, bewegen en cultuur
+### Hoofdstuk 1. Algemene bepalingen
 
 ### Hoofdstuk 3. Hoofdthema gezondheid & sociale basis
 
@@ -46,7 +46,7 @@ entry_into_force: "2023-02-09"
 
 ### Hoofdstuk 5. Uitkeringsplafond, hoogte van de uitkering en wijze van verdeling
 
-### Hoofdstuk 6. Aanvraag tot verlening van een uitkering
+### Hoofdstuk 2. Hoofdthema sport, bewegen en cultuur
 
 ### Hoofdstuk 7. Algemene verplichtingen
 
@@ -54,7 +54,7 @@ entry_into_force: "2023-02-09"
 
 ### Hoofdstuk 9. Verantwoording en vaststelling
 
-### Hoofdstuk 10. Slotbepalingen
+### Hoofdstuk 3. Hoofdthema gezondheid & sociale basis
 
 ## Bijlage I. behorend bij [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.1&z=2023-11-11&g=2023-01-01)
 
