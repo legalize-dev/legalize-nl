@@ -4,7 +4,7 @@ identifier: "BWBR0033694"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-02-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033694"
 soort: "AMvB-BES"
@@ -74,7 +74,7 @@ Ten behoeve van de vaststelling van de bezoldiging van en de vergoedingen voor d
 
 ##### Artikel 3
 
-1. Wegens bijzondere omstandigheden kan Onze Minister, de eilandsraad gehoord, een openbaar lichaam voor de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-01-01) voor een bepaald tijdvak een of twee klassen hoger plaatsen dan die, waartoe het op grond van zijn inwonertal behoort.
+1. Wegens bijzondere omstandigheden kan Onze Minister, de eilandsraad gehoord, een openbaar lichaam voor de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-02-10) voor een bepaald tijdvak een of twee klassen hoger plaatsen dan die, waartoe het op grond van zijn inwonertal behoort.
 
 2. Onze Minister kan na afloop van het tijdvak, bedoeld in het eerste lid, een nieuw tijdvak vaststellen.
 
@@ -96,41 +96,41 @@ De overgang van een openbaar lichaam naar een lagere klasse in verband met vermi
 
 | Klasse | Bezoldiging |
 | --- | --- |
-| 1 | USD 64.973 |
-| 2 | USD 77.349 |
-| 3 | USD 89.724 |
-| 4 | USD 102.100 |
-| 5 | USD 114.476 |
+| 1 | USD 68.060 |
+| 2 | USD 81.024 |
+| 3 | USD 93.986 |
+| 4 | USD 106.950 |
+| 5 | USD 119.914 |
 
 2. De eilandgedeputeerden genieten per jaar een bezoldiging volgens onderstaande tabel.
 
 | Klasse | Bezoldiging |
 | --- | --- |
-| 1 | USD 56.917 |
-| 2 | USD 64.907 |
-| 3 | USD 72.897 |
-| 4 | USD 80.887 |
-| 5 | USD 88.877 |
+| 1 | USD 59.621 |
+| 2 | USD 67.991 |
+| 3 | USD 76.360 |
+| 4 | USD 84.730 |
+| 5 | USD 93.099 |
 
 3. Aan een lid van de eilandsraad wordt per jaar een vergoeding voor de werkzaamheden en een tegemoetkoming in de kosten daarvan toegekend tot de maximumbedragen volgens onderstaande tabel.
 
 | Klasse | Vergoeding | Tegemoetkoming in de kosten |
 | --- | --- | --- |
-| 1 | USD 6.210 | USD 1.166 |
-| 2 | USD 7.001 | USD 1.242 |
-| 3 | USD 7.793 | USD 1.319 |
-| 4 | USD 8.584 | USD 1.397 |
-| 5 | USD 9.376 | USD 1.473 |
+| 1 | 6.505 | USD 1.222 |
+| 2 | 7.334 | USD 1.301 |
+| 3 | 8.164 | USD 1.382 |
+| 4 | 8.992 | USD 1.464 |
+| 5 | 9.822 | USD 1.543 |
 
 4. De maandelijkse uitbetaling van de bezoldiging of de vergoeding voor de werkzaamheden en de tegemoetkoming in de kosten daarvan wordt naar boven afgerond op hele dollars.
 
 ##### Artikel 7
 
-Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1) en in dienst van de staat, wijziging ondergaat, worden met ingang van de datum waarop die wijziging ingaat de bedragen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-01-01) en [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6a&z=2023-02-10&g=2023-01-01), bij ministeriële regeling op gelijke voet gewijzigd.
+Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1) en in dienst van de staat, wijziging ondergaat, worden met ingang van de datum waarop die wijziging ingaat de bedragen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-02-10) en [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6a&z=2023-02-10&g=2023-02-10), bij ministeriële regeling op gelijke voet gewijzigd.
 
 ##### Artikel 8
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-01-01) is van overeenkomstige toepassing op het lid van de eilandsraad aan wie ingevolge [artikel Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_13) juncto [artikel X 10, eerste en tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat de tegemoetkoming in de kosten van zijn werkzaamheden de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-02-10) is van overeenkomstige toepassing op het lid van de eilandsraad aan wie ingevolge [artikel Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_13) juncto [artikel X 10, eerste en tweede lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat de tegemoetkoming in de kosten van zijn werkzaamheden de helft bedraagt van het bedrag dat op grond van die bepaling van toepassing is.
 
 #### § 4. Vergoeding leden van een commissie
 
@@ -140,15 +140,15 @@ Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de 
 
 | Klasse | Vergoeding per vergadering |
 | --- | --- |
-| 1 | USD 61 |
-| 2 | USD 66 |
-| 3 | USD 69 |
-| 4 | USD 73 |
-| 5 | USD 77 |
+| 1 | USD 64 |
+| 2 | USD 70 |
+| 3 | USD 73 |
+| 4 | USD 77 |
+| 5 | USD 81 |
 
 2. Geen vergoeding wordt verstrekt aan een lid van een commissie dat tevens lid is van de eilandsraad of aan een ambtenaar die als zodanig tot lid van een commissie is benoemd.
 
-3. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-01-01), is van overeenkomstige toepassing op de vergoeding voor de leden van een commissie.
+3. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-02-10), is van overeenkomstige toepassing op de vergoeding voor de leden van een commissie.
 
 4. Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1) en in dienst van de staat, wijziging ondergaat, worden met ingang van de datum waarop die wijziging ingaat de bedragen, bedoeld in het eerste lid, bij ministeriële regeling op gelijke voet gewijzigd.
 
@@ -158,7 +158,7 @@ Ten aanzien van een lid van een commissie als bedoeld in de [artikelen 117](http
 
 - a. die op grond van zijn bijzondere beroepsmatige deskundigheid op het taakgebied van de commissie voor deelneming aan haar werkzaamheden is aangetrokken, en
 
-- b. ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke verhouding te staan tot de zwaarte van zijn taak en de omvang van de door hem te verrichten arbeid,kan de eilandsraad bij eilandverordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=4&artikel=9&z=2023-02-10&g=2023-01-01).
+- b. ten aanzien waarvan de vergoeding niet geacht kan worden in een redelijke verhouding te staan tot de zwaarte van zijn taak en de omvang van de door hem te verrichten arbeid,kan de eilandsraad bij eilandverordening bepalen dat de vergoeding voor het bijwonen van de vergaderingen van de commissie naar boven afwijkt van de bedragen, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=4&artikel=9&z=2023-02-10&g=2023-02-10).
 
 #### § 5. Toelagen, eenmalige uitkeringen, vakantie- en eindejaarsuitkering
 
@@ -180,9 +180,9 @@ De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkerin
 
 ##### Artikel 14
 
-1. De gezaghebber ontvangt ter bestrijding van representatie- en andere kosten van zijn werkzaamheden per jaar een ambtstoelage van 10% van zijn bezoldiging, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-01-01).
+1. De gezaghebber ontvangt ter bestrijding van representatie- en andere kosten van zijn werkzaamheden per jaar een ambtstoelage van 10% van zijn bezoldiging, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-02-10).
 
-2. De eilandgedeputeerde ontvangt ter bestrijding van representatie- en andere kosten van zijn werkzaamheden per jaar een buitengewone toelage van 6% van zijn bezoldiging, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-01-01).
+2. De eilandgedeputeerde ontvangt ter bestrijding van representatie- en andere kosten van zijn werkzaamheden per jaar een buitengewone toelage van 6% van zijn bezoldiging, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-02-10).
 
 3. De maandelijkse uitbetaling van de toelagen, bedoeld in het eerste en tweede lid, wordt naar boven afgerond op hele dollars.
 
@@ -220,7 +220,7 @@ De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkerin
 
 2. Het eilandsraadslid dat op grond van [artikel 90, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=90) gedurende meer dan dertig dagen onafgebroken het ambt van gezaghebber waarneemt, ontvangt voor die tijd de voor het ambt vastgestelde bezoldiging. Voor die tijd vervalt de vergoeding voor de werkzaamheden als eilandsraadslid.
 
-3. Degene die op grond van [artikel 91 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=91) als waarnemend gezaghebber is aangewezen, ontvangt voor de tijd van de waarneming een bezoldiging als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-01-01), met inbegrip van de toelagen, indien de waarneming:
+3. Degene die op grond van [artikel 91 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=91) als waarnemend gezaghebber is aangewezen, ontvangt voor de tijd van de waarneming een bezoldiging als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-02-10), met inbegrip van de toelagen, indien de waarneming:
 
 - a. dertig dagen of langer onafgebroken heeft geduurd;
 
@@ -228,7 +228,7 @@ De gezaghebber of de eilandgedeputeerde heeft aanspraak op een vakantie-uitkerin
 
 - c. in een tijdvak van twaalf maanden in totaal zestig dagen of langer heeft geduurd.
 
-Daarnaast heeft hij aanspraak op de helft van de ambtstoelage, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=5&artikel=13&z=2023-02-10&g=2023-01-01).
+Daarnaast heeft hij aanspraak op de helft van de ambtstoelage, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=5&artikel=13&z=2023-02-10&g=2023-02-10).
 
 4. Op de waarnemend gezaghebber, bedoeld in het derde lid, die voor een periode van naar verwachting een jaar of langer met de waarneming zal zijn belast, is dit besluit van overeenkomstige toepassing.
 
@@ -268,7 +268,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. De eilandsraad kan bij eilandsverordening bepalen dat aan een lid van het kiescollege een vergoeding voor het bijwonen van de vergaderingen van het kiescollege wordt toegekend tot het maximumbedrag van 74 USD.
 
-2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-01-01), is van overeenkomstige toepassing op de vergoeding van de leden van het kiescollege.
+2. [Artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033694&paragraaf=3&artikel=6&z=2023-02-10&g=2023-02-10), is van overeenkomstige toepassing op de vergoeding van de leden van het kiescollege.
 
 #### § 4. Vergoeding leden van een commissie
 
