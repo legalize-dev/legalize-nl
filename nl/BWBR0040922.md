@@ -4,7 +4,7 @@ identifier: "BWBR0040922"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040922"
 soort: "AMvB"
@@ -164,11 +164,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Bij de afschrijving, bedoeld in [artikel 9.7.2.5, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.2.5), wordt de volgende volgorde gehanteerd:
 
-- a. het aantal hernieuwbare brandstofeenheden geavanceerd wordt afgeschreven dat overeenkomt met het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), genoemde gedeelte van de energie-inhoud van de levering tot eindverbruik;
+- a. het aantal hernieuwbare brandstofeenheden geavanceerd wordt afgeschreven dat overeenkomt met het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2023-02-16&g=2023-02-13), genoemde gedeelte van de energie-inhoud van de levering tot eindverbruik;
 
-- b. het aantal op de rekening beschikbare hernieuwbare brandstofeenheden conventioneel wordt afgeschreven, tot ten hoogste het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), genoemde gedeelte van de energie-inhoud van de levering tot eindverbruik;
+- b. het aantal op de rekening beschikbare hernieuwbare brandstofeenheden conventioneel wordt afgeschreven, tot ten hoogste het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2023-02-16&g=2023-02-13), genoemde gedeelte van de energie-inhoud van de levering tot eindverbruik;
 
-- c. het aantal op de rekening beschikbare hernieuwbare brandstofeenheden bijlage IX-B wordt afgeschreven, tot ten hoogste het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), genoemde gedeelte van de energie-inhoud van de levering tot eindverbruik;
+- c. het aantal op de rekening beschikbare hernieuwbare brandstofeenheden bijlage IX-B wordt afgeschreven, tot ten hoogste het in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2023-02-16&g=2023-02-13), genoemde gedeelte van de energie-inhoud van de levering tot eindverbruik;
 
 - d. het aantal op de rekening beschikbare hernieuwbare brandstofeenheden overig wordt afgeschreven;
 
@@ -176,9 +176,9 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Indien na toepassing van de afschrijving, bedoeld in het eerste lid, niet is voldaan aan de jaarverplichting, wordt het aantal per soort verschuldigde hernieuwbare brandstofeenheden als volgt vastgesteld:
 
-- a. het aantal hernieuwbare brandstofeenheden conventioneel is even groot als het gedeelte van de energie-inhoud, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), dat de leverancier tot eindverbruik bij de afschrijving van de jaarverplichting ingevolge het eerste lid, onderdeel b, niet gebruikt heeft;
+- a. het aantal hernieuwbare brandstofeenheden conventioneel is even groot als het gedeelte van de energie-inhoud, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2023-02-16&g=2023-02-13), dat de leverancier tot eindverbruik bij de afschrijving van de jaarverplichting ingevolge het eerste lid, onderdeel b, niet gebruikt heeft;
 
-- b. het aantal hernieuwbare brandstofeenheden bijlage IX-B is even groot als het gedeelte van de energie-inhoud, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), dat de leverancier tot eindverbruik bij de afschrijving van de jaarverplichting ingevolge het eerste lid, onderdeel c, niet gebruikt heeft;
+- b. het aantal hernieuwbare brandstofeenheden bijlage IX-B is even groot als het gedeelte van de energie-inhoud, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=3&z=2023-02-16&g=2023-02-13), dat de leverancier tot eindverbruik bij de afschrijving van de jaarverplichting ingevolge het eerste lid, onderdeel c, niet gebruikt heeft;
 
 - c. het aantal hernieuwbare brandstofeenheden overig is even groot als de resterende jaarverplichting na toepassing van onderdelen a en b.
 
@@ -246,7 +246,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. voor de soorten vastgesteld bij ministeriële regeling;
 
-- b. indien voor de ingeboekte soort hernieuwbare brandstof de onderneming, bedoeld in het eerste lid, beschikt over een verificatieverklaring hernieuwbare brandstof, bedoeld in[artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=17&z=2022-01-01&g=2022-01-01); en
+- b. indien voor de ingeboekte soort hernieuwbare brandstof de onderneming, bedoeld in het eerste lid, beschikt over een verificatieverklaring hernieuwbare brandstof, bedoeld in[artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=17&z=2023-02-16&g=2023-02-13); en
 
 - c. de ingeboekte hernieuwbare brandstof voldoet aan de broeikasgasemissiereductiedrempels, bedoeld in artikel 25, tweede lid, van de richtlijn hernieuwbare energie.
 
@@ -300,13 +300,13 @@ Vervallen
 
 1. De gevolgen van een ambtshalve vaststelling als bedoeld in [artikel 9.7.4.13, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.13), worden verrekend met het saldo van het lopende kalenderjaar.
 
-2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=5&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
+2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=5&z=2023-02-16&g=2023-02-13) is van overeenkomstige toepassing.
 
 ##### Artikel 15
 
-1. Onze Minister keurt op aanvraag van de verificateur, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=16&z=2022-01-01&g=2022-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=19&z=2022-01-01&g=2022-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=22&z=2022-01-01&g=2022-01-01), een verificatieprotocol, of wijzigingen daarvan, goed.
+1. Onze Minister keurt op aanvraag van de verificateur, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=16&z=2023-02-16&g=2023-02-13), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=19&z=2023-02-16&g=2023-02-13) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=22&z=2023-02-16&g=2023-02-13), een verificatieprotocol, of wijzigingen daarvan, goed.
 
-2. Onze Minister verleent goedkeuring aan het verificatieprotocol, of wijzigingen daarvan, indien hij een gerechtvaardigd vertrouwen heeft dat de verklaringen, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=17&z=2022-01-01&g=2022-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=20&z=2022-01-01&g=2022-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=23&z=2022-01-01&g=2022-01-01), op een juiste wijze tot stand komen.
+2. Onze Minister verleent goedkeuring aan het verificatieprotocol, of wijzigingen daarvan, indien hij een gerechtvaardigd vertrouwen heeft dat de verklaringen, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=17&z=2023-02-16&g=2023-02-13), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=20&z=2023-02-16&g=2023-02-13) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=23&z=2023-02-16&g=2023-02-13), op een juiste wijze tot stand komen.
 
 3. Onze Minister beslist binnen twaalf weken na ontvangst van een aanvraag als bedoeld in het eerste lid. De termijn kan eenmaal met ten hoogste vier weken worden verlengd.
 
@@ -314,7 +314,7 @@ Vervallen
 
 ##### Artikel 16
 
-De verificateur hernieuwbare brandstof voert de verificatiewerkzaamheden op een onbevangen en onpartijdige wijze uit, werkt overeenkomstig een goedgekeurd verificatieprotocol als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01) en is voor het onderdeel hernieuwbare brandstof van het werkveld hernieuwbare energie vervoer:
+De verificateur hernieuwbare brandstof voert de verificatiewerkzaamheden op een onbevangen en onpartijdige wijze uit, werkt overeenkomstig een goedgekeurd verificatieprotocol als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=15&z=2023-02-16&g=2023-02-13) en is voor het onderdeel hernieuwbare brandstof van het werkveld hernieuwbare energie vervoer:
 
 - a. geaccrediteerd of tijdelijk geaccrediteerd onder beperkende voorwaarden door de Raad voor Accreditatie, of
 
@@ -324,7 +324,7 @@ De verificateur hernieuwbare brandstof voert de verificatiewerkzaamheden op een 
 
 1. De verificateur hernieuwbare brandstof verkrijgt een redelijke mate van zekerheid dat de in de verificatieverklaring hernieuwbare brandstof verantwoorde hernieuwbare brandstof geen materiële afwijking bevat.
 
-2. De verificateur hernieuwbare brandstof toetst met een materialiteitsgrens van twee procent de hoeveelheid in Nederland uit waterstof geproduceerde hernieuwbare brandstof, opgenomen in de lijst, bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=9&z=2022-01-01&g=2022-01-01).
+2. De verificateur hernieuwbare brandstof toetst met een materialiteitsgrens van twee procent de hoeveelheid in Nederland uit waterstof geproduceerde hernieuwbare brandstof, opgenomen in de lijst, bedoeld in [artikel 9, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=9&z=2023-02-16&g=2023-02-13).
 
 3. De verificateur hernieuwbare brandstof geeft geen verificatieverklaring hernieuwbare brandstof af indien niet is voldaan aan de eisen, bedoeld in [artikel 9.7.4.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.4).
 
@@ -336,7 +336,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de verificat
 
 ##### Artikel 19
 
-De dubbeltellingverificateur voert de verificatiewerkzaamheden op een onbevangen en onpartijdige wijze uit, werkt overeenkomstig een goedgekeurd verificatieprotocol als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01) en is voor het onderdeel dubbeltelling van het werkveld hernieuwbare energie vervoer:
+De dubbeltellingverificateur voert de verificatiewerkzaamheden op een onbevangen en onpartijdige wijze uit, werkt overeenkomstig een goedgekeurd verificatieprotocol als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=15&z=2023-02-16&g=2023-02-13) en is voor het onderdeel dubbeltelling van het werkveld hernieuwbare energie vervoer:
 
 - a. geaccrediteerd of tijdelijk geaccrediteerd onder beperkende voorwaarden door de Raad voor Accreditatie;
 
@@ -356,7 +356,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de dubbeltel
 
 ##### Artikel 22
 
-1. De inboekverificateur voert de verificatiewerkzaamheden op een onbevangen en onpartijdige wijze uit, werkt overeenkomstig een goedgekeurd verificatieprotocol als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=15&z=2022-01-01&g=2022-01-01) en is voor het onderdeel inboeken van het werkveld hernieuwbare energie vervoer:
+1. De inboekverificateur voert de verificatiewerkzaamheden op een onbevangen en onpartijdige wijze uit, werkt overeenkomstig een goedgekeurd verificatieprotocol als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=4&artikel=15&z=2023-02-16&g=2023-02-13) en is voor het onderdeel inboeken van het werkveld hernieuwbare energie vervoer:
 
 - a. geaccrediteerd of tijdelijk geaccrediteerd onder beperkende voorwaarden door de Raad voor Accreditatie, of
 
@@ -506,15 +506,15 @@ Het percentage, bedoeld in [artikel 9.8.2.1, eerste lid, van de wet](https://wet
 
 ##### Artikel 37
 
-1. Bij de afschrijving, bedoeld in [artikel 9.8.2.5, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.8.2.5), wordt het aantal per soort hernieuwbare brandstofeenheden afgeschreven, volgens de volgorde, bedoeld in [artikel 5, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=5&z=2022-01-01&g=2022-01-01).
+1. Bij de afschrijving, bedoeld in [artikel 9.8.2.5, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.8.2.5), wordt het aantal per soort hernieuwbare brandstofeenheden afgeschreven, volgens de volgorde, bedoeld in [artikel 5, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=5&z=2023-02-16&g=2023-02-13).
 
-2. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=5&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
+2. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=2&artikel=5&z=2023-02-16&g=2023-02-13), is van overeenkomstige toepassing.
 
 #### § 3. Exploitatiereductie-eenheden en hernieuwbare brandstofeenheden
 
 ##### Artikel 38
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=3&artikel=6&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing.
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=3&artikel=6&z=2023-02-16&g=2023-02-13) is van overeenkomstige toepassing.
 
 ##### Artikel 39
 
@@ -568,7 +568,7 @@ Een vermoeden van fraude of misbruik van een rekening als bedoeld in [artikel 9.
 
 1. Het gedeelte, bedoeld in [artikel 9.8.4.6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.8.4.6), komt overeen met ten hoogste 2.000 hernieuwbare brandstofeenheden.
 
-2. Voor de toepassing van het eerste lid, is [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=5&artikel=29&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
+2. Voor de toepassing van het eerste lid, is [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&hoofdstuk=1&paragraaf=5&artikel=29&z=2023-02-16&g=2023-02-13), van overeenkomstige toepassing.
 
 #### § 5. Rapportages
 
