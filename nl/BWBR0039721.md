@@ -4,7 +4,7 @@ identifier: "BWBR0039721"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-15"
-last_updated: "2022-08-01"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039721"
 soort: "ministeriele-regeling"
@@ -88,15 +88,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 5. Voor subsidieverstrekking op grond van deze regeling is voor 2022 een bedrag van € 19.605.000 beschikbaar.
 
+6. Voor subsidieverstrekking op grond van deze regeling is voor 2023 een bedrag van € 18.206.000,– beschikbaar.
+
 ##### Artikel 5. Wijze van verdeling beschikbare middelen
 
 1. Na afloop van de aanvraagperiode wordt jaarlijks door middel van loting bepaald welke subsidieaanvragen worden gehonoreerd.
 
-2. Indien de middelen, bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=4&z=2022-08-01&g=2022-08-01), ontoereikend zijn om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt eerst voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
+2. Indien de middelen, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=4&z=2023-02-15&g=2023-02-15), ontoereikend zijn om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt eerst voorrang verleend aan de aanvragen voor scholen in Caribisch Nederland.
 
 3. Indien na toepassing van het tweede lid nog middelen resteren, wordt vervolgens voorrang verleend aan de aanvragen die zijn gericht op in ieder geval één basisschool als bedoeld [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) met een positieve achterstandsscore als bedoeld in [artikel 18 van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), blijkend uit de in het jaar van de aanvraag door het Centraal Bureau voor de Statistiek aan de minister verstrekte gegevens. Indien niet genoeg middelen resteren om al deze aanvragen te honoreren, dan wordt er geloot.
 
-4. Indien na toepassing van het tweede en derde lid nog middelen resteren, vindt loting plaats per regio als bedoeld in [artikel 3 van de Regeling vaststelling schoolvakanties 2016-2021](https://wetten.overheid.nl/jci1.3:c:BWBR0040691&artikel=3). De regio waarin aanvragen meeloten wordt bepaald op basis van de locatie waar de aanvrager is gevestigd.
+4. Indien na toepassing van het tweede en derde lid nog middelen resteren, vindt loting plaats per regio als bedoeld in [artikel 3 van de Regeling vaststelling schoolvakanties 2022–2025](https://wetten.overheid.nl/jci1.3:c:BWBR0045146&artikel=3). De regio waarin aanvragen meeloten wordt bepaald op basis van de locatie waar de aanvrager is gevestigd.
 
 5. Per regio zijn de volgende percentages van het resterende bedrag, bedoeld in het vierde lid beschikbaar:
 
@@ -150,7 +152,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. De aanvraag bevat een verklaring van alle bevoegd gezagen die aan het doorstroomprogramma willen deelnemen, waarin zij verklaren dat de penvoerder gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie, op verzoek aan de penvoerder worden verstrekt.
 
-5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2022-08-01&g=2022-08-01).
+5. De penvoerder brengt de bevoegd gezagen van de betrokken scholen op de hoogte van de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039721&artikel=13&z=2023-02-15&g=2023-02-15).
 
 ##### Artikel 8. Subsidieaanvraag
 
@@ -166,7 +168,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. een omschrijving van de wijze waarop de samenwerking tussen de po- en vo-school wordt vormgegeven ten behoeve van een gunstige doorstroom van de deelnemende leerlingen.
 
-3. In 2021 en 2022 kan jaarlijks van 20 februari tot en met 30 april subsidie worden aangevraagd.
+3. In 2023 kan jaarlijks van 20 februari tot en met 30 april subsidie worden aangevraagd.
 
 4. De minister beslist jaarlijks binnen 13 weken na het verstrijken van de periode waarin aanvragen kunnen worden ingediend op de aanvragen.
 
@@ -214,7 +216,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2026.
+2. Deze regeling vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 15. Citeertitel
 
