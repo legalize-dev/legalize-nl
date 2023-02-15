@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2022-07-21"
+last_updated: "2023-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en consulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2022-07-21&g=2022-07-21), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
+2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2023-02-15&g=2023-02-15), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
 
 - a. voor wat betreft de examinering van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal de onderdelen, bedoeld in [artikel 3.9, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met goed gevolg heeft afgelegd; en
 
@@ -150,7 +150,7 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 8. Van het afleggen van het onderdeel van het inburgeringsexamen oriëntatie op de Nederlandse arbeidsmarkt, bedoeld in de [artikelen 2.10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.10), en [3.9, derde lid, onderdeel b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9), zijn vrijgesteld:
 
-- a. de verzoeker die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt;
+- a. de verzoeker die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt of die voor het bereiken van die leeftijd zijn werkzaamheden heeft gestaakt ten gevolge van vervroegde uittreding;
 
 - b. de verzoeker die zich voor 1 januari 2015 bij de Dienst Uitvoering Onderwijs (DUO) van het Ministerie van Onderwijs, Cultuur en Wetenschap heeft aangemeld voor de naturalisatietoets of een onderdeel van die toets en van wie DUO voor 1 februari 2015 het verschuldigde examengeld heeft ontvangen;
 
@@ -160,7 +160,9 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 - 2°. winst uit een onderneming, bedoeld in [artikel 3.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8), had die ten minste gelijk was aan (L / 40) * 48 * 6, waarbij L staat voor het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), met inbegrip van de vakantiebijslag, bedoeld in [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15); of
 
-- 3°. in ten minste zes maanden bijstand ontving op grond van [artikel 2, eerste of tweede lid, van het Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=2).
+- 3°. in ten minste zes maanden bijstand ontving op grond van [artikel 2, eerste of tweede lid, van het Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711&artikel=2);
+
+- d. de verzoeker die volledig en duurzaam arbeidsongeschikt is als bedoeld in [artikel 4 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=4).
 
 9. Van het afleggen van het onderdeel van het inburgeringsexamen genaamd het participatieverklaringstraject, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), is vrijgesteld de verzoeker die niet op grond van de Wet inburgering inburgeringsplichtig is.
 
@@ -190,11 +192,19 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 4. DUO geeft het in het derde lid bedoelde advies in ieder geval op diens verzoek af aan de vreemdeling die:
 
-- a. ten minste 600 uur heeft deelgenomen aan een inburgeringscursus, een cursus Nederlands als tweede taal of een combinatie daarvan bij een cursusinstelling met het Blik op Werk Keurmerk en ten minste viermaal heeft deelgenomen aan de niet behaalde onderdelen van de naturalisatietoets, waarvan ten hoogste twee van de examenpogingen de overeenkomstige onderdelen van het Staatsexamen Nederlands als tweede taal betreffen;
+- a. ten minste viermaal heeft deelgenomen aan de niet behaalde onderdelen van de naturalisatietoets, waarvan ten hoogste twee van de examenpogingen de overeenkomstige onderdelen van het staatsexamen Nederlands als tweede taal betreffen, en ten minste 600 uur bij een cursusinstelling met het Blik op Werk-keurmerk heeft deelgenomen aan:
+
+- 1°. een inburgeringscursus;
+
+- 2°. een combinatie van een alfabetiseringscursus en een inburgeringscursus, waarbij ten minste 200 uur besteed is aan de inburgeringscursus;
+
+- 3°. een cursus Nederlands als tweede taal; of
+
+- 4°. een combinatie van een inburgeringscursus en een cursus Nederlands als tweede taal;
 
 - b. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus bij een cursusinstelling met het Blik op Werk Keurmerk en uit een door DUO afgenomen toets blijkt dat de vreemdeling niet het leervermogen heeft om de naturalisatietoets te halen; of
 
-- c. ten minste 600 uur heeft deelgenomen aan een alfabetiseringscursus en een daaropvolgende inburgeringscursus, beide aan een cursusinstelling met het Blik op Werk Keurmerk, waarvan ten minste 300 uur besteed is aan de alfabetiseringscursus, en uit een door DUO afgenomen toets blijkt dat de vreemdeling niet het leervermogen heeft om de naturalisatietoets te halen.
+- c. ten minste 600 uur heeft deelgenomen aan een combinatie van een alfabetiseringscursus en een inburgeringscursus, beide aan een cursusinstelling met het Blik op Werk Keurmerk, waarvan ten minste 300 uur besteed is aan de alfabetiseringscursus, en uit een door DUO afgenomen toets blijkt dat de vreemdeling niet het leervermogen heeft om de naturalisatietoets te halen.
 
 5. Ter zake van de door DUO afgenomen toets, bedoeld in het vierde lid, onder b en c, is de vreemdeling aan DUO een bedrag van € 150 verschuldigd.
 
