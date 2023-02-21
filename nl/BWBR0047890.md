@@ -137,9 +137,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Maatwerkafspraken Verduurzaming Industrie.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
-
-##### Artikel 8a
-
-De leden van de Adviescommissie Maatwerkafspraken Verduurzaming Industrie kunnen twee maal worden herbenoemd voor de termijn van telkens ten hoogste vier jaar.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
