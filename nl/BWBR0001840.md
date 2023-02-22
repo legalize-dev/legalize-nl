@@ -4,7 +4,7 @@ identifier: "BWBR0001840"
 country: "nl"
 rank: "grondwet"
 publication_date: "2023-02-22"
-last_updated: "2022-11-01"
+last_updated: "2023-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001840"
 soort: "wet"
@@ -40,7 +40,7 @@ entry_into_force: "2022-07-06"
 
 ##### Artikel 1
 
-Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht of op welke grond dan ook, is niet toegestaan.
+Allen die zich in Nederland bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, handicap, seksuele gerichtheid of op welke grond dan ook, is niet toegestaan.
 
 ##### Artikel 2
 
@@ -186,7 +186,7 @@ De zorg van de overheid is gericht op de bewoonbaarheid van het land en de besch
 
 3. Het openbaar onderwijs wordt, met eerbiediging van ieders godsdienst of levensovertuiging, bij de wet geregeld.
 
-4. In elke gemeente en in elk van de openbare lichamen, bedoeld in [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=132a&z=2022-11-01&g=2022-11-01), wordt van overheidswege voldoend openbaar algemeen vormend lager onderwijs gegeven in een genoegzaam aantal openbare scholen. Volgens bij de wet te stellen regels kan afwijking van deze bepaling worden toegelaten, mits tot het ontvangen van zodanig onderwijs gelegenheid wordt gegeven, al dan niet in een openbare school.
+4. In elke gemeente en in elk van de openbare lichamen, bedoeld in [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=132a&z=2023-02-22&g=2023-02-22), wordt van overheidswege voldoend openbaar algemeen vormend lager onderwijs gegeven in een genoegzaam aantal openbare scholen. Volgens bij de wet te stellen regels kan afwijking van deze bepaling worden toegelaten, mits tot het ontvangen van zodanig onderwijs gelegenheid wordt gegeven, al dan niet in een openbare school.
 
 5. De eisen van deugdelijkheid, aan het geheel of ten dele uit de openbare kas te bekostigen onderwijs te stellen, worden bij de wet geregeld, met inachtneming, voor zover het bijzonder onderwijs betreft, van de vrijheid van richting.
 
@@ -288,7 +288,7 @@ De Koning kan de uitoefening van het koninklijk gezag tijdelijk neerleggen en di
 
 4. De regent zweert of belooft trouw aan de Grondwet en een getrouwe vervulling van zijn ambt, in een verenigde vergadering van de Staten-Generaal. De wet geeft nadere regels omtrent het regentschap en kan voorzien in de opvolging en de vervanging daarin. De Staten-Generaal beraadslagen en besluiten ter zake in verenigde vergadering.
 
-5. Op de regent zijn de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&paragraaf=1&artikel=35&z=2022-11-01&g=2022-11-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&paragraaf=1&artikel=36&z=2022-11-01&g=2022-11-01) van overeenkomstige toepassing.
+5. Op de regent zijn de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&paragraaf=1&artikel=35&z=2023-02-22&g=2023-02-22) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&paragraaf=1&artikel=36&z=2023-02-22&g=2023-02-22) van overeenkomstige toepassing.
 
 ##### Artikel 38
 
@@ -392,9 +392,9 @@ De Staten-Generaal vertegenwoordigen het gehele Nederlandse volk.
 
 ##### Artikel 55
 
-1. De leden van de Eerste Kamer worden gekozen door de leden van provinciale staten en de leden van de kiescolleges, bedoeld in het tweede lid en [artikel 132a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=132a&z=2022-11-01&g=2022-11-01). De verkiezing wordt, behoudens in geval van ontbinding der kamer, gehouden binnen drie maanden na de verkiezing van de leden van provinciale staten.
+1. De leden van de Eerste Kamer worden gekozen door de leden van provinciale staten en de leden van de kiescolleges, bedoeld in het tweede lid en [artikel 132a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=132a&z=2023-02-22&g=2023-02-22). De verkiezing wordt, behoudens in geval van ontbinding der kamer, gehouden binnen drie maanden na de verkiezing van de leden van provinciale staten.
 
-2. Ten behoeve van Nederlanders die geen ingezetenen zijn en die voldoen aan de vereisten die gelden voor de verkiezing van de Tweede Kamer der Staten-Generaal, worden verkiezingen gehouden voor een kiescollege voor de Eerste Kamer. De leden van dit kiescollege worden rechtstreeks gekozen door deze Nederlanders. Voor het lidmaatschap gelden dezelfde vereisten. [Artikel 129, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=129&z=2022-11-01&g=2022-11-01), is van overeenkomstige toepassing.
+2. Ten behoeve van Nederlanders die geen ingezetenen zijn en die voldoen aan de vereisten die gelden voor de verkiezing van de Tweede Kamer der Staten-Generaal, worden verkiezingen gehouden voor een kiescollege voor de Eerste Kamer. De leden van dit kiescollege worden rechtstreeks gekozen door deze Nederlanders. Voor het lidmaatschap gelden dezelfde vereisten. [Artikel 129, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=129&z=2023-02-22&g=2023-02-22), is van overeenkomstige toepassing.
 
 ##### Artikel 56
 
@@ -578,7 +578,7 @@ De vaststelling van wetten geschiedt door de regering en de Staten-Generaal geza
 
 1. Voorstellen van wet kunnen worden ingediend door of vanwege de Koning en door de Tweede Kamer der Staten-Generaal.
 
-2. Voorstellen van wet waarvoor behandeling door de Staten-Generaal in verenigde vergadering is voorgeschreven, kunnen worden ingediend door of vanwege de Koning en, voor zover de betreffende artikelen van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&z=2022-11-01&g=2022-11-01) dit toelaten, door de verenigde vergadering.
+2. Voorstellen van wet waarvoor behandeling door de Staten-Generaal in verenigde vergadering is voorgeschreven, kunnen worden ingediend door of vanwege de Koning en, voor zover de betreffende artikelen van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=2&z=2023-02-22&g=2023-02-22) dit toelaten, door de verenigde vergadering.
 
 3. Voorstellen van wet, in te dienen door de Tweede Kamer onderscheidenlijk de verenigde vergadering, worden bij haar door een of meer leden aanhangig gemaakt.
 
@@ -638,7 +638,7 @@ De regering bevordert de ontwikkeling van de internationale rechtsorde.
 
 ##### Artikel 92
 
-Met inachtneming, zo nodig, van het bepaalde in [artikel 91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=5&paragraaf=2&artikel=91&z=2022-11-01&g=2022-11-01), kunnen bij of krachtens verdrag aan volkenrechtelijke organisaties bevoegdheden tot wetgeving, bestuur en rechtspraak worden opgedragen.
+Met inachtneming, zo nodig, van het bepaalde in [artikel 91, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=5&paragraaf=2&artikel=91&z=2023-02-22&g=2023-02-22), kunnen bij of krachtens verdrag aan volkenrechtelijke organisaties bevoegdheden tot wetgeving, bestuur en rechtspraak worden opgedragen.
 
 ##### Artikel 93
 
@@ -700,7 +700,7 @@ Vervallen
 
 1. De wet bepaalt in welke gevallen ter handhaving van de uit- of inwendige veiligheid bij koninklijk besluit een door de wet als zodanig aan te wijzen uitzonderingstoestand kan worden afgekondigd; zij regelt de gevolgen.
 
-2. Daarbij kan worden afgeweken van de grondwetsbepalingen inzake de bevoegdheden van de besturen van provincies, gemeenten, openbare lichamen als bedoeld in [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=132a&z=2022-11-01&g=2022-11-01) en waterschappen, van de grondrechten geregeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=6&z=2022-11-01&g=2022-11-01), voor zover dit de uitoefening buiten gebouwen en besloten plaatsen van het in dit artikel omschreven recht betreft, 7, 8, [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=9&z=2022-11-01&g=2022-11-01), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=12&z=2022-11-01&g=2022-11-01), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=13&z=2022-11-01&g=2022-11-01), alsmede van [artikel 113, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=113&z=2022-11-01&g=2022-11-01).
+2. Daarbij kan worden afgeweken van de grondwetsbepalingen inzake de bevoegdheden van de besturen van provincies, gemeenten, openbare lichamen als bedoeld in [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=132a&z=2023-02-22&g=2023-02-22) en waterschappen, van de grondrechten geregeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=6&z=2023-02-22&g=2023-02-22), voor zover dit de uitoefening buiten gebouwen en besloten plaatsen van het in dit artikel omschreven recht betreft, 7, 8, [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=9&z=2023-02-22&g=2023-02-22), [12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=12&z=2023-02-22&g=2023-02-22), en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=13&z=2023-02-22&g=2023-02-22), alsmede van [artikel 113, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=113&z=2023-02-22&g=2023-02-22).
 
 3. Terstond na de afkondiging van een uitzonderingstoestand en voorts, zolang deze niet bij koninklijk besluit is opgeheven, telkens wanneer zij zulks nodig oordelen beslissen de Staten-Generaal omtrent het voortduren daarvan; zij beraadslagen en besluiten ter zake in verenigde vergadering.
 
@@ -712,7 +712,7 @@ Belastingen van het Rijk worden geheven uit kracht van een wet. Andere heffingen
 
 1. De begroting van de ontvangsten en de uitgaven van het Rijk wordt bij de wet vastgesteld.
 
-2. Jaarlijks worden voorstellen van algemene begrotingswetten door of vanwege de Koning ingediend op het in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=2&artikel=65&z=2022-11-01&g=2022-11-01) bedoelde tijdstip.
+2. Jaarlijks worden voorstellen van algemene begrotingswetten door of vanwege de Koning ingediend op het in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=2&artikel=65&z=2023-02-22&g=2023-02-22) bedoelde tijdstip.
 
 3. De verantwoording van de ontvangsten en de uitgaven van het Rijk wordt aan de Staten-Generaal gedaan overeenkomstig de bepalingen van de wet. De door de Algemene Rekenkamer goedgekeurde rekening wordt aan de Staten-Generaal overgelegd.
 
@@ -768,7 +768,7 @@ De doodstraf kan niet worden opgelegd.
 
 ##### Artikel 115
 
-Ten aanzien van de in [artikel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=112&z=2022-11-01&g=2022-11-01), bedoelde geschillen kan administratief beroep worden opengesteld.
+Ten aanzien van de in [artikel 112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=6&artikel=112&z=2023-02-22&g=2023-02-22), bedoelde geschillen kan administratief beroep worden opengesteld.
 
 ##### Artikel 116
 
@@ -846,7 +846,7 @@ Provinciale staten en de gemeenteraad stellen, behoudens bij de wet of door hen 
 
 ##### Artikel 128
 
-Behoudens in de gevallen bedoeld in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=123&z=2022-11-01&g=2022-11-01), kan de toekenning van bevoegdheden, als bedoeld in [artikel 124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2022-11-01&g=2022-11-01), aan andere organen dan die, genoemd in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2022-11-01&g=2022-11-01), alleen door provinciale staten onderscheidenlijk de gemeenteraad geschieden.
+Behoudens in de gevallen bedoeld in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=123&z=2023-02-22&g=2023-02-22), kan de toekenning van bevoegdheden, als bedoeld in [artikel 124, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2023-02-22&g=2023-02-22), aan andere organen dan die, genoemd in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2023-02-22&g=2023-02-22), alleen door provinciale staten onderscheidenlijk de gemeenteraad geschieden.
 
 ##### Artikel 129
 
@@ -854,7 +854,7 @@ Behoudens in de gevallen bedoeld in [artikel 123](https://wetten.overheid.nl/jci
 
 2. De leden worden gekozen op de grondslag van evenredige vertegenwoordiging binnen door de wet te stellen grenzen.
 
-3. De [artikelen 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=53&z=2022-11-01&g=2022-11-01), en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=59&z=2022-11-01&g=2022-11-01) zijn van toepassing. [Artikel 57a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=57a&z=2022-11-01&g=2022-11-01) is van overeenkomstige toepassing.
+3. De [artikelen 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=53&z=2023-02-22&g=2023-02-22), en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=59&z=2023-02-22&g=2023-02-22) zijn van toepassing. [Artikel 57a](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=3&paragraaf=1&artikel=57a&z=2023-02-22&g=2023-02-22) is van overeenkomstige toepassing.
 
 4. De zittingsduur van provinciale staten en de gemeenteraad is vier jaren, behoudens bij de wet te bepalen uitzonderingen.
 
@@ -880,7 +880,7 @@ De commissaris van de Koning en de burgemeester worden aangesteld, geschorst en 
 
 4. Vernietiging van besluiten van deze besturen kan alleen geschieden bij koninklijk besluit wegens strijd met het recht of het algemeen belang.
 
-5. De wet regelt de voorzieningen bij in gebreke blijven ten aanzien van regeling en bestuur, gevorderd krachtens [artikel 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2022-11-01&g=2022-11-01). Bij de wet kunnen met afwijking van de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2022-11-01&g=2022-11-01) en [127](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=127&z=2022-11-01&g=2022-11-01) voorzieningen worden getroffen voor het geval het bestuur van een provincie of een gemeente zijn taken grovelijk verwaarloost.
+5. De wet regelt de voorzieningen bij in gebreke blijven ten aanzien van regeling en bestuur, gevorderd krachtens [artikel 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2023-02-22&g=2023-02-22). Bij de wet kunnen met afwijking van de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2023-02-22&g=2023-02-22) en [127](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=127&z=2023-02-22&g=2023-02-22) voorzieningen worden getroffen voor het geval het bestuur van een provincie of een gemeente zijn taken grovelijk verwaarloost.
 
 6. De wet bepaalt welke belastingen door de besturen van provincies en gemeenten kunnen worden geheven en regelt hun financiële verhouding tot het Rijk.
 
@@ -902,7 +902,7 @@ De commissaris van de Koning en de burgemeester worden aangesteld, geschorst en 
 
 ##### Artikel 135
 
-De wet geeft regels ter voorziening in zaken waarbij twee of meer openbare lichamen zijn betrokken. Daarbij kan in de instelling van een nieuw openbaar lichaam worden voorzien, in welk geval [artikel 134, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=134&z=2022-11-01&g=2022-11-01), van toepassing is.
+De wet geeft regels ter voorziening in zaken waarbij twee of meer openbare lichamen zijn betrokken. Daarbij kan in de instelling van een nieuw openbaar lichaam worden voorzien, in welk geval [artikel 134, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=134&z=2023-02-22&g=2023-02-22), van toepassing is.
 
 ##### Artikel 136
 
@@ -944,7 +944,7 @@ De tekst van de herziene Grondwet wordt bij koninklijk besluit bekendgemaakt, wa
 
 ##### Artikel 142
 
-De Grondwet kan bij de wet met het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in overeenstemming worden gebracht. De [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=139&z=2022-11-01&g=2022-11-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=140&z=2022-11-01&g=2022-11-01) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=141&z=2022-11-01&g=2022-11-01) zijn van overeenkomstige toepassing.
+De Grondwet kan bij de wet met het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in overeenstemming worden gebracht. De [artikelen 139](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=139&z=2023-02-22&g=2023-02-22), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=140&z=2023-02-22&g=2023-02-22) en [141](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=141&z=2023-02-22&g=2023-02-22) zijn van overeenkomstige toepassing.
 
 ### Additionele artikelen
 
@@ -966,9 +966,9 @@ Wijzigt het Statuut voor het Koninkrijk der Nederlanden.
 
 ##### Artikel V
 
-1. [Artikel 137 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=137&z=2022-11-01&g=2022-11-01) zoals dat luidde voor de inwerkingtreding van dit artikel, blijft van kracht ten aanzien van een voorstel tot verandering in de Grondwet waarvan de wet die verklaart dat zij in overweging zal worden genomen, is bekendgemaakt vóór de datum waarop de Tweede Kamer is gekozen die zitting heeft op de datum van inwerkingtreding van dit artikel.
+1. [Artikel 137 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=137&z=2023-02-22&g=2023-02-22) zoals dat luidde voor de inwerkingtreding van dit artikel, blijft van kracht ten aanzien van een voorstel tot verandering in de Grondwet waarvan de wet die verklaart dat zij in overweging zal worden genomen, is bekendgemaakt vóór de datum waarop de Tweede Kamer is gekozen die zitting heeft op de datum van inwerkingtreding van dit artikel.
 
-2. Indien een wijziging van [artikel 137 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=137&z=2022-11-01&g=2022-11-01) in werking is getreden die ertoe strekt dat de Staten-Generaal in verenigde vergadering een voorstel tot verandering in de Grondwet in tweede lezing overwegen, komt het derde lid van [artikel 137 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=137&z=2022-11-01&g=2022-11-01) te luiden:
+2. Indien een wijziging van [artikel 137 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=137&z=2023-02-22&g=2023-02-22) in werking is getreden die ertoe strekt dat de Staten-Generaal in verenigde vergadering een voorstel tot verandering in de Grondwet in tweede lezing overwegen, komt het derde lid van [artikel 137 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=8&artikel=137&z=2023-02-22&g=2023-02-22) te luiden:
 
 3. Nadat de Tweede Kamer die wordt gekozen na de bekendmaking van de wet, bedoeld in het eerste lid, is samengekomen, overwegen de Staten-Generaal in verenigde vergadering in tweede lezing het voorstel tot verandering, bedoeld in het eerste lid. Zij kunnen dit alleen aannemen met ten minste twee derden van het aantal uitgebrachte stemmen. Indien zij gedurende de zittingsduur van de in de eerste volzin bedoelde Tweede Kamer geen besluit nemen over het voorstel, vervalt dit van rechtswege.
 
@@ -988,7 +988,7 @@ Vervallen
 
 ##### Artikel IX
 
-[Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=16&z=2022-11-01&g=2022-11-01) is niet van toepassing ten aanzien van feiten, strafbaar gesteld krachtens het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006).
+[Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=1&artikel=16&z=2023-02-22&g=2023-02-22) is niet van toepassing ten aanzien van feiten, strafbaar gesteld krachtens het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006).
 
 ##### Artikel X
 
@@ -1116,9 +1116,9 @@ Vervallen
 
 1. Bij de wet kunnen in het Caribische deel van Nederland andere territoriale openbare lichamen dan provincies en gemeenten worden ingesteld en opgeheven.
 
-2. De [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2022-11-01&g=2022-11-01), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2022-11-01&g=2022-11-01) en [127 tot en met 132](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=127&z=2022-11-01&g=2022-11-01) zijn ten aanzien van deze openbare lichamen van overeenkomstige toepassing.
+2. De [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=124&z=2023-02-22&g=2023-02-22), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=125&z=2023-02-22&g=2023-02-22) en [127 tot en met 132](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=127&z=2023-02-22&g=2023-02-22) zijn ten aanzien van deze openbare lichamen van overeenkomstige toepassing.
 
-3. In deze openbare lichamen worden verkiezingen gehouden voor een kiescollege voor de Eerste Kamer. [Artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=129&z=2022-11-01&g=2022-11-01) is van overeenkomstige toepassing.
+3. In deze openbare lichamen worden verkiezingen gehouden voor een kiescollege voor de Eerste Kamer. [Artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&hoofdstuk=7&artikel=129&z=2023-02-22&g=2023-02-22) is van overeenkomstige toepassing.
 
 4. Voor deze openbare lichamen kunnen regels worden gesteld en andere specifieke maatregelen worden getroffen met het oog op bijzondere omstandigheden waardoor deze openbare lichamen zich wezenlijk onderscheiden van het Europese deel van Nederland.
 
