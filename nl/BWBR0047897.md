@@ -4,7 +4,7 @@ identifier: "BWBR0047897"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-02-23"
-last_updated: "2020-01-02"
+last_updated: "2023-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047897"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Aan de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst wor
 
 ##### Artikel 2
 
-1. De directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst is bevoegd tot het verlenen van ondermandaat ten aanzien van het mandaat, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047897&artikel=1&z=2023-02-23&g=2020-01-02), aan onder hem ressorterende functionarissen, respectievelijk tot het beperken of intrekken daarvan.
+1. De directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst is bevoegd tot het verlenen van ondermandaat ten aanzien van het mandaat, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047897&artikel=1&z=2023-02-23&g=2023-02-23), aan onder hem ressorterende functionarissen, respectievelijk tot het beperken of intrekken daarvan.
 
 2. De directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst verleent ondermandaat als bedoeld in het eerste lid, bij schriftelijk besluit in overeenstemming met de secretaris-generaal.
 
