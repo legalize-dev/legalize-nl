@@ -4,7 +4,7 @@ identifier: "BWBR0030193"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-02-23"
-last_updated: "2011-07-02"
+last_updated: "2023-02-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030193"
 soort: "ministeriele-regeling-BES"
@@ -51,5 +51,11 @@ Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van
 ##### Artikel 3
 
 Dit besluit wordt aangehaald als: Mandaatbesluit verlening status buitengewoon agent van politie BES.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+De behandeling van een klacht die is ingediend over een gedraging van een buitengewoon agent van politie, bedoeld in [artikel 18, tweede lid, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=18), geschiedt door de korpschef van het politiekorps van Bonaire, Sint Eustatius en Saba.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
