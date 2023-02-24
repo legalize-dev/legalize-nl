@@ -4,7 +4,7 @@ identifier: "BWBR0027242"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2021-07-01"
+last_updated: "2023-02-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027242"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ Deze regeling treedt in werking met ingang van 1 maart 2010.
 
 Deze regeling wordt aangehaald als: Regeling indicatieve vaststelling reikwijdte Dienstenwet.
 
-## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2021-07-01&g=2021-07-01)
+## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027242&artikel=1&z=2023-02-24&g=2023-02-24)
 
 ### HOOFDSTUK 1. – VERGUNNINGSTELSELS EN EISEN VAN DE RIJKSOVERHEID
 
