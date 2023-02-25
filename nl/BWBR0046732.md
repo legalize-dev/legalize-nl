@@ -4,7 +4,7 @@ identifier: "BWBR0046732"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-01"
-last_updated: "2022-10-15"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046732"
 soort: "ministeriele-regeling"
@@ -94,29 +94,29 @@ In deze regeling wordt verstaan onder:
 
 1. Gemeenten ontvangen:
 
-- a. tot 15 oktober 2022, ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een normbedrag van € 100 per dag per gerealiseerde opvangplek;
+- a. tot 15 oktober 2022, ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2023-02-25&g=2023-02-25), een normbedrag van € 100 per dag per gerealiseerde opvangplek;
 
-- b. met ingang van 15 oktober 2022, ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een normbedrag van € 83 per dag per gerealiseerde opvangplek.
+- b. met ingang van 15 oktober 2022, ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2023-02-25&g=2023-02-25), een normbedrag van € 83 per dag per gerealiseerde opvangplek.
 
-2. Indien de totale werkelijke kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), per bestedingsjaar, een uitkering op basis van de normbedragen, bedoeld in het eerste lid, in betekenende mate zouden overschrijden dan kan de gemeente deze totale werkelijke kosten per opvangplek per dag declareren. De gemeente kan eveneens de totale werkelijke kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), per bestedingsjaar, declareren indien deze werkelijke kosten een uitkering op basis van normbedragen in betekenende mate zouden onderschrijden. Voor het jaar 2022 ligt de oorzaak van de kosten in alle gevallen in de periode 1 maart 2022 tot en met 31 december 2022 of in de in deze periode aangegane verplichtingen.
+2. Indien de totale werkelijke kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2023-02-25&g=2023-02-25), per bestedingsjaar, een uitkering op basis van de normbedragen, bedoeld in het eerste lid, in betekenende mate zouden overschrijden dan kan de gemeente deze totale werkelijke kosten per opvangplek per dag declareren. De gemeente kan eveneens de totale werkelijke kosten, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2023-02-25&g=2023-02-25), per bestedingsjaar, declareren indien deze werkelijke kosten een uitkering op basis van normbedragen in betekenende mate zouden onderschrijden. Voor het jaar 2022 ligt de oorzaak van de kosten in alle gevallen in de periode 1 maart 2022 tot en met 31 december 2022 of in de in deze periode aangegane verplichtingen.
 
-3. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een vergoeding van de werkelijke kosten per verstrekking als bedoeld in de [Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503).
+3. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2023-02-25&g=2023-02-25), een vergoeding van de werkelijke kosten per verstrekking als bedoeld in de [Regeling opvang ontheemden Oekraïne](https://wetten.overheid.nl/jci1.3:c:BWBR0046503).
 
-4. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een normbedrag van € 210 per geregistreerde persoon per maand waarin aan deze persoon een verstrekking is gedaan.
+4. Gemeenten ontvangen ter bekostiging van de kosten, bedoeld in [artikel 2, eerste lid, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2023-02-25&g=2023-02-25), een normbedrag van € 210 per geregistreerde persoon per maand waarin aan deze persoon een verstrekking is gedaan.
 
-5. Gemeenten ontvangen ter bekostiging van de transitiekosten, bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2022-10-15&g=2022-10-15), een vergoeding van de werkelijke kosten.
+5. Gemeenten ontvangen ter bekostiging van de transitiekosten, bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=2&z=2023-02-25&g=2023-02-25), een vergoeding van de werkelijke kosten.
 
 ##### Artikel 4. Voorwaarden
 
-De gemeenten besteden de specifieke uitkering gedurende de periode van 1 maart 2022 tot en met 28 februari 2023 of tot en met de dag waarop een binnen dat tijdvak bij de Staten-Generaal ingediend voorstel van wet waarop deze regeling komt te berusten is verworpen, danwel, indien dat voorstel tot wet is verheven en in werking is getreden, tot en met de dag waarop die wet vervalt.
+De gemeenten besteden de specifieke uitkering gedurende de periode van 1 maart 2022 tot en met 31 december 2023 of tot en met de dag waarop een binnen dat tijdvak bij de Staten-Generaal ingediend voorstel van wet waarop deze regeling komt te berusten is verworpen, danwel, indien dat voorstel tot wet is verheven en in werking is getreden, tot en met de dag waarop die wet vervalt.
 
 ##### Artikel 5. Voorschot
 
 1. Op aanvraag verstrekt en betaalt de staatssecretaris in 2022 aan gemeenten een voorschot van 100% van het aantal opvangplekken voor ontheemden dat een gemeente in een boekjaar verwacht te realiseren maal het normbedrag en de werkelijke transitiekosten.
 
-2. De aanvraag voor een voorschot, bedoeld in het eerste lid, kan de gemeente indienen bij de staatssecretaris.
+2. De aanvraag voor een voorschot, bedoeld in het eerste lid, kan de gemeente voor 1 oktober van het betreffende boekjaar indienen bij de staatssecretaris.
 
-3. In het geval, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=4&z=2022-10-15&g=2022-10-15), wordt in het eerste lid de zinsnede ‘in 2022’ gelezen als ‘in het jaar van besteding van de uitkering’.
+3. In het geval, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046732&artikel=4&z=2023-02-25&g=2023-02-25), wordt in het eerste lid de zinsnede ‘in 2022’ gelezen als ‘in het jaar van besteding van de uitkering’.
 
 ##### Artikel 6. Verantwoording
 
