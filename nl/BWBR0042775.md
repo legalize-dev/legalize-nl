@@ -4,7 +4,7 @@ identifier: "BWBR0042775"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-21"
-last_updated: "2023-01-01"
+last_updated: "2023-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042775"
 soort: "ministeriele-regeling"
@@ -44,6 +44,8 @@ Besluit:
 
 ##### Artikel 1. Begrippen
 
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
+
 - a. **afdeling Recherche W&I:** afdeling Recherche Werk & Inkomen;
 
 - b. **directie:** de directie Opsporing;
@@ -62,7 +64,7 @@ Besluit:
 
 1. De directie bestaat uit de volgende afdelingen:
 
-- a. de afdeling Recherche W&I waarbinnen de volgende rechercheteams zijn ingericht:
+- a. de afdeling Recherche W&I, waarbinnen de volgende rechercheteams zijn ingericht:
 
 - 1°. Rechercheteams op meerdere locaties;
 
@@ -70,9 +72,9 @@ Besluit:
 
 - b. de afdeling Recherche Zorgfraude, waarbinnen rechercheteams zijn ingericht;
 
-- c. de afdeling Recherche Arbeidsuitbuiting waarbinnen rechercheteams zijn ingericht;
+- c. de afdeling Recherche Arbeidsuitbuiting, waarbinnen rechercheteams zijn ingericht;
 
-- d. de afdeling Opsporingsinformatie waarbinnen de volgende teams zijn ingericht:
+- d. de afdeling Opsporingsinformatie, waarbinnen de volgende teams zijn ingericht:
 
 - 1°. IMI;
 
@@ -100,7 +102,7 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende taken:
 
 - c. het doen van voorstellen aan het IG-team met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g, i en s, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
 - e. het als lid van de Stuur- en Weegploeg inhoudelijk sturen op de onderzoeken die zijn beschreven in het Handhavingsarrangement dat door de directie samen met het Functioneel Parket van het Openbaar ministerie wordt vastgesteld;
 
@@ -244,7 +246,7 @@ De teamleider TCI is gevolmachtigd tot het aangaan van overeenkomsten ter waarde
 
 ##### Artikel 14. Doorverlening
 
-Een afdelingshoofd kan zijn of haar taak om als tactisch manager te participeren in het ontwikkelen en implementeren van Nederlandse Arbeidsinspectiebrede plannen onder zijn of haar verantwoordelijkheden laten uitvoeren door een teamleider.
+Een afdelingshoofd kan zijn of haar taak om als tactisch manager te participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie onder zijn of haar verantwoordelijkheid laten uitvoeren door een teamleider.
 
 ##### Artikel 15. Plaatsvervanging
 
