@@ -4,7 +4,7 @@ identifier: "BWBR0015939"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-06-26"
-last_updated: "2019-11-15"
+last_updated: "2023-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015939"
 soort: "AMvB"
@@ -62,7 +62,11 @@ Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet haven
 
 - f. het op 14 juni 2007 te Genève tot stand gekomen Verdrag betreffende werk in de visserijsector (IAO-Verdrag nr. 188) (Trb. 2011, 152);
 
-- g. het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008, 115).
+- g. het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008, 115);
+
+- h. het op 23 maart 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie (Trb. 2005, 329);
+
+- i. het Verdrag van Athene betreffende het vervoer van passagiers en hun bagage over zee van 1974, zoals gewijzigd bij het Protocol van 2002 (Trb. 2011, 110).
 
 ##### Artikel 2
 
