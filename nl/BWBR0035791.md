@@ -4,7 +4,7 @@ identifier: "BWBR0035791"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2023-01-01"
+last_updated: "2023-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035791"
 soort: "ministeriele-regeling"
@@ -1188,8 +1188,6 @@ Omroep als bedoeld in [artikel 6.9 van de Mediawet 2008](https://wetten.overheid
 
 Vanaf 1 juni 2022 tot 1 september 2025 is de frequentieruimte behorend bij een commerciële middengolfvergunning (C-kavel) telkens gekoppeld met 1/12e deel van de capaciteit van een bijbehorend digitaal frequentieblok overeenkomstig de onderstaande tabel ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de commerciële middengolfvergunning worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de middengolfband bestemd voor commerciële omroep die voor de betreffende commerciële middengolfvergunning tevens een ingevolge de rechterkolom van de onderstaande tabel daarbij behorende vergunning voor 1/12e deel van het gekoppelde frequentieblok houdt of gaat houden.
 
-Vanaf 1 september 2022 tot 1 september 2023 is de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep gekoppeld met 1/9e deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de FM-band bestemd voor landelijke commerciële omroepen die zowel een FM-vergunning voor landelijke commerciële radio-omroep als een vergunning voor 1/9e deel van de capaciteit van het frequentieblok 11C houden of gaan houden.
-
 Bestemming niet-landelijke commerciële radio-omroep voor de periode vanaf 1 juni 2022 tot 1 september 2025
 
 Vanaf 1 juni 2022 tot 1 september 2025 is de frequentieruimte behorend bij een FM-vergunning voor niet-landelijke commerciële radio-omroep overeenkomstig de onderstaande tabel telkens gekoppeld met 1/12e deel van de capaciteit van een bijbehorend digitaal frequentieblok ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van niet-landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte in de FM-band bestemd voor commerciële omroepen die voor elke vergunning voor niet-landelijke commerciële radio-omroep tevens een ingevolge de rechterkolom van de onderstaande tabel daarbij behorende vergunning voor 1/12e deel van het gekoppelde frequentieblok houden of gaan houden.
@@ -1200,9 +1198,11 @@ Vanaf 1 juni 2022 tot 1 september 2025 is 1/12e deel van de capaciteit van de fr
 
 Het deel van de frequentieruimte, bedoeld in de rechterkolom van de tabellen in nationale voetnoten HOL004 en HOL005, dat gekoppeld is aan vergunningen voor commerciële middengolfomroep onderscheidenlijk commerciële niet-landelijke FM-omroep, wordt in afwijking van de kolom Verdeelmechanisme van de in hoofdstuk 10 opgenomen Frequentietabel op volgorde van binnenkomst verleend.
 
-Vanaf 1 september 2022 tot 1 september 2023 is 1/9e deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A, gekoppeld met de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden. Daarbij is de in de vorige volzin bedoelde frequentieruimte van het frequentieblok 11C bestemd voor landelijke commerciële omroepen die zowel een vergunning voor 1/9e deel van de capaciteit van het frequentieblok 11C als een FM-vergunning voor landelijke commerciële radio-omroep houden of gaan houden.
+Bestemming landelijke commerciële omroep voor de periode vanaf 1 september 2022 tot 1 september 2023
 
-Voor de volgende frequentieband geldt vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
+Vanaf 1 september 2022 tot 1 september 2023 is 1/9e deel van de capaciteit van de frequentieruimte van het frequentieblok 11C, bedoeld in nationale voetnoot HOL007A, gekoppeld met de frequentieruimte behorend bij één FM-vergunning voor landelijke commerciële radio-omroep ten behoeve van in elk geval het ongewijzigd en gelijktijdig digitaal uitzenden van de radioprogramma’s die op grond van de landelijke commerciële FM-vergunningen worden uitgezonden.
+
+Voor de volgende frequentieband geldt tot en met 31 augustus 2023 vergunningverlening aan landelijke commerciële omroep op volgorde van binnenkomst van de aanvraag:
 
 Tot en met 31 augustus 2024 zijn de frequentieblokken in de onderstaande tabel en afbeelding bestemd voor digitale radio-omroep.
 
