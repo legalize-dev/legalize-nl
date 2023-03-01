@@ -4,7 +4,7 @@ identifier: "BWBR0024941"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-01"
-last_updated: "2022-01-01"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024941"
 soort: "AMvB"
@@ -136,7 +136,7 @@ Dit besluit treedt in werking op het tijdstip waarop de [Wet bestuurlijke boete 
 
 Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de openbare ruimte.
 
-## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2022-01-01&g=2022-01-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
+## Bijlage. als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024941&artikel=4&z=2023-03-01&g=2023-03-01), van het Besluit bestuurlijke boete overlast in de openbare ruimte
 
 | **A. Voorschrift uit de plaatselijke verordening** | **Boete in euro’s** |
 | --- | --- |
@@ -151,12 +151,12 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 |   |   |
 | A.4 |   |
 | De weg of een weggedeelte anders gebruiken dan overeenkomstig de publieke functie daarvan, waardoor |   |
-| – aan de weg schade wordt toegebracht of kan worden toegebracht | 250 |
-| – de bruikbaarheid van de weg wordt belemmerd of kan worden belemmerd | 250 |
-| – het beheer of onderhoud van de weg wordt belemmerd of kan worden belemmerd | 250 |
+| – aan de weg schade wordt toegebracht of kan worden toegebracht | 260 |
+| – de bruikbaarheid van de weg wordt belemmerd of kan worden belemmerd | 260 |
+| – het beheer of onderhoud van de weg wordt belemmerd of kan worden belemmerd | 260 |
 |   |   |
 | A.5 |   |
-| Zonder vergunning/ontheffing of anders dan de daarin gestelde voorwaarden de weg of een weggedeelte gebruiken anders dan overeenkomstig de publieke functie daarvan (bijv. terrasverbod, reclameborden) | 250 |
+| Zonder vergunning/ontheffing of anders dan de daarin gestelde voorwaarden de weg of een weggedeelte gebruiken anders dan overeenkomstig de publieke functie daarvan (bijv. terrasverbod, reclameborden) | 260 |
 |   |   |
 | A.6 |   |
 | Zich met een winkelwagentje op of aan de weg bevinden op meer dan de toegestane afstand van het bedrijf dat het winkelwagentje ter beschikking heeft gesteld | 100 |
@@ -226,9 +226,9 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 |   |   |
 | A.24 |   |
 | Als eigenaar of houder van een hond deze laten verblijven of laten lopen op een openbare plaats of op een terrein van een ander |   |
-| – terwijl na aanzegging van de burgemeester deze hond niet kort is aangelijnd | 250 |
-| – terwijl na aanzegging van de burgemeester deze hond niet kort is aangelijnd en gemuilkorfd | 250 |
-| – zonder dat deze hond is voorzien van een afleesbare microchip met uniek identificatienummer dat in verband met het gedrag van de hond is verstrekt | 250 |
+| – terwijl na aanzegging van de burgemeester deze hond niet kort is aangelijnd | 260 |
+| – terwijl na aanzegging van de burgemeester deze hond niet kort is aangelijnd en gemuilkorfd | 260 |
+| – zonder dat deze hond is voorzien van een afleesbare microchip met uniek identificatienummer dat in verband met het gedrag van de hond is verstrekt | 260 |
 |   |   |
 | A.25 |   |
 | Als degene die buiten een inrichting de zorg heeft voor een dier, niet voorkomen dat dit dier voor de omgeving (geluid)hinder veroorzaakt | 150 |
@@ -302,7 +302,7 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | 3°. voorwerpen of stoffen bij zich hebben ten behoeve van het recreatief als roesmiddel gebruiken van lachgas | 100 |
 |   |   |
 | A.41a |   |
-| Zich ophouden op of aan de weg of op, aan of in een andere vanaf de weg zichtbare plaats, niet zijnde een seksinrichting waarvoor een vergunning is verleend, met het kennelijke doel prostitutie of het verrichten van seksuele handelingen in het kader van prostitutie | 250 |
+| Zich ophouden op of aan de weg of op, aan of in een andere vanaf de weg zichtbare plaats, niet zijnde een seksinrichting waarvoor een vergunning is verleend, met het kennelijke doel prostitutie of het verrichten van seksuele handelingen in het kader van prostitutie | 260 |
 |   |   |
 | A.42 |   |
 | Zonder vergunning/ontheffing van het college of de burgemeester een openbare inzameling van geld of goederen houden of daartoe een intekenlijst aanbieden | 150 |
@@ -317,7 +317,7 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Zonder vergunning/ontheffing van het college of de burgemeester op of aan de weg of openbaar water dan wel op een andere voor het publiek toegankelijke en in de open lucht gelegen plaats een standplaats innemen of hebben teneinde in de uitoefening van de handel goederen te koop aan te bieden, te verkopen of af te leveren, dan wel diensten aan te bieden | 150 |
 |   |   |
 | A.46 |   |
-| Een voertuig dat rijtechnisch in onvoldoende staat van onderhoud en in een kennelijk verwaarloosde toestand verkeert op de weg parkeren | 410 |
+| Een voertuig dat rijtechnisch in onvoldoende staat van onderhoud en in een kennelijk verwaarloosde toestand verkeert op de weg parkeren | 420 |
 
 | **B. Voorschrift uit de plaatselijke verordening (milieu)** | **Boete in euro’s** |
 | --- | --- |
@@ -344,7 +344,7 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Het ter inzameling aanbieden van bedrijfsafvalstoffen | 100 |
 |   |   |
 | C.4 |   |
-| Buiten een daarvoor door het college bestemde plaats en buiten een inrichting in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu | 410 |
+| Buiten een daarvoor door het college bestemde plaats en buiten een inrichting in de zin van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245) een afvalstof, een stof of voorwerp in de bodem brengen, storten, houden, achterlaten of anderszins plaatsen op een wijze die aanleiding kan geven tot hinder of nadelige beïnvloeding van het milieu | 420 |
 |   |   |
 | C.5 |   |
 | Het achterlaten van straatafval in de openbare ruimte | 150 |
@@ -356,6 +356,6 @@ Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de open
 | Het achterlaten van zwerfafval bij vervoeren, laden of lossen van afvalstoffen | 150 |
 |   |   |
 | C.8 |   |
-| Het op een voor het publiek zichtbare plaats aanwezig hebben van afvalstoffen | 250 |
+| Het op een voor het publiek zichtbare plaats aanwezig hebben van afvalstoffen | 260 |
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
