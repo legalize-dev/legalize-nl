@@ -4,7 +4,7 @@ identifier: "BWBR0043213"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-24"
-last_updated: "2020-12-22"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043213"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Voor de toepassing van [artikel 3.11, tweede lid, van de wet](https://wetten.ove
 
 ##### Artikel 4. Maximum landelijke FM-omroep
 
-Voor de uitzending via de FM-band van radioprogramma’s, andere dan bedoeld in [artikel 7, eerste lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7), door één rechtspersoon, worden ten hoogste vier FM-frequenties of samenstellen van FM-frequenties gebruikt of verworven.
+Voor de uitzending via de FM-band van radioprogramma’s, andere dan bedoeld in [artikel 7, eerste lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7), door één rechtspersoon, worden ten hoogste drie FM-frequenties of samenstellen van FM-frequenties gebruikt of verworven.
 
 ##### Artikel 5. Maximum niet-landelijke FM-omroep
 
@@ -103,5 +103,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ##### Artikel 5a. Maximum allotment 9C
 
 In allotment 9C bedraagt de maximale hoeveelheid frequentieruimte per rechtspersoon: vier vergunningen voor het gebruik van 1/12e deel van de capaciteit van de multiplex.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Scheiding landelijke en niet-landelijke FM-markt
+
+Eén rechtspersoon gebruikt of verwerft niet zowel frequentieruimte als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=4&z=2023-03-01&g=2023-03-01), als frequentieruimte als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=5&z=2023-03-01&g=2023-03-01).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
