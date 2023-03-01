@@ -4,7 +4,7 @@ identifier: "BWBR0035235"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-03-01"
-last_updated: "2014-07-01"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035235"
 soort: "AMvB"
@@ -50,7 +50,9 @@ Hebben goedgevonden en verstaan:
 
 1. Als deskundigen bedoeld in [artikel 28a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=28a) worden aangewezen de artsen en psychologen die verbonden zijn aan:
 
-- –. het Kennis- en Zorgcentrum voor genderdysforie van het VU medisch centrum (VUmc) te Amsterdam,
+- –. het Kennis- en Zorgcentrum voor genderdysforie van het Amsterdam Universitair Medische Centra (Amsterdam UMC) te Amsterdam,
+
+- –. het expertisecentrum Geslacht & Gender van het Radboud universitair medisch centrum (Radboud umc) te Nijmegen,
 
 - –. het Genderteam van het Universitair Medisch Centrum Groningen (UMCG) te Groningen, en
 
