@@ -4,7 +4,7 @@ identifier: "BWBR0012638"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012638"
 soort: "AMvB"
@@ -58,41 +58,41 @@ De schuldenaarstarieven, vastgesteld bij of krachtens dit besluit dienen mede to
 
 Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
-1. Onverminderd de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=5&z=2023-01-01&g=2023-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2023-01-01&g=2023-01-01), bedragen de kosten, bedoeld in de [artikelen 240](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=240) en [434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor het exploot van:
+1. Onverminderd de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=5&z=2023-03-01&g=2023-03-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2023-03-01&g=2023-03-01), bedragen de kosten, bedoeld in de [artikelen 240](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=240) en [434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor het exploot van:
 
-- a. oproeping in een vorderingsprocedure: € 104,02;
+- a. oproeping in een vorderingsprocedure: € 106,73;
 
-- b. betekening van een titel: € 114,77;
+- b. betekening van een titel: € 116,20;
 
-- c. betekening van een procesinleiding met oproeping om in een verzoekprocedure te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 83,42;
+- c. betekening van een procesinleiding met oproeping om in een verzoekprocedure te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 84,85;
 
-- d. betekening, anders dan bedoeld in dit artikel: € 75,16;
+- d. betekening, anders dan bedoeld in dit artikel: € 76,59;
 
-- e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 138,70;
+- e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 140,13;
 
-- f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 186,25;
+- f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 186,61;
 
-- g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 274,48;
+- g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 274,84;
 
-- h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 301,25;
+- h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 302,86;
 
-- i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 221,00;
+- i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 221,57;
 
-- j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 155,16;
+- j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 157,17;
 
-- k. beslag als bedoeld in [artikel 479b van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479b): € 134,32;
+- k. beslag als bedoeld in [artikel 479b van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479b): € 135,75;
 
-- l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 184,01;
+- l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 185,59;
 
-- m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 320,12;
+- m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 321,55;
 
-- n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 137,67;
+- n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 139,10;
 
-- o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 190,53;
+- o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 192,33;
 
-- p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in [artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=575): € 67,97;
+- p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in [artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=575): € 69,77;
 
-- q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 420,01;
+- q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 421,81;
 
 - r. gerechtelijke inbewaringgeving: € 285,80;
 
@@ -100,11 +100,11 @@ Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zi
 
 - t. executoriale openbare verkoop van roerende zaken: € 365,10;
 
-- u. aanzegging van de overname van de executie van onroerende zaken: € 98,02;
+- u. aanzegging van de overname van de executie van onroerende zaken: € 98,38;
 
-- v. gedwongen ontruiming van onroerende zaken: € 272,76;
+- v. gedwongen ontruiming van onroerende zaken: € 274,19;
 
-- w. tenuitvoerlegging van lijfsdwang: € 317,03;
+- w. tenuitvoerlegging van lijfsdwang: € 318,46;
 
 - x. een informatieverzoek als bedoeld in [artikel 475aa van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475aa) of als bedoeld in [artikel 5, tweede lid, van de Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0038749&artikel=5): € 89,36;
 
@@ -114,41 +114,41 @@ Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zi
 
 Voor overige gevallen luidt het artikel als volgt:
 
-1. Onverminderd de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=5&z=2023-01-01&g=2023-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2023-01-01&g=2023-01-01), bedragen de kosten, bedoeld in de [artikelen 240](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=240) en [434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor het exploot van:
+1. Onverminderd de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=5&z=2023-03-01&g=2023-03-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2023-03-01&g=2023-03-01), bedragen de kosten, bedoeld in de [artikelen 240](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=240) en [434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor het exploot van:
 
-- a. dagvaarding, oproeping of aanzegging die het geding inleidt: € 104,02;
+- a. dagvaarding, oproeping of aanzegging die het geding inleidt: € 106,73;
 
-- b. betekening van een titel: € 114,77;
+- b. betekening van een titel: € 116,20;
 
-- c. betekening van een verzoekschrift met oproeping om in rechte te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 83,42;
+- c. betekening van een verzoekschrift met oproeping om in rechte te verschijnen of van een aanzegging, anders dan bedoeld in dit artikel: € 84,85;
 
-- d. betekening, anders dan bedoeld in dit artikel: € 75,16;
+- d. betekening, anders dan bedoeld in dit artikel: € 76,59;
 
-- e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 138,70;
+- e. beslag op roerende zaken, niet zijnde registergoederen, anders dan bedoeld in een van de volgende onderdelen, of van nadere aanduiding van de in beslag genomen roerende zaken: € 140,13;
 
-- f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 186,25;
+- f. beslag op roerende zaken, niet zijnde registergoederen, die zich bevinden op een zodanige plaats dat voor de toegang daartoe de medewerking van een derde nodig is: € 186,61;
 
-- g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 274,48;
+- g. beslag op rechten aan toonder of order, op effecten op naam of op overige rechten, anders dan bedoeld in dit artikel: € 274,84;
 
-- h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 301,25;
+- h. beslag op aandelen op naam in Nederlandse naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid: € 302,86;
 
-- i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 221,00;
+- i. beslag op aandelen aan toonder of van beslag onder derden, anders dan beslag op periodieke betalingen: € 221,57;
 
-- j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 155,16;
+- j. beslag onder derden op periodieke betalingen, anders dan beslag als bedoeld onder k: € 157,17;
 
-- k. beslag als bedoeld in [artikel 479b van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479b): € 134,32;
+- k. beslag als bedoeld in [artikel 479b van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=479b): € 135,75;
 
-- l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 184,01;
+- l. beslag onder de schuldeiser zelf, ongeacht het beslagobject: € 185,59;
 
-- m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 320,12;
+- m. executie tot afgifte van roerende zaken, niet zijnde registergoederen: € 321,55;
 
-- n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 137,67;
+- n. beslag tot verkrijging van afgifte of levering van roerende zaken, niet zijnde registergoederen: € 139,10;
 
-- o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 190,53;
+- o. beslag op onroerende zaken of op in Nederland te boek gestelde luchtvaartuigen: € 192,33;
 
-- p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in [artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=575): € 67,97;
+- p. opheffing van beslag op onroerende zaken of de verklaring, bedoeld in [artikel 575, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=575): € 69,77;
 
-- q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 420,01;
+- q. beslag op schepen of niet in Nederland te boek gestelde luchtvaartuigen: € 421,81;
 
 - r. gerechtelijke inbewaringgeving: € 285,80;
 
@@ -156,11 +156,11 @@ Voor overige gevallen luidt het artikel als volgt:
 
 - t. executoriale openbare verkoop van roerende zaken: € 365,10;
 
-- u. aanzegging van de overname van de executie van onroerende zaken: € 98,02;
+- u. aanzegging van de overname van de executie van onroerende zaken: € 98,38;
 
-- v. gedwongen ontruiming van onroerende zaken: € 272,76;
+- v. gedwongen ontruiming van onroerende zaken: € 274,19;
 
-- w. tenuitvoerlegging van lijfsdwang: € 317,03;
+- w. tenuitvoerlegging van lijfsdwang: € 318,46;
 
 - x. een informatieverzoek als bedoeld in [artikel 475aa van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475aa) of als bedoeld in [artikel 5, tweede lid, van de Uitvoeringswet verordening Europees bevel tot conservatoir beslag op bankrekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0038749&artikel=5): € 89,36;
 
@@ -170,7 +170,7 @@ Voor overige gevallen luidt het artikel als volgt:
 
 ##### Artikel 3
 
-Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2023-01-01&g=2023-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2023-01-01&g=2023-01-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), van inning, verdere tenuitvoerlegging en verdeling van de opbrengst van beslag op vorderingen tot periodieke betalingen, per maand waarin de gerechtsdeurwaarder een betaling van de derde int:
+Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-03-01&g=2023-03-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2023-03-01&g=2023-03-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2023-03-01&g=2023-03-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), van inning, verdere tenuitvoerlegging en verdeling van de opbrengst van beslag op vorderingen tot periodieke betalingen, per maand waarin de gerechtsdeurwaarder een betaling van de derde int:
 
 - a. in geval van enkelvoudig derdenbeslag: € 13,43;
 
@@ -180,33 +180,33 @@ Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&pa
 
 ##### Artikel 4
 
-1. Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-01-01&g=2023-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2023-01-01&g=2023-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2023-01-01&g=2023-01-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor de ambtshandeling, bedoeld in [artikel 2, onder b, d tot en met o, q tot en met w, en onder y](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01) die geen doorgang vindt, de helft van het bedrag, vastgesteld bij of krachtens het desbetreffende onderdeel van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), indien:
+1. Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-03-01&g=2023-03-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2023-03-01&g=2023-03-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2023-03-01&g=2023-03-01), bedragen de kosten, bedoeld in [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), voor de ambtshandeling, bedoeld in [artikel 2, onder b, d tot en met o, q tot en met w, en onder y](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01) die geen doorgang vindt, de helft van het bedrag, vastgesteld bij of krachtens het desbetreffende onderdeel van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01), indien:
 
 - a. de gerechtsdeurwaarder ter plaatse van de uitvoering van de desbetreffende ambtshandeling is aangetreden, en
 
 - b. de ambtshandeling geen doorgang heeft gevonden omdat de schuldenaar vrijwillig de uit de executoriale titel blijkende verplichting tot de prestatie nakomt die met die ambtshandeling zou worden afgedwongen, of omdat zijn gehele of gedeeltelijke prestatie leidt tot beeïndiging van de tenuitvoerlegging van de executoriale titel.
 
-2. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2023-01-01&g=2023-01-01) is van overeenkomstige toepassing, met dien verstande dat de kosten worden verhoogd met de helft van het desbetreffende bedrag.
+2. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2023-03-01&g=2023-03-01) is van overeenkomstige toepassing, met dien verstande dat de kosten worden verhoogd met de helft van het desbetreffende bedrag.
 
 ##### Artikel 5
 
-Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in [artikel 2, onder m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), verricht, worden de kosten van de ambtshandeling, vastgesteld in artikel 2, onder m, verminderd met € 25,74.
+Indien de gerechtsdeurwaarder met betrekking tot dezelfde roerende zaken de ambtshandelingen, bedoeld in [artikel 2, onder m en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01), verricht, worden de kosten van de ambtshandeling, vastgesteld in artikel 2, onder m, verminderd met € 25,74.
 
 ##### Artikel 6
 
 Indien de gerechtsdeurwaarder zich op grond van een wettelijk voorschrift voor de goede verrichting van de ambtshandeling laat bijstaan door een of meer getuigen, worden de kosten van de ambtshandeling:
 
-- a. bedoeld in [artikel 2, onder e, f, g, en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), verhoogd met € 26,21;
+- a. bedoeld in [artikel 2, onder e, f, g, en n](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01), verhoogd met € 26,21;
 
-- b. bedoeld in [artikel 2, onder m, o, q, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), verhoogd met € 91,77.
+- b. bedoeld in [artikel 2, onder m, o, q, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01), verhoogd met € 91,77.
 
 ##### Artikel 7
 
 Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandeling:
 
-- a. bedoeld in [artikel 2, onder e, f, g, h, n en y](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), langer dan anderhalf uur heeft geduurd, of
+- a. bedoeld in [artikel 2, onder e, f, g, h, n en y](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01), langer dan anderhalf uur heeft geduurd, of
 
-- b. bedoeld in [artikel 2, onder m, q, r, t, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 25,74 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2023-01-01&g=2023-01-01), verhoogd met € 15,24 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.
+- b. bedoeld in [artikel 2, onder m, q, r, t, v en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01), langer dan drie uur heeft geduurd, worden de kosten verhoogd met € 25,74 voor iedere 15 minuten dat de uitvoering ter plaatse van de ambtshandeling langer dan anderhalf uur, respectievelijk drie uur heeft geduurd, en worden de kosten, vastgesteld bij of krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2023-03-01&g=2023-03-01), verhoogd met € 15,24 voor iedere 15 minuten dat de bijstand door de getuige daarbij langer dan anderhalf uur, respectievelijk drie uur heeft geduurd.
 
 ##### Artikel 8
 
@@ -216,7 +216,7 @@ Indien uit het exploot blijkt dat de uitvoering ter plaatse van de ambtshandelin
 
 - b. de gerechtsdeurwaarder aan de voet van het exploot de data vermeldt waarop dat adres is geverifieerd aan de hand van gegevens uit de basisregistratie personen of het Handelsregister, en waarop betekening aan dat adres niet mogelijk is gebleken.
 
-2. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten van het exploot, bedoeld in [artikel 2, onder e en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), verhoogd met € 65,33 onderscheidenlijk € 127,74, indien de gerechtsdeurwaarder:
+2. Voor de toepassing van [artikel 434a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=434a), worden de kosten van het exploot, bedoeld in [artikel 2, onder e en w](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01), verhoogd met € 65,33 onderscheidenlijk € 127,74, indien de gerechtsdeurwaarder:
 
 - a. de desbetreffende ambtshandeling heeft verricht nadat een of meer eerdere pogingen daartoe geen doorgang vonden wegens afwezigheid van de schuldenaar of een persoon die hem kan vertegenwoordigen op de plaats van het beslag, onderscheidenlijk de afwezigheid van de schuldenaar op de voorziene plaats van tenuitvoerlegging van de lijfsdwang;
 
@@ -244,7 +244,7 @@ De kosten worden verhoogd met een percentage dat overeenkomt met het percentage,
 
 ##### Artikel 11
 
-[Deze paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&z=2023-01-01&g=2023-01-01) blijft buiten toepassing ten aanzien van:
+[Deze paragraaf](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&z=2023-03-01&g=2023-03-01) blijft buiten toepassing ten aanzien van:
 
 - a. de ambtshandeling waartoe de opdrachtgever in de gegeven omstandigheden, waaronder zijn belangen, die van de schuldenaar en hetgeen in het maatschappelijk verkeer gebruikelijk is, naar het oordeel van de rechter in redelijkheid niet had kunnen besluiten;
 
@@ -256,19 +256,19 @@ De kosten worden verhoogd met een percentage dat overeenkomt met het percentage,
 
 ##### Artikel 12
 
-1. De gerechtsdeurwaarder vraagt de opdrachtgever bij wijze van voorschot geen hoger bedrag dan het bedrag dat op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&z=2023-01-01&g=2023-01-01), met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=4&z=2023-01-01&g=2023-01-01) en [11, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2023-01-01&g=2023-01-01), wordt vastgesteld. De verhogingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2023-01-01&g=2023-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=7&z=2023-01-01&g=2023-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-01-01&g=2023-01-01), worden gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
+1. De gerechtsdeurwaarder vraagt de opdrachtgever bij wijze van voorschot geen hoger bedrag dan het bedrag dat op grond van [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&z=2023-03-01&g=2023-03-01), met uitzondering van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=4&z=2023-03-01&g=2023-03-01) en [11, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=11&z=2023-03-01&g=2023-03-01), wordt vastgesteld. De verhogingen, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=6&z=2023-03-01&g=2023-03-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=7&z=2023-03-01&g=2023-03-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-03-01&g=2023-03-01), worden gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
 
-2. Voor andere ambtshandelingen dan die bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=3&z=2023-01-01&g=2023-01-01) kan de gerechtsdeurwaarder bij wijze van voorschot een redelijk bedrag vragen.
+2. Voor andere ambtshandelingen dan die bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=3&z=2023-03-01&g=2023-03-01) kan de gerechtsdeurwaarder bij wijze van voorschot een redelijk bedrag vragen.
 
 ##### Artikel 13
 
-Indien aan de opdrachtgever een toevoeging als bedoeld in [artikel 24 van de Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=24) is verleend, vraagt de gerechtsdeurwaarder de opdrachtgever bij wijze van voorschot geen bedrag dat hoger is dan het bedrag dat op grond van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-01-01&g=2023-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2023-01-01&g=2023-01-01) wordt vastgesteld. Het bedrag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-01-01&g=2023-01-01), wordt gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
+Indien aan de opdrachtgever een toevoeging als bedoeld in [artikel 24 van de Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=24) is verleend, vraagt de gerechtsdeurwaarder de opdrachtgever bij wijze van voorschot geen bedrag dat hoger is dan het bedrag dat op grond van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-03-01&g=2023-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=10&z=2023-03-01&g=2023-03-01) wordt vastgesteld. Het bedrag, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=9&z=2023-03-01&g=2023-03-01), wordt gebaseerd op de kosten die naar zijn oordeel voor de goede verrichting van de ambtshandeling noodzakelijk zullen zijn.
 
 #### § 3. Slot- en overgangsbepalingen
 
 ##### Artikel 14
 
-1. De bedragen, vastgesteld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-01-01&g=2023-01-01), gelden tot en met 31 december 2002 en worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij:
+1. De bedragen, vastgesteld in de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=1&artikel=2&z=2023-03-01&g=2023-03-01), gelden tot en met 31 december 2002 en worden jaarlijks met ingang van 1 januari door Onze Minister gewijzigd met een percentage dat overeenkomt met 0,6 x (A – B) + (0,4 x C), waarbij:
 
 - a. A gelijk is aan het procentuele verschil tussen het indexcijfer van de CAO-lonen per uur, inclusief bijzondere beloningen van het jaargemiddelde van het jaar t-2 en het daaraan voorafgaande jaargemiddelde, zoals die door het Centraal Bureau voor de Statistiek zijn bekendgemaakt;
 
@@ -294,7 +294,7 @@ Dit besluit berust op de [artikelen 240](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 18
 
-Dit besluit, treedt in werking op het tijdstip waarop de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=21) en [89 van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=89) in werking treden, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2023-01-01&g=2023-01-01), dat in werking treedt met ingang van het tijdstip waarop artikel 31, onderdeel L, van hoofdstuk 5 van het bij koninklijke boodschap van 20 juni 2001 ingediende voorstel van wet tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Kamerstukken II 2000/2001, 27 824, nrs. 1–3), nadat het tot wet is verheven, in werking treedt.
+Dit besluit, treedt in werking op het tijdstip waarop de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=21) en [89 van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=89) in werking treden, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012638&paragraaf=3&artikel=14&z=2023-03-01&g=2023-03-01), dat in werking treedt met ingang van het tijdstip waarop artikel 31, onderdeel L, van hoofdstuk 5 van het bij koninklijke boodschap van 20 juni 2001 ingediende voorstel van wet tot aanpassing van de wetgeving aan de herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Kamerstukken II 2000/2001, 27 824, nrs. 1–3), nadat het tot wet is verheven, in werking treedt.
 
 ##### Artikel 19
 
