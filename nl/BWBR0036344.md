@@ -4,7 +4,7 @@ identifier: "BWBR0036344"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-01"
-last_updated: "2022-03-01"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036344"
 soort: "zbo"
@@ -42,9 +42,7 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- 1. In deze regeling gelden de begripsbepalingen die zijn gegeven in [artikel 1 van het Staatsexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=1) respectievelijk het [Staatsexamenbesluit VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029981).
-
-- 2. Voorts wordt in deze regeling verstaan onder:
+In deze regeling wordt verstaan onder:
 
 - •. voorzitter: de voorzitter van het College voor Toetsen en Examens;
 
@@ -72,7 +70,7 @@ Besluit:
 
 - c. beoordelingsmodel bij iedere schriftelijke toets.
 
-2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2022-03-01&g=2022-03-01).
+2. Het beoordelingsmodel wordt door het College voor Toetsen en Examens vastgesteld voor elke schriftelijke toets zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2023-03-01&g=2023-03-01).
 
 ##### Artikel 3. Algemene aanwijzing bij beoordeling schriftelijke toetsen
 
@@ -80,7 +78,7 @@ Voor de uitvoering van een opdracht worden door de eerste en door de tweede corr
 
 ##### Artikel 4. Beoordelingsmodel bij iedere schriftelijke toets
 
-Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2022-03-01&g=2022-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2022-03-01&g=2022-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
+Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2023-03-01&g=2023-03-01), wordt door het College voor Toetsen en Examens niet eerder bekendgemaakt dan wanneer het College voor Toetsen en Examens heeft vastgesteld, dat de betreffende toetsen zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2023-03-01&g=2023-03-01), geen onderdeel meer van een college-examen zullen uitmaken.
 
 ##### Artikel 5. Beoordeling mondelinge examens
 
@@ -88,7 +86,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een mondeling examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2022-03-01&g=2022-03-01).
+3. Het voorschrift voor de beoordeling van de mondelinge examens wordt door het College voor Toetsen en Examens vastgesteld voor elk mondeling examen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2023-03-01&g=2023-03-01).
 
 ##### Artikel 6. Beoordeling praktische examens
 
@@ -96,7 +94,7 @@ Het beoordelingsmodel bij iedere schriftelijke toets, bedoeld in [artikel 2, eer
 
 2. Een praktisch examen wordt afgenomen door twee examinatoren.
 
-3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2022-03-01&g=2022-03-01).
+3. Het voorschrift voor de beoordeling van de praktische examens wordt door het College voor Toetsen en Examens vastgesteld voor elk praktisch examen zoals vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2023-03-01&g=2023-03-01).
 
 ##### Artikel 7. Afwijking
 
@@ -108,7 +106,7 @@ Het College voor Toetsen en Examens kan beslissen, dat in het voorschrift voor d
 
 ##### Artikel 9. Aanpassing
 
-De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2022-03-01&g=2022-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2022-03-01&g=2022-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2022-03-01&g=2022-03-01) op onderdelen aan te passen.
+De voorzitter is gemachtigd de vaststellingen als opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=1&z=2023-03-01&g=2023-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=2&z=2023-03-01&g=2023-03-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&bijlage=3&z=2023-03-01&g=2023-03-01) op onderdelen aan te passen.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -122,15 +120,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De [Regeling beoordelingsnormen staatsexamens Voortgezet Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0029946) van 19 april 2011 wordt ingetrokken.
 
-##### Artikel 13. Citeertitel
+##### Artikel 13
 
-Deze regeling wordt aangehaald als: Regeling beoordelingsnormen Staatsexamens vo en Staatsexamens vo BES.
+Deze regeling wordt aangehaald als: Regeling beoordelingsnormen Staatsexamens vo.
 
-## Bijlage 1. Schriftelijke toetsen bij de college-examens Staatsexamens vo en Staatsexamens vo BES 2022
+## Bijlage 1. Schriftelijke toetsen bij de college-examens Staatsexamens vo en Staatsexamens vo BES 2023
 
 ### Schriftelijke toetsen staatsexamens VO en staatsexamens VO BES 2015
 
-Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de Staatsexamens vo en Staatsexamens vo BES.
+Toetsen voor de vakken die zijn opgenomen in bijlage 1, worden eveneens vastgesteld voor het derde tijdvak van de Staatsexamens vo.
 
 Er zijn beoordelingsmodellen voor de volgende schriftelijke toetsen bij de college-examens:
 
@@ -306,7 +304,7 @@ De volgende praktische examens worden afgenomen:
 | kunstvakken II: beeldende vakken-tekenen |
 | kunstvakken II: muziek |
 
-(bijlage als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2022-03-01&g=2022-03-01))
+(bijlage als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=2&z=2023-03-01&g=2023-03-01))
 
 ### Tabel 1a
 
@@ -314,9 +312,9 @@ De volgende praktische examens worden afgenomen:
 
 ### Tabel 1d
 
-## Bijlage 2. Mondelinge examens Staatsexamens vo en Staatsexamens vo BES 2022
+## Bijlage 2. Mondelinge examens Staatsexamens vo 2023
 
-(bijlage als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=5&z=2022-03-01&g=2022-03-01))
+(bijlage als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=5&z=2023-03-01&g=2023-03-01))
 
 De volgende mondelinge examens worden afgenomen:
 
@@ -330,9 +328,9 @@ De volgende mondelinge examens worden afgenomen:
 
 ### Tabel 2e
 
-## Bijlage 3. Praktische examens Staatsexamens vo en Staatsexamens vo BES 2022
+## Bijlage 3. Praktische examens Staatsexamens vo 2023
 
-(bijlage als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=6&z=2022-03-01&g=2022-03-01))
+(bijlage als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036344&artikel=6&z=2023-03-01&g=2023-03-01))
 
 De volgende praktische examens worden afgenomen:
 
