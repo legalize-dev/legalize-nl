@@ -4,7 +4,7 @@ identifier: "BWBR0046984"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-01"
-last_updated: "2022-09-01"
+last_updated: "2023-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046984"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 - a. 1 september 2022 tot en met 30 september 2022 € 2.375.000;
 
-- b. 1 maart 2023 tot en met 31 maart 2023 € 3.800.000;
+- b. 1 maart 2023 tot en met 31 maart 2023 € 5.600.000;
 
 - c. 1 november 2023 tot en met 30 november 2023 € 3.325.000.
 
@@ -124,15 +124,15 @@ Op deze regeling is [artikel 10.1 van de Kaderregeling](https://wetten.overheid.
 
 1. Subsidie wordt uitsluitend verstrekt indien deze in overeenstemming is met de de-minimisverordening.
 
-2. Met de uitvoering van de gesubsidieerde activiteiten wordt gestart binnen 30 weken na sluiting van een aanvraagperiode, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046984&artikel=7&z=2022-09-01&g=2022-09-01).
+2. Met de uitvoering van de gesubsidieerde activiteiten wordt gestart binnen 30 weken na sluiting van een aanvraagperiode, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046984&artikel=7&z=2023-03-01&g=2023-03-01).
 
 3. Een aanvraag komt niet voor subsidie in aanmerking indien de aanvrager:
 
-- a. reeds in dezelfde aanvraagperiode als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046984&artikel=7&z=2022-09-01&g=2022-09-01), een aanvraag heeft ingediend voor activiteiten waar subsidie voor wordt aangevraagd;
+- a. reeds in dezelfde aanvraagperiode als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046984&artikel=7&z=2023-03-01&g=2023-03-01), een aanvraag heeft ingediend voor activiteiten waar subsidie voor wordt aangevraagd;
 
 - b. reeds subsidie heeft ontvangen voor de activiteiten waar subsidie voor wordt aangevraagd;
 
-- c. reeds twee aanvragen heeft ingediend in één aanvraagperiode, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046984&artikel=7&z=2022-09-01&g=2022-09-01).
+- c. reeds twee aanvragen heeft ingediend in één aanvraagperiode, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046984&artikel=7&z=2023-03-01&g=2023-03-01).
 
 4. Een aanvraag komt enkel voor subsidie in aanmerking indien de aanvrager:
 
