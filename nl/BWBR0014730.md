@@ -4,7 +4,7 @@ identifier: "BWBR0014730"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-12"
-last_updated: "2021-02-20"
+last_updated: "2023-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014730"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 1, 2, 3 bis, 3 ter, eerste lid, en 3 quater, eerste lid, van [Verordening (EG) nr. 147/2003](32003R0147) van de Raad van de Europese Unie van 27 januari 2003 betreffende een aantal beperkende maatregelen ten aanzien van Somalië (Pb EG L 24).
 
-2. Het verbod te handelen in strijd met artikel 1 van [Verordening (EG) nr. 147/2003](32003R0147) is niet van toepassing in geval toepassing is gegeven aan artikel 2 bis of 3, eerste en tweede lid, van de verordening.
+2. Het verbod te handelen in strijd met artikel 1 van [Verordening (EG) nr. 147/2003](32003R0147) is niet van toepassing in geval toepassing is gegeven aan artikel 3, eerste en tweede lid, van de verordening.
 
 3. Het verbod te handelen in strijd met artikel 2 van [Verordening (EG) nr. 147/2003](32003R0147) is niet van toepassing in geval toepassing is gegeven aan artikel 3, derde lid, van de verordening.
 
@@ -60,27 +60,21 @@ Besluit:
 
 2. Het eerste lid is niet van toepassing in geval het een levering, verkoop of overdracht betreft van:
 
-- a. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door personeel van de Verenigde Naties, met inbegrip van de bijstandsmissie van de Verenigde Naties in Somalië (UNSOM);
+- a. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door personeel van de Verenigde Naties, met inbegrip van de bijstandsmissie van de Verenigde Naties in Somalië (Unsom);
 
-- b. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de missie van de Afrikaanse Unie in Somalië (AMISOM);
+- b. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de overgangsmissie van de Afrikaanse Unie in Somalië (Atmis) en haar strategische partners, die uitsluitend optreden op basis van het meest recente strategisch concept van de Afrikaanse Unie (AU), en in samenwerking en samenspraak met Atmis;
 
-- c. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de strategische partners van AMISOM, die uitsluitend optreden op grond van het African Union Strategic Concept van 5 januari 2012, dan wel op grond van latere concepten, alsmede in samenwerking en in samenspraak met AMISON;
+- c. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de Europese Unie voor opleidings- en ondersteuningsactiviteiten, Turkije, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika, alsmede alle andere staatstroepen die actief zijn in het kader van het transitieplan voor Somalië (Somalia Transition Plan – STP), of die een overeenkomst inzake de status van de strijdkrachten of een memorandum van overeenstemming met de federale regering van Somalië hebben om de doelstellingen van resolutie 2662 (2022) van de VN-Veiligheidsraad te dienen, mits zij het krachtens punt 11 van resolutie 751 (1992) van de VN-Veiligheidsraad ingestelde Sanctiecomité van dergelijke overeenkomsten in kennis stellen;
 
-- d. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door de opleidingsmissie Somalië van de Europese Unie (EUTM);
+- d. materieel dat uitsluitend bestemd is voor de ontwikkeling van de Somalische veiligheidsinstanties en politie-instanties op nationaal en lokaal niveau, ter beveiliging van de Somalische bevolking. Voor leveringen van de in de bijlagen II en III van Besluit 2010/231/GBVB vermelde goederen en het verstrekken van technisch advies, financiële en andere bijstand, alsmede opleiding in verband met militaire activiteiten, is desbetreffende goedkeuring of kennisgeving vereist, en wel als volgt:
 
-- e. materieel dat uitsluitend bestemd is ‘voor gebruikmaking door lidstaten of internationale, regionale of sub regionale organisaties wanneer deze op verzoek van de federale regering van Somalië en mits daarvan kennis is gegeven aan de secretaris-generaal, maatregelen nemen tegen piraterij en zeeroverij voor de kust van Somalië. Deze maatregelen dienen in overeenstemming met internationaal recht te zijn;
+- –. het leveren, verkopen of overdragen van wapentuig en alle soorten aanverwant materieel zoals vermeld in bijlage II van Besluit 2010/231/GBVB, uitsluitend bestemd voor de ontwikkeling van de Somalische veiligheids- en politie-instanties, ter beveiliging van de Somalische bevolking, moet vooraf door het Sanctiecomité worden goedgekeurd overeenkomstig artikel 1, vierde lid, van Besluit 2010/231/GBVB, en is toegestaan tenzij het Sanctiecomité binnen vijf werkdagen na ontvangst van een dergelijke kennisgeving van Somalië, de lidstaten of internationale, regionale of subregionale organisaties die de bijstand verlenen, een negatief besluit heeft genomen;
 
-- f. materieel als bedoeld in bijlage II van Besluit 2013/201/GBVB, dat uitsluitend bestemd is voor de ontwikkeling van de nationale veiligheidstroepen van Somalië of de instellingen van de Somalische veiligheidssector die niet tot de federale regering van Somalië behoren, om de veiligheid van de Somalische bevolking te garanderen, mits het Sanctiecomité vooraf toestemming heeft gegeven aan de levering, verkoop of overdracht. Het verzoek om toestemming vindt plaats in overleg met de federale regering van Somalië overeenkomstig het onder 13 en 14 gestelde van Resolutie 2498 (2019). Elk verzoek om toestemming omvat de gegevens over de fabrikant of leverancier, een beschrijving van het materieel, zoals type, kaliber, hoeveelheid, de voorgestelde datum en plaats van levering, alle relevante informatie over de eenheid van bestemming van de nationale veiligheidstroepen van Somalië of de opslagplaats van bestemming;
+- –. van het leveren, verkopen of overdragen van wapentuig en alle soorten aanverwant materieel zoals vermeld in bijlage III van Besluit 2010/231/GBVB, uitsluitend bestemd voor de ontwikkeling van de Somalische veiligheids- en politie-instanties, ter beveiliging van de Somalische bevolking, moet het Sanctiecomité ter informatie vijf werkdagen van tevoren in kennis worden gesteld overeenkomstig artikel 1, vierde lid, van Besluit 2010/231/GBVB, door Somalië, de lidstaten of internationale, regionale of subregionale organisaties die de bijstand verlenen;
 
-- g. materieel als bedoeld in bijlage III van Besluit 2013/201/GBVB bestemd voor:
+- e. materieel dat uitsluitend bestemd is voor de ondersteuning van of het gebruik door personeel van de Verenigde Naties, vertegenwoordigers van de media, medewerkers van humanitaire organisaties en ontwikkelingswerkers en aanverwant personeel louter voor persoonlijk gebruik tijdelijk naar Somalië worden uitgevoerd;
 
-- –. de ontwikkeling van de nationale veiligheidstroepen van Somalië, om de veiligheid van de Somalische bevolking te garanderen, mits het Sanctiecomité hiervan vijf werkdagen voorafgaand aan de levering, verkoop of overdracht in kennis is gesteld, en in overleg met de federale regering van Somalië, overeenkomstig het onder 13 en 14 gestelde van Resolutie 2498 (2019). Een kennisgeving omvat de gegevens over de fabrikant of leverancier, een beschrijving van het materieel, zoals type, kaliber en hoeveelheid, de voorgestelde datum en plaats van levering, alle relevante informatie over de eenheid van bestemming van de nationale veiligheidstroepen van Somalië of de opslagplaats van bestemming;
-
-- –. de ontwikkeling van de instellingen van de Somalische veiligheidssector die niet tot de federale regering van Somalië behoren, mits het Sanctiecomité niet vijf werkdagen na ontvangst van de kennisgeving een negatief besluit heeft genomen. Vijf werkdagen voorafgaand aan de kennisgeving aan het Sanctiecomite dient de federale regering van Somalie in kennis te worden gesteld. Een kennisgeving omvat de gegevens over de fabrikant of leverancier, een beschrijving van het materieel, zoals type, kaliber en hoeveelheid, de voorgestelde datum en plaats van levering, alle relevante informatie over de eenheid van bestemming van de nationale veiligheidstroepen van Somalië of de opslagplaats van bestemming;
-
-- h. beschermende kledingstukken, waaronder kogelwerende vesten en militaire helmen die door het VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties, en ontwikkelingswerkers en aanverwant personeel voor hun eigen bescherming tijdelijk naar Somalië wordt verzonden;
-
-- i. niet-dodelijke militaire uitrusting voor uitsluitend humanitaire of beschermende doeleinden waarvan de leverende staat of de internationale organisatie vijf dagen van te voren het Sanctiecomité in kennis heeft gesteld.
+- f. niet-dodelijke militaire uitrusting, uitsluitend voor humanitair gebruik of ter bescherming, door de lidstaat of internationale, regionale of subregionale organisatie.
 
 ##### Artikel 3
 
@@ -94,7 +88,7 @@ De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. De bevoegde autoriteit, bedoeld in artikel 2 bis van [Verordening (EG) nr. 147/2003](32003R0147) is, de Minister van Financiën voor zover het betreft financiering en financiële bijstand, en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand. De bevoegde autoriteit, bedoeld in artikel 3 bis van [Verordening (EG) nr. 147/2003](32003R0147) is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3). De bevoegde autoriteit, bedoeld in artikel 3 quater van [Verordening (EG) nr. 147/2003](32003R0147) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
+1. De bevoegde autoriteit, bedoeld in artikel 3 bis van [Verordening (EG) nr. 147/2003](32003R0147) is de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3). De bevoegde autoriteit, bedoeld in artikel 3 quater van [Verordening (EG) nr. 147/2003](32003R0147) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
 2. De bevoegde autoriteit, bedoeld in artikel 3, tweede lid, van Verordening (EU) nr. 356/2010 is de Minister van Financiën.
 
