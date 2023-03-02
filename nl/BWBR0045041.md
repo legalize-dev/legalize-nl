@@ -4,7 +4,7 @@ identifier: "BWBR0045041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045041"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **leerling:** leerling als bedoeld in [artikel 6.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7) die op 1 oktober voorafgaand aan het kalenderjaar waarvoor de aanvullende bekostiging wordt verstrekt aan een school is ingeschreven;
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
 - **school:** Uit ’s Rijks kas bekostigde school voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
@@ -58,19 +58,19 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 3. Doel van de aanvullende bekostiging
 
-De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2022 aanvullende bekostiging met als doel:
+De minister verstrekt aan het bevoegd gezag van een school in het kalenderjaar 2023 aanvullende bekostiging met als doel:
 
-- a. het verbeteren van strategisch personeelsbeleid, de begeleiding van startende leraren en schoolleiders alsmede de uitvoering van het onderwijsakkoord en het aanschaffen van CO2-meters; en
+- a. het verbeteren van strategisch personeelsbeleid, de begeleiding van startende leraren en schoolleiders; en
 
 - b. het aanpakken van verzuim.
 
 ##### Artikel 4. Beschikbare middelen per leerling
 
-In 2022 ontvangt het bevoegd gezag van een school in het kader van deze regeling een bedrag van:
+In 2023 ontvangt het bevoegd gezag van een school in het kader van deze regeling een bedrag van:
 
-- a. € 503,36 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-01-01); en
+- a. € 49,19 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-03-02); en
 
-- b. € 22,32 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-01-01).
+- b. € 11,07 per leerling voor het doel, als bedoeld in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-03-02).
 
 ##### Artikel 5. Beschikking en betaling
 
@@ -94,9 +94,9 @@ In 2022 ontvangt het bevoegd gezag van een school in het kader van deze regeling
 
 ##### Artikel 7. Monitor en evaluatie
 
-1. De minister monitort de voortgang op de doelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-01-01), op landelijk niveau en voert een evaluatie uit.
+1. De minister monitort de voortgang op de doelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-03-02), op landelijk niveau en voert een evaluatie uit.
 
-2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-01-01) bedoelde doelen.
+2. Ten behoeve van de in het eerste lid bedoelde monitor en evaluatie verstrekt de school desgevraagd een samenhangend overzicht van de door de school gepleegde inspanningen ten behoeve van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045041&artikel=3&z=2023-03-02&g=2023-03-02) bedoelde doelen.
 
 ##### Artikel 8. Inwerkingtreding
 
