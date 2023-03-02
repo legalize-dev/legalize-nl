@@ -4,7 +4,7 @@ identifier: "BWBR0039950"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-12"
-last_updated: "2021-03-10"
+last_updated: "2023-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039950"
 soort: "ministeriele-regeling"
@@ -47,11 +47,11 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
-1. De officier die is benoemd tot adjudant-generaal tevens chef van het militaire huis van Z.M. de Koning dan wel tot adjudant van Z.M. de Koning- hierna te noemen adjudant van Z.M. de Koning- dient, voor de tijd dat hij die functie vervult, naast de voor hem vastgestelde persoonlijke standaarduitrusting te beschikken over de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2021-03-10) onder a genoemde aanvulling.
+1. De officier die is benoemd tot adjudant-generaal tevens chef van het militaire huis van Z.M. de Koning dan wel tot adjudant van Z.M. de Koning- hierna te noemen adjudant van Z.M. de Koning- dient, voor de tijd dat hij die functie vervult, naast de voor hem vastgestelde persoonlijke standaarduitrusting te beschikken over de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2023-03-02) onder a genoemde aanvulling.
 
-2. De in het vorige lid bedoelde officier dient, met toepassing van het gestelde in [artikel 12 van de Regeling uitrusting defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&artikel=12), te beschikken over de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2021-03-10) onder b genoemde kleding- en uitrustingsstukken.
+2. De in het vorige lid bedoelde officier dient, met toepassing van het gestelde in [artikel 12 van de Regeling uitrusting defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&artikel=12), te beschikken over de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2023-03-02) onder b genoemde kleding- en uitrustingsstukken.
 
-3. De in het eerste en tweede lid bedoelde artikelen worden -tenzij in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2021-03-10) anders is aangegeven- éénmalig voor rekening van het rijk van in eigendom verstrekt. Het onderhoud en de vervanging van deze artikelen geschieden door en voor rekening van de officier.
+3. De in het eerste en tweede lid bedoelde artikelen worden -tenzij in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2023-03-02) anders is aangegeven- éénmalig voor rekening van het rijk van in eigendom verstrekt. Het onderhoud en de vervanging van deze artikelen geschieden door en voor rekening van de officier.
 
 4. Indien verstrekking van rijkswege van de in het vorige lid bedoelde artikelen niet mogelijk is, dienen deze zelfstandig te worden aangeschaft. Voor de daaraan verbonden kosten van aanschaffing bestaat aanspraak op een tegemoetkoming tot ten hoogste een bedrag van:
 
@@ -67,25 +67,25 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 2
 
-1. Naar regelen te stellen door de chef van het militaire huis van Z.M. de Koning kan de officier als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&artikel=1&z=2021-03-10&g=2021-03-10), worden verplicht de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=II&z=2021-03-10&g=2021-03-10) genoemde burgerkleding te dragen.
+1. Naar regelen te stellen door de chef van het militaire huis van Z.M. de Koning kan de officier als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&artikel=1&z=2021-03-10&g=2023-03-02), worden verplicht de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=II&z=2021-03-10&g=2023-03-02) genoemde burgerkleding te dragen.
 
 2. Deze door de officier aan te schaffen burgerkleding blijft zijn eigendom. Voor de eerste aanschaffing bestaat aanspraak op een tegemoetkoming in de daaraan verbonden kosten tot een bedrag van:
 
-- a. voor de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=II&z=2021-03-10&g=2021-03-10) onder a genoemde artikelen: € 1.592,84;
+- a. voor de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=II&z=2021-03-10&g=2023-03-02) onder a genoemde artikelen: € 1.592,84;
 
-- b. voor de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=II&z=2021-03-10&g=2021-03-10) onder b genoemde artikelen: € 398,21;
+- b. voor de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=II&z=2021-03-10&g=2023-03-02) onder b genoemde artikelen: € 398,21;
 
-- c. voor de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=II&z=2021-03-10&g=2021-03-10) onder c genoemde artikelen: € 776,65.
+- c. voor de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=II&z=2021-03-10&g=2023-03-02) onder c genoemde artikelen: € 776,65.
 
 Het onderhoud en de vervanging van deze artikelen geschieden door en voor rekening van de officier.
 
 ##### Artikel 3
 
-Ten aanzien van de officier die is benoemd tot adjudant in buitengewone dienst van Z.M. de Koning is het gestelde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&artikel=1&z=2021-03-10&g=2021-03-10) van overeenkomstige toepassing, voor zover de verstrekking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2021-03-10) genoemde aantallen door de chef van het militaire huis van Z.M. de Koning noodzakelijk wordt geacht.
+Ten aanzien van de officier die is benoemd tot adjudant in buitengewone dienst van Z.M. de Koning is het gestelde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&artikel=1&z=2021-03-10&g=2023-03-02) van overeenkomstige toepassing, voor zover de verstrekking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2023-03-02) genoemde aantallen door de chef van het militaire huis van Z.M. de Koning noodzakelijk wordt geacht.
 
 ##### Artikel 4
 
-De chef van het militaire huis van Z.M. de Koning is bevoegd ten aanzien van officieren van het Korps Mariniers, officieren van de Koninklijke Marechaussee en vrouwelijke officieren de voor hen benodigde soorten kleding en uitrusting vast te stellen naar analogie van het gestelde in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2021-03-10).
+De chef van het militaire huis van Z.M. de Koning is bevoegd ten aanzien van officieren van het Korps Mariniers, officieren van de Koninklijke Marechaussee en vrouwelijke officieren de voor hen benodigde soorten kleding en uitrusting vast te stellen naar analogie van het gestelde in de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0039950&bijlage=I&z=2021-03-10&g=2023-03-02).
 
 ##### Artikel 5. Inwerkingtreding
 
