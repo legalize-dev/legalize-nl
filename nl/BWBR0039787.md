@@ -4,7 +4,7 @@ identifier: "BWBR0039787"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2023-02-01"
+last_updated: "2023-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039787"
 soort: "ministeriele-regeling"
@@ -99,9 +99,9 @@ De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://
 
 ##### Artikel 5. Indeling in reisklassen
 
-- 1. De indeling in reisklassen, bedoeld in [artikel 7, tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=7), geschiedt volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2023-02-01&g=2023-02-01), Klasse-indeling bij dienstreizen Defensie.
+- 1. De indeling in reisklassen, bedoeld in [artikel 7, tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=7), geschiedt volgens [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2023-02-01&g=2023-03-02), Klasse-indeling bij dienstreizen Defensie.
 
-- 2. Indien bij een dienstreis met het vliegtuig een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2023-02-01&g=2023-02-01) genoemde vliegtuigklasse niet voorkomt, bepaalt de commandant de klasse die met de betrokken klasse overeenkomt.
+- 2. Indien bij een dienstreis met het vliegtuig een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=A&z=2023-02-01&g=2023-03-02) genoemde vliegtuigklasse niet voorkomt, bepaalt de commandant de klasse die met de betrokken klasse overeenkomt.
 
 - 3. De commandant kan, in voorkomend geval, het reizen met het vliegtuig in een hogere klasse toestaan, indien in de voor de dienstreiziger geldende klasse door plaatsgebrek geen passage kan worden besproken en de reis niet kan worden uitgesteld.
 
@@ -129,7 +129,7 @@ De groepen, bedoeld in [artikel 3 tweede lid, onderdeel d, van het BDD](https://
 
 ##### Artikel 7. Vergoeding gebruik eigen motorrijtuig
 
-De vergoeding, bedoeld in [artikel 9, eerste en tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer inclusief eventueel meereizende dienstreizigers wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2023-02-01&g=2023-02-01), tabel 1.
+De vergoeding, bedoeld in [artikel 9, eerste en tweede lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer inclusief eventueel meereizende dienstreizigers wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2023-02-01&g=2023-03-02), tabel 1.
 
 ##### Artikel 8. Kilometeromslagpunt en inbegrepen kosten
 
@@ -157,7 +157,7 @@ Vervallen
 
 ##### Artikel 11. Vergoeding van fietsgebruik
 
-- 1. De vergoeding, bedoeld in [artikel 9, eerste lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer met de eigen fiets, wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2023-02-01&g=2023-02-01), tabel 2.
+- 1. De vergoeding, bedoeld in [artikel 9, eerste lid, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=9), per afgelegde kilometer met de eigen fiets, wordt gevonden door toepassing van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B&z=2023-02-01&g=2023-03-02), tabel 2.
 
 - 2. De noodzakelijke kosten voor stalling van een voor de dienstreis gebruikte fiets en de noodzakelijk gemaakte andere kosten van het gebruik voor de dienstreis van een fiets worden vergoed.
 
@@ -199,11 +199,11 @@ Vervallen
 
 - d. de omgekeerde lunchcomponent, indien mede is voldaan aan de voorwaarden dat de tijd tussen 00.00 uur en 03.00 uur geheel in de dienstreis valt en gedurende die tijd geen logies wordt genoten.
 
-- 4. De bedragen van de maaltijdcomponenten worden, indien de dienstreiziger de kosten in een horecabedrijf heeft gemaakt, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2023-02-01&g=2023-02-01), kolom Horeca. De bedragen van de kleine en grote component en de uur component worden gevonden door toepassing van bijlage C, de desbetreffende kolom.
+- 4. De bedragen van de maaltijdcomponenten worden, indien de dienstreiziger de kosten in een horecabedrijf heeft gemaakt, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2023-02-01&g=2023-03-02), kolom Horeca. De bedragen van de kleine en grote component en de uur component worden gevonden door toepassing van bijlage C, de desbetreffende kolom.
 
 - 5. Indien de dienstreiziger bij een dienstreis kosten heeft gemaakt voor een maaltijd van overheidswege, bestaat geen aanspraak op enige maaltijdcomponent. De commandant bepaalt op welke plaatsen sprake is van maaltijden of logies van overheidswege.
 
-- 6. Indien de dienstreiziger kosten heeft gemaakt voor logies worden de daadwerkelijk gemaakte kosten vergoed tot ten hoogste het bedrag van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2023-02-01&g=2023-02-01), kolom ‘logies’.
+- 6. Indien de dienstreiziger kosten heeft gemaakt voor logies worden de daadwerkelijk gemaakte kosten vergoed tot ten hoogste het bedrag van de logiescomponent, gevonden door toepassing van [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2023-02-01&g=2023-03-02), kolom ‘logies’.
 
 - 7. Indien bij een buitenlandse dienstreis een bewijsstuk van de kosten voor logies en ontbijt wordt overgelegd waaruit niet blijkt welk deel van de kosten voor logies en welk deel van de kosten voor ontbijt zijn gemaakt, worden de op het bewijsstuk vermelde kosten vergoed tot ten hoogste het bedrag van de som van de ontbijt- en logiescomponent.
 
@@ -233,9 +233,9 @@ Vervallen
 
 - e. een reisverzekering met dezelfde of nagenoeg dezelfde dekking als die welke geldt indien de reis vanuit Nederland door de commandant bij de hem daarvoor aangewezen reisorganisatie zou zijn geboekt, doch alleen indien de kosten daarvan niet in de prijs van het reisbiljet zijn begrepen en voor die gevallen waarin bedoelde boeking wegens bijzondere omstandigheden niet kon plaatsvinden.
 
-- 2. De dienstreiziger die een dienstreis maakt van langere duur dan 7 dagen naar een in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2023-02-01&g=2023-02-01) vermeld gebied, waar tijdens de dienstreis sprake is van tropische hitte of polaire koude, wordt op zijn verzoek een tegemoetkoming in de werkelijk gemaakte kosten voor aanschaf van deze kleding verstrekt tot ten hoogste een bedrag van € 256,61.
+- 2. De dienstreiziger die een dienstreis maakt van langere duur dan 7 dagen naar een in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2023-02-01&g=2023-03-02) vermeld gebied, waar tijdens de dienstreis sprake is van tropische hitte of polaire koude, wordt op zijn verzoek een tegemoetkoming in de werkelijk gemaakte kosten voor aanschaf van deze kleding verstrekt tot ten hoogste een bedrag van € 256,61.
 
-- 3. Indien een gebied niet staat vermeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2023-02-01&g=2023-02-01), kan de commandant deze bijlage voor zijn dienstonderdeel voor de duur van de desbetreffende dienstreis met dit gebied uitbreiden, indien tijdens de dienstreis sprake is van de in het tweede lid bedoelde klimatologische omstandigheden en dit gebied niet is gelegen binnen Europa. Deze tijdelijke uitbreiding kan eveneens geschieden voor een gebied binnen Europa in een land dat voorkomt in bijlage D.
+- 3. Indien een gebied niet staat vermeld in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=D&z=2023-02-01&g=2023-03-02), kan de commandant deze bijlage voor zijn dienstonderdeel voor de duur van de desbetreffende dienstreis met dit gebied uitbreiden, indien tijdens de dienstreis sprake is van de in het tweede lid bedoelde klimatologische omstandigheden en dit gebied niet is gelegen binnen Europa. Deze tijdelijke uitbreiding kan eveneens geschieden voor een gebied binnen Europa in een land dat voorkomt in bijlage D.
 
 - 4. De tegemoetkoming, bedoeld in het tweede lid, wordt niet verstrekt indien:
 
@@ -289,7 +289,7 @@ De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wette
 
 - 3. Voor de toepassing van het eerste lid, wordt in de daar genoemde algemeen verbindende voorschriften verstaan onder:
 
-- a. **‘commandant’:** de commandant, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=1&artikel=1&z=2023-02-01&g=2023-02-01), van de Regeling dienstreizen Defensie;
+- a. **‘commandant’:** de commandant, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=1&artikel=1&z=2023-02-01&g=2023-03-02), van de Regeling dienstreizen Defensie;
 
 - b. **‘datum van verplaatsing, de detachering of van de indiensttreding’:** de datum van de detachering, bedoeld in [artikel 14, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14).
 
@@ -321,13 +321,13 @@ De op grond van [artikel 13, eerste lid, onderdeel d, van het BDD](https://wette
 
 - 3. De bijdrage, bedoeld in het eerste lid, onderdeel b, en het tweede lid wordt voor een periode korter dan een maand naar tijdsgelang berekend, waarbij een maand wordt gesteld op dertig dagen.
 
-- 4. Het gestelde in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=4&artikel=15&z=2023-02-01&g=2023-02-01), is bij een detachering in Nederland van overeenkomstige toepassing.
+- 4. Het gestelde in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=4&artikel=15&z=2023-02-01&g=2023-03-02), is bij een detachering in Nederland van overeenkomstige toepassing.
 
-- 5. Bij een detachering als bedoeld in [artikel 14, tweede lid, juncto vierde lid, onderdeel b, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14), bestaat aanspraak op een verblijfkostenvergoeding overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&z=2023-02-01&g=2023-02-01), met dien verstande dat met ingang van de eenenzestigste dag, of zoveel eerder als daartoe naar het oordeel van de commandant aanleiding is, de bedragen van de maaltijdcomponenten en de uur component, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2023-02-01&g=2023-02-01), worden gehalveerd.
+- 5. Bij een detachering als bedoeld in [artikel 14, tweede lid, juncto vierde lid, onderdeel b, van het BDD](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&artikel=14), bestaat aanspraak op een verblijfkostenvergoeding overeenkomstig [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&z=2023-02-01&g=2023-03-02), met dien verstande dat met ingang van de eenenzestigste dag, of zoveel eerder als daartoe naar het oordeel van de commandant aanleiding is, de bedragen van de maaltijdcomponenten en de uur component, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2023-02-01&g=2023-03-02), worden gehalveerd.
 
 ##### Artikel 16a. Detachering Koninklijke Marechaussee
 
-Voor de militair van de Koninklijke Marechaussee die in opdracht van de Commandant Koninklijke Marechaussee in het kader van de uitoefening van taken op grond van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) of de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) deze taken verricht op een andere locatie dan de standplaats voor een langere duur dan vier weken en als gevolg hiervan niet dagelijks reist tussen de woning en de plaats van tewerkstelling en voor zijn huisvesting gebruik dient te maken van hotelvoorzieningen, geldt de gehele periode van tewerkstelling als een dienstreis, waarbij huisvesting en voeding door en voor rekening van Defensie worden verstrekt. De vergoedingen vinden plaats op grond van [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=2&artikel=3&z=2023-02-01&g=2023-02-01) en [12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2023-02-01&g=2023-02-01), van deze regeling. Gedurende de periode van tewerkstelling bestaat geen aanspraak op vergoedingen op basis van het [Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137).
+Voor de militair van de Koninklijke Marechaussee die in opdracht van de Commandant Koninklijke Marechaussee in het kader van de uitoefening van taken op grond van de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) of de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) deze taken verricht op een andere locatie dan de standplaats voor een langere duur dan vier weken en als gevolg hiervan niet dagelijks reist tussen de woning en de plaats van tewerkstelling en voor zijn huisvesting gebruik dient te maken van hotelvoorzieningen, geldt de gehele periode van tewerkstelling als een dienstreis, waarbij huisvesting en voeding door en voor rekening van Defensie worden verstrekt. De vergoedingen vinden plaats op grond van [artikelen 3 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=2&artikel=3&z=2023-02-01&g=2023-03-02) en [12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=12&z=2023-02-01&g=2023-03-02), van deze regeling. Gedurende de periode van tewerkstelling bestaat geen aanspraak op vergoedingen op basis van het [Verplaatsingskostenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0005137).
 
 #### Paragraaf 5. Diverse bepalingen; slotbepalingen
 
@@ -351,11 +351,11 @@ De commandant kan voor de in deze regeling bedoelde vergoedingen een voorschot v
 
 - d. van logies in een gebied buiten Nederland; en
 
-- e. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=13&z=2023-02-01&g=2023-02-01).
+- e. bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&paragraaf=3&artikel=13&z=2023-02-01&g=2023-03-02).
 
 ##### Artikel 19. Rekenregels
 
-Indien het bedrag van een component behorend bij een binnen de dienstreis vallend gebied buiten Nederland niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2023-02-01&g=2023-02-01) staat vermeld, bepaalt de Hoofddirecteur Personeel van het Ministerie van Defensie. dit bedrag aan de hand van de geldende rekenregels.
+Indien het bedrag van een component behorend bij een binnen de dienstreis vallend gebied buiten Nederland niet in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=C&z=2023-02-01&g=2023-03-02) staat vermeld, bepaalt de Hoofddirecteur Personeel van het Ministerie van Defensie. dit bedrag aan de hand van de geldende rekenregels.
 
 ##### Artikel 20. Afbouwregeling militairen en burgerambtenaren
 
