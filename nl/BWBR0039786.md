@@ -4,7 +4,7 @@ identifier: "BWBR0039786"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-07"
-last_updated: "2023-01-01"
+last_updated: "2023-03-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039786"
 soort: "ministeriele-regeling"
@@ -165,7 +165,7 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 1. Betaling van de kosten van de tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=18) vindt plaats door de zorg van het Rijk mits de hoogte daarvan vooraf is goedgekeurd door het bevoegd gezag. Eventuele bijkomende kosten voor schoonmaken, gas, water, elektriciteit verwarming, televisie, telefoon en toeristenbelasting, komen voor rekening van de defensieambtenaar en worden door de defensieambtenaar rechtstreeks met de verhuurder verrekend.
 
-2. In het geval van tijdelijke onderbrenging bedoeld in [artikel 9, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=9&z=2023-08-16&g=2023-01-01), worden de kosten tot een maximum bedrag van € 573,93 per maand vergoed. Dit maximum bedrag zal jaarlijks worden aangepast op basis van de gemiddelde landelijke huurverhoging.
+2. In het geval van tijdelijke onderbrenging bedoeld in [artikel 9, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=9&z=2022-12-31&g=2023-03-02), worden de kosten tot een maximum bedrag van € 573,93 per maand vergoed. Dit maximum bedrag zal jaarlijks worden aangepast op basis van de gemiddelde landelijke huurverhoging.
 
 3. Indien de defensieambtenaar twee of meer gezinsleden heeft, wordt het in het tweede lid genoemde maximum bedrag verhoogd met:
 
@@ -183,11 +183,11 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 ##### Artikel 12. Eigen bijdrage bij tijdelijke onderbrenging
 
-1. De defensieambtenaar is voor de tijdelijke onderbrenging een eigen bijdrage verschuldigd tot maximaal de door het Rijk verschuldigde kosten van onderbrenging als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=10&z=2023-08-16&g=2023-01-01).
+1. De defensieambtenaar is voor de tijdelijke onderbrenging een eigen bijdrage verschuldigd tot maximaal de door het Rijk verschuldigde kosten van onderbrenging als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=10&z=2022-12-31&g=2023-03-02).
 
-2. In geval van onderbrenging in gemeubileerde of gestoffeerde woonruimte als bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=8&z=2023-08-16&g=2023-01-01), bedraagt de eigen bijdrage 15% van de voor de defensieambtenaar geldende salaris, in voorkomend geval vermeerderd met de toelage buitenland indien de tijdelijke onderbrenging plaats vindt in een gebied buiten Nederland.
+2. In geval van onderbrenging in gemeubileerde of gestoffeerde woonruimte als bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=8&z=2022-12-31&g=2023-03-02), bedraagt de eigen bijdrage 15% van de voor de defensieambtenaar geldende salaris, in voorkomend geval vermeerderd met de toelage buitenland indien de tijdelijke onderbrenging plaats vindt in een gebied buiten Nederland.
 
-3. In geval van onderbrenging in een pension als bedoeld in [artikel 9 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=9&z=2023-08-16&g=2023-01-01), bedraagt de eigen bijdrage 50% van de voor de defensieambtenaar geldende netto bezoldiging onderscheidenlijk het voor de defensieambtenaar geldende standaard netto Nederland vermeerderd met de toelage buitenland indien de tijdelijke onderbrenging plaats vindt in een gebied buiten Nederland.
+3. In geval van onderbrenging in een pension als bedoeld in [artikel 9 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=9&z=2022-12-31&g=2023-03-02), bedraagt de eigen bijdrage 50% van de voor de defensieambtenaar geldende netto bezoldiging onderscheidenlijk het voor de defensieambtenaar geldende standaard netto Nederland vermeerderd met de toelage buitenland indien de tijdelijke onderbrenging plaats vindt in een gebied buiten Nederland.
 
 4. Indien tot het gezin van de defensieambtenaar kinderen behoren waarvoor aanspraak bestaat op kinderbijslag en die eveneens verblijf houden in het pension, wordt de netto bezoldiging onderscheidenlijk het standaard netto Nederland, vermeerderd met het bedrag van deze kinderbijslag.
 
@@ -199,29 +199,29 @@ De tijdelijke onderbrenging bedoeld in [artikel 18 van het besluit](https://wett
 
 ##### Artikel 13. Tegemoetkoming in de kosten van het dagelijks reizen
 
-1. Voor de defensieambtenaar die overwegend gebruik maakt van openbaar vervoer is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling – afhankelijk van de afstand – per kalendermaand gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01), Tabel A, B, C of D, genoemde bedragen.
+1. Voor de defensieambtenaar die overwegend gebruik maakt van openbaar vervoer is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling – afhankelijk van de afstand – per kalendermaand gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02), Tabel A, B, C of D, genoemde bedragen.
 
 2. De tabellen B en D zijn van toepassing indien het een militair betreft met een hogere rang dan die van adjudant-onderofficier/vaandrig die doorgaans in uniform reist per trein in de eerste klasse.
 
-3. Voor de defensieambtenaar die overwegend gebruik maakt van eigen vervoer is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling – afhankelijk van de afstand – per kalendermaand gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01), Tabel E, genoemde bedragen.
+3. Voor de defensieambtenaar die overwegend gebruik maakt van eigen vervoer is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling – afhankelijk van de afstand – per kalendermaand gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02), Tabel E, genoemde bedragen.
 
 4. De defensieambtenaar die met openbaar vervoer reist en in aanmerking komt voor een door Defensie verstrekt NS-abonnement, dient hiervan gebruik te maken en komt niet in aanmerking voor de in het eerste en tweede lid bedoelde tabeltegemoetkoming. Voor het aansluitend reizen met stad-/streekvervoer maakt de defensieambtenaar aanspraak op een tegemoetkoming in de kosten van een stad/streekvervoerabonnement voor de resterende afstand.
 
-5. Voor de ambtenaar, op wie de verruiming van de tegemoetkoming in de kosten voor dagelijks woon-werkverkeer bij opgelegde verplaatsing bedoeld hoofdstuk 9 van het Sociaal Beleidskader Defensie 2012 – 2016, van toepassing is, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01), Tabel P opgenomen bedragen.
+5. Voor de ambtenaar, op wie de verruiming van de tegemoetkoming in de kosten voor dagelijks woon-werkverkeer bij opgelegde verplaatsing bedoeld hoofdstuk 9 van het Sociaal Beleidskader Defensie 2012 – 2016, van toepassing is, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02), Tabel P opgenomen bedragen.
 
-6. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2023-08-16&g=2023-01-01), is gelijk aan het bedrag per kalendermaand van de in de tabellen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01) genoemde bedragen over de afstand binnen Nederland.
+6. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2022-12-31&g=2023-03-02), is gelijk aan het bedrag per kalendermaand van de in de tabellen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02) genoemde bedragen over de afstand binnen Nederland.
 
 ##### Artikel 14. Tegemoetkoming in de kosten van het dagelijks reizen naar niet per openbaar vervoer bereikbare plaatsen
 
-1. Voor de defensieambtenaar, wiens plaats van tewerkstelling door de Minister is aangewezen als een plaats van tewerkstelling die niet per openbaar vervoer is te bereiken, is, in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2023-08-16&g=2023-01-01) de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01), Tabel N opgenomen bedragen.
+1. Voor de defensieambtenaar, wiens plaats van tewerkstelling door de Minister is aangewezen als een plaats van tewerkstelling die niet per openbaar vervoer is te bereiken, is, in afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2022-12-31&g=2023-03-02) de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02), Tabel N opgenomen bedragen.
 
 2. De tegemoetkoming bedoeld in het eerste lid, is van overeenkomstige toepassing op de defensieambtenaar die behoort tot de door de commandant aangewezen groep voor wie de plaats van tewerkstelling niet per openbaar vervoer te bereiken is vanwege het regelmatig op ongebruikelijke uren verrichten van werkzaamheden.
 
 3. De tegemoetkoming bedoeld in het eerste lid, is van overeenkomstige toepassing op de ambtenaar die in verband met een medische indicatie noodzakelijk van een eigen auto gebruik moet maken en daardoor de plaats van tewerkstelling niet per openbaar vervoer kan bereiken.
 
-4. Voor de ambtenaar, op wie de verruiming van de tegemoetkoming in de kosten voor dagelijks woon-werkverkeer bij opgelegde verplaatsing, bedoeld in hoofdstuk 9 van het Sociaal Beleidskader Defensie 2012 – 2016, van toepassing is en wiens plaats van tewerkstelling door de Minister is aangewezen als een plaats van tewerkstelling die niet per openbaar vervoer te bereiken is, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01), Tabel Q opgenomen bedragen.
+4. Voor de ambtenaar, op wie de verruiming van de tegemoetkoming in de kosten voor dagelijks woon-werkverkeer bij opgelegde verplaatsing, bedoeld in hoofdstuk 9 van het Sociaal Beleidskader Defensie 2012 – 2016, van toepassing is en wiens plaats van tewerkstelling door de Minister is aangewezen als een plaats van tewerkstelling die niet per openbaar vervoer te bereiken is, is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling gelijk aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02), Tabel Q opgenomen bedragen.
 
-5. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2023-08-16&g=2023-01-01), is gelijk aan het bedrag per kalendermaand van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01), Tabel N, genoemde bedrag over de afstand binnen Nederland.
+5. De tegemoetkoming in de kosten van het dagelijks reizen tussen de woning en de plaats van tewerkstelling voor de defensieambtenaar, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=2&z=2022-12-31&g=2023-03-02), is gelijk aan het bedrag per kalendermaand van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02), Tabel N, genoemde bedrag over de afstand binnen Nederland.
 
 ##### Artikel 15. Eigen bijdrage bij dagelijks reizen
 
@@ -245,25 +245,25 @@ Deze eigen bijdrage is verwerkt in de betreffende tabeltegemoetkomingen.
 
 ##### Artikel 16. Tegemoetkoming bij dagelijks reizen tussen plaats van legering en plaats van tewerkstelling in het buitenland
 
-In afwijking van het gestelde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2023-08-16&g=2023-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=15&z=2023-08-16&g=2023-01-01), is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling die beide zijn gelegen buiten Nederland, afhankelijk van het land van plaatsing, per kalendermaand gelijk aan: het product van de afstand en het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=2&z=2023-08-16&g=2023-01-01), Tabel F, opgenomen kilometerbedrag, verminderd met de in bijlage 2, Tabel G, voor dat land vastgestelde eigen bijdrage.
+In afwijking van het gestelde in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2022-12-31&g=2023-03-02) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=15&z=2022-12-31&g=2023-03-02), is de tegemoetkoming in de kosten van het dagelijks reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling die beide zijn gelegen buiten Nederland, afhankelijk van het land van plaatsing, per kalendermaand gelijk aan: het product van de afstand en het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=2&z=2022-12-31&g=2023-03-02), Tabel F, opgenomen kilometerbedrag, verminderd met de in bijlage 2, Tabel G, voor dat land vastgestelde eigen bijdrage.
 
 ##### Artikel 17. Tegemoetkoming bij reizen anders dan dagelijks reizen algemeen
 
 1. De tegemoetkoming per kalendermaand in de kosten van het reizen anders dan dagelijks reizen tussen de woning en de plaats van tewerkstelling is -afhankelijk van de afstand- voor de defensieambtenaar, bedoeld in:
 
-- a. [artikel 20, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20); gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-01-01), Tabel H of I, opgenomen bedragen voor zover de enkele reisafstand groter is dan 25 kilometer;
+- a. [artikel 20, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20); gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2022-12-31&g=2023-03-02), Tabel H of I, opgenomen bedragen voor zover de enkele reisafstand groter is dan 25 kilometer;
 
-- b. [artikel 20, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20) gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-01-01), Tabel H of I, opgenomen bedragen;
+- b. [artikel 20, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20) gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2022-12-31&g=2023-03-02), Tabel H of I, opgenomen bedragen;
 
-- c. [artikel 20, onderdeel c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20), voor zover de enkele reisafstand groter is dan 25 kilometer indien de plaats van tewerkstelling in Nederland, België of Duitsland is gelegen; gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-01-01), Tabel J en K, opgenomen bedragen.
+- c. [artikel 20, onderdeel c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032312&artikel=20), voor zover de enkele reisafstand groter is dan 25 kilometer indien de plaats van tewerkstelling in Nederland, België of Duitsland is gelegen; gelijk aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2022-12-31&g=2023-03-02), Tabel J en K, opgenomen bedragen.
 
 2. Tabel I, K en M zijn van toepassing indien het betreft een militair met een hogere rang dan die van adjudant-onderofficier die reist per trein in de eerste klasse.
 
 ##### Artikel 18. Tegemoetkoming bij reizen anders dan dagelijks reizen bijzonder
 
-1. De tegemoetkoming in de kosten van het niet dagelijks reizen als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2023-08-16&g=2023-01-01), tussen de woning en de plaats van tewerkstelling, waarbij de woning en de plaats van tewerkstelling beide zijn gelegen buiten Nederland, België of Duitsland, is, bij het reizen per openbaar vervoer, gelijk aan de kosten daarvan. Bij het reizen met eigen vervoer is de tegemoetkoming gelijk aan het in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-01-01), respectievelijk de in Tabel J en K of in Tabel L en M opgenomen bedragen.
+1. De tegemoetkoming in de kosten van het niet dagelijks reizen als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2022-12-31&g=2023-03-02), tussen de woning en de plaats van tewerkstelling, waarbij de woning en de plaats van tewerkstelling beide zijn gelegen buiten Nederland, België of Duitsland, is, bij het reizen per openbaar vervoer, gelijk aan de kosten daarvan. Bij het reizen met eigen vervoer is de tegemoetkoming gelijk aan het in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2022-12-31&g=2023-03-02), respectievelijk de in Tabel J en K of in Tabel L en M opgenomen bedragen.
 
-2. De tegemoetkoming in de kosten van het niet dagelijks reizen als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2023-08-16&g=2023-01-01), tussen de woning en de plaats van tewerkstelling, waarbij de woning in Nederland, België of Duitsland is gelegen en de plaats van tewerkstelling in Europa buiten Nederland, België of Duitsland, is bij het reizen per openbaar vervoer, gelijk aan de kosten daarvan. Bij het reizen met eigen vervoer is de tegemoetkoming gelijk aan het in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-01-01), respectievelijk de in Tabel J en K of in L en M opgenomen bedragen.
+2. De tegemoetkoming in de kosten van het niet dagelijks reizen als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=20&z=2022-12-31&g=2023-03-02), tussen de woning en de plaats van tewerkstelling, waarbij de woning in Nederland, België of Duitsland is gelegen en de plaats van tewerkstelling in Europa buiten Nederland, België of Duitsland, is bij het reizen per openbaar vervoer, gelijk aan de kosten daarvan. Bij het reizen met eigen vervoer is de tegemoetkoming gelijk aan het in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2022-12-31&g=2023-03-02), respectievelijk de in Tabel J en K of in L en M opgenomen bedragen.
 
 3. Indien gereisd wordt met het openbaar vervoer wordt de tegemoetkoming bepaald naar de klasse waarin de defensieambtenaar is gerechtigd te reizen overeenkomstig de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=4) en [5 van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=5).
 
@@ -277,15 +277,15 @@ Het bedrag bedoeld in [artikel 25, tweede lid van het besluit](https://wetten.ov
 
 ##### Artikel 21. Tegemoetkoming algemeen
 
-1. Indien de aanspraak op een tegemoetkoming in de kosten van het reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling aanvangt of eindigt anders dan op de respectievelijk eerste of laatste werkdag van een kalendermaand wordt de tabeltegemoetkoming opgenomen in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01), voor die maand berekend naar rato van het aantal werkdagen; een kalendermaand wordt daarbij gesteld op 22 werkdagen.
+1. Indien de aanspraak op een tegemoetkoming in de kosten van het reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling aanvangt of eindigt anders dan op de respectievelijk eerste of laatste werkdag van een kalendermaand wordt de tabeltegemoetkoming opgenomen in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02), voor die maand berekend naar rato van het aantal werkdagen; een kalendermaand wordt daarbij gesteld op 22 werkdagen.
 
-2. De aanspraak op een tabeltegemoetkoming als opgenomen in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01), wordt gestaakt, nadat de defensieambtenaar langer dan zes aaneengesloten weken niet naar de plaats van tewerkstelling is gereisd en indien de defensieambtenaar direct aansluitend op een periode waarin hij aanspraak had op een tegemoetkoming van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01) opgenomen tabellen C en D, niet naar de plaats van tewerkstelling reist. De tegemoetkoming in de reiskosten vangt wederom aan op de eerste dag van de maand volgend op de datum van terugkeer. Voor de defensieambtenaar die aanspraak heeft op een tegemoetkoming op grond van de in bijlage 1 opgenomen tabellen A en B en voor de militair die aanspraak heeft op de hoogste tegemoetkoming op grond van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-01-01) opgenomen tabellen H en I, kan de termijn van zes weken worden verlengd, mits wordt aangetoond dat er sprake is van onvermijdbaar doorlopende kosten.
+2. De aanspraak op een tabeltegemoetkoming als opgenomen in [bijlage 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02), wordt gestaakt, nadat de defensieambtenaar langer dan zes aaneengesloten weken niet naar de plaats van tewerkstelling is gereisd en indien de defensieambtenaar direct aansluitend op een periode waarin hij aanspraak had op een tegemoetkoming van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02) opgenomen tabellen C en D, niet naar de plaats van tewerkstelling reist. De tegemoetkoming in de reiskosten vangt wederom aan op de eerste dag van de maand volgend op de datum van terugkeer. Voor de defensieambtenaar die aanspraak heeft op een tegemoetkoming op grond van de in bijlage 1 opgenomen tabellen A en B en voor de militair die aanspraak heeft op de hoogste tegemoetkoming op grond van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2022-12-31&g=2023-03-02) opgenomen tabellen H en I, kan de termijn van zes weken worden verlengd, mits wordt aangetoond dat er sprake is van onvermijdbaar doorlopende kosten.
 
-3. Indien de defensieambtenaar, die aanspraak had op een tegemoetkoming uit de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2023-08-16&g=2023-01-01) opgenomen tabellen A en B, ten gevolge van een verplaatsing of tijdelijke tewerkstelling aanspraak verkregen heeft op een andere tegemoetkoming in de kosten van het reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling komt hij tevens in aanmerking voor vergoeding van door hem noodzakelijk gemaakte onvermijdbaar doorlopende kosten van een ten behoeve van de voorafgaande periode aangeschafte openbaar vervoervoorziening op jaarbasis, voor zover hij deze voorziening anders dan in verband met vakantieverlof korter dan drie maanden heeft kunnen gebruiken.
+3. Indien de defensieambtenaar, die aanspraak had op een tegemoetkoming uit de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=1&z=2022-12-31&g=2023-03-02) opgenomen tabellen A en B, ten gevolge van een verplaatsing of tijdelijke tewerkstelling aanspraak verkregen heeft op een andere tegemoetkoming in de kosten van het reizen tussen de woning of de plaats van legering en de plaats van tewerkstelling komt hij tevens in aanmerking voor vergoeding van door hem noodzakelijk gemaakte onvermijdbaar doorlopende kosten van een ten behoeve van de voorafgaande periode aangeschafte openbaar vervoervoorziening op jaarbasis, voor zover hij deze voorziening anders dan in verband met vakantieverlof korter dan drie maanden heeft kunnen gebruiken.
 
-4. De defensieambtenaar die voor een kortere periode dan drie maanden in aanmerking komt voor een tegemoetkoming van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-01-01) opgenomen tabellen H of I, waarvoor hij voorafgaand aan voornoemde periode in aanmerking kwam, behoudt deze tegemoetkoming indien er als gevolg van een aangeschaft abonnement voor openbaar vervoer sprake is van onvermijdbaar doorlopende kosten.
+4. De defensieambtenaar die voor een kortere periode dan drie maanden in aanmerking komt voor een tegemoetkoming van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2022-12-31&g=2023-03-02) opgenomen tabellen H of I, waarvoor hij voorafgaand aan voornoemde periode in aanmerking kwam, behoudt deze tegemoetkoming indien er als gevolg van een aangeschaft abonnement voor openbaar vervoer sprake is van onvermijdbaar doorlopende kosten.
 
-5. De defensieambtenaar die voor een kortere periode dan drie maanden in aanmerking komt voor de hogere tegemoetkoming van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2023-08-16&g=2023-01-01) opgenomen tabellen H of I, dan waarvoor hij voorafgaand aan deze periode in aanmerking kwam, komt voor vorenbedoelde periode in aanmerking voor die hogere tegemoetkoming als voornoemd alsmede voor de door de defensieambtenaar noodzakelijk te maken kosten bij gebruik van openbaar vervoer.
+5. De defensieambtenaar die voor een kortere periode dan drie maanden in aanmerking komt voor de hogere tegemoetkoming van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&bijlage=3&z=2022-12-31&g=2023-03-02) opgenomen tabellen H of I, dan waarvoor hij voorafgaand aan deze periode in aanmerking kwam, komt voor vorenbedoelde periode in aanmerking voor die hogere tegemoetkoming als voornoemd alsmede voor de door de defensieambtenaar noodzakelijk te maken kosten bij gebruik van openbaar vervoer.
 
 ##### Artikel 22. Tegemoetkoming in de pensionkosten
 
@@ -615,534 +615,17 @@ Tabel Q: van toepassing indien aanspraak bestaat op een tegemoetkoming in de rei
 
 2 Voor kilometers, anders dan die genoemd onder Duitsland
 
-## Bijlage 3. bij de Verplaatsingskostenregeling defensie
+## Bijlage 1a. bij de Verplaatsingskostenregeling defensie
 
-Tegemoetkoming in de kosten per kalendermaand van het niet dagelijks reizen per 1 januari 2022
-
-Tabel H: van toepassing indien viermaal per vier weken aanspraak bestaat op een tegemoetkoming in de reiskosten.
-
-Tabel I: van toepassing indien viermaal per vier weken aanspraak bestaat op een tegemoetkoming in de reiskosten per trein in de eerste klasse.
-
-Tabel J: van toepassing indien eenmaal per twee weken aanspraak bestaat op een tegemoetkoming in de reiskosten.
-
-Tabel K: van toepassing indien eenmaal per twee weken aanspraak bestaat op een tegemoetkoming in de reiskosten per trein in de eerste klasse.
-
-Tabel L: van toepassing indien eenmaal per vier weken aanspraak bestaat op een tegemoetkoming in de reiskosten.
-
-Tabel M: van toepassing indien eenmaal per vier weken aanspraak bestaat op een tegemoetkoming in de reiskosten per trein in de eerste klasse.
-
-| enkele reisafstand in kilometers | H | I | J | K | L | M |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 2 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 3 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 4 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 5 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 6 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 7 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 8 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 9 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 10 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 11 | 50,99 | 64,43 | 25,50 | 32,22 | 12,75 | 16,11 |
-| 12 | 52,59 | 67,07 | 26,30 | 33,54 | 13,15 | 16,77 |
-| 13 | 54,19 | 69,71 | 27,10 | 34,86 | 13,55 | 17,43 |
-| 14 | 55,79 | 72,43 | 27,90 | 36,22 | 13,95 | 18,11 |
-| 15 | 57,39 | 75,07 | 28,70 | 37,54 | 14,35 | 18,77 |
-| 16 | 58,99 | 77,79 | 29,50 | 38,90 | 14,75 | 19,45 |
-| 17 | 60,59 | 80,43 | 30,30 | 40,22 | 15,15 | 20,11 |
-| 18 | 62,19 | 83,07 | 31,10 | 41,54 | 15,55 | 20,77 |
-| 19 | 63,79 | 85,79 | 31,90 | 42,90 | 15,95 | 21,45 |
-| 20 | 65,39 | 88,43 | 32,70 | 44,22 | 16,35 | 22,11 |
-| 21 | 66,99 | 91,15 | 33,50 | 45,58 | 16,75 | 22,79 |
-| 22 | 68,59 | 93,79 | 34,30 | 46,90 | 17,15 | 23,45 |
-| 23 | 69,39 | 95,15 | 34,70 | 47,58 | 17,35 | 23,79 |
-| 24 | 70,99 | 97,79 | 35,50 | 48,90 | 17,75 | 24,45 |
-| 25 | 72,59 | 100,43 | 36,30 | 50,22 | 18,15 | 25,11 |
-| 26 | 74,19 | 103,15 | 37,10 | 51,58 | 18,55 | 25,79 |
-| 27 | 75,79 | 105,79 | 37,90 | 52,90 | 18,95 | 26,45 |
-| 28 | 77,39 | 108,51 | 38,70 | 54,26 | 19,35 | 27,13 |
-| 29 | 78,99 | 111,15 | 39,50 | 55,58 | 19,75 | 27,79 |
-| 30 | 80,59 | 113,79 | 40,30 | 56,90 | 20,15 | 28,45 |
-| 31 | 81,39 | 115,15 | 40,70 | 57,58 | 20,35 | 28,79 |
-| 32 | 82,99 | 117,87 | 41,50 | 58,94 | 20,75 | 29,47 |
-| 33 | 84,59 | 120,51 | 42,30 | 60,26 | 21,15 | 30,13 |
-| 34 | 86,19 | 123,15 | 43,10 | 61,58 | 21,55 | 30,79 |
-| 35 | 87,79 | 125,87 | 43,90 | 62,94 | 21,95 | 31,47 |
-| 36 | 89,39 | 128,51 | 44,70 | 64,26 | 22,35 | 32,13 |
-| 37 | 90,99 | 131,23 | 45,50 | 65,62 | 22,75 | 32,81 |
-| 38 | 92,59 | 133,87 | 46,30 | 66,94 | 23,15 | 33,47 |
-| 39 | 94,19 | 136,51 | 47,10 | 68,26 | 23,55 | 34,13 |
-| 40 | 94,99 | 137,87 | 47,50 | 68,94 | 23,75 | 34,47 |
-| 41 | 96,59 | 140,51 | 48,30 | 70,26 | 24,15 | 35,13 |
-| 42 | 98,19 | 143,23 | 49,10 | 71,62 | 24,55 | 35,81 |
-| 43 | 99,79 | 145,87 | 49,90 | 72,94 | 24,95 | 36,47 |
-| 44 | 101,39 | 148,59 | 50,70 | 74,30 | 25,35 | 37,15 |
-| 45 | 102,99 | 151,23 | 51,50 | 75,62 | 25,75 | 37,81 |
-| 46 | 104,59 | 153,87 | 52,30 | 76,94 | 26,15 | 38,47 |
-| 47 | 105,39 | 155,23 | 52,70 | 77,62 | 26,35 | 38,81 |
-| 48 | 106,99 | 157,95 | 53,50 | 78,98 | 26,75 | 39,49 |
-| 49 | 108,59 | 160,59 | 54,30 | 80,30 | 27,15 | 40,15 |
-| 50 | 110,19 | 163,23 | 55,10 | 81,62 | 27,55 | 40,81 |
-| 51 | 111,79 | 165,95 | 55,90 | 82,98 | 27,95 | 41,49 |
-| 52 | 113,39 | 168,59 | 56,70 | 84,30 | 28,35 | 42,15 |
-| 53 | 114,99 | 171,31 | 57,50 | 85,66 | 28,75 | 42,83 |
-| 54 | 116,59 | 173,95 | 58,30 | 86,98 | 29,15 | 43,49 |
-| 55 | 117,39 | 175,31 | 58,70 | 87,66 | 29,35 | 43,83 |
-| 56 | 118,99 | 177,95 | 59,50 | 88,98 | 29,75 | 44,49 |
-| 57 | 120,59 | 180,59 | 60,30 | 90,30 | 30,15 | 45,15 |
-| 58 | 122,19 | 183,31 | 61,10 | 91,66 | 30,55 | 45,83 |
-| 59 | 123,79 | 185,95 | 61,90 | 92,98 | 30,95 | 46,49 |
-| 60 | 125,39 | 188,67 | 62,70 | 94,34 | 31,35 | 47,17 |
-| 61 | 126,99 | 191,31 | 63,50 | 95,66 | 31,75 | 47,83 |
-| 62 | 127,79 | 192,67 | 63,90 | 96,34 | 31,95 | 48,17 |
-| 63 | 129,39 | 195,31 | 64,70 | 97,66 | 32,35 | 48,83 |
-| 64 | 130,99 | 198,03 | 65,50 | 99,02 | 32,75 | 49,51 |
-| 65 | 132,59 | 200,67 | 66,30 | 100,34 | 33,15 | 50,17 |
-| 66 | 134,19 | 203,31 | 67,10 | 101,66 | 33,55 | 50,83 |
-| 67 | 135,79 | 206,03 | 67,90 | 103,02 | 33,95 | 51,51 |
-| 68 | 137,39 | 208,67 | 68,70 | 104,34 | 34,35 | 52,17 |
-| 69 | 138,19 | 210,03 | 69,10 | 105,02 | 34,55 | 52,51 |
-| 70 | 139,79 | 212,67 | 69,90 | 106,34 | 34,95 | 53,17 |
-| 71 | 141,39 | 215,39 | 70,70 | 107,70 | 35,35 | 53,85 |
-| 72 | 142,99 | 218,03 | 71,50 | 109,02 | 35,75 | 54,51 |
-| 73 | 144,59 | 220,67 | 72,30 | 110,34 | 36,15 | 55,17 |
-| 74 | 146,19 | 223,39 | 73,10 | 111,70 | 36,55 | 55,85 |
-| 75 | 147,79 | 226,03 | 73,90 | 113,02 | 36,95 | 56,51 |
-| 76 | 149,39 | 228,75 | 74,70 | 114,38 | 37,35 | 57,19 |
-| 77 | 150,19 | 230,03 | 75,10 | 115,02 | 37,55 | 57,51 |
-| 78 | 151,79 | 232,75 | 75,90 | 116,38 | 37,95 | 58,19 |
-| 79 | 153,39 | 235,39 | 76,70 | 117,70 | 38,35 | 58,85 |
-| 80 | 154,99 | 238,11 | 77,50 | 119,06 | 38,75 | 59,53 |
-| 81 | 156,59 | 240,75 | 78,30 | 120,38 | 39,15 | 60,19 |
-| 82 | 158,19 | 243,39 | 79,10 | 121,70 | 39,55 | 60,85 |
-| 83 | 159,79 | 246,11 | 79,90 | 123,06 | 39,95 | 61,53 |
-| 84 | 160,59 | 247,39 | 80,30 | 123,70 | 40,15 | 61,85 |
-| 85 | 162,19 | 250,11 | 81,10 | 125,06 | 40,55 | 62,53 |
-| 86 | 162,99 | 251,47 | 81,50 | 125,74 | 40,75 | 62,87 |
-| 87 | 164,59 | 254,11 | 82,30 | 127,06 | 41,15 | 63,53 |
-| 88 | 165,39 | 255,47 | 82,70 | 127,74 | 41,35 | 63,87 |
-| 89 | 166,99 | 258,11 | 83,50 | 129,06 | 41,75 | 64,53 |
-| 90 | 168,59 | 260,75 | 84,30 | 130,38 | 42,15 | 65,19 |
-| 91 | 169,39 | 262,11 | 84,70 | 131,06 | 42,35 | 65,53 |
-| 92 | 170,99 | 264,83 | 85,50 | 132,42 | 42,75 | 66,21 |
-| 93 | 171,79 | 266,11 | 85,90 | 133,06 | 42,95 | 66,53 |
-| 94 | 173,39 | 268,83 | 86,70 | 134,42 | 43,35 | 67,21 |
-| 95 | 174,19 | 270,11 | 87,10 | 135,06 | 43,55 | 67,53 |
-| 96 | 174,99 | 271,47 | 87,50 | 135,74 | 43,75 | 67,87 |
-| 97 | 176,59 | 274,11 | 88,30 | 137,06 | 44,15 | 68,53 |
-| 98 | 177,39 | 275,47 | 88,70 | 137,74 | 44,35 | 68,87 |
-| 99 | 178,99 | 278,19 | 89,50 | 139,10 | 44,75 | 69,55 |
-| 100 | 179,79 | 279,47 | 89,90 | 139,74 | 44,95 | 69,87 |
-| 101 | 181,39 | 282,19 | 90,70 | 141,10 | 45,35 | 70,55 |
-| 102 | 182,19 | 283,47 | 91,10 | 141,74 | 45,55 | 70,87 |
-| 103 | 182,99 | 284,83 | 91,50 | 142,42 | 45,75 | 71,21 |
-| 104 | 184,59 | 287,47 | 92,30 | 143,74 | 46,15 | 71,87 |
-| 105 | 185,39 | 288,83 | 92,70 | 144,42 | 46,35 | 72,21 |
-| 106 | 186,19 | 290,19 | 93,10 | 145,10 | 46,55 | 72,55 |
-| 107 | 187,79 | 292,83 | 93,90 | 146,42 | 46,95 | 73,21 |
-| 108 | 188,59 | 294,19 | 94,30 | 147,10 | 47,15 | 73,55 |
-| 109 | 189,39 | 295,55 | 94,70 | 147,78 | 47,35 | 73,89 |
-| 110 | 190,99 | 298,19 | 95,50 | 149,10 | 47,75 | 74,55 |
-| 111 | 191,79 | 299,55 | 95,90 | 149,78 | 47,95 | 74,89 |
-| 112 | 192,59 | 300,83 | 96,30 | 150,42 | 48,15 | 75,21 |
-| 113 | 194,19 | 303,55 | 97,10 | 151,78 | 48,55 | 75,89 |
-| 114 | 194,99 | 304,91 | 97,50 | 152,46 | 48,75 | 76,23 |
-| 115 | 195,79 | 306,19 | 97,90 | 153,10 | 48,95 | 76,55 |
-| 116 | 197,39 | 308,91 | 98,70 | 154,46 | 49,35 | 77,23 |
-| 117 | 198,19 | 310,19 | 99,10 | 155,10 | 49,55 | 77,55 |
-| 118 | 198,99 | 311,55 | 99,50 | 155,78 | 49,75 | 77,89 |
-| 119 | 200,59 | 314,19 | 100,30 | 157,10 | 50,15 | 78,55 |
-| 120 | 201,39 | 315,55 | 100,70 | 157,78 | 50,35 | 78,89 |
-| 121 | 202,19 | 316,91 | 101,10 | 158,46 | 50,55 | 79,23 |
-| 122 | 203,79 | 319,55 | 101,90 | 159,78 | 50,95 | 79,89 |
-| 123 | 204,59 | 320,91 | 102,30 | 160,46 | 51,15 | 80,23 |
-| 124 | 205,39 | 322,27 | 102,70 | 161,14 | 51,35 | 80,57 |
-| 125 | 206,19 | 323,55 | 103,10 | 161,78 | 51,55 | 80,89 |
-| 126 | 206,19 | 323,55 | 103,10 | 161,78 | 51,55 | 80,89 |
-| 127 | 206,99 | 324,91 | 103,50 | 162,46 | 51,75 | 81,23 |
-| 128 | 207,79 | 326,27 | 103,90 | 163,14 | 51,95 | 81,57 |
-| 129 | 208,59 | 327,55 | 104,30 | 163,78 | 52,15 | 81,89 |
-| 130 | 209,39 | 328,91 | 104,70 | 164,46 | 52,35 | 82,23 |
-| 131 | 210,19 | 330,27 | 105,10 | 165,14 | 52,55 | 82,57 |
-| 132 | 210,19 | 330,27 | 105,10 | 165,14 | 52,55 | 82,57 |
-| 133 | 210,99 | 331,63 | 105,50 | 165,82 | 52,75 | 82,91 |
-| 134 | 211,79 | 332,91 | 105,90 | 166,46 | 52,95 | 83,23 |
-| 135 | 212,59 | 334,27 | 106,30 | 167,14 | 53,15 | 83,57 |
-| 136 | 213,39 | 335,63 | 106,70 | 167,82 | 53,35 | 83,91 |
-| 137 | 214,19 | 336,91 | 107,10 | 168,46 | 53,55 | 84,23 |
-| 138 | 214,99 | 338,27 | 107,50 | 169,14 | 53,75 | 84,57 |
-| 139 | 214,99 | 338,27 | 107,50 | 169,14 | 53,75 | 84,57 |
-| 140 | 215,79 | 339,63 | 107,90 | 169,82 | 53,95 | 84,91 |
-| 141 | 216,59 | 340,91 | 108,30 | 170,46 | 54,15 | 85,23 |
-| 142 | 217,39 | 342,27 | 108,70 | 171,14 | 54,35 | 85,57 |
-| 143 | 218,19 | 343,63 | 109,10 | 171,82 | 54,55 | 85,91 |
-| 144 | 218,99 | 344,99 | 109,50 | 172,50 | 54,75 | 86,25 |
-| 145 | 218,99 | 344,99 | 109,50 | 172,50 | 54,75 | 86,25 |
-| 146 | 219,79 | 346,27 | 109,90 | 173,14 | 54,95 | 86,57 |
-| 147 | 220,59 | 347,63 | 110,30 | 173,82 | 55,15 | 86,91 |
-| 148 | 221,39 | 348,99 | 110,70 | 174,50 | 55,35 | 87,25 |
-| 149 | 222,19 | 350,27 | 111,10 | 175,14 | 55,55 | 87,57 |
-| 150 | 222,99 | 351,63 | 111,50 | 175,82 | 55,75 | 87,91 |
-| 151 | 223,79 | 352,99 | 111,90 | 176,50 | 55,95 | 88,25 |
-| 152 | 223,79 | 352,99 | 111,90 | 176,50 | 55,95 | 88,25 |
-| 153 | 224,59 | 354,27 | 112,30 | 177,14 | 56,15 | 88,57 |
-| 154 | 225,39 | 355,63 | 112,70 | 177,82 | 56,35 | 88,91 |
-| 155 | 226,19 | 356,99 | 113,10 | 178,50 | 56,55 | 89,25 |
-| 156 | 226,99 | 358,35 | 113,50 | 179,18 | 56,75 | 89,59 |
-| 157 | 226,99 | 358,35 | 113,50 | 179,18 | 56,75 | 89,59 |
-| 158 | 227,79 | 359,63 | 113,90 | 179,82 | 56,95 | 89,91 |
-| 159 | 228,59 | 360,99 | 114,30 | 180,50 | 57,15 | 90,25 |
-| 160 | 229,39 | 362,35 | 114,70 | 181,18 | 57,35 | 90,59 |
-| 161 | 229,39 | 362,35 | 114,70 | 181,18 | 57,35 | 90,59 |
-| 162 | 230,19 | 363,63 | 115,10 | 181,82 | 57,55 | 90,91 |
-| 163 | 230,99 | 364,99 | 115,50 | 182,50 | 57,75 | 91,25 |
-| 164 | 231,79 | 366,35 | 115,90 | 183,18 | 57,95 | 91,59 |
-| 165 | 231,79 | 366,35 | 115,90 | 183,18 | 57,95 | 91,59 |
-| 166 | 232,59 | 367,63 | 116,30 | 183,82 | 58,15 | 91,91 |
-| 167 | 233,39 | 368,99 | 116,70 | 184,50 | 58,35 | 92,25 |
-| 168 | 234,19 | 370,35 | 117,10 | 185,18 | 58,55 | 92,59 |
-| 169 | 234,19 | 370,35 | 117,10 | 185,18 | 58,55 | 92,59 |
-| 170 | 234,99 | 371,71 | 117,50 | 185,86 | 58,75 | 92,93 |
-| 171 | 235,79 | 372,99 | 117,90 | 186,50 | 58,95 | 93,25 |
-| 172 | 236,59 | 374,35 | 118,30 | 187,18 | 59,15 | 93,59 |
-| 173 | 236,59 | 374,35 | 118,30 | 187,18 | 59,15 | 93,59 |
-| 174 | 237,39 | 375,71 | 118,70 | 187,86 | 59,35 | 93,93 |
-| 175 | 238,19 | 376,99 | 119,10 | 188,50 | 59,55 | 94,25 |
-| 176 | 238,99 | 378,35 | 119,50 | 189,18 | 59,75 | 94,59 |
-| 177 | 238,99 | 378,35 | 119,50 | 189,18 | 59,75 | 94,59 |
-| 178 | 239,79 | 379,71 | 119,90 | 189,86 | 59,95 | 94,93 |
-| 179 | 240,59 | 380,99 | 120,30 | 190,50 | 60,15 | 95,25 |
-| 180 | 241,39 | 382,35 | 120,70 | 191,18 | 60,35 | 95,59 |
-| 181 | 241,39 | 382,35 | 120,70 | 191,18 | 60,35 | 95,59 |
-| 182 | 242,19 | 383,71 | 121,10 | 191,86 | 60,55 | 95,93 |
-| 183 | 242,99 | 385,07 | 121,50 | 192,54 | 60,75 | 96,27 |
-| 184 | 243,79 | 386,35 | 121,90 | 193,18 | 60,95 | 96,59 |
-| 185 | 243,79 | 386,35 | 121,90 | 193,18 | 60,95 | 96,59 |
-| 186 | 244,59 | 387,71 | 122,30 | 193,86 | 61,15 | 96,93 |
-| 187 | 245,39 | 389,07 | 122,70 | 194,54 | 61,35 | 97,27 |
-| 188 | 246,19 | 390,35 | 123,10 | 195,18 | 61,55 | 97,59 |
-| 189 | 246,19 | 390,35 | 123,10 | 195,18 | 61,55 | 97,59 |
-| 190 | 246,99 | 391,71 | 123,50 | 195,86 | 61,75 | 97,93 |
-| 191 | 247,79 | 393,07 | 123,90 | 196,54 | 61,95 | 98,27 |
-| 192 | 248,59 | 394,35 | 124,30 | 197,18 | 62,15 | 98,59 |
-| 193 | 248,59 | 394,35 | 124,30 | 197,18 | 62,15 | 98,59 |
-| 194 | 249,39 | 395,71 | 124,70 | 197,86 | 62,35 | 98,93 |
-| 195 | 250,19 | 397,07 | 125,10 | 198,54 | 62,55 | 99,27 |
-| 196 | 250,99 | 398,43 | 125,50 | 199,22 | 62,75 | 99,61 |
-| 197 | 250,99 | 398,43 | 125,50 | 199,22 | 62,75 | 99,61 |
-| 198 | 251,79 | 399,71 | 125,90 | 199,86 | 62,95 | 99,93 |
-| 199 | 252,59 | 401,07 | 126,30 | 200,54 | 63,15 | 100,27 |
-| 200 | 253,39 | 402,43 | 126,70 | 201,22 | 63,35 | 100,61 |
-| 201 | 253,39 | 402,43 | 126,70 | 201,22 | 63,35 | 100,61 |
-| 202 | 254,19 | 403,71 | 127,10 | 201,86 | 63,55 | 100,93 |
-| 203 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 204 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 205 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 206 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 207 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 208 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 209 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 210 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 211 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 212 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 213 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 214 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 215 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 216 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 217 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 218 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 219 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 220 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 221 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 222 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 223 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 224 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 225 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 226 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 227 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 228 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 229 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 230 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 231 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 232 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 233 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 234 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 235 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 236 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 237 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 238 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 239 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 240 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 241 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 242 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 243 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 244 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 245 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 246 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 247 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 248 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 249 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 250 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-| 251 | 254,99 | 405,07 | 127,50 | 202,54 | 63,75 | 101,27 |
-
-Voor afstanden boven de 251 km worden de bedragen volgens de volgende formule berekend: maximum tabelbedrag + ((maximum tabelbedrag / maximum tabelafstand) * (enkele reisafstand – maximum tabelafstand)).
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 1a. Wijziging persoonlijk werkrooster
 
-1. Op verzoek van de defensieambtenaar kan het persoonlijk werkrooster eenmaal per vier weken worden gewijzigd.
-
-2. Bij wijziging van het persoonlijk werkrooster gaat de aanspraak op de tegemoetkoming op grond van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=13&z=2023-10-03&g=2023-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=14&z=2023-10-03&g=2023-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0039786&artikel=17&z=2023-10-03&g=2023-01-01) in op de door de defensieambtenaar aangegeven datum van ingang roosterwijziging.
+Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage 1b. bij de Verplaatsingskostenregeling defensie
 
-Tabel P: van toepassing indien overwegend gebruik wordt gemaakt van eigen vervoer en aanspraak bestaat op artikel 9, Sociaal Beleidskader 2012.
-
-Tabel Q: van toepassing indien aanspraak bestaat op een tegemoetkoming in de reiskosten naar niet per openbaar vervoer bereikbare plaatsen, en aanspraak bestaat op artikel 9, Sociaal Beleidskader 2012.
-
-N.B. De tabel geeft zowel de tegemoetkoming van Tabel P als Q weer.
-
-| REISDAGEN PER TWEE WEKEN | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| KM |   |   |   |   |   |   |   |   |   |   |
-| 11 | € 7,45 | € 14,91 | € 22,36 | € 29,82 | € 37,27 | € 44,73 | € 52,18 | € 59,63 | € 67,09 | € 74,54 |
-| 12 | € 8,13 | € 16,26 | € 24,40 | € 32,53 | € 40,66 | € 48,79 | € 56,92 | € 65,06 | € 73,19 | € 81,32 |
-| 13 | € 8,81 | € 17,62 | € 26,43 | € 35,24 | € 44,05 | € 52,86 | € 61,67 | € 70,48 | € 79,29 | € 88,10 |
-| 14 | € 9,49 | € 18,97 | € 28,46 | € 37,95 | € 47,44 | € 56,92 | € 66,41 | € 75,90 | € 85,39 | € 94,87 |
-| 15 | € 10,17 | € 20,33 | € 30,50 | € 40,66 | € 50,83 | € 60,99 | € 71,16 | € 81,32 | € 91,49 | € 101,65 |
-| 16 | € 10,84 | € 21,69 | € 32,53 | € 43,37 | € 54,21 | € 65,06 | € 75,90 | € 86,74 | € 97,58 | € 108,43 |
-| 17 | € 11,52 | € 23,04 | € 34,56 | € 46,08 | € 57,60 | € 69,12 | € 80,64 | € 92,16 | € 103,68 | € 115,20 |
-| 18 | € 12,20 | € 24,40 | € 36,59 | € 48,79 | € 60,99 | € 73,19 | € 85,39 | € 97,58 | € 109,78 | € 121,98 |
-| 19 | € 12,88 | € 25,75 | € 38,63 | € 51,50 | € 64,38 | € 77,25 | € 90,13 | € 103,01 | € 115,88 | € 128,76 |
-| 20 | € 13,55 | € 27,11 | € 40,66 | € 54,21 | € 67,77 | € 81,32 | € 94,87 | € 108,43 | € 121,98 | € 135,53 |
-| 21 | € 14,23 | € 28,46 | € 42,69 | € 56,92 | € 71,16 | € 85,39 | € 99,62 | € 113,85 | € 128,08 | € 142,31 |
-| 22 | € 14,91 | € 29,82 | € 44,73 | € 59,63 | € 74,54 | € 89,45 | € 104,36 | € 119,27 | € 134,18 | € 149,09 |
-| 23 | € 15,59 | € 31,17 | € 46,76 | € 62,35 | € 77,93 | € 93,52 | € 109,10 | € 124,69 | € 140,28 | € 155,86 |
-| 24 | € 16,26 | € 32,53 | € 48,79 | € 65,06 | € 81,32 | € 97,58 | € 113,85 | € 130,11 | € 146,38 | € 162,64 |
-| 25 | € 16,94 | € 33,88 | € 50,83 | € 67,77 | € 84,71 | € 101,65 | € 118,59 | € 135,53 | € 152,48 | € 169,42 |
-| 26 | € 17,62 | € 35,24 | € 52,86 | € 70,48 | € 88,10 | € 105,72 | € 123,34 | € 140,95 | € 158,57 | € 176,19 |
-| 27 | € 18,30 | € 36,59 | € 54,89 | € 73,19 | € 91,49 | € 109,78 | € 128,08 | € 146,38 | € 164,67 | € 182,97 |
-| 28 | € 18,97 | € 37,95 | € 56,92 | € 75,90 | € 94,87 | € 113,85 | € 132,82 | € 151,80 | € 170,77 | € 189,75 |
-| 29 | € 19,65 | € 39,30 | € 58,96 | € 78,61 | € 98,26 | € 117,91 | € 137,57 | € 157,22 | € 176,87 | € 196,52 |
-| 30 | € 20,33 | € 40,66 | € 60,99 | € 81,32 | € 101,65 | € 121,98 | € 142,31 | € 162,64 | € 182,97 | € 203,30 |
-| 31 | € 21,01 | € 42,02 | € 63,02 | € 84,03 | € 105,04 | € 126,05 | € 147,05 | € 168,06 | € 189,07 | € 210,08 |
-| 32 | € 21,69 | € 43,37 | € 65,06 | € 86,74 | € 108,43 | € 130,11 | € 151,80 | € 173,48 | € 195,17 | € 216,85 |
-| 33 | € 22,36 | € 44,73 | € 67,09 | € 89,45 | € 111,82 | € 134,18 | € 156,54 | € 178,90 | € 201,27 | € 223,63 |
-| 34 | € 23,04 | € 46,08 | € 69,12 | € 92,16 | € 115,20 | € 138,24 | € 161,28 | € 184,33 | € 207,37 | € 230,41 |
-| 35 | € 23,72 | € 47,44 | € 71,16 | € 94,87 | € 118,59 | € 142,31 | € 166,03 | € 189,75 | € 213,47 | € 237,18 |
-| 36 | € 24,40 | € 48,79 | € 73,19 | € 97,58 | € 121,98 | € 146,38 | € 170,77 | € 195,17 | € 219,56 | € 243,96 |
-| 37 | € 25,07 | € 50,15 | € 75,22 | € 100,29 | € 125,37 | € 150,44 | € 175,52 | € 200,59 | € 225,66 | € 250,74 |
-| 38 | € 25,75 | € 51,50 | € 77,25 | € 103,01 | € 128,76 | € 154,51 | € 180,26 | € 206,01 | € 231,76 | € 257,51 |
-| 39 | € 26,43 | € 52,86 | € 79,29 | € 105,72 | € 132,15 | € 158,57 | € 185,00 | € 211,43 | € 237,86 | € 264,29 |
-| 40 | € 27,11 | € 54,21 | € 81,32 | € 108,43 | € 135,53 | € 162,64 | € 189,75 | € 216,85 | € 243,96 | € 271,07 |
-| 41 | € 27,78 | € 55,57 | € 83,35 | € 111,14 | € 138,92 | € 166,71 | € 194,49 | € 222,27 | € 250,06 | € 277,84 |
-| 42 | € 28,46 | € 56,92 | € 85,39 | € 113,85 | € 142,31 | € 170,77 | € 199,23 | € 227,70 | € 256,16 | € 284,62 |
-| 43 | € 29,14 | € 58,28 | € 87,42 | € 116,56 | € 145,70 | € 174,84 | € 203,98 | € 233,12 | € 262,26 | € 291,40 |
-| 44 | € 29,82 | € 59,63 | € 89,45 | € 119,27 | € 149,09 | € 178,90 | € 208,72 | € 238,54 | € 268,36 | € 298,17 |
-| 45 | € 30,50 | € 60,99 | € 91,49 | € 121,98 | € 152,48 | € 182,97 | € 213,47 | € 243,96 | € 274,46 | € 304,95 |
-| 46 | € 31,17 | € 62,35 | € 93,52 | € 124,69 | € 155,86 | € 187,04 | € 218,21 | € 249,38 | € 280,55 | € 311,73 |
-| 47 | € 31,85 | € 63,70 | € 95,55 | € 127,40 | € 159,25 | € 191,10 | € 222,95 | € 254,80 | € 286,65 | € 318,50 |
-| 48 | € 32,53 | € 65,06 | € 97,58 | € 130,11 | € 162,64 | € 195,17 | € 227,70 | € 260,22 | € 292,75 | € 325,28 |
-| 49 | € 33,21 | € 66,41 | € 99,62 | € 132,82 | € 166,03 | € 199,23 | € 232,44 | € 265,65 | € 298,85 | € 332,06 |
-| 50 | € 33,88 | € 67,77 | € 101,65 | € 135,53 | € 169,42 | € 203,30 | € 237,18 | € 271,07 | € 304,95 | € 338,83 |
-| 51 | € 34,56 | € 69,12 | € 103,68 | € 138,24 | € 172,81 | € 207,37 | € 241,93 | € 276,49 | € 311,05 | € 345,61 |
-| 52 | € 35,24 | € 70,48 | € 105,72 | € 140,95 | € 176,19 | € 211,43 | € 246,67 | € 281,91 | € 317,15 | € 352,39 |
-| 53 | € 35,92 | € 71,83 | € 107,75 | € 143,67 | € 179,58 | € 215,50 | € 251,41 | € 287,33 | € 323,25 | € 359,16 |
-| 54 | € 36,59 | € 73,19 | € 109,78 | € 146,38 | € 182,97 | € 219,56 | € 256,16 | € 292,75 | € 329,35 | € 365,94 |
-| 55 | € 37,27 | € 74,54 | € 111,82 | € 149,09 | € 186,36 | € 223,63 | € 260,90 | € 298,17 | € 335,45 | € 372,72 |
-| 56 | € 37,95 | € 75,90 | € 113,85 | € 151,80 | € 189,75 | € 227,70 | € 265,65 | € 303,59 | € 341,54 | € 379,49 |
-| 57 | € 38,63 | € 77,25 | € 115,88 | € 154,51 | € 193,14 | € 231,76 | € 270,39 | € 309,02 | € 347,64 | € 386,27 |
-| 58 | € 39,30 | € 78,61 | € 117,91 | € 157,22 | € 196,52 | € 235,83 | € 275,13 | € 314,44 | € 353,74 | € 393,05 |
-| 59 | € 39,98 | € 79,96 | € 119,95 | € 159,93 | € 199,91 | € 239,89 | € 279,88 | € 319,86 | € 359,84 | € 399,82 |
-| 60 | € 40,66 | € 81,32 | € 121,98 | € 162,64 | € 203,30 | € 243,96 | € 284,62 | € 325,28 | € 365,94 | € 406,60 |
-| 61 | € 41,34 | € 82,68 | € 124,01 | € 165,35 | € 206,69 | € 248,03 | € 289,36 | € 330,70 | € 372,04 | € 413,38 |
-| 62 | € 42,02 | € 84,03 | € 126,05 | € 168,06 | € 210,08 | € 252,09 | € 294,11 | € 336,12 | € 378,14 | € 420,15 |
-| 63 | € 42,69 | € 85,39 | € 128,08 | € 170,77 | € 213,47 | € 256,16 | € 298,85 | € 341,54 | € 384,24 | € 426,93 |
-| 64 | € 43,37 | € 86,74 | € 130,11 | € 173,48 | € 216,85 | € 260,22 | € 303,59 | € 346,97 | € 390,34 | € 433,71 |
-| 65 | € 44,05 | € 88,10 | € 132,15 | € 176,19 | € 220,24 | € 264,29 | € 308,34 | € 352,39 | € 396,44 | € 440,48 |
-| 66 | € 44,73 | € 89,45 | € 134,18 | € 178,90 | € 223,63 | € 268,36 | € 313,08 | € 357,81 | € 402,53 | € 447,26 |
-| 67 | € 45,40 | € 90,81 | € 136,21 | € 181,61 | € 227,02 | € 272,42 | € 317,83 | € 363,23 | € 408,63 | € 454,04 |
-| 68 | € 46,08 | € 92,16 | € 138,24 | € 184,33 | € 230,41 | € 276,49 | € 322,57 | € 368,65 | € 414,73 | € 460,81 |
-| 69 | € 46,76 | € 93,52 | € 140,28 | € 187,04 | € 233,80 | € 280,55 | € 327,31 | € 374,07 | € 420,83 | € 467,59 |
-| 70 | € 47,44 | € 94,87 | € 142,31 | € 189,75 | € 237,18 | € 284,62 | € 332,06 | € 379,49 | € 426,93 | € 474,37 |
-| 71 | € 48,11 | € 96,23 | € 144,34 | € 192,46 | € 240,57 | € 288,69 | € 336,80 | € 384,91 | € 433,03 | € 481,14 |
-| 72 | € 48,79 | € 97,58 | € 146,38 | € 195,17 | € 243,96 | € 292,75 | € 341,54 | € 390,34 | € 439,13 | € 487,92 |
-| 73 | € 49,47 | € 98,94 | € 148,41 | € 197,88 | € 247,35 | € 296,82 | € 346,29 | € 395,76 | € 445,23 | € 494,70 |
-| 74 | € 50,15 | € 100,29 | € 150,44 | € 200,59 | € 250,74 | € 300,88 | € 351,03 | € 401,18 | € 451,33 | € 501,47 |
-| 75 | € 50,83 | € 101,65 | € 152,48 | € 203,30 | € 254,13 | € 304,95 | € 355,78 | € 406,60 | € 457,43 | € 508,25 |
-| 76 | € 51,50 | € 103,01 | € 154,51 | € 206,01 | € 257,51 | € 309,02 | € 360,52 | € 412,02 | € 463,52 | € 515,03 |
-| 77 | € 52,18 | € 104,36 | € 156,54 | € 208,72 | € 260,90 | € 313,08 | € 365,26 | € 417,44 | € 469,62 | € 521,80 |
-| 78 | € 52,86 | € 105,72 | € 158,57 | € 211,43 | € 264,29 | € 317,15 | € 370,01 | € 422,86 | € 475,72 | € 528,58 |
-| 79 | € 53,54 | € 107,07 | € 160,61 | € 214,14 | € 267,68 | € 321,21 | € 374,75 | € 428,29 | € 481,82 | € 535,36 |
-| 80 | € 54,21 | € 108,43 | € 162,64 | € 216,85 | € 271,07 | € 325,28 | € 379,49 | € 433,71 | € 487,92 | € 542,13 |
-| 81 | € 54,89 | € 109,78 | € 164,67 | € 219,56 | € 274,46 | € 329,35 | € 384,24 | € 439,13 | € 494,02 | € 548,91 |
-| 82 | € 55,57 | € 111,14 | € 166,71 | € 222,27 | € 277,84 | € 333,41 | € 388,98 | € 444,55 | € 500,12 | € 555,69 |
-| 83 | € 56,25 | € 112,49 | € 168,74 | € 224,99 | € 281,23 | € 337,48 | € 393,72 | € 449,97 | € 506,22 | € 562,46 |
-| 84 | € 56,92 | € 113,85 | € 170,77 | € 227,70 | € 284,62 | € 341,54 | € 398,47 | € 455,39 | € 512,32 | € 569,24 |
-| 85 | € 57,60 | € 115,20 | € 172,81 | € 230,41 | € 288,01 | € 345,61 | € 403,21 | € 460,81 | € 518,42 | € 576,02 |
-| 86 | € 58,28 | € 116,56 | € 174,84 | € 233,12 | € 291,40 | € 349,68 | € 407,96 | € 466,23 | € 524,51 | € 582,79 |
-| 87 | € 58,96 | € 117,91 | € 176,87 | € 235,83 | € 294,79 | € 353,74 | € 412,70 | € 471,66 | € 530,61 | € 589,57 |
-| 88 | € 59,63 | € 119,27 | € 178,90 | € 238,54 | € 298,17 | € 357,81 | € 417,44 | € 477,08 | € 536,71 | € 596,35 |
-| 89 | € 60,31 | € 120,62 | € 180,94 | € 241,25 | € 301,56 | € 361,87 | € 422,19 | € 482,50 | € 542,81 | € 603,12 |
-| 90 | € 60,99 | € 121,98 | € 182,97 | € 243,96 | € 304,95 | € 365,94 | € 426,93 | € 487,92 | € 548,91 | € 609,90 |
-| 91 | € 61,67 | € 123,34 | € 185,00 | € 246,67 | € 308,34 | € 370,01 | € 431,67 | € 493,34 | € 555,01 | € 616,68 |
-| 92 | € 62,35 | € 124,69 | € 187,04 | € 249,38 | € 311,73 | € 374,07 | € 436,42 | € 498,76 | € 561,11 | € 623,45 |
-| 93 | € 63,02 | € 126,05 | € 189,07 | € 252,09 | € 315,12 | € 378,14 | € 441,16 | € 504,18 | € 567,21 | € 630,23 |
-| 94 | € 63,70 | € 127,40 | € 191,10 | € 254,80 | € 318,50 | € 382,20 | € 445,90 | € 509,61 | € 573,31 | € 637,01 |
-| 95 | € 64,38 | € 128,76 | € 193,14 | € 257,51 | € 321,89 | € 386,27 | € 450,65 | € 515,03 | € 579,41 | € 643,78 |
-| 96 | € 65,06 | € 130,11 | € 195,17 | € 260,22 | € 325,28 | € 390,34 | € 455,39 | € 520,45 | € 585,50 | € 650,56 |
-| 97 | € 65,73 | € 131,47 | € 197,20 | € 262,93 | € 328,67 | € 394,40 | € 460,14 | € 525,87 | € 591,60 | € 657,34 |
-| 98 | € 66,41 | € 132,82 | € 199,23 | € 265,65 | € 332,06 | € 398,47 | € 464,88 | € 531,29 | € 597,70 | € 664,11 |
-| 99 | € 67,09 | € 134,18 | € 201,27 | € 268,36 | € 335,45 | € 402,53 | € 469,62 | € 536,71 | € 603,80 | € 670,89 |
-| 100 | € 67,77 | € 135,53 | € 203,30 | € 271,07 | € 338,83 | € 406,60 | € 474,37 | € 542,13 | € 609,90 | € 677,67 |
-| 101 | € 68,44 | € 136,89 | € 205,33 | € 273,78 | € 342,22 | € 410,67 | € 479,11 | € 547,55 | € 616,00 | € 684,44 |
-| 102 | € 69,12 | € 138,24 | € 207,37 | € 276,49 | € 345,61 | € 414,73 | € 483,85 | € 552,98 | € 622,10 | € 691,22 |
-| 103 | € 69,80 | € 139,60 | € 209,40 | € 279,20 | € 349,00 | € 418,80 | € 488,60 | € 558,40 | € 628,20 | € 698,00 |
-| 104 | € 70,48 | € 140,95 | € 211,43 | € 281,91 | € 352,39 | € 422,86 | € 493,34 | € 563,82 | € 634,30 | € 704,77 |
-| 105 | € 71,16 | € 142,31 | € 213,47 | € 284,62 | € 355,78 | € 426,93 | € 498,09 | € 569,24 | € 640,40 | € 711,55 |
-| 106 | € 71,83 | € 143,67 | € 215,50 | € 287,33 | € 359,16 | € 431,00 | € 502,83 | € 574,66 | € 646,49 | € 718,33 |
-| 107 | € 72,51 | € 145,02 | € 217,53 | € 290,04 | € 362,55 | € 435,06 | € 507,57 | € 580,08 | € 652,59 | € 725,10 |
-| 108 | € 73,19 | € 146,38 | € 219,56 | € 292,75 | € 365,94 | € 439,13 | € 512,32 | € 585,50 | € 658,69 | € 731,88 |
-| 109 | € 73,87 | € 147,73 | € 221,60 | € 295,46 | € 369,33 | € 443,19 | € 517,06 | € 590,93 | € 664,79 | € 738,66 |
-| 110 | € 74,54 | € 149,09 | € 223,63 | € 298,17 | € 372,72 | € 447,26 | € 521,80 | € 596,35 | € 670,89 | € 745,43 |
-| 111 | € 75,22 | € 150,44 | € 225,66 | € 300,88 | € 376,11 | € 451,33 | € 526,55 | € 601,77 | € 676,99 | € 752,21 |
-| 112 | € 75,90 | € 151,80 | € 227,70 | € 303,59 | € 379,49 | € 455,39 | € 531,29 | € 607,19 | € 683,09 | € 758,99 |
-| 113 | € 76,58 | € 153,15 | € 229,73 | € 306,31 | € 382,88 | € 459,46 | € 536,03 | € 612,61 | € 689,19 | € 765,76 |
-| 114 | € 77,25 | € 154,51 | € 231,76 | € 309,02 | € 386,27 | € 463,52 | € 540,78 | € 618,03 | € 695,29 | € 772,54 |
-| 115 | € 77,93 | € 155,86 | € 233,80 | € 311,73 | € 389,66 | € 467,59 | € 545,52 | € 623,45 | € 701,39 | € 779,32 |
-| 116 | € 78,61 | € 157,22 | € 235,83 | € 314,44 | € 393,05 | € 471,66 | € 550,27 | € 628,87 | € 707,48 | € 786,09 |
-| 117 | € 79,29 | € 158,57 | € 237,86 | € 317,15 | € 396,44 | € 475,72 | € 555,01 | € 634,30 | € 713,58 | € 792,87 |
-| 118 | € 79,96 | € 159,93 | € 239,89 | € 319,86 | € 399,82 | € 479,79 | € 559,75 | € 639,72 | € 719,68 | € 799,65 |
-| 119 | € 80,64 | € 161,28 | € 241,93 | € 322,57 | € 403,21 | € 483,85 | € 564,50 | € 645,14 | € 725,78 | € 806,42 |
-| 120 | € 81,32 | € 162,64 | € 243,96 | € 325,28 | € 406,60 | € 487,92 | € 569,24 | € 650,56 | € 731,88 | € 813,20 |
-| 121 | € 82,00 | € 164,00 | € 245,99 | € 327,99 | € 409,99 | € 491,99 | € 573,98 | € 655,98 | € 737,98 | € 819,98 |
-| 122 | € 82,68 | € 165,35 | € 248,03 | € 330,70 | € 413,38 | € 496,05 | € 578,73 | € 661,40 | € 744,08 | € 826,75 |
-| 123 | € 83,35 | € 166,71 | € 250,06 | € 333,41 | € 416,77 | € 500,12 | € 583,47 | € 666,82 | € 750,18 | € 833,53 |
-| 124 | € 84,03 | € 168,06 | € 252,09 | € 336,12 | € 420,15 | € 504,18 | € 588,21 | € 672,25 | € 756,28 | € 840,31 |
-| 125 | € 84,71 | € 169,42 | € 254,13 | € 338,83 | € 423,54 | € 508,25 | € 592,96 | € 677,67 | € 762,38 | € 847,08 |
-| 126 | € 85,39 | € 170,77 | € 256,16 | € 341,54 | € 426,93 | € 512,32 | € 597,70 | € 683,09 | € 768,47 | € 853,86 |
-| 127 | € 86,06 | € 172,13 | € 258,19 | € 344,25 | € 430,32 | € 516,38 | € 602,45 | € 688,51 | € 774,57 | € 860,64 |
-| 128 | € 86,74 | € 173,48 | € 260,22 | € 346,97 | € 433,71 | € 520,45 | € 607,19 | € 693,93 | € 780,67 | € 867,41 |
-| 129 | € 87,42 | € 174,84 | € 262,26 | € 349,68 | € 437,10 | € 524,51 | € 611,93 | € 699,35 | € 786,77 | € 874,19 |
-| 130 | € 88,10 | € 176,19 | € 264,29 | € 352,39 | € 440,48 | € 528,58 | € 616,68 | € 704,77 | € 792,87 | € 880,97 |
-| 131 | € 88,77 | € 177,55 | € 266,32 | € 355,10 | € 443,87 | € 532,65 | € 621,42 | € 710,19 | € 798,97 | € 887,74 |
-| 132 | € 89,45 | € 178,90 | € 268,36 | € 357,81 | € 447,26 | € 536,71 | € 626,16 | € 715,62 | € 805,07 | € 894,52 |
-| 133 | € 90,13 | € 180,26 | € 270,39 | € 360,52 | € 450,65 | € 540,78 | € 630,91 | € 721,04 | € 811,17 | € 901,30 |
-| 134 | € 90,81 | € 181,61 | € 272,42 | € 363,23 | € 454,04 | € 544,84 | € 635,65 | € 726,46 | € 817,27 | € 908,07 |
-| 135 | € 91,49 | € 182,97 | € 274,46 | € 365,94 | € 457,43 | € 548,91 | € 640,40 | € 731,88 | € 823,37 | € 914,85 |
-| 136 | € 92,16 | € 184,33 | € 276,49 | € 368,65 | € 460,81 | € 552,98 | € 645,14 | € 737,30 | € 829,46 | € 921,63 |
-| 137 | € 92,84 | € 185,68 | € 278,52 | € 371,36 | € 464,20 | € 557,04 | € 649,88 | € 742,72 | € 835,56 | € 928,40 |
-| 138 | € 93,52 | € 187,04 | € 280,55 | € 374,07 | € 467,59 | € 561,11 | € 654,63 | € 748,14 | € 841,66 | € 935,18 |
-| 139 | € 94,20 | € 188,39 | € 282,59 | € 376,78 | € 470,98 | € 565,17 | € 659,37 | € 753,57 | € 847,76 | € 941,96 |
-| 140 | € 94,87 | € 189,75 | € 284,62 | € 379,49 | € 474,37 | € 569,24 | € 664,11 | € 758,99 | € 853,86 | € 948,73 |
-| 141 | € 95,55 | € 191,10 | € 286,65 | € 382,20 | € 477,76 | € 573,31 | € 668,86 | € 764,41 | € 859,96 | € 955,51 |
-| 142 | € 96,23 | € 192,46 | € 288,69 | € 384,91 | € 481,14 | € 577,37 | € 673,60 | € 769,83 | € 866,06 | € 962,29 |
-| 143 | € 96,91 | € 193,81 | € 290,72 | € 387,63 | € 484,53 | € 581,44 | € 678,34 | € 775,25 | € 872,16 | € 969,06 |
-| 144 | € 97,58 | € 195,17 | € 292,75 | € 390,34 | € 487,92 | € 585,50 | € 683,09 | € 780,67 | € 878,26 | € 975,84 |
-| 145 | € 98,26 | € 196,52 | € 294,79 | € 393,05 | € 491,31 | € 589,57 | € 687,83 | € 786,09 | € 884,36 | € 982,62 |
-| 146 | € 98,94 | € 197,88 | € 296,82 | € 395,76 | € 494,70 | € 593,64 | € 692,58 | € 791,51 | € 890,45 | € 989,39 |
-| 147 | € 99,62 | € 199,23 | € 298,85 | € 398,47 | € 498,09 | € 597,70 | € 697,32 | € 796,94 | € 896,55 | € 996,17 |
-| 148 | € 100,29 | € 200,59 | € 300,88 | € 401,18 | € 501,47 | € 601,77 | € 702,06 | € 802,36 | € 902,65 | € 1.002,95 |
-| 149 | € 100,97 | € 201,94 | € 302,92 | € 403,89 | € 504,86 | € 605,83 | € 706,81 | € 807,78 | € 908,75 | € 1.009,72 |
-| 150 | € 101,65 | € 203,30 | € 304,95 | € 406,60 | € 508,25 | € 609,90 | € 711,55 | € 813,20 | € 914,85 | € 1.016,50 |
-| 151 | € 102,33 | € 204,66 | € 306,98 | € 409,31 | € 511,64 | € 613,97 | € 716,29 | € 818,62 | € 920,95 | € 1.023,28 |
-| 152 | € 103,01 | € 206,01 | € 309,02 | € 412,02 | € 515,03 | € 618,03 | € 721,04 | € 824,04 | € 927,05 | € 1.030,05 |
-| 153 | € 103,68 | € 207,37 | € 311,05 | € 414,73 | € 518,42 | € 622,10 | € 725,78 | € 829,46 | € 933,15 | € 1.036,83 |
-| 154 | € 104,36 | € 208,72 | € 313,08 | € 417,44 | € 521,80 | € 626,16 | € 730,52 | € 834,89 | € 939,25 | € 1.043,61 |
-| 155 | € 105,04 | € 210,08 | € 315,12 | € 420,15 | € 525,19 | € 630,23 | € 735,27 | € 840,31 | € 945,35 | € 1.050,38 |
-| 156 | € 105,72 | € 211,43 | € 317,15 | € 422,86 | € 528,58 | € 634,30 | € 740,01 | € 845,73 | € 951,44 | € 1.057,16 |
-| 157 | € 106,39 | € 212,79 | € 319,18 | € 425,57 | € 531,97 | € 638,36 | € 744,76 | € 851,15 | € 957,54 | € 1.063,94 |
-| 158 | € 107,07 | € 214,14 | € 321,21 | € 428,29 | € 535,36 | € 642,43 | € 749,50 | € 856,57 | € 963,64 | € 1.070,71 |
-| 159 | € 107,75 | € 215,50 | € 323,25 | € 431,00 | € 538,75 | € 646,49 | € 754,24 | € 861,99 | € 969,74 | € 1.077,49 |
-| 160 | € 108,43 | € 216,85 | € 325,28 | € 433,71 | € 542,13 | € 650,56 | € 758,99 | € 867,41 | € 975,84 | € 1.084,27 |
-| 161 | € 109,10 | € 218,21 | € 327,31 | € 436,42 | € 545,52 | € 654,63 | € 763,73 | € 872,83 | € 981,94 | € 1.091,04 |
-| 162 | € 109,78 | € 219,56 | € 329,35 | € 439,13 | € 548,91 | € 658,69 | € 768,47 | € 878,26 | € 988,04 | € 1.097,82 |
-| 163 | € 110,46 | € 220,92 | € 331,38 | € 441,84 | € 552,30 | € 662,76 | € 773,22 | € 883,68 | € 994,14 | € 1.104,60 |
-| 164 | € 111,14 | € 222,27 | € 333,41 | € 444,55 | € 555,69 | € 666,82 | € 777,96 | € 889,10 | € 1.000,24 | € 1.111,37 |
-| 165 | € 111,82 | € 223,63 | € 335,45 | € 447,26 | € 559,08 | € 670,89 | € 782,71 | € 894,52 | € 1.006,34 | € 1.118,15 |
-| 166 | € 112,49 | € 224,99 | € 337,48 | € 449,97 | € 562,46 | € 674,96 | € 787,45 | € 899,94 | € 1.012,43 | € 1.124,93 |
-| 167 | € 113,17 | € 226,34 | € 339,51 | € 452,68 | € 565,85 | € 679,02 | € 792,19 | € 905,36 | € 1.018,53 | € 1.131,70 |
-| 168 | € 113,85 | € 227,70 | € 341,54 | € 455,39 | € 569,24 | € 683,09 | € 796,94 | € 910,78 | € 1.024,63 | € 1.138,48 |
-| 169 | € 114,53 | € 229,05 | € 343,58 | € 458,10 | € 572,63 | € 687,15 | € 801,68 | € 916,21 | € 1.030,73 | € 1.145,26 |
-| 170 | € 115,20 | € 230,41 | € 345,61 | € 460,81 | € 576,02 | € 691,22 | € 806,42 | € 921,63 | € 1.036,83 | € 1.152,03 |
-| 171 | € 115,88 | € 231,76 | € 347,64 | € 463,52 | € 579,41 | € 695,29 | € 811,17 | € 927,05 | € 1.042,93 | € 1.158,81 |
-| 172 | € 116,56 | € 233,12 | € 349,68 | € 466,23 | € 582,79 | € 699,35 | € 815,91 | € 932,47 | € 1.049,03 | € 1.165,59 |
-| 173 | € 117,24 | € 234,47 | € 351,71 | € 468,95 | € 586,18 | € 703,42 | € 820,65 | € 937,89 | € 1.055,13 | € 1.172,36 |
-| 174 | € 117,91 | € 235,83 | € 353,74 | € 471,66 | € 589,57 | € 707,48 | € 825,40 | € 943,31 | € 1.061,23 | € 1.179,14 |
-| 175 | € 118,59 | € 237,18 | € 355,78 | € 474,37 | € 592,96 | € 711,55 | € 830,14 | € 948,73 | € 1.067,33 | € 1.185,92 |
-| 176 | € 119,27 | € 238,54 | € 357,81 | € 477,08 | € 596,35 | € 715,62 | € 834,89 | € 954,15 | € 1.073,42 | € 1.192,69 |
-| 177 | € 119,95 | € 239,89 | € 359,84 | € 479,79 | € 599,74 | € 719,68 | € 839,63 | € 959,58 | € 1.079,52 | € 1.199,47 |
-| 178 | € 120,62 | € 241,25 | € 361,87 | € 482,50 | € 603,12 | € 723,75 | € 844,37 | € 965,00 | € 1.085,62 | € 1.206,25 |
-| 179 | € 121,30 | € 242,60 | € 363,91 | € 485,21 | € 606,51 | € 727,81 | € 849,12 | € 970,42 | € 1.091,72 | € 1.213,02 |
-| 180 | € 121,98 | € 243,96 | € 365,94 | € 487,92 | € 609,90 | € 731,88 | € 853,86 | € 975,84 | € 1.097,82 | € 1.219,80 |
-| 181 | € 122,66 | € 245,32 | € 367,97 | € 490,63 | € 613,29 | € 735,95 | € 858,60 | € 981,26 | € 1.103,92 | € 1.226,58 |
-| 182 | € 123,34 | € 246,67 | € 370,01 | € 493,34 | € 616,68 | € 740,01 | € 863,35 | € 986,68 | € 1.110,02 | € 1.233,35 |
-| 183 | € 124,01 | € 248,03 | € 372,04 | € 496,05 | € 620,07 | € 744,08 | € 868,09 | € 992,10 | € 1.116,12 | € 1.240,13 |
-| 184 | € 124,69 | € 249,38 | € 374,07 | € 498,76 | € 623,45 | € 748,14 | € 872,83 | € 997,53 | € 1.122,22 | € 1.246,91 |
-| 185 | € 125,37 | € 250,74 | € 376,11 | € 501,47 | € 626,84 | € 752,21 | € 877,58 | € 1.002,95 | € 1.128,32 | € 1.253,68 |
-| 186 | € 126,05 | € 252,09 | € 378,14 | € 504,18 | € 630,23 | € 756,28 | € 882,32 | € 1.008,37 | € 1.134,41 | € 1.260,46 |
-| 187 | € 126,72 | € 253,45 | € 380,17 | € 506,89 | € 633,62 | € 760,34 | € 887,07 | € 1.013,79 | € 1.140,51 | € 1.267,24 |
-| 189 | € 127,40 | € 254,80 | € 382,20 | € 509,61 | € 637,01 | € 764,41 | € 891,81 | € 1.019,21 | € 1.146,61 | € 1.274,01 |
-| 190 | € 128,08 | € 256,16 | € 384,24 | € 512,32 | € 640,40 | € 768,47 | € 896,55 | € 1.024,63 | € 1.152,71 | € 1.280,79 |
-| 191 | € 128,76 | € 257,51 | € 386,27 | € 515,03 | € 643,78 | € 772,54 | € 901,30 | € 1.030,05 | € 1.158,81 | € 1.287,57 |
-| 192 | € 129,43 | € 258,87 | € 388,30 | € 517,74 | € 647,17 | € 776,61 | € 906,04 | € 1.035,47 | € 1.164,91 | € 1.294,34 |
-| 193 | € 130,11 | € 260,22 | € 390,34 | € 520,45 | € 650,56 | € 780,67 | € 910,78 | € 1.040,90 | € 1.171,01 | € 1.301,12 |
-| 194 | € 130,79 | € 261,58 | € 392,37 | € 523,16 | € 653,95 | € 784,74 | € 915,53 | € 1.046,32 | € 1.177,11 | € 1.307,90 |
-| 195 | € 131,47 | € 262,93 | € 394,40 | € 525,87 | € 657,34 | € 788,80 | € 920,27 | € 1.051,74 | € 1.183,21 | € 1.314,67 |
-| 196 | € 132,15 | € 264,29 | € 396,44 | € 528,58 | € 660,73 | € 792,87 | € 925,02 | € 1.057,16 | € 1.189,31 | € 1.321,45 |
-| 197 | € 132,82 | € 265,65 | € 398,47 | € 531,29 | € 664,11 | € 796,94 | € 929,76 | € 1.062,58 | € 1.195,40 | € 1.328,23 |
-| 198 | € 133,50 | € 267,00 | € 400,50 | € 534,00 | € 667,50 | € 801,00 | € 934,50 | € 1.068,00 | € 1.201,50 | € 1.335,00 |
-| 199 | € 134,18 | € 268,36 | € 402,53 | € 536,71 | € 670,89 | € 805,07 | € 939,25 | € 1.073,42 | € 1.207,60 | € 1.341,78 |
-| 200 | € 134,86 | € 269,71 | € 404,57 | € 539,42 | € 674,28 | € 809,13 | € 943,99 | € 1.078,85 | € 1.213,70 | € 1.348,56 |
-| 201 | € 135,53 | € 271,07 | € 406,60 | € 542,13 | € 677,67 | € 813,20 | € 948,73 | € 1.084,27 | € 1.219,80 | € 1.355,33 |
-| 202 | € 136,21 | € 272,42 | € 408,63 | € 544,84 | € 681,06 | € 817,27 | € 953,48 | € 1.089,69 | € 1.225,90 | € 1.362,11 |
-| 203 | € 136,89 | € 273,78 | € 410,67 | € 547,55 | € 684,44 | € 821,33 | € 958,22 | € 1.095,11 | € 1.232,00 | € 1.368,89 |
-| 204 | € 137,57 | € 275,13 | € 412,70 | € 550,27 | € 687,83 | € 825,40 | € 962,96 | € 1.100,53 | € 1.238,10 | € 1.375,66 |
-| 205 | € 138,24 | € 276,49 | € 414,73 | € 552,98 | € 691,22 | € 829,46 | € 967,71 | € 1.105,95 | € 1.244,20 | € 1.382,44 |
-| 206 | € 138,92 | € 277,84 | € 416,77 | € 555,69 | € 694,61 | € 833,53 | € 972,45 | € 1.111,37 | € 1.250,30 | € 1.389,22 |
-| 207 | € 139,60 | € 279,20 | € 418,80 | € 558,40 | € 698,00 | € 837,60 | € 977,20 | € 1.116,79 | € 1.256,39 | € 1.395,99 |
-| 208 | € 140,28 | € 280,55 | € 420,83 | € 561,11 | € 701,39 | € 841,66 | € 981,94 | € 1.122,22 | € 1.262,49 | € 1.402,77 |
-| 209 | € 140,95 | € 281,91 | € 422,86 | € 563,82 | € 704,77 | € 845,73 | € 986,68 | € 1.127,64 | € 1.268,59 | € 1.409,55 |
-| 210 | € 141,63 | € 283,26 | € 424,90 | € 566,53 | € 708,16 | € 849,79 | € 991,43 | € 1.133,06 | € 1.274,69 | € 1.416,32 |
-| 211 | € 142,31 | € 284,62 | € 426,93 | € 569,24 | € 711,55 | € 853,86 | € 996,17 | € 1.138,48 | € 1.280,79 | € 1.423,10 |
-| 212 | € 142,99 | € 285,98 | € 428,96 | € 571,95 | € 714,94 | € 857,93 | € 1.000,91 | € 1.143,90 | € 1.286,89 | € 1.429,88 |
-| 213 | € 143,67 | € 287,33 | € 431,00 | € 574,66 | € 718,33 | € 861,99 | € 1.005,66 | € 1.149,32 | € 1.292,99 | € 1.436,65 |
-| 214 | € 144,34 | € 288,69 | € 433,03 | € 577,37 | € 721,72 | € 866,06 | € 1.010,40 | € 1.154,74 | € 1.299,09 | € 1.443,43 |
-| 215 | € 145,02 | € 290,04 | € 435,06 | € 580,08 | € 725,10 | € 870,12 | € 1.015,14 | € 1.160,17 | € 1.305,19 | € 1.450,21 |
-| 216 | € 145,70 | € 291,40 | € 437,10 | € 582,79 | € 728,49 | € 874,19 | € 1.019,89 | € 1.165,59 | € 1.311,29 | € 1.456,98 |
-| 217 | € 146,38 | € 292,75 | € 439,13 | € 585,50 | € 731,88 | € 878,26 | € 1.024,63 | € 1.171,01 | € 1.317,38 | € 1.463,76 |
-| 218 | € 147,05 | € 294,11 | € 441,16 | € 588,21 | € 735,27 | € 882,32 | € 1.029,38 | € 1.176,43 | € 1.323,48 | € 1.470,54 |
-| 219 | € 147,73 | € 295,46 | € 443,19 | € 590,93 | € 738,66 | € 886,39 | € 1.034,12 | € 1.181,85 | € 1.329,58 | € 1.477,31 |
-| 220 | € 148,41 | € 296,82 | € 445,23 | € 593,64 | € 742,05 | € 890,45 | € 1.038,86 | € 1.187,27 | € 1.335,68 | € 1.484,09 |
-| 221 | € 149,09 | € 298,17 | € 447,26 | € 596,35 | € 745,43 | € 894,52 | € 1.043,61 | € 1.192,69 | € 1.341,78 | € 1.490,87 |
-| 222 | € 149,76 | € 299,53 | € 449,29 | € 599,06 | € 748,82 | € 898,59 | € 1.048,35 | € 1.198,11 | € 1.347,88 | € 1.497,64 |
-| 223 | € 150,44 | € 300,88 | € 451,33 | € 601,77 | € 752,21 | € 902,65 | € 1.053,09 | € 1.203,54 | € 1.353,98 | € 1.504,42 |
-| 224 | € 151,12 | € 302,24 | € 453,36 | € 604,48 | € 755,60 | € 906,72 | € 1.057,84 | € 1.208,96 | € 1.360,08 | € 1.511,20 |
-| 225 | € 151,80 | € 303,59 | € 455,39 | € 607,19 | € 758,99 | € 910,78 | € 1.062,58 | € 1.214,38 | € 1.366,18 | € 1.517,97 |
-| 226 | € 152,48 | € 304,95 | € 457,43 | € 609,90 | € 762,38 | € 914,85 | € 1.067,33 | € 1.219,80 | € 1.372,28 | € 1.524,75 |
-| 227 | € 153,15 | € 306,31 | € 459,46 | € 612,61 | € 765,76 | € 918,92 | € 1.072,07 | € 1.225,22 | € 1.378,37 | € 1.531,53 |
-| 228 | € 153,83 | € 307,66 | € 461,49 | € 615,32 | € 769,15 | € 922,98 | € 1.076,81 | € 1.230,64 | € 1.384,47 | € 1.538,30 |
-| 229 | € 154,51 | € 309,02 | € 463,52 | € 618,03 | € 772,54 | € 927,05 | € 1.081,56 | € 1.236,06 | € 1.390,57 | € 1.545,08 |
-| 230 | € 155,19 | € 310,37 | € 465,56 | € 620,74 | € 775,93 | € 931,11 | € 1.086,30 | € 1.241,49 | € 1.396,67 | € 1.551,86 |
-| 231 | € 155,86 | € 311,73 | € 467,59 | € 623,45 | € 779,32 | € 935,18 | € 1.091,04 | € 1.246,91 | € 1.402,77 | € 1.558,63 |
-| 232 | € 156,54 | € 313,08 | € 469,62 | € 626,16 | € 782,71 | € 939,25 | € 1.095,79 | € 1.252,33 | € 1.408,87 | € 1.565,41 |
-| 233 | € 157,22 | € 314,44 | € 471,66 | € 628,87 | € 786,09 | € 943,31 | € 1.100,53 | € 1.257,75 | € 1.414,97 | € 1.572,19 |
-| 234 | € 157,90 | € 315,79 | € 473,69 | € 631,59 | € 789,48 | € 947,38 | € 1.105,27 | € 1.263,17 | € 1.421,07 | € 1.578,96 |
-| 235 | € 158,57 | € 317,15 | € 475,72 | € 634,30 | € 792,87 | € 951,44 | € 1.110,02 | € 1.268,59 | € 1.427,17 | € 1.585,74 |
-| 236 | € 159,25 | € 318,50 | € 477,76 | € 637,01 | € 796,26 | € 955,51 | € 1.114,76 | € 1.274,01 | € 1.433,27 | € 1.592,52 |
-| 237 | € 159,93 | € 319,86 | € 479,79 | € 639,72 | € 799,65 | € 959,58 | € 1.119,51 | € 1.279,43 | € 1.439,36 | € 1.599,29 |
-| 238 | € 160,61 | € 321,21 | € 481,82 | € 642,43 | € 803,04 | € 963,64 | € 1.124,25 | € 1.284,86 | € 1.445,46 | € 1.606,07 |
-| 239 | € 161,28 | € 322,57 | € 483,85 | € 645,14 | € 806,42 | € 967,71 | € 1.128,99 | € 1.290,28 | € 1.451,56 | € 1.612,85 |
-| 240 | € 161,96 | € 323,92 | € 485,89 | € 647,85 | € 809,81 | € 971,77 | € 1.133,74 | € 1.295,70 | € 1.457,66 | € 1.619,62 |
-| 241 | € 162,64 | € 325,28 | € 487,92 | € 650,56 | € 813,20 | € 975,84 | € 1.138,48 | € 1.301,12 | € 1.463,76 | € 1.626,40 |
-| 242 | € 163,32 | € 326,64 | € 489,95 | € 653,27 | € 816,59 | € 979,91 | € 1.143,22 | € 1.306,54 | € 1.469,86 | € 1.633,18 |
-| 243 | € 164,00 | € 327,99 | € 491,99 | € 655,98 | € 819,98 | € 983,97 | € 1.147,97 | € 1.311,96 | € 1.475,96 | € 1.639,95 |
-| 244 | € 164,67 | € 329,35 | € 494,02 | € 658,69 | € 823,37 | € 988,04 | € 1.152,71 | € 1.317,38 | € 1.482,06 | € 1.646,73 |
-| 245 | € 165,35 | € 330,70 | € 496,05 | € 661,40 | € 826,75 | € 992,10 | € 1.157,45 | € 1.322,81 | € 1.488,16 | € 1.653,51 |
-| 246 | € 166,03 | € 332,06 | € 498,09 | € 664,11 | € 830,14 | € 996,17 | € 1.162,20 | € 1.328,23 | € 1.494,26 | € 1.660,28 |
-| 247 | € 166,71 | € 333,41 | € 500,12 | € 666,82 | € 833,53 | € 1.000,24 | € 1.166,94 | € 1.333,65 | € 1.500,35 | € 1.667,06 |
-| 248 | € 167,38 | € 334,77 | € 502,15 | € 669,53 | € 836,92 | € 1.004,30 | € 1.171,69 | € 1.339,07 | € 1.506,45 | € 1.673,84 |
-| 249 | € 168,06 | € 336,12 | € 504,18 | € 672,25 | € 840,31 | € 1.008,37 | € 1.176,43 | € 1.344,49 | € 1.512,55 | € 1.680,61 |
-| 250 | € 168,74 | € 337,48 | € 506,22 | € 674,96 | € 843,70 | € 1.012,43 | € 1.181,17 | € 1.349,91 | € 1.518,65 | € 1.687,39 |
+Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage 2. bij de Verplaatsingskostenregeling defensie
 
