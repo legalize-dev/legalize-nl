@@ -140,32 +140,3 @@ Deze regeling wordt aangehaald als: Regeling subsidie verlagen werkdruk gecertif
 | **Totaal** | **100,0%** | **€ 20.000.000** |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a. Hardheidsclausule
-
-1. De Minister kan de termijn voor de uitvoering van subsidieactiviteiten, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=8&z=2024-03-05&g=2023-11-01), verlengen met maximaal twaalf maanden, indien de subsidieontvanger een daartoe voldoende gemotiveerd verzoek indient voor het einde van deze termijn.
-
-2. Een verzoek tot verlenging wordt slechts ingewilligd indien er sprake is van bijzondere of onvoorziene omstandigheden, waardoor het niet toewijzen van het verzoek zou leiden tot onevenredige gevolgen voor de subsidieontvanger. In dat geval wordt ook de beschikking tot subsidieverlening gewijzigd dan wel aangevuld met nieuwe uiterste data voor verantwoording van de besteding van de subsidiegelden die een jaar later liggen dan de data voor verantwoording, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=9&z=2024-03-05&g=2023-11-01).
-
-3. Onder bijzondere of onvoorziene omstandigheden worden in ieder geval verstaan onvoorzien hoog personeelsverloop, onvoorziene stijging van de cliënteninstroom, onvoorziene krapte op de arbeidsmarkt en onvoorziene tariefverhoging. In het verzoek tot verlenging wordt gemotiveerd welke omstandigheden van toepassing zijn en hoe deze omstandigheden tot vertraging in de uitvoering hebben geleid.
-
-## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=3&z=2024-03-05&g=2023-11-01) van de Regeling subsidie verlagen werkdruk gecertificeerde instellingen 2023
-
-| GI | % van totaal | Maximaal aan te vragen bedrag |
-| --- | --- | --- |
-| Jeugdbescherming Regio Amsterdam | 4,5% | € 892.044 |
-| Jeugdbescherming Brabant | 8,4% | € 1.673.492 |
-| Jeugdbescherming Gelderland | 8,1% | € 1.614.521 |
-| Bureau Jeugdzorg Limburg | 5,8% | € 1.158.186 |
-| Jeugdbescherming Noord | 3,2% | € 635.118 |
-| Jeugdbescherming Overijssel | 5,4% | € 1.088.584 |
-| Jeugdbescherming Rotterdam Rijnmond | 6,0% | € 1.206.229 |
-| Regiecentrum Bescherming en Veiligheid | 3,3% | € 664.758 |
-| Jeugdbescherming west | 11,0% | € 2.195.173 |
-| Samen Veilig Midden-Nederland | 7,2% | € 1.433.216 |
-| De Jeugd- en Gezinsbeschermers | 4,9% | € 980.709 |
-| William Schrikker Jeugdbescherming en Jeugdreclassering | 24,2% | € 4.837.210 |
-| Leger des Heils Jeugdbescherming en Reclassering | 8,1% | € 1.620.760 |
-| **Totaal** | **100,0%** | **€ 20.000.000** |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
