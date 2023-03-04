@@ -4,7 +4,7 @@ identifier: "BWBR0044855"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-20"
-last_updated: "2021-03-01"
+last_updated: "2023-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044855"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens de [Plantgezon
 
 - a. de technisch directeur, de inspecteurs, de assistent specialisten kwaliteitszaken, de assistent specialisten fytosanitaire zaken, de specialisten kwaliteitszaken, de specialisten fytosanitaire zaken, de rayonmanagers, de planners, de coördinator planner, het hoofd kwalificatie en kennisbeheer, de assistent hoofd buitendienst en het hoofd buitendienst van de Stichting Kwaliteits-Controle-Bureau;
 
-- b. de directeur, de adjunct-directeur, het hoofd financiën, het hoofd keuringsbeleid en kwaliteit, het hoofd buitendienst, de keurmeesters, de assistent-keurmeesters, de medewerkers keuringsbeleid en kwaliteit, de teamleiders buitendienst, de teamleider service center en de medewerkers service center van de Stichting Bloembollenkeuringsdienst;
+- b. de daartoe gekwalificeerde medewerkers van de Stichting Bloembollenkeuringsdienst;
 
 - c. de directeur, het hoofd Keuringen, de keurmeesters, de managers Keuringen en de inspectiemedewerkers bacterievuurcontrole van de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
 
