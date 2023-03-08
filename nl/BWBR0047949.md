@@ -4,7 +4,7 @@ identifier: "BWBR0047949"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-05"
-last_updated: "2023-03-02"
+last_updated: "2023-03-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047949"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ Een aanvraag wordt ingediend door middel van een daartoe door de Minister beschi
 
 ##### Artikel 8. Verplichtingen
 
-1. De voor subsidie in aanmerking komende activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=2&z=2023-03-08&g=2023-03-02), worden tussen 1 maart 2023 en 31 december 2023 uitgevoerd.
+1. De voor subsidie in aanmerking komende activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=2&z=2023-03-08&g=2023-03-08), worden tussen 1 maart 2023 en 31 december 2023 uitgevoerd.
 
 2. De gecertificeerde instellingen leveren de accounthoudende gemeente de gegevens die nodig zijn voor het monitoren van afspraken die gemaakt zijn in het kader van deze subsidie.
 
@@ -120,7 +120,7 @@ Een aanvraag wordt ingediend door middel van een daartoe door de Minister beschi
 
 Deze regeling wordt aangehaald als: Regeling subsidie verlagen werkdruk gecertificeerde instellingen 2023.
 
-## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=3&z=2023-03-08&g=2023-03-02) van de Regeling subsidie verlagen werkdruk gecertificeerde instellingen 2023
+## Bijlage. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047949&artikel=3&z=2023-03-08&g=2023-03-08) van de Regeling subsidie verlagen werkdruk gecertificeerde instellingen 2023
 
 | GI | % van totaal | Maximaal aan te vragen bedrag |
 | --- | --- | --- |
