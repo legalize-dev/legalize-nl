@@ -4,7 +4,7 @@ identifier: "BWBR0047950"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-03-11"
-last_updated: "2023-01-01"
+last_updated: "2023-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047950"
 soort: "beleidsregel"
@@ -55,7 +55,7 @@ Besluit:
 
 1. De militair in werkelijke dienst of de dienstplichtige die een positieve reactie van Mantoux vertoont wordt onderworpen aan een specialistisch onderzoek.
 
-2. De militair in werkelijke dienst of de dienstplichtige, die ingevolge het bepaalde in het [derde lid van het vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0047950&artikel=1&z=2023-03-11&g=2023-01-01) niet wordt onderworpen aan een onderzoek naar een reactie van Mantoux, wordt aan een specialistisch onderzoek onderworpen, indien:
+2. De militair in werkelijke dienst of de dienstplichtige, die ingevolge het bepaalde in het [derde lid van het vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0047950&artikel=1&z=2023-03-11&g=2023-03-11) niet wordt onderworpen aan een onderzoek naar een reactie van Mantoux, wordt aan een specialistisch onderzoek onderworpen, indien:
 
 - a. hij in de directe omgeving heeft verbleven van een lijder aan een besmettelijke vorm van tuberculose, ofwel
 
