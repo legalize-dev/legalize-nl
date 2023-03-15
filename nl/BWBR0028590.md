@@ -4,7 +4,7 @@ identifier: "BWBR0028590"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-03-15"
-last_updated: "2016-07-01"
+last_updated: "2023-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028590"
 soort: "ministeriele-regeling-BES"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Als de beheersinstantie, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=5) wordt aangewezen de Minister van Economische Zaken.
+Als de beheersinstantie, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=5) wordt aangewezen de Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 ##### Artikel 3
 
@@ -58,11 +58,11 @@ Als de wetenschappelijke autoriteit, bedoeld in [artikel 6, eerste lid, van de w
 
 ##### Artikel 4
 
-Aanvragen voor een vergunning of een certificaat als bedoeld artikel III, IV, V en VI van het CITES-verdrag in samenhang met [artikel 7A, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=7a), worden ingediend bij de Rijksdienst Caribisch Nederland op de openbare lichamen Bonaire, Sint Eustatius of Saba.
+Vervallen
 
 ##### Artikel 5
 
-Als model voor vergunningen en certificaten als bedoeld in [artikel 7B, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=7b) wordt vastgesteld het model, opgenomen in de bijlage bij deze regeling.
+Als model voor vergunningen en certificaten als bedoeld in [artikel 7B, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=7b) wordt vastgesteld het model, opgenomen in Bijlage IV van het CITES-verdrag.
 
 ##### Artikel 6
 
@@ -88,6 +88,6 @@ Als toezichthouder als bedoeld in [artikel 16, eerste lid, van de wet](https://w
 
 ## Bijlage
 
-Niet opgenomen.
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
