@@ -4,7 +4,7 @@ identifier: "BWBR0031305"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-05"
-last_updated: "2019-02-16"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031305"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2
 
-De bevoegde autoriteit in de artikelen 2bis, tweede lid en derde lid, 2 ter, tweede lid, 2quater, tweede lid, 3, derde tot en met vijfde lid, 4, eerste lid en tweede lid, 5, eerste lid, artikel 6bis, tweede lid, 7, 7 bis, derde lid, 9bis, eerste en tweede lid, 10, eerste lid, 12, tweede lid, 13bis, eerste en tweede lid, 16, 16bis, tweede en derde lid, 17, 18, eerste lid, 19, tweede lid, 20, 20bis, 21, 21bis, 21quater, eerste lid, 25bis, eerste en tweede lid, en 29, eerste lid, van [Verordening 36/2012](32012R0036) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking dan wel, indien de uitoefening van de bevoegdheid betrekking heeft op financiële en bancaire aangelegenheden, zoals het verlenen van financiering en financiële bijstand, de verstrekking van leningen en kredieten, het openen van bankrekeningen, de vestiging van financiële instellingen en de overdracht, de vrijgave of beschikbaarstelling van tegoeden, de Minister van Financiën.
+De bevoegde autoriteit in de artikelen 2bis, tweede lid en derde lid, 2 ter, tweede lid, 2quater, tweede lid, 3, derde tot en met vijfde lid, 4, eerste lid en tweede lid, 5, eerste lid, artikel 6bis, tweede lid, 7, 7 bis, derde lid, 9bis, eerste en tweede lid, 10, eerste lid, 12, tweede lid, 13bis, eerste en tweede lid, 16, artikel 16 bis, derde en vierde lid, 17, 18, eerste lid, 19, tweede lid, 20, 20bis, 21, 21bis, 21quater, eerste lid, 25bis, eerste en tweede lid, en 29, eerste lid, van [Verordening 36/2012](32012R0036) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking dan wel, indien de uitoefening van de bevoegdheid betrekking heeft op financiële en bancaire aangelegenheden, zoals het verlenen van financiering en financiële bijstand, de verstrekking van leningen en kredieten, het openen van bankrekeningen, de vestiging van financiële instellingen en de overdracht, de vrijgave of beschikbaarstelling van tegoeden, de Minister van Financiën.
 
 ##### Artikel 3
 
