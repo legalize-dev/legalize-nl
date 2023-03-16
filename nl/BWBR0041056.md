@@ -4,7 +4,7 @@ identifier: "BWBR0041056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-25"
-last_updated: "2022-04-01"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041056"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ Vervallen
 
 ##### Artikel 10. Inzage leerlingenadministratie
 
-In geval van een steekproefsgewijze controle door of namens de Minister geeft het bevoegd gezag inzage in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=2&z=2022-04-01&g=2022-04-01) genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld.
+In geval van een steekproefsgewijze controle door of namens de Minister geeft het bevoegd gezag inzage in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=2&z=2023-03-16&g=2023-03-16) genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld.
 
 ##### Artikel 11. Terugkoppeling inschrijvingsgegevens
 
@@ -106,33 +106,29 @@ Vervallen
 
 Vervallen
 
-#### Paragraaf 4. Levering organisatie- en personeelsgegevens en gegevens voor het lerarenregister en registervoorportaal
+#### Paragraaf 4. Levering organisatie- en personeelsgegevens
 
 ##### Artikel 13. Reikwijdte
 
-Deze paragraaf berust op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=4) en [9 van het Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=9).
+Deze paragraaf berust op [artikel 4 van het Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=4).
 
 ##### Artikel 14. Te leveren gegevens
 
-1. Het bevoegd gezag levert de organisatiegegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2022-04-01&g=2022-04-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2022-04-01&g=2022-04-01), aan de Minister.
+1. Het bevoegd gezag levert de organisatiegegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2023-03-16&g=2023-03-16), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2023-03-16&g=2023-03-16), aan de Minister.
 
-2. Het bevoegd gezag en het bestuur van een samenwerkingsverband als bedoeld in [artikel 18a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) leveren de financiële gegevens, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2022-04-01&g=2022-04-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2022-04-01&g=2022-04-01), aan de Minister.
+2. Het bevoegd gezag en het bestuur van een samenwerkingsverband als bedoeld in [artikel 18a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) leveren de financiële gegevens, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2023-03-16&g=2023-03-16), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=5&z=2023-03-16&g=2023-03-16), aan de Minister.
 
-3. Het bevoegd gezag levert de personele gegevens, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2022-04-01&g=2022-04-01), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2022-04-01&g=2022-04-01), aan de Minister.
-
-4. De gegevens die worden geleverd en verwerkt voor het lerarenregister en het registervoorportaal worden gedefinieerd en geordend volgens de voorschriften vermeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=7&z=2022-04-01&g=2022-04-01).
-
-5. De levering van gegevens voor het lerarenregister en het registervoorportaal en de wijze waarop een leraar die niet is benoemd of tewerkgesteld zonder benoeming ten behoeve van opname in het lerarenregister kan aantonen aan de bekwaamheidseisen te voldoen geschiedt overeenkomstig [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=7&z=2022-04-01&g=2022-04-01).
+3. Het bevoegd gezag levert de personele gegevens, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2023-03-16&g=2023-03-16), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2023-03-16&g=2023-03-16), aan de Minister.
 
 ##### Artikel 15. Bijzondere levering
 
-Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens, bedoeld in [artikel 14, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2022-04-01&g=2022-04-01), op de in dat lid genoemde wijze te leveren, levert de gegevens op de wijze die door de Minister wordt vastgesteld na overleg met het bevoegd gezag.
+Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens, bedoeld in [artikel 14, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2023-03-16&g=2023-03-16), op de in dat lid genoemde wijze te leveren, levert de gegevens op de wijze die door de Minister wordt vastgesteld na overleg met het bevoegd gezag.
 
 ##### Artikel 16. Tijdelijke afwijking levering gegevens
 
-1. Het burgerservicenummer, bedoeld in regel 50 van de tabel in paragraaf 2.3.5 van [bijlage 6,](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2022-04-01&g=2022-04-01) hoeft tot 1 januari 2025 niet verplicht te worden aangeleverd. Indien het bevoegd gezag nog niet beschikt over het burgerservicenummer van een personeelslid, dan worden de in de vorige volzin bedoelde gegevens verstrekt met een door het bevoegd gezag toegekend uniek nummer, zodat verschillende personeelsleden te onderscheiden en te volgen zijn.
+1. Het burgerservicenummer, bedoeld in regel 50 van de tabel in paragraaf 2.3.5 van [bijlage 6,](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2023-03-16&g=2023-03-16) hoeft tot 1 januari 2025 niet verplicht te worden aangeleverd. Indien het bevoegd gezag nog niet beschikt over het burgerservicenummer van een personeelslid, dan worden de in de vorige volzin bedoelde gegevens verstrekt met een door het bevoegd gezag toegekend uniek nummer, zodat verschillende personeelsleden te onderscheiden en te volgen zijn.
 
-2. In afwijking van paragraaf 3 van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2022-04-01&g=2022-04-01) levert het bevoegd gezag de gegevens, genoemd in de paragrafen 2.3.5 en 2.4.3 tot en met 2.4.5 over het kalenderjaar 2021 uiterlijk op 1 oktober 2022 aan bij DUO.
+2. In afwijking van paragraaf 3 van [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2023-03-16&g=2023-03-16) levert het bevoegd gezag de gegevens, genoemd in de paragrafen 2.3.5 en 2.4.3 tot en met 2.4.5 over het kalenderjaar 2021 uiterlijk op 1 oktober 2022 aan bij DUO.
 
 3. Dit artikel vervalt met ingang van 1 januari 2025.
 
@@ -724,7 +720,9 @@ De aanlevering van de beleidsgegevens geschiedt elektronisch.
 
 Voor technische specificaties wordt verwezen naar het Memo ‘Standaardlevering personeelsgegevens’ dat via de website van DUO (https://duo.nl/zakelijk/primair-onderwijs/personeel/levering-personeelsgegevens.jsp) beschikbaar is.
 
-## Bijlage 7. behorende bij [artikel 14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2022-04-01&g=2022-04-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 7. behorende bij [artikel 14, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2023-03-16&g=2023-03-16), van de Regeling informatievoorziening WPO/WEC
+
+Vervallen
 
 ### PvE gegevens lerarenregister en registervoorportaal
 
@@ -850,11 +848,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Vervallen
 
-## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=7&z=2022-04-01&g=2022-04-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 1. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=7&z=2023-03-16&g=2023-03-16), van de Regeling informatievoorziening WPO/WEC
 
 Vervallen
 
-## Bijlage 2. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=10&z=2022-04-01&g=2022-04-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 2. behorende bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=10&z=2023-03-16&g=2023-03-16), van de Regeling informatievoorziening WPO/WEC
 
 Daartoe zijn vanaf het moment van inschrijving in de leerlingenadministratie de volgende documenten opgenomen:
 
@@ -866,7 +864,7 @@ Indien van toepassing:
 
 ### 2. Verzuimregistratie
 
-## Bijlage 4. behorende bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2022-04-01&g=2022-04-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 4. behorende bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2023-03-16&g=2023-03-16), van de Regeling informatievoorziening WPO/WEC
 
 ## Bijlage 4. behorende bij [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2022-03-08&g=2022-03-08), van de Regeling informatievoorziening WPO/WEC
 
@@ -1042,7 +1040,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Het verzuim dient per dagdeel geregistreerd te worden en bevat van iedere leerling de volgende gegevens:
 
-## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=12&z=2022-04-01&g=2022-04-01) van de Regeling informatievoorziening WPO/WEC
+## Bijlage 3. behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=3&artikel=12&z=2023-03-16&g=2023-03-16) van de Regeling informatievoorziening WPO/WEC
 
 Vervallen
 
@@ -1052,13 +1050,13 @@ Onderscheiden worden de volgende gegevens:
 
 ### 2.4. Domeinen
 
-## Bijlage 5. behorende bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2022-04-01&g=2022-04-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 5. behorende bij [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2023-03-16&g=2023-03-16), van de Regeling informatievoorziening WPO/WEC
 
 ### PvE Financiële gegevens
 
 Het bevoegd gezag levert jaarlijks uiterlijk 30 juni over het voorafgaande kalenderjaar aan DUO:
 
-## Bijlage 6. behorende bij [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2022-04-01&g=2022-04-01), van de Regeling informatievoorziening WPO/WEC
+## Bijlage 6. behorende bij [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2023-03-16&g=2023-03-16), van de Regeling informatievoorziening WPO/WEC
 
 ### 1.2. Wettelijke basis voor de levering
 
@@ -1077,5 +1075,7 @@ In de te leveren gegevens zijn alle mutaties verwerkt die van toepassing zijn op
 ### 4.1.4. Veranderingen van betrekkingsomvang in verband met vervanging
 
 Omdat een persoon met hetzelfde bevoegde gezag meer dan één arbeidsrelatie kan hebben (gelijktijdig of volgtijdelijk), wordt er een volgnummer geleverd. Dit volgnummer is nodig om de gegevens uit verschillende leveringen steeds aan de juiste arbeidsrelatie te kunnen verbinden. Dit volgnummer dient over de leveringen heen dezelfde arbeidsrelatie met het bevoegde gezag te identificeren. Indien binnen een administratie per arbeidsrelatie een nieuw personeelsnummer wordt toegekend, mag dit personeelsnummer als volgnummer worden gebruikt. Het burgerservicenummer identificeert iedere persoon uniek binnen de administratie en de levering.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
