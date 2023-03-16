@@ -4,7 +4,7 @@ identifier: "BWBR0044328"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-13"
-last_updated: "2022-08-01"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044328"
 soort: "ministeriele-regeling"
@@ -44,23 +44,23 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **effectrapportage:** rapportage als bedoeld in de [artikelen 8.25 van de Wet voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.25), [162b, zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162b) en [8.3.2, zevende lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2), die jaarlijks wordt ingediend en ingericht conform [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043356&artikel=5.1) en [bijlage 5 van de Regeling regionale aanpak voortijdig schoolverlaten 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0043356&bijlage=5);
+- **effectrapportage:** rapportage als bedoeld in [artikel 8.25 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.25), [artikel 147, zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=147) en [artikel 8.3.2, zevende lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2), die jaarlijks wordt ingediend en ingericht conform [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043356&artikel=5.1) en [bijlage 5 van de Regeling regionale aanpak voortijdig schoolverlaten 2020-2024](https://wetten.overheid.nl/jci1.3:c:BWBR0043356&bijlage=5);
 
 - **Onze Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **RMC-contactgemeente:** contactgemeente van een RMC-regio als bedoeld in de [artikelen 8.23, eerste en tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.23), [162b, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162b) en [8.3.2, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2) en zoals opgenomen in [bijlage 2 van de Regeling regionale aanpak voortijdig schoolverlaten 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0043356&bijlage=2);
+- **RMC-contactgemeente:** contactgemeente van een RMC-regio als bedoeld in de [artikelen 8.23, eerste en tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.23), [147, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=147) en [8.3.2, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2) en zoals opgenomen in [bijlage 2 van de Regeling regionale aanpak voortijdig schoolverlaten 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0043356&bijlage=2);
 
-- **RMC-regio:** regio als bedoeld in de artikelen [artikel 8.22, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.22), [162b, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162b) en [8.3.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2) en zoals vastgesteld in [bijlage 2 bij de Regeling regionale aanpak voortijdig schoolverlaten 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0043356&bijlage=2);
+- **RMC-regio:** regio als bedoeld in de artikelen [artikel 8.22, derde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.22), [147, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=147) en [8.3.2, tweede lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2) en zoals vastgesteld in [bijlage 2 bij de Regeling regionale aanpak voortijdig schoolverlaten 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0043356&bijlage=2);
 
 - **studiejaar:** tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daaropvolgende jaar.
 
 ##### Artikel 2. Doel specifieke uitkering
 
-Onze Minister verstrekt in 2020 een specifieke uitkering aan de RMC-contactgemeenten voor het in de RMC-regio’s uitvoeren van de taken, bedoeld in de [artikelen 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.22) en [8.23 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.23), [162b, eerste tot en met derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162b) en [8.3.2, eerste tot en met derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2).
+Onze Minister verstrekt in 2020 een specifieke uitkering aan de RMC-contactgemeenten voor het in de RMC-regio’s uitvoeren van de taken, bedoeld in de [artikelen 8.22](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.22) en [8.23 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.23), [147, eerste tot en met derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=147) en [8.3.2, eerste tot en met derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.3.2).
 
 ##### Artikel 3. Hoogte specifieke uitkering
 
-1. Voor de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=2&z=2022-08-01&g=2022-08-01), is een bedrag van ten hoogste € 8.000.000,– beschikbaar.
+1. Voor de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=2&z=2023-03-16&g=2023-03-16), is een bedrag van ten hoogste € 8.000.000,– beschikbaar.
 
 2. Het bedrag, bedoeld in het eerste lid, wordt over de RMC-contactgemeenten verdeeld conform de bijlage bij deze regeling.
 
@@ -72,7 +72,7 @@ De specifieke uitkering wordt behoudens de eventueel uit de rijksbegroting voort
 
 1. De specifieke uitkering dient op uiterlijk 31 december 2024 te zijn besteed.
 
-2. Onze minister vordert bedragen die blijkens de verantwoordingsinformatie, bedoeld in [artikel 6 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=6&z=2022-08-01&g=2022-08-01), alsdan niet zijn besteed aan het doel waarvoor zij waren bestemd, terug.
+2. Onze minister vordert bedragen die blijkens de verantwoordingsinformatie, bedoeld in [artikel 6 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044328&artikel=6&z=2023-03-16&g=2023-03-16), alsdan niet zijn besteed aan het doel waarvoor zij waren bestemd, terug.
 
 ##### Artikel 6. Financiële en beleidsmatige verantwoording
 
