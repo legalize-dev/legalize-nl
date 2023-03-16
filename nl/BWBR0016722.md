@@ -4,7 +4,7 @@ identifier: "BWBR0016722"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2019-11-20"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016722"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met de artikelen 2, 3, eerste lid, 4, 7 en 8, eerste lid, van Verordening (EG) nr. 1210/2003 van de Raad van de Europese Unie van 7 juli 2003 (PbEG L 169) betreffende bepaalde specifieke restricties op de economische en financiële betrekkingen met Irak en tot intrekking van Verordening (EG) nr. 2465/96.
+1. Het is verboden te handelen in strijd met de artikelen 2, 3, eerste lid, 4, eerste, tweede en derde lid, 7 en 8, eerste lid, van Verordening (EG) nr. 1210/2003 van de Raad van de Europese Unie van 7 juli 2003 (PbEG L 169) betreffende bepaalde specifieke restricties op de economische en financiële betrekkingen met Irak en tot intrekking van Verordening (EG) nr. 2465/96.
 
-2. Het verbod te handelen in strijd met artikel 3, eerste lid, van Verordening (EG) nr. 1210/2003 is niet van toepassing in geval artikel 3, tweede lid, van de verordening van toepassing is. Het verbod te handelen in strijd met artikel 4 van de verordening is niet van toepassing in geval artikel 5 of artikel 6 van de verordening van toepassing is.
+2. Het verbod te handelen in strijd met artikel 3, eerste lid, van [Verordening (EG) nr. 1210/2003](32003R1210) is niet van toepassing in geval artikel 3, tweede lid, van de verordening van toepassing is. Het verbod te handelen in strijd met artikel 4, eerste, tweede of derde lid van de verordening is niet van toepassing in geval artikel 4, vierde lid, artikel 5 of artikel 6 van de verordening van toepassing is.
 
 ##### Artikel 2
 
