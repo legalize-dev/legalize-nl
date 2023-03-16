@@ -4,7 +4,7 @@ identifier: "BWBR0038374"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2022-08-01"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038374"
 soort: "ministeriele-regeling"
@@ -44,15 +44,15 @@ Besluit:
 
 ##### Artikel 1. Berekening en correctie indicatoren; normering resultaten
 
-De berekening van de in [artikel 2.52, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.52) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 2.94, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2022-08-01&g=2022-08-01).
+De berekening van de in [artikel 2.52, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.52) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 2.94, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2023-03-16&g=2023-03-16).
 
 ##### Artikel 2. Wijze totstandkoming oordeel leerresultaten
 
-Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2022-08-01&g=2022-08-01).
+Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2023-03-16&g=2023-03-16).
 
 ##### Artikel 3. Benodigde gegevens; meting onmogelijk of gegevens incompleet
 
-De aard en de aantallen benodigde gegevens, bedoeld in [artikel 2.53, tweede lid, onderdeel a, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.53), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2022-08-01&g=2022-08-01).
+De aard en de aantallen benodigde gegevens, bedoeld in [artikel 2.53, tweede lid, onderdeel a, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.53), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2023-03-16&g=2023-03-16).
 
 ##### Artikel 4. Intrekking
 
@@ -222,7 +222,7 @@ Het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR004578
 
 ### Voorstel inspecteur-generaal van het onderwijs
 
-De inspecteur-generaal van het onderwijs heeft in overeenstemming met [artikel 2.54 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.54) een voorstel gedaan om de in [artikel 37 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37) genoemde indicatoren op een andere wijze te berekenen. De voorstellen worden in deze regeling vastgesteld. Gezien recente ontwikkelingen, een eigen analyse en signalen van organisaties in het onderwijs wordt in de onderhavige regeling voortaan uitgegaan van absolute normen. Een absolute norm betekent dat een vaste score als cesuur wordt genomen.
+De inspecteur-generaal van het onderwijs heeft in overeenstemming met [artikel 2.54 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.54) een voorstel gedaan om de in [artikel 2.52 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.52)genoemde indicatoren op een andere wijze te berekenen. De voorstellen worden in deze regeling vastgesteld. Gezien recente ontwikkelingen, een eigen analyse en signalen van organisaties in het onderwijs wordt in de onderhavige regeling voortaan uitgegaan van absolute normen. Een absolute norm betekent dat een vaste score als cesuur wordt genomen.
 
 ### Absolute norm
 
