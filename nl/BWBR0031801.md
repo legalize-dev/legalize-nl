@@ -4,7 +4,7 @@ identifier: "BWBR0031801"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-03-16"
-last_updated: "2022-08-01"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031801"
 soort: "ministeriele-regeling-BES"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), of in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
-- **onderwijsinstelling:** een bekostigde school of een expertisecentrum onderwijszorg als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) of in [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), dan wel een instelling of een expertisecentrum onderwijszorg als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
+- **onderwijsinstelling:** een bekostigde school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), gelegen in het openbaar lichaam Bonaire, Sint Eustatius of Saba, een instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1), dan wel het expertisecentrum onderwijszorg, bedoeld in [artikel 28, eerste lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 11.18, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.18) of [artikel 3.4, eerste lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4);
 
 - **jaarrekening:** het onderdeel van het jaarverslag, bestaande uit de balans, de staat van baten en lasten, het kasstroomoverzicht, de toelichting op de balans en de staat van baten en lasten – waaronder het overzicht: ‘niet uit de balans blijkende zaken’ – en de overige gegevens;
 
@@ -74,7 +74,7 @@ De jaarverslaggeving, inclusief de jaarrekening, wordt ingericht en ingediend ov
 
 7. Ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, blijft het model van de bijlage, onder A, beperkt tot die posten waarvoor die toerekening wel mogelijk is.
 
-8. Aan het jaarverslag wordt een onderdeel toegevoegd waarin het bevoegd gezag met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&bijlage=2&z=2022-08-01&g=2022-08-01) bij deze regeling opgenomen set gegevens en de daarbij behorende toelichting de resultaten van het financiële beleid over het verslagjaar aangeeft. Daarnaast rapporteert het bevoegd gezag in dit onderdeel in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage omvat ook het risicomanagement en het interne toezicht.
+8. Aan het jaarverslag wordt een onderdeel toegevoegd waarin het bevoegd gezag met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&bijlage=2&z=2023-03-16&g=2023-03-16) bij deze regeling opgenomen set gegevens en de daarbij behorende toelichting de resultaten van het financiële beleid over het verslagjaar aangeeft. Daarnaast rapporteert het bevoegd gezag in dit onderdeel in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage omvat ook het risicomanagement en het interne toezicht.
 
 ##### Artikel 4. Bestuursverslag
 
@@ -200,7 +200,7 @@ Deze regeling is mede gebaseerd op [artikel 6.19, zesde lid, van het Uitvoerings
 
 ## Bijlage 2. behorende bij de Regeling jaarverslaggeving onderwijs BES
 
-### Bijlage bij [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&artikel=3&z=2022-08-01&g=2022-08-01)
+### Bijlage bij [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&artikel=3&z=2023-03-16&g=2023-03-16)
 
 Set gegevens voor de continuïteitsparagraaf, voor zover van toepassing
 
