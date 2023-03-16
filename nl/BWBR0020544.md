@@ -4,7 +4,7 @@ identifier: "BWBR0020544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-16"
-last_updated: "2022-08-01"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020544"
 soort: "ministeriele-regeling"
@@ -48,9 +48,9 @@ Treedt volgens Stcrt. 2007/1 in werking op het tijdstip waarop het Wijzigingsbes
 
 In deze regeling wordt verstaan onder:
 
-- **collectieve deel:** uitkeringskosten als bedoeld [artikel 6.5, eerste lid, van het Uitvoeringsbesluit bekostiging WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.5);
+- **collectieve deel:** uitkeringskosten als bedoeld in [artikel 6.4, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.4);
 
-- **individuele deel:** uitkeringskosten als bedoeld in [artikel 6.5, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.5)’.
+- **individuele deel:** uitkeringskosten als bedoeld in [artikel 6.4, tweede lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.4).
 
 ##### Artikel 2. Percentage collectieve deel uitkeringskosten
 
