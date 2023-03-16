@@ -4,7 +4,7 @@ identifier: "BWBR0046950"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-16"
-last_updated: "2022-08-01"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046950"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluiten:
 
 - **eindexamen:** eindexamen als bedoeld in [artikel 2.51 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.51);
 
-- **extra herkansing:** tweede herkansing als bedoeld in [artikel 60f van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=60f);
+- **extra herkansing:** tweede herkansing als bedoeld in [artikel 60f van het Eindexamenbesluit VO](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=60f) zoals dat luidde op 31 juli 2022;
 
 - **kandidaat:**
 
@@ -74,11 +74,11 @@ Besluiten:
 
 - **RIO:** Registratie Instellingen en Opleidingen.
 
-- **school:** uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1) of [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- **school:** uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- **vavo:** opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 1.1.1 onder n1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) en [artikel 7.3.1 eerste lid onder a van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1);
+- **vavo:** opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1);
 
-- **vavo-student:** vavo-student als bedoeld in [artikel 1.1.1 onder n4 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- **vavo-student:** vavo-student als bedoeld in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
 - **WEB:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
@@ -104,9 +104,9 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 1. In 2022 ontvangt het bevoegd gezag van een school of instelling in het kader van deze regeling:
 
-- a. voor het doel, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046950&artikel=3&z=2022-08-01&g=2022-08-01), een bedrag van € 91 per kandidaat;
+- a. voor het doel, bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046950&artikel=3&z=2023-03-16&g=2023-03-16), een bedrag van € 91 per kandidaat;
 
-- b. voor het doel, bedoeld in [artikel 3, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046950&artikel=3&z=2022-08-01&g=2022-08-01), een bedrag van € 173 per kandidaat.
+- b. voor het doel, bedoeld in [artikel 3, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046950&artikel=3&z=2023-03-16&g=2023-03-16), een bedrag van € 173 per kandidaat.
 
 2. De bedragen die het bevoegd gezag ontvangt worden rekenkundig afgerond op hele euro’s.
 
@@ -144,7 +144,7 @@ Deze regeling is mede gebaseerd op [artikel 5.9 WVO 2020](https://wetten.overhei
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046950&artikel=7&z=2022-08-01&g=2022-08-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046950&artikel=8&z=2022-08-01&g=2022-08-01) van deze regeling treden in werking met ingang van 1 augustus 2022.
+2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046950&artikel=7&z=2023-03-16&g=2023-03-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046950&artikel=8&z=2023-03-16&g=2023-03-16) van deze regeling treden in werking met ingang van 1 augustus 2022.
 
 3. Deze regeling vervalt met ingang van 1 januari 2027.
 
