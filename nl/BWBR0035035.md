@@ -4,7 +4,7 @@ identifier: "BWBR0035035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-16"
-last_updated: "2022-10-28"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035035"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 2, 5, eerste en tweede lid, 11, eerste lid, en 12 van [Verordening 224/2014](32014R0224) van de Raad van de Europese Unie van 10 maart 2014 betreffende beperkende maatregelen ten aanzien van de Centraal-Afrikaanse Republiek (Pb 2014, L70).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 3, 4, 6, 7, 8, 9 of 10 van [Verordening 224/2014](32014R0224) van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 3, 4, 5, vierde lid, 6, 7, 8, 9 of 10 van [Verordening 224/2014](32014R0224) van toepassing is.
 
 ##### Artikel 2
 
