@@ -4,7 +4,7 @@ identifier: "BWBR0021556"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2021-09-07"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021556"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met de artikelen 2 en 5 van Verordening (EG) nr. 305/2006 van de Raad van de Europese Unie van 21 februari 2006 tot vaststelling van specifieke beperkende maatregelen tegen bepaalde personen die ervan worden verdacht betrokken te zijn bij de moord op de voormalige Libanese premier Rafiq Hariri.
+1. Het is verboden te handelen in strijd met de artikelen 2, eerste, tweede en derde lid, en 5 van Verordening (EG) nr. 305/2006 van de Raad van de Europese Unie van 21 februari 2006 tot vaststelling van specifieke beperkende maatregelen tegen bepaalde personen die ervan worden verdacht betrokken te zijn bij de moord op de voormalige Libanese premier Rafiq Hariri.
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 3, eerste of tweede lid, of 4 van Verordening (EG) nr. 305/2006 van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 2, vierde lid, artikel 3, eerste of tweede lid, of artikel 4 van [Verordening (EG) nr. 305/2006](32006R0305) van toepassing is.
 
 ##### Artikel 2
 
