@@ -4,7 +4,7 @@ identifier: "BWBR0047964"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-03-16"
-last_updated: "2023-01-01"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047964"
 soort: "zbo"
@@ -57,7 +57,7 @@ Bij de toepassing van de bevoegdheden volgend uit deze beleidsregels wordt voorl
 
 ##### Artikel 2. Herzieningstermijn bij ernstige tekortkomingen of vertragingen
 
-Het CAK gaat over tot een herzieningstermijn ter hoogte van 12 maanden zoals bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=1&z=2023-03-16&g=2023-01-01), indien de naheffing van de eigen bijdrage van meer dan 12 maanden in het verleden, naar het oordeel van het CAK, het gevolg is van:
+Het CAK gaat over tot een herzieningstermijn ter hoogte van 12 maanden zoals bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=1&z=2023-03-16&g=2023-03-16), indien de naheffing van de eigen bijdrage van meer dan 12 maanden in het verleden, naar het oordeel van het CAK, het gevolg is van:
 
 - a. een wijziging in zorggegevens die niet aan de verzekerde of cliënt te wijten is; of
 
@@ -69,7 +69,7 @@ Het CAK gaat over tot een herzieningstermijn ter hoogte van 12 maanden zoals bed
 
 ##### Artikel 3. Bijzondere of verzwarende omstandigheden die kunnen leiden tot verdere vermindering van de termijn of niet verschuldigd zijn van de eigen bijdrage
 
-Indien bij de vaststelling of herziening van de eigen bijdrage sprake is van de in [artikel 2, onderdelen a–d](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=2&z=2023-03-16&g=2023-01-01) genoemde omstandigheden, dan is een verdere beperking van de termijn van 12 maanden of niet verschuldigd zijn van de eigen bijdrage over het verleden mogelijk indien daarnaast ook sprake is van bijzondere of verzwarende omstandigheden. Hiertoe rekent het CAK in ieder geval de situatie waarin de verzekerde of cliënt volgens het CAK:
+Indien bij de vaststelling of herziening van de eigen bijdrage sprake is van de in [artikel 2, onderdelen a–d](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=2&z=2023-03-16&g=2023-03-16) genoemde omstandigheden, dan is een verdere beperking van de termijn van 12 maanden of niet verschuldigd zijn van de eigen bijdrage over het verleden mogelijk indien daarnaast ook sprake is van bijzondere of verzwarende omstandigheden. Hiertoe rekent het CAK in ieder geval de situatie waarin de verzekerde of cliënt volgens het CAK:
 
 - a. aantoonbaar in betalingsonmacht verkeert; of
 
@@ -81,7 +81,7 @@ Indien bij de vaststelling of herziening van de eigen bijdrage sprake is van de 
 
 ##### Artikel 4. Verruimen restitutietermijn in verband met ernstige tekortkomingen of vertragingen
 
-1. Het CAK gaat over tot een herzieningstermijn van meer dan 36 maanden in geval van een restitutie overeenkomstig [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=1&z=2023-03-16&g=2023-01-01), als de herziening van de eigen bijdrage het gevolg is van een ernstige tekortkoming of vertraging, zoals onder meer benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=2&z=2023-03-16&g=2023-01-01), welke niet verwijtbaar is aan de verzekerde of cliënt, waarbij de verwijtbaarheid eveneens niet aanwezig wordt geacht in de volgende gevallen:
+1. Het CAK gaat over tot een herzieningstermijn van meer dan 36 maanden in geval van een restitutie overeenkomstig [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=1&z=2023-03-16&g=2023-03-16), als de herziening van de eigen bijdrage het gevolg is van een ernstige tekortkoming of vertraging, zoals onder meer benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=2&z=2023-03-16&g=2023-03-16), welke niet verwijtbaar is aan de verzekerde of cliënt, waarbij de verwijtbaarheid eveneens niet aanwezig wordt geacht in de volgende gevallen:
 
 - a. De verzekerde of cliënt heeft met succes rechtsmiddelen aangewend om tot correctie te komen van de gegevens die noodzakelijk zijn voor het herzien van de eigen bijdrage;
 
