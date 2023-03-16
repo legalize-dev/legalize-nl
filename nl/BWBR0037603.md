@@ -4,7 +4,7 @@ identifier: "BWBR0037603"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-04-04"
-last_updated: "2022-10-01"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037603"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **accountant:** accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) onderscheidenlijk de deskundige, bedoeld in [artikel 121, zesde lid, van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=121),
 
-- **activiteitenplan:** activiteitenplan als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.4&z=2022-10-01&g=2022-10-01),
+- **activiteitenplan:** activiteitenplan als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.4&z=2023-03-16&g=2023-03-16),
 
 - **activiteitenverslag:** verslag waarvan de inrichting voor zover van toepassing overeenkomt met de inrichting van het activiteitenplan en dat:
 
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - **bijdragen van derden:** bijdragen die de subsidieontvanger van een ander dan de minister voor de te subsidiëren of gesubsidieerde activiteit ontvangt en die de subsidieontvanger aanwendt voor de te subsidiëren of gesubsidieerde activiteit,
 
-- **egalisatiereserve:** egalisatiereserve als bedoeld in [paragraaf 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=8&paragraaf=8.5&z=2022-10-01&g=2022-10-01),
+- **egalisatiereserve:** egalisatiereserve als bedoeld in [paragraaf 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=8&paragraaf=8.5&z=2023-03-16&g=2023-03-16),
 
 - **eigen bijdrage:** bijdrage van de subsidieontvanger zelf voor de te subsidiëren of gesubsidieerde activiteit,
 
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 - **kosten:** kosten van de subsidieontvanger voor zover die samenhangen met de te subsidiëren of gesubsidieerde activiteit,
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap onderscheidenlijk Minister van Sociale Zaken en Werkgelegenheid onderscheidenlijk Minister van Volksgezondheid, Welzijn en Sport, ieder voor zover het betreft het beleidsterrein waarvoor hij verantwoordelijk is, met dien verstande dat voor de toepassing van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=9&z=2022-10-01&g=2022-10-01) onder minister wordt verstaan: Minister van Onderwijs, Cultuur en Wetenschap, en dat voor de toepassing van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=10&z=2022-10-01&g=2022-10-01) onder minister wordt verstaan: Minister van Volksgezondheid, Welzijn en Sport,
+- **minister:** Minister van Onderwijs, Cultuur en Wetenschap onderscheidenlijk Minister van Sociale Zaken en Werkgelegenheid onderscheidenlijk Minister van Volksgezondheid, Welzijn en Sport, ieder voor zover het betreft het beleidsterrein waarvoor hij verantwoordelijk is, met dien verstande dat voor de toepassing van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=9&z=2023-03-16&g=2023-03-16) onder minister wordt verstaan: Minister van Onderwijs, Cultuur en Wetenschap, en dat voor de toepassing van [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=10&z=2023-03-16&g=2023-03-16) onder minister wordt verstaan: Minister van Volksgezondheid, Welzijn en Sport,
 
 - **opbrengsten:** eigen bijdrage en bijdragen van derden, voor zover die samenhangen met de te subsidiëren of gesubsidieerde activiteiten alsmede de aangevraagde of verleende subsidie,
 
@@ -142,7 +142,7 @@ De minister verstrekt uitsluitend:
 
 ##### Artikel 1.6. Afwijking bij beschikking
 
-In bijzondere gevallen kan bij beschikking worden afgeweken van de bedragen en de wijze van verstrekking, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01).
+In bijzondere gevallen kan bij beschikking worden afgeweken van de bedragen en de wijze van verstrekking, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16).
 
 ##### Artikel 1.7. Kostenberekening
 
@@ -252,7 +252,7 @@ Op verzoek van de minister legt de aanvrager een volledig en recent overzicht va
 
 ##### Artikel 4.2. Verlening
 
-1. Het besluit tot subsidieverlening vermeldt in ieder geval de activiteiten of de prestatie-eenheden waarvoor subsidie wordt verleend, het subsidiebedrag, de wijze van verantwoording, de periode waarvoor subsidie wordt verleend, de wijze waarop kan worden aangetoond dat de activiteiten zijn verricht of de prestatie-eenheden zijn gerealiseerd en indien sprake is van een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), de datum waarop de activiteiten uiterlijk moeten zijn afgerond.
+1. Het besluit tot subsidieverlening vermeldt in ieder geval de activiteiten of de prestatie-eenheden waarvoor subsidie wordt verleend, het subsidiebedrag, de wijze van verantwoording, de periode waarvoor subsidie wordt verleend, de wijze waarop kan worden aangetoond dat de activiteiten zijn verricht of de prestatie-eenheden zijn gerealiseerd en indien sprake is van een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), de datum waarop de activiteiten uiterlijk moeten zijn afgerond.
 
 2. Indien in het besluit tot verlening de begrote kosten van de te subsidiëren activiteiten zijn vermeld, zijn deze gelijk aan de som van de in dat besluit vermelde bijdragen van derden, begrote eigen bijdrage en de subsidie.
 
@@ -274,11 +274,11 @@ De subsidieontvanger zorgt ervoor dat:
 
 ##### Artikel 5.2. Administratieplicht
 
-1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdelen b, c onder 2°, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), voert een administratie. De administratie is zodanig ingericht dat daaruit te allen tijde:
+1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdelen b, c onder 2°, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), voert een administratie. De administratie is zodanig ingericht dat daaruit te allen tijde:
 
-- a. indien een subsidie als bedoeld in [artikel 1.5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), is verleend: de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen alsmede de gerealiseerde prestatie-eenheden kunnen worden nagegaan, of
+- a. indien een subsidie als bedoeld in [artikel 1.5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), is verleend: de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen alsmede de gerealiseerde prestatie-eenheden kunnen worden nagegaan, of
 
-- b. indien een subsidie als bedoeld in [artikel 1.5, onderdeel c, onder 2°, of d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), is verleend: de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen, betalingen en ontvangsten alsmede kosten en opbrengsten kunnen worden nagegaan.
+- b. indien een subsidie als bedoeld in [artikel 1.5, onderdeel c, onder 2°, of d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), is verleend: de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen, betalingen en ontvangsten alsmede kosten en opbrengsten kunnen worden nagegaan.
 
 2. De administratie wordt op overzichtelijke, controleerbare en doelmatige wijze ingericht.
 
@@ -298,7 +298,7 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 ##### Artikel 5.5. Tussentijdse rapportage
 
-1. Indien een subsidie als bedoeld in [artikel 1.5, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), voor meer dan 12 maanden wordt verleend, kan de minister verlangen dat de subsidieontvanger eenmaal per 12 maanden verslag doet van de voortgang van de gesubsidieerde activiteiten.
+1. Indien een subsidie als bedoeld in [artikel 1.5, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), voor meer dan 12 maanden wordt verleend, kan de minister verlangen dat de subsidieontvanger eenmaal per 12 maanden verslag doet van de voortgang van de gesubsidieerde activiteiten.
 
 2. Het besluit tot verlening van de subsidie vermeldt op welke tijdstippen verslag wordt gedaan en waaruit het verslag bestaat.
 
@@ -360,9 +360,9 @@ Indien de activiteiten waarvoor de subsidie is verstrekt, geheel of gedeeltelijk
 
 3. Bij beschikking kan van het tweede lid worden afgeweken.
 
-4. De minister betaalt het bedrag van een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), in een keer.
+4. De minister betaalt het bedrag van een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), in een keer.
 
-5. Indien de minister een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), verleent, verleent hij daarbij een voorschot van 100%.
+5. Indien de minister een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), verleent, verleent hij daarbij een voorschot van 100%.
 
 ### Hoofdstuk 6. Bevoorschotting en betaling
 
@@ -374,13 +374,13 @@ Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister v
 
 ##### Artikel 7.2. Aanvraagtermijn subsidievaststelling
 
-1. Een aanvraag tot vaststelling van een subsidie als bedoeld in [artikel 1.5, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01) wordt ingediend:
+1. Een aanvraag tot vaststelling van een subsidie als bedoeld in [artikel 1.5, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16) wordt ingediend:
 
 - a. binnen 22 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht, of
 
 - b. binnen 22 weken na afloop van het boekjaar waarvoor de subsidie is verleend.
 
-2. Een aanvraag voor een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), wordt ingediend binnen 22 weken nadat de activiteiten waarvoor subsidie wordt gevraagd, zijn verricht.
+2. Een aanvraag voor een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), wordt ingediend binnen 22 weken nadat de activiteiten waarvoor subsidie wordt gevraagd, zijn verricht.
 
 3. De minister kan vrijstelling of ontheffing verlenen van de termijnen, bedoeld in het eerste en tweede lid.
 
@@ -388,17 +388,17 @@ Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister v
 
 ##### Artikel 7.3. Subsidies tot € 25.000 die direct worden vastgesteld
 
-1. Subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), wordt niet verstrekt voorafgaand aan de periode waarvoor de subsidie wordt aangevraagd.
+1. Subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), wordt niet verstrekt voorafgaand aan de periode waarvoor de subsidie wordt aangevraagd.
 
-2. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), toont aan de hand van een activiteitenverslag en een opgave van het totaal van de kosten aan dat de activiteiten waarvoor de subsidie wordt aangevraagd, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen, tenzij de minister daaraan geen behoefte heeft.
+2. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), toont aan de hand van een activiteitenverslag en een opgave van het totaal van de kosten aan dat de activiteiten waarvoor de subsidie wordt aangevraagd, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen, tenzij de minister daaraan geen behoefte heeft.
 
-3. De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.6&z=2022-10-01&g=2022-10-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.7&z=2022-10-01&g=2022-10-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.6&z=2023-03-16&g=2023-03-16) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.7&z=2023-03-16&g=2023-03-16) zijn van overeenkomstige toepassing.
 
-4. De minister besluit binnen 13 weken op een aanvraag tot vaststelling. [Artikel 4.1, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=4&artikel=4.1&z=2022-10-01&g=2022-10-01), zijn van overeenkomstige toepassing.
+4. De minister besluit binnen 13 weken op een aanvraag tot vaststelling. [Artikel 4.1, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=4&artikel=4.1&z=2023-03-16&g=2023-03-16), zijn van overeenkomstige toepassing.
 
 ##### Artikel 7.4. Subsidies tot € 25.000 die ambtshalve worden vastgesteld
 
-1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), toont op verzoek van de minister op de in de beschikking aangegeven wijze aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
+1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), toont op verzoek van de minister op de in de beschikking aangegeven wijze aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
 
 2. De minister neemt binnen 22 weken na afloop van de datum waarop de activiteiten waarvoor de subsidie wordt verleend, zijn verricht, ambtshalve een besluit over de vaststelling van de subsidie.
 
@@ -406,7 +406,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister v
 
 ##### Artikel 7.5. Subsidies vanaf € 25.000 voor meetbare prestatie-eenheden
 
-1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), toont op de bij het besluit tot verlening van de subsidie bepaalde wijze aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
+1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), toont op de bij het besluit tot verlening van de subsidie bepaalde wijze aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
 
 2. Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger tevens verantwoording af door het overleggen van een assurancerapport.
 
@@ -420,7 +420,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister v
 
 ##### Artikel 7.6. Subsidies van € 25.000 tot € 125.000 met verantwoording over activiteiten
 
-1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), toont aan de hand van een activiteitenverslag aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen, tenzij de minister daaraan geen behoefte heeft.
+1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel c, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), toont aan de hand van een activiteitenverslag aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen, tenzij de minister daaraan geen behoefte heeft.
 
 2. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag waarvan de hoogte door de minister bij de verlening is genoemd.
 
@@ -428,7 +428,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister v
 
 ##### Artikel 7.7. Subsidies van € 25.000 tot € 125.000 met verantwoording in verklaring inzake werkelijke kosten en opbrengsten
 
-1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), toont aan de hand van een verklaring inzake werkelijke kosten en opbrengsten aan dat de activiteiten zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
+1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), toont aan de hand van een verklaring inzake werkelijke kosten en opbrengsten aan dat de activiteiten zijn verricht en dat is voldaan aan de aan de verleende subsidie verbonden verplichtingen.
 
 2. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag dat bestaat uit de totale gerealiseerde kosten verminderd met de totale gerealiseerde bijdragen van derden en de begrote eigen bijdrage of de gerealiseerde eigen bijdrage indien deze hoger is dan de begrote eigen bijdrage tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
@@ -436,7 +436,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister v
 
 ##### Artikel 7.8. Subsidies vanaf € 125.000, anders dan voor meetbare prestatie-eenheden
 
-1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), legt rekening en verantwoording af aan de hand van een activiteitenverslag en een financieel verslag, tenzij dit voor de berekening van het bedrag van de subsidie niet van belang is.
+1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), legt rekening en verantwoording af aan de hand van een activiteitenverslag en een financieel verslag, tenzij dit voor de berekening van het bedrag van de subsidie niet van belang is.
 
 2. De minister kan de subsidieontvanger verplichten om het financieel verslag vergezeld te doen gaan van een rapport van feitelijke bevindingen omtrent de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger.
 
@@ -460,7 +460,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister v
 
 ##### Artikel 8.2. Aanvraag subsidieverlening
 
-1. In afwijking van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.2&z=2022-10-01&g=2022-10-01), wordt een aanvraag tot verlening van een instellingssubsidie ingediend uiterlijk 13 weken voor de aanvang van het boekjaar waarvoor de instellingssubsidie wordt aangevraagd.
+1. In afwijking van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.2&z=2023-03-16&g=2023-03-16), wordt een aanvraag tot verlening van een instellingssubsidie ingediend uiterlijk 13 weken voor de aanvang van het boekjaar waarvoor de instellingssubsidie wordt aangevraagd.
 
 2. De minister kan vrijstelling of ontheffing verlenen voor de termijn, bedoeld in het eerste lid.
 
@@ -480,7 +480,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister v
 
 ##### Artikel 8.4. Bevoorschotting en betaling
 
-1. In afwijking van [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=6&artikel=6.1&z=2022-10-01&g=2022-10-01) verleent de minister bij het besluit tot subsidieverlening ambtshalve de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende instellingssubsidie.
+1. In afwijking van [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=6&artikel=6.1&z=2023-03-16&g=2023-03-16) verleent de minister bij het besluit tot subsidieverlening ambtshalve de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende instellingssubsidie.
 
 2. De voorschotten worden betaald overeenkomstig de voorschotverlening, bedoeld in het eerste lid.
 
@@ -500,11 +500,11 @@ Voor een aanvraag tot vaststelling van een subsidie wordt een door de minister v
 
 ##### Artikel 8.6. Vaststelling
 
-Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie in afwijking van [artikel 7.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7&paragraaf=7.2&artikel=7.8&z=2022-10-01&g=2022-10-01), vastgesteld op het bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding van de maximaal toegestane toevoeging aan de egalisatiereserve.
+Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie in afwijking van [artikel 7.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7&paragraaf=7.2&artikel=7.8&z=2023-03-16&g=2023-03-16), vastgesteld op het bedrag waarvan de hoogte bij de verlening is genoemd, verminderd met de eventuele overschrijding van de maximaal toegestane toevoeging aan de egalisatiereserve.
 
 ##### Artikel 8.7. Egalisatiereserve
 
-1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01), voor zover het een instellingssubsidie betreft, vormt een egalisatiereserve.
+1. De ontvanger van een subsidie als bedoeld in [artikel 1.5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16), voor zover het een instellingssubsidie betreft, vormt een egalisatiereserve.
 
 2. De egalisatiereserve bedraagt ten minste € 0 en ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de instellingssubsidie dan wel ten hoogste een lager percentage dat door de minister bij de beschikking tot verlening is bepaald.
 
@@ -534,7 +534,7 @@ Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en 
 
 ##### Artikel 9.1. Bekostigde onderwijsinstellingen
 
-1. Op bekostigde onderwijsinstellingen waarop de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) onderscheidenlijk de [Regeling jaarverslaglegging onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801) van toepassing is, zijn de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7&z=2022-10-01&g=2022-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=8&z=2022-10-01&g=2022-10-01) niet van toepassing.
+1. Op bekostigde onderwijsinstellingen waarop de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) onderscheidenlijk de [Regeling jaarverslaglegging onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801) van toepassing is, zijn de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7&z=2023-03-16&g=2023-03-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=8&z=2023-03-16&g=2023-03-16) niet van toepassing.
 
 2. De verantwoording van subsidie door bekostigde onderwijsinstellingen waarop de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) onderscheidenlijk de [Regeling jaarverslaglegging onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801) van toepassing is, geschiedt in de jaarverslaggeving overeenkomstig de voorschriften, bedoeld in de Regeling jaarverslaggeving onderwijs onderscheidenlijk de Regeling jaarverslaglegging onderwijs BES.
 
@@ -546,7 +546,7 @@ Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en 
 
 - c. subsidie die ook kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-4. In afwijking van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2022-10-01&g=2022-10-01) wordt subsidie aan bekostigde onderwijsinstellingen op de volgende wijze verstrekt:
+4. In afwijking van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.5&z=2023-03-16&g=2023-03-16) wordt subsidie aan bekostigde onderwijsinstellingen op de volgende wijze verstrekt:
 
 - a. subsidie als bedoeld in het derde lid, onderdeel a, wordt direct vastgesteld,
 
@@ -654,9 +654,9 @@ Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en 
 
 - mm. [artikel 7.7, tweede lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7);
 
-- nn. [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=29) en [30 van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=30); en
+- nn. de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=29) en [30 van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=30); en
 
-- oo. [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=31) en [32 van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=32).
+- oo. de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=31) en [32 van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=32).
 
 2. Deze regeling is van overeenkomstige toepassing op subsidies die worden verstrekt op grond van:
 
@@ -718,9 +718,9 @@ Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en 
 
 5. Wijzigt de Subsidieregeling pilot tweetalig primair onderwijs.
 
-6. Op subsidies die worden verstrekt door de Minister van Onderwijs, Cultuur en Wetenschap, zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.2&z=2022-10-01&g=2022-10-01), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=4&artikel=4.3&z=2022-10-01&g=2022-10-01), niet van toepassing tot 1 januari 2017.
+6. Op subsidies die worden verstrekt door de Minister van Onderwijs, Cultuur en Wetenschap, zijn de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.2&z=2023-03-16&g=2023-03-16), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=4&artikel=4.3&z=2023-03-16&g=2023-03-16), niet van toepassing tot 1 januari 2017.
 
-7. Op regelingen met betrekking tot subsidieverstrekking, vastgesteld voor de inwerkingtreding van deze regeling, zijn de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.1&z=2022-10-01&g=2022-10-01) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2022-10-01&g=2022-10-01) niet van toepassing.
+7. Op regelingen met betrekking tot subsidieverstrekking, vastgesteld voor de inwerkingtreding van deze regeling, zijn de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3&artikel=3.1&z=2023-03-16&g=2023-03-16) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2023-03-16&g=2023-03-16) niet van toepassing.
 
 ##### Artikel 11.2. Overgangsbepaling SZW
 
@@ -748,7 +748,7 @@ Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en 
 
 - b. subsidies die voor inwerkingtreding van deze regeling zijn verleend of vastgesteld op grond van de [Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947).
 
-3. Na inwerkingtreding van deze regeling berusten het Beleidskader sportevenementen, het Beleidskader eerstelijnscentra in grootschalige nieuwbouwlocaties, het Beleidskader voor subsidiëring van patiënten- en gehandicaptenorganisaties, het [Beleidskader subsidiëring anonieme e-mental health](https://wetten.overheid.nl/jci1.3:c:BWBR0035850), de [Beleidsregels subsidieverstrekking bijzondere transitiekosten Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035391), het [Beleidskader Sinti en Roma](https://wetten.overheid.nl/jci1.3:c:BWBR0036514) en het Beoordelingskader TOETS op [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.3&z=2022-10-01&g=2022-10-01).
+3. Na inwerkingtreding van deze regeling berusten het Beleidskader sportevenementen, het Beleidskader eerstelijnscentra in grootschalige nieuwbouwlocaties, het Beleidskader voor subsidiëring van patiënten- en gehandicaptenorganisaties, het [Beleidskader subsidiëring anonieme e-mental health](https://wetten.overheid.nl/jci1.3:c:BWBR0035850), de [Beleidsregels subsidieverstrekking bijzondere transitiekosten Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035391), het [Beleidskader Sinti en Roma](https://wetten.overheid.nl/jci1.3:c:BWBR0036514) en het Beoordelingskader TOETS op [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=1&artikel=1.3&z=2023-03-16&g=2023-03-16).
 
 4. Voor de uitvoering van het [Beleidskader subsidieverstrekking bijzondere transitiekosten Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035391) blijven [artikel 6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=6), en [artikel 16 van de Kaderregeling VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0029947&artikel=16) van toepassing.
 
