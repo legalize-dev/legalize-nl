@@ -4,7 +4,7 @@ identifier: "BWBR0045657"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-08-01"
-last_updated: "2022-08-02"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045657"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of artikel 1 van de WEB;
+- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
 - **brugklas:** eerste klas of klassen waarin een leerling terecht komt die van het primair naar het voortgezet onderwijs gaat, voordat een leerling wordt toegewezen aan een schoolsoort of leerweg, en die ten hoogste de duur van de onderbouw van het voortgezet onderwijs, bedoeld in [artikel 2.14 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.14) of [artikel 8 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=8) beslaat;
 
@@ -62,15 +62,13 @@ In deze regeling wordt verstaan onder:
 
 - **school:**
 
-- a. uit ’s Rijks kas bekostigde school of instelling als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), [artikel 1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- a. uit ’s Rijks kas bekostigde school of instelling als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
 - b. uit ’s Rijks kas bekostigde scholengemeenschap als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
 - **schoolsoort:** voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4), hoger algemeen voortgezet onderwijs als bedoeld in [artikel 2.5 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5), middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 2.6 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6), voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7), of praktijkonderwijs als bedoeld in [artikel 2.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
 - **vestiging:** een hoofdvestiging of nevenvestiging van een school voor voortgezet onderwijs als bedoeld in [artikel 4.12 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.12);
-
-- **WEB:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
 - **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
@@ -134,23 +132,23 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 1. In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) voldoet de subsidieontvanger aan de volgende verplichtingen:
 
-- a. de subsidieontvanger draagt in het najaar van 2023 bij aan onderzoek naar de effectiviteit van de activiteiten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2022-08-02&g=2022-08-02);
+- a. de subsidieontvanger draagt in het najaar van 2023 bij aan onderzoek naar de effectiviteit van de activiteiten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2023-03-16&g=2023-03-16);
 
-- b. de subsidieontvanger levert desgevraagd informatie over de voortgang van de activiteiten genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2022-08-02&g=2022-08-02);
+- b. de subsidieontvanger levert desgevraagd informatie over de voortgang van de activiteiten genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2023-03-16&g=2023-03-16);
 
-- c. de subsidieontvanger start in schooljaar 2021/2022 met de activiteiten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2022-08-02&g=2022-08-02), en zorgt ervoor dat deze uiterlijk met ingang van schooljaar 2023/2024 zijn gerealiseerd;
+- c. de subsidieontvanger start in schooljaar 2021/2022 met de activiteiten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2023-03-16&g=2023-03-16), en zorgt ervoor dat deze uiterlijk met ingang van schooljaar 2023/2024 zijn gerealiseerd;
 
-- d. in afwijking van onderdeel c, start de subsidieontvanger waarop [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2022-08-02&g=2022-08-02), van toepassing is, uiterlijk in schooljaar 2022/2023 met de activiteiten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2022-08-02&g=2022-08-02), en zorgt ervoor dat deze uiterlijk met ingang van schooljaar 2023/2024 zijn gerealiseerd;
+- d. in afwijking van onderdeel c, start de subsidieontvanger waarop [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2023-03-16&g=2023-03-16), van toepassing is, uiterlijk in schooljaar 2022/2023 met de activiteiten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2023-03-16&g=2023-03-16), en zorgt ervoor dat deze uiterlijk met ingang van schooljaar 2023/2024 zijn gerealiseerd;
 
-- d1. in afwijking van de onderdelen c en d start de subsidieontvanger aan wie naar aanleiding van een aanvraag als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2022-08-02&g=2022-08-02), subsidie is verstrekt, uiterlijk in schooljaar 2022/2023 met de activiteiten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2022-08-02&g=2022-08-02), en zorgt de subsidieontvanger ervoor dat deze activiteiten uiterlijk met ingang van schooljaar 2024/2025 zijn gerealiseerd;
+- d1. in afwijking van de onderdelen c en d start de subsidieontvanger aan wie naar aanleiding van een aanvraag als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2023-03-16&g=2023-03-16), subsidie is verstrekt, uiterlijk in schooljaar 2022/2023 met de activiteiten, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=3&z=2023-03-16&g=2023-03-16), en zorgt de subsidieontvanger ervoor dat deze activiteiten uiterlijk met ingang van schooljaar 2024/2025 zijn gerealiseerd;
 
 - e. de subsidieontvanger toont desgevraagd aan dat de organisatie van klassen in de eerste leerjaren is vermeld in openbare beleidsstukken van de school, zoals het schoolplan als bedoeld in de [artikelen 2.88 tot en met 2.91 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.88) en [artikel 21 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=21) of in de schoolgids, bedoeld in [artikel 2.92 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.92) en [artikel 22 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=22);
 
 - f. de subsidieontvanger zendt in het najaar van 2023 een rapportage over de periode vanaf schooljaar 2021/2022 aan DUS-I. De rapportage omvat ten minste een omschrijving van de voortgang van de activiteiten waarvoor de subsidie is verstrekt en van de gerealiseerde doelen. De subsidieontvanger toont daarbij in elk geval aan hoe het aanbod van heterogene brugklassen op de vestiging waarvoor subsidie is ontvangen vanaf schooljaar 2023/2024 zich verhoudt tot het aanbod van heterogene brugklassen op dit vestiging in schooljaar 2021/2022;
 
-- f1. in afwijking van onderdeel f zendt de subsidieontvanger aan wie naar aanleiding van een aanvraag als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2022-08-02&g=2022-08-02), subsidie is verstrekt, uiterlijk op 1 november 2024 een rapportage als bedoeld in het voorgaande lid aan DUS-I. De subsidieontvanger toont daarbij in elk geval aan hoe het aanbod van heterogene brugklassen op de vestiging waarvoor subsidie is ontvangen vanaf schooljaar 2024/2025 zich verhoudt tot het aanbod van heterogene brugklassen op dit vestiging in schooljaar 2022/2023;
+- f1. in afwijking van onderdeel f zendt de subsidieontvanger aan wie naar aanleiding van een aanvraag als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2023-03-16&g=2023-03-16), subsidie is verstrekt, uiterlijk op 1 november 2024 een rapportage als bedoeld in het voorgaande lid aan DUS-I. De subsidieontvanger toont daarbij in elk geval aan hoe het aanbod van heterogene brugklassen op de vestiging waarvoor subsidie is ontvangen vanaf schooljaar 2024/2025 zich verhoudt tot het aanbod van heterogene brugklassen op dit vestiging in schooljaar 2022/2023;
 
-- g. in afwijking van onderdeel f, heeft de rapportage, indien het subsidie betreft die is verstrekt naar aanleiding van een aanvraag als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2022-08-02&g=2022-08-02), betrekking op de periode vanaf schooljaar 2022/2023,
+- g. in afwijking van onderdeel f, heeft de rapportage, indien het subsidie betreft die is verstrekt naar aanleiding van een aanvraag als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2023-03-16&g=2023-03-16), betrekking op de periode vanaf schooljaar 2022/2023,
 
 - h. de subsidieontvanger informeert ouders, leerlingen en andere belanghebbenden, bijvoorbeeld via de website van de school, over het soort brugklassen waarin leerlingen onderwijs kunnen volgen.
 
@@ -158,7 +156,7 @@ Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van
 
 1. De activiteiten waarvoor subsidie wordt verstrekt, worden vóór 1 januari 2025 uitgevoerd. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-2. In afwijking van het voorgaande lid geldt voor subsidieontvangers aan wie naar aanleiding van een aanvraag als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2022-08-02&g=2022-08-02), subsidie is verstrekt, dat de activiteiten waarvoor subsidie wordt verstrekt vóór 1 januari 2026 worden uitgevoerd. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
+2. In afwijking van het voorgaande lid geldt voor subsidieontvangers aan wie naar aanleiding van een aanvraag als bedoeld in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045657&artikel=6&z=2023-03-16&g=2023-03-16), subsidie is verstrekt, dat de activiteiten waarvoor subsidie wordt verstrekt vóór 1 januari 2026 worden uitgevoerd. Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het niet aangewende deel van de subsidie worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
 3. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132) met model G, onderdeel 1, zoals bedoeld in richtlijn 660 van de Raad voor de Jaarverslaggeving. De subsidieontvanger toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn.
 
