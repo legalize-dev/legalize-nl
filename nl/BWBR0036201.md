@@ -4,7 +4,7 @@ identifier: "BWBR0036201"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-16"
-last_updated: "2020-05-16"
+last_updated: "2023-03-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036201"
 soort: "ministeriele-regeling"
@@ -46,15 +46,15 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 1 bis, artikel 2, artikel 9, eerste lid, en artikel 10 van [Verordening 1352/2014](32014R1352) van de Raad van de Europese Unie van 18 december 2014 betreffende beperkende maatregelen in verband met de situatie in Jemen (Pb L 365).
+1. Het is verboden te handelen in strijd met artikel 1 bis, artikel 2, eerste en tweede lid, artikel 9, eerste lid, en artikel 10 van [Verordening 1352/2014](32014R1352) van de Raad van de Europese Unie van 18 december 2014 betreffende beperkende maatregelen in verband met de situatie in Jemen (Pb L 365).
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 3 bis, artikel 4, artikel 5, artikel 6, artikel 7 of artikel 8 van [Verordening 1352/2014](32014R1352) van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 2, derde lid, artikel 3 bis, artikel 4, artikel 5, artikel 6, artikel 7 of artikel 8 van [Verordening 1352/2014](32014R1352) van toepassing is.
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in artikel 3 bis, artikel 4, artikel 5, artikel 6, artikel 7, artikel 8, eerste lid, en artikel 9, eerste lid, van [Verordening 1352/2014](32014R1352) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+1. De bevoegde autoriteit, bedoeld in artikel 3 bis, eerste lid, artikel 4, artikel 5, artikel 6, artikel 7, artikel 8, eerste lid, en artikel 9, eerste lid, van [Verordening 1352/2014](32014R1352) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
 
-2. De bevoegde autoriteit, bedoeld in artikel 3 bis, artikel 4, artikel 5, artikel 6, artikel 7 en artikel 9, eerste lid, van Verordening (EU) nr. 1352/2014 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft het verlenen van technische bijstand, de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+2. De bevoegde autoriteit, bedoeld in artikel 3 bis, eerste lid, artikel 4, artikel 5, artikel 6, artikel 7 en artikel 9, eerste lid, van Verordening (EU) nr. 1352/2014 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft het verlenen van technische bijstand, de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
 
 ##### Artikel 3
 
