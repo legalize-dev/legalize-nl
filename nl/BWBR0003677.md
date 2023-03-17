@@ -4,7 +4,7 @@ identifier: "BWBR0003677"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-10-25"
-last_updated: "1998-06-19"
+last_updated: "2023-03-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003677"
 soort: "AMvB"
@@ -75,7 +75,7 @@ behandeling: een behandeling, gericht op het afbreken van zwangerschap.
 
 ##### Artikel 4
 
-Door het bestuur van het ziekenhuis en de kliniek worden, na overleg met de artsen die behandelingen verrichten en de deskundigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=1998-06-19&g=1998-06-19), regels gesteld omtrent hun onderlinge samenwerking en omtrent het toezicht van de geneesheer-directeur op de juiste uitvoering daarvan.
+Door het bestuur van het ziekenhuis en de kliniek worden, na overleg met de artsen die behandelingen verrichten en de deskundigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2023-03-17&g=2023-03-17), regels gesteld omtrent hun onderlinge samenwerking en omtrent het toezicht van de geneesheer-directeur op de juiste uitvoering daarvan.
 
 ##### Artikel 5
 
@@ -83,11 +83,11 @@ Het ziekenhuis en de kliniek dragen ervoor zorg dat er voldoende gelegenheid is 
 
 ##### Artikel 6
 
-Het ziekenhuis en de kliniek dragen ervoor zorg dat, indien de vrouw uitdrukkelijk daarin toestemt, aan haar huisarts of de andere arts die haar overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3), van de wet heeft verwezen, een verslag betreffende haar behandeling wordt gezonden, zonodig vergezeld van een advies over de haar te verlenen nazorg.
+Het ziekenhuis en de kliniek dragen ervoor zorg dat, indien de vrouw uitdrukkelijk daarin toestemt, aan haar huisarts of de andere arts die haar heeft verwezen, een verslag betreffende haar behandeling wordt gezonden, zonodig vergezeld van een advies over de haar te verlenen nazorg.
 
 ##### Artikel 7
 
-1. Het ziekenhuis en de kliniek dragen ervoor zorg dat aan de vrouw het advies wordt gegeven zich na de behandeling onder controle van haar huisarts of van de arts die haar overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=3), van de wet heeft verwezen, te stellen.
+1. Het ziekenhuis en de kliniek dragen ervoor zorg dat aan de vrouw het advies wordt gegeven zich na de behandeling onder controle van haar huisarts of van de arts die haar heeft verwezen, te stellen.
 
 2. Indien de vrouw geen huisarts heeft en niet door een andere arts is verwezen, of indien zij ernstige bezwaren ertegen heeft om zich onder controle van haar huisarts of van de arts die haar heeft verwezen, te stellen, wordt zij in de gelegenheid gesteld, die controle in het ziekenhuis of de kliniek te doen verrichten.
 
@@ -175,7 +175,7 @@ Met betrekking tot een kliniek waar behandelingen worden verricht, gericht op he
 
 ##### Artikel 22
 
-Tijdens een behandeling als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=1998-06-19&g=1998-06-19) dienen ten minste twee artsen in de kliniek aanwezig te zijn.
+Tijdens een behandeling als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=2023-03-17&g=2023-03-17) dienen ten minste twee artsen in de kliniek aanwezig te zijn.
 
 ##### Artikel 23
 
@@ -183,13 +183,13 @@ Zodanige voorzieningen moeten worden getroffen dat een vrouw die in de kliniek e
 
 ##### Artikel 24
 
-Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=1998-06-19&g=1998-06-19) dient in ieder geval te worden gesloten met een ziekenhuis waar eveneens behandelingen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=1998-06-19&g=1998-06-19) worden verricht.
+Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=2023-03-17&g=2023-03-17) dient in ieder geval te worden gesloten met een ziekenhuis waar eveneens behandelingen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=4&artikel=21&z=2023-03-17&g=2023-03-17) worden verricht.
 
 #### § 5. Gegevens, te verstrekken bij het aanvragen van een vergunning
 
 ##### Artikel 25
 
-1. Het ziekenhuis of de kliniek verstrekt bij de aanvraag om een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2) van de wet de gegevens waaruit blijkt dat aan de in de[artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=1998-06-19&g=1998-06-19), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=8&z=1998-06-19&g=1998-06-19) gestelde voorschriften wordt voldaan.
+1. Het ziekenhuis of de kliniek verstrekt bij de aanvraag om een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=2) van de wet de gegevens waaruit blijkt dat aan de in de[artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=2&z=2023-03-17&g=2023-03-17), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=2&artikel=8&z=2023-03-17&g=2023-03-17) gestelde voorschriften wordt voldaan.
 
 2. De kliniek verstrekt naast de in het eerste lid bedoelde gegevens tevens de volgende gegevens:
 
@@ -201,7 +201,7 @@ Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c
 
 - d. het adres van de kliniek met een beschrijving van de voor behandelingen beschikbare ruimten;
 
-- e. een exemplaar van de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=1998-06-19&g=1998-06-19) gesloten samenwerkingsovereenkomst of samenwerkingsovereenkomsten.
+- e. een exemplaar van de overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=18&z=2023-03-17&g=2023-03-17) gesloten samenwerkingsovereenkomst of samenwerkingsovereenkomsten.
 
 #### § 6. Gegevens met betrekking tot het afbreken van zwangerschappen
 
@@ -219,7 +219,7 @@ Een overeenkomst als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 28
 
-1. De arts, bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=11&z=1998-06-19&g=1998-06-19), en in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=18), van de wet, draagt ervoor zorg dat vóór of zo spoedig mogelijk na de behandeling aantekening wordt gemaakt van de bevindingen, op grond waarvan de behandeling overeenkomstig [artikel 5, eerste lid en tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5), van de wet verantwoord is te achten.
+1. De arts, bedoeld in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003677&paragraaf=3&artikel=11&z=2023-03-17&g=2023-03-17), en in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=18), van de wet, draagt ervoor zorg dat vóór of zo spoedig mogelijk na de behandeling aantekening wordt gemaakt van de bevindingen, op grond waarvan de behandeling overeenkomstig [artikel 5, eerste lid en tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5), van de wet verantwoord is te achten.
 
 2. Aan de hand van de gegevens, vervat in de aantekeningen, dient de inspecteur zich een oordeel te kunnen vormen of de arts overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=5) van de wet handelt.
 
