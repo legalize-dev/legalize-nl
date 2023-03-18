@@ -4,7 +4,7 @@ identifier: "BWBR0037946"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-01"
-last_updated: "2022-10-25"
+last_updated: "2023-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037946"
 soort: "zbo"
@@ -76,7 +76,7 @@ De meterbeheerder participeert in het door de toezichthouder op de [Metrologiewe
 
 ##### 1.2.2.1
 
-Het deel van de op afstand uitleesbare kleinverbruikmeetinrichting dat geplaatst moet worden bij de aansluiting, wordt geplaatst door een meterplaatser die is erkend conform [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=4&z=2022-10-25&g=2022-10-25), of door de netbeheerder.
+Het deel van de op afstand uitleesbare kleinverbruikmeetinrichting dat geplaatst moet worden bij de aansluiting, wordt geplaatst door een meterplaatser die is erkend conform [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=4&z=2023-03-18&g=2023-03-18), of door de netbeheerder.
 
 ##### 1.2.2.2
 
@@ -86,29 +86,29 @@ De netbeheerder verstrekt aan de meterplaatser op diens verzoek:
 
 - –. het recht om verzegelingen die door of vanwege de netbeheerder zijn aangebracht te schenden of verbreken indien dit noodzakelijk is voor het uitvoeren van werkzaamheden aan of in de onmiddellijke nabijheid van de aansluiting, die verband houden met de plaatsing van meetinrichtingen.
 
-- –. het recht om namens de netbeheerder verzegelingen aan te brengen conform de in [4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&z=2022-10-25&g=2022-10-25) genoemde voorwaarden.
+- –. het recht om namens de netbeheerder verzegelingen aan te brengen conform de in [4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&z=2023-03-18&g=2023-03-18) genoemde voorwaarden.
 
 #### 1.2.3. Het overdragen van meetverantwoordelijkheid
 
 ##### 1.2.3.1
 
-Tot het uitoefenen van meetverantwoordelijkheid voor een grootverbruikaansluiting zijn slechts personen toegelaten die hiervoor conform [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=4&z=2022-10-25&g=2022-10-25) zijn erkend.
+Tot het uitoefenen van meetverantwoordelijkheid voor een grootverbruikaansluiting zijn slechts personen toegelaten die hiervoor conform [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=4&z=2023-03-18&g=2023-03-18) zijn erkend.
 
 ##### 1.2.3.2
 
-Per grootverbruikaansluiting is er één meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2022-10-25&g=2022-10-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2022-10-25&g=2022-10-25) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2022-10-25&g=2022-10-25) voortvloeiende werkzaamheden.
+Per grootverbruikaansluiting is er één meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2023-03-18&g=2023-03-18), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2023-03-18&g=2023-03-18) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2023-03-18&g=2023-03-18) voortvloeiende werkzaamheden.
 
 ##### 1.2.3.3
 
-Indien de meetinrichting, bedoeld in [2.1.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2022-10-25&g=2022-10-25) tevens gebruikt wordt ten behoeve van de uitvoering van de [Regeling kooldioxide-index warmtekrachtkoppeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015948), kan, in afwijking van [1.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.2&z=2022-10-25&g=2022-10-25), voor deze meetinrichting een andere meetverantwoordelijke, hierna te noemen het MEP-meetbedrijf, worden aangewezen dan de meetverantwoordelijke die op grond van 1.2.3.2 als meetverantwoordelijke voor de grootverbruikaansluiting van de desbetreffende aangeslotene in het aansluitingenregister van de netbeheerder staat geregistreerd, onder voorwaarde dat:
+Indien de meetinrichting, bedoeld in [2.1.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2023-03-18&g=2023-03-18) tevens gebruikt wordt ten behoeve van de uitvoering van de [Regeling kooldioxide-index warmtekrachtkoppeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015948), kan, in afwijking van [1.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.2&z=2023-03-18&g=2023-03-18), voor deze meetinrichting een andere meetverantwoordelijke, hierna te noemen het MEP-meetbedrijf, worden aangewezen dan de meetverantwoordelijke die op grond van 1.2.3.2 als meetverantwoordelijke voor de grootverbruikaansluiting van de desbetreffende aangeslotene in het aansluitingenregister van de netbeheerder staat geregistreerd, onder voorwaarde dat:
 
 - a. het MEP-meetbedrijf hetzelfde is als het meetbedrijf dat verantwoordelijk is voor de niet-elektrische metingen ten behoeve van de kooldioxideindexbepaling;
 
 - b. er achter een grootverbruikaansluiting slechts één MEP-meetbedrijf actief is;
 
-- c. het MEP-meetbedrijf de verantwoordelijkheid op zich neemt voor alle werkzaamheden die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2022-10-25&g=2022-10-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2022-10-25&g=2022-10-25) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2022-10-25&g=2022-10-25) ten aanzien van de in [2.1.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2022-10-25&g=2022-10-25) bedoelde meetinrichting nodig zijn, met dien verstande dat hij de technische gegevens van de desbetreffende meetinrichting alsmede de meetgegevens van de desbetreffende meetinrichting ter beschikking stelt aan de op de desbetreffende grootverbruikaansluiting acterende meetverantwoordelijke in plaats van aan de netbeheerder;
+- c. het MEP-meetbedrijf de verantwoordelijkheid op zich neemt voor alle werkzaamheden die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2023-03-18&g=2023-03-18), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2023-03-18&g=2023-03-18) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2023-03-18&g=2023-03-18) ten aanzien van de in [2.1.1 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2023-03-18&g=2023-03-18) bedoelde meetinrichting nodig zijn, met dien verstande dat hij de technische gegevens van de desbetreffende meetinrichting alsmede de meetgegevens van de desbetreffende meetinrichting ter beschikking stelt aan de op de desbetreffende grootverbruikaansluiting acterende meetverantwoordelijke in plaats van aan de netbeheerder;
 
-- d. de meetverantwoordelijke op de desbetreffende aansluiting verantwoordelijk blijft voor de alle werkzaamheden die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2022-10-25&g=2022-10-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2022-10-25&g=2022-10-25) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2022-10-25&g=2022-10-25) ten aanzien van de in [2.1.1 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2022-10-25&g=2022-10-25) bedoelde meetinrichting nodig zijn, met dien verstande dat hij daarnaast de in het voorgaande lid bedoelde technische gegevens vastlegt in zijn meterregister en de meetgegevens afkomstig van de meetinrichting, bedoeld in 2.1.1 sub c van het MEP-meetbedrijf accepteert en ongewijzigd doorgeeft aan de netbeheerder;
+- d. de meetverantwoordelijke op de desbetreffende aansluiting verantwoordelijk blijft voor de alle werkzaamheden die op grond van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2023-03-18&g=2023-03-18), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2023-03-18&g=2023-03-18) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2023-03-18&g=2023-03-18) ten aanzien van de in [2.1.1 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2023-03-18&g=2023-03-18) bedoelde meetinrichting nodig zijn, met dien verstande dat hij daarnaast de in het voorgaande lid bedoelde technische gegevens vastlegt in zijn meterregister en de meetgegevens afkomstig van de meetinrichting, bedoeld in 2.1.1 sub c van het MEP-meetbedrijf accepteert en ongewijzigd doorgeeft aan de netbeheerder;
 
 - e. de meetverantwoordelijke geeft de meetgegevens, bedoeld in [artikel 3, lid 1 van de Regeling certificaten warmtekrachtkoppeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015182&artikel=3) door aan de netbeheerder;
 
@@ -116,11 +116,11 @@ Indien de meetinrichting, bedoeld in [2.1.1 sub c](https://wetten.overheid.nl/jc
 
 ##### 1.2.3.4
 
-In afwijking van [1.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.2&z=2022-10-25&g=2022-10-25) is er voor grootverbruikaansluitingen waarbij op grond van [artikel 2.30, eerste lid van de Netcode elektriciteit](onbekend) geen comptabele meetinrichting aanwezig is, geen meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2022-10-25&g=2022-10-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2022-10-25&g=2022-10-25) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2022-10-25&g=2022-10-25) voortvloeiende werkzaamheden. In dat geval is de netbeheerder op grond van artikel 2.30, eerste lid van de Netcode elektriciteit in combinatie met [artikel 6.3.5.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.3.5.2) verantwoordelijk voor de vaststelling van de hoeveelheid getransporteerde energie op het overdrachtspunt van de desbetreffende grootverbruikaansluiting.
+In afwijking van [1.2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.2&z=2023-03-18&g=2023-03-18) is er voor grootverbruikaansluitingen waarbij op grond van [artikel 2.30, eerste lid van de Netcode elektriciteit](onbekend) geen comptabele meetinrichting aanwezig is, geen meetverantwoordelijke voor alle uit de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2023-03-18&g=2023-03-18), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2023-03-18&g=2023-03-18) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=6&z=2023-03-18&g=2023-03-18) voortvloeiende werkzaamheden. In dat geval is de netbeheerder op grond van artikel 2.30, eerste lid van de Netcode elektriciteit in combinatie met [artikel 6.3.5.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=6.3.5.2) verantwoordelijk voor de vaststelling van de hoeveelheid getransporteerde energie op het overdrachtspunt van de desbetreffende grootverbruikaansluiting.
 
 ##### 1.2.3.5
 
-Een aangeslotene die de meetverantwoordelijkheid voor zijn grootverbruikaansluiting(en) niet zelf uitoefent, draagt die meetverantwoordelijkheid over aan een in [1.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.1&z=2022-10-25&g=2022-10-25) bedoelde persoon.
+Een aangeslotene die de meetverantwoordelijkheid voor zijn grootverbruikaansluiting(en) niet zelf uitoefent, draagt die meetverantwoordelijkheid over aan een in [1.2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.1&z=2023-03-18&g=2023-03-18) bedoelde persoon.
 
 ##### 1.2.3.6
 
@@ -142,7 +142,7 @@ Ingeval tussen de aangeslotene en een andere meetverantwoordelijke binnen tien w
 
 ##### 1.2.4.3
 
-Indien niet voldaan wordt aan het gestelde in [1.2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.4&artikel=1.2.4.2&z=2022-10-25&g=2022-10-25) wordt de grootverbruikaansluiting door de netbeheerder gedeactiveerd.
+Indien niet voldaan wordt aan het gestelde in [1.2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.4&artikel=1.2.4.2&z=2023-03-18&g=2023-03-18) wordt de grootverbruikaansluiting door de netbeheerder gedeactiveerd.
 
 #### 1.2.5. Vangnetregeling meetverantwoordelijkheid
 
@@ -156,7 +156,7 @@ Aangeslotenen met een gecontracteerd transportvermogen groter dan 1 MW hebben ti
 
 ##### 1.2.5.3
 
-Indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2022-10-25&g=2022-10-25) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, wijst de netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aan.
+Indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2023-03-18&g=2023-03-18) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, wijst de netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aan.
 
 ##### 1.2.5.4
 
@@ -168,9 +168,9 @@ Onverwijld nadat hij bericht heeft ontvangen van de intrekking van de erkenning 
 
 - c. de aangeslotene verplicht is er alles aan te doen om te voorkomen dat zolang de vangnetregeling van toepassing is, de meetinrichting en de eventueel daarbij behorende communicatiemiddelen worden verwijderd of gewijzigd of niet meer functioneren of kunnen functioneren;
 
-- d. de aangeslotene de gelegenheid heeft om binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2022-10-25&g=2022-10-25) genoemde termijn een nieuwe meetverantwoordelijke aan te wijzen;
+- d. de aangeslotene de gelegenheid heeft om binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2023-03-18&g=2023-03-18) genoemde termijn een nieuwe meetverantwoordelijke aan te wijzen;
 
-- e. indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2022-10-25&g=2022-10-25) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, de netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aanwijst, waarbij de netbeheerder ten behoeve van de aangeslotene aangeeft wat de tarieven en voorwaarden zijn die door de door hem aan te wijzen meetverantwoordelijke worden gehanteerd, dan wel aangeeft op welke wijze deze tarieven en voorwaarden voor de aangeslotene toegankelijk zijn.
+- e. indien de aangeslotene niet zelf binnen de in [1.2.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.2&z=2023-03-18&g=2023-03-18) genoemde termijn een nieuwe meetverantwoordelijke aanwijst, de netbeheerder voor de aangeslotene een nieuwe meetverantwoordelijke aanwijst, waarbij de netbeheerder ten behoeve van de aangeslotene aangeeft wat de tarieven en voorwaarden zijn die door de door hem aan te wijzen meetverantwoordelijke worden gehanteerd, dan wel aangeeft op welke wijze deze tarieven en voorwaarden voor de aangeslotene toegankelijk zijn.
 
 ##### 1.2.5.5
 
@@ -178,15 +178,15 @@ Zolang de vangnetregeling van toepassing is, worden de meetgegevens ten behoeve 
 
 ##### 1.2.5.6
 
-Voor aangeslotenen met een gecontracteerd transportvermogen groter dan 1 MW wordt het in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2022-10-25&g=2022-10-25) bedoelde profiel na overleg met de aangeslotene door de netbeheerder vastgesteld op basis van historische meetgegevens.
+Voor aangeslotenen met een gecontracteerd transportvermogen groter dan 1 MW wordt het in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2023-03-18&g=2023-03-18) bedoelde profiel na overleg met de aangeslotene door de netbeheerder vastgesteld op basis van historische meetgegevens.
 
 ##### 1.2.5.7
 
-Voor aangeslotenen met een gecontracteerd transportvermogen kleiner dan of gelijk aan 1 MW en een grootverbruikaansluiting met een telemetriegrootverbruikmeetinrichting, wordt voor het in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2022-10-25&g=2022-10-25) bedoelde profiel gebruik gemaakt van een door de gezamenlijke netbeheerders en de BRP’s vooraf vastgesteld noodprofiel.
+Voor aangeslotenen met een gecontracteerd transportvermogen kleiner dan of gelijk aan 1 MW en een grootverbruikaansluiting met een telemetriegrootverbruikmeetinrichting, wordt voor het in [1.2.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.5&z=2023-03-18&g=2023-03-18) bedoelde profiel gebruik gemaakt van een door de gezamenlijke netbeheerders en de BRP’s vooraf vastgesteld noodprofiel.
 
 ##### 1.2.5.8
 
-In afwijking van [1.2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.6&z=2022-10-25&g=2022-10-25) en [1.2.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.7&z=2022-10-25&g=2022-10-25) treft de netbeheerder bij aangeslotenen met een telemetriegrootverbruikmeetinrichting, waarbij de verzameling van meetgegevens, zoals bedoeld in [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&z=2022-10-25&g=2022-10-25), en de overdracht van meetgegevens, zoals bedoeld in [6.2.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.2.2), ondanks de intrekking van de erkenning van de meetverantwoordelijke correct blijven functioneren, een regeling met de desbetreffende BRP om de desbetreffende meetgegevens te gebruiken zolang de vangnetregeling van toepassing is.
+In afwijking van [1.2.5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.6&z=2023-03-18&g=2023-03-18) en [1.2.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.7&z=2023-03-18&g=2023-03-18) treft de netbeheerder bij aangeslotenen met een telemetriegrootverbruikmeetinrichting, waarbij de verzameling van meetgegevens, zoals bedoeld in [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&z=2023-03-18&g=2023-03-18), en de overdracht van meetgegevens, zoals bedoeld in [paragraaf 6.2.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.2.2), ondanks de intrekking van de erkenning van de meetverantwoordelijke correct blijven functioneren, een regeling met de desbetreffende BRP om de desbetreffende meetgegevens te gebruiken zolang de vangnetregeling van toepassing is.
 
 ##### 1.2.5.9
 
@@ -194,11 +194,11 @@ Zolang de vangnetregeling van toepassing is, is de meetverantwoordelijke wiens e
 
 ##### 1.2.5.10
 
-In het geval de meetverantwoordelijke in faillissement verkeert of surseance van betaling is verleend, wijst de netbeheerder van het landelijk hoogspanningsnet de curator respectievelijk bewindvoerder op de verplichting zoals genoemd in [1.2.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.9&z=2022-10-25&g=2022-10-25). Zo nodig stelt de netbeheerder van het landelijk hoogspanningsnet zich garant voor eventuele kosten hiervan, maximaal gedurende de periode dat de vangnetregeling van toepassing is.
+In het geval de meetverantwoordelijke in faillissement verkeert of surseance van betaling is verleend, wijst de netbeheerder van het landelijk hoogspanningsnet de curator respectievelijk bewindvoerder op de verplichting zoals genoemd in [1.2.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.5&artikel=1.2.5.9&z=2023-03-18&g=2023-03-18). Zo nodig stelt de netbeheerder van het landelijk hoogspanningsnet zich garant voor eventuele kosten hiervan, maximaal gedurende de periode dat de vangnetregeling van toepassing is.
 
 ##### 1.2.5.11
 
-Indien er, nadat de nieuwe meetverantwoordelijke is aangewezen, nog geen overdracht van meetgegevens kan plaats vinden zoals bedoeld in [6.2.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.2.2), kan voor een periode van maximaal tien werkdagen de procedure als bedoeld in [artikel 10.17, elfde lid, van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=10.17) worden toegepast.
+Indien er, nadat de nieuwe meetverantwoordelijke is aangewezen, nog geen overdracht van meetgegevens kan plaats vinden zoals bedoeld in [paragraaf 6.2.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&sub-paragraaf=6.2.2), kan voor een periode van maximaal tien werkdagen de procedure als bedoeld in [artikel 10.17, elfde lid, van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=10.17) worden toegepast.
 
 ##### 1.2.5.12
 
@@ -206,7 +206,7 @@ Indien er sprake is van een telemetriegrootverbruikmeetinrichting, stelt de nieu
 
 ##### 1.2.5.13
 
-Indien er sprake is van een kleinverbruikmeetinrichting of een profielgrootverbruikmeetinrichting en indien de verzameling van meetgegevens als bedoeld in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2022-10-25&g=2022-10-25) of [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2022-10-25&g=2022-10-25) plaats zou moeten vinden in de periode waarin de vangnetregeling van toepassing is, wordt deze verzameling van meetgegevens opgeschort en vindt deze plaats binnen een maand nadat de nieuwe meetverantwoordelijke is aangewezen.
+Indien er sprake is van een kleinverbruikmeetinrichting of een profielgrootverbruikmeetinrichting en indien de verzameling van meetgegevens als bedoeld in [5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2023-03-18&g=2023-03-18) of [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2023-03-18&g=2023-03-18) plaats zou moeten vinden in de periode waarin de vangnetregeling van toepassing is, wordt deze verzameling van meetgegevens opgeschort en vindt deze plaats binnen een maand nadat de nieuwe meetverantwoordelijke is aangewezen.
 
 ### 2. Keuze van meetinrichting en aanwijzing meetbeheerder
 
@@ -214,7 +214,7 @@ Indien er sprake is van een kleinverbruikmeetinrichting of een profielgrootverbr
 
 ##### 2.1.1
 
-De bepalingen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&z=2022-10-25&g=2022-10-25) zijn van toepassing op comptabele meetinrichtingen:
+De bepalingen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&z=2023-03-18&g=2023-03-18) zijn van toepassing op comptabele meetinrichtingen:
 
 - a. in het (de) overdrachtspunt(en) van een aansluiting tussen twee elektriciteitsnetten;
 
@@ -230,7 +230,7 @@ In het (de) overdrachtspunt(en) van een aansluiting tussen twee netten is een te
 
 ##### 2.2.2
 
-Aan een telemetriegrootverbruikmeetinrichting op een overdrachtspunt van een aansluiting tussen een net en het landelijk hoogspanningsnet, zoals bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2022-10-25&g=2022-10-25), wordt voor een overdrachtspunt van een dergelijke aansluiting, zoals bedoeld in [artikel 15.3, eerste lid, van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=15.3), gelijk gesteld een comptabele meetinrichting die gebruik maakt van niet voor comptabele doeleinden geïnstalleerde meettransformatoren aan de hoogspanningszijde waarbij de nauwkeurigheid met inachtneming van [artikel 4.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.2&z=2022-10-25&g=2022-10-25) wordt verbeterd door toepassing van digitale foutcorrectie en digitale plaatscorrectie.
+Aan een telemetriegrootverbruikmeetinrichting op een overdrachtspunt van een aansluiting tussen een net en het landelijk hoogspanningsnet, zoals bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2023-03-18&g=2023-03-18), wordt voor een overdrachtspunt van een dergelijke aansluiting, zoals bedoeld in [artikel 15.3, eerste lid, van de Netcode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037940&artikel=15.3), gelijk gesteld een comptabele meetinrichting die gebruik maakt van niet voor comptabele doeleinden geïnstalleerde meettransformatoren aan de hoogspanningszijde waarbij de nauwkeurigheid met inachtneming van [artikel 4.3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.2&z=2023-03-18&g=2023-03-18) wordt verbeterd door toepassing van digitale foutcorrectie en digitale plaatscorrectie.
 
 #### 2.3. Meetinrichting in het (de) overdrachtspunt(en) van een aansluiting kleiner dan of gelijk aan 3x80A
 
@@ -246,9 +246,9 @@ In het (de) overdrachtspunt(en) van een aansluiting groter dan 3x80A is een tele
 
 ##### 2.4.2
 
-- a. In afwijking van [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2022-10-25&g=2022-10-25) kan in het (de) overdrachtspunt(en) van een aansluiting groter dan 3x80A met een gecontracteerd vermogen minder dan 0,1 MW, een profielgrootverbruikmeetinrichting aanwezig zijn tot uiterlijk 31 december 2025.
+- a. In afwijking van [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2023-03-18&g=2023-03-18) kan in het (de) overdrachtspunt(en) van een aansluiting groter dan 3x80A met een gecontracteerd vermogen minder dan 0,1 MW, een profielgrootverbruikmeetinrichting aanwezig zijn tot uiterlijk 31 december 2025.
 
-- b. In afwijking van [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2022-10-25&g=2022-10-25) kan in het (de) overdrachtspunt(en) van een artikel-1-lid-2-of-3-aansluiting, kleiner dan of gelijk aan 3x80A een profielgrootverbruikmeetinrichting aanwezig zijn.
+- b. In afwijking van [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2023-03-18&g=2023-03-18) kan in het (de) overdrachtspunt(en) van een artikel-1-lid-2-of-3-aansluiting, kleiner dan of gelijk aan 3x80A een profielgrootverbruikmeetinrichting aanwezig zijn.
 
 ##### 2.4.3
 
@@ -296,7 +296,7 @@ Er is sprake van een prioriteitsplaatsing indien de aangeslotene op zijn verzoek
 
 ##### 3.1.2
 
-Indien de aangeslotene dit verzoekt, komt hij in aanmerking voor een prioriteitsplaatsing. Voor de aanvraag van een prioriteitsplaatsing is [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&z=2022-10-25&g=2022-10-25) van toepassing.
+Indien de aangeslotene dit verzoekt, komt hij in aanmerking voor een prioriteitsplaatsing. Voor de aanvraag van een prioriteitsplaatsing is [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&z=2023-03-18&g=2023-03-18) van toepassing.
 
 ##### 3.1.3
 
@@ -304,11 +304,11 @@ Er is sprake van een plaatsing door derden van een op afstand uitleesbare kleinv
 
 ##### 3.1.4
 
-Voor het op verzoek van de aangeslotene door een ander dan de netbeheerder ter beschikking stellen van een door de netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&z=2022-10-25&g=2022-10-25) van toepassing.
+Voor het op verzoek van de aangeslotene door een ander dan de netbeheerder ter beschikking stellen van een door de netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&z=2023-03-18&g=2023-03-18) van toepassing.
 
 ##### 3.1.5
 
-Voor het op verzoek van de aangeslotene door een ander dan de netbeheerder ter beschikking stellen van een niet door de netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&z=2022-10-25&g=2022-10-25) van toepassing.
+Voor het op verzoek van de aangeslotene door een ander dan de netbeheerder ter beschikking stellen van een niet door de netbeheerder te leveren op afstand uitleesbare kleinverbruikmeetinrichting, is [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&z=2023-03-18&g=2023-03-18) van toepassing.
 
 #### 3.2. Procedure prioriteitsplaatsing
 
@@ -340,15 +340,15 @@ De netbeheerder controleert of:
 
 ##### 3.2.3
 
-Het resultaat van de in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2022-10-25&g=2022-10-25) genoemde vaststelling wordt binnen 5 werkdagen na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2022-10-25&g=2022-10-25) bedoelde aanvraag meegedeeld aan de aangeslotene. Indien niet aan alle in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2022-10-25&g=2022-10-25) genoemde criteria wordt voldaan, wordt de procedure prioriteitsplaatsing gestopt.
+Het resultaat van de in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2023-03-18&g=2023-03-18) genoemde vaststelling wordt binnen 5 werkdagen na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2023-03-18&g=2023-03-18) bedoelde aanvraag meegedeeld aan de aangeslotene. Indien niet aan alle in [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2023-03-18&g=2023-03-18) genoemde criteria wordt voldaan, wordt de procedure prioriteitsplaatsing gestopt.
 
 ##### 3.2.4
 
-De netbeheerder neemt binnen 3 maanden na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2022-10-25&g=2022-10-25) bedoelde aanvraag de oude meetinrichting weg en plaatst de nieuwe op afstand uitleesbare kleinverbruikmeetinrichting.
+De netbeheerder neemt binnen 3 maanden na de in [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.1&z=2023-03-18&g=2023-03-18) bedoelde aanvraag de oude meetinrichting weg en plaatst de nieuwe op afstand uitleesbare kleinverbruikmeetinrichting.
 
 ##### 3.2.5
 
-De in 3.2.4 genoemde verplichting van de netbeheerder vervalt indien het niet lukt om in de in [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2022-10-25&g=2022-10-25) genoemde periode een afspraak over de plaatsing te maken met de aangeslotene of indien de aangeslotene zich niet houdt aan de gemaakte afspraak.
+De in 3.2.4 genoemde verplichting van de netbeheerder vervalt indien het niet lukt om in de in [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2023-03-18&g=2023-03-18) genoemde periode een afspraak over de plaatsing te maken met de aangeslotene of indien de aangeslotene zich niet houdt aan de gemaakte afspraak.
 
 ##### 3.2.6
 
@@ -384,15 +384,15 @@ De netbeheerder controleert of:
 
 ##### 3.3.3
 
-Het resultaat van de in [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2022-10-25&g=2022-10-25) genoemde vaststelling wordt binnen vijf werkdagen na de in [artikel 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.1&z=2022-10-25&g=2022-10-25) bedoelde melding door de netbeheerder meegedeeld aan de ander dan de netbeheerder die op verzoek van de aangeslotene conform [artikel 26ad, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ad), of [artikel 26ae, zevende lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ae), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting. Indien niet aan alle in artikel 3.3.2 genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een door de netbeheerder geleverde meetinrichting gestopt door de netbeheerder.
+Het resultaat van de in [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2023-03-18&g=2023-03-18) genoemde vaststelling wordt binnen vijf werkdagen na de in [artikel 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.1&z=2023-03-18&g=2023-03-18) bedoelde melding door de netbeheerder meegedeeld aan de ander dan de netbeheerder die op verzoek van de aangeslotene conform [artikel 26ad, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ad), of [artikel 26ae, zevende lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ae), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting. Indien niet aan alle in artikel 3.3.2 genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een door de netbeheerder geleverde meetinrichting gestopt door de netbeheerder.
 
 ##### 3.3.4
 
-De meterplaatser neemt binnen vijftien werkdagen na de in [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3&z=2022-10-25&g=2022-10-25) bedoelde melding contact op met de netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting.
+De meterplaatser neemt binnen vijftien werkdagen na de in [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.3&z=2023-03-18&g=2023-03-18) bedoelde melding contact op met de netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting.
 
 ##### 3.3.5
 
-De netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2022-10-25&g=2022-10-25) geplande plaatsing:
+De netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2023-03-18&g=2023-03-18) geplande plaatsing:
 
 - a. de te plaatsen op afstand uitleesbare kleinverbruikmeetinrichting met de daarbij behorende gebruiks-, montage- en transportinstructies
 
@@ -404,7 +404,7 @@ De netbeheerder verstrekt uiterlijk vijf werkdagen voor de conform [3.3.4](https
 
 ##### 3.3.6
 
-De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2022-10-25&g=2022-10-25) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt. Indien dat niet het geval is, neemt de meterplaatser contact op met de netbeheerder.
+De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.5&z=2023-03-18&g=2023-03-18) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt. Indien dat niet het geval is, neemt de meterplaatser contact op met de netbeheerder.
 
 ##### 3.3.7
 
@@ -432,7 +432,7 @@ De meterplaatser verzendt de in 3.3.8 genoemde gegevens binnen één werkdag na 
 
 ##### 3.3.11
 
-De meterplaatser levert de oude meetinrichting conform de in [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2022-10-25&g=2022-10-25) genoemde afspraken af bij de netbeheerder.
+De meterplaatser levert de oude meetinrichting conform de in [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.4&z=2023-03-18&g=2023-03-18) genoemde afspraken af bij de netbeheerder.
 
 ##### 3.3.12
 
@@ -448,7 +448,7 @@ De netbeheerder neemt, na acceptatie, de nieuw geplaatste op afstand uitleesbare
 
 ##### 3.3.15
 
-De netbeheerder bewaart de op grond van [3.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.10&z=2022-10-25&g=2022-10-25) ontvangen gegevens tenminste twee jaar.
+De netbeheerder bewaart de op grond van [3.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.3&artikel=3.3.10&z=2023-03-18&g=2023-03-18) ontvangen gegevens tenminste twee jaar.
 
 #### 3.4. Procedure plaatsing door derden van een niet door de netbeheerder geleverde meetinrichting
 
@@ -484,17 +484,17 @@ De netbeheerder controleert of:
 
 ##### 3.4.3
 
-Het resultaat van de in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2022-10-25&g=2022-10-25) genoemde vaststelling wordt binnen vijf werkdagen na de in [artikel 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.1&z=2022-10-25&g=2022-10-25) bedoelde melding meegedeeld aan de ander dan de netbeheerder die op verzoek van de aangeslotene conform [artikel 26ad, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ad), of [artikel 26ae, zevende lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ae), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting.
+Het resultaat van de in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2023-03-18&g=2023-03-18) genoemde vaststelling wordt binnen vijf werkdagen na de in [artikel 3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.1&z=2023-03-18&g=2023-03-18) bedoelde melding meegedeeld aan de ander dan de netbeheerder die op verzoek van de aangeslotene conform [artikel 26ad, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ad), of [artikel 26ae, zevende lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=26ae), er zorg voor draagt dat de aangeslotene beschikt over een op afstand uitleesbare kleinverbruikmeetinrichting.
 
-Indien niet aan alle in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2022-10-25&g=2022-10-25) genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een niet door de netbeheerder geleverde meetinrichting gestopt.
+Indien niet aan alle in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.2&z=2023-03-18&g=2023-03-18) genoemde criteria wordt voldaan, wordt de procedure plaatsing door derden van een niet door de netbeheerder geleverde meetinrichting gestopt.
 
 ##### 3.4.4
 
-De meterplaatser neemt binnen 15 werkdagen na de in [3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.3&z=2022-10-25&g=2022-10-25) bedoelde melding contact op met de netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting en over de toegankelijkheid van de communicatievoorziening.
+De meterplaatser neemt binnen 15 werkdagen na de in [3.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.3&z=2023-03-18&g=2023-03-18) bedoelde melding contact op met de netbeheerder voor het maken van afspraken over de datum en het tijdstip van de verwijdering van de oude meetinrichting en plaatsing van de nieuwe meetinrichting en over de toegankelijkheid van de communicatievoorziening.
 
 ##### 3.4.5
 
-De netbeheerder verstrekt uiterlijk 5 werkdagen voor de conform [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2022-10-25&g=2022-10-25) geplande plaatsing de meterwisselgegevens:
+De netbeheerder verstrekt uiterlijk 5 werkdagen voor de conform [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2023-03-18&g=2023-03-18) geplande plaatsing de meterwisselgegevens:
 
 - –. het meternummer van de huidige meetinrichting;
 
@@ -502,7 +502,7 @@ De netbeheerder verstrekt uiterlijk 5 werkdagen voor de conform [3.4.4](https://
 
 ##### 3.4.6
 
-De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.5&z=2022-10-25&g=2022-10-25) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt.
+De meterplaatser controleert of de vastgelegde tellerstanden van de oude meetinrichting zich binnen de in [3.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.5&z=2023-03-18&g=2023-03-18) bedoelde marge bevinden en of het meternummer van de oude meetinrichting klopt.
 
 ##### 3.4.7
 
@@ -550,11 +550,11 @@ De meterplaatser verzamelt de gegevens omtrent het type meetinrichting en de wij
 
 ##### 3.4.12
 
-De meterplaatser verzendt de in [3.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.8&z=2022-10-25&g=2022-10-25), [3.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.10&z=2022-10-25&g=2022-10-25) en [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2022-10-25&g=2022-10-25) genoemde gegevens binnen één werkdag na de dag van plaatsing in een door de gezamenlijke netbeheerders opgesteld format voor elektronische gegevensuitwisseling aan de netbeheerder.
+De meterplaatser verzendt de in [3.4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.8&z=2023-03-18&g=2023-03-18), [3.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.10&z=2023-03-18&g=2023-03-18) en [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2023-03-18&g=2023-03-18) genoemde gegevens binnen één werkdag na de dag van plaatsing in een door de gezamenlijke netbeheerders opgesteld format voor elektronische gegevensuitwisseling aan de netbeheerder.
 
 ##### 3.4.13
 
-De meterplaatser levert de oude meetinrichting conform de in [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2022-10-25&g=2022-10-25) genoemde afspraken af bij de netbeheerder.
+De meterplaatser levert de oude meetinrichting conform de in [3.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.4&z=2023-03-18&g=2023-03-18) genoemde afspraken af bij de netbeheerder.
 
 ##### 3.4.14
 
@@ -570,7 +570,7 @@ De netbeheerder neemt, na acceptatie, de nieuw geplaatste op afstand uitleesbare
 
 ##### 3.4.17
 
-De netbeheerder bewaart de op grond van [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2022-10-25&g=2022-10-25) ontvangen gegevens tenminste twee jaar.
+De netbeheerder bewaart de op grond van [3.4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=3&paragraaf=3.4&artikel=3.4.11&z=2023-03-18&g=2023-03-18) ontvangen gegevens tenminste twee jaar.
 
 ### 4. Eisen aan meetinrichtingen
 
@@ -618,7 +618,7 @@ De niet op afstand uitleesbare kleinverbruikmeetinrichting geeft de tellerstande
 
 ##### 4.2.1.2
 
-Indien bij een aansluiting kleiner dan of gelijk aan 3x80A op laagspanningsniveau op het moment van inwerkingtreding van deze bepaling een Ferrarismeter met of zonder terugloopblokkering dan wel een elektronische éénrichtingmeter aanwezig is, en er op de desbetreffende aansluiting op enig moment sprake is van zowel levering als teruglevering van elektriciteit, is het, in afwijking van [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2022-10-25&g=2022-10-25), toegestaan deze Ferrarismeter met of zonder terugloopblokkering dan wel een elektronische meetinrichting geschikt voor één richting toe te passen tot het moment dat de desbetreffende meetinrichting vervangen wordt.
+Indien bij een aansluiting kleiner dan of gelijk aan 3x80A op laagspanningsniveau op het moment van inwerkingtreding van deze bepaling een Ferrarismeter met of zonder terugloopblokkering dan wel een elektronische éénrichtingmeter aanwezig is, en er op de desbetreffende aansluiting op enig moment sprake is van zowel levering als teruglevering van elektriciteit, is het, in afwijking van [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2023-03-18&g=2023-03-18), toegestaan deze Ferrarismeter met of zonder terugloopblokkering dan wel een elektronische meetinrichting geschikt voor één richting toe te passen tot het moment dat de desbetreffende meetinrichting vervangen wordt.
 
 #### 4.2.2. Eisen aan op afstand uitleesbare kleinverbruikmeetinrichtingen
 
@@ -662,11 +662,11 @@ Indien de meetinrichting zich niet op het overdrachtspunt van de aansluiting bev
 
 ##### 4.3.2.1
 
-Bij nieuw aan te leggen aansluitingen voldoet het primaire deel van de meetinrichting aan de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2022-10-25&g=2022-10-25).
+Bij nieuw aan te leggen aansluitingen voldoet het primaire deel van de meetinrichting aan de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2023-03-18&g=2023-03-18).
 
 ##### 4.3.2.2
 
-Bij bestaande aansluitingen voldoet het primaire deel van de meetinrichting aan de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2022-10-25&g=2022-10-25), tenzij tussen de netbeheerder en de aangeslotene en/of de meetverantwoordelijke anders is overeengekomen.
+Bij bestaande aansluitingen voldoet het primaire deel van de meetinrichting aan de eisen gesteld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2023-03-18&g=2023-03-18), tenzij tussen de netbeheerder en de aangeslotene en/of de meetverantwoordelijke anders is overeengekomen.
 
 ##### 4.3.2.3
 
@@ -724,7 +724,7 @@ De beheerder van het primaire deel van de meetinrichting meldt de aangeslotene e
 
 ##### 4.3.2.9
 
-Tussen de in [4.3.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.8&z=2022-10-25&g=2022-10-25) bedoelde melding en de daadwerkelijke verwisseling verstrijkt ten minste een periode van tien werkdagen. De meetverantwoordelijke gaat na of de voorgenomen verwisseling een aanpassing van de meetinrichting noodzakelijk maakt. Mocht dit het geval zijn, dan spreekt de meetverantwoordelijke, uiterlijk de vijfde werkdag na de in 4.3.2.8 bedoelde melding, zo nodig een latere datum af waarop de meettransformatoren worden verwisseld en tegelijkertijd de meetinrichting wordt aangepast.
+Tussen de in [4.3.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.3.2.8&z=2023-03-18&g=2023-03-18) bedoelde melding en de daadwerkelijke verwisseling verstrijkt ten minste een periode van tien werkdagen. De meetverantwoordelijke gaat na of de voorgenomen verwisseling een aanpassing van de meetinrichting noodzakelijk maakt. Mocht dit het geval zijn, dan spreekt de meetverantwoordelijke, uiterlijk de vijfde werkdag na de in 4.3.2.8 bedoelde melding, zo nodig een latere datum af waarop de meettransformatoren worden verwisseld en tegelijkertijd de meetinrichting wordt aangepast.
 
 ##### 4.3.2.10
 
@@ -806,21 +806,21 @@ De meetverantwoordelijke legt, voor zover van toepassing, de volgende gegevens v
 
 - r. de gegevens met betrekking tot het ontwerp en de structuur van de meetinrichting;
 
-- s. de wijze waarop de systematische (steekproefsgewijze) periodieke controle van in gebruik zijnde meters conform [1.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.1&artikel=1.2.1.1&z=2022-10-25&g=2022-10-25) wordt uitgevoerd;
+- s. de wijze waarop de systematische (steekproefsgewijze) periodieke controle van in gebruik zijnde meters conform [1.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.1&artikel=1.2.1.1&z=2023-03-18&g=2023-03-18) wordt uitgevoerd;
 
 - t. de naam van de aangeslotene met wie de aansluit- en transportovereenkomst is gesloten, alsmede de adresgegevens, zijnde straatnaam, huisnummer met eventuele toevoegingen, postcode en plaatsnaam of eventuele alternatieve locatieaanduidingen, behorend bij het overdrachtspunt van de aansluiting.
 
 ##### 4.3.3.2
 
-De meetverantwoordelijke verstrekt de netbeheerder van wiens net de desbetreffende aansluiting deel uitmaakt op diens verzoek de onder [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2022-10-25&g=2022-10-25) sub a tot en met c genoemde gegevens uit het meterregister, voor zover deze gegevens nodig zijn voor de door de netbeheerder in rekening te brengen tarieven.
+De meetverantwoordelijke verstrekt de netbeheerder van wiens net de desbetreffende aansluiting deel uitmaakt op diens verzoek de onder [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2023-03-18&g=2023-03-18) sub a tot en met c genoemde gegevens uit het meterregister, voor zover deze gegevens nodig zijn voor de door de netbeheerder in rekening te brengen tarieven.
 
 ##### 4.3.3.3
 
-De in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2022-10-25&g=2022-10-25) genoemde gegevens in het meterregister kunnen desgevraagd worden ingezien door de netbeheerder van het landelijk hoogspanningsnet.
+De in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2023-03-18&g=2023-03-18) genoemde gegevens in het meterregister kunnen desgevraagd worden ingezien door de netbeheerder van het landelijk hoogspanningsnet.
 
 ##### 4.3.3.4
 
-Bij beëindiging van de beheerovereenkomst met de meetverantwoordelijke, bewaart de meetverantwoordelijke de gegevens zoals bedoeld in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2022-10-25&g=2022-10-25) nog ten minste drie jaar.
+Bij beëindiging van de beheerovereenkomst met de meetverantwoordelijke, bewaart de meetverantwoordelijke de gegevens zoals bedoeld in [4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2023-03-18&g=2023-03-18) nog ten minste drie jaar.
 
 #### 4.3.4. Eisen aan profielgrootverbruikmeetinrichtingen en productiemeetinrichtingen
 
@@ -830,7 +830,7 @@ De profielgrootverbruikmeetinrichting registreert:
 
 - a. de tellerstanden voor één of twee telwerken (normaaltelwerk en laagtelwerk of in geval van een meetinrichting met één telwerk: enkeltelwerk) per energierichting met bijbehorende vermenigvuldigingsfactoren;
 
-- b. indien dit volgens [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.5&z=2022-10-25&g=2022-10-25) van toepassing is, de kWmax binnen de gespecificeerde periode (kW).
+- b. indien dit volgens [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.5&z=2023-03-18&g=2023-03-18) van toepassing is, de kWmax binnen de gespecificeerde periode (kW).
 
 ##### 4.3.4.2
 
@@ -846,13 +846,13 @@ Een telemetriegrootverbruikmeetinrichting registreert:
 
 - b. de totale hoeveelheid met het net uitgewisselde energie op één of twee telwerk(en) (enkeltarief respectievelijk normaaltarief en laagtarief) met bijbehorende vermenigvuldigingsfactoren;
 
-- c. indien dit volgens [2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.3&z=2022-10-25&g=2022-10-25) en [2.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2022-10-25&g=2022-10-25) van toepassing is, het aantal kvarh per maand.
+- c. indien dit volgens [2.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.3&z=2023-03-18&g=2023-03-18) en [2.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2023-03-18&g=2023-03-18) van toepassing is, het aantal kvarh per maand.
 
-- d. indien dit volgens [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.5&z=2022-10-25&g=2022-10-25) van toepassing is, de kWmax.
+- d. indien dit volgens [2.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.5&z=2023-03-18&g=2023-03-18) van toepassing is, de kWmax.
 
 ##### 4.3.5.2
 
-Bij de registratie van de in [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2022-10-25&g=2022-10-25) genoemde uitgewisselde energie wordt onderscheid gemaakt naar de energie die de aangeslotene ontvangt en naar de energie die de aangeslotene levert.
+Bij de registratie van de in [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2023-03-18&g=2023-03-18) genoemde uitgewisselde energie wordt onderscheid gemaakt naar de energie die de aangeslotene ontvangt en naar de energie die de aangeslotene levert.
 
 ##### 4.3.5.3
 
@@ -864,65 +864,65 @@ De afwijking van de starttijden en stoptijden van de meetperiode is niet groter 
 
 ##### 4.3.5.5
 
-In afwijking van [4.3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.4&z=2022-10-25&g=2022-10-25) is bij uitval van het synchronisatiesysteem de afwijking van de start- en stoptijden van de meetperiode minder dan tien seconden gedurende een periode van maximaal een week.
+In afwijking van [4.3.5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.4&z=2023-03-18&g=2023-03-18) is bij uitval van het synchronisatiesysteem de afwijking van de start- en stoptijden van de meetperiode minder dan tien seconden gedurende een periode van maximaal een week.
 
 ##### 4.3.5.6
 
-De energie, de blindenergie, het vermogen en het blindvermogen van de meetinrichting worden vastgesteld overeenkomstig de formules genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2022-10-25&g=2022-10-25).
+De energie, de blindenergie, het vermogen en het blindvermogen van de meetinrichting worden vastgesteld overeenkomstig de formules genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2023-03-18&g=2023-03-18).
 
 ##### 4.3.5.7
 
-Bij de registratie van de in [2.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2022-10-25&g=2022-10-25) genoemde blindenergie wordt uitsluitend onderscheid gemaakt tussen het in de zin van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2022-10-25&g=2022-10-25) leveren en ontvangen van blindenergie.
+Bij de registratie van de in [2.4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.4&artikel=2.4.4&z=2023-03-18&g=2023-03-18) genoemde blindenergie wordt uitsluitend onderscheid gemaakt tussen het in de zin van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2023-03-18&g=2023-03-18) leveren en ontvangen van blindenergie.
 
 ##### 4.3.5.8
 
-Het volume dat gebruikt wordt in [artikel 3.9.3 van de Tarievencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037951&artikel=3.9.3) als tariefdrager voor blindenergie wordt bepaald met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2022-10-25&g=2022-10-25) gedefinieerde voorwaarden.
+Het volume dat gebruikt wordt in [artikel 3.9.3 van de Tarievencode elektriciteit](https://wetten.overheid.nl/jci1.3:c:BWBR0037951&artikel=3.9.3) als tariefdrager voor blindenergie wordt bepaald met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=2&z=2023-03-18&g=2023-03-18) gedefinieerde voorwaarden.
 
 #### 4.3.6. Nauwkeurigheidseisen aan meetinrichtingen die niet onder de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) vallen
 
 ##### 4.3.6.1
 
-Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting, de in [B1.1 en B1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden. Dit geldt ook indien de primaire delen van de meetinrichting niet in het overdrachtspunt van de aansluiting zijn geplaatst.
+Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting, de in [B1.1 en B1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden. Dit geldt ook indien de primaire delen van de meetinrichting niet in het overdrachtspunt van de aansluiting zijn geplaatst.
 
 ##### 4.3.6.2
 
-Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting ten behoeve van een productie-installatie niet de in [B1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
+Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting ten behoeve van een productie-installatie niet de in [B1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
 
 ##### 4.3.6.3
 
-Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting aangesloten via stroomstransformatoren de in [B1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting aangesloten via stroomstransformatoren de in [B1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.4
 
-Ingeval van een aansluiting op laagspanningsniveau met een direct aan te sluiten kWh-meter mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting niet de in [B1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau met een direct aan te sluiten kWh-meter mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting niet de in [B1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
 
 ##### 4.3.6.5
 
-Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting ten behoeve van een productie-installatie niet de in [B1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een voor de eerste maal in gebruik te nemen meetinrichting ten behoeve van een productie-installatie niet de in [B1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking overschrijden.
 
 ##### 4.3.6.6
 
-Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting, de in [B1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) en [B1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden. Dit geldt ook indien de primaire delen van de meetinrichting niet in het overdrachtspunt van de aansluiting zijn geplaatst.
+Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting, de in [B1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) en [B1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden. Dit geldt ook indien de primaire delen van de meetinrichting niet in het overdrachtspunt van de aansluiting zijn geplaatst.
 
 ##### 4.3.6.7
 
-Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting ten behoeve van een productie-installatie de in [B1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op hoogspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting ten behoeve van een productie-installatie de in [B1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.8
 
-Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting die is aangesloten via stroomstransformatoren de in [B1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting die is aangesloten via stroomstransformatoren de in [B1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.9
 
-Ingeval van een aansluiting op laagspanningsniveau met een direct aan te sluiten kWh-meter mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting de in [B1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau met een direct aan te sluiten kWh-meter mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting de in [B1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.10
 
-Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting ten behoeve van een productie-installatie de in [B1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
+Ingeval van een aansluiting op laagspanningsniveau mag de maximaal toelaatbare afwijking van een in gebruik zijnde meetinrichting ten behoeve van een productie-installatie de in [B1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijden.
 
 ##### 4.3.6.11
 
-De in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking gelden onder de volgende omstandigheden:
+De in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking gelden onder de volgende omstandigheden:
 
 - a. de temperatuur in de ruimte waarin de kWh-meter(s) en eventuele kvarh-meter(s) zich bevinden is niet lager dan -10 °C en niet hoger dan 45 °C;
 
@@ -932,37 +932,37 @@ De in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037
 
 ##### 4.3.6.12
 
-Bij aansluitingen op laagspanningsniveau is de in [onderdeel c van artikel 4.3.6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2022-10-25&g=2022-10-25) genoemde nominale waarde van de netspanning 230 V.
+Bij aansluitingen op laagspanningsniveau is de in [onderdeel c van artikel 4.3.6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2023-03-18&g=2023-03-18) genoemde nominale waarde van de netspanning 230 V.
 
 ##### 4.3.6.13
 
-Bij aansluitingen op hoogspanningsniveau is de in [onderdeel c van artikel 4.3.6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.11&z=2022-10-25&g=2022-10-25) genoemde nominale waarde van de netspanning de door de netbeheerder toegekende spanning Uc.
+Bij aansluitingen op hoogspanningsniveau is de in [onderdeel c van artikel 4.3.6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.11&z=2023-03-18&g=2023-03-18) genoemde nominale waarde van de netspanning de door de netbeheerder toegekende spanning Uc.
 
 ##### 4.3.6.14
 
-Op verzoek van de netbeheerder van het landelijk hoogspanningsnet toont de meetverantwoordelijke aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijdt met dien verstande dat:
+Op verzoek van de netbeheerder van het landelijk hoogspanningsnet toont de meetverantwoordelijke aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijdt met dien verstande dat:
 
-- a. aan het bepaalde in [4.3.6.1 tot en met 4.3.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2022-10-25&g=2022-10-25) is voldaan indien de meetinrichting is ontworpen en geïnstalleerd overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2022-10-25&g=2022-10-25);
+- a. aan het bepaalde in [4.3.6.1 tot en met 4.3.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2023-03-18&g=2023-03-18) is voldaan indien de meetinrichting is ontworpen en geïnstalleerd overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2023-03-18&g=2023-03-18);
 
-- b. aan het bepaalde in [4.3.6.6 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.6&z=2022-10-25&g=2022-10-25) is voldaan indien de meetinrichting is gecontroleerd overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2022-10-25&g=2022-10-25).
+- b. aan het bepaalde in [4.3.6.6 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.6&z=2023-03-18&g=2023-03-18) is voldaan indien de meetinrichting is gecontroleerd overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=3&z=2023-03-18&g=2023-03-18).
 
 ##### 4.3.6.15
 
-In andere dan de in [4.3.6.14, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.14&z=2022-10-25&g=2022-10-25), genoemde gevallen, toont de meetverantwoordelijke op andere wijze aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2022-10-25&g=2022-10-25) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijdt.
+In andere dan de in [4.3.6.14, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.14&z=2023-03-18&g=2023-03-18), genoemde gevallen, toont de meetverantwoordelijke op andere wijze aan dat de maximaal toelaatbare afwijking van de meetinrichting de in [4.3.6.1 tot en met 4.3.6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.3.6.1&z=2023-03-18&g=2023-03-18) genoemde waarden voor de maximaal toelaatbare afwijking niet overschrijdt.
 
 #### 4.3.7. Storingen in de grootverbruikmeetinrichting
 
 ##### 4.3.7.1
 
-Een storing in de meetinrichting bij de meting of bij de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2022-10-25&g=2022-10-25) bedoelde gegevensoverdracht dient zo spoedig mogelijk, doch binnen twee werkdagen nadat de storing is opgemerkt, verholpen te zijn.
+Een storing in de meetinrichting bij de meting of bij de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&z=2023-03-18&g=2023-03-18) bedoelde gegevensoverdracht dient zo spoedig mogelijk, doch binnen twee werkdagen nadat de storing is opgemerkt, verholpen te zijn.
 
 ##### 4.3.7.2
 
-Een storing als bedoeld in [4.3.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.1&z=2022-10-25&g=2022-10-25) bij uitval van hetzij de hoofdmeting hetzij de controlemeting in een meetinrichting die geheel of gedeeltelijk dubbel is uitgevoerd dient zo spoedig mogelijk, doch binnen drie werkdagen nadat zij is opgemerkt, verholpen te zijn.
+Een storing als bedoeld in [4.3.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.1&z=2023-03-18&g=2023-03-18) bij uitval van hetzij de hoofdmeting hetzij de controlemeting in een meetinrichting die geheel of gedeeltelijk dubbel is uitgevoerd dient zo spoedig mogelijk, doch binnen drie werkdagen nadat zij is opgemerkt, verholpen te zijn.
 
 ##### 4.3.7.3
 
-Indien, in afwijking van [4.3.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.1&z=2022-10-25&g=2022-10-25) en [4.3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.2&z=2022-10-25&g=2022-10-25), een oplossing binnen de in 4.3.7.1 respectievelijk 4.3.7.2 genoemde termijn niet mogelijk is, ontvangen de aangeslotene en de netbeheerder binnen twee werkdagen bericht binnen welke termijn de storing zal zijn verholpen.
+Indien, in afwijking van [4.3.7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.1&z=2023-03-18&g=2023-03-18) en [4.3.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7&artikel=4.3.7.2&z=2023-03-18&g=2023-03-18), een oplossing binnen de in 4.3.7.1 respectievelijk 4.3.7.2 genoemde termijn niet mogelijk is, ontvangen de aangeslotene en de netbeheerder binnen twee werkdagen bericht binnen welke termijn de storing zal zijn verholpen.
 
 ##### 4.3.7.4
 
@@ -974,7 +974,7 @@ Storingen in het primaire deel van de meetinrichting worden door de meetverantwo
 
 ##### 4.3.7.6
 
-Indien het voor het verhelpen van een storing nodig is dat een medewerker van de meetverantwoordelijke wordt begeleid door een bevoegde medewerker van de netbeheerder, geldt hiervoor in aanvulling tot hetgeen is bepaald in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2022-10-25&g=2022-10-25), dat het verzoek om begeleiding binnen één werkdag wordt gehonoreerd.
+Indien het voor het verhelpen van een storing nodig is dat een medewerker van de meetverantwoordelijke wordt begeleid door een bevoegde medewerker van de netbeheerder, geldt hiervoor in aanvulling tot hetgeen is bepaald in [4.3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.1&artikel=4.3.1.1&z=2023-03-18&g=2023-03-18), dat het verzoek om begeleiding binnen één werkdag wordt gehonoreerd.
 
 ### 5. Meetgegevensverzameling
 
@@ -982,59 +982,59 @@ Indien het voor het verhelpen van een storing nodig is dat een medewerker van de
 
 ##### 5.1.1
 
-Ten minste eenmaal in de 36 maanden bepaalt de netbeheerder bij niet op afstand uitleesbare kleinverbruikmeetinrichtingen alsmede bij op afstand uitleesbare meetinrichtingen die administratief uitstaan de in [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2022-10-25&g=2022-10-25) bedoelde meetgegevens door middel van aflezing op de meetinrichting bij de aangeslotene.
+Ten minste eenmaal in de 36 maanden bepaalt de netbeheerder bij niet op afstand uitleesbare kleinverbruikmeetinrichtingen alsmede bij op afstand uitleesbare meetinrichtingen die administratief uitstaan de in [4.2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.1&artikel=4.2.1.1&z=2023-03-18&g=2023-03-18) bedoelde meetgegevens door middel van aflezing op de meetinrichting bij de aangeslotene.
 
 ##### 5.1.2
 
-De in [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2022-10-25&g=2022-10-25) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
+De in [5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.1&artikel=5.1.1&z=2023-03-18&g=2023-03-18) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
 
 #### 5.1. Meetgegevensverzameling bij kleinverbruikmeetinrichtingen
 
 ##### 5.2.1
 
-Tenminste eenmaal per maand, tussen de vijfde werkdag voor en de vijfde werkdag na de maandwisseling bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op aansluitingen met een doorlaatwaarde groter dan 3x80A en bij productiemeetinrichtingen de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2022-10-25&g=2022-10-25) en [4.3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.2&z=2022-10-25&g=2022-10-25) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
+Tenminste eenmaal per maand, tussen de vijfde werkdag voor en de vijfde werkdag na de maandwisseling bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op aansluitingen met een doorlaatwaarde groter dan 3x80A en bij productiemeetinrichtingen de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2023-03-18&g=2023-03-18) en [4.3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.2&z=2023-03-18&g=2023-03-18) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
 
 ##### 5.2.2
 
-Ten minste eenmaal per jaar, in de zes weken voorafgaande aan de maand die op grond van [2.1.5 onderdeel b, van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=2.1.5) is opgenomen in het aansluitingenregister, bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op aansluitingen met een doorlaatwaarde kleiner dan of gelijk aan 3x80A de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2022-10-25&g=2022-10-25) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
+Ten minste eenmaal per jaar, in de zes weken voorafgaande aan de maand die op grond van [2.1.5 onderdeel b, van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&artikel=2.1.5) is opgenomen in het aansluitingenregister, bepaalt de meetverantwoordelijke bij profielgrootverbruikmeetinrichtingen op aansluitingen met een doorlaatwaarde kleiner dan of gelijk aan 3x80A de in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2023-03-18&g=2023-03-18) bedoelde meetgegevens en slaat deze op in niet-vluchtige databuffers.
 
 ##### 5.2.3
 
-Indien een aangeslotene met een aansluiting groter dan 3x80A en met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, geschiedt uitlezing van de meetinrichtingen zoals bedoeld in [2.1.1 sub b en c van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2022-10-25&g=2022-10-25), zoals bedoeld in artikel 3, lid 1 van de Regeling garanties van oorsprong respectievelijk van de Regeling certificaten warmtekrachtkoppeling uiterlijk de eerste werkdag van de maand, waarbij de tijd tussen het uitlezen van de eerste en van de laatste van toepassing zijnde meetinrichting maximaal drie uur bedraagt.
+Indien een aangeslotene met een aansluiting groter dan 3x80A en met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, geschiedt uitlezing van de meetinrichtingen zoals bedoeld in [2.1.1 sub b en c van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2023-03-18&g=2023-03-18), zoals bedoeld in artikel 3, lid 1 van de Regeling garanties van oorsprong respectievelijk van de Regeling certificaten warmtekrachtkoppeling uiterlijk de eerste werkdag van de maand, waarbij de tijd tussen het uitlezen van de eerste en van de laatste van toepassing zijnde meetinrichting maximaal drie uur bedraagt.
 
 ##### 5.2.4
 
-Indien een aangeslotene met een aansluiting kleiner dan of gelijk aan 3x80A en met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, geschiedt uitlezing van de meetinrichting(en) bedoeld in [2.1.1 sub b en c van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2022-10-25&g=2022-10-25) zoals bedoeld in artikel 3, lid 1 van de Regeling garanties van oorsprong respectievelijk de Regeling certificaten warmtekrachtkoppeling voor zover van toepassing tegelijk met de jaarlijkse bepaling van de meterstand zoals bedoeld in [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2022-10-25&g=2022-10-25), waarbij de tijd tussen het uitlezen van de eerste en van de laatste van toepassing zijnde meetinrichting maximaal drie uur bedraagt.
+Indien een aangeslotene met een aansluiting kleiner dan of gelijk aan 3x80A en met een productie-installatie voor duurzame of wkk-elektriciteit in aanmerking wenst te komen voor garanties van oorsprong respectievelijk wkk-certificaten voor niet-netlevering, geschiedt uitlezing van de meetinrichting(en) bedoeld in [2.1.1 sub b en c van deze code](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2023-03-18&g=2023-03-18) zoals bedoeld in artikel 3, lid 1 van de Regeling garanties van oorsprong respectievelijk de Regeling certificaten warmtekrachtkoppeling voor zover van toepassing tegelijk met de jaarlijkse bepaling van de meterstand zoals bedoeld in [5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.2&z=2023-03-18&g=2023-03-18), waarbij de tijd tussen het uitlezen van de eerste en van de laatste van toepassing zijnde meetinrichting maximaal drie uur bedraagt.
 
 ##### 5.2.5
 
-De in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2022-10-25&g=2022-10-25) bedoelde bepaling van de meetgegevens vindt in de regel plaats door uit- of aflezing van de meetinrichting door de meetverantwoordelijke. De meetverantwoordelijke kan van de aangeslotene verlangen dat de aangeslotene zelf de tellerstand opneemt en deze tellerstand op een door de meetverantwoordelijke te bepalen wijze en binnen een door de meetverantwoordelijke aangegeven termijn ter kennis van de meetverantwoordelijke brengt.
+De in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2023-03-18&g=2023-03-18) bedoelde bepaling van de meetgegevens vindt in de regel plaats door uit- of aflezing van de meetinrichting door de meetverantwoordelijke. De meetverantwoordelijke kan van de aangeslotene verlangen dat de aangeslotene zelf de tellerstand opneemt en deze tellerstand op een door de meetverantwoordelijke te bepalen wijze en binnen een door de meetverantwoordelijke aangegeven termijn ter kennis van de meetverantwoordelijke brengt.
 
 ##### 5.2.6
 
-Indien de meetverantwoordelijke redelijkerwijs niet in staat is de tellerstand van de meetinrichting uit of af te lezen of de aangeslotene niet heeft voldaan aan het verlangen van de meetverantwoordelijke, zoals beschreven in [5.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.5&z=2022-10-25&g=2022-10-25), maakt de meetverantwoordelijke een schatting van de tellerstand(en).
+Indien de meetverantwoordelijke redelijkerwijs niet in staat is de tellerstand van de meetinrichting uit of af te lezen of de aangeslotene niet heeft voldaan aan het verlangen van de meetverantwoordelijke, zoals beschreven in [5.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.5&z=2023-03-18&g=2023-03-18), maakt de meetverantwoordelijke een schatting van de tellerstand(en).
 
 ##### 5.2.7
 
-Ten minste eenmaal in de 36 maanden bepaalt de meetverantwoordelijke de meetgegevens genoemd in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2022-10-25&g=2022-10-25) door aflezing op de meetinrichting bij de aangeslotene en slaat deze op in niet-vluchtige databuffers.
+Ten minste eenmaal in de 36 maanden bepaalt de meetverantwoordelijke de meetgegevens genoemd in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2023-03-18&g=2023-03-18) door aflezing op de meetinrichting bij de aangeslotene en slaat deze op in niet-vluchtige databuffers.
 
 ##### 5.2.8
 
-Kennisneming van de in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2022-10-25&g=2022-10-25) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2022-10-25&g=2022-10-25) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
+Kennisneming van de in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2023-03-18&g=2023-03-18) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2023-03-18&g=2023-03-18) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
 
 ##### 5.2.9
 
-De in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2022-10-25&g=2022-10-25) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2022-10-25&g=2022-10-25) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
+De in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2023-03-18&g=2023-03-18) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2023-03-18&g=2023-03-18) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
 
 ##### 5.2.10
 
-De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2022-10-25&g=2022-10-25) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2022-10-25&g=2022-10-25) gedurende een periode van drie jaar.
+De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.2.1 tot en met 5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2023-03-18&g=2023-03-18) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2023-03-18&g=2023-03-18) gedurende een periode van drie jaar.
 
 #### 5.3. Meetgegevensverzameling bij telemetriegrootverbruikmeetinrichtingen
 
 ##### 5.3.1
 
-De meetverantwoordelijke verzamelt de in [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2022-10-25&g=2022-10-25) genoemde meetgegevens dagelijks op elektronische wijze op een zodanige wijze dat de resolutie van de meetgegevens daardoor niet wordt beïnvloed en slaat deze op in niet-vluchtige databuffers.
+De meetverantwoordelijke verzamelt de in [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2023-03-18&g=2023-03-18) genoemde meetgegevens dagelijks op elektronische wijze op een zodanige wijze dat de resolutie van de meetgegevens daardoor niet wordt beïnvloed en slaat deze op in niet-vluchtige databuffers.
 
 ##### 5.3.2
 
@@ -1042,23 +1042,23 @@ In geval van een aansluiting met een aansluitcapaciteit groter dan 1 MVA, neemt 
 
 ##### 5.3.3
 
-In afwijking van [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2022-10-25&g=2022-10-25) worden, indien sprake is van overdracht van meetgegevens met behulp van pulsen, de maandelijkse tellerstanden door de meetverantwoordelijke berekend op basis van deze pulsen.
+In afwijking van [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2023-03-18&g=2023-03-18) worden, indien sprake is van overdracht van meetgegevens met behulp van pulsen, de maandelijkse tellerstanden door de meetverantwoordelijke berekend op basis van deze pulsen.
 
 ##### 5.3.4
 
-Indien [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2022-10-25&g=2022-10-25) van toepassing is, worden tenminste eenmaal per zes maanden de tellerstanden bepaald door het ter plaatse uit- of aflezen van de meetinrichting door de meetverantwoordelijke en worden de berekende tellerstanden gecorrigeerd op basis van de uit- of afgelezen tellerstanden.
+Indien [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2023-03-18&g=2023-03-18) van toepassing is, worden tenminste eenmaal per zes maanden de tellerstanden bepaald door het ter plaatse uit- of aflezen van de meetinrichting door de meetverantwoordelijke en worden de berekende tellerstanden gecorrigeerd op basis van de uit- of afgelezen tellerstanden.
 
 ##### 5.3.5
 
-Kennisneming van de in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2022-10-25&g=2022-10-25), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2022-10-25&g=2022-10-25) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2022-10-25&g=2022-10-25) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
+Kennisneming van de in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2023-03-18&g=2023-03-18), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2023-03-18&g=2023-03-18) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2023-03-18&g=2023-03-18) bedoelde meetgegevens is voorbehouden aan die partijen die daartoe op grond van deze code, wetgeving en/of rechtsgeldig gesloten overeenkomsten zijn gerechtigd.
 
 ##### 5.3.6
 
-De in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2022-10-25&g=2022-10-25), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2022-10-25&g=2022-10-25) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2022-10-25&g=2022-10-25) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
+De in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2023-03-18&g=2023-03-18), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2023-03-18&g=2023-03-18) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2023-03-18&g=2023-03-18) bedoelde meetgegevens zijn beveiligd tegen wijziging ervan.
 
 ##### 5.3.7
 
-De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2022-10-25&g=2022-10-25), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2022-10-25&g=2022-10-25) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2022-10-25&g=2022-10-25) gedurende een periode van drie jaar.
+De meetverantwoordelijke bewaart de meetgegevens bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2023-03-18&g=2023-03-18), [5.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.3&z=2023-03-18&g=2023-03-18) en [5.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.4&z=2023-03-18&g=2023-03-18) gedurende een periode van drie jaar.
 
 #### 5.4. Storingen in de gegevensverwerking bij telemetriegrootverbruikmeetinrichtingen
 
@@ -1090,7 +1090,7 @@ Indien er op een dag meetgegevens ontbreken over een aaneengesloten periode van 
 
 ##### 5.4.3.3
 
-De meetverantwoordelijke berekent ontbrekende meetgegevens in geval van grotere hiaten in de meetgegevens dan twaalf kwartieren of bij het ontbreken van een belastingcurve van een vergelijkbare dag overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=5&z=2022-10-25&g=2022-10-25).
+De meetverantwoordelijke berekent ontbrekende meetgegevens in geval van grotere hiaten in de meetgegevens dan twaalf kwartieren of bij het ontbreken van een belastingcurve van een vergelijkbare dag overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=5&z=2023-03-18&g=2023-03-18).
 
 ##### 5.4.3.4
 
@@ -1098,11 +1098,11 @@ Reparatie van meetgegevens over perioden langer dan een dag zal bij meetinrichti
 
 ##### 5.4.3.5
 
-De meetverantwoordelijke registreert alle reparaties die conform [5.4.3.1 tot en met 5.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2022-10-25&g=2022-10-25) zijn uitgevoerd en verstrekt de aangeslotene en de netbeheerder desgevraagd een rapportage over deze reparaties.
+De meetverantwoordelijke registreert alle reparaties die conform [5.4.3.1 tot en met 5.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2023-03-18&g=2023-03-18) zijn uitgevoerd en verstrekt de aangeslotene en de netbeheerder desgevraagd een rapportage over deze reparaties.
 
 ##### 5.4.3.6
 
-Desgevraagd geeft de meetverantwoordelijke aan de netbeheerder van het landelijk hoogspanningsnet inzage in de registratie met betrekking tot de onder punt [5.4.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.5&z=2022-10-25&g=2022-10-25) genoemde reparaties.
+Desgevraagd geeft de meetverantwoordelijke aan de netbeheerder van het landelijk hoogspanningsnet inzage in de registratie met betrekking tot de onder punt [5.4.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.5&z=2023-03-18&g=2023-03-18) genoemde reparaties.
 
 ##### 5.4.3.7
 
@@ -1188,11 +1188,11 @@ Indien er zich situaties voordoen die niet zijn voorzien in de bepalingen van de
 
 ##### 6.3.1
 
-De netbeheerder beslist na overleg met de aangeslotene over de toelaatbaarheid van een bestaande meetinrichting die voor de inwerkingtreding van deze code is geïnstalleerd en die niet aan de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2022-10-25&g=2022-10-25) genoemde eisen voldoet. Indien de bestaande meetinrichting geheel of gedeeltelijk niet toelaatbaar wordt geoordeeld en als het wijzigen van het secundaire gedeelte van de meetinrichting teneinde aan de eisen genoemd in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2022-10-25&g=2022-10-25) te voldoen alleen economisch zinvol of technisch mogelijk is in combinatie met de aanpassing van het primaire deel van de meetinrichting, dient het secundaire gedeelte uiterlijk tegelijk met het primaire gedeelte te worden aangepast.
+De netbeheerder beslist na overleg met de aangeslotene over de toelaatbaarheid van een bestaande meetinrichting die voor de inwerkingtreding van deze code is geïnstalleerd en die niet aan de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2023-03-18&g=2023-03-18) genoemde eisen voldoet. Indien de bestaande meetinrichting geheel of gedeeltelijk niet toelaatbaar wordt geoordeeld en als het wijzigen van het secundaire gedeelte van de meetinrichting teneinde aan de eisen genoemd in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&z=2023-03-18&g=2023-03-18) te voldoen alleen economisch zinvol of technisch mogelijk is in combinatie met de aanpassing van het primaire deel van de meetinrichting, dient het secundaire gedeelte uiterlijk tegelijk met het primaire gedeelte te worden aangepast.
 
 ##### 6.3.2
 
-In afwijking van [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2022-10-25&g=2022-10-25) is een meetperiode van 30 minuten toegestaan indien de meetinrichting geplaatst is tussen 12 april 2000 en 1 maart 2004 bij een aansluiting met een gecontracteerd transportvermogen van 0,1 tot 1 MW. In dit geval herleidt de meetverantwoordelijke de meetgegevens zoals bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2022-10-25&g=2022-10-25) naar 15 minutenwaarden door voor elke betreffende aangeslotene per meetperiode van 30 minuten de 15 minutenwaarden voor de twee 15 minutenperioden binnen die 30 minuten uit te rekenen door te delen door 2.
+In afwijking van [4.3.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2023-03-18&g=2023-03-18) is een meetperiode van 30 minuten toegestaan indien de meetinrichting geplaatst is tussen 12 april 2000 en 1 maart 2004 bij een aansluiting met een gecontracteerd transportvermogen van 0,1 tot 1 MW. In dit geval herleidt de meetverantwoordelijke de meetgegevens zoals bedoeld in [5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2023-03-18&g=2023-03-18) naar 15 minutenwaarden door voor elke betreffende aangeslotene per meetperiode van 30 minuten de 15 minutenwaarden voor de twee 15 minutenperioden binnen die 30 minuten uit te rekenen door te delen door 2.
 
 ##### 6.3.3
 
@@ -2052,15 +2052,15 @@ Indien de spanningstransformatoren of stroomtransformatoren meer dan één overz
 
 B3.3.2.13
 
-De meetverantwoordelijke controleert of de overzettingen van de spannings- en stroomtransformatoren overeenstemmen met de gegevens hieromtrent opgenomen in de technische administratie genoemd in [artikel 4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2022-10-25&g=2022-10-25) van deze code en overeenstemmen met de gegevens gebruikt voor de verrekening.
+De meetverantwoordelijke controleert of de overzettingen van de spannings- en stroomtransformatoren overeenstemmen met de gegevens hieromtrent opgenomen in de technische administratie genoemd in [artikel 4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2023-03-18&g=2023-03-18) van deze code en overeenstemmen met de gegevens gebruikt voor de verrekening.
 
 B3.3.2.14
 
-De meetverantwoordelijke controleert of de meetinrichting overeenkomstig [paragraaf 4.1.2.1 tot en met 4.1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2022-10-25&g=2022-10-25) van deze code is verzegeld.
+De meetverantwoordelijke controleert of de meetinrichting overeenkomstig [paragraaf 4.1.2.1 tot en met 4.1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.1&sub-paragraaf=4.1.2&artikel=4.1.2.1&z=2023-03-18&g=2023-03-18) van deze code is verzegeld.
 
 B3.3.2.15
 
-De meetverantwoordelijke controleert of de meting geschiedt overeenkomstig het bepaalde in [4.3.5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.8&z=2022-10-25&g=2022-10-25) en [4.3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.2&z=2022-10-25&g=2022-10-25) van deze code.
+De meetverantwoordelijke controleert of de meting geschiedt overeenkomstig het bepaalde in [4.3.5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.8&z=2023-03-18&g=2023-03-18) en [4.3.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.2&z=2023-03-18&g=2023-03-18) van deze code.
 
 B3.3.2.16
 
@@ -2068,7 +2068,7 @@ De meetverantwoordelijke controleert of meettransformatoren zijn geaard overeenk
 
 B3.3.2.17
 
-De meetverantwoordelijke controleert of overeenkomstig B3.3.2.18 tot en met B3.3.2.20 de overdracht van de data naar het datacollectiepunt, genoemd in [paragraaf 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2022-10-25&g=2022-10-25) van deze code, foutloos geschiedt.
+De meetverantwoordelijke controleert of overeenkomstig B3.3.2.18 tot en met B3.3.2.20 de overdracht van de data naar het datacollectiepunt, genoemd in [paragraaf 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2023-03-18&g=2023-03-18) van deze code, foutloos geschiedt.
 
 B3.3.2.18
 
@@ -2260,7 +2260,7 @@ De meetverantwoordelijke controleert of aan het bepaalde in B3.2.5.11 is voldaan
 
 B3.4.2.16
 
-De meetverantwoordelijke controleert of de overzettingen van de stroomtransformatoren overeenstemmen met de gegevens hieromtrent opgenomen in de technische administratie van [artikel 4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2022-10-25&g=2022-10-25) van deze code en overeenstemmen met de gegevens gebruikt voor de verrekening.
+De meetverantwoordelijke controleert of de overzettingen van de stroomtransformatoren overeenstemmen met de gegevens hieromtrent opgenomen in de technische administratie van [artikel 4.3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.1&z=2023-03-18&g=2023-03-18) van deze code en overeenstemmen met de gegevens gebruikt voor de verrekening.
 
 B3.4.2.17
 
@@ -2272,7 +2272,7 @@ De meetverantwoordelijke controleert of de meting geschiedt overeenkomstig het b
 
 B3.4.2.19
 
-De meetverantwoordelijke controleert voor zover van toepassing – of overeenkomstig B3.4.2.20 tot en met B3.4.2.22 de overdracht van de data naar het datacollectiepunt, genoemd in [paragraaf 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2022-10-25&g=2022-10-25) van deze code, foutloos geschiedt.
+De meetverantwoordelijke controleert voor zover van toepassing – of overeenkomstig B3.4.2.20 tot en met B3.4.2.22 de overdracht van de data naar het datacollectiepunt, genoemd in [paragraaf 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.1&z=2023-03-18&g=2023-03-18) van deze code, foutloos geschiedt.
 
 B3.4.2.20
 
@@ -2358,7 +2358,7 @@ De gezamenlijke netbeheerders wijzen de instantie aan die alle meterplaatsers er
 
 B4.1.1.2
 
-De erkenning tot meterplaatser is noodzakelijk voor alle personen, behoudens de netbeheerders, die de activiteiten uitvoeren zoals beschreven in [1.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.2&artikel=1.2.2.1&z=2022-10-25&g=2022-10-25).
+De erkenning tot meterplaatser is noodzakelijk voor alle personen, behoudens de netbeheerders, die de activiteiten uitvoeren zoals beschreven in [1.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.2&artikel=1.2.2.1&z=2023-03-18&g=2023-03-18).
 
 De MP-erkenner kan een voorlopige erkenning verlenen voor de duur van zes maanden. Heeft de aanvrager niet binnen deze zes maanden aan het in artikel B4.1.2.5 gestelde voldaan, dan wordt het verzoek om erkenning alsnog afgewezen.
 
@@ -2532,7 +2532,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### 2.6.5
 
-Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond van [artikel 2.9 van de Netcode elektriciteit](onbekend), wijst in afwijking van [artikel 2.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.6&artikel=2.6.4&z=2022-10-25&g=2022-10-25) de aangeslotene een beheerder aan voor het eventueel aanwezige primaire deel van de meetinrichting, als bedoeld in artikel 2.9, onderdeel g, van de Netcode elektriciteit. De aangeslotene draagt er zorg voor dat deze aangewezen beheerder jegens de meetverantwoordelijke voldoet aan de in [paragraaf 4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&z=2022-10-25&g=2022-10-25) van de Meetcode elektriciteit genoemde verplichtingen.
+Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond van [artikel 2.9 van de Netcode elektriciteit](onbekend), wijst in afwijking van [artikel 2.6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.6&artikel=2.6.4&z=2023-03-18&g=2023-03-18) de aangeslotene een beheerder aan voor het eventueel aanwezige primaire deel van de meetinrichting, als bedoeld in artikel 2.9, onderdeel g, van de Netcode elektriciteit. De aangeslotene draagt er zorg voor dat deze aangewezen beheerder jegens de meetverantwoordelijke voldoet aan de in [paragraaf 4.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&z=2023-03-18&g=2023-03-18) van de Meetcode elektriciteit genoemde verplichtingen.
 
 ### 3. Uitrol van op afstand uitleesbare kleinverbruikmeetinrichtingen ten behoeve van kleinverbruikaansluitingen
 
@@ -2566,7 +2566,7 @@ Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond va
 
 ##### 4.3.1.4
 
-Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond van [artikel 2.9 van de Netcode elektriciteit](onbekend) zorgt de op grond van [artikel 2.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.6&artikel=2.6.5&z=2022-10-25&g=2022-10-25) aangewezen beheerder ervoor dat de capaciteit, het ontwerp en de aanleg van de meetinrichting ten behoeve van het secundaire allocatiepunt, met inbegrip van het primaire deel van de meetinrichting, in overeenstemming zijn met de doorlaatwaarde van het betreffende allocatiepunt.
+Indien aan een aansluiting secundaire allocatiepunten zijn toegekend op grond van [artikel 2.9 van de Netcode elektriciteit](onbekend) zorgt de op grond van [artikel 2.6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=2&paragraaf=2.6&artikel=2.6.5&z=2023-03-18&g=2023-03-18) aangewezen beheerder ervoor dat de capaciteit, het ontwerp en de aanleg van de meetinrichting ten behoeve van het secundaire allocatiepunt, met inbegrip van het primaire deel van de meetinrichting, in overeenstemming zijn met de doorlaatwaarde van het betreffende allocatiepunt.
 
 #### 4.3.2. Eisen aan het primaire deel van de meetinrichting
 
@@ -3292,7 +3292,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### 1.2.3.8
 
-In aanvulling op [artikel 1.2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.5&z=2022-10-25&g=2022-10-25) wijzen de aangeslotenen op een offshore-platform met een aansluiting op het net op zee, en de beheerder van het desbetreffende offshore-platform, gezamenlijk één meetverantwoordelijke aan voor alle aansluitingen op het desbetreffende offshore-platform.
+In aanvulling op [artikel 1.2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=1&paragraaf=1.2&sub-paragraaf=1.2.3&artikel=1.2.3.5&z=2023-03-18&g=2023-03-18) wijzen de aangeslotenen op een offshore-platform met een aansluiting op het net op zee, en de beheerder van het desbetreffende offshore-platform, gezamenlijk één meetverantwoordelijke aan voor alle aansluitingen op het desbetreffende offshore-platform.
 
 #### 1.2.4. Beëindiging van de beheerovereenkomst tussen de meetverantwoordelijke en de aangeslotene
 
@@ -3724,7 +3724,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### 4.3.4.3
 
-Op een profielgrootverbruikmeetinrichting geplaatst in het (de) overdrachtspunt(en) van een artikel-1-lid-2-of-3-aansluiting, kleiner dan of gelijk aan 3x80A is [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&z=2022-10-25&g=2022-10-25) met uitzondering van [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&z=2022-10-25&g=2022-10-25) van overeenkomstige toepassing, waarbij in plaats van netbeheerder meetverantwoordelijke dient te worden gelezen.
+Op een profielgrootverbruikmeetinrichting geplaatst in het (de) overdrachtspunt(en) van een artikel-1-lid-2-of-3-aansluiting, kleiner dan of gelijk aan 3x80A is [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&z=2023-03-18&g=2023-03-18) met uitzondering van [4.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.2&sub-paragraaf=4.2.2&z=2023-03-18&g=2023-03-18) van overeenkomstige toepassing, waarbij in plaats van netbeheerder meetverantwoordelijke dient te worden gelezen.
 
 #### 4.3.5. Eisen aan telemetriegrootverbruikmeetinrichtingen
 
@@ -3836,7 +3836,7 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### 4.3.3.5
 
-Onvolkomenheden aan de meetinrichting die leiden tot aanpassing van de onder [4.3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.2&z=2022-10-25&g=2022-10-25) bedoelde gegevens van de meetinrichting alsmede onvolkomenheden met betrekking tot de verzameling van gegevens van de meetinrichting worden binnen vijf werkdagen na constatering door de meetverantwoordelijke gemeld aan de netbeheerder.
+Onvolkomenheden aan de meetinrichting die leiden tot aanpassing van de onder [4.3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.3&artikel=4.3.3.2&z=2023-03-18&g=2023-03-18) bedoelde gegevens van de meetinrichting alsmede onvolkomenheden met betrekking tot de verzameling van gegevens van de meetinrichting worden binnen vijf werkdagen na constatering door de meetverantwoordelijke gemeld aan de netbeheerder.
 
 #### 4.3.4. Eisen aan profielgrootverbruikmeetinrichtingen en productiemeetinrichtingen
 
@@ -3844,7 +3844,7 @@ Onvolkomenheden aan de meetinrichting die leiden tot aanpassing van de onder [4.
 
 ##### 4.3.5.1a
 
-In afwijking van [4.3.5.1, lid a](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2022-10-25&g=2022-10-25) kan de netbeheerder van het landelijk hoogspanningsnet de meetverantwoordelijke voor aangeslotenen die elektrische energie leveren aan de netbeheerder van het landelijk hoogspanningsnet ten behoeve van de systeembalans door middel van ingezette regelvermogen en noodvermogen een meetperiode opleggen die kleiner is dan de onbalansverrekeningsperiode.
+In afwijking van [4.3.5.1, lid a](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.1&z=2023-03-18&g=2023-03-18) kan de netbeheerder van het landelijk hoogspanningsnet de meetverantwoordelijke voor aangeslotenen die elektrische energie leveren aan de netbeheerder van het landelijk hoogspanningsnet ten behoeve van de systeembalans door middel van ingezette regelvermogen en noodvermogen een meetperiode opleggen die kleiner is dan de onbalansverrekeningsperiode.
 
 #### 4.3.6. Nauwkeurigheidseisen aan meetinrichtingen die niet onder de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) vallen
 
@@ -3856,11 +3856,11 @@ In afwijking van [4.3.5.1, lid a](https://wetten.overheid.nl/jci1.3:c:BWBR003794
 
 ##### 5.2.0
 
-De meetverantwoordelijke voorziet de tellerstanden, zoals genoemd in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2022-10-25&g=2022-10-25), van een herkomstindicatie. Desgevraagd geeft de meetverantwoordelijke aan de netbeheerder van het landelijk hoogspanningsnet inzage in de registratie van de meetgegevens en de bijbehorende herkomstindicaties.
+De meetverantwoordelijke voorziet de tellerstanden, zoals genoemd in [4.3.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.3.4.1&z=2023-03-18&g=2023-03-18), van een herkomstindicatie. Desgevraagd geeft de meetverantwoordelijke aan de netbeheerder van het landelijk hoogspanningsnet inzage in de registratie van de meetgegevens en de bijbehorende herkomstindicaties.
 
 ##### 5.2.11
 
-De meetverantwoordelijke valideert de overeenkomstig [5.2.1 tot en met 5.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2022-10-25&g=2022-10-25) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2022-10-25&g=2022-10-25) bepaalde meetgegevens op volledigheid en juistheid aan de hand van de volgende criteria:
+De meetverantwoordelijke valideert de overeenkomstig [5.2.1 tot en met 5.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.1&z=2023-03-18&g=2023-03-18) en [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.7&z=2023-03-18&g=2023-03-18) bepaalde meetgegevens op volledigheid en juistheid aan de hand van de volgende criteria:
 
 - a. de voor de bepaling van de hoeveelheid uitgewisselde energie benodigde tellerstanden zijn beschikbaar;
 
@@ -3870,15 +3870,15 @@ De meetverantwoordelijke valideert de overeenkomstig [5.2.1 tot en met 5.2.5](ht
 
 ##### 5.2.12
 
-Indien de meetgegevens niet voldoen aan de in [5.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.11&z=2022-10-25&g=2022-10-25) genoemde validatiecriteria worden de meetgegevens door de meetverantwoordelijke (opnieuw) af- of uitgelezen of wordt in overleg met de aangeslotene vastgesteld of de gemeten hoeveelheid overeenkomt met de hoeveelheid die zou mogen worden verwacht.
+Indien de meetgegevens niet voldoen aan de in [5.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.11&z=2023-03-18&g=2023-03-18) genoemde validatiecriteria worden de meetgegevens door de meetverantwoordelijke (opnieuw) af- of uitgelezen of wordt in overleg met de aangeslotene vastgesteld of de gemeten hoeveelheid overeenkomt met de hoeveelheid die zou mogen worden verwacht.
 
 ##### 5.2.13
 
-De meetverantwoordelijke stelt de overeenkomstig [5.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.11&z=2022-10-25&g=2022-10-25) valide meetgegevens en de overeenkomstig [5.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.12&z=2022-10-25&g=2022-10-25) bepaalde meetgegevens vast.
+De meetverantwoordelijke stelt de overeenkomstig [5.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.11&z=2023-03-18&g=2023-03-18) valide meetgegevens en de overeenkomstig [5.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.12&z=2023-03-18&g=2023-03-18) bepaalde meetgegevens vast.
 
 ##### 5.2.14
 
-De validatie en vaststelling zoals bedoeld in [5.2.11 tot en met 5.2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.11&z=2022-10-25&g=2022-10-25) vindt plaats uiterlijk de werkdag na de dag van verzameling van meetgegevens.
+De validatie en vaststelling zoals bedoeld in [5.2.11 tot en met 5.2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.2&artikel=5.2.11&z=2023-03-18&g=2023-03-18) vindt plaats uiterlijk de werkdag na de dag van verzameling van meetgegevens.
 
 ##### 5.2.15
 
@@ -3896,7 +3896,7 @@ De meetverantwoordelijke controleert op de dag van de verzameling van de meetgeg
 
 De meetverantwoordelijke valideert de gecollecteerde meetgegevens op de dag van de verzameling van de meetgegevens door de meetverantwoordelijke op juistheid aan de hand van de volgende criteria:
 
-- a. in geval van een hoofdmeting en een controlemeting is het verschil per dag in de hoeveelheid energie gemeten door de hoofdmeting en de controlemeting kleiner dan tweemaal de geldende nauwkeurigheidsklasse van de meetinrichting zoals bepaald in [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2022-10-25&g=2022-10-25) vermenigvuldigd met de daguitwisseling van de hoofdmeter;
+- a. in geval van een hoofdmeting en een controlemeting is het verschil per dag in de hoeveelheid energie gemeten door de hoofdmeting en de controlemeting kleiner dan tweemaal de geldende nauwkeurigheidsklasse van de meetinrichting zoals bepaald in [bijlage B1](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&bijlage=1&z=2023-03-18&g=2023-03-18) vermenigvuldigd met de daguitwisseling van de hoofdmeter;
 
 - b. de gemeten hoeveelheid energie is groter dan of gelijk aan nul;
 
@@ -3904,15 +3904,15 @@ De meetverantwoordelijke valideert de gecollecteerde meetgegevens op de dag van 
 
 - d. de status in de meetinrichting aangaande de meting of de meetwaarde en de status van het meetkanaal geven geen indicatie van een fout;
 
-- e. de tijdsynchroniciteit van de meetinrichting en meetperiode blijft binnen de in [4.3.5.3 tot en met 4.3.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.3&z=2022-10-25&g=2022-10-25) aangegeven normen.
+- e. de tijdsynchroniciteit van de meetinrichting en meetperiode blijft binnen de in [4.3.5.3 tot en met 4.3.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.5&artikel=4.3.5.3&z=2023-03-18&g=2023-03-18) aangegeven normen.
 
 ##### 5.3.10
 
-De meetverantwoordelijke berekent de op grond van [5.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.9&z=2022-10-25&g=2022-10-25) niet-valide meetgegevens overeenkomstig [5.4.3.1 tot en met 5.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2022-10-25&g=2022-10-25). Alle op grond van [paragraaf 5.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&z=2022-10-25&g=2022-10-25) berekende meetgegevens worden (nogmaals) overeenkomstig [5.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.8&z=2022-10-25&g=2022-10-25) en 5.3.9 gevalideerd alvorens deze als definitief worden vastgesteld.
+De meetverantwoordelijke berekent de op grond van [5.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.9&z=2023-03-18&g=2023-03-18) niet-valide meetgegevens overeenkomstig [5.4.3.1 tot en met 5.4.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&artikel=5.4.3.1&z=2023-03-18&g=2023-03-18). Alle op grond van [paragraaf 5.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.4&sub-paragraaf=5.4.3&z=2023-03-18&g=2023-03-18) berekende meetgegevens worden (nogmaals) overeenkomstig [5.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.8&z=2023-03-18&g=2023-03-18) en 5.3.9 gevalideerd alvorens deze als definitief worden vastgesteld.
 
 ##### 5.3.11
 
-De meetverantwoordelijke past op de overeenkomstig [5.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.9&z=2022-10-25&g=2022-10-25) en [5.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.10&z=2022-10-25&g=2022-10-25) gevalideerde meetgegevens de vermenigvuldigingsfactor toe en stelt de meetgegevens vast.
+De meetverantwoordelijke past op de overeenkomstig [5.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.9&z=2023-03-18&g=2023-03-18) en [5.3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037946&hoofdstuk=5&paragraaf=5.3&artikel=5.3.10&z=2023-03-18&g=2023-03-18) gevalideerde meetgegevens de vermenigvuldigingsfactor toe en stelt de meetgegevens vast.
 
 ##### 5.3.12
 
