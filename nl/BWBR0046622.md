@@ -4,7 +4,7 @@ identifier: "BWBR0046622"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-07"
-last_updated: "2022-09-14"
+last_updated: "2023-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046622"
 soort: "ministeriele-regeling"
@@ -78,15 +78,17 @@ In deze regeling wordt verstaan onder:
 
 - **niet-uitkeringsgerechtigde:** persoon als bedoeld in [artikel 6, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=6);
 
-- **plaatsingssubsidie:** subsidie verstrekt aan een werkgever die met een persoon, als bedoeld in [artikel 2B.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2022-09-14&g=2022-09-14), een arbeidsovereenkomst sluit, een leerwerkovereenkomst of een stageovereenkomst met een looptijd van tenminste drie maanden, niet zijnde een loonkostensubsidie als bedoeld in [artikel 10d Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d);
+- **plaatsingssubsidie:** subsidie verstrekt aan een werkgever die met een persoon, als bedoeld in [artikel 2B.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2023-03-21&g=2023-03-21), een arbeidsovereenkomst sluit, een leerwerkovereenkomst of een stageovereenkomst met een looptijd van tenminste drie maanden, niet zijnde een loonkostensubsidie als bedoeld in [artikel 10d Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10d);
 
 - **praktijkonderwijs:** onderwijs als bedoeld in [artikel 2.8, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
 - **Programma:** Programma ESF+ Nederland 2021–2027;
 
-- **project:** samenhangend geheel van activiteiten met betrekking tot een onderwerp als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.4&z=2022-09-14&g=2022-09-14);
+- **project:** samenhangend geheel van activiteiten met betrekking tot een onderwerp als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.4&z=2023-03-21&g=2023-03-21);
 
 - **projectperiode:** periode tussen het tijdstip waarop activiteiten starten en worden beëindigd;
+
+- **sociale inclusie:** het bieden van hulp om gelijkwaardig te kunnen participeren in de maatschappij;
 
 - **subsidieaanvrager:** aanvrager van een subsidie op grond van deze regeling;
 
@@ -122,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de Europese Commissie niet instemt met het Programma, kan de Minister de subsidieverlening aanpassen aan het gewijzigde Programma, dat de instemming van de Europese Commissie heeft verkregen.
 
-5. Voor zover de bepalingen uit [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2022-09-14&g=2022-09-14), [2A](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2a&z=2022-09-14&g=2022-09-14), [2B](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&z=2022-09-14&g=2022-09-14) of [2C](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&z=2022-09-14&g=2022-09-14) in tegenspraak zijn met [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&z=2022-09-14&g=2022-09-14), prevaleren de bepalingen in hoofdstuk 2, 2A, 2B of 2C.
+5. Voor zover de bepalingen uit [hoofdstuk 2 tot en met 2D](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2023-03-21&g=2023-03-21) in tegenspraak zijn met [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&z=2023-03-21&g=2023-03-21), prevaleren de bepalingen in hoofdstuk 2 tot en met 2D.
 
 ##### Artikel 1.3. Aanwijzing autoriteiten
 
@@ -134,13 +136,15 @@ In deze regeling wordt verstaan onder:
 
 De Minister verleent met inachtneming van deze regeling subsidie ten behoeve van projecten voor:
 
-- a. het bevorderen van actieve inclusie voor leerlingen in het voortgezet speciaal onderwijs en praktijkonderwijs, nader uitgewerkt in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2022-09-14&g=2022-09-14);
+- a. het bevorderen van actieve inclusie voor leerlingen in het voortgezet speciaal onderwijs en praktijkonderwijs, nader uitgewerkt in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&z=2023-03-21&g=2023-03-21);
 
-- b. het verbeteren van de arbeidsmarktpositie voor personen in een justitiële inrichting, nader uitgewerkt in [hoofdstuk 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2a&z=2022-09-14&g=2022-09-14);
+- b. het verbeteren van de arbeidsmarktpositie voor personen in een justitiële inrichting, nader uitgewerkt in [hoofdstuk 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2a&z=2023-03-21&g=2023-03-21);
 
-- c. het bevorderen van de toegang tot werk in de arbeidsmarktregio’s, nader uitgewerkt in [hoofdstuk 2B](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&z=2022-09-14&g=2022-09-14);
+- c. het bevorderen van de toegang tot werk in de arbeidsmarktregio’s, nader uitgewerkt in [hoofdstuk 2B](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&z=2023-03-21&g=2023-03-21);
 
-- d. het verlenen van voedselhulp, materiele basishulp en begeleidende maatregelen voor de meest behoeftigen, nader uitgewerkt in [hoofdstuk 2C](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&z=2022-09-14&g=2022-09-14).
+- d. het verlenen van voedselhulp, materiele basishulp en begeleidende maatregelen voor de meest behoeftigen, nader uitgewerkt in [hoofdstuk 2C](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&z=2023-03-21&g=2023-03-21);
+
+- e. het bevorderen van sociale inclusie, nader uitgewerkt in [hoofdstuk 2D](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2d&z=2023-03-21&g=2023-03-21).
 
 ##### Artikel 1.5. Subsidieaanvrager
 
@@ -176,7 +180,7 @@ De Minister verleent met inachtneming van deze regeling subsidie ten behoeve van
 
 7. Desgevraagd verstrekt de subsidieaanvrager een nadere toelichting op de projectbeschrijving en de begroting.
 
-8. De Minister maakt een alternatieve wijze voor de registratie, het indienen van de aanvraag en de elektronische handtekening bekend, indien dit vanwege een calamiteit niet mogelijk is op de wijze, bedoeld in het eerste lid en [artikel 1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.5&z=2022-09-14&g=2022-09-14).
+8. De Minister maakt een alternatieve wijze voor de registratie, het indienen van de aanvraag en de elektronische handtekening bekend, indien dit vanwege een calamiteit niet mogelijk is op de wijze, bedoeld in het eerste lid en [artikel 1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.5&z=2023-03-21&g=2023-03-21).
 
 ##### Artikel 1.7. Rangschikking
 
@@ -192,7 +196,7 @@ De Minister verleent met inachtneming van deze regeling subsidie ten behoeve van
 
 2. De beschikking vermeldt de periode, de totale subsidiabele kosten en het maximumbedrag van de subsidie.
 
-3. Bij het bepalen van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2022-09-14&g=2022-09-14) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd, met dien verstande dat in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten of op een lager bedrag kunnen worden bepaald.
+3. Bij het bepalen van het maximumbedrag van de subsidie wordt uitgegaan van het totaal van de in [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2023-03-21&g=2023-03-21) genoemde kosten van het project, zoals door de subsidieaanvrager geraamd, met dien verstande dat in de beschikking te vermelden kostenposten buiten beschouwing kunnen worden gelaten of op een lager bedrag kunnen worden bepaald.
 
 4. Onverminderd [artikel 4:37 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37) kunnen aan de beschikking tot subsidieverlening verplichtingen worden verbonden.
 
@@ -300,13 +304,13 @@ Niet voor subsidiering komen in aanmerking:
 
 5. De deelnemersadministratie bevat het burgerservicenummer van de deelnemers aan het project, geeft inzicht in de subsidiabiliteit van de individuele deelnemer en de verrichte activiteiten en behaalde resultaten per individuele deelnemer.
 
-6. Een subsidieontvanger verstrekt desgevraagd aan de instanties, genoemd in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.3&z=2022-09-14&g=2022-09-14), inzage in of informatie uit de administratie. Tevens verstrekt de subsidieontvanger die instanties desgevraagd informatie over de projecten die voor monitoring en evaluatiedoeleinden gebruikt kunnen worden.
+6. Een subsidieontvanger verstrekt desgevraagd aan de instanties, genoemd in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.3&z=2023-03-21&g=2023-03-21), inzage in of informatie uit de administratie. Tevens verstrekt de subsidieontvanger die instanties desgevraagd informatie over de projecten die voor monitoring en evaluatiedoeleinden gebruikt kunnen worden.
 
 ##### Artikel 1.14. Beschikbaarheid van bescheiden
 
 1. Onverminderd de voorschriften voor staatssteun bewaart de subsidieontvanger alle administratieve bescheiden die betrekking hebben op het gesubsidieerde project ten minste tot 31 december 2036 of tot een nader door de Minister aan de subsidieontvanger schriftelijk bekend te maken datum. Indien de Europese Commissie vanwege een gerechtelijke vervolging of een met redenen omkleed verzoek de bewaartermijn schorst, maakt de Minister de gevolgen voor de bewaartermijn in de Staatscourant bekend.
 
-2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=1&z=2022-09-14&g=2022-09-14) bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
+2. Van alle administratieve bescheiden wordt het origineel bewaard. Hiervan kan worden afgeweken, indien het origineel conform de procedure in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=1&z=2023-03-21&g=2023-03-21) bij deze regeling, wordt overgezet en bewaard op een andere gegevensdrager. Het overbrengen op een andere gegevensdrager geschiedt met juiste en volledige weergave van de gegevens en deze is de volledige bewaartermijn beschikbaar en kan binnen een redelijke tijd leesbaar worden gemaakt.
 
 3. De administratie is zodanig ingericht en wordt zodanig gevoerd en bewaard, dat controle daarvan binnen een redelijke termijn mogelijk is. Daartoe verleent de subsidieontvanger de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.
 
@@ -384,11 +388,11 @@ De subsidie op grond van deze paragraaf kan worden aangevraagd door het college 
 
 ##### Artikel 2.2. Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk dat betrekking heeft op een regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs als bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-09-14&g=2022-09-14), worden ingediend in het aanvraagtijdvak van 16 mei 2022, 09.00 uur, tot en met 1 juli 2022, 17.00 uur, voor de projectperiode van 1 augustus 2022 tot en met 31 juli 2023.
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk dat betrekking heeft op een regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs als bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2023-03-21&g=2023-03-21), worden ingediend in het aanvraagtijdvak van 16 mei 2022, 09.00 uur, tot en met 1 juli 2022, 17.00 uur, voor de projectperiode van 1 augustus 2022 tot en met 31 juli 2023.
 
 ##### Artikel 2.3. Subsidieplafond
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.2&z=2022-09-14&g=2022-09-14), bedraagt € 15.000.000.
+Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.2&z=2023-03-21&g=2023-03-21), bedraagt € 15.000.000.
 
 ##### Artikel 2.4. Doel en doelgroep
 
@@ -400,13 +404,13 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraag
 
 1. Het college van burgemeester en wethouders van een centrumgemeente kan een regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs indienen.
 
-2. Een project in het kader van dit hoofdstuk komt slechts voor subsidie in aanmerking indien het project past binnen het doel, genoemd in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-09-14&g=2022-09-14).
+2. Een project in het kader van dit hoofdstuk komt slechts voor subsidie in aanmerking indien het project past binnen het doel, genoemd in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2023-03-21&g=2023-03-21).
 
 3. De Minister kan in de beschikking tot subsidieverlening op verzoek of bij een kennelijke verschrijving in plaats van de datum van ontvangst van de volledige subsidieaanvraag een andere startdatum van het project vermelden.
 
 ##### Artikel 2.6. Subsidiabele activiteiten & kosten
 
-1. Voor subsidie komen enkel activiteiten in aanmerking die direct zijn gericht op de bevordering van de aansluiting praktijkonderwijs of voortgezet speciaal onderwijs op de arbeidsmarkt of vervolgonderwijs en die het in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-09-14&g=2022-09-14) genoemde doel ondersteunen;
+1. Voor subsidie komen enkel activiteiten in aanmerking die direct zijn gericht op de bevordering van de aansluiting praktijkonderwijs of voortgezet speciaal onderwijs op de arbeidsmarkt of vervolgonderwijs en die het in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2023-03-21&g=2023-03-21) genoemde doel ondersteunen;
 
 2. Voor het schooljaar 2022 -2023 wordt per leerling een maximumbedrag gesubsidieerd van € 1.788.
 
@@ -420,11 +424,11 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie voor het aanvraag
 
 ##### Artikel 2.8. Maximum subsidie per subsidieaanvrager
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie in het kader van dit hoofdstuk is per centrumgemeente vastgelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=2&z=2022-09-14&g=2022-09-14) bij deze regeling.
+Het maximaal beschikbare bedrag voor het verlenen van subsidie in het kader van dit hoofdstuk is per centrumgemeente vastgelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=2&z=2023-03-21&g=2023-03-21) bij deze regeling.
 
 ##### Artikel 2.9. Onderwijsnummer
 
-In afwijking van de [artikelen 1.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.15&z=2022-09-14&g=2022-09-14), en [1.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.16&z=2022-09-14&g=2022-09-14), verstrekt de subsidieontvanger voor een persoon die behoort tot de doelgroep, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2022-09-14&g=2022-09-14), in plaats van een burgerservicenummer een onderwijsnummer als bedoeld in [artikel 1, onderdeel g, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=1), indien deze persoon niet beschikt over een burgerservicenummer.
+In afwijking van de [artikelen 1.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.15&z=2023-03-21&g=2023-03-21), en [1.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.16&z=2023-03-21&g=2023-03-21), verstrekt de subsidieontvanger voor een persoon die behoort tot de doelgroep, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.4&z=2023-03-21&g=2023-03-21), in plaats van een burgerservicenummer een onderwijsnummer als bedoeld in [artikel 1, onderdeel g, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=1), indien deze persoon niet beschikt over een burgerservicenummer.
 
 ### Hoofdstuk 2a. Minister van Justitie en Veiligheid
 
@@ -531,9 +535,9 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidies op grond van dit
 
 1. Een project komt slechts voor subsidie in aanmerking, indien:
 
-- a. het project past binnen het doel, genoemd in [artikel 2A.4, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2a&artikel=2a.4&z=2022-09-14&g=2022-09-14);
+- a. het project past binnen het doel, genoemd in [artikel 2A.4, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2a&artikel=2a.4&z=2023-03-21&g=2023-03-21);
 
-- b. de aanvraag is ingediend in het tijdvak bedoeld in [artikel 2A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2a&artikel=2a.2&z=2022-09-14&g=2022-09-14); en
+- b. de aanvraag is ingediend in het tijdvak bedoeld in [artikel 2A.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2a&artikel=2a.2&z=2023-03-21&g=2023-03-21); en
 
 - c. het project een startdatum en een einddatum heeft die ligt tussen 1 januari 2023 en 31 december 2027.
 
@@ -541,9 +545,9 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidies op grond van dit
 
 ##### Artikel 2a.6. Subsidiabele activiteiten
 
-1. Voor subsidie komen enkel activiteiten in aanmerking die de doelstelling, genoemd in [artikel 2A.4, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2a&artikel=2a.4&z=2022-09-14&g=2022-09-14), ondersteunen en gericht zijn op of bestaan uit het volgen van scholing of een opleiding, dan wel anderszins gericht zijn op het vergroten van de mogelijkheden tot arbeidsinpassing.
+1. Voor subsidie komen enkel activiteiten in aanmerking die de doelstelling, genoemd in [artikel 2A.4, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2a&artikel=2a.4&z=2023-03-21&g=2023-03-21), ondersteunen en gericht zijn op of bestaan uit het volgen van scholing of een opleiding, dan wel anderszins gericht zijn op het vergroten van de mogelijkheden tot arbeidsinpassing.
 
-2. Voor subsidiëring komen de kostensoorten, bedoeld in [artikel 1.11, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2022-09-14&g=2022-09-14), in aanmerking en de volgende standaardbedragen per dag per deelnemer in de periode van het traject waarbinnen een deelnemer wordt begeleid met als doel naar werk bemiddelbaar te zijn of na dat verblijf inpasbaar te zijn in een arbeidsmarkt gerelateerd programma of een regulier opleidingstraject:
+2. Voor subsidiëring komen de kostensoorten, bedoeld in [artikel 1.11, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2023-03-21&g=2023-03-21), in aanmerking en de volgende standaardbedragen per dag per deelnemer in de periode van het traject waarbinnen een deelnemer wordt begeleid met als doel naar werk bemiddelbaar te zijn of na dat verblijf inpasbaar te zijn in een arbeidsmarkt gerelateerd programma of een regulier opleidingstraject:
 
 - a. voor de sector gevangeniswezen: € 14,50;
 
@@ -573,7 +577,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidies op grond van dit
 
 3. In afwijking van het eerste en tweede lid kan de Minister besluiten tot het opvragen van een extra tussentijdse declaratie dan wel het laten vervallen van een tussentijdse declaratie.
 
-4. De einddeclaratie, bedoeld in [artikel 1.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.16&z=2022-09-14&g=2022-09-14), bevat de som van alle kosten uit de tussentijdse declaraties, na eventuele correcties door de Minister, en de resterende met de einddeclaratie te declareren kosten. De financiële bijlage bij de einddeclaratie bevat alleen de kosten die nog niet eerder zijn gedeclareerd via de tussentijdse declaraties.
+4. De einddeclaratie, bedoeld in [artikel 1.16](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.16&z=2023-03-21&g=2023-03-21), bevat de som van alle kosten uit de tussentijdse declaraties, na eventuele correcties door de Minister, en de resterende met de einddeclaratie te declareren kosten. De financiële bijlage bij de einddeclaratie bevat alleen de kosten die nog niet eerder zijn gedeclareerd via de tussentijdse declaraties.
 
 ### Hoofdstuk 2b. Arbeidsmarktregio’s
 
@@ -607,7 +611,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie op basis van dit 
 
 ##### Artikel 2b.4. De aanvraag
 
-Het college van burgemeester en wethouders van een centrumgemeente kan een aanvraag indienen namens de arbeidsmarktregio voor een project gericht op het doel en de ondersteuning van de doelgroep, bedoeld in [artikel 2B.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2022-09-14&g=2022-09-14).
+Het college van burgemeester en wethouders van een centrumgemeente kan een aanvraag indienen namens de arbeidsmarktregio voor een project gericht op het doel en de ondersteuning van de doelgroep, bedoeld in [artikel 2B.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2023-03-21&g=2023-03-21).
 
 ##### Artikel 2b.5. Projectperiode
 
@@ -617,29 +621,29 @@ Een project in het kader van dit hoofdstuk vindt plaats binnen de projectperiode
 
 1. Een project in het kader van dit hoofdstuk:
 
-- a. past binnen het doel en is gericht op één of meerdere van de doelgroepen, genoemd in [artikel 2B.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2022-09-14&g=2022-09-14);
+- a. past binnen het doel en is gericht op één of meerdere van de doelgroepen, genoemd in [artikel 2B.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2023-03-21&g=2023-03-21);
 
-- b. sluit, voor zover het betrekking heeft op de doelgroep, bedoeld in [artikel 2B.3, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2022-09-14&g=2022-09-14), naar het oordeel van de Minister goed aan op de werkzaamheden van de regionale mobiliteitsteams.
+- b. sluit, voor zover het betrekking heeft op de doelgroep, bedoeld in [artikel 2B.3, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2023-03-21&g=2023-03-21), naar het oordeel van de Minister goed aan op de werkzaamheden van de regionale mobiliteitsteams.
 
 2. Op een daartoe strekkend verzoek van de subsidieontvanger kan de Minister besluiten om in de beschikking tot subsidieverlening een andere datum te vermelden dan de in de aanvraag genoemde startdatum.
 
 ##### Artikel 2b.7. Subsidiabele activiteiten
 
-1. Voor subsidie komen enkel de activiteiten gericht op het ondersteunen van mensen uit de doelgroep, als bedoeld in [artikel 2B.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2022-09-14&g=2022-09-14), bij het bevorderen van de toegang tot werk in aanmerking, voor zover zij de doelstelling, genoemd in artikel 2B.3, eerste lid, ondersteunen.
+1. Voor subsidie komen enkel de activiteiten gericht op het ondersteunen van mensen uit de doelgroep, als bedoeld in [artikel 2B.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.3&z=2023-03-21&g=2023-03-21), bij het bevorderen van de toegang tot werk in aanmerking, voor zover zij de doelstelling, genoemd in artikel 2B.3, eerste lid, ondersteunen.
 
-2. In afwijking van [artikel 1.11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2022-09-14&g=2022-09-14), zijn de kosten van extern ingekochte trajecten uitsluitend subsidiabel voor zover de relatie met de activiteiten, genoemd in het eerste lid, voldoende aannemelijk is.
+2. In afwijking van [artikel 1.11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2023-03-21&g=2023-03-21), zijn de kosten van extern ingekochte trajecten uitsluitend subsidiabel voor zover de relatie met de activiteiten, genoemd in het eerste lid, voldoende aannemelijk is.
 
 ##### Artikel 2b.8. Subsidiabele kosten
 
-Naast de kosten, genoemd in [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2022-09-14&g=2022-09-14), zijn de volgende kosten subsidiabel:
+Naast de kosten, genoemd in [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2023-03-21&g=2023-03-21), zijn de volgende kosten subsidiabel:
 
-- a. plaatsingssubsidies, waarbij in het geval van een loonkostensubsidie maximaal het daadwerkelijk betaalde brutoloon vermeerderd met een opslag van 32% van het brutoloon subsidiabel is;
+- a. plaatsingssubsidies, waarbij in het geval van een loonkostensubsidie maximaal het daadwerkelijk betaalde brutoloon vermeerderd met een opslag van 37,5% van het brutoloon subsidiabel is;
 
-- b. een opslag van 40% op de directe loonkosten, bedoeld in [artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2022-09-14&g=2022-09-14), ter dekking van de overige subsidiabele kosten wanneer deze kosten worden verantwoord in een subproject en wanneer deze kostensoort de enige kosten zijn in het subproject.
+- b. een opslag van 40% op de directe loonkosten, bedoeld in [artikel 1.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2023-03-21&g=2023-03-21), ter dekking van de overige subsidiabele kosten wanneer deze kosten worden verantwoord in een subproject en wanneer deze kostensoort de enige kosten zijn in het subproject.
 
 ##### Artikel 2b.9. Niet-subsidiabele kosten
 
-In aanvulling op [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.12&z=2022-09-14&g=2022-09-14), zijn de kosten samenhangend met de directe loonkosten voor projectcoördinatie en -administratie of de externe kosten voor projectcoördinatie en -administratie niet subsidiabel.
+In aanvulling op [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.12&z=2023-03-21&g=2023-03-21), zijn de kosten samenhangend met de directe loonkosten voor projectcoördinatie en -administratie of de externe kosten voor projectcoördinatie en -administratie niet subsidiabel.
 
 ##### Artikel 2b.10. Voortgangsrapportage
 
@@ -657,7 +661,7 @@ In aanvulling op [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&
 
 ##### Artikel 2b.12. Maximale subsidiebedrag per subsidieaanvrager
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie in het kader van dit hoofdstuk is per centrumgemeente vastgelegd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=3&z=2022-09-14&g=2022-09-14) bij deze regeling.
+Het maximaal beschikbare bedrag voor het verlenen van subsidie in het kader van dit hoofdstuk is per centrumgemeente vastgelegd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=3&z=2023-03-21&g=2023-03-21) bij deze regeling.
 
 ### Hoofdstuk 2c. Voedselhulp en materiële basishulp
 
@@ -671,7 +675,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk 
 
 ##### Artikel 2c.3. Subsidieplafond
 
-Het beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, bedoeld in [artikel 2C.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.2&z=2022-09-14&g=2022-09-14), bedraagt € 15.803.219.
+Het beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, bedoeld in [artikel 2C.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.2&z=2023-03-21&g=2023-03-21), bedraagt € 15.803.219.
 
 ##### Artikel 2c.4. Doel en doelgroepen subsidie
 
@@ -683,13 +687,13 @@ Het beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, 
 
 1. Op basis van dit hoofdstuk wordt aan maximaal één rechtspersoon subsidie verstrekt vanaf het moment van toekenning van de subsidie tot uiterlijk 31 december 2027.
 
-2. Uit het projectplan en de begroting bij de aanvraag tot subsidieverlening blijkt dat door uitvoering van het project het toe te kennen bedrag op grond van [artikel 2C.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.3&z=2022-09-14&g=2022-09-14), volledig wordt benut.
+2. Uit het projectplan en de begroting bij de aanvraag tot subsidieverlening blijkt dat door uitvoering van het project het toe te kennen bedrag op grond van [artikel 2C.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.3&z=2023-03-21&g=2023-03-21), volledig wordt benut.
 
-3. In afwijking van [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.10&z=2022-09-14&g=2022-09-14), bedraagt de subsidie op grond van dit hoofdstuk 90% van de subsidiabele kosten.
+3. In afwijking van [artikel 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.10&z=2023-03-21&g=2023-03-21), bedraagt de subsidie op grond van dit hoofdstuk 90% van de subsidiabele kosten.
 
 ##### Artikel 2c.6. De subsidieaanvraag
 
-1. Onverminderd [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.6&z=2022-09-14&g=2022-09-14) vermeldt de aanvrager in het projectplan:
+1. Onverminderd [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.6&z=2023-03-21&g=2023-03-21) vermeldt de aanvrager in het projectplan:
 
 - a. op welke wijze wordt vastgesteld wie er tot de doelgroep behoort;
 
@@ -719,11 +723,11 @@ Het beschikbare bedrag voor het verlenen van subsidie voor het aanvraagtijdvak, 
 
 ##### Artikel 2c.7. Weigeringsgronden
 
-Een aanvraag tot verlening van subsidie wordt, in aanvulling op [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.9&z=2022-09-14&g=2022-09-14), in zijn geheel geweigerd, indien de aanvraag niet alle onderwerpen zoals opgesomd in [artikel 2C.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.6&z=2022-09-14&g=2022-09-14) bevat.
+Een aanvraag tot verlening van subsidie wordt, in aanvulling op [artikel 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.9&z=2023-03-21&g=2023-03-21), in zijn geheel geweigerd, indien de aanvraag niet alle onderwerpen zoals opgesomd in [artikel 2C.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.6&z=2023-03-21&g=2023-03-21) bevat.
 
 ##### Artikel 2c.8. Selectiecriteria voor subsidieverlening
 
-1. De Minister beoordeelt de projectplannen van de aanvragers op grond van de vereisten genoemd in [artikel 2C.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.6&z=2022-09-14&g=2022-09-14) en, voor zover deze niet reeds op basis van [artikel 2C.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.7&z=2022-09-14&g=2022-09-14) zijn afgewezen, aan de hand van de volgende criteria:
+1. De Minister beoordeelt de projectplannen van de aanvragers op grond van de vereisten genoemd in [artikel 2C.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.6&z=2023-03-21&g=2023-03-21) en, voor zover deze niet reeds op basis van [artikel 2C.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2c&artikel=2c.7&z=2023-03-21&g=2023-03-21) zijn afgewezen, aan de hand van de volgende criteria:
 
 - a. kwaliteit en verwachte effectiviteit van de aanpak van voedselhulp en materiële basishulp, waarbij in ieder geval in acht worden genomen het landelijk bereik van de doelgroep, waaronder kinderen, en het betrekken van de doelgroep bij de invulling van de voedselhulp en materiële basishulp (35 punten);
 
@@ -745,7 +749,7 @@ Een aanvraag tot verlening van subsidie wordt, in aanvulling op [artikel 1.9](ht
 
 - e. zeer lage mate voldaan aan het criterium: 0% van de beschikbare punten.
 
-3. In afwijking van [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.7&z=2022-09-14&g=2022-09-14) verleent de Minister de subsidie aan de aanvrager die de hoogste totaalscore behaalt op basis van de puntentelling in het eerste en tweede lid en wijst overige aanvragen af.
+3. In afwijking van [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.7&z=2023-03-21&g=2023-03-21) verleent de Minister de subsidie aan de aanvrager die de hoogste totaalscore behaalt op basis van de puntentelling in het eerste en tweede lid en wijst overige aanvragen af.
 
 4. In de beschikking tot subsidieverlening worden in ieder geval bepaald:
 
@@ -765,7 +769,7 @@ De volgende activiteiten komen voor subsidie in aanmerking:
 
 ##### Artikel 2c.10. Subsidiabele kosten
 
-1. In aanvulling op [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2022-09-14&g=2022-09-14) komen de volgende kosten voor subsidie in aanmerking:
+1. In aanvulling op [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2023-03-21&g=2023-03-21) komen de volgende kosten voor subsidie in aanmerking:
 
 - a. de kosten voor de aankoop van voedselhulp en materiële basishulp, met inbegrip van de kosten die verband houden met het vervoer van voedselhulp en materiële basishulp naar de subsidieontvanger die deze voedselhulp en materiële basishulp aan de eindontvangers verstrekken;
 
@@ -777,7 +781,7 @@ De volgende activiteiten komen voor subsidie in aanmerking:
 
 - e. de kosten van begeleidende maatregelen door of namens de subsidieontvanger die zijn gemeld door de subsidieontvanger die de voedselhulp of de materiële basishulp aan de meest behoeftige personen verstrekt, tegen een vast tarief van zeven procent van de in onderdeel a bedoelde kosten; en
 
-- f. in afwijking van [artikel 1.12, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.12&z=2022-09-14&g=2022-09-14), de in rekening gebrachte BTW.
+- f. in afwijking van [artikel 1.12, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.12&z=2023-03-21&g=2023-03-21), de in rekening gebrachte BTW.
 
 2. Een verlaging van de in het eerste lid, onderdeel a, bedoelde subsidiabele kosten als gevolg van inbreuken op het toepasselijke recht door de instantie die verantwoordelijk is voor de aankoop van voedselhulp of materiële basishulp, leidt niet tot een verlaging van de in het eerste lid, onderdelen c en e, bedoelde subsidiabele kosten.
 
@@ -789,7 +793,7 @@ De volgende activiteiten komen voor subsidie in aanmerking:
 
 ##### Artikel 2c.11. Niet-subsidiabele kosten
 
-In aanvulling op [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.12&z=2022-09-14&g=2022-09-14) komen de volgende kosten niet voor subsidie in aanmerking:
+In aanvulling op [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.12&z=2023-03-21&g=2023-03-21) komen de volgende kosten niet voor subsidie in aanmerking:
 
 - a. de debetrente;
 
@@ -813,9 +817,9 @@ In aanvulling op [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&
 
 4. Ingeval van onvoldoende resultaat op een of meer van de onderdelen, genoemd in het derde lid, kan de Minister besluiten de subsidieverlening tussentijds te beëindigen, onder vaststelling van de tot het moment van beëindiging verschuldigde subsidie.
 
-5. In afwijking van de [artikelen 1.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.13&z=2022-09-14&g=2022-09-14), [1.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.15&z=2022-09-14&g=2022-09-14), en [1.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.16&z=2022-09-14&g=2022-09-14), dient de subsidieontvanger geen deelnemersadministratie in, tenzij uit een risicobeoordeling voor wat betreft de einddeclaratie blijkt dat er een specifiek risico op onregelmatigheden of fraude bestaat.
+5. In afwijking van de [artikelen 1.13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.13&z=2023-03-21&g=2023-03-21), [1.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.15&z=2023-03-21&g=2023-03-21), en [1.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.16&z=2023-03-21&g=2023-03-21), dient de subsidieontvanger geen deelnemersadministratie in, tenzij uit een risicobeoordeling voor wat betreft de einddeclaratie blijkt dat er een specifiek risico op onregelmatigheden of fraude bestaat.
 
-### Hoofdstuk 3. Slotartikelen
+### Hoofdstuk 2d. Sociale inclusie
 
 ## Bijlage 1. als bedoeld in [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2022-09-14&g=2022-09-14)
 
@@ -926,5 +930,270 @@ Subsidieplafonds voor regio-aanvraag leerlingen voortgezet speciaal onderwijs en
 | Roermond | Midden-Limburg | 1,00% | € 418.500 |
 | Heerlen | Zuid-Limburg | 4,57% | € 1.918.300 |
 | Totaal |   | 100,00% | € 42.000.000 |
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+##### Artikel 2d.1. Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden ingediend in het aanvraagtijdvak van 3 april 2023, 09.00 uur, tot en met 31 oktober 2023, 17.00 uur.
+
+##### Artikel 2d.2. Subsidieplafond
+
+Het beschikbare bedrag voor het verlenen van subsidie op basis van dit hoofdstuk bedraagt € 17.500.000.
+
+##### Artikel 2d.3. Doel van het project
+
+Een project in het kader van dit hoofdstuk heeft tot doel het bevorderen van sociale inclusie, door mogelijkheden tot maatschappelijke participatie te vergroten op het gebied van:
+
+- a. wonen;
+
+- b. financiën;
+
+- c. digitale basisvaardigheden;
+
+- d. lichamelijke gezondheid;
+
+- e. psychische gezondheid;
+
+- f. taal en cultuur;
+
+- g. zorg.
+
+##### Artikel 2d.4. Doelgroep
+
+Een project in het kader van dit hoofdstuk is gericht op personen die op het moment van hun start van deelneming aan een project behoren tot één of meer van de volgende doelgroepen:
+
+- a. niet-uitkeringsgerechtigden;
+
+- b. arbeidsbelemmerden, dan wel personen met een uitkering op basis van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), dan wel arbeidsbeperkten als bedoeld in [artikel 38b van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38b) of de Wet arbeidsongeschiktheidsvoorziening jongehandicapten, [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) dan wel personen met een recht op arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, dan wel personen in een dienstbetrekking op grond van [artikel 10b van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b);
+
+- c. jongeren;
+
+- d. personen die algemene bijstand op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), een IOAW-uitkering, een IOAZ-uitkering, bijstand op grond van het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711) of een uitkering van het UWV ontvangen;
+
+- e. hier te lande woonachtige vreemdelingen die rechtmatig in Nederland verblijf houden in de zin van [artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8);
+
+- f. de vreemdeling die tijdelijke bescherming geniet als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), omdat hij onder de reikwijdte valt van het [Uitvoeringsbesluit van 4 maart 2022 van de richtlijn 2001/55/EG](https://wetten.overheid.nl/jci1.3:c:BWBR0046492) of een verlenging daarvan;
+
+- g. natuurlijke personen, niet zijnde personen als bedoeld in de onderdelen a tot en met f, die krachtens arbeidsovereenkomst naar burgerlijk recht of publiekrechtelijke aanstelling arbeid verrichten.
+
+##### Artikel 2d.5. De aanvraag
+
+1. Het college van burgemeester en wethouders van een centrumgemeente kan een aanvraag indienen namens de arbeidsmarktregio voor een project als bedoeld in dit hoofdstuk.
+
+2. Onverminderd de voorwaarden, genoemd in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.6&z=2023-03-21&g=2023-03-21), wordt in de aanvraag een beschrijving opgenomen van de onderliggende maatschappelijke problemen of het gemeenschappelijk belang van het aangevraagde project.
+
+3. De aanvraag beschikt over een omschrijving van de aanpak gericht op het bevorderen van gelijke kansen en non-discriminatie.
+
+##### Artikel 2d.6. Projectperiode
+
+Een project in het kader van dit hoofdstuk vindt plaats binnen een periode van maximaal 24 maanden en start op 3 april 2023, of, indien dat later is, op de datum van indiening van de volledige subsidieaanvraag.
+
+##### Artikel 2d.7. Specifieke eisen
+
+1. Een project in het kader van dit hoofdstuk:
+
+- a. past binnen het doel en is gericht op één of meer van de doelgroepen als bedoeld in dit hoofdstuk, en;
+
+- b. beschikt over een toelichting waarin het project wordt omschreven, waaruit onder meer blijkt waarom er voor specifieke activiteiten en doelgroepen is gekozen, op welke wijze de activiteiten een bijdrage leveren aan het bevorderen van de sociale inclusie van de deelnemers en op welke wijze binnen het project gelijke kansen en non-discriminatie worden bevorderd.
+
+2. Op een daartoe strekkend verzoek van de subsidieontvanger kan de Minister besluiten om in de beschikking tot subsidieverlening een andere datum te vermelden dan de in de aanvraag genoemde startdatum.
+
+##### Artikel 2d.8. Subsidiabele activiteiten
+
+Voor subsidie komen enkel activiteiten in aanmerking die de doelgroep, bedoeld in [artikel 2D.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2d&artikel=2d.4&z=2023-03-21&g=2023-03-21), ondersteunen door hen mogelijkheden te geven en hindernissen weg te nemen voor sociale inclusie als bedoeld in [artikel 2D.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2d&artikel=2d.3&z=2023-03-21&g=2023-03-21).
+
+##### Artikel 2d.9. Subsidiabele kosten
+
+1. In aanvulling op de subsidiabele kosten, genoemd in [artikel 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2023-03-21&g=2023-03-21), is een opslag van 40% op de directe loonkosten, bedoeld in artikel 1.11, eerste lid, onderdeel b, ter dekking van de overige subsidiabele kosten subsidiabel, wanneer deze kosten worden verantwoord in een subproject onder voorwaarde dat deze loonkosten de enige kostensoort vormt in het subproject en tevens uitsluitend betrekking hebben op de activiteiten bedoeld in [artikel 2D.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2d&artikel=2d.8&z=2023-03-21&g=2023-03-21).
+
+2. De kosten die gemaakt zijn ten behoeve van extern ingekochte trajecten zijn uitsluitend subsidiabel voor zover de relatie met de activiteiten, bedoeld in [artikel 2D.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2d&artikel=2d.8&z=2023-03-21&g=2023-03-21), voldoende aannemelijk is.
+
+3. De Minister kan in de beschikking tot subsidieverlening als bedoeld in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.8&z=2023-03-21&g=2023-03-21) of in een wijziging van de beschikking tot subsidieverlening gedurende de uitvoering van het project het gebruik van nader te bepalen standaard eenheidskosten als bedoeld in [artikel 1.11, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.11&z=2023-03-21&g=2023-03-21), voor een subsidiabele activiteit verplicht stellen.
+
+4. Een wijziging van de beschikking tot subsidieverlening als bedoeld in het derde lid heeft geen betrekking op de periode gelegen voor de datum van die beschikking.
+
+##### Artikel 2d.10. Niet-subsidiabele kosten
+
+In aanvulling op [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.12&z=2023-03-21&g=2023-03-21) zijn de volgende kosten niet subsidiabel:
+
+- a. kosten samenhangend met de directe loonkosten voor projectcoördinatie, en administratie;
+
+- b. externe kosten voor projectcoördinatie en -administratie; en
+
+- c. kosten van door gemeenten ingeschakelde medewerkers waarvoor kosten voor dezelfde periode zijn gedeclareerd binnen een project als bedoeld in [hoofdstuk 2B](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&z=2023-03-21&g=2023-03-21).
+
+##### Artikel 2d.11. Voortgangsrapportage
+
+1. De subsidieontvanger dient binnen drie maanden na afloop van de eerste twaalf maanden van het project een voortgangsrapportage in bij de Minister.
+
+2. De voortgangsrapportage wordt ingediend onder gebruikmaking van een daartoe door de Minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.
+
+##### Artikel 2d.12. Bevoorschotting
+
+1. De Minister kan voor projecten als bedoeld in dit hoofdstuk, op verzoek van de subsidieontvanger, een voorschot verlenen tot maximaal 80% van het in de beschikking tot subsidieverlening opgenomen maximale subsidiebedrag.
+
+2. In het verzoek wordt het voorschot gemotiveerd en gespecificeerd op basis van reeds gemaakte kosten, zoals opgenomen in de voortgangsrapportage, bedoeld in [artikel 2D.11](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2d&artikel=2d.11&z=2023-03-21&g=2023-03-21).
+
+##### Artikel 2d.13. Maximale subsidiebedrag per subsidieaanvrager
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie in het kader van dit hoofdstuk is per centrumgemeente vastgelegd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&bijlage=4&z=2023-03-21&g=2023-03-21) bij deze regeling.
+
+##### Artikel 2d.14. Wijzigingen
+
+Indien er omstandigheden optreden, die de voortgang, inhoud of de administratieve organisatie van het project substantieel wijzigen of die anderszins belangrijke gevolgen kunnen hebben voor het recht op subsidie, doet de subsidieontvanger hiervan onverwijld mededeling aan de Minister.
+
+### Hoofdstuk 3. Slotartikelen
+
+## Bijlage 1. als bedoeld in [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2023-03-21&g=2023-03-21)
+
+### Procedure betreffende gebruik geconverteerde documenten of gegevensdragers en digitale bewijsstukken
+
+In het kader van de verantwoording op de einddeclaratie onderbouwt de subsidieontvanger de kosten met originele bewijsstukken, kopieën of volledig digitale documenten. Hiertoe moet door de lidstaat een procedure voor de vaststelling van de authenticiteit worden opgesteld. In deze bijlage worden de door Nederland vastgestelde procedures weergegeven.
+
+De volgende documenten worden als bewijsstukken geaccepteerd:
+
+Hieronder staan de procedures om deze stukken te kunnen gebruiken als geaccepteerde bewijsstukken in het kader van de ESF-administratie waarbij niet ter zake doende persoonsgegevens onherkenbaar of onleesbaar gemaakt zijn.
+
+### Procedure voor het gebruik van de documenten, genoemd in de onderdelen a, b en c
+
+De hierboven genoemde bewijsstukken a, b en c zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
+
+Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
+
+Als de conversie op de juiste wijze gebeurt, is het in het kader van de ESF-verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
+
+De subsidieaanvrager verklaart door middel van het aanvraag-, tussendeclaratie- en einddeclaratieformulier dat de geconverteerde documenten of de nieuwe gegevensdragers die onderdeel zijn van de ESF-administratie, voldoen aan de vereisten uit [artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2023-03-21&g=2023-03-21) van de ESF+ subsidieregeling 2021–2027 en daarmee aan deze bijlage.
+
+### Procedure voor het bewaren van stukken die uitsluitend in elektronische versie bestaan (onderdeel d)
+
+Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen. Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt:
+
+De in deze bijlage omschreven procedures gelden voor alle bewijsstukken die getoond moeten worden in het kader van de ESF-verantwoording. [Artikel 1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=1&artikel=1.14&z=2023-03-21&g=2023-03-21) is onverminderd van toepassing.
+
+## Bijlage 2. als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2&artikel=2.8&z=2023-03-21&g=2023-03-21)
+
+Subsidieplafonds voor regio-aanvraag leerlingen voortgezet speciaal onderwijs en praktijkonderwijs
+
+| Centrumgemeente | Arbeidsmarktregio | obv Pw 2021 (%) | Subsidieplafond 2022 |
+| --- | --- | --- | --- |
+| Groningen | Groningen | 6,54% | € 981.105 |
+| Leeuwarden | Friesland | 4,62% | € 693.300 |
+| Alkmaar | Noord-Holland Noord | 2,57% | € 385.000 |
+| Emmen | Drenthe | 1,89% | € 284.087 |
+| Zwolle | Regio Zwolle | 2,16% | € 324.299 |
+| Almere | Flevoland | 2,10% | € 314.501 |
+| Zaanstad | Zaanstreek/Waterland | 1,48% | € 222.035 |
+| Haarlem | Zuid-Kennemerland en IJmond | 1,68% | € 252.078 |
+| Enschede | Twente | 3,97% | € 595.129 |
+| Amsterdam | Groot Amsterdam | 10,77% | € 1.616.169 |
+| Apeldoorn | Stedendriehoek en Noordwest Veluwe | 2,82% | € 423.316 |
+| Hilversum | Gooi en Vechtstreek | 0,74% | € 110.934 |
+| Leiden | Holland Rijnland | 1,65% | € 247.301 |
+| Utrecht | Midden-Utrecht | 3,29% | € 494.132 |
+| Amersfoort | Amersfoort | 0,99% | € 148.018 |
+| Ede | Food Valley | 1,12% | € 167.292 |
+| Doetinchem | Achterhoek | 1,00% | € 150.058 |
+| Zoetermeer | Zuid-Holland Centraal | 1,36% | € 203.734 |
+| Gouda | Midden-Holland | 0,71% | € 107.003 |
+| Den Haag | Haaglanden | 7,66% | € 1.148.636 |
+| Arnhem | Midden-Gelderland | 3,23% | € 483.830 |
+| Rotterdam | Rijnmond | 13,09% | € 1.963.958 |
+| Tiel | Rivierenland | 0,70% | € 104.788 |
+| Gorinchem | Gorinchem | 0,40% | € 60.730 |
+| Nijmegen | Rijk van Nijmegen | 2,52% | € 377.822 |
+| Dordrecht | Drechtsteden | 1,72% | € 257.792 |
+| Den Bosch | Noordoost-Brabant | 2,38% | € 356.973 |
+| Breda | West-Brabant | 3,08% | € 461.579 |
+| Goes | Zeeland | 1,66% | € 248.744 |
+| Tilburg | Midden-Brabant | 2,20% | € 330.024 |
+| Venlo | Noord-Limburg | 1,20% | € 180.282 |
+| Helmond | Helmond-De Peel | 1,05% | € 157.710 |
+| Eindhoven | Zuidoost-Brabant | 2,09% | € 313.054 |
+| Roermond | Midden-Limburg | 1,00% | € 149.460 |
+| Heerlen | Zuid-Limburg | 4,57% | € 685.124 |
+| **Totaal** |   | 100,00% | **€ 15.000.000** |
+
+## Bijlage 3. als bedoeld in [artikel 2B.12](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2b&artikel=2b.12&z=2023-03-21&g=2023-03-21)
+
+| Centrumgemeente | Arbeidsmarktregio | Aandeel Pw 2021 (%) | Subsidieplafond 2022 |
+| --- | --- | --- | --- |
+| Groningen | Groningen | 6,54% | € 2.747.100 |
+| Leeuwarden | Friesland | 4,62% | € 1.941.200 |
+| Alkmaar | Noord-Holland Noord | 2,57% | € 1.078.000 |
+| Emmen | Drenthe | 1,89% | € 795.400 |
+| Zwolle | Regio Zwolle | 2,16% | € 908.000 |
+| Almere | Flevoland | 2,10% | € 880.600 |
+| Zaanstad | Zaanstreek/Waterland | 1,48% | € 621.700 |
+| Haarlem | Zuid-Kennemerland en IJmond | 1,68% | € 705.800 |
+| Enschede | Twente | 3,97% | € 1.666.400 |
+| Amsterdam | Groot Amsterdam | 10,77% | € 4.525.300 |
+| Apeldoorn | Stedendriehoek en Noordwest Veluwe | 2,82% | € 1.185.300 |
+| Hilversum | Gooi en Vechtstreek | 0,74% | € 310.600 |
+| Leiden | Holland Rijnland | 1,65% | € 692.400 |
+| Utrecht | Midden-Utrecht | 3,29% | € 1.383.600 |
+| Amersfoort | Amersfoort | 0,99% | € 414.400 |
+| Ede | Food Valley | 1,12% | € 468.400 |
+| Doetinchem | Achterhoek | 1,00% | € 420.200 |
+| Zoetermeer | Zuid-Holland Centraal | 1,36% | € 570.500 |
+| Gouda | Midden-Holland | 0,71% | € 299.600 |
+| Den Haag | Haaglanden | 7,66% | € 3.216.200 |
+| Arnhem | Midden-Gelderland | 3,23% | € 1.354.700 |
+| Rotterdam | Rijnmond | 13,09% | € 5.499.100 |
+| Tiel | Rivierenland | 0,70% | € 293.400 |
+| Gorinchem | Gorinchem | 0,40% | € 170.000 |
+| Nijmegen | Rijk van Nijmegen | 2,52% | € 1.057.900 |
+| Dordrecht | Drechtsteden | 1,72% | € 721.800 |
+| Den Bosch | Noordoost-Brabant | 2,38% | € 999.500 |
+| Breda | West-Brabant | 3,08% | € 1.292.400 |
+| Goes | Zeeland | 1,66% | € 696.500 |
+| Tilburg | Midden-Brabant | 2,20% | € 924.100 |
+| Venlo | Noord-Limburg | 1,20% | € 504.800 |
+| Helmond | Helmond-De Peel | 1,05% | € 441.600 |
+| Eindhoven | Zuidoost-Brabant | 2,09% | € 876.600 |
+| Roermond | Midden-Limburg | 1,00% | € 418.500 |
+| Heerlen | Zuid-Limburg | 4,57% | € 1.918.300 |
+| Totaal |   | 100,00% | € 42.000.000 |
+
+## Bijlage 4. als bedoeld in [artikel 2d.13](https://wetten.overheid.nl/jci1.3:c:BWBR0046622&hoofdstuk=2d&artikel=2d.13&z=2023-03-21&g=2023-03-21)
+
+| Centrumgemeente | Arbeidsmarktregio | Aandeel | Subsidieplafond € 17.5 miljoen |
+| --- | --- | --- | --- |
+| Doetinchem | Achterhoek | 1,00% | € 175.067 |
+| Amersfoort | Amersfoort | 0,99% | € 172.687 |
+| Dordrecht | Drechtsteden | 1,72% | € 300.757 |
+| Emmen | Drenthe | 1,89% | € 331.434 |
+| Almere | Flevoland | 2,10% | € 366.918 |
+| Ede | Food Valley | 1,12% | € 195.175 |
+| Leeuwarden | Friesland | 4,62% | € 808.850 |
+| Hilversum | Gooi en Vechtstreek | 0,74% | € 129.423 |
+| Gorinchem | Gorinchem | 0,40% | € 70.851 |
+| Groningen | Groningen | 6,54% | € 1.144.623 |
+| Amsterdam | Groot Amsterdam | 10,77% | € 1.885.530 |
+| Den Haag | Haaglanden | 7,66% | € 1.340.076 |
+| Helmond | Helmond-De Peel | 1,05% | € 183.996 |
+| Leiden | Holland Rijnland | 1,65% | € 288.518 |
+| Tilburg | Midden-Brabant | 2,20% | € 385.028 |
+| Arnhem | Midden-Gelderland | 3,23% | € 564.469 |
+| Gouda | Midden-Holland | 0,71% | € 124.837 |
+| Venlo | Midden-Limburg | 1,00% | € 174.370 |
+| Utrecht | Midden-Utrecht | 3,29% | € 576.488 |
+| Alkmaar | Noord-Holland Noord | 2,57% | € 449.167 |
+| Venlo | Noord-Limburg | 1,20% | € 210.329 |
+| Den Bosch | Noordoost-Brabant | 2,38% | € 416.469 |
+| Zwolle | Regio Zwolle | 2,16% | € 378.349 |
+| Nijmegen | Rijk van Nijmegen | 2,52% | € 440.792 |
+| Rotterdam | Rijnmond | 13,09% | € 2.291.285 |
+| Tiel | Rivierenland | 0,70% | € 122.252 |
+| Apeldoorn | Stedendriehoek en Noordwest Veluwe | 2,82% | € 493.868 |
+| Enschede | Twente | 3,97% | € 694.318 |
+| Breda | West-Brabant | 3,08% | € 538.509 |
+| Zaanstad | Zaanstreek/Waterland | 1,48% | € 259.041 |
+| Goes | Zeeland | 1,66% | € 290.201 |
+| Zoetermeer | Zuid-Holland Centraal | 1,36% | € 237.690 |
+| Haarlem | Zuid-Kennemerland en IJmond | 1,68% | € 294.091 |
+| Heerlen | Zuid-Limburg | 4,57% | € 799.312 |
+| Eindhoven | Zuidoost-Brabant | 2,09% | € 365.230 |
+| Totaal |   |   | € 17.500.000 |
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
