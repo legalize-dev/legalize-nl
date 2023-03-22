@@ -4,7 +4,7 @@ identifier: "BWBR0046078"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-03-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046078"
 soort: "AMvB"
@@ -86,7 +86,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. werkzaam is als geestelijke; of
 
-- c. werkzaamheden als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=8&artikel=8.1&z=2023-01-01&g=2023-01-01) verricht.
+- c. werkzaamheden als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=8&artikel=8.1&z=2023-03-22&g=2023-03-22) verricht.
 
 5. De in het eerste lid, onder a, genoemde bedragen worden jaarlijks met ingang van 1 januari gewijzigd met het percentage waarmee het indexcijfer van de CAO-lonen over de maand oktober daaraan voorafgaand, gepubliceerd door het Centraal Bureau voor de Statistiek, afwijkt van het indexcijfer waarop de laatste vaststelling van de bedragen is gebaseerd. De gewijzigde bedragen worden door of namens Onze Minister medegedeeld in de Staatscourant.
 
@@ -110,7 +110,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het verbod is niet van toepassing met betrekking tot een vreemdeling die houder is van een verblijfsvergunning voor bepaalde tijd, als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), verleend onder een beperking verband houdend met onderzoek in de zin van [richtlijn (EU) 2016/801](32016L0801) van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten (herschikking) (PbEU 2016, L 132) of een vreemdeling die in het bezit is van een machtiging tot voorlopig verblijf die overeenkomt met voornoemd verblijfsdoel, die in Nederland wordt tewerkgesteld bij een krachtens [artikel 2c van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2c) als referent erkende onderzoeksinstelling in de zin van die richtlijn.
 
-2. Het verbod is eveneens niet van toepassing met betrekking tot een vreemdeling die in Nederland verblijft op grond van [artikel 3.3, vierde lid, onder a, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.3) en onderwijs geeft of onderzoek verricht aan een krachtens [artikel 2c van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2c) als referent erkende onderzoeksinstelling die geen universiteit, hogeschool of gelieerde instelling is, bedoeld in [artikel 2.4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.4&z=2023-01-01&g=2023-01-01).
+2. Het verbod is eveneens niet van toepassing met betrekking tot een vreemdeling die in Nederland verblijft op grond van [artikel 3.3, vierde lid, onder a, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.3) en onderwijs geeft of onderzoek verricht aan een krachtens [artikel 2c van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2c) als referent erkende onderzoeksinstelling die geen universiteit, hogeschool of gelieerde instelling is, bedoeld in [artikel 2.4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.4&z=2023-03-22&g=2023-03-22).
 
 3. Het tweede lid is van overeenkomstige toepassing op een vreemdeling die in afwachting is van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning regulier voor bepaalde tijd voor onderzoek in de zin van de richtlijn, bedoeld in het eerste lid, en tevens houder is van een door een andere lidstaat van de Europese Unie afgegeven verblijfsvergunning voor onderzoek in de zin van die richtlijn.
 
@@ -288,7 +288,7 @@ Het verbod is niet van toepassing met betrekking tot een vreemdeling die zijn ho
 
 - a. geen arbeidsovereenkomst heeft met een in Nederland gevestigde werkgever en uitsluitend arbeid verricht op buiten Nederland geregistreerde vervoermiddelen in het internationale verkeer, niet zijnde een zeeschip als bedoeld in [artikel 2, eerste lid, van Boek 8 van het Burgerlijk Wetboek;](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=2) of
 
-- b. als lid van de bemanning schepelingendienst verricht aan boord van een zeeschip als bedoeld in [artikel 2 van de Zeebrievenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001933&artikel=2), voor zover het zeeschip niet uitsluitend als binnenschip wordt geëxploiteerd op de Nederlandse binnenwateren, dan wel als werktuig voor weg en waterbouw binnen Nederland.
+- b. als lid van de bemanning schepelingendienst verricht aan boord van een zeeschip als bedoeld in [artikel 2 van de Zeebrievenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001933&artikel=2), voor zover het zeeschip niet uitsluitend als binnenschip wordt geëxploiteerd op de Nederlandse binnenwateren, dan wel als werktuig voor weg en waterbouw binnen Nederland en voor zover de vreemdeling niet behoort tot de categorie vreemdelingen, bedoeld in [artikel 4.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.5a&z=2023-03-22&g=2023-03-22).
 
 ##### Artikel 4.6. Grensoverschrijdende dienstverlening
 
@@ -444,13 +444,13 @@ Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wette
 
 - 1°. een kennismigrant als bedoeld in [artikel 3.4, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4);
 
-- 2°. een houder van een door Onze Minister van Justitie en Veiligheid afgegeven Europese blauwe kaart als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.2&z=2023-01-01&g=2023-01-01);
+- 2°. een houder van een door Onze Minister van Justitie en Veiligheid afgegeven Europese blauwe kaart als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.2&z=2023-03-22&g=2023-03-22);
 
 - 3°. een houder van de verblijfsvergunning regulier voor bepaalde tijd, verleend onder de beperking «overplaatsing binnen een onderneming» op grond van [artikel 3.30d van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.30d);
 
 - 4°. een zelfstandige als bedoeld in [artikel 3.4, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4); of
 
-- 5°. een vreemdeling die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met verblijf als familie- of gezinslid van een vreemdeling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.7&z=2023-01-01&g=2023-01-01).
+- 5°. een vreemdeling die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met verblijf als familie- of gezinslid van een vreemdeling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.7&z=2023-03-22&g=2023-03-22).
 
 - b. een vreemdeling die rechtmatig in Nederland verblijft, in de zin van [artikel 8, onder a, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), en is toegelaten voor verblijf bij:
 
@@ -460,11 +460,11 @@ Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wette
 
 - c. een vreemdeling die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), onder een beperking verband houdend met verblijf als familie- of gezinslid van een vreemdeling die is toegelaten onder een beperking verband houdend met onderzoek als bedoeld in [artikel 3.4, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4);
 
-- d. de afhankelijke gezinsleden van de in [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.5&z=2023-01-01&g=2023-01-01) genoemde vreemdelingen.
+- d. de afhankelijke gezinsleden van de in [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.5&z=2023-03-22&g=2023-03-22) genoemde vreemdelingen.
 
 ##### Artikel 7.2. Vreemdeling met eerdere aantekening [artikel 4 Wav](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4)
 
-Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4) wordt afgegeven aan een vreemdeling, met uitzondering van de vreemdeling, genoemd in de [artikelen 7.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.1&z=2023-01-01&g=2023-01-01), en [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.4&z=2023-01-01&g=2023-01-01), die in het verleden heeft beschikt over een krachtens de [Vreemdelingenwet of Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) afgegeven vergunning met daarop een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4), die is afgegeven op grond van het tweede lid van dat artikel en die nadien zijn hoofdverblijf niet buiten Nederland heeft gevestigd.
+Een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4) wordt afgegeven aan een vreemdeling, met uitzondering van de vreemdeling, genoemd in de [artikelen 7.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.1&z=2023-03-22&g=2023-03-22), en [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.4&z=2023-03-22&g=2023-03-22), die in het verleden heeft beschikt over een krachtens de [Vreemdelingenwet of Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) afgegeven vergunning met daarop een aantekening als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=4), die is afgegeven op grond van het tweede lid van dat artikel en die nadien zijn hoofdverblijf niet buiten Nederland heeft gevestigd.
 
 ##### Artikel 7.3. Ononderbroken periode zeevaart of mijnbouw
 
@@ -516,7 +516,7 @@ Een tewerkstellingsvergunning of gecombineerde vergunning wordt geweigerd voor w
 
 2. Het eerste lid is niet van toepassing indien het Sanctiecomité, bedoeld in Resolutie 1718 (2006) van de Veiligheidsraad van de Verenigde Naties, vooraf per geval goedkeuring geeft voor de tewerkstelling van vreemdelingen met de Noord-Koreaanse nationaliteit omdat het dit nodig acht voor de verstrekking van humanitaire bijstand, denuclearisatie, of enig ander doel dat verenigbaar is met de doelstellingen van de resoluties van de Veiligheidsraad van de Verenigde Naties 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017) of 2371 (2017).
 
-3. Het verbod met betrekking tot de vreemdeling met de Noord-Koreaanse nationaliteit is van toepassing op [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.1&z=2023-01-01&g=2023-01-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.2&z=2023-01-01&g=2023-01-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.3&z=2023-01-01&g=2023-01-01), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.4&z=2023-01-01&g=2023-01-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.5&z=2023-01-01&g=2023-01-01), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=3&artikel=3.1&z=2023-01-01&g=2023-01-01), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=3&artikel=3.3&z=2023-01-01&g=2023-01-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=3&artikel=3.4&z=2023-01-01&g=2023-01-01), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.1&z=2023-01-01&g=2023-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.2&z=2023-01-01&g=2023-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.3&z=2023-01-01&g=2023-01-01), met uitzondering van artikel 4.3, eerste lid, onder c, en daarnaast op de [artikelen 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.4&z=2023-01-01&g=2023-01-01), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=5&artikel=5.1&z=2023-01-01&g=2023-01-01), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=5&artikel=5.2&z=2023-01-01&g=2023-01-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=6&artikel=6.3&z=2023-01-01&g=2023-01-01), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=6&artikel=6.4&z=2023-01-01&g=2023-01-01), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.1&z=2023-01-01&g=2023-01-01), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01), [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.3&z=2023-01-01&g=2023-01-01), [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.4&z=2023-01-01&g=2023-01-01), [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.5&z=2023-01-01&g=2023-01-01), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.6&z=2023-01-01&g=2023-01-01) en [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.7&z=2023-01-01&g=2023-01-01).
+3. Het verbod met betrekking tot de vreemdeling met de Noord-Koreaanse nationaliteit is van toepassing op [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.1&z=2023-03-22&g=2023-03-22), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.2&z=2023-03-22&g=2023-03-22), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.3&z=2023-03-22&g=2023-03-22), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.4&z=2023-03-22&g=2023-03-22), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.5&z=2023-03-22&g=2023-03-22), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=3&artikel=3.1&z=2023-03-22&g=2023-03-22), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=3&artikel=3.3&z=2023-03-22&g=2023-03-22), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=3&artikel=3.4&z=2023-03-22&g=2023-03-22), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.1&z=2023-03-22&g=2023-03-22), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.2&z=2023-03-22&g=2023-03-22), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.3&z=2023-03-22&g=2023-03-22), met uitzondering van artikel 4.3, eerste lid, onder c, en daarnaast op de [artikelen 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.4&z=2023-03-22&g=2023-03-22), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=5&artikel=5.1&z=2023-03-22&g=2023-03-22), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=5&artikel=5.2&z=2023-03-22&g=2023-03-22), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=6&artikel=6.3&z=2023-03-22&g=2023-03-22), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=6&artikel=6.4&z=2023-03-22&g=2023-03-22), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.1&z=2023-03-22&g=2023-03-22), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.2&z=2023-03-22&g=2023-03-22), [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.3&z=2023-03-22&g=2023-03-22), [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.4&z=2023-03-22&g=2023-03-22), [7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.5&z=2023-03-22&g=2023-03-22), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.6&z=2023-03-22&g=2023-03-22) en [7.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.7&z=2023-03-22&g=2023-03-22).
 
 ### Hoofdstuk 9. Duur tewerkstellingsvergunning
 
@@ -540,13 +540,13 @@ Als bij de beoordeling tot het afgeven van een tewerkstellingsvergunning een vol
 
 ##### Artikel 10.2. Ernstige overtreding
 
-Als ernstige overtreding in de zin van [artikel 19d, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19d) wordt aangemerkt de overtreding, genoemd in [artikel 10.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=10&artikel=10.1&z=2023-01-01&g=2023-01-01).
+Als ernstige overtreding in de zin van [artikel 19d, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19d) wordt aangemerkt de overtreding, genoemd in [artikel 10.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=10&artikel=10.1&z=2023-03-22&g=2023-03-22).
 
 ##### Artikel 10.3. Soortgelijke verplichtingen en verboden
 
 1. Als soortgelijke verplichtingen en verboden als bedoeld in [artikel 19d, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19d) worden aangewezen de verplichtingen en verboden op grond van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a) en [18, tweede lid, zoals dat artikel luidde op 30 juni 2015, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=18).
 
-2. Als een soortgelijke overtreding als bedoeld in [artikel 10.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=10&artikel=10.1&z=2023-01-01&g=2023-01-01), wordt beschouwd een overtreding van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a) en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=18), zoals dat artikel luidde op 30 juni 2015, van de wet.
+2. Als een soortgelijke overtreding als bedoeld in [artikel 10.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=10&artikel=10.1&z=2023-03-22&g=2023-03-22), wordt beschouwd een overtreding van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a) en [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=18), zoals dat artikel luidde op 30 juni 2015, van de wet.
 
 ### Hoofdstuk 11. Openbaarmaking
 
@@ -572,11 +572,11 @@ Als ernstige overtreding in de zin van [artikel 19d, derde en vijfde lid, van de
 
 - f. de sector of branche waarin deze normadressaat zijn economische activiteit verricht.
 
-2. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2023-01-01&g=2023-01-01), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
+2. Indien na afronding van een onderzoek geen overtreding is geconstateerd die leidt tot de besluiten, genoemd in [artikel 11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2023-03-22&g=2023-03-22), wordt bij de gegevens, genoemd in het eerste lid, de opmerking geplaatst dat geen overtreding is geconstateerd.
 
 ##### Artikel 11.3. Openbare gegevens omtrent opgelegde boetes en stilleggingen
 
-1. In aanvulling op [artikel 11.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2023-01-01&g=2023-01-01), worden indien een onderzoek door de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=14), en [19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19a), wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 19a, dan wel door een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 17b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=17b), de volgende inspectiegegevens over dat besluit openbaar gemaakt:
+1. In aanvulling op [artikel 11.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2023-03-22&g=2023-03-22), worden indien een onderzoek door de toezichthouder of de door Onze Minister aangewezen ambtenaren, bedoeld in de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=14), en [19a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19a), wordt gevolgd door een besluit tot het opleggen van een bestuurlijke boete als bedoeld in artikel 19a, dan wel door een besluit tot bevel tot staken van de werkzaamheden als bedoeld in [artikel 17b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=17b), de volgende inspectiegegevens over dat besluit openbaar gemaakt:
 
 - a. welk besluit is genomen, de artikelen van de wet die de grondslag daarvoor bieden en de datum van dat besluit; en
 
@@ -586,19 +586,19 @@ Als ernstige overtreding in de zin van [artikel 19d, derde en vijfde lid, van de
 
 ##### Artikel 11.4. Termijn waarbinnen openbaarmaking geschiedt
 
-1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2023-01-01&g=2023-01-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2023-01-01&g=2023-01-01), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
+1. De openbaarmaking van de gegevens, bedoeld in de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2023-03-22&g=2023-03-22) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2023-03-22&g=2023-03-22), geschiedt niet eerder dan tien werkdagen, doch uiterlijk dertig werkdagen na de datum waarop het besluit tot openbaarmaking van deze gegevens aan belanghebbende bekend is gemaakt.
 
 2. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 19g, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19g), wordt de termijn van dertig werkdagen, bedoeld in het eerste lid, overeenkomstig opgeschort.
 
 ##### Artikel 11.5. Reactie van belanghebbende
 
-1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2023-01-01&g=2023-01-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2023-01-01&g=2023-01-01), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
+1. Op verzoek van de belanghebbende kan een schriftelijke reactie over de openbaarmaking van de gegevens, bedoeld in de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2023-03-22&g=2023-03-22) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2023-03-22&g=2023-03-22), van ten hoogste 2.000 leestekens worden gegeven, die zal worden gevoegd bij de openbaar te maken gegevens op de website met informatie van de toezichthouder of de door Onze Minister aangewezen ambtenaren.
 
 2. Onderdelen van de schriftelijke reactie die persoonsgegevens, bedrijfsnamen of bedrijfsgegevens van derden dan wel strafbare of aanstootgevende uitlatingen bevatten, worden niet op de website gepubliceerd.
 
 ##### Artikel 11.6. Rectificatie
 
-Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 19g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19g), en de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2023-01-01&g=2023-01-01) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2023-01-01&g=2023-01-01) zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na ontvangst van de desbetreffende beslissing door Onze Minister.
+Indien in verband met een beslissing op bezwaar, beroep of hoger beroep wordt vastgesteld dat de gegevens, die op grond van [artikel 19g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19g), en de [artikelen 11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.2&z=2023-03-22&g=2023-03-22) en [11.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=11&artikel=11.3&z=2023-03-22&g=2023-03-22) zijn gemaakt, niet meer juist of volledig zijn, worden deze gegevens aangepast, binnen tien werkdagen na ontvangst van de desbetreffende beslissing door Onze Minister.
 
 ### Hoofdstuk 12. Wijzigingsbepalingen
 
@@ -618,21 +618,23 @@ Het [Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci
 
 ##### Artikel 13.2. Grondslag uitvoeringsregeling
 
-Na de inwerkingtreding van dit besluit berust mede de [Regeling uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0034570) op de [artikelen 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=6&artikel=6.2&z=2023-01-01&g=2023-01-01), en [10.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=10&artikel=10.1&z=2023-01-01&g=2023-01-01), van dit besluit.
+Na de inwerkingtreding van dit besluit berust mede de [Regeling uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0034570) op de [artikelen 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=6&artikel=6.2&z=2023-03-22&g=2023-03-22), en [10.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=10&artikel=10.1&z=2023-03-22&g=2023-03-22), van dit besluit.
 
 ##### Artikel 13.3. Inwerkingtreding en vervaldatum
 
 1. Dit besluit treedt in werking op het tijdstip waarop de [Wet tot wijziging van de Wet arbeid vreemdelingen in verband met het toekomstbestendig maken van de wetgeving op het terrein van arbeidsmigratie](https://wetten.overheid.nl/jci1.3:c:BWBR0045741) (Stb. 2021, 505) in werking treedt.
 
-2. De [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.7&z=2023-01-01&g=2023-01-01) en [7.1, onder a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.1&z=2023-01-01&g=2023-01-01), met vervanging van de puntkomma aan het slot van onder 3° door «; of» en met vervanging van «; of» aan het slot van onder 4° door een punt, van het Besluit uitvoering Wet arbeid vreemdelingen 2022 en [artikel 3.31, zesde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.31) vervallen met ingang van 1 juni 2025.
+2. De [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.7&z=2023-03-22&g=2023-03-22) en [7.1, onder a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.1&z=2023-03-22&g=2023-03-22), met vervanging van de puntkomma aan het slot van onder 3° door «; of» en met vervanging van «; of» aan het slot van onder 4° door een punt, van het Besluit uitvoering Wet arbeid vreemdelingen 2022 en [artikel 3.31, zesde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.31) vervallen met ingang van 1 juni 2025.
 
 3. Het tweede lid geldt met dien verstande dat:
 
-- a. [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.7&z=2023-01-01&g=2023-01-01) van het Besluit uitvoering Wet arbeid vreemdelingen 2022 en [artikel 3.31, zesde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.31), zoals die luidden op 31 mei 2025, tot en met 31 mei 2026 van toepassing blijven met betrekking tot de vreemdeling die op basis van [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.7&z=2023-01-01&g=2023-01-01) van het Besluit uitvoering Wet arbeid vreemdelingen 2022 werkzaamheden verricht.
+- a. [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.7&z=2023-03-22&g=2023-03-22) van het Besluit uitvoering Wet arbeid vreemdelingen 2022 en [artikel 3.31, zesde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.31), zoals die luidden op 31 mei 2025, tot en met 31 mei 2026 van toepassing blijven met betrekking tot de vreemdeling die op basis van [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=2&artikel=2.7&z=2023-03-22&g=2023-03-22) van het Besluit uitvoering Wet arbeid vreemdelingen 2022 werkzaamheden verricht.
 
-- b. [Artikel 7.1, onder a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.1&z=2023-01-01&g=2023-01-01), van het Besluit uitvoering Wet arbeid vreemdelingen 2022, zoals dat luidde op 31 mei 2025, tot en met 31 mei 2026 van toepassing blijft met betrekking tot het familie- of gezinslid van de vreemdeling, bedoeld onder a.
+- b. [Artikel 7.1, onder a, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=7&artikel=7.1&z=2023-03-22&g=2023-03-22), van het Besluit uitvoering Wet arbeid vreemdelingen 2022, zoals dat luidde op 31 mei 2025, tot en met 31 mei 2026 van toepassing blijft met betrekking tot het familie- of gezinslid van de vreemdeling, bedoeld onder a.
 
-4. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=6&artikel=6.5&z=2023-01-01&g=2023-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+4. [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=6&artikel=6.5&z=2023-03-22&g=2023-03-22) vervalt op een bij koninklijk besluit te bepalen tijdstip.
+
+5. [Artikel 4.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&hoofdstuk=4&artikel=4.5a&z=2023-03-22&g=2023-03-22) en de zinsnede «en voor zover de vreemdeling niet behoort tot de categorie vreemdelingen, bedoeld in artikel 4.5a» in artikel 4.5, onderdeel b, vervallen op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 13.4. Citeertitel
 
