@@ -4,7 +4,7 @@ identifier: "BWBR0047982"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-03-22"
-last_updated: "2023-01-01"
+last_updated: "2023-03-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047982"
 soort: "zbo"
@@ -94,9 +94,9 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### 5. Macrobeheersinstrument
 
-1. Indien sprake blijkt (te zijn geweest) van een overschrijding van de bovengrens als bedoeld in [artikel 4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047982&artikel=4&z=2023-03-22&g=2023-01-01), maakt de NZa die overschrijding op last van de minister ongedaan met gebruikmaking van het macrobeheersinstrument (mbi).
+1. Indien sprake blijkt (te zijn geweest) van een overschrijding van de bovengrens als bedoeld in [artikel 4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047982&artikel=4&z=2023-03-22&g=2023-03-22), maakt de NZa die overschrijding op last van de minister ongedaan met gebruikmaking van het macrobeheersinstrument (mbi).
 
-2. Indien en nadat de minister aan de NZa heeft meegedeeld dat de in [artikel 4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047982&artikel=4&z=2023-03-22&g=2023-01-01) genoemde bovengrens in jaar t niet is overschreden, stelt de NZa de bovengrens ambtshalve vast. De hoogte van de grens wordt bepaald door de som van de door afzonderlijke zorgaanbieders gezamenlijk in jaar t gerealiseerde omzetten.
+2. Indien en nadat de minister aan de NZa heeft meegedeeld dat de in [artikel 4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047982&artikel=4&z=2023-03-22&g=2023-03-22) genoemde bovengrens in jaar t niet is overschreden, stelt de NZa de bovengrens ambtshalve vast. De hoogte van de grens wordt bepaald door de som van de door afzonderlijke zorgaanbieders gezamenlijk in jaar t gerealiseerde omzetten.
 
 Ook deze beschikking maakt de NZa bekend door publicatie op haar website, toezending aan branche- en koepelorganisaties en door mededeling van de vaststelling ervan in de Staatscourant.
 
