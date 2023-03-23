@@ -4,7 +4,7 @@ identifier: "BWBR0039392"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2017-03-30"
+last_updated: "2023-03-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039392"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 - b. het behandelen van klachten die gedragingen van het College of leden daarvan betreffen;
 
-- c. het beslissen op verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252);
+- c. het beslissen op verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
 
 - d. het beslissen op verzoeken op grond van de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795); en
 
@@ -88,7 +88,7 @@ Aan het College wordt mandaat verleend ten aanzien van de tot de verantwoordelij
 
 - 6°. de Nationale ombudsman voor zover het gaat om het geven van een verbod als bedoeld in [artikel 14 Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=14).
 
-- b. de bevoegdheden die in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=2&z=2017-03-30&g=2017-03-30) aan de secretaris-generaal zijn verleend.
+- b. De bevoegdheden die in [artikel 2, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=2&z=2023-03-23&g=2023-03-23) aan de secretaris-generaal zijn verleend.
 
 ##### Artikel 4
 
@@ -102,7 +102,7 @@ Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijk
 
 ##### Artikel 6
 
-1. Ondermandaat door het College tot het nemen van besluiten op verzoeken op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de behandeling van en beslissing op bezwaarschriften tegen voornoemde besluiten en met die verzoeken of bezwaarschriften samenhangende beslissingen kan uitsluitend worden verleend aan:
+1. Ondermandaat door het College tot het nemen van besluiten op verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de behandeling van en beslissing op bezwaarschriften tegen voornoemde besluiten en met die verzoeken of bezwaarschriften samenhangende beslissingen kan uitsluitend worden verleend aan:
 
 - a. de hoofden van de parketten;
 
@@ -116,7 +116,7 @@ Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijk
 
 ##### Artikel 7
 
-1. Ondermandaat door het College ten aanzien van het behandelen van en beslissen op beroepschriften tegen de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=6&z=2017-03-30&g=2017-03-30), bedoelde bezwaarschriften kan worden verleend aan:
+1. Ondermandaat door het College ten aanzien van het behandelen van en beslissen op beroepschriften tegen de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039392&artikel=6&z=2023-03-23&g=2023-03-23), bedoelde bezwaarschriften kan worden verleend aan:
 
 - a. het hoofd van de afdeling Bestuurlijke en Juridische Zaken van het parket-generaal;
 
