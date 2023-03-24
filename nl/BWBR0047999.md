@@ -49,15 +49,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-Op de voordracht van Onze Minister van Financiën van 20 december 2022, 2022-0000308797, directie Financiële Markten;
-
-Gelet op de [artikelen 4:25b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:25b), en [4:3, vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:3);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 1 februari 2023, nr. W06.22.00211/III);
-
-Gezien het nader rapport van Onze Minister van Financiën van 8 maart 2023, 2023-0000028047, directie Financiële Markten;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
