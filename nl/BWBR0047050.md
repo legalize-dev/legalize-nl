@@ -4,7 +4,7 @@ identifier: "BWBR0047050"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-25"
-last_updated: "2022-08-16"
+last_updated: "2023-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047050"
 soort: "ministeriele-regeling"
@@ -142,7 +142,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - d. een verklaring waaruit blijkt dat de medezeggenschapsraad van de school is geïnformeerd over de aanvraag; en
 
-- e. een verklaring waaruit blijkt dat het bevoegd gezag gebruik wil maken van de ondersteuning van een basisteam, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=3&z=2022-08-16&g=2022-08-16). En een inventarisatie van de behoefte aan begeleiding van de school, waar het ondersteuning vanuit een basisteam betreft.
+- e. een verklaring waaruit blijkt dat het bevoegd gezag gebruik wil maken van de ondersteuning van een basisteam, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=3&z=2023-03-25&g=2023-03-25). En een inventarisatie van de behoefte aan begeleiding van de school, waar het ondersteuning vanuit een basisteam betreft.
 
 ##### Artikel 6. Subsidieplafonds basissubsidie en aanvullende subsidie
 
@@ -164,13 +164,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 7. Subsidiebedrag
 
-1. Het bedrag van de basissubsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=4&z=2022-08-16&g=2022-08-16), wordt berekend door het aantal leerlingen dat op 1 oktober 2021 stond ingeschreven op de desbetreffende vestiging te vermenigvuldigen met een bedrag van:
+1. Het bedrag van de basissubsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=4&z=2023-03-25&g=2023-03-25), wordt berekend door het aantal leerlingen dat op 1 oktober 2021 stond ingeschreven op de desbetreffende vestiging te vermenigvuldigen met een bedrag van:
 
 - a. € 961,– voor het primair onderwijs en primair onderwijs BES;
 
 - b. € 1.202,– voor het voortgezet onderwijs.
 
-2. Het bedrag van de aanvullende subsidie bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=5&z=2022-08-16&g=2022-08-16), wordt berekend door het aantal leerlingen op de vestiging dat op 1 oktober 2021 stond ingeschreven te vermenigvuldigen met:
+2. Het bedrag van de aanvullende subsidie bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=5&z=2023-03-25&g=2023-03-25), wordt berekend door het aantal leerlingen op de vestiging dat op 1 oktober 2021 stond ingeschreven te vermenigvuldigen met:
 
 - a. € 366,– voor het primair onderwijs en primair onderwijs BES;
 
@@ -182,11 +182,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 8. Wijze van verdeling beschikbare middelen
 
-Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een basissubsidie of een aanvullende subsidie leidt tot overschrijding van een subsidieplafond als bedoeld in [artikel 6, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=5&z=2022-08-16&g=2022-08-16), krijgen de aanvragen van de scholen op Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende subsidieplafond door middel van loting gerangschikt. Scholen krijgen volgens de rangschikking subsidie toegekend tot het subsidieplafond is bereikt.
+Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een basissubsidie of een aanvullende subsidie leidt tot overschrijding van een subsidieplafond als bedoeld in [artikel 6, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=5&z=2023-03-25&g=2023-03-25), krijgen de aanvragen van de scholen op Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende subsidieplafond door middel van loting gerangschikt. Scholen krijgen volgens de rangschikking subsidie toegekend tot het subsidieplafond is bereikt.
 
 ##### Artikel 9. Afwijzingsgrond
 
-Indien de aanvraag van de basissubsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=4&z=2022-08-16&g=2022-08-16), voor een vestiging wordt afgewezen, wordt ook de aanvraag voor aanvullende subsidie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=5&z=2022-08-16&g=2022-08-16), voor die vestiging afgewezen.
+Indien de aanvraag van de basissubsidie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=4&z=2023-03-25&g=2023-03-25), voor een vestiging wordt afgewezen, wordt ook de aanvraag voor aanvullende subsidie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047050&artikel=5&z=2023-03-25&g=2023-03-25), voor die vestiging afgewezen.
 
 ##### Artikel 10. Subsidieverplichtingen
 
@@ -198,7 +198,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - c. de subsidieontvanger voert ten behoeve van de monitoring een nulmeting uit voor in ieder geval de prestaties van taal, rekenen of wiskunde. De subsidieontvanger monitort de voortgang op in ieder geval de prestaties op het gebied van taal, rekenen of wiskunde gedurende de looptijd van de subsidie; en
 
-- d. de activiteiten waarvoor subsidie is verstrekt worden uiterlijk tot en met 31 januari 2024 uitgevoerd.
+- d. de activiteiten waarvoor subsidie is verstrekt worden uiterlijk tot en met 31 juli 2024 uitgevoerd.
 
 ##### Artikel 11. Verstrekking, besteding en verantwoording
 
