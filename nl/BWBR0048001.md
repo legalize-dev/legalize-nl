@@ -4,7 +4,7 @@ identifier: "BWBR0048001"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-03-28"
-last_updated: "2022-01-01"
+last_updated: "2023-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048001"
 soort: "zbo"
@@ -111,13 +111,13 @@ De bestuurlijke verantwoording van de wettelijke regelingen en taken (zie paragr
 
 Voor de verantwoording van de financiële stromen maakt het CAK gebruik van de matrix bestuurlijke verantwoording. De matrix geven aan bij welke financiële stromen (op kasbasis) het CAK direct is betrokken, wat de omvang is van deze financiële stromen, welke taken en verantwoordelijkheden het CAK heeft ten aanzien van deze financiële stromen en welke voorbehouden gelden in verband met de opdrachtverstrekking en gegevensaanlevering door derden. In de kolom bestuurlijke toelichting geeft het CAK aan hoe en in hoeverre de rechtmatigheid van de financiële stromen door het CAK is gewaarborgd.
 
-De matrix voor de NZa is uitgewerkt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=3&z=2023-03-28&g=2022-01-01) ‘Model Matrix bestuurlijke verantwoording NZa’. De matrix, die een rol speelt bij de concrete invulling van het rechtmatigheidsbegrip bij het CAK, geven de volgende financiële stromen weer op kasbasis:
+De matrix voor de NZa is uitgewerkt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=3&z=2023-03-28&g=2023-03-28) ‘Model Matrix bestuurlijke verantwoording NZa’. De matrix, die een rol speelt bij de concrete invulling van het rechtmatigheidsbegrip bij het CAK, geven de volgende financiële stromen weer op kasbasis:
 
 In de bestuurlijke verantwoording worden financiële overzichten inclusief toelichtingen opgenomen van de activa en passiva van de financiële stromen van de door het CAK uitgevoerde wettelijke taken in het verantwoordingsjaar (inclusief vergelijkende cijfers) op basis van het toerekeningsbeginsel, in totaal- en in specificatieoverzichten per regeling. Van deze activa en passiva worden verloopoverzichten met balansstanden, balansmutaties en vergelijkende cijfers en toelichtingen opgenomen van vorderingen en schulden (minimaal verloopoverzichten van de rekening-courantposities en de openstaande vorderingen inclusief een uitsplitsing van deze openstaande vorderingen naar ouderdom voor de posten die betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)).
 
 Het CAK neemt in de financiële overzichten van de activa en passiva op basis van het toerekeningsbeginsel debiteurenvorderingen op. Deze vorderingen worden gewaardeerd tegen nominale waarde. Er wordt in dit onderdeel van de bestuurlijke verantwoording geen voorziening voor oninbaarheid opgenomen voor de debiteurenvorderingen, omdat het risico voor oninbaarheid voor rekening van het desbetreffende fonds of gemeente is. Het CAK neemt in de toelichting van de financiële verantwoording een analyse op van de debiteurenpositie gewaardeerd tegen reële waarde (inclusief toelichting van eventuele schattingen), alsmede een nadere toelichting inzake juistheid, volledigheid en bestaan van de debiteurenpositie teneinde de voorziening voor oninbaarheid te kunnen bepalen.
 
-De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=1&z=2023-03-28&g=2022-01-01) Waarderingsgrondslagen van dit model.
+De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=1&z=2023-03-28&g=2023-03-28) Waarderingsgrondslagen van dit model.
 
 De andere informatie in de bestuurlijke verantwoording bestaat minimaal uit bovengenoemde onderdelen a tot en met h. Onderdeel a het voorwoord en de inleiding spreken hierbij voor zich. De verantwoording bij overige onderdelen worden onderstaand nader beschreven.
 
@@ -147,7 +147,7 @@ In de bestuursverklaring geeft de Raad van Bestuur van het CAK aan of de informa
 
 Onderdeel e ‘de kengetallen en prestatie-indicatoren’
 
-Het CAK moet in de bestuurlijke verantwoording een aantal kengetallen en prestatie-indicatoren voor het verslagjaar en voor zover van toepassing het jaar voorafgaand aan het verslagjaar opnemen. Deze kengetallen en prestatie-indicatoren zijn in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=5&z=2023-03-28&g=2022-01-01) ‘Definities kengetallen en prestatie-indicatoren’ van dit model opgenomen.
+Het CAK moet in de bestuurlijke verantwoording een aantal kengetallen en prestatie-indicatoren voor het verslagjaar en voor zover van toepassing het jaar voorafgaand aan het verslagjaar opnemen. Deze kengetallen en prestatie-indicatoren zijn in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=5&z=2023-03-28&g=2023-03-28) ‘Definities kengetallen en prestatie-indicatoren’ van dit model opgenomen.
 
 Met het oog op eventuele controles achteraf legt het CAK duidelijk intern vast, hoe de aan de kengetallen en prestatie-indicatoren ten grondslag liggende gegevens tot stand zijn gekomen.
 
@@ -227,7 +227,7 @@ De Raad van Bestuur van het CAK dient ervoor te zorgen dat de bestuurlijke veran
 
 Juistheid en volledigheid houden in hun algemeenheid in dat het beeld dat de verstrekte verantwoordingsinformatie oproept overeenkomt met de feiten (de werkelijkheid) en geschikt is voor het doel waartoe deze informatie aan de gebruiker wordt verstrekt.
 
-In dit kader dienen de in de financiële verantwoording opgenomen activa en passiva (balansmutaties) en toelichtingen daarop en de in de matrices bestuurlijke verantwoording opgenomen financiële stromen een feitelijke weergave te zijn van de transacties, de uitgevoerde werkzaamheden en de gebeurtenissen in het verslagjaar 2022. De financiële stromen en de activa en passiva in de financiële overzichten dienen te worden verantwoord met inachtneming van de waarderingsgrondslagen zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=1&z=2023-03-28&g=2022-01-01).
+In dit kader dienen de in de financiële verantwoording opgenomen activa en passiva (balansmutaties) en toelichtingen daarop en de in de matrices bestuurlijke verantwoording opgenomen financiële stromen een feitelijke weergave te zijn van de transacties, de uitgevoerde werkzaamheden en de gebeurtenissen in het verslagjaar 2022. De financiële stromen en de activa en passiva in de financiële overzichten dienen te worden verantwoord met inachtneming van de waarderingsgrondslagen zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=1&z=2023-03-28&g=2023-03-28).
 
 ### 3.3. Rechtmatigheid
 
@@ -245,7 +245,7 @@ Bij gebruikersverantwoordelijkheid moet een organisatie ook zorgen voor de juist
 
 Om tot een werkbaar rechtmatigheidsbegrip te komen, die een externe accountant als maatstaf kan hanteren bij zijn accountantsonderzoek, zijn de volgende randvoorwaarden van belang:
 
-In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=2&z=2023-03-28&g=2022-01-01) bij dit model is een overzicht opgenomen van de circulaires en regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK, daarnaast zijn daar ook de overige beleidsstukken opgenomen. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
+In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=2&z=2023-03-28&g=2023-03-28) bij dit model is een overzicht opgenomen van de circulaires en regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK, daarnaast zijn daar ook de overige beleidsstukken opgenomen. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
 
 Met inachtneming van de genoemde randvoorwaarden en nadere uitwerking van het begrip rechtmatigheid in hoofdstuk 4, dient de externe accountant een rechtmatigheidsoordeel te geven en in zijn verslag een toelichting te geven op de rechtmatige uitvoering door het CAK. In het protocol zijn de richtlijnen voor de controle van de externe accountant uitgewerkt.
 
@@ -682,4 +682,4 @@ Het CAK moet zelf ook een beoordeling doen in het verlengde van haar uitvoerings
 
 Om kwijtschelding mogelijk te maken is er een kwijtscheldingsgrondslag opgenomen in de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) ([artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.10)), die in werking is getreden op 2 november 2022 en terugwerkt tot en met 1 juni 2021 ([artikel 9.2, lid 1g](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=9.2)). Voor 2022 handelt het CAK tot het moment van inwerkingtreding van de Wet hersteloperaties toeslagen in opdracht van het Ministerie van VWS, daarna overeenkomstig de wet. Inzake de opdrachtverstrekking door het Ministerie van VWS in 2021 is de Tweede Kamer, voordat de eerste kwijtschelding door het CAK werd uitgevoerd, geïnformeerd.
 
-De [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) is onderdeel van het rechtmatigheidskader van ‘[Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=2&z=2023-03-28&g=2022-01-01). Algemene wet- en regelgeving’.
+De [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) is onderdeel van het rechtmatigheidskader van ‘[Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=2&z=2023-03-28&g=2023-03-28). Algemene wet- en regelgeving’.
