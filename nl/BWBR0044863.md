@@ -4,7 +4,7 @@ identifier: "BWBR0044863"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-22"
-last_updated: "2023-01-01"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044863"
 soort: "ministeriele-regeling"
@@ -56,11 +56,13 @@ Besluit:
 
 - –. **besluit:** [Besluit plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044299); boomkwekerijgewassen en vaste planten: winterharde en half-winterharde houtgewassen, vaste planten en vaste planten en wortelstokken, uitgezonderd de gewassen die gerekend worden tot de bloembollensector, en als zodanig worden genoemd in [bijlage II van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II);
 
+- –. **bietenopslag:** bladvorming aan of bietenplanten gegroeid uit resten of zaad van een voorgaande suiker-, voeder- of rode bietenteelt die op een productielocatie zijn achtergebleven;
+
 - –. **een door een schadelijk organisme aangetaste partij:** een partij waarop of waarin op enigerlei wijze een schadelijk organisme voorkomt;
 
 - –. **dezelfde onderneming:**
 
-- 1°. het geheel van terreinen of percelen voor de teelt van zetmeelaardappelen dat de ondernemer in het in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2023-01-01&g=2023-01-01) aangewezen gebied beheert en voor eigen rekening en risico exploiteert,
+- 1°. het geheel van terreinen of percelen voor de teelt van zetmeelaardappelen dat de ondernemer in het in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2023-03-29&g=2023-03-29) aangewezen gebied beheert en voor eigen rekening en risico exploiteert,
 
 - 2°. het geheel van terreinen of percelen voor de teelt van consumptieaardappelen dat de ondernemer op Nederlands grondgebied beheert en voor eigen rekening en risico exploiteert;
 
@@ -87,6 +89,8 @@ Besluit:
 - –. **pootaardappelen voor eigen gebruik:** pootaardappelen, afkomstig van en bestemd voor de teelt binnen de eigen onderneming;
 
 - –. **pootgoedhandelingen:** het telen, oogsten, opslaan, bewaren, sorteren en het transport van pootaardappelen;
+
+- –. **productielocatie:** terrein, perceel of deel hiervan, waarop wordt geteeld of fytosanitaire maatregelen, voorschriften of beperkingen van toepassing zijn;
 
 - –. **richtlijn 2007/33/EG:** [richtlijn 2007/33/EG](32007L0033) van de Raad van de Europese Unie van 11 juni 2007 betreffende de bestrijding van het aardappelcysteaaltje en houdende intrekking van [Richtlijn 69/465/EG](31969L0465) (PbEU L 156);
 
@@ -204,15 +208,15 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 2. De minister wijst op kaarten met topografische achtergrond de gebieden aan waar besmet of vermoedelijk besmet oppervlaktewater voorkomt.
 
-3. De gebieden, bedoeld in het tweede lid, zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2023-01-01&g=2023-01-01).
+3. De gebieden, bedoeld in het tweede lid, zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 9
 
 1. Het is verboden om oppervlaktewater op enigerlei wijze te gebruiken voor of bij de teelt van pootaardappelen.
 
-2. Het verbod, bedoeld in het eerste lid, is in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2023-01-01&g=2023-01-01) bedoelde gebieden eveneens van toepassing voor of bij de teelt van bruinrotwaardplanten.
+2. Het verbod, bedoeld in het eerste lid, is in de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2023-03-29&g=2023-03-29) bedoelde gebieden eveneens van toepassing voor of bij de teelt van bruinrotwaardplanten.
 
-3. Het verbod, bedoeld in het eerste lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige infiltratiesloot die is gelegen buiten de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2023-01-01&g=2023-01-01) bedoelde gebieden.
+3. Het verbod, bedoeld in het eerste lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige infiltratiesloot die is gelegen buiten de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=1&z=2023-03-29&g=2023-03-29) bedoelde gebieden.
 
 4. Het verbod, bedoeld in het eerste en tweede lid, is niet van toepassing voor gebruik van water dat is opgeslagen in een bruinrot veilige afwateringssloot.
 
@@ -222,7 +226,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 2. Het bepaalde in het eerste lid is niet van toepassing indien uit het in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1193](33093R2022) respectievelijk artikel 3, eerste lid, van [uitvoeringsverordening 2022/1194](33094R2022) bedoelde onderzoek blijkt dat de partij waartoe de aardappelen behoren vrij is bevonden van de bacterie **Ralstonia solanacearum** (Smith) Yabuuchi et al., respectievelijk van de bacterie **Clavibacter sepedonicus** (Spieckermann et Kotthoff) Davis et al.
 
-3. Het bepaalde in het eerste en tweede lid is niet van toepassing indien het een partij prebasispootgoed betreft van de 1e, 2e of 3e generatie (PB1, PB2 en PB3) die niet in het handelsverkeer gebracht wordt of een partij aardappelen betreft als bedoeld in [artikel 40, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-01-01&g=2023-01-01).
+3. Het bepaalde in het eerste en tweede lid is niet van toepassing indien het een partij prebasispootgoed betreft van de 1e, 2e of 3e generatie (PB1, PB2 en PB3) die niet in het handelsverkeer gebracht wordt of een partij aardappelen betreft als bedoeld in [artikel 40, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 11
 
@@ -244,7 +248,7 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 ##### Artikel 13
 
-1. In de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2023-01-01&g=2023-01-01) aangewezen beschermde gebieden is het opplanten, bewaren en vervoeren verboden van planten van:
+1. In de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2023-03-29&g=2023-03-29) aangewezen beschermde gebieden is het opplanten, bewaren en vervoeren verboden van planten van:
 
 - a. **Cotoneaster floccosus**, **Cotoneaster salicifolius** en **Cotoneaster watereri** en de daartoe behorende cultivars en van het geslacht **Photinia davidiana** (Stranvaesia Hort.);
 
@@ -254,11 +258,11 @@ Bij de minister kan, met een door de minister ter beschikking gesteld middel, wo
 
 - a. voor zover de bedoelde handelingen plaatsvinden in het kader van de bedrijfsmatige teelt van boomkwekerijgewassen;
 
-- b. voor zover de bedoelde handelingen plaatsvinden in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2023-01-01&g=2023-01-01) apart aangewezen gebieden waarin de meidoorn een landschappelijk bepalende rol speelt.
+- b. voor zover de bedoelde handelingen plaatsvinden in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2023-03-29&g=2023-03-29) apart aangewezen gebieden waarin de meidoorn een landschappelijk bepalende rol speelt.
 
 ##### Artikel 14
 
-De minister kan gebruiksgerechtigden van terreinen gelegen in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2023-01-01&g=2023-01-01) bedoelde gebieden, verplichten onderhoudsmaatregelen ter voorkoming en bestrijding van bacterievuur te treffen ten aanzien van zich daarop bevindende planten van door hem aangewezen geslachten en soorten op de voorgeschreven wijze.
+De minister kan gebruiksgerechtigden van terreinen gelegen in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=2&z=2023-03-29&g=2023-03-29) bedoelde gebieden, verplichten onderhoudsmaatregelen ter voorkoming en bestrijding van bacterievuur te treffen ten aanzien van zich daarop bevindende planten van door hem aangewezen geslachten en soorten op de voorgeschreven wijze.
 
 #### § 3.3. Wratziekte
 
@@ -294,13 +298,13 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 ##### Artikel 18
 
-1. Op een terrein of perceel, in een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3a&z=2023-01-01&g=2023-01-01) onder A aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2023-01-01&g=2023-01-01) onder B.
+1. Op een productielocatie, in een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3a&z=2023-03-29&g=2023-03-29) onder A aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=3b&z=2023-03-29&g=2023-03-29) onder B.
 
-2. Op een terrein of perceel, in een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4a&z=2023-01-01&g=2023-01-01) onder A aangewezen gebied, worden geen aardappelplanten geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2023-01-01&g=2023-01-01) onder C1. Voor de teelt van pootaardappelen is het telen van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c2&z=2023-01-01&g=2023-01-01) onder C2 vermelde rassen toegestaan.
+2. Op een productielocatie, in een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4a&z=2023-03-29&g=2023-03-29) onder A aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2023-03-29&g=2023-03-29) onder C1. Voor de teelt van pootaardappelen is het telen van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c2&z=2023-03-29&g=2023-03-29) onder C2 vermelde rassen toegestaan.
 
-3. Op een terrein of perceel, in een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4b&z=2023-01-01&g=2023-01-01) onder B aangewezen gebied, worden geen zetmeelaardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2023-01-01&g=2023-01-01) onder C1.
+3. Op een productielocatie, in een in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4b&z=2023-03-29&g=2023-03-29) onder B aangewezen gebied, worden geen zetmeelaardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=4_c1&z=2023-03-29&g=2023-03-29) onder C1.
 
-4. Op een terrein of perceel, in een in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5a&z=2023-01-01&g=2023-01-01) onder A aangewezen gebied, worden geen aardappelplanten geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5b&z=2023-01-01&g=2023-01-01) onder B.
+4. Op een productielocatie, in een in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5a&z=2023-03-29&g=2023-03-29) onder A aangewezen gebied, worden geen aardappelen geteeld, tenzij zij behoren tot een ras, als genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=5b&z=2023-03-29&g=2023-03-29) onder B.
 
 #### § 3.4. Phytophthora infestans
 
@@ -314,7 +318,7 @@ Van niet-uitgeplante aardappelen of afval van aardappelen mag men zich niet ontd
 
 ##### Artikel 21
 
-1. Het is degene die een terrein of perceel in gebruik heeft, verboden een aantasting van **Phytophthora infestans** te hebben, die als volgt omschreven is:
+1. Het is degene die een productielocatie in gebruik heeft, verboden een aantasting van **Phytophthora infestans** te hebben, die als volgt omschreven is:
 
 - a. een groep min of meer aaneengesloten, zichtbaar door **P. infestans** aangetaste aardappelplanten waarvan, binnen een oppervlakte van 20m2, minimaal 1.000 (enkelvoudige) blaadjes zijn aangetast door vitale **P. infestans**, of
 
@@ -322,45 +326,35 @@ Van niet-uitgeplante aardappelen of afval van aardappelen mag men zich niet ontd
 
 2. Ingeval van stengelphytophthora telt elke stengel met vitale **P. infestans** voor 5 blaadjes.
 
-3. Degene die een terrein of perceel in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid bedoelde aantasting.
+3. Degene die een productielocatie in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid bedoelde aantasting.
 
 ##### Artikel 22
 
-1. Het is na 1 juli van een kalenderjaar aan degene die een terrein of perceel in gebruik heeft verboden om aardappelopslag te hebben, indien:
+1. Het is na 1 juli van een kalenderjaar aan degene die een productielocatie in gebruik heeft verboden om aardappelopslag te hebben, indien:
 
 - a. op dat perceel of terrein of een deel daarvan zich gemiddeld meer dan 2 aardappelplanten per m2 bevinden, en
 
 - b. de opslag voorkomt op minimaal 0,3 hectare.
 
-2. Degene die een terrein of perceel in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid bedoelde opslag.
+2. Degene die een productielocatie in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid bedoelde opslag.
 
 #### § 3.5. Vergelingsziekte bij bieten
 
 ##### Artikel 23
 
-1. In de provincies Flevoland, Zeeland en Noord-Brabant worden geen suikerbieten of voederbieten voor zaadwinning geteeld.
+1. Het is na 15 april van een kalenderjaar aan degene die een productielocatie in gebruik heeft verboden om bietenopslag te hebben.
 
-2. In de provincie Groningen worden geen suikerbieten of voederbieten voor zaadwinning geteeld in kassen.
+2. Degene die een productielocatie in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid bedoelde bietenopslag.
 
 ##### Artikel 24
 
-Een eigenaar of houder van planten van suikerbieten of voederbieten geteeld voor zaadwinning in de provincie Noord-Holland of Friesland waarop zich bladluizen bevinden, bestrijdt deze bladluizen op zodanige wijze dat dit geen gevaar oplevert voor de gezondheid van de suikerbieten en voederbieten in de omgeving.
+Een eigenaar of houder van planten van suikerbieten, voederbieten of rode bieten, geteeld voor zaadwinning, waarop zich bladluizen bevinden, bestrijdt deze bladluizen op zodanige wijze dat dit geen gevaar oplevert voor de gezondheid van de suikerbieten, voederbieten en rode bieten in de omgeving.
 
 ##### Artikel 25
 
-1. Suikerbieten, voederbieten en afval van suikerbieten of voederbieten, voor zover daaraan bladvorming voorkomt, zijn niet voorhanden of in voorraad:
+1. Suikerbieten, voederbieten, rode bieten en afval van suikerbieten, voederbieten of rode bieten, voor zover daaraan bladvorming voorkomt, zijn niet voorhanden of in voorraad na 15 maart van een kalenderjaar.
 
-- a. na 15 april van elk jaar in de provincie Groningen en de provincie Friesland;
-
-- b. na 1 april van elk jaar in:
-
-- 1°. het gedeelte van de provincie Noord-Holland, gevormd door de gemeenten Haarlemmermeer en Wieringermeer;
-
-- 2°. het gedeelte van de provincie Zuid-Holland, gevormd door de eilanden Rozenburg, Voorne, Putten, Ijsselmonde, Hoekschewaard, Eiland van Dordrecht, Tiengemeten en Goeree-Overflakkee;
-
-- 3°. de provincies Flevoland, Zeeland, Noord-Brabant en Limburg.
-
-2. Het eerste lid is niet van toepassing op suikerbieten en voederbieten, welke kennelijk bestemd zijn voor zaadwinning.
+2. Het eerste lid is niet van toepassing op suikerbieten, voederbieten en rode bieten, die kennelijk bestemd zijn voor zaadwinning.
 
 #### § 3.6. Valse meeldauw en koprot
 
@@ -374,17 +368,17 @@ Het is verboden zich te ontdoen van niet-uitgeplante uien of afval van uien, ten
 
 ##### Artikel 28
 
-1. Het is degene die een terrein of perceel in gebruik heeft verboden een aantasting van valse meeldauw te hebben, die als volgt omschreven is:
+1. Het is degene die een productielocatie in gebruik heeft verboden een aantasting van valse meeldauw te hebben, die als volgt omschreven is:
 
 - a. een groep min of meer aaneengesloten, zichtbaar door valse meeldauw aangetaste uienplanten waarvan, binnen een oppervlakte van 20 m2, minimaal 1.000 blaadjes zijn aangetast door vitale valse meeldauw of
 
 - b. verspreid aangetaste uienplanten waarvan, binnen een oppervlakte van 100 m2, minimaal 2.000 blaadjes zijn aangetast door vitale valse meeldauw.
 
-2. Degene die een terrein of perceel in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid, onder a of b, bedoelde aantasting.
+2. Degene die een productielocatie in gebruik heeft neemt maatregelen ter bestrijding van de in het eerste lid, onder a of b, bedoelde aantasting.
 
 ##### Artikel 29
 
-1. Het is degene die een terrein of perceel in gebruik heeft verboden uien vanuit plantuien te telen indien hij niet beschikt over een beoordelingsrapport over het te gebruiken dan wel gebruikte uitgangsmateriaal, afgegeven door een keuringsinstelling die op basis van [artikel 19 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=19) is aangewezen, waaruit blijkt dat bij visuele keuring van het uitgangsmateriaal te velde, vlak voor de oogst, geen valse meeldauw is geconstateerd of waaruit bij nacontrole van het uitgangsmateriaal blijkt dat het uitgangsmateriaal vrij is van valse meeldauw.
+1. Het is degene die een productielocatie in gebruik heeft verboden uien vanuit plantuien te telen indien hij niet beschikt over een beoordelingsrapport over het te gebruiken dan wel gebruikte uitgangsmateriaal, afgegeven door een keuringsinstelling die op basis van [artikel 19 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=19) is aangewezen, waaruit blijkt dat bij visuele keuring van het uitgangsmateriaal te velde, vlak voor de oogst, geen valse meeldauw is geconstateerd of waaruit bij nacontrole van het uitgangsmateriaal blijkt dat het uitgangsmateriaal vrij is van valse meeldauw.
 
 2. Het beoordelingsrapport wordt bewaard gedurende twee jaar na afgifte.
 
@@ -392,9 +386,9 @@ Het is verboden zich te ontdoen van niet-uitgeplante uien of afval van uien, ten
 
 ##### Artikel 30
 
-1. Het is degene die een terrein of perceel in gebruik heeft verboden akker- en tuinbouwgewassen te telen op het terrein of perceel of gedeelte daarvan waar de aanwezigheid van knolcyperus door de minister is vastgesteld.
+1. Het is degene die een productielocatie in gebruik heeft verboden akker- en tuinbouwgewassen te telen op de productielocatie of het gedeelte daarvan waar de aanwezigheid van knolcyperus door de minister is vastgesteld.
 
-2. De minister maakt het teeltverbod, bedoeld in het eerste lid, met ingangsdatum, terrein of perceel of gedeelte van het terrein of perceel, en termijn bekend.
+2. De minister maakt het teeltverbod, bedoeld in het eerste lid, met ingangsdatum, productielocatie of gedeelte daarvan, en termijn bekend.
 
 3. In aanvulling op het teeltverbod kunnen door de minister maatregelen worden opgelegd met betrekking tot teelt, oogst, transport, opslag, schonen en bewaring van het geoogste product, het vernietigen en het ongeschikt maken voor gebruik als uitgangsmateriaal, alsmede opslag, bewaring, transport en vernietiging van afvalstromen, zoals grond- en gewasresten.
 
@@ -406,11 +400,11 @@ Het is verboden zich te ontdoen van niet-uitgeplante uien of afval van uien, ten
 
 1. Degene aan wie een teeltverbod is opgelegd is verplicht de knolcyperus te verwijderen en te vernietigen voordat aan de knolcyperus vier of meer bladeren zichtbaar zijn of zich ondergrondse knollen hebben ontwikkeld.
 
-2. Degene aan wie een teeltverbod is opgelegd en degene die werktuigen heeft gebruikt op het terrein of perceel of gedeelte daarvan waar het teeltverbod betrekking op heeft, is verplicht direct na dit gebruik de werktuigen zodanig vrij te maken van aanhangende grond en van planten, dat geen verspreiding van knolcyperus kan plaatsvinden.
+2. Degene aan wie een teeltverbod is opgelegd en degene die werktuigen heeft gebruikt op de productielocatie of het gedeelte daarvan waar het teeltverbod betrekking op heeft, is verplicht direct na dit gebruik de werktuigen zodanig vrij te maken van aanhangende grond en van planten, dat geen verspreiding van knolcyperus kan plaatsvinden.
 
 ##### Artikel 32
 
-Degene aan wie een teeltverbod is opgelegd, is verplicht bij wijzigingen met betrekking tot de eigendom of het gebruik van het terrein of perceel of gedeelte daarvan waar het verbod betrekking op heeft:
+Degene aan wie een teeltverbod is opgelegd, is verplicht bij wijzigingen met betrekking tot de eigendom of het gebruik van de productielocatie of het gedeelte daarvan waar het verbod betrekking op heeft:
 
 - a. het teeltverbod en de maatregelen onverwijld aan de nieuwe eigenaar of gebruiker te melden en
 
@@ -418,7 +412,7 @@ Degene aan wie een teeltverbod is opgelegd, is verplicht bij wijzigingen met bet
 
 ##### Artikel 33
 
-Het teeltverbod wordt door de minister opgeheven nadat is vastgesteld dat gedurende drie opeenvolgende jaren het terrein of perceel of gedeelte daarvan waar het verbod betrekking op heeft, vrij is bevonden van knolcyperus dan wel is omgezet of afgegraven en fytosanitair verantwoord is afgevoerd.
+Het teeltverbod wordt door de minister opgeheven nadat is vastgesteld dat gedurende drie opeenvolgende jaren de productielocatie of het gedeelte daarvan waar het verbod betrekking op heeft, vrij is bevonden van knolcyperus dan wel is omgezet of afgegraven en fytosanitair verantwoord is afgevoerd.
 
 #### § 3.8. Aardappelmoeheid (AM)
 
@@ -432,9 +426,9 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 35
 
-1. Het is verboden de planten, bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022), te telen, op te slaan of te bewaren, indien uit een officieel detectieonderzoek als bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022) niet is gebleken dat de productieplaats vrij is bevonden van het aardappelcysteaaltje.
+1. Het is verboden de planten, bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022), te telen, op te slaan of te bewaren, indien uit een officieel detectieonderzoek als bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022) niet is gebleken dat de productielocatie vrij is bevonden van het aardappelcysteaaltje.
 
-2. Het eerste lid is niet van toepassing op een productieplaats als bedoeld in de artikelen 3, derde lid, en 4, derde lid, van [uitvoeringsverordening 2022/1192](33092R2022).
+2. Het eerste lid is niet van toepassing op een productielocatie als bedoeld in de artikelen 3, derde lid, en 4, derde lid, van [uitvoeringsverordening 2022/1192](33092R2022).
 
 ##### Artikel 36
 
@@ -446,27 +440,27 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 37
 
-Aardappelen worden niet geteeld in de volle grond op een productieplaats, gelegen in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2023-01-01&g=2023-01-01) aangewezen gebied.
+Aardappelen worden niet geteeld in de volle grond op een productielocatie, gelegen in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2023-03-29&g=2023-03-29) aangewezen gebied.
 
 ##### Artikel 38
 
-1. Aardappelen worden niet geteeld op een productieplaats, waarop in een van de twee voorafgaande kalenderjaren aardappelen zijn geteeld.
+1. Aardappelen worden niet geteeld op een productielocatie, waarop in een van de twee voorafgaande kalenderjaren aardappelen zijn geteeld.
 
-2. Het eerste lid is niet van toepassing op de teelt van aardappelen op een productieplaats die is gelegen in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2023-01-01&g=2023-01-01) aangewezen gebied, mits voldaan wordt aan de in die bijlage gestelde regels.
+2. Het eerste lid is niet van toepassing op de teelt van aardappelen op een productielocatie die is gelegen in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2023-03-29&g=2023-03-29) aangewezen gebied, mits voldaan wordt aan de in die bijlage gestelde regels.
 
-3. In afwijking van het tweede lid, worden in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2023-01-01&g=2023-01-01) genoemde gebied geen goedgekeurde pootaardappelen geteeld, indien op die productieplaats in dat gebied in een van de twee voorafgaande kalenderjaren aardappelen zijn geteeld.
+3. In afwijking van het tweede lid, worden in een in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=9&z=2023-03-29&g=2023-03-29) genoemde gebied geen goedgekeurde pootaardappelen geteeld, indien op die productielocatie in dat gebied in een van de twee voorafgaande kalenderjaren aardappelen zijn geteeld.
 
 ##### Artikel 39
 
-1. Het is de producent van teeltmateriaal van boomkwekerijgewassen en vaste planten verboden deze gewassen in de volle grond te telen en de geteelde gewassen in het verkeer te brengen, tenzij voor de teelt teeltmateriaal wordt gebruikt dat vrij is van besmetting met het aardappelcysteaaltje en er geteeld wordt op een productieplaats:
+1. Het is de producent van teeltmateriaal van boomkwekerijgewassen en vaste planten verboden deze gewassen in de volle grond te telen en de geteelde gewassen in het verkeer te brengen, tenzij voor de teelt teeltmateriaal wordt gebruikt dat vrij is van besmetting met het aardappelcysteaaltje en er geteeld wordt op een productielocatie:
 
-- a. waarvoor uit een officieel detectieonderzoek als bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022) blijkt dat de productieplaats vrij is bevonden van het aardappelcysteaaltje;
+- a. waarvoor uit een officieel detectieonderzoek als bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022) blijkt dat de productielocatie vrij is bevonden van het aardappelcysteaaltje;
 
 - b. waarop de laatste twaalf jaar geen aardappelen of andere, in bijlage I van [uitvoeringsverordening 2022/1192](33092R2022) vermelde planten, zijn geteeld; of
 
-- c. dat gelegen is in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2023-01-01&g=2023-01-01) aangewezen gebied.
+- c. dat gelegen is in een in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=8&z=2023-03-29&g=2023-03-29) aangewezen gebied.
 
-2. Gedurende twaalf maanden nadat de boomkwekerijgewassen en vaste planten op de productieplaats zijn geoogst moet aantoonbaar zijn, dat is voldaan aan de eisen gesteld in het eerste lid.
+2. Gedurende twaalf maanden nadat de boomkwekerijgewassen en vaste planten op de productielocatie zijn geoogst moet aantoonbaar zijn, dat is voldaan aan de eisen gesteld in het eerste lid.
 
 #### § 3.9. Fytosanitaire voorwaarden inzake teelt eigen pootgoed op basis van [artikel 13 van de Regeling werkzaamheden Raad voor plantenrassen](https://wetten.overheid.nl/jci1.3:c:BWBR0019435&artikel=13)
 
@@ -478,9 +472,9 @@ Aardappelen worden niet geteeld in de volle grond op een productieplaats, gelege
 
 - a. worden gebruikt ten behoeve van de teelt van zetmeelaardappelen en zijn voorzien van een schriftelijke verklaring van Stichting TBM;
 
-- b. behoren tot in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=10&z=2023-01-01&g=2023-01-01) genoemde aardappelrassen, en
+- b. behoren tot in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=10&z=2023-03-29&g=2023-03-29) genoemde aardappelrassen, en
 
-- c. afkomstig zijn van en geteeld worden op een productieplaats dat is gelegen in een in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2023-01-01&g=2023-01-01) aangewezen gebied.
+- c. afkomstig zijn van en geteeld worden op een productielocatie dat is gelegen in een in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=11&z=2023-03-29&g=2023-03-29) aangewezen gebied.
 
 3. Het eerste lid is niet van toepassing indien binnen dezelfde onderneming in het voorgaande jaar geen goedgekeurde pootaardappelen zijn geteeld en het pootaardappelen voor eigen gebruik betreft die:
 
@@ -488,17 +482,17 @@ Aardappelen worden niet geteeld in de volle grond op een productieplaats, gelege
 
 - b. worden gebruikt ten behoeve van de teelt van consumptieaardappelen;
 
-- c. voldoen aan de eisen als bedoeld in [artikel 61 van de Regeling verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&artikel=61) met uitzondering van de eis van een officieel detectieonderzoek als bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022) voor de productieplaats waarop ze zijn geteeld en met uitzondering van het verbod tot vermeerderen met gebruikmaking van klasse B pootgoed, en
+- c. voldoen aan de eisen als bedoeld in [artikel 61 van de Regeling verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019437&artikel=61) met uitzondering van de eis van een officieel detectieonderzoek als bedoeld in artikel 3, eerste lid, van [uitvoeringsverordening 2022/1192](33092R2022) voor de productielocatie waarop ze zijn geteeld en met uitzondering van het verbod tot vermeerderen met gebruikmaking van klasse B pootgoed, en
 
-- d. afkomstig zijn van een productieplaats, gelegen binnen een straal van 25 kilometer vanaf het vestigingsadres van de teler en die geteeld worden op een productieplaats, gelegen binnen een straal van 50 kilometer vanaf het vestigingsadres van de teler.
+- d. afkomstig zijn van een productielocatie, gelegen binnen een straal van 25 kilometer vanaf het vestigingsadres van de teler en die geteeld worden op een productielocatie, gelegen binnen een straal van 50 kilometer vanaf het vestigingsadres van de teler.
 
 4. Het certificaat of de schriftelijke verklaring voor de pootaardappelen wordt bewaard tot de maand mei, volgend op het jaar waarin de pootaardappelen voor de teelt van aardappelen zijn gebruikt.
 
-#### § 3.10. Slotbepaling [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2023-01-01&g=2023-01-01)
+#### § 3.10. Slotbepaling [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2023-03-29&g=2023-03-29)
 
 ##### Artikel 41
 
-1. De minister kan van het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2023-01-01&g=2023-01-01) bepaalde vrijstelling of ontheffing verlenen, die geheel of gedeeltelijk kan worden ingetrokken.
+1. De minister kan van het in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&z=2023-03-29&g=2023-03-29) bepaalde vrijstelling of ontheffing verlenen, die geheel of gedeeltelijk kan worden ingetrokken.
 
 2. Aan een vrijstelling of ontheffing kunnen voorschriften of beperkingen worden verbonden.
 
@@ -506,17 +500,17 @@ Aardappelen worden niet geteeld in de volle grond op een productieplaats, gelege
 
 ##### Artikel 42
 
-1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 5, eerste lid, 9, derde lid, 14, eerste, derde, vierde, vijfde, zesde en zevende lid, 15, eerste lid, 15, derde lid, 17 28, artikel 30, eerste lid, tweede alinea, 32, tweede lid, 33, eerste lid, 33, tweede lid, 37, eerste lid, 40, eerste lid, 41, eerste lid, 42, tweede lid, 43, eerste lid, 47, eerste lid, 49, 53, eerste lid, 54, eerste lid, 55, 57, 59, 61, eerste lid, 62, 63, tweede lid, 64, eerste lid, 66, eerste en vijfde lid, 69, eerste, tweede, derde, vierde en zesde lid, 70, 74, eerste lid, 79, eerste lid, 80, eerste lid, 83, vijfde lid, 84, eerste lid, 84, derde lid, 87, eerste lid, 88, 90, 93, tweede lid, 93, vijfde lid, 95, eerste, derde en vierde lid, 96, eerste lid, en 97, eerste lid, 102, vierde lid van [verordening 2016/2031](32031R2016) en de artikelen 15, eerste, tweede, derde en vijfde lid, 47, vijfde lid, 50, eerste en derde lid, 56, eerste en vierde lid, 57, eerste lid en 69, eerste lid, van [verordening 2017/625](32525R2017) alsmede de artikelen 8, eerste en tweede lid, 9, eerste lid, en 10, eerste lid van [uitvoeringsverordening 2022/1192](33092R2022), de artikelen 4, tweede lid, onder a, 6, eerste, tweede, derde en vierde lid van [uitvoeringsverordening 2022/1193](33093R2022), de artikelen 4, tweede lid, onder a, 6 eerste, tweede, derde en vierde lid, en 8, eerste lid, van [uitvoeringsverordening 2022/1194](33094R2022) en de artikelen 6, eerste, tweede, derde en vierde lid en 8, eerste lid van [uitvoeringsverordening 2022/1195](33095R2022) zijn overtredingen.
+1. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 5, eerste lid, 9, derde lid, 14, eerste, derde, vierde, vijfde, zesde en zevende lid, 15, eerste lid, 15, derde lid, 17, 28, artikel 30, eerste lid, tweede alinea, 32, tweede lid, 33, eerste lid, 33, tweede lid, 37, eerste lid, 40, eerste lid, 41, eerste lid, 42, tweede lid, 43, eerste lid, 47, eerste lid, 49, 53, eerste lid, 54, eerste lid, 55, 57, 59, 61, eerste lid, 62, 63, tweede lid, 64, eerste lid, 66, eerste en vijfde lid, 69, eerste, tweede, derde, vierde en zesde lid, 70, 74, eerste lid, 79, eerste lid, 80, eerste lid, 83, vijfde lid, 84, eerste lid, 84, derde lid, 87, eerste lid, 88, 90, 93, tweede lid, 93, vijfde lid, 95, eerste, derde en vierde lid, 96, eerste lid, en 97, eerste lid, 102, vierde lid van [verordening 2016/2031](32031R2016) en de artikelen 15, eerste, tweede, derde en vijfde lid, 47, vijfde lid, 50, eerste en derde lid, 56, eerste en vierde lid, 57, eerste lid en 69, eerste lid, van [verordening 2017/625](32525R2017) alsmede de artikelen 8, eerste en tweede lid, 9, eerste lid, en 10, eerste lid van [uitvoeringsverordening 2022/1192](33092R2022), de artikelen 4, tweede lid, onder a, 6, eerste, tweede, derde en vierde lid van [uitvoeringsverordening 2022/1193](33093R2022), de artikelen 4, tweede lid, onder a, 6 eerste, tweede, derde en vierde lid, en 8, eerste lid, van [uitvoeringsverordening 2022/1194](33094R2022) en de artikelen 6, eerste, tweede, derde en vierde lid en 8, eerste lid van [uitvoeringsverordening 2022/1195](33095R2022) zijn overtredingen.
 
 2. Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=9), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=13), [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=15), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=20), [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=24), en [25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=25), en de voorschriften genoemd in het eerste lid, kunnen worden gestraft met een hechtenis van ten hoogste zes maanden of een geldboete van de vierde categorie.
 
 ##### Artikel 43. Bestuurlijke boete
 
-1. De hoogte van de bestuurlijke boete, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&artikel=8), wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2023-01-01&g=2023-01-01) voor desbetreffende overtredingen zijn vastgelegd.
+1. De hoogte van de bestuurlijke boete, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&artikel=8), wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2023-03-29&g=2023-03-29) voor desbetreffende overtredingen zijn vastgelegd.
 
-2. De rechtspersoon of vennootschap die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van hetzelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2023-01-01&g=2023-01-01) voor de desbetreffende overtreding is vastgelegd.
+2. De rechtspersoon of vennootschap die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van hetzelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2023-03-29&g=2023-03-29) voor de desbetreffende overtreding is vastgelegd.
 
-3. De natuurlijke persoon die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van het zelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2023-01-01&g=2023-01-01) voor de desbetreffende overtreding is vastgelegd, met een maximum van een boete van de derde categorie.
+3. De natuurlijke persoon die binnen vijf jaren nadat een eerste overtreding is geconstateerd voor de tweede of derde keer een overtreding van het zelfde artikel of hetzelfde artikellid begaat, kan een bestuurlijke boete opgelegd krijgen overeenkomstig de bedragen die horen bij één respectievelijk twee boetecategorieën hoger dan die in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&bijlage=12&z=2023-03-29&g=2023-03-29) voor de desbetreffende overtreding is vastgelegd, met een maximum van een boete van de derde categorie.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -540,13 +534,13 @@ De volgende regelingen en het volgende besluit worden ingetrokken:
 
 Deze regeling treedt in werking met ingang van 1 maart 2021.
 
-## Bijlage 1. Verbodsgebieden gebruik oppervlaktewater als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2023-01-01&g=2023-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2023-01-01&g=2023-01-01)
+## Bijlage 1. Verbodsgebieden gebruik oppervlaktewater als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2023-03-29&g=2023-03-29) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2023-03-29&g=2023-03-29)
 
 ## Bijlage 2. Bacterievuur
 
-[Artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2023-01-01&g=2023-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2023-01-01&g=2023-01-01)
+[Artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=13&z=2023-03-29&g=2023-03-29) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2023-03-29&g=2023-03-29)
 
-## Bijlage 3a. Als gebieden, als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01), worden aangewezen
+## Bijlage 3a. Als gebieden, als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29), worden aangewezen
 
 - 1. Het gebied ten oosten van Veendam, dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Veendam’) Provinciale weg N963 (A), Borgercompagnieweg (B), (zand)weg (C), watergang (D), Westerbrink (E), Beneden Westerdiep (F), Prins Hendrikplein (G), Sorgvlietlaan (H), Woortmanslaan (I), Borgercompagnieweg (J), perceelsscheiding (K), Kielsterachterweg (L), Wildervanksterweg (M) en Zwarteweg (N).
 
@@ -562,7 +556,7 @@ Deze regeling treedt in werking met ingang van 1 maart 2021.
 
 - 7. Het gebied aan de Oostzijde van Veendam dat als volgt is begrensd: (de hoofdletters verwijzen naar de kaart ‘Kerngebied Veendam Oost’) Noorderweg (A), Kibbelgaarn (B), Zuidwendingerweg (C), perceelsgrenzen op de grens van de gemeenten Veendam en Pekela (D), Zoutweg (E), Ommelanderwijk (F), Tonckelweg (G), Zuidwending (H) en Vossenveld (I).
 
-## Bijlage 3b. Toegelaten aardappelrassen als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01)
+## Bijlage 3b. Toegelaten aardappelrassen als bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29)
 
 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar
 
@@ -712,7 +706,7 @@ Avito
 
 Starga
 
-## Bijlage 4a. Als gebieden als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01), worden aangewezen
+## Bijlage 4a. Als gebieden als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29), worden aangewezen
 
 De gehele provincie Drenthe en de volgende gemeenten of delen van gemeenten:
 
@@ -722,7 +716,7 @@ In de provincie Friesland: Ooststellingwerf voor zover gelegen ten noorden van d
 
 In de provincie Overijssel: Hardenberg, Twenterand, Hellendoorn, Ommen en Steenwijkerland voor zover gelegen ten oosten van autosnelweg A32 en Eesveenseweg (N855), ten zuiden van het Dolderkanaal en kanaal Steenwijk-Ossenzijl, ten westen van de Ossenzijlersloot, ten noorden en ten oosten van de Punterweg (vanaf Kuinderweg), Hammerdijk, Kerkbuurt, Blokzijlerdijk en Kuinderdijk, en ten zuiden en ten oosten van de Kanaalweg.
 
-## Bijlage 4b. Als gebieden als bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01), worden aangewezen
+## Bijlage 4b. Als gebieden als bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29), worden aangewezen
 
 De gemeenten in de provincie Overijssel voorzover niet gelegen in gebied A.
 
@@ -732,7 +726,7 @@ In de provincie Friesland de gemeenten Ooststellingwerf voorzover niet gelegen i
 
 In de provincie Groningen: de gemeenten Slochteren, Menterwolde, Oldambt voor zover gelegen ten westen van de Ulsderweg en C.G. Wiegersweg, ten zuiden van de Hoofdweg en Goldhoorn, ten westen van de Noorderstraat te Oostwold, ten noorden van de Polderweg, ten westen van de Langeweg, ten zuiden van Hoofdweg-Oost, Hoofdstraat en Hoofdweg-West te Nieuwolda, ten zuiden van de Hoofdweg 't Waar, ten zuiden van de Rechte Walsterweg en Bellingwedde, alle voor zover niet gelegen in gebieden onder A.
 
-## Bijlage 4 c1. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01)
+## Bijlage 4 c1. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29)
 
 10 = (volledig) resistent, 9-8= hoog veldresistent, 7= matig veldresistent, 6 matig vatbaar
 
@@ -1018,7 +1012,7 @@ Saint Calais
 
 Sonic
 
-## Bijlage 4 c2. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01)
+## Bijlage 4 c2. Toegelaten aardappelrassen als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29)
 
 **5**
 
@@ -1040,13 +1034,13 @@ Sirco
 
 Victoria
 
-## Bijlage 5a. Als gebieden als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01), worden aangewezen
+## Bijlage 5a. Als gebieden als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29), worden aangewezen
 
 - 1. Omschrijving gebied Venraij: Het gebied omsloten door de A67 in Venlo vanaf de grens met Duitsland in westelijke richting tot aan de Zuid Willemsvaart. De Zuid Willemsvaart in noordelijke richting tot de kruising met de N265 in Veghel. De N265 in noordelijke richting tot Uden. De N603 in noordelijke richting tot de A50 in Heesch (gemeente Bernheze). De A50 in noordelijke richting tot de kruising met de Maas. De Maas in oostelijke richting tot de kruising met de spoorbrug in Mook (gemeente Mook en Middelaar). Vanaf de spoorbrug de N271 in zuidelijke richting tot de Schildersweg in Plasmolen (gemeente Mook en Middelaar). De Schildersweg in noordelijke richting tot de Bosweg langs Sint Jansberg. De Bosweg langs Sint Jansberg tot aan de grens met Duitsland. De grens met Duitsland in zuidelijke richting tot aan de A67 in Venlo.
 
 - 2. Omschrijving gebied Bergeijk: Het gebied rondom Bergeijk, dat door België en de volgende straten is begrensd: Postelsedijk, Sleutelstraat, Weijereind, Kleine Hoeven, Ambachtsweg, De Hoeven/Rondweg (N284) bij Bladel, Lange Trekken, Molenweg/De Vloed, De Gagelvelden, Hemelrijken, Dorpsstraat in Casteren, Casterseweg, Hoofdstraat in Hoogeloon, Heuvelseweg, Heuvel, Broekenseind, Umenweg, D’ekkersrijte, Eerselseweg, Het Groen bij Knegsel, Steenselseweg, Knegselseweg, Riethovenseweg/Stevert, Nedermolen, fietspad/veldweg in zuidelijke richting en uitlopend op De Kuningen, Broekhovenseweg, Schoolstraat en Molenstraat bij Riethoven, Keersopperdreef, Dommelsedijk (N397), Monseigneur Smetstraat, Pastoor Bolsiusstraat, Venbergseweg, Luikerweg (N69), (Oude) Dorpsstraat bij Hoek, Borkel en Schaft, en De Schafterekker.
 
-## Bijlage 5b. Toegelaten aardappelrassen als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01)
+## Bijlage 5b. Toegelaten aardappelrassen als bedoeld in [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29)
 
 **10**
 
@@ -2192,7 +2186,7 @@ Vervallen
 
 ## Bijlage 8. Aangewezen gebied
 
-[Artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2023-01-01&g=2023-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2023-01-01&g=2023-01-01)
+[Artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2023-03-29&g=2023-03-29), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2023-03-29&g=2023-03-29)
 
 - 1. het gebied gelegen in de gemeenten Waddinxveen, Boskoop, Rijnwoude en Reeuwijk, dat als volgt is begrensd: vanaf hefbrug Waddinxveen en achtereenvolgens Nesse, Noordkade, gemeentegrens Waddinxveen-Boskoop tot de Hogeveenseweg, de Hogeveenseweg, Roemer, de dijk aan de zuidwestzijde aan de Ambachtspolder tot aan de Voorweg, de Voorweg in westelijke richting tot aan het gemaal, vandaar langs de sloot in noordelijke richting tot molen Rietveldsevaart, de Rietveldsevaart in westelijke richting tot de Oostvaart, de Oostvaart in noordelijke richting tot de Spookverlaat, Spookverlaat tot de Compierekade, Compierekade in zuidelijke richting tot de Spijkerboorsche wetering, Spijkerboorsche wetering tot de Nesse, Nesse in oostelijke richting, Toegangseweg, de gemeentegrens Alphen a/d Rijn-Boskoop in oostelijke richting tot de Dammekade, Dammekade gemeentegrens Boskoop-Bodegraven tot de Ringdijk, daarna de Ringdijk volgend eerst in oostelijke-daarna in zuidelijke- en tot slot in zuidwestelijke richting tot de Schinkeldijk, Schinkeldijk in noordwestelijke richting, Tempeldijk, Middelweg, Middelburgseweg in zuidelijke richting, Zwarteweg, Bloemendaalseweg tot de A12, A12 in zuidwestelijke richting tot de Henegouwerweg, Henegouwerweg in noordelijke richting tot de hefbrug in Waddinxveen;
 
@@ -2236,43 +2230,43 @@ Vervallen
 
 - 5. het gebied in de gemeente Zundert, omsloten door: de sloot gelegen haaks op de Rijksgrens bij grenspaal 221 (in het verlengde van de Luxemburgstraat in de Belgische gemeente Meer, nabij Hazeldonk), het kavelpad tussen deze sloot en de bocht in de Laarse Heistraat, een denkbeeldige lijn tussen de bocht in de Laarse Heistraat en de hoek van de Bakkebrugstraat – Breedschotsestraat, Bakkebrugstraat, Bredaseweg, Stuivezandseweg, Klein Zundertseweg, Heischoorstraat, Sprundelsebaan, Bijloop, Rucphenseweg, Hulsdonkstraat, Roosendaalse Baan, Achtmaalseweg, Moststraat, Grote Heistraat, Oude Heistraat, Kalmthoutse Baan, de Rijksgrens tot aan grenspaal 221.
 
-## Bijlage 9. Als gebieden, bedoeld in [artikel 38, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2023-01-01&g=2023-01-01), worden aangewezen
+## Bijlage 9. Als gebieden, bedoeld in [artikel 38, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2023-03-29&g=2023-03-29), worden aangewezen
 
 - 1. De gehele provincie **Drenthe**en de volgende gemeenten of delen van gemeenten: In de provincie **Groningen**: Bellingwedde, Groningen voor zover gelegen ten zuiden van het Eemskanaal, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Menterwolde, Pekela, Reiderland voor zover gelegen ten westen van de Ulsderweg en C.G. Wiegersweg en ten zuiden van de Hoofdweg en Goldhoorn te Finsterwolde, Scheemda voor zover gelegen ten zuiden van de Goldhoorn te Oostwold en ten westen van de Noorderstraat, ten noorden van de Polderweg, ten westen van de Langeweg, ten zuiden van Hoofdweg-Oost, Hoofdstraat en Hoofdweg-West te Nieuwolda, ten zuiden van de Hoofdweg 't Waar, ten zuiden van de Rechte Walsterweg, Slochteren, Stadskanaal, Veendam, Vlagtwedde en Winschoten. In de provincie **Friesland**: Ooststellingwerf voor zover gelegen ten noorden van de Verwersweg (vanaf provinciegrens) tot de Zuid, ten oosten van de wegen Zuid en Hoofdweg tot Kloosterweg, ten zuiden van de wegen Kloosterweg, Terwisscha, Westeres en Bruggelaan tot de Compagnonsvaart, ten oosten van de wegen Zuideinde (door Fochteloo), Noordeinde, de Knolle tot kruising met de Weper, en ten zuiden van de wegen Weper en Weperpolder (tot provinciegrens). In de provincie **Overijssel**: Hardenberg, Twenterand, Hellendoorn, Ommen en Steenwijkerland voor zover gelegen ten noorden en ten oosten van de Punterweg (vanaf Kuinderweg), Hammerdijk, Kerkbuurt, Blokzijlerdijk en Kuinderdijk, en ten zuiden en ten oosten van de Kanaalweg;
 
-- 2. het gebied begrensd door de provincie Overijssel ten zuiden van de Overijsselse Vecht en het Zwarte Water, Gelderland, Utrecht, Noord-Holland ten zuiden van het Noordzeekanaal en het IJ, Zuid-Holland, Zeeland, Noord-Brabant en Limburg. De teelt van aardappelplanten in het jaar t op een productieplaats, waarop zich in het jaar t – 1 géén en in het jaar t – 2 aardappelplanten bevonden en welk productieplaats is gelegen in het in de vorige alinea genoemde gebied is toegestaan, mits de aardappelplanten in het jaar t – 2 werden gerooid vóór 1 juli van het jaar waarin zij werden geteeld en de ondernemer tijdig vóór deze datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit;
+- 2. het gebied begrensd door de provincie Overijssel ten zuiden van de Overijsselse Vecht en het Zwarte Water, Gelderland, Utrecht, Noord-Holland ten zuiden van het Noordzeekanaal en het IJ, Zuid-Holland, Zeeland, Noord-Brabant en Limburg. De teelt van aardappelen in het jaar t op een productielocatie, waarop zich in het jaar t – 1 géén en in het jaar t – 2 aardappelen bevonden en welke productielocatie is gelegen in het in de vorige alinea genoemde gebied is toegestaan, mits de aardappelen in het jaar t – 2 werden gerooid vóór 1 juli van het jaar waarin zij werden geteeld en de ondernemer tijdig vóór deze datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit;
 
-- 3. het gebied begrensd door de provincies Friesland, Groningen, Drenthe, Overijssel ten noorden van de Overijsselse Vecht en het Zwarte Water, Flevoland en Noord-Holland ten noorden van het Noordzeekanaal en het IJ, uitgezonderd het in onderdeel 1 genoemde gebied. De teelt van aardappelplanten in het jaar t op een productieplaats, waarop zich in het jaar t – 1 géén en in het jaar t – 2 aardappelplanten bevonden en welk productieplaats is gelegen in het in de vorige alinea genoemde gebied is toegestaan, mits de aardappelplanten in het jaar t – 2 werden gerooid vóór 10 juli van het jaar waarin zij werden geteeld en de ondernemer tijdig vóór deze datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit;
+- 3. het gebied begrensd door de provincies Friesland, Groningen, Drenthe, Overijssel ten noorden van de Overijsselse Vecht en het Zwarte Water, Flevoland en Noord-Holland ten noorden van het Noordzeekanaal en het IJ, uitgezonderd het in onderdeel 1 genoemde gebied. De teelt van aardappelen in het jaar t op een productielocatie, waarop zich in het jaar t – 1 géén en in het jaar t – 2 aardappelen bevonden en welke productielocatie is gelegen in het in de vorige alinea genoemde gebied is toegestaan, mits de aardappelen in het jaar t – 2 werden gerooid vóór 10 juli van het jaar waarin zij werden geteeld en de ondernemer tijdig vóór deze datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit;
 
-- 4. In afwijking van het gestelde onder onderdeel 3, is de teelt van aardappelplanten toegestaan op een productieplaats, waarop zich in het jaar t-1 aardappelplanten bevonden, mits:
+- 4. In afwijking van het gestelde onder onderdeel 3, is de teelt van aardappelen toegestaan op een productielocatie, waarop zich in het jaar t-1 aardappelen bevonden, mits:
 
-- a. het productieplaats is gelegen in het gebied ‘Opperdoes’, begrensd door Noorderkogger zeedijk vanaf de Overleker Sluis van Medemblik, Noorderweg, Dorpsweg Twisk, Twiskerdijksloot, de Braak, de Muiter, Zandwegsloot naar de Overleker Sluis;
+- a. de productielocatie is gelegen in het gebied ‘Opperdoes’, begrensd door Noorderkogger zeedijk vanaf de Overleker Sluis van Medemblik, Noorderweg, Dorpsweg Twisk, Twiskerdijksloot, de Braak, de Muiter, Zandwegsloot naar de Overleker Sluis;
 
-- b. de aardappelplanten in het jaar t – 1 werden gerooid vóór 10 juli van dat jaar;
-
-- c. de ondernemer tijdig vóór de onder b bedoelde datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit en
-
-- d. uit een door de ondernemer uitgevoerde bemonstering van het productieplaats, verricht op een wijze waarbij een haard van 100 aardappelcysteaaltjes per kilogram grond met een betrouwbaarheid van tenminste 90% kan worden vastgesteld, geen aanwezigheid van cysteaaltjes blijkt.
-
-- 5. In afwijking van het gestelde onder onderdeel 3, is de teelt van aardappelplanten toegestaan op een productieplaats, waarop zich in het jaar t-1 aardappelplanten bevonden, mits:
-
-- a. het productieplaats is gelegen in het gebied ‘Langedijk’, begrensd door Koog, Langebalkweg, Kanaal Omval-Kolhorn, Uitvalsweg, Dorpsstraat Broek op Langedijk en Zuid-Scharwoude tot Koog;
-
-- b. de aardappelplanten in het jaar t – 1 werden gerooid vóór 10 juli van dat jaar;
+- b. de aardappelen in het jaar t – 1 werden gerooid vóór 10 juli van dat jaar;
 
 - c. de ondernemer tijdig vóór de onder b bedoelde datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit en
 
-- d. uit een door de ondernemer uitgevoerde bemonstering van het productieplaats, verricht op een wijze waarbij een haard van 100 aardappelcysteaaltjes per kilogram grond met een betrouwbaarheid van tenminste 90% kan worden vastgesteld, geen aanwezigheid van cysteaaltjes blijkt.
+- d. uit een door de ondernemer uitgevoerde bemonstering van de productielocatie, verricht op een wijze waarbij een haard van 100 aardappelcysteaaltjes per kilogram grond met een betrouwbaarheid van tenminste 90% kan worden vastgesteld, geen aanwezigheid van cysteaaltjes blijkt.
 
-- 6. In afwijking van het gestelde onder onderdeel 3 is de teelt van aardappelplanten in het jaar t toegestaan op een productieplaats, waarop zich in het jaar t – 1 géén en in het jaar t – 2 aardappelplanten bevonden, mits:
+- 5. In afwijking van het gestelde onder onderdeel 3, is de teelt van aardappelen toegestaan op een productielocatie, waarop zich in het jaar t-1 aardappelen bevonden, mits:
 
-- a. het productieplaats is gelegen in het gebied ‘Heerhugowaard/Geestmerambacht’, begrensd door Kanaal Omval-Kolhorn, Westerlangereis, Langereis, Veenhuizerkade, Plempdijk, Ringvaart Heerhugowaard, Hoornse Vaart, Ringsloot polder, De Vronermeer, spoorlijn Alkmaar-Hoorn tot palen bovenleiding 39/23 en 39/24, Nollenweg, Provinciale weg S3 (Alkmaar-Schagen), Daalmeerpad, Vronermeerweg, Wijde Vaart (gedeeltelijk gedempt), Spanjaardsdam, Nauertogt, Westelijke Randweg, Maijersloot, Voorburggracht, Westelijke Randweg naar Broek op Langedijk, Stationsweg, Dorpsstraat, Uitvalsweg, Kanaal Omval-Kolhorn, Langebalkweg, Oostelijke randweg Noord-Scharwoude, Waarddijk West, Provinciale weg S4, Kanaal Omval-Kolhoorn;
+- a. de productielocatie is gelegen in het gebied ‘Langedijk’, begrensd door Koog, Langebalkweg, Kanaal Omval-Kolhorn, Uitvalsweg, Dorpsstraat Broek op Langedijk en Zuid-Scharwoude tot Koog;
 
-- b. de aardappelplanten in het jaar t – 2 zijn gerooid vóór 20 juli van het jaar waarin zij werden geteeld en
+- b. de aardappelen in het jaar t – 1 werden gerooid vóór 10 juli van dat jaar;
+
+- c. de ondernemer tijdig vóór de onder b bedoelde datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit en
+
+- d. uit een door de ondernemer uitgevoerde bemonstering van de productielocatie, verricht op een wijze waarbij een haard van 100 aardappelcysteaaltjes per kilogram grond met een betrouwbaarheid van tenminste 90% kan worden vastgesteld, geen aanwezigheid van cysteaaltjes blijkt.
+
+- 6. In afwijking van het gestelde onder onderdeel 3 is de teelt van aardappelen in het jaar t toegestaan op een productielocatie, waarop zich in het jaar t – 1 géén en in het jaar t – 2 aardappelen bevonden, mits:
+
+- a. de productielocatie is gelegen in het gebied ‘Heerhugowaard/Geestmerambacht’, begrensd door Kanaal Omval-Kolhorn, Westerlangereis, Langereis, Veenhuizerkade, Plempdijk, Ringvaart Heerhugowaard, Hoornse Vaart, Ringsloot polder, De Vronermeer, spoorlijn Alkmaar-Hoorn tot palen bovenleiding 39/23 en 39/24, Nollenweg, Provinciale weg S3 (Alkmaar-Schagen), Daalmeerpad, Vronermeerweg, Wijde Vaart (gedeeltelijk gedempt), Spanjaardsdam, Nauertogt, Westelijke Randweg, Maijersloot, Voorburggracht, Westelijke Randweg naar Broek op Langedijk, Stationsweg, Dorpsstraat, Uitvalsweg, Kanaal Omval-Kolhorn, Langebalkweg, Oostelijke randweg Noord-Scharwoude, Waarddijk West, Provinciale weg S4, Kanaal Omval-Kolhoorn;
+
+- b. de aardappelen in het jaar t – 2 zijn gerooid vóór 20 juli van het jaar waarin zij werden geteeld en
 
 - c. de ondernemer tijdig vóór de onder b bedoelde datum het voornemen tot rooien schriftelijk kenbaar gemaakt heeft bij de Nederlandse Voedsel- en Warenautoriteit.
 
-## Bijlage 10. Aardappelrassen als bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-01-01&g=2023-01-01)
+## Bijlage 10. Aardappelrassen als bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-03-29&g=2023-03-29)
 
 De volgende zetmeelaardappelrassen mogen onder het TBM-regime vermeerderd worden:
 
@@ -2398,7 +2392,7 @@ Let op: In de wratziektekerngebieden in de omgeving van Barger-Compascuum, Borge
 
 ## Bijlage 11. Aangewezen zetmeelaardappeltelend gebied
 
-[Artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-01-01&g=2023-01-01)
+[Artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-03-29&g=2023-03-29)
 
 **Omschrijving:**
 
@@ -2410,7 +2404,7 @@ In de provincie **Friesland**: Ooststellingwerf, Weststellingwerf en Opsterland.
 
 ## Bijlage 12. Boetecategorieën
 
-[Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=4&artikel=43&z=2023-01-01&g=2023-01-01)
+[Artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=4&artikel=43&z=2023-03-29&g=2023-03-29)
 
 |   | Categorie eerste beboeting |
 | --- | --- |
@@ -2481,37 +2475,38 @@ In de provincie **Friesland**: Ooststellingwerf, Weststellingwerf en Opsterland.
 | Artikel 8, eerste lid | 2 |
 |   |   |
 | **Regeling plantgezondheid ex artikel 20, tweede lid, Plantgezondheidswet** |   |
-| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=19&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=20&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=22&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=25&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=26&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=27&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=28&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=29&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=30&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=31&z=2023-01-01&g=2023-01-01) | 2 |
-| [Artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=35&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-01-01&g=2023-01-01) | 3 |
-| [Artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-01-01&g=2023-01-01) | 3 |
+| [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.1&artikel=12&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.3&artikel=18&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=19&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=20&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=21&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.4&artikel=22&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.5&artikel=25&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=26&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=27&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=28&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.6&artikel=29&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=30&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=30&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.7&artikel=31&z=2023-03-29&g=2023-03-29) | 2 |
+| [Artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=35&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=37&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=38&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.8&artikel=39&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-03-29&g=2023-03-29) | 3 |
+| [Artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&hoofdstuk=3&paragraaf=3.9&artikel=40&z=2023-03-29&g=2023-03-29) | 3 |
 
 ## Bijlage 12. Boetecategorieën
 
