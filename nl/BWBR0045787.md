@@ -4,7 +4,7 @@ identifier: "BWBR0045787"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-10-01"
-last_updated: "2023-01-01"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045787"
 soort: "AMvB"
@@ -58,7 +58,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **algemeen vak:** vak, niet zijnde een profielvak of een beroepsgericht keuzevak;
 
-- **beroepsgericht keuzevak:** keuzevak als bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.4&artikel=2.29&z=2023-01-01&g=2023-01-01);
+- **beroepsgericht keuzevak:** keuzevak als bedoeld in [artikel 2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.4&artikel=2.29&z=2023-03-29&g=2023-03-29);
 
 - **college:** College voor toetsen en examens;
 
@@ -92,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **profieldeel:** deel van een profiel als bedoeld in de [artikel 2.21, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.21) of [artikel 2.24, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.24);
 
-- **profielvak:** vak als bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-01-01&g=2023-01-01), en [artikel 2.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-01-01&g=2023-01-01);
+- **profielvak:** vak als bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-03-29&g=2023-03-29), en [artikel 2.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-03-29&g=2023-03-29);
 
 - **profielwerkstuk:** profielwerkstuk als bedoeld in [artikel 2.53, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.53);
 
@@ -124,7 +124,7 @@ Dit besluit is ook van toepassing in de openbare lichamen Bonaire, Sint Eustatiu
 
 ##### Artikel 2.1. Kerndoelen eerste twee leerjaren voortgezet onderwijs
 
-De kerndoelen voor de eerste twee leerjaren voortgezet onderwijs vwo, havo, mavo en vbo worden bepaald in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&bijlage=1&z=2023-01-01&g=2023-01-01).
+De kerndoelen voor de eerste twee leerjaren voortgezet onderwijs vwo, havo, mavo en vbo worden bepaald in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&bijlage=1&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 2.2. Afwijkingen delen onderwijsprogramma eerste twee leerjaren voortgezet onderwijs
 
@@ -136,7 +136,7 @@ De kerndoelen voor de eerste twee leerjaren voortgezet onderwijs vwo, havo, mavo
 
 4. De commissie betrekt in elk geval bij haar oordeelsvorming:
 
-- a. in voorkomende gevallen het onderwijskundig rapport, bedoeld in [artikel 42, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42), [artikel 48 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=48) of [artikel 43 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43) en de resultaten van het onderzoek naar de geschiktheid, bedoeld in [artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&paragraaf=1&artikel=8.3&z=2023-01-01&g=2023-01-01), of [artikel 9.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=8&artikel=9.40&z=2023-01-01&g=2023-01-01);
+- a. in voorkomende gevallen het onderwijskundig rapport, bedoeld in [artikel 42, eerste lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42), [artikel 48 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=48) of [artikel 43 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43) en de resultaten van het onderzoek naar de geschiktheid, bedoeld in [artikel 8.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&paragraaf=1&artikel=8.3&z=2023-03-29&g=2023-03-29), of [artikel 9.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=8&artikel=9.40&z=2023-03-29&g=2023-03-29);
 
 - b. indien de omstandigheid op grond waarvan afwijking wordt voorgesteld daartoe aanleiding geeft, de verklaring die is afgegeven door een deskundige;
 
@@ -296,7 +296,7 @@ De kerndoelen voor de eerste twee leerjaren voortgezet onderwijs vwo, havo, mavo
 
 Het vrije deel van een profiel in vwo omvat ter keuze van de leerling ten minste een vak uit het geheel van:
 
-- a. de vakken, genoemd in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-01-01&g=2023-01-01), voor zover deze vakken niet al deel uitmaken van het profiel en het bevoegd gezag deze vakken als onderdeel van het vrije deel aanbiedt, met dien verstande dat:
+- a. de vakken, genoemd in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-03-29&g=2023-03-29), voor zover deze vakken niet al deel uitmaken van het profiel en het bevoegd gezag deze vakken als onderdeel van het vrije deel aanbiedt, met dien verstande dat:
 
 - 1°. binnen een profiel zijn toegestaan de combinatie van wiskunde A en wiskunde B of de combinatie van wiskunde B en wiskunde C, en dat wiskunde D kan worden gekozen indien wiskunde B al deel uitmaakt van het profiel;
 
@@ -332,13 +332,13 @@ Het vrije deel van een profiel in vwo omvat ter keuze van de leerling ten minste
 
 1. De leerling van een school voor vwo met het diploma havo is vrijgesteld van het volgen van onderwijs in het vak maatschappijleer en als het gaat om een atheneum ook in het vak culturele en kunstzinnige vorming.
 
-2. De leerling van een school voor vwo met het diploma havo of het diploma vmbo die in plaats van een vak voor die schoolsoort of als extra vak examen heeft afgelegd in een overeenkomstig vak, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01), is vrijgesteld van het volgen van onderwijs in dit vak.
+2. De leerling van een school voor vwo met het diploma havo of het diploma vmbo die in plaats van een vak voor die schoolsoort of als extra vak examen heeft afgelegd in een overeenkomstig vak, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29), is vrijgesteld van het volgen van onderwijs in dit vak.
 
 3. De leerling van een atheneum is vrijgesteld van het volgen van onderwijs in het vak culturele en kunstzinnige vorming, indien Latijnse taal en cultuur of Griekse taal en cultuur, of beide, deel uitmaken van het profiel.
 
 ##### Artikel 2.9. Ontheffing leerlingen profielen vwo (atheneum) voor tweede taal
 
-1. Het bevoegd gezag van een atheneum kan een leerling ontheffing verlenen voor het volgen van onderwijs in een tweede moderne vreemde taal als bedoeld in [artikel 2.5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01), indien:
+1. Het bevoegd gezag van een atheneum kan een leerling ontheffing verlenen voor het volgen van onderwijs in een tweede moderne vreemde taal als bedoeld in [artikel 2.5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29), indien:
 
 - a. de leerling een stoornis heeft die specifiek betrekking heeft op taal of een zintuiglijke stoornis heeft die effect heeft op taal;
 
@@ -346,7 +346,7 @@ Het vrije deel van een profiel in vwo omvat ter keuze van de leerling ten minste
 
 - c. de leerling onderwijs volgt in het profiel natuur en techniek of in het profiel natuur en gezondheid en het onderwijs in de taal naar verwachting verhindert dat de opleiding met goed gevolg wordt afgerond.
 
-2. In geval van een ontheffing als bedoeld in het eerste lid, wordt de taal vervangen door een van de vakken of programmaonderdelen, genoemd in de [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-01-01&g=2023-01-01) of [2.7, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-01-01&g=2023-01-01), met een normatieve studielast van ten minste 440 uren, ter keuze van de leerling, voor zover het bevoegd gezag deze vakken of programmaonderdelen als zodanig aanbiedt.
+2. In geval van een ontheffing als bedoeld in het eerste lid, wordt de taal vervangen door een van de vakken of programmaonderdelen, genoemd in de [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-03-29&g=2023-03-29) of [2.7, onderdeel c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-03-29&g=2023-03-29), met een normatieve studielast van ten minste 440 uren, ter keuze van de leerling, voor zover het bevoegd gezag deze vakken of programmaonderdelen als zodanig aanbiedt.
 
 #### Paragraaf 3. Profielen bovenbouw havo-onderwijs
 
@@ -444,7 +444,7 @@ Het gemeenschappelijk deel van een profiel in havo omvat de volgende vakken, met
 
 Het vrije deel van een profiel in havo omvat ter keuze van de leerling ten minste één vak uit het geheel van:
 
-- a. de vakken, genoemd in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-01-01&g=2023-01-01) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2023-01-01&g=2023-01-01), voor zover deze vakken niet al deel uitmaken van het profiel en het bevoegd gezag deze vakken als onderdeel van het vrije deel aanbiedt, met dien verstande dat:
+- a. de vakken, genoemd in de [artikelen 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-03-29&g=2023-03-29) en [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2023-03-29&g=2023-03-29), voor zover deze vakken niet al deel uitmaken van het profiel en het bevoegd gezag deze vakken als onderdeel van het vrije deel aanbiedt, met dien verstande dat:
 
 - 1°. binnen een profiel zijn toegestaan de combinatie van wiskunde A en wiskunde B, en dat wiskunde D uitsluitend kan worden gekozen indien wiskunde B al deel uitmaakt van het profiel;
 
@@ -476,11 +476,11 @@ Het vrije deel van een profiel in havo omvat ter keuze van de leerling ten minst
 
 ##### Artikel 2.13. Overeenkomstig vak op het niveau van vwo
 
-Het bevoegd gezag kan de leerling van een school voor havo in de gelegenheid stellen in plaats van de vakken voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-01-01&g=2023-01-01), de overeenkomstige vakken voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01), te volgen.
+Het bevoegd gezag kan de leerling van een school voor havo in de gelegenheid stellen in plaats van de vakken voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-03-29&g=2023-03-29), de overeenkomstige vakken voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29), te volgen.
 
 ##### Artikel 2.14. Vrijstelling leerlingen profielen havo
 
-De leerling van een school voor havo met een diploma vmbo die in plaats van een vak voor het vmbo of als extra vak examen heeft afgelegd in een overeenkomstig vak voor havo of vwo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-01-01&g=2023-01-01)respectievelijk de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01), is vrijgesteld van het volgen van onderwijs in dit vak.
+De leerling van een school voor havo met een diploma vmbo die in plaats van een vak voor het vmbo of als extra vak examen heeft afgelegd in een overeenkomstig vak voor havo of vwo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-03-29&g=2023-03-29)respectievelijk de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29), is vrijgesteld van het volgen van onderwijs in dit vak.
 
 #### Paragraaf 4. Profielen bovenbouw mavo en vbo
 
@@ -548,17 +548,17 @@ Het gemeenschappelijk deel van een profiel in de theoretische leerweg omvat de v
 
 1. Het vrije deel van de theoretische leerweg:
 
-- a. omvat door de leerling te kiezen vakken, genoemd in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-01-01&g=2023-01-01), voor zover deze niet al deel uitmaken van het profiel;
+- a. omvat door de leerling te kiezen vakken, genoemd in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-03-29&g=2023-03-29), voor zover deze niet al deel uitmaken van het profiel;
 
 - b. kan omvatten natuur- en scheikunde II, Spaanse taal, Turkse taal, Arabische taal, kunstvakken inclusief culturele en kunstzinnige vorming, Friese taal en cultuur, lichamelijke opvoeding 2 en informatietechnologie, door de leerling te kiezen, met dien verstande dat het bevoegd gezag beslist welke vakken worden aangeboden; en
 
 - c. kan omvatten door het bevoegd gezag vast te stellen vakken en programmaonderdelen.
 
-2. Naast het onderwijsprogramma, bedoeld in het eerste lid en in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.15&z=2023-01-01&g=2023-01-01), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-01-01&g=2023-01-01) , kan het bevoegd gezag de leerling in de gelegenheid stellen om beroepsgerichte keuzevakken als bedoeld in [artikel 2.26, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-01-01&g=2023-01-01), te volgen, met dien verstande dat het bevoegd gezag beslist welke beroepsgerichte keuzevakken worden aangeboden.
+2. Naast het onderwijsprogramma, bedoeld in het eerste lid en in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.15&z=2023-03-29&g=2023-03-29), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-03-29&g=2023-03-29) , kan het bevoegd gezag de leerling in de gelegenheid stellen om beroepsgerichte keuzevakken als bedoeld in [artikel 2.26, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-03-29&g=2023-03-29), te volgen, met dien verstande dat het bevoegd gezag beslist welke beroepsgerichte keuzevakken worden aangeboden.
 
 ##### Artikel 2.18. Overeenkomstig vak op niveau vwo of havo
 
-Het bevoegd gezag kan de leerling in de theoretische leerweg in de gelegenheid stellen, in plaats van de vakken, genoemd in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.15&z=2023-01-01&g=2023-01-01), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-01-01&g=2023-01-01) en [2.17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-01-01&g=2023-01-01), de overeenkomstige vakken voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01), of voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-01-01&g=2023-01-01) te volgen.
+Het bevoegd gezag kan de leerling in de theoretische leerweg in de gelegenheid stellen, in plaats van de vakken, genoemd in de [artikelen 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.15&z=2023-03-29&g=2023-03-29), [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-03-29&g=2023-03-29) en [2.17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-03-29&g=2023-03-29), de overeenkomstige vakken voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29), of voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-03-29&g=2023-03-29) te volgen.
 
 ##### Artikel 2.19. Minimum aantal vakken derde leerjaar theoretische leerweg vmbo
 
@@ -646,17 +646,17 @@ Het vrije deel van een profiel in de beroepsgerichte leerwegen:
 
 ##### Artikel 2.23. Overeenkomstig vak op niveau vwo, havo of andere leerweg en extra vak
 
-1. Het bevoegd gezag kan een leerling in een beroepsgerichte leerweg in de gelegenheid stellen om in plaats van de vakken van het gemeenschappelijk deel of van het profieldeel van de beroepsgerichte leerweg, genoemd in de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2023-01-01&g=2023-01-01) en [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-01-01&g=2023-01-01), of van de vakken die in de plaats komen van een tweede moderne vreemde taal te volgen:
+1. Het bevoegd gezag kan een leerling in een beroepsgerichte leerweg in de gelegenheid stellen om in plaats van de vakken van het gemeenschappelijk deel of van het profieldeel van de beroepsgerichte leerweg, genoemd in de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2023-03-29&g=2023-03-29) en [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-03-29&g=2023-03-29), of van de vakken die in de plaats komen van een tweede moderne vreemde taal te volgen:
 
-- a. de overeenkomstige vakken van de theoretische leerweg, genoemd in de [artikelen 2.15 tot en met 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.15&z=2023-01-01&g=2023-01-01);
+- a. de overeenkomstige vakken van de theoretische leerweg, genoemd in de [artikelen 2.15 tot en met 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.15&z=2023-03-29&g=2023-03-29);
 
-- b. de overeenkomstige vakken van de gemengde leerweg, genoemd in de [artikelen 2.24 tot en met 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.24&z=2023-01-01&g=2023-01-01);
+- b. de overeenkomstige vakken van de gemengde leerweg, genoemd in de [artikelen 2.24 tot en met 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.24&z=2023-03-29&g=2023-03-29);
 
-- c. de overeenkomstige vakken voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-01-01&g=2023-01-01); of
+- c. de overeenkomstige vakken voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-03-29&g=2023-03-29); of
 
-- d. de overeenkomstige vakken voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7.](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01)
+- d. de overeenkomstige vakken voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7.](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29)
 
-2. Indien het gaat om een leerling in de basisberoepsgerichte leerweg, kan het bevoegd gezag de leerling ook in de gelegenheid stellen om in plaats van de vakken van het gemeenschappelijk deel of het profieldeel van de basisberoepsgerichte leerweg, genoemd in de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2023-01-01&g=2023-01-01) en [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-01-01&g=2023-01-01), van de vakken die in de plaats komen van een tweede moderne vreemde taal of van de beroepsgerichte keuzevakken, de overeenkomstige vakken van de kaderberoepsgerichte leerweg te volgen.
+2. Indien het gaat om een leerling in de basisberoepsgerichte leerweg, kan het bevoegd gezag de leerling ook in de gelegenheid stellen om in plaats van de vakken van het gemeenschappelijk deel of het profieldeel van de basisberoepsgerichte leerweg, genoemd in de [artikelen 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2023-03-29&g=2023-03-29) en [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-03-29&g=2023-03-29), van de vakken die in de plaats komen van een tweede moderne vreemde taal of van de beroepsgerichte keuzevakken, de overeenkomstige vakken van de kaderberoepsgerichte leerweg te volgen.
 
 3. Het bevoegd gezag kan de leerling in een beroepsgerichte leerweg in de gelegenheid stellen om Friese taal en cultuur als extra vak te volgen.
 
@@ -732,7 +732,7 @@ Het gemeenschappelijk deel van een profiel in de gemengde leerweg omvat de volge
 
 Het vrije deel van een profiel in de gemengde leerweg:
 
-- a. omvat door de leerling te kiezen vakken, genoemd in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-01-01&g=2023-01-01), voor zover deze niet al deel uitmaken van het profiel;
+- a. omvat door de leerling te kiezen vakken, genoemd in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-03-29&g=2023-03-29), voor zover deze niet al deel uitmaken van het profiel;
 
 - b. omvat door de leerling te kiezen beroepsgerichte keuzevakken, met dien verstande dat het bevoegd gezag beslist welke beroepsgerichte keuzevakken worden aangeboden;
 
@@ -742,11 +742,11 @@ Het vrije deel van een profiel in de gemengde leerweg:
 
 ##### Artikel 2.27. Overeenkomstig vak op niveau vwo of havo
 
-Het bevoegd gezag kan de leerling in de gemengde leerweg in de gelegenheid stellen in plaats van de vakken, genoemd in de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.24&z=2023-01-01&g=2023-01-01), [2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-01-01&g=2023-01-01) en [2.26, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-01-01&g=2023-01-01), de overeenkomstige vakken voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01), of voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-01-01&g=2023-01-01) te volgen.
+Het bevoegd gezag kan de leerling in de gemengde leerweg in de gelegenheid stellen in plaats van de vakken, genoemd in de [artikelen 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.24&z=2023-03-29&g=2023-03-29), [2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-03-29&g=2023-03-29) en [2.26, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-03-29&g=2023-03-29), de overeenkomstige vakken voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29), of voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-03-29&g=2023-03-29) te volgen.
 
 ##### Artikel 2.28. Minimum aantal vakken derde leerjaar gemengde leerweg
 
-1. In het derde leerjaar volgt de leerling in de gemengde leerweg naast de vakken van het gemeenschappelijk deel ten minste onderwijs in een beroepsgericht programma als bedoeld in [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-01-01&g=2023-01-01), en vijf algemene vakken waarin eindexamen kan worden afgelegd.
+1. In het derde leerjaar volgt de leerling in de gemengde leerweg naast de vakken van het gemeenschappelijk deel ten minste onderwijs in een beroepsgericht programma als bedoeld in [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-03-29&g=2023-03-29), en vijf algemene vakken waarin eindexamen kan worden afgelegd.
 
 2. Indien de leerling onderwijs in een derde moderne vreemde taal volgt of heeft gevolgd in enig voorafgaand leerjaar, is het aantal algemene vakken, bedoeld in het eerste lid, vier.
 
@@ -778,7 +778,7 @@ Het bevoegd gezag kan de leerling in de gemengde leerweg in de gelegenheid stell
 
 2. Onze Minister beslist binnen dertien weken op de aanvraag tot goedkeuring en laat zich daarbij adviseren door een onafhankelijke adviescommissie.
 
-3. Als Onze Minister een aanvraag inwilligt, neemt hij het nieuwe beroepsgerichte keuzevak uiterlijk met ingang van 1 augustus daaropvolgend op in de ministeriële regeling, bedoeld in [artikel 2.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.4&artikel=2.29&z=2023-01-01&g=2023-01-01).
+3. Als Onze Minister een aanvraag inwilligt, neemt hij het nieuwe beroepsgerichte keuzevak uiterlijk met ingang van 1 augustus daaropvolgend op in de ministeriële regeling, bedoeld in [artikel 2.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.4&artikel=2.29&z=2023-03-29&g=2023-03-29).
 
 4. Bij ministeriële regeling worden regels gesteld over beroepsgerichte keuzevakken, waaronder in elk geval over:
 
@@ -794,15 +794,15 @@ Het bevoegd gezag kan de leerling in de gemengde leerweg in de gelegenheid stell
 
 ##### Artikel 2.32. Vrijstelling leerlingen profielen vmbo
 
-1. De leerling van een school voor mavo of vbo die in het bezit is van een diploma vmbo in een andere leerweg dan de leerweg van zijn inschrijving, en die met toepassing van de [artikelen 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.18&z=2023-01-01&g=2023-01-01), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-01-01&g=2023-01-01) of [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.27&z=2023-01-01&g=2023-01-01) in plaats van een vak voor de leerweg waarin hij eindexamen heeft afgelegd, examen heeft afgelegd in een overeenkomstig vak voor een andere leerweg, voor havo of voor vwo, of als extra vak, is vrijgesteld van het volgen van onderwijs in dat vak.
+1. De leerling van een school voor mavo of vbo die in het bezit is van een diploma vmbo in een andere leerweg dan de leerweg van zijn inschrijving, en die met toepassing van de [artikelen 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.18&z=2023-03-29&g=2023-03-29), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-03-29&g=2023-03-29) of [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.27&z=2023-03-29&g=2023-03-29) in plaats van een vak voor de leerweg waarin hij eindexamen heeft afgelegd, examen heeft afgelegd in een overeenkomstig vak voor een andere leerweg, voor havo of voor vwo, of als extra vak, is vrijgesteld van het volgen van onderwijs in dat vak.
 
 2. Dit artikel is ook van toepassing op een leerling die in een hoger leerjaar voor de eerste maal in Nederland tot een school is toegelaten.
 
 ##### Artikel 2.33. Ontheffing leerlingen profielen vmbo
 
-1. Het bevoegd gezag kan een ontheffing als bedoeld in [artikel 2.4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-01-01&g=2023-01-01), verleend voor de eerste twee leerjaren van het volgen van onderwijs in Franse taal of Duitse taal ook aanmerken als ontheffing voor het volgen van onderwijs in die taal voor de periode waarin de leerling onderwijs in de theoretische, kaderberoepsgerichte of gemengde leerweg volgt. Deze ontheffing wordt verleend aan leerlingen die:
+1. Het bevoegd gezag kan een ontheffing als bedoeld in [artikel 2.4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-03-29&g=2023-03-29), verleend voor de eerste twee leerjaren van het volgen van onderwijs in Franse taal of Duitse taal ook aanmerken als ontheffing voor het volgen van onderwijs in die taal voor de periode waarin de leerling onderwijs in de theoretische, kaderberoepsgerichte of gemengde leerweg volgt. Deze ontheffing wordt verleend aan leerlingen die:
 
-- a. op grond van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-01-01&g=2023-01-01), beschikken over een ontheffing en deze ontheffing wordt voortgezet;
+- a. op grond van [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-03-29&g=2023-03-29), beschikken over een ontheffing en deze ontheffing wordt voortgezet;
 
 - b. in de periode van de eerste twee leerjaren onderwijs in Spaanse taal, Arabische taal of Turkse taal volgden; of
 
@@ -850,7 +850,7 @@ De stage, bedoeld in de [artikelen 2.26, derde lid](https://wetten.overheid.nl/j
 
 ##### Artikel 2.37. Samenwerkingsovereenkomst stage
 
-Het bevoegd gezag kan voor de leerlingen een schriftelijke samenwerkingsovereenkomst met een of meer stagebieders sluiten waarin ook een of meer onderdelen van de stageovereenkomst, bedoeld in [artikel 2.36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=5&artikel=2.36&z=2023-01-01&g=2023-01-01), worden opgenomen.
+Het bevoegd gezag kan voor de leerlingen een schriftelijke samenwerkingsovereenkomst met een of meer stagebieders sluiten waarin ook een of meer onderdelen van de stageovereenkomst, bedoeld in [artikel 2.36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=5&artikel=2.36&z=2023-03-29&g=2023-03-29), worden opgenomen.
 
 #### Paragraaf 6. Inrichting praktijkonderwijs
 
@@ -872,7 +872,7 @@ Het bevoegd gezag kan voor de leerlingen een schriftelijke samenwerkingsovereenk
 
 ##### Artikel 2.39. Arbeidstraining in het praktijkonderwijs
 
-De [artikelen 2.34 tot en met 2.37](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=5&artikel=2.34&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing op het onderwijs in de praktijk van de uitoefening van een vak of beroep aan een school voor praktijkonderwijs, voor zover dat onderwijs buiten die school plaatsvindt.
+De [artikelen 2.34 tot en met 2.37](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=5&artikel=2.34&z=2023-03-29&g=2023-03-29) zijn van overeenkomstige toepassing op het onderwijs in de praktijk van de uitoefening van een vak of beroep aan een school voor praktijkonderwijs, voor zover dat onderwijs buiten die school plaatsvindt.
 
 #### Paragraaf 7. Overige bepalingen inrichting onderwijs
 
@@ -900,7 +900,7 @@ De [artikelen 2.34 tot en met 2.37](https://wetten.overheid.nl/jci1.3:c:BWBR0045
 
 2. Indien er geen externe stagebieder is, wordt de stageovereenkomst gesloten tussen het bevoegd gezag en ouders respectievelijk de leerling indien deze handelingsbekwaam is.
 
-3. [Artikel 2.36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=5&artikel=2.36&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing op de stageovereenkomst voor een maatschappelijke stage.
+3. [Artikel 2.36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=5&artikel=2.36&z=2023-03-29&g=2023-03-29), is van overeenkomstige toepassing op de stageovereenkomst voor een maatschappelijke stage.
 
 #### Paragraaf 8. Onderwijstijd, vakanties
 
@@ -928,7 +928,7 @@ De [artikelen 2.34 tot en met 2.37](https://wetten.overheid.nl/jci1.3:c:BWBR0045
 
 3. Onder dagen in het eerste lid wordt verstaan elke dag van de week met uitzondering van de zondag bij een zesdaagse schoolweek en met uitzondering van de zaterdag en de zondag bij een vijfdaagse schoolweek.
 
-4. Behalve als zij vallen binnen een vakantie vastgesteld bij ministeriële regeling op grond van [artikel 2.39, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.39), of door het bevoegd gezag op grond van het tweede lid, worden de feestdagen, bedoeld in [artikel 2.42 eerste lid, onderdelen c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&artikel=2.42&z=2023-01-01&g=2023-01-01), niet meegeteld bij het aantal dagen, bedoeld in het eerste lid.
+4. Behalve als zij vallen binnen een vakantie vastgesteld bij ministeriële regeling op grond van [artikel 2.39, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.39), of door het bevoegd gezag op grond van het tweede lid, worden de feestdagen, bedoeld in [artikel 2.42 eerste lid, onderdelen c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&artikel=2.42&z=2023-03-29&g=2023-03-29), niet meegeteld bij het aantal dagen, bedoeld in het eerste lid.
 
 ##### Artikel 2.44. Aantal klokuren onderwijs in de praktijk bij praktijkonderwijs
 
@@ -1014,7 +1014,7 @@ Het aantal klokuren onderwijs in de praktijk van de uitoefening van een vak of b
 
 - a. vbo of mavo bezoekt en op leerwegondersteunend onderwijs is aangewezen, en:
 
-- 1°. scores heeft op de criteria, bedoeld in [artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=9&artikel=2.46&z=2023-01-01&g=2023-01-01), in het grensvlak van het leerwegondersteunend onderwijs en praktijkonderwijs;
+- 1°. scores heeft op de criteria, bedoeld in [artikel 2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=9&artikel=2.46&z=2023-03-29&g=2023-03-29), in het grensvlak van het leerwegondersteunend onderwijs en praktijkonderwijs;
 
 - 2°. naar het oordeel van het bevoegd gezag een toegenomen problematiek heeft nadat de beslissing is genomen dat de leerling op leerwegondersteunend onderwijs is aangewezen; of
 
@@ -1022,7 +1022,7 @@ Het aantal klokuren onderwijs in de praktijk van de uitoefening van een vak of b
 
 - b. beschikt over een toelaatbaarheidsverklaring voor het speciaal onderwijs of voortgezet speciaal onderwijs van een samenwerkingsverband of een ontwikkelingsperspectief, en:
 
-- 1°. voldoet aan het intelligentiequotiëntcriterium of leerachterstandscriterium voor toelating tot het praktijkonderwijs, bedoeld in [artikel 2.46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=9&artikel=2.46&z=2023-01-01&g=2023-01-01), zoals blijkt uit gegevens die gebaseerd zijn op screenings- of testinstrumenten als bedoeld in [artikel 2.46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=9&artikel=2.46&z=2023-01-01&g=2023-01-01); of
+- 1°. voldoet aan het intelligentiequotiëntcriterium of leerachterstandscriterium voor toelating tot het praktijkonderwijs, bedoeld in [artikel 2.46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=9&artikel=2.46&z=2023-03-29&g=2023-03-29), zoals blijkt uit gegevens die gebaseerd zijn op screenings- of testinstrumenten als bedoeld in [artikel 2.46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=9&artikel=2.46&z=2023-03-29&g=2023-03-29); of
 
 - 2°. naar het oordeel van het bevoegd gezag, ongeacht de intelligentiequotiënt of de leerachterstand, een zodanige problematiek heeft dat toelaatbaarheid tot het praktijkonderwijs geboden is.
 
@@ -1094,7 +1094,7 @@ Het aantal klokuren onderwijs in de praktijk van de uitoefening van een vak of b
 
 ##### Artikel 2.53. Ministeriële regeling berekening indicatoren, benodigde gegevens en oordeel over leerresultaten onderwijs
 
-1. Bij ministeriële regeling worden nadere regels gesteld over de berekening van de indicatoren voor de beoordeling van de leerresultaten, waaronder begrepen de toe te passen correcties, bedoeld in [artikel 2.52, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=10&artikel=2.52&z=2023-01-01&g=2023-01-01).
+1. Bij ministeriële regeling worden nadere regels gesteld over de berekening van de indicatoren voor de beoordeling van de leerresultaten, waaronder begrepen de toe te passen correcties, bedoeld in [artikel 2.52, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=10&artikel=2.52&z=2023-03-29&g=2023-03-29).
 
 2. Bij ministeriële regeling worden regels gesteld over:
 
@@ -1184,7 +1184,7 @@ Bij een samenwerking op grond van [artikel 2.99, eerste lid, aanhef en onderdeel
 
 ##### Artikel 2.60. Leerling geldt voor toepassing medezeggenschap ook als WEB-student
 
-Leerlingen als bedoeld in de [artikelen 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.56&z=2023-01-01&g=2023-01-01) en [2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.58&z=2023-01-01&g=2023-01-01) gelden voor de toepassing van [hoofdstuk 8a WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=8a) voor het onderwijs dat zij volgen aan een instelling ook als student als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+Leerlingen als bedoeld in de [artikelen 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.56&z=2023-03-29&g=2023-03-29) en [2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.58&z=2023-03-29&g=2023-03-29) gelden voor de toepassing van [hoofdstuk 8a WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&hoofdstuk=8a) voor het onderwijs dat zij volgen aan een instelling ook als student als bedoeld in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 ##### Artikel 2.61. Onderwijs door docenten instelling
 
@@ -1288,7 +1288,7 @@ Een samenwerkingsovereenkomst als bedoeld in [artikel 2.109 van de wet](https://
 
 ##### Artikel 2.68. Beschrijving van gegevens voor het beleid van Onze Minister
 
-1. De gegevens, bedoeld in [artikel 2.111 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.111), waarover een bevoegd gezag of een samenwerkingsverband beschikt voor het beleid van Onze Minister, worden gedefinieerd en geordend volgens de regels vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&bijlage=2&z=2023-01-01&g=2023-01-01).
+1. De gegevens, bedoeld in [artikel 2.111 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.111), waarover een bevoegd gezag of een samenwerkingsverband beschikt voor het beleid van Onze Minister, worden gedefinieerd en geordend volgens de regels vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&bijlage=2&z=2023-03-29&g=2023-03-29).
 
 2. Bij ministeriële regeling worden nadere regels gesteld over de gegevens, bedoeld in het eerste lid, en over de wijze waarop de gegevens beschikbaar worden gesteld.
 
@@ -1308,11 +1308,11 @@ Bij de gegevensverstrekking op grond van [artikel 2.111 van de wet](https://wett
 
 1. Het eindexamen vwo (atheneum) omvat in elk geval:
 
-- a. de vakken van het gemeenschappelijk deel van een profiel, genoemd in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01);
+- a. de vakken van het gemeenschappelijk deel van een profiel, genoemd in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29);
 
-- b. de vakken van het profieldeel, genoemd in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-01-01&g=2023-01-01); en
+- b. de vakken van het profieldeel, genoemd in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-03-29&g=2023-03-29); en
 
-- c. ten minste een vak met een normatieve studielast van ten minste 440 uren van het vrije deel van een profiel, genoemd in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-01-01&g=2023-01-01), met dien verstande dat een door het bevoegd gezag vast te stellen vak alleen onderdeel is van het eindexamen voor zover Onze Minister daarvoor goedkeuring heeft verleend.
+- c. ten minste een vak met een normatieve studielast van ten minste 440 uren van het vrije deel van een profiel, genoemd in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-03-29&g=2023-03-29), met dien verstande dat een door het bevoegd gezag vast te stellen vak alleen onderdeel is van het eindexamen voor zover Onze Minister daarvoor goedkeuring heeft verleend.
 
 2. Naast de vakken, bedoeld in het eerste lid, kan het eindexamen vwo (atheneum) ter keuze van de examenkandidaat extra vakken omvatten, voor zover het bevoegd gezag hem dat toestaat en het vak niet inhoudelijk overeenkomt met een vak dat al onderdeel is van dat eindexamen.
 
@@ -1322,11 +1322,11 @@ Bij de gegevensverstrekking op grond van [artikel 2.111 van de wet](https://wett
 
 1. Het eindexamen vwo (gymnasium) omvat in elk geval:
 
-- a. de vakken van het gemeenschappelijk deel van een profiel, genoemd in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01);
+- a. de vakken van het gemeenschappelijk deel van een profiel, genoemd in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29);
 
-- b. de vakken van het profieldeel, genoemd in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-01-01&g=2023-01-01); en
+- b. de vakken van het profieldeel, genoemd in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-03-29&g=2023-03-29); en
 
-- c. ten minste een vak met een normatieve studielast van ten minste 440 uur van het vrije deel van een profiel, genoemd in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-01-01&g=2023-01-01), met dien verstande dat een door het bevoegd gezag vast te stellen vak alleen onderdeel is van het eindexamen voor zover Onze Minister daarvoor goedkeuring heeft verleend.
+- c. ten minste een vak met een normatieve studielast van ten minste 440 uur van het vrije deel van een profiel, genoemd in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-03-29&g=2023-03-29), met dien verstande dat een door het bevoegd gezag vast te stellen vak alleen onderdeel is van het eindexamen voor zover Onze Minister daarvoor goedkeuring heeft verleend.
 
 2. Naast de vakken, bedoeld in het eerste lid, kan het eindexamen vwo (gymnasium) ter keuze van de examenkandidaat extra vakken omvatten, voor zover het bevoegd gezag hem dat toestaat en het vak niet inhoudelijk overeenkomt met een vak dat al onderdeel is van dat eindexamen.
 
@@ -1336,13 +1336,13 @@ Bij de gegevensverstrekking op grond van [artikel 2.111 van de wet](https://wett
 
 1. Het eindexamen havo omvat in elk geval:
 
-- a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-01-01&g=2023-01-01);
+- a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-03-29&g=2023-03-29);
 
-- b. de vakken van het profieldeel, genoemd in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2023-01-01&g=2023-01-01); en
+- b. de vakken van het profieldeel, genoemd in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2023-03-29&g=2023-03-29); en
 
-- c. ten minste een vak met een normatieve studielast van ten minste 320 uur van het vrije deel van elk profiel, genoemd in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2023-01-01&g=2023-01-01), met dien verstande dat een door het bevoegd gezag vast te stellen vak alleen onderdeel is van het eindexamen voor zover Onze Minister daarvoor goedkeuring heeft verleend.
+- c. ten minste een vak met een normatieve studielast van ten minste 320 uur van het vrije deel van elk profiel, genoemd in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2023-03-29&g=2023-03-29), met dien verstande dat een door het bevoegd gezag vast te stellen vak alleen onderdeel is van het eindexamen voor zover Onze Minister daarvoor goedkeuring heeft verleend.
 
-2. In plaats van de vakken, bedoeld in het eerste lid, kan het eindexamen havo ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.13&z=2023-01-01&g=2023-01-01) op het niveau van vwo omvatten, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het derde lid gekozen wordt.
+2. In plaats van de vakken, bedoeld in het eerste lid, kan het eindexamen havo ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.13&z=2023-03-29&g=2023-03-29) op het niveau van vwo omvatten, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het derde lid gekozen wordt.
 
 3. Naast de vakken, bedoeld in het eerste lid, kan het eindexamen havo ter keuze van de examenkandidaat extra vakken omvatten, voor zover het bevoegd gezag hem dat toestaat en het vak niet inhoudelijk overeenkomt met een vak dat al onderdeel is van dat eindexamen.
 
@@ -1352,19 +1352,19 @@ Bij de gegevensverstrekking op grond van [artikel 2.111 van de wet](https://wett
 
 1. Het eindexamen vmbo theoretische leerweg omvat in elk geval:
 
-- a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.15&z=2023-01-01&g=2023-01-01);
+- a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.15&z=2023-03-29&g=2023-03-29);
 
-- b. de twee vakken van het profieldeel, genoemd in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-01-01&g=2023-01-01); en
+- b. de twee vakken van het profieldeel, genoemd in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-03-29&g=2023-03-29); en
 
-- c. in het vrije deel twee nog niet in het profieldeel gekozen vakken, genoemd in [artikel 2.17, onderdelen a, b, of d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-01-01&g=2023-01-01), met dien verstande dat het profieldeel en het vrije deel samen ten minste twee vakken omvatten die geen moderne vreemde taal zijn.
+- c. in het vrije deel twee nog niet in het profieldeel gekozen vakken, genoemd in [artikel 2.17, onderdelen a, b, of d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-03-29&g=2023-03-29), met dien verstande dat het profieldeel en het vrije deel samen ten minste twee vakken omvatten die geen moderne vreemde taal zijn.
 
 2. Indien de examenkandidaat in het vrije deel twee kunstvakken kiest, wordt een kunstvak gekozen uit de vakken behorende tot de beeldende vorming en een kunstvak uit de vakken muziek, dans en drama.
 
-3. In plaats van de vakken, bedoeld in het eerste en tweede lid, kan het eindexamen vmbo theoretische leerweg ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.18&z=2023-01-01&g=2023-01-01) op het niveau van vwo of havo omvatten, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het vierde lid gekozen wordt.
+3. In plaats van de vakken, bedoeld in het eerste en tweede lid, kan het eindexamen vmbo theoretische leerweg ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.18&z=2023-03-29&g=2023-03-29) op het niveau van vwo of havo omvatten, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het vierde lid gekozen wordt.
 
 4. Naast de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo theoretische leerweg ter keuze van de examenkandidaat de volgende extra vakken omvatten, voor zover het bevoegd gezag hem dat toestaat en het vak niet inhoudelijk overeenkomt met een vak dat al onderdeel is van het eindexamen:
 
-- a. een vak als bedoeld in [artikel 2.17, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-01-01&g=2023-01-01), dat behoort tot het vrije deel van de theoretische leerweg;
+- a. een vak als bedoeld in [artikel 2.17, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-03-29&g=2023-03-29), dat behoort tot het vrije deel van de theoretische leerweg;
 
 - b. een vak dat behoort tot het eindexamen vmbo gemengde leerweg; of
 
@@ -1376,25 +1376,25 @@ Bij de gegevensverstrekking op grond van [artikel 2.111 van de wet](https://wett
 
 1. Het eindexamen vmbo basisberoepsgerichte leerweg omvat in elk geval:
 
-- a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2023-01-01&g=2023-01-01),
+- a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2023-03-29&g=2023-03-29),
 
-- b. de twee algemene vakken van het profieldeel, genoemd in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-01-01&g=2023-01-01); en
+- b. de twee algemene vakken van het profieldeel, genoemd in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-03-29&g=2023-03-29); en
 
 - c. een beroepsgericht programma, bestaande uit:
 
-- 1°. het profielvak, bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-01-01&g=2023-01-01); en
+- 1°. het profielvak, bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-03-29&g=2023-03-29); en
 
 - 2°. in het vrije deel van het profiel vier beroepsgerichte keuzevakken.
 
-2. In plaats van de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo basisberoepsgerichte leerweg ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-01-01&g=2023-01-01), omvatten op het niveau van vwo, havo, vmbo theoretische leerweg of vmbo kaderberoepsgerichte leerweg, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het derde lid gekozen wordt.
+2. In plaats van de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo basisberoepsgerichte leerweg ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-03-29&g=2023-03-29), omvatten op het niveau van vwo, havo, vmbo theoretische leerweg of vmbo kaderberoepsgerichte leerweg, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het derde lid gekozen wordt.
 
 3. Naast de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo basisberoepsgerichte leerweg ter keuze van de examenkandidaat de volgende extra vakken omvatten, voor zover het bevoegd gezag hem dat toestaat, het vak nog geen onderdeel van dat eindexamen is en niet inhoudelijk overeenkomt met een vak dat al onderdeel is van het eindexamen:
 
-- a. een algemeen vak van het profieldeel, bedoeld in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-01-01&g=2023-01-01), of een beroepsgericht keuzevak;
+- a. een algemeen vak van het profieldeel, bedoeld in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-03-29&g=2023-03-29), of een beroepsgericht keuzevak;
 
 - b. het vak Friese taal en cultuur;
 
-- c. een vak als bedoeld in [artikel 2.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-01-01&g=2023-01-01), dat op grond van dat artikel onderdeel kan zijn van de basisberoepsgerichte leerweg;
+- c. een vak als bedoeld in [artikel 2.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-03-29&g=2023-03-29), dat op grond van dat artikel onderdeel kan zijn van de basisberoepsgerichte leerweg;
 
 - d. een algemeen vak dat behoort tot het eindexamen vmbo theoretische leerweg, kaderberoepsgerichte leerweg of gemengde leerweg; of
 
@@ -1412,25 +1412,25 @@ Bij de gegevensverstrekking op grond van [artikel 2.111 van de wet](https://wett
 
 1. Het eindexamen vmbo kaderberoepsgerichte leerweg omvat in elk geval:
 
-- a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2023-01-01&g=2023-01-01);
+- a. de vakken van het gemeenschappelijk deel van elk profiel, genoemd in [artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.20&z=2023-03-29&g=2023-03-29);
 
-- b. de twee algemene vakken van het profieldeel, genoemd in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-01-01&g=2023-01-01); en
+- b. de twee algemene vakken van het profieldeel, genoemd in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-03-29&g=2023-03-29); en
 
 - c. een beroepsgericht programma, bestaande uit:
 
-- 1°. het profielvak, bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-01-01&g=2023-01-01), van het profieldeel; en
+- 1°. het profielvak, bedoeld in [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-03-29&g=2023-03-29), van het profieldeel; en
 
 - 2°. in het vrije deel van het profiel vier beroepsgerichte keuzevakken.
 
-2. In plaats van de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo kaderberoepsgerichte leerweg ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-01-01&g=2023-01-01) op het niveau van vwo, havo of vmbo theoretische leerweg omvatten, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het derde lid gekozen wordt.
+2. In plaats van de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo kaderberoepsgerichte leerweg ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-03-29&g=2023-03-29) op het niveau van vwo, havo of vmbo theoretische leerweg omvatten, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het derde lid gekozen wordt.
 
 3. Naast de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo kaderberoepsgerichte leerweg ter keuze van de examenkandidaat de volgende extra vakken omvatten, voor zover het bevoegd gezag hem dat toestaat, het vak nog geen onderdeel van dat eindexamen is en niet inhoudelijk overeenkomt met een vak dat al onderdeel is van het eindexamen:
 
-- a. een algemeen vak van het profieldeel, genoemd in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-01-01&g=2023-01-01), of een beroepsgericht keuzevak;
+- a. een algemeen vak van het profieldeel, genoemd in [artikel 2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.21&z=2023-03-29&g=2023-03-29), of een beroepsgericht keuzevak;
 
 - b. het vak Friese taal en cultuur;
 
-- c. een vak als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-01-01&g=2023-01-01), dat op grond van dat artikel onderdeel kan zijn van de kaderberoepsgerichte leerweg,
+- c. een vak als bedoeld in [artikel 2.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-03-29&g=2023-03-29), dat op grond van dat artikel onderdeel kan zijn van de kaderberoepsgerichte leerweg,
 
 - d. een algemeen vak dat behoort tot het eindexamen vmbo theoretische leerweg of vmbo gemengde leerweg; of
 
@@ -1440,23 +1440,23 @@ Bij de gegevensverstrekking op grond van [artikel 2.111 van de wet](https://wett
 
 1. Het eindexamen vmbo gemengde leerweg omvat in elk geval:
 
-- a. de vakken van het gemeenschappelijk deel van elke profiel, genoemd in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.24&z=2023-01-01&g=2023-01-01);
+- a. de vakken van het gemeenschappelijk deel van elke profiel, genoemd in [artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.24&z=2023-03-29&g=2023-03-29);
 
-- b. de twee algemene vakken van het profieldeel, genoemd in [artikel 2.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-01-01&g=2023-01-01);
+- b. de twee algemene vakken van het profieldeel, genoemd in [artikel 2.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-03-29&g=2023-03-29);
 
-- c. in het vrije deel van het profiel een nog niet in het profieldeel gekozen algemeen vak, genoemd in [artikel 2.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-01-01&g=2023-01-01), of [artikel 2.26, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-01-01&g=2023-01-01);
+- c. in het vrije deel van het profiel een nog niet in het profieldeel gekozen algemeen vak, genoemd in [artikel 2.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-03-29&g=2023-03-29), of [artikel 2.26, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-03-29&g=2023-03-29);
 
 - d. een beroepsgericht programma, bestaande uit:
 
-- 1°. het profielvak van het profieldeel, bedoeld in [artikel 2.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-01-01&g=2023-01-01); en
+- 1°. het profielvak van het profieldeel, bedoeld in [artikel 2.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-03-29&g=2023-03-29); en
 
 - 2°. in het vrije deel twee beroepsgerichte keuzevakken.
 
-2. In plaats van de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo gemengde leerweg ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.27&z=2023-01-01&g=2023-01-01) op het niveau van vwo of havo omvatten, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het derde lid gekozen wordt.
+2. In plaats van de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo gemengde leerweg ter keuze van de examenkandidaat overeenkomstige vakken als bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.27&z=2023-03-29&g=2023-03-29) op het niveau van vwo of havo omvatten, voor zover het bevoegd gezag hem dat toestaat en het vervangen vak niet als extra vak als bedoeld in het derde lid gekozen wordt.
 
 3. Naast de vakken, bedoeld in het eerste lid, kan het eindexamen vmbo gemengde leerweg ter keuze van de examenkandidaat de volgende extra vakken omvatten, voor zover het bevoegd gezag hem dat toestaat en het vak niet inhoudelijk overeenkomt met een vak dat al onderdeel is van het eindexamen:
 
-- a. een vak als bedoeld in [artikel 2.26, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-01-01&g=2023-01-01);
+- a. een vak als bedoeld in [artikel 2.26, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-03-29&g=2023-03-29);
 
 - b. een vak dat behoort tot het eindexamen vwo of havo.
 
@@ -1466,13 +1466,13 @@ Bij de gegevensverstrekking op grond van [artikel 2.111 van de wet](https://wett
 
 1. De examenkandidaat is bij het eindexamen vrijgesteld van het vak waarvoor:
 
-- a. een vrijstelling geldt van het volgen van onderwijs op grond van de [artikelen 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2023-01-01&g=2023-01-01), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.14&z=2023-01-01&g=2023-01-01) of [2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.32&z=2023-01-01&g=2023-01-01); of
+- a. een vrijstelling geldt van het volgen van onderwijs op grond van de [artikelen 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2023-03-29&g=2023-03-29), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.14&z=2023-03-29&g=2023-03-29) of [2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.32&z=2023-03-29&g=2023-03-29); of
 
-- b. een ontheffing is verleend voor het volgen van onderwijs op grond van [artikel 2.33, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33) of de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2023-01-01&g=2023-01-01) of [2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.33&z=2023-01-01&g=2023-01-01).
+- b. een ontheffing is verleend voor het volgen van onderwijs op grond van [artikel 2.33, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.33) of de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2023-03-29&g=2023-03-29) of [2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.33&z=2023-03-29&g=2023-03-29).
 
-2. In geval van een ontheffing in vwo (atheneum) voor het volgen van onderwijs in een tweede moderne vreemde taal op grond van [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2023-01-01&g=2023-01-01), wordt het eindexamen in de taal vervangen door het eindexamen in het vak, bedoeld in het tweede lid van dat artikel.
+2. In geval van een ontheffing in vwo (atheneum) voor het volgen van onderwijs in een tweede moderne vreemde taal op grond van [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2023-03-29&g=2023-03-29), wordt het eindexamen in de taal vervangen door het eindexamen in het vak, bedoeld in het tweede lid van dat artikel.
 
-3. In geval van een ontheffing in vmbo op grond van [artikel 2.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.33&z=2023-01-01&g=2023-01-01), voor het volgen van onderwijs in Franse of Duitse taal, wordt het eindexamen in de taal vervangen door het eindexamen in het vak, bedoeld in het tweede lid van dat artikel.
+3. In geval van een ontheffing in vmbo op grond van [artikel 2.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.33&z=2023-03-29&g=2023-03-29), voor het volgen van onderwijs in Franse of Duitse taal, wordt het eindexamen in de taal vervangen door het eindexamen in het vak, bedoeld in het tweede lid van dat artikel.
 
 ##### Artikel 3.9. Minimumeis overeenstemming eindexamenvakken met schoolsoort of leerweg van inschrijving
 
@@ -1490,11 +1490,11 @@ Indien het eindexamen een of meer vakken omvat van een andere schoolsoort of lee
 
 1. Het schoolexamen bestaat uit een examendossier. Het examendossier is het geheel van de onderdelen van het schoolexamen zoals gedocumenteerd in een door het bevoegd gezag gekozen vorm.
 
-2. Het examendossier voor het vmbo theoretische leerweg en gemengde leerweg omvat ook de resultaten die de leerling heeft behaald voor de vakken, bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.19&z=2023-01-01&g=2023-01-01) onderscheidenlijk [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.28&z=2023-01-01&g=2023-01-01), als in die vakken geen eindexamen is afgelegd.
+2. Het examendossier voor het vmbo theoretische leerweg en gemengde leerweg omvat ook de resultaten die de leerling heeft behaald voor de vakken, bedoeld in [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.19&z=2023-03-29&g=2023-03-29) onderscheidenlijk [artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.28&z=2023-03-29&g=2023-03-29), als in die vakken geen eindexamen is afgelegd.
 
 ##### Artikel 3.12. Tijdstip afsluiting schoolexamen in bijzondere gevallen
 
-1. In de gevallen, bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2023-01-01&g=2023-01-01), wordt het schoolexamen in het vak waarop dit schoolexamen betrekking heeft, afgesloten tien werkdagen voor de afname van het centraal examen in dat vak.
+1. In de gevallen, bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2023-03-29&g=2023-03-29), wordt het schoolexamen in het vak waarop dit schoolexamen betrekking heeft, afgesloten tien werkdagen voor de afname van het centraal examen in dat vak.
 
 2. Indien het centraal examen overeenkomstig [artikel 2.56, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.56) wordt afgesloten in het voorlaatste leerjaar of het daaraan voorafgaande leerjaar, wordt het schoolexamen in dat vak of die vakken afgesloten voordat in dat leerjaar het centraal examen in dat vak of die vakken aanvangt.
 
@@ -1510,7 +1510,7 @@ Indien het eindexamen een of meer vakken omvat van een andere schoolsoort of lee
 
 ##### Artikel 3.14. Beoordeling profielwerkstuk in het vmbo
 
-1. In afwijking van [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=2&artikel=3.13&z=2023-01-01&g=2023-01-01), wordt het profielwerkstuk in het vmbo beoordeeld met «goed», «voldoende» of «onvoldoende».
+1. In afwijking van [artikel 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=2&artikel=3.13&z=2023-03-29&g=2023-03-29), wordt het profielwerkstuk in het vmbo beoordeeld met «goed», «voldoende» of «onvoldoende».
 
 2. De beoordeling van het profielwerkstuk in het vmbo vindt plaats op de grondslag van het voldoende voltooien van het profielwerkstuk, zoals blijkend uit het examendossier.
 
@@ -1526,7 +1526,7 @@ Indien het eindexamen een of meer vakken omvat van een andere schoolsoort of lee
 
 - c. de beoordeling van het profielwerkstuk in het vmbo; en
 
-- d. een overzicht van de behaalde resultaten van alle onderdelen in het examendossier, bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2023-01-01&g=2023-01-01).
+- d. een overzicht van de behaalde resultaten van alle onderdelen in het examendossier, bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=2&artikel=3.11&z=2023-03-29&g=2023-03-29).
 
 2. De rector of directeur en de examensecretaris tekenen voor de verstrekking van de in het eerste lid genoemde cijfers, beoordelingen en overzicht.
 
@@ -1608,7 +1608,7 @@ De rector of directeur deelt jaarlijks voor 1 november aan Onze Minister mee hoe
 
 ##### Artikel 3.23. Aanwijzing gecommitteerden door bevoegd gezag
 
-1. Het bevoegd gezag wijst op grond van de koppeling, bedoeld in [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2023-01-01&g=2023-01-01), een of meer gecommitteerden aan.
+1. Het bevoegd gezag wijst op grond van de koppeling, bedoeld in [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2023-03-29&g=2023-03-29), een of meer gecommitteerden aan.
 
 2. Het bevoegd gezag maakt de gecommitteerden, bedoeld in het eerste lid, bekend aan de scholen waarvoor zij de tweede correctie verrichten. Zij blijven als gecommitteerde aangewezen tot na de afloop van de herkansing.
 
@@ -1618,7 +1618,7 @@ De rector of directeur deelt jaarlijks voor 1 november aan Onze Minister mee hoe
 
 ##### Artikel 3.24. Beoordeling centraal examen door gecommitteerde
 
-1. De rector of directeur, bedoeld in [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2023-01-01&g=2023-01-01), doet onverwijld na de beoordeling door de examinator aan de rector of directeur van de gecommitteerde toekomen:
+1. De rector of directeur, bedoeld in [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2023-03-29&g=2023-03-29), doet onverwijld na de beoordeling door de examinator aan de rector of directeur van de gecommitteerde toekomen:
 
 - a. het door de examinator beoordeelde werk van het centraal examen;
 
@@ -1628,11 +1628,11 @@ De rector of directeur deelt jaarlijks voor 1 november aan Onze Minister mee hoe
 
 - d. het proces-verbaal van het examen; en
 
-- e. de regels voor het bepalen van de score, bedoeld in [artikel 3.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2023-01-01&g=2023-01-01).
+- e. de regels voor het bepalen van de score, bedoeld in [artikel 3.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2023-03-29&g=2023-03-29).
 
 2. De rector of directeur van de gecommitteerde doet de documenten, bedoeld in het eerste lid, toekomen aan de gecommitteerde.
 
-3. [Artikel 3.21, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing op de beoordeling door de gecommitteerde.
+3. [Artikel 3.21, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2023-03-29&g=2023-03-29), is van overeenkomstige toepassing op de beoordeling door de gecommitteerde.
 
 4. De gecommitteerde voegt bij het gecorrigeerde werk een verklaring over de verrichte correctie. Deze verklaring is medeondertekend door het bevoegd gezag van de school waar de gecommitteerde werkzaam is.
 
@@ -1662,9 +1662,9 @@ De rector of directeur deelt jaarlijks voor 1 november aan Onze Minister mee hoe
 
 ##### Artikel 3.27. Beoordeling centraal examen cspe vmbo door tweede examinator
 
-1. Voor het cspe van het eindexamen vmbo vindt de beoordeling ook plaats door een tweede examinator als bedoeld in [artikel 3.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.26&z=2023-01-01&g=2023-01-01). De tweede examinator kan een deskundige als bedoeld in [artikel 2.51, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.51) of een examinator van de school zijn.
+1. Voor het cspe van het eindexamen vmbo vindt de beoordeling ook plaats door een tweede examinator als bedoeld in [artikel 3.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.26&z=2023-03-29&g=2023-03-29). De tweede examinator kan een deskundige als bedoeld in [artikel 2.51, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.51) of een examinator van de school zijn.
 
-2. De tweede examinator beoordeelt het resultaat van de opgaven en de verrichtingen van de examenkandidaat zoals blijkend uit de schriftelijke vastlegging, bedoeld in [artikel 3.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.26&z=2023-01-01&g=2023-01-01).
+2. De tweede examinator beoordeelt het resultaat van de opgaven en de verrichtingen van de examenkandidaat zoals blijkend uit de schriftelijke vastlegging, bedoeld in [artikel 3.26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.26&z=2023-03-29&g=2023-03-29).
 
 3. De rector of directeur overhandigt aan de tweede examinator:
 
@@ -1676,7 +1676,7 @@ De rector of directeur deelt jaarlijks voor 1 november aan Onze Minister mee hoe
 
 - d. de regels voor het bepalen van de score, bedoeld in het eerste lid.
 
-4. [Artikel 3.21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing.
+4. [Artikel 3.21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.21&z=2023-03-29&g=2023-03-29), is van overeenkomstige toepassing.
 
 ##### Artikel 3.28. Afname centraal examen in tweede tijdvak door college wegens gering aantal examenkandidaten
 
@@ -1688,15 +1688,15 @@ Het college kan vakken aanwijzen waarin wegens het zeer geringe aantal examenkan
 
 2. Indien een examenkandidaat ook in het tweede tijdvak om een geldige reden, ter beoordeling van de rector of directeur, verhinderd is, of als hij het centraal examen in het tweede tijdvak niet kan voltooien, wordt hij in de gelegenheid gesteld in het derde tijdvak ten overstaan van het college zijn eindexamen te voltooien.
 
-3. Indien het bevoegd gezag op grond van [artikel 3.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2023-01-01&g=2023-01-01), zelf de afnametijdstippen van een centraal examen bepaalt, kan de rector of directeur een examenkandidaat de gelegenheid geven om binnen de afnameperiode die het college daarvoor heeft ingesteld, alsnog het centraal examen te voltooien, waarvoor hij eerder was verhinderd.
+3. Indien het bevoegd gezag op grond van [artikel 3.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.17&z=2023-03-29&g=2023-03-29), zelf de afnametijdstippen van een centraal examen bepaalt, kan de rector of directeur een examenkandidaat de gelegenheid geven om binnen de afnameperiode die het college daarvoor heeft ingesteld, alsnog het centraal examen te voltooien, waarvoor hij eerder was verhinderd.
 
 ##### Artikel 3.30. Procedure afnemen centraal examen door college in tweede en derde tijdvak
 
-1. Indien een examenkandidaat gebruik wil maken van de gelegenheid, bedoeld in [artikel 3.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.29&z=2023-01-01&g=2023-01-01), meldt hij dit zo spoedig mogelijk aan de rector of directeur.
+1. Indien een examenkandidaat gebruik wil maken van de gelegenheid, bedoeld in [artikel 3.29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.29&z=2023-03-29&g=2023-03-29), meldt hij dit zo spoedig mogelijk aan de rector of directeur.
 
 2. De rector of directeur deelt voorafgaande aan het tweede of het derde tijdvak aan het college mee welke examenkandidaten het centraal examen in deze tijdvakken ten overstaan van het college zullen afleggen en in welke vakken.
 
-3. Indien voor een examenkandidaat toepassing is gegeven aan de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.54&z=2023-01-01&g=2023-01-01) of [3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.55&z=2023-01-01&g=2023-01-01), deelt de rector of directeur dit mee aan het college, onder vermelding van de toepassing.
+3. Indien voor een examenkandidaat toepassing is gegeven aan de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.54&z=2023-03-29&g=2023-03-29) of [3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.55&z=2023-03-29&g=2023-03-29), deelt de rector of directeur dit mee aan het college, onder vermelding van de toepassing.
 
 4. De examenkandidaat levert de opgaven, de door hem gemaakte aantekeningen en andere door hem gemaakte stukken in bij een van degenen die toezicht houden. Het college bepaalt in welke gevallen wordt afgeweken van de eerste volzin en in welke gevallen en op welk tijdstip de opgaven, de aantekeningen en de andere stukken, bedoeld in die volzin, aan de examenkandidaat worden teruggegeven.
 
@@ -1722,9 +1722,9 @@ Het college kan vakken aanwijzen waarin wegens het zeer geringe aantal examenkan
 
 ##### Artikel 3.33. Vaststelling uitslag eindexamen
 
-1. De rector of directeur stelt voor de vaststelling van de uitslag van het eindexamen vast of de examenkandidaat het eindexamen heeft afgelegd in de voor het eindexamen voorgeschreven vakken, bedoeld in de [artikelen 3.1 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2023-01-01&g=2023-01-01).
+1. De rector of directeur stelt voor de vaststelling van de uitslag van het eindexamen vast of de examenkandidaat het eindexamen heeft afgelegd in de voor het eindexamen voorgeschreven vakken, bedoeld in de [artikelen 3.1 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2023-03-29&g=2023-03-29).
 
-2. De examenkandidaat toont in voorkomend geval ten genoegen van de rector of directeur aan dat hij recht heeft op een vrijstelling op grond van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-01-01&g=2023-01-01).
+2. De examenkandidaat toont in voorkomend geval ten genoegen van de rector of directeur aan dat hij recht heeft op een vrijstelling op grond van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-03-29&g=2023-03-29).
 
 3. Indien dat nodig is om de examenkandidaat te laten slagen betrekken de rector of directeur en de examensecretaris een of meer eindcijfers van de vakken niet bij de bepaling van de definitieve uitslag. De overgebleven vakken dienen een eindexamen te vormen.
 
@@ -1758,13 +1758,13 @@ Het college kan vakken aanwijzen waarin wegens het zeer geringe aantal examenkan
 
 - b. algemene natuurwetenschappen in vwo en havo;
 
-- c. bij bijzondere scholen: godsdienst of levensbeschouwelijk vormingsonderwijs, met dien verstande dat indien het bevoegd gezag hiertoe niet besluit, godsdienst of levensbeschouwelijk vormingsonderwijs geen onderdeel is van het eindexamen, tenzij Onze Minister daarvoor goedkeuring heeft verleend met toepassing van [artikel 3.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2023-01-01&g=2023-01-01), [artikel 3.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2023-01-01&g=2023-01-01), of [artikel 3.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2023-01-01&g=2023-01-01).
+- c. bij bijzondere scholen: godsdienst of levensbeschouwelijk vormingsonderwijs, met dien verstande dat indien het bevoegd gezag hiertoe niet besluit, godsdienst of levensbeschouwelijk vormingsonderwijs geen onderdeel is van het eindexamen, tenzij Onze Minister daarvoor goedkeuring heeft verleend met toepassing van [artikel 3.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2023-03-29&g=2023-03-29), [artikel 3.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2023-03-29&g=2023-03-29), of [artikel 3.3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2023-03-29&g=2023-03-29).
 
 3. Indien het bevoegd gezag toepassing geeft aan het tweede lid, tweede volzin, wordt in het examenreglement vermeld welk onderdeel of welke onderdelen zijn toegevoegd voor de bepaling van het eindcijfer, bedoeld in dat lid.
 
 4. De rector of directeur bepaalt het eindcijfer, bedoeld in het tweede lid, als het rekenkundig gemiddelde van de eindcijfers van de samenstellende onderdelen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt dat getal indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.
 
-5. Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de rector of directeur deze schriftelijk aan de examenkandidaat bekend, onder mededeling van het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-01-01&g=2023-01-01). Indien de examenkandidaat geen herexamen doet is deze uitslag de definitieve uitslag.
+5. Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de rector of directeur deze schriftelijk aan de examenkandidaat bekend, onder mededeling van het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-03-29&g=2023-03-29). Indien de examenkandidaat geen herexamen doet is deze uitslag de definitieve uitslag.
 
 ##### Artikel 3.35. Uitslag eindexamen vmbo
 
@@ -1788,7 +1788,7 @@ Het college kan vakken aanwijzen waarin wegens het zeer geringe aantal examenkan
 
 - f. als het gaat om een eindexamen vmbo gemengde of theoretische leerweg: hij voor het profielwerkstuk de kwalificatie «voldoende» of «goed» heeft behaald.
 
-2. Bij de uitslagbepaling volgens het eerste lid, onderdeel c, wordt bij het eindexamen vmbo theoretische leerweg het eindcijfer van een profielvak of beroepsgericht keuzevak behorende tot het eindexamen vmbo gemengde leerweg bij de uitslagbepaling betrokken als deze vakken samen ten minste een volledig beroepsgericht programma als bedoeld in [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-01-01&g=2023-01-01), vormen. In dat geval is het vierde lid van overeenkomstige toepassing.
+2. Bij de uitslagbepaling volgens het eerste lid, onderdeel c, wordt bij het eindexamen vmbo theoretische leerweg het eindcijfer van een profielvak of beroepsgericht keuzevak behorende tot het eindexamen vmbo gemengde leerweg bij de uitslagbepaling betrokken als deze vakken samen ten minste een volledig beroepsgericht programma als bedoeld in [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-03-29&g=2023-03-29), vormen. In dat geval is het vierde lid van overeenkomstige toepassing.
 
 3. Bij de uitslagbepaling volgens het eerste lid, onderdeel c, wordt bij het eindexamen vmbo basisberoepsgerichte leerweg en kaderberoepsgerichte leerweg het gemiddelde van de eindcijfers van alle beroepsgerichte keuzevakken aangemerkt als het eindcijfer van een vak.
 
@@ -1806,11 +1806,11 @@ Het college kan vakken aanwijzen waarin wegens het zeer geringe aantal examenkan
 
 Indien de vakken waarin examen is afgelegd, samen het eindexamen vmbo basisberoepsgerichte leerweg vormen, zijn het eerste en derde lid van overeenkomstige toepassing.
 
-7. Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de rector of directeur deze schriftelijk aan de examenkandidaat bekend, onder mededeling van het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-01-01&g=2023-01-01). Indien de examenkandidaat geen herexamen doet is deze uitslag de definitieve uitslag.
+7. Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de rector of directeur deze schriftelijk aan de examenkandidaat bekend, onder mededeling van het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-03-29&g=2023-03-29). Indien de examenkandidaat geen herexamen doet is deze uitslag de definitieve uitslag.
 
 ##### Artikel 3.36. Bekendmaking cijfer bij eindexamen in eerder leerjaar
 
-1. Indien een leerling overeenkomstig [artikel 2.56, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.56) in een of meer vakken eindexamen heeft afgelegd in het voorlaatste of direct daaraan voorafgaande leerjaar, maakt de rector of directeur het eindcijfer van dit eindexamen schriftelijk aan de examenkandidaat bekend zodra deze is vastgesteld, onder mededeling van het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-01-01&g=2023-01-01).
+1. Indien een leerling overeenkomstig [artikel 2.56, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.56) in een of meer vakken eindexamen heeft afgelegd in het voorlaatste of direct daaraan voorafgaande leerjaar, maakt de rector of directeur het eindcijfer van dit eindexamen schriftelijk aan de examenkandidaat bekend zodra deze is vastgesteld, onder mededeling van het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-03-29&g=2023-03-29).
 
 2. Indien een leerling als bedoeld in het eerste lid niet is bevorderd tot het volgende leerjaar, vervallen de met dit centraal examen of deze centrale examens behaalde resultaten.
 
@@ -1820,13 +1820,13 @@ Indien een examenkandidaat gebruik heeft gemaakt van de mogelijkheid tot het afl
 
 ##### Artikel 3.38. Herkansing centraal examen
 
-1. De examenkandidaat kan voor één vak van het eindexamen waarin hij centraal examen heeft afgelegd, in het tweede of, indien [artikel 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.29&z=2023-01-01&g=2023-01-01), van toepassing is, het derde tijdvak, opnieuw deelnemen aan het centraal examen of aan het cspe.
+1. De examenkandidaat kan voor één vak van het eindexamen waarin hij centraal examen heeft afgelegd, in het tweede of, indien [artikel 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.29&z=2023-03-29&g=2023-03-29), van toepassing is, het derde tijdvak, opnieuw deelnemen aan het centraal examen of aan het cspe.
 
 2. Bij het eindexamen vmbo basisberoepsgerichte leerweg en kaderberoepsgerichte leerweg kan de examenkandidaat ook opnieuw deelnemen aan het cspe dat door het bevoegd gezag aansluitend aan het eerste tijdvak of in het tweede tijdvak wordt afgenomen.
 
 3. De herkansing van het cspe bestaat uit het opnieuw afleggen van deze toets of van een of meer onderdelen daarvan.
 
-4. De examenkandidaat heeft het recht, bedoeld in het eerste en tweede lid, indien op grond van [artikel 3.34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01), of [artikel 3.35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01), de eindcijfers zijn bekendgemaakt.
+4. De examenkandidaat heeft het recht, bedoeld in het eerste en tweede lid, indien op grond van [artikel 3.34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29), of [artikel 3.35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29), de eindcijfers zijn bekendgemaakt.
 
 5. De examenkandidaat deelt de rector of directeur voor een door deze laatste te bepalen dag en tijdstip schriftelijk mee dat hij gebruik maakt van het recht van herkansing, bedoeld in het eerste of tweede lid.
 
@@ -1836,7 +1836,7 @@ Indien een examenkandidaat gebruik heeft gemaakt van de mogelijkheid tot het afl
 
 1. Het hoogste cijfer voor een vak, behaald bij het centraal examen of de herkansing, is het definitieve cijfer van het centraal examen in dat vak.
 
-2. Na afloop van de herkansing in het laatste leerjaar stelt de rector of directeur de uitslag definitief vast met overeenkomstige toepassing van [artikel 2.57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.57) en de [artikelen 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01) en [3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01) en maakt deze schriftelijk aan de examenkandidaat bekend.
+2. Na afloop van de herkansing in het laatste leerjaar stelt de rector of directeur de uitslag definitief vast met overeenkomstige toepassing van [artikel 2.57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.57) en de [artikelen 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29) en [3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29) en maakt deze schriftelijk aan de examenkandidaat bekend.
 
 3. Na afloop van een herkansing in het voorlaatste of direct daaraan voorafgaande leerjaar maakt de rector of directeur het definitief cijfer schriftelijk aan de examenkandidaat bekend.
 
@@ -1858,7 +1858,7 @@ Indien een examenkandidaat gebruik heeft gemaakt van de mogelijkheid tot het afl
 
 - f. de beoordeling van de maatschappelijke stage, indien deze onderdeel is van het eindexamen en is beoordeeld met «voldoende» of «goed»;
 
-- g. de eindcijfers voor de examenvakken, met inbegrip van het eindcijfer, bedoeld in [artikel 3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01), of [artikel 3.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01); en
+- g. de eindcijfers voor de examenvakken, met inbegrip van het eindcijfer, bedoeld in [artikel 3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29), of [artikel 3.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29); en
 
 - h. de uitslag van het eindexamen, bedoeld in [artikel 2.57, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.57).
 
@@ -1870,7 +1870,7 @@ Indien een examenkandidaat gebruik heeft gemaakt van de mogelijkheid tot het afl
 
 ##### Artikel 3.41. Cijferlijst voor vso-leerling bij eindexamen vmbo in een of meer vakken
 
-Op de cijferlijst van een examenkandidaat als bedoeld in [artikel 3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.52&z=2023-01-01&g=2023-01-01) die eindexamen vmbo aan een school heeft afgelegd in een of meer vakken worden vermeld:
+Op de cijferlijst van een examenkandidaat als bedoeld in [artikel 3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.52&z=2023-03-29&g=2023-03-29) die eindexamen vmbo aan een school heeft afgelegd in een of meer vakken worden vermeld:
 
 - a. de leerweg;
 
@@ -1878,7 +1878,7 @@ Op de cijferlijst van een examenkandidaat als bedoeld in [artikel 3.52](https://
 
 - c. het thema en de beoordeling van het profielwerkstuk; en
 
-- d. de eindcijfers voor de examenvakken, met inbegrip van het eindcijfer, bedoeld in [artikel 3.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01).
+- d. de eindcijfers voor de examenvakken, met inbegrip van het eindcijfer, bedoeld in [artikel 3.35, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 3.42. Vermelding van vakken met vrijstelling op cijferlijst vwo en havo
 
@@ -1898,7 +1898,7 @@ Bij het eindexamen vmbo geldt voor de vermelding op de cijferlijst van vakken wa
 
 - a. vakken waarvoor de examenkandidaat bij het eindexamen vmbo theoretische leerweg is vrijgesteld op grond van een eerder afgelegd eindexamen vmbo kaderberoepsgerichte leerweg of de basisberoepsgerichte leerweg waarvan deze vakken van de theoretische leerweg deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;
 
-- b. de extra vakken die op grond van [artikel 3.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2023-01-01&g=2023-01-01), bij het eindexamen vmbo theoretische leerweg zijn gekozen worden vermeld op de cijferlijst, met vermelding van het daarvoor behaalde cijfer;
+- b. de extra vakken die op grond van [artikel 3.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2023-03-29&g=2023-03-29), bij het eindexamen vmbo theoretische leerweg zijn gekozen worden vermeld op de cijferlijst, met vermelding van het daarvoor behaalde cijfer;
 
 - c. andere vakken waarvoor de examenkandidaat vrijstelling is verleend, worden vermeld op de cijferlijst, zonder vermelding van een cijfer.
 
@@ -1914,7 +1914,7 @@ De rector of directeur van een scholengemeenschap of school voor vwo die gymnasi
 
 ##### Artikel 3.45. Diploma vmbo theoretische leerweg bij inschrijving gemengde leerweg
 
-De rector of directeur van een scholengemeenschap die in elk geval een school voor mavo omvat, reikt op verzoek van de examenkandidaat die met goed gevolg het examen vmbo gemengde leerweg aan die school heeft afgelegd en bovendien examen heeft afgelegd in een extra algemeen vak en met het meetellen van dat vak voldoet aan [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01) voor zover het gaat om de uitslag van het eindexamen vmbo theoretische leerweg, het diploma vmbo theoretische leerweg uit.
+De rector of directeur van een scholengemeenschap die in elk geval een school voor mavo omvat, reikt op verzoek van de examenkandidaat die met goed gevolg het examen vmbo gemengde leerweg aan die school heeft afgelegd en bovendien examen heeft afgelegd in een extra algemeen vak en met het meetellen van dat vak voldoet aan [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29) voor zover het gaat om de uitslag van het eindexamen vmbo theoretische leerweg, het diploma vmbo theoretische leerweg uit.
 
 ##### Artikel 3.46. Vermelding profiel en leerweg op diploma
 
@@ -1930,21 +1930,21 @@ De rector of directeur van een scholengemeenschap die in elk geval een school vo
 
 - a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor:
 
-- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer, bedoeld in [artikel 3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01), en de vakken van het profieldeel; en
+- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer, bedoeld in [artikel 3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29), en de vakken van het profieldeel; en
 
 - 2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld, en
 
-- b. ten minste het eindcijfer 7 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01).
+- b. ten minste het eindcijfer 7 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29).
 
 2. Een examenkandidaat is geslaagd voor het eindexamen havo met toekenning van het judicium cum laude indien de eindexamenuitslag voldoet aan de volgende voorschriften:
 
 - a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor:
 
-- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer, bedoeld in [artikel 3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01), en de vakken van het profieldeel; en
+- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer, bedoeld in [artikel 3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29), en de vakken van het profieldeel; en
 
 - 2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld, en
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01).
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 3.48. Judicium cum laude vmbo
 
@@ -1956,7 +1956,7 @@ De rector of directeur van een scholengemeenschap die in elk geval een school vo
 
 - 2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld, en
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01).
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29).
 
 2. Een examenkandidaat is geslaagd voor het eindexamen vmbo basisberoepsgerichte leerweg of kaderberoepsgerichte leerweg met toekenning van het judicium cum laude indien de eindexamenuitslag voldoet aan de volgende voorschriften:
 
@@ -1964,9 +1964,9 @@ De rector of directeur van een scholengemeenschap die in elk geval een school vo
 
 - 1°. de eindcijfers voor het profielvak en de twee algemene vakken van het profieldeel; en
 
-- 2°. het eindcijfer, bedoeld in [artikel 3.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01), en
+- 2°. het eindcijfer, bedoeld in [artikel 3.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29), en
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01).
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29).
 
 3. Een examenkandidaat is geslaagd voor het eindexamen vmbo gemengde leerweg met toekenning van het judicium cum laude indien de eindexamenuitslag voldoet aan de volgende voorschriften:
 
@@ -1974,9 +1974,9 @@ De rector of directeur van een scholengemeenschap die in elk geval een school vo
 
 - 1°. de vakken Nederlandse taal, Engelse taal en maatschappijleer, en de algemene vakken van het profieldeel; en
 
-- 2°. het algemene vak uit het vrije deel of het eindcijfer, bedoeld in [artikel 3.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01); en
+- 2°. het algemene vak uit het vrije deel of het eindcijfer, bedoeld in [artikel 3.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29); en
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01).
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 3.49. Voorlopige cijferlijst
 
@@ -1984,9 +1984,9 @@ De rector of directeur van een scholengemeenschap die in elk geval een school vo
 
 - a. die:
 
-- 1°. in het voorlaatste of direct daaraan voorafgaande leerjaar een centraal examen of een afsluitend schoolexamen in een of meer vakken heeft afgelegd, voor zover de cijfers niet op grond van [artikel 3.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.36&z=2023-01-01&g=2023-01-01), zijn vervallen; of
+- 1°. in het voorlaatste of direct daaraan voorafgaande leerjaar een centraal examen of een afsluitend schoolexamen in een of meer vakken heeft afgelegd, voor zover de cijfers niet op grond van [artikel 3.36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.36&z=2023-03-29&g=2023-03-29), zijn vervallen; of
 
-- 2°. het gespreid centraal examen, bedoeld in [artikel 3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.56&z=2023-01-01&g=2023-01-01), aflegt; en
+- 2°. het gespreid centraal examen, bedoeld in [artikel 3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.56&z=2023-03-29&g=2023-03-29), aflegt; en
 
 - b. die vervolgens de school verlaat zonder het eindexamen te voltooien.
 
@@ -2000,7 +2000,7 @@ De rector of directeur van een scholengemeenschap die in elk geval een school vo
 
 - d. het eindcijfer voor het vak;
 
-- e. de aantekening of gebruik is gemaakt van het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-01-01&g=2023-01-01).
+- e. de aantekening of gebruik is gemaakt van het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-03-29&g=2023-03-29).
 
 3. Bij ministeriële regeling wordt het model voor de voorlopige cijferlijst vastgesteld.
 
@@ -2076,9 +2076,9 @@ Het bevoegd gezag van een school voor vbo kan een leerling in de basisberoepsger
 
 2. Het bevoegd gezag geeft de toestemming, bedoeld in het eerste lid, uiterlijk voor de aanvang van het eerste tijdvak van het centraal examen. In bijzondere gevallen kan het bevoegd gezag afwijken van de eerste volzin voor een examenkandidaat die nog niet in alle betrokken eindexamenvakken centraal examen heeft afgelegd.
 
-3. De examenkandidaat heeft het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-01-01&g=2023-01-01), in het eerste en in het tweede schooljaar van het gespreid centraal examen, met dien verstande dat het recht van herkansing in het eerste schooljaar ontstaat nadat de eindcijfers van de vakken waarvoor in het eerste schooljaar het centraal examen is afgesloten, voor de eerste maal zijn vastgesteld.
+3. De examenkandidaat heeft het recht van herkansing, bedoeld in [artikel 3.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.38&z=2023-03-29&g=2023-03-29), in het eerste en in het tweede schooljaar van het gespreid centraal examen, met dien verstande dat het recht van herkansing in het eerste schooljaar ontstaat nadat de eindcijfers van de vakken waarvoor in het eerste schooljaar het centraal examen is afgesloten, voor de eerste maal zijn vastgesteld.
 
-4. De rector of directeur en de examensecretaris stellen op verzoek van de examenkandidaat de uitslag van het eindexamen vast aan het einde van het eerste schooljaar van het gespreid centraal examen of het gespreid schoolexamen, met overeenkomstige toepassing van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01) of [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01).
+4. De rector of directeur en de examensecretaris stellen op verzoek van de examenkandidaat de uitslag van het eindexamen vast aan het einde van het eerste schooljaar van het gespreid centraal examen of het gespreid schoolexamen, met overeenkomstige toepassing van [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29) of [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 3.57. Herkansing schoolexamen bij overmacht
 
@@ -2106,7 +2106,7 @@ In het examenreglement, bedoeld in [artikel 2.60 van de wet](https://wetten.over
 
 ##### Artikel 3.59. Beslissing en gegevens commissie van beroep voor de eindexamens
 
-1. De commissie van beroep voor de eindexamens stelt bij haar beslissing op een bezwaarschrift tegen een maatregel als bedoeld in [artikel 3.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=7&artikel=3.58&z=2023-01-01&g=2023-01-01) zo nodig vast op welke wijze de examenkandidaat alsnog in de gelegenheid zal worden gesteld het eindexamen geheel of gedeeltelijk af te leggen, onverminderd [artikel 3.58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=7&artikel=3.58&z=2023-01-01&g=2023-01-01).
+1. De commissie van beroep voor de eindexamens stelt bij haar beslissing op een bezwaarschrift tegen een maatregel als bedoeld in [artikel 3.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=7&artikel=3.58&z=2023-03-29&g=2023-03-29) zo nodig vast op welke wijze de examenkandidaat alsnog in de gelegenheid zal worden gesteld het eindexamen geheel of gedeeltelijk af te leggen, onverminderd [artikel 3.58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=7&artikel=3.58&z=2023-03-29&g=2023-03-29).
 
 2. De commissie zendt haar beslissing aan de examenkandidaat en zijn wettelijke vertegenwoordigers, en in afschrift aan de rector of directeur en aan de inspectie.
 
@@ -2116,13 +2116,13 @@ In het examenreglement, bedoeld in [artikel 2.60 van de wet](https://wetten.over
 
 ##### Artikel 3.60. Algemene bepaling
 
-1. De bij of krachtens dit hoofdstuk gestelde bepalingen, met uitzondering van de [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.10&z=2023-01-01&g=2023-01-01) en [3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.53&z=2023-01-01&g=2023-01-01), zijn ook van toepassing op het eindexamen bij een opleiding vavo aan een instelling voor educatie en beroepsonderwijs, tenzij in deze paragraaf hiervan wordt afgeweken, met dien verstande dat:
+1. De bij of krachtens dit hoofdstuk gestelde bepalingen, met uitzondering van de [artikelen 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.10&z=2023-03-29&g=2023-03-29) en [3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.53&z=2023-03-29&g=2023-03-29), zijn ook van toepassing op het eindexamen bij een opleiding vavo aan een instelling voor educatie en beroepsonderwijs, tenzij in deze paragraaf hiervan wordt afgeweken, met dien verstande dat:
 
 - a. voor «bevoegd gezag» telkens wordt gelezen «bevoegd gezag, bedoeld in [artikel 1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) of [artikel 1.1.1 WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1)»;
 
 - b. voor «leerling» telkens wordt gelezen «vavo-student»;
 
-- c. voor «school» telkens wordt gelezen «instelling voor educatie en beroepsonderwijs», met dien verstande dat in de [artikelen 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2023-01-01&g=2023-01-01) en [3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.62&z=2023-01-01&g=2023-01-01) onder «school» wordt verstaan «school voor voortgezet onderwijs»;
+- c. voor «school» telkens wordt gelezen «instelling voor educatie en beroepsonderwijs», met dien verstande dat in de [artikelen 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2023-03-29&g=2023-03-29) en [3.62](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.62&z=2023-03-29&g=2023-03-29) onder «school» wordt verstaan «school voor voortgezet onderwijs»;
 
 - d. voor «rector of directeur» of voor «rector of directeur en examensecretaris» telkens wordt gelezen «de examencommissie vavo».
 
@@ -2162,15 +2162,15 @@ Het bevoegd gezag stelt de vavo-student in de gelegenheid af te leggen:
 
 2. De examenkandidaat kan het volledige eindexamen afsluiten door voor de ontbrekende vakken in aanvulling op de cijferlijst voor die vakken aan de examencommissie vavo een of meer van de volgende bewijsstukken over te leggen:
 
-- a. een door een school uitgereikte cijferlijst als bedoeld in [2.58, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58) of [artikel 3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.39&z=2023-01-01&g=2023-01-01), uitgereikt in een eerder schooljaar;
+- a. een door een school uitgereikte cijferlijst als bedoeld in [2.58, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58) of [artikel 3.39](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.39&z=2023-03-29&g=2023-03-29), uitgereikt in een eerder schooljaar;
 
-- b. een door een andere instelling voor educatie en beroepsonderwijs uitgereikte cijferlijst als bedoeld in [artikel 2.58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58) of [artikel 3.72](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.72&z=2023-01-01&g=2023-01-01);
+- b. een door een andere instelling voor educatie en beroepsonderwijs uitgereikte cijferlijst als bedoeld in [artikel 2.58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58) of [artikel 3.72](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.72&z=2023-03-29&g=2023-03-29);
 
 - c. een resultatenlijst als bedoeld in [artikel 7.4.6, derde lid, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.6) of [7.4.8, tweede lid, WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.4.8);
 
-- d. een cijferlijst van een staatsexamen of deelstaatsexamen als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.25&z=2023-01-01&g=2023-01-01) of [artikel 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.26&z=2023-01-01&g=2023-01-01); of
+- d. een cijferlijst van een staatsexamen of deelstaatsexamen als bedoeld in [artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.25&z=2023-03-29&g=2023-03-29) of [artikel 4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.26&z=2023-03-29&g=2023-03-29); of
 
-- e. een bewijs van ontheffing als bedoeld in [artikel 3.67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.67&z=2023-01-01&g=2023-01-01), of [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2023-01-01&g=2023-01-01).
+- e. een bewijs van ontheffing als bedoeld in [artikel 3.67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.67&z=2023-03-29&g=2023-03-29), of [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2023-03-29&g=2023-03-29).
 
 3. Een cijferlijst wordt bij de vaststelling van de uitslag van het eindexamen betrokken, indien na het jaar waarin deze is vastgesteld, nog geen tien jaar zijn verstreken. Een bewijs van ontheffing wordt bij de vaststelling van de uitslag betrokken indien na het jaar waarin het onderliggende diploma, getuigschrift of ander bewijsstuk is vastgesteld, nog geen tien jaar zijn verstreken.
 
@@ -2192,15 +2192,15 @@ Het bevoegd gezag stelt de vavo-student in de gelegenheid af te leggen:
 
 2. Het eerste lid is van toepassing indien na het jaar waarin het eindcijfer of de beoordeling is vastgesteld, nog geen tien jaar zijn verstreken. Het eerste lid, onderdeel f, is van overeenkomstige toepassing op een eerder gemaakt sectorwerkstuk dat is beoordeeld als «voldoende» of «goed».
 
-3. De examenkandidaat, bedoeld in het eerste lid, aanhef en onderdelen a tot en met d, is ook vrijgesteld van het eindexamen in dat vak indien het eindcijfer 5 of 4 is behaald, mits de examenkandidaat voldoet aan de voorwaarden, bedoeld in de [artikelen 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01) of [3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01), om te slagen voor het eindexamen.
+3. De examenkandidaat, bedoeld in het eerste lid, aanhef en onderdelen a tot en met d, is ook vrijgesteld van het eindexamen in dat vak indien het eindcijfer 5 of 4 is behaald, mits de examenkandidaat voldoet aan de voorwaarden, bedoeld in de [artikelen 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29) of [3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29), om te slagen voor het eindexamen.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de toepassing van het eerste lid.
 
 ##### Artikel 3.65. Overige vrijstellingen vavo-eindexamen
 
-1. Onverminderd de toepasselijkheid van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-01-01&g=2023-01-01) op het eindexamen bij een instelling voor educatie en beroepsonderwijs, is de examenkandidaat aan een instelling voor educatie en beroepsonderwijs die eerder op grond van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-01-01&g=2023-01-01), [3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-01-01&g=2023-01-01) of het tweede en derde lid, bij het eindexamen is vrijgesteld in een vak, bij het eindexamen vrijgesteld van dat vak.
+1. Onverminderd de toepasselijkheid van [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-03-29&g=2023-03-29) op het eindexamen bij een instelling voor educatie en beroepsonderwijs, is de examenkandidaat aan een instelling voor educatie en beroepsonderwijs die eerder op grond van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-03-29&g=2023-03-29), [3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-03-29&g=2023-03-29) of het tweede en derde lid, bij het eindexamen is vrijgesteld in een vak, bij het eindexamen vrijgesteld van dat vak.
 
-2. De examenkandidaat aan een instelling voor educatie en beroepsonderwijs, aan wie eerder op grond van [artikel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.66&z=2023-01-01&g=2023-01-01) of [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2023-01-01&g=2023-01-01) een bewijs van ontheffing is verleend voor het eindexamen of staatsexamen in een vak, is bij het eindexamen vrijgesteld van dat vak.
+2. De examenkandidaat aan een instelling voor educatie en beroepsonderwijs, aan wie eerder op grond van [artikel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.66&z=2023-03-29&g=2023-03-29) of [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2023-03-29&g=2023-03-29) een bewijs van ontheffing is verleend voor het eindexamen of staatsexamen in een vak, is bij het eindexamen vrijgesteld van dat vak.
 
 3. Op grond van de bevoegdheid, bedoeld in [artikel 9.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3), is de examenkandidaat aan een instelling voor educatie en beroepsonderwijs, die op grond van [artikel 12 van de Beleidsregel verstrekking licentie Topsporttalentschool VO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=12) of [artikel 13 van de Beleidsregel verstrekking DAMU-licentie VO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=13), ontheffing heeft verkregen voor een vak als genoemd in die artikelen, bij het eindexamen vrijgesteld van dat vak.
 
@@ -2218,7 +2218,7 @@ Het bevoegd gezag stelt de vavo-student in de gelegenheid af te leggen:
 
 ##### Artikel 3.67. Ontheffingsprocedure vavo-eindexamen wegens eerder gevolgd onderwijs
 
-1. De aanvrager voegt bij een aanvraag voor een ontheffing als bedoeld in [artikel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.66&z=2023-01-01&g=2023-01-01):
+1. De aanvrager voegt bij een aanvraag voor een ontheffing als bedoeld in [artikel 3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.66&z=2023-03-29&g=2023-03-29):
 
 - a. een gewaarmerkt afschrift van gegevens uit de basisregistratie personen; en
 
@@ -2232,13 +2232,13 @@ Het bevoegd gezag stelt de vavo-student in de gelegenheid af te leggen:
 
 - b. het tijdstip van het verrichten van de onderwijs- of examenprestatie waarop de ontheffing berust.
 
-4. Indien van toepassing gaat het bewijs van ontheffing vergezeld van een verklaring over het onderzoek, bedoeld in [artikel 3.66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.66&z=2023-01-01&g=2023-01-01), naar de kennis en vaardigheden van de examenkandidaat, of naar de bewijsstukken, bedoeld in dat lid.
+4. Indien van toepassing gaat het bewijs van ontheffing vergezeld van een verklaring over het onderzoek, bedoeld in [artikel 3.66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.66&z=2023-03-29&g=2023-03-29), naar de kennis en vaardigheden van de examenkandidaat, of naar de bewijsstukken, bedoeld in dat lid.
 
 5. Bij ministeriële regeling wordt het model voor het bewijs van ontheffing vastgesteld.
 
 ##### Artikel 3.68. Ontheffing vavo-eindexamen atheneum voor tweede moderne vreemde taal
 
-1. Het bevoegd gezag kan de examenkandidaat die het eindexamen atheneum aflegt aan een instelling voor educatie en beroepsonderwijs bij het eindexamen ontheffing verlenen voor een tweede moderne vreemde taal, genoemd in [artikel 2.5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01), indien de leerling:
+1. Het bevoegd gezag kan de examenkandidaat die het eindexamen atheneum aflegt aan een instelling voor educatie en beroepsonderwijs bij het eindexamen ontheffing verlenen voor een tweede moderne vreemde taal, genoemd in [artikel 2.5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29), indien de leerling:
 
 - a. een stoornis heeft die specifiek betrekking heeft op taal of een zintuiglijke stoornis heeft die effect heeft op taal;
 
@@ -2246,7 +2246,7 @@ Het bevoegd gezag stelt de vavo-student in de gelegenheid af te leggen:
 
 - c. onderwijs volgt in het profiel natuur en techniek of het profiel natuur en gezondheid en het onderwijs in de taal verhindert naar verwachting dat de opleiding met goed gevolg wordt afgerond.
 
-2. In geval van een ontheffing als bedoeld in het eerste lid wordt het eindexamen in de taal vervangen door het eindexamen in een van de vakken, genoemd in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-01-01&g=2023-01-01) of in [artikel 2.7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-01-01&g=2023-01-01), met een normatieve studielast van ten minste 440 uren, naar keuze van de examenkandidaat, voor zover het bevoegd gezag deze als zodanig aanbiedt.
+2. In geval van een ontheffing als bedoeld in het eerste lid wordt het eindexamen in de taal vervangen door het eindexamen in een van de vakken, genoemd in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-03-29&g=2023-03-29) of in [artikel 2.7, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-03-29&g=2023-03-29), met een normatieve studielast van ten minste 440 uren, naar keuze van de examenkandidaat, voor zover het bevoegd gezag deze als zodanig aanbiedt.
 
 ##### Artikel 3.69. Ontheffing vavo-eindexamen vmbo theoretische leerweg voor Franse taal of Duitse taal
 
@@ -2258,17 +2258,17 @@ Het bevoegd gezag stelt de vavo-student in de gelegenheid af te leggen:
 
 - c. onderwijs volgt in het profiel natuur en techniek of het profiel natuur en gezondheid en het onderwijs in de taal verhindert naar verwachting dat de opleiding met goed gevolg wordt afgerond.
 
-2. In geval van een ontheffing op grond van het eerste lid, wordt het eindexamen in de taal vervangen door het eindexamen in een van de vakken, genoemd in [artikel 2.33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.33&z=2023-01-01&g=2023-01-01).
+2. In geval van een ontheffing op grond van het eerste lid, wordt het eindexamen in de taal vervangen door het eindexamen in een van de vakken, genoemd in [artikel 2.33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.33&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 3.70. Vaststelling uitslag volledig vavo-eindexamen met bewijsstukken
 
-1. Onverminderd [artikel 3.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.33&z=2023-01-01&g=2023-01-01), betrekt de eindexamencommissie vavo bij de vaststelling van de uitslag van een volledig eindexamen bewijsstukken als bedoeld in [artikel 3.63, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.63&z=2023-01-01&g=2023-01-01).
+1. Onverminderd [artikel 3.33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.33&z=2023-03-29&g=2023-03-29), betrekt de eindexamencommissie vavo bij de vaststelling van de uitslag van een volledig eindexamen bewijsstukken als bedoeld in [artikel 3.63, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.63&z=2023-03-29&g=2023-03-29).
 
-2. Onverminderd [artikel 3.33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.33&z=2023-01-01&g=2023-01-01), toont de examenkandidaat aan een instelling voor educatie en beroepsonderwijs in voorkomend geval ten genoegen van de eindexamencommissie vavo aan dat hij recht heeft op een vrijstelling of ontheffing als bedoeld in deze paragraaf.
+2. Onverminderd [artikel 3.33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.33&z=2023-03-29&g=2023-03-29), toont de examenkandidaat aan een instelling voor educatie en beroepsonderwijs in voorkomend geval ten genoegen van de eindexamencommissie vavo aan dat hij recht heeft op een vrijstelling of ontheffing als bedoeld in deze paragraaf.
 
 ##### Artikel 3.71. Vermelding van vakken met vrijstelling op cijferlijst vwo, havo en vmbo
 
-Onverminderd de [artikelen 3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.42&z=2023-01-01&g=2023-01-01) en [3.43](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.43&z=2023-01-01&g=2023-01-01), wordt op de cijferlijst van de examenkandidaat aan een instelling voor educatie en beroepsonderwijs vermeld de vakken waarvoor de examenkandidaat is vrijgesteld op grond van [artikel 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-01-01&g=2023-01-01) of [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2023-01-01&g=2023-01-01), met vermelding van het eerder behaalde cijfer.
+Onverminderd de [artikelen 3.42](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.42&z=2023-03-29&g=2023-03-29) en [3.43](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.43&z=2023-03-29&g=2023-03-29), wordt op de cijferlijst van de examenkandidaat aan een instelling voor educatie en beroepsonderwijs vermeld de vakken waarvoor de examenkandidaat is vrijgesteld op grond van [artikel 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-03-29&g=2023-03-29) of [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2023-03-29&g=2023-03-29), met vermelding van het eerder behaalde cijfer.
 
 ##### Artikel 3.72. Cijferlijst vavo-eindexamen in een of meer vakken
 
@@ -2280,7 +2280,7 @@ De examencommissie vavo reikt aan de examenkandidaat die eindexamen heeft afgele
 
 - c. voor het vmbo het thema en de beoordeling van het profielwerkstuk; en
 
-- d. de eindcijfers voor de examenvakken met inbegrip van het eindcijfer, bedoeld in [artikel 3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01).
+- d. de eindcijfers voor de examenvakken met inbegrip van het eindcijfer, bedoeld in [artikel 3.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 3.73. Certificaat vavo bij eindexamen in een of meer vakken of bij geen uitreiking diploma
 
@@ -2314,7 +2314,7 @@ Onze Minister kan toestaan dat wordt afgeweken van dit hoofdstuk voor experiment
 
 3. Onze Minister maakt de aanmeldingsprocedure tijdig bekend, voert die uit en bevestigt schriftelijk de aanmelding aan de examenkandidaat.
 
-4. Uit de aanmelding voor het staatsexamen blijkt ook of sprake is van een of meer vrijstellingen of ontheffingen als bedoeld in de [artikelen 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2023-01-01&g=2023-01-01), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2023-01-01&g=2023-01-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2023-01-01&g=2023-01-01) of [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2023-01-01&g=2023-01-01).
+4. Uit de aanmelding voor het staatsexamen blijkt ook of sprake is van een of meer vrijstellingen of ontheffingen als bedoeld in de [artikelen 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2023-03-29&g=2023-03-29), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.6&z=2023-03-29&g=2023-03-29), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2023-03-29&g=2023-03-29) of [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2023-03-29&g=2023-03-29).
 
 5. Indien de examenkandidaat minderjarig is, ondertekenen ook de wettelijke vertegenwoordigers de aanmelding.
 
@@ -2330,7 +2330,7 @@ Onze Minister kan toestaan dat wordt afgeweken van dit hoofdstuk voor experiment
 
 - b. eerder voor het eindexamen vmbo in een in de aanhef genoemde leerweg is afgewezen; en
 
-- c. een cijferlijst overlegt waaruit blijkt dat voor elk van de vakken van het beroepsgerichte programma, bedoeld in de [artikelen 3.5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.5&z=2023-01-01&g=2023-01-01), [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.6&z=2023-01-01&g=2023-01-01), of [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-01-01&g=2023-01-01), waarin eindexamen is afgelegd, het eindcijfer 6 of hoger is behaald.
+- c. een cijferlijst overlegt waaruit blijkt dat voor elk van de vakken van het beroepsgerichte programma, bedoeld in de [artikelen 3.5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.5&z=2023-03-29&g=2023-03-29), [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.6&z=2023-03-29&g=2023-03-29), of [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-03-29&g=2023-03-29), waarin eindexamen is afgelegd, het eindcijfer 6 of hoger is behaald.
 
 2. Tot het deelstaatsexamen vmbo voor een of meer algemene vakken in de basisberoepsgerichte leerweg, kaderberoepsgerichte leerweg of gemengde leerweg wordt ook toegelaten de examenkandidaat die is ingeschreven aan een school voor voortgezet speciaal onderwijs of school voor speciaal en voortgezet speciaal onderwijs.
 
@@ -2396,17 +2396,17 @@ Onze Minister kan toestaan dat wordt afgeweken van dit hoofdstuk voor experiment
 
 3. Het eerste en tweede lid zijn van toepassing indien na het jaar waarin het eindcijfer of de beoordeling is vastgesteld, nog geen tien jaar zijn verstreken.
 
-4. De examenkandidaat, bedoeld in het eerste lid, onderdelen a tot en met f, en derde lid, is ook vrijgesteld van het vak indien het eindcijfer 5 of 4 is behaald, mits hij voldoet aan de voorwaarden van de [artikelen 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-01-01&g=2023-01-01) of [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01) om te slagen voor het staatsexamen.
+4. De examenkandidaat, bedoeld in het eerste lid, onderdelen a tot en met f, en derde lid, is ook vrijgesteld van het vak indien het eindcijfer 5 of 4 is behaald, mits hij voldoet aan de voorwaarden van de [artikelen 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29) of [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29) om te slagen voor het staatsexamen.
 
 5. Bij ministeriële regeling worden nadere regels gesteld over de toepassing van het eerste lid.
 
-6. [Artikel 3.40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.40&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing.
+6. [Artikel 3.40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.40&z=2023-03-29&g=2023-03-29), is van overeenkomstige toepassing.
 
 ##### Artikel 4.6. Vrijstellingen staatsexamen wegens eerdere vrijstellingen of ontheffingen
 
-1. De examenkandidaat die eerder op grond van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-01-01&g=2023-01-01), [3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-01-01&g=2023-01-01) of [3.65](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.65&z=2023-01-01&g=2023-01-01) bij het eindexamen aan een school of een instelling voor educatie en beroepsonderwijs is vrijgesteld van een vak, is bij het staatsexamen vrijgesteld van dat vak.
+1. De examenkandidaat die eerder op grond van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-03-29&g=2023-03-29), [3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-03-29&g=2023-03-29) of [3.65](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.65&z=2023-03-29&g=2023-03-29) bij het eindexamen aan een school of een instelling voor educatie en beroepsonderwijs is vrijgesteld van een vak, is bij het staatsexamen vrijgesteld van dat vak.
 
-2. De examenkandidaat aan wie eerder op grond van [artikel 3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.67&z=2023-01-01&g=2023-01-01) bij het eindexamen aan een instelling voor educatie en beroepsonderwijs of op grond van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2023-01-01&g=2023-01-01) ontheffing is verleend voor het eindexamen in een vak, is bij het staatsexamen vrijgesteld in dat vak.
+2. De examenkandidaat aan wie eerder op grond van [artikel 3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.67&z=2023-03-29&g=2023-03-29) bij het eindexamen aan een instelling voor educatie en beroepsonderwijs of op grond van [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.7&z=2023-03-29&g=2023-03-29) ontheffing is verleend voor het eindexamen in een vak, is bij het staatsexamen vrijgesteld in dat vak.
 
 3. Een bewijs van ontheffing wordt bij de vaststelling van de uitslag van het staatsexamen betrokken, indien na het jaar waarin het onderliggende diploma, getuigschrift of ander bewijsstuk is vastgesteld, nog geen tien jaar zijn verstreken.
 
@@ -2414,9 +2414,9 @@ Onze Minister kan toestaan dat wordt afgeweken van dit hoofdstuk voor experiment
 
 1. De examenkandidaat met het diploma havo is bij het staatsexamen vwo vrijgesteld van het vak maatschappijleer van het gemeenschappelijk deel.
 
-2. De examenkandidaat met het diploma havo of het diploma vmbo die in plaats van een vak voor die schoolsoort of als extra vak examen heeft afgelegd in een overeenkomstige vak voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01), is bij het staatsexamen vwo vrijgesteld van dat vak.
+2. De examenkandidaat met het diploma havo of het diploma vmbo die in plaats van een vak voor die schoolsoort of als extra vak examen heeft afgelegd in een overeenkomstige vak voor vwo, genoemd in de [artikelen 2.5 tot en met 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29), is bij het staatsexamen vwo vrijgesteld van dat vak.
 
-3. De examenkandidaat met het diploma vmbo die in plaats van een vak voor die schoolsoort of als extra vak examen heeft afgelegd in een overeenkomstige vak voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-01-01&g=2023-01-01), is bij het staatsexamen havo vrijgesteld van dat vak.
+3. De examenkandidaat met het diploma vmbo die in plaats van een vak voor die schoolsoort of als extra vak examen heeft afgelegd in een overeenkomstige vak voor havo, genoemd in de [artikelen 2.10 tot en met 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-03-29&g=2023-03-29), is bij het staatsexamen havo vrijgesteld van dat vak.
 
 4. De examenkandidaat die op grond van [artikel 12 van de Beleidsregel verstrekking LOOT-licentie VO](https://wetten.overheid.nl/jci1.3:c:BWBR0026643&artikel=12) of [artikel 13 van de Beleidsregel verstrekking DAMU-licentie VO](https://wetten.overheid.nl/jci1.3:c:BWBR0044030&artikel=13) ontheffing heeft verkregen voor een vak, genoemd in die artikelen, is bij het staatsexamen vrijgesteld van dat vak.
 
@@ -2432,7 +2432,7 @@ Onze Minister kan toestaan dat wordt afgeweken van dit hoofdstuk voor experiment
 
 ##### Artikel 4.9. Ontheffingsprocedure staatsexamen wegens eerder gevolgd onderwijs
 
-1. De aanvrager voegt bij de aanvraag voor een ontheffing als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2023-01-01&g=2023-01-01):
+1. De aanvrager voegt bij de aanvraag voor een ontheffing als bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2023-03-29&g=2023-03-29):
 
 - a. een gewaarmerkt afschrift van gegevens uit de basisregistratie personen; en
 
@@ -2446,7 +2446,7 @@ Onze Minister kan toestaan dat wordt afgeweken van dit hoofdstuk voor experiment
 
 - b. het tijdstip van het verrichten van de onderwijs- of examenprestatie waarop de ontheffing berust.
 
-4. Indien van toepassing gaat het bewijs van ontheffing vergezeld van een verklaring over het onderzoek, bedoeld in [artikel 4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2023-01-01&g=2023-01-01), naar de kennis en vaardigheden van de examenkandidaat, of naar de bewijsstukken, bedoeld in dat lid.
+4. Indien van toepassing gaat het bewijs van ontheffing vergezeld van een verklaring over het onderzoek, bedoeld in [artikel 4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.8&z=2023-03-29&g=2023-03-29), naar de kennis en vaardigheden van de examenkandidaat, of naar de bewijsstukken, bedoeld in dat lid.
 
 5. Bij ministeriële regeling wordt het model voor het bewijs van ontheffing vastgesteld.
 
@@ -2558,15 +2558,15 @@ Indien bij het college, al dan niet naar aanleiding van mededelingen van de exam
 
 - a. eindcijfers van deelstaatsexamens die in dat jaar zijn afgelegd;
 
-- b. cijferlijsten als bedoeld in [artikel 2.80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.80) en de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.25&z=2023-01-01&g=2023-01-01) en [4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.26&z=2023-01-01&g=2023-01-01);
+- b. cijferlijsten als bedoeld in [artikel 2.80, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.80) en de [artikelen 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.25&z=2023-03-29&g=2023-03-29) en [4.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.26&z=2023-03-29&g=2023-03-29);
 
 - c. cijferlijsten van een school;
 
 - d. resultatenlijsten of cijferlijsten van instellingen voor educatie en beroepsonderwijs;
 
-- e. bewijzen van ontheffing als bedoeld in [artikel 4.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2023-01-01&g=2023-01-01);
+- e. bewijzen van ontheffing als bedoeld in [artikel 4.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.9&z=2023-03-29&g=2023-03-29);
 
-- f. bewijzen van ontheffing als bedoeld in [artikel 3.67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.67&z=2023-01-01&g=2023-01-01).
+- f. bewijzen van ontheffing als bedoeld in [artikel 3.67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.67&z=2023-03-29&g=2023-03-29).
 
 5. Een cijferlijst wordt bij de vaststelling van de uitslag betrokken, indien na het jaar waarin deze is vastgesteld, nog geen tien jaar zijn verstreken. Een bewijs van ontheffing wordt bij de vaststelling van de uitslag betrokken indien na het jaar waarin het onderliggende diploma, getuigschrift of ander bewijsstuk is vastgesteld, nog geen tien jaar zijn verstreken.
 
@@ -2602,7 +2602,7 @@ Indien bij het college, al dan niet naar aanleiding van mededelingen van de exam
 
 4. De examenkandidaat wiens staatsexamen niet voldoet aan dit artikel is afgewezen voor het staatsexamen.
 
-5. Zodra de uitslag van het staatsexamen is vastgesteld, maakt het college deze samen met de eindcijfers schriftelijk aan de examenkandidaat bekend. Indien de examenkandidaat is afgewezen voor het staatsexamen, wordt bij de bekendmaking mededeling gedaan van het recht op herkansing als bedoeld in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.22&z=2023-01-01&g=2023-01-01). De uitslag is de definitieve uitslag indien de examenkandidaat geen gebruik maakt van het recht op herkansing.
+5. Zodra de uitslag van het staatsexamen is vastgesteld, maakt het college deze samen met de eindcijfers schriftelijk aan de examenkandidaat bekend. Indien de examenkandidaat is afgewezen voor het staatsexamen, wordt bij de bekendmaking mededeling gedaan van het recht op herkansing als bedoeld in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.22&z=2023-03-29&g=2023-03-29). De uitslag is de definitieve uitslag indien de examenkandidaat geen gebruik maakt van het recht op herkansing.
 
 ##### Artikel 4.21. Uitslag staatsexamen vmbo
 
@@ -2624,7 +2624,7 @@ Indien bij het college, al dan niet naar aanleiding van mededelingen van de exam
 
 - e. als het gaat om een staatsexamen gemengde of theoretische leerweg: hij voor het profielwerkstuk de kwalificatie «voldoende» of «goed» heeft behaald.
 
-2. Bij de uitslagbepaling volgens het eerste lid, onderdeel c, wordt in de theoretische leerweg het eindcijfer van een profielvak of beroepsgericht keuzevak behorende tot het eindexamen van de gemengde leerweg niet betrokken, tenzij deze vakken samen ten minste een volledig beroepsgericht programma als bedoeld in [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-01-01&g=2023-01-01), vormen. In dat geval is het vierde lid van overeenkomstige toepassing.
+2. Bij de uitslagbepaling volgens het eerste lid, onderdeel c, wordt in de theoretische leerweg het eindcijfer van een profielvak of beroepsgericht keuzevak behorende tot het eindexamen van de gemengde leerweg niet betrokken, tenzij deze vakken samen ten minste een volledig beroepsgericht programma als bedoeld in [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-03-29&g=2023-03-29), vormen. In dat geval is het vierde lid van overeenkomstige toepassing.
 
 3. Bij de uitslagbepaling volgens het eerste lid, onderdeel c, wordt in de basisberoepsgerichte leerweg en de kaderberoepsgerichte leerweg het gemiddelde van de eindcijfers van alle beroepsgerichte keuzevakken aangemerkt als het eindcijfer van één vak.
 
@@ -2634,23 +2634,23 @@ Indien bij het college, al dan niet naar aanleiding van mededelingen van de exam
 
 6. De examenkandidaat wiens staatsexamen niet voldoet aan dit artikel, is afgewezen voor het staatsexamen.
 
-7. Zodra de uitslag van het staatsexamen is vastgesteld, maakt het college deze samen met de eindcijfers schriftelijk aan de examenkandidaat bekend. Indien de examenkandidaat is afgewezen voor het staatsexamen, wordt bij de bekendmaking mededeling gedaan van het recht op herkansing als bedoeld in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.22&z=2023-01-01&g=2023-01-01). De uitslag is de definitieve uitslag indien de examenkandidaat geen gebruik maakt van het recht op herkansing.
+7. Zodra de uitslag van het staatsexamen is vastgesteld, maakt het college deze samen met de eindcijfers schriftelijk aan de examenkandidaat bekend. Indien de examenkandidaat is afgewezen voor het staatsexamen, wordt bij de bekendmaking mededeling gedaan van het recht op herkansing als bedoeld in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.22&z=2023-03-29&g=2023-03-29). De uitslag is de definitieve uitslag indien de examenkandidaat geen gebruik maakt van het recht op herkansing.
 
 ##### Artikel 4.22. Herkansing staatsexamen
 
 1. De examenkandidaat die in enig jaar is afgewezen voor het staatsexamen, heeft recht op herkansing in het derde tijdvak van dat jaar, mits de examenkandidaat daardoor alsnog kan slagen voor het staatsexamen.
 
-2. Indien de examenkandidaat op grond van [artikel 4.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=4&artikel=4.17&z=2023-01-01&g=2023-01-01), in de gelegenheid wordt gesteld in het derde tijdvak het centraal examen te voltooien, wordt het recht op herkansing uitgeoefend op een door het college te bepalen tijdstip.
+2. Indien de examenkandidaat op grond van [artikel 4.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=4&artikel=4.17&z=2023-03-29&g=2023-03-29), in de gelegenheid wordt gesteld in het derde tijdvak het centraal examen te voltooien, wordt het recht op herkansing uitgeoefend op een door het college te bepalen tijdstip.
 
-3. Het recht op herkansing houdt in:
+3. Het recht op herkansing houdt in om voor twee door de examenkandidaat te kiezen vakken waarin hij dat jaar door het college is geëxamineerd, opnieuw deel te nemen aan:
 
-- a. het recht om voor een door de examenkandidaat te kiezen vak waarin hij in dat jaar door het college is geëxamineerd, opnieuw deel te nemen aan het college-examen, in door het college vast te stellen onderdelen van het examenprogramma; en
+- a. het college-examen of onderdelen daarvan, in door het college vast te stellen onderdelen van het examenprogramma; en
 
-- b. het recht om voor een door de examenkandidaat te kiezen vak waarin hij in dat jaar door het college is geëxamineerd, opnieuw deel te nemen aan het centraal examen.
+- b. het centraal examen.
 
 ##### Artikel 4.23. Termijn aanmelding herkansing staatsexamen
 
-1. De examenkandidaat die van zijn recht op herkansing als bedoeld in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.22&z=2023-01-01&g=2023-01-01) gebruik wil maken, stelt het college binnen acht dagen na de bekendmaking, bedoeld in [artikel 4.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-01-01&g=2023-01-01), of [artikel 4.21, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01), schriftelijk hiervan in kennis, onder vermelding van het vak waarin hij opnieuw wil deelnemen aan het college-examen en het vak waarin hij opnieuw wil deelnemen aan het centraal examen.
+1. De examenkandidaat die van zijn recht op herkansing als bedoeld in [artikel 4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.22&z=2023-03-29&g=2023-03-29) gebruik wil maken, stelt het college binnen acht dagen na de bekendmaking, bedoeld in [artikel 4.20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29), of [artikel 4.21, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29), schriftelijk hiervan in kennis, onder vermelding van de vakken waarin hij opnieuw wil deelnemen aan het college-examen en de vakken waarin hij opnieuw wil deelnemen aan het centraal examen.
 
 2. Indien de examenkandidaat het college niet overeenkomstig het eerste lid in kennis stelt, is hij alsnog afgewezen voor het staatsexamen.
 
@@ -2662,7 +2662,7 @@ Indien bij het college, al dan niet naar aanleiding van mededelingen van de exam
 
 2. Het hoogste cijfer van de cijfers behaald bij de herkansing en bij het eerder afgelegde college-examen of centraal examen geldt als definitief cijfer voor het college-examen of het centraal examen.
 
-3. Na afloop van de herkansing stelt het college de uitslag definitief vast met overeenkomstige toepassing van de [artikelen 4.18 tot en met 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.18&z=2023-01-01&g=2023-01-01) en maakt de uitslag schriftelijk aan de examenkandidaat bekend.
+3. Na afloop van de herkansing stelt het college de uitslag definitief vast met overeenkomstige toepassing van de [artikelen 4.18 tot en met 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.18&z=2023-03-29&g=2023-03-29) en maakt de uitslag schriftelijk aan de examenkandidaat bekend.
 
 #### Paragraaf 6. Cijferlijsten, diploma’s en certificaten
 
@@ -2716,11 +2716,11 @@ Indien bij het college, al dan niet naar aanleiding van mededelingen van de exam
 
 Bij het staatsexamen vwo en het staatsexamen havo worden op de cijferlijst vermeld:
 
-- a. vakken waarvoor de examenkandidaat is vrijgesteld op grond van de [artikelen 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-01-01&g=2023-01-01) of [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2023-01-01&g=2023-01-01), met vermelding van het eerder behaalde cijfer;
+- a. vakken waarvoor de examenkandidaat is vrijgesteld op grond van de [artikelen 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-03-29&g=2023-03-29) of [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2023-03-29&g=2023-03-29), met vermelding van het eerder behaalde cijfer;
 
 - b. vakken waarvoor de examenkandidaat bij het staatsexamen vwo is vrijgesteld op grond van een eerder afgelegd examen havo of vmbo waarvan deze vwo-vakken deel uitmaakten, met vermelding van het eerder behaalde cijfer;
 
-- c. vakken waarvoor de examenkandidaat bij het staatsexamen havo is vrijgesteld op grond van een eerder afgelegd examen vmbo waarvan deze vakken of de overeenkomstige vakken, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2023-01-01&g=2023-01-01), deel uitmaakten, met vermelding van het eerder behaalde cijfer;
+- c. vakken waarvoor de examenkandidaat bij het staatsexamen havo is vrijgesteld op grond van een eerder afgelegd examen vmbo waarvan deze vakken of de overeenkomstige vakken, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2023-03-29&g=2023-03-29), deel uitmaakten, met vermelding van het eerder behaalde cijfer;
 
 - d. andere vakken waarvoor de examenkandidaat vrijstelling of ontheffing is verleend, zonder vermelding van een cijfer.
 
@@ -2728,9 +2728,9 @@ Bij het staatsexamen vwo en het staatsexamen havo worden op de cijferlijst verme
 
 Bij het staatsexamen vmbo worden op de cijferlijst vermeld:
 
-- a. vakken waarvoor de examenkandidaat is vrijgesteld op grond van de [artikelen 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-01-01&g=2023-01-01) of [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2023-01-01&g=2023-01-01), met vermelding van het eerder behaalde cijfer;
+- a. vakken waarvoor de examenkandidaat is vrijgesteld op grond van de [artikelen 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-03-29&g=2023-03-29) of [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=2&artikel=4.5&z=2023-03-29&g=2023-03-29), met vermelding van het eerder behaalde cijfer;
 
-- b. vakken waarvoor de examenkandidaat bij het staatsexamen vmbo theoretische leerweg of staatsexamen vmbo gemengde leerweg is vrijgesteld op grond van een eerder afgelegd eindexamen of staatsexamen vmbo kaderberoepsgerichte leerweg of eindexamen of staatsexamen basisberoepsgerichte leerweg waarvan deze vakken of de overeenkomstige vakken, bedoeld in de [artikelen 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.18&z=2023-01-01&g=2023-01-01) of [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.27&z=2023-01-01&g=2023-01-01), deel uitmaakten, met vermelding van het eerder behaalde cijfer;
+- b. vakken waarvoor de examenkandidaat bij het staatsexamen vmbo theoretische leerweg of staatsexamen vmbo gemengde leerweg is vrijgesteld op grond van een eerder afgelegd eindexamen of staatsexamen vmbo kaderberoepsgerichte leerweg of eindexamen of staatsexamen basisberoepsgerichte leerweg waarvan deze vakken of de overeenkomstige vakken, bedoeld in de [artikelen 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.18&z=2023-03-29&g=2023-03-29) of [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.27&z=2023-03-29&g=2023-03-29), deel uitmaakten, met vermelding van het eerder behaalde cijfer;
 
 - c. andere vakken waarvoor de examenkandidaat vrijstelling of ontheffing is verleend, zonder vermelding van een cijfer.
 
@@ -2746,11 +2746,11 @@ Bij het staatsexamen vmbo worden op de cijferlijst vermeld:
 
 - a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor:
 
-- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer, bedoeld in [artikel 4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-01-01&g=2023-01-01), en de vakken van het profieldeel; en
+- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer, bedoeld in [artikel 4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29), en de vakken van het profieldeel; en
 
 - 2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld;
 
-- b. ten minste het eindcijfer 7 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-01-01&g=2023-01-01); en
+- b. ten minste het eindcijfer 7 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29); en
 
 - c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.
 
@@ -2758,11 +2758,11 @@ Bij het staatsexamen vmbo worden op de cijferlijst vermeld:
 
 - a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor:
 
-- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer bedoeld in [artikel 4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-01-01&g=2023-01-01), en de vakken van het profieldeel; en
+- 1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer bedoeld in [artikel 4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29), en de vakken van het profieldeel; en
 
 - 2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld;
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-01-01&g=2023-01-01); en
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29); en
 
 - c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.
 
@@ -2776,7 +2776,7 @@ Bij het staatsexamen vmbo worden op de cijferlijst vermeld:
 
 - 2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld,
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01), en
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29), en
 
 - c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.
 
@@ -2786,9 +2786,9 @@ Bij het staatsexamen vmbo worden op de cijferlijst vermeld:
 
 - 1°. de eindcijfers voor het profielvak en de twee algemene vakken van het profieldeel, en
 
-- 2°. het eindcijfer, bedoeld in [artikel 4.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01),
+- 2°. het eindcijfer, bedoeld in [artikel 4.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29),
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01), en
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29), en
 
 - c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.
 
@@ -2798,9 +2798,9 @@ Bij het staatsexamen vmbo worden op de cijferlijst vermeld:
 
 - 1°. de vakken Nederlandse taal, Engelse taal en maatschappijleer, en de algemene vakken van het profieldeel;
 
-- 2°. het algemene vak uit het vrije deel of het eindcijfer, bedoeld in [artikel 4.21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01); en
+- 2°. het algemene vak uit het vrije deel of het eindcijfer, bedoeld in [artikel 4.21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29); en
 
-- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01).
+- b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor het profielwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 4.32. Certificaat indien geen diploma wordt uitgereikt
 
@@ -2878,7 +2878,7 @@ Bij het staatsexamen vmbo worden op de cijferlijst vermeld:
 
 ##### Artikel 4.37. Beslissing op bezwaar bij onregelmatigheden
 
-1. Het college stelt bij zijn beslissing op een bezwaarschrift tegen een maatregel als bedoeld in [artikel 4.36](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=8&artikel=4.36&z=2023-01-01&g=2023-01-01) zo nodig vast op welke wijze de examenkandidaat alsnog in de gelegenheid zal worden gesteld het staatsexamen geheel of gedeeltelijk af te leggen of opnieuw af te leggen.
+1. Het college stelt bij zijn beslissing op een bezwaarschrift tegen een maatregel als bedoeld in [artikel 4.36](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=8&artikel=4.36&z=2023-03-29&g=2023-03-29) zo nodig vast op welke wijze de examenkandidaat alsnog in de gelegenheid zal worden gesteld het staatsexamen geheel of gedeeltelijk af te leggen of opnieuw af te leggen.
 
 2. Het college zendt zijn beslissing op het bezwaar in afschrift aan de wettelijke vertegenwoordigers indien de examenkandidaat minderjarig is en aan de inspectie.
 
@@ -2940,7 +2940,7 @@ Bij het staatsexamen vmbo worden op de cijferlijst vermeld:
 
 1. Het schriftelijke werk van de examenkandidaat wordt gedurende ten minste zes maanden na afloop van het examen bewaard op een door het college te bepalen wijze. Een examenkandidaat die voor een vak centraal examen aflegt met geheime opgaven kan over zijn werk gedurende genoemde periode van zes maanden inlichtingen inwinnen bij het college. De andere examenkandidaten kunnen gedurende die periode hun schriftelijk werk inzien.
 
-2. Een door het college ondertekend exemplaar van de lijst, bedoeld in [artikel 4.38, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=9&artikel=4.38&z=2023-01-01&g=2023-01-01), en de door de examenkandidaat overgelegde documenten, worden gedurende ten minste zes maanden na de vaststelling van de uitslag in het archief van het college bewaard.
+2. Een door het college ondertekend exemplaar van de lijst, bedoeld in [artikel 4.38, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=9&artikel=4.38&z=2023-03-29&g=2023-03-29), en de door de examenkandidaat overgelegde documenten, worden gedurende ten minste zes maanden na de vaststelling van de uitslag in het archief van het college bewaard.
 
 3. Het college draagt er zorg voor dat een volledig stel van de bij de centrale examens gebruikte opgaven gedurende ten minste zes maanden na de vaststelling van de uitslag bewaard blijft in het archief van het college.
 
@@ -2980,7 +2980,7 @@ Bij het staatsexamen vmbo worden op de cijferlijst vermeld:
 
 2. Onze Minister stelt voor elke school of scholengemeenschap die daarvoor in aanmerking komt het bedrag van de aanvullende bekostiging, bedoeld in de [artikelen 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) en [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.10) vast.
 
-3. De bekostiging bedoeld in het eerste lid komt tot stand door het aantal vestigingen, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-01-01&g=2023-01-01), en het aantal leerlingen, bedoeld in artikel 8, te vermenigvuldigen met de bedragen per vestiging en per leerling, bedoeld in [artikel 5.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), waarbij de uitkomst van deze vermenigvuldigingen bij elkaar wordt opgeteld.
+3. De bekostiging bedoeld in het eerste lid komt tot stand door het aantal vestigingen, bedoeld in [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-03-29&g=2023-03-29), en het aantal leerlingen, bedoeld in artikel 8, te vermenigvuldigen met de bedragen per vestiging en per leerling, bedoeld in [artikel 5.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4), waarbij de uitkomst van deze vermenigvuldigingen bij elkaar wordt opgeteld.
 
 ##### Artikel 6.3. Aanvang bekostiging; startbekostiging
 
@@ -3026,17 +3026,17 @@ D: de kosten van de uitkeringen in het desbetreffende kalenderjaar voor gewezen 
 
 ##### Artikel 6.5. Bekostiging scholen voortgezet onderwijs in verticale scholengemeenschappen
 
-In afwijking van [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-01-01&g=2023-01-01), wordt er voor een school of scholengemeenschap die deel uitmaakt van een verticale scholengemeenschap in het bedrag per vestiging geen onderscheid gemaakt tussen de hoofdvestiging en een nevenvestiging. De hoofdvestiging van de school of scholengemeenschap die voldoet aan [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-01-01&g=2023-01-01), komt in aanmerking voor het op grond van [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-01-01&g=2023-01-01), vastgestelde bedrag voor een nevenvestiging.
+In afwijking van [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-03-29&g=2023-03-29), wordt er voor een school of scholengemeenschap die deel uitmaakt van een verticale scholengemeenschap in het bedrag per vestiging geen onderscheid gemaakt tussen de hoofdvestiging en een nevenvestiging. De hoofdvestiging van de school of scholengemeenschap die voldoet aan [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-03-29&g=2023-03-29), komt in aanmerking voor het op grond van [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-03-29&g=2023-03-29), vastgestelde bedrag voor een nevenvestiging.
 
 ##### Artikel 6.6. Toepassing op cursussen
 
-Onze Minister bepaalt de wijze waarop de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4) en [5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5) en de [artikelen 6.1 tot en met 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-01-01&g=2023-01-01) van toepassing zijn op een cursus als bedoeld in [artikel 4.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.28), verbonden aan een school of scholengemeenschap, in verband met de aard, inhoud, omvang of duur van de cursus.
+Onze Minister bepaalt de wijze waarop de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4) en [5.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5) en de [artikelen 6.1 tot en met 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-03-29&g=2023-03-29) van toepassing zijn op een cursus als bedoeld in [artikel 4.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.28), verbonden aan een school of scholengemeenschap, in verband met de aard, inhoud, omvang of duur van de cursus.
 
 #### Paragraaf 2. Leerlingentelling
 
 ##### Artikel 6.7. Leerlingentelling
 
-1. Voor de toepassing van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) worden, onverminderd de [artikelen 2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&artikel=2.45&z=2023-01-01&g=2023-01-01), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-01-01&g=2023-01-01), [6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.9&z=2023-01-01&g=2023-01-01), [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.10&z=2023-01-01&g=2023-01-01) en [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&paragraaf=2&artikel=8.13&z=2023-01-01&g=2023-01-01), de leerlingen meegeteld die op de teldatum:
+1. Voor de toepassing van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) worden, onverminderd de [artikelen 2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&artikel=2.45&z=2023-03-29&g=2023-03-29), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-03-29&g=2023-03-29), [6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.9&z=2023-03-29&g=2023-03-29), [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.10&z=2023-03-29&g=2023-03-29) en [8.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&paragraaf=2&artikel=8.13&z=2023-03-29&g=2023-03-29), de leerlingen meegeteld die op de teldatum:
 
 - a. op die school als werkelijk schoolgaand staan ingeschreven, of
 
@@ -3064,7 +3064,7 @@ Onze Minister bepaalt de wijze waarop de [artikelen 5.4](https://wetten.overheid
 
 ##### Artikel 6.9. Telling leerlingen in leerwegondersteunend onderwijs en praktijkonderwijs
 
-1. Onverminderd het bepaalde in de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2023-01-01&g=2023-01-01), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-01-01&g=2023-01-01) en [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.10&z=2023-01-01&g=2023-01-01), wordt een leerling meegeteld voor de aanvullende bekostiging voor leerwegondersteunend onderwijs, bedoeld in [artikel 5.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5), indien:
+1. Onverminderd het bepaalde in de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2023-03-29&g=2023-03-29), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-03-29&g=2023-03-29) en [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.10&z=2023-03-29&g=2023-03-29), wordt een leerling meegeteld voor de aanvullende bekostiging voor leerwegondersteunend onderwijs, bedoeld in [artikel 5.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5), indien:
 
 - a. het samenwerkingsverband voor de teldatum heeft bepaald dat:
 
@@ -3074,7 +3074,7 @@ Onze Minister bepaalt de wijze waarop de [artikelen 5.4](https://wetten.overheid
 
 - b. sprake is van een tijdelijke plaatsing als bedoeld in [artikel 8.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.13).
 
-2. Onverminderd het bepaalde in de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2023-01-01&g=2023-01-01), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-01-01&g=2023-01-01) en [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.10&z=2023-01-01&g=2023-01-01) wordt een leerling in het praktijkonderwijs meegeteld voor de aanvullende bekostiging, bedoeld in [artikel 5.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5), indien:
+2. Onverminderd het bepaalde in de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2023-03-29&g=2023-03-29), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-03-29&g=2023-03-29) en [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.10&z=2023-03-29&g=2023-03-29) wordt een leerling in het praktijkonderwijs meegeteld voor de aanvullende bekostiging, bedoeld in [artikel 5.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5), indien:
 
 - a. het samenwerkingsverband voor de teldatum heeft bepaald dat de leerling toelaatbaar is tot het praktijkonderwijs; of
 
@@ -3082,21 +3082,21 @@ Onze Minister bepaalt de wijze waarop de [artikelen 5.4](https://wetten.overheid
 
 ##### Artikel 6.10. Telling leerlingen binnen samenwerkingsovereenkomst VO-BVE
 
-1. Leerlingen als bedoeld in de [artikelen 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.57&z=2023-01-01&g=2023-01-01) en [2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.59&z=2023-01-01&g=2023-01-01) worden aangemerkt als leerlingen die op de teldatum als werkelijk schoolgaand op de school zijn ingeschreven, als bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2023-01-01&g=2023-01-01). [Artikel 6.8, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-01-01&g=2023-01-01), is op deze leerlingen van overeenkomstige toepassing.
+1. Leerlingen als bedoeld in de [artikelen 2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.57&z=2023-03-29&g=2023-03-29) en [2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.59&z=2023-03-29&g=2023-03-29) worden aangemerkt als leerlingen die op de teldatum als werkelijk schoolgaand op de school zijn ingeschreven, als bedoeld in [artikel 6.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2023-03-29&g=2023-03-29). [Artikel 6.8, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-03-29&g=2023-03-29), is op deze leerlingen van overeenkomstige toepassing.
 
-2. In afwijking van het eerste lid, tellen leerlingen die zijn afgewezen voor een eindexamen als bedoeld in [artikel 2.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.51) en aansluitend op grond van [artikel 2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.58&z=2023-01-01&g=2023-01-01) voor een of meer vakken vavo volgen in plaats van voortgezet onderwijs, op de teldatum voor 50% mee.
+2. In afwijking van het eerste lid, tellen leerlingen die zijn afgewezen voor een eindexamen als bedoeld in [artikel 2.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.51) en aansluitend op grond van [artikel 2.58](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.58&z=2023-03-29&g=2023-03-29) voor een of meer vakken vavo volgen in plaats van voortgezet onderwijs, op de teldatum voor 50% mee.
 
-3. In afwijking van het eerste lid en van [artikel 6.8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-01-01&g=2023-01-01), tellen leerlingen die op grond van [artikel 2.58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.58&z=2023-01-01&g=2023-01-01), voor een of meer vakken vavo volgen in plaats van voortgezet onderwijs, op de teldatum voor 50% mee.
+3. In afwijking van het eerste lid en van [artikel 6.8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-03-29&g=2023-03-29), tellen leerlingen die op grond van [artikel 2.58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.58&z=2023-03-29&g=2023-03-29), voor een of meer vakken vavo volgen in plaats van voortgezet onderwijs, op de teldatum voor 50% mee.
 
 #### Paragraaf 3. Betaling van de bekostiging
 
 ##### Artikel 6.11. Betaalritme en in mindering brengen bedragen
 
-1. Het Rijk betaalt elke maand van het kalenderjaar aan het bevoegd gezag van een school een gedeelte van de bekostiging, bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-01-01&g=2023-01-01), waarop het over dat jaar recht heeft.
+1. Het Rijk betaalt elke maand van het kalenderjaar aan het bevoegd gezag van een school een gedeelte van de bekostiging, bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-03-29&g=2023-03-29), waarop het over dat jaar recht heeft.
 
-2. Onze Minister kan op de in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-01-01&g=2023-01-01), bedoelde bekostiging de verwachte bedragen als bedoeld in [artikel 5.34, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.34) in mindering brengen.
+2. Onze Minister kan op de in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-03-29&g=2023-03-29), bedoelde bekostiging de verwachte bedragen als bedoeld in [artikel 5.34, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.34) in mindering brengen.
 
-3. De aanvullende bekostiging, bedoeld in [artikel 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-01-01&g=2023-01-01), wordt in een keer betaald dan wel wordt betaald volgens een bij ministeriële regeling te bepalen betaalritme.
+3. De aanvullende bekostiging, bedoeld in [artikel 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-03-29&g=2023-03-29), wordt in een keer betaald dan wel wordt betaald volgens een bij ministeriële regeling te bepalen betaalritme.
 
 ##### Artikel 6.12. Terugmelding gegevens aantal leerlingen op de teldatum; accountantscontrole
 
@@ -3122,13 +3122,13 @@ Onze Minister bepaalt de wijze waarop de [artikelen 5.4](https://wetten.overheid
 
 1. Onze Minister maakt het bedrag voor de bekostiging, bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.6) en [5.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9), bekend voorafgaand aan het kalenderjaar waarop dit betrekking heeft.
 
-2. Indien de verklaring, bedoeld in [artikel 6.12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=3&artikel=6.12&z=2023-01-01&g=2023-01-01), van de accountant daartoe aanleiding geeft, wijzigt Onze Minister de bekostiging of aanvullende bekostiging.
+2. Indien de verklaring, bedoeld in [artikel 6.12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=3&artikel=6.12&z=2023-03-29&g=2023-03-29), van de accountant daartoe aanleiding geeft, wijzigt Onze Minister de bekostiging of aanvullende bekostiging.
 
 3. Onze Minister kan de bekostiging wijzigen wegens algemene salarismaatregelen of wegens andere al dan niet uit de rijksbegroting voortvloeiende maatregelen.
 
 ##### Artikel 6.14. Voorlopige inhouding; definitieve vaststelling verminderingen
 
-1. Onze Minister gaat gedurende het kalenderjaar waarop de verminderingen op de bekostiging, bedoeld in [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2023-01-01&g=2023-01-01), betrekking hebben, per maand over tot een voorlopige inhouding op de bekostiging.
+1. Onze Minister gaat gedurende het kalenderjaar waarop de verminderingen op de bekostiging, bedoeld in [artikel 6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2023-03-29&g=2023-03-29), betrekking hebben, per maand over tot een voorlopige inhouding op de bekostiging.
 
 2. De definitieve vaststelling van de verminderingen, bedoeld in het eerste lid, vindt zo snel mogelijk na afloop van het desbetreffende kalenderjaar plaats.
 
@@ -3136,7 +3136,7 @@ Onze Minister bepaalt de wijze waarop de [artikelen 5.4](https://wetten.overheid
 
 ##### Artikel 6.15. Afwijking wegens bijzondere inrichting onderwijs
 
-Onze Minister kan op aanvraag van het bevoegd gezag van een school of scholengemeenschap met een bijzondere inrichting van het onderwijs besluiten dat wordt afgeweken van de [artikelen 6.1 tot en met 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-01-01&g=2023-01-01).
+Onze Minister kan op aanvraag van het bevoegd gezag van een school of scholengemeenschap met een bijzondere inrichting van het onderwijs besluiten dat wordt afgeweken van de [artikelen 6.1 tot en met 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-03-29&g=2023-03-29).
 
 #### Paragraaf 4. Boekhouding, financieel beheer en financiële controle
 
@@ -3206,13 +3206,13 @@ Onze Minister kan op aanvraag van het bevoegd gezag van een school of scholengem
 
 ##### Artikel 6.22. Betaling correcties
 
-Onze Minister betaalt een correctie als bedoeld in [artikel 6.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=4&artikel=6.21&z=2023-01-01&g=2023-01-01), die strekt tot verhoging van de bekostiging, binnen acht weken na de bekendmaking van de mededeling, bedoeld in [artikel 6.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=4&artikel=6.21&z=2023-01-01&g=2023-01-01).
+Onze Minister betaalt een correctie als bedoeld in [artikel 6.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=4&artikel=6.21&z=2023-03-29&g=2023-03-29), die strekt tot verhoging van de bekostiging, binnen acht weken na de bekendmaking van de mededeling, bedoeld in [artikel 6.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=4&artikel=6.21&z=2023-03-29&g=2023-03-29).
 
 #### Paragraaf 5. Informatie voor bekostiging
 
 ##### Artikel 6.23. Beschrijving van gegevens voor berekening bekostiging en de juistheid daarvan
 
-1. De gegevens, bedoeld in de [artikel 5.48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.48), waarover een bevoegd gezag of een samenwerkingsverband beschikt, worden gedefinieerd en geordend volgens de regels vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&bijlage=3&z=2023-01-01&g=2023-01-01).
+1. De gegevens, bedoeld in de [artikel 5.48, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.48), waarover een bevoegd gezag of een samenwerkingsverband beschikt, worden gedefinieerd en geordend volgens de regels vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&bijlage=3&z=2023-03-29&g=2023-03-29).
 
 2. Bij ministeriële regeling worden nadere regels gesteld over de gegevens, bedoeld in het eerste lid, en over de wijze waarop de gegevens beschikbaar worden gesteld.
 
@@ -3234,7 +3234,7 @@ Onze Minister kan bij het verzoek om beschikbaarstelling van gegevens als bedoel
 
 1. In geval van oprichting, verplaatsing of splitsing van een school kan Onze Minister afwijken van de teldatum en de op die afwijkende datum getelde leerlingen toerekenen aan de nieuwe scholen. Hij kan daarbij nadere voorschriften geven.
 
-2. Onze Minister kan in verband met de aanvang of beëindiging van de bekostiging van een school, van een scholengemeenschap of van een profiel aan een school voor vbo afwijken van de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2023-01-01&g=2023-01-01) en [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-01-01&g=2023-01-01).
+2. Onze Minister kan in verband met de aanvang of beëindiging van de bekostiging van een school, van een scholengemeenschap of van een profiel aan een school voor vbo afwijken van de [artikelen 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.7&z=2023-03-29&g=2023-03-29) en [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-03-29&g=2023-03-29).
 
 ##### Artikel 6.27. Dóórlopen bekostiging in geval van samenvoeging of afsplitsing per 1 augustus
 
@@ -3278,11 +3278,11 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 ##### Artikel 6.32. Van overeenkomstige toepassing
 
-[Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=4&z=2023-01-01&g=2023-01-01) is van overeenkomstige toepassing op een samenwerkingsverband.
+[Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=4&z=2023-03-29&g=2023-03-29) is van overeenkomstige toepassing op een samenwerkingsverband.
 
 ### Hoofdstuk 7. Lerarenregister en registervoorportaal
 
-### Hoofdstuk 8. Deelname
+### Hoofdstuk 7. Lerarenregister en registervoorportaal
 
 #### Paragraaf 1. Toelating en voorwaardelijke bevordering
 
@@ -3352,19 +3352,19 @@ Bij toelating plaatst het bevoegd gezag de leerling, die van een gelijksoortige 
 
 1. Een leerling die in het bezit is van een diploma vmbo in de theoretische leerweg kan de toelating tot het vierde leerjaar van een school voor havo worden geweigerd, indien het eindexamen dat heeft geleid tot zijn diploma geen van de volgende vakken als extra vak omvat:
 
-- a. de vakken, genoemd in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-01-01&g=2023-01-01);
+- a. de vakken, genoemd in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.16&z=2023-03-29&g=2023-03-29);
 
-- b. de vakken, genoemd in [artikel 2.17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-01-01&g=2023-01-01);
+- b. de vakken, genoemd in [artikel 2.17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-03-29&g=2023-03-29);
 
-- c. de vakken, genoemd in [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-01-01&g=2023-01-01) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-01-01&g=2023-01-01), met uitzondering van de vakken genoemd in [artikel 2.7, onderdeel c, subonderdelen 1° en 2°, en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-01-01&g=2023-01-01); of
+- c. de vakken, genoemd in [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-03-29&g=2023-03-29) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-03-29&g=2023-03-29), met uitzondering van de vakken genoemd in [artikel 2.7, onderdeel c, subonderdelen 1° en 2°, en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-03-29&g=2023-03-29); of
 
-- d. de vakken, genoemd in [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2023-01-01&g=2023-01-01) en [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2023-01-01&g=2023-01-01), met uitzondering van de vakken, genoemd in [artikel 2.12, onderdeel c, subonderdelen 1° en 2°, en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2023-01-01&g=2023-01-01).
+- d. de vakken, genoemd in [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2023-03-29&g=2023-03-29) en [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2023-03-29&g=2023-03-29), met uitzondering van de vakken, genoemd in [artikel 2.12, onderdeel c, subonderdelen 1° en 2°, en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2023-03-29&g=2023-03-29).
 
 2. Een leerling die in het bezit is van een diploma vmbo in de gemengde leerweg kan de toelating tot het vierde leerjaar van een school voor havo worden geweigerd, indien het eindexamen dat heeft geleid tot zijn diploma geen van de volgende vakken als extra vak omvat:
 
-- a. de vakken, genoemd in [artikel 2.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-01-01&g=2023-01-01);
+- a. de vakken, genoemd in [artikel 2.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.25&z=2023-03-29&g=2023-03-29);
 
-- b. de vakken, genoemd in [artikel 2.26, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-01-01&g=2023-01-01); of
+- b. de vakken, genoemd in [artikel 2.26, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-03-29&g=2023-03-29); of
 
 - c. de vakken, bedoeld in het eerste lid, onderdelen c en d.
 
@@ -3434,7 +3434,7 @@ Bij toelating plaatst het bevoegd gezag de leerling, die van een gelijksoortige 
 
 #### Paragraaf 1. Algemeen
 
-##### Artikel 9.1. Reikwijdte [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&z=2023-01-01&g=2023-01-01)
+##### Artikel 9.1. Reikwijdte [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&z=2023-03-29&g=2023-03-29)
 
 Dit hoofdstuk is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -3442,123 +3442,123 @@ Dit hoofdstuk is van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 ##### Artikel 9.2. Afwijkingen in het talenonderwijs
 
-1. In de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2023-01-01&g=2023-01-01), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-01-01&g=2023-01-01) en [2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.33&z=2023-01-01&g=2023-01-01) wordt voor «Duitse taal» telkens gelezen «Spaanse taal» en wordt voor «Spaanse taal» telkens gelezen «Papiaments, Duitse taal».
+1. In de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2023-03-29&g=2023-03-29), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-03-29&g=2023-03-29) en [2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.5&artikel=2.33&z=2023-03-29&g=2023-03-29) wordt voor «Duitse taal» telkens gelezen «Spaanse taal» en wordt voor «Spaanse taal» telkens gelezen «Papiaments, Duitse taal».
 
-2. In de [artikelen 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-01-01&g=2023-01-01), [2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-01-01&g=2023-01-01), en [2.11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2023-01-01&g=2023-01-01), wordt voor «Franse taal en literatuur» telkens gelezen «Papiaments, Franse taal en literatuur».
+2. In de [artikelen 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2023-03-29&g=2023-03-29), [2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2023-03-29&g=2023-03-29), en [2.11, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.11&z=2023-03-29&g=2023-03-29), wordt voor «Franse taal en literatuur» telkens gelezen «Papiaments, Franse taal en literatuur».
 
-3. In aanvulling op de [artikelen 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-01-01&g=2023-01-01) en [2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-01-01&g=2023-01-01) kan het vrije deel van de theoretische leerweg en van de gemengde leerweg ook het vak Papiaments omvatten.
+3. In aanvulling op de [artikelen 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.1&artikel=2.17&z=2023-03-29&g=2023-03-29) en [2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.3&artikel=2.26&z=2023-03-29&g=2023-03-29) kan het vrije deel van de theoretische leerweg en van de gemengde leerweg ook het vak Papiaments omvatten.
 
-4. In aanvulling op [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-01-01&g=2023-01-01) kan het bevoegd gezag de leerling in een beroepsgerichte leerweg in de gelegenheid stellen om Papiaments als extra vak te volgen.
+4. In aanvulling op [artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=4&sub-paragraaf=4.2&artikel=2.23&z=2023-03-29&g=2023-03-29) kan het bevoegd gezag de leerling in een beroepsgerichte leerweg in de gelegenheid stellen om Papiaments als extra vak te volgen.
 
-5. In aanvulling op de [artikelen 2.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-01-01&g=2023-01-01), en [2.12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2023-01-01&g=2023-01-01), kunnen ook Papiaments (elementair) en Duitse taal en literatuur (elementair) deel uitmaken van het vrije deel van een profiel in vwo en havo, voor zover deze taal niet al eerder is gevolgd of niet al deel uitmaakt van het profiel en het bevoegd gezag deze vakken aanbiedt, met een normatieve studielast van 480 uur.
+5. In aanvulling op de [artikelen 2.7, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-03-29&g=2023-03-29), en [2.12, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=3&artikel=2.12&z=2023-03-29&g=2023-03-29), kunnen ook Papiaments (elementair) en Duitse taal en literatuur (elementair) deel uitmaken van het vrije deel van een profiel in vwo en havo, voor zover deze taal niet al eerder is gevolgd of niet al deel uitmaakt van het profiel en het bevoegd gezag deze vakken aanbiedt, met een normatieve studielast van 480 uur.
 
 ##### Artikel 9.3. Maatschappelijke stage
 
-[Artikel 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=7&artikel=2.41&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Artikel 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=7&artikel=2.41&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
-##### Artikel 9.4. Toepassing [hoofdstuk 2, paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&z=2023-01-01&g=2023-01-01)
+##### Artikel 9.4. Toepassing [hoofdstuk 2, paragraaf 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&z=2023-03-29&g=2023-03-29)
 
-1. In [artikel 2.42, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&artikel=2.42&z=2023-01-01&g=2023-01-01), wordt voor «Bevrijdingsdag» gelezen «Koninkrijksdag».
+1. In [artikel 2.42, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&artikel=2.42&z=2023-03-29&g=2023-03-29), wordt voor «Bevrijdingsdag» gelezen «Koninkrijksdag».
 
-2. [Artikel 2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&artikel=2.45&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+2. [Artikel 2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=8&artikel=2.45&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 ##### Artikel 9.5. Extra begeleiding en ondersteuning van leerlingen
 
-[Hoofdstuk 2, paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=9&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+[Hoofdstuk 2, paragraaf 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=9&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
 ##### Artikel 9.6. Indicatoren beoordeling leerresultaten voortgezet onderwijs
 
-[Hoofdstuk 2, paragraaf 10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=10&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+[Hoofdstuk 2, paragraaf 10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=10&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
 ##### Artikel 9.7. Samenwerking
 
-1. Het bevoegd gezag kan bij een samenwerkingsovereenkomst als bedoeld in [artikel 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.56&z=2023-01-01&g=2023-01-01) afwijken van [artikel 2.57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.57&z=2023-01-01&g=2023-01-01), als het gaat om het geven van vakken of onderdelen van het profieldeel of het vrije deel van de beroepsgerichte leerwegen.
+1. Het bevoegd gezag kan bij een samenwerkingsovereenkomst als bedoeld in [artikel 2.56](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.56&z=2023-03-29&g=2023-03-29) afwijken van [artikel 2.57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.57&z=2023-03-29&g=2023-03-29), als het gaat om het geven van vakken of onderdelen van het profieldeel of het vrije deel van de beroepsgerichte leerwegen.
 
-2. De [artikelen 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.59&z=2023-01-01&g=2023-01-01) en [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.60&z=2023-01-01&g=2023-01-01) zijn niet van toepassing.
+2. De [artikelen 2.59](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.59&z=2023-03-29&g=2023-03-29) en [2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=12&sub-paragraaf=12.1&artikel=2.60&z=2023-03-29&g=2023-03-29) zijn niet van toepassing.
 
 ##### Artikel 9.8. Gebruik burgerservicenummer door bevoegd gezag
 
-[Artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=13&artikel=2.70&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Artikel 2.70](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=13&artikel=2.70&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 #### Paragraaf 3. Wijze van toepassing [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&z=2023-01-01&g=2023-01-01) (Eindexamen)
 
 ##### Artikel 9.9. Afwijkingen vakken eindexamen
 
-1. De [artikelen 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2023-01-01&g=2023-01-01), [3.5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.5&z=2023-01-01&g=2023-01-01), en [3.6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.6&z=2023-01-01&g=2023-01-01), zijn niet van toepassing.
+1. De [artikelen 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.4&z=2023-03-29&g=2023-03-29), [3.5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.5&z=2023-03-29&g=2023-03-29), en [3.6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.6&z=2023-03-29&g=2023-03-29), zijn niet van toepassing.
 
-2. In [artikel 3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-01-01&g=2023-01-01), wordt voor «Duitse taal» gelezen «Spaanse taal» en wordt voor «het vak, bedoeld in het tweede lid van dat artikel» gelezen «Arabische taal, Turkse taal, Duitse taal, Papiaments, maatschappijkunde, geschiedenis en staatsinrichting, of aardrijkskunde».
+2. In [artikel 3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.8&z=2023-03-29&g=2023-03-29), wordt voor «Duitse taal» gelezen «Spaanse taal» en wordt voor «het vak, bedoeld in het tweede lid van dat artikel» gelezen «Arabische taal, Turkse taal, Duitse taal, Papiaments, maatschappijkunde, geschiedenis en staatsinrichting, of aardrijkskunde».
 
 ##### Artikel 9.10. Maatschappelijke stage als onderdeel eindexamen
 
-[Artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.10&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.10&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 ##### Artikel 9.11. Aanwijzing gecommitteerden door Minister
 
-1. In afwijking van de [artikelen 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2023-01-01&g=2023-01-01) en [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.23&z=2023-01-01&g=2023-01-01) wijst Onze Minister voor elke school de gecommitteerden aan en maakt deze aanwijzing bekend aan de scholen waarvoor zij de tweede correctie verrichten.
+1. In afwijking van de [artikelen 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2023-03-29&g=2023-03-29) en [3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=3&artikel=3.23&z=2023-03-29&g=2023-03-29) wijst Onze Minister voor elke school de gecommitteerden aan en maakt deze aanwijzing bekend aan de scholen waarvoor zij de tweede correctie verrichten.
 
 2. In afwijking van het eerste lid wijst Onze Minister geen gecommitteerden aan voor het praktische gedeelte van het cspe.
 
 ##### Artikel 9.12. Vervangende opleidingsdocumenten
 
-[Artikel 3.51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.51&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+[Artikel 3.51, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.51&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
 ##### Artikel 9.13. Uitbesteding vso-leerling aan vbo
 
-[Artikel 3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.52&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Artikel 3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.52&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 ##### Artikel 9.14. Financiële bijdrage eindexamen extraneus
 
-In afwijking van [artikel 3.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.53&z=2023-01-01&g=2023-01-01), is een extraneus een financiële bijdrage van USD 45 verschuldigd voor het afleggen van het eindexamen.
+In afwijking van [artikel 3.53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.53&z=2023-03-29&g=2023-03-29), is een extraneus een financiële bijdrage van USD 45 verschuldigd voor het afleggen van het eindexamen.
 
 ##### Artikel 9.15. Afwijkende wijze van examineren bij onvoldoende beheersing Nederlandse taal
 
-In [artikel 3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.55&z=2023-01-01&g=2023-01-01) wordt voor «ten hoogste zes jaar onderwijs in Nederland heeft gevolgd» gelezen «ten hoogste zes jaar Nederlandstalig onderwijs heeft gevolgd».
+In [artikel 3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.55&z=2023-03-29&g=2023-03-29) wordt voor «ten hoogste zes jaar onderwijs in Nederland heeft gevolgd» gelezen «ten hoogste zes jaar Nederlandstalig onderwijs heeft gevolgd».
 
 ##### Artikel 9.16. Afwijkingen eindexamen vavo
 
-1. [Artikel 3.63, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.63&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+1. [Artikel 3.63, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.63&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
-2. Bij de toepassing van [artikel 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-01-01&g=2023-01-01) wordt ten hoogte een cijferlijst van een examenkandidaat, die is uitgereikt aan een school, betrokken.
+2. Bij de toepassing van [artikel 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.64&z=2023-03-29&g=2023-03-29) wordt ten hoogte een cijferlijst van een examenkandidaat, die is uitgereikt aan een school, betrokken.
 
-3. [Artikel 3.65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.65&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+3. [Artikel 3.65, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.65&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
-4. In [artikel 3.69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.69&z=2023-01-01&g=2023-01-01), wordt voor «Franse taal of Duitse taal» gelezen «Franse taal of Spaanse taal».
+4. In [artikel 3.69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.69&z=2023-03-29&g=2023-03-29), wordt voor «Franse taal of Duitse taal» gelezen «Franse taal of Spaanse taal».
 
 #### Paragraaf 4. Wijze van toepassing [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&z=2023-01-01&g=2023-01-01) (Staatsexamen)
 
 ##### Artikel 9.17. Toelating tot staatsexamen vmbo beroepsgerichte leerwegen en gemengde leerweg
 
-1. [Artikel 4.2, eerste lid, onderdeel a, onder 2, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+1. [Artikel 4.2, eerste lid, onderdeel a, onder 2, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
-2. In afwijking van [artikel 4.2, eerste lid onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2023-01-01&g=2023-01-01), overlegt de examenkandidaat voor de toelating tot het staatsexamen vmbo basisberoepsgerichte leerweg, kaderberoepsgerichte leerweg of gemengde leerweg een cijferlijst waaruit blijkt dat bij het eindexamen voor het beroepsgerichte programma, bedoeld in de [artikelen 3.5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.5&z=2023-01-01&g=2023-01-01), [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.6&z=2023-01-01&g=2023-01-01), of [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-01-01&g=2023-01-01), het eindcijfer 6 of hoger is behaald.
+2. In afwijking van [artikel 4.2, eerste lid onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2023-03-29&g=2023-03-29), overlegt de examenkandidaat voor de toelating tot het staatsexamen vmbo basisberoepsgerichte leerweg, kaderberoepsgerichte leerweg of gemengde leerweg een cijferlijst waaruit blijkt dat bij het eindexamen voor het beroepsgerichte programma, bedoeld in de [artikelen 3.5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.5&z=2023-03-29&g=2023-03-29), [artikel 3.6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.6&z=2023-03-29&g=2023-03-29), of [artikel 3.7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-03-29&g=2023-03-29), het eindcijfer 6 of hoger is behaald.
 
 ##### Artikel 9.18. Financiële bijdrage voor toelating (deel)staatsexamen
 
-1. In afwijking van [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2023-01-01&g=2023-01-01), bedraagt de financiële bijdrage voor toelating tot het afleggen van het staatsexamen USD 45.
+1. In afwijking van [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2023-03-29&g=2023-03-29), bedraagt de financiële bijdrage voor toelating tot het afleggen van het staatsexamen USD 45.
 
-2. In afwijking van [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2023-01-01&g=2023-01-01), bedraagt de financiële bijdrage voor toelating tot het afleggen van een deelstaatsexamen voor een vak waarin zowel het college-examen als het centraal examen wordt afgelegd USD 20.
+2. In afwijking van [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2023-03-29&g=2023-03-29), bedraagt de financiële bijdrage voor toelating tot het afleggen van een deelstaatsexamen voor een vak waarin zowel het college-examen als het centraal examen wordt afgelegd USD 20.
 
-3. In afwijking van [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2023-01-01&g=2023-01-01), bedraagt de financiële bijdrage voor toelating tot het afleggen van deelstaatsexamen voor een vak waarin alleen het centraal examen of alleen het college-examen wordt afgelegd USD 17.
+3. In afwijking van [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=1&artikel=4.3&z=2023-03-29&g=2023-03-29), bedraagt de financiële bijdrage voor toelating tot het afleggen van deelstaatsexamen voor een vak waarin alleen het centraal examen of alleen het college-examen wordt afgelegd USD 17.
 
 4. Voor de toelating tot deelstaatsexamens bedraagt de financiële bijdrage per kalenderjaar in totaal niet meer dan USD 45.
 
 ##### Artikel 9.19. Uitslag staatsexamen vmbo
 
-[Artikel 4.21, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+[Artikel 4.21, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
 ##### Artikel 9.20. Vervangende opleidingsdocumenten
 
-[Artikel 4.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.33&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+[Artikel 4.33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.33&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
 ##### Artikel 9.21. Afwijkende wijze van examineren bij onvoldoende beheersing Nederlandse taal
 
-In afwijking van [artikel 4.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=7&artikel=4.35&z=2023-01-01&g=2023-01-01), kan de aanpassing voor zover betrekking hebbend op het centraal examen in elk geval bestaan uit een verlenging van de duur van een toets met een door het college noodzakelijk geoordeelde periode, en het verlenen van toestemming tot het gebruik van een verklarend woordenboek der Nederlandse taal.
+In afwijking van [artikel 4.35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=7&artikel=4.35&z=2023-03-29&g=2023-03-29), kan de aanpassing voor zover betrekking hebbend op het centraal examen in elk geval bestaan uit een verlenging van de duur van een toets met een door het college noodzakelijk geoordeelde periode, en het verlenen van toestemming tot het gebruik van een verklarend woordenboek der Nederlandse taal.
 
 #### Paragraaf 5. Wijze van toepassing [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=5&z=2023-01-01&g=2023-01-01) (Specifieke bepalingen voorzieningenplanning vmbo)
 
-##### Artikel 9.22. Toepassing [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=5&z=2023-01-01&g=2023-01-01)
+##### Artikel 9.22. Toepassing [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=5&z=2023-03-29&g=2023-03-29)
 
-[Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=5&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=5&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 #### Paragraaf 6. Wijze van toepassing [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&z=2023-01-01&g=2023-01-01) (Bekostiging en verantwoording)
 
@@ -3580,7 +3580,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 9.24. Bekostiging school
 
-In plaats van [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-01-01&g=2023-01-01) is [artikel 9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.25&z=2023-01-01&g=2023-01-01) van toepassing.
+In plaats van [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2023-03-29&g=2023-03-29) is [artikel 9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.25&z=2023-03-29&g=2023-03-29) van toepassing.
 
 ##### Artikel 9.25. Bekostiging school
 
@@ -3620,29 +3620,29 @@ In plaats van [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoof
 
 ##### Artikel 9.26. Vaststellen van de bekostiging
 
-1. In [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-01-01&g=2023-01-01), wordt voor «[artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.6)» gelezen «[artikel 11.56](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56)».
+1. In [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-03-29&g=2023-03-29), wordt voor «[artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.6)» gelezen «[artikel 11.56](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56)».
 
-2. [Artikel 6.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+2. [Artikel 6.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.2&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
 ##### Artikel 9.27. Aanvang bekostiging; startbekostiging
 
-In [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2023-01-01&g=2023-01-01) wordt telkens voor «de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5)» gelezen «de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4) en [11.56](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56)» en wordt voor «[hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=4)» gelezen «[hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=4) en [11, paragraaf 4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=4)».
+In [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.3&z=2023-03-29&g=2023-03-29) wordt telkens voor «de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.5)» gelezen «de [artikelen 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.4) en [11.56](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.56)» en wordt voor «[hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=4)» gelezen «[hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=4) en [11, paragraaf 4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=4)».
 
 ##### Artikel 9.28. Vermindering bekostiging in verband met verrekening kosten werkloosheidsuitkeringen en suppleties arbeidsongeschiktheid
 
-[Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.4&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 ##### Artikel 9.29. Bekostiging scholen voortgezet onderwijs in verticale scholengemeenschappen
 
-[Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.5&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.5&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 ##### Artikel 9.30. Toepassing op cursussen
 
-[Artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=1&artikel=6.6&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 ##### Artikel 9.31. Leerlingen die niet worden meegeteld
 
-In plaats van [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-01-01&g=2023-01-01) is [artikel 9.32](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.32&z=2023-01-01&g=2023-01-01) van toepassing.
+In plaats van [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.8&z=2023-03-29&g=2023-03-29) is [artikel 9.32](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.32&z=2023-03-29&g=2023-03-29) van toepassing.
 
 ##### Artikel 9.32. Leerlingen die niet worden meegeteld
 
@@ -3658,41 +3658,41 @@ In plaats van [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoof
 
 - b. ten aanzien van een niet-leerplichtige leerling: dezelfde gronden als die welke leiden tot vrijstelling van geregeld schoolbezoek als bedoeld in onderdeel a.
 
-3. Bij het bepalen van het aantal leerlingen op de school, bedoeld in [artikel 9.25, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.25&z=2023-01-01&g=2023-01-01), worden tevens ingeschreven studenten als bedoeld in de [WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) meegeteld.
+3. Bij het bepalen van het aantal leerlingen op de school, bedoeld in [artikel 9.25, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.25&z=2023-03-29&g=2023-03-29), worden tevens ingeschreven studenten als bedoeld in de [WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) meegeteld.
 
 ##### Artikel 9.33. Overige telling leerlingen
 
-[Artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.9&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=2&artikel=6.9&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 ##### Artikel 9.34. Betaalritme en in mindering brengen bedragen
 
-In plaats van [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=3&artikel=6.11&z=2023-01-01&g=2023-01-01) is [artikel 9.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.35&z=2023-01-01&g=2023-01-01) van toepassing.
+In plaats van [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=3&artikel=6.11&z=2023-03-29&g=2023-03-29) is [artikel 9.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.35&z=2023-03-29&g=2023-03-29) van toepassing.
 
 ##### Artikel 9.35. Betaalritme
 
-1. Het Rijk betaalt elke maand van het kalenderjaar aan het bevoegd gezag van een school een gedeelte van de bekostiging, bedoeld in [artikel 9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.25&z=2023-01-01&g=2023-01-01), waarop het over dat jaar recht heeft.
+1. Het Rijk betaalt elke maand van het kalenderjaar aan het bevoegd gezag van een school een gedeelte van de bekostiging, bedoeld in [artikel 9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=6&artikel=9.25&z=2023-03-29&g=2023-03-29), waarop het over dat jaar recht heeft.
 
 2. De aanvullende bekostiging, bedoeld in de [artikelen 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9) en [5.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.10), wordt in een keer betaald, dan wel wordt betaald volgens een bij ministeriële regeling te bepalen betaalritme.
 
 ##### Artikel 9.36. Voorlopige inhouding; definitieve vaststelling verminderingen
 
-[Artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Artikel 6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=3&artikel=6.14&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 ##### Artikel 9.37. Samenwerkingsverband
 
-[Hoofdstuk 6, paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=7&z=2023-01-01&g=2023-01-01), is niet van toepassing.
+[Hoofdstuk 6, paragraaf 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=7&z=2023-03-29&g=2023-03-29), is niet van toepassing.
 
 #### Paragraaf 7. Wijze van toepassing [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=7&z=2023-01-01&g=2023-01-01) (Lerarenregister en registervoorportaal)
 
-##### Artikel 9.38. Toepassing [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=7&z=2023-01-01&g=2023-01-01)
+##### Artikel 9.38. Toepassing [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=7&z=2023-03-29&g=2023-03-29)
 
-[Hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=7&z=2023-01-01&g=2023-01-01) is niet van toepassing.
+[Hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=7&z=2023-03-29&g=2023-03-29) is niet van toepassing.
 
 #### Paragraaf 8. Wijze van toepassing [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&z=2023-01-01&g=2023-01-01) (Deelname)
 
 ##### Artikel 9.39. Toelating eerste leerjaar in specifieke gevallen
 
-In plaats van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&paragraaf=1&artikel=8.3&z=2023-01-01&g=2023-01-01) is [artikel 9.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=8&artikel=9.40&z=2023-01-01&g=2023-01-01) van toepassing.
+In plaats van [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&paragraaf=1&artikel=8.3&z=2023-03-29&g=2023-03-29) is [artikel 9.40](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=9&paragraaf=8&artikel=9.40&z=2023-03-29&g=2023-03-29) van toepassing.
 
 ##### Artikel 9.40. Onderzoek naar de geschiktheid leerling eerste leerjaar
 
@@ -3720,7 +3720,7 @@ Het bevoegd gezag van een school voor praktijkonderwijs kan als leerling toelate
 
 ##### Artikel 9.42. Uitschrijving leerlingen
 
-In afwijking van [artikel 8.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&paragraaf=2&artikel=8.13&z=2023-01-01&g=2023-01-01), schrijft het bevoegd gezag de leerling uit met ingang van de dag volgende op de dag waarop de leerling de school voor het laatst heeft bezocht en verstrekt de ouders of de leerling indien deze handelingsbekwaam is een bewijs van uitschrijving.
+In afwijking van [artikel 8.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&paragraaf=2&artikel=8.13&z=2023-03-29&g=2023-03-29), schrijft het bevoegd gezag de leerling uit met ingang van de dag volgende op de dag waarop de leerling de school voor het laatst heeft bezocht en verstrekt de ouders of de leerling indien deze handelingsbekwaam is een bewijs van uitschrijving.
 
 ### Hoofdstuk 10. Invoerings- en overgangsrecht
 
@@ -3760,13 +3760,13 @@ In afwijking van [artikel 8.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:
 
 3. In afwijking van het eerste lid is de kandidaat die het eindexamen vmbo aflegt aan een instelling voor educatie en beroepsonderwijs vrijgesteld van het schoolexamen rekenen, indien hij reeds eerder een schoolexamen rekenen vmbo of een schoolexamen rekenen havo heeft gemaakt. De vorige volzin is van overeenkomstige toepassing op de kandidaat die het eindexamen havo aflegt aan een instelling voor educatie en beroepsonderwijs en reeds eerder een schoolexamen rekenen havo heeft gemaakt.
 
-4. Het cijfer voor het schoolexamen rekenen weegt niet mee in de uitslagbepaling voor het eindexamen vmbo en havo, bedoeld in de [artikelen 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01) en [3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01).
+4. Het cijfer voor het schoolexamen rekenen weegt niet mee in de uitslagbepaling voor het eindexamen vmbo en havo, bedoeld in de [artikelen 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29) en [3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29).
 
-5. In afwijking van de [artikelen 3.40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.40&z=2023-01-01&g=2023-01-01), [3.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.49&z=2023-01-01&g=2023-01-01), [3.72, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.72&z=2023-01-01&g=2023-01-01), en [3.41, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.41&z=2023-01-01&g=2023-01-01), wordt het cijfer voor het schoolexamen rekenen vermeld op een bijlage bij de cijferlijst.
+5. In afwijking van de [artikelen 3.40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.40&z=2023-03-29&g=2023-03-29), [3.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.49&z=2023-03-29&g=2023-03-29), [3.72, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=8&artikel=3.72&z=2023-03-29&g=2023-03-29), en [3.41, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.41&z=2023-03-29&g=2023-03-29), wordt het cijfer voor het schoolexamen rekenen vermeld op een bijlage bij de cijferlijst.
 
 6. Indien de kandidaat is vrijgesteld van het schoolexamen rekenen op grond van het vierde lid, wordt het schoolexamen rekenen vermeld op een bijlage bij de cijferlijst, zonder vermelding van een cijfer.
 
-7. Het vijfde lid is van overeenkomstige toepassing op het eindcijfer van het vak wiskunde, indien de kandidaat het eindexamen wiskunde heeft afgelegd, het eindcijfer voor wiskunde niet is betrokken in de uitslagbepaling, bedoeld in [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-01-01&g=2023-01-01) of [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01), en de kandidaat bedenkingen heeft geuit tegen het opnemen van het eindcijfer van het vak wiskunde op de cijferlijst op grond van [artikel 3.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.40&z=2023-01-01&g=2023-01-01).
+7. Het vijfde lid is van overeenkomstige toepassing op het eindcijfer van het vak wiskunde, indien de kandidaat het eindexamen wiskunde heeft afgelegd, het eindcijfer voor wiskunde niet is betrokken in de uitslagbepaling, bedoeld in [artikel 3.34](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.34&z=2023-03-29&g=2023-03-29) of [artikel 3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29), en de kandidaat bedenkingen heeft geuit tegen het opnemen van het eindcijfer van het vak wiskunde op de cijferlijst op grond van [artikel 3.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=5&artikel=3.40&z=2023-03-29&g=2023-03-29).
 
 8. Dit artikel is van overeenkomstige toepassing op de kandidaat die het eindexamen vmbo in de basisberoepsgerichte leerweg aflegt ter afsluiting van een leer-werktraject als bedoeld in [artikel 2.103 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.103).
 
@@ -3780,13 +3780,13 @@ In afwijking van [artikel 8.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:
 
 3. In afwijking van het eerste lid is de kandidaat die de rekentoets, bedoeld in [artikel 60, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60), zoals dat artikel luidde op de dag voor inwerkingtreding van artikel I, onderdeel C, van de Wet van 1 juli 2020 tot wijziging van onder andere de Wet op het voortgezet onderwijs in verband met de afschaffing van de rekentoets in het voortgezet onderwijs (afschaffing rekentoets vo) (Stb. 2020, 233), heeft afgelegd, vrijgesteld van het college-examen rekenen.
 
-4. Het cijfer voor het college-examen rekenen weegt niet mee in de uitslagbepaling voor het staatsexamen vmbo en havo, bedoeld in de [artikelen 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-01-01&g=2023-01-01) en [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01).
+4. Het cijfer voor het college-examen rekenen weegt niet mee in de uitslagbepaling voor het staatsexamen vmbo en havo, bedoeld in de [artikelen 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29) en [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29).
 
-5. In afwijking van de [artikelen 4.25, eerste lid, onderdeel a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.25&z=2023-01-01&g=2023-01-01), en [4.26, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.26&z=2023-01-01&g=2023-01-01), wordt het cijfer voor het college-examen rekenen vermeld op een bijlage bij de cijferlijst.
+5. In afwijking van de [artikelen 4.25, eerste lid, onderdeel a, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.25&z=2023-03-29&g=2023-03-29), en [4.26, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.26&z=2023-03-29&g=2023-03-29), wordt het cijfer voor het college-examen rekenen vermeld op een bijlage bij de cijferlijst.
 
 6. Indien de kandidaat is vrijgesteld van het college-examen rekenen op grond van het tweede of het derde lid, wordt het college-examen rekenen vermeld op een bijlage bij de cijferlijst, zonder vermelding van een cijfer.
 
-7. Het vijfde lid is van overeenkomstige toepassing op het eindcijfer van het vak wiskunde, indien de kandidaat het eindexamen of staatsexamen in het vak wiskunde heeft afgelegd, het eindcijfer voor wiskunde niet is betrokken in de uitslagbepaling, bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-01-01&g=2023-01-01) of [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01), en de kandidaat bezwaar heeft tegen het opnemen van het eindcijfer van het vak wiskunde op de cijferlijst op grond van [artikel 4.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.25&z=2023-01-01&g=2023-01-01).
+7. Het vijfde lid is van overeenkomstige toepassing op het eindcijfer van het vak wiskunde, indien de kandidaat het eindexamen of staatsexamen in het vak wiskunde heeft afgelegd, het eindcijfer voor wiskunde niet is betrokken in de uitslagbepaling, bedoeld in [artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29) of [artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29), en de kandidaat bezwaar heeft tegen het opnemen van het eindcijfer van het vak wiskunde op de cijferlijst op grond van [artikel 4.25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.25&z=2023-03-29&g=2023-03-29).
 
 8. Dit artikel is van overeenkomstige toepassing op de kandidaat die het staatsexamen vmbo in de basisberoepsgerichte leerweg aflegt ter afsluiting van een leer-werktraject als bedoeld in [artikel 2.103 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.103).
 
@@ -3794,9 +3794,9 @@ In afwijking van [artikel 8.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 10.5. Overgangsrecht cijfer profielvak beroepsgerichte leerwegen en gemengde leerweg vmbo behaald in het schooljaar 2020–2021 of 2021–2022
 
-1. Het eindcijfer van het profielvak, behaald in het schooljaar 2020–2021 of 2021–2022, wordt betrokken bij de berekening van het rekenkundig gemiddelde, bedoeld in [artikel 3.35, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-01-01&g=2023-01-01), of [artikel 4.21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-01-01&g=2023-01-01).
+1. Het eindcijfer van het profielvak, behaald in het schooljaar 2020–2021 of 2021–2022, wordt betrokken bij de berekening van het rekenkundig gemiddelde, bedoeld in [artikel 3.35, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=4&artikel=3.35&z=2023-03-29&g=2023-03-29), of [artikel 4.21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29).
 
-2. De kandidaat, bedoeld in [artikel 2.56, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.56), of [artikel 3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.56&z=2023-01-01&g=2023-01-01), die in het schooljaar 2020–2021 of 2021–2022 het eindexamen in het profielvak heeft afgerond, behoudt het recht op herkansing van het cspe, bedoeld in artikel 3.38, eerste lid.
+2. De kandidaat, bedoeld in [artikel 2.56, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.56), of [artikel 3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&paragraaf=6&artikel=3.56&z=2023-03-29&g=2023-03-29), die in het schooljaar 2020–2021 of 2021–2022 het eindexamen in het profielvak heeft afgerond, behoudt het recht op herkansing van het cspe, bedoeld in artikel 3.38, eerste lid.
 
 3. Het eerste lid is uitsluitend van toepassing indien na het jaar waarin het eindcijfer is vastgesteld, nog geen 10 jaren zijn verstreken.
 
@@ -3852,7 +3852,7 @@ Dit besluit wordt aangehaald als: Uitvoeringsbesluit WVO 2020.
 
 ### Kerndoelen eerste twee leerjaren voortgezet onderwijs
 
-### Onderdeel A: Nederlands
+### Kerndoelen eerste twee leerjaren voortgezet onderwijs
 
 De eerste tien kerndoelen zijn vooral gericht op de communicatieve functie van de Nederlandse taal en kennen een belangrijke plaats toe aan strategische vaardigheden. Daarnaast wordt ook aandacht besteed aan culturele en literaire aspecten (kerndoelen 2 en 8).
 
@@ -3860,7 +3860,7 @@ De eerste tien kerndoelen zijn vooral gericht op de communicatieve functie van d
 
 Ook de acht kerndoelen voor het onderdeel Engelse taal zijn vooral gericht op de communicatieve functie. De nadruk ligt op Engels als wereldtaal. Vooral met de kerndoelen 11, 14, 15, 16 en 17 kan de relatie worden gelegd met het Europees Referentiekader [Council of Europe (1998), Modern languages; Learning, teaching, assessment. A Common European Framework of Reference (pp. 131–135). Strassbourg: Council of Europe]. Afhankelijk van de leerlingenpopulatie kan de school zich oriënteren op de resultaatbeschrijvingen van de cellen in A1, A2 en B1 in het Referentiekader.
 
-Er zijn geen kerndoelen geformuleerd voor andere moderne vreemde talen – in het bijzonder Duitse taal en Franse taal (in Bonaire, Sint Eustatius en Saba Spaanse taal, Papiaments en Franse taal)- die voor de eerste drie leerjaar op grond van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2023-01-01&g=2023-01-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-01-01&g=2023-01-01) van het Uitvoeringsbesluit WVO 2020 naast de Engelse taal verplicht worden gesteld. Wel kunnen scholen de kerndoelen voor Engels gebruiken als leidraad voor het onderwijs in andere moderne vreemde talen door overal waar «Engels» staat de benaming van de andere moderne vreemde taal te lezen.
+Ook de acht kerndoelen voor het onderdeel Engelse taal zijn vooral gericht op de communicatieve functie. De nadruk ligt op Engels als wereldtaal. Vooral met de kerndoelen 11, 14, 15, 16 en 17 kan de relatie worden gelegd met het Europees Referentiekader [Council of Europe (1998), Modern languages; Learning, teaching, assessment. A Common European Framework of Reference (pp. 131–135). Strassbourg: Council of Europe]. Afhankelijk van de leerlingenpopulatie kan de school zich oriënteren op de resultaatbeschrijvingen van de cellen in A1, A2 en B1 in het Referentiekader.
 
 ### Onderdeel C: rekenen en wiskunde
 
@@ -3874,13 +3874,13 @@ De volgende acht kerndoelen bestrijken een groot inhoudelijk terrein, gericht op
 
 In de twaalf kerndoelen van het onderdeel mens en maatschappij is een enigszins vergelijkbare structuur te herkennen als bij de kerndoelen van het onderdeel mens en natuur: vragen stellen en onderzoek doen (36, 39), verschijnselen in tijd en ruimte plaatsen (37, 38), gebruik van bronnen (40, 41, 42) en de inhoudelijke thema’s (42 tot 47) geordend van dichtbij en kleinschalig naar verder weg of grootschalig. Verschillende kerndoelen concretiseren de opdracht aan elke school om aandacht te besteden aan burgerschap. Het gaat vooral om de kerndoelen 43 en 44, maar ook met andere kerndoelen wordt invulling gegeven aan deze opdracht: te denken valt aan de kerndoelen 6, 35, 36 en 56.
 
+In de twaalf kerndoelen van het onderdeel mens en maatschappij is een enigszins vergelijkbare structuur te herkennen als bij de kerndoelen van het onderdeel mens en natuur: vragen stellen en onderzoek doen (36, 39), verschijnselen in tijd en ruimte plaatsen (37, 38), gebruik van bronnen (40, 41, 42) en de inhoudelijke thema’s (42 tot 47) geordend van dichtbij en kleinschalig naar verder weg of grootschalig. Verschillende kerndoelen concretiseren de opdracht aan elke school om aandacht te besteden aan burgerschap. Het gaat vooral om de kerndoelen 43 en 44, maar ook met andere kerndoelen wordt invulling gegeven aan deze opdracht: te denken valt aan de kerndoelen 6, 35, 36 en 56.
+
 De leerling in het Europese deel van Nederland leert daarbij in elk geval de relatie te leggen tussen de gebeurtenissen en ontwikkelingen in de 20e eeuw (waaronder de Wereldoorlogen en de Holocaust), en hedendaagse ontwikkelingen. De vensters van de canon van Nederland dienen als uitgangspunt ter illustratie van de tijdvakken.
 
 De leerling in Bonaire, Sint Eustatius en Saba leert over kenmerkende aspecten van de volgende tijdvakken: Precolumbiaanse culturen, kolonisatie en verdeling van de Cariben, Nederlandse koloniën en Afrikaanse slavernij, opkomst olie-industrie en de toename van migratie binnen de Antillen en de leerling leert elementen van de Nederlandse geschiedenis waarbij de canon als leidraad kan worden gebruikt
 
 De leerling in Bonaire, Sint Eustatius of Saba leert een eigentijds beeld van de eigen omgeving, Europees Nederland, Europa en de wereld te gebruiken om verschijnselen en ontwikkelingen in hun omgeving te plaatsen.
-
-De leerling in Bonaire, Sint Eustatius of Saba leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing, leert eigen en andermans leefwijze daarmee in verband te brengen, leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen, en leert respectvol om te gaan met seksualiteit en met diversiteit binnen de samenleving, waaronder seksuele diversiteit.
 
 ### Onderdeel F: kunst en cultuur
 
@@ -3901,6 +3901,8 @@ Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd
 Richting school/instelling
 
 ### Personeelsgegevens
+
+Persoonsgegevens
 
 Persoonsgegevens
 
@@ -3940,19 +3942,19 @@ Bruto salaris
 
 Toelagen
 
-Ziekte en verlofgegevens
-
 ## Bijlage 3. behorende bij [artikel 6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=5&artikel=6.23&z=2023-01-01&g=2023-01-01) van het Uitvoeringsbesluit WVO 2020
 
 ### Ordening gegevens voor berekening van de hoogte van de bekostiging
 
 Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag of het samenwerkingsverband dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van Onze Minister op grond van [artikel 5.48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.48) voor de berekening van de hoogte van de bekostiging. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
 
-Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd wordt.
+Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag of het samenwerkingsverband dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van Onze Minister op grond van [artikel 5.48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.48) voor de berekening van de hoogte van de bekostiging. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
 
 ### A. Instellingsgegevens
 
-### A1. Bevoegd gezag
+### A. Instellingsgegevens
+
+Datum oprichting en opheffing
 
 Datum oprichting en opheffing
 
@@ -3962,9 +3964,9 @@ Naam en adresgegevens
 
 Communicatiegegevens, zoals telefoonnummer en e-mailadres
 
-Gegevens voor betalingen, zoals bankgegevens
-
 ### A2.. School, instelling, vestiging
+
+Gegevens over de datum oprichting en opheffing
 
 Gegevens over de datum oprichting en opheffing
 
@@ -3976,9 +3978,9 @@ Een administratienummer
 
 Naam en adresgegevens
 
-Communicatiegegevens, zoals telefoonnummer en e-mailadres
-
 ### A3. Samenwerkingsverbanden
+
+Administratienummer
 
 Administratienummer
 
@@ -3986,9 +3988,169 @@ Datum ingang en einde bekostiging
 
 Naam
 
+## Bijlage 4. behorende bij [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01), van het Uitvoeringsbesluit WVO 2020
+
+Dit onderdeel is nog niet inwerking getreden
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 4.21a. Aangepaste uitslagbepaling 2023
+
+1. Het college laat bij de bepaling van de definitieve uitslag, in afwijking van de[artikelen 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.19&z=2023-03-29&g=2023-03-29), [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29) en [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29), het eindcijfer van een vak, of de beoordeling van het profielwerkstuk, buiten beschouwing bij de kandidaat die:
+
+- a. in het examenjaar 2023, tenminste een vak van het staatsexamen afrondt;
+
+- b. met inbegrip van het vak dat buiten beschouwing wordt gelaten een volledig staatsexamen heeft afgelegd; en
+
+- c. ten minste één vak bij de bepaling van de uitslag laat betrekken waarvan het eindcijfer is vastgesteld in het examenjaar 2020, 2021 of 2022.
+
+2. Het vak bedoeld in het eerste lid kan niet zijn:
+
+- a. het vak Nederlandse taal, bedoeld in [artikel 4.21, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29), voor het staatsexamen van een leerweg in het vmbo;
+
+- b. het vak Nederlandse taal en literatuur, het vak Engelse taal en literatuur en voor zover van toepassing het vak wiskunde A, wiskunde B of wiskunde C, bedoeld in [artikel 4.20, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29), voor het staatsexamen vwo of havo.
+
+3. Het eindcijfer bedoeld in het eerste lid kan niet zijn:
+
+- a. het eindcijfer bedoeld in [artikel 4.21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29), voor het staatsexamen van een leerweg in het vmbo;
+
+- b. het eindcijfer bedoeld in [artikel 4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.20&z=2023-03-29&g=2023-03-29), voor het staatsexamen vwo en havo.
+
+4. De cijfers van het vak, bedoeld in het eerste lid, worden opgenomen op de cijferlijst, bedoeld in [artikel 4.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.25&z=2023-03-29&g=2023-03-29).
+
+5. Het eindcijfer, bedoeld in het eerste lid, wordt betrokken bij de toepassing van de [artikelen 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.30&z=2023-03-29&g=2023-03-29) en [4.31](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=6&artikel=4.31&z=2023-03-29&g=2023-03-29).
+
+6. Het gewicht van het profielvak, bedoeld in [artikel 4.21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.21&z=2023-03-29&g=2023-03-29), wordt bepaald voorafgaand aan de toepassing van het eerste lid.
+
+7. Bij de toepassing van [artikel 4.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&paragraaf=5&artikel=4.22&z=2023-03-29&g=2023-03-29), wordt dit artikel buiten beschouwing gelaten.
+
+8. Het derde lid, onderdeel a, is niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+9. Deze bepaling vervalt met ingang van 1 januari 2024.
+
+#### Paragraaf 6. Cijferlijsten, diploma’s en certificaten
+
+#### Paragraaf 7. Specifieke voorzieningen staatsexamen
+
+#### Paragraaf 8. Maatregelen in geval van onregelmatigheden
+
+#### Paragraaf 9. Gegevensverstrekking en bewaren examenwerk
+
+### Hoofdstuk 5. Specifieke bepalingen voorzieningenplanning vmbo
+
+### Hoofdstuk 6. Bekostiging en verantwoording
+
+#### Paragraaf 1. Vaststelling omvang bekostiging
+
+#### Paragraaf 2. Leerlingentelling
+
+#### Paragraaf 3. Betaling van de bekostiging
+
+#### Paragraaf 4. Boekhouding, financieel beheer en financiële controle
+
+#### Paragraaf 5. Informatie voor bekostiging
+
+#### Paragraaf 6. Samenvoeging, afsplitsing en opheffing scholen en beëindiging bekostiging
+
+#### Paragraaf 7. Samenwerkingsverbanden
+
+### Hoofdstuk 8. Deelname
+
+#### Paragraaf 1. Toelating en voorwaardelijke bevordering
+
+#### Paragraaf 2. Leerlingenadministratie
+
+#### Paragraaf 3. Melding en vaststelling langdurige afwezigheid in verband met [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
+
+### Hoofdstuk 9. Caribisch Nederland
+
+#### Paragraaf 1. Algemeen
+
+#### Paragraaf 2. Wijze van toepassing [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&z=2023-03-29&g=2023-03-29) (Onderwijs)
+
+#### Paragraaf 3. Wijze van toepassing [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=3&z=2023-03-29&g=2023-03-29) (Eindexamen)
+
+#### Paragraaf 4. Wijze van toepassing [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=4&z=2023-03-29&g=2023-03-29) (Staatsexamen)
+
+#### Paragraaf 5. Wijze van toepassing [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=5&z=2023-03-29&g=2023-03-29) (Specifieke bepalingen voorzieningenplanning vmbo)
+
+#### Paragraaf 6. Wijze van toepassing [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&z=2023-03-29&g=2023-03-29) (Bekostiging en verantwoording)
+
+#### Paragraaf 7. Wijze van toepassing [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=7&z=2023-03-29&g=2023-03-29) (Lerarenregister en registervoorportaal)
+
+#### Paragraaf 8. Wijze van toepassing [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=8&z=2023-03-29&g=2023-03-29) (Deelname)
+
+### Hoofdstuk 10. Invoerings- en overgangsrecht
+
+#### Paragraaf 1. Invoeringsrecht
+
+#### Paragraaf 2. Overgangsrecht
+
+### Hoofdstuk 11. Slotbepalingen
+
+## Bijlage 1. behorende bij [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2023-03-29&g=2023-03-29) van het Uitvoeringsbesluit WVO 2020
+
+### Onderdeel A: Nederlands
+
+De eerste tien kerndoelen zijn vooral gericht op de communicatieve functie van de Nederlandse taal en kennen een belangrijke plaats toe aan strategische vaardigheden. Daarnaast wordt ook aandacht besteed aan culturele en literaire aspecten (kerndoelen 2 en 8).
+
+### Onderdeel B: Engels
+
+Er zijn geen kerndoelen geformuleerd voor andere moderne vreemde talen – in het bijzonder Duitse taal en Franse taal (in Bonaire, Sint Eustatius en Saba Spaanse taal, Papiaments en Franse taal)- die voor de eerste drie leerjaar op grond van de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.3&z=2023-03-29&g=2023-03-29) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2023-03-29&g=2023-03-29) van het Uitvoeringsbesluit WVO 2020 naast de Engelse taal verplicht worden gesteld. Wel kunnen scholen de kerndoelen voor Engels gebruiken als leidraad voor het onderwijs in andere moderne vreemde talen door overal waar «Engels» staat de benaming van de andere moderne vreemde taal te lezen.
+
+### Onderdeel C: rekenen en wiskunde
+
+Er zijn negen kerndoelen die betrekking hebben op rekenen en wiskunde. Er wordt ruimte gelaten deze uit te werken op basis van verschillende opvattingen en leerstijlen. Uiteindelijk gaat het bij deze kerndoelen in de eerste plaats om de gebruiksmogelijkheden van (elementaire) rekenvaardigheden en van wiskunde buiten en binnen het onderwijsprogramma, zowel in de onderbouw als in de bovenbouw van het voortgezet onderwijs (inclusief het derde leerjaar havo / vwo). Systematische aandacht in het onderwijsprogramma voor (elementaire) rekenvaardigheden is van belang om doorlopende leerlijnen te realiseren van primair onderwijs, via het voortgezet onderwijs, naar mbo en hoger onderwijs.
+
+### Onderdeel D: mens en natuur
+
+De volgende acht kerndoelen bestrijken een groot inhoudelijk terrein, gericht op natuurwetenschappelijke, technologische en zorggerelateerde onderwerpen. Deze kerndoelen geven in globale termen aan waar het daarbij om gaat: een onderzoekende houding ten opzichte van de natuur, herkennen van samenhangen en wisselwerkingen, verbinden van theorieën en modellen met praktisch werk en waarneming, bevorderen van duurzaamheid. Het begint bij vragen stellen (28, 31) en gaat via de benadering van sleutelbegrippen (29, 30) naar kerndoelen waarin meer specifieke onderwerpen en vaardigheden worden genoemd (32 t/m 35).
+
+### Onderdeel E: mens en maatschappij
+
+De leerling in Bonaire, Sint Eustatius of Saba leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing, leert eigen en andermans leefwijze daarmee in verband te brengen, leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen, en leert respectvol om te gaan met seksualiteit en met diversiteit binnen de samenleving, waaronder seksuele diversiteit.
+
+### Onderdeel F: kunst en cultuur
+
+Met de vijf kerndoelen voor het onderdeel kunst en cultuur wordt het gemeenschappelijke en het gelijkwaardige van de verschillende kunstzinnige disciplines benadrukt. Doel is een brede oriëntatie op kunst en cultuur. Deze kerndoelen geven ook variatie in activiteiten aan: eigen werk maken en presenteren, andermans werk ervaren en plaatsen, verslag doen van activiteiten, en reflecteren op eigen en andermans werk.
+
+### Onderdeel G: bewegen en sport
+
+In de zes kerndoelen voor het onderdeel bewegen en sport gaat het om een brede oriëntatie op verschillende soorten bewegingsactiviteiten en daarin het verkennen en uitbreiden van de eigen mogelijkheden (53 t/m 55). Omdat sport en bewegen bij uitstek samenwerking vereisen, zijn daarvoor afzonderlijke kerndoelen opgenomen (56 en 57). Het laatste kerndoel (58) expliciteert de relatie met gezondheid en welzijn. Onderwijs in lichamelijke opvoeding, voornamelijk bestaande uit praktische bewegingsactiviteiten, vindt plaats gespreid over het gehele schooljaar, en in zodanige omvang dat wordt voldaan aan de inhoudelijke eisen op het gebied van kwaliteit en variëteit zoals neergelegd in deze kerndoelen.
+
+## Bijlage 2. behorende bij [artikel 2.68](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=2&paragraaf=13&artikel=2.68&z=2023-03-29&g=2023-03-29) van het Uitvoeringsbesluit WVO 2020
+
+### Ordening gegevens voor het beleid
+
+Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag of het samenwerkingsverband dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van Onze Minister voor zijn beleid voor het voortgezet onderwijs op grond van [artikel 2.111 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.111).
+
+### School, instelling, vestiging
+
+Richting school/instelling
+
+### Personeelsgegevens
+
+Ziekte en verlofgegevens
+
+## Bijlage 3. behorende bij [artikel 6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=6&paragraaf=5&artikel=6.23&z=2023-03-29&g=2023-03-29) van het Uitvoeringsbesluit WVO 2020
+
+### Ordening gegevens voor berekening van de hoogte van de bekostiging
+
+Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd wordt.
+
+### A1. Bevoegd gezag
+
+Gegevens voor betalingen, zoals bankgegevens
+
+### A2.. School, instelling, vestiging
+
+Communicatiegegevens, zoals telefoonnummer en e-mailadres
+
+### A3. Samenwerkingsverbanden
+
 Administratienummers scholen in samenwerkingsverband, inclusief de vestigingsnummers/administratienummers van de vestigingen
 
-## Bijlage 4. behorende bij [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=7&artikel=7.2&z=2023-01-01&g=2023-01-01), van het Uitvoeringsbesluit WVO 2020
+## Bijlage 4. behorende bij [artikel 7.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&hoofdstuk=7&artikel=7.2&z=2023-03-29&g=2023-03-29), van het Uitvoeringsbesluit WVO 2020
 
 Dit onderdeel is nog niet inwerking getreden
 
