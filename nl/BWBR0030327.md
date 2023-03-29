@@ -4,7 +4,7 @@ identifier: "BWBR0030327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2023-01-01"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030327"
 soort: "ministeriele-regeling"
@@ -62,11 +62,13 @@ Onder de directeur ressorteren de volgende afdelingen:
 
 - a. de afdeling Woordvoering en Publiciteit;
 
-- b. de afdeling Communicatieadvies, Mediamonitoring en Onderzoek;
+- b. de afdeling Strategische Communicatie;
 
 - c. de afdeling Creatie en Publieksinformatie;
 
-- d. de afdeling Stafbureau.
+- d. de afdeling Omgevingskennis en Responsiviteit;
+
+- e. de afdeling Stafbureau.
 
 ##### Artikel 3
 
@@ -96,7 +98,7 @@ Het hoofd van de afdeling Woordvoering en Publiciteit is verantwoordelijk voor:
 
 - b. het ten behoeve van de beleidsontwikkeling beoordelen en signaleren van publicitaire aspecten van beleidsvoornemens en het strategisch adviseren van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de directeuren over de presentatie van beleid aan de pers;
 
-- c. het adviseren en begeleiden van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de directeuren over en tijdens contacten met de pers en bij externe optredens;
+- c. het adviseren en begeleiden van de bewindspersonen over en tijdens contacten met de pers en bij externe optredens;
 
 - d. het coördineren en uitvoeren van de persvoorlichting en de woordvoering en het organiseren en tot stand brengen van externe optredens en toespraken van de bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de directeuren;
 
@@ -110,11 +112,13 @@ Het hoofd van de afdeling Woordvoering en Publiciteit is verantwoordelijk voor:
 
 - i. het publiceren van persberichten op de daartoe bestemde communicatiekanalen in samenwerking met de andere clusters;
 
-- j. het opstellen en redigeren van toespraken, spreekpunten en redeneerlijnen voor de bewindspersonen en het redigeren van belangrijke stukken die door het ministerie worden gepubliceerd.
+- j. het opstellen en redigeren van toespraken, spreekpunten en redeneerlijnen voor de bewindspersonen en het redigeren van belangrijke stukken die door het ministerie worden gepubliceerd;
+
+- a. Het stimuleren van helder taalgebruik in stukken die binnen het ministerie worden geschreven. Hiervoor worden taalblogs geschreven, wordt redactiehulp aangeboden en worden workshops georganiseerd.
 
 ##### Artikel 5
 
-Het hoofd van de afdeling Communicatieadvies, Mediamonitoring en Onderzoek is verantwoordelijk voor:
+Het hoofd van de afdeling Strategische Communicatie is verantwoordelijk voor:
 
 - a. het strategisch adviseren over de inzet van communicatie aan bewindspersonen, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en beleidsdirecties in alle beleidsfases;
 
@@ -140,15 +144,7 @@ Het hoofd van de afdeling Communicatieadvies, Mediamonitoring en Onderzoek is ve
 
 - l. het adviseren over de inzet van interne communicatie;
 
-- m. het onderzoeken van de corporate identiteit en de beleidsthema’s van het ministerie vanuit de communicatiediscipline;
-
-- n. het adviseren van de communicatieadviseurs en woordvoerders, beleidsdirecties en bewindspersonen op basis van de resultaten van het onderzoek genoemd in onderdeel m;
-
-- o. het vergaren, analyseren en duiden van omgevingskennis;
-
-- p. het monitoren van beleidsonderwerpen ten behoeve van het departement;
-
-- q. het onderhouden van de contacten met de afdelingen communicatie van voor het ministerie cruciale stakeholders, zoals het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de sociale partners.
+- m. het adviseren en begeleiden van de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal en de directeuren over en tijdens contacten met de pers en bij externe optredens.
 
 ##### Artikel 6
 
@@ -166,7 +162,7 @@ Het hoofd van de afdeling Creatie en Publieksinformatie is verantwoordelijk voor
 
 - f. de behandeling van burgercorrespondentie inhoudende het voorbereiden van de conceptbeantwoording van persoonlijke brieven direct gericht aan de bewindspersonen en burgerbrieven gericht aan het ministerie;
 
-- g. het onderhouden van de liaisonfunctie met interdepartementaal georganiseerde diensten zoals Rijksoverheid.nl en het Ondernemersplein.nl;
+- g. het onderhouden van de liaisonfunctie met interdepartementaal georganiseerde diensten zoals Rijksoverheid.nl;
 
 - h. in samenwerking met beleidsdirecties onderhouden van de SZW-dossiers op de sites bedoeld in onderdeel c.
 
@@ -174,9 +170,7 @@ Het hoofd van de afdeling Creatie en Publieksinformatie is verantwoordelijk voor
 
 - j. het signaleren van beleidsonderwerpen ten behoeve van de beleidsdirecties, de afdelingen van de directie Communicatie en de bewindspersonen;
 
-- k. het verzorgen van reactieve en proactieve webcare op SZW social media kanalen zoals Facebook, LinkedIn, Twitter en Instagram. Tevens het desgevraagd verzorgen van reactieve en proactieve webcare op de social mediakanalen van de bewindspersonen van SZW;
-
-- l. het ontwikkelen van een strategie voor en het beheren en onderhouden van nieuwsszw.nl.
+- k. het verzorgen van reactieve en proactieve webcare op SZW social media kanalen zoals Facebook, LinkedIn, Twitter en Instagram. Tevens het desgevraagd verzorgen van reactieve en proactieve webcare op de social mediakanalen van de bewindspersonen van SZW.
 
 ##### Artikel 7
 
@@ -208,13 +202,25 @@ Het hoofd van de afdeling Omgevingskennis en Responsiviteit is verantwoordelijk 
 
 ##### Artikel 8
 
+De coördinator van de afdeling Stafbureau is in de dagelijkse aansturing verantwoordelijk voor:
+
+- a. het adviseren en ondersteunen van de leiding bij het managen van de organisatie van de directie Communicatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
+
+- b. het bezien van de directiebrede consequenties;
+
+- c. het directiebreed leveren van de geïntegreerde managementinformatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
+
+- d. het adviseren over en het monitoren van de organisatorische, financiële en personele consequenties van de interdepartementale ontwikkelingen in Voorlichtingsraad-verband.
+
+##### Artikel 9
+
 1. Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de taken van de eigen afdeling.
 
 2. Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen.
 
 3. In aanvulling op het eerste lid wordt aan het hoofd van de afdeling Creatie en Publieksinformatie mandaat en machtiging verleend met betrekking tot het paraferen van concepten van antwoorden op persoonlijke brieven die direct aan bewindspersonen gericht zijn en op burgerbrieven die aan het ministerie gericht zijn.
 
-##### Artikel 9
+##### Artikel 10
 
 1. Aan de hoofden van de afdelingen en de coördinator van het Stafbureau wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, voor zover deze overeenkomsten betrekking hebben op de taken die vallen onder hun verantwoordelijkheid.
 
@@ -226,29 +232,25 @@ Het hoofd van de afdeling Omgevingskennis en Responsiviteit is verantwoordelijk 
 
 - c. het aangaan van overeenkomsten voor het opleiden van medewerkers van de directie Communicatie.
 
-##### Artikel 10
-
-Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken waargenomen door het afdelingshoofd dat hiervoor door de directeur is aangewezen.
-
 ##### Artikel 11
 
-De hoofden van de afdelingen kunnen, na voorafgaande schriftelijke toestemming van de directeur, hun bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
+Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken waargenomen door het afdelingshoofd dat hiervoor door de directeur is aangewezen.
 
 #### § 4. Slotbepalingen
 
 ##### Artikel 12
 
-Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026506) wordt ingetrokken.
+De hoofden van de afdelingen kunnen, na voorafgaande schriftelijke toestemming van de directeur, hun bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
 
 ##### Artikel 13
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
+Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026506) wordt ingetrokken.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 14
 
-Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
@@ -269,3 +271,7 @@ De coördinator van de afdeling Stafbureau is in de dagelijkse aansturing verant
 #### § 4. Slotbepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 15
+
+Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
