@@ -4,7 +4,7 @@ identifier: "BWBR0044858"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-26"
-last_updated: "2022-08-01"
+last_updated: "2023-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044858"
 soort: "ministeriele-regeling"
@@ -124,35 +124,7 @@ Het fytosanitair certificaat als bedoeld in artikel 71 van [verordening 2016/203
 
 ##### Artikel 6
 
-1. In dit artikel wordt verstaan onder:
-
-- **beschikking 2002/757:** Beschikking nr. 2002/757/EG van de Commissie van de Europese Gemeenschappen van 19 september 2002 houdende voorlopige fytosanitaire noodmaatregelen om het binnenbrengen en de verspreiding in de Gemeenschap van Phytophthora ramorum Werres, De Cock & Man in 't Veld sp. nov. te voorkomen (PbEG 2002, L 252/37);
-
-- **gevoelig hout:** hout van Acer macrophyllum Pursh, Aesculus californica (Spach) Nutt., Lithocarpus densiflorus (Hook. & Arn.) Rehd., Quercus spp. L. en Taxus brevifolia Nutt.;
-
-- **gevoelige planten:** planten, met uitzondering van vruchten en zaden, van Acer macrophyllum Pursh, Acer pseudoplatanus L., Adiantum aleuticum (Rupr.) Paris, Adiantum jordanii C. Muell., Aesculus californica (Spach) Nutt., Aesculus hippocastanum L., Arbutus menziesii Pursch., Arbutus unedo L., Arctostaphylos spp. Adans, Calluna vulgaris (L.) Hull, Camellia spp. L., Castanea sativa Mill., Fagus sylvatica L., Frangula californica (Eschsch.) Gray, Frangula purshiana (DC.) Cooper, Fraxinus excelsior L., Griselinia littoralis (Raoul), Hamamelis virginiana L., Heteromeles arbutifolia (Lindley) M. Roemer, Kalmia latifolia L., Laurus nobilis L., Leucothoe spp. D. Don, Lithocarpus densiflorus (Hook. & Arn.) Rehd., Lonicera hispidula (Lindl.) Dougl. ex Torr.&Gray, Magnolia spp. L., Michelia doltsopa Buch.-Ham. ex DC, Nothofagus obliqua (Mirbel) Blume, Osmanthus heterophyllus (G. Don) P. S. Green, Parrotia persica (DC) C.A. Meyer, Photinia x fraseri Dress, Pieris spp. D. Don, Pseudotsuga menziesii (Mirbel) Franco, Quercus spp. L., Rhododendron spp. L., andere dan Rhododendron simsii Planch., Rosa gymnocarpa Nutt., Salix caprea L., Sequoia sempervirens (Lamb. ex D. Don) Endl., Syringa vulgaris L., Taxus spp. L., Trientalis latifolia (Hook), Umbellularia californica (Hook.& Arn.) Nutt., Vaccinium ovatum Pursh en Viburnum spp. L.;
-
-- **gevoelige schors:** aparte schors van hout van Acer macrophyllum Pursh, Aesculus californica (Spach) Nutt., Lithocarpus densiflorus (Hook. & Arn.) Rehd., Quercus spp. L. en Taxus brevifolia Nutt.;
-
-- **schadelijke organisme:** Phytophthora ramorum Werres, De Cock & Man in 't Veld sp. nov.
-
-2. Het binnenbrengen in de Europese Unie en de verspreiding in de Europese Unie van niet-Europese of Europese isolaten van het schadelijke organisme is verboden.
-
-3. Gevoelige planten en gevoelig hout worden slechts op het grondgebied van de Europese Unie binnengebracht indien zij voldoen aan de punten 1a en 2 van bijlage I bij beschikking 2002/757, indien de officiële controles als bedoeld in artikel 47, eerste lid, van [verordening 2017/625](32525R2017) zijn verricht en indien op basis hiervan met betrekking tot de aanwezigheid van niet-Europese isolaten van het schadelijke organisme zij vrij van het schadelijke organisme worden bevonden.
-
-4. De in Bijlage VII, punt 90, van uitvoerings[verordening 2019/2072](32072R2019) vastgestelde maatregelen ten aanzien van hout van Quercus L., met inbegrip van hout dat niet zijn natuurlijke ronde oppervlakte heeft behouden, van oorsprong uit de Verenigde Staten van Amerika, zijn niet van toepassing op gevoelig hout van Quercus L. dat aan de vereisten van punt 2, onder b), van bijlage I bij beschikking nr. 2002/757 voldoet.
-
-5. Gevoelige planten van oorsprong uit de Verenigde Staten van Amerika worden alleen binnen de Europese Unie vervoerd als zij vergezeld gaan van een plantenpaspoort.
-
-6. Voor opplant bestemde planten van Viburnum spp., Camellia spp. en Rhododendron spp., andere dan Rhododendron simsii Planch, met uitzondering van zaden, van oorsprong uit derde landen, andere dan de Verenigde Staten van Amerika, worden nadat zij op het grondgebied van de Europese Unie zijn binnengebracht, alleen binnen de Europese Unie vervoerd indien zij vergezeld gaan van een plantenpaspoort.
-
-7. Gevoelige schors van oorsprong uit de Verenigde Staten van Amerika wordt niet op het grondgebied van de Europese Unie toegelaten.
-
-8. Voor opplant bestemde planten van Viburnum spp., Camellia spp. en Rhododendron spp., andere dan Rhododendron simsii Planch, met uitzondering van zaden, van oorsprong uit de Europese Unie, worden niet in het verkeer gebracht, tenzij zij voldoen aan de voorwaarden van punt 3 van bijlage I bij beschikking 2002/757.
-
-9. Gezaagd hout van Quercus L. dat vrij is van bast, van oorsprong uit de Verenigde Staten van Amerika, dat bij een van de GN-codes en omschrijvingen uit Bijlage XI, deel A, punt 12, van uitvoerings[verordening 2019/2072](32072R2019) is ingedeeld, mag zonder fytosanitair certificaat Nederland worden binnengebracht, mits dergelijk hout voldoet aan de voorwaarden van de bijlage bij Uitvoeringsbesluit 2013/780/EU van de Commissie van 18 december 2013 houdende afwijking van artikel 13, eerste lid, onder ii), van [Richtlijn 2000/29/EG](32000L0029) van de Raad ten aanzien van gezaagd hout van Quercus L., Platanus L. en Acer saccharum Marsh. dat vrij is van bast, van oorsprong uit de Verenigde Staten van Amerika (PbEU 2013, L 346).
-
-10. In afwijking van het derde lid mag gezaagd hout dat vrij is van bast van Quercus spp. L. van oorsprong uit de Verenigde Staten van Amerika in de Europese Unie worden binnengebracht zonder te voldoen aan punt 2 van bijlage I bij beschikking 2002/757, mits het voldoet aan de voorwaarden van bijlage II bij beschikking 2002/757.
+Vervallen
 
 ##### Artikel 7
 
@@ -181,12 +153,6 @@ Het fytosanitair certificaat als bedoeld in artikel 71 van [verordening 2016/203
 - b. zij bij binnenkomst in de Europese Unie overeenkomstig bijlage I, onderdeel 1, onder B, sub 2 bij uitvoeringsbesluit 2012/138 worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden; en
 
 - c. zij voldoen aan artikel 3, eerste lid, onderdeel c, van uitvoeringsbesluit 2012/138.
-
-5. Gevoelige planten, van oorsprong uit afgebakende gebieden, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden, bedoeld in punt 1 van sectie 2 van bijlage I van uitvoeringsbesluit 2012/138.
-
-6. Gevoelige planten, niet van oorsprong uit afgebakende gebieden, maar binnengebracht in een afgebakend gebied, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden zoals gesteld in punt 2 van sectie 2 van bijlage I van uitvoeringsbesluit 2012/138.
-
-7. Gevoelige planten, ingevoerd overeenkomstig het tweede lid, afkomstig uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden van punt 3 van sectie 2 van bijlage I van uitvoeringsbesluit 2012/138.
 
 ##### Artikel 8
 
@@ -334,15 +300,17 @@ Vervallen
 
 ##### Artikel 16
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2022-08-01&g=2022-08-01) vervalt met ingang van 1 juli 2023.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 juli 2023.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2022-08-01&g=2022-08-01) vervalt met ingang van 1 augustus 2022.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 augustus 2022.
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2022-08-01&g=2022-08-01) vervalt met ingang van 1 april 2022.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 april 2022.
 
-4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2022-08-01&g=2022-08-01) vervalt met ingang van 1 april 2023.
+4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 april 2023.
 
-5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2022-08-01&g=2022-08-01), vervalt met ingang van 1 januari 2027.
+5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2023-03-29&g=2023-03-29), vervalt met ingang van 1 januari 2027.
+
+6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 januari 2024.
 
 ##### Artikel 17
 
