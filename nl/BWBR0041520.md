@@ -4,7 +4,7 @@ identifier: "BWBR0041520"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2021-06-01"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041520"
 soort: "AMvB"
@@ -72,7 +72,7 @@ Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieder
 | **Energie: aardolie** | Stichting Centraal Orgaan Voorraadvorming Aardolieproducten | Het beheren van strategische olievoorraden |
 | **Energie: aardolie** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen exploitanten van oliepijpleidingen, als bedoeld in Bijlage II van de NIB-richtlijn | Beheer van oliepijpleidingen |
 | **Energie: aardolie** | De bij besluit van Onze Minister van Economische Zaken en Klimaat aangewezen exploitanten van voorzieningen voor de productie, opslag, transport, raffinage en behandeling van olie, bedoeld in Bijlage II van de NIB-richtlijn | Productie, opslag, transport, raffinage, of behandeling van olie |
-| **Vervoer: luchtvervoer** | • Royal Schiphol Group N.V. • Luchtverkeersleiding Nederland • Maastricht Upper Area Control Centre (MUAC) • Aircraft Fuel Supply B.V. • Koninklijke marechaussee • elke luchtvaartmaatschappij met minimaal 25% van het totaal aantal vliegbewegingen op Schiphol in een kalenderjaar | Een veilige en vlotte vlucht- en vliegtuigafhandeling voor wat betreft de luchthaven Schiphol |
+| **Vervoer: luchtvervoer** | • Nederlandse luchtvaartmaatschappijen die beschikken over een Air Operator Certificate (AOC) en die niet conform artikel 4, vierde lid van [Verordening (EG) nr. 300/2008](32008R0300)1[Verordening (EG) Nr. 300/2008](32008R0300) van het Europees Parlement en de Raad van 11 maart 2008 inzake gemeenschappelijke regels op het gebied van de beveiliging van de burgerluchtvaart en tot intrekking van [Verordening (EG) nr. 2320/2002](32002R2320) (**PbEU 2008, L 97**). zijn uitgezonderd van de gemeenschappelijke basisnormen voor de beveiliging van de burgerluchtvaart zoals opgenomen in deze Verordening; • De exploitant van Luchthaven Schiphol; • De exploitanten van de luchthavens, genoemd in [artikel 8.1, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) voor zover op die luchthavens verkeersvluchten plaatsvinden van luchtvaartmaatschappijen die: a. open staan voor individuele boekingen voor passagiers, vracht of post; en b. betreffen geregelde vluchten, zijnde lijnvluchten of commerciële vluchten uitgevoerd op een vaste route volgens een gepubliceerde dienstregeling, en niet-geregelde vluchten, zijnde chartervluchten in het passagiers- en vrachtvervoer of commerciële vluchten met een ongeregeld karakter; • De burgerexploitant van de luchthaven Eindhoven; • Aircraft Fuel Supply B.V.; • Koninklijke marechaussee; • Luchtverkeersleiding Nederland (LVNL); • Maastricht Upper Area Control Centre (MUAC). | Een veilige en vlotte vlucht- en vliegtuigafhandeling |
 | **Vervoer: spoorvervoer** | De bij besluit van Onze Minister van Infrastructuur en Waterstaat aangewezen infrastructuurbeheerders, bedoeld in artikel 3 van [richtlijn 2012/34](32012L0034)/EU | Het beheer van de hoofdspoorweginfrastructuur, bedoeld in [artikel 16 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) |
 | **Vervoer: spoorvervoer** | De bij besluit van Onze Minister van Infrastructuur en Waterstaat aangewezen spoorwegondernemingen, bedoeld in artikel 3 van [richtlijn 2012/34](32012L0034)/EU | Het vervoer van personen of goederen over (hoofd)spoorweginfrastructuur |
 | **Vervoer: vervoer over water** | De Divisie Havenmeester van het Havenbedrijf Rotterdam N.V. | Het afwikkelen van scheepvaartverkeer |
@@ -104,7 +104,7 @@ Als andere vitale aanbieders of categorieën van zodanige aanbieders als bedoeld
 
 ##### Artikel 4. (uitzondering beveiligingseisen financiële instellingen)
 
-De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2021-06-01&g=2021-06-01) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2021-06-01&g=2021-06-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
+De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2023-03-31&g=2023-03-31) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2023-03-31&g=2023-03-31) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
 
 ##### Artikel 5. (beveiliging en meldplicht digitaledienstverlener)
 
@@ -138,7 +138,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Bij regeling van Onze Minister die het aangaat, na overleg met Onze Minister, kunnen nadere regels worden gesteld over de te nemen maatregelen.
 
-## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2021-06-01&g=2021-06-01), van het Besluit beveiliging netwerk- en informatiesystemen
+## Bijlage. bij [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2023-03-31&g=2023-03-31), van het Besluit beveiliging netwerk- en informatiesystemen
 
 ### Beveiliging aanbieders van een essentiële dienst
 
