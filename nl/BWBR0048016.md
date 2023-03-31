@@ -4,7 +4,7 @@ identifier: "BWBR0048016"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-31"
-last_updated: "2023-01-13"
+last_updated: "2023-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048016"
 soort: "ministeriele-regeling"
@@ -50,15 +50,15 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Min
 
 ##### Artikel 2
 
-Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun directie of afdeling ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&bijlage=1&z=2023-03-31&g=2023-01-13) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun directie of afdeling ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&bijlage=1&z=2023-03-31&g=2023-03-31) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&bijlage=2&z=2023-03-31&g=2023-01-13) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&bijlage=2&z=2023-03-31&g=2023-03-31) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
-Voor het nemen van besluiten over de toekenning en vaststelling van financiële bijdragen aan medeoverheden en subsidies, voor zover deze passen binnen de beleidskaders van het Programmadirectoraat-Generaal Oekraïense Ontheemden, worden aangewezen de functionarissen genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&bijlage=3&z=2023-03-31&g=2023-01-13) bij dit besluit voor zover het betreft de rechtshandelingen, genoemd in de overige kolommen van die bijlage.
+Voor het nemen van besluiten over de toekenning en vaststelling van financiële bijdragen aan medeoverheden en subsidies, voor zover deze passen binnen de beleidskaders van het Programmadirectoraat-Generaal Oekraïense Ontheemden, worden aangewezen de functionarissen genoemd in kolom 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&bijlage=3&z=2023-03-31&g=2023-03-31) bij dit besluit voor zover het betreft de rechtshandelingen, genoemd in de overige kolommen van die bijlage.
 
 ##### Artikel 5
 
@@ -82,7 +82,7 @@ Aan de directeur blijft voorbehouden:
 
 1. Bij verhindering of afwezigheid wordt de directeur vervangen door het meest bij het onderwerp betrokken afdelingshoofd.
 
-2. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=1&z=2023-03-31&g=2023-01-13) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars in dit besluit genoemde bevoegdheden.
+2. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=1&z=2023-03-31&g=2023-03-31) genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars in dit besluit genoemde bevoegdheden.
 
 ##### Artikel 7
 
@@ -92,11 +92,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Mandaatbesluit NOO Ministerie van Justitie en Veiligheid 2023.
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=2&z=2023-03-31&g=2023-01-13) van het Mandaatbesluit NOO Ministerie van Justitie en Veiligheid 2023
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=2&z=2023-03-31&g=2023-03-31) van het Mandaatbesluit NOO Ministerie van Justitie en Veiligheid 2023
 
-De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=4&z=2023-03-31&g=2023-01-13) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=5&z=2023-03-31&g=2023-01-13) van dit mandaatbesluit.
+De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=4&z=2023-03-31&g=2023-03-31) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=5&z=2023-03-31&g=2023-03-31) van dit mandaatbesluit.
 
-De functionarissen bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=4&z=2023-03-31&g=2023-01-13) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en beëindigen van een arbeidsovereenkomst) alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=4&z=2023-03-31&g=2023-03-31) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en beëindigen van een arbeidsovereenkomst) alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
 
 |   | kolom 1 | kolom 2 |
 | --- | --- | --- |
@@ -105,7 +105,7 @@ De functionarissen bij wie in kolom 2 de letter B is geplaatst, zijn, onverminde
 | 1.1 | afdelingshoofd Ontwikkeling Opvanglocaties | B |
 | 1.2 | afdelingshoofd Partnermanagement en subsidies | B |
 
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=3&z=2023-03-31&g=2023-01-13) van het Mandaatbesluit NOO Ministerie van Justitie en Veiligheid 2023
+## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=3&z=2023-03-31&g=2023-03-31) van het Mandaatbesluit NOO Ministerie van Justitie en Veiligheid 2023
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429), tot het aangaan van verplichtingen en het doen van uitgaven.
 
@@ -120,7 +120,7 @@ Indien in kolom 2 geen bedrag is opgenomen, geldt geen maximumbedrag
 | 1.1 | afdelingshoofd Ontwikkeling Opvanglocaties | € 20.000.000 |
 | 1.2 | afdelingshoofd Partnermanagement en subsidies | € 20.000.000 |
 
-## Bijlage 3. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=4&z=2023-03-31&g=2023-01-13) van het Mandaatbesluit NOO Ministerie van Justitie en Veiligheid 2023
+## Bijlage 3. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048016&artikel=4&z=2023-03-31&g=2023-03-31) van het Mandaatbesluit NOO Ministerie van Justitie en Veiligheid 2023
 
 De functionaris genoemd in kolom 1 is bevoegd tot het nemen van besluiten over de toekenning en vaststelling van financiële bijdragen aan medeoverheden en subsidies, voor zover deze passen binnen de beleidskaders van het Programmadirectoraat-Generaal Oekraïense Ontheemden.
 
