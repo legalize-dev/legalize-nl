@@ -235,7 +235,3 @@ Dit onderdeel is nog niet in werking getreden.
 ### V. Minimumtaken en toetsmatrijs behorende bij de E-erkenning als bedoeld in [artikel 9, eerste lid, onder 5°, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### V. Minimumtaken en toetsmatrijs behorende bij de E-erkenning als bedoeld in [artikel 9, eerste lid, onder 5°, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
