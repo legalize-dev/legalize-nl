@@ -4,7 +4,7 @@ identifier: "BWBR0024708"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2022-11-22"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024708"
 soort: "AMvB"
@@ -210,13 +210,13 @@ De werkzaamheden inzake het ramen van de behoeften aan zorg omvatten de volgende
 
 ##### Artikel 7
 
-1. Bij de werkzaamheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2022-11-22&g=2022-11-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2022-11-22&g=2022-11-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2022-11-22&g=2022-11-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2022-11-22&g=2022-11-22) wordt zo nodig doorverwezen en -geleid naar curatieve gezondheidszorg, alsmede naar jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925).
+1. Bij de werkzaamheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2023-04-01&g=2023-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2023-04-01&g=2023-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2023-04-01&g=2023-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2023-04-01&g=2023-04-01) wordt zo nodig doorverwezen en -geleid naar curatieve gezondheidszorg, alsmede naar jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925).
 
-2. Bij de werkzaamheden, bedoeld in [artikelen 3, onderdelen d, e, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2022-11-22&g=2022-11-22), [4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2022-11-22&g=2022-11-22), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2022-11-22&g=2022-11-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2022-11-22&g=2022-11-22), wordt waar nodig samengewerkt met onderwijs, voorschoolse voorzieningen, jeugdhulp, verloskundigen, kraamzorg, huisartsen en overige curatieve gezondheidszorg, buurtteams en andere relevante zorg- of hulpverleners.
+2. Bij de werkzaamheden, bedoeld in [artikelen 3, onderdelen d, e, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2023-04-01&g=2023-04-01), [4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2023-04-01&g=2023-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2023-04-01&g=2023-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2023-04-01&g=2023-04-01), wordt waar nodig samengewerkt met onderwijs, voorschoolse voorzieningen, jeugdhulp, verloskundigen, kraamzorg, huisartsen en overige curatieve gezondheidszorg, buurtteams en andere relevante zorg- of hulpverleners.
 
 ##### Artikel 8
 
-De op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2022-11-22&g=2022-11-22), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2022-11-22&g=2022-11-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2022-11-22&g=2022-11-22) verkregen gegevens en de op grond van artikel 5 geraamde behoeften aan zorg worden systematisch geanalyseerd ten behoeve van het formuleren van collectieve maatregelen ter beïnvloeding van gezondheidsbedreigingen.
+De op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2023-04-01&g=2023-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2023-04-01&g=2023-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2023-04-01&g=2023-04-01) verkregen gegevens en de op grond van artikel 5 geraamde behoeften aan zorg worden systematisch geanalyseerd ten behoeve van het formuleren van collectieve maatregelen ter beïnvloeding van gezondheidsbedreigingen.
 
 ##### Artikel 9
 
@@ -224,7 +224,7 @@ Vervallen
 
 ##### Artikel 10
 
-Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2022-11-22&g=2022-11-22), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
+Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2023-04-01&g=2023-04-01), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
 
 ### Hoofdstuk IV. Infectieziektebestrijding
 
@@ -298,9 +298,9 @@ De infectieziekten behorende tot groep C zijn: anthrax, bof, botulisme, brucello
 
 ##### Artikel 14
 
-Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2022-11-22&g=2022-11-22) van dit besluit, tevens over de volgende voorzieningen:
+Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2023-04-01&g=2023-04-01) van dit besluit, tevens over de volgende voorzieningen:
 
-- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2022-11-22&g=2022-11-22) van dit besluit,
+- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2023-04-01&g=2023-04-01) van dit besluit,
 
 - b. een van sanitaire voorzieningen voorziene ruimte waar aankomende reizigers, afgezonderd van andere reizigers, aan quarantaine of medische controle kunnen worden onderworpen.
 
@@ -320,7 +320,7 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 16
 
-1. De aanvraag, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2022-11-22&g=2022-11-22), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
+1. De aanvraag, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2023-04-01&g=2023-04-01), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
 
 2. In afwijking van het eerste lid wordt, indien de maatregelen onafgebroken gedurende één jaar worden getroffen, de aanvraag uiterlijk twaalf maanden na het verstrijken van dat jaar ingediend.
 
@@ -328,7 +328,7 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
-5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2022-11-22&g=2022-11-22). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
+5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2023-04-01&g=2023-04-01). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
 
 6. Onze Minister kan de vaststelling van een bijdrage intrekken of ten nadele van de ontvanger wijzigen:
 
@@ -418,9 +418,15 @@ De vectoren, bedoeld in [artikel 6a, eerste lid, van de wet](https://wetten.over
 
 Het bevolkingsonderzoek, bedoeld in [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12a) bestaat uit:
 
-- a. de neonatale hielprikscreening, waarbij onderzoek wordt uitgevoerd bij pasgeborenen naar ernstige aangeboren aandoeningen;
+- a. de neonatale hielprikscreening, waarbij onderzoek wordt uitgevoerd bij pasgeborenen naar ernstige aangeboren aandoeningen in het Europese deel van Nederland en in de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- b. de prenatale screening infectieziekten en erytrocytenimmunisatie (PSIE).
+- b. de prenatale screening infectieziekten en erytrocytenimmunisatie (PSIE) in het Europese deel van Nederland en in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+- c. het bevolkingsonderzoek naar borstkanker in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+- d. het bevolkingsonderzoek naar baarmoederhalskanker in de openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+- e. het bevolkingsonderzoek naar darmkanker in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ### Hoofdstuk V. Gemeentelijke gezondheidsdiensten
 
