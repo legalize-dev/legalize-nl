@@ -4,7 +4,7 @@ identifier: "BWBR0011595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011595"
 soort: "ministeriele-regeling"
@@ -45,7 +45,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- **Drager:** drager als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2023-04-01&g=2023-04-01);
+
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+
+- **Persoonlijk online account:** persoonlijk account in de webomgeving van RSR, waarin een student met reisrecht zijn reisproduct kan koppelen aan een drager;
 
 - **wet:** [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
@@ -71,11 +75,11 @@ Vervallen
 
 ##### Artikel 2.4. Volledige opleiding buiten Nederland: aanvraag reisrecht
 
-De student, bedoeld in [artikel 3.7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.7), die als reisvoorziening een reisrecht wenst te ontvangen, dient daartoe een aanvraag in bij de Minister uiterlijk 8 weken voor de datum waarop het reisrecht moet ingaan.
+De student, bedoeld in [artikel 3.24, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.24), die als reisvoorziening een reisrecht wenst te ontvangen, dient daartoe een aanvraag in bij de Minister uiterlijk 8 weken voor de datum waarop het reisrecht moet ingaan.
 
 ##### Artikel 2.5. Deel opleiding buiten Nederland: aanvraag voorziening in geld
 
-1. De student, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2023-01-01&g=2023-01-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
+1. De student, bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.6&z=2023-04-01&g=2023-04-01), die een reisvoorziening in geld wenst te ontvangen, dient daartoe een aanvraag in bij de Minister.
 
 2. Op het aanvraagformulier wordt door de onderwijsinstelling waar de student blijft ingeschreven, verklaard:
 
@@ -99,23 +103,45 @@ Vervallen
 
 ### Hoofdstuk 3. Aanwijzing opleidingen in het buitenland
 
-##### Artikel 4.1. Verkrijging reisrecht
+##### Artikel 4.1. Dragers reisproduct
 
-1. Om met het reisrecht te kunnen reizen moet het reisproduct door de student bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen.
+1. Het reisproduct kan aan een van de volgende dragers worden gekoppeld:
 
-2. Op aanvraag van de student kan tijdelijk met het reisrecht worden gereisd door middel van een studentenreisproduct dat op een andere aan de student toebehorende, door de RSR geverifieerde, persoonlijke ov-chipkaart, dan wel op een anonieme ov-chipkaart is geladen.
+- a. persoonlijke OV-chipkaart;
 
-##### Artikel 4.2. Beëindiging reisrecht
+- b. token op een mobiele telefoon; of
 
-1. Het reisrecht wordt beëindigd door het reisproduct dat op de ov-chipkaart is geladen, stop te zetten.
+- c. token op een fysieke kaart.
 
-2. Het reisproduct wordt stopgezet bij een daartoe bestemde automaat van de vervoersbedrijven.
+2. RSR geeft aan aan welke dragers de student het reisproduct kan koppelen.
 
-3. De Minister kan, indien de met een reisproduct geladen ov-chipkaart technische gebreken heeft of indien de automaten van de vervoersbedrijven niet functioneren, beslissen dat het reisproduct stopgezet kan worden door gebruik te maken van een webtool of een aangetekende brief.
+##### Artikel 4.2. Verkrijging reisrecht
 
-4. In geval van uitloting van een ho-student, is hij verplicht het reisproduct op de ov-chipkaart stop te zetten binnen 5 werkdagen nadat aan de ho-student schriftelijk mededeling is gedaan van uitloting in de procedure, bedoeld in [hoofdstuk 7, titel 3, paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4) en [4a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&paragraaf=4a).
+1. Om met het reisrecht te kunnen reizen moet het reisproduct door de student in zijn persoonlijke online account worden gekoppeld aan een van de dragers als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2023-04-01&g=2023-04-01).
 
-##### Artikel 4.3. Keuze in soorten reisrecht
+2. Indien de student reist met een drager als bedoeld in [artikel 4.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2023-04-01&g=2023-04-01), moet de student om met het reisrecht te kunnen reizen, in aanvulling op het eerste lid, het reisproduct bij een daartoe bestemde automaat van de vervoersbedrijven op de drager laden na de koppeling in het persoonlijke online account.
+
+##### Artikel 4.3. Tijdelijk reisproduct
+
+1. Op aanvraag bij RSR kan de student tijdelijk met het reisrecht reizen. In dat geval wordt het studentenreisproduct gekoppeld aan een andere aan de student toebehorende drager die is geverifieerd door de RSR.
+
+2. In afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2023-04-01&g=2023-04-01) kan het tijdelijke reisproduct worden gekoppeld aan een anonieme OV-chipkaart. Indien een student het tijdelijk reisproduct koppelt aan een persoonlijke of anonieme OV-chipkaart, moet de student om met het reisrecht te kunnen reizen, in aanvulling op [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2023-04-01&g=2023-04-01), het reisproduct bij een daartoe bestemde automaat van de vervoersbedrijven op de drager laden na de koppeling in het persoonlijke online account.
+
+##### Artikel 4.4. Beëindiging reisrecht
+
+Het reisrecht wordt beëindigd door het reisproduct dat aan een drager is gekoppeld, stop te zetten op de wijze, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.5&z=2023-04-01&g=2023-04-01).
+
+##### Artikel 4.5. Stopzetten
+
+1. Met stopzetten wordt in dit artikel bedoeld het stopzetten, bedoeld in de [artikelen 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27) en [3.28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.28) en [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.4&z=2023-04-01&g=2023-04-01).
+
+2. Het reisproduct dat is gekoppeld aan de drager, bedoeld in [artikel 4.1, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2023-04-01&g=2023-04-01), kan door de Minister of student worden stopgezet door RSR te verzoeken de koppeling tussen het reisproduct en de drager te verbreken.
+
+3. Het reisproduct dat is geladen op de drager, bedoeld in [artikel 4.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2023-04-01&g=2023-04-01), wordt door de student stopgezet bij een daartoe bestemde automaat van de vervoersbedrijven.
+
+4. De Minister kan, indien de met een reisproduct geladen drager technische gebreken heeft of indien de automaten van de vervoersbedrijven of het persoonlijke online account bij RSR niet functioneren, beslissen dat het reisproduct stopgezet kan worden door gebruik te maken van een aangetekende brief.
+
+##### Artikel 4.6. Keuze in soorten reisrecht
 
 1. Een reisrecht wordt verstrekt in de vorm van:
 
@@ -123,11 +149,11 @@ Vervallen
 
 - b. een weekendreisrecht als bedoeld in artikel 1, zevende lid, van de overeenkomst tussen de vervoersbedrijven en de Staat in verband met de uitvoering van het reisrecht.
 
-2. Indien een student als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via www.duo.nl aan de Minister door alvorens hij zijn reisproduct op zijn persoonlijke ov-chipkaart laadt zoals beschreven in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.1&z=2023-01-01&g=2023-01-01).
+2. Indien een student als gevolg van de keuzemogelijkheid voor een soort reisrecht als bedoeld in [artikel 3.26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.26), een weekendreisrecht kiest, geeft hij dit via [www.duo.nl](onbekend) aan de Minister door alvorens hij zijn reisproduct aan zijn drager koppelt zoals beschreven in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2023-04-01&g=2023-04-01).
 
-##### Artikel 4.4. Wisselen van soort reisrecht
+##### Artikel 4.7. Wisselen van soort reisrecht
 
-1. Een student die recht heeft op een reisvoorziening kan tweemaal per kalenderjaar wisselen van keuze voor een soort reisrecht, met dien verstande dat de nieuwe soort reisrecht niet kan aanvangen:
+1. Een student die recht heeft op een reisvoorziening kan tweemaal per kalenderjaar wisselen van keuze voor een soort reisrecht, met dien verstande dat het nieuwe soort reisrecht niet kan aanvangen:
 
 - a. in de maanden mei tot en met augustus, en
 
@@ -137,15 +163,15 @@ Vervallen
 
 3. In afwijking van het tweede lid wordt op de aanvraag om te wisselen met ingang van een periode die gelegen is na het ingaan van een eerder toegekend reisrecht besloten uiterlijk op de tiende werkdag nadat het eerder toegekende reisrecht is ingegaan.
 
-4. Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan het bijbehorende reisproduct na die toekenning na tien werkdagen bij een daartoe bestemde automaat van de vervoersbedrijven op een persoonlijke ov-chipkaart worden geladen. In het geval het oorspronkelijke reisproduct niet al door de student op de ov-chipkaart is geladen, bedraagt de termijn waarna het reisproduct op een persoonlijke ov-chipkaart kan worden geladen, in afwijking van de eerste volzin, 20 werkdagen.
+4. Indien bij de beslissing op de aanvraag, bedoeld in het tweede of derde lid, een nieuw soort reisrecht wordt toegekend, kan het bijbehorende reisproduct na die toekenning na vijf werkdagen aan een drager worden gekoppeld op een in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2023-04-01&g=2023-04-01) bedoelde wijze.
 
-5. Het nieuwe reisproduct kan tot en met zes weken na de in het vierde lid bedoelde aanvraag op een persoonlijke ov-chipkaart worden geladen bij een daartoe bestemde automaat van de vervoersbedrijven.
+5. Het nieuwe reisproduct kan tot en met zes weken na de in het vierde lid bedoelde aanvraag aan een drager worden gekoppeld
 
-##### Artikel 4.5. Reisproduct strikt persoonlijk
+##### Artikel 4.8. Reisproduct strikt persoonlijk
 
 De student die beschikking heeft over een reisproduct heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
 
-##### Artikel 4.6. Voorziening in geld
+##### Artikel 4.9. Voorziening in geld
 
 1. Een student die een opleiding in Nederland volgt en gedurende die opleiding een onderdeel daarvan buiten Nederland gaat volgen, kan over de periode in het buitenland op aanvraag in plaats van een reisrecht in aanmerking komen voor een voorziening in geld.
 
@@ -157,21 +183,9 @@ De student die beschikking heeft over een reisproduct heeft uitsluitend voor zic
 
 3. De voorziening in geld, bedoeld in het eerste lid, is gelijk aan het bedrag, bedoeld in [artikel 5.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de student voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de student eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd met inachtneming van de aanvraagtermijn in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=2&artikel=2.4&z=2023-01-01&g=2023-01-01).
+4. Toekenning van de reisvoorziening in geld vindt plaats per kalendermaand voor de periode waarin de student voor de betreffende opleiding in het buitenland studeert. Na deze periode wordt dezelfde soort reisrecht toegekend zonder dat dat opnieuw behoeft te worden aangevraagd. Indien de student eerder dan aangegeven terugkeert in Nederland, kan opnieuw een reisrecht worden aangevraagd. Na toekenning daarvan kan het reisproduct na vijf werkdagen aan een drager worden gekoppeld op een in [artikel 4,2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.2&z=2023-04-01&g=2023-04-01) bedoelde wijze.
 
-5. Dit artikel berust op [artikel 3.7, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.7).
-
-##### Artikel 4.7. Kosten van het herzien van de keuze van de OV-studentenkaart
-
-Indien een studerende de gemaakte kaartkeuze herziet, is hij daarvoor aan de IB-Groep € 13,61 verschuldigd.
-
-##### Artikel 4.8. OV-studentenkaart is strikt persoonlijk
-
-De studerende die in het bezit is van een kaart als bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=4&artikel=4.5&z=2009-09-02&g=2009-09-02), heeft uitsluitend voor zichzelf recht op kosteloos openbaar vervoer of korting op de vervoerprijs.
-
-##### Artikel 4.9. Eigendom van de OV-studentenkaart
-
-De kaart die aan een studerende is verstrekt, blijft eigendom van de IB-Groep. De IB-Groep bezit het auteursrecht op de OV-studentenkaart.
+5. Dit artikel berust op [artikel 3.24, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.24).
 
 ##### Artikel 4.10. Uitzondering op de plicht om de OV-studentenkaart in te leveren
 
@@ -227,7 +241,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 5. Indien er niet langer betalingen op grond van de wet zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2023-01-01&g=2023-01-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2023-04-01&g=2023-04-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
 
 7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het bepaalde in het negende lid.
 
@@ -237,7 +251,7 @@ De betaling van de maandelijkse termijnen voor de rente en aflossing van de leni
 
 ##### Artikel 6.2. Aanpassing
 
-Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2023-01-01&g=2023-01-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
+Aanpassing van het bedrag genoemd in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2023-04-01&g=2023-04-01), geschiedt met de procentuele wijziging, bedoeld in [artikel 17, tweede lid, van het Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=17).
 
 ### Hoofdstuk 6a. Kopopleidingen
 
@@ -253,15 +267,15 @@ Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
-##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2023-01-01&g=2023-01-01)
+##### Artikel 7.4. Afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2023-04-01&g=2023-04-01)
 
 1. Wijzigt deze regeling.
 
-2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2023-01-01&g=2023-01-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
+2. In afwijking van [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2023-04-01&g=2023-04-01), kan de betaling, bedoeld in artikel 5.1, eerste lid, voor debiteuren op wie [hoofdstuk 10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a) van toepassing is, ook geschieden door een aan de debiteur gezonden acceptgirokaart.
 
-3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2023-01-01&g=2023-01-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
+3. Indien de in het tweede lid bedoelde debiteur betaalt volgens de in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=5&artikel=5.1&z=2023-04-01&g=2023-04-01), bedoelde wijze, wordt de te betalen maandelijkse termijn telkens verminderd met € 0,77.
 
-##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2023-01-01&g=2023-01-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2023-01-01&g=2023-01-01)
+##### Artikel 7.5. Afwijking van de [artikelen 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.1&z=2023-04-01&g=2023-04-01) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6&artikel=6.2&z=2023-04-01&g=2023-04-01)
 
 Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595).
 
@@ -269,7 +283,7 @@ Wijzigt de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:
 
 Daar waar in ministeriële regelingen bedragen zijn vastgesteld voor het jaar 2000, worden deze bedragen vanaf 1 september 2000 geacht te zijn vastgesteld op grond van de wet.
 
-### Hoofdstuk 6a. Kopopleidingen
+### Hoofdstuk 6. Herziening
 
 ##### Artikel 8.1. Intrekking
 
@@ -311,7 +325,7 @@ Vervallen
 
 ### Hoofdstuk 5. Terugbetaling studieschuld
 
-### Hoofdstuk 6. Herziening
+### Hoofdstuk 5. Terugbetaling studieschuld
 
 ### Hoofdstuk 6b. Cohortgarantie studievoorschot hoger onderwijs
 
@@ -656,7 +670,7 @@ Voor de debiteur, bedoeld in [artikel 10a.2, eerste lid, onderdeel b](https://we
 
 ### Hoofdstuk 6b. Cohortgarantie studievoorschot hoger onderwijs
 
-### Hoofdstuk 7. Overgangsbepalingen
+### Hoofdstuk 6a. Kopopleidingen
 
 ##### Artikel 2a.1. Aanvraag, toekenning en betaling levenlanglerenkrediet
 
@@ -816,7 +830,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ### Hoofdstuk 4. Reisvoorziening
 
-### Hoofdstuk 5. Terugbetaling studieschuld
+### Hoofdstuk 4a. Verwerking en beveiliging gegevens over uitreizigers
 
 ### Hoofdstuk 6. Herziening
 
@@ -1280,6 +1294,157 @@ De terugbetalingsperiode van de lening hoger onderwijs en de lening beroepsonder
 ### Hoofdstuk 8. Slotbepalingen
 
 ## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2023-01-01&g=2023-01-01)
+
+| hbo-bachelor | Isatcode | wo-bachelor | Isatcode | Bevoegdheid (leraar vo 2e graads) | Isatcode |
+| --- | --- | --- | --- | --- | --- |
+| Bedrijfseconomie | 34401 | Bedrijfseconomie | 50750 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Accountancy | 34406 | Algemene economie | 50644 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Fiscale economie | 34409 | Economie | 56401 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Fiscaal Recht en Economie | 34140 | Bedrijfskunde | 50645 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Commercieel management4 | 34126 | Economie en Bedrijfseconomie | 50950 | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Management, economie, recht | 34435 |   |   | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+| Bedrijfskunde MER | 34139 |   |   | Leraar bedrijfseconomie1 Leraar economie2 Leraar algemene economie3 | 35203 35207 35202 |
+|   |   | Nederlandse taal en cultuur | 56804/ 06804 | Leraar Nederlands | 35198 |
+|   |   | Engelse taal en cultuur | 56806/ 06806 | Leraar Engels | 35195 |
+|   |   | Duitse taal en cultuur | 56805/ 06805 | Leraar Duits | 35193 |
+|   |   | Franse taal en cultuur | 56808/ 06808 | Leraar Frans | 35196 |
+|   |   | Afstudeerrichting Frans vd opl. Romaanse talen en culturen | 56074 | Leraar Frans | 35196 |
+|   |   | Spaanse taal en cultuur | 56810/ 06810 | Leraar Spaans | 35255 |
+|   |   | Talen en culturen van Latijns Amerika (Spaans) | 56052 | Leraar Spaans | 35255 |
+|   |   | Afstudeerrichting Spaans vd opl. Romaanse talen en culturen | 56074 | Leraar Spaans | 35255 |
+|   |   | Arabische taal en cultuur | 56040 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Arabisch vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Arabisch | 35185 |
+|   |   | Afstudeerrichting Turks vd opl. Arabische, Nieuwperzische en Turkse talen en culturen | 56016 | Leraar Turks | 35186 |
+|   |   | Friese taal en cultuur | 56012 | Leraar Fries | 35144 |
+|   |   | Sociale geografie en planologie | 56838 | Leraar aardrijkskunde | 35201 |
+|   |   | Aardwetenschappen | 56986 | Leraar aardrijkskunde | 35201 |
+|   |   | Aarde en economie | 50668 | Leraar aardrijkskunde | 35201 |
+|   |   | Geschiedenis | 56034 | Leraar geschiedenis | 35197 |
+| Bedrijfswiskunde | 35168 | Wiskunde | 56980 | Leraar wiskunde | 35221 |
+| Technische natuurkunde | 34268 | Natuurkunde | 50206 | Leraar natuurkunde | 35261 |
+|   |   | Natuur- en sterrenkunde | 56984 | Leraar natuurkunde | 35261 |
+|   |   | Technische natuurkunde | 56962 | Leraar natuurkunde | 35261 |
+|   |   | Medische natuurwetenschappen | 50800 | Leraar natuurkunde | 35261 |
+| Werktuigbouwkunde | 34280 | Industrieel ontwerpen | 56955 | Leraar techniek | 35254 |
+| Industrieel product ontwerpen | 34389 | Industrial design | 50441 | Leraar techniek | 35254 |
+| Chemie | 34396/ 04186 | Scheikunde | 56857/ 06857 | Leraar scheikunde | 35199 |
+| Applied science met scheikunde | 30008 | Life science and technology | 56286 | Leraar scheikunde | 35199 |
+| Chemische technologie | 34275 | Scheikundige technologie | 56960 | Leraar scheikunde | 35199 |
+|   |   | Molecular science technology | 59308 | Leraar scheikunde | 35199 |
+|   |   | Biomedische technologie | 56226 | Leraar scheikunde | 35199 |
+|   |   | Farmaceutische wetenschappen | 56989 | Leraar scheikunde | 35199 |
+|   |   | Moleculaire levenswetenschappen | 59304 | Leraar scheikunde | 35199 |
+|   |   | Biomedische wetenschappen (alleen met uitstroomprofiel Moleculaire levenswetenschappen) | 56990 | Leraar scheikunde | 35199 |
+| Toegepaste Biologie | 30009 | Biologie | 56860 | Leraar biologie | 35301 |
+| Opleiding tot Verpleegkunde | 34560 |   |   | Leraar vo 2e gr Gezondheidszorg & Welzijn5 | 35388 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar werktuigbouw I en II | 35387 |
+| Werktuigbouwkunde | 34280 | Werktuigbouwkunde | 56966/ 06966 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar Technisch Beroepsonderwijs | 35210 |
+| AutoTechniek | 34262 | Bouwkunde | 56951 | Leraar Technisch Beroepsonderwijs | 35210 |
+| Bouwkunde | 34263 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Automotive | 30018 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Mechatronica | 30026 |   |   | Leraar Technisch Beroepsonderwijs | 35210 |
+| Civiele Techniek | 34279 | Civiele Techniek | 56952 | Leraar Technisch Beroepsonderwijs | 35210 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatiekunde | 56842 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Technische informatica | 56964 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Informatica | 56978 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Technisch Beroepsonderwijs6 | 35210 |
+| Elektrotechniek | 34267 | Elektrotechniek | 56953 | Leraar elektrotechniek I en II | 35384 |
+| AOT-techniek | 34386 |   |   | Leraar elektrotechniek I en II | 35384 |
+| Automotive | 30018 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Autotechniek | 34262 |   |   | Leraar motorvoertuigentechniek I en II | 35386 |
+| Bouwkunde | 34263 | Bouwkunde | 56951 | Leraar bouwkunde I en II | 35382 |
+| Bouwkunde | 34263 |   |   | Leraar Mens en technologie7 | 35208 |
+| HBO-ICT | 30020 | Data Science and Knowledge Engineering | 50300 | Leraar Mens en technologie8 | 35208 |
+| Technische informatica | 34475 | Computer Science | 50426 | Leraar Mens en technologie8 | 35208 |
+| Informatica | 34479 | Bedrijfsinformatie-technologie (Business & IT) | 56066 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatiekunde | 56842 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatie, multimedia en management | 56869 | Leraar Mens en technologie8 | 35208 |
+|   |   | Technische informatica | 56964 | Leraar Mens en technologie8 | 35208 |
+|   |   | Informatica | 56978 | Leraar Mens en technologie8 | 35208 |
+|   |   | Kunstmatige Intelligentie | 56981 | Leraar Mens en technologie8 | 35208 |
+|   |   | Lifestyle Informatics | 56983 | Leraar Mens en technologie8 | 35208 |
+| Technische informatica | 34475 |   |   | Leraar ICT/leraar informatica | 39116 |
+| HBO-ICT | 30020 |   |   | Leraar ICT/leraar informatica | 39116 |
+| Theologie of Godsdienst Pastoraal werk (GPW) | 35146 | Theologie | 56109 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie klassiek | 50021 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Theologie plus | 50022 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godgeleerdheid | 56100 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 56104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Wereldgodsdiensten | 50202 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religie en levensbeschouwing | 56114 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Religiestudies | 50902 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Islamstudies | 56120 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Godsdienstwetenschap | 66104 | Leraar godsdienst/levensbeschouwing | 35441 |
+|   |   | Politicologie | 56606 | Leraar maatschappijleer | 35411 |
+|   |   | Sociologie | 56601 | Leraar maatschappijleer | 35411 |
+|   |   | Algemene sociale wetenschappen | 56631 | Leraar maatschappijleer | 35411 |
+|   |   | Bestuurskunde | 56627 | Leraar maatschappijleer | 35411 |
+| Pedagogiek | 35158 | Pedagogische wetenschappen | 56607 | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 |   |   | Leraar pedagogiek | 35204 |
+| Social Work9 | 34116 |   |   | Leraar pedagogiek | 35204 |
+| Sociaal pedagogische hulpverlening | 34617 | Pedagogische wetenschappen | 56607 | Leraar omgangskunde | 35421 |
+| Social Work | 34116 |   |   | Leraar omgangskunde | 35421 |
+| Maatschappelijk werk en dienstverlening | 34616 | Psychologie | 56604 | Leraar omgangskunde | 35421 |
+| Cultureel maatschappelijke vorming | 34610 |   |   | Leraar omgangskunde | 35421 |
+| Creatieve therapie | 34644 |   |   | Leraar omgangskunde | 35421 |
+| Pedagogiek | 35158 |   |   | Leraar omgangskunde | 35421 |
+| Toegepaste psychologie | 34507/ 81006 |   |   | Leraar omgangskunde | 35421 |
+| Human Resource Management | 34609 |   |   | Leraar omgangskunde | 35421 |
+
+1 Afhankelijk van het vakkenpakket
+
+2 Afhankelijk van het vakkenpakket
+
+3 Afhankelijk van het vakkenpakket
+
+4 Alleen met het uitstroomprofiel Commerciële Economie
+
+5 Deze kopopleiding kent ook een vakinhoudelijke invulling
+
+6 Alleen voor het uitstroomprofiel Informatietechnologie
+
+7 Alleen voor het uitstroomprofiel Bouwkunde
+
+8 Alleen voor het uitstroomprofiel Informatietechnologie
+
+9 Alleen met de specialisatie Jeugd
+
+| hbo-bachelor (alleen van het Hoger Agrarische Onderwijs) |   | wo-bachelor (alleen van de Wageningen Universiteit) |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+| Plattelandsvernieuwing | 34859 | Dierwetenschappen | 56849 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuinbouw en akkerbouw | 34868 | Levensmiddelentechnologie | 56973 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Dier- en veehouderij | 34869 | Voeding en gezondheid | 56868 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Diermanagement | 34333 | Landschapsarchitectuur en ruimtelijke planning | 56848 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Voedingsmiddelentechnologie | 34856 | Bos- en natuurbeheer | 56219 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Fooddesign en innovatie | 34122 | Agrotechnologie | 56831 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Tuin- en landschapsinrichting | 34220 | Milieuwetenschappen | 56283 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| International Development Management | 34203 | Plantenwetenschappen | 56835 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bedrijfskunde en agribusiness | 34866 | Plant/Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Bos- en natuurbeheer | 34221 | Biotechnologie | 56841 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Milieukunde | 34284 | Biologie | 56860 | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Biotechnologie | 34331 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Land- en Watermanagement | 34226 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Kust- en Zeemanagement | 39204 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Toegepaste Biologie | 30009 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Food Commerce & Technology | 30022 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Greenport Business and Retail | 30024 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+| Landscape and Environment Management | 30028 |   |   | Leraar educatie en kennismanagement voor de groene sector | 34899 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschappen en bij de IB-Groep.
+
+### Hoofdstuk 6b. Cohortgarantie studievoorschot hoger onderwijs
+
+### Hoofdstuk 7. Overgangsbepalingen
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&hoofdstuk=6a&artikel=6a.1&z=2023-04-01&g=2023-04-01)
 
 | hbo-bachelor | Isatcode | wo-bachelor | Isatcode | Bevoegdheid (leraar vo 2e graads) | Isatcode |
 | --- | --- | --- | --- | --- | --- |
