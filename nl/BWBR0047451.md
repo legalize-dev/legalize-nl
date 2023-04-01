@@ -4,7 +4,7 @@ identifier: "BWBR0047451"
 country: "nl"
 rank: "wet"
 publication_date: "2023-04-01"
-last_updated: "2023-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047451"
 soort: "wet"
@@ -66,8 +66,6 @@ Wijzigt de Kieswet.
 ##### Artikel Vb
 
 Wijzigt de Wet open Overheid.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
