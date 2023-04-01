@@ -4,7 +4,7 @@ identifier: "BWBR0045574"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2023-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045574"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ De Minister verleent vrijstelling, bedoeld in [artikel 4, eerste lid, onderdeel 
 
 ##### Artikel 2.2. Tijdelijke vrijstelling van de inburgeringsplicht bij volgen opleiding
 
-De Minister verleent vrijstelling, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=4), aan de inburgeringsplichtige die een opleiding volgt die leidt tot uitreiking van een van de bewijsstukken, genoemd in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=1&artikel=2.1&z=2023-01-01&g=2023-01-01), gedurende de periode dat de inburgeringsplichtige is ingeschreven voor de betreffende opleiding.
+De Minister verleent vrijstelling, bedoeld in [artikel 4, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=4), aan de inburgeringsplichtige die een opleiding volgt die leidt tot uitreiking van een van de bewijsstukken, genoemd in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=1&artikel=2.1&z=2023-04-01&g=2023-04-01), gedurende de periode dat de inburgeringsplichtige is ingeschreven voor de betreffende opleiding.
 
 ##### Artikel 2.3. Aanvraag vrijstelling van de inburgeringsplicht
 
@@ -110,11 +110,11 @@ Als organisaties, bedoeld in [artikel 2.4 van het besluit](https://wetten.overhe
 
 ##### Artikel 2.5. Medische deskundigenverklaring
 
-1. De deskundigenverklaring, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), bevat in ieder geval een advies met betrekking tot het verlenen dan wel het weigeren van de gehele of gedeeltelijke ontheffing van de inburgeringsplicht en, indien van toepassing, een voorstel met betrekking tot de in aanmerking komende aangepaste examenomstandigheden als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-01-01&g=2023-01-01).
+1. De deskundigenverklaring, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), bevat in ieder geval een advies met betrekking tot het verlenen dan wel het weigeren van de gehele of gedeeltelijke ontheffing van de inburgeringsplicht en, indien van toepassing, een voorstel met betrekking tot de in aanmerking komende aangepaste examenomstandigheden als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-04-01&g=2023-04-01).
 
 2. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), adviseert tot gehele of gedeeltelijke ontheffing van de inburgeringsplicht indien de inburgeringsplichtige niet in staat is zich met lichte aanpassingen binnen vijf jaar voor te bereiden op de inburgeringsplicht dan wel op een of meerdere onderdelen daarvan, en dit ook niet mogelijk is door het treffen van aangepaste examenomstandigheden voor een of meerdere onderdelen van het inburgeringsexamen of een of meerdere van de examenonderdelen van de onderwijsroute als bedoeld in artikel 2.7, derde lid, onderdeel b, van het besluit.
 
-3. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), stelt de deskundigenverklaring op conform het protocol dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=1&z=2023-01-01&g=2023-01-01) bij deze regeling.
+3. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), stelt de deskundigenverklaring op conform het protocol dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=1&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 ##### Artikel 2.6. Ontheffing bijzondere individuele omstandigheden
 
@@ -128,13 +128,13 @@ Als organisaties, bedoeld in [artikel 2.4 van het besluit](https://wetten.overhe
 
 2. Indien de bijzondere individuele omstandigheden bestaan uit medische omstandigheden, verstrekt de inburgeringsplichtige, of, indien van toepassing, diens gezinslid of bloedverwant in de eerste graad, bij de aanvraag een medische machtiging.
 
-3. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), stelt een advies op over de medische omstandigheden, bedoeld in het tweede lid, conform het protocol dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=1&z=2023-01-01&g=2023-01-01) bij deze regeling.
+3. De arts, bedoeld in [artikel 2.7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7), stelt een advies op over de medische omstandigheden, bedoeld in het tweede lid, conform het protocol dat is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=1&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 ##### Artikel 2.7. Tarieven ontheffing
 
-1. Voor het onderzoek ten behoeve van het opstellen van een deskundigenverklaring als bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01), is door de inburgeringsplichtige een bedrag verschuldigd van € 225.
+1. Voor het onderzoek ten behoeve van het opstellen van een deskundigenverklaring als bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-04-01&g=2023-04-01), is door de inburgeringsplichtige een bedrag verschuldigd van € 225.
 
-2. Het bedrag, bedoeld in het eerste lid, wordt aan de inburgeringsplichtige terugbetaald indien in de deskundigenverklaring, bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01), wordt geadviseerd de gevraagde gehele of gedeeltelijke ontheffing van de inburgeringsplicht te verlenen dan wel deze niet te verlenen, maar wel wordt geadviseerd de inburgeringsplichtige de examens onder aangepaste examenomstandigheden af te laten leggen.
+2. Het bedrag, bedoeld in het eerste lid, wordt aan de inburgeringsplichtige terugbetaald indien in de deskundigenverklaring, bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-04-01&g=2023-04-01), wordt geadviseerd de gevraagde gehele of gedeeltelijke ontheffing van de inburgeringsplicht te verlenen dan wel deze niet te verlenen, maar wel wordt geadviseerd de inburgeringsplichtige de examens onder aangepaste examenomstandigheden af te laten leggen.
 
 ### Hoofdstuk 3. De inburgeringsplicht
 
@@ -150,7 +150,7 @@ Ten minste 40 uren van de module Arbeidsmarkt en Participatie zijn gericht op de
 
 ##### Artikel 3.2. Eindtermen kennis van de Nederlandse maatschappij
 
-De te behalen eindtermen van het examenonderdeel kennis van de Nederlandse maatschappij, bedoeld in [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.4), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=2&z=2023-01-01&g=2023-01-01) bij deze regeling.
+De te behalen eindtermen van het examenonderdeel kennis van de Nederlandse maatschappij, bedoeld in [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.4), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=2&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 ##### Artikel 3.3. Auteursrecht
 
@@ -210,13 +210,13 @@ De aangepaste examenomstandigheden, bedoeld in [artikel 3.9, eerste lid, van het
 
 ##### Artikel 3.8. Beoordelen van het examen
 
-1. De examenonderdelen leesvaardigheid en luistervaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 worden beoordeeld door de Minister door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2023-01-01&g=2023-01-01).
+1. De examenonderdelen leesvaardigheid en luistervaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 worden beoordeeld door de Minister door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2023-04-01&g=2023-04-01).
 
-2. Het examenonderdeel spreekvaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 wordt voor wat betreft de antwoorden op de meerkeuzevragen beoordeeld door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2023-01-01&g=2023-01-01), en voor de antwoorden op de open vragen door een of meer door de Minister aan te wijzen beoordelaars.
+2. Het examenonderdeel spreekvaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 wordt voor wat betreft de antwoorden op de meerkeuzevragen beoordeeld door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2023-04-01&g=2023-04-01), en voor de antwoorden op de open vragen door een of meer door de Minister aan te wijzen beoordelaars.
 
 3. Het examenonderdeel schrijfvaardigheid, bedoeld in [artikel 3.3, aanhef en onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.3), op het niveau A2 wordt beoordeeld door een of meer door de Minister aan te wijzen beoordelaars.
 
-4. Het examenonderdeel kennis van de Nederlandse maatschappij, bedoeld in [artikel 3.5, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.5), wordt door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2023-01-01&g=2023-01-01), beoordeeld.
+4. Het examenonderdeel kennis van de Nederlandse maatschappij, bedoeld in [artikel 3.5, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.5), wordt door middel van het geautomatiseerd systeem, bedoeld in [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.7&z=2023-04-01&g=2023-04-01), beoordeeld.
 
 #### § 4. Training voor beoordelaars
 
@@ -250,11 +250,11 @@ De aangepaste examenomstandigheden, bedoeld in [artikel 3.9, eerste lid, van het
 
 - f. het beschrijven van de procedure die wordt gevolgd bij een vermoeden van onregelmatigheden bij het afleggen van de examens en het omschrijven van de sancties die getroffen kunnen worden indien sprake is van onregelmatigheden.
 
-4. Om tot de examens, bedoeld in [artikel 3.5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.5), te worden toegelaten is de kandidaat verplicht in te stemmen met de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=3&z=2023-01-01&g=2023-01-01) bij deze regeling opgenomen geheimhoudingsverklaring ten aanzien van de inhoud van het examen.
+4. Om tot de examens, bedoeld in [artikel 3.5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.5), te worden toegelaten is de kandidaat verplicht in te stemmen met de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=3&z=2023-04-01&g=2023-04-01) bij deze regeling opgenomen geheimhoudingsverklaring ten aanzien van de inhoud van het examen.
 
 ##### Artikel 3.11. Examenreglement
 
-In het examenreglement, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-01-01&g=2023-01-01), wordt in ieder geval vermeld:
+In het examenreglement, bedoeld in [artikel 3.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-04-01&g=2023-04-01), wordt in ieder geval vermeld:
 
 - a. de procedure van aanmelding en identificatie van de inburgeringsplichtige;
 
@@ -328,11 +328,11 @@ Als organisaties, bedoeld in [artikel 3.13 van het besluit](https://wetten.overh
 
 ##### Artikel 3.17. Het inburgeringsdiploma
 
-Het model van het inburgeringsdiploma is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=4&z=2023-01-01&g=2023-01-01) bij deze regeling.
+Het model van het inburgeringsdiploma is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=4&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 ##### Artikel 3.18. Het inburgeringscertificaat
 
-1. Het model van het inburgeringscertificaat is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=5&z=2023-01-01&g=2023-01-01) bij deze regeling.
+1. Het model van het inburgeringscertificaat is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=5&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 2. Het college overhandigt het inburgeringscertificaat persoonlijk aan de inburgeringsplichtige.
 
@@ -432,7 +432,7 @@ Als organisatie, bedoeld in [artikel 14, vijfde lid, van de wet](https://wetten.
 
 ##### Artikel 6.1. Hoogte van de lening
 
-1. Van het bedrag van de lening, bedoeld in [artikel 6.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.2) wordt twee maal de vastgestelde draagkracht, als vastgesteld op grond van [artikel 6.8, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01), afgetrokken.
+1. Van het bedrag van de lening, bedoeld in [artikel 6.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.2) wordt twee maal de vastgestelde draagkracht, als vastgesteld op grond van [artikel 6.8, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-04-01&g=2023-04-01), afgetrokken.
 
 2. Indien het bedrag van de lening minder dan € 180 bedraagt, wordt dit op nul gesteld.
 
@@ -482,15 +482,15 @@ Als organisatie, bedoeld in [artikel 14, vijfde lid, van de wet](https://wetten.
 
 ##### Artikel 6.5. Berekening maandelijkse termijn
 
-1. De hoogte van de maandelijkse termijn wordt berekend op basis van het bedrag aan opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-01-01&g=2023-01-01) en gedeeld door het aantal te betalen termijnen.
+1. De hoogte van de maandelijkse termijn wordt berekend op basis van het bedrag aan opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-04-01&g=2023-04-01) en gedeeld door het aantal te betalen termijnen.
 
-2. De hoogte van de maandelijkse termijn bedraagt ten minste € 15. Indien de draagkracht overeenkomstig [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01) is vastgesteld op minder dan € 180 per jaar, wordt het maandelijkse termijnbedrag op nul gesteld.
+2. De hoogte van de maandelijkse termijn bedraagt ten minste € 15. Indien de draagkracht overeenkomstig [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-04-01&g=2023-04-01) is vastgesteld op minder dan € 180 per jaar, wordt het maandelijkse termijnbedrag op nul gesteld.
 
 ##### Artikel 6.6. Terugbetaling niet binnenlands belastingplichtige
 
-1. In afwijking van [artikel 6.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.8) vervallen de rente en aflossing van de lening van een debiteur, die niet binnenlands belastingplichtig is in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), gedurende de aflosfase in jaarlijkse termijnen. [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-01-01&g=2023-01-01) is in dat geval van overeenkomstige toepassing. Indien de debiteur zich voor het einde van een jaartermijn metterwoon in Nederland vestigt, wordt hij tot het einde van die jaartermijn behandeld als een debiteur die niet binnenlands belastingplichtig is. Op aanvraag van de in de eerste volzin bedoelde debiteur kan de Minister besluiten dat de rente en aflossing van de lening niet vervallen in jaarlijkse termijnen maar in maandelijkse termijnen.
+1. In afwijking van [artikel 6.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.8) vervallen de rente en aflossing van de lening van een debiteur, die niet binnenlands belastingplichtig is in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), gedurende de aflosfase in jaarlijkse termijnen. [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-04-01&g=2023-04-01) is in dat geval van overeenkomstige toepassing. Indien de debiteur zich voor het einde van een jaartermijn metterwoon in Nederland vestigt, wordt hij tot het einde van die jaartermijn behandeld als een debiteur die niet binnenlands belastingplichtig is. Op aanvraag van de in de eerste volzin bedoelde debiteur kan de Minister besluiten dat de rente en aflossing van de lening niet vervallen in jaarlijkse termijnen maar in maandelijkse termijnen.
 
-2. De hoogte van de jaarlijkse dan wel de maandelijkse termijn, bedoeld in het eerste lid, laatste volzin, wordt berekend overeenkomstig [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.5&z=2023-01-01&g=2023-01-01), tenzij de debiteur, bedoeld in het eerste lid, bij de Minister een aanvraag indient tot vaststelling van zijn draagkracht voor de resterende aflosfase. In dat geval levert hij aan de Minister de door de Minister gevraagde gegevens.
+2. De hoogte van de jaarlijkse dan wel de maandelijkse termijn, bedoeld in het eerste lid, laatste volzin, wordt berekend overeenkomstig [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.5&z=2023-04-01&g=2023-04-01), tenzij de debiteur, bedoeld in het eerste lid, bij de Minister een aanvraag indient tot vaststelling van zijn draagkracht voor de resterende aflosfase. In dat geval levert hij aan de Minister de door de Minister gevraagde gegevens.
 
 3. De betaling van de maandelijkse termijn, bedoeld in het eerste lid, laatste volzin, geschiedt door middel van:
 
@@ -500,7 +500,7 @@ Als organisatie, bedoeld in [artikel 14, vijfde lid, van de wet](https://wetten.
 
 ##### Artikel 6.7. Mogelijkheid eenmalige aflossing
 
-De debiteur kan in afwijking van [artikel 6.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.8) de lening in een keer terugbetalen. De terugbetaling omvat het bedrag van de opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-01-01&g=2023-01-01).
+De debiteur kan in afwijking van [artikel 6.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.8) de lening in een keer terugbetalen. De terugbetaling omvat het bedrag van de opgebouwde schuld vermeerderd met de over dat bedrag verschuldigde rente, berekend overeenkomstig [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-04-01&g=2023-04-01).
 
 ##### Artikel 6.8. Vaststelling draagkracht debiteur
 
@@ -522,7 +522,7 @@ De debiteur kan in afwijking van [artikel 6.8, eerste lid, van het besluit](http
 
 ##### Artikel 6.9. Terugval inkomen
 
-1. Op aanvraag van de debiteur wordt bij de toepassing van [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01) uitgegaan van het inkomen van een ander jaar dan het inkomen over het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, indien sprake is van terugval in inkomen:
+1. Op aanvraag van de debiteur wordt bij de toepassing van [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-04-01&g=2023-04-01) uitgegaan van het inkomen van een ander jaar dan het inkomen over het tweede jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, indien sprake is van terugval in inkomen:
 
 - a. over het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, in welk geval wordt uitgegaan van het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld; of
 
@@ -536,7 +536,7 @@ De debiteur kan in afwijking van [artikel 6.8, eerste lid, van het besluit](http
 
 Indien de partner van de debiteur ook een debiteur is die een beschikking tot terugbetaling als bedoeld in [artikel 6.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.9) heeft ontvangen, wordt:
 
-- a. [artikel 6.8, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01), slechts eenmaal toegepast op het totaal van het toetsingsinkomen; en
+- a. [artikel 6.8, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-04-01&g=2023-04-01), slechts eenmaal toegepast op het totaal van het toetsingsinkomen; en
 
 - b. bij toepassing van [artikel 6.11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=6.11) de te betalen maandelijkse termijn per debiteur vastgesteld op basis van de verhouding tussen de hoogte van het toetsingsinkomen van beide debiteuren afzonderlijk.
 
@@ -566,7 +566,7 @@ Bij uitvaardiging van het dwangbevel, bedoeld in [artikel 21, vierde lid, van de
 
 - c. het aantal onderdelen van het inburgeringsexamen dat de inburgeringsplichtige heeft behaald.
 
-2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6a&z=2023-01-01&g=2023-01-01) bij deze regeling.
+2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6a&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 ##### Artikel 7.2. Boete bij niet tijdig afronden onderwijsroute
 
@@ -578,7 +578,7 @@ Bij uitvaardiging van het dwangbevel, bedoeld in [artikel 21, vierde lid, van de
 
 - c. het aantal examenonderdelen, bedoeld in onderdeel b, dat de inburgeringsplichtige heeft behaald.
 
-2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6b&z=2023-01-01&g=2023-01-01) bij deze regeling.
+2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6b&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 ##### Artikel 7.3. Boete bij niet tijdig afronden zelfredzaamheidsroute
 
@@ -588,7 +588,7 @@ Bij uitvaardiging van het dwangbevel, bedoeld in [artikel 21, vierde lid, van de
 
 - b. het aantal uren dat de asielstatushouder heeft besteed aan activiteiten gericht op participatie.
 
-2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6c&z=2023-01-01&g=2023-01-01) bij deze regeling.
+2. De hoogte van de boete wordt vastgesteld aan de hand van de boetetabel zoals opgenomen in [bijlage 6c](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=6c&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 ### Afdeling 2. Vaststellen nieuwe termijn
 
@@ -696,9 +696,9 @@ Ten aanzien van de eisen die zien op de bedrijfsvoering, bedoeld in [artikel 8.2
 
 ##### Artikel 9.1. Gegevensverstrekking ten behoeve van statistiek, monitoring en evaluatie
 
-1. Ten behoeve van de uitvoering van de taak, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=39), verstrekken de Minister van Justitie en Veiligheid, het college, de Stichting Nuffic, de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven en het COA de gegevens, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=7&z=2023-01-01&g=2023-01-01) behorend bij deze regeling, door tussenkomst van het Centraal Bureau voor de Statistiek aan de Minister, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze en frequentie.
+1. Ten behoeve van de uitvoering van de taak, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=39), verstrekken de Minister van Justitie en Veiligheid, het college, de Stichting Nuffic, de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven en het COA de gegevens, bedoeld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=7&z=2023-04-01&g=2023-04-01) behorend bij deze regeling, door tussenkomst van het Centraal Bureau voor de Statistiek aan de Minister, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze en frequentie.
 
-2. Ten behoeve van de uitvoering van de taak, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=39), verstrekt de Minister de gegevens, bedoeld [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=7&z=2023-01-01&g=2023-01-01) behorend bij deze regeling, aan het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze en frequentie.
+2. Ten behoeve van de uitvoering van de taak, bedoeld in [artikel 39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=39), verstrekt de Minister de gegevens, bedoeld [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&bijlage=7&z=2023-04-01&g=2023-04-01) behorend bij deze regeling, aan het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze en frequentie.
 
 3. De Minister ontvangt ten behoeve van monitoring en evaluatie van het CBS in ieder geval gegevens op geaggregeerd niveau over:
 
@@ -742,7 +742,7 @@ Wijzigt de Regeling inburgering.
 
 ##### Artikel 12.1. Overgangsrecht [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959)
 
-[Artikel 9a van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9a), zoals dat luidde voor de inwerkingtreding van [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=11&artikel=11.1&z=2023-01-01&g=2023-01-01) van de Regeling inburgering 2021, blijft van toepassing op de personen op wie de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) van toepassing was op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770).
+[Artikel 9a van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959&artikel=9a), zoals dat luidde voor de inwerkingtreding van [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=11&artikel=11.1&z=2023-04-01&g=2023-04-01) van de Regeling inburgering 2021, blijft van toepassing op de personen op wie de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) van toepassing was op de dag voorafgaand aan de inwerkingtreding van de [Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770).
 
 ##### Artikel 12.2. Intrekken [Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657)
 
@@ -806,7 +806,7 @@ Betrokkene dient hiertoe een aanvraag in bij DUO en wordt opgeroepen door de ona
 
 Uitkomst op basis van medisch onderzoek bij een aanvraag onder 1 (ontheffing) kan ook zijn dat geen ontheffing wordt verleend, omdat dat examens wel kunnen worden afgelegd met aangepaste examenomstandigheden.
 
-De regels rond medische ontheffing zijn nader uitgewerkt in het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555) ([Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7)) en de Regeling inburgering ([Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2023-01-01&g=2023-01-01)). De artikelen uit Besluit en Regeling zijn in dit protocol opgenomen onder paragraaf 1.4 en 1.5. Indien iemand door medische omstandigheden in het geheel niet kan voldoen aan het leren van de taal en aan de MAP of het PVT, zal een gehele ontheffing van de inburgeringsplicht volgen.
+De regels rond medische ontheffing zijn nader uitgewerkt in het [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555) ([Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.7)) en de Regeling inburgering ([Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-04-01&g=2023-04-01) en [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2023-04-01&g=2023-04-01)). De artikelen uit Besluit en Regeling zijn in dit protocol opgenomen onder paragraaf 1.4 en 1.5. Indien iemand door medische omstandigheden in het geheel niet kan voldoen aan het leren van de taal en aan de MAP of het PVT, zal een gehele ontheffing van de inburgeringsplicht volgen.
 
 Gedeeltelijke ontheffing kan worden verleend indien een inburgeringsplichtig door zijn beperking of belemmering niet in staat is om aan bepaalde onderdelen van de leerroute te voldoen. Het kan gaan om twee varianten:
 
@@ -900,7 +900,7 @@ In [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afd
 
 - 7. **Bij ministeriële regeling worden regels gesteld omtrent de omstandigheden waaronder de kosten van de deskundigenverklaring, bedoeld in het eerste lid, worden vergoed aan de inburgeringsplichtige.**
 
-In [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01) (Medische deskundigenverklaring) en [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2023-01-01&g=2023-01-01) (Tarieven ontheffing) van de **Regeling inburgering 2021**staat:
+In [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-04-01&g=2023-04-01) (Medische deskundigenverklaring) en [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2023-04-01&g=2023-04-01) (Tarieven ontheffing) van de **Regeling inburgering 2021**staat:
 
 ### 1.5. Wettelijk kader aangepaste examenomstandigheden
 
@@ -1429,7 +1429,7 @@ Spreekvaardigheid niveau A2
 |   | [certificaatnummer, ISI] |
 | Doorhalingen en/of wijzigingen maken dit certificaat ongeldig | Doorhalingen en/of wijzigingen maken dit certificaat ongeldig |
 
-## Bijlage 4. Model inburgeringsdiploma als bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.17&z=2023-01-01&g=2023-01-01)
+## Bijlage 4. Model inburgeringsdiploma als bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.17&z=2023-04-01&g=2023-04-01)
 
 **Inburgeringsdiploma**
 
@@ -1475,7 +1475,7 @@ Module Arbeidsmarkt en Participatie
 |   | Diplomanummer: **(unieke klantsleutel alleen bekend in ISI)** |
 | Doorhalingen en/of wijzigingen maken dit diploma ongeldig. | Doorhalingen en/of wijzigingen maken dit diploma ongeldig. |
 
-## Bijlage 5. Model inburgeringscertificaat als bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.18&z=2023-01-01&g=2023-01-01)
+## Bijlage 5. Model inburgeringscertificaat als bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.18&z=2023-04-01&g=2023-04-01)
 
 [voor- en achternaam]
 
@@ -1532,7 +1532,7 @@ Spreekvaardigheid niveau A2
 |   | [certificaatnummer, ISI] |
 | Doorhalingen en/of wijzigingen maken dit certificaat ongeldig | Doorhalingen en/of wijzigingen maken dit certificaat ongeldig |
 
-## Bijlage 6a. Tabel als bedoeld in [artikel 7.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.1&z=2023-01-01&g=2023-01-01) (boete bij niet tijdig afronden b1-route)
+## Bijlage 6a. Tabel als bedoeld in [artikel 7.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.1&z=2023-04-01&g=2023-04-01) (boete bij niet tijdig afronden b1-route)
 
 |   |   | **Gevolgde uren cursus Nederlands als tweede taal en KNM** | **Gevolgde uren cursus Nederlands als tweede taal en KNM** | **Gevolgde uren cursus Nederlands als tweede taal en KNM** |
 | --- | --- | --- | --- | --- |
@@ -1556,7 +1556,7 @@ De Minister van Sociale Zaken en Werkgelegenheid matigt zowel voor asielstatusho
 | 3 behaalde examenonderdelen | 60% matiging van de boete |
 | 4 behaalde examenonderdelen | 80% matiging van de boete |
 
-## Bijlage 6b. Tabel als bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.2&z=2023-01-01&g=2023-01-01) (boete bij niet tijdig afronden onderwijsroute)
+## Bijlage 6b. Tabel als bedoeld in [artikel 7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.2&z=2023-04-01&g=2023-04-01) (boete bij niet tijdig afronden onderwijsroute)
 
 |   |   | **Aanwezigheid bij (taal)lessen binnen de onderwijsroute** | **Aanwezigheid bij (taal)lessen binnen de onderwijsroute** | **Aanwezigheid bij (taal)lessen binnen de onderwijsroute** |
 | --- | --- | --- | --- | --- |
@@ -1646,13 +1646,15 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ##### Artikel 12.2a. Overgangsrecht Regeling inburgering
 
-1. De minister verleent de ontheffing, bedoeld in [artikel 2.8b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.8b), in afwijking van [artikel 2.4b van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4b), eveneens overeenkomstig het eerste tot en met het vierde lid. Dit gebeurt indien degene die inburgeringsplichtige is onder de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) binnen twee jaar voorafgaand aan het moment van aanvraag ten minste 600 uur Nederlandse taal en kennis van de Nederlandse samenleving, bedoeld in [artikel 7, tweede lid, onderdelen b en c, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), heeft gevolgd aan een opleiding als bedoeld in het tweede lid, onderdelen a tot en met c, al dan niet in combinatie met uren gevolgd bij een cursusinstelling met het Blik op Werk-keurmerk, en:
+1. In [artikel 2.4b, onderdeel a, van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4b) wordt ‘ten minste viermaal heeft deelgenomen’ gelezen als ‘tenminste driemaal heeft deelgenomen’.
+
+2. De minister verleent de ontheffing, bedoeld in [artikel 2.8b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.8b), in afwijking van [artikel 2.4b van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4b), eveneens overeenkomstig het tweede tot en met het vijfde lid. Dit gebeurt indien degene die inburgeringsplichtige is onder de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) binnen twee jaar voorafgaand aan het moment van aanvraag ten minste 600 uur Nederlandse taal en kennis van de Nederlandse samenleving, bedoeld in [artikel 7, tweede lid, onderdelen b en c, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), heeft gevolgd aan een opleiding als bedoeld in het tweede lid, onderdelen a tot en met c, al dan niet in combinatie met uren gevolgd bij een cursusinstelling met het Blik op Werk-keurmerk, en:
 
 - a. uit een bij DUO afgelegde leerbaarheidstoets blijkt dat betrokkene niet het leervermogen heeft om het inburgeringsexamen, bedoeld in [artikel 7, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), te halen; of
 
-- b. ten minste viermaal heeft deelgenomen aan de niet behaalde onderdelen van het inburgeringsexamen.
+- b. ten minste driemaal heeft deelgenomen aan de niet behaalde onderdelen van het inburgeringsexamen.
 
-2. De inburgeringsplichtige, bedoeld in het eerste lid, volgt op het moment van het bereiken van de achttienjarige leeftijd geen opleiding als bedoeld in [artikel 5, eerste lid, onderdeel e, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5) en volgt of heeft een onderwijssoort gevolgd die behoort tot in ieder geval de volgende onderwijssoorten:
+3. De inburgeringsplichtige, bedoeld in het tweede lid, volgt op het moment van het bereiken van de achttienjarige leeftijd geen opleiding als bedoeld in [artikel 5, eerste lid, onderdeel e, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5) en volgt of heeft een onderwijssoort gevolgd die behoort tot in ieder geval de volgende onderwijssoorten:
 
 - a. het voortgezet speciaal onderwijs, bedoeld in [artikel 8, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), in het arbeidsmarktgerichte uitstroomprofiel of het uitstroomprofiel dagbesteding, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14);
 
@@ -1660,15 +1662,15 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 - c. onderwijs in het kader van de eerste opvang voor nieuwkomers, bedoeld in de Regeling aanvullende bekostiging eerste opvang nieuwkomers vo, gericht op het voortgezet speciaal onderwijs als bedoeld onder a, het praktijkonderwijs als bedoeld onder b, werk of inburgering.
 
-3. In bijzondere omstandigheden kan ten gunste van de inburgeringsplichtige worden afgeweken van de voorwaarden, bedoeld in het eerste en het tweede lid.
+4. In bijzondere omstandigheden kan ten gunste van de inburgeringsplichtige worden afgeweken van de voorwaarden, bedoeld in het tweede en derde lid.
 
-4. De aanvraag tot ontheffing, bedoeld in het eerste lid, kan eerder worden ingediend dan zes maanden voor het verstrijken van de voor de inburgeringsplichtige geldende termijn.
+5. De aanvraag tot ontheffing, bedoeld in het tweede lid, kan eerder worden ingediend dan zes maanden voor het verstrijken van de voor de inburgeringsplichtige geldende termijn.
 
-5. De verlenging, bedoeld in [artikel 2.4c, van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4c), wordt in afwijking van dat artikel eveneens verleend, indien de inburgeringsplichtige één maal heeft deelgenomen aan het onderdeel oriëntatie op de Nederlandse arbeidsmarkt, bedoeld in [artikel 2.10, eerste lid, onderdeel b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.10), en voor het overige voldoet aan de voorwaarden, genoemd in artikel 2.4c, van de Regeling inburgering.
+6. De verlenging, bedoeld in [artikel 2.4c, van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4c), wordt in afwijking van dat artikel eveneens verleend, indien de inburgeringsplichtige één maal heeft deelgenomen aan het onderdeel oriëntatie op de Nederlandse arbeidsmarkt, bedoeld in [artikel 2.10, eerste lid, onderdeel b, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.10), en voor het overige voldoet aan de voorwaarden, genoemd in artikel 2.4c, van de Regeling inburgering.
 
-6. De [artikelen 4.9, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.9), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.10) en [4.11 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.11) zijn van overeenkomstige toepassing op de ambtshalve draagkrachttoets, bedoeld in [artikel 12.1a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=12.1a). Indien de toepassing van artikel 12.1a, tweede lid, leidt tot een lagere vaststelling als bedoeld in dat artikel, wordt de draagkrachttoets steeds jaarlijks herhaald, tenzij er geen sprake meer is van een lagere vaststelling.
+7. De [artikelen 4.9, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.9), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.10) en [4.11 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.11) zijn van overeenkomstige toepassing op de ambtshalve draagkrachttoets, bedoeld in [artikel 12.1a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=12.1a). Indien de toepassing van artikel 12.1a, tweede lid, leidt tot een lagere vaststelling als bedoeld in dat artikel, wordt de draagkrachttoets steeds jaarlijks herhaald, tenzij er geen sprake meer is van een lagere vaststelling.
 
-7. Het percentage van de lening, bedoeld in [artikel 12.1a., derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=12.1a), bedraagt:
+8. Het percentage van de lening, bedoeld in [artikel 12.1a., derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=12.1a), bedraagt:
 
 - a. 75%, indien de inburgeringsplichtige, bedoeld in dat artikel, dit percentage van diens lening heeft verbruikt in het jaar voor het verstrijken van de voor die inburgeringsplichtige geldende termijn;
 
@@ -1690,7 +1692,7 @@ In onderstaande tabel staat vermeld hoe de eisen zich verhouden tot de mogelijkh
 
 ### 1.3. Advisering
 
-Een overzicht van mogelijke aangepaste examenomstandigheden is hiertoe in de Regeling inburgering 2021 opgenomen. Dit overzicht is, in tegenstelling tot de lijst in [artikel 3.2 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.2) (oud), niet limitatief. Doordat er onder de vorige [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) geen gedeeltelijke ontheffing mogelijk was, zijn veel mensen met bijvoorbeeld een auditieve of visuele beperking (geheel) ontheven van de inburgeringsplicht en waren er geen aangepaste examens nodig voor mensen die volledig doof of blind zijn. Onder de huidige [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) zal gekeken moeten worden aan welke aangepaste examens behoefte is in aanvulling op de al beschikbare aanpassingen. De mogelijkheden tot aangepaste examenomstandigheden verschillen bovendien voor de taalexamens op niveau A2 en voor de Staatsexamens Nt2 (niveau B1 en B2). Niet alle aanpassingen zijn op elk niveau beschikbaar. Mocht iemand op advies van de medisch deskundige met een aanpassing die niet is opgenomen in de lijst met aangepaste examenomstandigheden ([artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-01-01&g=2023-01-01) van deze regeling) toch examens kunnen afleggen, dan wordt in overleg met DUO en indien nodig met het Ministerie van SZW gekeken of de aanpassing kan worden gerealiseerd. DUO overlegt periodiek met de aangewezen arts. Signalen hierover kunnen in dat kader worden besproken.
+Een overzicht van mogelijke aangepaste examenomstandigheden is hiertoe in de Regeling inburgering 2021 opgenomen. Dit overzicht is, in tegenstelling tot de lijst in [artikel 3.2 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.2) (oud), niet limitatief. Doordat er onder de vorige [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) geen gedeeltelijke ontheffing mogelijk was, zijn veel mensen met bijvoorbeeld een auditieve of visuele beperking (geheel) ontheven van de inburgeringsplicht en waren er geen aangepaste examens nodig voor mensen die volledig doof of blind zijn. Onder de huidige [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770) zal gekeken moeten worden aan welke aangepaste examens behoefte is in aanvulling op de al beschikbare aanpassingen. De mogelijkheden tot aangepaste examenomstandigheden verschillen bovendien voor de taalexamens op niveau A2 en voor de Staatsexamens Nt2 (niveau B1 en B2). Niet alle aanpassingen zijn op elk niveau beschikbaar. Mocht iemand op advies van de medisch deskundige met een aanpassing die niet is opgenomen in de lijst met aangepaste examenomstandigheden ([artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-04-01&g=2023-04-01) van deze regeling) toch examens kunnen afleggen, dan wordt in overleg met DUO en indien nodig met het Ministerie van SZW gekeken of de aanpassing kan worden gerealiseerd. DUO overlegt periodiek met de aangewezen arts. Signalen hierover kunnen in dat kader worden besproken.
 
 ### 1.4. Wettelijk kader ontheffing en gedeeltelijke ontheffing
 
@@ -1936,7 +1938,7 @@ De inburgeraar kent het Nederlandse onderwijssysteem en onderkent het belang van
 
 Datum:
 
-## Bijlage 6c. Tabel als bedoeld in [artikel 7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.3&z=2023-01-01&g=2023-01-01) (boete bij niet tijdig afronden z-route)
+## Bijlage 6c. Tabel als bedoeld in [artikel 7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=7&afdeling=1&artikel=7.3&z=2023-04-01&g=2023-04-01) (boete bij niet tijdig afronden z-route)
 
 |   |   | **Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹** | **Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹** | **Gevolgde cursusuren Nederlands als tweede taal, inclusief alfabetiseringsonderwijs, en KNM¹** |
 | --- | --- | --- | --- | --- |
@@ -2077,7 +2079,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
-## Bijlage 1. Protocol medische deskundigenverklaring, als bedoeld in [artikel 2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.6&z=2023-01-01&g=2023-01-01)
+## Bijlage 1. Protocol medische deskundigenverklaring, als bedoeld in [artikel 2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.6&z=2023-04-01&g=2023-04-01)
 
 ### Voorwoord
 
@@ -2123,7 +2125,7 @@ In [artikel 3.9 van het Besluit inburgering 2021](https://wetten.overheid.nl/jci
 
 - 5. **Bij ministeriële regeling worden regels gesteld over de toepassing van dit artikel.**
 
-In [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-01-01&g=2023-01-01) van de **Regeling inburgering 2021** staat:
+In [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-04-01&g=2023-04-01) van de **Regeling inburgering 2021** staat:
 
 **De aangepaste examenomstandigheden, bedoeld in artikel 3.9, eerste lid, van het besluit, betreffen in ieder geval:**
 
@@ -2175,7 +2177,7 @@ De verantwoordelijkheid voor de ontwikkeling en uitvoering van de Staatsexamens 
 
 ¹ Of handtekening wettelijk vertegenwoordiger (indien van toepassing)
 
-## Bijlage 2. Eindtermen kennis van de nederlandse maatschappij als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2023-01-01&g=2023-01-01)
+## Bijlage 2. Eindtermen kennis van de nederlandse maatschappij als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2023-04-01&g=2023-04-01)
 
 ### Voorwoord
 
@@ -2203,13 +2205,13 @@ De inburgeraar is in staat om, door de staatsinrichting van Nederland te kennen,
 
 **Cruciale handelingen**
 
-## Bijlage 3. Geheimhoudingsverklaring inburgeringsexamen als bedoeld in [artikel 3.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-01-01&g=2023-01-01)
+## Bijlage 3. Geheimhoudingsverklaring inburgeringsexamen als bedoeld in [artikel 3.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-04-01&g=2023-04-01)
 
 ### 1. Verklaring met betrekking tot de geheimhoudingsplicht
 
 Handtekening:
 
-## Bijlage 7. Behorend bij [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=9&artikel=9.1&z=2023-01-01&g=2023-01-01) gegevensverstrekking ten behoeve van statistiek, monitoring en evaluatie
+## Bijlage 7. Behorend bij [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=9&artikel=9.1&z=2023-04-01&g=2023-04-01) gegevensverstrekking ten behoeve van statistiek, monitoring en evaluatie
 
 ### Gegevenslevering door de Stichting Nuffic en de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven
 
@@ -2219,44 +2221,44 @@ De Stichting Nuffic en de Stichting Samenwerking Beroepsonderwijs Bedrijfsleven 
 
 | Artikel in [Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657) | Artikel in Regeling inburgering 2021 | Toelichting |
 | --- | --- | --- |
-| [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=1.1) Begripsbepalingen | [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=1&artikel=1.1&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.1) Instelling die keurmerk toekent en beheert | [Artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=8&artikel=8.1&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=1.3) Uitwerking geestelijk bedienaar | [Artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=1&artikel=1.2&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=1.1) Begripsbepalingen | [Artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=1&artikel=1.1&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.1) Instelling die keurmerk toekent en beheert | [Artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=8&artikel=8.1&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=1.3) Uitwerking geestelijk bedienaar | [Artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=1&artikel=1.2&z=2023-04-01&g=2023-04-01) |   |
 | [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.1) Tijdelijke verblijfsdoelen |   | De tijdelijke verblijfsdoelen zijn uitgewerkt in [artikel 2.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.2). De grondslag voor een verdere uitwerking hiervan in een ministeriële regeling ([artikel 2.2, vierde lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.2)) is in het huidige stelsel geschrapt. |
-| [Artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2) Bewijsstukken voor vrijstelling gehele inburgeringsplicht |   | De bewijsstukken die leiden tot vrijstelling van gehele inburgeringsplicht zijn opgenomen in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=1&artikel=2.1&z=2023-01-01&g=2023-01-01). De wijzigingen die in dit artikel zijn doorgevoerd ten opzichte van het vorige stelsel houden verband met het vereiste minimale taalniveau van B1 in het huidige stelsel. |
-| [Artikel 2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2a) Gedeeltelijke vrijstelling van het inburgeringsexamen, taalexamens |   | Een vrijstelling voor een of meerdere taalexamens van het inburgeringsexamen is geregeld in de [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.12&z=2023-01-01&g=2023-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.13&z=2023-01-01&g=2023-01-01). Artikel 3.12 ziet op een vrijstelling van de taalexamens op ten minste het niveau B1. Artikel 3.13 is pas aan de orde indien de gemeente heeft besloten dat de inburgeringsplichtige mag afschalen. In dat geval kan hij vrijstelling verzoeken voor een of meerdere taalexamens op het niveau A2. |
-| [Artikel 2.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2c) Gedeeltelijke vrijstelling van het inburgeringsexamen, taalexamens |   | Een vrijstelling voor een of meerdere taalexamens van het inburgeringsexamen is geregeld in de [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.12&z=2023-01-01&g=2023-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.13&z=2023-01-01&g=2023-01-01). Artikel 3.12 ziet op een vrijstelling van de taalexamens op ten minste het niveau B1. Artikel 3.13 is pas aan de orde indien de gemeente heeft besloten dat de inburgeringsplichtige mag afschalen. In dat geval kan hij vrijstelling verzoeken voor een of meerdere taalexamens op het niveau A2. |
-| [Artikel 2.2d](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2d) Gedeeltelijke vrijstelling van het inburgeringsexamen, taalexamens |   | Een vrijstelling voor een of meerdere taalexamens van het inburgeringsexamen is geregeld in de [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.12&z=2023-01-01&g=2023-01-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.13&z=2023-01-01&g=2023-01-01). Artikel 3.12 ziet op een vrijstelling van de taalexamens op ten minste het niveau B1. Artikel 3.13 is pas aan de orde indien de gemeente heeft besloten dat de inburgeringsplichtige mag afschalen. In dat geval kan hij vrijstelling verzoeken voor een of meerdere taalexamens op het niveau A2. |
+| [Artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2) Bewijsstukken voor vrijstelling gehele inburgeringsplicht |   | De bewijsstukken die leiden tot vrijstelling van gehele inburgeringsplicht zijn opgenomen in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=1&artikel=2.1&z=2023-04-01&g=2023-04-01). De wijzigingen die in dit artikel zijn doorgevoerd ten opzichte van het vorige stelsel houden verband met het vereiste minimale taalniveau van B1 in het huidige stelsel. |
+| [Artikel 2.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2a) Gedeeltelijke vrijstelling van het inburgeringsexamen, taalexamens |   | Een vrijstelling voor een of meerdere taalexamens van het inburgeringsexamen is geregeld in de [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.12&z=2023-04-01&g=2023-04-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.13&z=2023-04-01&g=2023-04-01). Artikel 3.12 ziet op een vrijstelling van de taalexamens op ten minste het niveau B1. Artikel 3.13 is pas aan de orde indien de gemeente heeft besloten dat de inburgeringsplichtige mag afschalen. In dat geval kan hij vrijstelling verzoeken voor een of meerdere taalexamens op het niveau A2. |
+| [Artikel 2.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2c) Gedeeltelijke vrijstelling van het inburgeringsexamen, taalexamens |   | Een vrijstelling voor een of meerdere taalexamens van het inburgeringsexamen is geregeld in de [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.12&z=2023-04-01&g=2023-04-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.13&z=2023-04-01&g=2023-04-01). Artikel 3.12 ziet op een vrijstelling van de taalexamens op ten minste het niveau B1. Artikel 3.13 is pas aan de orde indien de gemeente heeft besloten dat de inburgeringsplichtige mag afschalen. In dat geval kan hij vrijstelling verzoeken voor een of meerdere taalexamens op het niveau A2. |
+| [Artikel 2.2d](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2d) Gedeeltelijke vrijstelling van het inburgeringsexamen, taalexamens |   | Een vrijstelling voor een of meerdere taalexamens van het inburgeringsexamen is geregeld in de [artikelen 3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.12&z=2023-04-01&g=2023-04-01) en [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=6&artikel=3.13&z=2023-04-01&g=2023-04-01). Artikel 3.12 ziet op een vrijstelling van de taalexamens op ten minste het niveau B1. Artikel 3.13 is pas aan de orde indien de gemeente heeft besloten dat de inburgeringsplichtige mag afschalen. In dat geval kan hij vrijstelling verzoeken voor een of meerdere taalexamens op het niveau A2. |
 | [Artikel 2.2e](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.2e) Gedeeltelijke vrijstelling van het inburgeringsexamen, onderdeel ONA |   | Het onderdeel ONA is vervallen in het huidige stelsel. ONA is vervangen door de MAP. Voor het onderdeel MAP is geen (gedeeltelijke) vrijstelling mogelijk. |
-| [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4) Medisch advies voor ontheffing inburgeringsplicht | [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4) Medisch advies voor ontheffing inburgeringsplicht | [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.5&z=2023-04-01&g=2023-04-01) |   |
 | [Artikel 2.4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4a) Ontheffing aantoonbaar voldoende ingeburgerd |   | Aantoonbaar voldoende ingeburgerd is in het huidige stelsel een vrijstellingsgrond in plaats van een ontheffingsgrond. Dit is uitgewerkt in [artikel 2.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=2.3). |
 | [Artikel 2.4b](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4b) Ontheffing bij aantoonbaar geleverde inspanningen |   | Aantoonbaar geleverde inspanning is geen ontheffingsgrond in het huidige stelsel. De doelgroep die hier in het vorige stelsel een beroep op doet, kan in het huidige stelsel toch inburgeren via de Z-route. |
-| [Artikel 2.4c](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4c) Verlengingsgronden |   | De gronden voor verlenging van de termijn bij niet verwijtbaarheid zijn uitgewerkt in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=4&artikel=4.1&z=2023-01-01&g=2023-01-01). |
-| [Artikel 2.4d](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4d) Tarief medisch advies en ontheffing | [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2023-01-01&g=2023-01-01) | In het huidige stelsel worden de kosten van de deskundigen-verklaring (medisch advies) onder voorwaarden terugbetaald aan de inburgeringsplichtige (tweede lid). |
-| [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.5) Eindtermen KNM en ONA | [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2023-01-01&g=2023-01-01) (eindtermen KNM) | Het onderdeel ONA is vervallen in het huidige stelsel. ONA is vervangen door de MAP. De MAP is uitgewerkt in artikel 3.2 van het besluit en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=1&artikel=3.1&z=2023-01-01&g=2023-01-01). |
-| [Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.1) Hoogte examengeld | [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.4&z=2023-01-01&g=2023-01-01) | Bij het PVT is in het huidige stelsel geen sprake van examinering. De hoogte van het examengeld voor het examen op het niveau B1/B2 is geregeld in [artikel 5, eerste lid, van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=5). |
-| [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.2) Bijzondere examenomstandigheden | [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-01-01&g=2023-01-01) (KNM en niveau A2) | In het huidige stelsel is de lijst met mogelijke aangepaste examenomstandigheden niet limitatief. De mogelijke aangepaste examenomstandigheden voor het examen op het niveau B1/B2 zijn omschreven in het examenreglement (vgl. [artikel 10, tweede lid, onderdeel b, van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10)). |
-| [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.3) Model inburgeringsdiploma en tekst participatieverklaring | [Artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.17&z=2023-01-01&g=2023-01-01) (inburgeringsdiploma) | De tekst van de participatieverklaring is geregeld in [3.1, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.1). Het model van het inburgeringscertificaat is geregeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.18&z=2023-01-01&g=2023-01-01). |
-| [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.4) Auteursrecht | [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.3&z=2023-01-01&g=2023-01-01) (KNM en niveau A2) |   |
+| [Artikel 2.4c](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4c) Verlengingsgronden |   | De gronden voor verlenging van de termijn bij niet verwijtbaarheid zijn uitgewerkt in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=4&artikel=4.1&z=2023-04-01&g=2023-04-01). |
+| [Artikel 2.4d](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.4d) Tarief medisch advies en ontheffing | [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=2&afdeling=2&artikel=2.7&z=2023-04-01&g=2023-04-01) | In het huidige stelsel worden de kosten van de deskundigen-verklaring (medisch advies) onder voorwaarden terugbetaald aan de inburgeringsplichtige (tweede lid). |
+| [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=2.5) Eindtermen KNM en ONA | [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2023-04-01&g=2023-04-01) (eindtermen KNM) | Het onderdeel ONA is vervallen in het huidige stelsel. ONA is vervangen door de MAP. De MAP is uitgewerkt in artikel 3.2 van het besluit en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=1&artikel=3.1&z=2023-04-01&g=2023-04-01). |
+| [Artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.1) Hoogte examengeld | [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.4&z=2023-04-01&g=2023-04-01) | Bij het PVT is in het huidige stelsel geen sprake van examinering. De hoogte van het examengeld voor het examen op het niveau B1/B2 is geregeld in [artikel 5, eerste lid, van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=5). |
+| [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.2) Bijzondere examenomstandigheden | [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.6&z=2023-04-01&g=2023-04-01) (KNM en niveau A2) | In het huidige stelsel is de lijst met mogelijke aangepaste examenomstandigheden niet limitatief. De mogelijke aangepaste examenomstandigheden voor het examen op het niveau B1/B2 zijn omschreven in het examenreglement (vgl. [artikel 10, tweede lid, onderdeel b, van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10)). |
+| [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.3) Model inburgeringsdiploma en tekst participatieverklaring | [Artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.17&z=2023-04-01&g=2023-04-01) (inburgeringsdiploma) | De tekst van de participatieverklaring is geregeld in [3.1, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=3.1). Het model van het inburgeringscertificaat is geregeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=4&artikel=3.18&z=2023-04-01&g=2023-04-01). |
+| [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.4) Auteursrecht | [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.3&z=2023-04-01&g=2023-04-01) (KNM en niveau A2) |   |
 | [Artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.5) Praktijkexamen ONA |   | ONA is vervallen in het huidige stelsel en is vervangen door de MAP. Bij de MAP is geen sprake van examinering. |
-| [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.6) Wijze van beoordelen spreekvaardigheid A2 | [Artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.8&z=2023-01-01&g=2023-01-01) (niveau A2) | Voor het examen op het niveau B1/B2 is de wijze van beoordelen geregeld in [artikel 12 van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=12). |
-| [Artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.8) Training en deskundigheid beoordelaars niveau A2 | [Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.9&z=2023-01-01&g=2023-01-01) (niveau A2) |   |
+| [Artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.6) Wijze van beoordelen spreekvaardigheid A2 | [Artikel 3.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=3.8&z=2023-04-01&g=2023-04-01) (niveau A2) | Voor het examen op het niveau B1/B2 is de wijze van beoordelen geregeld in [artikel 12 van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=12). |
+| [Artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.8) Training en deskundigheid beoordelaars niveau A2 | [Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=4&artikel=3.9&z=2023-04-01&g=2023-04-01) (niveau A2) |   |
 | [Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.9) Training en deskundigheid examinator ONA |   | ONA is vervallen in het huidige stelsel en is vervangen door de MAP. Bij de MAP is geen sprake van examinering. |
-| [Artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.10) Vaststellen examenreglement, toelating examens en waarborging kwaliteit | [Artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-01-01&g=2023-01-01) (KNM en niveau A2) | De aanmeldingsprocedure en het examenreglement voor het examen op het niveau B1/B1 worden vastgesteld door het College voor toetsen en examens (vgl. [artikel 10 van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10)). |
-| [Artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.13) Examenreglement | [Artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.11&z=2023-01-01&g=2023-01-01) | Het examenreglement voor het examen op het niveau B1/B1 wordt vastgesteld door het College voor toetsen en examens (vgl. artikel 10, tweede lid, van het Staatsexamenbesluit Nt2). |
-| [Artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.15) Aanwijzing instelling voor diplomawaardering | [Artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=6&artikel=3.20&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.1) Hoogte van de lening | [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=1&artikel=6.1&z=2023-01-01&g=2023-01-01) |   |
-| Artikel 4.2 Betaling van de lening | [Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=1&artikel=6.2&z=2023-01-01&g=2023-01-01) | De wijzigingen in de onderdelen van het eerste lid van het artikel zien op de koppeling van de te volgen cursus/het af te leggen examen van de in het PIP vastgestelde leerroute. |
-| Artikel[4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.4) Renteberekening | [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.5) Rentevaste aanloopfase en terugbetalingsperiode | [Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.4&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.6) Berekening maandelijkse termijn | [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.5&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.7) Terugbetaling niet binnenlands belastingplichtige | [Artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.6&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.7a) Mogelijkheid eenmalige aflossing | [Artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.7&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.9) Vaststelling draagkracht debiteur | [Artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.10) Terugval inkomen | [Artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.9&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.11) Beide partners debiteur | [Artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.10&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.12) Verzuim | [Artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.11&z=2023-01-01&g=2023-01-01) |   |
-| [Artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.16) Schuld in zijn geheel opeisbaar | [Artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.12&z=2023-01-01&g=2023-01-01) |   |
+| [Artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.10) Vaststellen examenreglement, toelating examens en waarborging kwaliteit | [Artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.10&z=2023-04-01&g=2023-04-01) (KNM en niveau A2) | De aanmeldingsprocedure en het examenreglement voor het examen op het niveau B1/B1 worden vastgesteld door het College voor toetsen en examens (vgl. [artikel 10 van het Staatsexamenbesluit Nt2](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10)). |
+| [Artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.13) Examenreglement | [Artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=2&paragraaf=5&artikel=3.11&z=2023-04-01&g=2023-04-01) | Het examenreglement voor het examen op het niveau B1/B1 wordt vastgesteld door het College voor toetsen en examens (vgl. artikel 10, tweede lid, van het Staatsexamenbesluit Nt2). |
+| [Artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.15) Aanwijzing instelling voor diplomawaardering | [Artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=3&afdeling=6&artikel=3.20&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.1) Hoogte van de lening | [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=1&artikel=6.1&z=2023-04-01&g=2023-04-01) |   |
+| Artikel 4.2 Betaling van de lening | [Artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=1&artikel=6.2&z=2023-04-01&g=2023-04-01) | De wijzigingen in de onderdelen van het eerste lid van het artikel zien op de koppeling van de te volgen cursus/het af te leggen examen van de in het PIP vastgestelde leerroute. |
+| Artikel[4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.4) Renteberekening | [Artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.3&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.5) Rentevaste aanloopfase en terugbetalingsperiode | [Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.4&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.6) Berekening maandelijkse termijn | [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.5&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.7) Terugbetaling niet binnenlands belastingplichtige | [Artikel 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.6&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.7a) Mogelijkheid eenmalige aflossing | [Artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.7&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.9) Vaststelling draagkracht debiteur | [Artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.8&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.10) Terugval inkomen | [Artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.9&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.11) Beide partners debiteur | [Artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.10&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.12) Verzuim | [Artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.11&z=2023-04-01&g=2023-04-01) |   |
+| [Artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.16) Schuld in zijn geheel opeisbaar | [Artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045574&hoofdstuk=6&afdeling=2&artikel=6.12&z=2023-04-01&g=2023-04-01) |   |
 | [Artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=4.17) Kwijtschelden |   | Artikel 4.17 ziet geheel op asielstatushouders. Er zijn geen groepen bekend die in het huidige stelsel voor kwijtschelding in aanmerking komen. |
 | [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=5.1) Maatschappelijke begeleiding |   | De maatschappelijke begeleiding is uitgewerkt in [artikel 13, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=13) en [artikel 5.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045555&artikel=5.1). |
 | [Artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=6.1) Omschrijving bijzondere persoonsgegevens | [Artikel 37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=37) | De uitzondering op het verbod om bijzondere persoonsgegevens te verwerken, evenals een omschrijving van die gegevens, zijn neergelegd in artikel 37 van de wet. |
