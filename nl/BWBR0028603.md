@@ -4,7 +4,7 @@ identifier: "BWBR0028603"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2024-07-01"
-last_updated: "2022-09-21"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028603"
 soort: "rijksKB"
@@ -66,9 +66,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De bezoldiging van de Gouverneur van Aruba bedraagt Afl. 27.101,67 Arubaanse courant per maand.
+1. De bezoldiging van de Gouverneur van Aruba bedraagt Afl. 27.914,72 Arubaanse courant per maand.
 
-2. De bezoldiging van de Gouverneur van Curaçao onderscheidenlijk die van Sint Maarten bedraagt NAF. 27.101,67 Nederlands-Antilliaans courant per maand.
+2. De bezoldiging van de Gouverneur van Curaçao onderscheidenlijk die van Sint Maarten bedraagt NAF. 27.914,72 Nederlands-Antilliaans courant per maand.
 
 3. Het genot van de bezoldiging vangt aan met de datum van ingang van de benoeming en eindigt met de dag van overlijden of die, voorafgaand aan de datum van ingang van het ontslag van de Gouverneur.
 
@@ -122,9 +122,9 @@ De Gouverneur heeft aanspraak op:
 
 Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur toegekend:
 
-- a. een bedrag overeenkomstig [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2022-09-21&g=2022-09-21);
+- a. een bedrag overeenkomstig [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2023-04-01&g=2023-04-01);
 
-- b. een bedrag overeenkomstig [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2022-09-21&g=2022-09-21); en
+- b. een bedrag overeenkomstig [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2023-04-01&g=2023-04-01); en
 
 - c. een bedrag van zes procent van de jaarlijkse bezoldiging.
 
@@ -132,11 +132,11 @@ Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur to
 
 1. In geval van overlijden van de Gouverneur worden aan de weduwe of weduwnaar, van wie de overledene niet duurzaam gescheiden leefde, uitgekeerd:
 
-- a. een bedrag gelijk aan de bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2022-09-21&g=2022-09-21), over een tijdvak van drie maanden;
+- a. een bedrag gelijk aan de bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2023-04-01&g=2023-04-01), over een tijdvak van drie maanden;
 
-- b. een bedrag wegens verhuis- en reiskosten overeenkomstig [artikel 3, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2022-09-21&g=2022-09-21); en
+- b. een bedrag wegens verhuis- en reiskosten overeenkomstig [artikel 3, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2023-04-01&g=2023-04-01); en
 
-- c. een bedrag gelijk aan de tegemoetkoming, bedoeld in [onderdeel c van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=9&z=2022-09-21&g=2022-09-21).
+- c. een bedrag gelijk aan de tegemoetkoming, bedoeld in [onderdeel c van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=9&z=2023-04-01&g=2023-04-01).
 
 2. Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden Gouverneur ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, tweede, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
 
@@ -146,7 +146,7 @@ Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur to
 
 - a. diens ouders;
 
-- b. andere kinderen dan bedoeld in [artikel 1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=1&z=2022-09-21&g=2022-09-21), mits zij de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn; of
+- b. andere kinderen dan bedoeld in [artikel 1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=1&z=2023-04-01&g=2023-04-01), mits zij de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn; of
 
 - c. broers en zussen.
 
@@ -154,21 +154,21 @@ Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur to
 
 ##### Artikel 11
 
-1. De waarnemend Gouverneur die krachtens de artikelen 12 en 13 van het Reglement als zodanig optreedt, geniet gedurende de waarnemingsperiode een beloning van twintig procent van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2022-09-21&g=2022-09-21).
+1. De waarnemend Gouverneur die krachtens de artikelen 12 en 13 van het Reglement als zodanig optreedt, geniet gedurende de waarnemingsperiode een beloning van twintig procent van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2023-04-01&g=2023-04-01).
 
-2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal een bedrag naar rato van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2022-09-21&g=2022-09-21).
+2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal een bedrag naar rato van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2023-04-01&g=2023-04-01).
 
 ##### Artikel 12
 
 De waarnemend Gouverneur heeft gedurende de uitoefening van het ambt aanspraak op:
 
-- a. vergoeding van de representatiekosten overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2022-09-21&g=2022-09-21);
+- a. vergoeding van de representatiekosten overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2023-04-01&g=2023-04-01);
 
-- b. vergoeding van reis- en verblijfkosten voor dienstreizen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=6&z=2022-09-21&g=2022-09-21).
+- b. vergoeding van reis- en verblijfkosten voor dienstreizen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=6&z=2023-04-01&g=2023-04-01).
 
 ##### Artikel 13
 
-Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2022-09-21&g=2022-09-21), kunnen de bedragen, genoemd in de artikelen 2, eerste en tweede lid, en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2022-09-21&g=2022-09-21), bij koninklijk besluit, op voordracht van Onze Minister, worden gewijzigd.
+Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2023-04-01&g=2023-04-01), kunnen de bedragen, genoemd in de artikelen 2, eerste en tweede lid, en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2023-04-01&g=2023-04-01), bij koninklijk besluit, op voordracht van Onze Minister, worden gewijzigd.
 
 ##### Artikel 14
 
