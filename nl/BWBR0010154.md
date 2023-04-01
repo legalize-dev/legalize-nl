@@ -4,7 +4,7 @@ identifier: "BWBR0010154"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2021-04-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010154"
 soort: "ministeriele-regeling"
@@ -46,13 +46,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Aëronautica Fixed Service (AFS):** een communicatie-netwerk voor luchtverkeersdiensten;
+- a. **Aeronautical Fixed Service (AFS):** een communicatie-netwerk voor luchtverkeersdiensten;
 
-- b. **Aëronautica Information Regulation and Control (AIRAC):** een vooraf vastgesteld tijdpad met algemene ingangsdata voor luchtvaartinlichtingen met een interval van 28 dagen;
+- b. **Aeronautical Information Regulation and Control (AIRAC):** een vooraf vastgesteld tijdpad met algemene ingangsdata voor luchtvaartinlichtingen met een interval van 28 dagen;
 
-- c. **Aëronautica Information Services (AIS):** een dienstverlening, uitgevoerd door luchtvaartinlichtingendiensten, met als doel het verzekeren van de verstrekking van die inlichtingen nodig voor een veilig, ordelijk en vlot verloop van het luchtverkeer;
+- c. **Aeronautical Information Services (AIS):** een dienstverlening, uitgevoerd door luchtvaartinlichtingendiensten, met als doel het verzekeren van de verstrekking van die inlichtingen nodig voor een veilig, ordelijk en vlot verloop van het luchtverkeer;
 
-- d. **Aeronautical Information Circular (AIC):** een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publikatie in een NOTAM of luchtvaartgids, maar wel in verband staan met de vliegveiligheid, vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;
+- d. **Aeronautical Information Circular (AIC):** een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publicatie in een NOTAM of luchtvaartgids, maar wel in verband staan met de vliegveiligheid, vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;
 
 - e. **AIS unit:** een vluchtvoorlichtingsdienst die is belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht;
 
@@ -62,17 +62,19 @@ In deze regeling wordt verstaan onder:
 
 - h. **bijlage 15:** aeronautical information services, bijlage 15 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);
 
-- i. **International NOTAM office:** de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;
+- i. **homebriefing:** het door gebruikers met een toegangsaccount opvragen van luchtvaartinlichtingen op hun eigen pc, tablet of telefoon;
 
-- j. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2021-04-01&g=2021-04-01);
+- j. **International NOTAM office:** de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;
 
-- k. **luchtvaartkaart:** een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen.
+- k. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2023-04-01&g=2023-04-01);
 
-- l. **Notice to Airmen (NOTAM):** een bericht aan luchtvarenden gedistribueerd middels AFS met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
+- l. **luchtvaartkaart:** een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen.
 
-- m. **Preflight Information Bulletin (PIB):** een presentatie van actuele NOTAM-informatie van operationele aard, welke wordt beschikbaar gesteld vóór de vlucht;
+- m. **Notice to Airmen (NOTAM):** een bericht aan luchtvarenden gedistribueerd middels AFS met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
 
-- n. **supplement:** tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's;
+- n. **Preflight Information Bulletin (PIB):** een presentatie van actuele NOTAM-informatie van operationele aard, welke wordt beschikbaar gesteld vóór de vlucht;
+
+- o. **supplement:** tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's;
 
 ##### Artikel 2
 
@@ -148,7 +150,7 @@ De luchtvaartinlichtingen worden in de volgende samenstellingen verstrekt:
 
 - 2. AIC's serie B met een abonnement.
 
-- 3. Een luchtvaartkaart, voor VFR-vluchten, op de schaal van op de schaal van 1:500.000.
+- 3. Een luchtvaartkaart, voor VFR-vluchten, op de schaal van 1:500.000.
 
 - 4. NOTAM middels AFS.
 
@@ -160,7 +162,7 @@ Luchtvaartinlichtingen van operationele aard, of die cartografische werkzaamhede
 
 ##### Artikel 13
 
-1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2021-04-01&g=2021-04-01).
+1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2023-04-01&g=2023-04-01).
 
 2. Als AIS-unit zijn aangewezen:
 
@@ -182,19 +184,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 ##### Artikel 15
 
-- a. Op de volgende luchthavens worden de luchtvaartinlichtingen beschikbaar gesteld via een zelfbedieningsdienst:
-
-- i. Schiphol;
-
-- ii. Lelystad;
-
-- iii. Eelde;
-
-- iv. Maastricht;
-
-- v. Rotterdam;
-
-- vi. Eindhoven.
+- a. Luchtvaartinlichtingen worden verstrekt via een homebriefing account.
 
 - b. De in onderdeel a bedoelde luchtvaartinlichtingen omvatten:
 
@@ -206,23 +196,17 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - 4º. briefing;
 
-- 5º. selfbriefing;
+- 5º. het in ontvangst nemen van inlichtingen na de vlucht.
 
-- 6º. het in ontvangst nemen van inlichtingen na de vlucht.
+2. Indien homebriefing ontoereikend is, worden luchtvaartinlichtingen op aanvraag verstrekt en in ontvangst genomen door de AIS-unit Schiphol.
 
-2. Luchtvaartinlichtingen worden verstrekt op de luchthaven van vertrek, overeenkomstig het eerste lid, gedurende de gepubliceerde openstellingstijden van de luchthaven.
-
-3. Buiten de perioden genoemd in het tweede lid zijn luchtvaartinlichtingen beschikbaar via een homebriefing account.
-
-4. Buiten de perioden genoemd in het tweede lid en indien homebriefing ontoereikend is, worden luchtvaartinlichtingen op aanvraag verstrekt en in ontvangst genomen door de AIS-unit Schiphol.
-
-5. De AIS-unit Schiphol is aangewezen als centrale bibliotheek voor luchtvaartinlichtingen, overeenkomstig bijlage 15.
+3. De AIS-unit Schiphol is aangewezen als centrale bibliotheek voor luchtvaartinlichtingen, overeenkomstig bijlage 15.
 
 ### Hoofdstuk 5
 
 ##### Artikel 16
 
-1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2021-04-01&g=2021-04-01), verstrekt aan:
+1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2023-04-01&g=2023-04-01), verstrekt aan:
 
 - a. luchtvarenden;
 
@@ -256,7 +240,19 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - a. luchtverkeersdiensten;
 
-- b. de luchthavens, genoemd in [artikel 15, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2021-04-01&g=2021-04-01).
+- b. de volgende luchthavens:
+
+- i. Schiphol;
+
+- ii. Lelystad;
+
+- iii. Eelde;
+
+- iv. Maastricht;
+
+- v. Rotterdam;
+
+- vi. Eindhoven.
 
 ### Hoofdstuk 7
 
