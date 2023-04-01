@@ -4,7 +4,7 @@ identifier: "BWBR0033893"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-01"
-last_updated: "2013-08-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033893"
 soort: "ministeriele-regeling"
@@ -82,11 +82,11 @@ De deskundigengroep brengt zowel gevraagd als ongevraagd schriftelijk advies uit
 
 ##### Artikel 6
 
-1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,067 fte.
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,095.
 
-2. De andere leden ontvangen een vergoeding per vergadering van € 256,24.
+2. De andere leden ontvangen een vergoeding per vergadering van € 317,–.
 
-3. Een gastdeskundige ontvangt een vergoeding per vergadering van € 256,24.
+3. Een gastdeskundige ontvangt een vergoeding per vergadering van € 317,–.
 
 ##### Artikel 7
 
