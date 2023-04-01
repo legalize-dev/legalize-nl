@@ -4,7 +4,7 @@ identifier: "BWBR0043027"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-03"
-last_updated: "2023-03-07"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043027"
 soort: "ministeriele-regeling"
@@ -82,9 +82,9 @@ De algemene leiding hanteert de basiswaarden van het ministerie en draagt zorg v
 
 2. De SG is verantwoordelijk voor de beleidsterreinen van de direct onder hem ressorterende directies en diensten, behorende tot het SG-cluster, voor de samenhang tussen die beleidsterreinen en voor de bijbehorende bedrijfsvoering. De SG geeft leiding aan de onder hem ressorterende directeuren.
 
-3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-03-07&g=2023-03-07).
+3. De SG treft een vervangingsregeling inzake vervanging bij zijn afwezigheid, met inachtneming van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-04-01&g=2023-04-01).
 
-4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-03-07&g=2023-03-07).
+4. De directeur-generaal Fiscale Zaken vervangt de secretaris-generaal tijdens diens afwezigheid, met inachtneming van de bevoegdheden van de pSG op grond van [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-04-01&g=2023-04-01).
 
 ##### Artikel 4. De bestuursraad
 
@@ -258,9 +258,9 @@ Het ministerie heeft een hoofdstructuur, bestaande uit de volgende dienstonderde
 
 ##### Artikel 11. Tijdelijke organisatieonderdelen
 
-1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-03-07&g=2023-03-07) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
+1. Buiten de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-04-01&g=2023-04-01) kan de SG een tijdelijk directoraat-generaal voor grote projecten instellen.
 
-2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-03-07&g=2023-03-07) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
+2. Passend binnen de structuur als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-04-01&g=2023-04-01) kan de SG of de pSG tijdelijke organisatieonderdelen instellen.
 
 3. De SG kan de directeuren-generaal Belastingdienst, Toeslagen en Douane ieder afzonderlijk toestemming verlenen om, met inachtneming van de structuur van respectievelijk het DGBD, het DGTSL en het DGD, en de taken genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076), tijdelijke organisatieonderdelen in te stellen.
 
@@ -422,7 +422,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - d. het bijdragen aan de rijksbrede strategische opdracht vanuit de categorieën waarvan het eigenaarschap is toebedeeld aan het Ministerie van Financiën.
 
-9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2023-03-07&g=2023-03-07). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
+9. De directeur Bedrijfsvoering is tevens Coördinerend Directeur Inkoop (CDI) als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=7&z=2023-04-01&g=2023-04-01). Het afdelingshoofd CDI Office en Categoriemanagement is tevens plaatsvervangend CDI.
 
 ##### Artikel 15. Het Beveiligingsambtenaar-Office (BVA-Office)
 
@@ -470,7 +470,7 @@ De directie AFEP heeft de volgende hoofdtaken:
 
 - c. voeren en begeleiden van civielrechtelijke en bestuursrechtelijke procedures, met uitzondering van arbeidsjuridische procedures;
 
-- d. adviseren over en besluiten op Wob-verzoeken van het kernministerie;
+- d. adviseren over, het ondersteunen van de voorbereiding van besluiten dan wel het besluiten op verzoeken om informatie op grond van de Wet open overheid en het begeleiden dan wel voeren van bestuursrechtelijke procedures inzake Woo-verzoeken als bedoeld in de [artikelen 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=19a) en [19b van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=19b);
 
 - e. vertegenwoordigen van het ministerie in interdepartementale gremia en juridische fora;
 
@@ -522,7 +522,7 @@ De directie Communicatie heeft de volgende taken:
 
 - a. is verantwoordelijk voor de beleidscommunicatie over het primaire proces van het kernministerie en de Belastingdienst;
 
-- b. adviseert en ondersteunt de politieke en ambtelijke leiding op het terrein van woordvoering en communicatie en is verantwoordelijk voor het departementale beleid terzake en coördineert DG-overstijgende onderwerpen in relatie tot woordvoering en communicatie evenals de beantwoording van Wob-verzoeken van de media of Wob-verzoeken met een maatschappelijk en/of politiek belang;
+- b. adviseert en ondersteunt de politieke en ambtelijke leiding op het terrein van woordvoering en communicatie en is verantwoordelijk voor het departementale beleid terzake en coördineert DG-overstijgende onderwerpen in relatie tot woordvoering en communicatie evenals de beantwoording van vragen over verzoeken om informatie op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
 
 - c. is verantwoordelijk voor de organisatiecommunicatie van het ministerie, uitgezonderd de IBTD, inclusief het bewaken van de huisstijl en voor de vraaggestuurde individuele voorlichting (in samenwerking met andere departementen, uitvoeringsinstanties etc.);
 
@@ -1402,9 +1402,9 @@ De SG, de DG’s en de IG leggen, aan het eind van het verslagjaar en tussentijd
 
 ##### Artikel 48. Organisatie- en formatierapport
 
-1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-03-07&g=2023-03-07) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
+1. Elk onderdeel dat ressorteert onder de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=3&artikel=10&z=2023-04-01&g=2023-04-01) genoemde dienstonderdelen ontwerpt en onderhoudt een organisatierapport en een formatierapport.
 
-2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-03-07&g=2023-03-07), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
+2. Voor zover een document als bedoeld in het eerste lid betrekking heeft op een dienstonderdeel, genoemd in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=5&z=2023-04-01&g=2023-04-01), is de plaatsvervangend secretaris-generaal bevoegd het document namens de bewindspersoon vast te stellen.
 
 3. Voor zover een document als bedoeld in het eerste lid betrekking heeft op de IBTD is de IG bevoegd het document vast te stellen.
 
@@ -1582,7 +1582,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De directie Digitalisering en Informatisering heeft de volgende taken:
 
-- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2023-07-12&g=2023-03-07) van dit besluit;
+- a. het uitvoeren van de taken van de dCIO conform [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=2&artikel=6&z=2023-07-12&g=2023-04-01) van dit besluit;
 
 - b. invulling geven aan de rol van de CIO van het kernministerie en [artikel 5, derde lid, van de Regeling Informatiehuishouding Financiën 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046157&artikel=5);
 
