@@ -4,7 +4,7 @@ identifier: "BWBR0017237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017237"
 soort: "ministeriele-regeling"
@@ -106,11 +106,11 @@ Besluit:
 
 Van de theorie-examens wordt informatie over de examenplanning en de examenlocaties bekendgemaakt door:
 
-- 1. het CBR voor het theorie-examen bedoeld in [artikel 1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2022-01-01&g=2022-01-01);
+- 1. het CBR voor het theorie-examen bedoeld in [artikel 1a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2023-04-01&g=2023-04-01);
 
-- 2. de stichting voor het theorie-examen bedoeld in [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2022-01-01&g=2022-01-01);
+- 2. de stichting voor het theorie-examen bedoeld in [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2023-04-01&g=2023-04-01);
 
-- 3. een houder van het examinatorcertificaat RFE(GC) voor het theorie-examen bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2022-01-01&g=2022-01-01).
+- 3. een houder van het examinatorcertificaat RFE(GC) voor het theorie-examen bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2023-04-01&g=2023-04-01).
 
 ##### Artikel 3
 
@@ -134,7 +134,7 @@ Van de theorie-examens wordt informatie over de examenplanning en de examenlocat
 
 - b. voor aanvang van het examen op de examenlocatie een wettig en geldig legitimatiebewijs toont, en
 
-- c. in het bezit is van een geldig toelatingsbewijs als bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), [3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3a&z=2022-01-01&g=2022-01-01), dan wel [3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3b&z=2022-01-01&g=2022-01-01).
+- c. in het bezit is van een geldig toelatingsbewijs als bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2023-04-01&g=2023-04-01), [3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3a&z=2023-04-01&g=2023-04-01), dan wel [3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3b&z=2023-04-01&g=2023-04-01).
 
 2. Aanvullende eisen voor toelating tot het theorie-examen worden vastgesteld en bekendgemaakt door het CBR, de stichting, of de houder van het examinatorcertificaat RFE(GC).
 
@@ -160,7 +160,7 @@ Vervallen
 
 - b. voor PPL, LAPL en SPL: Nederlands;
 
-- c. voor BPL en voor het examen bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2022-01-01&g=2022-01-01), voor het RPL(GC): Engels of Nederlands.
+- c. voor BPL en voor het examen bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2023-04-01&g=2023-04-01), voor het RPL(GC): Engels of Nederlands.
 
 3. Ten behoeve van de schriftelijke theorie-examens stellen het CBR onderscheidenlijk de stichting een huishoudelijk reglement vast waarin in ieder geval zijn omschreven het toezicht, de ordemaatregelen en consequenties van het plegen van onregelmatigheden.
 
@@ -180,11 +180,11 @@ De minister kan de uitslag van het theorie-examen ongeldig verklaren en een kand
 
 - b. in de overige gevallen: afgewezen.
 
-3. Voor de beoordeling van het theorie-examen, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2022-01-01&g=2022-01-01), geldt dat een kandidaat slaagt voor een examenonderdeel wanneer hij een score van tenminste 75% behaalt van het aantal punten dat voor dat examenonderdeel kan worden behaald.
+3. Voor de beoordeling van het theorie-examen, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2023-04-01&g=2023-04-01), geldt dat een kandidaat slaagt voor een examenonderdeel wanneer hij een score van tenminste 75% behaalt van het aantal punten dat voor dat examenonderdeel kan worden behaald.
 
 ##### Artikel 11
 
-Na het afleggen van een of meer vakken dan wel de afronding van het theorie-examen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), bedoelde bewijzen van bevoegdheid, voorziet het CBR de kandidaat van een resultaatbrief.
+Na het afleggen van een of meer vakken dan wel de afronding van het theorie-examen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2023-04-01&g=2023-04-01), bedoelde bewijzen van bevoegdheid, voorziet het CBR de kandidaat van een resultaatbrief.
 
 ##### Artikel 12
 
@@ -222,13 +222,13 @@ Een kandidaat is voor het afleggen van een praktijkexamen of proeve van bekwaamh
 
 ##### Artikel 17
 
-De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van bekwaamheid indien hij voor aanvang aan de examinator, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2022-01-01&g=2022-01-01), een wettig en geldig legitimatiebewijs overlegt en het examengeld heeft betaald
+De kandidaat wordt slechts toegelaten tot het praktijkexamen of de proeve van bekwaamheid indien hij voor aanvang aan de examinator, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=15&z=2023-04-01&g=2023-04-01), een wettig en geldig legitimatiebewijs overlegt en het examengeld heeft betaald
 
 ##### Artikel 18
 
 1. De kandidaat dan wel de opleidingsinstelling draagt zorg voor de beschikbaarheid van een luchtvaartuig of FSTD, voor zover van toepassing, voor het afleggen van een praktijkexamen of een proeve van bekwaamheid.
 
-2. Praktijkexamens en proeven van bekwaamheid voor een ATPL, of een multi-pilot type bevoegdverklaring worden uitgevoerd in een FSTD als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=13&z=2022-01-01&g=2022-01-01), tenzij er geen FSTD beschikbaar is die het voor een examenonderdeel vereiste niveau van kwalificatie heeft, dan wel er voor het desbetreffende type luchtvaartuig geen gekwalificeerde FSTD voorhanden is.
+2. Praktijkexamens en proeven van bekwaamheid voor een ATPL, of een multi-pilot type bevoegdverklaring worden uitgevoerd in een FSTD als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=13&z=2023-04-01&g=2023-04-01), tenzij er geen FSTD beschikbaar is die het voor een examenonderdeel vereiste niveau van kwalificatie heeft, dan wel er voor het desbetreffende type luchtvaartuig geen gekwalificeerde FSTD voorhanden is.
 
 3. De examenonderdelen die niet geëxamineerd kunnen worden in een FSTD, worden afgenomen in een luchtvaartuig van het desbetreffende type of de desbetreffende klasse.
 
@@ -272,7 +272,7 @@ De uitslag van een praktijkexamen voor RPL wordt door de examinator namens de mi
 
 ##### Artikel 23
 
-1. Met betrekking tot de vaststelling van de uitslag van een proeve van bekwaamheid is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=22&z=2022-01-01&g=2022-01-01) van overeenkomstige toepassing.
+1. Met betrekking tot de vaststelling van de uitslag van een proeve van bekwaamheid is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=3&artikel=22&z=2023-04-01&g=2023-04-01) van overeenkomstige toepassing.
 
 2. Indien de examinator een proeve van bekwaamheid positief beoordeelt, tekent hij dit aan op het examenformulier en tekent hij namens de minister de verlenging dan wel de hernieuwde afgifte aan op het document waarop bewijzen van bevoegdheid en bevoegdverklaringen zijn weergegeven.
 
@@ -314,7 +314,7 @@ Vervallen
 
 2. De vergoeding, bedoeld in het eerste lid, bestaat uit:
 
-- a. een honorarium van € 200,– per dag, en
+- a. een honorarium per dag ter hoogte van het honorarium genoemd in [artikel 14, tweede lid, onderdeel a, van de Regeling examinatoren voor luchtvarenden 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&artikel=14), en
 
 - b. de ten behoeve van het uitvoeren van de taken gemaakte reis- en verblijfkosten in het binnenland volgens hetgeen daarover overeengekomen is in de laatste afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn worden vergoed.
 
@@ -358,7 +358,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 1a
 
-1. Het theorie-examen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2022-01-01&g=2022-01-01), bedoelde bewijzen van bevoegdheid wordt afgenomen door het CBR.
+1. Het theorie-examen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=3&z=2023-04-01&g=2023-04-01), bedoelde bewijzen van bevoegdheid wordt afgenomen door het CBR.
 
 2. Het theorie-examen voor de bewijzen van bevoegdheid BPL en SPL wordt afgenomen door de stichting.
 
@@ -388,7 +388,7 @@ Vervallen
 
 ##### Artikel 11a
 
-1. Ter beoordeling van de resultaten van het theorie-examen BPL en SPL doet de stichting de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=10&z=2022-01-01&g=2022-01-01), bedoelde percentages, alsmede de bevestiging dat de scores binnen de daarvoor gestelde termijn zijn behaald, onder vermelding van de examendatum aan de minister toekomen.
+1. Ter beoordeling van de resultaten van het theorie-examen BPL en SPL doet de stichting de in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=10&z=2023-04-01&g=2023-04-01), bedoelde percentages, alsmede de bevestiging dat de scores binnen de daarvoor gestelde termijn zijn behaald, onder vermelding van de examendatum aan de minister toekomen.
 
 2. Na het afleggen van een of meer vakken dan wel de afronding van het theorie-examen voor de in het eerste lid bedoelde bewijzen van bevoegdheid, voorziet de stichting de kandidaat van een resultaatbrief.
 
@@ -408,19 +408,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 ##### Artikel 3b
 
-1. De kandidaat die beschikt over een voordracht van een daartoe bevoegde opleidingsinstelling voor het doen van het theorie-examen voor het RPL(GC), meldt zich voor het afleggen van het deel van het theorie-examen, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2022-01-01&g=2022-01-01), aan bij de houder van het examinatorcertificaat RFE(GC). De voordracht is twaalf maanden geldig.
+1. De kandidaat die beschikt over een voordracht van een daartoe bevoegde opleidingsinstelling voor het doen van het theorie-examen voor het RPL(GC), meldt zich voor het afleggen van het deel van het theorie-examen, bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2023-04-01&g=2023-04-01), aan bij de houder van het examinatorcertificaat RFE(GC). De voordracht is twaalf maanden geldig.
 
 2. De toegelaten kandidaat ontvangt van de houder van het examinatorcertificaat RFE(GC) een toelatingsbewijs, dat het persoonsgebonden registratienummer en de geldigheidsduur van het toelatingsbewijs vermeldt.
 
 ##### Artikel 11b
 
-Na de afronding van het specifieke GC-deel van het theorie-examen RPL(GC), bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2022-01-01&g=2022-01-01), voorziet de houder van het examinatorcertificaat RFE(GC) de kandidaat van een resultaatbrief.
+Na de afronding van het specifieke GC-deel van het theorie-examen RPL(GC), bedoeld in [artikel 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=1a&z=2023-04-01&g=2023-04-01), voorziet de houder van het examinatorcertificaat RFE(GC) de kandidaat van een resultaatbrief.
 
 #### § 3. Praktijkexamen
 
 #### § 5. Slotbepalingen
 
-## Bijlage. behorende bij [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=8&z=2022-01-01&g=2022-01-01), van het Examenreglement voor luchtvarenden 2004
+## Bijlage. behorende bij [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017237&paragraaf=2&artikel=8&z=2023-04-01&g=2023-04-01), van het Examenreglement voor luchtvarenden 2004
 
 ### Organisatie van de theorie-examens ten behoeve van het RPL(GC)
 
