@@ -4,7 +4,7 @@ identifier: "BWBR0012923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2021-04-20"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012923"
 soort: "ministeriele-regeling"
@@ -91,15 +91,15 @@ De aanvraag tot registratie, erkenning of goedkeuring dan wel hernieuwde afgifte
 
 ##### Artikel 3
 
-1. De minister registreert op aanvraag een opleidingsinstelling voor de opleiding RPL(A)MLA, RPL(H)MLH, RPL(GC), RPA-L of de module RT indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2021-04-20&g=2021-04-20).
+1. De minister registreert op aanvraag een opleidingsinstelling voor de opleiding RPL(A)MLA, RPL(H)MLH, RPL(GC), RPA-L of de module RT indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2023-04-01&g=2023-04-01).
 
-2. De minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2021-04-20&g=2021-04-20).
+2. De minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2023-04-01&g=2023-04-01).
 
-3. De minister keurt overeenkomstig artikel ARA.CC.200, onderdeel a, van bijlage VI van verordening (EU) nr. 1178/2011, een opleidingsorganisatie goed voor het verzorgen van de basisopleiding van cabinebemanningsleden, bedoeld in artikel CC.TRA.220, onderdelen a en b, van bijlage V van verordening (EU) nr. 1178/ 2011, indien de aanvrager voldoet aan de eisen bedoeld in hoofdstuk 1 van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2021-04-20&g=2021-04-20). Het goedkeuringsbesluit bevat mede het opleidingsprogramma en de syllabus van de opleidingsorganisatie.
+3. De minister keurt overeenkomstig artikel ARA.CC.200, onderdeel a, van bijlage VI van verordening (EU) nr. 1178/2011, een opleidingsorganisatie goed voor het verzorgen van de basisopleiding van cabinebemanningsleden, bedoeld in artikel CC.TRA.220, onderdelen a en b, van bijlage V van verordening (EU) nr. 1178/ 2011, indien de aanvrager voldoet aan de eisen bedoeld in hoofdstuk 1 van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2023-04-01&g=2023-04-01). Het goedkeuringsbesluit bevat mede het opleidingsprogramma en de syllabus van de opleidingsorganisatie.
 
 4. De minister kan een goedgekeurde opleidingsinstelling, als bedoeld in het derde lid, overeenkomstig artikel ARA.CC.200, onderdeel b, van bijlage VI van verordening (EU) nr. 1178/2011, mandaat verlenen om namens hem attesten voor cabinebemanningsleden af te geven indien die opleidingsinstelling:
 
-- a. voldoet aan de eisen, bedoeld in hoofdstuk 2 van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2021-04-20&g=2021-04-20), en
+- a. voldoet aan de eisen, bedoeld in hoofdstuk 2 van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2023-04-01&g=2023-04-01), en
 
 - b. gedocumenteerde procedures heeft ingevoerd voor de examinering en het afgeven van attesten overeenkomstig de artikelen CC.TRA.220, onderdeel c, van bijlage V en ARA.CC.200, onderdeel b, onder 2, van bijlage VI van verordening (EU) nr. 1178/2011.
 
@@ -108,6 +108,8 @@ De aanvraag tot registratie, erkenning of goedkeuring dan wel hernieuwde afgifte
 6. De minister kan een geregistreerde opleidingsinstelling erkennen als erkende entiteit voor de onbemande luchtvaart indien wordt voldaan aan de voorwaarden als bedoeld in Aanhangsel 3 en Aanhangsel 6, van de Bijlage bij uitvoeringsverordening (EU) nr. 2019/947.
 
 7. Een aanwijzing als aangewezen entiteit voor de onbemande luchtvaart, wordt verleend voor een termijn van twaalf maanden. De aanwijzing kan door de minister worden verlengd.
+
+8. De Minister erkent op aanvraag een opleidingsinstelling voor de opleiding voor typebevoegdverklaring en voor de opleiding voor instructeursbevoegdheid voor een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening indien de aanvrager voldoet aan de eisen bedoeld in deel ORA, subdeel GEN en subdeel ATO, van [verordening (EU) nr. 1178/2011](32011R1178).
 
 ##### Artikel 4
 
@@ -167,21 +169,23 @@ De aanvraag tot registratie of goedkeuring gaat vergezeld van:
 
 5. In afwijking van het eerste lid is de registratie van een opleidinginstelling voor RPA-L die met terugwerkende kracht is verleend geldig tot een jaar na de datum van deze registratie.
 
-6. De goedkeuring van een opleidingsinstelling voor het verzorgen van de basisopleiding van cabinebemanningsleden alsmede de machtiging, bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-04-20&g=2021-04-20), gelden voor onbepaalde tijd.
+6. De goedkeuring van een opleidingsinstelling voor het verzorgen van de basisopleiding van cabinebemanningsleden alsmede de machtiging, bedoeld in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2023-04-01&g=2023-04-01), gelden voor onbepaalde tijd.
+
+7. In afwijking van het eerste lid is voor een opleidingsinstelling voor de opleiding voor de typebevoegdverklaring en voor de instructeursbevoegdheid voor een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening, ORA.GEN.135 in deel ORA, subdeel GEN van [verordening (EU) nr. 1178/2011](32011R1178) van overeenkomstige toepassing.
 
 #### § 2.3. Opnieuw afgeven
 
 ##### Artikel 6
 
-1. De minister registreert op aanvraag een opleidingsinstelling opnieuw voor ten hoogste twee jaar indien de aanvrager voldoet aan de eisen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2021-04-20&g=2021-04-20).
+1. De minister registreert op aanvraag een opleidingsinstelling opnieuw voor ten hoogste twee jaar indien de aanvrager voldoet aan de eisen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2023-04-01&g=2023-04-01).
 
-2. De minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2021-04-20&g=2021-04-20).
+2. De minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2023-04-01&g=2023-04-01).
 
-3. De minister registreert op aanvraag een opleidingsinstelling voor RPA-L opnieuw voor de termijn van twee jaar, indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2021-04-20&g=2021-04-20).
+3. De minister registreert op aanvraag een opleidingsinstelling voor RPA-L opnieuw voor de termijn van twee jaar, indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2023-04-01&g=2023-04-01).
 
 ##### Artikel 7
 
-De aanvraag tot opnieuw registreren van een opleidingsinstelling gaat vergezeld van die gegevens en bescheiden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2021-04-20&g=2021-04-20), ten aanzien waarvan wijzigingen hebben plaatsgevonden.
+De aanvraag tot opnieuw registreren van een opleidingsinstelling gaat vergezeld van die gegevens en bescheiden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-04-01&g=2023-04-01), ten aanzien waarvan wijzigingen hebben plaatsgevonden.
 
 #### § 2.4. Wijziging
 
@@ -195,7 +199,7 @@ Een goedgekeurde opleidingsinstelling, geregistreerde opleidingsinstelling of er
 
 2. Het eerste lid is van overeenkomstige toepassing op erkende taalbeoordelingsinstanties.
 
-3. Met betrekking tot het eerste lid zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-04-20&g=2021-04-20) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2021-04-20&g=2021-04-20) van overeenkomstige toepassing.
+3. Met betrekking tot het eerste lid zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2023-04-01&g=2023-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-04-01&g=2023-04-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Inhoudelijke eisen voor registratie, kwalificatie en erkenning
 
@@ -203,9 +207,9 @@ Een goedgekeurde opleidingsinstelling, geregistreerde opleidingsinstelling of er
 
 1. Voor registratie van een opleidingsinstelling dient de aanvrager aan de volgende eisen te voldoen:
 
-- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2021-04-20&g=2021-04-20) bij deze regeling;
+- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2023-04-01&g=2023-04-01) bij deze regeling;
 
-- b. wat betreft de aangeboden opleidingen: 1°. voor SE-SPA CR de eisen, bedoeld in Deel FCL.725; 2°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2021-04-20&g=2021-04-20) bij deze regeling; 3°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2021-04-20&g=2021-04-20) bij deze regeling; 4°. voor de module RT de eisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2021-04-20&g=2021-04-20) bij deze regeling; 5°. voor RPA-L, de eis dat de opleidingsinstelling zorg draagt voor correct, volledig en passend lesmateriaal ten behoeve van een theorie- en praktijkopleiding en voor een procedure die waarborgt dat de examens op correcte en passende wijze worden afgenomen door examinatoren die niet de theorie- en praktijkopleiding hebben verzorgd van de kandidaat die de examens aflegt.
+- b. wat betreft de aangeboden opleidingen: 1°. voor SE-SPA CR de eisen, bedoeld in Deel FCL.725; 2°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2023-04-01&g=2023-04-01) bij deze regeling; 3°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2023-04-01&g=2023-04-01) bij deze regeling; 4°. voor de module RT de eisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2023-04-01&g=2023-04-01) bij deze regeling; 5°. voor RPA-L, de eis dat de opleidingsinstelling zorg draagt voor correct, volledig en passend lesmateriaal ten behoeve van een theorie- en praktijkopleiding en voor een procedure die waarborgt dat de examens op correcte en passende wijze worden afgenomen door examinatoren die niet de theorie- en praktijkopleiding hebben verzorgd van de kandidaat die de examens aflegt.
 
 2. Het eerste lid, onderdeel a, is niet van toepassing op de registratie van een opleidingsinstelling met betrekking tot de module RT.
 
@@ -219,11 +223,11 @@ Vervallen
 
 ##### Artikel 12
 
-Een bewijs van registratie, onderscheidenlijk, een registratie, afgegeven op basis van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-04-20&g=2021-04-20) van de Regeling opleidingsinstellingen voor luchtvarenden, worden een bewijs van registratie, onderscheidenlijk, een registratie op basis van de Regeling opleidingsinstellingen voor luchtvarenden 2001.
+Een bewijs van registratie, onderscheidenlijk, een registratie, afgegeven op basis van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2023-04-01&g=2023-04-01) van de Regeling opleidingsinstellingen voor luchtvarenden, worden een bewijs van registratie, onderscheidenlijk, een registratie op basis van de Regeling opleidingsinstellingen voor luchtvarenden 2001.
 
 ##### Artikel 13
 
-De bijlagen bij deze regeling, met uitzondering van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2021-04-20&g=2021-04-20) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2021-04-20&g=2021-04-20), liggen ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
+De bijlagen bij deze regeling, met uitzondering van de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2023-04-01&g=2023-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2023-04-01&g=2023-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=5&z=2023-04-01&g=2023-04-01), liggen ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
 
 ##### Artikel 14
 
@@ -261,7 +265,7 @@ Voor de erkenning van een opleidingsinstelling met betrekking tot het aanbieden 
 
 ### Hoofdstuk 4. Slotbepalingen
 
-## Bijlage 2. bedoeld in [artikel 10, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2021-04-20&g=2021-04-20)
+## Bijlage 2. bedoeld in [artikel 10, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2023-04-01&g=2023-04-01)
 
 ### 1. De opleiding voor RPL(A)
 
@@ -373,7 +377,7 @@ Ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
 
 ##### Artikel 11b
 
-1. De in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-04-20&g=2021-04-20), bedoelde opleidingsinstelling hanteert voor de afgifte respectievelijk de registratie van attesten voor cabinebemanningsleden procedures overeenkomstig de artikelen ARA.GEN.315 respectievelijk ARA.GEN.220 van bijlage VI van verordening (EU) nr. 1178/2011.
+1. De in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2023-04-01&g=2023-04-01), bedoelde opleidingsinstelling hanteert voor de afgifte respectievelijk de registratie van attesten voor cabinebemanningsleden procedures overeenkomstig de artikelen ARA.GEN.315 respectievelijk ARA.GEN.220 van bijlage VI van verordening (EU) nr. 1178/2011.
 
 2. De in het eerste lid bedoelde opleidingsinstelling verstrekt de bevoegde autoriteit de informatie en documentatie over de afgegeven attesten en de houders van deze attesten, voor zover de bevoegde autoriteit die nodig heeft om zijn gegevensbeheer-, toezichts- en handhavingstaken uit te voeren.
 
@@ -403,17 +407,17 @@ Ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
 
 De minister kan een opleidingsinstelling goedkeuring verlenen voor het verzorgen van de basisopleiding voor cabinebemanningsleden overeenkomstig CC.TRA.215 van verordening (EU) nr. 1178/2011, indien de aanvraag daartoe is ingediend met een aanvraagformulier van het model als hierachter opgenomen en is voldaan aan de volgende eisen:
 
-### Hoofdstuk 2. Bevoegdheid tot het afgeven van attesten voor Cabinebemanningsleden
+### I. Bevoegdverklaring Radiotelefonie
 
-Een goedgekeurde opleidingsinstelling voor het verzorgen van de basisopleiding voor cabinebemanningsleden kan worden aangewezen om namens de minister attesten voor cabinebemanningsleden af te geven in overeenstemming met artikel CC.CCA.100 (b), onderdeel 2, van bijlage V van verordening (EU) nr. 1178/2011, indien de opleidingsinstelling de volgende onderdelen aan het handboek bedoeld in hoofdstuk 1 heeft toegevoegd:
+Inhoud
 
-### Hoofdstuk 3. Attest voor Cabinebemanningsleden
+### 1. Algemeen
 
-Het attest voldoet aan het model in appendix II van bijlage VI, deel ARA, van verordening (EU) nr. 1178/2011.
+Kandidaten wordt lesgegeven door (voormalig) Luchtverkeersleiders, Flight Examiners (FE), Instrument Rating Examiners (IRE), Flight Instructors (FI), Instrument Rating Instructors (IRI) of leden van de voormalige standaardcommissie voor RT of voormalige RT-examinatoren, te accepteren door de ILT.
 
-Een goedgekeurde opleidingsinstelling voor het verzorgen van de basisopleiding voor cabinebemanningsleden kan worden aangewezen om namens de minister attesten voor cabinebemanningsleden af te geven in overeenstemming met artikel CC.CCA.100 (b), onderdeel 2, van bijlage V van verordening (EU) nr. 1178/2011, indien de opleidingsinstelling de volgende onderdelen aan het handboek bedoeld in hoofdstuk 1 heeft toegevoegd:
+Tijdens de opleiding wordt gebruik gemaakt van simulatieapparatuur die minimaal bestaat uit een hoofdtelefoon met een daaraan bevestigde of losse microfoon, welke de kandidaat in staat stelt andere kandidaten en de instructeur te horen en te antwoorden door middel van een simplex verbinding. Wanneer de opleiding met goed gevolg is afgerond wordt na afloop door de instelling een certificaat afgegeven met betrekking tot het resultaat van de opleiding.
 
-De opleidingsinstelling neemt in het handboek bedoeld in hoofdstuk 1 een voorbeeldattest op met voor de opleidingsinstelling relevante informatie.
+Het namens de betrokken opleidingsinstelling ondertekende certificaat is voorzien van de naam en het adres van die instelling, de inhoud van de training (VFR of IFR), de periode waarin de opleiding werd verzorgd en het resultaat daarvan. Alsmede wordt aangegeven de naam, het adres, de geboorteplaats, de geboortedatum en eventueel het ILT-correspondentienummer van de kandidaat.
 
 ### 2. De opleiding voor RPL(H)
 
@@ -431,9 +435,7 @@ De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen van 
 
 Ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
 
-## Bijlage 4. bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2021-04-20&g=2021-04-20), van de Regeling opleidingsinstellingen voor luchtvarenden 2001
-
-Ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
+## Bijlage 4. behorende bij [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2023-04-01&g=2023-04-01), van de Regeling opleidingsinstellingen voor luchtvarenden 2001
 
 ## Bijlage 5. bedoeld in [artikel 3, derde lid en vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-04-20&g=2021-04-20), van de Regeling opleidingsinstellingen voor luchtvarenden 2001.
 
@@ -442,6 +444,214 @@ Ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
 De minister kan een opleidingsinstelling goedkeuring verlenen voor het verzorgen van de basisopleiding voor cabinebemanningsleden overeenkomstig CC.TRA.215 van verordening (EU) nr. 1178/2011, indien de aanvraag daartoe is ingediend met een aanvraagformulier van het model als hierachter opgenomen en is voldaan aan de volgende eisen:
 
 ### Hoofdstuk 2. Bevoegdheid tot het afgeven van attesten voor Cabinebemanningsleden
+
+### Hoofdstuk 3. Attest voor Cabinebemanningsleden
+
+Het attest voldoet aan het model in appendix II van bijlage VI, deel ARA, van verordening (EU) nr. 1178/2011.
+
+Met kandidaten is de volledige lesstof voor het vak Communicatie als onderdeel van de kenniseisen conform de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0021240) voor LAPL, BPL, SPL, PPL, CPL, IR, BIR, ATPL dan wel MPL zoals beschreven in [verordening (EU) nr. 1178/2011](32011R1178), behandeld.
+
+**Voor de bevoegdverklaring RT (VFR only) is als kennis vereist:**
+
+### 2. Kennis
+
+**Voor de bevoegdverklaring RT (VFR en IFR) is als kennis vereist:**
+
+### 3. Bedrevenheid
+
+Bedrevenheid wordt aangetoond door een praktijktoets.
+
+### 3.1. Bedrevenheid – VFR
+
+De kandidaat toont, tijdens de toets, aan de hand van gesimuleerde VFR-vluchtsituaties, met gebruikmaking van de door ICAO voorgeschreven procedures en fraseologieën in de Engelse taal, aan bedreven te zijn in het samenstellen, overbrengen en opnemen van berichten met betrekking tot gecontroleerde VFR-vluchten.
+
+### 3.2. Bedrevenheid – IFR
+
+De kandidaat toont, tijdens de toets, aan de hand van gesimuleerde IFR-vluchtsituaties, met gebruikmaking van de door ICAO voorgeschreven procedures en fraseologieën in de Engelse taal, aan bedreven te zijn in het samenstellen, overbrengen en opnemen van berichten met betrekking tot gecontroleerde IFR-vluchten.
+
+### II. Syllabi radiotelefonie
+
+### i. Syllabus praktijktraining radiotelefonie – VFR Eindterm van de praktijktraining
+
+De cursist kan geheel zelfstandig, en gebruikmakend van de correcte fraseologieën, zendtechniek en spreeksnelheid, de radiocommunicatie tijdens een gesimuleerde gecontroleerde vlucht uitvoeren. Daarbij kan in voldoende mate door de cursist worden aangetoond dat hij begrip heeft van de verschillende verkeerssituaties en een aantoonbaar voldoende niveau luchtvaart Engels beheerst.
+
+De leerdoelen hebben betrekking op de FIR Amsterdam, op de van kracht zijnde versie van de AIP Netherlands en de van kracht zijnde versies van de ICAO-publicaties Annex 10 volume II, DOC 4444, DOC 7030 en DOC 9432.
+
+In onderstaande tekst hebben de termen ‘uur’, ‘uren’ en ‘lesuren’ betrekking op een lesperiode van 60 minuten c.q. een veelvoud van 60 minuten.
+
+Aantal uren zelfstudie of onderricht/instructie: ca. 28.
+
+Aantal uren praktijktraining: ca. 18 (exclusief de praktijkvaardigheidstoets). Gebaseerd op: 6 cursisten tijdens de praktijktrainingslessen.
+
+Bij meer of minder dan 6 cursisten zal het aantal uren praktijktraining meer of minder zijn dan het aangegeven aantal van ca. 18:
+
+Bij 4 cursisten zal het aantal uren praktijktraining ca. 12 bedragen. Bij 5 cursisten zal het aantal uren praktijktraining ca. 15 bedragen. Bij 7 cursisten zal het aantal uren praktijktraining ca. 21 bedragen. Bij 8 cursisten zal het aantal uren praktijktraining ca. 24 bedragen.
+
+Onderstaand is een lesschema opgenomen met daarin de verplichte leerdoelen. Een opleider kan gebruik maken van een afwijkend lesschema, mits de verplichte leerdoelen hierin zijn opgenomen.
+
+### Les 1
+
+Aantal uren zelfstudie of onderricht/instructie: ca. 6
+
+De cursist:
+
+Vertrekkende vlucht van een gecontroleerd luchtvaartterrein in Nederland met de intentie om circuit te vliegen.
+
+De cursist:
+
+Aantal lesuren: ca. 3
+
+### Les 2
+
+Aantal uren zelfstudie of onderricht/instructie: ca. 6
+
+Aantal lesuren: ca. 3
+
+### Les 3
+
+Aantal uren zelfstudie of onderricht/instructie uren: ca. 6
+
+Aantal lesuren: ca. 3
+
+### Les 4
+
+Aantal uren zelfstudie of onderricht/instructie: ca. 6
+
+Aantal lesuren: ca. 3
+
+### Les 5
+
+Aantal uren zelfstudie: ca. 2
+
+De cursist bereidt voor deze les twee of meerdere oefeningen voor. Deze oefeningen voldoen aan de eisen die door ILT zijn gesteld aan de samenstelling van een praktijkvaardigheidstoets (zie voor deze eisen LES 7).
+
+Aantal lesuren: ca. 3
+
+### Les 6
+
+Aantal uren zelfstudie: ca. 2
+
+De cursist bereidt voor deze les twee of meerdere oefeningen voor. Deze oefeningen voldoen aan de eisen die door ILT zijn gesteld aan de samenstelling van een praktijkvaardigheidstoets (zie voor deze eisen LES 7)
+
+Aantal lesuren: ca. 3
+
+### Les 7
+
+Doel:
+
+Om te bereiken dat de praktijkvaardigheidstoetsen radiotelefonie, waar dan ook gehouden, voldoen aan dezelfde norm, zijn de praktijkvaardigheidstoetsen van een vergelijkbaar niveau. Om dit te verwezenlijken worden bij het opstellen van een praktijkvaardigheidstoets onderstaande elementen gebruikt als handleiding.
+
+### 1. Hoofdonderdelen
+
+De praktijkvaardigheidstoets bestaat uit vier hoofdonderdelen:
+
+### 2. Soorten vluchten
+
+Bij de praktijkvaardigheidstoets worden vluchten gesimuleerd met als vertrek- en aankomstpunt gecontroleerde luchtvaartterreinen in de FIR Amsterdam waar burgerluchtvaart is toegestaan.
+
+Het uitwijken naar één van deze luchtvaartterreinen kan een deel van de vluchtsituatie vormen.
+
+Hieronder wordt in detail aangegeven waar de onderdelen van de praktijkvaardigheidstoets aan moeten voldoen en welke specifieke opdrachten in de praktijkvaardigheidstoetsen moeten worden opgenomen.
+
+### 3. Onderdelen en specifieke opdrachten
+
+### 4. Lay-out van de praktijkvaardigheidstoets
+
+De volgende eisen zijn van toepassing:
+
+### ii. Syllabus praktijkexamen radiotelefonie – IFR Eindterm van de praktijktraining
+
+De cursist kan geheel zelfstandig, en gebruikmakend van de correcte fraseologieën, zendtechniek en spreeksnelheid, de radiocommunicatie tijdens een gesimuleerde gecontroleerde vlucht uitvoeren. Daarbij kan de cursist in voldoende mate aantonen dat hij begrip heeft van de verschillende verkeerssituaties en een aantoonbaar voldoende niveau luchtvaart Engels beheerst.
+
+De leerdoelen hebben betrekking op de FIR Amsterdam en de van kracht zijnde versie van de AIP Netherlands en de van kracht zijnde versies van de ICAO-publicaties Annex 10 volume II, DOC 4444, DOC 7030 en DOC 9432.
+
+In onderstaande tekst hebben de termen ‘uur’, ‘uren’ en ‘lesuren’ betrekking op een lesperiode van 60 minuten c.q. een veelvoud van 60 minuten.
+
+Aantal uren zelfstudie of onderricht/instructie: ca. 151/2
+
+Aantal uren praktijktraining: ca. 15 (exclusief de praktijkvaardigheidstoets). Gebaseerd op: 6 cursisten tijdens de praktijktrainingslessen.
+
+Bij meer of minder dan 6 cursisten is het aantal uren praktijktraining meer of minder zijn het aangegeven aantal van ca. 15:
+
+Bij 4 cursisten bedraagt het aantal uren praktijktraining ca 10. Bedragen. Bij 5 cursisten bedraagt het aantal uren praktijktraining ca. 13. Bij 7 cursisten bedraagt het aantal uren praktijktraining ca. 18. Bij 8 cursisten bedraagt het aantal uren praktijktraining ca. 20.
+
+Onderstaand is een lesschema opgenomen met daarin de verplichte leerdoelen. Het lesschema zelf is slechts een voorbeeld. De opleider is vrij zijn eigen lesplannen samen te stellen zolang alle leerdoelen maar worden gehaald.
+
+Er wordt in deze syllabus vanuit gegaan dat een praktijkcursus VFR radiotelefonie is gevolgd.
+
+### Les 1
+
+Aantal uren zelfstudie of onderricht: ca. 4
+
+Aantal lesuren: ca. 21/2
+
+### Les 2
+
+Aantal uren zelfstudie of onderricht/instructie: ca. 4
+
+Aantal lesuren: ca. 21/2
+
+### Les 3
+
+Aantal uren zelfstudie of onderricht/instructie: ca. 4
+
+Aantal lesuren: ca. 21/2
+
+### Les 4
+
+Aantal uren zelfstudie: ca. 11/2
+
+Aantal lesuren: ca. 21/2
+
+### Les 5
+
+Aantal uren zelfstudie: ca. 1
+
+De cursist bereidt voor deze les twee of meerdere oefeningen voor. Deze oefeningen voldoen aan de eisen die door ILT zijn gesteld aan de samenstelling van een praktijkvaardigheidstoets (zie voor deze eisen LES 7).
+
+Aantal lesuren: ca. 21/2
+
+### Les 6
+
+Aantal uren zelfstudie: ca. 1
+
+De cursist bereidt voor deze les twee of meerdere oefeningen voor. Deze oefeningen voldoen aan de eisen die door ILT zijn gesteld aan de samenstelling van een praktijkvaardigheidstoets (zie voor deze eisen LES 7).
+
+Aantal lesuren: ca. 21/2
+
+### Les 7
+
+Doel:
+
+Om te bereiken dat de praktijkvaardigheidstoetsen radiotelefonie, waar dan ook gehouden, voldoen aan dezelfde norm, zijn de praktijkvaardigheidstoetsen van een vergelijkbaar niveau te. Om dit te verwezenlijken worden bij het opstellen van een praktijkvaardigheidstoets onderstaande elementen gebruikt als handleiding.
+
+### 1. Hoofdonderdelen
+
+De praktijkvaardigheidstoets bestaat uit drie hoofdonderdelen:
+
+### 2. Soorten vluchten
+
+Bij de praktijkvaardigheidstoets worden vluchten gesimuleerd met als vertrek- en aankomstpunt gecontroleerde luchtvaartterreinen in de FIR Amsterdam waar burgerluchtvaart is toegestaan.
+
+Het uitwijken naar één van deze luchtvaartterreinen en het uitvoeren van een spoed-of noodoproep kan een deel van de vluchtsituatie vormen.
+
+Hieronder wordt in detail aangegeven waar de onderdelen van de praktijkvaardigheidstoets aan dienen te voldoen en welke specifieke opdrachten in de praktijkvaardigheidstoetsen dienen te worden opgenomen.
+
+### 3. Onderdelen en specifieke opdrachten
+
+### 4. Lay-out van de praktijkvaardigheidstoets
+
+De volgende eisen zijn van toepassing:
+
+## Bijlage 5. bedoeld in [artikel 3, derde lid en vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2023-04-01&g=2023-04-01), van de Regeling opleidingsinstellingen voor luchtvarenden 2001.
+
+### Hoofdstuk 1. Goedkeuring voor het verzorgen van de Basisopleiding voor cabinebemanningsleden
+
+De minister kan een opleidingsinstelling goedkeuring verlenen voor het verzorgen van de basisopleiding voor cabinebemanningsleden overeenkomstig CC.TRA.215 van verordening (EU) nr. 1178/2011, indien de aanvraag daartoe is ingediend met een aanvraagformulier van het model als hierachter opgenomen en is voldaan aan de volgende eisen:
+
+### Hoofdstuk 2. Bevoegdheid tot het afgeven van attesten voor Cabinebemanningsleden
+
+Een goedgekeurde opleidingsinstelling voor het verzorgen van de basisopleiding voor cabinebemanningsleden kan worden aangewezen om namens de minister attesten voor cabinebemanningsleden af te geven in overeenstemming met artikel CC.CCA.100 (b), onderdeel 2, van bijlage V van verordening (EU) nr. 1178/2011, indien de opleidingsinstelling de volgende onderdelen aan het handboek bedoeld in hoofdstuk 1 heeft toegevoegd:
 
 ### Hoofdstuk 3. Attest voor Cabinebemanningsleden
 
