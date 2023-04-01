@@ -4,7 +4,7 @@ identifier: "BWBR0014764"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2016-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014764"
 soort: "ministeriele-regeling"
@@ -45,15 +45,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Infrastructuur en Milieu;
+- **certificaat:** een door een erkende opleidingsinstelling als bedoeld in [artikel 1 van de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&artikel=1) afgegeven certificaat inzake het vervoer van gevaarlijke stoffen door de lucht als bedoeld in [artikel 9 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&artikel=9);
 
-- b. **certificaat:** een door een erkende opleidingsinstelling als bedoeld in [artikel 1, onderdeel a, van de Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765&artikel=1) afgegeven certificaat inzake het vervoer van gevaarlijke stoffen door de lucht als bedoeld in [artikel 9 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014765&artikel=9);
+- **DGOM:** een door de aanvrager van een erkenning opgesteld bedrijfshandboek, Dangerous Goods Operations Manual;
 
-- c. **DGOM:** door de aanvrager van een erkenning opgesteld bedrijfshandboek (Dangerous Goods Operations Manual);
+- **erkenning:** een erkenning als bedoeld in [artikel 6.55 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55);
 
-- d. **erkenning:** erkenning als bedoeld in [artikel 6.55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55);
-
-- e. **E-erkenning:** erkenning als bedoeld in [artikel 9, eerste lid, onder 5°, van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=9) door de lucht.
+- **minister:** Minister van Infrastructuur en Waterstaat.
 
 ### Hoofdstuk 2. Procedureregels
 
@@ -61,31 +59,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Een erkenning wordt aangevraagd door indiening bij de minister van een volledig ingevuld en ondertekend aanvraagformulier.
-
-2. Exemplaren van het aanvraagformulier, bedoeld in het eerste lid, zijn kosteloos bij de minister te verkrijgen of te downloaden van de website van de Inspectie Leefomgeving en Transport.
+Een erkenning wordt aangevraagd door elektronische of schriftelijke indiening bij de minister van een volledig ingevuld en ondertekend aanvraagformulier.
 
 ##### Artikel 3
 
 1. De aanvraag voor verlening van een erkenning gaat vergezeld van:
 
-- a. een verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-01-01&g=2016-01-01) wordt voldaan;
+- a. een verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat aan [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-04-01&g=2023-04-01) wordt voldaan;
 
 - b. een overzicht van alle medewerkers die in het bezit zijn van een certificaat en per medewerker een afschrift van het geldige certificaat;
 
-- c. een overzicht van alle andere medewerkers die zijn opgeleid in overeenstemming met de opleidingseisen van de categorieën, genoemd in de Technische Voorschriften;
+- c. een overzicht van alle andere medewerkers die zijn opgeleid in overeenstemming met de opleidingseisen genoemd in de Technische Voorschriften;
 
-- d. een curriculum vitae van het verantwoordelijke directielid, de aanvrager en de contactpersoon;
+- d. een omschrijving van de taken en bevoegdheden van de onder c genoemde personen;
 
-- e. een omschrijving van de taken en bevoegdheden van de onder c genoemde personen;
+- e. een organigram van de aanvrager, inclusief een korte omschrijving;
 
-- f. een organigram van de aanvrager, inclusief een korte omschrijving;
+- f. indien van toepassing de functionele plaats van de aanvrager in relatie tot de hoofdvestiging;
 
-- g. indien van toepassing de functionele plaats van de aanvrager in relatie tot de hoofdvestiging;
-
-- h. een omschrijving van de handelingen die betrekking hebben op het vervoer van gevaarlijke stoffen door de lucht;
-
-- i. indien van toepassing een afschrift van de vigerende omgevingsvergunning op grond van [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) voor de op- en overslag van gevaarlijke stoffen.
+- g. een omschrijving van de handelingen die betrekking hebben op het vervoer van gevaarlijke stoffen door de lucht.
 
 2. Onverminderd het eerste lid, dient de aanvraag voor verlening van een E-erkenning vergezeld te gaan van een DGOM.
 
@@ -93,7 +85,7 @@ In deze regeling wordt verstaan onder:
 
 - a. een beschrijving van de inrichting, uitrusting en het veiligheidsmanagementsysteem van de aanvrager van een erkenning en van de wijze waarop dit systeem actueel wordt gehouden;
 
-- b. algemene informatie over de procedures van de aanvrager voor het behandelen dan wel afhandelen van gevaarlijke stoffen;
+- b. algemene informatie over de bedrijfsprocessen, taken en verantwoordelijkheden van de aanvrager voor het behandelen dan wel afhandelen van gevaarlijke stoffen;
 
 - c. een opsomming van alle diensten en werkzaamheden die door de aanvrager worden uitbesteed aan andere organisaties;
 
@@ -107,15 +99,15 @@ In deze regeling wordt verstaan onder:
 
 - b. organisatiestructuur;
 
-- c. taken, bevoegdheden en verantwoordelijkheden van functionarissen;
+- c. taken, bevoegdheden en verantwoordelijkheden van medewerkers betrokken bij de behandeling van gevaarlijke stoffen;
 
-- d. relevante bedrijfsprocessen;
+- d. relevante bedrijfsprocessen, procedures of werkinstructies met betrekking tot de afhandeling van gevaarlijke stoffen;
 
-- e. risico-inventarisatie en daaruit voortvloeiende verbeteracties;
+- e. risico-inventarisatie en daaruit voortvloeiende beheersmaatregelen;
 
 - f. opleidingen en trainingen;
 
-- g. melding, registratie, analyse en afhandeling van ongevallen en incidenten;
+- g. melding, registratie, analyse en afhandeling van ongevallen en interne- en externe incidenten;
 
 - h. documentbeheer;
 
@@ -125,13 +117,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De minister verleent een erkenning, indien voldaan wordt aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-01-01&g=2016-01-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-01-01&g=2016-01-01) en de aanvrager aantoont dat hij:
+1. De minister verleent een erkenning, indien voldaan wordt aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-04-01&g=2023-04-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-04-01&g=2023-04-01) en de aanvrager aantoont dat hij:
 
 - a. handelingen verricht die verband houden met het vervoer van gevaarlijke stoffen door de lucht als bedoeld in [artikel 6.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51);
 
 - b. per vestiging voortdurend feitelijk over ten minste één medewerker beschikt die in het bezit is van een geldig certificaat;
 
-- c. er voor zorg draagt, dat de andere medewerkers dan genoemd onder b, zijn opgeleid in overeenstemming met de opleidingseisen van de categorieën, genoemd in de Technische Voorschriften;
+- c. er voor zorg draagt, dat de andere medewerkers dan genoemd onder b, zijn opgeleid in overeenstemming met de opleidingseisen genoemd in de Technische Voorschriften;
 
 - d. ook voor het overige voldoet aan de Technische Voorschriften.
 
@@ -139,9 +131,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Van een erkenning geeft de minister een bewijs af waarop wordt aangegeven welke bevoegdheden aan de erkenning zijn verbonden.
-
-2. Het model van het bewijs van erkenning is opgenomen in de bij deze regeling behorende bijlage.
+Van een erkenning geeft de minister een bewijs af waarop wordt aangegeven welke bevoegdheden aan de erkenning zijn verbonden.
 
 ##### Artikel 6
 
@@ -157,7 +147,7 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 1. Een erkenning wordt gewijzigd, nadat de houder van de erkenning heeft aangetoond, dat hij voldoet aan de eisen, zoals die gelden voor de erkenning, nadat deze is gewijzigd.
 
-2. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2016-01-01&g=2016-01-01) zijn van overeenkomstige toepassing.
+2. De [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-04-01&g=2023-04-01) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Diverse bepalingen
 
@@ -167,7 +157,7 @@ Indien een erkenninghouder voor de behandeling van gevaarlijke stoffen ten behoe
 
 ##### Artikel 9
 
-Handelen in strijd met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=3&artikel=8&z=2016-01-01&g=2016-01-01) vormt een strafbaar feit.
+Handelen in strijd met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=3&artikel=8&z=2023-04-01&g=2023-04-01) vormt een strafbaar feit.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -179,50 +169,8 @@ Deze regeling treedt in werking met ingang van 16 maart 2003.
 
 Deze regeling wordt aangehaald als: Regeling erkenningen vervoer gevaarlijke stoffen door de lucht.
 
-## Bijlage. als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2016-01-01&g=2016-01-01)
+## Bijlage. als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2023-04-01&g=2023-04-01)
 
-**Inspectie Leefomgeving en Transport**
-
-Datum
-
-Date
-
-Nummer
-
-Number
-
-Onderwerp
-
-Subject
-
-Bewijs van erkenning
-
-Certificate of recognition
-
-Onderstaand bedrijf wordt erkend; en toegestaan om de werkzaamheden te verrichten van afzender/vrachtagent/grondafhandelaar/luchtvaartmaatschappij/E-statushouder als bedoeld in [hoofdstuk 6 titel 6.5 artikel 6.55 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55) en [paragraaf 4, artikel 9 van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9)
-
-Hereby the folllowing company will be recognised to perform the activities of a shipper/freightforwarder/cargo groundhandler/aircarrier/E-holder as specified in the Aviation Act [chapter 6 title 6.5 article 6.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55) and the transport of dangerous goods by air decree, [paragraphe 4, article 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9)
-
-Bedrijf
-
-Company:
-
-Tradename:
-
-Handelsnaam
-
-Erkenning
-
-Recognition:
-
-Datum van afgifte
-
-Date of issue:
-
-De Minister van Infrastructuur en Milieu,
-
-The Minister of Infrastructure and the Environment,
-
-on behalf,
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
