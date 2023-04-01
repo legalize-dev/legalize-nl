@@ -4,7 +4,7 @@ identifier: "BWBR0026608"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2022-04-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026608"
 soort: "ministeriele-regeling"
@@ -70,25 +70,25 @@ In deze regeling wordt verstaan onder:
 
 2. Het vacatiegeld bedraagt voor het bijwonen van een of meerdere terechtzittingen van het tuchtcollege per eindbeslissing voor:
 
-- a. een voorzitter of een plaatsvervangend voorzitter: € 242,–;
+- a. een voorzitter of een plaatsvervangend voorzitter: € 252,–;
 
-- b. een rechtsgeleerd lid of een plaatsvervangend rechtsgeleerd lid, niet zijnde een voorzitter of een plaatsvervangend voorzitter: € 189,–;
+- b. een rechtsgeleerd lid of een plaatsvervangend rechtsgeleerd lid, niet zijnde een voorzitter of een plaatsvervangend voorzitter: € 197,–;
 
-- c. een lid-beroepsgenoot of een plaatsvervangend lid-beroepsgenoot: € 189,–.
+- c. een lid-beroepsgenoot of een plaatsvervangend lid-beroepsgenoot: € 197,–.
 
 3. Indien een zaak na het horen van partijen ter terechtzitting is aangehouden en overeenkomstig [artikel 10, tweede lid, van het Tuchtrechtbesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&artikel=10), de samenstelling van het tuchtcollege is gewijzigd, is het tweede lid van dit artikel onverminderd van toepassing op de personen, bedoeld in het eerste lid die hebben deelgenomen aan die terechtzitting.
 
 4. Voor bij de regionale tuchtcolleges aanhangig gemaakte zaken die niet naar een terechtzitting worden verwezen, bedraagt het vacatiegeld per door het college in raadkamer genomen eindbeslissing:
 
-- a. voor de voorzitter of diens plaatsvervanger: € 121,–;
+- a. voor de voorzitter of diens plaatsvervanger: € 126,–;
 
-- b. voor de rechtsgeleerde leden of de plaatsvervangende rechtsgeleerde leden, niet zijnde de voorzitter of de plaatsvervangende voorzitter: € 95,–;
+- b. voor de rechtsgeleerde leden of de plaatsvervangende rechtsgeleerde leden, niet zijnde de voorzitter of de plaatsvervangende voorzitter: € 99,–;
 
-- c. voor de leden-beroepsgenoten of hun plaatsvervangers: € 95,–.
+- c. voor de leden-beroepsgenoten of hun plaatsvervangers: € 99,–.
 
-5. Indien het centrale tuchtcollege toepassing heeft gegeven aan [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=74), dan wel indien door de voorzitter of diens plaatsvervanger toepassing is gegeven aan [artikel 67a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=67a), bedraagt het vacatiegeld voor de personen, bedoeld in het tweede lid, onder a tot en met c, onderscheidenlijk voor de voorzitter of diens plaatsvervanger, € 53,–.
+5. Indien het centrale tuchtcollege toepassing heeft gegeven aan [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=74), dan wel indien door de voorzitter of diens plaatsvervanger toepassing is gegeven aan [artikel 67a, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=67a), bedraagt het vacatiegeld voor de personen, bedoeld in het tweede lid, onder a tot en met c, onderscheidenlijk voor de voorzitter of diens plaatsvervanger, € 55,–.
 
-6. Voor de personen, bedoeld in het tweede lid, onder b, die zijn belast met het schrijven van de eindbeslissing na een terechtzitting of een behandeling in raadkamer, wordt het vacatiegeld verhoogd met € 53,–.
+6. Voor de personen, bedoeld in het tweede lid, onder b, die zijn belast met het schrijven van de eindbeslissing na een terechtzitting of een behandeling in raadkamer, wordt het vacatiegeld verhoogd met € 55,–.
 
 7. Indien een zaak in raadkamer is behandeld en overeenkomstig [artikel 67a Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=67a) jo [artikel 69 Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=69) is doorverwezen naar zitting en de samenstelling van het tuchtcollege is gewijzigd, is het zesde lid van dit artikel onverminderd van toepassing op de personen, bedoeld in het eerste lid die wel hebben deelgenomen aan de raadkamer, maar niet aan de terechtzitting’.
 
@@ -100,11 +100,11 @@ In deze regeling wordt verstaan onder:
 
 11. Het vacatiegeld, bedoeld in het achtste en negende lid, bedraagt voor:
 
-- a. de voorzitter of een plaatsvervangend voorzitter van het centrale tuchtcollege: € 121,–;
+- a. de voorzitter of een plaatsvervangend voorzitter van het centrale tuchtcollege: € 126,–;
 
-- b. een rechtsgeleerd lid of een plaatsvervangend rechtsgeleerd lid van het centrale tuchtcollege, niet zijnde de voorzitter of een plaatsvervangend voorzitter: € 95,–;
+- b. een rechtsgeleerd lid of een plaatsvervangend rechtsgeleerd lid van het centrale tuchtcollege, niet zijnde de voorzitter of een plaatsvervangend voorzitter: € 99,–;
 
-- c. een lid-beroepsgenoot of een plaatsvervangend lid-beroepsgenoot van het centrale tuchtcollege: € 95,–.
+- c. een lid-beroepsgenoot of een plaatsvervangend lid-beroepsgenoot van het centrale tuchtcollege: € 99,–.
 
 12. Het vierde en elfde lid zijn voor de toekenning van vacatiegeld van overeenkomstige toepassing op de leden van een tuchtcollege dat een advies uitbrengt als bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50).
 
@@ -114,21 +114,21 @@ Vervallen
 
 ##### Artikel 4
 
-Indien een vooronderzoek als bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=66) onderscheidenlijk [artikel 74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=74) is uitgevoerd door een lid of plaatsvervangend lid van een regionaal tuchtcollege dan wel van het centrale tuchtcollege, bedraagt het vacatiegeld voor zodanig vooronderzoek € 158,–.
+Indien een vooronderzoek als bedoeld in [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=66) onderscheidenlijk [artikel 74 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=74) is uitgevoerd door een lid of plaatsvervangend lid van een regionaal tuchtcollege dan wel van het centrale tuchtcollege, bedraagt het vacatiegeld voor zodanig vooronderzoek € 165,–.
 
 ##### Artikel 5
 
-Voor het beoordelen of een zaak in raadkamer kan worden behandeld of naar een terechtzitting van een tuchtcollege moet worden verwezen, dan wel voor het geven van een advies aan de voorzitter of diens plaatsvervanger, bedraagt het vacatiegeld € 158,– per schriftelijk gemotiveerd advies, indien dit is verricht door een lid-beroepsgenoot, een plaatsvervangend lid-beroepsgenoot, een rechtsgeleerd lid of een plaatsvervangend rechtsgeleerd lid.
+Voor het beoordelen of een zaak in raadkamer kan worden behandeld of naar een terechtzitting van een tuchtcollege moet worden verwezen, dan wel voor het geven van een advies aan de voorzitter of diens plaatsvervanger, bedraagt het vacatiegeld € 165,– per schriftelijk gemotiveerd advies, indien dit is verricht door een lid-beroepsgenoot, een plaatsvervangend lid-beroepsgenoot, een rechtsgeleerd lid of een plaatsvervangend rechtsgeleerd lid.
 
 ##### Artikel 6
 
-Reis- en verblijfkosten van leden en plaatsvervangende leden die niet in vaste, algemene dienst van het Rijk zijn aangesteld, worden vergoed per zittingsdag of per dag dat is deelgenomen aan een selectiecommissie als bedoeld in [artikel 5bis](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=5bis&z=2022-04-01&g=2022-04-01), overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+Reis- en verblijfkosten van leden en plaatsvervangende leden die niet in vaste, algemene dienst van het Rijk zijn aangesteld, worden vergoed per zittingsdag of per dag dat is deelgenomen aan een selectiecommissie als bedoeld in [artikel 5bis](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=5bis&z=2023-04-01&g=2023-04-01), overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 7
 
 1. Deze regeling is niet van toepassing op leden van tuchtcolleges die op grond van enige benoeming bij een tuchtcollege, daarvoor uit andere hoofde dan deze regeling een bezoldiging of tegemoetkoming ontvangen.
 
-2. Onverminderd [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=5a&z=2022-04-01&g=2022-04-01) en in afwijking van het eerste lid hebben leden van tuchtcolleges die buiten het kader van hun benoeming werkzaamheden verrichten bij een ander tuchtcollege dan het tuchtcollege bedoeld in het eerste lid en aan wie voor 1 december 2011 vacatiegelden voor dergelijke werkzaamheden zijn toegekend, aanspraak op vacatiegeld op basis van deze regeling, voor zover het werkzaamheden betreft:
+2. Onverminderd [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=5a&z=2023-04-01&g=2023-04-01) en in afwijking van het eerste lid hebben leden van tuchtcolleges die buiten het kader van hun benoeming werkzaamheden verrichten bij een ander tuchtcollege dan het tuchtcollege bedoeld in het eerste lid en aan wie voor 1 december 2011 vacatiegelden voor dergelijke werkzaamheden zijn toegekend, aanspraak op vacatiegeld op basis van deze regeling, voor zover het werkzaamheden betreft:
 
 - a. die zijn verricht voor 1 januari 2014, en
 
@@ -142,7 +142,7 @@ De volgende regelingen worden ingetrokken: de [Regeling vergoedingen leden-beroe
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=7&z=2022-04-01&g=2022-04-01) werkt terug tot en met 1 januari 2008
+2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=7&z=2023-04-01&g=2023-04-01) werkt terug tot en met 1 januari 2008
 
 ##### Artikel 10
 
@@ -154,11 +154,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Degene die in aanmerking komt voor vacatiegeld op grond van deze regeling, dient daarvoor een declaratie in binnen zes maanden na de datum van de eindbeslissing of het advies als, bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50).
 
-2. Bij wijziging van de samenstelling van het tuchtcollege als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2022-04-01&g=2022-04-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot wijziging.
+2. Bij wijziging van de samenstelling van het tuchtcollege als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2023-04-01&g=2023-04-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot wijziging.
 
-3. Bij staking van de behandeling als bedoeld in [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2022-04-01&g=2022-04-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot staking.
+3. Bij staking van de behandeling als bedoeld in [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2023-04-01&g=2023-04-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing tot staking.
 
-4. Bij een wrakingverzoek als bedoeld in [artikel 2, negende of tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2022-04-01&g=2022-04-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing op het wrakingverzoek.
+4. Bij een wrakingverzoek als bedoeld in [artikel 2, negende of tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026608&artikel=2&z=2023-04-01&g=2023-04-01), worden de betreffende declaraties ingediend binnen zes maanden na de datum van de beslissing op het wrakingverzoek.
 
 5. Declaraties die niet binnen de termijnen, bedoeld in het eerste, tweede, derde of vierde lid zijn ingediend, worden niet in behandeling genomen.
 
@@ -166,6 +166,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5bis
 
-Aan de leden-beroepsgenoten en plaatsvervangende leden-beroepsgenoten van een tuchtcollege wordt vacatiegeld ten bedrage van € 242,– toegekend voor het als lid-beroepsgenoot van een selectiecommissie bijwonen van per selectieronde een of meer selectiegesprekken met een of meer kandidaten die in aanmerking willen komen voor benoeming tot lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot.
+Aan de leden-beroepsgenoten en plaatsvervangende leden-beroepsgenoten van een tuchtcollege wordt vacatiegeld ten bedrage van € 252,– toegekend voor het als lid-beroepsgenoot van een selectiecommissie bijwonen van per selectieronde een of meer selectiegesprekken met een of meer kandidaten die in aanmerking willen komen voor benoeming tot lid-beroepsgenoot of plaatsvervangend lid-beroepsgenoot.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
