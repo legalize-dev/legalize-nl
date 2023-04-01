@@ -4,7 +4,7 @@ identifier: "BWBR0046702"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-21"
-last_updated: "2022-05-26"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046702"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046702&artikel=2&z=2022-05-26&g=2022-05-26).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046702&artikel=2&z=2023-04-01&g=2023-04-01).
 
 ##### Artikel 2
 
@@ -70,7 +70,9 @@ De personen, werkzaam in de functie van Handhaver A, Handhaver B en Handhaver C 
 
 ##### Artikel 4
 
-Op grond van dit besluit kunnen maximaal 12 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+1. Op grond van dit besluit kunnen maximaal 12 personen als buitengewoon opsporingsambtenaar worden beëdigd.
+
+2. De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen.
 
 ##### Artikel 5
 
@@ -82,13 +84,13 @@ Op grond van dit besluit kunnen maximaal 12 personen als buitengewoon opsporings
 
 1. De gemeente Zutphen brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046702&artikel=2&z=2022-05-26&g=2022-05-26) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046702&artikel=2&z=2023-04-01&g=2023-04-01) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046702&artikel=5&z=2022-05-26&g=2022-05-26) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046702&artikel=5&z=2023-04-01&g=2023-04-01) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
