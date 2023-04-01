@@ -4,7 +4,7 @@ identifier: "BWBR0037222"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-04-01"
-last_updated: "2019-10-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037222"
 soort: "zbo"
@@ -45,7 +45,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen hanteert bij de uitvoering van 
 
 ##### Artikel 2
 
-De bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037222&artikel=1&z=2019-10-01&g=2019-10-01), ligt ter inzage bij de locaties van de afdeling Arbeidsjuridische dienstverlening van UWV WERKbedrijf en is te raadplegen op de website www.uwv.nl.
+De bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037222&artikel=1&z=2023-04-01&g=2023-04-01), ligt ter inzage bij de locaties van de afdeling Arbeidsjuridische dienstverlening van UWV WERKbedrijf en is te raadplegen op de website www.uwv.nl.
 
 ##### Artikel 3
 
@@ -61,6 +61,6 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 ## Bijlage
 
-Ligt ter inzage bij de locaties van de afdeling Arbeidsjuridische dienstverlening van UWV WERKbedrijf en is gepubliceerd op www.uwv.nl.
+Ligt ter inzage bij de locaties van de afdeling Arbeidsjuridische dienstverlening van UWV Werkbedrijf en is gepubliceerd op [www.uwv.nl](onbekend).
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
