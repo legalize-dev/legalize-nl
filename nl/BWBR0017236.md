@@ -4,7 +4,7 @@ identifier: "BWBR0017236"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017236"
 soort: "ministeriele-regeling"
@@ -95,7 +95,7 @@ Besluit:
 
 ##### Artikel 3
 
-Vervallen
+Voor examinatoren voor typebevoegdverklaringen voor een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening zijn de eisen bedoeld in deel FCL, subdeel K, sectie 1 en sectie 3, van [verordening (EU) nr. 1178/2011](32011R1178) van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -115,7 +115,7 @@ Vervallen
 
 ##### Artikel 7
 
-Een autorisatie is ongeldig gedurende de periode dat de examinator niet voldoet aan een of meer eisen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01). Indien een dergelijke situatie zich voordoet, is de examinator verplicht dit onverwijld te melden aan de minister.
+Een autorisatie is ongeldig gedurende de periode dat de examinator niet voldoet aan een of meer eisen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-04-01&g=2023-04-01). Indien een dergelijke situatie zich voordoet, is de examinator verplicht dit onverwijld te melden aan de minister.
 
 #### § 2.3. Inhoudelijke eisen
 
@@ -137,11 +137,11 @@ Er kunnen senior-examinatoren benoemd worden.
 
 1. Een senior-examinator heeft de volgende taken:
 
-- a. het uitoefenen van supervisie met betrekking tot acceptatietesten, zoals uitgevoerd door een kandidaat-examinator ter verkrijging van een autorisatie tot examinator als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01);
+- a. het uitoefenen van supervisie met betrekking tot acceptatietesten, zoals uitgevoerd door een kandidaat-examinator ter verkrijging van een autorisatie tot examinator als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-04-01&g=2023-04-01);
 
 - b. tijdens het uitoefenen van supervisie met betrekking tot acceptatietesten als bedoeld in onderdeel a, uitoefenen van de bevoegdheden van een examinator ten opzichte van de examenkandidaat;
 
-- c. het beoordelen van het afnemen van praktijkexamens en proeven van bekwaamheid door een examinator, in het kader van een verlenging van een autorisatie tot examinator als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2020-01-01&g=2020-01-01);
+- c. het beoordelen van het afnemen van praktijkexamens en proeven van bekwaamheid door een examinator, in het kader van een verlenging van een autorisatie tot examinator als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-04-01&g=2023-04-01);
 
 - d. het leveren van een bijdrage aan de standaardisatie van praktijkexamens en proeven van bekwaamheid;
 
@@ -163,15 +163,27 @@ Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleid
 
 ##### Artikel 14
 
-1. Een senior-examinator kan indien deze een taak uitoefent als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2020-01-01&g=2020-01-01) hiervoor een vergoeding declareren bij de minister.
+1. Een senior-examinator kan indien deze een taak uitoefent als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017236&hoofdstuk=3&artikel=11&z=2023-04-01&g=2023-04-01) hiervoor een vergoeding declareren bij de minister.
 
 2. De vergoeding, bedoeld in het eerste lid, bestaat uit:
 
-- a. een honorarium dat € 200,– per dag bedraagt, en
+- a. een honorarium dat € 327,– bedraagt, en
 
 - b. de ten behoeve van het uitoefenen van de taak gemaakte reis- en verblijfkosten, die volgens hetgeen daarover overeengekomen is in de laatste afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn worden vergoed.
 
-3. Reis- en verblijfkosten die een senior-examinator in het buitenland maakt worden niet vergoed door de minister. Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleidingsinstelling, declareert geen vergoeding bij de minister wanneer hij in het kader van een verlenging van een autorisatie tot examinator, het afnemen van een praktijkexamen of proeve van bekwaamheid door een examinator in dienst van dezelfde luchtvaartmaatschappij of opleidingsinstelling beoordeelt.
+3. De vergoeding, genoemd in het tweede lid, onderdeel a, kan als volgt gedeclareerd worden:
+
+- 1°. tweemaal voor het afnemen van een examen met inbegrip van de voorbereiding;
+
+- 2°. tweemaal voor de deelname aan een vergadering met inbegrip van de voorbereiding;
+
+- 3°. tweemaal voor het geven van een seminar met inbegrip van de voorbereiding;
+
+- 4°. eenmaal voor het volgen van educatie per dag of een gedeelte daarvan;
+
+- 5°. eenmaal voor administratieve werkzaamheden in opdracht van de Inspectie Leefomgeving en Transport.
+
+4. Reis- en verblijfkosten die een senior-examinator in het buitenland maakt worden niet vergoed door de minister. Een senior-examinator, die in dienst is van een luchtvaartmaatschappij of opleidingsinstelling, declareert geen vergoeding bij de minister wanneer hij in het kader van een verlenging van een autorisatie tot examinator, het afnemen van een praktijkexamen of proeve van bekwaamheid door een examinator in dienst van dezelfde luchtvaartmaatschappij of opleidingsinstelling beoordeelt.
 
 ##### Artikel 15
 
