@@ -4,7 +4,7 @@ identifier: "BWBR0006286"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-01"
-last_updated: "2022-09-21"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006286"
 soort: "wet"
@@ -43,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. De bezoldiging van ministers wordt bepaald op € 12.968,19 per maand. De bezoldiging van staatssecretarissen wordt bepaald op € 12.110,51 per maand.
+1. De bezoldiging van ministers wordt bepaald op € 13.357,23 per maand. De bezoldiging van staatssecretarissen wordt bepaald op € 12.473,82 per maand.
 
 2. Indien voor de ambtenaren die op grond van een arbeidsovereenkomst met de Staat werkzaam zijn bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in een collectieve arbeidsovereenkomst een wijziging van het loon is overeengekomen en daarbij is bepaald dat die wijziging een algemeen karakter draagt, wordt bij ministeriële regeling met ingang van de datum, waarop die wijziging ingaat, de bezoldiging van ministers en staatssecretarissen dienovereenkomstig gewijzigd, onder nadere vaststelling, voor zoveel nodig, van de in het eerste lid genoemde bedragen.
 
@@ -51,7 +51,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2
 
-1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2022-09-21&g=2022-09-21), ontvangen ministers en staatssecretarissen een eindejaarsuitkering van 8,3 procent van de bezoldiging en een vakantie-uitkering van 8 procent van de bezoldiging.
+1. Boven en behalve de bezoldiging, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2023-04-01&g=2023-04-01), ontvangen ministers en staatssecretarissen een eindejaarsuitkering van 8,3 procent van de bezoldiging en een vakantie-uitkering van 8 procent van de bezoldiging.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld ten aanzien van:
 
@@ -69,13 +69,13 @@ Na het overlijden van een minister of staatssecretaris wordt op de voet van hetg
 
 ##### Artikel 4
 
-1. Op de bezoldiging en uitkeringen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2022-09-21&g=2022-09-21), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2022-09-21&g=2022-09-21), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=3&z=2022-09-21&g=2022-09-21) is, voor zover in deze wet niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
+1. Op de bezoldiging en uitkeringen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2023-04-01&g=2023-04-01), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2023-04-01&g=2023-04-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=3&z=2023-04-01&g=2023-04-01) is, voor zover in deze wet niet anders is bepaald, beslag mogelijk overeenkomstig de voorschriften van het gemene recht.
 
-2. Kostenvergoedingen krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2022-09-21&g=2022-09-21), zijn niet vatbaar voor beslag.
+2. Kostenvergoedingen krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2023-04-01&g=2023-04-01), zijn niet vatbaar voor beslag.
 
 ##### Artikel 5
 
-Onverschuldigd betaalde bezoldiging of uitkeringen als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2022-09-21&g=2022-09-21), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2022-09-21&g=2022-09-21), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=3&z=2022-09-21&g=2022-09-21) kunnen worden teruggevorderd.
+Onverschuldigd betaalde bezoldiging of uitkeringen als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2023-04-01&g=2023-04-01), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2023-04-01&g=2023-04-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=3&z=2023-04-01&g=2023-04-01) kunnen worden teruggevorderd.
 
 ##### Artikel 6
 
@@ -97,15 +97,15 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5a
 
-1. Met de bezoldiging en de uitkeringen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2022-09-21&g=2022-09-21), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2022-09-21&g=2022-09-21), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=3&z=2022-09-21&g=2022-09-21), kan worden verrekend hetgeen de minister of staatssecretaris of zijn nagelaten betrekkingen zelf als zodanig aan de Staat verschuldigd is of zijn.
+1. Met de bezoldiging en de uitkeringen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2023-04-01&g=2023-04-01), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2023-04-01&g=2023-04-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=3&z=2023-04-01&g=2023-04-01), kan worden verrekend hetgeen de minister of staatssecretaris of zijn nagelaten betrekkingen zelf als zodanig aan de Staat verschuldigd is of zijn.
 
-2. Verrekening als bedoeld in het eerste lid kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 5b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=5b&z=2022-09-21&g=2022-09-21).
+2. Verrekening als bedoeld in het eerste lid kan plaatshebben ondanks gelegd beslag of toegepaste korting als bedoeld in [artikel 5b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=5b&z=2023-04-01&g=2023-04-01).
 
 3. Verrekening als bedoeld in het eerste lid is slechts in zoverre geldig als een beslag op die bezoldiging of uitkeringen geldig zou zijn, met dien verstande dat verrekening van hetgeen wegens genoten huisvesting of voeding is verschuldigd eveneens kan plaatsvinden met dat deel van de bezoldiging dat de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) vormt.
 
 ##### Artikel 5b
 
-1. Op de bezoldiging en de uitkeringen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2022-09-21&g=2022-09-21), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2022-09-21&g=2022-09-21), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=3&z=2022-09-21&g=2022-09-21), kan ten behoeve van een schuldeiser van de minister of staatssecretaris of zijn nagelaten betrekkingen een korting worden toegepast, mits de minister of staatssecretaris onderscheidenlijk zijn nagelaten betrekkingen de vordering van de schuldeiser erkent of erkennen dan wel het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
+1. Op de bezoldiging en de uitkeringen, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=1&z=2023-04-01&g=2023-04-01), [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=2&z=2023-04-01&g=2023-04-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=3&z=2023-04-01&g=2023-04-01), kan ten behoeve van een schuldeiser van de minister of staatssecretaris of zijn nagelaten betrekkingen een korting worden toegepast, mits de minister of staatssecretaris onderscheidenlijk zijn nagelaten betrekkingen de vordering van de schuldeiser erkent of erkennen dan wel het bestaan van de vordering blijkt uit een in kracht van gewijsde gegane rechterlijke uitspraak dan wel uit een authentieke akte.
 
 2. Korting is slechts in zoverre geldig als een beslag op die bezoldiging geldig zou zijn.
 
@@ -113,7 +113,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5c
 
-Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=5a&z=2022-09-21&g=2022-09-21), en [artikel 5b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=5b&z=2022-09-21&g=2022-09-21), verrekening en korting gelijkgesteld met beslag.
+Voor de toepassing van [artikel 475b, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b) worden, onverminderd [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=5a&z=2023-04-01&g=2023-04-01), en [artikel 5b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006286&artikel=5b&z=2023-04-01&g=2023-04-01), verrekening en korting gelijkgesteld met beslag.
 
 ##### Artikel 5d
 
