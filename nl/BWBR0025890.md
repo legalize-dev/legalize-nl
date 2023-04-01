@@ -4,7 +4,7 @@ identifier: "BWBR0025890"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-01"
-last_updated: "2022-10-01"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025890"
 soort: "ministeriele-regeling"
@@ -67,9 +67,9 @@ Besluit:
 
 ##### Artikel 25
 
-1. In afwijking van [artikel 5, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2022-10-01&g=2022-10-01), en [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2022-10-01&g=2022-10-01), blijven degenen die stagebegeleiders waren voor de inwerkingtreding van de [Wet van 19 december 2018 tot wijziging van de Wet rijonderricht motorrijtuigen 1993 (wijzigingen naar aanleiding van evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen)](https://wetten.overheid.nl/jci1.3:c:BWBR0041825) (Stb. 2019, 6) aangewezen als stagebegeleider.
+1. In afwijking van [artikel 5, derde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2023-04-01&g=2023-04-01), en [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2023-04-01&g=2023-04-01), blijven degenen die stagebegeleiders waren voor de inwerkingtreding van de [Wet van 19 december 2018 tot wijziging van de Wet rijonderricht motorrijtuigen 1993 (wijzigingen naar aanleiding van evaluatie, nascholing beroepschauffeurs, bestuursrechtelijke handhaving en enkele verbeteringen)](https://wetten.overheid.nl/jci1.3:c:BWBR0041825) (Stb. 2019, 6) aangewezen als stagebegeleider.
 
-2. Met ingang van 1 oktober 2022 wordt in [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2022-10-01&g=2022-10-01), ‘ten minste drie jaar’ vervangen door ‘ten minste vijf jaar’.
+2. Met ingang van 1 oktober 2022 wordt in [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2023-04-01&g=2023-04-01), ‘ten minste drie jaar’ vervangen door ‘ten minste vijf jaar’.
 
 ##### Artikel 26
 
@@ -89,7 +89,7 @@ Deze regeling wordt aangehaald als: Regeling rijonderricht motorrijtuigen 2009.
 
 ##### Artikel 30
 
-Deze regeling treedt in werking met ingang van 1 juni 2009 met uitzondering van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=13&artikel=25&z=2022-10-01&g=2022-10-01), dat in werking treedt op 1 juni 2009 en terug werkt tot en met 3 februari 2009.
+Deze regeling treedt in werking met ingang van 1 juni 2009 met uitzondering van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=13&artikel=25&z=2023-04-01&g=2023-04-01), dat in werking treedt op 1 juni 2009 en terug werkt tot en met 3 februari 2009.
 
 ## Bijlage 1
 
@@ -131,13 +131,13 @@ Degene die de geschiktheidstest, bedoeld in [artikel 9, vierde lid, van de wet](
 
 3. De kandidaat sluit elk onderdeel van fase 1 en fase 2 met het oordeel ‘voldoende’ af. Elk oordeel ‘voldoende’ is twaalf aaneengesloten maanden geldig. Binnen de periode dat een oordeel ‘voldoende’ geldig is, kan de kandidaat de onderdelen die niet met het oordeel ‘voldoende’ zijn afgesloten opnieuw afleggen. Overeenkomstig [artikel 12a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12a), mag de kandidaat die elk onderdeel van fase 1 en fase 2 met een voldoende heeft afgesloten, deelnemen aan de stage, ook wel aangeduid als fase 3.
 
-4. Met inachtneming van [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5) omvat de theorietoets in fase 1 de in [bijlage 1, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2022-10-01&g=2022-10-01), genoemde onderdelen.
+4. Met inachtneming van [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5) omvat de theorietoets in fase 1 de in [bijlage 1, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2023-04-01&g=2023-04-01), genoemde onderdelen.
 
-5. Met inachtneming van [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5) omvat de praktijkrit in fase 1 naast de onderdelen, bedoeld in het vierde lid, de in [bijlage 1, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2022-10-01&g=2022-10-01), genoemde onderdelen.
+5. Met inachtneming van [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5) omvat de praktijkrit in fase 1 naast de onderdelen, bedoeld in het vierde lid, de in [bijlage 1, onderdeel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2023-04-01&g=2023-04-01), genoemde onderdelen.
 
-6. Met inachtneming van [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5) omvat de theorietoets Lesvoorbereiding in fase 2 de in [bijlage 1, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2022-10-01&g=2022-10-01), genoemde onderdelen.
+6. Met inachtneming van [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5) omvat de theorietoets Lesvoorbereiding in fase 2 de in [bijlage 1, onderdeel III](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2023-04-01&g=2023-04-01), genoemde onderdelen.
 
-7. Met inachtneming van [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5) omvat de theorietoets Lesuitvoering en beoordelen in fase 2 de in [bijlage 1, onderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2022-10-01&g=2022-10-01), genoemde onderdelen.
+7. Met inachtneming van [artikel 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=5) omvat de theorietoets Lesuitvoering en beoordelen in fase 2 de in [bijlage 1, onderdeel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2023-04-01&g=2023-04-01), genoemde onderdelen.
 
 8. Het examen bestaat, met overeenkomstige toepassing van het eerste lid, tweede zin, en derde lid, voor het certificaat rijinstructeur voor:
 
@@ -157,9 +157,9 @@ Degene die de geschiktheidstest, bedoeld in [artikel 9, vierde lid, van de wet](
 
 5. Als de kandidaat is meegereden met een praktijkexamen of tussentijdse toets voor het besturen van motorrijtuigen van een leerling van de stagebegeleider geeft de examinator van het CBR die het praktijkexamen of de tussentijdse toets heeft beoordeeld daarvan een verklaring af.
 
-6. Met inachtneming van [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=8) omvat de stage de in [bijlage 1, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2022-10-01&g=2022-10-01), genoemde onderdelen.
+6. Met inachtneming van [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=8) omvat de stage de in [bijlage 1, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2023-04-01&g=2023-04-01), genoemde onderdelen.
 
-7. De beoordeling van de stage vindt plaats overeenkomstig de in [bijlage 1, onderdeel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2022-10-01&g=2022-10-01), genoemde eisen.
+7. De beoordeling van de stage vindt plaats overeenkomstig de in [bijlage 1, onderdeel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=1&z=2023-04-01&g=2023-04-01), genoemde eisen.
 
 8. Bij een beoordeling met een resultaat ‘onvoldoende’ kan de stagiair tijdens de termijn dat zijn certificaat, bedoeld in [artikel 13, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13), geldig is maximaal twee keer een nieuwe beoordeling vragen. Bij een resultaat ‘onvoldoende’ voor de tweede herbeoordeling legt de kandidaat het examen vanaf fase 1 opnieuw af, met dien verstande dat niet alle uren als bedoeld in het eerste en tweede lid opnieuw gevolgd hoeven te worden. Op de rijlessen van zijn stagebegeleider waarbij de kandidaat in die periode van de stage meerijdt en de volledige praktische rijlessen die de kandidaat zelf geeft aan een leerling die wordt opgeleid voor het praktijkexamen in de betrokken motorrijtuigcategorie zijn het derde en het vierde lid van overeenkomstige toepassing.
 
@@ -211,7 +211,7 @@ Het instituut stelt een formulier op voor de aanvraag.
 
 ##### Artikel 9
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2022-10-01&g=2022-10-01) is van overeenkomstige toepassing in het geval de rijinstructeur de fasen 1 of 2 uit het examen, of de praktijkrit uit het examen in het kader van het herintrederstraject, bedoeld in [artikel 12c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c), doet.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01) is van overeenkomstige toepassing in het geval de rijinstructeur de fasen 1 of 2 uit het examen, of de praktijkrit uit het examen in het kader van het herintrederstraject, bedoeld in [artikel 12c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c), doet.
 
 2. Fase 3 uit het examen in het kader van het herintrederstraject als bedoeld in [artikel 13, eerste lid, onderdeel a, onder 3°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=13) bestaat uit het geven van volledige praktische rijlessen aan een leerling die wordt opgeleid voor het praktijkexamen in dezelfde motorrijtuigcategorie als waarvoor de herintreder aan de stage deelneemt voor de duur van:
 
@@ -219,7 +219,7 @@ Het instituut stelt een formulier op voor de aanvraag.
 
 - b. minimaal tien klokuren voor de motorrijtuigcategorie A.
 
-[Artikel 5, eerste lid, tweede zin, tweede lid, tweede zin, derde, vierde en zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2022-10-01&g=2022-10-01), is van overeenkomstige toepassing.
+[Artikel 5, eerste lid, tweede zin, tweede lid, tweede zin, derde, vierde en zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2023-04-01&g=2023-04-01), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Herintreding
 
@@ -259,11 +259,11 @@ Als diploma van een politierijinstructeur als bedoeld in [artikel 8 van de wet](
 
 ##### Artikel 16
 
-Het certificaat rijinstructeur is overeenkomstig de modellen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=2&z=2022-10-01&g=2022-10-01) van deze regeling.
+Het certificaat rijinstructeur is overeenkomstig de modellen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=2&z=2023-04-01&g=2023-04-01) van deze regeling.
 
 ##### Artikel 17
 
-De certificaten scholing educatieve maatregel ten behoeve van de lichte educatieve maatregel alcohol en verkeer, de educatieve maatregel alcohol en verkeer en de educatieve maatregel gedrag en verkeer zijn overeenkomstig de modellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=3&z=2022-10-01&g=2022-10-01) bij deze regeling
+De certificaten scholing educatieve maatregel zijn overeenkomstig de modellen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&bijlage=3&z=2023-04-01&g=2023-04-01) bij deze regeling.
 
 ### Hoofdstuk 12. Migrerende beroepsbeoefenaars
 
@@ -335,7 +335,7 @@ De kandidaat kan na afloop van een zelfstandig gereden verkeersopgave in reële 
 
 ### C. Competentie: organiseren
 
-### II. Onderdelen, bedoeld in de [artikelen 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2022-10-01&g=2022-10-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4a&z=2022-10-01&g=2022-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2022-10-01&g=2022-10-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2022-10-01&g=2022-10-01) van de Regeling rijonderricht motorrijtuigen 2009
+### II. Onderdelen, bedoeld in de [artikelen 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4a&z=2023-04-01&g=2023-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2023-04-01&g=2023-04-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2023-04-01&g=2023-04-01) van de Regeling rijonderricht motorrijtuigen 2009
 
 ### A. Competentie: verantwoord rijden als eerste bestuurder
 
@@ -345,7 +345,7 @@ De kandidaat kan na afloop van een zelfstandig gereden verkeersopgave in reële 
 
 ### A. Competentie: instructie geven
 
-### III. Onderdelen, bedoeld in de [artikelen 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2022-10-01&g=2022-10-01), [4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4a&z=2022-10-01&g=2022-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2022-10-01&g=2022-10-01) en [9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2022-10-01&g=2022-10-01), van de Regeling rijonderricht motorrijtuigen 2009
+### III. Onderdelen, bedoeld in de [artikelen 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), [4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4a&z=2023-04-01&g=2023-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2023-04-01&g=2023-04-01) en [9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2023-04-01&g=2023-04-01), van de Regeling rijonderricht motorrijtuigen 2009
 
 ### A. Competentie: lesplanning op maat maken
 
@@ -357,7 +357,7 @@ De kandidaat kan na afloop van een zelfstandig gereden verkeersopgave in reële 
 
 ### C. Competentie: organiseren
 
-### IV. Onderdelen, bedoeld in de [artikelen 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2022-10-01&g=2022-10-01), [4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4a&z=2022-10-01&g=2022-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2022-10-01&g=2022-10-01) en [9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2022-10-01&g=2022-10-01), van de Regeling rijonderricht motorrijtuigen 2009
+### IV. Onderdelen, bedoeld in de [artikelen 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), [4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4a&z=2023-04-01&g=2023-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2023-04-01&g=2023-04-01) en [9a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2023-04-01&g=2023-04-01), van de Regeling rijonderricht motorrijtuigen 2009
 
 ### A. Competentie: instructie geven
 
@@ -365,7 +365,7 @@ De kandidaat kan na afloop van een zelfstandig gereden verkeersopgave in reële 
 
 ### C. Competentie: beoordelen van rijvorderingen
 
-### V. Onderdelen, bedoeld in de [artikelen 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2022-10-01&g=2022-10-01), [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2022-10-01&g=2022-10-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2022-10-01&g=2022-10-01), en [9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2022-10-01&g=2022-10-01), van de Regeling rijonderricht motorrijtuigen 2009
+### V. Onderdelen, bedoeld in de [artikelen 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2023-04-01&g=2023-04-01), [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2023-04-01&g=2023-04-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2023-04-01&g=2023-04-01), en [9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2023-04-01&g=2023-04-01), van de Regeling rijonderricht motorrijtuigen 2009
 
 ### A. Competentie: voertuigbeheersing als tweede bestuurder
 
@@ -399,7 +399,7 @@ De kandidaat laat zien dat hij als tweede bestuurder van een lesauto beschikt ov
 
 De kandidaat laat zien dat hij als tweede bestuurder van een lesauto beschikt over voertuigbeheersing, doordat hij:
 
-### I. Onderdelen, bedoeld in de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2022-10-01&g=2022-10-01), [4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4a&z=2022-10-01&g=2022-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2022-10-01&g=2022-10-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2022-10-01&g=2022-10-01) van de Regeling rijonderricht motorrijtuigen 2009
+### I. Onderdelen, bedoeld in de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), [4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4a&z=2023-04-01&g=2023-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2023-04-01&g=2023-04-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2023-04-01&g=2023-04-01) van de Regeling rijonderricht motorrijtuigen 2009
 
 De kandidaat beschikt over kennis van en inzicht in onderwerpen die voor een veilige, vlotte en milieubewuste verkeersdeelname relevant zijn, doordat hij:
 
@@ -413,7 +413,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a
 
-1. [Artikel 4, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2022-10-01&g=2022-10-01), is van overeenkomstige toepassing op het examen voor het certificaat rijinstructeur voor de motorrijtuigcategorie T voor een kandidaat die niet in het bezit is van een geldig certificaat rijinstructeur voor de motorrijtuigcategorie B.
+1. [Artikel 4, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), is van overeenkomstige toepassing op het examen voor het certificaat rijinstructeur voor de motorrijtuigcategorie T voor een kandidaat die niet in het bezit is van een geldig certificaat rijinstructeur voor de motorrijtuigcategorie B.
 
 2. Het examen bestaat voor het certificaat rijinstructeur voor de motorrijtuigcategorie T voor een kandidaat die in het bezit is van:
 
@@ -421,7 +421,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. een geldig certificaat rijinstructeur voor de motorrijtuigcategorie B en de motorrijtuigcategorie E bij C uit fase 1.
 
-3. [Artikel 4, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2022-10-01&g=2022-10-01), is van overeenkomstige toepassing.
+3. [Artikel 4, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 5a
 
@@ -429,13 +429,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De begeleider is ten minste vijf jaar in het bezit van een certificaat als bedoeld in [artikel 13, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=13) voor de motorrijtuigcategorie T en heeft een theoretische bijscholing Stagementor gevolgd.
 
-3. [Artikel 5, vierde en zesde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2022-10-01&g=2022-10-01), is van overeenkomstige toepassing.
+3. [Artikel 5, vierde en zesde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2023-04-01&g=2023-04-01), is van overeenkomstige toepassing.
 
 ##### Artikel 9a
 
-1. [Artikel 4, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2022-10-01&g=2022-10-01), is van overeenkomstige toepassing in het geval een rijinstructeur ten behoeve van het certificaat rijinstructeur voor de motorrijtuigcategorie T de fasen 1 en 2 uit het examen in het kader van het herintrederstraject, bedoeld in [artikel 12c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c), doet.
+1. [Artikel 4, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=4&artikel=4&z=2023-04-01&g=2023-04-01), is van overeenkomstige toepassing in het geval een rijinstructeur ten behoeve van het certificaat rijinstructeur voor de motorrijtuigcategorie T de fasen 1 en 2 uit het examen in het kader van het herintrederstraject, bedoeld in [artikel 12c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006073&artikel=12c), doet.
 
-2. Fase 3 uit het examen in het kader van het herintrederstraject als bedoeld in [artikel 13, eerste lid, onderdeel a, onder 3°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=13) bestaat voor de motorrijtuigcategorie T uit het geven van minimaal acht klokuren volledige praktische rijlessen op een oefenterrein aan een leerling die wordt opgeleid voor het praktijkexamen in de motorrijtuigcategorie T en minimaal vijf klokuren praktische rijlessen op de openbare weg aan de stagebegeleider als pseudoleerling. De stage wordt uitgevoerd overeenkomstig de aanwijzingen van het instituut. [Artikel 5, vierde, zesde en zevende lid, achtste lid, derde zin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2022-10-01&g=2022-10-01), en [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2022-10-01&g=2022-10-01), zijn van overeenkomstige toepassing.
+2. Fase 3 uit het examen in het kader van het herintrederstraject als bedoeld in [artikel 13, eerste lid, onderdeel a, onder 3°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025866&artikel=13) bestaat voor de motorrijtuigcategorie T uit het geven van minimaal acht klokuren volledige praktische rijlessen op een oefenterrein aan een leerling die wordt opgeleid voor het praktijkexamen in de motorrijtuigcategorie T en minimaal vijf klokuren praktische rijlessen op de openbare weg aan de stagebegeleider als pseudoleerling. De stage wordt uitgevoerd overeenkomstig de aanwijzingen van het instituut. [Artikel 5, vierde, zesde en zevende lid, achtste lid, derde zin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2023-04-01&g=2023-04-01), en [artikel 5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2023-04-01&g=2023-04-01), zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 7. Herintreding
 
@@ -457,7 +457,7 @@ Hij beschikt hiertoe over kennis en inzicht in:
 
 ### D. Competentie: beoordelen van rijvorderingen:
 
-### VI. Eisen ten aanzien van de beoordeling van de stage, bedoeld in de [artikelen 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2022-10-01&g=2022-10-01), [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2022-10-01&g=2022-10-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2022-10-01&g=2022-10-01), en [9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2022-10-01&g=2022-10-01), van de Regeling rijonderricht motorrijtuigen 2009
+### VI. Eisen ten aanzien van de beoordeling van de stage, bedoeld in de [artikelen 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5&z=2023-04-01&g=2023-04-01), [5a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=5&artikel=5a&z=2023-04-01&g=2023-04-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9&z=2023-04-01&g=2023-04-01), en [9a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=7&artikel=9a&z=2023-04-01&g=2023-04-01), van de Regeling rijonderricht motorrijtuigen 2009
 
 ### Model 5:. Pas als bedoeld in [artikel VI, tweede lid, onderdeel b, van de Wet van PM tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs)](https://wetten.overheid.nl/jci1.3:c:BWBR0036167&artikel=VI) (Stb. PM), afgegeven door de Stichting Bevordering Verkeerseducatie
 
@@ -503,11 +503,11 @@ Het instituut stelt een formulier op voor de aanvraag.
 
 2. Het lesplan, bedoeld in het eerste lid, onderdeel b, wordt afgestemd op de behoefte van cursisten en bestaat ten minste uit:
 
-- a. een individueel intakegesprek als bedoeld in [artikel 8a, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=6&artikel=8a&z=2022-10-01&g=2022-10-01);
+- a. een individueel intakegesprek als bedoeld in [artikel 8a, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=6&artikel=8a&z=2023-04-01&g=2023-04-01);
 
 - b. het door degene die de bijles volgt verzorgen van twee praktijklessen aan een leerling die wordt opgeleid voor het praktijkexamen in de motorrijtuigcategorie die overeenkomt met de motorrijtuigcategorie voor het geven van rijonderricht waarvoor de bijles wordt gevolgd;
 
-- c. een evaluatief eindgesprek als bedoeld in [artikel 8a, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=6&artikel=8a&z=2022-10-01&g=2022-10-01), na de laatste gegeven praktijkles.
+- c. een evaluatief eindgesprek als bedoeld in [artikel 8a, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=6&artikel=8a&z=2023-04-01&g=2023-04-01), na de laatste gegeven praktijkles.
 
 3. De aanvraag om te worden gecertificeerd gaat vergezeld van alle gegevens en bescheiden met betrekking tot de in het eerste en tweede lid genoemde criteria die voor de beslissing op de aanvraag nodig zijn, overeenkomstig het in het eerste lid genoemde formulier.
 
@@ -545,7 +545,7 @@ Hij beschikt hiertoe over kennis en inzicht in:
 
 De kandidaat laat zien dat hij als tweede bestuurder van een lesauto beschikt over voertuigbeheersing, doordat hij:
 
-## Bijlage 2. Modellen van certificaten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=11&artikel=16&z=2022-10-01&g=2022-10-01) van de Regeling rijonderricht motorrijtuigen 2009
+## Bijlage 2. Modellen van certificaten als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=11&artikel=16&z=2023-04-01&g=2023-04-01) van de Regeling rijonderricht motorrijtuigen 2009
 
 ### Model 1A Certificaat voor het geven van rijonderricht anders dan tijdens de stage (afgegeven met ingang van 1 juni 2009)1Het opnemen van de foto op de certificaten in de modellen 1A en 1B is facultatief.
 
@@ -569,4 +569,4 @@ De kandidaat laat zien dat hij als tweede bestuurder van een lesauto beschikt ov
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 3. Modellen van certificaten als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=11&artikel=17&z=2022-10-01&g=2022-10-01) van de Regeling rijonderricht motorrijtuigen 2009
+## Bijlage 3. Modellen van certificaten als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025890&hoofdstuk=11&artikel=17&z=2023-04-01&g=2023-04-01) van de Regeling rijonderricht motorrijtuigen 2009
