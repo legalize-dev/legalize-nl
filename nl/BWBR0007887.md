@@ -4,7 +4,7 @@ identifier: "BWBR0007887"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2005-08-31"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007887"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Waren
 
 ##### Artikel 1
 
-1. Kunststofdispersies die zijn aangebracht op de korst van schapekaas, geitekaas en kaas als bedoeld in [artikel 9 van het Warenwetbesluit Zuivel](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&artikel=9), mogen worden vervaardigd uit uitsluitend homo- of copolymeren van uitsluitend de volgende monomeren:
+1. Kaaskorstbedekkingsmiddelen op basis van kunststofdispersies die zijn aangebracht op de korst van schapekaas, geitekaas en kaas als bedoeld in [artikel 9 van het Warenwetbesluit Zuivel](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&artikel=9), mogen worden vervaardigd uit uitsluitend homo- of copolymeren van uitsluitend de volgende monomeren:
 
 - a. etheen;
 
@@ -57,7 +57,7 @@ Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Waren
 
 2. Voor de vervaardiging van de in het eerste lid bedoelde polymeren mogen katalysatoren, polymerisatieregelaars, zuurteregelaars en oplosmiddelen zijn gebruikt welke voor het desbetreffende polymeer zijn toegelaten bij of krachtens het [Warenwetbesluit verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0018370), voor zover [dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018370) ter zake regels stelt.
 
-3. Voor de vervaardiging van de in het eerste lid bedoelde kunststofdispersies mogen geen andere hulpstoffen worden gebruikt dan:
+3. Voor de vervaardiging van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen mogen geen andere hulpstoffen worden gebruikt dan:
 
 - a. natrium-laurylsulfaat;
 
@@ -79,7 +79,7 @@ Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Waren
 
 - j. polyvinylpyrrolidon.
 
-4. Voor de vervaardiging van de in het eerste lid bedoelde kunststofdispersies mogen geen andere pH-regulerende stoffen worden gebruikt dan:
+4. Voor de vervaardiging van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen mogen geen andere pH-regulerende stoffen worden gebruikt dan:
 
 - a. azijnzuur (E 260), alsmede de Na-, K-, Ca- en NH4-zouten ervan;
 
@@ -99,29 +99,7 @@ Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Waren
 
 - i. carbonaten en bicarbonaten van Na en K.
 
-5. Voor de vervaardiging van de in het eerste lid bedoelde kunststofdispersies mogen geen andere kleurstoffen worden gebruikt dan:
-
-- a. caroteen (E 160a)
-
-- b. annatto (E 160b);
-
-- c. carbo medicinalis vegetabilis (E 153);
-
-- d. titaandioxide (E 171);
-
-- e. tartrazine (E 102);
-
-- f. chinolinegeel (E 104);
-
-- g. zonnegeel FCF ( E 110);
-
-- h. cochenillerood A (E 124);
-
-- i. indigotine (E 132);
-
-- j. briljantzwart BN (E 151); of
-
-- k. litholrubine BK (E 180).
+5. Voor de vervaardiging van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen worden uitsluitend kleurstoffen gebruikt die ingevolge [Verordening (EG) Nr. 1333/2008](32008R1333) van het Europees Parlement en de Raad van 16 december 2008 inzake levensmiddelenadditieven (PbEU 2008, L 354) zijn toegestaan voor toevoeging aan eetbare kaaskorsten dan wel aan gerijpte kaas en voldoen aan de daarin gestelde gebruiksvoorwaarden.
 
 ##### Artikel 2
 
@@ -157,7 +135,7 @@ De onder a en c bedoelde paraffine en kristallijne was voldoen aan de ter zake b
 
 alsmede BHA tot ten hoogste 0,02 %.
 
-3. Onverminderd het tweede lid mogen bij de bereiding van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen geen andere kleurstoffen worden gebruikt dan die, bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=1&z=2005-08-31&g=2005-08-31).
+3. Onverminderd het tweede lid mogen bij de bereiding van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen uitsluitend kleurstoffen, bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=1&z=2023-04-01&g=2023-04-01), worden gebruikt.
 
 ##### Artikel 2a
 
@@ -173,9 +151,9 @@ alsmede BHA tot ten hoogste 0,02 %.
 
 2. Bij de bereiding van de in het eerste lid bedoelde kaaskorstbedekkingsmiddelen mogen:
 
-- a. de bestanddelen, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=2&z=2005-08-31&g=2005-08-31), worden toegevoegd tot ten hoogste 10%; en
+- a. de bestanddelen, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=2&z=2023-04-01&g=2023-04-01), worden toegevoegd tot ten hoogste 10%; en
 
-- b. uitsluitend de kleurstoffen worden gebruikt, genoemd in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=1&z=2005-08-31&g=2005-08-31), alsmede curcumine (E 100).
+- b. uitsluitend de kleurstoffen, bedoeld in [artikel 1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007887&artikel=1&z=2023-04-01&g=2023-04-01),worden gebruikt.
 
 ##### Artikel 3
 
