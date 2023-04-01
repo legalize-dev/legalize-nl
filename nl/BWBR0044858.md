@@ -4,7 +4,7 @@ identifier: "BWBR0044858"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-26"
-last_updated: "2023-03-29"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044858"
 soort: "ministeriele-regeling"
@@ -248,27 +248,7 @@ Vervallen
 
 ##### Artikel 13
 
-1. In dit artikel wordt verstaan onder:
-
-- **schadelijk organisme:** Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann en Kotthoff) Davis et al;
-
-- **uitvoeringsbesluit 2019/1614:** Uitvoeringsbesluit (EU) 2019/1614 van de Commissie van 26 september 2019 tot machtiging van de lidstaten om voor andere dan voor opplant bestemde aardappelen uit de regio’s Akkar en Bekaa in Libanon af te wijken van sommige bepalingen van [Richtlijn 2000/29/EG](32000L0029) van de Raad (PbEU 2019, L 250).
-
-2. Knollen van Solanum tuberosum L., andere dan bestemd voor opplant, uit de regio’s Akkar en Bekaa in Libanon mogen slechts in de Europese Unie worden binnengebracht indien zij:
-
-- a. voldoen aan de voorschriften van de bijlage bij uitvoeringsbesluit 2019/1614;
-
-- b. voorzien zijn van een fytosanitair certificaat dat voldoet aan de eisen, genoemd in artikel 2 van uitvoeringsbesluit 2019/1614;
-
-- c. worden binnengebracht in Eemshaven, Harlingen, Beverwijk, Amsterdam, Rotterdam en Vlissingen;
-
-- d. geïnspecteerd zijn op de aanwezigheid van het schadelijke organisme overeenkomstig artikel 4 van uitvoeringsbesluit 2019/1614 en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden;
-
-- e. voorzien zijn van een etiket dat voldoet aan de eisen, genoemd in artikel 6 van uitvoeringsbesluit 2019/1614.
-
-3. Een importeur brengt overeenkomstig artikel 8 van uitvoeringsbesluit 2019/1614 de verantwoordelijke officiële instantie van de plaats van binnenkomst voldoende van te voren op de hoogte van zijn intentie om knollen van Solanum tuberosum L., andere dan bestemd voor opplant, uit de regio’s Akkar en Bekaa in Libanon binnen te brengen.
-
-4. De afvalstoffen die overblijven na het verpakken en verwerken in de Europese Unie van knollen van Solanum tuberosum L., andere dan bestemd voor opplant, uit de regio’s Akkar en Bekaa in Libanon worden zo verwijderd dat het schadelijke organisme zich niet in de Europese Unie kan vestigen of verspreiden.
+Vervallen
 
 ##### Artikel 14
 
@@ -300,17 +280,17 @@ Vervallen
 
 ##### Artikel 16
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 juli 2023.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 juli 2023.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 augustus 2022.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 augustus 2022.
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 april 2022.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 april 2022.
 
-4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 april 2023.
+4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 april 2023.
 
-5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2023-03-29&g=2023-03-29), vervalt met ingang van 1 januari 2027.
+5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2023-04-01&g=2023-04-01), vervalt met ingang van 1 januari 2027.
 
-6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2023-03-29&g=2023-03-29) vervalt met ingang van 1 januari 2024.
+6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 januari 2024.
 
 ##### Artikel 17
 
