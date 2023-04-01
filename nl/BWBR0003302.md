@@ -4,7 +4,7 @@ identifier: "BWBR0003302"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2009-08-28"
+last_updated: "2023-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003302"
 soort: "ministeriele-regeling"
@@ -51,7 +51,7 @@ Het tarief voor de werkzaamheden van de Kamer voor de Binnenvisserij, zowel voor
 
 ##### Artikel 2
 
-Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&paragraaf=1&artikel=1&z=2009-08-28&g=2009-08-28) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
+Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&paragraaf=1&artikel=1&z=2023-04-01&g=2023-04-01) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
 
 ##### Artikel 2a
 
@@ -73,7 +73,7 @@ Deze regeling treedt in werking met ingang van 1 april 1980.
 
 Deze regeling wordt aangehaald als:
 
-Regeling tarieven Kamer voor de Binnenvisserij en geldsom visakten.
+Regeling tarieven Kamer voor de Binnenvisserij.
 
 #### Paragraaf 1. Tarieven Kamer voor de Binnenvisserij
 
@@ -81,10 +81,10 @@ Regeling tarieven Kamer voor de Binnenvisserij en geldsom visakten.
 
 ##### Artikel 4a
 
-De geldsom voor de verkrijging van de akte, bedoeld in [artikel 10, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=10), bedraagt voor de periode 2010 tot en met 2012: € 146. In dit bedrag is vervat een bijdrage ter verbetering van de binnenvisserij ten bedrage van € 143,82 en een bijdrage verband houdende met de kosten van uitgifte van de akte ten bedrage van € 2,18.
+Vervallen
 
 #### Paragraaf 3. Slotbepalingen
 
 ##### Artikel 4b
 
-Deze regeling berust op [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=10), en [artikel 54 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=54).
+Deze regeling berust op [artikel 54 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=54).
