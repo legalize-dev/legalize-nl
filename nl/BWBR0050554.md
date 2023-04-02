@@ -4,7 +4,7 @@ identifier: "BWBR0050554"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2023-01-01"
+last_updated: "2023-04-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050554"
 soort: "wet"
@@ -119,8 +119,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XV. [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
 
 Wijzigt de Woningwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI. [Wet adviescollege rechtspositie politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0045946)
 
