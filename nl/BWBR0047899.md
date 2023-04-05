@@ -4,7 +4,7 @@ identifier: "BWBR0047899"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2019-12-01"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047899"
 soort: "wet"
@@ -47,8 +47,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 ##### Artikel I
 
 Wijzigt de Wet op het financieel toezicht.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
@@ -123,8 +121,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XIV
 
 Wijzigt de Wijzigingswet financiële markten 2022.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
