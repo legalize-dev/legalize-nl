@@ -4,7 +4,7 @@ identifier: "BWBR0048032"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-04-05"
-last_updated: "2023-01-01"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048032"
 soort: "zbo"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - d). **de Directeur:** de directeur-secretaris van de TloKB;
 
-- e). **de Raad:** de Raad van Advies, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=2&z=2023-04-05&g=2023-01-01);
+- e). **de Raad:** de Raad van Advies, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=2&z=2023-04-05&g=2023-04-05);
 
 - f). **het stelsel van kwaliteitsborging:** de stelsels van kwaliteitsborging in de bouw, erkende kwaliteitsverklaringen en van werkzaamheden aan gasverbrandingsinstallaties, ten aanzien waarvan de TloKB bevoegdheden heeft.
 
@@ -122,7 +122,7 @@ Het lidmaatschap van de Raad eindigt:
 
 - a). op eigen schriftelijk verzoek;
 
-- b). wegens het eindigen van de termijn van 4 jaren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=5&z=2023-04-05&g=2023-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=6&z=2023-04-05&g=2023-01-01);
+- b). wegens het eindigen van de termijn van 4 jaren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=5&z=2023-04-05&g=2023-04-05) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=6&z=2023-04-05&g=2023-04-05);
 
 - c). wegens overlijden;
 
@@ -158,7 +158,7 @@ Het lidmaatschap van de Raad eindigt:
 
 2. Elk jaar stelt het Bestuur het definitieve jaarplan voor het volgende kalenderjaar vast en stuurt het jaarplan samen met het advies van de Raad, ter kennisneming aan de minister.
 
-3. De Raad doet verslag van zijn werkzaamheden en bevindingen die voortvloeien uit zijn adviestaak zoals hiervoor in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=9&z=2023-04-05&g=2023-01-01) omschreven, in een afzonderlijk hoofdstuk van het jaarverslag van de TloKB. De Raad kan tussentijds advies uitbrengen als hij dit nodig acht.
+3. De Raad doet verslag van zijn werkzaamheden en bevindingen die voortvloeien uit zijn adviestaak zoals hiervoor in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=9&z=2023-04-05&g=2023-04-05) omschreven, in een afzonderlijk hoofdstuk van het jaarverslag van de TloKB. De Raad kan tussentijds advies uitbrengen als hij dit nodig acht.
 
 ##### Artikel 11. Ambtelijke ondersteuning
 
