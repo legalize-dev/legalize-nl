@@ -4,7 +4,7 @@ identifier: "BWBR0045257"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-12-31"
-last_updated: "2022-01-01"
+last_updated: "2023-04-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045257"
 soort: "AMvB"
@@ -126,11 +126,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4. (uitgebreide producentenverantwoordelijkheid vochtige doekjes en ballonnen)
 
-Dit onderdeel is nog niet inwerking getreden
+1. Producenten van vochtige doekjes en van ballonnen die kunststof bevatten, niet zijnde ballonnen voor industriële of andere professionele toepassingen, zijn verantwoordelijk voor het bijdragen aan vermindering van het zwerfafval van die producten in het milieu en het dekken van de kosten van ten minste de volgende maatregelen:
+
+- a. het bewust maken van consumenten over:
+
+- 1°. de beschikbaarheid van herbruikbare alternatieven voor die producten, systemen voor hergebruik en de mogelijkheden en de beste praktijken voor een deugdelijk afvalbeheer;
+
+- 2°. de effecten op het milieu, met name het mariene milieu, van zwerfafval en onjuiste manieren van afvalverwijdering van die producten; en
+
+- 3°. de gevolgen van onjuiste manieren van afvalverwijdering op de riolering;
+
+- b. het opruimen, het vervoer en de verwerking, door of namens de overheid, van het zwerfafval van die producten.
+
+2. Een in Nederland gevestigde producent die producten als bedoeld in het eerste lid in een andere lidstaat verkoopt, wijst in die andere lidstaat een gemachtigde vertegenwoordiger aan, die verantwoordelijk is voor het naleven van de verplichtingen van de producent die voortvloeien uit de uitgebreide producentenverantwoordelijkheid ter implementatie van EU-richtlijn kunststofproducten voor eenmalig gebruik in die andere lidstaat.
 
 ##### Artikel 5. (uitgebreide producentenverantwoordelijkheid tabaksproducten)
 
-1. Producenten van tabaksproducten met kunststofhoudende filters en kunststofhoudende filters die worden verkocht voor gebruik in combinatie met tabaksproducten zijn met ingang van 5 januari 2023 verantwoordelijk voor het bijdragen aan vermindering van het zwerfafval van die tabaksproducten in het milieu door de kosten te dekken van de overheidsmaatregelen, bedoeld in [artikel 4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4&z=2022-01-01&g=2022-01-01), alsmede de kosten voor de openbare inzamelsystemen voor het afval van die producten, het plaatsen en exploiteren daarvan.
+1. Producenten van tabaksproducten met kunststofhoudende filters en kunststofhoudende filters die worden verkocht voor gebruik in combinatie met tabaksproducten zijn met ingang van 5 januari 2023 verantwoordelijk voor het bijdragen aan vermindering van het zwerfafval van die tabaksproducten in het milieu door de kosten te dekken van de overheidsmaatregelen, bedoeld in [artikel 4, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4&z=2023-04-05&g=2023-04-05), alsmede de kosten voor de openbare inzamelsystemen voor het afval van die producten, het plaatsen en exploiteren daarvan.
 
 2. Producenten als bedoeld in het eerste lid leveren met ingang van het daarvoor vastgestelde kalenderjaar aan Onze Minister gegevens over afval van die producten in overeenstemming met het daarvoor geldende format.
 
@@ -142,7 +154,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 2. Onze Minister kan het percentage met ten hoogste 10% naar boven of naar beneden bijstellen voor 2022 en dat voor de jaren 2023 tot en met 2027 jaarlijks met ten hoogste 3%, indien de resultaten of verwachtingen van de haalbaarheid daarvan daartoe aanleiding geven.
 
-3. Het jaarlijks minimumpercentage afval van kunststofhoudend vistuig, bedoeld in het eerste lid, geldt na inwerkingtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=7&z=2022-01-01&g=2022-01-01) ook als nationaal jaarlijks minimuminzamelingspercentage als bedoeld in artikel 8, achtste lid, van EU-richtlijn kunststofproducten voor eenmalig gebruik.
+3. Het jaarlijks minimumpercentage afval van kunststofhoudend vistuig, bedoeld in het eerste lid, geldt na inwerkingtreding van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=7&z=2023-04-05&g=2023-04-05) ook als nationaal jaarlijks minimuminzamelingspercentage als bedoeld in artikel 8, achtste lid, van EU-richtlijn kunststofproducten voor eenmalig gebruik.
 
 ##### Artikel 7. (uitgebreide producentenverantwoordelijkheid voor kunststofhoudend vistuig)
 
@@ -158,9 +170,9 @@ Wijzigt het Besluit beheer verpakkingen 2014.
 
 2. In afwijking van het eerste lid:
 
-- a. treden de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=6&z=2022-01-01&g=2022-01-01) en [8, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=8&z=2022-01-01&g=2022-01-01), in werking met ingang van 1 januari 2022;
+- a. treden de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=6&z=2023-04-05&g=2023-04-05) en [8, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=8&z=2023-04-05&g=2023-04-05), in werking met ingang van 1 januari 2022;
 
-- b. treden de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4&z=2022-01-01&g=2022-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=7&z=2022-01-01&g=2022-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
+- b. treden de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=4&z=2023-04-05&g=2023-04-05) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045257&artikel=7&z=2023-04-05&g=2023-04-05) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel 10. (citeertitel)
 
