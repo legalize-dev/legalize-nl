@@ -4,7 +4,7 @@ identifier: "BWBR0047150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2022-07-01"
+last_updated: "2023-04-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047150"
 soort: "ministeriele-regeling"
@@ -51,6 +51,8 @@ In dit besluit wordt verstaan onder:
 - –. **de directeur-generaal:** de directeur-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat;
 
 - –. **de directeuren:** de directeuren van het directoraat-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat;
+
+- –. **het hoofd stafbureau DG:** het hoofd van het stafbureau van het directoraat-generaal Economie en Digitalisering;
 
 - –. **de MT-leden van een directie:** de leden van het managementteam van een directie van het directoraat-generaal Economie en Digitalisering van het Ministerie van Economische Zaken en Klimaat met uitzondering van de directeur.
 
