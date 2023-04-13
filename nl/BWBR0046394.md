@@ -4,7 +4,7 @@ identifier: "BWBR0046394"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-04-13"
-last_updated: "2022-11-08"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046394"
 soort: "zbo"
@@ -92,13 +92,13 @@ Doel van deze regeling is het stimuleren van cultuurparticipatie door mensen voo
 
 Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen een subsidieaanvraag kan worden ingediend:
 
-- a. spoor 1: try-out, zoals bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=2&z=2022-11-08&g=2022-11-08);
+- a. spoor 1: try-out, zoals bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=2&z=2023-04-13&g=2023-04-13);
 
-- b. spoor 2: ontwikkeltrajecten, zoals bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=3&z=2022-11-08&g=2022-11-08);
+- b. spoor 2: ontwikkeltrajecten, zoals bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=3&z=2023-04-13&g=2023-04-13);
 
-- c. spoor 3: meerjarentrajecten, zoals bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=4&z=2022-11-08&g=2022-11-08);
+- c. spoor 3: meerjarentrajecten, zoals bedoeld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=4&z=2023-04-13&g=2023-04-13);
 
-- d. Open Oproep, zoals bedoeld in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=5&z=2022-11-08&g=2022-11-08).
+- d. Open Oproep, zoals bedoeld in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=5&z=2023-04-13&g=2023-04-13).
 
 ##### Artikel 1.4. Wie kan aanvragen
 
@@ -184,7 +184,13 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 ##### Artikel 1.7. Indieningsvereisten
 
-1. Aanvragen voor spoor 1, spoor 2 of spoor 3 worden ingediend via het digitale aanvraagformulier in de online aanvraagomgeving Mijn Fonds. Deze is bereikbaar via de website van het Fonds.
+1. Wat betreft het indienen van een aanvraag geldt:
+
+- a. een aanvrager kan per indieningstermijn voor maximaal één spoor één aanvraag indienen;
+
+- b. tijdens de behandeling van een aanvraag voor een van de sporen, kan geen andere aanvraag worden ingediend voor hetzelfde of voor een ander spoor;
+
+- c. bij de publicatie van de Open Oproep wordt bekendgemaakt of er, overeenkomstig de onderdelen a en b, er beperkingen worden verbonden aan het indienen van een aanvraag.
 
 2. Voor het gebruik van Mijn Fonds is een account bij het Fonds vereist; het aanmaken daarvan duurt enkele dagen.
 
@@ -214,9 +220,11 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 - d. de aanvraag is voor een seriële productie, waaronder een project dat niet eenmalig door één instelling of persoon wordt georganiseerd, maar een serie is van gelijksoortige aanvragen;
 
-- e. de aanvrager failliet is verklaard of redelijkerwijs te verwachten is dat dat binnenkort gebeurt; of
+- e. de aanvrager failliet is verklaard of redelijkerwijs te verwachten is dat dat binnenkort gebeurt;
 
-- f. de aanvraag onvoldoende aansluit bij het doel van de regeling.
+- f. de aanvraag onvoldoende aansluit bij het doel van de regeling; of
+
+- g. een rechtspersoon niet voldoet aan de verplichtingen ten aanzien van de Governance Code Cultuur, zoals bedoeld in [artikel 1.10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=1&artikel=1.10&z=2023-04-13&g=2023-04-13).
 
 2. Het Fonds weigert subsidie aan derden als die in opdracht werken van natuurlijke personen of rechtspersonen die niet aanmerking komen voor een subsidie.
 
@@ -448,13 +456,13 @@ Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoerin
 
 - d. het subsidieplafond;
 
-- e. het maximaal beschikbare bedrag per project, zoals bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=4&artikel=4.5&z=2022-11-08&g=2022-11-08);
+- e. het maximaal beschikbare bedrag per project, zoals bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=4&artikel=4.5&z=2023-04-13&g=2023-04-13);
 
-- f. het percentage dat de subsidie mag uitmaken van de totale projectkosten, zoals bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=4&artikel=4.6&z=2022-11-08&g=2022-11-08);
+- f. het percentage dat de subsidie mag uitmaken van de totale projectkosten, zoals bedoeld in [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=4&artikel=4.6&z=2023-04-13&g=2023-04-13);
 
 - g. richtlijnen waaraan het projectplan moet voldoen; en
 
-- f. de criteria aan de hand waarvan de aanvraag beoordeeld wordt, zoals bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=4&artikel=4.9&z=2022-11-08&g=2022-11-08).
+- f. de criteria aan de hand waarvan de aanvraag beoordeeld wordt, zoals bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=4&artikel=4.9&z=2023-04-13&g=2023-04-13).
 
 ##### Artikel 4.4. Subsidieplafond
 
