@@ -4,7 +4,7 @@ identifier: "BWBR0045516"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-04-13"
-last_updated: "2021-08-24"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045516"
 soort: "zbo"
@@ -48,7 +48,7 @@ besluit:
 
 ##### Artikel 1. Gebruikte begrippen
 
-- a. **Aanvrager:** de organisatie, instelling, de natuurlijke persoon of rechtspersoon die subsidie aanvraagt.
+- a. **Aanvrager:** de organisatie, instelling, natuurlijk persoon of rechtspersoon die subsidie aanvraagt.
 
 - b. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
 
@@ -64,7 +64,7 @@ besluit:
 
 - h. **Huishoudelijk Reglement:** [Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
 
-- i. **Koninkrijk der Nederlanden:** Nederland, Aruba, Curaçao en Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- i. **Koninkrijk der Nederlanden:** Aruba, Curaçao, Sint Maarten en Nederland inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 - j. **Minister:** de Minister van Onderwijs, Cultuur en Wetenschap.
 
@@ -80,9 +80,17 @@ besluit:
 
 - p. **Subsidie:** de aanspraak op financiële middelen, door een bestuursorgaan verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het bestuursorgaan geleverde goederen of diensten, zoals bedoeld in [artikel 4:21, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21).
 
+- q. **Nederland:** Europees deel van Nederland en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+- r. **Europees deel van Nederland:** Nederland, zonder het Caribisch deel van het Koninkrijk.
+
+- s. **Caribisch deel van het Koninkrijk:** Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+
+- t. **Koninkrijk:** Koninkrijk der Nederlanden.
+
 ##### Artikel 2. Doel
 
-1. Het Fonds kan subsidie verstrekken aan rechtspersonen of natuurlijke personen voor activiteiten of projecten die een positieve bijdrage leveren aan het bevorderen van cultuurparticipatie of cultuureducatie in het Koninkrijk der Nederlanden, als deze in het koninkrijk zijn gevestigd.
+1. Het Fonds kan subsidie verstrekken aan in het Koninkrijk gevestigde rechtspersonen of natuurlijke personen voor activiteiten of projecten die een positieve bijdrage leveren aan het bevorderen van cultuurparticipatie of cultuureducatie.
 
 2. Door subsidies te verstrekken, wil het Fonds uitingen op het gebied van cultuurparticipatie en cultuureducatie ontwikkelen, stimuleren, spreiden en op andere manieren bevorderen.
 
@@ -98,11 +106,9 @@ besluit:
 
 ##### Artikel 4. Doelgroepen
 
-1. Het Fonds kan subsidie verstrekken aan natuurlijke personen of rechtspersonen die geen commercieel winstoogmerk hebben en die zijn gevestigd in het Koninkrijk der Nederlanden.
+1. Het Fonds kan subsidie verstrekken aan natuurlijke personen of rechtspersonen die geen commercieel winstoogmerk hebben en die zijn gevestigd in het Koninkrijk.
 
-2. Het Fonds verstrekt geen subsidie aan natuurlijke personen of rechtspersonen die als doel hebben alleen de belangen te behartigen van één of enkele natuurlijke personen of rechtspersonen. Of dat het geval is, leidt het Fonds af uit hun statuten of hun activiteiten.
-
-3. Als het Fonds in deelregelingen verwijst naar:
+2. Als het Fonds in deelregelingen verwijst naar:
 
 - a. het Koninkrijk der Nederlanden, dan wordt daarmee bedoeld: alle landen binnen het Koninkrijk, inclusief de drie openbare lichamen;
 
@@ -112,19 +118,19 @@ besluit:
 
 - d. Nederland, dan wordt daarmee bedoeld: het Europees deel van Nederland inclusief de drie openbare lichamen, zonder de overige landen van het Koninkrijk in het Caribisch gebied.
 
-4. Het Fonds kan per deelregeling een deel van het totale subsidiebudget beschikbaar stellen voor subsidie aan het Caribisch deel van het Koninkrijk. Dat budget staat in het artikel over het subsidieplafond in die deelregeling.
+3. Het Fonds kan per deelregeling een deel van het totale subsidiebudget beschikbaar stellen voor subsidie aan het Caribisch deel van het Koninkrijk. Dat budget staat in het artikel over het subsidieplafond in die deelregeling.
 
-5. Deelregelingen kunnen bepalingen bevatten om het aanvragen van subsidie én de beoordeling van die aanvraag optimaal toegankelijk te maken voor specifieke doelgroepen, als dat nodig is voor de toegankelijkheid van die deelregeling.
+4. Deelregelingen kunnen bepalingen bevatten om het aanvragen van subsidie én de beoordeling van die aanvraag optimaal toegankelijk te maken voor specifieke doelgroepen, als dat nodig is voor de toegankelijkheid van die deelregeling.
 
-6. Bij het Fonds kunnen Engelstalige subsidieaanvragen worden ingediend. De besluiten op die aanvragen zijn in beginsel Nederlandstalig. Als dat nodig is voor de toegankelijkheid van de regeling, kan het Fonds beslissen dat ook Engelstalige besluiten worden opgesteld.
+5. Bij het Fonds kunnen Engelstalige subsidieaanvragen worden ingediend. De besluiten op die aanvragen zijn in beginsel Nederlandstalig. Als dat nodig is voor de toegankelijkheid van de regeling, kan het Fonds beslissen dat ook Engelstalige besluiten worden opgesteld.
 
-7. Als deelregelingen in een andere taal dan het Nederlands zijn vertaald, is de Nederlandse tekst leidend. Bij de vertaling wordt deze informatie vermeld.
+6. Als deelregelingen in een andere taal dan het Nederlands zijn vertaald, is de Nederlandse tekst leidend. Bij de vertaling wordt deze informatie vermeld.
 
-8. In deelregelingen kan staan dat aanvragers hun schriftelijke aanvraag mondeling kunnen toelichten.
+7. In deelregelingen kan staan dat aanvragers hun schriftelijke aanvraag mondeling kunnen toelichten.
 
-9. Begrotingen mogen worden opgesteld in Amerikaanse dollars of Caribische of Antilliaanse guldens. De aanvrager rekent dan het aangevraagde subsidiebedrag om naar euro’s, op basis van de dagkoers op het moment van de aanvraag. Die dagkoers wordt door de aanvrager in de aanvraag vermeld.
+8. Een begroting kan worden opgesteld in Amerikaanse dollars, Caribische guldens of Antilliaanse guldens. De aanvrager rekent de gebruikte valuta vervolgens om naar euro’s, op basis van de dagkoers die geldt op het moment dat de aanvraag wordt ingediend. Dat bedrag wordt in het aanvraagformulier vermeld. Aanvragers die gevestigd zijn in het Caribisch deel van het Koninkrijk kunnen de kosten voor het omwisselen opnemen in de begroting, voor zover dat nodig is voor de aanvraag.
 
-10. Tijdsvermeldingen gaan uit van de Amsterdamse tijd, ongeacht de taal van de deelregeling.
+9. Tijdsvermeldingen gaan in beginsel uit van de tijd zoals geldt in het Europees deel van Nederland.
 
 ##### Artikel 5. Subsidies
 
@@ -162,13 +168,13 @@ Voor subsidies in incidentele gevallen geldt dat:
 
 - a. voor dezelfde activiteiten al subsidie is of zal worden verleend:
 
-- i. door het Fonds;
+- 1° . door het Fonds;
 
-- ii. door een van de andere rijkscultuurfondsen;
+- 2° . door een van de andere rijkscultuurfondsen;
 
-- iii. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597);
+- 3° . op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597);
 
-- iv. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+- 4° . op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 - b. de activiteiten of projecten waarvoor subsidie wordt gevraagd op het moment van de aanvraag al worden uitgevoerd;
 
@@ -176,7 +182,7 @@ Voor subsidies in incidentele gevallen geldt dat:
 
 - d. de aanvraag onvoldoende aansluit bij de subsidievereisten.
 
-2. Het Fonds weigert subsidie aan derden als die in opdracht werken van natuurlijke personen of rechtspersonen die niet aanmerking komen voor een subsidie.
+2. Het Fonds weigert subsidie aan derden als die voor wat betreft de aangevraagde subsidie, in opdracht werken van natuurlijke personen of rechtspersonen die niet aanmerking komen voor een subsidie.
 
 3. Het Fonds kan subsidie weigeren als aanvragers in de jaren voorafgaand aan de aanvraag subsidie van het Fonds hebben ontvangen en toen niet, of niet helemaal, hebben voldaan aan de subsidieverplichtingen.
 
@@ -214,7 +220,7 @@ Het Fonds verstrekt subsidie voor zover de Minister daartoe in enig tijdvak vold
 
 3. Per deelregeling kan het Fonds als voorwaarde stellen dat aanvragers bepaalde eigen inkomsten behalen.
 
-4. De subsidie is niet meer dan 50% van de totale project- of activiteitenkosten die voor subsidie in aanmerking komen, tenzij een deelregeling iets anders bepaalt.
+4. Per deelregeling maakt het Fonds bekend welk percentage de subsidie kan uitmaken van de totale project- of activiteitenkosten.
 
 5. Het Fonds kan beperkingen verbinden aan de omvang van bepaalde begrotingsposten, zoals aan de posten onvoorzien en materiële investeringen, ten opzichte van de totale kosten van projecten of activiteiten.
 
@@ -226,11 +232,13 @@ Het Fonds verstrekt subsidie voor zover de Minister daartoe in enig tijdvak vold
 
 2. Het Fonds kan subsidieplafonds wijzigen. Die wijzigingen worden gepubliceerd op www.cultuurparticipatie.nl.
 
+3. Het wijzigen van het tijdvak waaraan een subsidieplafond is verbonden, kan ertoe leiden dat het Fonds het tijdvak waarbinnen een aanvraag kan worden ingediend ook wijzigt.
+
 #### Paragraaf 3. Indienen aanvraag
 
 ##### Artikel 11. Indieningstermijn
 
-1. Aanvragen worden niet later dan dertien weken voor het begin van projecten of activiteiten ingediend, tenzij de deelregeling iets anders bepaalt.
+1. Aanvragen worden niet minder dan dertien weken voor het begin van projecten of activiteiten ingediend, tenzij de deelregeling iets anders bepaalt.
 
 2. a. Het Fonds neemt aanvragen die te laat zijn ingediend niet in behandeling.
 
@@ -238,7 +246,7 @@ b. Onvolledige aanvragen neemt het Fonds niet in behandeling, totdat deze zijn a
 
 ##### Artikel 12. Indieningsvereisten
 
-- a. De wijze waarop aanvragen worden ingediend, is beschreven bij de publicatie of openbaarmaking van de mogelijkheid om subsidie te krijgen. Hierbij geldt in ieder geval dat de aanvrager het verzoek ondertekent en daarbij vermeldt:
+1. De wijze waarop aanvragen worden ingediend, is beschreven bij de publicatie of openbaarmaking van de mogelijkheid om subsidie te krijgen. Hierbij geldt in ieder geval dat de aanvrager het verzoek ondertekent en daarbij vermeldt:
 
 - a. naam en het adres,
 
@@ -250,19 +258,15 @@ b. Onvolledige aanvragen neemt het Fonds niet in behandeling, totdat deze zijn a
 
 - a. aanvullende indieningsvereisten stellen, en vereisen dat aan de aanvraag bijlagen worden toegevoegd;
 
-- b. vragen om persoonsgegevens, zoals een curriculum vitae. Die gegevens zijn in te zien door het Fonds, en eventueel door de commissie die adviseert over de aanvraag;
+- b. vragen om persoonsgegevens, zoals een curriculum vitae, die gegevens zijn in te zien door het Fonds en eventueel door de commissie die adviseert over de aanvraag;
 
-- c. gegevens die aanvragers indienen, delen met derden. Het Fonds stelt aanvragers op de hoogte van het voornemen om dat te doen, voordat zij een aanvraag indienen – voor zover dat redelijkerwijs mogelijk is.
+- c. gegevens die aanvragers indienen, delen met derden, het Fonds stelt aanvragers op de hoogte van het voornemen om dat te doen, voordat zij een aanvraag indienen – voor zover dat redelijkerwijs mogelijk is.
 
 ##### Artikel 13. Beslistermijn
 
-1. Het Fonds beslist binnen dertien weken na de ontvangstdatum van de aanvraag, tenzij een deelregeling een andere termijn bepaalt. Het Fonds laat aanvragers schriftelijk weten welke beslissing hij neemt op de aanvraag.
+1. Afhankelijk van de in de deelregeling bepaalde termijn beslist het Fonds in beginsel binnen acht, dertien of tweeëntwintig weken na de ontvangstdatum van de aanvraag. Het Fonds laat aanvragers schriftelijk weten welke beslissing hij neemt op de aanvraag.
 
-2. Het Fonds kan aanvragers in de gelegenheid stellen onvolledige aanvragen aan te vullen.
-
-3. In het geval van aangevulde aanvragen geldt de datum dat het Fonds de aanvulling ontvangt als de ontvangstdatum van de aanvraag.
-
-4. Als het Fonds niet binnen de termijn genoemd in het eerste lid op aanvragen kan beslissen, dan laat hij dat weten aan de aanvrager. Daarbij vermeld hij de termijn waarbinnen de aanvrager de beslissing alsnog kan verwachten.
+2. Als het Fonds niet binnen de termijn genoemd in het eerste lid op aanvragen kan beslissen, dan laat hij dat weten aan de aanvrager. Daarbij vermeldt hij de termijn waarbinnen de aanvrager de beslissing alsnog kan verwachten.
 
 #### Paragraaf 4. Beoordeling
 
@@ -274,15 +278,15 @@ b. Onvolledige aanvragen neemt het Fonds niet in behandeling, totdat deze zijn a
 
 ##### Artikel 15. Adviescommissie
 
-1. Het Fonds legt subsidieaanvragen ter advisering voor aan een interne of externe adviescommissie. In de externe commissie hebben een of meer leden zitting die geen deel uitmaken van en niet werkzaam zijn onder verantwoordelijkheid van het beroepsorgaan.
+1. Het Fonds legt subsidieaanvragen ter advisering voor aan een interne of externe adviescommissie Een interne commissie bestaat uit medewerkers van het Fonds. In de externe commissie hebben een of meer leden zitting die geen deel uitmaken van en niet werkzaam zijn onder verantwoordelijkheid van het Fonds.
 
 2. Het [Huishoudelijk Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0042690) bevat nadere bepalingen over de interne en externe commissies.
 
 #### Paragraaf 5. Subsidieverlening
 
-##### Artikel 16. Verleningsbesluit
+##### Artikel 16. Subsidieverleningsbesluit
 
-1. Voor de vaststelling van de subsidie neemt het Fonds een verleningsbesluit. Een verleningsbesluit wordt gegeven:
+1. Voorafgaand aan de vaststelling van de subsidie neemt het Fonds een subsidieverleningsbesluit. Een subsidieverleningsbesluit wordt gegeven:
 
 - a. bij subsidieaanvragen tot en met € 25.000: binnen dertien weken na ontvangst van de aanvraag, of
 
@@ -294,13 +298,11 @@ b. Onvolledige aanvragen neemt het Fonds niet in behandeling, totdat deze zijn a
 
 - b. een nader onderzoek is ingesteld.
 
-3. Tegelijk met het verleningsbesluit kan het Fonds de subsidie vaststellen, afhankelijk van het soort subsidie en het subsidiebedrag.
+3. Tegelijk met het subsidieverleningsbesluit kan het Fonds de subsidie vaststellen, dit is afhankelijk van het soort subsidie en het subsidiebedrag.
 
-4. Projectsubsidies verleent het Fonds in beginsel voor een periode van maximaal twee jaar.
+##### Artikel 17. Inhoud subsidieverleningsbesluit
 
-##### Artikel 17. Inhoud verleningsbesluit
-
-Een verleningsbesluit bevat het subsidiebedrag en beschrijft:
+Een subsidieverleningsbesluit bevat het subsidiebedrag en beschrijft, of verwijst in de subsidieregeling, naar:
 
 - a. de manier waarop de subsidie wordt verleend;
 
@@ -312,15 +314,15 @@ Een verleningsbesluit bevat het subsidiebedrag en beschrijft:
 
 ##### Artikel 18. Verplichtingen en opschortende voorwaarden
 
-Het Fonds kan in een besluit verplichtingen of opschortende voorwaarden opnemen.
+Het Fonds kan in een besluit verplichtingen of opschortende voorwaarden opnemen. Als het Fonds dat doet dan:
 
-- a. Een verplichting leidt ertoe, dat aan een of meerdere door het Fonds opgelegde eis of eisen wordt voldaan voordat aan een bepaling in een besluit kan worden toegekomen.
+- a. leidt een verplichting ertoe, dat aan een of meerdere door het Fonds opgelegde eis of eisen wordt voldaan voordat aan een bepaling in een besluit kan worden toegekomen.
 
-- b. Een opschortende voorwaarde betekent dat een of meerdere onderdelen van een besluit worden uitgesteld, totdat aan een door het Fonds opgelegde eis is voldaan.
+- b. leidt een opschortende voorwaarde ertoe dat een of meerdere onderdelen van een besluit worden uitgesteld, totdat aan een door het Fonds opgelegde eis is voldaan.
 
 ##### Artikel 19. Voorstel tot lagere subsidieverlening dan aangevraagd
 
-1. Het Fonds kan voorstellen om, in de plaats van een subsidieverzoek af te wijzen, een lagere subsidie te verlenen dan is aangevraagd, al dan niet op grond van een advies van een interne of externe adviescommissie. Als dat gebeurt, motiveert het Fonds die keuze.
+1. Het Fonds kan voorstellen om, in plaats van een subsidieverzoek af te wijzen, een lagere subsidie te verlenen dan is aangevraagd, al dan niet op grond van een advies van een interne of externe adviescommissie. Als dat gebeurt, motiveert het Fonds die keuze.
 
 2. Als het Fonds de situatie geschikt vindt om een lagere subsidie te verlenen dan is aangevraagd:
 
@@ -352,13 +354,13 @@ Het Fonds kan in een besluit verplichtingen of opschortende voorwaarden opnemen.
 
 1. Het Fonds kan voorschotten verstrekken.
 
-2. In het verleningsbesluit staan het bedrag en het tempo van de bevoorschotting.
+2. In het subsidieverleningsbesluit staan het bedrag en het tempo van de bevoorschotting.
 
 ##### Artikel 22. Aanvullende bepalingen bevoorschotting
 
 1. Als de subsidie € 25.000 of minder is en niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
-2. Als de subsidie hoger is dan € 25.000 verleent het Fonds een voorschot zodra het verleningsbesluit is afgegeven.
+2. Als de subsidie hoger is dan € 25.000 verleent het Fonds een voorschot zodra het subsidieverleningsbesluit is afgegeven.
 
 3. Het Fonds bepaalt bij deelregeling of besluit:
 
@@ -374,7 +376,7 @@ b. of er verplichtingen of opschortende voorwaarden aan de uitbetaling van de vo
 
 1. Subsidieontvangers zorgen ervoor dat projecten of activiteiten waarvoor zij subsidie hebben gekregen doelmatig en financieel verantwoord worden uitgevoerd.
 
-2. Subsidieontvangers stellen het Fonds direct op de hoogte van feiten en omstandigheden die invloed kunnen hebben op de subsidieverstrekking. Dat zijn in ieder geval de feiten en omstandigheden die betrekking hebben op de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&paragraaf=1&artikel=7&z=2021-08-24&g=2021-08-24) en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&paragraaf=5&artikel=20&z=2021-08-24&g=2021-08-24).
+2. Subsidieontvangers stellen het Fonds direct op de hoogte van feiten en omstandigheden die invloed kunnen hebben op de subsidieverstrekking. Dat zijn in ieder geval de feiten en omstandigheden die betrekking hebben op de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&paragraaf=1&artikel=7&z=2023-04-13&g=2023-04-13) en [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&paragraaf=5&artikel=20&z=2023-04-13&g=2023-04-13).
 
 3. Subsidieontvangers plaatsen het logo of de naam van het Fonds op alle publiciteitsuitingen die betrekking hebben op de activiteiten waarvoor zij subsidie hebben ontvangen.
 
@@ -390,29 +392,29 @@ b. of er verplichtingen of opschortende voorwaarden aan de uitbetaling van de vo
 
 ##### Artikel 24. Codes culturele sector
 
-Subsidieontvangers met een culturele doelstelling werken volgens de principes van de Governance Code Cultuur, de Fair Practice Code en de Code Diversiteit & Inclusie, zoals beschreven in de deelregeling. Dat wordt onder meer gedaan door de codes toe te passen en daarbij uit te leggen hoe dat gebeurt. Als subsidieontvangers geen culturele doelstelling hebben, werken zij volgens de codes die voor hun sector gelden.
+Subsidieontvangers werken volgens de principes van de Governance Code Cultuur, de Fair Practice Code en de Code Diversiteit & Inclusie, zoals beschreven in de deelregeling.
 
 #### Paragraaf 8. Verantwoording en vaststelling subsidies
 
 ##### Artikel 25. Subsidies tot en met € 25.000
 
-1. Het verstrekken van subsidies tot en met € 25.000 vindt plaats in de vorm van een vast bedrag dat in de regeling wordt vastgelegd of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
+1. Het verstrekken van subsidies tot en met € 25.000 vindt plaats in de vorm van een vast bedrag dat in de deelregeling wordt vastgelegd of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
 
 2. Indien deze subsidie wordt verstrekt, wordt:
 
-- a. direct een beschikking tot subsidievaststelling gegeven, of
+- a. direct een besluit tot subsidievaststelling gegeven, of
 
-- b. een beschikking tot subsidieverlening gegeven, met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en van de datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld.
+- b. een besluit tot subsidieverlening gegeven, met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en van de datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld; en
 
-- c. tonen subsidieontvangers aan dat de activiteiten waarvoor subsidie is verleend zijn uitgevoerd en dat is voldaan aan de subsidieverplichtingen, op de manier zoals beschreven in de deelregeling of het verleningsbesluit
+- c. tonen subsidieontvangers aan dat de activiteiten waarvoor subsidie is verleend zijn uitgevoerd en dat is voldaan aan de subsidieverplichtingen, op de manier zoals beschreven in de deelregeling of het subsidieverleningsbesluit.
 
 ##### Artikel 26. Subsidies hoger dan € 25.000 tot en met € 125.000
 
-1. Als de subsidie hoger is dan € 25.000:
+1. Als de subsidie hoger is dan € 25.000 en niet meer dan € 125.000:
 
-- a. tonen subsidieontvangers met een activiteitenverslag aan, dat de activiteiten waarvoor subsidie is verstrekt zijn uitgevoerd en dat is voldaan aan de subsidieverplichtingen; en
+- a. tonen subsidieontvangers met een activiteitenverslag en een financieel verslag aan, dat de activiteiten waarvoor subsidie is verstrekt zijn uitgevoerd en dat is voldaan aan de subsidieverplichtingen; en
 
-- b. is [artikel 25, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&paragraaf=8&artikel=25&z=2021-08-24&g=2021-08-24), van overeenkomstige toepassing.
+- b. tonen subsidieontvangers aan dat de activiteiten waarvoor subsidie is verleend, zijn uitgevoerd en dat is voldaan aan de subsidieverplichtingen op de manier zoals beschreven in de deelregeling of het subsidieverleningsbesluit;
 
 2. Het activiteitenverslag:
 
@@ -420,9 +422,27 @@ Subsidieontvangers met een culturele doelstelling werken volgens de principes va
 
 - b. is opgebouwd zoals het activiteitenplan is opgebouwd;
 
-- c. bevat, voor zover van toepassing, een analyse van de verschillen tussen de voorgenomen activiteiten en beoogde resultaten en de feitelijke realisatie; en
+- c. bevat het financieel verslag en voor zover van toepassing een analyse van de verschillen tussen de voorgenomen activiteiten, de beoogde resultaten en de feitelijke realisatie;
 
-- d. wat het totaal is van de gerealiseerde subsidiabele kosten en opbrengsten, inclusief eigen bijdragen en bijdragen van derden.
+- d. bevat een overzicht van de gerealiseerde kosten en opbrengsten, inclusief eigen bijdragen van derden;
+
+- e. volgt de opbouw van de bij de aanvraag ingediende begroting; en
+
+- f. bevat een analyse van of toelichting op de verschillen tussen begroting en realisatie.
+
+3. Indien bij een subsidieverstrekking tussen € 25.000 en € 125.000 de kosten en opbrengsten van de te verrichten activiteiten in verband met de aard van die activiteiten zodanig onzeker zijn dat een realistische begroting niet vereist kan worden, kan het Fonds bepalen dat de subsidieontvanger op basis van een verklaring inzake werkelijke kosten en opbrengsten aantoont dat de activiteiten zijn verricht. In die verklaring geeft de subsidieontvanger dan aan:
+
+- a. dat de activiteiten waarvoor de subsidie is verleend zijn verricht, voorzien van een korte toelichting,
+
+- b. dat aan de aan de subsidie verbonden verplichtingen is voldaan;
+
+- c. wat het totale bedrag van de gerealiseerde subsidiabele kosten is;
+
+- d. wat, in voorkomend geval, de stand van de egalisatiereserve is;
+
+- e. wat het totale bedrag van de gerealiseerde opbrengsten, inclusief bijdragen van derden, is; en
+
+- f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.
 
 ##### Artikel 27. Subsidies hoger dan € 125.000
 
@@ -446,7 +466,7 @@ Het Fonds neemt een besluit tot subsidievaststelling:
 
 - a. bij een directe vaststelling: maximaal 13 weken na de aanvraag van de subsidie;
 
-- b. bij een ambtshalve vaststelling: maximaal 22 weken na het in het verleningsbesluit opgenomen moment dat de gesubsidieerde activiteiten moeten zijn uitgevoerd;
+- b. bij een ambtshalve vaststelling: maximaal 22 weken na het in het subsidieverleningsbesluit opgenomen moment dat de gesubsidieerde activiteiten moeten zijn uitgevoerd;
 
 - c. na een aanvraag tot vaststelling: maximaal 22 weken na die aanvraag.
 
@@ -468,13 +488,13 @@ Het Fonds neemt een besluit tot subsidievaststelling:
 
 1. Als het Fonds een besluit wijzigt of intrekt, dan krijgt de subsidieontvanger daarover bericht in de vorm van een besluit.
 
-2. a. Als de wijziging of intrekking naar verwachting bedenkingen oplevert voor subsidieontvangers, dan kan het Fonds belanghebbenden in de gelegenheid stellen eerst hun zienswijzen naar voren te brengen.
+2. Als de wijziging of intrekking naar verwachting bedenkingen oplevert voor subsidieontvangers, dan kan het Fonds belanghebbenden in de gelegenheid stellen eerst hun zienswijzen naar voren te brengen.
 
-b. In het besluit tot wijzigen of intrekken van een besluit motiveert het Fonds of, waarom en hoe het opvolging geeft aan eventuele zienswijzen.
+3. In het besluit tot wijzigen of intrekken van een besluit motiveert het Fonds of, waarom en hoe het opvolging geeft aan de ingediende zienswijzen.
 
 ##### Artikel 31. Inhoud wijzigings- of intrekkingsbesluit
 
-In besluiten zoals bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&paragraaf=9&artikel=30&z=2021-08-24&g=2021-08-24) staat in ieder geval:
+In besluiten zoals bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&paragraaf=9&artikel=30&z=2023-04-13&g=2023-04-13) staat in ieder geval:
 
 - a. wat de huidige omstandigheden zijn;
 
@@ -494,27 +514,27 @@ In besluiten zoals bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 32. Bezwaar
 
-1. Aanvragers die het niet eens zijn met een subsidiebesluit, kunnen daartegen een bezwaarschrift indienen bij het Fonds. Dit geldt ook voor andere belanghebbenden, zoals bedoeld in [artikel 1:2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
+1. Aanvragers die het niet eens zijn met een besluit van het Fonds, zoals een subsidiebesluit, kunnen daartegen een bezwaarschrift indienen bij het Fonds. Dit geldt ook voor andere belanghebbenden, zoals bedoeld in [artikel 1:2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
 
 2. Bezwaarschriften worden ingediend binnen zes weken na de dag dat het besluit is bekendgemaakt, dat is de dagtekening van het besluit.
 
-3. Het subsidiebesluit bevat een bezwaarclausule met informatie over het indienen van bezwaarschriften, zoals het adres waaraan die gericht worden.
+3. Het besluit bevat een bezwaarclausule met informatie over het indienen van bezwaarschriften, zoals het adres waaraan die gericht worden.
 
 ##### Artikel 33. Hoor en wederhoor
 
-1. Bezwaarmakers krijgen in beginsel de gelegenheid om gehoord te worden, voordat het Fonds een beslissing neemt op een bezwaarschrift, tenzij sprak is van een situatie zoals bedoeld in [artikel 7.3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3).
+1. Bezwaarmakers krijgen in beginsel de gelegenheid om gehoord te worden, voordat het Fonds een beslissing neemt op een bezwaarschrift, tenzij sprake is van een situatie zoals bedoeld in [artikel 7.3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3).
 
-2. Bezwaarmakers worden gehoord door een bezwarenadviescommissie die onafhankelijk is van het Fonds.
+2. Bezwaarmakers worden gehoord door een externe bezwarenadviescommissie die onafhankelijk is van het Fonds.
 
 3. Het verslag van de hoorzitting wordt bekendgemaakt aan alle belanghebbenden.
 
 4. Na de hoorzitting brengt de bezwarenadviescommissie advies uit aan het Fonds. Het Fonds neemt vervolgens een beslissing op het bezwaarschrift. Daarbij wordt het advies meegewogen.
 
-- a. Als het Fonds advies inwint bij de bezwarenadviescommissie, wordt de beslissing op het bezwaarschrift binnen twaalf weken na de bezwaartermijn bekendgemaakt aan bezwaarmakers.
+5. Als het Fonds advies inwint bij de bezwarenadviescommissie, wordt de beslissing op het bezwaarschrift binnen twaalf weken na de bezwaartermijn bekendgemaakt aan bezwaarmakers.
 
-- b. Het Fonds kan de beslissing op het bezwaarschrift zes weken uitstellen, op grond van [artikel 7.10 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10). In dat geval ontvangen bezwaarmakers daarover schriftelijk bericht van het Fonds.
+6. Het Fonds kan de beslissing op het bezwaarschrift zes weken uitstellen, op grond van [artikel 7.10 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10). In dat geval ontvangen bezwaarmakers daarover schriftelijk bericht van het Fonds.
 
-6. Meer informatie over de bezwarenadviescommissie staat in het [Huishoudelijk Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
+7. Meer informatie over de bezwarenadviescommissie staat in het [Huishoudelijk Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
 
 #### Paragraaf 11. Slotbepalingen
 
