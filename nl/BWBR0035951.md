@@ -4,7 +4,7 @@ identifier: "BWBR0035951"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-04-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035951"
 soort: "ministeriele-regeling"
@@ -52,11 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **ADL-assistentie:** gedurende het gehele etmaal direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning, waaronder alarmopvolging bij een noodoproep;
 
-- –. **ADL-cluster:** cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-01-01&g=2023-01-01);
+- –. **ADL-cluster:** cluster als bedoeld in [artikel 1.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-04-13&g=2023-04-13);
 
 - –. **ADL-eenheid:** ruimte in de omgeving van de ADL-woningen van waaruit de ADL-assistent wordt opgeroepen;
 
 - –. **ADL-woning:** woning die deel uitmaakt van een aantal bij elkaar horende rolstoeldoorgankelijke sociale huurwoningen;
+
+- –. **Covid-19:** de ziekte veroorzaakt door coronavirus-SARS-CoV-2;
 
 - –. **jaarrekening:** jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
 
@@ -98,6 +100,10 @@ In deze regeling wordt verstaan onder:
 
 2. Indien voor de bouw van de ADL-woning een subsidie is verstrekt op grond van de [Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161), voldoet de ADL-woning in afwijking van het eerste lid aan de eisen die aan die subsidie verbonden waren.
 
+3. Voor subsidie komen in aanmerking de extra gemaakte personele en materiële kosten, bedoeld in [artikel 4 van de Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046530&artikel=4) die in de periode van 1 januari 2022 tot en met 31 december 2022 gemaakt zijn als gevolg van Covid-19, ten behoeve van het verlenen van ADL-assistentie in en om een ADL-woning die voldoet aan de eisen, genoemd in het eerste lid.
+
+4. Het Zorginstituut verhoogt op aanvraag de voor 2022 op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2023-04-13&g=2023-04-13) vastgestelde subsidie met 0,37% voor de extra gemaakte energiekosten.
+
 ##### Artikel 1.4
 
 1. ADL-assistentie komt slechts voor subsidie in aanmerking indien de ADL-aanbieder een schriftelijke overeenkomst heeft gesloten met de rechtspersoon die het ADL-cluster beheert en de ADL-woningen verhuurt.
@@ -132,7 +138,7 @@ B: de som van A voor alle subsidieontvangers.
 
 3. De raming, bedoeld in het tweede lid, onderdeel A, onder 2°, wordt gebaseerd op het aantal ADL-woningen en een berekening van de behoefte aan ADL-assistentie in en om die woningen.
 
-4. De subsidie die aan een subsidieontvanger voor het jaar 2023 ten hoogste wordt verleend bedraagt niet meer dan het aantal uren ADL-assistentie, bedoeld in het tweede lid, onderdeel A, vermenigvuldigd met het uurtarief, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2023-01-01&g=2023-01-01).
+4. De subsidie die aan een subsidieontvanger voor het jaar 2023 ten hoogste wordt verleend bedraagt niet meer dan het aantal uren ADL-assistentie, bedoeld in het tweede lid, onderdeel A, vermenigvuldigd met het uurtarief, bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5&artikel=5.5&z=2023-04-13&g=2023-04-13).
 
 ### Hoofdstuk 2. Aanvraag
 
@@ -148,9 +154,9 @@ B: de som van A voor alle subsidieontvangers.
 
 De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
-- a. het totaal aantal uren ADL-assistentie bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2023-01-01&g=2023-01-01), en
+- a. het totaal aantal uren ADL-assistentie bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2023-04-13&g=2023-04-13), en
 
-- b. de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2023-01-01&g=2023-01-01).
+- b. de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2023-04-13&g=2023-04-13).
 
 ##### Artikel 2.3
 
@@ -162,7 +168,7 @@ De aanvrager doet in de aanvraag tot verlening van de subsidie opgave van:
 
 1. De aanvraag tot verlening van de subsidie gaat vergezeld van:
 
-- a. stukken ter onderbouwing van de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2023-01-01&g=2023-01-01).
+- a. stukken ter onderbouwing van de raming bedoeld in [artikel 1.6, tweede lid, onderdeel A, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.6&z=2023-04-13&g=2023-04-13).
 
 - b. een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd;
 
@@ -322,7 +328,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 1.7
 
-Vervallen
+1. De [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=2&z=2023-04-13&g=2023-04-13) zijn, met uitzondering van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=4&artikel=4.5&z=2023-04-13&g=2023-04-13), niet van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-04-13&g=2023-04-13).
+
+2. [Hoofdstuk 5A](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5a&z=2023-04-13&g=2023-04-13) is uitsluitend van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-04-13&g=2023-04-13).
+
+3. [Hoofdstuk 5B](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=5b&z=2023-04-13&g=2023-04-13) is uitsluitend van toepassing op de verstrekking van subsidies als bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-04-13&g=2023-04-13).
 
 ### Hoofdstuk 2. Aanvraag
 
@@ -336,15 +346,55 @@ Vervallen
 
 ##### Artikel 5a.1
 
-Vervallen
+1. Het subsidieplafond voor het verstrekken van subsidie als bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-04-13&g=2023-04-13), bedraagt € 3.700.000.
+
+2. Indien het totaal van de te verstrekken subsidiebedragen hoger is dan het subsidieplafond, verdeelt het Zorginstituut het ingevolge het subsidieplafond beschikbare bedrag evenredig over ingediende aanvragen voor zover deze voor subsidie in aanmerking komen.
 
 ##### Artikel 5a.2
 
-Vervallen
+1. De subsidie wordt op aanvraag verstrekt.
+
+2. De aanvraag van de subsidie, bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-04-13&g=2023-04-13), wordt uiterlijk 1 juli 2023 ontvangen.
+
+3. Een aanvraag na 1 juli 2023 wordt afgewezen.
+
+4. De aanvrager doet in de aanvraag van de subsidie, bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-04-13&g=2023-04-13), opgave van de gemaakte personele en materiële kosten, bedoeld in artikel 1.3 derde lid.
+
+5. Voor een aanvraag van de subsidie wordt een door het Zorginstituut vastgesteld formulier gebruikt.
+
+6. Het aanvraagformulier wordt ondertekend door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
+
+7. De aanvraag gaat vergezeld van een assurancerapport van een accountant dat is opgesteld overeenkomstig een door het Zorginstituut vastgesteld model met inachtneming van een door het Zorginstituut vastgesteld protocol.
+
+8. De subsidie wordt vastgesteld zonder voorafgaande beschikking tot subsidieverlening.
 
 ##### Artikel 5a.3
 
 Vervallen
+
+### Hoofdstuk 6. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
+
+### Hoofdstuk 5b. Subsidies in verband energiecompensatie
+
+##### Artikel 5b.1
+
+Het subsidieplafond voor het verstrekken van subsidies als bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-04-13&g=2023-04-13), bedraagt € 409.000.
+
+##### Artikel 5b.2
+
+1. De subsidie wordt op aanvraag verstrekt.
+
+2. De aanvraag van de subsidie, bedoeld in [artikel 1.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035951&hoofdstuk=1&artikel=1.3&z=2023-04-13&g=2023-04-13), wordt uiterlijk 1 juli 2023 ontvangen.
+
+3. Een aanvraag na de datum, bedoeld in het tweede lid, wordt afgewezen.
+
+4. Voor een aanvraag van de subsidie wordt een door het Zorginstituut vastgesteld formulier gebruikt.
+
+5. Het aanvraagformulier wordt ondertekend door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
+
+6. De subsidie wordt vastgesteld zonder voorafgaande beschikking tot subsidieverlening.
 
 ### Hoofdstuk 6. Slotbepalingen
 
