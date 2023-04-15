@@ -4,7 +4,7 @@ identifier: "BWBR0044070"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-04-15"
-last_updated: "2020-09-10"
+last_updated: "2023-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044070"
 soort: "beleidsregel"
@@ -47,7 +47,7 @@ In de praktijk komen regelmatig vragen op over de fiscale behandeling van person
 
 Het Aanspreekpunt Vastgoedfondsen draagt zorg voor een uniforme fiscale behandeling van personen in de volgende categorieën vastgoedfondsen:
 
-Projecten van **buitenlandse belastingplichtigen** met in Nederland gelegen vastgoed worden aangemeld bij de Belastingdienst/Kantoor buitenland in Heerlen. Om ook voor deze projecten een uniforme fiscale behandeling te realiseren vindt afstemming plaats met het Aanspreekpunt Vastgoedfondsen.
+Projecten van **buitenlandse belastingplichtigen** met in Nederland gelegen vastgoed worden aangemeld bij de Belastingdienst/Kennis- en Expertisecentrum Buitenland in Heerlen. Om ook voor deze projecten een uniforme fiscale behandeling te realiseren vindt afstemming plaats met het Aanspreekpunt Vastgoedfondsen.
 
 Verzoeken worden gericht aan:
 
