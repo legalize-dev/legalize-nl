@@ -4,7 +4,7 @@ identifier: "BWBR0034955"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-05"
-last_updated: "2023-03-07"
+last_updated: "2023-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034955"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Besluit:
 
 3. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, derde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 3, vierde en zesde lid, artikel 3 ter, vierde lid, artikel 3 septies, vierde lid, artikel 3 duodecies, vijfde lid, lid 5 bis, lid 5 ter en zesde lid, en artikel 4, lid 2 ter en derde lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft een goederentransactie, een transactie met betrekking tot technische bijstand of tussenhandeldiensten, informatie of kennisgevingen over deze onderwerpen.
 
-4. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, derde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 2 sexies, vierde lid, artikel 3, vierde en zesde lid, artikel 3 ter, vierde lid, artikel 3 septies, vierde lid, artikel 3 duodecies, vijfde lid, lid 5 bis, lid 5 ter en zesde lid, artikel 4, lid 2 ter en derde lid, artikel 4, vierde lid jo artikel 3, artikel 5 bis, vijfde lid, artikel 5 quater, eerste lid, en artikel 5 quinquies, eerste lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Financiën voor zover het betreft financieringen, financiële bijstand, financiële diensten of transacties en informatie of kennisgevingen over deze onderwerpen. De bevoegde autoriteit, bedoeld in artikel 5 octies van Verordening (EU) nr. 833/2014, is de Minister van Financiën, met dien verstande dat kredietinstellingen de informatie, bedoeld in artikel 5 octies, onder a en b, van Verordening (EU) nr. 833/2014, verstrekken aan De Nederlandsche Bank. De Nederlandsche Bank is ten behoeve van de uitvoering van voornoemd artikel 5 octies bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
+4. De bevoegde autoriteit, bedoeld in artikel 2, derde tot en met achtste lid, artikel 2 bis, derde tot en met achtste lid, artikel 2 ter, artikel 2 quinquies, eerste lid, artikel 2 sexies, vierde lid, artikel 3, vierde en zesde lid, artikel 3 ter, vierde lid, artikel 3 septies, vierde lid, artikel 3 duodecies, vijfde lid, lid 5 bis, lid 5 ter en zesde lid, artikel 4, lid 2 ter en derde lid, artikel 4, vierde lid jo artikel 3, artikel 5 bis, vijfde lid, artikel 5 quater, eerste lid, en artikel 5 quinquies, eerste lid, van [Verordening (EU) nr. 833/2014](32014R0833), is de Minister van Financiën voor zover het betreft financieringen, financiële bijstand, financiële diensten of transacties en informatie of kennisgevingen over deze onderwerpen. De bevoegde autoriteit, bedoeld in artikel 5 octies van Verordening (EU) nr. 833/2014, is de Minister van Financiën, met dien verstande dat kredietinstellingen de informatie, bedoeld in artikel 5 octies, onder a, a bis en b, van Verordening (EU) nr. 833/2014, verstrekken aan De Nederlandsche Bank. De Nederlandsche Bank is ten behoeve van de uitvoering van voornoemd artikel 5 octies bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
 
 5. De bevoegde autoriteit, bedoeld in artikel 2, zevende lid, van Besluit nr. 2014/512/GBVB is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
@@ -114,7 +114,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1c
 
-Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2023-03-07&g=2023-03-07) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2023-04-15&g=2023-04-15) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
