@@ -4,7 +4,7 @@ identifier: "BWBR0041447"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041447"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling domeinlijsten buitengewoon opsporingsambtenaar.
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041447&artikel=1&z=2023-01-01&g=2023-01-01) van de Regeling domeinen buitengewoon opsporingsambtenaar
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041447&artikel=1&z=2023-01-01&g=2023-04-19) van de Regeling domeinen buitengewoon opsporingsambtenaar
 
 ### Domein I. Openbare ruimte
 
