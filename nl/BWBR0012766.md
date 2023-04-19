@@ -4,7 +4,7 @@ identifier: "BWBR0012766"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2006-04-15"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012766"
 soort: "ministeriele-regeling"
@@ -43,9 +43,9 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-a. **CE-markering:** op het materieel voor gebruik buitenshuis op zichtbare, leesbare en onuitwisbare wijze overeenkomstig het in bijlage IV van [richtlijn 2000/14](32000L0014) gegeven model aangebrachte CE-markering als omschreven in Besluit 93/465, vergezeld van de vermelding van het gewaarborgde geluidsvermogensniveau overeenkomstig het in bijlage IV van [richtlijn 2000/14](32000L0014) gegeven model; b. **certificaat van overeenstemming:** certificaat volgens het model van bijlage X van [richtlijn 2000/14](32000L0014), dat een keuringsinstantie verstrekt indien het materieel voor gebruik buitenshuis voldoet aan de overeenstemmingsbeoordelingsprocedure van bijlage VII van [richtlijn 2000/14](32000L0014); c. **EG-verklaring van overeenstemming:** verklaring van de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde dat het materieel voor gebruik buitenshuis in overeenstemming is met de voorschriften van [richtlijn 2000/14](32000L0014), welke verklaring in ieder geval bevat de in bijlage II van [richtlijn 2000/14](32000L0014) vermelde gegevens; d. **geluidsvermogensniveau LWA:** A-gewogen geluidsvermogensniveau in dB, betrokken op 1 pW als omschreven in EN ISO 3744:1995 en EN ISO 3746:1995; e. **Gemeenschap:** de gebieden waarop het [Verdrag betreffende de Europese Unie](onbekend) van toepassing is; f. **gemeten geluidsvermogensniveau:** geluidsvermogensniveau dat is bepaald aan de hand van metingen die worden verricht overeenkomstig bijlage III van [richtlijn 2000/14](32000L0014); g. **gewaarborgd geluidsvermogensniveau:** geluidsvermogensniveau dat is bepaald overeenkomstig de voorschriften van bijlage III van [richtlijn 2000/14](32000L0014), met inbegrip van de onzekerheden ten gevolge van variaties in de productie en de meetmethoden, en waarvan de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde verzekert dat het volgens de gebruikte, in de technische documentatie genoemde, technische instrumenten niet wordt overschreden; h. **keuringsinstantie:** instantie onder wier verantwoordelijkheid de overeenstemmingsbeoordelingsprocedures van de bijlagen VI, VII en VIII van [richtlijn 2000/14](32000L0014) worden uitgevoerd respectievelijk een instantie die door een andere lidstaat is aangewezen als instantie om die overeenstemmingsbeoordelingsprocedures uit te voeren. i. **materieel voor gebruik buitenshuis:** 1. machines, gedefinieerd in artikel 1, tweede lid, van [richtlijn 98/37/EG](31998L0037) van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende machines, die zelfrijdend zijn dan wel kunnen worden verplaatst en die ongeacht het gebruikte aandrijfmechanisme zijn bedoeld om naar gelang van hun type buitenshuis te worden gebruikt en bijdragen tot geluidhinder (PbEG L 207), en 2. niet-aangedreven machines voor industriële of milieutoepassingen van een type dat bestemd is voor gebruik buitenshuis en dat bijdraagt tot geluidhinder; j. **minister:** Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; k. **overeenstemmingsbeoordelingsprocedures:** procedures die zijn vastgelegd in de bijlagen V tot en met VII van [richtlijn 2000/14](32000L0014) en die zijn gebaseerd op Besluit 93/465 van de Raad van de Europese Unie van 22 juli 1993 (PbEG L 220) betreffende de modules voor de verschillende fasen van de overeenstemmingsprocedures en de voorschriften inzake het aanbrengen en het gebruik van de CE-markering van overeenstemming; l. **richtlijn 2000/14:** [richtlijn 2000/14/EG](32000L0014) van het Europees Parlement en de Raad van de Europese Unie van 8 mei 2000 betreffende de geluidsemissie in het milieu door materieel voor gebruik buitenshuis (PbEG L 162).
+a. **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241); b. **CE-markering:** op het materieel voor gebruik buitenshuis op zichtbare, leesbare en onuitwisbare wijze overeenkomstig het in bijlage IV van [richtlijn 2000/14](32000L0014) gegeven model aangebrachte CE-markering als omschreven in Besluit 93/465, vergezeld van de vermelding van het gewaarborgde geluidsvermogensniveau overeenkomstig het in bijlage IV van [richtlijn 2000/14](32000L0014) gegeven model; c. **certificaat van overeenstemming:** certificaat volgens het model van bijlage X van [richtlijn 2000/14](32000L0014), dat een keuringsinstantie verstrekt indien het materieel voor gebruik buitenshuis voldoet aan de overeenstemmingsbeoordelingsprocedure van bijlage VII van [richtlijn 2000/14](32000L0014); d. **EG-verklaring van overeenstemming:** verklaring van de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde dat het materieel voor gebruik buitenshuis in overeenstemming is met de voorschriften van [richtlijn 2000/14](32000L0014), welke verklaring in ieder geval bevat de in bijlage II van [richtlijn 2000/14](32000L0014) vermelde gegevens; e. **fabrikant:** fabrikant als bedoeld in artikel 3, onderdeel 8. van de EU-verordening markttoezicht; f. **fulfilmentdienstverlener:** fulfilmentdienstverlener als bedoeld in artikel 3, onderdeel 11, van de EU-verordening markttoezicht; g. **geluidsvermogensniveau LWA:** A-gewogen geluidsvermogensniveau in dB, betrokken op 1 pW als omschreven in EN ISO 3744:1995 en EN ISO 3746:1995; h. **gemachtigde:** gemachtigde als bedoeld in artikel 3, onderdeel 12, van de EU-verordening markttoezicht; i. **Gemeenschap:** de gebieden waarop het [Verdrag betreffende de Europese Unie](onbekend) van toepassing is; j. **gemeten geluidsvermogensniveau:** geluidsvermogensniveau dat is bepaald aan de hand van metingen die worden verricht overeenkomstig bijlage III van [richtlijn 2000/14](32000L0014); k. **gewaarborgd geluidsvermogensniveau:** geluidsvermogensniveau dat is bepaald overeenkomstig de voorschriften van bijlage III van [richtlijn 2000/14](32000L0014), met inbegrip van de onzekerheden ten gevolge van variaties in de productie en de meetmethoden, en waarvan de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde verzekert dat het volgens de gebruikte, in de technische documentatie genoemde, technische instrumenten niet wordt overschreden; l. **importeur:** importeur als bedoeld in artikel 3, onderdeel 9, van de EU-verordening markttoezicht; m. **in de handel brengen:** in de handel brengen als bedoeld in artikel 3, onderdeel 2, van de EU-verordening markttoezicht; n. **keuringsinstantie:** instantie onder wier verantwoordelijkheid de overeenstemmingsbeoordelingsprocedures van de bijlagen VI, VII en VIII van [richtlijn 2000/14](32000L0014) worden uitgevoerd respectievelijk een instantie die door een andere lidstaat is aangewezen als instantie om die overeenstemmingsbeoordelingsprocedures uit te voeren. o. **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht; i. **materieel voor gebruik buitenshuis:** 1. machines, gedefinieerd in artikel 1, tweede lid, van [richtlijn 98/37/EG](31998L0037) van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende machines, die zelfrijdend zijn dan wel kunnen worden verplaatst en die ongeacht het gebruikte aandrijfmechanisme zijn bedoeld om naar gelang van hun type buitenshuis te worden gebruikt en bijdragen tot geluidhinder (PbEG L 207), en 2. niet-aangedreven machines voor industriële of milieutoepassingen van een type dat bestemd is voor gebruik buitenshuis en dat bijdraagt tot geluidhinder; p. **minister:** Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; q. **op de markt aanbieden:** op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht; r. **overeenstemmingsbeoordelingsprocedures:** procedures die zijn vastgelegd in de bijlagen V tot en met VII van [richtlijn 2000/14](32000L0014) en die zijn gebaseerd op Besluit 93/465 van de Raad van de Europese Unie van 22 juli 1993 (PbEG L 220) betreffende de modules voor de verschillende fasen van de overeenstemmingsprocedures en de voorschriften inzake het aanbrengen en het gebruik van de CE-markering van overeenstemming; s. **richtlijn 2000/14:** [richtlijn 2000/14/EG](32000L0014) van het Europees Parlement en de Raad van de Europese Unie van 8 mei 2000 betreffende de geluidsemissie in het milieu door materieel voor gebruik buitenshuis (PbEG L 162).
 
-2. Voor de toepassing van deze regeling wordt het gebruik van het in het eerste lid, onder i, bedoelde materieel in een omgeving waar de geluidsoverdracht niet of nauwelijks wordt gedempt als gebruik buitenshuis beschouwd.
+2. Voor de toepassing van deze regeling wordt het gebruik van het in het eerste lid, onder q, bedoelde materieel in een omgeving waar de geluidsoverdracht niet of nauwelijks wordt gedempt als gebruik buitenshuis beschouwd.
 
 ##### Artikel 2
 
@@ -141,13 +141,13 @@ Indien noch de fabrikant, noch zijn gemachtigde in de Gemeenschap gevestigd is, 
 
 ##### Artikel 7
 
-1. Indien van de overeenstemmingsbeoordelingsprocedure de procedure van bijlage VI van [richtlijn 2000/14](32000L0014) wordt gevolgd, verstrekt de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde, voordat het eerste exemplaar van het materieel voor gebruik buitenshuis in de handel wordt gebracht of in gebruik wordt genomen, een afschrift van zijn technische documentatie aan een keuringsinstantie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2006-04-15&g=2006-04-15).
+1. Indien van de overeenstemmingsbeoordelingsprocedure de procedure van bijlage VI van [richtlijn 2000/14](32000L0014) wordt gevolgd, verstrekt de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde, voordat het eerste exemplaar van het materieel voor gebruik buitenshuis in de handel wordt gebracht of in gebruik wordt genomen, een afschrift van zijn technische documentatie aan een keuringsinstantie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2023-04-19&g=2023-04-19).
 
 2. Nadat de keuringsinstantie een verslag heeft opgesteld, waarin zij bevestigt dat de technische documentatie voldoet aan de bepalingen van deze regeling, kan de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde de CE-markering op het materieel voor gebruik buitenshuis aanbrengen en een EG-verklaring van overeenstemming vaststellen. De EG-verklaring van overeenstemming is gesteld in het Nederlands, het Engels, het Frans en het Duits.
 
 ##### Artikel 8
 
-1. Indien van de overeenstemmingsbeoordelingsprocedures de procedure van bijlage VI van [richtlijn 2000/14](32000L0014) wordt gevolgd, betrekt de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde een keuringsinstantie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2006-04-15&g=2006-04-15), bij het fabricageproces overeenkomstig één van de twee procedures van bijlage VI, punt 6, van die richtlijn.
+1. Indien van de overeenstemmingsbeoordelingsprocedures de procedure van bijlage VI van [richtlijn 2000/14](32000L0014) wordt gevolgd, betrekt de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde een keuringsinstantie als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2023-04-19&g=2023-04-19), bij het fabricageproces overeenkomstig één van de twee procedures van bijlage VI, punt 6, van die richtlijn.
 
 2. Bij de procedures, bedoeld in het eerste lid, wordt de frequentie van de controles door de keuringsinstantie, bedoeld in dat lid, bepaald op grond van de resultaten van de voorgaande beoordelingen, de noodzaak toezicht te houden op bijsturingen en nadere richtsnoeren voor de frequentie van de controles op basis van de jaarlijkse productie en de algemene betrouwbaarheid van de fabrikant bij het handhaven van de gewaarborgde waarden. Er wordt in elk geval ten minste om de drie jaar een controle uitgevoerd.
 
@@ -157,7 +157,7 @@ Indien noch de fabrikant, noch zijn gemachtigde in de Gemeenschap gevestigd is, 
 
 ##### Artikel 9
 
-1. Indien van de overeenstemmingsbeoordelingsprocedures de procedure van bijlage VII van [richtlijn 2000/14](32000L0014) wordt gevolgd, dient de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde bij een keuringsinstantie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2006-04-15&g=2006-04-15), een aanvraag voor een eenheidskeuring in. Deze aanvraag omvat de in bijlage VII, punt 2, van [richtlijn 2000/14](32000L0014) vermelde gegevens.
+1. Indien van de overeenstemmingsbeoordelingsprocedures de procedure van bijlage VII van [richtlijn 2000/14](32000L0014) wordt gevolgd, dient de fabrikant of zijn in de Gemeenschap gevestigde gemachtigde bij een keuringsinstantie, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=5&z=2023-04-19&g=2023-04-19), een aanvraag voor een eenheidskeuring in. Deze aanvraag omvat de in bijlage VII, punt 2, van [richtlijn 2000/14](32000L0014) vermelde gegevens.
 
 2. De keuringsinstantie:
 
@@ -183,7 +183,7 @@ Indien noch de fabrikant, noch zijn gemachtigde in de Gemeenschap gevestigd is, 
 
 ##### Artikel 11
 
-1. De keuringsinstantie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=10&z=2006-04-15&g=2006-04-15), beoordeelt of het kwaliteitssysteem voldoet aan de in bijlage VIII, punt 3.2, van [richtlijn 2000/14](32000L0014) bedoelde eisen. Zij veronderstelt dat aan deze eisen wordt voldaan wanneer het gaat om kwaliteitssystemen waarbij EN ISO 9001 wordt toegepast.
+1. De keuringsinstantie, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=10&z=2023-04-19&g=2023-04-19), beoordeelt of het kwaliteitssysteem voldoet aan de in bijlage VIII, punt 3.2, van [richtlijn 2000/14](32000L0014) bedoelde eisen. Zij veronderstelt dat aan deze eisen wordt voldaan wanneer het gaat om kwaliteitssystemen waarbij EN ISO 9001 wordt toegepast.
 
 2. Ten minste één lid van het beoordelingsteam van de keuringsinstantie heeft ervaring als beoordelaar van de betrokken materieeltechnologie. De beoordelingsprocedure omvat een beoordelingsbezoek aan de installaties van de fabrikant.
 
@@ -245,7 +245,7 @@ Indien noch de fabrikant, noch zijn gemachtigde in de Gemeenschap gevestigd is, 
 
 1. De fabrikant of zijn in de Gemeenschap gevestigde gemachtigde zendt de minister en de Commissie van de Europese Gemeenschappen een afschrift van de EG-verklaring van overeenstemming voor ieder type materieel voor gebruik buitenshuis als bedoeld in de artikelen 12 en 13 van [richtlijn 2000/14](32000L0014).
 
-2. De keuringsinstantie, die de EG-verklaring, bedoeld in het eerste lid, heeft afgegeven, geeft de Commissie van de Europese Gemeenschappen en de lidstaten, op een met redenen omkleed verzoek, inzicht in alle bij de overeenstemmingsbeoordeling van een bepaald materieeltype, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=4&z=2006-04-15&g=2006-04-15), gebruikte informatie en in het bijzonder de technische documentatie, bedoeld in bijlage V, bijlage VI, punt 3, bijlage VII, punt 2, en bijlage VIII, punten 3.1 en 3.3, van [richtlijn 2000/14](32000L0014).
+2. De keuringsinstantie, die de EG-verklaring, bedoeld in het eerste lid, heeft afgegeven, geeft de Commissie van de Europese Gemeenschappen en de lidstaten, op een met redenen omkleed verzoek, inzicht in alle bij de overeenstemmingsbeoordeling van een bepaald materieeltype, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=4&z=2023-04-19&g=2023-04-19), gebruikte informatie en in het bijzonder de technische documentatie, bedoeld in bijlage V, bijlage VI, punt 3, bijlage VII, punt 2, en bijlage VIII, punten 3.1 en 3.3, van [richtlijn 2000/14](32000L0014).
 
 ##### Artikel 16
 
@@ -267,7 +267,7 @@ Een wijziging van de artikelen 12 en 13 van [richtlijn 2000/14](32000L0014) en v
 
 1. De Regeling geluidproduktie bouwmachines wordt met ingang van 3 januari 2002 ingetrokken.
 
-2. Op verzoek van de fabrikant of diens in de Gemeenschap gevestigde gemachtigde kan tot 3 januari 2002 voor het verkrijgen van een goedkeuring als bedoeld in artikel 2, onder a, van de Regeling geluidproduktie bouwmachines een van de goedkeuringsprocedures bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=4&z=2006-04-15&g=2006-04-15), of [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=13&z=2006-04-15&g=2006-04-15) van deze regeling worden toegepast.
+2. Op verzoek van de fabrikant of diens in de Gemeenschap gevestigde gemachtigde kan tot 3 januari 2002 voor het verkrijgen van een goedkeuring als bedoeld in artikel 2, onder a, van de Regeling geluidproduktie bouwmachines een van de goedkeuringsprocedures bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=4&z=2023-04-19&g=2023-04-19), of [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=13&z=2023-04-19&g=2023-04-19) van deze regeling worden toegepast.
 
 3. Een goedkeuring krachtens artikel 2, onder a, van de Regeling geluidproduktie bouwmachines, die zijn verleend met toepassing van het tweede lid worden gelijksgesteld aan goedkeuringen krachtens deze regeling.
 
@@ -275,10 +275,30 @@ Een wijziging van de artikelen 12 en 13 van [richtlijn 2000/14](32000L0014) en v
 
 1. Deze regeling treedt in werking met ingang van 3 januari 2002.
 
-2. In afwijking van het eerste lid treedt [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=19&z=2006-04-15&g=2006-04-15), in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.
+2. In afwijking van het eerste lid treedt [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012766&artikel=19&z=2023-04-19&g=2023-04-19), in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.
 
 ##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling geluidemissie buitenmaterieel.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 3a
+
+1. Het is verboden materieel voor gebruik buitenshuis in de handel te brengen in strijd met artikel 4, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is de fabrikant, de importeur, de gemachtigde die is aangewezen om de in artikel 4, derde lid, van de EU-verordening markttoezicht vermelde taken namens de fabrikant te verrichten, of de fulfilmentdienstverlener ten aanzien van materieel voor gebruik buitenshuis, verboden te handelen in strijd met artikel 4, derde en vierde lid, van de EU-verordening markttoezicht.
+
+3. Het is de gemachtigde, bedoeld in het tweede lid, verboden te handelen in strijd met artikel 5, tweede lid, van de EU-verordening markttoezicht.
+
+##### Artikel 18a
+
+1. Het is een marktdeelnemer die betrokken is of is geweest bij het op de markt aanbieden van materieel voor gebruik buitenshuis, verboden in strijd te handelen met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van materieel voor gebruik buitenshuis, verboden in strijd te handelen met artikel 7, tweede lid, van de EU-verordening markttoezicht.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
