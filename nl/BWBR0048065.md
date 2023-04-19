@@ -4,7 +4,7 @@ identifier: "BWBR0048065"
 country: "nl"
 rank: "kb"
 publication_date: "2024-01-30"
-last_updated: "2023-04-01"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048065"
 soort: "KB"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- c. **staatscommissie:** staatscommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048065&artikel=2&z=2023-04-19&g=2023-04-01).
+- c. **staatscommissie:** staatscommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048065&artikel=2&z=2023-04-19&g=2023-04-19).
 
 ##### Artikel 2. Instelling en taak
 
