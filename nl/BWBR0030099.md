@@ -4,7 +4,7 @@ identifier: "BWBR0030099"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-19"
-last_updated: "2011-06-30"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030099"
 soort: "ministeriele-regeling"
@@ -46,6 +46,8 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- –. **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+
 - –. **aangemelde instantie:** aangemelde instantie als bedoeld in artikel 2 van [richtlijn 2010/35](32010L0035)/EU;
 
 - –. **aanmeldende autoriteit:** aanmeldende autoriteit als bedoeld in artikel 2 van [richtlijn 2010/35](32010L0035)/EU;
@@ -76,9 +78,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **in de handel brengen:** in de handel brengen als bedoeld in artikel 2 van [richtlijn 2010/35](32010L0035)/EU;
 
+- –. **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+
 - –. **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 2 van [richtlijn 2010/35](32010L0035)/EU;
 
 - –. **markttoezicht:** markttoezicht als bedoeld in artikel 2 van [richtlijn 2010/35](32010L0035)/EU;
+
+- –. **op de markt aanbieden:** op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht;
 
 - –. **op de markt aanbieden:** op de markt aanbieden als bedoeld in artikel 2 van [richtlijn 2010/35](32010L0035)/EU;
 
@@ -152,7 +158,7 @@ De hernieuwde conformiteitsbeoordeling van vervoerbare drukapparatuur als bedoel
 
 ##### Artikel 12
 
-1. De Minister verleent voor het verrichten van activiteiten als bedoeld in artikel 21, tweede lid, onderdeel a, van [richtlijn 2010/35](32010L0035)/EU uitsluitend een erkenning aan een instantie die voldoet aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030099&paragraaf=4&artikel=13&z=2011-06-30&g=2011-06-30).
+1. De Minister verleent voor het verrichten van activiteiten als bedoeld in artikel 21, tweede lid, onderdeel a, van [richtlijn 2010/35](32010L0035)/EU uitsluitend een erkenning aan een instantie die voldoet aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030099&paragraaf=4&artikel=13&z=2023-04-19&g=2023-04-19).
 
 2. De instantie die met toepassing van het eerste lid wenst te worden erkend en aangemeld, dient bij de Minister een aanvraag in die voldoet aan artikel 21, tweede lid, van [richtlijn 2010/35](32010L0035)/EU.
 
@@ -168,7 +174,7 @@ De aangemelde instantie voldoet of zorgt dat wordt voldaan aan de artikelen 20, 
 
 Indien er sprake is van markttoezicht handelen de in [artikel 34 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=34) bedoelde ambtenaren en de marktdeelnemers overeenkomstig de artikelen 30, 31, tweede lid, 32 en 33 van [richtlijn 2010/35](32010L0035)/EU.
 
-#### § 5. Overgangs- en slotbepalingen
+#### § 4a. Uitvoering van EU-verordening markttoezicht
 
 ##### Artikel 15
 
@@ -182,9 +188,9 @@ Voor de toepassing van deze regeling geldt een verwijzing in [richtlijn 2010/35]
 
 ##### Artikel 17
 
-1. Een aanvraag als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030099&paragraaf=4&artikel=12&z=2011-06-30&g=2011-06-30), kan tot en met 31 december 2011 worden ingediend zonder overlegging van een bewijs van accreditatie als bedoeld in artikel 21, tweede lid, onderdeel d, van [richtlijn 2010/35](32010L0035)/EU.
+1. Een aanvraag als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030099&paragraaf=4&artikel=12&z=2023-04-19&g=2023-04-19), kan tot en met 31 december 2011 worden ingediend zonder overlegging van een bewijs van accreditatie als bedoeld in artikel 21, tweede lid, onderdeel d, van [richtlijn 2010/35](32010L0035)/EU.
 
-2. In de gevallen, bedoeld in het eerste lid, kan de erkenning als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030099&paragraaf=4&artikel=12&z=2011-06-30&g=2011-06-30), slechts worden verleend uiterlijk tot en met 31 december 2011.
+2. In de gevallen, bedoeld in het eerste lid, kan de erkenning als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030099&paragraaf=4&artikel=12&z=2023-04-19&g=2023-04-19), slechts worden verleend uiterlijk tot en met 31 december 2011.
 
 3. Deze regeling is tot en met 30 juni 2013 niet van toepassing op drukrecipiënten, hun kranen en ander toebehoren die worden gebruikt voor het vervoer van de in artikel 42, vierde lid, van [richtlijn 2010/35](32010L0035)/EU genoemde VN nummers.
 
@@ -203,5 +209,15 @@ Deze regeling treedt in werking met ingang van 30 juni 2011. Indien de Staatscou
 ##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling vervoerbare drukapparatuur 2011.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 14a
+
+1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van vervoerbare drukapparatuur, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van vervoerbare drukapparatuur, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
+
+#### § 5. Overgangs- en slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
