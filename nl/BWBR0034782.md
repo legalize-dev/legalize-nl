@@ -4,7 +4,7 @@ identifier: "BWBR0034782"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2020-12-10"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034782"
 soort: "ministeriele-regeling"
@@ -92,7 +92,13 @@ BESLUIT:
 
 - q. **richtlijn nr. 2012/19/EU:** richtlijn 2012/19/EU van het Europees Parlement en de Raad van 4 juli 2012 betreffende afgedankte elektrische en elektronische apparatuur (AEEA) (herschikking) (PbEU 2012, L 197);
 
-- r. **uitvoeringsverordening (EU) 2019/290:** uitvoeringsverordening (EU) 2019/290 van de Commissie van 19 februari 2019 tot vaststelling van het formaat voor registratie en rapportage van producenten van elektrische en elektronische apparatuur aan het register (PbEU 2019, L 48).
+- r. **uitvoeringsverordening (EU) 2019/290:** uitvoeringsverordening (EU) 2019/290 van de Commissie van 19 februari 2019 tot vaststelling van het formaat voor registratie en rapportage van producenten van elektrische en elektronische apparatuur aan het register (PbEU 2019, L 48);
+
+- s. **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+
+- t. **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+
+- u. **op de markt aanbieden:** op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht.
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -182,15 +188,15 @@ Onverminderd [artikel 1 van het Besluit gescheiden inzameling huishoudelijke afv
 
 ##### Artikel 6. Mogelijkheid producenten opzetten eigen innamesysteem voor afgedankte elektrische en elektronische apparatuur van particulieren
 
-Onverminderd de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2020-12-10&g=2020-12-10), mogen producenten innamesystemen voor afgedankte elektrische en elektronische apparatuur van particuliere huishoudens invoeren en exploiteren mits deze systemen in overeenstemming zijn met de doelstellingen van [richtlijn nr. 2012/19](32012L0019)/EU.
+Onverminderd de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2023-04-19&g=2023-04-19), mogen producenten innamesystemen voor afgedankte elektrische en elektronische apparatuur van particuliere huishoudens invoeren en exploiteren mits deze systemen in overeenstemming zijn met de doelstellingen van [richtlijn nr. 2012/19](32012L0019)/EU.
 
 ##### Artikel 7. Weigeren inname verontreinigde afgedankte elektrische en elektronische apparatuur
 
-De inzameling en het achterlaten, bedoeld in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2020-12-10&g=2020-12-10), kan worden geweigerd indien de afgedankte elektrische en elektronische apparatuur bij gebruik is verontreinigd en daardoor een risico voor de gezondheid of veiligheid oplevert voor medewerkers van degene die inneemt.
+De inzameling en het achterlaten, bedoeld in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2023-04-19&g=2023-04-19), kan worden geweigerd indien de afgedankte elektrische en elektronische apparatuur bij gebruik is verontreinigd en daardoor een risico voor de gezondheid of veiligheid oplevert voor medewerkers van degene die inneemt.
 
 ##### Artikel 8. Gescheiden inzameling afgedankte elektrische en elektronische apparatuur van andere dan particuliere huishoudens
 
-Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=14&z=2020-12-10&g=2020-12-10) draagt een producent zorg voor de gescheiden inzameling van afgedankte door hem in de handel gebrachte elektrische en elektronische apparatuur, niet zijnde afgedankte elektrische en elektronische apparatuur van particuliere huishoudens.
+Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=14&z=2023-04-19&g=2023-04-19) draagt een producent zorg voor de gescheiden inzameling van afgedankte door hem in de handel gebrachte elektrische en elektronische apparatuur, niet zijnde afgedankte elektrische en elektronische apparatuur van particuliere huishoudens.
 
 ##### Artikel 9. Vervoer en voorbereiding voor hergebruik van ingezamelde afgedankte elektrische en elektronische apparatuur
 
@@ -250,7 +256,7 @@ Het bevoegd gezag verbindt zodanige voorschriften aan een omgevingsvergunning vo
 
 2. Een producent die op de markt aanwezig is op het moment waarop de kosten ontstaan van het beheer van afgedankte elektrische en elektronische apparatuur van particuliere huishoudens welke apparatuur op of voor 13 augustus 2005 in de handel is gebracht, draagt zorg voor de financiering van het beheer van die afgedankte apparatuur naar evenredigheid van zijn marktaandeel op het moment waarop de kosten van het afvalbeheer ontstaan.
 
-3. De in het eerste en tweede lid genoemde zorg voor financiering begint bij de afgifte op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2020-12-10&g=2020-12-10) bedoelde plaats alsmede bij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=4&z=2020-12-10&g=2020-12-10) genoemde distributeur.
+3. De in het eerste en tweede lid genoemde zorg voor financiering begint bij de afgifte op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2023-04-19&g=2023-04-19) bedoelde plaats alsmede bij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=4&z=2023-04-19&g=2023-04-19) genoemde distributeur.
 
 4. Bij het in de handel brengen van elektrische en elektronische apparatuur als bedoeld in het eerste lid stelt de producent een waarborg waaruit blijkt dat de inzameling, verwerking, nuttige toepassing en milieuhygiënisch verantwoorde verwijdering van die apparatuur, wanneer die wordt afgedankt, zal worden gefinancierd overeenkomstig het eerste lid.
 
@@ -342,9 +348,11 @@ Het bevoegd gezag verbindt zodanige voorschriften aan een omgevingsvergunning vo
 
 2. Een producent die in Nederland is gevestigd en die elektrische en elektronische apparatuur in een andere lidstaat van de Europese Unie verkoopt, maar daar niet is gevestigd, stelt met een schriftelijk mandaat een natuurlijke persoon of rechtspersoon in die lidstaat verantwoordelijk voor het nakomen van zijn, uit [richtlijn nr. 2012/19](32012L0019)/EU voortvloeiende, verplichtingen.
 
-##### Artikel 22
+##### Artikel 22. Uitvoering EU-verordening markttoezicht
 
-Wijzigt de Activiteitenregeling milieubeheer.
+1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van elektrische en elektronische apparatuur, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van elektrische en elektronische apparatuur, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
 
 ##### Artikel 23
 
@@ -352,7 +360,7 @@ Een wijziging van de bijlagen bij [richtlijn nr. 2012/19](32012L0019)/EU gaat vo
 
 ##### Artikel 24
 
-De [Regeling beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017053) wordt ingetrokken met dien verstande dat [artikel 16 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=16) van toepassing blijft ten aanzien van de resultaten van de uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=7&z=2020-12-10&g=2020-12-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=8&z=2020-12-10&g=2020-12-10), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=9&z=2020-12-10&g=2020-12-10), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=10&z=2020-12-10&g=2020-12-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=11&z=2020-12-10&g=2020-12-10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=12&z=2020-12-10&g=2020-12-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=13&z=2020-12-10&g=2020-12-10) alsmede over de hoeveelheid op de markt gebrachte elektrische en elektronische apparatuur in 2013.
+De [Regeling beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017053) wordt ingetrokken met dien verstande dat [artikel 16 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=16) van toepassing blijft ten aanzien van de resultaten van de uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=7&z=2023-04-19&g=2023-04-19), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=8&z=2023-04-19&g=2023-04-19), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=9&z=2023-04-19&g=2023-04-19), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=10&z=2023-04-19&g=2023-04-19), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=11&z=2023-04-19&g=2023-04-19), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=12&z=2023-04-19&g=2023-04-19) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=13&z=2023-04-19&g=2023-04-19) alsmede over de hoeveelheid op de markt gebrachte elektrische en elektronische apparatuur in 2013.
 
 ##### Artikel 25
 
@@ -370,11 +378,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 19a
 
-1. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19&z=2020-12-10&g=2020-12-10) is van overeenkomstige toepassing op een natuurlijke of rechtspersoon die gebruikte of voor hergebruik geschikt gemaakte, uit Nederland afkomstige elektrische of elektronische apparatuur overbrengt naar een andere lidstaat van de Europese Unie of een derde land voor hergebruik.
+1. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19&z=2023-04-19&g=2023-04-19) is van overeenkomstige toepassing op een natuurlijke of rechtspersoon die gebruikte of voor hergebruik geschikt gemaakte, uit Nederland afkomstige elektrische of elektronische apparatuur overbrengt naar een andere lidstaat van de Europese Unie of een derde land voor hergebruik.
 
-2. In afwijking van het eerste lid is de in [artikel 19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19&z=2020-12-10&g=2020-12-10), genoemde uitvoeringsverordening (EU) 2019/290 niet van toepassing.
+2. In afwijking van het eerste lid is de in [artikel 19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19&z=2023-04-19&g=2023-04-19), genoemde uitvoeringsverordening (EU) 2019/290 niet van toepassing.
 
-3. In afwijking van het eerste lid is de in [artikel 19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19&z=2020-12-10&g=2020-12-10), genoemde bijlage X van richtlijn nr. 20102/19/EU uitsluitend van toepassing voor zover het betreft:
+3. In afwijking van het eerste lid is de in [artikel 19, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=19&z=2023-04-19&g=2023-04-19), genoemde bijlage X van richtlijn nr. 20102/19/EU uitsluitend van toepassing voor zover het betreft:
 
 - a. deel A, onderdelen 1, 3, 4 en 8, en
 
