@@ -4,7 +4,7 @@ identifier: "BWBR0037546"
 country: "nl"
 rank: "wet"
 publication_date: "2023-04-19"
-last_updated: "2018-02-17"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037546"
 soort: "wet"
@@ -57,6 +57,8 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 - **distributeur:** natuurlijke of rechtspersoon in de toeleveringsketen, anders dan de fabrikant of de importeur, die een product op de markt aanbiedt;
 
 - **EU-conformiteitsverklaring:** verklaring afgegeven door de fabrikant dat een product voldoet aan de eisen, bedoeld in artikel 15, eerste tot en met derde lid, van de richtlijn;
+
+- **EU-verordening markttoezicht:** [Verordening (EU) nr. 2019/1020](32920R2019) van het Europees Parlement en de Raad van 20 juni 2019 betreffende markttoezicht en conformiteit van producten en tot wijziging van [Richtlijn 2004/42/EG](32004L0042) en [Verordeningen (EG) nr. 765/2008](32008R0765) en (EU) [nr. 305/2011](32011R0305) (PbEU 2019 L169);
 
 - **fabrikant:** natuurlijke of rechtspersoon die een product vervaardigt of een product laat ontwerpen of vervaardigen en het onder zijn naam of merknaam verhandelt;
 
@@ -188,11 +190,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Voor de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2018-02-17&g=2018-02-17), bedoelde producten die voldoen aan de in artikel 14 van de richtlijn bedoelde geharmoniseerde normen geldt als veronderstelling dat zij voldoen aan artikel 3, tweede lid.
+1. Voor de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), bedoelde producten die voldoen aan de in artikel 14 van de richtlijn bedoelde geharmoniseerde normen geldt als veronderstelling dat zij voldoen aan artikel 3, tweede lid.
 
 2. De keuring van de in het eerste lid, bedoelde producten geschiedt overeenkomstig de in de artikelen 19 tot en met 24 van de richtlijn opgenomen voorschriften en procedures.
 
-3. Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2018-02-17&g=2018-02-17), bedoelde producten, met uitzondering van gedeeltelijk afgebouwde vaartuigen, op de markt aangeboden of in bedrijf worden gesteld zijn deze:
+3. Indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), bedoelde producten, met uitzondering van gedeeltelijk afgebouwde vaartuigen, op de markt aangeboden of in bedrijf worden gesteld zijn deze:
 
 - a. vergezeld van een EU-conformiteitsverklaring als bedoeld in artikel 15 van de richtlijn, in de door Onze Minister vast te stellen talen, en;
 
@@ -202,7 +204,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-In afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=4&z=2018-02-17&g=2018-02-17), is het toegestaan om:
+In afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=4&z=2023-04-19&g=2023-04-19), is het toegestaan om:
 
 - a. gedeeltelijk afgebouwde vaartuigen op de markt aan te bieden wanneer deze vergezeld gaan van een verklaring van de fabrikant of importeur, overeenkomstig bijlage III van de richtlijn en in de door Onze Minister vast te stellen talen, waaruit blijkt dat deze bestemd zijn om door anderen te worden afgebouwd;
 
@@ -210,7 +212,7 @@ In afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - c. de in artikel 6, vierde lid, van de richtlijn bedoelde voortstuwingsmotoren onder de in dat artikel genoemde voorwaarden op de markt aan te bieden of in bedrijf te stellen;
 
-- d. de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2018-02-17&g=2018-02-17), bedoelde producten die niet aan deze richtlijn voldoen, op handelsbeurzen, tentoonstellingen, demonstraties en soortgelijke evenementen te tonen, mits met een zichtbaar teken duidelijk is aangegeven dat die producten niet aan de in bijlage I van de richtlijn opgenomen essentiële eisen voldoen en niet in de Unie op de markt worden aangeboden of in bedrijf gesteld voordat zij daarmee in overeenstemming zijn gebracht.
+- d. de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), bedoelde producten die niet aan deze richtlijn voldoen, op handelsbeurzen, tentoonstellingen, demonstraties en soortgelijke evenementen te tonen, mits met een zichtbaar teken duidelijk is aangegeven dat die producten niet aan de in bijlage I van de richtlijn opgenomen essentiële eisen voldoen en niet in de Unie op de markt worden aangeboden of in bedrijf gesteld voordat zij daarmee in overeenstemming zijn gebracht.
 
 ### Hoofdstuk 3. Verplichtingen van marktdeelnemers en particuliere importeurs
 
@@ -228,7 +230,7 @@ In afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 7
 
-Keuringen ten aanzien van derden worden uitsluitend verricht door keuringsinstanties die in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=4&artikel=8&z=2018-02-17&g=2018-02-17) beschikken over een aanmelding bij de Europese Commissie en de andere lidstaten van de Europese Unie.
+Keuringen ten aanzien van derden worden uitsluitend verricht door keuringsinstanties die in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=4&artikel=8&z=2023-04-19&g=2023-04-19) beschikken over een aanmelding bij de Europese Commissie en de andere lidstaten van de Europese Unie.
 
 ##### Artikel 8
 
@@ -244,7 +246,7 @@ Keuringen ten aanzien van derden worden uitsluitend verricht door keuringsinstan
 
 ##### Artikel 9
 
-Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geharmoniseerde normen of delen ervan, waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, geldt als veronderstelling dat zij voldoet aan de krachtens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=4&artikel=8&z=2018-02-17&g=2018-02-17), gestelde criteria voor de beoordeling voor zover de toepasselijke geharmoniseerde normen met die criteria overeenkomen.
+Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geharmoniseerde normen of delen ervan, waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, geldt als veronderstelling dat zij voldoet aan de krachtens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=4&artikel=8&z=2023-04-19&g=2023-04-19), gestelde criteria voor de beoordeling voor zover de toepasselijke geharmoniseerde normen met die criteria overeenkomen.
 
 ##### Artikel 10
 
@@ -252,7 +254,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 2. De keuringen worden op evenredige wijze uitgevoerd, waarbij wordt voorkomen dat marktdeelnemers en particuliere importeurs onnodig worden belast. De keuringsinstantie houdt bij de uitoefening van haar activiteiten naar behoren rekening met de omvang van een onderneming, de sector waarin zij actief is, haar structuur, de relatieve technologische complexiteit van de producten en het massa- of seriële karakter van het productieproces. Daarbij eerbiedigt zij evenwel de striktheid en het beschermingsniveau die nodig zijn om het product aan deze richtlijn te laten voldoen.
 
-3. Indien een aangemelde keuringsinstantie vaststelt dat een fabrikant of een particuliere importeur niet heeft voldaan aan de eisen van [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2018-02-17&g=2018-02-17), of overeenkomstige geharmoniseerde normen, verlangt zij van die fabrikant of particuliere importeur dat hij passende corrigerende maatregelen neemt en verleent zij geen certificaat te bewijze van conformiteit aan die eisen.
+3. Indien een aangemelde keuringsinstantie vaststelt dat een fabrikant of een particuliere importeur niet heeft voldaan aan de eisen van [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), of overeenkomstige geharmoniseerde normen, verlangt zij van die fabrikant of particuliere importeur dat hij passende corrigerende maatregelen neemt en verleent zij geen certificaat te bewijze van conformiteit aan die eisen.
 
 4. Indien een aangemelde keuringsinstantie bij het toezicht op de conformiteit na verlening van een certificaat vaststelt dat een product niet meer conform is, verlangt zij van de fabrikant of particuliere importeur dat hij passende corrigerende maatregelen neemt. Zo nodig schort zij het certificaat op of trekt zij dit in.
 
@@ -278,9 +280,9 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 ##### Artikel 12
 
-1. Het is verboden een in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2018-02-17&g=2018-02-17), bedoeld product in de handel te brengen of als zodanig in bedrijf te stellen, indien dit niet voldoet aan de desbetreffende in bijlage I van de richtlijn opgenomen essentiële eisen.
+1. Het is verboden een in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), bedoeld product in de handel te brengen of als zodanig in bedrijf te stellen, indien dit niet voldoet aan de desbetreffende in bijlage I van de richtlijn opgenomen essentiële eisen.
 
-2. Het is verboden een in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2018-02-17&g=2018-02-17), bedoeld product in de handel te brengen of als zodanig in bedrijf te stellen, indien dit niet op deugdelijke wijze is voorzien van de vereiste CE-markering.
+2. Het is verboden een in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), bedoeld product in de handel te brengen of als zodanig in bedrijf te stellen, indien dit niet op deugdelijke wijze is voorzien van de vereiste CE-markering.
 
 3. Het is verboden een CE-markering aan te brengen, indien niet een van toepassing zijnde procedure van conformiteitsbeoordeling is gevolgd of indien het betrokken product niet voldoet aan de desbetreffende in bijlage I van de richtlijn opgenomen essentiële eisen.
 
@@ -292,7 +294,13 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 - b. artikel 25 van de richtlijn.
 
-6. Het is verboden te handelen in strijd met een door de markttoezichthouder opgelegde verplichting, verbod of beperking als bedoeld in de [artikelen 14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=14&z=2018-02-17&g=2018-02-17), of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=16&z=2018-02-17&g=2018-02-17) van deze wet.
+6. Het is verboden te handelen in strijd met een door de markttoezichthouder opgelegde verplichting, verbod of beperking als bedoeld in de [artikelen 14, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=14&z=2023-04-19&g=2023-04-19), of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=16&z=2023-04-19&g=2023-04-19) van deze wet.
+
+7. Het is verboden te handelen in strijd met:
+
+- a. artikel 4, eerste, derde en vierde lid, van de EU-verordening markttoezicht, en
+
+- b. de artikelen 5, tweede lid, tweede volzin, en 7 van de EU-verordening markttoezicht.
 
 ### Hoofdstuk 6. Handhaving
 
@@ -310,7 +318,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 ##### Artikel 14
 
-1. Indien de markttoezichthouder vaststelt dat een product als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2018-02-17&g=2018-02-17), gevaar kan opleveren voor de veiligheid en de gezondheid van personen, goederen of het milieu, legt hij direct de verantwoordelijke marktdeelnemer of particuliere importeur de verplichting op binnen een door hem vast te stellen termijn met de aard van het risico evenredige maatregelen te nemen om dat product in overeenstemming te brengen met bijlage I van de richtlijn, uit de handel te nemen of terug te roepen dan wel het in bedrijf stellen of het gebruik ervan op te schorten.
+1. Indien de markttoezichthouder vaststelt dat een product als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), gevaar kan opleveren voor de veiligheid en de gezondheid van personen, goederen of het milieu, legt hij direct de verantwoordelijke marktdeelnemer of particuliere importeur de verplichting op binnen een door hem vast te stellen termijn met de aard van het risico evenredige maatregelen te nemen om dat product in overeenstemming te brengen met bijlage I van de richtlijn, uit de handel te nemen of terug te roepen dan wel het in bedrijf stellen of het gebruik ervan op te schorten.
 
 2. De in het eerste lid bedoelde marktdeelnemers of particuliere importeurs dragen er zorg voor de opgelegde maatregelen binnen de gestelde termijn uit te voeren.
 
@@ -318,9 +326,9 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 ##### Artikel 15
 
-1. De markttoezichthouder stelt de betrokken aangemelde keuringsinstantie in kennis van een situatie als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=14&z=2018-02-17&g=2018-02-17), alsmede de Europese Commissie en de andere lidstaten van de Europese Unie, indien naar zijn oordeel het vastgestelde gevaar niet beperkt is tot het Nederlandse grondgebied.
+1. De markttoezichthouder stelt de betrokken aangemelde keuringsinstantie in kennis van een situatie als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=14&z=2023-04-19&g=2023-04-19), alsmede de Europese Commissie en de andere lidstaten van de Europese Unie, indien naar zijn oordeel het vastgestelde gevaar niet beperkt is tot het Nederlandse grondgebied.
 
-2. De markttoezichthouder stelt direct de Europese Commissie en de andere lidstaten van de Europese Unie overeenkomstig artikel 44, vijfde lid, van de richtlijn in kennis van een situatie als bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=14&z=2018-02-17&g=2018-02-17).
+2. De markttoezichthouder stelt direct de Europese Commissie en de andere lidstaten van de Europese Unie overeenkomstig artikel 44, vijfde lid, van de richtlijn in kennis van een situatie als bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=14&z=2023-04-19&g=2023-04-19).
 
 ##### Artikel 16
 
@@ -352,13 +360,13 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 ##### Artikel 18
 
-1. Onze Minister kan aan degene die handelt in strijd met de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=5&artikel=12&z=2018-02-17&g=2018-02-17) gestelde verboden een bestuurlijke boete opleggen.
+1. Onze Minister kan aan degene die handelt in strijd met de in [artikel 12, met uitzondering van het zevende lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=5&artikel=12&z=2023-04-19&g=2023-04-19), gestelde verboden een bestuurlijke boete opleggen.
 
-2. De bestuurlijke boete die voor een overtreding van [artikel 12, tweede lid en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=5&artikel=12&z=2018-02-17&g=2018-02-17), ten hoogste kan worden opgelegd komt overeen met de boete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23);
+2. De bestuurlijke boete die voor een overtreding van [artikel 12, tweede lid en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=5&artikel=12&z=2023-04-19&g=2023-04-19), ten hoogste kan worden opgelegd komt overeen met de boete van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23);
 
-3. De bestuurlijke boete die voor een overtreding van [artikel 12, eerste, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=5&artikel=12&z=2018-02-17&g=2018-02-17), kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in [artikel 23, vierde lid van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+3. De bestuurlijke boete die voor een overtreding van [artikel 12, eerste, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=5&artikel=12&z=2023-04-19&g=2023-04-19), kan worden opgelegd komt overeen met de boete van de vierde categorie, bedoeld in [artikel 23, vierde lid van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-4. De bestuurlijke boete die voor een overtreding van [artikel 12, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=5&artikel=12&z=2018-02-17&g=2018-02-17), kan worden opgelegd komt overeen met de boete van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+4. De bestuurlijke boete die voor een overtreding van [artikel 12, vijfde lid, onderdeel a, en zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=5&artikel=12&z=2023-04-19&g=2023-04-19) kan worden opgelegd komt overeen met de boete van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 5. De op te leggen bestuurlijke boete kan met maximaal 50% worden verhoogd, indien binnen een periode van 48 maanden tweemaal voor een zelfde feit, elk afzonderlijk in een periode van maximaal 24 maanden voorafgaand aan dat feit, een boete is opgelegd en onherroepelijk is geworden.
 
@@ -388,7 +396,7 @@ Wijzigt de Wet op de economische delicten.
 
 1. De [Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366) wordt ingetrokken.
 
-2. Op producten die op de markt zijn aangeboden of in gebruik zijn genomen voor de inwerkingtreding van deze wet blijven de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=7a), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=7b), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=16) en [17 van de Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=17) van toepassing, zoals die luidde op de dag voorafgaand aan die van de inwerkingtreding van deze wet en is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=9&artikel=22&z=2018-02-17&g=2018-02-17) niet van toepassing.
+2. Op producten die op de markt zijn aangeboden of in gebruik zijn genomen voor de inwerkingtreding van deze wet blijven de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=7a), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=7b), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=16) en [17 van de Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=17) van toepassing, zoals die luidde op de dag voorafgaand aan die van de inwerkingtreding van deze wet en is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=9&artikel=22&z=2023-04-19&g=2023-04-19) niet van toepassing.
 
 ##### Artikel 24
 
@@ -397,5 +405,65 @@ Deze wet treedt in werking met ingang van 18 januari 2016. Indien het Staatsblad
 ##### Artikel 25
 
 Deze wet wordt aangehaald als: Wet pleziervaartuigen 2016.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden
+
+##### Artikel 13a
+
+1. De ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=13&z=2023-04-19&g=2023-04-19) aangewezen ambtenaren, zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van de EU-verordening markttoezicht.
+
+2. Voor het uitoefenen van de bevoegdheid, bedoeld in het eerste lid, is een voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+3. Tegen de beslissing van de rechter-commissaris, bedoeld in het tweede lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
+
+##### Artikel 13b
+
+1. De ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=13&z=2023-04-19&g=2023-04-19) aangewezen ambtenaren zijn bevoegd om, ter uitvoering van de EU-verordening markttoezicht, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, producten als bedoeld in artikel 3, eerste lid, te verkrijgen ten behoeve van het controleren van de kenmerken van deze producten en de verificatie van de documenten en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
+
+2. De ambtenaar die gebruik heeft gemaakt van de bevoegdheid bedoeld in het eerste lid, maakt daarvan een schriftelijk verslag op waarin wordt vermeld:
+
+- a. zijn naam of nummer en hoedanigheid;
+
+- b. de motivering van de noodzaak tot uitoefening van de bevoegdheid;
+
+- c. de voorschriften op de naleving waarvan wordt toegezien;
+
+- d. het adres, waaronder indien van toepassing, het elektronische adres waar het product, bedoeld in het eerste lid, is verkregen en, voor zover bekend, de omschrijving van de betrokken marktdeelnemer;
+
+- e. de onjuiste of onvolledige gegevens die zijn verstrekt bij de verkrijging van het product;
+
+- f. de wijze waarop en het tijdvak waarin de handelingen hebben plaatsgevonden;
+
+- g. wat de uitkomst is van het onderzoek van het verkregen product.
+
+##### Artikel 13c
+
+1. Ter uitvoering van de EU-verordening markttoezicht kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van de EU-verordening markttoezicht, gevormd door het product, weg te nemen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van de EU-verordening markttoezicht of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers, bedoeld in artikel 3, onderdeel 21, van de EU-verordening markttoezicht, wanneer zij zich toegang verschaffen tot een online interface.
+
+2. Indien niet binnen de daarvoor gestelde termijn aan een last als bedoeld in het eerste lid is voldaan, kan Onze Minister een zelfstandige last opleggen aan een aanbieder van diensten van de informatiemaatschappij, als bedoeld in artikel 3, onderdeel 14, van de EU-verordening markttoezicht om alle maatregelen te treffen die redelijkerwijs van hem kunnen worden gevergd om de toegang tot een online interface te beperken, onder meer door een daarvoor in aanmerking komende derde te verzoeken dergelijke maatregelen uit te voeren.
+
+3. Degene tot wie een zelfstandige last als bedoeld in het eerste of tweede lid is gericht, handelt overeenkomstig die last.
+
+4. Op grond van het eerste of tweede lid kan geen zelfstandige last worden opgelegd die leidt tot het blokkeren of filteren van internetverkeer.
+
+5. Voor een zelfstandige last als bedoeld in het eerste of tweede lid is voorafgaande machtiging vereist van de rechter-commissaris. In het verzoek om afgifte van een machtiging worden de proportionaliteit en subsidiariteit van het verzoek gemotiveerd. De rechter-commissaris kan het openbaar ministerie horen alvorens te beslissen. [Artikel 171 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=171) is van overeenkomstige toepassing.
+
+6. Tegen de beslissing van de rechter-commissaris, bedoeld in het vijfde lid, staat voor zover het verzoek om een machtiging niet is toegewezen, voor Onze Minister, binnen veertien dagen beroep open bij de rechtbank, sector strafrecht.
+
+7. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
+
+##### Artikel 13d
+
+[Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover de krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=13&z=2023-04-19&g=2023-04-19) van de wet aangewezen toezichthouders bijstand verlenen aan een markttoezichtautoriteit uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
+
+#### § 2. **Toezicht op de aangemelde keuringsinstanties**
+
+#### § 3. **Bestuurlijke boete**
+
+### Hoofdstuk 8. Overgangsbepalingen
+
+### Hoofdstuk 9. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden
