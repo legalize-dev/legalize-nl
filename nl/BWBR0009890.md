@@ -4,7 +4,7 @@ identifier: "BWBR0009890"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2020-12-31"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009890"
 soort: "AMvB"
@@ -55,6 +55,14 @@ Hebben goedgevonden en verstaan:
 1. In dit besluit wordt verstaan onder «kwikverordening»: Verordening (EU) nr. 2017/852 van het Europees Parlement en de Raad van 17 mei 2017 betreffende kwik, en tot intrekking van Verordening (EG) nr. 1102/2008 (PbEU 2017, L 137).
 
 2. In dit besluit wordt verstaan onder «kwik», «kwikverbinding», «mengsel», «kwikhoudend product» en «kwikafval» hetgeen hieronder wordt verstaan in artikel 2 van de kwikverordening.
+
+3. In dit besluit wordt verstaan onder:
+
+- –. **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+
+- –. **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+
+- –. **op de markt aanbieden:** op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht.
 
 ##### Artikel 1.2
 
@@ -170,7 +178,17 @@ Het is verboden met tandheelkundig amalgaam, met inbegrip van het afval daarvan,
 
 2. De ingevolge artikel 12 en 14 van de kwikverordening te verstrekken documenten en gegevens worden gezonden aan het Directoraat-Generaal Rijkswaterstaat van het Ministerie van Infrastructuur en Waterstaat.
 
-3. Burgemeester en wethouders zijn, in plaats van Onze Minister, met de bestuursrechtelijke handhaving van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2b&artikel=2.8&z=2020-12-31&g=2020-12-31) belast, voor zover het handelen betreft als bedoeld in artikel 10, vierde en zesde lid, van de kwikverordening.
+3. Burgemeester en wethouders zijn, in plaats van Onze Minister, met de bestuursrechtelijke handhaving van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009890&paragraaf=2b&artikel=2.8&z=2023-04-19&g=2023-04-19) belast, voor zover het handelen betreft als bedoeld in artikel 10, vierde en zesde lid, van de kwikverordening.
+
+#### § 2d. Uitvoering van de EU-verordening markttoezicht
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2.9a
+
+1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van een kwikhoudend product, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van een kwikhoudend product, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
 
 #### § 3. Slotbepalingen
 
