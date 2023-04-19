@@ -4,7 +4,7 @@ identifier: "BWBR0039921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2017-10-01"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039921"
 soort: "ministeriele-regeling"
@@ -44,7 +44,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aangemelde instantie:** conformiteitsbeoordelingsinstantie waaraan ter krachtens[artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=2&z=2017-10-01&g=2017-10-01) een erkenning is verleend en die overeenkomstig artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042) bij de Europese Commissie is aangemeld;
+- **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+
+- **aangemelde instantie:** conformiteitsbeoordelingsinstantie waaraan ter krachtens[artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=2&z=2023-04-19&g=2023-04-19) een erkenning is verleend en die overeenkomstig artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042) bij de Europese Commissie is aangemeld;
 
 - **accreditatie:** accreditatie als bedoeld in artikel 2, onderdeel 10, van verordening (EG) Nr. 765/2008 van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93 (PbEU 2008, L218;
 
@@ -56,7 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - **fabrikant:** fabrikant van een verwarmingstoestel of zijn in de Europese Unie gevestigde gemachtigde;
 
+- **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+
 - **minister:** Minister van Infrastructuur en Milieu;
+
+- **op de markt aanbieden:** op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht;
 
 - **richtlijn 92/42/EEG:** de artikelen 7, tweede lid, en 8 van [richtlijn 92/42/EEG](31992L0042) van de Raad van 21 mei 1992 betreffende de rendementseisen voor nieuwe olie- en gasgestookte centrale-verwarmingsketels (PbEG 1992, L167), en de bij deze artikelen behorende bijlagen III, IV en V, en de voor de toepassing van de genoemde artikelen en bijlagen relevante andere artikelen van de genoemde richtlijn, zoals die richtlijn luidde onmiddellijk voorafgaand aan de intrekking van die andere artikelen als gevolg van de inwerkingtreding van verordening (EU)813/2013;
 
@@ -136,7 +142,7 @@ In deze regeling wordt verstaan onder:
 
 - a. indien de accreditatie van de erkende instantie is gewijzigd, geschorst of beëindigd
 
-- b. indien de erkende instantie niet voldoet aan de verplichtingen die voor haar voortvloeien uit [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=3&z=2017-10-01&g=2017-10-01);
+- b. indien de erkende instantie niet voldoet aan de verplichtingen die voor haar voortvloeien uit [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=3&z=2023-04-19&g=2023-04-19);
 
 - c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
@@ -150,10 +156,22 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 8
 
-Kiwa Nederland B.V. is ten behoeve van het uitvoeren van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=3&z=2017-10-01&g=2017-10-01), bedoelde werkzaamheden aangewezen als instantie als bedoeld in artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042), tot een jaar na het tijdstip van inwerkingtreding van deze regeling of het eerdere tijdstip waarop aan die instantie op grond van artikel 3, eerste lid, een erkenning is verleend.
+Kiwa Nederland B.V. is ten behoeve van het uitvoeren van de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039921&artikel=3&z=2023-04-19&g=2023-04-19), bedoelde werkzaamheden aangewezen als instantie als bedoeld in artikel 8, eerste lid, van [richtlijn 92/42/EEG](31992L0042), tot een jaar na het tijdstip van inwerkingtreding van deze regeling of het eerdere tijdstip waarop aan die instantie op grond van artikel 3, eerste lid, een erkenning is verleend.
 
 ##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 oktober 2017.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 7a
+
+1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van in serie geproduceerde centrale-verwarmingsketels als bedoeld in artikel 2, eerste lid, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van in serie geproduceerde centrale-verwarmingsketels als bedoeld in artikel 2, eerste lid, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
