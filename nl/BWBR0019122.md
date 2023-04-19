@@ -4,7 +4,7 @@ identifier: "BWBR0019122"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2013-01-01"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019122"
 soort: "AMvB"
@@ -56,7 +56,13 @@ In dit besluit wordt verstaan onder:
 
 - c. VOS-gehalte: VOS-gehalte als bedoeld in artikel 2, onderdeel 6, van [richtlijn 2004/42](32004L0042);
 
-- d. oplosmiddel: oplosmiddel als bedoeld in artikel 2, onderdeel 7, van [richtlijn 2004/42](32004L0042).
+- d. oplosmiddel: oplosmiddel als bedoeld in artikel 2, onderdeel 7, van [richtlijn 2004/42](32004L0042);
+
+- e. marktdeelnemer: marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+
+- f. aanbieder van diensten van de informatiemaatschappij: aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+
+- g. op de markt aanbieden: op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht.
 
 ##### Artikel 2
 
@@ -72,9 +78,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2013-01-01&g=2013-01-01), geldt niet voor producten die worden verhandeld om uitsluitend te worden gebruikt bij een activiteit die wordt verricht in een installatie die zich bevindt in een vergunningplichtige inrichting genoemd in [bijlage I, onder C, bij het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&bijlage=I), voor zover zich in de inrichting een installatie, een bestaande installatie of een kleine installatie bevindt.
+1. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2023-04-19&g=2023-04-19), geldt niet voor producten die worden verhandeld om uitsluitend te worden gebruikt bij een activiteit die wordt verricht in een installatie die zich bevindt in een vergunningplichtige inrichting genoemd in [bijlage I, onder C, bij het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&bijlage=I), voor zover zich in de inrichting een installatie, een bestaande installatie of een kleine installatie bevindt.
 
-2. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2013-01-01&g=2013-01-01) geldt, tot de dag met ingang waarvan een jaar is verstreken na de data, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage II, niet voor producten die niet voldoen aan de voorwaarden, bedoeld in artikel 2 en die kennelijk zijn geproduceerd vóór die data.
+2. Het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=2&z=2023-04-19&g=2023-04-19) geldt, tot de dag met ingang waarvan een jaar is verstreken na de data, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage II, niet voor producten die niet voldoen aan de voorwaarden, bedoeld in artikel 2 en die kennelijk zijn geproduceerd vóór die data.
 
 ##### Artikel 4
 
@@ -82,7 +88,7 @@ De methoden, genoemd in de bij [richtlijn 2004/42](32004L0042) behorende bijlage
 
 ##### Artikel 5
 
-1. Een wijziging van [richtlijn 2004/42](32004L0042) gaat voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=1&z=2013-01-01&g=2013-01-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+1. Een wijziging van [richtlijn 2004/42](32004L0042) gaat voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019122&artikel=1&z=2023-04-19&g=2023-04-19) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 2. Een wijziging van een van de bijlagen bij [richtlijn 2004/42](32004L0042) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -103,5 +109,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel 6a
 
 Dit besluit berust mede op de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) en [9.2.3.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2).
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 3a
+
+1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van producten, bedoeld in artikel 2, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van producten, bedoeld in artikel 2, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
