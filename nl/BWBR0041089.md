@@ -4,7 +4,7 @@ identifier: "BWBR0041089"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2018-10-05"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041089"
 soort: "AMvB"
@@ -68,7 +68,11 @@ Hebben goedgevonden en verstaan:
 
 - –. **verordening (EU) 2017/656:** uitvoeringsverordening (EU) 2017/656 van de Commissie van 19 december 2016 tot vaststelling van de administratieve voorschriften met betrekking tot emissiegrenswaarden en typegoedkeuring voor interne verbrandingsmotoren voor niet voor de weg bestemde mobiele machines overeenkomstig Verordening (EU) 2016/1628 van het Europees Parlement en de Raad (PbEU L 102/364).
 
-2. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt onder EU-typegoedkeuring, fabrikant van originele uitrusting, goedkeuringsinstantie, in de handel brengen, in gebruik zijnde motor, marktdeelnemer, markttoezichtautoriteit, motor, motortype, niet voor de weg bestemde mobiele machine en overgangsmotor verstaan hetgeen daaronder in artikel 3 van verordening (EU) 2016/1628 wordt verstaan.
+2. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt onder EU-typegoedkeuring, fabrikant van originele uitrusting, goedkeuringsinstantie, in de handel brengen, in gebruik zijnde motor, marktdeelnemer, markttoezichtautoriteit, motor, motortype, niet voor de weg bestemde mobiele machine, op de markt aanbieden en overgangsmotor verstaan hetgeen daaronder in artikel 3 van verordening (EU) 2016/1628 wordt verstaan.
+
+3. Voor de toepassing van dit besluit wordt verstaan onder:
+
+- **«aanbieder van diensten van de informatiemaatschappij»:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241).
 
 ##### Artikel 2
 
@@ -125,5 +129,13 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit EU-verordening emissiegrenswaarden voor motoren in niet voor de weg bestemde mobiele machines.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+1. Het is marktdeelnemers, bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht, en fabrikanten van originele uitrusting, die betrokken zijn of zijn geweest bij het op markt aanbieden van niet voor de weg bestemde mobiele machines, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van niet voor de weg bestemde mobiele machines, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
