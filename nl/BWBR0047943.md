@@ -4,7 +4,7 @@ identifier: "BWBR0047943"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2022-03-02"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047943"
 soort: "wet"
@@ -39,85 +39,59 @@ entry_into_force: "2023-04-19"
 
 ### Hoofdstuk 1. Algemeen
 
-### Hoofdstuk 2. Wijziging van andere wetten
+### Hoofdstuk 1. Algemeen
 
 ##### Artikel 2.1. ([Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054))
 
 Wijzigt de Meststoffenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.2. ([Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517))
 
 Wijzigt de Metrologiewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.3. ([Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302))
 
 Wijzigt de Tabaks- en rookwarenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.4. ([Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950))
 
 Wijzigt de Telecommunicatiewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.5. ([Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969))
 
 Wijzigt de Warenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.6. ([Wegenverkeerswet 1994](onbekend))
 
 Wijzigt de Wegenverkeerswet 1994.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.7. ([Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779))
 
 Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.8. ([Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803))
 
 Wijzigt de Wet explosieven voor civiel gebruik.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.9. ([Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670))
 
 Wijzigt de Wet gewasbeschermingsmiddelen en biociden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.10. ([Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672))
 
 Wijzigt de Wet uitvoering EU-handelingen energie-efficiëntie.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.11. ([Wet kabelbaaninstallaties](https://wetten.overheid.nl/jci1.3:c:BWBR0016366))
 
 Wijzigt de Wet kabelbaaninstallaties.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.12. ([Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555))
 
 Wijzigt de Wet luchtvaart.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.13. ([Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755))
 
 Wijzigt de Wet medische hulpmiddelen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.14. ([Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
 
@@ -127,37 +101,25 @@ Wijzigt de Wet milieubeheer.
 
 Wijzigt de Wet op de economische delicten.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.16. ([Wet pleziervaartuigen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037546))
 
 Wijzigt de Wet pleziervaartuigen 2016.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.17. ([Wet scheepsuitrusting 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038498))
 
 Wijzigt de Wet scheepsuitrusting 2016.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.18. ([Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606))
 
 Wijzigt de Wet vervoer gevaarlijke stoffen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.19. ([Wet wederzijdse erkenning en tenuitvoerlegging van geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604))
 
 Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging van geldelijke sancties en beslissingen tot confiscatie.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 2.20. ([Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181))
 
 Wijzigt de Woningwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 3. Slotbepalingen
 
