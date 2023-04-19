@@ -4,7 +4,7 @@ identifier: "BWBR0028868"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2017-12-15"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028868"
 soort: "ministeriele-regeling"
@@ -58,11 +58,11 @@ Besluit:
 
 ##### Artikel 26
 
-1. De Minister kan een instantie, die hiertoe een verzoek heeft ingediend overeenkomstig [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2017-12-15&g=2017-12-15), aanwijzen die bevoegd is tot het uitvoeren van de conformiteitsbeoordelingsprocedure. De Minister meldt de aangewezen instantie aan overeenkomstig artikel 21 van de EU-richtlijn pyrotechnische artikelen.
+1. De Minister kan een instantie, die hiertoe een verzoek heeft ingediend overeenkomstig [artikel 26a](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2023-04-19&g=2023-04-19), aanwijzen die bevoegd is tot het uitvoeren van de conformiteitsbeoordelingsprocedure. De Minister meldt de aangewezen instantie aan overeenkomstig artikel 21 van de EU-richtlijn pyrotechnische artikelen.
 
-2. De aangewezen instantie voldoet aan de eisen, genoemd in de [artikelen 26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2017-12-15&g=2017-12-15).
+2. De aangewezen instantie voldoet aan de eisen, genoemd in de [artikelen 26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2023-04-19&g=2023-04-19).
 
-3. Aan de aanwijzing kunnen voorschriften worden verbonden ter uitvoering van de eisen, genoemd in de [artikelen 26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2017-12-15&g=2017-12-15).
+3. Aan de aanwijzing kunnen voorschriften worden verbonden ter uitvoering van de eisen, genoemd in de [artikelen 26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2023-04-19&g=2023-04-19).
 
 ##### Artikel 27
 
@@ -112,7 +112,7 @@ De aangewezen instantie beschikt over een behoorlijke administratie waarin de ge
 
 ##### Artikel 31
 
-1. Indien is gebleken dat de aangewezen instantie niet langer voldoet aan de eisen, genoemd in [26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2017-12-15&g=2017-12-15), of haar verplichtingen niet nakomt, kan de Minister de aanwijzing beperken, schorsen of intrekken, afhankelijk van de ernst van het niet-voldoen aan die eisen of het niet-nakomen van die verplichtingen.
+1. Indien is gebleken dat de aangewezen instantie niet langer voldoet aan de eisen, genoemd in [26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2023-04-19&g=2023-04-19), of haar verplichtingen niet nakomt, kan de Minister de aanwijzing beperken, schorsen of intrekken, afhankelijk van de ernst van het niet-voldoen aan die eisen of het niet-nakomen van die verplichtingen.
 
 2. De Minister stelt de andere lidstaten van de Europese Unie en de Europese Commissie onverwijld op de hoogte van de maatregelen, genoemd in het eerste lid.
 
@@ -136,9 +136,9 @@ In artikel 4 van de Regeling aanwijzing keuringsinstelling pyrotechnische artike
 
 1. Deze regeling treedt in werking met ingang van 4 juli 2013.
 
-2. In afwijking van het eerste lid treden de [artikelen 27 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=27&z=2017-12-15&g=2017-12-15) in werking op 1 januari 2012.
+2. In afwijking van het eerste lid treden de [artikelen 27 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=27&z=2023-04-19&g=2023-04-19) in werking op 1 januari 2012.
 
-3. In afwijking van het eerste lid kan een fabrikant of importeur in de periode vanaf 1 januari 2012 tot en met 3 juli 2013 met betrekking tot een pyrotechnisch artikel waarop deze regeling met ingang van 4 juli 2013 van toepassing wordt, toepassing geven aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=14&z=2017-12-15&g=2017-12-15). Indien aan dat artikel toepassing wordt gegeven, zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=6&z=2017-12-15&g=2017-12-15), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-12-15&g=2017-12-15), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-12-15&g=2017-12-15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=16&z=2017-12-15&g=2017-12-15), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=17&z=2017-12-15&g=2017-12-15), [18 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=18&z=2017-12-15&g=2017-12-15), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=22&z=2017-12-15&g=2017-12-15), en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23&z=2017-12-15&g=2017-12-15) van toepassing.
+3. In afwijking van het eerste lid kan een fabrikant of importeur in de periode vanaf 1 januari 2012 tot en met 3 juli 2013 met betrekking tot een pyrotechnisch artikel waarop deze regeling met ingang van 4 juli 2013 van toepassing wordt, toepassing geven aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=14&z=2023-04-19&g=2023-04-19). Indien aan dat artikel toepassing wordt gegeven, zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=6&z=2023-04-19&g=2023-04-19), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-04-19&g=2023-04-19), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2023-04-19&g=2023-04-19), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=16&z=2023-04-19&g=2023-04-19), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=17&z=2023-04-19&g=2023-04-19), [18 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=18&z=2023-04-19&g=2023-04-19), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=22&z=2023-04-19&g=2023-04-19), en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23&z=2023-04-19&g=2023-04-19) van toepassing.
 
 4. Pyrotechnische artikelen die voldoen aan deze regeling zoals die vóór inwerkingtreding van de regeling van 15 januari 2016, houdende wijziging van de Regeling overige pyrotechnische artikelen in verband met de implementatie van richtlijn 2013/29/EU van het Europees Parlement en de Raad van 12 juni 2013, betreffende de harmonisatie van de wetgeving van de lidstaten inzake het op de markt aanbieden van pyrotechnische artikelen (herschikking) (PbEU 2013 L 178) en uitvoeringsrichtlijn 2014/58/EU van 16 april 2014 van de Commissie voor het opzetten van een traceerbaarheidssysteem voor pyrotechnische artikelen overeenkomstig Richtlijn 2007/23/EG (PbEU L 115) (Stcr. 2016, nr. 1696) luidde en vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden.
 
@@ -154,6 +154,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. In deze regeling wordt verstaan onder:
 
+- **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+
 - **aangemelde instantie:** aangemelde instantie als bedoeld in artikel 21 van de EU-richtlijn pyrotechnische artikelen;
 
 - **aangewezen instantie:** een instantie, aangewezen door de Minister, die conformiteitsbeoordelingsactiviteiten verricht, zoals onder meer het ijken, testen, certificeren en inspecteren;
@@ -166,7 +168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - **bijlage II bij de EU-richtlijn pyrotechnische artikelen:** bijlage II bij de EU-richtlijn pyrotechnische artikelen, naar de tekst zoals deze bij die richtlijn is vastgesteld, voor zover het betreft de in het tweede lid genoemde onderdelen van die bijlage, en bijlage II bij de EU-richtlijn pyrotechnische artikelen voor de overige onderdelen van die bijlage;
 
-- **categorie P1 en P2:** categorie P1 onderscheidenlijk P2 als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=7&z=2017-12-15&g=2017-12-15);
+- **categorie P1 en P2:** categorie P1 onderscheidenlijk P2 als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-04-19&g=2023-04-19);
 
 - **CE-markering:** CE-markering, bedoeld in de artikelen 19 en 20 van de EU-richtlijn pyrotechnische artikelen;
 
@@ -184,9 +186,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - **fabrikant:** natuurlijke of rechtspersoon die een pyrotechnisch artikel vervaardigt of laat ontwerpen of vervaardigen en dat pyrotechnische artikel onder zijn naam of merknaam verhandelt;
 
+- **fulfilmentdienstverlener:** fulfilmentdienstverlener als bedoeld in artikel 3, onderdeel 11, van de EU-verordening markttoezicht;
+
 - **essentiële veiligheidseisen:** essentiële veiligheidseisen, bedoeld in bijlage I bij de EU-richtlijn pyrotechnische artikelen;
 
 - **geharmoniseerde norm:** geharmoniseerde norm als bedoeld in artikel 2, eerste lid, onder c, van Verordening (EU), nr. 1025/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende Europese normalisatie, tot wijziging van de richtlijnen 89/668/EEG en 93/15/EEG van de Raad alsmede de richtlijnen 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG en 2009/105/EG van het Europees Parlement en de Raad en tot intrekking van beschikking 87/95/EEG van de raad en besluit nr. 1673/2006/EG van het Europese Parlement en de Raad;
+
+- **gemachtigde:** gemachtigde als bedoeld in artikel 3, onderdeel 12, van de EU-verordening markttoezicht;
 
 - **grondgebied van de Europese Unie:** gebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is;
 
@@ -212,7 +218,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - **op de markt aanbieden:** het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van een pyrotechnisch artikel met het oog op de distributie, consumptie of gebruik op de markt van het grondgebied van de Europese Unie;
 
-- **persoon met gespecialiseerde kennis:** persoon, aangewezen krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=3&z=2017-12-15&g=2017-12-15);
+- **persoon met gespecialiseerde kennis:** persoon, aangewezen krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=3&z=2023-04-19&g=2023-04-19);
 
 - **primaire verpakking:** verpakking waarin zich meer dan één exemplaar bevindt van eenzelfde type pyrotechnische artikelen, bedoeld om in zijn geheel aan de particulier ter beschikking te worden gesteld;
 
@@ -237,6 +243,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 - c. Module D, de onderdelen 3.4, 4.2 tot en met 4.4, 6 en 7;
 
 - d. Module E, de onderdelen 3.5, 4.2 tot en met 4.4, 6 en 7.
+
+3. Voor de toepassing van deze regeling wordt, voor zover dat voor de toepassing van de EU-verordening markttoezicht noodzakelijk is, verstaan onder marktdeelnemer hetgeen daaronder in artikel 3, onderdeel 13, van die verordening wordt verstaan.
 
 ##### Artikel 2
 
@@ -282,7 +290,7 @@ Het is verboden een pyrotechnisch artikel te gebruiken in strijd met het doel wa
 
 ##### Artikel 6
 
-1. Een wijziging van artikel 10 of 11 van de EU-richtlijn pyrotechnische artikelen, van bijlage IIbij de EU-richtlijn pyrotechnische artikelen, met uitzondering van de onderdelen, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=1&z=2017-12-15&g=2017-12-15), en van bijlage III of IV bij de EU-richtlijn pyrotechnische artikelen gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn of het betrokken wijzigingsbesluit uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+1. Een wijziging van artikel 10 of 11 van de EU-richtlijn pyrotechnische artikelen, van bijlage IIbij de EU-richtlijn pyrotechnische artikelen, met uitzondering van de onderdelen, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=1&z=2023-04-19&g=2023-04-19), en van bijlage III of IV bij de EU-richtlijn pyrotechnische artikelen gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn of het betrokken wijzigingsbesluit uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 2. De minister doet meteen na het van kracht worden van een wijziging als bedoeld in het eerste lid, daarvan mededeling in de Staatscourant.
 
@@ -320,17 +328,17 @@ De distributeur die pyrotechnische artikelen op de markt aanbiedt, neemt de nodi
 
 1. Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben of aan een ander ter beschikking te stellen die niet voldoen aan de essentiële veiligheidseisen.
 
-2. Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben of aan een ander ter beschikking te stellen indien die niet zijn onderworpen aan de conformiteitsbeoordelingsprocedure, overeenkomstig de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=14&z=2017-12-15&g=2017-12-15) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-12-15&g=2017-12-15).
+2. Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben of aan een ander ter beschikking te stellen indien die niet zijn onderworpen aan de conformiteitsbeoordelingsprocedure, overeenkomstig de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=14&z=2023-04-19&g=2023-04-19) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2023-04-19&g=2023-04-19).
 
-3. Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben, aan een ander ter beschikking te stellen of te gebruiken anders dan met inachtneming van de voorschriften gesteld bij of krachtens de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23&z=2017-12-15&g=2017-12-15) met betrekking tot de aanduiding en het bezigen van vermeldingen.
+3. Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben, aan een ander ter beschikking te stellen of te gebruiken anders dan met inachtneming van de voorschriften gesteld bij of krachtens de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23&z=2023-04-19&g=2023-04-19) met betrekking tot de aanduiding en het bezigen van vermeldingen.
 
 4. Het is voor fabrikanten verboden te handelen in strijd met bijlage II bij de EU-richtlijn pyrotechnische artikelen.
 
-5. Het is verboden pyrotechnische artikelen in de handel te brengen zonder dat hiervoor, overeenkomstig [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23a&z=2017-12-15&g=2017-12-15), een EU-conformiteitsverklaring is opgesteld.
+5. Het is verboden pyrotechnische artikelen in de handel te brengen zonder dat hiervoor, overeenkomstig [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23a&z=2023-04-19&g=2023-04-19), een EU-conformiteitsverklaring is opgesteld.
 
 ##### Artikel 12
 
-1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=11&z=2017-12-15&g=2017-12-15) is niet van toepassing op pyrotechnische artikelen die niet in overeenstemming zijn met de bepalingen van de EU-richtlijn pyrotechnische artikelen en die worden getoond en gebruikt op handelsbeurzen, tentoonstellingen en demonstraties voor het verhandelen van pyrotechnische artikelen, mits is voldaan aan het bepaalde in het derde lid.
+1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-04-19&g=2023-04-19) is niet van toepassing op pyrotechnische artikelen die niet in overeenstemming zijn met de bepalingen van de EU-richtlijn pyrotechnische artikelen en die worden getoond en gebruikt op handelsbeurzen, tentoonstellingen en demonstraties voor het verhandelen van pyrotechnische artikelen, mits is voldaan aan het bepaalde in het derde lid.
 
 2. Pyrotechnische artikelen als bedoeld in het eerste lid mogen pas verkocht worden nadat ze in overeenstemming zijn gebracht met de bepalingen van de in het eerste lid genoemde richtlijn.
 
@@ -342,7 +350,7 @@ De distributeur die pyrotechnische artikelen op de markt aanbiedt, neemt de nodi
 
 ##### Artikel 13
 
-1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=11&z=2017-12-15&g=2017-12-15) is niet van toepassing op pyrotechnische artikelen die voor onderzoeks-, ontwikkelings- en testdoeleinden zijn geproduceerd en niet met de bepalingen van de EU-richtlijn pyrotechnische artikelen in overeenstemming zijn. Deze artikelen mogen vrij circuleren en worden gebruikt, mits is voldaan aan het bepaalde in het derde lid.
+1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-04-19&g=2023-04-19) is niet van toepassing op pyrotechnische artikelen die voor onderzoeks-, ontwikkelings- en testdoeleinden zijn geproduceerd en niet met de bepalingen van de EU-richtlijn pyrotechnische artikelen in overeenstemming zijn. Deze artikelen mogen vrij circuleren en worden gebruikt, mits is voldaan aan het bepaalde in het derde lid.
 
 2. Pyrotechnische artikelen als bedoeld in het eerste lid mogen niet beschikbaar worden gesteld of worden gebruikt voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.
 
@@ -426,7 +434,7 @@ Vervallen
 
 - c. de naam en het type van het artikel,
 
-- d. de minimumleeftijdsgrenzen zoals aangegeven in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=4&z=2017-12-15&g=2017-12-15),
+- d. de minimumleeftijdsgrenzen zoals aangegeven in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=4&z=2023-04-19&g=2023-04-19),
 
 - e. de desbetreffende categorie en gebruiksaanwijzingen,
 
@@ -440,7 +448,7 @@ Vervallen
 
 3. Indien op het pyrotechnische artikel niet voldoende plaats is voor de gegevens, bedoeld in het eerste lid, wordt de informatie op de primaire verpakking weergegeven.
 
-4. Dit artikel is niet van toepassing op de pyrotechnische artikelen, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=12&z=2017-12-15&g=2017-12-15) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=13&z=2017-12-15&g=2017-12-15).
+4. Dit artikel is niet van toepassing op de pyrotechnische artikelen, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=12&z=2023-04-19&g=2023-04-19) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-04-19&g=2023-04-19).
 
 ##### Artikel 25
 
@@ -472,7 +480,7 @@ Pyrotechnische artikelen die in overeenstemming zijn met geharmoniseerde normen 
 
 ##### Artikel 8a
 
-1. De fabrikant stelt de technische documentatie, bedoeld in bijlage II bij de EU-richtlijn pyrotechnische artikelen, op en laat de toepasselijke conformiteitsbeoordelingsprocedure uitvoeren overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-12-15&g=2017-12-15).
+1. De fabrikant stelt de technische documentatie, bedoeld in bijlage II bij de EU-richtlijn pyrotechnische artikelen, op en laat de toepasselijke conformiteitsbeoordelingsprocedure uitvoeren overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2023-04-19&g=2023-04-19).
 
 2. Wanneer met de conformiteitsbeoordelingsprocedure is aangetoond dat het pyrotechnische artikel aan de toepasselijke eisen voldoet, stelt de fabrikant een EU-onformiteitsverklaring op en brengt hij de CE-markering aan.
 
@@ -504,7 +512,7 @@ De fabrikant zorgt ervoor dat hij beschikt over procedures om de conformiteit va
 
 ##### Artikel 8d
 
-De fabrikant zorgt ervoor dat door hem in de handel gebrachte pyrotechnische artikelen zijn geëtiketteerd overeenkomstig de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2017-12-15&g=2017-12-15) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2017-12-15&g=2017-12-15).
+De fabrikant zorgt ervoor dat door hem in de handel gebrachte pyrotechnische artikelen zijn geëtiketteerd overeenkomstig de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2023-04-19&g=2023-04-19) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-19&g=2023-04-19).
 
 ##### Artikel 8e
 
@@ -538,7 +546,7 @@ Alvorens een pyrotechnisch artikel in de handel wordt gebracht:
 
 - c. zorgt de importeur ervoor dat het pyrotechnische artikel is voorzien van de CE-markering en vergezeld gaat van de voorgeschreven documenten; en
 
-- d. zorgt de importeur ervoor dat de fabrikant het pyrotechnische artikel heeft geëtiketteerd overeenkomstig de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2017-12-15&g=2017-12-15) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2017-12-15&g=2017-12-15).
+- d. zorgt de importeur ervoor dat de fabrikant het pyrotechnische artikel heeft geëtiketteerd overeenkomstig de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2023-04-19&g=2023-04-19) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-19&g=2023-04-19).
 
 ##### Artikel 9b
 
@@ -550,9 +558,9 @@ De importeur die van mening is, of redenen heeft om aan te nemen, dat een pyrote
 
 ##### Artikel 9c
 
-1. De importeur voldoet aan de aan hem gestelde eisen ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2017-12-15&g=2017-12-15) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2017-12-15&g=2017-12-15).
+1. De importeur voldoet aan de aan hem gestelde eisen ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2023-04-19&g=2023-04-19) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-19&g=2023-04-19).
 
-2. De importeur ziet erop toe dat het pyrotechnische artikel vergezeld gaat van instructies en informatie aangaande de veiligheid, bedoeld in [artikel 24, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2017-12-15&g=2017-12-15), of [artikel 25, eerste lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2017-12-15&g=2017-12-15).
+2. De importeur ziet erop toe dat het pyrotechnische artikel vergezeld gaat van instructies en informatie aangaande de veiligheid, bedoeld in [artikel 24, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2023-04-19&g=2023-04-19), of [artikel 25, eerste lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-19&g=2023-04-19).
 
 ##### Artikel 9d
 
@@ -606,9 +614,9 @@ Alvorens een pyrotechnisch artikel op de markt aan te bieden, controleert de dis
 
 - a. het artikel is voorzien van een CE-markering;
 
-- b. het artikel vergezeld gaat van de voorgeschreven documenten en van instructies en informatie aangaande de veiligheid, overeenkomstig [artikel 24, eerste lid, onderdeel e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2017-12-15&g=2017-12-15), of [artikel 25, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2017-12-15&g=2017-12-15).
+- b. het artikel vergezeld gaat van de voorgeschreven documenten en van instructies en informatie aangaande de veiligheid, overeenkomstig [artikel 24, eerste lid, onderdeel e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2023-04-19&g=2023-04-19), of [artikel 25, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-19&g=2023-04-19).
 
-- c. de fabrikant en de importeur aan de verplichtingen ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2017-12-15&g=2017-12-15) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2017-12-15&g=2017-12-15) hebben voldaan.
+- c. de fabrikant en de importeur aan de verplichtingen ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=24&z=2023-04-19&g=2023-04-19) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-19&g=2023-04-19) hebben voldaan.
 
 ##### Artikel 10b
 
@@ -652,19 +660,19 @@ Indien een distributeur van mening is, of redenen heeft om aan te nemen, dat een
 
 2. Marktdeelnemers houden de informatie, genoemd in het eerste lid, ten minste tien jaar nadat het pyrotechnische artikel aan de marktdeelnemers is geleverd, dan wel nadat de marktdeelnemer het pyrotechnische artikel heeft geleverd, ter beschikking van de markttoezichthouder.
 
-#### § 1b. Eisen aan de marktdeelnemers omtrent traceerbaarheid
+#### § 1a. Identificatie van de marktdeelnemers
 
 ##### Artikel 10g
 
-1. De fabrikant etiketteert pyrotechnische artikelen met een registratienummer dat wordt toegewezen door de aangemelde instantie die de conformiteiteitsbeoordeling krachtens [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=14&z=2017-12-15&g=2017-12-15) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-12-15&g=2017-12-15) verricht.
+1. De fabrikant etiketteert pyrotechnische artikelen met een registratienummer dat wordt toegewezen door de aangemelde instantie die de conformiteiteitsbeoordeling krachtens [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=14&z=2023-04-19&g=2023-04-19) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2023-04-19&g=2023-04-19) verricht.
 
 2. Pyrotechnische artikelen worden voorzien van een etiket met een registratienummer dat, naast het registratienummer, bedoeld in het eerste lid, de volgende elementen bevat:
 
 - a. het viercijferige identificatienummer van de aangemelde instantie die het volgende heeft opgesteld:
 
-- 1°. de verklaring van EU-typeonderzoek in overeenstemming met de conformiteitsbeoordelingsprocedure, bedoeld in [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-12-15&g=2017-12-15) (module B); of
+- 1°. de verklaring van EU-typeonderzoek in overeenstemming met de conformiteitsbeoordelingsprocedure, bedoeld in [artikel 15, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2023-04-19&g=2023-04-19) (module B); of
 
-- 2°. de verklaring van overeenstemming, overeenkomstig de conformiteitsbeoordelingsprocedure, bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2017-12-15&g=2017-12-15) (module G);
+- 2°. de verklaring van overeenstemming, overeenkomstig de conformiteitsbeoordelingsprocedure, bedoeld in [artikel 15, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2023-04-19&g=2023-04-19) (module G);
 
 - b. de afkorting in hoofdletters van de pyrotechnische artikelen waarvoor de conformiteit is gecertificeerd, luidende:
 
@@ -700,7 +708,7 @@ Fabrikanten en importeurs van pyrotechnische artikelen:
 
 2. De marktdeelnemer zorgt ervoor dat de door hem genomen corrigerende maatregelen worden toegepast op alle betrokken pyrotechnische artikelen die hij in de Europese Unie op de markt heeft aangeboden.
 
-#### § 2. Verbodsbepalingen
+#### § 1c. Eisen aan marktdeelnemers omtrent risico-uitsluiting
 
 #### § 3. Conformiteitsbeoordelingsprocedure
 
@@ -732,13 +740,13 @@ Fabrikanten en importeurs van pyrotechnische artikelen:
 
 ##### Artikel 26a
 
-1. Een instantie die wenst te worden aangewezen in de zin van [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26&z=2017-12-15&g=2017-12-15), dient een verzoek tot aanwijzing in bij de Minister.
+1. Een instantie die wenst te worden aangewezen in de zin van [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26&z=2023-04-19&g=2023-04-19), dient een verzoek tot aanwijzing in bij de Minister.
 
 2. Het verzoek tot aanwijzing gaat vergezeld van:
 
 - a. een beschrijving van de conformiteitsbeoordelingsactiviteiten, de conformiteitbeoordelingsmodule(s), genoemd in bijlage II bij de EU-richtlijn pyrotechnische artikelen en het pyrotechnische artikel of pyrotechnische artikelen waarvoor de instantie verklaart bekwaam te zijn, en
 
-- b. het accreditatiecertificaat dat is afgegeven door een nationale accreditatieinstantie, waarin wordt verklaard dat de conformiteitsbeoordelingsinstantie voldoet aan de eisen in [26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26b&z=2017-12-15&g=2017-12-15).
+- b. het accreditatiecertificaat dat is afgegeven door een nationale accreditatieinstantie, waarin wordt verklaard dat de conformiteitsbeoordelingsinstantie voldoet aan de eisen in [26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26b&z=2023-04-19&g=2023-04-19).
 
 ##### Artikel 26b
 
@@ -812,13 +820,13 @@ De aangewezen instantie heeft een geldige aansprakelijkheidsverzekering.
 
 ##### Artikel 26j
 
-Een conformiteitsbeoordelingsinstantie die aantoont dat zij voldoet aan de criteria in de ter zaken doende geharmoniseerde normen of delen ervan, waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, wordt geacht aan de eisen, genoemd in de [artikelen 26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2017-12-15&g=2017-12-15), te voldoen, op voorwaarde dat de van toepassing zijnde geharmoniseerde normen de eisen dekken.
+Een conformiteitsbeoordelingsinstantie die aantoont dat zij voldoet aan de criteria in de ter zaken doende geharmoniseerde normen of delen ervan, waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, wordt geacht aan de eisen, genoemd in de [artikelen 26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2023-04-19&g=2023-04-19), te voldoen, op voorwaarde dat de van toepassing zijnde geharmoniseerde normen de eisen dekken.
 
 ##### Artikel 26k
 
 1. Indien de aangewezen instantie specifieke taken in verband met de conformiteitsbeoordeling uitbesteedt of door een dochteronderneming laat uitvoeren:
 
-- a. waarborgt zij dat de onderaannemer of dochteronderneming aan de eisen, genoemd in [artikelen 26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2017-12-15&g=2017-12-15), voldoet;
+- a. waarborgt zij dat de onderaannemer of dochteronderneming aan de eisen, genoemd in [artikelen 26a tot en met 26i](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26a&z=2023-04-19&g=2023-04-19), voldoet;
 
 - b. brengt zij de Minister hiervan op de hoogte;
 
@@ -834,9 +842,9 @@ Een conformiteitsbeoordelingsinstantie die aantoont dat zij voldoet aan de crite
 
 2. De aangewezen instantie houdt een register bij van de registratienummers van pyrotechnische artikelen waarvoor zij conformiteitcertificaten heeft afgegeven.
 
-3. Bij het bijhouden van het register gebruikt de aangewezen instantie het model en het formaat daarvan dat is vastgelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&bijlage=1&z=2017-12-15&g=2017-12-15).
+3. Bij het bijhouden van het register gebruikt de aangewezen instantie het model en het formaat daarvan dat is vastgelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&bijlage=1&z=2023-04-19&g=2023-04-19).
 
-4. Het register moet ten minste de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&bijlage=1&z=2017-12-15&g=2017-12-15) vermelde informatie over producten bevatten. Deze informatie wordt gedurende tien jaar bewaard na de datum waarop de aangewezen instantie de documenten, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=27&z=2017-12-15&g=2017-12-15), heeft afgegeven.
+4. Het register moet ten minste de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&bijlage=1&z=2023-04-19&g=2023-04-19) vermelde informatie over producten bevatten. Deze informatie wordt gedurende tien jaar bewaard na de datum waarop de aangewezen instantie de documenten, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=27&z=2023-04-19&g=2023-04-19), heeft afgegeven.
 
 5. Aangewezen instanties werken het register regelmatig bij en maken het bekend via het internet.
 
@@ -859,6 +867,48 @@ De aangewezen instantie neemt rechtstreeks of via aangestelde vertegenwoordigers
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
 ## Bijlage 1. Het registermodel waarnaar in [artikel 27a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=27a&z=2017-12-15&g=2017-12-15) wordt verwezen
+
+| Registratienummer | Datum van afgifte van de verklaring van EU-typeonderzoek (module B), de verklaring van overeenstemming (module G) of goedkeuring van het kwaliteits-systeem (module H) en datum waarop de geldigheid verstrijkt, indien van toepassing | Fabri- kant | Producttype (algemeen) en subtype, indien van toepas-sing | Conformi-teitsmodule voor de productie-fase (1) | Aange-melde instantie die de conformi-teits-beoor-deling van de productiefase uitvoert (1) | Aanvullende informatie |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |
+
+1 Altijd in te vullen indien die onder de verantwoordelijkheid valt van de aangemelde instantie die de conformiteitsbeoordelingsprocedure uitvoert. Niet vereist voor conformiteitsbeoordelingsprocedures voor module G en H. Informatie moet worden verstrekt (indien bekend), indien een andere aangemelde instantie is betrokken.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+1. Het is verboden pyrotechnische artikelen behorend tot categorie P1 of P2 in de handel te brengen in strijd met artikel 4, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is de fabrikant, de importeur, de gemachtigde die is aangewezen om de in artikel 4, derde lid, van de EU-verordening markttoezicht vermelde taken namens de fabrikant te verrichten, of de fulfilmentdienstverlener ten aanzien van pyrotechnische artikelen, bedoeld in het eerste lid, verboden te handelen in strijd met artikel 4, derde en vierde lid, van de EU-verordening markttoezicht.
+
+3. Het is de gemachtigde, bedoeld in het tweede lid, verboden te handelen in strijd met artikel 5, tweede lid, van de EU-verordening markttoezicht.
+
+##### Artikel 3b
+
+1. Het is een marktdeelnemer die betrokken is of is geweest bij het op de markt brengen van pyrotechnische artikelen behorend tot categorie P1 of P2, verboden in strijd te handelen met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van pyrotechnische artikelen als bedoeld in het eerste lid, verboden in strijd te handelen met artikel 7, tweede lid, van de EU-verordening markttoezicht.
+
+### Hoofdstuk 2. In de handel brengen
+
+#### § 1. Algemene bepalingen
+
+#### § 1b. Eisen aan de marktdeelnemers omtrent traceerbaarheid
+
+#### § 2. Verbodsbepalingen
+
+#### § 3. Conformiteitsbeoordelingsprocedure
+
+#### § 4. CE-markering en EU-conformiteitsverklaring
+
+#### § 5. Etikettering
+
+#### § 6. Aangewezen instantie
+
+### Hoofdstuk 3. Overgangs- en slotbepalingen
+
+## Bijlage 1. Het registermodel waarnaar in [artikel 27a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=27a&z=2023-04-19&g=2023-04-19) wordt verwezen
 
 | Registratienummer | Datum van afgifte van de verklaring van EU-typeonderzoek (module B), de verklaring van overeenstemming (module G) of goedkeuring van het kwaliteits-systeem (module H) en datum waarop de geldigheid verstrijkt, indien van toepassing | Fabri- kant | Producttype (algemeen) en subtype, indien van toepas-sing | Conformi-teitsmodule voor de productie-fase (1) | Aange-melde instantie die de conformi-teits-beoor-deling van de productiefase uitvoert (1) | Aanvullende informatie |
 | --- | --- | --- | --- | --- | --- | --- |
