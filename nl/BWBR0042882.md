@@ -4,7 +4,7 @@ identifier: "BWBR0042882"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2019-12-14"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042882"
 soort: "ministeriele-regeling"
@@ -42,7 +42,15 @@ BESLUIT:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder verordening: Verordening (EU) nr. 2019/1021 van het Europees Parlement en de Raad van 20 juni 2019 betreffende persistente organische verontreinigende stoffen (PbEU 2019, L 169).
+In deze regeling wordt verstaan onder:
+
+- **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+
+- **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+
+- **op de markt aanbieden:** op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht;
+
+- **verordening:** [Verordening (EU) nr. 2019/1021](32921R2019) van het Europees Parlement en de Raad van 20 juni 2019 betreffende persistente organische verontreinigende stoffen (PbEU 2019, L 169).
 
 ##### Artikel 2
 
@@ -64,7 +72,9 @@ Op de voorbereiding van een nationaal uitvoeringsplan als bedoeld in artikel 9, 
 
 ##### Artikel 6
 
-Wijzigt de Activiteitenregeling milieubeheer.
+1. Het is marktdeelnemers die betrokken is of is geweest bij het op de markt aanbieden van stoffen als zodanig, in mengsels of als bestanddeel van voorwerpen waarop de verordening betrekking heeft, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van stoffen als zodanig, in mengsels of als bestanddelen van voorwerpen waarop de verordening betrekking heeft, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
 
 ##### Artikel 7
 
@@ -73,5 +83,11 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling EU-verordening persistente organische verontreinigende stoffen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
