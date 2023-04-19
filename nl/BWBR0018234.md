@@ -4,7 +4,7 @@ identifier: "BWBR0018234"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-04-19"
-last_updated: "2014-07-01"
+last_updated: "2023-04-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018234"
 soort: "AMvB"
@@ -48,7 +48,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder verordening: [verordening (EG) nr. 648/2004](32004R0648) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende detergentia (PbEU L 104).
+In dit besluit wordt verstaan onder:
+
+- **aanbieder van diensten van de informatiemaatschappij:** aanbieder van een dienst zoals gedefinieerd in artikel 1, eerste lid, onderdeel b, van [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEU 2015, L 241);
+
+- **marktdeelnemer:** marktdeelnemer als bedoeld in artikel 3, onderdeel 13, van de EU-verordening markttoezicht;
+
+- **op de markt aanbieden:** op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht;
+
+- **verordening:** [verordening (EG) nr. 648/2004](32004R0648) van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende detergentia (PbEU L 104).
 
 ##### Artikel 2
 
@@ -81,5 +89,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 ##### Artikel 1a
 
 Dit besluit is mede van toepassing op handelingen verricht binnen de exclusieve economische zone.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2a
+
+1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van detergentia, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
+
+2. Het is een aanbieder van diensten van de informatiemaatschappij die betrokken is of is geweest bij het online te koop aanbieden van detergentia, verboden te handelen in strijd met artikel 7, tweede lid, van de EU-verordening markttoezicht.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
