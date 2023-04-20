@@ -4,7 +4,7 @@ identifier: "BWBR0002097"
 country: "nl"
 rank: "wet"
 publication_date: "2023-04-20"
-last_updated: "2021-07-01"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002097"
 soort: "wet"
@@ -51,7 +51,7 @@ Onze Ministers: Onze Ministers van Binnenlandse Zaken en van Defensie gezamenlij
 
 ##### Artikel 2
 
-1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a&z=2021-07-01&g=2021-07-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b&z=2021-07-01&g=2021-07-01), [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2c&z=2021-07-01&g=2021-07-01), [2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2e&z=2021-07-01&g=2021-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=3&z=2021-07-01&g=2021-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=4&z=2021-07-01&g=2021-07-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=5&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2021-07-01&g=2021-07-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2021-07-01&g=2021-07-01), en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2021-07-01&g=2021-07-01), gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a&z=2023-04-20&g=2023-04-20), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b&z=2023-04-20&g=2023-04-20), [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2c&z=2023-04-20&g=2023-04-20), [2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2e&z=2023-04-20&g=2023-04-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=3&z=2023-04-20&g=2023-04-20), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=4&z=2023-04-20&g=2023-04-20), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=5&z=2023-04-20&g=2023-04-20), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2023-04-20&g=2023-04-20), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2023-04-20&g=2023-04-20), en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2023-04-20&g=2023-04-20), gezamenlijk of afzonderlijk in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 
@@ -85,7 +85,7 @@ Deze wet is tevens van toepassing op volksverplaatsingen op grote schaal, welke 
 
 Dit artikel is nog niet in werking gesteld; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking worden gesteld.
 
-Indien [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a&z=2021-07-01&g=2021-07-01) of [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b&z=2021-07-01&g=2021-07-01) wordt toegepast in geval van rampen, alsmede van dreigend gevaar voor het ontstaan daarvan, treedt Onze Minister van Binnenlandse Zaken in de bevoegdheden, welke deze wet aan Onze Ministers toekent.
+Indien [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a&z=2023-04-20&g=2023-04-20) of [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b&z=2023-04-20&g=2023-04-20) wordt toegepast in geval van rampen, alsmede van dreigend gevaar voor het ontstaan daarvan, treedt Onze Minister van Binnenlandse Zaken in de bevoegdheden, welke deze wet aan Onze Ministers toekent.
 
 ##### Artikel 2e
 
@@ -103,11 +103,11 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ##### Artikel 4
 
-In werking gesteld door Stb. 2022/133.
+Artikel is door Stb. 2024/157 buiten werking gesteld m.i.v. 27 juni 2024.
 
-1. De burgemeester is, voorzover uit deze wet niet het tegendeel blijkt, in zijn gemeente belast met de uitvoering van een krachtens [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a&z=2021-07-01&g=2021-07-01) of [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b&z=2021-07-01&g=2021-07-01) gelaste verplaatsing van bevolking.
+1. De burgemeester is, voorzover uit deze wet niet het tegendeel blijkt, in zijn gemeente belast met de uitvoering van een krachtens [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2a&z=2023-04-20&g=2023-04-20) of [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2b&z=2023-04-20&g=2023-04-20) gelaste verplaatsing van bevolking.
 
-2. Indien het de ontruiming en de afvoer betreft kunnen Onze Ministers en indien het de huisvesting en verzorging betreft kan Onze Minister van Binnenlandse Zaken richtlijnen of aanwijzingen geven of doen geven aan de burgemeester met betrekking tot diens in het vorige lid omschreven taak.
+2. Indien het de ontruiming en de afvoer betreft kunnen Onze Ministers en indien het de huisvesting en verzorging betreft kan Onze Minister van Binnenlandse Zaken aanwijzingen geven of doen geven aan de burgemeester met betrekking tot diens in het vorige lid omschreven taak of daarover bij ministeriële regeling regels stellen.
 
 ##### Artikel 5
 
@@ -145,7 +145,7 @@ De burgemeester kan ten behoeve van verplaatste en te verplaatsen personen hetzi
 
 3. Van iedere vordering wordt zo spoedig mogelijk een schriftelijk bewijs, waarin de aard, de omvang en de tijdsduur van de vordering omschreven zijn, uitgereikt aan de belanghebbende, zijnde degene, die krachtens recht van eigendom, bezit, gebruik of uit anderen hoofde de woonruimte of de goederen die in de vordering begrepen zijn, in gebruik heeft.
 
-4. Indien de tijdsduur van een vordering meer bedraagt dan drie dagen kan de rechthebbende daartegen beroep instellen bij de commissie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=16&z=2021-07-01&g=2021-07-01).
+4. Indien de tijdsduur van een vordering meer bedraagt dan drie dagen kan de rechthebbende daartegen beroep instellen bij de commissie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=16&z=2023-04-20&g=2023-04-20).
 
 5. Onze Minister van Binnenlandse Zaken stelt nadere regelen vast omtrent de toepassing van de eerste twee leden.
 
@@ -155,7 +155,7 @@ De burgemeester kan ten behoeve van verplaatste en te verplaatsen personen hetzi
 
 Onze Minister van Binnenlandse Zaken of een door deze aangewezen autoriteit kan in het belang van de volksgezondheid, dan wel met het oog op de gezondheid, de leeftijd of het gedrag van de verplaatste persoon, aan deze, en zo nodig ook aan degenen die met hem samenwonen, een bijzondere verblijfplaats aanwijzen en het verblijf aldaar aan voorschriften onderwerpen.
 
-2. Tegen deze aanwijzing en voorschriften kan beroep worden ingesteld bij de commissie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=17&z=2021-07-01&g=2021-07-01).
+2. Tegen deze aanwijzing en voorschriften kan beroep worden ingesteld bij de commissie, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=17&z=2023-04-20&g=2023-04-20).
 
 3. Onze Minister van Binnenlandse Zaken is belast met de huisvesting en de verzorging van de personen, aan wie krachtens het eerste lid een bijzondere verblijfplaats is aangewezen.
 
@@ -173,9 +173,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen regelen worden gegeven om
 
 2. De kosten van vervoer kunnen geheel of gedeeltelijk voor rekening van het Rijk komen.
 
-3. De gemeente, waar het gebruik, de onderbrenging of het onderhoud krachtens een vordering, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2021-07-01&g=2021-07-01), plaats vindt, verstrekt een door de burgemeester vastgestelde vergoeding aan degene, van wie gevorderd is. Deze vergoeding komt ten laste van degene te wiens behoeve de vordering heeft plaats gehad. Tegen de vastgestelde vergoeding kan degene van wie gevorderd is, alsmede degene te wiens behoeve gevorderd is beroep instellen bij de commissie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=16&z=2021-07-01&g=2021-07-01).
+3. De gemeente, waar het gebruik, de onderbrenging of het onderhoud krachtens een vordering, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2023-04-20&g=2023-04-20), plaats vindt, verstrekt een door de burgemeester vastgestelde vergoeding aan degene, van wie gevorderd is. Deze vergoeding komt ten laste van degene te wiens behoeve de vordering heeft plaats gehad. Tegen de vastgestelde vergoeding kan degene van wie gevorderd is, alsmede degene te wiens behoeve gevorderd is beroep instellen bij de commissie, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=16&z=2023-04-20&g=2023-04-20).
 
-4. In geval van onmacht tot het geheel of gedeeltelijk dragen van de kosten van de huisvesting en de verzorging, waaronder mede worden verstaan de kosten van de in het vorige lid bedoelde vergoeding, komen deze kosten ten laste van de gemeente, waar de huisvesting en de verzorging geschieden, dan wel bij toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2021-07-01&g=2021-07-01), ten laste van het Rijk.
+4. In geval van onmacht tot het geheel of gedeeltelijk dragen van de kosten van de huisvesting en de verzorging, waaronder mede worden verstaan de kosten van de in het vorige lid bedoelde vergoeding, komen deze kosten ten laste van de gemeente, waar de huisvesting en de verzorging geschieden, dan wel bij toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2023-04-20&g=2023-04-20), ten laste van het Rijk.
 
 5. De kosten, door de gemeente of het Rijk gemaakt bij de toepassing van het vorige lid, kunnen worden verhaald op degene te wiens behoeve zij gemaakt zijn, en, voor zover dit niet mogelijk blijkt, op hen die ingevolge de wet tot onderhoud van dezelve verplicht zijn, de echtgenoot onderscheidenlijk geregistreerde partner daaronder begrepen.
 
@@ -187,9 +187,7 @@ De kosten voor de gemeente, voortvloeiende uit de verplaatsing van bevolking zij
 
 ##### Artikel 12
 
-1. Wij stellen bij algemene maatregel van bestuur regelen, volgens welke aan de gemeenten een bijdrage uit 's Rijks kas beschikbaar wordt gesteld ter tegemoetkoming in of tot goedmaking van de gemeentelijke kosten terzake van de verplaatsing van bevolking.
-
-2. Binnen drie maanden na het vaststellen van een algemene maatregel van bestuur, als bedoeld in het vorige lid, wordt door Ons een voorstel van wet aan de Staten-Generaal gedaan tot bevestiging daarvan. De bevestiging geschiedt in de vorm van vaststelling van de regeling, al dan niet gewijzigd, bij de wet.
+Vervallen
 
 ##### Artikel 13
 
@@ -201,13 +199,11 @@ Vervallen
 
 ##### Artikel 15
 
-1. Onze Minister van Binnenlandse Zaken bedient zich in elke provincie van één of meer Commissarissen Verplaatsing Bevolking en Substituut Commissarissen Verplaatsing Bevolking. Deze worden door Ons benoemd, geschorst en ontslagen. Zij worden benoemd voor de tijd van vijf jaren. Zij treden af op de eerste van de maand, volgende op die waarin zij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hebben bereikt, tenzij Onze Minister van Binnenlandse Zaken ontheffing verleent.
-
-2. Onze Ministers stellen een instructie voor hen vast.
+Vervallen
 
 ##### Artikel 16
 
-1. Gedeputeerde Staten stellen een commissie in, welke in hoogste ressort beslist op beroep tegen vorderingen, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2021-07-01&g=2021-07-01) en tegen vastgestelde vergoedingen, als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=10&z=2021-07-01&g=2021-07-01).
+1. Gedeputeerde Staten stellen een commissie in, welke in hoogste ressort beslist op beroep tegen vorderingen, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2023-04-20&g=2023-04-20) en tegen vastgestelde vergoedingen, als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=10&z=2023-04-20&g=2023-04-20).
 
 2. De leden van de commissie worden benoemd, geschorst en ontslagen door Gedeputeerde Staten.
 
@@ -219,7 +215,7 @@ Vervallen
 
 ##### Artikel 17
 
-1. Wij stellen een commissie in, welke in hoogste ressort beslist op beroep tegen aanwijzingen en voorschriften, als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2021-07-01&g=2021-07-01).
+1. Wij stellen een commissie in, welke in hoogste ressort beslist op beroep tegen aanwijzingen en voorschriften, als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2023-04-20&g=2023-04-20).
 
 2. De leden van de commissie worden benoemd, geschorst en ontslagen door Ons.
 
@@ -229,27 +225,27 @@ Vervallen
 
 ##### Artikel 18
 
-1. De burgemeester en de door deze aangewezen personen, de Commissarissen Verplaatsing Bevolking, de Substituut Commissarissen Verplaatsing Bevolking de leden der commissies van beroep, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=16&z=2021-07-01&g=2021-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=17&z=2021-07-01&g=2021-07-01), de autoriteiten, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2021-07-01&g=2021-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2021-07-01&g=2021-07-01), benevens de transportleiders, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2021-07-01&g=2021-07-01), hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich toegang met behulp van de sterke arm.
+1. De burgemeester en de door deze aangewezen personen, de leden der commissies van beroep, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=16&z=2023-04-20&g=2023-04-20) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=17&z=2023-04-20&g=2023-04-20), de autoriteiten, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2023-04-20&g=2023-04-20) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2023-04-20&g=2023-04-20), benevens de transportleiders, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2023-04-20&g=2023-04-20), hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich toegang met behulp van de sterke arm.
 
-2. Een machtiging tot binnentreden als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) (**Stb.** 1994, 572) kan worden gegeven door de commissaris van de Koning en de Commissaris Verplaatsing Bevolking.
+2. Een machtiging tot binnentreden als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) (**Stb.** 1994, 572) kan worden gegeven door de commissaris van de Koning.
 
 3. De personen, bedoeld in het eerste lid, kunnen zich bij het betreden door andere personen doen vergezellen.
 
 ##### Artikel 19
 
-1. Overtreding van het bij of krachtens een der [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=3&z=2021-07-01&g=2021-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=5&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2021-07-01&g=2021-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2021-07-01&g=2021-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2021-07-01&g=2021-07-01) bepaalde wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
+1. Overtreding van het bij of krachtens een der [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=3&z=2023-04-20&g=2023-04-20), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=5&z=2023-04-20&g=2023-04-20), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2023-04-20&g=2023-04-20), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2023-04-20&g=2023-04-20) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2023-04-20&g=2023-04-20) bepaalde wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
 2. Dit feit is een overtreding.
 
 ##### Artikel 20
 
-1. Opzettelijke overtreding van het bij of krachtens een der [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=3&z=2021-07-01&g=2021-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=5&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2021-07-01&g=2021-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2021-07-01&g=2021-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2021-07-01&g=2021-07-01) bepaalde wordt gestraft met gevangenisstraf van ten hoogste vier maanden of geldboete van de derde categorie.
+1. Opzettelijke overtreding van het bij of krachtens een der [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=3&z=2023-04-20&g=2023-04-20), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=5&z=2023-04-20&g=2023-04-20), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2023-04-20&g=2023-04-20), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=7&z=2023-04-20&g=2023-04-20) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=8&z=2023-04-20&g=2023-04-20) bepaalde wordt gestraft met gevangenisstraf van ten hoogste vier maanden of geldboete van de derde categorie.
 
 2. Dit feit is een misdrijf.
 
 ##### Artikel 21
 
-1. Overtreding van de algemene maatregel van bestuur, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=9&z=2021-07-01&g=2021-07-01), voor zover uitdrukkelijk als strafbaar feit in de zin van deze wet aangeduid, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
+1. Overtreding van de algemene maatregel van bestuur, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=9&z=2023-04-20&g=2023-04-20), voor zover uitdrukkelijk als strafbaar feit in de zin van deze wet aangeduid, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 
 2. Dit feit is een overtreding.
 
@@ -259,7 +255,7 @@ Vervallen
 
 ##### Artikel 23
 
-Met het opsporen van de feiten, bij of krachtens deze wet strafbaar gesteld, zijn, behalve de ambtenaren, aangewezen bij [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de overige militairen van het wapen der Koninklijke Marechaussee, en de door de burgemeester aangewezen personen in dienst der gemeente, alsook voor wat betreft het niet nakomen van een bevel, als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2021-07-01&g=2021-07-01), de transportleiders.
+Met het opsporen van de feiten, bij of krachtens deze wet strafbaar gesteld, zijn, behalve de ambtenaren, aangewezen bij [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de overige militairen van het wapen der Koninklijke Marechaussee, en de door de burgemeester aangewezen personen in dienst der gemeente, alsook voor wat betreft het niet nakomen van een bevel, als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=6&z=2023-04-20&g=2023-04-20), de transportleiders.
 
 ##### Artikel 24
 
