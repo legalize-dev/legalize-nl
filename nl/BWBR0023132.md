@@ -4,7 +4,7 @@ identifier: "BWBR0023132"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-09"
-last_updated: "2022-08-01"
+last_updated: "2023-04-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023132"
 soort: "ministeriele-regeling"
@@ -88,9 +88,9 @@ Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://w
 
 In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9):
 
-- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 4, onder 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2022-08-01&g=2022-08-01) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
+- a. wordt de jaarverslaggeving ingericht overeenkomstig de richtlijnen, in het bijzonder de hoofdstukken 400, 640 en 660 behoudens het bepaalde in [artikel 4, onder 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2023-04-20&g=2023-04-20) ten aanzien van het bevoegd gezag van een school of scholengemeenschappen in het primair en het voortgezet onderwijs;
 
-- b. wordt de jaarverslaggeving vastgesteld in de Nederlandse taal en in de in Nederland wettige valuta, en wordt zij door de onderwijsinstelling openbaar gemaakt;
+- b. wordt de jaarverslaggeving vastgesteld in de Nederlandse taal en in de in Nederland wettige valuta, en wordt zij jaarlijks vóór 1 juli door de onderwijsinstelling openbaar gemaakt;
 
 - c. is het verslagjaar gelijk aan een kalenderjaar;
 
@@ -132,9 +132,9 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 1b. Overeenkomstig hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden de gespaarde verlofuren als gevolg van de afspraken duurzame inzetbaarheid of de werktijdenvermindering voor senioren conform paragraaf 2, alinea 203, van dat hoofdstuk, op de balans opgenomen als een verplichting uit hoofde van een opbouw van rechten voor zover de gespaarde rechten op doorbetaalde afwezigheid kunnen worden opgenomen of verzilverd.
 
-1c. In afwijking van hoofdstuk 212 Materiële vaste activa, paragraaf 4, alinea 451, van de richtlijnen is het voor onderwijsinstellingen voor de verslagjaren 2018 tot en met 2022 toegestaan de jaarlijkse toevoegingen aan de voorziening groot onderhoud te bepalen op basis van het voorgenomen groot onderhoud gedurende de gehele planperiode van het groot onderhoud op het niveau van het onderwijspand gedeeld door het aantal jaren waaruit deze planperiode bestaat, voor zover deze methode reeds in 2017 werd toegepast en indien is gewaarborgd dat de voorziening groot onderhoud gedurende de planperiode niet op enig moment negatief wordt. De onderwijsinstelling die gebruik maakt van deze tijdelijke regeling vermeldt dit in haar jaarrekening.
+1c. In afwijking van hoofdstuk 212 Materiële vaste activa, paragraaf 4, alinea 451, van de richtlijnen is het voor onderwijsinstellingen voor de verslagjaren 2018 tot en met 2023 toegestaan de jaarlijkse toevoegingen aan de voorziening groot onderhoud te bepalen op basis van het voorgenomen groot onderhoud gedurende de gehele planperiode van het groot onderhoud op het niveau van het onderwijspand gedeeld door het aantal jaren waaruit deze planperiode bestaat, voor zover deze methode reeds in 2017 werd toegepast en indien is gewaarborgd dat de voorziening groot onderhoud gedurende de planperiode niet op enig moment negatief wordt. De onderwijsinstelling die gebruik maakt van deze tijdelijke regeling vermeldt dit in haar jaarrekening.
 
-2. Onderwijsinstellingen nemen met gebruikmaking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2022-08-01&g=2022-08-01) opgenomen tabel in het bestuursverslag op aan hoeveel ho-studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend, uitgesplitst naar de volgende onderdelen:
+2. Onderwijsinstellingen nemen met gebruikmaking van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=1&z=2023-04-20&g=2023-04-20) opgenomen tabel in het bestuursverslag op aan hoeveel ho-studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.51), financiële ondersteuning hebben verleend, uitgesplitst naar de volgende onderdelen:
 
 - a. ho-studenten in overmachtssituaties, zoals ziekte, functiebeperking, familieomstandigheden mantelzorg of niet studeerbare opleidingen;
 
@@ -144,7 +144,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 Tevens geven de onderwijsinstellingen per categorie aan hoeveel ho-studenten een vergoeding hebben aangevraagd, hebben ontvangen, hoeveel in totaal per categorie is uitgekeerd en wat de gemiddelde hoogte en duur was van de vergoeding.
 
-2a. Mbo-instellingen nemen met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2022-08-01&g=2022-08-01) opgenomen tabel in het bestuursverslag op aan hoeveel mbo-studenten zij uit het mbo-studentenfonds, bedoeld in [artikel 8.1.5 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.5), ondersteuning hebben verleend. Daarbij geven de mbo-instellingen tevens aan hoeveel mbo-studenten ondersteuning hebben aangevraagd, hoeveel mbo-studenten ondersteuning toegekend hebben gekregen, hoeveel in totaal is toegekend en wat de gemiddelde hoogte was van de toekenningen. Deze informatie wordt uitgesplitst in vier categorieën:
+2a. Mbo-instellingen nemen met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=2&z=2023-04-20&g=2023-04-20) opgenomen tabel in het bestuursverslag op aan hoeveel mbo-studenten zij uit het mbo-studentenfonds, bedoeld in [artikel 8.1.5 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.1.5), ondersteuning hebben verleend. Daarbij geven de mbo-instellingen tevens aan hoeveel mbo-studenten ondersteuning hebben aangevraagd, hoeveel mbo-studenten ondersteuning toegekend hebben gekregen, hoeveel in totaal is toegekend en wat de gemiddelde hoogte was van de toekenningen. Deze informatie wordt uitgesplitst in vier categorieën:
 
 - a. mbo-studenten die lid zijn van een studentenraad als bedoeld in [artikel 8a.1.2 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8a.1.2), van een andere door het bevoegd gezag ingestelde medezeggenschapsstructuur of van het bestuur van een studentenorganisatie van enige omvang met volledige rechtsbevoegdheid;
 
@@ -156,15 +156,17 @@ Tevens geven de onderwijsinstellingen per categorie aan hoeveel ho-studenten een
 
 3. Instellingen voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8) nemen in het bestuursverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders. Hogescholen verantwoorden de declaraties van bestuurders in overeenstemming met de Handreiking, opgenomen in de brief van de Vereniging Hogescholen van 3 november 2016 met kenmerk 16.4347.avw (te raadplegen via www.onderwijsinspectie.nl). Universiteiten verantwoorden de declaraties van bestuurders in overeenstemming met de Handreiking verantwoording declaraties bestuurders, opgenomen in de brief van de Vereniging van Universiteiten van 7 september 2016 met kenmerk VSNU 16/214 U (te raadplegen via www.onderwijsinspectie.nl).
 
-4. In het bestuursverslag rapporteert het bevoegd gezag met gebruikmaking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2022-08-01&g=2022-08-01) opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar en ingeval sprake is van majeure investeringen, in meerjarenperspectief over de vijf verslagjaren volgend op het verslagjaar. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten in de staat van baten en lasten gelijk is of groter dan 15%. In de sectoren primair onderwijs en voortgezet onderwijs wordt ingeval sprake is van volledige doordecentralisatie van de huisvesting, steeds een meerjarenperspectief opgenomen voor de periode van vijf jaren volgend op het verslagjaar. De toelichting op deze investeringen bevat in ieder geval een beschrijving van de relatie met de strategische doelstellingen, de omvang, het tijdpad, de wijze van financiering, inclusief een duidelijke onderbouwing met analyse van de prognose van de ontwikkeling van leerlingen-, mbo-studenten-, vavo-studenten- of ho-studentenaantallen en het gebruik van sturingsinstrumenten. De rapportage betreft onder meer het risicomanagement en het interne toezicht.
+4. In het bestuursverslag rapporteert het bevoegd gezag met gebruikmaking van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=3&z=2023-04-20&g=2023-04-20) opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar en ingeval sprake is van majeure investeringen, in meerjarenperspectief over de vijf verslagjaren volgend op het verslagjaar. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten in de staat van baten en lasten gelijk is of groter dan 15%. In de sectoren primair onderwijs en voortgezet onderwijs wordt ingeval sprake is van volledige doordecentralisatie van de huisvesting, steeds een meerjarenperspectief opgenomen voor de periode van vijf jaren volgend op het verslagjaar. De toelichting op deze investeringen bevat in ieder geval een beschrijving van de relatie met de strategische doelstellingen, de omvang, het tijdpad, de wijze van financiering, inclusief een duidelijke onderbouwing met analyse van de prognose van de ontwikkeling van leerlingen-, mbo-studenten-, vavo-studenten- of ho-studentenaantallen en het gebruik van sturingsinstrumenten. De rapportage betreft onder meer het risicomanagement en het interne toezicht.
 
-5. Een bekostigde instelling voor hoger onderwijs dan wel een bekostigde instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), verantwoordt zich in het bestuursverslag over het gevoerde beleid zoals aangegeven in de [Beleidsregel investeren met publieke middelen in private activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0045046), alsmede de volgende notities:
+5. Een bekostigde instelling voor hoger onderwijs dan wel een bekostigde instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), verantwoordt zich in het bestuursverslag over het gevoerde beleid zoals aangegeven in de volgende notities:
 
-- a. Helderheid in de bekostiging van het hoger onderwijs (bijlage bij Kamerstukken II 2003-2004, 28 817, nr. 5 / Gele katern 2004, nr. 2, pag. 23),
+- a. Helderheid in de bekostiging van het hoger onderwijs (bijlage bij Kamerstukken II 2003/04, 28 817, nr. 5)
 
-- b. Aanvulling op de notitie Helderheid in de bekostiging van het hoger onderwijs (Bijlage bij Kamerstukken 2004/05, 28 248, nr. 72), en
+- b. Aanvulling op de notitie Helderheid in de bekostiging van het hoger onderwijs (bijlage bij II 2004/05, 28 248, nr. 72); en
 
-- c. Helderheid in de bekostiging van het beroepsonderwijs en de volwasseneneducatie (Bijlage bij Kamerstukken 2004/05, 28 248, nr. 72).
+- c. Helderheid in de bekostiging van het beroepsonderwijs en de volwasseneneducatie (Bijlage bij Kamerstukken 2004/05, 28 248, nr. 72.
+
+5a. In aanvulling op het vijfde lid verantwoordt een bekostigde instelling voor hoger onderwijs dan wel een bekostigde instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) zich vanaf het verslagjaar 2023 in het bestuursverslag eveneens over het gevoerde beleid zoals aangegeven in de [Beleidsregel investeren met publieke middelen in private activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0045046).
 
 6. De Minister van Onderwijs, Cultuur en Wetenschap publiceert jaarlijks een overzicht van de voor het betreffende verslagjaar relevante politieke of maatschappelijke thema’s, waarover het bevoegd gezag in het bestuursverslag rapporteert met betrekking tot de wijze waarop middelen zijn ingezet en de resultaten die daarmee zijn behaald.
 
@@ -174,7 +176,7 @@ Het bevoegd gezag levert jaarlijks vóór 1 juli de volgende gegevens over het v
 
 - a. in schriftelijke vorm de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in [artikel 392 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392); en
 
-- b. met gebruikmaking van de methode SBR/XBRL overeenkomstig de op de website van de Dienst Uitvoering Onderwijs bekend gemaakte onderwijstaxonomie, de gegevens uit de jaarrekening, alsmede de gegevens, bedoeld in [artikel 3, onder e3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2022-08-01&g=2022-08-01), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2022-08-01&g=2022-08-01).
+- b. met gebruikmaking van de methode SBR/XBRL overeenkomstig de op de website van de Dienst Uitvoering Onderwijs bekend gemaakte onderwijstaxonomie, de gegevens uit de jaarrekening, alsmede de gegevens, bedoeld in [artikel 3, onder e3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2023-04-20&g=2023-04-20), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2023-04-20&g=2023-04-20).
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -295,21 +297,46 @@ Naam, aard dienstbetrekking, functiecategorie, aanvang en einde functie, belonin
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2022-08-01&g=2022-08-01)
+## Bijlage 2. behorende bij [artikel 4 lid 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2023-04-20&g=2023-04-20)
+
+| Omschrijving | Aantallen studenten | Totaal van de toekenningen | Gemiddelde hoogte van de toekenningen |
+| --- | --- | --- | --- |
+| Mbo-studenten die lid zijn van een studentenraad als bedoeld in [artikel 8a.1.2 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8a.1.2), van een andere door het bevoegd gezag ingestelde medezeggenschapsstructuur of van het bestuur van een studentenorganisatie van enige omvang met volledige rechtsbevoegdheid | Aanvragen .................... Toekenningen .................... | € | € |
+| Mbo-studenten die activiteiten verrichten op bestuurlijk of maatschappelijk gebied die naar het oordeel van het bevoegd gezag mede in het belang zijn van de instelling of van het onderwijs dat de student volgt | Aanvragen .................... Toekenningen .................... | € | € |
+| Mbo-studenten, die of waarvan diens wettelijk vertegenwoordigers, aantoonbaar onvoldoende financiële middelen hebben voor de aanschaf van onderwijsbenodigdheden waarover de student geacht wordt zelf te beschikken | Aanvragen .................... Toekenningen .................... | € | € |
+| Mbo-studenten die in verband met de aanwezigheid van een bijzondere omstandigheid studievertraging hebben opgelopen | Aanvragen .................... Toekenningen .................... | € | € |
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-## Bijlage 1. Tabel uitkeringen Profileringsfonds
+## Bijlage 0. behorende bij [artikel 3, onderdeel e1](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2023-04-20&g=2023-04-20), van de regeling
 
-**Deze bijlage behoort bij artikel 4, tweede lid, van de Regeling jaarverslaggeving onderwijs.**
+**Overzicht van gegevens voor de rapportage ingevolge de Wet normering topinkomens (WNT).**
 
-**Overzicht uitkeringen Profileringsfonds**
+**Deze bijlage bevat een samenvatting van de te vertrekken gegevens ingevolge de WNT. De regelgeving zelf is leidend. De elektronische aanlevering van de WNT-gegevens geschiedt door gebruikmaking van het WNT-onderdeel uit de elektronische versie van de jaarrekening, zoals dit voor het betreffende verslagjaar voor het onderwijs wordt vastgesteld. Daarbij worden in de daartoe aangegeven rubrieken ook de vergelijkende gegevens van het voorgaande jaar vermeld.**
 
-| Omschrijving | Aantallen ho-studenten | Totaal van de toekenningen | Gemiddelde hoogte van de toekenningen | Gemiddelde duur van de toekenningen |
-| --- | --- | --- | --- | --- |
-| Ho-studenten in overmachtssituaties Ziekte, functiebeperking, familieomstandigheden, mantelzorg of niet-studeerbare opleidingen | Aanvragen .................... Toewijzingen .................... | € | € |   |
-| Bestuurders van studie- of studenten- verenigingen of MR | Aanvragen .................... Toewijzingen .................... | € | € |   |
-| Overige categorieën Prestaties op het gebied van sport of cultuur, fin. steun aan niet-EER ho-studenten, uitgaande beurzen e.a. | Aanvragen .................... Toewijzingen .................... | € | € |   |
+**Rubriek 1 Leidinggevend topfunctionaris met dienstbetrekking, of zonder dienstbetrekking vanaf de 13e** **maand van functievervulling, of gewezen topfunctionaris.**
+
+Te verstrekken gegevens:
+
+Naam, aard dienstbetrekking, functie, aanvang en einde functie, taakomvang, beloning, belastbare onkostenvergoeding, beloning betaalbaar op termijn, onverschuldigde betaling bezoldiging, afwijkend bedrag WNT-maximum, individueel WNT-maximum (wordt automatisch berekend), motivering en toelichting ingeval van overschrijding bezoldigingsnorm, vergelijkende gegevens voorgaand boekjaar, uitkering wegens beëindiging dienstverband, onverschuldigd betaalde ontslaguitkering, individueel WNT-maximum ontslaguitkering (bedrag betaald in 2016), voorgaande functie en motivering en toelichting ingeval van overschrijding ontslaguitkeringsnorm
+
+**Rubriek 2 Leidinggevend topfunctionaris zonder dienstbetrekking voor de eerste 12 maanden van functievervulling.**
+
+Te verstrekken gegevens:
+
+Naam, functie, aanvang en einde opdracht, periode en omvang dienstbetrekking (maanden gewerkt voor en in verslagjaar en uren gewerkt in verslagjaar), individueel WNT-maximum, bezoldiging in het verslagjaar, onverschuldigd bedrag, bezoldigingsbedragen per uur, onverschuldigde bedragen uurtarief, motivering ingeval van overschrijding individueel WNT maximum.
+
+**Rubriek 3 Niet-topfunctionaris**
+
+Te verstrekken gegevens:
+
+Volgnummer, functie, aanvang en einde functie, taakomvang, beloning, belastbare onkostenvergoeding, beloning betaalbaar op termijn, WNT-drempelbedrag bezoldiging, toelichting overschrijding drempelbedrag bezoldiging, vergelijkende gegevens voorgaand boekjaar, uitkering wegens beëindiging dienstverband, WNT-drempelbedrag ontslaguitkering, voorgaande functie, jaar einde dienstverband, motivering en toelichting ingeval van overschrijding ontslaguitkeringsnorm.
+
+**Rubriek 4 Toezichthoudend topfunctionaris**
+
+Te verstrekken gegevens:
+
+Naam, aard dienstbetrekking, functiecategorie, aanvang en einde functie, beloning, belastbare onkostenvergoeding, beloning betaalbaar op termijn, onverschuldigde betaling, afwijkend bedrag WNT-maximum, motivering en toelichting ingeval van overschrijding bezoldigingsnorm, vergelijkende gegevens voorgaand boekjaar, uitkering wegens beëindiging dienstverband, onverschuldigd betaalde ontslaguitkering, individueel WNT-maximum ontslaguitkering (bedrag betaald in 2016), voorgaande functie, jaar einde dienstverband en motivering en toelichting ingeval van overschrijding ontslaguitkeringsnorm
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -501,7 +528,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ##### Artikel 4a
 
-Een bevoegd gezag neemt, ter verantwoording van de aan haar door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media verstrekte subsidies, in haar jaarverslag het verantwoordingsmodel G op als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4&z=2022-08-01&g=2022-08-01), indien zij daartoe verplicht is op grond van een besluit van één of beide ministers.
+Een bevoegd gezag neemt, ter verantwoording van de aan haar door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media verstrekte subsidies, in haar jaarverslag het verantwoordingsmodel G op als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4&z=2023-04-20&g=2023-04-20), indien zij daartoe verplicht is op grond van een besluit van één of beide ministers.
 
 ### Aantallen leerlingen/mbo-studenten/vavo-studenten/ho-studenten
 
@@ -583,23 +610,26 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Deze regeling berust mede op [artikel 6.19, zesde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.19).
 
-## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2023-04-20&g=2022-08-01)
+## Bijlage 3. behorende bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2023-04-20&g=2023-04-20)
 
 ### Staat / Raming van Baten en Lasten
 
 ## Bijlage 4. Model G
 
-Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4a&z=2023-04-20&g=2022-08-01) van de Regeling jaarverslaggeving onderwijs.
+Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4a&z=2023-04-20&g=2023-04-20) van de Regeling jaarverslaggeving onderwijs.
 
 ****Model G. Verantwoording subsidies****
 
 | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** | **G1. Subsidies waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Omschrijving** | **Toewijzing** | **Toewijzing** | **De activiteiten zijn ultimo verslagjaar conform de subsidiebeschikking geheel uitgevoerd en afgerond** |   |   |   |   |   |   |
-|   | **Kenmerk** | **Datum** |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
-| Nieuwe post | ... | ... | J/N |   |   |   |   |   |   |
-| Nieuwe post | ... | ... | J/N |   |   |   |   |   |   |
+| **Omschrijving** | **Toewijzing** | **Toewijzing** | **De activiteiten zijn ultimo verslagjaar conform de subsidiebeschikking geheel uitgevoerd en afgerond** | **De activiteiten zijn ultimo verslagjaar conform de subsidiebeschikking geheel uitgevoerd en afgerond** | **De activiteiten zijn ultimo verslagjaar conform de subsidiebeschikking geheel uitgevoerd en afgerond** | **De activiteiten zijn ultimo verslagjaar conform de subsidiebeschikking geheel uitgevoerd en afgerond** | **De activiteiten zijn ultimo verslagjaar conform de subsidiebeschikking geheel uitgevoerd en afgerond** | **De activiteiten zijn ultimo verslagjaar conform de subsidiebeschikking geheel uitgevoerd en afgerond** | **De activiteiten zijn ultimo verslagjaar conform de subsidiebeschikking geheel uitgevoerd en afgerond** |
+|   | Kenmerk | Datum | Status | Status | Status | Status | Status | Status | Status |
+| Nieuwe post | ... | ... | Onderhanden/Ja/Nee* | Onderhanden/Ja/Nee* | Onderhanden/Ja/Nee* | Onderhanden/Ja/Nee* | Onderhanden/Ja/Nee* | Onderhanden/Ja/Nee* | Onderhanden/Ja/Nee* |
+| Nieuwe post | ... | ... | Onderhanden/Ja/Nee | Onderhanden/Ja/Nee | Onderhanden/Ja/Nee | Onderhanden/Ja/Nee | Onderhanden/Ja/Nee | Onderhanden/Ja/Nee | Onderhanden/Ja/Nee |
+| * | ONDERHANDEN = DE SUBSIDIE LOOPT NOG CONFORM DE SUBSIDIEVERPLICHTINGEN | ONDERHANDEN = DE SUBSIDIE LOOPT NOG CONFORM DE SUBSIDIEVERPLICHTINGEN | ONDERHANDEN = DE SUBSIDIE LOOPT NOG CONFORM DE SUBSIDIEVERPLICHTINGEN | ONDERHANDEN = DE SUBSIDIE LOOPT NOG CONFORM DE SUBSIDIEVERPLICHTINGEN | ONDERHANDEN = DE SUBSIDIE LOOPT NOG CONFORM DE SUBSIDIEVERPLICHTINGEN | ONDERHANDEN = DE SUBSIDIE LOOPT NOG CONFORM DE SUBSIDIEVERPLICHTINGEN | ONDERHANDEN = DE SUBSIDIE LOOPT NOG CONFORM DE SUBSIDIEVERPLICHTINGEN | ONDERHANDEN = DE SUBSIDIE LOOPT NOG CONFORM DE SUBSIDIEVERPLICHTINGEN | ONDERHANDEN = DE SUBSIDIE LOOPT NOG CONFORM DE SUBSIDIEVERPLICHTINGEN |
+| JA = | DE SUBSIDIE IS AFGEROND CONFORM SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND CONFORM SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND CONFORM SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND CONFORM SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND CONFORM SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND CONFORM SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND CONFORM SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND CONFORM SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND CONFORM SUBSIDIEVERPLICHTINGEN |
+| NEE = | DE SUBSIDIE IS AFGEROND IN STRIJD MET DE SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND IN STRIJD MET DE SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND IN STRIJD MET DE SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND IN STRIJD MET DE SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND IN STRIJD MET DE SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND IN STRIJD MET DE SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND IN STRIJD MET DE SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND IN STRIJD MET DE SUBSIDIEVERPLICHTINGEN | DE SUBSIDIE IS AFGEROND IN STRIJD MET DE SUBSIDIEVERPLICHTINGEN |
 |   |   |   |   |   |   |   |   |   |   |
 | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** | **G2A. Subsidies die uitsluitend mogen worden aangewend voor het doel waarvoor de subsidie is verstrekt, aflopend per ultimo verslagjaar** |
 |   |   |   |   |   |   |   |   |   |   |
