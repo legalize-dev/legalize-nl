@@ -4,7 +4,7 @@ identifier: "BWBR0048081"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-21"
-last_updated: "2023-01-01"
+last_updated: "2023-04-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048081"
 soort: "ministeriele-regeling"
@@ -56,13 +56,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048081&artikel=2&z=2023-04-21&g=2023-01-01), bedraagt ten hoogste € 50.000.
+De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048081&artikel=2&z=2023-04-21&g=2023-04-21), bedraagt ten hoogste € 50.000.
 
 ##### Artikel 4
 
 1. De stichting dient de aanvraag tot subsidieverlening uiterlijk in op 1 oktober van het boekjaar waarop de subsidie betrekking heeft.
 
-2. Het is toegestaan de subsidie aan te wenden voor kosten gemaakt in het boekjaar die rechtstreeks samenhangen met de activiteiten genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048081&artikel=2&z=2023-04-21&g=2023-01-01), en gemaakt voorafgaand aan de indiening van de aanvraag door de aanvrager.
+2. Het is toegestaan de subsidie aan te wenden voor kosten gemaakt in het boekjaar die rechtstreeks samenhangen met de activiteiten genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048081&artikel=2&z=2023-04-21&g=2023-04-21), en gemaakt voorafgaand aan de indiening van de aanvraag door de aanvrager.
 
 3. De beschikking tot subsidieverlening bevat:
 
