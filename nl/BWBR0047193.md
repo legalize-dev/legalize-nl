@@ -4,7 +4,7 @@ identifier: "BWBR0047193"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-08-09"
-last_updated: "2022-10-01"
+last_updated: "2023-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047193"
 soort: "beleidsregel"
@@ -62,7 +62,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 2. (doelgroep en reikwijdte)
 
-Deze beleidsregel is van toepassing op belastingplichtige of inhoudingsplichtige organisaties die online belastingaangifte moeten doen via Mijn Belastingdienst Zakelijk. Om deze organisaties in staat te stellen kosteloos aan hun aangifteverplichting te voldoen, bevat deze beleidsregel een compensatieregeling voor de aanschafkosten van het Belastingdienst EH3-inlogmiddel ([hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2022-10-01&g=2022-10-01)). Voor organisaties die niet kunnen beschikken over dit inlogmiddel, is voorzien in een compensatieregeling voor onvermijdelijke andere kosten ([hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2022-10-01&g=2022-10-01)).
+Deze beleidsregel is van toepassing op belastingplichtige of inhoudingsplichtige organisaties die online belastingaangifte moeten doen via Mijn Belastingdienst Zakelijk. Om deze organisaties in staat te stellen kosteloos aan hun aangifteverplichting te voldoen, bevat deze beleidsregel een compensatieregeling voor de aanschafkosten van het Belastingdienst EH3-inlogmiddel ([hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2023-04-22&g=2023-04-22)). Voor organisaties die niet kunnen beschikken over dit inlogmiddel, is voorzien in een compensatieregeling voor onvermijdelijke andere kosten ([hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2023-04-22&g=2023-04-22)).
 
 ### Hoofdstuk 2. Compensatie belastingdienst eh3-inlogmiddel
 
@@ -93,7 +93,7 @@ Deze beleidsregel is van toepassing op belastingplichtige of inhoudingsplichtige
 
 ##### Artikel 5. (voorwaarden)
 
-1. Op aanvraag wordt per aanvraagperiode maximaal één keer een compensatie verstrekt aan een aanvrager die online belastingaangifte moet doen via Mijn Belastingdienst Zakelijk, maar niet kan beschikken over het Belastingdienst EH3-inlogmiddel, en ook geen toegang heeft tot het portaal via DigiD, een door de Belastingdienst verstrekte inlogmethode of een ander ingevolge de eIDAS-verordening erkend inlogmiddel.
+1. Op aanvraag wordt per kalenderjaar maximaal één keer een compensatie verstrekt aan een aanvrager die online belastingaangifte moet doen via Mijn Belastingdienst Zakelijk, maar niet kan beschikken over het Belastingdienst EH3-inlogmiddel, en ook geen toegang heeft tot het portaal via DigiD, een door de Belastingdienst verstrekte inlogmethode of een ander ingevolge de eIDAS-verordening erkend inlogmiddel.
 
 2. De compensatie kan worden aangevraagd voor de onvermijdelijke kosten die samenhangen met de noodzakelijke aanschaf van het eHerkenning PROBAS-inlogmiddel of, in het geval de aanvrager daarover niet kan beschikken, de onvermijdelijke kosten die samenhangen met:
 
@@ -101,13 +101,17 @@ Deze beleidsregel is van toepassing op belastingplichtige of inhoudingsplichtige
 
 - b. het door een intermediair laten indienen van de belastingaangifte.
 
-3. De compensatie wordt achteraf verstrekt per kalenderjaar of boekjaar. Een aanvraag voor compensatie moet worden ingediend binnen de aanvraagperiode van 12 maanden na afloop van het kalenderjaar of boekjaar.
+3. De compensatie wordt achteraf verstrekt per kalenderjaar. Een aanvraag voor compensatie moet worden ingediend binnen de aanvraagperiode van 12 maanden na afloop van het kalenderjaar waarin de aangifte is gedaan.
 
 ##### Artikel 6. (hoogte vergoeding)
 
 1. De vergoeding voor de noodzakelijke aanschaf van een eHerkenning PROBAS-inlogmiddel, omdat het Belastingdienst EH3-inlogmiddel niet beschikbaar is, bedraagt € 36,30 (inclusief BTW) per kalenderjaar.
 
-2. Voor de aanschaf en het gebruik van een softwarepakket of het door een intermediair laten indienen van de belastingaangifte worden de werkelijke kosten (inclusief BTW) vergoed tot een maximum van, in totaal, € 450 per kalenderjaar of boekjaar.
+2. Voor de aanschaf en het gebruik van een softwarepakket of het door een intermediair laten indienen van de belastingaangifte worden de werkelijke kosten (inclusief BTW) vergoed tot een maximum van, in totaal, € 450 per kalenderjaar.
+
+3. De in het tweede lid bedoelde compensatie is bedoeld als tegemoetkoming in de kosten die belanghebbende redelijkerwijs moet maken om aan zijn aangifteverplichting te kunnen voldoen en gaat ervan uit dat deze kosten regelmatig over de jaren zijn verdeeld. Het kan echter voorkomen dat in een jaar een stapeling van kosten optreedt doordat het gebruik van een softwarepakket voor meerdere jaren vooruit is gefactureerd of doordat – bijvoorbeeld wegens eerder verleend uitstel – in één jaar meerdere aangiften worden ingediend door een intermediair. Tegenover deze stapeling van kosten staan doorgaans één of meer andere jaren waarin vrijwel geen kosten worden gemaakt.
+
+Het in het tweede lid bedoelde maximum is niet altijd toereikend om na een stapeling van kosten een redelijke compensatie te bieden. Daarom kan een compensatie, die hoger is dan het in het tweede lid genoemde maximum, worden toegekend indien aanvrager de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&artikel=5&z=2023-04-22&g=2023-04-22), genoemde kosten heeft gemaakt voor het doen van meerdere belastingaangiftes in het kalenderjaar of voor het aanschaffen van een gebruikerslicentie om in meerdere kalenderjaren belastingaangifte te doen via een softwarepakket. Het in het tweede lid genoemde maximum wordt in dat geval verhoogd met het maximum van het kalenderjaar of de kalenderjaren waarin de kosten bij een gelijkmatige verdeling van de kosten over de jaren zouden neerslaan en voor zover in die jaren geen aanspraak is of zal worden gemaakt op een compensatie.
 
 ##### Artikel 7. (aanvraag en over te leggen informatie)
 
@@ -137,9 +141,9 @@ Op de aanvraag wordt beslist binnen acht weken na ontvangst. Indien niet binnen 
 
 ##### Artikel 9. (toekenning en uitbetaling)
 
-1. De in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2022-10-01&g=2022-10-01) bedoelde vergoeding wordt toegekend door de Staatssecretaris Koninkrijksrelaties en Digitalisering en, namens deze, uitbetaald door de Rijksdienst voor Ondernemend Nederland.
+1. De in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2023-04-22&g=2023-04-22) bedoelde vergoeding wordt toegekend door de Staatssecretaris Koninkrijksrelaties en Digitalisering en, namens deze, uitbetaald door de Rijksdienst voor Ondernemend Nederland.
 
-2. De in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2022-10-01&g=2022-10-01) bedoelde vergoeding wordt toegekend door de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst en, namens deze, uitbetaald door de ontvanger van de Belastingdienst.
+2. De in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2023-04-22&g=2023-04-22) bedoelde vergoeding wordt toegekend door de Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst en, namens deze, uitbetaald door de ontvanger van de Belastingdienst.
 
 ##### Artikel 10. (Ingetrokken regeling)
 
@@ -184,3 +188,21 @@ In deze beleidsregel wordt verstaan onder:
 ### Hoofdstuk 4. Slotbepalingen
 
 Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a. (begripsbepalingen)
+
+In deze beleidsregel wordt verstaan onder:
+
+- **aanvrager:** de belastingplichtige of inhoudingsplichtige organisatie of buitenlandse natuurlijke persoon, die verzoekt om compensatie voor de kosten van het Belastingdienst EH3-inlogmiddel of noodzakelijke andere kosten als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&z=2023-04-22&g=2023-04-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=3&z=2023-04-22&g=2023-04-22) van deze beleidsregel;
+
+- **Belastingdienst EH3-inlogmiddel:** een door een erkende leverancier aangeboden elektronisch middel dat uitsluitend gebruikt kan worden om in te loggen bij de Belastingdienst en voor het aanvragen van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047193&hoofdstuk=2&artikel=3&z=2023-04-22&g=2023-04-22) bedoelde compensatie;
+
+- **eHerkenning:** een authenticatiesysteem waarmee een organisatie toegang kan krijgen tot elektronische diensten van (overheids) organisaties;
+
+- **eHerkenning PROBAS-inlogmiddel:** een door een erkende leverancier aangeboden elektronisch middel dat door ambassades en consulaten gebruikt kan worden om in te loggen bij de Belastingdienst;
+
+- **eIDAS-verordening:** [Verordening (EU) nr. 910/2014](32014R0910) van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van [Richtlijn 1999/93/EG](31999L0093) (Pb EU 2014, L 257) en de krachtens deze verordening vastgestelde uitvoeringshandelingen;
+
+- **intermediair:** een partij die namens de belanghebbende de belastingaangifte kan indienen;
+
+- **softwarepakket:** commercieel softwarepakket waarmee belastingaangifte kan worden gedaan bij de Belastingdienst.
