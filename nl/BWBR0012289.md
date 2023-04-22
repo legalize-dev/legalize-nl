@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2023-04-01"
+last_updated: "2023-04-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -5299,9 +5299,9 @@ De IND ontheft de vreemdeling van het inburgeringsvereiste als sprake is van een
 
 ### 8.3. Bijzondere voorwaarden na verruimde gezinshereniging
 
-De IND past in het geval het inburgeringsexamen niet is behaald in ieder geval de hardheidclausule toe, bedoeld in artikel 3.80a, vierde lid, Vb, op grond van het feit dat de vreemdeling aantoonbaar geleverde inspanningen heeft verricht, als:
+De IND past in het geval het inburgeringsexamen niet is behaald in ieder geval de hardheidclausule toe, bedoeld in [artikel 3.80a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.80a), op grond van het feit dat de vreemdeling aantoonbaar geleverde inspanningen heeft verricht, als:
 
-DUO geeft advies of iemand voldoet aan de criteria genoemd onder a, b en c. De IND gaat bij de beoordeling van deze ontheffingsgrond in beginsel uit van het door de vreemdeling overgelegde advies van DUO. De vreemdeling die in aanmerking wil komen voor deze ontheffingsgrond moet het advies zelf aanvragen bij DUO. Voor het aanmeldformulier en meer informatie over deze procedure raadpleeg de website van DUO www.inburgeren.nl.
+DUO geeft advies of iemand voldoet aan de criteria genoemd onder a, b en c. De IND gaat bij de beoordeling van deze ontheffingsgrond in beginsel uit van het door de vreemdeling overgelegde advies van DUO. De vreemdeling die in aanmerking wil komen voor deze ontheffingsgrond moet het advies zelf aanvragen bij DUO. Voor het aanmeldformulier en meer informatie over deze procedure raadpleeg de website van DUO [www.inburgeren.nl](http://www.inburgeren.nl).
 
 Tot 1 juli 2013 kon een vreemdeling zich wenden tot het ROC Amsterdam voor een advies op basis van het zogenaamde haalbaarheidsonderzoek. Adviezen die bij het ROC zijn aangevraagd vóór 1 juli 2013 zullen nog worden meegenomen door de IND bij de beoordeling van het verzoek om ontheffing.
 
@@ -5317,7 +5317,7 @@ De IND betrekt bij de beoordeling of sprake is van bijzondere individuele omstan
 
 ### 8.7. Bijzondere voorwaarden na verblijf bij houder blauwe kaart
 
-De IND ontheft de vreemdeling van het inburgeringsvereiste bij een aanvraag voor een sterker verblijfsrecht indien de vreemdeling aantoonbaar voldoende is ingeburgerd, als bedoeld in artikel 3.80a, [3.96a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) en [3.107a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107a). Onder aantoonbaar voldoende ingeburgerde vreemdelingen worden vreemdelingen bedoeld, die:
+De IND ontheft de vreemdeling van het inburgeringsvereiste bij een aanvraag voor een sterker verblijfsrecht indien de vreemdeling aantoonbaar voldoende is ingeburgerd, als bedoeld in [artikel 3.80a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.80a), [3.96a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) en [3.107a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.107a). Onder aantoonbaar voldoende ingeburgerde vreemdelingen worden vreemdelingen bedoeld, die:
 
 De vreemdeling die in aanmerking wil komen voor deze ontheffingsgrond moet hiervoor een advies aanvragen bij DUO en deze meesturen bij de aanvraag voor een sterker verblijf. De IND gaat bij de beoordeling van de ontheffingsgrond in beginsel uit van het door de vreemdeling overgelegde advies van DUO. Voor meer informatie wordt verwezen naar de website van DUO.
 
@@ -11851,7 +11851,7 @@ Een aanvraag is tijdig ingediend indien de vreemdeling binnen twee weken na inwe
 
 ### 8.5. Gezinsleden van houders van een verblijfsvergunning regulier bepaalde tijd onder de beperking ‘niet-tijdelijke humanitaire gronden’ verleend na verblijf in het kader van medische behandeling
 
-De IND past in het geval het inburgeringsexamen niet is behaald de hardheidsclausule toe, bedoeld in artikel 3.80a, vierde lid, Vb, als blijkt dat er sprake is van bijzondere individuele omstandigheden, als gevolg waarvan de vreemdeling niet in staat is om aan dat examen deel te nemen of dat met goed gevolg af te leggen.
+De IND past in het geval het inburgeringsexamen niet is behaald de hardheidsclausule toe, bedoeld in [artikel 3.80a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.80a), als blijkt dat er sprake is van bijzondere individuele omstandigheden, als gevolg waarvan de vreemdeling niet in staat is om aan dat examen deel te nemen of dat met goed gevolg af te leggen.
 
 ### 8.5. Gezinsleden van houders van een verblijfsvergunning regulier bepaalde tijd onder de beperking ‘niet-tijdelijke humanitaire gronden’ verleend na verblijf in het kader van medische behandeling
 
