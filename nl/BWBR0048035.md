@@ -4,7 +4,7 @@ identifier: "BWBR0048035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-29"
-last_updated: "2023-04-07"
+last_updated: "2023-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048035"
 soort: "ministeriele-regeling"
@@ -200,13 +200,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3.3. (bepaling aantal wooneenheden)
 
-1. Het aantal onzelfstandige wooneenheden, bedoeld in [artikel 3.1, tweede lid, onderdelen b en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-04-07&g=2023-04-07), en [artikel 3.2, tweede lid, onderdelen b en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-04-07&g=2023-04-07), is de som van:
+1. Het aantal onzelfstandige wooneenheden, bedoeld in [artikel 3.1, tweede lid, onderdelen b en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-09-29&g=2023-04-25), en [artikel 3.2, tweede lid, onderdelen b en d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-04-25), is de som van:
 
 - a. het aantal onzelfstandige wooneenheden dat geen gedeelte is van een zelfstandige wooneenheid die op een blokaansluiting is aangesloten; en
 
 - b. het aantal onzelfstandige wooneenheden dat een gedeelte is van een zelfstandige wooneenheid die op een blokaansluiting is aangesloten, indien dat aantal vier of meer onzelfstandige wooneenheden per zelfstandige wooneenheid betreft.
 
-2. Indien ten hoogste drie onzelfstandige wooneenheden een gedeelte zijn van een zelfstandige wooneenheid die op een blokaansluiting is aangesloten, worden die onzelfstandige wooneenheden samen aangemerkt als één zelfstandige wooneenheid en opgeteld bij het aantal zelfstandige wooneenheden, bedoeld in [artikel 3.1, tweede lid, onderdelen a en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-04-07&g=2023-04-07), en [artikel 3.2, tweede lid, onderdelen a en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-04-07&g=2023-04-07).
+2. Indien ten hoogste drie onzelfstandige wooneenheden een gedeelte zijn van een zelfstandige wooneenheid die op een blokaansluiting is aangesloten, worden die onzelfstandige wooneenheden samen aangemerkt als één zelfstandige wooneenheid en opgeteld bij het aantal zelfstandige wooneenheden, bedoeld in [artikel 3.1, tweede lid, onderdelen a en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-09-29&g=2023-04-25), en [artikel 3.2, tweede lid, onderdelen a en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-04-25).
 
 ### Hoofdstuk 4. De subsidieverlening
 
@@ -232,13 +232,13 @@ In deze regeling wordt verstaan onder:
 
 - 2°. de EAN-code van de aansluiting, indien de blokaansluiting een aansluiting voor de levering van elektriciteit of gas heeft;
 
-- 3°. informatie over de overeenkomst voor de levering van elektriciteit, warmte of gas, bedoeld in [artikel 2.2, eerste lid en tweede lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=2&artikel=2.2&z=2023-04-07&g=2023-04-07), indien van toepassing;
+- 3°. informatie over de overeenkomst voor de levering van elektriciteit, warmte of gas, bedoeld in [artikel 2.2, eerste lid en tweede lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=2&artikel=2.2&z=2023-09-29&g=2023-04-25), indien van toepassing;
 
 - d. gegevens over de wooneenheden, waaronder:
 
-- 1°. het aantal zelfstandige wooneenheden dat is aangesloten op de blokaansluiting waarvoor de subsidie wordt aangevraagd, overeenkomstig het bepaalde in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.3&z=2023-04-07&g=2023-04-07);
+- 1°. het aantal zelfstandige wooneenheden dat is aangesloten op de blokaansluiting waarvoor de subsidie wordt aangevraagd, overeenkomstig het bepaalde in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.3&z=2023-09-29&g=2023-04-25);
 
-- 2°. het aantal onzelfstandige wooneenheden dat is aangesloten op de blokaansluiting waarvoor de subsidie wordt aangevraagd, overeenkomstig het bepaalde in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.3&z=2023-04-07&g=2023-04-07).
+- 2°. het aantal onzelfstandige wooneenheden dat is aangesloten op de blokaansluiting waarvoor de subsidie wordt aangevraagd, overeenkomstig het bepaalde in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.3&z=2023-09-29&g=2023-04-25).
 
 ##### Artikel 4.2. (gegevensverstrekking)
 
@@ -278,7 +278,7 @@ De minister maakt gegevens bekend waaruit blijkt voor welke blokaansluiting een 
 
 ##### Artikel 5.1. (verrekenen van de tegemoetkoming)
 
-1. De subsidieontvanger brengt de tegemoetkoming voor bewoners van wooneenheden die op een blokaansluiting voor elektriciteit zijn aangesloten, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-04-07&g=2023-04-07), of de tegemoetkoming voor bewoners van wooneenheden die op een blokaansluiting voor warmte zijn aangesloten, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-04-07&g=2023-04-07), volledig in mindering of laat die in mindering brengen op de betalingsverplichtingen voor de kosten voor elektriciteit of warmte in 2023 van bewoners waarbij:
+1. De subsidieontvanger brengt de tegemoetkoming voor bewoners van wooneenheden die op een blokaansluiting voor elektriciteit zijn aangesloten, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-09-29&g=2023-04-25), of de tegemoetkoming voor bewoners van wooneenheden die op een blokaansluiting voor warmte zijn aangesloten, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-04-25), volledig in mindering of laat die in mindering brengen op de betalingsverplichtingen voor de kosten voor elektriciteit of warmte in 2023 van bewoners waarbij:
 
 - a. de hoogte van het in mindering te brengen bedrag per wooneenheid in verhouding staat tot de wijze van verdeling van de kosten voor elektriciteit of warmte voor het gehele jaar 2023 over de wooneenheden; en
 
@@ -324,19 +324,19 @@ Indien bij de controle op de naleving van de aan de subsidieverstrekking verbond
 
 2. Voor de subsidie voor een blokaansluiting voor elektriciteit bedraagt:
 
-- a. het eerste voorschot 100% van de som van de bedragen, bedoeld in [artikel 3.1, tweede lid, onderdelen a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-04-07&g=2023-04-07);
+- a. het eerste voorschot 100% van de som van de bedragen, bedoeld in [artikel 3.1, tweede lid, onderdelen a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-09-29&g=2023-04-25);
 
-- b. het tweede voorschot 100% van de som van de bedragen, bedoeld in [artikel 3.1, tweede lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-04-07&g=2023-04-07).
+- b. het tweede voorschot 100% van de som van de bedragen, bedoeld in [artikel 3.1, tweede lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-09-29&g=2023-04-25).
 
 3. Voor de subsidie voor een blokaansluiting voor warmte bedraagt:
 
-- a. het eerste voorschot 100% van de som van de bedragen, bedoeld in [artikel 3.2, tweede lid, onderdelen a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-04-07&g=2023-04-07).
+- a. het eerste voorschot 100% van de som van de bedragen, bedoeld in [artikel 3.2, tweede lid, onderdelen a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-04-25).
 
-- b. het tweede voorschot 100% van de som van de bedragen, bedoeld in [artikel 3.2, tweede lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-04-07&g=2023-04-07).
+- b. het tweede voorschot 100% van de som van de bedragen, bedoeld in [artikel 3.2, tweede lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-04-25).
 
 ##### Artikel 6.2. (voorschotten subsidieverlening na 31 juli 2023)
 
-1. Indien de subsidieverlening na 31 juli 2023 geschiedt, verleent de minister één voorschot van 100% van het bedrag, bedoeld in de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-04-07&g=2023-04-07), of [3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-04-07&g=2023-04-07).
+1. Indien de subsidieverlening na 31 juli 2023 geschiedt, verleent de minister één voorschot van 100% van het bedrag, bedoeld in de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.1&z=2023-09-29&g=2023-04-25), of [3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048035&hoofdstuk=3&artikel=3.2&z=2023-09-29&g=2023-04-25).
 
 2. Het voorschot, bedoeld in het eerste lid, wordt uitgekeerd binnen twee weken nadat de subsidie is verleend.
 
