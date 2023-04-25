@@ -4,7 +4,7 @@ identifier: "BWBR0048097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-25"
-last_updated: "2023-03-01"
+last_updated: "2023-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048097"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ De bestuurlijk ambassadeur draagt zo spoedig mogelijk na beëindiging van zijn w
 
 1. Dit besluit treedt in werking met ingang van de ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst (en werkt terug tot en met 1 maart 2023).
 
-2. Dit besluit vervalt na voltooiing van de taken genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048097&artikel=1&z=2023-04-25&g=2023-03-01), van dit besluit.
+2. Dit besluit vervalt na voltooiing van de taken genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048097&artikel=1&z=2023-04-25&g=2023-04-25), van dit besluit.
 
 ##### Artikel 10. Citeertitel
 
