@@ -4,7 +4,7 @@ identifier: "BWBR0041915"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-09"
-last_updated: "2022-02-17"
+last_updated: "2023-04-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041915"
 soort: "ministeriele-regeling"
@@ -46,9 +46,17 @@ Het Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten wordt vastgest
 
 ##### Artikel 2. Subsidieplafond en wijze van verdeling
 
-1. Voor subsidieverstrekking op grond van dit besluit voor activiteiten die plaatsvinden in de kalenderjaren 2019 tot en met 2022 is in totaal een bedrag van ten hoogste € 200 miljoen beschikbaar.
+1. Voor subsidieverstrekking op grond van dit besluit is:
 
-2. Indien het resterende beschikbare bedrag, bedoeld in het eerste lid, in een bepaald kalenderjaar ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt het in de bijlage vastgestelde subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
+- a. voor activiteiten die plaatsvinden in de kalenderjaren 2019 tot en met 2022 in totaal een bedrag van ten hoogste € 200 miljoen beschikbaar;
+
+- b. voor activiteiten die plaatsvinden in het kalenderjaar 2023 in totaal een bedrag van ten hoogste € 50 miljoen beschikbaar; en
+
+- c. voor activiteiten die plaatsvinden in het kalenderjaar 2024 in totaal een bedrag van ten hoogste € 50 miljoen beschikbaar.
+
+2. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, onderdeel a, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag, genoemd in het eerste lid, onderdeel b. Indien het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid, onderdeel b, niet volledig wordt uitgeput, worden de resterende middelen toegevoegd aan het beschikbare bedrag, bedoeld in het eerste lid, onderdeel c.
+
+3. Indien het resterende beschikbare bedrag, bedoeld in het eerste lid, in een bepaald kalenderjaar ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt het in de bijlage vastgestelde subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
 
 ##### Artikel 3. Wijziging van het besluit
 
@@ -58,7 +66,7 @@ Een besluit tot wijziging van dit besluit wordt niet eerder vastgesteld dan vier
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2019.
 
-2. Dit besluit vervalt met ingang van 1 januari 2024.
+2. Dit besluit vervalt met ingang van 1 januari 2026.
 
 ##### Artikel 5. Citeertitel
 
@@ -68,7 +76,7 @@ Dit besluit wordt aangehaald als: Besluit vaststelling beleidsregels instandhoud
 
 Deze bijlage behoort bij het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten.
 
-De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) (hierna: de Kaderregeling) is op dit beleidskader van toepassing. In de Kaderregeling staan de algemene regels die ook in dit geval op de subsidieverstrekking door de Minister van Onderwijs, Cultuur en Wetenschap van toepassing zijn. Dit beleidskader valt onder het Staatssteunkader voor monumentenzorg, waarvan overeenkomstig de Algemene groepsvrijstellingsverordening aan de Europese Commissie is kennisgegeven (kenmerk SA 40475).
+Deze bijlage behoort bij het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten.
 
 ### 1. Aanleiding
 
@@ -82,9 +90,9 @@ Ook met het vervallen van de fiscale aftrek blijft monumentenonderhoud onvermind
 
 De subsidie kan worden aangevraagd door particuliere eigenaren van rijksmonumenten met een woonfunctie. Onder een **particuliere eigenaar** wordt in dit beleidskader verstaan een natuurlijke persoon die een (gedeelte van een) rijksmonument in eigendom heeft, of ten aanzien waarvan hij een ander zakelijk recht heeft. Wanneer sprake is van een gedeeld zakelijk recht (zoals gedeelde eigendom of een gedeeld appartementsrecht), dan worden die eigenaren of rechthebbenden tezamen als de particuliere eigenaar aangemerkt.
 
-Ook kan subsidie worden aangevraagd door aandeelhouders van een naamloze of besloten vennootschap als bedoeld in [artikel 10.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.9) (hierna: NSW-aandeelhouders). Het gaat hier kortgezegd om een naamloze of besloten vennootschap die een landgoed in de zin van de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939)1Specifiek: een op de voet van artikel 2 van de Natuurschoonwet 1928 als landgoed aangemerkte onroerende zaak. als het belangrijkste of enige bezit heeft en waarvan de werkzaamheden uitsluitend of hoofdzakelijk bestaan uit de instandhouding van dat landgoed (hierna: NSW-NV, respectievelijk NSW-BV). NSW-aandeelhouders kunnen alleen subsidie aanvragen indien wordt voldaan aan de fiscale eisen, genoemd in [artikel 23 van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=23). De NSW-aandeelhouders van een NSW-NV of NSW-BV die aan deze fiscale eisen voldoet kunnen op grond van dit beleidskader – naar rato van hun aandeel in de NSW-NV of NSW-BV die het landgoed in eigendom heeft – subsidie aanvragen ten behoeve van de rijksmonumenten met een woonfunctie die deel uitmaken van het landgoed. Een certificaathouder van aandelen in een NSW-NV of NSW-BV die aan de voornoemde fiscale eisen voldoet kan ook op grond van dit beleidskader subsidie aanvragen, als hij in de praktijk gelijk te stellen is aan een aandeelhouder van de NSW-NV of NSW-BV. Dit betekent dat tussen een certificaathouder en een aandeelhouder verschil in zeggenschap bestaat, maar dat de certificaathouder eenzelfde belang heeft bij de waardeontwikkeling van de aandelen als een aandeelhouder zou hebben. Waar in de volgende paragrafen van dit beleidskader van particuliere eigenaren wordt gesproken, worden daaronder ook steeds de NSW-aandeelhouders of de daaraan in de praktijk gelijk te stellen NSW-certificaathouders verstaan.
+De subsidie kan worden aangevraagd door particuliere eigenaren van rijksmonumenten met een woonfunctie. Onder een **particuliere eigenaar** wordt in dit beleidskader verstaan een natuurlijke persoon die een (gedeelte van een) rijksmonument in eigendom heeft, of ten aanzien waarvan hij een ander zakelijk recht heeft. Wanneer sprake is van een gedeeld zakelijk recht (zoals gedeelde eigendom of een gedeeld appartementsrecht), dan worden die eigenaren of rechthebbenden tezamen als de particuliere eigenaar aangemerkt.
 
-Natuurlijk is het mogelijk dat een aanvraag wordt gedaan door een bevoegd vertegenwoordiger van één of meer particuliere eigenaren. Het kan hierbij bijvoorbeeld gaan om een vereniging van eigenaars die een subsidieaanvraag doet namens de verschillende particuliere eigenaren die ten aanzien van het desbetreffende rijksmonument een appartementsrecht hebben. Bij NSW-aandeelhouders kan door de desbetreffende NSW-NV of NSW-BV namens de NSW-aandeelhouders een subsidieaanvraag worden gedaan. Vanzelfsprekend is hierbij vereist dat de particuliere eigenaren of NSW-aandeelhouders rechtsgeldig worden vertegenwoordigd (bijvoorbeeld krachtens een statutaire vertegenwoordigingsbevoegdheid of krachtens een afzonderlijk gegeven machtiging).
+Ook kan subsidie worden aangevraagd door aandeelhouders van een naamloze of besloten vennootschap als bedoeld in [artikel 10.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.9) (hierna: NSW-aandeelhouders). Het gaat hier kortgezegd om een naamloze of besloten vennootschap die een landgoed in de zin van de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939)1Specifiek: een op de voet van artikel 2 van de Natuurschoonwet 1928 als landgoed aangemerkte onroerende zaak. als het belangrijkste of enige bezit heeft en waarvan de werkzaamheden uitsluitend of hoofdzakelijk bestaan uit de instandhouding van dat landgoed (hierna: NSW-NV, respectievelijk NSW-BV). NSW-aandeelhouders kunnen alleen subsidie aanvragen indien wordt voldaan aan de fiscale eisen, genoemd in [artikel 23 van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=23). De NSW-aandeelhouders van een NSW-NV of NSW-BV die aan deze fiscale eisen voldoet kunnen op grond van dit beleidskader – naar rato van hun aandeel in de NSW-NV of NSW-BV die het landgoed in eigendom heeft – subsidie aanvragen ten behoeve van de rijksmonumenten met een woonfunctie die deel uitmaken van het landgoed. Een certificaathouder van aandelen in een NSW-NV of NSW-BV die aan de voornoemde fiscale eisen voldoet kan ook op grond van dit beleidskader subsidie aanvragen, als hij in de praktijk gelijk te stellen is aan een aandeelhouder van de NSW-NV of NSW-BV. Dit betekent dat tussen een certificaathouder en een aandeelhouder verschil in zeggenschap bestaat, maar dat de certificaathouder eenzelfde belang heeft bij de waardeontwikkeling van de aandelen als een aandeelhouder zou hebben. Waar in de volgende paragrafen van dit beleidskader van particuliere eigenaren wordt gesproken, worden daaronder ook steeds de NSW-aandeelhouders of de daaraan in de praktijk gelijk te stellen NSW-certificaathouders verstaan.
 
 ### 4. Uitvoerder
 
@@ -94,15 +102,17 @@ Dit beleidskader wordt namens de Minister voor Onderwijs, Cultuur en Wetenschap 
 
 In aanmerking voor subsidie komen de kosten die door particuliere eigenaren zijn gemaakt voor werkzaamheden, maatregelen en voorzieningen ten behoeve van de instandhouding van een rijksmonument met een woonfunctie. Voor een pand met een gedeeltelijke woonfunctie komen ook de kosten voor de overige onderdelen van het pand zonder woonfunctie voor subsidie in aanmerking. Bestaat een rijksmonument uit meerdere panden, dan komen voor subsidie de instandhoudingskosten in aanmerking die betrekking hebben op de panden met een (gedeeltelijke) woonfunctie. Instandhoudingskosten ten behoeve van een tot het rijksmonument met een woonfunctie behorende tuin komen in aanmerking voor subsidie voor zover de tuin in directe relatie staat tot de woonfunctie van het pand.
 
+In aanmerking voor subsidie komen de kosten die door particuliere eigenaren zijn gemaakt voor werkzaamheden, maatregelen en voorzieningen ten behoeve van de instandhouding van een rijksmonument met een woonfunctie. Voor een pand met een gedeeltelijke woonfunctie komen ook de kosten voor de overige onderdelen van het pand zonder woonfunctie voor subsidie in aanmerking. Bestaat een rijksmonument uit meerdere panden, dan komen voor subsidie de instandhoudingskosten in aanmerking die betrekking hebben op de panden met een (gedeeltelijke) woonfunctie. Instandhoudingskosten ten behoeve van een tot het rijksmonument met een woonfunctie behorende tuin komen in aanmerking voor subsidie voor zover de tuin in directe relatie staat tot de woonfunctie van het pand.
+
 Om te bepalen welke werkzaamheden subsidiabel zijn, wordt aangesloten bij de [bijlage van de Subsidieregeling instandhouding monumenten](onbekend) (hierna: de Sim), de [Leidraad subsidiabele instandhoudingskosten](onbekend) (hierna: de Leidraad). Hoofdstuk 1.1, onderdeel f, van de Leidraad is hierbij niet van toepassing. Ook hoeft er bij de aanvraag – anders dan bij de Sim – geen instandhoudingsplan te worden ingediend om voor subsidie in aanmerking te komen (zie voor de aanvraagvereisten nader paragraaf 6). Verder zijn de in de Leidraad om budgettaire redenen voor de Sim niet subsidiabel gestelde kosten voor groene monumenten (onderhoudswerkzaamheden met 'prioriteit 2' en restauratiewerkzaamheden) wel subsidiabel op grond van dit beleidskader als ze betrekking hebben op de tot een rijksmonument met een woonfunctie behorende tuin. In de Leidraad wordt concreet aangegeven welke werkzaamheden subsidiabel zijn. Hierbij geldt als algemeen uitgangspunt dat de werkzaamheden dienen te strekken tot de instandhouding van het rijksmonument en zijn monumentale waarden, dat de werkzaamheden sober en doelmatig en technisch noodzakelijk dienen te zijn, en dat de werkzaamheden gericht dienen te zijn op maximaal behoud van aanwezige monumentale waarden, in het bijzonder historische materialen en constructies. Ook werkzaamheden gericht op het voorkomen van verval of het voorkomen van vervolgschade zijn subsidiabel. Men kan daarbij denken aan schilderwerk, het herstel van voegen, het repareren of vervangen van goten en afvoeren, het vervangen van kapotte dakpannen, of het herstel van scheuren in het buitenpleisterwerk. De kosten van arbeidsuren van de eigenaar of een vrijwilliger zijn niet subsidiabel (zie nader hoofdstuk 1.2, onder ‘Zelfwerkzaamheid’, en hoofdstuk 1.3, onder 01.04, van de Leidraad).
 
 Particuliere eigenaren die in een bepaald jaar voor een rijksmonument voor meer dan € 70.000,– aan kosten subsidie aan willen vragen, kunnen voor aanvang van de werkzaamheden de RCE vragen te beoordelen welk gedeelte van deze kosten subsidiabel is op grond van de [Leidraad](onbekend). Voor een dergelijke beoordeling is in elk geval vereist dat er voldoende inzicht wordt gegeven in de voorgenomen werkzaamheden en dat er een inspectierapport wordt ingediend. Op www.cultureelerfgoed.nl wordt een formulier geplaatst waarvan hiervoor gebruik kan worden gemaakt. Paragraaf 6 bevat de eisen die aan een inspectierapport zijn gesteld. De beoordeling door de RCE heeft het karakter van een mededeling op basis van de dan beschikbare gegevens en is derhalve niet vatbaar voor bezwaar of beroep.
 
-De subsidie bedraagt 38% van de subsidiabele kosten. Indien het beschikbare bedrag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2022-02-17&g=2022-02-17), van het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten, in een bepaald kalenderjaar echter ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt dit subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
-
-Aanvragen komen niet voor subsidie in aanmerking voor zover voor de subsidiabele kosten waarop de aanvraag betrekking heeft, reeds een andere rijkssubsidie is verstrekt of voor zover daarvoor reeds een lening van het NRF is ontvangen. Voor werkzaamheden die in 2019 zijn uitgevoerd maar zijn betaald in 2018, kan geen subsidie worden aangevraagd. Voor de uitgaven voor deze werkzaamheden is de fiscale aftrek over het jaar 2018 nog van toepassing.
+De subsidie bedraagt 38% van de subsidiabele kosten. Indien het beschikbare bedrag, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041915&artikel=2&z=2023-04-29&g=2023-04-29), van het Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten, in een bepaald kalenderjaar echter ontoereikend is om alle daarvoor in aanmerking komende aanvragen toe te wijzen, wordt dit subsidiepercentage verlaagd tot het hoogst mogelijke percentage waarvoor alle daarvoor in aanmerking komende aanvragen binnen de grenzen van het beschikbare bedrag kunnen worden toegekend.
 
 ### 6. Subsidieaanvraag
+
+Aanvragers kunnen een aanvraag indienen in de periode van 1 maart tot en met 30 april, volgend op het kalenderjaar waarin de subsidiabele kosten zijn gemaakt.2De eerste aanvraagperiode is derhalve van 1 maart tot en met 30 april 2020. Aanvragen die worden ingediend buiten de aanvraagperiode worden afgewezen. Om te bepalen in welk jaar de subsidiabele kosten zijn gemaakt, is de factuur bepalend. Uit de factuur moet blijken in welk jaar de werkzaamheden zijn uitgevoerd.
 
 Aanvragers kunnen een aanvraag indienen in de periode van 1 maart tot en met 30 april, volgend op het kalenderjaar waarin de subsidiabele kosten zijn gemaakt.2De eerste aanvraagperiode is derhalve van 1 maart tot en met 30 april 2020. Aanvragen die worden ingediend buiten de aanvraagperiode worden afgewezen. Om te bepalen in welk jaar de subsidiabele kosten zijn gemaakt, is de factuur bepalend. Uit de factuur moet blijken in welk jaar de werkzaamheden zijn uitgevoerd.
 
@@ -116,13 +126,11 @@ Bij meerdere appartementen in één rijksmonument is het mogelijk dat de werkzaa
 
 Een NSW-aandeelhouder dient bij zijn aanvraag te verklaren dat hij aandeelhouder is van een NSW-NV of NSW-BV die voldoet aan de fiscale eisen, genoemd in [artikel 23 van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=23) (zie nader paragraaf 3). Daarbij geldt – net als bij de voornoemde appartementseigenaren – dat voor een NSW-aandeelhouder die zelfstandig een aanvraag doet het enkel aanleveren van gespecificeerde facturen niet voldoende is. Een NSW-aandeelhouder dient tevens in zijn aanvraag te specificeren (i) wat de totale kosten van de instandhoudingswerkzaamheden zijn, en (ii) wat zijn aandeel is in de NSW-NV of NSW-BV, die het desbetreffende landgoed in eigendom heeft.
 
-Ten behoeve van het doen van de subsidieaanvraag is een online-portaal ingericht, dat is te bereiken via www.cultureelerfgoed.nl. Een aanvraag wordt elektronisch ingediend bij de RCE met gebruikmaking van het online-aanvraagformulier, dat op het portaal beschikbaar is gesteld. Met gebruikmaking van het online-aanvraagformulier geeft de aanvrager per factuur aan op welke kosten uit de [Leidraad](onbekend) zijn aanvraag betrekking heeft.
-
 ### 7. Beoordeling
 
 De RCE beoordeelt of de subsidieaanvraag volledig is (zie nader paragraaf 6). In dit kader beoordeelt de RCE of uit de aanvraag en de bijgesloten stukken voldoende duidelijk blijkt welke subsidiabele kosten zijn gemaakt, en wat de hoogte is van de gemaakte subsidiabele kosten. Daarnaast beoordeelt de RCE – bij aanvragen die betrekking hebben op meer dan € 70.000,– aan kosten – of een inspectierapport is bijgesloten dat voldoet aan de eisen die daaraan in paragraaf 6 zijn gesteld.
 
-In het kader van de beoordeling van de aanvraag kan de RCE nader onderzoek doen naar de aanvraag. De RCE kan bijvoorbeeld bij de aanvrager aanvullende bescheiden opvragen ter nadere ondersteuning van zijn aanvraag, zoals bankafschriften of andere betaalbewijzen, facturen, overeenkomsten, of foto’s van vóór en na de verrichting van de werkzaamheden. Het gaat om bescheiden waaruit blijkt dat de werkzaamheden waarop de aanvraag betrekking heeft zijn verricht en aan de hand waarvan kan worden beoordeeld in hoeverre de uitgevoerde werkzaamheden subsidiabel zijn op grond van de [Leidraad](onbekend) (zie nader paragraaf 5). De aanvrager dient ervoor te zorgen dat hij over deze documenten en foto’s beschikt.
+De RCE beoordeelt of de subsidieaanvraag volledig is (zie nader paragraaf 6). In dit kader beoordeelt de RCE of uit de aanvraag en de bijgesloten stukken voldoende duidelijk blijkt welke subsidiabele kosten zijn gemaakt, en wat de hoogte is van de gemaakte subsidiabele kosten. Daarnaast beoordeelt de RCE – bij aanvragen die betrekking hebben op meer dan € 70.000,– aan kosten – of een inspectierapport is bijgesloten dat voldoet aan de eisen die daaraan in paragraaf 6 zijn gesteld.
 
 ### 8. Afwijzingsgronden
 
@@ -140,9 +148,67 @@ Dit beleidskader heeft geen betrekking op Caribisch Nederland.
 
 Met de uitvoering van deze regeling zijn administratieve lasten gemoeid voor particuliere eigenaren. Onder administratieve lasten wordt verstaan: de kosten om te voldoen aan informatieverplichtingen aan de overheid, voortvloeiend uit wet- en regelgeving van de overheid.
 
+Met de uitvoering van deze regeling zijn administratieve lasten gemoeid voor particuliere eigenaren. Onder administratieve lasten wordt verstaan: de kosten om te voldoen aan informatieverplichtingen aan de overheid, voortvloeiend uit wet- en regelgeving van de overheid.
+
 Tot en met 2018 kon een particuliere eigenaar de onderhoudskosten van zijn rijksmonument onder voorwaarden aftrekken in zijn aangifte inkomstenbelasting. Deze fiscale aftrek van uitgaven voor monumentenpanden is met ingang van 1 januari 2019 vervallen. De administratieve lasten voor de subsidieaanvraag op basis van dit beleidskader liggen voor particuliere eigenaren iets hoger dan bij de vervallen fiscale monumentenaftrek het geval was. De monumentenaftrek was onderdeel van de jaarlijks terugkerende aangifte inkomstenbelasting, terwijl voor de subsidie op grond van dit beleidskader een afzonderlijke aanvraag moet worden ingediend. Daarbij komt dat particuliere eigenaren – anders dan bij de fiscale monumentenaftrek – bij hun subsidieaanvraag ook direct stukken moeten aanleveren waaruit blijkt dat de subsidiabele kosten daadwerkelijk zijn gemaakt (zie nader onder 6).
 
 De bijkomende administratieve lasten voor particuliere eigenaren die minder dan € 70.000 aan kosten opvoeren zijn echter relatief gering. Naar verwachting zal een particuliere eigenaar ongeveer één uur nodig hebben voor het aanvragen van subsidie op grond van dit beleidskader. Het gaat hierbij primair om het invullen van het online-aanvraagformulier, maar ook om het eventueel op verzoek aanleveren van aanvullende documenten ter nadere ondersteuning van de aanvraag. Uitgaande van een verwacht aantal aanvragen van 13.000 per kalenderjaar bedragen de totale administratieve lasten per kalenderjaar 13.000 x € 15 (uurtarief) x 1 (uur) = € 195.000.
+
+### 12. Uitvoeringstoets
+
+De RCE heeft dit beleidskader als uitvoerbaar beoordeeld.
+
+Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
+
+##### Artikel 3a. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+
+De [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.2) en [7.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.3) zijn niet van toepassing op dit besluit.
+
+## Beleidskader instandhoudingssubsidie woonhuis-rijksmonumenten
+
+De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) (hierna: de Kaderregeling) is op dit beleidskader van toepassing. In de Kaderregeling staan de algemene regels die ook in dit geval op de subsidieverstrekking door de Minister van Onderwijs, Cultuur en Wetenschap van toepassing zijn. Dit beleidskader valt onder het Staatssteunkader voor monumentenzorg, waarvan overeenkomstig de Algemene groepsvrijstellingsverordening aan de Europese Commissie is kennisgegeven (kenmerk SA 40475).
+
+### 1. Aanleiding
+
+Met ingang van 1 januari 2019 is de [Wet fiscale maatregel rijksmonumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0041747) in werking getreden. Met de inwerkingtreding van deze wet is de fiscale aftrek van uitgaven voor rijksmonumentenpanden in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) (hierna: de fiscale aftrek) vervallen. De Minister van Onderwijs, Cultuur en Wetenschap heeft de keuze voor het vervallen van de fiscale aftrek en het structureel toevoegen van de budgettaire middelen aan de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap voor de instandhouding van rijksmonumenten toegelicht in de brief aan de Tweede Kamer van 22 juni 2018 (Kamerstukken II 2017/18, 32 820, nr. 248).
+
+### 2. Doel
+
+Ook met het vervallen van de fiscale aftrek blijft monumentenonderhoud onverminderd van belang. Teneinde het monumentenonderhoud met ingang van 2019 te blijven ondersteunen biedt dit beleidskader – dat is gegrond op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) – beleidsregels voor de verstrekking van subsidie voor de instandhouding van rijksmonumenten met een woonfunctie.
+
+### 3. Doelgroep
+
+Natuurlijk is het mogelijk dat een aanvraag wordt gedaan door een bevoegd vertegenwoordiger van één of meer particuliere eigenaren. Het kan hierbij bijvoorbeeld gaan om een vereniging van eigenaars die een subsidieaanvraag doet namens de verschillende particuliere eigenaren die ten aanzien van het desbetreffende rijksmonument een appartementsrecht hebben. Bij NSW-aandeelhouders kan door de desbetreffende NSW-NV of NSW-BV namens de NSW-aandeelhouders een subsidieaanvraag worden gedaan. Vanzelfsprekend is hierbij vereist dat de particuliere eigenaren of NSW-aandeelhouders rechtsgeldig worden vertegenwoordigd (bijvoorbeeld krachtens een statutaire vertegenwoordigingsbevoegdheid of krachtens een afzonderlijk gegeven machtiging).
+
+### 4. Uitvoerder
+
+Dit beleidskader wordt namens de Minister voor Onderwijs, Cultuur en Wetenschap (hierna: de minister) uitgevoerd door de Rijksdienst voor het Cultureel Erfgoed (hierna: de RCE). De uitbetaling geschiedt door de Stichting Nationaal Restauratiefonds (hierna: het NRF).
+
+### 5. Hoogte subsidiebedrag en wijze van verdeling
+
+Aanvragen komen niet voor subsidie in aanmerking voor zover voor de subsidiabele kosten waarop de aanvraag betrekking heeft, reeds een andere rijkssubsidie is verstrekt of voor zover daarvoor reeds een lening van het NRF is ontvangen. Voor werkzaamheden die in 2019 zijn uitgevoerd maar zijn betaald in 2018, kan geen subsidie worden aangevraagd. Voor de uitgaven voor deze werkzaamheden is de fiscale aftrek over het jaar 2018 nog van toepassing.
+
+### 6. Subsidieaanvraag
+
+Ten behoeve van het doen van de subsidieaanvraag is een online-portaal ingericht, dat is te bereiken via www.cultureelerfgoed.nl. Een aanvraag wordt elektronisch ingediend bij de RCE met gebruikmaking van het online-aanvraagformulier, dat op het portaal beschikbaar is gesteld. Met gebruikmaking van het online-aanvraagformulier geeft de aanvrager per factuur aan op welke kosten uit de [Leidraad](onbekend) zijn aanvraag betrekking heeft.
+
+### 7. Beoordeling
+
+In het kader van de beoordeling van de aanvraag kan de RCE nader onderzoek doen naar de aanvraag. De RCE kan bijvoorbeeld bij de aanvrager aanvullende bescheiden opvragen ter nadere ondersteuning van zijn aanvraag, zoals bankafschriften of andere betaalbewijzen, facturen, overeenkomsten, of foto’s van vóór en na de verrichting van de werkzaamheden. Het gaat om bescheiden waaruit blijkt dat de werkzaamheden waarop de aanvraag betrekking heeft zijn verricht en aan de hand waarvan kan worden beoordeeld in hoeverre de uitgevoerde werkzaamheden subsidiabel zijn op grond van de [Leidraad](onbekend) (zie nader paragraaf 5). De aanvrager dient ervoor te zorgen dat hij over deze documenten en foto’s beschikt.
+
+### 8. Afwijzingsgronden
+
+Een aanvraag voor subsidie wordt afgewezen als niet wordt voldaan aan het bepaalde in dit beleidskader. Aanvragen die worden ingediend buiten de aanvraagperiode worden afgewezen.
+
+### 9. Verlening, vaststelling en verantwoording
+
+De RCE besluit namens de minister binnen 13 weken na de sluiting van de aanvraagperiode op een subsidieaanvraag. Indien de aanvraag (al dan niet gedeeltelijk) wordt toegewezen, wordt de subsidie door de RCE namens de minister in het op de aanvraag te nemen besluit direct en zonder voorafgaande verlening vastgesteld. De subsidie wordt in één keer uitbetaald door het NRF.
+
+### 10. Caribisch Nederland
+
+Dit beleidskader heeft geen betrekking op Caribisch Nederland.
+
+### 11. Administratieve lasten
 
 De administratieve lasten voor particuliere eigenaren die meer dan € 70.000 aan kosten opvoeren zijn iets hoger. In het geval een particuliere eigenaar nog geen inspectierapport heeft, dient hij of zij dat rapport op te laten stellen. Dit zal naar verwachting ongeveer vijf uur tijd kosten. Het gaat hierbij primair om de opdrachtverlening (offertes opvragen, opdracht geven). Het gaat niet om het daadwerkelijk opstellen van het rapport zelf door een ter zake deskundige persoon of instantie. Uitgaande van een verwacht aantal aanvragen van 250 per kalenderjaar bedragen de totale administratieve lasten per kalenderjaar 250 x € 15 (uurtarief) x 5 (uur) = € 18.750.
 
