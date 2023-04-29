@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2023-01-31"
+last_updated: "2023-04-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2023-01-31&g=2023-01-31) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2023-04-29&g=2023-04-29) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2023-01-31&g=2023-01-31).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2023-04-29&g=2023-04-29).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2023-01-31&g=2023-01-31)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2023-04-29&g=2023-04-29)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -413,10 +413,17 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | **Certificaten voor keuzedelen vanaf januari 2023** | **Certificaten voor keuzedelen vanaf januari 2023** |
 | K1366 | Specialisatie vleeskalverhouderij |
 |   |   |
+| **Certificaten voor keuzedelen vanaf april 2023** | **Certificaten voor keuzedelen vanaf april 2023** |
+| K0664 | Basis restauratiewerk timmeren |
+| K0795 | Correctief onderhoud |
+| K1325 | Interne auditor voedingsindustrie |
+| K1341 | Verdieping industriële processen glasproductie |
+| K1238 | Verdieping maintenance voor de procesindustrie, geschikt voor niveau 3 |
+| K1240 | Verdieping operations voor de procesindustrie, geschikt voor niveau 3 |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2023-01-31&g=2023-01-31)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2023-04-29&g=2023-04-29)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -537,6 +544,13 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0119 | Optimaliseren van het logistieke proces | 25775 | Logistiek teamleider |
 | C0120 | Ruwbouw timmeren | 25829 | Timmerman |
 | C0121 | Samengestelde wapeningsconstructies maken | 25081 | Allround betonstaalverwerker bouwplaats |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf april 2023** | **Certificaten voor beroepsgerichte onderdelen vanaf april 2023** |   |   |
+| C0122 | Lakspuiten van één type ondergrond | 25010 | Industrieel lakverwerker |
+| C0123 | Ontwikkeling en spelen stimuleren in de kinderopvang | 25696 | Pedagogisch medewerker kinderopvang |
+| C0124 | Orders picken | 25774 | Logistiek medewerker |
+| C0125 | Pedagogisch klimaat in de kinderopvang | 25696 | Pedagogisch medewerker kinderopvang |
+| C0126 | Professioneel samenwerken en communiceren in de kinderopvang | 25696 | Pedagogisch medewerker kinderopvang |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
