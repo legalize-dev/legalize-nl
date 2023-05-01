@@ -4,7 +4,7 @@ identifier: "BWBR0041860"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041860"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2023-01-01&g=2023-01-01);
+- **commissie:** Tijdelijke adviescommissie regionaal investeringsfonds mbo, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=2&z=2023-05-01&g=2023-05-01);
 
 - **regeling:** [Regeling regionaal investeringsfonds mbo 2019–2022](https://wetten.overheid.nl/jci1.3:c:BWBR0041553).
 
@@ -56,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie wordt ingesteld met ingang van 1 januari 2019 en wordt opgeheven met ingang van 1 januari 2026.
 
-3. Leden van de commissie zijn ook na 1 januari 2026 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2023-01-01&g=2023-01-01) genoemde taken van de commissie.
+3. Leden van de commissie zijn ook na 1 januari 2026 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041860&artikel=3&z=2023-05-01&g=2023-05-01) genoemde taken van de commissie.
 
 ##### Artikel 3. Taken
 
@@ -116,13 +116,19 @@ Tot leden van de commissie worden benoemd:
 
 - d. de heer E. van den Berg te Vijfhuizen;
 
-- e. de heer T.A.J.M. Ariëns te Vaals;
+- e. mevrouw dr. A.M.C. Sluijter te Oegstgeest;
 
-- f. mevrouw dr. A.M.C. Sluijter te Oegstgeest;
+- f. mevrouw M. Wagner te Zandvoort;
 
-- g. mevrouw M. Wagner te Zandvoort; en
+- g. de heer E. Berends te Haarlem;
 
-- h. de heer E. Berends te Haarlem.
+- h. mevrouw C.M.C. van Berkel te Rotterdam;
+
+- i. de heer P.W. van Amersfoort te Amsterdam;
+
+- j. de heer H.A. Lukken te Assen; en
+
+- k. de heer J.A.L.M. van Erp te ’s-Hertogenbosch.
 
 ##### Artikel 7. Secretariaat
 
