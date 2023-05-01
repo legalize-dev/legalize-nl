@@ -4,7 +4,7 @@ identifier: "BWBR0001905"
 country: "nl"
 rank: "wet"
 publication_date: "2023-05-01"
-last_updated: "2021-07-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001905"
 soort: "wet"
@@ -56,7 +56,7 @@ Overtreding van verordeningen, krachtens het voorgaande artikel vastgesteld, wor
 
 ##### Artikel 4
 
-Met betrekking tot overzetveren, gelegen in andere dan de ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=I&artikel=2&z=2021-07-01&g=2021-07-01) aangeduide wateren, komt de bevoegdheid tot regeling, omschreven in dat artikel, toe aan den raad der gemeente, binnen welke het veer wordt uitgeoefend.
+Met betrekking tot overzetveren, gelegen in andere dan de ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=I&artikel=2&z=2023-05-01&g=2023-05-01) aangeduide wateren, komt de bevoegdheid tot regeling, omschreven in dat artikel, toe aan den raad der gemeente, binnen welke het veer wordt uitgeoefend.
 
 ##### Artikel 5
 
@@ -108,7 +108,7 @@ Het veerrecht gaat te niet door feitelijke verlating van het veer door den gerec
 
 Gedeputeerde Staten van de provincie of de provinciën, waarin het veer is gelegen, kunnen het veerrecht vervallen verklaren:
 
-- 1°. indien binnen een jaar, nadat Gedeputeerde Staten, naar aanleiding van bij hen ingekomen klachten, hebben aangedrongen op getrouwe naleving van de [artt. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=10&z=2021-07-01&g=2021-07-01), meer dan eens in strijd is gehandeld met die artikelen;
+- 1°. indien binnen een jaar, nadat Gedeputeerde Staten, naar aanleiding van bij hen ingekomen klachten, hebben aangedrongen op getrouwe naleving van de [artt. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=9&z=2023-05-01&g=2023-05-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=10&z=2023-05-01&g=2023-05-01), meer dan eens in strijd is gehandeld met die artikelen;
 
 - 2°. indien het veer niet dagelijks of niet voldoende wordt bediend;
 
@@ -118,11 +118,11 @@ Gedeputeerde Staten van de provincie of de provinciën, waarin het veer is geleg
 
 ##### Artikel 14
 
-1. Vervallenverklaring op de in [art. 13 onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=13&z=2021-07-01&g=2021-07-01) omschreven gronden kan niet worden uitgesproken, indien de gerechtigde tot het veerrecht aantoont, dat hij aan de verboden handelingen of aan het niet dagelijks of niet voldoende bedienen van het veer naar redelijkheid geen schuld heeft.
+1. Vervallenverklaring op de in [art. 13 onder 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=13&z=2023-05-01&g=2023-05-01) omschreven gronden kan niet worden uitgesproken, indien de gerechtigde tot het veerrecht aantoont, dat hij aan de verboden handelingen of aan het niet dagelijks of niet voldoende bedienen van het veer naar redelijkheid geen schuld heeft.
 
-2. Vervallenverklaring op de in a[rt. 13 onder 2, 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=13&z=2021-07-01&g=2021-07-01) omschreven gronden kan slechts worden uitgesproken, indien de gerechtigde tot het veerrecht aan een bevel tot betere bediening van het veer, verbetering der toegangen of beter onderhoud van de brug geen gevolg heeft gegeven binnen een daarbij gestelden bekwamen termijn.
+2. Vervallenverklaring op de in a[rt. 13 onder 2, 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=13&z=2023-05-01&g=2023-05-01) omschreven gronden kan slechts worden uitgesproken, indien de gerechtigde tot het veerrecht aan een bevel tot betere bediening van het veer, verbetering der toegangen of beter onderhoud van de brug geen gevolg heeft gegeven binnen een daarbij gestelden bekwamen termijn.
 
-3. Op dezelfde wijze moet op getrouwe naleving van de [artt. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=10&z=2021-07-01&g=2021-07-01) zijn aangedrongen, om tot toepassing van [art. 13 onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=13&z=2021-07-01&g=2021-07-01), te kunnen overgaan.
+3. Op dezelfde wijze moet op getrouwe naleving van de [artt. 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=9&z=2023-05-01&g=2023-05-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=10&z=2023-05-01&g=2023-05-01) zijn aangedrongen, om tot toepassing van [art. 13 onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=13&z=2023-05-01&g=2023-05-01), te kunnen overgaan.
 
 ##### Artikel 15
 
@@ -132,7 +132,7 @@ Gedeputeerde Staten van de provincie of de provinciën, waarin het veer is geleg
 
 ##### Artikel 16
 
-De uitspraak in een tegen een besluit als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=13&z=2021-07-01&g=2021-07-01) ingesteld beroep wordt bekendgemaakt overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=15&z=2021-07-01&g=2021-07-01).
+De uitspraak in een tegen een besluit als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=13&z=2023-05-01&g=2023-05-01) ingesteld beroep wordt bekendgemaakt overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=15&z=2023-05-01&g=2023-05-01).
 
 ##### Artikel 17
 
@@ -176,11 +176,11 @@ Is met hen, die aangifte hebben gedaan, eene overeenkomst over de schadeloosstel
 
 1. Bij gebreke van een overeenkomst als in het voorgaande artikel bedoeld, kan het veerrecht worden opgeheven, indien voor de voldoening der schadeloosstellingen zekerheid is gesteld of zij, die aangifte hebben gedaan, van het recht om zekerheidstelling te vorderen afstand hebben gedaan.
 
-2. Het bedrag en de aard der te stellen zekerheid worden bij overeenkomst met hen, die aangifte hebben gedaan, geregeld of op de wijze van [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=27&z=2021-07-01&g=2021-07-01) bepaald.
+2. Het bedrag en de aard der te stellen zekerheid worden bij overeenkomst met hen, die aangifte hebben gedaan, geregeld of op de wijze van [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=27&z=2023-05-01&g=2023-05-01) bepaald.
 
 ##### Artikel 23
 
-Buiten de gevallen in de [artt. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=20&z=2021-07-01&g=2021-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=21&z=2021-07-01&g=2021-07-01) voorzien, wordt, naar gelang de opheffing ingevolge een door Ons of een door Gedeputeerde Staten genomen besluit geschiedt, door het Rijk of Gedeputeerde Staten van de provincie of provinciën tegen hen, die aangifte hebben gedaan, eene rechtsvordering ingesteld strekkende tot bepaling van het bedrag, dat als schadeloosstelling voor het veerrecht moet worden betaald, en tot beslissing aan wie der verweerders of eventueel tusschengekomen partijen dat bedrag of een aan te wijzen deel daarvan moet worden uitgekeerd.
+Buiten de gevallen in de [artt. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=20&z=2023-05-01&g=2023-05-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=21&z=2023-05-01&g=2023-05-01) voorzien, wordt, naar gelang de opheffing ingevolge een door Ons of een door Gedeputeerde Staten genomen besluit geschiedt, door het Rijk of Gedeputeerde Staten van de provincie of provinciën tegen hen, die aangifte hebben gedaan, eene rechtsvordering ingesteld strekkende tot bepaling van het bedrag, dat als schadeloosstelling voor het veerrecht moet worden betaald, en tot beslissing aan wie der verweerders of eventueel tusschengekomen partijen dat bedrag of een aan te wijzen deel daarvan moet worden uitgekeerd.
 
 ##### Artikel 24
 
@@ -188,43 +188,23 @@ De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.o
 
 ##### Artikel 25
 
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+1. De rechtsvordering wordt aangebracht bij de rechtbank of een van de rechtbanken binnen het rechtsgebied waarvan het veer geheel of ten dele is gelegen.
 
-1. De rechtsvordering wordt aangebracht bij de rechtbank of een der rechtbanken binnen wier rechtsgebied het veer geheel of ten deele is gelegen.
-
-2. Indien een van de op te roepen personen buiten het Koninkrijk woont, geen bekende woonplaats heeft, of vóór of na het indienen van de procesinleiding overlijdt, wordt het geding gevoerd of voortgezet tegen een bijzonderen bewindvoerder ten verzoeke van den eischer te benoemen door de rechtbank, bij welke de vordering wordt aangebracht.
+2. Indien een van de te dagvaarden personen buiten het Koninkrijk woont, geen bekende woonplaats heeft, of vóór of na de dagvaarding overlijdt, wordt het geding gevoerd of voortgezet tegen een bijzondere bewindvoerder die op verzoek van de eiser wordt benoemd door de rechtbank waarbij de vordering wordt aangebracht.
 
 3. De bewindvoerder moet wonen binnen het rechtsgebied van deze rechtbank en geniet het loon van een bewindvoerder van een afwezige.
 
-4. Hij die door den bewindvoerder vertegenwoordigd wordt, is steeds bevoegd het geding van den bewindvoerder over te nemen en dezen buiten het geding te doen stellen.
-
-Voor overige gevallen luidt het artikel als volgt:
-
-1. De rechtsvordering wordt aangebracht bij de rechtbank of een der rechtbanken binnen wier rechtsgebied het veer geheel of ten deele is gelegen.
-
-2. Indien een der te dagvaarden personen buiten het Koninkrijk woont, geen bekende woonplaats heeft, of vóór of na de dagvaarding overlijdt, wordt het geding gevoerd of voortgezet tegen een bijzonderen bewindvoerder ten verzoeke van den eischer te benoemen door de rechtbank, bij welke de vordering wordt aangebracht.
-
-3. De bewindvoerder moet wonen binnen het rechtsgebied van deze rechtbank en geniet het loon van een bewindvoerder van een afwezige.
-
-4. Hij die door den bewindvoerder vertegenwoordigd wordt, is steeds bevoegd het geding van den bewindvoerder over te nemen en dezen buiten het geding te doen stellen.
+4. Hij die door de bewindvoerder vertegenwoordigd wordt, is steeds bevoegd het geding van de bewindvoerder over te nemen en deze buiten het geding te doen stellen.
 
 ##### Artikel 26
 
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
-
-1. De procesinleiding moet op straffe van nietigheid de som vermelden, welke als schadeloosstelling voor de opheffing van het veerrecht wordt aangeboden.
-
-2. Maakt de eischer gebruik van de bevoegdheid hem bij [art. 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=28&z=2021-07-01&g=2021-07-01) verleend, dan geldt dit aanbod slechts voor het geval, dat het bestaan van het veerrecht door den rechter wordt erkend.
-
-Voor overige gevallen luidt het artikel als volgt:
-
 1. De dagvaarding moet op straffe van nietigheid de som vermelden, welke als schadeloosstelling voor de opheffing van het veerrecht wordt aangeboden.
 
-2. Maakt de eischer gebruik van de bevoegdheid hem bij [art. 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=28&z=2021-07-01&g=2021-07-01) verleend, dan geldt dit aanbod slechts voor het geval, dat het bestaan van het veerrecht door den rechter wordt erkend.
+2. Maakt de eiser gebruik van de bevoegdheid hem bij [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=28&z=2023-05-01&g=2023-05-01) verleend, dan geldt dit aanbod slechts voor het geval, dat het bestaan van het veerrecht door de rechter wordt erkend.
 
 ##### Artikel 27
 
-1. De eischer kan bij voorraad vorderen, dat de rechtbank voor alles de bedragen vaststelle, welke tot waarborg voor de voldoening der schadeloosstellingen zullen behooren te worden geconsigneerd, om tot opheffing van het veerrecht krachtens [art. 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=22&z=2021-07-01&g=2021-07-01) te kunnen overgaan. Bij de vaststelling van die bedragen zal de rechtbank zich houden aan het aangeboden bedrag, bijaldien dit niet met hooger vraag bestreden wordt, en anders aan het hoogste bedrag dat voor schadeloosstelling wordt gevorderd, behoudens hare bevoegdheid tot vermindering, indien het gevorderde haar bovenmatig voorkomt.
+1. De eischer kan bij voorraad vorderen, dat de rechtbank voor alles de bedragen vaststelle, welke tot waarborg voor de voldoening der schadeloosstellingen zullen behooren te worden geconsigneerd, om tot opheffing van het veerrecht krachtens [art. 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=22&z=2023-05-01&g=2023-05-01) te kunnen overgaan. Bij de vaststelling van die bedragen zal de rechtbank zich houden aan het aangeboden bedrag, bijaldien dit niet met hooger vraag bestreden wordt, en anders aan het hoogste bedrag dat voor schadeloosstelling wordt gevorderd, behoudens hare bevoegdheid tot vermindering, indien het gevorderde haar bovenmatig voorkomt.
 
 2. Tegen de beslissing der rechtbank staat geenerlei voorziening open.
 
@@ -238,21 +218,11 @@ Het verweerschrift moet het bedrag van de gevraagde schadeloosstelling vermelden
 
 ##### Artikel 30
 
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+De eis van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=23&z=2023-05-01&g=2023-05-01) en de vordering van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=27&z=2023-05-01&g=2023-05-01) worden afgewezen, wanneer niet ten minste drie dagen voor de dienende dag ter griffie van de rechtbank zijn neergelegd:
 
-De eisch van [art. 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=23&z=2021-07-01&g=2021-07-01) en de vordering van [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=27&z=2021-07-01&g=2021-07-01) worden afgewezen, wanneer niet ten minste drie dagen voor de dag waarop de verweerder ten laatste als verweerder kan verschijnen ter griffie van de rechtbank zijn ingediend:
+- 1°. het besluit tot opheffing bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=18&z=2023-05-01&g=2023-05-01);
 
-- 1°. het besluit tot opheffing bedoeld in [art. 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=18&z=2021-07-01&g=2021-07-01);
-
-- 2°. de mededeling, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=19&z=2021-07-01&g=2021-07-01).
-
-Voor overige gevallen luidt het artikel als volgt:
-
-De eisch van [art. 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=23&z=2021-07-01&g=2021-07-01) en de vordering van [art. 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=27&z=2021-07-01&g=2021-07-01) worden afgewezen, wanneer niet ten minste drie dagen voor den dienenden dag ter griffie van de rechtbank zijn nedergelegd:
-
-- 1°. het besluit tot opheffing bedoeld in [art. 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=18&z=2021-07-01&g=2021-07-01);
-
-- 2°. de mededeling, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=19&z=2021-07-01&g=2021-07-01).
+- 2°. de mededeling, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=19&z=2023-05-01&g=2023-05-01).
 
 ##### Artikel 31
 
@@ -306,7 +276,7 @@ Is met hen, die krachtens gewijsde gerechtigden zijn tot het veerrecht of het vr
 
 ##### Artikel 36
 
-Wordt een hernieuwd onderzoek van deskundigen bevolen, dan kan de rechtbank daarop de [artt. 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=34&z=2021-07-01&g=2021-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=35&z=2021-07-01&g=2021-07-01) van toepassing verklaren.
+Wordt een hernieuwd onderzoek van deskundigen bevolen, dan kan de rechtbank daarop de [artt. 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=34&z=2023-05-01&g=2023-05-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=35&z=2023-05-01&g=2023-05-01) van toepassing verklaren.
 
 ##### Artikel 37
 
@@ -320,57 +290,33 @@ Bij de vaststelling der schadeloosstelling wordt ook gelet op het verlies, dat m
 
 ##### Artikel 39
 
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+1. Van het als schadeloosstelling toegewezen bedrag is rente als in burgerlijke zaken verschuldigd van de dag dat het veerrecht is opgeheven.
 
-1. Van het als schadeloosstelling toegewezen bedrag is rente als in burgerlijke zaken verschuldigd van den dag dat het veerrecht is opgeheven.
-
-2. De kosten, veroorzaakt door het geschil over de schadeloosstelling, komen ten laste van den eischer, tenzij de rechtbank in de omstandigheden van het geding termen vinde om de kosten geheel of voor een deel te compenseeren, behoudens dat de kosten geheel door den verweerder worden gedragen, indien hem niet meer wordt toegewezen dan in de procesinleiding werd aangeboden.
-
-Voor overige gevallen luidt het artikel als volgt:
-
-1. Van het als schadeloosstelling toegewezen bedrag is rente als in burgerlijke zaken verschuldigd van den dag dat het veerrecht is opgeheven.
-
-2. De kosten, veroorzaakt door het geschil over de schadeloosstelling, komen ten laste van den eischer, tenzij de rechtbank in de omstandigheden van het geding termen vinde om de kosten geheel of voor een deel te compenseeren, behoudens dat de kosten geheel door den verweerder worden gedragen, indien hem niet meer wordt toegewezen dan bij dagvaarding werd aangeboden.
+2. De kosten, veroorzaakt door het geschil over de schadeloosstelling, komen ten laste van de eiser, tenzij de rechtbank in de omstandigheden van het geding termen vindt om de kosten geheel of voor een deel te compenseren, behoudens dat de kosten geheel door de verweerder worden gedragen, indien hem niet meer wordt toegewezen dan bij dagvaarding werd aangeboden.
 
 ##### Artikel 40
 
-Is, nadat het vonnis in gewijsde is gegaan, de toegewezen schadeloosstelling, vermeerderd met de bij het vonnis begroote kosten, waarin de eischer, en verminderd met die, waarin de verweerder is veroordeeld, betaald of geconsigneerd, dan wordt het veerrecht opgeheven, indien dat niet reeds heeft plaats gehad, vervalt de krachtens [art. 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=22&z=2021-07-01&g=2021-07-01) gestelde zekerheid, en verkrijgt de eischer weder de beschikking over het krachtens dat artikel geconsigneerde.
+Is, nadat het vonnis in gewijsde is gegaan, de toegewezen schadeloosstelling, vermeerderd met de bij het vonnis begroote kosten, waarin de eischer, en verminderd met die, waarin de verweerder is veroordeeld, betaald of geconsigneerd, dan wordt het veerrecht opgeheven, indien dat niet reeds heeft plaats gehad, vervalt de krachtens [art. 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=22&z=2023-05-01&g=2023-05-01) gestelde zekerheid, en verkrijgt de eischer weder de beschikking over het krachtens dat artikel geconsigneerde.
 
 ##### Artikel 41
 
-1. De pachter van het veer heeft recht op schadeloosstelling, indien op het tijdstip, waarop het veerrecht wordt opgeheven, de pacht nog loopende is krachtens eene overeenkomst te goeder trouw gesloten voordat de in [art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=19&z=2021-07-01&g=2021-07-01) omschreven bekendmaking plaats had, of wel ten gevolge van gebruikmaking van eene hem vóór die bekendmaking schriftelijk te goeder trouw verleende bevoegdheid, om de pacht na het einde van den loopenden huurtijd te doen voortduren.
+1. De pachter van het veer heeft recht op schadeloosstelling, indien op het tijdstip, waarop het veerrecht wordt opgeheven, de pacht nog loopende is krachtens eene overeenkomst te goeder trouw gesloten voordat de in [art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=19&z=2023-05-01&g=2023-05-01) omschreven bekendmaking plaats had, of wel ten gevolge van gebruikmaking van eene hem vóór die bekendmaking schriftelijk te goeder trouw verleende bevoegdheid, om de pacht na het einde van den loopenden huurtijd te doen voortduren.
 
 2. Bij de vaststelling dezer schadeloosstelling wordt ook gelet op de schade, die de pachter lijdt in de zaken, waarmede hij het veer bedient, op den tijd, dien de pacht te goeder trouw mocht verwacht worden na het tijdstip van opheffing van het veerrecht nog te zullen loopen, en mede op de, vóór genoemde bekendmaking aan den pachter schriftelijk te goeder trouw verleende bevoegdheid, om de pacht na het einde van den loopenden huurtijd te doen voortduren.
 
 ##### Artikel 42
 
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+1. Binnen een maand, nadat het besluit tot opheffing van het veerrecht is genomen, wordt door Onze Minister of door gedeputeerde staten in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=19&z=2023-05-01&g=2023-05-01) bedoeld, aan de pachter mededeling gedaan in hoeverre hem schadeloosstelling wordt aangeboden.
 
-1. Binnen ééne maand, nadat het besluit tot opheffing van het veerrecht is genomen, wordt door Onzen Minister of door Gedeputeerde Staten in [art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=19&z=2021-07-01&g=2021-07-01) bedoeld, aan den pachter mededeeling gedaan in hoeverre hem schadeloosstelling wordt aangeboden.
+2. Is die mededeling achterwege gebleven of neemt de pachter daarmede geen genoegen, dan kan hij hetzij vóór de dag bedoeld in de aanhef van [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=34&z=2023-05-01&g=2023-05-01) tussenkomen in het geding bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=23&z=2023-05-01&g=2023-05-01), indien dit gevoerd wordt, ten einde ook zijn schadeloosstelling te doen vaststellen, hetzij zijn eis zelfstandig aanbrengen bij de rechtbank, waarvoor gemeld geding gevoerd is of wordt, of gevoerd had kunnen worden.
 
-2. Is die mededeeling achterwege gebleven of neemt de pachter daarmede geen genoegen, dan kan hij hetzij vóór den dag bedoeld in den aanhef van [art. 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=34&z=2021-07-01&g=2021-07-01) tusschenkomen in het geding bedoeld in [art. 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=23&z=2021-07-01&g=2021-07-01), zoo dit gevoerd wordt, ten einde ook zijne schadeloosstelling te doen vaststellen, hetzij zijn eisch zelfstandig aanbrengen bij de rechtbank, waarvoor gemeld geding gevoerd is of wordt, of gevoerd had kunnen worden.
+3. In dit laatste geval moet de dagvaarding op straffe van nietigheid de som vermelden, die als schadeloosstelling wordt gevraagd, terwijl de conclusie van de verweerder de aangeboden som moet noemen.
 
-3. In dit laatste geval moet de procesinleiding op straffe van nietigheid de som vermelden, die als schadeloosstelling wordt gevraagd, terwijl het verweerschrift de aangeboden som moet noemen.
+4. De rechtbank zal alsdan kunnen bevelen dat geprocedeerd wordt overeenkomstig de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=34&z=2023-05-01&g=2023-05-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=35&z=2023-05-01&g=2023-05-01).
 
-4. De rechtbank zal alsdan kunnen bevelen, dat geprocedeerd worde overeenkomstig de [artt. 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=34&z=2021-07-01&g=2021-07-01) en [35 dezer wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=35&z=2021-07-01&g=2021-07-01).
+5. Het eerste lid van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=39&z=2023-05-01&g=2023-05-01) is op de schadeloosstelling van de pachter van toepassing.
 
-5. Het [eerste lid van art. 39](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=39&z=2021-07-01&g=2021-07-01) is op de schadeloosstelling van den pachter van toepassing.
-
-6. De kosten, veroorzaakt door het geschil over deze schadeloosstelling, komen ten laste van den verweerder, tenzij de rechtbank in de omstandigheden van het geding termen vinde om de kosten geheel of voor een deel te compenseeren, behoudens dat de kosten geheel door den eischer worden gedragen, indien hem niet meer wordt toegewezen dan in het verweerschrift werd aangeboden.
-
-Voor overige gevallen luidt het artikel als volgt:
-
-1. Binnen ééne maand, nadat het besluit tot opheffing van het veerrecht is genomen, wordt door Onzen Minister of door Gedeputeerde Staten in [art. 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=19&z=2021-07-01&g=2021-07-01) bedoeld, aan den pachter mededeeling gedaan in hoeverre hem schadeloosstelling wordt aangeboden.
-
-2. Is die mededeeling achterwege gebleven of neemt de pachter daarmede geen genoegen, dan kan hij hetzij vóór den dag bedoeld in den aanhef van [art. 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=34&z=2021-07-01&g=2021-07-01) tusschenkomen in het geding bedoeld in [art. 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=23&z=2021-07-01&g=2021-07-01), zoo dit gevoerd wordt, ten einde ook zijne schadeloosstelling te doen vaststellen, hetzij zijn eisch zelfstandig aanbrengen bij de rechtbank, waarvoor gemeld geding gevoerd is of wordt, of gevoerd had kunnen worden.
-
-3. In dit laatste geval moet de dagvaarding op straffe van nietigheid de som vermelden, die als schadeloosstelling wordt gevraagd, terwijl de conclusie van den verweerder de aangeboden som moet noemen.
-
-4. De rechtbank zal alsdan kunnen bevelen, dat geprocedeerd worde overeenkomstig de [artt. 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=34&z=2021-07-01&g=2021-07-01) en [35 dezer wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=35&z=2021-07-01&g=2021-07-01).
-
-5. Het [eerste lid van art. 39](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=39&z=2021-07-01&g=2021-07-01) is op de schadeloosstelling van den pachter van toepassing.
-
-6. De kosten, veroorzaakt door het geschil over deze schadeloosstelling, komen ten laste van den verweerder, tenzij de rechtbank in de omstandigheden van het geding termen vinde om de kosten geheel of voor een deel te compenseeren, behoudens dat de kosten geheel door den eischer worden gedragen, indien hem niet meer wordt toegewezen dan bij conclusie werd aangeboden.
+6. De kosten, veroorzaakt door het geschil over deze schadeloosstelling, komen ten laste van de verweerder, tenzij de rechtbank in de omstandigheden van het geding termen vindt om de kosten geheel of voor een deel te compenseren, behoudens dat de kosten geheel door de eiser worden gedragen, indien hem niet meer wordt toegewezen dan bij conclusie werd aangeboden.
 
 ##### Artikel 43
 
@@ -378,9 +324,9 @@ De bekendmaking van het besluit waarbij het veerrecht wordt opgeheven, geschiedt
 
 ##### Artikel 44
 
-1. Heeft de opheffing van het veerrecht ingevolge [art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=20&z=2021-07-01&g=2021-07-01) of [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=21&z=2021-07-01&g=2021-07-01) plaats gehad, dan blijven het Rijk, de provincie of de provinciën, naar gelang de opheffing plaats had krachten een besluit van Ons of van gedeputeerde staten van één of meer provinciën, verplicht tot schadeloosstelling van hen, die tot het veerrecht of het vruchtgebruik daarvan ten tijde der opheffing gerechtigd waren, en zulks bij opheffing ingevolge [art. 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=21&z=2021-07-01&g=2021-07-01), behoudens verhaal op degenen, die ten onrechte eene schadeloosstelling wegens de opheffing van het veerrecht hebben ontvangen, ten hoogste tot het bedrag, zonder bijberekening van renten, dat als schadeloosstelling aan deze is uitbetaald.
+1. Heeft de opheffing van het veerrecht ingevolge [art. 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=20&z=2023-05-01&g=2023-05-01) of [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=21&z=2023-05-01&g=2023-05-01) plaats gehad, dan blijven het Rijk, de provincie of de provinciën, naar gelang de opheffing plaats had krachten een besluit van Ons of van gedeputeerde staten van één of meer provinciën, verplicht tot schadeloosstelling van hen, die tot het veerrecht of het vruchtgebruik daarvan ten tijde der opheffing gerechtigd waren, en zulks bij opheffing ingevolge [art. 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=21&z=2023-05-01&g=2023-05-01), behoudens verhaal op degenen, die ten onrechte eene schadeloosstelling wegens de opheffing van het veerrecht hebben ontvangen, ten hoogste tot het bedrag, zonder bijberekening van renten, dat als schadeloosstelling aan deze is uitbetaald.
 
-2. Is geen der partijen in het krachtens [art. 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=23&z=2021-07-01&g=2021-07-01) gevoerde geding tot het veerrecht of het vruchtgebruik daarvan gerechtigd verklaard, dan blijft gelijke verplichting bestaan met betrekking tot die gerechtigden, welke geen partij waren in het gevoerde geding.
+2. Is geen der partijen in het krachtens [art. 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=2&artikel=23&z=2023-05-01&g=2023-05-01) gevoerde geding tot het veerrecht of het vruchtgebruik daarvan gerechtigd verklaard, dan blijft gelijke verplichting bestaan met betrekking tot die gerechtigden, welke geen partij waren in het gevoerde geding.
 
 3. In alle overige gevallen hebben zij, die ten tijde der opheffing gerechtigd waren tot het veerrecht of het vruchtgebruik daarvan, en geen schadeloosstelling hebben genoten, verhaal op degenen, die ten onrechte eene schadeloosstelling wegens de opheffing van het veerrecht hebben ontvangen, ten hoogste tot het bedrag, zonder bijberekening van renten, dat verhaal op degenen, die ten onrechte eene schadeloosstelling stelling, welke hun toekomt, meer bedraagt, kunnen zij vorderen van het Rijk, de provincie of de provinciën, naar gelang de opheffing plaats had krachtens een besluit van Ons of van de Staten van een of meer provinciën.
 
@@ -416,7 +362,7 @@ Bij opheffing van een in een brugrecht omgezet veerrecht zijn de kosten, die moe
 
 ##### Artikel 49
 
-1. Overtreding van [art. 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=9&z=2021-07-01&g=2021-07-01), en [art. 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=III&artikel=48&z=2021-07-01&g=2021-07-01), wordt gestraft met geldboete van de eerste categorie.
+1. Overtreding van [art. 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=II&paragraaf=1&artikel=9&z=2023-05-01&g=2023-05-01), en [art. 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001905&hoofdstuk=III&artikel=48&z=2023-05-01&g=2023-05-01), wordt gestraft met geldboete van de eerste categorie.
 
 2. De aldus strafbaar gestelde feiten worden beschouwd als overtredingen.
 
