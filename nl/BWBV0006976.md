@@ -4,7 +4,7 @@ identifier: "BWBV0006976"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-05-01"
-last_updated: "2022-10-26"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006976"
 soort: "verdrag"
@@ -86,7 +86,7 @@ De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen va
 
 - –. de federale en kantonnale gerechtelijke autoriteiten;
 
-- –. het Bundesamt für Strassen (ASTRA) treedt op als nationaal contactpunt met betrekking tot de geautomatiseerde doorgifte van gegevens overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=4&z=2022-10-26&g=2022-10-26) en [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2022-10-26&g=2022-10-26).
+- –. het Bundesamt für Strassen (ASTRA) treedt op als nationaal contactpunt met betrekking tot de geautomatiseerde doorgifte van gegevens overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=4&z=2023-05-01&g=2023-05-01) en [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2023-05-01&g=2023-05-01).
 
 - –. voor het Koninkrijk der Nederlanden, voor het Europese deel van Nederland:
 
@@ -96,17 +96,17 @@ De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen va
 
 - –. de ambtenaren bedoeld in het eerste lid van artikel 3 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften;
 
-- –. de minister van Justitie en Veiligheid, vertegenwoordigd door het Centraal Justitieel Incassobureau, ook exclusief aangewezen als de bevoegde autoriteit voor verzoeken overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=6&z=2022-10-26&g=2022-10-26).
+- –. de minister van Justitie en Veiligheid, vertegenwoordigd door het Centraal Justitieel Incassobureau, ook exclusief aangewezen als de bevoegde autoriteit voor verzoeken overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=6&z=2023-05-01&g=2023-05-01).
 
 ##### Artikel 4. Overdracht van gegevens over voertuigen en hun houders
 
-1. Gegevens over voertuigen en hun houders, zoals vermeld in [Annex A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2022-10-26&g=2022-10-26), die in de nationale voertuigregisters zijn opgenomen, mogen op verzoek van een partij worden overgedragen, voor zover dit nodig is voor de vervolging van verkeersovertredingen.
+1. Gegevens over voertuigen en hun houders, zoals vermeld in [Annex A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01), die in de nationale voertuigregisters zijn opgenomen, mogen op verzoek van een partij worden overgedragen, voor zover dit nodig is voor de vervolging van verkeersovertredingen.
 
 2. De gegevens worden overgedragen door middel van een geautomatiseerde procedure. Indien mogelijk wordt gebruikgemaakt van bestaande software-interfaces en -toepassingen. De gegevens worden overgedragen via de centrale voertuigregistratiebureaus, die als nationale contactpunten fungeren. De specificaties van de overdracht kunnen slechts met instemming van beide partijen worden gewijzigd.
 
-3. Een verzoek aan het nationale contactpunt van de andere partij moet de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2022-10-26&g=2022-10-26) vermelde gegevens bevatten. De verzoekende partij mag deze gegevens alleen gebruiken voor de vervolging van de betreffende verkeersovertreding.
+3. Een verzoek aan het nationale contactpunt van de andere partij moet de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01) vermelde gegevens bevatten. De verzoekende partij mag deze gegevens alleen gebruiken voor de vervolging van de betreffende verkeersovertreding.
 
-4. De nationale contactpunten moeten de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2022-10-26&g=2022-10-26), vermelde informatie bij de hand hebben om verzoeken te kunnen verwerken.
+4. De nationale contactpunten moeten de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01), vermelde informatie bij de hand hebben om verzoeken te kunnen verwerken.
 
 ##### Artikel 5. Geven van bekeuringen
 
@@ -134,13 +134,13 @@ De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen va
 
 - d. de betrokken natuurlijke persoon is een ingezetene van de aangezochte partij of de betrokken rechtspersoon heeft zijn statutaire zetel in de aangezochte partij.
 
-2. De bekeuring waarvoor het verzoek wordt ingediend, wordt tezamen met het ingevulde standaardformulier als bedoeld in de [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=C&z=2022-10-26&g=2022-10-26), en alle daaropvolgende mededelingen, rechtstreeks in het Engels aan de bevoegde autoriteiten van de aangezochte partij toegezonden.
+2. De bekeuring waarvoor het verzoek wordt ingediend, wordt tezamen met het ingevulde standaardformulier als bedoeld in de [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=C&z=2023-05-01&g=2023-05-01), en alle daaropvolgende mededelingen, rechtstreeks in het Engels aan de bevoegde autoriteiten van de aangezochte partij toegezonden.
 
 3. De verzoekende partij handhaaft de bekeuring niet of blijft deze niet handhaven totdat de aangezochte partij het verzoek heeft afgewezen of heeft meegedeeld dat de handhaving niet is geslaagd.
 
 ##### Artikel 7. Weigeringsgronden, reikwijdte en beëindiging van de uitvoering
 
-1. Een verzoek overeenkomstig het eerste lid van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=6&z=2022-10-26&g=2022-10-26) wordt geweigerd in geval van:
+1. Een verzoek overeenkomstig het eerste lid van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=6&z=2023-05-01&g=2023-05-01) wordt geweigerd in geval van:
 
 - a. beslissingen waarbij celstraf als hoofdstraf wordt opgelegd;
 
@@ -186,7 +186,7 @@ De kosten van maatregelen uit hoofde van dit Verdrag komen niet ten laste van de
 
 ##### Artikel 10. Regeling inzake de uitvoering
 
-De bevoegde autoriteiten van de partijen zijn gemachtigd de samenwerking in het kader van dit Verdrag op administratief en technisch niveau te regelen in een bilaterale regeling. In de bilaterale regeling kan worden bepaald dat de gegevensvelden in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2022-10-26&g=2022-10-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2022-10-26&g=2022-10-26) en [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=C&z=2022-10-26&g=2022-10-26) worden gewijzigd indien dit noodzakelijk is voor een goede uitvoering van dit Verdrag.
+De bevoegde autoriteiten van de partijen zijn gemachtigd de samenwerking in het kader van dit Verdrag op administratief en technisch niveau te regelen in een bilaterale regeling. In de bilaterale regeling kan worden bepaald dat de gegevensvelden in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2023-05-01&g=2023-05-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=C&z=2023-05-01&g=2023-05-01) worden gewijzigd indien dit noodzakelijk is voor een goede uitvoering van dit Verdrag.
 
 ##### Artikel 11. Verenigbaarheidsbepaling
 
@@ -210,7 +210,7 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag uitsluitend van toepa
 
 ##### Artikel 15. Voorlopige toepassing
 
-De partijen zullen [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=4&z=2022-10-26&g=2022-10-26) in combinatie met [Annex A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2022-10-26&g=2022-10-26) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=3&z=2022-10-26&g=2022-10-26) in combinatie met [Annex B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2022-10-26&g=2022-10-26) voorlopig toepassen voor de overdracht van gegevens over voertuigen en hun houders vanaf de datum van ondertekening van dit Verdrag.
+De partijen zullen [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=4&z=2023-05-01&g=2023-05-01) in combinatie met [Annex A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=3&z=2023-05-01&g=2023-05-01) in combinatie met [Annex B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2023-05-01&g=2023-05-01) voorlopig toepassen voor de overdracht van gegevens over voertuigen en hun houders vanaf de datum van ondertekening van dit Verdrag.
 
 ##### Artikel 16. Inwerkingtreding en beëindiging
 
