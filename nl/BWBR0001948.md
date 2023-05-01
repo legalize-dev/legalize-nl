@@ -4,7 +4,7 @@ identifier: "BWBR0001948"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001948"
 soort: "wet"
@@ -106,7 +106,7 @@ Een weg heeft opgehouden openbaar te zijn:
 
 ##### Artikel 9
 
-1. Een weg, niet behoorende tot de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=8&z=2023-01-01&g=2023-01-01) bedoelde, kan aan het openbaar verkeer worden onttrokken bij een besluit van den raad der gemeente, waarin de weg is gelegen.
+1. Een weg, niet behoorende tot de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=8&z=2023-05-01&g=2023-05-01) bedoelde, kan aan het openbaar verkeer worden onttrokken bij een besluit van den raad der gemeente, waarin de weg is gelegen.
 
 2. Het besluit, bedoeld in het eerste lid, wordt meegedeeld aan Gedeputeerde Staten.
 
@@ -116,7 +116,7 @@ Vervallen
 
 ##### Artikel 11
 
-1. Ieder belanghebbende bij een weg, niet behoorende tot de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=8&z=2023-01-01&g=2023-01-01) bedoelde, heeft het recht aan den raad der gemeente, waarin de weg is gelegen ten opzichte van dien weg toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=9&z=2023-01-01&g=2023-01-01) te verzoeken.
+1. Ieder belanghebbende bij een weg, niet behoorende tot de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=8&z=2023-05-01&g=2023-05-01) bedoelde, heeft het recht aan den raad der gemeente, waarin de weg is gelegen ten opzichte van dien weg toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=9&z=2023-05-01&g=2023-05-01) te verzoeken.
 
 2. Op de voorbereiding van de beslissing op het verzoek is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
@@ -140,7 +140,7 @@ Van een uitspraak in beroep waarbij een weg aan het openbaar verkeer wordt onttr
 
 ##### Artikel 14
 
-1. Behoudens de beperkingen in het gebruik, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2023-01-01&g=2023-01-01) en behoudens het bepaalde bij het volgend lid, hebben de rechthebbende op en de onderhoudplichtige van een weg alle verkeer over den weg te dulden.
+1. Behoudens de beperkingen in het gebruik, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2023-05-01&g=2023-05-01) en behoudens het bepaalde bij het volgend lid, hebben de rechthebbende op en de onderhoudplichtige van een weg alle verkeer over den weg te dulden.
 
 2. De rechthebbende op en de onderhoudplichtige van een tot den weg behoorenden berm hebben alle verkeer over den berm te dulden, voor zoover het door omstandigheden wordt gebillijkt.
 
@@ -168,7 +168,7 @@ Van een uitspraak in beroep waarbij een weg aan het openbaar verkeer wordt onttr
 
 ##### Artikel 16
 
-De gemeente heeft te zorgen, dat de binnen haar gebied liggende wegen, met uitzondering van de wegen, welke door het Rijk of eene provincie worden onderhouden, van die bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-01-01&g=2023-01-01) en van die, waarop door een ander tol wordt geheven met uitzondering van de gemeentelijke wegen, genoemd in de [bijlage bij de Wet vrachtwagenheffing](onbekend), verkeeren in goeden staat.
+De gemeente heeft te zorgen, dat de binnen haar gebied liggende wegen, met uitzondering van de wegen, welke door het Rijk of eene provincie worden onderhouden, van die bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-05-01&g=2023-05-01) en van die, waarop door een ander tol wordt geheven met uitzondering van de gemeentelijke wegen, genoemd in de [bijlage bij de Wet vrachtwagenheffing](onbekend), verkeeren in goeden staat.
 
 ##### Artikel 17
 
@@ -176,7 +176,7 @@ Het waterschap heeft te zorgen, dat de wegen welke het onderhoudt, en die waarop
 
 ##### Artikel 18
 
-De gemeente en het waterschap worden geacht aan het in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-01-01&g=2023-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-01-01&g=2023-01-01) bepaalde te hebben voldaan:
+De gemeente en het waterschap worden geacht aan het in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-05-01&g=2023-05-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-05-01&g=2023-05-01) bepaalde te hebben voldaan:
 
 - I. in het geval dat een ander dan de gemeente of het waterschap tot het onderhouden van den weg verplicht is, wanneer diens verplichting is nagekomen;
 
@@ -184,7 +184,7 @@ De gemeente en het waterschap worden geacht aan het in de [artikelen 16](https:/
 
 de weg goed is onderhouden;
 
-aard, breedte en lengte van de verharding gelijk zijn aan aard, breedte en lengte van de verharding, zooals die zijn aangegeven op den in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=27&z=2023-01-01&g=2023-01-01) bedoelden legger.
+aard, breedte en lengte van de verharding gelijk zijn aan aard, breedte en lengte van de verharding, zooals die zijn aangegeven op den in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=27&z=2023-05-01&g=2023-05-01) bedoelden legger.
 
 ##### Artikel 18a
 
@@ -212,15 +212,15 @@ aard, breedte en lengte van de verharding gelijk zijn aan aard, breedte en lengt
 
 3. Bij het besluit van burgemeester en wethouders als in het eerste lid bedoeld kunnen zij, die van het onderhoud of het geven van bijdragen tot het onderhoud worden bevrijd worden verplicht tot afkoopbare jaarlijksche uitkeeringen, welke gezamenlijk niet hooger mogen worden gesteld, dan hetgeen per jaar voor behoorlijk onderhoud werd vereischt.
 
-4. Indien echter voor het gebruik van den weg tol wordt geheven, wordt behoudens het geval dat ingevolge [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=VII&artikel=54&z=2023-01-01&g=2023-01-01) schadevergoeding wordt gegeven, wegens het gemis van de opbrengst der tolheffing eene schadevergoeding toegekend, welke in het besluit van burgemeester en wethouders in het eerste lid bedoeld, wordt opgenomen.
+4. Indien echter voor het gebruik van den weg tol wordt geheven, wordt behoudens het geval dat ingevolge [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=VII&artikel=54&z=2023-05-01&g=2023-05-01) schadevergoeding wordt gegeven, wegens het gemis van de opbrengst der tolheffing eene schadevergoeding toegekend, welke in het besluit van burgemeester en wethouders in het eerste lid bedoeld, wordt opgenomen.
 
 ##### Artikel 20a
 
-Het in [artikel 19, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-01-01&g=2023-01-01) en het in [artikel 20, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=20&z=2023-01-01&g=2023-01-01), bepaalde is alleen van toepassing, indien omtrent de overneming geen overeenstemming is verkregen.
+Het in [artikel 19, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-05-01&g=2023-05-01) en het in [artikel 20, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=20&z=2023-05-01&g=2023-05-01), bepaalde is alleen van toepassing, indien omtrent de overneming geen overeenstemming is verkregen.
 
 ##### Artikel 21
 
-1. Het voorstel tot het nemen van een besluit, als bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-01-01&g=2023-01-01), en het besluit zelf worden medegedeeld aan burgemeester en wethouders van de gemeente ten laste van welke het onderhoud wordt gebracht; het voorstel tot het nemen van een besluit als bedoeld in [artikel 19, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-01-01&g=2023-01-01), en [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=20&z=2023-01-01&g=2023-01-01) en het besluit zelf worden medegedeeld aan hen, die van onderhoud worden bevrijd en aan degenen, die ingevolge [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-01-01&g=2023-01-01), en [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=20&z=2023-01-01&g=2023-01-01), verplicht worden tot afkoopbare jaarlijksche uitkeeringen.
+1. Het voorstel tot het nemen van een besluit, als bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-05-01&g=2023-05-01), en het besluit zelf worden medegedeeld aan burgemeester en wethouders van de gemeente ten laste van welke het onderhoud wordt gebracht; het voorstel tot het nemen van een besluit als bedoeld in [artikel 19, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-05-01&g=2023-05-01), en [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=20&z=2023-05-01&g=2023-05-01) en het besluit zelf worden medegedeeld aan hen, die van onderhoud worden bevrijd en aan degenen, die ingevolge [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-05-01&g=2023-05-01), en [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=20&z=2023-05-01&g=2023-05-01), verplicht worden tot afkoopbare jaarlijksche uitkeeringen.
 
 2. De mededeeling aan bijzondere personen geschiedt bij aangeteekenden brief.
 
@@ -228,9 +228,9 @@ Het in [artikel 19, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci
 
 ##### Artikel 22
 
-1. Gedeputeerde Staten maken hun besluit op een verzoek om goedkeuring van een krachtens [artikel 19, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-01-01&g=2023-01-01), genomen besluit onverwijld bekend aan het bestuur van het waterschap of aan burgemeester en wethouders, alsmede aan hen, die volgens het besluit van het bestuur van het waterschap of het besluit van burgemeester en wethouders van onderhoud worden bevrijd, en aan degenen, die volgens dat besluit van het bestuur van het waterschap of dat besluit van burgemeester en wethouders ingevolge [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-01-01&g=2023-01-01), verplicht worden tot jaarlijkse afkoopbare uitkeringen.
+1. Gedeputeerde Staten maken hun besluit op een verzoek om goedkeuring van een krachtens [artikel 19, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-05-01&g=2023-05-01), genomen besluit onverwijld bekend aan het bestuur van het waterschap of aan burgemeester en wethouders, alsmede aan hen, die volgens het besluit van het bestuur van het waterschap of het besluit van burgemeester en wethouders van onderhoud worden bevrijd, en aan degenen, die volgens dat besluit van het bestuur van het waterschap of dat besluit van burgemeester en wethouders ingevolge [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-05-01&g=2023-05-01), verplicht worden tot jaarlijkse afkoopbare uitkeringen.
 
-2. Het [tweede en derde lid van artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=21&z=2023-01-01&g=2023-01-01) zijn van toepassing.
+2. Het [tweede en derde lid van artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=21&z=2023-05-01&g=2023-05-01) zijn van toepassing.
 
 ##### Artikel 23
 
@@ -254,7 +254,7 @@ Het in [artikel 19, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci
 
 ##### Artikel 26
 
-1. De verplichting om een weg te onderhouden of tot het onderhoud daarvan bij te dragen kan worden overgedragen bij een schriftelijke overeenkomst, goed te keuren door burgemeester en wethouders van de gemeente of het bestuur van het waterschap, dat volgens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-01-01&g=2023-01-01) of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-01-01&g=2023-01-01) heeft te zorgen, dat de weg in goeden staat verkeert, en gaat over op den dag volgende op dien, waarop de goedkeuring is verleend, of zooveel later als bij de overeenkomst is bepaald. De verplichting om tot het onderhoud van een weg bij te dragen, kan worden afgekocht of kwijtgescholden bij een schriftelijke overeenkomst, welke gelijke goedkeuring behoeft als hiervoren is aangegeven; zoodanige overeenkomst wordt van kracht op den dag, volgende op dien, waarop de goedkeuring is verleend.
+1. De verplichting om een weg te onderhouden of tot het onderhoud daarvan bij te dragen kan worden overgedragen bij een schriftelijke overeenkomst, goed te keuren door burgemeester en wethouders van de gemeente of het bestuur van het waterschap, dat volgens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-05-01&g=2023-05-01) of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-05-01&g=2023-05-01) heeft te zorgen, dat de weg in goeden staat verkeert, en gaat over op den dag volgende op dien, waarop de goedkeuring is verleend, of zooveel later als bij de overeenkomst is bepaald. De verplichting om tot het onderhoud van een weg bij te dragen, kan worden afgekocht of kwijtgescholden bij een schriftelijke overeenkomst, welke gelijke goedkeuring behoeft als hiervoren is aangegeven; zoodanige overeenkomst wordt van kracht op den dag, volgende op dien, waarop de goedkeuring is verleend.
 
 2. Het eerste lid is niet van toepassing, wanneer de verplichting op grondstukken rust of op den weg tol wordt geheven.
 
@@ -292,7 +292,7 @@ Van wegen, welke deels binnen deels buiten de bebouwde kom of kommen der gemeent
 
 - III. de eindpunten en de richting van den weg;
 
-- IV. de beperkingen in het gebruik van den weg, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2023-01-01&g=2023-01-01), alsmede de afschuttingen, welke zich op den weg bevinden;
+- IV. de beperkingen in het gebruik van den weg, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2023-05-01&g=2023-05-01), alsmede de afschuttingen, welke zich op den weg bevinden;
 
 - V. de verharding met vermelding van haren aard, breedte en lengte;
 
@@ -304,7 +304,7 @@ Van wegen, welke deels binnen deels buiten de bebouwde kom of kommen der gemeent
 
 - IX. degenen, die tot het onderhoud hebben bij te dragen, met vermelding van de hoegrootheid der bijdrage;
 
-- X. het gezag, dat volgens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-01-01&g=2023-01-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-01-01&g=2023-01-01) heeft te zorgen, dat de weg in goeden staat verkeert.
+- X. het gezag, dat volgens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-05-01&g=2023-05-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-05-01&g=2023-05-01) heeft te zorgen, dat de weg in goeden staat verkeert.
 
 2. Van bruggen, welke onder een afzonderlijk nommer op den legger worden gebracht, worden aard, hoofdafmetingen en samenstelling onder VI vermeld.
 
@@ -312,7 +312,7 @@ Van wegen, welke deels binnen deels buiten de bebouwde kom of kommen der gemeent
 
 ##### Artikel 31
 
-De omvang van een op het Rijk of eene provincie rustenden onderhoudsplicht wordt met afwijking van het onder [VIII van artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=30&z=2023-01-01&g=2023-01-01) bepaalde in den legger niet omschreven.
+De omvang van een op het Rijk of eene provincie rustenden onderhoudsplicht wordt met afwijking van het onder [VIII van artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=30&z=2023-05-01&g=2023-05-01) bepaalde in den legger niet omschreven.
 
 ##### Artikel 32
 
@@ -334,7 +334,7 @@ De legger wordt overigens ingericht volgens bij algemeenen maatregel van bestuur
 
 1. Gedeputeerde Staten stellen den legger vast al dan niet met afwijking van het door Burgemeester en Wethouders opgemaakte ontwerp.
 
-2. Indien gedeputeerde staten voornemens zijn af te wijken van het in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=34&z=2023-01-01&g=2023-01-01), bedoelde ontwerp, dan is op de vaststelling van de legger [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
+2. Indien gedeputeerde staten voornemens zijn af te wijken van het in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=34&z=2023-05-01&g=2023-05-01), bedoelde ontwerp, dan is op de vaststelling van de legger [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
 ##### Artikel 36
 
@@ -354,33 +354,33 @@ De legger wordt opgemaakt in twee exemplaren. Een exemplaar wordt bewaard in het
 
 1. De legger wordt door Gedeputeerde Staten gewijzigd in geval van:
 
-- I. het onttrokken worden van een weg aan het openbaar verkeer krachtens een besluit als bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&z=2023-01-01&g=2023-01-01);
+- I. het onttrokken worden van een weg aan het openbaar verkeer krachtens een besluit als bedoeld in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&z=2023-05-01&g=2023-05-01);
 
 - II. afkoop en kwijtschelding van de verplichting om bij te dragen tot onderhoud van den weg;
 
-- III. het krachtens eene wet, een besluit, als bedoeld bij de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-01-01&g=2023-01-01) of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=20&z=2023-01-01&g=2023-01-01) dezer wet of bij [artikel 2 der Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=2), of een bij een besluit als bedoeld in de [artikelen 18 a](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=18a&z=2023-01-01&g=2023-01-01) of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=26&z=2023-01-01&g=2023-01-01) dezer wet goedgekeurde of toegezonden overeenkomst overgaan van de verplichting om een weg te onderhouden;
+- III. het krachtens eene wet, een besluit, als bedoeld bij de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-05-01&g=2023-05-01) of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=20&z=2023-05-01&g=2023-05-01) dezer wet of bij [artikel 2 der Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=2), of een bij een besluit als bedoeld in de [artikelen 18 a](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=18a&z=2023-05-01&g=2023-05-01) of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=26&z=2023-05-01&g=2023-05-01) dezer wet goedgekeurde of toegezonden overeenkomst overgaan van de verplichting om een weg te onderhouden;
 
-- IV. het in gewijsde gaan van een vonnis, als bedoeld in [paragraaf 4 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&z=2023-01-01&g=2023-01-01);
+- IV. het in gewijsde gaan van een vonnis, als bedoeld in [paragraaf 4 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&z=2023-05-01&g=2023-05-01);
 
-- V. de overgang van onderhoudsplicht als bedoeld in [art. 54](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=VII&artikel=54&z=2023-01-01&g=2023-01-01), voor zoover deze nog niet onder de overige bepalingen van dit artikel mocht zijn begrepen;
+- V. de overgang van onderhoudsplicht als bedoeld in [art. 54](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=VII&artikel=54&z=2023-05-01&g=2023-05-01), voor zoover deze nog niet onder de overige bepalingen van dit artikel mocht zijn begrepen;
 
 - VI. de wijziging of overgang van onderhoudsplicht, als gevolg van het in werking treden van een besluit tot vaststelling of wijziging van eene provinciale verordening, het reglement van een waterschap, eene gemeenteverordening of een waterschapsverordening, waarbij onderhoudsplicht van wegen wordt opgelegd, aan onderhoudsplichtigen van wegen verplichtingen worden opgelegd of de verplichtingen van onderhoudsplichtigen van wegen worden vastgesteld;
 
-- VII. het inwerking treden van een besluit tot vaststelling of wijziging van het reglement van een waterschap, waardoor een ander gezag, dan het in den legger vermelde, wordt aangewezen als het gezag, dat volgens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-01-01&g=2023-01-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-01-01&g=2023-01-01) heeft te zorgen, dat de weg in goeden staat verkeert.
+- VII. het inwerking treden van een besluit tot vaststelling of wijziging van het reglement van een waterschap, waardoor een ander gezag, dan het in den legger vermelde, wordt aangewezen als het gezag, dat volgens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-05-01&g=2023-05-01) of [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-05-01&g=2023-05-01) heeft te zorgen, dat de weg in goeden staat verkeert.
 
 2. Voor zoover dit niet reeds ingevolge de overige bepalingen dezer wet moet geschieden, deelen burgemeester en wethouders en waterschapsbesturen vanwege de gemeente of het waterschap genomen besluiten en vastgestelde verordeningen, waarvan wijziging of overgang van onderhoudsplicht als in het eerste lid onder V of VI bedoeld, het gevolg is, in afschrift aan Gedeputeerde Staten mede.
 
 ##### Artikel 40
 
-1. In andere gevallen, dan de in het vorig artikel bedoelde, wordt de legger door Gedeputeerde Staten gewijzigd met inachtneming van het bepaalde in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=3&artikel=41&z=2023-01-01&g=2023-01-01).
+1. In andere gevallen, dan de in het vorig artikel bedoelde, wordt de legger door Gedeputeerde Staten gewijzigd met inachtneming van het bepaalde in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=3&artikel=41&z=2023-05-01&g=2023-05-01).
 
-2. Tot afvoering van een weg van den legger en tot wijziging van hetgeen de legger ter voldoening aan het onder [III, IV, V, VII, VIII, IX of X van artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=30&z=2023-01-01&g=2023-01-01) bepaalde reeds inhoudt, wordt door hen slechts overgegaan op grond dat een weg heeft opgehouden openbaar te zijn krachtens het bepaalde onder [I van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=7&z=2023-01-01&g=2023-01-01), dat de verplichting om een weg of duiker te onderhouden krachtens het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=23&z=2023-01-01&g=2023-01-01), of die om tot het onderhoud van een weg bij te dragen krachtens het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=24&z=2023-01-01&g=2023-01-01) is te niet gegaan of in het algemeen, op grond van een feit, dat na de vaststelling van hetgeen gewijzigd wordt, heeft plaats gehad, of eindelijk naar aanleiding van een gewijsde, als bedoeld in [paragraaf 4 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&z=2023-01-01&g=2023-01-01), dat eene verdere wijziging van den legger noodig maakt.
+2. Tot afvoering van een weg van den legger en tot wijziging van hetgeen de legger ter voldoening aan het onder [III, IV, V, VII, VIII, IX of X van artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=30&z=2023-05-01&g=2023-05-01) bepaalde reeds inhoudt, wordt door hen slechts overgegaan op grond dat een weg heeft opgehouden openbaar te zijn krachtens het bepaalde onder [I van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=7&z=2023-05-01&g=2023-05-01), dat de verplichting om een weg of duiker te onderhouden krachtens het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=23&z=2023-05-01&g=2023-05-01), of die om tot het onderhoud van een weg bij te dragen krachtens het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=24&z=2023-05-01&g=2023-05-01) is te niet gegaan of in het algemeen, op grond van een feit, dat na de vaststelling van hetgeen gewijzigd wordt, heeft plaats gehad, of eindelijk naar aanleiding van een gewijsde, als bedoeld in [paragraaf 4 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&z=2023-05-01&g=2023-05-01), dat eene verdere wijziging van den legger noodig maakt.
 
 ##### Artikel 41
 
-1. Betreft de in het vorig artikel bedoelde, door Gedeputeerde Staten voorgenomen, wijziging van den legger uitsluitend hetgeen de legger ter voldoening aan het onder [I, II of VI van artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=30&z=2023-01-01&g=2023-01-01) bepaalde inhoudt, dan wordt enkel het advies van Burgemeester en Wethouders der gemeente of het bestuur van het waterschap, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-01-01&g=2023-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-01-01&g=2023-01-01) ingewonnen.
+1. Betreft de in het vorig artikel bedoelde, door Gedeputeerde Staten voorgenomen, wijziging van den legger uitsluitend hetgeen de legger ter voldoening aan het onder [I, II of VI van artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=30&z=2023-05-01&g=2023-05-01) bepaalde inhoudt, dan wordt enkel het advies van Burgemeester en Wethouders der gemeente of het bestuur van het waterschap, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=16&z=2023-05-01&g=2023-05-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=17&z=2023-05-01&g=2023-05-01) ingewonnen.
 
-2. In alle overige gevallen, in het vorig artikel bedoeld, vinden ten aanzien van de behandeling van de wijziging van den legger de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=34&z=2023-01-01&g=2023-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=35&z=2023-01-01&g=2023-01-01) overeenkomstige toepassing, met dien verstande, dat voor wijziging van den legger het ontwerp in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=34&z=2023-01-01&g=2023-01-01) bedoeld ook door Gedeputeerde Staten kan worden opgemaakt en daarvoor ook in de plaats kan treden een verzoek van belanghebbenden aan Gedeputeerde Staten tot wijziging van den legger om redenen als in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=3&artikel=40&z=2023-01-01&g=2023-01-01), bedoeld, waarbij duidelijk de reden, de aard en de strekking van de beoogde wijziging wordt omschreven.
+2. In alle overige gevallen, in het vorig artikel bedoeld, vinden ten aanzien van de behandeling van de wijziging van den legger de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=34&z=2023-05-01&g=2023-05-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=35&z=2023-05-01&g=2023-05-01) overeenkomstige toepassing, met dien verstande, dat voor wijziging van den legger het ontwerp in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=34&z=2023-05-01&g=2023-05-01) bedoeld ook door Gedeputeerde Staten kan worden opgemaakt en daarvoor ook in de plaats kan treden een verzoek van belanghebbenden aan Gedeputeerde Staten tot wijziging van den legger om redenen als in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=3&artikel=40&z=2023-05-01&g=2023-05-01), bedoeld, waarbij duidelijk de reden, de aard en de strekking van de beoogde wijziging wordt omschreven.
 
 ##### Artikel 42
 
@@ -396,7 +396,7 @@ Wijziging van den legger kan worden gevorderd op grond:
 
 - a. dat een weg of een deel daarvan is openbaar;
 
-- b. dat het gebruik van den weg, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2023-01-01&g=2023-01-01), niet is beperkt of op andere wijze is beperkt dan in werkelijkheid het geval is;
+- b. dat het gebruik van den weg, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2023-05-01&g=2023-05-01), niet is beperkt of op andere wijze is beperkt dan in werkelijkheid het geval is;
 
 - c. dat iemand verplicht is een weg of duiker te onderhouden of tot het onderhoud daarvan bij te dragen;
 
@@ -404,7 +404,7 @@ Wijziging van den legger kan worden gevorderd op grond:
 
 ##### Artikel 44
 
-1. De rechtsvordering, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-01-01&g=2023-01-01), staat ter kennisneming van de rechtbank, binnen wier gebied de gemeente is gelegen, waarvoor de legger geldt.
+1. De rechtsvordering, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-05-01&g=2023-05-01), staat ter kennisneming van de rechtbank, binnen wier gebied de gemeente is gelegen, waarvoor de legger geldt.
 
 2. De wettelijke voorschriften omtrent twistgedingen over burgerlijke rechten zijn, voor zoover daarvan niet bij deze wet is afgeweken, van toepassing.
 
@@ -412,35 +412,25 @@ Wijziging van den legger kan worden gevorderd op grond:
 
 ##### Artikel 45
 
-1. Wijziging op de in [artikel 43 onder I, a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-01-01&g=2023-01-01) vermelde gronden kan alleen worden gevorderd door den eigenaar, erfpachter, vruchtgebruiker en beklemden meier van den weg of van den tot den weg behoorenden berm en door hem, die bij den legger is aangewezen als onderhoudsplichtige of als belast met het bijdragen van eene geldsom tot het onderhoud van den weg.
+1. Wijziging op de in [artikel 43 onder I, a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-05-01&g=2023-05-01) vermelde gronden kan alleen worden gevorderd door den eigenaar, erfpachter, vruchtgebruiker en beklemden meier van den weg of van den tot den weg behoorenden berm en door hem, die bij den legger is aangewezen als onderhoudsplichtige of als belast met het bijdragen van eene geldsom tot het onderhoud van den weg.
 
-2. Wijziging op de in [artikel 43 onder I, c en II](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-01-01&g=2023-01-01) vermelde gronden kan alleen worden gevorderd door hem, die bij den legger is aangewezen als onderhoudsplichtige of als belast met het bijdragen van eene geldsom tot het onderhoud.
+2. Wijziging op de in [artikel 43 onder I, c en II](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-05-01&g=2023-05-01) vermelde gronden kan alleen worden gevorderd door hem, die bij den legger is aangewezen als onderhoudsplichtige of als belast met het bijdragen van eene geldsom tot het onderhoud.
 
 ##### Artikel 46
 
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
+1. De rechtsvordering, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-05-01&g=2023-05-01), wordt ingesteld tegen de provincie.
 
-1. De rechtsvordering, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-01-01&g=2023-01-01), wordt ingesteld tegen de provincie.
+2. Onze Commissaris is verplicht onmiddellijk een afschrift van de dagvaarding te doen toekomen aan burgemeester en wethouders van de gemeente, binnen wier gebied de weg is gelegen, en aan het bestuur van het waterschap dat heeft te zorgen, dat de weg in goede staat verkeert.
 
-2. Onze Commissaris is verplicht onmiddellijk een afschrift van de procesinleiding te doen toekomen aan burgemeester en wethouders van de gemeente, binnen wier gebied de weg is gelegen, en aan het bestuur van het waterschap dat heeft te zorgen, dat de weg in goeden staat verkeert.
-
-3. De gemeente en het waterschap kunnen zonder vormelijke toelating in het geding als gevoegde of tusschenkomende partij optreden.
-
-Voor overige gevallen luidt het artikel als volgt:
-
-1. De rechtsvordering, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-01-01&g=2023-01-01), wordt ingesteld tegen de provincie.
-
-2. Onze Commissaris is verplicht onmiddellijk een afschrift van de dagvaarding te doen toekomen aan burgemeester en wethouders van de gemeente, binnen wier gebied de weg is gelegen, en aan het bestuur van het waterschap dat heeft te zorgen, dat de weg in goeden staat verkeert.
-
-3. De gemeente en het waterschap kunnen zonder vormelijke toelating in het geding als gevoegde of tusschenkomende partij optreden.
+3. De gemeente en het waterschap kunnen zonder vormelijke toelating in het geding als gevoegde of tussenkomende partij optreden.
 
 ##### Artikel 47
 
-De rechtsvordering tot wijziging in de gevallen in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-01-01&g=2023-01-01) vermeld vervalt, voor zooveel zij niet steunt op feiten, die na de vaststelling van de betrokken bepalingen van den legger hebben plaats gevonden, indien zij niet is ingesteld binnen één jaar, nadat de bepaling van den legger, tegen welke men opkomt, bij eindbeslissing is vastgesteld of gehandhaafd.
+De rechtsvordering tot wijziging in de gevallen in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-05-01&g=2023-05-01) vermeld vervalt, voor zooveel zij niet steunt op feiten, die na de vaststelling van de betrokken bepalingen van den legger hebben plaats gevonden, indien zij niet is ingesteld binnen één jaar, nadat de bepaling van den legger, tegen welke men opkomt, bij eindbeslissing is vastgesteld of gehandhaafd.
 
 ##### Artikel 48
 
-De gemeente, waarin de weg is gelegen, vergoedt aan de provincie de kosten van het geding, waarin deze mocht zijn veroordeeld, indien en voor zoover de vermelding op den legger, die ingevolge het vonnis op de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-01-01&g=2023-01-01) genoemde gronden is gewijzigd, door Gedeputeerde Staten overeenkomstig het door Burgemeester en Wethouders opgemaakte ontwerp van den legger of ontwerp tot wijziging van den legger - voor zoover door Burgemeester en Wethouders volgens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=34&z=2023-01-01&g=2023-01-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=3&artikel=41&z=2023-01-01&g=2023-01-01) advies is uitgebracht, met inachtneming van dat advies - was vastgesteld.
+De gemeente, waarin de weg is gelegen, vergoedt aan de provincie de kosten van het geding, waarin deze mocht zijn veroordeeld, indien en voor zoover de vermelding op den legger, die ingevolge het vonnis op de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=4&artikel=43&z=2023-05-01&g=2023-05-01) genoemde gronden is gewijzigd, door Gedeputeerde Staten overeenkomstig het door Burgemeester en Wethouders opgemaakte ontwerp van den legger of ontwerp tot wijziging van den legger - voor zoover door Burgemeester en Wethouders volgens [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=2&artikel=34&z=2023-05-01&g=2023-05-01) of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=3&artikel=41&z=2023-05-01&g=2023-05-01) advies is uitgebracht, met inachtneming van dat advies - was vastgesteld.
 
 #### § 5. De kracht van den legger
 
@@ -484,13 +474,13 @@ Vervallen.
 
 ##### Artikel 55
 
-1. Binnen 25 jaar en 3 maanden, te rekenen van af de dag van inwerkingtreding van deze wet, moeten de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=27&z=2023-01-01&g=2023-01-01) bedoelde leggers zijn vastgesteld.
+1. Binnen 25 jaar en 3 maanden, te rekenen van af de dag van inwerkingtreding van deze wet, moeten de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=V&paragraaf=1&artikel=27&z=2023-05-01&g=2023-05-01) bedoelde leggers zijn vastgesteld.
 
-2. Voor zoover voor het einde van dien termijn de leggers nog niet zijn vastgesteld blijven de bij de inwerkingtreding dezer wet uit anderen hoofde vastgestelde leggers en de daarop betrekking hebbende bepalingen, alsmede de verdere bepalingen betreffende openbaarheid en onderhoudsplicht van wegen, van kracht, met dien verstande echter, dat hierdoor niet wordt belet dat de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2023-01-01&g=2023-01-01), [11 a](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=11a&z=2023-01-01&g=2023-01-01), [12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=12&z=2023-01-01&g=2023-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=18a&z=2023-01-01&g=2023-01-01) en [19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-01-01&g=2023-01-01) van deze wet aanstonds bij de inwerkingtreding van kracht zijn.
+2. Voor zoover voor het einde van dien termijn de leggers nog niet zijn vastgesteld blijven de bij de inwerkingtreding dezer wet uit anderen hoofde vastgestelde leggers en de daarop betrekking hebbende bepalingen, alsmede de verdere bepalingen betreffende openbaarheid en onderhoudsplicht van wegen, van kracht, met dien verstande echter, dat hierdoor niet wordt belet dat de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=6&z=2023-05-01&g=2023-05-01), [11 a](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=11a&z=2023-05-01&g=2023-05-01), [12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=II&artikel=12&z=2023-05-01&g=2023-05-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=18a&z=2023-05-01&g=2023-05-01) en [19 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=19&z=2023-05-01&g=2023-05-01) van deze wet aanstonds bij de inwerkingtreding van kracht zijn.
 
 ##### Artikel 56
 
-[Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=25&z=2023-01-01&g=2023-01-01) dezer wet geldt niet ten aanzien van hetgeen op het oogenblik van het in werking treden dezer wet reeds verschuldigd is uit hoofde van eene op een grondstuk rustende verplichting om een weg of een deel daarvan te onderhouden of om tot het onderhoud daarvan bij te dragen.
+[Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&hoofdstuk=IV&artikel=25&z=2023-05-01&g=2023-05-01) dezer wet geldt niet ten aanzien van hetgeen op het oogenblik van het in werking treden dezer wet reeds verschuldigd is uit hoofde van eene op een grondstuk rustende verplichting om een weg of een deel daarvan te onderhouden of om tot het onderhoud daarvan bij te dragen.
 
 ##### Artikel 57
 
