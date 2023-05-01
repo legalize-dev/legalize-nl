@@ -4,7 +4,7 @@ identifier: "BWBR0002641"
 country: "nl"
 rank: "wet"
 publication_date: "2023-05-01"
-last_updated: "2017-09-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002641"
 soort: "wet"
@@ -56,23 +56,11 @@ Het bepaalde in [artikel 2 van de Wet aansprakelijkheidsverzekering motorrijtuig
 
 ##### Artikel 3
 
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
-
 1. Indien met een NAVO-motorrijtuig in Nederland schade is toegebracht waarvoor de eigenaar, houder of bestuurder van dat motorrijtuig of een persoon die daarmede wordt vervoerd, aansprakelijk is, wordt die schade door de Staat vergoed, voorzover bovengenoemden voor de vergoeding van die schade aansprakelijk zijn.
 
-2. Voor de toepassing van het vorige lid kan de Staat niet slechts worden opgeroepen voor de rechter van de plaats waar de Regering haar zetel heeft, doch ook voor de rechter van de plaats van het feit, waaruit de schade is ontstaan en voor de rechter van de woonplaats van de benadeelde.
+2. Voor de toepassing van het vorige lid kan de Staat niet slechts worden gedagvaard voor de rechter van de plaats waar de regering haar zetel heeft, doch ook voor de rechter van de plaats van het feit, waaruit de schade is ontstaan en voor de rechter van de woonplaats van de benadeelde.
 
-3. Bij de vaststelling van de schadevergoeding ten laste van de Staat wordt geen rekening gehouden met het feit, dat een grond bestaat tot matiging, als bedoeld in [artikel 109 van Boek 6 nieuw B.W.](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=109), van de wettelijke verplichting tot schadevergoeding van de aansprakelijke personen.
-
-4. Tenzij verrekening plaatsvindt volgens de regels bij het Verdrag gesteld, heeft de Staat een recht van verhaal tegen de aansprakelijke personen; bij het verhaal voor schadevergoeding wordt rekening gehouden met een grond tot matiging, als bedoeld in het vorige lid, van de wettelijke verplichting tot schadevergoeding van de aangesproken persoon.
-
-Voor overige gevallen luidt het artikel als volgt:
-
-1. Indien met een NAVO-motorrijtuig in Nederland schade is toegebracht waarvoor de eigenaar, houder of bestuurder van dat motorrijtuig of een persoon die daarmede wordt vervoerd, aansprakelijk is, wordt die schade door de Staat vergoed, voorzover bovengenoemden voor de vergoeding van die schade aansprakelijk zijn.
-
-2. Voor de toepassing van het vorige lid kan de Staat niet slechts worden gedagvaard voor de rechter van de plaats waar de Regering haar zetel heeft, doch ook voor de rechter van de plaats van het feit, waaruit de schade is ontstaan en voor de rechter van de woonplaats van de benadeelde.
-
-3. Bij de vaststelling van de schadevergoeding ten laste van de Staat wordt geen rekening gehouden met het feit, dat een grond bestaat tot matiging, als bedoeld in [artikel 109 van Boek 6 nieuw B.W.](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=109), van de wettelijke verplichting tot schadevergoeding van de aansprakelijke personen.
+3. Bij de vaststelling van de schadevergoeding ten laste van de Staat wordt geen rekening gehouden met het feit, dat een grond bestaat tot matiging, als bedoeld in [artikel 109 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=109), van de wettelijke verplichting tot schadevergoeding van de aansprakelijke personen.
 
 4. Tenzij verrekening plaatsvindt volgens de regels bij het Verdrag gesteld, heeft de Staat een recht van verhaal tegen de aansprakelijke personen; bij het verhaal voor schadevergoeding wordt rekening gehouden met een grond tot matiging, als bedoeld in het vorige lid, van de wettelijke verplichting tot schadevergoeding van de aangesproken persoon.
 
