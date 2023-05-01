@@ -4,7 +4,7 @@ identifier: "BWBR0002054"
 country: "nl"
 rank: "wet"
 publication_date: "2023-05-01"
-last_updated: "2017-09-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002054"
 soort: "wet"
@@ -41,12 +41,6 @@ Alzo Wij in overweging genomen hebben, dat ter betere effectuering van beslagen 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
-
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
-
-Alle stukken, brieven en exploten, die betrekking hebben op een inschrijving in het Grootboek 1946 of op een inschrijving in enig schuldregister voor geldleningen ten laste van het Rijk, gehouden bij het Agentschap van het Ministerie van Financiën te Amsterdam, worden gericht of betekend aan de Agent van het Ministerie van Financiën te Amsterdam, behoudens de verplichting om het oproepingsbericht uit te brengen aan de Staat, op de wijze als in [artikel 48, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=48) is voorgeschreven.
-
-Voor overige gevallen luidt het artikel als volgt:
 
 Alle stukken, brieven en exploiten, die betrekking hebben op een inschrijving in het Grootboek 1946 of op een inschrijving in enig schuldregister voor geldleningen ten laste van het Rijk, gehouden bij het Agentschap van het Ministerie van Financiën te Amsterdam, worden gericht of betekend aan de Agent van het Ministerie van Financiën te Amsterdam, behoudens de verplichting om de dagvaarding uit te brengen aan de Staat, op de wijze als in [artikel 48, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=48) is voorgeschreven.
 
