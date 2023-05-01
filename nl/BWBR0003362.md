@@ -4,7 +4,7 @@ identifier: "BWBR0003362"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2017-09-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003362"
 soort: "wet"
@@ -93,7 +93,7 @@ Vervallen
 
 ##### Artikel 10
 
-De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien hij zulks voor een goede uitvoering nodig oordeelt, de stukken door een beëdigd vertaler in het Nederlands doen vertalen. Hij kan daartoe de tussenkomst van de centrale autoriteit verzoeken. De kosten van de vertaling zijn kosten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003362&hoofdstuk=II&artikel=13&z=2017-09-01&g=2017-09-01).
+De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien hij zulks voor een goede uitvoering nodig oordeelt, de stukken door een beëdigd vertaler in het Nederlands doen vertalen. Hij kan daartoe de tussenkomst van de centrale autoriteit verzoeken. De kosten van de vertaling zijn kosten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003362&hoofdstuk=II&artikel=13&z=2023-05-01&g=2023-05-01).
 
 ##### Artikel 11
 
@@ -165,13 +165,7 @@ De rechter die de rogatoire commissie heeft uitgevoerd zendt het proces-verbaal 
 
 ##### Artikel 19
 
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
-
-De rechter stelt zo nodig de dag van de volgende proceshandeling vast.
-
-Voor overige gevallen luidt het artikel als volgt:
-
-De rechter stelt zonodig de dag vast, waarop de zaak weder ter rolle zal worden opgeroepen.
+De rechter stelt zo nodig de dag vast, waarop de zaak weer ter rolle zal worden opgeroepen.
 
 ##### Artikel 20
 
