@@ -4,7 +4,7 @@ identifier: "BWBR0002306"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2017-09-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002306"
 soort: "wet"
@@ -105,7 +105,7 @@ Vervallen
 
 ##### Artikel 10
 
-Oordeelt de rechter, door wie de uitvoering der rogatoire commissie zou behoren te geschieden, dat [artikel 11, derde lid, sub 3°, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=11&z=2017-09-01&g=2017-09-01) toepasselijk is, dan zendt hij de commissie onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
+Oordeelt de rechter, door wie de uitvoering der rogatoire commissie zou behoren te geschieden, dat [artikel 11, derde lid, sub 3°, van het verdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=B&artikel=11&z=2023-05-01&g=2023-05-01) toepasselijk is, dan zendt hij de commissie onder opgaaf van redenen aan Onze Minister van Justitie, die, zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
 
 ##### Artikel 11
 
@@ -145,13 +145,7 @@ Alle kosten, op de uitvoering van rogatoire commissiën vallende, komen ten last
 
 ##### Artikel 17
 
-Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
-
-De rechter stelt bij vonnis de dag van de volgende proceshandeling vast.
-
-Voor overige gevallen luidt het artikel als volgt:
-
-De rechter stelt bij zijn vonnis de dag vast, waarop de zaak weder ter rolle zal worden opgeroepen.
+De rechter stelt bij zijn vonnis de dag vast, waarop de zaak weer ter rolle zal worden opgeroepen.
 
 ##### Artikel 18
 
@@ -175,15 +169,15 @@ De rechter stelt bij zijn vonnis de dag vast, waarop de zaak weder ter rolle zal
 
 - 2°. een expeditie van de uitspraak;
 
-- 3°. een verklaring, ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=19&z=2017-09-01&g=2017-09-01) dezer wet afgegeven, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak heeft verkregen.
+- 3°. een verklaring, ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=19&z=2023-05-01&g=2023-05-01) dezer wet afgegeven, dat de uitspraak ten aanzien der veroordeling in de kosten kracht van gewijsde zaak heeft verkregen.
 
 2. De stukken in het voorgaande lid, sub 1° en 3° genoemd, zijn ieder vergezeld van een vertaling in een der talen, bedoeld in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend); van de uitspraak wordt een zodanige vertaling nopens het gedeelte, dat de beslissing bevat, overgelegd. De vertalingen moeten voor overeenstemmend verklaard zijn door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
 ##### Artikel 21
 
-1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2017-09-01&g=2017-09-01) dezer wet genoemd, langs de weg, in [artikel 18 van het verdrag](onbekend) vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), en een vertaling daarvan in een der talen, in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend). Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
+1. Onze Minister van Justitie zendt de stukken, in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2023-05-01&g=2023-05-01) dezer wet genoemd, langs de weg, in [artikel 18 van het verdrag](onbekend) vermeld, aan de bevoegde autoriteit van de Staat waar de uitvoerbaarverklaring verlangd wordt, onder bijvoeging van een bevestiging, overeenkomstig [artikel 19, derde lid, van het verdrag](onbekend), en een vertaling daarvan in een der talen, in [artikel 19, tweede lid, sub 3°, van het verdrag](onbekend). Deze vertaling is voor overeenstemmend verklaard door een beëdigd vertaler in het land, waar de uitvoerbaarverklaring verlangd wordt, of door een beëdigd vertaler in Nederland.
 
-2. Indien niet voldaan is aan [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2017-09-01&g=2017-09-01) van deze wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben de naleving van dat artikel zoveel mogelijk te bevorderen.
+2. Indien niet voldaan is aan [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002306&paragraaf=D&artikel=20&z=2023-05-01&g=2023-05-01) van deze wet, weigert hij de doorzending der stukken, echter niet, dan na getracht te hebben de naleving van dat artikel zoveel mogelijk te bevorderen.
 
 ##### Artikel 22
 
