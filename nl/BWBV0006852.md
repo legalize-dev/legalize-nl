@@ -4,7 +4,7 @@ identifier: "BWBV0006852"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-05-01"
-last_updated: "2019-11-05"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006852"
 soort: "verdrag"
@@ -80,7 +80,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 3. Bevoegde veiligheidsautoriteiten
 
-1. De bevoegde veiligheidsautoriteiten van de partijen staan vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&bijlage=I&z=2019-11-05&g=2019-11-05) bij dit Verdrag.
+1. De bevoegde veiligheidsautoriteiten van de partijen staan vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&bijlage=I&z=2023-05-01&g=2023-05-01) bij dit Verdrag.
 
 2. De bevoegde veiligheidsautoriteiten voorzien elkaar van de officiële contactgegevens.
 
@@ -176,7 +176,7 @@ Informatie die van België wordt ontvangen en de rubricering „BEPERKTE VERSPRE
 
 4. De bevoegde veiligheidsautoriteit van de partij die de toekenning van een gerubriceerd contract goedkeurt, stuurt een kopie van het hoofdstuk over de veiligheidsvereisten naar de bevoegde veiligheidsautoriteit van de ontvangende partij, om het veiligheidstoezicht op het contract te vergemakkelijken.
 
-5. De procedures voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&artikel=11&z=2019-11-05&g=2019-11-05) van dit Verdrag te zijn.
+5. De procedures voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&artikel=11&z=2023-05-01&g=2023-05-01) van dit Verdrag te zijn.
 
 ##### Artikel 9. Overbrenging van gerubriceerde gegevens
 
@@ -254,7 +254,7 @@ De bevoegde veiligheidsautoriteiten kunnen uitvoeringsregelingen sluiten ingevol
 
 1. Dit Verdrag wordt gesloten voor onbepaalde tijd. Elke partij stelt de andere partij langs diplomatieke weg in kennis van de voltooiing van de nationale maatregelen die nodig zijn voor de inwerkingtreding van dit Verdrag. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de ontvangst van de laatste kennisgeving.
 
-2. Dit Verdrag kan met wederzijdse instemming van de partijen worden gewijzigd. Elke partij kan te allen tijde wijzigingen van dit Verdrag voorstellen. Dergelijke wijzigingen treden in werking onder de voorwaarden vervat in het eerste lid van dit artikel, met uitzondering van een wijziging van de [Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&bijlage=I&z=2019-11-05&g=2019-11-05), welke wijziging in werking treedt op een door de partijen overeen te komen datum.
+2. Dit Verdrag kan met wederzijdse instemming van de partijen worden gewijzigd. Elke partij kan te allen tijde wijzigingen van dit Verdrag voorstellen. Dergelijke wijzigingen treden in werking onder de voorwaarden vervat in het eerste lid van dit artikel, met uitzondering van een wijziging van de [Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0006852&bijlage=I&z=2023-05-01&g=2023-05-01), welke wijziging in werking treedt op een door de partijen overeen te komen datum.
 
 3. Een partij kan dit Verdrag te allen tijde schriftelijk opzeggen. In dat geval eindigt het Verdrag zes maanden na ontvangst van de kennisgeving.
 
