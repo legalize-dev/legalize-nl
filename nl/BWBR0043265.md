@@ -4,7 +4,7 @@ identifier: "BWBR0043265"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-19"
-last_updated: "2020-03-04"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043265"
 soort: "ministeriele-regeling"
@@ -79,7 +79,7 @@ Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
 ##### Artikel 2. Ondermandaat leidinggevenden
 
-1. Aan de directeuren, afdelingshoofden, sectiehoofden en clusterhoofden wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot hun werkterrein en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2020-03-04&g=2020-03-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2020-03-04&g=2020-03-04).
+1. Aan de directeuren, afdelingshoofden, sectiehoofden en clusterhoofden wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot hun werkterrein en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2023-12-19&g=2023-05-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2023-12-19&g=2023-05-01).
 
 2. Afdelingshoofden, sectiehoofden en clusterhoofden zijn niet bevoegd tot het verlenen van ondermandaat.
 
@@ -99,7 +99,7 @@ Besluit vast te stellen het navolgende Mandaatbesluit Rijksvastgoedbedrijf 2020:
 
 ##### Artikel 4. Ondermandaat projectleiders
 
-1. Aan projectleiders wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van deze functionarissen en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2020-03-04&g=2020-03-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2020-03-04&g=2020-03-04).
+1. Aan projectleiders wordt ondermandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van deze functionarissen en met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=7&z=2023-12-19&g=2023-05-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043265&artikel=8&z=2023-12-19&g=2023-05-01).
 
 2. Projectleiders zijn niet bevoegd tot het verlenen van ondermandaat.
 
