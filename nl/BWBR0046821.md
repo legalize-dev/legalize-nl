@@ -4,7 +4,7 @@ identifier: "BWBR0046821"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2022-07-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046821"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Deze regeling voorziet in de aanwijzing van functies, bedoeld in [artikel 35a, e
 
 ##### Artikel 2
 
-De aanwijzing van functies, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=1&z=2022-07-01&g=2022-07-01), geschiedt door de vermelding in de bijlage bij deze regeling van de volgende gegevens, voor zover van toepassing:
+De aanwijzing van functies, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=1&z=2023-05-01&g=2023-05-01), geschiedt door de vermelding in de bijlage bij deze regeling van de volgende gegevens, voor zover van toepassing:
 
 - a. de organisatie waar de functie wordt uitgeoefend;
 
@@ -66,12 +66,13 @@ Deze regeling treedt in werking met ingang van 1 juli 2022.
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing functies VOG politiegegevens.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=2&z=2022-07-01&g=2022-07-01) van de Regeling aanwijzing functies VOG politiegegevens
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046821&artikel=2&z=2023-05-01&g=2023-05-01) van de Regeling aanwijzing functies VOG politiegegevens
 
-| **Buitengewoon opsporingsambtenaar** | **Buitengewoon opsporingsambtenaar** | **Buitengewoon opsporingsambtenaar** |
-| --- | --- | --- |
-| Functie | Functiebenaming | Bevoegdheid geweld te gebruiken ([artikel 35a, tweede lid, onder a, Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a)) |
-| Het betreft functies die behoren tot de domeinen genoemd in de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447) en die worden vervuld door buitengewoon opsporingsambtenaren van wie op de akte van beëdiging is aangetekend dat zij ingevolge [artikel 7, negende lid, Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) bevoegd zijn politiebevoegdheden uit te oefenen. | Buitengewoon opsporingsambtenaar | X |
+| Buitengewoon opsporingsambtenaar | Buitengewoon opsporingsambtenaar | Buitengewoon opsporingsambtenaar |   |
+| --- | --- | --- | --- |
+| Functie | Functiebenaming | Bevoegdheid geweld te gebruiken ([artikel 35a, tweede lid, onder a, Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a)) | Toegang tot gevoelige informatie ([artikel 35a, tweede lid, onder b, Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a)) |
+| Het betreft functies die behoren tot de domeinen genoemd in de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447) en die worden vervuld door buitengewoon opsporingsambtenaren | Buitengewoon opsporingsambtenaar |   | X |
+| Het betreft functies die behoren tot de domeinen genoemd in de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447) en die worden vervuld door buitengewoon opsporingsambtenaren van wie op de akte van beëdiging is aangetekend dat zij ingevolge [artikel 7, negende lid, Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) bevoegd zijn politiebevoegdheden uit te oefenen | Buitengewoon opsporingsambtenaar | X | X |
 
 | **Dienst Justitiële Inrichtingen** | **Dienst Justitiële Inrichtingen** | **Dienst Justitiële Inrichtingen** | **Dienst Justitiële Inrichtingen** |
 | --- | --- | --- | --- |
@@ -84,12 +85,9 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing functies VOG politiegege
 |   | Coördinator geïntegreerde beveiliging | X | X |
 |   | Arrestantenverzorger | X | X |
 |   | Badmeester | X | X |
-|   | Detentie inrichtingsbeveiliger | X | X |
-|   | Detentie inrichtingsbeveiliger receptie ingeslotenen | X | X |
 | **Inrichtingswerker** |   |   |   |
 |   | Penitentiair inrichtingswerker | X | X |
-|   | Detentie inrichtingswerker | X | X |
-|   | Detentie inrichtingswerker gezinsvervangende voorziening | X | X |
+|   | Detentietoezichthouder gezinsvervangende voorziening | X | X |
 | **Forensisch therapeutisch werker** |   |   |   |
 |   | Sociotherapeutisch medewerker | X | X |
 |   | Sociotherapeut | X | X |
@@ -293,5 +291,18 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing functies VOG politiegege
 | **Medewerkers behandelen en ontwikkelen** |   |   |
 |   | Vermogenstraceerder | X |
 |   | Beheerders conservatoir beslag | X |
+
+| Gemeenten | Gemeenten | Gemeenten | Gemeenten |
+| --- | --- | --- | --- |
+| Functie | Nadere omschrijving | Toegang tot gevoelige informatie ([artikel 35a, tweede lid, onder b, Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a)) | Integriteitsbeoordelingen ([artikel 35a, tweede lid, onder c, Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a)) |
+| **Manager op het terrein van veiligheid** | – Eindverantwoordelijk voor de adviezen die aan de burgemeester worden gegeven op het gebied van openbare orde en veiligheid (OOV); – Aansluiten bij portefeuillehouders overleggen inzake OOV of bij driehoeksoverleggen als bedoeld in [artikel 13 Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=13) | X |   |
+| **Adviseur Openbare Orde en Veiligheid (OOV) /specialisten veiligheid** | – Adviseren van de burgemeester op OOV-taken inzake de aanpak van ondermijning of georganiseerde criminaliteit; – Aansluiten bij portefeuillehouders overleggen inzake OOV of bij driehoeksoverleggen als bedoeld in [artikel 13 Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=13) | X |   |
+| **Informatiecoördinator/ Informatieanalist** | Informatie verzamelen en analyseren ten behoeve van de aanpak ondermijning en georganiseerde criminaliteit | X |   |
+| **Bibob-coördinator/Bibob-adviseur** | Werkzaamheden in het kader van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798) (Wet Bibob) |   | X |
+| **Coördinator ondermijning/medewerker ondermijning** | Werkzaamheden in de aanpak ondermijning en georganiseerde criminaliteit | X | X |
+| **OOV jurist/handhavingsjurist** | Juridische advisering en voeren procedures op het gebied van OOV | X |   |
+| **Medewerker ICT/expert informatievoorziening** | Uitvoeren van het functioneel beheer van het gemeentelijke informatievoorzieningssysteem en beheren van de toegang tot analysetools en informatiesystemen die onder andere casusinformatie analyseren op het terrein van OOV | X |   |
+| **Directiesecretariaat/managementondersteuner op het terrein van veiligheid/OOV/programma’s aanpak Ondermijning** | Faciliteren en ondersteunen van de directie en het management van afdelingen Veiligheid/OOV/programmastructuur aanpak ondermijning op secretarieel, administratief en organisatorisch gebied | X |   |
+| **Toezichthouder, niet zijnde boa’s met handhavende taken op beleidsgebieden in de clusters Leefbaarheid & Ondermijning en Drank & Horeca, Evenementen en Bijzondere Wetten en die in die hoedanigheid toegang krijgen tot gevoelige informatie, zoals bestuurlijke rapportages vanuit de politie** | Toezichthouden en handhaven op het terrein van OOV | X |   |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
