@@ -4,7 +4,7 @@ identifier: "BWBR0013176"
 country: "nl"
 rank: "wet"
 publication_date: "2023-05-01"
-last_updated: "2022-10-01"
+last_updated: "2023-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013176"
 soort: "wet"
@@ -48,11 +48,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- a. verordening: verordening (EG) nr. 1393/2007 van het Europees Parlement en de Raad van 13 november 2007 inzake de betekening en de kennisgeving in de lidstaten van gerechtelijke en buitengerechtelijke stukken in burgerlijke of in handelszaken («de betekening en de kennisgeving van stukken»), en tot intrekking van Verordening (EG) nr. 1348/2000 (PbEU L 324/79);
+- a. **verordening:** [verordening (EU) nr. 2020/1784](33684R2020) van het Europees Parlement en de Raad van 25 november 2020 inzake de betekening en de kennisgeving in de lidstaten van gerechtelijke en buitengerechtelijke stukken in burgerlijke of in handelszaken (de betekening en de kennisgeving van stukken) (herschikking) (PbEU 2020, L 405/40);
 
-- b. verzendende instanties: verzendende instanties als bedoeld in artikel 2, eerste lid, van de verordening;
+- b. verzendende instanties: verzendende instanties als bedoeld in artikel 3, eerste lid, van de verordening;
 
-- c. ontvangende instanties: ontvangende instanties als bedoeld in artikel 2, tweede lid, van de verordening.
+- c. ontvangende instanties: ontvangende instanties als bedoeld in artikel 3, tweede lid, van de verordening.
 
 ##### Artikel 2
 
@@ -60,33 +60,35 @@ In deze wet wordt verstaan onder:
 
 2. Als ontvangende instanties worden aangewezen de gerechtsdeurwaarders.
 
-3. Ten aanzien van de kennisgeving van gerechtelijke stukken door een gerecht of de griffier van een gerecht worden mede als verzendende instantie aangewezen de gerechten.
+3. Ten aanzien van de kennisgeving en betekening van gerechtelijke stukken door een gerecht of de griffier van een gerecht worden mede als verzendende instantie aangewezen de gerechten.
+
+4. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor een verzending als bedoeld in artikel 5, eerste lid, van de verordening.
 
 ##### Artikel 3
 
-1. Als centrale instantie als bedoeld in artikel 3 van de verordening wordt voor Nederland aangewezen de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders.
+1. Als centraal orgaan als bedoeld in artikel 4 van de verordening wordt voor Nederland aangewezen de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders.
 
-2. Onze Minister van Justitie kan nadere regels stellen met betrekking tot de wijze waarop de centrale instantie haar taken, bedoeld in artikel 3 van de verordening, uitvoert.
+2. Onze Minister voor Rechtsbescherming kan nadere regels stellen met betrekking tot de wijze waarop het centraal orgaan de taken, bedoeld in artikel 4 van de verordening, uitvoert.
 
 ##### Artikel 4
 
-1. Een aan een ontvangende instantie in Nederland verzonden formulier als bedoeld in artikel 4, derde lid, van de verordening kan in de Engelse of de Duitse taal worden ingevuld.
+1. Een aan een ontvangende instantie in Nederland verzonden formulier als bedoeld in artikel 3, vierde lid, van de verordening kan in de Engelse of de Duitse taal worden ingevuld.
 
-2. Een aan een verzendende instantie in Nederland verzonden certificaat als bedoeld in artikel 10 van de verordening kan in de Engelse of de Duitse taal worden ingevuld.
+2. Een aan een verzendende instantie in Nederland verzonden certificaat als bedoeld in artikel 14 van de verordening kan in de Engelse of de Duitse taal worden ingevuld.
 
 ##### Artikel 5
 
-Een aanvraag aan een ontvangende instantie in Nederland voor betekening of kennisgeving wordt uitgevoerd door middel van een exploot, tenzij uit de aanvraag voortvloeit dat zij op andere wijze moet worden uitgevoerd.
+Een aanvraag aan een ontvangende instantie in Nederland voor betekening of kennisgeving wordt uitgevoerd door middel van een exploot, tenzij uit de aanvraag voortvloeit dat zij op andere wijze moet worden uitgevoerd en het Nederlandse recht die andere wijze toestaat.
 
 ##### Artikel 6
 
-1. De vergoeding voor bijstand door een gerechtsdeurwaarder inzake de betekening of kennisgeving van uit een andere lidstaat afkomstige gerechtelijke of buitengerechtelijke stukken als bedoeld in artikel 11 van de verordening bedraagt € 65.
+1. De vergoeding voor bijstand door een gerechtsdeurwaarder inzake de betekening of kennisgeving van uit een andere lidstaat afkomstige gerechtelijke of buitengerechtelijke stukken als bedoeld in artikel 15 van de verordening bedraagt € 125.
 
-2. Onze Minister van Justitie kan het in het eerste lid bedoelde bedrag eenmaal per vijf jaar, te rekenen vanaf de datum van van toepassing worden van de verordening, wijzigen, indien daartoe gronden zijn.
+2. Onze Minister voor Rechtsbescherming kan het in het eerste lid bedoelde bedrag eenmaal per vijf jaar, te rekenen vanaf 1 juli 2022, wijzigen, indien daartoe gronden zijn.
 
 ##### Artikel 7
 
-1. In afwijking van artikel 19, eerste lid, van de verordening kan de rechter een beslissing geven, ook als geen certificaat van betekening, kennisgeving of afgifte is ontvangen, indien aan elk van de volgende voorwaarden is voldaan:
+1. In afwijking van artikel 22, eerste lid, van de verordening kan de rechter een beslissing geven, ook als geen certificaat van betekening, kennisgeving of afgifte is ontvangen, indien aan elk van de volgende voorwaarden is voldaan:
 
 - a. het stuk is op één van de in de verordening geregelde wijzen toegezonden;
 
@@ -96,7 +98,7 @@ Een aanvraag aan een ontvangende instantie in Nederland voor betekening of kenni
 
 2. Is in een geval waarin geen certificaat als bedoeld in het eerste lid is ontvangen, niet voldaan aan de in dat lid gestelde voorwaarden, dan kan de rechter, al of niet na verloop van een door hem vast te stellen termijn, zo hij daartoe gronden aanwezig acht, het verlenen van verstek tegen de verweerder weigeren.
 
-3. Een verzoek om verlening van een nieuwe termijn als bedoeld in artikel 19, vierde lid, van de verordening is slechts ontvankelijk indien het is ingediend binnen één jaar, te rekenen van de dag waarop de beslissing is gegeven.
+3. Een verzoek om verlening van een nieuwe termijn als bedoeld in artikel 22, vierde lid, van de verordening is slechts ontvankelijk indien het is ingediend binnen één jaar, te rekenen van de dag waarop de beslissing is gegeven.
 
 ##### Artikel 8
 
@@ -112,7 +114,7 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering
 
 ##### Artikel 11
 
-Indien deze wet in werking treedt voor het tijdstip waarop de [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197) in werking treedt, wordt in afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013176&artikel=3&z=2022-10-01&g=2022-10-01), tot dat tijdstip voor Nederland als centrale instantie aangewezen de Koninklijke Vereniging van Gerechtsdeurwaarders.
+Indien deze wet in werking treedt voor het tijdstip waarop de [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197) in werking treedt, wordt in afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013176&artikel=3&z=2023-05-01&g=2023-05-01), tot dat tijdstip voor Nederland als centrale instantie aangewezen de Koninklijke Vereniging van Gerechtsdeurwaarders.
 
 ##### Artikel 12
 
@@ -120,6 +122,18 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 
 ##### Artikel 13
 
-Deze wet wordt aangehaald als: Uitvoeringswet EG-betekeningsverordening.
+Deze wet wordt aangehaald als: Uitvoeringswet Betekeningsverordening.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 4a
+
+1. De gerechtsdeurwaarder aan wie de gerechtelijke of buitengerechtelijke stukken ter betekening of kennisgeving worden verzonden, wordt aangewezen als de autoriteit waarbij verzendende instanties als bedoeld in artikel 3, eerste lid, van de verordening verzoeken kunnen indienen overeenkomstig artikel 7 van de verordening tot het achterhalen van het adres van de persoon aan wie betekening of kennisgeving in Nederland moet worden gedaan. De deurwaarder kan een voorschot in rekening brengen voor de kosten van de betekening, alvorens de bijstand te verlenen.
+
+2. Indien het de rechtstreekse betekening of kennisgeving van gerechtelijke stukken betreft overeenkomstig artikel 18 van de verordening wordt de rechtbank Den Haag aangewezen als de in het eerste lid bedoelde autoriteit.
+
+##### Artikel 5a
+
+Bij algemene maatregel van bestuur kunnen aanvullende voorwaarden worden gesteld waaronder elektronische betekening of kennisgeving per e-mail wordt aanvaard, een en ander als bedoeld in artikel 19, eerste lid, onder b, van de verordening.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
