@@ -4,7 +4,7 @@ identifier: "BWBR0018936"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2022-12-10"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018936"
 soort: "ministeriele-regeling"
@@ -54,9 +54,9 @@ Vervallen
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met artikel 1 bis, artikel 2, artikel 6, eerste lid, en artikel 7 ter van [Verordening (EG) nr. 1183/2005](32005R1183) van de Raad van de Europese Unie van 18 juli 2005 tot vaststelling van bepaalde specifieke beperkende maatregelen tegen bepaalde personen die handelen in strijd met het wapenembargo tegen de Democratische Republiek Congo.
+1. Het is verboden te handelen in strijd met artikel 1 bis, artikel 2, eerste en tweede lid, artikel 6, eerste lid, en artikel 7 ter van [Verordening (EG) nr. 1183/2005](32005R1183) van de Raad van de Europese Unie van 18 juli 2005 tot vaststelling van bepaalde specifieke beperkende maatregelen tegen bepaalde personen die handelen in strijd met het wapenembargo tegen de Democratische Republiek Congo.
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in de gevallen waarin artikel 1 ter, artikel 3, artikel 4, artikel 4 ter of artikel 5 van Verordening (EG) nr. 1183/2005 van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in de gevallen waarin artikel 1 ter, artikel 2, derde lid, artikel 3, artikel 4, artikel 4 ter of artikel 5 van Verordening (EG) nr. 1183/2005 van toepassing is.
 
 ##### Artikel 3
 
