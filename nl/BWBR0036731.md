@@ -4,7 +4,7 @@ identifier: "BWBR0036731"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2018-11-14"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036731"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 2, artikel 5, artikel 14, eerste lid, en artikel 15 van Verordening (EU) nr. 2015/735 van de Raad van de Europese Unie van 7 mei 2015 betreffende beperkende maatregelen in het licht van de situatie in Zuid-Sudan en tot intrekking van Verordening (EU) nr. 748/2014 (Pb L 117).
+1. Het is verboden te handelen in strijd met artikel 2, artikel 5, eerste tot en met derde lid, artikel 14, eerste lid, en artikel 15 van Verordening (EU) nr. 2015/735 van de Raad van de Europese Unie van 7 mei 2015 betreffende beperkende maatregelen in het licht van de situatie in Zuid-Sudan en tot intrekking van Verordening (EU) nr. 748/2014 (Pb L 117).
 
-2. Het verbod te handelen in strijd met artikel 2 van Verordening (EU) nr. 2015/735, geldt niet in gevallen waarin artikel 3 artikel 4, eerste lid, van Verordening (EU) nr. 2015/735 van toepassing is. Het verbod te handelen in strijd met artikel 5 geldt niet in gevallen waarin artikel 6, artikel 7, artikel 8, eerste lid, artikel 9, artikel 10, eerste lid, artikel 11, artikel 12, eerste lid, of artikel 13 van Verordening (EU) nr. 2015/735 van toepassing is.
+2. Het verbod te handelen in strijd met artikel 2 van [Verordening (EU) nr. 2015/735](32635R2015) geldt niet in gevallen waarin artikel 3 of artikel 4, eerste lid, van [Verordening (EU) nr. 2015/735](32635R2015) van toepassing is. Het verbod te handelen in strijd met artikel 5, eerste tot en met derde lid, geldt niet in gevallen waarin artikel 5, vierde lid, artikel 6, artikel 7, artikel 8, eerste lid, artikel 9, artikel 10, eerste lid, artikel 11, artikel 12, eerste lid, of artikel 13 van [Verordening (EU) nr. 2015/735](32635R2015) van toepassing is.
 
 ##### Artikel 2
 
