@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2019-11-20"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 2 bis, eerste lid, artikel 2 quater, derde lid, artikel 3 bis, eerste en derde lid, artikel 4 bis, eerste lid, artikel 4 ter, artikel 4 quater, artikel 5, artikel 10 quinquies, eerste lid, artikel 15 bis, eerste lid, artikel 23, eerste tot en met vierde lid, artikel 23 bis, eerste tot en met vierde lid, artikel 29, eerste lid, tweede volzin, artikel 36, artikel 37, eerste en tweede lid, artikel 40, eerste lid, en artikel 41 van Verordening (EU) nr. 267/2012 van de Raad van de Europese Unie van 23 maart 2012 (Pb L 88).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 3 quater, artikel 15 bis, zesde lid, of artikel 24 tot en met artikel 29 van Verordening (EU) nr. 267/2012 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 3 quater, artikel 15 bis, zesde lid, artikel 23, zevende lid, artikel 23 bis, zevende lid, of artikel 24 tot en met artikel 29 van Verordening (EU) nr. 267/2012 van toepassing is.
 
 ##### Artikel 2
 
