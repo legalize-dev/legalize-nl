@@ -4,7 +4,7 @@ identifier: "BWBR0038916"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2019-12-19"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038916"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met de artikelen 2, 3, 4, 5, eerste en tweede lid, van [Verordening (EG) nr. 881/2002](32002R0881) van de Raad van de Europese Unie van 27 mei 2002 tot vaststelling van beperkende maatregelen tegen sommige personen en entiteiten die banden hebben met het Al-Qa’ida-netwerk (Pb EG L 139) met dien verstande dat het verbod te handelen in strijd met vorenbedoeld artikel 2 niet van toepassing is in gevallen waarin artikel 2 bis of artikel 2 ter van [Verordening (EG) nr. 881/2002](32002R0881) van toepassing is.
+1. Het is verboden te handelen in strijd met de artikelen 2, eerste lid, tweede lid en lid 2 bis, 3, 4 en 5, eerste en tweede lid, van [Verordening (EG) nr. 881/2002](32002R0881) van de Raad van de Europese Unie van 27 mei 2002 tot vaststelling van beperkende maatregelen tegen sommige personen en entiteiten die banden hebben met het Al-Qa’ida-netwerk (Pb EG L 139) met dien verstande dat het verbod te handelen in strijd met vorenbedoeld artikel 2, eerste lid, tweede lid en lid 2 bis, niet van toepassing is in gevallen waarin artikel 2, vijfde lid, 2 bis of 2 ter van [Verordening (EG) nr. 881/2002](32002R0881) van toepassing is.
 
 2. De bevoegde autoriteit, bedoeld in de artikelen 2 bis, 2 ter en 4 van [Verordening (EG) nr. 881/2002](32002R0881), is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking elk voor het gebied waartoe hun competentie zich uitstrekt. De bevoegde autoriteit, bedoeld in artikel 5 van [Verordening (EG) nr. 881/2002](32002R0881), is, afhankelijk van de aard van de informatie, de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
@@ -66,7 +66,7 @@ Vervallen
 
 ##### Artikel 5
 
-1. Het is verboden te handelen in strijd met de artikelen 2, 9, 10, eerste lid, en 11 van Verordening (EU) nr. 2016/1686 van de Raad van de Europese Unie van 20 september 2016 tot vaststelling van bijkomende beperkende maatregelen tegen ISIS (Da’esh) en Al Qaida en daarmee verbonden natuurlijke en rechtspersonen, entiteiten of lichamen (Pb EU L 255), met dien verstande dat het verbod te handelen in strijd met vorenbedoeld artikel 2 niet van toepassing is in gevallen waarin artikel 5, 6 of 7 van Verordening (EU) nr. 2016/1686 van toepassing is.
+1. Het is verboden te handelen in strijd met de artikelen 2, eerste en tweede lid, 9, 10, eerste lid, en 11 van [Verordening (EU) nr. 2016/1686](33586R2016) van de Raad van de Europese Unie van 20 september 2016 tot vaststelling van bijkomende beperkende maatregelen tegen ISIS (Da’esh) en Al Qaida en daarmee verbonden natuurlijke en rechtspersonen, entiteiten of lichamen (Pb EU L 255), met dien verstande dat het verbod te handelen in strijd met vorenbedoeld artikel 2, eerste en tweede lid, niet van toepassing is in gevallen waarin artikel 2, derde lid, 5, 6, 7 of 8 van [Verordening (EU) nr. 2016/1686](33586R2016) van toepassing is.
 
 2. De bevoegde autoriteit, bedoeld in de artikelen 5, 6, 7, 8 en 10, eerste en derde lid, van [Verordening (EU) nr. 2016/1686](32016R1686), is de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking elk voor het gebied waartoe hun competentie zich uitstrekt. De bevoegde autoriteit, bedoeld in artikel 11, tweede lid, van Verordening (EU) nr. 2016/1686, is, afhankelijk van de aard van de informatie, de Minister van Financiën dan wel de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
