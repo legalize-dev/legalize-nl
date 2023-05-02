@@ -4,7 +4,7 @@ identifier: "BWBR0040235"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2022-01-28"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040235"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 7, eerste lid, en artikel 8 van Verordening (EU) nr. 2017/1770 van de Raad van de Europese Unie van 28 september 2017 betreffende beperkende maatregelen in het licht van de situatie in Mali (PbEU 2017, L 251).
 
-2. Het verbod te handelen in strijd met artikel 2, eerste lid en tweede lid, van Verordening (EU) nr. 2017/1770, geldt niet in gevallen waarin artikel 3, eerste tot en met derde lid, artikel 3 bis, eerste lid, artikel 3 ter, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, of artikel 6 van Verordening (EU) nr. 2017/1770 van toepassing is.
+2. Het verbod te handelen in strijd met artikel 2, eerste lid en tweede lid, van Verordening (EU) nr. 2017/1770, geldt niet in gevallen waarin artikel 2, derde lid, 3, eerste tot en met derde lid, artikel 3 bis, eerste lid, artikel 3 ter, eerste lid, artikel 4, eerste lid, artikel 5, eerste lid, of artikel 6 van Verordening (EU) nr. 2017/1770 van toepassing is.
 
 ##### Artikel 2
 
