@@ -4,7 +4,7 @@ identifier: "BWBR0035436"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2019-11-20"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035436"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met de artikelen 2, 5, eerste en tweede lid, 9, eerste lid, en 10 van Verordening (EU) nr. 747/2014 van de Raad van de Europese Unie van 10 juli 2014 betreffende beperkende maatregelen in verband met de situatie in Sudan en tot intrekking van Verordening (EG) nr. 131/2004 en Verordening (EG) nr. 1184/2005 (Pb 2014, L 203).
 
-2. Het verbod te handelen in strijd met artikel 2, van Verordening (EU) nr. 747/2014, geldt niet in gevallen waarin artikel 3 of 4 van Verordening nr. (EU) 747/2014 van toepassing is. Het verbod te handelen in strijd met artikel 5, eerste en tweede lid, geldt niet in gevallen waarin artikel 6, 7, 8, of 9, eerste lid, van Verordening (EU) nr. 747/2014 van toepassing is.
+2. Het verbod te handelen in strijd met artikel 2, van Verordening (EU) nr. 747/2014, geldt niet in gevallen waarin artikel 3 of 4 van Verordening nr. (EU) 747/2014 van toepassing is. Het verbod te handelen in strijd met artikel 5, eerste en tweede lid, geldt niet in gevallen waarin artikelen 5, vierde lid, 6, 7, 8, of 9, eerste lid, van Verordening (EU) nr. 747/2014 van toepassing is.
 
 ##### Artikel 2
 
