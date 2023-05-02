@@ -4,7 +4,7 @@ identifier: "BWBR0040211"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2019-06-01"
+last_updated: "2023-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040211"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 3, eerste lid, artikel 5, artikel 7, eerste lid, artikel 10, eerste lid, artikel 11 tot en met artikel 13, artikel 15, artikel 16 bis, artikel 16 ter, artikel 16 quater, artikel 16 quinquies, artikel 16 septies, artikel 16 nonies, artikel 16 undecies, artikel 16 duodecies, artikel 16 terdecies, artikel 16 quaterdecies, artikel 16 quindecies, artikel 16 septdecies, artikel 17, artikel 18, eerste lid, artikel 20, eerste lid, artikel 21, eerste en tweede lid, artikel 23, artikel 24, artikel 26, artikel 28, artikel 30 tot en met 32, artikel 34, eerste tot en met derde lid, artikel 38, vierde lid, artikel 39, eerste lid, artikel 41, eerste lid, artikel 43, eerste lid, artikel 44 bis, artikel 50, eerste lid, en artikel 52 van Verordening (EU) nr. 2017/1509 van de Raad van Europa van 30 augustus 2017 betreffende beperkende maatregelen tegen de Democratische Volksrepubliek Korea en tot intrekking van Verordening (EG) nr. 329/2007 (Pb EU L 224).
 
-2. Het verbod, bedoeld in het eerste lid, geldt niet in de gevallen waarin artikel 3, derde lid, artikel 4, eerste en tweede lid, artikel 6, eerste lid, artikel 7, tweede lid, artikel 8, eerste en tweede lid, artikel 10, tweede tot en met vierde lid, artikel 14, artikel 16, artikel 16 sexies, eerste lid, artikel 16 octies, eerste lid, artikel 16 decies, eerste en tweede lid, artikel 16 sexdecies, eerste lid, artikel 16 octodecies, eerste lid, artikel 17 bis, eerste en tweede lid, artikel 17 ter, artikel 18, tweede en derde lid, artikel 19, artikel 20, eerste lid, onderdeel c, onder i) en onder ii), artikel 21, derde tot en met vijfde lid, artikel 22, eerste en vierde lid, artikel 25, eerste lid, artikel 27, eerste lid, artikel 29, eerste en tweede lid, artikel 33, eerste lid, artikel 34, zevende tot en met negende lid, artikel 35, eerste en tweede lid, artikel 36, eerste en tweede lid, artikel 37, artikel 38, derde lid, artikel 39, tweede lid, artikel 40, artikel 41, tweede lid, artikel 42, artikel 44, eerste tot en met vijfde lid, artikel 45, eerste lid, of artikel 45 bis, eerste lid, van Verordening (EU) nr. 2017/1509 van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, geldt niet in de gevallen waarin artikel 3, derde lid, artikel 4, eerste en tweede lid, artikel 6, eerste lid, artikel 7, tweede lid, artikel 8, eerste en tweede lid, artikel 10, tweede tot en met vierde lid, artikel 14, artikel 16, artikel 16 sexies, eerste lid, artikel 16 octies, eerste lid, artikel 16 decies, eerste en tweede lid, artikel 16 sexdecies, eerste lid, artikel 16 octodecies, eerste lid, artikel 17 bis, eerste en tweede lid, artikel 17 ter, artikel 18, tweede en derde lid, artikel 19, artikel 20, eerste lid, onderdeel c, onder i) en onder ii), artikel 21, derde tot en met vijfde lid, artikel 22, eerste en vierde lid, artikel 25, eerste lid, artikel 27, eerste lid, artikel 29, eerste en tweede lid, artikel 33, eerste lid, artikel 34, zevende tot en met tiende lid, artikel 35, eerste en tweede lid, artikel 36, eerste en tweede lid, artikel 37, artikel 38, derde lid, artikel 39, tweede lid, artikel 40, artikel 41, tweede lid, artikel 42, artikel 44, eerste tot en met vijfde lid, artikel 45, eerste lid, of artikel 45 bis, eerste lid, van Verordening (EU) nr. 2017/1509 van toepassing is.
 
 ##### Artikel 2
 
@@ -82,7 +82,7 @@ Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen
 
 ##### Artikel 4
 
-Een instelling als bedoeld in [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2019-06-01&g=2019-06-01).
+Een instelling als bedoeld in [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2023-05-02&g=2023-05-02).
 
 ##### Artikel 5
 
@@ -110,11 +110,11 @@ Deze regeling wordt aangehaald als: Sanctieregeling Noord-Korea 2017.
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-## Bijlage. bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2019-06-01&g=2019-06-01)
+## Bijlage. bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2023-05-02&g=2023-05-02)
 
 ### Toelichting
 
-Deze bijlage bevat de gebieden van onderwijs en onderzoek waarvoor in het hoger onderwijs ontheffing vereist is, zoals bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2019-06-01&g=2019-06-01), van de Sanctieregeling Noord-Korea 2017. De lijst is een zo nauwkeurig mogelijke omschrijving van de reikwijdte van het verbod om in het hoger onderwijs en wetenschappelijk onderzoek zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap proliferatiegevoelige kennis te verstrekken, zoals bepaald in artikel 3, eerste lid, van de regeling. De lijst heeft geen limitatief karakter. Voor een nadere duiding zij verwezen naar https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/waarom-heb-ik-een-ontheffing-nodig-voor-bepaalde-technische-nucleaire-studies
+Deze bijlage bevat de gebieden van onderwijs en onderzoek waarvoor in het hoger onderwijs ontheffing vereist is, zoals bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040211&artikel=3&z=2023-05-02&g=2023-05-02), van de Sanctieregeling Noord-Korea 2017. De lijst is een zo nauwkeurig mogelijke omschrijving van de reikwijdte van het verbod om in het hoger onderwijs en wetenschappelijk onderzoek zonder ontheffing van de Minister van Onderwijs, Cultuur en Wetenschap proliferatiegevoelige kennis te verstrekken, zoals bepaald in artikel 3, eerste lid, van de regeling. De lijst heeft geen limitatief karakter. Voor een nadere duiding zij verwezen naar https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/waarom-heb-ik-een-ontheffing-nodig-voor-bepaalde-technische-nucleaire-studies
 
 Deze bijlage is met name van belang voor het hoger onderwijs en wetenschappelijk onderzoek en doet niet af aan het algemene verbod om kennis over te dragen die zou kunnen bijdragen aan proliferatiegevoelige activiteiten van Noord-Korea of aan de ontwikkeling van systemen voor de overbrenging van kernwapens in Noord-Korea. Dat algemene verbod geldt ook buiten het hoger onderwijs en buiten de hier vermelde kennisgebieden.
 
