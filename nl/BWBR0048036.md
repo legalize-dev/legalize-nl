@@ -4,7 +4,7 @@ identifier: "BWBR0048036"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-03"
-last_updated: "2023-04-06"
+last_updated: "2023-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048036"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ c. **de commissie:**Adviescommissie benoeming leden van de Restitutiecommissie.
 
 - b. De heer drs. V. G. Moolenaar
 
-- c. Mevrouw dr. G. N. Verschoor
+- c. De heer prof. dr. Stolwijk
 
 2. Bij het ontstaan van tussentijdse vacatures in de commissie benoemt de minister nieuwe leden.
 
