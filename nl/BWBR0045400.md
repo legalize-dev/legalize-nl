@@ -4,7 +4,7 @@ identifier: "BWBR0045400"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-05-05"
-last_updated: "2023-01-26"
+last_updated: "2023-05-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045400"
 soort: "beleidsregel"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 ### 3. Vergoeding voorzitter
 
-Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn en de arbeidsduurfactor op 8/36.
+Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van de laatstelijk afgesloten collectieve arbeidsovereenkomst die is gesloten voor de ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn en de arbeidsduurfactor op 12/36.
 
 ### 4. Vergoeding andere leden
 
