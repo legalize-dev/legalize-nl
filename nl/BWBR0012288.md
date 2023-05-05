@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2023-04-22"
+last_updated: "2023-05-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -2189,7 +2189,7 @@ Geen
 
 ### 2.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Bij brief van 28 februari 2022 is aan de Tweede Kamer kenbaar gemaakt dat voor Oekraïne een opschorting van de aanwijzing van veilig land van herkomst geldt en een besluitmoratorium voor de duur van zes maanden is ingesteld. Zie hiervoor ook het landgebonden asielbeleid voor Oekraïne onder C7 Vc.
+De aanwijzing van Oekraïne als veilig van herkomst is opgeschort tot 28 augustus 2023.
 
 ### 3. Het asielbeleid ten aanzien van Angola
 
@@ -4425,7 +4425,7 @@ De aanwijzing van dit land als veilig land van herkomst geldt niet ten aanzien v
 
 Geen
 
-**Bijzonderheden en/of uitzonderingen:**
+Bijzonderheden en/of uitzonderingen:
 
 ### 2.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -7019,7 +7019,7 @@ Ten aanzien van asielzoekers met de Oekraïense nationaliteit is een besluitmora
 
 ### 26.1. Besluitmoratorium
 
-Ten aanzien van asielzoekers met de Oekraïense nationaliteit is een besluitmoratorium in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) van toepassing.
+Ten aanzien van asielzoekers met de Oekraïense nationaliteit is een besluitmoratorium in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) van toepassing. De beslistermijnen van lopende asielaanvragen en van asielaanvragen die tijdens het moratorium worden ontvangen, worden verlengd tot 21 maanden.
 
 ## Bijlage
 
@@ -7185,7 +7185,7 @@ Geen bijzonderheden.
 
 ### 26.7. Vertrekmoratorium
 
-Ten aanzien van asielzoekers met de Oekraïense nationaliteit is een vertrekmoratorium in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) van toepassing.
+Geen bijzonderheden.
 
 Ten aanzien van asielzoekers met de Oekraïense nationaliteit is een vertrekmoratorium in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) van toepassing.
 
@@ -7255,7 +7255,7 @@ Geen bijzonderheden.
 
 ### 26.8. Bijzonderheden
 
-De aanwijzing van veilig land van herkomst is opgeschort.
+Geen bijzonderheden.
 
 ### 27. Het asielbeleid ten aanzien van Pakistan
 
