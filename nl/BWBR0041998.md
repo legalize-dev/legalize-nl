@@ -4,7 +4,7 @@ identifier: "BWBR0041998"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-02"
-last_updated: "2019-01-01"
+last_updated: "2023-05-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041998"
 soort: "ministeriele-regeling"
@@ -60,13 +60,15 @@ In dit besluit wordt verstaan onder:
 
 - g. **de plaatsvervangend Chief Veterinary Officer:** de plaatsvervangend Chief Veterinary Officer van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- h. **de programmadirecteur Realisatie Visie-LNV:** de programmadirecteur Realisatie Visie-LNV van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- h. **programmadirecteur regieorganisatie GLB:** de programmadirecteur Regieorganisatie gemeenschappelijk landbouwbeleid van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- i. **de directeur Regiebureau POP:** de directeur van het Regiebureau Plattelandsontwikkelingspro-gramma van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- i. **de programmadirecteur Realisatie Visie-LNV:** de programmadirecteur Realisatie Visie-LNV van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- j. **de secretaris van de Raad voor Dierenaangelegenheden:** de secretaris van de Raad voor Dierenaangelegenheden van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- j. **de directeur Regiebureau POP:** de directeur van het Regiebureau Plattelandsontwikkelingspro-gramma van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- k. **het bedrag:** bedrag inclusief de verschuldigde omzetbelasting (BTW).
+- k. **de secretaris van de Raad voor Dierenaangelegenheden:** de secretaris van de Raad voor Dierenaangelegenheden van het directoraat-generaal Agro van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+
+- l. **het bedrag:** bedrag inclusief de verschuldigde omzetbelasting (BTW).
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende medewerkers
 
@@ -126,13 +128,13 @@ Aan de Chief Veterinary Officer wordt ondermandaat en machtiging verleend voor a
 
 ##### Artikel 6
 
-Aan de programmadirecteur Realisatie Visie-LNV wordt volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 1.000.000 per verplichting niet te boven gaat.
+Vervallen
 
 ##### Artikel 7
 
-1. Aan de directeur Regiebureau POP wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein.
+1. Aan de programmadirecteur Regieorganisatie GLB wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein.
 
-2. Aan de directeur Regiebureau POP wordt tevens voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
+2. Aan de programmadirecteur Regieorganisatie GLB wordt tevens voor de onder hem ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
 - a. het verlenen van verlof en kort buitengewoon verlof;
 
@@ -146,13 +148,15 @@ Aan de programmadirecteur Realisatie Visie-LNV wordt volmacht en machtiging verl
 
 ##### Artikel 8
 
-Aan de secretaris van de Raad voor Dierenaangelegenheden wordt volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
+Vervallen
 
 #### § 3. Vervanging
 
 ##### Artikel 9
 
-De uit dit besluit voor de directeuren voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger. Bij afwezigheid van zowel de directeur als zijn plaatsvervanger gaan de uit dit besluit voortvloeiende bevoegdheden over op een ander MT-lid van die directie.
+1. De uit dit besluit voor een (programma)directeur voortvloeiende bevoegdheden gaan in geval van afwezigheid over op zijn plaatsvervanger. Bij afwezigheid van zowel de directeur als zijn plaatsvervanger gaan de uit dit besluit voortvloeiende bevoegdheden over op een door de directeur aangewezen MT-lid van die directie.
+
+2. De uit dit besluit voor een MT-lid voortvloeiende bevoegdheden gaan in geval van afwezigheid over op een ander MT-lid.
 
 #### § 4. Slotbepalingen
 
