@@ -4,7 +4,7 @@ identifier: "BWBR0048130"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-10-19"
-last_updated: "2023-05-01"
+last_updated: "2023-05-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048130"
 soort: "zbo"
@@ -93,7 +93,7 @@ Deze beleidsregels zijn van toepassing op het toekennen door het CAK van een ver
 
 - b. de kosten die het CAK op grond van artikel 26, zevende lid, van de toepassingsverordening verplicht is te vergoeden aan het orgaan van de verblijfplaats of aan de gerechtigde zelf, lager zijn dan het bedrag dat overeenkomstig de polis zou zijn vergoed indien de zorg in Nederland zou zijn verleend.
 
-2. [Artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048130&artikel=3&z=2023-05-06&g=2023-05-01), is van overeenkomstige toepassing.
+2. [Artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048130&artikel=3&z=2023-05-06&g=2023-05-06), is van overeenkomstige toepassing.
 
 ##### Artikel 5. Indienen declaraties
 
