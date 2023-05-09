@@ -4,7 +4,7 @@ identifier: "BWBR0048423"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-09"
-last_updated: "2022-10-01"
+last_updated: "2023-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048423"
 soort: "ministeriele-regeling"
@@ -79,7 +79,7 @@ Overwegende de [artikelen 10.1 tot en met 10.12 van de Algemene wet bestuursrech
 
 Besluit:
 
-Van het ingevolge [artikel 1, onderdeel e van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1) aan de Algemeen Directeur van het Centraal Justitieel Incassobureau verleende ondermandaat, wordt ondermandaat verleend aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048423&artikel=1&z=2023-05-09&g=2022-10-01) van dit besluit bedoelde functionarissen voor de onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048423&artikel=3&z=2023-05-09&g=2022-10-01) genoemde aangelegenheden.
+Van het ingevolge [artikel 1, onderdeel e van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1) aan de Algemeen Directeur van het Centraal Justitieel Incassobureau verleende ondermandaat, wordt ondermandaat verleend aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048423&artikel=1&z=2023-05-09&g=2023-05-09) van dit besluit bedoelde functionarissen voor de onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048423&artikel=3&z=2023-05-09&g=2023-05-09) genoemde aangelegenheden.
 
 Mandaat, volmacht en machtiging te verlenen voor het – voortvloeiend uit de toegepaste bevoegdheden – uitvoeren van rechtshandelingen die betrekking hebben op coördinatie en tenuitvoerlegging van strafrechtelijke beslissingen en inning van administratieve sancties [Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581).
 
