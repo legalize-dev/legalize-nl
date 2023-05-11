@@ -4,7 +4,7 @@ identifier: "BWBR0028148"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-20"
-last_updated: "2022-09-24"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028148"
 soort: "ministeriele-regeling"
@@ -286,6 +286,9 @@ Vervallen
 | --- | --- | --- | --- |
 | Aarde en economie | 50668 | Vrije Universiteit Amsterdam | Leraar Aardrijkskunde |
 | Aardwetenschappen | 56986 | Universiteit Utrecht en Vrije Universiteit Amsterdam | **''** |
+| Bèta-gamma (Afstudeerrichting Aardwetenschappen) | 50250 | Universiteit van Amsterdam | Aardrijkskunde |
+| Bèta-gamma (Afstudeerrichting Planologie) | 50250 | Universiteit van Amsterdam | Aardrijkskunde |
+| Bèta-gamma (Afstudeerrichting Sociale Geografie) | 50250 | Universiteit van Amsterdam | Aardrijkskunde |
 | Geografie, Planologie en Milieu | 56947 | Radboud Universiteit Nijmegen | **''** |
 | Future Planet Studies | 50425 | Universiteit van Amsterdam | **''** |
 | International Land and Water Management2 | 50100 | Wageningen University | **''** |
@@ -303,7 +306,10 @@ Vervallen
 | Biology | 59325 | Radboud Universiteit Nijmegen | **''** |
 | Psychobiologie | 50014 | Universiteit van Amsterdam | **''** |
 | Biomedische Wetenschappen | 56990 | Universiteit Leiden, Universiteit Utrecht, Universiteit Maastricht en Universiteit van Amsterdam | **''** |
+| Biomedische Wetenschappen | 56990 | Radboud Universiteit Nijmegen | Biologie |
 | Bèta-Gamma (Afstudeerrichting Biologie) | 50250 | Universiteit van Amsterdam | **''** |
+| Bèta-gamma (Afstudeerrichting Biomedische Wetenschapen) | 50250 | Universiteit van Amsterdam | Biologie |
+| Bèta-gamma (Afstudeerrichting Neurobiologie) | 50250 | Universiteit van Amsterdam | Biologie |
 | Gezondheidswetenschappen | 56553 | Universiteit Maastricht | **''** |
 | Biomedical Sciences | 59324 | Vrije Universiteit Amsterdam | **''** |
 | Plantenwetenschappen (leertraject onderwijs | 56835 | Wageningen University | **''** |
@@ -351,6 +357,7 @@ Vervallen
 | Hebreeuwse Taal en Cultuur | 50901 | Universiteit van Amsterdam | Leraar Hebreeuws |
 | Artificial Intelligence | 56945 | Vrije Universiteit Amsterdam | Leraar Informatica |
 | Artificial Intelligence | 56981 | Rijksuniversiteit Groningen | **''** |
+| Bèta-gamma (Afstudeerrichting Kunstmatige Intelligentie) | 50250 | Universiteit van Amsterdam | Informatica |
 | Business Information Technology | 56066 | Universiteit Twente | **''** |
 | Computer Science | 50426 | Vrije Universiteit Amsterdam | **''** |
 | Computing Science | 59326 | Radboud Universiteit Nijmegen | **''** |
@@ -374,6 +381,9 @@ Vervallen
 | Latijnse Taal en Cultuur | 56816 | Universiteit van Amsterdam | Leraar Latijn en KCV |
 | Oudheidwetenschappen | 56704 | Vrije Universiteit Amsterdam | **''** |
 | Algemene Sociale Wetenschappen | 56631 | Universiteit Utrecht en Universiteit van Amsterdam | Leraar Maatschappijleer |
+| Bèta-gamma (Afstudeerrichting Culturele Antropologie) | 50250 | Universiteit van Amsterdam | Maatschappijleer |
+| Bèta-gamma (Afstudeerrichting Politicologie) | 50250 | Universiteit van Amsterdam | Maatschappijleer |
+| Bèta-gamma (Afstudeerrichting Sociologie) | 50250 | Universiteit van Amsterdam | Maatschappijleer |
 | Bestuurskunde | 56627 | Universiteit Leiden, Erasmus Universiteit Rotterdam, Radboud Universiteit Nijmegen en Tilburg University | **''** |
 | Bestuurs- en Organisatiewetenschap | 50007 | Universiteit Utrecht en Vrije Universiteit Amsterdam | **''** |
 | Communicatiewetenschap | 56615 | Universiteit Twente, Universiteit van Amsterdam, Vrije Universiteit Amsterdam en Radboud Universiteit Nijmegen | **''** |
