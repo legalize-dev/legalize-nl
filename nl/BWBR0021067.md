@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2023-02-15"
+last_updated: "2023-05-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en consulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2023-02-15&g=2023-02-15), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
+2. In afwijking van [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2023-05-11&g=2023-05-11), heeft de verzoeker die de naturalisatietoets bij een Nederlandse diplomatieke of consulaire vertegenwoordiging aflegt, de naturalisatietoets behaald, indien hij:
 
 - a. voor wat betreft de examinering van de mondelinge en schriftelijke vaardigheden in de Nederlandse taal de onderdelen, bedoeld in [artikel 3.9, tweede lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) met goed gevolg heeft afgelegd; en
 
@@ -192,7 +192,7 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 4. DUO geeft het in het derde lid bedoelde advies in ieder geval op diens verzoek af aan de vreemdeling die:
 
-- a. ten minste viermaal heeft deelgenomen aan de niet behaalde onderdelen van de naturalisatietoets, waarvan ten hoogste twee van de examenpogingen de overeenkomstige onderdelen van het staatsexamen Nederlands als tweede taal betreffen, en ten minste 600 uur bij een cursusinstelling met het Blik op Werk-keurmerk heeft deelgenomen aan:
+- a. ten minste driemaal heeft deelgenomen aan de niet behaalde onderdelen van de naturalisatietoets, waarvan ten hoogste twee van de examenpogingen de overeenkomstige onderdelen van het staatsexamen Nederlands als tweede taal betreffen, en ten minste 600 uur bij een cursusinstelling met het Blik op Werk-keurmerk heeft deelgenomen aan:
 
 - 1°. een inburgeringscursus;
 
