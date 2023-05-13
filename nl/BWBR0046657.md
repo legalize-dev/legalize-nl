@@ -4,7 +4,7 @@ identifier: "BWBR0046657"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-05-13"
-last_updated: "2022-05-13"
+last_updated: "2023-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046657"
 soort: "beleidsregel"
@@ -109,21 +109,21 @@ Een vaartuig wordt niet als pleziervaartuig aangemerkt als deze wordt gebruikt v
 
 ### 3.3. Samengestelde verzekeringen
 
-Een samengestelde verzekering is een verzekering (of samenstel van verzekeringen) die dekking geeft tegen verschillende, op zichzelf staande risico’s, waarvoor de verzekeraar één premie in rekening brengt.
+De vrijstelling geldt voor verzekeringen voor het vervoer van goederen waarvoor een transportbedrijf is gecontracteerd. Het gaat hierbij om schade aan goederen opgelopen ten gevolge van of tijdens het vervoer van de plaats van vertrek naar de plaats van bestemming. De vrijstelling is ook van toepassing op verzekeringen van de uit de vervoersovereenkomst voortvloeiende of uit anderen hoofde bestaande aansprakelijkheid van vervoerders, stuwadoors en expediteurs bij vervoer van goederen. Verder is de vrijstelling van toepassing op verzekeringen van eigendommen van bemanningen van schepen voor het verblijf aan boord.
 
-Een samengestelde verzekering kan een of meer vrijgestelde verzekeringen omvatten. De vrijstelling van assurantiebelasting wordt dan toegepast op het aan die vrijgestelde verzekeringen toe te rekenen gedeelte van de premie ([artikel 24, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=24)). Als er sprake is van een samengestelde verzekering met zowel vrijgestelde als belaste verzekeringen voor de assurantiebelasting waarbij de premie niet eenduidig kan worden gesplitst, kan hierover een verzoek tot vooroverleg worden gedaan aan:
+De vrijstelling geldt ook voor verzekeringen voor het zogenoemde ‘eigen vervoer’ waarvoor geen transportbedrijf is gecontracteerd, maar wel sprake is van bedrijfsmatig vervoer. Het betreft:
 
-Belastingdienst/kantoor Arnhem
+De vrijstelling is niet van toepassing op verzekeringen van eigen goederen die weliswaar worden vervoerd maar niet met uitsluitend het oogmerk om deze naar een andere plaats van bestemming te brengen. Hierbij kan worden gedacht aan de gereedschappen van een aannemer die in zijn bestelbus aanwezig zijn.
 
-Assurantiebelasting
+Volledigheidshalve merk ik op dat het bovenstaande geen invloed heeft op het beleid ter zake van reizigersbagage. Dit betekent dat de vrijstelling van toepassing is op verzekeringen van reizigersbagage, voor zover deze verzekeringen dekking bieden voor schade of verlies opgelopen tijdens het vervoer van de plaats van vertrek naar de plaats van bestemming en tijdens het verblijf ter plekke. Het maakt daarbij geen verschil of de reizigersbagage door een gecontracteerde vervoerder wordt vervoerd of door de reiziger zelf.
 
 Postbus 9007
 
-6800 DJ Arnhem
+De vrijstelling voor transportverzekeringen geldt voor de verzekering van het transport, inclusief nachtrisicodekking, zonder bijkomende dekking voor verblijfrisico’s. Als transportverzekering is onder andere een geldtransportverzekering aan te merken. Deze verzekering bevat soms een bijzondere clausule, waardoor het verzekerde risico gedurende maximaal drie dagen doorloopt. Dit is het geval als de vervoerder door bijzondere omstandigheden niet in staat is om dezelfde dag waarop hij de gelden heeft ontvangen tot uitbetaling over te gaan. In dat geval is naar mijn oordeel sprake van één verzekering en geldt de vrijstelling onverkort.
 
-### 3.3.1. Transportverzekering en accijnsverzekering
+### 3.2.2. Dekking van opslag
 
-Een bijzondere situatie betreft een transportverzekering met accijnsverzekering. Bijvoorbeeld bij doorvoer van gedistilleerd kan vermogensverlies ontstaan door heffing van accijnzen (of soortgelijke belastingen of rechten) als gevolg van schade tijdens het transport. Tegen dit vermogensverlies kan men zich verzekeren door middel van een accijnsverzekering. Naar mijn oordeel is in een dergelijk geval (eveneens) sprake van een transportverzekering. De accijnsverzekering is aldus vrijgesteld van assurantiebelasting.
+De dekking van bijvoorbeeld in havenloodsen opgeslagen zendingen van de verzekerde maakt geen deel uit van de vrijgestelde transportverzekering. De opslag voorafgaand aan of volgend op het transport kan echter volstrekt noodzakelijk samenhangen met het transport. Op voorwaarde dat voor de opslag geen extra premie is verschuldigd, ontmoet het bij mij geen bezwaar om in dat geval slechts één verzekering te zien, namelijk een transportverzekering. Van de genoemde volstrekt noodzakelijke samenhang wordt geacht sprake te zijn bij opslag gedurende maximaal drie maanden. Bij opslag gedurende een periode van langer dan drie maanden moet aannemelijk worden gemaakt dat nog steeds sprake is van een volstrekt noodzakelijke samenhang tussen de opslag en het transport.
 
 ### 3.3.2. Transportverzekering met bijkomende verzekering
 
@@ -131,7 +131,27 @@ Het is mogelijk om naast een transportverzekering een bijkomende verzekering af 
 
 ### 3.4. Herverzekeringen
 
-Herverzekeringen zijn vrijgesteld van assurantiebelasting (zie [artikel 24, eerste lid, onderdeel g, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=24)). De vrijstelling geldt slechts indien uit het contract duidelijk blijkt dat er sprake is van een herverzekering. Een verzekeraar van een bepaald risico moet daarbij zijn uit die verzekering voortvloeiende schadekans aldus bij een andere verzekeraar in (her)verzekering hebben gegeven. Bovendien moet het contract naar het oorspronkelijke risico verwijzen.
+Een samengestelde verzekering kan een of meer vrijgestelde verzekeringen omvatten. De vrijstelling van assurantiebelasting wordt dan toegepast op het aan die vrijgestelde verzekeringen toe te rekenen gedeelte van de premie ([artikel 24, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=24)). Als er sprake is van een samengestelde verzekering met zowel vrijgestelde als belaste verzekeringen voor de assurantiebelasting waarbij de premie niet eenduidig kan worden gesplitst, kan hierover een verzoek tot vooroverleg worden gedaan aan:
+
+### 3.5. Exportkredietverzekeringen
+
+Assurantiebelasting
+
+Postbus 9007
+
+6800 DJ Arnhem
+
+In het bovenstaande is op hoofdlijnen aangegeven welke verzekeringen en garanties in aanmerking komen voor de vrijstelling voor exportkredietverzekeringen. Voor de toepassing van de vrijstelling in de praktijk kunnen concrete casusposities ter beoordeling worden voorgelegd aan:
+
+Een bijzondere situatie betreft een transportverzekering met accijnsverzekering. Bijvoorbeeld bij doorvoer van gedistilleerd kan vermogensverlies ontstaan door heffing van accijnzen (of soortgelijke belastingen of rechten) als gevolg van schade tijdens het transport. Tegen dit vermogensverlies kan men zich verzekeren door middel van een accijnsverzekering. Naar mijn oordeel is in een dergelijk geval (eveneens) sprake van een transportverzekering. De accijnsverzekering is aldus vrijgesteld van assurantiebelasting.
+
+Assurantiebelasting
+
+Het is mogelijk om naast een transportverzekering een bijkomende verzekering af te sluiten. Zo is bijvoorbeeld een berovingsverzekering mogelijk naast een geldtransportverzekering. Deze bijkomende verzekering deelt dan niet in de vrijstelling. De verschuldigde premie zal dan moeten worden gesplitst in een vrijgesteld deel en een belast deel. Het ontmoet bij mij geen bezwaar om bij deze splitsing in de volgende gevallen gebruik te maken van de daarbij vermelde forfaitaire percentages:
+
+6800 DJ Arnhem
+
+### 4. Belastingplicht
 
 ### 3.5. Exportkredietverzekeringen
 
@@ -151,7 +171,7 @@ Postbus 9007
 
 6800 DJ Arnhem
 
-### 4. Belastingplicht
+De Belastingdienst houdt van de door de inspecteur aangewezen assurantiebemiddelaars een lijst aan. Deze lijst is raadpleegbaar op www.belastingdienst.nl.
 
 ### 4.1. Assurantiebemiddelaar als belastingplichtige
 
@@ -165,7 +185,7 @@ Een assurantiebemiddelaar die wil worden aangewezen als belastingplichtige, als 
 
 Belastingdienst/kantoor Arnhem
 
-Assurantiebelasting
+### 4.3. Belastingplicht verzekeraar gevestigd binnen EU/EER
 
 Postbus 9007
 
@@ -173,15 +193,49 @@ Postbus 9007
 
 De Belastingdienst houdt van de door de inspecteur aangewezen assurantiebemiddelaars een lijst aan. Deze lijst is raadpleegbaar op www.belastingdienst.nl.
 
-### 4.2. Belastingplicht bij co-assurantie
+Ingeval verzekeringen zijn afgesloten door tussenkomst van een bemiddelaar, keur ik onder voorwaarden het volgende goed. In afwijking van [artikel 25, vijfde lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=25) wordt, in plaats van de bemiddelaar, de niet in Nederland gevestigde verzekeraar als belastingplichtige voor de assurantiebelasting aangemerkt.
 
 Van co-assurantie is sprake als een verzekering bij meer dan één verzekeraar is ondergebracht. Als in dat geval de verzekering niet is gesloten door tussenkomst van een belastingplichtige assurantiebemiddelaar, is iedere verzekeraar voor zijn aandeel in de premie belastingplichtig voor de assurantiebelasting ([artikel 25 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=25)).
 
 Ik acht het op praktische gronden in deze situatie niet in alle gevallen wenselijk dat elke bij de co-assurantie betrokken verzekeraar voor zijn aandeel in de premie als belastingplichtige wordt aangemerkt. Ik keur daarom het volgende goed.
 
-In geval van co-assurantie zonder tussenkomst van een belastingplichtige assurantiebemiddelaar, keur ik onder voorwaarden goed dat de verzekeraar die de polis opmaakt en de volledige premie int (de zogenoemde ‘leader’) als belastingplichtige voor de gehele verzekering wordt aangemerkt, met uitsluiting van de medeverzekeraars als belastingplichtige.
+### 5. Ingetrokken regeling
 
 Voor deze goedkeuring gelden de volgende vier voorwaarden.
+
+### 6. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de uitgifte van de Staatscourant waarin het wordt geplaatst, met dien verstande dat onderdeel 3.2 in werking treedt na afloop van een jaar na deze datum.
+
+Dit besluit wordt in de Staatscourant gepubliceerd.
+
+Transportverzekeringen, waaronder zogenoemde verzekeringen van freight, zijn vrijgesteld van assurantiebelasting (zie [artikel 24, eerste lid, onderdeel f, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=24)). Een transportverzekering is een verzekering tegen risico’s van schade als gevolg van vervoer van goederen over zee, te land, op binnenwateren en door de lucht.
+
+### 3.2.1. Geldtransportverzekeringen
+
+De vrijstelling is niet van toepassing op verzekeringen van opgeslagen goederen in een stilliggend schip of een schip dat als een bergplaats van de vervoerder kan worden aangemerkt. Hierbij is niet van belang dat het schip soms naar een andere plaats wordt gebracht.
+
+### 3.3. Samengestelde verzekeringen
+
+Een samengestelde verzekering is een verzekering (of samenstel van verzekeringen) die dekking geeft tegen verschillende, op zichzelf staande risico’s, waarvoor de verzekeraar één premie in rekening brengt.
+
+Belastingdienst/kantoor Arnhem
+
+### 3.3.1. Transportverzekering en accijnsverzekering
+
+### 3.3.2. Transportverzekering met bijkomende verzekering
+
+### 3.4. Herverzekeringen
+
+Herverzekeringen zijn vrijgesteld van assurantiebelasting (zie [artikel 24, eerste lid, onderdeel g, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=24)). De vrijstelling geldt slechts indien uit het contract duidelijk blijkt dat er sprake is van een herverzekering. Een verzekeraar van een bepaald risico moet daarbij zijn uit die verzekering voortvloeiende schadekans aldus bij een andere verzekeraar in (her)verzekering hebben gegeven. Bovendien moet het contract naar het oorspronkelijke risico verwijzen.
+
+### 4. Belastingplicht
+
+Assurantiebelasting
+
+### 4.2. Belastingplicht bij co-assurantie
+
+In geval van co-assurantie zonder tussenkomst van een belastingplichtige assurantiebemiddelaar, keur ik onder voorwaarden goed dat de verzekeraar die de polis opmaakt en de volledige premie int (de zogenoemde ‘leader’) als belastingplichtige voor de gehele verzekering wordt aangemerkt, met uitsluiting van de medeverzekeraars als belastingplichtige.
 
 Als niet aan de bovengenoemde voorwaarden wordt voldaan is de goedkeuring niet van toepassing en gelden ten aanzien van de belastingplicht voor elke betrokken verzekeraar onverkort de wettelijke bepalingen.
 
