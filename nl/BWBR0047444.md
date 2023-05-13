@@ -4,7 +4,7 @@ identifier: "BWBR0047444"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-21"
-last_updated: "2023-04-14"
+last_updated: "2023-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047444"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Besluit:
 
 - −. **mulchsysteem:** teeltsysteem waarbij de bodem in het najaar wordt geploegd, gevolgd door de inzaai van een bodembedekking, waarbij in het voorjaar uitsluitend niet-kerende grondbewerking plaatsvindt;
 
-- −. **natte teelten:** natte teelt als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14);
+- −. **natte teelten:** natte teelt als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13);
 
 - −. **nevenactiviteit:** activiteit die in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2), is vermeld na de hoofdactiviteit;
 
@@ -226,7 +226,7 @@ Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in ee
 
 6. Als blijvend grasland komt tevens in aanmerking:
 
-- a. mengsels van gras, niet zijnde riet, met een gewas uit de gewassenlijst ‘stikstofbindende gewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14), waarbij het aandeel gras meer dan 50% is; en
+- a. mengsels van gras, niet zijnde riet, met een gewas uit de gewassenlijst ‘stikstofbindende gewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13), waarbij het aandeel gras meer dan 50% is; en
 
 - b. areaal blijvend grasland met maximaal 100 bomen per hectare.
 
@@ -238,11 +238,11 @@ Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in ee
 
 3. Het tweede lid is niet van toepassing indien de landbouwer aantoont door middel van een accountantsverklaring dat de landbouwactiviteit een nevenactiviteit is, waaronder begrepen het in stand houden van landbouwareaal, waarmee een derde van het totale bedrag aan inkomsten in het meest recente belastingjaar wordt verdiend, dan wel een derde van een gemiddeld bedrag aan inkomsten over de drie meest recente belastingjaren.
 
-4. Als accountantsverklaring wordt vastgesteld een accountantsverklaring die overeenkomt met het model dat is opgenomen in [bijlage5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=5&z=2023-04-14&g=2023-04-14).
+4. Als accountantsverklaring wordt vastgesteld een accountantsverklaring die overeenkomt met het model dat is opgenomen in [bijlage5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=5&z=2023-05-13&g=2023-05-13).
 
 5. Het eerste en tweede lid zijn niet van toepassing ingeval de landbouwer voor het voorgaande aanvraagjaar minder dan 5.000 euro aan rechtstreekse betalingen heeft ontvangen.
 
-6. Een overnemer als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=40&z=2023-04-14&g=2023-04-14), wordt als actieve landbouwer aangemerkt indien de inschrijving, bedoeld in het eerste lid, uiterlijk ten tijde van de melding van de overdracht van het bedrijf is geschied, en voor zover uit de inschrijving blijkt dat het bedrijf van de overnemer is opgericht op uiterlijk de datum van de bedrijfsoverdracht.
+6. Een overnemer als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=40&z=2023-05-13&g=2023-05-13), wordt als actieve landbouwer aangemerkt indien de inschrijving, bedoeld in het eerste lid, uiterlijk ten tijde van de melding van de overdracht van het bedrijf is geschied, en voor zover uit de inschrijving blijkt dat het bedrijf van de overnemer is opgericht op uiterlijk de datum van de bedrijfsoverdracht.
 
 ##### Artikel 6. Subsidiabele hectare
 
@@ -254,9 +254,9 @@ Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in ee
 
 - b. het landbouwareaal na afloop van deze activiteiten weer in een staat verkeert waarin begrazing of teelt mogelijk is.
 
-3. Van de in het eerste lid bedoelde situatie is tevens sprake indien op een landbouwareaal voor meer dan 90 dagen niet-landbouwactiviteiten plaatsvinden in het kader van contracten op basis van de subsidieregelingen ANLb of de Catalogus Groenblauwe diensten en het landbouwareaal na afloop van deze activiteiten weer in een staat verkeert waarin begrazing of teelt mogelijk is overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-04-14&g=2023-04-14).
+3. Van de in het eerste lid bedoelde situatie is tevens sprake indien op een landbouwareaal voor meer dan 90 dagen niet-landbouwactiviteiten plaatsvinden in het kader van contracten op basis van de subsidieregelingen ANLb of de Catalogus Groenblauwe diensten en het landbouwareaal na afloop van deze activiteiten weer in een staat verkeert waarin begrazing of teelt mogelijk is overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-05-13&g=2023-05-13).
 
-4. Als areaal dat overwegend voor niet-landbouwactiviteiten wordt gebruikt en daardoor voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14), niet wordt beschouwd als subsidiabele hectare, wordt in elk geval aangemerkt:
+4. Als areaal dat overwegend voor niet-landbouwactiviteiten wordt gebruikt en daardoor voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13), niet wordt beschouwd als subsidiabele hectare, wordt in elk geval aangemerkt:
 
 - a. moes- en siertuinen;
 
@@ -282,7 +282,7 @@ Het criterium waaraan de landbouwer dient te voldoen om een landbouwareaal in ee
 
 5. In afwijking van het vierde lid, onderdeel k, is er sprake van subsidiabele hectare indien verspreid over het perceel maximaal 100 zonnepanelen per hectare staan die gezamenlijk een oppervlakte van maximaal 100m² beslaan.
 
-6. De minimumoppervlakte van een perceel landbouwgrond waarvoor rechtstreekse betalingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14), kunnen worden aangevraagd bedraagt afgerond 0,01 hectare.
+6. De minimumoppervlakte van een perceel landbouwgrond waarvoor rechtstreekse betalingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13), kunnen worden aangevraagd bedraagt afgerond 0,01 hectare.
 
 7. In afwijking van het zesde lid komt:
 
@@ -364,23 +364,23 @@ Geen rechtstreekse betalingen worden toegekend aan de landbouwer indien het tota
 
 ##### Artikel 10. Aanmelding deelname
 
-1. Een landbouwer die aanspraak maakt op betalingen als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14), doet hiertoe in de periode van 15 oktober tot en met 30 november voorafgaand aan het aanvraagjaar een aanmelding. Wanneer 30 november een zaterdag of zondag is wordt de uiterste termijn verlengd tot en met de eerstvolgende dag die niet een zaterdag of zondag is.
+1. Een landbouwer die aanspraak maakt op betalingen als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13), doet hiertoe in de periode van 15 oktober tot en met 30 november voorafgaand aan het aanvraagjaar een aanmelding. Wanneer 30 november een zaterdag of zondag is wordt de uiterste termijn verlengd tot en met de eerstvolgende dag die niet een zaterdag of zondag is.
 
 2. De aanmelding wordt gedaan door middel van een door de minister beschikbaar gesteld elektronisch formulier en bevat in ieder geval:
 
-- a. een ondertekende aanmelding tot deelname aan één of meer van de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14), genoemde regelingen;
+- a. een ondertekende aanmelding tot deelname aan één of meer van de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13), genoemde regelingen;
 
 - b. een opgave van alle percelen en in voorkomend geval alle landschapselementen die naar verwachting op de peildatum ter beschikking van de landbouwer staan;
 
 - c. een concept bouwplan dat betrekking heeft op het aanvraagjaar;
 
-- d. de voorgenomen eco-activiteiten, bedoeld in de [artikelen 18 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-04-14&g=2023-04-14), die betrekking hebben op het betreffende aanvraagjaar; en
+- d. de voorgenomen eco-activiteiten, bedoeld in de [artikelen 18 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-05-13&g=2023-05-13), die betrekking hebben op het betreffende aanvraagjaar; en
 
 - e. het BTW-nummer van de landbouwer en, indien van toepassing, de naam van de moedermaatschappij of dochteronderneming met het daarbij behorende BTW-nummer.
 
 3. De landbouwer die aanspraak maakt op betalingen verklaart voorts:
 
-- a. te voldoen aan de voorwaarden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-04-14&g=2023-04-14), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-04-14&g=2023-04-14), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-04-14&g=2023-04-14) en [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-04-14&g=2023-04-14);
+- a. te voldoen aan de voorwaarden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=3&z=2023-05-13&g=2023-05-13), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-05-13&g=2023-05-13), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-05-13&g=2023-05-13) en [7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-05-13&g=2023-05-13);
 
 - b. toestemming te verlenen aan de minister om persoonsgegevens te verwerken ten behoeve van de controle op de naleving van deze regeling; en
 
@@ -392,9 +392,9 @@ Geen rechtstreekse betalingen worden toegekend aan de landbouwer indien het tota
 
 - b. de gewassen die per perceel worden geteeld; en
 
-- c. de eco-activiteiten per perceel, bedoeld in de [artikelen 18 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-04-14&g=2023-04-14):
+- c. de eco-activiteiten per perceel, bedoeld in de [artikelen 18 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-05-13&g=2023-05-13):
 
-- 1°. die worden uitgevoerd met inachtneming van de uiterste termijn, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14);
+- 1°. die worden uitgevoerd met inachtneming van de uiterste termijn, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13);
 
 - 2°. die niet, gedeeltelijk niet, of niet volgens de voorwaarden, worden uitgevoerd;
 
@@ -404,25 +404,25 @@ Geen rechtstreekse betalingen worden toegekend aan de landbouwer indien het tota
 
 6. In afwijking van het eerste lid kan een landbouwer die na de in het eerste lid bedoelde periode is begonnen met zijn landbouwactiviteit tot en met de peildatum een aanmelding doen.
 
-7. In afwijking van het eerste lid doet de landbouwer die in aanvraagjaar 2023 aanspraak wil maken op betalingen hiertoe in de periode van 1 maart tot en met 15 mei 2023 een aanmelding.
+7. In afwijking van het eerste lid doet de landbouwer die in aanvraagjaar 2023 aanspraak wil maken op betalingen hiertoe in de periode van 1 maart tot en met 15 juni 2023 een aanmelding.
 
 8. In geval het indienen van de aanmelding op of kort voor de sluitingsdatum, genoemd in het eerste lid, langere tijd niet mogelijk is door een calamiteit aan de kant van het elektronisch loket kan de minister met inachtneming van een redelijke termijn een nieuw tijdstip voor uiterste indiening van de aanmelding bepalen.
 
 ##### Artikel 11. Aanvraag
 
-1. Een landbouwer die ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) een aanmelding tot deelname heeft gedaan dient in de periode van 15 oktober tot en met 30 november van het aanvraagjaar een aanvraag in. Wanneer 30 november een zaterdag of zondag is wordt de uiterste termijn verlengd tot en met de eerstvolgende dag die niet een zaterdag of zondag is.
+1. Een landbouwer die ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) een aanmelding tot deelname heeft gedaan dient in de periode van 15 oktober tot en met 30 november van het aanvraagjaar een aanvraag in. Wanneer 30 november een zaterdag of zondag is wordt de uiterste termijn verlengd tot en met de eerstvolgende dag die niet een zaterdag of zondag is.
 
-2. Na de in het eerste lid bedoelde uiterste datum kunnen geen wijzigingen meer worden aangebracht in de aanvraag, behoudens gevallen als bedoeld in artikel 59, zesde lid, van [verordening 2021/2116](32021R2116) en [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=46&z=2023-04-14&g=2023-04-14).
+2. Na de in het eerste lid bedoelde uiterste datum kunnen geen wijzigingen meer worden aangebracht in de aanvraag, behoudens gevallen als bedoeld in artikel 59, zesde lid, van [verordening 2021/2116](32021R2116) en [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=46&z=2023-05-13&g=2023-05-13).
 
 3. De aanvraag wordt gedaan door middel van een door de minister beschikbaar gesteld elektronisch formulier en bevat in ieder geval:
 
 - a. een opgave van alle percelen en in voorkomend geval alle landschapselementen die op de peildatum ter beschikking van de landbouwer staan;
 
-- b. een opgave van de zeldzame landbouwhuisdierrassen, als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-04-14&g=2023-04-14), die betrekking hebben op het desbetreffende aanvraagjaar;
+- b. een opgave van de zeldzame landbouwhuisdierrassen, als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-05-13&g=2023-05-13), die betrekking hebben op het desbetreffende aanvraagjaar;
 
-- c. indien van toepassing een accountantsverklaring als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-04-14&g=2023-04-14);
+- c. indien van toepassing een accountantsverklaring als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-05-13&g=2023-05-13);
 
-- d. indien van toepassing een volledige invulling voor het aandeel niet productieve grond, bedoeld in[artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14), in samenhang met [bijlage 4, onder 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-04-14&g=2023-04-14); en
+- d. indien van toepassing een volledige invulling voor het aandeel niet productieve grond, bedoeld in[artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13), in samenhang met [bijlage 4, onder 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-05-13&g=2023-05-13); en
 
 - e. een opgave van de gerealiseerde eco-activiteiten.
 
@@ -430,7 +430,7 @@ Geen rechtstreekse betalingen worden toegekend aan de landbouwer indien het tota
 
 5. De minister beslist op de aanvraag, bedoeld in het eerste lid, uiterlijk op 30 juni van het jaar volgend op het jaar waarin de aanvraag is ingediend.
 
-6. Indien een landbouwer niet voldoet aan het vereiste, bedoeld in het derde lid, onderdeel d, wordt de aanvraag door de minister aangepast door beschikbare niet productieve gronden aan te wijzen totdat aan de verplichting van [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14), in samenhang met [bijlage 4, onder 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-04-14&g=2023-04-14), wordt voldaan.
+6. Indien een landbouwer niet voldoet aan het vereiste, bedoeld in het derde lid, onderdeel d, wordt de aanvraag door de minister aangepast door beschikbare niet productieve gronden aan te wijzen totdat aan de verplichting van [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13), in samenhang met [bijlage 4, onder 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-05-13&g=2023-05-13), wordt voldaan.
 
 ##### Artikel 12. Belastingdienst
 
@@ -438,7 +438,7 @@ De belastingdienst maakt voor de uitvoering van deze regeling het BTW-nummer van
 
 ##### Artikel 13. Ontheffing elektronische weg
 
-1. De minister kan een ontheffing verlenen van de verplichting langs elektronische weg de aanmelding, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14), of de aanvraag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-04-14&g=2023-04-14), in te dienen, in geval de landbouwer aantoont:
+1. De minister kan een ontheffing verlenen van de verplichting langs elektronische weg de aanmelding, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13), of de aanvraag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-05-13&g=2023-05-13), in te dienen, in geval de landbouwer aantoont:
 
 - a. te behoren tot een geloofsgemeenschap die het gebruik van de elektronische weg in zijn geheel afwijst; of
 
@@ -452,7 +452,7 @@ De belastingdienst maakt voor de uitvoering van deze regeling het BTW-nummer van
 
 ##### Artikel 14. Aanvullende betaling
 
-1. Een landbouwer die aanspraak maakt op de betaling van basisinkomenssteun voor duurzaamheid, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-04-14&g=2023-04-14), krijgt aanvullend hierop een betaling van herverdelende inkomenssteun voor maximaal 40 hectaren.
+1. Een landbouwer die aanspraak maakt op de betaling van basisinkomenssteun voor duurzaamheid, bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-05-13&g=2023-05-13), krijgt aanvullend hierop een betaling van herverdelende inkomenssteun voor maximaal 40 hectaren.
 
 2. De minister stelt elk jaar een bedrag- en hectaregrens als bedoeld in artikel 29, derde lid, van [verordening (EU) 2021/2115](32021R2115) vast.
 
@@ -460,7 +460,7 @@ De belastingdienst maakt voor de uitvoering van deze regeling het BTW-nummer van
 
 ##### Artikel 15. Voorwaarden
 
-1. Een landbouwer kan aanspraak maken op de betaling voor aanvullende inkomenssteun voor jonge landbouwers, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-04-14&g=2023-04-14), voor de resterende periode, bedoeld in artikel 30, tweede lid, tweede alinea, van [verordening (EU) 2021/2115](32021R2115), indien de jonge landbouwer daadwerkelijke langdurige zeggenschap heeft over het bedrijf op de peildatum van het aanvraagjaar.
+1. Een landbouwer kan aanspraak maken op de betaling voor aanvullende inkomenssteun voor jonge landbouwers, bedoeld in [artikel 2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-05-13&g=2023-05-13), voor de resterende periode, bedoeld in artikel 30, tweede lid, tweede alinea, van [verordening (EU) 2021/2115](32021R2115), indien de jonge landbouwer daadwerkelijke langdurige zeggenschap heeft over het bedrijf op de peildatum van het aanvraagjaar.
 
 2. Bij een aanspraak als bedoeld in het eerste lid, verleent de landbouwer toestemming aan de minister om persoonsgegevens te verwerken ten behoeve van de controle op de naleving van deze regeling.
 
@@ -500,19 +500,19 @@ De minister stelt elk jaar een vast bedrag per jonge landbouwer als bedoeld in a
 
 De Eco-activiteiten in de categorie hoofdteelt zijn:
 
-- a. een **rustgewas**, onder de volgende voorwaarde: de landbouwer teelt een gewas uit de gewassenlijst ‘rustgewassen eco-regeling’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14) als hoofdteelt met een zichtbare bedekking.
+- a. een **rustgewas**, onder de volgende voorwaarde: de landbouwer teelt een gewas uit de gewassenlijst ‘rustgewassen eco-regeling’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13) als hoofdteelt met een zichtbare bedekking.
 
 - b. een **vezelgewas**, onder de volgende voorwaarden:
 
-- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘vezelgewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14) als hoofdteelt met een zichtbare bedekking; en
+- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘vezelgewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13) als hoofdteelt met een zichtbare bedekking; en
 
-- 2°. [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=9&z=2023-04-14&g=2023-04-14) is van overeenkomstige toepassing op de teelt van hennep.
+- 2°. [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=9&z=2023-05-13&g=2023-05-13) is van overeenkomstige toepassing op de teelt van hennep.
 
-- c. een **stikstofbindend gewas**onder de volgende voorwaarde: de landbouwer teelt uitsluitend één of meerdere gewassen uit de gewassenlijst ‘stikstofbindende gewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14) als hoofdteelt met een zichtbare bedekking of teelt een gewas uit de gewassenlijst 'stikstofbindende gewassen’ als bedoeld in bijlage 1 in combinatie met graan, waarbij het aandeel van stikstofbindende gewassen meer dan 50% is.
+- c. een **stikstofbindend gewas**onder de volgende voorwaarde: de landbouwer teelt uitsluitend één of meerdere gewassen uit de gewassenlijst ‘stikstofbindende gewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13) als hoofdteelt met een zichtbare bedekking of teelt een gewas uit de gewassenlijst 'stikstofbindende gewassen’ als bedoeld in bijlage 1 in combinatie met graan, waarbij het aandeel van stikstofbindende gewassen meer dan 50% is.
 
 - d. een **meerjarige teelt**, vanaf het tweede jaar, onder de volgende voorwaarden:
 
-- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘meerjarige gewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14) als hoofdteelt met een zichtbare bedekking; en
+- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘meerjarige gewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13) als hoofdteelt met een zichtbare bedekking; en
 
 - 2°. het gewas is in het voorgaande jaar als hoofdteelt geteeld en staat aaneengesloten op het perceel.
 
@@ -528,15 +528,15 @@ De Eco-activiteiten in de categorie hoofdteelt zijn:
 
 - 1°. de landbouwer teelt:
 
-- a. gras, kruidachtige voedergewassen en vlinderbloemigen uit de gewassenlijst ‘stikstofbindend gewas’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14), op het perceel, waarbij van 1 juni tot 1 oktober minimaal 25 procent van het perceel uit duidelijk zichtbare kruidachtige voedergewassen en vlinderbloemigen en minimaal 25 procent uit gras bestaat, tenzij de landbouwer als gevolg van een contract voor agrarisch natuurbeheer op basis van de subsidieregelingen ANLb beheerspakket 3 ‘plasdras voor weidevogels’ uitvoert waardoor hij tijdelijk niet kan voldoen aan de zichtbare bedekking; of
+- a. gras, kruidachtige voedergewassen en vlinderbloemigen uit de gewassenlijst ‘stikstofbindend gewas’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13), op het perceel, waarbij van 1 juni tot 1 oktober minimaal 25 procent van het perceel uit duidelijk zichtbare kruidachtige voedergewassen en vlinderbloemigen en minimaal 25 procent uit gras bestaat, tenzij de landbouwer als gevolg van een contract voor agrarisch natuurbeheer op basis van de subsidieregelingen ANLb beheerspakket 3 ‘plasdras voor weidevogels’ uitvoert waardoor hij tijdelijk niet kan voldoen aan de zichtbare bedekking; of
 
-- b. gras, kruidachtige voedergewassen en vlinderbloemigen uit de gewassenlijst ‘stikstofbindend gewas’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14), waarbij van 1 juni tot 1 oktober minimaal 25 procent uit duidelijk zichtbare kruidachtige voedergewassen en vlinderbloemigen en minimaal 25 procent uit gras bestaat, op de grasstroken tussen de fruitbomen of -struiken, op minimaal 30 procent van de oppervlakte van de grasstroken; en
+- b. gras, kruidachtige voedergewassen en vlinderbloemigen uit de gewassenlijst ‘stikstofbindend gewas’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13), waarbij van 1 juni tot 1 oktober minimaal 25 procent uit duidelijk zichtbare kruidachtige voedergewassen en vlinderbloemigen en minimaal 25 procent uit gras bestaat, op de grasstroken tussen de fruitbomen of -struiken, op minimaal 30 procent van de oppervlakte van de grasstroken; en
 
 - 2°. gras, kruidachtige voedergewassen en vlinderbloemigen zijn gelijkmatig verdeeld over het perceel.
 
 - g. een **natte teelt,** onder de volgende voorwaarden:
 
-- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘natte teelten’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14) als hoofdgewas met een zichtbare bedekking;
+- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘natte teelten’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13) als hoofdgewas met een zichtbare bedekking;
 
 - 2°. de teelt vindt plaats op areaal dat tussen 2015 en 2022 werd aangemerkt als landbouwareaal; en
 
@@ -544,7 +544,7 @@ De Eco-activiteiten in de categorie hoofdteelt zijn:
 
 - h. een **vroeg ras rooigewas 1 september**, onder de volgende voorwaarden:
 
-- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘vroeg ras rooigewas 1 september’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14) als hoofdteelt met een zichtbare bedekking;
+- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘vroeg ras rooigewas 1 september’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13) als hoofdteelt met een zichtbare bedekking;
 
 - 2°. de landbouwer oogst het aangegeven vroeg ras rooigewas vóór 1 september van het aanvraagjaar; en
 
@@ -552,7 +552,7 @@ De Eco-activiteiten in de categorie hoofdteelt zijn:
 
 - i. een **vroeg ras rooigewas 1 november**, onder de volgende voorwaarden:
 
-- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘vroeg ras rooigewas 1 november’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14) als hoofdteelt met een zichtbare bedekking; en
+- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘vroeg ras rooigewas 1 november’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13) als hoofdteelt met een zichtbare bedekking; en
 
 - 2°. de landbouwer oogst het aangegeven vroeg ras rooigewas vóór 1 november van het aanvraagjaar.
 
@@ -568,7 +568,7 @@ De Eco-activiteiten in de categorie hoofdteelt zijn:
 
 - 2°. de stroken zijn minimaal drie en maximaal 27 meter breed;
 
-- 3°. de landbouwer teelt een combinatie van minimaal vijf gewassen, met uitzondering van blijvend grasland, als hoofdteelt met een zichtbare bedekking, waarvan tenminste twee productieve gewassen en één rustgewas uit de gewassenlijst ‘rustgewassen eco-regeling’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14); en
+- 3°. de landbouwer teelt een combinatie van minimaal vijf gewassen, met uitzondering van blijvend grasland, als hoofdteelt met een zichtbare bedekking, waarvan tenminste twee productieve gewassen en één rustgewas uit de gewassenlijst ‘rustgewassen eco-regeling’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13); en
 
 - 4°. een strook met struiken en bomen waaronder boslandbouw is toegestaan.
 
@@ -578,7 +578,7 @@ De Eco-activiteiten in de categorie bodemgewas zijn:
 
 - a. **onderzaai vanggewas,** onder de volgende voorwaarden:
 
-- 1°. de landbouwer teelt een vanggewas uit de gewassenlijst ‘groenbemesters / vanggewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14) als onderzaai in combinatie met de hoofdteelt, zodat dit leidt tot zichtbare bodembedekking direct na de oogst van de hoofdteelt;
+- 1°. de landbouwer teelt een vanggewas uit de gewassenlijst ‘groenbemesters / vanggewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13) als onderzaai in combinatie met de hoofdteelt, zodat dit leidt tot zichtbare bodembedekking direct na de oogst van de hoofdteelt;
 
 - 2°. tot ten minste 1 december bestaat de oppervlakte van het betreffende perceel voor minimaal 80 procent uit het aangegeven vanggewas;
 
@@ -588,7 +588,7 @@ De Eco-activiteiten in de categorie bodemgewas zijn:
 
 - b. **groenbedekking,** onder de volgende voorwaarden:
 
-- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘groenbemesters / vanggewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14), waarbij gedurende de gehele periode van 1 januari tot 1 maart de oppervlakte van het betreffende perceel voor minimaal 80 procent uit het aangegeven gewas bestaat;
+- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘groenbemesters / vanggewassen’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13), waarbij gedurende de gehele periode van 1 januari tot 1 maart de oppervlakte van het betreffende perceel voor minimaal 80 procent uit het aangegeven gewas bestaat;
 
 - 2°. uitsluitend pleksgewijze toepassing van gewasbeschermingsmiddelen of biociden is toegestaan, op maximaal 10 procent van de oppervlakte van het perceel landbouwgrond; en
 
@@ -600,7 +600,7 @@ De Eco-activiteit in de categorie teeltmaatregel is:
 
 **biologische bestrijding**, onder de volgende voorwaarden:
 
-- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘biologische bestrijding’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14);
+- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘biologische bestrijding’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13);
 
 - 2°. op het perceel met biologische bestrijding wordt de steriele insectentechniek (SIT) ter beheersing van de uienvlieg of feromoonverwarring ter beheersing van de fruitmot, pruimenmot, bessenglasvlinder, vruchtbladroller, leverkleurige bladroller, grote appelbladroller, of heggebladroller toegepast; en
 
@@ -608,7 +608,7 @@ De Eco-activiteit in de categorie teeltmaatregel is:
 
 ##### Artikel 21. Eco-activiteiten op een bufferstrook
 
-De eco-activiteiten, bedoeld in [artikel 23, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-04-14&g=2023-04-14) zijn niet toegestaan op een bufferstrook als bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14), in samenhang met [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-04-14&g=2023-04-14), onder 4 en 4a.
+De eco-activiteiten, bedoeld in [artikel 23, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-05-13&g=2023-05-13) zijn niet toegestaan op een bufferstrook als bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13), in samenhang met [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-05-13&g=2023-05-13), onder 4 en 4a.
 
 ##### Artikel 22. Eco-activiteiten categorie veemaatregel
 
@@ -660,13 +660,13 @@ De Eco-activiteiten in de categorie niet-productieve grond zijn:
 
 - b. **landschapselement hout**, onder de volgende voorwaarde:
 
-- 1°. de landbouwer houdt een landschapselement als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-04-14&g=2023-04-14), in stand gelegen op of grenzend aan landbouwgrond van 1 januari tot en met 31 december; en
+- 1°. de landbouwer houdt een landschapselement als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-05-13&g=2023-05-13), in stand gelegen op of grenzend aan landbouwgrond van 1 januari tot en met 31 december; en
 
 - 2°. het knippen of snoeien van landschapselementen is niet toegestaan in de periode van 15 maart tot en met 15 juli en in het geval buiten die periode in landschapselementen door vogels wordt gebroed.
 
 - c. **groene braak**, onder de volgende voorwaarden:
 
-- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘groene braak’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-04-14&g=2023-04-14) als hoofdteelt op bouwland, die minimaal drie meter breed is;
+- 1°. de landbouwer teelt een gewas uit de gewassenlijst ‘groene braak’ als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=1&z=2023-05-13&g=2023-05-13) als hoofdteelt op bouwland, die minimaal drie meter breed is;
 
 - 2°. in de periode van 31 mei tot 31 augustus bestaat de oppervlakte voor minimaal 80 procent uit het aangegeven gewas;
 
@@ -676,7 +676,7 @@ De Eco-activiteiten in de categorie niet-productieve grond zijn:
 
 - d. een kruidenrijke bufferstrook langs bouwland of blijvende teelt, onder de volgende voorwaarden:
 
-- 1°. de landbouwer beheert een kruidenrijke beheerde bufferstrook die minimaal drie meter en maximaal 12 meter breed is en geheel of gedeeltelijk samenvalt met de bufferstrook, bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14), in samenhang met [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-04-14&g=2023-04-14), onder 4 en 4a;
+- 1°. de landbouwer beheert een kruidenrijke beheerde bufferstrook die minimaal drie meter en maximaal 12 meter breed is en geheel of gedeeltelijk samenvalt met de bufferstrook, bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13), in samenhang met [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-05-13&g=2023-05-13), onder 4 en 4a;
 
 - 2°. de bufferstrook ligt op of langs bouwland, met uitzondering van tijdelijk grasland, of op of langs een perceel blijvende teelt;
 
@@ -690,7 +690,7 @@ De Eco-activiteiten in de categorie niet-productieve grond zijn:
 
 - e. een kruidenrijke bufferstrook langs grasland, onder de volgende voorwaarden:
 
-- 1°. de landbouwer beheert een kruidenrijke beheerde bufferstrook die minimaal drie meter en maximaal 12 meter breed is en geheel of gedeeltelijk samenvalt met de bufferstrook, bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14), in samenhang met [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-04-14&g=2023-04-14), onder 4 en 4a;
+- 1°. de landbouwer beheert een kruidenrijke beheerde bufferstrook die minimaal drie meter en maximaal 12 meter breed is en geheel of gedeeltelijk samenvalt met de bufferstrook, bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13), in samenhang met [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-05-13&g=2023-05-13), onder 4 en 4a;
 
 - 2°. de kruidenrijke bufferstrook ligt langs een perceel met grasland;
 
@@ -714,23 +714,23 @@ De Eco-activiteit in de categorie biologische productie is:
 
 ##### Artikel 25. Voorwaarden eco-regeling
 
-1. De landbouwer die aanspraak maakt op de betaling voor de eco-regeling, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14):
+1. De landbouwer die aanspraak maakt op de betaling voor de eco-regeling, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13):
 
-- a. voldoet per uitgevoerde eco-activiteit aan de desbetreffende voorwaarden, bedoeld in de [artikelen 18 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-04-14&g=2023-04-14);
+- a. voldoet per uitgevoerde eco-activiteit aan de desbetreffende voorwaarden, bedoeld in de [artikelen 18 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-05-13&g=2023-05-13);
 
-- b. heeft voor de subsidiabele hectares per regio een minimaal aantal punten volgens de verdeelsleutel, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14), onderdeel C, behaald voor de verbetering van klimaat, bodem en lucht, water, landschap en biodiversiteit gedifferentieerd naar regio als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14), onderdeel B;
+- b. heeft voor de subsidiabele hectares per regio een minimaal aantal punten volgens de verdeelsleutel, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13), onderdeel C, behaald voor de verbetering van klimaat, bodem en lucht, water, landschap en biodiversiteit gedifferentieerd naar regio als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13), onderdeel B;
 
-- c. heeft voor de subsidiabele hectares minimaal een waarde op het niveau van het tarief brons behaald, als bedoeld in [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=27&z=2023-04-14&g=2023-04-14); en
+- c. heeft voor de subsidiabele hectares minimaal een waarde op het niveau van het tarief brons behaald, als bedoeld in [artikel 27, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=27&z=2023-05-13&g=2023-05-13); en
 
 - d. is verantwoordelijk voor de uitvoering van de eco-activiteiten op de subsidiabele hectares die op de peildatum bij hem in gebruik zijn.
 
-2. Onverminderd [artikel 10, tweede lid, onderdeel d en vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14), geeft de landbouwer, uiterlijk op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14) genoemde datum, aan welke eco-activiteiten op welke percelen zullen worden uitgevoerd. Wanneer deze uiterste datum op een zaterdag, zondag of een algemeen erkende feestdag als bedoeld in de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) eindigt, wordt deze verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
+2. Onverminderd [artikel 10, tweede lid, onderdeel d en vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13), geeft de landbouwer, uiterlijk op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13) genoemde datum, aan welke eco-activiteiten op welke percelen zullen worden uitgevoerd. Wanneer deze uiterste datum op een zaterdag, zondag of een algemeen erkende feestdag als bedoeld in de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) eindigt, wordt deze verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
 
 ##### Artikel 26. Combinatie van activiteiten
 
-1. Uitbetaling kan worden gevraagd voor de uitvoering van verschillende, elkaar niet uitsluitende eco-activiteiten op hetzelfde perceel, als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14), waarbij zowel de punten als de waardes van die eco-activiteit bij elkaar mogen worden opgeteld.
+1. Uitbetaling kan worden gevraagd voor de uitvoering van verschillende, elkaar niet uitsluitende eco-activiteiten op hetzelfde perceel, als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13), waarbij zowel de punten als de waardes van die eco-activiteit bij elkaar mogen worden opgeteld.
 
-2. Bij de uitvoering van verschillende eco-activiteiten op hetzelfde perceel die dezelfde handeling omvatten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14):
+2. Bij de uitvoering van verschillende eco-activiteiten op hetzelfde perceel die dezelfde handeling omvatten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13):
 
 - a. worden de punten toegekend van de activiteit die het hoogste aantal te behalen punten oplevert; en
 
@@ -740,11 +740,11 @@ De Eco-activiteit in de categorie biologische productie is:
 
 ##### Artikel 27. Berekening en betaling
 
-1. Het totaal aantal punten, bedoeld in [artikel 25, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-14&g=2023-04-14), wordt berekend door de subsidiabele hectares waarop de eco-activiteit is gerealiseerd en die op de peildatum bij de landbouwer in gebruik zijn, te vermenigvuldigen met het aantal te behalen punten voor de verbetering van klimaat, bodem en lucht, water, landschap en biodiversiteit gedifferentieerd naar regio, zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14).
+1. Het totaal aantal punten, bedoeld in [artikel 25, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-05-13&g=2023-05-13), wordt berekend door de subsidiabele hectares waarop de eco-activiteit is gerealiseerd en die op de peildatum bij de landbouwer in gebruik zijn, te vermenigvuldigen met het aantal te behalen punten voor de verbetering van klimaat, bodem en lucht, water, landschap en biodiversiteit gedifferentieerd naar regio, zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13).
 
-2. In afwijking van het eerste lid wordt het totaal aantal punten voor de eco-activiteiten, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22&z=2023-04-14&g=2023-04-14), berekend door de oppervlakte tijdelijk en blijvend grasland, met uitzondering van het grasland dat wordt ingezet als kruidenrijke beheerde bufferstrook als bedoeld in [artikel 23 onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-04-14&g=2023-04-14), waarop de eco-activiteit wordt uitgevoerd en die op de peildatum bij de landbouwer in gebruik zijn, te vermenigvuldigen met het aantal te behalen punten voor de verbetering van klimaat, bodem en lucht, water, landschap en biodiversiteit, zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14).
+2. In afwijking van het eerste lid wordt het totaal aantal punten voor de eco-activiteiten, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22&z=2023-05-13&g=2023-05-13), berekend door de oppervlakte tijdelijk en blijvend grasland, met uitzondering van het grasland dat wordt ingezet als kruidenrijke beheerde bufferstrook als bedoeld in [artikel 23 onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-05-13&g=2023-05-13), waarop de eco-activiteit wordt uitgevoerd en die op de peildatum bij de landbouwer in gebruik zijn, te vermenigvuldigen met het aantal te behalen punten voor de verbetering van klimaat, bodem en lucht, water, landschap en biodiversiteit, zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13).
 
-3. Per uitgevoerde eco-activiteit wordt de waarde berekend door het aantal subsidiabele hectares waarop de eco-activiteit wordt uitgevoerd, te vermenigvuldigen met de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14) vastgestelde waarde, gedifferentieerd naar regio.
+3. Per uitgevoerde eco-activiteit wordt de waarde berekend door het aantal subsidiabele hectares waarop de eco-activiteit wordt uitgevoerd, te vermenigvuldigen met de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13) vastgestelde waarde, gedifferentieerd naar regio.
 
 4. Indien op bedrijfsniveau gemiddeld per hectare een waarde is behaald van:
 
@@ -760,17 +760,17 @@ De Eco-activiteit in de categorie biologische productie is:
 
 7. De hoogte van de uitbetaling wordt berekend door het tarief, bedoeld in het vierde lid, te vermenigvuldigen met het aantal subsidiabele hectares.
 
-8. In geval van activiteiten op niet-productieve gronden die worden ingezet voor [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14), in samenhang met [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-04-14&g=2023-04-14), onder 8, wordt voor de eco-activiteiten groene braak, kruidenrijke bufferstrook langs grasland, en kruidenrijke bufferstrook langs bouwland of blijvende teelt, geen waarde toegekend.
+8. In geval van activiteiten op niet-productieve gronden die worden ingezet voor [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13), in samenhang met [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-05-13&g=2023-05-13), onder 8, wordt voor de eco-activiteiten groene braak, kruidenrijke bufferstrook langs grasland, en kruidenrijke bufferstrook langs bouwland of blijvende teelt, geen waarde toegekend.
 
-9. Op ecologisch kwetsbaar blijvend grasland als bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14), in samenhang met [Bijlage 4, onder 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-04-14&g=2023-04-14), wordt voor de eco-activiteit langjarig grasland geen waarde toegekend.
+9. Op ecologisch kwetsbaar blijvend grasland als bedoeld in [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13), in samenhang met [Bijlage 4, onder 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-05-13&g=2023-05-13), wordt voor de eco-activiteit langjarig grasland geen waarde toegekend.
 
-10. Indien een solitaire boom wordt ingezet als landschapselement hout als bedoeld in [artikel 23, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-04-14&g=2023-04-14), wordt in afwijking van het eerste lid het aantal te behalen punten voor de verbetering van klimaat, bodem en lucht, water, landschap en biodiversiteit voor de eco-activiteit landschapselement hout zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-04-14&g=2023-04-14) berekend door de oppervlakte van de boom te vermenigvuldigen met conversiefactor 20.
+10. Indien een solitaire boom wordt ingezet als landschapselement hout als bedoeld in [artikel 23, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-05-13&g=2023-05-13), wordt in afwijking van het eerste lid het aantal te behalen punten voor de verbetering van klimaat, bodem en lucht, water, landschap en biodiversiteit voor de eco-activiteit landschapselement hout zoals vastgesteld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=2&z=2023-05-13&g=2023-05-13) berekend door de oppervlakte van de boom te vermenigvuldigen met conversiefactor 20.
 
 #### Paragraaf 6. Regeling voor zeldzame landbouwhuisdierrassen
 
 ##### Artikel 28. Zeldzame landbouwhuisdierrassen
 
-1. Een actieve landbouwer als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-04-14&g=2023-04-14), kan aanspraak maken op de betaling voor het houden van raszuivere vrouwelijke en mannelijke dieren, als bedoeld en als zodanig geregistreerd in het I&R register, van de volgende zeldzame Nederlandse landbouwhuisdierrassen:
+1. Een actieve landbouwer als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-05-13&g=2023-05-13), kan aanspraak maken op de betaling voor het houden van raszuivere vrouwelijke en mannelijke dieren, als bedoeld en als zodanig geregistreerd in het I&R register, van de volgende zeldzame Nederlandse landbouwhuisdierrassen:
 
 - a. rund: Brandrood rund, Fries-Hollands vee, Groninger blaarkop, Lakenvelder, Verbeterd Roodbont;
 
@@ -792,13 +792,13 @@ De Eco-activiteit in de categorie biologische productie is:
 
 ##### Artikel 29. Voorwaarden
 
-1. Betalingen als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-04-14&g=2023-04-14), worden enkel verstrekt voor zover de aanvrager voldoet aan de beheerseisen van RBE 11, bedoeld in [artikel 32, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14), in samenhang met [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=3&z=2023-04-14&g=2023-04-14), met dien verstande dat voor zover sprake is van een niet-naleving die een deel van de aangevraagde dieren raakt, enkel het aantal dieren waarop de niet-naleving betrekking heeft niet voor betaling in aanmerking komt.
+1. Betalingen als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-05-13&g=2023-05-13), worden enkel verstrekt voor zover de aanvrager voldoet aan de beheerseisen van RBE 11, bedoeld in [artikel 32, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13), in samenhang met [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=3&z=2023-05-13&g=2023-05-13), met dien verstande dat voor zover sprake is van een niet-naleving die een deel van de aangevraagde dieren raakt, enkel het aantal dieren waarop de niet-naleving betrekking heeft niet voor betaling in aanmerking komt.
 
-2. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-04-14&g=2023-04-14) bevat de aanvraag in ieder geval:
+2. Onverminderd [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-05-13&g=2023-05-13) bevat de aanvraag in ieder geval:
 
 - a. de reeds automatisch ingevulde, actuele en voor de betaling relevante, juiste informatie uit het I&R register;
 
-- b. het aantal zeldzame landbouwhuisdierrassen, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-04-14&g=2023-04-14) eerste lid, uitgedrukt in grootvee-eenheden als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=30&z=2023-04-14&g=2023-04-14).
+- b. het aantal zeldzame landbouwhuisdierrassen, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=28&z=2023-05-13&g=2023-05-13) eerste lid, uitgedrukt in grootvee-eenheden als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=30&z=2023-05-13&g=2023-05-13).
 
 - c. de locatie van de dieren; en
 
@@ -832,11 +832,11 @@ Het aantal grootvee-eenheden van de zeldzame landbouwhuisdierrassen wordt met in
 
 ##### Artikel 32. Beheerseisen en GLMC’s
 
-Een landbouwer die deelneemt aan één of meer van de onder [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14), bedoelde regelingen, neemt de volgende bepalingen in acht:
+Een landbouwer die deelneemt aan één of meer van de onder [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13), bedoelde regelingen, neemt de volgende bepalingen in acht:
 
-- a. de beheerseisen, bedoeld in artikel 12 van [verordening (EU) 2021/2115](32021R2115), opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=3&z=2023-04-14&g=2023-04-14); en
+- a. de beheerseisen, bedoeld in artikel 12 van [verordening (EU) 2021/2115](32021R2115), opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=3&z=2023-05-13&g=2023-05-13); en
 
-- b. de normen voor het in goede landbouw- en milieuconditie houden van landbouwareaal, bedoeld in artikel 13 van [verordening (EU) 2021/2115](32021R2115), opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-04-14&g=2023-04-14).
+- b. de normen voor het in goede landbouw- en milieuconditie houden van landbouwareaal, bedoeld in artikel 13 van [verordening (EU) 2021/2115](32021R2115), opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=4&z=2023-05-13&g=2023-05-13).
 
 ##### Artikel 33. Bewustmakingsmechanisme
 
@@ -904,7 +904,7 @@ De minister stelt de sancties, bedoeld in artikel 84, eerste lid, van [verordeni
 
 ##### Artikel 36. Sancties bij overdracht van landbouwgrond
 
-Wanneer de landbouwgrond, dan wel een deel hiervan, in het betrokken kalenderjaar wordt overgedragen, worden de administratieve sancties, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=34&z=2023-04-14&g=2023-04-14), opgelegd aan de actieve landbouwer, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-04-14&g=2023-04-14), die op de peildatum het perceel landbouwgrond ter beschikking heeft.
+Wanneer de landbouwgrond, dan wel een deel hiervan, in het betrokken kalenderjaar wordt overgedragen, worden de administratieve sancties, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=34&z=2023-05-13&g=2023-05-13), opgelegd aan de actieve landbouwer, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-05-13&g=2023-05-13), die op de peildatum het perceel landbouwgrond ter beschikking heeft.
 
 #### Paragraaf 2. Bedrijfsadviseringssysteem
 
@@ -950,19 +950,19 @@ Ten behoeve van de beoordeling van een aanmelding of aanvraag om betalingen kan 
 
 - **overnemer:** de begunstigde aan wie het bedrijf wordt overgedragen.
 
-2. Indien het bedrijf van een landbouwer na de aanmelding, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14), in zijn geheel aan een andere begunstigde wordt overgedragen, wordt van deze overdracht onverwijld melding gedaan met een door de minister ter beschikking gesteld elektronisch formulier dat door de overdrager en de overnemer is ondertekend.
+2. Indien het bedrijf van een landbouwer na de aanmelding, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13), in zijn geheel aan een andere begunstigde wordt overgedragen, wordt van deze overdracht onverwijld melding gedaan met een door de minister ter beschikking gesteld elektronisch formulier dat door de overdrager en de overnemer is ondertekend.
 
-3. Indien in de melding van een bedrijfsoverdracht is verklaard dat de overnemer alle rechten en plichten van de overdrager heeft overgenomen kan de overnemer, door tijdige indiening van de aanvraag, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-04-14&g=2023-04-14), door de overdrager of de overnemer, aanspraak maken op de betalingen waarvoor de overdrager een aanmelding heeft gedaan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) en wordt de steun uitbetaald aan de overnemer, op voorwaarde dat:
+3. Indien in de melding van een bedrijfsoverdracht is verklaard dat de overnemer alle rechten en plichten van de overdrager heeft overgenomen kan de overnemer, door tijdige indiening van de aanvraag, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-05-13&g=2023-05-13), door de overdrager of de overnemer, aanspraak maken op de betalingen waarvoor de overdrager een aanmelding heeft gedaan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) en wordt de steun uitbetaald aan de overnemer, op voorwaarde dat:
 
 - a. de overdracht uiterlijk 30 november van het aanvraagjaar is gemeld; en
 
-- b. de overnemer vanaf het moment van de overdracht actieve landbouwer is als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-04-14&g=2023-04-14) of ingeval de overdracht dateert van na 15 mei, de overdrager op de peildatum actieve landbouwer was als bedoeld in artikel 5.
+- b. de overnemer vanaf het moment van de overdracht actieve landbouwer is als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-05-13&g=2023-05-13) of ingeval de overdracht dateert van na 15 mei, de overdrager op de peildatum actieve landbouwer was als bedoeld in artikel 5.
 
-4. Indien de overdracht na 30 november van het aanvraagjaar is gemeld of de overnemer op het moment van de overdracht geen actieve landbouwer is als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-04-14&g=2023-04-14), wordt de steun uitbetaald aan de overdrager, mits de overdrager tijdig een aanvraag heeft ingediend als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-04-14&g=2023-04-14) en de overdrager op de peildatum actieve landbouwer was als bedoeld in artikel 5.
+4. Indien de overdracht na 30 november van het aanvraagjaar is gemeld of de overnemer op het moment van de overdracht geen actieve landbouwer is als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-05-13&g=2023-05-13), wordt de steun uitbetaald aan de overdrager, mits de overdrager tijdig een aanvraag heeft ingediend als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-05-13&g=2023-05-13) en de overdrager op de peildatum actieve landbouwer was als bedoeld in artikel 5.
 
 ##### Artikel 41. Gedeeltelijke bedrijfsoverdracht, fusie, splitsing, vererving en bedrijfsbeëindiging
 
-Indien het bedrijf van een landbouwer na de aanmelding, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14), gedeeltelijk aan een andere begunstigde wordt overgedragen, of wanneer sprake is van een fusie, splitsing, vererving of bedrijfsbeëindiging, wordt door de landbouwer die de aanmelding heeft gedaan daarvan onverwijld melding gedaan met een door de minister ter beschikking gesteld elektronisch formulier.
+Indien het bedrijf van een landbouwer na de aanmelding, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13), gedeeltelijk aan een andere begunstigde wordt overgedragen, of wanneer sprake is van een fusie, splitsing, vererving of bedrijfsbeëindiging, wordt door de landbouwer die de aanmelding heeft gedaan daarvan onverwijld melding gedaan met een door de minister ter beschikking gesteld elektronisch formulier.
 
 ##### Artikel 42. Administratieve sancties
 
@@ -974,9 +974,9 @@ Indien het bedrijf van een landbouwer na de aanmelding, bedoeld in [artikel 10](
 
 - b. het opleggen van een administratieve sanctie in de vorm van een procentuele verlaging van de betaling.
 
-3. De administratieve sanctie wordt toegepast op het totale bedrag aan betalingen van de interventie als bedoeld in [artikel 2, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14), waarop de niet-naleving betrekking heeft.
+3. De administratieve sanctie wordt toegepast op het totale bedrag aan betalingen van de interventie als bedoeld in [artikel 2, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13), waarop de niet-naleving betrekking heeft.
 
-4. De niet-nalevingen waarvoor een waarschuwing kan worden afgegeven en de hoogte van de procentuele verlagingen staan opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=6&z=2023-04-14&g=2023-04-14).
+4. De niet-nalevingen waarvoor een waarschuwing kan worden afgegeven en de hoogte van de procentuele verlagingen staan opgenomen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&bijlage=6&z=2023-05-13&g=2023-05-13).
 
 5. Van herhaling is sprake wanneer dezelfde niet-naleving zich eenmaal herhaalt binnen drie opeenvolgende kalenderjaren vanaf en met inbegrip van het jaar waarin de niet-naleving heeft plaatsgevonden.
 
@@ -984,15 +984,15 @@ Indien het bedrijf van een landbouwer na de aanmelding, bedoeld in [artikel 10](
 
 7. Een administratieve sanctie wordt alleen opgelegd indien een niet-naleving wordt ontdekt binnen drie opeenvolgende kalenderjaren vanaf en met inbegrip van het jaar waarin de niet-naleving heeft plaatsgevonden.
 
-8. In afwijking van het derde lid wordt de administratieve sanctie bij overtreding van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=9&z=2023-04-14&g=2023-04-14), toegepast op de betreffende henneppercelen.
+8. In afwijking van het derde lid wordt de administratieve sanctie bij overtreding van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=9&z=2023-05-13&g=2023-05-13), toegepast op de betreffende henneppercelen.
 
 ##### Artikel 43. Sancties bij overdracht van een perceel landbouwgrond
 
-Wanneer een perceel landbouwgrond in het betrokken kalenderjaar wordt overgedragen, worden de administratieve sancties, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-04-14&g=2023-04-14), opgelegd aan de actieve landbouwer, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-04-14&g=2023-04-14), die op de peildatum het perceel landbouwgrond ter beschikking heeft.
+Wanneer een perceel landbouwgrond in het betrokken kalenderjaar wordt overgedragen, worden de administratieve sancties, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-05-13&g=2023-05-13), opgelegd aan de actieve landbouwer, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-05-13&g=2023-05-13), die op de peildatum het perceel landbouwgrond ter beschikking heeft.
 
 ##### Artikel 44. Controle ter plaatse
 
-Indien de begunstigde of zijn vertegenwoordiger de uitvoering van een controle ter plaatse verhindert, wordt de betrokken steun- of betalingsaanvraag afgewezen, behalve in gevallen als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=46&z=2023-04-14&g=2023-04-14).
+Indien de begunstigde of zijn vertegenwoordiger de uitvoering van een controle ter plaatse verhindert, wordt de betrokken steun- of betalingsaanvraag afgewezen, behalve in gevallen als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=46&z=2023-05-13&g=2023-05-13).
 
 ##### Artikel 45. Omzeilingsclausule
 
@@ -1002,11 +1002,11 @@ Geen steun wordt toegekend aan natuurlijke personen of rechtspersonen van wie is
 
 1. De landbouwer die een beroep wil doen op overmacht of uitzonderlijke omstandigheden doet hiervan zo spoedig mogelijk een melding bij RVO met gebruikmaking van een door de minister beschikbaar gesteld elektronisch formulier.
 
-2. De minister geeft geen toepassing aan [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-04-14&g=2023-04-14) in de gevallen genoemd in artikel 59, vijfde lid, onderdelen a, b en c, van [verordening (EU) 2021/2116](32021R2116).
+2. De minister geeft geen toepassing aan [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-05-13&g=2023-05-13) in de gevallen genoemd in artikel 59, vijfde lid, onderdelen a, b en c, van [verordening (EU) 2021/2116](32021R2116).
 
 ##### Artikel 47. Kennelijke fout
 
-1. In aanvulling op artikel 59, zesde lid, van [verordening (EU) 2021/2116](32021R2116) kan de aanvraag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-04-14&g=2023-04-14), en eventuele daarbij overgelegde bewijsstukken, na de indiening ervan worden gecorrigeerd en aangepast indien sprake is van een kennelijke fout.
+1. In aanvulling op artikel 59, zesde lid, van [verordening (EU) 2021/2116](32021R2116) kan de aanvraag, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-05-13&g=2023-05-13), en eventuele daarbij overgelegde bewijsstukken, na de indiening ervan worden gecorrigeerd en aangepast indien sprake is van een kennelijke fout.
 
 2. Van een kennelijke fout kan sprake zijn indien:
 
@@ -1016,19 +1016,19 @@ Geen steun wordt toegekend aan natuurlijke personen of rechtspersonen van wie is
 
 - c. de begunstigde te goeder trouw heeft gehandeld.
 
-3. De minister geeft geen toepassing aan [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-04-14&g=2023-04-14) indien de niet-naleving het gevolg is van een kennelijke fout.
+3. De minister geeft geen toepassing aan [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-05-13&g=2023-05-13) indien de niet-naleving het gevolg is van een kennelijke fout.
 
 ##### Artikel 48. Hardheidsclausule
 
-1. De minister kan afwijken van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-04-14&g=2023-04-14), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-04-14&g=2023-04-14), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-04-14&g=2023-04-14), [18, onderdelen f en j](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-04-14&g=2023-04-14), [19, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=19&z=2023-04-14&g=2023-04-14), [23, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-04-14&g=2023-04-14), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=40&z=2023-04-14&g=2023-04-14) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=41&z=2023-04-14&g=2023-04-14), voor zover de toepassing van deze artikelen gelet op het doel ervan zal leiden tot een onbillijkheid van overwegende aard.
+1. De minister kan afwijken van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-05-13&g=2023-05-13), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=11&z=2023-05-13&g=2023-05-13), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=13&z=2023-05-13&g=2023-05-13), [18, onderdelen f en j](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-05-13&g=2023-05-13), [19, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=19&z=2023-05-13&g=2023-05-13), [23, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-05-13&g=2023-05-13), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=40&z=2023-05-13&g=2023-05-13) en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=41&z=2023-05-13&g=2023-05-13), voor zover de toepassing van deze artikelen gelet op het doel ervan zal leiden tot een onbillijkheid van overwegende aard.
 
-2. De minister kan, rekening houdend met de financiële belangen van de Unie, voorts afwijken van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-04-14&g=2023-04-14), voor zover de toepassing van dit artikel gelet op het doel ervan zal leiden tot een onbillijkheid van overwegende aard.
+2. De minister kan, rekening houdend met de financiële belangen van de Unie, voorts afwijken van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-05-13&g=2023-05-13), voor zover de toepassing van dit artikel gelet op het doel ervan zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 49. Terugvordering
 
 1. Indien sprake is van een (deels) onverschuldigde betaling, wordt het onverschuldigd betaalde bedrag teruggevorderd, tenzij:
 
-- a. het van de begunstigde in een kalenderjaar terug te vorderen bedrag, exclusief rente, niet hoger is dan 100 euro en dit bedrag geen sanctie betreft als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=34&z=2023-04-14&g=2023-04-14); of
+- a. het van de begunstigde in een kalenderjaar terug te vorderen bedrag, exclusief rente, niet hoger is dan 100 euro en dit bedrag geen sanctie betreft als bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=34&z=2023-05-13&g=2023-05-13); of
 
 - b. de terugvordering onmogelijk is als gevolg van erkende insolventie van de debiteur of van de personen die juridisch aansprakelijk zijn voor de onregelmatigheid.
 
@@ -1096,7 +1096,7 @@ Goede landbouw- en milieucondities als bedoeld in artikel 13 van [verordening (E
 
 ### § 1. Klimaatverandering
 
-### Bijlage 3. bij [artikel 32, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14).
+### Bijlage 3. bij [artikel 32, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13).
 
 ### 2. GLMC 2 – Bescherming van veengebieden
 
@@ -1222,9 +1222,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 22b. Erkenning certificeringsschema
 
-1. De Minister verleent op aanvraag een erkenning aan een certificeringsschema ten behoeve van de certificering van de eco-activiteit weiden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22&z=2023-04-14&g=2023-04-14), indien wordt voldaan aan de volgende eisen:
+1. De Minister verleent op aanvraag een erkenning aan een certificeringsschema ten behoeve van de certificering van de eco-activiteit weiden, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22&z=2023-05-13&g=2023-05-13), indien wordt voldaan aan de volgende eisen:
 
-- a. het certificeringsschema bevat de voorschriften, bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22a&z=2023-04-14&g=2023-04-14);
+- a. het certificeringsschema bevat de voorschriften, bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22a&z=2023-05-13&g=2023-05-13);
 
 - b. het certificeringsschema is eigendom van een schema-eigenaar;
 
@@ -1264,7 +1264,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. De certificerende instantie controleert of de landbouwer voldoet aan
 
-het erkende certificeringsschema, bedoeld in [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22b&z=2023-04-14&g=2023-04-14) voor de eco-activiteit weiden.
+het erkende certificeringsschema, bedoeld in [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22b&z=2023-05-13&g=2023-05-13) voor de eco-activiteit weiden.
 
 2. De certificerende instantie heeft een schriftelijke deelname overeenkomst met de landbouwer.
 
@@ -1272,7 +1272,7 @@ het erkende certificeringsschema, bedoeld in [artikel 22b](https://wetten.overhe
 
 4. Indien tijdens de controles blijkt dat de landbouwer niet voldoet aan het erkende certificeringsschema stelt de certificerende instantie de desbetreffende landbouwer en de Minister hiervan in kennis.
 
-5. In geval van intrekking als bedoeld in [artikel 22b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22b&z=2023-04-14&g=2023-04-14), geeft de certificerende instantie de in het derde lid bedoelde verklaringen niet meer af.
+5. In geval van intrekking als bedoeld in [artikel 22b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=22b&z=2023-05-13&g=2023-05-13), geeft de certificerende instantie de in het derde lid bedoelde verklaringen niet meer af.
 
 6. De certificerende instantie houdt een administratie bij waaruit de relevante informatie blijkt over de aanmeldingen voor het certificeringsschema, uitgevoerde controles, toewijzing en afwijzing van deelname aan het certificeringsschema en afgegeven verklaringen en bewaart deze ten minste 5 jaar na afloop van het kalenderjaar waarop de deelname aan het certificeringsschema van toepassing is.
 
@@ -1290,7 +1290,7 @@ het erkende certificeringsschema, bedoeld in [artikel 22b](https://wetten.overhe
 
 ### Hoofdstuk 5. Overgangs- en slotbepalingen
 
-## Bijlage 1. bij de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-04-14&g=2023-04-14), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-04-14&g=2023-04-14), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=19&z=2023-04-14&g=2023-04-14), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=20&z=2023-04-14&g=2023-04-14), [23, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-04-14&g=2023-04-14) en [32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14)
+## Bijlage 1. bij de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-05-13&g=2023-05-13), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=18&z=2023-05-13&g=2023-05-13), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=19&z=2023-05-13&g=2023-05-13), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=20&z=2023-05-13&g=2023-05-13), [23, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-05-13&g=2023-05-13) en [32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13)
 
 ### Gewassenlijst
 
@@ -1298,11 +1298,11 @@ het erkende certificeringsschema, bedoeld in [artikel 22b](https://wetten.overhe
 
 ² **Onder drachtplanten wordt verstaan een mengsel van tenminste 3 drachtplanten van de soorten Karwij (Carum carvi), Koriander (Coriandrum sativum) Wilde Peen (, Daucus carota), Duizendblad (Achiella millefolium), Goudsbloem (Calendula officinalis), Korenbloem (Centaurea cyanus), Cichorei (Cichorium), Zonnebloem (Helianthus Annus), Komkommerkruid (Borago officinalis), Slangenkruid (Echium Vulgare), Phacelia (Phacelia tanacetifolia), Gele Mosterd (Sinapis alba), Gewone Rolklaver (Lotus corniculatus),Luzerne (Medicago sativa), Witte honingklaver (melilotus albus), Esparcette (Onobrychis viccifolia), Rode klaver (Trifolium pratense), Voederwikke (Vicia sativa), Lijnzaad/vlas (Linum usitatissimum), Malva (Malva), Klaproos (Papaver), Boekweit (Fagopyrum esculentum), Juffertje in ’t groen (Nigella damascena), Smalle Weegbree (Plantago lanceolata) of Incarnaatklaver (Trifolium incarnatum)**
 
-## Bijlage 2. bij de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-04-14&g=2023-04-14), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-14&g=2023-04-14), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=26&z=2023-04-14&g=2023-04-14) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=27&z=2023-04-14&g=2023-04-14)
+## Bijlage 2. bij de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=23&z=2023-05-13&g=2023-05-13), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-05-13&g=2023-05-13), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=26&z=2023-05-13&g=2023-05-13) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=27&z=2023-05-13&g=2023-05-13)
 
 ### A. Punten, waardes en melddatum eco-activiteiten
 
-1 Dag en nacht weiden omzetten in Overdag weiden: heeft u Dag en Nacht weiden uiterlijk 15 mei 2023 aangemeld, dan is het tot uiterlijk 1 oktober 2023 toegestaan deze activiteit door de activiteit Overdag weiden te vervangen.
+1 Dag en nacht weiden omzetten in Overdag weiden: heeft u Dag en Nacht weiden uiterlijk 15 juni 2023 aangemeld, dan is het tot uiterlijk 1 oktober 2023 toegestaan deze activiteit door de activiteit Overdag weiden te vervangen.
 
 ### B. Regio-indeling
 
@@ -1316,9 +1316,9 @@ Regio 2: Bouwhoek, Hogeland en Oldambt, Noordelijk Weidegebied, Flevopolders, We
 
 ### D. Cumulatietabel
 
-## Bijlage 3. bij [artikel 32, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14)
+## Bijlage 3. bij [artikel 32, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13)
 
-## Bijlage 4. bij [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-04-14&g=2023-04-14)
+## Bijlage 4. bij [artikel 32, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=3&paragraaf=1&artikel=32&z=2023-05-13&g=2023-05-13)
 
 ### 1. GLMC 1 – Instandhouding van blijvend grasland
 
@@ -1336,7 +1336,7 @@ GLMC 5 is van toepassing op land- en tuinbouwgronden die geheel of gedeeltelijk 
 
 ### 9. GLMC 9 – Verbod omzetten en ploegen ecologisch kwetsbaar blijvend grasland en andere gebieden en omzetverplichting
 
-## Bijlage 5. bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-04-14&g=2023-04-14)
+## Bijlage 5. bij [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=5&z=2023-05-13&g=2023-05-13)
 
 ### Samenstellingsverklaring van de accountant <jaartal>
 
@@ -1354,23 +1354,23 @@ KvK-nummer accountantskantoor:
 
 Handtekening accountant
 
-## Bijlage 6. bij [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-04-14&g=2023-04-14)
+## Bijlage 6. bij [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=42&z=2023-05-13&g=2023-05-13)
 
 | Artikel regeling | Soort niet naleving (CTP) | Waarschuwing 1e keer niet naleving | 1e sanctie bij niet-naleving zonder voorafgaande waarschuwing respectievelijk 1e sanctie bij herhaling niet-naleving met voorafgaande waarschuwing | sanctie bij tweede respectievelijk derde herhaling niet-naleving | Korting wordt toegepast op |
 | --- | --- | --- | --- | --- | --- |
-| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) juncto [4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-04-14&g=2023-04-14) | Het niet doen van een melding m.b.t. het geheel niet ter beschikking van de landbouwer staan van een perceel | Nee | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) juncto [4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-04-14&g=2023-04-14) | Het niet doen van een melding m.b.t. het gedeeltelijke niet ter beschikking staan van een perceel | Ja | 5% | 10% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) juncto [4 lid 4 en lid 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-04-14&g=2023-04-14) | Het niet doen van een melding dat sprake is van meer dan 100 bomen per hectare | Ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) juncto [4 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-04-14&g=2023-04-14) | Het niet doen van een melding dat een voedselbos niet voldoet aan criteria | Ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) juncto [6](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-04-14&g=2023-04-14) | Het niet doen van een melding dat sprake is van noemenswaardige hinder | nee | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) juncto [7 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-04-14&g=2023-04-14) | Het niet doen van een melding m.b.t. het geheel niet ter beschikking van de landbouwer staan van een landschapselement | ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) juncto [7 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-04-14&g=2023-04-14) | Het niet doen van een melding m.b.t. het gedeeltelijk niet ter beschikking van de landbouwer staan van een landschapselement | ja | 5% | 10% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [9 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=9&z=2023-04-14&g=2023-04-14) | Geen originele hennepetiketten of aankoopbewijzen | nee | 10% | 20% | Bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14), voor de betreffende henneppercelen. |
-| [10 lid 2 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=1&artikel=1&z=2023-04-14&g=2023-04-14) | Niet alle percelen opgegeven | ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [10 lid 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) | Gegevens niet actueel houden c.q. wijzigingen niet melden zonder gevolgen voor de hoogte van de betaling (gewassen) | Ja | 100 euro | 200 euro | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [10 lid 4, onderdeel c en lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14)juncto [25 lid 1, onderdeel a.](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-14&g=2023-04-14) | Wijzigingen niet melden eco-regeling t.a.v. niet uitvoeren eco-activiteiten | Ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [10 lid 4, onderdeel c en lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-04-14&g=2023-04-14) juncto [25 lid 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-04-14&g=2023-04-14) | Wijzigingen niet melden eco-regeling t.a.v. gedeeltelijk niet uitvoeren eco-activiteiten of niet volgens de voorwaarden uitvoeren van eco-activiteiten | Ja | 5% | 10% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
-| [29, lid 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=29&z=2023-04-14&g=2023-04-14) | Actueel en juist houden van de voor betaling relevante gegevens in het I&R systeem | ja | 1% | 5% | Totale bedrag aan betalingen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14) |
-| [45](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=45&z=2023-04-14&g=2023-04-14) | Omzeiling | nee | 100% | nvt | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-04-14&g=2023-04-14). |
+| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) juncto [4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-05-13&g=2023-05-13) | Het niet doen van een melding m.b.t. het geheel niet ter beschikking van de landbouwer staan van een perceel | Nee | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) juncto [4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-05-13&g=2023-05-13) | Het niet doen van een melding m.b.t. het gedeeltelijke niet ter beschikking staan van een perceel | Ja | 5% | 10% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) juncto [4 lid 4 en lid 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-05-13&g=2023-05-13) | Het niet doen van een melding dat sprake is van meer dan 100 bomen per hectare | Ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) juncto [4 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=4&z=2023-05-13&g=2023-05-13) | Het niet doen van een melding dat een voedselbos niet voldoet aan criteria | Ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) juncto [6](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-05-13&g=2023-05-13) | Het niet doen van een melding dat sprake is van noemenswaardige hinder | nee | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) juncto [7 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-05-13&g=2023-05-13) | Het niet doen van een melding m.b.t. het geheel niet ter beschikking van de landbouwer staan van een landschapselement | ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [10 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) juncto [7 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=7&z=2023-05-13&g=2023-05-13) | Het niet doen van een melding m.b.t. het gedeeltelijk niet ter beschikking van de landbouwer staan van een landschapselement | ja | 5% | 10% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [9 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=9&z=2023-05-13&g=2023-05-13) | Geen originele hennepetiketten of aankoopbewijzen | nee | 10% | 20% | Bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13), voor de betreffende henneppercelen. |
+| [10 lid 2 onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=1&artikel=1&z=2023-05-13&g=2023-05-13) | Niet alle percelen opgegeven | ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [10 lid 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) | Gegevens niet actueel houden c.q. wijzigingen niet melden zonder gevolgen voor de hoogte van de betaling (gewassen) | Ja | 100 euro | 200 euro | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [10 lid 4, onderdeel c en lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13)juncto [25 lid 1, onderdeel a.](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-05-13&g=2023-05-13) | Wijzigingen niet melden eco-regeling t.a.v. niet uitvoeren eco-activiteiten | Ja | 10% | 20% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [10 lid 4, onderdeel c en lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=2&artikel=10&z=2023-05-13&g=2023-05-13) juncto [25 lid 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=5&artikel=25&z=2023-05-13&g=2023-05-13) | Wijzigingen niet melden eco-regeling t.a.v. gedeeltelijk niet uitvoeren eco-activiteiten of niet volgens de voorwaarden uitvoeren van eco-activiteiten | Ja | 5% | 10% | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
+| [29, lid 2 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=6&artikel=29&z=2023-05-13&g=2023-05-13) | Actueel en juist houden van de voor betaling relevante gegevens in het I&R systeem | ja | 1% | 5% | Totale bedrag aan betalingen bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13) |
+| [45](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=4&artikel=45&z=2023-05-13&g=2023-05-13) | Omzeiling | nee | 100% | nvt | Totale bedrag aan rechtstreekse betalingen, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&hoofdstuk=2&paragraaf=1&artikel=2&z=2023-05-13&g=2023-05-13). |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
