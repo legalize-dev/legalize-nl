@@ -4,7 +4,7 @@ identifier: "BWBR0034306"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-06"
-last_updated: "2022-10-22"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034306"
 soort: "AMvB"
@@ -56,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **een autorisatiebesluit:** een besluit als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.2) of [artikel 3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.3);
 
-- **de systeembeschrijving:** de beschrijving, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=3&artikel=4&z=2022-10-22&g=2022-10-22);
+- **de systeembeschrijving:** de beschrijving, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=3&artikel=4&z=2023-05-15&g=2023-05-15);
 
 - **de wet:** de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715).
 
@@ -64,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-Authentieke gegevens als bedoeld in [artikel 1.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.6) zijn de gegevens over ingezetenen die als zodanig zijn aangeduid in de tabel die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd en, met uitzondering van de gegevens over de burgerlijke staat van ingezetenen, als actuele gegevens zijn opgenomen.
+Authentieke gegevens als bedoeld in [artikel 1.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.6) zijn de gegevens over ingezetenen die als zodanig zijn aangeduid in de tabel die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd en, met uitzondering van de gegevens over de burgerlijke staat van ingezetenen, als actuele gegevens zijn opgenomen.
 
 #### § 3. Inrichting, werking en beveiliging
 
@@ -80,11 +80,11 @@ Authentieke gegevens als bedoeld in [artikel 1.6 van de wet](https://wetten.over
 
 ##### Artikel 4
 
-De systeembeschrijving geeft een beschrijving van de aspecten die zijn aangeduid in de tabel die als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=2&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd.
+De systeembeschrijving geeft een beschrijving van de aspecten die zijn aangeduid in de tabel die als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=2&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd.
 
 ##### Artikel 5
 
-Een college van burgemeester en wethouders, Onze Minister, een aangewezen bestuursorgaan, een overheidsorgaan en een derde dragen er zorg voor dat zij uitvoering geven aan de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) op een wijze die overeenstemt met de systeembeschrijving. De uitvoering voor zover die op hen betrekking heeft, is aangeduid in de tabel die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=3&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd.
+Een college van burgemeester en wethouders, Onze Minister, een aangewezen bestuursorgaan, een overheidsorgaan en een derde dragen er zorg voor dat zij uitvoering geven aan de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) op een wijze die overeenstemt met de systeembeschrijving. De uitvoering voor zover die op hen betrekking heeft, is aangeduid in de tabel die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=3&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd.
 
 ##### Artikel 6
 
@@ -122,7 +122,7 @@ Vervallen
 
 ##### Artikel 10
 
-In deze paragraaf, [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=51&z=2022-10-22&g=2022-10-22) en de daarop berustende bepalingen wordt verstaan onder:
+In deze paragraaf, [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=4&afdeling=2&paragraaf=2&artikel=51&z=2023-05-15&g=2023-05-15) en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **de betrokkene:** de betrokkene, bedoeld in [artikel 1.14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.14);
 
@@ -152,11 +152,13 @@ In deze paragraaf, [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&
 
 - c. synchronisatieberichten;
 
-- d. berichten in verband met [artikel 2.34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.34).
+- d. berichten in verband met [artikel 2.34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.34);
+
+- e. berichten als bedoeld in de [artikelen 2.37d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37d), en [2.37e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37e).
 
 4. Het tweede lid is niet van toepassing op berichten in verband met:
 
-- a. [hoofdstuk 2, afdeling 1, paragraaf 4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&paragraaf=4);
+- a. [hoofdstuk 2, afdeling 1, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&paragraaf=4) en [paragraaf 4a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&paragraaf=4a);
 
 - b. steekproeven;
 
@@ -182,17 +184,17 @@ In deze paragraaf, [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&
 
 2. Onze Minister bepaalt de abonnementsstructuur, gelet op:
 
-- a. de voor het volgende jaar te verwachten kosten als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), verminderd met het saldo over het vorige jaar;
+- a. de voor het volgende jaar te verwachten kosten als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), verminderd met het saldo over het vorige jaar;
 
 - b. het voor het volgende jaar te verwachten aantal berichten dat ten laste van de betrokkenen komt.
 
-3. Het saldo over het vorige jaar wordt gevonden door de in [artikel 14, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2022-10-22&g=2022-10-22), bedoelde bijdragen over dat jaar te verminderen met de kosten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), in dat jaar.
+3. Het saldo over het vorige jaar wordt gevonden door de in [artikel 14, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2023-05-15&g=2023-05-15), bedoelde bijdragen over dat jaar te verminderen met de kosten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), in dat jaar.
 
 4. Onze Minister deelt de abonnementsstructuur in september van elk jaar mede aan de betrokkenen.
 
 ##### Artikel 14
 
-1. De bijdrage van een betrokkene, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), bestaat uit een jaarlijkse betaling. Hiertoe brengt Onze Minister het abonnementstarief voor het lopende jaar in rekening dat behoort bij de abonnementsklasse waarin de betrokkene valt, gelet op het aantal berichten dat in het voorafgaande jaar ten laste van hem kwam.
+1. De bijdrage van een betrokkene, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), bestaat uit een jaarlijkse betaling. Hiertoe brengt Onze Minister het abonnementstarief voor het lopende jaar in rekening dat behoort bij de abonnementsklasse waarin de betrokkene valt, gelet op het aantal berichten dat in het voorafgaande jaar ten laste van hem kwam.
 
 2. Indien het aantal berichten over het lopende jaar dat ten laste van de betrokkene komt, in een hogere abonnementsklasse valt dan de in het eerste lid bedoelde klasse, brengt Onze Minister, in afwijking van het eerste lid, het abonnementstarief voor het lopende jaar in rekening dat behoort bij die hogere klasse.
 
@@ -208,13 +210,13 @@ In deze paragraaf, [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&
 
 - a. dat nodig is voor de systematische verstrekking van gegevens ter afstemming van de gegevens van een overheidsorgaan of derde op de gegevens in de basisregistratie;
 
-- b. waarvan de verzending en ontvangst geschiedt op een wijze die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=3&artikel=4&z=2022-10-22&g=2022-10-22) is beschreven in de systeembeschrijving, en
+- b. waarvan de verzending en ontvangst geschiedt op een wijze die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=3&artikel=4&z=2023-05-15&g=2023-05-15) is beschreven in de systeembeschrijving, en
 
 - c. dat als doel heeft de in het vijfde lid bedoelde verstrekking van gegevens mogelijk te maken.
 
-4. Voor afstemmingsberichten brengt Onze Minister, in afwijking van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2022-10-22&g=2022-10-22) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2022-10-22&g=2022-10-22), bij de overheidsorganen en derden een tarief per geregistreerde persoon in rekening.
+4. Voor afstemmingsberichten brengt Onze Minister, in afwijking van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2023-05-15&g=2023-05-15) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2023-05-15&g=2023-05-15), bij de overheidsorganen en derden een tarief per geregistreerde persoon in rekening.
 
-5. Onder geregistreerde persoon als bedoeld in het vierde lid wordt verstaan de persoon over wie het overheidsorgaan of de derde verzoekt gegevens verstrekt te krijgen op de wijze die is beschreven in [artikel 37, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=37&z=2022-10-22&g=2022-10-22).
+5. Onder geregistreerde persoon als bedoeld in het vierde lid wordt verstaan de persoon over wie het overheidsorgaan of de derde verzoekt gegevens verstrekt te krijgen op de wijze die is beschreven in [artikel 37, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=37&z=2023-05-15&g=2023-05-15).
 
 6. De kosten in verband met de afstemming bestaan uit de kosten die naar verwachting zijn verbonden aan de verzending en ontvangst van afstemmingsberichten over het stelsel van berichtuitwisseling of met behulp van alternatieve media.
 
@@ -226,9 +228,9 @@ In deze paragraaf, [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&
 
 ##### Artikel 16
 
-1. Categorieën van kosten als bedoeld in [artikel 1.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.14), zijn tevens de kosten in verband met de verzending van berichten met behulp van alternatieve media, tenzij deze kosten vallen onder [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=15&z=2022-10-22&g=2022-10-22) of de verzending verband houdt met een infrastructurele wijziging ten aanzien van een gemeente.
+1. Categorieën van kosten als bedoeld in [artikel 1.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.14), zijn tevens de kosten in verband met de verzending van berichten met behulp van alternatieve media, tenzij deze kosten vallen onder [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=15&z=2023-05-15&g=2023-05-15) of de verzending verband houdt met een infrastructurele wijziging ten aanzien van een gemeente.
 
-2. Onze Minister kan bij de betrokkene aan wie de berichten worden verzonden in verband met de kosten, bedoeld in het eerste lid, een bijdrage in rekening brengen. Deze bijdrage kan in rekening worden gebracht naast de bijdrage die op grond van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2022-10-22&g=2022-10-22) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2022-10-22&g=2022-10-22) voor de betrokkene wordt vastgesteld.
+2. Onze Minister kan bij de betrokkene aan wie de berichten worden verzonden in verband met de kosten, bedoeld in het eerste lid, een bijdrage in rekening brengen. Deze bijdrage kan in rekening worden gebracht naast de bijdrage die op grond van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2023-05-15&g=2023-05-15) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2023-05-15&g=2023-05-15) voor de betrokkene wordt vastgesteld.
 
 3. Bij regeling van Onze Minister wordt vastgesteld welke bijdragen ten hoogste in rekening kunnen worden gebracht.
 
@@ -236,7 +238,7 @@ In deze paragraaf, [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&
 
 1. Categorieën van kosten als bedoeld in [artikel 1.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.14), zijn tevens de kosten in verband met de schriftelijke verstrekking van gegevens.
 
-2. Een college van burgemeester en wethouders dat schriftelijk gegevens verstrekt, kan bij de betrokkene aan wie de gegevens worden verstrekt in verband met de kosten, bedoeld in het eerste lid, een bijdrage in rekening brengen. Voor zover de verstrekking geschiedt door Onze Minister, kan deze bijdrage in rekening worden gebracht naast de bijdrage die op grond van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2022-10-22&g=2022-10-22) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2022-10-22&g=2022-10-22) voor de betrokkene wordt vastgesteld.
+2. Een college van burgemeester en wethouders dat schriftelijk gegevens verstrekt, kan bij de betrokkene aan wie de gegevens worden verstrekt in verband met de kosten, bedoeld in het eerste lid, een bijdrage in rekening brengen. Voor zover de verstrekking geschiedt door Onze Minister, kan deze bijdrage in rekening worden gebracht naast de bijdrage die op grond van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2023-05-15&g=2023-05-15) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2023-05-15&g=2023-05-15) voor de betrokkene wordt vastgesteld.
 
 3. Bij regeling van Onze Minister wordt vastgesteld welke bijdragen ten hoogste in rekening kunnen worden gebracht.
 
@@ -246,17 +248,17 @@ In deze paragraaf, [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&
 
 - a. de verstrekking van gegevens op grond van [artikel 3.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.13);
 
-- b. de verstrekking van gegevens, bedoeld in [artikel 37, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=37&z=2022-10-22&g=2022-10-22).
+- b. de verstrekking van gegevens, bedoeld in [artikel 37, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=37&z=2023-05-15&g=2023-05-15).
 
-2. De bijdrage van een betrokkene in de in het eerste lid bedoelde kosten wordt vastgesteld op basis van de kosten van de verstrekking, met uitzondering van de kosten waartoe door de betrokkene al wordt bijgedragen op grond van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2022-10-22&g=2022-10-22) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2022-10-22&g=2022-10-22).
+2. De bijdrage van een betrokkene in de in het eerste lid bedoelde kosten wordt vastgesteld op basis van de kosten van de verstrekking, met uitzondering van de kosten waartoe door de betrokkene al wordt bijgedragen op grond van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2023-05-15&g=2023-05-15) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2023-05-15&g=2023-05-15).
 
-3. De bijdrage kan door Onze Minister of door een college van burgemeester en wethouders in rekening worden gebracht. Voor zover de verstrekking geschiedt door Onze Minister, kan deze bijdrage in rekening worden gebracht naast de bijdrage die op grond van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2022-10-22&g=2022-10-22) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2022-10-22&g=2022-10-22) voor de betrokkene wordt vastgesteld.
+3. De bijdrage kan door Onze Minister of door een college van burgemeester en wethouders in rekening worden gebracht. Voor zover de verstrekking geschiedt door Onze Minister, kan deze bijdrage in rekening worden gebracht naast de bijdrage die op grond van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2023-05-15&g=2023-05-15) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2023-05-15&g=2023-05-15) voor de betrokkene wordt vastgesteld.
 
 ##### Artikel 19
 
 1. Categorieën van kosten als bedoeld in [artikel 1.14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.14), zijn tevens de kosten in verband met het ter beschikking stellen van informatie op grond van [artikel 3.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.14).
 
-2. De bijdrage van een betrokkene in de in het eerste lid bedoelde kosten wordt, in afwijking van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2022-10-22&g=2022-10-22) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2022-10-22&g=2022-10-22), vastgesteld op basis van de kosten van de terbeschikkingstelling.
+2. De bijdrage van een betrokkene in de in het eerste lid bedoelde kosten wordt, in afwijking van de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2023-05-15&g=2023-05-15) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2023-05-15&g=2023-05-15), vastgesteld op basis van de kosten van de terbeschikkingstelling.
 
 ##### Artikel 20
 
@@ -296,13 +298,13 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de va
 
 4. Het eerste lid, aanhef en onderdeel f, is niet van toepassing op de aldaar bedoelde personen:
 
-- a. omtrent wie een mededeling is gedaan als bedoeld in [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=24a&z=2022-10-22&g=2022-10-22);
+- a. omtrent wie een mededeling is gedaan als bedoeld in [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=24a&z=2023-05-15&g=2023-05-15);
 
 - b. van wie het verblijf in Nederland aanvangt door geboorte en omtrent wie door een ambtenaar van de burgerlijke stand in Nederland een geboorteakte is opgemaakt.
 
 ##### Artikel 22
 
-1. Een persoon kan door Onze Minister van Buitenlandse Zaken worden aangewezen als persoon bedoeld in [artikel 21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=21&z=2022-10-22&g=2022-10-22), indien hij geen Nederlander is en behoort tot een van de volgende categorieën van personen:
+1. Een persoon kan door Onze Minister van Buitenlandse Zaken worden aangewezen als persoon bedoeld in [artikel 21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=21&z=2023-05-15&g=2023-05-15), indien hij geen Nederlander is en behoort tot een van de volgende categorieën van personen:
 
 - a. de leden van diplomatieke zendingen en van consulaire posten;
 
@@ -314,17 +316,17 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de va
 
 2. Een persoon ten aanzien van wie een aanwijzing van kracht wordt, terwijl hij reeds als ingezetene is ingeschreven, wordt aangemerkt als een ingeschrevene die wegens zijn vertrek uit Nederland niet als ingezetene is ingeschreven.
 
-3. Een aanwijzing wordt niet van kracht of beëindigd voordat het college van burgemeester en wethouders de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=25&z=2022-10-22&g=2022-10-22) bedoelde mededeling heeft ontvangen.
+3. Een aanwijzing wordt niet van kracht of beëindigd voordat het college van burgemeester en wethouders de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=25&z=2023-05-15&g=2023-05-15) bedoelde mededeling heeft ontvangen.
 
-4. Het tweede lid is van overeenkomstige toepassing op een persoon die nog niet gedurende een jaar als ingezetene is ingeschreven en op wie [artikel 21, eerste lid, aanhef en onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=21&z=2022-10-22&g=2022-10-22), van toepassing wordt.
+4. Het tweede lid is van overeenkomstige toepassing op een persoon die nog niet gedurende een jaar als ingezetene is ingeschreven en op wie [artikel 21, eerste lid, aanhef en onderdeel c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=21&z=2023-05-15&g=2023-05-15), van toepassing wordt.
 
 #### § 2. De opneming van persoonsgegevens
 
 ##### Artikel 23
 
-1. De in [artikel 2.7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7) bedoelde algemene gegevens over ingezetenen zijn als zodanig nader bepaald in de tabel die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd.
+1. De in [artikel 2.7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7) bedoelde algemene gegevens over ingezetenen zijn als zodanig nader bepaald in de tabel die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd.
 
-2. De in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2022-10-22&g=2022-10-22) bij dit besluit bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling en de in [artikel 2.7, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7) genoemde administratieve gegevens worden nader bepaald bij regeling van Onze Minister.
+2. De in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2023-05-15&g=2023-05-15) bij dit besluit bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling en de in [artikel 2.7, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7) genoemde administratieve gegevens worden nader bepaald bij regeling van Onze Minister.
 
 #### § 3. De verplichtingen van overheidsorganen
 
@@ -336,17 +338,17 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de va
 
 ##### Artikel 25
 
-1. Onze Minister van Buitenlandse Zaken doet van een aanwijzing als bedoeld in [artikel 21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=21&z=2022-10-22&g=2022-10-22), of van de beëindiging daarvan mededeling aan het college van burgemeester en wethouders van de betrokken gemeente.
+1. Onze Minister van Buitenlandse Zaken doet van een aanwijzing als bedoeld in [artikel 21, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=21&z=2023-05-15&g=2023-05-15), of van de beëindiging daarvan mededeling aan het college van burgemeester en wethouders van de betrokken gemeente.
 
 2. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de wijze waarop de mededelingen worden gedaan.
 
 ##### Artikel 26
 
-Bij het voldoen aan de verplichtingen, bedoeld in [hoofdstuk 2, afdeling 1, paragraaf 4, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&paragraaf=4), wordt door een overheidsorgaan, indien bekend, het burgerservicenummer vermeld van de persoon of personen ten aanzien van wie gegevens, bescheiden of inlichtingen worden verstrekt of met betrekking tot wie mededelingen worden gedaan.
+Bij het voldoen aan de verplichtingen, bedoeld in [hoofdstuk 2, afdeling 1, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&paragraaf=4) en [paragraaf 4a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&paragraaf=4a), wordt door een overheidsorgaan, indien bekend, het burgerservicenummer vermeld van de persoon of personen ten aanzien van wie gegevens, bescheiden of inlichtingen worden verstrekt of met betrekking tot wie mededelingen worden gedaan.
 
 ##### Artikel 27
 
-1. Een bestuursorgaan als bedoeld in [artikel 2.34, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.34), alsmede een bestuursorgaan dat op grond van artikel 2.34, tweede of vierde lid, van de wet is aangewezen, doet mededeling aan het college van burgemeester en wethouders van door hem geconstateerde afwijkingen tussen enerzijds gegevens die hij verstrekt heeft gekregen uit de basisregistratie of waarvan de verstrekking achterwege is gebleven en anderzijds gegevens waarvan hij op andere wijze kennis heeft gekregen, alsmede van de grond van zijn gerede twijfel als bedoeld in artikel 2.34, eerste lid, van de wet.
+1. Een bestuursorgaan als bedoeld in [artikel 2.34, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.34), alsmede een bestuursorgaan dat op grond van artikel 2.34, tweede of vierde lid, van de wet is aangewezen, doet mededeling aan het college van burgemeester en wethouders van door hem geconstateerde afwijkingen tussen enerzijds gegevens die hij verstrekt heeft gekregen uit de basisregistratie of waarvan de verstrekking achterwege is gebleven en anderzijds gegevens waarvan hij op andere wijze kennis heeft gekregen, alsmede van de grond van zijn gerede twijfel.
 
 2. Onze Minister kan nadere regels stellen omtrent de gevallen waarin en regels over de wijze waarop de mededeling wordt gedaan.
 
@@ -422,9 +424,9 @@ De volgende bestuursorganen zijn wat betreft de genoemde taken bevoegd om Onze M
 
 ##### Artikel 32
 
-1. De in [artikel 2.69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.69) bedoelde algemene gegevens over niet-ingezetenen zijn als zodanig nader bepaald in de tabel die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd.
+1. De in [artikel 2.69, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.69) bedoelde algemene gegevens over niet-ingezetenen zijn als zodanig nader bepaald in de tabel die als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd.
 
-2. De in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2022-10-22&g=2022-10-22) bij dit besluit bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling en de in [artikel 2.69, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.69) genoemde administratieve gegevens worden nader bepaald bij regeling van Onze Minister.
+2. De in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=1&z=2023-05-15&g=2023-05-15) bij dit besluit bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling en de in [artikel 2.69, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.69) genoemde administratieve gegevens worden nader bepaald bij regeling van Onze Minister.
 
 ##### Artikel 33
 
@@ -484,7 +486,7 @@ Bij de indiening van een verzoek tot het nemen van een autorisatiebesluit maakt 
 
 ##### Artikel 39
 
-De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang, bedoeld in [artikel 3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.3), de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de systematische verstrekking van gegevens, de beperkingen ten aanzien van de gegevens die kunnen worden verstrekt en de bepaling of [artikel 3.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.21) op de verstrekking van toepassing is, zijn aangeduid in de tabel die als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=4&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd.
+De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang, bedoeld in [artikel 3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.3), de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de systematische verstrekking van gegevens, de beperkingen ten aanzien van de gegevens die kunnen worden verstrekt en de bepaling of [artikel 3.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.21) op de verstrekking van toepassing is, zijn aangeduid in de tabel die als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=4&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd.
 
 #### § 2. De verstrekking door de colleges van burgemeester en wethouders
 
@@ -494,7 +496,7 @@ Het college van burgemeester en wethouders weigert een verzoek tot verstrekking 
 
 ##### Artikel 41
 
-De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang, bedoeld in [artikel 3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.6), de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de verstrekking van gegevens, de beperkingen ten aanzien van de gegevens die kunnen worden verstrekt en de bepaling of [artikel 3.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.21) op de verstrekking van toepassing is, zijn aangeduid in de tabel die als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=5&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd.
+De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang, bedoeld in [artikel 3.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.6), de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de verstrekking van gegevens, de beperkingen ten aanzien van de gegevens die kunnen worden verstrekt en de bepaling of [artikel 3.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.21) op de verstrekking van toepassing is, zijn aangeduid in de tabel die als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=5&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd.
 
 #### § 2. De verstrekking door de colleges van burgemeester en wethouders
 
@@ -512,11 +514,11 @@ Ter uitvoering van [artikel 3.11 van de wet](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 43
 
-1. Indien door een ingezetene aangifte is gedaan van vertrek naar Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, verstrekt Onze Minister de gegevens over de betrokkene die daartoe zijn aangewezen in de tabel die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=6&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd aan de desbetreffende verantwoordelijke voor de verwerking van gegevens in de basisadministratie van Aruba, Curaçao, Sint Maarten of het desbetreffende openbaar lichaam.
+1. Indien door een ingezetene aangifte is gedaan van vertrek naar Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, verstrekt Onze Minister de gegevens over de betrokkene die daartoe zijn aangewezen in de tabel die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=6&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd aan de desbetreffende verantwoordelijke voor de verwerking van gegevens in de basisadministratie van Aruba, Curaçao, Sint Maarten of het desbetreffende openbaar lichaam.
 
-2. Onze Minister verstrekt op verzoek van een verantwoordelijke voor de verwerking van gegevens in de basisadministratie van Aruba, Curaçao, Sint Maarten of een openbaar lichaam aan deze gegevens, voor zover deze gegevens noodzakelijk zijn in verband met de bijhouding van de basisadministratie van de verantwoordelijke. De verstrekking kan uitsluitend betrekking hebben op de gegevens over de betrokkene die daartoe zijn aangewezen in de tabel die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=6&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd.
+2. Onze Minister verstrekt op verzoek van een verantwoordelijke voor de verwerking van gegevens in de basisadministratie van Aruba, Curaçao, Sint Maarten of een openbaar lichaam aan deze gegevens, voor zover deze gegevens noodzakelijk zijn in verband met de bijhouding van de basisadministratie van de verantwoordelijke. De verstrekking kan uitsluitend betrekking hebben op de gegevens over de betrokkene die daartoe zijn aangewezen in de tabel die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=6&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd.
 
-3. Onze Minister kan op verzoek van een verantwoordelijke voor de verwerking van gegevens in de basisadministratie van Aruba, Curaçao, Sint Maarten of een van de openbare lichamen aan hem gegevens verstrekken, ter bevordering van de afstemming van de basisadministratie van de verantwoordelijke op de basisregistratie. De verstrekking kan uitsluitend betrekking hebben op de gegevens over de betrokkene die daartoe zijn aangewezen in de tabel die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=6&z=2022-10-22&g=2022-10-22) bij dit besluit is gevoegd.
+3. Onze Minister kan op verzoek van een verantwoordelijke voor de verwerking van gegevens in de basisadministratie van Aruba, Curaçao, Sint Maarten of een van de openbare lichamen aan hem gegevens verstrekken, ter bevordering van de afstemming van de basisadministratie van de verantwoordelijke op de basisregistratie. De verstrekking kan uitsluitend betrekking hebben op de gegevens over de betrokkene die daartoe zijn aangewezen in de tabel die als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=6&z=2023-05-15&g=2023-05-15) bij dit besluit is gevoegd.
 
 ##### Artikel 44
 
@@ -604,7 +606,7 @@ Het college van burgemeester en wethouders of Onze Minister voldoet in ieder gev
 
 ### Afdeling 1. Onderzoek
 
-#### § 1. De oude registers
+#### § 3. Overige bepalingen
 
 ##### Artikel 48
 
@@ -636,31 +638,31 @@ Onze Minister stelt regels omtrent heffingen in verband met de verstrekking van 
 
 ##### Artikel 51
 
-1. Onze Minister stelt in september van ieder kalenderjaar een korting vast voor het volgende jaar in verband met de toename van de kosten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2022-10-22&g=2022-10-22), die gedurende dat jaar in verband met de overgang van de gemeentelijke basisadministratie persoonsgegevens naar de basisregistratie personen plaatsvindt.
+1. Onze Minister stelt in september van ieder kalenderjaar een korting vast voor het volgende jaar in verband met de toename van de kosten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=12&z=2023-05-15&g=2023-05-15), die gedurende dat jaar in verband met de overgang van de gemeentelijke basisadministratie persoonsgegevens naar de basisregistratie personen plaatsvindt.
 
-2. De ingevolge het eerste lid vastgestelde korting wordt in mindering gebracht op de kosten in verband met dat kalenderjaar bij de vaststelling van de abonnementsstructuur op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2022-10-22&g=2022-10-22).
+2. De ingevolge het eerste lid vastgestelde korting wordt in mindering gebracht op de kosten in verband met dat kalenderjaar bij de vaststelling van de abonnementsstructuur op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2023-05-15&g=2023-05-15).
 
 ##### Artikel 52
 
-1. Bij regeling van Onze Minister kan worden bepaald in welke gevallen [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=26&z=2022-10-22&g=2022-10-22) niet van toepassing is in verband met de overgang van de oude naar de nieuwe voorzieningen of de overgang van de oude naar de nieuwe berichtuitwisseling.
+1. Bij regeling van Onze Minister kan worden bepaald in welke gevallen [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3&artikel=26&z=2023-05-15&g=2023-05-15) niet van toepassing is in verband met de overgang van de oude naar de nieuwe voorzieningen of de overgang van de oude naar de nieuwe berichtuitwisseling.
 
-2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld in verband met de overgang, waarbij kan worden afgeweken van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&z=2022-10-22&g=2022-10-22) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&z=2022-10-22&g=2022-10-22) van dit besluit, voor zover de afwijking noodzakelijk is in verband met een goede bijhouding en verstrekking van gegevens in de basisregistratie gedurende de overgang van de oude naar de nieuwe voorzieningen of de overgang van de oude naar de nieuwe berichtuitwisseling.
+2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld in verband met de overgang, waarbij kan worden afgeweken van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&z=2023-05-15&g=2023-05-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&z=2023-05-15&g=2023-05-15) van dit besluit, voor zover de afwijking noodzakelijk is in verband met een goede bijhouding en verstrekking van gegevens in de basisregistratie gedurende de overgang van de oude naar de nieuwe voorzieningen of de overgang van de oude naar de nieuwe berichtuitwisseling.
 
 #### § 2. De overgang van de gemeentelijke basisadministratie persoonsgegevens naar de basisregistratie personen
 
 ##### Artikel 53
 
-1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2022-10-22&g=2022-10-22) geldt voor het jaar 2014 de abonnementsstructuur die Onze Minister voor dat jaar heeft vastgesteld op grond van [artikel 6 van het Besluit gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006933&artikel=6) zoals dat luidde op de laatste dag voor de intrekking van de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723).
+1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2023-05-15&g=2023-05-15) geldt voor het jaar 2014 de abonnementsstructuur die Onze Minister voor dat jaar heeft vastgesteld op grond van [artikel 6 van het Besluit gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006933&artikel=6) zoals dat luidde op de laatste dag voor de intrekking van de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723).
 
-2. Voor de toepassing van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2022-10-22&g=2022-10-22), wordt wat betreft het vaststellen van de abonnementsstructuur voor het jaar 2015, uitgegaan van vermindering van de bijdragen met de kosten, bedoeld in [artikel 4 van het Besluit gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006933&artikel=4) zoals dat luidde op de laatste dag voor de intrekking van de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723).
+2. Voor de toepassing van [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=13&z=2023-05-15&g=2023-05-15), wordt wat betreft het vaststellen van de abonnementsstructuur voor het jaar 2015, uitgegaan van vermindering van de bijdragen met de kosten, bedoeld in [artikel 4 van het Besluit gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006933&artikel=4) zoals dat luidde op de laatste dag voor de intrekking van de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723).
 
-3. Voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2022-10-22&g=2022-10-22) wordt wat betreft het bij een betrokkene in rekening te brengen abonnementstarief voor het jaar 2014 gelet op het aantal netwerkberichten dat in het jaar 2013 ten laste van hem kwam op grond van het [Besluit gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006933) zoals dat gold op de laatste dag voor de intrekking van de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723).
+3. Voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&artikel=14&z=2023-05-15&g=2023-05-15) wordt wat betreft het bij een betrokkene in rekening te brengen abonnementstarief voor het jaar 2014 gelet op het aantal netwerkberichten dat in het jaar 2013 ten laste van hem kwam op grond van het [Besluit gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006933) zoals dat gold op de laatste dag voor de intrekking van de [Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723).
 
-### Afdeling 3. Slotbepalingen
+### Afdeling 1. Onderzoek
 
 ##### Artikel 54
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kunnen andere tijdstippen worden vastgesteld waarop de onderdelen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=31&z=2022-10-22&g=2022-10-22) in werking treden.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kunnen andere tijdstippen worden vastgesteld waarop de onderdelen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=2&paragraaf=1&artikel=31&z=2023-05-15&g=2023-05-15) in werking treden.
 
 ##### Artikel 55
 
@@ -690,19 +692,19 @@ Dit besluit wordt aangehaald als: Besluit basisregistratie personen.
 
 ### Bijlage bij [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=39&z=2021-01-14&g=2021-01-14)
 
-## Bijlage 5. Derden die werkzaamheden verrichten met een gewichtig maatschappelijk belang aan wie door burgemeester en wethouders verstrekt kan worden
+## Bijlage 1. Algemene en authentieke gegevens
 
-### Bijlage bij [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=41&z=2021-01-14&g=2021-01-14)
+### Bijlage bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=2&artikel=2&z=2023-05-15&g=2023-05-15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=2&artikel=23&z=2023-05-15&g=2023-05-15) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=32&z=2023-05-15&g=2023-05-15)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 24a
 
-1. Onze Minister van Justitie en Veiligheid doet een mededeling aan het college van burgemeester en wethouders van de betrokken gemeente inzake het niet van toepassing zijn van [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.6), als hij de identiteit van een vreemdeling als bedoeld in [artikel 21, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=21&z=2022-10-22&g=2022-10-22), deugdelijk heeft vastgesteld, de vreemdeling rechtmatig in Nederland verblijft en naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in Nederland verblijf zal houden.
+1. Onze Minister van Justitie en Veiligheid doet een mededeling aan het college van burgemeester en wethouders van de betrokken gemeente inzake het niet van toepassing zijn van [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.6), als hij de identiteit van een vreemdeling als bedoeld in [artikel 21, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=1&artikel=21&z=2023-05-15&g=2023-05-15), deugdelijk heeft vastgesteld, de vreemdeling rechtmatig in Nederland verblijft en naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in Nederland verblijf zal houden.
 
 2. In afwijking van het eerste lid doet Onze Minister van Justitie en Veiligheid geen mededeling als bedoeld in het vorige lid omtrent de vreemdelingen, bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30), [30a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30a), of [30b, eerste lid, onder b, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=30b).
 
-#### § 4. De verplichtingen van de burger
+#### § 3a. Ondersteuning bij het onderzoek of een persoon als ingezetene in de basisregistratie personen op een adres in de gemeente dient te worden ingeschreven alsmede naar de juistheid van de gegevens betreffende het adres van een ingezetene in de basisregistratie
 
 ### Afdeling 2. Niet-ingezetenen
 
@@ -736,7 +738,7 @@ Het college van burgemeester en wethouders van de voormalige bijhoudingsgemeente
 
 #### § 3. Overgangsbepaling in verband met de kosten in verband met de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
 
-### Afdeling 3. Slotbepalingen
+### Afdeling 2. Overgangsbepalingen
 
 ## Bijlage 1. Algemene en authentieke gegevens
 
@@ -806,11 +808,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 43a
 
-1. Onze Minister verstrekt op verzoek van een in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=7&z=2022-10-22&g=2022-10-22) bij dit besluit aangewezen autoriteit in een van de openbare lichamen, Aruba, Curaçao of Sint Maarten aan deze gegevens uit de basisregistratie, voor zover deze gegevens noodzakelijk zijn voor de uitvoering van de in bijlage 7 bij dit besluit aangewezen bij of krachtens een rijkswet aan de desbetreffende autoriteit opgedragen taak.
+1. Onze Minister verstrekt op verzoek van een in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=7&z=2023-05-15&g=2023-05-15) bij dit besluit aangewezen autoriteit in een van de openbare lichamen, Aruba, Curaçao of Sint Maarten aan deze gegevens uit de basisregistratie, voor zover deze gegevens noodzakelijk zijn voor de uitvoering van de in bijlage 7 bij dit besluit aangewezen bij of krachtens een rijkswet aan de desbetreffende autoriteit opgedragen taak.
 
-2. Onze Minister verstrekt op verzoek van autoriteiten in een van de openbare lichamen, Aruba, Curaçao of Sint Maarten aan deze gegevens uit de basisregistratie, voor zover deze gegevens noodzakelijk zijn voor de uitvoering van de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=7&z=2022-10-22&g=2022-10-22) bij dit besluit aangewezen andere taken dan bedoeld in het eerste lid waarmee zij op grond van de voor hen geldende wetgeving zijn belast.
+2. Onze Minister verstrekt op verzoek van autoriteiten in een van de openbare lichamen, Aruba, Curaçao of Sint Maarten aan deze gegevens uit de basisregistratie, voor zover deze gegevens noodzakelijk zijn voor de uitvoering van de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=7&z=2023-05-15&g=2023-05-15) bij dit besluit aangewezen andere taken dan bedoeld in het eerste lid waarmee zij op grond van de voor hen geldende wetgeving zijn belast.
 
-3. Verstrekking als bedoeld in het eerste en tweede lid betreft systematische verstrekking van gegevens. [Hoofdstuk 1, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&z=2022-10-22&g=2022-10-22), is van overeenkomstige toepassing op de vaststelling van de kosten in verband met die verstrekking en de wijze waarop deze kosten worden vergoed.
+3. Verstrekking als bedoeld in het eerste en tweede lid betreft systematische verstrekking van gegevens. [Hoofdstuk 1, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=4&z=2023-05-15&g=2023-05-15), is van overeenkomstige toepassing op de vaststelling van de kosten in verband met die verstrekking en de wijze waarop deze kosten worden vergoed.
 
 ### Afdeling 2. De rechten van de burger
 
@@ -826,11 +828,169 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het adres is alleen een authentiek gegeven voor zover het een woonadres betreft.
 
-## Bijlage 6. Gegevens die verstrekt mogen worden op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=43&z=2022-10-22&g=2022-10-22)
+## Bijlage 2. De inhoud van de systeembeschrijving
 
-### Bijlage bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=43&z=2022-10-22&g=2022-10-22)
+### Bijlage bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=3&artikel=4&z=2023-05-15&g=2023-05-15)
 
-## Bijlage 7. Aanwijzing autoriteiten en taken als bedoeld in [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=43a&z=2022-10-22&g=2022-10-22)
+## Bijlage 3. De uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) overeenkomstig de systeembeschrijving
+
+### Bijlage bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=1&paragraaf=3&artikel=5&z=2023-05-15&g=2023-05-15)
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 28a
+
+De analysemethoden, bedoeld in [artikel 2.37c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37c) zien op:
+
+- a. de analyse van mededelingen als bedoeld in [artikel 2.37b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37b);
+
+- b. de analyse aan de hand van profielen;
+
+- c. een onderzoek naar patronen.
+
+##### Artikel 28b
+
+1. Een bestuursorgaan als bedoeld in [artikel 2.37b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37b) alsmede een derde als bedoeld in artikel 2.37b, derde lid, van de wet doet mededeling aan Onze Minister van door hem geconstateerde afwijkingen tussen enerzijds gegevens die hij verstrekt heeft gekregen uit de basisregistratie of waarvan de verstrekking achterwege is gebleven en anderzijds gegevens waarvan hij op andere wijze kennis heeft gekregen, alsmede de grond van zijn gerede twijfel.
+
+2. De bestuursorganen, bedoeld in het eerste lid, kunnen aan Onze Minister de volgende andere categorieën gegevens verstrekken:
+
+- a. administratieve gegevens;
+
+- b. gegevens over de samenstelling van de bewoning op een adres;
+
+- c. gegevens over de gezamenlijke huishouding op een adres;
+
+- d. gegevens over de rechtmatigheid van de bewoning op een adres.
+
+3. Bij regeling van Onze Minister worden de gegevens, bedoeld in het tweede lid, nader bepaald.
+
+4. Onze Minister kan nadere regels stellen over de wijze waarop de mededeling wordt gedaan.
+
+##### Artikel 28c
+
+1. Een profiel als bedoeld in [artikel 2.37c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37c) bestaat uit een of meerdere selectiefactoren waarmee door Onze Minister uit de gegevens, bedoeld in artikel 2.37c, eerste lid, van de wet, gegevens betreffende het adres van een persoon worden geselecteerd voor een mededeling als bedoeld in [artikel 2.37d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37d).
+
+2. De selectiefactoren, bedoeld in het eerste lid, geven in onderlinge samenhang aanleiding tot gerede twijfel bij Onze Minister over de juistheid van de gegevens betreffende het adres van een persoon.
+
+3. Bij regeling van Onze Minister wordt bepaald welke selectiefactoren een profiel vormen.
+
+##### Artikel 28d
+
+1. Een onderzoek naar patronen als bedoeld in [artikel 2.37c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37c) draagt bij aan de totstandkoming van een profiel als bedoeld in [artikel 28c](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3a&artikel=28c&z=2023-05-15&g=2023-05-15). Het onderzoek leidt niet tot een mededeling als bedoeld in [artikel 2.37d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37d).
+
+2. Een onderzoek als bedoeld in het eerste lid wordt niet gestart dan nadat daarover door Onze Minister overleg is gepleegd met representatieve vertegenwoordigingen van de gemeenten en de krachtens [artikel 2.37b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37b) aangewezen bestuursorganen, waarbij Onze Minister in ieder geval inzicht geeft in het beoogde doel van het onderzoek en de daarbij te verwerken categorieën gegevens.
+
+##### Artikel 28e
+
+1. Onze minister verwerkt bij de analyse van de mededeling als bedoeld in [artikel 28b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3a&artikel=28b&z=2023-05-15&g=2023-05-15), bij de toepassing van profielen als bedoeld in [artikel 28c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3a&artikel=28c&z=2023-05-15&g=2023-05-15) en het onderzoek naar patronen als bedoeld in [artikel 28d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=2&afdeling=1&paragraaf=3a&artikel=28d&z=2023-05-15&g=2023-05-15), de volgende categorieën gegevens:
+
+- a. Algemene gegevens als bedoeld in [artikel 2.7, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7):
+
+- 1°. gegevens over de burgerlijke staat;
+
+- 2°. gegevens over de bijhoudingsgemeente en het adres in die gemeente alsmede over het verblijf in Nederland en het vertrek uit Nederland;
+
+- 3°. gegevens over het woonadres van de niet-ingezetene;
+
+- 4°. gegevens over het tijdelijk verblijfsadres;
+
+- 5°. gegevens over het burgerservicenummer van de ingeschrevene;
+
+- 6°. gegevens over de burgerservicenummers van de ouders, de echtgenoot dan wel de geregistreerde partner, de eerdere echtgenoten of eerdere geregistreerde partners en de kinderen;
+
+- 7°. gegevens over het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot, de geregistreerde partner, de eerdere echtgenoot of de eerdere geregistreerde partner.
+
+- b. Administratieve gegevens als bedoeld in [artikel 2.7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.7), en [artikel 2.69, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.69).
+
+- c. Andere gegevens als bedoeld [artikel 2.37c, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37c):
+
+- 1°. gegevens over de samenstelling van de bewoning op een adres;
+
+- 2°. gegevens over de gezamenlijke huishouding op een adres;
+
+- 3°. gegevens over de rechtmatigheid van de bewoning op een adres;
+
+- 4°. gegevens over het water- en energieverbruik op een adres;
+
+- 5°. gegevens over de resultaten van adresonderzoek;
+
+- 6°. gegevens over het gebruik en de bestemming van een pand of verblijfsobject;
+
+- 7°. kadastrale gegevens als bedoeld in artikel 48, tweede lid, Kadasterwet.
+
+2. Bij regeling van Onze Minister worden de algemene gegevens bedoeld in het eerste lid, onderdeel a, de administratieve gegevens bedoeld in het eerste lid, onderdeel b, en de andere gegevens bedoeld in het eerste lid, onderdeel c, nader bepaald.
+
+##### Artikel 28f
+
+Een mededeling als bedoeld in [artikel 2.37d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37d) bevat de volgende categorieën gegevens van alle personen die zijn ingeschreven op het adres waar de mededeling op ziet:
+
+- a. gegevens over de bijhoudingsgemeente en het adres in die gemeente;
+
+- b. gegevens over de burgerlijke staat waar het betreft de naam; en
+
+- c. gegevens over het burgerservicenummer van de ingeschrevene.
+
+##### Artikel 28g
+
+1. De termijn, bedoeld in [artikel 2.37e, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37e) is vier weken.
+
+2. De termijn, bedoeld in [artikel 2.37e, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37e) is zes maanden.
+
+3. Een kennisgeving van de resultaten als bedoeld in [artikel 2.37e, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37e) bevat de volgende categorieën gegevens van alle personen die ingeschreven zijn op het adres waar de kennisgeving op ziet:
+
+- a. gegevens over de bijhoudingsgemeente en het adres in die gemeente;
+
+- b. gegevens over de burgerlijke staat waar het betreft de naam;
+
+- c. gegevens over het burgerservicenummer van de ingeschrevene; en
+
+- d. gegevens over het resultaat van het onderzoek, bedoeld in [artikel 2.37a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37a).
+
+4. Bij regeling van Onze Minister worden nadere regels gesteld omtrent de wijze waarop de verstrekking van gegevens, bedoeld in de artikelen [2.37d](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37d) en [2.37e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.37e), plaatsvindt.
+
+#### § 4. De verplichtingen van de burger
+
+### Afdeling 2. Niet-ingezetenen
+
+#### § 1. Algemeen
+
+#### § 2. Bepalingen in verband met de inschrijving, de opneming van persoonsgegevens en overige bepalingen
+
+### Hoofdstuk 3. De verstrekking
+
+### Afdeling 1. De verstrekking van gegevens uit de basisregistratie
+
+#### § 1. De verstrekking door Onze Minister
+
+#### § 2. De verstrekking door de colleges van burgemeester en wethouders
+
+### Afdeling 2. De rechten van de burger
+
+### Hoofdstuk 4. Toezicht, overgangs- en slotbepalingen
+
+#### § 1. De oude registers
+
+#### § 2. De overgang van de gemeentelijke basisadministratie persoonsgegevens naar de basisregistratie personen
+
+#### § 3. Overgangsbepaling in verband met de kosten in verband met de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
+
+### Afdeling 3. Slotbepalingen
+
+1. Het adres is alleen een authentiek gegeven voor zover het een woonadres betreft.
+
+## Bijlage 4. Derden die werkzaamheden verrichten met een gewichtig maatschappelijk belang aan wie systematisch verstrekt kan worden
+
+### Bijlage bij [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=39&z=2023-05-15&g=2023-05-15)
+
+## Bijlage 5. Derden die werkzaamheden verrichten met een gewichtig maatschappelijk belang aan wie door burgemeester en wethouders verstrekt kan worden
+
+### Bijlage bij [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=2&artikel=41&z=2023-05-15&g=2023-05-15)
+
+## Bijlage 6. Gegevens die verstrekt mogen worden op grond van [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=43&z=2023-05-15&g=2023-05-15)
+
+### Bijlage bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=43&z=2023-05-15&g=2023-05-15)
+
+## Bijlage 7. Aanwijzing autoriteiten en taken als bedoeld in [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=43a&z=2023-05-15&g=2023-05-15)
 
 ### Bijlage bij artikel 43a
 
