@@ -4,7 +4,7 @@ identifier: "BWBR0046981"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-03-16"
-last_updated: "2023-01-01"
+last_updated: "2023-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046981"
 soort: "zbo"
@@ -85,7 +85,7 @@ en stelt, gelet op [artikel 10 van de Tijdelijke wet Groningen](https://wetten.o
 
 ##### Artikel 1.3. Aanvulling van de aanvraag
 
-1. Het Instituut verzoekt de aanvrager om aanvulling van gegevens en stukken indien niet is voldaan aan het bepaalde in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.1&z=2023-01-01&g=2023-01-01), indien dit nodig is voor de beslissing op de aanvraag en de aanvrager over de gegevens en stukken redelijkerwijs de beschikking kan krijgen.
+1. Het Instituut verzoekt de aanvrager om aanvulling van gegevens en stukken indien niet is voldaan aan het bepaalde in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.1&z=2023-05-15&g=2023-05-15), indien dit nodig is voor de beslissing op de aanvraag en de aanvrager over de gegevens en stukken redelijkerwijs de beschikking kan krijgen.
 
 2. Het Instituut stelt de aanvrager in de gelegenheid om de ontbrekende gegevens en stukken aan te leveren binnen een termijn van twee weken na verzending van de brief, waarin hem is verzocht de ontbrekende gegevens en stukken aan te leveren.
 
@@ -113,7 +113,7 @@ en stelt, gelet op [artikel 10 van de Tijdelijke wet Groningen](https://wetten.o
 
 ##### Artikel 1.6. Besluit zonder onderzoek door deskundige
 
-Het Instituut beslist op de aanvraag, zonder dat onderzoek is verricht door een deskundige als bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-01-01&g=2023-01-01) indien:
+Het Instituut beslist op de aanvraag, zonder dat onderzoek is verricht door een deskundige als bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-05-15&g=2023-05-15) indien:
 
 - a. naar zijn oordeel zodanig onderzoek niet nodig is om op de aanvraag te beslissen; of
 
@@ -137,7 +137,7 @@ Het Instituut beslist op de aanvraag, zonder dat onderzoek is verricht door een 
 
 1. Het bepaalde in dit hoofdstuk is uitsluitend van toepassing op aanvragen tot schadevergoeding in verband met fysieke schade aan een gebouw of werk, en de materiële schade die een gevolg van de fysieke schade is.
 
-2. Een verzoek tot schadevergoeding in verband met fysieke schade wordt behandeld met toepassing van de individuele maatwerkbeoordeling zoals beschreven in [hoofdstuk 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&z=2023-01-01&g=2023-01-01), tenzij de aanvrager verzoekt om toepassing van een forfaitaire beoordeling als bedoeld in [hoofdstuk 2B](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&z=2023-01-01&g=2023-01-01) en de aanvraag voldoet aan de daaraan gestelde eisen.
+2. Een verzoek tot schadevergoeding in verband met fysieke schade wordt behandeld met toepassing van de individuele maatwerkbeoordeling zoals beschreven in [hoofdstuk 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&z=2023-05-15&g=2023-05-15), tenzij de aanvrager verzoekt om toepassing van een forfaitaire beoordeling als bedoeld in [hoofdstuk 2B](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&z=2023-05-15&g=2023-05-15) en de aanvraag voldoet aan de daaraan gestelde eisen.
 
 ### Hoofdstuk 2a. Individuele maatwerkbeoordeling
 
@@ -161,7 +161,7 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 4. De deskundige brengt zijn advies uit aan het Instituut binnen een door het Instituut gestelde termijn. Indien de deskundige binnen de gestelde termijn geen advies kan uitbrengen, deelt de deskundige dit, onder opgaaf van redenen, aan het Instituut mee voor het einde van de termijn en kan het Instituut de termijn met ten hoogste zes maanden verlengen. Het Instituut stelt de aanvrager daarvan schriftelijk in kennis.
 
-5. Indien het voor het uitbrengen van een advies noodzakelijk is dat meerdere deskundigen worden benoemd, kan de deskundige of kunnen de deskundigen het Instituut daarom verzoeken. [Artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-01-01&g=2023-01-01) is van overeenkomstige toepassing.
+5. Indien het voor het uitbrengen van een advies noodzakelijk is dat meerdere deskundigen worden benoemd, kan de deskundige of kunnen de deskundigen het Instituut daarom verzoeken. [Artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-05-15&g=2023-05-15) is van overeenkomstige toepassing.
 
 6. Indien de aanvraag zich naar het oordeel van het Instituut daarvoor leent, kan het Instituut ervoor kiezen om de schade ten behoeve van de advisering door de deskundige op te laten nemen door een opnemer.
 
@@ -169,11 +169,11 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 1. Het Instituut kan, indien de aanvraag zich daarvoor leent, een aanvrager aanbieden om zijn aanvraag te behandelen door middel van de aannemersvariant.
 
-2. Als de aanvrager ervoor kiest om gebruik te maken van de aannemersvariant, dan neemt in afwijking van het bepaalde in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.2&z=2023-01-01&g=2023-01-01), een door het Instituut aangewezen aannemer de schade op en maakt de aannemer een beoordeling van de kosten van herstel van de schade. Voor het overige is het bepaalde in artikel 2.2 onverkort van toepassing.
+2. Als de aanvrager ervoor kiest om gebruik te maken van de aannemersvariant, dan neemt in afwijking van het bepaalde in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.2&z=2023-05-15&g=2023-05-15), een door het Instituut aangewezen aannemer de schade op en maakt de aannemer een beoordeling van de kosten van herstel van de schade. Voor het overige is het bepaalde in artikel 2.2 onverkort van toepassing.
 
 ##### Artikel 2.4. Zienswijze
 
-1. Na ontvangst van het advies, bedoeld in [artikel 2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.2&z=2023-01-01&g=2023-01-01), stelt het Instituut de aanvrager in de gelegenheid om binnen een termijn van twee weken, mondeling of schriftelijk, een zienswijze te geven op het advies van de deskundige.
+1. Na ontvangst van het advies, bedoeld in [artikel 2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.2&z=2023-05-15&g=2023-05-15), stelt het Instituut de aanvrager in de gelegenheid om binnen een termijn van twee weken, mondeling of schriftelijk, een zienswijze te geven op het advies van de deskundige.
 
 2. Het Instituut kan de termijn op verzoek van de aanvrager of ambtshalve verlengen.
 
@@ -189,7 +189,7 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 2. Van het verzoek om een nader advies of een tweede advies wordt schriftelijk mededeling gedaan aan de aanvrager.
 
-3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.4&z=2023-01-01&g=2023-01-01) is van overeenkomstige toepassing op het nadere advies, bedoeld in het eerste lid, onder a, indien daartoe naar het oordeel van het Instituut uit oogpunt van zorgvuldigheid aanleiding bestaat. Artikel 2.4 is in elk geval van toepassing op een tweede advies als bedoeld in het eerste lid, onder b.
+3. [Artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.4&z=2023-05-15&g=2023-05-15) is van overeenkomstige toepassing op het nadere advies, bedoeld in het eerste lid, onder a, indien daartoe naar het oordeel van het Instituut uit oogpunt van zorgvuldigheid aanleiding bestaat. Artikel 2.4 is in elk geval van toepassing op een tweede advies als bedoeld in het eerste lid, onder b.
 
 ##### Artikel 2.6. Bijkomende kosten
 
@@ -214,7 +214,7 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 | f. | juridische begeleidingskosten | maximaal € 175 per uur, excl. BTW |
 | g. | andere begeleidingskosten | maximaal de vergoeding per uur, bedoeld in [artikel 2, tweede lid, onderdeel b, van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=2), in samenhang met [artikel 6 Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=6), naar boven afgerond in hele euro’s, excl. BTW |
 
-4. De onder sub e, f en g bedoelde kosten worden voor wat betreft de procedure totdat een besluit op het verzoek om schadevergoeding is genomen, voor maximaal 20 uren vergoed, mits is voldaan aan de dubbele redelijkheidstoets. Het Instituut kan in uitzonderlijke omstandigheden een hogere vergoeding toekennen. In het kader van de behandeling van een bezwaar geeft het Instituut voor wat betreft de juridische begeleidingskosten toepassing aan [artikel 7:15 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15).
+4. De onder sub e, f en g bedoelde kosten worden voor wat betreft de procedure totdat een besluit op het verzoek om schadevergoeding is genomen, voor maximaal 20 uren vergoed, mits is voldaan aan de dubbele redelijkheidstoets. Het Instituut kan in uitzonderlijke omstandigheden een hogere vergoeding toekennen. Het eerste tot en met derde lid gelden niet voor de vergoeding van kosten in verband met de behandeling van het bezwaar. Indien het Instituut in bezwaar toepassing geeft aan [artikel 7:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15), beroept het zich niet op artikel 7:15, derde lid, van de Algemene wet bestuursrecht indien een verzoek om vergoeding van kosten is gedaan na de beslissing op bezwaar.
 
 5. Indien de aanvrager een woningcorporatie is en bij convenant nadere afspraken zijn gemaakt over de vergoeding van bijkomende kosten, dan gelden, in afwijking van de voorgaande leden, de in het convenant gemaakte afspraken.
 
@@ -262,9 +262,9 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 - f. de aanvrager nog geen drie keer van de vaste vergoeding gebruik heeft gemaakt, of, indien de aanvraag wordt ingediend namens meerdere personen gezamenlijk, geen van de aanvragers drie keer van de vaste vergoeding gebruik heeft gemaakt.
 
-3. Als de aanvrager een vaste vergoeding aanvraagt, verzoekt het Instituut de aanvrager om alle schade aan het object op te nemen of te laten opnemen op de wijze zoals beschreven in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-01-01&g=2023-01-01).
+3. Als de aanvrager een vaste vergoeding aanvraagt, verzoekt het Instituut de aanvrager om alle schade aan het object op te nemen of te laten opnemen op de wijze zoals beschreven in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-05-15&g=2023-05-15).
 
-4. Als de aanvrager alle schade aan het object heeft opgenomen of heeft laten opnemen op de wijze zoals beschreven in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-01-01&g=2023-01-01), en nog steeds wordt voldaan aan de voorwaarden uit het tweede lid, doet het Instituut de aanvrager een definitief aanbod om de schade door middel van een vaste vergoeding af te handelen. Onderdeel van het aanbod is het bepaalde met betrekking tot de finaliteit in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.10&z=2023-01-01&g=2023-01-01). Als de aanvrager het aanbod accepteert, komt een vaststellingsovereenkomst als bedoeld in [artikel 7:900 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=900) tot stand.
+4. Als de aanvrager alle schade aan het object heeft opgenomen of heeft laten opnemen op de wijze zoals beschreven in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-05-15&g=2023-05-15), en nog steeds wordt voldaan aan de voorwaarden uit het tweede lid, doet het Instituut de aanvrager een definitief aanbod om de schade door middel van een vaste vergoeding af te handelen. Onderdeel van het aanbod is het bepaalde met betrekking tot de finaliteit in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.10&z=2023-05-15&g=2023-05-15). Als de aanvrager het aanbod accepteert, komt een vaststellingsovereenkomst als bedoeld in [artikel 7:900 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=900) tot stand.
 
 5. Nadat de vaststellingsovereenkomst als bedoeld in het vierde lid tot stand is gekomen, neemt het Instituut een besluit op de aanvraag en keert het de vaste vergoeding uit.
 
@@ -274,13 +274,13 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 - b. de aanvrager of één van de gezamenlijke aanvragers inmiddels reeds drie keer van de vaste vergoeding gebruik heeft gemaakt;
 
-- c. in het kader van de aanvraag is gekozen voor een individuele maatwerkbeoordeling als bedoeld in [hoofdstuk 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&z=2023-01-01&g=2023-01-01);
+- c. in het kader van de aanvraag is gekozen voor een individuele maatwerkbeoordeling als bedoeld in [hoofdstuk 2A](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&z=2023-05-15&g=2023-05-15);
 
 - d. voor de behandeling van de aanvraag, of een andere aanvraag voor hetzelfde object, op of ná 7 juni 2021 een afspraak is gepland voor een opname van de schade;
 
-- e. de aanvrager niet alle schade aan het object heeft opgenomen of heeft laten opnemen op de wijze zoals beschreven in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-01-01&g=2023-01-01);
+- e. de aanvrager niet alle schade aan het object heeft opgenomen of heeft laten opnemen op de wijze zoals beschreven in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-05-15&g=2023-05-15);
 
-- f. uit de opname als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-01-01&g=2023-01-01) niet blijkt van schade;
+- f. uit de opname als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-05-15&g=2023-05-15) niet blijkt van schade;
 
 - g. de aanvrager het definitieve aanbod als bedoeld in het vierde lid, niet heeft aanvaard; of
 
@@ -294,11 +294,11 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 ##### Artikel 2.10. Finaal karakter van de vaste vergoeding
 
-1. Met het toekennen van een vaste vergoeding op grond van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.8&z=2023-01-01&g=2023-01-01) is alle schade aan het object vergoed en afgehandeld; ongeacht de inhoud van de schademelding, de beschrijving van de schade als bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.3&z=2023-01-01&g=2023-01-01), of de opname als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-01-01&g=2023-01-01).
+1. Met het toekennen van een vaste vergoeding op grond van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.8&z=2023-05-15&g=2023-05-15) is alle schade aan het object vergoed en afgehandeld; ongeacht de inhoud van de schademelding, de beschrijving van de schade als bedoeld in [artikel 1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.3&z=2023-05-15&g=2023-05-15), of de opname als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.9&z=2023-05-15&g=2023-05-15).
 
-2. Met de vaste vergoeding is ook voorzien in een eenmalige en finale vergoeding voor alle bijkomende kosten, materiële gevolgschade en overlast. Alleen waardedaling als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&z=2023-01-01&g=2023-01-01) en immateriële schade als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&z=2023-01-01&g=2023-01-01) valt hier niet onder.
+2. Met de vaste vergoeding is ook voorzien in een eenmalige en finale vergoeding voor alle bijkomende kosten, materiële gevolgschade en overlast. Alleen waardedaling als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&z=2023-05-15&g=2023-05-15) en immateriële schade als bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&z=2023-05-15&g=2023-05-15) valt hier niet onder.
 
-3. Het Instituut zal een nieuwe aanvraag tot schadevergoeding met betrekking tot een object waar een vaste vergoeding voor is toegekend afwijzen, indien tussen het moment van totstandkoming van de vaststellingsovereenkomst als bedoeld in [artikel 2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.8&z=2023-01-01&g=2023-01-01), en het moment van het indienen van de aanvraag:
+3. Het Instituut zal een nieuwe aanvraag tot schadevergoeding met betrekking tot een object waar een vaste vergoeding voor is toegekend afwijzen, indien tussen het moment van totstandkoming van de vaststellingsovereenkomst als bedoeld in [artikel 2.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2b&artikel=2.8&z=2023-05-15&g=2023-05-15), en het moment van het indienen van de aanvraag:
 
 - •. zich geen aardbeving heeft voorgedaan in het Groningenveld of de gasopslag Norg die op het adres van het object heeft geleid tot een trillingssnelheid van 5 mm/s, te berekenen met de methode van Bommer met 1% overschrijdingskans; en
 
@@ -308,7 +308,7 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 ##### Artikel 3.1. Waardedaling van woningen
 
-1. Het bepaalde in de [artikelen 3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.1&z=2023-01-01&g=2023-01-01) is uitsluitend van toepassing op de behandeling van aanvragen tot vergoeding van schade die bestaat uit de waardedaling van een woning, welke waardedaling niet een gevolg is van fysieke schade aan de woning, bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2&z=2023-01-01&g=2023-01-01).
+1. Het bepaalde in de [artikelen 3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.1&z=2023-05-15&g=2023-05-15) is uitsluitend van toepassing op de behandeling van aanvragen tot vergoeding van schade die bestaat uit de waardedaling van een woning, welke waardedaling niet een gevolg is van fysieke schade aan de woning, bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2&z=2023-05-15&g=2023-05-15).
 
 2. Onder een woning wordt verstaan een onroerende zaak, met daarop een pand, die volgens de Landelijke Voorziening Basisregistraties Adressen en Gebouwen een woonfunctie heeft.
 
@@ -324,7 +324,7 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 2. In afwijking van het bepaalde in het eerste lid, hanteert het Instituut voor het bepalen van de omvang van de waardedaling de datum van notariële levering van de eigendom van een woning indien die levering heeft plaatsgevonden na 16 augustus 2012 maar voor de peildatum.
 
-3. Het Instituut kan beslissen om een actuelere peildatum vast te stellen dan de datum die is genoemd in het eerste lid, mits voor die peildatum ook een geactualiseerde versie van de methode, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.2&z=2023-01-01&g=2023-01-01), beschikbaar is gesteld aan het Instituut.
+3. Het Instituut kan beslissen om een actuelere peildatum vast te stellen dan de datum die is genoemd in het eerste lid, mits voor die peildatum ook een geactualiseerde versie van de methode, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.2&z=2023-05-15&g=2023-05-15), beschikbaar is gesteld aan het Instituut.
 
 4. Indien het Instituut beslist tot vaststelling van een nieuwe peildatum, dan publiceert hij die beslissing op zijn website.
 
@@ -356,7 +356,7 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 ##### Artikel 3.6. Waardedaling van een ‘niet-woning’
 
-1. Het bepaalde in de [artikelen 3.6 tot en met 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.6&z=2023-01-01&g=2023-01-01) is uitsluitend van toepassing op de behandeling van aanvragen tot vergoeding van schade die bestaat uit waardedaling van een ‘niet-woning’, welke waardedaling niet een gevolg is van fysieke schade aan de niet-woning, bedoeld in hoofdstuk 2.
+1. Het bepaalde in de [artikelen 3.6 tot en met 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.6&z=2023-05-15&g=2023-05-15) is uitsluitend van toepassing op de behandeling van aanvragen tot vergoeding van schade die bestaat uit waardedaling van een ‘niet-woning’, welke waardedaling niet een gevolg is van fysieke schade aan de niet-woning, bedoeld in hoofdstuk 2.
 
 2. Onder ‘waardedaling’ wordt verstaan een verminderde opbrengst bij verkoop van een ‘niet- woning’ door de beweging van de bodem als gevolg van de aanleg of exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag Norg.
 
@@ -372,11 +372,11 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 ##### Artikel 3.7. Advisering deskundigen
 
-1. Ingevolge [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-01-01&g=2023-01-01) van deze Werkwijze kan het Instituut een of meer deskundigen benoemen ter advisering over een aanvraag tot vergoeding van waardedaling van een niet-woning. Bij de advisering nemen de deskundigen de regels van het civielrechtelijke aansprakelijkheids- en schadevergoedingsrecht in acht. In afwijking van artikel 1.5, derde lid van deze Werkwijze stelt het Instituut de aanvrager in de gelegenheid om binnen een termijn van vier weken, mondeling of schriftelijk, een zienswijze te geven op de voorgenomen benoeming van de deskundige(n).
+1. Ingevolge [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-05-15&g=2023-05-15) van deze Werkwijze kan het Instituut een of meer deskundigen benoemen ter advisering over een aanvraag tot vergoeding van waardedaling van een niet-woning. Bij de advisering nemen de deskundigen de regels van het civielrechtelijke aansprakelijkheids- en schadevergoedingsrecht in acht. In afwijking van artikel 1.5, derde lid van deze Werkwijze stelt het Instituut de aanvrager in de gelegenheid om binnen een termijn van vier weken, mondeling of schriftelijk, een zienswijze te geven op de voorgenomen benoeming van de deskundige(n).
 
 2. Tenzij het Instituut de deskundige(n) een bijzondere adviesopdracht geeft, stellen de deskundigen in dit kader in ieder geval een onderzoek in naar:
 
-- a. de vraag of de schade, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.6&z=2023-01-01&g=2023-01-01), kan worden beschouwd als een gevolg van de beweging van de bodem als gevolg van de aanleg of exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag Norg.
+- a. de vraag of de schade, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.6&z=2023-05-15&g=2023-05-15), kan worden beschouwd als een gevolg van de beweging van de bodem als gevolg van de aanleg of exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag Norg.
 
 - b. het bedrag waarmee de schade, die als een gevolg van de oorzaak, bedoeld onder a, kan worden beschouwd, moet worden vergoed.
 
@@ -384,11 +384,11 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 3. De deskundigen brengen het advies uit aan het Instituut binnen een door het Instituut gestelde termijn. Indien de deskundigen binnen de gestelde termijn geen advies kunnen uitbrengen, deelt de deskundige dit, onder opgaaf van redenen, aan het Instituut mee voor het einde van de termijn en kan het Instituut de termijn met tenminste zes maanden verlengen. Het Instituut stelt de aanvrager daarvan in kennis.
 
-4. Indien voor het uitbrengen van een advies noodzakelijk is dat meerdere deskundigen worden benoemd, kan de deskundige of kunnen de deskundigen het Instituut daarom verzoeken. [Artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-01-01&g=2023-01-01) is van overeenkomstige toepassing.
+4. Indien voor het uitbrengen van een advies noodzakelijk is dat meerdere deskundigen worden benoemd, kan de deskundige of kunnen de deskundigen het Instituut daarom verzoeken. [Artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-05-15&g=2023-05-15) is van overeenkomstige toepassing.
 
 ##### Artikel 3.8. Zienswijze
 
-1. Na ontvangst van het advies, bedoeld in [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.7&z=2023-01-01&g=2023-01-01), stelt het Instituut de aanvrager in de gelegenheid om binnen een termijn van vier weken, mondeling of schriftelijk, een zienswijze te geven op het advies van de deskundigen.
+1. Na ontvangst van het advies, bedoeld in [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.7&z=2023-05-15&g=2023-05-15), stelt het Instituut de aanvrager in de gelegenheid om binnen een termijn van vier weken, mondeling of schriftelijk, een zienswijze te geven op het advies van de deskundigen.
 
 2. Het Instituut kan de termijn op verzoek van de aanvrager of ambtshalve verlengen.
 
@@ -404,23 +404,23 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 2. Van het verzoek om een nader advies of een tweede advies wordt schriftelijk mededeling gedaan aan de aanvrager.
 
-3. [Artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.8&z=2023-01-01&g=2023-01-01) is van overeenkomstige toepassing op het nadere advies, bedoeld in het eerste lid, onder a, indien daartoe naar het oordeel van het Instituut uit oogpunt van zorgvuldigheid aanleiding bestaat. Artikel 3.8 is in elk geval van toepassing op het tweede advies, bedoeld in het eerste lid, onder b.
+3. [Artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.8&z=2023-05-15&g=2023-05-15) is van overeenkomstige toepassing op het nadere advies, bedoeld in het eerste lid, onder a, indien daartoe naar het oordeel van het Instituut uit oogpunt van zorgvuldigheid aanleiding bestaat. Artikel 3.8 is in elk geval van toepassing op het tweede advies, bedoeld in het eerste lid, onder b.
 
 ##### Artikel 3.10. Dubbelfuncties
 
-1. Indien een pand naast een woonfunctie als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.1&z=2023-01-01&g=2023-01-01) ook een andere functie heeft, dan zal het Instituut het pand in zijn geheel als een woning beschouwen indien het pand zijn waarde in overwegende mate ontleent aan zijn woonfunctie. In dat geval wordt de waardedaling van het pand finaal vastgesteld aan de hand van de woonfunctie en bestaat voor het overige geen aanspraak op een vergoeding voor waardedaling.
+1. Indien een pand naast een woonfunctie als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.1&z=2023-05-15&g=2023-05-15) ook een andere functie heeft, dan zal het Instituut het pand in zijn geheel als een woning beschouwen indien het pand zijn waarde in overwegende mate ontleent aan zijn woonfunctie. In dat geval wordt de waardedaling van het pand finaal vastgesteld aan de hand van de woonfunctie en bestaat voor het overige geen aanspraak op een vergoeding voor waardedaling.
 
-2. Indien het pand niet in overwegende mate, maar slechts mede zijn waarde ontleent aan zijn woonfunctie, dan zal het Instituut voor de waarde van de woning uitgaan van de waarde die in het taxatieverslag bij de beschikking tot vaststelling van de WOZ-waarde is toegekend aan de onderdelen van de onroerende zaak die de woonfunctie mogelijk maken. Voor deze onderdelen kan de aanvrager de ontstane waardedaling vergoed krijgen op grond van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.1&z=2023-01-01&g=2023-01-01) en volgende.
+2. Indien het pand niet in overwegende mate, maar slechts mede zijn waarde ontleent aan zijn woonfunctie, dan zal het Instituut voor de waarde van de woning uitgaan van de waarde die in het taxatieverslag bij de beschikking tot vaststelling van de WOZ-waarde is toegekend aan de onderdelen van de onroerende zaak die de woonfunctie mogelijk maken. Voor deze onderdelen kan de aanvrager de ontstane waardedaling vergoed krijgen op grond van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.1&z=2023-05-15&g=2023-05-15) en volgende.
 
-3. Indien het pand zijn waarde niet mede ontleent aan zijn woonfunctie, dan kan de waardedaling van het pand niet worden begroot met de methode voor woningen. Een aanvraag op grond van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.1&z=2023-01-01&g=2023-01-01) en volgende zal dan worden afgewezen. In dat geval kan de aanvrager een verzoek doen tot vergoeding van waardedaling met inachtneming van het bepaalde in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.6&z=2023-01-01&g=2023-01-01) en volgende met betrekking tot de waardedaling van niet-woningen.
+3. Indien het pand zijn waarde niet mede ontleent aan zijn woonfunctie, dan kan de waardedaling van het pand niet worden begroot met de methode voor woningen. Een aanvraag op grond van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.1&z=2023-05-15&g=2023-05-15) en volgende zal dan worden afgewezen. In dat geval kan de aanvrager een verzoek doen tot vergoeding van waardedaling met inachtneming van het bepaalde in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.6&z=2023-05-15&g=2023-05-15) en volgende met betrekking tot de waardedaling van niet-woningen.
 
-4. Indien het Instituut op grond van het tweede lid een vergoeding heeft toegekend, dan kan de aanvrager daarnaast met inachtneming van het bepaalde in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.6&z=2023-01-01&g=2023-01-01) en volgende een verzoek doen tot vergoeding van de waardedaling van de niet-woning. Als een vergoeding wordt toegekend voor de waardedaling van de niet-woning kan daarop de reeds toegekende vergoeding voor de woonfunctie daarop in mindering worden gebracht, mits bij de begroting van de waardedaling van de niet-woning de woonfunctie in aanmerking is genomen.
+4. Indien het Instituut op grond van het tweede lid een vergoeding heeft toegekend, dan kan de aanvrager daarnaast met inachtneming van het bepaalde in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=3&artikel=3.6&z=2023-05-15&g=2023-05-15) en volgende een verzoek doen tot vergoeding van de waardedaling van de niet-woning. Als een vergoeding wordt toegekend voor de waardedaling van de niet-woning kan daarop de reeds toegekende vergoeding voor de woonfunctie daarop in mindering worden gebracht, mits bij de begroting van de waardedaling van de niet-woning de woonfunctie in aanmerking is genomen.
 
 ### Hoofdstuk 4. Immateriële schade
 
 ##### Artikel 4.1. Immateriële schade
 
-1. Het bepaalde in de [artikelen 4.1 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&artikel=4.1&z=2023-01-01&g=2023-01-01) is uitsluitend van toepassing op aanvragen tot vergoeding van immateriële schade als bedoeld in [artikel 6:106 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=106).
+1. Het bepaalde in de [artikelen 4.1 tot en met 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&artikel=4.1&z=2023-05-15&g=2023-05-15) is uitsluitend van toepassing op aanvragen tot vergoeding van immateriële schade als bedoeld in [artikel 6:106 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=106).
 
 2. Het Instituut behandelt een aanvraag tot vergoeding van immateriële schade in beginsel aan de hand van de gestandaardiseerde methode die is beschreven in de volgende artikelen van dit hoofdstuk.
 
@@ -466,7 +466,7 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 | Gebied | Aanwijzing persoonsaantasting | Aanwijzing persoonsaantasting |
 | --- | --- | --- |
-| Het effectgebied als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&artikel=4.2&z=2023-01-01&g=2023-01-01), niet zijnde een van de hierna bedoelde gebieden. | 0 | Geen aanwijzing |
+| Het effectgebied als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&artikel=4.2&z=2023-05-15&g=2023-05-15), niet zijnde een van de hierna bedoelde gebieden. | 0 | Geen aanwijzing |
 | Het gebied waarbinnen op grond van de adviezen van de Adviescommissie waardedaling woningen aardbevingsgebied Groningen in de periode vanaf 16 augustus 2012 tot 1 januari 2019 op enig moment tot 10% waardedaling is opgetreden. | 1 | Lichte aanwijzing |
 | Het gebied waar ingevolge de adviezen van de Adviescommissie waardedaling woningen aardbevingsgebied Groningen in de periode vanaf 16 augustus 2012 tot 1 januari 2019 op enig moment minimaal 10% waardedaling is opgetreden. | 2 | Aanwijzing |
 
@@ -524,7 +524,7 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 
 ##### Artikel 4.7. Weging en vaste bedragen
 
-1. Aan de hand van het cumulatieve gewicht van de individuele aanwijzingen voor een persoonsaantasting zoals bedoeld in de [artikelen 4.3 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&artikel=4.3&z=2023-01-01&g=2023-01-01), af te leiden uit het getal dat de intensiteit van de aanwijzing voor de persoonsaantasting aanduidt, acht het Instituut de volgende (mate van) persoonsaantasting aannemelijk:
+1. Aan de hand van het cumulatieve gewicht van de individuele aanwijzingen voor een persoonsaantasting zoals bedoeld in de [artikelen 4.3 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&artikel=4.3&z=2023-05-15&g=2023-05-15), af te leiden uit het getal dat de intensiteit van de aanwijzing voor de persoonsaantasting aanduidt, acht het Instituut de volgende (mate van) persoonsaantasting aannemelijk:
 
 | Cumulatieve gewicht aanwijzingen | Persoonsaantasting | Persoonsaantasting | Vergoeding |
 | --- | --- | --- | --- |
@@ -533,7 +533,7 @@ Het onderzoek vindt plaats overeenkomstig de Praktische Uitwerking van het Insti
 | 7 t/m 9 | C | Ernstige persoonsaantasting | € 3.000 |
 | 10 t/m 14 | D | Bijzonder ernstige persoonsaantasting | € 5.000 |
 
-2. Behoudens het bepaalde in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&artikel=4.8&z=2023-01-01&g=2023-01-01), kent het Instituut aan de aanvrager, afhankelijk van het bestaan en de mate van persoonsaantasting, de in het eerste lid opgenomen tabel genoemde schadevergoeding toe.
+2. Behoudens het bepaalde in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=4&artikel=4.8&z=2023-05-15&g=2023-05-15), kent het Instituut aan de aanvrager, afhankelijk van het bestaan en de mate van persoonsaantasting, de in het eerste lid opgenomen tabel genoemde schadevergoeding toe.
 
 ##### Artikel 4.8. Persoonlijke impact analyse
 
@@ -584,13 +584,13 @@ Profiel 4 = bijzonder ernstig ervaren leed
 
 ##### Artikel 5.2. Inspectie en beoordeling
 
-1. Het Instituut pleegt zo spoedig mogelijk nadat hem uit een melding als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=5&artikel=5.1&z=2023-01-01&g=2023-01-01), of anderszins is gebleken van de mogelijkheid van een acuut onveilige situatie, vooroverleg met de rechthebbende op het gebouw of werk en waar zinvol met de melder, indien hij niet de rechthebbende is.
+1. Het Instituut pleegt zo spoedig mogelijk nadat hem uit een melding als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=5&artikel=5.1&z=2023-05-15&g=2023-05-15), of anderszins is gebleken van de mogelijkheid van een acuut onveilige situatie, vooroverleg met de rechthebbende op het gebouw of werk en waar zinvol met de melder, indien hij niet de rechthebbende is.
 
 2. Tenzij uit het vooroverleg blijkt dat geen sprake is van een acuut onveilige situatie, zal het Instituut de situatie onmiddellijk, maar in elk geval binnen 48 uur na indiening van de melding, inspecteren.
 
 3. Het Instituut laat zich bij de beoordeling of sprake is van een acuut onveilige situatie adviseren door een onafhankelijke deskundige. De deskundige legt zijn bevindingen achteraf vast in een verslag dat door het Instituut aan de rechthebbende op het gebouw of werk ter beschikking zal worden gesteld. De deskundige zendt zijn verslag uiterlijk binnen 3 dagen na de inspectie aan het Instituut.
 
-4. Het Instituut kan de onafhankelijk deskundige, bedoeld in het derde lid, of een andere deskundige, ook vragen om te adviseren over de vraag of de gevaar opleverende schade in causaal verband staat met bodembeweging door mijnbouwactiviteiten uit het Groningenveld of de gasopslag Norg, met het oog op een voortvarende afhandeling van een aanvraag als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2&z=2023-01-01&g=2023-01-01) of met het oog op toepassing van [artikel 5.3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=5&artikel=5.3&z=2023-01-01&g=2023-01-01).
+4. Het Instituut kan de onafhankelijk deskundige, bedoeld in het derde lid, of een andere deskundige, ook vragen om te adviseren over de vraag of de gevaar opleverende schade in causaal verband staat met bodembeweging door mijnbouwactiviteiten uit het Groningenveld of de gasopslag Norg, met het oog op een voortvarende afhandeling van een aanvraag als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2&z=2023-05-15&g=2023-05-15) of met het oog op toepassing van [artikel 5.3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=5&artikel=5.3&z=2023-05-15&g=2023-05-15).
 
 ##### Artikel 5.3. Veiligheidsmaatregelen
 
@@ -604,13 +604,13 @@ Profiel 4 = bijzonder ernstig ervaren leed
 
 3. Het Instituut geeft alleen toepassing aan het tweede lid, indien de rechthebbende hiermee schriftelijk heeft ingestemd.
 
-4. Indien de rechthebbende niet instemt met het uitvoeren van de door het Instituut voorgestane maatregelen als bedoeld in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=5&artikel=5.3&z=2023-01-01&g=2023-01-01), zal het Instituut hem in elk geval schriftelijk informeren over de daarmee gemoeide risico’s.
+4. Indien de rechthebbende niet instemt met het uitvoeren van de door het Instituut voorgestane maatregelen als bedoeld in [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=5&artikel=5.3&z=2023-05-15&g=2023-05-15), zal het Instituut hem in elk geval schriftelijk informeren over de daarmee gemoeide risico’s.
 
 ##### Artikel 5.4. Afhandeling melding
 
 1. Indien er geen sprake is van een acuut onveilige situatie, deelt het Instituut dit de melder gemotiveerd mede.
 
-2. Het Instituut informeert de rechthebbende op het gebouw of werk waaraan een acuut onveilige situatie is ontstaan daarnaast schriftelijk over de mogelijkheid om een verzoek tot schadevergoeding te doen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2&z=2023-01-01&g=2023-01-01). Indien de melding terecht is, zal dit verzoek met prioriteit worden behandeld.
+2. Het Instituut informeert de rechthebbende op het gebouw of werk waaraan een acuut onveilige situatie is ontstaan daarnaast schriftelijk over de mogelijkheid om een verzoek tot schadevergoeding te doen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2&z=2023-05-15&g=2023-05-15). Indien de melding terecht is, zal dit verzoek met prioriteit worden behandeld.
 
 3. De betrokkenheid van het Instituut bij de acuut onveilige situatie eindigt vijftien maanden nadat de melding is gedaan dan wel, indien dit eerder is, drie maanden nadat beslist is op de aanvraag tot schadevergoeding.
 
@@ -620,7 +620,7 @@ Profiel 4 = bijzonder ernstig ervaren leed
 
 ##### Artikel 5.5. Informatie-uitwisseling
 
-1. Het Instituut informeert de burgemeester van de betrokken gemeente uiterlijk binnen 48 uur nadat is vastgesteld dat sprake is van een acuut onveilige situatie. Het Instituut zendt daarnaast ook een verslag van de onafhankelijke deskundige als bedoeld in [artikel 5.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=5&artikel=5.2&z=2023-01-01&g=2023-01-01), aan de burgemeester nadat dit is opgeleverd.
+1. Het Instituut informeert de burgemeester van de betrokken gemeente uiterlijk binnen 48 uur nadat is vastgesteld dat sprake is van een acuut onveilige situatie. Het Instituut zendt daarnaast ook een verslag van de onafhankelijke deskundige als bedoeld in [artikel 5.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=5&artikel=5.2&z=2023-05-15&g=2023-05-15), aan de burgemeester nadat dit is opgeleverd.
 
 2. Het Instituut zal de burgemeester zo spoedig mogelijk informeren over de getroffen veiligheidsmaatregelen of over het feit dat de rechthebbende niet instemt met het uitvoeren van de door het Instituut voorgestane veiligheidsmaatregelen.
 
@@ -658,7 +658,7 @@ Profiel 4 = bijzonder ernstig ervaren leed
 
 ##### Artikel 6.4. Inschakeling deskundige in bezwaar
 
-1. Het Instituut en de bezwaaradviescommissie kunnen in het kader van de behandeling van het bezwaar één of meerdere deskundigen inschakelen. [Artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-01-01&g=2023-01-01) is van overeenkomstige toepassing.
+1. Het Instituut en de bezwaaradviescommissie kunnen in het kader van de behandeling van het bezwaar één of meerdere deskundigen inschakelen, onverminderd [artikel 2.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.5a&z=2023-05-15&g=2023-05-15). [Artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=1&artikel=1.5&z=2023-05-15&g=2023-05-15) is van overeenkomstige toepassing.
 
 2. Het Instituut stelt deskundigen ter beschikking aan de bezwaaradviescommissie.
 
@@ -682,13 +682,31 @@ Deze werkwijze wordt met de toelichting in de Staatscourant geplaatst.
 
 ##### Artikel 2.7a
 
-1. De bedragen, bedoeld in [artikel 2.6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.6&z=2023-01-01&g=2023-01-01), kunnen jaarlijks geïndexeerd worden aan de hand van de stijging van het minimumloon voor werknemers van 21 jaar en ouder, uitgaande van een werkweek van 36 uur, waarbij de hoogte wordt vastgesteld aan de hand van tweemaal het wettelijk bruto minimumloon.
+1. De bedragen, bedoeld in [artikel 2.6, tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.6&z=2023-05-15&g=2023-05-15), kunnen jaarlijks geïndexeerd worden aan de hand van de stijging van het minimumloon voor werknemers van 21 jaar en ouder, uitgaande van een werkweek van 36 uur, waarbij de hoogte wordt vastgesteld aan de hand van tweemaal het wettelijk bruto minimumloon.
 
-2. Het bedrag, bedoeld in [artikel 2.6, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.6&z=2023-01-01&g=2023-01-01), kan jaarlijks worden geïndexeerd overeenkomstig de wijze waarop de vergoeding, bedoeld in [artikel 6 van het Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=6) wordt geïndexeerd.
+2. Het bedrag, bedoeld in [artikel 2.6, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.6&z=2023-05-15&g=2023-05-15), kan jaarlijks worden geïndexeerd overeenkomstig de wijze waarop de vergoeding, bedoeld in [artikel 6 van het Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=6) wordt geïndexeerd.
 
 3. De indexatie vindt plaats op 1 januari van het betreffende kalenderjaar. Het Instituut publiceert de geïndexeerde vergoedingen op zijn website en kan daarbij de bedragen naar boven afronden.
 
-4. Indien gedurende het kalenderjaar de vergoeding, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=6), of [artikel 11, eerste lid, onderdeel d, van het Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=11) wordt gewijzigd, gaat die wijziging voor de toepassing van [artikel 2.6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.6&z=2023-01-01&g=2023-01-01), in op 1 januari van het komende kalenderjaar.
+4. Indien gedurende het kalenderjaar de vergoeding, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=6), of [artikel 11, eerste lid, onderdeel d, van het Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&artikel=11) wordt gewijzigd, gaat die wijziging voor de toepassing van [artikel 2.6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046981&hoofdstuk=2a&artikel=2.6&z=2023-05-15&g=2023-05-15), in op 1 januari van het komende kalenderjaar.
+
+### Hoofdstuk 2b. Vaste vergoeding
+
+### Hoofdstuk 3. Schade bestaande uit waardedaling
+
+### Hoofdstuk 4. Immateriële schade
+
+### Hoofdstuk 5. Acuut onveilige situatie
+
+### Hoofdstuk 6. Bezwaar
+
+### Hoofdstuk 7. Slot
+
+Deze werkwijze wordt met de toelichting in de Staatscourant geplaatst.
+
+##### Artikel 2.5a. Beperking nadere advisering inzake weerlegging bewijsvermoeden
+
+Als in de nadere advisering van de deskundigen ten aanzien van een bepaalde schade in de procedure van aanvraag tot en met hoger beroep meer dan één keer een andere uitsluitende oorzaak van die schade dan beweging van de bodem als gevolg van de aanleg of exploitatie van een mijnbouwwerk als bedoeld in [artikel 6:177a BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=177a) wordt aangewezen die afwijkt van de andere uitsluitende oorzaak die eerder is aangewezen ten aanzien van die schade, dan is, behoudens in geval van nieuwe wetenschappelijke inzichten, het bewijsvermoeden als bedoeld in artikel 6:177a BW niet weerlegd en gaat het Instituut over tot vergoeding van die schade.
 
 ### Hoofdstuk 2b. Vaste vergoeding
 
