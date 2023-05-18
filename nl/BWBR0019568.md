@@ -4,7 +4,7 @@ identifier: "BWBR0019568"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-18"
-last_updated: "2016-01-01"
+last_updated: "2023-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019568"
 soort: "ministeriele-regeling"
@@ -320,11 +320,9 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt bij het vaststellen van d
 
 Een kandidaat is geslaagd voor het basisexamen wanneer hij voor alle drie examenonderdelen een voldoende heeft behaald. Indien voor een of meer van de examenonderdelen een onvoldoende is behaald, dan kan de kandidaat het betreffende examenonderdeel of de betreffende onderdelen opnieuw afleggen. Dit is alleen van toepassing op kandidaten die op of na 1 november 2014 examen doen.
 
-Met het examenonderdeel leesvaardigheid wordt gemeten in hoeverre kandidaten het Latijnse schrift beheersen en geschreven Nederlands kunnen lezen en begrijpen. De items worden geselecteerd uit een grote itembank, zodanig dat elke kandidaat een verschillende combinatie van opgaven krijgt voorgelegd. Het examenonderdeel Leesvaardigheid bestaat uit twee delen:
+Met het examenonderdeel leesvaardigheid wordt gemeten in hoeverre kandidaten het Latijnse schrift beheersen en geschreven Nederlands kunnen lezen en begrijpen. De items worden geselecteerd uit een grote itembank, zodanig dat elke kandidaat een verschillende combinatie van opgaven krijgt voorgelegd. Het examenonderdeel Leesvaardigheid bestaat uit de toetsing van functionele leesvaardigheid.
 
-- A. Technische leesvaardigheid Dit onderdeel wordt op twee manieren getoetst. In de ene vorm hoort de kandidaat een woord, getal of zin en moet hij kiezen uit drie of vier geschreven antwoordmogelijkheden. In de andere vorm ziet/leest de kandidaat een woord en moet hij kiezen uit drie of vier gesproken antwoordmogelijkheden. De kandidaat moet het juiste antwoord met de muis selecteren.
-
-- B. Functionele leesvaardigheid Bij dit onderdeel krijgt de kandidaat op het scherm zes leesteksten te zien, gekoppeld aan de domeinen werk, opleiding en dagelijks leven uit het Raamwerk NT2. Per leestekst krijgt de kandidaat telkens twee meerkeuzevragen met drie of vier antwoordmogelijkheden. De kandidaat moet het juiste antwoord met de muis selecteren.
+De kandidaat krijgt op het scherm zes leesteksten te zien, gekoppeld aan de domeinen werk, opleiding en dagelijks leven uit het Raamwerk NT2. Per leestekst krijgt de kandidaat telkens twee of drie meerkeuzevragen met drie of vier antwoordmogelijkheden. De kandidaat moet het juiste antwoord met de muis selecteren.
 
 De kandidaat krijgt 35 minuten de tijd om het examen te maken.
 
