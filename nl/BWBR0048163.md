@@ -4,7 +4,7 @@ identifier: "BWBR0048163"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-18"
-last_updated: "2022-08-26"
+last_updated: "2023-05-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048163"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ de directeur Oekraïense Ontheemden (tevens plv. PDG Oekraïense Ontheemden)
 
 ##### Artikel 2
 
-Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun directie of afdeling ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&bijlage=1&z=2023-05-18&g=2022-08-26) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hun directie of afdeling ressorterende ambtenaren, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&bijlage=1&z=2023-05-18&g=2023-05-18) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&bijlage=2&z=2023-05-18&g=2022-08-26) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&bijlage=2&z=2023-05-18&g=2023-05-18) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -76,9 +76,9 @@ Dit besluit wordt aangehaald als: Mandaatbesluit pDGOEK Ministerie van Justitie 
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&artikel=2&z=2023-05-18&g=2022-08-26) van het Mandaatbesluit pDGOEK Ministerie van Justitie en Veiligheid 2022
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&artikel=2&z=2023-05-18&g=2023-05-18) van het Mandaatbesluit pDGOEK Ministerie van Justitie en Veiligheid 2022
 
-De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&artikel=4&z=2023-05-18&g=2022-08-26) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&artikel=5&z=2023-05-18&g=2022-08-26) van dit mandaatbesluit. De functionarissen bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd artikel 4 van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en beëindigen van een arbeidsovereenkomst) alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&artikel=4&z=2023-05-18&g=2023-05-18) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&artikel=5&z=2023-05-18&g=2023-05-18) van dit mandaatbesluit. De functionarissen bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd artikel 4 van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en beëindigen van een arbeidsovereenkomst) alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
 
 |   | kolom 1 | kolom 2 |
 | --- | --- | --- |
@@ -90,7 +90,7 @@ De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminde
 | 1.4 | afdelingshoofd Opdrachtgeverschap, Financiering en Informatievoorziening | B |
 | 1.5 | afdelingshoofd Externe betrekkingen | B |
 
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&artikel=3&z=2023-05-18&g=2022-08-26) van het Mandaatbesluit pDGOEK Ministerie van Justitie en Veiligheid 2022
+## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048163&artikel=3&z=2023-05-18&g=2023-05-18) van het Mandaatbesluit pDGOEK Ministerie van Justitie en Veiligheid 2022
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3), tot het aangaan van verplichtingen en het doen van uitgaven.
 
