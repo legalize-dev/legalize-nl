@@ -4,7 +4,7 @@ identifier: "BWBR0045176"
 country: "nl"
 rank: "wet"
 publication_date: "2023-06-20"
-last_updated: "2021-06-01"
+last_updated: "2023-05-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045176"
 soort: "wet"
@@ -49,11 +49,7 @@ Wijzigt de Wet publieke gezondheid.
 
 ##### Artikel II
 
-In afwijking van [artikel 454, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=454) en [artikel 454, derde lid, van Boek 7 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&artikel=454):
-
-- a. bewaart een hulpverlener een dossier dat uitsluitend betrekking heeft op een testuitslag waaruit blijkt of een persoon op het moment van afname van de test was geïnfecteerd met het virus SARS-CoV-2 gedurende een bij ministeriële regeling van Onze Minister van Volksgezondheid, Welzijn en Sport te bepalen termijn van ten hoogste een jaar indien de persoon op het moment van afname van de test was geïnfecteerd en een termijn van ten hoogste vier weken indien de persoon op het moment van afname van de test niet was geïnfecteerd, gerekend vanaf het moment dat de test is afgenomen;
-
-- b. vernietigt een hulpverlener een dossier dat uitsluitend betrekking heeft op een testuitslag als bedoeld in onderdeel a, indien de termijn, bedoeld in onderdeel a, is verstreken op het moment van inwerkingtreding van dit artikel.
+Vervallen
 
 ##### Artikel III
 
