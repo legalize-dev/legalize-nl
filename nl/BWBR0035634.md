@@ -4,7 +4,7 @@ identifier: "BWBR0035634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-21"
-last_updated: "2020-04-29"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035634"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1:2
 
-Deze regeling is niet van toepassing op producentenorganisaties of unies van producentenorganisaties in de sector groenten en fruit.
+Deze regeling is, met uitzondering van [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=5&z=2023-05-23&g=2023-05-23), niet van toepassing op producentenorganisaties of unies van producentenorganisaties in de sector groenten en fruit.
 
 ##### Artikel 1:3
 
@@ -254,7 +254,7 @@ Een erkende organisatie leeft, voor zover van toepassing, de voorschriften na al
 
 ##### Artikel 6:3
 
-In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2020-04-29&g=2020-04-29) kan de minister:
+In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2023-05-23&g=2023-05-23) kan de minister:
 
 - a. de erkenning intrekken;
 
@@ -264,7 +264,7 @@ In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](http
 
 ##### Artikel 6:4
 
-Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2020-04-29&g=2020-04-29), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
+Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2023-05-23&g=2023-05-23), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
 
 ##### Artikel 6:5
 
@@ -281,5 +281,23 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 6:8
 
 Deze regeling wordt aangehaald als: Regeling producenten- en brancheorganisaties.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 5:8
+
+1. Een producentenorganisatie of unie van producentenorganisaties in de sector groenten en fruit leeft de voorschriften, bedoeld in de artikelen 164, eerste, derde en vierde lid, en 165 van [verordening 1308/2013](32013R1308), na.
+
+2. In geval van niet-naleving van een voorschrift kan de Minister:
+
+- a. de op grond van artikel 164, eerste lid, van [verordening 1308/2013](32013R1308) vastgestelde verbindendverklaring van een voorschrift intrekken;
+
+- b. de op grond van artikel 165 van [verordening 1308/2013](32013R1308), vastgestelde verplichting tot het afdragen van een financiële bijdrage intrekken.
+
+##### Artikel 5:9
+
+Een verzoek van een producentenorganisatie of unie van producentenorganisaties in de sector groenten en fruit als bedoeld in de artikelen 164, eerste lid of 165 van [verordening 1308/2013](32013R1308), of een zienswijze als bedoeld in artikel 165, van [verordening 1308/2013](32013R1308), wordt ingediend met gebruikmaking van een door de Minister beschikbaar gesteld middel.
+
+#### § 6. Overige bepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
