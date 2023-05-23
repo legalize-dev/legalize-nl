@@ -4,7 +4,7 @@ identifier: "BWBR0047485"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-04"
-last_updated: "2022-11-18"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047485"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Voorschriften aanvraag
 
-1. De aanvraag, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8), kan vanaf 15 november 2022 tot en met 15 december 2022 worden ingediend.
+1. De aanvraag, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8), kan vanaf 22 mei 2023 tot en met 31 juli 2023 worden ingediend.
 
 2. Bij de aanvraag, bedoeld in [artikel 8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8) worden in elk geval de volgende formulieren, die beschikbaar worden gesteld op de website van de Dienst Uitvoering Onderwijs, ingediend:
 
@@ -62,9 +62,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Beslissing op aanvraag
 
-1. De Minister beslist uiterlijk op 31 januari 2023 op een aanvraag als bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8).
+1. De Minister beslist uiterlijk op 15 september 2023 op een aanvraag als bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=8).
 
-2. Aanvragen die na 15 december 2022 worden ingediend, worden niet in behandeling genomen.
+2. Aanvragen die na 31 juli 2023 worden ingediend, worden niet in behandeling genomen.
 
 ##### Artikel 4. Wijziging [Regeling register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0043632)
 
