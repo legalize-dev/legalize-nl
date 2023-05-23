@@ -4,7 +4,7 @@ identifier: "BWBR0047844"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-02"
-last_updated: "2023-03-01"
+last_updated: "2023-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047844"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 - **gemengde vereniging:** vereniging van eigenaars, woonvereniging of wooncoöperatie ten behoeve van gebouwen waarin zich ten minste één woning van een eigenaar-bewoner bevindt;
 
-- **isolatieprogramma:** isolatieprogramma als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-03-01&g=2023-03-01);
+- **isolatieprogramma:** isolatieprogramma als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-05-23&g=2023-05-23);
 
 - **minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
@@ -94,7 +94,7 @@ Besluit:
 
 ##### Artikel 2. Doel en activiteiten van de specifieke uitkering
 
-1. De minister kan op aanvraag van een college een specifieke uitkering verstrekken aan de gemeente voor het uitvoeren van een isolatieprogramma dat gericht is op het nemen van energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, in slecht geïsoleerde woningen van eigenaar-bewoners en slecht geïsoleerde woningen van leden van een gemengde vereniging, met een focus op woningen met een WOZ-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-03-01&g=2023-03-01).
+1. De minister kan op aanvraag van een college een specifieke uitkering verstrekken aan de gemeente voor het uitvoeren van een isolatieprogramma dat gericht is op het nemen van energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, in slecht geïsoleerde woningen van eigenaar-bewoners en slecht geïsoleerde woningen van leden van een gemengde vereniging, met een focus op woningen met een WOZ-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-05-23&g=2023-05-23).
 
 2. Het college besteedt de specifieke uitkering aan het uitvoeren of laten uitvoeren of het subsidiëren van het uitvoeren of het laten uitvoeren van een of meer energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, waarbij onder energiebesparende isolatiemaatregelen wordt verstaan:
 
@@ -122,25 +122,21 @@ Besluit:
 
 ##### Artikel 3. Hoogte van de specifieke uitkering
 
-Een college kan gedurende de in [artikel 4, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2023-03-01&g=2023-03-01), bedoelde aanvraagtijdvakken een aanvraag doen voor een specifieke uitkering van ten hoogste het bedrag van de som van het voor die gemeente in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2023-03-01&g=2023-03-01) in de kolommen voor kalenderjaren 2023 en 2024 opgenomen bedragen, welk totaalbedrag in de laatste kolom in bijlage I is opgenomen.
+Een college kan gedurende het aanvraagtijdvak, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2023-05-23&g=2023-05-23), een aanvraag doen voor een specifieke uitkering van ten hoogste het voor die gemeente in de voorlaatste kolom in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2023-05-23&g=2023-05-23) opgenomen totaalbedrag dat aangevraagd kan worden.
 
 ##### Artikel 4. De aanvraag
 
-1. Een aanvraag voor een specifieke uitkering kan worden ingediend met ingang van:
-
-- a. 1 maart 2023 vanaf 9:00 uur tot en met 31 mei 2023 tot 17:00 uur; en
-
-- b. 1 september 2023 vanaf 9:00 uur tot en met 31 oktober 2023 tot 17:00 uur.
+1. Een aanvraag voor een specifieke uitkering kan worden ingediend met ingang van 1 maart 2023 vanaf 9:00 uur tot en met 31 oktober 2023 tot 17:00 uur.
 
 2. Een aanvraag bevat een omschrijving van het isolatieprogramma, waaronder in ieder geval wordt verstaan:
 
-- a. een omschrijving van de activiteiten, als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-03-01&g=2023-03-01);
+- a. een omschrijving van de activiteiten, als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-05-23&g=2023-05-23);
 
-- b. een opgave van het aantal slecht geïsoleerde woningen waarvoor de gemeente het bedrag van de specifieke uitkering aanvraagt en ten aanzien waarvan zij energiebesparende isolatiemaatregelen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-03-01&g=2023-03-01), wil bewerkstelligen;
+- b. een opgave van het aantal slecht geïsoleerde woningen waarvoor de gemeente het bedrag van de specifieke uitkering aanvraagt en ten aanzien waarvan zij energiebesparende isolatiemaatregelen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-05-23&g=2023-05-23), wil bewerkstelligen;
 
 - c. de hoogte van het bedrag van de gevraagde specifieke uitkering, welk bedrag bestaat uit het aantal slecht geïsoleerde woningen als bedoeld in onderdeel b, vermenigvuldigd met € 1.460;
 
-- d. een omschrijving van de wijze waarop de gemeente voornemens is om voldoende woningen met een WOZ-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-03-01&g=2023-03-01), in het isolatieprogramma te betrekken; en
+- d. een omschrijving van de wijze waarop de gemeente voornemens is om voldoende woningen met een WOZ-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-05-23&g=2023-05-23), in het isolatieprogramma te betrekken; en
 
 - e. een opgave van het bedrag dat de gemeente op grond van een eigen inschatting aan BTW verschuldigd is over de kosten voor de uitvoering van het isolatieprogramma.
 
@@ -150,9 +146,9 @@ Een college kan gedurende de in [artikel 4, eerste lid, onderdelen a en b](https
 
 ##### Artikel 5. Wijze van betaling en uitkeringsbeschikking
 
-1. Indien de door het college aangevraagde specifieke uitkering ten hoogste het voor die gemeente in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2023-03-01&g=2023-03-01) in de kolom voor het kalenderjaar 2023 opgenomen bedrag betreft, wordt de specifieke uitkering in één keer uitbetaald.
+1. Indien de door het college aangevraagde specifieke uitkering ten hoogste het voor die gemeente in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2023-05-23&g=2023-05-23) in de kolom voor het kalenderjaar 2023 opgenomen bedrag betreft, wordt de specifieke uitkering in één keer uitbetaald.
 
-2. Indien de door het college aangevraagde specifieke uitkering een hoger bedrag betreft dan het bedrag, bedoeld in het eerste lid, doch ten hoogste de som van het voor die gemeente in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2023-03-01&g=2023-03-01) in de kolommen voor kalenderjaren 2023 en 2024 opgenomen bedragen, dan wordt de specifieke uitkering in twee keer uitbetaald, met dien verstande dat het voor die gemeente in bijlage I in de kolom voor het kalenderjaar 2023 opgenomen bedrag in 2023 wordt uitbetaald, en het restant in 2024 wordt uitbetaald.
+2. Indien de door het college aangevraagde specifieke uitkering een hoger bedrag betreft dan het bedrag, bedoeld in het eerste lid, doch ten hoogste de som van het voor die gemeente in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2023-05-23&g=2023-05-23) in de kolommen voor kalenderjaren 2023 en 2024 opgenomen bedragen, dan wordt de specifieke uitkering in twee keer uitbetaald, met dien verstande dat het voor die gemeente in bijlage I in de kolom voor het kalenderjaar 2023 opgenomen bedrag in 2023 wordt uitbetaald, en het restant in 2024 wordt uitbetaald.
 
 3. De uitkeringsbeschikking vermeldt in elk geval:
 
@@ -168,15 +164,15 @@ Een college kan gedurende de in [artikel 4, eerste lid, onderdelen a en b](https
 
 1. De gemeente die een specifieke uitkering ontvangt is verplicht om:
 
-- a. energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-03-01&g=2023-03-01), te bewerkstelligen in het aantal slecht geïsoleerde woningen dat de gemeente in de aanvraag heeft opgegeven op grond van [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2023-03-01&g=2023-03-01);
+- a. energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-05-23&g=2023-05-23), te bewerkstelligen in het aantal slecht geïsoleerde woningen dat de gemeente in de aanvraag heeft opgegeven op grond van [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=4&z=2023-05-23&g=2023-05-23);
 
-- b. ervoor zorg te dragen dat ten minste 80% van de slecht geïsoleerde woningen waarbij de gemeente energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-03-01&g=2023-03-01), bewerkstelligt, een WOZ-waarde heeft die:
+- b. ervoor zorg te dragen dat ten minste 80% van de slecht geïsoleerde woningen waarbij de gemeente energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-05-23&g=2023-05-23), bewerkstelligt, een WOZ-waarde heeft die:
 
-- 1º. lager is dan de gemiddelde WOZ-waarde van alle koopwoningen in de betreffende gemeente, uitgaande van de waarde die is opgenomen in de laatste kolom van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2023-03-01&g=2023-03-01); of
+- 1º. lager is dan de gemiddelde WOZ-waarde van alle koopwoningen in de betreffende gemeente, uitgaande van de waarde die is opgenomen in de laatste kolom van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&bijlage=I&z=2023-05-23&g=2023-05-23); of
 
 - 2º. lager is dan € 429.300;
 
-- c. ten hoogste € 4.000 per woning te besteden aan energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-03-01&g=2023-03-01), tenzij: in welk geval er geen maximumbedrag geldt dat ten behoeve van die woning kan worden besteed; en
+- c. ten hoogste € 4.000 per woning te besteden aan energiebesparende isolatiemaatregelen, eventueel in samenhang met energiezuinige ventilatiemaatregelen, als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-05-23&g=2023-05-23), tenzij: in welk geval er geen maximumbedrag geldt dat ten behoeve van die woning kan worden besteed; en
 
 - 1º. aan een van de eigenaar-bewoners van de woning schuldhulpverlening wordt gegeven als bedoeld in [artikel 3, eerste lid, onderdeel a, van de Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3);
 
@@ -190,7 +186,7 @@ Een college kan gedurende de in [artikel 4, eerste lid, onderdelen a en b](https
 
 ##### Artikel 7. Afwijzingsgronden
 
-De minister wijst een aanvraag voor een specifieke uitkering gedeeltelijk af, voor zover het aangevraagde bedrag het bedrag overstijgt dat het college op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2023-03-01&g=2023-03-01) ten hoogste kan aanvragen.
+De minister wijst een aanvraag voor een specifieke uitkering gedeeltelijk af, voor zover het aangevraagde bedrag het bedrag overstijgt dat het college op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2023-05-23&g=2023-05-23) ten hoogste kan aanvragen.
 
 ##### Artikel 8. Informatievoorziening na uitkering
 
@@ -198,21 +194,21 @@ Het college van een gemeente die een specifieke uitkering ontvangt informeert de
 
 ##### Artikel 9. Verantwoording, terugvordering en vaststelling
 
-1. Het college legt verantwoording af over de besteding van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-03-01&g=2023-03-01), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Het college legt verantwoording af over de besteding van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-05-23&g=2023-05-23), op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-03-01&g=2023-03-01), niet, niet volledig of onrechtmatig is besteed, dat niet is voldaan aan de verplichtingen gesteld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-03-01&g=2023-03-01), of niet is voldaan aan de verantwoordingsplicht, bedoeld in het eerste lid, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in het eerste lid, mededeling van de terugvordering aan het college.
+2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=2&z=2023-05-23&g=2023-05-23), niet, niet volledig of onrechtmatig is besteed, dat niet is voldaan aan de verplichtingen gesteld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-05-23&g=2023-05-23), of niet is voldaan aan de verantwoordingsplicht, bedoeld in het eerste lid, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in het eerste lid, mededeling van de terugvordering aan het college.
 
-3. Indien niet voldaan is aan de informatieverplichting, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=8&z=2023-03-01&g=2023-03-01), kan de minister de specifieke uitkering geheel of gedeeltelijk terugvorderen.
+3. Indien niet voldaan is aan de informatieverplichting, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=8&z=2023-05-23&g=2023-05-23), kan de minister de specifieke uitkering geheel of gedeeltelijk terugvorderen.
 
 4. De minister stelt de specifieke uitkering uiterlijk vast op 31 december van het jaar waarin het college, op de in het eerste lid bedoelde wijze, de eindverantwoording aan de minister heeft verstrekt.
 
-5. Indien de uiterlijke datum voor het afronden van de activiteiten, bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-03-01&g=2023-03-01), of de op grond van artikel 6, tweede lid, verlengde termijn, is verstreken en het college geen eindverantwoording heeft verstrekt, stelt de minister de specifieke uitkering vast aan de hand van de eerstvolgende verantwoordingsinformatie.
+5. Indien de uiterlijke datum voor het afronden van de activiteiten, bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-05-23&g=2023-05-23), of de op grond van artikel 6, tweede lid, verlengde termijn, is verstreken en het college geen eindverantwoording heeft verstrekt, stelt de minister de specifieke uitkering vast aan de hand van de eerstvolgende verantwoordingsinformatie.
 
 ##### Artikel 10. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking op 1 maart 2023 en vervalt met ingang van 1 januari 2029, met dien verstande dat deze regeling van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
 
-## Bijlage I. Met de bedragen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2023-03-01&g=2023-03-01) en gemiddelde woz-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b, subonderdeel 1º](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-03-01&g=2023-03-01)
+## Bijlage I. Met de bedragen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=3&z=2023-05-23&g=2023-05-23) en gemiddelde woz-waarde als bedoeld in [artikel 6, eerste lid, onderdeel b, subonderdeel 1º](https://wetten.overheid.nl/jci1.3:c:BWBR0047844&artikel=6&z=2023-05-23&g=2023-05-23)
 
 | Naam gemeente | Bedrag dat maximaal wordt uitgekeerd in 2023 | Bedrag dat maximaal wordt uitgekeerd in 2024 | Totaal aantal woningen dat aangevraagd kan worden | Totaalbedrag dat aangevraagd kan worden | Gemiddelde WOZ-waarde koopwoningen 2022 (x € 1.000) |
 | --- | --- | --- | --- | --- | --- |
