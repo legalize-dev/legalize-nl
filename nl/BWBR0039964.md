@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2022-05-01"
+last_updated: "2023-05-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ In deze regeling en de daarop rustende bepalingen wordt verstaan onder:
 
 - c. de afdeling COM;
 
-- d. de afdeling HH, waarbinnen het team Juridisch Advies Primair Advies is ingericht;
+- d. de afdeling HH, waarbinnen teams zijn ingericht;
 
 - e. de afdeling PCF, waarbinnen de volgende teams zijn ingericht:
 
@@ -132,7 +132,7 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - c. het doen van voorstellen aan de directeur met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g, i en s, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
 - e. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie;
 
