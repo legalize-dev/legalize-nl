@@ -4,7 +4,7 @@ identifier: "BWBR0046803"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-11"
-last_updated: "2022-06-25"
+last_updated: "2023-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046803"
 soort: "ministeriele-regeling"
@@ -116,7 +116,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het doen van voorstellen aan de directeur met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0046803&paragraaf=3&artikel=6&z=2022-06-25&g=2022-06-25), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g, i en s, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
 - e. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie;
 
@@ -178,13 +178,13 @@ De teammanagers zijn verantwoordelijk voor de volgende taken:
 
 De functioneel leidinggevenden zijn verantwoordelijk voor de volgende taken:
 
-- a. de operationele aansturing van het programmatische/actieve en r responsieve/reactieve toezicht dat uitgevoerd wordt door een regionaal team;
+- a. de operationele aansturing van het programmatische/actieve en responsieve/reactieve toezicht dat uitgevoerd wordt door een regionaal team;
 
 - b. het zorg dragen voor de borging van uniformiteit en kwaliteit van specifieke werkprocessen en het leveren van input voor richtlijnen en procedures;
 
 - c. het verzamelen van input op hoofdprocessen, waaronder in ieder geval begrepen inspecteren en signaleren;
 
-- d. het functioneel aansturen van de medewerkers die onderdeel zijn van het team en het vorm vormgeven aan de P-zorg voor zover passend binnen de uitvoering van het werk of project;
+- d. het functioneel aansturen van de medewerkers die onderdeel zijn van het team en het vormgeven aan de P-zorg voor zover passend binnen de uitvoering van het werk of project;
 
 - e. het zorg dragen voor een passende operationele planning voor het team waaraan functioneel leiding wordt gegeven en het aansturen op een adequate productiviteit;
 
@@ -298,11 +298,17 @@ De afdeling M&V AMF is verantwoordelijk voor:
 
 - a. het functioneel aansturen van het toezicht op de naleving door werkgevers van wet- en regelgeving op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen, de arbeidstijden en de betaling van het minimumloon en de minimumvakantiebijslag, alsmede het in verband daarmee opsporen van strafbare feiten;
 
-- b. het zorgdragen voor de tactische en operationele planning van het werk dat door teams wordt uitgevoerd, de realisatie van deze planning conform de afgesproken kaders en de ontwikkeling van de samenwerking met regionale partners.
+- b. het functioneel aansturen van het toezicht op de naleving door werkgevers van het nemen van maatregelen ter voorkoming of beperking van psychosociale arbeidsbelasting als bedoeld in [artikel 2.15 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.15), alsmede het in verband daarmee opsporen van strafbare feiten;
+
+- c. het zorgdragen voor de tactische en operationele planning van het werk dat door teams wordt uitgevoerd, de realisatie van deze planning conform de afgesproken kaders en de ontwikkeling van de samenwerking met regionale partners.
 
 ##### Artikel 11. Verantwoordelijkheden vakgroep AMF
 
-De vakgroep AMF draagt zorg voor het voorzien in vakbekwame medewerkers voor de uitvoering van het toezicht op de naleving door werkgevers van wet- en regelgeving op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen, de arbeidstijden en de betaling van het minimumloon en de minimumvakantiebijslag, alsmede het in verband daarmee opsporen van strafbare feiten.
+De vakgroep AMF draagt zorg voor het voorzien in vakbekwame medewerkers voor de uitvoering van de volgende taken:
+
+- a. het toezicht op de naleving door werkgevers van wet- en regelgeving op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen, de arbeidstijden en de betaling van het minimumloon en de minimumvakantiebijslag, alsmede het in verband daarmee opsporen van strafbare feiten;
+
+- b. het toezicht op de naleving door werkgevers van het nemen van maatregelen ter voorkoming of beperking van psychosociale arbeidsbelasting als bedoeld in [artikel 2.15 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.15), alsmede het in verband daarmee opsporen van strafbare feiten.
 
 #### § 4. Bevoegdheden
 
