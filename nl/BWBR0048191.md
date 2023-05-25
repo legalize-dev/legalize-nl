@@ -989,7 +989,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 5. Slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.
