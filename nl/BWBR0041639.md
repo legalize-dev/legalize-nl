@@ -4,7 +4,7 @@ identifier: "BWBR0041639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-25"
-last_updated: "2022-11-12"
+last_updated: "2023-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041639"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de plaatsvervangend secretaris-generaal ten aanzien van de aangelegenheden die de eigenaarsrol betreffen zoals bedoeld in de Regeling agentschappen en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen genoemd in [artikel 2, derde lid van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), de Inspectie Justitie en Veiligheid, het secretariaat van het Schadefonds Geweldsmisdrijven alsmede de in [artikel 3, eerste lid van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=3) genoemde zelfstandige bestuursorganen.
+1. Van het ingevolge [artikel 2 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=2) aan de secretaris-generaal verleende mandaat wordt ondermandaat verleend aan de plaatsvervangend secretaris-generaal ten aanzien van de aangelegenheden die de eigenaarsrol betreffen zoals bedoeld in de Regeling agentschappen en de circulaire 'Governance ten aanzien van zbo’s’, voor de diensten en baten-lastenagentschappen genoemd in [artikel 2, derde lid van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), de Inspectie Justitie en Veiligheid, het secretariaat van het Schadefonds Geweldsmisdrijven, het instituut Nationaal rapporteur mensenhandel en seksueel geweld tegen kinderen alsmede de in [artikel 3, eerste lid van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=3) genoemde zelfstandige bestuursorganen.
 
 2. De in het eerste lid genoemde aangelegenheden omvatten in ieder geval de besluiten ten aanzien van benoeming en bezoldiging, verplaatsing, disciplinaire maatregelen en ontslag van hoofden van de diensten en baten-lastenagentschappen genoemd in [artikel 2, derde lid van het Organisatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2) en het secretariaat van het Schadefonds Geweldsmisdrijven.
 
