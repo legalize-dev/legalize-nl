@@ -4,7 +4,7 @@ identifier: "BWBR0029884"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-31"
-last_updated: "2013-07-01"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029884"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1
 
-De ambtenaren van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 10 tot en met 17 van de Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=10), met uitzondering van het toezicht op de naleving van het [Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761) waarmee de ambtenaren van de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu zijn belast.
+De ambtenaren van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 10 tot en met 17 van de Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=10).
 
 ##### Artikel 2
 
