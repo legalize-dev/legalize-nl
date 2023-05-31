@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2023-05-05"
+last_updated: "2023-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -6417,7 +6417,7 @@ Vervallen
 
 ### 22.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
-Ten aanzien van Gaddafi-loyalisten geldt dat de IND in ieder geval als stammen, waarvan bekend is dat zij loyaal waren aan het bewind van Gaddafi, beschouwt:
+De IND beschouwt in ieder geval vreemdelingen die behoren tot de volgende stammen als Gaddafi-loyalisten:
 
 ### 22.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
