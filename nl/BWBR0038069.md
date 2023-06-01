@@ -4,7 +4,7 @@ identifier: "BWBR0038069"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-01"
-last_updated: "2020-03-01"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038069"
 soort: "ministeriele-regeling"
@@ -42,7 +42,17 @@ Besluit:
 
 ##### Artikel 1
 
+1.
+
 In deze regeling wordt verstaan onder wet: [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054).
+
+2. De volgende staten worden mede aangemerkt als lidstaten voor de toepassing van [hoofdstuk IIIa van de wet](onbekend):
+
+- −. IJsland;
+
+- −. Liechtenstein;
+
+- −. Noorwegen.
 
 ##### Artikel 2
 
