@@ -4,7 +4,7 @@ identifier: "BWBR0038677"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-21"
-last_updated: "2016-10-18"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038677"
 soort: "ministeriele-regeling"
@@ -88,7 +88,7 @@ In deze onderlinge regeling wordt verstaan onder:
 
 - e). **BIE Sint Maarten:** Bureau Intellectueel Eigendom Sint Maarten
 
-- f). **verdeelsleutel:** sleutel voor de verdeling van de opbrengsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038677&artikel=2&z=2016-10-18&g=2016-10-18), die is vastgelegd in de bij briefwisseling tussen de Staatssecretaris van Economische Zaken van Nederland, de Minister van Toerisme, Economische Zaken, Verkeer en Telecommunicatie van Sint Maarten en de Minister van Justitie van Curaçao tot stand gekomen onderlinge regeling.
+- f). **verdeelsleutel:** sleutel voor de verdeling van de opbrengsten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038677&artikel=2&z=2023-06-21&g=2023-06-01), die is vastgelegd in de bij briefwisseling tussen de Staatssecretaris van Economische Zaken van Nederland, de Minister van Toerisme, Economische Zaken, Verkeer en Telecommunicatie van Sint Maarten en de Minister van Justitie van Curaçao tot stand gekomen onderlinge regeling.
 
 ##### Artikel 2. opbrengsten
 
@@ -102,7 +102,7 @@ Opbrengsten in de zin van deze onderlinge regeling zijn de door Octrooicentrum N
 
 3. Octrooicentrum Nederland stelt de hoogte van de aandelen vast door de opbrengsten telkens na afloop van elk kwartaal te vermenigvuldigen met de verdeelsleutel.
 
-4. De vaststelling van de aandelen is definitief, tenzij een controle ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038677&artikel=4&z=2016-10-18&g=2016-10-18) aanleiding geeft tot herziening.
+4. De vaststelling van de aandelen is definitief, tenzij een controle ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038677&artikel=4&z=2023-06-21&g=2023-06-01) aanleiding geeft tot herziening.
 
 5. De betaling aan BIE Sint Maarten geschiedt telkens binnen 30 dagen na afloop van het desbetreffende kwartaal door bijschrijving op rekeningnummer 81052610 bij de Windward Islands Bank te Philipsburg ten name van BIE Sint Maarten, onder vermelding van het kwartaal waarop de betaling betrekking heeft.
 
