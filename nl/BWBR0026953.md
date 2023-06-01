@@ -4,7 +4,7 @@ identifier: "BWBR0026953"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2018-02-09"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026953"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Treedt in werking op het tijdstip waarop artikel 1.1 van de Waterwet in werking 
 
 - a. de aanleg, het beheer en het onderhoud van rijkswaterstaatswerken;
 
-- b. de uitvoering van beleid met betrekking tot milieu, leefomgeving en mobiliteit voor zover dit niet bij of krachtens de wet aan anderen is opgedragen of gemandateerd;
+- b. de uitvoering van beleid met betrekking tot milieu, leefomgeving, mobiliteit, verkeersveiligheidsaudits en verkeersveiligheidsinspecties voor zover dit niet bij of krachtens de wet aan anderen is opgedragen of gemandateerd;
 
 - c. het verrichten dan wel bevorderen van onderzoek en het adviseren van de Minister van Infrastructuur en Waterstaat over hetgeen dienstig kan zijn voor de uitvoering van de taken genoemd in onderdelen a en b;
 
