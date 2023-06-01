@@ -4,7 +4,7 @@ identifier: "BWBR0007118"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2023-06-01"
-last_updated: "2021-08-01"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007118"
 soort: "rijkswet"
@@ -47,33 +47,41 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ##### Artikel 1
 
-In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
-
-[**Europees Octrooiverdrag:**](onbekend) het op 5 oktober 1973 te München tot stand gekomen Verdrag inzake de verlening van Europese octrooien (Trb. 1975, 108, 1976, 101 en 2002, 64);
-
-**Europees octrooi:** een krachtens het [Europees Octrooiverdrag](onbekend) verleend octrooi, voor zover dat voor het Koninkrijk is verleend;
-
-**Europese octrooiaanvrage:** een Europese octrooiaanvrage als bedoeld in het [Europees Octrooiverdrag](onbekend);
-
-**Samenwerkingsverdrag:** het op 19 juni 1970 te Washington tot stand gekomen Verdrag tot samenwerking inzake octrooien (**Trb.** 1973, 20);
-
-**bureau:** het bureau, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=15&z=2021-08-01&g=2021-08-01);
-
-**octrooiregister:** het in [artikel 19 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=19&z=2021-08-01&g=2021-08-01) bedoelde register;
-
-**orde**: de Orde van octrooigemachtigden, bedoeld in [artikel 23d](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23d&z=2021-08-01&g=2021-08-01);
-
-**Onze Minister:** Onze Minister van Economische Zaken;
+1. In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 **biologisch materiaal:** materiaal dat genetische informatie bevat en zichzelf kan repliceren of in een biologisch systeem kan worden gerepliceerd;
 
-**microbiologische werkwijze:** iedere werkwijze waarbij microbiologisch materiaal wordt gebruikt, die op microbiologisch materiaal ingrijpt of die microbiologisch materiaal als resultaat heeft;
+**bureau:** het bureau, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=15&z=2023-06-01&g=2023-06-01);
 
-**plantenras:** een ras als bedoeld in artikel 5, tweede lid, van [verordening (EG) nr. 2100/94](31994R2100) van de Raad van de Europese Unie van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG L 227);
+**Eengemaakt Octrooigerecht:** Eengemaakt Octrooigerecht, bedoeld in artikel 1 van de op 19 februari 2013 te Brussel tot stand gekomen Overeenkomst betreffende een eengemaakt octrooigerecht (Trb. 2013, 92 en 2016, 1);
+
+**Europees octrooi:** een krachtens het [Europees Octrooiverdrag](onbekend) verleend octrooi, voor zover dat voor het Koninkrijk is verleend en voor zover dit geen Europees octrooi met eenheidswerking is;
+
+**Europees octrooi met eenheidswerking:** krachtens het Europees Octrooiverdrag verleend octrooi, dat in het Europese deel van Nederland eenheidswerking geniet krachtens verordening (EU) nr. 1257/2012 van het Europees Parlement en de Raad van 17 december 2012 tot het uitvoering geven aan nauwere samenwerking op het gebied van de instelling van eenheidsoctrooibescherming (PbEU 2012, L 361);
+
+[**Europees Octrooiverdrag:**](onbekend) het op 5 oktober 1973 te München tot stand gekomen Verdrag inzake de verlening van Europese octrooien (Trb. 1975, 108, 1976, 101 en 2002, 64);
+
+**Europese octrooiaanvrage:** een Europese octrooiaanvrage als bedoeld in het [Europees Octrooiverdrag](onbekend);
+
+**microbiologische werkwijze:** iedere werkwijze waarbij microbiologisch materiaal wordt gebruikt, die op microbiologisch materiaal ingrijpt of die microbiologisch materiaal als resultaat heeft;
 
 **natuurlijke rijkdommen:** de minerale en andere niet-levende rijkdommen van de zeebedding en de ondergrond, alsmede levende organismen die tot de sedentaire soort behoren, dat wil zeggen organismen die ten tijde dat zij geoogst kunnen worden, hetzij zich onbeweeglijk op of onder de zeebedding bevinden, hetzij zich niet kunnen verplaatsen dan in voortdurend fysiek contact met de zeebedding of de ondergrond;
 
+**octrooiregister:** het in [artikel 19 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=19&z=2023-06-01&g=2023-06-01) bedoelde register;
+
+**Onze Minister:** Onze Minister van Economische Zaken;
+
+**orde**: de Orde van octrooigemachtigden, bedoeld in [artikel 23d](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23d&z=2023-06-01&g=2023-06-01);
+
+**plantenras:** een ras als bedoeld in artikel 5, tweede lid, van [verordening (EG) nr. 2100/94](31994R2100) van de Raad van de Europese Unie van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG L 227);
+
+**proeve van bekwaamheid:** proeve van bekwaamheid als bedoeld in artikel 3, eerste lid, onderdeel h, van richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU 2005, L 255);
+
+**Samenwerkingsverdrag:** het op 19 juni 1970 te Washington tot stand gekomen Verdrag tot samenwerking inzake octrooien (**Trb.** 1973, 20);
+
 **Verdrag inzake octrooirecht**: het op 1 juli 2000 te Genève tot stand gekomen Verdrag inzake octrooirecht (Trb. 2001, 120).
+
+2. In deze wet en de daarop berustende bepalingen wordt gelijkgesteld met een Europees octrooi met eenheidswerking: een Europees octrooi als bedoeld in [artikel 51a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=51a&z=2023-06-01&g=2023-06-01).
 
 ##### Artikel 2
 
@@ -101,11 +109,11 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. planten- of dierenrassen,
 
-- d. werkwijzen van wezenlijk biologische aard, geheel bestaand uit natuurlijke verschijnselen zoals kruisingen of selecties, voor de voortbrenging van planten of dieren alsmede de hierdoor verkregen voortbrengselen,
+- d. werkwijzen van wezenlijk biologische aard, geheel bestaand uit natuurlijke verschijnselen zoals kruisingen of selecties, voor de voortbrenging van planten of dieren alsmede de hierdoor verkregen producten,
 
 - e. uitvindingen waardoor inbreuk wordt gemaakt op de artikelen 3, 8, onderdeel j, 15, vijfde lid, en 16, vijfde lid, van het Biodiversiteitsverdrag;
 
-- f. methoden van behandeling van het menselijke of dierlijke lichaam door chirurgische ingrepen of geneeskundige behandeling en diagnosemethoden die worden toegepast op het menselijke of dierlijke lichaam, met uitzondering van voortbrengselen, met name stoffen of samenstellingen, voor de toepassing van een van deze methoden.
+- f. methoden van behandeling van het menselijke of dierlijke lichaam door chirurgische ingrepen of geneeskundige behandeling en diagnosemethoden die worden toegepast op het menselijke of dierlijke lichaam, met uitzondering van producten, met name stoffen of samenstellingen, voor de toepassing van een van deze methoden.
 
 2. Onder uitvindingen waarvan de commerciële exploitatie in strijd zou zijn met de openbare orde of goede zeden als bedoeld in het eerste lid, onderdeel a, worden in ieder geval verstaan:
 
@@ -115,7 +123,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het gebruik van menselijke embryo's,
 
-- d. werkwijzen tot wijziging van de genetische identiteit van dieren die geëigend zijn deze te doen lijden zonder aanzienlijk medisch nut voor mens of dier op te leveren, alsmede de hierdoor verkregen voortbrengselen en
+- d. werkwijzen tot wijziging van de genetische identiteit van dieren die geëigend zijn deze te doen lijden zonder aanzienlijk medisch nut voor mens of dier op te leveren, alsmede de hierdoor verkregen producten en
 
 - e. werkwijzen die het leven of de gezondheid van mensen, dieren of planten in gevaar brengen of die ernstige schade voor het milieu veroorzaken.
 
@@ -129,17 +137,17 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De stand van de techniek wordt gevormd door al hetgeen voor de dag van indiening van de octrooiaanvrage openbaar toegankelijk is gemaakt door een schriftelijke of mondelinge beschrijving, door toepassing of op enige andere wijze.
 
-3. Tot de stand van de techniek behoort tevens de inhoud van eerder ingediende octrooiaanvragen, die op of na de in het tweede lid bedoelde dag overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2021-08-01&g=2021-08-01) in het octrooiregister zijn ingeschreven.
+3. Tot de stand van de techniek behoort tevens de inhoud van eerder ingediende octrooiaanvragen, die op of na de in het tweede lid bedoelde dag overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2023-06-01&g=2023-06-01) in het octrooiregister zijn ingeschreven.
 
 4. Tot de stand van de techniek behoort voorts de inhoud van Europese octrooiaanvragen en van internationale aanvragen als bedoeld in artikel 153, derde tot en met vijfde lid, van het Europees Octrooiverdrag, waarvan de datum van indiening, die geldt voor de toepassing van artikel 54, tweede en derde lid, van dat verdrag, ligt voor de in het tweede lid bedoelde dag, en die op of na die dag zijn gepubliceerd op grond van artikel 93 van dat verdrag onderscheidenlijk van artikel 21 van het Samenwerkingsverdrag.
 
-5. Niettegenstaande het bepaalde in het eerste tot en met vierde lid zijn tot de stand van de techniek behorende stoffen of samenstellingen vatbaar voor octrooi, voor zover zij bestemd zijn voor de toepassing van een van de in [artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=3&z=2021-08-01&g=2021-08-01), bedoelde methoden, mits de toepassing daarvan voor enige in dat lid bedoelde methode niet tot de stand van de techniek behoort.
+5. Niettegenstaande het bepaalde in het eerste tot en met vierde lid zijn tot de stand van de techniek behorende stoffen of samenstellingen vatbaar voor octrooi, voor zover zij bestemd zijn voor de toepassing van een van de in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=3&z=2023-06-01&g=2023-06-01), bedoelde methoden, mits de toepassing daarvan voor enige in dat lid bedoelde methode niet tot de stand van de techniek behoort.
 
-6. Onverminderd het eerste tot en met het vierde lid, zijn stoffen of samenstellingen als bedoeld in het vijfde lid, vatbaar voor octrooi voor een specifieke toepassing in een werkwijze als bedoeld in [artikel 3, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=3&z=2021-08-01&g=2021-08-01), mits die toepassing niet tot de stand van de techniek behoort.
+6. Onverminderd het eerste tot en met het vierde lid, zijn stoffen of samenstellingen als bedoeld in het vijfde lid, vatbaar voor octrooi voor een specifieke toepassing in een werkwijze als bedoeld in [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=3&z=2023-06-01&g=2023-06-01), mits die toepassing niet tot de stand van de techniek behoort.
 
 ##### Artikel 5
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2021-08-01&g=2021-08-01) blijft een openbaarmaking van de uitvinding buiten beschouwing, indien deze niet eerder is geschied dan zes maanden voor de dag van indiening van de octrooiaanvrage als direct of indirect gevolg van:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01) blijft een openbaarmaking van de uitvinding buiten beschouwing, indien deze niet eerder is geschied dan zes maanden voor de dag van indiening van de octrooiaanvrage als direct of indirect gevolg van:
 
 - a. een kennelijk misbruik ten opzichte van de aanvrager of diens rechtsvoorganger, of
 
@@ -151,7 +159,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6
 
-Een uitvinding wordt als het resultaat van uitvinderswerkzaamheid aangemerkt, indien zij voor een deskundige niet op een voor de hand liggende wijze voortvloeit uit de stand van de techniek. Indien documenten als bedoeld in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2021-08-01&g=2021-08-01), tot de stand van de techniek behoren, worden deze bij de beoordeling van de uitvinderswerkzaamheid buiten beschouwing gelaten.
+Een uitvinding wordt als het resultaat van uitvinderswerkzaamheid aangemerkt, indien zij voor een deskundige niet op een voor de hand liggende wijze voortvloeit uit de stand van de techniek. Indien documenten als bedoeld in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01), tot de stand van de techniek behoren, worden deze bij de beoordeling van de uitvinderswerkzaamheid buiten beschouwing gelaten.
 
 ##### Artikel 7
 
@@ -159,7 +167,7 @@ Een uitvinding wordt als vatbaar voor toepassing op het gebied van de nijverheid
 
 ##### Artikel 8
 
-Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=11&z=2021-08-01&g=2021-08-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=12&z=2021-08-01&g=2021-08-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=13&z=2021-08-01&g=2021-08-01) wordt de aanvrager als uitvinder beschouwd en uit dien hoofde als degene die aanspraak heeft op octrooi.
+Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=11&z=2023-06-01&g=2023-06-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=12&z=2023-06-01&g=2023-06-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=13&z=2023-06-01&g=2023-06-01) wordt de aanvrager als uitvinder beschouwd en uit dien hoofde als degene die aanspraak heeft op octrooi.
 
 ##### Artikel 9
 
@@ -169,15 +177,15 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&h
 
 3. Indien de rechthebbende meer aanvragen voor hetzelfde onderwerp heeft ingediend, komt voor het recht van voorrang slechts de eerst ingediende in aanmerking. Niettemin kan het recht van voorrang ook berusten op een later ingediende aanvrage ter verkrijging van bescherming in hetzelfde land, mits de eerst ingediende aanvrage voor de indiening van de latere aanvrage is ingetrokken, vervallen of afgewezen zonder ter kennis van het publiek te zijn gebracht en zonder rechten te hebben laten bestaan en mits zij nog niet als grondslag heeft gediend voor de inroeping van een recht van voorrang. Indien een recht van voorrang, berustend op een later ingediende aanvrage, is ingeroepen, zal de eerst ingediende aanvrage niet meer als grondslag kunnen dienen voor de inroeping van een recht van voorrang.
 
-4. De voorrang heeft voor de toepassing van de [artikelen 4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2021-08-01&g=2021-08-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=6&z=2021-08-01&g=2021-08-01) ten gevolge, dat de aanvrage waarvoor dit recht bestaat, wordt aangemerkt als te zijn ingediend op de dag van indiening van de aanvrage waarop het recht van voorrang berust.
+4. De voorrang heeft voor de toepassing van de [artikelen 4, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=6&z=2023-06-01&g=2023-06-01) ten gevolge, dat de aanvrage waarvoor dit recht bestaat, wordt aangemerkt als te zijn ingediend op de dag van indiening van de aanvrage waarop het recht van voorrang berust.
 
-5. De aanvrager kan een beroep doen op meer dan één recht van voorrang, zelfs wanneer de rechten van voorrang uit verschillende landen afkomstig zijn. Ook kan de aanvrage, waarbij een beroep op een of meer rechten van voorrang wordt gedaan, elementen bevatten, waarvoor in de conclusies van de aanvrage, waarvan de voorrang wordt ingeroepen, geen rechten werden verlangd, mits de tot de laatste aanvrage behorende stukken het betrokken voortbrengsel of de betrokken werkwijze voldoende nauwkeurig aangeven.
+5. De aanvrager kan een beroep doen op meer dan één recht van voorrang, zelfs wanneer de rechten van voorrang uit verschillende landen afkomstig zijn. Ook kan de aanvrage, waarbij een beroep op een of meer rechten van voorrang wordt gedaan, elementen bevatten, waarvoor in de conclusies van de aanvrage, waarvan de voorrang wordt ingeroepen, geen rechten werden verlangd, mits de tot de laatste aanvrage behorende stukken het betrokken product of de betrokken werkwijze voldoende nauwkeurig aangeven.
 
 6. Degene die van het recht van voorrang gebruik wil maken, moet daarop schriftelijk beroep doen bij de indiening van de aanvrage of binnen zestien maanden na de datum van indiening van de aanvrage waarop hij zich beroept, onder vermelding van die datum van indiening en van het land waarin of waarvoor deze werd ingediend.
 
 7. Een verbetering van of toevoeging aan een eerder ingeroepen recht van voorrang moet worden verzocht binnen zestien maanden na de datum van indiening van de aanvrage waarop hij zich beroept.
 
-8. Binnen zestien maanden na indiening van de aanvrage waarop hij zich beroept als bedoeld in het zesde en zevende lid, moet hij het nummer alsmede een in de Nederlandse, Franse, Duitse of Engelse taal gesteld afschrift van de aanvrage waarop hij zich beroept of een vertaling van die aanvrage in een van die talen aan het bureau verstrekken, tenzij de eerdere aanvrage bij het bureau of het bureau, bedoeld in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=8&artikel=99&z=2021-08-01&g=2021-08-01), is ingediend, alsmede, als hij niet degene is die de aanvrage, op grond waarvan de voorrang wordt ingeroepen heeft ingediend, een document waaruit zijn rechten blijken. Het bureau kan verlangen dat de in de vorige volzin bedoelde vertaling wordt gewaarmerkt indien het bureau redelijke twijfel heeft ten aanzien van de juistheid van die vertaling.
+8. Binnen zestien maanden na indiening van de aanvrage waarop hij zich beroept als bedoeld in het zesde en zevende lid, moet hij het nummer alsmede een in de Nederlandse, Franse, Duitse of Engelse taal gesteld afschrift van de aanvrage waarop hij zich beroept of een vertaling van die aanvrage in een van die talen aan het bureau verstrekken, tenzij de eerdere aanvrage bij het bureau of het bureau, bedoeld in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=8&artikel=99&z=2023-06-01&g=2023-06-01), is ingediend, alsmede, als hij niet degene is die de aanvrage, op grond waarvan de voorrang wordt ingeroepen heeft ingediend, een document waaruit zijn rechten blijken. Het bureau kan verlangen dat de in de vorige volzin bedoelde vertaling wordt gewaarmerkt indien het bureau redelijke twijfel heeft ten aanzien van de juistheid van die vertaling.
 
 9. Het recht van voorrang vervalt, indien niet aan het zesde, zevende of achtste lid is voldaan.
 
@@ -187,11 +195,11 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&h
 
 2. Vorderingen ter vaststelling van het ontbreken van rechtsgevolg als bedoeld in het eerste lid kunnen door een ieder worden ingesteld.
 
-3. [Artikel 75, vierde lid, achtste lid, eerste volzin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), is van overeenkomstige toepassing.
+3. [Artikel 75, vierde lid, achtste lid, eerste volzin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), is van overeenkomstige toepassing.
 
 ##### Artikel 11
 
-De aanvrager heeft geen aanspraak op octrooi, voor zover de inhoud van zijn aanvrage aan hetgeen reeds door een ander vervaardigd of toegepast werd of wel aan beschrijvingen, tekeningen of modellen van een ander, zonder diens toestemming, ontleend is. Deze laatste behoudt, voor zover hetgeen ontleend werd voor octrooi vatbaar is, zijn aanspraak op octrooi. Voor de toepassing van [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2021-08-01&g=2021-08-01), op het onderwerp van een aanvrage, ingediend door degene aan wie ontleend is, blijft de door de ontlener ingediende aanvrage buiten beschouwing.
+De aanvrager heeft geen aanspraak op octrooi, voor zover de inhoud van zijn aanvrage aan hetgeen reeds door een ander vervaardigd of toegepast werd of wel aan beschrijvingen, tekeningen of modellen van een ander, zonder diens toestemming, ontleend is. Deze laatste behoudt, voor zover hetgeen ontleend werd voor octrooi vatbaar is, zijn aanspraak op octrooi. Voor de toepassing van [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01), op het onderwerp van een aanvrage, ingediend door degene aan wie ontleend is, blijft de door de ontlener ingediende aanvrage buiten beschouwing.
 
 ##### Artikel 12
 
@@ -201,7 +209,7 @@ De aanvrager heeft geen aanspraak op octrooi, voor zover de inhoud van zijn aanv
 
 3. Indien de uitvinding is gedaan door iemand die in dienst van een universiteit, hogeschool of onderzoeksinstelling onderzoek verricht, komt de aanspraak op octrooi toe aan de betrokken universiteit, hogeschool of onderzoeksinstelling.
 
-4. Voor de toepassing van [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2021-08-01&g=2021-08-01), op het onderwerp van een aanvrage, ingediend door de in het eerste lid, laatste volzin, bedoelde werkgever dan wel door degene die de gelegenheid biedt om werkzaamheden te verrichten als bedoeld in het tweede lid, blijft een door de niet gerechtigde ingediende octrooiaanvrage buiten beschouwing.
+4. Voor de toepassing van [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01), op het onderwerp van een aanvrage, ingediend door de in het eerste lid, laatste volzin, bedoelde werkgever dan wel door degene die de gelegenheid biedt om werkzaamheden te verrichten als bedoeld in het tweede lid, blijft een door de niet gerechtigde ingediende octrooiaanvrage buiten beschouwing.
 
 5. Van het in het eerste, tweede en derde lid bepaalde kan bij schriftelijke overeenkomst worden afgeweken.
 
@@ -215,7 +223,7 @@ Indien een uitvinding is gedaan door verscheidene personen, die volgens een afsp
 
 ##### Artikel 14
 
-1. Degene die de uitvinding heeft gedaan, waarvoor octrooi is aangevraagd, doch op grond van [artikel 12, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=12&z=2021-08-01&g=2021-08-01), of op grond van een overeenkomst, gesloten met de aanvrager of diens rechtsvoorgangers, geen aanspraak op octrooi kan doen gelden, heeft het recht in het octrooi als de uitvinder te worden vermeld.
+1. Degene die de uitvinding heeft gedaan, waarvoor octrooi is aangevraagd, doch op grond van [artikel 12, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=12&z=2023-06-01&g=2023-06-01), of op grond van een overeenkomst, gesloten met de aanvrager of diens rechtsvoorgangers, geen aanspraak op octrooi kan doen gelden, heeft het recht in het octrooi als de uitvinder te worden vermeld.
 
 2. Elk beding, waarbij van het vorige lid wordt afgeweken, is nietig.
 
@@ -261,9 +269,9 @@ De aanwijzing of, in voorkomend geval, de keuze van het Koninkrijk in een intern
 
 ##### Artikel 21
 
-1. Vanaf het tijdstip waarop de octrooiaanvrage in het octrooiregister is ingeschreven, kan een ieder kosteloos kennisnemen van alle op de aanvrage of het daarop verleende octrooi betrekking hebbende stukken die het bureau hebben bereikt of die het bureau aan de aanvrager of aan derden heeft doen uitgaan in het kader van de bepalingen van deze rijkswet. Het bureau maakt van al deze stukken zo spoedig mogelijk doch niet voor de inschrijving van de aanvrage in het octrooiregister melding in het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2021-08-01&g=2021-08-01) bedoelde blad.
+1. Vanaf het tijdstip waarop de octrooiaanvrage in het octrooiregister is ingeschreven, kan een ieder kosteloos kennisnemen van alle op de aanvrage of het daarop verleende octrooi betrekking hebbende stukken die het bureau hebben bereikt of die het bureau aan de aanvrager of aan derden heeft doen uitgaan in het kader van de bepalingen van deze rijkswet. Het bureau maakt van al deze stukken zo spoedig mogelijk doch niet voor de inschrijving van de aanvrage in het octrooiregister melding in het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2023-06-01&g=2023-06-01) bedoelde blad.
 
-2. Van stukken die betrekking hebben op een aanvrage die nog niet in het octrooiregister is ingeschreven, kan alleen met toestemming van de aanvrager kennis worden genomen. Zonder toestemming van de aanvrager kan daarvan nochtans kennis worden genomen, indien de betrokkene aantoont dat de aanvrager zich tegenover hem heeft beroepen op zijn aanvrage. Het in dit lid bepaalde geldt niet ten aanzien van de in [paragraaf 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&z=2021-08-01&g=2021-08-01) bedoelde octrooiaanvragen.
+2. Van stukken die betrekking hebben op een aanvrage die nog niet in het octrooiregister is ingeschreven, kan alleen met toestemming van de aanvrager kennis worden genomen. Zonder toestemming van de aanvrager kan daarvan nochtans kennis worden genomen, indien de betrokkene aantoont dat de aanvrager zich tegenover hem heeft beroepen op zijn aanvrage. Het in dit lid bepaalde geldt niet ten aanzien van de in [paragraaf 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&z=2023-06-01&g=2023-06-01) bedoelde octrooiaanvragen.
 
 3. Geen kennis kan worden genomen van de verklaring van degene die de uitvinding heeft gedaan, inhoudende dat hij geen prijs stelt op vermelding als uitvinder in het octrooi.
 
@@ -275,7 +283,7 @@ De aanwijzing of, in voorkomend geval, de keuze van het Koninkrijk in een intern
 
 ##### Artikel 23
 
-1. Indien de aanvrager of de houder van een octrooi dan wel de houder van een Europees octrooi, ondanks het betrachten van alle in de gegeven omstandigheden geboden zorgvuldigheid, niet in staat is geweest een termijn ten opzichte van het bureau of het bureau bedoeld in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=8&artikel=99&z=2021-08-01&g=2021-08-01) in acht te nemen, wordt op zijn verzoek door het bureau de vorige toestand hersteld, indien het niet in acht nemen van de termijn ingevolge deze rijkswet rechtstreeks heeft geleid tot het verlies van enig recht of rechtsmiddel.
+1. Indien de aanvrager of de houder van een octrooi dan wel de houder van een Europees octrooi, ondanks het betrachten van alle in de gegeven omstandigheden geboden zorgvuldigheid, niet in staat is geweest een termijn ten opzichte van het bureau of het bureau bedoeld in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=8&artikel=99&z=2023-06-01&g=2023-06-01) in acht te nemen, wordt op zijn verzoek door het bureau de vorige toestand hersteld, indien het niet in acht nemen van de termijn ingevolge deze rijkswet rechtstreeks heeft geleid tot het verlies van enig recht of rechtsmiddel.
 
 2. Het eerste lid is niet van toepassing op het niet in acht nemen van de hierna in het derde lid bedoelde termijn.
 
@@ -283,7 +291,7 @@ De aanwijzing of, in voorkomend geval, de keuze van het Koninkrijk in een intern
 
 4. Het bureau tekent het herstel in het octrooiregister aan.
 
-5. Degene, die in het tijdvak, gelegen tussen het verlies van het recht of het rechtsmiddel en het herstel in de vorige toestand, begonnen is met de vervaardiging of toepassing binnen Nederland, Curaçao of Sint Maarten in of voor zijn bedrijf van datgene, waarvoor tengevolge van het herstel een octrooi van kracht is, dan wel een begin van uitvoering heeft gegeven aan zijn voornemen daartoe, blijft niettegenstaande het octrooi bevoegd de in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), bedoelde handelingen te verrichten. [Artikel 55, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=55&z=2021-08-01&g=2021-08-01), is van overeenkomstige toepassing.
+5. Degene, die in het tijdvak, gelegen tussen het verlies van het recht of het rechtsmiddel en het herstel in de vorige toestand, begonnen is met de vervaardiging of toepassing binnen Nederland, Curaçao of Sint Maarten in of voor zijn bedrijf van datgene, waarvoor tengevolge van het herstel een octrooi van kracht is, dan wel een begin van uitvoering heeft gegeven aan zijn voornemen daartoe, blijft niettegenstaande het octrooi bevoegd de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) bedoelde handelingen te verrichten. [Artikel 55, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=55&z=2023-06-01&g=2023-06-01), is van overeenkomstige toepassing.
 
 6. Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gesteld over het herstel van het recht van voorrang.
 
@@ -301,11 +309,11 @@ De aanwijzing of, in voorkomend geval, de keuze van het Koninkrijk in een intern
 
 - d. een korte aanduiding bevatten van datgene, waarop de uitvinding betrekking heeft;
 
-- e. vergezeld zijn van een beschrijving van de uitvinding, die aan het slot in één of meer conclusies een omschrijving geeft van datgene, waarvoor uitsluitend recht wordt verlangd;
+- e. vergezeld zijn van een beschrijving van de uitvinding, die aan het slot in één of meer conclusies een omschrijving geeft van datgene, waarvoor bescherming wordt verlangd;
 
 - f. vergezeld zijn van een uittreksel van de beschrijving.
 
-2. Het uittreksel is alleen bedoeld als technische informatie; het kan in het bijzonder niet dienen voor de uitlegging van de omvang van de gevraagde bescherming en voor de toepassing van de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2021-08-01&g=2021-08-01), en [75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01).
+2. Het uittreksel is alleen bedoeld als technische informatie; het kan in het bijzonder niet dienen voor de uitlegging van de omvang van de gevraagde bescherming en voor de toepassing van de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01), en [75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01).
 
 3. De aanvrage en de overige bescheiden zijn hetzij in het Nederlands hetzij in het Engels gesteld, met uitzondering van de conclusies die in het Nederlands zijn gesteld.
 
@@ -337,13 +345,13 @@ Elke aanvrage om octrooi mag slechts op een enkele uitvinding betrekking hebben 
 
 ##### Artikel 28
 
-1. De aanvrager kan zijn reeds ingediende aanvrage splitsen door voor een gedeelte van de inhoud daarvan een afzonderlijke aanvrage in te dienen. Deze aanvrage wordt, behalve voor de toepassing van de [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=30&z=2021-08-01&g=2021-08-01), [31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2021-08-01&g=2021-08-01), en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=32&z=2021-08-01&g=2021-08-01), aangemerkt te zijn ingediend op de dag van de oorspronkelijke aanvrage.
+1. De aanvrager kan zijn reeds ingediende aanvrage splitsen door voor een gedeelte van de inhoud daarvan een afzonderlijke aanvrage in te dienen. Deze aanvrage wordt, behalve voor de toepassing van de [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=30&z=2023-06-01&g=2023-06-01), [31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2023-06-01&g=2023-06-01), en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=32&z=2023-06-01&g=2023-06-01), aangemerkt te zijn ingediend op de dag van de oorspronkelijke aanvrage.
 
 2. De aanvrager kan de beschrijving, conclusies en tekeningen van zijn reeds ingediende aanvrage wijzigen.
 
 3. Het onderwerp van de afgesplitste of de gewijzigde aanvrage moet gedekt worden door de inhoud van de oorspronkelijke aanvrage.
 
-4. De splitsing of wijziging kan geschieden tot het tijdstip waarop de octrooiaanvrage ingevolge [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2021-08-01&g=2021-08-01), in het octrooiregister moet worden ingeschreven, met dien verstande dat voor de splitsing of wijziging een termijn van tenminste twee maanden na de verzending van de in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2021-08-01&g=2021-08-01), bedoelde mededeling openstaat. Op verzoek van de aanvrager kan het bureau laatstgenoemde termijn verlengen tot vier maanden na de verzending van de in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2021-08-01&g=2021-08-01), bedoelde mededeling.
+4. De splitsing of wijziging kan geschieden tot het tijdstip waarop de octrooiaanvrage ingevolge [artikel 31, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2023-06-01&g=2023-06-01), in het octrooiregister moet worden ingeschreven, met dien verstande dat voor de splitsing of wijziging een termijn van tenminste twee maanden na de verzending van de in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2023-06-01&g=2023-06-01), bedoelde mededeling openstaat. Op verzoek van de aanvrager kan het bureau laatstgenoemde termijn verlengen tot vier maanden na de verzending van de in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2023-06-01&g=2023-06-01), bedoelde mededeling.
 
 ##### Artikel 29
 
@@ -367,7 +375,7 @@ Elke aanvrage om octrooi mag slechts op een enkele uitvinding betrekking hebben 
 
 ##### Artikel 30
 
-1. Indien niet is voldaan aan het bij en krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2021-08-01&g=2021-08-01) bepaalde, geeft het bureau daarvan binnen een maand na de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2021-08-01&g=2021-08-01), bedoelde datum van indiening of, in geval van afsplitsing van de aanvrage, binnen een maand na de datum van indiening van de afgesplitste aanvrage, schriftelijk kennis aan de aanvrager, onder opgave van de voorschriften waaraan niet is voldaan.
+1. Indien niet is voldaan aan het bij en krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2023-06-01&g=2023-06-01) bepaalde, geeft het bureau daarvan binnen een maand na de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2023-06-01&g=2023-06-01), bedoelde datum van indiening of, in geval van afsplitsing van de aanvrage, binnen een maand na de datum van indiening van de afgesplitste aanvrage, schriftelijk kennis aan de aanvrager, onder opgave van de voorschriften waaraan niet is voldaan.
 
 2. Indien de gebreken niet binnen drie maanden na verzending van de in het eerste lid bedoelde kennisgeving zijn hersteld of indien de aanvrager voordien heeft medegedeeld niet tot herstel te willen overgaan, besluit het bureau de aanvrage niet te behandelen. Het bureau maakt zijn beschikking zo spoedig mogelijk aan de aanvrager bekend.
 
@@ -375,25 +383,25 @@ Elke aanvrage om octrooi mag slechts op een enkele uitvinding betrekking hebben 
 
 1. Het bureau schrijft een octrooiaanvrage in het octrooiregister in zo spoedig mogelijk na verloop van achttien maanden:
 
-- a. na de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2021-08-01&g=2021-08-01), bedoelde datum van indiening of,
+- a. na de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2023-06-01&g=2023-06-01), bedoelde datum van indiening of,
 
 - b. indien het een aanvrage betreft waarvoor een beroep is gedaan op een of meer rechten van voorrang, na de eerste datum van voorrang.
 
 2. Op schriftelijk verzoek van de aanvrager vindt de inschrijving op een eerder tijdstip plaats.
 
-3. De inschrijving van een afgesplitste aanvrage als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2021-08-01&g=2021-08-01) geschiedt zo spoedig mogelijk na de indiening daarvan, doch niet eerder dan de inschrijving van de oorspronkelijke aanvrage.
+3. De inschrijving van een afgesplitste aanvrage als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2023-06-01&g=2023-06-01) geschiedt zo spoedig mogelijk na de indiening daarvan, doch niet eerder dan de inschrijving van de oorspronkelijke aanvrage.
 
 ##### Artikel 32
 
 1. De aanvrager verzoekt het bureau binnen uiterlijk dertien maanden na:
 
-- a. de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2021-08-01&g=2021-08-01), bedoelde datum van indiening of,
+- a. de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2023-06-01&g=2023-06-01), bedoelde datum van indiening of,
 
 - b. indien het een aanvrage betreft waarvoor een beroep is gedaan op een of meer rechten van voorrang, de eerste datum van voorrang, om een aan de verlening van het octrooi voorafgaand onderzoek naar de stand van de techniek met betrekking tot het onderwerp van de octrooiaanvrage.
 
 Met het verzoek wordt aan het bureau een bedrag overeenkomstig een bij of krachtens algemene maatregel van rijksbestuur vastgesteld tarief betaald. Het verzoek wordt niet in behandeling genomen tot dit bedrag door het bureau is ontvangen.
 
-2. Indien het een afgesplitste aanvrage betreft als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2021-08-01&g=2021-08-01), wordt het in het eerste lid bedoeld verzoek gedaan binnen dertien maanden na de in het eerste lid bedoelde datum van indiening of voorrang van de oorspronkelijke aanvrage of, indien dat later is, binnen twee maanden na de indiening van de afgesplitste aanvrage.
+2. Indien het een afgesplitste aanvrage betreft als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2023-06-01&g=2023-06-01), wordt het in het eerste lid bedoeld verzoek gedaan binnen dertien maanden na de in het eerste lid bedoelde datum van indiening of voorrang van de oorspronkelijke aanvrage of, indien dat later is, binnen twee maanden na de indiening van de afgesplitste aanvrage.
 
 3. Indien de aanvrager niet tijdig om het in het eerste lid genoemde onderzoek heeft verzocht of het in het eerste lid bedoelde bedrag niet door het bureau is ontvangen, besluit het bureau de aanvrage niet te behandelen. Het bureau maakt zijn beschikking zo spoedig mogelijk aan de aanvrager bekend.
 
@@ -403,11 +411,11 @@ Vervallen
 
 ##### Artikel 34
 
-1. Een onderzoek naar de stand van de techniek als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=32&z=2021-08-01&g=2021-08-01), wordt verricht door het bureau, waar nodig met inschakeling van het Europees Octrooibureau, bedoeld in het Europees Octrooiverdrag.
+1. Een onderzoek naar de stand van de techniek als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=32&z=2023-06-01&g=2023-06-01), wordt verricht door het bureau, waar nodig met inschakeling van het Europees Octrooibureau, bedoeld in het Europees Octrooiverdrag.
 
-2. Indien de aanvrager daarom verzoekt, doet het bureau de aanvrage onderwerpen aan een onderzoek naar de stand van de techniek van internationaal type als bedoeld in artikel 15, vijfde lid, onder **a**, van het Samenwerkingsverdrag. Zulk een onderzoek naar de stand van de techniek wordt aangemerkt als een onderzoek naar de stand van de techniek als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=32&z=2021-08-01&g=2021-08-01).
+2. Indien de aanvrager daarom verzoekt, doet het bureau de aanvrage onderwerpen aan een onderzoek naar de stand van de techniek van internationaal type als bedoeld in artikel 15, vijfde lid, onder **a**, van het Samenwerkingsverdrag. Zulk een onderzoek naar de stand van de techniek wordt aangemerkt als een onderzoek naar de stand van de techniek als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=32&z=2023-06-01&g=2023-06-01).
 
-3. Indien bij het onderzoek blijkt, dat de ingediende aanvrage niet voldoet aan het bij of krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=27&z=2021-08-01&g=2021-08-01) bepaalde, wordt het uitgevoerd ten aanzien van die onderdelen van de aanvrage die betrekking hebben op de uitvinding of op de groep van uitvindingen als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=27&z=2021-08-01&g=2021-08-01), die als eerste in de conclusies wordt genoemd.
+3. Indien bij het onderzoek blijkt, dat de ingediende aanvrage niet voldoet aan het bij of krachtens [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=27&z=2023-06-01&g=2023-06-01) bepaalde, wordt het uitgevoerd ten aanzien van die onderdelen van de aanvrage die betrekking hebben op de uitvinding of op de groep van uitvindingen als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=27&z=2023-06-01&g=2023-06-01), die als eerste in de conclusies wordt genoemd.
 
 4. Het bureau deelt de aanvrager schriftelijk het resultaat van het onderzoek naar de stand van de techniek mede.
 
@@ -421,17 +429,17 @@ Vervallen
 
 ##### Artikel 36
 
-1. Het bureau verleent het octrooi zodra de octrooiaanvrage in het octrooiregister is ingeschreven, doch niet eerder dan twee maanden of, indien [artikel 28, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2021-08-01&g=2021-08-01), is toegepast, vier maanden na verzending van de in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2021-08-01&g=2021-08-01), bedoelde mededeling. Het doet hiervan aantekening in het octrooiregister. Op verzoek van de aanvrager verleent het bureau het octrooi op een eerder tijdstip nadat het resultaat van het onderzoek naar de stand van de techniek als bedoeld in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2021-08-01&g=2021-08-01), is verzonden.
+1. Het bureau verleent het octrooi zodra de octrooiaanvrage in het octrooiregister is ingeschreven, doch niet eerder dan twee maanden of, indien [artikel 28, vierde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2023-06-01&g=2023-06-01), is toegepast, vier maanden na verzending van de in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2023-06-01&g=2023-06-01), bedoelde mededeling. Het doet hiervan aantekening in het octrooiregister. Op verzoek van de aanvrager verleent het bureau het octrooi op een eerder tijdstip nadat het resultaat van het onderzoek naar de stand van de techniek als bedoeld in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2023-06-01&g=2023-06-01), is verzonden.
 
-2. De octrooiverlening geschiedt door het plaatsen van een gedateerde aantekening op de aanvrage in de vorm waarin deze ingediend dan wel overeenkomstig de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2021-08-01&g=2021-08-01) of [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=30&z=2021-08-01&g=2021-08-01), is gewijzigd.
+2. De octrooiverlening geschiedt door het plaatsen van een gedateerde aantekening op de aanvrage in de vorm waarin deze ingediend dan wel overeenkomstig de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2023-06-01&g=2023-06-01) of [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=30&z=2023-06-01&g=2023-06-01), is gewijzigd.
 
 3. Het bureau geeft de bij de aanvrage behorende beschrijving en tekeningen bij wege van octrooischrift uit en verstrekt hiervan een gewaarmerkt afschrift aan de aanvrager.
 
-4. Indien toepassing is gegeven aan [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2021-08-01&g=2021-08-01), heeft het octrooi uitsluitend betrekking op die uitvinding of groep van uitvindingen als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=27&z=2021-08-01&g=2021-08-01), die als eerste in de conclusies wordt genoemd.
+4. Indien toepassing is gegeven aan [artikel 34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2023-06-01&g=2023-06-01), heeft het octrooi uitsluitend betrekking op die uitvinding of groep van uitvindingen als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=27&z=2023-06-01&g=2023-06-01), die als eerste in de conclusies wordt genoemd.
 
 5. Het resultaat van het onderzoek naar de stand van de techniek wordt bij het octrooischrift gevoegd.
 
-6. Een ingevolge dit artikel verleend octrooi blijft, behoudens eerder verval, afstand of vernietiging door de rechter, van kracht tot het verstrijken van een termijn van twintig jaren, te rekenen vanaf de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2021-08-01&g=2021-08-01) , bedoelde datum van indiening.
+6. Een ingevolge dit artikel verleend octrooi blijft, behoudens eerder verval, afstand of vernietiging door de rechter, van kracht tot het verstrijken van een termijn van twintig jaren, te rekenen vanaf de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2023-06-01&g=2023-06-01) , bedoelde datum van indiening.
 
 ##### Artikel 37
 
@@ -441,7 +449,7 @@ Vervallen
 
 1. Een ieder kan het bureau schriftelijk mededeling doen van gegevens betreffende een octrooiaanvrage of het daarop verleende octrooi. Het bureau deelt deze gegevens mede aan de aanvrager of de octrooihouder, voor zover zij niet van deze afkomstig zijn.
 
-2. Indien de in [artikel 24, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2021-08-01&g=2021-08-01), bedoelde vermelding van de uitvinder onjuist is, of door een ander dan de uitvinder is verklaard dat op vermelding als uitvinder in het octrooi geen prijs wordt gesteld, kunnen de aanvrager en de uitvinder gezamenlijk, onder betaling van een bij of krachtens algemene maatregel van rijksbestuur vast te stellen bedrag, het bureau schriftelijk verzoeken terzake de nodige verbeteringen aan te brengen. In voorkomend geval dient het verzoek vergezeld te zijn van de schriftelijke toestemming van de ten onrechte als uitvinder aangemerkte persoon.
+2. Indien de in [artikel 24, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2023-06-01&g=2023-06-01), bedoelde vermelding van de uitvinder onjuist is, of door een ander dan de uitvinder is verklaard dat op vermelding als uitvinder in het octrooi geen prijs wordt gesteld, kunnen de aanvrager en de uitvinder gezamenlijk, onder betaling van een bij of krachtens algemene maatregel van rijksbestuur vast te stellen bedrag, het bureau schriftelijk verzoeken terzake de nodige verbeteringen aan te brengen. In voorkomend geval dient het verzoek vergezeld te zijn van de schriftelijke toestemming van de ten onrechte als uitvinder aangemerkte persoon.
 
 ##### Artikel 39
 
@@ -463,7 +471,7 @@ Vervallen
 
 ##### Artikel 41
 
-1. Binnen acht maanden na indiening van een octrooiaanvrage als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2021-08-01&g=2021-08-01) besluit Onze Minister van Defensie of de inhoud van de aanvrage in het belang van de verdediging van het Koninkrijk of zijn bondgenoten geheim moet blijven. Hij maakt zijn besluit aan het bureau bekend.
+1. Binnen acht maanden na indiening van een octrooiaanvrage als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2023-06-01&g=2023-06-01) besluit Onze Minister van Defensie of de inhoud van de aanvrage in het belang van de verdediging van het Koninkrijk of zijn bondgenoten geheim moet blijven. Hij maakt zijn besluit aan het bureau bekend.
 
 2. Een besluit dat de inhoud van de aanvrage geheim moet blijven heeft tot gevolg dat de inschrijving in het octrooiregister van de aanvrage blijft opgeschort tot drie jaren na de bekendmaking van het besluit.
 
@@ -485,11 +493,11 @@ Vervallen
 
 ##### Artikel 42
 
-1. De Staat verleent degene, ten aanzien van wiens octrooiaanvrage de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2021-08-01&g=2021-08-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2021-08-01&g=2021-08-01) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=46&z=2021-08-01&g=2021-08-01) zijn toegepast, op zijn verzoek vergoeding van schade, die hij door toepassing van die artikelen heeft geleden.
+1. De Staat verleent degene, ten aanzien van wiens octrooiaanvrage de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2023-06-01&g=2023-06-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2023-06-01&g=2023-06-01) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=46&z=2023-06-01&g=2023-06-01) zijn toegepast, op zijn verzoek vergoeding van schade, die hij door toepassing van die artikelen heeft geleden.
 
-2. Het bedrag van de schadeloosstelling wordt vastgesteld na het eindigen van de opschorting. Ingeval echter verlenging van de termijn van opschorting krachtens [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2021-08-01&g=2021-08-01), heeft plaatsgevonden, wordt het bedrag van de schadeloosstelling op verzoek van de aanvrager vastgesteld in gedeelten, waarvan het eerste betrekking heeft op de tijdsruimte vóór de aanvang van de eerste verlenging, de volgende op de tijdsruimte tussen twee opeenvolgende verlengingen en het laatste op de tijdsruimte vanaf de aanvang van de laatste verlenging tot het eindigen van de opschorting; de vaststelling geschiedt dan telkens na het verstrijken van de betrokken tijdsruimte.
+2. Het bedrag van de schadeloosstelling wordt vastgesteld na het eindigen van de opschorting. Ingeval echter verlenging van de termijn van opschorting krachtens [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2023-06-01&g=2023-06-01), heeft plaatsgevonden, wordt het bedrag van de schadeloosstelling op verzoek van de aanvrager vastgesteld in gedeelten, waarvan het eerste betrekking heeft op de tijdsruimte vóór de aanvang van de eerste verlenging, de volgende op de tijdsruimte tussen twee opeenvolgende verlengingen en het laatste op de tijdsruimte vanaf de aanvang van de laatste verlenging tot het eindigen van de opschorting; de vaststelling geschiedt dan telkens na het verstrijken van de betrokken tijdsruimte.
 
-3. De vaststelling geschiedt zo mogelijk door Onze Minister van Defensie en de aanvrager in onderling overleg. Indien binnen zes maanden na het einde van de tijdsruimte, waarvoor de vergoeding moet gelden, geen overeenstemming is bereikt, is [artikel 58, zesde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=58&z=2021-08-01&g=2021-08-01), van overeenkomstige toepassing.
+3. De vaststelling geschiedt zo mogelijk door Onze Minister van Defensie en de aanvrager in onderling overleg. Indien binnen zes maanden na het einde van de tijdsruimte, waarvoor de vergoeding moet gelden, geen overeenstemming is bereikt, is [artikel 58, zesde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=58&z=2023-06-01&g=2023-06-01), van overeenkomstige toepassing.
 
 ##### Artikel 43
 
@@ -499,15 +507,15 @@ Vervallen
 
 3. Een besluit als bedoeld in het tweede lid heeft tot gevolg dat de inschrijving in het octrooiregister van de aanvrage blijft opgeschort, totdat Onze genoemde minister besluit dat de aanvrage niet langer geheim hoeft te blijven. Indien een besluit niet binnen de in het tweede lid bedoelde termijn is genomen, eindigt de opschorting.
 
-4. [Artikel 41, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2021-08-01&g=2021-08-01), is ten aanzien van een aanvrage als in het eerste lid bedoeld van overeenkomstige toepassing.
+4. [Artikel 41, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2023-06-01&g=2023-06-01), is ten aanzien van een aanvrage als in het eerste lid bedoeld van overeenkomstige toepassing.
 
 ##### Artikel 44
 
-1. Ingeval Onze Minister van Defensie van oordeel is, dat het belang van de verdediging van het Koninkrijk vordert, dat de Staat datgene, waarvoor octrooi wordt aangevraagd in een aanvrage, waarop [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2021-08-01&g=2021-08-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2021-08-01&g=2021-08-01) of [43](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=43&z=2021-08-01&g=2021-08-01) is toegepast, gebruikt, toepast dan wel doet gebruiken of toepassen, kan hij daartoe overgaan na het desbetreffende besluit bekend te hebben gemaakt. In dit besluit worden de handelingen, die de Staat moet kunnen verrichten of doen verrichten, nauwkeurig omschreven.
+1. Ingeval Onze Minister van Defensie van oordeel is, dat het belang van de verdediging van het Koninkrijk vordert, dat de Staat datgene, waarvoor octrooi wordt aangevraagd in een aanvrage, waarop [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2023-06-01&g=2023-06-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2023-06-01&g=2023-06-01) of [43](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=43&z=2023-06-01&g=2023-06-01) is toegepast, gebruikt, toepast dan wel doet gebruiken of toepassen, kan hij daartoe overgaan na het desbetreffende besluit bekend te hebben gemaakt. In dit besluit worden de handelingen, die de Staat moet kunnen verrichten of doen verrichten, nauwkeurig omschreven.
 
 2. De Staat betaalt de aanvrager een vergoeding voor het gebruik of de toepassing krachtens het eerste lid.
 
-3. Het bedrag van deze vergoeding wordt zo mogelijk door Onze genoemde minister en de aanvrager in onderling overleg vastgesteld. Indien binnen zes maanden na de in het eerste lid bedoelde bekendmaking geen overeenstemming is bereikt, is [artikel 58, zesde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=58&z=2021-08-01&g=2021-08-01), van overeenkomstige toepassing.
+3. Het bedrag van deze vergoeding wordt zo mogelijk door Onze genoemde minister en de aanvrager in onderling overleg vastgesteld. Indien binnen zes maanden na de in het eerste lid bedoelde bekendmaking geen overeenstemming is bereikt, is [artikel 58, zesde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=58&z=2023-06-01&g=2023-06-01), van overeenkomstige toepassing.
 
 ##### Artikel 45
 
@@ -529,43 +537,43 @@ Indien de Staat zelf houder van een octrooiaanvrage is en Onze Minister van Defe
 
 ##### Artikel 47
 
-Een Europese octrooiaanvrage, die voldoet aan het bepaalde in artikel 80 van het Europees Octrooiverdrag en op grond van artikel 77, derde lid, van dat Verdrag wordt aangemerkt als te zijn ingetrokken en die, als bijlage bij een regelmatig verzoek tot omzetting in een aanvrage om octrooi in het Koninkrijk, bij het bureau is binnengekomen, hierna te noemen omgezette aanvrage, geldt als een tot het bureau gerichte en bij het bureau ingediende aanvrage om octrooi als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2021-08-01&g=2021-08-01). Een verzoek tot omzetting is regelmatig als het met inachtneming van de bepalingen van het Achtste Deel, hoofdstuk I, van het Europees Octrooiverdrag tijdig gedaan en aan het bureau doorgezonden is.
+Een Europese octrooiaanvrage, die voldoet aan het bepaalde in artikel 80 van het Europees Octrooiverdrag en op grond van artikel 77, derde lid, van dat Verdrag wordt aangemerkt als te zijn ingetrokken en die, als bijlage bij een regelmatig verzoek tot omzetting in een aanvrage om octrooi in het Koninkrijk, bij het bureau is binnengekomen, hierna te noemen omgezette aanvrage, geldt als een tot het bureau gerichte en bij het bureau ingediende aanvrage om octrooi als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2023-06-01&g=2023-06-01). Een verzoek tot omzetting is regelmatig als het met inachtneming van de bepalingen van het Achtste Deel, hoofdstuk I, van het Europees Octrooiverdrag tijdig gedaan en aan het bureau doorgezonden is.
 
 ##### Artikel 48
 
 1. Op de omgezette aanvrage wordt de datum, waarop zij bij het bureau is binnengekomen, alsmede een volgnummer vermeld. Het bureau geeft hiervan zo spoedig mogelijk kennis aan de aanvrager.
 
-2. Voor de omgezette aanvrage moet het in [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2021-08-01&g=2021-08-01), bedoelde bewijs van betaling worden overgelegd binnen een termijn van drie maanden na de in het eerste lid bedoelde datum van binnenkomst. Indien de Europese octrooiaanvrage niet in het Nederlands is ingediend moet binnen dezelfde termijn een vertaling in het Nederlands van de oorspronkelijke stukken van die aanvrage worden overgelegd. De vertaling maakt deel uit van de omgezette aanvrage; zij moet op verzoek van het bureau binnen een door dat bureau te stellen termijn worden gewaarmerkt. Indien niet tijdig is voldaan aan het in dit lid bepaalde, stelt het bureau de aanvrager eenmaal in de gelegenheid om binnen een door het bureau te stellen termijn zijn verzuim te herstellen. Indien de aanvrager zijn verzuim niet tijdig heeft hersteld, besluit het bureau de aanvrage niet te behandelen. Het bureau maakt zijn beschikking zo spoedig mogelijk aan de aanvrager bekend.
+2. Voor de omgezette aanvrage moet het in [artikel 24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2023-06-01&g=2023-06-01), bedoelde bewijs van betaling worden overgelegd binnen een termijn van drie maanden na de in het eerste lid bedoelde datum van binnenkomst. Indien de Europese octrooiaanvrage niet in het Nederlands is ingediend moet binnen dezelfde termijn een vertaling in het Nederlands van de oorspronkelijke stukken van die aanvrage worden overgelegd. De vertaling maakt deel uit van de omgezette aanvrage; zij moet op verzoek van het bureau binnen een door dat bureau te stellen termijn worden gewaarmerkt. Indien niet tijdig is voldaan aan het in dit lid bepaalde, stelt het bureau de aanvrager eenmaal in de gelegenheid om binnen een door het bureau te stellen termijn zijn verzuim te herstellen. Indien de aanvrager zijn verzuim niet tijdig heeft hersteld, besluit het bureau de aanvrage niet te behandelen. Het bureau maakt zijn beschikking zo spoedig mogelijk aan de aanvrager bekend.
 
-3. Op de omgezette aanvrage zijn de bij of krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2021-08-01&g=2021-08-01) gestelde vormvoorschriften niet van toepassing, voor zover zij afwijken van of een aanvulling betekenen op het bij of krachtens het Europees Octrooiverdrag bepaalde; in dat geval zijn laatstbedoelde bepalingen op de omgezette aanvrage van toepassing.
+3. Op de omgezette aanvrage zijn de bij of krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2023-06-01&g=2023-06-01) gestelde vormvoorschriften niet van toepassing, voor zover zij afwijken van of een aanvulling betekenen op het bij of krachtens het Europees Octrooiverdrag bepaalde; in dat geval zijn laatstbedoelde bepalingen op de omgezette aanvrage van toepassing.
 
-4. Zodra de aanvrager heeft voldaan aan het tweede lid gaat het bureau na of de aanvrage voldoet aan het bij en krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2021-08-01&g=2021-08-01) bepaalde of, indien van toepassing, de in het derde lid bedoelde bepalingen van het Europees Octrooiverdrag. Indien dat niet het geval is of indien het openbaar worden van de uitvinding in strijd zou zijn met de openbare orde of goede zeden, geeft het bureau hiervan zo spoedig mogelijk schriftelijk kennis aan de aanvrager, onder opgave van de voorschriften waaraan niet is voldaan. [Artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=30&z=2021-08-01&g=2021-08-01), is van overeenkomstige toepassing.
+4. Zodra de aanvrager heeft voldaan aan het tweede lid gaat het bureau na of de aanvrage voldoet aan het bij en krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2023-06-01&g=2023-06-01) bepaalde of, indien van toepassing, de in het derde lid bedoelde bepalingen van het Europees Octrooiverdrag. Indien dat niet het geval is of indien het openbaar worden van de uitvinding in strijd zou zijn met de openbare orde of goede zeden, geeft het bureau hiervan zo spoedig mogelijk schriftelijk kennis aan de aanvrager, onder opgave van de voorschriften waaraan niet is voldaan. [Artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=30&z=2023-06-01&g=2023-06-01), is van overeenkomstige toepassing.
 
-5. Voor de toepassing van de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2021-08-01&g=2021-08-01), [36, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=36&z=2021-08-01&g=2021-08-01), en[61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2021-08-01&g=2021-08-01), op de omgezette aanvrage wordt in plaats van "de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2021-08-01&g=2021-08-01), bedoelde datum van indiening" gelezen: de datum van indiening die de aanvrage ingevolge artikel 80 van het Europees Octrooiverdrag met inachtneming van de artikelen 61 of 76 van dat Verdrag bezit. In afwijking van [artikel 32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=32&z=2021-08-01&g=2021-08-01), kan een verzoek om een aan de verlening van het octrooi voorafgaand onderzoek naar de stand van de techniek met betrekking tot het onderwerp van de omgezette octrooiaanvrage of een daarvan afgesplitste aanvrage worden ingediend binnen twee maanden na de ingevolge [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=4&artikel=48&z=2021-08-01&g=2021-08-01), op de omgezette aanvrage vermelde datum onderscheidenlijk binnen twee maanden na indiening van de afgesplitste aanvrage.
+5. Voor de toepassing van de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2023-06-01&g=2023-06-01), [36, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=36&z=2023-06-01&g=2023-06-01), en[61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2023-06-01&g=2023-06-01), op de omgezette aanvrage wordt in plaats van "de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2023-06-01&g=2023-06-01), bedoelde datum van indiening" gelezen: de datum van indiening die de aanvrage ingevolge artikel 80 van het Europees Octrooiverdrag met inachtneming van de artikelen 61 of 76 van dat Verdrag bezit. In afwijking van [artikel 32, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=32&z=2023-06-01&g=2023-06-01), kan een verzoek om een aan de verlening van het octrooi voorafgaand onderzoek naar de stand van de techniek met betrekking tot het onderwerp van de omgezette octrooiaanvrage of een daarvan afgesplitste aanvrage worden ingediend binnen twee maanden na de ingevolge [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=4&artikel=48&z=2023-06-01&g=2023-06-01), op de omgezette aanvrage vermelde datum onderscheidenlijk binnen twee maanden na indiening van de afgesplitste aanvrage.
 
-6. De in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2021-08-01&g=2021-08-01) bedoelde inschrijving in het octrooiregister vindt niet eerder plaats dan nadat is vastgesteld dat aan de in het vierde lid bedoelde voorschriften is voldaan of de gebreken zijn hersteld.
+6. De in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2023-06-01&g=2023-06-01) bedoelde inschrijving in het octrooiregister vindt niet eerder plaats dan nadat is vastgesteld dat aan de in het vierde lid bedoelde voorschriften is voldaan of de gebreken zijn hersteld.
 
 ### Hoofdstuk 3. Bepalingen betreffende Europese octrooien en gemeenschapsoctrooien
 
 ##### Artikel 49
 
-1. Met inachtneming van het in deze rijkswet bepaalde hebben Europese octrooien vanaf de dag, waarop overeenkomstig artikel 97, derde lid, van het Europees Octrooiverdrag de vermelding van de verlening is gepubliceerd, dezelfde rechtsgevolgen en zijn zij aan hetzelfde recht onderworpen als de overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=36&z=2021-08-01&g=2021-08-01) van deze rijkswet verleende octrooien.
+1. Met inachtneming van het in deze rijkswet bepaalde hebben Europese octrooien vanaf de dag, waarop overeenkomstig artikel 97, derde lid, van het Europees Octrooiverdrag de vermelding van de verlening is gepubliceerd, dezelfde rechtsgevolgen en zijn zij aan hetzelfde recht onderworpen als de overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=36&z=2023-06-01&g=2023-06-01) van deze rijkswet verleende octrooien.
 
 2. Een Europees octrooi blijft, behoudens eerder verval of vernietiging door de rechter, van kracht tot het verstrijken van een termijn van twintig jaren, te rekenen vanaf de datum van indiening, die de Europese octrooiaanvrage, die tot het betrokken Europees octrooi heeft geleid, ingevolge artikel 80 van het Europees Octrooiverdrag met inachtneming van de artikelen 61 of 76 van dat verdrag bezit.
 
-3. Voor de toepassing van de [artikelen 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=55&z=2021-08-01&g=2021-08-01), [57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01), en [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=77&z=2021-08-01&g=2021-08-01), op Europese octrooien geldt als dag van indiening: de datum van indiening die de Europese octrooiaanvrage, die tot het betrokken Europees octrooi heeft geleid, ingevolge artikel 80 van het Europees Octrooiverdrag met inachtneming van de artikelen 61 of 76 van dat verdrag bezit.
+3. Voor de toepassing van de [artikelen 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=55&z=2023-06-01&g=2023-06-01), [57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01), en [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=77&z=2023-06-01&g=2023-06-01), op Europese octrooien geldt als dag van indiening: de datum van indiening die de Europese octrooiaanvrage, die tot het betrokken Europees octrooi heeft geleid, ingevolge artikel 80 van het Europees Octrooiverdrag met inachtneming van de artikelen 61 of 76 van dat verdrag bezit.
 
 ##### Artikel 50
 
-1. Een Europees octrooi wordt geacht van de aanvang af geheel of gedeeltelijk niet de in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53a&z=2021-08-01&g=2021-08-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2021-08-01&g=2021-08-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2021-08-01&g=2021-08-01) bedoelde rechtsgevolgen te hebben gehad naar gelang het octrooi geheel of gedeeltelijk is herroepen of beperkt.
+1. Een Europees octrooi wordt geacht van de aanvang af geheel of gedeeltelijk niet de in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01), [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01) en [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2023-06-01&g=2023-06-01) bedoelde rechtsgevolgen te hebben gehad naar gelang het octrooi geheel of gedeeltelijk is herroepen of beperkt.
 
 2. De terugwerkende kracht van de herroeping heeft geen invloed op:
 
-- a. een beslissing, niet zijnde een voorlopige voorziening, ter zake van handelingen in strijd met het in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01) en [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53a&z=2021-08-01&g=2021-08-01) bedoelde uitsluitend recht van de octrooihouder of van handelingen als bedoeld in de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2021-08-01&g=2021-08-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2021-08-01&g=2021-08-01), die voor de herroeping in kracht van gewijsde is gegaan en ten uitvoer is gelegd;
+- a. een beslissing, niet zijnde een voorlopige voorziening, ter zake van handelingen in strijd met het in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01), [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), en [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01) bedoelde recht van de octrooihouder of van handelingen als bedoeld in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2023-06-01&g=2023-06-01), die voor de herroeping in kracht van gewijsde is gegaan en ten uitvoer is gelegd;
 
 - b. een voor de herroeping gesloten overeenkomst, voor zover deze voor de herroeping is uitgevoerd; uit billijkheidsoverwegingen kan echter terugbetaling worden geëist van op grond van deze overeenkomst betaalde bedragen, en wel in de mate als door de omstandigheden gerechtvaardigd is.
 
-3. Voor de toepassing van het tweede lid, onder **b**, wordt onder het sluiten van een overeenkomst mede verstaan het ontstaan van een licentie op een andere in de [artikelen 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=56&z=2021-08-01&g=2021-08-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=59&z=2021-08-01&g=2021-08-01) of [60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=60&z=2021-08-01&g=2021-08-01) aangegeven wijze.
+3. Voor de toepassing van het tweede lid, onder **b**, wordt onder het sluiten van een overeenkomst mede verstaan het ontstaan van een licentie op een andere in de [artikelen 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=56&z=2023-06-01&g=2023-06-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=59&z=2023-06-01&g=2023-06-01) of [60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=60&z=2023-06-01&g=2023-06-01) aangegeven wijze.
 
 ##### Artikel 51
 
@@ -581,7 +589,7 @@ Een Europese octrooiaanvrage, die voldoet aan het bepaalde in artikel 80 van het
 
 3. Onverwijld na ontvangst in behoorlijke vorm van de in het eerste lid bedoelde vertalingen doet het bureau daarvan aantekening in het octrooiregister.
 
-4. Het Europees octrooi wordt geacht van de aanvang af niet de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=49&z=2021-08-01&g=2021-08-01) bedoelde rechtsgevolgen te hebben gehad, indien:
+4. Het Europees octrooi wordt geacht van de aanvang af niet de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=49&z=2023-06-01&g=2023-06-01) bedoelde rechtsgevolgen te hebben gehad, indien:
 
 - a. binnen de in het eerste lid bedoelde termijnen de in het eerste lid bedoelde vertalingen niet door het bureau zijn ontvangen onderscheidenlijk het krachtens dat lid verschuldigde bedrag niet is betaald, of
 
@@ -593,9 +601,9 @@ Een Europese octrooiaanvrage, die voldoet aan het bepaalde in artikel 80 van het
 
 7. De octrooihouder kan te allen tijde het bureau een verbeterde vertaling doen toekomen onder betaling van een bedrag, waarvan de hoogte bij of krachtens algemene maatregel van rijksbestuur wordt bepaald. Het eerste lid, tweede volzin, het tweede en het derde lid zijn van toepassing.
 
-8. Vanaf het tijdstip, waarop de in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=51&z=2021-08-01&g=2021-08-01), bedoelde aantekening in het octrooiregister is gedaan, kan een ieder kosteloos kennisnemen van alle op het Europees octrooi betrekking hebbende stukken die het bureau hebben bereikt of die het bureau aan de houder van het Europees octrooi of aan derden heeft doen uitgaan in het kader van de bepalingen van deze rijkswet. Het bureau maakt van al deze stukken zo spoedig mogelijk doch niet voor het in de eerste volzin bedoelde tijdstip melding in het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2021-08-01&g=2021-08-01) bedoelde blad.
+8. Vanaf het tijdstip, waarop de in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=51&z=2023-06-01&g=2023-06-01), bedoelde aantekening in het octrooiregister is gedaan, kan een ieder kosteloos kennisnemen van alle op het Europees octrooi betrekking hebbende stukken die het bureau hebben bereikt of die het bureau aan de houder van het Europees octrooi of aan derden heeft doen uitgaan in het kader van de bepalingen van deze rijkswet. Het bureau maakt van al deze stukken zo spoedig mogelijk doch niet voor het in de eerste volzin bedoelde tijdstip melding in het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2023-06-01&g=2023-06-01) bedoelde blad.
 
-9. Indien in de vertaling, bedoeld in het eerste of zevende lid, de beschermingomvang van de Europese octrooiaanvrage of het Europees octrooi beperkter is dan de bescherming die wordt geboden door die aanvrage of door dat octrooi in de procestaal, geldt die vertaling als authentieke tekst, behalve in geval van toepassing van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01).
+9. Indien in de vertaling, bedoeld in het eerste of zevende lid, de beschermingomvang van de Europese octrooiaanvrage of het Europees octrooi beperkter is dan de bescherming die wordt geboden door die aanvrage of door dat octrooi in de procestaal, geldt die vertaling als authentieke tekst, behalve in geval van toepassing van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01).
 
 10. Indien een houder van een Europees octrooi een vermeende inbreukpleger schriftelijk op de hoogte stelt van de inbreuk op zijn octrooi, maakt de houder van dat octrooi op verzoek van een vermeende inbreukpleger een vertaling in het Nederlands van de tekst van het octrooi en verstrekt deze tekst aan de verzoeker.
 
@@ -607,49 +615,39 @@ Een Europese octrooiaanvrage, die voldoet aan het bepaalde in artikel 80 van het
 
 ##### Artikel 53
 
-1. Een octrooi geeft de octrooihouder, behoudens de bepalingen van de [artikelen 53a tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=55&z=2021-08-01&g=2021-08-01), het uitsluitend recht:
+Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zonder zijn toestemming:
 
-- a. het geoctrooieerde voortbrengsel in of voor zijn bedrijf te vervaardigen, te gebruiken, in het verkeer te brengen of verder te verkopen, te verhuren, af te leveren of anderszins te verhandelen, dan wel voor een of ander aan te bieden, in te voeren of in voorraad te hebben;
+- a. een product dat onderwerp van het octrooi is, vervaardigt, aanbiedt, in het verkeer brengt of gebruikt, dan wel met dat doel invoert of in voorraad heeft;
 
-- b. de geoctrooieerde werkwijze in of voor zijn bedrijf toe te passen of het voortbrengsel, dat rechtstreeks verkregen is door toepassing van die werkwijze, in of voor zijn bedrijf te gebruiken, in het verkeer te brengen of verder te verkopen, te verhuren, af te leveren of anderszins te verhandelen, dan wel voor een of ander aan te bieden, in te voeren of in voorraad te hebben.
+- b. een werkwijze die onderwerp van het octrooi is, toepast of, indien de derde weet of behoort te weten dat toepassing van de werkwijze zonder toestemming van de octrooihouder verboden is, voor toepassing in Nederland, Curaçao of Sint Maarten aanbiedt;
 
-2. Het uitsluitend recht wordt bepaald door de conclusies van het octrooischrift, waarbij de beschrijving en de tekeningen dienen tot uitleg van die conclusies.
-
-3. Het uitsluitend recht strekt zich niet uit over handelingen, uitsluitend dienende tot onderzoek van het geoctrooieerde, daaronder begrepen het door toepassing van de geoctrooieerde werkwijze rechtstreeks verkregen voortbrengsel. Het uitsluitend recht strekt zich evenmin uit tot de bereiding voor direct gebruik ten behoeve van individuele gevallen op medisch voorschrift van geneesmiddelen in apotheken, noch tot handelingen betreffende de aldus bereide geneesmiddelen.
-
-4. Het uitvoeren van de noodzakelijke studies, tests en proeven met het oog op de toepassing van artikel 10, eerste tot en met vierde lid, van Richtlijn 2001/83/EG tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor menselijk gebruik (PbEG L 311) of artikel 13, eerste tot en met het vijfde lid van Richtlijn 2001/82/EG tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEG L 311) en de daaruit voortvloeiende praktische vereisten worden niet beschouwd als een inbreuk op octrooien met betrekking tot geneesmiddelen voor menselijk gebruik, respectievelijk geneesmiddelen voor diergeneeskundig gebruik.
-
-5. Is een voortbrengsel als in het eerste lid, onder a of b, bedoeld, in Nederland, Curaçao of Sint Maarten rechtmatig in het verkeer gebracht, dan wel door de octrooihouder of met diens toestemming in één der Lid-Staten van de Europese Gemeenschap of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het verkeer gebracht, dan handelt de verkrijger of latere houder niet in strijd met het octrooi, door dit voortbrengsel in of voor zijn bedrijf te gebruiken, te verkopen, te verhuren, af te leveren of anderszins te verhandelen, dan wel voor een of ander aan te bieden, in te voeren of in voorraad te hebben.
-
-6. Een voortbrengsel als in het eerste lid, onder a of b, bedoeld, dat voor de verlening van het octrooi, of, indien het een Europees octrooi betreft, voor de dag, waarop overeenkomstig artikel 97, derde lid, van het Europees Octrooiverdrag de vermelding van de verlening van het Europees octrooi is gepubliceerd, in een bedrijf is vervaardigd, mag niettegenstaande het octrooi ten dienste van dat bedrijf worden gebruikt.
+- c. een product dat rechtstreeks is verkregen volgens de werkwijze die onderwerp van het octrooi is, aanbiedt, in het verkeer brengt of gebruikt, dan wel met dat doel invoert of in voorraad heeft.
 
 ##### Artikel 54
 
-Het uitsluitend recht van de octrooihouder strekt zich niet uit tot:
+1. Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zonder zijn toestemming, in Nederland, Curaçao of Sint Maarten, aan een ander dan degene die gerechtigd is de geoctrooieerde uitvinding te gebruiken, middelen die een wezenlijk bestanddeel van die uitvinding betreffen, voor de toepassing van die uitvinding op dat grondgebied, aanbiedt of levert, indien de derde weet of behoort te weten dat deze middelen geschikt en bestemd zijn voor toepassing van die uitvinding.
 
-- a. het gebruik aan boord van schepen van andere landen van datgene, wat het voorwerp van zijn octrooi uitmaakt, in het schip zelf, in de machines, het scheepswant, de tuigage en andere bijbehorende zaken, wanneer die schepen tijdelijk of bij toeval in de wateren van Nederland, Curaçao of Sint Maarten verblijven, mits bedoeld gebruik uitsluitend zal zijn ten behoeve van het schip;
+2. Het eerste lid geldt niet indien de middelen algemeen in de handel verkrijgbare producten zijn, tenzij de derde degene aan wie hij levert, aanzet tot het verrichten van een krachtens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) verboden handeling.
 
-- b. het gebruik van datgene, wat het voorwerp van zijn octrooi uitmaakt, in de constructie of werking van voor de voortbeweging in de lucht of te land dienende machines van andere landen, of van het toebehoren van die machines, wanneer deze tijdelijk of bij toeval in Nederland, Curaçao of Sint Maarten verblijven;
-
-- c. handelingen, vermeld in artikel 27 van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerlijke luchtvaart (**Stb.** 1947, H 165), mits deze handelingen betrekking hebben op een luchtvaartuig van een onder c van dat artikel bedoelde andere staat dan het Koninkrijk of een daartoe behorend land.
+3. Degene die de in [artikel 54c, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54c&z=2023-06-01&g=2023-06-01), bedoelde handelingen verricht, wordt niet geacht in de zin van het eerste lid gerechtigd te zijn de uitvinding te gebruiken.
 
 ##### Artikel 55
 
-1. Degene, die datgene waarvoor door een ander een octrooi is gevraagd, in Nederland, Curaçao of Sint Maarten reeds in of voor zijn bedrijf vervaardigde of toepaste of aan zijn voornemen tot zodanige vervaardiging of toepassing een begin van uitvoering had gegeven op de dag van indiening van die aanvrage of, indien de aanvrager een recht van voorrang geniet ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=9&z=2021-08-01&g=2021-08-01), dan wel ingevolge artikel 87 van het Europees Octrooiverdrag, op de dag van indiening van de aanvrage, waarop het recht van voorrang berust, blijft niettegenstaande het octrooi, als voorgebruiker bevoegd de in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), bedoelde handelingen te verrichten, tenzij hij zijn wetenschap ontleend heeft aan hetgeen reeds door de octrooiaanvrager vervaardigd of toegepast werd, of wel aan beschrijvingen, tekeningen of modellen van de octrooiaanvrager.
+1. Degene, die datgene waarvoor door een ander een octrooi is gevraagd, in Nederland, Curaçao of Sint Maarten reeds in of voor zijn bedrijf vervaardigde of toepaste of aan zijn voornemen tot zodanige vervaardiging of toepassing een begin van uitvoering had gegeven op de dag van indiening van die aanvrage of, indien de aanvrager een recht van voorrang geniet ingevolge [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=9&z=2023-06-01&g=2023-06-01), dan wel ingevolge artikel 87 van het Europees Octrooiverdrag, op de dag van indiening van de aanvrage, waarop het recht van voorrang berust, blijft niettegenstaande het octrooi, als voorgebruiker bevoegd de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) bedoelde handelingen te verrichten, tenzij hij zijn wetenschap ontleend heeft aan hetgeen reeds door de octrooiaanvrager vervaardigd of toegepast werd, of wel aan beschrijvingen, tekeningen of modellen van de octrooiaanvrager.
 
 2. Het eerste lid is van overeenkomstige toepassing ten aanzien van dat deel van het aan Nederland, Curaçao of Sint Maarten grenzende continentaal plat, waarop het Koninkrijk soevereine rechten heeft, doch uitsluitend voor zover het handelingen betreft, gericht op en verricht tijdens het onderzoek naar de aanwezigheid van natuurlijke rijkdommen of het winnen daarvan.
 
-3. Degene, die te goeder trouw datgene waarvoor aan een ander een Europees octrooi is verleend, reeds in of voor zijn bedrijf vervaardigde of toepaste of aan zijn voornemen tot zodanige vervaardiging of toepassing een begin van uitvoering had gegeven voor de datum waarop van een verbeterde vertaling als bedoeld in [artikel 52, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=52&z=2021-08-01&g=2021-08-01), aantekening is gedaan in het octrooiregister, blijft niettegenstaande het octrooi bevoegd de in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), bedoelde handelingen te verrichten, voor zover deze handelingen geen inbreuk maken op het uitsluitend recht van de octrooihouder, welk recht in dit geval bepaald wordt door de inhoud van de conclusies van het octrooischrift en de voor de uitleg daarvan bedoelde beschrijving en tekeningen in de eerdere, gebrekkige vertaling in het Nederlands.
+3. Degene, die te goeder trouw datgene waarvoor aan een ander een Europees octrooi is verleend, reeds in of voor zijn bedrijf vervaardigde of toepaste of aan zijn voornemen tot zodanige vervaardiging of toepassing een begin van uitvoering had gegeven voor de datum waarop van een verbeterde vertaling als bedoeld in [artikel 52, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=52&z=2023-06-01&g=2023-06-01), aantekening is gedaan in het octrooiregister, blijft niettegenstaande het octrooi bevoegd de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) bedoelde handelingen te verrichten, voor zover deze handelingen geen inbreuk maken op het recht van de octrooihouder, bedoeld in de artikelen 53, [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), en [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01), waarbij de beschermingsomvang van het octrooi in dit geval bepaald wordt door de inhoud van de conclusies van het octrooischrift en de voor de uitleg daarvan bedoelde beschrijving en tekeningen in de eerdere, gebrekkige vertaling in het Nederlands.
 
 4. De in het eerste en het derde lid bedoelde bevoegdheden gaan alleen met het bedrijf op anderen over.
 
 ##### Artikel 56
 
-1. Door een licentie wordt van de octrooihouder de bevoegdheid verkregen handelingen te verrichten, die volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01) aan anderen dan hem niet vrijstaan. Die bevoegdheid strekt zich uit tot alle in bedoeld artikel vermelde handelingen en geldt voor de gehele duur van het octrooi, tenzij bij de verlening der licentie een minder omvangrijk recht is toegekend.
+1. Door een licentie wordt van de octrooihouder de bevoegdheid verkregen handelingen te verrichten, die volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) aan anderen dan hem niet vrijstaan. Die bevoegdheid strekt zich uit tot alle in bedoeld artikel vermelde handelingen en geldt voor de gehele duur van het octrooi, tenzij bij de verlening der licentie een minder omvangrijk recht is toegekend.
 
-2. Een licentie ontstaat door een overeenkomst, door een aanvaarde uiterste wilsbeschikking of, overeenkomstig de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=58&z=2021-08-01&g=2021-08-01), door een beschikking van Onze Minister of door een in kracht van gewijsde gegane rechterlijke uitspraak. De door een overeenkomst of aanvaarde wilsbeschikking ontstane licentie is tegenover derden geldig, nadat de titel in het octrooiregister is ingeschreven. Voor de inschrijving is een bij of krachtens algemene maatregel van rijksbestuur vast te stellen bedrag verschuldigd.
+2. Een licentie ontstaat door een overeenkomst, door een aanvaarde uiterste wilsbeschikking of, overeenkomstig de [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=58&z=2023-06-01&g=2023-06-01), door een beschikking van Onze Minister of door een in kracht van gewijsde gegane rechterlijke uitspraak. De door een overeenkomst of aanvaarde wilsbeschikking ontstane licentie is tegenover derden geldig, nadat de titel in het octrooiregister is ingeschreven. Voor de inschrijving is een bij of krachtens algemene maatregel van rijksbestuur vast te stellen bedrag verschuldigd.
 
-3. Indien het recht op een vergoeding voor een licentie ingevolge [artikel 75, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), of [artikel 78, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=78&z=2021-08-01&g=2021-08-01), op een ander overgaat, wordt door de nieuwe rechthebbende aanspraak verkregen op een deel van de in het geheel voor de licentie betaalde en te betalen vergoeding in verhouding tot de tijd, gedurende welke de licentie in normale omstandigheden nog van kracht moet blijven. Is hetgeen de licentiehouder nog moet betalen niet voldoende om de nieuwe rechthebbende te verschaffen wat hem toekomt, dan heeft deze voor het ontbrekende verhaal op de vroegere.
+3. Indien het recht op een vergoeding voor een licentie ingevolge [artikel 75, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), of [artikel 78, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=78&z=2023-06-01&g=2023-06-01), op een ander overgaat, wordt door de nieuwe rechthebbende aanspraak verkregen op een deel van de in het geheel voor de licentie betaalde en te betalen vergoeding in verhouding tot de tijd, gedurende welke de licentie in normale omstandigheden nog van kracht moet blijven. Is hetgeen de licentiehouder nog moet betalen niet voldoende om de nieuwe rechthebbende te verschaffen wat hem toekomt, dan heeft deze voor het ontbrekende verhaal op de vroegere.
 
 4. Bij of krachtens algemene maatregel van rijksbestuur worden nadere regels gesteld over de aanvraag tot inschrijving van een licentie.
 
@@ -657,11 +655,11 @@ Het uitsluitend recht van de octrooihouder strekt zich niet uit tot:
 
 1. Onze Minister kan, indien het algemeen belang dit naar zijn oordeel vordert, onder een octrooi een licentie van een door hem nauwkeurig omschreven inhoud aan een door hem aangewezen persoon verlenen. Alvorens zijn beschikking te geven onderzoekt Onze Minister, tenzij de te dezen vereiste spoed zich daartegen verzet, of de octrooihouder bereid is de licentie onder redelijke voorwaarden vrijwillig te verlenen. Hij stelt daartoe de octrooihouder in de gelegenheid schriftelijk en, zo deze dit verzoekt, ook mondeling van zijn gevoelen te doen blijken. De beschikking wordt aan de octrooihouder en aan de verkrijger van de licentie bekendgemaakt. Bij zijn beschikking kan Onze Minister de verkrijger van de licentie het stellen van zekerheid binnen een bepaalde termijn opleggen. Het instellen van bezwaar en beroep heeft schorsende werking, tenzij de beschikking van Onze Minister op grond van de te dezen vereiste spoed anders bepaalt.
 
-2. Indien noch de octrooihouder, noch een ander krachtens een hem verleende licentie na verloop van drie jaren na dagtekening van het octrooi in het Koninkrijk of in een andere, bij algemene maatregel van rijksbestuur aangewezen staat in werking heeft een inrichting van nijverheid, waarin te goeder trouw in voldoende mate het betrokken voortbrengsel wordt vervaardigd of de betrokken werkwijze wordt toegepast, is de octrooihouder verplicht de voor het in werking hebben van zodanige inrichting nodige licentie te verlenen, tenzij geldige redenen voor het ontbreken van zodanige inrichting blijken te bestaan. Voor de houder van een Europees octrooi ontstaat deze verplichting, indien niet na verloop van drie jaren na de dag, waarop overeenkomstig artikel 97, vierde lid, van het Europees Octrooiverdrag de vermelding van de verlening van het Europees octrooi is gepubliceerd, een inrichting van nijverheid als hiervoor bedoeld in werking is in Nederland, Curaçao of Sint Maarten of in een andere, bij algemene maatregel van rijksbestuur aangewezen staat.
+2. Indien noch de octrooihouder, noch een ander krachtens een hem verleende licentie na verloop van drie jaren na dagtekening van het octrooi in het Koninkrijk of in een andere, bij algemene maatregel van rijksbestuur aangewezen staat in werking heeft een inrichting van nijverheid, waarin te goeder trouw in voldoende mate het betrokken product wordt vervaardigd of de betrokken werkwijze wordt toegepast, is de octrooihouder verplicht de voor het in werking hebben van zodanige inrichting nodige licentie te verlenen, tenzij geldige redenen voor het ontbreken van zodanige inrichting blijken te bestaan. Voor de houder van een Europees octrooi of een Europees octrooi met eenheidswerking ontstaat deze verplichting, indien niet na verloop van drie jaren na de dag, waarop overeenkomstig artikel 97, vierde lid, van het Europees Octrooiverdrag de vermelding van de verlening van het Europees octrooi is gepubliceerd, een inrichting van nijverheid als hiervoor bedoeld in werking is in Nederland, Curaçao of Sint Maarten of in een andere, bij algemene maatregel van rijksbestuur aangewezen staat.
 
 3. Het tweede lid is niet van toepassing, indien de octrooihouder of een ander krachtens een hem verleende licentie in dat deel van het aan Nederland, Curaçao of Sint Maarten grenzende continentaal plat, waarop het Koninkrijk soevereine rechten heeft, in werking heeft een inrichting van nijverheid, waarin te goeder trouw in voldoende mate handelingen als in dat lid bedoeld worden verricht, mits die handelingen zijn gericht op en worden verricht tijdens het onderzoek naar de aanwezigheid van natuurlijke rijkdommen of het winnen daarvan.
 
-4. De octrooihouder is te allen tijde verplicht de licentie te verlenen welke nodig mocht zijn voor de toepassing van een octrooi, verleend op een aanvrage met een gelijke of latere dag van indiening of, indien voor de aanvrage een recht van voorrang bestaat, gelijke of latere voorrangsdatum, voor zover in het octrooi ten behoeve waarvan de licentie is gevraagd, een belangrijke technische vooruitgang van aanzienlijke economische betekenis is belichaamd; de octrooihouder is evenwel tot verlening van een licentie welke nodig mocht zijn voor de toepassing van een Europees octrooi eerst verplicht nadat de voor het instellen van oppositie tegen het Europees octrooi gestelde termijn is verstreken of een ingestelde oppositieprocedure is afgesloten. Een zodanige licentie strekt zich niet verder uit dan noodzakelijk is voor de toepassing van het octrooi van de verkrijger. Deze is verplicht aan de houder van het andere octrooi wederkerig licentie onder zijn octrooi te verlenen.
+4. De octrooihouder is te allen tijde verplicht de licentie te verlenen welke nodig mocht zijn voor de toepassing van een octrooi, verleend op een aanvrage met een gelijke of latere dag van indiening of, indien voor de aanvrage een recht van voorrang bestaat, gelijke of latere voorrangsdatum, voor zover in het octrooi ten behoeve waarvan de licentie is gevraagd, een belangrijke technische vooruitgang van aanzienlijke economische betekenis is belichaamd; de octrooihouder is evenwel tot verlening van een licentie welke nodig mocht zijn voor de toepassing van een Europees octrooi of een Europees octrooi met eenheidswerking eerst verplicht nadat de voor het instellen van oppositie tegen het Europees octrooi gestelde termijn is verstreken of een ingestelde oppositieprocedure is afgesloten. Een zodanige licentie strekt zich niet verder uit dan noodzakelijk is voor de toepassing van het octrooi van de verkrijger. Deze is verplicht aan de houder van het andere octrooi wederkerig licentie onder zijn octrooi te verlenen.
 
 5. De octrooihouder verleent aan een kweker een licentie tegen een redelijke vergoeding, indien de kweker een kwekersrecht op een plantenras niet kan verkrijgen of exploiteren zonder inbreuk te maken op het octrooi van eerdere datum en de licentie noodzakelijk is voor de exploitatie van het te beschermen plantenras, dat een belangrijke technische vooruitgang van aanzienlijk economisch belang vertegenwoordigt ten opzichte van de door het octrooi beschermde uitvinding.
 
@@ -669,47 +667,47 @@ Het uitsluitend recht van de octrooihouder strekt zich niet uit tot:
 
 ##### Artikel 57a
 
-In afwijking van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01) kan een gedwongen licentie onder een octrooi op het gebied van de halfgeleiderstechnologie alleen worden verleend voor niet-commercieel gebruik door de overheid of voor het tegengaan van een gedraging waarvan na een rechterlijke of administratieve procedure is vastgesteld dat deze concurrentiebeperkend is.
+In afwijking van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01) kan een gedwongen licentie onder een octrooi op het gebied van de halfgeleiderstechnologie alleen worden verleend voor niet-commercieel gebruik door de overheid of voor het tegengaan van een gedraging waarvan na een rechterlijke of administratieve procedure is vastgesteld dat deze concurrentiebeperkend is.
 
 ##### Artikel 58
 
-1. Indien de licentie, bedoeld in [artikel 57, tweede, vierde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01), ten onrechte niet is verleend, wordt de licentie op vordering van de belanghebbende door de rechter verleend. Op verzoek van eiser wordt de dagvaarding door het bureau in het octrooiregister ingeschreven.
+1. Indien de licentie, bedoeld in [artikel 57, tweede, vierde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01), ten onrechte niet is verleend, wordt de licentie op vordering van de belanghebbende door de rechter verleend. Op verzoek van eiser wordt de dagvaarding door het bureau in het octrooiregister ingeschreven.
 
 2. Indien het octrooi op grond van deze rijkswet is verleend, is de eiser in zijn rechtsvordering niet ontvankelijk als hij niet bij dagvaarding als bijlage daarbij het resultaat van een door het bureau of het in het Europees Octrooiverdrag bedoelde Europees Octrooibureau ingesteld onderzoek naar de stand van de techniek met betrekking tot het onderwerp van het octrooi, ten behoeve waarvan de licentie is gevorderd, overlegt.
 
-3. De verlening van een op grond van [artikel 57, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01), gevorderde licentie kan met of zonder tijdsbepaling worden geschorst, indien binnen twee maanden na de betekening van de dagvaarding waarin de licentie is gevorderd, een vordering tot vernietiging van het octrooi, ten behoeve waarvan de licentie is gevorderd, is ingesteld.
+3. De verlening van een op grond van [artikel 57, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01), gevorderde licentie kan met of zonder tijdsbepaling worden geschorst, indien binnen twee maanden na de betekening van de dagvaarding waarin de licentie is gevorderd, een vordering tot vernietiging van het octrooi, ten behoeve waarvan de licentie is gevorderd, is ingesteld.
 
-4. De rechter kan bij de omschrijving van de verleende licentie afwijken van hetgeen gevraagd is en kan voorts de verkrijger van de licentie het stellen van zekerheid binnen een bepaalde termijn opleggen. Een op grond van [artikel 57, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01), verleende licentie zal slechts kunnen worden overgedragen tezamen met het octrooi van de licentiehouder. Een op grond van [artikel 57, vierde lid, eerste of derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01), verleende licentie vervalt niet doordat het octrooi, ten behoeve waarvan de licentie is verleend, als gevolg van het verstrijken van de in [artikel 36, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=36&z=2021-08-01&g=2021-08-01), bedoelde termijn is geëindigd of met goed gevolg is opgeëist, doch vervalt wel voor zover het octrooi geheel of gedeeltelijk is vernietigd als resultaat van de in het derde lid bedoelde vordering.
+4. De rechter kan bij de omschrijving van de verleende licentie afwijken van hetgeen gevraagd is en kan voorts de verkrijger van de licentie het stellen van zekerheid binnen een bepaalde termijn opleggen. Een op grond van [artikel 57, vierde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01), verleende licentie zal slechts kunnen worden overgedragen tezamen met het octrooi van de licentiehouder. Een op grond van [artikel 57, vierde lid, eerste of derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01), verleende licentie vervalt niet doordat het octrooi, ten behoeve waarvan de licentie is verleend, als gevolg van het verstrijken van de in [artikel 36, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=36&z=2023-06-01&g=2023-06-01), bedoelde termijn is geëindigd of met goed gevolg is opgeëist, doch vervalt wel voor zover het octrooi geheel of gedeeltelijk is vernietigd als resultaat van de in het derde lid bedoelde vordering.
 
-5. Een besluit als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01), of een in kracht van gewijsde gegane rechterlijke uitspraak wordt door het bureau in het octrooiregister ingeschreven. Is het stellen van zekerheid opgelegd, dan heeft de inschrijving niet plaats, voordat aan die verplichting is voldaan. Voor de inschrijving is een bij of krachtens algemene maatregel van rijksbestuur vast te stellen bedrag verschuldigd. De licentie werkt eerst na die inschrijving, maar dan ook tegenover hen, die na de inschrijving van de in het eerste lid bedoelde dagvaarding rechten op het octrooi hebben verkregen. Een ingeschreven licentie, die op grond van [artikel 57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01), is verleend, werkt echter terug tot en met de dag waarop de dagvaarding is ingeschreven.
+5. Een besluit als bedoeld in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01), of een in kracht van gewijsde gegane rechterlijke uitspraak wordt door het bureau in het octrooiregister ingeschreven. Is het stellen van zekerheid opgelegd, dan heeft de inschrijving niet plaats, voordat aan die verplichting is voldaan. Voor de inschrijving is een bij of krachtens algemene maatregel van rijksbestuur vast te stellen bedrag verschuldigd. De licentie werkt eerst na die inschrijving, maar dan ook tegenover hen, die na de inschrijving van de in het eerste lid bedoelde dagvaarding rechten op het octrooi hebben verkregen. Een ingeschreven licentie, die op grond van [artikel 57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01), is verleend, werkt echter terug tot en met de dag waarop de dagvaarding is ingeschreven.
 
-6. Op vordering van de meest gerede partij bepaalt de rechter bij gebreke van overeenstemming de vergoeding, die de verkrijger van de licentie aan de octrooihouder dient te betalen. De rechter kan daarbij de verkrijger van de licentie het stellen van zekerheid binnen een bepaalde termijn opleggen, dan wel de op grond van [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01), of het vijfde lid van dit artikel bepaalde zekerheid bevestigen of wijzigen.
+6. Op vordering van de meest gerede partij bepaalt de rechter bij gebreke van overeenstemming de vergoeding, die de verkrijger van de licentie aan de octrooihouder dient te betalen. De rechter kan daarbij de verkrijger van de licentie het stellen van zekerheid binnen een bepaalde termijn opleggen, dan wel de op grond van [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01), of het vijfde lid van dit artikel bepaalde zekerheid bevestigen of wijzigen.
 
 ##### Artikel 58a
 
-1. Een op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01) verleende licentie is niet uitsluitend.
+1. Een op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01) verleende licentie is niet uitsluitend.
 
-2. Een op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01) verleende licentie kan niet worden overgedragen dan tezamen met het gedeelte van de onderneming of de goodwill van het gedeelte van de onderneming, waarin de licentie wordt uitgeoefend.
+2. Een op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01) verleende licentie kan niet worden overgedragen dan tezamen met het gedeelte van de onderneming of de goodwill van het gedeelte van de onderneming, waarin de licentie wordt uitgeoefend.
 
-3. Een op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01) verleende licentie kan worden ingetrokken wanneer, rekening houdend met een redelijke bescherming van de gerechtvaardigde belangen van de licentiehouder, de omstandigheden welke hebben geleid tot de verlening van de licentie ophouden te bestaan en het onwaarschijnlijk is dat zij herleven. De instantie welke de licentie heeft verleend onderzoekt op gemotiveerd verzoek het voortduren van bovengenoemde omstandigheden.
+3. Een op grond van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01) verleende licentie kan worden ingetrokken wanneer, rekening houdend met een redelijke bescherming van de gerechtvaardigde belangen van de licentiehouder, de omstandigheden welke hebben geleid tot de verlening van de licentie ophouden te bestaan en het onwaarschijnlijk is dat zij herleven. De instantie welke de licentie heeft verleend onderzoekt op gemotiveerd verzoek het voortduren van bovengenoemde omstandigheden.
 
 ##### Artikel 59
 
-1. Bij koninklijk besluit kan, indien het belang van de verdediging van het Koninkrijk dit vordert, op gemeenschappelijke voordracht van Onze Minister en van Onze minister, wie het rechtstreeks aangaat, worden bepaald, dat de Staat bevoegd is in dat besluit nauwkeurig te omschrijven handelingen, waartoe de houder van een in dat besluit aan te wijzen octrooi ingevolge de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01) en [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53a&z=2021-08-01&g=2021-08-01) uitsluitend gerechtigd is, zelf te verrichten of door anderen te doen verrichten. Deze bevoegdheid geldt voor de gehele duur van het octrooi, tenzij in het besluit een kortere duur is bepaald.
+1. Bij koninklijk besluit kan, indien het belang van de verdediging van het Koninkrijk dit vordert, op gemeenschappelijke voordracht van Onze Minister en van Onze minister, wie het rechtstreeks aangaat, worden bepaald, dat de Staat bevoegd is in dat besluit nauwkeurig te omschrijven handelingen, waartoe de houder van een in dat besluit aan te wijzen octrooi ingevolge de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) en [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01) gerechtigd is, zelf te verrichten of door anderen te doen verrichten. Deze bevoegdheid geldt voor de gehele duur van het octrooi, tenzij in het besluit een kortere duur is bepaald.
 
-2. Na het van kracht worden van een besluit als bedoeld in het eerste lid zal Onze minister, wie het rechtstreeks aangaat, zich met de octrooihouder verstaan omtrent de door de Staat aan deze te betalen vergoeding. Indien Onze minister, wie het rechtstreeks aangaat, hierover niet binnen zes maanden na het van kracht worden van het desbetreffende besluit met de octrooihouder tot overeenstemming is gekomen, is [artikel 58, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=58&z=2021-08-01&g=2021-08-01), met uitzondering van het omtrent het stellen van zekerheid bepaalde, van overeenkomstige toepassing.
+2. Na het van kracht worden van een besluit als bedoeld in het eerste lid zal Onze minister, wie het rechtstreeks aangaat, zich met de octrooihouder verstaan omtrent de door de Staat aan deze te betalen vergoeding. Indien Onze minister, wie het rechtstreeks aangaat, hierover niet binnen zes maanden na het van kracht worden van het desbetreffende besluit met de octrooihouder tot overeenstemming is gekomen, is [artikel 58, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=58&z=2023-06-01&g=2023-06-01), met uitzondering van het omtrent het stellen van zekerheid bepaalde, van overeenkomstige toepassing.
 
 ##### Artikel 60
 
-1. Onverminderd [artikel 56, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=56&z=2021-08-01&g=2021-08-01), ontstaat een licentie door:
+1. Onverminderd [artikel 56, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=56&z=2023-06-01&g=2023-06-01), ontstaat een licentie door:
 
 - a. een uitspraak van de Arbitrage-Commissie, bedoeld in artikel 20 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (Euratom) (Trb. 1957, 92);
 
 - b. een besluit van Onze Minister ter uitvoering van artikel 21 van genoemd verdrag.
 
-2. Ten aanzien van een licentie, ontstaan door een eindbeslissing als bedoeld in het eerste lid, onder a, is [artikel 56, tweede lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=56&z=2021-08-01&g=2021-08-01), van overeenkomstige toepassing.
+2. Ten aanzien van een licentie, ontstaan door een eindbeslissing als bedoeld in het eerste lid, onder a, is [artikel 56, tweede lid, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=56&z=2023-06-01&g=2023-06-01), van overeenkomstige toepassing.
 
-3. Ten aanzien van een besluit als bedoeld in het eerste lid, onder b, is [artikel 58, eerste, vierde en vijfde lid, eerste, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=58&z=2021-08-01&g=2021-08-01), van overeenkomstige toepassing. Ten aanzien van een door zodanig besluit ontstane licentie is [artikel 58, vijfde lid, vierde volzin, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=58&z=2021-08-01&g=2021-08-01), van overeenkomstige toepassing.
+3. Ten aanzien van een besluit als bedoeld in het eerste lid, onder b, is [artikel 58, eerste, vierde en vijfde lid, eerste, tweede en derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=58&z=2023-06-01&g=2023-06-01), van overeenkomstige toepassing. Ten aanzien van een door zodanig besluit ontstane licentie is [artikel 58, vijfde lid, vierde volzin, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=58&z=2023-06-01&g=2023-06-01), van overeenkomstige toepassing.
 
 4. Een licentie als bedoeld in het eerste lid geldt niet voor Curaçao en Sint Maarten.
 
@@ -717,7 +715,7 @@ In afwijking van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&ho
 
 ##### Artikel 61
 
-1. Voor de instandhouding van een octrooi moet elk jaar, voor het eerst voor de aanvang van het vierde jaar na de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2021-08-01&g=2021-08-01), bedoelde datum van indiening, op de laatste dag van de maand waarin de aanvrage die tot octrooi heeft geleid is ingediend, of ingevolge [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2021-08-01&g=2021-08-01), wordt aangemerkt te zijn ingediend, aan het bureau een bij of krachtens algemene maatregel van rijksbestuur vast te stellen bedrag worden betaald.
+1. Voor de instandhouding van een octrooi moet elk jaar, voor het eerst voor de aanvang van het vierde jaar na de in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2023-06-01&g=2023-06-01), bedoelde datum van indiening, op de laatste dag van de maand waarin de aanvrage die tot octrooi heeft geleid is ingediend, of ingevolge [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2023-06-01&g=2023-06-01), wordt aangemerkt te zijn ingediend, aan het bureau een bij of krachtens algemene maatregel van rijksbestuur vast te stellen bedrag worden betaald.
 
 2. Voor de instandhouding van een Europees octrooi moet elk jaar, voor het eerst na afloop van het in artikel 86, vierde lid, van het Europees Octrooiverdrag bedoelde jaar doch niet eerder dan voor de aanvang van het vierde jaar na de in artikel 80 van het Europees Octrooiverdrag bedoelde datum van indiening, aan het bureau een bedrag als in het eerste lid bedoeld worden betaald en wel op de laatste dag van de maand waarin de datum van indiening valt, die de Europese octrooiaanvrage, die tot het octrooi heeft geleid, ingevolge artikel 80 van het Europees Octrooiverdrag met inachtneming van de artikelen 61 of 76 van dat verdrag, bezit. Indien het voor de eerste maal verschuldigde bedrag zou moeten worden betaald binnen een termijn van twee maanden na de dag waarop overeenkomstig artikel 97, vierde lid, van het Europees Octrooiverdrag de vermelding van de verlening van het Europees octrooi is gepubliceerd, kan dit bedrag nog worden betaald op de laatste dag van de maand waarin deze termijn eindigt.
 
@@ -725,11 +723,11 @@ In afwijking van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&ho
 
 ##### Artikel 62
 
-Een octrooi vervalt van rechtswege, wanneer de in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2021-08-01&g=2021-08-01) genoemde bedragen niet binnen zes kalendermaanden na de daar genoemde vervaldag zijn betaald. Van dit vervallen wordt in het octrooiregister van het bureau aantekening gedaan.
+Een octrooi vervalt van rechtswege, wanneer de in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2023-06-01&g=2023-06-01) genoemde bedragen niet binnen zes kalendermaanden na de daar genoemde vervaldag zijn betaald. Van dit vervallen wordt in het octrooiregister van het bureau aantekening gedaan.
 
 ##### Artikel 63
 
-1. Een octrooihouder kan geheel of gedeeltelijk afstand doen van zijn octrooi. De afstand heeft terugwerkende kracht overeenkomstig [artikel 75, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01).
+1. Een octrooihouder kan geheel of gedeeltelijk afstand doen van zijn octrooi. De afstand heeft terugwerkende kracht overeenkomstig [artikel 75, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01).
 
 2. De afstand geschiedt door de inschrijving van een daartoe strekkende akte in het octrooiregister. Het bureau schrijft de akte niet in zolang er personen zijn, die krachtens in het octrooiregister ingeschreven stukken rechten op het octrooi of licenties hebben verkregen of rechtsvorderingen, het octrooi betreffende, hebben ingesteld en deze personen tot de afstand geen toestemming hebben verleend.
 
@@ -755,9 +753,9 @@ Een octrooi vervalt van rechtswege, wanneer de in [artikel 61](https://wetten.ov
 
 1. Indien het octrooi aan verscheidene personen gezamenlijk toekomt, wordt hun onderlinge verhouding beheerst door hetgeen tussen hen bij overeenkomst is bepaald.
 
-2. Indien er geen overeenkomst is of indien in de overeenkomst niet anders is bepaald, heeft iedere rechthebbende de bevoegdheid de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01) genoemde handelingen te verrichten en tegen zulke handelingen alsmede handelingen als bedoeld in [artikel 73, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2021-08-01&g=2021-08-01), die onbevoegdelijk zijn verricht, ingevolge de [artikelen 70 tot en met 73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=70&z=2021-08-01&g=2021-08-01) op te treden, doch kan een licentie of toestemming als bedoeld in [artikel 73, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2021-08-01&g=2021-08-01), door de rechthebbenden slechts met gemeen goedvinden verleend worden.
+2. Indien er geen overeenkomst is of indien in de overeenkomst niet anders is bepaald, heeft iedere rechthebbende de bevoegdheid de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) genoemde handelingen te verrichten en tegen zulke handelingen alsmede handelingen als bedoeld in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), die onbevoegdelijk zijn verricht, ingevolge de [artikelen 70 tot en met 73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=70&z=2023-06-01&g=2023-06-01) op te treden, doch kan een licentie of toestemming door de rechthebbenden slechts met gemeen goedvinden verleend worden.
 
-3. Voor de betaling van de in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2021-08-01&g=2021-08-01) genoemde bedragen zijn de rechthebbenden hoofdelijk verbonden.
+3. Voor de betaling van de in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2023-06-01&g=2023-06-01) genoemde bedragen zijn de rechthebbenden hoofdelijk verbonden.
 
 ##### Artikel 67
 
@@ -777,7 +775,7 @@ Een octrooi vervalt van rechtswege, wanneer de in [artikel 61](https://wetten.ov
 
 2. Een vervreemding, bezwaring, onderbewindstelling of verlening van een licentie, totstandgekomen na de inschrijving van het proces-verbaal, kan tegen de beslaglegger niet worden ingeroepen.
 
-3. De voor de inschrijving van het proces-verbaal nog niet betaalde licentievergoedingen vallen mede onder een op het octrooi gelegd beslag, nadat het ingeschreven beslag aan de houder van de licentie is betekend. Deze vergoedingen moeten worden betaald aan de notaris voor wie de executie zal plaatsvinden, mits dit bij de betekening uitdrukkelijk aan de licentiehouder is medegedeeld, en behoudens de rechten van derden die de executant moet eerbiedigen. Hetgeen aan de notaris wordt betaald, wordt tot de in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=3&artikel=69&z=2021-08-01&g=2021-08-01), bedoelde opbrengst gerekend. De [artikelen 475i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475i), [476](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476) en [478 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=478) zijn van overeenkomstige toepassing.
+3. De voor de inschrijving van het proces-verbaal nog niet betaalde licentievergoedingen vallen mede onder een op het octrooi gelegd beslag, nadat het ingeschreven beslag aan de houder van de licentie is betekend. Deze vergoedingen moeten worden betaald aan de notaris voor wie de executie zal plaatsvinden, mits dit bij de betekening uitdrukkelijk aan de licentiehouder is medegedeeld, en behoudens de rechten van derden die de executant moet eerbiedigen. Hetgeen aan de notaris wordt betaald, wordt tot de in [artikel 69, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=3&artikel=69&z=2023-06-01&g=2023-06-01), bedoelde opbrengst gerekend. De [artikelen 475i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475i), [476](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476) en [478 van het Nederlandse Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=478) zijn van overeenkomstige toepassing.
 
 4. De inschrijving van het proces-verbaal van inbeslagneming kan worden doorgehaald:
 
@@ -799,7 +797,7 @@ Een octrooi vervalt van rechtswege, wanneer de in [artikel 61](https://wetten.ov
 
 ##### Artikel 70
 
-1. De octrooihouder kan zijn octrooi handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een der in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), genoemde handelingen verricht.
+1. De octrooihouder kan zijn octrooi handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een der in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) genoemde handelingen verricht.
 
 2. De houder van een octrooi verleend op grond van deze rijkswet is in zijn rechtsvordering niet ontvankelijk als hij niet bij dagvaarding dan wel bij conclusie van eis in reconventie als bijlage daarbij en in kort geding op de terechtzitting het resultaat van een door het bureau of het in het [Europees Octrooiverdrag](onbekend) bedoelde Europees Octrooibureau ingesteld onderzoek naar de stand van de techniek met betrekking tot het onderwerp van het octrooi overlegt.
 
@@ -809,53 +807,51 @@ Een octrooi vervalt van rechtswege, wanneer de in [artikel 61](https://wetten.ov
 
 5. Naast schadevergoeding kan worden gevorderd, dat de gedaagde veroordeeld wordt de door de inbreuk genoten winst af te dragen en dienaangaande rekening en verantwoording af te leggen; indien de rechter evenwel van oordeel is, dat de omstandigheden van het geval tot zulk een veroordeling geen aanleiding geven, zal hij de gedaagde tot schadevergoeding kunnen veroordelen. In passende gevallen kan de rechter de schadevergoeding vaststellen als een forfaitair bedrag.
 
-6. De octrooihouder kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens licentienemers of pandhouders instellen, onverminderd de bevoegdheid van deze laatsten in een al of niet namens hen of mede namens hen door de octrooihouder aldus ingestelde vordering tussen te komen om rechtstreeks de door hen geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde af te dragen winst te doen toewijzen. Licentienemers en pandhouders kunnen slechts een zelfstandige vordering als bedoeld in het derde en vierde lid instellen, als zij de bevoegdheid daartoe van de octrooihouder hebben bedongen.
+6. De octrooihouder kan de vorderingen tot schadevergoeding of het afdragen van winst ook namens of mede namens licentienemers of pandhouders instellen, onverminderd de bevoegdheid van deze laatsten in een al of niet namens hen of mede namens hen door de octrooihouder aldus ingestelde vordering tussen te komen om rechtstreeks de door hen geleden schade vergoed te krijgen of zich een evenredig deel van de door de gedaagde af te dragen winst te doen toewijzen. Licentienemers en pandhouders kunnen slechts een zelfstandige vordering als bedoeld in het vierde en vijfde lid instellen, als zij de bevoegdheid daartoe van de octrooihouder hebben bedongen.
 
 7. De octrooihouder heeft de bevoegdheid roerende zaken waarmee een inbreuk op zijn recht wordt gemaakt als zijn eigendom op te vorderen dan wel de bevoegdheid onttrekking aan het verkeer, vernietiging of onbruikbaarmaking te vorderen van die zaken, en onttrekking aan het verkeer te vorderen van materialen en werktuigen die voornamelijk zijn gebruikt bij de voortbrenging van die zaken. De bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) betreffende beslag en executie tot afgifte van roerende zaken zijn van toepassing. Bij samenloop met een ander beslag gaat degene die beslag heeft gelegd krachtens dit artikel voor. Een vordering als bedoeld in de eerste volzin wordt op kosten van de gedaagde uitgevoerd, tenzij bijzondere redenen dit beletten. Bij de beoordeling van de vordering dient een afweging te worden gemaakt tussen de ernst van de inbreuk en de gevorderde maatregelen alsmede de belangen van derden.
 
-8. Indien een rechtsvordering wordt ingesteld tot handhaving van een octrooi voor een werkwijze tot vervaardiging van een nieuw voortbrengsel, dan wordt vermoed, dat het betrokken voortbrengsel volgens de geoctrooieerde werkwijze is vervaardigd, tenzij door de gedaagde het tegendeel aannemelijk wordt gemaakt. Bij de beoordeling van de vraag of een voortbrengsel nieuw is, blijft de inhoud van in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2021-08-01&g=2021-08-01), bedoelde octrooiaanvragen buiten beschouwing.
+8. Indien een rechtsvordering wordt ingesteld tot handhaving van een octrooi voor een werkwijze tot vervaardiging van een nieuw product, dan wordt vermoed, dat het betrokken product volgens de geoctrooieerde werkwijze is vervaardigd, tenzij door de gedaagde het tegendeel aannemelijk wordt gemaakt. Bij de beoordeling van de vraag of een product nieuw is, blijft de inhoud van in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01), bedoelde octrooiaanvragen buiten beschouwing.
 
 9. De octrooihouder heeft de bevoegdheid een bevel te vorderen tot staking van diensten van tussenpersonen wier diensten door derden worden gebruikt om inbreuk op zijn recht te maken.
 
 10. De octrooihouder heeft de bevoegdheid te vorderen dat degene die inbreuk op zijn recht heeft gemaakt wordt bevolen al hetgeen hem bekend is omtrent de herkomst en distributiekanalen van de zaken waarmee die inbreuk is gepleegd, aan hem mee te delen en alle daarop betrekking hebbende gegevens te verstrekken.
 
-11. De octrooihouder heeft de bevoegdheid te vorderen dat bij tijdelijke voortzetting van de vermeende inbreuk aan deze voortzetting de voorwaarde wordt verbonden dat zekerheid wordt gesteld voor vergoeding van de door hem geleden schade. De octrooihouder komt die bevoegdheid eveneens toe bij voortzetting van de dienstverlening door een tussenpersoon als bedoeld in het achtste lid.
+11. De octrooihouder heeft de bevoegdheid te vorderen dat bij tijdelijke voortzetting van de vermeende inbreuk aan deze voortzetting de voorwaarde wordt verbonden dat zekerheid wordt gesteld voor vergoeding van de door hem geleden schade. De octrooihouder komt die bevoegdheid eveneens toe bij voortzetting van de dienstverlening door een tussenpersoon als bedoeld in het negende lid.
 
 12. De octrooihouder heeft de bevoegdheid te vorderen dat de gedaagde wordt gelast op diens kosten passende maatregelen tot verspreiding van informatie over de uitspraak te treffen.
 
 ##### Artikel 71
 
-1. Behoudens het bepaalde in het vierde lid, kan de octrooihouder een redelijke vergoeding vorderen van hem, die in het tijdvak, gelegen tussen de inschrijving van de aanvrage die tot octrooi heeft geleid in het octrooiregister en de verlening van octrooi op die aanvrage of een daaruit ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2021-08-01&g=2021-08-01) afgesplitste aanvrage, handelingen heeft verricht als vermeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), voor zover de octrooihouder daarvoor uitsluitende rechten heeft verkregen.
+1. Behoudens het bepaalde in het vierde lid, kan de octrooihouder een redelijke vergoeding vorderen van hem, die in het tijdvak, gelegen tussen de inschrijving van de aanvrage die tot octrooi heeft geleid in het octrooiregister en de verlening van octrooi op die aanvrage of een daaruit ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=28&z=2023-06-01&g=2023-06-01) afgesplitste aanvrage, handelingen heeft verricht als vermeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) voor zover de octrooihouder daarvoor bescherming heeft verkregen.
 
-2. Behoudens het bepaalde in het vierde lid kan de octrooihouder eveneens een redelijke vergoeding vorderen van hem, die na de in het eerste lid bedoelde verlening van het octrooi handelingen als in dat lid bedoeld heeft verricht met voortbrengselen, die gedurende het aldaar genoemde tijdvak in het verkeer zijn gebracht. De octrooihouder kan een zelfde vergoeding vorderen van hem, die na de verlening van het octrooi ten dienste van zijn bedrijf voortbrengselen als bedoeld in [artikel 53, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), dan wel in [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53a&z=2021-08-01&g=2021-08-01) heeft gebruikt die in het eerste lid genoemde tijdvak in zijn bedrijf zijn vervaardigd.
+2. Behoudens het bepaalde in het vierde lid kan de octrooihouder eveneens een redelijke vergoeding vorderen van hem, die na de in het eerste lid bedoelde verlening van het octrooi handelingen als in dat lid bedoeld heeft verricht met producten, die gedurende het aldaar genoemde tijdvak in het verkeer zijn gebracht. De octrooihouder kan een zelfde vergoeding vorderen van hem, die na de verlening van het octrooi ten dienste van zijn bedrijf producten als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) of [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01) heeft gebruikt die in het eerste lid genoemde tijdvak in zijn bedrijf zijn vervaardigd.
 
 3. De in het eerste en tweede lid bedoelde vergoeding is alleen verschuldigd voor handelingen die zijn verricht na verloop van dertig dagen nadat de betrokkene bij deurwaardersexploit, waarin nauwkeurig is aangegeven welk gedeelte van de octrooiaanvrage op die handelingen betrekking heeft, is gewezen op het krachtens dit artikel aan de octrooihouder toekomende recht.
 
-4. Het krachtens dit artikel aan de octrooihouder toekomende recht strekt zich niet uit over handelingen, verricht door een daartoe krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=55&z=2021-08-01&g=2021-08-01) of krachtens overeenkomst gerechtigde, alsmede handelingen met voortbrengselen, die hetzij voor de inschrijving in het octrooiregister van de betrokken octrooiaanvrage in het verkeer zijn gebracht, hetzij nadien door de aanvrager om octrooi of een gerechtigde als hiervoor bedoeld.
+4. Het krachtens dit artikel aan de octrooihouder toekomende recht strekt zich niet uit over handelingen, verricht door een daartoe krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=55&z=2023-06-01&g=2023-06-01) of krachtens overeenkomst gerechtigde, alsmede handelingen met producten, die hetzij voor de inschrijving in het octrooiregister van de betrokken octrooiaanvrage in het verkeer zijn gebracht, hetzij nadien door de aanvrager om octrooi of een gerechtigde als hiervoor bedoeld.
 
 ##### Artikel 72
 
-1. De houder van een Europees octrooi kan, behoudens het bepaalde in het vierde lid, een redelijke vergoeding vorderen van hem, die in het tijdvak, gelegen tussen de publikatie overeenkomstig [artikel 93 van het Europees Octrooiverdrag](onbekend) van de aanvrage die tot octrooi heeft geleid en de in [artikel 97, vierde lid, van dat verdrag](onbekend) bedoelde publikatie van de vermelding van de verlening van het Europees octrooi op die aanvrage of op een daaruit ingevolge [artikel 76 van dit verdrag](onbekend) afgesplitste aanvrage, handelingen heeft verricht als vermeld in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), voor zover de octrooihouder daarvoor uitsluitende rechten heeft verkregen en de handelingen worden bestreken door de laatstelijk ingediende gepubliceerde conclusies.
+1. De houder van een Europees octrooi of een Europees octrooi met eenheidswerking kan, behoudens het bepaalde in het vierde lid, een redelijke vergoeding vorderen van hem, die in het tijdvak, gelegen tussen de publikatie overeenkomstig [artikel 93 van het Europees Octrooiverdrag](onbekend) van de aanvrage die tot octrooi heeft geleid en de in [artikel 97, vierde lid, van dat verdrag](onbekend) bedoelde publikatie van de vermelding van de verlening van het Europees octrooi op die aanvrage of op een daaruit ingevolge [artikel 76 van dit verdrag](onbekend) afgesplitste aanvrage, handelingen heeft verricht als vermeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) voor zover de octrooihouder daarvoor bescherming heeft verkregen en de handelingen worden bestreken door de laatstelijk ingediende gepubliceerde conclusies.
 
-2. Behoudens het bepaalde in het vierde lid kan de houder van een Europees octrooi eveneens een redelijke vergoeding vorderen van hem, die na de in het eerste lid bedoelde publikatie van de vermelding van de verlening van het Europees octrooi handelingen als in dat lid bedoeld heeft verricht met voortbrengselen, die gedurende het aldaar genoemde tijdvak in het verkeer zijn gebracht. De octrooihouder kan een zelfde vergoeding vorderen van hem, die na bedoelde publikatie ten dienste van zijn bedrijf voortbrengselen als bedoeld in [artikel 53, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), dan wel in [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53a&z=2021-08-01&g=2021-08-01) heeft gebruikt die in het in het eerste lid genoemde tijdvak in zijn bedrijf zijn vervaardigd.
+2. Behoudens het bepaalde in het vierde lid kan de houder van een Europees octrooi of een Europees octrooi met eenheidswerking eveneens een redelijke vergoeding vorderen van hem, die na de in het eerste lid bedoelde publikatie van de vermelding van de verlening van het Europees octrooi handelingen als in dat lid bedoeld heeft verricht met producten, die gedurende het aldaar genoemde tijdvak in het verkeer zijn gebracht. De octrooihouder kan een zelfde vergoeding vorderen van hem, die na bedoelde publikatie ten dienste van zijn bedrijf producten als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) of [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01) heeft gebruikt die in het in het eerste lid genoemde tijdvak in zijn bedrijf zijn vervaardigd.
 
 3. De in het eerste en tweede lid bedoelde vergoeding is alleen verschuldigd voor handelingen, die zijn verricht na verloop van dertig dagen, nadat de betrokkene bij deurwaardersexploit is gewezen op het krachtens dit artikel aan de octrooihouder toekomende recht. Bij dit deurwaardersexploit, waarin nauwkeurig is aangegeven welk gedeelte van de octrooiaanvrage op die handelingen betrekking heeft, moet zijn betekend een vertaling in het Nederlands van de conclusies zoals vervat in de publikatie van de Europese octrooiaanvrage overeenkomstig [artikel 93 van het Europees Octrooiverdrag](onbekend). Indien een Nederlandse vertaling als hiervoor bedoeld reeds voor het uitbrengen van het deurwaardersexploit aan het bureau is toegezonden en daarvan aantekening gedaan is in het octrooiregister, kan de betekening van de vertaling achterwege blijven, mits in het exploit melding wordt gemaakt van de aantekening in het octrooiregister.
 
-4. Het krachtens dit artikel aan de octrooihouder toekomende recht strekt zich niet uit over handelingen, verricht door een daartoe krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=55&z=2021-08-01&g=2021-08-01) of krachtens overeenkomst gerechtigde, alsmede handelingen met voortbrengselen, die hetzij voor de in het eerste lid bedoelde publikatie van de aanvrage overeenkomstig [artikel 93 van het Europees Octrooiverdrag](onbekend) in het verkeer zijn gebracht, hetzij nadien door de aanvrager van het octrooi of een gerechtigde als hiervoor bedoeld.
+4. Het krachtens dit artikel aan de octrooihouder toekomende recht strekt zich niet uit over handelingen, verricht door een daartoe krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=55&z=2023-06-01&g=2023-06-01) of krachtens overeenkomst gerechtigde, alsmede handelingen met producten, die hetzij voor de in het eerste lid bedoelde publikatie van de aanvrage overeenkomstig [artikel 93 van het Europees Octrooiverdrag](onbekend) in het verkeer zijn gebracht, hetzij nadien door de aanvrager van het octrooi of een gerechtigde als hiervoor bedoeld.
 
 5. Het bureau gaat zo spoedig mogelijk over tot de in het derde lid bedoelde aantekening in het octrooiregister.
 
 ##### Artikel 73
 
-1. De octrooihouder kan de vorderingen die hem ten dienste staan bij de handhaving van zijn octrooi instellen tegen iedere persoon, die in Nederland, Curaçao of Sint Maarten in of voor zijn bedrijf middelen betreffende een wezenlijk bestanddeel van de uitvinding aan anderen dan hen, die krachtens de [artikelen 55 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=55&z=2021-08-01&g=2021-08-01) tot toepassing van de geoctrooieerde uitvinding bevoegd zijn, aanbiedt of levert voor de toepassing van de geoctrooieerde uitvinding in Nederland, Curaçao of Sint Maarten, een en ander mits die persoon weet dan wel het gezien de omstandigheden duidelijk is, dat die middelen voor die toepassing geschikt en bestemd zijn.
+1. De octrooihouder kan de vorderingen die hem ten dienste staan bij de handhaving van zijn octrooi instellen tegen iedere persoon die, zonder daartoe gerechtigd te zijn, een in [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), genoemde handeling verricht.
 
-2. Het eerste lid geldt niet, indien het aanbieden of leveren geschiedt met toestemming van de octrooihouder. Dat lid geldt evenmin, indien de geleverde of aangeboden middelen algemeen in de handel verkrijgbare produkten zijn, tenzij de betrokkene degene aan wie hij levert aanzet tot het verrichten van in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), vermelde handelingen.
-
-3. [Artikel 70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=70&z=2021-08-01&g=2021-08-01), is van overeenkomstige toepassing.
+2. [Artikel 70, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=70&z=2023-06-01&g=2023-06-01), is van overeenkomstige toepassing.
 
 ##### Artikel 74
 
-De rechten en verplichtingen, voortvloeiende uit de [artikelen 53 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01) en [64 tot en met 73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=3&artikel=64&z=2021-08-01&g=2021-08-01), gelden mede in, op en boven dat deel van het aan Nederland, Curaçao of Sint Maarten grenzende continentaal plat, waarop het Koninkrijk soevereine rechten heeft, doch uitsluitend voor zover het betreft handelingen, gericht op en verricht tijdens het onderzoek naar de aanwezigheid van natuurlijke rijkdommen of het winnen daarvan.
+De rechten en verplichtingen, voortvloeiende uit de [artikelen 53 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) en [64 tot en met 73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=3&artikel=64&z=2023-06-01&g=2023-06-01), gelden mede in, op en boven dat deel van het aan Nederland, Curaçao of Sint Maarten grenzende continentaal plat, waarop het Koninkrijk soevereine rechten heeft, doch uitsluitend voor zover het betreft handelingen, gericht op en verricht tijdens het onderzoek naar de aanwezigheid van natuurlijke rijkdommen of het winnen daarvan.
 
 ### Hoofdstuk 5. Vernietiging en opeising
 
@@ -863,45 +859,45 @@ De rechten en verplichtingen, voortvloeiende uit de [artikelen 53 tot en met 60]
 
 1. Een octrooi wordt door de rechter vernietigd voor zover:
 
-- a. hetgeen waarvoor octrooi is verleend ingevolge de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=2&z=2021-08-01&g=2021-08-01) niet vatbaar is voor octrooi dan wel, indien het een Europees octrooi betreft, het octrooi ingevolge de [artikelen 52 tot en met 57 van het Europees Octrooiverdrag](onbekend) niet had behoren te worden verleend;
+- a. hetgeen waarvoor octrooi is verleend ingevolge de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=2&z=2023-06-01&g=2023-06-01) niet vatbaar is voor octrooi dan wel, indien het een Europees octrooi betreft, het octrooi ingevolge de [artikelen 52 tot en met 57 van het Europees Octrooiverdrag](onbekend) niet had behoren te worden verleend;
 
-- b. het octrooischrift niet een beschrijving bevat van de uitvinding, die, in voorkomend geval met toepassing van [artikel 25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=25&z=2021-08-01&g=2021-08-01), zodanig duidelijk en volledig is dat een deskundige deze uitvinding kan toepassen;
+- b. het octrooischrift niet een beschrijving bevat van de uitvinding, die, in voorkomend geval met toepassing van [artikel 25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=25&z=2023-06-01&g=2023-06-01), zodanig duidelijk en volledig is dat een deskundige deze uitvinding kan toepassen;
 
 - c. het onderwerp van het octrooi niet wordt gedekt door de inhoud van de ingediende aanvrage of, indien het octrooi is verleend op een afgesplitste of gewijzigde aanvrage dan wel op een nieuwe Europese octrooiaanvrage die is ingediend overeenkomstig [artikel 61 van het Europees Octrooiverdrag](onbekend), door de inhoud van de oorspronkelijke aanvrage;
 
 - d. na octrooiverlening uitbreiding van de beschermingsomvang is opgetreden;
 
-- e. de houder van het octrooi daarop geen aanspraak had hetzij krachtens de bepalingen van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&z=2021-08-01&g=2021-08-01) van deze rijkswet hetzij, indien het een Europees octrooi betreft, krachtens [artikel 60, eerste lid, van het Europees Octrooiverdrag](onbekend).
+- e. de houder van het octrooi daarop geen aanspraak had hetzij krachtens de bepalingen van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&z=2023-06-01&g=2023-06-01) van deze rijkswet hetzij, indien het een Europees octrooi betreft, krachtens [artikel 60, eerste lid, van het Europees Octrooiverdrag](onbekend).
 
-2. Voor de toepassing van het eerste lid, onder **a**, wordt onder de stand van de techniek, bedoeld in [artikel 54, derde lid, van het Europees Octrooiverdrag](onbekend), mede begrepen de inhoud van uit hoofde van deze rijkswet ingediende octrooiaanvragen, waarvan de dag van indiening voor de datum van indiening van de desbetreffende Europese octrooiaanvrage, die voor de toepassing van dat lid geldt, ligt, en die eerst op of na die datum overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2021-08-01&g=2021-08-01) zijn ingeschreven.
+2. Voor de toepassing van het eerste lid, onder **a**, wordt onder de stand van de techniek, bedoeld in [artikel 54, derde lid, van het Europees Octrooiverdrag](onbekend), mede begrepen de inhoud van uit hoofde van deze rijkswet ingediende octrooiaanvragen, waarvan de dag van indiening voor de datum van indiening van de desbetreffende Europese octrooiaanvrage, die voor de toepassing van dat lid geldt, ligt, en die eerst op of na die datum overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=31&z=2023-06-01&g=2023-06-01) zijn ingeschreven.
 
 3. De rechtsvordering tot vernietiging komt in de in het eerste lid, onder **a** tot en met **d**, genoemde gevallen toe aan een ieder en in het eerste lid, onder **e**, genoemde geval aan degene, die krachtens de in dat onderdeel genoemde bepalingen aanspraak op het octrooi heeft. Indien laatstgenoemde zelf een octrooi voor de desbetreffende uitvinding heeft verkregen, komt de rechtsvordering tot vernietiging ook toe aan licentiehouders en pandhouders.
 
 4. De dagvaarding moet binnen acht dagen na haar dagtekening in het octrooiregister worden ingeschreven. Bij gebreke van tijdige inschrijving is de eiser verplicht de schade te vergoeden, geleden door hen, die te goeder trouw na die termijn en voor de inschrijving rechten, waarop de vernietiging invloed uitoefent, hebben verkregen.
 
-5. Een octrooi wordt geacht van de aanvang af geheel of gedeeltelijk niet de in de[artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53a&z=2021-08-01&g=2021-08-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2021-08-01&g=2021-08-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2021-08-01&g=2021-08-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2021-08-01&g=2021-08-01) bedoelde rechtsgevolgen te hebben gehad naar gelang het octrooi geheel of gedeeltelijk is vernietigd.
+5. Een octrooi wordt geacht van de aanvang af geheel of gedeeltelijk niet de in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01), [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2023-06-01&g=2023-06-01) en [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2023-06-01&g=2023-06-01) bedoelde rechtsgevolgen te hebben gehad naar gelang het octrooi geheel of gedeeltelijk is vernietigd.
 
 6. De terugwerkende kracht van de nietigheid heeft geen invloed op:
 
-- a. een beslissing, niet zijnde een voorlopige voorziening, ter zake van handelingen in strijd met het in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01) en [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53a&z=2021-08-01&g=2021-08-01) bedoelde uitsluitend recht van de octrooihouder of van handelingen als bedoeld in de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2021-08-01&g=2021-08-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2021-08-01&g=2021-08-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2021-08-01&g=2021-08-01), die voor de vernietiging in kracht van gewijsde is gegaan en ten uitvoer is gelegd;
+- a. een beslissing, niet zijnde een voorlopige voorziening, ter zake van handelingen in strijd met het in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01), [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), en [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01) bedoelde recht van de octrooihouder of van handelingen als bedoeld in de [artikelen 71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2023-06-01&g=2023-06-01) en [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2023-06-01&g=2023-06-01), die voor de vernietiging in kracht van gewijsde is gegaan en ten uitvoer is gelegd;
 
 - b. een voor de vernietiging gesloten overeenkomst, voor zover deze voor de vernietiging is uitgevoerd; uit billijkheidsoverwegingen kan echter terugbetaling worden geëist van op grond van deze overeenkomst betaalde bedragen in de mate als door de omstandigheden gerechtvaardigd is.
 
-7. Voor de toepassing van het zesde lid, onder **b**, wordt onder het sluiten van een overeenkomst mede verstaan het ontstaan van een licentie op een andere in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=56&z=2021-08-01&g=2021-08-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=59&z=2021-08-01&g=2021-08-01) of [60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=60&z=2021-08-01&g=2021-08-01) aangegeven wijze.
+7. Voor de toepassing van het zesde lid, onder **b**, wordt onder het sluiten van een overeenkomst mede verstaan het ontstaan van een licentie op een andere in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=56&z=2023-06-01&g=2023-06-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=59&z=2023-06-01&g=2023-06-01) of [60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=60&z=2023-06-01&g=2023-06-01) aangegeven wijze.
 
-8. Ingeval een octrooi wordt vernietigd op grond van het eerste lid, onder **e**, en degene, die krachtens de in dat onderdeel genoemde bepalingen aanspraak op het octrooi heeft, zelf een octrooi voor de desbetreffende uitvinding heeft verkregen, worden licenties, die te goeder trouw van het vernietigde octrooi waren verkregen voor de inschrijving van de dagvaarding in het octrooiregister, aangemerkt als licentie van het bestaande octrooi, en verkrijgt de houder daarvan overeenkomstig [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=56&z=2021-08-01&g=2021-08-01), recht op de voor de licenties verschuldigde vergoeding. De houder van het vernietigde octrooi, die bij zijn aanvrage te goeder trouw was of die het octrooi voor de inschrijving van de dagvaarding te goeder trouw van een vroegere houder verkreeg, blijft in dat geval ten aanzien van het bestaande octrooi bevoegd tot toepassing van de uitvinding overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=55&z=2021-08-01&g=2021-08-01).
+8. Ingeval een octrooi wordt vernietigd op grond van het eerste lid, onder **e**, en degene, die krachtens de in dat onderdeel genoemde bepalingen aanspraak op het octrooi heeft, zelf een octrooi voor de desbetreffende uitvinding heeft verkregen, worden licenties, die te goeder trouw van het vernietigde octrooi waren verkregen voor de inschrijving van de dagvaarding in het octrooiregister, aangemerkt als licentie van het bestaande octrooi, en verkrijgt de houder daarvan overeenkomstig [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=56&z=2023-06-01&g=2023-06-01), recht op de voor de licenties verschuldigde vergoeding. De houder van het vernietigde octrooi, die bij zijn aanvrage te goeder trouw was of die het octrooi voor de inschrijving van de dagvaarding te goeder trouw van een vroegere houder verkreeg, blijft in dat geval ten aanzien van het bestaande octrooi bevoegd tot toepassing van de uitvinding overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=55&z=2023-06-01&g=2023-06-01).
 
 9. Zodra een eindbeslissing aangaande een vordering tot vernietiging in kracht van gewijsde is gegaan of de instantie is vervallen, wordt daarvan op verzoek van de meest gerede partij in het octrooiregister aantekening gedaan.
 
 ##### Artikel 76
 
-1. Degene die een rechtsvordering als bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01) tot vernietiging van een krachtens deze rijkswet verleend octrooi instelt, is in die vordering niet ontvankelijk als hij niet als bijlage bij dagvaarding dan wel bij conclusie van eis in reconventie het resultaat van een door het bureau uitgebracht advies omtrent de toepasselijkheid van de in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), genoemde nietigheidsgronden overlegt.
+1. Degene die een rechtsvordering als bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01) tot vernietiging van een krachtens deze rijkswet verleend octrooi instelt, is in die vordering niet ontvankelijk als hij niet als bijlage bij dagvaarding dan wel bij conclusie van eis in reconventie het resultaat van een door het bureau uitgebracht advies omtrent de toepasselijkheid van de in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), genoemde nietigheidsgronden overlegt.
 
-2. In kort geding kan de voorzieningenrechter bedoeld in [artikel 80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=80&z=2021-08-01&g=2021-08-01), degene die stelt dat een krachtens deze rijkswet verleend octrooi vernietigd behoort te worden, opdragen een advies van het bureau omtrent de toepasselijkheid van de in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), genoemde nietigheidsgronden over te leggen.
+2. In kort geding kan de voorzieningenrechter bedoeld in [artikel 80, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=80&z=2023-06-01&g=2023-06-01), degene die stelt dat een krachtens deze rijkswet verleend octrooi vernietigd behoort te worden, opdragen een advies van het bureau omtrent de toepasselijkheid van de in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), genoemde nietigheidsgronden over te leggen.
 
 ##### Artikel 77
 
-1. Voor zover een uit hoofde van deze rijkswet verleend octrooi betrekking heeft op een uitvinding, waarvoor aan dezelfde uitvinder of zijn rechtverkrijgende een Europees octrooi is verleend, terwijl de dag van indiening of in voorkomend geval de voorrangsdatum van de onderscheidene aanvragen om octrooi dezelfde is, heeft eerstbedoeld octrooi, voor zover het dezelfde uitvinding beschermt als het Europees octrooi, in Nederland, Curaçao en Sint Maarten, niet meer de in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53a&z=2021-08-01&g=2021-08-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2021-08-01&g=2021-08-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2021-08-01&g=2021-08-01) bedoelde rechtsgevolgen vanaf de dag waarop:
+1. Voor zover een uit hoofde van deze rijkswet verleend octrooi betrekking heeft op een uitvinding, waarvoor aan dezelfde uitvinder of zijn rechtverkrijgende een Europees octrooi is verleend, terwijl de dag van indiening of in voorkomend geval de voorrangsdatum van de onderscheidene aanvragen om octrooi dezelfde is, heeft eerstbedoeld octrooi, voor zover het dezelfde uitvinding beschermt als het Europees octrooi, in Nederland, Curaçao en Sint Maarten, niet meer de in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01), [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01) en [71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2023-06-01&g=2023-06-01) bedoelde rechtsgevolgen vanaf de dag waarop:
 
 - a. de voor het instellen van oppositie tegen het Europees octrooi vastgestelde termijn is verstreken zonder dat oppositie is ingesteld;
 
@@ -913,17 +909,17 @@ De rechten en verplichtingen, voortvloeiende uit de [artikelen 53 tot en met 60]
 
 3. Vorderingen ter vaststelling van een in het eerste lid bedoeld verlies van rechtsgevolg kunnen door een ieder worden ingesteld.
 
-4. [Artikel 75, vierde lid, achtste lid, eerste volzin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), is van overeenkomstige toepassing.
+4. [Artikel 75, vierde lid, achtste lid, eerste volzin, en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), is van overeenkomstige toepassing.
 
 ##### Artikel 78
 
-1. Een octrooi kan geheel, gedeeltelijk of wat betreft een aandeel daarin worden opgeëist door degene die krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=11&z=2021-08-01&g=2021-08-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=12&z=2021-08-01&g=2021-08-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=13&z=2021-08-01&g=2021-08-01) dan wel, indien het een Europees octrooi betreft, krachtens artikel 60, eerste lid, van het Europees Octrooiverdrag aanspraak of mede aanspraak heeft op dat octrooi.
+1. Een octrooi kan geheel, gedeeltelijk of wat betreft een aandeel daarin worden opgeëist door degene die krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=11&z=2023-06-01&g=2023-06-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=12&z=2023-06-01&g=2023-06-01) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=13&z=2023-06-01&g=2023-06-01) dan wel, indien het een Europees octrooi betreft, krachtens artikel 60, eerste lid, van het Europees Octrooiverdrag aanspraak of mede aanspraak heeft op dat octrooi.
 
 2. De dagvaarding moet in het octrooiregister worden ingeschreven.
 
-3. De octrooihouder, die bij zijn aanvrage te goeder trouw was, of die het octrooi voor de inschrijving van de dagvaarding te goeder trouw van een vroegere houder verkreeg, blijft ten aanzien van de nieuwe octrooihouder bevoegd tot toepassing van de uitvinding op de voet als omschreven in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=55&z=2021-08-01&g=2021-08-01).
+3. De octrooihouder, die bij zijn aanvrage te goeder trouw was, of die het octrooi voor de inschrijving van de dagvaarding te goeder trouw van een vroegere houder verkreeg, blijft ten aanzien van de nieuwe octrooihouder bevoegd tot toepassing van de uitvinding op de voet als omschreven in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=55&z=2023-06-01&g=2023-06-01).
 
-4. Te goeder trouw voor de inschrijving verkregen licenties blijven geldig tegenover de nieuwe octrooihouder, die overeenkomstig [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=56&z=2021-08-01&g=2021-08-01), recht verkrijgt op de voor de licenties verschuldigde vergoeding.
+4. Te goeder trouw voor de inschrijving verkregen licenties blijven geldig tegenover de nieuwe octrooihouder, die overeenkomstig [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=56&z=2023-06-01&g=2023-06-01), recht verkrijgt op de voor de licenties verschuldigde vergoeding.
 
 5. Het derde en het vierde lid zijn niet van toepassing ingeval degene, die het octrooi met goed gevolg heeft opgeëist, reeds door zelf octrooi aan te vragen zijn aanspraken had doen gelden en de dagvaarding, waarbij de vordering tot opeising werd ingesteld, binnen drie maanden na de verlening van het octrooi of, indien het een Europees octrooi betreft, na de publikatie overeenkomstig artikel 97, vierde lid, van het Europees Octrooiverdrag van de vermelding van de verlening van het Europees octrooi in het octrooiregister was ingeschreven.
 
@@ -935,7 +931,7 @@ De rechten en verplichtingen, voortvloeiende uit de [artikelen 53 tot en met 60]
 
 ##### Artikel 79
 
-1. Hij die opzettelijk inbreuk maakt op het recht van de octrooihouder door het verrichten van een der in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2021-08-01&g=2021-08-01), bedoelde handelingen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
+1. Hij die opzettelijk inbreuk maakt op het recht van de octrooihouder door het verrichten van een der in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01), of artikel 25 van de Overeenkomst betreffende een eengemaakt octrooigerecht (Trb. 2013, 92 en 2016, 1) bedoelde handelingen, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
 
 2. Hij die van het plegen van het in het vorige lid bedoelde misdrijf zijn beroep maakt of het plegen van dit misdrijf als bedrijf uitoefent, wordt gestraft met gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie.
 
@@ -951,21 +947,21 @@ De rechten en verplichtingen, voortvloeiende uit de [artikelen 53 tot en met 60]
 
 1. De rechtbank Den Haag is in eerste aanleg uitsluitend bevoegd voor:
 
-- a. vorderingen tot vaststelling van ontbreken van rechtsgevolg, vernietiging, vaststelling van een verlies van rechtsgevolg of opeising van octrooien, bedoeld in onderscheidenlijk de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=10&z=2021-08-01&g=2021-08-01), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=77&z=2021-08-01&g=2021-08-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=78&z=2021-08-01&g=2021-08-01);
+- a. vorderingen tot vaststelling van ontbreken van rechtsgevolg, vernietiging, vaststelling van een verlies van rechtsgevolg of opeising van octrooien, bedoeld in onderscheidenlijk de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=10&z=2023-06-01&g=2023-06-01), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=77&z=2023-06-01&g=2023-06-01) en [78](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=78&z=2023-06-01&g=2023-06-01);
 
 - b. vorderingen tot opeising van Europese octrooiaanvragen;
 
-- c. vorderingen tot verlening van een licentie als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=58&z=2021-08-01&g=2021-08-01);
+- c. vorderingen tot verlening van een licentie als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=58&z=2023-06-01&g=2023-06-01);
 
-- d. vorderingen tot vaststelling van een vergoeding als bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=58&z=2021-08-01&g=2021-08-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=59&z=2021-08-01&g=2021-08-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=60&z=2021-08-01&g=2021-08-01).
+- d. vorderingen tot vaststelling van een vergoeding als bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=58&z=2023-06-01&g=2023-06-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=59&z=2023-06-01&g=2023-06-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=60&z=2023-06-01&g=2023-06-01).
 
 2. De rechtbank Den Haag en de voorzieningenrechter van die rechtbank zijn in eerste aanleg in Nederland uitsluitend bevoegd voor:
 
-- a. vorderingen, bedoeld in de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=70&z=2021-08-01&g=2021-08-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2021-08-01&g=2021-08-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2021-08-01&g=2021-08-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2021-08-01&g=2021-08-01);
+- a. vorderingen, bedoeld in de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=70&z=2023-06-01&g=2023-06-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2023-06-01&g=2023-06-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2023-06-01&g=2023-06-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2023-06-01&g=2023-06-01);
 
 - b. vorderingen welke worden ingesteld door een ander dan de octrooihouder ten einde te doen vaststellen dat bepaalde door hem verrichte handelingen niet strijdig zijn met een octrooi;
 
-- c. vorderingen en verzoeken als bedoeld in de [artikelen 843a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=843a), [1019b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1019b), [1019e](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1019e) en [1019f van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1019f), die verband houden met de handhaving van een octrooi in de zin van [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=70&z=2021-08-01&g=2021-08-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2021-08-01&g=2021-08-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2021-08-01&g=2021-08-01) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2021-08-01&g=2021-08-01).
+- c. vorderingen en verzoeken als bedoeld in de [artikelen 843a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=843a), [1019b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1019b), [1019e](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1019e) en [1019f van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=1019f), die verband houden met de handhaving van een octrooi in de zin van [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=70&z=2023-06-01&g=2023-06-01), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=71&z=2023-06-01&g=2023-06-01), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=72&z=2023-06-01&g=2023-06-01) of [73](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=4&artikel=73&z=2023-06-01&g=2023-06-01).
 
 ##### Artikel 81
 
@@ -973,37 +969,37 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](onbekend), is v
 
 ##### Artikel 82
 
-Bij de behandeling ter zitting van geschillen bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=80&z=2021-08-01&g=2021-08-01) mogen octrooigemachtigden het woord voeren onverminderd de verantwoordelijkheid van de advocaat.
+Bij de behandeling ter zitting van geschillen bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=80&z=2023-06-01&g=2023-06-01) mogen octrooigemachtigden het woord voeren onverminderd de verantwoordelijkheid van de advocaat.
 
 ##### Artikel 83
 
-1. Van alle andere geschillen dan in de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=80&z=2021-08-01&g=2021-08-01) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=81&z=2021-08-01&g=2021-08-01) bedoeld wordt kennis genomen door de rechter die daartoe volgens de algemene regeling der rechtspraak bevoegd is.
+1. Van alle andere geschillen dan in de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=80&z=2023-06-01&g=2023-06-01) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=81&z=2023-06-01&g=2023-06-01) bedoeld wordt kennis genomen door de rechter die daartoe volgens de algemene regeling der rechtspraak bevoegd is.
 
-2. Rechtsvorderingen, die gegrond zijn op [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=12&z=2021-08-01&g=2021-08-01), worden aangemerkt als rechtsvorderingen met betrekking tot een arbeidsovereenkomst, tenzij de rechtsbetrekking tussen de bij het geschil betrokkenen niet wordt bepaald door een arbeidsovereenkomst.
+2. Rechtsvorderingen, die gegrond zijn op [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=12&z=2023-06-01&g=2023-06-01), worden aangemerkt als rechtsvorderingen met betrekking tot een arbeidsovereenkomst, tenzij de rechtsbetrekking tussen de bij het geschil betrokkenen niet wordt bepaald door een arbeidsovereenkomst.
 
-3. Indien de rechter meent, dat op de beslissing van een geschil van invloed kan zijn een rechtsvordering, die op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=10&z=2021-08-01&g=2021-08-01), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=77&z=2021-08-01&g=2021-08-01) of [78](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=78&z=2021-08-01&g=2021-08-01) is of zou kunnen worden ingesteld, kan hij de behandeling van het aanhangige geschil met of zonder tijdsbepaling schorsen. Gelijke bevoegdheid bezit hij, indien op de beslissing inzake zulk een rechtsvordering een uit anderen hoofde ingestelde rechtsvordering van invloed kan zijn.
+3. Indien de rechter meent, dat op de beslissing van een geschil van invloed kan zijn een rechtsvordering, die op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=10&z=2023-06-01&g=2023-06-01), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), [77](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=77&z=2023-06-01&g=2023-06-01) of [78](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=78&z=2023-06-01&g=2023-06-01) is of zou kunnen worden ingesteld, kan hij de behandeling van het aanhangige geschil met of zonder tijdsbepaling schorsen. Gelijke bevoegdheid bezit hij, indien op de beslissing inzake zulk een rechtsvordering een uit anderen hoofde ingestelde rechtsvordering van invloed kan zijn.
 
-4. De rechter kan de behandeling van een geschil ter zake van een Europees octrooi met of zonder tijdsbepaling schorsen, indien bij het Europees Octrooibureau tegen dat octrooi oppositie is ingesteld ingevolge [artikel 99 van het Europees Octrooiverdrag](onbekend).
+4. De rechter kan de behandeling van een geschil ter zake van een Europees octrooi met of zonder tijdsbepaling schorsen, indien bij het Europees Octrooibureau tegen dat octrooi oppositie is ingesteld ingevolge [artikel 99 van het Europees Octrooiverdrag](onbekend) of bij het Eengemaakt Octrooigerecht een vordering betreffende het Europees octrooi is ingesteld.
 
 ##### Artikel 84
 
-1. Een ieder kan het bureau schriftelijk verzoeken een advies uit te brengen omtrent de toepasselijkheid van de in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), genoemde nietigheidsgronden op een krachtens deze rijkswet verleend octrooi.
+1. Een ieder kan het bureau schriftelijk verzoeken een advies uit te brengen omtrent de toepasselijkheid van de in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), genoemde nietigheidsgronden op een krachtens deze rijkswet verleend octrooi.
 
-2. Het verzoek bevat een gemotiveerde aanduiding van de aan [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), ontleende bezwaren tegen het verleende octrooi waaromtrent een advies wordt verlangd.
+2. Het verzoek bevat een gemotiveerde aanduiding van de aan [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), ontleende bezwaren tegen het verleende octrooi waaromtrent een advies wordt verlangd.
 
 3. Bij of krachtens algemene maatregel van rijksbestuur worden regels gesteld met betrekking tot de voor het advies verschuldigde vergoeding.
 
 ##### Artikel 85
 
-1. Het bureau stelt de in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=84&z=2021-08-01&g=2021-08-01) bedoelde verzoeker in de gelegenheid de geopperde bezwaren toe te lichten. Het bureau kan nietigheidsgronden die het baseert op het resultaat van het onderzoek naar de stand van de techniek als bedoeld in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2021-08-01&g=2021-08-01), als bezwaren toevoegen. De houder van het desbetreffende octrooi wordt ten minste eenmaal in de gelegenheid gesteld op de bezwaren te reageren.
+1. Het bureau stelt de in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=84&z=2023-06-01&g=2023-06-01) bedoelde verzoeker in de gelegenheid de geopperde bezwaren toe te lichten. Het bureau kan nietigheidsgronden die het baseert op het resultaat van het onderzoek naar de stand van de techniek als bedoeld in [artikel 34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=34&z=2023-06-01&g=2023-06-01), als bezwaren toevoegen. De houder van het desbetreffende octrooi wordt ten minste eenmaal in de gelegenheid gesteld op de bezwaren te reageren.
 
 2. Het bureau is bevoegd voor de inbreng van verzoeker en octrooihouder termijnen te stellen.
 
-3. Het in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=84&z=2021-08-01&g=2021-08-01) bedoelde advies wordt zo spoedig mogelijk uitgebracht, doch uiterlijk binnen twee maanden nadat het bureau kennis heeft genomen van het standpunt van de verzoeker en de octrooihouder of, indien toepassing is gegeven aan het vorige lid, binnen twee maanden nadat de gestelde termijn is verstreken.
+3. Het in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=84&z=2023-06-01&g=2023-06-01) bedoelde advies wordt zo spoedig mogelijk uitgebracht, doch uiterlijk binnen twee maanden nadat het bureau kennis heeft genomen van het standpunt van de verzoeker en de octrooihouder of, indien toepassing is gegeven aan het vorige lid, binnen twee maanden nadat de gestelde termijn is verstreken.
 
 ##### Artikel 86
 
-Het in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=84&z=2021-08-01&g=2021-08-01) bedoelde advies bestaat uit een gemotiveerde beoordeling van de in [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=85&z=2021-08-01&g=2021-08-01), genoemde bezwaren.
+Het in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=84&z=2023-06-01&g=2023-06-01) bedoelde advies bestaat uit een gemotiveerde beoordeling van de in [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=85&z=2023-06-01&g=2023-06-01), genoemde bezwaren.
 
 ##### Artikel 87
 
@@ -1013,7 +1009,7 @@ Het in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&
 
 ##### Artikel 88
 
-De in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=80&z=2021-08-01&g=2021-08-01) bedoelde rechtbank treedt op als centrale instantie, belast met het ontvangen van rogatoire commissies en bevoegd tot het uitvoeren van genoemde commissies van het Europees Octrooibureau, bedoeld in regel 99 van het bij het Europees Octrooiverdrag behorende Uitvoeringsreglement.
+De in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=80&z=2023-06-01&g=2023-06-01) bedoelde rechtbank treedt op als centrale instantie, belast met het ontvangen van rogatoire commissies en bevoegd tot het uitvoeren van genoemde commissies van het Europees Octrooibureau, bedoeld in regel 99 van het bij het Europees Octrooiverdrag behorende Uitvoeringsreglement.
 
 ##### Artikel 89
 
@@ -1023,7 +1019,7 @@ Van alle rechterlijke uitspraken betreffende octrooien wordt door de griffier va
 
 ##### Artikel 90
 
-Voor de toepassing van dit hoofdstuk, met uitzondering van [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=98&z=2021-08-01&g=2021-08-01), en de daarop berustende bepalingen, wordt verstaan onder:
+Voor de toepassing van dit hoofdstuk, met uitzondering van [artikel 98](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=98&z=2023-06-01&g=2023-06-01), en de daarop berustende bepalingen, wordt verstaan onder:
 
 verordening: de [verordening (EEG) nr. 1768/92](31992R1768) van de Raad van de Europese Gemeenschappen van 18 juni 1992 betreffende de invoering van een aanvullende beschermingscertificaat voor geneesmiddelen (**PbEG** L 182), zoals deze laatstelijk is gewijzigd bij verordening (EG) nr. 1901/2006 van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende geneesmiddelen voor pediatrisch gebruik en tot wijziging van Verordening (EEG) nr. 1768/92, Richtlijn 2001/20/EG, Richtlijn 2001/83/EG en Verordening (EG) nr. 726/2004 (PbEG L 378);
 
@@ -1043,29 +1039,29 @@ Bij de aanvrage om een certificaat en om verlenging van de duur van een certific
 
 ##### Artikel 93
 
-Met betrekking tot aanvragen om een certificaat en om verlenging van de duur van een certificaat zijn de [artikelen 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2021-08-01&g=2021-08-01), en [38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=38&z=2021-08-01&g=2021-08-01), van deze rijkswet van overeenkomstige toepassing.
+Met betrekking tot aanvragen om een certificaat en om verlenging van de duur van een certificaat zijn de [artikelen 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2023-06-01&g=2023-06-01), en [38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=38&z=2023-06-01&g=2023-06-01), van deze rijkswet van overeenkomstige toepassing.
 
 ##### Artikel 94
 
-Indien niet is voldaan aan het bij artikel 8 van de verordening of het bij de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=92&z=2021-08-01&g=2021-08-01) en [93](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=93&z=2021-08-01&g=2021-08-01) van deze rijkswet bepaalde, geeft het bureau daarvan binnen twee maanden na de datum van indiening van de aanvraag om een certificaat dan wel om verlenging van de duur van een certificaat schriftelijk kennis aan de aanvrager, onder opgave van de voorschriften waaraan niet is voldaan.
+Indien niet is voldaan aan het bij artikel 8 van de verordening of het bij de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=92&z=2023-06-01&g=2023-06-01) en [93](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=93&z=2023-06-01&g=2023-06-01) van deze rijkswet bepaalde, geeft het bureau daarvan binnen twee maanden na de datum van indiening van de aanvraag om een certificaat dan wel om verlenging van de duur van een certificaat schriftelijk kennis aan de aanvrager, onder opgave van de voorschriften waaraan niet is voldaan.
 
 ##### Artikel 95
 
-Voor de instandhouding van een aanvullend beschermingscertificaat moet elk jaar, voor het eerst vanaf het jaar waarin de wettelijke duur van het basisoctrooi is verstreken, aan het bureau een bij of krachtens algemene maatregel van bestuur vast te stellen bedrag worden betaald. Dit bedrag wordt uiterlijk voldaan op de laatste dag van de maand waarin de wettelijke duur van het basisoctrooi is verstreken. De [artikelen 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2021-08-01&g=2021-08-01), en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=62&z=2021-08-01&g=2021-08-01) van deze rijkswet zijn van overeenkomstige toepassing.
+Voor de instandhouding van een aanvullend beschermingscertificaat moet elk jaar, voor het eerst vanaf het jaar waarin de wettelijke duur van het basisoctrooi is verstreken, aan het bureau een bij of krachtens algemene maatregel van bestuur vast te stellen bedrag worden betaald. Dit bedrag wordt uiterlijk voldaan op de laatste dag van de maand waarin de wettelijke duur van het basisoctrooi is verstreken. De [artikelen 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2023-06-01&g=2023-06-01), en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=62&z=2023-06-01&g=2023-06-01) van deze rijkswet zijn van overeenkomstige toepassing.
 
 ##### Artikel 96
 
-1. De in de artikelen 9, tweede en derde lid, 11 en 16 van de verordening voorgeschreven mededelingen geschieden in het in[artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2021-08-01&g=2021-08-01) van deze rijkswet bedoelde blad.
+1. De in de artikelen 9, tweede en derde lid, 11 en 16 van de verordening voorgeschreven mededelingen geschieden in het in[artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2023-06-01&g=2023-06-01) van deze rijkswet bedoelde blad.
 
 2. Het bureau schrijft de in de artikelen 9, tweede en derde lid, 11 en 16 van de verordening bedoelde gegevens in het octrooiregister in.
 
 ##### Artikel 97
 
-De [artikelen 64 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=3&artikel=64&z=2021-08-01&g=2021-08-01) zijn van overeenkomstige toepassing op certificaten.
+De [artikelen 64 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=3&artikel=64&z=2023-06-01&g=2023-06-01) zijn van overeenkomstige toepassing op certificaten.
 
 ##### Artikel 98
 
-Indien een andere dan de in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=90&z=2021-08-01&g=2021-08-01) genoemde door de Raad van de Europese Gemeenschappen vastgestelde verordening betreffende aanvullende beschermingscertificaten in het belang van een goede uitvoering nadere regeling behoeft geschiedt dit bij algemene maatregel van bestuur. Daarbij kan worden voorzien in het opleggen van taksen, voor zover dat is toegelaten ingevolge de betrokken verordening.
+Indien een andere dan de in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=90&z=2023-06-01&g=2023-06-01) genoemde door de Raad van de Europese Gemeenschappen vastgestelde verordening betreffende aanvullende beschermingscertificaten in het belang van een goede uitvoering nadere regeling behoeft geschiedt dit bij algemene maatregel van bestuur. Daarbij kan worden voorzien in het opleggen van taksen, voor zover dat is toegelaten ingevolge de betrokken verordening.
 
 ### Hoofdstuk 5. Vernietiging en opeising
 
@@ -1077,11 +1073,11 @@ In Curaçao of Sint Maarten kan een bureau voor de industriële eigendom worden 
 
 1. De aanvragen om octrooi van inwonenden van Curaçao of Sint Maarten kunnen worden ingediend bij het aldaar ingestelde bureau voor de industriële eigendom.
 
-2. Als datum van indiening van de aanvrage geldt die, waarop bij het betrokken bureau de in [artikel 29, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2021-08-01&g=2021-08-01), vermelde bescheiden zijn overgelegd.[Artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2021-08-01&g=2021-08-01), is van overeenkomstige toepassing.
+2. Als datum van indiening van de aanvrage geldt die, waarop bij het betrokken bureau de in [artikel 29, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2023-06-01&g=2023-06-01), vermelde bescheiden zijn overgelegd.[Artikel 29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=29&z=2023-06-01&g=2023-06-01), is van overeenkomstige toepassing.
 
-3. Nadat het betrokken bureau de in het tweede lid bedoelde datum op de aanvrage heeft vermeld, zendt het de aanvrage met alle overgelegde bescheiden zo spoedig mogelijk door aan het bureau, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=1&z=2021-08-01&g=2021-08-01), tenzij het meent dat deze bescheiden niet voldoen aan het bij of krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2021-08-01&g=2021-08-01) bepaalde.
+3. Nadat het betrokken bureau de in het tweede lid bedoelde datum op de aanvrage heeft vermeld, zendt het de aanvrage met alle overgelegde bescheiden zo spoedig mogelijk door aan het bureau, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=1&z=2023-06-01&g=2023-06-01), tenzij het meent dat deze bescheiden niet voldoen aan het bij of krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=24&z=2023-06-01&g=2023-06-01) bepaalde.
 
-4. In het geval, bedoeld in het derde lid, geeft het betrokken bureau aan de aanvrager schriftelijk kennis van de vermeende gebreken, met het verzoek deze binnen een door het bureau te bepalen termijn te herstellen. Na het verstrijken van die termijn worden, onverschillig of aan het verzoek is voldaan, de door de aanvrager overgelegde bescheiden, alsmede een afschrift van het hem afgegeven ontvangstbewijs door het betrokken bureau zo spoedig mogelijk aan het bureau, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=1&z=2021-08-01&g=2021-08-01), toegezonden.
+4. In het geval, bedoeld in het derde lid, geeft het betrokken bureau aan de aanvrager schriftelijk kennis van de vermeende gebreken, met het verzoek deze binnen een door het bureau te bepalen termijn te herstellen. Na het verstrijken van die termijn worden, onverschillig of aan het verzoek is voldaan, de door de aanvrager overgelegde bescheiden, alsmede een afschrift van het hem afgegeven ontvangstbewijs door het betrokken bureau zo spoedig mogelijk aan het bureau, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=1&z=2023-06-01&g=2023-06-01), toegezonden.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
@@ -1091,7 +1087,7 @@ De [Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879) vervalt me
 
 ##### Artikel 102
 
-1. Ten aanzien van octrooiaanvragen die zijn ingediend voor 1 april 1995 en van deze aanvragen afgesplitste octrooiaanvragen zijn de [Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879) en de [artikelen 102a tot en met 102e](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2021-08-01&g=2021-08-01) van toepassing.
+1. Ten aanzien van octrooiaanvragen die zijn ingediend voor 1 april 1995 en van deze aanvragen afgesplitste octrooiaanvragen zijn de [Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879) en de [artikelen 102a tot en met 102e](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2023-06-01&g=2023-06-01) van toepassing.
 
 2. Ten aanzien van:
 
@@ -1101,9 +1097,9 @@ De [Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879) vervalt me
 
 - c. licenties onder de onder **b** bedoelde octrooien is uitsluitend het bij en krachtens deze rijkswet bepaalde van toepassing.
 
-3. Deze rijkswet is niet van toepassing op aanvragen om een certificaat als bedoeld in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=90&z=2021-08-01&g=2021-08-01) welke bij de Octrooiraad zijn ingediend voor de datum van inwerkingtreding van deze rijkswet.
+3. Deze rijkswet is niet van toepassing op aanvragen om een certificaat als bedoeld in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=90&z=2023-06-01&g=2023-06-01) welke bij de Octrooiraad zijn ingediend voor de datum van inwerkingtreding van deze rijkswet.
 
-4. De [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=95&z=2021-08-01&g=2021-08-01) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=97&z=2021-08-01&g=2021-08-01) zijn mede van toepassing op certificaten welke zijn verleend op aanvragen welke zijn ingediend voor de datum van inwerkingtreding van deze rijkswet.
+4. De [artikelen 95](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=95&z=2023-06-01&g=2023-06-01) en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=97&z=2023-06-01&g=2023-06-01) zijn mede van toepassing op certificaten welke zijn verleend op aanvragen welke zijn ingediend voor de datum van inwerkingtreding van deze rijkswet.
 
 ##### Artikel 103
 
@@ -1129,13 +1125,13 @@ Bevat wijzigingen in andere regelgeving.
 
 ##### Artikel 108
 
-1. De [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=57&z=2021-08-01&g=2021-08-01) tot en met [58a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=58a&z=2021-08-01&g=2021-08-01) zijn van toepassing op licenties onder octrooien die zijn verleend op grond van de Rijksoctrooiwet of die worden verleend op grond van de [artikelen 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2021-08-01&g=2021-08-01), [102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2021-08-01&g=2021-08-01) of [102c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2021-08-01&g=2021-08-01).
+1. De [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=57&z=2023-06-01&g=2023-06-01) tot en met [58a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=58a&z=2023-06-01&g=2023-06-01) zijn van toepassing op licenties onder octrooien die zijn verleend op grond van de Rijksoctrooiwet of die worden verleend op grond van de [artikelen 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2023-06-01&g=2023-06-01), [102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2023-06-01&g=2023-06-01) of [102c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2023-06-01&g=2023-06-01).
 
 2. Indien voor de inwerkingtreding van deze rijkswet een verzoek tot verlening van een licentie overeenkomstig [artikel 34, vijfde lid, van de Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879&artikel=34) is ingediend, vindt het eerste lid geen toepassing.
 
 ##### Artikel 109
 
-Tot de stand van de techniek, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2021-08-01&g=2021-08-01) en [75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2021-08-01&g=2021-08-01), behoort tevens de inhoud van voor de inwerkingtreding van deze rijkswet ingediende octrooiaanvragen, die op of na de in [artikel 4, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2021-08-01&g=2021-08-01) onderscheidenlijk [artikel 80 van het Europees Octrooiverdrag](onbekend) bedoelde dag overeenkomstig [artikel 22C van de Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879&artikel=22C) ter inzage worden gelegd of, indien terinzagelegging nog niet had plaatsgevonden, overeenkomstig [artikel 25 van die rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879&artikel=25) openbaar worden gemaakt.
+Tot de stand van de techniek, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01) en [75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=75&z=2023-06-01&g=2023-06-01), behoort tevens de inhoud van voor de inwerkingtreding van deze rijkswet ingediende octrooiaanvragen, die op of na de in [artikel 4, tweede lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01) onderscheidenlijk [artikel 80 van het Europees Octrooiverdrag](onbekend) bedoelde dag overeenkomstig [artikel 22C van de Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879&artikel=22C) ter inzage worden gelegd of, indien terinzagelegging nog niet had plaatsgevonden, overeenkomstig [artikel 25 van die rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879&artikel=25) openbaar worden gemaakt.
 
 ##### Artikel 110
 
@@ -1151,13 +1147,13 @@ Deze rijkswet wordt aangehaald als: Rijksoctrooiwet met vermelding van het jaart
 
 ##### Artikel 113
 
-1. Deze rijkswet is verbindend voor het Europese deel van Nederland en, behoudens [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&z=2021-08-01&g=2021-08-01), voor Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba.
+1. Deze rijkswet is verbindend voor het Europese deel van Nederland en, behoudens [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&z=2023-06-01&g=2023-06-01), voor Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba.
 
-2. Deze rijkswet is voor Aruba slechts verbindend voor zover het betreft de [artikelen 40 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2021-08-01&g=2021-08-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=59&z=2021-08-01&g=2021-08-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=101&z=2021-08-01&g=2021-08-01), [102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102&z=2021-08-01&g=2021-08-01), [artikel 102a tot en met artikel 102f](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2021-08-01&g=2021-08-01), [104 tot en met 108](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=104&z=2021-08-01&g=2021-08-01), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=111&z=2021-08-01&g=2021-08-01) en [114](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=114&z=2021-08-01&g=2021-08-01). Voor de toepassing van de [artikelen 40 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2021-08-01&g=2021-08-01) in Aruba wordt onder "bureau" verstaan het Bureau voor de Intellectuele Eigendom van Aruba.
+2. Deze rijkswet is voor Aruba slechts verbindend voor zover het betreft de [artikelen 40 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2023-06-01&g=2023-06-01), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=59&z=2023-06-01&g=2023-06-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=101&z=2023-06-01&g=2023-06-01), [102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102&z=2023-06-01&g=2023-06-01), [artikel 102a tot en met artikel 102f](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2023-06-01&g=2023-06-01), [104 tot en met 108](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=104&z=2023-06-01&g=2023-06-01), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=111&z=2023-06-01&g=2023-06-01) en [114](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=114&z=2023-06-01&g=2023-06-01). Voor de toepassing van de [artikelen 40 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2023-06-01&g=2023-06-01) in Aruba wordt onder "bureau" verstaan het Bureau voor de Intellectuele Eigendom van Aruba.
 
 ##### Artikel 114
 
-In Nederland kan bij wet en in Aruba, Curaçao en Sint Maarten kan bij landsverordening worden verklaard, dat de in deze rijkswet vervatte onderlinge regeling dient te worden beëindigd. Met ingang van het derde kalenderjaar na dat van afkondiging van zodanige wet of landsverordening verkrijgt deze rijkswet in Nederland de staat van wet en in Aruba, Curaçao en Sint Maarten de staat van landsverordening. Het bepaalde in de vorige volzinnen geldt niet met betrekking tot de [artikelen 40 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2021-08-01&g=2021-08-01) en [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=59&z=2021-08-01&g=2021-08-01).
+In Nederland kan bij wet en in Aruba, Curaçao en Sint Maarten kan bij landsverordening worden verklaard, dat de in deze rijkswet vervatte onderlinge regeling dient te worden beëindigd. Met ingang van het derde kalenderjaar na dat van afkondiging van zodanige wet of landsverordening verkrijgt deze rijkswet in Nederland de staat van wet en in Aruba, Curaçao en Sint Maarten de staat van landsverordening. Het bepaalde in de vorige volzinnen geldt niet met betrekking tot de [artikelen 40 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=40&z=2023-06-01&g=2023-06-01) en [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1a&artikel=59&z=2023-06-01&g=2023-06-01).
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -1175,27 +1171,27 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ##### Artikel 102c
 
-1. Vanaf de datum van inwerkingtreding van [artikel 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2021-08-01&g=2021-08-01) is [artikel 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2021-08-01&g=2021-08-01) van overeenkomstige toepassing op octrooiaanvragen waarop de artikelen [29A tot en met 29F van de Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879&artikel=29A) van toepassing zijn, met dien verstande dat:
+1. Vanaf de datum van inwerkingtreding van [artikel 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2023-06-01&g=2023-06-01) is [artikel 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2023-06-01&g=2023-06-01) van overeenkomstige toepassing op octrooiaanvragen waarop de artikelen [29A tot en met 29F van de Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879&artikel=29A) van toepassing zijn, met dien verstande dat:
 
 - a. de Octrooiraad besluit tot verlening van het octrooi door het plaatsen van een gedateerde aantekening op de aanvrage, doch dat de inschrijving van de octrooiaanvrage in het octrooiregister en de verlening van het octrooi worden opgeschort, en
 
-- b. de artikelen [41 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2021-08-01&g=2021-08-01) op die octrooiaanvragen van overeenkomstige toepassing zijn.
+- b. de artikelen [41 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=3&artikel=41&z=2023-06-01&g=2023-06-01) op die octrooiaanvragen van overeenkomstige toepassing zijn.
 
-2. Het eerste lid is van overeenkomstige toepassing op [artikel 102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2021-08-01&g=2021-08-01).
+2. Het eerste lid is van overeenkomstige toepassing op [artikel 102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2023-06-01&g=2023-06-01).
 
 ##### Artikel 102d
 
-1. Vanaf de datum van inwerkingtreding van dit artikel of, indien dat later is, vanaf de datum van verlening van het octrooi, hebben octrooien die zijn verleend op grond van de [Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879) of die worden verleend op grond van de [artikelen 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2021-08-01&g=2021-08-01), [102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2021-08-01&g=2021-08-01) of [102c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2021-08-01&g=2021-08-01), in Nederland Curaçao en Sint Maarten dezelfde rechtsgevolgen als octrooien die zijn verleend op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=36&z=2021-08-01&g=2021-08-01) en zijn daarop de bepalingen van deze rijkswet van toepassing, met dien verstande dat:
+1. Vanaf de datum van inwerkingtreding van dit artikel of, indien dat later is, vanaf de datum van verlening van het octrooi, hebben octrooien die zijn verleend op grond van de [Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879) of die worden verleend op grond van de [artikelen 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2023-06-01&g=2023-06-01), [102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2023-06-01&g=2023-06-01) of [102c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2023-06-01&g=2023-06-01), in Nederland Curaçao en Sint Maarten dezelfde rechtsgevolgen als octrooien die zijn verleend op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=2&artikel=36&z=2023-06-01&g=2023-06-01) en zijn daarop de bepalingen van deze rijkswet van toepassing, met dien verstande dat:
 
-- a. de toepassing van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=76&z=2021-08-01&g=2021-08-01) beperkt is tot octrooien die zijn verleend op grond van [artikel 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2021-08-01&g=2021-08-01) of [102c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2021-08-01&g=2021-08-01), en
+- a. de toepassing van [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=5&artikel=76&z=2023-06-01&g=2023-06-01) beperkt is tot octrooien die zijn verleend op grond van [artikel 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2023-06-01&g=2023-06-01) of [102c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2023-06-01&g=2023-06-01), en
 
-- b. de toepassing van de [artikelen 84 tot en met 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=84&z=2021-08-01&g=2021-08-01) beperkt is tot octrooien die zijn verleend op grond van de [artikelen 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2021-08-01&g=2021-08-01), [102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2021-08-01&g=2021-08-01) of [102c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2021-08-01&g=2021-08-01).
+- b. de toepassing van de [artikelen 84 tot en met 86](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=6&artikel=84&z=2023-06-01&g=2023-06-01) beperkt is tot octrooien die zijn verleend op grond van de [artikelen 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2023-06-01&g=2023-06-01), [102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2023-06-01&g=2023-06-01) of [102c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2023-06-01&g=2023-06-01).
 
-2. Vanaf de datum van inwerkingtreding van dit artikel of, indien dat later is, vanaf de datum van verlening van het octrooi, hebben octrooien die zijn verleend op grond van de [Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879) of die worden verleend op grond van de [artikelen 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2021-08-01&g=2021-08-01), [102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2021-08-01&g=2021-08-01) of [102c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2021-08-01&g=2021-08-01), in Aruba dezelfde rechtsgevolgen als octrooien die zijn verleend op grond van artikel 34 van de Landsverordening van Aruba van 5 mei 1997 houdende regels met betrekking tot octrooien (Octrooiverordening).
+2. Vanaf de datum van inwerkingtreding van dit artikel of, indien dat later is, vanaf de datum van verlening van het octrooi, hebben octrooien die zijn verleend op grond van de [Rijksoctrooiwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001879) of die worden verleend op grond van de [artikelen 102a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102a&z=2023-06-01&g=2023-06-01), [102b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102b&z=2023-06-01&g=2023-06-01) of [102c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=102c&z=2023-06-01&g=2023-06-01), in Aruba dezelfde rechtsgevolgen als octrooien die zijn verleend op grond van artikel 34 van de Landsverordening van Aruba van 5 mei 1997 houdende regels met betrekking tot octrooien (Octrooiverordening).
 
 ##### Artikel 102e
 
-1. Op een verzoek tot herstel in de vorige toestand dat is ingediend na de inwerkingtreding van dit artikel, is [artikel 23 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=23&z=2021-08-01&g=2021-08-01) van toepassing.
+1. Op een verzoek tot herstel in de vorige toestand dat is ingediend na de inwerkingtreding van dit artikel, is [artikel 23 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=23&z=2023-06-01&g=2023-06-01) van toepassing.
 
 2. Het bureau verleent op een octrooiaanvrage die na de inwerkingtreding van deze wet wordt hersteld in de vorige toestand, octrooi door het plaatsen van een gedateerde aantekening op de aanvrage in de vorm zoals deze door de aanvrager is ingediend of door hem nadien is gewijzigd.
 
@@ -1203,7 +1199,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ##### Artikel 102f
 
-Het openbare deel van de registers die worden gehouden op grond van de Rijksoctrooiwet maakt vanaf het tijdstip, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=101&z=2021-08-01&g=2021-08-01), deel uit van het register, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=19&z=2021-08-01&g=2021-08-01).
+Het openbare deel van de registers die worden gehouden op grond van de Rijksoctrooiwet maakt vanaf het tijdstip, bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=9&artikel=101&z=2023-06-01&g=2023-06-01), deel uit van het register, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=19&z=2023-06-01&g=2023-06-01).
 
 Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -1225,7 +1221,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ##### Artikel 23b
 
-1. Voor het bureau kunnen als gemachtigde slechts optreden personen die als octrooigemachtigde zijn ingeschreven in het register, bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23a&z=2021-08-01&g=2021-08-01), personen die op grond van [artikel 1 van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=1) als advocaat zijn ingeschreven bij een rechtbank en personen die op grond van artikel 1 van de Advocatenlandsverordening of artikel 1 van de Advocatenwet BES als advocaat zijn ingeschreven bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba.
+1. Voor het bureau kunnen als gemachtigde slechts optreden personen die als octrooigemachtigde zijn ingeschreven in het register, bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23a&z=2023-06-01&g=2023-06-01), personen die op grond van [artikel 1 van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=1) als advocaat zijn ingeschreven bij een rechtbank en personen die op grond van artikel 1 van de Advocatenlandsverordening of artikel 1 van de Advocatenwet BES als advocaat zijn ingeschreven bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
 2. De directeur van het bureau kan van een advocaat inzage vorderen van de geviseerde akte van zijn beëdiging als advocaat voordat hij hem als gemachtigde voor het bureau toelaat.
 
@@ -1235,9 +1231,9 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ##### Artikel 23c
 
-1. Er is een examencommissie voor het afnemen van het examen en de proeve van bekwaamheid, bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23a&z=2021-08-01&g=2021-08-01).
+1. Er is een examencommissie voor het afnemen van het examen en de proeve van bekwaamheid, bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23a&z=2023-06-01&g=2023-06-01).
 
-2. Op voordracht van het bestuur van de orde benoemt Onze Minister de leden van de examencommissie telkens voor een periode van twee jaar. Onze Minister kan een lid om gewichtige redenen tussentijds ontslaan. De benoeming en het ontslag van de leden van de examencommissie wordt bekendgemaakt in het blad, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2021-08-01&g=2021-08-01).
+2. Op voordracht van het bestuur van de orde benoemt Onze Minister de leden van de examencommissie telkens voor een periode van twee jaar. Onze Minister kan een lid om gewichtige redenen tussentijds ontslaan. De benoeming en het ontslag van de leden van de examencommissie wordt bekendgemaakt in het blad, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2023-06-01&g=2023-06-01).
 
 3. De examencommissie bestaat uit ten minste zes personen. Een derde van de leden van de examencommissie is octrooigemachtigde, een derde is medewerker van het bureau en een derde is technisch of rechtsgeleerd deskundige, niet afkomstig uit de kring van octrooigemachtigden en medewerkers van het bureau. Ten hoogste de helft van de leden van de examencommissie kan tevens docent zijn van een opleiding voor toekomstige octrooigemachtigden.
 
@@ -1253,7 +1249,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ##### Artikel 23d
 
-1. Er is een Orde van octrooigemachtigden, die gevormd wordt door allen die zijn ingeschreven in het register, bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23a&z=2021-08-01&g=2021-08-01).
+1. Er is een Orde van octrooigemachtigden, die gevormd wordt door allen die zijn ingeschreven in het register, bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23a&z=2023-06-01&g=2023-06-01).
 
 2. De orde heeft tot taak de bevordering van een goede beroepsuitoefening door de leden en van hun vakbekwaamheid. Haar taak omvat mede de zorg voor de eer en het aanzien van het beroep van octrooigemachtigde.
 
@@ -1329,7 +1325,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 2. Onze Minister kan zijn goedkeuring onthouden aan het huishoudelijk reglement, de gedragsregels voor octrooigemachtigden en de verordeningen, alsmede een wijziging daarvan, indien zij bepalingen bevatten die in strijd zijn met het recht of het algemeen belang.
 
-3. Na goedkeuring door Onze Minister worden het huishoudelijk reglement, de gedragsregels voor octrooigemachtigden en de verordeningen, alsmede een wijziging daarvan, geplaatst in het blad, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2021-08-01&g=2021-08-01). Zij treden in werking met ingang van de eerste dag van de tweede maand na de dagtekening van het blad waarin zij worden geplaatst of zoveel eerder als zij zelf bepalen.
+3. Na goedkeuring door Onze Minister worden het huishoudelijk reglement, de gedragsregels voor octrooigemachtigden en de verordeningen, alsmede een wijziging daarvan, geplaatst in het blad, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2023-06-01&g=2023-06-01). Zij treden in werking met ingang van de eerste dag van de tweede maand na de dagtekening van het blad waarin zij worden geplaatst of zoveel eerder als zij zelf bepalen.
 
 4. De octrooigemachtigden zijn gehouden het huishoudelijk reglement, de gedragsregels voor octrooigemachtigden en de verordeningen na te leven en de contributie die verschuldigd is vanwege het lidmaatschap van de orde binnen de daarvoor gestelde termijn te voldoen.
 
@@ -1351,7 +1347,7 @@ De algemene vergadering van de orde, het bestuur van de orde, de raad van toezic
 
 1. Ten minste eenmaal per jaar vergadert de orde over onderwerpen die voor octrooigemachtigden van belang zijn.
 
-2. De vergaderingen van de orde, bedoeld in het eerste lid, zijn openbaar, tenzij de aanwezige leden van de orde om gewichtige redenen besluiten dat de vergadering geheel of gedeeltelijk met gesloten deuren zal plaatsvinden. De vergaderingen van het bestuur en de raad van toezicht van de orde zijn niet openbaar, behoudens in een geval als bedoeld in [artikel 23s, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2021-08-01&g=2021-08-01).
+2. De vergaderingen van de orde, bedoeld in het eerste lid, zijn openbaar, tenzij de aanwezige leden van de orde om gewichtige redenen besluiten dat de vergadering geheel of gedeeltelijk met gesloten deuren zal plaatsvinden. De vergaderingen van het bestuur en de raad van toezicht van de orde zijn niet openbaar, behoudens in een geval als bedoeld in [artikel 23s, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2023-06-01&g=2023-06-01).
 
 ##### Artikel 23m
 
@@ -1361,11 +1357,11 @@ De algemene vergadering van de orde, het bestuur van de orde, de raad van toezic
 
 ##### Artikel 23n
 
-1. Een octrooigemachtigde die zich schuldig maakt aan enig handelen of nalaten dat in strijd is met de zorg die hij als octrooigemachtigde behoort te betrachten ten opzichte van degenen wier belangen hij als zodanig behartigt of behoort te behartigen, dat in strijd is met het huishoudelijk reglement of de verordeningen van de orde, of dat in strijd is met hetgeen een octrooigemachtigde betaamt, kan, onverminderd zijn aansprakelijkheid op grond van andere wettelijke voorschriften, worden onderworpen aan een van de maatregelen, genoemd in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2021-08-01&g=2021-08-01).
+1. Een octrooigemachtigde die zich schuldig maakt aan enig handelen of nalaten dat in strijd is met de zorg die hij als octrooigemachtigde behoort te betrachten ten opzichte van degenen wier belangen hij als zodanig behartigt of behoort te behartigen, dat in strijd is met het huishoudelijk reglement of de verordeningen van de orde, of dat in strijd is met hetgeen een octrooigemachtigde betaamt, kan, onverminderd zijn aansprakelijkheid op grond van andere wettelijke voorschriften, worden onderworpen aan een van de maatregelen, genoemd in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2023-06-01&g=2023-06-01).
 
 2. Als enig handelen of nalaten in strijd met hetgeen een octrooigemachtigde betaamt, wordt in ieder geval aangemerkt het in octrooiaangelegenheden samenwerken of in dienst nemen van een persoon:
 
-- a. van wie bekend is dat hem de inschrijving in het register, bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23a&z=2021-08-01&g=2021-08-01), is geweigerd omdat gegronde vrees bestaat dat hij zich schuldig zal maken aan enig handelen of nalaten als bedoeld in het eerste lid,
+- a. van wie bekend is dat hem de inschrijving in het register, bedoeld in [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23a&z=2023-06-01&g=2023-06-01), is geweigerd omdat gegronde vrees bestaat dat hij zich schuldig zal maken aan enig handelen of nalaten als bedoeld in het eerste lid,
 
 - b. die ontzet is uit het recht om als gemachtigde voor het bureau op te treden, of
 
@@ -1415,7 +1411,7 @@ De algemene vergadering van de orde, het bestuur van de orde, de raad van toezic
 
 ##### Artikel 23s
 
-1. De raad van toezicht neemt geen beslissing dan na verhoor of behoorlijke oproeping van de octrooigemachtigde en van de klager of de voorzitter van het bestuur van de orde. De oproepingen geschieden bij aangetekende brief ten hoogste acht weken nadat de klacht ter kennis van de raad is gebracht op grond van [artikel 23p, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23p&z=2021-08-01&g=2021-08-01), of nadat de raad de klacht in verdere behandeling heeft genomen op grond van [artikel 23q, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23q&z=2021-08-01&g=2021-08-01), en ten minste twee weken voor het verhoor.
+1. De raad van toezicht neemt geen beslissing dan na verhoor of behoorlijke oproeping van de octrooigemachtigde en van de klager of de voorzitter van het bestuur van de orde. De oproepingen geschieden bij aangetekende brief ten hoogste acht weken nadat de klacht ter kennis van de raad is gebracht op grond van [artikel 23p, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23p&z=2023-06-01&g=2023-06-01), of nadat de raad de klacht in verdere behandeling heeft genomen op grond van [artikel 23q, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23q&z=2023-06-01&g=2023-06-01), en ten minste twee weken voor het verhoor.
 
 2. De octrooigemachtigde en de klager of de voorzitter van het bestuur van de orde zijn bevoegd zich te doen bijstaan door een raadsman. De secretaris van de raad stelt hen tijdig in de gelegenheid om kennis te nemen van de stukken die betrekking hebben op de zaak. Zij kunnen afschriften of uittreksels van die stukken vragen tegen vergoeding van de kostprijs.
 
@@ -1453,55 +1449,55 @@ De algemene vergadering van de orde, het bestuur van de orde, de raad van toezic
 
 1. De beslissingen van de raad van toezicht zijn met redenen omkleed en worden in het openbaar uitgesproken. De raad beslist binnen zes weken nadat het onderzoek ter openbare zitting is gesloten.
 
-2. De waarschuwing of berisping, bedoeld in [artikel 23u, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2021-08-01&g=2021-08-01), wordt door de voorzitter van de raad uitgesproken in een vergadering van de raad, waarvoor de octrooigemachtigde bij aangetekende brief wordt opgeroepen. Van de vergadering wordt proces-verbaal opgemaakt. De secretaris van de raad zendt een afschrift van het proces-verbaal bij aangetekende brief aan de octrooigemachtigde.
+2. De waarschuwing of berisping, bedoeld in [artikel 23u, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2023-06-01&g=2023-06-01), wordt door de voorzitter van de raad uitgesproken in een vergadering van de raad, waarvoor de octrooigemachtigde bij aangetekende brief wordt opgeroepen. Van de vergadering wordt proces-verbaal opgemaakt. De secretaris van de raad zendt een afschrift van het proces-verbaal bij aangetekende brief aan de octrooigemachtigde.
 
-3. Indien een maatregel is opgelegd als bedoeld in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2021-08-01&g=2021-08-01) kan de raad beslissen dat daarvan mededeling wordt gedaan in het blad, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2021-08-01&g=2021-08-01), zodra de beslissing onherroepelijk is geworden. Een dergelijke mededeling wordt in ieder geval gedaan indien een maatregel als bedoeld in [artikel 23u, eerste lid, onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2021-08-01&g=2021-08-01), is opgelegd.
+3. Indien een maatregel is opgelegd als bedoeld in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2023-06-01&g=2023-06-01) kan de raad beslissen dat daarvan mededeling wordt gedaan in het blad, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1&artikel=20&z=2023-06-01&g=2023-06-01), zodra de beslissing onherroepelijk is geworden. Een dergelijke mededeling wordt in ieder geval gedaan indien een maatregel als bedoeld in [artikel 23u, eerste lid, onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2023-06-01&g=2023-06-01), is opgelegd.
 
 4. De secretaris van de raad zendt bij aangetekende brief terstond een afschrift van de beslissing van de raad aan de octrooigemachtigde en, in voorkomend geval, aan de klager of de voorzitter van het bestuur van de orde, alsmede, indien bij de beslissing een maatregel is opgelegd, aan het bureau. In het afschrift van de beslissing worden de ter beschikking staande rechtsmiddelen vermeld.
 
-5. In geval van oplegging van de maatregelen, bedoeld in [artikel 23u, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2021-08-01&g=2021-08-01), deelt de raad aan de betrokken octrooigemachtigde bij aangetekende brief nadat de beslissing onherroepelijk is geworden, de datum mee waarop de maatregel van kracht wordt.
+5. In geval van oplegging van de maatregelen, bedoeld in [artikel 23u, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2023-06-01&g=2023-06-01), deelt de raad aan de betrokken octrooigemachtigde bij aangetekende brief nadat de beslissing onherroepelijk is geworden, de datum mee waarop de maatregel van kracht wordt.
 
 ##### Artikel 23w
 
-1. Tegen een beslissing van de raad van toezicht als bedoeld in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2021-08-01&g=2021-08-01) kan een belanghebbende binnen dertig dagen na de dag van verzending van de brief, bedoeld in [artikel 23v, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23v&z=2021-08-01&g=2021-08-01), beroep instellen bij het gerechtshof Den Haag.
+1. Tegen een beslissing van de raad van toezicht als bedoeld in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2023-06-01&g=2023-06-01) kan een belanghebbende binnen dertig dagen na de dag van verzending van de brief, bedoeld in [artikel 23v, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23v&z=2023-06-01&g=2023-06-01), beroep instellen bij het gerechtshof Den Haag.
 
 2. Het beroep wordt ingesteld bij beroepschrift. De griffier van het gerechtshof geeft door toezending van een afschrift van het beroepschrift terstond kennis aan de raad van toezicht, aan het bureau en, voor zover het beroep niet door hem is ingesteld, aan de klager en aan de octrooigemachtigde.
 
 3. Het gerechtshof behandelt de zaak opnieuw in volle omvang.
 
-4. De [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2021-08-01&g=2021-08-01) en [23t](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23t&z=2021-08-01&g=2021-08-01) zijn van overeenkomstige toepassing op het beroep.
+4. De [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2023-06-01&g=2023-06-01) en [23t](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23t&z=2023-06-01&g=2023-06-01) zijn van overeenkomstige toepassing op het beroep.
 
-5. Tenzij het gerechtshof beslist dat het beroep niet ontvankelijk is of dat er geen aanleiding bestaat tot het opleggen van enige maatregel, legt het een maatregel op als bedoeld in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2021-08-01&g=2021-08-01).
+5. Tenzij het gerechtshof beslist dat het beroep niet ontvankelijk is of dat er geen aanleiding bestaat tot het opleggen van enige maatregel, legt het een maatregel op als bedoeld in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2023-06-01&g=2023-06-01).
 
-6. [Artikel 23v](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23v&z=2021-08-01&g=2021-08-01) is van overeenkomstige toepassing op de beslissing van het gerechtshof, met dien verstande dat in plaats van «de raad van toezicht» wordt gelezen: het gerechtshof, in plaats van «voorzitter van de raad» wordt gelezen: vice-president van het gerechtshof, en in plaats van «secretaris van de raad»: griffier van het gerechtshof.
+6. [Artikel 23v](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23v&z=2023-06-01&g=2023-06-01) is van overeenkomstige toepassing op de beslissing van het gerechtshof, met dien verstande dat in plaats van «de raad van toezicht» wordt gelezen: het gerechtshof, in plaats van «voorzitter van de raad» wordt gelezen: vice-president van het gerechtshof, en in plaats van «secretaris van de raad»: griffier van het gerechtshof.
 
 7. Tegen beslissingen van het gerechtshof is geen hogere voorziening toegelaten.
 
 ##### Artikel 23x
 
-1. Van een beslissing van de raad van toezicht als bedoeld in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2021-08-01&g=2021-08-01) en van een beslissing van het gerechtshof als bedoeld in [artikel 23w, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23w&z=2021-08-01&g=2021-08-01), kan door degene tegen wie de beslissing is genomen, herziening worden verzocht, indien een ernstig vermoeden bestaat dat op grond van enige omstandigheid, waarvan bij het nemen van de beslissing niet is gebleken, een andere beslissing zou zijn genomen, indien die omstandigheid bekend zou zijn geweest.
+1. Van een beslissing van de raad van toezicht als bedoeld in [artikel 23u](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2023-06-01&g=2023-06-01) en van een beslissing van het gerechtshof als bedoeld in [artikel 23w, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23w&z=2023-06-01&g=2023-06-01), kan door degene tegen wie de beslissing is genomen, herziening worden verzocht, indien een ernstig vermoeden bestaat dat op grond van enige omstandigheid, waarvan bij het nemen van de beslissing niet is gebleken, een andere beslissing zou zijn genomen, indien die omstandigheid bekend zou zijn geweest.
 
-2. Van een beslissing tot oplegging van de maatregel, bedoeld in [artikel 23u, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2021-08-01&g=2021-08-01), kan door degene tegen wie de beslissing is genomen, wijziging worden verzocht na vijf jaar nadat de beslissing onherroepelijk is geworden.
+2. Van een beslissing tot oplegging van de maatregel, bedoeld in [artikel 23u, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23u&z=2023-06-01&g=2023-06-01), kan door degene tegen wie de beslissing is genomen, wijziging worden verzocht na vijf jaar nadat de beslissing onherroepelijk is geworden.
 
-3. Ten aanzien van de herziening, bedoeld in het eerste lid, en de wijziging, bedoeld in het tweede lid, is het gerechtshof Den Haag bevoegd. Deze procedures leiden niet tot het opleggen van een zwaardere maatregel. De [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2021-08-01&g=2021-08-01), [23t](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23t&z=2021-08-01&g=2021-08-01) en [23w, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23w&z=2021-08-01&g=2021-08-01), zijn van overeenkomstige toepassing op de herziening en de wijziging.
+3. Ten aanzien van de herziening, bedoeld in het eerste lid, en de wijziging, bedoeld in het tweede lid, is het gerechtshof Den Haag bevoegd. Deze procedures leiden niet tot het opleggen van een zwaardere maatregel. De [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2023-06-01&g=2023-06-01), [23t](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23t&z=2023-06-01&g=2023-06-01) en [23w, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23w&z=2023-06-01&g=2023-06-01), zijn van overeenkomstige toepassing op de herziening en de wijziging.
 
 ##### Artikel 23y
 
-1. Een belanghebbende kan bij de examencommissie bezwaar maken tegen een beslissing als bedoeld in [artikel 23c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23c&z=2021-08-01&g=2021-08-01), tegen een beslissing hem of haar niet toe te laten tot het examen of de proeve van bekwaamheid en tegen de beoordeling van het examen of de proeve van bekwaamheid.
+1. Een belanghebbende kan bij de examencommissie bezwaar maken tegen een beslissing als bedoeld in [artikel 23c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23c&z=2023-06-01&g=2023-06-01), tegen een beslissing hem of haar niet toe te laten tot het examen of de proeve van bekwaamheid en tegen de beoordeling van het examen of de proeve van bekwaamheid.
 
-2. Een belanghebbende kan bij de raad van toezicht bezwaar maken tegen een benoeming van een octrooigemachtigde als begeleider van een stagiaire als bedoeld in [artikel 23h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23h&z=2021-08-01&g=2021-08-01).
+2. Een belanghebbende kan bij de raad van toezicht bezwaar maken tegen een benoeming van een octrooigemachtigde als begeleider van een stagiaire als bedoeld in [artikel 23h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23h&z=2023-06-01&g=2023-06-01).
 
 3. De [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) zijn van overeenkomstige toepassing op het bezwaar, bedoeld in het eerste of tweede lid.
 
-4. De curator kan de raad van toezicht verzoeken de schorsing, bedoeld in [artikel 23m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23m&z=2021-08-01&g=2021-08-01), op te heffen. De [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2021-08-01&g=2021-08-01), [23t](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23t&z=2021-08-01&g=2021-08-01) en [23v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23v&z=2021-08-01&g=2021-08-01), zijn van overeenkomstige toepassing op het verzoek tot opheffing van de schorsing. Indien de raad van toezicht de schorsing opheft, zendt de secretaris van de raad terstond een afschrift van de beslissing van de raad aan de curator, de betrokkene en het bureau.
+4. De curator kan de raad van toezicht verzoeken de schorsing, bedoeld in [artikel 23m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23m&z=2023-06-01&g=2023-06-01), op te heffen. De [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2023-06-01&g=2023-06-01), [23t](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23t&z=2023-06-01&g=2023-06-01) en [23v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23v&z=2023-06-01&g=2023-06-01), zijn van overeenkomstige toepassing op het verzoek tot opheffing van de schorsing. Indien de raad van toezicht de schorsing opheft, zendt de secretaris van de raad terstond een afschrift van de beslissing van de raad aan de curator, de betrokkene en het bureau.
 
 5. Een belanghebbende kan tegen een beslissing op bezwaar als bedoeld in het eerste of tweede lid of tegen een beslissing op het verzoek als bedoeld in het vierde lid beroep instellen bij het gerechtshof Den Haag.
 
-6. De [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2021-08-01&g=2021-08-01), [23t](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23t&z=2021-08-01&g=2021-08-01) en [23v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23v&z=2021-08-01&g=2021-08-01), en [23w, met uitzondering van het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23w&z=2021-08-01&g=2021-08-01), zijn van overeenkomstige toepassing op het beroep.
+6. De [artikelen 23s](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23s&z=2023-06-01&g=2023-06-01), [23t](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23t&z=2023-06-01&g=2023-06-01) en [23v, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23v&z=2023-06-01&g=2023-06-01), en [23w, met uitzondering van het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&artikel=23w&z=2023-06-01&g=2023-06-01), zijn van overeenkomstige toepassing op het beroep.
 
 ##### Artikel 23z
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van [paragraaf 1a van hoofdstuk 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&z=2021-08-01&g=2021-08-01) en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de orde.
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van [paragraaf 1a van hoofdstuk 2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=2&paragraaf=1a&z=2023-06-01&g=2023-06-01) en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de orde.
 
 #### § 2. Verlening
 
@@ -1515,7 +1511,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van [paragraaf 1a va
 
 #### § 1. Rechten en verplichtingen van de octrooihouder
 
-#### § 2. Jaartaks en verval
+#### § 1a. Voor- en tussengebruik en licenties
 
 #### § 2. Jaartaks en afstand
 
@@ -1523,7 +1519,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van [paragraaf 1a va
 
 ### Hoofdstuk 5. Vernietiging en opeising
 
-### Hoofdstuk 7. Aanvullende beschermingscertificaten
+### Hoofdstuk 6. Octrooirechtelijke geschillen
 
 ### Hoofdstuk 8. Bijzondere bepalingen voor de Nederlandse Antillen
 
@@ -1533,7 +1529,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ##### Artikel 2a
 
-1. Onder uitvindingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=2&z=2021-08-01&g=2021-08-01), worden ook verstaan uitvindingen die betrekking hebben op een voortbrengsel dat uit biologisch materiaal bestaat of dit bevat, of die betrekking hebben op een werkwijze waarmee biologisch materiaal wordt verkregen, bewerkt of gebruikt.
+1. Onder uitvindingen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=2&z=2023-06-01&g=2023-06-01), worden ook verstaan uitvindingen die betrekking hebben op een product dat uit biologisch materiaal bestaat of dit bevat, of die betrekking hebben op een werkwijze waarmee biologisch materiaal wordt verkregen, bewerkt of gebruikt.
 
 2. Onder uitvindingen als bedoeld in het eerste lid worden in ieder geval begrepen uitvindingen met betrekking tot:
 
@@ -1543,7 +1539,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 - c. planten of dieren, mits de uitvoerbaarheid van die uitvinding zich in technisch opzicht niet beperkt tot een bepaald planten- of dierenras, of
 
-- d. een microbiologische of andere technische werkwijze waarmee biologisch materiaal wordt verkregen, verwerkt of gebruikt, of een hierdoor verkregen voortbrengsel.
+- d. een microbiologische of andere technische werkwijze waarmee biologisch materiaal wordt verkregen, verwerkt of gebruikt, of een hierdoor verkregen product.
 
 ### Hoofdstuk 2. Behandeling van octrooiaanvragen
 
@@ -1591,7 +1587,7 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ### Hoofdstuk 5. Vernietiging en opeising
 
-### Hoofdstuk 6. Octrooirechtelijke geschillen
+### Hoofdstuk 5. Vernietiging en opeising
 
 ### Hoofdstuk 7. Aanvullende beschermingscertificaten
 
@@ -1603,31 +1599,131 @@ Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de
 
 ##### Artikel 51a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een Europees octrooi wordt geacht van de aanvang af niet de in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01), [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), en [54a](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54a&z=2023-06-01&g=2023-06-01) bedoelde rechtsgevolgen te hebben gehad, na de registratie van eenheidswerking van het octrooi in het register voor eenheidsoctrooibescherming, bedoeld in artikel 3, eerste lid, van verordening (EU) nr. 1257/2012 van het Europees Parlement en de Raad van 17 december 2012 tot het uitvoering geven aan nauwere samenwerking op het gebied van de instelling van eenheidsoctrooibescherming (PbEU 2012, L 361).
+
+2. Op een Europees octrooi waarvan registratie van eenheidswerking heeft plaatsgevonden, zijn in Curaçao en Sint Maarten en in Bonaire, Sint Eustatius en Saba de bepalingen van verordening (EU) nr. 1257/2012 en verordening (EU) nr. 1260/2012 die zien op een Europees octrooi met eenheidswerking van overeenkomstige toepassing, met dien verstande dat:
+
+- a. voor «deelnemende lidstaten» telkens wordt gelezen «Curaçao, Sint Maarten en Bonaire, Sint Eustatius en Saba»; en
+
+- b. in artikel 6 van [verordening 1257/2012](32012R1257), voor «Unie» wordt gelezen «Unie, Curaçao en Sint Maarten en Bonaire, Sint Eustatius en Saba».
+
+3. Het bureau doet van de in het eerste lid bedoelde registratie en de rechtsgevolgen daarvan voor het Europees octrooi onverwijld aantekening in het octrooiregister.
 
 ##### Artikel 52a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het bureau herstelt, op verzoek van degene aan wie een Europees octrooi is verleend, de toestand, bedoeld in [artikel 49, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=49&z=2023-06-01&g=2023-06-01), respectievelijk de toestand voorafgaand aan het verval van het octrooi, bedoeld in [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=62&z=2023-06-01&g=2023-06-01), indien:
+
+- a. zijn aanvraag tot een registratie als bedoeld in artikel 51a, eerste lid, die binnen de termijn, genoemd in artikel 9, eerste lid, onderdeel g, van verordening (EU) nr. 1257/2012 van het Europees Parlement en de Raad van 17 december 2012 tot het uitvoering geven aan nauwere samenwerking op het gebied van de instelling van eenheidsoctrooibescherming (PbEU 2012, L 361) is ingediend, is geweigerd;
+
+- b. [artikel 52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=52&z=2023-06-01&g=2023-06-01), of [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=62&z=2023-06-01&g=2023-06-01)van toepassing is, en
+
+- c. voldaan is aan de voorwaarden, genoemd in dit artikel.
+
+2. Het verzoek wordt ingediend binnen twee maanden na dagtekening van:
+
+- a. het besluit tot weigering, bedoeld in het eerste lid, of
+
+- b. de beslissing van het Gerecht van Eerste Aanleg of het Hof van Beroep van het Eengemaakt Octrooigerecht waarbij het besluit tot weigering in stand is gelaten.
+
+3. Gelijktijdig met het verzoek overlegt de verzoeker een afschrift van het besluit of de beslissing, bedoeld in het tweede lid, onderdeel a of b.
+
+4. Indien artikel 52, vierde lid, van toepassing is:
+
+- a. verricht de verzoeker bij indiening van het verzoek alsnog de in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=52&z=2023-06-01&g=2023-06-01), bedoelde handelingen, waarbij de overige leden van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=3&artikel=52&z=2023-06-01&g=2023-06-01) van overeenkomstige toepassing zijn, en
+
+- b. voldoet de verzoeker het ingevolge [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2023-06-01&g=2023-06-01), verschuldigde bedrag binnen vier weken na verzending van een mededeling door het bureau van het verschuldigde bedrag, indien op de dag van verzending van deze mededeling de termijn, bedoeld in artikel 61, tweede lid, is verstreken.
+
+5. Indien [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=62&z=2023-06-01&g=2023-06-01) van toepassing is, voldoet de verzoeker het in [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=2&artikel=61&z=2023-06-01&g=2023-06-01), verschuldigde bedrag binnen vier weken na verzending van de mededeling door het bureau van het verschuldigde bedrag.
+
+6. Het bureau tekent het herstel, bedoeld in het eerste lid, in het octrooiregister aan.
 
 ### Hoofdstuk 4. Rechtsgevolgen van het octrooi
 
-#### § 1. Rechten en verplichtingen van de octrooihouder
+#### § 1. Rechten van de octrooihouder
 
 #### § 2. Jaartaks en afstand
 
-#### § 3. Het octrooi als deel van het vermogen
+#### § 2. Jaartaks en afstand
 
 #### § 4. Handhaving van het octrooi
 
 ##### Artikel 75a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het bureau schrijft het processtuk waarbij een rechtsvordering tot vernietiging van een Europees octrooi bij het Eengemaakt Octrooigerecht wordt ingeleid, op verzoek van degene die de rechtsvordering heeft ingesteld, in in het octrooiregister.
+
+2. Het bureau tekent de eindbeslissing van het Eengemaakt Octrooigerecht aangaande een vordering tot vernietiging van een Europees octrooi, die in kracht van gewijsde is gegaan, op verzoek van de partij die de eindbeslissing ter aantekening in het octrooiregister heeft aangeboden, dan wel na toezending van de eindbeslissing door het Eengemaakt Octrooigerecht, aan in het octrooiregister.
 
 ### Hoofdstuk 6. Octrooirechtelijke geschillen
 
 ##### Artikel 79a
 
-Dit onderdeel is nog niet inwerking getreden
+Onverminderd de rechtsmacht van het Eengemaakt Octrooigerecht ingevolge de op 19 februari 2013 te Brussel tot stand gekomen Overeenkomst betreffende een eengemaakt octrooigerecht (Trb. 2013, 92 en 2016, 1), wordt de rechtsmacht met betrekking tot deze wet beheerst door de volgende bepalingen.
+
+### Hoofdstuk 7. Aanvullende beschermingscertificaten
+
+### Hoofdstuk 8. Bijzondere bepalingen voor Curaçao en Sint Maarten
+
+### Hoofdstuk 9. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad**, in het **Publicatieblad van de Nederlandse Antillen** en in het **Afkondigingsblad van Aruba** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 54a
+
+1. Ten aanzien van een octrooi voor biologisch materiaal dat door de uitvinding bepaalde eigenschappen heeft verkregen, strekt het recht, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) en [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), zich uit tot ieder biologisch materiaal dat hieruit door middel van propagatie of vermeerdering in dezelfde of in gedifferentieerde vorm wordt gewonnen en dat diezelfde eigenschappen heeft.
+
+2. Ten aanzien van een octrooi voor een werkwijze voor de voortbrenging van biologisch materiaal dat door de uitvinding bepaalde eigenschappen heeft gekregen, strekt het recht, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) en [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), zich uit tot het biologisch materiaal dat rechtstreeks door deze werkwijze wordt gewonnen en tot ieder ander biologisch materiaal dat door middel van propagatie of vermeerdering in dezelfde of in gedifferentieerde vorm uit het rechtstreeks gewonnen biologisch materiaal wordt gewonnen en dat diezelfde eigenschappen heeft.
+
+3. Ten aanzien van een octrooi voor een product dat uit genetische informatie bestaat of dat zulke informatie bevat, strekt het recht, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01) en [54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54&z=2023-06-01&g=2023-06-01), zich uit tot ieder materiaal waarin dit product wordt verwerkt en waarin de genetische informatie wordt opgenomen en haar functie uitoefent, onverminderd [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=1&artikel=3&z=2023-06-01&g=2023-06-01).
+
+##### Artikel 54b
+
+De omvang van de door het octrooi verleende bescherming wordt bepaald door de conclusies van het octrooischrift, waarbij de beschrijving en de tekeningen dienen tot uitleg van die conclusies.
+
+##### Artikel 54c
+
+De uit een octrooi voortvloeiende rechten zijn niet van toepassing op:
+
+- a. handelingen die in de particuliere sfeer voor niet-commerciële doeleinden worden verricht;
+
+- b. handelingen voor experimentele doeleinden die het onderwerp van de geoctrooieerde uitvinding betreffen;
+
+- c. het gebruik van biologisch materiaal voor het kweken, of ontdekken en ontwikkelen van andere plantenrassen;
+
+- d. de handelingen die zijn toegestaan op grond van artikel 13, zesde lid, van [Richtlijn 2001/82/EG](32001L0082) van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEG 2001, L 311) of artikel 10, zesde lid, van [Richtlijn 2001/83/EG](32001L0083) van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor menselijk gebruik (PbEG 2001, L 311), met betrekking tot een octrooi voor het product in de zin van een van deze richtlijnen;
+
+- e. de bereiding van geneesmiddelen voor direct gebruik voor individuele gevallen op medisch voorschrift in apotheken, of handelingen betreffende de aldus bereide geneesmiddelen;
+
+- f. het gebruik van de geoctrooieerde uitvinding aan boord van schepen van landen die partij zijn bij de Internationale Unie tot bescherming van de industriële eigendom of lid zijn van de Wereldhandelsorganisatie, niet zijnde Nederland, Curaçao of Sint Maarten, in het schip zelf, in de machines, het scheepswant, de tuigage en andere toebehoren, indien die schepen zich tijdelijk of bij toeval begeven in de wateren van Nederland, Curaçao of Sint Maarten, mits de uitvinding uitsluitend voor het schip gebruikt wordt;
+
+- g. het gebruik van de geoctrooieerde uitvinding in de constructie of werking van luchtvaartuigen of landvoertuigen of andere middelen van vervoer van landen die partij zijn bij de Internationale Unie tot bescherming van de industriële eigendom of lid zijn van de Wereldhandelsorganisatie, niet zijnde Nederland, Curaçao of Sint Maarten, of van toebehoren van deze luchtvaartuigen of landvoertuigen, indien deze zich tijdelijk of bij toeval begeven op het grondgebied van Nederland, Curaçao of Sint Maarten;
+
+- h. de handelingen, bedoeld in artikel 27 van het op 7 december 1944 te Chicago gesloten Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109), indien deze handelingen betrekking hebben op een luchtvaartuig van een land dat partij is bij dat verdrag, niet zijnde Nederland, Curaçao of Sint Maarten;
+
+- i. het gebruik door een landbouwer van de producten van zijn oogst voor de propagatie of vermeerdering door hemzelf op zijn eigen bedrijf, indien het plantaardig propagatiemateriaal door de octrooihouder of met zijn toestemming voor gebruik in de landbouw aan de landbouwer is verkocht of anderszins verhandeld. De reikwijdte en de voorwaarden voor dit gebruik zijn bepaald in artikel 14 van Verordening (EG) nr. 2100/94 van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG 1994, L 227);
+
+- j. het gebruik voor agrarische doeleinden, door een landbouwer, van vee dat onder octrooibescherming valt, indien het fokvee of ander dierlijk propagatiemateriaal door de octrooihouder of met zijn toestemming aan de landbouwer is verkocht of anderszins verhandeld. Dit gebruik omvat het beschikbaar stellen van het dier of ander dierlijk propagatiemateriaal voor zijn eigen gebruik in de landbouw, maar niet de verkoop in het kader van of met het oog op de commerciële fokkerij;
+
+- k. de handelingen en het gebruik van verkregen informatie, die zijn toegestaan op grond van de artikelen 5 en 6 van [Richtlijn 2009/24/EG](32009L0024) van het Europees Parlement en de Raad van 23 april 2009 betreffende de rechtsbescherming van computerprogramma's (PbEU 2009, L 111), met name de bepalingen inzake decompilatie en interoperabiliteit, en
+
+- l. biologisch materiaal dat wordt gewonnen door propagatie of door vermeerdering van biologisch materiaal dat door de octrooihouder of met diens toestemming in Nederland, Curaçao of Sint Maarten, in een lidstaat van de Europese Unie, of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het verkeer is gebracht, indien de propagatie of de vermeerdering noodzakelijkerwijs voortvloeit uit het gebruik waarvoor het biologisch materiaal in het verkeer is gebracht, mits het afgeleide materiaal vervolgens niet voor andere propagaties of vermeerderingen wordt gebruikt.
+
+##### Artikel 54d
+
+Bij algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld ten aanzien van het bepaalde in [artikel 54c, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54c&z=2023-06-01&g=2023-06-01).
+
+##### Artikel 54e
+
+De aan een octrooi verbonden rechten strekken zich niet uit tot handelingen, die een door dat octrooi beschermd product betreffen, nadat het product door de octrooihouder of met zijn toestemming in Nederland, Curaçao of Sint Maarten, in een lidstaat van de Europese Unie, of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, in het verkeer is gebracht, tenzij de octrooihouder zich op legitieme gronden tegen verdere verkoop van het product kan verzetten.
+
+##### Artikel 55a
+
+1. Is een product als bedoeld in [artikel 53, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01), in Nederland, Curaçao of Sint Maarten rechtmatig in het verkeer gebracht, anders dan bedoeld in [artikel 54e](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=54e&z=2023-06-01&g=2023-06-01), dan handelt de verkrijger of latere houder niet in strijd met het octrooi, door dit product aan te bieden, in het verkeer te brengen of te gebruiken, dan wel met dat doel in te voeren of in voorraad te hebben.
+
+2. Een product als bedoeld in [artikel 53, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=4&paragraaf=1&artikel=53&z=2023-06-01&g=2023-06-01), dat voor de verlening van het octrooi, of, indien het een Europees octrooi betreft, voor de dag, waarop overeenkomstig [artikel 97, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&hoofdstuk=7&artikel=97&z=2023-06-01&g=2023-06-01), van het Europees Octrooiverdrag de vermelding van de verlening van het Europees octrooi is gepubliceerd, in een bedrijf is vervaardigd, mag niettegenstaande het octrooi ten dienste van dat bedrijf worden gebruikt.
+
+#### § 3. Het octrooi als deel van het vermogen
+
+#### § 4. Handhaving van het octrooi
 
 ### Hoofdstuk 7. Aanvullende beschermingscertificaten
 
