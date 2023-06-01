@@ -4,7 +4,7 @@ identifier: "BWBR0044449"
 country: "nl"
 rank: "wet"
 publication_date: "2023-06-01"
-last_updated: "2020-12-04"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044449"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet wordt verstaan onder:
 
 - **screeningsmechanisme:** screeningsmechanisme als bedoeld in artikel 2, onder 4, van [verordening 2019/452](32352R2019);
 
-- **Onze verantwoordelijke Minister:** de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=3&z=2020-12-04&g=2020-12-04) eerstverantwoordelijke minister.
+- **Onze verantwoordelijke Minister:** de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=3&z=2023-06-01&g=2023-06-01) eerstverantwoordelijke minister.
 
 ##### Artikel 2
 
@@ -73,7 +73,7 @@ Onze Minister van Economische Zaken en Klimaat is het contactpunt, bedoeld in ar
 
 ##### Artikel 4
 
-1. Onze op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=3&z=2020-12-04&g=2020-12-04) betrokken Ministers, het contactpunt, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=2&z=2020-12-04&g=2020-12-04), en de partijen, bedoeld in het derde en vierde lid, verwerken slechts persoonsgegevens in het kader van deze wet met het doel te voldoen aan verplichtingen die volgen uit [verordening 2019/452](32352R2019).
+1. Onze op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=3&z=2023-06-01&g=2023-06-01) betrokken Ministers, het contactpunt, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=2&z=2023-06-01&g=2023-06-01), en de partijen, bedoeld in het derde en vierde lid, verwerken slechts persoonsgegevens in het kader van deze wet met het doel te voldoen aan verplichtingen die volgen uit [verordening 2019/452](32352R2019).
 
 2. Onze verantwoordelijke Minister maakt ten behoeve van het verzamelen van de informatie, bedoeld in artikel 9, eerste en derde lid, van [verordening 2019/452](32352R2019), voor zover deze informatie nog niet in het kader van een screeningsmechanisme is verzameld, gebruik van gegevens die afkomstig zijn uit:
 
@@ -95,7 +95,7 @@ Onze Minister van Economische Zaken en Klimaat is het contactpunt, bedoeld in ar
 
 - d. bij algemene maatregel van bestuur aan te wijzen bestuursorganen, diensten, toezichthouders of andere personen.
 
-4. Onze verantwoordelijke Minister kan voorts de Algemene Inlichtingen- en Veiligheidsdienst of de Militaire Inlichtingen- en Veiligheidsdienst om informatie verzoeken, voor zover dit noodzakelijk is voor de uitvoering van de verplichtingen, bedoeld in artikel 9, eerste en derde lid, van [verordening 2019/452](32352R2019).
+4. Onze verantwoordelijke Minister kan, voor zover dit noodzakelijk is voor de uitvoering van deze wet, voorts de Minister van Binnenlandse Zaken en Koninkrijksrelaties verzoeken mededeling als bedoeld in [artikel 8, tweede lid, onderdeel f, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8) te doen of de Minister van Defensie verzoeken mededeling als bedoeld in [artikel 10, tweede lid, onderdeel g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=10) te doen.
 
 5. Voor zover de verzameling of verstrekking, bedoeld in het tweede tot en met vierde lid, niet de benodigde gegevens heeft opgeleverd, maakt Onze verantwoordelijke Minister gebruik van de bevoegdheid, bedoeld in artikel 9, vierde lid, van [verordening 2019/452](32352R2019).
 
@@ -111,7 +111,7 @@ Met het toezicht op de naleving van artikel 9, vierde lid, tweede volzin, van [v
 
 1. Onze verantwoordelijke Minister kan in geval van overtreding van artikel 9, vierde lid, tweede volzin, van [verordening 2019/452](32352R2019), de overtreder een last onder bestuursdwang opleggen.
 
-2. Onze verantwoordelijke Minister kan in geval van overtreding van [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4&z=2020-12-04&g=2020-12-04), de onderneming waarin de buitenlandse directe investering wordt gepland of is voltooid een last onder bestuursdwang opleggen.
+2. Onze verantwoordelijke Minister kan in geval van overtreding van [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4&z=2023-06-01&g=2023-06-01), de onderneming waarin de buitenlandse directe investering wordt gepland of is voltooid een last onder bestuursdwang opleggen.
 
 3. Van een besluit als bedoeld in het eerste of het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -129,7 +129,7 @@ Wijzigt de Wet op de economische delicten.
 
 ##### Artikel 10
 
-Onze Minister van Economische Zaken en Klimaat zendt in overeenstemming met Onze Minister van Justitie en Veiligheid en Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de informatieverzameling op grond van [artikel 4, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4&z=2020-12-04&g=2020-12-04).
+Onze Minister van Economische Zaken en Klimaat zendt in overeenstemming met Onze Minister van Justitie en Veiligheid en Onze Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de informatieverzameling op grond van [artikel 4, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044449&artikel=4&z=2023-06-01&g=2023-06-01).
 
 ##### Artikel 11
 
