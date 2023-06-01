@@ -4,7 +4,7 @@ identifier: "BWBR0020829"
 country: "nl"
 rank: "wet"
 publication_date: "2023-06-01"
-last_updated: "2007-12-31"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020829"
 soort: "wet"
@@ -90,7 +90,7 @@ Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XII
 
-1. Voorzover op het tijdstip van inwerkingtreding van [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020829&artikel=V&z=2007-12-31&g=2007-12-31), voor een personenauto, een bestelauto of een autobus het tijdvak waarover de belasting is betaald nog niet is verstreken of nog niet is ingegaan, wordt teruggaaf verleend van het bedrag waarmee de belasting is vermeerderd ingevolge [hoofdstuk IV van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV), zoals dat hoofdstuk tot dat tijdstip luidde.
+1. Voorzover op het tijdstip van inwerkingtreding van [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0020829&artikel=V&z=2023-06-01&g=2023-06-01), voor een personenauto, een bestelauto of een autobus het tijdvak waarover de belasting is betaald nog niet is verstreken of nog niet is ingegaan, wordt teruggaaf verleend van het bedrag waarmee de belasting is vermeerderd ingevolge [hoofdstuk IV van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=IV), zoals dat hoofdstuk tot dat tijdstip luidde.
 
 2. Bedragen van € 5 en minder worden niet terugbetaald.
 
@@ -98,6 +98,6 @@ Wijzigt de Invorderingswet 1990.
 
 1. Deze wet treedt in werking met ingang van 1 januari 2007.
 
-2. In afwijking van het eerste lid treedt [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020829&artikel=V&z=2007-12-31&g=2007-12-31), in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid treedt [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0020829&artikel=V&z=2023-06-01&g=2023-06-01), in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
