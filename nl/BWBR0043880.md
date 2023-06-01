@@ -4,7 +4,7 @@ identifier: "BWBR0043880"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2023-01-01"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043880"
 soort: "wet"
@@ -120,38 +120,44 @@ Wijzigt de Wet medische hulpmiddelen.
 
 ### Hoofstuk 5. Slotbepalingen
 
-##### Artikel 5.1. Overgangsrecht [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-01-01&g=2023-01-01), [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-01-01&g=2023-01-01)
+##### Artikel 5.1. Overgangsrecht [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-06-01&g=2023-06-01), [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-06-01&g=2023-06-01)
 
-Wanneer [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-01-01&g=2023-01-01) vervalt op grond van [artikel 5.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=5&artikel=5.4&z=2023-01-01&g=2023-01-01), blijven de benoemingen tot raadsheren-plaatsvervangers en rechters-plaatsvervangers die op grond van deze wet tot stand zijn gekomen van kracht, tot de eerste dag van de maand volgende op die waarin de raadsheer-plaatsvervanger of rechter-plaatsvervanger de leeftijd van drieënzeventig jaren heeft bereikt. Het ontslag vindt plaats bij koninklijk besluit op voordracht van de Minister voor Rechtsbescherming.
+Wanneer [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-06-01&g=2023-06-01) vervalt op grond van [artikel 5.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=5&artikel=5.4&z=2023-06-01&g=2023-06-01), blijven de benoemingen tot raadsheren-plaatsvervangers en rechters-plaatsvervangers die op grond van deze wet tot stand zijn gekomen van kracht, tot de eerste dag van de maand volgende op die waarin de raadsheer-plaatsvervanger of rechter-plaatsvervanger de leeftijd van drieënzeventig jaren heeft bereikt. Het ontslag vindt plaats bij koninklijk besluit op voordracht van de Minister voor Rechtsbescherming.
 
-##### Artikel 5.2. Inwerkingtreding en verval [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&z=2023-01-01&g=2023-01-01)
+##### Artikel 5.2. Inwerkingtreding en verval [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&z=2023-06-01&g=2023-06-01)
 
-1. Hoofdstuk 1 van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.2&z=2023-01-01&g=2023-01-01), en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.4&z=2023-01-01&g=2023-01-01), die in werking treden met ingang van 1 augustus 2020.
+1. Hoofdstuk 1 van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.2&z=2023-06-01&g=2023-06-01), en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.4&z=2023-06-01&g=2023-06-01), die in werking treden met ingang van 1 augustus 2020.
 
-2. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 augustus 2020, treden de [artikelen 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.2&z=2023-01-01&g=2023-01-01), en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.4&z=2023-01-01&g=2023-01-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werken deze artikelen terug tot en met 1 augustus 2020.
+2. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 augustus 2020, treden de [artikelen 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.2&z=2023-06-01&g=2023-06-01), en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.4&z=2023-06-01&g=2023-06-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werken deze artikelen terug tot en met 1 augustus 2020.
 
-3. De [artikelen 1.1 tot en met 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.1&z=2023-01-01&g=2023-01-01) vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+3. De [artikelen 1.1 tot en met 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.1&z=2023-06-01&g=2023-06-01) vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 5.3. Inwerkingtreding [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-01-01&g=2023-01-01)
+##### Artikel 5.3. Inwerkingtreding [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-06-01&g=2023-06-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-06-01&g=2023-06-01)
 
-[Hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-01-01&g=2023-01-01) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin hij wordt geplaatst.
+[Hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-06-01&g=2023-06-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-06-01&g=2023-06-01) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin hij wordt geplaatst.
 
-##### Artikel 5.4. Inwerkingtreding en verval [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-01-01&g=2023-01-01)
+##### Artikel 5.4. Inwerkingtreding en verval [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-06-01&g=2023-06-01)
 
-1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-01-01&g=2023-01-01) van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-06-01&g=2023-06-01) van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In het koninklijk besluit kan worden bepaald dat de artikelen van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-01-01&g=2023-01-01) of onderdelen daarvan, terugwerken tot en met 18 juni 2020.
+2. In het koninklijk besluit kan worden bepaald dat de artikelen van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-06-01&g=2023-06-01) of onderdelen daarvan, terugwerken tot en met 18 juni 2020.
 
-3. In afwijking van het eerste lid treedt [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.2&z=2023-01-01&g=2023-01-01) in werking met ingang van 1 december 2020, met dien verstande dat bij koninklijk besluit een eerder tijdstip kan worden bepaald waarop dit artikel in werking treedt, dan wel een later tijdstip dat steeds ten hoogste twee maanden later ligt dan het eerder geldende tijdstip.
+3. In afwijking van het eerste lid treedt [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.2&z=2023-06-01&g=2023-06-01) in werking met ingang van 1 december 2020, met dien verstande dat bij koninklijk besluit een eerder tijdstip kan worden bepaald waarop dit artikel in werking treedt, dan wel een later tijdstip dat steeds ten hoogste twee maanden later ligt dan het eerder geldende tijdstip.
 
-4. [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-01-01&g=2023-01-01) vervalt drie jaar na de inwerkingtreding daarvan. Het tijdstip waarop dit artikel vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop dit artikel zou vervallen.
+4. [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-06-01&g=2023-06-01) vervalt drie jaar na de inwerkingtreding daarvan. Het tijdstip waarop dit artikel vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop dit artikel zou vervallen.
 
-5. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.4&z=2023-01-01&g=2023-01-01) vervalt op 1 september 2020. Het tijdstip waarop dit artikel vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop dit artikel zou vervallen.
+5. Artikel 3.4 vervalt op 1 september 2020. Het tijdstip waarop dit artikel vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop dit artikel zou vervallen.
 
 6. De voordracht voor een krachtens het vierde en vijfde lid vast te stellen koninklijk besluit wordt niet eerder gedaan dan een week nadat het ontwerp aan beide Kamers van de Staten-Generaal is overgelegd.
 
 ##### Artikel 5.5. Citeertitel
 
 Deze wet wordt aangehaald als: Tweede Verzamelspoedwet COVID-19.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk 4. Ministerie van Volksgezondheid, Welzijn en Sport
+
+### Hoofstuk 5. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
