@@ -4,7 +4,7 @@ identifier: "BWBR0038821"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-12"
-last_updated: "2022-01-01"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038821"
 soort: "AMvB"
@@ -48,13 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
-
-- –. **IMI:** het Informatiesysteem interne markt, bedoeld in de IMI-verordening;
-
-- –. **IMI-verordening:** Verordening (EU) Nr. 1024/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende de administratieve samenwerking via het Informatiesysteem interne markt en tot intrekking van Beschikking 2008/49/EG van de Commissie (PbEU 2012, L 316);
-
-- –. **wet:** [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054).
+In dit besluit wordt verstaan onder wet: [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054).
 
 ##### Artikel 2
 
@@ -90,11 +84,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Onze Minister is bevoegd uit eigen beweging en verplicht op verzoek de gegevens met betrekking tot dienstverrichters, dienstontvangers, contactpersonen, de voor uitbetaling van het loon verantwoordelijke personen en gedetacheerde werknemers, die zijn verwerkt in verband met [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8), waaronder een nationaal identificatienummer zoals het burgerservicenummer begrepen kan worden, kosteloos te verstrekken aan de Immigratie- en naturalisatiedienst, voor zover die gegevens noodzakelijk zijn voor de taken in verband met de uitvoering van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823).
 
+3. Onze Minister is bevoegd uit eigen beweging en verplicht op verzoek de gegevens met betrekking tot dienstverrichters, dienstontvangers, contactpersonen, de voor uitbetaling van het loon verantwoordelijke personen en gedetacheerde werknemers, die zijn verwerkt in verband met de [artikelen 9e](onbekend), [9f, tweede lid](onbekend), en [9g van de wet](onbekend), waaronder een nationaal identificatienummer zoals het burgerservicenummer begrepen kan worden, kosteloos te verstrekken aan de Sociale verzekeringsbank, voor zover die gegevens noodzakelijk zijn voor het vaststellen van de tijdvakken van verzekering voor de volksverzekeringen en de verzekeringsstatus van de gedetacheerde werknemers, of de toepassing van [Verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de socialezekerheidsstelsels (PbEG 2004, L 200).
+
 ##### Artikel 4
 
-1. Een verzoek als bedoeld in [artikel 10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a) wordt schriftelijk ingediend en met redenen omkleed. Indien uit het verzoek niet blijkt van een gegrond vermoeden van een mogelijke overtreding van een of meer algemeen verbindend verklaarde bepalingen van collectieve arbeidsovereenkomsten die gelden voor gedetacheerde werknemers en van de noodzaak voor de verzoeker om de verzochte gegevens te gebruiken voor het toezicht op de naleving van die bepaling of bepalingen, kan het verzoek worden geweigerd.
+1. Een verzoek als bedoeld in [artikel 10a, eerste tot en met vierde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a) wordt schriftelijk ingediend en met redenen omkleed. Indien uit het verzoek niet blijkt van een gegrond vermoeden van een mogelijke overtreding van een of meer algemeen verbindend verklaarde bepalingen van collectieve arbeidsovereenkomsten die gelden voor gedetacheerde werknemers en van de noodzaak voor de verzoeker om de verzochte gegevens te gebruiken voor het toezicht op de naleving van die bepaling of bepalingen, kan het verzoek worden geweigerd.
 
-2. De gegevens, die Onze Minister op grond van [artikel 10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a) kan verstrekken uit de onder zijn verantwoordelijkheid gevoerde administraties, betreffen:
+2. De gegevens, die Onze Minister op grond van [artikel 10a, eerste tot en met vierde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a) kan verstrekken uit de onder zijn verantwoordelijkheid gevoerde administraties, betreffen:
 
 - a. de identiteit van de dienstverrichter;
 
@@ -118,7 +114,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De gegevens, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=II&artikel=2&z=2022-01-01&g=2022-01-01), worden vernietigd na een periode van maximaal 7 jaar, te rekenen vanaf de datum van ontvangst van het gegeven.
+1. De gegevens, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=II&artikel=2&z=2023-06-01&g=2023-06-01), worden vernietigd na een periode van maximaal 7 jaar, te rekenen vanaf de datum van ontvangst van het gegeven.
 
 2. Indien blijkt dat gegevens onjuist zijn of ten onrechte worden verwerkt, worden deze verbeterd onderscheidenlijk verwijderd. Onze Minister doet daarvan zo spoedig mogelijk mededeling aan de personen en instanties die de gegevens hebben ontvangen.
 
@@ -126,7 +122,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De verwijderde gegevens worden vernietigd, tenzij wettelijke regels omtrent bewaring daaraan in de weg staan.
 
-5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in acht te nemen termijnen bij de verwerking van gegevens, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=II&artikel=2&z=2022-01-01&g=2022-01-01).
+5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in acht te nemen termijnen bij de verwerking van gegevens, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=II&artikel=2&z=2023-06-01&g=2023-06-01).
 
 ##### Artikel 6
 
@@ -270,7 +266,7 @@ Een melding in de zin van [artikel 8 van de wet](https://wetten.overheid.nl/jci1
 
 - b. een in het buitenland gevestigde zelfstandige, die:
 
-- 1°. werkzaam is in een in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=IV&artikel=8&z=2022-01-01&g=2022-01-01), genoemde sector van het beroeps- of bedrijfsleven;
+- 1°. werkzaam is in een in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=IV&artikel=8&z=2023-06-01&g=2023-06-01), genoemde sector van het beroeps- of bedrijfsleven;
 
 - 2°. is gevestigd binnen een straal van 100 kilometer van de Nederlandse grens;
 
@@ -280,7 +276,7 @@ Een melding in de zin van [artikel 8 van de wet](https://wetten.overheid.nl/jci1
 
 - 5°. niet werkzaam is in de sector die in de Standaard Bedrijfsindeling is ingedeeld in de sectie F Bouwnijverheid;
 
-- c. een dienstverrichter of in het buitenland gevestigde zelfstandige die werkzaam is in de sector die in de Standaard Bedrijfsindeling is ingedeeld in de groep 49.4 Goederenvervoer over de weg, met inbegrip van de dienstverrichter of zelfstandige die in Nederland in opdracht van een in Nederland gevestigde dienstontvanger goederen levert.
+- c. een dienstverrichter die in het kader van transnationale dienstverrichting zijn werknemer ter beschikking stelt in de sector goederenvervoer en op wie zowel [artikel 9e](onbekend) als [artikel 9g van de wet](onbekend) niet van toepassing is, of een in het buitenland gevestigde zelfstandige die werkzaam is in de sector die in de Standaard Bedrijfsindeling is ingedeeld in de groep 49.4 Goederenvervoer over de weg, met inbegrip van de zelfstandige die in Nederland in opdracht van een in Nederland gevestigde dienstontvanger goederen levert.
 
 ##### Artikel 10
 
@@ -328,15 +324,17 @@ Een melding in de zin van [artikel 8 van de wet](https://wetten.overheid.nl/jci1
 
 - q. onderzoekers en leden van een wetenschappelijk team die door een universiteit of een wetenschappelijke instelling worden tewerkgesteld, die in Nederland aan een wetenschappelijk programma van een universiteit of een wetenschappelijke instelling deelnemen, mits hun verblijf niet meer dan 13 aaneengesloten weken binnen een tijdsbestek van 52 weken bedraagt.
 
-2. De dienstverrichter, die niet uitsluitend in het eerste lid genoemde categorieën van werknemers detacheert naar Nederland, meldt de in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) genoemde gegevens, met uitzondering van de identiteit van de gedetacheerde werknemer die valt onder een van de in het eerste lid genoemde categorieën en de bijdrage voor toepasselijke socialezekerheidsregelingen voor deze werknemer.
+2. [Artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) is niet van toepassing op de dienstverrichter op wie de verplichting van [artikel 9e](onbekend) of [artikel 9g van de wet](onbekend) van toepassing is.
+
+3. De dienstverrichter, die niet uitsluitend in het eerste lid genoemde categorieën van werknemers detacheert naar Nederland, meldt de in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) genoemde gegevens, met uitzondering van de identiteit van de gedetacheerde werknemer die valt onder een van de in het eerste lid genoemde categorieën en de bijdrage voor toepasselijke socialezekerheidsregelingen voor deze werknemer.
 
 ##### Artikel 11
 
-1. De verplichting, bedoeld in [artikel 2a, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) geldt niet voor de dienstverrichter op wie de meldingsplicht, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) van toepassing is.
+1. De verplichting, bedoeld in [artikel 2a, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) geldt niet voor de dienstverrichter op wie de meldingsplicht, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) van toepassing is en voor de dienstverrichter op wie [artikel 9e](onbekend) of [9g van de wet](onbekend) van toepassing is.
 
-2. [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=IV&artikel=10&z=2022-01-01&g=2022-01-01), is niet van toepassing op de dienstverrichter die een vreemdeling als bedoeld in [artikel 4.6 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.6) detacheert. Indien artikel 10, tweede lid, van toepassing is, meldt deze dienstverrichter de in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) genoemde gegevens, met uitzondering van de identiteit van de gedetacheerde werknemer die valt onder een van de in artikel 10, eerste lid, genoemde categorieën en die geen vreemdeling is als bedoeld in artikel 4.6 van het Besluit uitvoering Wet arbeid vreemdelingen 2022, en de bijdrage voor toepasselijke socialezekerheidsregelingen voor deze werknemer.
+2. [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038821&hoofdstuk=IV&artikel=10&z=2023-06-01&g=2023-06-01), is niet van toepassing op de dienstverrichter die een vreemdeling als bedoeld in [artikel 4.6 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.6) detacheert. Indien artikel 10, derde lid, van toepassing is, meldt deze dienstverrichter de in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) genoemde gegevens, met uitzondering van de identiteit van de gedetacheerde werknemer die valt onder een van de in artikel 10, eerste lid, genoemde categorieën en die geen vreemdeling is als bedoeld in artikel 4.6 van het Besluit uitvoering Wet arbeid vreemdelingen 2022, en de bijdrage voor toepasselijke socialezekerheidsregelingen voor deze werknemer.
 
-3. De dienstverrichter die een vreemdeling als bedoeld in [artikel 1e van het Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1e) detacheert, verstrekt in aanvulling op de in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) genoemde gegevens de einddatum van de periode van rechtmatige tewerkstelling als vermeld in het document op grond waarvan het aan deze vreemdeling is toegestaan als werknemer arbeid te verrichten in de lidstaat van afgifte.
+3. De dienstverrichter die een vreemdeling als bedoeld in [artikel 4.6 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=4.6) detacheert, verstrekt in aanvulling op de in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=8) genoemde gegevens de einddatum van de periode van rechtmatige tewerkstelling als vermeld in het document op grond waarvan het aan deze vreemdeling is toegestaan als werknemer arbeid te verrichten in de lidstaat van afgifte.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
