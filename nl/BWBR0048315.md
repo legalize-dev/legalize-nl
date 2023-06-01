@@ -4,7 +4,7 @@ identifier: "BWBR0048315"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-13"
-last_updated: "2022-04-01"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048315"
 soort: "ministeriele-regeling"
@@ -56,11 +56,11 @@ entry_into_force: "2024-02-12"
 
 ##### Artikel 2
 
-Tot het verlenen van volmacht om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=1&z=2023-06-27&g=2022-04-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Tot het verlenen van volmacht om op te treden als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk ten aanzien van de onder hen ressorterende functionarissen, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=1&z=2023-06-27&g=2023-06-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=2&z=2023-06-27&g=2022-04-01) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&bijlage=2&z=2023-06-27&g=2023-06-01) bij deze regeling voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -106,11 +106,11 @@ De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverm
 | **1.5** | **hoofd Project-, programma- en adviescentrum** | **A** |
 | 1.5.1 | plv. hoofd Project-, programma- en adviescentrum | A |
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=2&z=2023-06-27&g=2022-04-01) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=2&z=2023-06-27&g=2023-06-01) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
 
-De functionarissen bij wie in **kolom 2 de letter A** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2023-06-27&g=2022-04-01) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend.
+De functionarissen bij wie in **kolom 2 de letter A** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2023-06-27&g=2023-06-01) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend.
 
-De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2023-06-27&g=2022-04-01) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend., met uitzondering van de bevoegdheden tot het aangaan van arbeidsovereenkomsten, het bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en het beëindigen van arbeidsovereenkomsten alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in **kolom 2 de letter B** is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=4&z=2023-06-27&g=2023-06-01) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens paragraaf 1.3 van de CAO Rijk aan leidinggevenden zijn toegekend., met uitzondering van de bevoegdheden tot het aangaan van arbeidsovereenkomsten, het bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en het beëindigen van arbeidsovereenkomsten alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
 
 |   | Kolom 1 | Kolom 2 |
 | --- | --- | --- |
@@ -144,7 +144,7 @@ Besluit:
 
 De terugwerkende kracht betreft herplaatsing van de regeling.
 
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=3&z=2023-06-27&g=2022-04-01) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
+## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048315&artikel=3&z=2023-06-27&g=2023-06-01) van het Mandaatbesluit HDBV Ministerie van Justitie en Veiligheid 2022
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3), tot het aangaan van verplichtingen en het doen van uitgaven.
 
