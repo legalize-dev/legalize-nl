@@ -4,7 +4,7 @@ identifier: "BWBV0006906"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-06-01"
-last_updated: "2021-04-28"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006906"
 soort: "verdrag"
@@ -142,11 +142,11 @@ Op verzoek stelt de aangezochte administratie de verzoekende administratie op de
 
 ##### Artikel 6. Automatisch verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006906&hoofdstuk=X&artikel=19&z=2021-04-28&g=2021-04-28) van dit Verdrag, automatisch informatie die onder dit Verdrag valt verstrekken.
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006906&hoofdstuk=X&artikel=19&z=2023-06-01&g=2023-06-01) van dit Verdrag, automatisch informatie die onder dit Verdrag valt verstrekken.
 
 ##### Artikel 7. Vooraf verstrekken van informatie
 
-De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006906&hoofdstuk=X&artikel=19&z=2021-04-28&g=2021-04-28) van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van goederen op het grondgebied van de andere verdragsluitende partij.
+De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006906&hoofdstuk=X&artikel=19&z=2023-06-01&g=2023-06-01) van dit Verdrag, specifieke informatie verstrekken voorafgaand aan de aankomst van goederen op het grondgebied van de andere verdragsluitende partij.
 
 ### HOOFDSTUK IV. BIJZONDERE VORMEN VAN BIJSTAND
 
@@ -288,7 +288,7 @@ De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag,
 
 - d. Sint Maarten.
 
-3. Niettegenstaande het tweede lid is, wat het Koninkrijk der Nederlanden betreft, het derde lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006906&hoofdstuk=II&artikel=2&z=2021-04-28&g=2021-04-28) uitsluitend van toepassing op zijn grondgebied in Europa.
+3. Niettegenstaande het tweede lid is, wat het Koninkrijk der Nederlanden betreft, het derde lid van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006906&hoofdstuk=II&artikel=2&z=2023-06-01&g=2023-06-01) uitsluitend van toepassing op zijn grondgebied in Europa.
 
 ### HOOFDSTUK XII. REGELING VAN GESCHILLEN
 
