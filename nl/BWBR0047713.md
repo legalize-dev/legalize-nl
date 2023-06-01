@@ -4,7 +4,7 @@ identifier: "BWBR0047713"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047713"
 soort: "ministeriele-regeling"
@@ -102,8 +102,6 @@ Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 19
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XVI
 
 Wijzigt de Algemene douaneregeling.
@@ -180,21 +178,21 @@ Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2023, met dien verstande dat:
 
-- a. [artikel I, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=I&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 1 april 2022;
+- a. [artikel I, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=I&z=2023-06-01&g=2023-06-01), terugwerkt tot en met 1 april 2022;
 
-- b. [artikel I, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=I&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 1 januari 2019;
+- b. [artikel I, onderdeel A, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=I&z=2023-06-01&g=2023-06-01), terugwerkt tot en met 1 januari 2019;
 
-- c. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=I&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 1 januari 2022;
+- c. [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=I&z=2023-06-01&g=2023-06-01), terugwerkt tot en met 1 januari 2022;
 
-- d. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=VII&z=2023-01-01&g=2023-01-01) en [artikel VIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=VIII&z=2023-01-01&g=2023-01-01), voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2023;
+- d. [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=VII&z=2023-06-01&g=2023-06-01) en [artikel VIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=VIII&z=2023-06-01&g=2023-06-01), voor het eerst toepassing vinden met betrekking tot boekjaren die aanvangen op of na 1 januari 2023;
 
-- e. [artikel XXIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=XXIII&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 1 juni 2021; en
+- e. [artikel XXIII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=XXIII&z=2023-06-01&g=2023-06-01), terugwerkt tot en met 1 juni 2021; en
 
-- f. [artikel XXIII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=XXXIII&z=2023-01-01&g=2023-01-01), terugwerkt tot en met 1 januari 2021.
+- f. [artikel XXIII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=XXXIII&z=2023-06-01&g=2023-06-01), terugwerkt tot en met 1 januari 2021.
 
-2. In afwijking van het eerste lid, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=II&z=2023-01-01&g=2023-01-01) in werking met ingang van 1 januari 2024 en treden [artikel XIV, onderdeel C, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=XIV&z=2023-01-01&g=2023-01-01), en artikel XIV, onderdeel D, in werking met ingang van 1 juli 2023.
+2. In afwijking van het eerste lid, treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=II&z=2023-06-01&g=2023-06-01) in werking met ingang van 1 januari 2024 en treden [artikel XIV, onderdeel C, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=XIV&z=2023-06-01&g=2023-06-01), en artikel XIV, onderdeel D, in werking met ingang van 1 juli 2023.
 
-3. In afwijking van het eerste lid treedt [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=XV&z=2023-01-01&g=2023-01-01) in werking met ingang van de dag dat [artikel V, onderdeel A, van de Wet van 14 december 2006 houdende wijziging van enkele belastingwetten ter vermindering van administratieve lasten](https://wetten.overheid.nl/jci1.3:c:BWBR0020829&artikel=V) (Stb. 2006, 681) in werking treedt.
+3. In afwijking van het eerste lid treedt [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0047713&artikel=XV&z=2023-06-01&g=2023-06-01) in werking met ingang van de dag dat [artikel V, onderdeel A, van de Wet van 14 december 2006 houdende wijziging van enkele belastingwetten ter vermindering van administratieve lasten](https://wetten.overheid.nl/jci1.3:c:BWBR0020829&artikel=V) (Stb. 2006, 681) in werking treedt.
 
 Handelende wat [artikel 3.34 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.34) betreft, in overeenstemming met de Minister van Economische Zaken en Klimaat;
 
