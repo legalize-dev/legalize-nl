@@ -4,7 +4,7 @@ identifier: "BWBV0006168"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-06-26"
-last_updated: "2013-02-19"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006168"
 soort: "verdrag"
@@ -96,9 +96,9 @@ In deze overeenkomst wordt verstaan onder:
 
 - h. „aanvullend beschermingscertificaat”: een aanvullend beschermingscertificaat verleend op grond van Verordening (EG) nr. 469/20093)Verordening (EG) Nr. 469/2009 van het Europees Parlement en de Raad van 6 mei 2009 betreffende het aanvullende beschermingscertificaat voor geneesmiddelen (**PbEU** L 152, 16 juni 2009, blz. 1), met inbegrip van latere wijzigingen. of van Verordening (EG) nr. 1610/964)Verordening (EG) Nr. 1610/96 van het Europees Parlement en de Raad van 23 juli 1996 betreffende de invoering van een aanvullend beschermingscertificaat voor gewasbeschermingsmiddelen, (**PbEG** L 198 van 8 augustus 1996, blz. 30), met inbegrip van latere wijzigingen.;
 
-- i. „statuut”: het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2013-02-19&g=2013-02-19) vervatte statuut van het Octrooigerecht, dat een integraal onderdeel van deze overeenkomst vormt;
+- i. „statuut”: het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2023-06-01&g=2023-06-01) vervatte statuut van het Octrooigerecht, dat een integraal onderdeel van deze overeenkomst vormt;
 
-- j. „procesreglement”: het procesreglement van het Gerecht, zoals vastgesteld overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=41&z=2013-02-19&g=2013-02-19).
+- j. „procesreglement”: het procesreglement van het Gerecht, zoals vastgesteld overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=41&z=2023-06-01&g=2023-06-01).
 
 ##### Artikel 3. Toepassingsgebied
 
@@ -108,9 +108,9 @@ Deze overeenkomst is van toepassing op:
 
 - b. elk aanvullend beschermingscertificaat dat is verleend voor een door een octrooi beschermd product;
 
-- c. elk Europees octrooi dat nog niet is vervallen op de datum van inwerkingtreding van deze overeenkomst of dat na die datum is verleend, onverminderd [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2013-02-19&g=2013-02-19); en
+- c. elk Europees octrooi dat nog niet is vervallen op de datum van inwerkingtreding van deze overeenkomst of dat na die datum is verleend, onverminderd [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-01&g=2023-06-01); en
 
-- d. elke Europese octrooiaanvraag die op de datum van inwerkingtreding van deze overeenkomst nog in behandeling is of na die datum is ingediend, onverminderd [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2013-02-19&g=2013-02-19).
+- d. elke Europese octrooiaanvraag die op de datum van inwerkingtreding van deze overeenkomst nog in behandeling is of na die datum is ingediend, onverminderd [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-01&g=2023-06-01).
 
 ##### Artikel 4. Rechtspositie
 
@@ -122,7 +122,7 @@ Deze overeenkomst is van toepassing op:
 
 1. De contractuele aansprakelijkheid van het Gerecht wordt beheerst door het overeenkomstig Verordening (EG) nr. 593/20085)Verordening (EG) Nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (Rome I) (**PbEU** L 177 van 4 juli 2008, blz. 6), met inbegrip van latere wijzigingen. (Rome I) op het contract toepasselijke recht, indien van toepassing, of anders overeenkomstig het recht van de lidstaat van het gerecht waarbij de zaak aanhangig is gemaakt.
 
-2. De niet-contractuele aansprakelijkheid van het Gerecht voor schade veroorzaakt door het Gerecht of door het personeel bij de uitvoering van zijn taken, voor zover het geen burgerlijke- of handelsrechtelijke aangelegenheid in de zin van Verordening (EG) nr. 864/20076)Verordening (EG) Nr. 864/2007 van het Europees Parlement en de Raad van 11 juli 2007 betreffende het recht dat van toepassing is op niet-contractuele verbintenissen (Rome II) (**PbEU** L 199 van 31 juli 2007, blz. 40), met inbegrip van latere wijzigingen. (Rome II) betreft, wordt beheerst door het recht van de overeenkomstsluitende lidstaat waar de schade zich voordoet. Deze bepaling laat de toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=22&z=2013-02-19&g=2013-02-19) onverlet.
+2. De niet-contractuele aansprakelijkheid van het Gerecht voor schade veroorzaakt door het Gerecht of door het personeel bij de uitvoering van zijn taken, voor zover het geen burgerlijke- of handelsrechtelijke aangelegenheid in de zin van Verordening (EG) nr. 864/20076)Verordening (EG) Nr. 864/2007 van het Europees Parlement en de Raad van 11 juli 2007 betreffende het recht dat van toepassing is op niet-contractuele verbintenissen (Rome II) (**PbEU** L 199 van 31 juli 2007, blz. 40), met inbegrip van latere wijzigingen. (Rome II) betreft, wordt beheerst door het recht van de overeenkomstsluitende lidstaat waar de schade zich voordoet. Deze bepaling laat de toepassing van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=22&z=2023-06-01&g=2023-06-01) onverlet.
 
 3. De bevoegdheid te beslissen over de in het tweede lid bedoelde geschillen ligt bij een rechterlijke instantie van de overeenkomstsluitende lidstaat waar de schade zich heeft voorgedaan.
 
@@ -148,19 +148,19 @@ Deze overeenkomst is van toepassing op:
 
 ##### Artikel 8. Samenstelling van de panels van het Gerecht van Eerste Aanleg
 
-1. Elk panel van het Gerecht van Eerste Aanleg heeft een multinationale samenstelling. Onverminderd het vijfde lid van dit artikel en [artikel 33, derde lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2013-02-19&g=2013-02-19), bestaat zij uit drie rechters.
+1. Elk panel van het Gerecht van Eerste Aanleg heeft een multinationale samenstelling. Onverminderd het vijfde lid van dit artikel en [artikel 33, derde lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2023-06-01&g=2023-06-01), bestaat zij uit drie rechters.
 
-2. Elk panel van een lokale divisie in een overeenkomstsluitende lidstaat waar gedurende een periode van drie opeenvolgende jaren voor of na de datum van inwerkingtreding van deze overeenkomst gemiddeld minder dan vijftig octrooizaken per kalenderjaar zijn ingesteld, bestaat uit één juridisch geschoolde rechter die onderdaan is van de overeenkomstsluitende lidstaat waar de desbetreffende lokale divisie gevestigd is, en twee juridisch geschoolde rechters die geen onderdaan zijn van die overeenkomstsluitende lidstaat en die overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2013-02-19&g=2013-02-19), per zaak uit de pool van rechters worden toegewezen.
+2. Elk panel van een lokale divisie in een overeenkomstsluitende lidstaat waar gedurende een periode van drie opeenvolgende jaren voor of na de datum van inwerkingtreding van deze overeenkomst gemiddeld minder dan vijftig octrooizaken per kalenderjaar zijn ingesteld, bestaat uit één juridisch geschoolde rechter die onderdaan is van de overeenkomstsluitende lidstaat waar de desbetreffende lokale divisie gevestigd is, en twee juridisch geschoolde rechters die geen onderdaan zijn van die overeenkomstsluitende lidstaat en die overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-01&g=2023-06-01), per zaak uit de pool van rechters worden toegewezen.
 
-3. Onverminderd het tweede lid, bestaat elk panel van een lokale divisie in een overeenkomstsluitende lidstaat waar gedurende een periode van drie opeenvolgende jaren voor of na de datum van inwerkingtreding van deze overeenkomst gemiddeld vijftig of meer octrooizaken per kalenderjaar zijn ingesteld, uit twee juridisch geschoolde rechters die onderdaan zijn van de overeenkomstsluitende lidstaat waar de desbetreffende lokale divisie gevestigd is, en één juridisch geschoolde rechter die geen onderdaan is van die overeenkomstsluitende lidstaat en die overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2013-02-19&g=2013-02-19), uit de pool van rechters wordt toegewezen. Deze derde rechter blijft langdurig aan de lokale divisie verbonden, indien dat noodzakelijk is voor het efficiënt functioneren van divisies met een hoge werklast.
+3. Onverminderd het tweede lid, bestaat elk panel van een lokale divisie in een overeenkomstsluitende lidstaat waar gedurende een periode van drie opeenvolgende jaren voor of na de datum van inwerkingtreding van deze overeenkomst gemiddeld vijftig of meer octrooizaken per kalenderjaar zijn ingesteld, uit twee juridisch geschoolde rechters die onderdaan zijn van de overeenkomstsluitende lidstaat waar de desbetreffende lokale divisie gevestigd is, en één juridisch geschoolde rechter die geen onderdaan is van die overeenkomstsluitende lidstaat en die overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-01&g=2023-06-01), uit de pool van rechters wordt toegewezen. Deze derde rechter blijft langdurig aan de lokale divisie verbonden, indien dat noodzakelijk is voor het efficiënt functioneren van divisies met een hoge werklast.
 
-4. Elk panel van een regionale divisie bestaat uit twee juridisch geschoolde rechters die worden gekozen uit een regionale lijst van rechters en die onderdaan zijn van de betrokken overeenkomstsluitende lidstaten, en één juridisch geschoolde rechter die geen onderdaan van een van die lidstaten is en die overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2013-02-19&g=2013-02-19) uit de pool van rechters wordt toegewezen.
+4. Elk panel van een regionale divisie bestaat uit twee juridisch geschoolde rechters die worden gekozen uit een regionale lijst van rechters en die onderdaan zijn van de betrokken overeenkomstsluitende lidstaten, en één juridisch geschoolde rechter die geen onderdaan van een van die lidstaten is en die overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-01&g=2023-06-01) uit de pool van rechters wordt toegewezen.
 
-5. Op verzoek van een van de partijen verzoekt een panel van een lokale of regionale divisie de president van het Gerecht van Eerste Aanleg overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2013-02-19&g=2013-02-19), uit de pool van rechters een additionele technisch geschoolde rechter met kwalificaties en ervaring op het desbetreffende gebied van de technologie toe te wijzen. Voorts kan een panel van een lokale of regionale divisie, na de partijen te hebben gehoord, een dergelijk verzoek ambtshalve doen indien het panel dit aangewezen acht.
+5. Op verzoek van een van de partijen verzoekt een panel van een lokale of regionale divisie de president van het Gerecht van Eerste Aanleg overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-01&g=2023-06-01), uit de pool van rechters een additionele technisch geschoolde rechter met kwalificaties en ervaring op het desbetreffende gebied van de technologie toe te wijzen. Voorts kan een panel van een lokale of regionale divisie, na de partijen te hebben gehoord, een dergelijk verzoek ambtshalve doen indien het panel dit aangewezen acht.
 
-In geval van toewijzing van een dergelijke technisch geschoolde rechter mag niet nog een technisch geschoolde rechter op grond van [artikel 33, derde lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2013-02-19&g=2013-02-19), worden toegewezen.
+In geval van toewijzing van een dergelijke technisch geschoolde rechter mag niet nog een technisch geschoolde rechter op grond van [artikel 33, derde lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2023-06-01&g=2023-06-01), worden toegewezen.
 
-6. Elk panel van de centrale divisie bestaat uit twee juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten, en één technisch geschoolde rechter die overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2013-02-19&g=2013-02-19), derde lid uit de pool van rechters wordt toegewezen en kwalificaties en ervaring op het desbetreffende gebied van de technologie bezit. Elk panel van de centrale divisie die vorderingen in de zin van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), behandelt, bestaat echter uit drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten.
+6. Elk panel van de centrale divisie bestaat uit twee juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten, en één technisch geschoolde rechter die overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-01&g=2023-06-01), derde lid uit de pool van rechters wordt toegewezen en kwalificaties en ervaring op het desbetreffende gebied van de technologie bezit. Elk panel van de centrale divisie die vorderingen in de zin van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), behandelt, bestaat echter uit drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten.
 
 7. Onverminderd het eerste tot en met zesde lid kunnen de partijen, overeenkomstig het procesreglement, overeenkomen dat hun zaak door één juridisch geschoolde rechter wordt behandeld.
 
@@ -168,9 +168,9 @@ In geval van toewijzing van een dergelijke technisch geschoolde rechter mag niet
 
 ##### Artikel 9. Het Hof van Beroep
 
-1. Elk panel van het Hof van Beroep heeft een multinationale samenstelling en bestaat uit vijf rechters. Het panel telt drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten en twee technisch geschoolde rechters met kwalificaties en ervaring op het desbetreffende gebied van de technologie. Die technisch geschoolde rechters worden overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2013-02-19&g=2013-02-19) door de president van het Hof van Beroep uit de pool van rechters aan het panel toegewezen.
+1. Elk panel van het Hof van Beroep heeft een multinationale samenstelling en bestaat uit vijf rechters. Het panel telt drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten en twee technisch geschoolde rechters met kwalificaties en ervaring op het desbetreffende gebied van de technologie. Die technisch geschoolde rechters worden overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-01&g=2023-06-01) door de president van het Hof van Beroep uit de pool van rechters aan het panel toegewezen.
 
-2. Onverminderd het eerste lid bestaat elk panel die vorderingen in de zin van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), behandelt, uit drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten.
+2. Onverminderd het eerste lid bestaat elk panel die vorderingen in de zin van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), behandelt, uit drie juridisch geschoolde rechters die onderdaan zijn van verschillende overeenkomstsluitende lidstaten.
 
 3. Elk panel van het Hof van Beroep wordt voorgezeten door een juridisch geschoolde rechter.
 
@@ -186,7 +186,7 @@ In geval van toewijzing van een dergelijke technisch geschoolde rechter mag niet
 
 3. De Griffie houdt een register bij van alle zaken voor het Gerecht. Na het indienen zal elke zaak door de desbetreffende subgriffie ter kennis worden gebracht aan de Griffie.
 
-4. Het Gerecht benoemt overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=22&z=2013-02-19&g=2013-02-19) van het statuut de griffier en stelt de voorschriften voor zijn ambtsuitoefening vast.
+4. Het Gerecht benoemt overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=22&z=2023-06-01&g=2023-06-01) van het statuut de griffier en stelt de voorschriften voor zijn ambtsuitoefening vast.
 
 ##### Artikel 11. Comités
 
@@ -222,9 +222,9 @@ Teneinde toe te zien op de feitelijke invoering en toepassing van deze overeenko
 
 - a. ondersteunt het Bestuurscomité bij de voorbereiding van de benoeming van rechters van het Gerecht;
 
-- b. stelt aan het in [artikel 15 van het statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=1&artikel=15&z=2013-02-19&g=2013-02-19) bedoelde presidium richtlijnen voor met betrekking tot het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=19&z=2013-02-19&g=2013-02-19) bedoelde opleidingsprogramma voor rechters; en
+- b. stelt aan het in [artikel 15 van het statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=1&artikel=15&z=2023-06-01&g=2023-06-01) bedoelde presidium richtlijnen voor met betrekking tot het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=19&z=2023-06-01&g=2023-06-01) bedoelde opleidingsprogramma voor rechters; en
 
-- c. geeft het Bestuurscomité adviezen over de in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=48&z=2013-02-19&g=2013-02-19), bedoelde vereiste kwalificaties.
+- c. geeft het Bestuurscomité adviezen over de in [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=48&z=2023-06-01&g=2023-06-01), bedoelde vereiste kwalificaties.
 
 2. Het Raadgevend Comité bestaat uit octrooirechters en juristen die als uiterst kundig op het gebied van het octrooirecht en de beslechting van octrooigeschillen bekend staan. Zij worden overeenkomstig de in het statuut neergelegde procedure voor een termijn van zes jaar benoemd. Deze termijn kan worden verlengd.
 
@@ -308,7 +308,7 @@ Als gerecht gemeenschappelijk aan alle overeenkomstsluitende lidstaten en als on
 
 De bevoegde instantie past de **lex fori**, met uitzondering van het internationaal privaatrecht, toe op alle vragen die niet door het recht van de Unie of deze overeenkomst worden geregeld. De eiser heeft recht op het volledige bedrag aan schadevergoeding dat is toegekend door de bevoegde autoriteit van de overeenkomstsluitende lidstaat waartegen de vordering was ingesteld.
 
-3. De overeenkomstsluitende lidstaat die schadevergoeding heeft betaald, kan overeenkomstig het bepaalde in [artikel 37, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=II&artikel=37&z=2013-02-19&g=2013-02-19), aanspraak maken op een evenredige bijdrage van de andere overeenkomstsluitende lidstaten. Het Bestuurscomité stelt nadere regels vast voor de bijdragen van de overeenkomstsluitende lidstaten uit hoofde van dit lid.
+3. De overeenkomstsluitende lidstaat die schadevergoeding heeft betaald, kan overeenkomstig het bepaalde in [artikel 37, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=II&artikel=37&z=2023-06-01&g=2023-06-01), aanspraak maken op een evenredige bijdrage van de andere overeenkomstsluitende lidstaten. Het Bestuurscomité stelt nadere regels vast voor de bijdragen van de overeenkomstsluitende lidstaten uit hoofde van dit lid.
 
 ##### Artikel 23. Verantwoordelijkheid van de overeenkomstsluitende lidstaten
 
@@ -318,7 +318,7 @@ De handelingen van het Gerecht worden rechtstreeks toegerekend aan elk van de ov
 
 ##### Artikel 24. Rechtsbronnen
 
-1. Geheel in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=20&z=2013-02-19&g=2013-02-19) baseert het Gerecht zijn beslissingen in zaken die uit hoofde van deze overeenkomst aanhangig zijn gemaakt op:
+1. Geheel in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=IV&artikel=20&z=2023-06-01&g=2023-06-01) baseert het Gerecht zijn beslissingen in zaken die uit hoofde van deze overeenkomst aanhangig zijn gemaakt op:
 
 - a. het recht van de Unie, met inbegrip van Verordening (EU) nr. 1257/2012 en Verordening (EU) nr. 1260/20127)Verordening (EU) Nr. 1260/2012 van de Raad tot het aangaan van nauwere samenwerking op het gebied van de instelling van eenheidsoctrooibescherming met betrekking tot de toepasselijke vertaalregelingen (**PbEU** L 361 van 31 december 2012, blz. 89), met inbegrip van latere wijzigingen.;
 
@@ -338,7 +338,7 @@ De handelingen van het Gerecht worden rechtstreeks toegerekend aan elk van de ov
 
 - c. bij gebreke van de onder a) en b) bedoelde bepalingen, door de door het Gerecht aangewezen nationale bepalingen van internationaal privaatrecht.
 
-3. Het recht van niet-overeenkomstsluitende staten is van toepassing indien het op grond van de in het tweede lid bedoelde regels is aangewezen, in het bijzonder met betrekking tot de artikelen 25 tot en met 28, [54](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=III&artikel=54&z=2013-02-19&g=2013-02-19), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=III&artikel=55&z=2013-02-19&g=2013-02-19), [64](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=64&z=2013-02-19&g=2013-02-19), [68](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=68&z=2013-02-19&g=2013-02-19) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=72&z=2013-02-19&g=2013-02-19).
+3. Het recht van niet-overeenkomstsluitende staten is van toepassing indien het op grond van de in het tweede lid bedoelde regels is aangewezen, in het bijzonder met betrekking tot de artikelen 25 tot en met 28, [54](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=III&artikel=54&z=2023-06-01&g=2023-06-01), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=III&artikel=55&z=2023-06-01&g=2023-06-01), [64](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=64&z=2023-06-01&g=2023-06-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=68&z=2023-06-01&g=2023-06-01) en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=72&z=2023-06-01&g=2023-06-01).
 
 ##### Artikel 25. Recht om de directe toepassing van de uitvinding te verhinderen
 
@@ -354,9 +354,9 @@ Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zond
 
 1. Een octrooi verleent de houder ervan het recht te verhinderen dat een derde zonder zijn toestemming, op het grondgebied van de overeenkomstsluitende lidstaten waar het octrooi van kracht is, aan een ander dan degene die gerechtigd is de geoctrooieerde uitvinding te gebruiken, middelen die een wezenlijk bestanddeel van die uitvinding betreffen, voor de toepassing van die uitvinding op dat grondgebied, aanbiedt of levert, indien de derde weet of behoort te weten dat deze middelen geschikt en bestemd zijn voor toepassing van die uitvinding.
 
-2. Het eerste lid geldt niet indien de middelen algemeen in de handel verkrijgbare producten zijn, tenzij de derde degene aan wie hij levert, aanzet tot het verrichten van een krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=25&z=2013-02-19&g=2013-02-19) verboden handeling.
+2. Het eerste lid geldt niet indien de middelen algemeen in de handel verkrijgbare producten zijn, tenzij de derde degene aan wie hij levert, aanzet tot het verrichten van een krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=25&z=2023-06-01&g=2023-06-01) verboden handeling.
 
-3. Degene die de in [artikel 27, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=27&z=2013-02-19&g=2013-02-19), bedoelde handelingen verricht, wordt niet geacht in de zin van het eerste lid gerechtigd te zijn de uitvinding te gebruiken.
+3. Degene die de in [artikel 27, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=27&z=2023-06-01&g=2023-06-01), bedoelde handelingen verricht, wordt niet geacht in de zin van het eerste lid gerechtigd te zijn de uitvinding te gebruiken.
 
 ##### Artikel 27. Beperkingen van de werking van een octrooi
 
@@ -430,43 +430,43 @@ De internationale rechtsmacht van het Gerecht wordt vastgesteld overeenkomstig V
 
 ##### Artikel 33. Bevoegdheid van de divisies van het Gerecht van Eerste Aanleg
 
-1. Onverminderd het zevende lid van dit artikel worden de in [artikel 32, eerste lid, onder a), c), f) en g)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19) bedoelde vorderingen ingesteld bij:
+1. Onverminderd het zevende lid van dit artikel worden de in [artikel 32, eerste lid, onder a), c), f) en g)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01) bedoelde vorderingen ingesteld bij:
 
 - a. de lokale divisie op het grondgebied van de overeenkomstsluitende lidstaat waar de feitelijke inbreuk of dreigende inbreuk zich heeft voorgedaan of zich kan voordoen, of de regionale divisie waaraan die overeenkomstsluitende lidstaat deelneemt; of
 
 - b. de lokale divisie op het grondgebied van de overeenkomstsluitende lidstaat waar de verweerder of, in het geval van meerdere verweerders, een van de verweerders zijn woonplaats of zijn hoofdvestiging heeft of, bij gebreke daarvan, zijn vestiging heeft, of de regionale divisie waaraan die overeenkomstsluitende lidstaat deelneemt. Tegen meerdere verweerders kan uitsluitend een vordering worden ingesteld als tussen hen een commerciële relatie bestaat en de vordering op dezelfde vermeende inbreuk betrekking heeft.
 
-Vorderingen als bedoeld in [artikel 32, eerste lid, onder h)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), worden overeenkomstig het eerste lid, onder b), bij de lokale of regionale divisie ingesteld.
+Vorderingen als bedoeld in [artikel 32, eerste lid, onder h)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), worden overeenkomstig het eerste lid, onder b), bij de lokale of regionale divisie ingesteld.
 
 Vorderingen tegen verweerders die hun woonplaats of zijn hoofdvestiging of, bij gebreke daarvan, hun vestiging buiten het grondgebied van de overeenkomstsluitende lidstaten hebben, worden overeenkomstig het eerste lid, onder a), bij de lokale of regionale divisie of bij de centrale divisie ingesteld.
 
 Indien er op het grondgebied van de betrokken overeenkomstsluitende lidstaat geen lokale divisie is en deze niet aan een regionale divisie deelneemt, wordt de vordering bij de centrale divisie ingesteld.
 
-2. Indien een vordering als bedoeld in [artikel 32, eerste lid, onder a), c), f), g) of h)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), bij een divisie van het Gerecht van Eerste Aanleg aanhangig is, mag tussen dezelfde partijen met betrekking tot hetzelfde octrooi geen vordering als bedoeld in artikel 32, eerste lid, onder a), c), f), g) of h) bij een andere divisie worden ingesteld.
+2. Indien een vordering als bedoeld in [artikel 32, eerste lid, onder a), c), f), g) of h)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), bij een divisie van het Gerecht van Eerste Aanleg aanhangig is, mag tussen dezelfde partijen met betrekking tot hetzelfde octrooi geen vordering als bedoeld in artikel 32, eerste lid, onder a), c), f), g) of h) bij een andere divisie worden ingesteld.
 
-Indien een vordering als bedoeld in [artikel 32, eerste lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), bij een regionale divisie aanhangig is en de inbreuk op het grondgebied van drie of meer regionale divisies is gepleegd, verwijst de desbetreffende regionale divisie de zaak op verzoek van de verweerder naar de centrale divisie.
+Indien een vordering als bedoeld in [artikel 32, eerste lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), bij een regionale divisie aanhangig is en de inbreuk op het grondgebied van drie of meer regionale divisies is gepleegd, verwijst de desbetreffende regionale divisie de zaak op verzoek van de verweerder naar de centrale divisie.
 
 Indien een vordering tussen dezelfde partijen over hetzelfde octrooi bij verscheidene divisies is ingesteld, is de divisie waar de vordering het eerst is ingesteld bevoegd voor de gehele zaak, en verklaren de divisies waar de vordering later is ingesteld deze overeenkomstig het procesreglement niet-ontvankelijk.
 
-3. Indien een vordering wegens inbreuk als bedoeld in [artikel 32, eerste lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19) aanhangig is, kan een reconventionele vordering tot nietigverklaring als bedoeld in artikel 32, eerste lid, onder e), worden ingesteld. De desbetreffende lokale of regionale divisie heeft, na de partijen te hebben gehoord, de keuze om:
+3. Indien een vordering wegens inbreuk als bedoeld in [artikel 32, eerste lid, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01) aanhangig is, kan een reconventionele vordering tot nietigverklaring als bedoeld in artikel 32, eerste lid, onder e), worden ingesteld. De desbetreffende lokale of regionale divisie heeft, na de partijen te hebben gehoord, de keuze om:
 
-- a. zowel de inbreukvordering als de reconventionele nietigheidsvordering te behandelen en de president van het Gerecht van Eerste Aanleg te verzoeken overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2013-02-19&g=2013-02-19), uit de pool van rechters een technisch geschoolde rechter met kwalificaties en ervaring op het desbetreffende gebied van de technologie toe te wijzen;
+- a. zowel de inbreukvordering als de reconventionele nietigheidsvordering te behandelen en de president van het Gerecht van Eerste Aanleg te verzoeken overeenkomstig [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-01&g=2023-06-01), uit de pool van rechters een technisch geschoolde rechter met kwalificaties en ervaring op het desbetreffende gebied van de technologie toe te wijzen;
 
 - b. de reconventionele nietigheidsvordering naar de centrale divisie te verwijzen en de inbreukprocedure te behandelen of aan te houden; of
 
 - c. met instemming van de partijen de zaak ter afdoening naar de centrale divisie te verwijzen.
 
-4. De in [artikel 32, eerste lid, onder b) en d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), bedoelde vorderingen worden bij de centrale divisie ingesteld. Deze vorderingen kunnen echter, indien een inbreukvordering in de zin van artikel 32, eerste lid, onder a), tussen dezelfde partijen over hetzelfde octrooi bij een lokale of regionale divisie is ingesteld, uitsluitend bij dezelfde lokale of regionale divisie worden ingesteld.
+4. De in [artikel 32, eerste lid, onder b) en d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), bedoelde vorderingen worden bij de centrale divisie ingesteld. Deze vorderingen kunnen echter, indien een inbreukvordering in de zin van artikel 32, eerste lid, onder a), tussen dezelfde partijen over hetzelfde octrooi bij een lokale of regionale divisie is ingesteld, uitsluitend bij dezelfde lokale of regionale divisie worden ingesteld.
 
-5. Indien bij de centrale divisie een nietigheidsvordering als bedoeld in [artikel 32, eerste lid, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), aanhangig is, kan een inbreukvordering als bedoeld in artikel 32, eerste lid, onder a), tussen dezelfde partijen met betrekking tot hetzelfde octrooi, bij elke divisie overeenkomstig het eerste lid van dit artikel of bij de centrale divisie worden ingesteld. De desbetreffende lokale of regionale divisie heeft de keuze overeenkomstig het derde lid van dit artikel te handelen.
+5. Indien bij de centrale divisie een nietigheidsvordering als bedoeld in [artikel 32, eerste lid, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), aanhangig is, kan een inbreukvordering als bedoeld in artikel 32, eerste lid, onder a), tussen dezelfde partijen met betrekking tot hetzelfde octrooi, bij elke divisie overeenkomstig het eerste lid van dit artikel of bij de centrale divisie worden ingesteld. De desbetreffende lokale of regionale divisie heeft de keuze overeenkomstig het derde lid van dit artikel te handelen.
 
-6. Een vordering tot verklaring van niet-inbreuk als bedoeld in [artikel 32, eerste lid, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), die aanhangig is bij de centrale divisie, wordt aangehouden indien binnen drie maanden na de datum waarop de vordering bij de centrale divisie is ingesteld, bij een lokale of regionale divisie tussen dezelfde partijen of tussen de houder van een exclusieve licentie en de partij die een verklaring van niet-inbreuk vordert, met betrekking tot hetzelfde octrooi een inbreukvordering als bedoeld in artikel 32, eerste lid, onder a), wordt ingesteld.
+6. Een vordering tot verklaring van niet-inbreuk als bedoeld in [artikel 32, eerste lid, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), die aanhangig is bij de centrale divisie, wordt aangehouden indien binnen drie maanden na de datum waarop de vordering bij de centrale divisie is ingesteld, bij een lokale of regionale divisie tussen dezelfde partijen of tussen de houder van een exclusieve licentie en de partij die een verklaring van niet-inbreuk vordert, met betrekking tot hetzelfde octrooi een inbreukvordering als bedoeld in artikel 32, eerste lid, onder a), wordt ingesteld.
 
-7. De partijen kunnen bij vorderingen als bedoeld in [artikel 32, eerste lid, onder a) tot en met h)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), overeenkomen hun vordering in te stellen bij de divisie van hun keuze, waaronder de centrale divisie.
+7. De partijen kunnen bij vorderingen als bedoeld in [artikel 32, eerste lid, onder a) tot en met h)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), overeenkomen hun vordering in te stellen bij de divisie van hun keuze, waaronder de centrale divisie.
 
-8. De in [artikel 32, eerste lid, onder d) en e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), bedoelde vorderingen kunnen worden ingesteld zonder dat de eiser bij het Europees Octrooibureau oppositie hoeft in te stellen.
+8. De in [artikel 32, eerste lid, onder d) en e)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), bedoelde vorderingen kunnen worden ingesteld zonder dat de eiser bij het Europees Octrooibureau oppositie hoeft in te stellen.
 
-9. De in [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), bedoelde vorderingen worden ingesteld bij de centrale divisie.
+9. De in [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), bedoelde vorderingen worden ingesteld bij de centrale divisie.
 
 10. Een partij stelt het Gerecht in kennis van elke herroepings-, beperkings- of oppositieprocedure die, en van elk verzoek om versnelde behandeling dat, bij het Europees Octrooibureau aanhangig is. Het Gerecht kan de procedure opschorten indien een spoedige beslissing van het Europees Octrooibureau te verwachten is.
 
@@ -480,7 +480,7 @@ De beslissingen van het Gerecht hebben in het geval van een Europees octrooi gel
 
 1. Bij deze overeenkomst wordt een centrum voor mediation en arbitrage in octrooizaken (hierna genoemd „het Centrum”) opgericht. Het Centrum zetelt in Ljubljana en Lissabon.
 
-2. Het Centrum verschaft faciliteiten voor mediation en arbitrage bij octrooigeschillen die binnen de reikwijdte van deze overeenkomst vallen. [Artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=VI&artikel=82&z=2013-02-19&g=2013-02-19) is van overeenkomstige toepassing op elke schikking die door gebruikmaking van de faciliteiten van het Centrum, waaronder mediation, wordt bereikt. In de mediation- of arbitrageprocedure kan het octrooi echter niet nietig worden verklaard of worden beperkt.
+2. Het Centrum verschaft faciliteiten voor mediation en arbitrage bij octrooigeschillen die binnen de reikwijdte van deze overeenkomst vallen. [Artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=VI&artikel=82&z=2023-06-01&g=2023-06-01) is van overeenkomstige toepassing op elke schikking die door gebruikmaking van de faciliteiten van het Centrum, waaronder mediation, wordt bereikt. In de mediation- of arbitrageprocedure kan het octrooi echter niet nietig worden verklaard of worden beperkt.
 
 3. Het Centrum stelt regels voor mediation en arbitrage vast.
 
@@ -490,7 +490,7 @@ De beslissingen van het Gerecht hebben in het geval van een Europees octrooi gel
 
 ##### Artikel 36. Begroting van het Gerecht
 
-1. De begroting van het Gerecht wordt gefinancierd uit de eigen inkomsten van het Gerecht en, ten minste tijdens de in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2013-02-19&g=2013-02-19) bedoelde overgangsperiode, voor zover nodig uit bijdragen van de overeenkomstsluitende lidstaten. De begroting dient sluitend te zijn.
+1. De begroting van het Gerecht wordt gefinancierd uit de eigen inkomsten van het Gerecht en, ten minste tijdens de in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-01&g=2023-06-01) bedoelde overgangsperiode, voor zover nodig uit bijdragen van de overeenkomstsluitende lidstaten. De begroting dient sluitend te zijn.
 
 2. De eigen inkomsten van het Gerecht omvatten de griffierechten en andere inkomsten.
 
@@ -536,7 +536,7 @@ De operationele kosten van het Centrum worden uit de begroting van het Gerecht g
 
 2. Het procesreglement wordt door het Bestuurscomité na breed overleg met de belanghebbenden vastgesteld. Voorafgaand wordt het advies van de Europese Commissie over de verenigbaarheid van het procesreglement met het recht van de Unie ingewonnen.
 
-Het procesreglement kan, op voorstel van het Gerecht en na overleg met de Europese Commissie, bij besluit van het Bestuurscomité worden gewijzigd. Dergelijke wijzigingen mogen evenwel niet leiden tot strijdigheid met of wijziging van deze overeenkomst of het [statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2013-02-19&g=2013-02-19).
+Het procesreglement kan, op voorstel van het Gerecht en na overleg met de Europese Commissie, bij besluit van het Bestuurscomité worden gewijzigd. Dergelijke wijzigingen mogen evenwel niet leiden tot strijdigheid met of wijziging van deze overeenkomst of het [statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2023-06-01&g=2023-06-01).
 
 3. Het procesreglement waarborgt dat de beslissingen van het Gerecht aan de hoogste kwaliteitsnormen voldoen en dat de procedures zo efficiënt en kosteneffectief mogelijk worden georganiseerd. Het waarborgt een redelijk evenwicht tussen de gerechtvaardigde belangen van alle partijen. Het zorgt ervoor dat rechters beschikken over de nodige discretionaire bevoegdheid zonder dat de voorspelbaarheid van de procedure voor de partijen in het gedrang komt.
 
@@ -544,7 +544,7 @@ Het procesreglement kan, op voorstel van het Gerecht en na overleg met de Europe
 
 1. Het Gerecht behandelt geschillen op een wijze die in verhouding staat tot het belang en de complexiteit ervan.
 
-2. Het Gerecht ziet erop toe dat de in deze overeenkomst en in het [statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2013-02-19&g=2013-02-19) opgenomen regels, procedures en rechtsmiddelen rechtvaardig en billijk worden toegepast en geen concurrentieverstoring veroorzaken.
+2. Het Gerecht ziet erop toe dat de in deze overeenkomst en in het [statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&z=2023-06-01&g=2023-06-01) opgenomen regels, procedures en rechtsmiddelen rechtvaardig en billijk worden toegepast en geen concurrentieverstoring veroorzaken.
 
 ##### Artikel 43. Zaaksbehandeling
 
@@ -576,7 +576,7 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 6. Elke andere natuurlijke persoon of rechtspersoon, of elke entiteit met procesbevoegdheid overeenkomstig zijn nationale recht, die door een octrooi wordt geraakt, kan overeenkomstig het procesreglement een vordering instellen.
 
-7. Elke natuurlijke persoon, rechtspersoon of elke entiteit met procesbevoegdheid overeenkomstig zijn nationale recht, die wordt geraakt door een besluit dat het Europees Octrooibureau bij het uitvoeren van de taken, omschreven in artikel 9 van Verordening (EU) nr. 1257/2012 heeft genomen, is gerechtigd overeenkomstig [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), een vordering in te stellen.
+7. Elke natuurlijke persoon, rechtspersoon of elke entiteit met procesbevoegdheid overeenkomstig zijn nationale recht, die wordt geraakt door een besluit dat het Europees Octrooibureau bij het uitvoeren van de taken, omschreven in artikel 9 van Verordening (EU) nr. 1257/2012 heeft genomen, is gerechtigd overeenkomstig [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), een vordering in te stellen.
 
 ##### Artikel 48. Vertegenwoordiging
 
@@ -592,7 +592,7 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 6. De vertegenwoordigers van de partijen zijn gehouden het Gerecht geen onjuiste voorstelling van de zaken of de feiten te geven, opzettelijk noch wanneer zij dit behoren te weten.
 
-7. In de procedures, bedoeld in [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), is vertegenwoordiging in de zin van het eerste en tweede lid van dit artikel niet vereist.
+7. In de procedures, bedoeld in [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), is vertegenwoordiging in de zin van het eerste en tweede lid van dit artikel niet vereist.
 
 ### HOOFDSTUK II. PROCESTAAL
 
@@ -624,9 +624,9 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 2. Op verzoek van een van de partijen en voor zover passend, wordt door elke divisie van het Gerecht van Eerste Aanleg en door het Hof van Beroep in tolkdiensten voorzien ten behoeve van de betrokken partijen bij de mondelinge behandeling.
 
-3. Onverminderd [artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2013-02-19&g=2013-02-19), heeft de verweerder die zijn woonplaats, zijn hoofdvestiging of vestiging in een lidstaat heeft, in geval van een inbreukprocedure bij de centrale divisie, het recht op zijn verzoek een vertaling te krijgen van relevante stukken in de taal van de lidstaat van zijn woonplaats of van zijn hoofdvestiging of, bij gebreke daarvan, van zijn vestiging, in gevallen waarin:
+3. Onverminderd [artikel 49, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2023-06-01&g=2023-06-01), heeft de verweerder die zijn woonplaats, zijn hoofdvestiging of vestiging in een lidstaat heeft, in geval van een inbreukprocedure bij de centrale divisie, het recht op zijn verzoek een vertaling te krijgen van relevante stukken in de taal van de lidstaat van zijn woonplaats of van zijn hoofdvestiging of, bij gebreke daarvan, van zijn vestiging, in gevallen waarin:
 
-- a. de bevoegdheid overeenkomstig [artikel 33, eerste lid, onder 3 of 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2013-02-19&g=2013-02-19), bij de centrale divisie ligt, en
+- a. de bevoegdheid overeenkomstig [artikel 33, eerste lid, onder 3 of 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=33&z=2023-06-01&g=2023-06-01), bij de centrale divisie ligt, en
 
 - b. de procestaal voor de centrale divisie geen officiële taal is van de lidstaat waar de verweerder zijn woonplaats, zijn hoofdvestiging of, bij gebreke daarvan, zijn vestiging heeft, en
 
@@ -638,7 +638,7 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 1. De procedure voor het Gerecht omvat een schriftelijke, een tussentijdse en een mondelinge behandeling, overeenkomstig het procesreglement. Alle procedures worden op flexibele en evenwichtige wijze georganiseerd.
 
-2. In de tussentijdse behandeling, die na de schriftelijke behandeling plaatsvindt, roept de rechter die als rapporteur optreedt, binnen een mandaat van het voltallige panel, indien nodig een tussentijdse zitting bijeen. In het bijzonder onderzoekt die rechter samen met de partijen of een schikking kan worden bereikt, ook bij wege van mediation en/of arbitrage, door gebruik te maken van de faciliteiten van het in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VII&artikel=35&z=2013-02-19&g=2013-02-19) bedoelde Centrum.
+2. In de tussentijdse behandeling, die na de schriftelijke behandeling plaatsvindt, roept de rechter die als rapporteur optreedt, binnen een mandaat van het voltallige panel, indien nodig een tussentijdse zitting bijeen. In het bijzonder onderzoekt die rechter samen met de partijen of een schikking kan worden bereikt, ook bij wege van mediation en/of arbitrage, door gebruik te maken van de faciliteiten van het in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VII&artikel=35&z=2023-06-01&g=2023-06-01) bedoelde Centrum.
 
 3. De mondelinge behandeling biedt de partijen de gelegenheid om naar behoren hun argumenten toe te lichten. Het Gerecht kan met instemming van partijen afzien van de hoorzitting.
 
@@ -666,11 +666,11 @@ Elke natuurlijke persoon, elke rechtspersoon of elke aan een rechtspersoon gelij
 
 ##### Artikel 54. Bewijslast
 
-Onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2013-02-19&g=2013-02-19), rust de bewijslast van de feiten op de partij die zich erop beroept.
+Onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2023-06-01&g=2023-06-01), rust de bewijslast van de feiten op de partij die zich erop beroept.
 
 ##### Artikel 55. Omkering van de bewijslast
 
-1. Indien het voorwerp van een octrooi een werkwijze voor de vervaardiging van een nieuw product is, wordt, onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2013-02-19&g=2013-02-19), ieder identiek, zonder toestemming van de octrooihouder vervaardigd product, tot bewijs van het tegendeel, geacht met toepassing van die werkwijze te zijn vervaardigd.
+1. Indien het voorwerp van een octrooi een werkwijze voor de vervaardiging van een nieuw product is, wordt, onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2023-06-01&g=2023-06-01), ieder identiek, zonder toestemming van de octrooihouder vervaardigd product, tot bewijs van het tegendeel, geacht met toepassing van die werkwijze te zijn vervaardigd.
 
 2. Het in het eerste lid neergelegde beginsel is eveneens van toepassing indien met aanzienlijke waarschijnlijkheid het identieke product volgens de geoctrooieerde werkwijze was vervaardigd en de octrooihouder, ondanks redelijke inspanningen, de voor het identieke product feitelijk toegepaste werkwijze niet heeft kunnen vaststellen.
 
@@ -690,7 +690,7 @@ Onverminderd [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3
 
 2. Hiertoe stelt het Gerecht overeenkomstig het procesreglement een indicatieve lijst van deskundigen samen. Deze lijst wordt door de griffier bijgehouden.
 
-3. De gerechtsdeskundigen waarborgen hun onafhankelijkheid en onpartijdigheid. De bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=7&z=2013-02-19&g=2013-02-19) van het statuut op de rechters toepasselijke regels inzake belangenconflicten zijn van overeenkomstige toepassing op gerechtsdeskundigen.
+3. De gerechtsdeskundigen waarborgen hun onafhankelijkheid en onpartijdigheid. De bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=7&z=2023-06-01&g=2023-06-01) van het statuut op de rechters toepasselijke regels inzake belangenconflicten zijn van overeenkomstige toepassing op gerechtsdeskundigen.
 
 4. Het advies van de gerechtsdeskundigen aan het Gerecht wordt aan de partijen beschikbaar gesteld, die in de gelegenheid worden gesteld hun zienswijze kenbaar te maken.
 
@@ -728,7 +728,7 @@ Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke 
 
 1. Op verzoek van een eiser die redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd ter ondersteuning van de stelling dat er inbreuk op het octrooi is gemaakt of dreigt te worden gemaakt, kan het Gerecht, nog voordat de inhoudelijke behandeling is aangevangen, een partij verbieden vermogensbestanddelen uit zijn rechtsgebied af te voeren, of te handelen in vermogensbestanddelen, ongeacht of die zich al dan niet in zijn rechtsgebied bevinden.
 
-2. Het vijfde tot en met negende lid van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=60&z=2013-02-19&g=2013-02-19) zijn van overeenkomstige toepassing op de in dit artikel bedoelde maatregelen.
+2. Het vijfde tot en met negende lid van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=60&z=2023-06-01&g=2023-06-01) zijn van overeenkomstige toepassing op de in dit artikel bedoelde maatregelen.
 
 ##### Artikel 62. Voorlopige en conservatoire maatregelen
 
@@ -740,7 +740,7 @@ Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke 
 
 4. Het Gerecht kan, met betrekking tot de in het eerste en derde lid bedoelde maatregelen, van de eiser redelijkerwijs beschikbaar bewijs verlangen waaruit met voldoende zekerheid is op te maken dat de eiser de rechthebbende is en dat inbreuk op zijn recht wordt gemaakt of dreigt te worden gemaakt.
 
-5. Het [vijfde tot en met negende lid van artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=60&z=2013-02-19&g=2013-02-19) zijn van overeenkomstige toepassing op de in dit artikel bedoelde maatregelen.
+5. Het [vijfde tot en met negende lid van artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=60&z=2023-06-01&g=2023-06-01) zijn van overeenkomstige toepassing op de in dit artikel bedoelde maatregelen.
 
 ##### Artikel 63. Permanent verbod
 
@@ -782,9 +782,9 @@ Ter bescherming van bedrijfsgeheimen, persoonsgegevens of andere vertrouwelijke 
 
 ##### Artikel 66. Bevoegdheden van het Gerecht inzake beslissingen van het Europees Octrooibureau
 
-1. In geval van vorderingen op grond van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), kan het Gerecht elke bevoegdheid uitoefenen die aan het Europees Octrooibureau overeenkomstig artikel 9 van Verordening (EU) nr. 1257/2012 is toegekend, met inbegrip van rectificatie van het register voor eenheidsoctrooibescherming.
+1. In geval van vorderingen op grond van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), kan het Gerecht elke bevoegdheid uitoefenen die aan het Europees Octrooibureau overeenkomstig artikel 9 van Verordening (EU) nr. 1257/2012 is toegekend, met inbegrip van rectificatie van het register voor eenheidsoctrooibescherming.
 
-2. In afwijking van het bepaalde in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=69&z=2013-02-19&g=2013-02-19) draagt elke partij bij een vordering op grond van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), haar eigen kosten.
+2. In afwijking van het bepaalde in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=69&z=2023-06-01&g=2023-06-01) draagt elke partij bij een vordering op grond van [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), haar eigen kosten.
 
 ##### Artikel 67. Bevoegdheid de verstrekking van informatie te gelasten
 
@@ -846,7 +846,7 @@ gelasten de eiser de in het eerste lid bedoelde informatie te verstrekken.
 
 ##### Artikel 72. Verjaring
 
-Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2013-02-19&g=2013-02-19) kunnen vorderingen met betrekking tot alle vormen van financiële schadeloosstelling niet later dan vijf jaar na de datum waarop de eiser kennis heeft genomen, of redelijkerwijs had kunnen nemen, van het laatste feit dat de vordering rechtvaardigt, worden ingesteld.
+Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=V&artikel=24&z=2023-06-01&g=2023-06-01) kunnen vorderingen met betrekking tot alle vormen van financiële schadeloosstelling niet later dan vijf jaar na de datum waarop de eiser kennis heeft genomen, of redelijkerwijs had kunnen nemen, van het laatste feit dat de vordering rechtvaardigt, worden ingesteld.
 
 ### HOOFDSTUK V. BEROEP
 
@@ -856,7 +856,7 @@ Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl
 
 2. Tegen een bevel van het Gerecht van Eerste Aanleg kan beroep bij het Hof van Beroep worden ingesteld door elke partij die geheel of gedeeltelijk in het ongelijk is gesteld:
 
-- a. voor de bevelen, bedoeld in [artikel 49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2013-02-19&g=2013-02-19), de artikelen 59 tot en met 62 en [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=67&z=2013-02-19&g=2013-02-19), binnen vijftien kalenderdagen na kennisgeving van het bevel aan de eiser;
+- a. voor de bevelen, bedoeld in [artikel 49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2023-06-01&g=2023-06-01), de artikelen 59 tot en met 62 en [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=67&z=2023-06-01&g=2023-06-01), binnen vijftien kalenderdagen na kennisgeving van het bevel aan de eiser;
 
 - b. voor andere dan de onder a) genoemde bevelen:
 
@@ -872,13 +872,13 @@ Onverminderd het [tweede en derde lid van artikel 24](https://wetten.overheid.nl
 
 1. Het beroep heeft geen schorsende werking, tenzij het Hof van Beroep op gemotiveerd verzoek van een van de partijen anders beslist. Het procesreglement waarborgt dat onverwijld een beslissing wordt genomen.
 
-2. Onverminderd het eerste lid heeft een beroep tegen een beslissing op een vordering of een reconventionele vordering tot nietigverklaring en inzake een vordering krachtens [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2013-02-19&g=2013-02-19), altijd schorsende werking.
+2. Onverminderd het eerste lid heeft een beroep tegen een beslissing op een vordering of een reconventionele vordering tot nietigverklaring en inzake een vordering krachtens [artikel 32, eerste lid, onder i)](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=VI&artikel=32&z=2023-06-01&g=2023-06-01), altijd schorsende werking.
 
-3. Een beroep tegen een bevel in de zin van [artikel 49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2013-02-19&g=2013-02-19), de artikelen 59 tot en met 62 of [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=67&z=2013-02-19&g=2013-02-19) verhindert niet de inhoudelijke behandeling. Het Gerecht van Eerste Aanleg geeft evenwel geen eindbeslissing voordat het Hof van Beroep zich over het beroep tegen het bestreden bevel heeft uitgelaten.
+3. Een beroep tegen een bevel in de zin van [artikel 49, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=II&artikel=49&z=2023-06-01&g=2023-06-01), de artikelen 59 tot en met 62 of [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=67&z=2023-06-01&g=2023-06-01) verhindert niet de inhoudelijke behandeling. Het Gerecht van Eerste Aanleg geeft evenwel geen eindbeslissing voordat het Hof van Beroep zich over het beroep tegen het bestreden bevel heeft uitgelaten.
 
 ##### Artikel 75. Beslissing op beroep en terugverwijzing
 
-1. Indien een beroep overeenkomstig [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=V&artikel=73&z=2013-02-19&g=2013-02-19) gegrond is, vernietigt het Hof van Beroep de beslissing van het Gerecht van Eerste Aanleg en geeft het een eindbeslissing. In uitzonderlijke gevallen kan het Hof van Beroep, overeenkomstig het procesreglement, de zaak ter afdoening naar het Gerecht van Eerste Aanleg terugverwijzen.
+1. Indien een beroep overeenkomstig [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=V&artikel=73&z=2023-06-01&g=2023-06-01) gegrond is, vernietigt het Hof van Beroep de beslissing van het Gerecht van Eerste Aanleg en geeft het een eindbeslissing. In uitzonderlijke gevallen kan het Hof van Beroep, overeenkomstig het procesreglement, de zaak ter afdoening naar het Gerecht van Eerste Aanleg terugverwijzen.
 
 2. Bij terugverwijzing uit hoofde van het eerste lid is het Gerecht van Eerste Aanleg gebonden aan de beslissing van het Hof van Beroep op de rechtsvragen.
 
@@ -996,29 +996,29 @@ Deze overeenkomst is voor onbeperkte tijd gesloten.
 
 ##### Artikel 89. Inwerkingtreding
 
-1. Deze overeenkomst treedt in werking op 1 januari 2014 of op de eerste dag van de vierde maand na de nederlegging van de dertiende akte van bekrachtiging of toetreding overeenkomstig [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=V&artikel=84&z=2013-02-19&g=2013-02-19), met inbegrip van de akten van de drie overeenkomstsluitende lidstaten waar het grootste aantal Europese octrooien van kracht was in het jaar voorafgaand aan het jaar waarin de overeenkomst wordt ondertekend, of op de eerste dag van de vierde maand na de datum van inwerkingtreding van de wijzigingen van Verordening (EU) nr. 1215/2012 inzake de verhouding van de verordening tot deze overeenkomst, al naargelang welke datum het laatst valt.
+1. Deze overeenkomst treedt in werking op 1 januari 2014 of op de eerste dag van de vierde maand na de nederlegging van de dertiende akte van bekrachtiging of toetreding overeenkomstig [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=V&artikel=84&z=2023-06-01&g=2023-06-01), met inbegrip van de akten van de drie overeenkomstsluitende lidstaten waar het grootste aantal Europese octrooien van kracht was in het jaar voorafgaand aan het jaar waarin de overeenkomst wordt ondertekend, of op de eerste dag van de vierde maand na de datum van inwerkingtreding van de wijzigingen van Verordening (EU) nr. 1215/2012 inzake de verhouding van de verordening tot deze overeenkomst, al naargelang welke datum het laatst valt.
 
 2. Elke bekrachtiging of toetreding na de inwerkingtreding van deze overeenkomst wordt van kracht op de eerste dag van de vierde maand na de nederlegging van de akte van bekrachtiging of toetreding.
 
 ##### Artikel 1. Toepassingsgebied van het statuut
 
-Dit statuut bevat de institutionele en financiële regelingen voor het bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=I&artikel=1&z=2013-02-19&g=2013-02-19) van de overeenkomst ingestelde Eengemaakt Octrooigerecht.
+Dit statuut bevat de institutionele en financiële regelingen voor het bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=I&artikel=1&z=2023-06-01&g=2023-06-01) van de overeenkomst ingestelde Eengemaakt Octrooigerecht.
 
 ### HOOFDSTUK 1. RECHTERS
 
 ##### Artikel 2. Selectiecriteria voor rechters
 
-1. Een ieder die onderdaan is van een overeenkomstsluitende lidstaat en aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=15&z=2013-02-19&g=2013-02-19) van de overeenkomst en de in dit statuut vervatte selectiecriteria voldoet, kan tot rechter worden benoemd.
+1. Een ieder die onderdaan is van een overeenkomstsluitende lidstaat en aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=15&z=2023-06-01&g=2023-06-01) van de overeenkomst en de in dit statuut vervatte selectiecriteria voldoet, kan tot rechter worden benoemd.
 
 2. De rechters hebben een goede kennis van ten minste één officiële taal van het Europees Octrooibureau.
 
-3. De ervaring op het gebied van beslechting van octrooigeschillen, die voor de benoeming overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=15&z=2013-02-19&g=2013-02-19), van de overeenkomst dient te worden aangetoond, kan worden verkregen door opleiding in de zin van [artikel 11, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=11&z=2013-02-19&g=2013-02-19), van dit statuut.
+3. De ervaring op het gebied van beslechting van octrooigeschillen, die voor de benoeming overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=15&z=2023-06-01&g=2023-06-01), van de overeenkomst dient te worden aangetoond, kan worden verkregen door opleiding in de zin van [artikel 11, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=11&z=2023-06-01&g=2023-06-01), van dit statuut.
 
 ##### Artikel 3. Benoeming van rechters
 
-1. De rechters worden benoemd volgens de procedure vervat in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=16&z=2013-02-19&g=2013-02-19) van de overeenkomst.
+1. De rechters worden benoemd volgens de procedure vervat in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=16&z=2023-06-01&g=2023-06-01) van de overeenkomst.
 
-2. De vacatures worden openbaar gemaakt onder vermelding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=2&z=2013-02-19&g=2013-02-19) vervatte toepasselijke selectiecriteria. Het Raadgevend Comité verstrekt advies over de geschiktheid van de kandidaten voor het vervullen van de taken van rechters van het Gerecht. Aan het advies wordt een lijst met de meest geschikte kandidaten gehecht. De lijst bevat ten minste tweemaal zoveel kandidaten als vacatures. Het Raadgevend Comité kan zo nodig, voordat er een besluit over de benoeming wordt genomen, adviseren een kandidaat een opleiding op het gebied van beslechting van octrooigeschillen overeenkomstig [artikel 11, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=11&z=2013-02-19&g=2013-02-19), te laten volgen.
+2. De vacatures worden openbaar gemaakt onder vermelding van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=2&z=2023-06-01&g=2023-06-01) vervatte toepasselijke selectiecriteria. Het Raadgevend Comité verstrekt advies over de geschiktheid van de kandidaten voor het vervullen van de taken van rechters van het Gerecht. Aan het advies wordt een lijst met de meest geschikte kandidaten gehecht. De lijst bevat ten minste tweemaal zoveel kandidaten als vacatures. Het Raadgevend Comité kan zo nodig, voordat er een besluit over de benoeming wordt genomen, adviseren een kandidaat een opleiding op het gebied van beslechting van octrooigeschillen overeenkomstig [artikel 11, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=11&z=2023-06-01&g=2023-06-01), te laten volgen.
 
 3. Bij de benoeming van de rechters ziet het Bestuurscomité erop toe dat de te benoemen kandidaat over de beste juridische en technische deskundigheid beschikt alsmede op een uit geografisch oogpunt zo evenwichtig mogelijke samenstelling van het Gerecht uit onderdanen van de overeenkomstsluitende lidstaten.
 
@@ -1036,7 +1036,7 @@ Dit statuut bevat de institutionele en financiële regelingen voor het bij [arti
 
 ##### Artikel 5. Benoeming van de leden van het Raadgevend Comité
 
-1. Elke overeenkomstsluitende lidstaat draagt een lid van het Raadgevend Comité voor dat voldoet aan de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=II&artikel=14&z=2013-02-19&g=2013-02-19), van de overeenkomst genoemde vereisten.
+1. Elke overeenkomstsluitende lidstaat draagt een lid van het Raadgevend Comité voor dat voldoet aan de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=II&artikel=14&z=2023-06-01&g=2023-06-01), van de overeenkomst genoemde vereisten.
 
 2. De leden van het Raadgevend Comité worden met algehele instemming benoemd door het Bestuurscomité.
 
@@ -1078,11 +1078,11 @@ Alvorens hun ambt te aanvaarden, verklaren de rechters tijdens een openbare zitt
 
 ##### Artikel 9. Beëindiging van de ambtsuitoefening
 
-1. Behalve door vervanging na het verstrijken van de ambtstermijn in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=4&z=2013-02-19&g=2013-02-19), of door overlijden, eindigt de ambtsuitoefening van een rechter wanneer hij ontslag neemt.
+1. Behalve door vervanging na het verstrijken van de ambtstermijn in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=4&z=2023-06-01&g=2023-06-01), of door overlijden, eindigt de ambtsuitoefening van een rechter wanneer hij ontslag neemt.
 
 2. Een rechter die ontslag neemt, richt daartoe een brief aan de president van het Hof van Beroep of, in het geval van rechters van het Gerecht van Eerste Aanleg, aan de president van het Gerecht van Eerste Aanleg, ter doorzending aan de voorzitter van het Bestuurscomité.
 
-3. Behoudens in gevallen waarin [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=10&z=2013-02-19&g=2013-02-19) van toepassing is, blijft elke rechter in functie totdat zijn opvolger aantreedt.
+3. Behoudens in gevallen waarin [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=10&z=2023-06-01&g=2023-06-01) van toepassing is, blijft elke rechter in functie totdat zijn opvolger aantreedt.
 
 4. Elke vacature wordt vervuld door benoeming van een nieuwe rechter voor de resterende ambtstermijn van zijn voorganger.
 
@@ -1096,7 +1096,7 @@ Alvorens hun ambt te aanvaarden, verklaren de rechters tijdens een openbare zitt
 
 ##### Artikel 11. Opleiding
 
-1. Binnen het kader van het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=19&z=2013-02-19&g=2013-02-19) van de overeenkomst bedoelde opleidingsprogramma, wordt een passende, periodieke opleiding van rechters verzorgd. Het presidium stelt de opleidingsvoorschriften vast waarmee de uitvoering en de algehele samenhang van het opleidingsprogramma worden gewaarborgd.
+1. Binnen het kader van het in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=19&z=2023-06-01&g=2023-06-01) van de overeenkomst bedoelde opleidingsprogramma, wordt een passende, periodieke opleiding van rechters verzorgd. Het presidium stelt de opleidingsvoorschriften vast waarmee de uitvoering en de algehele samenhang van het opleidingsprogramma worden gewaarborgd.
 
 2. Het opleidingsprogramma voorziet in een platform voor de uitwisseling van kennis en in een discussieforum, met name door:
 
@@ -1140,7 +1140,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 3. De president van het Gerecht van Eerste Aanleg leidt de rechterlijke werkzaamheden en de administratie van het Gerecht van Eerste Aanleg.
 
-4. [Artikel 13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=1&artikel=13&z=2013-02-19&g=2013-02-19), zijn van overeenkomstige toepassing op de president van het Gerecht van Eerste Aanleg.
+4. [Artikel 13, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=1&artikel=13&z=2023-06-01&g=2023-06-01), zijn van overeenkomstige toepassing op de president van het Gerecht van Eerste Aanleg.
 
 ##### Artikel 15. Presidium
 
@@ -1150,7 +1150,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 3. Het presidium is belast met het beheer van het Gerecht en, in het bijzonder:
 
-- a. stelt het voorstellen op tot wijziging van het procesreglement overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=41&z=2013-02-19&g=2013-02-19) van de overeenkomst en voorstellen betreffende het financieel reglement van het Gerecht;
+- a. stelt het voorstellen op tot wijziging van het procesreglement overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=41&z=2023-06-01&g=2023-06-01) van de overeenkomst en voorstellen betreffende het financieel reglement van het Gerecht;
 
 - b. stelt het de jaarlijkse begroting, de jaarrekeningen en het jaarverslag van het Gerecht op en legt deze voor aan bij het Begrotingscomité;
 
@@ -1160,9 +1160,9 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 - e. stelt het de regels voor de griffie, met inbegrip van de subgriffies vast;
 
-- f. brengt het advies uit overeenkomstig [artikel 83, vijfde lid,](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2013-02-19&g=2013-02-19) van de overeenkomst.
+- f. brengt het advies uit overeenkomstig [artikel 83, vijfde lid,](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-01&g=2023-06-01) van de overeenkomst.
 
-4. De in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=7&z=2013-02-19&g=2013-02-19), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=8&z=2013-02-19&g=2013-02-19), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=10&z=2013-02-19&g=2013-02-19) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=4&artikel=22&z=2013-02-19&g=2013-02-19) genoemde besluiten van het presidium worden genomen zonder dat de griffier eraan deelneemt.
+4. De in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=7&z=2023-06-01&g=2023-06-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=8&z=2023-06-01&g=2023-06-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=1&artikel=10&z=2023-06-01&g=2023-06-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=4&artikel=22&z=2023-06-01&g=2023-06-01) genoemde besluiten van het presidium worden genomen zonder dat de griffier eraan deelneemt.
 
 5. Het presidium kan slechts geldig beslissen, indien alle leden aanwezig zijn of naar behoren zijn vertegenwoordigd. Er wordt beslist bij meerderheid van stemmen.
 
@@ -1200,7 +1200,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 3. Overeenkomstig het procesreglement kan voor elke divisie een vaste rechter voor de behandeling van urgente zaken worden aangewezen.
 
-4. Indien een alleensprekend rechter in de zin van [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=II&artikel=8&z=2013-02-19&g=2013-02-19), van de overeenkomst, of een vaste rechter in de zin van het derde lid van dit artikel, een zaak behandelt, verricht hij alle functies van een panel.
+4. Indien een alleensprekend rechter in de zin van [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=II&artikel=8&z=2023-06-01&g=2023-06-01), van de overeenkomst, of een vaste rechter in de zin van het derde lid van dit artikel, een zaak behandelt, verricht hij alle functies van een panel.
 
 5. Eén rechter van het panel treedt op als rapporteur, overeenkomstig het procesreglement.
 
@@ -1246,15 +1246,15 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 - a. het bijhouden van het register van alle zaken voor het Gerecht;
 
-- b. het bijhouden en beheren van de overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2013-02-19&g=2013-02-19), [48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=48&z=2013-02-19&g=2013-02-19) en [57, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=57&z=2013-02-19&g=2013-02-19) van de overeenkomst opgestelde lijsten;
+- b. het bijhouden en beheren van de overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=I&hoofdstuk=III&artikel=18&z=2023-06-01&g=2023-06-01), [48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=I&artikel=48&z=2023-06-01&g=2023-06-01) en [57, tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=IV&artikel=57&z=2023-06-01&g=2023-06-01) van de overeenkomst opgestelde lijsten;
 
-- c. het bijhouden en publiceren van de lijst van kennisgevingen omtrent onttrekking aan de exclusieve bevoegdheid en de ongedaanmaking daarvan overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2013-02-19&g=2013-02-19) van de overeenkomst;
+- c. het bijhouden en publiceren van de lijst van kennisgevingen omtrent onttrekking aan de exclusieve bevoegdheid en de ongedaanmaking daarvan overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-01&g=2023-06-01) van de overeenkomst;
 
 - d. het publiceren van de beslissingen van het Gerecht, onder voorbehoud van de bescherming van vertrouwelijke informatie;
 
 - e. het publiceren van jaarverslagen met statistische gegevens; en
 
-- f. het verzekeren dat het Europees Octrooibureau in kennis wordt gesteld van de informatie over onttrekking aan de exclusieve bevoegdheid in de zin van [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2013-02-19&g=2013-02-19) van de overeenkomst.
+- f. het verzekeren dat het Europees Octrooibureau in kennis wordt gesteld van de informatie over onttrekking aan de exclusieve bevoegdheid in de zin van [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=IV&artikel=83&z=2023-06-01&g=2023-06-01) van de overeenkomst.
 
 ##### Artikel 24. Bijhouden van het register
 
@@ -1266,7 +1266,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 1. Een plaatsvervangend griffier wordt door het presidium benoemd voor een termijn van zes jaar. De plaatsvervangend griffier kan worden herbenoemd.
 
-2. Het [tweede tot en met zesde lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=4&artikel=22&z=2013-02-19&g=2013-02-19) zijn van overeenkomstige toepassing.
+2. Het [tweede tot en met zesde lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=II&afdeling=4&artikel=22&z=2023-06-01&g=2023-06-01) zijn van overeenkomstige toepassing.
 
 3. De plaatsvervangend griffier is verantwoordelijk voor de organisatie en de werkzaamheden van de subgriffies onder het gezag van de griffier en de president van het Gerecht van Eerste Aanleg. De plaatsvervangend griffier heeft met name tot taak:
 
@@ -1280,7 +1280,7 @@ Het Bestuurscomité stelt de bezoldiging vast van de president van het Hof van B
 
 ##### Artikel 26. Begroting
 
-1. De begroting wordt op voorstel van het presidium door het Begrotingscomité vastgesteld. Zij wordt opgesteld overeenkomstig de algemeen aanvaarde boekhoudkundige grondslagen vastgelegd in het overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=III&artikel=33&z=2013-02-19&g=2013-02-19) opgestelde financieel reglement.
+1. De begroting wordt op voorstel van het presidium door het Begrotingscomité vastgesteld. Zij wordt opgesteld overeenkomstig de algemeen aanvaarde boekhoudkundige grondslagen vastgelegd in het overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&bijlage=I&hoofdstuk=III&artikel=33&z=2023-06-01&g=2023-06-01) opgestelde financieel reglement.
 
 2. Binnen de begroting kan het presidium, overeenkomstig het financieel reglement, financiële middelen verschuiven tussen de diverse hoofdstukken en onderverdelingen.
 
@@ -1334,7 +1334,7 @@ Het presidium legt aan het Begrotingscomité de ontwerpbegroting van het Gerecht
 
 - a. voorschriften voor het opstellen en uitvoeren van de begroting en voor de wijze waarop over de rekeningen verantwoording dient te worden afgelegd;
 
-- b. de wijze waarop en procedure volgens welke de betalingen en bijdragen, inclusief de eerste financiële bijdragen als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=II&artikel=37&z=2013-02-19&g=2013-02-19) van de overeenkomst, aan het Gerecht ter beschikking dienen te worden gesteld;
+- b. de wijze waarop en procedure volgens welke de betalingen en bijdragen, inclusief de eerste financiële bijdragen als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=II&artikel=37&z=2023-06-01&g=2023-06-01) van de overeenkomst, aan het Gerecht ter beschikking dienen te worden gesteld;
 
 - c. de voorschriften betreffende de taken van de controlerende en met de boekhouding belaste ambtenaren alsmede het op hen uit te oefenen toezicht; en
 
@@ -1360,7 +1360,7 @@ De beraadslagingen van het Gerecht zijn en blijven geheim.
 
 ##### Artikel 36. Afwijkende meningen
 
-Een afwijkende mening dat door een rechter van een panel afzonderlijk wordt ingenomen overeenkomstig [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=VI&artikel=78&z=2013-02-19&g=2013-02-19) van de overeenkomst wordt door die rechter met redenen omkleed, schriftelijk ingediend en ondertekend.
+Een afwijkende mening dat door een rechter van een panel afzonderlijk wordt ingenomen overeenkomstig [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBV0006168&deel=III&hoofdstuk=VI&artikel=78&z=2023-06-01&g=2023-06-01) van de overeenkomst wordt door die rechter met redenen omkleed, schriftelijk ingediend en ondertekend.
 
 ##### Artikel 37. Beslissing bij verstek
 
