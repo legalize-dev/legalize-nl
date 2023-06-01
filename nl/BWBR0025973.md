@@ -4,7 +4,7 @@ identifier: "BWBR0025973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-01"
-last_updated: "2022-05-19"
+last_updated: "2023-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025973"
 soort: "ministeriele-regeling"
@@ -120,7 +120,7 @@ Vaartuigen, drijvende inrichtingen of drijvend voorwerpen, waarvoor een certific
 
 ##### Artikel 1.04. Certificaat van onderzoek
 
-Op de in [artikel 1.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.02&z=2022-05-19&g=2022-05-19), bedoelde vaartuigen moeten
+Op de in [artikel 1.02, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.02&z=2022-05-19&g=2023-06-01), bedoelde vaartuigen moeten
 
 - a). een certificaat van onderzoek, dat door een Commissie van deskundigen, die door één der Rijnoeverstaten of België overeenkomstig de bepalingen van dit reglement is afgegeven, of
 
@@ -182,7 +182,7 @@ De voorzitter en de erkend deskundigen dienen bij de aanvaarding van hun functie
 
 ##### Artikel 2.02. Aanvraag van het onderzoek
 
-1. De eigenaar van een vaartuig of zijn vertegenwoordiger die een onderzoek hiervan wenst, moet bij de Commissie van deskundigen van zijn keuze een aanvraag indienen volgens het model van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=A&z=2022-05-19&g=2022-05-19). De Commissie van deskundigen stelt vast welke bescheiden moeten worden overgelegd.
+1. De eigenaar van een vaartuig of zijn vertegenwoordiger die een onderzoek hiervan wenst, moet bij de Commissie van deskundigen van zijn keuze een aanvraag indienen volgens het model van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=A&z=2022-05-19&g=2023-06-01). De Commissie van deskundigen stelt vast welke bescheiden moeten worden overgelegd.
 
 2. De eigenaar van een vaartuig, waarop dit reglement niet van toepassing is, of zijn vertegenwoordiger, kan een certificaat van onderzoek aanvragen. Aan deze aanvraag dient gevolg te worden gegeven wanneer het vaartuig voldoet aan de bepalingen van dit reglement.
 
@@ -200,7 +200,7 @@ De voorzitter en de erkend deskundigen dienen bij de aanvaarding van hun functie
 
 1. Wanneer de Commissie van deskundigen op grond van het onderzoek van een vaartuig vaststelt dat dit beantwoordt aan de bepalingen van dit reglement en de bepalingen van [ES-TRIN](https://wetten.overheid.nl/jci1.3:c:BWBR0041395), geeft zij aan de aanvrager een certificaat van onderzoek volgens het model van [bijlage 3, onderdeel I, van ES-TRIN](onbekend) af.
 
-2. De Commissie van deskundigen controleert bij afgifte van een certificaat van onderzoek of aan het desbetreffende vaartuig niet reeds een geldig certificaat is afgegeven, zoals bedoeld in [artikel 1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.04&z=2022-05-19&g=2022-05-19).
+2. De Commissie van deskundigen controleert bij afgifte van een certificaat van onderzoek of aan het desbetreffende vaartuig niet reeds een geldig certificaat is afgegeven, zoals bedoeld in [artikel 1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.04&z=2022-05-19&g=2023-06-01).
 
 3. Ingeval de Commissie van deskundigen weigert een certificaat van onderzoek af te geven, moet zij dit aan de aanvrager gemotiveerd schriftelijk mededelen.
 
@@ -210,7 +210,7 @@ De voorzitter en de erkend deskundigen dienen bij de aanvaarding van hun functie
 
 - a). vaartuigen die met toestemming van de Commissie van deskundigen naar een bepaalde plaats willen varen om een certificaat van onderzoek te verkrijgen;
 
-- b). vaartuigen waarvan het certificaat van onderzoek verloren, beschadigd of tijdelijk ingetrokken is, zoals bedoeld in de [artikelen 2.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.07&z=2022-05-19&g=2022-05-19) of [2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.13&z=2022-05-19&g=2022-05-19);
+- b). vaartuigen waarvan het certificaat van onderzoek verloren, beschadigd of tijdelijk ingetrokken is, zoals bedoeld in de [artikelen 2.07](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.07&z=2022-05-19&g=2023-06-01) of [2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.13&z=2022-05-19&g=2023-06-01);
 
 - c). vaartuigen waarvan het certificaat van onderzoek na een inspectie met positief resultaat wordt voorbereid;
 
@@ -220,7 +220,7 @@ De voorzitter en de erkend deskundigen dienen bij de aanvaarding van hun functie
 
 - f). drijvende inrichtingen en drijvende voorwerpen, in het geval dat de voor de toepassing van [artikel 1.21, eerste lid, van het Rijnvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006923&artikel=1.21) bevoegde autoriteiten de vergunning voor een bijzonder transport afhankelijk stelt van het verkrijgen van een voorlopig certificaat van onderzoek;
 
-- g). vaartuigen waarvoor de Commissie van deskundigen een gelijkwaardigheid als bedoeld in [artikel 2.20, eerste tot derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.20&z=2022-05-19&g=2022-05-19), toestaat, voor de gevallen waarvoor de Centrale Commissie voor de Rijnvaart nog geen aanbeveling heeft gedaan.
+- g). vaartuigen waarvoor de Commissie van deskundigen een gelijkwaardigheid als bedoeld in [artikel 2.20, eerste tot derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.20&z=2022-05-19&g=2023-06-01), toestaat, voor de gevallen waarvoor de Centrale Commissie voor de Rijnvaart nog geen aanbeveling heeft gedaan.
 
 2. Het voorlopige certificaat van onderzoek wordt volgens het model van [bijlage 3, onderdeel II, van ES-TRIN](onbekend) afgegeven, wanneer de deugdelijkheid van het vaartuig, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd wordt geacht.
 
@@ -268,7 +268,7 @@ De geldigheidsduur wordt aangetekend in het certificaat van onderzoek en dient t
 
 2. Bij wijze van uitzondering kan de Commissie van deskundigen op een met redenen omkleed verzoek van de eigenaar of zijn vertegenwoordiger de geldigheidsduur van het certificaat van onderzoek zonder periodiek onderzoek met ten hoogste één jaar verlengen. Deze verlenging wordt schriftelijk gegeven en moet zich aan boord van het vaartuig bevinden.
 
-3. De Commissie van deskundigen die het periodiek onderzoek verricht, stelt afhankelijk van de resultaten daarvan de nieuwe geldigheidsduur van het certificaat van onderzoek vast. Hierbij wordt [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.06&z=2022-05-19&g=2022-05-19) in acht genomen. De geldigheidsduur wordt aangetekend in het certificaat van onderzoek en dient ter kennis te worden gebracht van de Commissie van deskundigen die het certificaat heeft afgegeven.
+3. De Commissie van deskundigen die het periodiek onderzoek verricht, stelt afhankelijk van de resultaten daarvan de nieuwe geldigheidsduur van het certificaat van onderzoek vast. Hierbij wordt [artikel 2.06](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.06&z=2022-05-19&g=2023-06-01) in acht genomen. De geldigheidsduur wordt aangetekend in het certificaat van onderzoek en dient ter kennis te worden gebracht van de Commissie van deskundigen die het certificaat heeft afgegeven.
 
 4. Indien in plaats van verlenging van de geldigheidsduur het certificaat van onderzoek door een nieuw certificaat wordt vervangen, dient het oude certificaat van onderzoek te worden teruggezonden aan de Commissie van deskundigen die het heeft afgegeven.
 
@@ -310,7 +310,7 @@ Wanneer de Commissie van deskundigen die het certificaat heeft ingehouden, vermo
 
 ##### Artikel 2.15. Kosten
 
-1. Onverminderd [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.11&z=2022-05-19&g=2022-05-19), draagt de eigenaar van een vaartuig of zijn vertegenwoordiger de kosten die voortvloeien uit het onderzoek en de afgifte van het certificaat van onderzoek, overeenkomstig het geldende tarief, dat door elk der Rijnoeverstaten en België wordt vastgesteld. Er mag hierbij geen onderscheid worden gemaakt uit hoofde van het land van teboekstelling van het vaartuig of de nationaliteit of woonplaats van de eigenaar.
+1. Onverminderd [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.11&z=2022-05-19&g=2023-06-01), draagt de eigenaar van een vaartuig of zijn vertegenwoordiger de kosten die voortvloeien uit het onderzoek en de afgifte van het certificaat van onderzoek, overeenkomstig het geldende tarief, dat door elk der Rijnoeverstaten en België wordt vastgesteld. Er mag hierbij geen onderscheid worden gemaakt uit hoofde van het land van teboekstelling van het vaartuig of de nationaliteit of woonplaats van de eigenaar.
 
 2. De Commissie van deskundigen kan vóór het onderzoek een voorschot verlangen dat niet hoger mag zijn dan het vermoedelijke bedrag van de kosten.
 
@@ -324,7 +324,7 @@ De Commissie van deskundigen kan personen, die kunnen aantonen daar om gegronde 
 
 2. De Commissies van deskundigen bewaren de minuut of een afschrift van elk certificaat dat zij hebben afgegeven. Daarop tekenen zij alle aantekeningen en wijzigingen, alsmede ongeldigheidsverklaringen en vervangingen van de certificaten aan en actualiseren zij volgens het eerste lid de registratie dienovereenkomstig.
 
-3. Ter uitvoering van de bestuursrechtelijke maatregelen op het gebied van de scheepvaart en ter toepassing van de [artikelen 2.02 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.02&z=2022-05-19&g=2022-05-19) wordt aan de bevoegde autoriteiten van de Rijnoeverstaten en België, van de lidstaten van de Europese Unie en, voor zover een gelijkwaardige gegevensbescherming is gewaarborgd, aan de bevoegde autoriteiten van derde landen op grond van bestuursrechtelijke overeenkomsten het recht tot inzage in de registratie zoals bedoeld in het eerste lid verleend.
+3. Ter uitvoering van de bestuursrechtelijke maatregelen op het gebied van de scheepvaart en ter toepassing van de [artikelen 2.02 tot en met 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.02&z=2022-05-19&g=2023-06-01) wordt aan de bevoegde autoriteiten van de Rijnoeverstaten en België, van de lidstaten van de Europese Unie en, voor zover een gelijkwaardige gegevensbescherming is gewaarborgd, aan de bevoegde autoriteiten van derde landen op grond van bestuursrechtelijke overeenkomsten het recht tot inzage in de registratie zoals bedoeld in het eerste lid verleend.
 
 ##### Artikel 2.18. Uniek Europees scheepsidentificatienummer
 
@@ -1082,7 +1082,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 18.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2022-05-19&g=2022-05-19)
+##### Artikel 18.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2022-05-19&g=2023-06-01)
 
 Vervallen
 
@@ -1104,7 +1104,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 19.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2022-05-19&g=2022-05-19)
+##### Artikel 19.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2022-05-19&g=2023-06-01)
 
 Vervallen
 
@@ -1114,7 +1114,7 @@ Vervallen
 
 ### Hoofdstuk 17. Bijzondere bepalingen voor drijvende werktuigen
 
-##### Artikel 20.01. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2022-05-19&g=2022-05-19)
+##### Artikel 20.01. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2022-05-19&g=2023-06-01)
 
 Vervallen
 
@@ -1132,7 +1132,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 21.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2022-05-19&g=2022-05-19)
+##### Artikel 21.02. Toepasselijkheid van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=II&z=2022-05-19&g=2023-06-01)
 
 Vervallen
 
@@ -1282,7 +1282,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 23.13. Afwijking van de in [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2022-05-19&g=2022-05-19) voorgeschreven minimum uitrusting
+##### Artikel 23.13. Afwijking van de in [artikel 23.09](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=III&hoofdstuk=23&artikel=23.09&z=2022-05-19&g=2023-06-01) voorgeschreven minimum uitrusting
 
 Vervallen
 
@@ -1318,7 +1318,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 24.06. Afwijkingen voor vaartuigen die niet onder [artikel 24.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.01&z=2022-05-19&g=2022-05-19) vallen
+##### Artikel 24.06. Afwijkingen voor vaartuigen die niet onder [artikel 24.01](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&hoofdstuk=24&artikel=24.01&z=2022-05-19&g=2023-06-01) vallen
 
 Vervallen
 
@@ -1326,7 +1326,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 24.08. Overgangsbepalingen bij [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.18&z=2022-05-19&g=2022-05-19)
+##### Artikel 24.08. Overgangsbepalingen bij [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.18&z=2022-05-19&g=2023-06-01)
 
 Vervallen
 
@@ -3678,7 +3678,7 @@ Soort/naam v.h. schip;
 
 ### Hoofdstuk 22a. Bijzondere bepalingen voor vaartuigen met een lenge van meer dan 110 m
 
-##### Artikel 22a.06. Toepasselijkheid van [Deel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&z=2022-05-19&g=2022-05-19) in geval van ombouw
+##### Artikel 22a.06. Toepasselijkheid van [Deel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=IV&z=2022-05-19&g=2023-06-01) in geval van ombouw
 
 Vervallen
 
@@ -6512,7 +6512,7 @@ Vervallen
 
 ### Hoofdstuk 24. Overgangs- en slotbepalingen
 
-## Bijlage D. als bedoeld in [artikel 2.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.05&z=2022-05-19&g=2022-05-19)
+## Bijlage D. als bedoeld in [artikel 2.05, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=2&artikel=2.05&z=2022-05-19&g=2023-06-01)
 
 Vervallen
 
@@ -6571,7 +6571,7 @@ Vervallen
 
 ## Bijlage O
 
-Lijst van de aan het certificaat van onderzoek volgens [artikel 1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.04&z=2022-05-19&g=2022-05-19) als gelijkwaardig erkende bevoegdheidsbewijzen en modaliteiten voor de erkenning van die bevoegdheidsbewijzen
+Lijst van de aan het certificaat van onderzoek volgens [artikel 1.04](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&deel=I&hoofdstuk=1&artikel=1.04&z=2022-05-19&g=2023-06-01) als gelijkwaardig erkende bevoegdheidsbewijzen en modaliteiten voor de erkenning van die bevoegdheidsbewijzen
 
 | Nr. | Aan het certificaat van onderzoek volgens artikel 1.04 als gelijkwaardig erkende bevoegdheidsbewijzen | Modaliteiten van de erkenning | Datum van de erkenning |
 | --- | --- | --- | --- |
