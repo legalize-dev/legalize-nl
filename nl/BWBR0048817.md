@@ -4,7 +4,7 @@ identifier: "BWBR0048817"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-11-01"
-last_updated: "2021-10-30"
+last_updated: "2023-06-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048817"
 soort: "zbo"
@@ -47,7 +47,7 @@ de volgende subsidieregeling vast te stellen.
 
 In deze subsidieregeling wordt verstaan onder:
 
-- a. **advocaat:** de advocaat die op basis van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=III&artikel=7&z=2023-11-01&g=2021-10-30) van deze regeling is toegelaten tot deze subsidieregeling;
+- a. **advocaat:** de advocaat die op basis van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=III&artikel=7&z=2023-11-01&g=2023-06-02) van deze regeling is toegelaten tot deze subsidieregeling;
 
 - b. **Awb:** Algemene wet bestuursrecht;
 
@@ -235,7 +235,7 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 5. Als de rechtzoekende aangeeft dat hij op het moment van inwerkingtreding van deze regeling al rechtsbijstand van een advocaat heeft bij een verzoek in het kader van de herstelregelingen kinderopvangtoeslag, voegt de Raad deze advocaat toe.
 
-6. De advocaat kan voor de werkzaamheden als genoemd in het tweede tot en met het vijftiende lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30), een separate aanvraag indienen voor de in dat artikel genoemde werkzaamheden. Voor deze aanvraag voor rechtsbijstand gebruikt de advocaat een gestandaardiseerd aanvraagformulier ‘Aanvraag vervolgtoevoeging rechtsbijstand herstelregelingen Kinderopvangtoeslag’ en voegt hierbij een afschrift van de bestreden beslissing waarop de betreffende aanvraag voor rechtsbijstand ziet, voor zover van toepassing.
+6. De advocaat kan voor de werkzaamheden als genoemd in het tweede tot en met het vijftiende lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02), een separate aanvraag indienen voor de in dat artikel genoemde werkzaamheden. Voor deze aanvraag voor rechtsbijstand gebruikt de advocaat een gestandaardiseerd aanvraagformulier ‘Aanvraag vervolgtoevoeging rechtsbijstand herstelregelingen Kinderopvangtoeslag’ en voegt hierbij een afschrift van de bestreden beslissing waarop de betreffende aanvraag voor rechtsbijstand ziet, voor zover van toepassing.
 
 ##### Artikel 9. Aanvraag van de vergoeding
 
@@ -253,7 +253,7 @@ Voor deze regeling zal het kenniscentrum van de Raad een monitor opzetten waarme
 
 1. Verzoeken in het kader van de herstelregelingen kinderopvangtoeslag, die op het moment van inwerkingtreding van deze regeling nog in behandeling zijn en waarop nog geen beslissing op bezwaar door Belastingdienst/Toeslagen is genomen, vallen onder deze regeling.
 
-2. Verzoeken voor toevoeging voor het beroep en het hoger beroep als bedoeld in het twaalfde, dertiende, veertiende en vijftiende lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30) vallen onder deze regeling indien in de procedure waarvoor de toevoeging wordt gevraagd op het moment van inwerkingtreding van deze regeling nog geen uitspraak is gedaan.
+2. Verzoeken voor toevoeging voor het beroep en het hoger beroep als bedoeld in het twaalfde, dertiende, veertiende en vijftiende lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02) vallen onder deze regeling indien in de procedure waarvoor de toevoeging wordt gevraagd op het moment van inwerkingtreding van deze regeling nog geen uitspraak is gedaan.
 
 ##### Artikel 12. Inwerkingtreding en vervaldatum
 
@@ -263,33 +263,33 @@ Voor deze regeling zal het kenniscentrum van de Raad een monitor opzetten waarme
 
 - a.
 
-- 1. [Artikel 4, het derde en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30), en
+- 1. [Artikel 4, het derde en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02), en
 
-- 2. [Artikel 4, het vijftiende, zestiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30) voor zover deze betrekking hebben op het derde en veertiende lid, treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werken terug tot 1 oktober 2023.
+- 2. [Artikel 4, het vijftiende, zestiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02) voor zover deze betrekking hebben op het derde en veertiende lid, treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werken terug tot 1 oktober 2023.
 
-- b. [Artikel 4, het vijfde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30), treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werken terug tot 1 juni 2023.
+- b. [Artikel 4, het vijfde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02), treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werken terug tot 1 juni 2023.
 
 - c.
 
-- 1. [Artikel 4, het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30) treedt in werking met ingang van de dag na de datum van uitgifte van publicatie in het Staatsblad waarin [artikel I, onderdeel M, onder 1, 3 en 4, JJ, NN, WW en ZZ van de Wet aanvullende regelingen hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I) in werking treden, en
+- 1. [Artikel 4, het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02) treedt in werking met ingang van de dag na de datum van uitgifte van publicatie in het Staatsblad waarin [artikel I, onderdeel M, onder 1, 3 en 4, JJ, NN, WW en ZZ van de Wet aanvullende regelingen hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I) in werking treden, en
 
-- 2. [Artikel 4, het dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30) treedt op dezelfde datum in werking als bedoeld in het eerste onderdeel voor zover dat betrekking heeft op het achtste lid, en
+- 2. [Artikel 4, het dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02) treedt op dezelfde datum in werking als bedoeld in het eerste onderdeel voor zover dat betrekking heeft op het achtste lid, en
 
-- 3. [Artikel 4, het vijftiende, zestiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30) treden op dezelfde dag in werking als bedoeld in het eerste onderdeel voor zover deze betrekking hebben op het achtste lid.
+- 3. [Artikel 4, het vijftiende, zestiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02) treden op dezelfde dag in werking als bedoeld in het eerste onderdeel voor zover deze betrekking hebben op het achtste lid.
 
 - d.
 
-- 1. [Artikel 4, het tiende lid en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30), voor zover deze betrekking hebben op het tiende lid onderdelen b en c, en
+- 1. [Artikel 4, het tiende lid en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02), voor zover deze betrekking hebben op het tiende lid onderdelen b en c, en
 
-- 2. [Artikel 4, het vijftiende, zestiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30) voor zover deze betrekking hebben op het tiende lid, onderdelen b en c, treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werken terug tot 29 oktober 2021.
+- 2. [Artikel 4, het vijftiende, zestiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02) voor zover deze betrekking hebben op het tiende lid, onderdelen b en c, treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werken terug tot 29 oktober 2021.
 
 - e.
 
-- 1. [Artikel 4, het elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30), en
+- 1. [Artikel 4, het elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02), en
 
-- 2. [Artikel 4, het dertiende, vijftiende, zestiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30) voor zover deze betrekking hebben op het elfde lid, treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werken terug tot 15 juli 2023.
+- 2. [Artikel 4, het dertiende, vijftiende, zestiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02) voor zover deze betrekking hebben op het elfde lid, treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werken terug tot 15 juli 2023.
 
-- f. De vergoeding in [artikel 4, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2021-10-30), vervalt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.
+- f. De vergoeding in [artikel 4, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048817&hoofdstuk=II&artikel=4&z=2023-11-01&g=2023-06-02), vervalt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.
 
 3. Deze regeling vervalt op 31 december 2027.
 
