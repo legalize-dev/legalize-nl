@@ -4,7 +4,7 @@ identifier: "BWBR0045596"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-03"
-last_updated: "2021-09-10"
+last_updated: "2023-06-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045596"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045596&artikel=2&z=2021-09-10&g=2021-09-10).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045596&artikel=2&z=2023-06-03&g=2023-06-03).
 
 ##### Artikel 2
 
@@ -80,15 +80,7 @@ Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-1. De FUMO brengt jaarlijks, voor 1 april, verslag uit over:
-
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045596&artikel=2&z=2021-09-10&g=2021-09-10) genoemde functie;
-
-- b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
-
-- c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
-
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045596&artikel=5&z=2021-09-10&g=2021-09-10) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde (vervoersfouillering) lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien, korte wapenstok. De gebruikmaking van (vooralsnog) pepperspray wordt toegekend tot 10 september 2026.
 
 ##### Artikel 7
 
