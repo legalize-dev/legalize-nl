@@ -4,7 +4,7 @@ identifier: "BWBV0004459"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-06-06"
-last_updated: "2022-07-01"
+last_updated: "2023-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004459"
 soort: "verdrag"
@@ -66,7 +66,7 @@ toe te zien op de voldoening aan de veranderende behoeften van de cliënten.
 
 - 1.1. postale dienst: geheel van internationale postale verrichtingen waarvan de reikwijdte door de Akten van de Unie wordt vastgesteld en gereglementeerd. De belangrijkste met deze verrichtingen samenhangende verplichting is het realiseren van bepaalde sociale en economische doelstellingen van de lidstaten, door te zorgen voor het ophalen, sorteren, verzenden en bestellen van poststukken.
 
-- 1.2. lidstaat: land dat voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=I&artikel=2&z=2022-07-01&g=2022-07-01) van de Constitutie genoemde voorwaarden.
+- 1.2. lidstaat: land dat voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=I&artikel=2&z=2023-06-06&g=2023-06-06) van de Constitutie genoemde voorwaarden.
 
 - 1.3. enkel postgebied (een en hetzelfde postgebied): verplichting voor de partijen bij de Akten van de Unie om, op basis van wederkerigheid, zorg te dragen voor de uitwisseling van poststukken met inachtneming van de vrijheid van doorvoer en om poststukken afkomstig van andere landen die via hun land worden doorgevoerd zonder onderscheid als hun eigen poststukken te behandelen, met inachtneming van de voorwaarden als vermeld in de Akten van de Unie.
 
@@ -76,11 +76,11 @@ toe te zien op de voldoening aan de veranderende behoeften van de cliënten.
 
 - 1.6. (Geschrapt.)
 
-- 1.6bis. poststuk: algemene term die verwijst naar alle post die door de aangewezen aanbieder van een lidstaat wordt verzonden (briefpost, pakketpost, postwissels, enzovoort), zoals beschreven in het [Algemeen Postverdrag](onbekend) (hierna „Verdrag”), de Verdragen van de Unie (zoals bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=I&artikel=22&z=2022-07-01&g=2022-07-01) van de Constitutie) en de respectievelijke Regelingen daarbij.
+- 1.6bis. poststuk: algemene term die verwijst naar alle post die door de aangewezen aanbieder van een lidstaat wordt verzonden (briefpost, pakketpost, postwissels, enzovoort), zoals beschreven in het [Algemeen Postverdrag](onbekend) (hierna „Verdrag”), de Verdragen van de Unie (zoals bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=I&artikel=22&z=2023-06-06&g=2023-06-06) van de Constitutie) en de respectievelijke Regelingen daarbij.
 
 - 1.7. aangewezen aanbieder: elke gouvernementele of niet-gouvernementele instantie die officieel door de lidstaat is aangewezen voor de verzorging van postale diensten en het vervullen van de daarbij behorende verplichtingen die uit de Akten van de Unie voortvloeien op zijn grondgebied.
 
-- 1.8. voorbehoud: een uitzonderingsclausule waarmee een lidstaat beoogt het rechtsgevolg van de toepassing in de lidstaat van een bepaling van een Akte, niet zijnde de Constitutie of het [Algemeen Reglement](onbekend), uit te sluiten of te wijzigen. Elk voorbehoud dient verenigbaar te zijn met het voorwerp en doel van de Unie zoals omschreven in de preambule en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=I&artikel=1&z=2022-07-01&g=2022-07-01) van de Constitutie. Een voorbehoud dient naar behoren met redenen te worden omkleed en te worden goedgekeurd door de meerderheid die is vereist voor de goedkeuring van de desbetreffende Akte, en dient in het Slotprotocol ervan te worden opgenomen.
+- 1.8. voorbehoud: een uitzonderingsclausule waarmee een lidstaat beoogt het rechtsgevolg van de toepassing in de lidstaat van een bepaling van een Akte, niet zijnde de Constitutie of het [Algemeen Reglement](onbekend), uit te sluiten of te wijzigen. Elk voorbehoud dient verenigbaar te zijn met het voorwerp en doel van de Unie zoals omschreven in de preambule en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=I&artikel=1&z=2023-06-06&g=2023-06-06) van de Constitutie. Een voorbehoud dient naar behoren met redenen te worden omkleed en te worden goedgekeurd door de meerderheid die is vereist voor de goedkeuring van de desbetreffende Akte, en dient in het Slotprotocol ervan te worden opgenomen.
 
 ##### Artikel 2. Leden van de Unie
 
@@ -88,7 +88,7 @@ Lidstaten van de Unie zijn:
 
 - a. de staten die de hoedanigheid van lid hebben op de datum van inwerkingtreding van deze Constitutie;
 
-- b. de staten die lid zijn geworden overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2022-07-01&g=2022-07-01).
+- b. de staten die lid zijn geworden overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2023-06-06&g=2023-06-06).
 
 ##### Artikel 3. Rechtsgebied van de Unie
 
@@ -208,7 +208,7 @@ Een centraal bureau, dat op het hoofdkantoor van de Unie opereert onder de naam 
 
 3. De uitgaven van de Unie, met inbegrip van de in het tweede lid bedoelde uitgaven, worden gezamenlijk gedragen door de lidstaten van de Unie. Daartoe kiest elke lidstaat de bijdrageklasse waarin hij wil worden ingedeeld, met inachtneming van de relevante bepalingen die zijn vastgelegd in het [Algemeen Reglement](onbekend).
 
-4. In geval van toetreding of toelating tot de Unie uit hoofde van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2022-07-01&g=2022-07-01) kiest het betrokken land de bijdragecategorie waarin het wil worden ingedeeld met het oog op de verdeling van de uitgaven van de Unie, eveneens met inachtneming van de relevante bepalingen die zijn vastgelegd in het [Algemeen Reglement](onbekend).
+4. In geval van toetreding of toelating tot de Unie uit hoofde van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=11&z=2023-06-06&g=2023-06-06) kiest het betrokken land de bijdragecategorie waarin het wil worden ingedeeld met het oog op de verdeling van de uitgaven van de Unie, eveneens met inachtneming van de relevante bepalingen die zijn vastgelegd in het [Algemeen Reglement](onbekend).
 
 ## TITEL II. AKTEN VAN DE UNIE
 
@@ -260,7 +260,7 @@ De bepalingen van de Akten van de Unie laten de wetgeving van elke lidstaat onve
 
 6. Lidstaten kunnen, op enig moment, toetreden tot de Akten van de Unie die zij niet hebben ondertekend, in overeenstemming met de relevante procedures vervat in het Reglement van Orde van de Congressen.
 
-7. Van toetreding door lidstaten tot de Akten van de Unie worden kennisgeving gedaan in overeenstemming met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=II&artikel=26&z=2022-07-01&g=2022-07-01).
+7. Van toetreding door lidstaten tot de Akten van de Unie worden kennisgeving gedaan in overeenstemming met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=II&artikel=26&z=2023-06-06&g=2023-06-06).
 
 ##### Artikel 26. Kennisgeving van bekrachtiging, aanvaarding, goedkeuring van en van toetreding tot de Akten van de Unie
 
@@ -272,7 +272,7 @@ Vervallen
 
 ##### Artikel 28. Opzegging van de Verdragen van de Unie
 
-1. Elke lidstaat kan zich terugtrekken uit deelname aan een of meerdere Verdragen van de Unie, met inachtneming van de analoge bepalingen in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=12&z=2022-07-01&g=2022-07-01).
+1. Elke lidstaat kan zich terugtrekken uit deelname aan een of meerdere Verdragen van de Unie, met inachtneming van de analoge bepalingen in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=I&hoofdstuk=II&artikel=12&z=2023-06-06&g=2023-06-06).
 
 ### HOOFDSTUK III. WIJZIGING VAN DE AKTEN VAN DE UNIE
 
@@ -288,13 +288,13 @@ Vervallen
 
 1. Om te worden aangenomen moeten de voorstellen die aan het Congres worden voorgelegd en die betrekking hebben op deze Constitutie worden goedgekeurd door ten minste twee derde van de lidstaten van de Unie die bevoegd zijn een stem uit te brengen.
 
-2. De door een Congres aangenomen wijzigingen van de Constitutie worden vervat in een aanvullend protocol en treden in werking op de daarin vermelde datum zoals tijdens hetzelfde Congres bepaald. Onverminderd het bindende karakter van de Constitutie zoals voorzien in [artikel 22.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=I&artikel=22&z=2022-07-01&g=2022-07-01), worden de genoemde wijzigingen zo snel mogelijk door de lidstaten bekrachtigd, aanvaard, goedgekeurd of treden zij er zo snel mogelijk tot toe. De akten van deze bekrachtiging, aanvaarding, goedkeuring of toetreding worden behandeld overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=II&artikel=26&z=2022-07-01&g=2022-07-01) vereiste procedure.
+2. De door een Congres aangenomen wijzigingen van de Constitutie worden vervat in een aanvullend protocol en treden in werking op de daarin vermelde datum zoals tijdens hetzelfde Congres bepaald. Onverminderd het bindende karakter van de Constitutie zoals voorzien in [artikel 22.1](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=I&artikel=22&z=2023-06-06&g=2023-06-06), worden de genoemde wijzigingen zo snel mogelijk door de lidstaten bekrachtigd, aanvaard, goedgekeurd of treden zij er zo snel mogelijk tot toe. De akten van deze bekrachtiging, aanvaarding, goedkeuring of toetreding worden behandeld overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=II&artikel=26&z=2023-06-06&g=2023-06-06) vereiste procedure.
 
 ##### Artikel 31. Wijziging van het [Algemeen Reglement](onbekend), van het [Verdrag](onbekend) en van de Verdragen van de Unie
 
 1. In het [Algemeen Reglement](onbekend), het [Verdrag](onbekend) en de Verdragen van de Unie worden de voorwaarden vastgelegd waaraan de goedkeuring van de voorstellen die daarop betrekking hebben, onderworpen is.
 
-2. Wijzigingen van het [Algemeen Reglement](onbekend), het [Verdrag](onbekend) en de Verdragen van de Unie worden vervat in een aanvullend protocol en treden in werking op de datum die door het Congres wordt bepaald. Onverminderd het bindende karakter van de bovengenoemde Akten van de Unie zoals voorzien in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=I&artikel=22&z=2022-07-01&g=2022-07-01), worden de genoemde wijzigingen zo snel mogelijk door de lidstaten bekrachtigd, aanvaard, goedgekeurd of treden zij er zo snel mogelijk tot toe. De akten van deze bekrachtiging, aanvaarding, goedkeuring of toetreding worden behandeld overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=II&artikel=26&z=2022-07-01&g=2022-07-01) vereiste procedure. Deze bepaling is eveneens van overeenkomstige toepassing op eventuele wijzigingen van het Verdrag en de Verdragen van de Unie die zijn aangenomen tussen twee Congressen.
+2. Wijzigingen van het [Algemeen Reglement](onbekend), het [Verdrag](onbekend) en de Verdragen van de Unie worden vervat in een aanvullend protocol en treden in werking op de datum die door het Congres wordt bepaald. Onverminderd het bindende karakter van de bovengenoemde Akten van de Unie zoals voorzien in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=I&artikel=22&z=2023-06-06&g=2023-06-06), worden de genoemde wijzigingen zo snel mogelijk door de lidstaten bekrachtigd, aanvaard, goedgekeurd of treden zij er zo snel mogelijk tot toe. De akten van deze bekrachtiging, aanvaarding, goedkeuring of toetreding worden behandeld overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&titeldeel=II&hoofdstuk=II&artikel=26&z=2023-06-06&g=2023-06-06) vereiste procedure. Deze bepaling is eveneens van overeenkomstige toepassing op eventuele wijzigingen van het Verdrag en de Verdragen van de Unie die zijn aangenomen tussen twee Congressen.
 
 ### HOOFDSTUK IV. REGELING VAN GESCHILLEN
 
