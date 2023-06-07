@@ -4,7 +4,7 @@ identifier: "BWBR0019436"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-07"
-last_updated: "2006-02-01"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019436"
 soort: "ministeriele-regeling"
@@ -42,9 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Als ambtenaren belast met het toezicht op de naleving als bedoeld in [artikel 89, eerste lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=89) worden aangewezen:
-
-a. de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+1. Als ambtenaren belast met het toezicht op de naleving als bedoeld in [artikel 89, eerste lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=89) worden aangewezen de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit.
 
 2. Als personen belast met het toezicht op de naleving als bedoeld in [artikel 89, eerste lid, van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=89) worden aangewezen:
 
