@@ -4,7 +4,7 @@ identifier: "BWBR0044854"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-24"
-last_updated: "2023-02-01"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044854"
 soort: "ministeriele-regeling"
@@ -72,7 +72,9 @@ In dit besluit wordt verstaan onder:
 
 - l. **verordening 2016/2031:** Verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/213, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad tot intrekking van de [Richtlijnen 69/464](31969L0464)/EEFG, [74/467/EEG](31974L0467), [93/85/EEG](31993L0085), [98/57/EG](31998L0057), [2000/29/EG](32000L0029), [2006/91/EG](32006L0091) en [2007/33/EG](32007L0033) van de Raad (PbEU 2016, L 317);
 
-- m. **verordening 2017/625:** Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de [Richtlijnen 98/58/EG](31998L0058), [1999/74/EG](31999L0074), [2007/43/EG](32007L0043), [2008/119/EG](32008L0119) en [2008/120/EG](32008L0120) van de Raad, en tot intrekking van de Verordeningen (EG) nr. [854/2004](32754L2004) en (EG) nr. [882/2004](32782L2004) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](31989L0608), [89/662/EEG](31989L0662), [90/425/EEG](31990L0425), [91/496/EEG](31991L0496), [96/23/EG](31996L0023), [96/93/EG](31996L0093) en [97/78/EG](31997L0078) van de Raad en Besluit [92/438/EEG](31992L0438) van de Raad (verordening officiële controles) (PbEU 2017, L 95).
+- m. **verordening 2017/625:** Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de [Richtlijnen 98/58/EG](31998L0058), [1999/74/EG](31999L0074), [2007/43/EG](32007L0043), [2008/119/EG](32008L0119) en [2008/120/EG](32008L0120) van de Raad, en tot intrekking van de Verordeningen (EG) nr. [854/2004](32754L2004) en (EG) nr. [882/2004](32782L2004) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](31989L0608), [89/662/EEG](31989L0662), [90/425/EEG](31990L0425), [91/496/EEG](31991L0496), [96/23/EG](31996L0023), [96/93/EG](31996L0093) en [97/78/EG](31997L0078) van de Raad en Besluit [92/438/EEG](31992L0438) van de Raad (verordening officiële controles) (PbEU 2017, L 95);
+
+- n. **de directeur Skal:** de directeur van Stichting Skal.
 
 #### § 2. Mandaat, volmacht en machtiging
 
@@ -122,17 +124,19 @@ In dit besluit wordt verstaan onder:
 
 6. Aan de directeur van de BKD wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 19 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=19), aangaande het teeltmateriaal van bloembollen, alsmede de hiermee samenhangende besluiten.
 
-7. Aan de directeur van Naktuinbouw wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 93 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=93), aangaande het teeltmateriaal van tuinbouwgewassen, alsmede de hiermee samenhangende besluiten.
+7. Aan de directeur Skal wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 19 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=19), aangaande biologische productie en etikettering van biologische producten, alsmede de hiermee samenhangende besluiten.
 
-8. Aan de directeur van NAK wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 93 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=93), aangaande het teeltmateriaal en de teelt van landbouwgewassen, alsmede de hiermee samenhangende besluiten.
+8. Aan de directeur van Naktuinbouw wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 93 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=93), aangaande het teeltmateriaal van tuinbouwgewassen, alsmede de hiermee samenhangende besluiten.
 
-9. Bij gebreke van de volledige betaling binnen de gestelde termijn kunnen de kosten verband houdend met de bestuursdwang, bedoeld in het eerste tot en met vijfde lid, verhoogd met de invorderingskosten, door de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw, respectievelijk de directeur NAK worden ingevorderd bij dwangbevel.
+9. Aan de directeur van NAK wordt mandaat, volmacht en machtiging verleend voor het nemen van beschikkingen en het verrichten van overige handelingen die verband houden met het besluit tot oplegging van een last onder bestuursdwang als bedoeld in [artikel 93 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=93), aangaande het teeltmateriaal en de teelt van landbouwgewassen, alsmede de hiermee samenhangende besluiten.
+
+10. Bij gebreke van de volledige betaling binnen de gestelde termijn kunnen de kosten verband houdend met de bestuursdwang, bedoeld in het eerste tot en met negende lid, verhoogd met de invorderingskosten, door de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw, de directeur NAK, respectievelijk de directeur Skal worden ingevorderd bij dwangbevel.
 
 ##### Artikel 4
 
 1. Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, machtiging verleend voor het opleggen van het verbod tot vervoeren of verplaatsen en het kenmerken of het onder verzegeling brengen als bedoeld in [artikel 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=2).
 
-2. Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen de besluiten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=2&z=2023-02-01&g=2023-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=3&z=2023-02-01&g=2023-02-01), voor zover in ondermandaat genomen door functionarissen werkzaam in hun organisatie, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+2. Aan de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw, de directeur NAK en de directeur Skal wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen de besluiten als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=2&z=2023-06-07&g=2023-06-07) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=3&z=2023-06-07&g=2023-06-07), voor zover in ondermandaat genomen door functionarissen werkzaam in hun organisatie, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 3. In het geval de minister een mededeling doet dat een aangelegenheid als bedoeld in het tweede lid door hem zal worden behandeld, wordt ten aanzien van die aangelegenheid mandaat en machtiging verleend aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat.
 
@@ -140,11 +144,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. De technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK kunnen, ieder voor zich, voor de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=2&z=2023-02-01&g=2023-02-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam in zijn organisatie.
+1. De technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK kunnen, ieder voor zich, voor de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=2&z=2023-06-07&g=2023-06-07) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam in zijn organisatie.
 
-2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
+2. De directeur Skal kan voor de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=3&z=2023-06-07&g=2023-06-07) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0044854&paragraaf=2&artikel=4&z=2023-06-07&g=2023-06-07) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de functionarissen werkzaam in zijn organisatie.
 
-3. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens het besluit ondermandaat is verleend.
+3. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
+
+4. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het vorige lid wordt gezonden aan de secretaris-generaal en de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat en aan degenen aan wie krachtens het besluit ondermandaat is verleend.
 
 ##### Artikel 6
 
@@ -164,7 +170,7 @@ namens deze:
 
 ##### Artikel 7
 
-De uit dit besluit voor de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw en de directeur NAK voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
+De uit dit besluit voor de technisch directeur KCB, de directeur BKD, de directeur Naktuinbouw, de directeur NAK en de directeur Skal voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
 
 #### § 5. Slotbepalingen
 
