@@ -4,7 +4,7 @@ identifier: "BWBR0010054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-15"
-last_updated: "2021-05-26"
+last_updated: "2023-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010054"
 soort: "ministeriele-regeling"
@@ -43,25 +43,25 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-a. Minister: Minister van Infrastructuur en Milieu; b. bevoegde autoriteit: 1°. Minister, 2°. een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2021-05-26&g=2021-05-26) bij deze regeling erkende instantie, of 3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0026901) erkende instantie; c. richtlijn nr. 2008/68/EG: richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260); d. [richtlijn nr. 95/50/EG](31995L0050): [richtlijn nr. 95/50/EG](31995L0050) van de Raad van de Europese Unie van 6 oktober 1996 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg (PbEG L249).
+a. Minister: Minister van Infrastructuur en Milieu; b. bevoegde autoriteit: 1°. Minister, 2°. een in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2023-06-07&g=2023-06-07) bij deze regeling erkende instantie, of 3°. een met toepassing van de [Regeling erkende instanties vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0026901) erkende instantie; c. richtlijn nr. 2008/68/EG: richtlijn nr. 2008/68/EG van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land (PbEU L 260); d. [richtlijn nr. 95/50/EG](31995L0050): [richtlijn nr. 95/50/EG](31995L0050) van de Raad van de Europese Unie van 6 oktober 1996 betreffende uniforme procedures voor de controle op het vervoer van gevaarlijke goederen over de weg (PbEG L249).
 
-2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2021-05-26&g=2021-05-26), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2021-05-26&g=2021-05-26) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=4&z=2021-05-26&g=2021-05-26) voorzover daarin niet anders is bepaald.
+2. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07) opgenomen begripsbepalingen zijn van toepassing op de [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2023-06-07&g=2023-06-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2023-06-07&g=2023-06-07) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=4&z=2023-06-07&g=2023-06-07) voorzover daarin niet anders is bepaald.
 
 ##### Artikel 2
 
 Bij deze regeling behoren vier bijlagen:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26): voorschriften betreffende het vervoer van gevaarlijke stoffen over land, zijnde de Nederlandse vertaling van de bijlagen A en B van het ADR en de daarbij behorende aanhangsels;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07): voorschriften betreffende het vervoer van gevaarlijke stoffen over land, zijnde de Nederlandse vertaling van de bijlagen A en B van het ADR en de daarbij behorende aanhangsels;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2021-05-26&g=2021-05-26): voorschriften in afwijking van of in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26);
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2&z=2023-06-07&g=2023-06-07): voorschriften in afwijking van of in aanvulling op [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07);
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2021-05-26&g=2021-05-26): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=1&z=2021-05-26&g=2021-05-26);
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=3&z=2023-06-07&g=2023-06-07): erkende instanties, bedoeld in [artikel 1, eerste lid, onderdeel b, 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=1&z=2023-06-07&g=2023-06-07);
 
-- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=4&z=2021-05-26&g=2021-05-26): rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke stoffen.
+- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=4&z=2023-06-07&g=2023-06-07): rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke stoffen.
 
 ##### Artikel 3
 
-Met voorwaardelijk tot het vervoer over land toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
+Met voorwaardelijk tot het vervoer over land toegelaten gevaarlijke stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07) mogen de handelingen, bedoeld in [artikel 2 van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=2), worden verricht, mits de in deze regeling gestelde voorschriften in acht worden genomen.
 
 ##### Artikel 4
 
@@ -81,7 +81,7 @@ Deze regeling treedt in werking op 1 januari 1999.
 
 Deze regeling wordt aangehaald als: [Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054).
 
-## Bijlage 1. als bedoeld in de [artikelen 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2021-05-26&g=2021-05-26), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=3&z=2021-05-26&g=2021-05-26) van de Regeling vervoer over land van gevaarlijke stoffen
+## Bijlage 1. als bedoeld in de [artikelen 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2023-06-07&g=2023-06-07), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=3&z=2023-06-07&g=2023-06-07) van de Regeling vervoer over land van gevaarlijke stoffen
 
 Ligt ter inzage bij het Ministerie van Infrastructuur en Waterstaat.
 
@@ -863,7 +863,7 @@ a. BZK: 1º. Minister van Binnenlandse Zaken en Koninkrijksrelaties, 2º. ten aa
 
 ## Bijlage 4. als bedoeld in artikel 2, onderdeel d, van de Regeling vervoer over land van gevaarlijke stoffen
 
-Het laden of lossen van ontplofbare stoffen en voorwerpen van klasse 1 in hoeveelheden die per transporteenheid groter zijn dan de vrijgestelde hoeveelheden van randnummer 1.1.3.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26) geschiedt onder toezicht van een ter zake deskundige.
+Het laden of lossen van ontplofbare stoffen en voorwerpen van klasse 1 in hoeveelheden die per transporteenheid groter zijn dan de vrijgestelde hoeveelheden van randnummer 1.1.3.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07) geschiedt onder toezicht van een ter zake deskundige.
 
 ### **Artikel 6. Weersomstandigheden**
 
@@ -2457,7 +2457,7 @@ De Rijkskeuringsvoorschriften betreffende het vervoer over land van gevaarlijke 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
 
-## Bijlage 2. bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2021-05-26&g=2021-05-26), van de Regeling vervoer over land van gevaarlijke stoffen
+## Bijlage 2. bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2023-06-07&g=2023-06-07), van de Regeling vervoer over land van gevaarlijke stoffen
 
 ### Aanvullende Voorschriften
 
@@ -2916,7 +2916,7 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 
 ## Bijlage 4. als bedoeld in artikel 2, onderdeel d, van de Regeling vervoer over land van gevaarlijke stoffen
 
-Voor wat betreft het duurremsysteem is randnummer 9.2.3.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26) (retarder) niet van toepassing op motorvoertuigen gebouwd vóór 1 januari 1997.
+Voor wat betreft het duurremsysteem is randnummer 9.2.3.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07) (retarder) niet van toepassing op motorvoertuigen gebouwd vóór 1 januari 1997.
 
 ### **9.7.5.1. N Stabiliteit**
 
@@ -3126,7 +3126,7 @@ De N-bepalingen in dit hoofdstuk:
 
 ### **1.5.1.1. N Multilaterale overeenkomsten**
 
-1. Niet-grensoverschrijdend vervoer mag plaatsvinden overeenkomstig multilaterale overeenkomsten als bedoeld in randnummer 1.5.1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26), die door Nederland zijn ondertekend.
+1. Niet-grensoverschrijdend vervoer mag plaatsvinden overeenkomstig multilaterale overeenkomsten als bedoeld in randnummer 1.5.1.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07), die door Nederland zijn ondertekend.
 
 ### **5.1.2.1./5.2.1 N Opschriften en kenmerking**
 
@@ -3138,7 +3138,7 @@ De opschriften en kenmerkingen op colli, containers, tanks en voertuigen, dan we
 
 Het is toegestaan dat in het vervoerdocument de voorgeschreven aanduidingen uitsluitend zijn gesteld in de Nederlandse taal.
 
-In Nederland geregistreerde tankwagens, bestemd voor het vervoer van propaan, butaan en mengsels daarvan, zijn voorzien van een noodstopvoorziening die is aangesloten op het bedieningssysteem van de veiligheidsinrichting, bedoeld in randnummer 6.8.3.2.3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26), en op het aandrijfsysteem van de pomp. Het bedienen van de noodstopvoorziening heeft tot direct gevolg dat de veiligheidsinrichtingen gesloten worden en de pomp gestopt wordt. De bedieningsorganen van de noodstopvoorziening zijn zowel aangebracht in de bedieningskast(en) als bij de linkervoorzijde als bij de rechterachterzijde van de tank.
+In Nederland geregistreerde tankwagens, bestemd voor het vervoer van propaan, butaan en mengsels daarvan, zijn voorzien van een noodstopvoorziening die is aangesloten op het bedieningssysteem van de veiligheidsinrichting, bedoeld in randnummer 6.8.3.2.3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07), en op het aandrijfsysteem van de pomp. Het bedienen van de noodstopvoorziening heeft tot direct gevolg dat de veiligheidsinrichtingen gesloten worden en de pomp gestopt wordt. De bedieningsorganen van de noodstopvoorziening zijn zowel aangebracht in de bedieningskast(en) als bij de linkervoorzijde als bij de rechterachterzijde van de tank.
 
 In Nederland geregistreerde tankwagens, bestemd voor het vervoer van propaan, butaan of mengsels daarvan, worden iedere 26 weken onderworpen aan een visuele uitwendige inspectie en aan een controle op de goede werking van de uitrusting.
 
@@ -3146,7 +3146,7 @@ In Nederland geregistreerde tankwagens, bestemd voor het vervoer van propaan, bu
 
 ### **7.5.7.5/8.3.3 Openen van colli**
 
-In afwijking van randnummers 7.5.7.5/8.3.3 van [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26), mag de chauffeur of de bijrijder:
+In afwijking van randnummers 7.5.7.5/8.3.3 van [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07), mag de chauffeur of de bijrijder:
 
 ### **8.1.2. N Documenten die het vervoer moeten begeleiden**
 
@@ -3188,7 +3188,7 @@ Het laden of lossen van ontplofbare stoffen en voorwerpen van klasse 1 in hoevee
 
 ### **Artikel 5. Laden en lossen**
 
-2. Het is niet toegestaan gevaarlijke stoffen te vervoeren in tanks, losgestort of in colli, in hoeveelheden die per transporteenheid groter zijn dan de voorwaardelijk vrijgestelde hoeveelheden bedoeld in randnummer 1.1.3.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26):
+2. Het is niet toegestaan gevaarlijke stoffen te vervoeren in tanks, losgestort of in colli, in hoeveelheden die per transporteenheid groter zijn dan de voorwaardelijk vrijgestelde hoeveelheden bedoeld in randnummer 1.1.3.6 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07):
 
 3. Het verbod, bedoeld in het tweede lid, onderdeel b, geldt niet voor het vervoer van medische isotopen.
 
@@ -3222,7 +3222,7 @@ Vervallen.
 
 1. In Nederland geregistreerde, ingevolge deze regeling keuringsplichtige voertuigen als bedoeld in randnummer 9.1.3.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2018-05-01&g=2018-05-01), kunnen overeenkomstig hun bestemming worden gebruikt, indien zij zijn goedgekeurd door de Dienst Wegverkeer.
 
-1. In Nederland geregistreerde, ingevolge deze regeling keuringsplichtige voertuigen als bedoeld in randnummer 9.1.3.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26), kunnen overeenkomstig hun bestemming worden gebruikt, indien zij zijn goedgekeurd door de Dienst Wegverkeer.
+1. In Nederland geregistreerde, ingevolge deze regeling keuringsplichtige voertuigen als bedoeld in randnummer 9.1.3.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07), kunnen overeenkomstig hun bestemming worden gebruikt, indien zij zijn goedgekeurd door de Dienst Wegverkeer.
 
 2. De goedkeuring wordt geweigerd, indien een voertuig als bedoeld in het eerste lid naar het oordeel van de Dienst Wegverkeer niet voldoet aan deze regeling.
 
@@ -3770,7 +3770,7 @@ In afwijking van de tweede volzin van randnummer 9.7.5.1 van [bijlage 1](https:/
 
 ### **Artikel 1. Toepassingsbereik**
 
-2. Dit hoofdstuk is niet van toepassing op het vervoer dat plaatsvindt overeenkomstig randnummer 1.1.3 en de hoofdstukken 3.4 en 3.5 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26).
+2. Dit hoofdstuk is niet van toepassing op het vervoer dat plaatsvindt overeenkomstig randnummer 1.1.3 en de hoofdstukken 3.4 en 3.5 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07).
 
 Het vervoer van de stoffen die in tabel 1 zijn opgenomen, is routeplichtig als bedoeld in [artikel 24, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=24).
 
@@ -3786,7 +3786,7 @@ Het vervoer van de stoffen die in tabel 1 zijn opgenomen, is routeplichtig als b
 
 De werkgever bewaart de dossiers, bedoeld in randnummers 1.3.3 en 1.10.2.4 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2018-05-01&g=2018-05-01) gedurende de arbeidsrelatie met de werknemer, die de opleiding heeft genoten.
 
-De werkgever bewaart de dossiers, bedoeld in randnummers 1.3.3 en 1.10.2.4 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26) gedurende de arbeidsrelatie met de werknemer, die de opleiding heeft genoten.
+De werkgever bewaart de dossiers, bedoeld in randnummers 1.3.3 en 1.10.2.4 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07) gedurende de arbeidsrelatie met de werknemer, die de opleiding heeft genoten.
 
 ### **Artikel 12. 1.8.3.2. Uitzondering verplichting veiligheidsadviseur**
 
@@ -4364,13 +4364,13 @@ Indien voor het betrokken vervoer ontheffing is verleend ingevolge [artikel 9 va
 
 ### **8.2.1. N Speciale opleiding van de bestuurder**
 
-Randnummer 8.2.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26) is niet van toepassing op bestuurders van brandweervoertuigen die gevaarlijke stoffen bevatten, mits:
+Randnummer 8.2.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07) is niet van toepassing op bestuurders van brandweervoertuigen die gevaarlijke stoffen bevatten, mits:
 
 ### **9.2.3.1. N Reminrichting**
 
-In afwijking van de tweede volzin van randnummer 9.7.5.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26), behoeft bij in Nederland geregistreerde gelede voertuigen voor wat betreft de druk van de assen van de beladen oplegger, slechts te worden voldaan aan de daaromtrent in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) gestelde eisen.
+In afwijking van de tweede volzin van randnummer 9.7.5.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07), behoeft bij in Nederland geregistreerde gelede voertuigen voor wat betreft de druk van de assen van de beladen oplegger, slechts te worden voldaan aan de daaromtrent in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) gestelde eisen.
 
-Het is verboden met een tankwagen, afneembare tank, batterijwagen, tankcontainer, transporttank, MEGC of bulkcontainer gevaarlijke stoffen als bedoeld in randnummer 1.2.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26) te laden of te lossen elders dan:
+Het is verboden met een tankwagen, afneembare tank, batterijwagen, tankcontainer, transporttank, MEGC of bulkcontainer gevaarlijke stoffen als bedoeld in randnummer 1.2.1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07) te laden of te lossen elders dan:
 
 1. Indien het zicht door weersomstandigheden zoals mist, sneeuw en regen minder is dan 200 meter, is het niet toegestaan:
 
@@ -4446,7 +4446,7 @@ Vervallen.
 
 2. In deze verklaring is tevens vermeldt welke stof, aangegeven door naam, klasse en rn., als laatste werd vervoerd voorafgaand aan het tijdstip van keuring onderscheidenlijk beproeving.
 
-3. Indien de fabrikant van de tank of de werkplaats waar de tank wordt geïnspecteerd ten minste is gecertificeerd voor een kwaliteitsborgingssysteem volgens de norm ISO 9001:2000, kan de directeur onder nader bekend te maken voorschriften en beperkingen toestaan dat het certificaat, bedoeld in het tweede lid, door de eigen gekwalificeerde deskundige wordt opgesteld en gewaarmerkt.
+3. Indien de fabrikant van de tank of de werkplaats waar de tank wordt geïnspecteerd ten minste is gecertificeerd voor een kwaliteitsborgingssysteem volgens de norm ISO 9001:2015, kan de directeur onder nader bekend te maken voorschriften en beperkingen toestaan dat het certificaat, bedoeld in het tweede lid, door de eigen gekwalificeerde deskundige wordt opgesteld en gewaarmerkt.
 
 ### **Artikel 81**
 
@@ -4616,7 +4616,7 @@ Dit openen is uitsluitend toegestaan voor het direct afleveren van genoemde stof
 
 ### **Artikel 8. Pont**
 
-De voorschriften onder randnummer 1.8.3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2021-05-26&g=2021-05-26) zijn niet van toepassing op ondernemingen als bedoeld in randnummer 1.8.3.2.
+De voorschriften onder randnummer 1.8.3 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1&z=2023-06-07&g=2023-06-07) zijn niet van toepassing op ondernemingen als bedoeld in randnummer 1.8.3.2.
 
 ### **Artikel 2**
 
@@ -4770,9 +4770,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 1, die ter inzage wordt gelegd bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat, Nieuwe Uitleg 1 te Den Haag.
 
-## Bijlage 3. als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2021-05-26&g=2021-05-26), van de Regeling vervoer over land van gevaarlijke stoffen
+## Bijlage 3. als bedoeld in [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2023-06-07&g=2023-06-07), van de Regeling vervoer over land van gevaarlijke stoffen
 
-## Bijlage 4. bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2021-05-26&g=2021-05-26), van de Regeling vervoer over land van gevaarlijke stoffen
+## Bijlage 4. bedoeld in [artikel 2, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&artikel=2&z=2023-06-07&g=2023-06-07), van de Regeling vervoer over land van gevaarlijke stoffen
 
 ### **Artikel 2 Europese Normen**
 
