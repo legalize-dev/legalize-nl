@@ -4,7 +4,7 @@ identifier: "BWBR0044975"
 country: "nl"
 rank: "reglement"
 publication_date: "2024-11-21"
-last_updated: "2023-03-14"
+last_updated: "2023-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044975"
 soort: "reglement"
@@ -72,7 +72,7 @@ In dit Reglement en de daarop berustende regelingen wordt, tenzij anders bepaald
 
 1. De Kamer beslist met inachtneming van de bij de wet gestelde regels of een nieuwbenoemd lid als lid van de Kamer wordt toegelaten.
 
-2. De commissie, genoemd in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.1&artikel=7.6&z=2023-03-14&g=2023-03-14), is ten behoeve van de beslissing van de Kamer belast met het onderzoek van de geloofsbrief van elk nieuwbenoemd lid.
+2. De commissie, genoemd in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.1&artikel=7.6&z=2023-06-08&g=2023-06-08), is ten behoeve van de beslissing van de Kamer belast met het onderzoek van de geloofsbrief van elk nieuwbenoemd lid.
 
 3. De geloofsbrief en de stukken die een nieuwbenoemd lid op grond van de wet dient over te leggen aan de Kamer, worden bij de griffie ter inzage gelegd van de leden.
 
@@ -98,7 +98,7 @@ In dit Reglement en de daarop berustende regelingen wordt, tenzij anders bepaald
 
 2. De nieuw gekozen Kamer stelt in de eerste vergadering van een zitting de profielschets vast.
 
-3. Na de vaststelling geeft de tijdelijk Voorzitter, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2023-03-14&g=2023-03-14), gelegenheid tot het stellen van kandidaten voor het voorzitterschap.
+3. Na de vaststelling geeft de tijdelijk Voorzitter, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2023-06-08&g=2023-06-08), gelegenheid tot het stellen van kandidaten voor het voorzitterschap.
 
 4. Na de kandidaatstellingsprocedure gaat de Kamer over tot de benoeming van een Voorzitter.
 
@@ -114,9 +114,9 @@ De Voorzitter is belast met:
 
 - c. het uitvoeren van door de Kamer genomen besluiten;
 
-- d. het vertegenwoordigen van de Kamer, met uitzondering van de vertegenwoordiging in rechte, bedoeld in [artikel 6.2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-03-14&g=2023-03-14);
+- d. het vertegenwoordigen van de Kamer, met uitzondering van de vertegenwoordiging in rechte, bedoeld in [artikel 6.2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-06-08&g=2023-06-08);
 
-- e. het namens de Kamer beslissen op een bezwaar tegen een besluit als bedoeld in [artikel 6.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-03-14&g=2023-03-14), dat is genomen zonder toepassing van ondermandaat;
+- e. het namens de Kamer beslissen op een bezwaar tegen een besluit als bedoeld in [artikel 6.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-06-08&g=2023-06-08), dat is genomen zonder toepassing van ondermandaat;
 
 - f. de overige taken die op grond van dit Reglement of de wet aan hem zijn toegedeeld.
 
@@ -126,23 +126,23 @@ De Voorzitter is belast met:
 
 - a. een oud-Voorzitter, waarbij de laatst afgetredene voorrang heeft;
 
-- b. als geen oud-Voorzitters beschikbaar zijn: een oud-Ondervoorzitter, waarbij de laatst afgetredene voorrang heeft, en bij gelijktijdig afgetreden oud-Ondervoorzitters de hoogste in de rangorde, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-03-14&g=2023-03-14), voorgaat;
+- b. als geen oud-Voorzitters beschikbaar zijn: een oud-Ondervoorzitter, waarbij de laatst afgetredene voorrang heeft, en bij gelijktijdig afgetreden oud-Ondervoorzitters de hoogste in de rangorde, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-06-08&g=2023-06-08), voorgaat;
 
 - c. als evenmin oud-Ondervoorzitters beschikbaar zijn: het lid dat het langst in de Kamer zitting heeft, waarbij bij gelijke zittingsduur het oudste lid in leeftijd voorgaat.
 
-2. Zolang bij het tussentijds openvallen van het Voorzitterschap geen Voorzitter is benoemd, treedt de hoogst beschikbare Ondervoorzitter in de rangorde, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-03-14&g=2023-03-14), als tijdelijk Voorzitter op. Indien geen Ondervoorzitter beschikbaar is, wordt overeenkomstig het eerste lid vastgesteld wie tijdelijk Voorzitter is.
+2. Zolang bij het tussentijds openvallen van het Voorzitterschap geen Voorzitter is benoemd, treedt de hoogst beschikbare Ondervoorzitter in de rangorde, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-06-08&g=2023-06-08), als tijdelijk Voorzitter op. Indien geen Ondervoorzitter beschikbaar is, wordt overeenkomstig het eerste lid vastgesteld wie tijdelijk Voorzitter is.
 
 3. De tijdelijk Voorzitter heeft dezelfde taken en bevoegdheden als een Voorzitter.
 
 ##### Artikel 3.4. Waarnemend Voorzitter
 
-1. Indien de Voorzitter niet beschikbaar is, wordt het voorzitterschap waargenomen door een van de Ondervoorzitters overeenkomstig de rangorde, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-03-14&g=2023-03-14).
+1. Indien de Voorzitter niet beschikbaar is, wordt het voorzitterschap waargenomen door een van de Ondervoorzitters overeenkomstig de rangorde, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-06-08&g=2023-06-08).
 
 2. Indien evenmin een Ondervoorzitter beschikbaar is:
 
 - a. kan de Voorzitter het voorzitterschap in een vergadering laten waarnemen door andere leden; en
 
-- b. wordt bij het langdurig niet beschikbaar zijn van de Voorzitter en de Ondervoorzitters overeenkomstig [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2023-03-14&g=2023-03-14), bepaald wie het voorzitterschap waarneemt.
+- b. wordt bij het langdurig niet beschikbaar zijn van de Voorzitter en de Ondervoorzitters overeenkomstig [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2023-06-08&g=2023-06-08), bepaald wie het voorzitterschap waarneemt.
 
 3. Een waarnemend Voorzitter heeft de taken en bevoegdheden van de Voorzitter die vereist zijn voor de waarneming.
 
@@ -166,7 +166,7 @@ De Voorzitter is belast met:
 
 4. De Voorzitter kan andere leden uitnodigen aan de vergaderingen van het Presidium deel te nemen. Deze leden nemen niet deel aan de stemmingen.
 
-5. Indien het Presidium voor onderdelen van zijn werkzaamheden commissies van advies als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.1&artikel=7.9&z=2023-03-14&g=2023-03-14) heeft ingesteld, hoort hij deze voordat hij besluiten neemt ten aanzien van die onderdelen, tenzij dit in een zeer spoedeisend geval niet mogelijk is.
+5. Indien het Presidium voor onderdelen van zijn werkzaamheden commissies van advies als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.1&artikel=7.9&z=2023-06-08&g=2023-06-08) heeft ingesteld, hoort hij deze voordat hij besluiten neemt ten aanzien van die onderdelen, tenzij dit in een zeer spoedeisend geval niet mogelijk is.
 
 6. Het Presidium wordt bijgestaan door de Griffier en de directeuren.
 
@@ -196,13 +196,13 @@ De Voorzitter is belast met:
 
 ##### Artikel 5.2. Groepen
 
-Indien leden anders dan als gevolg van een splitsing als bedoeld in [artikel 5.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=5&artikel=5.1&z=2023-03-14&g=2023-03-14), afgescheiden zijn van een fractie, worden zij ieder afzonderlijk, of twee of meer leden gezamenlijk als zij dit meedelen aan de Voorzitter, beschouwd als een groep.
+Indien leden anders dan als gevolg van een splitsing als bedoeld in [artikel 5.1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=5&artikel=5.1&z=2023-06-08&g=2023-06-08), afgescheiden zijn van een fractie, worden zij ieder afzonderlijk, of twee of meer leden gezamenlijk als zij dit meedelen aan de Voorzitter, beschouwd als een groep.
 
 ##### Artikel 5.3. Financiële bijdrage
 
 1. Bij afzonderlijke regeling, vast te stellen door de Kamer op voorstel van het Presidium, worden regels gesteld voor de toekenning en het beheer van een financiële bijdrage aan fracties en groepen ten behoeve van hun werkzaamheden.
 
-2. Indien een nieuwe fractie ontstaat door samenvoeging, is de bijdrage aan de nieuwgevormde fractie ten hoogste de bijdrage die zou toekomen aan een fractie van gelijke grootte als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=5&artikel=5.1&z=2023-03-14&g=2023-03-14).
+2. Indien een nieuwe fractie ontstaat door samenvoeging, is de bijdrage aan de nieuwgevormde fractie ten hoogste de bijdrage die zou toekomen aan een fractie van gelijke grootte als bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=5&artikel=5.1&z=2023-06-08&g=2023-06-08).
 
 3. Indien in een fractie een splitsing plaatsvindt, wordt de hoogte van de bijdragen aan de bij de splitsing betrokken nieuwe fracties vastgesteld door de bijdrage die aan de ongesplitste fractie zou toekomen, onder de nieuwe fracties te verdelen naar evenredigheid van de aantallen bij de splitsing betrokken leden.
 
@@ -292,7 +292,7 @@ De Kamer kan een enquêtecommissie instellen voor het uitvoeren van een parlemen
 
 - b. het voorlichten, adviseren en ondersteunen van de Kamer en de commissies bij de uitoefening van het budgetrecht en de financiële controle van de regering.
 
-3. De voorlichting, advisering en ondersteuning, bedoeld in het tweede lid, onder b, strekken zich mede uit tot grote projecten als bedoeld in [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.7&sub-paragraaf=7.7.3&artikel=7.37&z=2023-03-14&g=2023-03-14).
+3. De voorlichting, advisering en ondersteuning, bedoeld in het tweede lid, onder b, strekken zich mede uit tot grote projecten als bedoeld in [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.7&sub-paragraaf=7.7.3&artikel=7.37&z=2023-06-08&g=2023-06-08).
 
 4. De Kamer besluit slechts over een voorstel om de Algemene Rekenkamer te verzoeken een onderzoek in te stellen, nadat advies bij de commissie is ingewonnen.
 
@@ -300,9 +300,9 @@ De Kamer kan een enquêtecommissie instellen voor het uitvoeren van een parlemen
 
 1. Er is een commissie voor de Inlichtingen- en Veiligheidsdiensten.
 
-2. In afwijking van [artikel 7.11, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.1&artikel=7.11&z=2023-03-14&g=2023-03-14), zijn lid van deze commissie de voorzitters van de fracties, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=5&artikel=5.1&z=2023-03-14&g=2023-03-14). Indien in de Kamer meer dan vijf van deze fracties zitting hebben, zijn lid de voorzitters van de vijf grootste van deze fracties. De Kamer kan op voordracht van de commissie besluiten dat voor de duur van een zitting ten hoogste twee andere voorzitters van fracties ook lid zijn van de commissie.
+2. In afwijking van [artikel 7.11, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.1&artikel=7.11&z=2023-06-08&g=2023-06-08), zijn lid van deze commissie de voorzitters van de fracties, bedoeld in [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=5&artikel=5.1&z=2023-06-08&g=2023-06-08). Indien in de Kamer meer dan vijf van deze fracties zitting hebben, zijn lid de voorzitters van de vijf grootste van deze fracties. De Kamer kan op voordracht van de commissie besluiten dat voor de duur van een zitting ten hoogste twee andere voorzitters van fracties ook lid zijn van de commissie.
 
-3. Indien een voorzitter van een fractie op diens verzoek is ontheven van het lidmaatschap van de commissie, is in afwijking van [artikel 7.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.1&artikel=7.11&z=2023-03-14&g=2023-03-14), de Kamer op voordracht van de commissie bevoegd te besluiten of in plaats van de voorzitter van die fractie een andere voorzitter van een fractie voor de verdere duur van de zitting lid is van de commissie.
+3. Indien een voorzitter van een fractie op diens verzoek is ontheven van het lidmaatschap van de commissie, is in afwijking van [artikel 7.11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.2&sub-paragraaf=7.2.1&artikel=7.11&z=2023-06-08&g=2023-06-08), de Kamer op voordracht van de commissie bevoegd te besluiten of in plaats van de voorzitter van die fractie een andere voorzitter van een fractie voor de verdere duur van de zitting lid is van de commissie.
 
 4. Indien een lid van de commissie tijdelijk tevens minister is, wordt dit lid gedurende die periode vervangen door een lid dat zijn fractie daartoe voor de duur van die periode uit haar midden aanwijst. Indien alle leden van de fractie tijdelijk tevens minister zijn, is gedurende die periode geen van hen lid van de commissie.
 
@@ -346,7 +346,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 ##### Artikel 7.10. Gemengde commissie van beroep voor de Dienst Verslag en Redactie
 
-1. In de door beide Kamers der Staten-Generaal vast te stellen regeling, bedoeld in [artikel 15.11](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.11&z=2023-03-14&g=2023-03-14), wordt een gemengde commissie van beroep voor de Dienst Verslag en Redactie ingesteld.
+1. In de door beide Kamers der Staten-Generaal vast te stellen regeling, bedoeld in [artikel 15.11](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.11&z=2023-06-08&g=2023-06-08), wordt een gemengde commissie van beroep voor de Dienst Verslag en Redactie ingesteld.
 
 2. De gemengde commissie is bevoegd om in de door de Dienst opgestelde woordelijke verslagen wijzigingen aan te brengen of ongedaan te maken.
 
@@ -394,7 +394,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 - f. de overige taken die op grond van dit Reglement of de wet aan hem zijn toegedeeld.
 
-2. In het plan, bedoeld in het eerste lid, onderdeel e, wordt in ieder geval vastgelegd op welke wijze de commissie controle uitoefent op de door haar ontvangen jaarverslagen voor de verantwoording van de rijksuitgaven, met inbegrip van de benoeming van rapporteurs als bedoeld in [artikel 7.36](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.7&sub-paragraaf=7.7.3&artikel=7.36&z=2023-03-14&g=2023-03-14).
+2. In het plan, bedoeld in het eerste lid, onderdeel e, wordt in ieder geval vastgelegd op welke wijze de commissie controle uitoefent op de door haar ontvangen jaarverslagen voor de verantwoording van de rijksuitgaven, met inbegrip van de benoeming van rapporteurs als bedoeld in [artikel 7.36](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.7&sub-paragraaf=7.7.3&artikel=7.36&z=2023-06-08&g=2023-06-08).
 
 3. Een commissievoorzitter heeft tijdens een commissievergadering dezelfde bevoegdheden als de Voorzitter tijdens een vergadering van de Kamer.
 
@@ -442,7 +442,7 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 4. De leden van de Kamer die een vergadering van een commissie bijwonen, hebben het recht om deel te nemen aan de beraadslaging.
 
-5. Indien een commissievoorzitter onder overeenkomstige toepassing van [artikel 8.18](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.18&z=2023-03-14&g=2023-03-14) een lid uitsluit van het verdere bijwonen van een commissievergadering, dan geldt deze uitsluiting tevens voor de overige vergaderingen van de betrokken commissie op de dag van de uitsluiting.
+5. Indien een commissievoorzitter onder overeenkomstige toepassing van [artikel 8.18](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.18&z=2023-06-08&g=2023-06-08) een lid uitsluit van het verdere bijwonen van een commissievergadering, dan geldt deze uitsluiting tevens voor de overige vergaderingen van de betrokken commissie op de dag van de uitsluiting.
 
 ##### Artikel 7.19. Openbaarheid vergaderingen
 
@@ -462,9 +462,9 @@ Het Presidium kan ten behoeve van zijn werkzaamheden commissies van advies inste
 
 1. Slechts de leden van een commissie nemen deel aan haar besluitvorming. Indien een lid niet beschikbaar is, kan een plaatsvervangend lid van zijn fractie of groep zijn bevoegdheden uitoefenen. Een plaatsvervangend lid kan de bevoegdheden voor ten hoogste één lid van de commissie uitoefenen.
 
-2. Een commissie kan buiten haar vergaderingen langs schriftelijke weg besluiten over een voorstel dat naar het oordeel van haar commissievoorzitter eenvoudig en spoedeisend van aard is. Het besluit wordt genomen als ware de Kamer in voltallige samenstelling bijeen en stemde zij als bedoeld in [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.25&z=2023-03-14&g=2023-03-14).
+2. Een commissie kan buiten haar vergaderingen langs schriftelijke weg besluiten over een voorstel dat naar het oordeel van haar commissievoorzitter eenvoudig en spoedeisend van aard is. Het besluit wordt genomen als ware de Kamer in voltallige samenstelling bijeen en stemde zij als bedoeld in [artikel 8.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.25&z=2023-06-08&g=2023-06-08).
 
-3. Indien een commissie een keuze dient te maken voor een of meer personen, besluit zij daarover in een vergadering onder overeenkomstige toepassing van de [artikelen 8.31 tot en met 8.38](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.3&artikel=8.31&z=2023-03-14&g=2023-03-14), met dien verstande dat bij een derde stemming de keuze gaat tussen de twee personen die bij de tweede stemming de meeste stemmen kregen.
+3. Indien een commissie een keuze dient te maken voor een of meer personen, besluit zij daarover in een vergadering onder overeenkomstige toepassing van de [artikelen 8.31 tot en met 8.38](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.3&artikel=8.31&z=2023-06-08&g=2023-06-08), met dien verstande dat bij een derde stemming de keuze gaat tussen de twee personen die bij de tweede stemming de meeste stemmen kregen.
 
 #### § 7.4. De besluitvorming
 
@@ -564,7 +564,7 @@ In een commissiedebat, wetgevingsoverleg en notaoverleg kunnen met instemming va
 
 ##### Artikel 7.30. Moties
 
-1. Tijdens een wetgevingsoverleg en notaoverleg kunnen de leden moties indienen. De [artikelen 8.20](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.3&artikel=8.20&z=2023-03-14&g=2023-03-14) en [8.21](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.3&artikel=8.21&z=2023-03-14&g=2023-03-14) zijn van overeenkomstige toepassing op de moties.
+1. Tijdens een wetgevingsoverleg en notaoverleg kunnen de leden moties indienen. De [artikelen 8.20](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.3&artikel=8.20&z=2023-06-08&g=2023-06-08) en [8.21](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.3&artikel=8.21&z=2023-06-08&g=2023-06-08) zijn van overeenkomstige toepassing op de moties.
 
 2. Tijdens een commissiedebat kunnen geen moties worden ingediend.
 
@@ -574,9 +574,9 @@ In een commissiedebat, wetgevingsoverleg en notaoverleg kunnen met instemming va
 
 2. Er kan slechts aan de beraadslaging worden deelgenomen door leden van de fracties of groepen die aan het commissiedebat of schriftelijk overleg hebben deelgenomen, tenzij de Kamer anders besluit.
 
-3. In afwijking van [artikel 8.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.12&z=2023-03-14&g=2023-03-14), voert ieder lid slechts eenmaal het woord.
+3. In afwijking van [artikel 8.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.12&z=2023-06-08&g=2023-06-08), voert ieder lid slechts eenmaal het woord.
 
-4. In afwijking van [artikel 8.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.13&z=2023-03-14&g=2023-03-14), bedraagt de maximumspreektijd per fractie twee minuten en per groep een minuut, met inbegrip van de benodigde tijd voor de indiening van moties.
+4. In afwijking van [artikel 8.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.13&z=2023-06-08&g=2023-06-08), bedraagt de maximumspreektijd per fractie twee minuten en per groep een minuut, met inbegrip van de benodigde tijd voor de indiening van moties.
 
 #### § 7.7.3. Bijzonderheden overige bevoegdheden
 
@@ -592,7 +592,9 @@ Indien een commissie besluit een rondetafelgesprek te houden, wisselt zij daarin
 
 ##### Artikel 7.34. Uitnodiging rijksambtenaren
 
-Indien een commissie rijksambtenaren wil uitnodigen voor een rondetafelgesprek, hoorzitting of technische briefing, dan doet zij dit door tussenkomst van de voor hen verantwoordelijke minister.
+1. Indien een commissie rijksambtenaren wil uitnodigen voor een rondetafelgesprek, hoorzitting of technische briefing, dan doet zij dit door tussenkomst van de voor hen verantwoordelijke minister.
+
+2. De inspecteur-generaal van een rijksinspectie wordt in ieder geval uitgenodigd voor een rondetafelgesprek, hoorzitting of technische briefing, indien ten minste vijftig leden schriftelijk aan een commissie te kennen geven dit te wensen.
 
 ##### Artikel 7.35. Verzoek om voorlichting of advies
 
@@ -614,7 +616,7 @@ Indien een commissie rijksambtenaren wil uitnodigen voor een rondetafelgesprek, 
 
 - a. een door haar ontvangen stuk;
 
-- b. een groot project als bedoeld in [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.7&sub-paragraaf=7.7.3&artikel=7.37&z=2023-03-14&g=2023-03-14) waarmee zij is belast; of
+- b. een groot project als bedoeld in [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.7&sub-paragraaf=7.7.3&artikel=7.37&z=2023-06-08&g=2023-06-08) waarmee zij is belast; of
 
 - c. een ander onderwerp dat haar aangaat.
 
@@ -752,7 +754,7 @@ De Voorzitter kan interrupties toelaten. Deze moeten bestaan uit korte opmerking
 
 1. De Kamer kan voor de beraadslaging over een onderwerp maximumspreektijden vaststellen per fractie en groep met inachtneming van de omvang van de fracties en groepen, voor de ministers en voor overige deelnemers.
 
-2. Indien de Kamer maximumspreektijden vaststelt, kan zij tevens bepalen dat in afwijking van [artikel 8.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.12&z=2023-03-14&g=2023-03-14), slechts in één termijn het woord wordt gevoerd.
+2. Indien de Kamer maximumspreektijden vaststelt, kan zij tevens bepalen dat in afwijking van [artikel 8.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.12&z=2023-06-08&g=2023-06-08), slechts in één termijn het woord wordt gevoerd.
 
 3. Zodra een door de Kamer vastgestelde of door dit Reglement voorgeschreven maximumspreektijd is verstreken, verzoekt de Voorzitter de spreker op te houden met spreken. Deze geeft meteen aan dit verzoek gevolg.
 
@@ -790,19 +792,19 @@ Ieder lid gedraagt zich in de vergadering op een wijze die getuigt van onderling
 
 1. De Voorzitter kan een spreker het woord ontnemen, indien deze spreker:
 
-- a. nadat hij is teruggeroepen tot de behandeling als bedoeld in [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.15&z=2023-03-14&g=2023-03-14), voortgaat van het onderwerp af te wijken; of
+- a. nadat hij is teruggeroepen tot de behandeling als bedoeld in [artikel 8.15](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.15&z=2023-06-08&g=2023-06-08), voortgaat van het onderwerp af te wijken; of
 
-- b. nadat hij is gewaarschuwd als bedoeld in [artikel 8.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.16&z=2023-03-14&g=2023-03-14), geen gebruik maakt van de gelegenheid woorden terug te nemen of van gedrag terug te komen, of voortgaat beledigende uitdrukkingen te gebruiken, de orde te verstoren, de geheimhouding of vertrouwelijkheid niet in acht te nemen, instemming te betuigen met of aan te sporen tot onwettige handelingen, of een persoon te bedreigen.
+- b. nadat hij is gewaarschuwd als bedoeld in [artikel 8.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.16&z=2023-06-08&g=2023-06-08), geen gebruik maakt van de gelegenheid woorden terug te nemen of van gedrag terug te komen, of voortgaat beledigende uitdrukkingen te gebruiken, de orde te verstoren, de geheimhouding of vertrouwelijkheid niet in acht te nemen, instemming te betuigen met of aan te sporen tot onwettige handelingen, of een persoon te bedreigen.
 
 2. Een lid dat het woord is ontnomen, mag in de betrokken vergadering niet meer aan de beraadslaging over het in behandeling zijnde onderwerp deelnemen.
 
 ##### Artikel 8.18. Uitsluiting van de vergadering
 
-De Voorzitter kan een spreker op wie [artikel 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.17&z=2023-03-14&g=2023-03-14) is toegepast en ieder ander lid dat zich gedraagt als bedoeld in dat artikel, uitsluiten van het verdere bijwonen van de vergadering op de dag waarop de uitsluiting plaats heeft.
+De Voorzitter kan een spreker op wie [artikel 8.17](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.17&z=2023-06-08&g=2023-06-08) is toegepast en ieder ander lid dat zich gedraagt als bedoeld in dat artikel, uitsluiten van het verdere bijwonen van de vergadering op de dag waarop de uitsluiting plaats heeft.
 
 ##### Artikel 8.19. Geen beroep op de Kamer
 
-Er kan geen beroep op de Kamer worden gedaan ten aanzien van de beslissingen van de Voorzitter op grond van de [artikelen 8.15 tot en met 8.18](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.15&z=2023-03-14&g=2023-03-14).
+Er kan geen beroep op de Kamer worden gedaan ten aanzien van de beslissingen van de Voorzitter op grond van de [artikelen 8.15 tot en met 8.18](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.15&z=2023-06-08&g=2023-06-08).
 
 #### § 8.2.3. Moties
 
@@ -860,7 +862,7 @@ Stemmingen vinden in het algemeen plaats op vaste tijdstippen.
 
 ##### Artikel 8.25. Stemming bij handopsteken
 
-De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [artikel 8.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.26&z=2023-03-14&g=2023-03-14), een hoofdelijke stemming is vereist.
+De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [artikel 8.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.26&z=2023-06-08&g=2023-06-08), een hoofdelijke stemming is vereist.
 
 ##### Artikel 8.26. Hoofdelijke stemming
 
@@ -930,9 +932,9 @@ De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [a
 
 ##### Artikel 8.33. Staken van stemmen
 
-1. Indien bij een tussenstemming als bedoeld in [artikel 8.32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.3&artikel=8.32&z=2023-03-14&g=2023-03-14), of bij een stemming tussen twee personen de stemmen staken, dan beslist het lot.
+1. Indien bij een tussenstemming als bedoeld in [artikel 8.32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.3&artikel=8.32&z=2023-06-08&g=2023-06-08), of bij een stemming tussen twee personen de stemmen staken, dan beslist het lot.
 
-2. Er worden naambriefjes voor de betrokken personen gemaakt om de beslissing tot stand te brengen. De naambriefjes worden vervolgens door een stemopnemer als bedoeld in [artikel 8.35](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.3&artikel=8.35&z=2023-03-14&g=2023-03-14) behoorlijk toegevouwen in de stembus geworpen, en er door een andere stemopnemer een voor een uitgetrokken en voorgelezen. De persoon die wordt vermeld op het naambriefje dat het eerste uit de stembus is getrokken, is de gekozene.
+2. Er worden naambriefjes voor de betrokken personen gemaakt om de beslissing tot stand te brengen. De naambriefjes worden vervolgens door een stemopnemer als bedoeld in [artikel 8.35](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.3&artikel=8.35&z=2023-06-08&g=2023-06-08) behoorlijk toegevouwen in de stembus geworpen, en er door een andere stemopnemer een voor een uitgetrokken en voorgelezen. De persoon die wordt vermeld op het naambriefje dat het eerste uit de stembus is getrokken, is de gekozene.
 
 ##### Artikel 8.34. Ongeldige stemmen
 
@@ -954,7 +956,7 @@ De stemming over een zaak vindt plaats door handopsteken, tenzij op grond van [a
 
 - b. het getal van de behoorlijk ingevulde stembriefjes niet meer bedraagt dan de helft van het aantal zitting hebbende leden.
 
-2. Na een nietige stemming vindt de stemming opnieuw plaats. Indien de stemming nietig is omdat het getal van de in de stembus gevonden stembriefjes niet meer bedraagt dan de helft van het aantal zitting hebbende leden, dan wordt de vergadering tussentijds geschorst of uitgesteld onder overeenkomstige toepassing van [artikel 8.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.26&z=2023-03-14&g=2023-03-14).
+2. Na een nietige stemming vindt de stemming opnieuw plaats. Indien de stemming nietig is omdat het getal van de in de stembus gevonden stembriefjes niet meer bedraagt dan de helft van het aantal zitting hebbende leden, dan wordt de vergadering tussentijds geschorst of uitgesteld onder overeenkomstige toepassing van [artikel 8.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.26&z=2023-06-08&g=2023-06-08).
 
 ##### Artikel 8.37. Besluit zonder stemming
 
@@ -1012,7 +1014,7 @@ De Voorzitter draagt zorg dat de voordrachten van personen van wie de benoeming 
 
 2. Indien het verslag opmerkingen of vragen bevat, wordt de regering in de gelegenheid gesteld te reageren in een nota naar aanleiding van het verslag.
 
-3. Na ontvangst van een nota naar aanleiding van het verslag kan de commissie besluiten nader verslag uit te brengen. De [artikelen 9.2 tot en met 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.2&z=2023-03-14&g=2023-03-14) zijn van toepassing op een nader verslag.
+3. Na ontvangst van een nota naar aanleiding van het verslag kan de commissie besluiten nader verslag uit te brengen. De [artikelen 9.2 tot en met 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.2&z=2023-06-08&g=2023-06-08) zijn van toepassing op een nader verslag.
 
 #### § 9.1.2. Amendementen
 
@@ -1172,7 +1174,7 @@ Een schriftelijk verslag van de Staten van Aruba, Curaçao of Sint Maarten over 
 
 ##### Artikel 9.23. Behandeling initiatiefwetsvoorstellen
 
-1. Een initiatiefwetsvoorstel wordt pas in handen van een commissie gesteld nadat het advies van de Afdeling advisering, bedoeld in [artikel 9.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.22&z=2023-03-14&g=2023-03-14), met de schriftelijke reactie van de initiatiefnemers is openbaar gemaakt.
+1. Een initiatiefwetsvoorstel wordt pas in handen van een commissie gesteld nadat het advies van de Afdeling advisering, bedoeld in [artikel 9.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.22&z=2023-06-08&g=2023-06-08), met de schriftelijke reactie van de initiatiefnemers is openbaar gemaakt.
 
 2. Het initiatiefwetsvoorstel wordt op dezelfde wijze behandeld als door of vanwege de Koning ingediende wetsvoorstellen, met dien verstande dat:
 
@@ -1228,11 +1230,11 @@ De stemmingen over begrotingswetsvoorstellen en bij die wetsvoorstellen ingedien
 
 3. Het wetsvoorstel kan pas na aanvang van de eerstvolgende zitting in handen van een commissie worden gesteld.
 
-4. [Artikel 9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.25&z=2023-03-14&g=2023-03-14) is niet van toepassing op het wetsvoorstel. Indien geen van de initiatiefnemers en hun fracties of groepen meer deel uitmaken van de Kamer, kan de Kamer besluiten of andere leden initiatiefnemer van het wetsvoorstel worden.
+4. [Artikel 9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.25&z=2023-06-08&g=2023-06-08) is niet van toepassing op het wetsvoorstel. Indien geen van de initiatiefnemers en hun fracties of groepen meer deel uitmaken van de Kamer, kan de Kamer besluiten of andere leden initiatiefnemer van het wetsvoorstel worden.
 
 ##### Artikel 9.31. Wijziging [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154)
 
-De [artikelen 9.29](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.5&artikel=9.29&z=2023-03-14&g=2023-03-14) en [9.30](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.5&artikel=9.30&z=2023-03-14&g=2023-03-14) zijn van overeenkomstige toepassing op rijkswetsvoorstellen tot wijziging van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) die afwijken van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840).
+De [artikelen 9.29](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.5&artikel=9.29&z=2023-06-08&g=2023-06-08) en [9.30](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.5&artikel=9.30&z=2023-06-08&g=2023-06-08) zijn van overeenkomstige toepassing op rijkswetsvoorstellen tot wijziging van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) die afwijken van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840).
 
 ### Hoofdstuk 10. Verdragen, (ontwerp)besluiten en (initiatief)nota’s
 
@@ -1256,7 +1258,7 @@ De begeleidende brief met de aantekening wordt verspreid onder de leden.
 
 2. Indien de Kamer instemt met het voorstel, deelt de Voorzitter dit meteen mee aan de Minister van Buitenlandse Zaken, en vervolgens aan de Voorzitter van de Eerste Kamer.
 
-3. Indien de Kamer niet met het voorstel instemt, maar ten minste dertig leden zich voor het voorstel verklaren, dan vindt [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.4&z=2023-03-14&g=2023-03-14) toepassing.
+3. Indien de Kamer niet met het voorstel instemt, maar ten minste dertig leden zich voor het voorstel verklaren, dan vindt [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.4&z=2023-06-08&g=2023-06-08) toepassing.
 
 ##### Artikel 10.3. Uitspreken wens namens de Kamer
 
@@ -1274,7 +1276,7 @@ De begeleidende brief met de aantekening wordt verspreid onder de leden.
 
 1. Indien het verdrag dat is overgelegd Aruba, Curaçao of Sint Maarten raakt, dan worden de desbetreffende gevolmachtigde ministers:
 
-- a. in de gelegenheid gesteld de mondelinge behandeling van een voorstel als bedoeld in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.2&z=2023-03-14&g=2023-03-14), bij te wonen en daarbij zodanige voorlichting aan de Kamer te verstrekken als zij gewenst oordelen; en
+- a. in de gelegenheid gesteld de mondelinge behandeling van een voorstel als bedoeld in [artikel 10.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.2&z=2023-06-08&g=2023-06-08), bij te wonen en daarbij zodanige voorlichting aan de Kamer te verstrekken als zij gewenst oordelen; en
 
 - b. tevens steeds in kennis gesteld van het te kennen geven van de wens van uitdrukkelijke goedkeuring door of namens de Kamer of door ten minste dertig leden.
 
@@ -1282,7 +1284,7 @@ De begeleidende brief met de aantekening wordt verspreid onder de leden.
 
 ##### Artikel 10.6. Sluiting uitvoeringsverdrag, verlenging of opzegging verdrag
 
-De [artikelen 10.1 tot en met 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2023-03-14&g=2023-03-14) zijn van overeenkomstige toepassing, indien de regering aan de Kamer mededeling doet van het voornemen tot:
+De [artikelen 10.1 tot en met 10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2023-06-08&g=2023-06-08) zijn van overeenkomstige toepassing, indien de regering aan de Kamer mededeling doet van het voornemen tot:
 
 - a. sluiting van een verdrag uitsluitend betreffende de uitvoering van een goedgekeurd verdrag;
 
@@ -1310,11 +1312,11 @@ De begeleidende brief met de aantekening wordt verspreid onder de leden.
 
 Voor zover de wet hierin voorziet, kan de wens aan de betrokken minister te kennen worden gegeven:
 
-- a. door de Kamer, onder overeenkomstige toepassing van [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.2&z=2023-03-14&g=2023-03-14);
+- a. door de Kamer, onder overeenkomstige toepassing van [artikel 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.2&z=2023-06-08&g=2023-06-08);
 
-- b. namens de Kamer, onder overeenkomstige toepassing van [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.3&z=2023-03-14&g=2023-03-14);
+- b. namens de Kamer, onder overeenkomstige toepassing van [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.3&z=2023-06-08&g=2023-06-08);
 
-- c. door een in de wet genoemd aantal leden, onder overeenkomstige toepassing van [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.4&z=2023-03-14&g=2023-03-14).
+- c. door een in de wet genoemd aantal leden, onder overeenkomstige toepassing van [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=10&paragraaf=10.1&artikel=10.4&z=2023-06-08&g=2023-06-08).
 
 #### § 10.3. (Initiatief)nota’s
 
@@ -1332,11 +1334,11 @@ Voor zover de wet hierin voorziet, kan de wens aan de betrokken minister te kenn
 
 1. De commissie houdt in ieder geval een notaoverleg over een in haar handen gestelde initiatiefnota.
 
-2. Indien een commissie besluit voorafgaand een verslag vast te stellen over de initiatiefnota, zijn de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.2&z=2023-03-14&g=2023-03-14) en [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.3&z=2023-03-14&g=2023-03-14) van overeenkomstige toepassing.
+2. Indien een commissie besluit voorafgaand een verslag vast te stellen over de initiatiefnota, zijn de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.2&z=2023-06-08&g=2023-06-08) en [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.3&z=2023-06-08&g=2023-06-08) van overeenkomstige toepassing.
 
-3. Indien een commissie besluit een verslag uit te brengen over een ander stuk waarover zij een notaoverleg wenst te houden, zijn de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.2&z=2023-03-14&g=2023-03-14) en [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.3&z=2023-03-14&g=2023-03-14) eveneens van overeenkomstige toepassing.
+3. Indien een commissie besluit een verslag uit te brengen over een ander stuk waarover zij een notaoverleg wenst te houden, zijn de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.2&z=2023-06-08&g=2023-06-08) en [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.1&sub-paragraaf=9.1.1&artikel=9.3&z=2023-06-08&g=2023-06-08) eveneens van overeenkomstige toepassing.
 
-4. De [artikelen 9.24](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.24&z=2023-03-14&g=2023-03-14) en [9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.25&z=2023-03-14&g=2023-03-14) zijn van overeenkomstige toepassing op initiatiefnota’s.
+4. De [artikelen 9.24](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.24&z=2023-06-08&g=2023-06-08) en [9.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=9&paragraaf=9.3&artikel=9.25&z=2023-06-08&g=2023-06-08) zijn van overeenkomstige toepassing op initiatiefnota’s.
 
 ### Hoofdstuk 11. De kabinetsformatie
 
@@ -1348,7 +1350,7 @@ Voor zover de wet hierin voorziet, kan de wens aan de betrokken minister te kenn
 
 3. Indien de aangewezen informateurs of formateurs hun opdracht teruggeven, formuleert de Kamer in beginsel binnen een week na de dag van teruggave een nieuwe opdracht, en wijst zij voor de uitvoering daarvan een of meer informateurs onderscheidenlijk formateurs aan.
 
-4. De aanwijzing van een informateur of formateur vindt plaats onder toepassing van de [artikelen 8.25 tot en met 8.30](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.25&z=2023-03-14&g=2023-03-14).
+4. De aanwijzing van een informateur of formateur vindt plaats onder toepassing van de [artikelen 8.25 tot en met 8.30](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.3&sub-paragraaf=8.3.2&artikel=8.25&z=2023-06-08&g=2023-06-08).
 
 5. Na een tussentijdse val van het kabinet kan de Kamer beraadslagen over de wenselijkheid of richting van een nieuwe kabinetsformatie. Het eerste tot en met vierde lid is dan van overeenkomstige toepassing.
 
@@ -1370,7 +1372,7 @@ De Kamer kan de informateurs en formateurs tijdens de uitvoering van en na afron
 
 1. Een lid dat schriftelijk vragen wil stellen aan een minister dient deze vragen in bij de Voorzitter. De vragen moeten kort en duidelijk zijn geformuleerd.
 
-2. De Voorzitter zendt de vragen door aan de betrokken minister, tenzij hij van oordeel is dat de vragen woorden als bedoeld in [artikel 8.16, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.16&z=2023-03-14&g=2023-03-14), bevatten.
+2. De Voorzitter zendt de vragen door aan de betrokken minister, tenzij hij van oordeel is dat de vragen woorden als bedoeld in [artikel 8.16, eerste lid, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.2&artikel=8.16&z=2023-06-08&g=2023-06-08), bevatten.
 
 3. De Voorzitter brengt de doorgezonden vragen ter kennis van de leden en maakt deze vragen openbaar.
 
@@ -1414,7 +1416,7 @@ Tijdens het mondelinge vragenuur:
 
 - b. is het indienen van moties niet toegestaan; en
 
-- c. zijn de [artikelen 8.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.10&z=2023-03-14&g=2023-03-14), en [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.12&z=2023-03-14&g=2023-03-14) niet van toepassing.
+- c. zijn de [artikelen 8.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.10&z=2023-06-08&g=2023-06-08), en [8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.12&z=2023-06-08&g=2023-06-08) niet van toepassing.
 
 #### § 12.3. De interpellatie
 
@@ -1426,9 +1428,9 @@ Tijdens het mondelinge vragenuur:
 
 3. De Voorzitter bepaalt wanneer de interpellatie wordt gehouden.
 
-4. De interpellant dient de vragen die hij zal stellen binnen een week schriftelijk in bij de Voorzitter. Deze zendt de vragen door aan de betrokken minister. [Artikel 12.1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2023-03-14&g=2023-03-14), is van overeenkomstige toepassing.
+4. De interpellant dient de vragen die hij zal stellen binnen een week schriftelijk in bij de Voorzitter. Deze zendt de vragen door aan de betrokken minister. [Artikel 12.1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2023-06-08&g=2023-06-08), is van overeenkomstige toepassing.
 
-5. In afwijking van [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.12&z=2023-03-14&g=2023-03-14) voert tijdens de interpellatie slechts de interpellant het woord in ten hoogste twee termijnen en de andere leden het woord in ten hoogste één termijn.
+5. In afwijking van [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.2&sub-paragraaf=8.2.1&artikel=8.12&z=2023-06-08&g=2023-06-08) voert tijdens de interpellatie slechts de interpellant het woord in ten hoogste twee termijnen en de andere leden het woord in ten hoogste één termijn.
 
 6. Indien bij een interpellatie zeer veel spoed is vereist en de minister aanwezig is, kan de Kamer besluiten dat een interpellatie meteen wordt gehouden. Het vierde lid is dan niet van toepassing, en de minister geeft meteen de gevraagde inlichtingen. Als dit niet mogelijk is, stelt de Kamer de verdere behandeling uit tot een later tijdstip.
 
@@ -1476,7 +1478,7 @@ Bij afzonderlijke regeling, vast te stellen door de Kamer, worden nadere regels 
 
 ##### Artikel 13.1. Lidmaatschap Europees Parlement
 
-De [artikelen 2.1, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=2&artikel=2.1&z=2023-03-14&g=2023-03-14), en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=2&artikel=2.2&z=2023-03-14&g=2023-03-14) zijn van overeenkomstige toepassing op de op grond van de wet door de Kamer te nemen beslissingen over de toelating tot het lidmaatschap van in Nederland gekozen leden van het Europees Parlement, en het verlies van dat lidmaatschap.
+De [artikelen 2.1, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=2&artikel=2.1&z=2023-06-08&g=2023-06-08), en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=2&artikel=2.2&z=2023-06-08&g=2023-06-08) zijn van overeenkomstige toepassing op de op grond van de wet door de Kamer te nemen beslissingen over de toelating tot het lidmaatschap van in Nederland gekozen leden van het Europees Parlement, en het verlies van dat lidmaatschap.
 
 ##### Artikel 13.2. Deelname aan beraadslaging door leden Europees Parlement
 
@@ -1514,13 +1516,13 @@ Indien het Interparlementair Koninkrijksoverleg van delegaties van de beide Kame
 
 ##### Artikel 14.1. Verzoekschriften
 
-In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.1&artikel=7.7&z=2023-03-14&g=2023-03-14), worden voorwaarden gesteld waaraan een verzoekschrift dient te voldoen om in behandeling te kunnen worden genomen.
+In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.1&artikel=7.7&z=2023-06-08&g=2023-06-08), worden voorwaarden gesteld waaraan een verzoekschrift dient te voldoen om in behandeling te kunnen worden genomen.
 
 ##### Artikel 14.2. Burgerinitiatieven
 
 1. Een burgerinitiatief is een voorstel aan de Kamer om een onderwerp te behandelen, en dient te zijn gericht op de vervaardiging, wijziging of intrekking van een wettelijke regeling, of op het te voeren regeringsbeleid.
 
-2. In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.1&artikel=7.7&z=2023-03-14&g=2023-03-14), worden nadere voorwaarden gesteld waaraan een door de Kamer ontvangen schriftelijk stuk dient te voldoen om in behandeling te kunnen worden genomen als burgerinitiatief.
+2. In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.1&artikel=7.7&z=2023-06-08&g=2023-06-08), worden nadere voorwaarden gesteld waaraan een door de Kamer ontvangen schriftelijk stuk dient te voldoen om in behandeling te kunnen worden genomen als burgerinitiatief.
 
 3. De initiatiefnemers van een burgerinitiatief kan worden verzocht een toelichting op hun burgerinitiatief te geven.
 
@@ -1546,7 +1548,7 @@ In de regeling, bedoeld in [artikel 7.7, achtste lid](https://wetten.overheid.nl
 
 ##### Artikel 15.1. Openbaarheid vergaderingen
 
-1. De vergaderingen van de Kamer en de commissies zijn openbaar, met uitzondering van de in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en [artikel 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.3&artikel=7.19&z=2023-03-14&g=2023-03-14) bedoelde gevallen.
+1. De vergaderingen van de Kamer en de commissies zijn openbaar, met uitzondering van de in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) en [artikel 7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.3&artikel=7.19&z=2023-06-08&g=2023-06-08) bedoelde gevallen.
 
 2. De agenda van de openbare vergaderingen wordt voorafgaand openbaar gemaakt.
 
@@ -1588,15 +1590,15 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 - a. elke openbare vergadering van de Kamer;
 
-- b. elke bijeenkomst als bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.1&sub-paragraaf=8.1.1&artikel=8.3&z=2023-03-14&g=2023-03-14), van de Kamer;
+- b. elke bijeenkomst als bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.1&sub-paragraaf=8.1.1&artikel=8.3&z=2023-06-08&g=2023-06-08), van de Kamer;
 
-- c. elk openbaar commissiedebat, wetgevingsoverleg en notaoverleg als bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.7&sub-paragraaf=7.7.2&artikel=7.26&z=2023-03-14&g=2023-03-14).
+- c. elk openbaar commissiedebat, wetgevingsoverleg en notaoverleg als bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=7&paragraaf=7.7&sub-paragraaf=7.7.2&artikel=7.26&z=2023-06-08&g=2023-06-08).
 
 2. De Kamer of een commissie kan besluiten dat van andere van haar vergaderingen een geredigeerd woordelijk verslag wordt gemaakt.
 
 ##### Artikel 15.7. Officieel verslag
 
-1. Er wordt tevens een officieel verslag gemaakt van de vergaderingen van de Kamer, en van bijeenkomsten als bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.1&sub-paragraaf=8.1.1&artikel=8.3&z=2023-03-14&g=2023-03-14).
+1. Er wordt tevens een officieel verslag gemaakt van de vergaderingen van de Kamer, en van bijeenkomsten als bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.1&sub-paragraaf=8.1.1&artikel=8.3&z=2023-06-08&g=2023-06-08).
 
 2. Het officieel verslag van een vergadering van de Kamer bevat in ieder geval:
 
@@ -1608,7 +1610,7 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 - d. alle door de Kamer of de Voorzitter genomen besluiten.
 
-3. Het officieel verslag van een bijeenkomst als bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.1&sub-paragraaf=8.1.1&artikel=8.3&z=2023-03-14&g=2023-03-14), bevat in ieder geval:
+3. Het officieel verslag van een bijeenkomst als bedoeld in [artikel 8.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=8&paragraaf=8.1&sub-paragraaf=8.1.1&artikel=8.3&z=2023-06-08&g=2023-06-08), bevat in ieder geval:
 
 - a. de namen van de aanwezige en afwezige leden; en
 
@@ -1620,11 +1622,11 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 1. Indien de Kamer besluit dat van een vergadering met gesloten deuren van de Kamer een woordelijk verslag wordt gemaakt, hebben de medewerkers van de Dienst Verslag en Redactie die dit verslag maken, toegang tot de vergadering. Het woordelijk verslag wordt niet openbaar gemaakt en wordt achter slot bewaard, tenzij de Kamer hierover dadelijk of op een later tijdstip anders besluit.
 
-2. Indien de Kamer niet besluit tot het laten maken van een woordelijk verslag van een vergadering met gesloten deuren van de Kamer, maakt de Griffier of een door hem aan te wijzen ambtenaar notulen. Deze bevatten de informatie, bedoeld in [artikel 15.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.7&z=2023-03-14&g=2023-03-14), en een beknopt verslag van de beraadslagingen. De notulen worden meteen of in een volgende vergadering met gesloten deuren aan de goedkeuring van de Kamer onderworpen. Zij worden niet openbaar gemaakt en achter slot bewaard, tenzij de Kamer hierover dadelijk of op een later tijdstip anders besluit.
+2. Indien de Kamer niet besluit tot het laten maken van een woordelijk verslag van een vergadering met gesloten deuren van de Kamer, maakt de Griffier of een door hem aan te wijzen ambtenaar notulen. Deze bevatten de informatie, bedoeld in [artikel 15.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.7&z=2023-06-08&g=2023-06-08), en een beknopt verslag van de beraadslagingen. De notulen worden meteen of in een volgende vergadering met gesloten deuren aan de goedkeuring van de Kamer onderworpen. Zij worden niet openbaar gemaakt en achter slot bewaard, tenzij de Kamer hierover dadelijk of op een later tijdstip anders besluit.
 
 ##### Artikel 15.9. Verslaglegging besloten commissievergadering
 
-1. [Artikel 15.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.8&z=2023-03-14&g=2023-03-14) is van overeenkomstige toepassing op besloten commissievergaderingen en besloten gedeelten van een commissievergadering, waarvan een commissie een woordelijk verslag of notulen wenst te maken.
+1. [Artikel 15.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.8&z=2023-06-08&g=2023-06-08) is van overeenkomstige toepassing op besloten commissievergaderingen en besloten gedeelten van een commissievergadering, waarvan een commissie een woordelijk verslag of notulen wenst te maken.
 
 2. De commissie beslist over de openbaarmaking van het woordelijk verslag of de notulen. Indien de betrokken commissie niet langer bestaat of onduidelijk is welke commissie over de openbaarmaking kan beslissen, beslist de Kamer.
 
@@ -1632,13 +1634,13 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 1. De woordelijke verslagen worden in ongecorrigeerde vorm openbaar gemaakt.
 
-2. De woordelijke verslagen, bedoeld in [artikel 15.6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.6&z=2023-03-14&g=2023-03-14), worden na vaststelling openbaar gemaakt als de Handelingen van de Tweede Kamer der Staten-Generaal.
+2. De woordelijke verslagen, bedoeld in [artikel 15.6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.6&z=2023-06-08&g=2023-06-08), worden na vaststelling openbaar gemaakt als de Handelingen van de Tweede Kamer der Staten-Generaal.
 
-3. De woordelijke verslagen, bedoeld in [artikel 15.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.6&z=2023-03-14&g=2023-03-14), worden na vaststelling opgenomen in het verslag van de commissie van het overleg of debat waarop zij betrekking hebben, en openbaar gemaakt.
+3. De woordelijke verslagen, bedoeld in [artikel 15.6, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.3&artikel=15.6&z=2023-06-08&g=2023-06-08), worden na vaststelling opgenomen in het verslag van de commissie van het overleg of debat waarop zij betrekking hebben, en openbaar gemaakt.
 
 4. Indien ministers of personen die hen in een vergadering van de Kamer bijstaan een deel van de aan hen tijdens een vergadering gestelde vragen schriftelijk beantwoorden, worden deze antwoorden opgenomen bij de Handelingen als bijvoegsel bij de vergadering waarin de overige vragen mondeling werden beantwoord.
 
-5. De schriftelijke vragen, bedoeld in [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2023-03-14&g=2023-03-14), worden met de daarop gegeven antwoorden opgenomen in het aanhangsel van de Handelingen.
+5. De schriftelijke vragen, bedoeld in [artikel 12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=12&paragraaf=12.1&artikel=12.1&z=2023-06-08&g=2023-06-08), worden met de daarop gegeven antwoorden opgenomen in het aanhangsel van de Handelingen.
 
 ##### Artikel 15.11. Dienst Verslag en Redactie
 
@@ -1666,7 +1668,7 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 ##### Artikel 15.14. Schending geheimhouding
 
-1. De Kamer kan, op voorstel van het Presidium, besluiten om een lid dat de geheimhouding, bedoeld in de [artikelen 15.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.4&artikel=15.12&z=2023-03-14&g=2023-03-14) en [15.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.4&artikel=15.13&z=2023-03-14&g=2023-03-14), niet in acht neemt, uit te sluiten van:
+1. De Kamer kan, op voorstel van het Presidium, besluiten om een lid dat de geheimhouding, bedoeld in de [artikelen 15.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.4&artikel=15.12&z=2023-06-08&g=2023-06-08) en [15.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.4&artikel=15.13&z=2023-06-08&g=2023-06-08), niet in acht neemt, uit te sluiten van:
 
 - a. alle vergaderingen van één of meer commissies, voor ten hoogste één maand; en
 
@@ -1692,7 +1694,7 @@ Het Presidium kan bij afzonderlijke regeling nadere regels vaststellen over de t
 
 1. Een ieder neemt de vertrouwelijkheid in acht ten aanzien van de inhoud van een vertrouwelijk stuk.
 
-2. Indien een lid de vertrouwelijkheid niet in acht neemt, is [artikel 15.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.4&artikel=15.14&z=2023-03-14&g=2023-03-14) van overeenkomstige toepassing.
+2. Indien een lid de vertrouwelijkheid niet in acht neemt, is [artikel 15.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=15&paragraaf=15.4&artikel=15.14&z=2023-06-08&g=2023-06-08) van overeenkomstige toepassing.
 
 ##### Artikel 15.17. Register vertrouwelijke stukken
 
@@ -1772,7 +1774,7 @@ De Kamer stelt een afzonderlijke gedragscode voor de leden vast, alsmede een afz
 
 ##### Artikel 16.2. Overige regelingen
 
-[Artikel 16.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.1&z=2023-03-14&g=2023-03-14) is van overeenkomstige toepassing op voorstellen tot vaststelling of wijziging van de overige op grond van dit Reglement door de Kamer vast te stellen regelingen.
+[Artikel 16.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.1&z=2023-06-08&g=2023-06-08) is van overeenkomstige toepassing op voorstellen tot vaststelling of wijziging van de overige op grond van dit Reglement door de Kamer vast te stellen regelingen.
 
 ##### Artikel 16.3. Afwijking van het Reglement
 
@@ -1784,13 +1786,13 @@ De Kamer kan besluiten van dit Reglement af te wijken, tenzij:
 
 ##### Artikel 16.4. Overgangsbepaling
 
-1. Het [Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0006023), zoals dit luidde onmiddellijk voorafgaand aan het in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2023-03-14&g=2023-03-14) bedoelde tijdstip, wordt ingetrokken.
+1. Het [Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0006023), zoals dit luidde onmiddellijk voorafgaand aan het in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2023-06-08&g=2023-06-08) bedoelde tijdstip, wordt ingetrokken.
 
-2. De [Regeling tijdelijke beperking of ontzegging toegang](https://wetten.overheid.nl/jci1.3:c:BWBR0040797), zoals deze luidde onmiddellijk voorafgaand aan het in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2023-03-14&g=2023-03-14) bedoelde tijdstip, wordt ingetrokken.
+2. De [Regeling tijdelijke beperking of ontzegging toegang](https://wetten.overheid.nl/jci1.3:c:BWBR0040797), zoals deze luidde onmiddellijk voorafgaand aan het in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2023-06-08&g=2023-06-08) bedoelde tijdstip, wordt ingetrokken.
 
-3. De op grond van het [Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0006023), zoals dit luidde onmiddellijk voorafgaand aan het in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2023-03-14&g=2023-03-14) bedoelde tijdstip, ingestelde organen en geldende besluiten en overige regelingen, berusten met ingang van dat tijdstip op dit Reglement.
+3. De op grond van het [Reglement van Orde van de Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0006023), zoals dit luidde onmiddellijk voorafgaand aan het in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2023-06-08&g=2023-06-08) bedoelde tijdstip, ingestelde organen en geldende besluiten en overige regelingen, berusten met ingang van dat tijdstip op dit Reglement.
 
-4. De onmiddellijk voorafgaand aan het tijdstip, bedoeld in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2023-03-14&g=2023-03-14), aangehouden moties en toegekende debatten, gelden als aangehouden onderscheidenlijk toegekend vanaf dat tijdstip.
+4. De onmiddellijk voorafgaand aan het tijdstip, bedoeld in [artikel 16.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=16&artikel=16.5&z=2023-06-08&g=2023-06-08), aangehouden moties en toegekende debatten, gelden als aangehouden onderscheidenlijk toegekend vanaf dat tijdstip.
 
 ##### Artikel 16.5. Inwerkingtreding
 
@@ -1798,7 +1800,7 @@ Dit Reglement treedt in werking met ingang van een door de Kamer te bepalen tijd
 
 ##### Artikel 7.10a. Bezwaaradviescommissie
 
-Bij afzonderlijke regeling, vast te stellen door de Kamer, wordt een adviescommissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) ingesteld ten behoeve van de beslissingen op bezwaar, bedoeld in de [artikelen 3.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-03-14&g=2023-03-14), en [6.2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-03-14&g=2023-03-14). In de regeling worden nadere regels gegeven over de adviescommissie, waaronder over de organisatie, werkwijze en het lidmaatschap van de adviescommissie.
+Bij afzonderlijke regeling, vast te stellen door de Kamer, wordt een adviescommissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) ingesteld ten behoeve van de beslissingen op bezwaar, bedoeld in de [artikelen 3.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-06-08&g=2023-06-08), en [6.2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-06-08&g=2023-06-08). In de regeling worden nadere regels gegeven over de adviescommissie, waaronder over de organisatie, werkwijze en het lidmaatschap van de adviescommissie.
 
 #### § 7.2. De samenstelling
 
