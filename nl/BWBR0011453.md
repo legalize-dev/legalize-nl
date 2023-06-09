@@ -4,7 +4,7 @@ identifier: "BWBR0011453"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2023-04-07"
+last_updated: "2023-06-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011453"
 soort: "wet"
@@ -51,33 +51,33 @@ Onderdeel A werkt terug tot en met 1 september 1996.
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-**achterstallige schuld**: achterstallige schuld als bedoeld in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.8&z=2023-04-07&g=2023-04-07),
+**achterstallige schuld**: achterstallige schuld als bedoeld in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.8&z=2023-06-09&g=2023-06-09),
 
 **afsluitend examen**:
 
-- a. voor wat betreft [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&z=2023-04-07&g=2023-04-07) het examen, bedoeld in [artikel 7.4.2 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.2), alsmede het daarmee overeenkomende examen van een opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-04-07&g=2023-04-07),
+- a. voor wat betreft [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&z=2023-06-09&g=2023-06-09) het examen, bedoeld in [artikel 7.4.2 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.2), alsmede het daarmee overeenkomende examen van een opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-06-09&g=2023-06-09),
 
-- b. voor wat betreft [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&z=2023-04-07&g=2023-04-07) het examen, bedoeld in [artikel 7.10a WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a), alsmede het daarmee overeenkomende examen van een opleiding buiten Nederland als bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-04-07&g=2023-04-07),
+- b. voor wat betreft [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&z=2023-06-09&g=2023-06-09) het examen, bedoeld in [artikel 7.10a WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a), alsmede het daarmee overeenkomende examen van een opleiding buiten Nederland als bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-06-09&g=2023-06-09),
 
 **associate degree-opleiding**: opleiding als bedoeld in [artikel 7.3a, tweede lid, onderdeel a, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), waaraan accreditatie als bedoeld in [artikel 1.1, onderdeel q, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) is verleend,
 
 **bacheloropleiding**: opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, of tweede lid, onderdeel b, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), die is geaccrediteerd als bedoeld in [artikel 1.1, onderdeel q, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), of die de toets nieuwe opleiding, bedoeld in artikel 1.1, onderdeel r, van die wet, met positief gevolg heeft ondergaan,
 
-**belastbaar minimumloon**: belastbaar minimumloon als bedoeld in [artikel 6.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1a&z=2023-04-07&g=2023-04-07),
+**belastbaar minimumloon**: belastbaar minimumloon als bedoeld in [artikel 6.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1a&z=2023-06-09&g=2023-06-09),
 
-**beroepsonderwijs**: opleiding als bedoeld in [artikel 7.2.7, derde lid, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7) en als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-04-07&g=2023-04-07),
+**beroepsonderwijs**: opleiding als bedoeld in [artikel 7.2.7, derde lid, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.7) en als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-06-09&g=2023-06-09),
 
 **collegegeldkrediet**: lening voor betaling van het collegegeld in het hoger onderwijs,
 
-**debiteur**: degene die zich krachtens [artikel 6.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1a&z=2023-04-07&g=2023-04-07) heeft verplicht tot terugbetaling,
+**debiteur**: degene die zich krachtens [artikel 6.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1a&z=2023-06-09&g=2023-06-09) heeft verplicht tot terugbetaling,
 
-**diplomatermijn beroepsonderwijs**: termijn als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.9&z=2023-04-07&g=2023-04-07),
+**diplomatermijn beroepsonderwijs**: termijn als bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.9&z=2023-06-09&g=2023-06-09),
 
-**diplomatermijn hoger onderwijs**: termijn als bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2023-04-07&g=2023-04-07),
+**diplomatermijn hoger onderwijs**: termijn als bedoeld in [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.5&z=2023-06-09&g=2023-06-09),
 
 **hoger beroepsonderwijs**: hoger beroepsonderwijs in de zin van de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682),
 
-**hoger onderwijs**: wetenschappelijk onderwijs en hoger beroepsonderwijs als bedoeld in [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&z=2023-04-07&g=2023-04-07) en in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-04-07&g=2023-04-07),
+**hoger onderwijs**: wetenschappelijk onderwijs en hoger beroepsonderwijs als bedoeld in [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&z=2023-06-09&g=2023-06-09) en in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-06-09&g=2023-06-09),
 
 **ho-student**: degene die hoger onderwijs volgt, niet zijnde een extraneus,
 
@@ -97,13 +97,13 @@ Onderdeel A werkt terug tot en met 1 september 1996.
 
 - a. entreeopleiding en basisberoepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), en
 
-- b. opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-04-07&g=2023-04-07) waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 1 of 2,
+- b. opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-06-09&g=2023-06-09) waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 1 of 2,
 
 **opleiding niveau 3 of 4**:
 
 - a. vakopleiding, middenkaderopleiding en specialistenopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen c, d en e, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), en
 
-- b. opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-04-07&g=2023-04-07) waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 3 of 4,
+- b. opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-06-09&g=2023-06-09) waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 3 of 4,
 
 **ouder**: natuurlijke ouder of adoptiefouder in de zin van de [artikelen 197 tot en met 232 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=197),
 
@@ -111,19 +111,19 @@ Onderdeel A werkt terug tot en met 1 september 1996.
 
 **partner**: partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3),
 
-**peiljaar**: tweede jaar voorafgaand aan het jaar waarin het studiefinancieringstijdvak aanvangt, dan wel het tweede jaar voorafgaand aan het jaar waarvoor de draagkracht in de zin van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-04-07&g=2023-04-07) wordt vastgesteld,
+**peiljaar**: tweede jaar voorafgaand aan het jaar waarin het studiefinancieringstijdvak aanvangt, dan wel het tweede jaar voorafgaand aan het jaar waarvoor de draagkracht in de zin van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-06-09&g=2023-06-09) wordt vastgesteld,
 
 **prestatiebeurs**: rentedragende lening die onder voorwaarden kan worden omgezet in een gift, waarbij de rente teniet gaat, niet zijnde de rentedragende lening die niet kan worden omgezet in een gift,
 
-**prestatiebeurs beroepsonderwijs**: prestatiebeurs als bedoeld in [artikel 4.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6a&z=2023-04-07&g=2023-04-07),
+**prestatiebeurs beroepsonderwijs**: prestatiebeurs als bedoeld in [artikel 4.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6a&z=2023-06-09&g=2023-06-09),
 
-**prestatiebeurs hoger onderwijs**: prestatiebeurs als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2023-04-07&g=2023-04-07),
+**prestatiebeurs hoger onderwijs**: prestatiebeurs als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.1&z=2023-06-09&g=2023-06-09),
 
-**reisproduct**: reisproduct als bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-04-07&g=2023-04-07),
+**reisproduct**: reisproduct als bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-06-09&g=2023-06-09),
 
-**reisrecht**: recht om te reizen als bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2023-04-07&g=2023-04-07),
+**reisrecht**: recht om te reizen als bedoeld in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2023-06-09&g=2023-06-09),
 
-**reisvoorziening**: voorziening als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2023-04-07&g=2023-04-07) en [paragraaf 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&z=2023-04-07&g=2023-04-07),
+**reisvoorziening**: voorziening als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2023-06-09&g=2023-06-09) en [paragraaf 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&z=2023-06-09&g=2023-06-09),
 
 **RSR**: Regisseur Studenten Reisrecht, de rechtspersoon die in opdracht van de vervoersbedrijven tot taak heeft de digitale administratie van het reisproduct voor studenten te voeren,
 
@@ -143,13 +143,13 @@ Onderdeel A werkt terug tot en met 1 september 1996.
 
 **studiepunt**: eenheid waarin de studielast, bedoeld in [artikel 7.4, eerste lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4), wordt uitgedrukt,
 
-**termijnbetaling**: bedrag als bedoeld in [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-04-07&g=2023-04-07), of als het een debiteur betreft op wie [hoofdstuk 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&z=2023-04-07&g=2023-04-07) van toepassing is: bedrag als bedoeld in [artikel 10a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.6&z=2023-04-07&g=2023-04-07),
+**termijnbetaling**: bedrag als bedoeld in [artikel 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-06-09&g=2023-06-09), of als het een debiteur betreft op wie [hoofdstuk 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&z=2023-06-09&g=2023-06-09) van toepassing is: bedrag als bedoeld in [artikel 10a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.6&z=2023-06-09&g=2023-06-09),
 
-**thuiswonende mbo-student**: mbo-student die niet een uitwonende mbo-student is,
+**thuiswonende student**: student die niet een uitwonende student is,
 
-**toetsingsinkomen**: inkomen als bedoeld in [artikel 8, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), met dien verstande dat, behoudens bij de toepassing van artikel [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.17&z=2023-04-07&g=2023-04-07), voor berekeningsjaar wordt gelezen: peiljaar,
+**toetsingsinkomen**: inkomen als bedoeld in [artikel 8, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=8), met dien verstande dat, behoudens bij de toepassing van artikel [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.17&z=2023-06-09&g=2023-06-09), voor berekeningsjaar wordt gelezen: peiljaar,
 
-**uitwonende mbo-student**: mbo-student die voldoet aan de verplichtingen, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-04-07&g=2023-04-07),
+**uitwonende student**: student die voldoet aan de verplichtingen, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-06-09&g=2023-06-09),
 
 **veronderstelde ouderlijke bijdrage**: bedrag dat verondersteld wordt door de ouders bijgedragen te worden waarmee de aanvullende beurs van de student wordt verminderd,
 
@@ -181,15 +181,15 @@ Aan welke voorwaarden een aanvraag moet voldoen, kan bij ministeriële regeling 
 
 Vervallen
 
-##### Artikel 1.5. Verplichtingen uitwonende mbo-student
+##### Artikel 1.5. Verplichtingen uitwonende student
 
-1. Voor het normbedrag voor een uitwonende mbo-student komt in aanmerking de mbo-student die voldoet aan de volgende verplichtingen:
+1. Voor het normbedrag voor een uitwonende student komt in aanmerking de student die voldoet aan de volgende verplichtingen:
 
-- a. de mbo-student woont op het adres waaronder hij in de basisregistratie personen staat ingeschreven, en
+- a. de student woont op het adres waaronder hij in de basisregistratie personen staat ingeschreven, en
 
-- b. het woonadres van de mbo-student is niet het adres waaronder zijn ouders of een van hen in de basisregistratie personen staat of staan ingeschreven.
+- b. het woonadres van de student is niet het adres waaronder zijn ouders of een van hen in de basisregistratie personen staat of staan ingeschreven.
 
-2. Op een mbo-student die ingevolge [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-04-07&g=2023-04-07) in aanmerking komt voor studiefinanciering voor een opleiding buiten Nederland is het eerste lid, onderdeel a, niet van toepassing.
+2. Op een student die ingevolge de [artikelen 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-06-09&g=2023-06-09) of [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-06-09&g=2023-06-09) in aanmerking komt voor studiefinanciering voor een opleiding buiten Nederland is het eerste lid, onderdeel a, niet van toepassing.
 
 ##### Artikel 1.6. Inspecteur der rijksbelastingen bepaalt inkomen of loon
 
@@ -205,7 +205,7 @@ Vervallen
 
 - c. om de gegevens van die student of debiteur te vergelijken met de gegevens die over hem zijn opgenomen in het register onderwijsdeelnemers, bedoeld in [artikel 4 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=4), voor zover dat noodzakelijk is voor de uitvoering van deze wet, en
 
-- d. in contacten met de toezichthouders, bedoeld in [artikel 9.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.1&artikel=9.1a&z=2023-04-07&g=2023-04-07).
+- d. in contacten met de toezichthouders, bedoeld in [artikel 9.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.1&artikel=9.1a&z=2023-06-09&g=2023-06-09).
 
 2. Het burgerservicenummer of onderwijsnummer van de partner of ouder van een student of debiteur kan ter zake van de uitvoering van deze wet slechts worden gebruikt in contacten met die partner of ouder of met de desbetreffende student of debiteur, alsmede, voor zover het betreft de controle op de rechtmatigheid, in contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het opnemen van het burgerservicenummer of onderwijsnummer in een persoonsregistratie.
 
@@ -217,11 +217,11 @@ Vervallen
 
 Deze wet regelt de studiefinanciering en is van toepassing op studenten die voldoen aan de voorwaarden inzake:
 
-- a. nationaliteit als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-04-07&g=2023-04-07),
+- a. nationaliteit als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-06-09&g=2023-06-09),
 
-- b. leeftijd als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2023-04-07&g=2023-04-07) of [2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3a&z=2023-04-07&g=2023-04-07), en
+- b. leeftijd als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2023-06-09&g=2023-06-09) of [2.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3a&z=2023-06-09&g=2023-06-09), en
 
-- c. onderwijssoort als bedoeld in de [paragrafen 2.2 tot en met 2.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&z=2023-04-07&g=2023-04-07)
+- c. onderwijssoort als bedoeld in de [paragrafen 2.2 tot en met 2.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&z=2023-06-09&g=2023-06-09)
 
 ##### Artikel 2.2. Nationaliteit
 
@@ -267,9 +267,9 @@ Voor studiefinanciering kan een mbo-student in aanmerking komen die is ingeschre
 
 1. Een mbo-student heeft geen aanspraak op studiefinanciering indien hij is ingeschreven aan een opleiding waarvan de duur, daaronder begrepen ten hoogste 12 vakantieweken, korter is dan 1 jaar.
 
-2. De aanspraak op studiefinanciering van een mbo-student als bedoeld in [artikel 4.1, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.1&z=2023-04-07&g=2023-04-07), die gedurende een aaneengesloten periode van 8 weken geen lessen of beroepspraktijkvorming heeft gevolgd, vervalt met ingang van de eerste dag van de maand volgend op die waarin de instelling de afwezigheid, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-04-07&g=2023-04-07), aan Onze Minister heeft medegedeeld. De periode van 8 weken wordt verlengd met de weken waarin vanwege vakantie geen onderwijs werd verzorgd.
+2. De aanspraak op studiefinanciering van een mbo-student als bedoeld in [artikel 4.1, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.1&z=2023-06-09&g=2023-06-09), die gedurende een aaneengesloten periode van 8 weken geen lessen of beroepspraktijkvorming heeft gevolgd, vervalt met ingang van de eerste dag van de maand volgend op die waarin de instelling de afwezigheid, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-06-09&g=2023-06-09), aan Onze Minister heeft medegedeeld. De periode van 8 weken wordt verlengd met de weken waarin vanwege vakantie geen onderwijs werd verzorgd.
 
-3. De aanspraak op studiefinanciering vervalt over het tijdvak waarover een mbo-student de gegevens, bedoeld in [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.19&z=2023-04-07&g=2023-04-07), niet verstrekt. Zolang hij deze gegevens over een studiejaar niet verstrekt, heeft hij tevens geen aanspraak op studiefinanciering voor de daarop volgende studiejaren. Indien hij ontbrekende gegevens alsnog levert, herleeft de aanspraak.
+3. De aanspraak op studiefinanciering vervalt over het tijdvak waarover een mbo-student de gegevens, bedoeld in [artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.19&z=2023-06-09&g=2023-06-09), niet verstrekt. Zolang hij deze gegevens over een studiejaar niet verstrekt, heeft hij tevens geen aanspraak op studiefinanciering voor de daarop volgende studiejaren. Indien hij ontbrekende gegevens alsnog levert, herleeft de aanspraak.
 
 ##### Artikel 2.6. Bekendmaking bij niet voldoen aan artikel 2.5, derde lid, en aanspraak op studiefinanciering
 
@@ -281,7 +281,7 @@ Vervallen
 
 2. Indien de mbo-student aansluitend aan het studiejaar dat als laatste studiejaar was aangemerkt, opnieuw dat laatste studiejaar aanvangt, ontstaat aanspraak op studiefinanciering voor het resterende gedeelte van het kalenderjaar.
 
-3. Indien de mbo-student na zijn uitschrijving voor een opleiding binnen 4 maanden opnieuw deze opleiding aanvangt of een andere opleiding in de zin van deze wet gaat volgen, blijft, in afwijking van het eerste lid, op zijn aanvraag de aanspraak op studiefinanciering in de tussen beide opleidingen liggende periode voor ten hoogste 4 maanden bestaan. Hij wordt in die periode aangemerkt als mbo-student aan de eerste opleiding. In afwijking van [artikel 3.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-04-07&g=2023-04-07), kan de aanvraag in het daarop volgende studiejaar worden ingediend indien de uitschrijving binnen vier maanden voor het einde van het desbetreffende studiejaar heeft plaatsgevonden.
+3. Indien de mbo-student na zijn uitschrijving voor een opleiding binnen 4 maanden opnieuw deze opleiding aanvangt of een andere opleiding in de zin van deze wet gaat volgen, blijft, in afwijking van het eerste lid, op zijn aanvraag de aanspraak op studiefinanciering in de tussen beide opleidingen liggende periode voor ten hoogste 4 maanden bestaan. Hij wordt in die periode aangemerkt als mbo-student aan de eerste opleiding. In afwijking van [artikel 3.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-06-09&g=2023-06-09), kan de aanvraag in het daarop volgende studiejaar worden ingediend indien de uitschrijving binnen vier maanden voor het einde van het desbetreffende studiejaar heeft plaatsgevonden.
 
 #### Paragraaf 2.3. Hoger onderwijs
 
@@ -307,7 +307,7 @@ Voor studiefinanciering kan een ho-student in aanmerking komen die is ingeschrev
 
 Een ho-student kan in aanmerking komen voor levenlanglerenkrediet, indien hij is ingeschreven voor het volgen van:
 
-- a. een opleiding als bedoeld in de [artikelen 2.8 tot en met 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-04-07&g=2023-04-07);
+- a. een opleiding als bedoeld in de [artikelen 2.8 tot en met 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-06-09&g=2023-06-09);
 
 - b. een postinitiële masteropleiding als bedoeld in [artikel 7.3b WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b);
 
@@ -333,11 +333,11 @@ Een ho-student kan in aanmerking komen voor levenlanglerenkrediet, indien hij is
 
 - d. indien hij in het betreffende studiefinancieringstijdvak aanspraak maakt op een tegemoetkoming in de kosten voor de toegang tot het onderwijs of voor levensonderhoud, die door de voor de verstrekking van deze tegemoetkomingen verantwoordelijke autoriteit van een ander land wordt verstrekt.
 
-2. De aanspraak van een ho-student die een opleiding volgt als bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-04-07&g=2023-04-07) vervalt over het tijdvak waarover hij de inlichtingen, bedoeld in [artikel 9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.2&artikel=9.2&z=2023-04-07&g=2023-04-07), niet verstrekt. Zolang hij die inlichtingen over een studiejaar niet verstrekt, heeft hij tevens geen aanspraak op studiefinanciering voor de daarop volgende studiejaren. Indien hij die inlichtingen alsnog verstrekt, herleeft de aanspraak.
+2. De aanspraak van een ho-student die een opleiding volgt als bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-06-09&g=2023-06-09) vervalt over het tijdvak waarover hij de inlichtingen, bedoeld in [artikel 9.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.2&artikel=9.2&z=2023-06-09&g=2023-06-09), niet verstrekt. Zolang hij die inlichtingen over een studiejaar niet verstrekt, heeft hij tevens geen aanspraak op studiefinanciering voor de daarop volgende studiejaren. Indien hij die inlichtingen alsnog verstrekt, herleeft de aanspraak.
 
-3. In afwijking van het eerste lid, onderdeel b, wordt, indien [artikel 5.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.7&artikel=5.16&z=2023-04-07&g=2023-04-07), toepassing vindt, de termijn van 10 jaren, genoemd in het eerste lid, onderdeel b, verlengd met de duur van de in dat artikel bedoelde bijzondere omstandigheden.
+3. In afwijking van het eerste lid, onderdeel b, wordt, indien [artikel 5.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.7&artikel=5.16&z=2023-06-09&g=2023-06-09), toepassing vindt, de termijn van 10 jaren, genoemd in het eerste lid, onderdeel b, verlengd met de duur van de in dat artikel bedoelde bijzondere omstandigheden.
 
-4. In afwijking van het eerste lid, onderdeel b, wordt, indien [artikel 5.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.7&artikel=5.16&z=2023-04-07&g=2023-04-07), toepassing vindt, de termijn van 10 jaren, genoemd in het eerste lid, onderdeel b, verlengd met 5 jaren.
+4. In afwijking van het eerste lid, onderdeel b, wordt, indien [artikel 5.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.7&artikel=5.16&z=2023-06-09&g=2023-06-09), toepassing vindt, de termijn van 10 jaren, genoemd in het eerste lid, onderdeel b, verlengd met 5 jaren.
 
 5. Het eerste lid, onderdelen a en b, en het tweede tot en met vierde lid zijn niet van toepassing op het levenlanglerenkrediet.
 
@@ -345,7 +345,7 @@ Een ho-student kan in aanmerking komen voor levenlanglerenkrediet, indien hij is
 
 ##### Artikel 2.14. Buitenlandse opleidingen hoger onderwijs
 
-1. Dit artikel is niet van toepassing op het levenlanglerenkrediet en op ho-studenten die op grond van [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-04-07&g=2023-04-07), slechts een tegemoetkoming in de kosten van de toegang tot het onderwijs ontvangen.
+1. Dit artikel is niet van toepassing op het levenlanglerenkrediet en op ho-studenten die op grond van [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-06-09&g=2023-06-09), slechts een tegemoetkoming in de kosten van de toegang tot het onderwijs ontvangen.
 
 2. Een ho-student die is ingeschreven voor het volgen van onderwijs aan een opleiding in het hoger onderwijs buiten Nederland, bedoeld in het derde lid, komt in aanmerking voor studiefinanciering indien hij:
 
@@ -399,7 +399,7 @@ De student die lesgeld is verschuldigd op grond van [artikel 5, tweede lid, van 
 
 - c. een lening.
 
-2. Studiefinanciering bestaat voor een opleiding in het hoger onderwijs uit een basislening, een aanvullende beurs of aanvullende lening en collegegeldkrediet, en kan geheel of gedeeltelijk worden toegekend in de vorm van:
+2. Studiefinanciering bestaat voor een opleiding in het hoger onderwijs uit een basisbeurs, een basislening, een aanvullende beurs of aanvullende lening en collegegeldkrediet, en kan geheel of gedeeltelijk worden toegekend in de vorm van:
 
 - a. een gift;
 
@@ -423,15 +423,15 @@ De student die lesgeld is verschuldigd op grond van [artikel 5, tweede lid, van 
 
 - c. een reisvoorziening.
 
-2. Dit budget kan worden verhoogd met een toeslag voor een eenoudergezin ingevolge [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-04-07&g=2023-04-07).
+2. Dit budget kan worden verhoogd met een toeslag voor een eenoudergezin ingevolge [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-06-09&g=2023-06-09).
 
-3. De tegemoetkoming in de kosten van het lesgeld wordt voor een mbo-student vastgesteld op een twaalfde deel van het op grond van [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5) geldende bedrag van het lesgeld. Het bedrag van de maximale aanvullende beurs, bedoeld in de [artikelen 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.13&z=2023-04-07&g=2023-04-07), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16&z=2023-04-07&g=2023-04-07) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07), wordt voor een mbo-student verhoogd met het bedrag van de tegemoetkoming.
+3. De tegemoetkoming in de kosten van het lesgeld wordt voor een mbo-student vastgesteld op een twaalfde deel van het op grond van [artikel 5, tweede lid, van de Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188&artikel=5) geldende bedrag van het lesgeld. Het bedrag van de maximale aanvullende beurs, bedoeld in de [artikelen 3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.13&z=2023-06-09&g=2023-06-09), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16&z=2023-06-09&g=2023-06-09) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09), wordt voor een mbo-student verhoogd met het bedrag van de tegemoetkoming.
 
 4. De tegemoetkoming, bedoeld in het derde lid, wordt niet toegekend voor het studiejaar waarin de mbo-student de leeftijd van 18 jaren bereikt.
 
 5. In afwijking van het eerste lid bestaat het budget voor een mbo-student die in aanmerking komt voor levenlanglerenkrediet alleen uit dat krediet.
 
-6. De bedragen zijn opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07).
+6. De bedragen zijn opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09).
 
 ##### Artikel 3.3. Samenstelling maandbudget ho-student
 
@@ -443,11 +443,11 @@ De student die lesgeld is verschuldigd op grond van [artikel 5, tweede lid, van 
 
 - c. een reisvoorziening.
 
-2. Dit budget kan worden verhoogd met een toeslag voor een eenoudergezin ingevolge [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-04-07&g=2023-04-07).
+2. Dit budget kan worden verhoogd met een toeslag voor een eenoudergezin ingevolge [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-06-09&g=2023-06-09).
 
 3. In afwijking van het eerste lid bestaat het budget voor een ho-student die in aanmerking komt voor levenlanglerenkrediet alleen uit dat krediet.
 
-4. De bedragen zijn opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07).
+4. De bedragen zijn opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09).
 
 ##### Artikel 3.4. Toeslag partner
 
@@ -457,41 +457,41 @@ Vervallen
 
 1. Aan een student zonder partner die een of meer kinderen heeft van jonger dan 18 jaren die niet tot het huishouden van een ander behoren, voor wie deze op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) aanspraak op kinderbijslag heeft, wordt een toeslag voor een eenoudergezin toegekend.
 
-2. Het bedrag is opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07).
+2. Het bedrag is opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09).
 
 #### Paragraaf 3.2. Bijdrage overheid
 
-##### Artikel 3.6. Basisbeurs beroepsonderwijs
+##### Artikel 3.6. Basisbeurs
 
-1. De hoogte van de basisbeurs is verschillend voor uit- en thuiswonende mbo-studenten. De bedragen zijn opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07).
+1. De hoogte van de basisbeurs is verschillend voor uit- en thuiswonende studenten. De bedragen zijn opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09).
 
 2. Voor een opleiding niveau 1 of 2 maakt een reisvoorziening deel uit van de basisbeurs.
 
-3. Voor een opleiding niveau 1 of 2 kan de toeslag, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-04-07&g=2023-04-07), onderdeel uitmaken van de basisbeurs.
+3. Voor een opleiding niveau 1 of 2 kan de toeslag, bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-06-09&g=2023-06-09), onderdeel uitmaken van de basisbeurs.
 
 ##### Artikel 3.7. Reisvoorziening
 
 1. De reisvoorziening bestaat uit een reisrecht waarmee gedurende een bepaald deel van de week de student geen bedrag of een lager bedrag verschuldigd is aan de vervoersbedrijven, en kan voor groepen studenten bestaan uit een vergoeding in geld.
 
-2. De vorm, wijze van toekenning en de voorwaarden van de reisvoorziening zijn bepaald in en krachtens [paragraaf 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&z=2023-04-07&g=2023-04-07).
+2. De vorm, wijze van toekenning en de voorwaarden van de reisvoorziening zijn bepaald in en krachtens [paragraaf 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&z=2023-06-09&g=2023-06-09).
 
 #### Paragraaf 3.2. Bijdrage overheid
 
 ##### Artikel 3.8. Hoogte aanvullende beurs
 
-De hoogte van de aanvullende beurs is het maximumbedrag van de aanvullende beurs, genoemd in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07), minus de veronderstelde ouderlijke bijdrage die wordt berekend ingevolge de [artikelen 3.9 tot en met 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07).
+De hoogte van de aanvullende beurs is het maximumbedrag van de aanvullende beurs, genoemd in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09), minus de veronderstelde ouderlijke bijdrage die wordt berekend ingevolge de [artikelen 3.9 tot en met 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09).
 
 ##### Artikel 3.9. Berekeningsgrondslag veronderstelde ouderlijke bijdrage beroepsonderwijs
 
 1. Maatstaf voor de bepaling van de veronderstelde ouderlijke bijdrage is het toetsingsinkomen van de afzonderlijke ouders van de mbo-student in het peiljaar.
 
-2. Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 1 januari 2014 gelijk aan € 16.736,64 per 1 januari 2023: € 19.652,25. Indien één van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een mbo-student die niet geadopteerd is en die als ingezetene in de basisregistratie personen is ingeschreven, blijkens de basisregistratie personen slechts één ouder heeft of [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.14&z=2023-04-07&g=2023-04-07) toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien het in het peiljaar een ouder zonder partner betreft en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 1 januari 2014 gelijk is aan € 21.204,43 per 1 januari 2023: € 24.898,37.
+2. Op het toetsingsinkomen in het peiljaar wordt in mindering gebracht de vrije voet. Deze voet is naar de maatstaf van 1 januari 2014 gelijk aan € 16.736,64 per 1 januari 2023: € 19.652,25. Indien één van de ouders is overleden, geldt voor de andere ouder een dubbele vrije voet. Indien een mbo-student die niet geadopteerd is en die als ingezetene in de basisregistratie personen is ingeschreven, blijkens de basisregistratie personen slechts één ouder heeft of [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.14&z=2023-06-09&g=2023-06-09) toepassing heeft gevonden, is de vorige volzin van overeenkomstige toepassing. Indien het in het peiljaar een ouder zonder partner betreft en voor hem geen dubbele vrije voet geldt, geldt voor hem in afwijking van de tweede volzin een vrije voet die naar de maatstaf van 1 januari 2014 gelijk is aan € 21.204,43 per 1 januari 2023: € 24.898,37.
 
 3. Het bruto kortingsbedrag op jaarbasis is 26% van het verschil tussen het toetsingsinkomen in het peiljaar en de vrije voet in het toekenningsjaar.
 
 4. Op het bruto kortingsbedrag, bedoeld in het derde lid, worden in mindering gebracht:
 
-- a. de ingevolge [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&z=2023-04-07&g=2023-04-07) vastgestelde termijnbetalingen over een jaar of, indien dit minder is, de berekende draagkracht indien de ouder tevens debiteur is; en
+- a. de ingevolge [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&z=2023-06-09&g=2023-06-09) vastgestelde termijnbetalingen over een jaar of, indien dit minder is, de berekende draagkracht indien de ouder tevens debiteur is; en
 
 - b. € 363 voor ieder kind dat in het studiejaar dat aanvangt in het jaar voorafgaand aan het studiefinancieringstijdvak, onder de werking van [hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&hoofdstuk=4) en schoolkosten of van [artikel 2, derde tot en met vijfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) valt.
 
@@ -499,25 +499,25 @@ De hoogte van de aanvullende beurs is het maximumbedrag van de aanvullende beurs
 
 6. Indien een kind waarvoor de aftrek, bedoeld in het vierde lid, onderdeel b, heeft plaatsgevonden, onder de werking van deze wet gaat vallen, wordt met ingang van het tijdstip waarop dit kind onder de werking van deze wet gaat vallen, de veronderstelde ouderlijke bijdrage, bedoeld in het vijfde lid, opnieuw berekend.
 
-7. Het zesde lid is niet van toepassing op een mbo-student die uitsluitend een reisvoorziening bedoeld in [artikel 4.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6b&z=2023-04-07&g=2023-04-07) toegekend heeft gekregen.
+7. Het zesde lid is niet van toepassing op een mbo-student die uitsluitend een reisvoorziening bedoeld in [artikel 4.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6b&z=2023-06-09&g=2023-06-09) toegekend heeft gekregen.
 
 ##### Artikel 3.10. Peiljaarverlegging bij terugval in inkomen
 
-1. Op aanvraag van de ouders of een van hen of op aanvraag van de student wordt bij toepassing van de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07) en [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-04-07&g=2023-04-07), indien sprake is van een terugval in inkomen over het eerste of het tweede jaar na het peiljaar, uitgegaan van het toetsingsinkomen in dat jaar.
+1. Op aanvraag van de ouders of een van hen of op aanvraag van de student wordt bij toepassing van de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09) en [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-06-09&g=2023-06-09), indien sprake is van een terugval in inkomen over het eerste of het tweede jaar na het peiljaar, uitgegaan van het toetsingsinkomen in dat jaar.
 
 2. Voor de toepassing van het eerste lid wordt onder een terugval in inkomen verstaan: een vermindering van de som van de toetsingsinkomens van de beide ouders tezamen met ten minste 15% ten opzichte van het peiljaar.
 
 ##### Artikel 3.11. Nog niet vastgesteld of nog niet bekend inkomen
 
-Voor de toepassing van de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-04-07&g=2023-04-07) en [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2023-04-07&g=2023-04-07) wordt zolang het toetsingsinkomen over het peiljaar, het eerste of het tweede jaar na het peiljaar nog niet kan worden bepaald, door Onze Minister daarvoor in de plaats gesteld een bedrag dat het desbetreffende toetsingsinkomen zo goed mogelijk benadert.
+Voor de toepassing van de [artikelen 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-06-09&g=2023-06-09) en [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2023-06-09&g=2023-06-09) wordt zolang het toetsingsinkomen over het peiljaar, het eerste of het tweede jaar na het peiljaar nog niet kan worden bepaald, door Onze Minister daarvoor in de plaats gesteld een bedrag dat het desbetreffende toetsingsinkomen zo goed mogelijk benadert.
 
 ##### Artikel 3.12. Ouder zonder partner
 
-Indien een ouder na het peiljaar een ouder zonder partner wordt, wordt op aanvraag van die ouder of de student de hoogte van de vrije voet, bedoeld in [artikel 3.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07), onderscheidenlijk [artikel 3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-04-07&g=2023-04-07), dienovereenkomstig aangepast.
+Indien een ouder na het peiljaar een ouder zonder partner wordt, wordt op aanvraag van die ouder of de student de hoogte van de vrije voet, bedoeld in [artikel 3.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09), onderscheidenlijk [artikel 3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-06-09&g=2023-06-09), dienovereenkomstig aangepast.
 
 ##### Artikel 3.13. Veronderstelde ouderlijke bijdrage
 
-1. De veronderstelde ouderlijke bijdrage is voor een mbo-student de som van de maandbedragen, bedoeld in [artikel 3.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07), en voor een ho-student de som van de maandbedragen die zijn bepaald door toepassing van[artikel 3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-04-07&g=2023-04-07). De veronderstelde ouderlijke bijdrage kan nooit meer bedragen dan de maximale aanvullende beurs voor een student.
+1. De veronderstelde ouderlijke bijdrage is voor een mbo-student de som van de maandbedragen, bedoeld in [artikel 3.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09), en voor een ho-student de som van de maandbedragen die zijn bepaald door toepassing van[artikel 3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-06-09&g=2023-06-09). De veronderstelde ouderlijke bijdrage kan nooit meer bedragen dan de maximale aanvullende beurs voor een student.
 
 2. Indien de veronderstelde ouderlijke bijdrage negatief is, wordt deze vastgesteld op nihil.
 
@@ -527,13 +527,13 @@ Indien een ouder na het peiljaar een ouder zonder partner wordt, wordt op aanvra
 
 - b. de kinderen voor de betreffende maand een aanvullende beurs hebben aangevraagd.
 
-4. Bij de verdeling van de veronderstelde ouderlijke bijdrage, bedoeld in het derde lid, wordt een kind dat tevens onder de reikwijdte van [artikel 3.9, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07), valt, buiten beschouwing gelaten.
+4. Bij de verdeling van de veronderstelde ouderlijke bijdrage, bedoeld in het derde lid, wordt een kind dat tevens onder de reikwijdte van [artikel 3.9, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09), valt, buiten beschouwing gelaten.
 
 ##### Artikel 3.14. Weigerachtige of onvindbare ouders
 
 1. Op aanvraag van een student kan de aan hem toegekende aanvullende lening worden verstrekt in de vorm van een aanvullende beurs, indien er sprake is van een langdurig ernstig verstoorde verhouding tussen ouder en student of van onvindbaarheid van de ouder. Onder een langdurig ernstig verstoorde verhouding wordt in ieder geval niet begrepen een conflict van financiële aard dat verband houdt met de studie.
 
-2. Indien het eerste lid toepassing vindt, is voor de berekening van de veronderstelde ouderlijke bijdrage van de andere ouder aan de student bedoeld in het eerste lid, [artikel 3.9, tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07), van overeenkomstige toepassing. De hoogte van de aanvullende beurs van andere kinderen van beide ouders verandert hierdoor niet.
+2. Indien het eerste lid toepassing vindt, is voor de berekening van de veronderstelde ouderlijke bijdrage van de andere ouder aan de student bedoeld in het eerste lid, [artikel 3.9, tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09), van overeenkomstige toepassing. De hoogte van de aanvullende beurs van andere kinderen van beide ouders verandert hierdoor niet.
 
 3. Bij algemene maatregel van bestuur worden in ieder geval criteria gegeven ter beoordeling van de vraag of sprake is van:
 
@@ -545,7 +545,7 @@ Indien een ouder na het peiljaar een ouder zonder partner wordt, wordt op aanvra
 
 ##### Artikel 3.15. Basislening
 
-Op aanvraag wordt een basislening toegekend. De maximale hoogte van de basislening is opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07), waarbij verschillende bedragen zijn vastgesteld voor mbo-studenten en ho-studenten.
+Op aanvraag wordt een basislening toegekend. De maximale hoogte van de basislening is opgenomen in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09), waarbij verschillende bedragen zijn vastgesteld voor mbo-studenten en ho-studenten.
 
 ##### Artikel 3.16. Aanvullende lening
 
@@ -593,9 +593,9 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 
 - c. toeslag eenoudergezin, en
 
-- d. voor iedere maand waarin de mbo-student op enig moment beschikte over de reisvoorziening, een bedrag gelijk aan een twaalfde deel van de waarde van de reisvoorziening, bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.8&z=2023-04-07&g=2023-04-07), vermenigvuldigd met het aantal maanden waarover met inachtneming van het vijfde lid het toetsingsinkomen is berekend.
+- d. voor iedere maand waarin de mbo-student op enig moment beschikte over de reisvoorziening, een bedrag gelijk aan een twaalfde deel van de waarde van de reisvoorziening, bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.8&z=2023-06-09&g=2023-06-09), vermenigvuldigd met het aantal maanden waarover met inachtneming van het vijfde lid het toetsingsinkomen is berekend.
 
-8. Over de verschuldigde bedragen, bedoeld in het zevende lid, wordt rente berekend op de voet van de [artikelen 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-04-07&g=2023-04-07), en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-04-07&g=2023-04-07), met ingang van de eerste dag van de kalendermaand volgend op de dag waarop Onze Minister een vordering wegens meerinkomen heeft vastgesteld.
+8. Over de verschuldigde bedragen, bedoeld in het zevende lid, wordt rente berekend op de voet van de [artikelen 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-06-09&g=2023-06-09), en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-06-09&g=2023-06-09), met ingang van de eerste dag van de kalendermaand volgend op de dag waarop Onze Minister een vordering wegens meerinkomen heeft vastgesteld.
 
 9. Indien een mbo-student voor 1 juni van een kalenderjaar aan Onze Minister schriftelijk opgave doet van het bedrag aan meerinkomen in het aan dat kalenderjaar voorafgaande kalenderjaar, is het achtste lid op deze mbo-student niet van toepassing, voor zover dat bedrag voor die datum door hem is betaald.
 
@@ -607,32 +607,44 @@ Het verschil tussen het maximale bedrag van de aanvullende beurs en de voor een 
 
 ##### Artikel 3.18. Overzicht normbedragen
 
-De bedragen in onderstaande overzichten luiden per maand naar de maatstaf van 1 januari 2014, en voor overzicht 3 naar de maatstaf van 1 september 2015:
+De bedragen in onderstaande overzichten luiden per maand naar de maatstaf van 1 januari 2023 en voor overzicht 1, onderdeel B, en overzicht 2, onderdeel B, naar de maatstaf van 1 september 2023:
 
 | **A. Beroepsonderwijs** | **A. Beroepsonderwijs** |
 | --- | --- |
-| Normbedrag thuiswonend | € 484,48 per 1 januari 2023: € 556,95 |
-| Normbedrag uitwonend | € 684,25 per 1 januari 2023: € 786,59 |
+| Normbedrag thuiswonend | € 556,95 |
+| Normbedrag uitwonend | € 786,59 |
+
 | **B. Hoger onderwijs** | **B. Hoger onderwijs** |
-| normbedrag | € 833,22 per 1 januari 2023: € 957,87 |
+| --- | --- |
+| Normbedrag thuiswonend | € 793,27 |
+| Normbedrag uitwonend | € 957,87 |
 
 | **A. Beroepsonderwijs** | **A. Beroepsonderwijs** |
 | --- | --- |
 | Basisbeurs (exclusief toeslag eenoudergezin) | Basisbeurs (exclusief toeslag eenoudergezin) |
-| thuiswonend | € 79,04 per 1 januari 2023: € 90,85 |
-| uitwonend | € 257,93 per 1 januari 2023: € 296,51 |
+| thuiswonend | € 90,85 |
+| uitwonend | € 296,51 |
 | Basislening | Basislening |
-| thuis- en uitwonend | € 172,17 per 1 januari 2023: € 197,93 |
-| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage | Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage |
-| thuiswonend | € 233,27 per 1 januari 2023: € 268,17 |
-| uitwonend | € 254,15 per 1 januari 2023: € 292,15 |
-| **B. Hoger onderwijs** | **B. Hoger onderwijs** |
-| Basislening | € 467,89 per 1 januari 2023: € 527,60 |
-| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage | € 365,33 per 1 januari 2023: € 430,27 |
+| thuis- en uitwonend | € 197,93 |
+| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage1 | Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage1 |
+| thuiswonend | € 268,17 |
+| uitwonend | € 292,15 |
 
-|   | Hoger onderwijs | Beroepsonderwijs |
+1 Voor mbo-studenten die lesgeld verschuldigd zijn, wordt de maximale aanvullende beurs/lening ingevolge [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-06-09&g=2023-06-09), van de Wet studiefinanciering 2000 vanaf 1 januari 2023 verhoogd met € 103,25 en per 1 augustus 2023 met € 113,08 per maand.
+
+| **B. Hoger onderwijs** | **B. Hoger onderwijs** |
+| --- | --- |
+| Basisbeurs (exclusief toeslag eenoudergezin) | Basisbeurs (exclusief toeslag eenoudergezin) |
+| thuiswonend | € 110,30 |
+| uitwonend | € 274,90 |
+| Basislening | Basislening |
+| thuis- en uitwonend | € 266,97 |
+| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage | Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage |
+| thuis- en uitwonend | € 416,00 |
+
+|   | **Hoger onderwijs** | **Beroepsonderwijs** |
 | --- | --- | --- |
-| Toeslag eenoudergezin | € 247,12 per 1 januari 2023: € 277,13 | € 247,12 per 1 januari 2023: € 277,13 |
+| Toeslag eenoudergezin | € 277,13 | € 277,13 |
 
 #### Paragraaf 3.6. Toekenning
 
@@ -670,15 +682,15 @@ Vervallen
 
 ##### Artikel 3.23. Gebruik burgerservicenummer
 
-1. In afwijking van [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.7&z=2023-04-07&g=2023-04-07) gebruikt Onze Minister in contacten met RSR het burgerservicenummer van:
+1. In afwijking van [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.7&z=2023-06-09&g=2023-06-09) gebruikt Onze Minister in contacten met RSR het burgerservicenummer van:
 
 - a. een student voor de toekenning en beëindiging van diens reisrecht; en
 
-- b. de persoon die een reisrecht toegekend heeft gekregen en van wie nadat sprake was van één van de situaties genoemd in [artikel 3.27, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07), het reisproduct niet tijdig is stopgezet, voor de uitvoering van artikel 3.27, tweede lid.
+- b. de persoon die een reisrecht toegekend heeft gekregen en van wie nadat sprake was van één van de situaties genoemd in [artikel 3.27, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09), het reisproduct niet tijdig is stopgezet, voor de uitvoering van artikel 3.27, tweede lid.
 
 2. RSR gebruikt het burgerservicenummer van een student slechts:
 
-- a. ter vaststelling van de identiteit van een student wanneer deze zich tot de vervoersbedrijven wendt om zijn gegevens te laten koppelen aan het reisproduct, bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-04-07&g=2023-04-07), en
+- a. ter vaststelling van de identiteit van een student wanneer deze zich tot de vervoersbedrijven wendt om zijn gegevens te laten koppelen aan het reisproduct, bedoeld in [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-06-09&g=2023-06-09), en
 
 - b. in contacten met Onze Minister.
 
@@ -686,11 +698,11 @@ Vervallen
 
 1. Voor studenten aan een opleiding binnen Nederland bestaat de reisvoorziening uit een reisrecht gedurende een bepaald deel van de week waarvoor de student geen bedrag of een lager bedrag verschuldigd is aan de vervoersbedrijven.
 
-2. Voor studenten die aanspraak hebben op studiefinanciering voor het volgen van een opleiding buiten Nederland, bestaat de reisvoorziening uit het bedrag, bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.8&z=2023-04-07&g=2023-04-07), onderscheidenlijk [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2023-04-07&g=2023-04-07). In afwijking van de eerste volzin kan een student als bedoeld in de eerste volzin op aanvraag als reisvoorziening een reisrecht ontvangen.
+2. Voor studenten die aanspraak hebben op studiefinanciering voor het volgen van een opleiding buiten Nederland, bestaat de reisvoorziening uit het bedrag, bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.8&z=2023-06-09&g=2023-06-09), onderscheidenlijk [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2023-06-09&g=2023-06-09). In afwijking van de eerste volzin kan een student als bedoeld in de eerste volzin op aanvraag als reisvoorziening een reisrecht ontvangen.
 
 3. Voor studenten aan een opleiding binnen Nederland die een deel van deze opleiding buiten Nederland volgen is het tweede lid van overeenkomstige toepassing.
 
-4. Voor studenten voor wie geen burgerservicenummer kan worden gebruikt in het contact tussen Onze Minister en RSR, bestaat de reisvoorziening uit het bedrag, bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.8&z=2023-04-07&g=2023-04-07), onderscheidenlijk [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2023-04-07&g=2023-04-07).
+4. Voor studenten voor wie geen burgerservicenummer kan worden gebruikt in het contact tussen Onze Minister en RSR, bestaat de reisvoorziening uit het bedrag, bedoeld in [artikel 4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.8&z=2023-06-09&g=2023-06-09), onderscheidenlijk [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2023-06-09&g=2023-06-09).
 
 5. Bij ministeriële regeling kunnen regels worden gesteld over de wijze van aanvraag en toekenning van de reisvoorziening in geld, bedoeld in het tweede, derde en vierde lid alsmede regels met het oog op een goede uitvoering van dit artikel.
 
@@ -702,7 +714,7 @@ Vervallen
 
 ##### Artikel 3.26. Aanvang reisrecht; omvang van rechten
 
-1. Het reisrecht vangt aan op het moment dat de student overeenkomstig [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-04-07&g=2023-04-07) het reisproduct heeft gekoppeld aan de drager.
+1. Het reisrecht vangt aan op het moment dat de student overeenkomstig [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-06-09&g=2023-06-09) het reisproduct heeft gekoppeld aan de drager.
 
 2. Het reisrecht wordt naar keuze van de student toegekend als weekreisrecht of weekendreisrecht.
 
@@ -714,7 +726,7 @@ Vervallen
 
 - a. de aanspraak op het reisrecht is beëindigd; of
 
-- b. het reisproduct op grond van [artikel 3.24, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-04-07&g=2023-04-07), is vervangen door een reisvoorziening in de vorm van geld.
+- b. het reisproduct op grond van [artikel 3.24, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-06-09&g=2023-06-09), is vervangen door een reisvoorziening in de vorm van geld.
 
 2. Indien gebruik is gemaakt van het reisproduct na het moment, bedoeld in het eerste lid, aanhef, is degene aan wie het reisrecht is toegekend aan Onze Minister per halve kalendermaand een bedrag verschuldigd van, naar de maatstaf van 1 januari 2019:
 
@@ -738,11 +750,11 @@ Vervallen
 
 ##### Artikel 3.28. Stopzetten reisproduct uit eigen beweging
 
-Onverminderd [artikel 3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07), kan de student uit eigen beweging het verzoek aan RSR doen tot stopzetting van het reisproduct.
+Onverminderd [artikel 3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09), kan de student uit eigen beweging het verzoek aan RSR doen tot stopzetting van het reisproduct.
 
 ##### Artikel 3.29. Vergoeding bij geen reisrecht
 
-1. Wanneer een student door toedoen van Onze Minister over een periode ten onrechte geen gebruik kan maken van het reisrecht, heeft hij over die periode jegens Onze Minister aanspraak op een vergoeding ter grootte van het bedrag, bedoeld in [artikel 3.27, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07), mits hij meer dan 8 weken vóór het begin van de desbetreffende kalendermaand, zowel de studiefinanciering heeft aangevraagd als alle benodigde gegevens voor het kunnen toekennen van studiefinanciering heeft verstrekt. Indien het betreft een reisvoorziening als bedoeld in [artikel 3.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-04-07&g=2023-04-07), heeft hij slechts aanspraak op een vergoeding als bedoeld in de vorige volzin, indien hij tevens binnen een bij ministeriële regeling vast te stellen termijn, een aanvraag om deze reisvoorziening heeft ingediend.
+1. Wanneer een student door toedoen van Onze Minister over een periode ten onrechte geen gebruik kan maken van het reisrecht, heeft hij over die periode jegens Onze Minister aanspraak op een vergoeding ter grootte van het bedrag, bedoeld in [artikel 3.27, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09), mits hij meer dan 8 weken vóór het begin van de desbetreffende kalendermaand, zowel de studiefinanciering heeft aangevraagd als alle benodigde gegevens voor het kunnen toekennen van studiefinanciering heeft verstrekt. Indien het betreft een reisvoorziening als bedoeld in [artikel 3.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-06-09&g=2023-06-09), heeft hij slechts aanspraak op een vergoeding als bedoeld in de vorige volzin, indien hij tevens binnen een bij ministeriële regeling vast te stellen termijn, een aanvraag om deze reisvoorziening heeft ingediend.
 
 2. De student vraagt de vergoeding aan binnen 2 weken na de dag waarop hij op de aanvraag voor het eerst studiefinanciering heeft toegekend gekregen of, indien dit later is, binnen 2 weken na de dag waarop voor het eerst zijn recht op studiefinanciering inging.
 
@@ -750,7 +762,7 @@ Onverminderd [artikel 3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - a. wegens het geen of slechts gedeeltelijk gebruik maken van het reisrecht, of
 
-- b. in geval van inname, verlies, diefstal, beschadiging of een defect van de drager, bedoeld in [artikel 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-04-07&g=2023-04-07).
+- b. in geval van inname, verlies, diefstal, beschadiging of een defect van de drager, bedoeld in [artikel 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-06-09&g=2023-06-09).
 
 ##### Artikel 3.30. Reizen van en naar Waddeneilanden
 
@@ -780,11 +792,11 @@ Studiefinanciering wordt verstrekt in de vorm van een gift of een lening.
 
 ##### Artikel 4.4. Weer aanwezig binnen 8 weken
 
-[Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-04-07&g=2023-04-07) is niet van toepassing met ingang van de eerste dag van de maand volgend op de maand waarin de mbo-student weer aan het onderwijs is gaan deelnemen, voor zover die studiefinanciering niet reeds mede op grond van een andere bepaling dan dit artikel, de vorm van een lening had. Voorwaarde voor de toepassing van de vorige volzin is dat de mbo-student aan het onderwijs is gaan deelnemen binnen 8 weken na de aanvang van de periode van 5 weken. De periodes van 5 en 8 weken worden verlengd met de weken waarin vanwege vakantie geen onderwijs werd verzorgd.
+[Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-06-09&g=2023-06-09) is niet van toepassing met ingang van de eerste dag van de maand volgend op de maand waarin de mbo-student weer aan het onderwijs is gaan deelnemen, voor zover die studiefinanciering niet reeds mede op grond van een andere bepaling dan dit artikel, de vorm van een lening had. Voorwaarde voor de toepassing van de vorige volzin is dat de mbo-student aan het onderwijs is gaan deelnemen binnen 8 weken na de aanvang van de periode van 5 weken. De periodes van 5 en 8 weken worden verlengd met de weken waarin vanwege vakantie geen onderwijs werd verzorgd.
 
 ##### Artikel 4.5. Langdurige afwezigheid in het niet bekostigd beroepsonderwijs
 
-1. Het bestuur van de rechtspersoon waarvan de instelling, bedoeld in [artikel 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2023-04-07&g=2023-04-07), uitgaat of de natuurlijke persoon die deze instelling in stand houdt, stelt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van 4 weken de mbo-student in kennis dat daarvan in de administratie van de instelling een aantekening is gemaakt en verzoekt de mbo-student om opgaaf van de reden van de afwezigheid.
+1. Het bestuur van de rechtspersoon waarvan de instelling, bedoeld in [artikel 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2023-06-09&g=2023-06-09), uitgaat of de natuurlijke persoon die deze instelling in stand houdt, stelt uiterlijk op de derde werkdag na afloop van een periode van afwezigheid van 4 weken de mbo-student in kennis dat daarvan in de administratie van de instelling een aantekening is gemaakt en verzoekt de mbo-student om opgaaf van de reden van de afwezigheid.
 
 2. Uiterlijk op de vijfde werkdag na de periode van 8 weken stelt het bestuur van de rechtspersoon of de natuurlijke persoon vast:
 
@@ -798,7 +810,7 @@ Studiefinanciering wordt verstrekt in de vorm van een gift of een lening.
 
 5. De periodes van 5 en 8 weken worden verlengd met de weken waarin vanwege vakantie geen onderwijs werd verzorgd.
 
-6. Het bestuur van de rechtspersoon of de natuurlijke persoon stuurt gelijktijdig met de mededelingen, bedoeld in het vierde lid, een afschrift van de gegevens die over de betrokkene aan Onze Minister zijn verstrekt, aan deze betrokkene en geeft daarbij tevens aan dat afwezigheid als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-04-07&g=2023-04-07), gevolgen heeft voor de studiefinanciering van betrokkene, alsmede welke beroepsgang voor betrokkene open staat tegen de mededelingen, bedoeld in het vierde lid.
+6. Het bestuur van de rechtspersoon of de natuurlijke persoon stuurt gelijktijdig met de mededelingen, bedoeld in het vierde lid, een afschrift van de gegevens die over de betrokkene aan Onze Minister zijn verstrekt, aan deze betrokkene en geeft daarbij tevens aan dat afwezigheid als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-06-09&g=2023-06-09), gevolgen heeft voor de studiefinanciering van betrokkene, alsmede welke beroepsgang voor betrokkene open staat tegen de mededelingen, bedoeld in het vierde lid.
 
 ### Hoofdstuk 4. Beroepsonderwijs
 
@@ -808,11 +820,13 @@ Studiefinanciering wordt verstrekt in de vorm van een gift of een lening.
 
 Een ho-student komt voor zover wordt voldaan aan de van toepassing zijnde voorwaarden in aanmerking voor studiefinanciering in de vorm van een prestatiebeurs, inhoudende:
 
-- a. een aanvullende beurs;
+- a. een basisbeurs;
 
-- b. een reisvoorziening; en
+- b. een aanvullende beurs;
 
-- c. een toeslag eenoudergezin.
+- c. een reisvoorziening; en
+
+- d. een toeslag eenoudergezin.
 
 ##### Artikel 5.2. Vorm en duur studiefinanciering
 
@@ -826,15 +840,15 @@ Een ho-student komt voor zover wordt voldaan aan de van toepassing zijnde voorwa
 
 3. De basislening, aanvullende lening en het collegegeldkrediet kunnen worden verstrekt gedurende de periode waarin aanspraak kan worden gemaakt op de prestatiebeurs hoger onderwijs.
 
-4. Gedurende 36 maanden na de periode, bedoeld in het eerste lid, kan het collegegeldkrediet worden verstrekt en kan daarnaast studiefinanciering worden verstrekt in de vorm van een lening. Het bedrag van de lening, bedraagt in afwijking van de [artikelen 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2023-04-07&g=2023-04-07), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.13&z=2023-04-07&g=2023-04-07) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07) naar de maatstaf van 1 januari 2014 per maand € 894,51 per 1 januari 2023: € 1.028,33. In de eerste 12 maanden kan tevens een reisvoorziening worden verstrekt in de vorm van een prestatiebeurs.
+4. Gedurende 36 maanden na de periode, bedoeld in het eerste lid, kan het collegegeldkrediet worden verstrekt en kan daarnaast studiefinanciering worden verstrekt in de vorm van een lening. Het bedrag van de lening, bedraagt in afwijking van de [artikelen 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.3&z=2023-06-09&g=2023-06-09), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.13&z=2023-06-09&g=2023-06-09) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09) naar de maatstaf van 1 januari 2014 per maand € 894,51 per 1 januari 2023: € 1.028,33. In de eerste 12 maanden kan tevens een reisvoorziening worden verstrekt in de vorm van een prestatiebeurs.
 
-5. Op aanvraag kan een ho-student als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-04-07&g=2023-04-07) gedurende de 36 maanden, bedoeld in het vierde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid.
+5. Op aanvraag kan een ho-student als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-06-09&g=2023-06-09) gedurende de 36 maanden, bedoeld in het vierde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid.
 
 ##### Artikel 5.3. Waarde van de reisvoorziening
 
 1. Het deel van de prestatiebeurs hoger onderwijs dat betrekking heeft op het recht op de reisvoorziening, is gelijk aan een twaalfde deel van de waarde die daarvoor per student door het vervoerbedrijf aan Onze Minister in rekening wordt gebracht. De waarde wordt berekend door de voorlopige vergoeding voor het lopende kalenderjaar te corrigeren naar de correctie die de voorlopige vergoeding voor het tweede daaraan voorafgaande kalenderjaar onderging. Dit deel van de prestatiebeurs hoger onderwijs wordt niet uitbetaald of verrekend.
 
-2. Indien de prestatiebeurs hoger onderwijs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet is gekoppeld aan een drager als bedoeld in [artikel 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-04-07&g=2023-04-07). In afwijking van [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.2&z=2023-04-07&g=2023-04-07) is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in [artikel 3.24, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-04-07&g=2023-04-07), is toegekend.
+2. Indien de prestatiebeurs hoger onderwijs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet is gekoppeld aan een drager als bedoeld in [artikel 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-06-09&g=2023-06-09). In afwijking van [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.2&z=2023-06-09&g=2023-06-09) is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in [artikel 3.24, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-06-09&g=2023-06-09), is toegekend.
 
 ##### Artikel 5.4. Lening in EER-landen
 
@@ -872,13 +886,13 @@ Vervallen
 
 ##### Artikel 5.9. Berichtenstroom tussen instelling, Minister en ho-student
 
-1. De omzetting, bedoeld in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-04-07&g=2023-04-07), vindt plaats uiterlijk per 1 januari van het kalenderjaar volgend op de verzending van de mededeling, bedoeld in [artikel 7.9d WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.9d), of de mededeling, bedoeld in [artikel 9.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.2&artikel=9.5&z=2023-04-07&g=2023-04-07). Zo spoedig mogelijk na de omzetting stelt Onze Minister de ho-student daarvan in kennis.
+1. De omzetting, bedoeld in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-06-09&g=2023-06-09), vindt plaats uiterlijk per 1 januari van het kalenderjaar volgend op de verzending van de mededeling, bedoeld in [artikel 7.9d WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.9d), of de mededeling, bedoeld in [artikel 9.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.2&artikel=9.5&z=2023-06-09&g=2023-06-09). Zo spoedig mogelijk na de omzetting stelt Onze Minister de ho-student daarvan in kennis.
 
-2. Een ho-student die het examen, bedoeld in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-04-07&g=2023-04-07), met goed gevolg heeft afgelegd aan een instelling waarop [artikel 7.9d WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.9d) niet van toepassing is, zendt uiterlijk 3 maanden na het verstrijken van de diplomatermijn hoger onderwijs, een door de betrokken instelling van hoger onderwijs gewaarmerkte kopie van het aan dat examen verbonden diploma aan Onze Minister en dient daarbij een aanvraag in tot omzetting van de prestatiebeurs hoger onderwijs. Op die kopie vermeldt de instelling de datum waarop het examen met goed gevolg is afgesloten. De omzetting vindt plaats uiterlijk per 1 januari van het kalenderjaar volgend op de aanvraag.
+2. Een ho-student die het examen, bedoeld in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-06-09&g=2023-06-09), met goed gevolg heeft afgelegd aan een instelling waarop [artikel 7.9d WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.9d) niet van toepassing is, zendt uiterlijk 3 maanden na het verstrijken van de diplomatermijn hoger onderwijs, een door de betrokken instelling van hoger onderwijs gewaarmerkte kopie van het aan dat examen verbonden diploma aan Onze Minister en dient daarbij een aanvraag in tot omzetting van de prestatiebeurs hoger onderwijs. Op die kopie vermeldt de instelling de datum waarop het examen met goed gevolg is afgesloten. De omzetting vindt plaats uiterlijk per 1 januari van het kalenderjaar volgend op de aanvraag.
 
-3. Het tweede lid is van overeenkomstige toepassing op de omzetting van de prestatiebeurs hoger onderwijs ingevolge [artikel 5.7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-04-07&g=2023-04-07).
+3. Het tweede lid is van overeenkomstige toepassing op de omzetting van de prestatiebeurs hoger onderwijs ingevolge [artikel 5.7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-06-09&g=2023-06-09).
 
-#### Paragraaf 5.4. Omzettingsprocedure bij stoppen voor 1 februari in eerste studiejaar
+#### Paragraaf 4.1.1. Studiefinanciering in de vorm van gift of lening
 
 ##### Artikel 5.10. Stoppen voor 1 februari
 
@@ -898,7 +912,7 @@ Vervallen
 
 Vervallen
 
-#### Paragraaf 4.2.1. Algemeen
+#### Paragraaf 4.1.2. Prestatiebeurs beroepsonderwijs
 
 ##### Artikel 5.14. Herkansing voor omzetting eerste 12 maanden prestatiebeurs
 
@@ -948,7 +962,7 @@ Bij omzetting van de prestatiebeurs hoger onderwijs of een deel daarvan in een g
 
 ##### Artikel 6.2. Kwijtschelding aanvullende beurs bij onvoldoende inkomen
 
-1. De ingevolge [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&z=2023-04-07&g=2023-04-07) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&z=2023-04-07&g=2023-04-07) toegekende en niet in gift om te zetten aanvullende beurs kan op aanvraag van de debiteur worden kwijtgescholden.
+1. De ingevolge [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&z=2023-06-09&g=2023-06-09) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&z=2023-06-09&g=2023-06-09) toegekende en niet in gift om te zetten aanvullende beurs kan op aanvraag van de debiteur worden kwijtgescholden.
 
 2. Bij algemene maatregel van bestuur wordt bepaald:
 
@@ -960,7 +974,7 @@ Bij omzetting van de prestatiebeurs hoger onderwijs of een deel daarvan in een g
 
 3. De over het kwijt te schelden bedrag opgebouwde rente gaat op het tijdstip van kwijtschelding als bedoeld in het eerste lid, teniet.
 
-4. Bij kwijtschelding als bedoeld in het eerste lid, zijn de [artikelen 6.10, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-04-07&g=2023-04-07), van overeenkomstige toepassing, en is [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-04-07&g=2023-04-07) niet van toepassing.
+4. Bij kwijtschelding als bedoeld in het eerste lid, zijn de [artikelen 6.10, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-06-09&g=2023-06-09), van overeenkomstige toepassing, en is [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-06-09&g=2023-06-09) niet van toepassing.
 
 5. Een krachtens het tweede lid vastgestelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
@@ -976,7 +990,7 @@ Bij omzetting van de prestatiebeurs hoger onderwijs of een deel daarvan in een g
 
 2. De rente over de door de student in een studiefinancieringstijdvak opgenomen lening wordt berekend per dag op basis van samengestelde interest. Indien de terugbetaling niet binnen 2 weken na de vervaldatum is ontvangen, wordt de op voet van deze bepaling berekende rente bijgeschreven bij de hoofdsom.
 
-3. In de periode die aan de terugbetalingsperiode voorafgaat, wordt bij de berekening van de rente, bedoeld in het eerste en tweede lid, voor elk kalenderjaar het rentepercentage gehanteerd dat op grond van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-04-07&g=2023-04-07) uiterlijk in december van het aan dat jaar voorafgaande jaar is vastgesteld. In de terugbetalingsperiode wordt bij de berekening van de rente, bedoeld in het eerste en tweede lid, voor elke periode van 5 kalenderjaren na aanvang van de terugbetalingsperiode, het rentepercentage gehanteerd dat op grond van artikel 6.3 uiterlijk in december van het aan die periode voorafgaande jaar is vastgesteld.
+3. In de periode die aan de terugbetalingsperiode voorafgaat, wordt bij de berekening van de rente, bedoeld in het eerste en tweede lid, voor elk kalenderjaar het rentepercentage gehanteerd dat op grond van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-06-09&g=2023-06-09) uiterlijk in december van het aan dat jaar voorafgaande jaar is vastgesteld. In de terugbetalingsperiode wordt bij de berekening van de rente, bedoeld in het eerste en tweede lid, voor elke periode van 5 kalenderjaren na aanvang van de terugbetalingsperiode, het rentepercentage gehanteerd dat op grond van artikel 6.3 uiterlijk in december van het aan die periode voorafgaande jaar is vastgesteld.
 
 4. Voor de berekening van de rente op de voet van het tweede lid wordt een maand gesteld op 30 dagen en een jaar gesteld op 360 dagen.
 
@@ -990,19 +1004,19 @@ Bij omzetting van de prestatiebeurs hoger onderwijs of een deel daarvan in een g
 
 3. Gedurende de voor de debiteur geldende diplomatermijn wordt de terugbetalingsperiode geschorst:
 
-- a. van rechtswege indien de debiteur opnieuw studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07), geniet;
+- a. van rechtswege indien de debiteur opnieuw studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09), geniet;
 
 - b. op aanvraag zolang de debiteur opnieuw student is en geen studiefinanciering geniet; of
 
-- c. op de wijze bepaald krachtens [artikel 6.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.2&artikel=6.19b&z=2023-04-07&g=2023-04-07) zolang de debiteur opnieuw student is en levenlanglerenkrediet geniet.
+- c. op de wijze bepaald krachtens [artikel 6.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.2&artikel=6.19b&z=2023-06-09&g=2023-06-09) zolang de debiteur opnieuw student is en levenlanglerenkrediet geniet.
 
 4. Voor debiteuren voor wie nooit een diplomatermijn beroepsonderwijs of diplomatermijn hoger onderwijs heeft gegolden geldt, in afwijking van het derde lid, dat de terugbetaling wordt geschorst:
 
-- a. van rechtswege zolang de debiteur opnieuw studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07), geniet;
+- a. van rechtswege zolang de debiteur opnieuw studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09), geniet;
 
 - b. op aanvraag zolang de debiteur opnieuw student is en geen studiefinanciering geniet; of
 
-- c. op de wijze bepaald krachtens [artikel 6.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.2&artikel=6.19b&z=2023-04-07&g=2023-04-07) zolang de debiteur opnieuw student is en levenlanglerenkrediet geniet.
+- c. op de wijze bepaald krachtens [artikel 6.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.2&artikel=6.19b&z=2023-06-09&g=2023-06-09) zolang de debiteur opnieuw student is en levenlanglerenkrediet geniet.
 
 5. De schorsing, bedoeld in het derde of vierde lid, wordt beëindigd indien de debiteur niet binnen 8 weken na de verzending van een daartoe strekkend verzoek van Onze Minister of de debiteur nog student is, daarop heeft geantwoord. De beëindiging werkt terug tot de datum van verzending van het verzoek, of zoveel eerder als de debiteur ophield student te zijn. Een aanvraag om de terugbetaling wederom te schorsen wordt niet toegestaan voor een periode die gelegen is vóór de datum van indiening van de aanvraag. De schorsing wordt tevens beëindigd aan het einde van de diplomatermijn beroepsonderwijs dan wel de diplomatermijn hoger onderwijs.
 
@@ -1014,7 +1028,7 @@ Bij omzetting van de prestatiebeurs hoger onderwijs of een deel daarvan in een g
 
 ##### Artikel 6.7. Aflosfase
 
-1. De aflosfase volgt op de aanloopfase en beslaat behoudens toepassing van [artikel 6.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-04-07&g=2023-04-07):
+1. De aflosfase volgt op de aanloopfase en beslaat behoudens toepassing van [artikel 6.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-06-09&g=2023-06-09):
 
 - a. 15 kalenderjaren voor de terugbetaling van een lening beroepsonderwijs;
 
@@ -1028,13 +1042,13 @@ Deze periode wordt verlengd met het aantal maanden dat gebruik is gemaakt van de
 
 ##### Artikel 6.8. Achterstallige schuld
 
-1. Onder achterstallige schuld wordt verstaan het bedrag van de verplichte terugbetaling uit hoofde van dit hoofdstuk of uit hoofde van [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=7&artikel=7.4&z=2023-04-07&g=2023-04-07) dat 2 weken na de vervaldatum nog niet is ontvangen.
+1. Onder achterstallige schuld wordt verstaan het bedrag van de verplichte terugbetaling uit hoofde van dit hoofdstuk of uit hoofde van [artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=7&artikel=7.4&z=2023-06-09&g=2023-06-09) dat 2 weken na de vervaldatum nog niet is ontvangen.
 
 2. Over de achterstallige schuld is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengesteld interest, waarbij een maand wordt gesteld op 30 dagen en een jaar wordt gesteld op 360 dagen.
 
-3. Indien de debiteur achterstallig is bij de betaling wordt met deze achterstallige schuld bij de duur van de aflosfase, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.7&z=2023-04-07&g=2023-04-07), bij de vaststelling van de termijnbetaling en de gewijzigde termijnbetaling, bedoeld in [artikel 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.15&z=2023-04-07&g=2023-04-07), alsmede bij het tenietgaan van de schuld, bedoeld in [artikel 6.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.16&z=2023-04-07&g=2023-04-07), geen rekening gehouden.
+3. Indien de debiteur achterstallig is bij de betaling wordt met deze achterstallige schuld bij de duur van de aflosfase, bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.7&z=2023-06-09&g=2023-06-09), bij de vaststelling van de termijnbetaling en de gewijzigde termijnbetaling, bedoeld in [artikel 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.15&z=2023-06-09&g=2023-06-09), alsmede bij het tenietgaan van de schuld, bedoeld in [artikel 6.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.16&z=2023-06-09&g=2023-06-09), geen rekening gehouden.
 
-4. [Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-04-07&g=2023-04-07) is niet van toepassing.
+4. [Artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-06-09&g=2023-06-09) is niet van toepassing.
 
 ##### Artikel 6.9. Vaststelling en aflossing termijnbetalingen
 
@@ -1048,7 +1062,7 @@ Deze periode wordt verlengd met het aantal maanden dat gebruik is gemaakt van de
 
 - c. ieder vijfde jaar na het vierde jaar van de aflosfase.
 
-3. Onverminderd toepassing van [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-04-07&g=2023-04-07) bedraagt het totaal per jaar te betalen bedrag aan maandelijkse termijnbetalingen voor de terugbetaling van de lening beroepsonderwijs onderscheidenlijk lening hoger onderwijs ten minste € 545 onderscheidenlijk € 60.
+3. Onverminderd toepassing van [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-06-09&g=2023-06-09) bedraagt het totaal per jaar te betalen bedrag aan maandelijkse termijnbetalingen voor de terugbetaling van de lening beroepsonderwijs onderscheidenlijk lening hoger onderwijs ten minste € 545 onderscheidenlijk € 60.
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de vaststelling en betaling van de termijnbetalingen. Hierbij kan tevens worden bepaald dat betaling geschiedt door middel van een daartoe verleende doorlopende machtiging om het verschuldigde bedrag maandelijks te doen afschrijven van een bankrekening.
 
@@ -1074,7 +1088,7 @@ Deze periode wordt verlengd met het aantal maanden dat gebruik is gemaakt van de
 
 ##### Artikel 6.11. Draagkracht niet binnenlands belastingplichtige debiteur; op aanvraag
 
-1. Voor een debiteur die in het peiljaar niet binnenlands belastingplichtig is in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en die niet op grond van [artikel 2.5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) als zodanig is aangemerkt, kan [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-04-07&g=2023-04-07) slechts toepassing vinden als de debiteur daartoe bij Onze Minister een aanvraag indient.
+1. Voor een debiteur die in het peiljaar niet binnenlands belastingplichtig is in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en die niet op grond van [artikel 2.5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) als zodanig is aangemerkt, kan [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-06-09&g=2023-06-09) slechts toepassing vinden als de debiteur daartoe bij Onze Minister een aanvraag indient.
 
 2. Indien de debiteur zich voor het einde van een jaartermijn metterwoon in Nederland vestigt, wordt hij tot het einde van die jaartermijn behandeld als een debiteur die niet binnenlands belastingplichtig is in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
 
@@ -1082,7 +1096,7 @@ Deze periode wordt verlengd met het aantal maanden dat gebruik is gemaakt van de
 
 ##### Artikel 6.12. Terugval in inkomen
 
-1. Op aanvraag van de debiteur wordt bij de toepassing van [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-04-07&g=2023-04-07) uitgegaan van het inkomen van een ander jaar dan het inkomen in het peiljaar, indien:
+1. Op aanvraag van de debiteur wordt bij de toepassing van [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-06-09&g=2023-06-09) uitgegaan van het inkomen van een ander jaar dan het inkomen in het peiljaar, indien:
 
 - a. sprake is van een terugval in inkomen over het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, in welk geval wordt uitgegaan van het jaar voorafgaande aan het jaar waarvoor de draagkracht wordt vastgesteld, of
 
@@ -1100,15 +1114,15 @@ Indien het een debiteur betreft die na het peiljaar een ouder zonder partner is,
 
 1. Indien de partner van de debiteur ook een debiteur is op wie dit hoofdstuk van toepassing is, wordt:
 
-- a. [artikel 6.10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-04-07&g=2023-04-07), slechts eenmaal toegepast op het totaal van het toetsingsinkomen voor beide partners samen;
+- a. [artikel 6.10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-06-09&g=2023-06-09), slechts eenmaal toegepast op het totaal van het toetsingsinkomen voor beide partners samen;
 
 - b. de draagkracht per debiteur vastgesteld op basis van de verhouding tussen de hoogte van het toetsingsinkomen van beide debiteuren afzonderlijk;
 
 - c. de draagkracht van de debiteur eerst aangewend voor de eigen termijnbetaling. Het bedrag aan resterende draagkracht van de debiteur wordt toegevoegd aan de draagkracht van de partner van wie de draagkracht zonder deze toevoeging lager is dan diens termijnbetaling.
 
-2. Indien een van de partners een lening beroepsonderwijs en de andere partner een lening hoger onderwijs terugbetaalt, wordt onverminderd het eerste lid voor beide partners [artikel 6.10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-04-07&g=2023-04-07), afzonderlijk toegepast volgens de percentages die van toepassing zijn op de terugbetaling van de desbetreffende lening.
+2. Indien een van de partners een lening beroepsonderwijs en de andere partner een lening hoger onderwijs terugbetaalt, wordt onverminderd het eerste lid voor beide partners [artikel 6.10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-06-09&g=2023-06-09), afzonderlijk toegepast volgens de percentages die van toepassing zijn op de terugbetaling van de desbetreffende lening.
 
-3. Indien de debiteur een partner heeft op wie hoofdstuk 10a van toepassing is, wordt het op grond van [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-04-07&g=2023-04-07) berekende bedrag van de draagkracht van de debiteur verminderd met de op grond van [artikel 10a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.6&z=2023-04-07&g=2023-04-07) voor zijn partner vastgestelde termijnbetaling, dan wel de op grond van [artikel 10a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.7&z=2023-04-07&g=2023-04-07) berekende draagkracht van zijn partner. Indien de uitkomst negatief is wordt de draagkracht van de debiteur op nihil vastgesteld.
+3. Indien de debiteur een partner heeft op wie hoofdstuk 10a van toepassing is, wordt het op grond van [artikel 6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-06-09&g=2023-06-09) berekende bedrag van de draagkracht van de debiteur verminderd met de op grond van [artikel 10a.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.6&z=2023-06-09&g=2023-06-09) voor zijn partner vastgestelde termijnbetaling, dan wel de op grond van [artikel 10a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.7&z=2023-06-09&g=2023-06-09) berekende draagkracht van zijn partner. Indien de uitkomst negatief is wordt de draagkracht van de debiteur op nihil vastgesteld.
 
 ##### Artikel 6.15. Wijziging termijnbetaling
 
@@ -1124,9 +1138,9 @@ Indien een debiteur gedurende een kalenderjaar op grond van zijn draagkracht min
 
 1. Op het ogenblik van beëindiging van het recht op studiefinanciering van een student wordt zijn schuld, ontstaan in het kader van de toepassing van deze wet, van rechtswege omgezet in een lening.
 
-2. Indien na beëindiging van het recht op studiefinanciering van een student door een beschikking op grond van [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=7&artikel=7.1&z=2023-04-07&g=2023-04-07) een vordering ontstaat van Onze Minister, wordt die vordering omgezet in een lening op de eerste dag van de maand na de herziening. Bij de berekening van de rente voor die vordering wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari volgend op het kalenderjaar waarin de student is opgehouden student te zijn. Indien de omzetting plaatsvindt in het kalenderjaar waarin de student ophoudt student te zijn, wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari van dat kalenderjaar. [Artikel 6.4, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-04-07&g=2023-04-07), is bij de berekening van rente van overeenkomstige toepassing.
+2. Indien na beëindiging van het recht op studiefinanciering van een student door een beschikking op grond van [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=7&artikel=7.1&z=2023-06-09&g=2023-06-09) een vordering ontstaat van Onze Minister, wordt die vordering omgezet in een lening op de eerste dag van de maand na de herziening. Bij de berekening van de rente voor die vordering wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari volgend op het kalenderjaar waarin de student is opgehouden student te zijn. Indien de omzetting plaatsvindt in het kalenderjaar waarin de student ophoudt student te zijn, wordt het rentepercentage gehanteerd dat geldt met ingang van 1 januari van dat kalenderjaar. [Artikel 6.4, derde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-06-09&g=2023-06-09), is bij de berekening van rente van overeenkomstige toepassing.
 
-3. In afwijking van het eerste en tweede lid wordt een schuld uit een lening en een schuld, ontstaan door de toepassing van [artikel 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07), niet omgezet.
+3. In afwijking van het eerste en tweede lid wordt een schuld uit een lening en een schuld, ontstaan door de toepassing van [artikel 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09), niet omgezet.
 
 4. De in het eerste of tweede lid bedoelde lening wordt rentedragend met ingang van het tijdstip van de daar bedoelde omzetting.
 
@@ -1138,9 +1152,9 @@ Indien een debiteur gedurende een kalenderjaar op grond van zijn draagkracht min
 
 ##### Artikel 6.19. Terugbetalingsregels
 
-1. Met uitzondering van de [artikelen 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2a&z=2023-04-07&g=2023-04-07), [6.5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2023-04-07&g=2023-04-07)[6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.6&z=2023-04-07&g=2023-04-07), [6.7, eerste lid, tweede volzin, en tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.7&z=2023-04-07&g=2023-04-07), en [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.14&z=2023-04-07&g=2023-04-07) is [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&z=2023-04-07&g=2023-04-07) van overeenkomstige toepassing op de terugbetaling van het levenlanglerenkrediet, waarbij deze lening wordt aangemerkt als een lening beroepsonderwijs.
+1. Met uitzondering van de [artikelen 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2a&z=2023-06-09&g=2023-06-09), [6.5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2023-06-09&g=2023-06-09)[6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.6&z=2023-06-09&g=2023-06-09), [6.7, eerste lid, tweede volzin, en tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.7&z=2023-06-09&g=2023-06-09), en [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.14&z=2023-06-09&g=2023-06-09) is [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&z=2023-06-09&g=2023-06-09) van overeenkomstige toepassing op de terugbetaling van het levenlanglerenkrediet, waarbij deze lening wordt aangemerkt als een lening beroepsonderwijs.
 
-2. In afwijking van het eerste lid wordt bij de toepassing van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-04-07&g=2023-04-07) de lening aangemerkt als een lening hoger onderwijs.
+2. In afwijking van het eerste lid wordt bij de toepassing van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-06-09&g=2023-06-09) de lening aangemerkt als een lening hoger onderwijs.
 
 ### Hoofdstuk 7. Herziening
 
@@ -1160,7 +1174,7 @@ Indien een debiteur gedurende een kalenderjaar op grond van zijn draagkracht min
 
 - f. de hoogte van de veronderstelde ouderlijke bijdrage wordt vastgesteld of gewijzigd,
 
-- g. de hoogte van het bedrag van de kwijtschelding, bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-04-07&g=2023-04-07), wordt vastgesteld of gewijzigd,
+- g. de hoogte van het bedrag van de kwijtschelding, bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-06-09&g=2023-06-09), wordt vastgesteld of gewijzigd,
 
 - h. de hoogte van het collegegeldkrediet wordt vastgesteld of gewijzigd,
 
@@ -1168,27 +1182,27 @@ Indien een debiteur gedurende een kalenderjaar op grond van zijn draagkracht min
 
 - j. een herziening van de keuze in een soort reisvoorziening is geweigerd,
 
-- k. een bedrag is vastgesteld dat de student verschuldigd is omdat hij gebruik heeft gemaakt van het reisproduct na de termijn, genoemd in [artikel 3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07),
+- k. een bedrag is vastgesteld dat de student verschuldigd is omdat hij gebruik heeft gemaakt van het reisproduct na de termijn, genoemd in [artikel 3.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09),
 
-- l. studiefinanciering ingevolge [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-04-07&g=2023-04-07) is geweigerd of stopgezet, of
+- l. studiefinanciering ingevolge [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-06-09&g=2023-06-09) is geweigerd of stopgezet, of
 
-- m. de aanvraag van een student, bedoeld in [artikel 3.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-04-07&g=2023-04-07), om als reisvoorziening een reisrecht te ontvangen, is toegekend of geweigerd.
+- m. de aanvraag van een student, bedoeld in [artikel 3.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-06-09&g=2023-06-09), om als reisvoorziening een reisrecht te ontvangen, is toegekend of geweigerd.
 
 2. Herziening vindt plaats op grond van het feit dat:
 
 - a. een beschikking genomen is waarvan de student of de debiteur onderscheidenlijk zijn ouder wist of redelijkerwijs had kunnen weten dat deze onjuist was,
 
-- b. de situatie van langdurige afwezigheid, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-04-07&g=2023-04-07), zich niet heeft voorgedaan,
+- b. de situatie van langdurige afwezigheid, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-06-09&g=2023-06-09), zich niet heeft voorgedaan,
 
-- c. te veel of te weinig studiefinanciering is toegekend, de vorm van de studiefinanciering onjuist is vastgelegd anders dan bedoeld in onderdeel b, de termijnbetaling te hoog of te laag is vastgesteld , de draagkracht van de debiteur te hoog of te laag is vastgesteld, de hoogte van het bedrag van de kwijtschelding, bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-04-07&g=2023-04-07), te hoog of te laag is vastgesteld, de hoogte van de veronderstelde ouderlijke bijdrage te hoog of te laag is vastgesteld, of een onjuist besluit met betrekking tot de reisvoorziening is genomen op basis van onjuiste of onjuist verwerkte gegevens anders dan bedoeld onder a,
+- c. te veel of te weinig studiefinanciering is toegekend, de vorm van de studiefinanciering onjuist is vastgelegd anders dan bedoeld in onderdeel b, de termijnbetaling te hoog of te laag is vastgesteld , de draagkracht van de debiteur te hoog of te laag is vastgesteld, de hoogte van het bedrag van de kwijtschelding, bedoeld in [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-06-09&g=2023-06-09), te hoog of te laag is vastgesteld, de hoogte van de veronderstelde ouderlijke bijdrage te hoog of te laag is vastgesteld, of een onjuist besluit met betrekking tot de reisvoorziening is genomen op basis van onjuiste of onjuist verwerkte gegevens anders dan bedoeld onder a,
 
 - d. betrokkene heeft gehandeld in strijd met het bepaalde bij of krachtens deze wet,
 
-- e. geen gevolg is gegeven aan de aanvraag tot peiljaarverlegging van de ouders, één van de ouders, of de student op grond van [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2023-04-07&g=2023-04-07) of aan de aanvraag van de debiteur op grond van [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-04-07&g=2023-04-07), omdat op dat moment niet werd voldaan aan de voorwaarde, genoemd in artikel 3.10, tweede lid, onderscheidenlijk artikel 6.12, tweede lid, maar blijkt dat wel aan die voorwaarde is voldaan,
+- e. geen gevolg is gegeven aan de aanvraag tot peiljaarverlegging van de ouders, één van de ouders, of de student op grond van [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2023-06-09&g=2023-06-09) of aan de aanvraag van de debiteur op grond van [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-06-09&g=2023-06-09), omdat op dat moment niet werd voldaan aan de voorwaarde, genoemd in artikel 3.10, tweede lid, onderscheidenlijk artikel 6.12, tweede lid, maar blijkt dat wel aan die voorwaarde is voldaan,
 
-- f. gevolg is gegeven aan de aanvraag tot peiljaarverlegging van de ouders, één van de ouders, of de student op grond van [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2023-04-07&g=2023-04-07) of aan de aanvraag van de debiteur op grond van [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-04-07&g=2023-04-07), en blijkt dat niet is voldaan aan de voorwaarde, genoemd in artikel 3.10, tweede lid, onderscheidenlijk artikel 6.12, tweede lid,
+- f. gevolg is gegeven aan de aanvraag tot peiljaarverlegging van de ouders, één van de ouders, of de student op grond van [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2023-06-09&g=2023-06-09) of aan de aanvraag van de debiteur op grond van [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-06-09&g=2023-06-09), en blijkt dat niet is voldaan aan de voorwaarde, genoemd in artikel 3.10, tweede lid, onderscheidenlijk artikel 6.12, tweede lid,
 
-- g. achteraf is gebleken van feiten of omstandigheden, die, waren zij eerder bekend geweest, niet tot toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-04-07&g=2023-04-07) zouden hebben geleid, of
+- g. achteraf is gebleken van feiten of omstandigheden, die, waren zij eerder bekend geweest, niet tot toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-06-09&g=2023-06-09) zouden hebben geleid, of
 
 - h. andere, nader gebleken feiten of omstandigheden, die, waren zij eerder bekend geweest, tot een andere beschikking zouden hebben geleid.
 
@@ -1196,7 +1210,7 @@ Indien een debiteur gedurende een kalenderjaar op grond van zijn draagkracht min
 
 ##### Artikel 7.2. Herziening van rechtswege
 
-Indien een student op grond van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-04-07&g=2023-04-07) geen aanspraak meer heeft op studiefinanciering wordt de beschikking waarbij studiefinanciering is toegekend van rechtswege herzien.
+Indien een student op grond van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-06-09&g=2023-06-09) geen aanspraak meer heeft op studiefinanciering wordt de beschikking waarbij studiefinanciering is toegekend van rechtswege herzien.
 
 ##### Artikel 7.3. Bezwaarschriftprocedure
 
@@ -1204,15 +1218,15 @@ De [artikelen 7:2 tot en met 7:9 van de Algemene wet bestuursrecht](https://wett
 
 ##### Artikel 7.4. Verrekening teveel toegekende en uitbetaalde studiefinanciering
 
-1. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=7&artikel=7.1&z=2023-04-07&g=2023-04-07), of een beslissing op bezwaar daartoe aanleiding geeft, wordt het bedrag van de basisbeurs of aanvullende beurs dat teveel is uitbetaald, door de betrokkene terugbetaald of met hem verrekend. Tevens vindt verrekening plaats van de bedragen, bedoeld in de [artikelen 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07), en [3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.29&z=2023-04-07&g=2023-04-07).
+1. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=7&artikel=7.1&z=2023-06-09&g=2023-06-09), of een beslissing op bezwaar daartoe aanleiding geeft, wordt het bedrag van de basisbeurs of aanvullende beurs dat teveel is uitbetaald, door de betrokkene terugbetaald of met hem verrekend. Tevens vindt verrekening plaats van de bedragen, bedoeld in de [artikelen 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09), en [3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.29&z=2023-06-09&g=2023-06-09).
 
-2. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=7&artikel=7.1&z=2023-04-07&g=2023-04-07), of een beslissing op bezwaar daartoe aanleiding geeft, wordt voor zover het bedrag waarvoor het recht om een lening af te sluiten te hoog is toegekend, het deel dat te hoog is toegekend en uitbetaald door de betrokkene terugbetaald of met hem verrekend.
+2. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=7&artikel=7.1&z=2023-06-09&g=2023-06-09), of een beslissing op bezwaar daartoe aanleiding geeft, wordt voor zover het bedrag waarvoor het recht om een lening af te sluiten te hoog is toegekend, het deel dat te hoog is toegekend en uitbetaald door de betrokkene terugbetaald of met hem verrekend.
 
 3. Indien een herzieningsbeschikking als bedoeld in [artikel 7.1 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=7.1), of een beslissing op bezwaar daartoe aanleiding geeft, wordt het bedrag aan tegemoetkoming dat teveel is uitbetaald, door de betrokkene terugbetaald of met hem verrekend.
 
 4. Indien na een voorlopige voorziening als bedoeld in [titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3), de beslissing in hoofdzaak daartoe aanleiding geeft, wordt het bedrag dat op grond van de voorlopige voorziening teveel is uitbetaald, door de betrokkene terugbetaald of met hem verrekend.
 
-5. De in het eerste tot en met vierde lid bedoelde terugbetaling, voor zover [artikel 6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.17&z=2023-04-07&g=2023-04-07) niet van toepassing is, en verrekening geschieden overeenkomstig bij ministeriële regeling vast te stellen redelijke terugbetalingsregels.
+5. De in het eerste tot en met vierde lid bedoelde terugbetaling, voor zover [artikel 6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.17&z=2023-06-09&g=2023-06-09) niet van toepassing is, en verrekening geschieden overeenkomstig bij ministeriële regeling vast te stellen redelijke terugbetalingsregels.
 
 6. [Artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93) is niet van toepassing op deze wet.
 
@@ -1236,11 +1250,11 @@ Onze Minister vaardigt een dwangbevel uit aan de nalatige, indien een bij of kra
 
 ### Hoofdstuk 9. Toezicht en sancties
 
-#### Paragraaf 5.3. Omzettingsprocedure
+#### Paragraaf 5.2. Omzetting bij afsluitend examen
 
 ##### Artikel 9.1. Toezicht door onderwijsinspectie
 
-Het toezicht door de inspectie, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800), heeft mede betrekking op de vraag of de instelling of de opleiding voldoet aan de van toepassing zijnde voorwaarden, bedoeld in de [artikelen 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2023-04-07&g=2023-04-07), [2.13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2023-04-07&g=2023-04-07), en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.5&z=2023-04-07&g=2023-04-07).
+Het toezicht door de inspectie, bedoeld in de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800), heeft mede betrekking op de vraag of de instelling of de opleiding voldoet aan de van toepassing zijnde voorwaarden, bedoeld in de [artikelen 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2023-06-09&g=2023-06-09), [2.13, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2023-06-09&g=2023-06-09), en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.5&z=2023-06-09&g=2023-06-09).
 
 #### Paragraaf 5.4. Omzettingsprocedure bij stoppen voor 1 februari of 1 september in eerste studiejaar
 
@@ -1268,7 +1282,7 @@ Vervallen
 
 ##### Artikel 9.5. Verstrekken van inlichtingen door instellingen
 
-1. De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een instelling uitgaat die onderwijs aanbiedt als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2023-04-07&g=2023-04-07), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-04-07&g=2023-04-07), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2023-04-07&g=2023-04-07), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2023-04-07&g=2023-04-07) en [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2023-04-07&g=2023-04-07), is verplicht op een bij ministeriële regeling aan te geven wijze kosteloos inlichtingen te verstrekken, benodigd voor de uitvoering van deze wet.
+1. De natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan een instelling uitgaat die onderwijs aanbiedt als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2023-06-09&g=2023-06-09), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-06-09&g=2023-06-09), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.10&z=2023-06-09&g=2023-06-09), [2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.11&z=2023-06-09&g=2023-06-09) en [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2023-06-09&g=2023-06-09), is verplicht op een bij ministeriële regeling aan te geven wijze kosteloos inlichtingen te verstrekken, benodigd voor de uitvoering van deze wet.
 
 2. Onze Minister kan voor instellingen of groepen van instellingen waarop [artikel 7.9d WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.9d) niet van toepassing is, bepalen dat de natuurlijke persoon van wie of het bestuur van de rechtspersoon waarvan die instelling uitgaat, voor het einde van de maand volgend op de maand waarin een ho-student het afsluitend examen van een opleiding in het hoger onderwijs met goed gevolg heeft afgelegd, daarvan mededeling doet aan Onze Minister en gelijktijdig de ho-student van die mededeling in kennis stelt.
 
@@ -1276,21 +1290,21 @@ Vervallen
 
 1. Organen met een publiekrechtelijke taak zijn verplicht op een bij algemene maatregel van bestuur aan te geven wijze kosteloos inlichtingen te verstrekken, benodigd voor de uitvoering van deze wet.
 
-2. RSR verstrekt op verzoek van Onze Minister voor de uitvoering van [artikel 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07), het gegeven of een persoon in een bepaalde periode nadat zijn reisproduct op grond van artikel 3.27, eerste lid, zou moeten zijn stopgezet, gebruik heeft gemaakt van het reisproduct.
+2. RSR verstrekt op verzoek van Onze Minister voor de uitvoering van [artikel 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09), het gegeven of een persoon in een bepaalde periode nadat zijn reisproduct op grond van artikel 3.27, eerste lid, zou moeten zijn stopgezet, gebruik heeft gemaakt van het reisproduct.
 
 3. Voor de uitvoering van het eerste lid, verstrekt de rechtspersoon die tot taak heeft het beheer van de aan de dragers van het reisproduct gekoppelde reisgegevens, op verzoek van RSR het gegeven of binnen een bepaalde periode gebruik is gemaakt van het reisproduct gekoppeld aan een bepaalde drager.
 
-4. Onze Minister verwerkt de persoonsgegevens die hij ontvangt of bezit voor de uitvoering van [artikel 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07).
+4. Onze Minister verwerkt de persoonsgegevens die hij ontvangt of bezit voor de uitvoering van [artikel 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09).
 
-##### Artikel 9.6a. Verwerking van gegevens voor de toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-04-07&g=2023-04-07)
+##### Artikel 9.6a. Verwerking van gegevens voor de toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-06-09&g=2023-06-09)
 
-1. Onze Minister verwerkt de persoonsgegevens die hij ontvangt of bezit ten behoeve van de toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-04-07&g=2023-04-07).
+1. Onze Minister verwerkt de persoonsgegevens die hij ontvangt of bezit ten behoeve van de toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-06-09&g=2023-06-09).
 
-2. Bij de verwerking van gegevens op grond van het eerste lid kunnen bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) worden verwerkt, voor zover deze gegevens noodzakelijk zijn voor de toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-04-07&g=2023-04-07).
+2. Bij de verwerking van gegevens op grond van het eerste lid kunnen bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) worden verwerkt, voor zover deze gegevens noodzakelijk zijn voor de toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-06-09&g=2023-06-09).
 
-3. Ten behoeve van de toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-04-07&g=2023-04-07) verstrekt Onze Minister uitsluitend het gegeven of een persoon studiefinanciering heeft aangevraagd dan wel reeds ontvangt.
+3. Ten behoeve van de toepassing van [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17a&z=2023-06-09&g=2023-06-09) verstrekt Onze Minister uitsluitend het gegeven of een persoon studiefinanciering heeft aangevraagd dan wel reeds ontvangt.
 
-4. [Artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.7&z=2023-04-07&g=2023-04-07) is voor de gegevensverwerking, bedoeld in dit artikel, van overeenkomstige toepassing voor een persoon die studiefinanciering heeft aangevraagd.
+4. [Artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.7&z=2023-06-09&g=2023-06-09) is voor de gegevensverwerking, bedoeld in dit artikel, van overeenkomstige toepassing voor een persoon die studiefinanciering heeft aangevraagd.
 
 5. Bij ministeriële regeling worden regels gesteld ter waarborging van de persoonlijke levenssfeer. Daarbij worden in ieder geval regels gesteld over:
 
@@ -1300,7 +1314,7 @@ Vervallen
 
 - c. op welke wijze wordt gewaarborgd dat de verwerkte persoonsgegevens slechts worden verwerkt voor het doel waarvoor zij zijn verzameld, alsmede hoe daarop wordt toegezien.
 
-#### Paragraaf 5.7. Omzetting bij bijzondere omstandigheden
+#### Paragraaf 5.5. Omzettingsprocedure eerste 12 maanden
 
 ##### Artikel 9.7. Niet verstrekken inlichtingen door instelling over studievoortgang
 
@@ -1308,13 +1322,13 @@ Vervallen
 
 ##### Artikel 9.8. Niet verstrekken inlichtingen door instelling over langdurige afwezigheid mbo-studenten
 
-Indien een instelling als bedoeld in [artikel 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2023-04-07&g=2023-04-07), op enig moment in een studiejaar niet een administratie als bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.5&z=2023-04-07&g=2023-04-07), voert of niet na afloop van de in de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-04-07&g=2023-04-07), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.4&z=2023-04-07&g=2023-04-07) en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.5&z=2023-04-07&g=2023-04-07) bedoelde periodes van onafgebroken afwezigheid zonder geldige reden aan Onze Minister de vereiste gegevens verstrekt, ontstaat er een vordering van Onze Minister op de instelling ter grootte van 15% van het bedrag van als gift vastgestelde studiefinanciering dat aan de mbo-studenten aan die instelling in het studiejaar waarin deze in gebreke was, is toegekend.
+Indien een instelling als bedoeld in [artikel 2.4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2023-06-09&g=2023-06-09), op enig moment in een studiejaar niet een administratie als bedoeld in [artikel 4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.5&z=2023-06-09&g=2023-06-09), voert of niet na afloop van de in de [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.3&z=2023-06-09&g=2023-06-09), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.4&z=2023-06-09&g=2023-06-09) en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.1&artikel=4.5&z=2023-06-09&g=2023-06-09) bedoelde periodes van onafgebroken afwezigheid zonder geldige reden aan Onze Minister de vereiste gegevens verstrekt, ontstaat er een vordering van Onze Minister op de instelling ter grootte van 15% van het bedrag van als gift vastgestelde studiefinanciering dat aan de mbo-studenten aan die instelling in het studiejaar waarin deze in gebreke was, is toegekend.
 
-##### Artikel 9.9. Niet voldoen aan verplichtingen [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-04-07&g=2023-04-07) door mbo-student
+##### Artikel 9.9. Niet voldoen aan verplichtingen [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-06-09&g=2023-06-09)
 
-1. Indien een mbo-student het normbedrag voor een uitwonende mbo-student toegekend heeft gekregen maar niet heeft voldaan aan de verplichtingen, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-04-07&g=2023-04-07), kan Onze Minister hem een bestuurlijke boete opleggen van ten hoogste 50 procent van het bedrag dat van de mbo-student in verband daarmee wordt teruggevorderd bij een herziening.
+1. Indien een student het normbedrag voor een uitwonende student toegekend heeft gekregen maar niet heeft voldaan aan de verplichtingen, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-06-09&g=2023-06-09), kan Onze Minister hem een bestuurlijke boete opleggen van ten hoogste 50 procent van het bedrag dat van de student in verband daarmee wordt teruggevorderd bij een herziening.
 
-2. De herziening vindt plaats met ingang van de datum van de laatste adreswijziging van de mbo-student in de basisregistratie personen. Indien de ouders van de mbo-student of een van hen na de laatste adreswijziging, bedoeld in de vorige volzin, zijn of is ingeschreven op hetzelfde woonadres als de mbo-student, dan vindt de herziening plaats met ingang van de dag van deze adreswijziging.
+2. De herziening vindt plaats met ingang van de datum van de laatste adreswijziging van de student in de basisregistratie personen. Indien de ouders van de student of een van hen na de laatste adreswijziging, bedoeld in de vorige volzin, zijn of is ingeschreven op hetzelfde woonadres als de student, dan vindt de herziening plaats met ingang van de dag van deze adreswijziging.
 
 3. Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan Onze Minister de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.
 
@@ -1322,7 +1336,7 @@ Indien een instelling als bedoeld in [artikel 2.4, onderdeel b](https://wetten.o
 
 ##### Artikel 9.10. Niet verstrekken van inlichtingen
 
-Hij die niet voldoet aan een van de verplichtingen, bedoeld in [artikel 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.2&artikel=9.5&z=2023-04-07&g=2023-04-07), wordt gestraft met hechtenis van ten hoogste 6 maanden of geldboete van de derde categorie.
+Hij die niet voldoet aan een van de verplichtingen, bedoeld in [artikel 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.2&artikel=9.5&z=2023-06-09&g=2023-06-09), wordt gestraft met hechtenis van ten hoogste 6 maanden of geldboete van de derde categorie.
 
 ##### Artikel 9.11. Overtreding van een bepaling krachtens deze wet
 
@@ -1330,7 +1344,7 @@ Overtreding van bepalingen van een krachtens deze wet uitgevaardigde algemene ma
 
 ##### Artikel 9.12. Overtreding
 
-De in de [artikelen 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.4&artikel=9.10&z=2023-04-07&g=2023-04-07) en [9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.4&artikel=9.11&z=2023-04-07&g=2023-04-07) strafbaar gestelde feiten zijn overtredingen.
+De in de [artikelen 9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.4&artikel=9.10&z=2023-06-09&g=2023-06-09) en [9.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.4&artikel=9.11&z=2023-06-09&g=2023-06-09) strafbaar gestelde feiten zijn overtredingen.
 
 ### Hoofdstuk 10. Hoger onderwijs; tempobeurs
 
@@ -1346,7 +1360,7 @@ Vervallen
 
 Vervallen
 
-##### Artikel 10.4. Afwijking van de [artikelen 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2023-04-07&g=2023-04-07) (voorheen artikel 9, zevende lid) en [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2023-04-07&g=2023-04-07) (voorheen artikel 9, tiende lid); geen aanspraak of geen aanspraak meer
+##### Artikel 10.4. Afwijking van de [artikelen 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2023-06-09&g=2023-06-09) (voorheen artikel 9, zevende lid) en [2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2023-06-09&g=2023-06-09) (voorheen artikel 9, tiende lid); geen aanspraak of geen aanspraak meer
 
 Vervallen
 
@@ -1370,9 +1384,9 @@ Vervallen
 
 ##### Artikel 11.1. Wijziging van bedragen
 
-1. Per 1 januari van ieder kalenderjaar wijzigt Onze Minister de bedragen, genoemd in de [artikelen 3.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-04-07&g=2023-04-07), [3.17, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.17&z=2023-04-07&g=2023-04-07), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07), met uitzondering van de maximale aanvullende beurs, [3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-04-07&g=2023-04-07), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.18&z=2023-04-07&g=2023-04-07), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-04-07&g=2023-04-07) en [6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2a&z=2023-04-07&g=2023-04-07), op een bij of krachtens algemene maatregel van bestuur aan te geven wijze aan de hand van de loon- of prijsontwikkelingen in het tweede daaraan voorafgaande kalenderjaar.
+1. Per 1 januari van ieder kalenderjaar wijzigt Onze Minister de bedragen, genoemd in de [artikelen 3.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09), [3.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9a&z=2023-06-09&g=2023-06-09), [3.17, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.17&z=2023-06-09&g=2023-06-09), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09), met uitzondering van de maximale aanvullende beurs, [3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-06-09&g=2023-06-09), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.18&z=2023-06-09&g=2023-06-09), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-06-09&g=2023-06-09) en [6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2a&z=2023-06-09&g=2023-06-09), op een bij of krachtens algemene maatregel van bestuur aan te geven wijze aan de hand van de loon- of prijsontwikkelingen in het tweede daaraan voorafgaande kalenderjaar.
 
-2. Op een bij of krachtens algemene maatregel van bestuur te bepalen wijze kunnen bij ministeriële regeling de bedragen, genoemd in de [artikelen 6.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-04-07&g=2023-04-07), en [10a.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.6&z=2023-04-07&g=2023-04-07), gelet op de loonontwikkeling worden gewijzigd.
+2. Op een bij of krachtens algemene maatregel van bestuur te bepalen wijze kunnen bij ministeriële regeling de bedragen, genoemd in de [artikelen 6.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-06-09&g=2023-06-09), en [10a.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.6&z=2023-06-09&g=2023-06-09), gelet op de loonontwikkeling worden gewijzigd.
 
 ##### Artikel 11.2. Titel 4.2 Awb niet van toepassing
 
@@ -1400,7 +1414,7 @@ Vervallen
 
 - c. het begrip vreemdeling, en
 
-- d. [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.8&z=2023-04-07&g=2023-04-07).
+- d. [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.8&z=2023-06-09&g=2023-06-09).
 
 ##### Artikel 11.6. Bewaartermijn
 
@@ -1412,29 +1426,29 @@ Vervallen
 
 ### Hoofdstuk 12. Overgangsbepalingen
 
-##### Artikel 12.1. Afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.1. Afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-06-09&g=2023-06-09)
 
-1. Onder de begripsbepaling van «bacheloropleiding» in [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-04-07&g=2023-04-07), wordt mede verstaan: opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), en ten aanzien waarvan [artikel 18.18 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.18) zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van de wet van 4 februari 2010 (Stb. 119) van toepassing is.
+1. Onder de begripsbepaling van «bacheloropleiding» in [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-06-09&g=2023-06-09), wordt mede verstaan: opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), en ten aanzien waarvan [artikel 18.18 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.18) zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van de wet van 4 februari 2010 (Stb. 119) van toepassing is.
 
-2. Onder de begripsbepaling van «masteropleiding» in [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-04-07&g=2023-04-07), wordt mede verstaan: opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), en ten aanzien waarvan [artikel 18.18 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.18) zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van de wet van 4 februari 2010 (Stb. 119) van toepassing is.
+2. Onder de begripsbepaling van «masteropleiding» in [artikel 1.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-06-09&g=2023-06-09), wordt mede verstaan: opleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel b, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), en ten aanzien waarvan [artikel 18.18 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.18) zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van de wet van 4 februari 2010 (Stb. 119) van toepassing is.
 
-##### Artikel 12.1a. Afwijking van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-04-07&g=2023-04-07)
-
-Vervallen
-
-##### Artikel 12.1b. Afwijking van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-04-07&g=2023-04-07)
-
-1. In afwijking van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-04-07&g=2023-04-07) komt tot een bij koninklijk besluit te bepalen tijdstip voor studiefinanciering mede in aanmerking een ho-student die is ingeschreven voor het volgen van een voltijdse opleiding als bedoeld in de [artikelen 18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.14) of [18.15 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.15), zoals die artikelen luidden op 31 augustus 2010, of [18.16 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.16) voor zover aan die opleiding accreditatie als bedoeld in [artikel 1.1, onderdeel q, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) is verleend.
-
-2. In afwijking van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-04-07&g=2023-04-07) komt tot een bij koninklijk besluit te bepalen tijdstip voor studiefinanciering mede in aanmerking een ho-student die is ingeschreven voor het volgen van een voltijdse opleiding als bedoeld in [artikel VII van de wet van 2 april 1998, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=VII) (Stb. 1998, 216) voor zover aan die opleiding accreditatie als bedoeld in [artikel 1.1, onderdeel q, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) is verleend.
-
-3. In aanvulling op [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-04-07&g=2023-04-07) kan tot een bij koninklijk besluit te bepalen tijdstip een ho-student voor studiefinanciering in aanmerking komen die is ingeschreven voor het volgen van een voltijdse associate degree-opleiding, een voltijdse bacheloropleiding of een voltijdse masteropleiding aan een aangewezen instelling als bedoeld in de [artikelen 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9) of [16.10 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.10), zoals die artikelen luidden op 31 augustus 2010.
-
-##### Artikel 12.2. Afwijking van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07) voor het jaar 2006 vanwege nieuw zorgverzekeringsstelsel
+##### Artikel 12.1a. Afwijking van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-06-09&g=2023-06-09)
 
 Vervallen
 
-##### Artikel 12.3. Afwijking van [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-04-07&g=2023-04-07) in het studiejaar 2007–2008
+##### Artikel 12.1b. Afwijking van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-06-09&g=2023-06-09)
+
+1. In afwijking van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-06-09&g=2023-06-09) komt tot een bij koninklijk besluit te bepalen tijdstip voor studiefinanciering mede in aanmerking een ho-student die is ingeschreven voor het volgen van een voltijdse opleiding als bedoeld in de [artikelen 18.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.14) of [18.15 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.15), zoals die artikelen luidden op 31 augustus 2010, of [18.16 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.16) voor zover aan die opleiding accreditatie als bedoeld in [artikel 1.1, onderdeel q, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) is verleend.
+
+2. In afwijking van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-06-09&g=2023-06-09) komt tot een bij koninklijk besluit te bepalen tijdstip voor studiefinanciering mede in aanmerking een ho-student die is ingeschreven voor het volgen van een voltijdse opleiding als bedoeld in [artikel VII van de wet van 2 april 1998, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen](https://wetten.overheid.nl/jci1.3:c:BWBR0009524&artikel=VII) (Stb. 1998, 216) voor zover aan die opleiding accreditatie als bedoeld in [artikel 1.1, onderdeel q, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) is verleend.
+
+3. In aanvulling op [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.8&z=2023-06-09&g=2023-06-09) kan tot een bij koninklijk besluit te bepalen tijdstip een ho-student voor studiefinanciering in aanmerking komen die is ingeschreven voor het volgen van een voltijdse associate degree-opleiding, een voltijdse bacheloropleiding of een voltijdse masteropleiding aan een aangewezen instelling als bedoeld in de [artikelen 6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9) of [16.10 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=16.10), zoals die artikelen luidden op 31 augustus 2010.
+
+##### Artikel 12.2. Afwijking van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09) voor het jaar 2006 vanwege nieuw zorgverzekeringsstelsel
+
+Vervallen
+
+##### Artikel 12.3. Afwijking van [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-06-09&g=2023-06-09) in het studiejaar 2007–2008
 
 Vervallen
 
@@ -1458,13 +1472,13 @@ Vervallen
 
 Vervallen
 
-##### Artikel 12.9. Afwijking van de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-04-07&g=2023-04-07) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.9. Afwijking van de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-06-09&g=2023-06-09) en [6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-06-09&g=2023-06-09)
 
-Op de ho-student die vóór 1 september 2010 voor het volgen van hoger onderwijs studiefinanciering ontving, blijven de [artikelen 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-04-07&g=2023-04-07), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-04-07&g=2023-04-07), van toepassing, zoals die artikelen op 31 augustus 2010 luidden.
+Op de ho-student die vóór 1 september 2010 voor het volgen van hoger onderwijs studiefinanciering ontving, blijven de [artikelen 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-06-09&g=2023-06-09), en [6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-06-09&g=2023-06-09), van toepassing, zoals die artikelen op 31 augustus 2010 luidden.
 
-##### Artikel 12.10. Afwijking van voormalig [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.10. Afwijking van voormalig [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-06-09&g=2023-06-09)
 
-1. Tot een bij koninklijk besluit te bepalen tijdstip, wordt in afwijking van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-04-07&g=2023-04-07), zoals dat luidde op 31 augustus 2015, de prestatiebeurs mede gedurende 5 jaren verstrekt, indien het betreft een opleiding:
+1. Tot een bij koninklijk besluit te bepalen tijdstip, wordt in afwijking van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-06-09&g=2023-06-09), zoals dat luidde op 31 augustus 2015, de prestatiebeurs mede gedurende 5 jaren verstrekt, indien het betreft een opleiding:
 
 - a. genoemd in [artikel 7.4, derde lid, eerste volzin, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4), zoals dat artikel op 31 augustus 2002 luidde,
 
@@ -1472,19 +1486,19 @@ Op de ho-student die vóór 1 september 2010 voor het volgen van hoger onderwijs
 
 - c. genoemd in [artikel 18.20 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.20).
 
-2. Tot een bij koninklijk besluit te bepalen tijdstip, wordt in afwijking van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-04-07&g=2023-04-07), zoals dat luidde op 31 augustus 2015, de prestatiebeurs mede gedurende 6 jaren verstrekt, indien het betreft een opleiding, genoemd in [artikel 7.4, derde lid, tweede volzin, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4), zoals dat artikel op 31 augustus 2002 luidde. Het aantal om te zetten maanden wordt verminderd met het verschil tussen 360 studiepunten en de studielast die is gebaseerd op een geringer aantal maanden, indien een ho-student:
+2. Tot een bij koninklijk besluit te bepalen tijdstip, wordt in afwijking van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-06-09&g=2023-06-09), zoals dat luidde op 31 augustus 2015, de prestatiebeurs mede gedurende 6 jaren verstrekt, indien het betreft een opleiding, genoemd in [artikel 7.4, derde lid, tweede volzin, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.4), zoals dat artikel op 31 augustus 2002 luidde. Het aantal om te zetten maanden wordt verminderd met het verschil tussen 360 studiepunten en de studielast die is gebaseerd op een geringer aantal maanden, indien een ho-student:
 
 - a. met goed gevolg een examen heeft afgelegd van een deel van een opleiding, en
 
 - b. dat deel ten minste 240 studiepunten bedraagt.
 
-3. Tot een bij koninklijk besluit te bepalen tijdstip, wordt in afwijking van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-04-07&g=2023-04-07), zoals dat luidde op 31 augustus 2015, de prestatiebeurs mede gedurende 6,5 jaar verstrekt, indien het betreft:
+3. Tot een bij koninklijk besluit te bepalen tijdstip, wordt in afwijking van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-06-09&g=2023-06-09), zoals dat luidde op 31 augustus 2015, de prestatiebeurs mede gedurende 6,5 jaar verstrekt, indien het betreft:
 
 - a. een opleiding als bedoeld in [artikel 18.15 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.15), zoals dat artikel luidde op 31 augustus 2010, in de godgeleerdheid aan een openbare universiteit die, blijkens het onderwijs- en examenprogramma, wordt gevolgd in combinatie met het onderwijs in het kader van een opleiding vanwege een kerkgenootschap tot leraar of ambtsdrager van dat kerkgenootschap, en
 
 - b. een opleiding als bedoeld in [artikel 18.15 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.15), zoals dat artikel luidde op 31 augustus 2010, met een studielast van 360 studiepunten gericht op een godsdienstig of levensbeschouwelijk ambt aan een bijzondere instelling voor wetenschappelijk onderwijs of een opleiding in de zin van [artikel 18.15 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=18.15), zoals dat artikel luidde op 31 augustus 2010, in de godgeleerdheid aan een op grond van [artikel 6.9 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9), zoals dat artikel luidde op 31 augustus 2010, aangewezen instelling.
 
-4. In afwijking van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-04-07&g=2023-04-07), zoals dat luidde op 31 augustus 2015, wordt de prestatiebeurs gedurende 6,5 jaar verstrekt aan een ho-student die vóór 1 september 2010 studiefinanciering ontving voor:
+4. In afwijking van [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.6&z=2023-06-09&g=2023-06-09), zoals dat luidde op 31 augustus 2015, wordt de prestatiebeurs gedurende 6,5 jaar verstrekt aan een ho-student die vóór 1 september 2010 studiefinanciering ontving voor:
 
 - a. het geheel van een bacheloropleiding en een masteropleiding in de godgeleerdheid aan een openbare of bijzondere universiteit dat, blijkens het onderwijs- en examenprogramma, wordt gevolgd in combinatie met het onderwijs in het kader van een opleiding vanwege een kerkgenootschap tot leraar of ambtsdrager van dat kerkgenootschap, of
 
@@ -1506,30 +1520,30 @@ Vervallen
 
 1. Op een ho-student die vóór 1 september 2015 stond ingeschreven aan een bacheloropleiding, masteropleiding of ongedeelde opleiding of die onderwijs volgde volgend op een opleiding gericht op een levensbeschouwelijk ambt of beroep als bedoeld in [artikel 7.5c, derde lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5c), en die studiefinanciering toegekend heeft gekregen voor een opleiding in het hoger onderwijs, blijven de volgende artikelen, zoals die luidden op 31 augustus 2015, voor de nominale duur van die opleiding van toepassing:
 
-- a. van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&z=2023-04-07&g=2023-04-07), de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-04-07&g=2023-04-07) en [1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-04-07&g=2023-04-07);
+- a. van [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&z=2023-06-09&g=2023-06-09), de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-06-09&g=2023-06-09) en [1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-06-09&g=2023-06-09);
 
-- b. van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&z=2023-04-07&g=2023-04-07), de [artikelen 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2023-04-07&g=2023-04-07), [2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2023-04-07&g=2023-04-07), en [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2023-04-07&g=2023-04-07);
+- b. van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&z=2023-06-09&g=2023-06-09), de [artikelen 2.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.13&z=2023-06-09&g=2023-06-09), [2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.16&z=2023-06-09&g=2023-06-09), en [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2023-06-09&g=2023-06-09);
 
-- c. van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&z=2023-04-07&g=2023-04-07), de [artikelen 3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-04-07&g=2023-04-07), en [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&z=2023-04-07&g=2023-04-07), met uitzondering van [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2023-04-07&g=2023-04-07); en
+- c. van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&z=2023-06-09&g=2023-06-09), de [artikelen 3.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-06-09&g=2023-06-09), en [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&z=2023-06-09&g=2023-06-09), met uitzondering van [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.10&z=2023-06-09&g=2023-06-09); en
 
-- d. [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&z=2023-04-07&g=2023-04-07), met uitzondering van [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.3&artikel=5.9&z=2023-04-07&g=2023-04-07), en [artikel 5.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.7&artikel=5.16&z=2023-04-07&g=2023-04-07), waarbij voor «prestatiebeurs hoger onderwijs» wordt gelezen: prestatiebeurs;
+- d. [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&z=2023-06-09&g=2023-06-09), met uitzondering van [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.3&artikel=5.9&z=2023-06-09&g=2023-06-09), en [artikel 5.16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.7&artikel=5.16&z=2023-06-09&g=2023-06-09), waarbij voor «prestatiebeurs hoger onderwijs» wordt gelezen: prestatiebeurs;
 
-- e. van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-04-07&g=2023-04-07), de [artikelen 9.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.1&artikel=9.1b&z=2023-04-07&g=2023-04-07), [9.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.3&artikel=9.9&z=2023-04-07&g=2023-04-07) en [9.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.3&artikel=9.9a&z=2023-04-07&g=2023-04-07).
+- e. van [hoofdstuk 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-06-09&g=2023-06-09), de [artikelen 9.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.1&artikel=9.1b&z=2023-06-09&g=2023-06-09), [9.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.3&artikel=9.9&z=2023-06-09&g=2023-06-09) en [9.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.3&artikel=9.9a&z=2023-06-09&g=2023-06-09).
 
-2. In afwijking van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07) gelden voor de thuiswonende onderscheidenlijk uitwonende ho-student die overeenkomstig het eerste lid studiefinanciering toegekend heeft gekregen de volgende bedragen per maand, naar de maatstaf van 1 januari 2014:
+2. In afwijking van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09) gelden voor de thuiswonende onderscheidenlijk uitwonende ho-student die overeenkomstig het eerste lid studiefinanciering toegekend heeft gekregen de volgende bedragen per maand, naar de maatstaf van 1 januari 2014:
 
 |   | **thuiswonende** | **uitwonende** |
 | --- | --- | --- |
-| a. maandbedrag als bedoeld in overzicht 1 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07) | € 633,44 per 1 januari 2023: € 728,19 | € 833,22 per 1 januari 2023: € 957,87 |
-| b. basisbeurs als bedoeld in overzicht 2 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07) | € 100,25 per 1 januari 2023: € 115,26 | € 279,14 per 1 januari 2023: € 320,90 |
-| c. maximale aanvullende beurs of lening als bedoeld in overzicht 2 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07) | € 237,46 per 1 januari 2023: € 283,26 | € 258,35 per 1 januari 2023: € 307,30 |
-| d. basislening als bedoeld in overzicht 2 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07) | € 295,73 per 1 januari 2023: € 329,67 | € 295,73 per 1 januari 2023: € 329,26 |
+| a. maandbedrag als bedoeld in overzicht 1 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09) | € 633,44 per 1 januari 2023: € 728,19 | € 833,22 per 1 januari 2023: € 957,87 |
+| b. basisbeurs als bedoeld in overzicht 2 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09) | € 100,25 per 1 januari 2023: € 115,26 | € 279,14 per 1 januari 2023: € 320,90 |
+| c. maximale aanvullende beurs of lening als bedoeld in overzicht 2 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09) | € 237,46 per 1 januari 2023: € 283,26 | € 258,35 per 1 januari 2023: € 307,30 |
+| d. basislening als bedoeld in overzicht 2 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09) | € 295,73 per 1 januari 2023: € 329,67 | € 295,73 per 1 januari 2023: € 329,26 |
 
-3. [Artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2a&z=2023-04-07&g=2023-04-07) is niet van toepassing op het afronden van een opleiding waarvoor de debiteur overeenkomstig het eerste lid studiefinanciering toegekend heeft gekregen.
+3. [Artikel 6.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2a&z=2023-06-09&g=2023-06-09) is niet van toepassing op het afronden van een opleiding waarvoor de debiteur overeenkomstig het eerste lid studiefinanciering toegekend heeft gekregen.
 
-4. Voor de debiteur met een schuld uit een lening die is ontstaan door verstrekking van studiefinanciering overeenkomstig het eerste lid, wordt de lening aangemerkt als een lening beroepsonderwijs als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-04-07&g=2023-04-07), tenzij [artikel 10a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.1&z=2023-04-07&g=2023-04-07) van toepassing is.
+4. Voor de debiteur met een schuld uit een lening die is ontstaan door verstrekking van studiefinanciering overeenkomstig het eerste lid, wordt de lening aangemerkt als een lening beroepsonderwijs als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-06-09&g=2023-06-09), tenzij [artikel 10a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.1&z=2023-06-09&g=2023-06-09) van toepassing is.
 
-5. Indien een debiteur als bedoeld in het vierde lid ingevolge de [Wet studievoorschot hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0036261) geen basisbeurs toegekend heeft gekregen voor een masteropleiding of voor onderwijs volgend op een opleiding gericht op een levensbeschouwelijk ambt of beroep als bedoeld in [artikel 7.5c, derde lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5c), kan de lening worden aangemerkt als een lening hoger onderwijs als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-04-07&g=2023-04-07), indien de debiteur vóór aanvang van de aflosfase, maar na 31 december 2016, daartoe een aanvraag indient.
+5. Indien een debiteur als bedoeld in het vierde lid ingevolge de [Wet studievoorschot hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0036261) geen basisbeurs toegekend heeft gekregen voor een masteropleiding of voor onderwijs volgend op een opleiding gericht op een levensbeschouwelijk ambt of beroep als bedoeld in [artikel 7.5c, derde lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5c), kan de lening worden aangemerkt als een lening hoger onderwijs als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-06-09&g=2023-06-09), indien de debiteur vóór aanvang van de aflosfase, maar na 31 december 2016, daartoe een aanvraag indient.
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld met het oog op een goede uitvoering van dit artikel.
 
@@ -1537,7 +1551,7 @@ Vervallen
 
 ##### Artikel 13.1. Aanspraak op tegemoetkoming
 
-1. Een student in de laatste fase van diens opleiding die in verband met de uitbraak van COVID-19 studievertraging heeft opgelopen, komt in aanmerking voor een tegemoetkoming, niet zijnde studiefinanciering in de zin van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07).
+1. Een student in de laatste fase van diens opleiding die in verband met de uitbraak van COVID-19 studievertraging heeft opgelopen, komt in aanmerking voor een tegemoetkoming, niet zijnde studiefinanciering in de zin van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09).
 
 2. Bij ministeriële regeling wordt in ieder geval vastgesteld:
 
@@ -1553,7 +1567,7 @@ Vervallen
 
 ##### Artikel 13.2. Omvang tegemoetkoming
 
-De omvang van de tegemoetkoming, bedoeld in [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=13&artikel=13.1&z=2023-04-07&g=2023-04-07), wordt vastgesteld bij ministeriële regeling. Daarbij kan in ieder geval aan de hand van het aantal maanden studievertraging onderscheid worden gemaakt tussen verschillende groepen studenten.
+De omvang van de tegemoetkoming, bedoeld in [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=13&artikel=13.1&z=2023-06-09&g=2023-06-09), wordt vastgesteld bij ministeriële regeling. Daarbij kan in ieder geval aan de hand van het aantal maanden studievertraging onderscheid worden gemaakt tussen verschillende groepen studenten.
 
 ##### Artikel 13.3. Horizonbepaling
 
@@ -1653,7 +1667,7 @@ Deze wet wordt aangehaald als: Wet studiefinanciering 2000.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 12.1c. Afwijking van [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.1c. Afwijking van [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-06-09&g=2023-06-09)
 
 Vervallen
 
@@ -1677,17 +1691,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 10a.1. Reikwijdte
 
-Dit hoofdstuk is uitsluitend van toepassing op debiteuren die voor het studiejaar 2009–2010 voor het eerst studiefinanciering ontvingen, tenzij zij een aanvraag hebben ingediend als bedoeld in [artikel 10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.2&z=2023-04-07&g=2023-04-07).
+Dit hoofdstuk is uitsluitend van toepassing op debiteuren die voor het studiejaar 2009–2010 voor het eerst studiefinanciering ontvingen, tenzij zij een aanvraag hebben ingediend als bedoeld in [artikel 10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.2&z=2023-06-09&g=2023-06-09).
 
 #### Paragraaf 10a.2. Omzettingsprocedure bij overstappen voor 1 februari in eerste studiejaar (voorheen paragraaf 5.4)
 
 ##### Artikel 10a.2. Overstappen
 
-1. Een debiteur die voor het studiejaar 2009–2010 voor het eerst studiefinanciering ontving en voor wie op 31 december 2011 nog geen aflosfase is aangevangen, kan, op aanvraag, zijn schuld aflossen op grond van [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&z=2023-04-07&g=2023-04-07), waarbij de debiteur verzoekt dat de schuld wordt aangemerkt als:
+1. Een debiteur die voor het studiejaar 2009–2010 voor het eerst studiefinanciering ontving en voor wie op 31 december 2011 nog geen aflosfase is aangevangen, kan, op aanvraag, zijn schuld aflossen op grond van [paragraaf 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&z=2023-06-09&g=2023-06-09), waarbij de debiteur verzoekt dat de schuld wordt aangemerkt als:
 
-- a. een lening beroepsonderwijs als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-04-07&g=2023-04-07), of;
+- a. een lening beroepsonderwijs als bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-06-09&g=2023-06-09), of;
 
-- b. een lening hoger onderwijs als bedoeld in[artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-04-07&g=2023-04-07), uitsluitend voor zover het een debiteur betreft als bedoeld in[artikel 12.14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=12&paragraaf=12.2&artikel=12.14&z=2023-04-07&g=2023-04-07).
+- b. een lening hoger onderwijs als bedoeld in[artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-06-09&g=2023-06-09), uitsluitend voor zover het een debiteur betreft als bedoeld in[artikel 12.14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=12&paragraaf=12.2&artikel=12.14&z=2023-06-09&g=2023-06-09).
 
 2. Een debiteur dient een aanvraag als bedoeld in het eerste lid uitsluitend voor de aanvang van zijn aflosfase in.
 
@@ -1695,19 +1709,19 @@ Dit hoofdstuk is uitsluitend van toepassing op debiteuren die voor het studiejaa
 
 #### Paragraaf 9.1. Toezicht
 
-##### Artikel 10a.3. Toepassing artikelen [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-04-07&g=2023-04-07)
+##### Artikel 10a.3. Toepassing artikelen [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-06-09&g=2023-06-09)
 
-De [artikelen 6.1 tot en met 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-04-07&g=2023-04-07), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.8&z=2023-04-07&g=2023-04-07), [6.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9a&z=2023-04-07&g=2023-04-07), [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-04-07&g=2023-04-07), en [6.14 tot en met 6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.14&z=2023-04-07&g=2023-04-07) zijn van overeenkomstige toepassing op debiteuren die onder dit hoofdstuk vallen, waarbij de lening van de debiteur wordt aangemerkt als een lening beroepsonderwijs.
+De [artikelen 6.1 tot en met 6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-06-09&g=2023-06-09), [6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.8&z=2023-06-09&g=2023-06-09), [6.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9a&z=2023-06-09&g=2023-06-09), [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-06-09&g=2023-06-09), en [6.14 tot en met 6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.14&z=2023-06-09&g=2023-06-09) zijn van overeenkomstige toepassing op debiteuren die onder dit hoofdstuk vallen, waarbij de lening van de debiteur wordt aangemerkt als een lening beroepsonderwijs.
 
 ##### Artikel 10a.4. Aflosfase
 
-De aflosfase beslaat behoudens toepassing van [artikel 10a.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.6&z=2023-04-07&g=2023-04-07), 15 kalenderjaren volgend op de aanloopfase. Deze periode wordt verlengd indien [artikel 10a.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.11&z=2023-04-07&g=2023-04-07), van toepassing is.
+De aflosfase beslaat behoudens toepassing van [artikel 10a.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.6&z=2023-06-09&g=2023-06-09), 15 kalenderjaren volgend op de aanloopfase. Deze periode wordt verlengd indien [artikel 10a.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.11&z=2023-06-09&g=2023-06-09), van toepassing is.
 
 #### Paragraaf 6.2. Terugbetaling levenlanglerenkrediet
 
 ##### Artikel 10a.5. Opschorten terugbetaling
 
-1. In afwijking van [artikel 10a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.4&z=2023-04-07&g=2023-04-07) kan een debiteur met ingang van 1 januari 2012 op aanvraag de terugbetaling voor ten hoogste 5 kalenderjaren opschorten.
+1. In afwijking van [artikel 10a.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.4&z=2023-06-09&g=2023-06-09) kan een debiteur met ingang van 1 januari 2012 op aanvraag de terugbetaling voor ten hoogste 5 kalenderjaren opschorten.
 
 2. De aflosfase wordt verlengd met het aantal maanden dat gebruik is gemaakt van de aflosvrije periode op grond van het eerste lid.
 
@@ -1729,11 +1743,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. indien hij na het verstrijken van zijn aanspraak op prestatiebeurs beroepsonderwijs gedurende 36 maanden een lening heeft genoten, of
 
-- b. indien er 10 jaren verstreken zijn met ingang van de maand waarover voor het eerst studiefinanciering in de zin van de [paragrafen 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&z=2023-04-07&g=2023-04-07) of [4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&z=2023-04-07&g=2023-04-07) is toegekend voor het volgen van beroepsonderwijs of op grond van de [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) is toegekend voor het volgen van beroepsonderwijs aan een opleiding niveau 3 of 4.
+- b. indien er 10 jaren verstreken zijn met ingang van de maand waarover voor het eerst studiefinanciering in de zin van de [paragrafen 4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&z=2023-06-09&g=2023-06-09) of [4.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.3&z=2023-06-09&g=2023-06-09) is toegekend voor het volgen van beroepsonderwijs of op grond van de [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) is toegekend voor het volgen van beroepsonderwijs aan een opleiding niveau 3 of 4.
 
-2. In afwijking van het eerste lid, onderdeel b, wordt, indien [artikel 4.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.14&z=2023-04-07&g=2023-04-07), toepassing vindt, de termijn van 10 jaren, genoemd in het eerste lid, onderdeel b, verlengd met de duur van de in dat artikel bedoelde bijzondere omstandigheden.
+2. In afwijking van het eerste lid, onderdeel b, wordt, indien [artikel 4.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.14&z=2023-06-09&g=2023-06-09), toepassing vindt, de termijn van 10 jaren, genoemd in het eerste lid, onderdeel b, verlengd met de duur van de in dat artikel bedoelde bijzondere omstandigheden.
 
-3. In afwijking van het eerste lid, onderdeel b, wordt, indien [artikel 4.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.14&z=2023-04-07&g=2023-04-07), toepassing vindt, de termijn van 10 jaren, genoemd in het eerste lid, onderdeel b, verlengd met 5 jaren.
+3. In afwijking van het eerste lid, onderdeel b, wordt, indien [artikel 4.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.14&z=2023-06-09&g=2023-06-09), toepassing vindt, de termijn van 10 jaren, genoemd in het eerste lid, onderdeel b, verlengd met 5 jaren.
 
 #### Paragraaf 2.3. Hoger onderwijs
 
@@ -1741,7 +1755,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.13a. Buitenlandse opleidingen beroepsonderwijs
 
-1. Dit artikel is niet van toepassing op het levenlanglerenkrediet en op mbo-studenten die op grond van [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-04-07&g=2023-04-07), slechts een tegemoetkoming in de kosten van de toegang tot het onderwijs ontvangen.
+1. Dit artikel is niet van toepassing op het levenlanglerenkrediet en op mbo-studenten die op grond van [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-06-09&g=2023-06-09), slechts een tegemoetkoming in de kosten van de toegang tot het onderwijs ontvangen.
 
 2. Voor studiefinanciering kan een mbo-student in aanmerking komen die is ingeschreven voor het volgen van onderwijs aan een opleiding buiten Nederland:
 
@@ -1795,11 +1809,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 6. Opbouw en terugbetaling studieschuld
 
-#### Paragraaf 6.1. Algemeen
+#### Paragraaf 5.3. Omzettingsprocedure
 
-#### Paragraaf 5.5. Omzettingsprocedure eerste 12 maanden
+#### Paragraaf 5.4. Omzettingsprocedure bij stoppen voor 1 februari of 1 september in eerste studiejaar
 
-#### Paragraaf 5.8. Tenietgaan rente
+#### Paragraaf 5.6. Herkansing voor omzetting eerste 12 maanden
 
 #### Paragraaf 6.1. Algemeen
 
@@ -1817,7 +1831,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 10. Hoger onderwijs; tempobeurs
 
-##### Artikel 12.1aa. Afwijking van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.1aa. Afwijking van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2023-06-09&g=2023-06-09)
 
 Vervallen
 
@@ -1873,15 +1887,15 @@ Deze paragraaf is uitsluitend van toepassing op mbo-studenten die in Nederland e
 
 2. Indien een mbo-student een specialistenopleiding volgt en hij 4 jaren prestatiebeurs beroepsonderwijs heeft genoten, wordt aan hem voor die opleiding op aanvraag gedurende ten hoogste 2 jaren prestatiebeurs beroepsonderwijs verstrekt.
 
-3. Studiefinanciering wordt gedurende in totaal ten hoogste 36 maanden na de perioden, bedoeld in het eerste en tweede lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de [artikelen 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-04-07&g=2023-04-07), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.13&z=2023-04-07&g=2023-04-07) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07), naar de maatstaf van 1 januari 2005 € 787,02 per 1 januari 2023: € 1.028,33. Tevens kan gedurende deze 36 maanden een reisvoorziening worden verstrekt in de vorm van een prestatiebeurs, waarbij het aantal maanden dat op grond van [artikel 4.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6b&z=2023-04-07&g=2023-04-07) reisvoorziening is toegekend in mindering wordt gebracht op dit aantal maanden.
+3. Studiefinanciering wordt gedurende in totaal ten hoogste 36 maanden na de perioden, bedoeld in het eerste en tweede lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de [artikelen 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-06-09&g=2023-06-09), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.13&z=2023-06-09&g=2023-06-09) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09), naar de maatstaf van 1 januari 2005 € 787,02 per 1 januari 2023: € 1.028,33. Tevens kan gedurende deze 36 maanden een reisvoorziening worden verstrekt in de vorm van een prestatiebeurs, waarbij het aantal maanden dat op grond van [artikel 4.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6b&z=2023-06-09&g=2023-06-09) reisvoorziening is toegekend in mindering wordt gebracht op dit aantal maanden.
 
-4. Op aanvraag kan een mbo-student als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-04-07&g=2023-04-07), gedurende de periode bedoeld in het derde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag van de toeslag eenoudergezin, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07).
+4. Op aanvraag kan een mbo-student als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-06-09&g=2023-06-09), gedurende de periode bedoeld in het derde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag van de toeslag eenoudergezin, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09).
 
 ##### Artikel 4.8. Waarde van de reisvoorziening
 
 1. Het deel van de prestatiebeurs beroepsonderwijs dat betrekking heeft op het recht op de reisvoorziening, is gelijk aan een twaalfde deel van de waarde die daarvoor per student door het vervoerbedrijf aan Onze Minister in rekening wordt gebracht. De waarde wordt berekend door de voorlopige vergoeding voor het lopende kalenderjaar te corrigeren naar de correctie die de voorlopige vergoeding voor het tweede daaraan voorafgaande kalenderjaar onderging. Dit deel van de prestatiebeurs beroepsonderwijs wordt niet uitbetaald of verrekend.
 
-2. Indien de prestatiebeurs beroepsonderwijs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet gekoppeld is aan een drager als bedoeld in [artikel 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-04-07&g=2023-04-07). In afwijking van [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.2&z=2023-04-07&g=2023-04-07) is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in [artikel 3.24, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-04-07&g=2023-04-07), is toegekend.
+2. Indien de prestatiebeurs beroepsonderwijs niet kan worden omgezet in een gift, wordt de tegenwaarde van de reisvoorziening kwijtgescholden over een maand waarover het reisproduct niet gekoppeld is aan een drager als bedoeld in [artikel 3.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.25&z=2023-06-09&g=2023-06-09). In afwijking van [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.2&z=2023-06-09&g=2023-06-09) is bepalend de toestand op enig moment van de maand. De over het kwijt te schelden bedrag opgebouwde rente gaat dan teniet. De kwijtschelding is niet van toepassing op een maand waarin een vergoeding als bedoeld in [artikel 3.24, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-06-09&g=2023-06-09), is toegekend.
 
 ##### Artikel 4.9. Diplomatermijn beroepsonderwijs
 
@@ -1889,9 +1903,9 @@ De diplomatermijn beroepsonderwijs is een periode van 10 jaren. Deze periode van
 
 ##### Artikel 4.10. Omzetting in gift bij afstuderen binnen diplomatermijn
 
-1. Indien een mbo-student binnen de diplomatermijn beroepsonderwijs het afsluitend examen van een opleiding niveau 3 of 4 met goed gevolg heeft afgelegd, wordt de aan hem ingevolge [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-04-07&g=2023-04-07), toegekende prestatiebeurs beroepsonderwijs omgezet in een gift.
+1. Indien een mbo-student binnen de diplomatermijn beroepsonderwijs het afsluitend examen van een opleiding niveau 3 of 4 met goed gevolg heeft afgelegd, wordt de aan hem ingevolge [artikel 4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-06-09&g=2023-06-09), toegekende prestatiebeurs beroepsonderwijs omgezet in een gift.
 
-2. Indien een mbo-student binnen de diplomatermijn beroepsonderwijs het afsluitend examen van een specialistenopleiding met goed gevolg heeft afgelegd, wordt de aan hem ingevolge [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-04-07&g=2023-04-07), toegekende prestatiebeurs beroepsonderwijs omgezet in een gift.
+2. Indien een mbo-student binnen de diplomatermijn beroepsonderwijs het afsluitend examen van een specialistenopleiding met goed gevolg heeft afgelegd, wordt de aan hem ingevolge [artikel 4.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-06-09&g=2023-06-09), toegekende prestatiebeurs beroepsonderwijs omgezet in een gift.
 
 3. Indien een mbo-student binnen de diplomatermijn beroepsonderwijs het afsluitend examen van een opleiding niveau 3 of 4 met goed gevolg heeft afgelegd, wordt de resterende periode van zijn prestatiebeurs beroepsonderwijs verstrekt in de vorm van een gift indien hij een andere opleiding niveau 3 of 4 aanvangt.
 
@@ -1933,21 +1947,21 @@ Bij omzetting van de prestatiebeurs beroepsonderwijs of een deel daarvan in een 
 
 ##### Artikel 4.16. Reikwijdte beroepsonderwijs buiten Nederland
 
-Deze afdeling is uitsluitend van toepassing op mbo-studenten die zijn ingeschreven voor het volgen van beroepsonderwijs als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-04-07&g=2023-04-07).
+Deze afdeling is uitsluitend van toepassing op mbo-studenten die zijn ingeschreven voor het volgen van beroepsonderwijs als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-06-09&g=2023-06-09).
 
 #### Paragraaf 4.2.1. Algemeen
 
 ##### Artikel 4.17. Reikwijdte
 
-Deze paragraaf is uitsluitend van toepassing op mbo-studenten die zijn ingeschreven voor het volgen van een opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-04-07&g=2023-04-07) en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 1 of 2.
+Deze paragraaf is uitsluitend van toepassing op mbo-studenten die zijn ingeschreven voor het volgen van een opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-06-09&g=2023-06-09) en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 1 of 2.
 
 ##### Artikel 4.18. Studiefinanciering
 
 1. Studiefinanciering wordt gedurende ten hoogste 4 jaren verstrekt in de vorm van een gift.
 
-2. Studiefinanciering wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de [artikelen 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-04-07&g=2023-04-07), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.13&z=2023-04-07&g=2023-04-07) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07), naar de maatstaf van 1 januari 2004 € 770,53 per 1 januari 2023: € 1.028,33. Tevens kan gedurende deze 36 maanden een reisvoorziening worden verstrekt in de vorm van een gift.
+2. Studiefinanciering wordt gedurende 36 maanden na de periode, bedoeld in het eerste lid, verstrekt in de vorm van een lening. Het bedrag dat per maand kan worden geleend, bedraagt in afwijking van de [artikelen 3.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-06-09&g=2023-06-09), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.13&z=2023-06-09&g=2023-06-09) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09), naar de maatstaf van 1 januari 2004 € 770,53 per 1 januari 2023: € 1.028,33. Tevens kan gedurende deze 36 maanden een reisvoorziening worden verstrekt in de vorm van een gift.
 
-3. Op aanvraag kan een mbo-student als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-04-07&g=2023-04-07), gedurende de periode, bedoeld in het tweede lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag van de toeslag eenoudergezin, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07).
+3. Op aanvraag kan een mbo-student als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.5&z=2023-06-09&g=2023-06-09), gedurende de periode, bedoeld in het tweede lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag van de toeslag eenoudergezin, bedoeld in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09).
 
 ##### Artikel 4.19. Studievoortgang
 
@@ -1957,23 +1971,23 @@ Deze paragraaf is uitsluitend van toepassing op mbo-studenten die zijn ingeschre
 
 ##### Artikel 4.20. Reikwijdte
 
-Deze paragraaf is uitsluitend van toepassing op mbo-studenten die zijn ingeschreven voor het volgen van een opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-04-07&g=2023-04-07) en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 3 of 4.
+Deze paragraaf is uitsluitend van toepassing op mbo-studenten die zijn ingeschreven voor het volgen van een opleiding buiten Nederland als bedoeld in [artikel 2.13a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.13a&z=2023-06-09&g=2023-06-09) en waarvan Onze Minister heeft vastgesteld dat deze wordt aangemerkt als een opleiding niveau 3 of 4.
 
 ##### Artikel 4.21. Studiefinanciering
 
-1. De [artikelen 4.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6b&z=2023-04-07&g=2023-04-07), [4.7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-04-07&g=2023-04-07), [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.8&z=2023-04-07&g=2023-04-07), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.9&z=2023-04-07&g=2023-04-07), [4.10, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.10&z=2023-04-07&g=2023-04-07), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.11&z=2023-04-07&g=2023-04-07), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.12&z=2023-04-07&g=2023-04-07), [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.13&z=2023-04-07&g=2023-04-07), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.14&z=2023-04-07&g=2023-04-07) en [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.15&z=2023-04-07&g=2023-04-07) zijn van overeenkomstige toepassing.
+1. De [artikelen 4.6b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6b&z=2023-06-09&g=2023-06-09), [4.7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-06-09&g=2023-06-09), [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.8&z=2023-06-09&g=2023-06-09), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.9&z=2023-06-09&g=2023-06-09), [4.10, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.10&z=2023-06-09&g=2023-06-09), [4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.11&z=2023-06-09&g=2023-06-09), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.12&z=2023-06-09&g=2023-06-09), [4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.13&z=2023-06-09&g=2023-06-09), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.14&z=2023-06-09&g=2023-06-09) en [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.15&z=2023-06-09&g=2023-06-09) zijn van overeenkomstige toepassing.
 
-2. [Artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.19&z=2023-04-07&g=2023-04-07) is van overeenkomstige toepassing voor zover de studiefinanciering in de vorm van een gift is toegekend.
+2. [Artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&paragraaf=4.2.2&artikel=4.19&z=2023-06-09&g=2023-06-09) is van overeenkomstige toepassing voor zover de studiefinanciering in de vorm van een gift is toegekend.
 
 ##### Artikel 4.22. Berichtenstroom tussen mbo-student en Minister
 
 1. De mbo-student zendt uiterlijk 3 maanden na het verstrijken van de diplomatermijn beroepsonderwijs, een gewaarmerkt bewijs van het met goed gevolg afleggen van het afsluitend examen van de opleiding aan Onze Minister en dient daarbij een aanvraag in tot omzetting van de prestatiebeurs beroepsonderwijs. Op het gewaarmerkt bewijs vermeldt de instelling de datum waarop het examen met goed gevolg is afgesloten.
 
-2. De omzetting, bedoeld in [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.10&z=2023-04-07&g=2023-04-07), vindt plaats uiterlijk per 1 januari van het kalenderjaar volgend op de aanvraag. Zo spoedig mogelijk na de omzetting stelt Onze Minister de mbo-student daarvan in kennis.
+2. De omzetting, bedoeld in [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.10&z=2023-06-09&g=2023-06-09), vindt plaats uiterlijk per 1 januari van het kalenderjaar volgend op de aanvraag. Zo spoedig mogelijk na de omzetting stelt Onze Minister de mbo-student daarvan in kennis.
 
 #### Paragraaf 4.2.4. Afwijkingsmogelijkheid [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&z=2007-01-01&g=2007-01-01)
 
-##### Artikel 4.23. Afwijkingsmogelijkheid [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&z=2023-04-07&g=2023-04-07)
+##### Artikel 4.23. Afwijkingsmogelijkheid [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&z=2023-06-09&g=2023-06-09)
 
 Voor zover deze afdeling daarin niet voorziet, alsmede indien noodzakelijk, kunnen in afwijking van het in deze afdeling bepaalde bij ministeriële regeling regels worden vastgesteld ten behoeve van een goede uitvoering van deze afdeling.
 
@@ -1985,9 +1999,9 @@ Voor zover deze afdeling daarin niet voorziet, alsmede indien noodzakelijk, kunn
 
 #### Paragraaf 5.3. Omzettingsprocedure
 
-#### Paragraaf 5.1. Algemeen
+#### Paragraaf 4.2.4. Afwijkingsmogelijkheid [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&z=2023-06-09&g=2023-06-09)
 
-#### Paragraaf 5.5. Omzettingsprocedure eerste 12 maanden
+#### Paragraaf 5.1. Algemeen
 
 #### Paragraaf 5.6. Herkansing voor omzetting eerste 12 maanden
 
@@ -2001,13 +2015,13 @@ Voor zover deze afdeling daarin niet voorziet, alsmede indien noodzakelijk, kunn
 
 #### Paragraaf 6.2. Terugbetaling levenlanglerenkrediet
 
-#### Paragraaf 9.3. Administratieve sanctie
+#### Paragraaf 6.2. Terugbetaling levenlanglerenkrediet
 
 ### Hoofdstuk 10A. Hoger onderwijs; omzetting eerste 12 maanden
 
 #### Paragraaf 10a.1. Algemeen
 
-#### Paragraaf 9.2. Verstrekken van inlichtingen
+#### Paragraaf 9.1. Toezicht
 
 #### Paragraaf 10a.1. Algemeen
 
@@ -2021,7 +2035,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12.1d. Overgangssituatie alleenstaande-ouderkorting
 
-In afwijking van de [artikelen 3.9, tweede lid, vijfde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.12&z=2023-04-07&g=2023-04-07), [6.10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-04-07&g=2023-04-07), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.13&z=2023-04-07&g=2023-04-07), [10a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.8&z=2023-04-07&g=2023-04-07), en [10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.9&z=2023-04-07&g=2023-04-07) wordt bepaald of voor de ouder onderscheidenlijk de debiteur in het desbetreffende jaar de alleenstaande-ouderkorting, bedoeld in [artikel 8.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.15), zoals dat artikel in dat jaar luidde, van toepassing is, voor zover de [Wet hervorming kindregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035259) in dat jaar nog niet in werking is getreden.
+In afwijking van de [artikelen 3.9, tweede lid, vijfde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.12&z=2023-06-09&g=2023-06-09), [6.10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.10&z=2023-06-09&g=2023-06-09), [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.13&z=2023-06-09&g=2023-06-09), [10a.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.8&z=2023-06-09&g=2023-06-09), en [10a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.9&z=2023-06-09&g=2023-06-09) wordt bepaald of voor de ouder onderscheidenlijk de debiteur in het desbetreffende jaar de alleenstaande-ouderkorting, bedoeld in [artikel 8.15 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.15), zoals dat artikel in dat jaar luidde, van toepassing is, voor zover de [Wet hervorming kindregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035259) in dat jaar nog niet in werking is getreden.
 
 ### Hoofdstuk 13. Wijzigingen in andere wetten
 
@@ -2055,7 +2069,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 4.2.2. Opleiding niveau 1 of 2 buiten Nederland
 
-#### Paragraaf 4.2.4. Afwijkingsmogelijkheid [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&z=2017-01-01&g=2017-01-01)
+#### Paragraaf 4.2.3. Opleiding niveau 3 of 4 buiten Nederland
 
 #### Paragraaf 5.1. Algemeen
 
@@ -2083,7 +2097,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. De in het eerste lid bedoelde verantwoordelijke autoriteit toont voor de verstrekking van persoonsgegevens aan dat de student ten laste van die autoriteit een tegemoetkoming in de kosten voor de toegang tot het onderwijs of voor levensonderhoud heeft aangevraagd dan wel reeds ontvangt.
 
-3. Onze Minister kan, voor de uitvoering van de wet, inlichtingen over een student die studiefinanciering aanvraagt dan wel reeds ontvangt, opvragen bij het bevoegd gezag van een andere staat waar de student een opleiding wil gaan volgen of volgt met studiefinanciering op grond van [artikel 2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-04-07&g=2023-04-07).
+3. Onze Minister kan, voor de uitvoering van de wet, inlichtingen over een student die studiefinanciering aanvraagt dan wel reeds ontvangt, opvragen bij het bevoegd gezag van een andere staat waar de student een opleiding wil gaan volgen of volgt met studiefinanciering op grond van [artikel 2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-06-09&g=2023-06-09).
 
 ##### Artikel 9.6c. Gegevensuitwisseling met landen buiten de Europese Economische Ruimte
 
@@ -2107,7 +2121,7 @@ Vervallen
 
 ### Hoofdstuk 10. Hoger onderwijs; tempobeurs
 
-##### Artikel 12.1ba. Aanspraken op grond van de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2023-04-07&g=2023-04-07) en [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2023-04-07&g=2023-04-07) en afwijking van [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.1ba. Aanspraken op grond van de [artikelen 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.3&artikel=2.12&z=2023-06-09&g=2023-06-09) en [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2023-06-09&g=2023-06-09) en afwijking van [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-06-09&g=2023-06-09)
 
 Vervallen
 
@@ -2119,7 +2133,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.17. Rechtens ontnomen vrijheid
 
-1. Een mbo-student wiens vrijheid voor ten minste een maand rechtens is ontnomen, heeft, behoudens in de gevallen, bedoeld in de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), in de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) en in [artikel 2.3 van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.3) en de gevallen, bedoeld in [hoofdstuk 6 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=6), met ingang van de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming ten minste één maand heeft geduurd slechts aanspraak op studiefinanciering voor een thuiswonende mbo-student.
+1. Een student wiens vrijheid voor ten minste een maand rechtens is ontnomen, heeft, behoudens in de gevallen, bedoeld in de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635), in de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) en in [artikel 2.3 van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.3) en de gevallen, bedoeld in [hoofdstuk 6 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=6), met ingang van de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming ten minste één maand heeft geduurd slechts aanspraak op studiefinanciering voor een thuiswonende student.
 
 2. Voor de toepassing van het eerste lid worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
 
@@ -2141,7 +2155,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Afdeling 4.1. Beroepsonderwijs in Nederland
 
-#### Paragraaf 4.1.1. Studiefinanciering in de vorm van gift of lening
+#### Paragraaf 3.7. Vorm, wijze van toekenning en voorwaarden reisvoorziening
 
 ### Afdeling 4.2. Beroepsonderwijs buiten Nederland
 
@@ -2151,7 +2165,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 5. Hoger onderwijs; prestatiebeurs
 
-#### Paragraaf 5.1. Algemeen
+#### Paragraaf 4.2.1. Algemeen
 
 #### Paragraaf 4.2.4. Afwijkingsmogelijkheid [afdeling 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.2&z=2023-04-07&g=2023-04-07)
 
@@ -2169,7 +2183,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 10a. Opbouw en terugbetaling studieschuld; «oude» debiteuren
 
-#### Paragraaf 9.3. Bestuursrechtelijke geldschulden en bestuurlijke boete
+#### Paragraaf 9.2. Verstrekken van inlichtingen
 
 #### Paragraaf 9.4. Strafbepalingen
 
@@ -2179,9 +2193,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 10a. Opbouw en terugbetaling studieschuld; «oude» debiteuren
 
-##### Artikel 12.1ca. Afwijking van [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.1ca. Afwijking van [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2023-06-09&g=2023-06-09)
 
-Voor een student die reeds vóór 1 juli 2009 studiefinanciering ontving en wiens vrijheid op 30 juni 2009 rechtens was ontnomen, wordt voor de toepassing van [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2023-04-07&g=2023-04-07), zoals dat luidde op 31 juli 2015, als eerste dag waarop de vrijheidsontneming plaatsvindt, aangemerkt 1 juli 2009 en eindigt de aanspraak op studiefinanciering voor uitwonenden in afwijking van artikel 2.17, eerste lid, vanaf de dag dat deze vrijheidsontneming zes maanden heeft geduurd. De beëindiging gaat in op de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming als bedoeld in de eerste zin zes maanden heeft geduurd.
+Voor een student die reeds vóór 1 juli 2009 studiefinanciering ontving en wiens vrijheid op 30 juni 2009 rechtens was ontnomen, wordt voor de toepassing van [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.17&z=2023-06-09&g=2023-06-09), zoals dat luidde op 31 juli 2015, als eerste dag waarop de vrijheidsontneming plaatsvindt, aangemerkt 1 juli 2009 en eindigt de aanspraak op studiefinanciering voor uitwonenden in afwijking van artikel 2.17, eerste lid, vanaf de dag dat deze vrijheidsontneming zes maanden heeft geduurd. De beëindiging gaat in op de eerste dag van de maand volgend op de maand waarin de vrijheidsontneming als bedoeld in de eerste zin zes maanden heeft geduurd.
 
 ### Hoofdstuk 11. Overige bepalingen
 
@@ -2189,9 +2203,9 @@ Voor een student die reeds vóór 1 juli 2009 studiefinanciering ontving en wien
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 12.10a. Afwijking van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.10a. Afwijking van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-06-09&g=2023-06-09)
 
-Het rentepercentage voor leningen aangegaan voor 1 januari 1992 is in afwijking van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-04-07&g=2023-04-07), 1,65 procentpunt lager dan het in dat artikel bedoelde rentepercentage, en wordt, indien het rentepercentage, vastgesteld overeenkomstig artikel 6.3, 1,65 procent of lager bedraagt, gesteld op nul.
+Het rentepercentage voor leningen aangegaan voor 1 januari 1992 is in afwijking van [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2023-06-09&g=2023-06-09), 1,65 procentpunt lager dan het in dat artikel bedoelde rentepercentage, en wordt, indien het rentepercentage, vastgesteld overeenkomstig artikel 6.3, 1,65 procent of lager bedraagt, gesteld op nul.
 
 ### Hoofdstuk 13. Wijzigingen in andere wetten
 
@@ -2211,9 +2225,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. ieder vijfde jaar na het vierde jaar van de aflosfase.
 
-3. Onverminderd [artikel 10a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.7&z=2023-04-07&g=2023-04-07), bedraagt het totaal per jaar te betalen bedrag aan maandelijkse termijnbetalingen ten minste € 545,–.
+3. Onverminderd [artikel 10a.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.7&z=2023-06-09&g=2023-06-09), bedraagt het totaal per jaar te betalen bedrag aan maandelijkse termijnbetalingen ten minste € 545,–.
 
-4. Rente en aflossing van de lening van een debiteur die in het buitenland woont, vervallen, in afwijking van het eerste lid, gedurende de aflosfase in jaarlijkse termijnen. Indien die debiteur zich voor het einde van een jaartermijn metterwoon in Nederland vestigt, wordt hij tot het einde van die jaartermijn behandeld als een debiteur die in het buitenland woont. De [artikelen 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-04-07&g=2023-04-07) en [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.6&z=2023-04-07&g=2023-04-07) zijn in dat geval van overeenkomstige toepassing. Op aanvraag van een in de eerste volzin bedoelde debiteur besluit Onze Minister dat de rente en aflossing van de lening niet vervallen in jaarlijkse termijnen maar in maandelijkse termijnen.
+4. Rente en aflossing van de lening van een debiteur die in het buitenland woont, vervallen, in afwijking van het eerste lid, gedurende de aflosfase in jaarlijkse termijnen. Indien die debiteur zich voor het einde van een jaartermijn metterwoon in Nederland vestigt, wordt hij tot het einde van die jaartermijn behandeld als een debiteur die in het buitenland woont. De [artikelen 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-06-09&g=2023-06-09) en [6.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.6&z=2023-06-09&g=2023-06-09) zijn in dat geval van overeenkomstige toepassing. Op aanvraag van een in de eerste volzin bedoelde debiteur besluit Onze Minister dat de rente en aflossing van de lening niet vervallen in jaarlijkse termijnen maar in maandelijkse termijnen.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de vaststelling en betaling van de termijnbetalingen.
 
@@ -2251,7 +2265,7 @@ Indien het na het peiljaar een debiteur betreft die ouder zonder partner is of v
 
 ##### Artikel 10a.10. Draagkracht partner van debiteur
 
-1. Indien de debiteur op grond van zijn draagkracht niet in staat is de vastgestelde termijnbetaling te betalen, wordt de draagkracht van de partner berekend overeenkomstig de artikelen [10a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.7&z=2023-04-07&g=2023-04-07), [10a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.8&z=2023-04-07&g=2023-04-07), [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-04-07&g=2023-04-07) en [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.13&z=2023-04-07&g=2023-04-07).
+1. Indien de debiteur op grond van zijn draagkracht niet in staat is de vastgestelde termijnbetaling te betalen, wordt de draagkracht van de partner berekend overeenkomstig de artikelen [10a.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.7&z=2023-06-09&g=2023-06-09), [10a.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.8&z=2023-06-09&g=2023-06-09), [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.12&z=2023-06-09&g=2023-06-09) en [6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.13&z=2023-06-09&g=2023-06-09).
 
 2. Indien de draagkracht van de debiteur niet voldoende is voor het betalen van de termijnbetaling wordt de draagkracht van de partner aangewend voor het resterende gedeelte.
 
@@ -2263,23 +2277,23 @@ Indien het na het peiljaar een debiteur betreft die ouder zonder partner is of v
 
 ##### Artikel 10a.12. Beide partners debiteur hoofdstuk 10a
 
-Indien de partner van de debiteur ook een debiteur is en op beide debiteuren hoofdstuk 10a van toepassing is, wordt zijn draagkracht eerst aangewend voor de eigen termijnbetaling. Op het bedrag dat aan draagkracht resteert is [artikel 10a.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.10&z=2023-04-07&g=2023-04-07), van overeenkomstige toepassing.
+Indien de partner van de debiteur ook een debiteur is en op beide debiteuren hoofdstuk 10a van toepassing is, wordt zijn draagkracht eerst aangewend voor de eigen termijnbetaling. Op het bedrag dat aan draagkracht resteert is [artikel 10a.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.10&z=2023-06-09&g=2023-06-09), van overeenkomstige toepassing.
 
-##### Artikel 10a.13. Partner debiteur [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-04-07&g=2023-04-07)
+##### Artikel 10a.13. Partner debiteur [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-06-09&g=2023-06-09)
 
-1. Indien de partner van de debiteur een debiteur is op wie [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-04-07&g=2023-04-07) van toepassing is, blijft [artikel 10a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.10&z=2023-04-07&g=2023-04-07), buiten toepassing.
+1. Indien de partner van de debiteur een debiteur is op wie [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-06-09&g=2023-06-09) van toepassing is, blijft [artikel 10a.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.10&z=2023-06-09&g=2023-06-09), buiten toepassing.
 
-2. Bij de toepassing van [artikel 10a.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.10&z=2023-04-07&g=2023-04-07), wordt de draagkracht van de debiteur op wie [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-04-07&g=2023-04-07) van toepassing is, aangewend, voor zover het bedrag van de draagkracht groter is dan de vastgestelde termijnbetaling, bedoeld in [artikel 6.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-04-07&g=2023-04-07).
+2. Bij de toepassing van [artikel 10a.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=10a&artikel=10a.10&z=2023-06-09&g=2023-06-09), wordt de draagkracht van de debiteur op wie [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&z=2023-06-09&g=2023-06-09) van toepassing is, aangewend, voor zover het bedrag van de draagkracht groter is dan de vastgestelde termijnbetaling, bedoeld in [artikel 6.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-06-09&g=2023-06-09).
 
-### Hoofdstuk 10a. Opbouw en terugbetaling studieschuld; «oude» debiteuren
+### Hoofdstuk 10. Hoger onderwijs; tempobeurs
 
-### Hoofdstuk 13. Wijzigingen in andere wetten
+### Hoofdstuk 11. Overige bepalingen
 
 ### Hoofdstuk 13. Wijzigingen in andere wetten
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 12.10b. Tijdelijke afwijking van [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=11&artikel=11.1&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.10b. Tijdelijke afwijking van [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=11&artikel=11.1&z=2023-06-09&g=2023-06-09)
 
 Vervallen
 
@@ -2295,7 +2309,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 ### Hoofdstuk 12. Overgangsbepalingen
 
-##### Artikel 12.1a0. Afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2023-04-07&g=2023-04-07)
+##### Artikel 12.1a0. Afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2023-06-09&g=2023-06-09)
 
 Vervallen
 
@@ -2305,9 +2319,9 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 9.1a. Toezicht in verband met [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-04-07&g=2023-04-07)
+##### Artikel 9.1a. Toezicht in verband met [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-06-09&g=2023-06-09)
 
-1. Met het toezicht op de naleving van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-04-07&g=2023-04-07) zijn belast:
+1. Met het toezicht op de naleving van [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-06-09&g=2023-06-09) zijn belast:
 
 - a. de bij besluit van Onze Minister aangewezen ambtenaren of andere personen,
 
@@ -2321,7 +2335,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 9.1b. Informatie-uitwisseling
 
-1. De toezichthouders, bedoeld in [artikel 9.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.1&artikel=9.1a&z=2023-04-07&g=2023-04-07), en Onze Minister wisselen de persoonsgegevens en inlichtingen uit die nodig zijn voor de uitoefening van het toezicht onder vermelding van het burgerservicenummer of, bij het ontbreken daarvan, het onderwijsnummer van de mbo-student op wie de persoonsgegevens of inlichtingen betrekking hebben.
+1. De toezichthouders, bedoeld in [artikel 9.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.1&artikel=9.1a&z=2023-06-09&g=2023-06-09), en Onze Minister wisselen de persoonsgegevens en inlichtingen uit die nodig zijn voor de uitoefening van het toezicht onder vermelding van het burgerservicenummer of, bij het ontbreken daarvan, het onderwijsnummer van de student op wie de persoonsgegevens of inlichtingen betrekking hebben.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van verstrekking van persoonsgegevens en inlichtingen op grond van het eerste lid en wordt een nadere specificatie gegeven van de persoonsgegevens en inlichtingen die op grond van het eerste lid worden verwerkt.
 
@@ -2329,19 +2343,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 9.1. Toezicht
 
-##### Artikel 9.9a. Geen aanspraak meer bij tweede maal niet voldoen aan verplichtingen [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-04-07&g=2023-04-07) door mbo-student
+##### Artikel 9.9a. Geen aanspraak meer bij tweede maal niet voldoen aan verplichtingen [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-06-09&g=2023-06-09)
 
-1. Indien Onze Minister de mbo-student een bestuurlijke boete als bedoeld in [artikel 9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.3&artikel=9.9&z=2023-04-07&g=2023-04-07), heeft opgelegd en de mbo-student heeft, nadat voormelde bestuurlijke boete onherroepelijk is geworden, voor een tweede maal niet voldaan aan de verplichtingen, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-04-07&g=2023-04-07), kan Onze Minister hem een bestuurlijke boete opleggen van ten hoogste 100 procent van het bedrag dat van de mbo-student in verband daarmee wordt teruggevorderd bij een herziening.
+1. Indien Onze Minister de student een bestuurlijke boete als bedoeld in [artikel 9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.3&artikel=9.9&z=2023-06-09&g=2023-06-09), heeft opgelegd en de student heeft, nadat voormelde bestuurlijke boete onherroepelijk is geworden, voor een tweede maal niet voldaan aan de verplichtingen, bedoeld in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.5&z=2023-06-09&g=2023-06-09), kan Onze Minister hem een bestuurlijke boete opleggen van ten hoogste 100 procent van het bedrag dat van de student in verband daarmee wordt teruggevorderd bij een herziening.
 
-2. De herziening vindt plaats met ingang van de dag na de laatste dag van de periode waarop de herziening, bedoeld in [artikel 9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.3&artikel=9.9&z=2023-04-07&g=2023-04-07), ziet of, indien dit een latere datum betreft, de dag van de laatste adreswijziging van de mbo-student in de basisregistratie personen. Indien de ouders van de mbo-student of een van hen na de laatste dag van de periode waarop de herziening, bedoeld in artikel 9.9, eerste lid, ziet of na de laatste adreswijziging, bedoeld in de vorige volzin, zijn of is ingeschreven op hetzelfde woonadres als de mbo-student, dan vindt de herziening plaats met ingang van de dag van deze adreswijziging.
+2. De herziening vindt plaats met ingang van de dag na de laatste dag van de periode waarop de herziening, bedoeld in [artikel 9.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=9&paragraaf=9.3&artikel=9.9&z=2023-06-09&g=2023-06-09), ziet of, indien dit een latere datum betreft, de dag van de laatste adreswijziging van de student in de basisregistratie personen. Indien de ouders van de student of een van hen na de laatste dag van de periode waarop de herziening, bedoeld in artikel 9.9, eerste lid, ziet of na de laatste adreswijziging, bedoeld in de vorige volzin, zijn of is ingeschreven op hetzelfde woonadres als de student, dan vindt de herziening plaats met ingang van de dag van deze adreswijziging.
 
-3. Indien Onze Minister de mbo-student een boete als bedoeld in het eerste lid heeft opgelegd kan hij tevens beslissen dat elke aanspraak op studiefinanciering vervalt.
+3. Indien Onze Minister de student een boete als bedoeld in het eerste lid heeft opgelegd kan hij tevens beslissen dat elke aanspraak op studiefinanciering vervalt.
 
 4. Degene aan wie een bestuurlijke boete is opgelegd is verplicht desgevraagd aan Onze Minister de inlichtingen te verstrekken die voor de tenuitvoerlegging van de bestuurlijke boete van belang zijn.
 
 #### Paragraaf 9.1. Toezicht
 
-### Hoofdstuk 9. Toezicht en sancties
+### Hoofdstuk 8. Uitbetaling, verrekening en invordering
 
 ### Hoofdstuk 10a. Opbouw en terugbetaling studieschuld; «oude» debiteuren
 
@@ -2355,7 +2369,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12.9a. Reeds toegekende reisvoorziening
 
-Op een ho-student aan wie vóór 1 september 2012 een reisvoorziening is toegekend, blijft ten aanzien van deze toegekende reisvoorziening [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2023-04-07&g=2023-04-07), zoals dat artikel luidde op 31 augustus 2012, van toepassing.
+Op een ho-student aan wie vóór 1 september 2012 een reisvoorziening is toegekend, blijft ten aanzien van deze toegekende reisvoorziening [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2023-06-09&g=2023-06-09), zoals dat artikel luidde op 31 augustus 2012, van toepassing.
 
 ### Hoofdstuk 13. Wijzigingen in andere wetten
 
@@ -2365,9 +2379,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12.10a1. langstudeerders geen rente verschuldigd
 
-In afwijking van [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-04-07&g=2023-04-07) wordt er geen rente berekend over collegegeldkrediet ten behoeve van de opslag, als bedoeld in [artikel 7.45, eerste lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.45), zoals dat luidde op 1 september 2011, indien het daarvoor geleende bedrag vóór 1 maart 2013 wordt teruggestort.
+In afwijking van [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2023-06-09&g=2023-06-09) wordt er geen rente berekend over collegegeldkrediet ten behoeve van de opslag, als bedoeld in [artikel 7.45, eerste lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.45), zoals dat luidde op 1 september 2011, indien het daarvoor geleende bedrag vóór 1 maart 2013 wordt teruggestort.
 
-### Hoofdstuk 13. Wijzigingen in andere wetten
+### Hoofdstuk 12. Overgangsbepalingen
 
 ### Hoofdstuk 14. Slotbepalingen
 
@@ -2375,9 +2389,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.3a. Leeftijd levenlanglerenkrediet
 
-1. In afwijking van [artikel 2.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2023-04-07&g=2023-04-07), kan een mbo-student voor levenlanglerenkrediet in aanmerking komen die 30 jaren of ouder is maar nog niet de maximumleeftijd heeft bereikt.
+1. In afwijking van [artikel 2.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2023-06-09&g=2023-06-09), kan een mbo-student voor levenlanglerenkrediet in aanmerking komen die 30 jaren of ouder is maar nog niet de maximumleeftijd heeft bereikt.
 
-2. In afwijking van [artikel 2.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2023-04-07&g=2023-04-07), kan een ho-student voor levenlanglerenkrediet in aanmerking komen die nog niet de maximumleeftijd heeft bereikt.
+2. In afwijking van [artikel 2.3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.1&artikel=2.3&z=2023-06-09&g=2023-06-09), kan een ho-student voor levenlanglerenkrediet in aanmerking komen die nog niet de maximumleeftijd heeft bereikt.
 
 3. In afwijking van het eerste en tweede lid behoudt een student bij het bereiken van de maximumleeftijd zijn aanspraak, zolang hij zonder onderbreking levenlanglerenkrediet geniet.
 
@@ -2391,7 +2405,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.7b. Uitzondering levenlanglerenkrediet
 
-De [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2023-04-07&g=2023-04-07) en [2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.7a&z=2023-04-07&g=2023-04-07) zijn niet van toepassing op het levenlanglerenkrediet.
+De [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2023-06-09&g=2023-06-09) en [2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.7a&z=2023-06-09&g=2023-06-09) zijn niet van toepassing op het levenlanglerenkrediet.
 
 #### Paragraaf 2.3. Hoger onderwijs
 
@@ -2405,11 +2419,11 @@ De [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&p
 
 ##### Artikel 3.9a. Berekeningsgrondslag veronderstelde ouderlijke bijdrage hoger onderwijs
 
-[Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07) is van overeenkomstige toepassing op de bepaling van de veronderstelde ouderlijke bijdrage voor ho-studenten, met dien verstande dat:
+[Artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09) is van overeenkomstige toepassing op de bepaling van de veronderstelde ouderlijke bijdrage voor ho-studenten, met dien verstande dat:
 
-- a. voor de vrije voet, bedoeld in [artikel 3.9, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07), naar de maatstaf van 1 januari 2014 een bedrag wordt gelezen gelijk aan € 15.000 per 1 januari 2023: € 17.613,07; en
+- a. voor de vrije voet, bedoeld in [artikel 3.9, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09), naar de maatstaf van 1 januari 2014 een bedrag wordt gelezen gelijk aan € 15.000 per 1 januari 2023: € 17.613,07; en
 
-- b. voor de vrije voet, bedoeld in [artikel 3.9, tweede lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-04-07&g=2023-04-07), naar de maatstaf van 1 januari 2014 een bedrag wordt gelezen gelijk aan € 19.004 per 1 januari 2023: € 22.314,61.
+- b. voor de vrije voet, bedoeld in [artikel 3.9, tweede lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-06-09&g=2023-06-09), naar de maatstaf van 1 januari 2014 een bedrag wordt gelezen gelijk aan € 19.004 per 1 januari 2023: € 22.314,61.
 
 ##### Artikel 3.16b. Levenlanglerenkrediet: aanspraak
 
@@ -2417,7 +2431,7 @@ De [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&p
 
 2. Het levenlanglerenkrediet wordt slechts verstrekt:
 
-- a. indien de student niet in aanmerking komt voor studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07);
+- a. indien de student niet in aanmerking komt voor studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09);
 
 - b. in geval het krediet wordt gevraagd voor een voltijdse of duale opleiding in het hoger onderwijs en de ho-student nog niet de leeftijd van dertig jaren heeft bereikt, die ho-student een hbo-bacheloropleiding als bedoeld in [artikel 7.3a, tweede lid, onderdeel b, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a) of het geheel van een wo-bacheloropleiding en een wo-masteropleiding als bedoeld in artikel 7.3a, eerste lid, onderdelen a en b, WHW met goed gevolg heeft afgesloten; en
 
@@ -2425,7 +2439,7 @@ De [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&p
 
 3. Bij algemene maatregel van bestuur kunnen gronden worden vastgesteld op basis waarvan een aanvraag gelet op terugbetalingsrisico’s kan worden geweigerd.
 
-4. De [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&z=2023-04-07&g=2023-04-07) en[5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&z=2023-04-07&g=2023-04-07) zijn niet van toepassing op het levenlanglerenkrediet.
+4. De [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&z=2023-06-09&g=2023-06-09) en[5](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&z=2023-06-09&g=2023-06-09) zijn niet van toepassing op het levenlanglerenkrediet.
 
 ##### Artikel 3.16c. Levenlanglerenkrediet: duur
 
@@ -2457,9 +2471,9 @@ De [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&p
 
 ##### Artikel 3.16e. Levenlanglerenkrediet: uitvoeringsregels
 
-Voor een goede uitvoering van de [artikelen 3.16b tot en met 3.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16b&z=2023-04-07&g=2023-04-07) worden bij ministeriële regeling regels vastgesteld over de aanvraag, toekenning, berekening, betaling en andere uitvoeringsaspecten.
+Voor een goede uitvoering van de [artikelen 3.16b tot en met 3.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16b&z=2023-06-09&g=2023-06-09) worden bij ministeriële regeling regels vastgesteld over de aanvraag, toekenning, berekening, betaling en andere uitvoeringsaspecten.
 
-#### Paragraaf 3.6. Toekenning
+#### Paragraaf 3.5. Normbedragen
 
 #### Paragraaf 3.7. Toekenning reisvoorziening
 
@@ -2485,11 +2499,11 @@ Een mbo-student aan een opleiding niveau 3 of 4 komt voor zover wordt voldaan aa
 
 ##### Artikel 4.6b. Reisvoorziening minderjarige mbo-student
 
-Onverminderd[artikel 4.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-04-07&g=2023-04-07), komt een mbo-student die jonger is dan 18 jaren in aanmerking voor een reisvoorziening in de vorm van een prestatiebeurs.
+Onverminderd[artikel 4.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-06-09&g=2023-06-09), komt een mbo-student die jonger is dan 18 jaren in aanmerking voor een reisvoorziening in de vorm van een prestatiebeurs.
 
 ### Afdeling 4.2. Beroepsonderwijs buiten Nederland
 
-#### Paragraaf 4.2.3. Opleiding niveau 3 of 4 buiten Nederland
+#### Paragraaf 4.2.2. Opleiding niveau 1 of 2 buiten Nederland
 
 ### Hoofdstuk 5. Hoger onderwijs
 
@@ -2509,21 +2523,21 @@ De prestatiebeurs hoger onderwijs wordt op aanvraag eenmalig 1 jaar langer verst
 
 ##### Artikel 5.2c. Verlenging duur prestatiebeurs hoger onderwijs vanwege het volgen van een universitaire lerarenopleiding
 
-1. In aanvulling op [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-04-07&g=2023-04-07), wordt de prestatiebeurs hoger onderwijs op aanvraag eenmalig 1 jaar langer verstrekt, indien:
+1. In aanvulling op [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-06-09&g=2023-06-09), wordt de prestatiebeurs hoger onderwijs op aanvraag eenmalig 1 jaar langer verstrekt, indien:
 
 - a. het een masteropleiding als bedoeld in [artikel 7.30c WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30c) betreft;
 
 - b. met goed gevolg het afsluitende examen van een masteropleiding in het wetenschappelijk onderwijs is afgelegd en daarna een masteropleiding als bedoeld in [artikel 7.5a, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5a), of [7.5c, vijfde lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5c) wordt gevolgd waarvan niet eerder het afsluitende examen met goed gevolg is afgelegd; of
 
-- c. reeds eerder prestatiebeurs hoger onderwijs is toegekend op grond van [artikel 5.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2a&z=2023-04-07&g=2023-04-07) en een masteropleiding als bedoeld in [artikel 7.5a, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5a), of [7.5c, vijfde lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5c) wordt gevolgd.
+- c. reeds eerder prestatiebeurs hoger onderwijs is toegekend op grond van [artikel 5.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2a&z=2023-06-09&g=2023-06-09) en een masteropleiding als bedoeld in [artikel 7.5a, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5a), of [7.5c, vijfde lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5c) wordt gevolgd.
 
 2. Het eerste lid, onderdeel a, is niet van toepassing, indien reeds eerder op grond van onderdeel b van dat lid prestatiebeurs hoger onderwijs is toegekend.
 
 3. Het eerste lid, onderdeel b, is niet van toepassing indien reeds eerder:
 
-- a. op grond van het eerste lid, onderdeel a, of [artikel 5.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2a&z=2023-04-07&g=2023-04-07) prestatiebeurs hoger onderwijs is toegekend; of
+- a. op grond van het eerste lid, onderdeel a, of [artikel 5.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2a&z=2023-06-09&g=2023-06-09) prestatiebeurs hoger onderwijs is toegekend; of
 
-- b. op grond van [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2a&z=2023-04-07&g=2023-04-07), prestatiebeurs hoger onderwijs is toegekend, voor zover die toekenning betrekking had op een opleiding als bedoeld in [7.5b, eerste lid, aanhef en onderdeel b, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5b).
+- b. op grond van [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2a&z=2023-06-09&g=2023-06-09), prestatiebeurs hoger onderwijs is toegekend, voor zover die toekenning betrekking had op een opleiding als bedoeld in [7.5b, eerste lid, aanhef en onderdeel b, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.5b).
 
 #### Paragraaf 5.4. Omzettingsprocedure bij stoppen voor 1 februari of 1 september in eerste studiejaar
 
@@ -2545,7 +2559,7 @@ De prestatiebeurs hoger onderwijs wordt op aanvraag eenmalig 1 jaar langer verst
 
 ### Hoofdstuk 10. Hoger onderwijs; tempobeurs
 
-### Hoofdstuk 11. Overige bepalingen
+### Hoofdstuk 10a. Opbouw en terugbetaling studieschuld; «oude» debiteuren
 
 ### Hoofdstuk 13. Horizonbepalingen
 
@@ -2553,9 +2567,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6.2a. Kwijtschelding studieschuld voor ho-studenten met handicap of chronische ziekte
 
-1. Aan de debiteur wordt gelijktijdig met de omzetting, bedoeld in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-04-07&g=2023-04-07), een deel van de lening hoger onderwijs kwijtgescholden indien:
+1. Aan de debiteur wordt gelijktijdig met de omzetting, bedoeld in [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-06-09&g=2023-06-09), een deel van de lening hoger onderwijs kwijtgescholden indien:
 
-- a. aan de debiteur op grond van [artikel 5.2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2b&z=2023-04-07&g=2023-04-07), voor een opleiding een extra jaar prestatiebeurs hoger onderwijs is toegekend; en
+- a. aan de debiteur op grond van [artikel 5.2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2b&z=2023-06-09&g=2023-06-09), voor een opleiding een extra jaar prestatiebeurs hoger onderwijs is toegekend; en
 
 - b. de desbetreffende bacheloropleiding of masteropleiding met goed gevolg is afgerond binnen de diplomatermijn hoger onderwijs.
 
@@ -2563,7 +2577,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 .
 
-3. Voor een debiteur aan wie op grond van [artikel 5.2b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2b&z=2023-04-07&g=2023-04-07), 6 maanden extra prestatiebeurs hoger onderwijs is toegekend en die binnen de diplomatermijn hoger onderwijs een associate degree-opleiding met goed gevolg heeft afgerond, zijn het eerste en tweede lid van overeenkomstige toepassing, met dien verstande dat de waarde van de kwijtschelding 50% bedraagt van het bedrag, genoemd in het tweede lid.
+3. Voor een debiteur aan wie op grond van [artikel 5.2b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2b&z=2023-06-09&g=2023-06-09), 6 maanden extra prestatiebeurs hoger onderwijs is toegekend en die binnen de diplomatermijn hoger onderwijs een associate degree-opleiding met goed gevolg heeft afgerond, zijn het eerste en tweede lid van overeenkomstige toepassing, met dien verstande dat de waarde van de kwijtschelding 50% bedraagt van het bedrag, genoemd in het tweede lid.
 
 4. Bij ministeriële regeling worden regels gesteld voor een goede uitvoering van dit artikel.
 
@@ -2585,7 +2599,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12.15. Vouchers voor de eerste vier cohorten onder het studievoorschot hoger onderwijs
 
-1. In dit artikel wordt onder voucher begrepen: een vergoeding van Onze Minister, niet zijnde studiefinanciering in de zin van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07), voor de kosten van het volgen van hoger onderwijs.
+1. In dit artikel wordt onder voucher begrepen: een vergoeding van Onze Minister, niet zijnde studiefinanciering in de zin van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09), voor de kosten van het volgen van hoger onderwijs.
 
 2. Een ieder die voldoet aan de volgende voorwaarden heeft aanspraak op een voucher:
 
@@ -2593,7 +2607,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. hij heeft binnen de diplomatermijn hoger onderwijs met goed gevolg een hbo-bacheloropleiding of het geheel van een wo-bacheloropleiding en een wo-masteropleiding afgerond; en
 
-- c. hij heeft zich ingeschreven voor een associate degree-, bachelor- of masteropleiding dan wel een geaccrediteerde postinitiële masteropleiding als bedoeld in [artikel 7.3b WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b) in Nederland, voor een opleiding in het hoger onderwijs buiten Nederland, bedoeld in [artikel 2.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-04-07&g=2023-04-07), of binnen die opleiding voor één of meer onderwijseenheden als bedoeld in [artikel 7.3, tweede lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3), in het tijdvak van het vijfde tot en met negende studiejaar volgend op de dag waarop Onze Minister de mededeling, bedoeld in [artikel 7.9d WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.9d), heeft ontvangen.
+- c. hij heeft zich ingeschreven voor een associate degree-, bachelor- of masteropleiding dan wel een geaccrediteerde postinitiële masteropleiding als bedoeld in [artikel 7.3b WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b) in Nederland, voor een opleiding in het hoger onderwijs buiten Nederland, bedoeld in [artikel 2.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-06-09&g=2023-06-09), of binnen die opleiding voor één of meer onderwijseenheden als bedoeld in [artikel 7.3, tweede lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3), in het tijdvak van het vijfde tot en met negende studiejaar volgend op de dag waarop Onze Minister de mededeling, bedoeld in [artikel 7.9d WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.9d), heeft ontvangen.
 
 3. Een voucher wordt uitsluitend op aanvraag verstrekt en is niet overdraagbaar aan derden. De aanspraak vervalt na afloop van het tijdvak, bedoeld in het tweede lid, onderdeel c.
 
@@ -2601,7 +2615,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - a. de wijze van verstrekking van de voucher;
 
-- b. de waarde van de voucher, die overeenkomstig [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=11&artikel=11.1&z=2023-04-07&g=2023-04-07) wordt aangepast;
+- b. de waarde van de voucher, die overeenkomstig [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=11&artikel=11.1&z=2023-06-09&g=2023-06-09) wordt aangepast;
 
 - c. de aanvraag van een voucher;
 
@@ -2609,11 +2623,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - e. de wijze waarop de persoonsgegevens, benodigd voor de uitvoering van dit artikel, kunnen worden verwerkt.
 
-5. [Artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.7&z=2023-04-07&g=2023-04-07) is van overeenkomstige toepassing met dien verstande dat voor studerende wordt gelezen: de rechthebbende op een voucher.
+5. [Artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.7&z=2023-06-09&g=2023-06-09) is van overeenkomstige toepassing met dien verstande dat voor studerende wordt gelezen: de rechthebbende op een voucher.
 
 ##### Artikel 12.16. Verhoogde aanvullende beurs in het eerste jaar na invoering van het studievoorschot
 
-1. In afwijking van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-04-07&g=2023-04-07) geldt in het studiejaar 2015–2016 voor de toepassing van [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&z=2023-04-07&g=2023-04-07) voor een ho-student die ingevolge de [Wet studievoorschot hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0036261) geen basisbeurs ontvangt, een maximale aanvullende beurs die naar de maatstaf van 1 januari 2014 gelijk is aan € 258,35 per 1 januari 2016 naar de maatstaf van 1 januari 2016: € 271,19.
+1. In afwijking van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09) geldt in het studiejaar 2015–2016 voor de toepassing van [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.3&z=2023-06-09&g=2023-06-09) voor een ho-student die ingevolge de [Wet studievoorschot hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0036261) geen basisbeurs ontvangt, een maximale aanvullende beurs die naar de maatstaf van 1 januari 2014 gelijk is aan € 258,35 per 1 januari 2016 naar de maatstaf van 1 januari 2016: € 271,19.
 
 2. Voor de ho-student die na de toepassing van het eerste lid een aanvullende beurs ontvangt, wordt de aanvullende beurs in dat studiejaar verhoogd met een bedrag per maand dat naar de maatstaf van 1 januari 2014 gelijk is aan € 106,98 per 1 januari 2016 naar de maatstaf van 1 januari 2016: € 110,74.
 
@@ -2623,23 +2637,23 @@ Vervallen
 
 ##### Artikel 12.18. Reeds toegekende partnertoeslag
 
-Op de student die een toeslag als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.4&z=2023-04-07&g=2023-04-07), zoals dat luidde op 31 december 2015, toegekend heeft gekregen, blijven ten aanzien van de toegekende toeslag de artikelen 3.4, [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-04-07&g=2023-04-07), [4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-04-07&g=2023-04-07), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.10&z=2023-04-07&g=2023-04-07), [5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-04-07&g=2023-04-07), en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-04-07&g=2023-04-07), zoals die artikelen luidden op 31 juli 2015, van toepassing.
+Op de student die een toeslag als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.4&z=2023-06-09&g=2023-06-09), zoals dat luidde op 31 december 2015, toegekend heeft gekregen, blijven ten aanzien van de toegekende toeslag de artikelen 3.4, [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-06-09&g=2023-06-09), [4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.7&z=2023-06-09&g=2023-06-09), [4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.10&z=2023-06-09&g=2023-06-09), [5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-06-09&g=2023-06-09), en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-06-09&g=2023-06-09), zoals die artikelen luidden op 31 juli 2015, van toepassing.
 
-##### Artikel 12.19. Afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.17&z=2023-04-07&g=2023-04-07) in verband met overgangssituatie afschaffing bijverdiengrens voor hoger onderwijs
+##### Artikel 12.19. Afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.17&z=2023-06-09&g=2023-06-09) in verband met overgangssituatie afschaffing bijverdiengrens voor hoger onderwijs
 
-1. In afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.17&z=2023-04-07&g=2023-04-07) blijft dat artikel, zoals dat luidde op 31 augustus 2015, van toepassing op ho-studenten in de kalenderjaren waarin zij aanspraak hebben op een basisbeurs als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-04-07&g=2023-04-07), zoals dat luidde op 31 augustus 2015.
+1. In afwijking van [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.17&z=2023-06-09&g=2023-06-09) blijft dat artikel, zoals dat luidde op 31 augustus 2015, van toepassing op ho-studenten in de kalenderjaren waarin zij aanspraak hebben op een basisbeurs als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-06-09&g=2023-06-09), zoals dat luidde op 31 augustus 2015.
 
-2. In afwijking van het eerste lid blijft voor de berekening van de bijverdiengrens over het kalenderjaar waarin een ho-student ingevolge de [Wet studievoorschot hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0036261) voor het eerst geen basisbeurs ontvangt buiten beschouwing het inkomen van een ho-student dat is verworven vanaf de eerste maand waarin geen aanspraak op een basisbeurs bestaat, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-04-07&g=2023-04-07), zoals dat luidde op 31 augustus 2015.
+2. In afwijking van het eerste lid blijft voor de berekening van de bijverdiengrens over het kalenderjaar waarin een ho-student ingevolge de [Wet studievoorschot hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0036261) voor het eerst geen basisbeurs ontvangt buiten beschouwing het inkomen van een ho-student dat is verworven vanaf de eerste maand waarin geen aanspraak op een basisbeurs bestaat, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-06-09&g=2023-06-09), zoals dat luidde op 31 augustus 2015.
 
-##### Artikel 12.20. Afwijking van [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-04-07&g=2023-04-07) tot 1 januari 2016
+##### Artikel 12.20. Afwijking van [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-06-09&g=2023-06-09) tot 1 januari 2016
 
-1. In afwijking van [artikel 3.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-04-07&g=2023-04-07), wordt in het studiejaar 2015–2016 geen terugwerkende kracht verleend voor zover de periode waarvoor terugwerkende kracht wordt gevraagd, is gelegen voor 1 januari 2016.
+1. In afwijking van [artikel 3.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-06-09&g=2023-06-09), wordt in het studiejaar 2015–2016 geen terugwerkende kracht verleend voor zover de periode waarvoor terugwerkende kracht wordt gevraagd, is gelegen voor 1 januari 2016.
 
-2. Dit artikel is niet van toepassing op de aanspraak, bedoeld in [artikel 2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2023-04-07&g=2023-04-07).
+2. Dit artikel is niet van toepassing op de aanspraak, bedoeld in [artikel 2.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2023-06-09&g=2023-06-09).
 
 ##### Artikel 12.21. Indexering
 
-Onze Minister past de bedragen, genoemd in deze paragraaf, overeenkomstig [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=11&artikel=11.1&z=2023-04-07&g=2023-04-07) aan.
+Onze Minister past de bedragen, genoemd in deze paragraaf, overeenkomstig [artikel 11.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=11&artikel=11.1&z=2023-06-09&g=2023-06-09) aan.
 
 ### Hoofdstuk 13. Horizonbepalingen
 
@@ -2707,7 +2721,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de terugbetaling van de lening die is ontstaan door toekenning van het levenlanglerenkrediet waarbij tenminste regels worden gesteld over de samenloop met de terugbetaling van de lening die is ontstaan anders dan door toekenning van het levenlanglerenkrediet en over de samenloop met de terugbetaling door een partner van het levenlanglerenkrediet of een andere lening die is toegekend op grond van deze wet.
 
-### Hoofdstuk 8. Uitbetaling, verrekening en invordering
+### Hoofdstuk 7. Herziening
 
 #### Paragraaf 9.1. Toezicht
 
@@ -2727,19 +2741,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12.22. Aanvraag voor toekenning verlenging prestatiebeurs niet eerder dan in 2019
 
-Een aanvraag voor toekenning van 6 maanden extra prestatiebeurs hoger onderwijs, bedoeld in [artikel 5.2b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2b&z=2023-04-07&g=2023-04-07), kan niet eerder worden gedaan dan op 1 januari 2019.
+Een aanvraag voor toekenning van 6 maanden extra prestatiebeurs hoger onderwijs, bedoeld in [artikel 5.2b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.1&artikel=5.2b&z=2023-06-09&g=2023-06-09), kan niet eerder worden gedaan dan op 1 januari 2019.
 
 ##### Artikel 12.23. Overgangsbepaling Ad-programma en omzetting prestatiebeurs in gift
 
-Voor de aanspraak op omzetting van prestatiebeurs hoger onderwijs in gift voor een associate degree-programma als bedoeld in [artikel 7.8a WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.8a), zoals dat luidde op 31 december 2017, blijft [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-04-07&g=2023-04-07), zoals dat luidde op 31 december 2017, van toepassing voor de ho-student die een associate degree-programma volgt of heeft gevolgd.
+Voor de aanspraak op omzetting van prestatiebeurs hoger onderwijs in gift voor een associate degree-programma als bedoeld in [artikel 7.8a WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.8a), zoals dat luidde op 31 december 2017, blijft [artikel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-06-09&g=2023-06-09), zoals dat luidde op 31 december 2017, van toepassing voor de ho-student die een associate degree-programma volgt of heeft gevolgd.
 
 ##### Artikel 12.24. Omzetting prestatiebeurs in gift op aanvraag
 
-Tot 1 juni 2019 wordt de prestatiebeurs hoger onderwijs voor een ho-student die met goed gevolg een associate degree-opleiding heeft afgerond, in afwijking van [artikel 5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-04-07&g=2023-04-07), uitsluitend omgezet in een gift voor zover de ho-student een aanvraag heeft ingediend tot gelijkstelling, overeenkomstig artikel 5.7, vierde lid, zoals dat luidde op 31 december 2017.
+Tot 1 juni 2019 wordt de prestatiebeurs hoger onderwijs voor een ho-student die met goed gevolg een associate degree-opleiding heeft afgerond, in afwijking van [artikel 5.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=5&paragraaf=5.2&artikel=5.7&z=2023-06-09&g=2023-06-09), uitsluitend omgezet in een gift voor zover de ho-student een aanvraag heeft ingediend tot gelijkstelling, overeenkomstig artikel 5.7, vierde lid, zoals dat luidde op 31 december 2017.
 
 ##### Artikel 12.25. Kwijtschelding studieschuld voor ho-studenten met handicap of chronische ziekte
 
-Tot 1 juni 2019 wordt de kwijtschelding, bedoeld in [artikel 6.2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2a&z=2023-04-07&g=2023-04-07), opgeschort, waarbij de opgebouwde rente als gevolg van de latere kwijtschelding van dat bedrag eveneens wordt kwijtgescholden.
+Tot 1 juni 2019 wordt de kwijtschelding, bedoeld in [artikel 6.2a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.2a&z=2023-06-09&g=2023-06-09), opgeschort, waarbij de opgebouwde rente als gevolg van de latere kwijtschelding van dat bedrag eveneens wordt kwijtgescholden.
 
 ### Hoofdstuk 13. Horizonbepalingen
 
@@ -2757,7 +2771,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12.26. Hoogte collegegeldkrediet en levenlanglerenkrediet in verband met invoering verlaagd wettelijk collegegeld
 
-In afwijking van [artikel 3.16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16a&z=2023-04-07&g=2023-04-07), onderscheidenlijk [artikel 3.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16d&z=2023-04-07&g=2023-04-07) kan een ho-student die verlaagd wettelijk collegegeld als bedoeld in [artikel 7.45, vijfde lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.45) verschuldigd is, tot 1 september 2019 ten hoogste het bedrag lenen van het volledig wettelijk collegegeld, bedoeld in artikel 7.45, eerste lid, WHW en voor zover van toepassing, gelezen in samenhang met [artikel 6.7 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.7).
+In afwijking van [artikel 3.16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16a&z=2023-06-09&g=2023-06-09), onderscheidenlijk [artikel 3.16d](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16d&z=2023-06-09&g=2023-06-09) kan een ho-student die verlaagd wettelijk collegegeld als bedoeld in [artikel 7.45, vijfde lid, WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.45) verschuldigd is, tot 1 september 2019 ten hoogste het bedrag lenen van het volledig wettelijk collegegeld, bedoeld in artikel 7.45, eerste lid, WHW en voor zover van toepassing, gelezen in samenhang met [artikel 6.7 WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.7).
 
 ### Hoofdstuk 13. Horizonbepalingen
 
@@ -2767,11 +2781,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12.27
 
-1. [Artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07), zoals dat artikel luidde op 31 december 2018, blijft van toepassing op de bedragen die op 31 december 2018 reeds op grond van artikel 3.27, tweede lid, verschuldigd waren.
+1. [Artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09), zoals dat artikel luidde op 31 december 2018, blijft van toepassing op de bedragen die op 31 december 2018 reeds op grond van artikel 3.27, tweede lid, verschuldigd waren.
 
-2. De persoon die op 31 december 2018 reeds op grond van [artikel 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-04-07&g=2023-04-07), een bedrag verschuldigd was, wordt voor de berekening van de hoogte van het bedrag dat hij vanaf 1 januari 2019, op grond van artikel 3.27, tweede lid, verschuldigd is, gelijkgesteld met de student wiens aanspraak op reisrecht is beëindigd op 1 januari 2019.
+2. De persoon die op 31 december 2018 reeds op grond van [artikel 3.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.27&z=2023-06-09&g=2023-06-09), een bedrag verschuldigd was, wordt voor de berekening van de hoogte van het bedrag dat hij vanaf 1 januari 2019, op grond van artikel 3.27, tweede lid, verschuldigd is, gelijkgesteld met de student wiens aanspraak op reisrecht is beëindigd op 1 januari 2019.
 
-#### Paragraaf 12.4. Overgangsbepaling in verband met invoering verlaagd wettelijk collegegeld
+#### Paragraaf 12.2. Overgangsbepalingen in verband met de Wet studievoorschot hoger onderwijs
 
 ### Hoofdstuk 14. Slotbepalingen
 
@@ -2779,7 +2793,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12.28. Cohortgarantie meeneembare studiefinanciering
 
-Op een student die studiefinanciering toegekend heeft gekregen voor het volgen van een opleiding buiten Nederland op grond van [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-04-07&g=2023-04-07), zoals dat luidde op 23 juli 2019, blijft artikel 2.14 van toepassing zoals dat luidde op 23 juli 2019 zolang de student zonder onderbreking studiefinanciering geniet.
+Op een student die studiefinanciering toegekend heeft gekregen voor het volgen van een opleiding buiten Nederland op grond van [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.14&z=2023-06-09&g=2023-06-09), zoals dat luidde op 23 juli 2019, blijft artikel 2.14 van toepassing zoals dat luidde op 23 juli 2019 zolang de student zonder onderbreking studiefinanciering geniet.
 
 ### Hoofdstuk 13. Horizonbepalingen
 
@@ -2799,7 +2813,7 @@ Het belastbaar minimumloon in de zin van deze wet is een bij of krachtens algeme
 
 - a. de wijze waarop extra aflossingen kunnen worden gedaan;
 
-- b. de voorwaarden waaronder, in afwijking van [artikel 6.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-04-07&g=2023-04-07), tot herberekening van de termijnbetalingen kan worden besloten; en
+- b. de voorwaarden waaronder, in afwijking van [artikel 6.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.9&z=2023-06-09&g=2023-06-09), tot herberekening van de termijnbetalingen kan worden besloten; en
 
 - c. de goede uitvoering van extra aflossingen.
 
@@ -2811,13 +2825,13 @@ De terugbetaling van de lening die is ontstaan door toekenning van het levenlang
 
 ##### Artikel 6.19b. Schorsing terugbetaling bij samenloop levenlanglerenkrediet en reguliere studieschuld
 
-Voor een debiteur voor wie de terugbetalingsperiode is begonnen van een lening beroepsonderwijs, lening hoger onderwijs of een lening die is ontstaan door toekenning van het levenlanglerenkrediet, en aan wie levenlanglerenkrediet of studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-04-07&g=2023-04-07), wordt toegekend of die student wordt zonder studiefinanciering te ontvangen, kan op bij ministeriële regeling te bepalen wijze schorsing plaatsvinden van:
+Voor een debiteur voor wie de terugbetalingsperiode is begonnen van een lening beroepsonderwijs, lening hoger onderwijs of een lening die is ontstaan door toekenning van het levenlanglerenkrediet, en aan wie levenlanglerenkrediet of studiefinanciering als bedoeld in [artikel 3.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-06-09&g=2023-06-09), wordt toegekend of die student wordt zonder studiefinanciering te ontvangen, kan op bij ministeriële regeling te bepalen wijze schorsing plaatsvinden van:
 
 - a. de terugbetalingsperiode van de lening beroepsonderwijs of lening hoger onderwijs; en
 
 - b. de terugbetalingsperiode van de lening die is ontstaan door toekenning van het levenlanglerenkrediet.
 
-#### Paragraaf 9.4. Strafbepalingen
+#### Paragraaf 9.3. Bestuursrechtelijke geldschulden en bestuurlijke boete
 
 #### Paragraaf 12.1. Overgangs- en invoeringsbepalingen wijzigingswetten tot en met augustus 2015
 
@@ -2833,7 +2847,7 @@ Voor een debiteur voor wie de terugbetalingsperiode is begonnen van een lening b
 
 ##### Artikel 12.29. Cohortgarantie mbo-student opleiding niveau 3 of 4 voor 1 augustus 2005
 
-Op de mbo-student die voor 1 augustus 2005 voor het volgen van beroepsonderwijs studiefinanciering ontving, blijven de [artikelen 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.7a&z=2023-04-07&g=2023-04-07), [2.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.15a&z=2023-04-07&g=2023-04-07), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6&z=2023-04-07&g=2023-04-07) en [12.1aa](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=12&paragraaf=12.1&artikel=12.1aa&z=2023-04-07&g=2023-04-07) van toepassing zoals deze luidden op 31 maart 2020.
+Op de mbo-student die voor 1 augustus 2005 voor het volgen van beroepsonderwijs studiefinanciering ontving, blijven de [artikelen 2.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.2&artikel=2.7a&z=2023-06-09&g=2023-06-09), [2.15a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=2&paragraaf=2.4&artikel=2.15a&z=2023-06-09&g=2023-06-09), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=4&afdeling=4.1&paragraaf=4.1.2&artikel=4.6&z=2023-06-09&g=2023-06-09) en [12.1aa](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=12&paragraaf=12.1&artikel=12.1aa&z=2023-06-09&g=2023-06-09) van toepassing zoals deze luidden op 31 maart 2020.
 
 ### Hoofdstuk 13. Maatregelen voor studenten in verband met uitbraak COVID-19
 
@@ -2857,9 +2871,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. in welke gevallen de extra reisvoorziening op aanvraag dan wel ambtshalve wordt toegekend.
 
-3. In afwijking van [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-04-07&g=2023-04-07) kan de extra reisvoorziening met terugwerkende kracht en voor een periode in een eerder studiejaar worden toegekend, waarbij onderscheid kan worden gemaakt tussen het reisrecht en de vergoeding als bedoeld in [artikel 3.24, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-04-07&g=2023-04-07).
+3. In afwijking van [artikel 3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.6&artikel=3.21&z=2023-06-09&g=2023-06-09) kan de extra reisvoorziening met terugwerkende kracht en voor een periode in een eerder studiejaar worden toegekend, waarbij onderscheid kan worden gemaakt tussen het reisrecht en de vergoeding als bedoeld in [artikel 3.24, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.24&z=2023-06-09&g=2023-06-09).
 
-4. [Artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.29&z=2023-04-07&g=2023-04-07) is niet van toepassing op de extra reisvoorziening, bedoeld in het eerste lid.
+4. [Artikel 3.29](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.7&artikel=3.29&z=2023-06-09&g=2023-06-09) is niet van toepassing op de extra reisvoorziening, bedoeld in het eerste lid.
 
 ### Hoofdstuk 14. Slotbepalingen
 
@@ -2867,7 +2881,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 13.2b. Hoogte collegegeldkrediet en levenlanglerenkrediet in verband met halvering collegegeld
 
-In afwijking van [artikel 3.16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16a&z=2023-04-07&g=2023-04-07), onderscheidenlijk [artikel 3.16d, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16d&z=2023-04-07&g=2023-04-07), kan een ho-student voor het studiejaar 2021–2022 in totaal ten hoogste € 903,33 per maand lenen.
+In afwijking van [artikel 3.16a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16a&z=2023-06-09&g=2023-06-09), onderscheidenlijk [artikel 3.16d, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.4&artikel=3.16d&z=2023-06-09&g=2023-06-09), kan een ho-student voor het studiejaar 2021–2022 in totaal ten hoogste € 903,33 per maand lenen.
 
 ### Hoofdstuk 14. Slotbepalingen
 
@@ -2875,7 +2889,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6.1b. Verplichting debiteur terugbetaling studieschuld
 
-Ontvangst van een lening of omzetting in een lening, of omzetting als bedoeld in [artikel 6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.17&z=2023-04-07&g=2023-04-07), verplicht degene die studiefinanciering heeft ontvangen tot terugbetaling van de lening vermeerderd met de volgens dit hoofdstuk berekende rente.
+Ontvangst van een lening of omzetting in een lening, of omzetting als bedoeld in [artikel 6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=6&paragraaf=6.1&artikel=6.17&z=2023-06-09&g=2023-06-09), verplicht degene die studiefinanciering heeft ontvangen tot terugbetaling van de lening vermeerderd met de volgens dit hoofdstuk berekende rente.
 
 #### Paragraaf 9.1. Toezicht
 
@@ -2905,7 +2919,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 12.0a. Begripsbepalingen [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955)
 
-In afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-04-07&g=2023-04-07) wordt voor de begrippen in deze paragraaf de begripsomschrijving gelezen in [artikel 1 van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=1), zoals die luidde op 31 augustus 2000.
+In afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=1&artikel=1.1&z=2023-06-09&g=2023-06-09) wordt voor de begrippen in deze paragraaf de begripsomschrijving gelezen in [artikel 1 van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=1), zoals die luidde op 31 augustus 2000.
 
 ##### Artikel 12.0b. Aanvang terugbetaling renteloze voorschotten ([141 Wsf](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=141))
 
@@ -2921,11 +2935,11 @@ In afwijking van [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&h
 
 ##### Artikel 12.0d. Gevolgen voor samenstelling minimum terugbetalingsbedrag ([143 Wsf](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=143))
 
-In geval van samenloop van terugbetalingen als bedoeld in [artikel 12.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=12&paragraaf=12.0&artikel=12.0c&z=2023-04-07&g=2023-04-07), wordt, zolang het renteloos voorschot nog niet is afgelost, voor de betrokkene [artikel 41, derde lid, van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=41), zoals dat luidde op 31 augustus 2000, zo toegepast dat het minimumbedrag van f 1.200,– wordt verminderd met het in het desbetreffende jaar terug te betalen bedrag aan renteloos voorschot.
+In geval van samenloop van terugbetalingen als bedoeld in [artikel 12.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=12&paragraaf=12.0&artikel=12.0c&z=2023-06-09&g=2023-06-09), wordt, zolang het renteloos voorschot nog niet is afgelost, voor de betrokkene [artikel 41, derde lid, van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=41), zoals dat luidde op 31 augustus 2000, zo toegepast dat het minimumbedrag van f 1.200,– wordt verminderd met het in het desbetreffende jaar terug te betalen bedrag aan renteloos voorschot.
 
 ##### Artikel 12.0e. Nieuwe vaststelling termijn ([144 Wsf](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=144))
 
-Op 1 januari volgend op het tijdstip waarop de in [artikel 12.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=12&paragraaf=12.0&artikel=12.0c&z=2023-04-07&g=2023-04-07) bedoelde voorschotten volledig moeten zijn terugbetaald, wordt de termijn, bedoeld in [artikel 41 van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=41), zoals dat luidde op 31 augustus 2000, opnieuw vastgesteld.
+Op 1 januari volgend op het tijdstip waarop de in [artikel 12.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=12&paragraaf=12.0&artikel=12.0c&z=2023-06-09&g=2023-06-09) bedoelde voorschotten volledig moeten zijn terugbetaald, wordt de termijn, bedoeld in [artikel 41 van de Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=41), zoals dat luidde op 31 augustus 2000, opnieuw vastgesteld.
 
 ##### Artikel 12.0f. Terugbetaling renteloze voorschotten ([145 Wsf](https://wetten.overheid.nl/jci1.3:c:BWBR0003955&artikel=145))
 
@@ -2947,9 +2961,67 @@ Op een studerende aan wie tot 1 oktober 1986 op grond van een onderwijswet een r
 
 #### Paragraaf 12.5. Overgangsbepaling in verband met de Wet tot wijziging van de Wet studiefinanciering 2000 met het oog op het verminderen van het aantal OV-boetes
 
+#### Paragraaf 12.4. Overgangsbepaling in verband met invoering verlaagd wettelijk collegegeld
+
+#### Paragraaf 12.5. Overgangsbepaling in verband met de Wet tot wijziging van de Wet studiefinanciering 2000 met het oog op het verminderen van het aantal OV-boetes
+
+### Hoofdstuk 13. Maatregelen voor studenten in verband met uitbraak COVID-19
+
+### Hoofdstuk 14. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 3.16f. Collegegeldkrediet of levenlanglerenkrediet bij betaling van een vergoeding als bedoeld in [artikel 7.49a van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.49a)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 3.18a. Verhoogde bedragen in het studiejaar 2023–2024
+
+In het studiejaar 2023–2024 worden de normbedragen voor de kosten van levensonderhoud en de bedragen van de basisbeurs voor uitwonende mbo- en ho-studenten, genoemd in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09), verhoogd met € 164,30.
+
+##### Artikel 3.18b. Grondslag voor tijdelijke verhoging normbedragen studiefinanciering
+
+1. Bij algemene maatregel van bestuur kan worden bepaald dat de normbedragen, genoemd in [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&hoofdstuk=3&paragraaf=3.5&artikel=3.18&z=2023-06-09&g=2023-06-09), in studiejaren na het studiejaar 2023–2024 worden verhoogd met een bij die algemene maatregel van bestuur te bepalen bedrag.
+
+2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+#### Paragraaf 3.6. Toekenning
+
+### Hoofdstuk 4. Beroepsonderwijs
+
+### Afdeling 4.1. Beroepsonderwijs in Nederland
+
+### Afdeling 4.2. Beroepsonderwijs buiten Nederland
+
+### Hoofdstuk 5. Hoger onderwijs
+
+##### Artikel 5.11a. Stoppen binnen twaalf maanden door mbo-gediplomeerden
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### Paragraaf 5.7. Omzetting bij bijzondere omstandigheden
+
+#### Paragraaf 5.8. Tenietgaan rente
+
+### Hoofdstuk 6. Opbouw en terugbetaling studieschuld
+
+#### Paragraaf 6.1. Algemeen
+
+### Hoofdstuk 9. Toezicht en sancties
+
+#### Paragraaf 9.4. Strafbepalingen
+
+#### Paragraaf 12.0. Overgangsbepalingen intrekking [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955)
+
+#### Paragraaf 12.1. Overgangs- en invoeringsbepalingen wijzigingswetten tot en met augustus 2015
+
+#### Paragraaf 12.3. Overgangsbepalingen in verband met de omvorming van Ad-programma tot associate degree-opleiding
+
 #### Paragraaf 12.6. Overgangsbepaling in verband met een wijziging van de criteria voor de toekenning van meeneembare studiefinanciering
 
 #### Paragraaf 12.7. Overgangsbepaling in verband met de Verzamelwet OCW 2020
+
+#### Paragraaf 12.8. Overgangsbepalingen in verband met de [Wet herinvoering basisbeurs hoger onderwijs](onbekend)
 
 ### Hoofdstuk 13. Maatregelen voor studenten in verband met uitbraak COVID-19
 
