@@ -4,7 +4,7 @@ identifier: "BWBR0047663"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2022-12-22"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047663"
 soort: "ministeriele-regeling"
@@ -54,29 +54,29 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **interventie:** interventie als bedoeld in artikel 3, onderdeel 3), van [verordening (EU) 2021/2115](32115R2021);
+- –. **interventie:** interventie als bedoeld in artikel 3, onderdeel 3), van [verordening (EU) 2021/2115](32021R2115);
 
-- –. **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- –. **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit dan wel minister voor Natuur en Stikstof voor zover het de uitvoering van verrichtingen betreft die onder verantwoordelijkheid van laatstgenoemde minister vallen;
 
-- –. **NSP:** Nationaal Strategisch Plan zijnde een strategisch GLB-plan als bedoeld in artikel 104, eerste lid, van [verordening (EU) 2021/2115](32115R2021);
+- –. **NSP:** Nationaal Strategisch Plan zijnde een strategisch GLB-plan als bedoeld in artikel 104, eerste lid, van [verordening (EU) 2021/2115](32021R2115);
 
 - –. **Regieorganisatie GLB:** een gezamenlijke programmadirectie van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (LNV) en de twaalf provincies;
 
-- –. **verordening (EU) 2021/1060:** [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231);
+- –. **verordening (EU) 2021/1060:** [Verordening (EU) 2021/1060](32021R1060) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231);
 
-- –. **verordening (EU) 2021/2115:** [Verordening (EU) 2021/2115](32115R2021) van het Europees Parlement en de Raad van 2 december 2021 tot vaststelling van voorschriften inzake steun voor de strategische plannen die de lidstaten in het kader van het gemeenschappelijk landbouwbeleid opstellen (strategische GLB-plannen) en die uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor plattelandsontwikkeling (Elfpo) worden gefinancierd, en tot intrekking van [Verordeningen (EU) nr. 1305/2013](32013R1305) en [(EU) nr. 1307/2013](32013R1307) (PbEU 2021, L 435);
+- –. **verordening (EU) 2021/2115:** [Verordening (EU) 2021/2115](32021R2115) van het Europees Parlement en de Raad van 2 december 2021 tot vaststelling van voorschriften inzake steun voor de strategische plannen die de lidstaten in het kader van het gemeenschappelijk landbouwbeleid opstellen (strategische GLB-plannen) en die uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor plattelandsontwikkeling (Elfpo) worden gefinancierd, en tot intrekking van [Verordeningen (EU) nr. 1305/2013](32013R1305) en [(EU) nr. 1307/2013](32013R1307) (PbEU 2021, L 435);
 
-- –. **verordening (EU) 2021/2116:** [Verordening (EU) 2021/2116](32116R2021) van het Europees Parlement en de Raad van 2 december 2021 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van [Verordening (EU) nr. 1306/2013](32013R1306) (PbEU 2021, L 435);
+- –. **verordening (EU) 2021/2116:** [Verordening (EU) 2021/2116](32021R2116) van het Europees Parlement en de Raad van 2 december 2021 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid en tot intrekking van [Verordening (EU) nr. 1306/2013](32013R1306) (PbEU 2021, L 435);
 
-- –. **verordening (EU) 2022/128:** [Uitvoeringsverordening (EU) 2022/128](32028R2022) van de Commissie van 21 december 2021 tot vaststelling van uitvoeringsbepalingen voor [Verordening (EU) 2021/2116](32116R2021) van het Europees Parlement en de Raad wat betreft betaalorganen en andere instanties, financieel beheer, goedkeuring van de rekeningen, controles, zekerheden en transparantie (PbEU 2022, L 20);
+- –. **verordening (EU) 2022/128:** [Uitvoeringsverordening (EU) 2022/128](32022R0128) van de Commissie van 21 december 2021 tot vaststelling van uitvoeringsbepalingen voor [Verordening (EU) 2021/2116](32021R2116) van het Europees Parlement en de Raad wat betreft betaalorganen en andere instanties, financieel beheer, goedkeuring van de rekeningen, controles, zekerheden en transparantie (PbEU 2022, L 20);
 
-- –. **verrichting:** verrichting als bedoeld in artikel 3, onderdeel 4), van [verordening (EU) 2021/2115](32115R2021).
+- –. **verrichting:** verrichting als bedoeld in artikel 3, onderdeel 4), van [verordening (EU) 2021/2115](32021R2115).
 
 ##### Artikel 2
 
 1. Ter uitvoering van artikel 123, eerste lid, eerste alinea, van [verordening (EU) 2021/2115](32021R2115) wordt de minister aanwezen als nationale beheersautoriteit.
 
-2. Ter uitvoering van artikel 123, vierde lid, van [verordening (EU) 2021/2115](32021R2115) wordt gedeputeerde staten van de onderscheiden twaalf provincies aangewezen als intermediaire instantie waaraan de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=2&artikel=3&z=2022-12-22&g=2022-12-22), worden gedelegeerd.
+2. Ter uitvoering van artikel 123, vierde lid, van [verordening (EU) 2021/2115](32021R2115) wordt gedeputeerde staten van de onderscheiden twaalf provincies aangewezen als intermediaire instantie waaraan de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=2&artikel=3&z=2023-06-10&g=2023-06-10), worden gedelegeerd.
 
 3. Ter uitvoering van artikel 9, eerste lid, van [verordening (EU) 2021/2116](32021R2116) wordt de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat aangewezen als geaccrediteerd betaalorgaan.
 
@@ -110,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 - f. het instellen van een comité overeenkomstig artikel 32, tweede lid, van [verordening (EU) 2021/1060](32021R1060);
 
-- g. uitvoering geven aan de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=8&z=2022-12-22&g=2022-12-22) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=10&z=2022-12-22&g=2022-12-22) voor zover van toepassing op de verrichtingen bedoeld in het eerste lid.
+- g. uitvoering geven aan de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=8&z=2023-06-10&g=2023-06-10) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047663&hoofdstuk=4&artikel=10&z=2023-06-10&g=2023-06-10) voor zover van toepassing op de verrichtingen bedoeld in het eerste lid.
 
 ##### Artikel 4
 
