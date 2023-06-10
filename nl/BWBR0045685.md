@@ -4,7 +4,7 @@ identifier: "BWBR0045685"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2023-05-23"
+last_updated: "2023-06-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045685"
 soort: "ministeriele-regeling"
@@ -138,7 +138,7 @@ Onverminderd artikel 63, negende lid, van [verordening 2021/1060](32960R2021) en
 
 ##### Artikel 1.4. Niet-subsidiabele kosten
 
-Onverminderd artikel 64, eerste lid, van [verordening 2021/1060](32960R2021) komen de volgende kosten niet als subsidiabele kosten als bedoeld in [artikel 1.3, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), in aanmerking:
+Onverminderd artikel 64, eerste lid, van [verordening 2021/1060](32960R2021) komen de volgende kosten niet als subsidiabele kosten als bedoeld in [artikel 1.3, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), in aanmerking:
 
 - a. administratieve en financiële sancties en boetes;
 
@@ -188,7 +188,7 @@ De subsidieontvanger, of in geval van een samenwerkingsverband de penvoerder, do
 
 ##### Artikel 2.1. Reikwijdte
 
-Dit hoofdstuk is van toepassing op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&z=2023-05-23&g=2023-05-23) en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&z=2023-05-23&g=2023-05-23).
+Dit hoofdstuk is van toepassing op [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&z=2023-06-10&g=2023-06-10) en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 2.2. Subsidiabele activiteiten
 
@@ -232,7 +232,7 @@ De minister verdeelt het subsidieplafond:
 
 ##### Artikel 2.7. Verdeling van subsidieplafond per categorie
 
-Indien per categorie van aanvragers of activiteiten een subsidieplafond is vastgesteld, vindt de verdeling, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.4&z=2023-05-23&g=2023-05-23), plaats per categorie.
+Indien per categorie van aanvragers of activiteiten een subsidieplafond is vastgesteld, vindt de verdeling, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.4&z=2023-06-10&g=2023-06-10), plaats per categorie.
 
 ##### Artikel 2.8. Adviescommissie
 
@@ -300,7 +300,7 @@ Indien per categorie van aanvragers of activiteiten een subsidieplafond is vastg
 
 ##### Artikel 2.10. Niet-subsidiabele kosten samenwerkingsverband
 
-Onverminderd [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2023-05-23&g=2023-05-23) komen in geval van een samenwerkingsverband kosten die een deelnemer van het samenwerkingsverband in rekening brengt bij een andere deelnemer van het samenwerkingsverband niet voor subsidie in aanmerking.
+Onverminderd [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2023-06-10&g=2023-06-10) komen in geval van een samenwerkingsverband kosten die een deelnemer van het samenwerkingsverband in rekening brengt bij een andere deelnemer van het samenwerkingsverband niet voor subsidie in aanmerking.
 
 ##### Artikel 2.11. Afwijzingsgronden
 
@@ -328,9 +328,9 @@ Onverminderd [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofd
 
 - g. de subsidie bestemd is voor:
 
-- 1°. een rechtspersoon of natuurlijke persoon tegen wie een bevel tot terugvordering uitstaat als bedoeld in artikel 1, derde lid, aanhef en onderdeel e, van de visserijvrijstellingsverordening en artikel 1, vijfde lid, aanhef en onderdeel a, van de landbouwvrijstellingsverordening; of
+- 1°. een rechtspersoon of natuurlijke persoon tegen wie een bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, onderdeel a, van de algemene groepsvrijstellingsverordening, artikel 1, derde lid, aanhef en onderdeel e, van de visserijvrijstellingsverordening en artikel 1, vijfde lid, aanhef en onderdeel a, van de landbouwvrijstellingsverordening; of
 
-- 2°. een onderneming in moeilijkheden als bedoeld in artikel 3, aanhef en onderdeel 5, van de visserijvrijstellingsverordening en artikel 2, aanhef en onderdeel 14, van de landbouwvrijstellingsverordening.
+- 2°. een onderneming in moeilijkheden als bedoeld in artikel 2, onderdeel 18, van de algemene groepsvrijstellingsverordening, artikel 3, aanhef en onderdeel 5, van de visserijvrijstellingsverordening en artikel 2, aanhef en onderdeel 14, van de landbouwvrijstellingsverordening.
 
 ##### Artikel 2.12. Beslissing op de aanvraag
 
@@ -358,11 +358,11 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 4. Indien subsidieontvangers samenwerken in een samenwerkingsverband, wordt een deelbetaling aangevraagd door de penvoerder.
 
-5. Een deelbetaling wordt verstrekt voor de gemaakte kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23).
+5. Een deelbetaling wordt verstrekt voor de gemaakte kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), of op basis van de verrichte prestatie.
 
 ##### Artikel 2.15. Algemene verplichtingen subsidieontvanger
 
-1. Onverminderd [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2023-05-23&g=2023-05-23) doet de subsidieontvanger of, indien subsidieontvangers samenwerken in een samenwerkingsverband, de penvoerder onverwijld schriftelijk mededeling aan de minister zodra aannemelijk is dat:
+1. Onverminderd [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2023-06-10&g=2023-06-10) doet de subsidieontvanger of, indien subsidieontvangers samenwerken in een samenwerkingsverband, de penvoerder onverwijld schriftelijk mededeling aan de minister zodra aannemelijk is dat:
 
 - a. de subsidiabele activiteiten niet, niet tijdig of niet geheel zullen worden verricht, of
 
@@ -388,7 +388,7 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 - a. de aard, inhoud en voortgang van de verrichte activiteiten;
 
-- b. dat de communicatieactiviteiten, bedoeld in [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23), worden uitgevoerd;
+- b. dat de communicatieactiviteiten, bedoeld in [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), worden uitgevoerd;
 
 - c. het aantal eenheden dat per kostendrager is besteed aan activiteiten die voor subsidie in aanmerking komen; en
 
@@ -416,9 +416,9 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 - a. gegevens over de subsidieontvanger, waaronder de naam, het adres en het door de minister toegekende referentienummer;
 
-- b. gegevens over de hoogte van de gemaakte subsidiabele kosten; en
+- b. gegevens over de hoogte van de gemaakte subsidiabele kosten of over de verrichte prestatie; en
 
-- c. gegevens die aantonen dat de communicatieactiviteiten, bedoeld in [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23), zijn uitgevoerd.
+- c. gegevens die aantonen dat de communicatieactiviteiten, bedoeld in [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), zijn uitgevoerd.
 
 5. Een aanvraag tot subsidievaststelling gaat vergezeld van een eindverslag indien de beschikking tot subsidieverlening betrekking heeft op een projectplan. Het eindverslag bevat ten minste:
 
@@ -490,7 +490,7 @@ De minister beslist afwijzend op een aanvraag om subsidie, voor zover:
 
 ##### Artikel 3.1.4. Informatieverplichtingen
 
-Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23) bevat een aanvraag om subsidie in ieder geval:
+Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10) bevat een aanvraag om subsidie in ieder geval:
 
 - a. indien de subsidieaanvrager een natuurlijke persoon is, het burgerservicenummer;
 
@@ -500,27 +500,27 @@ Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofd
 
 - d. gegevens met betrekking tot het project of de investering waarvoor subsidie wordt aangevraagd om monitoring, evaluatie en rapportage aan de Europese Commissie, zoals bedoeld in de artikelen 42, eerste lid, 43 en 49, derde lid, van [verordening 2021/1060](32960R2021), mogelijk te maken;
 
-- e. voor zover ten tijde van de aanvraag om subsidie bekend is dat de aanvrager een opdracht wil verlenen als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-05-23&g=2023-05-23), kopieën van de opgevraagde offertes, waarmee de kosten waarvoor subsidie wordt aangevraagd, onderbouwd worden; en
+- e. voor zover ten tijde van de aanvraag om subsidie bekend is dat de aanvrager een opdracht wil verlenen als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-06-10&g=2023-06-10), kopieën van de opgevraagde offertes, waarmee de kosten waarvoor subsidie wordt aangevraagd, onderbouwd worden; en
 
-- f. voor zover ten tijde van de aanvraag om subsidie bekend is dat een aanvrager een opdracht wil verlenen als bedoeld in [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-05-23&g=2023-05-23), gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.7, zesde lid.
+- f. voor zover ten tijde van de aanvraag om subsidie bekend is dat een aanvrager een opdracht wil verlenen als bedoeld in [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-06-10&g=2023-06-10), gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.7, zesde lid.
 
 ##### Artikel 3.1.5. Deelbetalingverlening en opdrachtgunning
 
-De aanvraag tot deelbetalingverlening bevat, voor zover de subsidieontvanger voor de kosten waarvoor hij een deelbetaling als bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.14&z=2023-05-23&g=2023-05-23) aanvraagt een opdracht heeft verleend als bedoeld in:
+De aanvraag tot deelbetalingverlening bevat, voor zover de subsidieontvanger voor de kosten waarvoor hij een deelbetaling als bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.14&z=2023-06-10&g=2023-06-10) aanvraagt een opdracht heeft verleend als bedoeld in:
 
-- a. [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-05-23&g=2023-05-23): kopieën van de opgevraagde offertes als bedoeld in artikel 3.1.7, tweede lid, en de relevante redenen voor een op basis van de offertes genomen gunningsbeslissing; of
+- a. [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-06-10&g=2023-06-10): kopieën van de opgevraagde offertes als bedoeld in artikel 3.1.7, tweede lid, en de relevante redenen voor een op basis van de offertes genomen gunningsbeslissing; of
 
-- b. [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-05-23&g=2023-05-23): gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.7, zesde lid.
+- b. [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-06-10&g=2023-06-10): gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.7, zesde lid.
 
 ##### Artikel 3.1.6. Indiening aanvraag tot subsidievaststelling
 
-Onverminderd [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-05-23&g=2023-05-23), bevat de aanvraag tot subsidievaststelling:
+Onverminderd [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-06-10&g=2023-06-10), bevat de aanvraag tot subsidievaststelling:
 
 - a. gegevens met betrekking tot het halen van de doelstellingen en prioriteiten van het project of de investering waarvoor subsidie is aangevraagd;
 
-- b. voor zover van toepassing en voor zover deze nog niet zijn aangeleverd bij de aanvraag om subsidie of een aanvraag tot voorschotverlening, kopieën van opgevraagde offertes als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-05-23&g=2023-05-23), en de relevante redenen voor een op basis van deze offertes genomen gunningsbeslissing; en
+- b. voor zover van toepassing en voor zover deze nog niet zijn aangeleverd bij de aanvraag om subsidie of een aanvraag tot voorschotverlening, kopieën van opgevraagde offertes als bedoeld in [artikel 3.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-06-10&g=2023-06-10), en de relevante redenen voor een op basis van deze offertes genomen gunningsbeslissing; en
 
-- c. voor zover van toepassing en voor zover deze nog niet zijn aangeleverd bij de aanvraag om subsidie of een aanvraag tot voorschotverlening, gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-05-23&g=2023-05-23).
+- c. voor zover van toepassing en voor zover deze nog niet zijn aangeleverd bij de aanvraag om subsidie of een aanvraag tot voorschotverlening, gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in [artikel 3.1.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 3.1.7. Verplichtingen subsidieontvanger
 
@@ -542,7 +542,7 @@ Onverminderd [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoof
 
 ##### Artikel 3.1.8. Adviescommissie EMFAF
 
-1. Er is een adviescommissie EMFAF die tot taak heeft de minister te adviseren over de afwijzingsgrond, bedoeld in [artikel 2.11, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-05-23&g=2023-05-23), en indien het subsidieplafond wordt verdeeld op volgorde van rangschikking van de aanvragen, over de rangschikking van aanvragen tot subsidieverlening.
+1. Er is een adviescommissie EMFAF die tot taak heeft de minister te adviseren over de afwijzingsgrond, bedoeld in [artikel 2.11, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10), en indien het subsidieplafond wordt verdeeld op volgorde van rangschikking van de aanvragen, over de rangschikking van aanvragen tot subsidieverlening.
 
 2. De commissie bestaat uit ten minste vijf en ten hoogste tien leden.
 
@@ -554,7 +554,7 @@ De overeenstemming van op algemeen aanvaarde gegevensdragers bewaarde documenten
 
 ##### Artikel 3.1.10. Vaststelling beleidsregels EMFAF
 
-De minister stelt beleidsregels als bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.6&z=2023-05-23&g=2023-05-23) in ieder geval vast voor de toepassing van financiële correcties in verband met de niet-naleving van regels die gelden op grond van:
+De minister stelt beleidsregels als bedoeld in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.6&z=2023-06-10&g=2023-06-10) in ieder geval vast voor de toepassing van financiële correcties in verband met de niet-naleving van regels die gelden op grond van:
 
 - a. deze regeling;
 
@@ -586,7 +586,7 @@ In deze paragraaf wordt verstaan onder:
 
 2. Subsidie, als bedoeld in het eerste lid, wordt uitsluitend verleend indien dit past binnen een door de Europese Commissie goedgekeurd programma als bedoeld in artikel 8 van [verordening 2021/1139](33039R2021).
 
-3. In afwijking van [artikel 2.12, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.12&z=2023-05-23&g=2023-05-23), wordt een beschikking tot subsidieverlening gegeven binnen 52 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend.
+3. In afwijking van [artikel 2.12, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.12&z=2023-06-10&g=2023-06-10), wordt een beschikking tot subsidieverlening gegeven binnen 52 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend.
 
 ##### Artikel 3.2.3. Hoogte subsidie
 
@@ -594,7 +594,7 @@ De subsidie bedraagt 60 procent van de subsidiabele kosten, tot een maximum van 
 
 ##### Artikel 3.2.4. Subsidiabele kosten
 
-Voor zover zij direct verbonden zijn aan de uitvoering van de subsidiabele activiteiten als bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2023-05-23&g=2023-05-23), komen als subsidiabele kosten in aanmerking:
+Voor zover zij direct verbonden zijn aan de uitvoering van de subsidiabele activiteiten als bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2023-06-10&g=2023-06-10), komen als subsidiabele kosten in aanmerking:
 
 - a. de kosten voor de aankoop, bouw en plaatsing van een mosselzaadinvanginstallatie; en
 
@@ -606,15 +606,15 @@ De minister verdeelt het subsidieplafond evenredig over de ingediende aanvragen.
 
 ##### Artikel 3.2.6. Realisatietermijn
 
-De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-05-23&g=2023-05-23), is 18 maanden na subsidieverlening.
+De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10), is 18 maanden na subsidieverlening.
 
 ##### Artikel 3.2.7. Afwijzingsgronden
 
-Onverminderd de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-05-23&g=2023-05-23) en [3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2023-05-23&g=2023-05-23) beslist de Minister afwijzend op een aanvraag tot subsidieverlening, indien de aanvrager geen houder is van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op mosselzaad in de Waddenzee.
+Onverminderd de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10) en [3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2023-06-10&g=2023-06-10) beslist de Minister afwijzend op een aanvraag tot subsidieverlening, indien de aanvrager geen houder is van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op mosselzaad in de Waddenzee.
 
 ##### Artikel 3.2.8. Informatieverplichtingen
 
-Onverminderd de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23) en [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.4&z=2023-05-23&g=2023-05-23), gaat een aanvraag tot subsidieverlening vergezeld van de volgende gegevens:
+Onverminderd de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10) en [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.4&z=2023-06-10&g=2023-06-10), gaat een aanvraag tot subsidieverlening vergezeld van de volgende gegevens:
 
 - a. een investeringsplan met daarin een beschrijving van de investering;
 
@@ -622,21 +622,21 @@ Onverminderd de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&
 
 - c. gegevens waarmee de subsidieaanvrager kan aantonen dat de aanvrager mkb is; en
 
-- d. een onderbouwing van de kosten voor aankoop, bouw en plaatsing van de mosselzaadinvanginstallatie, en indien de aanvraag betrekking heeft op subsidie voor de kosten als bedoeld in [artikel 3.2.4, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2023-05-23&g=2023-05-23), een onderbouwing van de kosten voor het aanpassen van een vissersvaartuig.
+- d. een onderbouwing van de kosten voor aankoop, bouw en plaatsing van de mosselzaadinvanginstallatie, en indien de aanvraag betrekking heeft op subsidie voor de kosten als bedoeld in [artikel 3.2.4, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.4&z=2023-06-10&g=2023-06-10), een onderbouwing van de kosten voor het aanpassen van een vissersvaartuig.
 
 ##### Artikel 3.2.9. Verplichtingen subsidieontvanger
 
-Onverminderd de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2023-05-23&g=2023-05-23), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.15&z=2023-05-23&g=2023-05-23) en [3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-05-23&g=2023-05-23), is de subsidieontvanger verplicht:
+Onverminderd de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2023-06-10&g=2023-06-10), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.15&z=2023-06-10&g=2023-06-10) en [3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-06-10&g=2023-06-10), is de subsidieontvanger verplicht:
 
 - a. de mosselzaadinvanginstallatie in gebruik te nemen in de Waddenzee, Oosterschelde of Voordelta;
 
-- b. de betaling van de kosten voor de activiteiten, bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2023-05-23&g=2023-05-23), te doen plaatsvinden voor het indienen van de aanvraag tot subsidievaststelling; en
+- b. de betaling van de kosten voor de activiteiten, bedoeld in [artikel 3.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.2&z=2023-06-10&g=2023-06-10), te doen plaatsvinden voor het indienen van de aanvraag tot subsidievaststelling; en
 
-- c. in het jaar dat de subsidievaststelling, bedoeld in [artikel 3.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.10&z=2023-05-23&g=2023-05-23), wordt aangevraagd, houder te zijn van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op mosselzaad in de Waddenzee.
+- c. in het jaar dat de subsidievaststelling, bedoeld in [artikel 3.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.10&z=2023-06-10&g=2023-06-10), wordt aangevraagd, houder te zijn van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op mosselzaad in de Waddenzee.
 
 ##### Artikel 3.2.10. Subsidievaststelling
 
-Onverminderd de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-05-23&g=2023-05-23) en [3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.6&z=2023-05-23&g=2023-05-23), bevat de aanvraag tot subsidievaststelling in ieder geval:
+Onverminderd de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-06-10&g=2023-06-10) en [3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.6&z=2023-06-10&g=2023-06-10), bevat de aanvraag tot subsidievaststelling in ieder geval:
 
 - a. facturen en betaalbewijzen van de ten behoeve van de subsidiabele activiteiten gemaakte en betaalde kosten; en
 
@@ -644,13 +644,13 @@ Onverminderd de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685
 
 ##### Artikel 3.2.11. Niet-subsidiabele kosten
 
-Onverminderd de [artikelen 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2023-05-23&g=2023-05-23) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2023-05-23&g=2023-05-23), komen de volgende kosten niet in aanmerking voor subsidie:
+Onverminderd de [artikelen 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2023-06-10&g=2023-06-10) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2023-06-10&g=2023-06-10), komen de volgende kosten niet in aanmerking voor subsidie:
 
 - a. kosten van lease en huurkoop;
 
 - b. legeskosten; en
 
-- c. kosten als bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23).
+- c. kosten als bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 3.2.12. Vervaltermijn
 
@@ -700,7 +700,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1.1a. Reikwijdte
 
-Dit hoofdstuk is niet van toepassing op [paragraaf 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&z=2023-05-23&g=2023-05-23).
+Dit hoofdstuk is niet van toepassing op [paragraaf 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 1.3a. Berekening loonkosten en eigen arbeid
 
@@ -710,7 +710,7 @@ Dit hoofdstuk is niet van toepassing op [paragraaf 4.4](https://wetten.overheid.
 
 - b. als een vast percentage van een maandtarief van € 7.800 per werknemer bij een voltijd dienstverband van 1.720 uur per jaar, of een evenredig deel daarvan bij een deeltijd dienstverband, overeenkomstig het vooraf vastgestelde vaste percentage van de tijd dat de werknemer per maand aan het project heeft gewerkt, zonder de verplichting om een afzonderlijk arbeidstijdregistratiesysteem op te zetten;
 
-- c. door de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), te vermenigvuldigen met 0,23, onder de voorwaarden, genoemd in artikel 55, eerste lid, van [verordening 2021/1060](32960R2021).
+- c. door de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), te vermenigvuldigen met 0,23, onder de voorwaarden, genoemd in artikel 55, eerste lid, van [verordening 2021/1060](32960R2021).
 
 2. De kosten van de door een subsidieontvanger verrichte eigen arbeid ten behoeve van het project worden berekend door het aantal uren dat de betrokken persoon ten behoeve van het project heeft gemaakt te vermenigvuldigen met een vast uurtarief van € 55.
 
@@ -724,13 +724,13 @@ Dit hoofdstuk is niet van toepassing op [paragraaf 4.4](https://wetten.overheid.
 
 ##### Artikel 1.3b. Integrale kostensystematiek
 
-1. In afwijking van [artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-05-23&g=2023-05-23) kunnen kennisinstellingen gebruik maken van een uurtarief berekend op basis van een door de Minister goedgekeurde integrale kostensystematiek als bedoeld in [artikel 12, eerste lid, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12).
+1. In afwijking van [artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-06-10&g=2023-06-10) kunnen kennisinstellingen gebruik maken van een uurtarief berekend op basis van een door de Minister goedgekeurde integrale kostensystematiek als bedoeld in [artikel 12, eerste lid, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12).
 
 2. Indien op grond van het eerste lid wordt gekozen voor de integrale kostensystematiek, zijn [artikel 12, derde lid, van het Kaderbesluit nationale EZK- en LNV subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12) en [artikel 1.2, eerste lid, van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.2), van overeenkomstige toepassing.
 
 ##### Artikel 1.3c. Berekening loonkosten en eigen arbeid, met inbegrip van de overige subsidiabele kosten
 
-1. In afwijking van [artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-05-23&g=2023-05-23) kunnen de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), worden berekend met inbegrip van de kosten, bedoeld in onderdelen c tot en met e van dat artikellid:
+1. In afwijking van [artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-06-10&g=2023-06-10) kunnen de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), worden berekend met inbegrip van de kosten, bedoeld in onderdelen c tot en met e van dat artikellid:
 
 - a. door het aantal aan het project bestede uren te vermenigvuldigen met een vast uurtarief van € 67; of
 
@@ -742,11 +742,11 @@ Dit hoofdstuk is niet van toepassing op [paragraaf 4.4](https://wetten.overheid.
 
 ##### Artikel 1.3d. Combinatie berekeningsmethoden
 
-1. De berekeningsmethoden, bedoeld in [artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-05-23&g=2023-05-23) en [1.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-05-23&g=2023-05-23), kunnen niet worden gecombineerd met de berekeningsmethoden, bedoeld in [artikel 1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-05-23&g=2023-05-23), binnen een project.
+1. De berekeningsmethoden, bedoeld in [artikel 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-06-10&g=2023-06-10) en [1.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-06-10&g=2023-06-10), kunnen niet worden gecombineerd met de berekeningsmethoden, bedoeld in [artikel 1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-06-10&g=2023-06-10), binnen een project.
 
-2. Indien een subsidieontvanger de integrale kostensystematiek, bedoeld in [artikel 1.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-05-23&g=2023-05-23), hanteert binnen een project, kunnen het vaste uurtarief en het vaste percentage, bedoeld in [artikel 1.3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-05-23&g=2023-05-23), gehanteerd worden door, indien van toepassing, de andere subsidieontvangers binnen hetzelfde project.
+2. Indien een subsidieontvanger de integrale kostensystematiek, bedoeld in [artikel 1.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-06-10&g=2023-06-10), hanteert binnen een project, kunnen het vaste uurtarief en het vaste percentage, bedoeld in [artikel 1.3c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-06-10&g=2023-06-10), gehanteerd worden door, indien van toepassing, de andere subsidieontvangers binnen hetzelfde project.
 
-3. Indien de in het tweede lid bedoelde combinatie binnen een project wordt toegepast, kunnen de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), niet apart worden toegerekend aan het project.
+3. Indien de in het tweede lid bedoelde combinatie binnen een project wordt toegepast, kunnen de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdelen c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), niet apart worden toegerekend aan het project.
 
 ### Hoofdstuk 2. Regels omtrent subsidieverstrekking door de minister
 
@@ -782,7 +782,7 @@ Dit hoofdstuk vervalt met ingang van 1 juli 2027.
 
 2. Een subsidie als bedoeld in het eerste lid kan worden verstrekt in de vorm van een bijdrage aan een financieringsinstrument.
 
-3. Indien wordt gekozen voor het verstrekken van subsidie in de vorm van een bijdrage aan een financieringsinstrument zijn de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), [1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-05-23&g=2023-05-23), [1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-05-23&g=2023-05-23), [1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-05-23&g=2023-05-23), [1.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3d&z=2023-05-23&g=2023-05-23), [4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.5&z=2023-05-23&g=2023-05-23), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.6&z=2023-05-23&g=2023-05-23), [4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-05-23&g=2023-05-23), [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.9&z=2023-05-23&g=2023-05-23) en [4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.10&z=2023-05-23&g=2023-05-23) niet van toepassing.
+3. Indien wordt gekozen voor het verstrekken van subsidie in de vorm van een bijdrage aan een financieringsinstrument zijn de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), [1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-06-10&g=2023-06-10), [1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-06-10&g=2023-06-10), [1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-06-10&g=2023-06-10), [1.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3d&z=2023-06-10&g=2023-06-10), [4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.5&z=2023-06-10&g=2023-06-10), [4.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.6&z=2023-06-10&g=2023-06-10), [4.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-06-10&g=2023-06-10), [4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.9&z=2023-06-10&g=2023-06-10) en [4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.10&z=2023-06-10&g=2023-06-10) niet van toepassing.
 
 ##### Artikel 4.2.2. Subsidieplafond en subsidiebedrag
 
@@ -800,29 +800,29 @@ Een aanvraag om subsidie wordt ingediend met gebruikmaking van een middel dat do
 
 1. De beheerautoriteit geeft binnen 26 weken een beschikking op een aanvraag om subsidie.
 
-2. Indien een beschikbaar subsidiebedrag wordt verdeeld op basis van rangschikking als bedoeld in [artikel 4.2.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-05-23&g=2023-05-23), begint de termijn, bedoeld in het eerste lid, op de eerste dag na afloop van de aanvraagperiode.
+2. Indien een beschikbaar subsidiebedrag wordt verdeeld op basis van rangschikking als bedoeld in [artikel 4.2.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-06-10&g=2023-06-10), begint de termijn, bedoeld in het eerste lid, op de eerste dag na afloop van de aanvraagperiode.
 
-##### Artikel 4.2.5. Facturen voor kosten als bedoeld in [artikel 1.3, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), met een factuurbedrag lager dan € 250, exclusief BTW
+##### Artikel 4.2.5. Facturen voor kosten als bedoeld in [artikel 1.3, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), met een factuurbedrag lager dan € 250, exclusief BTW
 
-1. Kosten als bedoeld in [artikel 1.3, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), kunnen niet worden vergoed indien het factuurbedrag lager is dan € 250, exclusief BTW.
+1. Kosten als bedoeld in [artikel 1.3, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), kunnen niet worden vergoed indien het factuurbedrag lager is dan € 250, exclusief BTW.
 
-2. De subsidie voor de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), waarvoor een factuur wordt ingediend met een factuurbedrag van € 250 of meer, exclusief BTW, wordt verhoogd met een opslag van 1 procent ter dekking van de kosten, bedoeld in het eerste lid.
+2. De subsidie voor de kosten, bedoeld in [artikel 1.3, eerste lid, aanhef en onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), waarvoor een factuur wordt ingediend met een factuurbedrag van € 250 of meer, exclusief BTW, wordt verhoogd met een opslag van 1 procent ter dekking van de kosten, bedoeld in het eerste lid.
 
 ##### Artikel 4.2.6. Subsidievaststelling projecten minder dan € 200.000
 
 1. Indien subsidie wordt aangevraagd voor projecten waarvan de totale kostprijs niet meer dan € 200.000 bedraagt, wordt de subsidie verleend met gebruikmaking van eenheidskosten of vaste bedragen als bedoeld in artikel 53, tweede lid, van [verordening 2021/1060](32960R2021) en kan de subsidie worden vastgesteld op basis van een ontwerpbegroting als bedoeld in artikel 53, derde lid, aanhef en onderdeel b, van [verordening 2021/1060](32960R2021).
 
-2. De [artikelen 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-05-23&g=2023-05-23), [1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-05-23&g=2023-05-23), [1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-05-23&g=2023-05-23) en [1.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3d&z=2023-05-23&g=2023-05-23) zijn niet van toepassing, indien de subsidie wordt verleend met gebruikmaking van het eerste lid.
+2. De [artikelen 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-06-10&g=2023-06-10), [1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-06-10&g=2023-06-10), [1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-06-10&g=2023-06-10) en [1.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3d&z=2023-06-10&g=2023-06-10) zijn niet van toepassing, indien de subsidie wordt verleend met gebruikmaking van het eerste lid.
 
 ##### Artikel 4.2.7. Afwijzingsgronden
 
 1. De beheerautoriteit beslist afwijzend op een aanvraag indien:
 
-- a. het project niet voldoet aan deze regeling, [verordening 2021/1060](32960R2021) of [verordening 2021/1058](32958R2021), of gelet op de wijze van verdeling van het beschikbare bedrag, bedoeld in [artikel 4.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2023-05-23&g=2023-05-23), of de criteria en procedures, bedoeld in artikel 4.2.2, derde lid, niet voor subsidie in aanmerking komt;
+- a. het project niet voldoet aan deze regeling, [verordening 2021/1060](32960R2021) of [verordening 2021/1058](32958R2021), of gelet op de wijze van verdeling van het beschikbare bedrag, bedoeld in [artikel 4.2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2023-06-10&g=2023-06-10), of de criteria en procedures, bedoeld in artikel 4.2.2, derde lid, niet voor subsidie in aanmerking komt;
 
 - b. het project niet voldoende bijdraagt aan de verwezenlijking van de specifieke doelstellingen binnen het programma of het gedeelte van het programma waarvoor het subsidieplafond of het deelplafond beschikbaar is gesteld;
 
-- c. de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag op de uiterste datum van indiening in het geval van verdeling op basis van rangschikking als bedoeld in [artikel 4.2.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-05-23&g=2023-05-23);
+- c. de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag op de uiterste datum van indiening in het geval van verdeling op basis van rangschikking als bedoeld in [artikel 4.2.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-06-10&g=2023-06-10);
 
 - d. de subsidie bestemd is voor:
 
@@ -834,15 +834,15 @@ Een aanvraag om subsidie wordt ingediend met gebruikmaking van een middel dat do
 
 ##### Artikel 4.2.8. Verdeling subsidiebedrag
 
-Behoudens de bijdrage aan een financieringsinstrument als bedoeld in [artikel 4.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2023-05-23&g=2023-05-23), verdeelt de beheerautoriteit een beschikbaar subsidiebedrag:
+Behoudens de bijdrage aan een financieringsinstrument als bedoeld in [artikel 4.2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.2&z=2023-06-10&g=2023-06-10), verdeelt de beheerautoriteit een beschikbaar subsidiebedrag:
 
-- a. op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.9&z=2023-05-23&g=2023-05-23); of
+- a. op volgorde van ontvangst van de aanvragen, overeenkomstig [artikel 4.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.9&z=2023-06-10&g=2023-06-10); of
 
-- b. op basis van rangschikking van de aanvragen, overeenkomstig [artikel 4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.10&z=2023-05-23&g=2023-05-23).
+- b. op basis van rangschikking van de aanvragen, overeenkomstig [artikel 4.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.10&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 4.2.9. Volgorde van ontvangst
 
-1. Indien wordt gekozen voor verdeling op volgorde van ontvangst als bedoeld in [artikel 4.2.8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-05-23&g=2023-05-23), komt de eerst ontvangen aanvraag het eerst voor subsidie in aanmerking.
+1. Indien wordt gekozen voor verdeling op volgorde van ontvangst als bedoeld in [artikel 4.2.8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-06-10&g=2023-06-10), komt de eerst ontvangen aanvraag het eerst voor subsidie in aanmerking.
 
 2. Indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, geldt met betrekking tot de verdeling de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst.
 
@@ -850,7 +850,7 @@ Behoudens de bijdrage aan een financieringsinstrument als bedoeld in [artikel 4.
 
 ##### Artikel 4.2.10. Rangschikking
 
-1. Indien wordt gekozen voor verdeling op volgorde van rangschikking van de aanvragen als bedoeld in [artikel 4.2.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-05-23&g=2023-05-23), komt de aanvraag die naar het oordeel van de beheerautoriteit in de hoogste mate aan de rangschikkingscriteria voldoet het eerst voor subsidie in aanmerking.
+1. Indien wordt gekozen voor verdeling op volgorde van rangschikking van de aanvragen als bedoeld in [artikel 4.2.8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.8&z=2023-06-10&g=2023-06-10), komt de aanvraag die naar het oordeel van de beheerautoriteit in de hoogste mate aan de rangschikkingscriteria voldoet het eerst voor subsidie in aanmerking.
 
 2. Voor zover het subsidieplafond dreigt te worden overschreden, stelt de beheerautoriteit de onderlinge rangschikking van die aanvragen die bij de beoordeling gelijk zijn gerangschikt vast door middel van loting.
 
@@ -882,7 +882,7 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan de beheerautoritei
 
 ##### Artikel 4.2.14. Administratie
 
-De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten kunnen worden afgelezen en gespecificeerd, met dien verstande dat ter zake van de kosten, bedoeld in [artikel 1.3a, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-05-23&g=2023-05-23), en [artikel 1.3c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-05-23&g=2023-05-23), een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
+De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten kunnen worden afgelezen en gespecificeerd, met dien verstande dat ter zake van de kosten, bedoeld in [artikel 1.3a, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-06-10&g=2023-06-10), en [artikel 1.3c, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-06-10&g=2023-06-10), een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
 
 ##### Artikel 4.2.15. Verplichtingen
 
@@ -906,7 +906,7 @@ De Minister verstrekt op aanvraag subsidie aan degene die een project tot stand 
 
 ##### Artikel 4.3.2. Subsidieplafond
 
-1. Het subsidieplafond voor subsidies als bedoeld in [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2023-05-23&g=2023-05-23) is voor de gehele programmaperiode:
+1. Het subsidieplafond voor subsidies als bedoeld in [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2023-06-10&g=2023-06-10) is voor de gehele programmaperiode:
 
 - a. voor programma EFRO 2021-2027 Noord-Nederland: € 19.475.579;
 
@@ -920,21 +920,21 @@ De Minister verstrekt op aanvraag subsidie aan degene die een project tot stand 
 
 ##### Artikel 4.3.3. Afwijzingsgronden
 
-De Minister beslist afwijzend op een aanvraag tot subsidieverlening indien het project onvoldoende bijdraagt aan de realisatie van het in [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2023-05-23&g=2023-05-23) bedoelde Rijksbeleid of de subsidieaanvrager niet in aanmerking komt voor subsidie op grond van [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&z=2023-05-23&g=2023-05-23).
+De Minister beslist afwijzend op een aanvraag tot subsidieverlening indien het project onvoldoende bijdraagt aan de realisatie van het in [artikel 4.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.3&artikel=4.3.1&z=2023-06-10&g=2023-06-10) bedoelde Rijksbeleid of de subsidieaanvrager niet in aanmerking komt voor subsidie op grond van [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 4.3.4. Schakelbepaling
 
-De [artikelen 4.2.3 tot en met 4.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.3&z=2023-05-23&g=2023-05-23) zijn van overeenkomstige toepassing.
+De [artikelen 4.2.3 tot en met 4.2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.2&artikel=4.2.3&z=2023-06-10&g=2023-06-10) zijn van overeenkomstige toepassing.
 
 #### § 4.4. Regels omtrent subsidieverstrekking ten laste van Rijkscofinanciering in het kader van de doelstelling “Europese territoriale samenwerking” (Interreg)
 
 ##### Artikel 4.4.1. Subsidieaanvraag
 
-De Minister verstrekt op aanvraag een programmasubsidie voor de programma’s, bedoeld in [artikel 4.4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.2&z=2023-05-23&g=2023-05-23).
+De Minister verstrekt op aanvraag een programmasubsidie voor de programma’s, bedoeld in [artikel 4.4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.2&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 4.4.2. Subsidieplafond
 
-1. Het subsidieplafond voor subsidies als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2023-05-23&g=2023-05-23) is voor de gehele programmaperiode:
+1. Het subsidieplafond voor subsidies als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2023-06-10&g=2023-06-10) is voor de gehele programmaperiode:
 
 - a. voor het programma Interreg Duitsland – Nederland € 25.706.117;
 
@@ -948,9 +948,9 @@ De Minister verstrekt op aanvraag een programmasubsidie voor de programma’s, b
 
 ##### Artikel 4.4.3. Instemming Minister en afwijzingsgronden
 
-1. De ontvanger van een programmasubsidie als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2023-05-23&g=2023-05-23) financiert geen projecten ten laste van de programmasubsidie, bedoeld in artikel 4.4.1 zonder voorafgaande schriftelijke instemming van de Minister.
+1. De ontvanger van een programmasubsidie als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2023-06-10&g=2023-06-10) financiert geen projecten ten laste van de programmasubsidie, bedoeld in artikel 4.4.1 zonder voorafgaande schriftelijke instemming van de Minister.
 
-2. De Minister onthoudt de instemming of wijst een aanvraag als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2023-05-23&g=2023-05-23) af, indien het project niet in voldoende mate bijdraagt aan tenminste een van de volgende aspecten:
+2. De Minister onthoudt de instemming of wijst een aanvraag als bedoeld in [artikel 4.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.4&artikel=4.4.1&z=2023-06-10&g=2023-06-10) af, indien het project niet in voldoende mate bijdraagt aan tenminste een van de volgende aspecten:
 
 - a. de realisatie van nationale beleidsdoelen op het gebied van innovatie en de transities naar een koolstofarme, circulaire, economie;
 
@@ -1026,7 +1026,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **algemene de-minimisverordening:** [verordening (EU) nr. 1407/2013](32013R1407) van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352);
 
-- **arbeidskosten:** de subsidiabele kosten, bedoeld in [artikel 1.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23);
+- **arbeidskosten:** de subsidiabele kosten, bedoeld in [artikel 1.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10);
 
 - **ELGF:** Europees Landbouwgarantiefonds, bedoeld in artikel 4, onderdeel a, van [verordening (EU) 2021/2116](32116R2021);
 
@@ -1042,7 +1042,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **landbouwproducten:** voortbrengselen van bodem, veeteelt en visserij alsmede de producten in eerste graad van bewerking welke met de genoemde voortbrengselen rechtstreeks verband houden, zoals vermeld in artikel 38 en bijlage II van het Verdrag van de werking van de Europese Unie (VWEU);
 
-- **overige kosten:** de subsidiabele kosten, bedoeld in [artikel 1.3, eerste lid, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23);
+- **overige kosten:** de subsidiabele kosten, bedoeld in [artikel 1.3, eerste lid, onderdelen c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10);
 
 - **plattelandsinterventies:** interventies als bedoeld in artikel 69 van [verordening 2021/2115](32115R2021);
 
@@ -1138,19 +1138,19 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 5.1.2. Berekening subsidiabele kosten
 
-1. In afwijking van de [artikelen 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-05-23&g=2023-05-23) en [1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-05-23&g=2023-05-23), kiest de aanvrager voor de berekening van de subsidiabele kosten uit één van de volgende drie berekeningswijzen:
+1. In afwijking van de [artikelen 1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3a&z=2023-06-10&g=2023-06-10) en [1.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3c&z=2023-06-10&g=2023-06-10), kiest de aanvrager voor de berekening van de subsidiabele kosten uit één van de volgende drie berekeningswijzen:
 
-- a. berekening subsidiabele kosten zonder forfait, opgenomen in [artikel 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-05-23&g=2023-05-23);
+- a. berekening subsidiabele kosten zonder forfait, opgenomen in [artikel 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-06-10&g=2023-06-10);
 
-- b. berekening subsidiabele kosten met forfait voor arbeidskosten, opgenomen in [artikel 5.1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3a&z=2023-05-23&g=2023-05-23); dan wel
+- b. berekening subsidiabele kosten met forfait voor arbeidskosten, opgenomen in [artikel 5.1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3a&z=2023-06-10&g=2023-06-10); dan wel
 
-- c. berekening subsidiabele kosten met forfait voor overige kosten, opgenomen in [artikel 5.1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-05-23&g=2023-05-23).
+- c. berekening subsidiabele kosten met forfait voor overige kosten, opgenomen in [artikel 5.1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-06-10&g=2023-06-10).
 
-2. Het aantal uren gebruikt in de berekening, bedoeld in [artikel 5.1.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-05-23&g=2023-05-23) en [artikel 5.1.3b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-05-23&g=2023-05-23), wordt aan de hand van schriftelijke bewijsstukken verantwoord.
+2. Het aantal uren gebruikt in de berekening, bedoeld in [artikel 5.1.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-06-10&g=2023-06-10) en [artikel 5.1.3b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-06-10&g=2023-06-10), wordt aan de hand van schriftelijke bewijsstukken verantwoord.
 
-3. Indien een uurtarief wordt gehanteerd, als bedoeld in [artikel 5.1.3, eerste lid, onderdeel a, subonderdeel 1° en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-05-23&g=2023-05-23) en [artikel 5.1.3b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-05-23&g=2023-05-23), kan het totale aantal voor een bepaald jaar te subsidiëren uren in het geval van arbeidskosten per werknemer niet meer bedragen dan 1.372 uren bij een voltijd dienstverband of een evenredig deel daarvan bij een deeltijd dienstverband en in het geval van eigen arbeid per werknemer niet meer bedragen dan 1.720 uren.
+3. Indien een uurtarief wordt gehanteerd, als bedoeld in [artikel 5.1.3, eerste lid, onderdeel a, subonderdeel 1° en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-06-10&g=2023-06-10) en [artikel 5.1.3b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-06-10&g=2023-06-10), kan het totale aantal voor een bepaald jaar te subsidiëren uren in het geval van arbeidskosten per werknemer niet meer bedragen dan 1.372 uren bij een voltijd dienstverband of een evenredig deel daarvan bij een deeltijd dienstverband en in het geval van eigen arbeid per werknemer niet meer bedragen dan 1.720 uren.
 
-4. De [artikelen 5.1.3 tot en met 5.1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-05-23&g=2023-05-23) zijn niet van toepassing op de [titels 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&z=2023-05-23&g=2023-05-23), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.4&z=2023-05-23&g=2023-05-23) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&z=2023-05-23&g=2023-05-23) en paragraaf 3 van titel 5.2.
+4. De [artikelen 5.1.3 tot en met 5.1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-06-10&g=2023-06-10) zijn niet van toepassing op de [titels 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&z=2023-06-10&g=2023-06-10), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.4&z=2023-06-10&g=2023-06-10) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&z=2023-06-10&g=2023-06-10) en paragraaf 3 van [titel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&z=2023-06-10&g=2023-06-10) en de [paragrafen 5.7.3. tot en met 5.7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.3&z=2023-06-10&g=2023-06-10), [5.7.8.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.8&z=2023-06-10&g=2023-06-10) en [5.7.9. van titel 5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.9&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.1.3. Berekening subsidiabele kosten zonder forfait
 
@@ -1178,9 +1178,9 @@ In dit hoofdstuk wordt verstaan onder:
 
 ##### Artikel 5.1.4. Informatieverplichtingen
 
-1. In aanvulling op [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23), bevat de aanvraag om subsidie het BTW-nummer van de subsidieontvanger en, indien van toepassing, de naam van de moedermaatschappij of iedere dochteronderneming met het daarbij behorende BTW-nummer.
+1. In aanvulling op [artikel 2.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), bevat de aanvraag om subsidie het BTW-nummer van de subsidieontvanger en, indien van toepassing, de naam van de moedermaatschappij of iedere dochteronderneming met het daarbij behorende BTW-nummer.
 
-2. In aanvulling op [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23), moet een aanvraag om subsidie bij een samenwerkingsverband ook vergezeld gaan van een bewijsstuk waaruit blijkt dat de penvoerder bevoegd is de betaling te ontvangen.
+2. In aanvulling op [artikel 2.9, vijfde lid, onderdeel a, subonderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), moet een aanvraag om subsidie bij een samenwerkingsverband ook vergezeld gaan van een bewijsstuk waaruit blijkt dat de penvoerder bevoegd is de betaling te ontvangen.
 
 ##### Artikel 5.1.5. Terugvordering samenwerkingsverband
 
@@ -1190,7 +1190,7 @@ Onverminderd [artikel 7, vierde lid, van de Kaderwet EZK- en LNV-subsidies](http
 
 1. Subsidieontvangers zijn verplicht het logo van de Europese Unie te gebruiken overeenkomstig bijlage II van [verordening 2022/129](32029R2022).
 
-2. De verplichtingen ten aanzien van communicatieactiviteiten in de [artikelen 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23), [2.17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.17&z=2023-05-23&g=2023-05-23), en [2.19, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-05-23&g=2023-05-23), zijn niet van toepassing op sectorale interventies en areaal- en diergebonden plattelandsinterventies.
+2. De verplichtingen ten aanzien van communicatieactiviteiten in de [artikelen 2.9, vijfde lid, onderdeel a, subonderdeel 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), [2.17, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.17&z=2023-06-10&g=2023-06-10), en [2.19, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-06-10&g=2023-06-10), zijn niet van toepassing op sectorale interventies en areaal- en diergebonden plattelandsinterventies.
 
 ##### Artikel 5.1.7. Bevoorschotting
 
@@ -1206,7 +1206,7 @@ Onverminderd [artikel 7, vierde lid, van de Kaderwet EZK- en LNV-subsidies](http
 
 ##### Artikel 5.1.8. Deelbetaling
 
-In afwijking van [artikel 2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.14&z=2023-05-23&g=2023-05-23), bedraagt een deelbetaling ten hoogste 90% van de verleende subsidie minus eventueel verstrekte voorschotten.
+In afwijking van [artikel 2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.14&z=2023-06-10&g=2023-06-10), bedraagt een deelbetaling ten hoogste 90% van de verleende subsidie minus eventueel verstrekte voorschotten.
 
 ##### Artikel 5.1.9. Verplichtingen en subsidievaststelling subsidie minder dan € 25.000
 
@@ -1216,17 +1216,17 @@ In afwijking van [artikel 2.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:
 
 - b. de subsidie ambtshalve vastgesteld.
 
-In aanvulling op [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.12&z=2023-05-23&g=2023-05-23) vermeldt de beschikking tot subsidieverlening de datum waarop de activiteiten uiterlijk moeten zijn verricht en de datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld.
+In aanvulling op [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.12&z=2023-06-10&g=2023-06-10) vermeldt de beschikking tot subsidieverlening de datum waarop de activiteiten uiterlijk moeten zijn verricht en de datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld.
 
-2. Indien de subsidie minder bedraagt dan € 25.000 zijn de [artikelen 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.18&z=2023-05-23&g=2023-05-23) en [2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-05-23&g=2023-05-23) niet van toepassing.
+2. Indien de subsidie minder bedraagt dan € 25.000 zijn de [artikelen 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.18&z=2023-06-10&g=2023-06-10) en [2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-06-10&g=2023-06-10) niet van toepassing.
 
-3. Op een subsidie bedoeld in het eerste lid, onderdeel a, is [artikel 2.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.15&z=2023-05-23&g=2023-05-23), niet van toepassing.
+3. Op een subsidie bedoeld in het eerste lid, onderdeel a, is [artikel 2.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.15&z=2023-06-10&g=2023-06-10), niet van toepassing.
 
 4. Indien de subsidie minder bedraagt dan € 25.000 is de subsidieontvanger verplicht om desgevraagd, op door de minister van tevoren in de beschikking of in dit hoofdstuk aangegeven wijze, aan te tonen dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
 ##### Artikel 5.1.10. Subsidievaststelling € 125.000 of meer
 
-1. In aanvulling op [artikel 2.19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-05-23&g=2023-05-23), kan in dit hoofdstuk worden bepaald dat ingeval het verleende subsidiebedrag € 125.000 of meer bedraagt bij een aanvraag tot subsidievaststelling een subsidieontvanger wordt verplicht tot het aanleveren van een:
+1. In aanvulling op [artikel 2.19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-06-10&g=2023-06-10), kan in dit hoofdstuk worden bepaald dat ingeval het verleende subsidiebedrag € 125.000 of meer bedraagt bij een aanvraag tot subsidievaststelling een subsidieontvanger wordt verplicht tot het aanleveren van een:
 
 - a. een controleverklaring van een accountant of accountant-administratieconsulent als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat met de aanvraag wordt voldaan aan de voorschriften bedoeld in [artikel 4:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45); of
 
@@ -1252,7 +1252,7 @@ In aanvulling op [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&
 
 1. De minister is bevoegd de besluiten te nemen en de handelingen te verrichten waartoe [verordening 1308/2013](32013R1308), [verordening 2017/891](32791R2017), [verordening 2021/2115](32115R2021) en [verordening 2022/126](32026R2022) de lidstaat de opdracht geven of de keuze laten of als ontvanger van informatie aanwijzen.
 
-2. In afwijking van de [artikelen 5.2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=3&artikel=5.2.28&z=2023-05-23&g=2023-05-23), [5.2.48, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=2&artikel=5.2.48&z=2023-05-23&g=2023-05-23), [5.2.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=2&artikel=5.2.49&z=2023-05-23&g=2023-05-23) en [5.3.196, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.3&artikel=5.3.196&z=2023-05-23&g=2023-05-23), kan de minister latere indieningsdata vaststellen dan de in die artikelen bedoelde data.
+2. In afwijking van de [artikelen 5.2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=3&artikel=5.2.28&z=2023-06-10&g=2023-06-10), [5.2.48, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=2&artikel=5.2.48&z=2023-06-10&g=2023-06-10), [5.2.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=2&artikel=5.2.49&z=2023-06-10&g=2023-06-10) en [5.3.196, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.3&artikel=5.3.196&z=2023-06-10&g=2023-06-10), kan de minister latere indieningsdata vaststellen dan de in die artikelen bedoelde data.
 
 ## Titel 5.2. Operationele programma’s
 
@@ -1292,7 +1292,7 @@ Van een producentenorganisatie kunnen lid zijn:
 
 - b. voor producentenorganisaties die zijn erkend na 1 januari 2008 tenminste tien leden, met een gezamenlijke waarde van de afzetbare productie van ten minste € 25.000.000.
 
-2. Rechtspersonen die eigendom zijn van één natuurlijke persoon of rechtspersoon worden bij de beoordeling van de erkenningsaanvraag door de minister gezamenlijk aangemerkt als één lid. Indien de minister in redelijkheid vermoedt dat een oneigenlijk aantal entiteiten als bedoeld in [artikel 5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.2&z=2023-05-23&g=2023-05-23) wordt gecreëerd met het oog op het eerste lid of [artikel 5.2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.4&artikel=5.2.21&z=2023-05-23&g=2023-05-23), kan de minister deze entiteiten gezamenlijk aanmerken als één lid.
+2. Rechtspersonen die eigendom zijn van één natuurlijke persoon of rechtspersoon worden bij de beoordeling van de erkenningsaanvraag door de minister gezamenlijk aangemerkt als één lid. Indien de minister in redelijkheid vermoedt dat een oneigenlijk aantal entiteiten als bedoeld in [artikel 5.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.2&z=2023-06-10&g=2023-06-10) wordt gecreëerd met het oog op het eerste lid of [artikel 5.2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.4&artikel=5.2.21&z=2023-06-10&g=2023-06-10), kan de minister deze entiteiten gezamenlijk aanmerken als één lid.
 
 3. Indien een lid van een producentenorganisatie een rechtspersoon is waarbij meerdere producenten zijn aangesloten, kan de minister besluiten deze producenten bij de beoordeling van de erkenningsaanvraag mee te tellen bij de bepaling van het aantal leden, bedoeld in het eerste lid.
 
@@ -1432,7 +1432,7 @@ Producentenorganisaties verplichten in hun statuten hun leden op grond van artik
 
 1. Producentenorganisaties stellen in hun statuten voorschriften vast voor sanctionering van niet naleving van hun statuten door hun leden die, behoudens gevallen van overmacht, tenminste bepalen dat:
 
-- a. bij een eerste overtreding van de statutaire verplichtingen ter uitvoering van artikel 160 van [verordening 1308/2013](32013R1308), artikel 12 van [verordening 2017/891](32791R2017) en de [artikelen 5.2.8 tot en met 5.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.8&z=2023-05-23&g=2023-05-23) het lid minimaal een schriftelijke waarschuwing krijgt;
+- a. bij een eerste overtreding van de statutaire verplichtingen ter uitvoering van artikel 160 van [verordening 1308/2013](32013R1308), artikel 12 van [verordening 2017/891](32791R2017) en de [artikelen 5.2.8 tot en met 5.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.8&z=2023-06-10&g=2023-06-10) het lid minimaal een schriftelijke waarschuwing krijgt;
 
 - b. bij een tweede soortgelijke overtreding begaan binnen vijf jaar na het begaan van de eerste overtreding, bedoeld in onderdeel a, minimaal een boete aan het lid wordt opgelegd en deze boete daadwerkelijk wordt geïncasseerd; en
 
@@ -1624,7 +1624,7 @@ Een erkenning als bedoeld in artikel 154, eerste lid, van [verordening 1308/2013
 
 - h. indien aanwezig de jaarrekeningen van de producentenorganisatie over het laatste boekjaar;
 
-- i. de beschrijving van de administratieve organisatie en interne beheersing, bedoeld in [artikel 5.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.14&z=2023-05-23&g=2023-05-23);
+- i. de beschrijving van de administratieve organisatie en interne beheersing, bedoeld in [artikel 5.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.14&z=2023-06-10&g=2023-06-10);
 
 - j. de beschrijving van de samenstelling van het bestuur;
 
@@ -1640,7 +1640,7 @@ Een erkenning als bedoeld in artikel 154, eerste lid, van [verordening 1308/2013
 
 - p. een beschrijving van de goederenlogistiek; en
 
-- q. een opgave van de waarde van de afzetbare productie, met inachtneming van de [artikelen 5.2.34 tot en met 5.2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.34&z=2023-05-23&g=2023-05-23).
+- q. een opgave van de waarde van de afzetbare productie, met inachtneming van de [artikelen 5.2.34 tot en met 5.2.38](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.34&z=2023-06-10&g=2023-06-10).
 
 2. De referentieperiode voor het bepalen van de waarde van de afzetbare productie is het kalenderjaar twee jaar vóór het jaar van de erkenningsaanvraag.
 
@@ -1648,7 +1648,7 @@ Een erkenning als bedoeld in artikel 154, eerste lid, van [verordening 1308/2013
 
 ##### Artikel 5.2.25
 
-Indien de minister op grond van [artikel 5.2.24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=2&artikel=5.2.24&z=2023-05-23&g=2023-05-23), aanvullende bewijsstukken opvraagt wordt de in artikel 154, vierde lid, van [verordening 1308/2013](32013R1308) bedoelde termijn opgeschort tot de verzochte aanvullende bewijsstukken door de producentenorganisatie aan de minister zijn overgelegd.
+Indien de minister op grond van [artikel 5.2.24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=2&artikel=5.2.24&z=2023-06-10&g=2023-06-10), aanvullende bewijsstukken opvraagt wordt de in artikel 154, vierde lid, van [verordening 1308/2013](32013R1308) bedoelde termijn opgeschort tot de verzochte aanvullende bewijsstukken door de producentenorganisatie aan de minister zijn overgelegd.
 
 ##### Artikel 5.2.26
 
@@ -1682,13 +1682,13 @@ Indien de minister op grond van [artikel 5.2.24, vierde lid](https://wetten.over
 
 - a. de verslagen van de in het afgelopen boekjaar gehouden algemene vergaderingen;
 
-- b. een digitale ledenlijst per 1 januari van het lopende jaar, met gebruikmaking van een door de minister beschikbaar gesteld middel inclusief vermelding van de niet-producerende leden, nieuwe leden en leden die gedurende het vorige jaar zijn uitgetreden, onder vermelding van de datum van uittreding, alsook van de leden waarop [artikel 5.2.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.4&z=2023-05-23&g=2023-05-23), van toepassing is met gebruikmaking van een door de minister beschikbaar gesteld middel; en
+- b. een digitale ledenlijst per 1 januari van het lopende jaar, met gebruikmaking van een door de minister beschikbaar gesteld middel inclusief vermelding van de niet-producerende leden, nieuwe leden en leden die gedurende het vorige jaar zijn uitgetreden, onder vermelding van de datum van uittreding, alsook van de leden waarop [artikel 5.2.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.4&z=2023-06-10&g=2023-06-10), van toepassing is met gebruikmaking van een door de minister beschikbaar gesteld middel; en
 
 - c. een parafenlijst van tekenbevoegde personen binnen de producentenorganisatie.
 
 2. De producentenorganisatie overlegt jaarlijks uiterlijk op 1 juni, met gebruikmaking van een door de minister beschikbaar gesteld middel, aan de minister een samenvattend overzicht van:
 
-- a. de door de leden op grond van [artikel 5.2.11, derde lid, onderdeel a, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.11&z=2023-05-23&g=2023-05-23), aan de producentenorganisatie verstrekte informatie;
+- a. de door de leden op grond van [artikel 5.2.11, derde lid, onderdeel a, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.11&z=2023-06-10&g=2023-06-10), aan de producentenorganisatie verstrekte informatie;
 
 - b. het areaal van de leden van de producentenorganisatie;
 
@@ -1710,13 +1710,13 @@ Indien de minister op grond van [artikel 5.2.24, vierde lid](https://wetten.over
 
 ##### Artikel 5.2.30
 
-1. Alle artikelen uit [afdeling 5.2.1, §1 tot en met §3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&z=2023-05-23&g=2023-05-23), zijn van overeenkomstige toepassing, tenzij de aangesloten producentenorganisaties zelf invulling aan de betreffende artikelen hebben gegeven, waarvan in ieder geval de [artikelen 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.1&artikel=5.2.1&z=2023-05-23&g=2023-05-23), [5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.4&z=2023-05-23&g=2023-05-23), [5.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.6&z=2023-05-23&g=2023-05-23), [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.7&z=2023-05-23&g=2023-05-23), [5.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.14&z=2023-05-23&g=2023-05-23), [5.2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.15&z=2023-05-23&g=2023-05-23), [5.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.19&z=2023-05-23&g=2023-05-23), [5.2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=2&artikel=5.2.26&z=2023-05-23&g=2023-05-23) en [5.2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=3&artikel=5.2.27&z=2023-05-23&g=2023-05-23) van overeenkomstige toepassing zijn op unies van producentenorganisaties.
+1. Alle artikelen uit [afdeling 5.2.1, §1 tot en met §3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&z=2023-06-10&g=2023-06-10), zijn van overeenkomstige toepassing, tenzij de aangesloten producentenorganisaties zelf invulling aan de betreffende artikelen hebben gegeven, waarvan in ieder geval de [artikelen 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.1&artikel=5.2.1&z=2023-06-10&g=2023-06-10), [5.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.4&z=2023-06-10&g=2023-06-10), [5.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.6&z=2023-06-10&g=2023-06-10), [5.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.7&z=2023-06-10&g=2023-06-10), [5.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.14&z=2023-06-10&g=2023-06-10), [5.2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.15&z=2023-06-10&g=2023-06-10), [5.2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.3&artikel=5.2.19&z=2023-06-10&g=2023-06-10), [5.2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=2&artikel=5.2.26&z=2023-06-10&g=2023-06-10) en [5.2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=3&artikel=5.2.27&z=2023-06-10&g=2023-06-10) van overeenkomstige toepassing zijn op unies van producentenorganisaties.
 
-2. Alle artikelen uit [titel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&z=2023-05-23&g=2023-05-23) en [afdeling 5.2.2 tot en met afdeling 5.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&z=2023-05-23&g=2023-05-23) zijn van overeenkomstige toepassing, tenzij voor de unie van producentenorganisaties een afwijkende regeling is opgenomen.
+2. Alle artikelen uit [titel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&z=2023-06-10&g=2023-06-10) en [afdeling 5.2.2 tot en met afdeling 5.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&z=2023-06-10&g=2023-06-10) zijn van overeenkomstige toepassing, tenzij voor de unie van producentenorganisaties een afwijkende regeling is opgenomen.
 
 ##### Artikel 5.2.31
 
-Een erkenning als bedoeld in artikel 156 van [verordening 1308/2013](32013R1308) wordt slechts verleend indien wordt voldaan aan artikel 156, eerste lid, van [verordening 1308/2013](32013R1308) en titel II, hoofdstuk I, afdeling 3, van [verordening 2017/891](32791R2017) alsmede aan [artikel 5.2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=4&artikel=5.2.29&z=2023-05-23&g=2023-05-23) en de in [artikel 5.2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=4&artikel=5.2.30&z=2023-05-23&g=2023-05-23) genoemde artikelen.
+Een erkenning als bedoeld in artikel 156 van [verordening 1308/2013](32013R1308) wordt slechts verleend indien wordt voldaan aan artikel 156, eerste lid, van [verordening 1308/2013](32013R1308) en titel II, hoofdstuk I, afdeling 3, van [verordening 2017/891](32791R2017) alsmede aan [artikel 5.2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=4&artikel=5.2.29&z=2023-06-10&g=2023-06-10) en de in [artikel 5.2.30](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=4&artikel=5.2.30&z=2023-06-10&g=2023-06-10) genoemde artikelen.
 
 #### § 5. Niet naleving van de erkenningscriteria
 
@@ -1746,9 +1746,9 @@ Voor iedere producentenorganisatie is de referentieperiode voor het bepalen van 
 
 6. In de waarde van de afgezette productie worden geen transportkosten opgenomen, ongeacht of deze kosten betrekking hebben op intern of extern transport en ongeacht of deze op de verkoopfactuur zijn vermeld.
 
-7. Ter uitvoering van artikel 31, negende lid, van [verordening 2022/126](32026R2022) mogen vergoedingen worden meegeteld die in de referentieperiode, bedoeld in [artikel 5.2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.33&z=2023-05-23&g=2023-05-23), in het kader van oogstverzekeringsacties of door de producentenorganisatie beheerde acties, bedoeld in [artikel 5.3.163](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=9&sub-paragraaf=9.2&artikel=5.3.163&z=2023-05-23&g=2023-05-23), zijn uitgekeerd aan de producentenorganisatie of haar leden.
+7. Ter uitvoering van artikel 31, negende lid, van [verordening 2022/126](32026R2022) mogen vergoedingen worden meegeteld die in de referentieperiode, bedoeld in [artikel 5.2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.33&z=2023-06-10&g=2023-06-10), in het kader van oogstverzekeringsacties of door de producentenorganisatie beheerde acties, bedoeld in [artikel 5.3.163](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=9&sub-paragraaf=9.2&artikel=5.3.163&z=2023-06-10&g=2023-06-10), zijn uitgekeerd aan de producentenorganisatie of haar leden.
 
-8. In de waarde van de afgezette productie worden geen debiteuren opgenomen die op het tijdstip van definitieve opgave van de waarde van de afgezette productie, bedoeld in [artikel 5.2.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.38&z=2023-05-23&g=2023-05-23), nog openstaan.
+8. In de waarde van de afgezette productie worden geen debiteuren opgenomen die op het tijdstip van definitieve opgave van de waarde van de afgezette productie, bedoeld in [artikel 5.2.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.38&z=2023-06-10&g=2023-06-10), nog openstaan.
 
 9. Terugbetalingen aan afnemers worden uit de waarde van de afgezette productie gehaald op het moment dat creditering in de boekhouding van de producentenorganisatie gebruikelijk is.
 
@@ -1756,11 +1756,11 @@ Voor iedere producentenorganisatie is de referentieperiode voor het bepalen van 
 
 ##### Artikel 5.2.35
 
-1. De waarde van de afgezette productie van aangesloten producenten die zijn toegetreden tot de producentenorganisatie gedurende de referentieperiode, bedoeld in [artikel 5.2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.33&z=2023-05-23&g=2023-05-23), kan in aanmerking worden genomen door bij de bepaling van de waarde van de afgezette productie uit te gaan van:
+1. De waarde van de afgezette productie van aangesloten producenten die zijn toegetreden tot de producentenorganisatie gedurende de referentieperiode, bedoeld in [artikel 5.2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.33&z=2023-06-10&g=2023-06-10), kan in aanmerking worden genomen door bij de bepaling van de waarde van de afgezette productie uit te gaan van:
 
 - a. de vanaf de datum van toetreding bij de producentenorganisatie gerealiseerde waarde van de afgezette productie; en
 
-- b. de waarde die is gerealiseerd voorafgaand aan de toetreding tot de producentenorganisatie, bedoeld in [artikel 5.2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.36&z=2023-05-23&g=2023-05-23).
+- b. de waarde die is gerealiseerd voorafgaand aan de toetreding tot de producentenorganisatie, bedoeld in [artikel 5.2.36](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.36&z=2023-06-10&g=2023-06-10).
 
 2. Indien voor een aangesloten producent of producentenorganisatie de onderdelen a en b uit het eerste lid in combinatie worden toegepast, wordt dubbeltelling uitgesloten.
 
@@ -1768,11 +1768,11 @@ Voor iedere producentenorganisatie is de referentieperiode voor het bepalen van 
 
 1. Voor het bepalen van de waarde van de afgezette productie die is gerealiseerd voorafgaand aan de toetreding tot de producentenorganisatie kan de producentenorganisatie gebruik maken van:
 
-- a. de opgave van een andere producentenorganisatie, indien de nieuw toegetreden aangesloten producent voorafgaand aan zijn lidmaatschap bij de nieuwe producentenorganisatie in de gehele referentieperiode, bedoeld in [artikel 5.2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.33&z=2023-05-23&g=2023-05-23), of gedeeltelijk gedurende die periode was aangesloten en daarop reeds een controle door een extern accountant heeft plaats gevonden;
+- a. de opgave van een andere producentenorganisatie, indien de nieuw toegetreden aangesloten producent voorafgaand aan zijn lidmaatschap bij de nieuwe producentenorganisatie in de gehele referentieperiode, bedoeld in [artikel 5.2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.33&z=2023-06-10&g=2023-06-10), of gedeeltelijk gedurende die periode was aangesloten en daarop reeds een controle door een extern accountant heeft plaats gevonden;
 
 - b. een opgave van de aangesloten producent van de waarden van de afgezette productie van de producten waarvoor de producent bij de producentenorganisatie is aangesloten.
 
-2. Bij de opgave, bedoeld in het eerste lid, onderdeel b, wordt eveneens opgave gedaan van eerdere lidmaatschappen, met ingang van de referentieperiode, bedoeld in [artikel 5.2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.33&z=2023-05-23&g=2023-05-23), bij de producentenorganisatie.
+2. Bij de opgave, bedoeld in het eerste lid, onderdeel b, wordt eveneens opgave gedaan van eerdere lidmaatschappen, met ingang van de referentieperiode, bedoeld in [artikel 5.2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.2&paragraaf=1&artikel=5.2.33&z=2023-06-10&g=2023-06-10), bij de producentenorganisatie.
 
 3. Bij de opgave, bedoeld in het eerste lid, onderdeel b, wordt een controleverklaring of rapportage naar aanleiding van een COS 4400 onderzoek van een extern accountant overgelegd waarin wordt bevestigd dat de waarden die zijn opgegeven:
 
@@ -1794,7 +1794,7 @@ De waarde van de afgezette productie die is gerealiseerd door verkoop van produc
 
 ##### Artikel 5.2.38
 
-1. Producentenorganisaties overleggen jaarlijks, gelijktijdig met de aanvraag tot subsidieverlening, bedoeld in [artikel 5.2.48](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=2&artikel=5.2.48&z=2023-05-23&g=2023-05-23), aan de minister de voorlopige opgave van de waarde van de afgezette productie, met gebruikmaking van een door de minister beschikbaar gesteld middel.
+1. Producentenorganisaties overleggen jaarlijks, gelijktijdig met de aanvraag tot subsidieverlening, bedoeld in [artikel 5.2.48](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=2&artikel=5.2.48&z=2023-06-10&g=2023-06-10), aan de minister de voorlopige opgave van de waarde van de afgezette productie, met gebruikmaking van een door de minister beschikbaar gesteld middel.
 
 2. Producentenorganisaties overleggen jaarlijks uiterlijk op 1 oktober gedurende het uitvoeringsjaar aan de minister de definitieve opgave van de afgezette productie met gebruikmaking van een door de minister beschikbaar gesteld middel.
 
@@ -1870,7 +1870,7 @@ De producentenorganisatie of unie van producentenorganisaties informeert jaarlij
 
 ##### Artikel 5.2.43
 
-1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23) bevat een operationeel programma:
+1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10) bevat een operationeel programma:
 
 - a. de visie van de producentenorganisatie voor de toekomst van de producentenorganisatie; en
 
@@ -1880,17 +1880,17 @@ De producentenorganisatie of unie van producentenorganisaties informeert jaarlij
 
 ##### Artikel 5.2.44
 
-1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23) bevat een operationeel programma een actuele SWOT analyse waarin tenminste:
+1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10) bevat een operationeel programma een actuele SWOT analyse waarin tenminste:
 
 - a. een beschrijving en een verifieerbare onderbouwing is opgenomen van de sterke en zwakke punten van de producentenorganisatie; en
 
-- b. een beschrijving en een verifieerbare onderbouwing is opgenomen van de kansen en bedreigingen voor de producentenorganisatie bij het realiseren van de sectorale doelstellingen en de visie, bedoeld in [artikel 5.2.43](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.43&z=2023-05-23&g=2023-05-23), van de producentenorganisatie.
+- b. een beschrijving en een verifieerbare onderbouwing is opgenomen van de kansen en bedreigingen voor de producentenorganisatie bij het realiseren van de sectorale doelstellingen en de visie, bedoeld in [artikel 5.2.43](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.43&z=2023-06-10&g=2023-06-10), van de producentenorganisatie.
 
 2. Uit de SWOT analyse volgen de sectorale doelstellingen die de producentenorganisatie met haar operationeel programma wil nastreven.
 
 ##### Artikel 5.2.45
 
-1. In afwijking van [artikel 2.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23), wordt per project de volgende informatie verstrekt;
+1. In afwijking van [artikel 2.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), wordt per project de volgende informatie verstrekt;
 
 - a. een omschrijving van welke sectorale doelstellingen worden nagestreefd;
 
@@ -1922,19 +1922,19 @@ De producentenorganisatie of unie van producentenorganisaties informeert jaarlij
 
 ##### Artikel 5.2.46
 
-1. De uitgavenposten, bedoeld in [artikel 5.2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-05-23&g=2023-05-23), die in het operationeel programma zijn opgenomen voor de jaren na het eerste jaar van het operationeel programma worden voor de desbetreffende jaren jaarlijks, bij het verzoek tot verlening van de subsidie voor het volgende jaar, onderbouwd door middel van minimaal drie onderling vergelijkbare kostenbegrotingen per uitgavenpost.
+1. De uitgavenposten, bedoeld in [artikel 5.2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-06-10&g=2023-06-10), die in het operationeel programma zijn opgenomen voor de jaren na het eerste jaar van het operationeel programma worden voor de desbetreffende jaren jaarlijks, bij het verzoek tot verlening van de subsidie voor het volgende jaar, onderbouwd door middel van minimaal drie onderling vergelijkbare kostenbegrotingen per uitgavenpost.
 
-2. In afwijking van [artikel 5.2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-05-23&g=2023-05-23), en het eerste lid, kan een begroting voor een uitgavenpost voor een activiteit waarvan de uitgaven in een uitvoeringsjaar worden geraamd op minder dan € 25.000 worden onderbouwd aan de hand van een enkele kostenbegroting.
+2. In afwijking van [artikel 5.2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-06-10&g=2023-06-10), en het eerste lid, kan een begroting voor een uitgavenpost voor een activiteit waarvan de uitgaven in een uitvoeringsjaar worden geraamd op minder dan € 25.000 worden onderbouwd aan de hand van een enkele kostenbegroting.
 
-3. Indien een uitgavenpost voor een activiteit aantoonbaar door slechts een enkele of ten hoogste twee partijen kan worden uitgevoerd of begroot, wordt een begroting, in afwijking van het eerste lid en [artikel 5.2.45, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-05-23&g=2023-05-23), onderbouwd met de beschikbare kostenbegroting(en).
+3. Indien een uitgavenpost voor een activiteit aantoonbaar door slechts een enkele of ten hoogste twee partijen kan worden uitgevoerd of begroot, wordt een begroting, in afwijking van het eerste lid en [artikel 5.2.45, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-06-10&g=2023-06-10), onderbouwd met de beschikbare kostenbegroting(en).
 
 4. Indien een begroting voor een uitgavenpost wordt onderbouwd aan de hand van meerdere kostenbegrotingen wordt de keuze voor de in de begroting opgenomen kostenbegroting voldoende gemotiveerd.
 
 5. De verplichting tot het overleggen van kostenbegrotingen en de daaruit voortvloeiende eis om de keuze voor een bepaalde kostenbegroting te motiveren is niet van toepassing op:
 
-- a. personeelskosten, bedoeld in [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.2&z=2023-05-23&g=2023-05-23) van deze afdeling; en
+- a. personeelskosten, bedoeld in [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.2&z=2023-06-10&g=2023-06-10) van deze afdeling; en
 
-- b. de uitgaven, bedoeld in de [artikelen 5.3.179 tot en met 5.3.186](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.179&z=2023-05-23&g=2023-05-23).
+- b. de uitgaven, bedoeld in de [artikelen 5.3.179 tot en met 5.3.186](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.179&z=2023-06-10&g=2023-06-10).
 
 6. De minister kan besluiten dat de verplichting tot het overleggen van kostenbegrotingen en de daaruit voortvloeiende eis om de keuze voor een bepaalde kostenbegroting te motiveren, wordt verlegd naar een entiteit die op grond van een uitbestedingsovereenkomst namens een of meer producentenorganisaties zelfstandig een activiteit of uitgavenpost onder hun beheer uitvoert of laat uitvoeren.
 
@@ -1960,7 +1960,7 @@ De producentenorganisatie of unie van producentenorganisaties informeert jaarlij
 
 2. De producentenorganisatie of unie van producentenorganisaties dient het meerjarige operationeel programma in tussen 1 augustus en 1 oktober om 12:00 uur van het jaar dat voorafgaat aan het eerste uitvoeringsjaar van het operationeel programma.
 
-3. In afwijking van [artikel 2.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-05-23&g=2023-05-23), dient een producentenorganisatie of unie van producentenorganisaties een aanvraag tot subsidieverlening jaarlijks in tussen 1 augustus en 1 oktober om 12:00 uur.
+3. In afwijking van [artikel 2.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-06-10&g=2023-06-10), dient een producentenorganisatie of unie van producentenorganisaties een aanvraag tot subsidieverlening jaarlijks in tussen 1 augustus en 1 oktober om 12:00 uur.
 
 4. In afwijking van het tweede en derde lid, dient een producentenorganisatie of unie van producentenorganisatie voor een operationeel programma dat aanvangt in 2023 het operationeel programma en het verzoek tot subsidieverlening voor 2023 in uiterlijk om 12:00 uur op 15 november 2022.
 
@@ -1980,11 +1980,11 @@ De producentenorganisatie of unie van producentenorganisaties informeert jaarlij
 
 - f. de looptijd van het operationele programma; of
 
-- g. het wijzigen van het verwachte meetbare resultaat van een project ten aanzien van de sectorale doelstellingen, bedoeld in [artikel 5.2.45, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-05-23&g=2023-05-23), indien sprake is van een verbetering van het meetbare resultaat.
+- g. het wijzigen van het verwachte meetbare resultaat van een project ten aanzien van de sectorale doelstellingen, bedoeld in [artikel 5.2.45, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-06-10&g=2023-06-10), indien sprake is van een verbetering van het meetbare resultaat.
 
 2. Een verzoek tot wijziging als bedoeld in het eerste lid wordt tussen 1 augustus en 1 oktober om 12:00 uur ingediend met gebruikmaking van een door de minister beschikbaar gesteld middel.
 
-3. Op een wijziging als bedoeld in het eerste lid, onderdelen b en c, zijn de [artikelen 5.2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-05-23&g=2023-05-23) en [5.2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.46&z=2023-05-23&g=2023-05-23)van overeenkomstige toepassing.
+3. Op een wijziging als bedoeld in het eerste lid, onderdelen b en c, zijn de [artikelen 5.2.45](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-06-10&g=2023-06-10) en [5.2.46](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.46&z=2023-06-10&g=2023-06-10)van overeenkomstige toepassing.
 
 ##### Artikel 5.2.50
 
@@ -2008,7 +2008,7 @@ De producentenorganisatie of unie van producentenorganisaties informeert jaarlij
 
 4. In aanvulling op het tweede lid geeft de producentenorganisatie ten aanzien van wijzigingen als bedoeld in het tweede lid, onderdeel a, gemotiveerd aan indien het een nieuwe activiteit of uitgavenpost betreft, hoe deze bijdraagt aan het project.
 
-5. Op een wijziging als bedoeld in het tweede lid, onderdeel a, is [artikel 5.2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-05-23&g=2023-05-23), alsmede [artikel 5.2.46, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.46&z=2023-05-23&g=2023-05-23), van overeenkomstige toepassing.
+5. Op een wijziging als bedoeld in het tweede lid, onderdeel a, is [artikel 5.2.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.45&z=2023-06-10&g=2023-06-10), alsmede [artikel 5.2.46, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=1&artikel=5.2.46&z=2023-06-10&g=2023-06-10), van overeenkomstige toepassing.
 
 6. Een producentenorganisatie kan onmiddellijk na het indienen van een verzoek tot wijziging, onder de voorwaarde dat dit voor eigen rekening en risico gebeurt, aanvangen met het doorvoeren van de wijziging.
 
@@ -2018,7 +2018,7 @@ De producentenorganisatie of unie van producentenorganisaties informeert jaarlij
 
 ##### Artikel 5.2.51
 
-De uitgaven, bedoeld in deze paragraaf, zijn subsidiabel indien zij op grond van [afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&z=2023-05-23&g=2023-05-23) subsidiabel worden gesteld.
+De uitgaven, bedoeld in deze paragraaf, zijn subsidiabel indien zij op grond van [afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&z=2023-06-10&g=2023-06-10) subsidiabel worden gesteld.
 
 #### § 3.2. Personeelskosten
 
@@ -2042,7 +2042,7 @@ Onder personeelskosten als bedoeld in artikel 23, eerste lid, en punt 5 van bijl
 
 ##### Artikel 5.2.53
 
-1. Voor de kosten, bedoeld in [artikel 5.2.52, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.2&artikel=5.2.52&z=2023-05-23&g=2023-05-23), geldt een forfaitair uurtarief van € 40.
+1. Voor de kosten, bedoeld in [artikel 5.2.52, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.2&artikel=5.2.52&z=2023-06-10&g=2023-06-10), geldt een forfaitair uurtarief van € 40.
 
 2. Wanneer een lid van een producentenorganisatie meerdere eigenaren of directeuren heeft, geeft de producentenorganisatie bij de indiening van het operationeel programma aan welke eigenaar of directeur de activiteiten zal uitvoeren en welke personeelskosten daarvoor worden opgevoerd.
 
@@ -2072,7 +2072,7 @@ Onder personeelskosten als bedoeld in artikel 23, eerste lid, en punt 5 van bijl
 
 ##### Artikel 5.2.55
 
-1. De producentenorganisatie berekent en onderbouwt de loonkosten, bedoeld in [artikel 5.2.52, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.2&artikel=5.2.52&z=2023-05-23&g=2023-05-23), van de subsidiabele activiteiten aan de hand van uurtarieven op basis van het jaarsalaris van de desbetreffende medewerkers.
+1. De producentenorganisatie berekent en onderbouwt de loonkosten, bedoeld in [artikel 5.2.52, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.2&artikel=5.2.52&z=2023-06-10&g=2023-06-10), van de subsidiabele activiteiten aan de hand van uurtarieven op basis van het jaarsalaris van de desbetreffende medewerkers.
 
 2. In het uurtarief, bedoeld in het eerste lid, kan worden opgenomen:
 
@@ -2120,7 +2120,7 @@ Onder personeelskosten als bedoeld in artikel 23, eerste lid, en punt 5 van bijl
 
 5. Op verzoek van de minister overlegt de producentenorganisatie de gebruiksadministratie, of de in het vierde lid bedoelde administratie of verklaring.
 
-6. De minister kan de gebruiksadministratie, of de in het vierde lid bedoelde administratie of verklaring, opvragen gedurende de instandhoudingstermijn bedoeld in [artikel 5.2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-05-23&g=2023-05-23).
+6. De minister kan de gebruiksadministratie, of de in het vierde lid bedoelde administratie of verklaring, opvragen gedurende de instandhoudingstermijn bedoeld in [artikel 5.2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.2.58
 
@@ -2142,7 +2142,7 @@ Onder personeelskosten als bedoeld in artikel 23, eerste lid, en punt 5 van bijl
 
 - b. nieuwbouw of verbouw die bijdraagt aan de sectorale doelstellingen zoals opgenomen in het project.
 
-2. De producentenorganisatie onderbouwt bij de indiening van het operationeel programma en de aanvraag tot betaling van de steun over het voorafgaande jaar, bedoeld in [artikel 5.3.193](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.3&artikel=5.3.193&z=2023-05-23&g=2023-05-23), de subsidiabele uitgaven, bedoeld in het eerste lid, aan de hand van:
+2. De producentenorganisatie onderbouwt bij de indiening van het operationeel programma en de aanvraag tot betaling van de steun over het voorafgaande jaar, bedoeld in [artikel 5.3.193](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.3&artikel=5.3.193&z=2023-06-10&g=2023-06-10), de subsidiabele uitgaven, bedoeld in het eerste lid, aan de hand van:
 
 - a. bouwtekeningen, die aangeven welk deel van de uitgaven subsidiabele ruimten en subsidiabele elementen betreft; en
 
@@ -2152,7 +2152,7 @@ Onder personeelskosten als bedoeld in artikel 23, eerste lid, en punt 5 van bijl
 
 1. De aankoop van onbebouwde grond, bedoeld in punt 6 van bijlage III van [verordening 2022/126](32026R2022), is subsidiabel indien deze grond daadwerkelijk wordt aangewend voor de realisatie van in het operationeel programma opgenomen investeringen.
 
-2. De aankoop van grond die wordt gebruikt voor onderdelen van investeringen is subsidiabel indien deze wordt aangewend voor nieuwbouw of verbouw, als bedoeld in [artikel 5.2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.60&z=2023-05-23&g=2023-05-23).
+2. De aankoop van grond die wordt gebruikt voor onderdelen van investeringen is subsidiabel indien deze wordt aangewend voor nieuwbouw of verbouw, als bedoeld in [artikel 5.2.60](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.60&z=2023-06-10&g=2023-06-10).
 
 3. De producentenorganisatie toont aan de hand van bouwtekeningen of plattegronden aan welke delen van de grond worden aangewend voor in het operationeel programma opgenomen subsidiabele investeringen.
 
@@ -2180,13 +2180,13 @@ Onder personeelskosten als bedoeld in artikel 23, eerste lid, en punt 5 van bijl
 
 ##### Artikel 5.2.64
 
-1. Indien, binnen de termijn bedoeld in [artikel 5.2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-05-23&g=2023-05-23), een lid de producentenorganisatie verlaat of een producentenorganisatie de unie van producentenorganisaties verlaat, wordt een duurzaam productiemiddel dat op het terrein van het lid of van de producentenorganisaties of een dochteronderneming daarvan is geplaatst, herplaatst of vordert de producentenorganisatie of unie van producentenorganisaties binnen twee maanden na datum van uittreding de restwaarde van het duurzame productiemiddel terug en stort deze in het actiefonds.
+1. Indien, binnen de termijn bedoeld in [artikel 5.2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-06-10&g=2023-06-10), een lid de producentenorganisatie verlaat of een producentenorganisatie de unie van producentenorganisaties verlaat, wordt een duurzaam productiemiddel dat op het terrein van het lid of van de producentenorganisaties of een dochteronderneming daarvan is geplaatst, herplaatst of vordert de producentenorganisatie of unie van producentenorganisaties binnen twee maanden na datum van uittreding de restwaarde van het duurzame productiemiddel terug en stort deze in het actiefonds.
 
 2. In geval van herplaatsing van een duurzaam productiemiddel dat is gefinancierd met behulp van het actiefonds van een producentenorganisatie wordt het op het terrein van het uittredende lid geplaatste duurzame productiemiddel herplaatst op een locatie van de producentenorganisatie, een dochteronderneming, of een lid.
 
 3. In geval van herplaatsing van een duurzaam productiemiddel dat is gefinancierd met behulp van het actiefonds van een unie van producentenorganisaties wordt het duurzame productiemiddel herplaatst op een locatie van de unie van producentenorganisaties, een aangesloten producentenorganisatie, een dochteronderneming of een lid van een aangesloten producentenorganisatie.
 
-4. De restwaarde wordt bepaald naar evenredigheid van het aantal volledige maanden dat resteert tot het einde van de periode, bedoeld in [artikel 5.2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-05-23&g=2023-05-23).
+4. De restwaarde wordt bepaald naar evenredigheid van het aantal volledige maanden dat resteert tot het einde van de periode, bedoeld in [artikel 5.2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-06-10&g=2023-06-10).
 
 5. Indien de producentenorganisatie of unie van producentenorganisaties in het jaar waarin de restwaarde in het actiefonds wordt gestort en in de twee daaropvolgende jaren geen operationeel programma heeft, wordt het gedeelte van de restwaarde waarvoor Uniesteun is betaald door de minister gerecupereerd.
 
@@ -2204,15 +2204,15 @@ Onder personeelskosten als bedoeld in artikel 23, eerste lid, en punt 5 van bijl
 
 ##### Artikel 5.2.67
 
-1. Duurzame productiemiddelen kunnen ten laste van het actiefonds worden gebracht gedurende maximaal de periode, bedoeld in [artikel 5.2.63.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-05-23&g=2023-05-23)
+1. Duurzame productiemiddelen kunnen ten laste van het actiefonds worden gebracht gedurende maximaal de periode, bedoeld in [artikel 5.2.63.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-06-10&g=2023-06-10)
 
-2. Uitgaven voor duurzame productiemiddelen kunnen ook voor het volgende operationele programma in aanmerking worden genomen, indien de periode, bedoeld in [artikel 5.2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-05-23&g=2023-05-23), langer is dan de looptijd van het operationele programma.
+2. Uitgaven voor duurzame productiemiddelen kunnen ook voor het volgende operationele programma in aanmerking worden genomen, indien de periode, bedoeld in [artikel 5.2.63](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-06-10&g=2023-06-10), langer is dan de looptijd van het operationele programma.
 
 ##### Artikel 5.2.68
 
 1. Tweedehands duurzame productiemiddelen, als bedoeld in punt 7 van bijlage III van [verordening 2022/126](32026R2022), zijn subsidiabel indien het aanschafbedrag hoger is dan € 10.000.
 
-2. Tweedehands duurzame productiemiddelen die bij een aangesloten producent, een daaraan verbonden partij of een rechtspersoon als bedoeld in [artikel 5.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.3&z=2023-05-23&g=2023-05-23), zijn aangeschaft zijn niet subsidiabel indien deze productiemiddelen vervolgens bij deze of een andere aangesloten producent of een rechtspersoon als bedoeld in [artikel 5.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.3&z=2023-05-23&g=2023-05-23), worden geplaatst.
+2. Tweedehands duurzame productiemiddelen die bij een aangesloten producent, een daaraan verbonden partij of een rechtspersoon als bedoeld in [artikel 5.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.3&z=2023-06-10&g=2023-06-10), zijn aangeschaft zijn niet subsidiabel indien deze productiemiddelen vervolgens bij deze of een andere aangesloten producent of een rechtspersoon als bedoeld in [artikel 5.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.1&paragraaf=1&sub-paragraaf=1.2&artikel=5.2.3&z=2023-06-10&g=2023-06-10), worden geplaatst.
 
 3. Dit artikel, uitgezonderd het eerste lid, is van overeenkomstige toepassing op investeringen die worden gehuurd of geleased.
 
@@ -2256,9 +2256,9 @@ Producentenorganisaties houden voor alle duurzame productiemiddelen die zijn opg
 
 ##### Artikel 5.2.72
 
-1. Uitgaven voor huur als economisch verantwoord alternatief voor koop van duurzame productiemiddelen zijn gedurende de termijn uit [artikel 5.2.63.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-05-23&g=2023-05-23) subsidiabel overeenkomstig punt 8 van bijlage III van [verordening 2022/126](32026R2022), voor zover koop van de productiemiddelen subsidiabel zou zijn.
+1. Uitgaven voor huur als economisch verantwoord alternatief voor koop van duurzame productiemiddelen zijn gedurende de termijn uit [artikel 5.2.63.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-06-10&g=2023-06-10) subsidiabel overeenkomstig punt 8 van bijlage III van [verordening 2022/126](32026R2022), voor zover koop van de productiemiddelen subsidiabel zou zijn.
 
-2. In het geval de uitgaven betrekking hebben op twee of meer uitvoeringsjaren van het operationeel programma, zijn deze uitgaven, in afwijking van [artikel 5.3.184, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.184&z=2023-05-23&g=2023-05-23), subsidiabel in het jaar waarin zij aan de producentenorganisatie zijn gefactureerd.
+2. In het geval de uitgaven betrekking hebben op twee of meer uitvoeringsjaren van het operationeel programma, zijn deze uitgaven, in afwijking van [artikel 5.3.184, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.184&z=2023-06-10&g=2023-06-10), subsidiabel in het jaar waarin zij aan de producentenorganisatie zijn gefactureerd.
 
 #### § 3.4. Overige kosten
 
@@ -2334,9 +2334,9 @@ Uitgaven voor licenties voor het gebruik van zaden en plantgoed van nieuwe rasse
 
 ##### Artikel 5.3.1. Subsidieverstrekking
 
-1. [Titel 5.1 tot en met titel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&z=2023-05-23&g=2023-05-23) zijn van toepassing op de producten van de sector groenten en fruit, bedoeld in artikel 1, tweede lid, onderdeel i, van [verordening 1308/2013](32013R1308) en op dergelijke producten die uitsluitend zijn bestemd om te worden verwerkt.
+1. [Titel 5.1 tot en met titel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&z=2023-06-10&g=2023-06-10) zijn van toepassing op de producten van de sector groenten en fruit, bedoeld in artikel 1, tweede lid, onderdeel i, van [verordening 1308/2013](32013R1308) en op dergelijke producten die uitsluitend zijn bestemd om te worden verwerkt.
 
-2. [Titel 5.1 tot en met titel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&z=2023-05-23&g=2023-05-23) zijn van toepassing op:
+2. [Titel 5.1 tot en met titel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&z=2023-06-10&g=2023-06-10) zijn van toepassing op:
 
 - a. operationele programma’s die op of na 1 januari 2023 starten;
 
@@ -2350,21 +2350,21 @@ De hoogte van de subsidie wordt per producentenorganisatie bepaald overeenkomsti
 
 ##### Artikel 5.3.3. Subsidiabele kosten
 
-Voor subsidie komen in aanmerking kosten die op grond van [afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&z=2023-05-23&g=2023-05-23) subsidiabel worden gesteld.
+Voor subsidie komen in aanmerking kosten die op grond van [afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&z=2023-06-10&g=2023-06-10) subsidiabel worden gesteld.
 
 ##### Artikel 5.3.4. Verdeling subsidieplafond
 
-In afwijking van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.4&z=2023-05-23&g=2023-05-23) verdeelt de Minister het subsidieplafond overeenkomstig de voorschriften in artikel 52 van [verordening 2021/2115](32115R2021).
+In afwijking van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.4&z=2023-06-10&g=2023-06-10) verdeelt de Minister het subsidieplafond overeenkomstig de voorschriften in artikel 52 van [verordening 2021/2115](32115R2021).
 
 ##### Artikel 5.3.5. Realisatietermijn
 
-De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-05-23&g=2023-05-23), is overeenkomstig artikel 50, tweede lid, van [verordening 2021/2115](32115R2021) ten minste drie en ten hoogste zeven jaar.
+De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10), is overeenkomstig artikel 50, tweede lid, van [verordening 2021/2115](32115R2021) ten minste drie en ten hoogste zeven jaar.
 
 ##### Artikel 5.3.6. Beslissing op de aanvraag
 
-1. In afwijking van [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.12&z=2023-05-23&g=2023-05-23), geeft de minister een beschikking op een aanvraag om subsidie binnen 13 weken na indiening van de aanvraag.
+1. In afwijking van [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.12&z=2023-06-10&g=2023-06-10), geeft de minister een beschikking op een aanvraag om subsidie binnen 13 weken na indiening van de aanvraag.
 
-2. In afwijking van [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.21&z=2023-05-23&g=2023-05-23), geeft de Minister de beschikking tot subsidievaststelling binnen 22 weken na ontvangst van de aanvraag daartoe dan wel binnen 22 weken nadat de voor het indienen geldende termijn is verstreken.
+2. In afwijking van [artikel 2.21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.21&z=2023-06-10&g=2023-06-10), geeft de Minister de beschikking tot subsidievaststelling binnen 22 weken na ontvangst van de aanvraag daartoe dan wel binnen 22 weken nadat de voor het indienen geldende termijn is verstreken.
 
 ### Afdeling 5.3.2. Subsidiabele activiteiten en sectorale doelstellingen
 
@@ -2372,15 +2372,15 @@ De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.ov
 
 ##### Artikel 5.3.7
 
-De activiteiten die zijn opgenomen in [paragraaf 2 tot en met paragraaf 12 van afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&z=2023-05-23&g=2023-05-23) kunnen worden ingezet in het kader van projecten ter realisatie van de sectorale doelstellingen.
+De activiteiten die zijn opgenomen in [paragraaf 2 tot en met paragraaf 12 van afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&z=2023-06-10&g=2023-06-10) kunnen worden ingezet in het kader van projecten ter realisatie van de sectorale doelstellingen.
 
 ##### Artikel 5.3.8
 
-Uitgaven van de producentenorganisatie voor activiteiten ter realisatie van een sectorale doelstelling zijn subsidiabel, indien wordt voldaan aan [afdeling 5.2.3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&z=2023-05-23&g=2023-05-23) en deze afdeling.
+Uitgaven van de producentenorganisatie voor activiteiten ter realisatie van een sectorale doelstelling zijn subsidiabel, indien wordt voldaan aan [afdeling 5.2.3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&z=2023-06-10&g=2023-06-10) en deze afdeling.
 
 ##### Artikel 5.3.9
 
-1. De activiteiten in [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&z=2023-05-23&g=2023-05-23) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=7&z=2023-05-23&g=2023-05-23) van deze afdeling dragen bij aan agromilieuklimaatdoelstellingen, als bedoeld in artikel 12 van [verordening 2022/126](32026R2022), indien:
+1. De activiteiten in [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&z=2023-06-10&g=2023-06-10) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=7&z=2023-06-10&g=2023-06-10) van deze afdeling dragen bij aan agromilieuklimaatdoelstellingen, als bedoeld in artikel 12 van [verordening 2022/126](32026R2022), indien:
 
 - a. de producentenorganisatie het verwachte voordeel en extra effect van de interventie in verband met agromilieuklimaatdoelstellingen ex ante aantoont, overeenkomstig artikel 12, tweede lid, van [verordening 2022/126](32026R2022); en
 
@@ -2398,9 +2398,9 @@ Uitgaven van de producentenorganisatie voor activiteiten ter realisatie van een 
 
 - a. voor zover het meststoffen en gewasbeschermingsmiddelen betreft in het geval van biologische productie; of
 
-- b. in het geval van investeringen in duurzame productiemiddelen als bedoeld in de [artikelen 5.3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.91&z=2023-05-23&g=2023-05-23), [5.3.94](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.94&z=2023-05-23&g=2023-05-23), [5.3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.95&z=2023-05-23&g=2023-05-23), [5.3.97](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.97&z=2023-05-23&g=2023-05-23), [5.3.124](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=7&sub-paragraaf=7.2&artikel=5.3.124&z=2023-05-23&g=2023-05-23) en [5.3.125](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=7&sub-paragraaf=7.2&artikel=5.3.125&z=2023-05-23&g=2023-05-23).
+- b. in het geval van investeringen in duurzame productiemiddelen als bedoeld in de [artikelen 5.3.91](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.91&z=2023-06-10&g=2023-06-10), [5.3.94](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.94&z=2023-06-10&g=2023-06-10), [5.3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.95&z=2023-06-10&g=2023-06-10), [5.3.97](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.97&z=2023-06-10&g=2023-06-10), [5.3.124](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=7&sub-paragraaf=7.2&artikel=5.3.124&z=2023-06-10&g=2023-06-10) en [5.3.125](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=7&sub-paragraaf=7.2&artikel=5.3.125&z=2023-06-10&g=2023-06-10).
 
-4. In het geval van activiteiten als bedoeld in de [artikelen 5.3.82](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.82&z=2023-05-23&g=2023-05-23), [5.3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.86&z=2023-05-23&g=2023-05-23), [5.3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.87&z=2023-05-23&g=2023-05-23), [5.3.88](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.88&z=2023-05-23&g=2023-05-23), [5.3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.92&z=2023-05-23&g=2023-05-23), [5.3.93](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.93&z=2023-05-23&g=2023-05-23), [5.3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=8&sub-paragraaf=8.2&artikel=5.3.133&z=2023-05-23&g=2023-05-23) en [5.3.134](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=8&sub-paragraaf=8.2&artikel=5.3.134&z=2023-05-23&g=2023-05-23) moet de daadwerkelijke waterbesparing worden aangetoond.
+4. In het geval van activiteiten als bedoeld in de [artikelen 5.3.82](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.82&z=2023-06-10&g=2023-06-10), [5.3.86](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.86&z=2023-06-10&g=2023-06-10), [5.3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.87&z=2023-06-10&g=2023-06-10), [5.3.88](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.88&z=2023-06-10&g=2023-06-10), [5.3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.92&z=2023-06-10&g=2023-06-10), [5.3.93](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.93&z=2023-06-10&g=2023-06-10), [5.3.133](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=8&sub-paragraaf=8.2&artikel=5.3.133&z=2023-06-10&g=2023-06-10) en [5.3.134](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=8&sub-paragraaf=8.2&artikel=5.3.134&z=2023-06-10&g=2023-06-10) moet de daadwerkelijke waterbesparing worden aangetoond.
 
 #### § 2. Productieplanning en -organisatie
 
@@ -2418,7 +2418,7 @@ De activiteiten die zijn opgenomen in deze paragraaf kunnen worden ingezet in he
 
 - a. de voorwaarden gesteld in [titel 2.3 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.3) inzake energie-efficiëntie glastuinbouw; en
 
-- b. de voorwaarde dat de energie, die voor de belichtingsinstallatie wordt gebruikt, een duurzaam karakter heeft of wordt opgewekt met behulp van een warmtekrachtkoppelingsinstallatie. Dit geldt gedurende de gehele instandhoudingstermijn, als bedoeld in [artikel 5.2.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-05-23&g=2023-05-23).
+- b. de voorwaarde dat de energie, die voor de belichtingsinstallatie wordt gebruikt, een duurzaam karakter heeft of wordt opgewekt met behulp van een warmtekrachtkoppelingsinstallatie. Dit geldt gedurende de gehele instandhoudingstermijn, als bedoeld in [artikel 5.2.63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.3&artikel=5.2.63&z=2023-06-10&g=2023-06-10).
 
 2. Niet subsidiabel zijn:
 
@@ -2574,7 +2574,7 @@ Subsidiabel zijn uitgaven voor investeringen ter preventie van voedselverspillin
 
 ##### Artikel 5.3.22
 
-Indien dit noodzakelijk is voor het functioneren van de LED-belichtingsinstallatie, bedoeld in [artikel 5.3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.11&z=2023-05-23&g=2023-05-23), zijn uitgaven van de producentenorganisatie voor de aansluiting van een extern trafostation van het energiebedrijf of de verzwaring van de netkoppeling op de warmte-krachtkoppelingsinstallatie, inclusief personeelskosten, subsidiabel.
+Indien dit noodzakelijk is voor het functioneren van de LED-belichtingsinstallatie, bedoeld in [artikel 5.3.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.11&z=2023-06-10&g=2023-06-10), zijn uitgaven van de producentenorganisatie voor de aansluiting van een extern trafostation van het energiebedrijf of de verzwaring van de netkoppeling op de warmte-krachtkoppelingsinstallatie, inclusief personeelskosten, subsidiabel.
 
 ##### Artikel 5.3.23
 
@@ -2604,7 +2604,7 @@ Subsidiabel zijn uitgaven ter preventie van voedselverspilling door uitval in de
 
 - a. het verhogen van de houdbaarheid van de producten;
 
-- b. voedselveiligheid, met name residumonitoring, inclusief bladmonsters in het kader van keurmerken, als bedoeld in [artikel 5.3.100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.100&z=2023-05-23&g=2023-05-23) en productmonsters, watermonsters voor microbiologisch onderzoek en fytosanitaire controles;
+- b. voedselveiligheid, met name residumonitoring, inclusief bladmonsters in het kader van keurmerken, als bedoeld in [artikel 5.3.100, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.100&z=2023-06-10&g=2023-06-10) en productmonsters, watermonsters voor microbiologisch onderzoek en fytosanitaire controles;
 
 - c. kwaliteitszorgsystemen, indien het gaat om:
 
@@ -2660,7 +2660,7 @@ Uitgaven van de producentenorganisatie voor de aanschaf van systemen voor aanvoe
 
 ##### Artikel 5.3.28
 
-Uitgaven van producentenorganisaties voor ICT systemen voor markt en afzet, bedoeld in [artikel 5.3.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.19&z=2023-05-23&g=2023-05-23), inclusief personeelskosten, zijn subsidiabel indien het gaat om de kosten van de benodigde aanpassingen van het systeem en de interface, inclusief de benodigde aanpassingen ten behoeve van de werking van de interface, met:
+Uitgaven van producentenorganisaties voor ICT systemen voor markt en afzet, bedoeld in [artikel 5.3.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.19&z=2023-06-10&g=2023-06-10), inclusief personeelskosten, zijn subsidiabel indien het gaat om de kosten van de benodigde aanpassingen van het systeem en de interface, inclusief de benodigde aanpassingen ten behoeve van de werking van de interface, met:
 
 - a. een aanvoerregistratiesysteem;
 
@@ -2834,7 +2834,7 @@ De activiteiten die zijn opgenomen in deze paragraaf kunnen worden ingezet in he
 
 2. De producentenorganisatie overlegt jaarlijks bij de indiening van de subsidieaanvraag aan de minister een overzicht van het aantal systemen, en het aantal aansluitingen van haar klanten op deze systemen.
 
-3. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+3. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.39
 
@@ -2882,7 +2882,7 @@ Uitgaven van de producentenorganisatie ten behoeve van de bundeling van products
 
 1. Uitgaven van de producentenorganisatie ten behoeve van de versterking van de verticale samenwerking in de keten door beleggingen in aandelen zijn subsidiabel indien het gaat om uitgaven voor investeringen of kapitaal van ondernemingen en indien deze investeringen rechtstreeks bijdragen tot de verwezenlijking van de doelstellingen van het operationele programma.
 
-2. De producentenorganisatie toont bij de subsidieverlening dan wel bij wijziging van een operationeel programma als bedoeld in [artikel 5.2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=2&artikel=5.2.50&z=2023-05-23&g=2023-05-23) aan dat een due diligence onderzoek is uitgevoerd, of een daarmee vergelijkbaar onderzoek.
+2. De producentenorganisatie toont bij de subsidieverlening dan wel bij wijziging van een operationeel programma als bedoeld in [artikel 5.2.50](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=2&artikel=5.2.50&z=2023-06-10&g=2023-06-10) aan dat een due diligence onderzoek is uitgevoerd, of een daarmee vergelijkbaar onderzoek.
 
 3. Niet subsidiabel zijn kosten voor de overname van teeltbedrijven.
 
@@ -2946,7 +2946,7 @@ Uitgaven van de producentenorganisatie voor het opzetten of ontwikkelen van ICT-
 
 ##### Artikel 5.3.46
 
-Uitgaven van producentenorganisaties voor ICT systemen voor markt en afzet, bedoeld in [artikel 5.3.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.19&z=2023-05-23&g=2023-05-23), inclusief personeelskosten, zijn subsidiabel indien het gaat om de kosten van de benodigde aanpassingen van het systeem en de interface, inclusief de benodigde aanpassingen ten behoeve van de werking van de interface, met:
+Uitgaven van producentenorganisaties voor ICT systemen voor markt en afzet, bedoeld in [artikel 5.3.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.19&z=2023-06-10&g=2023-06-10), inclusief personeelskosten, zijn subsidiabel indien het gaat om de kosten van de benodigde aanpassingen van het systeem en de interface, inclusief de benodigde aanpassingen ten behoeve van de werking van de interface, met:
 
 - a. een aanvoerregistratiesysteem;
 
@@ -3062,7 +3062,7 @@ Als uitgaven van de producentenorganisatie voor investeringen ten behoeve van au
 
 3. Uitgaven op locatie van de leden van de producentenorganisatie zijn slechts subsidiabel indien de producentenorganisatie kan aantonen dat zij integraal onderdeel uitmaken van het systeem voor logistieke planning van de producentenorganisatie.
 
-4. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+4. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.56
 
@@ -3076,7 +3076,7 @@ Als uitgaven van de producentenorganisatie voor investeringen ten behoeve van au
 
 2. De producentenorganisatie overlegt jaarlijks bij de indiening van de subsidieaanvraag aan de minister een overzicht van het aantal systemen, en het aantal aansluitingen van haar klanten op deze systemen.
 
-3. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23)
+3. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10)
 
 ##### Artikel 5.3.57
 
@@ -3096,7 +3096,7 @@ Als uitgaven van de producentenorganisatie voor investeringen ten behoeve van au
 
 3. Uitgaven op locatie van de leden van de producentenorganisatie zijn slechts subsidiabel indien de producentenorganisatie kan aantonen dat zij integraal onderdeel uitmaken van het ICT systeem voor customer relationship management van de producentenorganisatie.
 
-4. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+4. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.58
 
@@ -3106,7 +3106,7 @@ Als uitgaven van de producentenorganisatie voor investeringen ten behoeve van au
 
 - b. verbetering van uitwisseling van data en digitale infrastructuur tussen diverse keten partijen.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.59
 
@@ -3130,11 +3130,11 @@ Als uitgaven van de producentenorganisatie voor investeringen ten behoeve van au
 
 1. Uitgaven van de producentenorganisatie voor personeelskosten en externe diensten ten behoeve van voorraadbeheer en distributie door de keten zijn subsidiabel indien het gaat om ICT systemen voor logistieke planning.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.61
 
-1. Uitgaven van producentenorganisaties voor ICT systemen voor markt en afzet, bedoeld in [artikel 5.3.56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=4&sub-paragraaf=4.2&artikel=5.3.56&z=2023-05-23&g=2023-05-23), inclusief personeelskosten, zijn subsidiabel indien het gaat om de kosten van de benodigde aanpassingen van het systeem en de interface, inclusief de benodigde aanpassingen ten behoeve van de werking van de interface, met:
+1. Uitgaven van producentenorganisaties voor ICT systemen voor markt en afzet, bedoeld in [artikel 5.3.56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=4&sub-paragraaf=4.2&artikel=5.3.56&z=2023-06-10&g=2023-06-10), inclusief personeelskosten, zijn subsidiabel indien het gaat om de kosten van de benodigde aanpassingen van het systeem en de interface, inclusief de benodigde aanpassingen ten behoeve van de werking van de interface, met:
 
 - a. een aanvoerregistratiesysteem;
 
@@ -3146,13 +3146,13 @@ Als uitgaven van de producentenorganisatie voor investeringen ten behoeve van au
 
 - e. een facturatiesysteem.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.62
 
-1. Uitgaven van de producentenorganisatie ten behoeve van ICT systemen voor customer relationship management systemen als bedoeld in [artikel 5.3.57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=4&sub-paragraaf=4.2&artikel=5.3.57&z=2023-05-23&g=2023-05-23), inclusief personeelskosten, zijn subsidiabel.
+1. Uitgaven van de producentenorganisatie ten behoeve van ICT systemen voor customer relationship management systemen als bedoeld in [artikel 5.3.57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=4&sub-paragraaf=4.2&artikel=5.3.57&z=2023-06-10&g=2023-06-10), inclusief personeelskosten, zijn subsidiabel.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.63
 
@@ -3162,7 +3162,7 @@ Als uitgaven van de producentenorganisatie voor investeringen ten behoeve van au
 
 - b. verbetering van uitwisseling van data en digitale infrastructuur tussen diverse keten partijen.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.64
 
@@ -3286,13 +3286,13 @@ Uitgaven voor onderzoek door de producentenorganisatie zijn niet subsidiabel ind
 
 ##### Artikel 5.3.72
 
-Investeringen in het kader van onderzoek en ontwikkeling die voldoen aan de algemene voorwaarden in [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=5&sub-paragraaf=5.1&z=2023-05-23&g=2023-05-23) kunnen subsidiabel zijn.
+Investeringen in het kader van onderzoek en ontwikkeling die voldoen aan de algemene voorwaarden in [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=5&sub-paragraaf=5.1&z=2023-06-10&g=2023-06-10) kunnen subsidiabel zijn.
 
 #### § 4.3. Uitgaven voor overige kosten
 
 ##### Artikel 5.3.73
 
-Overige kosten inclusief personeelskosten in het kader van onderzoek en ontwikkeling die voldoen aan de algemene bepalingen in [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=5&sub-paragraaf=5.1&z=2023-05-23&g=2023-05-23) kunnen subsidiabel zijn.
+Overige kosten inclusief personeelskosten in het kader van onderzoek en ontwikkeling die voldoen aan de algemene bepalingen in [paragraaf 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=5&sub-paragraaf=5.1&z=2023-06-10&g=2023-06-10) kunnen subsidiabel zijn.
 
 #### § 6. Afzetbevordering, ontwikkeling en uitvoering ten behoeve van duurzaamheid
 
@@ -3306,7 +3306,7 @@ De activiteiten die zijn opgenomen in deze paragraaf kunnen worden ingezet in he
 
 ##### Artikel 5.3.75
 
-1. Uitgaven van de producentenorganisatie voor investeringen in de vervanging van bestaande belichtingsinstallaties door LED belichtingsinstallaties als bedoeld in [artikel 5.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.11&z=2023-05-23&g=2023-05-23) zijn subsidiabel.
+1. Uitgaven van de producentenorganisatie voor investeringen in de vervanging van bestaande belichtingsinstallaties door LED belichtingsinstallaties als bedoeld in [artikel 5.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.11&z=2023-06-10&g=2023-06-10) zijn subsidiabel.
 
 2. De producentenorganisatie toont bij de indiening van het operationeel programma aan dat:
 
@@ -3610,7 +3610,7 @@ Uitgaven voor investeringen in bioreactoren ten behoeve van duurzame meststoffen
 
 ##### Artikel 5.3.91
 
-1. Uitgaven voor investeringen om een nieuw product of nieuw concept in de keten te borgen door deze onder te brengen in een certificeringssysteem, als bedoeld in [artikel 5.3.100](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.100&z=2023-05-23&g=2023-05-23), zijn subsidiabel.
+1. Uitgaven voor investeringen om een nieuw product of nieuw concept in de keten te borgen door deze onder te brengen in een certificeringssysteem, als bedoeld in [artikel 5.3.100](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.100&z=2023-06-10&g=2023-06-10), zijn subsidiabel.
 
 2. Niet subsidiabel zijn uitgaven voor investeringen in ICT voorzieningen ten behoeve van:
 
@@ -3760,7 +3760,7 @@ Uitgaven ten behoeve van investeringen in duurzaam bodembeheer zijn subsidiabel 
 
 ##### Artikel 5.3.101
 
-Indien dit noodzakelijk is voor het functioneren van de LED-belichtingsinstallatie, bedoeld in [artikel 5.3.75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.75&z=2023-05-23&g=2023-05-23), zijn uitgaven van de producentenorganisatie voor de aansluiting van een extern trafostation van het energiebedrijf of de verzwaring van de netkoppeling op de warmte-krachtkoppelingsinstallatie, inclusief personeelskosten, subsidiabel.
+Indien dit noodzakelijk is voor het functioneren van de LED-belichtingsinstallatie, bedoeld in [artikel 5.3.75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.2&artikel=5.3.75&z=2023-06-10&g=2023-06-10), zijn uitgaven van de producentenorganisatie voor de aansluiting van een extern trafostation van het energiebedrijf of de verzwaring van de netkoppeling op de warmte-krachtkoppelingsinstallatie, inclusief personeelskosten, subsidiabel.
 
 ##### Artikel 5.3.102
 
@@ -3814,9 +3814,9 @@ Indien dit noodzakelijk is voor het functioneren van de LED-belichtingsinstallat
 
 ##### Artikel 5.3.104
 
-1. Voor de uitgaven, bedoeld in [artikel 5.3.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.103&z=2023-05-23&g=2023-05-23), geldt een forfaitair tarief van 40%.
+1. Voor de uitgaven, bedoeld in [artikel 5.3.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.103&z=2023-06-10&g=2023-06-10), geldt een forfaitair tarief van 40%.
 
-2. De producentenorganisatie onderbouwt bij de indiening van de subsidieaanvraag de uitgaven, bedoeld in [artikel 5.3.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.103&z=2023-05-23&g=2023-05-23), met gebruikmaking van een door de minister beschikbaar gesteld middel.
+2. De producentenorganisatie onderbouwt bij de indiening van de subsidieaanvraag de uitgaven, bedoeld in [artikel 5.3.103, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.103&z=2023-06-10&g=2023-06-10), met gebruikmaking van een door de minister beschikbaar gesteld middel.
 
 ##### Artikel 5.3.105
 
@@ -4162,7 +4162,7 @@ Vervallen
 
 ##### Artikel 5.3.123
 
-1. Uitgaven van de producentenorganisatie voor investeringen in de vervanging van bestaande belichtingsinstallaties door LED belichtingsinstallaties als bedoeld in [artikel 5.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.11&z=2023-05-23&g=2023-05-23). zijn subsidiabel.
+1. Uitgaven van de producentenorganisatie voor investeringen in de vervanging van bestaande belichtingsinstallaties door LED belichtingsinstallaties als bedoeld in [artikel 5.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=2&sub-paragraaf=2.2&artikel=5.3.11&z=2023-06-10&g=2023-06-10). zijn subsidiabel.
 
 2. De producentenorganisatie toont bij de indiening van het operationeel programma aan dat:
 
@@ -4194,7 +4194,7 @@ Uitgaven voor investeringen in het kader van klimaatadaptatie zijn subsidiabel i
 
 ##### Artikel 5.3.126
 
-Indien dit noodzakelijk is voor het functioneren van de LED-belichtingsinstallatie, bedoeld in [artikel 5.3.123 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=7&sub-paragraaf=7.2&artikel=5.3.123&z=2023-05-23&g=2023-05-23), zijn uitgaven van de producentenorganisatie voor de aansluiting van een extern trafostation van het energiebedrijf of de verzwaring van de netkoppeling op de warmte-krachtkoppelingsinstallatie, inclusief personeelskosten, subsidiabel.
+Indien dit noodzakelijk is voor het functioneren van de LED-belichtingsinstallatie, bedoeld in [artikel 5.3.123 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=7&sub-paragraaf=7.2&artikel=5.3.123&z=2023-06-10&g=2023-06-10), zijn uitgaven van de producentenorganisatie voor de aansluiting van een extern trafostation van het energiebedrijf of de verzwaring van de netkoppeling op de warmte-krachtkoppelingsinstallatie, inclusief personeelskosten, subsidiabel.
 
 ##### Artikel 5.3.127
 
@@ -4334,7 +4334,7 @@ Uitgaven van de producentenorganisatie voor activiteiten ten behoeve van het opt
 
 3. Uitgaven op locatie van de leden van de producentenorganisatie zijn slechts subsidiabel indien de producentenorganisatie kan aantonen dat zij integraal onderdeel uitmaken van het systeem voor logistieke planning van de producentenorganisatie.
 
-4. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+4. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.136
 
@@ -4356,7 +4356,7 @@ Uitgaven van de producentenorganisatie voor activiteiten ten behoeve van het opt
 
 - c. efficiencyverbetering.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 3. De producentenorganisatie overlegt jaarlijks bij de indiening van de subsidieaanvraag aan de Minister een overzicht van het aantal systemen, en het aantal aansluitingen van haar klanten op deze systemen.
 
@@ -4378,7 +4378,7 @@ Uitgaven van de producentenorganisatie voor activiteiten ten behoeve van het opt
 
 3. Uitgaven op locatie van de leden van de producentenorganisatie zijn slechts subsidiabel indien de producentenorganisatie kan aantonen dat zij integraal onderdeel uitmaken van het ICT systeem voor customer relationship management van de producentenorganisatie.
 
-4. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+4. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.139
 
@@ -4400,7 +4400,7 @@ Uitgaven van de producentenorganisatie voor activiteiten ten behoeve van het opt
 
 - b. verbetering van uitwisseling van data en digitale infrastructuur tussen diverse keten partijen.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.141
 
@@ -4486,7 +4486,7 @@ Uitgaven van voedingsclaims, zoals het vermelden van gezondheidswaarden van groe
 
 - a. het verhogen van de houdbaarheid van de producten;
 
-- b. voedselveiligheid, met name residumonitoring, inclusief bladmonsters in het kader van keurmerken als bedoeld in [artikel 5.3.144, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=8&sub-paragraaf=8.3&artikel=5.3.144&z=2023-05-23&g=2023-05-23) en productmonsters, watermonsters voor microbiologisch onderzoek en fytosanitaire controles;
+- b. voedselveiligheid, met name residumonitoring, inclusief bladmonsters in het kader van keurmerken als bedoeld in [artikel 5.3.144, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=8&sub-paragraaf=8.3&artikel=5.3.144&z=2023-06-10&g=2023-06-10) en productmonsters, watermonsters voor microbiologisch onderzoek en fytosanitaire controles;
 
 - c. kwaliteitszorgsystemen, indien het gaat om:
 
@@ -4538,9 +4538,9 @@ Uitgaven van voedingsclaims, zoals het vermelden van gezondheidswaarden van groe
 
 ##### Artikel 5.3.147
 
-1. Uitgaven van de producentenorganisatie voor personeelskosten en externe diensten ten behoeve van voorraadbeheer en distributie door de keten zijn subsidiabel indien het gaat om ICT systemen voor logistieke planning als bedoeld in [artikel 5.3.135, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=8&sub-paragraaf=8.2&artikel=5.3.135&z=2023-05-23&g=2023-05-23).
+1. Uitgaven van de producentenorganisatie voor personeelskosten en externe diensten ten behoeve van voorraadbeheer en distributie door de keten zijn subsidiabel indien het gaat om ICT systemen voor logistieke planning als bedoeld in [artikel 5.3.135, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=8&sub-paragraaf=8.2&artikel=5.3.135&z=2023-06-10&g=2023-06-10).
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.148
 
@@ -4556,13 +4556,13 @@ Uitgaven van voedingsclaims, zoals het vermelden van gezondheidswaarden van groe
 
 - e. een facturatiesysteem.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.149
 
 1. Uitgaven van de producentenorganisatie ten behoeve van ICT systemen voor customer relationship management systemen, inclusief personeelskosten, zijn subsidiabel.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.150
 
@@ -4590,7 +4590,7 @@ Uitgaven voor activiteiten ten behoeve van professionalisering van de producente
 
 - b. verbetering van uitwisseling van data en digitale infrastructuur tussen diverse keten partijen.
 
-2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-05-23&g=2023-05-23).
+2. Uitgaven zijn alleen subsidiabel indien zij voldoen aan de algemene voorschriften voor ICT in [paragraaf 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=4&paragraaf=4.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.153
 
@@ -5002,7 +5002,7 @@ De activiteiten die zijn opgenomen in deze paragraaf kunnen worden ingezet in he
 
 9. Uitgaven, inclusief personeelskosten, die gepaard gaan met het oprichten van het onderlinge fonds zijn subsidiabel binnen de voorwaarden en maxima uit artikel 15, tweede en derde lid, van [verordening 2022/126](32026R2022) en hebben betrekking op het beheer van het fonds, waaronder uitgaven voor externe kosten zoals kosten voor de notaris, de accountant of de bank.
 
-10. Uitkering van vergoedingen als bedoeld in het derde lid is slechts mogelijk indien voor de betreffende ongunstige marktomstandigheden, fytosanitaire noodzaak of stijging van de prijzen van grondstoffen geen andere activiteiten uit de [artikelen 5.3.173 tot en met 5.3.184](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-05-23&g=2023-05-23) worden ingezet.
+10. Uitkering van vergoedingen als bedoeld in het derde lid is slechts mogelijk indien voor de betreffende ongunstige marktomstandigheden, fytosanitaire noodzaak of stijging van de prijzen van grondstoffen geen andere activiteiten uit de [artikelen 5.3.173 tot en met 5.3.184](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-06-10&g=2023-06-10) worden ingezet.
 
 11. Over het beheer van het onderlinge fonds wordt een verklaring van een externe accountant verstrekt, volgens een door de minister vastgesteld format.
 
@@ -5036,7 +5036,7 @@ De activiteiten die zijn opgenomen in deze paragraaf kunnen worden ingezet in he
 
 - b. afvoer naar veehouders ten behoeve van vervoedering, nadat het product is gedenatureerd en daarmee niet meer voor voedingsdoeleinden op de markt kan komen; en
 
-- c. gratis verstrekking, als bedoeld in artikel 47, tweede lid, onderdeel f van [verordening 2021/2115](32115R2021), aan liefdadigheidsinstellingen of -organisaties als bedoeld in [artikel 5.3.176, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.176&z=2023-05-23&g=2023-05-23).
+- c. gratis verstrekking, als bedoeld in artikel 47, tweede lid, onderdeel f van [verordening 2021/2115](32115R2021), aan liefdadigheidsinstellingen of -organisaties als bedoeld in [artikel 5.3.176, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.176&z=2023-06-10&g=2023-06-10).
 
 5. Het vierde lid, onderdelen a en b, zijn alleen van toepassing op bederfelijke producten die zonder koeling niet duurzaam kunnen worden opgeslagen in het normale handelsstadium van die producten, als bedoeld in artikel 19, tweede alinea, van [verordening 2022/126](32026R2022).
 
@@ -5054,9 +5054,9 @@ De activiteiten die zijn opgenomen in deze paragraaf kunnen worden ingezet in he
 
 4. De uit de markt genomen producten worden bij controle in dusdanige verpakking aangeboden dat controle mogelijk is en in elk geval niet in een verpakking met een omvang groter dan 1 kubieke meter en een gewicht van meer dan 300 kg.
 
-5. In afwijking van het vierde lid worden de producten, bedoeld in [artikel 5.3.173, tweede lid, onderdelen a en g](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-05-23&g=2023-05-23), in elk geval niet aangeboden in verpakkingen van meer dan 25 kg.
+5. In afwijking van het vierde lid worden de producten, bedoeld in [artikel 5.3.173, tweede lid, onderdelen a en g](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-06-10&g=2023-06-10), in elk geval niet aangeboden in verpakkingen van meer dan 25 kg.
 
-6. Een producentenorganisatie toont aan dat bij het indienen van een melding van het uit de markt nemen ten behoeve van gratis verstrekking als bedoeld in [artikel 5.3.173, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-05-23&g=2023-05-23), de afname door de liefdadigheidsinstelling of -organisatie verzekerd is. Op verzoek van de minister overlegt de producentenorganisatie hiertoe schriftelijke bewijsstukken.
+6. Een producentenorganisatie toont aan dat bij het indienen van een melding van het uit de markt nemen ten behoeve van gratis verstrekking als bedoeld in [artikel 5.3.173, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-06-10&g=2023-06-10), de afname door de liefdadigheidsinstelling of -organisatie verzekerd is. Op verzoek van de minister overlegt de producentenorganisatie hiertoe schriftelijke bewijsstukken.
 
 ##### Artikel 5.3.175
 
@@ -5086,7 +5086,7 @@ De activiteiten die zijn opgenomen in deze paragraaf kunnen worden ingezet in he
 
 ##### Artikel 5.3.177
 
-1. Producentenorganisaties sluiten schriftelijke overeenkomsten met afnemers als bedoeld in [artikel 5.3.174, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.174&z=2023-05-23&g=2023-05-23), en transporteurs van uit de markt genomen producten met gebruikmaking van een door de minister beschikbaar gesteld model, waarin de afnemers en transporteurs worden verplicht:
+1. Producentenorganisaties sluiten schriftelijke overeenkomsten met afnemers als bedoeld in [artikel 5.3.174, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.174&z=2023-06-10&g=2023-06-10), en transporteurs van uit de markt genomen producten met gebruikmaking van een door de minister beschikbaar gesteld model, waarin de afnemers en transporteurs worden verplicht:
 
 - a. tot naleving van de voorwaarden van artikel 28 van [verordening 2022/126](32026R2022), inclusief het voeren van een aparte voorraadboekhouding voor de betrokken concrete acties;
 
@@ -5094,9 +5094,9 @@ De activiteiten die zijn opgenomen in deze paragraaf kunnen worden ingezet in he
 
 - c. de vrachtbrief en de overeenkomst met de producentenorganisatie gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren; en
 
-- d. tot vervoer van de uit de markt genomen producten voor bestemmingen als bedoeld in [artikel 5.3.173, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-05-23&g=2023-05-23), zonder dat verlies uit het vervoermiddel van producten of delen ervan plaatsvindt.
+- d. tot vervoer van de uit de markt genomen producten voor bestemmingen als bedoeld in [artikel 5.3.173, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-06-10&g=2023-06-10), zonder dat verlies uit het vervoermiddel van producten of delen ervan plaatsvindt.
 
-2. In aanvulling op het eerste lid worden ontvangers van uit de markt genomen producten als bedoeld in [artikel 5.3.173, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-05-23&g=2023-05-23), verplicht om de uit de markt genomen producten:
+2. In aanvulling op het eerste lid worden ontvangers van uit de markt genomen producten als bedoeld in [artikel 5.3.173, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-06-10&g=2023-06-10), verplicht om de uit de markt genomen producten:
 
 - a. een niet voor menselijke consumptie geschikte bestemming te geven die:
 
@@ -5106,7 +5106,7 @@ De activiteiten die zijn opgenomen in deze paragraaf kunnen worden ingezet in he
 
 - b. bij ontvangst per vracht te wegen en de weegbrieven gedurende tenminste 7 kalenderjaren, volgend op het kalenderjaar waarin het verkoopseizoen eindigt, te bewaren.
 
-3. Indien voor gratis verstrekking, als bedoeld in [artikel 5.3.173, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-05-23&g=2023-05-23), bestemd product door de verwerkende industrie wordt verwerkt toont de afnemer ten genoegen van de minister aan de hand van bewijsstukken aan dat het product niet opnieuw in het commerciële handelscircuit terecht komt.
+3. Indien voor gratis verstrekking, als bedoeld in [artikel 5.3.173, vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.173&z=2023-06-10&g=2023-06-10), bestemd product door de verwerkende industrie wordt verwerkt toont de afnemer ten genoegen van de minister aan de hand van bewijsstukken aan dat het product niet opnieuw in het commerciële handelscircuit terecht komt.
 
 ##### Artikel 5.3.178
 
@@ -5114,7 +5114,7 @@ Uit de bewijsstukken, bedoeld in artikel 25, tweede lid, van [verordening 2022/1
 
 - a. vanaf welk adres de uit de markt genomen producten bestemd voor gratis uitreiking vervoerd zijn;
 
-- b. het adres waar de uit de markt genomen goederen bestemd voor gratis uitreiking zijn afgeleverd aan een voedselbank als bedoeld in [artikel 5.3.167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=10&sub-paragraaf=10.2&artikel=5.3.167&z=2023-05-23&g=2023-05-23); en
+- b. het adres waar de uit de markt genomen goederen bestemd voor gratis uitreiking zijn afgeleverd aan een voedselbank als bedoeld in [artikel 5.3.167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=10&sub-paragraaf=10.2&artikel=5.3.167&z=2023-06-10&g=2023-06-10); en
 
 - c. het aantal afgelegde kilometers.
 
@@ -5138,7 +5138,7 @@ Uit de bewijsstukken, bedoeld in artikel 25, tweede lid, van [verordening 2022/1
 
 - h. aubergines met GN code 0709 30.
 
-2. In het geval van een crisis kan de minister besluiten om uitgaven voor het groen oogsten en niet oogsten van producten als bedoeld in [artikelen 5.3.179 tot en met 5.3.184](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.179&z=2023-05-23&g=2023-05-23) ook voor andere producten subsidiabel te stellen.
+2. In het geval van een crisis kan de minister besluiten om uitgaven voor het groen oogsten en niet oogsten van producten als bedoeld in [artikelen 5.3.179 tot en met 5.3.184](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=11&artikel=5.3.179&z=2023-06-10&g=2023-06-10) ook voor andere producten subsidiabel te stellen.
 
 ##### Artikel 5.3.180
 
@@ -5222,13 +5222,13 @@ Uit de bewijsstukken, bedoeld in artikel 25, tweede lid, van [verordening 2022/1
 
 2. Uitgaven zijn subsidiabel indien de activiteiten, bedoeld in het eerste lid, uitvoering geven aan de in artikel 13, eerste lid, onderdelen a tot en met c, van [verordening 2022/126](32026R2022) bedoelde doelen.
 
-3. Voor de reis- en verblijfkosten gelden de voorwaarden van [artikel 5.2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.4&artikel=5.2.74&z=2023-05-23&g=2023-05-23).
+3. Voor de reis- en verblijfkosten gelden de voorwaarden van [artikel 5.2.74](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&sub-paragraaf=3.4&artikel=5.2.74&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.3.187
 
 1. Uitgaven van de producentenorganisatie, inclusief personeelskosten, die gerelateerd zijn aan de in artikel 47, tweede lid, onderdeel k van [verordening 2021/2115](32115R2021) bedoelde uitvoering en het beheer van sanitaire en fytosanitaire voorschriften van derde landen op het grondgebied van de Europese Unie om de toegang tot de markten van derde landen te vergemakkelijken, zijn subsidiabel.
 
-2. Indien de producentenorganisatie in het kader van fytosanitaire protocollen met derde landen uitgaven moet doen als bedoeld in [artikel 5.3.103](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.103&z=2023-05-23&g=2023-05-23), geldt in afwijking van [artikel 5.3.104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.104&z=2023-05-23&g=2023-05-23), dat de kosten volledig subsidiabel zijn.
+2. Indien de producentenorganisatie in het kader van fytosanitaire protocollen met derde landen uitgaven moet doen als bedoeld in [artikel 5.3.103](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.103&z=2023-06-10&g=2023-06-10), geldt in afwijking van [artikel 5.3.104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&paragraaf=6&sub-paragraaf=6.3&artikel=5.3.104&z=2023-06-10&g=2023-06-10), dat de kosten volledig subsidiabel zijn.
 
 ##### Artikel 5.3.188
 
@@ -5278,9 +5278,9 @@ De producentenorganisatie dient tussen 1 februari en 1 april om 12:00 uur een aa
 
 ##### Artikel 5.3.194
 
-1. Uitgaven als bedoeld in [afdeling 5.2.3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&z=2023-05-23&g=2023-05-23), en [afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&z=2023-05-23&g=2023-05-23) worden opgenomen in de subsidieaanvraag voor het uitvoeringsjaar waarin de activiteit wordt uitgevoerd, tenzij in afdeling 5.2.3, paragraaf 3 en afdeling 5.3.2 anders wordt bepaald.
+1. Uitgaven als bedoeld in [afdeling 5.2.3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&z=2023-06-10&g=2023-06-10), en [afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&z=2023-06-10&g=2023-06-10) worden opgenomen in de subsidieaanvraag voor het uitvoeringsjaar waarin de activiteit wordt uitgevoerd, tenzij in afdeling 5.2.3, paragraaf 3 en afdeling 5.3.2 anders wordt bepaald.
 
-2. In afwijking van het eerste lid kunnen uitgaven als bedoeld in [afdeling 5.2.3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&z=2023-05-23&g=2023-05-23) en [afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&z=2023-05-23&g=2023-05-23) worden betaald in de periode van 1 januari tot en met 31 maart van het jaar volgend op het uitvoeringsjaar waarin de activiteit wordt uitgevoerd, indien de uitgaven in die periode in het actiefonds worden verwerkt.
+2. In afwijking van het eerste lid kunnen uitgaven als bedoeld in [afdeling 5.2.3, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.2&afdeling=5.2.3&paragraaf=3&z=2023-06-10&g=2023-06-10) en [afdeling 5.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.3&afdeling=5.3.2&z=2023-06-10&g=2023-06-10) worden betaald in de periode van 1 januari tot en met 31 maart van het jaar volgend op het uitvoeringsjaar waarin de activiteit wordt uitgevoerd, indien de uitgaven in die periode in het actiefonds worden verwerkt.
 
 ##### Artikel 5.3.195
 
@@ -5290,7 +5290,7 @@ De producentenorganisatie dient tussen 1 februari en 1 april om 12:00 uur een aa
 
 ##### Artikel 5.3.196
 
-1. In afwijking van de [artikelen 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.14&z=2023-05-23&g=2023-05-23) en [5.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.8&z=2023-05-23&g=2023-05-23) kan een producentenorganisatie de Minister tussen 15 mei en 15 juni om 12:00 uur of tussen 15 september en 15 oktober om 12:00 uur van enig jaar verzoeken om een betaling van ten hoogste 80% van de reeds gerealiseerde uitgaven in het kader van het operationele programma en nog niet aan de producentenorganisatie betaalde bedragen.
+1. In afwijking van de [artikelen 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.14&z=2023-06-10&g=2023-06-10) en [5.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.8&z=2023-06-10&g=2023-06-10) kan een producentenorganisatie de Minister tussen 15 mei en 15 juni om 12:00 uur of tussen 15 september en 15 oktober om 12:00 uur van enig jaar verzoeken om een betaling van ten hoogste 80% van de reeds gerealiseerde uitgaven in het kader van het operationele programma en nog niet aan de producentenorganisatie betaalde bedragen.
 
 2. Ter onderbouwing van het verzoek om gedeeltelijke betaling overlegt de producentenorganisatie de volgende bewijsstukken aan de Minister:
 
@@ -5400,7 +5400,7 @@ De Regeling uitvoering GMO groenten en fruit 2018 wordt ingetrokken, met dien ve
 
 2. De projecten ondersteunen activiteiten die bijdragen aan de interventietypes, bedoeld in artikel 55, eerste lid onderdelen a en e, van [verordening 2021/2115](32115R2021), en de specifieke doelstellingen, bedoeld in artikel 6, eerste lid, onderdelen c en f, van [verordening 2021/2115](32115R2021).
 
-3. Onverminderd [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23), wordt een aanvraag om subsidie ingediend met gebruikmaking van een door de minister beschikbaar gesteld format.
+3. Onverminderd [artikel 2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), wordt een aanvraag om subsidie ingediend met gebruikmaking van een door de minister beschikbaar gesteld format.
 
 ##### Artikel 5.4.3. Hoogte subsidie
 
@@ -5414,9 +5414,9 @@ De subsidie bedraagt ten minste € 125.000 en ten hoogste € 200.000 per proje
 
 ##### Artikel 5.4.5. Subsidiabele kosten
 
-1. Onverminderd artikel 23 en bijlage III van [verordening 2022/126](32026R2022), komen voor zover zij direct verbonden zijn met de uitvoering van de desbetreffende subsidiabele activiteit, als andere subsidiabele kosten als bedoeld in [artikel 1.3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), in aanmerking:
+1. Onverminderd artikel 23 en bijlage III van [verordening 2022/126](32026R2022), komen voor zover zij direct verbonden zijn met de uitvoering van de desbetreffende subsidiabele activiteit, als andere subsidiabele kosten als bedoeld in [artikel 1.3, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), in aanmerking:
 
-- a. reis- en verblijfkosten overeenkomstig de voorwaarden in [artikel 5.4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.4&artikel=5.4.6&z=2023-05-23&g=2023-05-23);
+- a. reis- en verblijfkosten overeenkomstig de voorwaarden in [artikel 5.4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.4&artikel=5.4.6&z=2023-06-10&g=2023-06-10);
 
 - b. aanschaf van materialen overeenkomstig bijlage III, punt 7, van [verordening 2022/126](32026R2022);
 
@@ -5454,11 +5454,11 @@ De minister verdeelt het subsidieplafond per openstelling op volgorde van rangsc
 
 ##### Artikel 5.4.8. Realisatietermijn
 
-De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-05-23&g=2023-05-23), is twee jaar en zes maanden na subsidieverlening.
+De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10), is twee jaar en zes maanden na subsidieverlening.
 
 ##### Artikel 5.4.9. Afwijzingsgronden
 
-Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-05-23&g=2023-05-23), beslist de minister afwijzend op een aanvraag voor subsidieverlening indien een aanvraag minder dan 30 punten behaalt op basis van de rangschikking, bedoeld in [artikel 5.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.4&artikel=5.4.10&z=2023-05-23&g=2023-05-23).
+Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10), beslist de minister afwijzend op een aanvraag voor subsidieverlening indien een aanvraag minder dan 30 punten behaalt op basis van de rangschikking, bedoeld in [artikel 5.4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.4&artikel=5.4.10&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.4.10. Rangschikkingscriteria
 
@@ -5494,7 +5494,7 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoof
 
 3. De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.
 
-4. In afwijking van [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.6&z=2023-05-23&g=2023-05-23), rangschikt de minister indien aan twee of meer aanvragen in totaal een gelijk aantal punten is toegekend, een aanvraag hoger naarmate meer punten zijn toegekend aan respectievelijk onderdeel a en b van het eerste lid.
+4. In afwijking van [artikel 2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.6&z=2023-06-10&g=2023-06-10), rangschikt de minister indien aan twee of meer aanvragen in totaal een gelijk aantal punten is toegekend, een aanvraag hoger naarmate meer punten zijn toegekend aan respectievelijk onderdeel a en b van het eerste lid.
 
 ##### Artikel 5.4.11. Verplichtingen subsidieontvanger
 
@@ -5504,7 +5504,7 @@ Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoof
 
 3. De subsidieontvanger dient jaarlijks, uiterlijk op 1 augustus, een tussenrapportage in bij de minister met gebruikmaking van een door de minister beschikbaar gesteld format. Deze tussenrapportage bevat een overzicht van de uitgevoerde activiteiten, de behaalde deelresultaten en een verantwoording van de gedane uitgaven.
 
-4. In afwijking van [artikel 2.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-05-23&g=2023-05-23), dient de subsidieontvanger een aanvraag tot subsidievaststelling gelijktijdig in met de tussenrapportage, bedoeld in het derde lid.
+4. In afwijking van [artikel 2.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-06-10&g=2023-06-10), dient de subsidieontvanger een aanvraag tot subsidievaststelling gelijktijdig in met de tussenrapportage, bedoeld in het derde lid.
 
 ##### Artikel 5.4.12. Vervaltermijn
 
@@ -5728,33 +5728,33 @@ In deze titel wordt verstaan onder:
 
 2. De landbouwer die in aanmerking wil komen voor de subsidie, bedoeld in het eerste lid, maakt voor de aanvraag gebruik van het beschrijvingsbiljet, bedoeld in [artikel 24, eerste lid, van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=24) en de daarop gebaseerde door de minister vastgestelde regeling.
 
-3. De landbouwer legt vóór 1 november van het jaar waarin hij de aanvraag, bedoeld in het tweede lid, indient, de in [artikel 5.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.7&z=2023-05-23&g=2023-05-23). genoemde gegevens over.
+3. De landbouwer legt vóór 1 november van het jaar waarin hij de aanvraag, bedoeld in het tweede lid, indient, de in [artikel 5.5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.7&z=2023-06-10&g=2023-06-10). genoemde gegevens over.
 
 4. De landbouwer is van de verplichting, bedoeld in het vierde lid, vrijgesteld voor zover de bewijsstukken vóór het verstrijken van de in dat lid genoemde termijn door de verzekeraar worden verstrekt.
 
 ##### Artikel 5.5.3. Afwijzingsgronden
 
-1. Onverminderd [artikel 1.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.2&z=2023-05-23&g=2023-05-23), wordt geen subsidie verstrekt voor zover de landbouwer van overheidswege een andere bijdrage ontvangt voor de premie, bedoeld in [artikel 5.5.2., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-05-23&g=2023-05-23).
+1. Onverminderd [artikel 1.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.2&z=2023-06-10&g=2023-06-10), wordt geen subsidie verstrekt voor zover de landbouwer van overheidswege een andere bijdrage ontvangt voor de premie, bedoeld in [artikel 5.5.2., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-06-10&g=2023-06-10).
 
-2. Geen subsidie wordt verstrekt indien de landbouwer zijn open teelt niet tegen alle ongunstige weersomstandigheden, bedoeld in [artikel 5.5.12.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.12&z=2023-05-23&g=2023-05-23), heeft verzekerd.
+2. Geen subsidie wordt verstrekt indien de landbouwer zijn open teelt niet tegen alle ongunstige weersomstandigheden, bedoeld in [artikel 5.5.12.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.12&z=2023-06-10&g=2023-06-10), heeft verzekerd.
 
 3. Geen subsidie wordt verstrekt ten behoeve van de premie die wordt betaald voor een brede weersverzekering van de open teelt op landbouwareaal dat is gelegen buiten Nederland.
 
 4. De minister beslist afwijzend op een aanvraag om subsidie, indien:
 
-- a. de landbouwer niet voldoet aan [artikel 5.5.2., derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-05-23&g=2023-05-23);
+- a. de landbouwer niet voldoet aan [artikel 5.5.2., derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-06-10&g=2023-06-10);
 
 - b. de landbouwer niet voldoet aan de eisen die gelden voor een actieve landbouwer als bedoeld in [artikel 5 van de Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=5);
 
-- c. de landbouwer ofwel in het geval hij een volmacht heeft verleend als bedoeld in [artikel 5.5.8.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.8&z=2023-05-23&g=2023-05-23), het deel van de premie dat overeenkomt met de gehele premie verminderd met de aangevraagde subsidie op grond van deze regeling, ofwel indien de landbouwer geen volmacht heeft verleend als bedoeld in [artikel 5.5.8.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.8&z=2023-05-23&g=2023-05-23), de volledige premie, niet vóór 1 november van het jaar van de aanvraag heeft betaald, of,
+- c. de landbouwer ofwel in het geval hij een volmacht heeft verleend als bedoeld in [artikel 5.5.8.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.8&z=2023-06-10&g=2023-06-10), het deel van de premie dat overeenkomt met de gehele premie verminderd met de aangevraagde subsidie op grond van deze regeling, ofwel indien de landbouwer geen volmacht heeft verleend als bedoeld in [artikel 5.5.8.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.8&z=2023-06-10&g=2023-06-10), de volledige premie, niet vóór 1 november van het jaar van de aanvraag heeft betaald, of,
 
-- d. geen toestemming als bedoeld in [artikel 5.5.7., onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.7&z=2023-05-23&g=2023-05-23), is gegeven.
+- d. geen toestemming als bedoeld in [artikel 5.5.7., onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.7&z=2023-06-10&g=2023-06-10), is gegeven.
 
 ##### Artikel 5.5.4. Subsidieverstrekking en hoogte
 
 1. De minister verstrekt een subsidie die maximaal 63,7% van de premie bedraagt, exclusief belastingen.
 
-2. De subsidie betreft enkel de oppervlakte van de verzekerde percelen die via het beschrijvingsbiljet, bedoeld in [artikel 5.5.2., tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-05-23&g=2023-05-23), als zodanig zijn opgegeven.
+2. De subsidie betreft enkel de oppervlakte van de verzekerde percelen die via het beschrijvingsbiljet, bedoeld in [artikel 5.5.2., tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-06-10&g=2023-06-10), als zodanig zijn opgegeven.
 
 ##### Artikel 5.5.5. Verdeling subsidieplafond
 
@@ -5762,7 +5762,7 @@ De minister verdeelt het subsidieplafond evenredig over de ingediende aanvragen.
 
 ##### Artikel 5.5.6. Beslistermijn aanvraag
 
-De minister beslist op een aanvraag als bedoeld in [artikel 5.5.2., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-05-23&g=2023-05-23), uiterlijk op 15 mei volgend op het jaar van de aanvraag.
+De minister beslist op een aanvraag als bedoeld in [artikel 5.5.2., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-06-10&g=2023-06-10), uiterlijk op 15 mei volgend op het jaar van de aanvraag.
 
 ##### Artikel 5.5.7. Verplichtingen aanvrager
 
@@ -5772,7 +5772,7 @@ De landbouwer verstrekt de volgende gegevens aan de minister:
 
 - b. de naam van de verzekeraar met wie de brede weersverzekering is afgesloten en een kopie van de verzekeringspolis;
 
-- c. een bewijs van betaling van het deel van de premie, bedoeld in [artikel 5.5.3., vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.3&z=2023-05-23&g=2023-05-23);
+- c. een bewijs van betaling van het deel van de premie, bedoeld in [artikel 5.5.3., vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.3&z=2023-06-10&g=2023-06-10);
 
 - d. toestemming aan de minister om perceelsgegevens uit te wisselen met de verzekeraar ten behoeve van de controle op de naleving van deze regeling;
 
@@ -5782,7 +5782,7 @@ De landbouwer verstrekt de volgende gegevens aan de minister:
 
 ##### Artikel 5.5.8. Betaling subsidie
 
-1. De betaling van de subsidie, bedoeld in [artikel 5.5.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-05-23&g=2023-05-23), geschiedt overeenkomstig [artikel 4:89, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:89) en overeenkomstig een door de landbouwer daartoe verstrekte volmacht als bedoeld in [titel 3 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&titeldeel=3), aan de verzekeraar met wie de landbouwer de brede weersverzekering heeft gesloten.
+1. De betaling van de subsidie, bedoeld in [artikel 5.5.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=1&artikel=5.5.2&z=2023-06-10&g=2023-06-10), geschiedt overeenkomstig [artikel 4:89, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:89) en overeenkomstig een door de landbouwer daartoe verstrekte volmacht als bedoeld in [titel 3 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&titeldeel=3), aan de verzekeraar met wie de landbouwer de brede weersverzekering heeft gesloten.
 
 2. Bij gebreke van een volmacht als bedoeld in het eerste lid vindt betaling plaats door bijschrijving op een door de landbouwer opgegeven bankrekening.
 
@@ -5816,7 +5816,7 @@ De landbouwer verstrekt de volgende gegevens aan de minister:
 
 - 3°. optreedt op een aaneengesloten stuk grond waarop één enkel gewas wordt geteeld, en
 
-- 4°. redelijkerwijs is toe te rekenen aan ongunstige weersomstandigheden als bedoeld in [artikel 5.5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.12&z=2023-05-23&g=2023-05-23).;
+- 4°. redelijkerwijs is toe te rekenen aan ongunstige weersomstandigheden als bedoeld in [artikel 5.5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.12&z=2023-06-10&g=2023-06-10).;
 
 - b. alle open teelten verzekerd kunnen worden;
 
@@ -5848,7 +5848,7 @@ De landbouwer verstrekt de volgende gegevens aan de minister:
 
 ##### Artikel 5.5.11. Verlenging goedkeuring
 
-1. De goedkeuring, bedoeld in [artikel 5.5.10., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.10&z=2023-05-23&g=2023-05-23), kan op verzoek van de verzekeraar steeds voor een periode van een jaar worden verlengd.
+1. De goedkeuring, bedoeld in [artikel 5.5.10., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.10&z=2023-06-10&g=2023-06-10), kan op verzoek van de verzekeraar steeds voor een periode van een jaar worden verlengd.
 
 2. De verzekeraar dient vóór 15 januari van het desbetreffende jaar een verzoek tot verlenging van de goedkeuring in bij de minister en meldt daarbij de eventuele wijzigingen van de verzekeringsvoorwaarden.
 
@@ -5886,17 +5886,17 @@ De landbouwer verstrekt de volgende gegevens aan de minister:
 
 ##### Artikel 5.5.13. Bijzondere voorwaarden
 
-1. In afwijking van [artikel 5.5.10, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.10&z=2023-05-23&g=2023-05-23), mag een brede weersverzekering ook tot uitkering komen bij een financieel verlies van 20% of minder, mits de verzekeraar ten genoegen van de minister onderscheidt welk deel van de premie betrekking heeft op vergoeding van het financieel verlies van de landbouwer van 20% of minder. In dat geval heeft de steun slechts betrekking op het gedeelte van de premie dat ziet op verzekeringsvoorwaarden die in overeenstemming zijn met de bepalingen van deze regeling.
+1. In afwijking van [artikel 5.5.10, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.10&z=2023-06-10&g=2023-06-10), mag een brede weersverzekering ook tot uitkering komen bij een financieel verlies van 20% of minder, mits de verzekeraar ten genoegen van de minister onderscheidt welk deel van de premie betrekking heeft op vergoeding van het financieel verlies van de landbouwer van 20% of minder. In dat geval heeft de steun slechts betrekking op het gedeelte van de premie dat ziet op verzekeringsvoorwaarden die in overeenstemming zijn met de bepalingen van deze regeling.
 
 2. Het onderscheid, bedoeld in het eerste lid, moet helder zijn omschreven in de verzekeringsvoorwaarden.
 
-3. In afwijking van [artikel 5.5.10, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.10&z=2023-05-23&g=2023-05-23), mag een brede weersverzekering voor langer dan twaalf maanden worden aangegaan, mits de premie jaarlijks wordt betaald en de jaarlijkse premie betrekking heeft op de productie van een periode van twaalf maanden.
+3. In afwijking van [artikel 5.5.10, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.10&z=2023-06-10&g=2023-06-10), mag een brede weersverzekering voor langer dan twaalf maanden worden aangegaan, mits de premie jaarlijks wordt betaald en de jaarlijkse premie betrekking heeft op de productie van een periode van twaalf maanden.
 
 4. De minister publiceert een lijst van de goedgekeurde brede weersverzekeringen op de website van de Rijksdienst voor Ondernemend Nederland.
 
 ##### Artikel 5.5.14. Rekenmodel
 
-1. In afwijking van [artikel 5.5.10., eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.10&z=2023-05-23&g=2023-05-23), mag de schade worden vastgesteld op basis van een rekenmodel.
+1. In afwijking van [artikel 5.5.10., eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.10&z=2023-06-10&g=2023-06-10), mag de schade worden vastgesteld op basis van een rekenmodel.
 
 2. Het rekenmodel wordt tezamen met de verzekeringsvoorwaarden goedgekeurd door de minister.
 
@@ -5912,9 +5912,9 @@ Deze titel vervalt met ingang van 1 januari 2028, met dien verstande dat deze va
 
 ##### Artikel 5.5.16. Overgangsrecht
 
-1. Een lopende aanvraag van een verzekeraar als bedoeld in [artikel 4.1.10. van de Regeling Europese EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=4.1.10), wordt bij inwerkingtreding van [artikel 5.5.9.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.9&z=2023-05-23&g=2023-05-23) beschouwd als aanvraag op grond van artikel 5.5.9.
+1. Een lopende aanvraag van een verzekeraar als bedoeld in [artikel 4.1.10. van de Regeling Europese EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=4.1.10), wordt bij inwerkingtreding van [artikel 5.5.9.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.9&z=2023-06-10&g=2023-06-10) beschouwd als aanvraag op grond van artikel 5.5.9.
 
-2. Een verzoek tot verlenging van de goedkeuring op grond van [artikel 4.1.12., tweede lid, van de Regeling Europese EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=4.1.12), wordt bij inwerkingtreding van [artikel 5.5.11.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.11&z=2023-05-23&g=2023-05-23) beschouwd als aanvraag op grond van artikel 5.5.11.
+2. Een verzoek tot verlenging van de goedkeuring op grond van [artikel 4.1.12., tweede lid, van de Regeling Europese EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=4.1.12), wordt bij inwerkingtreding van [artikel 5.5.11.](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.5&paragraaf=2&artikel=5.5.11&z=2023-06-10&g=2023-06-10) beschouwd als aanvraag op grond van artikel 5.5.11.
 
 ### Hoofdstuk 6. Overige bepalingen en slotbepalingen
 
@@ -5976,7 +5976,7 @@ De subsidie bedraagt 50 procent van de subsidiabele kosten, tot een maximum van 
 
 ##### Artikel 3.3.4. Subsidiabele kosten
 
-Voor zover zij direct verbonden zijn aan de uitvoering van de activiteiten, bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2023-05-23&g=2023-05-23), komen als subsidiabele kosten in aanmerking:
+Voor zover zij direct verbonden zijn aan de uitvoering van de activiteiten, bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2023-06-10&g=2023-06-10), komen als subsidiabele kosten in aanmerking:
 
 - a. de kosten voor de aankoop en installatie van een SCR-katalysator;
 
@@ -5988,19 +5988,19 @@ De Minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ##### Artikel 3.3.6. Realisatietermijn
 
-De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-05-23&g=2023-05-23), is 24 maanden na subsidieverlening.
+De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10), is 24 maanden na subsidieverlening.
 
 ##### Artikel 3.3.7. Afwijzingsgronden
 
-Onverminderd de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-05-23&g=2023-05-23) en [3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2023-05-23&g=2023-05-23) beslist de Minister afwijzend op een aanvraag tot subsidieverlening, indien:
+Onverminderd de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10) en [3.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.3&z=2023-06-10&g=2023-06-10) beslist de Minister afwijzend op een aanvraag tot subsidieverlening, indien:
 
 - a. de aanvrager geen houder is van een vergunning voor het vangen van garnalen als bedoeld in [artikel 36 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36);
 
-- b. er aan de aanvrager ten behoeve van een vissersvaartuig reeds een subsidie als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2023-05-23&g=2023-05-23), is verstrekt.
+- b. er aan de aanvrager ten behoeve van een vissersvaartuig reeds een subsidie als bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2023-06-10&g=2023-06-10), is verstrekt.
 
 ##### Artikel 3.3.8. Informatieverplichtingen
 
-Onverminderd de [artikelen 2.9, eerste tot en met vierde lid, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23), en [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.4&z=2023-05-23&g=2023-05-23), gaat een aanvraag tot subsidieverlening vergezeld van de volgende gegevens:
+Onverminderd de [artikelen 2.9, eerste tot en met vierde lid, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), en [3.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.4&z=2023-06-10&g=2023-06-10), gaat een aanvraag tot subsidieverlening vergezeld van de volgende gegevens:
 
 - a. een investeringsplan met daarin een beschrijving van de investering;
 
@@ -6010,27 +6010,27 @@ Onverminderd de [artikelen 2.9, eerste tot en met vierde lid, zesde en zevende l
 
 ##### Artikel 3.3.9. Verplichtingen subsidieontvanger
 
-Onverminderd de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2023-05-23&g=2023-05-23), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.15&z=2023-05-23&g=2023-05-23) en [3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-05-23&g=2023-05-23), is de subsidieontvanger verplicht:
+Onverminderd de [artikelen 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.7&z=2023-06-10&g=2023-06-10), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.15&z=2023-06-10&g=2023-06-10) en [3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.7&z=2023-06-10&g=2023-06-10), is de subsidieontvanger verplicht:
 
-- a. de betaling van de kosten voor de activiteiten, bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2023-05-23&g=2023-05-23), te doen plaatsvinden voor het indienen van de aanvraag tot subsidievaststelling; en
+- a. de betaling van de kosten voor de activiteiten, bedoeld in [artikel 3.3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2023-06-10&g=2023-06-10), te doen plaatsvinden voor het indienen van de aanvraag tot subsidievaststelling; en
 
-- b. in het jaar dat de subsidievaststelling, bedoeld in [artikel 3.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.10&z=2023-05-23&g=2023-05-23), wordt aangevraagd, houder te zijn van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op garnalen.
+- b. in het jaar dat de subsidievaststelling, bedoeld in [artikel 3.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.2&artikel=3.2.10&z=2023-06-10&g=2023-06-10), wordt aangevraagd, houder te zijn van een vergunning als bedoeld in [artikel 36, eerste lid, van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36) voor het vissen op garnalen.
 
 ##### Artikel 3.3.10. Subsidievaststelling
 
-Onverminderd de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-05-23&g=2023-05-23) en [3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.6&z=2023-05-23&g=2023-05-23), bevat de aanvraag tot subsidievaststelling in ieder geval:
+Onverminderd de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-06-10&g=2023-06-10) en [3.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.6&z=2023-06-10&g=2023-06-10), bevat de aanvraag tot subsidievaststelling in ieder geval:
 
 - a. facturen, inclusief de CE-markering, en betaalbewijzen van de ten behoeve van de subsidiabele activiteit gemaakte en betaalde kosten;
 
-- b. een rapport als bedoeld in [artikel 3.3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2023-05-23&g=2023-05-23).
+- b. een rapport als bedoeld in [artikel 3.3.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.3&artikel=3.3.2&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 3.3.11. Niet-subsidiabele kosten
 
-Onverminderd de [artikelen 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2023-05-23&g=2023-05-23) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2023-05-23&g=2023-05-23), komen de volgende kosten niet in aanmerking voor subsidie:
+Onverminderd de [artikelen 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2023-06-10&g=2023-06-10) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2023-06-10&g=2023-06-10), komen de volgende kosten niet in aanmerking voor subsidie:
 
 - a. kosten van lease en huurkoop;
 
-- b. kosten als bedoeld in [artikel 1.3, aanhef en onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23);
+- b. kosten als bedoeld in [artikel 1.3, aanhef en onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10);
 
 - c. legeskosten.
 
@@ -6222,7 +6222,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 1°. voor eigen arbeid, een uurtarief van € 43;
 
-- 2°. voor loonkosten, een per medewerker bepaald individueel uurtarief, berekend overeenkomstig [artikel 5.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-05-23&g=2023-05-23); en
+- 2°. voor loonkosten, een per medewerker bepaald individueel uurtarief, berekend overeenkomstig [artikel 5.1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-06-10&g=2023-06-10); en
 
 - b. de in onderdeel a berekende arbeidskosten te vermenigvuldigen met 0,4 voor de overige kosten.
 
@@ -6236,13 +6236,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 4°. € 107,– voor de arbeidskosten van een projectleider/ expert.
 
-4. Indien deelnemers aan een samenwerkingsverband het tweede lid van dit artikel toepassen voor de berekening van de subsidiabele kosten, worden de overige kosten van een kennisinstelling die gebruik maakt van de integrale kostensystematiek, bedoeld in [artikel 1.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-05-23&g=2023-05-23), niet toegerekend aan het project.
+4. Indien deelnemers aan een samenwerkingsverband het tweede lid van dit artikel toepassen voor de berekening van de subsidiabele kosten, worden de overige kosten van een kennisinstelling die gebruik maakt van de integrale kostensystematiek, bedoeld in [artikel 1.3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-06-10&g=2023-06-10), niet toegerekend aan het project.
 
 5. Indien investeringskosten of meerdere percentages van de subsidiabele kosten onderdeel kunnen zijn van de berekening van de hoogte van de subsidie, maakt de aanvrager geen gebruik van de berekeningswijze, bedoeld in het tweede lid, onderdeel b.
 
 ##### Artikel 5.1.12a. Adviescommissie gemeenschappelijk landbouwbeleid 2023–2027
 
-1. Er is een Adviescommissie gemeenschappelijk landbouwbeleid 2023–2027, ingesteld overeenkomstig [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.8&z=2023-05-23&g=2023-05-23).
+1. Er is een Adviescommissie gemeenschappelijk landbouwbeleid 2023–2027, ingesteld overeenkomstig [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.8&z=2023-06-10&g=2023-06-10).
 
 2. De commissie bestaat uit ten minste vier en ten hoogste twaalf leden.
 
@@ -6384,7 +6384,7 @@ In deze titel wordt verstaan onder:
 
 - **operationele groep:** samenwerkingsverband dat deel uitmaakt van een EIP en bestaat uit minimaal twee actoren, waarvan minimaal één landbouwer, en dat is gericht op het ontwikkelen, valideren en verfijnen van innovaties;
 
-- **potentiële jonge landbouwer:** jonge landbouwer die niet hoeft te voldoen aan het vereiste van bedrijfshoofd, bedoeld in de begripsbepaling van ‘jonge landbouwer’ in [artikel 5.1.1., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.1&z=2023-05-23&g=2023-05-23).
+- **potentiële jonge landbouwer:** jonge landbouwer die niet hoeft te voldoen aan het vereiste van bedrijfshoofd, bedoeld in de begripsbepaling van ‘jonge landbouwer’ in [artikel 5.1.1., eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.1&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.6.2. Subsidieverlening
 
@@ -6418,7 +6418,7 @@ In deze titel wordt verstaan onder:
 
 1. Voor subsidie komen uitsluitend kosten ten behoeve van het project in aanmerking voor zover deze zien op:
 
-- a. in afwijking van [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), voorbereidingskosten, bestaande uit de oprichting van een operationele groep en het gezamenlijk formuleren van een projectplan, de volgende activiteiten:
+- a. in afwijking van [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), voorbereidingskosten, bestaande uit de oprichting van een operationele groep en het gezamenlijk formuleren van een projectplan, de volgende activiteiten:
 
 - 1°. het werven van de deelnemers;
 
@@ -6442,37 +6442,37 @@ In deze titel wordt verstaan onder:
 
 - 2°. verwerving of leasing van onroerende zaken:
 
-- 3°. indien het project gericht is op de categorie, bedoeld in [artikel 5.6.2., zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), de aankoop van grond;
+- 3°. indien het project gericht is op de categorie, bedoeld in [artikel 5.6.2., zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), de aankoop van grond;
 
 - 4°. de koop of huurkoop van nieuwe machines en installaties tot maximaal de marktwaarde van de activa.
 
-2. In afwijking van het eerste lid komen de kosten, bedoeld in het eerste lid, onderdeel c, niet voor subsidie in aanmerking indien het project gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23).
+2. In afwijking van het eerste lid komen de kosten, bedoeld in het eerste lid, onderdeel c, niet voor subsidie in aanmerking indien het project gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10).
 
-3. In afwijking van [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-05-23&g=2023-05-23), komen de kosten, bedoeld in het eerste lid, onderdeel a, voor subsidie in aanmerking indien deze maximaal één jaar voorafgaand aan de datum van indiening van de aanvraag voor subsidie en niet eerder dan 1 januari 2023 zijn gemaakt.
+3. In afwijking van [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3&z=2023-06-10&g=2023-06-10), komen de kosten, bedoeld in het eerste lid, onderdeel a, voor subsidie in aanmerking indien deze maximaal één jaar voorafgaand aan de datum van indiening van de aanvraag voor subsidie en niet eerder dan 1 januari 2023 zijn gemaakt.
 
-4. De aanvrager berekent de subsidiabele kosten overeenkomstig [artikel 5.1.3., eerste lid, onderdeel a en tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-05-23&g=2023-05-23), overeenkomstig [artikel 5.1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3a&z=2023-05-23&g=2023-05-23). of overeenkomstig [artikel 5.1.3b., tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-05-23&g=2023-05-23).
+4. De aanvrager berekent de subsidiabele kosten overeenkomstig [artikel 5.1.3., eerste lid, onderdeel a en tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-06-10&g=2023-06-10), overeenkomstig [artikel 5.1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3a&z=2023-06-10&g=2023-06-10). of overeenkomstig [artikel 5.1.3b., tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-06-10&g=2023-06-10).
 
-5. In afwijking van het vierde lid kunnen kennisinstellingen de integrale kostensystematiek, bedoeld in [artikel 1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-05-23&g=2023-05-23), hanteren.
+5. In afwijking van het vierde lid kunnen kennisinstellingen de integrale kostensystematiek, bedoeld in [artikel 1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-06-10&g=2023-06-10), hanteren.
 
 ##### Artikel 5.6.4. Hoogte subsidie
 
 1. De hoogte van de subsidie bedraagt minimaal € 125.000 en maximaal € 500.000.
 
-2. In afwijking van het eerste lid bedraagt de subsidie voor een project dat gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), minimaal € 25.000 en maximaal € 125.000.
+2. In afwijking van het eerste lid bedraagt de subsidie voor een project dat gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), minimaal € 25.000 en maximaal € 125.000.
 
-3. Een deelnemer aan de operationele groep ontvangt niet meer dan € 200.000,– van het totale subsidiebedrag, indien de deelnemer geen kleine, middelgrote of micro-onderneming is, als bedoeld in artikel 1, eerste lid, onderdeel a, van de landbouwvrijstellingsverordening. De hoogte van de subsidie wordt naar beneden bijgesteld, voor zover blijkens de ingevulde de minimis verklaring, bedoeld in [artikel 5.6.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.10&z=2023-05-23&g=2023-05-23), als gevolg van de verlening van de subsidie het de-minimis plafond, bedoeld in artikel 3, tweede lid, van de algemene de-minimisverordening, overschreden zou worden.
+3. Een deelnemer aan de operationele groep ontvangt niet meer dan € 200.000,– van het totale subsidiebedrag, indien de deelnemer geen kleine, middelgrote of micro-onderneming is, als bedoeld in artikel 1, eerste lid, onderdeel a, van de landbouwvrijstellingsverordening. De hoogte van de subsidie wordt naar beneden bijgesteld, voor zover blijkens de ingevulde de minimis verklaring, bedoeld in [artikel 5.6.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.10&z=2023-06-10&g=2023-06-10), als gevolg van de verlening van de subsidie het de-minimis plafond, bedoeld in artikel 3, tweede lid, van de algemene de-minimisverordening, overschreden zou worden.
 
-4. De varkenshouders die deelnemen aan de operationele groep, bedoeld in [artikel 5.6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), ontvangen samen ten minste 60% van het totale subsidiebedrag.
+4. De varkenshouders die deelnemen aan de operationele groep, bedoeld in [artikel 5.6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), ontvangen samen ten minste 60% van het totale subsidiebedrag.
 
 5. De hoogte van de subsidie bedraagt:
 
-- a. Indien gebruik wordt gemaakt van de berekeningswijze, benoemd in [artikel 5.1.2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.2&z=2023-05-23&g=2023-05-23):
+- a. Indien gebruik wordt gemaakt van de berekeningswijze, benoemd in [artikel 5.1.2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.2&z=2023-06-10&g=2023-06-10):
 
 - 1°. 40% van de subsidiabele kosten voor investeringen;
 
 - 2°. 100% van de overige subsidiabele kosten;
 
-- b. Indien gebruik wordt gemaakt van de berekeningswijze, benoemd in [artikel 5.1.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.2&z=2023-05-23&g=2023-05-23), 100% van de subsidiabele kosten.
+- b. Indien gebruik wordt gemaakt van de berekeningswijze, benoemd in [artikel 5.1.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.2&z=2023-06-10&g=2023-06-10), 100% van de subsidiabele kosten.
 
 6. De hoogte van de subsidie voor de aankoop van landbouwgrond bedraagt ten hoogste 10% van de totale subsidiabele kosten van het project.
 
@@ -6482,21 +6482,21 @@ In deze titel wordt verstaan onder:
 
 2. Het project is uiterlijk 3 jaar na subsidieverlening afgerond en niet later dan 31 december 2028.
 
-3. In afwijking van het tweede lid is een project dat gericht is op de categorieën, bedoeld in [artikel 5.6.2, zesde lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), respectievelijk uiterlijk 2 jaar en 1 jaar na subsidieverlening afgerond.
+3. In afwijking van het tweede lid is een project dat gericht is op de categorieën, bedoeld in [artikel 5.6.2, zesde lid, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), respectievelijk uiterlijk 2 jaar en 1 jaar na subsidieverlening afgerond.
 
 ##### Artikel 5.6.6. Afwijzingsgronden
 
-1. Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-05-23&g=2023-05-23) beslist de minister afwijzend op een aanvraag voor subsidieverlening indien:
+1. Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10) beslist de minister afwijzend op een aanvraag voor subsidieverlening indien:
 
-- a. het project niet nieuw is voor een deelnemer aan een operationele groep als bedoeld in [artikel 5.6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23);
+- a. het project niet nieuw is voor een deelnemer aan een operationele groep als bedoeld in [artikel 5.6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10);
 
-- b. aan een aanvraag minder dan 30 punten zijn toegekend op grond van [artikel 5.6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.8&z=2023-05-23&g=2023-05-23);
+- b. aan een aanvraag minder dan 30 punten zijn toegekend op grond van [artikel 5.6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.8&z=2023-06-10&g=2023-06-10);
 
-- c. met de uitvoering van het project, niet zijnde de uitvoering van voorbereidingsactiviteiten, bedoeld in [artikel 5.6.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.3&z=2023-05-23&g=2023-05-23), is gestart voordat de aanvraag om subsidie is ingediend.
+- c. met de uitvoering van het project, niet zijnde de uitvoering van voorbereidingsactiviteiten, bedoeld in [artikel 5.6.3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.3&z=2023-06-10&g=2023-06-10), is gestart voordat de aanvraag om subsidie is ingediend.
 
-2. Onverminderd het eerste lid, beslist de minister afwijzend op een aanvraag voor subsidieverlening van een project dat gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), indien:
+2. Onverminderd het eerste lid, beslist de minister afwijzend op een aanvraag voor subsidieverlening van een project dat gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), indien:
 
-- a. een varkenshouder die produceert volgens de biologische productiewijze of een varkenshouder die in het jaar voorafgaand aan het tijdstip van aanvraag varkens met hele staarten op de markt heeft gebracht, deelneemt aan de operationele groep, bedoeld in [artikel 5.6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23);
+- a. een varkenshouder die produceert volgens de biologische productiewijze of een varkenshouder die in het jaar voorafgaand aan het tijdstip van aanvraag varkens met hele staarten op de markt heeft gebracht, deelneemt aan de operationele groep, bedoeld in [artikel 5.6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10);
 
 - b. niet is gebleken dat passende maatregelen zijn getroffen ter voorkoming van staartbijten en andere gedragsstoornissen, als bedoeld in [artikel 2.3, onderdeel b, onder 3, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.3);
 
@@ -6506,7 +6506,7 @@ In deze titel wordt verstaan onder:
 
 ##### Artikel 5.6.7. Verdeling subsidieplafond
 
-De minister verdeelt de subsidieplafonds voor de categorieën, bedoeld in [artikel 5.6.2., zesde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), op volgorde van rangschikking van de aanvragen.
+De minister verdeelt de subsidieplafonds voor de categorieën, bedoeld in [artikel 5.6.2., zesde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), op volgorde van rangschikking van de aanvragen.
 
 ##### Artikel 5.6.8. Rangschikkingscriteria
 
@@ -6522,23 +6522,23 @@ De minister verdeelt de subsidieplafonds voor de categorieën, bedoeld in [artik
 
 2. Het aantal punten dat wordt gegeven bedraagt per onderdeel van het eerste lid ten hoogste 5.
 
-3. Voor de rangschikking van een aanvraag voor een project dat bijdraagt aan de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), wordt het aantal punten gegeven voor het eerste lid, onderdelen a, b, c, en d, vermenigvuldigd met onderscheidenlijk de wegingsfactoren 4, 3, 1 en 2.
+3. Voor de rangschikking van een aanvraag voor een project dat bijdraagt aan de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), wordt het aantal punten gegeven voor het eerste lid, onderdelen a, b, c, en d, vermenigvuldigd met onderscheidenlijk de wegingsfactoren 4, 3, 1 en 2.
 
-4. Voor de rangschikking van een aanvraag voor een project dat bijdraagt aan de doelstelling, bedoeld in [artikel 5.6.2, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), wordt het aantal punten gegeven voor het eerste lid, onderdelen a, b, c en d, vermenigvuldigd met onderscheidenlijk de wegingsfactoren 3, 4, 1 en 2.
+4. Voor de rangschikking van een aanvraag voor een project dat bijdraagt aan de doelstelling, bedoeld in [artikel 5.6.2, zesde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), wordt het aantal punten gegeven voor het eerste lid, onderdelen a, b, c en d, vermenigvuldigd met onderscheidenlijk de wegingsfactoren 3, 4, 1 en 2.
 
-5. Voor de rangschikking van een aanvraag voor een project dat bijdraagt aan de doelstelling, bedoeld in [artikel 5.6.2, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), wordt het aantal punten gegeven voor het eerste lid, onderdelen a, b, c en d, vermenigvuldigd met onderscheidenlijk de wegingsfactoren 3, 2, 1 en 4.
+5. Voor de rangschikking van een aanvraag voor een project dat bijdraagt aan de doelstelling, bedoeld in [artikel 5.6.2, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), wordt het aantal punten gegeven voor het eerste lid, onderdelen a, b, c en d, vermenigvuldigd met onderscheidenlijk de wegingsfactoren 3, 2, 1 en 4.
 
 6. De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.
 
-7. Indien aan twee of meer aanvragen binnen een categorie, bedoeld in [artikel 5.6.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), in totaal een gelijk aantal punten is toegekend, rangschikt de minister een aanvraag hoger naarmate meer punten zijn toegekend voor een rangschikkingscriterium met een hogere wegingsfactor.
+7. Indien aan twee of meer aanvragen binnen een categorie, bedoeld in [artikel 5.6.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), in totaal een gelijk aantal punten is toegekend, rangschikt de minister een aanvraag hoger naarmate meer punten zijn toegekend voor een rangschikkingscriterium met een hogere wegingsfactor.
 
 ##### Artikel 5.6.9. Adviescommissie
 
-De adviescommissie gemeenschappelijk landbouwbeleid 2023–2027, bedoeld in [artikel 5.1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.12a&z=2023-05-23&g=2023-05-23), heeft in het kader van deze titel tot taak de minister te adviseren omtrent de rangschikkingscriteria, bedoeld in [artikel 5.6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.8&z=2023-05-23&g=2023-05-23).
+De adviescommissie gemeenschappelijk landbouwbeleid 2023–2027, bedoeld in [artikel 5.1.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.12a&z=2023-06-10&g=2023-06-10), heeft in het kader van deze titel tot taak de minister te adviseren omtrent de rangschikkingscriteria, bedoeld in [artikel 5.6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.8&z=2023-06-10&g=2023-06-10).
 
 ##### Artikel 5.6.10. Verplichtingen subsidieontvanger
 
-1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-05-23&g=2023-05-23) wordt de aanvraag ingediend met gebruikmaking van een format dat door de minister beschikbaar wordt gesteld en neemt de penvoerder in het bij de aanvraag gevoegde het projectplan op:
+1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10) wordt de aanvraag ingediend met gebruikmaking van een format dat door de minister beschikbaar wordt gesteld en neemt de penvoerder in het bij de aanvraag gevoegde het projectplan op:
 
 - a. de startdatum van het project;
 
@@ -6554,7 +6554,7 @@ De adviescommissie gemeenschappelijk landbouwbeleid 2023–2027, bedoeld in [art
 
 - g. een beschrijving van de innovativiteit ten opzichte van bestaande initiatieven.
 
-2. Onverminderd het eerste lid neemt de penvoerder in het projectplan van een project dat gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), op:
+2. Onverminderd het eerste lid neemt de penvoerder in het projectplan van een project dat gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), op:
 
 - a. gegevens die aantonen dat in het jaar voorafgaand aan de aanvraag passende maatregelen zijn getroffen ter voorkoming van staartbijten en andere gedragsstoornissen, als bedoeld in [artikel 2.3, onderdeel b, onder 3, van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.3);
 
@@ -6566,13 +6566,13 @@ De adviescommissie gemeenschappelijk landbouwbeleid 2023–2027, bedoeld in [art
 
 3. Een deelnemer aan een operationele groep die geen landbouwer en geen kleine, middelgrote of micro-onderneming als bedoeld in artikel 1, eerste lid, onderdeel a, van de landbouwvrijstellingsverordening is, dient een ingevulde de-minimisverklaring in als bedoeld in de algemene de-minimisverordening.
 
-4. Onverminderd het eerste lid onderbouwt de penvoerder in het projectplan van een project dat gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-05-23&g=2023-05-23), dat het project niet bijdraagt aan een vervroegd pensioen van landbouwers.
+4. Onverminderd het eerste lid onderbouwt de penvoerder in het projectplan van een project dat gericht is op de categorie, bedoeld in [artikel 5.6.2, zesde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.6&artikel=5.6.2&z=2023-06-10&g=2023-06-10), dat het project niet bijdraagt aan een vervroegd pensioen van landbouwers.
 
 5. De penvoerder maakt een samenvatting en de resultaten van het project openbaar via de geëigende netwerken, bedoeld in het eerste lid, onderdeel c.
 
-6. Onverminderd [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.18&z=2023-05-23&g=2023-05-23), dient de penvoerder jaarlijks en bij de aanvraag van een deelbetaling een tussenrapportage in bij de minister. Deze tussenrapportage bevat een overzicht van de uitgevoerde activiteiten en de behaalde deelresultaten.
+6. Onverminderd [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.18&z=2023-06-10&g=2023-06-10), dient de penvoerder jaarlijks en bij de aanvraag van een deelbetaling een tussenrapportage in bij de minister. Deze tussenrapportage bevat een overzicht van de uitgevoerde activiteiten en de behaalde deelresultaten.
 
-7. Onverminderd het vierde lid en de [artikelen 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.18&z=2023-05-23&g=2023-05-23) en [2.19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-05-23&g=2023-05-23), bevatten een tussenrapportage en eindverslag de volgende gegevens:
+7. Onverminderd het vierde lid en de [artikelen 2.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.18&z=2023-06-10&g=2023-06-10) en [2.19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.19&z=2023-06-10&g=2023-06-10), bevatten een tussenrapportage en eindverslag de volgende gegevens:
 
 - a. het aantal personen dat van advies, opleiding, kennisuitwisseling of deelname aan de operationele groep heeft geprofiteerd om betere duurzame economische, sociale, milieu en klimaatprestaties en prestaties op het gebied van hulpbronnenefficiëntie te leveren;
 
@@ -6586,7 +6586,7 @@ De adviescommissie gemeenschappelijk landbouwbeleid 2023–2027, bedoeld in [art
 
 2. Er kunnen deelbetalingen worden verstrekt. Een deelbetaling bedraagt minimaal 25% van de verleende subsidie en ten minste € 50.000 van de verleende subsidie. Een deelbetaling kan maximaal twee keer per jaar worden aangevraagd.
 
-3. Onverminderd de [artikelen 5.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.7&z=2023-05-23&g=2023-05-23), en [5.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.8&z=2023-05-23&g=2023-05-23) bedragen de deelbetalingen en het voorschot samen ten hoogste 90% van de verleende subsidie.
+3. Onverminderd de [artikelen 5.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.7&z=2023-06-10&g=2023-06-10), en [5.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.8&z=2023-06-10&g=2023-06-10) bedragen de deelbetalingen en het voorschot samen ten hoogste 90% van de verleende subsidie.
 
 ##### Artikel 5.6.12. Vervaltermijn
 
@@ -6789,6 +6789,582 @@ Facturen en betaalbewijzen zijn op naam gesteld van de producentenorganisatie, d
 ### Hoofdstuk 6. Overige bepalingen en slotbepalingen
 
 ## Bijlage. behorende bij [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.9&z=2023-05-23&g=2023-05-23) van de Regeling Europese EZK- en LNV-subsidies 2021
+
+### 1. Typen documenten
+
+De volgende documenten worden als bewijsstukken geaccepteerd:
+
+### 2. Procedure voor het gebruik van de documenten, bedoeld onder 1, onderdelen a, b en c
+
+De in 1, onderdelen a, b en c, bedoelde bewijsstukken zijn geconverteerde documenten of gegevensdragers. Bij conversie van het origineel naar het geconverteerde document of gegevensdrager wordt aan de hieronder vermelde voorwaarden voldaan:
+
+Het in samenhang bezien van de verschillende bewijsstukken strekt er mede toe de authenticiteit van het geconverteerde document of de gegevensdrager te waarborgen en dat hierop voor controledoeleinden kan worden vertrouwd.
+
+Als de conversie op de juiste wijze gebeurt, is het in het kader van de verantwoording, niet meer noodzakelijk de bewijsstukken op de originele gegevensdrager te bewaren. Het geconverteerde bewijsstuk mag na conversie niet meer gewijzigd kunnen worden.
+
+### 3. Procedure voor het bewaren van stukken die uitsluitend in een elektronische versie bestaan, bedoeld onder 1, onderdeel d
+
+Indien een subsidieontvanger gebruik maakt van elektronische documenten waarbij uitsluitend een elektronische versie bestaat, worden de geautomatiseerde systemen voorzien van beheers- en beveiligingsmaatregelen die de betrouwbaarheid, authenticiteit en integriteit van de elektronische gegevens gedurende de gehele vereiste bewaartermijn waarborgen. Het is aan de subsidieontvanger om dit aan te tonen.
+
+Voor een tweetal veel voorkomende situaties zijn de voorschriften hieronder uitgewerkt:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Titel 5.7. Stimuleren van kennisoverdracht via de Subsidiemodule Agrarische Bedrijfsadvisering en Educatie (SABE)
+
+#### § 5.7.1. Begripsbepalingen
+
+##### Artikel 5.7.1. Begripsbepalingen
+
+In deze titel wordt verstaan onder:
+
+- –. **bedrijfsadviseringssysteem:** een bedrijfsadviseringssysteem als bedoeld in de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=37) en [38 van de Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=38);
+
+- –. **bedrijfsadviseur:** een adviseur die landbouwers adviseert;
+
+- –. **demonstratiebedrijf:** het agrarisch bedrijf van een landbouwer dat een demonstratieproject verzorgt;
+
+- –. **demonstratieproject:** een project dat wordt verzorgd door een demonstratiebedrijf en is bedoeld om landbouwers te inspireren en te laten zien hoe bestaande en bewezen omschakelmaatregelen gericht op verduurzaming van de landbouw in de praktijk kunnen worden toegepast in de eigen landbouwpraktijk;
+
+- –. **dierlijke meststoffen:** dierlijke meststoffen als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1);
+
+- –. **diervoeders:** diervoeders als bedoeld in artikel 3, vierde lid, van [Verordening (EG) nr. 178/2002](32002R0178) van het Europees Parlement en de Raad van 28 januari 2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden (PbEG 2002, L 31);
+
+- –. **dierwaardige veehouderij:** veehouderij die voldoet aan de zes leidende principes bedoeld in het advies van de Raad voor Dierenaangelegenheden van 18 november 2021, te weten: 1) erkenning intrinsieke waarde van het dier, 2) goede voeding, 3) goede omgeving, 4) goede gezondheid, 5) natuurlijk gedrag en 6) positieve emotionele toestand van het dier;
+
+- –. **erkende bedrijfsadviseur:** bedrijfsadviseur die:
+
+- a. overeenkomstig [artikel 38, tweede lid, van de Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=38) is erkend in het kader van het bedrijfsadviseringssysteem; en
+
+- b. naar het oordeel van een op grond van [artikel 38, eerste lid, van de Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=38) aangewezen beroepsorganisatie:
+
+- 1°. beschikt over actuele kennis over ten minste één van de onderwerpen, bedoeld in [artikel 5.7.10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.3&artikel=5.7.10&z=2023-06-10&g=2023-06-10);
+
+- 2°. niet werkzaam is bij een onderneming die landbouwproducten, gewasbeschermingsmiddelen, diervoeders, landbouwmechanisatieproducten of meststoffen verkoopt of een onderneming die in een groep verbonden is aan een onderneming die deze producten verkoopt;
+
+- 3°. in staat is landbouwers op strategisch en tactisch niveau te adviseren;
+
+- –. **geïntegreerde gewasbescherming:** geïntegreerde gewasbescherming als bedoeld in [artikel 1, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1);
+
+- –. **gewasbeschermingsmiddel:** gewasbeschermingsmiddel als bedoeld in artikel 2, eerste lid, van [Verordening (EG) Nr. 1107/2009](32009R1107) van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de [Richtlijnen 79/117/EEG](31979L0117) en [91/414/EEG](31991L0414) van de Raad (PbEU 2009, L 309);
+
+- –. **kennisinstelling:** de volgende in de [bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) genoemde instellingen voor hoger onderwijs:
+
+- –. De openbare universiteit te Wageningen;
+
+- –. Aeres Hogeschool, uitgaande van de Stichting Aeres Groep;
+
+- –. HAS Green Academy, uitgaande van de Stichting HAS Opleidingen te ’s-Hertogenbosch;
+
+- –. Van Hall Larenstein, uitgaande van de Stichting Van Hall Larenstein;
+
+- –. Hogeschool INHOLLAND, uitgaande van de Stichting Hoger Onderwijs Nederland;
+
+- –. **meststoffen:** meststoffen als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1);
+
+- –. **Opleiding bedrijfscoach Natuurinclusief ondernemen in de landbouw:** de Opleiding bedrijfscoach Natuurinclusief ondernemen in de landbouw, ontwikkeld in 2022 door de openbare universiteit te Wageningen, HAS Green Academy, Aeres Hogeschool, Van Hall Larenstein en Hogeschool INHOLLAND;
+
+- –. **Opleiding bedrijfscoach precisielandbouw:** de Opleiding bedrijfscoach precisielandbouw, ontwikkeld in 2022 door de openbare universiteit te Wageningen, HAS Green Academy, Aeres Hogeschool, Van Hall Larenstein en Hogeschool INHOLLAND;
+
+- –. **Opleiding bedrijfscoach stikstof in de landbouw:** de Opleiding bedrijfscoach stikstof in de landbouw, ontwikkeld in 2020 door de openbare universiteit te Wageningen, HAS Green Academy, Aeres Hogeschool, Van Hall Larenstein en Hogeschool INHOLLAND;
+
+- –. **Verdiepingscursus Natuurinclusief ondernemen in de landbouw:** de Verdiepingscursus Natuurinclusief ondernemen in de landbouw, ontwikkeld in 2022 door de openbare universiteit te Wageningen, HAS Green Academy, Aeres Hogeschool, Van Hall Larenstein en Hogeschool INHOLLAND;
+
+- –. **Verdiepingscursus precisielandbouw:** de Verdiepingscursus precisielandbouw, ontwikkeld in 2022 door de openbare universiteit te Wageningen, HAS Green Academy, Aeres Hogeschool, Van Hall Larenstein en Hogeschool INHOLLAND;
+
+- –. **Verdiepingscursus stikstof in de landbouw:** de Verdiepingscursus stikstof in de landbouw, ontwikkeld in 2020 door de openbare universiteit te Wageningen, HAS Green Academy, Aeres Hogeschool, Van Hall Larenstein en Hogeschool INHOLLAND.
+
+#### § 5.7.2. Projectsubsidies
+
+##### Artikel 5.7.2. Subsidieaanvraag
+
+1. De minister verstrekt op aanvraag subsidie aan een onderneming, niet zijnde een landbouwer, voor uitwisseling van kennis en verspreiding van informatie bij projecten waarbij de focus ligt bij de bescherming van natuur, milieu en klimaat, teneinde bij te dragen aan een van of meer van de doelstellingen, bedoeld in artikel 6, eerste en tweede lid, van [verordening 2021/2115](32115R2021); de uitwisseling van kennis en verspreiding van informatie kan onder meer gebeuren in de vorm van de uitvoering van trainingen, workshops, coaching, voorlichtingsactiviteiten en demonstratieactiviteiten en komt ten goede aan een groep van samenwerkende landbouwers.
+
+2. De projecten ondersteunen acties die bijdragen aan de interventietypes, bedoeld in artikel 78, van [verordening 2021/2115](32115R2021), en aan de specifieke doelstellingen, bedoeld in artikel 6, eerste en tweede lid van [verordening 2021/2115](32115R2021), relevante acties ter bevordering van innovatie, scholing en advisering, en andere vormen van uitwisseling van kennis en verspreiding van informatie, en hebben een of meer van de volgende onderwerpen:
+
+- a. kringlooplandbouw:
+
+- 1°. (stikstof)emissie en hergebruik nutriënten;
+
+- 2°. gezonde bodem, water en teeltsystemen;
+
+- 3°. weerbare teeltsystemen en geïntegreerde gewasbescherming;
+
+- 4°. circulair gebruik van gewassen, grondstoffen en nieuwe plantaardige eiwitbronnen;
+
+- 5°. natuurinclusieve landbouw;
+
+- 6°. precisielandbouw;
+
+- b. duurzaam ondernemerschap:
+
+- 1°. persoonlijke ontwikkeling van ondernemers en hun bedrijf;
+
+- 2°. horizontale samenwerking;
+
+- 3°. bedrijfsopvolging;
+
+- 4°. duurzaam verdienvermogen.
+
+##### Artikel 5.7.3. Subsidiabele kosten
+
+1. Voor subsidie komen in aanmerking kosten van de organisatie en uitvoering van trainingen, workshops, coaching, voorlichtingsacties en demonstratieactiviteiten ter bevordering van innovatie, scholing, advisering en andere vormen van uitwisseling van kennis en verspreiding van informatie als bedoeld in artikel 78, tweede lid, van [verordening 2021/2115](32115R2021).
+
+2. Voor subsidie komen niet in aanmerking kosten voor de ontwikkeling van lesmateriaal ten behoeve van de kennisoverdracht.
+
+3. De subsidieontvanger berekent de subsidiabele kosten overeenkomstig [artikel 5.1.3, eerste lid, onderdeel a en tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-06-10&g=2023-06-10), overeenkomstig [artikel 5.1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3a&z=2023-06-10&g=2023-06-10) of overeenkomstig [artikel 5.1.3b, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-06-10&g=2023-06-10).
+
+4. In afwijking van het derde lid kunnen kennisinstellingen de integrale kostensystematiek, bedoeld in [artikel 1.3b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.3b&z=2023-06-10&g=2023-06-10), hanteren.
+
+##### Artikel 5.7.4. Hoogte subsidie en verdeling subsidieplafond
+
+1. De subsidie bedraagt ten hoogste 80% van de subsidiabele kosten.
+
+2. De subsidie bedraagt ten minste € 50.000,– en ten hoogste € 200.000,– per project.
+
+3. De minister verdeelt per openstelling het subsidieplafond op volgorde van rangschikking van de aanvragen.
+
+##### Artikel 5.7.5. Deelbetaling
+
+1. De minister verleent ten hoogste tweemaal per jaar een deelbetaling.
+
+2. De deelbetaling bedraagt ten minste 25% of € 12.500 van de verleende subsidie.
+
+##### Artikel 5.7.6. Realisatietermijn
+
+De termijn, bedoeld in [artikel 2.11, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10), bedraagt drie jaar na subsidieverlening.
+
+##### Artikel 5.7.7. Afwijzingsgronden
+
+Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10), beslist de minister afwijzend op een aanvraag voor subsidieverlening indien:
+
+- a. een aanvraag minder dan 3 punten behaalt op één van de afzonderlijke rangschikkingscriteria, bedoeld in [artikel 5.7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.2&artikel=5.7.8&z=2023-06-10&g=2023-06-10);
+
+- b. de aanvrager een producentengroepering of -organisatie is die een landbouwer verplicht lid te zijn van de groepering of organisatie om deel te kunnen nemen aan het project; of
+
+- c. het project niet past binnen de onderwerpen van [artikel 5.7.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.2&artikel=5.7.2&z=2023-06-10&g=2023-06-10).
+
+##### Artikel 5.7.8. Rangschikkingscriteria
+
+1. De minister kent aan een aanvraag, op basis van het bijhorende projectplan, een hoger aantal punten toe naarmate naar verwachting:
+
+- a. de impact van het project groter is;
+
+- b. de kwaliteit van de combinatie van de groep van samenwerkende landbouwers en de aanvrager hoger is;
+
+- c. de kwaliteit van het projectplan hoger is; en
+
+- d. de kosteneffectiviteit van het project hoger is.
+
+2. Het aantal punten bedraagt per onderdeel van het eerste lid ten hoogste vijf punten.
+
+3. Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdeel a, vermenigvuldigd met twee.
+
+4. De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.
+
+##### Artikel 5.7.9. Verplichtingen subsidieontvanger
+
+1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), bevat een aanvraag voor subsidie als bedoeld in [artikel 5.7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.2&artikel=5.7.2&z=2023-06-10&g=2023-06-10) ten minste:
+
+- a. gegevens over de aanvrager, waaronder contactgegevens en het nummer waaronder zijn onderneming geregistreerd is bij de Kamer van Koophandel;
+
+- b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;
+
+- c. het projectplan, bedoeld in het tweede lid; en
+
+- d. een verklaring van de groep samenwerkende landbouwers waarin wordt aangegeven wat de behoefte aan kennisoverdracht is.
+
+2. De subsidieontvanger stelt een projectplan op waarin in ieder geval worden opgenomen de activiteiten waarvoor subsidie wordt aangevraagd, de doelstellingen van het project, de start- en einddatum, de samenstelling van de groep van samenwerkende landbouwers, de totale kosten, de omvang van de gevraagde subsidie en een samenvatting van het project.
+
+3. Het projectplan wordt opgesteld overeenkomstig een door de minister ter beschikking gesteld model.
+
+4. De aanvrager werkt eraan mee dat informatie over de projecten, waaraan subsidie wordt verstrekt, wordt gedeeld op Groen Kennisnet.
+
+#### § 5.7.3. Verstrekking van advies- en cursusvoucher aan een landbouwer
+
+##### Artikel 5.7.10. Aanvraag, verstrekking en besteding adviesvoucher
+
+1. Een adviesvoucher wordt door de minister op aanvraag verstrekt aan een landbouwer voor het verkrijgen van een bedrijfsspecifiek bedrijfsadvies over één van de volgende aandachtsgebieden:
+
+- a. kringlooplandbouw:
+
+- 1°. (stikstof)emissie en hergebruik nutriënten;
+
+- 2°. gezonde bodem, water en teeltsystemen;
+
+- 3°. weerbare teeltsystemen en geïntegreerde gewasbescherming;
+
+- 4°. circulair gebruik van gewassen, grondstoffen en nieuwe plantaardige eiwitbronnen;
+
+- 5°. natuurinclusieve landbouw;
+
+- 6°. precisielandbouw;
+
+- b. duurzaam ondernemerschap:
+
+- 1°. persoonlijke ontwikkeling van ondernemers en hun bedrijf;
+
+- 2°. horizontale samenwerking;
+
+- 3°. bedrijfsopvolging;
+
+- 4°. duurzaam verdienvermogen.
+
+2. De landbouwer vermeldt bij de aanvraag:
+
+- a. de bedrijfsspecifieke adviesvraag die hij in het kader van het bedrijfsadvies wil stellen;
+
+- b. op welk aandachtsgebied, genoemd in het eerste lid, het bedrijfsadvies gericht zal zijn;
+
+- c. een erkende bedrijfsadviseur, die in het bedrijfsadviseringssysteem is geregistreerd, naar keuze, voor dat specifieke aandachtsgebied.
+
+3. Aan de in het tweede lid, onderdeel c, genoemde erkende bedrijfsadviseur wordt de verstrekte voucher overgedragen.
+
+##### Artikel 5.7.11. Aanvraag, verstrekking en besteding cursusvoucher
+
+1. Een cursusvoucher wordt door de minister op aanvraag verstrekt aan een landbouwer voor het volgen van de Verdiepingscursus ‘stikstof in de landbouw’, de Verdiepingscursus Natuurinclusief ondernemen in de landbouw of de Verdiepingscursus precisielandbouw.
+
+2. De landbouwer vermeldt bij de aanvraag een aangewezen kennisinstelling naar keuze die deze erkende cursus geeft.
+
+3. Aan de in het tweede lid genoemde kennisinstelling wordt de verstrekte voucher overgedragen.
+
+##### Artikel 5.7.12. Verdeling subsidieplafonds
+
+De minister bepaalt op volgorde van binnenkomst aan welke landbouwers, binnen het subsidieplafond voor adviesvouchers of binnen het subsidieplafond voor cursusvouchers, vouchers worden verstrekt, uitgaande van de (maximum)waarde per voucher.
+
+##### Artikel 5.7.13. Afwijzingsgronden
+
+De minister beslist afwijzend op een aanvraag indien:
+
+- a. aan de aanvrager van een adviesvoucher al eerder een adviesvoucher is toegekend in hetzelfde kalenderjaar op basis van deze titel of op basis van [titel 2.4 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.4);
+
+- b. ten behoeve van een agrarische onderneming al eerder in het hetzelfde kalenderjaar van een adviesvoucher gebruik is gemaakt;
+
+- c. aan de aanvrager van een cursusvoucher al eerder een cursusvoucher is toegekend in hetzelfde kalenderjaar.
+
+#### § 5.7.4. Verstrekking subsidie aan een kennisinstelling of erkende bedrijfsadviseur
+
+##### Artikel 5.7.14. Verzilvering advies- en cursusvouchers
+
+Subsidie wordt verstrekt aan een erkende bedrijfsadviseur die een advies heeft verstrekt of een aangewezen kennisinstelling die een cursus heeft uitgevoerd ten behoeve van een landbouwer en in verband daarmee een geldige voucher overlegt.
+
+##### Artikel 5.7.15. Hoogte subsidie
+
+1. De subsidie bedraagt ten hoogste 80% van de subsidiabele kosten en niet meer dan € 1.500,– per adviesvoucher.
+
+2. De subsidie bedraagt ten hoogste 100% van de subsidiabele kosten en niet meer dan € 800,– per cursusvoucher.
+
+##### Artikel 5.7.16. Subsidiabele kosten
+
+1. Voor subsidie voor het geven van advies komen in aanmerking kosten van advies als bedoeld in artikel 78, tweede lid, van [verordening 2021/2115](32115R2021).
+
+2. Voor subsidie voor het geven van advies komen niet in aanmerking kosten die de erkende bedrijfsadviseur maakt voor de inhuur van personen die organisatorisch of financieel niet onafhankelijk zijn van de landbouwer waaraan het advies is verstrekt.
+
+3. Voor subsidie voor de uitvoering van de cursus komen in aanmerking kosten van de beroepsopleiding, waaronder cursussen ten behoeve van scholing als bedoeld in artikel 78, tweede lid, van [verordening 2021/2115](32115R2021).
+
+##### Artikel 5.7.17. Aanvraag verzilvering advies- en cursusvouchers
+
+1. Een aanvraag voor subsidie wordt na afloop van de uitvoering van het advies of de cursus door de kennisinstelling of de erkende bedrijfsadviseur ingediend.
+
+2. De aanvraag moet binnen een jaar zijn ontvangen na de dagtekening van een aan de landbouwer verstrekte voucher.
+
+3. Op een voor het einde van de termijn, bedoeld in het tweede lid, daartoe ingediend verzoek kan de minister besluiten deze termijn eenmalig te verlengen met ten hoogste zes maanden.
+
+4. Indien de aanvraag niet door de minister is ontvangen binnen de termijn, bedoeld in het tweede lid, vervalt de voucher van rechtswege.
+
+##### Artikel 5.7.18. Afwijzingsgronden
+
+Onverminderd [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.11&z=2023-06-10&g=2023-06-10) beslist de minister afwijzend op een aanvraag voor subsidie voor het geven van advies indien:
+
+- a. de adviseur niet overeenkomstig [artikel 38, tweede lid, van de Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=38) is erkend in het kader van het bedrijfsadviseringssysteem;
+
+- b. advisering in een groepsverband heeft plaatsgevonden;
+
+- c. de advisering niet hoofdzakelijk was gericht op het in de aanvraag vermelde onderwerp;
+
+- d. de erkende bedrijfsadviseur financieel niet onafhankelijk is van de aanvrager waardoor het te verstrekken advies niet onpartijdig is in de zin van artikel 15, derde lid, van [verordening 2021/2115](32115R2021);
+
+- e. de erkende bedrijfsadviseur niet toereikend gekwalificeerd of voldoende opgeleid is of sprake is van belangenconflicten als bedoeld in artikel 15, derde lid, van [verordening 2021/2115](32115R2021);
+
+- f. de erkende bedrijfsadviseur niet deskundig is op het onderwerp, bedoeld in [artikel 5.7.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.3&artikel=5.7.10&z=2023-06-10&g=2023-06-10), waarop de advisering is gericht; of
+
+- g. het advies niet in gaat op tenminste de volgende elementen:
+
+- 1°. de adviesbehoefte van de landbouwer met betrekking tot het gekozen aandachtsgebied;
+
+- 2°. de specifieke bedrijfssituatie van de landbouwer;
+
+- 3°. de probleemanalyse;
+
+- 4°. de beoogde impact van het advies.
+
+#### § 5.7.5. Verstrekking van opleidingsvoucher aan een bedrijfsadviseur
+
+##### Artikel 5.7.19. Aanvraag en verstrekking opleidingsvoucher
+
+1. Een opleidingsvoucher wordt door de minister aan een bedrijfsadviseur op aanvraag verstrekt voor het volgen van de Opleiding bedrijfscoach stikstof in de landbouw, de Opleiding bedrijfscoach Natuurinclusief ondernemen in de landbouw of de Opleiding bedrijfscoach precisielandbouw bij een kennisinstelling.
+
+2. De bedrijfsadviseur vermeldt bij de aanvraag een aangewezen kennisinstelling naar keuze die deze erkende opleiding geeft.
+
+3. De opleidingsvoucher wordt overgedragen aan de kennisinstelling, bedoeld in het tweede lid.
+
+##### Artikel 5.7.20. Verdeling subsidieplafond
+
+De minister bepaalt op volgorde van binnenkomst aan welke bedrijfsadviseurs binnen het subsidieplafond opleidingsvouchers worden verstrekt, uitgaande van de maximumwaarde per voucher.
+
+##### Artikel 5.7.21. Afwijzingsgronden
+
+De minister beslist afwijzend op een aanvraag indien aan de aanvrager al eerder een voucher als bedoeld in [artikel 5.7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.5&artikel=5.7.19&z=2023-06-10&g=2023-06-10) of [titel 2.4 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.4) is toegekend in hetzelfde kalenderjaar.
+
+##### Artikel 5.7.22. Besteding opleidingsvoucher
+
+De bedrijfsadviseur draagt de voucher over aan de in de aanvraag opgenomen kennisinstelling.
+
+#### § 5.7.6. Verstrekking subsidie aan een kennisinstelling
+
+##### Artikel 5.7.23. Verzilvering opleidingsvoucher
+
+Subsidie wordt verstrekt aan een kennisinstelling die een opleiding heeft verstrekt aan een bedrijfsadviseur en in verband daarmee een geldige voucher overlegt.
+
+##### Artikel 5.7.24. Hoogte subsidie
+
+De subsidie bedraagt ten hoogste 50% van de subsidiabele kosten en niet meer dan € 1.250,– per voucher.
+
+##### Artikel 5.7.25. Subsidiabele kosten
+
+Voor subsidie komen in aanmerking:
+
+- a. personeelskosten van de opleiders;
+
+- b. rechtstreeks met het opleidingsproject verband houdende operationele kosten, met uitzondering van kosten voor de ontwikkeling van lesmateriaal ten behoeve van de kennisoverdracht.
+
+##### Artikel 5.7.26. Aanvraag verzilvering opleidingsvoucher
+
+1. Een aanvraag voor subsidie wordt na afloop van de opleiding door de kennisinstelling ingediend.
+
+2. De aanvraag moet binnen een jaar na de dagtekening van de aan de bedrijfsadviseur verstrekte voucher zijn ontvangen.
+
+3. Op een voor het einde van de termijn, bedoeld in het tweede lid, daartoe ingediend verzoek kan de minister besluiten deze termijn eenmalig te verlengen met ten hoogste zes maanden.
+
+4. Indien de aanvraag niet binnen de termijn, bedoeld in het tweede lid, door de minister is ontvangen, vervalt de voucher van rechtswege.
+
+##### Artikel 5.7.27. Staatssteun
+
+De subsidies, bedoeld in de [artikelen 5.7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.5&artikel=5.7.19&z=2023-06-10&g=2023-06-10) en [5.7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.6&artikel=5.7.23&z=2023-06-10&g=2023-06-10), bevatten staatssteun en worden gerechtvaardigd door artikel 31 van de algemene groepsvrijstellingsverordening.
+
+#### § 5.7.7. Demonstratieprojecten duurzame landbouw verzorgd door een demonstratiebedrijf
+
+##### Artikel 5.7.28. Subsidieverstrekking kennisoverdracht door demonstratiebedrijven duurzame landbouw
+
+1. De minister verstrekt op aanvraag subsidie voor kennisoverdracht over de omschakeling naar duurzame landbouw in de vorm van demonstratieprojecten aan:
+
+- a. een individuele landbouwer die een aanvraag indient voor een demonstratieproject om zelf demonstratiebedrijf en daarmee aanbieder van kennisoverdracht en voorlichting te willen zijn;
+
+- b. een landbouwer die een aanvraag indient voor zichzelf en maximaal twee andere landbouwers die allen demonstratiebedrijf willen zijn;
+
+- c. een onderneming niet zijnde een landbouwer die als penvoerder een aanvraag indient voor een demonstratieproject voor maximaal drie landbouwers die allen demonstratiebedrijf willen zijn.
+
+2. De omschakeling naar duurzame landbouw, bedoeld in het eerste lid, heeft betrekking op minimaal vijf van de volgende onderwerpen, waarvan emissiereductie stikstof één van de vijf onderwerpen moet zijn:
+
+- a. emissiereductie stikstof;
+
+- b. emissiereductie gewasbeschermingsmiddelen en toepassing van geïntegreerde gewasbescherming;
+
+- c. emissiereductie broeikasgassen;
+
+- d. emissiereductie nitraat en andere meststoffen;
+
+- e. vergroten biodiversiteit;
+
+- f. versterken duurzaam bodembeheer;
+
+- g. verhogen aandeel circulair veevoergebruik;
+
+- h. verbeteren dierenwelzijn en diergezondheid.
+
+3. De subsidie, bedoeld in het eerste lid, wordt niet verstrekt aan:
+
+- a. een onderneming die gewasbeschermingsmiddelen, diervoeders, landbouwmechanisatieproducten of meststoffen verkoopt;
+
+- b. een onderneming die in een groep verbonden is aan een onderneming die producten als bedoeld in onderdeel a verkoopt.
+
+##### Artikel 5.7.29. Hoogte subsidie
+
+1. De subsidie bedraagt 100% van de subsidiabele kosten.
+
+2. De subsidie bedraagt ten minste € 75.000,– en ten hoogste € 360.000,– per demonstratieproject.
+
+3. De subsidie bedraagt ten minste € 75.000,– en ten hoogste € 120.000 per demonstratiebedrijf in drie jaar.
+
+##### Artikel 5.7.30. Deelbetaling
+
+1. De minister verleent ten hoogste tweemaal per jaar een deelbetaling.
+
+2. De deelbetaling bedraagt ten minste 25% of € 25.000 van de verleende subsidie.
+
+##### Artikel 5.7.31. Subsidiabele kosten
+
+1. In afwijking van [artikel 1.4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=1&artikel=1.4&z=2023-06-10&g=2023-06-10), komen voor subsidie in aanmerking kosten van de uitvoering van voorlichtings- en demonstratieactiviteiten, met inbegrip van kosten voor het verzamelen en analyseren van data noodzakelijk voor de demonstratie over het effect van duurzame maatregelen en toepassingen, kosten voor de inrichting van ontvangstruimte en materiaalkosten ten behoeve van deze activiteiten door de aanvragers.
+
+2. Voor subsidie komen niet in aanmerking kosten voor de ontwikkeling, aanschaf of aanleg van middelen ten behoeve van demonstratieprojecten in verband met investeringen ten behoeve van de omschakelmaatregelen.
+
+3. De subsidieontvanger berekent de subsidiabele kosten overeenkomstig [artikel 5.1.3, eerste lid, onderdeel a en tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3&z=2023-06-10&g=2023-06-10), overeenkomstig [artikel 5.1.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3a&z=2023-06-10&g=2023-06-10) of overeenkomstig [artikel 5.1.3b, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.1&artikel=5.1.3b&z=2023-06-10&g=2023-06-10).
+
+##### Artikel 5.7.32. Verdeling van het subsidieplafond
+
+1. De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen.
+
+2. Indien blijkt dat het totale bedrag van de te verlenen subsidies voor projecten als bedoeld in [artikel 5.7.28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.7&artikel=5.7.28&z=2023-06-10&g=2023-06-10), lager is dan het daarvoor vastgestelde subsidieplafond, wordt het overblijvende bedrag gereserveerd voor een volgende openstelling.
+
+##### Artikel 5.7.33. Start- en realisatietermijn
+
+Met de uitvoering van de op grond van deze paragraaf gesubsidieerde activiteiten wordt gestart binnen drie maanden na de subsidieverlening.
+
+##### Artikel 5.7.34. Afwijzingsgronden
+
+1. De minister beslist afwijzend op een aanvraag indien:
+
+- a. de aanvrager niet beschikt over voor het demonstratieproject gekwalificeerde en geregeld opgeleide personen;
+
+- b. na toepassing van [artikel 5.7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.7&artikel=5.7.35&z=2023-06-10&g=2023-06-10) op één van de onderdelen a tot en met e van het eerste lid van dat artikel minder dan drie punten zijn toegekend;
+
+- c. de aanvrager een producentengroepering of -organisatie is die een landbouwer verplicht lid te zijn van de groepering of organisatie om deel te kunnen nemen aan het project;
+
+- d. het project niet past binnen de onderwerpen van [artikel 5.7.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.7&artikel=5.7.28&z=2023-06-10&g=2023-06-10).
+
+2. De aanvrager, bedoeld in [artikel 5.7.28, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.7&artikel=5.7.28&z=2023-06-10&g=2023-06-10), kan voor maximaal een aanvraag subsidie toegewezen krijgen en de aanvrager, bedoeld in [artikel 5.7.28, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.7&artikel=5.7.28&z=2023-06-10&g=2023-06-10), kan voor maximaal twee aanvragen subsidie toegewezen krijgen.
+
+##### Artikel 5.7.35. Rangschikkingscriteria
+
+1. De minister kent aan een project een hoger aantal punten toe naarmate:
+
+- a. de uitgangssituatie van de landbouwer(s) bij indiening bijdraagt aan meer dan minimaal vijf van de onderwerpen in [artikel 5.7.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.7&artikel=5.7.28&z=2023-06-10&g=2023-06-10);
+
+- b. de impact van het demonstratieproject groter is voor de doelgroep;
+
+- c. de motivatie en combinatie van de aanvrager en eventueel andere betrokkenen bij het demonstratieproject beter is;
+
+- d. de kwaliteit van het projectplan hoger is;
+
+- e. de kosteneffectiviteit van het demonstratieproject hoger is.
+
+2. Het aantal punten bedraagt per onderdeel van het eerste lid ten hoogste vijf punten.
+
+3. Voor de rangschikking wordt het aantal punten gegeven voor het eerste lid, onderdelen a en b, vermenigvuldigd met twee.
+
+4. De minister rangschikt de aanvragen waarop niet afwijzend is beslist hoger naarmate in totaal meer punten aan het project zijn toegekend.
+
+##### Artikel 5.7.36. Informatieverplichtingen
+
+1. Onverminderd [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=2&artikel=2.9&z=2023-06-10&g=2023-06-10), bevat een aanvraag voor subsidie, als bedoeld in [artikel 5.7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.7&artikel=5.7.28&z=2023-06-10&g=2023-06-10), ten minste:
+
+- a. gegevens over de aanvrager, waaronder contactgegevens, het BTW nummer en het KvK nummer waaronder zijn onderneming geregistreerd is bij de Kamer van Koophandel;
+
+- b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;
+
+- c. gegevens van de landbouwers die geen aanvrager zijn en deelnemen in de groep van samenwerkende landbouwers;
+
+- d. het projectplan, waarin onder meer zijn opgenomen de activiteiten waarvoor subsidie wordt aangevraagd, de doelstellingen van het project, beoogde doelgroep, de start- en einddatum, uitgangssituatie van het bedrijf op de vijf of meer onderwerpen van duurzame landbouw, waaronder stikstof, de groepssamenstelling de totale kosten, de omvang van de gevraagde subsidie en een samenvatting van het project.
+
+2. De aanvrager werkt eraan mee dat informatie over de demonstratieprojecten, waaraan subsidie wordt verstrekt, wordt gedeeld op Groen Kennisnet.
+
+3. Op verzoek van de minister werkt de aanvrager mee aan centrale projectcommunicatie.
+
+#### § 5.7.8. Verstrekken bedrijfsplanvoucher voor omschakeling
+
+##### Artikel 5.7.37. Aanvraag, verstrekking en besteding bedrijfsplanvoucher
+
+1. Een bedrijfsplanvoucher wordt door de minister op aanvraag verstrekt aan een landbouwer voor het verkrijgen van een bedrijfsplan.
+
+2. De landbouwer vermeldt bij de aanvraag een erkende bedrijfsadviseur uit het bedrijfsadviseringssysteem, naar keuze, geregistreerd in tenminste een van de volgende aandachtsgebieden in het Bedrijfsadviseringssysteem: E3 bedrijfsopvolging, (bedrijfsovername & bedrijfsplannen) of E4 verdienvermogen.
+
+##### Artikel 5.7.38. Verdeling subsidieplafond
+
+De minister bepaalt op volgorde van binnenkomst aan welke landbouwers, binnen het subsidieplafond voor bedrijfsplanvouchers, vouchers worden verstrekt, uitgaande van de waarde per voucher.
+
+##### Artikel 5.7.39. Besteding bedrijfsplanvoucher
+
+De landbouwer draagt de door de minister verstrekte voucher over aan de in de aanvraag opgenomen erkende bedrijfsadviseur.
+
+#### § 5.7.9. Verstrekking subsidie aan een erkende bedrijfsadviseur
+
+##### Artikel 5.7.40. Verzilvering bedrijfsplanvoucher
+
+Subsidie wordt verstrekt aan een erkende bedrijfsadviseur die ten behoeve van een landbouwer een bedrijfsplan heeft opgesteld met daarin minimaal vijf onderwerpen, bedoeld in [5.7.44, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=5&titeldeel=5.7&paragraaf=5.7.9&artikel=5.7.44&z=2023-06-10&g=2023-06-10), waarop het bedrijfsplan gericht zal zijn en in verband daarmee een geldige voucher overlegt.
+
+##### Artikel 5.7.41. Hoogte subsidie
+
+De subsidie bedraagt ten hoogste 80% van de subsidiabele kosten en niet meer dan € 6.000,– per voucher.
+
+##### Artikel 5.7.42. Subsidiabele kosten
+
+Voor subsidie voor het opstellen van een bedrijfsplan komen niet in aanmerking kosten die de erkende bedrijfsadviseur maakt voor de inhuur van personen die organisatorisch of financieel niet onafhankelijk zijn van de landbouwer waaraan het advies is verstrekt.
+
+##### Artikel 5.7.43. Aanvraag verzilvering bedrijfsplanvoucher
+
+1. Een aanvraag voor subsidie wordt ingediend na afloop van het opstellen van een bedrijfsplan door een erkende bedrijfsadviseur.
+
+2. De aanvraag moet binnen een jaar zijn ontvangen na de dagtekening van een aan de landbouwer verstrekte voucher, op een voor het einde van de termijn daartoe ingediend verzoek kan de minister besluiten deze termijn eenmalig te verlengen met ten hoogste zes maanden.
+
+3. Indien de aanvraag niet door de minister is ontvangen binnen de termijn, bedoeld in het tweede lid, vervalt de voucher van rechtswege.
+
+##### Artikel 5.7.44. Afwijzingsgronden
+
+De minister beslist afwijzend op een aanvraag voor subsidie voor het opstellen van een bedrijfsplan indien:
+
+- a. het opstellen van een bedrijfsplan in groepsverband heeft plaatsgevonden aan meer dan één landbouwer;
+
+- b. het niet ingaat op minimaal vijf van de volgende onderwerpen, waarvan emissiereductie stikstof één van de onderwerpen moet zijn:
+
+- 1°. emissiereductie stikstof;
+
+- 2°. emissiereductie gebruik gewasbeschermingsmiddelen en toepassing geïntegreerde gewasbescherming;
+
+- 3°. emissiereductie broeikasgassen;
+
+- 4°. emissiereductie nitraat en andere meststoffen;
+
+- 5°. vergroten biodiversiteit;
+
+- 6°. versterken duurzaam bodembeheer;
+
+- 7°. verhogen aandeel circulair veevoergebruik;
+
+- 8°. verbeteren dierenwelzijn, diergezondheid;
+
+- c. het bedrijfsplan geen uitgewerkte beschrijving van de onderdelen 1 tot en met 5 bevat met betrekking tot:
+
+- 1°. de aard en omvang van het huidige bedrijf inclusief SWOT-analyse;
+
+- 2°. de beoogde en onderbouwde vermarkting van de meerwaarde van de omschakeling (producten / diensten, markten, doelgroepen, promotie, ketenpartners, verdienmodel);
+
+- 3°. welke maatregelen of investeringen er door het bedrijf per onderwerp worden voorgesteld;
+
+- 4°. de maatregelen en investeringen, en de uitwerking daarvan, in een reële en zo mogelijk sluitende begroting voor de exploitatie, investeringen, financiering en liquiditeit;
+
+- 5°. de (juridische) haalbaarheid van het initiatief en indien er belemmeringen zijn om het plan te realiseren, hoe hiervoor ondersteuning of oplossingsrichtingen kunnen worden geboden;
+
+- d. de adviseur niet overeenkomstig [artikel 38, tweede lid, van de Uitvoeringsregeling GLB 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047444&artikel=38) is erkend in het kader van het bedrijfsadviseringssysteem;
+
+- e. de erkende bedrijfsadviseur financieel niet onafhankelijk is van de aanvrager;
+
+- f. de erkende bedrijfsadviseur niet deskundig of onvoldoende betrouwbaar is;
+
+- g. ten behoeve van een agrarische onderneming al in de afgelopen 3 kalenderjaren van een bedrijfsplanvoucher gebruik is gemaakt op basis van deze titel of [titel 2.4 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&titeldeel=2.4).
+
+#### § 5.7.10. Slotbepaling
+
+##### Artikel 5.7.45. Vervaltermijn
+
+Deze titel vervalt met ingang van 31 december 2027 met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.
+
+### Hoofdstuk 6. Overige bepalingen en slotbepalingen
+
+## Bijlage. behorende bij [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.9&z=2023-06-10&g=2023-06-10) van de Regeling Europese EZK- en LNV-subsidies 2021
+
+### Procedure als bedoeld in [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&hoofdstuk=3&paragraaf=3.1&artikel=3.1.9&z=2023-06-10&g=2023-06-10) van de Regeling Europese EZK- en LNV-subsidies 2021
+
+Kopieën of volledig digitale documenten kunnen worden geaccepteerd als bewijsstuk. In deze bijlage worden de procedures vastgesteld voor documenten die in het kader van de uitvoering van de Regeling Europese EZK- en LNV-subsidies 2021 en verantwoording op grond van [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231) en op grond van [Verordening (EU) 2021/1139](33039R2021) van het Europees Parlement en de Raad van 7 juli 2021 tot oprichting van het Europees Fonds voor maritieme zaken, visserij en aquacultuur en tot wijziging van [Verordening (EU) 2017/1004](32904R2017) (PbEU 2021, L 247) kunnen worden gebruikt.
 
 ### 1. Typen documenten
 
