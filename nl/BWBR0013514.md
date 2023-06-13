@@ -4,7 +4,7 @@ identifier: "BWBR0013514"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-06-13"
-last_updated: "2018-01-01"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013514"
 soort: "AMvB"
@@ -54,17 +54,19 @@ Treedt in werking op het tijdstip waarop artikel I van de Wijzigingswet Wet luch
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. wet: [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
+- afzender: natuurlijke persoon of een rechtspersoon, die gevaarlijke stoffen, in eigendom aan hem toebehorend of afkomstig uit eigen onderneming, aan kan bieden voor vervoer door de lucht;
 
-- b. Annex 18: ingevolge een mededeling van Onze Minister van Infrastructuur en Milieu gepubliceerd in de Staatscourant van kracht zijnde versie van de op grond van de artikelen 37, 54 en 90 van het op 7 december 1944 te Chicago gesloten Verdrag inzake de Burgerluchtvaart (Trb. 1973, 109) door de Internationale Burgerluchtvaartorganisatie vastgestelde Annex 18 (The Safe Transport of Dangerous Goods by Air), zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
+- Annex 18: ingevolge een mededeling van Onze Minister van Infrastructuur en Waterstaat gepubliceerd in de Staatscourant van kracht zijnde versie van de op grond van de artikelen 37, 54 en 90 van het op 7 december 1944 te Chicago gesloten Verdrag inzake de Burgerluchtvaart (Trb. 1973, 109) door de Internationale Burgerluchtvaartorganisatie vastgestelde Annex 18 (The Safe Transport of Dangerous Goods by Air), zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
 
-- c. Technische Voorschriften: ingevolge een mededeling van Onze Minister van Infrastructuur en Milieu gepubliceerd in de Staatscourant van kracht zijnde versie van de bij Annex 18 behorende «Technical Instructions for the Safe Transport of Dangerous goods by Air», Doc 9284-AN/905, inclusief het Supplement, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
+- expediteur-luchtvrachtagent: natuurlijke persoon of een rechtspersoon die gevaarlijke stoffen door de lucht kan doen vervoeren;
 
-- d. afzender: natuurlijke persoon of rechtspersoon als bedoeld in [artikel 9, eerste lid,onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2018-01-01&g=2018-01-01);
+- grondafhandelaar: natuurlijke persoon of een rechtspersoon die namens de houder van een luchtvaartuig de acceptatie of het laden en lossen van gevaarlijke stoffen kan verrichten;
 
-- e. expediteur-luchtvrachtagent: natuurlijke persoon of rechtspersoon als bedoeld in [artikel 9, eerste lid, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2018-01-01&g=2018-01-01);
+- logistieke dienstverlener: natuurlijke persoon of rechtspersoon die gevaarlijke stoffen die hij contractueel voor derden in opslag heeft namens de eigenaar verzendklaar kan maken en als afzender kan aanbieden voor vervoer door de lucht;
 
-- f. grondafhandelaar: natuurlijke persoon of rechtspersoon als bedoeld in [artikel 9, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2018-01-01&g=2018-01-01).
+- Technische Voorschriften: ingevolge een mededeling van Onze Minister van Infrastructuur en Waterstaat gepubliceerd in de Staatscourant van kracht zijnde versie van de bij Annex 18 behorende «Technical Instructions for the Safe Transport of Dangerous Goods by Air», Doc 9284, inclusief het Supplement, zoals ter inzage gelegd op de bij die mededeling aangegeven locatie;
+
+- wet: [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
 ##### Artikel 2
 
@@ -90,7 +92,7 @@ Als gevaarlijke stoffen, bedoeld in [artikel 6.51, eerste lid, van de wet](https
 
 ##### Artikel 3
 
-1. Het in [artikel 6.51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51) bedoelde verbod geldt niet voor de daar bedoelde handelingen ten aanzien van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=1&artikel=2&z=2018-01-01&g=2018-01-01) aangewezen gevaarlijke stoffen, voorzover daarbij Annex 18 en de Technische Voorschriften in acht worden genomen.
+1. Het in [artikel 6.51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51) bedoelde verbod geldt niet voor de daar bedoelde handelingen ten aanzien van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=1&artikel=2&z=2023-06-13&g=2023-06-13) aangewezen gevaarlijke stoffen, voorzover daarbij Annex 18 en de Technische Voorschriften in acht worden genomen.
 
 2. Onze Minister van Defensie kan bepaalde gedeelten van Annex 18 en de Technische Voorschriften aanwijzen, welke in afwijking van het eerste lid, niet door de krijgsmacht of de krijgsmacht van een buitenlandse mogendheid in acht behoeven te worden genomen. Onze Minister van Defensie kan daarbij bepalen dat in dat geval door de krijgsmacht of de krijgsmacht van een buitenlandse mogendheid internationale militaire voorschriften in acht dienen te worden genomen.
 
@@ -98,31 +100,31 @@ Als gevaarlijke stoffen, bedoeld in [artikel 6.51, eerste lid, van de wet](https
 
 ##### Artikel 4
 
-Bij regeling van Onze Minister van Infrastructuur en Milieu respectievelijk van Onze Minister van Defensie kunnen regels worden gesteld ten aanzien van de constructie, inrichting en uitrusting van luchtvaartuigen waarmee gevaarlijke stoffen worden vervoerd.
+Bij regeling van Onze Minister van Infrastructuur en Waterstaat respectievelijk van Onze Minister van Defensie kunnen regels worden gesteld ten aanzien van de constructie, inrichting en uitrusting van luchtvaartuigen waarmee gevaarlijke stoffen worden vervoerd.
 
 ##### Artikel 5
 
-Bij regeling van Onze Minister van Infrastructuur en Milieu respectievelijk van Onze Minister van Defensie kunnen in verband met de veiligheid of het milieu regels worden gesteld met betrekking tot de constructie, inrichting en uitrusting van inrichtingen, voertuigen of werktuigen met behulp waarvan gevaarlijke stoffen op een luchthaven worden geladen of gelost.
+Bij regeling van Onze Minister van Infrastructuur en Waterstaat respectievelijk van Onze Minister van Defensie kunnen in verband met de veiligheid of het milieu regels worden gesteld met betrekking tot de constructie, inrichting en uitrusting van inrichtingen, voertuigen of werktuigen met behulp waarvan gevaarlijke stoffen op een luchthaven worden geladen of gelost.
 
 ##### Artikel 6
 
-Bij regeling van Onze Minister van Infrastructuur en Milieu respectievelijk van Onze Minister van Defensie kunnen regels worden gesteld met betrekking tot de keuring van de inrichtingen, voertuigen en werktuigen bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=2&artikel=5&z=2018-01-01&g=2018-01-01).
+Bij regeling van Onze Minister van Infrastructuur en Waterstaat respectievelijk van Onze Minister van Defensie kunnen regels worden gesteld met betrekking tot de keuring van de inrichtingen, voertuigen en werktuigen bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=2&artikel=5&z=2023-06-13&g=2023-06-13).
 
 #### Paragraaf 3. Bepalingen met het oog op de veiligheid en het milieu
 
 ##### Artikel 7
 
-Bij regeling van Onze Minister van Infrastructuur en Milieu respectievelijk van Onze Minister van Defensie kunnen in het belang van de veiligheid of het milieu regels worden gesteld over het opstellen van een risico-inventarisatie met betrekking tot het vervoeren, laden of lossen van daartoe aangewezen gevaarlijke stoffen.
+Bij regeling van Onze Minister van Infrastructuur en Waterstaat respectievelijk van Onze Minister van Defensie kunnen in het belang van de veiligheid of het milieu regels worden gesteld over het opstellen van een risico-inventarisatie met betrekking tot het vervoeren, laden of lossen van daartoe aangewezen gevaarlijke stoffen.
 
 ##### Artikel 8
 
-Onze Minister van Infrastructuur en Milieu respectievelijk Onze Minister van Defensie kan in het belang van de veiligheid of het milieu luchtroutes aanwijzen waarlangs daartoe aangewezen gevaarlijke stoffen vervoerd dienen te worden.
+Onze Minister van Infrastructuur en Waterstaat respectievelijk Onze Minister van Defensie kan in het belang van de veiligheid of het milieu luchtroutes aanwijzen waarlangs daartoe aangewezen gevaarlijke stoffen vervoerd dienen te worden.
 
 #### Paragraaf 4. Erkenningen
 
 ##### Artikel 9
 
-1. Onze Minister van Infrastructuur en Milieu kan de navolgende erkenningen verlenen:
+1. Onze Minister van Infrastructuur en Waterstaat kan de navolgende erkenningen verlenen:
 
 - 1°. een A-erkenning: een erkenning voor een afzender, zijnde een natuurlijke persoon of een rechtspersoon, welke de bevoegdheid geeft om gevaarlijke stoffen, in eigendom aan hem toebehorend of afkomstig uit eigen onderneming, aan te bieden voor vervoer door de lucht;
 
@@ -130,13 +132,13 @@ Onze Minister van Infrastructuur en Milieu respectievelijk Onze Minister van Def
 
 - 3°. een C-erkenning: een erkenning voor een grondafhandelaar, zijnde een natuurlijke persoon of een rechtspersoon, welke de bevoegdheid geeft om namens de houder van een luchtvaartuig de acceptatie of het laden en lossen van gevaarlijke stoffen te verrichten;
 
-- 4°. vervallen;
+- 4°. een D-erkenning: een erkenning voor een logistieke dienstverlener, zijnde een natuurlijke persoon of een rechtspersoon, welke de bevoegdheid geeft om gevaarlijke stoffen welke hij contractueel voor derden in opslag heeft, namens de eigenaar verzendklaar te maken en als afzender aan te bieden voor vervoer door de lucht;
 
-- 5°. een E-erkenning: een erkenning voor een in het vervoer door de lucht gespecialiseerde organisatie met rechtspersoonlijkheid welke de bevoegdheid geeft om in opdracht van derden op te treden als afzender en verpakker van gevaarlijke stoffen.
+- 5°. een E-erkenning: een erkenning voor een in het vervoer door de lucht gespecialiseerde organisatie met rechtspersoonlijkheid welke de bevoegdheid geeft om in opdracht van derden op te treden als afzender en verpakker van gevaarlijke stoffen alsook om de binnenverpakkingen van zendingen te herverpakken en af te vullen.
 
 2. Een erkenning wordt verleend voor onbepaalde tijd.
 
-3. Om in aanmerking te kunnen komen voor de verlening van een erkenning dient de aanvrager te voldoen aan de bij regeling van Onze Minister van Infrastructuur en Milieu vastgestelde eisen die voor de verschillende erkenningen verschillend kunnen worden vastgesteld.
+3. Om in aanmerking te kunnen komen voor de verlening van een erkenning voldoet de aanvrager aan de bij regeling van Onze Minister van Infrastructuur en Waterstaat vastgestelde eisen die voor de verschillende erkenningen verschillend kunnen worden vastgesteld.
 
 #### Paragraaf 5. Overgangs- en slotbepalingen
 
@@ -155,5 +157,15 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet houde
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen door de lucht.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 9a
+
+1. Op verzoek van een logistiek dienstverlener zet Onze Minister van Infrastructuur en Waterstaat een aan die dienstverlener afgegeven E-erkenning om naar een D-erkenning.
+
+2. Een verzoek als bedoeld in het eerste lid kan tot 1 juli 2023 worden ingediend bij Onze Minister van Infrastructuur en Waterstaat.
+
+3. Met ingang van 1 juli 2023 wordt een D-erkenning aangevraagd overeenkomstig de krachtens het derde lid van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=4&artikel=9&z=2023-06-13&g=2023-06-13) vastgestelde regeling.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
