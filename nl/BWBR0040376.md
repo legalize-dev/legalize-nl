@@ -4,7 +4,7 @@ identifier: "BWBR0040376"
 country: "nl"
 rank: "reglement"
 publication_date: "2023-06-13"
-last_updated: "2017-12-12"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040376"
 soort: "reglement"
@@ -46,9 +46,9 @@ entry_into_force: "2017-12-12"
 
 - c. extern onderzoek: onderzoek voor de Kamer.
 
-- d. parlementaire enquêtecommissie: een commissie als bedoeld in [artikel 2 van de Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=2) en [artikel 129 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=129),
+- d. parlementaire enquêtecommissie: een commissie als bedoeld in [artikel 2 van de Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825&artikel=2) en [artikel 102 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=102),
 
-- e. parlementaire onderzoekscommissie: een commissie als bedoeld in [artikel 130 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=130).
+- e. parlementaire onderzoekscommissie: een commissie als bedoeld in [artikel 103 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=103).
 
 2. Er zijn vier vormen van onderzoek:
 
@@ -92,21 +92,21 @@ Bij parlementair onderzoek draagt de Kamer verantwoordelijkheid voor de uitvoeri
 
 - f. een onderbouwde keuze voor het in te zetten onderzoeksinstrument:
 
-- 1°. een in te stellen parlementaire enquêtecommissie als bedoeld in [artikel 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2017-12-12&g=2017-12-12),
+- 1°. een in te stellen parlementaire enquêtecommissie als bedoeld in [artikel 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13),
 
-- 2°. een in te stellen parlementaire onderzoekscommissie als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2017-12-12&g=2017-12-12),
+- 2°. een in te stellen parlementaire onderzoekscommissie als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13),
 
-- 3°. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2017-12-12&g=2017-12-12),
+- 3°. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13),
 
-- 4°. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2017-12-12&g=2017-12-12).
+- 4°. onderzoek voor de Kamer door derden als bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13).
 
 3. De Voorzitter kan een aangenomen motie tot het doen van onderzoek aan de meest betrokken commissie of commissies voorleggen voor een nadere invulling van een of meer van de in het tweede lid genoemde onderwerpen.
 
-4. De Voorzitter kan tevens aan de Kamer voorstellen een bijzondere commissie als bedoeld in [artikel 34, tweede lid, van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=34) in te stellen die naar aanleiding van een aangenomen motie tot het doen van parlementair onderzoek een onderzoeksvoorstel opstelt.
+4. De Voorzitter kan tevens aan de Kamer voorstellen een tijdelijke commissie als bedoeld in [artikel 28, tweede lid, van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=28) in te stellen die naar aanleiding van een aangenomen motie tot het doen van parlementair onderzoek een onderzoeksvoorstel opstelt.
 
 ##### Artikel 5
 
-Een voorstel om de Algemene Rekenkamer te verzoeken een onderzoek uit te voeren geldt als een voorstel voor onderzoek, bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2017-12-12&g=2017-12-12).
+Een voorstel om de Algemene Rekenkamer te verzoeken een onderzoek uit te voeren geldt als een voorstel voor onderzoek, bedoeld in [artikel 1, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13).
 
 ##### Artikel 6
 
@@ -120,11 +120,11 @@ De Kamer besluit over het voorstel.
 
 ##### Artikel 8
 
-Nadat de Kamer tot het instellen van een parlementair onderzoek als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2017-12-12&g=2017-12-12), heeft besloten, draagt zij de uitvoering op aan een in te stellen parlementaire onderzoekscommissie.
+Nadat de Kamer tot het instellen van een parlementair onderzoek als bedoeld in [artikel 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=1&artikel=1&z=2023-06-13&g=2023-06-13), heeft besloten, draagt zij de uitvoering op aan een in te stellen parlementaire onderzoekscommissie.
 
 ##### Artikel 9
 
-De bevoegdheden van een parlementaire onderzoekscommissie zijn genoemd in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=33) en [51 tot en met 53 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=51).
+De bevoegdheden van een parlementaire onderzoekscommissie zijn genoemd in [artikel 38 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=38).
 
 ##### Artikel 10
 
@@ -170,7 +170,7 @@ Derden zijn niet verplicht medewerking te verlenen aan een parlementaire onderzo
 
 ##### Artikel 15
 
-De parlementaire onderzoekscommissie kan, zo nodig in afwijking van de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=3&artikel=12&z=2017-12-12&g=2017-12-12), nadere afspraken maken over de wijze waarop uitvoering wordt gegeven aan verzoeken om documenten en schriftelijke inlichtingen.
+De parlementaire onderzoekscommissie kan, zo nodig in afwijking van de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=3&artikel=12&z=2023-06-13&g=2023-06-13), nadere afspraken maken over de wijze waarop uitvoering wordt gegeven aan verzoeken om documenten en schriftelijke inlichtingen.
 
 ##### Artikel 16
 
@@ -214,7 +214,7 @@ Indien tijdens het onderzoek van de parlementaire onderzoekscommissie tevens een
 
 ##### Artikel 21
 
-De parlementaire enquêtecommissie kan, zo nodig in afwijking van de [artikelen 18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=4&artikel=18&z=2017-12-12&g=2017-12-12), nadere afspraken maken met de betrokken Minister of met derden over de wijze waarop uitvoering wordt gegeven aan een vordering tot het verstrekken van afschrift van, inzage in of kennisneming van documenten.
+De parlementaire enquêtecommissie kan, zo nodig in afwijking van de [artikelen 18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=4&artikel=18&z=2023-06-13&g=2023-06-13), nadere afspraken maken met de betrokken Minister of met derden over de wijze waarop uitvoering wordt gegeven aan een vordering tot het verstrekken van afschrift van, inzage in of kennisneming van documenten.
 
 ### Hoofdstuk 5. Aanbieding en beëindiging
 
@@ -248,13 +248,13 @@ Nadat een parlementaire onderzoekscommissie aan de Kamer verantwoording over haa
 
 1. Er wordt tot de dag waarop de parlementaire onderzoekscommissie haar rapport aanbiedt aan de Kamer geen inzage gegeven in documenten die onder de commissie berusten tenzij de commissie anders besluit.
 
-2. De parlementaire onderzoekscommissie kan voor de periode na de dag waarop zij haar rapport aanbiedt aan de Kamer beperkingen stellen aan de openbaarheid van documenten die onder de commis-sie berusten of, nadat deze documenten op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=6&artikel=24&z=2017-12-12&g=2017-12-12), zijn overgegaan op de Kamer, hebben berust. Deze beperkingen gelden zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten
+2. De parlementaire onderzoekscommissie kan voor de periode na de dag waarop zij haar rapport aanbiedt aan de Kamer beperkingen stellen aan de openbaarheid van documenten die onder de commis-sie berusten of, nadat deze documenten op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=6&artikel=24&z=2023-06-13&g=2023-06-13), zijn overgegaan op de Kamer, hebben berust. Deze beperkingen gelden zolang de documenten onder de commissie onderscheidenlijk de Kamer berusten
 
 3. De Kamer kan besluiten een op grond van het tweede lid aan de openbaarheid gestelde beperking op te heffen, dan wel deze ten aanzien van een verzoeker, die bij kennisneming een bijzonder belang heeft, buiten toepassing te laten. De Kamer kan een verzoeker geheimhouding opleggen over de inhoud van documenten waarin hem inzage is verleend.
 
 ##### Artikel 26
 
-Bij extern onderzoek berust de verantwoordelijkheid voor de toegang tot het archief bij de uitvoerder met inachtneming van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=6&artikel=24&z=2017-12-12&g=2017-12-12).
+Bij extern onderzoek berust de verantwoordelijkheid voor de toegang tot het archief bij de uitvoerder met inachtneming van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040376&hoofdstuk=6&artikel=24&z=2023-06-13&g=2023-06-13).
 
 ### Hoofdstuk 7. Slotbepaling
 
