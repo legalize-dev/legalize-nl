@@ -4,7 +4,7 @@ identifier: "BWBR0024421"
 country: "nl"
 rank: "reglement"
 publication_date: "2023-06-13"
-last_updated: "1996-03-19"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024421"
 soort: "reglement"
@@ -40,19 +40,11 @@ In dit reglement wordt verstaan onder:
 
 - a. commissie, de Commissie voor de Verzoekschriften uit de Eerste Kamer der Staten-Generaal;
 
-- b. verzoekschrift, een ingevolge het bepaalde in [artikel 143 van het reglement van orde](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=143) in handen van de commissie gesteld geschrift;
+- b. verzoekschrift, een ingevolge het bepaalde in [artikel 107 van het reglement van orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=107) in handen van de commissie gesteld geschrift;
 
 - c. overheid, organen van de centrale overheid, waaronder begrepen diensten en bedrijven, die, hetzij direct, hetzij indirect geheel of gedeeltelijk worden geëxploiteerd voor rekening van het Rijk.
 
 ##### Artikel 2
-
-1. De commissie bestaat uit ten hoogste zes leden, die voor de duur van een zitting en zo mogelijk bij de aanvang daarvan door de Voorzitter van de Kamer worden benoemd.
-
-2. Onder leiding van de Voorzitter van de Kamer kiezen de leden van de commissie uit hun midden een voorzitter. Hierbij zijn [artikel 114, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=114), en de [artikelen 115 tot en met 118 van het reglement van de orde van de Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=115) van overeenkomstige toepassing.
-
-3. Bij verhindering van de voorzitter treedt het lid van de commissie, dat het langst zitting heeft in de Kamer, of bij gelijke zittingsduur, het oudste lid in leeftijd op als voorzitter.
-
-##### Artikel 3
 
 1. De commissie kan een onderzoek instellen naar aanleiding van aangelegenheden, aan de orde gesteld in verzoekschriften, betreffende de wijze waarop de overheid haar taak vervult of betreffende de vraag of de overheid al dan niet een taak zal moeten gaan vervullen.
 
@@ -70,27 +62,25 @@ In dit reglement wordt verstaan onder:
 
 - f. andere personen of leden van colleges, met rechtspraak of arbitrage belast, in hun functie als zodanig.
 
-##### Artikel 4
+##### Artikel 3
 
 Een verzoekschrift dient te bevatten:
 
 - a. naam en adres van de adressant;
 
-- b. een uiteenzetting van de redenen en het belang welke tot de indiening van het verzoekschrift hebben geleid;
+- b. een uiteenzetting van de redenen en het belang welke tot de indiening van het verzoekschrift hebben geleid.
 
-- c. de handtekening van adressant of diens gemachtigde.
+##### Artikel 4
 
-##### Artikel 5
-
-1. De commissie brengt ten aanzien van een verzoekschrift aan de Kamer verslag uit, tenzij zij geen onderzoek heeft ingesteld op grond van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024421&artikel=3&z=1996-03-19&g=1996-03-19) of [artikel 6, eerste lid, van dit reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0024421&artikel=6&z=1996-03-19&g=1996-03-19).
+1. De commissie brengt ten aanzien van een verzoekschrift aan de Kamer verslag uit, tenzij zij geen onderzoek heeft ingesteld op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024421&artikel=2&z=2023-06-13&g=2023-06-13) of [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024421&artikel=5&z=2023-06-13&g=2023-06-13), van dit reglement.
 
 2. Dit verslag bevat een voorstel aan de Kamer met de gronden waarop dit voorstel steunt.
 
-3. De commissie stelt aan de Kamer voor niet te treden in een aangelegenheid indien haar na onderzoek blijkt dat inwilliging van het verzoek in strijd zou zijn met de wet of een algemeen verbindende regeling, tenzij zij tot de conclusie komt dat wijziging van de wet of een algemeen verbindende regeling wenselijk is, in welk geval zij de Kamer zal voorstellen het verzoekschrift in handen te stellen van de daarvoor in aanmerking komende commissie(s) uit de Kamer als bedoeld in [artikel 34 van het reglement van orde](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=34).
+3. De commissie stelt aan de Kamer voor niet te treden in een aangelegenheid indien haar na onderzoek blijkt dat inwilliging van het verzoek in strijd zou zijn met de wet of een algemeen verbindende regeling, tenzij zij tot de conclusie komt dat wijziging van de wet of een algemeen verbindende regeling wenselijk is, in welk geval zij de Kamer zal voorstellen het verzoekschrift in handen te stellen van de daarvoor in aanmerking komende commissie(s) uit de Kamer als bedoeld in [artikel 28 van het reglement van orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=28).
 
 4. Elk verslag van de commissie wordt openbaar gemaakt.
 
-##### Artikel 6
+##### Artikel 5
 
 1. De commissie stelt geen onderzoek in naar een in een verzoekschrift aan de orde gestelde aangelegenheid indien haar blijkt dat:
 
@@ -110,11 +100,15 @@ Een verzoekschrift dient te bevatten:
 
 2. De commissie kan in afwijking van het in het vorige lid bepaalde de Kamer voorstellen om wel te treden in een aangelegenheid indien uitzonderlijke omstandigheden dan wel aan het algemeen belang ontleende overwegingen haar daartoe aanleiding geven.
 
-##### Artikel 7
+##### Artikel 6
 
 1. De commissie kan ten aanzien van een verzoekschrift één of meer van haar leden benoemen tot rapporteur.
 
 2. Een verzoekschrift wordt, tenzij de commissie dit niet nodig acht, gezonden naar de verantwoordelijke minister of staatssecretaris met het verzoek daaromtrent inlichtingen te verschaffen.
+
+##### Artikel 7
+
+Dit reglement treedt in werking met ingang van de dag na die waarop het door de Kamer is vastgesteld.
 
 ##### Artikel 8
 
