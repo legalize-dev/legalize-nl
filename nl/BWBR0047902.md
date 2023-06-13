@@ -4,7 +4,7 @@ identifier: "BWBR0047902"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-13"
-last_updated: "2023-04-01"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047902"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ De aanvraag voor een erkenning gaat vergezeld van:
 
 - e. een organogram van de aanvrager, inclusief een korte toelichting daarop, en
 
-- f. een opleidingsprogramma bestaande uit minimaal een opleidingsplan, een opleidingssyllabus en een assessmentoverzicht, als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=A&z=2023-04-01&g=2023-04-01).
+- f. een opleidingsprogramma bestaande uit minimaal een opleidingsplan, een opleidingssyllabus en een assessmentoverzicht, als bedoeld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=A&z=2023-06-13&g=2023-06-13).
 
 #### § 2.2. Verlening van een erkenning
 
@@ -86,11 +86,11 @@ De minister verleent een erkenning indien de aanvrager:
 
 - a. de aanvraag volledig en op de juiste wijze heeft ingediend;
 
-- b. voldoet aan het gestelde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=A&z=2023-04-01&g=2023-04-01);
+- b. voldoet aan het gestelde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=A&z=2023-06-13&g=2023-06-13);
 
-- c. wat betreft de inhoud van de opleidingen voldoet aan de eisen bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-04-01&g=2023-04-01); en
+- c. wat betreft de inhoud van de opleidingen voldoet aan de eisen bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-06-13&g=2023-06-13); en
 
-- d. wat betreft de assessments voldoet aan de eisen bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&z=2023-04-01&g=2023-04-01) van deze regeling.
+- d. wat betreft de assessments voldoet aan de eisen bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&z=2023-06-13&g=2023-06-13) van deze regeling.
 
 ##### Artikel 5
 
@@ -108,9 +108,9 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 ##### Artikel 7
 
-1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-04-01&g=2023-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-04-01&g=2023-04-01) zijn van toepassing op een wijziging van een erkenning, met dien verstande dat kan worden volstaan met de gegevens die voor de aangevraagde wijziging relevant zijn.
+1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-06-13&g=2023-06-13) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-06-13&g=2023-06-13) zijn van toepassing op een wijziging van een erkenning, met dien verstande dat kan worden volstaan met de gegevens die voor de aangevraagde wijziging relevant zijn.
 
-2. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2023-04-01&g=2023-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2023-04-01&g=2023-04-01) zijn van overeenkomstige toepassing op een wijziging van een erkenning.
+2. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2023-06-13&g=2023-06-13) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=6&z=2023-06-13&g=2023-06-13) zijn van overeenkomstige toepassing op een wijziging van een erkenning.
 
 ### Hoofdstuk 3. Assessments
 
@@ -118,7 +118,7 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 ##### Artikel 8
 
-1. De assessments ter verkrijging van een certificaat als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2023-04-01&g=2023-04-01), worden uitgevoerd conform de toetsmatrijs in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-04-01&g=2023-04-01).
+1. De assessments ter verkrijging van een certificaat als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2023-06-13&g=2023-06-13), worden uitgevoerd conform de toetsmatrijs in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-06-13&g=2023-06-13).
 
 2. De assessments worden uitgevoerd door een erkende opleidingsinstelling en kunnen worden bijgewoond door een door de minister aangewezen gecommitteerde.
 
@@ -136,21 +136,21 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 ##### Artikel 10
 
-Een certificaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2023-04-01&g=2023-04-01) wordt afgegeven voor een periode van 24 maanden.
+Een certificaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2023-06-13&g=2023-06-13) wordt afgegeven voor een periode van 24 maanden.
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ##### Artikel 11
 
-1. Een erkenning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-04-01&g=2023-04-01) afgegeven vóór de inwerkingtreding van onderhavige regelingingevolge de [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765), wordt geacht te zijn afgegeven conform deze regeling met dien verstande dat:
+1. Een erkenning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-06-13&g=2023-06-13) afgegeven vóór de inwerkingtreding van onderhavige regelingingevolge de [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765), wordt geacht te zijn afgegeven conform deze regeling met dien verstande dat:
 
-- a. het opleidingsprogramma per 1 juli 2023 voldoet aan de opleidingseisen uit [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-04-01&g=2023-04-01);
+- a. het opleidingsprogramma per 1 juli 2023 voldoet aan de opleidingseisen uit [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-06-13&g=2023-06-13);
 
-- b. de vóór de inwerkingtreding van onderhavige regeling erkende opleidingsinstelling tot 1 juli 2023 op verzoek van de minister een assessmentoverzicht als bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=A&z=2023-04-01&g=2023-04-01), kan overleggen.
+- b. de vóór de inwerkingtreding van onderhavige regeling erkende opleidingsinstelling tot 1 juli 2023 op verzoek van de minister een assessmentoverzicht als bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=A&z=2023-06-13&g=2023-06-13), kan overleggen.
 
-2. De [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765) zoals deze luidde tot aan de inwerkingtreding van deze regeling blijft tot 1 juli 2023 van toepassing op de opleiding van personen bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-04-01&g=2023-04-01) door reeds vóór de inwerkingtreding van onderhavige regeling erkende opleidingsinstellingen.
+2. De [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765) zoals deze luidde tot aan de inwerkingtreding van deze regeling blijft tot 1 juli 2023 van toepassing op de opleiding van personen bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-06-13&g=2023-06-13) door reeds vóór de inwerkingtreding van onderhavige regeling erkende opleidingsinstellingen.
 
-3. Een certificaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2023-04-01&g=2023-04-01) dat zijn geldigheid niet heeft verloren, behoudt vanaf de inwerkingtreding van deze regeling zijn geldigheid voor zover gedurende die periode de geldigheidsduur overeenkomstig de voorwaarden waaronder het certificaat is afgegeven niet is verlopen, en voor zover aan hetgeen ingevolge de [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765), zoals deze gold voor de inwerkingtreding van deze regeling, is voldaan.
+3. Een certificaat als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.2&artikel=9&z=2023-06-13&g=2023-06-13) dat zijn geldigheid niet heeft verloren, behoudt vanaf de inwerkingtreding van deze regeling zijn geldigheid voor zover gedurende die periode de geldigheidsduur overeenkomstig de voorwaarden waaronder het certificaat is afgegeven niet is verlopen, en voor zover aan hetgeen ingevolge de [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014765), zoals deze gold voor de inwerkingtreding van deze regeling, is voldaan.
 
 ##### Artikel 12. Wijziging van de [Regeling erkenningen vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0014764)
 
@@ -164,17 +164,17 @@ De [Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke
 
 1. Deze regeling treedt in werking met ingang van 1 april 2023.
 
-2. In afwijking van het eerste lid treedt onderdeel IV van [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-04-01&g=2023-04-01) bij de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht in werking op het tijdstip waarop het Besluit tot wijziging van het Besluit vervoer gevaarlijke stoffen door de lucht in verband met de introductie van de D-erkenning inzake het vervoer van gevaarlijke stoffen door de lucht en enkele andere aanpassingen in werking treedt.
+2. In afwijking van het eerste lid treedt onderdeel IV van [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-06-13&g=2023-06-13) bij de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht in werking op het tijdstip waarop het Besluit tot wijziging van het Besluit vervoer gevaarlijke stoffen door de lucht in verband met de introductie van de D-erkenning inzake het vervoer van gevaarlijke stoffen door de lucht en enkele andere aanpassingen in werking treedt.
 
 ##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht.
 
-## Bijlage A. behorend bij de [artikelen 3, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-04-01&g=2023-04-01), [4, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-04-01&g=2023-04-01), en [11, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=4&artikel=11&z=2023-04-01&g=2023-04-01), van de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht
+## Bijlage A. behorend bij de [artikelen 3, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2023-06-13&g=2023-06-13), [4, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-06-13&g=2023-06-13), en [11, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=4&artikel=11&z=2023-06-13&g=2023-06-13), van de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht
 
 ### Opleidingsprogramma
 
-Er is een opleidingsprogramma voor iedere aangeboden opleiding. Hierin staan de structuur en inhoud van de opleiding beschreven. Het opleidingsprogramma bestaat ten minste uit een opleidingsplan, een opleidingssyllabus en een assessmentoverzicht. Tevens bestaat dit opleidingsprogramma uit procedures waarmee vastgesteld wordt op welke wijze de opleiding – conform de eisen uit [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-04-01&g=2023-04-01) – wordt uitgevoerd.
+Er is een opleidingsprogramma voor iedere aangeboden opleiding. Hierin staan de structuur en inhoud van de opleiding beschreven. Het opleidingsprogramma bestaat ten minste uit een opleidingsplan, een opleidingssyllabus en een assessmentoverzicht. Tevens bestaat dit opleidingsprogramma uit procedures waarmee vastgesteld wordt op welke wijze de opleiding – conform de eisen uit [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&bijlage=B&z=2023-06-13&g=2023-06-13) – wordt uitgevoerd.
 
 ### Opleidingsplan
 
@@ -206,7 +206,7 @@ De opleidingsinstelling heeft aantoonbaar de beschikking over tenminste één in
 
 De instructeur
 
-## Bijlage B. behorend bij de [artikelen 4, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-04-01&g=2023-04-01), en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2023-04-01&g=2023-04-01), van de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht
+## Bijlage B. behorend bij de [artikelen 4, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-06-13&g=2023-06-13), en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047902&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2023-06-13&g=2023-06-13), van de Regeling erkenning opleidingsinstellingen en assessments vervoer gevaarlijke stoffen door de lucht
 
 ### Opleidingen
 
@@ -228,9 +228,13 @@ De toetsmatrijs in deze bijlage wordt gebruikt om aan te geven op welke wijze ee
 
 ### III. Minimumtaken en toetsmatrijs behorende bij de C-erkenning als bedoeld in [artikel 9, eerste lid, onder 3°, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9)
 
-### IV
+### IV. Minimumtaken en toetsmatrijs behorende bij de D-erkenning als bedoeld in [artikel 9, eerste lid, onder 4°, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9)
 
 Dit onderdeel is nog niet in werking getreden.
+
+### V. Minimumtaken en toetsmatrijs behorende bij de E-erkenning als bedoeld in [artikel 9, eerste lid, onder 5°, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9)
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### V. Minimumtaken en toetsmatrijs behorende bij de E-erkenning als bedoeld in [artikel 9, eerste lid, onder 5°, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9)
 
