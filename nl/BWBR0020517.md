@@ -4,7 +4,7 @@ identifier: "BWBR0020517"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-01"
-last_updated: "2021-10-30"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020517"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. de minister: de Minister van Volksgezondheid, Welzijn en Sport;
+- a. de minister: de Minister voor Langdurige Zorg en Sport;
 
 - b. bevoegd gezag: het college van bestuur van een hogeschool die van het ministerie van Onderwijs, Cultuur en Wetenschap een goedkeuring heeft verkregen om een opleiding tot advanced nurse practitioner of een opleiding tot physician assistant aan te bieden en die door genoemd ministerie hiervoor wordt bekostigd;
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 1. Voor het cohort studenten waarvoor in jaar ‘t’ subsidie is verleend dient het bevoegd gezag voor 1 juli van het jaar ‘t+3’ een aanvraag in voor de subsidievaststelling.
 
-2. De aanvraag voor de subsidievaststelling bestaat uit een opgave waarin het totaal aantal maanden dat een student is opgeleid vermeld wordt. Tevens zal hierin melding worden gemaakt van het totaal aantal afgegeven diploma’s ten behoeve van de zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant. De vorengemelde opgave gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat de gegevens van de opgave juist zijnen de verplichting, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020517&artikel=2&z=2021-10-30&g=2021-10-30), is nageleefd.
+2. De aanvraag voor de subsidievaststelling bestaat uit een opgave waarin het totaal aantal maanden dat een student is opgeleid vermeld wordt. Tevens zal hierin melding worden gemaakt van het totaal aantal afgegeven diploma’s ten behoeve van de zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant. De vorengemelde opgave gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt dat de gegevens van de opgave juist zijnen de verplichting, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020517&artikel=2&z=2023-06-13&g=2023-06-13), is nageleefd.
 
 ##### Artikel 6
 
@@ -92,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2006.
 
-2. Deze regeling vervalt met ingang van 1 juli 2023 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
+2. Deze regeling vervalt met ingang van 1 juli 2028 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
 ##### Artikel 8
 
