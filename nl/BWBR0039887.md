@@ -4,7 +4,7 @@ identifier: "BWBR0039887"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-12"
-last_updated: "2023-03-22"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039887"
 soort: "ministeriele-regeling"
@@ -209,7 +209,7 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 (Per 1 januari 2014 komt dit artikel te vervallen!)
 
-1. De vrouwelijke militair als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=I&artikel=6&z=2023-03-22&g=2023-03-22), heeft jaarlijks aanspraak op een tegemoetkoming in de kosten van onderhoud en vervanging van de tot haar PGU behorende artikelen die haar niet in natura zijn verstrekt.
+1. De vrouwelijke militair als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=I&artikel=6&z=2023-06-13&g=2023-06-13), heeft jaarlijks aanspraak op een tegemoetkoming in de kosten van onderhoud en vervanging van de tot haar PGU behorende artikelen die haar niet in natura zijn verstrekt.
 
 2. De in het eerste lid bedoelde tegemoetkoming bedraagt:
 
@@ -239,27 +239,27 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 ##### Artikel 14. Burgerkleding in afwijkende maat uit hoofde van de functie
 
-1. De minister kent de militair die een functie toegewezen krijgt als opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2023-03-22&g=2023-03-22) van deze regeling en zijn werkzaamheden en diensten verricht in bijzonder representatieve burgerkleding waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 663,44 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
+1. De minister kent de militair die een functie toegewezen krijgt als opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2023-06-13&g=2023-06-13) van deze regeling en zijn werkzaamheden en diensten verricht in bijzonder representatieve burgerkleding waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 663,44 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
 - a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor onderhoud en vervanging van deze burgerkleding ten bedrage van € 325,50.
 
 - b. De militair, die 2 jaar of langer verlengt op de functie maakt opnieuw aanspraak op de tegemoetkoming voor de aanschafkosten en aansluitend de tegemoetkoming voor onderhoud en vervanging.
 
-- c. De militair, die een functie krijgt toegewezen als opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2023-03-22&g=2023-03-22) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het eerste lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 663,44.
+- c. De militair, die een functie krijgt toegewezen als opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2023-06-13&g=2023-06-13) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het eerste lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 663,44.
 
 - d. De militair heeft geen aanspraak op een tegemoetkoming voor onderhoudskosten indien hij aanspraak heeft op aanschafkosten.
 
-2. De minister kent de militair, die gecertificeerd is voor de Integrale Beroepsvaardigheid Training en die een functie toegewezen krijgt als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2023-03-22&g=2023-03-22) van deze regeling en zijn werkzaamheden en diensten in burgerkleding verricht waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 331,87 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
+2. De minister kent de militair, die gecertificeerd is voor de Integrale Beroepsvaardigheid Training en die een functie toegewezen krijgt als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2023-06-13&g=2023-06-13) van deze regeling en zijn werkzaamheden en diensten in burgerkleding verricht waarvan de maat met het oog op de functie-uitoefening afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 331,87 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
 - a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor onderhoud en vervanging ten bedrage van € 54,64.
 
 - b. De militair, die 2 jaar of langer verlengt op de functie maakt opnieuw aanspraak op de tegemoetkoming voor de aanschafkosten en aansluitend de tegemoetkoming voor onderhoud en vervanging.
 
-- c. De militair, die een functie is toegewezen als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2023-03-22&g=2023-03-22) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het tweede lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 331,87.
+- c. De militair, die een functie is toegewezen als opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2023-06-13&g=2023-06-13) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het tweede lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 331,87.
 
 - d. De militair heeft geen aanspraak op een tegemoetkoming voor onderhoudskosten indien hij aanspraak heeft op aanschafkosten.
 
-3. De minister kent de militair wiens functie niet genoemd wordt in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2023-03-22&g=2023-03-22) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2023-03-22&g=2023-03-22) maar wel opdracht krijgt van zijn directe commandant om werkzaamheden of diensten te verrichten in burgerkleding waarvan de maat met het oog op die opgedragen werkzaamheden afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 221,26 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
+3. De minister kent de militair wiens functie niet genoemd wordt in de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=4&z=2023-06-13&g=2023-06-13) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=5&z=2023-06-13&g=2023-06-13) maar wel opdracht krijgt van zijn directe commandant om werkzaamheden of diensten te verrichten in burgerkleding waarvan de maat met het oog op die opgedragen werkzaamheden afwijkt van de gebruikelijke maat van de militair, een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding toe ten bedrage van € 221,26 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
 - a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop voor het eerst de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor de onderhoudskosten ten bedrage van € 54,64.
 
@@ -271,21 +271,21 @@ geschieden de desbetreffende werkzaamheden voor rekening van Defensie.
 
 ##### Artikel 14a. Burgerkleding uit hoofde van de functie
 
-1. De minister wijst functies aan, waarvan de werkzaamheden vergen dat deze vrijwel dagelijks in burgerkleding worden verricht opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=1&z=2023-03-22&g=2023-03-22). De militair aan wie deze functie is toegewezen heeft aanspraak op een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding ten bedrage van € 219,99 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
+1. De minister wijst functies aan, waarvan de werkzaamheden vergen dat deze vrijwel dagelijks in burgerkleding worden verricht opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=1&z=2023-06-13&g=2023-06-13). De militair aan wie deze functie is toegewezen heeft aanspraak op een eenmalige tegemoetkoming in de aanschafkosten van deze burgerkleding ten bedrage van € 219,99 indien de militair zelf voor de aanschaf van de kleding zorg draagt.
 
 - a. Telkens na een periode van twaalf maanden, gerekend vanaf de datum waarop de aanspraak op de tegemoetkoming in de aanschafkosten is ontstaan, heeft de militair direct aanspraak op een tegemoetkoming voor onderhoud en vervanging van deze burgerkleding ten bedrage van € 54,34.
 
 - b. De militair, die 2 jaar of langer verlengt op de functie maakt opnieuw aanspraak op de tegemoetkoming in de aanschafkosten en aansluitend op de tegemoetkoming voor onderhoud en vervanging.
 
-- c. De militair, die een functie is toegewezen als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=1&z=2023-03-22&g=2023-03-22) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het eerste lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 219,99.
+- c. De militair, die een functie is toegewezen als opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=1&z=2023-06-13&g=2023-06-13) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt in afwijking van het eerste lid na een periode van 3 jaar aanspraak op een tweede tegemoetkoming in de aanschafkosten van burgerkleding ten bedrage van € 219,99.
 
 - d. De militair heeft geen aanspraak op een tegemoetkoming voor onderhoudskosten indien hij aanspraak heeft op aanschafkosten.
 
-2. Het eerste lid is mede van toepassing op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=2&z=2023-03-22&g=2023-03-22) opgenomen, door de Minister aangewezen, functies, waarvan de werkzaamheden naar het oordeel van de commandant vergen dat deze tijdelijk in burgerkleding worden verricht.
+2. Het eerste lid is mede van toepassing op de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=2&z=2023-06-13&g=2023-06-13) opgenomen, door de Minister aangewezen, functies, waarvan de werkzaamheden naar het oordeel van de commandant vergen dat deze tijdelijk in burgerkleding worden verricht.
 
 - a. De militair, die 2 jaar of langer verlengt op de functie maakt opnieuw aanspraak op de tegemoetkoming in de aanschafkosten van burgerkleding.
 
-- b. De militair, die een functie is toegewezen als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=2&z=2023-03-22&g=2023-03-22) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt opnieuw aanspraak op de tegemoetkoming in de aanschafkosten van burgerkleding.
+- b. De militair, die een functie is toegewezen als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&bijlage=2&z=2023-06-13&g=2023-06-13) van deze regeling en waarbij een afwijkende duur functievervulling van maximaal 6 jaar met de mogelijkheid tot verlenging met 1 jaar is vastgesteld maakt opnieuw aanspraak op de tegemoetkoming in de aanschafkosten van burgerkleding.
 
 - c. In afwijking van het eerste lid heeft de militair geen aanspraak op een tegemoetkoming voor onderhoud en vervanging.
 
@@ -341,7 +341,7 @@ Deze regeling kan worden aangehaald als ‘Regeling uitrusting Defensie’.
 
 Deze regeling treedt in werking met ingang van 1 januari 2009
 
-## Bijlage 1. Functies als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14a&z=2023-03-22&g=2023-03-22)
+## Bijlage 1. Functies als bedoeld in [artikel 14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14a&z=2023-06-13&g=2023-06-13)
 
 - •. NATO/UN Liaison Officer New York
 
@@ -354,8 +354,6 @@ Deze regeling treedt in werking met ingang van 1 januari 2009
 - •. Detachering MIN V&J, Arbeidsplaats 00556893
 
 - •. Detachering MIN FINANCIEN, Arbeidsplaats 00544316
-
-Brigade Koninklijke Marechaussee Caribisch Gebied
 
 Afdeling infozaken:
 
@@ -441,6 +439,14 @@ KMar / LTC / INTELL / IKP / CENTRALE COORDINATIE
 
 - •. PROCESCRD CT INFOBOX
 
+KMar / LTC / OPS / ECID / VRKIDF / BUR TR
+
+- •. SR OPLDER VERBR
+
+- •. MDR OPLDR
+
+- •. OPLEIDER
+
 KMar / LTC / OPS / TVO / Bureau Wapens, Munitie en Explosieven
 
 - •. MDW Bureau WME
@@ -455,7 +461,7 @@ KMar / LTC / INTELL / OI / Schiphol
 
 - •. JR MDW OI
 
-## Bijlage 2. Functies als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14a&z=2023-03-22&g=2023-03-22)
+## Bijlage 2. Functies als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14a&z=2023-06-13&g=2023-06-13)
 
 Brigade Vreemdelingenzaken:
 
@@ -475,7 +481,7 @@ KMar / Staf / DPB
 
 - •. SR STAF ADV IPOL (Hoofd backoffice LIRC)
 
-## Bijlage 4. Functies als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14&z=2023-03-22&g=2023-03-22)
+## Bijlage 4. Functies als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14&z=2023-06-13&g=2023-06-13)
 
 KMar / LTC / BSB
 
@@ -515,7 +521,7 @@ KMar / LTC / Brigade P&B (Schiphol)
 
 - •. MDW OBSERV OST
 
-## Bijlage 5. Functies als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14&z=2023-03-22&g=2023-03-22)
+## Bijlage 5. Functies als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039887&hoofdstuk=II&titeldeel=III&artikel=14&z=2023-06-13&g=2023-06-13)
 
 KMar / LTC / Brigade P&B (Schiphol)
 
