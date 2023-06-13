@@ -4,7 +4,7 @@ identifier: "BWBR0048260"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-13"
-last_updated: "2023-05-01"
+last_updated: "2023-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048260"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **de minister:** De Minister van Infrastructuur en Waterstaat;
 
-- b. **de adviescommissie:** de commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=2&z=2023-06-13&g=2023-05-01);
+- b. **de adviescommissie:** de commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=2&z=2023-06-13&g=2023-06-13);
 
 - c. **het ministerie:** het Ministerie van Infrastructuur en Waterstaat.
 
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Instellingsduur
 
-De adviescommissie wordt ingesteld met ingang van 1 mei 2023 en wordt opgeheven één week nadat de adviescommissie haar adviezen als bedoeld in [artikel 2 lid 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=2&z=2023-06-13&g=2023-05-01) heeft uitgebracht.
+De adviescommissie wordt ingesteld met ingang van 1 mei 2023 en wordt opgeheven één week nadat de adviescommissie haar adviezen als bedoeld in [artikel 2 lid 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=2&z=2023-06-13&g=2023-06-13) heeft uitgebracht.
 
 ##### Artikel 7. Geheimhouding
 
@@ -92,7 +92,7 @@ Ieder lid van de adviescommissie, dat de beschikking krijgt over gegevens waarva
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 mei 2023.
 
-2. Dit besluit vervalt, behoudens verlenging bij besluit van de minister, op het moment dat de adviescommissie is opgeheven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=6&z=2023-06-13&g=2023-05-01).
+2. Dit besluit vervalt, behoudens verlenging bij besluit van de minister, op het moment dat de adviescommissie is opgeheven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=6&z=2023-06-13&g=2023-06-13).
 
 ##### Artikel 9. Citeertitel
 
