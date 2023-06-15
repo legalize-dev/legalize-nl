@@ -4,7 +4,7 @@ identifier: "BWBR0038995"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-06-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038995"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister voor Primair en Voortgezet Onderwijs;
 
-- **nieuwkomer:** nieuwkomer als bedoeld in [artikel 1.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=1.1), met dien verstande dat daarbij onder teldatum een van de peildata, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=4&z=2023-01-01&g=2023-01-01), wordt verstaan;
+- **nieuwkomer:** nieuwkomer als bedoeld in [artikel 1.1 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=1.1), met dien verstande dat daarbij onder teldatum een van de peildata, genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=4&z=2023-06-15&g=2023-06-15), wordt verstaan;
 
 - **nieuwkomer eerste categorie:** nieuwkomer die op 1 oktober 2021 nog niet in Nederland was;
 
@@ -80,15 +80,15 @@ De [artikelen 3.1 tot en met 3.5 van de Kaderregeling subsidies OCW, SZW en VWS]
 
 ##### Artikel 4. Bekostigingsbedrag
 
-1. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-01-01&g=2023-01-01), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
+1. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-06-15&g=2023-06-15), wordt per school berekend op basis van het aantal nieuwkomers dat op de betreffende peildatum, bedoeld in het vierde lid, op de school staat ingeschreven.
 
-2. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-01-01&g=2023-01-01), bedraagt:
+2. De aanvullende bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-06-15&g=2023-06-15), bedraagt:
 
-- a. € 3.167,20 per kwartaal per nieuwkomer eerste categorie;
+- a. € 3.375,72 per kwartaal per nieuwkomer eerste categorie;
 
-- b. € 1.170,61 per kwartaal per nieuwkomer tweede categorie.
+- b. € 1.238,07 per kwartaal per nieuwkomer tweede categorie.
 
-3. De aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-01-01&g=2023-01-01), bedraagt € 17.927,12 per school.
+3. De aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-06-15&g=2023-06-15), bedraagt € 18.960,24 per school.
 
 4. De peildata zijn 1 januari, 1 april, 1 juli en 1 oktober van het kalenderjaar 2023.
 
@@ -104,11 +104,11 @@ Indien er in de BRP geen datum verblijfstitel aanwezig is hanteert de minister:
 
 ##### Artikel 5. Bekostiging
 
-1. DUO hanteert voor de voorlopige telling en de daarop gebaseerde bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-01-01&g=2023-01-01), de registratie in het register onderwijsdeelnemers op respectievelijk 16 januari, 16 april, 16 juli en 16 oktober 2023 van het aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2023 als schoolgaand stond ingeschreven.
+1. DUO hanteert voor de voorlopige telling en de daarop gebaseerde bekostiging, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-06-15&g=2023-06-15), de registratie in het register onderwijsdeelnemers op respectievelijk 16 januari, 16 april, 16 juli en 16 oktober 2023 van het aantal nieuwkomers dat op respectievelijk de peildata 1 januari, 1 april, 1 juli en 1 oktober 2023 als schoolgaand stond ingeschreven.
 
-2. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-01-01&g=2023-01-01), mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
+2. Om in aanmerking te komen voor de aanvullende bekostiging, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-06-15&g=2023-06-15), mag het bevoegd gezag voor een school niet eerder aanvullende bekostiging hebben ontvangen voor de organisatie van eerste opvang. De school dient te beschikken over een verklaring van de gemeente, waaruit blijkt dat de school nog niet eerder aanvullende bekostiging heeft ontvangen van de gemeente voor de organisatie van eerste opvang. De school bewaart deze verklaring in haar administratie.
 
-3. Voor het indienen van een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-01-01&g=2023-01-01), wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl. Aanvragen die op de peildata 1 januari, 1 april, 1 juli en 1 oktober 2023 niet uiterlijk op respectievelijk 15 januari, 15 april, 15 juli en 15 oktober 2023 door DUO zijn ontvangen, worden afgewezen.
+3. Voor het indienen van een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038995&artikel=3&z=2023-06-15&g=2023-06-15), wordt gebruikgemaakt van het daarvoor beschikbaar gestelde formulier op www.duo.nl. Aanvragen die op de peildata 1 januari, 1 april, 1 juli en 1 oktober 2023 niet uiterlijk op respectievelijk 15 januari, 15 april, 15 juli en 15 oktober 2023 door DUO zijn ontvangen, worden afgewezen.
 
 ##### Artikel 6. Vaststelling, betaling en verantwoording
 
