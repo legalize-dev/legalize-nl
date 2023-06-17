@@ -4,7 +4,7 @@ identifier: "BWBR0048278"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-17"
-last_updated: "2022-01-01"
+last_updated: "2023-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048278"
 soort: "ministeriele-regeling"
@@ -66,11 +66,11 @@ Aan de directeur van het Nationaal Cyber Security Centrum blijft voorbehouden:
 
 ##### Artikel 3
 
-Onverminderd het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048278&artikel=2&z=2023-06-17&g=2022-01-01) worden de in [artikel 1, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0048278&artikel=1&z=2023-06-17&g=2022-01-01), genoemde functionarissen aangewezen als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hun unit ressorterende ambtenaren.
+Onverminderd het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048278&artikel=2&z=2023-06-17&g=2023-06-17) worden de in [artikel 1, onderdeel a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0048278&artikel=1&z=2023-06-17&g=2023-06-17), genoemde functionarissen aangewezen als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hun unit ressorterende ambtenaren.
 
 ##### Artikel 4
 
-- a. De in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0048278&artikel=1&z=2023-06-17&g=2022-01-01), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
+- a. De in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0048278&artikel=1&z=2023-06-17&g=2023-06-17), genoemde functionarissen wordt toegestaan elkaar volledig te vervangen. Zij treden daarbij in elkaars bevoegdheden.
 
 - b. De directeur van het Nationaal Cyber Security Centrum wordt bij afwezigheid vervangen door het hoofd van de unit Staf.
 
