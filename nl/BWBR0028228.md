@@ -4,7 +4,7 @@ identifier: "BWBR0028228"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2023-06-20"
-last_updated: "2022-05-20"
+last_updated: "2023-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028228"
 soort: "wet-BES"
@@ -121,6 +121,8 @@ Deze ongevallen kunnen bij ministeriële regeling nader worden omschreven.
 
 11. Een beschikking krachtens deze wet van de ambtenaar, bedoeld in het vijfde lid, wordt gegeven namens Onze Minister van Sociale Zaken en Werkgelegenheid.
 
+12. De bevoegdheden uit het derde en vierde lid zijn van overeenkomstige toepassing indien in verband met de epidemie van een infectieziekte behorend tot groep A1 of een directe dreiging daarvan als bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705), bij of krachtens wettelijk voorschrift dan wel gezien de stand van de wetenschap en professionele dienstverlening benodigde noodzakelijke maatregelen of voorzieningen die de kans op besmetting van arbeiders of derden in ondernemingen kunnen voorkomen of beperken, in ernstige mate niet worden getroffen.
+
 ##### Artikel 3
 
 1. Het hoofd of de bestuurder van een onderneming is verplicht te zorgen dat in zijn onderneming voorschriften of aanwijzingen gegeven bij of krachtens deze wet volledig nageleefd worden.
@@ -131,7 +133,7 @@ Deze ongevallen kunnen bij ministeriële regeling nader worden omschreven.
 
 ##### Artikel 4
 
-1. Wanneer bij of krachtens algemene maatregel van bestuur als in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2&z=2022-05-20&g=2022-05-20) bedoeld, aan de arbeider gebods- of verbodsvoorschriften zijn gegeven, is deze gehouden die voorschriften op te volgen.
+1. Wanneer bij of krachtens algemene maatregel van bestuur als in het [eerste lid van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2&z=2023-06-20&g=2023-06-20) bedoeld, aan de arbeider gebods- of verbodsvoorschriften zijn gegeven, is deze gehouden die voorschriften op te volgen.
 
 2. Die voorschriften moeten door het hoofd of de bestuurder van de onderneming aan alle in zijn onderneming werkzame arbeiders worden bekendgemaakt. Hij zal zorg dragen dat aan deze voorschriften wordt voldaan.
 
@@ -141,7 +143,7 @@ Deze ongevallen kunnen bij ministeriële regeling nader worden omschreven.
 
 ##### Artikel 4a
 
-Het hoofd of de bestuurder van de onderneming is verplicht aan de ambtenaar bedoeld in [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2&z=2022-05-20&g=2022-05-20) in het belang van de beveiliging van de arbeid, gelegenheid te geven en hulp te verlenen om monsters te nemen van stoffen of voorwerpen, welke in de onderneming ontstaan, worden verwerkt, vervaardigd, bereid of ten behoeve van de onderneming worden gebruikt.
+Het hoofd of de bestuurder van de onderneming is verplicht aan de ambtenaar bedoeld in [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2&z=2023-06-20&g=2023-06-20) in het belang van de beveiliging van de arbeid, gelegenheid te geven en hulp te verlenen om monsters te nemen van stoffen of voorwerpen, welke in de onderneming ontstaan, worden verwerkt, vervaardigd, bereid of ten behoeve van de onderneming worden gebruikt.
 
 ##### Artikel 4b
 
@@ -151,11 +153,11 @@ Het hoofd of de bestuurder van de onderneming is verplicht te zorgen, dat in zij
 
 1. Met hechtenis van ten hoogste drie maanden of geldboete van de eerste categorie wordt gestraft niet-naleving of niet-volledige naleving van:
 
-- a. een voorschrift gegeven krachtens [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2&z=2022-05-20&g=2022-05-20) van deze wet;
+- a. een voorschrift gegeven krachtens [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2&z=2023-06-20&g=2023-06-20) van deze wet;
 
-- b. een voorschrift of aanwijzing gegeven krachtens [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2&z=2022-05-20&g=2022-05-20) van deze wet;
+- b. een voorschrift of aanwijzing gegeven krachtens [artikel 2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=2&z=2023-06-20&g=2023-06-20) van deze wet;
 
-- c. een verplichting ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=3&z=2022-05-20&g=2022-05-20) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=4&z=2022-05-20&g=2022-05-20) van deze wet.
+- c. een verplichting ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=3&z=2023-06-20&g=2023-06-20) of [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=4&z=2023-06-20&g=2023-06-20) van deze wet.
 
 2. Met hechtenis van ten hoogste zes maanden of geldboete van de tweede categorie wordt gestraft het hoofd of de bestuurder van een onderneming, die, nadat een bevel tot staking van de arbeid is gegeven, in strijd met dat bevel de arbeid doet of laat hervatten.
 
@@ -165,7 +167,7 @@ Het hoofd of de bestuurder van de onderneming is verplicht te zorgen, dat in zij
 
 ##### Artikel 6
 
-1. Met het opsporen der feiten strafbaar gesteld bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=5&z=2022-05-20&g=2022-05-20) zijn, behalve de bij [artikel 8 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=8) aangewezen personen, belast de daartoe door Onze Minister van Justitie aan te wijzen ambtenaren.
+1. Met het opsporen der feiten strafbaar gesteld bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=5&z=2023-06-20&g=2023-06-20) zijn, behalve de bij [artikel 8 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=8) aangewezen personen, belast de daartoe door Onze Minister van Justitie aan te wijzen ambtenaren.
 
 2. De in het vorige lid bedoelde opsporingsambtenaren hebben toegang tot alle plaatsen, waar arbeid wordt verricht of pleegt te worden verricht.
 
@@ -175,7 +177,7 @@ Het hoofd of de bestuurder van de onderneming is verplicht te zorgen, dat in zij
 
 ##### Artikel 7
 
-1. De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=6&z=2022-05-20&g=2022-05-20) bedoelde ambtenaren zijn verplicht tot geheimhouding van hetgeen hun in plaatsen waar zij krachtens dat artikel binnentreden, omtrent het daar uitgeoefend wordend bedrijf is bekend geworden, voor zover hetgeen hun bekend is geworden niet in strijd is met deze wet, met andere wetten of met de daarop berustende bepalingen.
+1. De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028228&artikel=6&z=2023-06-20&g=2023-06-20) bedoelde ambtenaren zijn verplicht tot geheimhouding van hetgeen hun in plaatsen waar zij krachtens dat artikel binnentreden, omtrent het daar uitgeoefend wordend bedrijf is bekend geworden, voor zover hetgeen hun bekend is geworden niet in strijd is met deze wet, met andere wetten of met de daarop berustende bepalingen.
 
 2. Hij, die opzettelijk de bij het vorige lid opgelegde geheimhouding schendt, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de eerste categorie, met of zonder ontzetting van het recht om ambten of bepaalde ambten te bekleden.
 
