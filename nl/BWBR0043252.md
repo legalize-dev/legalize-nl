@@ -4,7 +4,7 @@ identifier: "BWBR0043252"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-22"
-last_updated: "2023-05-16"
+last_updated: "2023-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043252"
 soort: "wet"
@@ -64,11 +64,11 @@ Onverminderd [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorgan
 
 ##### Artikel 21
 
-1. Besluiten van de deelcommissie mijnbouwschade op grond van [artikel 3, tweede lid, van het Besluit Mijnbouwschade Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3), en de deelcommissie bezwaar, op grond van artikel 3, derde lid, van het Besluit Mijnbouwschade Groningen, worden na inwerkingtreding van deze wet aangemerkt als besluiten van het Instituut Mijnbouwschade als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2020-07-01&g=2023-05-16).
+1. Besluiten van de deelcommissie mijnbouwschade op grond van [artikel 3, tweede lid, van het Besluit Mijnbouwschade Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3), en de deelcommissie bezwaar, op grond van artikel 3, derde lid, van het Besluit Mijnbouwschade Groningen, worden na inwerkingtreding van deze wet aangemerkt als besluiten van het Instituut Mijnbouwschade als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20).
 
-2. Aanvragen tot vergoeding van schade die in de periode van 19 maart 2018 tot de datum van inwerkingtreding van deze wet in behandeling zijn bij de Tijdelijke Commissie Mijnbouwschade Groningen, worden voor de toepassing van deze wet aangemerkt als een aanvraag tot vergoeding van schade als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2020-07-01&g=2023-05-16).
+2. Aanvragen tot vergoeding van schade die in de periode van 19 maart 2018 tot de datum van inwerkingtreding van deze wet in behandeling zijn bij de Tijdelijke Commissie Mijnbouwschade Groningen, worden voor de toepassing van deze wet aangemerkt als een aanvraag tot vergoeding van schade als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20).
 
-3. Schademeldingen die in de periode van 31 maart 2017, 12:00 uur, tot 19 maart 2018 zijn voorgelegd aan de Nederlandse Aardolie Maatschappij N.V. of het Centrum Veilig Wonen en in behandeling zijn, worden voor de toepassing van deze wet aangemerkt als een aanvraag tot vergoeding van schade als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2020-07-01&g=2023-05-16).
+3. Schademeldingen die in de periode van 31 maart 2017, 12:00 uur, tot 19 maart 2018 zijn voorgelegd aan de Nederlandse Aardolie Maatschappij N.V. of het Centrum Veilig Wonen en in behandeling zijn, worden voor de toepassing van deze wet aangemerkt als een aanvraag tot vergoeding van schade als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20).
 
 4. Het Instituut neemt de zaken bedoeld in het eerste tot en met derde lid over in de staat waarin deze zich bevinden.
 
@@ -86,7 +86,7 @@ Aanvragen om vergoeding van schade worden door het Instituut niet in behandeling
 
 2. Degene die voorafgaand aan de inwerkingtreding van deze wet is benoemd als voorzitter van Tijdelijke Commissie Mijnbouwschade Groningen, is van rechtswege benoemd als voorzitter van het Instituut en de duur van zijn benoeming wordt vastgesteld op vier jaar.
 
-3. Voor het bepalen van het tijdvak van de benoeming, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=4&z=2020-07-01&g=2023-05-16), geldt het tijdvak, vervuld als lid of voorzitter van de Tijdelijke Commissie Mijnbouwschade Groningen, voorafgaand aan de inwerkingtreding van deze wet als een tijdvak, vervuld als lid of voorzitter van het Instituut.
+3. Voor het bepalen van het tijdvak van de benoeming, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=4&z=2023-06-20&g=2023-06-20), geldt het tijdvak, vervuld als lid of voorzitter van de Tijdelijke Commissie Mijnbouwschade Groningen, voorafgaand aan de inwerkingtreding van deze wet als een tijdvak, vervuld als lid of voorzitter van het Instituut.
 
 ##### Artikel 23
 
@@ -114,9 +114,9 @@ Wijzigt de Mijnbouwwet.
 
 ##### Artikel 29
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld, met uitzondering van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=4&artikel=13&z=2023-06-20&g=2023-06-20), dat in werking treedt op het tijdstip waarop artikel I, onderdelen D en E, van het bij koninklijke boodschap van 13 oktober 2020 ingediende voorstel van wet tot wijziging van de Tijdelijke wet Groningen in verband met de versterking van gebouwen in de provincie Groningen (Kamerstukken 35 603), nadat dat voorstel tot wet is of wordt verheven, in werking treedt.
 
-2. In afwijking van het eerste lid treedt [artikel 28, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=8&artikel=28&z=2020-07-01&g=2023-05-16), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2018.
+2. In afwijking van het eerste lid treedt [artikel 28, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=8&artikel=28&z=2023-06-20&g=2023-06-20), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2018.
 
 ##### Artikel 30
 
@@ -180,13 +180,13 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Ten behoeve van de goede uitvoering van [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2020-07-01&g=2023-05-16), verwerkt het Instituut de nodige gegevens, waaronder persoonsgegevens. Het Instituut is verwerkingsverantwoordelijke voor deze verwerking.
+1. Ten behoeve van de goede uitvoering van [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20), verwerkt het Instituut de nodige gegevens, waaronder persoonsgegevens. Het Instituut is verwerkingsverantwoordelijke voor deze verwerking.
 
-2. Ten behoeve van de goede uitwerking van [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2020-07-01&g=2023-05-16), verwerkt de exploitant de nodige gegevens, waaronder persoonsgegevens. De exploitant is verwerkingsverantwoordelijke voor deze verwerking.
+2. Ten behoeve van de goede uitwerking van [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20), verwerkt de exploitant de nodige gegevens, waaronder persoonsgegevens. De exploitant is verwerkingsverantwoordelijke voor deze verwerking.
 
-3. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming is het verbod om gegevens over gezondheid te verwerken niet van toepassing indien de verwerking geschiedt door het Instituut of de exploitant voor zover deze verwerking noodzakelijk is in het belang van de goede uitvoering en uitwerking van [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2020-07-01&g=2023-05-16).
+3. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming is het verbod om gegevens over gezondheid te verwerken niet van toepassing indien de verwerking geschiedt door het Instituut of de exploitant voor zover deze verwerking noodzakelijk is in het belang van de goede uitvoering en uitwerking van [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20).
 
-4. Het Instituut en de exploitant verstrekken elkaar desgevraagd de informatie, waaronder begrepen de persoonsgegevens, bedoeld in het eerste, tweede en derde lid, voor zover die noodzakelijk is in het belang van de goede uitvoering van [artikel 2, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2020-07-01&g=2023-05-16), of van de taken en bevoegdheden die op grond van artikel 2, achtste lid, aan het Instituut zijn opgedragen.
+4. Het Instituut en de exploitant verstrekken elkaar desgevraagd de informatie, waaronder begrepen de persoonsgegevens, bedoeld in het eerste, tweede en derde lid, voor zover die noodzakelijk is in het belang van de goede uitvoering van [artikel 2, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20), of van de taken en bevoegdheden die op grond van artikel 2, achtste lid, aan het Instituut zijn opgedragen.
 
 5. Het Instituut, de minister van Binnenlandse Zaken en Koninkrijksrelaties en het college van burgemeester en wethouders van de betrokken gemeenten verstrekken elkaar desgevraagd de gegevens, waaronder persoonsgegevens, over de afhandeling van aanvragen om schadevergoeding en beslissingen in het kader van de uitvoering van de versterkingsoperatie die noodzakelijk zijn voor een goede uitvoering van deze wettelijke taak.
 
@@ -296,7 +296,9 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 3. Indien de deskundige binnen de gestelde termijn geen advies kan uitbrengen, deelt de deskundige dit, onder opgaaf van redenen, aan het Instituut mee voor het einde van de termijn en kan het Instituut de termijn met ten hoogste zes maanden verlengen. Het Instituut stelt de aanvrager daarvan schriftelijk in kennis.
 
-4. Indien de aanvrager tegen het besluit, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=4&artikel=13&z=2020-07-01&g=2023-05-16), in bezwaar gaat, wijst het Instituut ambtshalve of op verzoek een deskundige aan, anders dan die bedoeld in het eerste lid, die de aanvrager kan bijstaan, tenzij de zaak waarop het betrekking heeft hier evident geen aanleiding voor geeft.
+4. Indien de aanvrager tegen het besluit, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=4&artikel=13&z=2023-06-20&g=2023-06-20), in bezwaar gaat, wijst het Instituut ambtshalve of op verzoek een deskundige aan, anders dan die bedoeld in het eerste lid, die de aanvrager kan bijstaan, tenzij de zaak waarop het betrekking heeft hier evident geen aanleiding voor geeft.
+
+5. Het Instituut stelt eisen aan de deskundige, waaronder begrepen het aantal keren dat de deskundige per aanvraag mag onderzoeken of de schade evident en aantoonbaar uitsluitend een andere oorzaak heeft dan beweging van de bodem als gevolg van de aanleg of exploitatie van een mijnbouwwerk als bedoeld in [artikel 177a, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=177a).
 
 ##### Artikel 13
 
@@ -320,9 +322,9 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 1. Onze Minister legt een heffing op aan een exploitant van een mijnbouwwerk ten behoeve van gaswinning uit het Groningenveld of de gasopslag bij Norg:
 
-- a. ter bestrijding van alle kosten gemaakt in verband met de uitvoering van de taken en bevoegdheden bedoeld in [artikel 2, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2020-07-01&g=2023-05-16), met uitzondering van de kosten die verband houden met de bezoldiging van de leden van het Instituut en de huisvestingskosten van het Instituut;
+- a. ter bestrijding van alle kosten gemaakt in verband met de uitvoering van de taken en bevoegdheden bedoeld in [artikel 2, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20), met uitzondering van de kosten die verband houden met de bezoldiging van de leden van het Instituut en de huisvestingskosten van het Instituut;
 
-- b. ter bestrijding van de kosten gemaakt in verband met de uitvoering van de taken en bevoegdheden bedoeld in [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2020-07-01&g=2023-05-16), indien deze kosten gemaakt zijn ten behoeve van vergoeding van schade als bedoeld in deze wet; en
+- b. ter bestrijding van de kosten gemaakt in verband met de uitvoering van de taken en bevoegdheden bedoeld in [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20), indien deze kosten gemaakt zijn ten behoeve van vergoeding van schade als bedoeld in deze wet; en
 
 - c. ter compensatie van het rentevoordeel dat de exploitant ondervindt als gevolg van de afhandeling van schade door het Instituut.
 
@@ -374,7 +376,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 9. De Afdeling bestuursrechtspraak ziet af van beantwoording indien zij oordeelt dat de vraag zich niet voor beantwoording bij wijze van prejudiciële uitspraak leent of de vraag van onvoldoende gewicht is om beantwoording te rechtvaardigen. De Afdeling bestuursrechtspraak kan zich bij de vermelding van de gronden van haar uitspraak beperken tot dit oordeel.
 
-10. Indien het antwoord op de vraag, nadat deze is gesteld, niet meer nodig is om in de procedure, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=7&artikel=16&z=2020-07-01&g=2023-05-16), op het beroep te beslissen, kan de Afdeling bestuursrechtspraak, indien haar dat geraden voorkomt, de vraag desondanks beantwoorden met het oog op aanhangige beroepen in soortgelijke zaken.
+10. Indien het antwoord op de vraag, nadat deze is gesteld, niet meer nodig is om in de procedure, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=7&artikel=16&z=2023-06-20&g=2023-06-20), op het beroep te beslissen, kan de Afdeling bestuursrechtspraak, indien haar dat geraden voorkomt, de vraag desondanks beantwoorden met het oog op aanhangige beroepen in soortgelijke zaken.
 
 11. De Afdeling bestuursrechtspraak begroot in haar uitspraak, onder overeenkomstige toepassing van het bepaalde bij en krachtens [artikel 8:75 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75), de kosten, belanghebbenden en het bestuursorgaan ingevolge dit artikel hebben gemaakt.
 
@@ -384,15 +386,15 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 1. Behoudens indien het antwoord op de vraag niet meer nodig is om op het beroep te beslissen, beslist de rechtbank, nadat zij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Afdeling bestuursrechtspraak uit te laten, met inachtneming van deze uitspraak.
 
-2. De rechtbank kan onder de proceskosten waarin een bestuursorgaan of, indien van toepassing, een belanghebbende veroordeeld wordt, ook opnemen het door de Afdeling bestuursrechtspraak van de Raad van State begrote bedrag, bedoeld in [artikel 17, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=7&artikel=17&z=2020-07-01&g=2023-05-16).
+2. De rechtbank kan onder de proceskosten waarin een bestuursorgaan of, indien van toepassing, een belanghebbende veroordeeld wordt, ook opnemen het door de Afdeling bestuursrechtspraak van de Raad van State begrote bedrag, bedoeld in [artikel 17, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=7&artikel=17&z=2023-06-20&g=2023-06-20).
 
-3. Geen griffierecht wordt geheven van belanghebbenden, het bestuursorgaan en anderen die verschijnen in de prejudiciële procedure als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=7&artikel=16&z=2020-07-01&g=2023-05-16).
+3. Geen griffierecht wordt geheven van belanghebbenden, het bestuursorgaan en anderen die verschijnen in de prejudiciële procedure als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=7&artikel=16&z=2023-06-20&g=2023-06-20).
 
 ##### Artikel 19
 
 1. De artikelen [8:10 tot en met 8:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10), [8:14 tot en met 8:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:14), [8:23 tot en met 8:28](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:23), [8:29 tot en met 8:32a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:29), [8:35 tot en met 8:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:35), [8:45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:45a), [8:47](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:47), [8:60](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:60), [8:60a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:60a), [8:61](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:61), [8:62](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:62), [8:65](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:65); [8:77, eerste lid, onderdelen a tot en met e, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:77), [8:78](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:78) en [8:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:79) zijn van overeenkomstige toepassing op de behandeling van een verzoek om een prejudiciële uitspraak door de Afdeling bestuursrechtspraak.
 
-2. De Afdeling bestuursrechtspraak doet op de op grond van [artikel 17, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=7&artikel=17&z=2020-07-01&g=2023-05-16), bepaalde dag schriftelijk uitspraak op een verzoek om een prejudiciële beslissing.
+2. De Afdeling bestuursrechtspraak doet op de op grond van [artikel 17, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=7&artikel=17&z=2023-06-20&g=2023-06-20), bepaalde dag schriftelijk uitspraak op een verzoek om een prejudiciële beslissing.
 
 ### Hoofdstuk 7. Rechtsbescherming
 
@@ -400,7 +402,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 19b
 
-In afwijking van [artikel 1:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2) is een exploitant geen belanghebbende bij een besluit als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-05-16).
+In afwijking van [artikel 1:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2) is een exploitant geen belanghebbende bij een besluit als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2023-06-20&g=2023-06-20).
 
 ### Hoofdstuk 8. Slotbepalingen
 
