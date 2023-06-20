@@ -4,7 +4,7 @@ identifier: "BWBR0045176"
 country: "nl"
 rank: "wet"
 publication_date: "2023-06-20"
-last_updated: "2023-05-20"
+last_updated: "2023-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045176"
 soort: "wet"
@@ -49,13 +49,19 @@ Wijzigt de Wet publieke gezondheid.
 
 ##### Artikel II
 
-Vervallen
+1. In afwijking van [artikel 454, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=454) en [artikel 454, derde lid, van boek 7 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028751&artikel=454):
+
+- a. bewaart een hulpverlener een dossier dat uitsluitend betrekking heeft op een testuitslag waaruit blijkt of een persoon op het moment van afname van de test was geïnfecteerd met het virus SARS-CoV-2 gedurende een bij ministeriële regeling van Onze Minister van Volksgezondheid, Welzijn en Sport te bepalen termijn van minimaal zes maanden en ten hoogste een jaar, gerekend vanaf het moment dat de test is afgenomen;
+
+- b. vernietigt een hulpverlener een dossier dat uitsluitend betrekking heeft op een testuitslag als bedoeld in onderdeel a, indien de termijn, bedoeld in onderdeel a, is verstreken vanaf het moment van inwerkingtreding van dit artikel.
+
+2. De gemeentelijke gezondheidsdiensten, bedoeld in [artikel 14 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), zijn uitgezonderd van de termijnen bedoeld in het eerste lid, onder a en b.
 
 ##### Artikel III
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Artikel II vervalt een jaar na het tijdstip waarop [paragraaf 3a van hoofdstuk Va van de Wet publieke gezondheid](onbekend) vervalt.
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0045176&artikel=II&z=2023-06-20&g=2023-06-20) vervalt met ingang van 1 juli 2023 of op een bij koninklijk besluit te bepalen ander tijdstip.
 
 ##### Artikel IV
 
