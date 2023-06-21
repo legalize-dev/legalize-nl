@@ -4,7 +4,7 @@ identifier: "BWBR0033784"
 country: "nl"
 rank: "pbo"
 publication_date: "2024-01-01"
-last_updated: "2022-01-01"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033784"
 soort: "pbo"
@@ -78,7 +78,7 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 4
 
-In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033784&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01), door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.
+In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033784&hoofdstuk=2&artikel=2&z=2023-06-21&g=2023-06-21), door de ledenvergadering moeten geschieden, meldt het bestuur dit ten minste negen weken voor de datum van de betreffende bijeenkomst van de ledenvergadering aan de leden.
 
 ##### Artikel 5
 
@@ -86,7 +86,9 @@ In het geval benoemingen, in ieder geval die als bedoeld in [artikel 2, eerste l
 
 2. Het bestuur deelt de namen van de door hun aanbevolen kandidaten aan de leden mede ten minste zes weken voor de datum van de bijeenkomst van de ledenvergadering.
 
-3. De namen van de door een ledengroepbestuur of leden aanbevolen kandidaten worden uiterlijk drie weken voor de datum van de bijeenkomst van de ledenvergadering bij het bestuur ingediend.
+3. Bij de aanbeveling voor de benoeming van een accountant als bedoeld in [artikel 29, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=29) ter opvolging van een eerder door de ledenvergadering benoemde accountant, deelt het bestuur aan de ledenvergadering zijn belangrijkste conclusies mee over de aanbeveling en de uitkomsten van het selectieproces dat heeft geleid tot de aanbeveling.
+
+4. De namen van de door een ledengroepbestuur of leden aanbevolen kandidaten worden uiterlijk drie weken voor de datum van de bijeenkomst van de ledenvergadering bij het bestuur ingediend.
 
 ##### Artikel 6
 
