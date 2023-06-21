@@ -4,7 +4,7 @@ identifier: "BWBR0033780"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-06-21"
-last_updated: "2013-07-02"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033780"
 soort: "pbo"
@@ -38,23 +38,29 @@ Stelt de volgende verordening vast:
 
 ##### Artikel 1
 
-1. De voorzitter ziet er op toe dat:
+1. De voorzitter is het voornaamste aanspreekpunt voor leden van het bestuur, de directie en de hoogste leidinggevenden van het bureau alsmede voor leden van de beroepsorganisatie over het functioneren van de leden van het bestuur en de directie.
 
-- a. bestuursleden een introductie-, opleidings- of trainingsprogramma volgen;
+2. De plaatsvervangend voorzitter fungeert als aanspreekpunt voor leden van het bestuur, de directie en de hoogste leidinggevenden van het bureau over het functioneren van de voorzitter.
 
-- b. bestuursleden tijdig alle informatie ontvangen die nodig is voor de goede uitoefening van hun taak;
+3. De voorzitter bevordert dat:
 
-- c. voldoende tijd bestaat voor de beraadslaging en besluitvorming door de bestuursleden;
+- a. de contacten van het bestuur met de directie, het medezeggenschapsorgaan en de ledenvergadering naar behoren verlopen;
 
-- d. het bestuur en zijn commissies naar behoren functioneren.
+- b. bestuursleden een introductie-, opleidings- of trainingsprogramma volgen;
 
-2. De voorzitter draagt standpunten van de beroepsorganisatie uit en vormt het aanspreekpunt voor de leden.
+- c. bestuursleden tijdig alle informatie ontvangen die nodig is voor de goede uitoefening van hun taak;
 
-3. De voorzitter maakt deel uit van het dagelijks bestuur.
+- d. voldoende tijd bestaat voor de beraadslaging en besluitvorming door de bestuursleden;
 
-4. De voorzitter maakt geen deel uit van de financiële commissie.
+- e. het bestuur en zijn commissies naar behoren functioneren; en
+
+- f. het bestuur signalen uit de beroepsorganisatie opvangt en zorgt dat (vermoedens van) materiële misstanden en onregelmatigheden onverwijld aan het bestuur worden gerapporteerd.
+
+4. De voorzitter draagt standpunten van de beroepsorganisatie uit en vormt het aanspreekpunt voor de leden.
 
 5. De voorzitter wordt bij de uitoefening van zijn taken bijgestaan door een bestuurssecretaris.
+
+6. De voorzitter voert regelmatig overleg met de directie.
 
 ##### Artikel 2
 
