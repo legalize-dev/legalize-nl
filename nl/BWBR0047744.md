@@ -4,7 +4,7 @@ identifier: "BWBR0047744"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-06-21"
-last_updated: "2023-05-01"
+last_updated: "2023-06-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047744"
 soort: "pbo"
@@ -90,9 +90,9 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 - b. ten minste zeven andere leden.
 
-2. De voorzitter en de plaatsvervangend voorzitter zijn geen accountant, de andere leden kunnen accountant zijn voor zover zij geen opdrachten uitvoeren die te classificeren zijn als assurance of aan assurance verwante opdrachten.
+2. De leden zijn geen openbaar accountant als bedoeld in artikel 1 van de Verordening op de ledengroepen.
 
-3. De voorzitter en de vicevoorzitter mogen niet in relatie staan tot een accountantseenheid, anders dan in een cliëntrelatie.
+3. De voorzitter en de plaatsvervangend voorzitter mogen niet in relatie staan tot een accountantseenheid, anders dan in een cliëntrelatie.
 
 4. De voorzitter en de plaatsvervangend voorzitter van het Belanghebbendenorgaan worden door de ledenvergadering benoemd voor een periode van vier jaar op voordracht van de voorzitter van het bestuur en de aftredende voorzitter van het Belanghebbendenorgaan of bij diens afwezigheid de plaatsvervangend voorzitter van het Belanghebbendenorgaan. De voorzitter en de plaatsvervangend voorzitter van het Belanghebbendenorgaan kunnen elk eenmaal worden herbenoemd voor een periode van vier jaar.
 
@@ -144,7 +144,7 @@ Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
 - d. als het lid door het aanvaarden van een andere rol niet langer gezien kan worden als een vertegenwoordiger van de groep die door het lid in het belanghebbendenorgaan werd vertegenwoordigd;
 
-- e. als het lid een lidmaatschap of werkzaamheid aanvaardt als bedoeld in [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=2&artikel=4&z=2023-05-01&g=2023-05-01); of
+- e. als het lid een lidmaatschap of werkzaamheid aanvaardt als bedoeld in [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=2&artikel=4&z=2023-06-21&g=2023-06-21); of
 
 - f. bij een daartoe strekkende beslissing van het bestuur na een voordracht van het Belanghebbendenorgaan wegens ongeschiktheid.
 
@@ -196,21 +196,21 @@ Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
 2. De collegevoorzitter en de plaatsvervangend collegevoorzitter zijn accountant.
 
-3. De collegevoorzitter mag niet in relatie staan tot een accountantseenheid, anders dan in een cliëntrelatie.
+3. De collegevoorzitter en de plaatsvervangend collegevoorzitter worden door het bestuur benoemd voor een periode van vier jaar op gezamenlijke voordracht van de voorzitter van het bestuur en de voorzitter van het Belanghebbendenorgaan. De collegevoorzitter en de plaatsvervangend collegevoorzitter kunnen elk eenmaal worden herbenoemd voor een periode van vier jaar.
 
-4. De collegevoorzitter en de plaatsvervangend collegevoorzitter worden door het bestuur benoemd voor een periode van vier jaar op gezamenlijke voordracht van de voorzitter van het bestuur en de voorzitter van het Belanghebbendenorgaan. De collegevoorzitter en de plaatsvervangend collegevoorzitter kunnen elk eenmaal worden herbenoemd voor een periode van vier jaar.
+4. De andere collegeleden worden door het bestuur benoemd op gezamenlijke voordracht van de collegevoorzitter en plaatsvervangend collegevoorzitter voor een periode van vier jaar. Een ander collegelid kan eenmaal worden herbenoemd voor een periode van vier jaar.
 
-5. De andere collegeleden worden door het bestuur benoemd op gezamenlijke voordracht van de collegevoorzitter en plaatsvervangend collegevoorzitter voor een periode van vier jaar. Een ander collegelid kan eenmaal worden herbenoemd voor een periode van vier jaar.
+5. De collegeleden treden af volgens een door het College vast te stellen rooster. Het rooster wordt zodanig ingericht, dat voor zover mogelijk jaarlijks een gelijk aantal leden aftreedt.
 
-6. De collegeleden treden af volgens een door het College vast te stellen rooster. Het rooster wordt zodanig ingericht, dat voor zover mogelijk jaarlijks een gelijk aantal leden aftreedt.
+6. Het collegelid dat benoemd is ter vervulling van een tussentijds opengevallen plaats, treedt af op het tijdstip, waarop degene, in wiens plaats dit lid is benoemd, had moeten aftreden.
 
-7. Het collegelid dat benoemd is ter vervulling van een tussentijds opengevallen plaats, treedt af op het tijdstip, waarop degene, in wiens plaats dit lid is benoemd, had moeten aftreden.
+7. Het collegelid dat benoemd is ter vervulling van een tussentijds opengevallen plaats, kan eenmaal worden herbenoemd voor een periode van vier jaar.
 
-8. Het collegelid dat benoemd is ter vervulling van een tussentijds opengevallen plaats, kan eenmaal worden herbenoemd voor een periode van vier jaar.
+8. De accountants die lid zijn van het college vervullen in hun dagelijkse werkzaamheden een goede afspiegeling van de rollen die accountants in Nederland bij de uitoefening van het beroep vervullen.
 
-9. De accountants die lid zijn van het college vervullen in hun dagelijkse werkzaamheden een goede afspiegeling van de rollen die accountants in Nederland bij de uitoefening van het beroep vervullen.
+9. De expertise van de niet-accountantsleden moet complementair zijn aan de competenties van de accountants en een bijdrage kunnen leveren aan de goede beroepsuitoefening door accountants,
 
-10. De expertise van de niet-accountantsleden moet complementair zijn aan de competenties van de accountants en een bijdrage kunnen leveren aan de goede beroepsuitoefening door accountants,
+10. Door vernummering vervallen.
 
 11. In de uitoefening van zijn taken en die van de subcommissies wordt het College bijgestaan door een staf. De staf legt verantwoording af aan de voorzitter van het college en wordt middels een interne service level agreement door de beroepsorganisatie aan het College ter beschikking gesteld.
 
@@ -270,9 +270,9 @@ Het lidmaatschap van het College of een subcommissie eindigt:
 
 - b. bij het verstrijken van de zittingsduur;
 
-- c. als het lid een rol aanvaardt die ertoe leidt dat de goede afspiegeling, bedoeld in [artikel 9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=3&artikel=9&z=2023-05-01&g=2023-05-01), in belangrijke mate wordt verstoord;
+- c. als het lid een rol aanvaardt die ertoe leidt dat de goede afspiegeling, bedoeld in [artikel 9, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=3&artikel=9&z=2023-06-21&g=2023-06-21), in belangrijke mate wordt verstoord;
 
-- d. als het lid een lidmaatschap of werkzaamheid aanvaardt als bedoeld in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=3&artikel=11&z=2023-05-01&g=2023-05-01); of
+- d. als het lid een lidmaatschap of werkzaamheid aanvaardt als bedoeld in [artikel 11 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=3&artikel=11&z=2023-06-21&g=2023-06-21); of
 
 - e. bij een daartoe strekkende beslissing van het bestuur na een voordracht van het College wegens ongeschiktheid.
 
@@ -318,7 +318,7 @@ Het College voert zijn werkzaamheden uit in een door hem ingericht eerlijk en tr
 
 ##### Artikel 17
 
-1. Een voornemen van het College tot het doen van een voordracht als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=5&artikel=16&z=2023-05-01&g=2023-05-01), behoeft de instemming van het Belanghebbendenorgaan. Bij het ontbreken van de instemming van het Belanghebbendenorgaan, doet het College de voordracht, bedoeld in artikel 16, eerste lid, vergezeld van de motivering van het Belanghebbendenorgaan voor de onthouding van de instemming.
+1. Een voornemen van het College tot het doen van een voordracht als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=5&artikel=16&z=2023-06-21&g=2023-06-21), behoeft de instemming van het Belanghebbendenorgaan. Bij het ontbreken van de instemming van het Belanghebbendenorgaan, doet het College de voordracht, bedoeld in artikel 16, eerste lid, vergezeld van de motivering van het Belanghebbendenorgaan voor de onthouding van de instemming.
 
 2. Het Belanghebbendenorgaan heeft adviesrecht met betrekking tot de vaststelling van projectplannen.
 
@@ -350,7 +350,7 @@ Jaarlijks voor 1 april brengt het Belanghebbendenorgaan een verslag uit omtrent 
 
 - c. zijn de andere collegeleden de personen die door het bestuur voordien zijn benoemd tot lid van het Adviescollege beroepsreglementering.
 
-2. In afwijking van [artikel 9, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=3&artikel=9&z=2023-05-01&g=2023-05-01), kan een persoon, bedoeld in het vorige lid, eenmaal worden herbenoemd voor een periode van vier jaren tenzij deze bij de inwerkingtreding van deze verordening reeds is herbenoemd als lid van het Adviescollege beroepsreglementering.
+2. In afwijking van [artikel 9, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047744&hoofdstuk=3&artikel=9&z=2023-06-21&g=2023-06-21), kan een persoon, bedoeld in het vorige lid, eenmaal worden herbenoemd voor een periode van vier jaren tenzij deze bij de inwerkingtreding van deze verordening reeds is herbenoemd als lid van het Adviescollege beroepsreglementering.
 
 ### Hoofdstuk 8. Slotbepaling
 
