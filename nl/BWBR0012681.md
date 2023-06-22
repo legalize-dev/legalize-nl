@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2022-12-03"
+last_updated: "2023-06-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -274,7 +274,9 @@ Als gespen behorende bij de Herinneringsmedaille Internationale Missies worden i
 
 - 2°. Enhanced Forward Presence Baltics ‘EFP’, voor zover deze deelname heeft plaatsgehad in en boven de Oostzee, Polen, Estland, Letland en Litouwen vanaf 1 maart 2017: FORWARD PRESENCE BALTICS;
 
-- mm. voor deelname aan Non-Combattant Evacuation Operation Kabul ‘NEO KABUL’, voor zover deze deelname heeft plaatsgevonden op het grondgebied in Kabul, Islamabad en Tblisi, alsmede in het luchtruim boven Afghanistan, vanaf 16 augustus, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode van ten minste dertig dagen betreft: NEO KABUL 2021.
+- mm. voor deelname aan Non-Combattant Evacuation Operation Kabul ‘NEO KABUL’, voor zover deze deelname heeft plaatsgevonden op het grondgebied in Kabul, Islamabad en Tblisi, alsmede in het luchtruim boven Afghanistan, vanaf 16 augustus, waarbij wordt afgeweken van de eis dat de inzet een aaneengesloten periode van ten minste dertig dagen betreft: NEO KABUL 2021;
+
+- nn. voor deelname aan de operatie ‘FORENSISCHE OPSPORING ICC’, voor zover deze deelname heeft plaatsgevonden op het grondgebied van Oekraïne, alsmede in Rzeszow, Polen, vanaf 14 mei 2022: FORENSISCHE OPSPORING.
 
 ##### Artikel 2
 
