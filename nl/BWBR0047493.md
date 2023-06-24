@@ -4,7 +4,7 @@ identifier: "BWBR0047493"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2022-12-21"
+last_updated: "2023-06-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047493"
 soort: "AMvB"
@@ -80,7 +80,7 @@ Wijzigt het Besluit kwaliteitseisen en monitoring water 2009.
 
 ##### Artikel VI. (Overgangsrecht)
 
-Instellingen respectievelijk sauna’s als bedoeld in [artikel 35, eerste lid, onderdeel a, respectievelijk onderdeel j, van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=35), als gewijzigd door [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0047493&artikel=I&z=2022-12-21&g=2022-12-21), voldoen voor de eerste maal voor 1 juli 2024 aan artikel 35 van het Drinkwaterbesluit, als gewijzigd.
+Instellingen respectievelijk sauna’s als bedoeld in [artikel 35, eerste lid, onderdeel a, respectievelijk onderdeel j, van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=35), als gewijzigd door [artikel I, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0047493&artikel=I&z=2023-06-24&g=2023-06-24), voldoen voor de eerste maal voor 1 juli 2024 aan artikel 35 van het Drinkwaterbesluit, als gewijzigd.
 
 ##### Artikel VII. (Inwerkingtreding)
 
