@@ -4,7 +4,7 @@ identifier: "BWBR0046593"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-29"
-last_updated: "2022-10-18"
+last_updated: "2023-06-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046593"
 soort: "ministeriele-regeling"
@@ -118,7 +118,7 @@ De minister verdeelt het uitkeringsplafond, opgenomen in de bijlage, op volgorde
 
 - f. een plankaart en een toelichting op de afbakening van het projectgebied; en
 
-- g. een door een onafhankelijk taxateur uitgevoerde taxatie als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=3&z=2022-10-18&g=2022-10-18).
+- g. een door een onafhankelijk taxateur uitgevoerde taxatie als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=3&z=2023-06-24&g=2023-06-24).
 
 6. Een aanvraag voor een specifieke uitkering wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
@@ -136,13 +136,13 @@ De minister besluit afwijzend op een aanvraag indien:
 
 - a. de onrendabele top van het project minder dan € 1.000.000 bedraagt;
 
-- b. aan het project na toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=10&z=2022-10-18&g=2022-10-18), op één van de onderdelen minder dan 5,5 punten zijn toegekend;
+- b. aan het project na toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=10&z=2023-06-24&g=2023-06-24), op één van de onderdelen minder dan 5,5 punten zijn toegekend;
 
 - c. de aanvrager een G4-gemeente is.
 
 ##### Artikel 9. (instelling adviescommissie)
 
-1. Er is een Adviescommissie impulsaanpak winkelgebieden die tot taak heeft de minister te adviseren over de rangschikking van de aanvragen, op basis van rangschikkingscriteria, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=10&z=2022-10-18&g=2022-10-18).
+1. Er is een Adviescommissie impulsaanpak winkelgebieden die tot taak heeft de minister te adviseren over de rangschikking van de aanvragen, op basis van rangschikkingscriteria, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=10&z=2023-06-24&g=2023-06-24).
 
 2. De commissie bestaat uit ten minste 4 en ten hoogste 5 leden. De voorzitter en de leden zijn geen ambtenaren, werkzaam bij het Ministerie van Economische Zaken en Klimaat.
 
@@ -168,7 +168,7 @@ De minister besluit afwijzend op een aanvraag indien:
 
 1. De minister kent een aanvraag een hoger aantal punten toe naarmate:
 
-- a. de bijdrage aan de doelstelling van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=2&z=2022-10-18&g=2022-10-18), hoger is blijkend uit de verbetering van de gebruikswaarde, belevingswaarde en toekomstwaarde in het projectgebied;
+- a. de bijdrage aan de doelstelling van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=2&z=2023-06-24&g=2023-06-24), hoger is blijkend uit de verbetering van de gebruikswaarde, belevingswaarde en toekomstwaarde in het projectgebied;
 
 - b. het bestuurlijk en maatschappelijk draagvlak van het projectplan hoger is;
 
@@ -198,7 +198,7 @@ De minister besluit afwijzend op een aanvraag indien:
 
 6. Binnen één jaar na de verlening van de specifieke uitkering is de samenwerkingsovereenkomst tussen de gemeente en de deelnemende rechtspersonen of natuurlijke personen ten behoeve van de uitvoering van het project definitief.
 
-7. De minister kan voor het vertragen of het essentieel wijzigen van de wijze waarop de activiteiten worden uitgevoerd op voorafgaand verzoek van de gemeente ontheffing verlenen van de verplichting, bedoeld in het eerste en tweede lid, tenzij hierdoor afbreuk wordt gedaan aan de mate waarin het project bijdraagt aan de doelstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=2&z=2022-10-18&g=2022-10-18). Aan de ontheffing kunnen voorschriften worden verbonden.
+7. De minister kan voor het vertragen of het essentieel wijzigen van de wijze waarop de activiteiten worden uitgevoerd op voorafgaand verzoek van de gemeente ontheffing verlenen van de verplichting, bedoeld in het eerste en tweede lid, tenzij hierdoor afbreuk wordt gedaan aan de mate waarin het project bijdraagt aan de doelstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=2&z=2023-06-24&g=2023-06-24). Aan de ontheffing kunnen voorschriften worden verbonden.
 
 ##### Artikel 12. (voorschot)
 
@@ -208,7 +208,7 @@ De minister besluit afwijzend op een aanvraag indien:
 
 - a. de samenwerkingsovereenkomst ten behoeve van de uitvoering van het project definitief is; en
 
-- b. de gemeente hierover verantwoording heeft afgelegd als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=13&z=2022-10-18&g=2022-10-18).
+- b. de gemeente hierover verantwoording heeft afgelegd als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=13&z=2023-06-24&g=2023-06-24).
 
 3. De voorschotten, bedoeld in het tweede lid, bedragen het resterende gedeelte van de specifieke uitkering gedeeld door het resterend aantal kwartalen tot de einddatum van het project, zoals is opgenomen in het projectplan.
 
@@ -234,11 +234,12 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering impulsaanpak winkelgebieden.
 
-## Bijlage. behorende bij de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=4&z=2022-10-18&g=2022-10-18) en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=5&z=2022-10-18&g=2022-10-18), van de Regeling specifieke uitkering impulsaanpak winkelgebieden
+## Bijlage. behorende bij de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=4&z=2023-06-24&g=2023-06-24) en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=5&z=2023-06-24&g=2023-06-24), van de Regeling specifieke uitkering impulsaanpak winkelgebieden
 
 | Uitkeringsplafond | Periode voor het aanvragen van de specifieke uitkering |
 | --- | --- |
 | € 22.000.000 | 9 mei 9:00 2022 tot en met 30 mei 12:00 2022 |
 | € 22.000.000 | 14 november 9:00 2022 tot en met 5 december 12:00 2022 |
+| € 26.000.000 | 26 juni 9:00 2023 tot en met 4 september 12:00 2023 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
