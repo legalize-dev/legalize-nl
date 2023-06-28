@@ -299,11 +299,3 @@ Elk criterium krijgt een deelscore op een schaal van 1 tot 10. Een project scoor
 Eindscore: deelscore Doeltreffendheid (45%) + deelscore Organisatorische gedegenheid (25%) + deelscore Financiële onderbouwing (15%) + deelscore Prioriteit (15%)
 
 Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst.
-
-Het criterium ‘Prioriteit’ onderscheidt zich van de andere drie criteria, omdat de score op dit criterium vaststaat en niet beoordeeld wordt door de toetsingscommissie. De score wordt wel meegenomen bij het bepalen van de eindscore door de toetsingscommissie.
-
-### Schematische weergave beoordelingskader
-
-Eindscore: deelscore Doeltreffendheid (45%) + deelscore Organisatorische gedegenheid (25%) + deelscore Financiële onderbouwing (15%) + deelscore Prioriteit (15%)
-
-Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst.
