@@ -4,7 +4,7 @@ identifier: "BWBR0040581"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-07-01"
-last_updated: "2023-02-24"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040581"
 soort: "zbo"
@@ -180,11 +180,11 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 3.3. (aanvraag vergunning handelingen met toestel of versneller)
 
-Een aanvraag om een vergunning voor een handeling met een toestel of een versneller bevat naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-02-24&g=2023-02-24), een beschrijving van het toestel of de versneller onder vermelding van de gegevens betreffende de ioniserende straling die het toestel of de versneller kan uitzenden, waaronder in elk geval de maximale output die het systeem kan leveren, uitgedrukt als maximale hoogspanning van de röntgenbuis en de hoogspanning die de generator kan leveren.
+Een aanvraag om een vergunning voor een handeling met een toestel of een versneller bevat naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), een beschrijving van het toestel of de versneller onder vermelding van de gegevens betreffende de ioniserende straling die het toestel of de versneller kan uitzenden, waaronder in elk geval de maximale output die het systeem kan leveren, uitgedrukt als maximale hoogspanning van de röntgenbuis en de hoogspanning die de generator kan leveren.
 
 ##### Artikel 3.4. (aanvraag vergunning handeling met radioactieve stoffen in de vorm van open bronnen met kunstmatige radionucliden)
 
-Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de vorm van open bronnen met kunstmatige radionucliden bevat, naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-02-24&g=2023-02-24):
+Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de vorm van open bronnen met kunstmatige radionucliden bevat, naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01):
 
 - a. een opgave van de radionucliden, waarmee de handelingen worden verricht waarvoor de vergunning wordt gevraagd;
 
@@ -196,7 +196,7 @@ Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de
 
 ##### Artikel 3.5. (aanvraag vergunning handeling met radioactieve stoffen in de vorm van open bronnen met van nature voorkomende radionucliden)
 
-Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de vorm van open bronnen met van nature voorkomende radionucliden bevat, naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-02-24&g=2023-02-24), een beschrijving van:
+Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de vorm van open bronnen met van nature voorkomende radionucliden bevat, naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), een beschrijving van:
 
 - a. voor van nature voorkomend radioactief materiaal:
 
@@ -222,7 +222,7 @@ Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de
 
 ##### Artikel 3.6. (aanvraag vergunning handeling met radioactieve stoffen in de vorm van een ingekapselde bron)
 
-Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de vorm van een ingekapselde bron bevat naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-02-24&g=2023-02-24):
+Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de vorm van een ingekapselde bron bevat naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01):
 
 - a. een opgave van de radionucliden, waarmee de handelingen worden verricht waarvoor de vergunning wordt gevraagd;
 
@@ -232,11 +232,11 @@ Een aanvraag om een vergunning voor een handeling met radioactieve stoffen in de
 
 ##### Artikel 3.7. (aanvraag vergunning handeling met kunstmatige bronnen)
 
-Een aanvraag om een vergunning voor een handeling met kunstmatige bronnen bevat naast de relevante gegevens bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-02-24&g=2023-02-24), en de aanvullende gegevens bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2023-02-24&g=2023-02-24) respectievelijk [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-02-24&g=2023-02-24), een opgave van de overeenkomstig [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.5&artikel=3.13&z=2023-02-24&g=2023-02-24) gewogen en gesommeerde activiteit op enig moment van de radionucliden in de radioactieve stoffen, die op de locatie, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-02-24&g=2023-02-24), ten hoogste aanwezig zal zijn.
+Een aanvraag om een vergunning voor een handeling met kunstmatige bronnen bevat naast de relevante gegevens bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), en de aanvullende gegevens bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2023-07-01&g=2023-07-01) respectievelijk [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-07-01&g=2023-07-01), een opgave van de overeenkomstig [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.5&artikel=3.13&z=2023-07-01&g=2023-07-01) gewogen en gesommeerde activiteit op enig moment van de radionucliden in de radioactieve stoffen, die op de locatie, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), ten hoogste aanwezig zal zijn.
 
 ##### Artikel 3.8. (aanvraag vergunning handeling met een hoogactieve bron)
 
-Een aanvraag om een vergunning voor een handeling met een hoogactieve bron bevat, naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-02-24&g=2023-02-24), en de aanvullende gegevens, bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-02-24&g=2023-02-24) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2023-02-24&g=2023-02-24):
+Een aanvraag om een vergunning voor een handeling met een hoogactieve bron bevat, naast de relevante gegevens, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01), en de aanvullende gegevens, bedoeld in de [artikelen 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-07-01&g=2023-07-01) en [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2023-07-01&g=2023-07-01):
 
 - a. informatie over het volume van de bron, de bronhouder en de vaste afscherming van die bron;
 
@@ -298,7 +298,7 @@ Een aanvraag om een vergunning voor een handeling met een hoogactieve bron bevat
 
 - a. een opgave van alle ondernemers binnen de keten;
 
-- b. voor deze ondernemers binnen de keten: de gegevens genoemd in [artikel 3.2, eerste lid, onderdelen a, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-02-24&g=2023-02-24).
+- b. voor deze ondernemers binnen de keten: de gegevens genoemd in [artikel 3.2, eerste lid, onderdelen a, c, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01).
 
 4. Een ondernemer als bedoeld in het derde lid, onderdeel a, deelt een wijziging van de geregistreerde gegevens ten minste zes weken voor de aanvang van de wijziging schriftelijk mede aan de ondernemer die de ketenregistratie mede namens de andere ondernemers in de keten heeft aangevraagd.
 
@@ -354,7 +354,7 @@ Dn is de D-waarde voor radionuclide n.
 
 ##### Artikel 3.14. (nadere regels sommatie consumentenproducten)
 
-Als handelingen met consumentenproducten waarbij radioactieve stoffen worden toegevoegd aan consumentenproducten, bestemd voor gebruik op of in de directe omgeving van personen, waarbij de aan deze producten toegevoegde radionucliden niet worden betrokken bij een sommatie als bedoeld in [artikel 3.17, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17), worden aangewezen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=1&z=2023-02-24&g=2023-02-24) genoemde handelingen.
+Als handelingen met consumentenproducten waarbij radioactieve stoffen worden toegevoegd aan consumentenproducten, bestemd voor gebruik op of in de directe omgeving van personen, waarbij de aan deze producten toegevoegde radionucliden niet worden betrokken bij een sommatie als bedoeld in [artikel 3.17, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17), worden aangewezen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=1&z=2023-07-01&g=2023-07-01) genoemde handelingen.
 
 #### § 3.6. Vrijstelling en vrijgave, uitzondering
 
@@ -362,13 +362,13 @@ Als handelingen met consumentenproducten waarbij radioactieve stoffen worden toe
 
 1. De verboden, bedoeld in de [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5), en [3.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9), zijn niet van toepassing ten aanzien van het voorhanden hebben van radon in aardgas en het vrijkomen van radon bij het, in de open lucht, affakkelen of afblazen van aardgas.
 
-2. Handelingen met consumentenproducten die een beperkt risico van blootstelling van personen tot gevolg hebben en waarvoor de verboden, bedoeld in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5) en [3.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9) niet van toepassing zijn, zijn aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=2&z=2023-02-24&g=2023-02-24).
+2. Handelingen met consumentenproducten die een beperkt risico van blootstelling van personen tot gevolg hebben en waarvoor de verboden, bedoeld in de [artikelen 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5) en [3.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9) niet van toepassing zijn, zijn aangewezen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=2&z=2023-07-01&g=2023-07-01).
 
 ##### Artikel 3.16. (vrijgave handelingen met een beperkt risico op blootstelling)
 
 1. De verboden, bedoeld in de [artikelen 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5), en [3.9, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9), zijn niet van toepassing ten aanzien van het zich ontdoen van zeer laag radioactieve stoffen van elk type materiaal.
 
-2. Onder zeer laag radioactieve stoffen van elk type materiaal als bedoeld in het eerste lid worden verstaan: radioactieve stoffen waarvan de activiteit van de kunstmatige radionucliden, berekend over een periode van een jaar, kleiner is dan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=3&z=2023-02-24&g=2023-02-24) opgenomen grenswaarden.
+2. Onder zeer laag radioactieve stoffen van elk type materiaal als bedoeld in het eerste lid worden verstaan: radioactieve stoffen waarvan de activiteit van de kunstmatige radionucliden, berekend over een periode van een jaar, kleiner is dan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=3&z=2023-07-01&g=2023-07-01) opgenomen grenswaarden.
 
 3. Indien zeer laag radioactieve stoffen van elk type materiaal meerdere soorten radionucliden bevatten, wordt de activiteit van de radionucliden gewogen gesommeerd met overeenkomstige toepassing van [artikel 3.4, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.4). Aan de in het tweede lid bedoelde waarden wordt voldaan indien de uitkomst van de sommatie kleiner dan of gelijk is aan 1.
 
@@ -386,15 +386,15 @@ Als handelingen met consumentenproducten waarbij radioactieve stoffen worden toe
 
 ##### Artikel 3.18. (specifieke vrijgavewaarden)
 
-1. Natte sludges uit de olie- en gasindustrie en de geothermie, uitsluitend bestemd voor stort op een op grond van [artikel 10.6, vijfde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.6), aangewezen instelling, zijn vrijgegeven overeenkomstig [artikel 3.21 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.21), indien ten aanzien daarvan wordt voldaan aan de vrijgavewaarden die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=4&z=2023-02-24&g=2023-02-24), tabel 1.
+1. Natte sludges uit de olie- en gasindustrie en de geothermie, uitsluitend bestemd voor stort op een op grond van [artikel 10.6, vijfde of zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.6), aangewezen instelling, zijn vrijgegeven overeenkomstig [artikel 3.21 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.21), indien ten aanzien daarvan wordt voldaan aan de vrijgavewaarden die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=4&z=2023-07-01&g=2023-07-01), tabel 1.
 
 2. Vloeistoffen en vloeistof houdende materialen, die worden verbrand in een afvalverbrandingsinstallatie, zijn vrijgegeven indien ten aanzien daarvan wordt voldaan aan de vrijgavewaarden van [bijlage 3, onderdeel B, tabel A, deel 1, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3) en van bijlage 3.2, tabel A, deel 1, van de [Regeling basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040509).
 
 3. Lampen of starters waaraan Kr-85 is toegevoegd zijn vrijgegeven als de toegevoegde Kr-85-activiteit per eenheid kleiner is dan 10.000 becquerel.
 
-4. Materialen die één of meer van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=4&z=2023-02-24&g=2023-02-24), tabel 2, kolom 1, genoemde radionucliden bevatten, zijn vrijgegeven indien ten aanzien van die radionucliden wordt voldaan aan de desbetreffende vrijgavewaarden die zijn opgenomen in bijlage 4, tabel 2, kolom 2, voor zover zij bestemd zijn om te worden verbrand in een afvalverbrandingsinstallatie, als bedoeld in [artikel 1.1, eerste lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=1.1), niet zijnde ZAVIN te Dordrecht.
+4. Materialen die één of meer van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=4&z=2023-07-01&g=2023-07-01), tabel 2, kolom 1, genoemde radionucliden bevatten, zijn vrijgegeven indien ten aanzien van die radionucliden wordt voldaan aan de desbetreffende vrijgavewaarden die zijn opgenomen in bijlage 4, tabel 2, kolom 2, voor zover zij bestemd zijn om te worden verbrand in een afvalverbrandingsinstallatie, als bedoeld in [artikel 1.1, eerste lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=1.1), niet zijnde ZAVIN te Dordrecht.
 
-5. Materialen die één of meer van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=4&z=2023-02-24&g=2023-02-24), tabel 2, kolom 1, genoemde radionucliden bevatten, zijn vrijgegeven indien ten aanzien van die radionucliden wordt voldaan aan de desbetreffende vrijgavewaarden die zijn opgenomen in bijlage 4, tabel 2, kolom 3, voor zover zij bestemd zijn om te worden verbrand bij ZAVIN te Dordrecht.
+5. Materialen die één of meer van de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=4&z=2023-07-01&g=2023-07-01), tabel 2, kolom 1, genoemde radionucliden bevatten, zijn vrijgegeven indien ten aanzien van die radionucliden wordt voldaan aan de desbetreffende vrijgavewaarden die zijn opgenomen in bijlage 4, tabel 2, kolom 3, voor zover zij bestemd zijn om te worden verbrand bij ZAVIN te Dordrecht.
 
 6. Materialen als bedoeld in het vierde of vijfde lid worden aangeboden in lekdichte verpakkingen.
 
@@ -758,7 +758,7 @@ De ondernemer zorgt ervoor dat:
 
 - e. na het afsluiten van het dossier, als de ondernemer geen bronnen meer in zijn bezit heeft.
 
-2. De ondernemer verstrekt na een daartoe strekkend verzoek aan ambtenaren, bedoeld in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=58), de in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2023-02-24&g=2023-02-24) bedoelde gegevens.
+2. De ondernemer verstrekt na een daartoe strekkend verzoek aan ambtenaren, bedoeld in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=58), de in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.1&artikel=4.2&z=2023-07-01&g=2023-07-01) bedoelde gegevens.
 
 3. De termijn waarbinnen de ondernemer, die de beschikking krijgt over een hoogactieve bron, het dossier van die bron aanlegt, bedraagt 48 uur na het tijdstip van de verwerving van die bron.
 
@@ -798,7 +798,7 @@ Wanneer categorie 1-, 2-, of 3-stoffen niet onder persoonlijk toezicht staan, zi
 
 ##### Artikel 4.16. (afstemming beveiligingsmaatregelen)
 
-De beveiligingsmaatregelen, bedoeld in de [artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.13&z=2023-02-24&g=2023-02-24), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.14&z=2023-02-24&g=2023-02-24) en [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.15&z=2023-02-24&g=2023-02-24) worden afgestemd op:
+De beveiligingsmaatregelen, bedoeld in de [artikelen 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.13&z=2023-07-01&g=2023-07-01), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.14&z=2023-07-01&g=2023-07-01) en [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.15&z=2023-07-01&g=2023-07-01) worden afgestemd op:
 
 - a. de aard van de categorie 1-, 2-, of 3-stof;
 
@@ -826,9 +826,9 @@ Een vergunninghouder treft beveiligingsmaatregelen om de gelegenheid tot diefsta
 
 - c. een plattegrond van de locatie waarop de plaats waar de categorie 1-, 2-, of 3-stof wordt gebruikt of opgeslagen is aangegeven, alsmede de getroffen beveiligingsmaatregelen;
 
-- d. de getroffen en te treffen organisatorische, bouwkundige, elektronische, informatie en andere beveiligingsmaatregelen, waaruit onder andere blijkt hoe met deze maatregelen de in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.15&z=2023-02-24&g=2023-02-24) bedoelde vertragingstijd wordt behaald;
+- d. de getroffen en te treffen organisatorische, bouwkundige, elektronische, informatie en andere beveiligingsmaatregelen, waaruit onder andere blijkt hoe met deze maatregelen de in [artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.15&z=2023-07-01&g=2023-07-01) bedoelde vertragingstijd wordt behaald;
 
-- e. diegenen die aangewezen zijn persoonlijk toezicht te houden als bedoeld in [artikel 4.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.14&z=2023-02-24&g=2023-02-24);
+- e. diegenen die aangewezen zijn persoonlijk toezicht te houden als bedoeld in [artikel 4.14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.14&z=2023-07-01&g=2023-07-01);
 
 - f. de taken en bevoegdheden van de personen, belast met de beveiliging van de categorie 1-, 2-, of 3-stof;
 
@@ -850,13 +850,13 @@ Een vergunninghouder treft beveiligingsmaatregelen om de gelegenheid tot diefsta
 
 ##### Artikel 4.20. (uitvoeren evaluatieprogramma)
 
-1. Een vergunninghouder voert jaarlijks en na elke inbreuk op de beveiliging het evaluatieprogramma, bedoeld in [artikel 4.18, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.18&z=2023-02-24&g=2023-02-24), uit.
+1. Een vergunninghouder voert jaarlijks en na elke inbreuk op de beveiliging het evaluatieprogramma, bedoeld in [artikel 4.18, tweede lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.18&z=2023-07-01&g=2023-07-01), uit.
 
 2. Als onderdeel van het evaluatieprogramma worden:
 
-- a. de procedures, bedoeld in [artikel 4.18, tweede lid, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.18&z=2023-02-24&g=2023-02-24), in een oefening getest, en
+- a. de procedures, bedoeld in [artikel 4.18, tweede lid, onderdelen g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.18&z=2023-07-01&g=2023-07-01), in een oefening getest, en
 
-- b. de organisatorische, bouwkundige, elektronische, informatie en andere beveiligingsmaatregelen, als bedoeld in [artikel 4.18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.18&z=2023-02-24&g=2023-02-24), op doelmatigheid beoordeeld en getest.
+- b. de organisatorische, bouwkundige, elektronische, informatie en andere beveiligingsmaatregelen, als bedoeld in [artikel 4.18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.4&artikel=4.18&z=2023-07-01&g=2023-07-01), op doelmatigheid beoordeeld en getest.
 
 3. De bevindingen van het evaluatieprogramma worden op schrift gesteld.
 
@@ -868,7 +868,7 @@ Een vergunninghouder treft beveiligingsmaatregelen om de gelegenheid tot diefsta
 
 ##### Artikel 4.21. (voorschrift besmettingscontrole)
 
-Bij een besmettingscontrole als bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.11&z=2023-02-24&g=2023-02-24), wordt het volgende in acht genomen:
+Bij een besmettingscontrole als bedoeld in [artikel 4.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.11&z=2023-07-01&g=2023-07-01), wordt het volgende in acht genomen:
 
 - a. het oppervlak dat wordt afgewreven bedraagt circa 5 cm2, en
 
@@ -900,7 +900,7 @@ Bij een besmettingscontrole als bedoeld in [artikel 4.11, eerste lid](https://we
 
 ##### Artikel 4.24. (uitzonderingen grond-, weg- en waterbouw)
 
-1. Voor handelingen met en het voorhanden hebben van materiaal met van nature voorkomende radioactieve stoffen in werken van grond-, weg- of waterbouw buiten een inrichting, die zijn verricht of daadwerkelijk een aanvang hebben genomen voor 26 september 2004, gelden de in [artikel 3.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.11) gestelde verplichting, en [artikel 4.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.23&z=2023-02-24&g=2023-02-24), niet.
+1. Voor handelingen met en het voorhanden hebben van materiaal met van nature voorkomende radioactieve stoffen in werken van grond-, weg- of waterbouw buiten een inrichting, die zijn verricht of daadwerkelijk een aanvang hebben genomen voor 26 september 2004, gelden de in [artikel 3.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.11) gestelde verplichting, en [artikel 4.23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.6&artikel=4.23&z=2023-07-01&g=2023-07-01), niet.
 
 2. Het eerste lid is van overeenkomstige toepassing op stortplaatsen van radioactieve afvalstoffen die voor 26 september 2004 zijn ingericht.
 
@@ -920,13 +920,13 @@ In deze paragraaf wordt verstaan onder:
 
 - a. **melder:** ionisatierookmelder met een radioactieve stof;
 
-- b. **goedgekeurde melder:** melder van een type dat is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=5&z=2023-02-24&g=2023-02-24).
+- b. **goedgekeurde melder:** melder van een type dat is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=5&z=2023-07-01&g=2023-07-01).
 
 ##### Artikel 4.26. (uitzondering goedgekeurde melders)
 
 Met betrekking tot goedgekeurde melders gelden in de volgende, in [artikel 3.18, eerste lid, aanhef en onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.18), bedoelde situaties, de daarbij genoemde voorwaarden:
 
-- a. het voorhanden hebben voor opslag, mits het totaal aantal goedgekeurde melders, al dan niet in combinatie met andere merken en typen dan in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=5&z=2023-02-24&g=2023-02-24) zijn aangewezen, dat op dezelfde plaats in opslag wordt gehouden, niet meer dan 500 stuks bedraagt;
+- a. het voorhanden hebben voor opslag, mits het totaal aantal goedgekeurde melders, al dan niet in combinatie met andere merken en typen dan in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=5&z=2023-07-01&g=2023-07-01) zijn aangewezen, dat op dezelfde plaats in opslag wordt gehouden, niet meer dan 500 stuks bedraagt;
 
 - b. het voorhanden hebben en toepassen van een goedgekeurde melder;
 
@@ -938,15 +938,15 @@ Met betrekking tot goedgekeurde melders gelden in de volgende, in [artikel 3.18,
 
 1. Een ieder die een goedgekeurde melder binnen Nederlands grondgebied brengt of doet brengen, zorgt ervoor dat:
 
-- a. een goedgekeurde melder aan de buitenzijde is voorzien van een aanduiding van het type, vermeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=5&z=2023-02-24&g=2023-02-24);
+- a. een goedgekeurde melder aan de buitenzijde is voorzien van een aanduiding van het type, vermeld in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=5&z=2023-07-01&g=2023-07-01);
 
 - b. in de melder een aanduiding is aangebracht, waaruit de aanwezigheid van een radioactieve stof duidelijk blijkt, en
 
-- c. de melder aan de buitenzijde is voorzien van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=6&z=2023-02-24&g=2023-02-24) opgenomen aanduiding, zichtbaar ook na montage, waaruit de aanwezigheid van een radioactieve stof duidelijk blijkt.
+- c. de melder aan de buitenzijde is voorzien van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=6&z=2023-07-01&g=2023-07-01) opgenomen aanduiding, zichtbaar ook na montage, waaruit de aanwezigheid van een radioactieve stof duidelijk blijkt.
 
 2. Een ieder die binnen Nederland een goedgekeurde melder aan gebruikers aflevert of doet afleveren, zorgt ervoor dat bij elke leverantie aan een gebruiker:
 
-- a. de melder aan de buitenzijde is voorzien van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=6&z=2023-02-24&g=2023-02-24) opgenomen aanduiding, zichtbaar ook na montage, waaruit de aanwezigheid van een radioactieve stof duidelijk blijkt;
+- a. de melder aan de buitenzijde is voorzien van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=6&z=2023-07-01&g=2023-07-01) opgenomen aanduiding, zichtbaar ook na montage, waaruit de aanwezigheid van een radioactieve stof duidelijk blijkt;
 
 - b. schriftelijke informatie is bijgevoegd, waarin melding wordt gedaan van de aanwezigheid van een radioactieve stof in de melder en waarin de handelingen met de melder worden aangegeven die tot besmetting kunnen leiden en derhalve worden ontraden.
 
@@ -962,9 +962,9 @@ Deze paragraaf is van toepassing op aanwijsinstrumenten waaraan voor verlichting
 
 ##### Artikel 4.30. (controle constructie-eisen)
 
-1. Bij het controleren of aanwijsinstrumenten na de toevoeging van radioactieve stoffen voldoen aan de bij of krachtens [artikel 4.24 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.24) gestelde voorschriften met betrekking tot de constructie worden ten minste de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=7&z=2023-02-24&g=2023-02-24) beschreven tests uitgevoerd.
+1. Bij het controleren of aanwijsinstrumenten na de toevoeging van radioactieve stoffen voldoen aan de bij of krachtens [artikel 4.24 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.24) gestelde voorschriften met betrekking tot de constructie worden ten minste de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=7&z=2023-07-01&g=2023-07-01) beschreven tests uitgevoerd.
 
-2. De resultaten van de test, bedoeld onder II van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=8&z=2023-02-24&g=2023-02-24) en de controle, bedoeld onder III van bijlage 8, worden door de ondernemer vastgelegd in de administratie van de test- en controlehandelingen.
+2. De resultaten van de test, bedoeld onder II van [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=8&z=2023-07-01&g=2023-07-01) en de controle, bedoeld onder III van bijlage 8, worden door de ondernemer vastgelegd in de administratie van de test- en controlehandelingen.
 
 3. Met betrekking tot de test- en controlehandelingen worden, naast de resultaten, in de administratie de volgende gegevens opgenomen:
 
@@ -996,7 +996,7 @@ Deze paragraaf is van toepassing op aanwijsinstrumenten waaraan voor verlichting
 
 De ondernemer zorgt ervoor dat op een aanwijsinstrument waaraan H-3 in lichtcellen of Pm-147 in lichtgevende verf voor verlichtingsdoeleinden is toegevoegd, op een vanaf de buitenzijde van het instrument zichtbare plaats is aangebracht:
 
-- a. het waarschuwingsteken dat is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=8&z=2023-02-24&g=2023-02-24);
+- a. het waarschuwingsteken dat is opgenomen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=8&z=2023-07-01&g=2023-07-01);
 
 - b. het merkteken ‘ T 1 GBq’ of ‘Pm 10 MBq’ voor respectievelijk H-3 in lichtcellen en Pm-147 in lichtgevende verf.
 
@@ -1006,9 +1006,9 @@ De ondernemer zorgt ervoor dat na herstel- of onderhoudswerkzaamheden aan een aa
 
 - a. ten gevolge van die herstel- en onderhoudswerkzaamheden geen afwijkingen van de voorschriften van § 4.3.7.2 zijn ontstaan;
 
-- b. het in [artikel 4.32, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.32&z=2023-02-24&g=2023-02-24), bedoelde waarschuwingsteken voor ioniserende straling is aangebracht op een vanaf de buitenzijde van het instrument zichtbare plaats, en
+- b. het in [artikel 4.32, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.32&z=2023-07-01&g=2023-07-01), bedoelde waarschuwingsteken voor ioniserende straling is aangebracht op een vanaf de buitenzijde van het instrument zichtbare plaats, en
 
-- c. het in [artikel 4.32, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.32&z=2023-02-24&g=2023-02-24), bedoelde merkteken is aangebracht.
+- c. het in [artikel 4.32, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.32&z=2023-07-01&g=2023-07-01), bedoelde merkteken is aangebracht.
 
 #### § 4.4. Deskundigheid uitvoering handelingen
 
@@ -1028,9 +1028,9 @@ De ondernemer zorgt ervoor dat:
 
 - c. voor het aanbrengen of verwijderen van de ingekapselde bron uit de bronhouder of vaste meetopstelling anders dan door een leverancier: stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige, coördinerend deskundige of toezichthoudend medewerker stralingsbescherming voor de desbetreffende toepassing als vereist krachtens [artikel 5.22 van de Regeling basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040509&artikel=5.22);
 
-- d. voor het verrichten van een lektest, besmettingscontrole, of de periodieke controle zoals beschreven in [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.11&z=2023-02-24&g=2023-02-24): stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige, coördinerend deskundige, toezichthoudend medewerker stralingsbescherming voor verspreidbare radioactieve stoffen (niveau C), of toezichthoudend medewerker stralingsbescherming voor versnellers (niveau C);
+- d. voor het verrichten van een lektest, besmettingscontrole, of de periodieke controle zoals beschreven in [artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.11&z=2023-07-01&g=2023-07-01): stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige, coördinerend deskundige, toezichthoudend medewerker stralingsbescherming voor verspreidbare radioactieve stoffen (niveau C), of toezichthoudend medewerker stralingsbescherming voor versnellers (niveau C);
 
-- e. verantwoordelijkheid voor de beoordeling van de lektest, besmettingscontrole, of de periodieke controle zoals beschreven in [art. 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.11&z=2023-02-24&g=2023-02-24): stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige of coördinerend deskundige.
+- e. verantwoordelijkheid voor de beoordeling van de lektest, besmettingscontrole, of de periodieke controle zoals beschreven in [art. 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.2&artikel=4.11&z=2023-07-01&g=2023-07-01): stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige of coördinerend deskundige.
 
 - 2. Degenen die specifieke handelingen of taken uitvoeren met van nature voorkomend radioactief materiaal beschikken over een diploma op het volgende niveau van deskundigheid:
 
@@ -1038,23 +1038,23 @@ De ondernemer zorgt ervoor dat:
 
 - b. verantwoordelijkheid voor de beoordeling van de besmettingscontrole of vrijgave van een werklocatie: stralingsbeschermingsdeskundige op het niveau van algemeen coördinerend deskundige of coördinerend deskundige.
 
-#### § 4.5. Meet- en rekenmethodes
+#### § 4.4. Deskundigheid uitvoering handelingen
 
 ##### Artikel 4.36. (bepaling dosis)
 
-De bepaling van de effectieve dosis geschiedt op de wijze, vermeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-02-24&g=2023-02-24).
+De bepaling van de effectieve dosis geschiedt op de wijze, vermeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-07-01&g=2023-07-01).
 
 ##### Artikel 4.37. (rekenregels analyse gevolgen ioniserende straling voor het milieu)
 
-Bij de bepaling van de omgevingsdosisequivalenten, de equivalente en effectieve dosis, bedoeld in [artikel 4.29, eerste lid, onderdelen a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.29), wordt gebruik gemaakt van de rekenregels, opgenomen in de onderdelen 2, 3 en 4 van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-02-24&g=2023-02-24) en, in gevallen als aangegeven in onderdeel 5.1 van bijlage 10, onderdelen 5 en 6.
+Bij de bepaling van de omgevingsdosisequivalenten, de equivalente en effectieve dosis, bedoeld in [artikel 4.29, eerste lid, onderdelen a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.29), wordt gebruik gemaakt van de rekenregels, opgenomen in de onderdelen 2, 3 en 4 van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-07-01&g=2023-07-01) en, in gevallen als aangegeven in onderdeel 5.1 van bijlage 10, onderdelen 5 en 6.
 
 ##### Artikel 4.38. (uitzondering analyse gevolgen ioniserende straling voor het milieu)
 
-In afwijking van [artikel 4.37](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.37&z=2023-02-24&g=2023-02-24) kunnen, indien de Autoriteit daarmee instemt, andere dan de in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-02-24&g=2023-02-24) voorgeschreven methoden, standaardwaarden en standaardrelaties worden toegepast, indien een situatie in belangrijke mate afwijkt van de aannames waarvan in bijlage 10 is uitgegaan.
+In afwijking van [artikel 4.37](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.37&z=2023-07-01&g=2023-07-01) kunnen, indien de Autoriteit daarmee instemt, andere dan de in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-07-01&g=2023-07-01) voorgeschreven methoden, standaardwaarden en standaardrelaties worden toegepast, indien een situatie in belangrijke mate afwijkt van de aannames waarvan in bijlage 10 is uitgegaan.
 
 ##### Artikel 4.39. (methode bij toetsing omgevingsdosisequivalenten)
 
-De omgevingsdosisequivalenten, de equivalente en effectieve dosis, bedoeld in [artikel 4.29, eerste lid, onderdelen a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.29), worden getoetst aan de dosis, genoemd in de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.2) en [9.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.4), overeenkomstig de methoden die zijn aangegeven in onderdelen 3.3, 4.3, 4.4, 5, 6 en 7 van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-02-24&g=2023-02-24).
+De omgevingsdosisequivalenten, de equivalente en effectieve dosis, bedoeld in [artikel 4.29, eerste lid, onderdelen a en b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.29), worden getoetst aan de dosis, genoemd in de [artikelen 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.2) en [9.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.4), overeenkomstig de methoden die zijn aangegeven in onderdelen 3.3, 4.3, 4.4, 5, 6 en 7 van [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-07-01&g=2023-07-01).
 
 ##### Artikel 4.40. (alternatieve methode bepaling nadelige gevolgen ten gevolge van blootstelling aan straling bij handelingen met van nature voorkomend radioactief materiaal)
 
@@ -1064,7 +1064,7 @@ De omgevingsdosisequivalenten, de equivalente en effectieve dosis, bedoeld in [a
 
 - b. de bepaling van, onderscheidenlijk de toetsing van de externe straling ten gevolge van de besmetting van enig niet-bereikbaar oppervlak.
 
-2. De oppervlaktebesmetting met van nature voorkomend radioactief materiaal wordt bepaald met de methode, bedoeld in [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.41&z=2023-02-24&g=2023-02-24).
+2. De oppervlaktebesmetting met van nature voorkomend radioactief materiaal wordt bepaald met de methode, bedoeld in [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.41&z=2023-07-01&g=2023-07-01).
 
 3. Het eerste lid, onderdeel a, is niet van toepassing in gevallen waarin de in het tweede lid bedoelde meetmethode niet kan worden toegepast.
 
@@ -1074,7 +1074,7 @@ Bij handelingen met van nature voorkomend radioactief materiaal worden de volgen
 
 - a. de meetmethode moet voldoen aan de daarvoor geldende beste beschikbare technieken;
 
-- b. het criterium van 4 becquerel/cm2, bedoeld in [artikel 3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.6&artikel=3.17&z=2023-02-24&g=2023-02-24), is van toepassing op het gemiddelde over een oppervlak van 300 cm2; indien het bereikbare oppervlak kleiner is dan 300 cm2, moet de uitkomst worden verrekend naar het gemiddelde over 300 cm2;
+- b. het criterium van 4 becquerel/cm2, bedoeld in [artikel 3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.6&artikel=3.17&z=2023-07-01&g=2023-07-01), is van toepassing op het gemiddelde over een oppervlak van 300 cm2; indien het bereikbare oppervlak kleiner is dan 300 cm2, moet de uitkomst worden verrekend naar het gemiddelde over 300 cm2;
 
 - c. in afwijking van onderdeel b, is in het geval van een meer dan half-buisvormig object met een diameter van minder dan 15 cm voor de binnenzijde daarvan het criterium van toepassing op het gemiddelde over een oppervlak van 1.000 cm2; indien het bereikbare oppervlak van de binnenzijde van een meer dan halfbuisvormig object met een diameter van minder dan 15 cm kleiner is dan 1.000 cm2, moet de uitkomst worden verrekend naar het gemiddelde over 1.000 cm2;
 
@@ -1164,13 +1164,13 @@ De aanvraag tot erkenning van een instelling als bedoeld in [artikel 5.11 van he
 
 3. Teneinde overeenkomstig [artikel 6.21, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.21) vast te stellen of de blootstelling binnenshuis aan de gammastraling die door bouwmaterialen wordt uitgezonden onder het referentieniveau, bedoeld in [artikel 9.10, achtste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.10), blijft, onderzoekt de ondernemer zijn bouwmaterialen met een van de volgende methoden:
 
-- a. de ondernemer bepaalt voor zijn bouwmaterialen de index voor activiteitsconcentratie bedoeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=11&z=2023-02-24&g=2023-02-24), onderdeel a, en stelt vast of de bepaalde index kleiner is dan of gelijk is aan 1, dan wel:
+- a. de ondernemer bepaalt voor zijn bouwmaterialen de index voor activiteitsconcentratie bedoeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=11&z=2023-07-01&g=2023-07-01), onderdeel a, en stelt vast of de bepaalde index kleiner is dan of gelijk is aan 1, dan wel:
 
-- b. de ondernemer bepaalt de toename van de effectieve dosis ten gevolge van de gebruikte bouwmaterialen met de methode als bedoeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=11&z=2023-02-24&g=2023-02-24), onderdeel b, en stelt vast of de berekende effectieve dosis onder het referentieniveau blijft, dan wel:
+- b. de ondernemer bepaalt de toename van de effectieve dosis ten gevolge van de gebruikte bouwmaterialen met de methode als bedoeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=11&z=2023-07-01&g=2023-07-01), onderdeel b, en stelt vast of de berekende effectieve dosis onder het referentieniveau blijft, dan wel:
 
-- c. de ondernemer bepaalt volgens de methode, bedoeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=11&z=2023-02-24&g=2023-02-24), onderdeel c, de gewogen som van de activiteitsconcentraties van de radionucliden die aanwezig zijn in de aan de bouwmaterialen toegevoegde materialen die zijn genoemd in bijlage 6.1 van de regeling, en stelt vast of de uitkomst van de gewogen som kleiner is dan of gelijk is aan 1. De ondernemer bepaalt vervolgens aan de hand van de grafiek die is opgenomen in bijlage 11, onderdeel d, bij een gegeven oppervlaktedichtheid van het bouwmateriaal welk gewichtspercentage van die materialen hij ten hoogste mag toevoegen aan het bouwmateriaal, dan wel:
+- c. de ondernemer bepaalt volgens de methode, bedoeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=11&z=2023-07-01&g=2023-07-01), onderdeel c, de gewogen som van de activiteitsconcentraties van de radionucliden die aanwezig zijn in de aan de bouwmaterialen toegevoegde materialen die zijn genoemd in bijlage 6.1 van de regeling, en stelt vast of de uitkomst van de gewogen som kleiner is dan of gelijk is aan 1. De ondernemer bepaalt vervolgens aan de hand van de grafiek die is opgenomen in bijlage 11, onderdeel d, bij een gegeven oppervlaktedichtheid van het bouwmateriaal welk gewichtspercentage van die materialen hij ten hoogste mag toevoegen aan het bouwmateriaal, dan wel:
 
-- d. de ondernemer bepaalt, indien hij bouwmaterialen toepast met een oppervlaktedichtheid die kleiner dan of gelijk is aan 30 kg/m2, en de methode, genoemd in onderdeel c, niet toepasbaar is, de gewogen som van de activiteitsconcentraties van de radionucliden die aanwezig zijn in de aan de bouwmaterialen toegevoegde materialen die zijn genoemd in [bijlage 6.1 van de regeling](onbekend) volgens de methode bedoeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=11&z=2023-02-24&g=2023-02-24), onderdeel c, en stelt vast of de uitkomst van de gewogen som kleiner is dan of gelijk is aan 0,5.
+- d. de ondernemer bepaalt, indien hij bouwmaterialen toepast met een oppervlaktedichtheid die kleiner dan of gelijk is aan 30 kg/m2, en de methode, genoemd in onderdeel c, niet toepasbaar is, de gewogen som van de activiteitsconcentraties van de radionucliden die aanwezig zijn in de aan de bouwmaterialen toegevoegde materialen die zijn genoemd in [bijlage 6.1 van de regeling](onbekend) volgens de methode bedoeld in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=11&z=2023-07-01&g=2023-07-01), onderdeel c, en stelt vast of de uitkomst van de gewogen som kleiner is dan of gelijk is aan 0,5.
 
 ##### Artikel 6.2. (opzet en uitvoering van het milieumonitoringprogramma)
 
@@ -1200,7 +1200,7 @@ De aanvraag tot erkenning van een instelling als bedoeld in [artikel 5.11 van he
 
 - g. andere voor de uitvoering van het milieumonitoringprogramma relevante gegevens.
 
-3. De in het tweede lid bedoelde instanties leveren de meetgegevens zoals verkregen tijdens de uitvoering van het milieumonitoringprogramma, voor de onderdelen waarvoor zij zijn aangewezen, zo spoedig mogelijk na interne validatie van die gegevens, aan bij de door de Minister van Infrastructuur en Waterstaat aangewezen dienst of instantie die is belast met de coördinatie van het milieumonitoringprogramma. De te rapporteren gegevens bevatten ten minste de in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=12&z=2023-02-24&g=2023-02-24) bedoelde bemonsteringsgegevens en meetgegevens.
+3. De in het tweede lid bedoelde instanties leveren de meetgegevens zoals verkregen tijdens de uitvoering van het milieumonitoringprogramma, voor de onderdelen waarvoor zij zijn aangewezen, zo spoedig mogelijk na interne validatie van die gegevens, aan bij de door de Minister van Infrastructuur en Waterstaat aangewezen dienst of instantie die is belast met de coördinatie van het milieumonitoringprogramma. De te rapporteren gegevens bevatten ten minste de in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=12&z=2023-07-01&g=2023-07-01) bedoelde bemonsteringsgegevens en meetgegevens.
 
 4. De krachtens [artikel 6.24, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.24) door de Minister van Infrastructuur en Waterstaat aangewezen dienst of instantie die is belast met de coördinatie van het milieumonitoringprogramma zorgt ervoor dat:
 
@@ -1252,13 +1252,13 @@ De aanvraag tot erkenning van een instelling als bedoeld in [artikel 5.11 van he
 
 3. In geval van lozingen als gevolg van handelingen als bedoeld in artikel 15, aanhef en onderdeel b, van de wet voor een inrichting waarin kernenergie wordt vrijgemaakt met als hoofddoel de productie van elektriciteit of waar bestraalde splijtstoffen kunnen worden opgewerkt:
 
-- a. bepaalt de houder van de vergunning de geloosde activiteit van alle in kolom 1 van [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=13&z=2023-02-24&g=2023-02-24) genoemde radionucliden, en,
+- a. bepaalt de houder van de vergunning de geloosde activiteit van alle in kolom 1 van [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=13&z=2023-07-01&g=2023-07-01) genoemde radionucliden, en,
 
-- b. rapporteert de houder van de vergunning voor 1 juni van ieder jaar over de resultaten van de onder a genoemde bepalingen van het voorafgaande kalenderjaar, gebruikmakend van het in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=13&z=2023-02-24&g=2023-02-24), onderdeel A, respectievelijk onderdeel B, opgenomen formulier aan de Autoriteit.
+- b. rapporteert de houder van de vergunning voor 1 juni van ieder jaar over de resultaten van de onder a genoemde bepalingen van het voorafgaande kalenderjaar, gebruikmakend van het in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=13&z=2023-07-01&g=2023-07-01), onderdeel A, respectievelijk onderdeel B, opgenomen formulier aan de Autoriteit.
 
 4. Bij de bepaling van de geloosde activiteit, als bedoeld in het derde lid, geeft de ondernemer uitvoering aan het vijfde tot en met het achtste lid.
 
-5. Wanneer de meetwaarden beneden de detectiegrenzen liggen, mogen, voor de in kolom 2 van [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=13&z=2023-02-24&g=2023-02-24) genoemde representatieve radionucliden, de feitelijke detectiegrenzen niet hoger liggen dan de in kolom 3 van bijlage 13 opgenomen waarden.
+5. Wanneer de meetwaarden beneden de detectiegrenzen liggen, mogen, voor de in kolom 2 van [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=13&z=2023-07-01&g=2023-07-01) genoemde representatieve radionucliden, de feitelijke detectiegrenzen niet hoger liggen dan de in kolom 3 van bijlage 13 opgenomen waarden.
 
 6. In situaties waarin voor specifieke radionucliden een gelijke nauwkeurigheid kan worden bereikt door de berekening van de lozing op basis van operationele gegevens of op basis van de meetresultaten voor andere radionucliden, mogen dergelijke berekende lozingswaarden worden gebruikt ter vervanging van feitelijke meetwaarden.
 
@@ -1266,13 +1266,13 @@ De aanvraag tot erkenning van een instelling als bedoeld in [artikel 5.11 van he
 
 8. Wanneer de meetwaarden beneden de beslissingsdrempel liggen, moeten deze waarden voorzichtigheidshalve gelijk worden gesteld aan de helft van de beslissingsdrempel. Wanneer de resultaten van herhaalde metingen in de relevante periode echter allemaal beneden de beslissingsdrempel liggen, is het redelijk om aan te nemen dat de werkelijke waarde nul is, dat betekent dat de radionuclide niet aanwezig is in de geloosde afvalstoffen.
 
-9. De krachtens [artikel 6.24, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.24) door de Minister van Infrastructuur en Waterstaat aangewezen dienst of instantie die is belast met de coördinatie van het milieumonitoringprogramma zorgt ervoor dat de in het derde lid, onderdeel b, genoemde gegevens worden samengevat, gebruikmakend van het in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=14&z=2023-02-24&g=2023-02-24) opgenomen formulier, en voor 30 juni van elk kalenderjaar worden gerapporteerd aan de Europese Commissie.
+9. De krachtens [artikel 6.24, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.24) door de Minister van Infrastructuur en Waterstaat aangewezen dienst of instantie die is belast met de coördinatie van het milieumonitoringprogramma zorgt ervoor dat de in het derde lid, onderdeel b, genoemde gegevens worden samengevat, gebruikmakend van het in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=14&z=2023-07-01&g=2023-07-01) opgenomen formulier, en voor 30 juni van elk kalenderjaar worden gerapporteerd aan de Europese Commissie.
 
-### Hoofdstuk 7. Slotbepalingen
+### Hoofdstuk 6. Bouwmaterialen en milieumonitoring
 
 ##### Artikel 7.1. (inwerkingtreding)
 
-Deze verordening, met uitzondering van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-02-24&g=2023-02-24), treedt in werking op het tijdstip waarop het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) in werking treedt.
+Deze verordening, met uitzondering van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-07-01&g=2023-07-01), treedt in werking op het tijdstip waarop het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) in werking treedt.
 
 ##### Artikel 7.2. (citeertitel)
 
@@ -1302,7 +1302,9 @@ Voor de in het schema met `✦` aangegeven handelingen met de daarbij vermelde c
 
 ## Bijlagen. bij de ANVS-verordening basisveiligheidsnormen stralingsbescherming
 
-## Bijlage 1. behorende bij [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.5&artikel=3.14&z=2023-02-24&g=2023-02-24), nadere regels sommatie consumentenproducten
+## Bijlagen. bij de ANVS-verordening basisveiligheidsnormen stralingsbescherming
+
+## Bijlage 1. behorende bij [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.5&artikel=3.14&z=2023-07-01&g=2023-07-01), nadere regels sommatie consumentenproducten
 
 Voor de in het schema met `✦` aangegeven handelingen met de daarbij vermelde consumentenproducten, welke een beperkt risico van blootstelling van mensen tot gevolg hebben, geldt dat de aan deze consumentenproducten toegevoegde radionucliden niet worden betrokken bij een sommatie als bedoeld in [artikel 3.17, tweede en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.17) voor zover het aantal op enig moment van het jaar aanwezige artikelen het aangegeven aantal niet overschrijdt.
 
@@ -1320,7 +1322,7 @@ Voor de in het schema met `✦` aangegeven handelingen met de daarbij vermelde c
 | Thoriumhoudende lampen met een toegevoegde activiteit kleiner dan 100 Bq per eenheid | 232Th | ✦ | ✦ | ✦ |
 | Lampen met een toegevoegde 85Kr-activiteit kleiner dan 10.000 Bq per eenheid | 85Kr | ✦ | ✦ | ✦ |
 
-## Bijlage 2. behorend bij [artikel 3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.6&artikel=3.15&z=2023-02-24&g=2023-02-24), handelingen met consumentenproducten die een beperkt risico hebben
+## Bijlage 2. behorend bij [artikel 3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.6&artikel=3.15&z=2023-07-01&g=2023-07-01), handelingen met consumentenproducten die een beperkt risico hebben
 
 Voor de in het schema met ‘✦’ aangegeven handelingen met de daarbij vermelde consumentenproducten, welke een beperkt risico van blootstelling van mensen tot gevolg hebben, gelden het verboden bedoeld in [artikel 3.5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5), in samenhang met [artikel 3.8, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.8) niet, voor zover het aantal op enig moment van het jaar aanwezige consumentenproducten het aangegeven aantal niet overschrijdt.
 
@@ -1338,7 +1340,7 @@ Voor de in het schema met ‘✦’ aangegeven handelingen met de daarbij vermel
 | Thoriumhoudende lampen met een toegevoegde activiteit kleiner dan 100 Bq per eenheid | 232Th | ✦ | ✦ | ✦ |
 | Lampen met een toegevoegde 85Kr-activiteit kleiner dan 10.000 Bq per eenheid | 85Kr | ✦ | ✦ | ✦ |
 
-## Bijlage 3. behorend bij [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.6&artikel=3.16&z=2023-02-24&g=2023-02-24) (vrijgave handelingen met een beperkt risico op blootstelling)
+## Bijlage 3. behorend bij [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.6&artikel=3.16&z=2023-07-01&g=2023-07-01) (vrijgave handelingen met een beperkt risico op blootstelling)
 
 De verboden bedoeld in de [artikelen 3.5 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.5), en [artikel 3.9 eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=3.9) gelden niet voor de vrijgave van zeer laag radioactieve stoffen in elk type materiaal voor zover de per kalenderjaar (gesommeerde) vrij te geven activiteit de hier onder vermelde grenswaarde niet overschrijdt.
 
@@ -1377,55 +1379,9 @@ De verboden bedoeld in de [artikelen 3.5 eerste lid](https://wetten.overheid.nl/
 | Sr-85 | 1E+03 | Ac-227 | 2E-03 |
 | Sr-89 | 1E+02 | Th-227 | 1E-01 |
 
-## Bijlage 4. behorend bij [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2023-02-24&g=2023-02-24), specifieke vrijgavewaarden
+**Controle van de constructie na de vervaardiging van aanwijsinstrumenten die voor verlichtingsdoeleinden radioactieve stoffen bevatten.**
 
-**Tabel 1. Van nature voorkomende radionucliden, behorend bij artikel 3.18, eerste lid**
-
-| Van nature voorkomende radionucliden | Specifieke vrijgavewaarden voor van nature voorkomende radionucliden in natte sludges uit de olie- en gasindustrie en de geothermie (kBq kg-1) |
-| --- | --- |
-| K-40 | 100 |
-| Pb-210+ | 100 |
-| Po-210 | 100 |
-| Ra-226+ | 5 |
-| Ra-228+ | 10 |
-| Th-228+ | 5 |
-| Th-232sec of natuurlijke radionucliden uit de vervalreeks Th-232 | 5 |
-| U-235sec of natuurlijke radionucliden uit de vervalreeks U-235* | 10 |
-| U-238sec of natuurlijke radionucliden uit de vervalreeks U-238 | 5 |
-
-*: waarden voor deze nucliden maken deel uit van de U-235 reeks en worden slechts ter informatie gegeven: ze zullen niet beperkend zijn gezien de vaste verhouding tussen U-238 en U-235
-
-**Tabel 1a. De moedernucliden die in tabel 1 zijn aangegeven met ‘+’ of ‘sec’ zijn in seculair evenwicht met dochternucliden en betreffen:**
-
-| Moedernuclide | Moedernuclide in seculair evenwicht met dochternucliden |
-| --- | --- |
-| Pb-210+ | Pb-210, Bi-210 |
-| Ra-226+ | Ra-226, Rn-222, Po-218, Pb-214, Bi-214, Po-214 |
-| Ra-228+ | Ra-228, Ac-228 |
-| Th-228+ | Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Po-212 (64,1 %), Tl-208 (35,9 %) |
-| Th-232sec | Th-232, Ra-228, Ac-228, Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Po-212 (64,1%), Tl-208 (35,9%) |
-| U-235sec | U-235, Th-231, Pa-231, Ac-227, Th-227 (98,6%), Fr-223 (1,4%), Ra-223, Rn-219, Po-215, Pb-211, Bi-211, Tl-207, Po-211 (0,3%) |
-| U-238sec | U-238, Th-234, Pa-234m, Pa-234 (0,3%), U-234, Th-230, Ra-226, Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210 |
-
-**Tabel 2. Specifieke vrijgavewaarden voor verbranding, behorend bij artikel 3.18, vierde en vijfde lid**
-
-Specifieke vrijgavewaarden voor verbranding in een afvalverbrandingsinstallatie of bij ZAVIN te Dordrecht
-
-| Kunstmatige radionucliden | Specifieke vrijgavewaarde bij verbranding in een afvalverbrandingsinstallatie niet zijnde ZAVIN te Dordrecht (kBq.kg-1) | Specifieke vrijgavewaarde1 bij verbranding bij ZAVIN te Dordrecht (kBq.kg-1) |
-| --- | --- | --- |
-| H-3 | 4E+04 | 4E+04 |
-| C-14 | 4E+02 | 3E+02 |
-| P-33 | 3E+04 |   |
-| S-35 | 8E+02 |   |
-| Fe-55 | 1E+04 | 3E+03 |
-| Co-57 | 2E+00 |   |
-| Tc-99 | 3E+01 |   |
-| Er-169 | 1E+04 | 8E+03 |
-| Ac-2272, 1 | 9E-02 |   |
-
-1 Inclusief dochternucliden Fr-223, Th-227, Ra-223, Rn-219, Bi-215, Po-215, Pb-211, Bi-211, Tl-207.
-
-2 Voor zover dit radionuclide in consumentenproducten of vanwege zijn radioactieve eigenschappen wordt gebruikt.
+### I
 
 **Controle van de constructie na de vervaardiging van aanwijsinstrumenten die voor verlichtingsdoeleinden radioactieve stoffen bevatten.**
 
@@ -1437,10 +1393,6 @@ Specifieke vrijgavewaarden voor verbranding in een afvalverbrandingsinstallatie 
 
 De tests kunnen worden uitgevoerd op onderdelen van de aanwijsinstrumenten. Ze worden echter zo mogelijk met het gehele aanwijsinstrument verricht.
 
-### II
-
-Tests worden verricht op prototypen van elke partij aanwijsinstrumenten met het doel te bepalen of de samenstelling van de radioactieve verf, het gebruikte materiaal en de gebruikte fabricagemethode zodanig zijn dat de onderdelen van het aanwijsinstrument en het gehele aanwijsinstrument voldoen aan de voorgeschreven normen. Prototype-tests worden uitgevoerd op een geschikt monster. De test omvat:
-
 ## Bijlage 8. behorend bij [artikel 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.32&z=2018-02-06&g=2018-02-06), waarschuwingsteken op aanwijsinstrument
 
 Het waarschuwingsteken dat wordt aangebracht op aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd, is een waarschuwingsbord dat een zodanige afmeting heeft dat het met het blote oog herkenbaar is. Het betreft de volgende figuur:
@@ -1451,29 +1403,31 @@ Dit waarschuwingsteken dient voorts zodanig geplaatst te zijn dat het vanaf de b
 
 ## Bijlage 9. behorende bij [artikel 4.36](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.36&z=2018-02-06&g=2018-02-06), standaardwaarden en -relaties
 
+### III
+
+Gedurende de vervaardiging van aanwijsinstrumenten, waarvan de prototypen zijn getest als beschreven onder II, wordt gecontroleerd of de aanwijsinstrumenten en onderdelen daarvan overeenkomen met die welke als prototype zijn getest. Deze controle omvat in ieder geval een volledig visueel onderzoek van elk aanwijsinstrument op barsten of schilferen van de radioactieve stoffen bevattende verf, onvolkomenheden in het doorzichtige deel van het omhulsel van het aanwijsinstrument en de aanwezigheid van waarschuwings- en merktekens, indien deze zijn vereist.
+
 ### Gegevens voor de bepaling van de effectieve volgdosis
 
 De bepaling van de effectieve volgdosis (E(τ)) na uitwendige bestraling of inname van een radioactieve stof vindt plaats met behulp van de standaardwaarden en standaardrelaties zoals opgenomen in ICRP-publicatie 119 en in bijlage 2 van de Mededelingen van de Commissie betreffende de toepassing van [richtlijn 96/29](31996L0029), van 23 februari 1998. De effectieve dosis ten gevolge van externe bestraling wordt bepaald met behulp van ICRP-publicatie 116 en ICRU-publicatie 57.
 
-### Gegevens voor de bepaling van de effectieve volgdosis
-
 De bepaling van de effectieve volgdosis (E(τ)) na uitwendige bestraling of inname van een radioactieve stof vindt plaats met behulp van de standaardwaarden en standaardrelaties zoals opgenomen in ICRP-publicatie 119 en in bijlage 2 van de Mededelingen van de Commissie betreffende de toepassing van [richtlijn 96/29](31996L0029), van 23 februari 1998. De effectieve dosis ten gevolge van externe bestraling wordt bepaald met behulp van ICRP-publicatie 116 en ICRU-publicatie 57.
 
 De bepaling van de effectieve volgdosis (E(τ)) na uitwendige bestraling of inname van een radioactieve stof vindt plaats met behulp van de standaardwaarden en standaardrelaties zoals opgenomen in ICRP-publicatie 119 en in bijlage 2 van de Mededelingen van de Commissie betreffende de toepassing van [richtlijn 96/29](31996L0029), van 23 februari 1998. De effectieve dosis ten gevolge van externe bestraling wordt bepaald met behulp van ICRP-publicatie 116 en ICRU-publicatie 57.
-
-Tenzij anders aangegeven gelden de voorschriften ten aanzien van doses voor de som van de doses ten gevolge van de uitwendige blootstelling en van de volgdoses voor 50 jaar (voor kinderen tot de leeftijd van 70 jaar) ten gevolge van inname.
 
 Tenzij anders aangegeven gelden de voorschriften ten aanzien van doses voor de som van de doses ten gevolge van de uitwendige blootstelling en van de volgdoses voor 50 jaar (voor kinderen tot de leeftijd van 70 jaar) ten gevolge van inname.
 
 ### B. Tabellen
 
+Over het algemeen wordt de effectieve dosis **E** die een individu van de leeftijdsgroep **g** ontvangt overeenkomstig onderstaande formule berekend:
+
 1 De ingestiedosiscoëfficiënt is gegeven in de tabellen zoals genoemd onder punt B van deze bijlage.
 
 2 De inhalatiedosiscoëfficiënt is gegeven in de tabellen zoals genoemd onder punt B van deze bijlage.
 
-Annex A tot en met H van ICRP-publicatie 119 worden beheerd door de Autoriteit en ter beschikking gesteld via de website van de Autoriteit (www.autoriteitnvs.nl). In de annexen van ICRP-publicatie 119 zijn de volgende standaardwaarden en standaardrelaties opgenomen:
+### B. Tabellen
 
-### C. Toelichting op de tabellen
+Annex A tot en met H van ICRP-publicatie 119 worden beheerd door de Autoriteit en ter beschikking gesteld via de website van de Autoriteit (www.autoriteitnvs.nl). In de annexen van ICRP-publicatie 119 zijn de volgende standaardwaarden en standaardrelaties opgenomen:
 
 Daarnaast geldt de volgende tabel (tabel 1), welke is overgenomen van de Mededeling van de Commissie der EG, 23 februari 1998, PbEG 1998, C133.
 
@@ -1493,17 +1447,15 @@ In **Annex D van ICRP-publicatie 119** staan de factoren f1 voor opname via de d
 
 In **Annex F en G van ICRP-publicatie 119** wordt aangegeven wat de ingestie- respectievelijk inhalatiedosiscoëfficiënt is, voor leden van de bevolking in verschillende leeftijdsklassen. Omdat in **Annex A**van ICRP-publicatie 119 alleen gegevens voor volwassen werknemers worden gegeven, kan de kolom ‘15y’ (referentieleeftijd) ook worden gebruikt voor het bepalen van de dosis voor leerlingen en studerenden van 16 en 17 jaar. Hierbij kan het nuttig zijn om in sommige situaties na te gaan of de voor de leden van de bevolking gehanteerde standaardparameters toepasselijk zijn voor de fysische en chemische vormen waarin de radionucliden op het werk voorkomen. De dochternucliden van radon (Rn-222) en thoron (Rn 220) blijven daarbij buiten beschouwing.
 
-De gewijzigde indeling in **Annex F en G**van ICRP-publicatie 119 ten opzichte van de tabellen 1 en 2 zoals opgenomen in bijlage 1.4 van de voormalige Uitvoeringsregeling (gebaseerd op bijlage 3 van de [richtlijn 96/29](31996L0029)/EURATOM) vloeien voort uit een andere wijze van notatie die in ICRP-publicatie 119 wordt gehanteerd. Bijlage 1.4 van de voormalige Uitvoeringsregeling gaf de leeftijdsklassen terwijl **Annex F en G** van ICRP-publicatie 119 voor elke leeftijdsklasse de referentieleeftijd vermeldt. De relatie tussen leeftijdsklasse en referentieleeftijd is als volgt:
-
 ### D. Omrekeningsfactoren voor radon- en thoron-dochters
+
+Wat betreft blootstelling van leden van de bevolking zijn in **Annex F**van ICRP-publicatie 119 voor ingestie de waarden verwerkt die overeenkomen met de verschillende factoren f1 voor opname via de darmwand bij zuigelingen en ouderen. Wat betreft blootstelling van leden van de bevolking zijn in **Annex G**van ICRP-publicatie 119 voor inhalatie de waarden verwerkt voor de verschillende soorten longretentie, met passende waarden f1 voor dat gedeelte van de inname dat wordt afgevoerd via het maag-darmkanaal. Indien informatie over deze waarden beschikbaar is, wordt de passende waarde gehanteerd; zo niet dan wordt de meest restrictieve waarde aangehouden. De ICRP-publicaties die informatie geven behorend bij diverse nucliden betreffende longabsorptietypen hiervoor zijn gegeven in **tabel 1** van deze bijlage.
 
 Tot slot bevat **Annex H**van ICRP-publicatie 119 de inhalatiecoëfficiënt voor oplosbare of reactieve gassen en dampen, voor leden van de bevolking.
 
-Wat externe blootstelling betreft zijn de standaardwaarden en standaardrelaties gepubliceerd volgens de nieuwe methode in **ICPR-publicatie 116**. In deze publicatie zijn voor verschillende soorten straling effectieve dosiscoëfficiënten gegeven voor verschillende typen van bestraling alsmede orgaan-specifieke dosiscoëfficiënten. Deze kunnen gebruikt worden voor meer geavanceerde berekeningen voor de externe stralingsdosis voor het geval het omgevingsdosisequivalent H*(10) niet meer volstaat.
-
 ## Bijlage 10. behorende bij [artikelen 4.37 tot en met 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.37&z=2018-02-06&g=2018-02-06)
 
-### Rekenregels Analyse Gevolgen Ioniserende Straling (AGIS)
+### D. Omrekeningsfactoren voor radon- en thoron-dochters
 
 ### 1. Inleiding
 
@@ -1517,11 +1469,13 @@ Voor handelingen, dat wil zeggen het bereiden, voorhanden hebben, bewerken, toep
 
 [Artikel 4.37 tot en met 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.37&z=2023-02-24&g=2023-02-24) van de verordening en deze bijlage betreffen handelingen met bronnen van ioniserende straling.
 
+[Artikel 4.37 tot en met 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.37&z=2023-07-01&g=2023-07-01) van de verordening en deze bijlage betreffen handelingen met bronnen van ioniserende straling.
+
 Voor handelingen, dat wil zeggen het bereiden, voorhanden hebben, bewerken, toepassen of zich ontdoen van radioactieve stoffen of het gebruik van toestellen en versnellers, is in veel gevallen een registratie of een vergunning volgens de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) nodig3Voor nadere informatie over de registratie- en vergunningplicht zie hoofdstuk 3 van het Besluit basisveiligheidsnormen stralingsbescherming.. Dat geldt ook voor handelingen met van nature voorkomend materiaal4Voor nadere informatie over handelingen met van nature voorkomend materiaal zie hoofdstuk 3 van het Besluit basisveiligheidsnormen stralingsbescherming..
 
-Volgens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-02-24&g=2023-02-24) van de verordening bevat elke kennisgeving ten behoeve van een aanvraag om een registratie van een handeling, onder andere, een opgave van de maximale totale effectieve dosis die een persoon per jaar buiten de locatie kan ontvangen ten gevolge van handelingen met die bron. Volgens [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-02-24&g=2023-02-24) van de verordening bevat elke kennisgeving ten behoeve van een aanvraag om een vergunning voor een handeling, onder andere, de maximale totale effectieve dosis die een persoon in een kalenderjaar kan ontvangen op enig punt buiten de locatie waarop aanvraag van toepassing is, zowel ten gevolge van lozingen als ten gevolge van externe straling. Het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) stelt voorts in [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.29&z=2023-02-24&g=2023-02-24) dat door de Autoriteit regels kunnen worden gesteld voor de bepaling van de doses5Indien in deze bijlage kortheidshalve de term ‘dosis’ wordt gebruikt, wordt steeds ‘effectieve dosis’ bedoeld, tenzij nadrukkelijk anders wordt vermeld. en methoden kunnen worden aangewezen voor de wijze waarop de berekende doses worden getoetst. Deze bijlage bevat de hierboven bedoelde regels en methoden.
-
 ### 1.2. Doel en opzet van deze bijlage
+
+De volgende dosisniveaus worden gehanteerd:
 
 Het SN is een niveau waaronder de invulling van het ALARA-beginsel7ALARA is acronym van ‘As Low As Reasonably Achievable’. ALARA is het beginsel van stralingsbescherming waarin is vastgelegd dat een blootstelling geoptimaliseerd is. Daarbij dient de grootte van de effectieve of equivalente dosis van personen, de kans op optreden van blootstelling en het aantal blootgestelde personen zo beperkt als redelijkerwijs mogelijk te worden gehouden. Bij 'zo laag als redelijkerwijs mogelijk' dient de redelijkheid gebaseerd te zijn op de actuele stand der techniek en economische en sociale factoren. De overheid verplicht de ondernemer te handelen overeenkomstig het optimalisatie-beginsel. vanuit de overheid minder prioriteit heeft en de verantwoordelijkheid voor het toepassen hiervan bij de ondernemer wordt gelegd. De ondernemer heeft de verplichting om het ALARA-beginsel in de praktijk door te voeren.
 
@@ -1531,9 +1485,9 @@ Het doel van deze bijlage is regels te geven voor het uitvoeren van een dosisber
 
 Het doel van deze bijlage is regels te geven voor het uitvoeren van een dosisberekening. Hierbij wordt gebruik gemaakt van stroomschema's. Tevens zijn beleidskeuzes aangegeven. Figuur 1.1 geeft in een stroomschema de werkwijze van deze bijlage in zijn geheel weer. De regels zijn alleen bedoeld voor geplande handelingen met bronnen van ioniserende straling en de daaruit voortvloeiende emissies en lozingen. Deze bijlage bestaat uit twee delen.
 
-In eenvoudige gevallen (bijvoorbeeld voor radionuclidenlaboratoria en ingekapselde bronnen voor meet- en regeltechniek) zal volstaan kunnen worden met de vereenvoudigde rekenregels van Deel I. Het doel van Deel I is een antwoord te krijgen op de vraag of een handeling een stralingsdosis onder het SN geeft. Het antwoord wordt op een globale, conservatieve wijze geschat met behulp van simpele rekenregels zonder een uitvoerige dosisberekening.
-
 ### 1.3. Bronnen en blootstellingsroutes
+
+Voor meer complexe situaties en voor die emissiesoorten waarvoor volgens de rekenregels uit Deel I het SN wordt overschreden, moet een zogenoemde nadere analyse worden uitgevoerd waarbij Deel II van deze bijlage van toepassing is. In Deel II wordt met behulp van stroomschema's en het aangeven van beleidskeuzes de methodiek van het uitvoeren van een nadere analyse beschreven, en worden de belangrijkste te beschouwen standaardwaarden en de bijbehorende standaardrelaties gegeven. In het algemeen zal bij de uitvoering van de nadere analyse meer ervaring en kennis van de achterliggende modellen nodig zijn dan bij toepassing van de rekenregels uit Deel I.
 
 De rapporten ‘Dosisberekening voor de Omgeving bij Vergunningverlening Ioniserende Straling deel A: Lozingen in lucht en water’ DOVIS-A **[DOA02]**en ‘Dosisberekening voor de Omgeving bij Vergunningverlening Ioniserende Straling deel B: Externe straling’ DOVIS-B **[DOB02]**dienen te worden gehanteerd voor de uitvoering van een nadere analyse.
 
@@ -1543,15 +1497,13 @@ Bronnen worden ingedeeld in:
 
 Bronnen worden ingedeeld in:
 
-Handeling met bronnen binnen een locatie9Een locatie kan zowel samenvallen met de inrichting van een ondernemer als een plaats daarbinnen zijn of daarbuiten. In sommige gevallen is er dus geen sprake van een omschreven locatie of inrichting, maar van een plaats, wat bijvoorbeeld een afgezet stuk openbare weg kan zijn, of een stuk terrein binnen een inrichting., zoals gedefinieerd in het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179), kunnen drie verschillende soorten**emissies** tot gevolg hebben:
-
 ### Deel I. Rekenregels
 
 ### 2. Toepasbaarheid rekenregels
 
 ### Deel I. Rekenregels
 
-De rekenregels van Deel I zijn voor externe straling, lozingen in lucht en lozingen in water van toepassing indien, met betrekking tot de verschillende emissies uit de bron(nen), aan de volgende voorwaarden wordt voldaan:
+De combinatie van emissies, belastingpaden en blootstellingswegen is in het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) gedefinieerd als **blootstellingsroute**, de wijze waarop ioniserende straling of radionucliden personen kunnen bereiken en blootstelling kunnen veroorzaken.
 
 Indien niet aan voorwaarde 1 of 2 wordt voldaan, wordt voor deze emissiesoort verwezen naar Deel II, Nadere Analyse.
 
@@ -1561,17 +1513,17 @@ De rekenregels van Deel I zijn voor externe straling, lozingen in lucht en lozin
 
 ### 2.2. Toepasbaarheidbeoordeling na berekening
 
+Indien niet aan voorwaarde 1 of 2 wordt voldaan, wordt voor deze emissiesoort verwezen naar Deel II, Nadere Analyse.
+
 Indien niet aan voorwaarde 3 wordt voldaan, wordt voor deze emissiesoort verwezen naar Deel II, Nadere Analyse.
 
 Indien niet aan voorwaarde 4 of 5 wordt voldaan, wordt voor deze emissiesoort verwezen naar Deel II, Nadere Analyse.
 
 Voor iedere emissiesoort afzonderlijk worden, met behulp van de rekenregels en op grond van de toegepaste hoeveelheden radionucliden, de maximale (theoretisch mogelijk) emissies berekend (zie hiervoor onderdelen 3 en 4):
 
-Voor iedere emissiesoort afzonderlijk worden, met behulp van de rekenregels en op grond van de toegepaste hoeveelheden radionucliden, de maximale (theoretisch mogelijk) emissies berekend (zie hiervoor onderdelen 3 en 4):
-
 ### 2.3. Onderscheid ingekapselde bronnen, toestellen en open bronnen
 
-Toetsing geschiedt voor iedere emissiesoort afzonderlijk:
+Voor iedere emissiesoort zijn toetsingsniveaus vastgesteld (H*SN, LSN en WSN) die worden geacht het SN te vertegenwoordigen (zie onderdelen 3.3.4, 4.3.4, 4.4.4).
 
 ### 2.3. Onderscheid ingekapselde bronnen, toestellen en open bronnen
 
@@ -1579,7 +1531,9 @@ Toetsing geschiedt voor iedere emissiesoort afzonderlijk:
 
 In deze rekenregels worden op basis van de mogelijke emissiesoorten twee stroomschema's gehanteerd: één voor de categorie ‘ingekapselde bronnen en toestellen’ (onderdeel 3) en één voor de categorie ‘open bronnen’ (onderdeel 4).
 
-Een **toestel**is een ioniserende straling uitzendend toestel als gedefinieerd in [artikel 1 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=1). Bedoeld wordt een toestel dat ioniserende straling kan uitzenden en geen radioactieve stof, splijtstof of erts bevat. Toestellen worden bijvoorbeeld veel aangetroffen in de medische sector (röntgentoestellen voor diagnostiek) en bij materiaalonderzoek. Een **versneller** is een toestel of installatie welke deeltjes versnelt en ioniserende straling met een energie van meer dan 1 mega-elektronvolt (MeV) uitzendt, als gedefinieerd in [bijlage 1 van het Besluit basisveiligheidsnormen stralingbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1).
+In deze rekenregels worden op basis van de mogelijke emissiesoorten twee stroomschema's gehanteerd: één voor de categorie ‘ingekapselde bronnen en toestellen’ (onderdeel 3) en één voor de categorie ‘open bronnen’ (onderdeel 4).
+
+Dit onderdeel geeft rekenregels voor de externe straling vanuit toestellen en ingekapselde bronnen, maar dezelfde berekeningsmethodiek geldt ook voor de externe straling afkomstig van open bronnen.
 
 Dit onderdeel geeft rekenregels voor de externe straling vanuit toestellen en ingekapselde bronnen, maar dezelfde berekeningsmethodiek geldt ook voor de externe straling afkomstig van open bronnen.
 
@@ -1589,25 +1543,25 @@ Een **toestel**is een ioniserende straling uitzendend toestel als gedefinieerd i
 
 Een **ingekapselde****bron** wordt gevormd door radioactieve stoffen die zijn ingebed in of gehecht aan vast dragermateriaal of zijn omgeven door een omhulling van materiaal met dien verstande dat hetzij het dragermateriaal hetzij de omhulling voldoende weerstand bieden om onder normale gebruiksomstandigheden elke verspreiding van radioactieve stoffen te voorkomen, zoals gedefinieerd in [bijlage 1 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1). Ingekapselde bronnen komen in grote verscheidenheid voor en worden voor veel doeleinden toegepast. In de industrie worden ze bijvoorbeeld gebruikt in apparaten voor meet- en regeldoeleinden en in de medische sector bij bestralingsapparatuur.
 
-Bij toestellen en ingekapselde bronnen wordt uitgegaan van slechts één belastingpad, namelijk de externe straling die vrijkomt bij gebruik. Daarnaast wordt in dit onderdeel aangenomen (zie ook onderdeel 2.1) dat alleen sprake is van röntgenstraling en gammastraling en dat modelmatig gesproken kan worden van een puntbron (zie voetnoot 10 in onderdeel 2.1) waarvoor de kwadratenwet van toepassing is.
-
 ### 3.2. Toepassingsgebied rekenregels
 
 ### 3.2.1. Ingekapselde bronnen en open bronnen
 
+De volgende stukken van dit onderdeel vormen de toelichting bij elk van de stappen van het stroomschema.
+
 In het vervolg wordt onder **'stralingsbron'** verstaan dat wat straling uitzendt, te weten:
 
-**De puntbronbenadering (kwadratenwet) is alleen toepasbaar indien de afstand tussen stralingsbron en het punt waarvoor de dosis berekend wordt of is (het dosispunt) groter is dan 5 maal de grootste afmeting van het stralende oppervlak aan de kant van het dosispunt.**
-
 Indien de afmetingen van de stralingsbron groot zijn ten opzichte van de afstand tot het punt waar de dosis wordt berekend, kan de kwadratenwet niet worden toegepast. De voorwaarde luidt **[DOB02]**:
 
 Indien de afmetingen van de stralingsbron groot zijn ten opzichte van de afstand tot het punt waar de dosis wordt berekend, kan de kwadratenwet niet worden toegepast. De voorwaarde luidt **[DOB02]**:
 
-**De puntbronbenadering (kwadratenwet) is alleen toepasbaar indien de afstand tussen stralingsbron en het punt waarvoor de dosis berekend wordt of is (het dosispunt) groter is dan 5 maal de grootste afmeting van het stralende oppervlak aan de kant van het dosispunt.**
+Indien de afmetingen van de stralingsbron groot zijn ten opzichte van de afstand tot het punt waar de dosis wordt berekend, kan de kwadratenwet niet worden toegepast. De voorwaarde luidt **[DOB02]**:
 
-Voor kortere afstanden wordt verwezen naar Deel II, Nadere Analyse.
+**De puntbronbenadering (kwadratenwet) is alleen toepasbaar indien de afstand tussen stralingsbron en het punt waarvoor de dosis berekend wordt of is (het dosispunt) groter is dan 5 maal de grootste afmeting van het stralende oppervlak aan de kant van het dosispunt.**
 
 ### 3.2.2. Toestellen
+
+Door de aanwezigheid van afscherming of diafragma's rondom de stralingsbron(nen) is er in de praktijk geen sprake van een isotrope ruimteverdeling van de straling, dat wil zeggen er is sprake van een bundel. Indien de openingshoek van de bundel klein is, is er sprake van een evenwijdige bundel in het midden waarvan het dosistempo vrijwel constant blijft (afgezien van verzwakking door verstrooiing in lucht) en waarvoor de kwadratenwet niet kan worden toegepast. De voorwaarde luidt **[DOB02]**:
 
 **In het centrum van een stralingsbundel is de kwadratenwet alleen toepasbaar indien de bundel divergerend is, dat wil zeggen indien de ruimtehoek (openingshoek) waarbinnen de fotonen vrijkomen minstens 10° is.**
 
@@ -1619,21 +1573,21 @@ Bij gebruik van (röntgen)toestellen wordt een bundel van fotonen (primaire bund
 
 **In het centrum van een primaire stralingsbundel is de kwadratenwet alleen toepasbaar indien de bundel divergerend is, dat wil zeggen indien de ruimtehoek (openingshoek) waarbinnen de fotonen vrijkomen minstens 10° is.**
 
-Indien sprake is van een kleinere ruimtehoek, wordt verwezen naar Deel II, Nadere Analyse.
-
 ### 3.3. Externe blootstellingdosis
 
 ### 3.3.1. Algemeen
 
-Indien sprake is van kortere afstanden of van dosisbepaling in een andere richtingen dan **achter** het voorwerp, wordt verwezen naar Deel II, Nadere Analyse.
+**In een verstrooide stralingsbundel is de kwadratenwet alleen van toepassing indien de invallende bundel divergerend is en indien het dosistempo berekend wordt voor afstanden groter dan 1 meter achter het door de invallende bundel getroffen voorwerp.**
 
-In onderdeel 3.3.3 wordt H* (10) aan de terreingrens berekend, uitgaande van het omgevingsdosisequivalenttempo
+Indien sprake is van kortere afstanden of van dosisbepaling in een andere richtingen dan **achter** het voorwerp, wordt verwezen naar Deel II, Nadere Analyse.
 
 Voor de berekening van de effectieve dosis ten gevolge van externe straling Eext (de externe blootstellingdosis) wordt bij deze rekenregels in eerste benadering gebruik gemaakt van het omgevingsdosisequivalent H*(10) [μSv/h].
 
 Voor de berekening van de effectieve dosis ten gevolge van externe straling Eext (de externe blootstellingdosis) wordt bij deze rekenregels in eerste benadering gebruik gemaakt van het omgevingsdosisequivalent H*(10) [μSv/h].
 
 ### 3.3.2. Berekening omgevingsdosisequivalenttempo
+
+In onderdeel 3.3.3 wordt H* (10) aan de terreingrens berekend, uitgaande van het omgevingsdosisequivalenttempo
 
 op een punt (dosispunt) gelegen op r meter afstand van de bron. Hiervoor zijn vaak fabrieksgegevens of metingen beschikbaar. Indien deze niet voorhanden zijn, kan
 
@@ -1643,9 +1597,9 @@ Het omgevingsdosisequivalenttempo
 
 Het omgevingsdosisequivalenttempo
 
-in een punt (dosispunt) gelegen op afstand r [m] van een ingekapselde bron of een zekere hoeveelheid radioactieve stof kan worden berekend met onderstaande formule:
-
 ### 3.3.3. Berekening van het maximale omgevingsdosisequivalent aan de terreingrens (H*max)
+
+Het omgevingsdosisequivalenttempo
 
 rond toestellen wordt bepaald aan de hand van fabrieksgegevens, of aan de hand van metingen.
 
@@ -1661,15 +1615,15 @@ Indien de gemeten, berekende of door de fabriek opgegeven waarde van het omgevin
 
 en aan de terreingrens de kwadratenwet van toepassing is, dan kan H*max worden berekend volgens onderstaande formule:
 
-Indien verschillende waarden voor het omgevingsdosisequivalenttempo in verschillende richtingen zijn bepaald, moet de waarde van H*max berekend worden op basis van die richting die het hoogste omgevingsdosisequivalent aan de terreingrens geeft, **met inachtneming van het bij deze richting** behorend aantal gebruiksuren per stralingsbron in een jaar.
-
 ### 3.3.4. Afgeleid toetsingsniveau voor externe straling (H*SN)
+
+Indien de stralingsbron op verschillende plaatsen binnen de locatie wordt gebruikt, dan wordt de waarde van H*max berekend op basis van die plaatsen die, in vergelijking met de andere, het hoogste omgevingsdosisequivalenttempo aan de terreingrens geeft, uitgaande van het aantal gebruiksuren op die plaatsen.
 
 Indien meer dan één stralingsbron binnen een locatie aanwezig is, wordt voor het te beschouwen punt aan de terreingrens het omgevingsdosisequivalent voor iedere bron afzonderlijk berekend en vervolgens wordt de totale H*maxverkregen door de bijdragen te sommeren.
 
-De bronnen die ruw geschat minder dan 1 µSv in een jaar aan enig punt van de terreingrens veroorzaken, behoeven bij deze sommatie niet te worden meegenomen.
-
 ### 3.3.4. Afgeleid toetsingsniveau voor externe straling (H*SN)
+
+Voor externe straling wordt uitgegaan van een toetsingsniveau dat overeenkomt met een jaarlijkse omgevingsdosisequivalent **binnenshuis** gelijk aan het SN (10 µSv). Om rekening te houden met de afscherming bij verblijf binnenshuis, wordt bij directe straling vanuit een (punt)bron, een verzwakking van het omgevingsdosisequivalent **buitenshuis** met een factor 4 (zie onderdeel 6.5.2) aangenomen.
 
 Voor externe straling wordt uitgegaan van een toetsingsniveau dat overeenkomt met een jaarlijkse omgevingsdosisequivalent **binnenshuis** gelijk aan het SN (10 µSv). Om rekening te houden met de afscherming bij verblijf binnenshuis, wordt bij directe straling vanuit een (punt)bron, een verzwakking van het omgevingsdosisequivalent **buitenshuis** met een factor 4 (zie onderdeel 6.5.2) aangenomen.
 
@@ -1677,15 +1631,13 @@ Het toetsingsniveau voor externe straling buitenshuis is gelijk aan:
 
 De berekende waarde voor H*max dient te worden getoetst aan het afgeleide toetsingsniveau H*SN.
 
-De berekende waarde voor H*max dient te worden getoetst aan het afgeleide toetsingsniveau H*SN.
-
 ### 4. Stroomschema open bronnen
 
 ### 4.1. Algemeen
 
-Indien aan deze voorwaarde niet wordt voldaan, wordt verwezen naar Deel II, Nadere Analyse.
+wordt de externe straling uit de locatie geacht een externe blootstellingdosis kleiner dan het SN te veroorzaken.
 
-Voorbeeld van toepassingen van open bronnen is het gebruik van radioactief materiaal in radionuclidenlaboratoria, nucleaire geneeskunde en wetenschappelijk onderzoek.
+Indien aan deze voorwaarde niet wordt voldaan, wordt verwezen naar Deel II, Nadere Analyse.
 
 Elke radioactieve stof wordt beschouwd als **open bron**indien onder normale gebruiksomstandigheden het vrijkomen van radioactiviteit niet kan worden uitgesloten. Daarom moet hierbij rekening worden gehouden met de mogelijkheid van blootstelling van omwonenden als gevolg van in de lucht of in het water verspreide radionucliden. Daarnaast kan er sprake zijn van externe straling zoals het geval is bij toestellen en ingekapselde bronnen.
 
@@ -1693,9 +1645,9 @@ Elke radioactieve stof wordt beschouwd als **open bron**indien onder normale geb
 
 ### 4.2. Externe straling
 
-In figuur 4.1 is het stroomschema gegeven voor de berekening volgens de rekenregels van de dosis voor de drie soorten emissies te weten:
+Voorbeeld van toepassingen van open bronnen is het gebruik van radioactief materiaal in radionuclidenlaboratoria, nucleaire geneeskunde en wetenschappelijk onderzoek.
 
-De volgende delen van dit onderdeel vormen de toelichting bij elk van de stappen van het stroomschema.
+In figuur 4.1 is het stroomschema gegeven voor de berekening volgens de rekenregels van de dosis voor de drie soorten emissies te weten:
 
 ### 4.2. Externe straling
 
@@ -1703,10 +1655,12 @@ Bij de berekening volgens de rekenregels van het maximale (theoretisch mogelijke
 
 ### 4.3. Lozing in lucht
 
+De berekening geschiedt op analoge wijze als voor toestellen en ingekapselde bronnen. Voor de wijze waarop deze berekeningen worden uitgevoerd, wordt verwezen naar [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&z=2023-07-01&g=2023-07-01).
+
+### 4.3. Lozing in lucht
+
 Voor de bepaling en de beoordeling van lozingen in lucht worden de volgende stappen doorlopen:
 
-### 4.3.1. Berekening van het radiotoxiciteitsequivalent voor inhalatie (Reinh)
-
 Eén radiotoxiciteitsequivalent voor inhalatie (Reinh [Bq]) is de activiteit die bij inhalatie een effectieve volgdosis van 1 Sv tot gevolg heeft, als gedefinieerd in onderdeel E van [bijlage 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2). Voor ieder radionuclide i kan het Reinh,i worden berekend volgens:
 
 Eén radiotoxiciteitsequivalent voor inhalatie (Reinh [Bq]) is de activiteit die bij inhalatie een effectieve volgdosis van 1 Sv tot gevolg heeft, als gedefinieerd in onderdeel E van [bijlage 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2). Voor ieder radionuclide i kan het Reinh,i worden berekend volgens:
@@ -1714,22 +1668,22 @@ Eén radiotoxiciteitsequivalent voor inhalatie (Reinh [Bq]) is de activiteit die
 Op basis van de hoeveelheid radioactiviteit dat in één jaar wordt gebruikt, de soort handeling(en) en de mogelijkheid tot verspreiding, kan voor ieder radionuclide de maximaal theoretisch mogelijke hoeveelheid activiteit (AL,i [Bq]) worden berekend die in een jaar in de lucht kan worden geloosd. Bij de berekening van AL,i wordt gesommeerd over de verschillende handelingen met het betreffende radionuclide en wordt, door middel van de correctiefactor CRL,i, rekening gehouden met de mogelijke cumulatie in het milieu van langlevende radionucliden.
 
 Op basis van de hoeveelheid radioactiviteit dat in één jaar wordt gebruikt, de soort handeling(en) en de mogelijkheid tot verspreiding, kan voor ieder radionuclide de maximaal theoretisch mogelijke hoeveelheid activiteit (AL,i [Bq]) worden berekend die in een jaar in de lucht kan worden geloosd. Bij de berekening van AL,i wordt gesommeerd over de verschillende handelingen met het betreffende radionuclide en wordt, door middel van de correctiefactor CRL,i, rekening gehouden met de mogelijke cumulatie in het milieu van langlevende radionucliden.
-
-De volgende formule is van toepassing:
 
 ### 4.3.3. Berekening van de maximale jaarlijkse emissie vanuit een locatie (Lmax)
 
-De eventuele aanwezigheid van een filter in het lozingskanaal, kan grote invloed hebben op de geloosde hoeveelheid radioactiviteit. Afhankelijk van de effectiviteit van een dergelijk filter voor het beschouwde radionuclide, dienen in formule 4.2 de in tabel 4.2 vermelde waarden te worden gebruikt. Voor de bepaling van de effectiviteit van het filter kunnen hetzij fabrieksgegevens worden gebruikt, hetzij metingen worden uitgevoerd. Indien de effectiviteit van het filter niet bekend is, dient men uit te gaan van een ineffectief filter (s = 0).
+De kans dat en de mate waarin een radionuclide zich in lucht verspreidt, bijvoorbeeld in de zuurkast of laboratoriumruimte en vervolgens naar buiten komt, is afhankelijk van de eigenschappen van de stof of verbinding en van de handelingen die ermee worden verricht. De waarden voor de verspreidingsparameter p zijn afgeleid van deze verspreidingskans. In tabel 4.1 zijn de waarden gegeven die in formule 4.2 gebruikt dienen te worden voor een aantal vaak voorkomende handelingen. Indien de handelingen waarvoor vergunning wordt aangevraagd aanmerkelijk daarvan afwijken, dient een toepasselijke keuze te worden gemaakt uit de in tabel 4.1 vermelde waarden.
 
-Gezien de korte tijdsperiode tussen lozing en inhalatie, wordt bij lozingen in lucht voor het blootstellingspad inhalatie fysisch verval niet nadrukkelijk verdisconteerd. Om rekening te houden met de cumulatie in het milieu, wordt een correctiefactor (CRL) gebruikt afhankelijk van de fysische halveringstijd van het betrokken radionuclide. Hiermee wordt de lozing van langlevende nucliden zwaarder gerekend dan de lozing van kort levende. In tabel 4.3 worden de waarden van CRL gegeven die in formule 4.2 gebruikt dienen te worden.
+De eventuele aanwezigheid van een filter in het lozingskanaal, kan grote invloed hebben op de geloosde hoeveelheid radioactiviteit. Afhankelijk van de effectiviteit van een dergelijk filter voor het beschouwde radionuclide, dienen in formule 4.2 de in tabel 4.2 vermelde waarden te worden gebruikt. Voor de bepaling van de effectiviteit van het filter kunnen hetzij fabrieksgegevens worden gebruikt, hetzij metingen worden uitgevoerd. Indien de effectiviteit van het filter niet bekend is, dient men uit te gaan van een ineffectief filter (s = 0).
 
 ### 4.3.3. Berekening van de maximale jaarlijkse emissie vanuit een locatie (Lmax)
 
 De verhouding tussen AL,i en Reinh,i geeft, voor iedere radionuclide, het maximale (theoretisch mogelijke) aantal radiotoxiciteitsequivalenten van dat nuclide dat in een jaar in lucht wordt geloosd.
 
-De maximale (theoretisch mogelijke) emissie in lucht **vanuit een locatie**(Lmax), uitgedrukt in aantal radiotoxiciteitsequivalenten, wordt verkregen na sommatie over alle radionucliden volgens:
+De verhouding tussen AL,i en Reinh,i geeft, voor iedere radionuclide, het maximale (theoretisch mogelijke) aantal radiotoxiciteitsequivalenten van dat nuclide dat in een jaar in lucht wordt geloosd.
 
 ### 4.3.4. Afgeleid toetsingsniveau voor lozingen in lucht (LSN)
+
+De geloosde hoeveelheid radioactiviteit zal zich in de lucht verspreiden en dus in (sterk) verminderde concentratie de terreingrens bereiken. Op basis van een conservatieve benadering resulteert dit in een tenminste miljoenvoudige verdunning, afhankelijk van de afstand tussen lozingspunt en terreingrens.
 
 De geloosde hoeveelheid radioactiviteit zal zich in de lucht verspreiden en dus in (sterk) verminderde concentratie de terreingrens bereiken. Op basis van een conservatieve benadering resulteert dit in een tenminste miljoenvoudige verdunning, afhankelijk van de afstand tussen lozingspunt en terreingrens.
 
@@ -1737,17 +1691,17 @@ Het afgeleide **toetsingsniveau** (LSN) wordt gedefinieerd als de lozing, uitged
 
 De met behulp van formule 4.3 verkregen waarde voor Lmax dient te worden getoetst aan de afgeleide toetsingniveaus LSN.
 
-De met behulp van formule 4.3 verkregen waarde voor Lmax dient te worden getoetst aan de afgeleide toetsingniveaus LSN.
+### 4.4. Lozing in water
+
+Er zijn twee situaties mogelijk. De eerste is die waarbij er sprake is van één (effectief) lozingspunt. De tweede situatie is die waarbij er sprake is van een aantal lozingspunten die op verschillende afstanden van het te beschouwen punt van de terreingrens zijn gelegen.
 
 ### 4.4. Lozing in water
 
-In deze twee situaties dient als volgt te worden gehandeld:
+Alleen waarden van Lmax groter dan 0,1 (dwz een tiende van het kleinste toetsingsniveau), behoeven bij deze sommatie te worden betrokken. Indien wordt voldaan aan bovenstaande vergelijking wordt de totale lozing uit de locatie geacht een dosis kleiner dan of gelijk aan het SN te veroorzaken. Indien niet wordt voldaan aan bovenstaande vergelijking wordt voor de lozing in lucht verwezen naar Deel II, Nadere Analyse.
 
 ### 4.4. Lozing in water
 
 Voor de bepaling en de beoordeling van lozingen in water worden de volgende stappen doorlopen:
-
-### 4.4.1. Berekening van het radiotoxiciteitsequivalent voor ingestie (Reing)
 
 Eén radiotoxiciteitsequivalent voor ingestie (Reing [Bq]) is de hoeveelheid activiteit die bij ingestie een effectieve volgdosis van 1 Sv tot gevolg heeft, als gedefinieerd in onderdeel E van [bijlage 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2). Voor iedere radionuclide i kan Reing worden berekend volgens:
 
@@ -1767,15 +1721,15 @@ Bij het toedienen van radiopharmaca aan patiënten vervalt een (groot) deel van 
 
 In tabel 4.5 zijn de waarden gegeven die in formule 4.7 gebruikt dienen te worden voor de verschillende soorten van uitscheidingsgedrag van de radiopharmaca.
 
-Sommige radionucliden bevinden zich in een dusdanige vorm dat redelijkerwijs kan worden aangenomen dat deze niet via de waterafvoer in het riool zullen geraken (bijvoorbeeld vaste, niet oplosbare stoffen of gassen); andere stoffen zullen makkelijk(er) oplosbaar en dus wegspoelbaar zijn. Daarom is er ook een correctiefactor V (tabel 4.6) die in formule 4.7 gebruikt dient te worden en die de kans aangeeft op lozing van het beschouwde radionuclide op het riool.
-
 ### 4.4.3. Berekening van de maximale jaarlijkse emissie vanuit een locatie (Wmax)
+
+Bij het toedienen aan proefdieren worden de uitwerpselen deels opvangen (vast afval) en niet op het riool geloosd; deels zullen de uitwerpselen worden weggespoeld. Hiervoor geldt een correctiefactor W (tabel 4.7) die in formule 4.7 gebruikt dient te worden en die aangeeft welk deel van de toegediende activiteit op het riool van de locatie wordt geloosd.
 
 De eventuele aanwezigheid van een waterzuiveringsfilter in het lozingskanaal of van een (verval)tank waarin de geloosde radionucliden enige tijd verblijven alvorens zij op het riool geloosd worden, kan grote invloed hebben op de geloosde hoeveelheid radioactiviteit. Afhankelijk van de effectiviteit van een dergelijk filter- of tanksysteem voor het beschouwde radionuclide, dienen de in tabel 4.8 vermelde waarden in formule 4.7 te worden gebruikt. Voor de bepaling van de effectiviteit van de filter- of tanksysteem kunnen hetzij fabrieksgegevens worden gebruikt, hetzij metingen worden uitgevoerd. Indien de effectiviteit van het systeem niet bekend is, dient men uit te gaan van een ineffectief systeem (s=0).
 
-Om rekening te houden met het radioactief verval en de cumulatie in het milieu wordt een correctiefactor (CRW) gebruikt afhankelijk van de fysische halveringstijd van het betrokken radionuclide (zie tabel 4.9). Hiermee wordt de lozing van langlevende nucliden zwaarder gerekend dan de lozing van kort levende. In tabel 4.9 worden de waarden van CRWi gegeven die gebruik dienen te worden.
-
 ### 4.4.3. Berekening van de maximale jaarlijkse emissie vanuit een locatie (Wmax)
+
+De verhouding tussen AW, i en Reing, i geeft, voor ieder radionuclide, het maximale (theoretisch mogelijk) aantal radiotoxiciteitsequivalenten dat in een jaar in water wordt geloosd.
 
 De verhouding tussen AW, i en Reing, i geeft, voor ieder radionuclide, het maximale (theoretisch mogelijk) aantal radiotoxiciteitsequivalenten dat in een jaar in water wordt geloosd.
 
@@ -1783,9 +1737,9 @@ De maximale (theoretisch mogelijk) emissie in water vanuit een locatie (Wmax), u
 
 De op het riool geloosde radioactiviteit zal niet direct de bevolking bereiken, maar pas na (langdurig) verblijf en verspreiding in het milieu. Op basis van een conservatieve benadering resulteert dit in een verdunning met tenminste een factor 108.
 
-De op het riool geloosde radioactiviteit zal niet direct de bevolking bereiken, maar pas na (langdurig) verblijf en verspreiding in het milieu. Op basis van een conservatieve benadering resulteert dit in een verdunning met tenminste een factor 108.
-
 ### 4.4.5. Toetsing Wmax aan WSN
+
+Het afgeleide **toetsingsniveau** (WSN) wordt gedefinieerd als de lozing, uitgedrukt in Reing, die, volgens deze benadering, een ingestiedosis ter grootte van het SN (1 µSv) veroorzaakt.
 
 Aangezien de ingestiedosis die het gevolg is van een lozing in water homogeen verdeeld wordt verondersteld over een groot gebied, is WSN niet afhankelijk van de afstand tussen lozingspunt en terreingrens (dit in tegenstelling met hetgeen van toepassing is voor lozingen in lucht en LSN).
 
@@ -1795,15 +1749,13 @@ De met behulp van formule 4.8 verkregen waarde voor Wmax dient te worden getoets
 
 De met behulp van formule 4.8 verkregen waarde voor Wmax dient te worden getoetst aan het afgeleide toetsingsniveau WSN.
 
-Aangenomen wordt dat een locatie vanuit alle lozingspunten op hetzelfde riool loost, waardoor voor lozingen in water niet nodig is een deelberekening per lozingspunt uit te voeren (dit in tegenstelling met hetgeen van toepassing is voor lozingen in lucht).
-
 ### 4.5. Methode voor de bepaling van doses ten gevolge van handelingen met van nature voorkomend radioactief materiaal
+
+Indien:
 
 wordt de lozing geacht een dosis kleiner dan of gelijk aan het SN te veroorzaken.
 
 Indien dat niet het geval is, wordt verwezen naar Deel II, Nadere Analyse.
-
-Bij de bepaling van de dosis ten gevolge van ingestie, inhalatie of externe straling worden in principe alle aanwezige radionucliden (en hun dosiscoëfficiënten) meegenomen. Echter, deze bepaling kan ook met behulp van zogenoemde key- of triggerradionucliden uitgevoerd worden. Voor leden van de bevolking kunnen de doses in eerste instantie conservatief doch realistisch worden geschat.
 
 Bij de bepaling van de dosis ten gevolge van ingestie, inhalatie of externe straling worden in principe alle aanwezige radionucliden (en hun dosiscoëfficiënten) meegenomen. Echter, deze bepaling kan ook met behulp van zogenoemde key- of triggerradionucliden uitgevoerd worden. Voor leden van de bevolking kunnen de doses in eerste instantie conservatief doch realistisch worden geschat.
 
@@ -1813,7 +1765,7 @@ Bij de bepaling van de dosis ten gevolge van ingestie, inhalatie of externe stra
 
 ### Deel II. Nadere Analyse
 
-Zoals al in onderdeel 1.2 is aangegeven, dient in die gevallen waarin de rekenregels uit Deel I niet toereikend zijn, een ‘Nadere Analyse’ (volgens onderdelen 5 tot en met 7 van deze bijlage) te worden uitgevoerd. Dat is het geval indien:
+In de gevallen waarin de uitkomsten van de schattingen van de effectieve doses hoger zijn dan 1 μSv en 10 μSv in een kalenderjaar voor ingestie- of inhalatiedosis respectievelijk externe stralingsdosis, wordt verwezen naar Deel II, Nadere Analyse.
 
 De uitvoering van deze nadere analyse vindt plaats zoals weergegeven in het stroomschema in figuur 5.1.
 
@@ -1825,9 +1777,11 @@ Zoals al in onderdeel 1.2 is aangegeven, dient in die gevallen waarin de rekenre
 
 ### 5.2.1. Te beschouwen emissiesoorten en vaststelling emissieomvang
 
+In het algemeen zal bij de uitvoering meer ervaring en kennis van de achterliggende modellen nodig zijn dan bij de toepassing van de rekenregels uit Deel I. De rapporten ‘Dosisberekening voor de Omgeving bij Vergunningverlening Ioniserende Straling (DOVIS) deel A: Lozingen in lucht en water’ DOVIS-A **[DOA02]**en ‘Dosisberekening voor de Omgeving bij Vergunningverlening Ioniserende Straling (DOVIS) deel B: Externe straling’ DOVIS-B **[DOB02]**dienen te worden gehanteerd voor de uitvoering van een nadere analyse.
+
 De methodologie voor de nadere analyse gaat uit van een aantal aannames, bijvoorbeeld omtrent de deeltjesgrootte-verdeling van de geïnhaleerde radionucliden of de transferfactoren (zie daarvoor **[DOA02] en [DOB02]**). Indien in de beschouwde situatie afwijkende aannames worden gebruikt, dient dit bij de vergunningaanvraag gemotiveerd te worden.
 
-De **omvang** van iedere emissiesoort (dus de omvang van de lozing of de omgevingsdosisequivalent) waarvoor een nadere analyse wordt uitgevoerd, kan op twee manieren worden bepaald:
+Voor iedere emissiesoort waarvoor de rekenregels uit Deel I niet toepasbaar zijn, dient een ‘Nadere Analyse’ te worden uitgevoerd om de dosis in de omgeving te berekenen.
 
 Voor iedere emissiesoort waarvoor de rekenregels uit Deel I niet toepasbaar zijn, dient een ‘Nadere Analyse’ te worden uitgevoerd om de dosis in de omgeving te berekenen.
 
@@ -1841,43 +1795,43 @@ Indien het aantal radionucliden en hun eventuele dochters zeer groot is, kan de 
 
 Alle relevante stralingssoorten en energieën dienen in de nadere analyse te worden betrokken; in de praktijk zal voor milieuaspecten voornamelijk sprake zijn van gamma- en röntgenstraling.
 
-Bij de berekeningen worden zowel **reguliere emissies**als potentiële emissies meegenomen. Deze laatste zijn voorziene onbedoelde gebeurtenissen, welke voor aanvang van de handelingen zijn bepaald in het kader van de risico-inventarisatie en -evaluatie en waarmee bij de vergunningverlening dan ook rekening wordt gehouden.
-
 ### 5.2.2. Verspreiding en besmetting in het milieu
+
+Indien sprake is van een gepulste of anderszins niet-continue emissie (bijvoorbeeld lozingen in water na tijdelijke opslag in tanks ter controle van de geloosde activiteit) moet, indien **niet** aannemelijk kan worden gemaakt dat de gevolgen significant zullen afwijken van een continue emissie, van een continue emissie worden uitgegaan12Dit kan van belang zijn bijvoorbeeld voor lozingen in lucht die alleen onder bepaalde weersomstandigheden plaatsvinden, waarvoor de doorgaans gebruikte weerstatistieken (op jaarbasis) niet toepasbaar zijn in de verspreidingsberekening.. Als jaarlijkse emissie wordt de som genomen van alle pulslozingen in een jaar.
 
 Voor de bepaling van de lozingsomvang mag rekening worden gehouden met in gebruik zijnde installaties die gericht zijn op zuivering van emissies, bijvoorbeeld met filtersystemen in een riolering of schoorsteen of met vervaltanks.
 
 Indien een materiaal (bijvoorbeeld zuiveringslib of baggerspecie) ten gevolge van lozingen al dan niet onbedoeld een verhoogde radioactiviteit krijgt, worden de doses die daar het gevolg van zijn, toegerekend aan de lozende bron.
 
+### 5.2.2. Verspreiding en besmetting in het milieu
+
 Uitgaande van de hiervoor berekende emissies wordt de besmetting van alle relevante milieucompartimenten en van daarin voorkomende voedselproducten (vis, vee, landbouw) bepaald, alsmede de daardoor in het milieu veroorzaakte stralingsniveaus.
 
-### 5.2.3. Belastingpaden
-
 Voor de berekeningen ten behoeve van **luchtlozingen en waterlozingen** wordt verwezen naar DOVIS-A **[DOA02]**. Hierin wordt de berekening van verspreiding en depositie van radioactieve stoffen in het milieu besproken alsmede de berekening van de doses die het gevolg daarvan zijn.
-
-Voor de berekeningen ten behoeve van **externe straling** wordt verwezen naar DOVIS-B **[DOB02]**. Hierin wordt de berekening van de externe stralingsdosis besproken van een (afgeschermde) bron.
 
 ### 5.2.3. Belastingpaden
 
 Bij een ‘Nadere Analyse’ van een bepaalde emissiesoort dienen in principe alle mogelijke belastingpaden te worden beschouwd. Echter, afhankelijk van de omstandigheden, zullen sommige belastingpaden een belangrijkere rol spelen dan andere en zal het dus meestal mogelijk zijn een aantal belastingpaden te verwaarlozen.
 
-DOVIS-A geeft voor lucht- en waterlozingen aan welke paden wel en niet relevant zijn en welke modellen, parameters en parameterwaarden bij de nadere analyse gebruikt moeten worden. Vergelijkbare gegevens met betrekking tot externe straling zijn te vinden in DOVIS-B **[DOB02]**.
+Bij een ‘Nadere Analyse’ van een bepaalde emissiesoort dienen in principe alle mogelijke belastingpaden te worden beschouwd. Echter, afhankelijk van de omstandigheden, zullen sommige belastingpaden een belangrijkere rol spelen dan andere en zal het dus meestal mogelijk zijn een aantal belastingpaden te verwaarlozen.
 
 ### 5.2.4. Cumulatie in de tijd en te beschouwen tijdshorizon
 
-### 6.1. Algemeen
+### 5.2.4. Cumulatie in de tijd en te beschouwen tijdshorizon
+
+Bij jarenlang lozen zal de besmetting in het milieu, onder andere door verspreiding, afzetting, cumulatie, verval en ingroei van dochternucliden, veranderen in de tijd.
 
 De besmetting in het milieu dient steeds te worden berekend voor de situatie die na **25 jaar** continu lozen wordt bereikt, ook indien er dan nog geen evenwicht is bereikt. Indien van tevoren vaststaat dat een bron een **kortere tijd** aanwezig is, mag die kortere periode worden gehanteerd.
 
-In dit hoofdstuk wordt nader ingegaan op de berekeningswijze van deze dosis en op een aantal begrippen die daarbij een rol spelen. In onderdeel 6.2 wordt ingegaan op de vraag welke blootstellingswegen bij de berekening in beschouwing genomen dienen te worden; in onderdeel 6.3 wordt de aandachtsgroep gedefinieerd, d.w.z. het gedrag wordt gedefinieerd van de personen voor wie de dosis dient te worden berekend; in onderdeel 6.4 worden de dosismodellen besproken en tenslotte in onderdeel 6.5 wordt aangegeven hoe de multifunctionele individuele dosis (MID) en de actuele individuele dosis (AID) berekend moeten worden.
+Uitgaande van de berekende besmetting van milieu en voedselproducten, wordt de effectieve dosis berekend voor de personen uit een aandachtsgroep.
+
+### 6.1. Algemeen
 
 Uitgaande van de berekende besmetting van milieu en voedselproducten, wordt de effectieve dosis berekend voor de personen uit een aandachtsgroep.
 
-### 6.2. Blootstelling
-
 In dit hoofdstuk wordt nader ingegaan op de berekeningswijze van deze dosis en op een aantal begrippen die daarbij een rol spelen. In onderdeel 6.2 wordt ingegaan op de vraag welke blootstellingswegen bij de berekening in beschouwing genomen dienen te worden; in onderdeel 6.3 wordt de aandachtsgroep gedefinieerd, d.w.z. het gedrag wordt gedefinieerd van de personen voor wie de dosis dient te worden berekend; in onderdeel 6.4 worden de dosismodellen besproken en tenslotte in onderdeel 6.5 wordt aangegeven hoe de multifunctionele individuele dosis (MID) en de actuele individuele dosis (AID) berekend moeten worden.
 
-De te gebruiken parameterwaarden (zoals de dosiscoëfficiënten) worden gegeven in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-02-24&g=2023-02-24) van deze verordening.
+De te gebruiken parameterwaarden (zoals de dosiscoëfficiënten) worden gegeven in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-07-01&g=2023-07-01) van deze verordening.
 
 De belangrijkste manieren waarop blootstelling van de mens kan plaatsvinden zijn: via externe blootstelling, inhalatie, submersie en ingestie. Een verdere onderverdeling is mogelijk naar belastingpad zoals hieronder aangegeven.
 
@@ -1887,9 +1841,9 @@ Bij het berekenen van de externe blootstellingdosis dient, voor zover relevant, 
 
 Bij het berekenen van de inhalatiedosis die het gevolg is van het inademen van radioactieve stoffen in lucht, dient rekening te worden gehouden met:
 
-én, voor zover een relevante dosisbijdrage verwacht mag worden, met:
-
 ### 6.3. Aandachtsgroep, selectiegroep en representatief persoon
+
+Bij verblijf in besmette lucht dient, voor zover relevant, ook rekening te worden gehouden met de mogelijkheid van opname van radioactieve stoffen via de huid en door submersie. Submersie is in het bijzonder relevant indien de in lucht aanwezige radionucliden edelgassen zijn.
 
 Bij het berekenen van de ingestiedosis die het gevolg is van de opname in het lichaam van radionucliden via drank en voedsel, dient rekening te worden gehouden met de besmetting van:
 
@@ -1923,15 +1877,15 @@ Voor de berekening van de submersiedosis op een bepaalde locatie, wordt, net als
 
 **Indien een emissie alleen submersie als relevante blootstelling heeft, is deze groep tevens de selectiegroep behorende bij deze emissie. Bovendien, als deze emissie de enige emissie is die een relevante dosisbijdrage heeft, kan het gemiddelde lid van deze groep gedefinieerd worden als representatief persoon.**
 
-Voor de berekening van de ingestiedosis op een bepaalde locatie, wordt uitgegaan van personen in een aandachtsgroep die een deel van hun voedsel uit eigen volks- of moestuin eten, welke gelegen is op de betreffende locatie, en de rest van hun voedsel elders inkopen.
-
 ### 6.4. Individuele effectieve dosis (ID)
 
 ### 6.4.1. Algemeen
 
-**Omdat de ingestiedosis slechts ten dele plaatsgebonden is, kan in het algemeen niet met zekerheid gezegd worden welke aandachtsgroep de hoogste blootstelling met betrekking tot ingestie heeft. Veelal zal deze echter bestaan uit die personen die een moestuin hebben dáár, waar de depositie radioactieve stoffen op planten (interceptie) het hoogste is, of waar de concentratie radioactieve stoffen in de bodem het hoogste is. Met betrekking tot ingestie van vis zal echter de gemiddelde Nederlandse bevolking zijn.**
+Voorts wordt uitgegaan van de gemiddelde jaarlijkse consumptie van voedingsmiddelen van een volwassen man (zie tabel 6.1).
 
 ### 6.4. Individuele effectieve dosis (ID)
+
+Voor iedere blootstellingsweg wordt, uitgaande van de radioactiviteit en/of de straling aanwezig in het milieu, de bijdrage berekend aan de jaarlijkse individuele effectieve dosis (ID). Deze is de dosis die een individu kan ontvangen door onbeschermd 24 uur per dag aan de bron te worden blootgesteld. In de volgende onderdelen (6.4.2. t/m 6.4.5) wordt kort aangegeven hoe de externe blootstellingdosis IDext, de inhalatiedosis IDinh, de submersiedosis IDsub en de ingestiedosis IDing dienen te worden berekend. Deze dienen vervolgens als basis voor de berekening van MID en AID (zie onderdelen 6.5.2 en 6.5.3.).
 
 Voor iedere blootstellingsweg wordt, uitgaande van de radioactiviteit en/of de straling aanwezig in het milieu, de bijdrage berekend aan de jaarlijkse individuele effectieve dosis (ID). Deze is de dosis die een individu kan ontvangen door onbeschermd 24 uur per dag aan de bron te worden blootgesteld. In de volgende onderdelen (6.4.2. t/m 6.4.5) wordt kort aangegeven hoe de externe blootstellingdosis IDext, de inhalatiedosis IDinh, de submersiedosis IDsub en de ingestiedosis IDing dienen te worden berekend. Deze dienen vervolgens als basis voor de berekening van MID en AID (zie onderdelen 6.5.2 en 6.5.3.).
 
@@ -1943,9 +1897,9 @@ Voor een uitgebreide beschrijving van de berekeningsmethodiek voor de externe bl
 
 De externe blootstellingdosis IDext wordt berekend uitgaande van het dosistempo
 
-. In het algemeen geldt:
-
 ### 6.4.3. Inhalatie
+
+Voor de berekening van IDext wordt uitgegaan van onafgebroken verblijf ter plaatse en geen bescherming door kleren, woning etc. (zie hiervoor de berekening van de MIDext, onderdeel 6.5.2). De duur van de blootstelling text is gelijk aan het aantal uren per jaar dat de bron aanwezig is en het effectieve dosistempo
 
 veroorzaakt.
 
@@ -1953,35 +1907,35 @@ Het effectieve dosistempo is afhankelijk van de uitgezonden energie en, o.a., va
 
 Voor een uitgebreide beschrijving van de berekeningsmethodiek voor de inhalatiedosis wordt verwezen naar DOVIS-A **[DOA02]**.
 
-Voor een uitgebreide beschrijving van de berekeningsmethodiek voor de inhalatiedosis wordt verwezen naar DOVIS-A **[DOA02]**.
-
 ### 6.4.4. Submersie
 
-In het geval dat de getabelleerde einh niet toegepast kunnen worden, dient de dosisberekening te worden uitgevoerd overeenkomstig de aanbevelingen zoals aangegeven in Aanhangsel A.
+Uitgaande van de berekende concentratie van radionucliden in de lucht (volgens DOVIS-A) kan de jaarlijkse effectieve inhalatiedosis IDnh ten gevolge van een continue lozing worden berekend volgens onderstaande formule:
 
-Voor de blootstelling ten gevolge van resuspensie en coastal spraying, voor zover relevant, wordt verwezen naar DOVIS-A.
+In het geval dat de getabelleerde einh niet toegepast kunnen worden, dient de dosisberekening te worden uitgevoerd overeenkomstig de aanbevelingen zoals aangegeven in Aanhangsel A.
 
 ### 6.4.4. Submersie
 
 De aanwezigheid van radionucliden in de lucht kan ook een submersiedosis tot gevolg hebben, in het bijzonder in het geval dat er sprake is van edelgassen. Uitgaande van de berekende concentratie van radionucliden in de lucht (volgens DOVIS-A) kan de jaarlijkse effectieve submersiedosis IDsub ten gevolge van een continue lozing worden berekend volgens onderstaande formule:
 
+De aanwezigheid van radionucliden in de lucht kan ook een submersiedosis tot gevolg hebben, in het bijzonder in het geval dat er sprake is van edelgassen. Uitgaande van de berekende concentratie van radionucliden in de lucht (volgens DOVIS-A) kan de jaarlijkse effectieve submersiedosis IDsub ten gevolge van een continue lozing worden berekend volgens onderstaande formule:
+
 Voor de berekening van Esub wordt uitgegaan van onafgebroken verblijf ter plaatse (tsub= 8.760 uren in een jaar).
 
-Voor een uitgebreide beschrijving van de berekeningsmethodiek voor de ingestiedosis wordt verwezen naar DOVIS-A **[DOA02]**.
-
-### 6.5. Berekening van MID (multifunctionele individuele dosis) en AID (actuele individuele dosis)
+### 6.4.5. Ingestie
 
 ### 6.5.1. Algemeen
 
-In het geval dat de getabelleerde eing niet toegepast kunnen worden, dient de dosisberekening te worden uitgevoerd overeenkomstig de aanbevelingen zoals aangegeven in Aanhangsel A.
+Uitgaande van de berekende concentratie van radionucliden in de verschillende voedselproducten (volgens DOVIS-A) kan de jaarlijkse effectieve ingestiedosis IDing ten gevolge van consumptie van voedsel worden berekend aan de hand van de volgende formule:
 
-Voor de berekening van de **actuele individuele dosis** (AID) wordt voor sommige dosisbijdragen het huidige feitelijk gebruik van het gebied wel beschouwd (zie onderdeel 6.5.3). Uitgangspunt daarbij blijft dat alle functies van het milieu voor de toekomst mogelijk dienen te blijven en dus dat er geen te hoge (langdurige) besmetting in het milieu plaatsvindt. Met andere woorden, het feitelijke gebruik van de omgeving (het feitelijk bestaan van de selectiegroep of de representatieve persoon) speelt alleen voor díe belastingpaden een rol, die geen blootstelling meer geven zodra de bron geen emissies meer veroorzaakt.
+In het geval dat de getabelleerde eing niet toegepast kunnen worden, dient de dosisberekening te worden uitgevoerd overeenkomstig de aanbevelingen zoals aangegeven in Aanhangsel A.
 
 Onder **multifunctionele individuele dosis** (MID) wordt de dosis verstaan die het gevolg is van het gebruik van een gebied buiten de locatie op zodanige wijze dat dit tot de hoogst mogelijke dosis aanleiding geeft. De MID staat los van het feitelijk gebruik van dat gebied op enig moment en houdt rekening met het mogelijke (toekomstige) gebruik. Het gaat dus om de dosis voor een selectiegroep of de representatieve persoon die weliswaar momenteel mogelijk zelfs niet bestaat, maar waarvan het bestaan in de toekomst niet uitgesloten geacht kan worden. In het algemeen leidt het gebruik van een gebied voor normale bewoning tot die hoogst mogelijke dosis. MID wordt dan ook op basis daarvan berekend (zie onderdeel 6.5.2).
 
 Onder **multifunctionele individuele dosis** (MID) wordt de dosis verstaan die het gevolg is van het gebruik van een gebied buiten de locatie op zodanige wijze dat dit tot de hoogst mogelijke dosis aanleiding geeft. De MID staat los van het feitelijk gebruik van dat gebied op enig moment en houdt rekening met het mogelijke (toekomstige) gebruik. Het gaat dus om de dosis voor een selectiegroep of de representatieve persoon die weliswaar momenteel mogelijk zelfs niet bestaat, maar waarvan het bestaan in de toekomst niet uitgesloten geacht kan worden. In het algemeen leidt het gebruik van een gebied voor normale bewoning tot die hoogst mogelijke dosis. MID wordt dan ook op basis daarvan berekend (zie onderdeel 6.5.2).
 
 ### 6.5.2. Berekening van de multifunctionele dosis MID
+
+Voor de berekening van de **actuele individuele dosis** (AID) wordt voor sommige dosisbijdragen het huidige feitelijk gebruik van het gebied wel beschouwd (zie onderdeel 6.5.3). Uitgangspunt daarbij blijft dat alle functies van het milieu voor de toekomst mogelijk dienen te blijven en dus dat er geen te hoge (langdurige) besmetting in het milieu plaatsvindt. Met andere woorden, het feitelijke gebruik van de omgeving (het feitelijk bestaan van de selectiegroep of de representatieve persoon) speelt alleen voor díe belastingpaden een rol, die geen blootstelling meer geven zodra de bron geen emissies meer veroorzaakt.
 
 Voor de berekening van MID en AID wordt uitgegaan van de berekende individuele dosisbijdragen (ID) voor de verschillende blootstellingwegen en belastingpaden (zie onderdeel 6.4). Voor zowel MID als AID bestaat de berekening uit een som van (gecorrigeerde) individuele dosisbijdragen. Voor AID worden echter andere of additionele correctiefactoren toegepast dan voor MID.
 
@@ -2013,9 +1967,9 @@ De groep die de hoogste MIDing zal hebben, is de groep die een moestuin heeft op
 
 Voor de berekening van de MID voor de representatieve persoon behorende bij de beschouwde bron of locatie moeten de individuele dosisbijdragen verbonden aan de verschillende emissiesoorten, de verschillende belastingpaden en verschillende blootstellingwegen worden opgeteld indien zij dezelfde personen (kunnen) treffen. Het gemiddelde lid van de groep waarvoor de aldus berekende totale dosis het hoogste is, is de representatieve persoon. Bij de optelling mogen de bijdragen die ruw geschat minder dan 0,1 µSv in een jaar bedragen, worden weggelaten.
 
-De selectiegroep voor de berekening van MID voor één emissiesoort (de groep waarvoor de berekende MID het hoogste is) kan niet bij voorbaat gedefinieerd worden. Voor lozingen in lucht, zal de selectiegroep veelal bestaan uit personen die wonen op de locatie waar de luchtconcentratie het hoogst is en die tevens gebruik maken van een moestuin vlakbij de woning. Dit gebruik dient te allen tijde mogelijk te zijn.
-
 ### 6.5.3. Berekening van de actuele dosis AID
+
+**Samenvattend:**
 
 Voor iedere emissiesoort waarvoor een ‘Nadere Analyse’ wordt uitgevoerd, vindt de berekening van de **multifunctionele individuele dosis (MID)** plaats via de volgende stappen:
 
@@ -2075,15 +2029,15 @@ Opgemerkt wordt dat bij optelling van gecorrigeerde en ongecorrigeerde dosisbijd
 
 11) Indien het werk doorgaans binnen plaatsvindt, moeten in dit geval zowel de ABC-factor als de afschermingfactor (zie onderdeel 6.5.2) gehanteerd worden.
 
-a) zie tab 6.2.
-
 ### 7. Toetsing van de uitkomsten aan de dosisniveaus
 
 ### 7.1. Toetsing aan het Secundair Niveau
 
+c) voor deze paden is de bijdrage aan AID gelijk aan de individuele dosisbijdrage (zie onderdeel 6.4).
+
 d) bij werk binnenshuis wordt zowel de ABC factor als de afschermingfactor door het gebouw toegepast.
 
-Als voor een emissiesoort de volgens Deel II berekende **MID lager ligt dan SN**, dus als:
+De toetsing aan het Secundair Niveau wordt gedaan per **iedere emissiesoort afzonderlijk**. Hiervoor wordt de berekende multifunctionele individuele dosis (MID) vergeleken met de bij de betreffende emissiesoort horende SN.
 
 De toetsing aan het Secundair Niveau wordt gedaan per **iedere emissiesoort afzonderlijk**. Hiervoor wordt de berekende multifunctionele individuele dosis (MID) vergeleken met de bij de betreffende emissiesoort horende SN.
 
@@ -2093,21 +2047,21 @@ Als voor een emissiesoort de volgens Deel II berekende **MID lager ligt dan SN**
 
 dan is er sprake van een emissiesoort die geringe risico's voor de omgeving met zich meebrengt.
 
-Voor de betreffende emissiesoort zal in de vergunningaanvraag de berekende waarde van MID worden opgenomen.
-
 ### 7.2. Toetsing aan de locatielimiet
+
+Als voor een emissiesoort de volgens Deel II berekende **MID hoger ligt dan SN**, dus als:
 
 dan is er sprake van een emissiesoort die zodanige gevolgen voor de omgeving met zich meebrengt dat van de zijde van de overheid nadere gegevens worden gevraagd. Naast MID dient voor de betreffende emissiesoort ook AID te worden berekend.
 
-Voor de betreffende emissiesoort zullen in de vergunningaanvraag zowel de berekende MID als de berekende AID worden opgenomen.
+### 7.2. Toetsing aan de locatielimiet
 
 ### 7.2. Toetsing aan de locatielimiet
 
-### A.1. Dosiscoëfficiënten, bronconstanten en radiotoxiciteitsequivalenten
+De toetsing aan de locatielimiet wordt gedaan voor alle emissiesoorten tezamen. Hiervoor wordt de **totale AID** berekend, dat wil zeggen de actuele dosis van **alle relevante emissiesoorten samen**. Voor de berekening van de totale AID worden de verschillende dosisbijdragen opgeteld die dezelfde groep mensen (kunnen) treffen.
 
 De berekende waarde van de totale AID wordt vergeleken met de locatielimiet van 100 μSv.
 
-voor de **externe blootstellingdosis** t.g.v. **puntbron**:
+Voor de berekening van de radiotoxiciteitsequivalenten (zie onderdelen 4.3.1 en 4.4.1) en van de effectieve dosis (zie onderdeel 6.4) worden de radionuclidespecifieke dosiscoëfficiënten c.q. bronconstanten gebruikt uit de volgende referenties:
 
 Voor de berekening van de radiotoxiciteitsequivalenten (zie onderdelen 4.3.1 en 4.4.1) en van de effectieve dosis (zie onderdeel 6.4) worden de radionuclidespecifieke dosiscoëfficiënten c.q. bronconstanten gebruikt uit de volgende referenties:
 
@@ -2119,67 +2073,67 @@ bronconstante h uit **[Kev96]**
 
 voor de **inhalatiedosis**:
 
-dosiscoëfficiënten einh uit annex G en H, bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-02-24&g=2023-02-24) bij deze verordening, onderdeel B
-
-voor de **submersiedosis**:
+dosiscoëfficiënten einh uit annex G en H, bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-07-01&g=2023-07-01) bij deze verordening, onderdeel B
 
 ### A.2. Afwijkende en nieuwe parameterwaarden
 
-voor de **ingestiedosis**:
+dosiscoëfficiënten esub uit annex C, bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-07-01&g=2023-07-01) bij deze verordening, onderdeel B
 
 ### A.2. Afwijkende en nieuwe parameterwaarden
 
-Indien om een of andere, te onderbouwen, reden de waarden waarnaar in onderdeel A.1 wordt verwezen niet gebruikt kunnen worden of niet beschikbaar zijn, dient men een berekening uit te voeren uitgaande van de in genoemde referenties aangegeven methodiek. Dit kan bijvoorbeeld het geval zijn in situaties waarin de modelaannames waaronder de dosiscoëfficiënten zijn afgeleid niet representatief zijn. Daarbij dient in het bijzonder rekening te worden gehouden met het volgende:
+dosiscoëfficiënten eing uit annex F, bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-07-01&g=2023-07-01) bij deze verordening, onderdeel B
 
-### I. Fysiologische gegevens
+### A.2. Afwijkende en nieuwe parameterwaarden
 
 ### I. Fysiologische gegevens
 
 ## Bijlage 11. behorend bij [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2018-02-06&g=2018-02-06) Bouwmaterialen
 
-**Rekenmethodes voor toetsing van de door bouwmaterialen uitgezonden gammastraling aan het gestelde referentieniveau.**
+Voor fysiologische gegevens dienen ICRP-23 **[IC75]** en ICRP-89 **[IC102]** te worden gebruikt, behalve voor het long- en botmodel, waarvoor ICRP-66 **[IC93]** en ICRP-70 **[IC95]**moeten worden gebruikt.
 
-### Referenties
-
-**Rekenmethodes voor toetsing van de door bouwmaterialen uitgezonden gammastraling aan het gestelde referentieniveau.**
+### II. Metabole modellen
 
 **Rekenmethodes voor toetsing van de door bouwmaterialen uitgezonden gammastraling aan het gestelde referentieniveau.**
 
-De richtlijn geeft in annex VIII de volgende bepaling van de index I voor activiteitsconcentratie voor door bouwmaterialen uitgezonden gammastraling:
+**Rekenmethodes voor toetsing van de door bouwmaterialen uitgezonden gammastraling aan het gestelde referentieniveau.**
+
+**Rekenmethodes voor toetsing van de door bouwmaterialen uitgezonden gammastraling aan het gestelde referentieniveau.**
 
 De richtlijn geeft in annex VIII de volgende bepaling van de index I voor activiteitsconcentratie voor door bouwmaterialen uitgezonden gammastraling:
 
 ### b. CEN methode
 
+**I = a** 1/300 Bq/kg + **a**2/200 Bq/kg + **a**3/3000 Bq/kg
+
 Met a1, a2, a3 als activiteitsconcentraties van de respectievelijke primordiale radionucliden 226Ra, 232Th en 40K uitgedrukt in becquerel per kilogram.
 
 De index voor de activiteitsconcentratie met een waarde van 1 kan gebruikt worden als een conservatieve benadering om aan te tonen dat het referentieniveau als bedoeld in [artikel 9.10, achtste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=9.10) ten gevolge van de door bouwmaterialen uitgezonden gammastraling niet wordt overschreden.
 
-Het technical body CEN/TC-351 van het Comité Européen de Normalisation (CEN) heeft een methode uitgewerkt voor de berekening van de toename van de effectieve dosis ten gevolge van de blootstelling aan de door bouwmaterialen uitgezonden gammastraling13https://www.nen.nl/Normontwikkeling/Doe-mee/Normcommissies-en-nieuwe-trajecten/Normcommissies-Bouw/CENTC-351.htm. Met deze methode wordt de toename van de effectieve dosis geschat door enerzijds rekening te houden met de activiteitsconcentraties van de aanwezige primordiale radionucliden en anderzijds rekening te houden met de dichtheid en dikte van de bouwmaterialen in hun beoogd gebruik.
+### b. CEN methode
 
-### c. De gewogen som van de activiteitsconcentraties
+Het technical body CEN/TC-351 van het Comité Européen de Normalisation (CEN) heeft een methode uitgewerkt voor de berekening van de toename van de effectieve dosis ten gevolge van de blootstelling aan de door bouwmaterialen uitgezonden gammastraling13https://www.nen.nl/Normontwikkeling/Doe-mee/Normcommissies-en-nieuwe-trajecten/Normcommissies-Bouw/CENTC-351.htm. Met deze methode wordt de toename van de effectieve dosis geschat door enerzijds rekening te houden met de activiteitsconcentraties van de aanwezige primordiale radionucliden en anderzijds rekening te houden met de dichtheid en dikte van de bouwmaterialen in hun beoogd gebruik.
 
 De effectieve dosis D, uitgedrukt in millisievert per kalenderjaar, wordt als volgt geschat:
 
 Met ρ = dichtheid [kg/m3] van de bouwmaterialen in hun beoogd gebruik en met a1, a2, a3 als activiteitsconcentratie van de respectievelijke primordiale radionucliden 226Ra, 232Th en 40K uitgedrukt in Bq/kg. De dikte d [m] heeft een vaste waarde van 0,2 m (20 cm). Met deze conservatieve benadering wordt rekening gehouden met meerdere lagen bouwmaterialen, waaruit doorgaans een wand van een ruimte is opgebouwd. De minimumwaarde voor de dichtheid ρ die in de formule mag worden ingevoerd, bedraagt 300 kg/m3. De correctiefactor (- 0,29 millisievert/jaar) dient om te corrigeren voor de door de bouwmaterialen geboden afscherming tegen terrestrische en kosmische straling.
 
-De gewogen som van de activiteitsconcentraties van de aanwezige primordiale radionucliden 226Ra, 232Th en 40K, bedoeld in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2021-10-01&g=2021-10-01), van de Verordening, wordt berekend volgens de onderstaande formule.
+### c. De gewogen som van de activiteitsconcentraties
 
-### d. Bepaling van het percentage grondstoffen dat de ondernemer ten hoogste aan bouwmaterialen mag toevoegen bij een gewogen som van 1, zoals bepaald onder c.
-
-Σ = a1/1.000 Bq/kg + a2/1.000 Bq/kg + a3/10.000 Bq/kg
+De gewogen som van de activiteitsconcentraties van de aanwezige primordiale radionucliden 226Ra, 232Th en 40K, bedoeld in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2023-07-01&g=2023-07-01), van de Verordening, wordt berekend volgens de onderstaande formule.
 
 ## Bijlage 12. behorend bij [artikel 6.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.2&z=2018-02-06&g=2018-02-06)
 
 ### d. Bepaling van het percentage grondstoffen dat de ondernemer ten hoogste aan bouwmaterialen mag toevoegen bij een gewogen som van 1, zoals bepaald onder c.
 
-### 1. Vereisten voor de bemonsteringsgegevens
+### d. Bepaling van het percentage grondstoffen dat de ondernemer ten hoogste aan bouwmaterialen mag toevoegen bij een gewogen som van 1, zoals bepaald onder c.
 
 ### Lijst van de minimumvereisten per gegevensrecord
 
 Naam laboratorium
 
 Nuclidecategorie
+
+Naam laboratorium
 
 Naam laboratorium
 
@@ -2201,8 +2155,6 @@ Soort waarde
 
 Referentiedatum(1) (datum waarvoor de activiteitswaarde wordt opgegeven)
 
-Debiet(1) (in geval van rivierwater)
-
 ## Bijlage 13. behorend bij [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.3&z=2018-02-06&g=2018-02-06)
 
 ### Gestandaardiseerde informatie over de lozing van radioactieve stoffen in de lucht en het water door kerncentrales en opwerkingsfabrieken in normaal bedrijf
@@ -2221,23 +2173,31 @@ Debiet(1) (in geval van rivierwater)
 
 ### A.2. Vloeibare lozingen
 
-(3) Voor gasgekoelde reactoren.
+(2) Kan normaliter worden verkregen door de meting van bètastraling na het verval van kortlevende isotopen.
 
-(4) Totaal-alfa moet uitsluitend worden gerapporteerd wanneer geen nuclidespecifieke informatie over alfastralers beschikbaar is.
+(3) Voor gasgekoelde reactoren.
 
 ### A.2. Vloeibare lozingen
 
-### B.1. Lozingen in de lucht
+### A.2. Vloeibare lozingen
 
 ### B. Opwerkingsfabrieken
 
-**(1) Zelfs wanneer bij de opwerkingsactiviteiten geen S-35 ontstaat, wordt het opgenomen in de lijst, zie vorige voetnoot.**
+(2) Voor gasgekoelde reactoren.
 
 **(2) De hoeveelheden geloosd uraan mogen in kg worden vermeld.**
 
 ## Bijlage 14. behorend bij [artikel 6.3, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.3&z=2018-02-06&g=2018-02-06)
 
-### Samenvattende tabellen voor de rapportering van radionucliden die worden geloosd door kerncentrales en opwerkingsfabrieken in normaal bedrijf
+### B.2. Vloeibare lozingen14De vloeibare effluenten van opwerkingsfabrieken worden normaliter behandeld samen met de vloeistoffen van andere faciliteiten op dezelfde locatie.
+
+### A.1
+
+**(2) De hoeveelheden geloosd uraan mogen in kg worden vermeld.**
+
+(2) Voor gasgekoelde reactoren.
+
+(1) In het bijzonder als de geloosde hoeveelheid radionucliden geraamd zijn op basis van een berekening, of wanneer in de sommatie substitutiewaarden zijn gebruikt voor beneden de beslissingsdrempel gelegen meetwaarden, of voor informatie inzake de over de chemische/fysische vorm van de lozingen van H-3, C-14 en jodium, of voor informatie over de tijdbasis en de bemonsteringsmethode.
 
 ### A.1
 
@@ -2245,27 +2205,19 @@ Debiet(1) (in geval van rivierwater)
 
 (2) Voor gasgekoelde reactoren.
 
-(1) In het bijzonder als de geloosde hoeveelheid radionucliden geraamd zijn op basis van een berekening, of wanneer in de sommatie substitutiewaarden zijn gebruikt voor beneden de beslissingsdrempel gelegen meetwaarden, of voor informatie inzake de over de chemische/fysische vorm van de lozingen van H-3, C-14 en jodium, of voor informatie over de tijdbasis en de bemonsteringsmethode.
+(3) Totaal-alfa moet uitsluitend worden gerapporteerd wanneer geen nuclidespecifieke informatie over alfastralers beschikbaar is.
 
 ### A.2
 
-(2) Voor gasgekoelde reactoren.
+(1) In het bijzonder als de geloosde hoeveelheid radionucliden geraamd zijn op basis van een berekening, of wanneer in de sommatie substitutiewaarden zijn gebruikt voor beneden de beslissingsdrempel gelegen meetwaarden, of voor informatie inzake de over de chemische/fysische vorm van de lozingen van H-3, C-14 en jodium, of voor informatie over de tijdbasis en de bemonsteringsmethode.
+
+### B.1
 
 (3) Totaal-alfa moet uitsluitend worden gerapporteerd wanneer geen nuclidespecifieke informatie over alfastralers beschikbaar is.
 
 (1) In het bijzonder als de geloosde hoeveelheid radionucliden geraamd zijn op basis van een berekening, of wanneer in de sommatie substitutiewaarden zijn gebruikt voor beneden de beslissingsdrempel gelegen meetwaarden, of voor informatie inzake de over de chemische/fysische vorm van de lozingen van H-3, C-14 en jodium, of voor informatie over de tijdbasis en de bemonsteringsmethode.
 
-### B.1
-
-(2) Voor gasgekoelde reactoren.
-
-### B.1
-
 (1) In het bijzonder als de geloosde hoeveelheid radionucliden geraamd zijn op basis van een berekening, of wanneer in de sommatie substitutiewaarden zijn gebruikt voor beneden de beslissingsdrempel gelegen meetwaarden, of voor informatie inzake de over de chemische/fysische vorm van de lozingen van H-3, C-14 en jodium, of voor informatie over de tijdbasis en de bemonsteringsmethode.
-
-(1) In het bijzonder als de geloosde hoeveelheid radionucliden geraamd zijn op basis van een berekening, of wanneer in de sommatie substitutiewaarden zijn gebruikt voor beneden de beslissingsdrempel gelegen meetwaarden, of voor informatie inzake de over de chemische/fysische vorm van de lozingen van H-3, C-14 en jodium, of voor informatie over de tijdbasis en de bemonsteringsmethode.
-
-(1) De vloeibare effluenten van opwerkingsfabrieken worden normaliter behandeld samen met de vloeistoffen van andere faciliteiten op dezelfde locatie.
 
 Deze verordening zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -2336,15 +2288,15 @@ cconcentratie is de correctiefactor die **kan** worden toegepast als de activite
 
 #### § 4.3.1. Bergplaats
 
-#### § 4.3.2. Ingekapselde bronnen
+#### § 4.3.1. Bergplaats
 
 #### § 4.3.3. Hoogactieve bronnen
 
-#### § 4.3.4. Beveiliging
+#### § 4.3.3. Hoogactieve bronnen
 
 #### § 4.3.5. Besmettingscontrole
 
-#### § 4.3.6. Handelingen met van nature voorkomend radioactief materiaal
+#### § 4.3.5. Besmettingscontrole
 
 #### § 4.3.7. Consumentenartikelen
 
@@ -2366,7 +2318,57 @@ cconcentratie is de correctiefactor die **kan** worden toegepast als de activite
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage 5. behorend bij de [artikelen 4.25 tot en met 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.1&artikel=4.25&z=2023-02-24&g=2023-02-24), typen goedgekeurde ionisatierookmelders
+## Bijlage 4. behorend bij [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.6&artikel=3.18&z=2023-07-01&g=2023-07-01), specifieke vrijgavewaarden
+
+**Tabel 1. Van nature voorkomende radionucliden, behorend bij artikel 3.18, eerste lid**
+
+| Van nature voorkomende radionucliden | Specifieke vrijgavewaarden voor van nature voorkomende radionucliden in natte sludges uit de olie- en gasindustrie en de geothermie (kBq kg-1) |
+| --- | --- |
+| K-40 | 100 |
+| Pb-210+ | 100 |
+| Po-210 | 100 |
+| Ra-226+ | 5 |
+| Ra-228+ | 10 |
+| Th-228+ | 5 |
+| Th-232sec of natuurlijke radionucliden uit de vervalreeks Th-232 | 5 |
+| U-235sec of natuurlijke radionucliden uit de vervalreeks U-235* | 10 |
+| U-238sec of natuurlijke radionucliden uit de vervalreeks U-238 | 5 |
+
+*: waarden voor deze nucliden maken deel uit van de U-235 reeks en worden slechts ter informatie gegeven: ze zullen niet beperkend zijn gezien de vaste verhouding tussen U-238 en U-235
+
+**Tabel 1a. De moedernucliden die in tabel 1 zijn aangegeven met ‘+’ of ‘sec’ zijn in seculair evenwicht met dochternucliden en betreffen:**
+
+| Moedernuclide | Moedernuclide in seculair evenwicht met dochternucliden |
+| --- | --- |
+| Pb-210+ | Pb-210, Bi-210 |
+| Ra-226+ | Ra-226, Rn-222, Po-218, Pb-214, Bi-214, Po-214 |
+| Ra-228+ | Ra-228, Ac-228 |
+| Th-228+ | Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Po-212 (64,1 %), Tl-208 (35,9 %) |
+| Th-232sec | Th-232, Ra-228, Ac-228, Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Po-212 (64,1%), Tl-208 (35,9%) |
+| U-235sec | U-235, Th-231, Pa-231, Ac-227, Th-227 (98,6%), Fr-223 (1,4%), Ra-223, Rn-219, Po-215, Pb-211, Bi-211, Tl-207, Po-211 (0,3%) |
+| U-238sec | U-238, Th-234, Pa-234m, Pa-234 (0,3%), U-234, Th-230, Ra-226, Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210 |
+
+**Tabel 2. Specifieke vrijgavewaarden voor verbranding, behorend bij artikel 3.18, vierde en vijfde lid**
+
+Specifieke vrijgavewaarden voor verbranding in een afvalverbrandingsinstallatie of bij ZAVIN te Dordrecht
+
+| Kunstmatige radionucliden | Specifieke vrijgavewaarde bij verbranding in een afvalverbrandingsinstallatie niet zijnde ZAVIN te Dordrecht (kBq.kg-1) | Specifieke vrijgavewaarde1 bij verbranding bij ZAVIN te Dordrecht (kBq.kg-1) |
+| --- | --- | --- |
+| H-3 | 4E+04 | 4E+04 |
+| C-14 | 4E+02 | 3E+02 |
+| P-33 | 3E+04 |   |
+| S-35 | 8E+02 |   |
+| Fe-55 | 1E+04 | 3E+03 |
+| Co-57 | 2E+00 |   |
+| Tc-99 | 3E+01 |   |
+| Er-169 | 1E+04 | 8E+03 |
+| Ac-2272, 1 | 9E-02 |   |
+
+1 Inclusief dochternucliden Fr-223, Th-227, Ra-223, Rn-219, Bi-215, Po-215, Pb-211, Bi-211, Tl-207.
+
+2 Voor zover dit radionuclide in consumentenproducten of vanwege zijn radioactieve eigenschappen wordt gebruikt.
+
+## Bijlage 5. behorend bij de [artikelen 4.25 tot en met 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.1&artikel=4.25&z=2023-07-01&g=2023-07-01), typen goedgekeurde ionisatierookmelders
 
 Goedgekeurde melders zijn:
 
@@ -2614,19 +2616,9 @@ Goedgekeurde melders zijn:
 | 240. | GE Security | SIGA-ISI | Am-241 | 37 kilobecquerel |
 | 241. | GE Security | XLS-IS | Am-241 | 37 kilobecquerel |
 
-## Bijlage 6. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.1&artikel=4.27&z=2023-02-24&g=2023-02-24), aanduiding radioactieve stof
+### II
 
-De aanduiding, bedoeld in [artikel 4.27, eerste lid, onder c, en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.1&artikel=4.27&z=2023-02-24&g=2023-02-24), dient overeenkomstig de hieronder voorgeschreven tekst en afbeelding te zijn. De afbeelding dient minimaal een diameter van 1 cm te hebben. De tekst moet op een afstand van 0,5 meter goed leesbaar zijn.
-
-**Afbeelding:**
-
-**Tekst:**
-
-Deze rookmelder bevat een zeer kleine hoeveelheid radioactief materiaal, die niet gevaarlijk is voor de gebruiker, indien de rookmelder wordt geïnstalleerd, bediend en onderhouden zoals staat geschreven in de gebruiksaanwijzing.
-
-### III
-
-Gedurende de vervaardiging van aanwijsinstrumenten, waarvan de prototypen zijn getest als beschreven onder II, wordt gecontroleerd of de aanwijsinstrumenten en onderdelen daarvan overeenkomen met die welke als prototype zijn getest. Deze controle omvat in ieder geval een volledig visueel onderzoek van elk aanwijsinstrument op barsten of schilferen van de radioactieve stoffen bevattende verf, onvolkomenheden in het doorzichtige deel van het omhulsel van het aanwijsinstrument en de aanwezigheid van waarschuwings- en merktekens, indien deze zijn vereist.
+Tests worden verricht op prototypen van elke partij aanwijsinstrumenten met het doel te bepalen of de samenstelling van de radioactieve verf, het gebruikte materiaal en de gebruikte fabricagemethode zodanig zijn dat de onderdelen van het aanwijsinstrument en het gehele aanwijsinstrument voldoen aan de voorgeschreven normen. Prototype-tests worden uitgevoerd op een geschikt monster. De test omvat:
 
 ## Bijlage 8. behorend bij [artikel 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.32&z=2021-10-01&g=2021-10-01), waarschuwingsteken op aanwijsinstrument
 
@@ -2644,9 +2636,9 @@ De achtergrond is geel en de lijnen en de figuur zijn zwart.
 
 Dit waarschuwingsteken dient voorts zodanig geplaatst te zijn dat het vanaf de buitenzijde van het aanwijsinstrument waarneembaar is zonder dat het instrument daarvoor eerst geopend of uit elkaar gehaald behoeft te worden.
 
-### A. Effectieve dosis voor leeftijdsgroep g
+### Gegevens voor de bepaling van de effectieve volgdosis
 
-Over het algemeen wordt de effectieve dosis **E** die een individu van de leeftijdsgroep **g** ontvangt overeenkomstig onderstaande formule berekend:
+Tenzij anders aangegeven gelden de voorschriften ten aanzien van doses voor de som van de doses ten gevolge van de uitwendige blootstelling en van de volgdoses voor 50 jaar (voor kinderen tot de leeftijd van 70 jaar) ten gevolge van inname.
 
 ### B. Tabellen
 
@@ -2654,11 +2646,11 @@ Annex A tot en met H van ICRP-publicatie 119 worden beheerd door de Autoriteit e
 
 ### C. Toelichting op de tabellen
 
-Wat betreft blootstelling van leden van de bevolking zijn in **Annex F**van ICRP-publicatie 119 voor ingestie de waarden verwerkt die overeenkomen met de verschillende factoren f1 voor opname via de darmwand bij zuigelingen en ouderen. Wat betreft blootstelling van leden van de bevolking zijn in **Annex G**van ICRP-publicatie 119 voor inhalatie de waarden verwerkt voor de verschillende soorten longretentie, met passende waarden f1 voor dat gedeelte van de inname dat wordt afgevoerd via het maag-darmkanaal. Indien informatie over deze waarden beschikbaar is, wordt de passende waarde gehanteerd; zo niet dan wordt de meest restrictieve waarde aangehouden. De ICRP-publicaties die informatie geven behorend bij diverse nucliden betreffende longabsorptietypen hiervoor zijn gegeven in **tabel 1** van deze bijlage.
+De gewijzigde indeling in **Annex F en G**van ICRP-publicatie 119 ten opzichte van de tabellen 1 en 2 zoals opgenomen in bijlage 1.4 van de voormalige Uitvoeringsregeling (gebaseerd op bijlage 3 van de [richtlijn 96/29](31996L0029)/EURATOM) vloeien voort uit een andere wijze van notatie die in ICRP-publicatie 119 wordt gehanteerd. Bijlage 1.4 van de voormalige Uitvoeringsregeling gaf de leeftijdsklassen terwijl **Annex F en G** van ICRP-publicatie 119 voor elke leeftijdsklasse de referentieleeftijd vermeldt. De relatie tussen leeftijdsklasse en referentieleeftijd is als volgt:
 
 ### D. Omrekeningsfactoren voor radon- en thoron-dochters
 
-Voor dochternucliden van radon (Rn-222) en thoron (Rn-220) gelden de volgende conventionele omrekeningsfactoren, effectieve dosis per eenheid potentiële blootstelling aan alfa-energie (Sv per J.h.m–3):
+Wat externe blootstelling betreft zijn de standaardwaarden en standaardrelaties gepubliceerd volgens de nieuwe methode in **ICPR-publicatie 116**. In deze publicatie zijn voor verschillende soorten straling effectieve dosiscoëfficiënten gegeven voor verschillende typen van bestraling alsmede orgaan-specifieke dosiscoëfficiënten. Deze kunnen gebruikt worden voor meer geavanceerde berekeningen voor de externe stralingsdosis voor het geval het omgevingsdosisequivalent H*(10) niet meer volstaat.
 
 Voor dochternucliden van radon (Rn-222) en thoron (Rn-220) gelden de volgende conventionele omrekeningsfactoren, effectieve dosis per eenheid potentiële blootstelling aan alfa-energie (Sv per J.h.m–3):
 
@@ -2666,137 +2658,137 @@ Voor dochternucliden van radon (Rn-222) en thoron (Rn-220) gelden de volgende co
 
 ### Rekenregels Analyse Gevolgen Ioniserende Straling (AGIS)
 
-### 1. Inleiding
+### Rekenregels Analyse Gevolgen Ioniserende Straling (AGIS)
 
-De volgende dosisniveaus worden gehanteerd:
+Volgens [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.3&artikel=3.9&z=2023-07-01&g=2023-07-01) van de verordening bevat elke kennisgeving ten behoeve van een aanvraag om een registratie van een handeling, onder andere, een opgave van de maximale totale effectieve dosis die een persoon per jaar buiten de locatie kan ontvangen ten gevolge van handelingen met die bron. Volgens [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2023-07-01&g=2023-07-01) van de verordening bevat elke kennisgeving ten behoeve van een aanvraag om een vergunning voor een handeling, onder andere, de maximale totale effectieve dosis die een persoon in een kalenderjaar kan ontvangen op enig punt buiten de locatie waarop aanvraag van toepassing is, zowel ten gevolge van lozingen als ten gevolge van externe straling. Het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) stelt voorts in [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.29&z=2023-07-01&g=2023-07-01) dat door de Autoriteit regels kunnen worden gesteld voor de bepaling van de doses5Indien in deze bijlage kortheidshalve de term ‘dosis’ wordt gebruikt, wordt steeds ‘effectieve dosis’ bedoeld, tenzij nadrukkelijk anders wordt vermeld. en methoden kunnen worden aangewezen voor de wijze waarop de berekende doses worden getoetst. Deze bijlage bevat de hierboven bedoelde regels en methoden.
 
 ### 1.2. Doel en opzet van deze bijlage
 
-Voor meer complexe situaties en voor die emissiesoorten waarvoor volgens de rekenregels uit Deel I het SN wordt overschreden, moet een zogenoemde nadere analyse worden uitgevoerd waarbij Deel II van deze bijlage van toepassing is. In Deel II wordt met behulp van stroomschema's en het aangeven van beleidskeuzes de methodiek van het uitvoeren van een nadere analyse beschreven, en worden de belangrijkste te beschouwen standaardwaarden en de bijbehorende standaardrelaties gegeven. In het algemeen zal bij de uitvoering van de nadere analyse meer ervaring en kennis van de achterliggende modellen nodig zijn dan bij toepassing van de rekenregels uit Deel I.
+In eenvoudige gevallen (bijvoorbeeld voor radionuclidenlaboratoria en ingekapselde bronnen voor meet- en regeltechniek) zal volstaan kunnen worden met de vereenvoudigde rekenregels van Deel I. Het doel van Deel I is een antwoord te krijgen op de vraag of een handeling een stralingsdosis onder het SN geeft. Het antwoord wordt op een globale, conservatieve wijze geschat met behulp van simpele rekenregels zonder een uitvoerige dosisberekening.
 
 ### 1.3. Bronnen en blootstellingsroutes
 
-Toestellen geven uitsluitend externe straling. Hetzelfde geldt, bij normaal gebruik, voor ingekapselde bronnen. Open bronnen kunnen aanleiding geven tot externe straling, maar kunnen zich ook via lozingen in lucht en water verspreiden in de omgeving. De wegen waarlangs deze verspreidingen plaatsvinden, worden **belastingpaden** genoemd.
+Handeling met bronnen binnen een locatie9Een locatie kan zowel samenvallen met de inrichting van een ondernemer als een plaats daarbinnen zijn of daarbuiten. In sommige gevallen is er dus geen sprake van een omschreven locatie of inrichting, maar van een plaats, wat bijvoorbeeld een afgezet stuk openbare weg kan zijn, of een stuk terrein binnen een inrichting., zoals gedefinieerd in het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179), kunnen drie verschillende soorten**emissies** tot gevolg hebben:
 
-De daadwerkelijke blootstelling van personen ten gevolge van de emissies via de belastingpaden kan dan op verschillende manieren geschieden, **blootstellingswegen**genoemd. De drie belangrijkste zijn:
+Toestellen geven uitsluitend externe straling. Hetzelfde geldt, bij normaal gebruik, voor ingekapselde bronnen. Open bronnen kunnen aanleiding geven tot externe straling, maar kunnen zich ook via lozingen in lucht en water verspreiden in de omgeving. De wegen waarlangs deze verspreidingen plaatsvinden, worden **belastingpaden** genoemd.
 
 ### Deel I. Rekenregels
 
-### 2. Toepasbaarheid rekenregels
+### Deel I. Rekenregels
 
-Indien niet aan voorwaarde 1 of 2 wordt voldaan, wordt voor deze emissiesoort verwezen naar Deel II, Nadere Analyse.
+De rekenregels van Deel I zijn voor externe straling, lozingen in lucht en lozingen in water van toepassing indien, met betrekking tot de verschillende emissies uit de bron(nen), aan de volgende voorwaarden wordt voldaan:
 
 ### 2.2. Toepasbaarheidbeoordeling na berekening
 
-Voor iedere emissiesoort zijn toetsingsniveaus vastgesteld (H*SN, LSN en WSN) die worden geacht het SN te vertegenwoordigen (zie onderdelen 3.3.4, 4.3.4, 4.4.4).
+Voor iedere emissiesoort afzonderlijk worden, met behulp van de rekenregels en op grond van de toegepaste hoeveelheden radionucliden, de maximale (theoretisch mogelijk) emissies berekend (zie hiervoor onderdelen 3 en 4):
 
-In deze rekenregels worden op basis van de mogelijke emissiesoorten twee stroomschema's gehanteerd: één voor de categorie ‘ingekapselde bronnen en toestellen’ (onderdeel 3) en één voor de categorie ‘open bronnen’ (onderdeel 4).
+Voor de emissiesoorten waarvoor het toetsingniveau wordt overschreden, wordt verwezen naar Deel II, Nadere Analyse.
+
+### 2.3. Onderscheid ingekapselde bronnen, toestellen en open bronnen
 
 ### 3. Stroomschema ingekapselde bronnen en toestellen
 
-### 3. Stroomschema ingekapselde bronnen en toestellen
+Bij toestellen en ingekapselde bronnen wordt uitgegaan van slechts één belastingpad, namelijk de externe straling die vrijkomt bij gebruik. Daarnaast wordt in dit onderdeel aangenomen (zie ook onderdeel 2.1) dat alleen sprake is van röntgenstraling en gammastraling en dat modelmatig gesproken kan worden van een puntbron (zie voetnoot 10 in onderdeel 2.1) waarvoor de kwadratenwet van toepassing is.
 
 In figuur 3.1 is het stroomschema gegeven voor de berekening, volgens de rekenregels beschreven in dit onderdeel, van de dosis voor dit belastingpad.
 
-De volgende stukken van dit onderdeel vormen de toelichting bij elk van de stappen van het stroomschema.
-
 ### 3.2. Toepassingsgebied rekenregels
 
 ### 3.2. Toepassingsgebied rekenregels
 
-Door de aanwezigheid van afscherming of diafragma's rondom de stralingsbron(nen) is er in de praktijk geen sprake van een isotrope ruimteverdeling van de straling, dat wil zeggen er is sprake van een bundel. Indien de openingshoek van de bundel klein is, is er sprake van een evenwijdige bundel in het midden waarvan het dosistempo vrijwel constant blijft (afgezien van verzwakking door verstrooiing in lucht) en waarvoor de kwadratenwet niet kan worden toegepast. De voorwaarde luidt **[DOB02]**:
+Voor kortere afstanden wordt verwezen naar Deel II, Nadere Analyse.
 
 ### 3.2.2. Toestellen
 
+Indien sprake is van een kleinere ruimtehoek, wordt verwezen naar Deel II, Nadere Analyse.
+
 Na verzwakking en verstrooiing van de primaire bundel door een voorwerp (een wand of een patiënt) ontstaat er een verstrooide bundel. Indien de invallende bundel divergerend is, zal ook voor de verstrooide bundel, vanaf enige afstand van dat voorwerp11Vanwege verstrooiing door het voorwerp zelf, kan de kwadratenwet niet worden toegepast op zeer korte afstand van het voorwerp. de kwadratenwet van toepassing zijn. De voorwaarde luidt **[DOB02]**:
 
-**In een verstrooide stralingsbundel is de kwadratenwet alleen van toepassing indien de invallende bundel divergerend is en indien het dosistempo berekend wordt voor afstanden groter dan 1 meter achter het door de invallende bundel getroffen voorwerp.**
-
 ### 3.3. Externe blootstellingdosis
 
 ### 3.3. Externe blootstellingdosis
 
-In onderdeel 3.3.3 wordt H* (10) aan de terreingrens berekend, uitgaande van het omgevingsdosisequivalenttempo
+Voor de berekening van de effectieve dosis ten gevolge van externe straling Eext (de externe blootstellingdosis) wordt bij deze rekenregels in eerste benadering gebruik gemaakt van het omgevingsdosisequivalent H*(10) [μSv/h].
 
 ### 3.3.2. Berekening omgevingsdosisequivalenttempo
 
-Het omgevingsdosisequivalenttempo
+in een punt (dosispunt) gelegen op afstand r [m] van een ingekapselde bron of een zekere hoeveelheid radioactieve stof kan worden berekend met onderstaande formule:
 
 ### 3.3.3. Berekening van het maximale omgevingsdosisequivalent aan de terreingrens (H*max)
 
-Indien de stralingsbron op verschillende plaatsen binnen de locatie wordt gebruikt, dan wordt de waarde van H*max berekend op basis van die plaatsen die, in vergelijking met de andere, het hoogste omgevingsdosisequivalenttempo aan de terreingrens geeft, uitgaande van het aantal gebruiksuren op die plaatsen.
+Indien verschillende waarden voor het omgevingsdosisequivalenttempo in verschillende richtingen zijn bepaald, moet de waarde van H*max berekend worden op basis van die richting die het hoogste omgevingsdosisequivalent aan de terreingrens geeft, **met inachtneming van het bij deze richting** behorend aantal gebruiksuren per stralingsbron in een jaar.
 
 ### 3.3.4. Afgeleid toetsingsniveau voor externe straling (H*SN)
 
-Voor externe straling wordt uitgegaan van een toetsingsniveau dat overeenkomt met een jaarlijkse omgevingsdosisequivalent **binnenshuis** gelijk aan het SN (10 µSv). Om rekening te houden met de afscherming bij verblijf binnenshuis, wordt bij directe straling vanuit een (punt)bron, een verzwakking van het omgevingsdosisequivalent **buitenshuis** met een factor 4 (zie onderdeel 6.5.2) aangenomen.
+De bronnen die ruw geschat minder dan 1 µSv in een jaar aan enig punt van de terreingrens veroorzaken, behoeven bij deze sommatie niet te worden meegenomen.
 
 ### 3.3.5. Toetsing H*max aan H*SN
 
+De berekende waarde voor H*max dient te worden getoetst aan het afgeleide toetsingsniveau H*SN.
+
 Indien:
 
-wordt de externe straling uit de locatie geacht een externe blootstellingdosis kleiner dan het SN te veroorzaken.
-
 ### 4. Stroomschema open bronnen
 
 ### 4. Stroomschema open bronnen
 
-Voorbeeld van toepassingen van open bronnen is het gebruik van radioactief materiaal in radionuclidenlaboratoria, nucleaire geneeskunde en wetenschappelijk onderzoek.
+Elke radioactieve stof wordt beschouwd als **open bron**indien onder normale gebruiksomstandigheden het vrijkomen van radioactiviteit niet kan worden uitgesloten. Daarom moet hierbij rekening worden gehouden met de mogelijkheid van blootstelling van omwonenden als gevolg van in de lucht of in het water verspreide radionucliden. Daarnaast kan er sprake zijn van externe straling zoals het geval is bij toestellen en ingekapselde bronnen.
 
 ### 4.2. Externe straling
 
-Bij de berekening volgens de rekenregels van het maximale (theoretisch mogelijke) omgevingsdosisequivalent (H*max) wordt er van uit gegaan dat de open bronnen te beschouwen zijn als puntbronnen, waarvoor de kwadratenwet kan worden toegepast.
+De volgende delen van dit onderdeel vormen de toelichting bij elk van de stappen van het stroomschema.
 
-### 4.3.2. Berekening van de maximale jaarlijkse lozing van elk radionuclide (AL,i)
+### 4.3.1. Berekening van het radiotoxiciteitsequivalent voor inhalatie (Reinh)
 
-De kans dat en de mate waarin een radionuclide zich in lucht verspreidt, bijvoorbeeld in de zuurkast of laboratoriumruimte en vervolgens naar buiten komt, is afhankelijk van de eigenschappen van de stof of verbinding en van de handelingen die ermee worden verricht. De waarden voor de verspreidingsparameter p zijn afgeleid van deze verspreidingskans. In tabel 4.1 zijn de waarden gegeven die in formule 4.2 gebruikt dienen te worden voor een aantal vaak voorkomende handelingen. Indien de handelingen waarvoor vergunning wordt aangevraagd aanmerkelijk daarvan afwijken, dient een toepasselijke keuze te worden gemaakt uit de in tabel 4.1 vermelde waarden.
+De volgende formule is van toepassing:
 
 ### 4.3.3. Berekening van de maximale jaarlijkse emissie vanuit een locatie (Lmax)
 
-De verhouding tussen AL,i en Reinh,i geeft, voor iedere radionuclide, het maximale (theoretisch mogelijke) aantal radiotoxiciteitsequivalenten van dat nuclide dat in een jaar in lucht wordt geloosd.
+Gezien de korte tijdsperiode tussen lozing en inhalatie, wordt bij lozingen in lucht voor het blootstellingspad inhalatie fysisch verval niet nadrukkelijk verdisconteerd. Om rekening te houden met de cumulatie in het milieu, wordt een correctiefactor (CRL) gebruikt afhankelijk van de fysische halveringstijd van het betrokken radionuclide. Hiermee wordt de lozing van langlevende nucliden zwaarder gerekend dan de lozing van kort levende. In tabel 4.3 worden de waarden van CRL gegeven die in formule 4.2 gebruikt dienen te worden.
 
 ### 4.3.4. Afgeleid toetsingsniveau voor lozingen in lucht (LSN)
 
-De geloosde hoeveelheid radioactiviteit zal zich in de lucht verspreiden en dus in (sterk) verminderde concentratie de terreingrens bereiken. Op basis van een conservatieve benadering resulteert dit in een tenminste miljoenvoudige verdunning, afhankelijk van de afstand tussen lozingspunt en terreingrens.
+De maximale (theoretisch mogelijke) emissie in lucht **vanuit een locatie**(Lmax), uitgedrukt in aantal radiotoxiciteitsequivalenten, wordt verkregen na sommatie over alle radionucliden volgens:
 
 ### 4.3.5. Toetsing Lmax aan LSN
 
-Er zijn twee situaties mogelijk. De eerste is die waarbij er sprake is van één (effectief) lozingspunt. De tweede situatie is die waarbij er sprake is van een aantal lozingspunten die op verschillende afstanden van het te beschouwen punt van de terreingrens zijn gelegen.
+De met behulp van formule 4.3 verkregen waarde voor Lmax dient te worden getoetst aan de afgeleide toetsingniveaus LSN.
 
-### 4.4.2. Berekening van de maximale jaarlijkse lozing van elk radionuclide (Aw,i)
+### 4.4.1. Berekening van het radiotoxiciteitsequivalent voor ingestie (Reing)
 
-Bij het toedienen aan proefdieren worden de uitwerpselen deels opvangen (vast afval) en niet op het riool geloosd; deels zullen de uitwerpselen worden weggespoeld. Hiervoor geldt een correctiefactor W (tabel 4.7) die in formule 4.7 gebruikt dient te worden en die aangeeft welk deel van de toegediende activiteit op het riool van de locatie wordt geloosd.
+Sommige radionucliden bevinden zich in een dusdanige vorm dat redelijkerwijs kan worden aangenomen dat deze niet via de waterafvoer in het riool zullen geraken (bijvoorbeeld vaste, niet oplosbare stoffen of gassen); andere stoffen zullen makkelijk(er) oplosbaar en dus wegspoelbaar zijn. Daarom is er ook een correctiefactor V (tabel 4.6) die in formule 4.7 gebruikt dient te worden en die de kans aangeeft op lozing van het beschouwde radionuclide op het riool.
 
 ### 4.4.3. Berekening van de maximale jaarlijkse emissie vanuit een locatie (Wmax)
 
-De verhouding tussen AW, i en Reing, i geeft, voor ieder radionuclide, het maximale (theoretisch mogelijk) aantal radiotoxiciteitsequivalenten dat in een jaar in water wordt geloosd.
+Om rekening te houden met het radioactief verval en de cumulatie in het milieu wordt een correctiefactor (CRW) gebruikt afhankelijk van de fysische halveringstijd van het betrokken radionuclide (zie tabel 4.9). Hiermee wordt de lozing van langlevende nucliden zwaarder gerekend dan de lozing van kort levende. In tabel 4.9 worden de waarden van CRWi gegeven die gebruik dienen te worden.
 
 ### 4.4.4. Afgeleid toetsingsniveau voor lozingen in water (WSN)
 
-Het afgeleide **toetsingsniveau** (WSN) wordt gedefinieerd als de lozing, uitgedrukt in Reing, die, volgens deze benadering, een ingestiedosis ter grootte van het SN (1 µSv) veroorzaakt.
+De op het riool geloosde radioactiviteit zal niet direct de bevolking bereiken, maar pas na (langdurig) verblijf en verspreiding in het milieu. Op basis van een conservatieve benadering resulteert dit in een verdunning met tenminste een factor 108.
 
 ### 4.4.5. Toetsing Wmax aan WSN
 
-Indien:
+Aangenomen wordt dat een locatie vanuit alle lozingspunten op hetzelfde riool loost, waardoor voor lozingen in water niet nodig is een deelberekening per lozingspunt uit te voeren (dit in tegenstelling met hetgeen van toepassing is voor lozingen in lucht).
 
 ### 4.5. Methode voor de bepaling van doses ten gevolge van handelingen met van nature voorkomend radioactief materiaal
 
-Met betrekking tot de externe stralingsdosis kan, naarmate de afstand tussen de bron en de locatiegrens groter is, een grovere, doch realistisch conservatieve, schatting plaatsvinden. Indien de externe stralingsdosis met deze grove schatting uitkomt op een omgevingsdosisequivalent aan de terreingrens van minder dan 10 µSv in een kalenderjaar (H*max) is een nadere berekening niet nodig. Deze 10 μSv is het secundaire niveau voor externe straling. De H*max is weliswaar niet geheel gelijk aan de effectieve dosis ten gevolge van 24 uur verblijf, maar kan hieraan gelijk geacht worden. Uiteraard kan indien voorhanden en gewenst ook een meer precieze uitkomst opgegeven worden.
+Bij de bepaling van de dosis ten gevolge van ingestie, inhalatie of externe straling worden in principe alle aanwezige radionucliden (en hun dosiscoëfficiënten) meegenomen. Echter, deze bepaling kan ook met behulp van zogenoemde key- of triggerradionucliden uitgevoerd worden. Voor leden van de bevolking kunnen de doses in eerste instantie conservatief doch realistisch worden geschat.
 
-Indien een grove, doch realistisch conservatieve, schatting van de inhalatie- of ingestiedosis uitkomt op een effectieve dosis van minder dan 1 μSv in een kalenderjaar, is nadere precisering daarvan ook niet nodig.
+Met betrekking tot de externe stralingsdosis kan, naarmate de afstand tussen de bron en de locatiegrens groter is, een grovere, doch realistisch conservatieve, schatting plaatsvinden. Indien de externe stralingsdosis met deze grove schatting uitkomt op een omgevingsdosisequivalent aan de terreingrens van minder dan 10 µSv in een kalenderjaar (H*max) is een nadere berekening niet nodig. Deze 10 μSv is het secundaire niveau voor externe straling. De H*max is weliswaar niet geheel gelijk aan de effectieve dosis ten gevolge van 24 uur verblijf, maar kan hieraan gelijk geacht worden. Uiteraard kan indien voorhanden en gewenst ook een meer precieze uitkomst opgegeven worden.
 
 ### Deel II. Nadere Analyse
 
-### 5. Stroomschema en werkwijze voor Nadere Analyse
+### Deel II. Nadere Analyse
+
+Zoals al in onderdeel 1.2 is aangegeven, dient in die gevallen waarin de rekenregels uit Deel I niet toereikend zijn, een ‘Nadere Analyse’ (volgens onderdelen 5 tot en met 7 van deze bijlage) te worden uitgevoerd. Dat is het geval indien:
 
 De uitvoering van deze nadere analyse vindt plaats zoals weergegeven in het stroomschema in figuur 5.1.
 
-In het algemeen zal bij de uitvoering meer ervaring en kennis van de achterliggende modellen nodig zijn dan bij de toepassing van de rekenregels uit Deel I. De rapporten ‘Dosisberekening voor de Omgeving bij Vergunningverlening Ioniserende Straling (DOVIS) deel A: Lozingen in lucht en water’ DOVIS-A **[DOA02]**en ‘Dosisberekening voor de Omgeving bij Vergunningverlening Ioniserende Straling (DOVIS) deel B: Externe straling’ DOVIS-B **[DOB02]**dienen te worden gehanteerd voor de uitvoering van een nadere analyse.
-
 ### 5.2. Overzicht van de Werkwijze
 
 ### 5.2. Overzicht van de Werkwijze
 
-Indien sprake is van een gepulste of anderszins niet-continue emissie (bijvoorbeeld lozingen in water na tijdelijke opslag in tanks ter controle van de geloosde activiteit) moet, indien **niet** aannemelijk kan worden gemaakt dat de gevolgen significant zullen afwijken van een continue emissie, van een continue emissie worden uitgegaan12Dit kan van belang zijn bijvoorbeeld voor lozingen in lucht die alleen onder bepaalde weersomstandigheden plaatsvinden, waarvoor de doorgaans gebruikte weerstatistieken (op jaarbasis) niet toepasbaar zijn in de verspreidingsberekening.. Als jaarlijkse emissie wordt de som genomen van alle pulslozingen in een jaar.
+Bij de berekeningen worden zowel **reguliere emissies**als potentiële emissies meegenomen. Deze laatste zijn voorziene onbedoelde gebeurtenissen, welke voor aanvang van de handelingen zijn bepaald in het kader van de risico-inventarisatie en -evaluatie en waarmee bij de vergunningverlening dan ook rekening wordt gehouden.
 
 ### 5.2.2. Verspreiding en besmetting in het milieu
 
@@ -2804,11 +2796,11 @@ Uitgaande van de hiervoor berekende emissies wordt de besmetting van alle releva
 
 ### 5.2.3. Belastingpaden
 
-Bij een ‘Nadere Analyse’ van een bepaalde emissiesoort dienen in principe alle mogelijke belastingpaden te worden beschouwd. Echter, afhankelijk van de omstandigheden, zullen sommige belastingpaden een belangrijkere rol spelen dan andere en zal het dus meestal mogelijk zijn een aantal belastingpaden te verwaarlozen.
+Voor de berekeningen ten behoeve van **externe straling** wordt verwezen naar DOVIS-B **[DOB02]**. Hierin wordt de berekening van de externe stralingsdosis besproken van een (afgeschermde) bron.
 
 ### 5.2.4. Cumulatie in de tijd en te beschouwen tijdshorizon
 
-Bij jarenlang lozen zal de besmetting in het milieu, onder andere door verspreiding, afzetting, cumulatie, verval en ingroei van dochternucliden, veranderen in de tijd.
+DOVIS-A geeft voor lucht- en waterlozingen aan welke paden wel en niet relevant zijn en welke modellen, parameters en parameterwaarden bij de nadere analyse gebruikt moeten worden. Vergelijkbare gegevens met betrekking tot externe straling zijn te vinden in DOVIS-B **[DOB02]**.
 
 Bij jarenlang lozen zal de besmetting in het milieu, onder andere door verspreiding, afzetting, cumulatie, verval en ingroei van dochternucliden, veranderen in de tijd.
 
@@ -2820,59 +2812,59 @@ Uitgaande van de berekende besmetting van milieu en voedselproducten, wordt de e
 
 ### 6.2. Blootstelling
 
-Bij verblijf in besmette lucht dient, voor zover relevant, ook rekening te worden gehouden met de mogelijkheid van opname van radioactieve stoffen via de huid en door submersie. Submersie is in het bijzonder relevant indien de in lucht aanwezige radionucliden edelgassen zijn.
+én, voor zover een relevante dosisbijdrage verwacht mag worden, met:
 
 ### 6.3. Aandachtsgroep, selectiegroep en representatief persoon
 
-Voor de voedingsmiddelen die gekocht worden, wordt een zekere mate van menging van meer of minder besmette producten aangenomen. Hiervan uitgaande wordt voor de betreffende voedselproducten de gemiddelde radioactiviteitsconcentratie berekend in een gebied van 30 km rond de bron (voedselgebied). Voor de herkomst van het voedselpakket zijn de volgende aannames van toepassing:
+Voor de berekening van de ingestiedosis op een bepaalde locatie, wordt uitgegaan van personen in een aandachtsgroep die een deel van hun voedsel uit eigen volks- of moestuin eten, welke gelegen is op de betreffende locatie, en de rest van hun voedsel elders inkopen.
 
-Voorts wordt uitgegaan van de gemiddelde jaarlijkse consumptie van voedingsmiddelen van een volwassen man (zie tabel 6.1).
+Voor de voedingsmiddelen die gekocht worden, wordt een zekere mate van menging van meer of minder besmette producten aangenomen. Hiervan uitgaande wordt voor de betreffende voedselproducten de gemiddelde radioactiviteitsconcentratie berekend in een gebied van 30 km rond de bron (voedselgebied). Voor de herkomst van het voedselpakket zijn de volgende aannames van toepassing:
 
 ### 6.4. Individuele effectieve dosis (ID)
 
-### 6.4.2. Externe blootstelling
+### 6.4.1. Algemeen
 
-Voor de berekening van IDext wordt uitgegaan van onafgebroken verblijf ter plaatse en geen bescherming door kleren, woning etc. (zie hiervoor de berekening van de MIDext, onderdeel 6.5.2). De duur van de blootstelling text is gelijk aan het aantal uren per jaar dat de bron aanwezig is en het effectieve dosistempo
+. In het algemeen geldt:
 
 ### 6.4.3. Inhalatie
 
-Uitgaande van de berekende concentratie van radionucliden in de lucht (volgens DOVIS-A) kan de jaarlijkse effectieve inhalatiedosis IDnh ten gevolge van een continue lozing worden berekend volgens onderstaande formule:
+Voor een uitgebreide beschrijving van de berekeningsmethodiek voor de inhalatiedosis wordt verwezen naar DOVIS-A **[DOA02]**.
 
 ### 6.4.4. Submersie
 
-De aanwezigheid van radionucliden in de lucht kan ook een submersiedosis tot gevolg hebben, in het bijzonder in het geval dat er sprake is van edelgassen. Uitgaande van de berekende concentratie van radionucliden in de lucht (volgens DOVIS-A) kan de jaarlijkse effectieve submersiedosis IDsub ten gevolge van een continue lozing worden berekend volgens onderstaande formule:
+Voor de blootstelling ten gevolge van resuspensie en coastal spraying, voor zover relevant, wordt verwezen naar DOVIS-A.
 
 ### 6.4.5. Ingestie
 
 Voor een uitgebreide beschrijving van de berekeningsmethodiek voor de ingestiedosis wordt verwezen naar DOVIS-A **[DOA02]**.
 
-Uitgaande van de berekende concentratie van radionucliden in de verschillende voedselproducten (volgens DOVIS-A) kan de jaarlijkse effectieve ingestiedosis IDing ten gevolge van consumptie van voedsel worden berekend aan de hand van de volgende formule:
+Voor een uitgebreide beschrijving van de berekeningsmethodiek voor de ingestiedosis wordt verwezen naar DOVIS-A **[DOA02]**.
 
 ### 6.5. Berekening van MID (multifunctionele individuele dosis) en AID (actuele individuele dosis)
 
 ### 6.5. Berekening van MID (multifunctionele individuele dosis) en AID (actuele individuele dosis)
 
-Voor de berekening van de **actuele individuele dosis** (AID) wordt voor sommige dosisbijdragen het huidige feitelijk gebruik van het gebied wel beschouwd (zie onderdeel 6.5.3). Uitgangspunt daarbij blijft dat alle functies van het milieu voor de toekomst mogelijk dienen te blijven en dus dat er geen te hoge (langdurige) besmetting in het milieu plaatsvindt. Met andere woorden, het feitelijke gebruik van de omgeving (het feitelijk bestaan van de selectiegroep of de representatieve persoon) speelt alleen voor díe belastingpaden een rol, die geen blootstelling meer geven zodra de bron geen emissies meer veroorzaakt.
+Onder **multifunctionele individuele dosis** (MID) wordt de dosis verstaan die het gevolg is van het gebruik van een gebied buiten de locatie op zodanige wijze dat dit tot de hoogst mogelijke dosis aanleiding geeft. De MID staat los van het feitelijk gebruik van dat gebied op enig moment en houdt rekening met het mogelijke (toekomstige) gebruik. Het gaat dus om de dosis voor een selectiegroep of de representatieve persoon die weliswaar momenteel mogelijk zelfs niet bestaat, maar waarvan het bestaan in de toekomst niet uitgesloten geacht kan worden. In het algemeen leidt het gebruik van een gebied voor normale bewoning tot die hoogst mogelijke dosis. MID wordt dan ook op basis daarvan berekend (zie onderdeel 6.5.2).
 
 ### 6.5.2. Berekening van de multifunctionele dosis MID
 
-**Samenvattend:**
+De selectiegroep voor de berekening van MID voor één emissiesoort (de groep waarvoor de berekende MID het hoogste is) kan niet bij voorbaat gedefinieerd worden. Voor lozingen in lucht, zal de selectiegroep veelal bestaan uit personen die wonen op de locatie waar de luchtconcentratie het hoogst is en die tevens gebruik maken van een moestuin vlakbij de woning. Dit gebruik dient te allen tijde mogelijk te zijn.
 
 ### 6.5.3. Berekening van de actuele dosis AID
 
+a) zie tab 6.2.
+
 b) factor (=0,25) om rekening te houden met de afscherming geboden door een standaard woning tegen gammastraling (zie ook formule 6.6).
 
-c) voor deze paden is de bijdrage aan AID gelijk aan de individuele dosisbijdrage (zie onderdeel 6.4).
-
 ### 7. Toetsing van de uitkomsten aan de dosisniveaus
 
 ### 7. Toetsing van de uitkomsten aan de dosisniveaus
 
-Als voor een emissiesoort de volgens Deel II berekende **MID hoger ligt dan SN**, dus als:
+Voor de betreffende emissiesoort zal in de vergunningaanvraag de berekende waarde van MID worden opgenomen.
 
 ### 7.2. Toetsing aan de locatielimiet
 
-De toetsing aan de locatielimiet wordt gedaan voor alle emissiesoorten tezamen. Hiervoor wordt de **totale AID** berekend, dat wil zeggen de actuele dosis van **alle relevante emissiesoorten samen**. Voor de berekening van de totale AID worden de verschillende dosisbijdragen opgeteld die dezelfde groep mensen (kunnen) treffen.
+Voor de betreffende emissiesoort zullen in de vergunningaanvraag zowel de berekende MID als de berekende AID worden opgenomen.
 
 De toetsing aan de locatielimiet wordt gedaan voor alle emissiesoorten tezamen. Hiervoor wordt de **totale AID** berekend, dat wil zeggen de actuele dosis van **alle relevante emissiesoorten samen**. Voor de berekening van de totale AID worden de verschillende dosisbijdragen opgeteld die dezelfde groep mensen (kunnen) treffen.
 
@@ -2880,11 +2872,11 @@ De toetsing aan de locatielimiet wordt gedaan voor alle emissiesoorten tezamen. 
 
 ### Aanhangsel A bij [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-02-24&g=2023-02-24)
 
-dosiscoëfficiënten esub uit annex C, bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-02-24&g=2023-02-24) bij deze verordening, onderdeel B
+voor de **submersiedosis**:
 
-Voor fysiologische gegevens dienen ICRP-23 **[IC75]** en ICRP-89 **[IC102]** te worden gebruikt, behalve voor het long- en botmodel, waarvoor ICRP-66 **[IC93]** en ICRP-70 **[IC95]**moeten worden gebruikt.
+Indien om een of andere, te onderbouwen, reden de waarden waarnaar in onderdeel A.1 wordt verwezen niet gebruikt kunnen worden of niet beschikbaar zijn, dient men een berekening uit te voeren uitgaande van de in genoemde referenties aangegeven methodiek. Dit kan bijvoorbeeld het geval zijn in situaties waarin de modelaannames waaronder de dosiscoëfficiënten zijn afgeleid niet representatief zijn. Daarbij dient in het bijzonder rekening te worden gehouden met het volgende:
 
-### II. Metabole modellen
+### I. Fysiologische gegevens
 
 ### II. Metabole modellen
 
@@ -2892,7 +2884,7 @@ Voor fysiologische gegevens dienen ICRP-23 **[IC75]** en ICRP-89 **[IC102]** te 
 
 ### a. Index-methode
 
-**I = a** 1/300 Bq/kg + **a**2/200 Bq/kg + **a**3/3000 Bq/kg
+De richtlijn geeft in annex VIII de volgende bepaling van de index I voor activiteitsconcentratie voor door bouwmaterialen uitgezonden gammastraling:
 
 ### b. CEN methode
 
@@ -2904,35 +2896,35 @@ De gewogen som van de activiteitsconcentraties van de aanwezige primordiale radi
 
 ### d. Bepaling van het percentage grondstoffen dat de ondernemer ten hoogste aan bouwmaterialen mag toevoegen bij een gewogen som van 1, zoals bepaald onder c.
 
-Dit is een methode voor bepaling van het gewichtspercentage van de materialen, die genoemd zijn in [bijlage 6.1 bij de Regeling basisveiligheidsnormen stralingsbescherming](onbekend), dat afhankelijk van de beoogde dichtheid ρ van het te produceren bouwmateriaal, ten hoogste mag worden toegevoegd als component van dit te produceren bouwmateriaal. Deze methode mag alleen worden toegepast bij materialen, die genoemd zijn in bijlage 6.1 van de regeling, waarvan de gewogen som van de aanwezige primordiale radionucliden 226Ra, 232Th en 40K, als bedoeld in [artikel 6.1, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2021-10-01&g=2021-10-01), niet hoger is dan 1.
+Met a1, a2, a3 als activiteitsconcentraties van de respectievelijke primordiale radionucliden 226Ra, 232Th en 40K uitgedrukt in becquerel per kilogram.
 
 ## Bijlage 12. behorend bij [artikel 6.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.2&z=2021-10-01&g=2021-10-01)
 
 ### Lijst van de minimumvereisten per gegevensrecord
 
-### 1. Vereisten voor de bemonsteringsgegevens
+### Lijst van de minimumvereisten per gegevensrecord
+
+Debiet(1) (in geval van rivierwater)
 
 Productie(1) (voor melk en drinkwater)
-
-Per jaar geproduceerd of gedistribueerd volume (voor drinkwater)
 
 ## Bijlage 13. behorend bij [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.3&z=2021-10-01&g=2021-10-01)
 
 ### Gestandaardiseerde informatie over de lozing van radioactieve stoffen in de lucht en het water door kerncentrales en opwerkingsfabrieken in normaal bedrijf
 
-### A. Kerncentrales
+### Gestandaardiseerde informatie over de lozing van radioactieve stoffen in de lucht en het water door kerncentrales en opwerkingsfabrieken in normaal bedrijf
 
-(2) Kan normaliter worden verkregen door de meting van bètastraling na het verval van kortlevende isotopen.
+(1) Voor LWR.
 
 ### A.2. Vloeibare lozingen
 
-(1) Totaal-alfa moet uitsluitend worden gerapporteerd wanneer geen nuclidespecifieke informatie over alfastralers beschikbaar is.
+(4) Totaal-alfa moet uitsluitend worden gerapporteerd wanneer geen nuclidespecifieke informatie over alfastralers beschikbaar is.
 
 (1) Totaal-alfa moet uitsluitend worden gerapporteerd wanneer geen nuclidespecifieke informatie over alfastralers beschikbaar is.
 
 ### B. Opwerkingsfabrieken
 
-### B.1. Lozingen in de lucht
+### B. Opwerkingsfabrieken
 
 **(1) Zelfs wanneer bij de opwerkingsactiviteiten geen S-35 ontstaat, wordt het opgenomen in de lijst, zie vorige voetnoot.**
 
@@ -2950,13 +2942,239 @@ Per jaar geproduceerd of gedistribueerd volume (voor drinkwater)
 
 (1) In het bijzonder als de geloosde hoeveelheid radionucliden geraamd zijn op basis van een berekening, of wanneer in de sommatie substitutiewaarden zijn gebruikt voor beneden de beslissingsdrempel gelegen meetwaarden, of voor informatie inzake de over de chemische/fysische vorm van de lozingen van H-3, C-14 en jodium, of voor informatie over de tijdbasis en de bemonsteringsmethode.
 
-### B.2
+### B.1
 
 (1) De vloeibare effluenten van opwerkingsfabrieken worden normaliter behandeld samen met de vloeistoffen van andere faciliteiten op dezelfde locatie.
+
+(1) De vloeibare effluenten van opwerkingsfabrieken worden normaliter behandeld samen met de vloeistoffen van andere faciliteiten op dezelfde locatie.
+
+Deze verordening zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 4. Bronnen en handelingen in geplande blootstellingssituaties
+
+#### § 4.1. Administratie
+
+#### § 4.2. Toestellen en versnellers
+
+#### § 4.3. Radioactieve stoffen
+
+#### § 4.3.2. Ingekapselde bronnen
+
+#### § 4.3.4. Beveiliging
+
+#### § 4.3.6. Handelingen met van nature voorkomend radioactief materiaal
+
+#### § 4.3.7. Consumentenartikelen
+
+#### § 4.3.7.2. Aanwijsinstrumenten
+
+#### § 4.4. Deskundigheid uitvoering handelingen
+
+#### § 4.5. Meet- en rekenmethodes
+
+### Hoofdstuk 5. Deskundigheid
+
+### Hoofdstuk 6. Bouwmaterialen en milieumonitoring
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage 6. behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.1&artikel=4.27&z=2023-07-01&g=2023-07-01), aanduiding radioactieve stof
+
+De aanduiding, bedoeld in [artikel 4.27, eerste lid, onder c, en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.1&artikel=4.27&z=2023-07-01&g=2023-07-01), dient overeenkomstig de hieronder voorgeschreven tekst en afbeelding te zijn. De afbeelding dient minimaal een diameter van 1 cm te hebben. De tekst moet op een afstand van 0,5 meter goed leesbaar zijn.
+
+**Afbeelding:**
+
+**Tekst:**
+
+Deze rookmelder bevat een zeer kleine hoeveelheid radioactief materiaal, die niet gevaarlijk is voor de gebruiker, indien de rookmelder wordt geïnstalleerd, bediend en onderhouden zoals staat geschreven in de gebruiksaanwijzing.
+
+**Controle van de constructie na de vervaardiging van aanwijsinstrumenten die voor verlichtingsdoeleinden radioactieve stoffen bevatten.**
+
+### I
+
+De tests kunnen worden uitgevoerd op onderdelen van de aanwijsinstrumenten. Ze worden echter zo mogelijk met het gehele aanwijsinstrument verricht.
+
+### II
+
+Tests worden verricht op prototypen van elke partij aanwijsinstrumenten met het doel te bepalen of de samenstelling van de radioactieve verf, het gebruikte materiaal en de gebruikte fabricagemethode zodanig zijn dat de onderdelen van het aanwijsinstrument en het gehele aanwijsinstrument voldoen aan de voorgeschreven normen. Prototype-tests worden uitgevoerd op een geschikt monster. De test omvat:
+
+### III
+
+Gedurende de vervaardiging van aanwijsinstrumenten, waarvan de prototypen zijn getest als beschreven onder II, wordt gecontroleerd of de aanwijsinstrumenten en onderdelen daarvan overeenkomen met die welke als prototype zijn getest. Deze controle omvat in ieder geval een volledig visueel onderzoek van elk aanwijsinstrument op barsten of schilferen van de radioactieve stoffen bevattende verf, onvolkomenheden in het doorzichtige deel van het omhulsel van het aanwijsinstrument en de aanwezigheid van waarschuwings- en merktekens, indien deze zijn vereist.
+
+## Bijlage 8. behorend bij [artikel 4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.32&z=2023-07-01&g=2023-07-01), waarschuwingsteken op aanwijsinstrument
+
+Het waarschuwingsteken dat wordt aangebracht op aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd, is een waarschuwingsbord dat een zodanige afmeting heeft dat het met het blote oog herkenbaar is. Het betreft de volgende figuur:
+
+De achtergrond is geel en de lijnen en de figuur zijn zwart.
+
+Dit waarschuwingsteken dient voorts zodanig geplaatst te zijn dat het vanaf de buitenzijde van het aanwijsinstrument waarneembaar is zonder dat het instrument daarvoor eerst geopend of uit elkaar gehaald behoeft te worden.
+
+### Gegevens voor de bepaling van de effectieve volgdosis
+
+### A. Effectieve dosis voor leeftijdsgroep g
+
+### B. Tabellen
+
+### C. Toelichting op de tabellen
+
+### D. Omrekeningsfactoren voor radon- en thoron-dochters
+
+Voor dochternucliden van radon (Rn-222) en thoron (Rn-220) gelden de volgende conventionele omrekeningsfactoren, effectieve dosis per eenheid potentiële blootstelling aan alfa-energie (Sv per J.h.m–3):
+
+## Bijlage 10. behorende bij [artikelen 4.37 tot en met 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.37&z=2023-02-24&g=2023-02-24)
+
+### 1. Inleiding
+
+### 1.2. Doel en opzet van deze bijlage
+
+### 1.3. Bronnen en blootstellingsroutes
+
+De daadwerkelijke blootstelling van personen ten gevolge van de emissies via de belastingpaden kan dan op verschillende manieren geschieden, **blootstellingswegen**genoemd. De drie belangrijkste zijn:
+
+### 2. Toepasbaarheid rekenregels
+
+### 2.2. Toepasbaarheidbeoordeling na berekening
+
+Toetsing geschiedt voor iedere emissiesoort afzonderlijk:
+
+### 3. Stroomschema ingekapselde bronnen en toestellen
+
+### 3.2. Toepassingsgebied rekenregels
+
+### 3.2.2. Toestellen
+
+### 3.3. Externe blootstellingdosis
+
+### 3.3.2. Berekening omgevingsdosisequivalenttempo
+
+### 3.3.3. Berekening van het maximale omgevingsdosisequivalent aan de terreingrens (H*max)
+
+### 3.3.5. Toetsing H*max aan H*SN
+
+### 4. Stroomschema open bronnen
+
+Bij de berekening volgens de rekenregels van het maximale (theoretisch mogelijke) omgevingsdosisequivalent (H*max) wordt er van uit gegaan dat de open bronnen te beschouwen zijn als puntbronnen, waarvoor de kwadratenwet kan worden toegepast.
+
+### 4.3. Lozing in lucht
+
+Voor de bepaling en de beoordeling van lozingen in lucht worden de volgende stappen doorlopen:
+
+### 4.3.1. Berekening van het radiotoxiciteitsequivalent voor inhalatie (Reinh)
+
+### 4.3.2. Berekening van de maximale jaarlijkse lozing van elk radionuclide (AL,i)
+
+### 4.3.5. Toetsing Lmax aan LSN
+
+In deze twee situaties dient als volgt te worden gehandeld:
+
+### 4.4. Lozing in water
+
+Voor de bepaling en de beoordeling van lozingen in water worden de volgende stappen doorlopen:
+
+### 4.4.1. Berekening van het radiotoxiciteitsequivalent voor ingestie (Reing)
+
+### 4.4.2. Berekening van de maximale jaarlijkse lozing van elk radionuclide (Aw,i)
+
+### 4.4.4. Afgeleid toetsingsniveau voor lozingen in water (WSN)
+
+### 4.4.5. Toetsing Wmax aan WSN
+
+### 4.5. Methode voor de bepaling van doses ten gevolge van handelingen met van nature voorkomend radioactief materiaal
+
+Indien een grove, doch realistisch conservatieve, schatting van de inhalatie- of ingestiedosis uitkomt op een effectieve dosis van minder dan 1 μSv in een kalenderjaar, is nadere precisering daarvan ook niet nodig.
+
+### 5. Stroomschema en werkwijze voor Nadere Analyse
+
+### 5.2. Overzicht van de Werkwijze
+
+### 5.2.2. Verspreiding en besmetting in het milieu
+
+### 6. Bepaling van de effectieve dosis
+
+### 6.2. Blootstelling
+
+### 6.3. Aandachtsgroep, selectiegroep en representatief persoon
+
+### 6.4. Individuele effectieve dosis (ID)
+
+### 6.4.2. Externe blootstelling
+
+### 6.4.3. Inhalatie
+
+### 6.4.5. Ingestie
+
+### 6.5. Berekening van MID (multifunctionele individuele dosis) en AID (actuele individuele dosis)
+
+### 6.5.2. Berekening van de multifunctionele dosis MID
+
+### 6.5.3. Berekening van de actuele dosis AID
+
+### 7. Toetsing van de uitkomsten aan de dosisniveaus
+
+### Aanhangsel A bij [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=10&z=2023-07-01&g=2023-07-01)
+
+voor de **ingestiedosis**:
+
+### A.2. Afwijkende en nieuwe parameterwaarden
+
+Indien om een of andere, te onderbouwen, reden de waarden waarnaar in onderdeel A.1 wordt verwezen niet gebruikt kunnen worden of niet beschikbaar zijn, dient men een berekening uit te voeren uitgaande van de in genoemde referenties aangegeven methodiek. Dit kan bijvoorbeeld het geval zijn in situaties waarin de modelaannames waaronder de dosiscoëfficiënten zijn afgeleid niet representatief zijn. Daarbij dient in het bijzonder rekening te worden gehouden met het volgende:
+
+Voor fysiologische gegevens dienen ICRP-23 **[IC75]** en ICRP-89 **[IC102]** te worden gebruikt, behalve voor het long- en botmodel, waarvoor ICRP-66 **[IC93]** en ICRP-70 **[IC95]**moeten worden gebruikt.
+
+## Bijlage 11. behorend bij [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2023-02-24&g=2023-02-24) Bouwmaterialen
+
+### a. Index-methode
+
+### b. CEN methode
+
+### c. De gewogen som van de activiteitsconcentraties
+
+Σ = a1/1.000 Bq/kg + a2/1.000 Bq/kg + a3/10.000 Bq/kg
+
+Dit is een methode voor bepaling van het gewichtspercentage van de materialen, die genoemd zijn in [bijlage 6.1 bij de Regeling basisveiligheidsnormen stralingsbescherming](onbekend), dat afhankelijk van de beoogde dichtheid ρ van het te produceren bouwmateriaal, ten hoogste mag worden toegevoegd als component van dit te produceren bouwmateriaal. Deze methode mag alleen worden toegepast bij materialen, die genoemd zijn in bijlage 6.1 van de regeling, waarvan de gewogen som van de aanwezige primordiale radionucliden 226Ra, 232Th en 40K, als bedoeld in [artikel 6.1, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2023-02-24&g=2023-02-24), niet hoger is dan 1.
+
+## Bijlage 12. behorend bij [artikel 6.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.2&z=2023-02-24&g=2023-02-24)
+
+### 1. Vereisten voor de bemonsteringsgegevens
+
+Per jaar geproduceerd of gedistribueerd volume (voor drinkwater)
+
+## Bijlage 13. behorend bij [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.3&z=2023-02-24&g=2023-02-24)
+
+### A. Kerncentrales
+
+(1) Totaal-alfa moet uitsluitend worden gerapporteerd wanneer geen nuclidespecifieke informatie over alfastralers beschikbaar is.
+
+### B.1. Lozingen in de lucht
+
+**(1) Zelfs wanneer bij de opwerkingsactiviteiten geen S-35 ontstaat, wordt het opgenomen in de lijst, zie vorige voetnoot.**
+
+## Bijlage 14. behorend bij [artikel 6.3, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.3&z=2023-02-24&g=2023-02-24)
+
+### Samenvattende tabellen voor de rapportering van radionucliden die worden geloosd door kerncentrales en opwerkingsfabrieken in normaal bedrijf
+
+### A.2
+
+(2) Voor gasgekoelde reactoren.
+
+### B.1
+
+### B.2
 
 (2) In het bijzonder als de geloosde hoeveelheid radionucliden geraamd zijn op basis van een berekening, of wanneer in de sommatie substitutiewaarden zijn gebruikt voor beneden de beslissingsdrempel gelegen meetwaarden, of voor informatie inzake de over de chemische/fysische vorm van de lozingen van H-3, C-14 en jodium, of voor informatie over de tijdbasis en de bemonsteringsmethode.
 
 Deze verordening zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3.21. (afvoertermijn)
+
+1. De termijn, bedoeld in [artikel 10.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.7), bedraagt ten hoogste twee jaren na het tijdstip waarop de radioactieve stoffen overeenkomstig artikel 10.7, eerste lid, van het besluit als radioactieve afvalstof zijn aangemerkt.
+
+2. De termijn, bedoeld in [artikel 19, eerste lid en tweede lid, onderdeel i, van het Besluit kerninstallaties](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=19), splijtstoffen en ertsen in samenhang met [artikel 10.7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=10.7), bedraagt ten hoogste twee jaren na het tijdstip waarop de splijtstoffen of ertsen als splijtstof of erts bevattende afvalstoffen zijn aangemerkt.
+
+3. De Autoriteit kan met het oog op de stralingsbescherming van werknemers of leden van de bevolking in een aan de vergunning verbonden voorschrift van de in het eerste of het tweede lid genoemde termijn afwijken.
+
+4. Het eerste en het tweede lid zijn niet van toepassing op het afvoeren van splijtstof of erts bevattende afvalstoffen of van radioactieve afvalstoffen vanaf een inrichting waarvoor op grond van [artikel 15, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) een vergunning is verleend.
 
 ### Hoofdstuk 4. Bronnen en handelingen in geplande blootstellingssituaties
 
@@ -2976,47 +3194,23 @@ Deze verordening zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 4.3.7.2. Aanwijsinstrumenten
 
-#### § 4.4. Deskundigheid uitvoering handelingen
-
 #### § 4.5. Meet- en rekenmethodes
 
 ### Hoofdstuk 5. Deskundigheid
 
-### Hoofdstuk 6. Bouwmaterialen en milieumonitoring
-
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage 7. behorend bij [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.30&z=2023-02-24&g=2023-02-24), tests voor aanwijsinstrumenten
+## Bijlage 7. behorend bij [artikel 4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.3&sub-paragraaf=4.3.7.2&artikel=4.30&z=2023-07-01&g=2023-07-01), tests voor aanwijsinstrumenten
 
-**Controle van de constructie na de vervaardiging van aanwijsinstrumenten die voor verlichtingsdoeleinden radioactieve stoffen bevatten.**
-
-### I
-
-De tests kunnen worden uitgevoerd op onderdelen van de aanwijsinstrumenten. Ze worden echter zo mogelijk met het gehele aanwijsinstrument verricht.
-
-### II
-
-Tests worden verricht op prototypen van elke partij aanwijsinstrumenten met het doel te bepalen of de samenstelling van de radioactieve verf, het gebruikte materiaal en de gebruikte fabricagemethode zodanig zijn dat de onderdelen van het aanwijsinstrument en het gehele aanwijsinstrument voldoen aan de voorgeschreven normen. Prototype-tests worden uitgevoerd op een geschikt monster. De test omvat:
-
-### III
-
-Gedurende de vervaardiging van aanwijsinstrumenten, waarvan de prototypen zijn getest als beschreven onder II, wordt gecontroleerd of de aanwijsinstrumenten en onderdelen daarvan overeenkomen met die welke als prototype zijn getest. Deze controle omvat in ieder geval een volledig visueel onderzoek van elk aanwijsinstrument op barsten of schilferen van de radioactieve stoffen bevattende verf, onvolkomenheden in het doorzichtige deel van het omhulsel van het aanwijsinstrument en de aanwezigheid van waarschuwings- en merktekens, indien deze zijn vereist.
-
-## Bijlage 9. behorende bij [artikel 4.36](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.36&z=2023-02-24&g=2023-02-24), standaardwaarden en -relaties
-
-### Gegevens voor de bepaling van de effectieve volgdosis
+## Bijlage 9. behorende bij [artikel 4.36](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.36&z=2023-07-01&g=2023-07-01), standaardwaarden en -relaties
 
 ### A. Effectieve dosis voor leeftijdsgroep g
 
-### B. Tabellen
-
 ### C. Toelichting op de tabellen
-
-### D. Omrekeningsfactoren voor radon- en thoron-dochters
 
 Potentiële alfa-energie (van dochternucliden van radon en thoron) is de uiteindelijk afgegeven totale energie tijdens het verval van dochternucliden van radon en thoron in de gehele vervalcyclus tot, maar niet met inbegrip van 210Pb voor dochternucliden van 222Rn en tot stabiel 208Pb voor dochternucliden van 220Rn. De eenheid is J (joule). Voor blootstelling aan een gegeven concentratie gedurende een gegeven tijd is de eenheid J.h.m–3.
 
-## Bijlage 10. behorende bij [artikelen 4.37 tot en met 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.37&z=2023-02-24&g=2023-02-24)
+## Bijlage 10. behorende bij [artikelen 4.37 tot en met 4.39](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=4&paragraaf=4.5&artikel=4.37&z=2023-07-01&g=2023-07-01)
 
 ### 1.1. Algemeen
 
@@ -3024,13 +3218,9 @@ Potentiële alfa-energie (van dochternucliden van radon en thoron) is de uiteind
 
 ### 1.3. Bronnen en blootstellingsroutes
 
-De combinatie van emissies, belastingpaden en blootstellingswegen is in het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) gedefinieerd als **blootstellingsroute**, de wijze waarop ioniserende straling of radionucliden personen kunnen bereiken en blootstelling kunnen veroorzaken.
-
 ### 2.1. Toepasbaarheidbeoordeling vóóraf.
 
 ### 2.2. Toepasbaarheidbeoordeling na berekening
-
-Voor de emissiesoorten waarvoor het toetsingniveau wordt overschreden, wordt verwezen naar Deel II, Nadere Analyse.
 
 ### 3.1. Algemeen
 
@@ -3044,31 +3234,25 @@ Voor de emissiesoorten waarvoor het toetsingniveau wordt overschreden, wordt ver
 
 ### 3.3.3. Berekening van het maximale omgevingsdosisequivalent aan de terreingrens (H*max)
 
+### 3.3.4. Afgeleid toetsingsniveau voor externe straling (H*SN)
+
 ### 3.3.5. Toetsing H*max aan H*SN
 
 ### 4.1. Algemeen
 
-De berekening geschiedt op analoge wijze als voor toestellen en ingekapselde bronnen. Voor de wijze waarop deze berekeningen worden uitgevoerd, wordt verwezen naar [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=3&z=2023-02-24&g=2023-02-24).
-
-### 4.3. Lozing in lucht
-
-Voor de bepaling en de beoordeling van lozingen in lucht worden de volgende stappen doorlopen:
-
-### 4.3.1. Berekening van het radiotoxiciteitsequivalent voor inhalatie (Reinh)
+### 4.2. Externe straling
 
 ### 4.3.2. Berekening van de maximale jaarlijkse lozing van elk radionuclide (AL,i)
 
+### 4.3.3. Berekening van de maximale jaarlijkse emissie vanuit een locatie (Lmax)
+
+### 4.3.4. Afgeleid toetsingsniveau voor lozingen in lucht (LSN)
+
 ### 4.3.5. Toetsing Lmax aan LSN
 
-Alleen waarden van Lmax groter dan 0,1 (dwz een tiende van het kleinste toetsingsniveau), behoeven bij deze sommatie te worden betrokken. Indien wordt voldaan aan bovenstaande vergelijking wordt de totale lozing uit de locatie geacht een dosis kleiner dan of gelijk aan het SN te veroorzaken. Indien niet wordt voldaan aan bovenstaande vergelijking wordt voor de lozing in lucht verwezen naar Deel II, Nadere Analyse.
-
-### 4.4. Lozing in water
-
-Voor de bepaling en de beoordeling van lozingen in water worden de volgende stappen doorlopen:
-
-### 4.4.1. Berekening van het radiotoxiciteitsequivalent voor ingestie (Reing)
-
 ### 4.4.2. Berekening van de maximale jaarlijkse lozing van elk radionuclide (Aw,i)
+
+### 4.4.3. Berekening van de maximale jaarlijkse emissie vanuit een locatie (Wmax)
 
 ### 4.4.4. Afgeleid toetsingsniveau voor lozingen in water (WSN)
 
@@ -3076,27 +3260,23 @@ Voor de bepaling en de beoordeling van lozingen in water worden de volgende stap
 
 ### 4.5. Methode voor de bepaling van doses ten gevolge van handelingen met van nature voorkomend radioactief materiaal
 
-In de gevallen waarin de uitkomsten van de schattingen van de effectieve doses hoger zijn dan 1 μSv en 10 μSv in een kalenderjaar voor ingestie- of inhalatiedosis respectievelijk externe stralingsdosis, wordt verwezen naar Deel II, Nadere Analyse.
-
 ### 5.1. Stroomschema
 
 ### 5.2.1. Te beschouwen emissiesoorten en vaststelling emissieomvang
 
-### 5.2.2. Verspreiding en besmetting in het milieu
-
-### 6.1. Algemeen
+### 5.2.3. Belastingpaden
 
 ### 6.2. Blootstelling
 
 ### 6.3. Aandachtsgroep, selectiegroep en representatief persoon
 
-### 6.4.1. Algemeen
+**Omdat de ingestiedosis slechts ten dele plaatsgebonden is, kan in het algemeen niet met zekerheid gezegd worden welke aandachtsgroep de hoogste blootstelling met betrekking tot ingestie heeft. Veelal zal deze echter bestaan uit die personen die een moestuin hebben dáár, waar de depositie radioactieve stoffen op planten (interceptie) het hoogste is, of waar de concentratie radioactieve stoffen in de bodem het hoogste is. Met betrekking tot ingestie van vis zal echter de gemiddelde Nederlandse bevolking zijn.**
 
 ### 6.4.2. Externe blootstelling
 
 ### 6.4.3. Inhalatie
 
-### 6.4.5. Ingestie
+### 6.4.4. Submersie
 
 ### 6.5.1. Algemeen
 
@@ -3108,51 +3288,25 @@ In de gevallen waarin de uitkomsten van de schattingen van de effectieve doses h
 
 ### A.1. Dosiscoëfficiënten, bronconstanten en radiotoxiciteitsequivalenten
 
-dosiscoëfficiënten eing uit annex F, bedoeld in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&bijlage=9&z=2023-02-24&g=2023-02-24) bij deze verordening, onderdeel B
+### Referenties
 
-### A.2. Afwijkende en nieuwe parameterwaarden
-
-Indien om een of andere, te onderbouwen, reden de waarden waarnaar in onderdeel A.1 wordt verwezen niet gebruikt kunnen worden of niet beschikbaar zijn, dient men een berekening uit te voeren uitgaande van de in genoemde referenties aangegeven methodiek. Dit kan bijvoorbeeld het geval zijn in situaties waarin de modelaannames waaronder de dosiscoëfficiënten zijn afgeleid niet representatief zijn. Daarbij dient in het bijzonder rekening te worden gehouden met het volgende:
-
-Voor fysiologische gegevens dienen ICRP-23 **[IC75]** en ICRP-89 **[IC102]** te worden gebruikt, behalve voor het long- en botmodel, waarvoor ICRP-66 **[IC93]** en ICRP-70 **[IC95]**moeten worden gebruikt.
-
-## Bijlage 11. behorend bij [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2023-02-24&g=2023-02-24) Bouwmaterialen
+## Bijlage 11. behorend bij [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2023-07-01&g=2023-07-01) Bouwmaterialen
 
 ### a. Index-methode
 
-### b. CEN methode
+Dit is een methode voor bepaling van het gewichtspercentage van de materialen, die genoemd zijn in [bijlage 6.1 bij de Regeling basisveiligheidsnormen stralingsbescherming](onbekend), dat afhankelijk van de beoogde dichtheid ρ van het te produceren bouwmateriaal, ten hoogste mag worden toegevoegd als component van dit te produceren bouwmateriaal. Deze methode mag alleen worden toegepast bij materialen, die genoemd zijn in bijlage 6.1 van de regeling, waarvan de gewogen som van de aanwezige primordiale radionucliden 226Ra, 232Th en 40K, als bedoeld in [artikel 6.1, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2023-07-01&g=2023-07-01), niet hoger is dan 1.
 
-### c. De gewogen som van de activiteitsconcentraties
-
-Met a1, a2, a3 als activiteitsconcentraties van de respectievelijke primordiale radionucliden 226Ra, 232Th en 40K uitgedrukt in becquerel per kilogram.
-
-Dit is een methode voor bepaling van het gewichtspercentage van de materialen, die genoemd zijn in [bijlage 6.1 bij de Regeling basisveiligheidsnormen stralingsbescherming](onbekend), dat afhankelijk van de beoogde dichtheid ρ van het te produceren bouwmateriaal, ten hoogste mag worden toegevoegd als component van dit te produceren bouwmateriaal. Deze methode mag alleen worden toegepast bij materialen, die genoemd zijn in bijlage 6.1 van de regeling, waarvan de gewogen som van de aanwezige primordiale radionucliden 226Ra, 232Th en 40K, als bedoeld in [artikel 6.1, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.1&z=2023-02-24&g=2023-02-24), niet hoger is dan 1.
-
-## Bijlage 12. behorend bij [artikel 6.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.2&z=2023-02-24&g=2023-02-24)
+## Bijlage 12. behorend bij [artikel 6.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.2&z=2023-07-01&g=2023-07-01)
 
 ### 2. Vereisten voor de meetgegevens
 
 (1) Alleen indien van toepassing.
 
-## Bijlage 13. behorend bij [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.3&z=2023-02-24&g=2023-02-24)
+## Bijlage 13. behorend bij [artikel 6.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.3&z=2023-07-01&g=2023-07-01)
 
 ### A.1. Lozingen in de lucht
 
-(2) Voor gasgekoelde reactoren.
-
-### B.2. Vloeibare lozingen14De vloeibare effluenten van opwerkingsfabrieken worden normaliter behandeld samen met de vloeistoffen van andere faciliteiten op dezelfde locatie.
-
-**(2) De hoeveelheden geloosd uraan mogen in kg worden vermeld.**
-
-## Bijlage 14. behorend bij [artikel 6.3, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.3&z=2023-02-24&g=2023-02-24)
-
-### A.1
-
-### A.2
-
-(3) Totaal-alfa moet uitsluitend worden gerapporteerd wanneer geen nuclidespecifieke informatie over alfastralers beschikbaar is.
-
-### B.1
+## Bijlage 14. behorend bij [artikel 6.3, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040581&hoofdstuk=6&artikel=6.3&z=2023-07-01&g=2023-07-01)
 
 ### B.2
 
