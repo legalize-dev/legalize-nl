@@ -4,7 +4,7 @@ identifier: "BWBR0016459"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016459"
 soort: "ministeriele-regeling"
@@ -41,15 +41,15 @@ Besluit:
 
 ##### Artikel 1
 
-Het formulier, bedoeld in [artikel 7, eerste lid, van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=7), wordt vastgesteld overeenkomstig [bijlage 1 bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=1&z=2023-07-01&g=2023-01-01).
+De producent, bedoeld in [artikel 1 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=1), of de importeur, bedoeld in artikel 1 van dat besluit, maakt bij het indienen van de melding, bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), gebruik van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=1&z=2023-07-01&g=2023-07-01) bij deze regeling opgenomen formulier.
 
 ##### Artikel 2
 
-Het formulier, bedoeld in [artikel 8 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=8), wordt vastgesteld overeenkomstig [bijlage 2 bij deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=2&z=2023-07-01&g=2023-01-01).
+De producent, bedoeld in [artikel 1 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=1), of de importeur, bedoeld in artikel 1 van dat besluit, maakt bij het indienen van het verslag, bedoeld in [artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5), gebruik van het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=2&z=2023-07-01&g=2023-07-01) bij deze regeling opgenomen formulier.
 
 ##### Artikel 3
 
-Wijzigt de Regeling verpakking en verpakkingsafval.
+Deze regeling berust op [artikel 9.5.2, zevende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) in samenhang met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4) en [5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5).
 
 ##### Artikel 4
 
@@ -59,7 +59,7 @@ Deze regeling treedt in werking met ingang van 1 april 2004.
 
 Deze regeling wordt aangehaald als: Regeling beheer autobanden.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&artikel=1&z=2023-07-01&g=2023-01-01)
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&artikel=1&z=2023-07-01&g=2023-07-01)
 
 In de tabel hieronder dient u aan te geven op welke wijze uitvoering gegeven zal worden aan de in het [Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038) gestelde verplichtingen. De toelichting bij dit formulier bevat nadere informatie over de wijze van invulling.
 
@@ -87,7 +87,7 @@ Na de inname van de afgedankte autobanden zullen deze nuttig moeten worden toege
 
 2 Op basis van 5.000.000/jaar voor het jaar 2003, vervolgens geïndexeerd.
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&artikel=2&z=2023-07-01&g=2023-01-01)
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&artikel=2&z=2023-07-01&g=2023-07-01)
 
 Ingevolge de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=8) en [10 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=10) moeten producenten en importeurs van autobanden of aanhangwagens jaarlijks vóór 1 augustus aan de Minister van VROM een verslag zenden met daarin de resultaten van het voorafgaande jaar (van 1 januari tot 1 januari). In het verslag dient informatie te worden gegeven over de volgende zaken:
 
