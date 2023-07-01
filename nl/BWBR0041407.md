@@ -4,7 +4,7 @@ identifier: "BWBR0041407"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2019-01-29"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041407"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 1
 
-1. In deze wet wordt verstaan onder «de verordening»:
+In deze wet wordt verstaan onder «de verordening»:
 
 - a. de Verordening (EU) nr. 2016/1103 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van huwelijksvermogensstelsels (PbEU 2016, L 183), of
 
@@ -81,13 +81,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 4
 
-1. Op de verklaring van uitvoerbaarheid van een authentieke akte als bedoeld in artikel 59 van de verordening zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041407&artikel=2&z=2019-01-29&g=2019-01-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041407&artikel=3&z=2019-01-29&g=2019-01-29) van overeenkomstige toepassing. [Artikel 993 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=993) is niet van toepassing.
+1. Op de verklaring van uitvoerbaarheid van een authentieke akte als bedoeld in artikel 59 van de verordening zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041407&artikel=2&z=2023-07-01&g=2023-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041407&artikel=3&z=2023-07-01&g=2023-07-01) van overeenkomstige toepassing. [Artikel 993 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=993) is niet van toepassing.
 
 2. De instantie, bedoeld in artikel 58, eerste lid, tweede volzin, en in artikel 59, tweede lid, van de verordening, is de notaris die de authentieke akte heeft verleden of de notaris die zijn protocol heeft overgenomen.
 
 ##### Artikel 5
 
-Op de verklaring van uitvoerbaarheid van een gerechtelijke schikking als bedoeld in artikel 60 van de verordening zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041407&artikel=2&z=2019-01-29&g=2019-01-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041407&artikel=3&z=2019-01-29&g=2019-01-29) van overeenkomstige toepassing.
+Op de verklaring van uitvoerbaarheid van een gerechtelijke schikking als bedoeld in artikel 60 van de verordening zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041407&artikel=2&z=2023-07-01&g=2023-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0041407&artikel=3&z=2023-07-01&g=2023-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 6
 
