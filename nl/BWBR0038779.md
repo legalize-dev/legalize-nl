@@ -4,7 +4,7 @@ identifier: "BWBR0038779"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-31"
-last_updated: "2020-09-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038779"
 soort: "ministeriele-regeling"
@@ -84,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 2. Het eerste advies van het Adviescollege, bedoeld in het eerste lid, onder a, wordt vijfentwintig jaar na aanvang van de detentie uitgebracht.
 
-3. Uiterlijk twee jaar na het in het tweede lid bedoelde tijdstip wordt aan de hand van een voorstel tot gratieverlening als bedoeld in [artikel 19 van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) de mogelijkheid tot gratieverlening beoordeeld.
+3. Uiterlijk drie jaar na het in het tweede lid bedoelde tijdstip wordt aan de hand van een voorstel tot gratieverlening als bedoeld in [artikel 19 van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) de mogelijkheid tot gratieverlening beoordeeld.
 
 4. Bij zijn advisering hanteert het Adviescollege de volgende criteria:
 
