@@ -4,7 +4,7 @@ identifier: "BWBR0002489"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002489"
 soort: "AMvB"
@@ -90,7 +90,7 @@ Als dienstbetrekking wordt beschouwd de arbeidsverhouding van degene die door tu
 
 3. Indien binnen een maand na het einde van een arbeidsverhouding met dezelfde opdrachtgever een nieuwe arbeidsverhouding wordt aangegaan, geldt het bepaalde in het tweede lid niet ten aanzien van die nieuwe arbeidsverhouding, tenzij de tijdvakken voor welke die arbeidsverhoudingen zijn aangegaan te zamen korter zijn dan een maand.
 
-4. Voor de toepassing van het eerste lid is met betrekking tot het bruto-inkomen van een thuiswerker en van de hulp van een thuiswerker [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=5&z=2023-01-01&g=2023-01-01) van overeenkomstige toepassing.
+4. Voor de toepassing van het eerste lid is met betrekking tot het bruto-inkomen van een thuiswerker en van de hulp van een thuiswerker [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=5&z=2023-07-01&g=2023-07-01) van overeenkomstige toepassing.
 
 5. Het eerste lid is niet van toepassing met betrekking tot de arbeidsverhouding van de thuiswerker die zich doorgaans laat bijstaan door meer dan twee personen niet zijnde zijn echtgenoot of zijn tot zijn huishouden behorende minderjarige kinderen.
 
@@ -110,13 +110,13 @@ Als dienstbetrekking wordt beschouwd de arbeidsverhouding van degene die door tu
 
 ##### Artikel 2d
 
-Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-01-01&g=2023-01-01) en [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-01-01&g=2023-01-01) wordt verwezen naar een in [artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) genoemd bedrag, wordt, indien toepassing is gegeven aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) van die wet, als zodanig in aanmerking genomen het daarbij laatstelijk in de plaats daarvan gestelde bedrag.
+Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-07-01&g=2023-07-01) en [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-07-01&g=2023-07-01) wordt verwezen naar een in [artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) genoemd bedrag, wordt, indien toepassing is gegeven aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) van die wet, als zodanig in aanmerking genomen het daarbij laatstelijk in de plaats daarvan gestelde bedrag.
 
 ##### Artikel 2e
 
-1. [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-01-01&g=2023-01-01) is niet van toepassing met betrekking tot de arbeidsverhouding van degene, die arbeid verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep.
+1. [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-07-01&g=2023-07-01) is niet van toepassing met betrekking tot de arbeidsverhouding van degene, die arbeid verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep.
 
-2. [Artikel 2**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-01-01&g=2023-01-01), en [artikel 2**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-01-01&g=2023-01-01), zijn niet van toepassing met betrekking tot de arbeidsverhouding van degene, die:
+2. [Artikel 2**b**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-07-01&g=2023-07-01), en [artikel 2**c**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-07-01&g=2023-07-01), zijn niet van toepassing met betrekking tot de arbeidsverhouding van degene, die:
 
 - a. arbeid verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep;
 
@@ -128,11 +128,11 @@ Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofds
 
 - e. anders dan bij wijze van beroep, als auteur of redactiemedewerker werkzaam is voor een uitgever;
 
-- f. werkzaam is op basis van een voor aanvang van de betaling van de beloning gesloten schriftelijke overeenkomst waaruit blijkt dat het de bedoeling is van beide partijen dat de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-01-01&g=2023-01-01) en [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-01-01&g=2023-01-01) niet van toepassing zijn.
+- f. werkzaam is op basis van een voor aanvang van de betaling van de beloning gesloten schriftelijke overeenkomst waaruit blijkt dat het de bedoeling is van beide partijen dat de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-07-01&g=2023-07-01) en [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-07-01&g=2023-07-01) niet van toepassing zijn.
 
 3. Voor de toepassing van het tweede lid, onderdeel a, wordt degene die melkvervoer verricht krachtens een vervoersovereenkomst en die daarvoor een eigen vervoermiddel pleegt te gebruiken, geacht dit vervoer te verrichten in de uitoefening van een bedrijf.
 
-4. [Artikel 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-01-01&g=2023-01-01) is niet van toepassing:
+4. [Artikel 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-07-01&g=2023-07-01) is niet van toepassing:
 
 - a. met betrekking tot de arbeidsverhouding van degene, die arbeid verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep;
 
@@ -142,17 +142,17 @@ Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofds
 
 ##### Artikel 2f
 
-1. Indien een arbeidsverhouding zowel op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01) als op grond van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-01-01&g=2023-01-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-01-01&g=2023-01-01) of [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-01-01&g=2023-01-01), maar niet op grond van [artikel 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-01-01&g=2023-01-01), als dienstbetrekking wordt beschouwd, vindt alleen artikel 2 toepassing.
+1. Indien een arbeidsverhouding zowel op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01) als op grond van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-07-01&g=2023-07-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-07-01&g=2023-07-01) of [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-07-01&g=2023-07-01), maar niet op grond van [artikel 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-07-01&g=2023-07-01), als dienstbetrekking wordt beschouwd, vindt alleen artikel 2 toepassing.
 
-2. Indien een arbeidsverhouding zowel op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-01-01&g=2023-01-01) als op grond van de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-01-01&g=2023-01-01) of [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-01-01&g=2023-01-01), maar niet op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01) of [2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-01-01&g=2023-01-01), als dienstbetrekking wordt beschouwd, vindt alleen artikel 2a toepassing.
+2. Indien een arbeidsverhouding zowel op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-07-01&g=2023-07-01) als op grond van de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-07-01&g=2023-07-01) of [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-07-01&g=2023-07-01), maar niet op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01) of [2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-07-01&g=2023-07-01), als dienstbetrekking wordt beschouwd, vindt alleen artikel 2a toepassing.
 
-3. Indien een arbeidsverhouding ingeval [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-01-01&g=2023-01-01), tweede tot en met vijfde lid, buiten beschouwing wordt gelaten zowel op grond van artikel 2b als op grond van [artikel 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-01-01&g=2023-01-01), maar niet op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-01-01&g=2023-01-01) of [2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-01-01&g=2023-01-01), als dienstbetrekking wordt beschouwd, vindt alleen artikel 2b toepassing.
+3. Indien een arbeidsverhouding ingeval [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-07-01&g=2023-07-01), tweede tot en met vijfde lid, buiten beschouwing wordt gelaten zowel op grond van artikel 2b als op grond van [artikel 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-07-01&g=2023-07-01), maar niet op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-07-01&g=2023-07-01) of [2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-07-01&g=2023-07-01), als dienstbetrekking wordt beschouwd, vindt alleen artikel 2b toepassing.
 
-4. Indien een arbeidsverhouding zowel op grond van [artikel 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-01-01&g=2023-01-01) als op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-01-01&g=2023-01-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-01-01&g=2023-01-01) of [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-01-01&g=2023-01-01) als dienstbetrekking wordt beschouwd, vindt alleen artikel 2ca toepassing. Voor de toepassing van de eerste zin wordt [artikel 2e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2e&z=2023-01-01&g=2023-01-01), buiten beschouwing gelaten.
+4. Indien een arbeidsverhouding zowel op grond van [artikel 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-07-01&g=2023-07-01) als op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-07-01&g=2023-07-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2023-07-01&g=2023-07-01) of [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-07-01&g=2023-07-01) als dienstbetrekking wordt beschouwd, vindt alleen artikel 2ca toepassing. Voor de toepassing van de eerste zin wordt [artikel 2e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2e&z=2023-07-01&g=2023-07-01), buiten beschouwing gelaten.
 
 ##### Artikel 2g
 
-1. Als dienstbetrekking wordt voorts beschouwd, zo nodig in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5) van de wet, de arbeidsverhouding welke niet reeds op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) of de [artikelen 2 tot en met 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01), in samenhang met [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2e&z=2023-01-01&g=2023-01-01), als dienstbetrekking wordt beschouwd, mits:
+1. Als dienstbetrekking wordt voorts beschouwd, zo nodig in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5) van de wet, de arbeidsverhouding welke niet reeds op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) of de [artikelen 2 tot en met 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), in samenhang met [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2e&z=2023-07-01&g=2023-07-01), als dienstbetrekking wordt beschouwd, mits:
 
 - a. de werkzaamheden van degene die de arbeid verricht, geen belastbare winst in zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) genereren;
 
@@ -162,7 +162,7 @@ Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofds
 
 ##### Artikel 2h
 
-1. Als dienstbetrekking wordt voorts beschouwd de arbeidsverhouding van degene die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner een aanmerkelijk belang heeft ingeval die arbeidsverhouding niet reeds op grond van de wet of de [artikelen 2 tot en met 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-01-01&g=2023-01-01), in samenhang met [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2e&z=2023-01-01&g=2023-01-01) of [artikel 2g](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2g&z=2023-01-01&g=2023-01-01), als dienstbetrekking wordt beschouwd.
+1. Als dienstbetrekking wordt voorts beschouwd de arbeidsverhouding van degene die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner een aanmerkelijk belang heeft ingeval die arbeidsverhouding niet reeds op grond van de wet of de [artikelen 2 tot en met 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), in samenhang met [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2e&z=2023-07-01&g=2023-07-01) of [artikel 2g](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2g&z=2023-07-01&g=2023-07-01), als dienstbetrekking wordt beschouwd.
 
 2. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -172,13 +172,13 @@ Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofds
 
 ##### Artikel 3
 
-1. Als degene tot wie de dienstbetrekking bestaat, wordt in de gevallen, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-01-01&g=2023-01-01), [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-01-01&g=2023-01-01), [2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-01-01&g=2023-01-01) en [2g](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2g&z=2023-01-01&g=2023-01-01), beschouwd degene op wie de verplichting rust het loon te betalen.
+1. Als degene tot wie de dienstbetrekking bestaat, wordt in de gevallen, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2023-07-01&g=2023-07-01), [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2023-07-01&g=2023-07-01), [2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2023-07-01&g=2023-07-01) en [2g](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2g&z=2023-07-01&g=2023-07-01), beschouwd degene op wie de verplichting rust het loon te betalen.
 
 2. Ingeval van een sekswerker wordt degene met wie of voor wie de seksuele handelingen worden verricht, niet beschouwd als degene tot wie de dienstbetrekking bestaat.
 
 ##### Artikel 3a
 
-Ingeval degene die ter voorziening in de algemeen noodzakelijke kosten van het bestaan periodieke uitkeringen ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) verstrekt, bij het vaststellen van de hoogte van die uitkeringen rekening houdt met een rechtstreeks uit het familierecht voortvloeiende uitkering of verstrekking in de zin van [artikel 3.101, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.101), niet zijnde een termijn van lijfrente, als bedoeld in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=5&artikel=11&z=2023-01-01&g=2023-01-01), wordt deze geacht die uit het familierecht voortvloeiende uitkering of verstrekking als loon in geld ingevolge de Participatiewet te verstrekken.
+Ingeval degene die ter voorziening in de algemeen noodzakelijke kosten van het bestaan periodieke uitkeringen ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) verstrekt, bij het vaststellen van de hoogte van die uitkeringen rekening houdt met een rechtstreeks uit het familierecht voortvloeiende uitkering of verstrekking in de zin van [artikel 3.101, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.101), niet zijnde een termijn van lijfrente, als bedoeld in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=5&artikel=11&z=2023-07-01&g=2023-07-01), wordt deze geacht die uit het familierecht voortvloeiende uitkering of verstrekking als loon in geld ingevolge de Participatiewet te verstrekken.
 
 ##### Artikel 4
 
@@ -300,43 +300,29 @@ Bij vermindering van de looptijd volgens dit hoofdstuk wordt een periode waarmee
 
 ##### Artikel 10
 
-Vervallen door vernummering.
+1. In de premie, bedoeld in [artikel 18a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), zijn kosten voor vermogensbeheer en voor het afdekken van beleggingsrisico’s begrepen. Het percentage van artikel 18a, eerste lid, van de wet wordt verhoogd met overige kosten ten behoeve van een aanspraak ingevolge een pensioenregeling. De overige kosten, bedoeld in de tweede zin, kunnen niet worden aangewend voor een ouderdomspensioen en partnerpensioen bij overlijden op of na pensioendatum.
+
+2. Het eerste lid is van overeenkomstige toepassing op de maximale premie, bedoeld in [artikel 38r, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38r).
 
 ### Hoofdstuk 4. Pensioenregelingen ([Hoofdstuk IIB van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB))
 
 ##### Artikel 10a
 
-1. Als perioden die meetellen als dienstjaren dan wel als diensttijd, als bedoeld in de [artikelen 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18b), [18c](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18c), [38c](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38c), [38d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38d) en [38f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38f), worden in aanmerking genomen:
+1. Als perioden die meetellen als dienstjaren als bedoeld in [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), worden in aanmerking genomen:
 
-- a. de periode gedurende welke de dienstbetrekking heeft geduurd, daaronder begrepen perioden van – al dan niet in deeltijd –: met dien verstande dat bij dienstbetrekkingen in deeltijd de aldus in aanmerking te nemen periode wordt verminderd overeenkomstig de deeltijdfactor.
-
-- 1°. ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6);
-
-- 2°. sabbatsverlof krachtens een schriftelijk vastgelegde regeling van de inhoudingsplichtige gedurende ten hoogste twaalf maanden;
-
-- 3°. studieverlof voor cursussen, voor opleidingen of studie voor een beroep, voor het op peil houden van de vakkennis en voor cursussen, opleidingen of studie die door de inhoudingsplichtige worden gefinancierd;
+- a. de periode gedurende welke de dienstbetrekking heeft geduurd, met dien verstande dat bij dienstbetrekkingen in deeltijd de aldus in aanmerking te nemen periode wordt verminderd overeenkomstig de deeltijdfactor;
 
 - b. perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een met de inhoudingsplichtige verbonden lichaam als bedoeld in [artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a), dat niet in Nederland is gevestigd, voorzover hij bij dat verbonden lichaam niet heeft deelgenomen aan een pensioenregeling;
 
-- c. perioden gedurende welke, in aansluiting op de in de onderdelen a en b bedoelde perioden, na onvrijwillig ontslag loongerelateerde uitkeringen worden ontvangen, of, onder door Onze Minister te stellen voorwaarden, perioden na ontslag van ten hoogste drie jaar, doch van ten hoogste tien jaar ingeval vanaf het vierde kalenderjaar na het jaar van ontslag in het kalenderjaar geen hoger bedrag als pensioengevend loon in aanmerking wordt genomen dan het in het tweede kalenderjaar voorafgaand aan dat kalenderjaar door de gewezen werknemer genoten gezamenlijke bedrag van:
+- c. perioden gedurende welke, in aansluiting op de in de onderdelen a en b bedoelde perioden, na onvrijwillig ontslag loongerelateerde uitkeringen worden ontvangen, of, perioden na ontslag van ten hoogste tien jaar voor zover in de laatstgenoemde perioden geen pensioen wordt opgebouwd uit hoofde van een dienstbetrekking die is ontstaan na aanvang van die perioden;
 
-- 1°. de winst uit onderneming vóór toevoeging aan en afneming van de oudedagsreserve en vóór de ondernemersaftrek;
+- d. perioden gedurende welke, in aansluiting op de in de onderdelen a en b bedoelde perioden, of in aansluiting op de in onderdeel c bedoelde perioden na onvrijwillig ontslag gedurende welke loongerelateerde uitkeringen worden ontvangen, uitkeringen worden ontvangen ingevolge een prepensioenregeling als bedoeld in [artikel 38d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38d);
 
-- 2°. het belastbare loon;
+- e. dienstjaren ten gevolge van waardeoverdracht van pensioenkapitaal, als bedoeld in de [artikelen 70a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70a), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=71), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=74), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=75), [85 tot en met 88](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=85) en [91 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=91), naar de huidige inhoudingsplichtige of de pensioenuitvoerder van de huidige inhoudingsplichtige, voor zover deze jaren op basis van een adequate diensttijdadministratie kunnen worden vastgesteld;
 
-- 3°. het belastbare resultaat uit overige werkzaamheden; en
+- f. perioden waarin de werknemer een tot zijn huishouden behorend kind heeft verzorgd dat de leeftijd van twaalf jaar niet heeft bereikt, met dien verstande dat de perioden waarin de kinderen die hij heeft verzorgd de leeftijd van zes jaar hebben bereikt, meetellen voor de helft en waarbij in het geval van dienstbetrekkingen in deeltijd de aldus in aanmerking te nemen periode wordt verminderd overeenkomstig de deeltijdfactor.
 
-- 4°. de belastbare periodieke uitkeringen en verstrekkingen;
-
-- d. perioden gedurende welke, in aansluiting op de in onderdelen a en b bedoelde perioden, uitkeringen worden ontvangen ingevolge een regeling voor vervroegde uittreding als bedoeld in [artikel 38c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38c);
-
-- e. perioden gedurende welke, in aansluiting op de in onderdelen a en b bedoelde perioden, uitkeringen worden ontvangen ingevolge een prepensioenregeling als bedoeld in [artikel 38d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38d);
-
-- f. dienstjaren ten gevolge van waardeoverdracht van pensioenkapitaal, als bedoeld in de [artikelen 70a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70a), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=71), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=74), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=75), [85 tot en met 88](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=85) en [91 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=91), naar de huidige inhoudingsplichtige of de pensioenuitvoerder van de huidige inhoudingsplichtige, voor zover deze jaren op basis van een adequate diensttijdadministratie kunnen worden vastgesteld;
-
-- g. perioden waarin de werknemer een tot zijn huishouden behorend kind heeft verzorgd dat de leeftijd van twaalf jaar niet heeft bereikt, met dien verstande dat de perioden waarin de kinderen die hij heeft verzorgd de leeftijd van zes jaar hebben bereikt, meetellen voor de helft. Bij dienstbetrekkingen in deeltijd wordt de aldus in aanmerking te nemen periode verminderd overeenkomstig de deeltijdfactor.
-
-2. In afwijking van het eerste lid, onderdeel a, is met betrekking tot perioden vóór 8 juli 1994 gedurende welke de werknemer in dienstbetrekking heeft gestaan tot vorige inhoudingsplichtigen, inkoop van ontbrekende dienstjaren tot 8 juli 1994 toegestaan indien de werknemer aannemelijk kan maken dat er, gerelateerd aan de pensioenregeling bij de huidige inhoudingsplichtige, als gevolg van het ontbreken van die dienstjaren sprake is van een pensioentekort, daaronder begrepen perioden vóór 8 juli 1994 gedurende welke in het buitenland werkzaamheden zijn verricht voor een met een vorige inhoudingsplichtige verbonden lichaam als bedoeld in [artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a), dat niet in Nederland is gevestigd.
+2. Indien de periode, bedoeld in het eerste lid, onderdeel a, bestaat uit een periode van onbetaald verlof, wordt die laatstgenoemde periode uitsluitend als dienstjaren in aanmerking genomen voor zover in die periode geen cumulatie plaatsvindt met opbouw in een pensioenregeling bij een andere inhoudingsplichtige of deelname aan een beroeps- of bedrijfstakpensioenregeling. De inhoudingsplichtige mag hierbij afgaan op een verklaring van de werknemer.
 
 3. In afwijking van het eerste lid, onderdeel a, is met betrekking tot perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een vorige inhoudingsplichtige, inkoop van ontbrekende dienstjaren toegestaan voor zover de werknemer aannemelijk kan maken dat er, gerelateerd aan de pensioenregeling bij de huidige inhoudingsplichtige, sprake is van een pensioentekort als gevolg van het ontbreken van de mogelijkheid van waarde-overdracht van pensioenkapitaal als bedoeld in de [artikelen 70a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70a), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=71), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=74), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=75), [85 tot en met 88](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=85) en [91 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=91).
 
@@ -344,13 +330,43 @@ Vervallen door vernummering.
 
 ##### Artikel 10b
 
-1. Als loonbestanddelen, als bedoeld in [artikel 18g, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) komen in aanmerking alle loonbestanddelen, met uitzondering van het genot van een ter beschikking gestelde auto. Voorzover over loonbestanddelen pensioen wordt opgebouwd volgens een eindloonstelsel komen loonstijgingen in de periode die aanvangt vijf jaar direct voorafgaande aan de in de pensioenregeling vastgestelde ingangsdatum in aanmerking tot ten hoogste 2 percent boven de gemiddelde loonindex voor de CAO-lonen per maand, inclusief bijzondere beloningen, zoals berekend door het Centraal Bureau voor de Statistiek, met dien verstande dat in elk geval in aanmerking komen loonstijgingen als gevolg van gangbare functiewijzigingen of gangbare leeftijdsperiodieken.
+1. Als loonbestanddelen als bedoeld in [artikel 18g, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) komen in aanmerking:
 
-2. Voor de toepassing van [artikel 18g, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) komen niet tot het regelmatig genoten loon behorende loonbestanddelen slechts in aanmerking voorzover de opbouw van het pensioen volgens een ander stelsel dan het eindloonstelsel plaatsvindt.
+- a. alle loonbestanddelen, met uitzondering van het genot van een ter beschikking gestelde auto;
 
-3. Voor de toepassing van [artikel 18g, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) mag een loonsverlaging buiten beschouwing blijven, voorzover deze het gevolg is van het terugtreden naar een lager gekwalificeerde functie, in de periode die aanvangt 10 jaar direct voorafgaande aan de in de pensioenregeling vastgestelde ingangsdatum.
+- b. ingehouden bedragen als bedoeld in [artikel 11, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11);
 
-4. Voor de toepassing van [artikel 18g, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) mag een loonsverlaging buiten beschouwing blijven, voor zover deze het gevolg is van ziekte of arbeidsongeschiktheid.
+- c. loonbestanddelen die worden geruild tegen een vermindering van de arbeidstijd tot een maximum van 10% van de overeengekomen arbeidsduur, mits:
+
+- 1°. De mogelijkheid van deze ruil schriftelijk is vastgelegd in een regeling waaraan ten minste driekwart van de werknemers kan deelnemen die behoren tot een organisatorische of functionele eenheid van de inhoudingsplichtige;
+
+- 2°. Het een regeling betreft waarbij de verlaging van het loon tijdelijk is; en
+
+- 3°. De werknemer ten minste één keer per jaar de keuze heeft om de samenstelling van zijn loon te wijzigen.
+
+2. In afwijking van het eerste lid, onderdeel a, komen eindheffingsbestanddelen als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) slechts in aanmerking, indien deze bestanddelen geïndividualiseerd zijn.
+
+3. In afwijking van het eerste lid, onderdeel a, mogen voor de toepassing van de [artikelen 18b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18b) en [18c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18c) regelmatig genoten loonbestanddelen worden gesteld op het gemiddelde van die regelmatig genoten loonbestanddelen in ten hoogste de laatste vijf kalenderjaren direct voorafgaande aan het kalenderjaar van overlijden van de werknemer. De eerste zin is van overeenkomstige toepassing op niet regelmatig genoten loonbestanddelen.
+
+4. Gedurende perioden van onbetaald verlof als bedoeld in [artikel 10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4&artikel=10a&z=2023-07-01&g=2023-07-01), wordt voor de toepassing van het eerste lid uitgegaan van de direct voorafgaande aan die perioden genoten loonbestanddelen, dan wel de direct na afloop van die perioden genoten loonbestanddelen.
+
+5. Gedurende perioden na onvrijwillig ontslag waarin loongerelateerde uitkeringen worden ontvangen als bedoeld in [artikel 10a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4&artikel=10a&z=2023-07-01&g=2023-07-01), wordt voor de toepassing van het eerste lid uitgegaan van de direct voorafgaande aan die perioden genoten loonbestanddelen uit tegenwoordige dienstbetrekking.
+
+6. Voor de toepassing van het eerste lid, onderdeel a, wordt gedurende andere perioden na ontslag dan bedoeld in het vijfde lid, uitgegaan van de direct voorafgaande aan die perioden genoten loonbestanddelen uit tegenwoordige dienstbetrekking. De eerste zin geldt voor een periode van ten hoogste drie jaar. Vanaf het vierde kalenderjaar na ontslag wordt geen hoger bedrag als pensioengevend loon in aanmerking genomen dan het door de gewezen werknemer in het tweede kalenderjaar voorafgaand aan het kalenderjaar genoten gezamenlijke bedrag van:
+
+- 1°. De winst uit onderneming vóór de ondernemersaftrek;
+
+- 2°. De genoten loonbestanddelen uit tegenwoordige dienstbetrekking;
+
+- 3°. Het belastbare resultaat uit overige werkzaamheden; en
+
+- 4°. De belastbare periodieke uitkeringen en verstrekkingen.
+
+7. Voor de toepassing van [artikel 18g, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) mag een loonsverlaging buiten beschouwing blijven, voor zover deze het gevolg is van het terugtreden naar een lager gekwalificeerde functie, in de periode die aanvangt 10 jaar direct voorafgaande aan de in de pensioenregeling vastgestelde ingangsdatum.
+
+8. Voor de toepassing van [artikel 18g, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) mag een loonsverlaging buiten beschouwing blijven, voor zover deze het gevolg is van ziekte of arbeidsongeschiktheid.
+
+9. Voor de toepassing van het vierde tot en met achtste lid kan het loon gedurende de aldaar bedoelde perioden worden geïndexeerd met de loonindex in de bedrijfstak waarin de werknemer werkzaam is, dan wel met de gemiddelde loonindex voor de CAO-lonen per maand, inclusief bijzondere beloningen, zoals berekend door het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 10c
 
@@ -466,11 +482,11 @@ Vervallen
 
 - d. uitkeringen ingevolge de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), ingevolge de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) en ingevolge de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968);
 
-- e. vervallen;
+- e. uitkeringen ingevolge een pensioenregeling waaraan wordt deelgenomen op grond van [artikel 150a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a);
 
 - f. uitkeringen ingevolge de Algemene Oorlogsongevallenregeling (Staatsblad van Nederlandsch-Indië 1946 (nr. 48) en de beschikking van de Luitenant-Gouverneur-Generaal van Nederlandsch-Indië van 5 november 1946, nr. 6 (Staatsblad van Nederlandsch-Indië 1946, nr. 118), alsmede op deze uitkeringen betrekking hebbende toe- en bijslagen;
 
-- g. uitkeringen ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), alsmede de in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=3a&z=2023-01-01&g=2023-01-01) bedoelde uit het familierecht voortvloeiende periodieke uitkeringen of verstrekkingen;
+- g. uitkeringen ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), alsmede de in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=3a&z=2023-07-01&g=2023-07-01) bedoelde uit het familierecht voortvloeiende periodieke uitkeringen of verstrekkingen;
 
 - h. uitkeringen ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
@@ -586,7 +602,7 @@ Ten aanzien van de in [artikel 33, tweede lid, onderdeel c, onder 1°, van de we
 
 ##### Artikel 12c
 
-Vervallen
+Voor de toepassing van [artikel 10b, zesde lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4&artikel=10b&z=2023-07-01&g=2023-07-01), blijft een toevoeging aan en afneming van de oudedagsreserve, bedoeld in [artikel 10a.29, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.29), buiten aanmerking.
 
 ##### Artikel 13
 
@@ -598,53 +614,49 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 ##### Artikel 10aa
 
-| Indien bij een middelloonstelsel bij de toepassing van [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) een percentage per dienstjaar wordt toegepast van | Indien bij een middelloonstelsel bij de toepassing van [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) een percentage per dienstjaar wordt toegepast van | wordt het in [artikel 18a, zevende lid, onderdeel a, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), bedoelde bedrag vervangen door 75% van |
+| **Indien voor de toepassing van artikel 18a, eerste lid, van de wet een percentage per dienstjaar wordt toegepast van** | **Indien voor de toepassing van artikel 18a, eerste lid, van de wet een percentage per dienstjaar wordt toegepast van** | **wordt het in artikel 18a, derde lid, van de wet bedoelde bedrag vervangen door** |
 | --- | --- | --- |
-| meer dan | maar niet meer dan |   |
-| – | 1,701% | € 13.033 |
-| 1,701% | 1,788% | € 14.714 |
+| **meer dan** | **maar niet meer dan** |   |
+| – | 27,216% | € 13.033 |
+| 27,216% | 28,608% | € 14.714 |
 
-| Indien bij een eindloonstelsel bij de toepassing van [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) een percentage per dienstjaar wordt toegepast van | Indien bij een eindloonstelsel bij de toepassing van [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) een percentage per dienstjaar wordt toegepast van | wordt het in [artikel 18a, zevende lid, onderdeel a, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), bedoelde bedrag vervangen door 66,28% van |
+| **Indien de belastingplichtige bij het einde van het kalenderjaar** | **en voor de toepassing van artikel 38r, eerste lid, van de wet een percentage per dienstjaar wordt toegepast van** | **wordt het in artikel 18a, derde lid, van de wet bedoelde bedrag vervangen door** |
 | --- | --- | --- |
-| meer dan | maar niet meer dan |   |
-| – | 1,483% | € 14.747 |
-| 1,483% | 1,570% | € 16.647 |
+|   | **niet meer dan** | **€ 13.033** |
+| 15 jaar of ouder, doch jonger dan 20 jaar is | 17,3% |   |
+| 20 jaar of ouder, doch jonger dan 25 jaar is | 18,0% |   |
+| 25 jaar of ouder, doch jonger dan 30 jaar is | 19,1% |   |
+| 30 jaar of ouder, doch jonger dan 35 jaar is | 19,6% |   |
+| 35 jaar of ouder, doch jonger dan 40 jaar is | 20,4% |   |
+| 40 jaar of ouder, doch jonger dan 45 jaar is | 24,0% |   |
+| 45 jaar of ouder, doch jonger dan 50 jaar is | 26% |   |
+| 50 jaar of ouder, doch jonger dan 55 jaar is | 28,2% |   |
+| 55 jaar of ouder, doch jonger dan 60 jaar is | 30,7% |   |
+| 60 jaar of ouder, doch jonger dan 65 jaar is | 33,6% |   |
+| 65 jaar of ouder is | 36,3% |   |
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing met betrekking tot een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen als bedoeld in [artikel 18a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a).
+| **Indien de belastingplichtige bij het einde van het kalenderjaar** | **en voor de toepassing van artikel 38r, eerste lid van de wet een percentage per dienstjaar wordt toegepast van** | **en voor de toepassing van artikel 38r, eerste lid van de wet een percentage per dienstjaar wordt toegepast van** | **wordt het in artikel 18a, derde lid, bedoelde bedrag vervangen door** |
+| --- | --- | --- | --- |
+|   | **meer dan** | **maar niet meer dan** | **€ 14.714** |
+| 15 jaar of ouder, doch jonger dan 20 jaar is | 17,3% | 18,1% |   |
+| 20 jaar of ouder, doch jonger dan 25 jaar is | 18,0% | 18,9% |   |
+| 25 jaar of ouder, doch jonger dan 30 jaar is | 19,1% | 20,0% |   |
+| 30 jaar of ouder, doch jonger dan 35 jaar is | 19,6% | 20,6% |   |
+| 35 jaar of ouder, doch jonger dan 40 jaar is | 20,4% | 21,4% |   |
+| 40 jaar of ouder, doch jonger dan 45 jaar is | 24,0% | 25,2% |   |
+| 45 jaar of ouder, doch jonger dan 50 jaar is | 26% | 27,3% |   |
+| 50 jaar of ouder, doch jonger dan 55 jaar is | 28,2% | 29,6% |   |
+| 55 jaar of ouder, doch jonger dan 60 jaar is | 30,7% | 32,2% |   |
+| 60 jaar of ouder, doch jonger dan 65 jaar is | 33,6% | 35,3% |   |
+| 65 jaar of ouder is | 36,3% | 38,1% |   |
 
-4. De vorige leden zijn van overeenkomstige toepassing met betrekking tot partnerpensioen en wezenpensioen, met dien verstande dat daarbij de in het eerste lid en het tweede lid opgenomen percentages naar evenredigheid worden verlaagd overeenkomstig de verhouding tussen de in [artikel 18b, tweede en eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18b), onderscheidenlijk [artikel 18c, tweede en eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18c) genoemde percentages per dienstjaar en die in [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a).
+4. Indien toepassing van [artikel 18a, zesde of zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) of [artikel 38r, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38r) leidt tot een wijziging van de percentages, bedoeld in artikel 18a, eerste lid, van de wet, onderscheidenlijk artikel 38r, eerste lid, van de wet, worden de in het eerste, tweede en derde lid bedoelde percentages bij ministeriële regeling vervangen door andere. Deze percentages worden berekend door de te vervangen percentages te vermenigvuldigen met de verhouding tussen het ingevolge artikel 18a, eerste lid, van de wet, onderscheidenlijk artikel 38r, eerste lid, van de wet, in het kalenderjaar in aanmerking te nemen percentage en het ingevolge artikel 18a, eerste lid, van de wet, onderscheidenlijk artikel 38r, eerste lid, van de wet, in het vorige kalenderjaar in aanmerking te nemen percentage.
 
-5. Bij het begin van het kalenderjaar worden de in het eerste en tweede lid bedoelde bedragen bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de verhouding tussen het ingevolge [artikel 18a, zevende lid, onderdeel a, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) in het kalenderjaar in aanmerking te nemen bedrag en het ingevolge [artikel 18a, zevende lid, onderdeel a, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) in het vorige kalenderjaar in aanmerking te nemen bedrag.
+5. Bij het begin van het kalenderjaar worden de in het eerste, tweede en derde lid bedoelde bedragen bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de verhouding tussen het ingevolge [artikel 18a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) in het kalenderjaar in aanmerking te nemen bedrag en het ingevolge artikel 18a, derde lid, van de wet in het vorige kalenderjaar in aanmerking te nemen bedrag.
 
 ##### Artikel 10ab
 
-1. Als perioden die meetellen als deelnemingsjaren, als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18) en [18e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18e), worden in aanmerking genomen:
-
-- a. de perioden die ingevolge [artikel 10a, eerste lid, onderdelen a, b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4&artikel=10a&z=2023-01-01&g=2023-01-01), als dienstjaren in aanmerking zijn genomen;
-
-- b. de perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een andere inhoudingsplichtige, indien ter zake van het in die dienstbetrekking opgebouwde ouderdomspensioen waardeoverdracht van pensioenkapitaal, als bedoeld in de [artikelen 70a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70a), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=71), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=74), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=75), [85 tot en met 88](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=85) en [91 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=91), naar de huidige inhoudingsplichtige of de pensioenuitvoerder van de huidige inhoudingsplichtige heeft plaatsgevonden;
-
-- c. de perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een andere inhoudingsplichtige, indien ter zake van deze perioden met toepassing van [artikel 10a, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4&artikel=10a&z=2023-01-01&g=2023-01-01), inkoop van dienstjaren heeft plaatsgevonden; voor zover met schriftelijke bescheiden kan worden gestaafd dat deze perioden bij de opbouw van het ouderdomspensioen in aanmerking zijn genomen.
-
-2. Als perioden die meetellen als deelnemingsjaren kunnen eveneens in aanmerking worden genomen dienstjaren ten gevolge van een voor 1 januari 2005 gedane waardeoverdracht van pensioenkapitaal, als bedoeld in de [artikelen 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32), [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32a) of [32b van de Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089&artikel=32b), zoals deze artikelen luidden op 31 december 2006, voor zover met schriftelijke bescheiden kan worden gestaafd dat deze dienstjaren bij de opbouw van het ouderdomspensioen in aanmerking zijn genomen.
-
-3. Als perioden die meetellen als deelnemingsjaren kunnen eveneens in aanmerking worden genomen perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een andere inhoudingsplichtige of een met de inhoudingsplichtige of een andere inhoudingsplichtige verbonden lichaam als bedoeld in [artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a), dat niet in Nederland is gevestigd, voor zover met schriftelijke bescheiden kan worden gestaafd dat deze perioden door die andere inhoudingsplichtige of dat lichaam bij de opbouw van het ouderdomspensioen of van een voorziening voor ouderdom ingevolge een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), in aanmerking zijn genomen.
-
-4. Bij dienstbetrekkingen in deeltijd wordt het ingevolge [artikel 18e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18e) geldende maximum verlaagd overeenkomstig de per deelnemingsjaar geldende deeltijdfactor, met dien verstande dat [artikel 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4&artikel=10a&z=2023-01-01&g=2023-01-01), van overeenkomstige toepassing is.
-
-5. Bij toepassing van het eerste lid, onderdeel c, of derde lid, wordt voor de toepassing van [artikel 18e, eerste lid, onderdeel b, en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18e) het deelnemingsjarenpensioen opgevat met inbegrip van de uit die andere dienstbetrekking voortvloeiende:
-
-- a. uitkeringen ingevolge een ouderdomspensioen;
-
-- b. uitkeringen ingevolge een deelnemingsjarenpensioen;
-
-- c. uitkeringen ingevolge een overbruggingspensioen als bedoeld in [artikel 18e](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18e), zoals dit artikel op 31 december 2004 luidde;
-
-- d. uitkeringen ingevolge een regeling voor vervroegde uittreding als bedoeld in [artikel 18i](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18i), zoals dit artikel op 31 december 2004 luidde;
-
-- e. uitkeringen ingevolge een prepensioen als bedoeld in [artikel 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38a), zoals dit artikel op 31 december 2004 luidde.
-
-6. Indien perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een met de inhoudingsplichtige of een andere inhoudingsplichtige verbonden lichaam als bedoeld in [artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=10a), dat niet in Nederland is gevestigd, in aanmerking worden genomen als deelnemingsjaren, wordt voor de toepassing van [artikel 18e, eerste lid, onderdeel b, en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18e) het deelnemingsjarenpensioen opgevat met inbegrip van de uitkeringen ingevolge de bij dat lichaam opgebouwde voorziening voor ouderdom in een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7).
+Vervallen
 
 ### Hoofdstuk 5. Aanvullende regelingen ([Hoofdstuk VI van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VI))
 
@@ -766,7 +778,7 @@ Indien de ingekomen werknemer niet langer specifieke deskundigheid bezit die op 
 
 ##### Artikel 10eg
 
-Indien een verzoek om toepassing van de bewijsregel als bedoeld in [artikel 10ei](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ei&z=2023-01-01&g=2023-01-01) niet is gedaan binnen vier maanden na aanvang van de tewerkstelling als ingekomen werknemer door de inhoudingsplichtige, wordt de looptijd verminderd met de periode tussen het tijdstip waarop de ingekomen werknemer door de inhoudingsplichtige is tewerkgesteld en het tijdstip waarop de beschikking, bedoeld in [artikel 10ei](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ei&z=2023-01-01&g=2023-01-01), voor het eerst van toepassing is.
+Indien een verzoek om toepassing van de bewijsregel als bedoeld in [artikel 10ei](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ei&z=2023-07-01&g=2023-07-01) niet is gedaan binnen vier maanden na aanvang van de tewerkstelling als ingekomen werknemer door de inhoudingsplichtige, wordt de looptijd verminderd met de periode tussen het tijdstip waarop de ingekomen werknemer door de inhoudingsplichtige is tewerkgesteld en het tijdstip waarop de beschikking, bedoeld in [artikel 10ei](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ei&z=2023-07-01&g=2023-07-01), voor het eerst van toepassing is.
 
 ##### Artikel 10eh
 
@@ -784,7 +796,7 @@ De inhoudingsplichtige wordt voor de toepassing van de bepalingen van dit hoofds
 
 - a. de inhoudingsplichtige en de zonder onderbreking voorafgaande inhoudingsplichtige behoren tot een zelfde samenhangende groep inhoudingsplichtigen in de zin van [artikel 27e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), en
 
-- b. aannemelijk is dat de werknemer opnieuw zou worden aangemerkt als ingekomen werknemer indien [artikel 10ed](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ed&z=2023-01-01&g=2023-01-01) zou worden toegepast.
+- b. aannemelijk is dat de werknemer opnieuw zou worden aangemerkt als ingekomen werknemer indien [artikel 10ed](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ed&z=2023-07-01&g=2023-07-01) zou worden toegepast.
 
 ### Hoofdstuk 6. Belastingheffing van artiesten, beroepssporters en buitenlandse gezelschappen ([hoofdstuk VII](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VII) en [VIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VIIA))
 
@@ -800,7 +812,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 ##### Artikel 10ba
 
-Voor zover het pensioengevend loon bestaat uit tot het regelmatig genoten loon behorende loonbestanddelen, mag voor de bepaling van het gemiddelde pensioengevend loon, bedoeld in de [artikelen 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) en [18e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18e), worden uitgegaan van de loopbaanontwikkeling, bedoeld in artikel 18a, derde lid, onderdeel b, van de wet.
+Vervallen
 
 ### Hoofdstuk 4a. Heffing van de inhoudingsplichtige ([hoofdstuk V van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=V)): extraterritoriale werknemers
 
