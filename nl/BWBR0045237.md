@@ -4,7 +4,7 @@ identifier: "BWBR0045237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2022-11-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045237"
 soort: "ministeriele-regeling"
@@ -64,17 +64,17 @@ In deze regeling wordt verstaan onder:
 
 1. Een aanvraag tot het verlenen van een vergunning als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) of een ontheffing als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) geschiedt door het indienen van een volledig ingevuld formulier of elektronische informatiedrager dat in ieder geval de in dit artikel genoemde elementen bevat, zoals opgenomen in het corresponderende deel van de bijlage bij deze regeling.
 
-2. De aanvraag van een vergunning tot het uitoefenen van het horecabedrijf of het slijtersbedrijf door natuurlijke personen of rechtspersonen, met uitzondering van een paracommerciële rechtspersoon als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1) bevat de in [Model A](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=A&z=2022-11-01&g=2022-11-01) van de bijlage genoemde elementen, een en ander vergezeld van de benodigde verklaringen.
+2. De aanvraag van een vergunning tot het uitoefenen van het horecabedrijf of het slijtersbedrijf door natuurlijke personen of rechtspersonen, met uitzondering van een paracommerciële rechtspersoon als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1) bevat de in [Model A](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=A&z=2023-07-01&g=2023-07-01) van de bijlage genoemde elementen, een en ander vergezeld van de benodigde verklaringen.
 
-3. De aanvraag van een vergunning tot het uitoefenen van het horecabedrijf door een paracommerciële rechtspersoon als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1) bevat de in [Model B](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=B&z=2022-11-01&g=2022-11-01) van de bijlage genoemde elementen.
+3. De aanvraag van een vergunning tot het uitoefenen van het horecabedrijf door een paracommerciële rechtspersoon als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1) bevat de in [Model B](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=B&z=2023-07-01&g=2023-07-01) van de bijlage genoemde elementen.
 
-4. De aanvraag van een ontheffing als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) bevat de in [Model C](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=C&z=2022-11-01&g=2022-11-01) van de bijlage genoemde elementen.
+4. De aanvraag van een ontheffing als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) bevat de in [Model C](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=C&z=2023-07-01&g=2023-07-01) van de bijlage genoemde elementen.
 
 ##### Artikel 2.2
 
-1. Een besluit tot het verlenen van een vergunning als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) wordt gesteld op een formulier dat overeenkomt met het daartoe als [model D-1](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=D-1&z=2022-11-01&g=2022-11-01) van de bijlage opgenomen model indien het horecabedrijf of het slijtersbedrijf wordt uitgevoerd door natuurlijke personen of rechtspersonen, met uitzondering van paracommerciële rechtspersonen.
+1. Een besluit tot het verlenen van een vergunning als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) wordt gesteld op een formulier dat overeenkomt met het daartoe als [model D-1](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=D-1&z=2023-07-01&g=2023-07-01) van de bijlage opgenomen model indien het horecabedrijf of het slijtersbedrijf wordt uitgevoerd door natuurlijke personen of rechtspersonen, met uitzondering van paracommerciële rechtspersonen.
 
-2. Een besluit tot het verlenen van een vergunning als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) wordt gesteld op een formulier dat overeenkomt met het daartoe als [model D-2](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=D-2&z=2022-11-01&g=2022-11-01) van de bijlage opgenomen model indien het horecabedrijf wordt uitgeoefend door een paracommerciële rechtspersoon.
+2. Een besluit tot het verlenen van een vergunning als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) wordt gesteld op een formulier dat overeenkomt met het daartoe als [model D-2](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&bijlage=D-2&z=2023-07-01&g=2023-07-01) van de bijlage opgenomen model indien het horecabedrijf wordt uitgeoefend door een paracommerciële rechtspersoon.
 
 ### Hoofdstuk 3. Toezicht
 
@@ -84,13 +84,13 @@ Met het toezicht op de naleving van het bij en krachtens de [Alcoholwet](https:/
 
 ##### Artikel 3.2
 
-1. De ambtenaren, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=3&artikel=3.1&z=2022-11-01&g=2022-11-01), zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de bepalingen, genoemd in [artikel 44aa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44aa) in vervoermiddelen, op legerplaatsen en lokaliteiten en op luchtvaartterreinen, bedoeld in [artikel 1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1).
+1. De ambtenaren, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=3&artikel=3.1&z=2023-07-01&g=2023-07-01), zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de bepalingen, genoemd in [artikel 44aa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44aa) in vervoermiddelen, op legerplaatsen en lokaliteiten en op luchtvaartterreinen, bedoeld in [artikel 1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1).
 
 2. De ambtenaren, aangewezen door de burgemeester krachtens [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=41), zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de bepalingen, genoemd in [artikel 44a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44a), en met het toezicht op de naleving van de [artikelen 25e](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25e) en [25f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25f).
 
 ##### Artikel 3.3
 
-De ambtenaren, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=3&artikel=3.2&z=2022-11-01&g=2022-11-01):
+De ambtenaren, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=3&artikel=3.2&z=2023-07-01&g=2023-07-01):
 
 - a. hebben met goed gevolg het examen toezichthouder [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) afgelegd dat voldoet aan de eisen zoals vastgesteld door de examencommissie Drank- en Horecawet van de Stichting Exameninstelling Toezicht en Handhaving, gevestigd te Amersfoort; en
 
@@ -98,7 +98,7 @@ De ambtenaren, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/j
 
 ##### Artikel 3.4
 
-[Artikel 3.3, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=3&artikel=3.3&z=2022-11-01&g=2022-11-01), is niet van toepassing op:
+[Artikel 3.3, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=3&artikel=3.3&z=2023-07-01&g=2023-07-01), is niet van toepassing op:
 
 - a. een ambtenaar die voor 1 januari 2015 als toezichthouder op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) was aangewezen en sindsdien onafgebroken deze functie heeft uitgeoefend;
 
@@ -106,19 +106,19 @@ De ambtenaren, bedoeld in [artikel 3.2, tweede lid](https://wetten.overheid.nl/j
 
 - c. een ambtenaar die voor 1 juli 2021 met goed gevolg het examen toezichthouder [Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) heeft afgelegd dat voldeed aan de eisen zoals vastgesteld door de examencommissie Drank- en Horecawet van de Stichting Exameninstelling Toezicht en Handhaving, gevestigd te Amersfoort.
 
-### Hoofdstuk 4. Wijzigingen andere regelingen
+### Hoofdstuk 4. Landelijke commissie sociale hygiëne
 
 ##### Artikel 4.1
 
-Wijzigt de Regeling bewijsstukken sociale hygiëne Drank- en Horecawet 2015.
+De Landelijke commissie sociale hygiëne is gevestigd in de gemeente Den Haag.
 
 ##### Artikel 4.2
 
-Aanwijzingsregeling toezichthoudende ambtenaren en ambtenaren met specifieke uitvoeringstaken op grond van SZW wetgeving.
+Het bedrag ter vergoeding van de kosten die samenhangen met het op grond van [artikel 11e, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11e), inschrijven van een persoon in het Register sociale hygiëne en het afgeven van een Verklaring kennis en inzicht sociale hygiëne, bedoeld in [artikel 11f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11f), is € 92,–.
 
 ##### Artikel 4.3
 
-Wijzigt de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2009.
+Het bedrag ter vergoeding van de kosten die samenhangen met het op grond van [artikel 11e, eerste lid, onder b of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11e), inschrijven van een persoon in het Register sociale hygiëne en het afgeven van een Verklaring kennis en inzicht sociale hygiëne, bedoeld in [artikel 11f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11f), is € 250,–.
 
 ##### Artikel 4.4
 
@@ -156,25 +156,25 @@ Deze regeling wordt aangehaald als: Alcoholregeling.
 
 De aanvraag ter verkrijging van een vergunning op grond van [artikel 3 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) voor het uitoefenen van een horecabedrijf of slijtersbedrijf door natuurlijke personen of rechtspersonen, met uitzondering van een paracommerciële rechtspersoon als genoemd in [artikel 1 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1), bevat de volgende elementen.
 
-Aldus naar waarheid ingevuld op **datum**, te**woonplaats**, **land**.
-
-Op grond van [artikel 29, tweede lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=29), hoort bij deze vergunning een aanhangsel waarop de leidinggevenden van het horecabedrijf of slijtersbedrijf staan vermeld. Ten aanzien van een leidinggevende bij wie sprake is van een situatie als bedoeld in [artikel 8, vierde lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=8), maakt de burgemeester daaromtrent een aantekening. Dit aanhangsel wordt gewijzigd bij toevoeging of wijziging van leidinggevenden. Voor het aanmelden van een leidinggevende wordt verwezen naar de bijlage behorende bij Model A.
-
-### Bijlage behorende bij Model A
-
 Verklaring van een leidinggevende werkzaam in de inrichting
 
 Aldus naar waarheid ingevuld op **datum**, te **woonplaats**, **land**.
 
-## Model B. als bedoeld in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=2&artikel=2.1&z=2022-11-01&g=2022-11-01)
+### Bijlage behorende bij Model A
 
 De aanvraag ter verkrijging van een vergunning op grond van [artikel 3 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) voor het uitoefenen van een horecabedrijf door een paracommerciële rechtspersoon als genoemd in [artikel 1 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1), bevat de volgende elementen.
 
 Gedurende de volgende dagen en tijdstippen wordt in de inrichting bedrijfsmatig of anders dan om niet alcoholhoudende drank verstrekt binnen de in de gemeentelijke verordening genoemde tijden.
 
-Aldus naar waarheid ingevuld op **datum**, te **woonplaats**,**land**.
+## Model B. als bedoeld in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=2&artikel=2.1&z=2022-11-01&g=2022-11-01)
 
 Op grond van [artikel 29, tweede lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=29), hoort bij deze vergunning een aanhangsel waarop de leidinggevenden van het horecabedrijf staan vermeld. Dit aanhangsel wordt gewijzigd bij toevoeging of wijziging van leidinggevenden. Voor het aanmelden van een leidinggevende wordt verwezen naar de bijlage behorende bij Model B.
+
+Gedurende de volgende dagen en tijdstippen wordt in de inrichting bedrijfsmatig of anders dan om niet alcoholhoudende drank verstrekt binnen de in de gemeentelijke verordening genoemde tijden.
+
+Verklaring van een leidinggevende werkzaam in de inrichting
+
+Verklaart leiding te geven aan de uitoefening van het paracommerciële horecabedrijf met ingang van:
 
 ### Bijlage behorende bij Model B
 
@@ -332,6 +332,256 @@ Aldus naar waarheid ingevuld op **datum**, te **woonplaats**, **land**.
 |   |
 
 ## Model D-2. (vergunning) als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=2&artikel=2.2&z=2022-11-01&g=2022-11-01)
+
+| **ALCOHOLWET** |
+| --- |
+|   |
+| Vergunning |
+|   |
+| Gemeente: |
+|   |
+| Datum: |
+|   |
+| Kenmerk: |
+|   |
+| De burgemeester van bovengenoemde gemeente, gelet op [artikel 3 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) |
+|   |
+| BESLUIT |
+|   |
+| Vergunning te verlenen voor het uitoefenen van het horecabedrijf |
+|   |
+| Aan: |
+|   |
+| Natuurlijk(e) persoon/personen |
+|   |
+| I Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| II Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| III Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| Rechtspersoon/rechtspersonen |
+|   |
+| I Naam: Vestigingsplaats: |
+|   |
+| II Naam: Vestigingsplaats: |
+|   |
+| In de inrichting gevestigd in het perceel: |
+|   |
+| Straatnaam en huisnummer: Postcode en plaatsnaam: |
+|   |
+| De vergunning geldt voor de volgende lokaliteiten of terrassen: |
+|   |
+| Plaats in de inrichting, eventuele benaming en oppervlakte in m² |
+|   |
+| a. b. c. d. |
+|   |
+| Aan deze vergunning zijn de volgende beperkingen of voorschriften verbonden: |
+|   |
+| Op grond van [artikel 7.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) kan degene wiens belang rechtstreeks bij een besluit is betrokken binnen zes weken na de dag waarop het besluit bekend is gemaakt, een beroepschrift indienen bij de administratieve rechter. Geen beroep bij de administratieve rechter kan worden ingesteld door een belanghebbende aan wie redelijkerwijs kan worden verweten dat hij geen zienswijzen als bedoeld in [artikel 3:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:15) naar voren heeft gebracht. |
+|   |
+| De burgemeester, |
+|   |
+| DEZE VERGUNNING OF EEN AFSCHRIFT DAARVAN IS IN DE INRICHTING AANWEZIG |
+
+| **Model D-2 (aanhangsel) Alcoholwet – Paracommerciële rechtspersoon** |
+| --- |
+|   |
+| Aanhangsel bij de vergunning voor het uitoefenen van het horecabedrijf |
+|   |
+| Gemeente: |
+|   |
+| Datum: |
+|   |
+| Kenmerk: |
+|   |
+| Leidinggevende I |
+|   |
+| Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| Leidinggevende II |
+|   |
+| Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| Leidinggevende III |
+|   |
+| Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| Leidinggevende IV |
+|   |
+| Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 5. Slotartikelen
+
+## Model A. als bedoeld in [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=2&artikel=2.1&z=2023-07-01&g=2023-07-01)
+
+De aanvraag ter verkrijging van een vergunning op grond van [artikel 3 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) voor het uitoefenen van een horecabedrijf of slijtersbedrijf door natuurlijke personen of rechtspersonen, met uitzondering van een paracommerciële rechtspersoon als genoemd in [artikel 1 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1), bevat de volgende elementen.
+
+Aldus naar waarheid ingevuld op **datum**, te**woonplaats**, **land**.
+
+Op grond van [artikel 29, tweede lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=29), hoort bij deze vergunning een aanhangsel waarop de leidinggevenden van het horecabedrijf of slijtersbedrijf staan vermeld. Ten aanzien van een leidinggevende bij wie sprake is van een situatie als bedoeld in [artikel 8, vierde lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=8), maakt de burgemeester daaromtrent een aantekening. Dit aanhangsel wordt gewijzigd bij toevoeging of wijziging van leidinggevenden. Voor het aanmelden van een leidinggevende wordt verwezen naar de bijlage behorende bij Model A.
+
+### Bijlage behorende bij Model A
+
+## Model B. als bedoeld in [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=2&artikel=2.1&z=2023-07-01&g=2023-07-01)
+
+Aldus naar waarheid ingevuld op **datum**, te **woonplaats**,**land**.
+
+### Bijlage behorende bij Model B
+
+Aldus naar waarheid ingevuld op **datum**, te **woonplaats**, **land**.
+
+## Model C. als bedoeld in [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=2&artikel=2.1&z=2023-07-01&g=2023-07-01)
+
+De aanvraag ter verkrijging van een ontheffing als bedoeld in [artikel 35 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=35) bevat ten minste de volgende elementen.
+
+- 1. Persoonlijke gegevens van de aanvrager:
+
+- a. Naam en voornamen:
+
+- b. Straatnaam en huisnummer:
+
+- c. Postcode en plaatsnaam:
+
+- d. Telefoonnummer:
+
+- e. Geboortedatum:
+
+- f. Geboorteplaats:
+
+- 2. Omschrijving van de locatie waar en de gelegenheid waarbij de aanvrager voornemens is zwak-alcoholhoudende drank te verstrekken: Locatie: Gelegenheid:
+
+- □. Het betreft een bijzondere gelegenheid van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen.
+
+- 3. Voor welke dagen en welke tijdstippen wordt de ontheffing gevraagd? .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur. .. .. dag, datum,van .. .. uur tot .. .. uur.
+
+- 4. Persoonlijke gegevens van degene(n) onder wiens onmiddellijke leiding de verstrekking van zwak-alcoholhoudende drank zal plaatsvinden: Verantwoordelijke 1 Verantwoordelijke 2
+
+- a. Naam en voornamen:
+
+- b. Straatnaam en huisnummer:
+
+- c. Postcode en plaatsnaam:
+
+- d. Telefoonnummer:
+
+- e. Geboortedatum:
+
+- f. Geboorteplaats:
+
+- □. heeft de leeftijd van eenentwintig jaar bereikt.
+
+- □. is niet in enig opzicht van slecht levensgedrag.
+
+- a. Naam en voornamen:
+
+- b. Straatnaam en huisnummer:
+
+- c. Postcode en plaatsnaam:
+
+- d. Telefoonnummer:
+
+- e. Geboortedatum:
+
+- f. Geboorteplaats:
+
+- □. heeft de leeftijd van eenentwintig jaar bereikt.
+
+- □. is niet in enig opzicht van slecht levensgedrag.
+
+- 5. Terugkerend evenement
+
+- □. Het betreft een jaarlijks terugkerende identieke bijzondere gelegenheid van zeer tijdelijke aard
+
+- □. De verstrekking van zwak-alcoholhoudende drank geschiedt telkenmale onder onmiddellijke leiding van dezelfde persoon of personen als hierboven genoemd.
+
+Aldus naar waarheid ingevuld op **datum**, te **woonplaats**, **land**.
+
+## Model D-1. (vergunning) als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=2&artikel=2.2&z=2023-07-01&g=2023-07-01)
+
+| **ALCOHOLWET** |
+| --- |
+|   |
+| Vergunning |
+|   |
+| Gemeente: |
+|   |
+| Datum: |
+|   |
+| Kenmerk: |
+|   |
+| De burgemeester van bovengenoemde gemeente, gelet op [artikel 3 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) |
+|   |
+| BESLUIT |
+|   |
+| Vergunning te verlenen voor het uitoefenen van het horecabedrijf/het slijtersbedrijf |
+|   |
+| Aan: |
+|   |
+| Natuurlijk(e) persoon/personen |
+|   |
+| I Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| II Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| III Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| Rechtspersoon/rechtspersonen |
+|   |
+| I Naam: Vestigingsplaats: |
+|   |
+| II Naam: Vestigingsplaats: |
+|   |
+| In de inrichting gevestigd in het perceel: |
+|   |
+| Straatnaam en huisnummer: Postcode en plaatsnaam: |
+|   |
+| De vergunning geldt voor de volgende lokaliteiten, terrassen of slijtlokaliteiten: |
+|   |
+| Plaats in de inrichting, eventuele benaming en oppervlakte in m² |
+|   |
+| a. b. c. d. |
+|   |
+| Aan deze vergunning zijn de volgende beperkingen of voorschriften verbonden: |
+|   |
+| Op grond van [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) kan degene wiens belang rechtstreeks bij een besluit is betrokken daartegen binnen zes weken na de dag waarop het besluit bekend is gemaakt, een bezwaarschrift indienen bij de burgemeester. |
+|   |
+| De burgemeester, |
+|   |
+| DEZE VERGUNNING OF EEN AFSCHRIFT DAARVAN IS IN DE INRICHTING AANWEZIG |
+
+| **Model D-1 (aanhangsel) Alcoholwet** |
+| --- |
+|   |
+| Aanhangsel bij de vergunning voor het uitoefenen van het horecabedrijf/het slijtersbedrijf |
+|   |
+| Gemeente: |
+|   |
+| Datum: |
+|   |
+| Kenmerk: |
+|   |
+| Leidinggevende I |
+|   |
+| Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| Leidinggevende II |
+|   |
+| Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| Leidinggevende III |
+|   |
+| Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+| Leidinggevende IV |
+|   |
+| Naam en voornamen: Geboortedatum: Geboorteplaats: |
+|   |
+
+## Model D-2. (vergunning) als bedoeld in [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045237&hoofdstuk=2&artikel=2.2&z=2023-07-01&g=2023-07-01)
 
 | **ALCOHOLWET** |
 | --- |
