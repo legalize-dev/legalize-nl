@@ -4,7 +4,7 @@ identifier: "BWBR0020917"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-04-15"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020917"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2023-07-01"
 
 Gelet op [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2), [70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70), [109, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=109), en [158 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=158); [artikel 81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=81) en [153 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=153); [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=9), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=23), [25, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=25) en [27, eerste lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=27); [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=12) en [22, vierde lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=22); [artikel 8, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163); [artikel 50, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=50); [artikel 67, zesde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=67) en [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=7), en [artikel 10 van de Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=10);
 
-Met betrekking tot de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=32&z=2023-04-15&g=2023-04-15), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=33&z=2023-04-15&g=2023-04-15) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=34&z=2023-04-15&g=2023-04-15) handelend in overeenstemming met de Minister van Justitie;
+Met betrekking tot de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=32&z=2023-07-01&g=2023-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=33&z=2023-07-01&g=2023-07-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=34&z=2023-07-01&g=2023-07-01) handelend in overeenstemming met de Minister van Justitie;
 
 Besluit:
 
@@ -60,7 +60,7 @@ Als categorie van personen als bedoeld in [artikel 2, derde lid, van de Pensioen
 
 ##### Artikel 2. Aangewezen instellingen
 
-Als instelling als bedoeld in [artikel 70, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70) dan wel [artikel 81, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=81) worden de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=1&z=2023-04-15&g=2023-04-15) genoemde instellingen en aan die instellingen verbonden pensioenuitvoerders, aangewezen.
+Als instelling als bedoeld in [artikel 70, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70) dan wel [artikel 81, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=81) worden de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=1&z=2023-07-01&g=2023-07-01) genoemde instellingen en aan die instellingen verbonden pensioenuitvoerders, aangewezen.
 
 ##### Artikel 3. Aangewezen verenigingen
 
@@ -84,7 +84,7 @@ Vervallen
 
 2. Consistentie bestaat indien op basis van een berekening met het rekeninstrument voor verzekeraars over een periode van 15 jaar een toeslagverlening wordt verwacht die in voldoende mate aansluit bij de toeslagambitie.
 
-3. Het rekeninstrument, bedoeld in het tweede lid, is door verzekeraars op te vragen bij het Verbond van Verzekeraars. Voor wijziging van dit rekeninstrument is instemming van De Nederlandsche Bank en de Minister van Sociale Zaken en Werkgelegenheid vereist.
+3. Het rekeninstrument, bedoeld in het tweede lid, is door verzekeraars op te vragen bij het Verbond van Verzekeraars. Voor wijziging van dit rekeninstrument is instemming van De Nederlandsche Bank en Onze Minister vereist.
 
 ##### Artikel 6. Voorwaardelijkheidsverklaring
 
@@ -138,15 +138,21 @@ Vervallen
 
 ##### Artikel 14. Informatie over de pensioenregeling
 
-De opschriften, iconen en sjablonen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=2), en [artikel 9b, eerste lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=9b), betreft de opschriften, iconen en sjablonen die op 30 juni 2016 op de website www.pensioen123.nl zijn gepubliceerd.
+Vervallen
 
 ### Hoofdstuk 2. Regels op grond van het [Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892)
 
 #### Paragraaf 2a. Vrijstelling termijn kortetermijnherstelplan
 
-##### Artikel 15. Prijsinflatie
+##### Artikel 15. Berekenen risicoblootstelling maatstaven
 
-Vervallen
+1. Voor de toepassing van [artikel 14u van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=14u) wordt verstaan onder:
+
+- a. **een mediaan scenario:** het scenario van het 50e percentiel;
+
+- b. **een pessimistisch scenario:** het scenario van het 5e percentiel.
+
+2. Voor de berekening van de blootstelling behorend bij de risicomaatstaf, de verwachtingsmaatstaf en de lange termijn risicomaatstaf, bedoeld in [artikel 14u van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=14u) worden de procedure, formules en symbolen in [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=1a&z=2023-07-01&g=2023-07-01) gebruikt.
 
 #### Paragraaf 3. Begroting, jaarverslag, jaarrekening of verantwoording
 
@@ -158,11 +164,11 @@ Vervallen
 
 ##### Artikel 17. Verschuldigde rente
 
-Wanneer waardeoverdracht plaatsvindt van een pensioenaanspraak als bedoeld in [artikel 25, vierde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=25), rekent de ontvangende uitvoerder, met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=16&z=2023-04-15&g=2023-04-15), terug welk deel van de overdrachtswaarde als verschuldigde rente moet worden aangemerkt over de periode tussen de betaaldatum en de overdrachtsdatum.
+Wanneer waardeoverdracht plaatsvindt van een pensioenaanspraak als bedoeld in [artikel 25, eerste en vijfde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=25), rekent de ontvangende uitvoerder, met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=16&z=2023-07-01&g=2023-07-01), terug welk deel van de overdrachtswaarde als verschuldigde rente moet worden aangemerkt over de periode tussen de betaaldatum en de overdrachtsdatum.
 
 ##### Artikel 18. Het standaardtarief
 
-1. Bij de vaststelling van het standaardtarief, bedoeld in [artikel 25, eerste lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=25), wordt uitgegaan van de periodetafel GBM/V 2010–2015 met de volgende leeftijdterugstellingen:
+1. Bij de vaststelling van het standaardtarief, bedoeld in [artikel 25, tweede en derde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=25), wordt uitgegaan van de periodetafel GBM/V 2010–2015 met de volgende leeftijdterugstellingen:
 
 - a. 5 jaar voor mannelijke deelnemers;
 
@@ -182,13 +188,13 @@ Wanneer waardeoverdracht plaatsvindt van een pensioenaanspraak als bedoeld in [a
 
 6. Voor de berekening van het partnerpensioen wordt de gehuwdheidsfrequentie op 1 gesteld op de datum waarop het ouderdomspensioen op grond van een pensioenregeling aanvangt.
 
-7. Voor het ouderdomspensioen en het partnerpensioen dat is opgebouwd vóór 1 januari 2002, dan wel 1 januari 2006, indien sprake is van perioden van opbouw op grond van een beroepspensioenregeling, wordt uitgegaan van de gehuwdheidsfrequenties, opgenomen in [artikel 1 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=2&z=2023-04-15&g=2023-04-15). Mannen worden geacht gehuwd te zijn met een drie jaar jongere partner, vrouwen worden geacht gehuwd te zijn met een drie jaar oudere partner.
+7. Voor het ouderdomspensioen en het partnerpensioen dat is opgebouwd vóór 1 januari 2002, dan wel 1 januari 2006, indien sprake is van perioden van opbouw op grond van een beroepspensioenregeling, wordt uitgegaan van de gehuwdheidsfrequenties, opgenomen in [artikel 1 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=2&z=2023-07-01&g=2023-07-01). Mannen worden geacht gehuwd te zijn met een drie jaar jongere partner, vrouwen worden geacht gehuwd te zijn met een drie jaar oudere partner.
 
 8. De contantewaardefactoren worden gebaseerd op de pensioenleeftijd en het verschil tussen de pensioendatum en de overdrachtsdatum in jaren en maanden die de overdragende uitvoerder hanteert.
 
 ##### Artikel 19. Berekening pensioenaanspraken
 
-1. De berekening van de pensioenaanspraken, bedoeld in [artikel 27, eerste lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=27), wordt gemaakt volgens de formules en symbolen, opgenomen in [artikel 2 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=2&z=2023-04-15&g=2023-04-15).
+1. De berekening van de pensioenaanspraken, bedoeld in [artikel 27, eerste lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=27), wordt gemaakt volgens de formules en symbolen, opgenomen in [artikel 2 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=2&z=2023-07-01&g=2023-07-01).
 
 2. De contantewaardefactoren worden gebaseerd op de pensioenleeftijd en het verschil tussen de pensioenleeftijd en de overdrachtsdatum in jaren en maanden die de ontvangende uitvoerder hanteert.
 
@@ -196,15 +202,25 @@ Wanneer waardeoverdracht plaatsvindt van een pensioenaanspraak als bedoeld in [a
 
 ##### Artikel 20. Afwijking standaardtarief
 
-1. Bij pensioenaanspraken als bedoeld in [artikel 25, vierde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=25), wordt de overdrachtswaarde berekend op basis van de actuariële grondslagen van de overdragende pensioenuitvoerder.
-
-2. In dit artikel wordt onder actuariële grondslagen verstaan: de grondslagen die de uitvoerder hanteert voor de vaststelling van de technische voorzieningen.
+Vervallen
 
 #### Paragraaf 2. Waardeoverdracht
 
-##### Artikel 21
+##### Artikel 21. Standaardregel
 
-Vervallen
+1. De standaardregel, bedoeld in [artikel 150n, derde lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150n), [artikel 145m, derde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=145m) en [artikel 46d van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=46d), bestaat uit de volgende berekeningen in de hierna vermelde volgorde:
+
+- 1°. vaststellen van de contante waarde van alle opgebouwde pensioenaanspraken en pensioenrechten;
+
+- 2°. vaststellen van de contante waarde van de aanpassingskasstromen;
+
+- 3°. vaststellen van de schalingsfactor voor de aanpassingskasstroom; en
+
+- 4°. vaststellen persoonlijke pensioenvermogens.
+
+2. Voor de berekeningen, bedoeld in het eerste lid, worden de formules in [bijlage 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=2a&z=2023-07-01&g=2023-07-01) gebruikt.
+
+3. Het fonds waarborgt dat bij het toepassen van de standaardregel geen onderscheid gemaakt wordt tussen mannen en vrouwen.
 
 ##### Artikel 22
 
@@ -220,9 +236,9 @@ Vervallen
 
 ##### Artikel 24. Standaardmodel
 
-1. Voor de berekening van het vereist eigen vermogen per risicofactor volgens het standaardmodel, bedoeld in [artikel 12, eerste lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=12), gaat het fonds uit van een scenariomethode op basis van de volgende risicofactoren:
+1. Voor de berekening van het vereist eigen vermogen per risicofactor volgens het standaardmodel, bedoeld in [artikel 12, eerste lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=12), gaat het fonds uit van een scenario-analyse op basis van de volgende risicofactoren:
 
-- a. het renterisico wordt bepaald aan de hand van het voor het fonds in termen van netto verlies meest negatieve scenario van een rentestijging c.q. rentedaling op basis van de in artikel 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=3&z=2023-04-15&g=2023-04-15) opgenomen rentefactoren;
+- a. het renterisico wordt bepaald aan de hand van het voor het fonds in termen van netto verlies meest negatieve scenario van een rentestijging c.q. rentedaling op basis van de in artikel 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=3&z=2023-07-01&g=2023-07-01) opgenomen rentefactoren;
 
 - b. het aandelen- en vastgoedrisico wordt bepaald aan de hand van een daling van de waarde van de beleggingen in:
 
@@ -268,7 +284,7 @@ Vervallen
 
 ##### Artikel 25. Correlaties
 
-1. Bij de samenvoeging van het vereist eigen vermogen per risicofactor als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-04-15&g=2023-04-15) tot het totale vereist eigen vermogen wordt uitgegaan van de volgende correlaties:
+1. Bij de samenvoeging van het vereist eigen vermogen per risicofactor als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-07-01&g=2023-07-01) tot het totale vereist eigen vermogen wordt uitgegaan van de volgende correlaties:
 
 - a. tussen het aandelen- en vastgoedrisico enerzijds en het renterisico anderzijds: een correlatie ρ1 2 van 0,40 indien het scenario voor het renterisico is gebaseerd op een rentedaling en nihil indien wordt uitgegaan van een rentestijging;
 
@@ -282,7 +298,7 @@ Vervallen
 
 - f. tussen de overige risico’s: een correlatie van 0.
 
-2. Voor de berekeningen, bedoeld in het eerste lid, worden de in artikel 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=3&z=2023-04-15&g=2023-04-15) opgenomen formules en de in dat onderdeel beschreven procedures gebruikt.
+2. Voor de berekeningen, bedoeld in het eerste lid, worden de in artikel 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=3&z=2023-07-01&g=2023-07-01) opgenomen formules en de in dat onderdeel beschreven procedures gebruikt.
 
 ##### Artikel 26. Partiële interne modellen
 
@@ -292,7 +308,7 @@ Vervallen
 
 3. De methodieken en procedures voor het gebruik en vaststelling van een of meer partiële interne modellen sluiten aan op de aard, omvang en complexiteit van de betreffende risico’s in de portefeuille. Het fonds legt de methodieken en procedures vast.
 
-4. Een partieel intern model is specifiek voor een belegging of beleggingsportefeuille van het fonds en onderscheidt zich van de risicoscenario’s zoals omschreven in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-04-15&g=2023-04-15).
+4. Een partieel intern model is specifiek voor een belegging of beleggingsportefeuille van het fonds en onderscheidt zich van de risicoscenario’s zoals omschreven in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-07-01&g=2023-07-01).
 
 5. Voor de vaststelling van het vereist eigen vermogen wordt de uitkomst van de doorrekening van een partieel intern model opgeteld bij de uitkomst van het standaardmodel. Op verzoek mogen fondsen onderbouwd en na voorafgaande goedkeuring door De Nederlandsche Bank van deze methode afwijken.
 
@@ -320,13 +336,13 @@ Vervallen
 
 - a. geeft, als de uitkomsten van het intern model verschillen met die van het voorgaande jaar, aan De Nederlandsche Bank aan waaruit die verschillen bestaan; en
 
-- b. dient bij De Nederlandsche Bank eens in de 3 jaar een analyse in volgens het standaardmodel als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-04-15&g=2023-04-15).
+- b. dient bij De Nederlandsche Bank eens in de 3 jaar een analyse in volgens het standaardmodel als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-07-01&g=2023-07-01).
 
 6. De Nederlandsche Bank kan aan de toestemming, bedoeld in het eerste lid, voorwaarden verbinden.
 
 ##### Artikel 29. Overgangsregeling
 
-1. In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=28&z=2023-04-15&g=2023-04-15), kan De Nederlandsche Bank een fonds dat niet voldoet aan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=28&z=2023-04-15&g=2023-04-15), genoemde regels toestemming verlenen voor het toepassen van een intern model, indien:
+1. In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=28&z=2023-07-01&g=2023-07-01), kan De Nederlandsche Bank een fonds dat niet voldoet aan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=28&z=2023-07-01&g=2023-07-01), genoemde regels toestemming verlenen voor het toepassen van een intern model, indien:
 
 - a. naar het oordeel van De Nederlandsche Bank de regels waaraan het fonds niet voldoet het gebruik van een intern model niet belemmeren; en
 
@@ -338,7 +354,7 @@ Vervallen
 
 ##### Artikel 30. Haalbaarheidstoets
 
-1. Voor de toepassing van dit artikel en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30a&z=2023-04-15&g=2023-04-15), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30b&z=2023-04-15&g=2023-04-15) en [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30c&z=2023-04-15&g=2023-04-15) wordt verstaan onder:
+1. Voor de toepassing van dit artikel en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30a&z=2023-07-01&g=2023-07-01), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30b&z=2023-07-01&g=2023-07-01) en [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30c&z=2023-07-01&g=2023-07-01) wordt verstaan onder:
 
 - a. **rapportagedatum:** de datum vanaf welke de haalbaarheidstoets wordt uitgevoerd over het aantal prognosejaren;
 
@@ -358,11 +374,15 @@ Vervallen
 
 5. In een haalbaarheidstoets worden kalenderjaren gehanteerd. De haalbaarheidstoets omvat 60 prognosejaren.
 
+6. Een haalbaarheidstoets wordt uitgevoerd met een scenario-analyse als bedoeld in [artikel 1 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=1).
+
 ### Hoofdstuk 4. Overgangsrecht
 
-##### Artikel 31. Overgangsrecht waardeoverdracht
+##### Artikel 31. Overgangsrecht Wet toekomst pensioenen
 
-Vervallen
+1. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1a&artikel=15&z=2023-07-01&g=2023-07-01) en [bijlage 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=1a&z=2023-07-01&g=2023-07-01), zoals die luiden vanaf 1 juli 2023, zijn van toepassing vanaf het tijdstip dat de uitvoerder overgaat op uitvoering van een gewijzigde pensioenovereenkomst of gewijzigde beroepspensioenregeling als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i) dan wel [artikel 214g van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=214g), maar uiterlijk vanaf 1 januari 2027.
+
+2. De [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=17&z=2023-07-01&g=2023-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=18&z=2023-07-01&g=2023-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=20&z=2023-07-01&g=2023-07-01), zoals die luidden op 30 juni 2023, blijven van toepassing tot het tijdstip dat de uitvoerder overgaat op uitvoering van een gewijzigde pensioenovereenkomst of gewijzigde beroepspensioenregeling als bedoeld in [artikel 220i van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=220i) dan wel [artikel 214g van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=214g), maar uiterlijk tot 1 januari 2027.
 
 ### Hoofdstuk 3. Regels op grond van het [Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871)
 
@@ -546,27 +566,27 @@ OP: ouderdomspensioen;
 
 2. In het eerste lid betekent de aanduiding ‘x’: de leeftijd van de deelnemer.
 
-1. De formules voor de berekening van de pensioenaanspraken, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=19&z=2019-09-30&g=2019-09-30), luiden als volgt:
+1. De gehuwdheidsfrequenties, bedoeld in [artikel 18, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=18&z=2023-07-01&g=2023-07-01), luiden als volgt:
 
-1. De formules voor de berekening van de pensioenaanspraken, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=19&z=2023-04-15&g=2023-04-15), luiden als volgt:
+2. In het eerste lid betekent de aanduiding ‘x’: de leeftijd van de deelnemer.
 
-### **Artikel 3. Benaderingsmethode renterisico**
+### **Artikel 2**
+
+1. De formules voor de berekening van de pensioenaanspraken, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=19&z=2023-07-01&g=2023-07-01), luiden als volgt:
+
+2. De in het eerste lid gebruikte symbolen en afkortingen hebben de volgende betekenis:
 
 a: de verhouding nabestaandenpensioen/ouderdomspensioen in de regeling ondergebracht bij het overnemende uitvoeringsorgaan, zoals deze voor de rechthebbende geldt op de overdrachtsdatum;
 
 β: de verhouding tussen een eventuele andere pensioenvorm en het ouderdomspensioen, zonodig berekend uit de totale aanspraken (zonder overdracht) volgens de regeling ondergebracht bij het overnemende uitvoeringsorgaan, zoals deze voor de rechthebbende geldt op de overdrachtsdatum;
 
-OP: ouderdomspensioen;
+### **Artikel 2. Formules en procedure standaardmodel**
 
 NP: nabestaandenpensioen;
 
-### **Artikel 2. Formules en procedure standaardmodel**
+OV: overige pensioenvormen;
 
 OW: overdrachtswaarde;
-
-kps-OP: de contantewaardefactor voor ouderdomspensioen volgens het standaardtarief;
-
-kps-NP: de contantewaardefactor voor nabestaandenpensioen volgens het standaardtarief;
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
@@ -592,7 +612,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 - d. de datum van inlevering is niet later dan de datum van inlevering van de staten, bedoeld in onderdeel b.
 
-3. Na voorafgaande toestemming van De Nederlandsche Bank kan een fonds afwijken van het eerste en tweede lid en van [artikel 30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30&z=2023-04-15&g=2023-04-15).
+3. Na voorafgaande toestemming van De Nederlandsche Bank kan een fonds afwijken van het eerste en tweede lid en van [artikel 30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30&z=2023-07-01&g=2023-07-01).
 
 4. De Nederlandsche Bank kan nadere regels stellen over de bij de haalbaarheidstoets te leveren gegevens en de wijze waarop de gegevens worden geleverd.
 
@@ -622,11 +642,11 @@ Vervallen
 
 ### Artikel 1. Rentefactoren voor het bepalen van het vereist eigen vermogen voor renterisico
 
-OV: overige pensioenvormen;
+OP: ouderdomspensioen;
 
 ### **Artikel 4. Benaderingsmethode kredietrisico**
 
-kps-OV: de contantewaardefactor voor overige pensioenvormen volgens het standaardtarief.
+kps-OP: de contantewaardefactor voor ouderdomspensioen volgens het standaardtarief;
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
@@ -646,7 +666,7 @@ Matrix fondsen ten aanzien van toeslagen over pensioenaanspraken en pensioenrech
 
 ### **Artikel 4. Benaderingsmethode kredietrisico**
 
-3. Wanneer in het eerste lid aan OP, NP en OV de letters nw zijn toegevoegd, betekent dit dat het pensioenaanspraken in de regeling bij het overnemende uitvoeringsorgaan ondergebracht uit hoofde van de waardeoverdracht betreft.
+kps-NP: de contantewaardefactor voor nabestaandenpensioen volgens het standaardtarief;
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
@@ -794,9 +814,9 @@ Vervallen
 
 ### **Artikel 3. Benaderingsmethode renterisico**
 
-Voor beleggingen die gerelateerd zijn aan de reële rente, zoals inflation linked bonds, worden kleinere renteschokken toegepast (rechts in de tabel). Verondersteld is dat 50% van de nominale renteschok zichtbaar is in een schok in de reële rente en dat de overige 50% toegeschreven kan worden aan een mutatie in de (break-even) inflatie.
+kps-OV: de contantewaardefactor voor overige pensioenvormen volgens het standaardtarief.
 
-Het scenario voor renterisico wordt bepaald door de rentefactoren in de tabel toe te passen op de rentetermijnstructuur, gepubliceerd door De Nederlandsche Bank, per looptijd te vermenigvuldigen met hetzij de rentefactoren voor een rentestijging dan wel de rentefactoren voor een rentedaling, afhankelijk wat voor het fonds het meest negatieve scenario is. In het algemeen gaat het dan om een rentedaling. Indien de rente bij looptijd 16 jaar bijvoorbeeld 4% is, moet in de bepaling van de rentegevoeligheid voor deze looptijd rekening gehouden worden met een rentedaling met 0,96%-punt (= (0,76 -1)* 4%) dan wel met een rentestijging met 1,28%-punt (= (1,32 -1)* 4%).
+3. Wanneer in het eerste lid aan OP, NP en OV de letters nw zijn toegevoegd, betekent dit dat het pensioenaanspraken in de regeling bij het overnemende uitvoeringsorgaan ondergebracht uit hoofde van de waardeoverdracht betreft.
 
 ### **Artikel 3. Benaderingsmethode renterisico**
 
@@ -895,9 +915,9 @@ S1 voor het vereist eigen vermogen voor het renterisico.
 
 S3 voor het vereist eigen vermogen voor het valutarisico.
 
-S4 voor het vereist eigen vermogen voor het grondstoffenrisico.
+Het scenario voor renterisico wordt bepaald door de rentefactoren in de tabel toe te passen op de rentetermijnstructuur, gepubliceerd door De Nederlandsche Bank, per looptijd te vermenigvuldigen met hetzij de rentefactoren voor een rentestijging dan wel de rentefactoren voor een rentedaling, afhankelijk wat voor het fonds het meest negatieve scenario is. In het algemeen gaat het dan om een rentedaling. Indien de rente bij looptijd 16 jaar bijvoorbeeld 4% is, moet in de bepaling van de rentegevoeligheid voor deze looptijd rekening gehouden worden met een rentedaling met 0,96%-punt (= (0,76 -1)* 4%) dan wel met een rentestijging met 1,28%-punt (= (1,32 -1)* 4%).
 
-S5 voor het vereist eigen vermogen voor het kredietrisico.
+Voor beleggingen die gerelateerd zijn aan de reële rente, zoals inflation linked bonds, worden kleinere renteschokken toegepast (rechts in de tabel). Verondersteld is dat 50% van de nominale renteschok zichtbaar is in een schok in de reële rente en dat de overige 50% toegeschreven kan worden aan een mutatie in de (break-even) inflatie.
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
@@ -1007,9 +1027,9 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ### **Onderdeel a**
 
-## Bijlage 3. als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2009-05-30&g=2009-05-30), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2009-05-30&g=2009-05-30) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=29&z=2009-05-30&g=2009-05-30)
+## Bijlage 2. als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=18&z=2023-07-01&g=2023-07-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=19&z=2023-07-01&g=2023-07-01)
 
-### **Artikel 2**
+### **Artikel 1**
 
 ### **Artikel 2**
 
@@ -1023,57 +1043,35 @@ S2 voor het vereist eigen vermogen voor het aandelen- en vastgoedrisico.
 
 S6 voor het vereist eigen vermogen voor het verzekeringstechnische risico.
 
-S7 voor het vereist eigen vermogen voor het liquiditeitsrisico.
+Het vereist eigen vermogen per risicofactor als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-07-01&g=2023-07-01) wordt als volgt aangeduid:
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
 ##### 3a. Gelijkstelling met pensioen
 
-1. De uitkeringen, bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2) worden gelijkgesteld met pensioen in de zin van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) indien wordt voldaan aan de [artikelen 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2023-04-15&g=2023-04-15) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3c&z=2023-04-15&g=2023-04-15) en de pensioendatum ligt voor 1 juli 2017.
-
-2. Indien het pensioen, bedoeld in het eerste lid, ouderdomspensioen is, voldoet dit ouderdomspensioen aan [artikel 15 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=15) of [artikel 31 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=31).
+Vervallen
 
 ##### 3b. De tijdelijke uitkering
 
-1. De duur van de tijdelijke uitkering, bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2), bedraagt ten hoogste twee jaar.
-
-2. De hoogte van de tijdelijke uitkering wordt vastgesteld op de hoogte die een levenslange uitkering op de pensioendatum zou hebben.
-
-3. Indien bij het vaststellen van de hoogte van de tijdelijke uitkering [artikel 63, eerste lid, onderdeel a, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=63) of [artikel 75, eerste lid, onderdeel a, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=75) in acht is genomen, voldoet het pensioen aan [artikel 63 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=63) of [artikel 75 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=75).
-
-4. In afwijking van het eerste lid bedraagt de duur van de tijdelijke uitkering ten hoogste vijf jaar indien de pensioendatum was gelegen voor 1 januari 2014.
+Vervallen
 
 ##### 3c. De levenslange uitkering
 
-1. De levenslange uitkering, bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2), wordt ingekocht tijdens de uitkeringsperiode van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2023-04-15&g=2023-04-15).
-
-2. Indien de pensioengerechtigde in het laatste jaar van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2023-04-15&g=2023-04-15), niet binnen een door de pensioenuitvoerder gestelde termijn overgaat tot inkoop van een levenslange uitkering, gaat de pensioenuitvoerder over tot aanwending van het resterend kapitaal, bedoeld in [artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3d&z=2023-04-15&g=2023-04-15), voor een levenslange, vastgestelde, uitkering.
-
-3. De hoogte van de levenslange uitkering varieert na ingang niet, als bedoeld in [artikel 63 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=63) dan wel [artikel 75 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=75).
+Vervallen
 
 ##### 3d. Resterend kapitaal
 
-1. Het kapitaal dat na aankoop van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2023-04-15&g=2023-04-15), resteert wordt door de pensioenuitvoerder zodanig samengesteld dat de risico’s vergelijkbaar of lager zijn dan voor de aankoop van de tijdelijke uitkering.
-
-2. Indien de pensioengerechtigde de verantwoordelijkheid voor de beleggingen heeft overgenomen, adviseert de pensioenuitvoerder de pensioengerechtigde over de spreiding van de beleggingen conform het eerste lid.
-
-3. In de uitkeringsperiode van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2023-04-15&g=2023-04-15), ontvangt de pensioengerechtigde, naast de informatie die op grond van [artikel 44 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=44) of [artikel 55 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=55) wordt verstrekt, voor zover van toepassing ten minste een keer per jaar informatie over:
-
-- a. de hoogte van het resterende kapitaal; en
-
-- b. de hoogte van de met dit kapitaal te kopen uitkering.
+Vervallen
 
 ##### 3e. Verplichting pensioenuitvoerder
 
-1. De pensioenuitvoerder is verplicht om op verzoek van de deelnemer, gewezen deelnemer of andere aanspraakgerechtigde mee te werken aan een splitsing als bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2) indien het op de pensioendatum beschikbaar komende kapitaal tenminste € 10.000 bedraagt en met inachtneming van de [artikelen 3a tot en met 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3a&z=2023-04-15&g=2023-04-15).
-
-2. De pensioenuitvoerder informeert de daarvoor in aanmerking komende deelnemer, gewezen deelnemer of andere aanspraakgerechtigde tijdig over hetgeen in deze paragraaf is bepaald.
+Vervallen
 
 #### Paragraaf 2. Informatie over toeslagverlening en de voorwaardelijkheidsverklaring
 
 ### Hoofdstuk 2. Regels op grond van het [Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892)
 
-#### Paragraaf 1. Vaststelling vereist eigen vermogen
+#### Paragraaf 2. Waardeoverdracht
 
 #### Paragraaf 1. Vaststelling vereist eigen vermogen
 
@@ -1120,17 +1118,17 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ### **Artikel 3. Benaderingsmethode renterisico**
 
-S8 voor het vereist eigen vermogen voor het concentratierisico.
+S1 voor het vereist eigen vermogen voor het renterisico.
 
-S9 voor het vereist eigen vermogen voor het operationeel risico.
+S2 voor het vereist eigen vermogen voor het aandelen- en vastgoedrisico.
 
 ### **Artikel 4. Benaderingsmethode kredietrisico**
 
-Het vereist eigen vermogen (VEV) wordt bepaald aan de hand van de volgende formule en op basis van onderstaande procedure:
+S4 voor het vereist eigen vermogen voor het grondstoffenrisico.
 
-waarbij ρ1 2 = 0,40 en ρ1 5 = 0,40 indien voor S1 wordt uitgegaan van een rentedaling en nihil indien S1 is gebaseerd op een rentestijging, en ρ2 5 = 0,50.
+S5 voor het vereist eigen vermogen voor het kredietrisico.
 
-Het vereist eigen vermogen van het fonds, bedoeld in [artikel 132 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=132) dan wel [artikel 127 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=127), wordt bepaald aan de hand van een iteratief proces. Dit proces bestaat uit het herhaald toepassen van het standaardmodel. Het beleggingsbeleid met de bijbehorende beleggingskarakteristieken blijft daarbij gelijk. Het belegde vermogen in de tweede toepassing en in iedere daaropvolgende herhaalde toepassing is gelijk aan het belegde vermogen in de daaraan voorafgaande toepassing minus het aan het eind van de daaraan voorafgaande toepassing bepaalde verschil tussen het eigen vermogen en de uitkomst van de formule. De herhalingsprocedure stopt indien dit verschil niet langer significant is. Dit is doorgaans het geval na twee herhalingen. De uitkomst van de formule is dan gelijk aan het vereist eigen vermogen.
+S6 voor het vereist eigen vermogen voor het verzekeringstechnische risico.
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
@@ -1150,9 +1148,9 @@ Als instelling als bedoeld in [artikel 51, zesde lid, van de Pensioenwet](https:
 
 #### Paragraaf 2. Waardeoverdracht
 
-#### Paragraaf 2. Continuïteitsanalyse
+#### Paragraaf 3. Kosten
 
-### Hoofdstuk 4. Overgangsrecht
+### Hoofdstuk 3. Regels op grond van het [Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871)
 
 ### Hoofdstuk 5. Wijziging overige Ministeriele regelingen
 
@@ -1162,13 +1160,13 @@ Als instelling als bedoeld in [artikel 51, zesde lid, van de Pensioenwet](https:
 
 ## Bijlage 3. als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2014-01-01&g=2014-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2014-01-01&g=2014-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=29&z=2014-01-01&g=2014-01-01)
 
-### **Artikel 3. Benaderingsmethode renterisico**
+### Artikel 2. Formules en procedure standaardmodel
 
-S10 voor het vereist eigen vermogen voor het actief beheer risico.
+S3 voor het vereist eigen vermogen voor het valutarisico.
 
 ### **Artikel 4. Benaderingsmethode kredietrisico**
 
-In deze formule komt het vereist vermogen voor het aandelen- en beursgenoteerd vastgoedrisico S2 als volgt tot stand. In [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2023-04-15&g=2023-04-15) is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor respectievelijk aandelen ontwikkelde markten, inclusief beursgenoteerd vastgoed (S2A), aandelen opkomende markten (S2B), niet-beursgenoteerde aandelen (S2C) en niet-beursgenoteerd vastgoed (S2D) tot het totale vereist eigen vermogen voor aandelen- en vastgoedrisico (S2) rekening wordt gehouden met de mogelijke statistische samenhang tussen de effecten van de scenario’s. Bij de aggregatie wordt uitgegaan van een uniforme correlatie ρ’ van 0,75. De componenten S2A tot en met S2D worden vervolgens gecombineerd tot het totaal vereist eigen vermogen voor aandelen- en vastgoedrisico S2 aan de hand van de formule:
+S7 voor het vereist eigen vermogen voor het liquiditeitsrisico.
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
@@ -1176,7 +1174,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 #### Paragraaf 1. Communicatiebepalingen
 
-#### Paragraaf 2. Haalbaarheidstoets
+#### Paragraaf 2a. Standaardregel
 
 ##### Artikel 30b. Berekeningen haalbaarheidstoets
 
@@ -1270,7 +1268,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ##### Artikel 14a. Rekenmethodiek weergave in scenario’s
 
-1. Voor de toepassing van dit artikel en de [artikelen 14b tot en met 14j](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14b&z=2023-04-15&g=2023-04-15) wordt verstaan onder:
+1. Voor de toepassing van dit artikel en de [artikelen 14b tot en met 14j](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14b&z=2023-07-01&g=2023-07-01) wordt verstaan onder:
 
 - a. **berekeningsdatum:** de eerste dag van het kwartaal vanaf welke de rekenmethode wordt uitgevoerd over het aantal toekomstige jaren;
 
@@ -1278,11 +1276,11 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 - c. **scenarioprijsinflatie:** de veronderstelde prijsinflatie die voor ieder jaar in elk scenario in de scenarioset wordt vermeld;
 
-- d. **uitkeringsovereenkomst:** uitkeringsovereenkomst of uitkeringsregeling;
+- d. **uitkeringsovereenkomst:** uitkeringsovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van de [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328) dan wel uitkeringsregeling als bedoeld in [artikel 1, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van de Wet toekomst pensioenen;
 
 - e. **premieovereenkomst:** premieovereenkomst of premieregeling;
 
-- f. **kapitaalovereenkomst:** kapitaalovereenkomst of kapitaalregeling;
+- f. **kapitaalovereenkomst:** kapitaalovereenkomst als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van de [Wet toekomst pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0048328) dan wel kapitaalregeling als bedoeld in [artikel 1, eerste lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) zoals dat artikel luidde op de dag voor het tijdstip van inwerkingtreding van de Wet toekomst pensioenen;
 
 - g. **rekenmethodes:** de toegelaten rekenmethodes, bedoeld in de onderdelen h en i, die door uitvoerders gebruikt kunnen worden;
 
@@ -1294,9 +1292,11 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 2. Indien de berekening bedoeld is voor communicatiedoeleinden kan, in afwijking van het eerste lid, onderdeel b, onder scenarioset ook verstaan worden: de scenarioset voor het kwartaal direct voorafgaand aan de berekeningsdatum.
 
+3. Bij toepassing van de rekenmethodes kan een scenario-analyse uitgevoerd worden met minimaal 2000 scenario’s uit de scenarioset.
+
 ##### Artikel 14b. Uitvoering rekenmethodiek
 
-1. Voor een deelnemer, gewezen deelnemer of gepensioneerde wordt voor het moment, bedoeld in [artikel 14a, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14a&z=2023-04-15&g=2023-04-15), een pensioenbedrag berekend voor een verwacht scenario, een optimistisch scenario en een pessimistisch scenario. De status van deelnemer, gewezen deelnemer of gepensioneerde op de berekeningsdatum is bepalend bij de toepassing van de rekenmethode.
+1. Voor een deelnemer, gewezen deelnemer of gepensioneerde wordt voor het moment, bedoeld in [artikel 14a, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14a&z=2023-07-01&g=2023-07-01), een pensioenbedrag berekend voor een verwacht scenario, een optimistisch scenario en een pessimistisch scenario. De status van deelnemer, gewezen deelnemer of gepensioneerde op de berekeningsdatum is bepalend bij de toepassing van de rekenmethode.
 
 2. Bij de berekeningen voor een deelnemer of gewezen deelnemer wordt uitgegaan van de pensioenleeftijd in de pensioenregeling. Indien het moment waarvoor de pensioenbedragen worden berekend de individuele pensioengerechtigde leeftijd op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) is en deze afwijkt van de pensioenleeftijd, dan wordt de berekening eerst uitgevoerd op basis van de pensioenleeftijd en vindt vervolgens een herrekening plaats van het pensioenbedrag naar een pensioenbedrag op de individuele pensioengerechtigde leeftijd op grond van de Algemene Ouderdomswet op basis van de ten tijde van de berekening gebruikte vervroegingfactoren en uitstelfactoren.
 
@@ -1330,7 +1330,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ##### Artikel 14e. Berekeningen generieke methode premieovereenkomsten
 
-1. Bij het toepassen van de generieke rekenmethode bij een premieovereenkomst in de opbouwfase gevolgd door een variabele pensioenuitkering vanaf pensioendatum, wordt voor elke deelnemer, gewezen deelnemer of gepensioneerde in elk scenario van de scenarioset een pensioenbedrag bepaald op basis van de beleggingsportefeuille op de berekeningsdatum en, voor een deelnemer, ook de toekomstige premies in de opbouwfase en, indien van toepassing, de uitkeringen in de uitkeringsfase in de periode van A jaren.
+1. Bij het toepassen van de generieke rekenmethode bij een premieovereenkomst in de opbouwfase gevolgd door een variabele pensioenuitkering vanaf pensioendatum, wordt voor elke deelnemer, gewezen deelnemer of gepensioneerde in elk scenario van de scenarioset een pensioenbedrag bepaald op basis van een zo realistisch mogelijke doorrekening van het pensioenbeleid.
 
 2. Bij een premieovereenkomst in de opbouwfase gevolgd door een vastgestelde uitkering vanaf pensioendatum, wordt voor elke deelnemer, gewezen deelnemer of gepensioneerde in elk scenario van de scenarioset een pensioenbedrag bepaald:
 
@@ -1340,7 +1340,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 3. Bij toepassing van het tweede lid geldt het volgende:
 
-- a. op de aanpassing van het pensioen is [artikel 14d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14d&z=2023-04-15&g=2023-04-15), van overeenkomstige toepassing; en
+- a. op de aanpassing van het pensioen is [artikel 14d, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14d&z=2023-07-01&g=2023-07-01), van overeenkomstige toepassing; en
 
 - b. indien het moment op A jaren vanaf de berekeningsdatum gelegen is na de pensioendatum dan wordt in het geval van toepassing van het eerste lid voor de opbouwfase voor A jaren gelezen het aantal jaren vanaf berekeningsdatum tot de pensioendatum.
 
@@ -1390,7 +1390,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ##### Artikel 14g. Berekeningen rekenmethode 1
 
-1. In rekenmethode 1 wordt voor elke deelnemer, gewezen deelnemer of gepensioneerde met het verwachte, optimistische en pessimistische rekenmethodescenario, bedoeld in [artikel 14f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14f&z=2023-04-15&g=2023-04-15), het pensioenbedrag als volgt berekend:
+1. In rekenmethode 1 wordt voor elke deelnemer, gewezen deelnemer of gepensioneerde met het verwachte, optimistische en pessimistische rekenmethodescenario, bedoeld in [artikel 14f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14f&z=2023-07-01&g=2023-07-01), het pensioenbedrag als volgt berekend:
 
 - a. het op de berekeningsdatum opgebouwde ouderdomspensioen wordt vermenigvuldigd met de cumulatieve koopkrachtfactor in jaar A van het rekenmethodescenario;
 
@@ -1398,9 +1398,9 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 - 1°. het op te bouwen ouderdomspensioen in jaar 1, op jaarbasis;
 
-- 2°. het eerste getal, bedoeld in [artikel 14f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14f&z=2023-04-15&g=2023-04-15), in jaar A van het rekenmethodescenario gedeeld door het eerste getal, bedoeld in artikel 14f, vierde lid, in jaar j van het rekenmethodescenario, en
+- 2°. het eerste getal, bedoeld in [artikel 14f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14f&z=2023-07-01&g=2023-07-01), in jaar A van het rekenmethodescenario gedeeld door het eerste getal, bedoeld in artikel 14f, vierde lid, in jaar j van het rekenmethodescenario, en
 
-- 3°. het tweede getal, bedoeld in [artikel 14f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14f&z=2023-04-15&g=2023-04-15), in jaar j van het rekenmethodescenario; en
+- 3°. het tweede getal, bedoeld in [artikel 14f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14f&z=2023-07-01&g=2023-07-01), in jaar j van het rekenmethodescenario; en
 
 - c. het in onderdeel a berekende bedrag en de in onderdeel b berekende bedragen worden bij elkaar opgeteld.
 
@@ -1418,7 +1418,7 @@ Vervallen
 
 #### Paragraaf 2. Haalbaarheidstoets
 
-#### Paragraaf 3. Overige bepalingen
+#### Paragraaf 2. Haalbaarheidstoets
 
 ### Hoofdstuk 4. Overgangsrecht
 
@@ -1470,7 +1470,7 @@ Vervallen
 
 22. het Satellietcentrum van de Europese Unie, bedoeld in het op 20 juli 2001 te Brussel tot stand gekomen Gemeenschappelijk optreden van de Raad betreffende de oprichting van een satellietcentrum van de Europese Unie.
 
-## Bijlage 1. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1&artikel=2&z=2019-09-30&g=2019-09-30)
+## Bijlage 1. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1&artikel=2&z=2023-07-01&g=2023-07-01)
 
 1. Het Europees Centrum voor Kernonderzoek (CERN), bedoeld in het op 1 juli 1953 te Parijs tot stand gekomen Verdrag betreffende de instelling van een Europese Organisatie voor Kernonderzoek;
 
@@ -1516,51 +1516,7 @@ Vervallen
 
 22. het Satellietcentrum van de Europese Unie, bedoeld in het op 20 juli 2001 te Brussel tot stand gekomen Gemeenschappelijk optreden van de Raad betreffende de oprichting van een satellietcentrum van de Europese Unie.
 
-## Bijlage 1. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1&artikel=2&z=2023-04-15&g=2023-04-15)
-
-1. Het Europees Centrum voor Kernonderzoek (CERN), bedoeld in het op 1 juli 1953 te Parijs tot stand gekomen Verdrag betreffende de instelling van een Europese Organisatie voor Kernonderzoek;
-
-2. het Europees Centrum voor weervoorspellingen op Middellange termijn, bedoeld in het te Brussel op 11 oktober 1973 tot stand gekomen Verdrag betreffende de instelling van het Europees Centrum voor weervoorspellingen op Middellange termijn;
-
-3. het Europees Laboratorium voor Moleculaire Biologie, bedoeld in het op 10 mei 1973 te Genève tot stand gekomen Overeenkomst tot oprichting van het Europees Laboratorium voor Moleculaire Biologie;
-
-4. het Europees Observatorium voor de Zuidelijke Sterrenhemel, bedoeld in het op 5 oktober 1962 te Parijs tot stand gekomen Verdrag tot oprichting van een Europese organisatie voor astronomisch onderzoek op het zuidelijk halfrond;
-
-5. het Europees Ruimtevaart Agentschap (ESA), bedoeld in het op 30 mei 1975 te Parijs tot stand gekomen Verdrag tot oprichting van een Europees Ruimte-Agentschap;
-
-6. de Europese Centrale Bank, bedoeld in artikel 4 A van het Verdrag tot oprichting van de Europese Gemeenschap en het op 7 februari 1992 te Maastricht tot stand gekomen Protocol betreffende de statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank;
-
-7. de Europese Meteorologische Satelliet Organisatie (EUMETSAT), bedoeld in het op 24 mei 1983 te Genève tot stand gekomen Verdrag tot oprichting van een Europese Organisatie voor de exploitatie van meteorologische satellieten;
-
-8. de Europese Octrooi-organisatie, bedoeld in het op 5 oktober 1973 te München tot stand gekomen Verdrag inzake de verlening van Europese octrooien;
-
-9. de Europese Organisatie van Tele-communicatiesatellieten (EUTELSAT), bedoeld in het op 15 juli 1982 te Parijs tot stand gekomen Verdrag tot Oprichting van de Europese Organisatie van Telecommunicatiesatellieten;
-
-10. de Europese Organisatie voor de Veiligheid van de Luchtvaart (Eurocontrol), bedoeld in het op 13 december 1960 te Brussel tot stand gekomen Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart;
-
-11. de Intergouvernementele Commissie voor Migratie, bedoeld in het op 19 oktober 1953 te Venetië tot stand gekomen Statuut van de Intergouvernementele Commissie voor Europese Migratie;
-
-12. de Internationale Organisatie voor Atoomenergie, bedoeld in het Statuut dat op 23 oktober 1956 is goedgekeurd door de Conferentie over het Statuut van de Internationale Organisatie voor Atoomenergie die werd gehouden in het Hoofdkwartier van de Verenigde Naties;
-
-13. de Noord-Atlantische Verdragsorganisatie (NATO), bedoeld in het op 4 april 1949 te Washington D.C. tot stand gekomen Noord-Atlantisch Verdrag;
-
-14. de Organisatie voor Economische Samenwerking en Ontwikkeling (OECD), bedoeld in het op 14 december 1960 te Parijs tot stand gekomen Verdrag nopens de Organisatie voor Economische Samenwerking en Ontwikkeling;
-
-15. de Raad van Europa, bedoeld in het op 5 mei 1949 te Londen tot stand gekomen Statuut van de Raad van Europa;
-
-16. de Verenigde Naties (UN), inclusief de hiermee verbonden gespecialiseerde organisaties, bedoeld in het op 26 juni 1945 te San Francisco tot stand gekomen Handvest van de Verenigde Naties;
-
-17. de Wereld Handelsorganisatie (WTO), bedoeld in het op 15 april 1994 tot stand gekomen Verdrag tot oprichting van de Wereld Handelsorganisatie;
-
-18. de West-Europese Unie (WEU), bedoeld in het op 17 maart 1948 te Brussel tot stand gekomen Verdrag van Brussel en het op 23 oktober 1954 te Parijs tot stand gekomen Protocol tot wijziging en aanvulling van het Verdrag van Brussel;
-
-19) de Europese politiedienst (Europol), bedoeld in de op 26 juli 1995 te Brussel tot stand gekomen Overeenkomst op grond van artikel K.3 van het Verdrag betreffende de Europese Unie tot oprichting van een Europese politiedienst (Europol-overeenkomst);
-
-20) de Europese Investeringsbank, bedoeld in artikel 9 van het Verdrag tot oprichting van de Europese Gemeenschap en het op 25 maart 1957 te Rome tot stand gekomen Protocol betreffende de statuten van de Europese Investeringsbank;
-
-21. het Instituut voor veiligheidsstudies van de Europese Unie, bedoeld in het op 20 juli 2001 te Brussel tot stand gekomen Gemeenschappelijk optreden van de Raad betreffende de oprichting van een instituut voor veiligheidsstudies van de Europese Unie;
-
-22. het Satellietcentrum van de Europese Unie, bedoeld in het op 20 juli 2001 te Brussel tot stand gekomen Gemeenschappelijk optreden van de Raad betreffende de oprichting van een satellietcentrum van de Europese Unie.
+## Bijlage 1a. Procedures, formules en symbolen als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1a&artikel=15&z=2023-07-01&g=2023-07-01)
 
 ### **Artikel 1**
 
@@ -1570,11 +1526,11 @@ Vervallen
 
 ### Artikel 1. Rentefactoren voor het bepalen van het vereist eigen vermogen voor renterisico
 
-waarbij ρ' = 0,75.
+S8 voor het vereist eigen vermogen voor het concentratierisico.
 
-In deze formule komt het vereist vermogen voor het valutarisico S3 als volgt tot stand. In [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2023-04-15&g=2023-04-15) is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor valutarisico, (S3), rekening wordt gehouden met een correlatie (ρ) van 0,50 tussen valuta in ontwikkelde markten; 0,75 tussen valuta in opkomende markten en 0,25 tussen het valutarisico voor ontwikkelde markten enerzijds en het valutarisico voor opkomende markten anderzijds. Het vereist vermogen voor valutarisico wordt vastgesteld voor enerzijds ontwikkelde markten (S3 A) en anderzijds opkomende markten (S3 B) en gecombineerd aan de hand van de volgende formules:
+S9 voor het vereist eigen vermogen voor het operationeel risico.
 
-Het vereist vermogen voor valutarisico (S3) voor de totale portefeuille is gelijk aan de som van het vereist vermogen voor valutarisico van ontwikkelde en opkomende markten, rekening houdend met een correlatie van 0,25:
+S10 voor het vereist eigen vermogen voor het actief beheer risico.
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
@@ -1586,13 +1542,13 @@ Vervallen
 
 1. De pensioenuitvoerder kiest de rekenmethode die passend is gegeven de kenmerken van de pensioenuitvoerder en de pensioenregelingen die worden uitgevoerd.
 
-2. De onderbouwing van een doorrekening van de haalbaarheidstoets en van de projectieberekening, bedoeld in [artikel 14d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14d&z=2023-04-15&g=2023-04-15), en [artikel 14f, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14f&z=2023-04-15&g=2023-04-15), is gedegen en biedt voldoende inzicht in onder meer de gebruikte gegevens, veronderstellingen, grondslagen en modellering.
+2. De onderbouwing van een doorrekening van de haalbaarheidstoets en van de projectieberekening, bedoeld in [artikel 14d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14d&z=2023-07-01&g=2023-07-01), en [artikel 14f, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=1&artikel=14f&z=2023-07-01&g=2023-07-01), is gedegen en biedt voldoende inzicht in onder meer de gebruikte gegevens, veronderstellingen, grondslagen en modellering.
 
 3. De onderbouwing van de berekening volgens de generieke rekenmethode is gedegen en biedt voldoende inzicht in onder meer de gebruikte gegevens, veronderstellingen, grondslagen en modellering.
 
 4. De pensioenuitvoerder stelt procedures vast voor de uitvoering, vaststelling en verantwoording van de rekenmethodes.
 
-#### Paragraaf 2. Waardeoverdracht
+#### Paragraaf 1a. Maatstaven risicohouding
 
 #### Paragraaf 3. Kosten
 
@@ -1624,9 +1580,9 @@ Vervallen
 
 ### Artikel 2. Formules en procedure standaardmodel
 
-Waarbij het vereist vermogen voor valutarisico op ontwikkelde markten (S3 A) wordt bepaald als de som van exposures op individuele valuta in ontwikkelde markten, rekening houdend met een correlatie van 0,50 en een daling van deze valuta ten opzichte van de euro met 20%:
+Het vereist eigen vermogen (VEV) wordt bepaald aan de hand van de volgende formule en op basis van onderstaande procedure:
 
-Het vereist vermogen voor valutarisico op opkomende markten (S3 B) wordt bepaald als de som van exposures op individuele valuta van opkomende markten, rekening houdend met een correlatie van 0,75 en een daling van deze valuta ten opzichte van de euro met 35%:
+waarbij ρ1 2 = 0,40 en ρ1 5 = 0,40 indien voor S1 wordt uitgegaan van een rentedaling en nihil indien S1 is gebaseerd op een rentestijging, en ρ2 5 = 0,50.
 
 ## Bijlage 4
 
@@ -1779,6 +1735,104 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 ### Hoofdstuk 5. Wijziging overige Ministeriele regelingen
 
 ## Bijlage 3. als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-04-15&g=2023-04-15) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2023-04-15&g=2023-04-15) van de Regeling Pensioenwet en Wet verplichte beroepspensioenregeling
+
+Het vereist eigen vermogen van het fonds, bedoeld in [artikel 132 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=132) dan wel [artikel 127 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=127), wordt bepaald aan de hand van een iteratief proces. Dit proces bestaat uit het herhaald toepassen van het standaardmodel. Het beleggingsbeleid met de bijbehorende beleggingskarakteristieken blijft daarbij gelijk. Het belegde vermogen in de tweede toepassing en in iedere daaropvolgende herhaalde toepassing is gelijk aan het belegde vermogen in de daaraan voorafgaande toepassing minus het aan het eind van de daaraan voorafgaande toepassing bepaalde verschil tussen het eigen vermogen en de uitkomst van de formule. De herhalingsprocedure stopt indien dit verschil niet langer significant is. Dit is doorgaans het geval na twee herhalingen. De uitkomst van de formule is dan gelijk aan het vereist eigen vermogen.
+
+## Bijlage 4
+
+Vervallen
+
+Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+#### Paragraaf 1. Vaststelling vereist eigen vermogen
+
+##### Artikel 1. De risicomaatstaf
+
+1. Het gewogen gemiddelde van alle verwachte ouderdomspensioenuitkeringen in de uitkeringsfase van deelnemer **i** berekend op tijdstip **t** in een scenario is:
+
+waar
+
+wordt gedefinieerd als de reële ouderdomspensioenuitkering voor deelnemer **i** op tijdstip **t** + **H** en
+
+wordt gedefinieerd als de kans dat deelnemer **i**, met leeftijd **l**(**i**), op tijdstip **t** + **H** nog in leven is, conditioneel op tijdstip **t**.
+
+2. De risicoblootstelling behorend bij de risicomaatstaf voor de opbouwfase wordt als volgt berekend:
+
+waarbij **Px** percentiel **x** aangeeft van alle gewogen gemiddelde uitkeringen in de verschillende scenario’s.
+
+3. De risicoblootstelling behorend bij de risicomaatstaf voor de uitkeringsfase, met jaar op jaar afwijking, wordt vergelijkbaar berekend als:
+
+##### Artikel 2. De verwachtingsmaatstaf
+
+1. Het gewogen gemiddelde van alle verwachte ouderdomspensioenuitkeringen in de uitkeringsfase wordt berekend op basis van een hypothetisch geheel risicomijdend reëel beleggingsbeleid in een scenario als
+
+. Vervolgens wordt getoetst aan de verwachtingsmaatstaf door:
+
+2. Het hypothetisch geheel risicomijdend beleggingsbeleid,
+
+, in de verwachtingsmaatstaf is zodanig dat het Nederlandse inflatierisico in de verwachte uitkeringsstroom door middel van reële obligaties volledig wordt afgedekt, waarbij de reële obligatieprijzen zijn afgeleid uit de uniforme scenarioset.
+
+3. De verwachte uitkeringsstroom wordt bepaald op basis van de beschikbare vermogens en de reële rentetermijnstructuur.
+
+4. Het reële renterisico van een uitkeringsstroom met looptijd t wordt afgedekt via een hypothetische volledige belegging in een reële obligatie met dezelfde looptijd t. De hypothetische geheel risicomijdende beleggingsportefeuille dekt het reële renterisico op de verwachte uitkeringsstromen voor iedere looptijd van alle cohorten op deze manier af. Met dit hypothetisch geheel risicomijdend beleggingsbeleid krijgt iedere deelnemer een rendement toegeschreven zodanig dat de reële waarde van zijn toekomstige uitkeringen onafhankelijk van de ontwikkeling van de reële rente is.
+
+##### Artikel 3. De lange termijn risicomaatstaf in de uitkeringsfase
+
+De risicoblootstelling behorend bij de lange termijn risicomaatstaf kan op eenzelfde manier worden bepaald als de risicoblootstelling behorend bij de risicomaatstaf voor de opbouwfase, waarbij alleen wordt gekeken naar de nog resterende uitkeringen in de uitkeringsfase.
+
+Definieer het gewogen gemiddelde van alle verwachte ouderdomspensioenuitkeringen in de uitkeringsfase van deelnemer **i** berekend op tijdstip **t**, tijdstip waarop uitkeringsfase in gaat, in een scenario als:
+
+De risicoblootstelling behorend bij de risicomaatstaf voor de uitkeringsfase wordt vervolgens als volgt berekend:
+
+## Bijlage 1b
+
+Vervallen
+
+## Bijlage 2a. Formules als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2a&artikel=21&z=2023-07-01&g=2023-07-01)
+
+##### Artikel 1. Vaststellen contante waarde van alle opgebouwde pensioenaanspraken en pensioenrechten
+
+De contante waarde van alle opgebouwde pensioenaanspraken en pensioenrechten **CWvoor** wordt vastgesteld door eerst de verwachte uitgaande kasstromen die voortvloeien uit de opgebouwde pensioenaanspraken en pensioenrechten **KSvoor**(**i,h**) voor iedere deelnemer, gewezen deelnemer, gewezen partner en pensioengerechtigde **i** en voor alle looptijden **h** > 0 vast te stellen. Vervolgens worden de kasstromen van alle deelnemers, gewezen deelnemers, gewezen partners en pensioengerechtigden per looptijd gesommeerd en wordt hiervan de contante waarde vastgesteld.
+
+##### Artikel 2. Vaststellen contante waarde van de aanpassingskasstromen
+
+1. De contante waarde van de aanpassingskasstromen **CW*** wordt vastgesteld door eerst de aanpassingskasstromen **KS***(**i,h**) voor iedere deelnemer, gewezen deelnemer, gewezen partner en pensioengerechtigde **i** en voor alle looptijden **h** > 0 vast te stellen via de formule
+
+waarbij de jaarlijks trapsgewijs stijgende functie **q**(**h**) als volgt is gedefinieerd:
+
+met [**h**] de op hele jaren neerwaarts afgeronde looptijd en **N** de spreidingstermijn in jaren, die gelijk is aan tien jaar. Vervolgens worden de aanpassingskasstromen van alle deelnemers, gewezen deelnemers, gewezen partners en pensioengerechtigden per looptijd gesommeerd en wordt hiervan de contante waarde vastgesteld.
+
+2. In afwijking van **N**, de spreidingstermijn, van tien jaar kan een fonds een kortere of langere spreidingstermijn hanteren. Een langere spreidingstermijn is uitsluitend toegestaan voor zover de verhouding tussen het beschikbare vermogen **M** en de technische voorzieningen van een fonds meer dan 100 procent betreft. Hierbij is **M** gelijk aan het beschikbare vermogen van een fonds waar de standaardregel op toegepast wordt.
+
+3. Bij toepassing van een andere spreidingstermijn dan tien jaar wordt bij de onderbouwing in het implementatieplan, bedoeld in [artikel 46, tweede lid, onderdeel i, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=46) in ieder geval de bestandssamenstelling van het fonds betrokken. De onderbouwing bevat ook een toelichting waarom een spreidingstermijn van tien jaar tot een onevenwichtiger nadeel zou leiden dan bij de gekozen afwijkende spreidingstermijn.
+
+##### Artikel 3. Vaststellen schalingsfactr voor de aanpassingskasstroom
+
+De schalingsfactor **x** voor de aanpassingskasstroom wordt vastgesteld via de formule
+
+waarbij **M** gelijk is aan het beschikbare vermogen van een fonds waar de standaardregel op toegepast wordt.
+
+##### Artikel 4. Vaststellen persoonlijke pesioenvermogens
+
+De persoonlijke pensioenvermogens worden vastgesteld door eerst de verwachte uitgaande kasstromen in de solidaire premieovereenkomst dan wel solidaire premieregeling, of flexibele premieovereenkomst dan wel flexibele premieregeling **KSna**(**i,h**) voor iedere deelnemer, gewezen deelnemer, gewezen partner en pensioengerechtigde **i** en voor alle looptijden **h** > 0 vast te stellen via de formule
+
+Vervolgens is het persoonlijke pensioenvermogen in de solidaire premieovereenkomst dan wel solidaire premieregeling, of flexibele premieovereenkomst dan wel flexibele premieregeling voor iedere deelnemer, gewezen deelnemer, gewezen partner en pensioengerechtigde gelijk aan de contante waarde van deze kasstroom.
+
+## Bijlage 3. als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2023-07-01&g=2023-07-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2023-07-01&g=2023-07-01) van de Regeling Pensioenwet en Wet verplichte beroepspensioenregeling
+
+### Artikel 1. Rentefactoren voor het bepalen van het vereist eigen vermogen voor renterisico
+
+In deze formule komt het vereist vermogen voor het aandelen- en beursgenoteerd vastgoedrisico S2 als volgt tot stand. In [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2023-07-01&g=2023-07-01) is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor respectievelijk aandelen ontwikkelde markten, inclusief beursgenoteerd vastgoed (S2A), aandelen opkomende markten (S2B), niet-beursgenoteerde aandelen (S2C) en niet-beursgenoteerd vastgoed (S2D) tot het totale vereist eigen vermogen voor aandelen- en vastgoedrisico (S2) rekening wordt gehouden met de mogelijke statistische samenhang tussen de effecten van de scenario’s. Bij de aggregatie wordt uitgegaan van een uniforme correlatie ρ’ van 0,75. De componenten S2A tot en met S2D worden vervolgens gecombineerd tot het totaal vereist eigen vermogen voor aandelen- en vastgoedrisico S2 aan de hand van de formule:
+
+waarbij ρ' = 0,75.
+
+In deze formule komt het vereist vermogen voor het valutarisico S3 als volgt tot stand. In [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2023-07-01&g=2023-07-01) is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor valutarisico, (S3), rekening wordt gehouden met een correlatie (ρ) van 0,50 tussen valuta in ontwikkelde markten; 0,75 tussen valuta in opkomende markten en 0,25 tussen het valutarisico voor ontwikkelde markten enerzijds en het valutarisico voor opkomende markten anderzijds. Het vereist vermogen voor valutarisico wordt vastgesteld voor enerzijds ontwikkelde markten (S3 A) en anderzijds opkomende markten (S3 B) en gecombineerd aan de hand van de volgende formules:
+
+Het vereist vermogen voor valutarisico (S3) voor de totale portefeuille is gelijk aan de som van het vereist vermogen voor valutarisico van ontwikkelde en opkomende markten, rekening houdend met een correlatie van 0,25:
+
+Waarbij het vereist vermogen voor valutarisico op ontwikkelde markten (S3 A) wordt bepaald als de som van exposures op individuele valuta in ontwikkelde markten, rekening houdend met een correlatie van 0,50 en een daling van deze valuta ten opzichte van de euro met 20%:
+
+Het vereist vermogen voor valutarisico op opkomende markten (S3 B) wordt bepaald als de som van exposures op individuele valuta van opkomende markten, rekening houdend met een correlatie van 0,75 en een daling van deze valuta ten opzichte van de euro met 35%:
 
 Bij de bepaling van het vereist vermogen per individuele valuta wordt rekening gehouden met de ‘net exposure’, dat wil zeggen de gevoeligheid voor een daling in deze valuta ten opzichte van de euro rekening houdend met eventuele valutahedges.
 
