@@ -357,35 +357,3 @@ De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de ui
 De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-07-01), zijn als volgt:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a. Bestedingsvoorwaarden gezonde leefomgeving
-
-1. Voor het hoofdthema gezonde leefomgeving worden de uitgekeerde middelen besteed aan activiteiten gericht op de voorbereiding van interventies om de leefomgeving voor de inwoners van het stedelijk focusgebied gezonder te maken.
-
-2. Onder de activiteiten, bedoeld in het eerste lid, worden in ieder geval verstaan:
-
-- a. het inwinnen van advies over effectieve interventies in het betreffende stedelijke focusgebied;
-
-- b. planvorming, waaronder het ontwerpen van de interventies en afstemming met betrokken partijen;
-
-- c. het inwinnen van juridisch of financieel advies om de interventies te kunnen implementeren;
-
-- d. het voorbereiden van besluiten ter uitvoering van de adviezen, bedoeld onder c;
-
-- e. het inrichten en in stand houden van monitoring om de interventies in de toekomst te kunnen evalueren;
-
-- f. het inrichten en in stand houden van een projectorganisatie om de continuïteit van de interventies te borgen.
-
-3. De maximale hoogte van de uitkering exclusief btw per ontvangende gemeente is in de bij deze regeling behorende bijlage opgenomen.
-
-## Bijlage. bij de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=3&z=2023-10-01&g=2023-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=4&z=2023-10-01&g=2023-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=5&z=2023-10-01&g=2023-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=6&z=2023-10-01&g=2023-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=7&z=2023-10-01&g=2023-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=8&z=2023-10-01&g=2023-10-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-10-01) en [9a](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9a&z=2023-10-01&g=2023-10-01).
-
-### Specifieke uitkering per gemeente als bedoeld in[artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-10-01) (jonge kind)
-
-De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering inclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9&z=2023-10-01&g=2023-10-01), zijn als volgt:
-
-### Specifieke uitkering per gemeente als bedoeld in [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9a&z=2023-10-01&g=2023-10-01) (gezonde leefomgeving)
-
-De gemeenten waaraan een uitkering wordt verstrekt, de maximale hoogte van de uitkering exclusief btw en de jaren waarin de betaalmomenten plaatsvinden, als bedoeld in [artikel 9a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048340&artikel=9a&z=2023-10-01&g=2023-10-01), zijn als volgt:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
