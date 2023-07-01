@@ -4,7 +4,7 @@ identifier: "BWBR0048132"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2023-05-05"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048132"
 soort: "wet"
@@ -47,8 +47,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Wijzigt de Algemene wet bestuursrecht.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel II
 
 Wijzigt de Drinkwaterwet.
@@ -57,25 +55,17 @@ Wijzigt de Drinkwaterwet.
 
 Wijzigt de Spoorwegwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt de Waterschapswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
 Wijzigt de Waterwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VI
 
 Wijzigt de Wet milieubeheer.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII
 
@@ -87,8 +77,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet personenvervoer 2000.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Dit onderdeel is nog niet inwerking getreden
@@ -97,20 +85,16 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XI
 
 Wijzigt de Wet zeevarenden.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet IenW 2021.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
