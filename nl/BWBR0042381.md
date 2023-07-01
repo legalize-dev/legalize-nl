@@ -4,7 +4,7 @@ identifier: "BWBR0042381"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2022-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042381"
 soort: "wet"
@@ -70,11 +70,11 @@ Wijzigt de Wet tegemoetkomingen loondomein.
 
 2. In afwijking van het eerste lid:
 
-- a. treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042381&artikel=II&z=2022-01-01&g=2022-01-01), onderdelen A en D, in werking met ingang van 1 januari 2022;
+- a. treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042381&artikel=II&z=2023-07-01&g=2023-07-01), onderdelen A en D, in werking met ingang van 1 januari 2022;
 
-- b. treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042381&artikel=II&z=2022-01-01&g=2022-01-01), onderdelen B en E, in werking met ingang van 1 januari 2023;
+- b. treedt [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042381&artikel=II&z=2023-07-01&g=2023-07-01), onderdelen B en E, in werking met ingang van 1 januari 2023;
 
-- c. treden [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042381&artikel=II&z=2022-01-01&g=2022-01-01), onderdelen C en F, en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0042381&artikel=V&z=2022-01-01&g=2022-01-01), onderdelen A, E, F, G, H, I, J, K en L, in werking met ingang van 1 januari 2024.
+- c. treden [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0042381&artikel=II&z=2023-07-01&g=2023-07-01), onderdelen C en F, en [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0042381&artikel=V&z=2023-07-01&g=2023-07-01), onderdelen A, E, F, G, H, I, J, K en L, in werking met ingang van 1 januari 2024.
 
 ##### Artikel VII. Citeertitel
 
