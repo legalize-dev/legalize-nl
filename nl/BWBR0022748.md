@@ -4,7 +4,7 @@ identifier: "BWBR0022748"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2020-03-26"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022748"
 soort: "AMvB"
@@ -94,7 +94,7 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 ##### Artikel 3
 
-1. De gegevens, bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2020-03-26&g=2020-03-26), zijn:
+1. De gegevens, bedoeld in [artikel 2, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2023-07-01&g=2023-07-01), zijn:
 
 - a. een opgave van de naam, de geboortedatum, de geboorteplaats, de nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;
 
@@ -106,21 +106,13 @@ De gegevens, bedoeld in [artikel 5:27, tweede lid, van de wet](https://wetten.ov
 
 - e. een opgave van referenten.
 
-2. Het [artikel 2, onderdelen g en l, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2020-03-26&g=2020-03-26), is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
+2. Het [artikel 2, onderdelen g en l, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0022748&paragraaf=2&artikel=2&z=2023-07-01&g=2023-07-01), is niet van toepassing ten aanzien van personen wier betrouwbaarheid voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) door een toezichthouder reeds is vastgesteld.
 
 #### Bepaling ter uitvoering van [artikel 5:27, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:27)
 
 ##### Artikel 4
 
-1. Een marktexploitant waaraan een vergunning als bedoeld in [artikel 5:26, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26) is verleend, geeft slechts uitvoering aan een voorgenomen wijziging als bedoeld in [artikel 5:27, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:27) indien de Autoriteit Financiële Markten heeft ingestemd met de wijziging.
-
-2. De Autoriteit Financiële Markten neemt een besluit omtrent de instemming:
-
-- a. binnen zes weken na ontvangst van de melding; of
-
-- b. indien de zij binnen twee weken na ontvangst van de melding de marktexploitant om nadere gegevens heeft verzocht, binnen vier weken na ontvangst van die gegevens, doch uiterlijk binnen dertien weken na ontvangst van de melding.
-
-3. Het tweede lid is niet van toepassing indien de op grond daarvan toepasselijke termijn geen redelijke termijn is voor een besluit omtrent de instemming inzake de voorgenomen wijziging. In dat geval stelt de Autoriteit Financiële Markten de marktexploitant daarvan in kennis onder vermelding van een termijn waarbinnen zij verwacht te kunnen besluiten.
+Vervallen
 
 #### § 3. Wijzigingen andere besluiten
 
