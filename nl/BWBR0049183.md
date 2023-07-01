@@ -4,7 +4,7 @@ identifier: "BWBR0049183"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049183"
 soort: "ministeriele-regeling"
@@ -55,8 +55,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V
 
