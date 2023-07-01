@@ -4,7 +4,7 @@ identifier: "BWBR0048249"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2023-06-10"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048249"
 soort: "ministeriele-regeling"
@@ -276,11 +276,9 @@ Voor het kalenderjaar 2023 worden de bandbreedtes en tarieven, bedoeld in [artik
 
 Wijzigt de Regeling financiële markten BES 2012.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 5
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048249&artikel=4&z=2023-06-10&g=2023-06-10), dat in werking treedt met ingang van 1 juli 2023.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048249&artikel=4&z=2023-07-01&g=2023-07-01), dat in werking treedt met ingang van 1 juli 2023.
 
 ##### Artikel 6
 
