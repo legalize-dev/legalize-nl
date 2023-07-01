@@ -4,7 +4,7 @@ identifier: "BWBR0013064"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2021-07-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013064"
 soort: "wet"
@@ -100,7 +100,7 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn gewone circul
 
 ##### Artikel 6
 
-1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2021-07-01&g=2021-07-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
+1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2023-07-01&g=2023-07-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
 
 2. De in het eerste lid bedoelde opdracht wordt verleend onder het beding dat de naar het oordeel van Onze minister in verband met het vervaardigen van munten noodzakelijke veiligheidsmaatregelen in acht worden genomen.
 
@@ -108,7 +108,7 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn gewone circul
 
 ##### Artikel 7
 
-Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2021-07-01&g=2021-07-01), geregeld.
+Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde munten voor verzamelaars geregeld.
 
 ##### Artikel 8
 
@@ -118,15 +118,15 @@ Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van 
 
 3. Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie vals of vervalst zijn, worden ze in beslag genomen. Indien de munten naar het oordeel van die instantie niet vals of vervalst zijn:
 
-- a. wordt van euromunten of munten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2021-07-01&g=2021-07-01) de nominale waarde vergoed;
+- a. wordt van euromunten of munten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2023-07-01&g=2023-07-01) de nominale waarde vergoed;
 
-- b. wordt van munten als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2021-07-01&g=2021-07-01) de stoffelijke waarde vergoed of worden die munten teruggegeven in de staat waarin zij zijn ontvangen.
+- b. wordt van munten als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2023-07-01&g=2023-07-01) de stoffelijke waarde vergoed of worden die munten teruggegeven in de staat waarin zij zijn ontvangen.
 
 4. Onze minister kan regels stellen betreffende de beoordeling, bedoeld in het tweede lid.
 
 ##### Artikel 9
 
-1. Gewone circulatiemunten, herdenkingsmunten en munten voor verzamelaars die ongeschikt zijn voor de circulatie, kunnen worden ingeleverd bij de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8&z=2021-07-01&g=2021-07-01), aangewezen instantie.
+1. Gewone circulatiemunten, herdenkingsmunten en munten voor verzamelaars die ongeschikt zijn voor de circulatie, kunnen worden ingeleverd bij de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8&z=2023-07-01&g=2023-07-01), aangewezen instantie.
 
 2. De in het eerste lid bedoelde instantie weigert munten in ontvangst te nemen, indien de ontvangst of behandeling daarvan gevaar voor de gezondheid van het behandelend personeel inhoudt.
 
