@@ -4,7 +4,7 @@ identifier: "BWBR0046029"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2021-12-17"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046029"
 soort: "ministeriele-regeling"
@@ -68,7 +68,40 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling energie-audit.
 
-## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046029&artikel=I&z=2021-12-17&g=2021-12-17) van de Regeling energie-audit
+## Bijlage. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046029&artikel=I&z=2023-07-01&g=2023-07-01) van de Regeling energie-audit
+
+| Keurmerk | Naam | Bijzonderheden |
+| --- | --- | --- |
+| 1. | BMWT Duurzame Bedrijfsvoering | Alle niveaus |
+| 2. | BREEAM-NL in Use | Uitzonderingen1 |
+| 3. | CO2 & Energie RI&E Creatieve Industrie niveau 3 |   |
+| 4. | CO2 & Energie RI&E Creatieve Industrie niveau 4 |   |
+| 5. | CO2-Prestatieladder niveau 3 |   |
+| 6. | CO2-Prestatieladder niveau 4 |   |
+| 7. | CO2-Prestatieladder niveau 5 |   |
+| 8. | CO2-Reductiemanagement met ISO 14001 | Alle niveaus |
+| 9. | EarthCheck Zilver |   |
+| 10. | EarthCheck Goud |   |
+| 11. | EarthCheck Platina |   |
+| 12. | EarthCheck Master |   |
+| 13. | Erkend Duurzaam Plus |   |
+| 14. | Erkend Duurzaam Premium |   |
+| 15. | Fastlane met EED-aanvullingen |   |
+| 16. | Green Globe |   |
+| 17. | Green Key met PLUS-module | Alle niveaus |
+| 18. | Lean & Green Star | Alle niveaus |
+| 19. | Milieuthermometer Zorg | Alle niveaus |
+| 20. | Trusted Site e-Efficiency | Alle niveaus |
+
+1 BREEAM-NL In Use wordt alleen geaccepteerd als invulling voor de verplichting tot het ondergaan van een energie-audit zoals opgenomen in [artikel 18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=18) in de volgende situaties:
+
+- A. Eigenaar/verhuurder die zelf geen gebruik maakt van het betreffende gebouw: het certificaatonderdeel Asset, moet minimaal niveau ‘Good’ scoren.
+
+- B. Eigenaar die tevens het gehele gebouw voor eigen gebruik aanwendt: het certificaatonderdeel Asset moet minimaal niveau ‘Very Good’ scoren en het certificaatonderdeel Gebruik moet minimaal niveau ‘Good’ scoren.
+
+- C. Eigenaar die tevens delen van het gebouw voor eigen gebruik aanwendt: het certificaatonderdeel Asset moet minimaal niveau ‘Very Good’ scoren en het certificaatonderdeel Gebruik moet minimaal niveau ‘Good’ scoren voor het eigen gebruik (niet het gebruik van andere gebruikers/huurders).
+
+- D. Huurder/gebruiker van een heel gebouw of een gedeelte daarvan: het certificaatonderdeel Gebruik voor moet alle activiteiten van de huurder/gebruiker in het gebouw, minimaal niveau ‘Good’ scoren.
 
 ### Keurmerken
 
@@ -81,5 +114,7 @@ B – Eigenaar die tevens het hele gebouw voor eigen gebruik aanwendt: de certif
 C – Eigenaar die tevens delen van het gebouw voor eigen gebruik aanwendt: het certificaatonderdeel Asset moet minimaal niveau Good scoren en het certificaatonderdeel Gebruik moet minimaal niveau Good scoren voor het eigen gebruik (niet het gebruik van andere gebruikers/huurders).
 
 D – Huurder/gebruiker van een geheel gebouw of een gedeelte daarvan: het certificaatonderdeel Gebruik moet voor alle activiteiten van de huurder/gebruiker in het gebouw minimaal niveau Good scoren.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
