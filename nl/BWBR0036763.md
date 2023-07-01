@@ -4,7 +4,7 @@ identifier: "BWBR0036763"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2022-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036763"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 Als functie, bedoeld in [artikel 668a, achtste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668a), worden aangewezen:
 
-- a. de functie van voetbalspeler die als contractspeler geregistreerd staat bij de sectie betaald voetbal van de Koninklijke Nederlandse Voetbalbond voor deelname aan de herencompetities van de sectie betaald voetbal;
+- a. de functie van voetbalspeler die als contractspeler geregistreerd staat bij de sectie betaald voetbal van de Koninklijke Nederlandse Voetbalbond;
 
 - b. de functie van trainer coach, assistent-trainer coach, technisch directeur, technisch manager, hoofd scouting, coördinator scouting, hoofd jeugdopleidingen en specialisten trainer, werkzaam in de onder a, bedoelde sectie;
 
@@ -64,7 +64,7 @@ Als functie, bedoeld in [artikel 668a, achtste lid, van Boek 7 van het Burgerlij
 
 ##### Artikel 2
 
-Als functie, bedoeld in de [artikelen 671c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671c), en [677, zesde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677), worden aangewezen, de functies, genoemd in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036763&artikel=1&z=2022-01-01&g=2022-01-01).
+Als functie, bedoeld in de [artikelen 671c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671c), en [677, zesde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677), worden aangewezen, de functies, genoemd in [artikel 1, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036763&artikel=1&z=2023-07-01&g=2023-07-01).
 
 ##### Artikel 3
 
