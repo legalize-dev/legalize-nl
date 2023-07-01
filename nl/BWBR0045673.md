@@ -4,7 +4,7 @@ identifier: "BWBR0045673"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2021-10-09"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045673"
 soort: "ministeriele-regeling"
@@ -42,15 +42,15 @@ Besluit:
 
 ##### Artikel 1. Definities
 
-- **accommodaties open driemilieusvoorzieningen:** accommodaties van open driemilieusvoorziening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=3&z=2021-10-09&g=2021-10-09), die vermeld staan in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2021-10-09&g=2021-10-09);
+- **accommodaties open driemilieusvoorzieningen:** accommodaties van open driemilieusvoorziening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=3&z=2023-07-01&g=2023-07-01), die vermeld staan in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2023-07-01&g=2023-07-01);
 
-- **accommodaties gesloten jeugdhulp:** accommodaties van instellingen gesloten jeugdhulp, die vermeld staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2021-10-09&g=2021-10-09);
+- **accommodaties gesloten jeugdhulp:** accommodaties van instellingen gesloten jeugdhulp, die vermeld staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2023-07-01&g=2023-07-01);
 
-- **bovenregionaal gebied:** een cluster van jeugdregio’s zoals gedefinieerd in [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2021-10-09&g=2021-10-09) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2021-10-09&g=2021-10-09);
+- **bovenregionaal gebied:** een cluster van jeugdregio’s zoals gedefinieerd in [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2023-07-01&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2023-07-01&g=2023-07-01);
 
 - **bovenregionaal plan:** het document waarin de jeugdhulpregio’s het toekomstperspectief voor de instellingen gesloten jeugdhulp of de open driemilieusvoorzieningen die werkzaam zijn in het bovenregionale gebied hebben uitgewerkt;
 
-- **coördinerende gemeente:** de gemeente, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=5&z=2021-10-09&g=2021-10-09) en [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2021-10-09&g=2021-10-09) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2021-10-09&g=2021-10-09), die de uitkering kan aanvragen en die uiteindelijk beschikt over het bovenregionaal plan en een strategisch vastgoedplan;
+- **coördinerende gemeente:** de gemeente, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=5&z=2023-07-01&g=2023-07-01) en [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2023-07-01&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2023-07-01&g=2023-07-01), die de uitkering kan aanvragen en die uiteindelijk beschikt over het bovenregionaal plan en een strategisch vastgoedplan;
 
 - **gezinshuis:** een kleinschalige vorm van jeugdhulp waar gezinshuisouders in beginsel gedurende de hele week opvoeding, ondersteuning en zorg bieden aan bij hen in huis geplaatste jeugdigen die tijdelijk of langdurig zijn aangewezen op intensieve en professionele hulpverlening;
 
@@ -64,7 +64,7 @@ Besluit:
 
 - **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
 
-- **open driemilieusvoorziening:** open driemilieusvoorziening als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=3&z=2021-10-09&g=2021-10-09);
+- **open driemilieusvoorziening:** open driemilieusvoorziening als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=3&z=2023-07-01&g=2023-07-01);
 
 - **projectleider vastgoedtransitie:** de persoon die door een coördinerende gemeente wordt aangesteld voor het in goede banen leiden van de vastgoedtransitie gesloten jeugdhulp of open driemilieusvoorzieningen binnen het desbetreffende bovenregionale gebied;
 
@@ -128,11 +128,11 @@ Besluit:
 
 1. De minister kan op aanvraag een uitkering verstrekken aan een coördinerende gemeente voor activiteiten die:
 
-- a. vanaf 1 oktober 2020 tot en met 31 december 2024 nodig zijn voor de vastgoedtransitie gesloten jeugdhulp;
+- a. vanaf 1 oktober 2020 tot en met 31 december 2026 nodig zijn voor de vastgoedtransitie gesloten jeugdhulp;
 
-- b. vanaf 8 oktober 2021 tot en met 31 december 2024 nodig zijn voor de ombouw van een separeerruimte van een accommodatie gesloten jeugdhulp naar een kindvriendelijke afzonderingsruimte dan wel nodig zijn voor de ontwikkeling van relationele beveiliging als een accommodatie gesloten jeugdhulp niet beschikt over een separeerruimte;
+- b. vanaf 8 oktober 2021 tot en met 31 december 2026 nodig zijn voor de ombouw van een separeerruimte van een accommodatie gesloten jeugdhulp naar een kindvriendelijke afzonderingsruimte dan wel nodig zijn voor de ontwikkeling van relationele beveiliging als een accommodatie gesloten jeugdhulp niet beschikt over een separeerruimte;
 
-- c. vanaf 8 oktober 2021 tot en met 31 december 2024 nodig zijn voor de vastgoedtransitie open driemilieusvoorzieningen.
+- c. vanaf 8 oktober 2021 tot en met 31 december 2026 nodig zijn voor de vastgoedtransitie open driemilieusvoorzieningen.
 
 2. De activiteiten, bedoeld in het eerste lid, onder a en c, omvatten of zijn ondersteunend aan:
 
@@ -150,9 +150,9 @@ Besluit:
 
 ##### Artikel 5. Hoogte van de uitkering
 
-1. Een uitkering op grond van deze regeling bestaat uit de werkelijke kosten van de verschillende categorieën van activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), tot ten hoogste het volgende bedrag:
+1. Een uitkering op grond van deze regeling bestaat uit de werkelijke kosten van de verschillende categorieën van activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), tot ten hoogste het volgende bedrag:
 
-|   | Coördinerende gemeente | Maximumbedrag activiteiten vastgoedtransitie gesloten jeugdhulp ([artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09)) | Maximumbedrag activiteiten ombouw van separeerruimten of relationele beveiliging (artikel 4, eerste lid, onder b) | Maximumbedrag activiteiten vastgoedtransitie open driemilieusvoorzieningen (artikel 4, eerste lid, onder c) |
+|   | Coördinerende gemeente | Maximumbedrag activiteiten vastgoedtransitie gesloten jeugdhulp ([artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01)) | Maximumbedrag activiteiten ombouw van separeerruimten of relationele beveiliging (artikel 4, eerste lid, onder b) | Maximumbedrag activiteiten vastgoedtransitie open driemilieusvoorzieningen (artikel 4, eerste lid, onder c) |
 | --- | --- | --- | --- | --- |
 | a. | Groningen | € 2.359.155 | € 352.113 | € 700.615 |
 | b. | Leeuwarden | € 1.078.470 | € 160.966 | € 2.973.342 |
@@ -169,39 +169,39 @@ Besluit:
 | m. | Enschede |   |   | € 4.220.779 |
 | n. | Tilburg |   |   | € 10.748.462 |
 
-2. De kosten gemoeid met de activiteiten die omvatten of ondersteunend zijn aan activiteiten, bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), mogen gezamenlijk maximaal 5% bedragen van de verstrekte uitkering voor activiteiten, bedoeld in artikel 4, eerste lid, onder a, of van de verstrekte uitkering voor activiteiten, bedoeld in artikel 4, eerste lid, onder c.
+2. De kosten gemoeid met de activiteiten die omvatten of ondersteunend zijn aan activiteiten, bedoeld in [artikel 4, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), mogen gezamenlijk maximaal 5% bedragen van de verstrekte uitkering voor activiteiten, bedoeld in artikel 4, eerste lid, onder a, of van de verstrekte uitkering voor activiteiten, bedoeld in artikel 4, eerste lid, onder c.
 
-3. De kosten gemoeid met de activiteiten die omvatten of ondersteunend zijn aan activiteiten, bedoeld in [artikel 4, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), bedragen ten hoogste € 15.000 voor een open driemilieusvoorziening met één accommodatie, te vermeerderen met ten hoogste € 5.000 voor elke extra accommodatie open driemilieusvoorziening die de desbetreffende instelling in exploitatie heeft.
+3. De kosten gemoeid met de activiteiten die omvatten of ondersteunend zijn aan activiteiten, bedoeld in [artikel 4, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), bedragen ten hoogste € 15.000 voor een open driemilieusvoorziening met één accommodatie, te vermeerderen met ten hoogste € 5.000 voor elke extra accommodatie open driemilieusvoorziening die de desbetreffende instelling in exploitatie heeft.
 
 ##### Artikel 6. Uitkeringsplafond
 
-1. Het uitkeringsplafond voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09) bedraagt € 33.500.000.
+1. Het uitkeringsplafond voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01) bedraagt € 33.500.000.
 
-2. Het uitkeringsplafond voor activiteiten bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09) bedraagt € 5.000.000.
+2. Het uitkeringsplafond voor activiteiten bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01) bedraagt € 5.000.000.
 
-3. Het uitkeringsplafond voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09) bedraagt € 50.000.000.
+3. Het uitkeringsplafond voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01) bedraagt € 50.000.000.
 
 ##### Artikel 7. Aanvraag tot verlening
 
-1. De aanvraag tot verlening van een uitkering voor de activiteiten, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), kan uiterlijk worden ingediend op 15 oktober 2020.
+1. De aanvraag tot verlening van een uitkering voor de activiteiten, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), kan uiterlijk worden ingediend op 15 oktober 2020.
 
-2. De aanvraag tot verlening van een uitkering voor de activiteiten, bedoeld in [artikel 4, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), kan uiterlijk worden ingediend op 22 oktober 2021.
+2. De aanvraag tot verlening van een uitkering voor de activiteiten, bedoeld in [artikel 4, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), kan uiterlijk worden ingediend op 22 oktober 2021.
 
 3. Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.
 
 4. In de aanvraag committeert de coördinerende gemeente zich aan:
 
-- a. de uitgangspunten in de uitgangspuntennotitie gesloten jeugdhulp indien het een aanvraag betreft voor activiteiten als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09);
+- a. de uitgangspunten in de uitgangspuntennotitie gesloten jeugdhulp indien het een aanvraag betreft voor activiteiten als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01);
 
-- b. de uitgangspunten in de uitgangspuntennotitie gesloten jeugdhulp ombouw separeerruimten indien het een aanvraag betreft voor activiteiten als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09); of
+- b. de uitgangspunten in de uitgangspuntennotitie gesloten jeugdhulp ombouw separeerruimten indien het een aanvraag betreft voor activiteiten als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01); of
 
-- c. de uitgangspunten in de uitgangspuntennotitie open driemilieusvoorzieningen indien het een aanvraag betreft voor activiteiten als bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09).
+- c. de uitgangspunten in de uitgangspuntennotitie open driemilieusvoorzieningen indien het een aanvraag betreft voor activiteiten als bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01).
 
-5. De aanvraag voor een uitkering voor de activiteiten, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), gaat vergezeld van een instemmingsverklaring van het bestuur van de instelling gesloten jeugdhulp waarvoor de gemeente de coördinerende rol vervult.
+5. De aanvraag voor een uitkering voor de activiteiten, bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), gaat vergezeld van een instemmingsverklaring van het bestuur van de instelling gesloten jeugdhulp waarvoor de gemeente de coördinerende rol vervult.
 
 ##### Artikel 8. Verlening en bevoorschotting
 
-1. De minister beslist binnen 9 weken na de datum, bedoeld in [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=7&z=2021-10-09&g=2021-10-09).
+1. De minister beslist binnen 9 weken na de datum, bedoeld in [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=7&z=2023-07-01&g=2023-07-01).
 
 2. Het besluit tot verlening van de uitkering vermeldt in elk geval de activiteiten waarvoor de uitkering wordt verleend, het bedrag van de uitkering, de periode waarvoor de uitkering wordt verleend en de wijze waarop de verantwoording plaatsvindt.
 
@@ -215,7 +215,7 @@ Besluit:
 
 ##### Artikel 10. Verplichtingen vastgoedtransitie gesloten jeugdhulp
 
-1. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), draagt er zorg voor dat uiterlijk op 1 april 2021 een plan van aanpak vastgesteld is ten aanzien van de jeugdregio’s en de accommodaties gesloten jeugdhulp waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals volgt uit [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2021-10-09&g=2021-10-09), met in ieder geval de volgende elementen:
+1. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), draagt er zorg voor dat uiterlijk op 1 april 2021 een plan van aanpak vastgesteld is ten aanzien van de jeugdregio’s en de accommodaties gesloten jeugdhulp waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals volgt uit [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2023-07-01&g=2023-07-01), met in ieder geval de volgende elementen:
 
 - a. een beschrijving van de staat van het vastgoed van de accommodaties gesloten jeugdhulp en het aantal plaatsen;
 
@@ -229,25 +229,25 @@ Besluit:
 
 - f. een beschrijving van de wijze waarop de coördinerende gemeente de accommodaties gesloten jeugdhulp betrekt;
 
-- g. een beschrijving van de planning van de coördinerende gemeente, gericht op het einddoel dat de aan de coördinerende gemeente verleende uitkering uiterlijk 31 december 2024 besteed is, waaronder in ieder geval:
+- g. een beschrijving van de planning van de coördinerende gemeente, gericht op het einddoel dat de aan de coördinerende gemeente verleende uitkering uiterlijk 31 december 2026 besteed is, waaronder in ieder geval:
 
 - 1°. de datum van de vaststelling van het bovenregionaal plan;
 
 - 2°. de datum dat de accommodaties gesloten jeugdhulp het strategisch vastgoedplan hebben vastgesteld, dat past binnen het bovenregionaal plan.
 
-2. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), draagt er zorg voor dat de accommodaties gesloten jeugdhulp waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals volgt uit [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2021-10-09&g=2021-10-09), uiterlijk op de in het plan van aanpak genoemde datum, bedoeld in het eerste lid, beschikt over een strategisch vastgoedplan.
+2. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), draagt er zorg voor dat de accommodaties gesloten jeugdhulp waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals volgt uit [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1&z=2023-07-01&g=2023-07-01), uiterlijk op de in het plan van aanpak genoemde datum, bedoeld in het eerste lid, beschikt over een strategisch vastgoedplan.
 
-3. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), draagt er zorg voor dat uiterlijk op de in het plan van aanpak genoemde datum, bedoeld in het eerste lid, een bovenregionaal plan is vastgesteld.
+3. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), draagt er zorg voor dat uiterlijk op de in het plan van aanpak genoemde datum, bedoeld in het eerste lid, een bovenregionaal plan is vastgesteld.
 
 ##### Artikel 11. Verplichtingen vastgoedtransitie open driemilieusvoorzieningen
 
-1. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), draagt er zorg voor dat deze voor 1 juni 2022 beschikt over een bovenregionaal plan dat betrekking heeft op de accommodaties open driemilieusvoorzieningen waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals vermeld in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2021-10-09&g=2021-10-09).
+1. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), draagt er zorg voor dat deze voor 1 juni 2022 beschikt over een bovenregionaal plan dat betrekking heeft op de accommodaties open driemilieusvoorzieningen waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals vermeld in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2023-07-01&g=2023-07-01).
 
-2. Op het moment dat het niet haalbaar is voor de coördinerende gemeente die een uitkering heeft ontvangen voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), voor 1 juni 2022 te beschikken over een bovenregionaal plan, als bedoeld in het eerste lid, vraagt de coördinerende gemeente uitstel aan de minister, vergezeld van een nieuwe datum waarop de coördinerende gemeente beschikt over een bovenregionaal plan.
+2. Op het moment dat het niet haalbaar is voor de coördinerende gemeente die een uitkering heeft ontvangen voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), voor 1 juni 2022 te beschikken over een bovenregionaal plan, als bedoeld in het eerste lid, vraagt de coördinerende gemeente uitstel aan de minister, vergezeld van een nieuwe datum waarop de coördinerende gemeente beschikt over een bovenregionaal plan.
 
-3. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), draagt er zorg voor dat deze uiterlijk op 1 december 2022 beschikt over een strategisch vastgoedplan die betrekking heeft op de accommodaties open driemilieusvoorzieningen waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals vermeld in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2021-10-09&g=2021-10-09).
+3. De coördinerende gemeente die een uitkering ontvangt voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), draagt er zorg voor dat deze uiterlijk op 1 december 2022 beschikt over een strategisch vastgoedplan die betrekking heeft op de accommodaties open driemilieusvoorzieningen waarvoor de desbetreffende gemeente coördinerende gemeente is, zoals vermeld in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=2&z=2023-07-01&g=2023-07-01).
 
-4. Op het moment dat het niet haalbaar is voor de coördinerende gemeente die een uitkering heeft ontvangen voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2021-10-09&g=2021-10-09), voor 1 december 2022 te beschikken over strategisch vastgoedplan als bedoeld in het derde lid, dient de coördinerende gemeente uitstel aan te vragen vergezeld van een nieuwe datum waarop de coördinerende gemeente beschikt over het strategisch vastgoedplan.
+4. Op het moment dat het niet haalbaar is voor de coördinerende gemeente die een uitkering heeft ontvangen voor activiteiten bedoeld in [artikel 4, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=4&z=2023-07-01&g=2023-07-01), voor 1 december 2022 te beschikken over strategisch vastgoedplan als bedoeld in het derde lid, dient de coördinerende gemeente uitstel aan te vragen vergezeld van een nieuwe datum waarop de coördinerende gemeente beschikt over het strategisch vastgoedplan.
 
 ##### Artikel 12. Verantwoording
 
@@ -259,7 +259,7 @@ Besluit:
 
 ##### Artikel 13. Vaststelling en terugvordering
 
-1. De minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=12&z=2021-10-09&g=2021-10-09), over de vaststelling van de uitkering.
+1. De minister besluit uiterlijk 37 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&artikel=12&z=2023-07-01&g=2023-07-01), over de vaststelling van de uitkering.
 
 2. De minister stelt de uitkering vast tot ten hoogste het bedrag dat is bepaald in het besluit tot verlening, tenzij:
 
@@ -283,7 +283,7 @@ De [Regeling specifieke uitkering vastgoedtransitie gesloten jeugdhulp 2020](htt
 
 ##### Artikel 17. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 september 2025 met dien verstande dat deze regeling van toepassing blijft op de uitkeringen die op grond van deze regeling zijn verstrekt.
+Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 september 2028 met dien verstande dat deze regeling van toepassing blijft op de uitkeringen die op grond van deze regeling zijn verstrekt.
 
 ##### Artikel 18. Citeertitel
 
