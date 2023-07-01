@@ -4,7 +4,7 @@ identifier: "BWBR0046712"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046712"
 soort: "wet"
@@ -85,7 +85,7 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Degene die op het tijdstip van inwerkingtreding van [artikel I, onderdeel W](https://wetten.overheid.nl/jci1.3:c:BWBR0046712&artikel=I&z=2023-07-01&g=2023-07-01), reeds houder is van een verklaring van geen bezwaar in de zin van [artikel 3:95, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:95), wordt vermoed te voldoen aan de in [artikel 3:99a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:99a) opgenomen geschiktheidseis, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
 
 ##### Artikel XII
 
