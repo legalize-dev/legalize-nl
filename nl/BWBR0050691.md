@@ -4,7 +4,7 @@ identifier: "BWBR0050691"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-17"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0050691"
 soort: "AMvB"
@@ -153,5 +153,15 @@ Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.
 Wijzigt het Inkomstenbesluit militairen.
 
 ### Hoofdstuk 9. Wijzigingen met ingang van 1 juli 2023
+
+### Hoofdstuk 10. Slotbepalingen
+
+##### Artikel 9.1
+
+Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie.
+
+##### Artikel 9.2
+
+Wijzigt het Burgerlijk ambtenarenreglement defensie.
 
 ### Hoofdstuk 10. Slotbepalingen
