@@ -4,7 +4,7 @@ identifier: "BWBR0002170"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2021-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002170"
 soort: "wet"
@@ -68,13 +68,13 @@ Er is een Centrale Raad van Beroep, gevestigd te Utrecht.
 
 Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1a), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21b), [21c](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21c) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=23a), van overeenkomstige toepassing op de Centrale Raad van Beroep, met dien verstande dat:
 
-- a. het bestuur bestaat uit drie leden, waaronder de voorzitter, waarbij geldt dat twee leden, waaronder de voorzitter, leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2021-01-01&g=2021-01-01), zijn;
+- a. het bestuur bestaat uit drie leden, waaronder de voorzitter, waarbij geldt dat twee leden, waaronder de voorzitter, leden met rechtspraak belast van de Centrale Raad van Beroep als bedoeld in [artikel 2, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002170&titeldeel=I&artikel=2&z=2023-07-01&g=2023-07-01), zijn;
 
-- b. de voorzitter onderscheidenlijk het andere rechterlijk lid gedurende zijn benoemingsduur als voorzitter onderscheidenlijk ander rechterlijk lid, in plaats van zijn salaris overeenkomstig het bepaalde bij en krachtens [artikel 7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), een bij algemene maatregel van bestuur vast te stellen salaris behorende bij de vervulling van de functie van voorzitter onderscheidenlijk ander rechterlijk lid ontvangt, en dat daarop de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=6), [13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=13), [17, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=17), en [18 tot en met 19 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=18) van overeenkomstige toepassing zijn;
+- b. de voorzitter onderscheidenlijk het andere rechterlijk lid gedurende zijn benoemingsduur als voorzitter onderscheidenlijk ander rechterlijk lid, in plaats van zijn salaris overeenkomstig het bepaalde bij en krachtens de [artikelen 1ab](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) en [7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), een bij algemene maatregel van bestuur vast te stellen salaris behorende bij de vervulling van de functie van voorzitter onderscheidenlijk ander rechterlijk lid ontvangt;
 
-- c. de voorzitter onderscheidenlijk het andere rechterlijk lid na het verstrijken van een benoemingsduur van ten minste zes aaneengesloten jaren, met ingang van de datum waarop hij zijn werkzaamheden als zodanig beëindigt, gedurende drie jaren een toelage ontvangt op het salaris dat hij overeenkomstig het bepaalde bij en krachtens [artikel 7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) geniet, waarvan het bedrag gelijk is aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van voorzitter onderscheidenlijk ander rechterlijk lid vast te stellen salarishoogte;
+- c. de voorzitter onderscheidenlijk het andere rechterlijk lid na het verstrijken van een benoemingsduur van ten minste zes aaneengesloten jaren, met ingang van de datum waarop hij zijn werkzaamheden als zodanig beëindigt, gedurende drie jaren een toelage ontvangt op het salaris dat hij overeenkomstig het bepaalde bij en krachtens de [artikelen 1ab](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ab) en [7 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) geniet, waarvan het bedrag gelijk is aan het verschil tussen dat salaris en de bij algemene maatregel van bestuur voor de functie van voorzitter onderscheidenlijk ander rechterlijk lid vast te stellen salarishoogte;
 
-- d. bij algemene maatregel van bestuur nadere regels worden gesteld over het salaris van de leden van het bestuur en de onkostenvergoeding van de voorzitter en het andere rechterlijk lid;
+- d. bij algemene maatregel van bestuur regels worden gesteld over het salaris van de leden van het bestuur en de onkostenvergoeding van de voorzitter en het andere rechterlijk lid;
 
 - e. de griffie alle werkdagen gedurende ten minste zes uren per dag is geopend;
 
@@ -92,23 +92,17 @@ Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.
 
 - c. het bestuur de lijst van aanbeveling opmaakt bij het openvallen van een plaats van senior raadsheer, raadsheer of raadsheer-plaatsvervanger en de Raad voor de rechtspraak deze lijst telkens, onder medezending van een advies hierover, aan Onze Minister van Veiligheid en Justitie doorzendt met het oog op een voordracht voor benoeming overeenkomstig [artikel 2, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2);
 
-- d. zij voor de overeenkomstige toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=6), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=45) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46) worden gelijkgesteld met bij een gerechtshof of rechtbank werkzame rechterlijke ambtenaren;
+- d. het bestuur de werkzaamheden van de leden met rechtspraak belast verdeelt; en
 
-- e. zij voor de overeenkomstige toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=13) worden gelijkgesteld met rechterlijke ambtenaren van wie de eerste benoeming een ambt bij een gerechtshof of rechtbank betreft;
-
-- f. het bestuur de werkzaamheden van de leden met rechtspraak belast verdeelt; en
-
-- g. het lid met rechtspraak belast, dat tevens president is van de Centrale Raad van Beroep, ten aanzien van hen bevoegd is tot het opleggen van de disciplinaire maatregel van schriftelijke berisping, het verrichten van de beoordeling, bedoeld in [artikel 44, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en het doen van een verzoek aan de procureur-generaal bij de Hoge Raad, bedoeld in [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o).
+- e. het lid met rechtspraak belast, dat tevens president is van de Centrale Raad van Beroep, ten aanzien van hen bevoegd is tot het opleggen van de disciplinaire maatregel van schriftelijke berisping, het verrichten van de beoordeling, bedoeld in [artikel 44, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en het doen van een verzoek aan de procureur-generaal bij de Hoge Raad, bedoeld in [artikel 46o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o).
 
 2. Op de senior-gerechtsauditeurs en gerechtsauditeurs is de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), voor zover betrekking hebbend op gerechtsauditeurs, met uitzondering van [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5b), van overeenkomstige toepassing, met dien verstande dat:
 
 - a. het bestuur wordt aangemerkt als hun functionele autoriteit;
 
-- b. zij voor de overeenkomstige toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=6), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=45) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46) worden gelijkgesteld met rechterlijke ambtenaren die werkzaam zijn bij een gerechtshof of rechtbank;
+- b. het bestuur de werkzaamheden van de senior-gerechtsauditeurs en gerechtsauditeurs verdeelt; en
 
-- c. het bestuur de werkzaamheden van de senior-gerechtsauditeurs en gerechtsauditeurs verdeelt; en
-
-- d. zij voor de overeenkomstige toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=13) worden gelijkgesteld met rechterlijke ambtenaren van wie de eerste benoeming een ambt bij een gerechtshof of rechtbank betreft.
+- c. door vernummering vervallen.
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde ten aanzien van de in het eerste en tweede lid genoemde leden met rechtspraak belast, senior-gerechtsauditeurs en gerechtsauditeurs.
 
