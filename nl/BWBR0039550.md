@@ -4,7 +4,7 @@ identifier: "BWBR0039550"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2018-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039550"
 soort: "wet"
@@ -59,7 +59,7 @@ Wijzigt de Wet aanpassing wettelijke gemeenschap van goederen.
 
 1. Op een gemeenschap van goederen, ontstaan vóór het tijdstip van inwerkingtreding van deze wet, blijft [artikel 94 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=94) van toepassing, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van deze wet.
 
-2. Op een gemeenschap van goederen, ontstaan vóór het tijdstip van inwerkingtreding van deze wet, is [artikel 96, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=96), niet van toepassing.
+2. Op een gemeenschap van goederen, ontstaan vóór het tijdstip van inwerkingtreding van deze wet, zijn de [artikelen 95a](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=95a) en [96, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=96), niet van toepassing.
 
 3. [Artikel 61 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=61) is slechts van toepassing op een faillissement dat is uitgesproken na het tijdstip van inwerkingtreding van deze wet. Op een faillissement dat is uitgesproken vóór dat tijdstip, blijft het recht van toepassing zoals dat gold op de dag voorafgaand aan de inwerkingtreding van deze wet.
 
