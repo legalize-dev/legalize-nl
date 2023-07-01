@@ -4,7 +4,7 @@ identifier: "BWBR0048156"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-11"
-last_updated: "2023-05-12"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048156"
 soort: "wet"
@@ -78,11 +78,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 5. Onze Minister kan een aanwijzing geven aan een orgaan waarvoor de verplichting tot toepassing van een aangewezen standaard geldt, indien dit orgaan een gedragslijn hanteert die strijdig is met een aangewezen standaard.
 
-### Hoofdstuk 3. De generieke digitale infrastructuur
+### Hoofdstuk 2. Algemene regels
 
 ### Hoofdstuk 4. Toegang tot elektronische dienstverlening
 
-### Hoofdstuk 5. Bescherming van persoonsgegevens
+### Hoofdstuk 3. De generieke digitale infrastructuur
 
 ### Hoofdstuk 6. Naleving
 
@@ -106,7 +106,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 23. Evaluatie
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. In het bijzonder wordt hierbij aandacht geschonken aan de getroffen maatregelen op het gebied van beveiliging, privacybescherming en de toegankelijkheid van elektronische dienstverlening.
 
 ##### Artikel 23a
 
@@ -120,33 +120,41 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 25. Parlementaire betrokkenheid bij gedelegeerde regelgeving
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een voordracht voor een krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=4&z=2023-07-01&g=2023-07-01), [5, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2023-07-01&g=2023-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2023-07-01&g=2023-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2023-07-01&g=2023-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=13&z=2023-07-01&g=2023-07-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=7&artikel=22&z=2023-07-01&g=2023-07-01) te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
+
+2. De voordracht voor een krachtens [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=5&artikel=16&z=2023-07-01&g=2023-07-01), vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd, tenzij binnen deze termijn door of namens een van de Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven het onderwerp van de algemene maatregel van bestuur bij wet te regelen.
+
+3. Een krachtens [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2023-07-01&g=2023-07-01), vastgestelde algemene maatregel van bestuur wordt aan beide Kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een van de Kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkende voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de Kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
 ##### Artikel 26. Innovatie
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van nieuwe methoden waarmee authenticatie doeltreffender en veiliger kan plaatsvinden, worden afgeweken van de bij of krachtens deze wet geldende bepalingen.
+
+2. Bij toepassing van het eerste lid wordt geregeld door welke bestuursorganen of aangewezen organisaties, op welke wijze en gedurende welke periode van de wet wordt afgeweken.
+
+3. Een experiment als bedoeld in het eerste lid duurt ten hoogste vier jaar.
+
+4. Onze Minister zendt negen maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment, alsmede een standpunt inzake de voortzetting anders dan als experiment.
 
 ##### Artikel 27. Wijziging [Wegenverkeerswet 1994](onbekend)
 
 Wijzigt de Wegenverkeerswet 1994.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel 28. Omhangen
 
 Na de inwerkingtreding van deze wet berust
 
-- a. dit onderdeel is nog niet in werking getreden;
+- a. het [Besluit verwerking persoonsgegevens generieke digitale infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0037987) op [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=5&artikel=16&z=2023-07-01&g=2023-07-01), van deze wet;
 
-- b. het [Tijdelijk besluit digitale toegankelijkheid overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040936) op [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2023-05-12&g=2023-05-12), van deze wet.
+- b. het [Tijdelijk besluit digitale toegankelijkheid overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040936) op [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), van deze wet.
 
 ##### Artikel 29. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2023-05-12&g=2023-05-12) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=7&artikel=20&z=2023-05-12&g=2023-05-12) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=7&artikel=20&z=2023-07-01&g=2023-07-01) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-3. De in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2023-05-12&g=2023-05-12) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2023-05-12&g=2023-05-12) opgenomen acceptatieplichten zijn voor een bestuursorgaan of aangewezen organisatie niet eerder van toepassing dan nadat dat bestuursorgaan of die aangewezen organisatie kan worden aangesloten op de in [artikel 5, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2023-05-12&g=2023-05-12) bedoelde infrastructuur en voorzieningen overeenkomstig het bij regeling van Onze Minister, gehoord Onze Ministers die het mede aangaat, op te stellen aansluitschema. Het aansluitschema kan erin voorzien dat de acceptatieplichten voor verschillende diensten van een bestuursorgaan of aangewezen organisatie op verschillende momenten van toepassing worden. De regeling met aansluitschema wordt gepubliceerd in de Staatscourant.
+3. De in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2023-07-01&g=2023-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2023-07-01&g=2023-07-01) opgenomen acceptatieplichten zijn voor een bestuursorgaan of aangewezen organisatie niet eerder van toepassing dan nadat dat bestuursorgaan of die aangewezen organisatie kan worden aangesloten op de in [artikel 5, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2023-07-01&g=2023-07-01) bedoelde infrastructuur en voorzieningen overeenkomstig het bij regeling van Onze Minister, gehoord Onze Ministers die het mede aangaat, op te stellen aansluitschema. Het aansluitschema kan erin voorzien dat de acceptatieplichten voor verschillende diensten van een bestuursorgaan of aangewezen organisatie op verschillende momenten van toepassing worden. De regeling met aansluitschema wordt gepubliceerd in de Staatscourant.
 
 ##### Artikel 30. Citeertitel
 
@@ -155,5 +163,219 @@ Deze wet wordt aangehaald als: Wet digitale overheid.
 ## Bijlage. bij [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=1&artikel=2&z=2023-05-12&g=2023-05-12), van de Wet digitale overheid
 
 Dit onderdeel is nog niet inwerking getreden
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 1. Definities
+
+In deze wet en de daarop berustende bepalingen wordt verstaan onder:
+
+- –. **aangewezen organisatie:** organisatie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=1&artikel=2&z=2023-07-01&g=2023-07-01);
+
+- –. **attribuut:** uniek kenmerk of gegeven van een natuurlijke persoon, onderneming of rechtspersoon;
+
+- –. **authenticatie:** elektronisch proces voor de verificatie en bevestiging van de identiteit van een natuurlijke persoon, onderneming of rechtspersoon;
+
+- –. **authenticatiedienst:** partij die op basis van een identificatiemiddel een authenticatieverklaring afgeeft;
+
+- –. **bedrijfs- en organisatiemiddel:** identificatiemiddel voor een onderneming of rechtspersoon als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5) onderscheidenlijk [6 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=6) of een op grond van [artikel 8, aanhef en onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=8) aangewezen rechtspersoon dat wordt uitgegeven aan een natuurlijke persoon die blijkens een aan dat middel gekoppelde of te koppelen machtiging van een erkende machtigingsdienst bevoegd is om namens die onderneming of rechtspersoon te handelen en waarmee deze onderneming of rechtspersoon toegang kan krijgen tot elektronische dienstverlening;
+
+- –. **betrouwbaarheidsniveau:** mate waarin vertrouwen kan worden gesteld in een identificatiemiddel;
+
+- –. **eIDAS-verordening:** [Verordening (EU) nr. 910/2014](32014R0910) van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van [Richtlijn 1999/93/EG](31999L0093) (Pb EU 2014, L 257) en de krachtens deze verordening vastgestelde uitvoeringshandelingen;
+
+- –. **elektronische dienstverlening:** verlening van elektronische diensten aan natuurlijke personen, ondernemingen of rechtspersonen ter uitoefening van een publieke taak, in het algemeen belang of waarbij het burgerservicenummer wordt verwerkt, door een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1) of een aangewezen organisatie;
+
+- –. **erkende dienst:** middelenuitgever, authenticatiedienst, ontsluitende dienst of machtigingsdienst die is erkend op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2023-07-01&g=2023-07-01) of [11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2023-07-01&g=2023-07-01) van deze wet.
+
+- –. **identificatiemiddel:** elektronisch middel dat persoonsidentificatiegegevens bevat en gebruikt wordt voor de authenticatie van een natuurlijke persoon, rechtspersoon of onderneming die toegang wenst tot elektronische dienstverlening;
+
+- –. **machtigingsdienst:** partij die ten behoeve van toegang tot dienstverlening een elektronische verklaring afgeeft waaruit blijkt dat een natuurlijke persoon, onderneming of rechtspersoon optreedt namens een andere natuurlijke persoon, onderneming of rechtspersoon;
+
+- –. **middelenuitgever:** partij die zorg draagt voor de uitgifte van erkende identificatiemiddelen aan natuurlijke personen, rechtspersonen of ondernemingen;
+
+- –. **online identiteit:** de voorziening, bedoeld in [artikel 5, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2023-07-01&g=2023-07-01);
+
+- –. **ontsluitende dienst:** partij die het elektronisch verkeer tussen een bestuursorgaan of aangewezen organisatie en erkende authenticatiediensten, middelenuitgevers en machtigingsdiensten routeert teneinde toegang tot elektronische dienstverlening te faciliteren;
+
+- –. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+
+- –. **privaat identificatiemiddel:** niet van rijkswege uitgegeven aan een natuurlijke persoon, onderneming of rechtspersoon verstrekt identificatiemiddel;
+
+- –. **publiek identificatiemiddel:** van rijkswege uitgegeven aan een natuurlijke persoon verstrekt identificatiemiddel;
+
+- –. **toegelaten identificatiemiddel:** identificatiemiddel voor een natuurlijke persoon dat is aangewezen of erkend ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2023-07-01&g=2023-07-01).
+
+##### Artikel 2. Reikwijdte
+
+1. Voor zover in deze wet, uitgezonderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), wordt verwezen naar bestuursorganen, wordt hieronder verstaan bestuursorganen als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1).
+
+2. Voor zover in deze wet wordt verwezen naar aangewezen organisaties, wordt gedoeld op:
+
+- a. de organisaties behorende tot een in de bijlage bij deze wet aangewezen categorie, en
+
+- b. de organisaties die bij besluit, als bedoeld in het zesde lid, zijn aangewezen.
+
+3. Voor de toepassing van deze wet worden rechterlijke instanties gelijkgesteld met bestuursorganen en aangewezen organisaties, tenzij bij of krachtens deze wet anders is bepaald. Onder rechterlijke instanties wordt verstaan:
+
+- a. de gerechten bedoeld in [artikel 2 van de Wet op de Rechterlijke Organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2);
+
+- b. de Afdeling bestuursrechtspraak van de Raad van State;
+
+- c. het College van Beroep voor het bedrijfsleven;
+
+- d. de Centrale Raad van Beroep.
+
+4. Op de voordracht van Onze Minister in overeenstemming met Onze Minister die het mede aangaat, kunnen bij algemene maatregel van bestuur categorieën van organisaties aan de bijlage, bedoeld in het tweede lid onderdeel a, worden toegevoegd indien die categorie elektronische diensten verleent waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog vereist is.
+
+5. Op de voordracht van Onze Minister in overeenstemming met Onze Minister die het mede aangaat, kunnen bij algemene maatregel van bestuur categorieën van organisaties van de bijlage, bedoeld in het tweede lid onderdeel a, worden verwijderd indien die categorie niet langer elektronische diensten verleent waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog vereist is.
+
+6. Bij besluit van Onze Minister in overeenstemming met Onze Minister die het mede aangaat kan een organisatiedie elektronische diensten verleent waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog vereist is, voor de toepassing van deze wet worden aangewezen.
+
+7. Bij besluit van Onze Minister in overeenstemming met Onze Minister die het mede aangaat kan de aanwijzing van een organisatie worden ingetrokken indien die organisatie niet langer elektronische diensten verleent waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog vereist is.
+
+8. Van een besluit tot aanwijzing of intrekking wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+##### Artikel 4. Informatieveiligheid
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 5. Verantwoordelijkheid voor het beheer
+
+1. Onze Minister draagt zorg voor de inrichting, beschikbaarstelling, instandhouding, werking en beveiliging van de generieke digitale infrastructuur, waaronder infrastructuur:
+
+- a. voor de uitgifte aan natuurlijke personen die beschikken over een burgerservicenummer en het gebruik door die personen van publieke identificatiemiddelen op verschillende betrouwbaarheidsniveaus;
+
+- b. die het mogelijk maakt dat een elektronische verklaring wordt afgegeven waaruit blijkt dat een natuurlijke persoon, onderneming of rechtspersoon gemachtigd is namens een andere natuurlijke persoon, onderneming of rechtspersoon op te treden bij de toegang tot elektronische dienstverlening;
+
+- c. die het mogelijk maakt dat identificatiemiddelen door natuurlijke personen, ondernemingen of rechtspersonen worden gebruikt voor de toegangsverlening tot de elektronische diensten van bestuursorganen en aangewezen organisaties;
+
+- d. die het mogelijk maakt dat een natuurlijke persoon, onderneming of rechtspersoon die een elektronische dienst afneemt bij een bestuursorgaan of aangewezen organisatie aan de hand van een uniek identificerend nummer geïdentificeerd kan worden;
+
+- e. die het mogelijk maakt het stelsel voor identificatie van ondernemingen en rechtspersonen te beheren;
+
+- f. voor elektronisch berichtenverkeer met en informatieverschaffing aan natuurlijke personen, ondernemingen en rechtspersonen. Onze Minister bevordert de interoperabiliteit tussen deze infrastructuur en de diensten en bedrijfs- en organisatiemiddelen, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2023-07-01&g=2023-07-01);
+
+- g. dit onderdeel is nog niet in werking getreden.
+
+2. Onze Minister draagt zorg voor een voorziening:
+
+- a. die het mogelijk maakt identificatiemiddelen voor natuurlijke personen, ondernemingen en rechtspersonen, die behoren tot een door een lidstaat van de Europese Unie ingevolge de eIDAS-verordening bij de Europese Commissie aangemeld en goedgekeurd stelsel, op een voor bestuursorganen en aangewezen organisaties toegankelijke wijze te ontsluiten;
+
+- b. die het mogelijk maakt identificatiemiddelen voor natuurlijke personen, ondernemingen en rechtspersonen, die behoren tot een door Nederland ingevolge de eIDAS-verordening bij de Europese Commissie aangemeld en goedgekeurd stelsel, op een voor openbare instanties als bedoeld in artikel 3 van de eIDAS-verordening, in andere lidstaten toegankelijke wijze te ontsluiten.
+
+3. Onder toegankelijke wijze van ontsluiten, bedoeld in het tweede lid onder a, wordt mede verstaan toevoeging aan de met de authenticatie van het betrokken identificatiemiddel ontvangen set persoonsidentificatiegegevens van een burgerservicenummer of andere aan de natuurlijke persoon, onderneming of rechtspersoon gekoppelde gegevens, voor zover die gegevens noodzakelijk zijn om de betrokken natuurlijke persoon, onderneming of rechtspersoon ten behoeve van het verrichten van de elektronische dienstverlening in hun systemen te herkennen en voor zover die gegevens niet middels een andere voorziening op betrouwbare wijze toegevoegd kunnen worden aan de bij de toegang met identificatiemiddelen, bedoeld in het tweede lid, onderdeel a, verkregen persoonsidentificatiegegevens.
+
+4. De Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), draagt namens Onze Minister zorg voor het plaatsen van een publiek identificatiemiddel op betrouwbaarheidsniveau hoog op het rijbewijs. Aan de Dienst Wegverkeer kunnen bij ministeriële regeling overige taken worden opgedragen die samenhangen met het plaatsen van een publiek identificatiemiddel op het rijbewijs.
+
+5. Bij of krachtens algemene maatregel van bestuur kunnen, met het oog op de inrichting, beschikbaarstelling, instandhouding, werking en beveiliging van de generieke digitale infrastructuur, regels worden gesteld, waaronder met betrekking tot andere dan de in het eerste lid, onderdelen a tot en met e, en tweede lid genoemde voorzieningen en met betrekking tot de voorziening, bedoeld in het eerste lid, onderdeel f, waarbij aan de daarbij bepaalde bestuursorganen en aangewezen organisaties een aansluitplicht kan worden opgelegd.
+
+6. Dit lid is nog niet in werking getreden.
+
+### Hoofdstuk 4. Toegang tot elektronische dienstverlening
+
+#### § 4.1. Algemeen
+
+##### Artikel 6. Betrouwbaarheidsniveaus
+
+1. Bij elektronische dienstverlening waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog vereist is, verlenen bestuursorganen en aangewezen organisaties uitsluitend toegang tot de dienstverlening indien gebruik wordt gemaakt van identificatiemiddelen die ten minste het voor de betreffende dienstverlening vereiste betrouwbaarheidsniveau hebben.
+
+2. Bestuursorganen en aangewezen organisaties bepalen volgens bij ministeriële regeling te stellen regels voor welke door hen te verlenen elektronische diensten authenticatie op een bepaald betrouwbaarheidsniveau vereist is en doen daarvan op bij die regeling gestelde wijze mededeling.
+
+3. Bestuursorganen en aangewezen organisaties bepalen volgens bij ministeriële regeling te stellen regels voor welke door hen te verlenen elektronische diensten machtiging op een bepaald betrouwbaarheidsniveau vereist is.
+
+4. Bij ministeriële regeling kunnen regels worden gesteld over het gedurende een bepaalde periode toestaan van toegang tot diensten, waarvoor volgens de krachtens het tweede lid gestelde regels authenticatie op betrouwbaarheidsniveau substantieel of hoog vereist is, met gebruikmaking van door Onze Minister aangewezen identificatiemiddelen die het betrouwbaarheidsniveau laag respectievelijk substantieel hebben. Voor een identificatiemiddel op betrouwbaarheidsniveau laag geldt dat sprake moet zijn van ten minste twee authenticatiefactoren zoals bedoeld in de eIDAS-verordening.
+
+#### § 4.2. Elektronische dienstverlening aan burgers
+
+##### Artikel 7. Acceptatie
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 8. Gebruik in publieke domein
+
+1. Een publiek identificatiemiddel en de voorziening, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2023-07-01&g=2023-07-01), worden uitsluitend gebruikt voor de toegang tot elektronische dienstverlening door bestuursorganen en aangewezen organisaties.
+
+2. Bij ministeriële regeling kan worden bepaald dat een publiek identificatiemiddel en de voorziening, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2023-07-01&g=2023-07-01), tevens kan worden gebruikt voor de toegang tot daarbij bepaalde elektronische diensten, anders dan diensten ter uitoefening van een publieke taak, in het algemeen belang of waarbij het burgerservicenummer wordt verwerkt, van aangewezen organisaties.
+
+3. Bij ministeriële regeling kan Onze Minister in overeenstemming met Onze Minister die het aangaat bepalen dat een publiek identificatiemiddel en de voorziening, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2023-07-01&g=2023-07-01), tevens ten behoeve van aangewezen organisaties kan worden gebruikt voor het verlenen van toegang tot een systeem voor de elektronische uitwisseling van gegevens waarbij het burgerservicenummer wordt verwerkt, anders dan een systeem voor elektronische dienstverlening.
+
+##### Artikel 9. Toelaten van identificatiemiddelen en diensten
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 10. Regels ten aanzien van gebruik
+
+1. De gebruiker van een toegelaten identificatiemiddel neemt alle nodige maatregelen om misbruik, diefstal, verlies of verspreiding van zijn identificatiemiddel te voorkomen.
+
+2. Bij ministeriële regeling worden regels gesteld met betrekking tot het gebruik van publieke identificatiemiddelen en de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2023-07-01&g=2023-07-01).
+
+#### § 4.3. Elektronische dienstverlening aan bedrijven
+
+### Hoofdstuk 5. Bescherming van persoonsgegevens
+
+##### Artikel 16. Bescherming persoonsgegevens
+
+1. Onze Minister, alsmede bestuursorganen en aangewezen organisaties verwerken persoonsgegevens, waaronder het burgerservicenummer, voor zover dit noodzakelijk is voor de goede uitvoering van hun taken en verplichtingen ingevolge deze wet, in het bijzonder het bieden van goede en veilige toegang tot elektronische dienstverlening en het voorkomen van misbruik of oneigenlijk gebruik van de toegang tot elektronische dienstverlening.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Bij algemene maatregel van bestuur worden regels gesteld over de persoonsgegevens die worden verwerkt, aan wie deze gegevens worden verstrekt en hoe lang deze worden bewaard.
+
+### Hoofdstuk 6. Naleving
+
+##### Artikel 17. Toezicht en handhaving
+
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01)door overheidsorganen op het niveau van het Rijk en van het bepaalde bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.1&artikel=6&z=2023-07-01&g=2023-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2023-07-01&g=2023-07-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=8&z=2023-07-01&g=2023-07-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2023-07-01&g=2023-07-01) door bestuursorganen op het niveau van het Rijk en door de aangewezen organisaties zijn belast de bij besluit van Onze Minister die het aangaat aangewezen ambtenaren.
+
+2. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.1&artikel=6&z=2023-07-01&g=2023-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2023-07-01&g=2023-07-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=8&z=2023-07-01&g=2023-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2023-07-01&g=2023-07-01) door bestuursorganen op het niveau van de provincies zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=4&z=2023-07-01&g=2023-07-01) en het bepaalde bij of krachtens [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=8&z=2023-07-01&g=2023-07-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+
+5. Dit lid is nog niet in werking getreden.
+
+6. Van een besluit als bedoeld in het eerste, tweede, vierde en vijfde lid wordt mededeling gedaan door plaatsing in de Staatscourant.
+
+7. Dit lid is nog niet in werking getreden.
+
+8. Onze Minister kan degene die handelt in strijd met het bepaalde bij of krachtens [artikel 9, vierde, zevende of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2023-07-01&g=2023-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2023-07-01&g=2023-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=13&z=2023-07-01&g=2023-07-01) en [14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=14&z=2023-07-01&g=2023-07-01), daartoe opdracht heeft gegeven of feitelijk leiding geeft aan de rechtspersoon die in strijd met het bepaalde bij of krachtens artikel 13, eerste, tweede, derde of vierde lid, een bestuurlijke boete opleggen van ten hoogste het bedrag dat is vastgesteld voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), per overtreding die is begaan.
+
+##### Artikel 18. Bijzondere bevoegdheden
+
+1. Onze Minister kan de toegang tot elektronische dienstverlening van een bestuursorgaan of een aangewezen organisatie onderbreken of doen onderbreken indien sprake is van:
+
+- a. een ernstige storing of ernstige aantasting van de werking, beveiliging of betrouwbaarheid van de elektronische dienstverlening of de dreiging daarvan,
+
+- b. misbruik of oneigenlijk gebruik van de toegang tot elektronische dienstverlening of de dreiging daarvan, of
+
+- c. niet-naleving door het betrokken bestuursorgaan of de betrokken aangewezen organisatie van het bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=4&z=2023-07-01&g=2023-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2023-07-01&g=2023-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=8&z=2023-07-01&g=2023-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2023-07-01&g=2023-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=7&artikel=21&z=2023-07-01&g=2023-07-01) bepaalde.
+
+2. Een bestuursorgaan of een aangewezen organisatie stelt Onze Minister onverwijld in kennis van een inbreuk op de beveiliging of de integriteit van een eigen elektronische dienst of van misbruik of oneigenlijk gebruik van de toegang tot de eigen elektronische dienstverlening. Het bestuursorgaan of de aangewezen organisatie verstrekt daarbij alle benodigde informatie.
+
+3. De desbetreffende toezichthouder stelt Onze Minister onverwijld in kennis van niet-naleving door een bestuursorgaan of aangewezen organisatie van het bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=4&z=2023-07-01&g=2023-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2023-07-01&g=2023-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=8&z=2023-07-01&g=2023-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2023-07-01&g=2023-07-01) bepaalde. De toezichthouder verstrekt daarbij alle benodigde informatie.
+
+4. Onze Minister kan de toegang tot elektronische dienstverlening via een welbepaald toegelaten identificatiemiddel of erkend bedrijfs- en organisatiemiddel onderbreken of doen onderbreken bij het vermoeden van misbruik of oneigenlijk gebruik van het desbetreffende middel.
+
+##### Artikel 19. Informatieverstrekking
+
+1. Bestuursorganen en aangewezen organisaties, op grond van [artikel 9, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2023-07-01&g=2023-07-01), toegelaten houders van een erkenning en op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2023-07-01&g=2023-07-01) erkende middelenuitgevers en diensten verstrekken aan Onze Minister desgevraagd en uit eigen beweging de gegevens en inlichtingen die hij nodig heeft om maatregelen te kunnen nemen om inbreuk op de veilige en betrouwbare toegang tot elektronische dienstverlening te voorkomen of beëindigen.
+
+2. Onze Minister verstrekt gegevens en inlichtingen aan bestuursorganen en aangewezen organisaties, aan de ingevolge [artikel 9, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2023-07-01&g=2023-07-01), toegelaten houder van een erkenning of aan een ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2023-07-01&g=2023-07-01) erkende middelenuitgever of dienst over de inbreuk op de veilige en betrouwbare toegang tot elektronische dienstverlening voor zover dit noodzakelijk is voor een goede uitoefening van hun taken of te verlenen diensten in het kader van deze wet.
+
+### Hoofdstuk 7. Financiële bepalingen
+
+### Hoofdstuk 8. Overgangs- en slotbepalingen
+
+## Bijlage. bij [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=1&artikel=2&z=2023-07-01&g=2023-07-01), van de Wet digitale overheid
+
+- 1. Instellingen voor hoger onderwijs in de zin van [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1).
+
+- 2. De pensioenuitvoerders, bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) en [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1).
+
+- 3. De categorieën van zorgaanbieders, categorieën van indicatieorganen en categorieën van zorgverzekeraars die vallen onder de [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864), in het kader van de taken waarvoor zij op basis van deze wet het burgerservicenummer gebruiken.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
