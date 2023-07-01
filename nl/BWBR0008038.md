@@ -4,7 +4,7 @@ identifier: "BWBR0008038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2021-08-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008038"
 soort: "ministeriele-regeling"
@@ -93,7 +93,7 @@ Model 10: Begeleidingspas model 2018.
 
 ##### Artikel 2
 
-De Minister van Infrastructuur en Waterstaat kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2021-08-01&g=2021-08-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
+De Minister van Infrastructuur en Waterstaat kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2023-07-01&g=2023-07-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
 
 ##### Artikel 3
 
@@ -325,9 +325,7 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 ##### Artikel 2a
 
-In deze regeling wordt verstaan onder:
-
-- **publiek identificatiemiddel:** van rijkswege uitgegeven aan een natuurlijke persoon verstrekt elektronisch middel dat persoonsidentificatiegegevens bevat en wordt gebruikt voor de authenticatie van een natuurlijke persoon die toegang wenst tot elektronische dienstverlening.
+In deze regeling wordt verstaan onder **publiek identificatiemiddel**: publiek identificatiemiddel als bedoeld in [artikel 5, vierde lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=5).
 
 ##### Artikel 2b
 
@@ -335,9 +333,17 @@ Het rijbewijs is voorzien van een contactloze microchip die voldoet aan de eisen
 
 ##### Artikel 2c
 
-1. Op de microchip worden die gegevens vermeld die ook op het rijbewijs zelf zijn vermeld, met dien verstande dat alle voor- en achternamen van de rijbewijshouder voluit worden vermeld en dat bij alle hoofdcodes eveneens alle subcodes worden vermeld.
+Op de microchip staan de volgende gegevens:
 
-2. De microchip bevat voorts een functionaliteit voor een publiek identificatiemiddel indien de aanvrager van het rijbewijs is ingeschreven in de basisregistratie personen.
+- a. die gegevens die ook op het rijbewijs zijn vermeld, met dien verstande dat alle voor- en achternamen van de rijbewijshouder voluit worden vermeld en dat bij alle hoofdcodes eveneens alle subcodes worden vermeld;
+
+- b. de functionaliteit voor het publiek identificatiemiddel indien de aanvrager van het rijbewijs is ingeschreven in de basisregistratie personen;
+
+- c. het burgerservicenummer in versleutelde vorm ten behoeve van authenticatie van de houder van het document in het kader van elektronische dienstverlening als bedoeld in [artikel 5, vierde lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=5);
+
+- d. het burgerservicenummer in afgeleide vorm ten behoeve van authenticatie van de houder van het document in het kader van elektronische dienstverlening anders dan als bedoeld in [artikel 5, vierde lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=5); en
+
+- e. gegevens die betrekking hebben op de plaatsing op het rijbewijs van het publieke identificatiemiddel, de activering, blokkering of deblokkering, alsmede de status of de wijziging van de status van dat publieke identificatiemiddel.
 
 ## Bijlage. behorende bij de Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren
 
@@ -427,7 +433,7 @@ Indien de EU-typegoedkeuring van het rijbewijs die ten grondslag ligt aan model 
 
 ##### Artikel 2e
 
-[Artikel 2c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=2c&z=2021-08-01&g=2021-08-01), is niet van toepassing indien de aanvrager bij de aanvraag te kennen heeft gegeven een rijbewijs zonder functionaliteit voor een publiek identificatiemiddel te willen ontvangen.
+Vervallen
 
 ##### Artikel 2f
 
