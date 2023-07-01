@@ -4,7 +4,7 @@ identifier: "BWBR0031799"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2020-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031799"
 soort: "wet"
@@ -65,13 +65,13 @@ Vervallen
 
 ##### Artikel VI. Inwerkingtreding
 
-1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=I&z=2020-01-01&g=2020-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=II&z=2020-01-01&g=2020-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=V&z=2020-01-01&g=2020-01-01) van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=I&z=2023-07-01&g=2023-07-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=II&z=2023-07-01&g=2023-07-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=V&z=2023-07-01&g=2023-07-01) van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=III&z=2020-01-01&g=2020-01-01) en [artikel IV, onderdelen A, K, L, M, N, O en Z](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2020-01-01&g=2020-01-01), treden in werking met ingang van 1 januari 2014.
+2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=III&z=2023-07-01&g=2023-07-01) en [artikel IV, onderdelen A, K, L, M, N, O en Z](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2023-07-01&g=2023-07-01), treden in werking met ingang van 1 januari 2014.
 
-3. [Artikel IV, onderdelen B, P en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2020-01-01&g=2020-01-01), treedt in werking met ingang van 1 januari 2015.
+3. [Artikel IV, onderdelen B, P en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2023-07-01&g=2023-07-01), treedt in werking met ingang van 1 januari 2015.
 
-4. [Artikel IV, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2020-01-01&g=2020-01-01), treedt in werking met ingang van 1 januari 2025.
+4. [Artikel IV, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2023-07-01&g=2023-07-01), treedt in werking met ingang van 1 januari 2025.
 
 ##### Artikel VII. Citeertitel
 
