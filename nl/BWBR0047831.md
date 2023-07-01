@@ -4,7 +4,7 @@ identifier: "BWBR0047831"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-07-01"
-last_updated: "2023-03-23"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047831"
 soort: "AMvB"
@@ -58,8 +58,6 @@ Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
 Wijzigt het Besluit gereglementeerde markten Wft.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
@@ -72,14 +70,12 @@ Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2022.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
