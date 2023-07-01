@@ -137,9 +137,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet toekomst pensioen
 Deze regeling wordt aangehaald als: Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 1, die wordt gepubliceerd op de website [www.dnb.nl](onbekend)
-
-## Bijlage 1
-
-Gepubliceerd op de website van DNB.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van bijlage 1, die wordt gepubliceerd op de website [www.dnb.nl](onbekend)
