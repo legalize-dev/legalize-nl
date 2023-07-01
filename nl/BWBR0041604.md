@@ -4,7 +4,7 @@ identifier: "BWBR0041604"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2018-05-25"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041604"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ BESLUIT:
 
 ##### Artikel 1
 
-MRZ-code: een machine-leesbare strook op het rijbewijs die dient als gecodeerde sleutel om rijbewijsgegevens op de microchip van het rijbewijs te kunnen benaderen.
+Vervallen
 
 #### § 2. Aanwijzing overheidsorganen
 
@@ -80,7 +80,13 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna genoe
 
 - e. aan de Minister van Infrastructuur en Waterstaat: de gegevens uit het rijbewijzenregister die noodzakelijk zijn ter uitvoering van de in [artikel 7:6, eerste lid, onder a, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=7:6) genoemde taak of ter uitvoering van de [artikelen 79, eerste lid, onderdeel e, en 104, eerste lid, onderdeel c, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=79);
 
-- f. aan het agentschap Logius: na opgave van het burgerservicenummer en indien bij controle op basis daarvan door de Dienst Wegverkeer blijkt dat er sprake is van een geldig rijbewijs de MRZ-code van het rijbewijs dat is afgegeven aan de persoon aan wie het opgegeven burgerservicenummer toebehoort, ten behoeve van extra controle van de via DigiD vastgestelde identiteit.
+- f. aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties:
+
+- 1°. na opgave van het burgerservicenummer en indien bij controle op basis daarvan door de Dienst Wegverkeer blijkt dat sprake is van een geldig rijbewijs de MRZ-code van het rijbewijs dat is afgegeven aan de persoon aan wie het opgegeven burgerservicenummer toebehoort, ten behoeve van extra controle van de via DigiD vastgestelde identiteit.
+
+- 2°. ten behoeve van de plaatsing, de activering en het gebruik van het publieke identificatiemiddel, bedoeld in [artikel 5, vierde lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=5), op het rijbewijs: de gegevens die noodzakelijk zijn voor het activeren, het blokkeren en deblokkeren van het publieke identificatiemiddel op het rijbewijs;
+
+- 3°. ten behoeve van de uitoefening van het inzagerecht door betrokkene: het burgerservicenummer in versleutelde vorm, de status van het rijbewijs, en de status van het publieke identificatiemiddel, alsmede wijzigingen in deze statussen.
 
 ##### Artikel 5
 
