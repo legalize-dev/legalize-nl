@@ -4,7 +4,7 @@ identifier: "BWBR0046599"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-05-01"
-last_updated: "2022-11-19"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046599"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 - **groenfonds:** een bank of beleggingsinstelling als bedoeld in [artikel 5.14, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14);
 
-- **Landbouw Groepsvrijstellingsverordening:** [Verordening (EU) nr. 702/2014](32014R0702) van de Commissie van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2014, L 193);
+- **Landbouw Groepsvrijstellingsverordening:** [Verordening (EU) nr. 2022/2472](32472R2022) van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2022, L 327);
 
 - **landbouwsector:** landbouwsector als bedoeld in artikel 2 van de Landbouw Groepsvrijstellingsverordening;
 
@@ -104,7 +104,9 @@ In deze regeling wordt verstaan onder:
 
 - **verbeterproject:** project gericht op een wezenlijke verandering van een bestaand project, waardoor dit project naar inrichting, aard of omvang een wijziging ondergaat die het project aanmerkelijk waardevoller maakt voor het milieu, waaronder natuur en bos;
 
-- **voedselbos:** door mensen ontworpen productief ecosysteem naar het voorbeeld van een natuurlijk bos, met een hoge diversiteit aan meerjarige of houtige soorten, waarvan delen voor de mens als voedsel dienen.
+- **Visserij Groepsvrijstellingsverordening:** [Verordening (EU) nr. 2022/2473](32473R2022) van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun voor ondernemingen die actief zijn in de productie, de verwerking en de afzet van visserij- en aquacultuurproducten op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2022, L 327);
+
+- **voedselbos:** door mensen ontworpen productief ecosysteem naar het voorbeeld van een natuurlijk bos, met een hoge diversiteit aan meerjarige of houtige soorten, waarvan delen voor de mens als voedsel dienen;
 
 - **woning:** gebouw, bedoeld voor bewoning, dat voortdurend als hoofdverblijf ter beschikking staat aan een of meer natuurlijke personen en per wooneenheid ten minste is voorzien van een eigen toegang, toilet, bad- of douchevoorziening, alsmede van een energieaansluiting, bedoeld voor een kooktoestel om een maaltijd te kunnen bereiden.
 
@@ -166,9 +168,9 @@ De Minister van Infrastructuur en Waterstaat kan, in overeenstemming met de Mini
 
 - h. projecten waarvan het te verwachten economische rendement van het project in verhouding tot het risico zodanig is dat het zonder toepassing van de regeling tot stand kan komen;
 
-- i. projecten door een onderneming ten aanzien waarvan een bevel tot terugvordering uitstaat, overeenkomstig artikel 1, vierde lid, onderdelen a en b, van de Algemene Groepsvrijstellingsverordening of artikel 1, vijfde lid, van de Landbouw Groepsvrijstellingsverordening; of
+- i. projecten door een onderneming ten aanzien waarvan een bevel tot terugvordering uitstaat, overeenkomstig artikel 1, vierde lid, onderdelen a en b, van de Algemene Groepsvrijstellingsverordening of artikel 1, vierde lid, van de Landbouw Groepsvrijstellingsverordening of artikel 1, vijfde lid, van de Visserij Groepsvrijstellingsverordening; of
 
-- j. projecten door een onderneming in moeilijkheden, overeenkomstig artikel 1, vierde lid, onderdeel c, van de Algemene Groepsvrijstellingsverordening of artikel 1, zesde lid, van de Landbouw Groepsvrijstellingsverordening.
+- j. projecten door een onderneming in moeilijkheden, overeenkomstig artikel 1, vierde lid, onderdeel c, van de Algemene Groepsvrijstellingsverordening, artikel 1, vijfde lid, van de Landbouw Groepsvrijstellingsverordening of artikel 1, vierde lid van de Visserij Groepsvrijstellingsverordening.
 
 2. Een groenverklaring wordt niet afgegeven indien de aanvrager, na daartoe een verzoek ontvangen te hebben, niet binnen de gestelde termijn de gegevens verstrekt die van belang kunnen zijn voor de beoordeling van het project.
 
@@ -204,9 +206,9 @@ De Minister van Infrastructuur en Waterstaat maakt de gegevens, bedoeld in bijla
 
 - a. als met een project waarvoor een groenverklaring is verstrekt een financieel voordeel wordt behaald van meer dan € 500.000;
 
-- b. als met een project als bedoeld in projectcategorie 1 of de subcategorieën 2.1.1, voor zover het de productie van landbouwproducten betreft, 2.1.3, 2.1.4 of 2.1.6 van de bijlage waarvoor een groenverklaring is verstrekt een financieel voordeel wordt behaald van meer dan € 60.000;
+- b. als met een project als bedoeld in projectcategorie 1 of de subcategorieën 2.1.1, voor zover het de productie van landbouwproducten betreft, 2.1.3, 2.1.4 of 2.1.6 van de bijlage waarvoor een groenverklaring is verstrekt een financieel voordeel wordt behaald van meer dan € 10.000;
 
-- c. als met een project als bedoeld in de subcategorie 2.4.1 waarvoor een groenverklaring is verstrekt en een financieel voordeel wordt behaald van meer dan € 30.000.
+- c. als met een project als bedoeld in de subcategorie 2.4.1 waarvoor een groenverklaring is verstrekt en een financieel voordeel wordt behaald van meer dan € 10.000.
 
 ##### Artikel 9
 
@@ -220,7 +222,7 @@ De Minister van Infrastructuur en Waterstaat maakt de gegevens, bedoeld in bijla
 
 - d. niet wordt voldaan aan de voorschriften die in de groenverklaring zijn opgenomen; of
 
-- e. niet wordt voldaan aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=5&artikel=10&z=2022-11-19&g=2022-11-19).
+- e. niet wordt voldaan aan [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=5&artikel=10&z=2023-07-01&g=2023-07-01).
 
 2. Het besluit tot intrekking kan terugwerkende kracht hebben.
 
@@ -256,7 +258,7 @@ Deze regeling treedt in werking met ingang van 1 juni 2022.
 
 Deze regeling wordt aangehaald als: Regeling groenprojecten 2022.
 
-## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=2&artikel=2&z=2022-11-19&g=2022-11-19)
+## Bijlage. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01)
 
 ### Projectcategorie 1. Natuur
 
@@ -264,7 +266,7 @@ Categorie 1.1: Natuur en landschap
 
 Projectomschrijving: projecten gericht op de ontwikkeling en instandhouding van natuur- en landschappelijke waarden, in overeenstemming met de gemeentelijke omgevingsvisie.
 
-Projectvermogen: Een groenverklaring wordt niet afgegeven op een aanvraag in deze categorie als artikel 53 van de Algemene Groepsvrijstellingsverordening van toepassing is en de steun meer bedraagt dan € 1.000.000 per onderneming. Als artikel 29 van de Landbouwgroepsvrijstellingsverordening van toepassing is, wordt een aanvraag in deze categorie niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: Een groenverklaring wordt niet afgegeven op een aanvraag in deze categorie als artikel 53 van de Algemene Groepsvrijstellingsverordening van toepassing is en de steun meer bedraagt dan € 1.000.000 per onderneming. Als artikel 36 van de Landbouwgroepsvrijstellingsverordening van toepassing is, wordt een aanvraag in deze categorie niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 ### Projectcategorie 2. Duurzame landbouw
 
@@ -274,7 +276,7 @@ Subcategorie 2.1.1: Produceren of verwerken van biologische landbouwproducten
 
 Projectomschrijving: produceren of verwerken van biologische landbouwproducten overeenkomstig het Landbouwkwaliteitsbesluit 2007 of het Besluit dierlijke producten.
 
-Projectvermogen: voor zover de aanvraag betrekking heeft op de verwerving van grond, komt voor een groenverklaring in aanmerking een bedrag dat is gemoeid met de verwerving van grond, voor zover dit het bedrag dat voortvloeit uit de toepassing van artikel 14, zesde lid, onderdeel a, van de Landbouw Groepsvrijstellingsverordening overschrijdt en tot een maximum dat op grond van de de-minimisverordening landbouw is toegestaan. Een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: voor zover de aanvraag betrekking heeft op de verwerving van grond, komt voor een groenverklaring in aanmerking een bedrag dat is gemoeid met de verwerving van grond, voor zover dit het bedrag dat voortvloeit uit de toepassing van artikel 14, zesde lid, onderdeel a, van de Landbouw Groepsvrijstellingsverordening overschrijdt en tot een maximum dat op grond van de de-minimisverordening landbouw is toegestaan. Een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Subcategorie 2.1.2: Deelname aan de kwaliteitsregeling
 
@@ -288,19 +290,19 @@ Subcategorie 2.2.1: Duurzame melkveehouderij
 
 Projectomschrijving: projecten gericht op een duurzame melkveehouderij, die is voorzien van een certificaat A conform het van toepassing zijnde certificatieschema van de Maatlat Duurzame Veehouderij, onderdeel MDV – melkveestallen (rundvee) op het moment van indiening van de aanvraag.
 
-Projectvermogen: het projectvermogen is gemaximeerd tot € 1.000.000 per stal. Een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: het projectvermogen is gemaximeerd tot € 1.000.000 per stal. Een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Subcategorie 2.2.2: Omschakelprogramma
 
 Projectomschrijving:
 
-Projectvermogen: Het projectvermogen is beperkt tot de kosten van de investering die niet vanuit het IDL worden gefinancierd. Een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: Het projectvermogen is beperkt tot de kosten van de investering die niet vanuit het IDL worden gefinancierd. Een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Subcategorie 2.2.3: Zilte teelt
 
 Projectomschrijving: akkerbouwproductie van teelten op zilte grond, waarbij het gewas is geselecteerd en aangepast aan het zoutgehalte in de grond en het grondwater.
 
-Projectvermogen: een aanvraag voor een groenverklaring in deze subcategorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: een aanvraag voor een groenverklaring in deze subcategorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Subcategorie 2.2.4: Monomestvergister
 
@@ -312,7 +314,7 @@ Subcategorie 2.2.5: Voedselbossen
 
 Projectomschrijving:
 
-Projectvermogen: een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Categorie 2.3: Glastuinbouw
 
@@ -320,13 +322,13 @@ Subcategorie 2.3.1: Groen Label Kas
 
 Projectomschrijving: projecten gericht op het bedrijfsmatig telen van gewassen in een Groen Label Kas, met niveau A, conform het van toepassing zijnde certificatieschema Groen Label Kas op het moment van indiening van de aanvraag, mits er geen voorzieningen aanwezig zijn voor het zonder nuttig hergebruik wegkoelen van opgewekte warmte.
 
-Projectvermogen: het projectvermogen is gemaximeerd op € 100,– per vierkante meter kasoppervlak, exclusief de kosten voor zelf opgewekte of zelf gewonnen energie als bedoeld in de categorie 4.1. Een groenverklaring in deze subcategorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: het projectvermogen is gemaximeerd op € 100,– per vierkante meter kasoppervlak, exclusief de kosten voor zelf opgewekte of zelf gewonnen energie als bedoeld in de categorie 4.1. Een groenverklaring in deze subcategorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Subcategorie 2.3.2: LED-verlichting in glastuinbouw
 
 Project omschrijving:
 
-Projectvermogen: een aanvraag voor een groenverklaring in deze subcategorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: een aanvraag voor een groenverklaring in deze subcategorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Categorie 2.4 Eiwittransitie
 
@@ -340,7 +342,7 @@ Subcategorie 2.4.2: Insectenkweeksysteem
 
 Project omschrijving:
 
-Projectvermogen: een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: een groenverklaring in deze categorie wordt niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Subcategorie 2.4.3: Bioraffinagesysteem
 
@@ -614,7 +616,7 @@ Categorie 6.3: Mobiele werktuigen
 
 Projectomschrijving:
 
-Projectvermogen: wanneer het gaat om met de primaire landbouwproductie verband houdende investeringen in materiële of immateriële activa op landbouwbedrijven wordt een aanvraag in deze categorie niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 500.000 per onderneming per investeringsproject.
+Projectvermogen: wanneer het gaat om met de primaire landbouwproductie verband houdende investeringen in materiële of immateriële activa op landbouwbedrijven wordt een aanvraag in deze categorie niet afgegeven indien het bruto-subsidie-equivalent meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Categorie 6.4: Laad- en tankinfrastructuur
 
@@ -670,6 +672,6 @@ Categorie 7.5: Verhogen grondwater in veenweidegebieden
 
 Projectomschrijving:
 
-Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 15.000.000 per onderneming per investeringsproject.
+Projectvermogen: een groenverklaring wordt in ieder geval niet afgegeven op aanvragen voor projecten binnen deze subcategorie indien de steun meer bedraagt dan € 600.000 per onderneming per investeringsproject.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
