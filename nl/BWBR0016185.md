@@ -4,7 +4,7 @@ identifier: "BWBR0016185"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2020-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016185"
 soort: "wet"
@@ -124,7 +124,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 - c. anderszins objectief gerechtvaardigd is door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.
 
-2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2020-01-01&g=2020-01-01).
+2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2023-07-01&g=2023-07-01).
 
 #### Pensioenen
 
@@ -133,8 +133,6 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 1. Voor de toepassing van dit artikel wordt verstaan onder pensioenvoorziening: een pensioenvoorziening ten behoeve van een of meer personen, uitsluitend in verband met hun werkzaamheden in een onderneming, bedrijfstak, tak van beroep of openbare dienst, in aanvulling op een wettelijk stelsel van sociale zekerheid en, ingeval van een voorziening ten behoeve van een persoon, anders dan door die persoon zelf tot stand gebracht.
 
 2. Het verbod van onderscheid is niet van toepassing op in pensioenvoorzieningen vastgelegde toetredingsleeftijden en op pensioengerechtigde leeftijden, alsmede op de vaststelling van verschillende toetredings- en pensioengerechtigde leeftijden voor werknemers of voor groepen of categorieën van werknemers.
-
-3. Het verbod van onderscheid is niet van toepassing op actuariële berekeningen bij pensioenvoorzieningen waarbij met leeftijd rekening wordt gehouden.
 
 #### § 4. Vermelding leeftijdsgrens
 
@@ -154,7 +152,7 @@ Het is verboden om personen te benadelen wegens het feit dat zij in of buiten re
 
 ##### Artikel 11
 
-In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01), of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op deze wet of ter zake bijstand heeft verleend, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) van overeenkomstige toepassing.
+In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2023-07-01&g=2023-07-01), of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op deze wet of ter zake bijstand heeft verleend, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) van overeenkomstige toepassing.
 
 #### Bewijslast
 
