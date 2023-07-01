@@ -4,7 +4,7 @@ identifier: "BWBR0025316"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025316"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-12-15"
 ---
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 februari 2009, nr. DGM/K&L2009006710, houdende regels inzake aanwijzing van investeringen die in het belang zijn van het Nederlandse milieu (Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen)
 
-Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2023-01-01&g=2023-01-01), van Landbouw, Natuur en Voedselkwaliteit;
+Handelende in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Ministers van Economische Zaken en, voor zover het betreft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2023-07-01&g=2023-07-01), van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op de [artikelen 3.31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31), en [3.42a, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a);
 
@@ -54,17 +54,17 @@ In deze regeling wordt verstaan onder:
 
 - **kmo:** kleine of middelgrote onderneming in de zin van bijlage I van de Algemene Groepsvrijstellingsverordening, de Landbouw Groepsvrijstellingsverordening en Visserij Groepsvrijstellingsverordening;
 
-- **Landbouw Groepsvrijstellingsverordening:** Verordening (EU) nr. 702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2014, L 193);
+- **Landbouw Groepsvrijstellingsverordening:** [Verordening (EU) nr. 2022/2472](32472R2022) van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2022, L 327);
 
 - **staatssteun:** staatssteun, als bedoeld in artikel 107 van het Verdrag betreffende de werking van de Europese Unie;
 
-- **Visserij Groepsvrijstellingsverordening:** Verordening (EU) nr. 1388/2014 van de Commissie van 16 december 2014 waarbij bepaalde categorieën steun voor ondernemingen die actief zijn in de productie, de verwerking en de afzet van visserij- en aquacultuurproducten, op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2014, L 396);
+- **Visserij Groepsvrijstellingsverordening:** [Verordening (EU) nr. 2022/2473](32473R2022) van de Commissie van 14 december 2022 waarbij bepaalde categorieën steun voor ondernemingen die actief zijn in de productie, de verwerking en de afzet van visserij- en aquacultuurproducten op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard (PbEU 2022, L 327);
 
 - **verordening (EU) nr. 508/2014:** Verordening (EU) nr. 508/2014 van het Europees parlement en de Raad van 15 mei 2014 inzake het Europees Fonds voor maritieme zaken en visserij en tot intrekking van de Verordeningen (EG) nr. 2328/2003, (EG) nr. 861/2006, (EG) nr. 1198/2006 en (EG) nr. 791/2007 van de Raad en Verordening (EU) nr. 1255/2011 van het Europees Parlement en de Raad (Pb EU 2014, L 149).
 
 ##### Artikel 2. Milieu-investeringsaftrek
 
-Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2023-01-01&g=2023-01-01), genoemde voorwaarden.
+Als investeringen, behorend tot categorie I, II respectievelijk III, in het belang van de bescherming van het Nederlandse milieu als bedoeld in [artikel 3.42a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42a) worden aangewezen de investeringen in bedrijfsmiddelen of onderdelen daarvan, die zijn opgenomen in de bijlage bij deze regeling en die voldoen aan de in [artikel 1a, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2023-07-01&g=2023-07-01), genoemde voorwaarden.
 
 ##### Artikel 3. Uitzondering
 
@@ -2094,13 +2094,13 @@ Als milieubedrijfsmiddelen als bedoeld in [artikel 3.31, eerste lid, van de Wet 
 
 ##### Artikel 2a. Afwijkingsgronden
 
-In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2023-01-01&g=2023-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2023-01-01&g=2023-01-01) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
+In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2023-07-01&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2023-07-01&g=2023-07-01) worden bedrijfsmiddelen of onderdelen daarvan, dan wel investeringen in bedrijfsmiddelen of onderdelen daarvan niet aangewezen indien:
 
 - a. daardoor vanwege toekenning van staatssteun door de overheid of de Europese Commissie op grond van deze regeling en uit andere hoofde, een zodanig voordeel zou worden verstrekt, dat het totale toegestane voordeel dat op grond van regelgeving van de Europese Unie mag worden verstrekt, wordt overschreden;
 
-- b. de investering wordt gedaan door een onderneming ten aanzien waarvan een bevel tot terugvordering uitstaat, overeenkomstig artikel 1 vierde lid, onderdelen a en b, van de Algemene Groepsvrijstellingsverordening, artikel 1, vijfde lid, van de Landbouw Groepsvrijstellingsverordening of artikel 1, derde lid, onderdeel e van de Visserij Groepsvrijstellingsverordening;
+- b. de investering wordt gedaan door een onderneming ten aanzien waarvan een bevel tot terugvordering uitstaat, overeenkomstig artikel 1 vierde lid, onderdelen a en b, van de Algemene Groepsvrijstellingsverordening, artikel 1, vierde lid, van de Landbouw Groepsvrijstellingsverordening of artikel 1, vijfde lid, van de Visserij Groepsvrijstellingsverordening;
 
-- c. de investering wordt gedaan door een onderneming in moeilijkheden, overeenkomstig artikel 1, vierde lid, onderdeel c, van de Algemene Groepsvrijstellingsverordening, artikel 1, zesde lid, van de Landbouw Groepsvrijstellingsverordening of artikel 1, derde lid, onderdeel d van de Visserij Groepsvrijstellingsverordening;
+- c. de investering wordt gedaan door een onderneming in moeilijkheden, overeenkomstig artikel 1, vierde lid, onderdeel c, van de Algemene Groepsvrijstellingsverordening, artikel 1, vijfde lid, van de Landbouw Groepsvrijstellingsverordening of artikel 1, vierde lid, van de Visserij Groepsvrijstellingsverordening;
 
 - d. de investering wordt gedaan door een onderneming die actief is in de productie van primaire landbouwproducten, visserijproducten of aquacultuurproducten en die onderneming geen kmo is, of
 
@@ -2108,13 +2108,17 @@ In afwijking van de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR00253
 
 ##### Artikel 3a. Transparantie
 
-1. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die actief is in de primaire landbouwproductie, meer bedraagt dan € 60.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Landbouw Groepsvrijstellingsverordening, bekend.
+1. De Minister van Infrastructuur en Waterstaat maakt de gegevens, genoemd in bijlage III van de Landbouw Groepsvrijstellingsverordening, bekend, indien:
 
-2. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die actief is in de productie, verwerking en afzet van visserij- en aquacultuurproducten, meer bedraagt dan € 30.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Visserij Groepsvrijstellingsverordening, bekend.
+- a. de staatssteun die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die actief is in de primaire landbouwproductie, meer bedraagt dan € 10.000; of
 
-3. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die niet actief is in de primaire landbouwproductie of de productie, verwerking en afzet van visserij- en aquacultuurproducten, meer bedraagt dan € 500.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Algemene Groepsvrijstellingsverordening, bekend.
+- b. de staatssteun die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die actief is in de verwerking van landbouwproducten, de afzet van landbouwproducten of de bosbouwsector, of voor activiteiten die buiten het toepassingsgebied van artikel 42 van de Landbouw Groepsvrijstellingsverordening vallen, meer bedraagt dan € 100.000.
 
-## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2023-01-01&g=2023-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2023-01-01&g=2023-01-01)
+2. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde die actief is in de productie, verwerking en afzet van visserij- en aquacultuurproducten, meer bedraagt dan € 10.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Visserij Groepsvrijstellingsverordening, bekend.
+
+3. Ingeval de staatssteun, die op grond van deze regeling wordt verkregen voor een investering in een aangewezen bedrijfsmiddel door een begunstigde, niet zijnde een begunstigde als bedoeld in het eerste of tweede lid, meer bedraagt dan € 500.000, maakt de Minister van Infrastructuur en Waterstaat de gegevens, genoemd in bijlage III van de Algemene Groepsvrijstellingsverordening, bekend.
+
+## Bijlage. bij de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=1a&z=2023-07-01&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0025316&artikel=2&z=2023-07-01&g=2023-07-01)
 
 ### Paragraaf 1. Algemeen
 
