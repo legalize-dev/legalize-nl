@@ -4,7 +4,7 @@ identifier: "BWBR0033787"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-07-01"
-last_updated: "2022-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033787"
 soort: "pbo"
@@ -124,7 +124,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 1. Een ieder die is betrokken bij de uitvoering van de taak van de Raad en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens geheimhouding geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
-2. De Raad kan een externe deskundige, als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01) ontheffen van de verplichting, bedoeld in het eerste lid, indien dat noodzakelijk is voor het toezicht op de beroepsuitoefening of voor het verkrijgen dan wel behouden van een accreditatie als bedoeld in [artikel 26 van de Verordening kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033786&artikel=26).
+2. De Raad kan een externe deskundige, als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01) ontheffen van de verplichting, bedoeld in het eerste lid, indien dat noodzakelijk is voor het toezicht op de beroepsuitoefening of voor het verkrijgen dan wel behouden van een accreditatie als bedoeld in [artikel 26 van de Verordening kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033786&artikel=26).
 
 ##### Artikel 7
 
@@ -142,7 +142,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ##### Artikel 8
 
-1. De Raad bepaalt met inachtneming van het tweede lid van dit artikel en de grenzen van het mandaat en de volmacht welke aan hem door het bestuur zijn verleend, de invulling van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01), bedoelde taak en de daarbij te hanteren werkwijze.
+1. De Raad bepaalt met inachtneming van het tweede lid van dit artikel en de grenzen van het mandaat en de volmacht welke aan hem door het bestuur zijn verleend, de invulling van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&hoofdstuk=2&artikel=2&z=2023-07-01&g=2023-07-01), bedoelde taak en de daarbij te hanteren werkwijze.
 
 2. De Raad voert de [Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033786) uit.
 
@@ -150,7 +150,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ##### Artikel 9
 
-Jaarlijks voor 1 april brengt de Raad een geanonimiseerd verslag uit omtrent zijn werkzaamheden in het afgelopen kalenderjaar en maakt dit openbaar.
+Jaarlijks voor 1 september brengt de Raad een geanonimiseerd verslag uit aan het bestuur omtrent zijn werkzaamheden in de periode 1 april tot en met 31 maart en maakt dit openbaar.
 
 ### Hoofdstuk 5. Overgangsbepalingen
 
