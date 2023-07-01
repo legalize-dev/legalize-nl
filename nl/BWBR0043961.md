@@ -4,7 +4,7 @@ identifier: "BWBR0043961"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2021-07-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043961"
 soort: "wet"
@@ -432,8 +432,6 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zendt binnen vijf ja
 ##### Artikel 13.1
 
 Wijzigt de Bekendmakingswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 13.1a
 
