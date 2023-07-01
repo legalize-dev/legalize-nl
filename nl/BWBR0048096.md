@@ -139,29 +139,3 @@ Dit besluit wordt aangehaald als: Besluit elektronische gegevensuitwisseling in 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### Paragraaf 3.1. – Versturen van recept door huisarts aan terhandsteller
-
-##### Artikel 3.1.1. (aanwijzing versturen van recept door huisarts aan terhandsteller als aangewezen gegevensuitwisseling)
-
-Het versturen van een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) door een huisarts aan een terhandsteller is een aangewezen gegevensuitwisseling.
-
-##### Artikel 3.1.2. (beschikbaar stellen voor een persoonlijke gezondheidsomgeving)
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 3.1.3. (uitzondering militaire gezondheidszorg)
-
-Voor militaire gezondheidszorg in de omstandigheden als bedoeld in [artikel 1.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&artikel=1.6), gelden de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048096&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2024-01-01&g=2024-01-01) en 3.1.2 niet.
-
-### Hoofdstuk 4. – Slotbepalingen
-
-##### Artikel 4.1. (citeertitel)
-
-Dit besluit wordt aangehaald als: Besluit elektronische gegevensuitwisseling in de zorg.
-
-##### Artikel 4.2. (inwerkingtreding)
-
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
