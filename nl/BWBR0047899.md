@@ -4,7 +4,7 @@ identifier: "BWBR0047899"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2023-04-05"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047899"
 soort: "wet"
@@ -52,49 +52,33 @@ Wijzigt de Wet op het financieel toezicht.
 
 Wijzigt de Bankwet 1998.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel III
 
 Wijzigt de Faillissementswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
 Wijzigt de Pensioenwet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
 Wijzigt de Wet toezicht trustkantoren 2018.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel VII
 
 Wijzigt de Wet toezicht financiële verslaggeving.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII
 
 Wijzigt de Wet financiële markten BES.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IX
 
 Wijzigt de Wet tuchtrechtspraak accountants.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
@@ -104,19 +88,13 @@ Wijzigt het Burgerlijk Wetboek Boek 2.
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XII
 
 Wijzigt de Muntwet 2002.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIII
 
 Wijzigt de Sanctiewet 1977.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
@@ -124,10 +102,12 @@ Wijzigt de Wijzigingswet financiële markten 2022.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet, met uitzondering van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0047899&artikel=X&z=2023-07-01&g=2023-07-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. [Artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0047899&artikel=X&z=2023-07-01&g=2023-07-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 december 2019.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wijzigingswet financiële markten 2022-II.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
