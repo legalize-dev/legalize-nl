@@ -4,7 +4,7 @@ identifier: "BWBR0049134"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-02-21"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0049134"
 soort: "AMvB"
@@ -95,8 +95,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XI
 
 Wijzigt het Besluit belasting- en invorderingsrente.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
