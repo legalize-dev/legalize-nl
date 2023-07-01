@@ -4,7 +4,7 @@ identifier: "BWBR0003302"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2023-04-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003302"
 soort: "ministeriele-regeling"
@@ -43,19 +43,19 @@ Besluit:
 
 Het tarief voor de werkzaamheden van de Kamer voor de Binnenvisserij, zowel voor wat betreft die ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in [artikel 25 van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=25), als die ten aanzien van verzoeken tot verlenging van dergelijke overeenkomsten, bedraagt:
 
-- a. € 13,61 bij een huurprijs van minder dan € 45,38 per jaar;
+- a. € 30,– bij een huurprijs van minder dan € 75,– per jaar;
 
-- b. € 23,82 bij een huurprijs van ten minste € 45,38 doch minder dan € 226,89 per jaar;
+- b. € 50,– bij een huurprijs van ten minste € 75,– doch minder dan € 250,– per jaar;
 
-- c. € 34,03 bij een huurprijs van ten minste € 226,89 per jaar.
+- c. € 75,– bij een huurprijs van ten minste € 250,– per jaar.
 
 ##### Artikel 2
 
-Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&paragraaf=1&artikel=1&z=2023-04-01&g=2023-04-01) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
+Ten aanzien van ter goedkeuring ingediende overeenkomsten als bedoeld in artikel 36 geldt het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003302&paragraaf=1&artikel=1&z=2023-07-01&g=2023-07-01) vermelde tarief, met dien verstande, dat telkens in plaats van een huurprijs dient gelezen te worden: een prestatie.
 
 ##### Artikel 2a
 
-Het tarief voor de werkzaamheden van de Kamer bedraagt voor wat betreft het verlenen van toestemming als bedoeld in [artikel 22, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=22) (Stb. 312) € 18,15 per verzoek om toestemming.
+Het tarief voor de werkzaamheden van de Kamer bedraagt voor wat betreft het verlenen van toestemming als bedoeld in [artikel 22, eerste lid, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=22) (Stb. 312) € 40,– per verzoek om toestemming.
 
 ##### Artikel 3
 
