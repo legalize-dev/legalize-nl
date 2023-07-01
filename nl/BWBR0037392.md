@@ -4,7 +4,7 @@ identifier: "BWBR0037392"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2022-12-31"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037392"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Het verbod bedoeld in [artikel 3, zesde lid, van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=3) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037392&paragraaf=2&artikel=2&z=2022-12-31&g=2022-12-31) van deze regeling is van overeenkomstige toepassing op een distributeur.
+Het verbod bedoeld in [artikel 3, zesde lid, van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=3) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037392&paragraaf=2&artikel=2&z=2023-07-01&g=2023-07-01) van deze regeling is van overeenkomstige toepassing op een distributeur.
 
 ##### Artikel 4
 
@@ -112,13 +112,37 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### § 6. Slotbepalingen
+#### § 6. Drankenkartons
 
 ##### Artikel 8
 
-Deze regeling kan worden aangehaald als: Regeling beheer verpakkingen.
+Het percentage te recyclen drankenkartons, bedoeld in [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=7), wordt vastgesteld op:
+
+- a. 34 gewichtsprocent in 2023, met dien verstande dat dit percentage betrekking heeft op het vanaf de datum van inwerkingtreding van deze regeling resterende deel van het kalenderjaar;
+
+- b. 37 gewichtsprocent in 2024;
+
+- c. 40 gewichtsprocent in 2025;
+
+- d. 43 gewichtsprocent in 2026;
+
+- e. 46 gewichtsprocent in 2027;
+
+- f. 49 gewichtsprocent in 2028;
+
+- g. 52 gewichtsprocent in 2029; en
+
+- h. 55 gewichtsprocent in 2030 en voor opvolgende kalenderjaren.
 
 ##### Artikel 9
+
+Deze regeling kan worden aangehaald als: Regeling beheer verpakkingen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 7. Slotbepalingen
+
+##### Artikel 10
 
 Deze regeling treedt in werking op 1 januari 2016.
 
