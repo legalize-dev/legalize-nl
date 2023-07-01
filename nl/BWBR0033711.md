@@ -4,7 +4,7 @@ identifier: "BWBR0033711"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033711"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Afdeling advisering van de Raad van State gehoord (advies van 6 juni 2013, nr
 Gezien het nader rapport van de Staatssecretaris van Veiligheid en Justitie van 10 juli 2013, directie Wetgeving en Juridische Zaken, nr. 396804;
 
 Hebben goedgevonden en verstaan:
+
+Gelet op [artikel 320, zesde lid, van de Faillissementswet](onbekend) en [artikel 3](onbekend) en [4 van de Kaderwet overige JenV-subsidies](onbekend);
 
 ##### Artikel 1
 
@@ -102,7 +104,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De rechtbank berekent het bedrag van de vergoeding overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=2&z=2023-01-01&g=2023-01-01).
+1. De rechtbank berekent het bedrag van de vergoeding overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=2&z=2024-01-01&g=2023-07-01).
 
 2. Indien daartoe gronden zijn, kan de rechtbank in afwijking van het eerste lid de vergoeding op voordracht van de rechter-commissaris, op verzoek van de bewindvoerder dan wel ambtshalve, aanpassen.
 
@@ -116,7 +118,7 @@ Onze Minister verstrekt jaarlijks subsidie aan het bestuur van de raad ten behoe
 
 1. Onze Minister kan van zijn bevoegdheid tot het verstrekken van een bewindvoerderssubsidie mandaat verlenen aan de raad.
 
-2. De bewindvoerderssubsidie is gelijk aan het bedrag van de vergoeding dat overeenkomstig [artikel 3, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=3&z=2023-01-01&g=2023-01-01), wordt berekend, verminderd met het overeenkomstig artikel 3, derde lid, vastgestelde salaris.
+2. De bewindvoerderssubsidie is gelijk aan het bedrag van de vergoeding dat overeenkomstig [artikel 3, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=3&z=2024-01-01&g=2023-07-01), wordt berekend, verminderd met het overeenkomstig artikel 3, derde lid, vastgestelde salaris.
 
 3. Indien overeenkomstig het eerste lid mandaat is verleend, stelt het bestuur van de raad aan de rechtbanken ten minste eenmaal per jaar een actuele opgave ter beschikking van personen die naar zijn oordeel geschikt zijn om voor de bewindvoering in aanmerking te komen.
 
