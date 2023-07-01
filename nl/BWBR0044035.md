@@ -4,7 +4,7 @@ identifier: "BWBR0044035"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-22"
-last_updated: "2022-07-16"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044035"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 ##### Artikel 3. Staatssteun
 
-1. Het uitvoeren van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=4&z=2022-07-16&g=2022-07-16), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
+1. Het uitvoeren van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=4&z=2023-07-01&g=2023-07-01), wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
 2. Subsidie wordt uitsluitend verstrekt indien de aanvrager met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in het eerste lid.
 
@@ -94,15 +94,15 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 1. De subsidie voor het uitoefenen van een structurele functie of daarmee samenhangende activiteiten als hieronder vermeld, bedraagt maximaal:
 
-- a. € 109.304 voor de functie van regionaal teamleider;
+- a. € 116.256 voor de functie van regionaal teamleider;
 
-- b. € 73.363 voor de functie van donatiecoördinator;
+- b. € 78.029 voor de functie van donatiecoördinator;
 
-- c. € 243.419 voor de functie van (coördinerend) donatie-intensivist;
+- c. € 258.900 voor de functie van (coördinerend) donatie-intensivist;
 
-- d. € 243.419 voor de functie van supervisor;
+- d. € 258.900 voor de functie van supervisor;
 
-- e. € 138.474 voor de functie van manager bedrijfsvoering;
+- e. € 147.281 voor de functie van manager bedrijfsvoering;
 
 - f. € 3.100 voor het trainen van professionals per kernziekenhuis;
 
@@ -124,7 +124,7 @@ Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag tot verlening van de subsidie vergezeld van een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=3&z=2022-07-16&g=2022-07-16).
+2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) gaat de aanvraag tot verlening van de subsidie vergezeld van een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044035&artikel=3&z=2023-07-01&g=2023-07-01).
 
 3. In aanvulling op het tweede lid gaat de aanvraag tot verlening van de subsidie van een universitair medisch centrum vergezeld van een schriftelijke verklaring over de geldigheidsduur van bestaande convenanten met het betrokken kernziekenhuis en dienstverleningsovereenkomsten met de NTS.
 
