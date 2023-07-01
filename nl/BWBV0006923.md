@@ -4,7 +4,7 @@ identifier: "BWBV0006923"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-07-01"
-last_updated: "1987-11-13"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006923"
 soort: "verdrag"
@@ -142,7 +142,7 @@ Ieder die voornemens is zich met één van deze activiteiten bezig te houden, di
 
 - a. indien de verantwoordelijke persoon beschikt over de kennis en vaardigheden die voor de activiteit zijn vereist, ofwel als resultaat van een beroepsopleiding, danwel van voldoende ervaring met kleine huisdieren, en
 
-- b. indien de gebouwen en voorzieningen die voor de activiteit worden gebruikt, voldoen aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=4&z=1987-11-13&g=1987-11-13) gestelde eisen.
+- b. indien de gebouwen en voorzieningen die voor de activiteit worden gebruikt, voldoen aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=4&z=2023-07-01&g=2023-07-01) gestelde eisen.
 
 4. De bevoegde autoriteit bepaalt op grond van de opgave ingevolge het eerste lid of er al dan niet wordt voldaan aan de in het derde lid gestelde voorwaarden. Indien niet in voldoende mate aan deze voorwaarden wordt voldaan, beveelt zij maatregelen aan en, indien noodzakelijk voor het welzijn van de dieren, verbiedt zij het aanvangen met of het voortzetten van de activiteit.
 
@@ -152,7 +152,7 @@ Ieder die voornemens is zich met één van deze activiteiten bezig te houden, di
 
 1. Kleine huisdieren mogen niet worden gebruikt voor reclame, amusement, tentoonstellingen, wedstrijden en soortgelijke evenementen, tenzij:
 
-- a. de organisator omstandigheden heeft geschapen om de kleine huisdieren in overeenstemming met de vereisten van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=4&z=1987-11-13&g=1987-11-13), te behandelen, en
+- a. de organisator omstandigheden heeft geschapen om de kleine huisdieren in overeenstemming met de vereisten van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=4&z=2023-07-01&g=2023-07-01), te behandelen, en
 
 - b. de gezondheid en het welzijn van de kleine huisdieren niet in gevaar worden gebracht.
 
@@ -262,7 +262,7 @@ De Partijen verbinden zich ertoe, de ontwikkeling te stimuleren van voorlichting
 
 ##### Artikel 16. Wijzigingen
 
-1. Iedere door een Partij of het Comité van Ministers voorgestelde wijziging van de artikelen 1 tot en met 14 wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door deze toegezonden aan de Lidstaten van de Raad van Europa, aan iedere Partij, en aan iedere Staat die overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=19&z=1987-11-13&g=1987-11-13) is uitgenodigd tot de Overeenkomst toe te treden.
+1. Iedere door een Partij of het Comité van Ministers voorgestelde wijziging van de artikelen 1 tot en met 14 wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door deze toegezonden aan de Lidstaten van de Raad van Europa, aan iedere Partij, en aan iedere Staat die overeenkomstig het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=19&z=2023-07-01&g=2023-07-01) is uitgenodigd tot de Overeenkomst toe te treden.
 
 2. Iedere overeenkomstig het bepaalde in het voorgaande lid voorgestelde wijziging wordt bestudeerd tijdens een multilateraal overleg dat niet eerder dan twee maanden na de datum van toezending door de Secretaris-Generaal wordt gevoerd, waar zij kan worden aangenomen met een tweederde meerderheid van de Partijen. De aangenomen tekst wordt aan de Partijen toegezonden.
 
@@ -276,7 +276,7 @@ Deze Overeenkomst staat open voor ondertekening door de Lidstaten van de Raad va
 
 ##### Artikel 18. Inwerkingtreding
 
-1. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum waarop vier Lidstaten van de Raad van Europa in overeenstemming met het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=17&z=1987-11-13&g=1987-11-13) hebben verklaard zich gebonden te achten door de Overeenkomst.
+1. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum waarop vier Lidstaten van de Raad van Europa in overeenstemming met het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=17&z=2023-07-01&g=2023-07-01) hebben verklaard zich gebonden te achten door de Overeenkomst.
 
 2. Ten aanzien van iedere Lidstaat die later verklaart zich gebonden te achten door de Overeenkomst, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
@@ -296,7 +296,7 @@ Deze Overeenkomst staat open voor ondertekening door de Lidstaten van de Raad va
 
 ##### Artikel 21. Voorbehouden
 
-1. Iedere Staat kan bij de ondertekeningen of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij één of meer voorbehouden maakt ten aanzien van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=6&z=1987-11-13&g=1987-11-13) en [artikel 10, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=10&z=1987-11-13&g=1987-11-13). Geen ander voorbehoud is toegestaan.
+1. Iedere Staat kan bij de ondertekeningen of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij één of meer voorbehouden maakt ten aanzien van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=6&z=2023-07-01&g=2023-07-01) en [artikel 10, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=II&artikel=10&z=2023-07-01&g=2023-07-01). Geen ander voorbehoud is toegestaan.
 
 2. Iedere Partij die een voorbehoud heeft gemaakt krachtens het vorige lid, kan dit geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
@@ -316,7 +316,7 @@ Deze Overeenkomst staat open voor ondertekening door de Lidstaten van de Raad va
 
 - b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- c. iedere datum van inwerkingtreding van deze Overeenkomst overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=18&z=1987-11-13&g=1987-11-13), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=19&z=1987-11-13&g=1987-11-13) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=20&z=1987-11-13&g=1987-11-13);
+- c. iedere datum van inwerkingtreding van deze Overeenkomst overeenkomstig de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=18&z=2023-07-01&g=2023-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=19&z=2023-07-01&g=2023-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006923&hoofdstuk=VII&artikel=20&z=2023-07-01&g=2023-07-01);
 
 - d. iedere andere handeling, kennisgeving of mededeling, betrekking hebbend op deze Overeenkomst.
 
