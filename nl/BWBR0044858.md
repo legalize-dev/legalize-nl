@@ -4,7 +4,7 @@ identifier: "BWBR0044858"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-26"
-last_updated: "2023-04-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044858"
 soort: "ministeriele-regeling"
@@ -78,21 +78,7 @@ Het fytosanitair certificaat als bedoeld in artikel 71 van [verordening 2016/203
 
 ##### Artikel 4
 
-1. In dit artikel wordt verstaan onder:
-
-- **gevoelige planten:** vruchten van Capsicum L., Momordica L., Solanum aethiopicum L., Solanum macrocarpon L. en Solanum melongena L., en planten, met uitzondering van levende pollen, plantenweefselcultures, zaden en granen, van Zea mays L. van oorsprong uit derde landen met uitzondering van Zwitserland;
-
-- **schadelijk organisme:** Spodoptera frugiperda (Smith);
-
-- **uitvoeringsbesluit 2018/638:** Uitvoeringsbesluit (EU) 2018/638 van de Commissie van 23 april 2018 tot vaststelling van noodmaatregelen om het binnenbrengen en de verspreiding in de Europese Unie van het schadelijke organisme Spodoptera frugiperda (Smith) te voorkomen (PbEU 2018, L 105).
-
-2. Gevoelige planten mogen slechts in de Europese Unie worden binnengebracht indien:
-
-- a. ze vergezeld gaan van een fytosanitair certificaat als bedoeld in artikel 71 van [verordening 2016/2031](32031R2016);
-
-- b. de oorsprong voldoet aan het bepaalde in artikel 4 van uitvoeringsbesluit 2018/638; en
-
-- c. zij bij binnenkomst in de Europese Unie overeenkomstig artikel 5 van uitvoeringsbesluit 2018/638 worden geïnspecteerd op de aanwezigheid van het schadelijke organisme en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden.
+Vervallen
 
 ##### Artikel 5
 
@@ -280,17 +266,17 @@ Vervallen
 
 ##### Artikel 16
 
-1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 juli 2023.
+1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 juli 2023.
 
-2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 augustus 2022.
+2. [Artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=14&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 augustus 2022.
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 april 2022.
+3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=11&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 april 2022.
 
-4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 april 2023.
+4. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=13&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 april 2023.
 
-5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2023-04-01&g=2023-04-01), vervalt met ingang van 1 januari 2027.
+5. [Artikel 6, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=6&z=2023-07-01&g=2023-07-01), vervalt met ingang van 1 januari 2027.
 
-6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2023-04-01&g=2023-04-01) vervalt met ingang van 1 januari 2024.
+6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2023-07-01&g=2023-07-01) vervalt met ingang van 1 januari 2024.
 
 ##### Artikel 17
 
