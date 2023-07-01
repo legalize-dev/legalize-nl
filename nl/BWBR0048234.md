@@ -4,7 +4,7 @@ identifier: "BWBR0048234"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-07-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048234"
 soort: "AMvB"
@@ -62,14 +62,12 @@ Het [Besluit beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1
 
 Wijzigt het Besluit beheer verpakkingen 2014.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van 1 juli 2023 en werkt ten aanzien van de [artikelen I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0048234&artikel=I&z=2023-07-01&g=2023-07-01) terug tot en met 1 januari 2023.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Verzamelbesluit wijziging bestaande UPV’s.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
