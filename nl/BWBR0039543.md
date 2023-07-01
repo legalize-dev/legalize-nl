@@ -4,7 +4,7 @@ identifier: "BWBR0039543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-01"
-last_updated: "2017-06-01"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039543"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 1. De adviescommissie bestaat uit een voorzitter en vier andere leden.
 
-2. De voorzitter en de andere leden worden door de minister benoemd voor een termijn van vier jaar en zijn herbenoembaar. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.
+2. De voorzitter en de andere leden worden door de minister benoemd voor een periode van ten hoogste vier jaar. De leden kunnen worden herbenoemd voor ten hoogste eenzelfde periode. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen.
 
 3. De voorzitter is onafhankelijk en vertegenwoordigt geen ondernemersbelang of het belang van aanbestedende diensten.
 
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 4. De adviescommissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-5. De minister zendt de verstrekte adviezen zoals bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039543&artikel=2&z=2017-06-01&g=2017-06-01), aan de Tweede Kamer der Staten-Generaal.
+5. De minister zendt de verstrekte adviezen zoals bedoeld in [artikel 2, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039543&artikel=2&z=2023-07-01&g=2023-07-01), aan de Tweede Kamer der Staten-Generaal.
 
 ##### Artikel 5
 
