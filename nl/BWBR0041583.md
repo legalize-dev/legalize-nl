@@ -4,7 +4,7 @@ identifier: "BWBR0041583"
 country: "nl"
 rank: "wet"
 publication_date: "2025-03-01"
-last_updated: "2022-07-16"
+last_updated: "2023-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041583"
 soort: "wet"
@@ -61,8 +61,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - **doelvennootschap:** rechtspersoon of vennootschap waaraan de trustdiensten, bedoeld in de onderdelen a en b van de begripsomschrijving van trustdienst, worden verleend;
 
-- **doorstroomvennootschap:** rechtspersoon of vennootschap die tot dezelfde groep behoort als degene die gebruik maakt van deze rechtspersoon of vennootschap voor het verlenen van de trustdienst, bedoeld in onderdeel c van de begripsomschrijving van trustdienst;
-
 - **familielid van een politiek prominente persoon:** familielid van een politiek prominente persoon als bedoeld in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
 
 - **financieren van terrorisme:** gedraging strafbaar gesteld in [artikel 421, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=421);
@@ -113,13 +111,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - 5°. andere bij algemene maatregel van bestuur aan te wijzen aanvullende werkzaamheden;
 
-- c. het ten behoeve van de cliënt gebruik maken van een doorstroomvennootschap;
+- c. het verkopen van of bemiddelen bij de verkoop van rechtspersonen;
 
-- d. het verkopen van of bemiddelen bij de verkoop van rechtspersonen;
+- d. het zijn van een trustee in opdracht van een niet tot dezelfde groep behorende natuurlijke persoon, rechtspersoon of vennootschap;
 
-- e. het zijn van een trustee in opdracht van een niet tot dezelfde groep behorende natuurlijke persoon, rechtspersoon of vennootschap;
-
-- f. andere bij algemene maatregel van bestuur aan te wijzen diensten;
+- e. andere bij algemene maatregel van bestuur aan te wijzen diensten;
 
 - **trustkantoor:** degene die, al dan niet tezamen met andere natuurlijke personen, rechtspersonen of vennootschappen, beroeps- of bedrijfsmatig een of meer trustdiensten verleent;
 
@@ -167,7 +163,7 @@ Vergunningen en ontheffingen, verleend ingevolge deze wet, zijn persoonlijk en n
 
 ##### Artikel 4. Trustkantoor in aangewezen staat
 
-1. [Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2022-07-16&g=2022-07-16), is niet van toepassing op een trustkantoor dat:
+1. [Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), is niet van toepassing op een trustkantoor dat:
 
 - a. zijn zetel heeft in een bij ministeriële regeling aangewezen staat;
 
@@ -181,13 +177,13 @@ Vergunningen en ontheffingen, verleend ingevolge deze wet, zijn persoonlijk en n
 
 ##### Artikel 5. Vrijstelling en ontheffing
 
-1. Bij ministeriële regeling kan geheel of gedeeltelijk vrijstelling worden verleend van [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2022-07-16&g=2022-07-16) en [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2022-07-16&g=2022-07-16). Aan deze vrijstelling kunnen voorschriften worden verbonden.
+1. Bij ministeriële regeling kan geheel of gedeeltelijk vrijstelling worden verleend van [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3a&z=2023-07-01&g=2023-07-01), en [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2023-07-01&g=2023-07-01). Aan deze vrijstelling kunnen voorschriften worden verbonden.
 
-2. De Nederlandsche Bank kan op aanvraag een ontheffing verlenen van [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2022-07-16&g=2022-07-16), en [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2022-07-16&g=2022-07-16), indien de aanvrager aantoont dat de specifieke situatie van een trustkantoor dat rechtvaardigt en dat de belangen die deze wet beoogt te beschermen voldoende worden gewaarborgd. Aan een ontheffing kunnen voorschriften worden verbonden en beperkingen worden gesteld. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=7&z=2022-07-16&g=2022-07-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=8&z=2022-07-16&g=2022-07-16) zijn van overeenkomstige toepassing.
+2. De Nederlandsche Bank kan op aanvraag een ontheffing verlenen van [artikel 3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), en [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2023-07-01&g=2023-07-01), indien de aanvrager aantoont dat de specifieke situatie van een trustkantoor dat rechtvaardigt en dat de belangen die deze wet beoogt te beschermen voldoende worden gewaarborgd. Aan een ontheffing kunnen voorschriften worden verbonden en beperkingen worden gesteld. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=7&z=2023-07-01&g=2023-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=8&z=2023-07-01&g=2023-07-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 6. Vergunning
 
-1. De Nederlandsche Bank verleent op aanvraag een vergunning als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2022-07-16&g=2022-07-16), of [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2022-07-16&g=2022-07-16), indien de aanvrager aantoont dat zal worden voldaan aan de bij of krachtens de [artikelen 10, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2022-07-16&g=2022-07-16) en [11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=11&z=2022-07-16&g=2022-07-16) gestelde regels.
+1. De Nederlandsche Bank verleent op aanvraag een vergunning als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01), of [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2023-07-01&g=2023-07-01), indien de aanvrager aantoont dat zal worden voldaan aan de bij of krachtens de [artikelen 10, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2023-07-01&g=2023-07-01) en [11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=11&z=2023-07-01&g=2023-07-01) gestelde regels.
 
 2. De aanvraag van de vergunning geschiedt onder opgave van bij ministeriële regeling te bepalen gegevens.
 
@@ -265,7 +261,7 @@ Vergunningen en ontheffingen, verleend ingevolge deze wet, zijn persoonlijk en n
 
 ##### Artikel 9. Het register
 
-1. Er is een openbaar register van trustkantoren met een vergunning als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2022-07-16&g=2022-07-16) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2022-07-16&g=2022-07-16) of een ontheffing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=5&z=2022-07-16&g=2022-07-16). Het register wordt gehouden door de Nederlandsche Bank en wordt in ieder geval gepubliceerd op een daartoe geschikte website.
+1. Er is een openbaar register van trustkantoren met een vergunning als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=3&z=2023-07-01&g=2023-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2023-07-01&g=2023-07-01) of een ontheffing als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=5&z=2023-07-01&g=2023-07-01). Het register wordt gehouden door de Nederlandsche Bank en wordt in ieder geval gepubliceerd op een daartoe geschikte website.
 
 2. De Nederlandsche Bank verricht de inschrijving en doorhaling in het register op zodanige wijze dat uit het register is op te maken vanaf welk tijdstip, welke trustdiensten een ingeschreven trustkantoor mag verrichten.
 
@@ -319,13 +315,13 @@ Vergunningen en ontheffingen, verleend ingevolge deze wet, zijn persoonlijk en n
 
 1. Een trustkantoor met zetel in Nederland heeft de rechtsvorm van een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een Europese naamloze vennootschap.
 
-2. Een trustkantoor met zetel in een lidstaat of in een aangewezen staat als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2022-07-16&g=2022-07-16), dat trustdiensten verleent naar Nederland, dan wel vanuit een in Nederland gelegen bijkantoor trustdiensten verleent, beschikt naar het recht van de staat van zijn zetel over rechtspersoonlijkheid.
+2. Een trustkantoor met zetel in een lidstaat of in een aangewezen staat als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=4&z=2023-07-01&g=2023-07-01), dat trustdiensten verleent naar Nederland, dan wel vanuit een in Nederland gelegen bijkantoor trustdiensten verleent, beschikt naar het recht van de staat van zijn zetel over rechtspersoonlijkheid.
 
 ##### Artikel 14. Integere en beheerste bedrijfsvoering
 
-1. Een trustkantoor met zetel in Nederland voert een adequaat beleid dat een integere en beheerste uitoefening van het bedrijf waarborgt, met inachtneming van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&z=2022-07-16&g=2022-07-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&z=2022-07-16&g=2022-07-16).
+1. Een trustkantoor met zetel in Nederland voert een adequaat beleid dat een integere en beheerste uitoefening van het bedrijf waarborgt, met inachtneming van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&z=2023-07-01&g=2023-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&z=2023-07-01&g=2023-07-01).
 
-2. Een trustkantoor met zetel in Nederland richt de bedrijfsvoering zodanig in dat deze een beheerste en integere uitoefening van haar bedrijf waarborgt, met inachtneming van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&z=2022-07-16&g=2022-07-16) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&z=2022-07-16&g=2022-07-16).
+2. Een trustkantoor met zetel in Nederland richt de bedrijfsvoering zodanig in dat deze een beheerste en integere uitoefening van haar bedrijf waarborgt, met inachtneming van de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&z=2023-07-01&g=2023-07-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&z=2023-07-01&g=2023-07-01).
 
 3. Ten behoeve van een integere en beheerste uitoefening van het bedrijf maakt een trustkantoor met zetel in Nederland periodiek een analyse van de risico’s voor de integere bedrijfsvoering. Het trustkantoor met zetel in Nederland heeft procedures, processen en maatregelen waarmee de geïdentificeerde risico’s gemitigeerd worden.
 
@@ -381,9 +377,7 @@ Het is een trustkantoor met zetel in Nederland verboden om trustdiensten te verl
 
 ##### Artikel 19. Zorgplicht derdengelden
 
-1. Bij het verlenen van een trustdienst als bedoeld in onderdeel c van de begripsomschrijving van trustdienst in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=1&artikel=1&z=2022-07-16&g=2022-07-16), treft een trustkantoor met zetel in Nederland adequate maatregelen om te waarborgen dat de doorstroomvennootschap aan haar verplichtingen kan voldoen.
-
-2. Een trustkantoor met zetel in Nederland treft met betrekking tot gelden of geldswaarden van doelvennootschappen of derden die door het trustkantoor worden beheerd, maatregelen om de rechten van die doelvennootschappen of derden te beschermen.
+Een trustkantoor met zetel in Nederland treft met betrekking tot gelden of geldswaarden van doelvennootschappen of derden die door het trustkantoor worden beheerd, maatregelen om de rechten van die doelvennootschappen of derden te beschermen.
 
 ##### Artikel 20. Incidenten
 
@@ -399,9 +393,9 @@ Het is een trustkantoor met zetel in Nederland verboden om trustdiensten te verl
 
 ##### Artikel 21. Buitenlandse trustkantoren en bijkantoren
 
-1. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2022-07-16&g=2022-07-16), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=11&z=2022-07-16&g=2022-07-16), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=12&z=2022-07-16&g=2022-07-16) en [14 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=14&z=2022-07-16&g=2022-07-16) zijn van overeenkomstige toepassing op trustkantoren met zetel in een andere lidstaat of in een aangewezen staat die trustdiensten verlenen naar Nederland, dan wel die via een in Nederland gelegen bijkantoor trustdiensten verlenen.
+1. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2023-07-01&g=2023-07-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=11&z=2023-07-01&g=2023-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=12&z=2023-07-01&g=2023-07-01) en [14 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=14&z=2023-07-01&g=2023-07-01) zijn van overeenkomstige toepassing op trustkantoren met zetel in een andere lidstaat of in een aangewezen staat die trustdiensten verlenen naar Nederland, dan wel die via een in Nederland gelegen bijkantoor trustdiensten verlenen.
 
-2. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=12&z=2022-07-16&g=2022-07-16) en [14 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=14&z=2022-07-16&g=2022-07-16) zijn van overeenkomstige toepassing op in Nederland gelegen bijkantoren van trustkantoren met zetel in een andere lidstaat of in een aangewezen staat.
+2. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=12&z=2023-07-01&g=2023-07-01) en [14 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=14&z=2023-07-01&g=2023-07-01) zijn van overeenkomstige toepassing op in Nederland gelegen bijkantoren van trustkantoren met zetel in een andere lidstaat of in een aangewezen staat.
 
 ### Hoofdstuk 4. Cliëntenonderzoek
 
@@ -427,13 +421,13 @@ Een trustkantoor verricht ter beheersing van integriteitrisico’s onderzoek zoa
 
 1. Het is een trustkantoor verboden een zakelijke relatie aan te gaan of een trustdienst te verlenen, tenzij:
 
-- a. het trustkantoor of een introducerende instelling cliëntenonderzoek heeft verricht en dit cliëntenonderzoek heeft geleid tot het in de [artikelen 27 tot en met 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2022-07-16&g=2022-07-16), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2022-07-16&g=2022-07-16) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=34&z=2022-07-16&g=2022-07-16) bedoelde resultaat en er redelijkerwijs geen twijfel kan bestaan over de juistheid of volledigheid van dit resultaat;
+- a. het trustkantoor of een introducerende instelling cliëntenonderzoek heeft verricht en dit cliëntenonderzoek heeft geleid tot het in de [artikelen 27 tot en met 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2023-07-01&g=2023-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2023-07-01&g=2023-07-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=34&z=2023-07-01&g=2023-07-01) bedoelde resultaat en er redelijkerwijs geen twijfel kan bestaan over de juistheid of volledigheid van dit resultaat;
 
-- b. het trustkantoor of een introducerende instelling voldoet aan [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=37&z=2022-07-16&g=2022-07-16); en
+- b. het trustkantoor of een introducerende instelling voldoet aan [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=37&z=2023-07-01&g=2023-07-01); en
 
-- c. voor zover het cliëntenonderzoek is verricht door een introducerende instelling, het trustkantoor beschikt over de informatie, bedoeld in [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=37&z=2022-07-16&g=2022-07-16).
+- c. voor zover het cliëntenonderzoek is verricht door een introducerende instelling, het trustkantoor beschikt over de informatie, bedoeld in [artikel 37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=37&z=2023-07-01&g=2023-07-01).
 
-2. Voor zover in [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&z=2022-07-16&g=2022-07-16) is voorgeschreven dat een trustkantoor in het kader van het cliëntenonderzoek een voortdurende controle op de zakelijke relatie uitoefent, ten einde te verzekeren dat deze overeenkomt met het integriteitrisicoprofiel van de cliënt of doelvennootschap, verzekert een trustkantoor zich er voorafgaand aan het aangaan van een zakelijke relatie van dat het trustkantoor hiertoe in staat zal zijn gedurende de zakelijke relatie.
+2. Voor zover in [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&z=2023-07-01&g=2023-07-01) is voorgeschreven dat een trustkantoor in het kader van het cliëntenonderzoek een voortdurende controle op de zakelijke relatie uitoefent, ten einde te verzekeren dat deze overeenkomt met het integriteitrisicoprofiel van de cliënt of doelvennootschap, verzekert een trustkantoor zich er voorafgaand aan het aangaan van een zakelijke relatie van dat het trustkantoor hiertoe in staat zal zijn gedurende de zakelijke relatie.
 
 3. Indien een trustkantoor met betrekking tot een zakelijke relatie niet in staat is te voldoen aan de voorschriften in dit hoofdstuk, beëindigt het trustkantoor de zakelijke relatie.
 
@@ -521,45 +515,7 @@ Het op grond van dit hoofdstuk vaststellen van een uiteindelijk belanghebbende h
 
 ##### Artikel 28. Cliëntenonderzoek bij trustdienst c
 
-1. Een trustkantoor verricht voor het aangaan van een zakelijke relatie gericht op het verlenen van de trustdienst, bedoeld in onderdeel c van de begripsomschrijving van trustdienst, alsmede bij het verlenen van die trustdienst onderzoek naar de cliënt en de doorstroomvennootschap.
-
-2. Het onderzoek stelt het trustkantoor in staat om met betrekking tot de doorstroomvennootschap:
-
-- a. het transactieprofiel van de doorstroomvennootschap vast te stellen;
-
-- b. de herkomst en bestemming van de middelen die aan de doorstroomvennootschap ter beschikking worden gesteld vast te stellen;
-
-- c. vast te stellen welke persoon ter zake het risico draagt en deze persoon te identificeren en zijn identiteit te verifiëren; en
-
-- d. inzicht te verwerven in de ter zake gestelde zekerheden en deze zoveel mogelijk met zekerheid vast te stellen.
-
-3. Het onderzoek stelt het trustkantoor in staat om met betrekking tot de cliënt:
-
-- a. de cliënt te identificeren en diens identiteit te verifiëren;
-
-- b. de uiteindelijk belanghebbende van de cliënt vast te stellen;
-
-- c. het doel en de beoogde aard van de zakelijke relatie vast te stellen;
-
-- d. het integriteitrisicoprofiel van de cliënt vast te stellen;
-
-- e. indien de cliënt een rechtspersoon is:
-
-- 1°. de eigendomsstructuur en de formele zeggenschapsstructuur van de cliënt vast te stellen;
-
-- 2°. inzicht te verwerven in de feitelijke zeggenschapsstructuur van de cliënt en deze zoveel mogelijk met zekerheid vast te stellen;
-
-- f. een voortdurende controle op de zakelijke relatie en de tijdens de duur van deze relatie verrichte transacties uit te oefenen, teneinde zoveel mogelijk met zekerheid vast te stellen dat deze overeenkomen met de kennis die het trustkantoor heeft van de cliënt en het risicoprofiel van de cliënt met zo nodig een onderzoek naar de bron van de middelen die bij de zakelijke relatie of de trustdienst worden gebruikt;
-
-- g. vast te stellen of de natuurlijke persoon die de cliënt vertegenwoordigt daartoe bevoegd is;
-
-- h. zoveel mogelijk met zekerheid vast te stellen of de cliënt ten behoeve van zichzelf optreedt dan wel ten behoeve van een derde; en
-
-- i. in voorkomend geval, de natuurlijke persoon, bedoeld in onderdeel g, alsmede de derde, bedoeld in onderdeel h, te identificeren en diens identiteit te verifiëren.
-
-##### Artikel 29. Cliëntenonderzoek bij trustdienst d
-
-1. Een trustkantoor verricht voor het aangaan van een zakelijke relatie gericht op het verlenen van de trustdienst, bedoeld in onderdeel d van de begripsomschrijving van trustdienst, alsmede bij het verlenen van die trustdienst onderzoek naar de cliënt en voor zover van toepassing de koper en de verkoper.
+1. Een trustkantoor verricht voor het aangaan van een zakelijke relatie gericht op het verlenen van de trustdienst, bedoeld in onderdeel c van de begripsomschrijving van trustdienst, alsmede bij het verlenen van die trustdienst onderzoek naar de cliënt en voor zover van toepassing de koper en de verkoper.
 
 2. Het onderzoek stelt het trustkantoor in staat om met betrekking tot de cliënt:
 
@@ -599,9 +555,9 @@ Het op grond van dit hoofdstuk vaststellen van een uiteindelijk belanghebbende h
 
 - f. de herkomst van het vermogen van de koper vast te stellen.
 
-##### Artikel 30. Cliëntenonderzoek bij trustdienst e
+##### Artikel 29. Cliëntenonderzoek bij trustdienst d
 
-1. Een trustkantoor verricht voor het aangaan van een zakelijke relatie gericht op het verlenen van de trustdienst, bedoeld in onderdeel e van de begripsomschrijving van trustdienst, alsmede bij het verlenen van die trustdienst onderzoek naar de cliënt en de trust.
+1. Een trustkantoor verricht voor het aangaan van een zakelijke relatie gericht op het verlenen van de trustdienst, bedoeld in onderdeel d van de begripsomschrijving van trustdienst, alsmede bij het verlenen van die trustdienst onderzoek naar de cliënt en de trust.
 
 2. Het onderzoek stelt het trustkantoor in staat om met betrekking tot de cliënt:
 
@@ -641,6 +597,10 @@ Het op grond van dit hoofdstuk vaststellen van een uiteindelijk belanghebbende h
 
 - f. de herkomst en bestemming van middelen van de trust vast te stellen.
 
+##### Artikel 30. Cliëntenonderzoek bij andere trustdiensten
+
+Bij algemene maatregel van bestuur kunnen regels worden gesteld over het cliëntenonderzoek voor het verrichten van een andere dienst als bedoeld in onderdeel e van de begripsomschrijving van trustdienst.
+
 ##### Artikel 30a. Cliëntenonderzoek bij andere trustdiensten
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld over het cliëntenonderzoek voor het verrichten van een andere dienst als bedoeld in onderdeel f van de begripsomschrijving van trustdienst.
@@ -649,7 +609,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over het cliënt
 
 ##### Artikel 31. Bijzondere voorschriften bij trusts en andere juridische constructies
 
-1. Indien een cliënt handelt als trustee van een trust of ten behoeve van een andere juridische constructie strekt het cliëntenonderzoek zich tevens uit tot de trust of de juridische constructie, waarbij overeenkomstige toepassing wordt gegeven aan de [artikelen 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2022-07-16&g=2022-07-16), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=28&z=2022-07-16&g=2022-07-16), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=29&z=2022-07-16&g=2022-07-16), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2022-07-16&g=2022-07-16), en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=34&z=2022-07-16&g=2022-07-16). Het cliëntenonderzoek stelt het trustkantoor in dat geval eveneens in staat om:
+1. Indien een cliënt handelt als trustee van een trust of ten behoeve van een andere juridische constructie strekt het cliëntenonderzoek zich tevens uit tot de trust of de juridische constructie, waarbij overeenkomstige toepassing wordt gegeven aan de [artikelen 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2023-07-01&g=2023-07-01), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=28&z=2023-07-01&g=2023-07-01), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=29&z=2023-07-01&g=2023-07-01), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2023-07-01&g=2023-07-01), en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=34&z=2023-07-01&g=2023-07-01). Het cliëntenonderzoek stelt het trustkantoor in dat geval eveneens in staat om:
 
 - a. de vermogenspositie van de insteller van de trust of andere juridische constructie vast te stellen;
 
@@ -659,25 +619,21 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over het cliënt
 
 - d. vast te stellen door welk recht de trust of andere juridische constructie wordt beheerst.
 
-2. Indien een trustkantoor ingevolge [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&z=2022-07-16&g=2022-07-16) bij het onderzoek naar de uiteindelijk belanghebbende informatie vergaart over een trust of soortgelijke juridische constructie:
+2. Indien een trustkantoor ingevolge [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&z=2023-07-01&g=2023-07-01) bij het onderzoek naar de uiteindelijk belanghebbende informatie vergaart over een trust of soortgelijke juridische constructie:
 
-- a. is het een trustkantoor in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.1&artikel=23&z=2022-07-16&g=2022-07-16) toegestaan om de identiteit van de begunstigde van een trust of van een soortgelijke juridische constructie pas vast te stellen voorafgaand aan uitbetaling of aan het tijdstip waarop de begunstigde zijn definitieve rechten uitoefent, mits de begunstigde voor het aangaan van de zakelijke relatie of het verlenen van een trustdienst aan de hand van specifieke kenmerken of naar categorie is omschreven en het trustkantoor dan al zodanige informatie inwint dat het in staat is de identiteit van de begunstigde vast te stellen voorafgaand aan het tijdstip van uitbetaling of aan het tijdstip waarop de begunstigde zijn definitieve rechten uitoefent;
+- a. is het een trustkantoor in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.1&artikel=23&z=2023-07-01&g=2023-07-01) toegestaan om de identiteit van de begunstigde van een trust of van een soortgelijke juridische constructie pas vast te stellen voorafgaand aan uitbetaling of aan het tijdstip waarop de begunstigde zijn definitieve rechten uitoefent, mits de begunstigde voor het aangaan van de zakelijke relatie of het verlenen van een trustdienst aan de hand van specifieke kenmerken of naar categorie is omschreven en het trustkantoor dan al zodanige informatie inwint dat het in staat is de identiteit van de begunstigde vast te stellen voorafgaand aan het tijdstip van uitbetaling of aan het tijdstip waarop de begunstigde zijn definitieve rechten uitoefent;
 
 - b. stelt het trustkantoor vast dat hij gedurende de zakelijke relatie accuraat en ten minste 30 dagen voorafgaand wordt geïnformeerd over enige wijziging van de begunstigden van de trust of de soortgelijke juridische constructie.
 
 ##### Artikel 32. Cliënt is een vennoot
 
-Indien een cliënt optreedt als vennoot van een personenvennootschap strekt het cliëntenonderzoek zich tevens uit tot de personenvennootschap, waarbij overeenkomstige toepassing wordt gegeven aan de [artikelen 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2022-07-16&g=2022-07-16), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=28&z=2022-07-16&g=2022-07-16), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=29&z=2022-07-16&g=2022-07-16), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2022-07-16&g=2022-07-16), en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=34&z=2022-07-16&g=2022-07-16). Het cliëntenonderzoek stelt het trustkantoor in dat geval eveneens in staat om vast te stellen of de natuurlijke persoon die de vennoten in de personenvennootschap vertegenwoordigt daartoe bevoegd is en, in voorkomend geval, om die persoon te identificeren en diens identiteit te verifiëren.
+Indien een cliënt optreedt als vennoot van een personenvennootschap strekt het cliëntenonderzoek zich tevens uit tot de personenvennootschap, waarbij overeenkomstige toepassing wordt gegeven aan de [artikelen 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=27&z=2023-07-01&g=2023-07-01), [28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=28&z=2023-07-01&g=2023-07-01), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=29&z=2023-07-01&g=2023-07-01), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&artikel=30&z=2023-07-01&g=2023-07-01), en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=34&z=2023-07-01&g=2023-07-01). Het cliëntenonderzoek stelt het trustkantoor in dat geval eveneens in staat om vast te stellen of de natuurlijke persoon die de vennoten in de personenvennootschap vertegenwoordigt daartoe bevoegd is en, in voorkomend geval, om die persoon te identificeren en diens identiteit te verifiëren.
 
 #### § 4.4. Cliëntenonderzoek bij hoger risico
 
 ##### Artikel 33. Verscherpt cliëntenonderzoek
 
-1. Een trustkantoor verricht in aanvulling op [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&z=2022-07-16&g=2022-07-16) verscherpt cliëntenonderzoek in ten minste de volgende gevallen:
-
-- a. indien de zakelijke relatie of trustdienst naar zijn aard een hoger risico op witwassen of financieren van terrorisme met zich brengt;
-
-- b. indien de staat waar de cliënt, de doelvennootschap of de uiteindelijk belanghebbende van de cliënt of doelvennootschap woonachtig of gevestigd is of zijn zetel heeft op grond van artikel 9 van de vierde anti-witwasrichtlijn door de Europese Commissie is aangewezen als staat met een hoger risico op witwassen of financieren van terrorisme.
+1. Een trustkantoor verricht in aanvulling op [paragraaf 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.2&z=2023-07-01&g=2023-07-01) verscherpt cliëntenonderzoek indien de zakelijke relatie of trustdienst naar zijn aard een hoger risico op witwassen of financieren van terrorisme met zich brengt.
 
 2. Een trustkantoor houdt ten minste rekening met de risicofactoren, bedoeld in bijlage III behorende bij de vierde anti-witwasrichtlijn, om vast te stellen of het eerste lid, onderdeel a, van toepassing is.
 
@@ -691,7 +647,7 @@ Indien een cliënt optreedt als vennoot van een personenvennootschap strekt het 
 
 - c. een persoon bekend als naaste geassocieerde van een politiek prominente persoon is.
 
-2. Onverminderd [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2022-07-16&g=2022-07-16), past een trustkantoor de volgende maatregelen toe bij het aangaan of voortzetten van een zakelijke relatie of het verlenen van een trustdienst waarbij de cliënt, de uiteindelijk belanghebbende van de cliënt of de uiteindelijk belanghebbende van de doelvennootschap een persoon is als bedoeld in de onderdelen a tot en met c van het eerste lid:
+2. Onverminderd [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2023-07-01&g=2023-07-01), past een trustkantoor de volgende maatregelen toe bij het aangaan of voortzetten van een zakelijke relatie of het verlenen van een trustdienst waarbij de cliënt, de uiteindelijk belanghebbende van de cliënt of de uiteindelijk belanghebbende van de doelvennootschap een persoon is als bedoeld in de onderdelen a tot en met c van het eerste lid:
 
 - a. voor het aangaan of voortzetten van deze zakelijke relatie of het verlenen van deze trustdienst, is de toestemming vereist van een persoon die het dagelijks beleid van het trustkantoor bepaalt; en
 
@@ -699,7 +655,7 @@ Indien een cliënt optreedt als vennoot van een personenvennootschap strekt het 
 
 3. Indien een cliënt, een uiteindelijk belanghebbende van een cliënt of een uiteindelijk belanghebbende van een doelvennootschap niet langer een politiek prominente publieke functie bekleedt, past het trustkantoor passende risicogebaseerde maatregelen ten minste gedurende 12 maanden toe, of zoveel langer als nodig totdat deze persoon niet langer het hoger risico met zich brengt dat hoort bij politiek prominente personen.
 
-4. Indien een cliënt, een uiteindelijk belanghebbende van een cliënt of een uiteindelijk belanghebbende van een doelvennootschap gedurende de zakelijke relatie een persoon als bedoeld in het eerste lid wordt of blijkt te zijn, voldoet het trustkantoor onverwijld nadat hiervan is gebleken aan [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2022-07-16&g=2022-07-16) en aan het tweede lid.
+4. Indien een cliënt, een uiteindelijk belanghebbende van een cliënt of een uiteindelijk belanghebbende van een doelvennootschap gedurende de zakelijke relatie een persoon als bedoeld in het eerste lid wordt of blijkt te zijn, voldoet het trustkantoor onverwijld nadat hiervan is gebleken aan [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2023-07-01&g=2023-07-01) en aan het tweede lid.
 
 ##### Artikel 35. Complexe en ongebruikelijke transacties
 
@@ -707,17 +663,15 @@ Een trustkantoor neemt redelijke maatregelen om alle complexe en ongebruikelijk 
 
 ##### Artikel 36. Hoogrisico derde landen
 
-1. Onverminderd [artikel 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.4&artikel=33&z=2022-07-16&g=2022-07-16), kan bij ministeriële regeling worden bepaald dat een trustkantoor bijzondere maatregelen neemt met betrekking tot cliënten, doelvennootschappen, uiteindelijk belanghebbenden van cliënten of uiteindelijk belanghebbenden van doelvennootschappen die woonachtig of gevestigd zijn of hun zetel hebben in staten die op grond van artikel 9 van de vierde anti-witwasrichtlijn in gedelegeerde handelingen van de Europese Commissie zijn aangewezen als staten met een hoger risico op witwassen of financieren van terrorisme.
-
-2. Op grond van het eerste lid kunnen als bijzondere maatregelen slechts de maatregelen, bedoeld in [artikel 9, tweede en derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=9), worden aangewezen.
+Vervallen
 
 ### Hoofdstuk 5. Vastlegging
 
 ##### Artikel 37. Vastlegging cliëntenonderzoek
 
-1. Een trustkantoor dat of een introducerende instelling die uitvoering heeft gegeven aan de voorschriften in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&z=2022-07-16&g=2022-07-16) legt de daartoe gebruikte gegevens vast.
+1. Een trustkantoor dat of een introducerende instelling die uitvoering heeft gegeven aan de voorschriften in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&z=2023-07-01&g=2023-07-01) legt de daartoe gebruikte gegevens vast.
 
-2. Een trustkantoor dat op grond van deze wet een persoon heeft geïdentificeerd en zijn identiteit heeft geverifieerd, of bij wie een cliënt is geïntroduceerd door een introducerende instelling met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.1&artikel=23&z=2022-07-16&g=2022-07-16), legt op opvraagbare wijze de in [artikel 33 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) bedoelde gegevens vast.
+2. Een trustkantoor dat op grond van deze wet een persoon heeft geïdentificeerd en zijn identiteit heeft geverifieerd, of bij wie een cliënt is geïntroduceerd door een introducerende instelling met inachtneming van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.1&artikel=23&z=2023-07-01&g=2023-07-01), legt op opvraagbare wijze de in [artikel 33 van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=33) bedoelde gegevens vast.
 
 3. Een trustkantoor neemt redelijke maatregelen om ervoor te zorgen dat de in het eerste en tweede lid bedoelde gegevens actueel gehouden worden.
 
@@ -739,13 +693,13 @@ Een trustkantoor houdt de volgende gegevens met betrekking tot de eigen organisa
 
 - f. de vastgestelde jaarrekeningen over de afgelopen drie boekjaren dan wel de voorlopige jaarcijfers indien een jaarrekening nog niet is vastgesteld;
 
-- g. het beleid, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=14&z=2022-07-16&g=2022-07-16);
+- g. het beleid, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=14&z=2023-07-01&g=2023-07-01);
 
-- h. de overeenkomsten, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=16&z=2022-07-16&g=2022-07-16);
+- h. de overeenkomsten, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=16&z=2023-07-01&g=2023-07-01);
 
-- i. de vastlegging van incidenten, bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=20&z=2022-07-16&g=2022-07-16); en
+- i. de vastlegging van incidenten, bedoeld in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=20&z=2023-07-01&g=2023-07-01); en
 
-- j. de bescheiden, bedoeld in [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=39&z=2022-07-16&g=2022-07-16).
+- j. de bescheiden, bedoeld in [artikel 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=39&z=2023-07-01&g=2023-07-01).
 
 ##### Artikel 39. Dienstverleningsdossier
 
@@ -755,13 +709,13 @@ Een trustkantoor houdt de volgende gegevens met betrekking tot de eigen organisa
 
 - a. de schriftelijke overeenkomsten tussen het trustkantoor en de cliënt en, indien van toepassing, de doelvennootschap en andere overeenkomsten die het trustkantoor heeft gesloten ter zake van de door het trustkantoor geleverde trustdiensten;
 
-- b. het acceptatiememorandum, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.1&artikel=26&z=2022-07-16&g=2022-07-16);
+- b. het acceptatiememorandum, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&paragraaf=4.1&artikel=26&z=2023-07-01&g=2023-07-01);
 
 - c. een overzicht van de door het trustkantoor geleverde trustdiensten;
 
-- d. de gegevens, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=37&z=2022-07-16&g=2022-07-16); en
+- d. de gegevens, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=37&z=2023-07-01&g=2023-07-01); en
 
-- e. de vastlegging van incidenten en maatregelen, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=20&z=2022-07-16&g=2022-07-16), voor zover gerelateerd aan de desbetreffende doelvennootschap, cliënt of trustdienst.
+- e. de vastlegging van incidenten en maatregelen, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=20&z=2023-07-01&g=2023-07-01), voor zover gerelateerd aan de desbetreffende doelvennootschap, cliënt of trustdienst.
 
 3. Een trustkantoor neemt redelijke maatregelen om ervoor te zorgen dat het dienstverleningsdossier voldoende actueel gehouden wordt.
 
@@ -773,7 +727,7 @@ Een trustkantoor houdt de volgende gegevens met betrekking tot de eigen organisa
 
 2. Een trustkantoor verstrekt, alvorens een zakelijke relatie aan te gaan of een incidentele transactie te verrichten, informatie aan een cliënt over de krachtens deze wet geldende verplichtingen ter zake van de verwerking van persoonsgegevens.
 
-3. Een trustkantoor vernietigt de persoonsgegevens die het uit hoofde van deze wet heeft verkregen onmiddellijk na het verstrijken van de termijn, bedoeld in de [artikelen 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=37&z=2022-07-16&g=2022-07-16), en [39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=39&z=2022-07-16&g=2022-07-16), tenzij bij wettelijk voorschrift anders is bepaald.
+3. Een trustkantoor vernietigt de persoonsgegevens die het uit hoofde van deze wet heeft verkregen onmiddellijk na het verstrijken van de termijn, bedoeld in de [artikelen 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=37&z=2023-07-01&g=2023-07-01), en [39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=5&artikel=39&z=2023-07-01&g=2023-07-01), tenzij bij wettelijk voorschrift anders is bepaald.
 
 ### Hoofdstuk 6. Toezicht en handhaving
 
@@ -805,7 +759,7 @@ Een trustkantoor houdt de volgende gegevens met betrekking tot de eigen organisa
 
 ##### Artikel 44. Inlichten Financiële inlichtingen eenheid
 
-Indien de personen, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2022-07-16&g=2022-07-16), bij de uitoefening van hun taak feiten ontdekken die kunnen duiden op witwassen of financieren van terrorisme, licht de Nederlandsche Bank de Financiële inlichtingen eenheid in, voor zover de gegevens of inlichtingen dienstig zijn voor de uitoefening van de wettelijke taken van de Financiële inlichtingen eenheid.
+Indien de personen, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.1&artikel=42&z=2023-07-01&g=2023-07-01), bij de uitoefening van hun taak feiten ontdekken die kunnen duiden op witwassen of financieren van terrorisme, licht de Nederlandsche Bank de Financiële inlichtingen eenheid in, voor zover de gegevens of inlichtingen dienstig zijn voor de uitoefening van de wettelijke taken van de Financiële inlichtingen eenheid.
 
 ##### Artikel 45. Inlichtingenbevoegdheid internationaal
 
@@ -835,17 +789,17 @@ De Nederlandsche Bank kan een ieder die niet voldoet aan een ingevolge deze wet 
 
 1. De Nederlandsche Bank kan een last onder dwangsom opleggen ter zake van:
 
-- a. overtreding van bij of krachtens de [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&z=2022-07-16&g=2022-07-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=8&z=2022-07-16&g=2022-07-16) gestelde regels;
+- a. overtreding van bij of krachtens de [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&z=2023-07-01&g=2023-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=8&z=2023-07-01&g=2023-07-01) gestelde regels;
 
-- b. het geen dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=47&z=2022-07-16&g=2022-07-16) gegeven aanwijzing.
+- b. het geen dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=47&z=2023-07-01&g=2023-07-01) gegeven aanwijzing.
 
 2. De Nederlandsche Bank kan een bestuurlijke boete opleggen ter zake van:
 
-- a. overtreding van bij of krachtens de [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&z=2022-07-16&g=2022-07-16) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=8&z=2022-07-16&g=2022-07-16) gestelde regels;
+- a. overtreding van bij of krachtens de [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&z=2023-07-01&g=2023-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=8&z=2023-07-01&g=2023-07-01) gestelde regels;
 
 - b. overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20);
 
-- c. het geen dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=47&z=2022-07-16&g=2022-07-16) gegeven aanwijzing.
+- c. het geen dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=47&z=2023-07-01&g=2023-07-01) gegeven aanwijzing.
 
 ##### Artikel 49. Hoogte bestuurlijke boete
 
@@ -863,13 +817,13 @@ De Nederlandsche Bank kan een ieder die niet voldoet aan een ingevolge deze wet 
 
 ##### Artikel 50. Omzetgerelateerde boete
 
-1. In afwijking van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2022-07-16&g=2022-07-16) bedraagt de bestuurlijke boete voor een afzonderlijke overtreding van een voorschrift gerangschikt in de derde categorie ten hoogste 20% van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd, indien dit meer is dan € 10.000.000.
+1. In afwijking van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2023-07-01&g=2023-07-01) bedraagt de bestuurlijke boete voor een afzonderlijke overtreding van een voorschrift gerangschikt in de derde categorie ten hoogste 20% van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking waarmee de bestuurlijke boete wordt opgelegd, indien dit meer is dan € 10.000.000.
 
 2. Indien de bestuurlijke boete wordt opgelegd aan een onderneming die opgenomen is in een groep met een geconsolideerde jaarrekening, worden bij de berekening van de netto-omzet de totaalbedragen gehanteerd uit de geconsolideerde jaarrekening van de uiteindelijke moederonderneming.
 
 ##### Artikel 51. Voordeelgerelateerde boete
 
-De Nederlandsche Bank kan in afwijking van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2022-07-16&g=2022-07-16) een bestuurlijke boete opleggen van ten hoogste tweemaal het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen.
+De Nederlandsche Bank kan in afwijking van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2023-07-01&g=2023-07-01) een bestuurlijke boete opleggen van ten hoogste tweemaal het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen.
 
 ##### Artikel 52. Schorsende werking betalingsverplichting
 
@@ -879,7 +833,7 @@ De Nederlandsche Bank kan in afwijking van [artikel 49](https://wetten.overheid.
 
 ##### Artikel 53. Verbod beleidsbepalende functie
 
-1. Bij een overtreding die beboetbaar is met een boete gerangschikt in de tweede of derde boetecategorie, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2022-07-16&g=2022-07-16), kan de Nederlandsche Bank de overtreder, dan wel, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daar feitelijk leiding aan hebben gegeven, de bevoegdheid ontzeggen om bij een trustkantoor of een andere instelling als bedoeld in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) beleidsbepalende functies uit te oefenen.
+1. Bij een overtreding die beboetbaar is met een boete gerangschikt in de tweede of derde boetecategorie, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2023-07-01&g=2023-07-01), kan de Nederlandsche Bank de overtreder, dan wel, indien de overtreding is begaan door een rechtspersoon, de natuurlijke personen die tot de betrokken gedraging opdracht hebben gegeven of daar feitelijk leiding aan hebben gegeven, de bevoegdheid ontzeggen om bij een trustkantoor of een andere instelling als bedoeld in de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282) beleidsbepalende functies uit te oefenen.
 
 2. Een ontzegging als bedoeld in het eerste lid kan worden opgelegd voor de duur van ten hoogste een jaar en eenmaal met ten hoogste een jaar worden verlengd. Ingeval van zwaarwegende omstandigheden kan van de termijnen, genoemd in de eerste zin, worden afgeweken.
 
@@ -889,7 +843,7 @@ De Nederlandsche Bank kan in afwijking van [artikel 49](https://wetten.overheid.
 
 2. Het benoemingsbesluit wordt slechts genomen:
 
-- a. nadat door het trustkantoor niet of niet volledig binnen de gestelde termijn aan een aanwijzing als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=47&z=2022-07-16&g=2022-07-16) gevolg is gegeven; of
+- a. nadat door het trustkantoor niet of niet volledig binnen de gestelde termijn aan een aanwijzing als bedoeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=47&z=2023-07-01&g=2023-07-01) gevolg is gegeven; of
 
 - b. indien een overtreding ingevolge deze wet een adequate functionering van het trustkantoor ernstig in gevaar brengt en dat trustkantoor voorafgaand in de gelegenheid is gesteld zijn zienswijze naar voren te brengen over het voorgenomen besluit.
 
@@ -911,15 +865,19 @@ De Nederlandsche Bank kan in afwijking van [artikel 49](https://wetten.overheid.
 
 6. De kosten van de in het eerste lid bedoelde maatregel komen voor rekening van het betrokken trustkantoor.
 
+7. De curator is niet aansprakelijk voor schade veroorzaakt door een handelen of nalaten in de uitoefening van de taak op grond van dit artikel, tenzij deze schade in belangrijke mate het gevolg is van een opzettelijk onbehoorlijke taakuitoefening of een opzettelijk onbehoorlijke uitoefening van bevoegdheden of in belangrijke mate te wijten is aan grove schuld.
+
 ### Hoofdstuk 7. Geheimhouding en publicatie
 
 #### § 7.1. Geheimhoudingsplicht
 
 ##### Artikel 55. Geheimhouding
 
-1. Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) zijn verstrekt of verkregen of van een persoon of instantie als bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2022-07-16&g=2022-07-16) zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak noodzakelijk is of tenzij deze wet anders bepaalt.
+1. Het is een ieder die uit hoofde van de toepassing van deze wet of van ingevolge deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge [titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) zijn verstrekt of verkregen of van een persoon of instantie als bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2023-07-01&g=2023-07-01) zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak noodzakelijk is of tenzij deze wet anders bepaalt.
 
 2. De Nederlandsche Bank kan met gebruikmaking van vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van zijn taak op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen.
+
+3. Het eerste en tweede lid laten ten aanzien van degene op wie het tweede lid van toepassing is, onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
 ##### Artikel 56. Informatieuitwisseling
 
@@ -959,21 +917,21 @@ De Nederlandsche Bank kan in afwijking van [artikel 49](https://wetten.overheid.
 
 ##### Artikel 58. Informatieuitwisseling AFM
 
-1. De Nederlandsche Bank verstrekt aan de Stichting Autoriteit Financiële Markten de gegevens of inlichtingen die zij heeft verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak en die betrekking hebben op de betrouwbaarheid van de personen, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2022-07-16&g=2022-07-16), voor zover deze naar het oordeel van de Nederlandsche Bank van belang zijn of zouden kunnen zijn voor het toezicht dat door de Stichting Autoriteit Financiële Markten wordt uitgeoefend op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+1. De Nederlandsche Bank verstrekt aan de Stichting Autoriteit Financiële Markten de gegevens of inlichtingen die zij heeft verkregen bij de vervulling van de haar ingevolge deze wet opgedragen taak en die betrekking hebben op de betrouwbaarheid van de personen, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2023-07-01&g=2023-07-01), voor zover deze naar het oordeel van de Nederlandsche Bank van belang zijn of zouden kunnen zijn voor het toezicht dat door de Stichting Autoriteit Financiële Markten wordt uitgeoefend op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-2. De Nederlandsche Bank verstrekt geen gegevens of inlichtingen als bedoeld in het eerste lid, indien deze zijn verkregen van een buitenlandse overheidsinstantie of van een buitenlandse van overheidswege aangewezen instantie als bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2022-07-16&g=2022-07-16), tenzij die buitenlandse instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.
+2. De Nederlandsche Bank verstrekt geen gegevens of inlichtingen als bedoeld in het eerste lid, indien deze zijn verkregen van een buitenlandse overheidsinstantie of van een buitenlandse van overheidswege aangewezen instantie als bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2023-07-01&g=2023-07-01), tenzij die buitenlandse instantie waarvan de gegevens of inlichtingen zijn verkregen uitdrukkelijk heeft ingestemd met de verstrekking van de gegevens of inlichtingen en in voorkomend geval heeft ingestemd met het gebruik voor een ander doel dan waarvoor de gegevens of inlichtingen zijn verstrekt.
 
 #### § 7.2. Publicatie
 
 ##### Artikel 59. Openbaarmaking overtreding
 
-1. De Nederlandsche Bank kan met een verklaring een overtreding van de bij of krachtens deze wet gestelde regels, die met de tweede of derde boetecategorie, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2022-07-16&g=2022-07-16), beboetbaar is gesteld en de naam van de overtreder openbaar maken.
+1. De Nederlandsche Bank kan met een verklaring een overtreding van de bij of krachtens deze wet gestelde regels, die met de tweede of derde boetecategorie, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2023-07-01&g=2023-07-01), beboetbaar is gesteld en de naam van de overtreder openbaar maken.
 
 2. De Nederlandsche Bank kan met een waarschuwing een overtreding van de bij of krachtens deze wet gestelde regels en de naam van de overtreder openbaar maken, indien het naar het oordeel van de Nederlandsche Bank nodig is om het publiek snel en effectief te informeren teneinde schade te voorkomen of te beperken.
 
 ##### Artikel 60. Belangenafweging openbaarmaking
 
-De Nederlandsche Bank maakt op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2022-07-16&g=2022-07-16) geen gegevens openbaar, voor zover:
+De Nederlandsche Bank maakt op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2023-07-01&g=2023-07-01) geen gegevens openbaar, voor zover:
 
 - a. die gegevens herleidbaar zijn tot een natuurlijk persoon en bekendmaking van zijn persoonsgegevens onevenredig zou zijn;
 
@@ -991,19 +949,19 @@ De Nederlandsche Bank maakt op grond van [artikel 59](https://wetten.overheid.nl
 
 2. Indien tegen een besluit als bedoeld in het eerste lid bezwaar, beroep of hoger beroep is ingesteld, wordt de uitkomst daarvan tezamen met het besluit openbaar gemaakt.
 
-3. In aanvulling op [artikel 5:2, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2) wordt onder bestuurlijke sanctie mede verstaan: het door de Nederlandsche Bank wegens een overtreding intrekken of beperken van een vergunning alsmede het opleggen van een verbod als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=53&z=2022-07-16&g=2022-07-16).
+3. In aanvulling op [artikel 5:2, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2) wordt onder bestuurlijke sanctie mede verstaan: het door de Nederlandsche Bank wegens een overtreding intrekken of beperken van een vergunning alsmede het opleggen van een verbod als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=53&z=2023-07-01&g=2023-07-01).
 
-4. In afwijking van het eerste lid maakt de Nederlandsche Bank een besluit tot het opleggen van een bestuurlijke boete zo spoedig mogelijk openbaar, indien het een bestuurlijke boete betreft ter zake van een overtreding van een voorschrift dat op grond van [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2022-07-16&g=2022-07-16), is gerangschikt in de derde categorie.
+4. In afwijking van het eerste lid maakt de Nederlandsche Bank een besluit tot het opleggen van een bestuurlijke boete zo spoedig mogelijk openbaar, indien het een bestuurlijke boete betreft ter zake van een overtreding van een voorschrift dat op grond van [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=6&paragraaf=6.2&artikel=49&z=2023-07-01&g=2023-07-01), is gerangschikt in de derde categorie.
 
 5. De Nederlandsche Bank maakt in afwijking van het eerste lid een besluit tot het opleggen van een last onder dwangsom ingevolge deze wet of [artikel 5:20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), juncto [artikel 5:32, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32) zo spoedig mogelijk openbaar, indien een dwangsom wordt verbeurd.
 
-6. De Nederlandsche Bank maakt de indiening van een bezwaar of de instelling van een beroep of hoger beroep tegen een besluit als bedoeld in het vierde of vijfde lid, alsmede de beslissing op bezwaar en de uitkomst van dat beroep of hoger beroep, zo spoedig mogelijk openbaar, tenzij het besluit op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=62&z=2022-07-16&g=2022-07-16) niet openbaar is gemaakt.
+6. De Nederlandsche Bank maakt de indiening van een bezwaar of de instelling van een beroep of hoger beroep tegen een besluit als bedoeld in het vierde of vijfde lid, alsmede de beslissing op bezwaar en de uitkomst van dat beroep of hoger beroep, zo spoedig mogelijk openbaar, tenzij het besluit op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=62&z=2023-07-01&g=2023-07-01) niet openbaar is gemaakt.
 
 7. Een besluit dat ingevolge het eerste, vierde of vijfde lid openbaar is gemaakt, blijft gedurende een periode van vijf jaar na bekendmaking beschikbaar op de website van de Nederlandsche Bank, met uitzondering van de persoonsgegevens die deel uitmaken van het besluit voor zover enig wettelijk voorschrift aan de openbaarmaking van de persoonsgegevens in de weg staat.
 
 ##### Artikel 62. Uitzonderingen publicatieplicht
 
-1. Openbaarmaking op grond van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2022-07-16&g=2022-07-16) wordt uitgesteld of geschiedt in zodanige vorm dat de openbaar te maken gegevens niet herleidbaar zijn tot afzonderlijke personen, voor zover:
+1. Openbaarmaking op grond van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2023-07-01&g=2023-07-01) wordt uitgesteld of geschiedt in zodanige vorm dat de openbaar te maken gegevens niet herleidbaar zijn tot afzonderlijke personen, voor zover:
 
 - a. die gegevens herleidbaar zijn tot een natuurlijke persoon en bekendmaking van zijn persoonsgegevens onevenredig zou zijn;
 
@@ -1013,7 +971,7 @@ De Nederlandsche Bank maakt op grond van [artikel 59](https://wetten.overheid.nl
 
 - d. de stabiliteit van het financiële stelsel in gevaar zou worden gebracht.
 
-2. Openbaarmaking op grond van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2022-07-16&g=2022-07-16) blijft achterwege, indien openbaarmaking overeenkomstig het eerste lid:
+2. Openbaarmaking op grond van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2023-07-01&g=2023-07-01) blijft achterwege, indien openbaarmaking overeenkomstig het eerste lid:
 
 - a. onevenredig zou zijn gezien de geringe ernst van de overtreding, tenzij het een besluit tot het opleggen van een bestuurlijke boete betreft;
 
@@ -1025,13 +983,13 @@ De Nederlandsche Bank maakt op grond van [artikel 59](https://wetten.overheid.nl
 
 1. Alvorens over te gaan tot openbaarmaking van gegevens die tot afzonderlijke personen herleidbaar zijn op grond van deze paragraaf, neemt de Nederlandsche bank een besluit tot openbaarmaking. Dit besluit bevat de openbaar te maken gegevens en de wijze en termijn waarop de openbaarmaking zal plaatsvinden.
 
-2. Onverminderd [artikel 4:11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:11) kan de Nederlandsche Bank bij het nemen van een besluit op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2022-07-16&g=2022-07-16) de toepassing van [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) achterwege laten, indien van de belanghebbende geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.
+2. Onverminderd [artikel 4:11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:11) kan de Nederlandsche Bank bij het nemen van een besluit op grond van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2023-07-01&g=2023-07-01) de toepassing van [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) achterwege laten, indien van de belanghebbende geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.
 
 ##### Artikel 64. Regels omtrent openbaarmaking
 
 1. De Nederlandsche Bank gaat pas over tot openbaarmaking op grond van deze afdeling, nadat vijf werkdagen zijn verstreken na de dag waarop het besluit tot openbaarmaking aan de belanghebbende is bekendgemaakt.
 
-2. In afwijking van het eerste lid gaat de Nederlandsche Bank pas over tot openbaarmaking op grond van [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2022-07-16&g=2022-07-16), nadat het besluit tot openbaarmaking onherroepelijk is.
+2. In afwijking van het eerste lid gaat de Nederlandsche Bank pas over tot openbaarmaking op grond van [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2023-07-01&g=2023-07-01), nadat het besluit tot openbaarmaking onherroepelijk is.
 
 3. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) om openbaarmaking op grond van deze afdeling te voorkomen, gaat de toezichthouder niet over tot openbaarmaking totdat de voorzieningenrechter uitspraak heeft gedaan.
 
@@ -1043,29 +1001,29 @@ De Nederlandsche Bank maakt op grond van [artikel 59](https://wetten.overheid.nl
 
 5. In de gevallen, bedoeld in het vierde lid, biedt de toezichthouder de belanghebbende aan de intrekking of de vernietiging openbaar te maken.
 
-6. In afwijking van [artikel 61, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2022-07-16&g=2022-07-16), zijn het vierde en vijfde lid van overeenkomstige toepassing op een besluit tot openbaarmaking op grond van artikel 61, vierde of vijfde lid, voor zover de openbaarmaking in strijd met [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=62&z=2022-07-16&g=2022-07-16) heeft plaatsgevonden.
+6. In afwijking van [artikel 61, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2023-07-01&g=2023-07-01), zijn het vierde en vijfde lid van overeenkomstige toepassing op een besluit tot openbaarmaking op grond van artikel 61, vierde of vijfde lid, voor zover de openbaarmaking in strijd met [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=62&z=2023-07-01&g=2023-07-01) heeft plaatsgevonden.
 
 ##### Artikel 65. Vroegtijdige openbaarmaking
 
-1. In afwijking van [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=64&z=2022-07-16&g=2022-07-16), kan de Nederlandsche Bank op een kortere termijn en zo nodig onverwijld overgaan tot openbaarmaking op grond van deze paragraaf, voor zover:
+1. In afwijking van [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=64&z=2023-07-01&g=2023-07-01), kan de Nederlandsche Bank op een kortere termijn en zo nodig onverwijld overgaan tot openbaarmaking op grond van deze paragraaf, voor zover:
 
 - a. bescherming van de belangen die deze wet beoogt te beschermen, geen verder uitstel toelaat; of
 
 - b. de overtreder zelf informatie openbaar heeft gemaakt over de overtreding of het besluit tot het opleggen van een bestuurlijke sanctie waarop de openbaarmaking betrekking heeft, en versnelde openbaarmaking in het belang van het publiek noodzakelijk is ter bescherming van het vertrouwen in het toezicht op de integriteit van het financiële stelsel.
 
-2. In de gevallen bedoeld in het eerste lid kan de Nederlandsche Bank tevens besluiten dat [artikel 64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=64&z=2022-07-16&g=2022-07-16), buiten toepassing blijft.
+2. In de gevallen bedoeld in het eerste lid kan de Nederlandsche Bank tevens besluiten dat [artikel 64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=64&z=2023-07-01&g=2023-07-01), buiten toepassing blijft.
 
 3. De Nederlandsche Bank verricht een redelijke inspanning om de betrokkene voorafgaand aan de openbaarmaking in kennis te stellen van de voorgenomen openbaarmaking.
 
-4. Bij openbaarmaking van een besluit tot het opleggen van een bestuurlijke sanctie is [artikel 61, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2022-07-16&g=2022-07-16), van overeenkomstige toepassing.
+4. Bij openbaarmaking van een besluit tot het opleggen van een bestuurlijke sanctie is [artikel 61, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2023-07-01&g=2023-07-01), van overeenkomstige toepassing.
 
 ##### Artikel 66. Voorlopige voorziening
 
 1. Indien wordt verzocht om een voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81) om openbaarmaking op grond van deze paragraaf te voorkomen, vindt het onderzoek ter zitting plaats met gesloten deuren.
 
-2. Indien de voorzieningenrechter openbaarmaking op grond van deze paragraaf heeft verboden, of indien op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=62&z=2022-07-16&g=2022-07-16) nog geen tot personen herleidbare openbaarmaking heeft plaatsgevonden, vindt het horen van belanghebbenden ter zake van het bezwaar tegen het besluit tot openbaarmaking of het besluit tot het opleggen van de bestuurlijke sanctie niet in het openbaar plaats.
+2. Indien de voorzieningenrechter openbaarmaking op grond van deze paragraaf heeft verboden, of indien op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=62&z=2023-07-01&g=2023-07-01) nog geen tot personen herleidbare openbaarmaking heeft plaatsgevonden, vindt het horen van belanghebbenden ter zake van het bezwaar tegen het besluit tot openbaarmaking of het besluit tot het opleggen van de bestuurlijke sanctie niet in het openbaar plaats.
 
-3. Indien de voorzieningenrechter openbaarmaking op grond van deze paragraaf heeft verboden, of indien op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=62&z=2022-07-16&g=2022-07-16) nog geen tot afzonderlijke personen herleidbare openbaarmaking heeft plaatsgevonden, en beroep of hoger beroep wordt ingesteld tegen de beslissing op het bezwaar tegen het besluit tot openbaarmaking of het besluit tot het opleggen van de bestuurlijke sanctie, vindt het onderzoek ter zitting plaats met gesloten deuren.
+3. Indien de voorzieningenrechter openbaarmaking op grond van deze paragraaf heeft verboden, of indien op grond van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&artikel=62&z=2023-07-01&g=2023-07-01) nog geen tot afzonderlijke personen herleidbare openbaarmaking heeft plaatsgevonden, en beroep of hoger beroep wordt ingesteld tegen de beslissing op het bezwaar tegen het besluit tot openbaarmaking of het besluit tot het opleggen van de bestuurlijke sanctie, vindt het onderzoek ter zitting plaats met gesloten deuren.
 
 ### Hoofdstuk 8. Overige bepalingen
 
@@ -1097,33 +1055,33 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ##### Artikel 70. Vergunningen
 
-1. Een vergunning voor het werkzaam zijn als trustkantoor, verleend op grond van [artikel 4 van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=4), wordt na de inwerkingtreding van deze wet gelijkgesteld met een vergunning als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=6&z=2022-07-16&g=2022-07-16).
+1. Een vergunning voor het werkzaam zijn als trustkantoor, verleend op grond van [artikel 4 van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=4), wordt na de inwerkingtreding van deze wet gelijkgesteld met een vergunning als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=6&z=2023-07-01&g=2023-07-01).
 
-2. Op aanvragen om een vergunning op grond van [artikel 4 van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=4) waarop op het tijdstip van inwerkingtreding van deze wet nog niet is beslist, wordt met toepassing van deze wet beslist. De beslistermijn, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=6&z=2022-07-16&g=2022-07-16), vangt aan op het tijdstip van inwerkingtreding van deze wet.
+2. Op aanvragen om een vergunning op grond van [artikel 4 van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=4) waarop op het tijdstip van inwerkingtreding van deze wet nog niet is beslist, wordt met toepassing van deze wet beslist. De beslistermijn, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=6&z=2023-07-01&g=2023-07-01), vangt aan op het tijdstip van inwerkingtreding van deze wet.
 
 ##### Artikel 71. Ontheffingen
 
-1. Een ontheffing, verleend op grond van [artikel 2a, tweede lid, van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=2a), wordt na de inwerkingtreding van deze wet gelijkgesteld aan een ontheffing als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=5&z=2022-07-16&g=2022-07-16).
+1. Een ontheffing, verleend op grond van [artikel 2a, tweede lid, van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=2a), wordt na de inwerkingtreding van deze wet gelijkgesteld aan een ontheffing als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=2&artikel=5&z=2023-07-01&g=2023-07-01).
 
 2. Op een aanvraag om een ontheffing als bedoeld in [artikel 2a, tweede lid, van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=2a) waarop op het tijdstip van inwerkingtreding van deze wet nog niet is beslist, wordt met toepassing van deze wet beslist.
 
 ##### Artikel 72. Toetsingen
 
-1. Indien de Nederlandsche Bank op grond van [artikel 4, onderdeel a, van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=4) de betrouwbaarheid heeft vastgesteld van een persoon als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2022-07-16&g=2022-07-16), staat de betrouwbaarheid van die persoon voor de toepassing van artikel 10, tweede lid, van deze wet buiten twijfel, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
+1. Indien de Nederlandsche Bank op grond van [artikel 4, onderdeel a, van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=4) de betrouwbaarheid heeft vastgesteld van een persoon als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2023-07-01&g=2023-07-01), staat de betrouwbaarheid van die persoon voor de toepassing van artikel 10, tweede lid, van deze wet buiten twijfel, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
 
-2. Indien een persoon als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2022-07-16&g=2022-07-16), op grond van [artikel 4, onderdeel b, van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=4) geschikt is bevonden, wordt hij voor de toepassing van artikel 10, eerste lid, van deze wet eveneens geschikt geacht, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
+2. Indien een persoon als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=10&z=2023-07-01&g=2023-07-01), op grond van [artikel 4, onderdeel b, van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&artikel=4) geschikt is bevonden, wordt hij voor de toepassing van artikel 10, eerste lid, van deze wet eveneens geschikt geacht, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
 
 ##### Artikel 73. Omzetting rechtsvorm
 
-Trustkantoren met zetel in Nederland, die over een vergunning als bedoeld in [artikel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=9&paragraaf=9.1&artikel=70&z=2022-07-16&g=2022-07-16), beschikken, voldoen binnen zes maanden na het tijdstip van inwerkingtreding van deze wet aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=13&z=2022-07-16&g=2022-07-16).
+Trustkantoren met zetel in Nederland, die over een vergunning als bedoeld in [artikel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=9&paragraaf=9.1&artikel=70&z=2023-07-01&g=2023-07-01), beschikken, voldoen binnen zes maanden na het tijdstip van inwerkingtreding van deze wet aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=3&artikel=13&z=2023-07-01&g=2023-07-01).
 
 ##### Artikel 74. Cliëntenonderzoek
 
-Ten aanzien van cliënten waarnaar reeds cliëntenonderzoek is verricht op grond van de [Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189), verricht een trustkantoor het cliëntenonderzoek, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&z=2022-07-16&g=2022-07-16), op het eerste moment dat door de cliënt contact wordt opgenomen met het trustkantoor of zoveel eerder als het trustkantoor, met inachtneming van de aan het type cliënt, doelvennootschap, zakelijke relatie, of trustdienst verbonden integriteitrisico, aanleiding vindt om het cliëntenonderzoek te doen plaatsvinden.
+Ten aanzien van cliënten waarnaar reeds cliëntenonderzoek is verricht op grond van de [Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189), verricht een trustkantoor het cliëntenonderzoek, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=4&z=2023-07-01&g=2023-07-01), op het eerste moment dat door de cliënt contact wordt opgenomen met het trustkantoor of zoveel eerder als het trustkantoor, met inachtneming van de aan het type cliënt, doelvennootschap, zakelijke relatie, of trustdienst verbonden integriteitrisico, aanleiding vindt om het cliëntenonderzoek te doen plaatsvinden.
 
 ##### Artikel 75. Overtredingen
 
-Op overtredingen die hebben plaatsgevonden en zijn beëindigd voor het tijdstip van inwerkingtreding van deze wet, blijven de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&hoofdstuk=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&hoofdstuk=7a) en [8 van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&hoofdstuk=8) van toepassing zoals die luidden onmiddellijk voor het in werking treden van deze wet. [Paragraaf 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&z=2022-07-16&g=2022-07-16) van deze wet is niet van toepassing op die overtredingen.
+Op overtredingen die hebben plaatsgevonden en zijn beëindigd voor het tijdstip van inwerkingtreding van deze wet, blijven de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&hoofdstuk=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&hoofdstuk=7a) en [8 van de Wet toezicht trustkantoren](https://wetten.overheid.nl/jci1.3:c:BWBR0016189&hoofdstuk=8) van toepassing zoals die luidden onmiddellijk voor het in werking treden van deze wet. [Paragraaf 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.2&z=2023-07-01&g=2023-07-01) van deze wet is niet van toepassing op die overtredingen.
 
 ##### Artikel 76. Wijziging van de vierde anti-witwasrichtlijn
 
@@ -1179,7 +1137,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - d. de Algemene Rekenkamer, voor zover de gegevens of inlichtingen naar het oordeel van de Algemene Rekenkamer noodzakelijk zijn voor de uitoefening van haar wettelijke taak op grond van [artikel 7.24 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=7.24).
 
-2. [Artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2022-07-16&g=2022-07-16), is van overeenkomstige toepassing.
+2. [Artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2023-07-01&g=2023-07-01), is van overeenkomstige toepassing.
 
 3. De partijen bedoeld in het eerste lid, onderdeel b tot en met d, zijn verplicht tot geheimhouding van de op grond van het eerste lid ontvangen vertrouwelijke gegevens of inlichtingen en maken die slechts openbaar indien deze niet herleid kunnen worden tot afzonderlijke personen.
 
@@ -1201,13 +1159,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Het is een trustkantoor verboden een trustdienst te verlenen indien cliënten, doelvennootschappen, uiteindelijk belanghebbenden van cliënten en uiteindelijk belanghebbenden van doelvennootschappen woonachtig of gevestigd zijn of hun zetel hebben in:
 
-- a. de Russische Federatie; of
+- a. de Russische Federatie;
 
-- b. de Republiek Belarus.
+- b. de Republiek Belarus;
+
+- c. staten die op grond van artikel 9 van de vierde anti-witwasrichtlijn, in gedelegeerde handelingen van de Europese Commissie, zijn aangewezen als staten met een hoger risico op witwassen of financieren van terrorisme; of
+
+- d. staten die door de Raad van de Europese Unie, op grond van de Conclusies van de Raad over de criteria en het proces voor de opstelling van de EU-lijst van niet-coöperatieve rechtsgebieden voor belastingdoeleinden (PbEU 2016, C 461), zijn aangewezen als jurisdicties die niet-coöperatief zijn op belastinggebied.
 
 2. Het eerste lid is niet van toepassing voor zover de identiteit van een cliënt, doelvennootschap, uiteindelijk belanghebbende van de cliënt of uiteindelijk belanghebbende van doelvennootschap overeenkomt met een rechtspersoon of natuurlijk persoon als bedoeld in de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) en de op grond van de Sanctiewet 1977 vastgestelde regelingen en besluiten met betrekking tot het financieel verkeer. Na beëindiging van de omstandigheid, bedoeld in de eerste volzin, voldoet een trustkantoor binnen drie maanden aan het eerste lid, gerekend vanaf de datum dat de omstandigheid is beëindigd.
 
 3. Het eerste lid is niet van toepassing indien de cliënt of uiteindelijk belanghebbende, bedoeld in het eerste lid, een natuurlijk persoon is die de nationaliteit bezit van een lidstaat van de Europese Unie, van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of van Zwitserland, of die in het bezit is van een verblijfsvergunning voor een van deze staten.
+
+4. Een trustkantoor voldoet binnen drie maanden aan het eerste lid, gerekend vanaf het moment waarop een land is toegevoegd aan een lijst als bedoeld in het eerste lid, onderdeel c of d.
 
 #### § 4.2. Cliëntenonderzoek per trustdienst
 
@@ -1240,3 +1204,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 #### § 9.3. Slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 3a. Verbod optreden als doorstroomvennootschap
+
+1. Het is eenieder met zetel in Nederland verboden om beroeps- of bedrijfsmatig gebruik te maken van doorstroomvennootschappen ten behoeve van een cliënt.
+
+2. Onder doorstroomvennootschap wordt verstaan een rechtspersoon of vennootschap die tot dezelfde groep behoort als degene die gebruik maakt van deze rechtspersoon of vennootschap ten behoeve van een cliënt.
+
+### Hoofdstuk 3. Integere en beheerste bedrijfsvoering
+
+### Hoofdstuk 4. Cliëntenonderzoek
+
+#### § 4.1. Algemene bepalingen cliëntenonderzoek
+
+#### § 4.2. Cliëntenonderzoek per trustdienst
