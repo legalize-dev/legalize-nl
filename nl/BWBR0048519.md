@@ -244,7 +244,3 @@ Voor deelname aan deze regeling gelden voor advocaten de volgende cumulatieve vo
 ### II. Deelname criteria mediators
 
 Voor deelname aan deze regeling gelden voor mediators de volgende cumulatieve voorwaarden:
-
-### III. Deelnamecriteria mediators
-
-Voor deelname aan deze regeling gelden voor mediators de volgende cumulatieve voorwaarden:
