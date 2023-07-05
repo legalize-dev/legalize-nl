@@ -4,7 +4,7 @@ identifier: "BWBR0036382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-05"
-last_updated: "2015-03-06"
+last_updated: "2023-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036382"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **ambtenaar:** de ambtenaar van politie, bedoeld in [artikel 2, onderdeel a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2).
 
-- b. **uniform:** het samenstel van de door de korpschef op grond van [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036382&artikel=3&z=2015-03-06&g=2015-03-06), vastgestelde lijst met kledingstukken en de in de bijlage genoemde uitmonstering;
+- b. **uniform:** het samenstel van de door de korpschef op grond van [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036382&artikel=3&z=2023-07-05&g=2023-07-05), vastgestelde lijst met kledingstukken en de in de bijlage genoemde uitmonstering;
 
 ##### Artikel 2
 
@@ -87,9 +87,21 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 ### Het Politiebrevet
 
+### Het Politiebrevet
+
 ### Het politie-logo en het politie-beeldmerk
 
 ### De onderscheidingstekens
+
+Het vangsnoer (voor de heren) en het armsnoer (voor de dames), zoals afgebeeld in hoofdstuk 7 van het handboek politielogo en huisstijl, wordt op aanwijzing van de korpschef op het colbert gedragen aan de linker schouder, c.q. de linker arm bij officiële of feestelijke gelegenheden.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Bij het dragen van het uniform onthoudt de ambtenaar, in contact met het publiek, zich van zichtbare uitingen van overtuiging en religie of een andere vorm van lifestyle, die afbreuk doet aan de gezagsuitstraling, neutraliteit en veiligheid van de politiefunctie.
+
+## Bijlage
 
 ### Het vangsnoer
 
