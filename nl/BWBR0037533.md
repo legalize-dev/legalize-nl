@@ -4,7 +4,7 @@ identifier: "BWBR0037533"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037533"
 soort: "ministeriele-regeling"
@@ -84,11 +84,11 @@ Besluit:
 
 ##### Artikel 5.1. Inwerkingtreding
 
-1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2023-07-06&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2023-07-06&g=2023-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2023-07-06&g=2023-01-01) treden in werking met ingang van 8 februari 2016.
+1. De [hoofdstukken 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=1&z=2023-07-06&g=2023-07-06), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&z=2023-07-06&g=2023-07-06) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=5&z=2023-07-06&g=2023-07-06) treden in werking met ingang van 8 februari 2016.
 
-2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2023-07-06&g=2023-01-01) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2023-07-06&g=2023-01-01) treden in werking op 1 juli 2016.
+2. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&z=2023-07-06&g=2023-07-06) en de [artikelen 4.1 tot en met 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.1&z=2023-07-06&g=2023-07-06) treden in werking op 1 juli 2016.
 
-3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2023-07-06&g=2023-01-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2023-07-06&g=2023-01-01) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
+3. De [artikelen 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.6&z=2023-07-06&g=2023-07-06) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=4&artikel=4.7&z=2023-07-06&g=2023-07-06) treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werken terug tot en met 4 november 2015.
 
 ##### Artikel 5.2. Citeertitel
 
@@ -116,9 +116,10 @@ De minister verleent jaarlijks voor 1 oktober ambtshalve de volgende subsidiebed
 
 | Instelling | Bedrag |
 | --- | --- |
+| Stichting Erfgoedpark Batavialand | € 498.5931 |
 | Stichting Eye Filmmuseum | € 4.733.110 |
 | Stichting Haags Historisch Museum | € 253.294 |
-| Stichting het Nederlands Openluchtmuseum, Nationaal Museum voor Nederlandse Volkskunde | € 6.865.928 |
+| Stichting het Nederlands Openluchtmuseum, Nationaal Museum voor Nederlandse Volkskunde | € 8.218.8551 |
 | Stichting Nederlands Instituut voor Beeld en Geluid | € 106.080 |
 | Stichting Het Nieuwe Instituut | € 3.133.244 |
 | Stichting Het Rijksmuseum | € 28.512.649 |
@@ -130,11 +131,11 @@ De minister verleent jaarlijks voor 1 oktober ambtshalve de volgende subsidiebed
 | Stichting Museum Slot Loevestein | € 736.162 |
 | Stichting Nationaal Glasmuseum Leerdam | € 160.461 |
 | Stichting Nationaal Museum van Wereldculturen | € 6.649.611 |
-| Stichting Naturalis Biodiversity Center | € 12.599.1971 |
+| Stichting Naturalis Biodiversity Center | € 12.599.1972 |
 | Stichting Nederlands Fotomuseum | € 1.924.317 |
-| Stichting Nederlands Literatuurmuseum en Literatuurarchief | € 1.450.361 |
+| Stichting Nederlands Literatuurmuseum en Literatuurarchief | € 1.819.2461 |
 | Stichting Nederlands Scheepvaartmuseum Amsterdam | € 5.922.607 |
-| Stichting Paleis Het Loo, Nationaal Museum | € 14.325.9372 |
+| Stichting Paleis Het Loo, Nationaal Museum | € 13.962.6391, 3 |
 | Stichting Rijksmuseum Muiderslot | € 451.114 |
 | Stichting Rijksmuseum Twenthe | € 1.977.047 |
 | Stichting Rijksmuseum van Oudheden | € 3.164.946 |
@@ -142,15 +143,15 @@ De minister verleent jaarlijks voor 1 oktober ambtshalve de volgende subsidiebed
 | Stichting tot beheer van het Museum Boerhaave, Rijksmuseum voor de geschiedenis van de natuurwetenschappen en van de geneeskunde | € 2.503.164 |
 | Stichting tot Beheer van het Museum van het Boek / Museum Meermanno-Westreenianum | € 432.489 |
 | Stichting tot Beheer van Huis Doorn | € 695.042 |
-| Stichting tot Exploitatie van het Rijksbureau voor Kunsthistorische Documentatie | € 3.683.0833 |
+| Stichting tot Exploitatie van het Rijksbureau voor Kunsthistorische Documentatie | € 4.547.1881 |
 | Stichting Van Gogh Museum voorheen Rijksmuseum Vincent van Gogh / Rijksmuseum H.W. Mesdag | € 7.172.031 |
 | Stichting Zuiderzeemuseum | € 4.671.108 |
 
-1 Voor de jaren 2022, 2023 en 2024 incidenteel verminderd met € 4.000.000, € 4.000.000 onderscheidenlijk € 1.000.000 (loon- en prijspeil 2018).
+1 Inclusief loon- en prijsbijstelling 2022.
 
-2 Voor het jaar 2021 incidenteel vermeerderd met € 12.000.000 en voor elk van de jaren 2022 tot en met 2026 incidenteel verminderd met € 2.400.000 (loon- en prijspeil 2020).
+2 Voor de jaren 2022, 2023 en 2024 incidenteel verminderd met € 4.000.000, € 4.000.000 onderscheidenlijk € 1.000.000 (loon- en prijspeil 2018).
 
-3 Voor elk van de jaren 2020 tot en met 2024 incidenteel vermeerderd met € 400.000 (loon- en prijspeil 2020).
+3 Dit bedrag is inclusief de incidentele aanpassing van het bedrag in verband met een herverdeling van € 12.000.000 in 2021. Dit bedrag is toegevoegd aan de bekostiging van het jaar 2021, en houdt in dat € 2.400.000 in mindering wordt gebracht per jaar in de jaren 2022 tot en met 2026. Vanaf 2027 wordt deze incidentele vermindering niet meer toegepast.
 
 ##### Artikel 3.3. Wijziging subsidiebedrag
 
@@ -166,7 +167,7 @@ De minister verleent jaarlijks voor 1 oktober ambtshalve de volgende subsidiebed
 
 1. [Artikel 2.11, eerste tot en met vierde lid, van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.11) is van overeenkomstige toepassing.
 
-2. Indien de subsidie op grond van [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2023-07-06&g=2023-01-01), wordt gewijzigd, wordt de bevoorschotting overeenkomstig aangepast.
+2. Indien de subsidie op grond van [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.3&z=2023-07-06&g=2023-07-06), wordt gewijzigd, wordt de bevoorschotting overeenkomstig aangepast.
 
 ##### Artikel 3.5. Subsidieverplichting: in te dienen documenten
 
@@ -174,7 +175,7 @@ De minister verleent jaarlijks voor 1 oktober ambtshalve de volgende subsidiebed
 
 - a. een begroting; en
 
-- b. voor zover van toepassing, een onderhouds- en investeringsplan als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-07-06&g=2023-01-01).
+- b. voor zover van toepassing, een onderhouds- en investeringsplan als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-07-06&g=2023-07-06).
 
 2. De begroting behelst een overzicht van de voor het kalenderjaar geraamde baten en lasten van de aanvrager, voor zover deze betrekking hebben op de wettelijke taak waarmee de instelling is belast, en sluit aan op het door de minister verleende subsidiebedrag.
 
@@ -182,13 +183,13 @@ De minister verleent jaarlijks voor 1 oktober ambtshalve de volgende subsidiebed
 
 4. De [artikelen 2.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.5), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.6) en [2.7 van de Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597&artikel=2.7) zijn van overeenkomstige toepassing.
 
-5. Indiening van een onderhouds- en investeringsplan als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-07-06&g=2023-01-01) kan achterwege blijven, indien de instelling met een wettelijke taak er redelijkerwijs van uit kan gaan dat de minister al over de meest recente versie van het plan beschikt.
+5. Indiening van een onderhouds- en investeringsplan als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.7&z=2023-07-06&g=2023-07-06) kan achterwege blijven, indien de instelling met een wettelijke taak er redelijkerwijs van uit kan gaan dat de minister al over de meest recente versie van het plan beschikt.
 
 6. Indien uitvoering van wettelijke taak aan de hand van de ingediende documenten, bedoeld in het eerste lid, naar het oordeel van de minister bezwaarlijk is, kan hij de subsidieontvanger aanwijzingen geven tot wijziging van die documenten.
 
 ##### Artikel 3.6. Wijze van indiening
 
-De indiening van de documenten, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.5&z=2023-07-06&g=2023-01-01), geschiedt op een door de minister te bepalen elektronische wijze.
+De indiening van de documenten, bedoeld in [artikel 3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=1&artikel=3.5&z=2023-07-06&g=2023-07-06), geschiedt op een door de minister te bepalen elektronische wijze.
 
 ##### Artikel 3.7. Subsidieverplichting: gebouwen
 
@@ -242,9 +243,17 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De minister verleent voor 1 oktober tevens ambtshalve:
 
-- a. subsidie aan ten hoogste één instelling met een wettelijke taak, die als kernactiviteit heeft het beheren van een collectie van cultureel erfgoed op het gebied van kunsthistorische documentatie, voor het uitvoeren van een activiteitenprogramma als ondersteunende instelling; en
+- a. subsidie aan ten hoogste één instelling met een wettelijke taak, die als kernactiviteit heeft het beheren van een collectie van cultureel erfgoed op het gebied van kunsthistorische documentatie, voor het uitvoeren van een activiteitenprogramma als ondersteunende instelling;
 
-- b. een aanvullend bedrag aan ten hoogste één instelling met een wettelijke taak, voor het bevorderen van de bescherming en kennis van immaterieel erfgoed.
+- b. een aanvullend bedrag aan ten hoogste één instelling met een wettelijke taak, voor:
+
+- 1°. het bevorderen van de bescherming en kennis van immaterieel erfgoed; en
+
+- 2°. het onderhouden van de Canon van Nederland;
+
+- c. een aanvullend bedrag aan ten hoogste één instelling met een wettelijke taak, voor publieksactiviteiten in relatie tot de Leidse Siebold-collectie; en
+
+- d. een aanvullend bedrag aan ten hoogste één instelling met een wettelijke taak, voor activiteiten ter bevordering van een netwerk van museumconservatoren van Nederlandse en Vlaamse kunst.
 
 ### Hoofdstuk 4. Wijziging andere regelingen
 
@@ -298,7 +307,7 @@ Een beheerder zorgt dat museale cultuurgoederen van de Staat zich bevinden in vo
 
 ##### Artikel 2.6. Verzekering
 
-1. De minister wie het aangaat of een college van staat verzekert de risico’s van schade voor of aansprakelijkheid van de Staat, bedoeld in [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2023-07-06&g=2023-01-01), om redenen van doelmatigheid in het algemeen niet.
+1. De minister wie het aangaat of een college van staat verzekert de risico’s van schade voor of aansprakelijkheid van de Staat, bedoeld in [artikel 2.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=2&paragraaf=1&artikel=2.5&z=2023-07-06&g=2023-07-06), om redenen van doelmatigheid in het algemeen niet.
 
 2. Een besluit tot verzekeren van risico als bedoeld in het eerste lid, wordt genomen in overeenstemming met de Minister van Financiën.
 
@@ -402,11 +411,11 @@ Een instelling met een wettelijke taak baseert het planmatig beleid voor het beh
 
 ##### Artikel 3.16. Wijze van indiening
 
-De indiening van de documenten, bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.15&z=2023-07-06&g=2023-01-01), geschiedt op een door de minister te bepalen elektronische wijze.
+De indiening van de documenten, bedoeld in [artikel 3.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.15&z=2023-07-06&g=2023-07-06), geschiedt op een door de minister te bepalen elektronische wijze.
 
 ##### Artikel 3.17. Hoogte subsidiebedragen
 
-1. De subsidie, bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2023-07-06&g=2023-01-01), bedraagt voor de volgende instellingen met een wettelijke taak jaarlijks:
+1. De subsidie, bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2023-07-06&g=2023-07-06), bedraagt voor de volgende instellingen met een wettelijke taak jaarlijks:
 
 | Instelling | Bedrag |
 | --- | --- |
@@ -439,17 +448,41 @@ De indiening van de documenten, bedoeld in [artikel 3.15, eerste lid](https://we
 | Stichting Van Gogh Museum voorheen Rijksmuseum Vincent van Gogh / Rijksmuseum H.W. Mesdag | € 1.457.866 |
 | Stichting Zuiderzeemuseum | € 3.640.163 |
 
-2. De subsidie, bedoeld in [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2023-07-06&g=2023-01-01), bedraagt voor de volgende instelling met een wettelijke taak jaarlijks:
+2. De subsidie, bedoeld in [artikel 3.14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2023-07-06&g=2023-07-06), bedraagt voor de volgende instelling met een wettelijke taak jaarlijks:
 
 | Instelling | Bedrag |
 | --- | --- |
-| Stichting tot Exploitatie van het Rijksbureau voor Kunsthistorische Documentatie | € 1.580.584 |
+| Stichting tot Exploitatie van het Rijksbureau voor Kunsthistorische Documentatie | € 1.560.5481 |
 
-3. De subsidie, bedoeld in [artikel 3.14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2023-07-06&g=2023-01-01), bedraagt voor de volgende instelling met een wettelijke taak jaarlijks:
+3. De subsidie, bedoeld in [artikel 3.14, tweede lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2023-07-06&g=2023-07-06), bedraagt voor de volgende instelling met een wettelijke taak jaarlijks:
 
 | Instelling | Bedrag |
 | --- | --- |
 | Stichting het Nederlands Openluchtmuseum, Nationaal Museum voor Nederlandse Volkskunde | € 838.028 |
+
+4. De subsidie, bedoeld in [artikel 3.14, tweede lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2023-07-06&g=2023-07-06), bedraagt voor de volgende instelling met een wettelijke taak jaarlijks:
+
+| Instelling | Bedrag |
+| --- | --- |
+| Stichting het Nederlands Openluchtmuseum, Nationaal Museum voor Nederlandse Volkskunde | € 6.500.5211 |
+
+1 Loon- en prijspeil 1 januari 2021.
+
+5. De subsidie, bedoeld in [artikel 3.14, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2023-07-06&g=2023-07-06), bedraagt voor de volgende instelling met een wettelijke taak jaarlijks:
+
+| Instelling | Bedrag |
+| --- | --- |
+| Stichting Naturalis Biodiversity Center | € 9.411.1751 |
+
+1 Loon- en prijspeil 1 januari 2021.
+
+6. De subsidie, bedoeld in [artikel 3.14, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037533&hoofdstuk=3&paragraaf=2&artikel=3.14&z=2023-07-06&g=2023-07-06), bedraagt voor de volgende instelling met een wettelijke taak jaarlijks:
+
+| Instelling | Bedrag |
+| --- | --- |
+| Stichting Het Rijksmuseum | € 7.787.1731 |
+
+1 Loon- en prijspeil 1 januari 2021.
 
 ##### Artikel 3.18. Besteding resterende middelen
 
