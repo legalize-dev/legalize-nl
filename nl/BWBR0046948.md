@@ -4,7 +4,7 @@ identifier: "BWBR0046948"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-06"
-last_updated: "2022-07-21"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046948"
 soort: "ministeriele-regeling"
@@ -72,11 +72,13 @@ De minister verstrekt op aanvraag van gedeputeerde staten een specifieke uitkeri
 
 ##### Artikel 3. Uitkeringsplafond
 
-1. Het uitkeringsplafond voor aanvragen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=2&z=2022-07-21&g=2022-07-21) bedraagt in het kalenderjaar 2022 € 40.000.000.
+1. Het uitkeringsplafond voor aanvragen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=2&z=2023-07-06&g=2023-07-06) bedraagt in het kalenderjaar 2022 € 40.000.000.
 
-2. Specifieke uitkeringen worden per aanvraagtijdvak toegekend op basis van de evenredige verdeling naar de bruto nieuwbouw woningbouwopgave per provincie op basis van de woningbouwcijfers uit 2022 van ABF.
+2. Het uitkeringsplafond voor aanvragen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=2&z=2023-07-06&g=2023-07-06) bedraagt in het kalenderjaar 2023 € 8.800.000 inclusief BTW.
 
-3. De specifieke uitkering op basis van cijfers ABF cijfers juni 2022 bedraagt per provincie ex BTW:
+3. Specifieke uitkeringen worden per aanvraagtijdvak toegekend op basis van de evenredige verdeling naar de bruto nieuwbouw woningbouwopgave per provincie op basis van de woningbouwcijfers uit 2022 van ABF.
+
+4. De specifieke uitkering voor het kalenderjaar 2022 op basis van ABF cijfers juni 2022 bedraagt per provincie ex BTW:
 
 - a. Drenthe: € 455.216;
 
@@ -102,19 +104,47 @@ De minister verstrekt op aanvraag van gedeputeerde staten een specifieke uitkeri
 
 - l. Zuid-Holland: € 8.553.056.
 
-4. De specifieke uitkering wordt niet verstrekt voor BTW die is verschuldigd over kosten voor de activiteiten in het eerste lid voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
+5. De specifieke uitkering voor het kalenderjaar 2023 op basis van ABF cijfers juni 2022 bedraagt per provincie exclusief BTW:
+
+- a. Drenthe: € 100.293;
+
+- b. Flevoland: € 294.439;
+
+- c. Friesland: € 154.580;
+
+- d. Gelderland: € 875.956;
+
+- e. Groningen: € 162.862;
+
+- f. Limburg: € 200.587;
+
+- g. Noord-Brabant: € 1.133.590;
+
+- h. Noord-Holland: € 1.463.913;
+
+- i. Overijssel: € 406.694;
+
+- j. Utrecht: € 806.947;
+
+- k. Zeeland: € 83.731; en
+
+- l. Zuid-Holland: € 1.884.409.
+
+6. De specifieke uitkering wordt niet verstrekt voor BTW die is verschuldigd over kosten voor de activiteiten in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=2&z=2023-07-06&g=2023-07-06) voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
 ##### Artikel 4. De aanvraag
 
-1. De aanvraag wordt schriftelijk ingediend vanaf 1 augustus 2022 tot en met 1 december 2022 door gedeputeerde staten bij de minister.
+1. De aanvraag voor de uitkering van 2022 wordt schriftelijk ingediend vanaf 1 augustus 2022 tot en met 1 december 2022 door gedeputeerde staten bij de minister.
 
-2. Een aanvraag bevat minimaal het volgende:
+2. De aanvraag voor de uitkering van 2023 wordt schriftelijk ingediend vanaf 10 juli 2023 tot en met 30 september 2023 door gedeputeerde staten bij de Minister.
+
+3. Een aanvraag bevat minimaal het volgende:
 
 - a. een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd, waarbij wordt aangegeven wat de ingeschatte verhouding van de inzet van de middelen is tussen de woningbouwprojecten, herstructureringsprojecten en woonzorgvisies; en
 
-- b. de verwachte begin- en einddatum van de activiteiten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=2&z=2022-07-21&g=2022-07-21) en [4, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=4&z=2022-07-21&g=2022-07-21).
+- b. de verwachte begin- en einddatum van de activiteiten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=2&z=2023-07-06&g=2023-07-06) en [4, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=4&z=2023-07-06&g=2023-07-06).
 
-3. De minister kan, in aanvulling op het gestelde in het tweede lid, aanvullende bescheiden vragen voor het indienen van een aanvraag die hij nodig acht voor het beoordelen van de aanvraag of het monitoren van de effecten van deze regeling.
+4. De minister kan, in aanvulling op het gestelde in het derde lid, aanvullende bescheiden vragen voor het indienen van een aanvraag die hij nodig acht voor het beoordelen van de aanvraag of het monitoren van de effecten van deze regeling.
 
 ##### Artikel 5. Verplichtingen
 
@@ -141,6 +171,8 @@ De minister verstrekt op aanvraag van gedeputeerde staten een specifieke uitkeri
 1. Gedeputeerde staten leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan gedeputeerde staten.
+
+3. Voor zover het de verantwoording, bedoeld in het eerste lid, betreft, worden de uitkeringsbeschikkingen voor 2022 en voor 2023 als één beschikking beschouwd.
 
 ##### Artikel 8. Inwerkingtreding
 
