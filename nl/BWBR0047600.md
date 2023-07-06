@@ -4,7 +4,7 @@ identifier: "BWBR0047600"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-06"
-last_updated: "2023-02-01"
+last_updated: "2023-07-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047600"
 soort: "ministeriele-regeling"
@@ -42,6 +42,6 @@ Besluit:
 
 ##### artikel Enig
 
-De aanvraagperiode voor 2023 wordt vastgesteld voor de periode van 16 januari 2023 tot en met 29 december 2023.
+De aanvraagperiode voor 2023 wordt vastgesteld voor de periode van 16 januari 2023 tot en met 31 oktober 2023.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
