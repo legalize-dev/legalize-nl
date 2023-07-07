@@ -4,7 +4,7 @@ identifier: "BWBR0046157"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-07"
-last_updated: "2022-01-01"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046157"
 soort: "ministeriele-regeling"
@@ -160,13 +160,15 @@ De plaatsvervangend secretaris-generaal is:
 
 - b. ziet toe op het naleven van het gestelde in deze regeling binnen het eigen verzorgingsgebied;
 
-- c. is verantwoordelijk voor de verankering van archiveringsprincipes in de architectuur- en ontwerpfunctie (archivering bij ontwerp).
+- c. is verantwoordelijk voor de verankering van archiveringsprincipes in de architectuur- en ontwerpfunctie (archivering bij ontwerp);
+
+- d. is verantwoordelijk voor het beschikbaar zijn van een toepasbare vastgestelde selectielijst.
 
 ##### Artikel 6. Archiefbeheerders
 
 1. De archiefbeheerders van het Ministerie van Financiën zijn:
 
-- a. de directeur Bedrijfsvoering van het cluster secretaris-generaal voor het kernministerie en de inspectie belastingen, toeslagen en douane;
+- a. de directeur Digitalisering en Informatisering van het cluster secretaris-generaal voor het kernministerie en de inspectie belastingen, toeslagen en douane;
 
 - b. de directeur-generaal Belastingdienst voor de hiërarchisch onder hem vallende archiefvormende onderdelen;
 
@@ -182,7 +184,7 @@ De plaatsvervangend secretaris-generaal is:
 
 - c. bekendmaking van deze regeling binnen hun verzorgingsgebied en het vastleggen van de afspraken hierover met de archiefbeherende onderdelen;
 
-- d. een toepasbare vastgestelde selectielijst;
+- d. de toepassing van een vastgestelde selectielijst;
 
 - e. het laten uitvoeren van het beheer van de overheidsinformatie voor de onder hen vallende archiefvormende onderdelen in overeenstemming met het bepaalde in deze regeling en andere van toepassing zijnde regelgeving.
 
