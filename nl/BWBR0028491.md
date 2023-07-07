@@ -4,7 +4,7 @@ identifier: "BWBR0028491"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-04-10"
-last_updated: "2022-01-01"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028491"
 soort: "AMvB-BES"
@@ -63,7 +63,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Van het bepaalde in het eerste en tweede lid kan worden afgeweken, ingeval daartoe naar het oordeel van het bevoegde gezag op grond van bijzondere omstandigheden aanleiding bestaat.
 
-4. De bezoldiging per uur bedraagt 1/170 deel van de bezoldiging per maand bij een volledige werktijd.
+4. De bezoldiging per uur bedraagt 1/150 deel van de bezoldiging per maand bij een volledige betrekking.
 
 ##### Artikel 2a
 
@@ -91,17 +91,17 @@ Indien de ambtenaar anders dan bij wijze van disciplinaire straf als bedoeld in 
 
 ##### Artikel 6
 
-1. De bezoldiging van de ambtenaar wordt verhoogd tot het bedrag dat behoort bij de naast-hogere bezoldigingstrede in de schaal, indien hij naar het oordeel van het bevoegde gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie naar behoren vervult. Deze beoordeling vindt voor iedere ambtenaar ten laatste één jaar na zijn indiensttreding of overgang naar een andere functie en vervolgens ten minste aan het einde van elk jaar plaats.
+1. De bezoldiging van de ambtenaar wordt jaarlijks verhoogd tot het in de schaal naast-hogere bedrag, indien hij zijn functie naar het oordeel van zijn leidinggevende naar behoren vervult.
 
 2. De bezoldiging van de ambtenaar kan worden verhoogd tot het bedrag dat behoort bij de eerste bezoldigingstrede volgend op de naast-hogere bezoldigingstrede in de schaal, indien hij naar het oordeel van het bevoegde gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie zeer goed of uitstekend verricht.
 
-3. Vervult de ambtenaar zijn functie naar het oordeel van het bevoegde gezag niet naar behoren, dan blijft verhoging van de bezoldiging achterwege.
+3. Vervult de ambtenaar zijn functie naar het oordeel van het bevoegd gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), niet naar behoren, dan blijft verhoging van de bezoldiging achterwege.
 
-4. De in het eerste en het tweede lid bedoelde verhogingen van de bezoldiging worden met ingang van 1 januari van een jaar toegekend, zolang de ambtenaar de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal nog niet heeft bereikt, doch voor de eerste maal niet eerder dan nadat sinds zijn aanstelling als ambtenaar ten minste zes maanden zijn verstreken.
+4. De in het eerste en tweede lid bedoelde verhogingen van de bezoldiging worden toegekend zolang de ambtenaar de maximum bezoldiging van de voor hem geldende bezoldigingsschaal nog niet heeft bereikt, voor de eerste maal met ingang van de eerste dag van de maand, waarin sinds zijn aanstelling of sinds zijn overgang naar een functie waaraan een hogere bezoldiging is verbonden een jaar is verstreken, en geschiedt nadien telkens na één jaar.
 
 ##### Artikel 7
 
-De bezoldiging van de ambtenaar met een onvolledige werktijd wordt vastgesteld op een evenredig deel van de bezoldiging bij een volledige werktijd. De bezoldiging van de ambtenaar met een werktijd van meer dan 39,5 uur per week wordt vastgesteld op de bezoldiging bij een volledige werktijd, vermenigvuldigd met een breuk, waarvan de noemer 39,5 is en de teller het aantal uren werktijd van die ambtenaar per week.
+De bezoldiging van de ambtenaar met een deelbetrekking wordt vastgesteld op een evenredig deel van de bezoldiging bij een volledige betrekking.
 
 ##### Artikel 8
 
@@ -179,17 +179,17 @@ Vervallen
 
 ##### Artikel 16. uitzicht – periodieke verhoging
 
-1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=II&artikel=6&z=2021-03-30&g=2022-01-01), verhoogd tot het bedrag dat behoort bij de eerste garantietrede die behoort bij de schaal, indien hij naar het oordeel van het bevoegd gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie naar behoren vervult.
+1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=II&artikel=6&z=2023-07-07&g=2023-07-07), verhoogd tot het bedrag dat behoort bij de eerste garantietrede die behoort bij de schaal, indien hij naar het oordeel van het bevoegd gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie naar behoren vervult.
 
-2. Indien de ambtenaar wordt bezoldigd op een garantietrede binnen de voor hem geldende bezoldigingschaal, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=II&artikel=6&z=2021-03-30&g=2022-01-01), verhoogd tot het bedrag dat behoort bij de naast-hogere garantietrede die behoort bij de schaal, indien hij naar het oordeel van het bevoegd gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie naar behoren vervult.
+2. Indien de ambtenaar wordt bezoldigd op een garantietrede binnen de voor hem geldende bezoldigingschaal, wordt zijn bezoldiging met overeenkomstige toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=II&artikel=6&z=2023-07-07&g=2023-07-07), verhoogd tot het bedrag dat behoort bij de naast-hogere garantietrede die behoort bij de schaal, indien hij naar het oordeel van het bevoegd gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie naar behoren vervult.
 
-3. Voor zover de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging bij toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=II&artikel=6&z=2021-03-30&g=2022-01-01), verhoogd tot een bedrag dat behoort tot de eerste garantietrede volgend op de naast hogere bezoldigings- of garantietrede die behoort bij de schaal, indien hij naar het oordeel van het bevoegd gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie zeer goed of uitstekend vervult.
+3. Voor zover de ambtenaar die reeds op 30 september 2014 in dienst was de maximum-bezoldiging van de voor hem geldende bezoldigingsschaal heeft bereikt, wordt zijn bezoldiging bij toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=II&artikel=6&z=2023-07-07&g=2023-07-07), verhoogd tot een bedrag dat behoort tot de eerste garantietrede volgend op de naast hogere bezoldigings- of garantietrede die behoort bij de schaal, indien hij naar het oordeel van het bevoegd gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12), zijn functie zeer goed of uitstekend vervult.
 
 4. De in het tweede en derde lid bedoelde verhogingen van de bezoldiging worden met ingang van 1 januari van een jaar toegekend, zolang de ambtenaar de laatste garantietrede die behoort bij de voor hem geldende bezoldigingsschaal nog niet heeft bereikt.
 
 ##### Artikel 17. uitzicht – bevordering
 
-1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 een of twee maal is bevorderd en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=VII&artikel=16&z=2021-03-30&g=2022-01-01) van overeenkomstige toepassing met inachtneming van het tweede en derde lid.
+1. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 een of twee maal is bevorderd en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=VII&artikel=16&z=2023-07-07&g=2023-07-07) van overeenkomstige toepassing met inachtneming van het tweede en derde lid.
 
 2. Na de eerste bevordering sinds 1 juli 2013, niet zijnde een reguliere plaatsing in de vooraf afgesproken formatieve bezoldigingsschaal, kunnen verhogingen van de bezoldiging van de ambtenaar, bedoeld in het eerste lid, worden toegekend tot en met het aantal garantietreden in de bezoldigingsschaal volgens welke hij vóór zijn bevordering werd bezoldigd minus twee.
 
@@ -197,11 +197,11 @@ Vervallen
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de ambtenaar die tussen 1 juli 2013 en 1 oktober 2014 in dienst is getreden, met dien verstande dat voor «1 juli 2013» gelezen wordt: de datum van indiensttreding.
 
-5. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 is geplaatst in de vooraf afgesproken formatieve bezoldigingsschaal, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=VII&artikel=16&z=2021-03-30&g=2022-01-01) van overeenkomstige toepassing.
+5. Indien de ambtenaar die reeds op 30 september 2014 in dienst was na 1 juli 2013 is geplaatst in de vooraf afgesproken formatieve bezoldigingsschaal, en hij de maximum-bezoldiging van de alsdan voor hem geldende bezoldigingsschaal heeft bereikt, is [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=VII&artikel=16&z=2023-07-07&g=2023-07-07) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
-Ingeval de ambtenaar die reeds op 30 september 2014 in dienst was, wordt bevorderd, wordt hem, onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=II&artikel=8&z=2021-03-30&g=2022-01-01), de bezoldigings- of garantietrede in de nieuwe bezoldigingsschaal toegekend, waarvan het bedrag ten minste gelijk is aan de hem laatstelijk toekomende bezoldigings- of garantietrede in de oude schaal.
+Ingeval de ambtenaar die reeds op 30 september 2014 in dienst was, wordt bevorderd, wordt hem, onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&hoofdstuk=II&artikel=8&z=2023-07-07&g=2023-07-07), de bezoldigings- of garantietrede in de nieuwe bezoldigingsschaal toegekend, waarvan het bedrag ten minste gelijk is aan de hem laatstelijk toekomende bezoldigings- of garantietrede in de oude schaal.
 
 ##### Artikel 19
 
@@ -233,9 +233,13 @@ Vervallen
 
 1. De ambtenaar heeft recht op een eindejaarsuitkering ter grootte van 8,33% van zijn bezoldiging inclusief de toelagen, genoemd in [artikel 28, tweede, derde en vierde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=28), met een minimum van USD 1750.
 
-2. De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november en wordt berekend over het hele kalenderjaar.
+2. De eindejaarsuitkering wordt jaarlijks uitbetaald in de maand november over een periode van twaalf maanden, die is aangevangen met de maand januari van het desbetreffende kalenderjaar.
 
-3. In afwijking van het tweede lid, wordt bij ontslag van de ambtenaar de eindejaarsuitkering uitbetaald in de laatste maand van zijn dienstverband.
+3. In afwijking van het tweede lid kan de eindejaarsuitkering op verzoek van de ambtenaar binnen een periode als bedoeld in het tweede lid op twee momenten worden uitbetaald. In dat geval vindt de eerste uitbetaling plaats in de door de ambtenaar verzochte maand, en wel over de maand januari, bedoeld in het tweede lid, en de volgende maanden tot en met de maand van de eerste uitbetaling. De tweede uitbetaling vindt dan plaats in de maand november, en wel over de resterende maanden van het desbetreffende kalenderjaar.
+
+4. In afwijking van het tweede of derde lid, wordt bij ontslag van de ambtenaar de eindejaarsuitkering onderscheidenlijk het resterende deel van de eindejaarsuitkering uitbetaald in de laatste maand van zijn dienstverband.
+
+5. [Artikel 36a, vierde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=36a) is van overeenkomstige toepassing op de eindejaarsuitkering.
 
 ### Hoofdstuk IV. De gratificatie
 
