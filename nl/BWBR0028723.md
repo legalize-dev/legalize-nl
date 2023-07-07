@@ -4,7 +4,7 @@ identifier: "BWBR0028723"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2023-07-07"
-last_updated: "2022-01-01"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028723"
 soort: "AMvB-BES"
@@ -83,7 +83,7 @@ entry_into_force: "2010-10-10"
 
 1. Het dienstrooster moet voldoen aan de volgende voorwaarden:
 
-- a. de arbeidsuren bedragen gemiddeld 39,5 uren per week.
+- a. de arbeidsuren bedragen bij een volledige betrekking gemiddeld 36 uren per week.
 
 - b. per periode van vier weken worden acht roostervrije dagen aangegeven;
 
@@ -103,7 +103,7 @@ Aan de ambtenaar, die niet in wachtdienst werkzaam is, wordt in beginsel op zond
 
 ##### Artikel 5
 
-Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feestdagen een gelijk aantal extra rustdagen toegekend als aan de ambtenaar bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4&z=2012-07-01&g=2022-01-01) rustdagen op feestdagen worden toegekend. Deze dagen worden zoveel mogelijk over dat kalenderjaar verdeeld.
+Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feestdagen een gelijk aantal extra rustdagen toegekend als aan de ambtenaar bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028723&artikel=4&z=2023-07-07&g=2023-07-07) rustdagen op feestdagen worden toegekend. Deze dagen worden zoveel mogelijk over dat kalenderjaar verdeeld.
 
 ## Overwerk
 
