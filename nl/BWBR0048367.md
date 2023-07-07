@@ -4,7 +4,7 @@ identifier: "BWBR0048367"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-07-07"
-last_updated: "2022-01-01"
+last_updated: "2023-07-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048367"
 soort: "AMvB"
@@ -62,11 +62,11 @@ In afwijking van [artikel 37a, tiende lid, van het Rechtspositiebesluit ambtenar
 
 ##### Artikel VII. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel I, onderdelen B en E](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=I&z=2023-07-07&g=2022-01-01), en [artikel IV, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=IV&z=2023-07-07&g=2022-01-01), terug tot en met 1 januari 2022.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel I, onderdelen B en E](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=I&z=2023-07-07&g=2023-07-07), en [artikel IV, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=IV&z=2023-07-07&g=2023-07-07), terug tot en met 1 januari 2022.
 
-2. De [artikelen I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=I&z=2023-07-07&g=2022-01-01), en [IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=IV&z=2023-07-07&g=2022-01-01), werken terug tot en met 1 januari 2020.
+2. De [artikelen I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=I&z=2023-07-07&g=2023-07-07), en [IV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=IV&z=2023-07-07&g=2023-07-07), werken terug tot en met 1 januari 2020.
 
-3. De [artikelen I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=I&z=2023-07-07&g=2022-01-01), en [IV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=IV&z=2023-07-07&g=2022-01-01), werken terug tot en met 1 juni 2021.
+3. De [artikelen I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=I&z=2023-07-07&g=2023-07-07), en [IV, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0048367&artikel=IV&z=2023-07-07&g=2023-07-07), werken terug tot en met 1 juni 2021.
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 17 mei 2023, nr. 2023-0000226228;
 
