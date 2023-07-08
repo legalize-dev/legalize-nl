@@ -4,7 +4,7 @@ identifier: "BWBR0035939"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035939"
 soort: "ministeriele-regeling"
@@ -90,30 +90,35 @@ Met ingang van 1 januari 2023 worden de bedragen, genoemd in [artikel 3.9, tweed
 
 ##### Artikel 7. Normbedragen studiefinanciering
 
-Met ingang van 1 januari 2023 luiden de bedragen, genoemd in de overzichten 1, 2 en 3 van [artikel 3.18 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18), als volgt:
+Met ingang van studiejaar 2023-2024 luiden de bedragen, genoemd in de overzichten 1, 2 en 3 van [artikel 3.18 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18), als volgt:
 
-| **A. Beroepsonderwijs** |   |
+| **A. Beroepsonderwijs** | **A. Beroepsonderwijs** |
 | --- | --- |
 | Normbedrag thuiswonend | € 556,95 |
 | Normbedrag uitwonend | € 786,59 |
-| **B. Hoger onderwijs** |   |
-| Normbedrag | € 957,87 |
+| **B. Hoger onderwijs** | **B. Hoger onderwijs** |
+| Normbedrag thuiswonend | € 793,27 |
+| Normbedrag uitwonend | € 957,87 |
 
-| **A. Beroepsonderwijs** |   |
+| **A. Beroepsonderwijs** | **A. Beroepsonderwijs** |
 | --- | --- |
 | Basisbeurs (exclusief toeslag eenoudergezin) | Basisbeurs (exclusief toeslag eenoudergezin) |
-| • Thuiswonend | € 90,85 |
-| • uitwonend | € 296,51 |
+| thuiswonend | € 90,85 |
+| uitwonend | € 296,51 |
 | Basislening | Basislening |
-| • thuis- en uitwonend | € 197,93 |
-| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage1 | Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage1 |
-| • thuiswonend | € 268,17 |
-| • uitwonend | € 292,15 |
+| thuis- en uitwonend | € 197,93 |
+| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage | Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage |
+| thuiswonend | € 268,17 |
+| uitwonend | € 292,15 |
+|   |   |
 | **B. Hoger onderwijs** | **B. Hoger onderwijs** |
-| • Basislening | € 527,60 |
-| • Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage | € 430,27 |
-
-1 Voor mbo-studenten die lesgeld verschuldigd zijn, wordt de maximale aanvullende beurs/lening ingevolge [artikel 3.2, derde lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.2) vanaf 1 januari 2023 verhoogd met € 103,25 en per 1 augustus 2023 met € 113,08 per maand.
+| Basisbeurs (exclusief toeslag eenoudergezin) | Basisbeurs (exclusief toeslag eenoudergezin) |
+| thuiswonend | € 110,30 |
+| uitwonend | € 274,90 |
+| Basislening | Basislening |
+| thuis- en uitwonend | € 266,97 |
+| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage | Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage |
+| thuis- en uitwonend | € 416,00 |
 
 |   | Hoger onderwijs | Beroepsonderwijs |
 | --- | --- | --- |
