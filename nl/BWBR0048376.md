@@ -4,7 +4,7 @@ identifier: "BWBR0048376"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-08"
-last_updated: "2023-04-24"
+last_updated: "2023-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048376"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een gemeente kan jaarlijks maximaal € 555.000,- van het aan hen toegekende bedrag besteden ten behoeve van de inzet op gezag door de justitiële functies: voor de inzet van de gecertificeerde instellingen, de capaciteit in de zorg- en veiligheidshuizen en de inzet van maximaal 1,5 fte aan jeugdboa’s in de gemeente.
 
-4. Voor de voorbereidingskosten voor de gemeenten Almere, Enschede, Helmond, ’s-Hertogenbosch, Maastricht, Nijmegen, Sittard-Geleen en Venlo bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048376&artikel=3&z=2023-07-08&g=2023-04-24), is in 2023 maximaal € 150.000 per gemeente beschikbaar.
+4. Voor de voorbereidingskosten voor de gemeenten Almere, Enschede, Helmond, ’s-Hertogenbosch, Maastricht, Nijmegen, Sittard-Geleen en Venlo bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048376&artikel=3&z=2023-07-08&g=2023-07-08), is in 2023 maximaal € 150.000 per gemeente beschikbaar.
 
 ##### Artikel 5. Wijze van verstrekking
 
@@ -122,7 +122,7 @@ De gemeente die een eenmalige specifieke uitkering heeft ontvangen is verplicht 
 
 ##### Artikel 8. Terugvordering
 
-De Ministers kunnen onverschuldigd uitgekeerde bedragen naar aanleiding van een lagere vaststelling van de uitkering als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048376&artikel=7&z=2023-07-08&g=2023-04-24), terugvorderen.
+De Ministers kunnen onverschuldigd uitgekeerde bedragen naar aanleiding van een lagere vaststelling van de uitkering als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048376&artikel=7&z=2023-07-08&g=2023-07-08), terugvorderen.
 
 ##### Artikel 9. Inwerkingtreding
 
