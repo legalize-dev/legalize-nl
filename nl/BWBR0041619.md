@@ -4,7 +4,7 @@ identifier: "BWBR0041619"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-11"
-last_updated: "2023-05-27"
+last_updated: "2023-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041619"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 - c. € 4.000.000 voor subsidieverstrekking in het kalenderjaar 2021 en € 14.000.000 voor subsidieverstrekking in het kalenderjaar 2022;
 
-- d. € 8.000.000 voor subsidieverstrekking in het kalenderjaar 2023;
+- d. € 16.000.000 voor subsidieverstrekking in het kalenderjaar 2023;
 
 - e. € 6.000.000 per kalenderjaar voor subsidieverstrekking in de kalenderjaren 2024 en 2025.
 
@@ -124,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het derde lid op 15 oktober van het betreffende kalenderjaar niet wordt uitgeput, is het derde lid van overeenkomstige toepassing op elke volgende onderwijsassistent of leraarondersteuner tot een maximum van zes onderwijsassistenten of leraarondersteuners per bevoegd gezag of samenwerkingsverband.
 
-5. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het vierde lid niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het voor dat kalenderjaar vastgestelde subsidiebedrag voor het voortgezet onderwijs, bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=3&artikel=8b&z=2023-05-27&g=2023-05-27).
+5. Indien het voor subsidieverstrekking beschikbare bedrag na toepassing van het vierde lid niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het voor dat kalenderjaar vastgestelde subsidiebedrag voor het voortgezet onderwijs, bedoeld in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=3&artikel=8b&z=2023-07-11&g=2023-07-11).
 
 6. Indien een aanvraag voor subsidieverstrekking in het jaar 2021 niet kan worden toegewezen omdat het subsidieplafond is bereikt, wordt zij aangemerkt als aanvraag voor subsidieverstrekking in het jaar 2022 en behandeld als ware zij op 16 oktober 2021 ingediend.
 
@@ -144,7 +144,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 1. Het bevoegd gezag of samenwerkingsverband dient de aanvraag in met gebruikmaking van het aanvraagformulier dat op de website www.dus-i.nl beschikbaar is gesteld.
 
-2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent of leraarondersteuner is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=3&z=2023-05-27&g=2023-05-27):
+2. De subsidieaanvraag kan worden ingediend vanaf het moment waarop de onderwijsassistent of leraarondersteuner is gestart met de opleiding tot leraar, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=3&z=2023-07-11&g=2023-07-11):
 
 - a. tot en met 15 oktober 2019, voor subsidieverstrekking in het jaar 2019;
 
@@ -164,7 +164,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 4. De subsidie wordt aangevraagd in het kalenderjaar waarin de onderwijsassistent of leraarondersteuner met de opleiding tot leraar is gestart of in het daaropvolgende kalenderjaar. Aanvragen die op een eerder of later tijdstip worden ingediend, worden afgewezen.
 
-5. Het vierde lid is niet van toepassing ten aanzien van aanvragen als bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=5&z=2023-05-27&g=2023-05-27), indien de desbetreffende aanvraag aanvankelijk binnen het in het vierde lid bedoelde aanvraagtijdvak werd ingediend.
+5. Het vierde lid is niet van toepassing ten aanzien van aanvragen als bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=5&z=2023-07-11&g=2023-07-11), indien de desbetreffende aanvraag aanvankelijk binnen het in het vierde lid bedoelde aanvraagtijdvak werd ingediend.
 
 6. De subsidieaanvraag gaat vergezeld van een afschrift van het inschrijvingsbewijs van de onderwijsassistent of leraarondersteuner voor de opleiding tot leraar, waarin in ieder geval is vermeld:
 
@@ -226,7 +226,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11a. Overgangsrecht aanvraagtermijn
 
-[Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=7&z=2023-05-27&g=2023-05-27), is niet van toepassing ten aanzien van aanvragen die aanvankelijk in 2022 of in een eerder jaar werden ingediend.
+[Artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=7&z=2023-07-11&g=2023-07-11), is niet van toepassing ten aanzien van aanvragen die aanvankelijk in 2022 of in een eerder jaar werden ingediend.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -258,7 +258,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De subsidie bedraagt € 5.000 per onderwijsondersteunend personeelslid per jaar gedurende maximaal vier jaren.
 
-3. Ingeval het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het voor dat kalenderjaar vastgestelde subsidieplafond voor het primair onderwijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=4&z=2023-05-27&g=2023-05-27).
+3. Ingeval het voor subsidieverstrekking beschikbare bedrag, bedoeld in het eerste lid niet wordt uitgeput, wordt het resterende bedrag toegevoegd aan het voor dat kalenderjaar vastgestelde subsidieplafond voor het primair onderwijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=2&artikel=4&z=2023-07-11&g=2023-07-11).
 
 4. Voor subsidieontvangers op Bonaire, Sint Eustatius of Saba wordt het in het tweede lid bedoelde subsidiebedrag omgerekend in dollars tegen de vastgestelde wisselkoers.
 
@@ -294,7 +294,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 4. Per onderwijsondersteunend personeelslid kan eenmaal per opleiding op grond van deze regeling subsidie worden verstrekt.
 
-5. Het tweede lid, tweede volzin, is niet van toepassing ten aanzien van aanvragen als bedoeld in [artikel 8c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=3&artikel=8c&z=2023-05-27&g=2023-05-27), indien de desbetreffende aanvraag aanvankelijk binnen het in het tweede lid eerste volzin bedoelde aanvraagtijdvak werd ingediend.
+5. Het tweede lid, tweede volzin, is niet van toepassing ten aanzien van aanvragen als bedoeld in [artikel 8c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041619&paragraaf=3&artikel=8c&z=2023-07-11&g=2023-07-11), indien de desbetreffende aanvraag aanvankelijk binnen het in het tweede lid eerste volzin bedoelde aanvraagtijdvak werd ingediend.
 
 6. De subsidieaanvraag gaat vergezeld van een afschrift van het inschrijvingsbewijs van de het onderwijsondersteunend personeelslid voor opleiding tot leraar, waarin in ieder geval is vermeld:
 
