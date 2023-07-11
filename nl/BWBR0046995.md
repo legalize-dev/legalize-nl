@@ -4,7 +4,7 @@ identifier: "BWBR0046995"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046995"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **activiteitenplan:** activiteitenplan als bedoeld in [artikel 13, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=13&z=2023-01-01&g=2023-01-01);
+- **activiteitenplan:** activiteitenplan als bedoeld in [artikel 13, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=13&z=2023-07-11&g=2023-07-11);
 
 - **adviescommissie:** Adviescommissie Nationaal Groeifonds als bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=9);
 
@@ -116,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Hoogte subsidie
 
-1. Indien een subsidie die op grond van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), wordt verstrekt, staatssteun bevat, bedraagt de hoogte van de subsidie voor:
+1. Indien een subsidie die op grond van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), wordt verstrekt, staatssteun bevat, bedraagt de hoogte van de subsidie voor:
 
 - a. onderzoeks- en ontwikkelingsprojecten: het in artikel 25, vijfde tot en met zevende lid, van de algemene groepsvrijstellingverordening opgenomen percentage, onder de daarvoor geldende voorwaarden, van de in aanmerking komende kosten, tot een maximum van de bedragen die zijn opgenomen in artikel 4, eerste lid, onderdeel i, van de algemene groepsvrijstellingverordening;
 
@@ -128,21 +128,21 @@ In deze regeling wordt verstaan onder:
 
 - e. proces- en organisatie-innovatie: het in artikel 29, vierde lid, van de algemene groepsvrijstellingverordening opgenomen percentage van de in aanmerking komende kosten, tot een maximum van het bedrag dat is opgenomen in artikel 4, eerste lid, onderdeel m, van de algemene groepsvrijstellingverordening.
 
-2. De hoogte van de subsidie voor opleidingssteun als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), bedraagt het in artikel 31, vierde en vijfde lid, van de algemene groepsvrijstellingverordening opgenomen percentage, onder de daarvoor geldende voorwaarden, van de in aanmerking komende kosten, tot een maximum van het bedrag dat is opgenomen in artikel 4, eerste lid, onderdeel n, van de algemene groepsvrijstellingverordening.
+2. De hoogte van de subsidie voor opleidingssteun als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), bedraagt het in artikel 31, vierde en vijfde lid, van de algemene groepsvrijstellingverordening opgenomen percentage, onder de daarvoor geldende voorwaarden, van de in aanmerking komende kosten, tot een maximum van het bedrag dat is opgenomen in artikel 4, eerste lid, onderdeel n, van de algemene groepsvrijstellingverordening.
 
-3. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), wordt verstrekt, geen staatssteun bevat, bedraagt de hoogte van de subsidie 100 procent van de subsidiabele kosten.
+3. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), wordt verstrekt, geen staatssteun bevat, bedraagt de hoogte van de subsidie 100 procent van de subsidiabele kosten.
 
 4. De subsidie bedraagt niet meer dan is aangevraagd.
 
-5. Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor de subsidiabele kosten of een deel daarvan, wordt, indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), wordt verstrekt, staatssteun bevat, slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan toegestaan volgens de algemene groepsvrijstellingsverordening of deze regeling.
+5. Indien reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt voor de subsidiabele kosten of een deel daarvan, wordt, indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), wordt verstrekt, staatssteun bevat, slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan toegestaan volgens de algemene groepsvrijstellingsverordening of deze regeling.
 
-6. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), wordt verstrekt, staatssteun bevat, wordt het bedrag van de subsidie verlaagd voor zover dit nodig is op basis van de algemene groepsvrijstellingsverordening.
+6. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), wordt verstrekt, staatssteun bevat, wordt het bedrag van de subsidie verlaagd voor zover dit nodig is op basis van de algemene groepsvrijstellingsverordening.
 
 ##### Artikel 5. Subsidiabele kosten
 
-1. Voor subsidie komen uitsluitend in aanmerking de redelijk gemaakte kosten die direct verbonden zijn met de uitvoering van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01).
+1. Voor subsidie komen uitsluitend in aanmerking de redelijk gemaakte kosten die direct verbonden zijn met de uitvoering van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11).
 
-2. Indien een subsidie die op grond van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), wordt verstrekt, staatssteun bevat, komen voor subsidie uitsluitend in aanmerking, voor:
+2. Indien een subsidie die op grond van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), wordt verstrekt, staatssteun bevat, komen voor subsidie uitsluitend in aanmerking, voor:
 
 - a. onderzoeks- en ontwikkelingsprojecten: de kosten, bedoeld in artikel 25, derde en vierde lid, van de algemene groepsvrijstellingsverordening;
 
@@ -154,9 +154,9 @@ In deze regeling wordt verstaan onder:
 
 - e. proces- en organisatie-innovatie: de kosten, bedoeld in artikel 29, derde lid, van de algemene groepsvrijstellingsverordening.
 
-3. Voor subsidie voor opleidingssteun als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), komen uitsluitend in aanmerking de kosten, bedoeld in artikel 31, derde lid, van de algemene groepsvrijstellingsverordening.
+3. Voor subsidie voor opleidingssteun als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), komen uitsluitend in aanmerking de kosten, bedoeld in artikel 31, derde lid, van de algemene groepsvrijstellingsverordening.
 
-4. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), wordt verstrekt, staatssteun bevat, komen voor subsidie uitsluitend de kosten in aanmerking die voldoen aan de eisen van artikel 7 van de algemene groepsvrijstellingsverordening.
+4. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), wordt verstrekt, staatssteun bevat, komen voor subsidie uitsluitend de kosten in aanmerking die voldoen aan de eisen van artikel 7 van de algemene groepsvrijstellingsverordening.
 
 5. Kosten die vóór indiening van de aanvraag door de subsidieontvanger zijn gemaakt, komen niet voor subsidie in aanmerking.
 
@@ -172,7 +172,7 @@ De minister beslist afwijzend op een aanvraag:
 
 - a. voor zover de activiteiten niet voldoen aan [artikel 2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=2);
 
-- b. indien na toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=9&z=2023-01-01&g=2023-01-01), ten aanzien van een onderdeel van artikel 9, eerste lid, minder dan 6 punten zijn toegekend;
+- b. indien na toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=9&z=2023-07-11&g=2023-07-11), ten aanzien van een onderdeel van artikel 9, eerste lid, minder dan 6 punten zijn toegekend;
 
 - c. indien de te verlenen subsidie minder dan € 30.000.000 zou bedragen;
 
@@ -182,7 +182,7 @@ De minister beslist afwijzend op een aanvraag:
 
 - f. voor zover de aanvraag niet voldoet aan de bij deze regeling gestelde regels;
 
-- g. voor zover de activiteiten niet voldoen aan de [artikelen 22, eerste lid, onderdelen b, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22), en [23, onderdelen a, c, d, e, f en g, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), zoals van toepassing verklaard in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=16&z=2023-01-01&g=2023-01-01).
+- g. voor zover de activiteiten niet voldoen aan de [artikelen 22, eerste lid, onderdelen b, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22), en [23, onderdelen a, c, d, e, f en g, van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), zoals van toepassing verklaard in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=16&z=2023-07-11&g=2023-07-11).
 
 ##### Artikel 8. Beslissing op de aanvraag
 
@@ -212,15 +212,15 @@ De minister beslist afwijzend op een aanvraag:
 
 ##### Artikel 10. Adviescommissie Nationaal Groeifonds
 
-1. De minister vraagt de adviescommissie advies omtrent de rangschikkingscriteria, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=9&z=2023-01-01&g=2023-01-01).
+1. De minister vraagt de adviescommissie advies omtrent de rangschikkingscriteria, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=9&z=2023-07-11&g=2023-07-11).
 
 2. De minister kan de adviescommissie advies vragen omtrent:
 
-- a. de beoordeling of aanvragen voldoen aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01);
+- a. de beoordeling of aanvragen voldoen aan [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11);
 
-- b. de subsidiabele kosten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=5&z=2023-01-01&g=2023-01-01);
+- b. de subsidiabele kosten, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=5&z=2023-07-11&g=2023-07-11);
 
-- c. de afwijzingsgronden, bedoeld in [artikel 7, onderdelen a, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=7&z=2023-01-01&g=2023-01-01).
+- c. de afwijzingsgronden, bedoeld in [artikel 7, onderdelen a, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=7&z=2023-07-11&g=2023-07-11).
 
 3. De minister maakt het advies openbaar.
 
@@ -242,13 +242,13 @@ De minister beslist afwijzend op een aanvraag:
 
 4. De minister kan bij de beschikking tot subsidieverlening:
 
-- a. de verplichtingen, bedoeld in het eerste en tweede lid en de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36a), [38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39a), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40) en [41 van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41), zoals van toepassing verklaard in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=16&z=2023-01-01&g=2023-01-01), nader invullen;
+- a. de verplichtingen, bedoeld in het eerste en tweede lid en de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36a), [38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39a), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40) en [41 van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41), zoals van toepassing verklaard in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=16&z=2023-07-11&g=2023-07-11), nader invullen;
 
 - b. bepalen dat de verplichtingen, bedoeld in onderdeel a, niet van toepassing zijn;
 
 - c. andere verplichtingen opnemen.
 
-5. Indien een subsidie die op grond van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), wordt verstrekt, staatssteun bevat, gelden voor de subsidieontvanger de volgende verplichtingen:
+5. Indien een subsidie die op grond van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), wordt verstrekt, staatssteun bevat, gelden voor de subsidieontvanger de volgende verplichtingen:
 
 - a. in geval subsidie wordt verstrekt voor de bouw of het upgraden van onderzoeksinfrastructuur, de verplichtingen bedoeld in artikel 26, tweede tot en met vierde lid, van de algemene groepsvrijstellingsverordening;
 
@@ -258,7 +258,7 @@ De minister beslist afwijzend op een aanvraag:
 
 1. Een aanvraag voor subsidie wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
-2. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), wordt verstrekt, staatssteun bevat, bevat de aanvraag voor subsidie ten minste de gegevens, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=6&z=2023-01-01&g=2023-01-01), van de algemene groepsvrijstellingsverordening.
+2. Indien een subsidie die op grond van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), wordt verstrekt, staatssteun bevat, bevat de aanvraag voor subsidie ten minste de gegevens, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=6&z=2023-07-11&g=2023-07-11), van de algemene groepsvrijstellingsverordening.
 
 3. Onverminderd het tweede lid bevat een aanvraag voor subsidie ten minste:
 
@@ -314,9 +314,9 @@ De minister beslist afwijzend op een aanvraag:
 
 ##### Artikel 15. Staatssteun
 
-1. Indien de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), gelezen in samenhang met artikel 3, vierde lid, staatssteun bevat, wordt deze gerechtvaardigd door artikel 31 van de algemene groepsvrijstellingsverordening.
+1. Indien de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), gelezen in samenhang met artikel 3, vierde lid, staatssteun bevat, wordt deze gerechtvaardigd door artikel 31 van de algemene groepsvrijstellingsverordening.
 
-2. Indien de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01), staatssteun bevat, wordt deze gerechtvaardigd door:
+2. Indien de subsidie, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11), staatssteun bevat, wordt deze gerechtvaardigd door:
 
 - a. artikel 25 van de algemene groepsvrijstellingsverordening voor onderzoeks- en ontwikkelingsprojecten;
 
@@ -330,9 +330,9 @@ De minister beslist afwijzend op een aanvraag:
 
 ##### Artikel 16. [Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796) en [Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474)
 
-1. De [artikelen 10, derde, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=10), [11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=11), [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=14), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=20), [22, eerste lid, onderdelen b, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22), [23, onderdelen a, c, d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=29), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36a), [38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39a), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41) en [51 van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=51) zijn van toepassing op de subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01).
+1. De [artikelen 10, derde, vierde, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=10), [11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=11), [12, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=14), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=20), [22, eerste lid, onderdelen b, c, d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=22), [23, onderdelen a, c, d, e, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=29), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36), [36a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=36a), [38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=38), [39, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39), [39a](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=39a), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=41) en [51 van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=51) zijn van toepassing op de subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11).
 
-2. De [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.2), [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.4), [1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.7), [1.8, eerste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.8), en [1.9 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.9) zijn van toepassing op de subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-01-01&g=2023-01-01).
+2. De [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.2), [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.4), [1.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.7), [1.8, eerste en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.8), en [1.9 van de Regeling nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=1.9) zijn van toepassing op de subsidie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046995&artikel=3&z=2023-07-11&g=2023-07-11).
 
 3. Het uurtarief als bedoeld in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=13), en [14 van het Kaderbesluit nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=14) bedraagt voor de toepassing van deze regeling € 60.
 
