@@ -4,7 +4,7 @@ identifier: "BWBR0048191"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-12"
-last_updated: "2023-07-01"
+last_updated: "2023-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048191"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **bewindspersoon:** Minister van Infrastructuur en Waterstaat of Staatssecretaris van Infrastructuur en Waterstaat;
 
-- **dienst:** onderdeel van het ministerie, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-07-01&g=2023-07-01);
+- **dienst:** onderdeel van het ministerie, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-07-11&g=2023-07-11);
 
 - **diensthoofd:** persoon die overeenkomstig dit besluit, dan wel overeenkomstig overige wet- en regelgeving, is belast met de leiding van een dienst;
 
@@ -60,9 +60,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **ministerie:** Ministerie van Infrastructuur en Waterstaat;
 
-- **plaatsvervangend secretaris-generaal:** plaatsvervangend secretaris-generaal als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-07-01&g=2023-07-01);
+- **plaatsvervangend secretaris-generaal:** plaatsvervangend secretaris-generaal als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-07-11&g=2023-07-11);
 
-- **secretaris van adviesorgaan:** secretaris van een adviesorgaan, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-07-01&g=2023-07-01);
+- **secretaris van adviesorgaan:** secretaris van een adviesorgaan, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-07-11&g=2023-07-11);
 
 - **secretaris-generaal:** secretaris-generaal van het ministerie.
 
@@ -130,7 +130,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij afwezigheid of verhindering van de secretaris-generaal en ten aanzien van specifieke, bij instructie van de secretaris-generaal aangewezen taken, is de plaatsvervangend secretaris-generaal bevoegd om als zodanig als plaatsvervanger op te treden.
 
-3. Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de secretaris-generaal.
+3. Bij afwezigheid of verhindering van zowel de secretaris-generaal als de plaatsvervangend secretaris-generaal zijn de directeuren-generaal Luchtvaart en Maritieme Zaken, Milieu en Internationaal, Mobiliteit en Water en Bodem, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2023-07-11&g=2023-07-11), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2023-07-11&g=2023-07-11), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2023-07-11&g=2023-07-11) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-11&g=2023-07-11), bevoegd om als zodanig als plaatsvervanger op te treden.
+
+4. Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de secretaris-generaal.
 
 ##### Artikel 4. Taken plaatsvervangend secretaris-generaal
 
@@ -154,7 +156,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De plaatsvervangend secretaris-generaal is Chief Information Officer en heeft daartoe de taken, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=4) en [7 van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=7).
 
-4. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal en ten aanzien van specifieke, bij instructie van de plaatsvervangend secretaris-generaal aangewezen taken, zijn de concerndirecteuren, bedoeld in de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2023-07-01&g=2023-07-01), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2023-07-01&g=2023-07-01), bevoegd om als zodanig als plaatsvervanger op te treden.
+4. Bij afwezigheid of verhindering van de plaatsvervangend secretaris-generaal en ten aanzien van specifieke, bij instructie van de plaatsvervangend secretaris-generaal aangewezen taken, zijn de concerndirecteuren, bedoeld in de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=14&z=2023-07-11&g=2023-07-11), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=15&z=2023-07-11&g=2023-07-11), bevoegd om als zodanig als plaatsvervanger op te treden.
 
 5. Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de plaatsvervangend secretaris-generaal.
 
@@ -180,7 +182,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, bestaan uit afdelingen of programma’s die onder leiding staan van een afdelingshoofd respectievelijk een project- of programmamanager.
 
-5. Bij afwezigheid of verhindering van de directeur-generaal Luchtvaart en Maritieme Zaken zijn de directeuren-generaal Milieu en Internationaal, en Mobiliteit en Water en Bodem, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2023-07-01&g=2023-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2023-07-01&g=2023-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-01&g=2023-07-01), en de (programma-)directeuren, bedoeld in het derde lid, bevoegd om als plaatsvervanger op te treden.
+5. Bij afwezigheid of verhindering van de directeur-generaal Luchtvaart en Maritieme Zaken zijn de directeuren-generaal Milieu en Internationaal, en Mobiliteit en Water en Bodem, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2023-07-11&g=2023-07-11), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2023-07-11&g=2023-07-11) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-11&g=2023-07-11), en de (programma-)directeuren, bedoeld in het derde lid, bevoegd om als plaatsvervanger op te treden.
 
 6. Bij afwezigheid of verhindering van een directeur of een programmadirecteur zijn de andere directeuren, de project- of programmadirecteuren of de afdelingshoofden en de project- of programmamanagers, binnen dezelfde directie of programmadirectie, bevoegd om als plaatsvervanger op te treden.
 
@@ -244,7 +246,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De dienstonderdelen, genoemd in het tweede lid, onder a, b en c, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder d, staat onder leiding van een afdelingshoofd. Onder de dienstonderdelen, genoemd in het tweede lid, onder a, b en c, ressorteren tevens afdelingshoofden.
 
-4. Bij afwezigheid of verhindering van de directeur-generaal Milieu en Internationaal zijn de directeuren-generaal Luchtvaart en Maritieme Zaken, Mobiliteit en Water en Bodem, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2023-07-01&g=2023-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2023-07-01&g=2023-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-01&g=2023-07-01), en de directeuren bevoegd om als plaatsvervanger op te treden.
+4. Bij afwezigheid of verhindering van de directeur-generaal Milieu en Internationaal zijn de directeuren-generaal Luchtvaart en Maritieme Zaken, Mobiliteit en Water en Bodem, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2023-07-11&g=2023-07-11), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2023-07-11&g=2023-07-11) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-11&g=2023-07-11), en de directeuren bevoegd om als plaatsvervanger op te treden.
 
 5. Bij afwezigheid of verhindering van een directeur zijn de overige directeuren en de afdelingshoofden binnen de directie bevoegd om als plaatsvervanger op te treden.
 
@@ -314,7 +316,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, staan onder leiding van een directeur. De dienstonderdelen, genoemd in het tweede lid, onder e en f, staan onder leiding van een programmadirecteur. Het dienstonderdeel, genoemd in het tweede lid, onder g, staan onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met e, bestaan uit afdelingen en programma’s die onder leiding staan van een afdelingshoofd respectievelijk een programmamanager.
 
-4. Bij afwezigheid of verhindering van de directeur-generaal Mobiliteit zijn de directeuren-generaal Luchtvaart en Maritieme Zaken, Milieu en Internationaal en Water en Bodem, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2023-07-01&g=2023-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2023-07-01&g=2023-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-01&g=2023-07-01), en de directeuren en de programmadirecteuren bevoegd om als plaatsvervanger op te treden.
+4. Bij afwezigheid of verhindering van de directeur-generaal Mobiliteit zijn de directeuren-generaal Luchtvaart en Maritieme Zaken, Milieu en Internationaal en Water en Bodem, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2023-07-11&g=2023-07-11), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2023-07-11&g=2023-07-11) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-11&g=2023-07-11), en de directeuren en de programmadirecteuren bevoegd om als plaatsvervanger op te treden.
 
 5. Bij afwezigheid of verhindering van een directeur of programmadirecteur zijn de overige directeuren en programmadirecteuren en de afdelingshoofden en programmamanagers binnen de directie of programmadirectie bevoegd om als plaatsvervanger op te treden.
 
@@ -406,7 +408,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De dienstonderdelen, genoemd in het tweede lid, onder a, b, c en e, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder d, staat onder leiding van een programmadirecteur. Het dienstonderdeel, genoemd in het tweede lid, onder f, staat onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met d, bestaan uit afdelingen die onder leiding staan van een afdelingshoofd of programmamanager.
 
-4. Bij afwezigheid of verhindering van de directeur-generaal Water en Bodem zijn de directeuren-generaal Luchtvaart en Maritieme Zaken, Milieu en Internationaal en Mobiliteit, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2023-07-01&g=2023-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2023-07-01&g=2023-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2023-07-01&g=2023-07-01), en de (programma)directeuren bevoegd om als plaatsvervanger op te treden.
+4. Bij afwezigheid of verhindering van de directeur-generaal Water en Bodem zijn de directeuren-generaal Luchtvaart en Maritieme Zaken, Milieu en Internationaal en Mobiliteit, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2023-07-11&g=2023-07-11), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2023-07-11&g=2023-07-11) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=7&z=2023-07-11&g=2023-07-11), en de (programma)directeuren bevoegd om als plaatsvervanger op te treden.
 
 5. Bij afwezigheid van een (programma-)directeur zijn de andere (programma-)directeuren en de afdelingshoofden en de programmamanagers binnen de directie bevoegd om als plaatsvervanger op te treden.
 
@@ -574,7 +576,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de concerndirecteur Informatiebeleid.
 
-5. De concerndirectie Informatiebeleid heeft als taak de uitvoering van de aan de Chief Information Officer en de Chief Information Security Officer (CISO) opgedragen taken, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-07-01&g=2023-07-01).
+5. De concerndirectie Informatiebeleid heeft als taak de uitvoering van de aan de Chief Information Officer en de Chief Information Security Officer (CISO) opgedragen taken, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-07-11&g=2023-07-11).
 
 6. De Beveiligingsautoriteit, bedoeld in [artikel 3 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=3) en de Functionaris Gegevensbescherming, bedoeld in artikel 37 van de Algemene verordening gegevensbescherming zijn ondergebracht bij de concerndirectie Informatiebeleid.
 
@@ -768,13 +770,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 25. Mandaat aan en ondermandaat door secretaris-generaal
 
-1. Aan de secretaris-generaal wordt mandaat verleend voor alle bevoegdheden van de bewindspersoon ten aanzien van het beleid en de bedrijfsvoering van het ministerie, die behoren bij de uitoefening van zijn taken genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2023-07-01&g=2023-07-01), dan wel in overige wet- en regelgeving, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-01&g=2023-07-01) en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=32&z=2023-07-01&g=2023-07-01).
+1. Aan de secretaris-generaal wordt mandaat verleend voor alle bevoegdheden van de bewindspersoon ten aanzien van het beleid en de bedrijfsvoering van het ministerie, die behoren bij de uitoefening van zijn taken genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2023-07-11&g=2023-07-11), dan wel in overige wet- en regelgeving, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-11&g=2023-07-11) en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=32&z=2023-07-11&g=2023-07-11).
 
 2. De secretaris-generaal kan de aan hem verleende bevoegdheden in ondermandaat verlenen aan functionarissen, niet zijnde diensthoofden en rechtstreeks onder diensthoofden ressorterende functionarissen.
 
 ##### Artikel 26. Mandaat aan en ondermandaat door plaatsvervangend secretaris-generaal
 
-1. In afwijking van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2023-07-01&g=2023-07-01), wordt aan de plaatsvervangend secretaris-generaal mandaat verleend voor alle bevoegdheden van de bewindspersoon ten aanzien van de bedrijfsvoering van het ministerie, die behoren bij de uitoefening van zijn taken genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-07-01&g=2023-07-01), een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-01&g=2023-07-01) en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=32&z=2023-07-01&g=2023-07-01).
+1. In afwijking van [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2023-07-11&g=2023-07-11), wordt aan de plaatsvervangend secretaris-generaal mandaat verleend voor alle bevoegdheden van de bewindspersoon ten aanzien van de bedrijfsvoering van het ministerie, die behoren bij de uitoefening van zijn taken genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2023-07-11&g=2023-07-11), een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-11&g=2023-07-11) en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=32&z=2023-07-11&g=2023-07-11).
 
 2. De plaatsvervangend secretaris-generaal kan de aan hem verleende bevoegdheden in ondermandaat verlenen aan functionarissen, niet zijnde diensthoofden en rechtstreeks onder de diensthoofden ressorterende functionarissen.
 
@@ -782,7 +784,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 27. Mandaat aan en ondermandaat door diensthoofden
 
-1. Aan de diensthoofden wordt mandaat verleend ten aanzien van alle bevoegdheden die behoren bij de uitoefening van de taken van hun dienst, genoemd in [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&z=2023-07-01&g=2023-07-01), dan wel in overige wet- en regelgeving, waaronder mede begrepen het bepalen van beleid, het uitvoeren van het beleid en de bedrijfsvoering van de dienst, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-01&g=2023-07-01).
+1. Aan de diensthoofden wordt mandaat verleend ten aanzien van alle bevoegdheden die behoren bij de uitoefening van de taken van hun dienst, genoemd in [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&z=2023-07-11&g=2023-07-11), dan wel in overige wet- en regelgeving, waaronder mede begrepen het bepalen van beleid, het uitvoeren van het beleid en de bedrijfsvoering van de dienst, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-11&g=2023-07-11).
 
 2. Een diensthoofd kan de aan hem verleende bevoegdheden in ondermandaat verlenen aan:
 
@@ -800,13 +802,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 28. Mandaat secretarissen adviesorganen
 
-Aan de secretarissen van de adviesorganen van het ministerie wordt mandaat verleend voor alle bevoegdheden die behoren bij de uitoefening van de taken van hun secretariaat, genoemd in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.4&artikel=24&z=2023-07-01&g=2023-07-01), dan wel in overige wet- en regelgeving, waaronder mede begrepen de bedrijfsvoering van het secretariaat, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-01&g=2023-07-01).
+Aan de secretarissen van de adviesorganen van het ministerie wordt mandaat verleend voor alle bevoegdheden die behoren bij de uitoefening van de taken van hun secretariaat, genoemd in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.4&artikel=24&z=2023-07-11&g=2023-07-11), dan wel in overige wet- en regelgeving, waaronder mede begrepen de bedrijfsvoering van het secretariaat, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-11&g=2023-07-11).
 
 #### § 3.4. Ondertekeningsmandaat
 
 ##### Artikel 29. Ondertekeningsmandaat
 
-1. Aan de secretaris-generaal wordt ondertekeningsmandaat verleend voor alle bevoegdheden van de bewindspersoon, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30, eerste lid en derde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-01&g=2023-07-01), en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=32&z=2023-07-01&g=2023-07-01).
+1. Aan de secretaris-generaal wordt ondertekeningsmandaat verleend voor alle bevoegdheden van de bewindspersoon, een en ander tenzij bij wettelijk voorschrift anders is bepaald en onverminderd de [artikelen 30, eerste lid en derde lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=30&z=2023-07-11&g=2023-07-11), en [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=4&artikel=32&z=2023-07-11&g=2023-07-11).
 
 2. Aan de directeur Bestuursondersteuning wordt ondertekeningsmandaat verleend ten aanzien van de aan de secretaris-generaal verleende bevoegdheden, een en ander tenzij bij wettelijk voorschrift anders is bepaald.
 
@@ -852,17 +854,17 @@ Aan de secretaris-generaal is voorbehouden de bevoegdheid tot:
 
 ##### Artikel 32. Beperkingen mandaatverlening aan diensthoofden en secretarissen van adviesorganen
 
-1. Onverminderd [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2023-07-01&g=2023-07-01), wordt aan de plaatsvervangend secretaris-generaal of aan de volgende diensthoofden, bij uitsluiting van de overige diensthoofden, mandaat verleend voor de volgende bevoegdheden:
+1. Onverminderd [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.1&artikel=25&z=2023-07-11&g=2023-07-11), wordt aan de plaatsvervangend secretaris-generaal of aan de volgende diensthoofden, bij uitsluiting van de overige diensthoofden, mandaat verleend voor de volgende bevoegdheden:
 
 - a. de directeuren-generaal Luchtvaart en Maritieme Zaken, Milieu en Internationaal, Mobiliteit, Water en Bodem en Rijkswaterstaat: het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot de gemandateerde bevoegdheid;
 
 - b. de directeuren-generaal Luchtvaart en Maritieme Zaken, Milieu en Internationaal, Mobiliteit, Water en Bodem en Rijkswaterstaat, de hoofddirecteuren Bestuurlijke en Juridische Zaken en KNMI, de programmadirecteuren, de directeur Planbureau voor de Leefomgeving en de inspecteur-generaal Leefomgeving en Transport: het nemen van een besluit op verzoek om informatie, bedoeld in de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
 
-- c. de hoofddirecteur Bestuurlijke en Juridische Zaken: de bevoegdheden inzake het behandelen van bezwaarschriften en het vertegenwoordigen van de bewindspersoon in bestuursrechtelijke procedures, bedoeld in [artikel 8, achtste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-01&g=2023-07-01), met uitzondering van bezwaarschriften en bestuursrechtelijke procedures die verband houden met de taken van de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat, alsmede de ambtelijke rechtspositie;
+- c. de hoofddirecteur Bestuurlijke en Juridische Zaken: de bevoegdheden inzake het behandelen van bezwaarschriften en het vertegenwoordigen van de bewindspersoon in bestuursrechtelijke procedures, bedoeld in [artikel 8, achtste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-11&g=2023-07-11), met uitzondering van bezwaarschriften en bestuursrechtelijke procedures die verband houden met de taken van de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat, alsmede de ambtelijke rechtspositie;
 
 - d. de directeur Uitvoering en Decentraal Advies en Control:
 
-- i. het voeren van de personeels- en salarisadministratie voor alle onderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-07-01&g=2023-07-01);
+- i. het voeren van de personeels- en salarisadministratie voor alle onderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2023-07-11&g=2023-07-11);
 
 - ii. het vaststellen van documentatie conform de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en de daarop berustende en regelgeving ten behoeve van de documentaire informatiebeleid, behoudens bij instructie te bepalen uitzonderingen, welke worden vastgelegd in de beheersregels, bedoeld in [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), voor de onderdelen van het ministerie, met uitzondering van het Planbureau voor de Leefomgeving, en het directoraat-generaal Rijkswaterstaat;
 
@@ -872,7 +874,7 @@ Aan de secretaris-generaal is voorbehouden de bevoegdheid tot:
 
 2. Aan de inspecteur-generaal Leefomgeving en Transport wordt bij uitsluiting van de overige diensthoofden en de secretaris-generaal mandaat en ondertekeningsmandaat verleend betreffende het vaststellen, wijzigen of intrekken van beleidsregels met betrekking tot een aan hem of aan de onder hem ressorterende functionarissen geattribueerde of gemandateerde bevoegdheid.
 
-3. In afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.2&artikel=27&z=2023-07-01&g=2023-07-01), tweede lid, kan geen ondermandaat worden verleend ten aanzien van de in het eerste lid, onder a en b, bedoelde bevoegdheden. De vorige zin is niet van toepassing op de directeur-generaal Rijkswaterstaat, voor zover het de in het eerste lid, onder b, bedoelde bevoegdheid betreft.
+3. In afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.2&artikel=27&z=2023-07-11&g=2023-07-11), tweede lid, kan geen ondermandaat worden verleend ten aanzien van de in het eerste lid, onder a en b, bedoelde bevoegdheden. De vorige zin is niet van toepassing op de directeur-generaal Rijkswaterstaat, voor zover het de in het eerste lid, onder b, bedoelde bevoegdheid betreft.
 
 ##### Artikel 33. Mandaat en ondermandaat beslissen op bezwaar
 
@@ -964,7 +966,7 @@ gevolgd door de aanduiding van de gevolmachtigde functionaris.
 
 DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
-5. In geval van ondertekeningsmandaat, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.4&artikel=29&z=2023-07-01&g=2023-07-01), wordt vermeld dat het document wordt ondertekend overeenkomstig het door de bewindspersoon, secretaris-generaal of bevoegde functionaris zelf genomen besluit.
+5. In geval van ondertekeningsmandaat, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.4&artikel=29&z=2023-07-11&g=2023-07-11), wordt vermeld dat het document wordt ondertekend overeenkomstig het door de bewindspersoon, secretaris-generaal of bevoegde functionaris zelf genomen besluit.
 
 6. In geval van plaatsvervanging overeenkomstig dit besluit bevat de ondertekening zowel een aanduiding van de plaatsvervanger als de functionaris die bij afwezigheid of verhindering wordt vervangen.
 
@@ -976,19 +978,19 @@ DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 1. Het [Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610) wordt ingetrokken.
 
-2. Na de inwerkingtreding van dit besluit berusten de krachtens [artikel 21, tweede en derde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=21) genomen besluiten op [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.2&artikel=27&z=2023-07-01&g=2023-07-01), van dit besluit.
+2. Na de inwerkingtreding van dit besluit berusten de krachtens [artikel 21, tweede en derde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=21) genomen besluiten op [artikel 27, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.2&artikel=27&z=2023-07-11&g=2023-07-11), van dit besluit.
 
-3. Na de inwerkingtreding van dit besluit berust het [Protocol KiM 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046209) op [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=19&z=2023-07-01&g=2023-07-01) van dit besluit.
+3. Na de inwerkingtreding van dit besluit berust het [Protocol KiM 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046209) op [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=19&z=2023-07-11&g=2023-07-11) van dit besluit.
 
 ##### Artikel 40. Intrekking [Instellingsbesluit Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0031032)
 
 1. Het [Instellingsbesluit Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0031032) wordt ingetrokken.
 
-2. Na de inwerkingtreding van dit besluit berust het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) mede op de [artikelen 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=22&z=2023-07-01&g=2023-07-01), en [27, tweede lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.2&artikel=27&z=2023-07-01&g=2023-07-01), van dit besluit.
+2. Na de inwerkingtreding van dit besluit berust het [Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043289) mede op de [artikelen 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=22&z=2023-07-11&g=2023-07-11), en [27, tweede lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=3&paragraaf=3.2&artikel=27&z=2023-07-11&g=2023-07-11), van dit besluit.
 
 ##### Artikel 41. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, met uitzondering van [artikel 8, tweede lid, onder e, en achtste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-01&g=2023-07-01), die in werking treden met ingang van 1 juli 2023.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, met uitzondering van [artikel 8, tweede lid, onder e, en achtste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2023-07-11&g=2023-07-11), die in werking treden met ingang van 1 juli 2023.
 
 ##### Artikel 42. Citeertitel
 
