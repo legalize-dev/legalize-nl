@@ -4,7 +4,7 @@ identifier: "BWBR0045917"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-12"
-last_updated: "2022-11-05"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045917"
 soort: "ministeriele-regeling"
@@ -60,17 +60,17 @@ De Minister verstrekt aan gemeenten een specifieke uitkering ter bekostiging van
 
 ##### Artikel 3. Hoogte van de specifieke uitkering
 
-1. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2022-11-05), bedraagt per gemeente honderd procent van de gederfde belastinginkomsten in een begrotingsjaar die het rechtstreekse gevolg zijn van het kwijtschelden van de op 31 december 2020 verschuldigde gemeentelijke belastingen van gedupeerden en toeslagpartners.
+1. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2023-07-15), bedraagt per gemeente honderd procent van de gederfde belastinginkomsten in een begrotingsjaar die het rechtstreekse gevolg zijn van het kwijtschelden van de op 31 december 2020 verschuldigde gemeentelijke belastingen van gedupeerden en toeslagpartners.
 
-2. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2022-11-05), bedraagt € 150,– per gedupeerde.
+2. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2023-07-15), bedraagt € 150,– per gedupeerde.
 
 ##### Artikel 4. Procedure tot vaststelling van de uitkering
 
-1. Het college zendt in het jaar volgend op het begrotingsjaar aan de Minister informatie over de hoogte van de gederfde belastinginkomsten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=3&z=2022-11-05&g=2022-11-05). Deze informatieverstrekking vindt plaats op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Het college zendt in het jaar volgend op het begrotingsjaar aan de Minister informatie over de hoogte van de gederfde belastinginkomsten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=3&z=2022-11-05&g=2023-07-15). Deze informatieverstrekking vindt plaats op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Op basis van de informatie, bedoeld in het eerste lid, stelt de Minister de hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2022-11-05), vast.
+2. Op basis van de informatie, bedoeld in het eerste lid, stelt de Minister de hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2023-07-15), vast.
 
-3. De Minister stelt de hoogte van de specifieke uitkering per gemeente vast door de uitkeringscomponenten, bedoeld in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2022-11-05), bij elkaar op te tellen.
+3. De Minister stelt de hoogte van de specifieke uitkering per gemeente vast door de uitkeringscomponenten, bedoeld in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045917&artikel=2&z=2022-11-05&g=2023-07-15), bij elkaar op te tellen.
 
 4. De Minister stelt de specifieke uitkering vast binnen een jaar na de ontvangst van de informatie, bedoeld in het eerste lid.
 
