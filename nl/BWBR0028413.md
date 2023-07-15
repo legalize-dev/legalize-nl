@@ -4,7 +4,7 @@ identifier: "BWBR0028413"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2023-07-15"
-last_updated: "2010-10-10"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028413"
 soort: "AMvB-BES"
@@ -39,35 +39,75 @@ entry_into_force: "2010-10-10"
 
 In dit besluit wordt verstaan onder:
 
-- 1. **Onze Minister:** De minister van Landbouw, Natuur en Voedselkwaliteit
+- **bottom longline:** lange hoofdlijn met vele korte zijlijnen met haakjes en aasvis, die horizontaal wordt afgezonken op de bodem;
 
-- 2. **Vergunninghouder:** de vergunninghouder bedoeld in [artikel 2 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=2).
+- **drift longline:** lange hoofdlijn met vele korte zijlijnen met haakjes en aasvis, die horizontaal net onder het wateroppervlak drijvend wordt gehouden;
+
+- **drop long line:** hoofdlijn met vele korte zijlijnen met haakjes en aasvis, die verticaal in het water wordt gehouden door een drijver aan het wateroppervlak en een gewicht aan de onderkant;
+
+- **haaien en roggen:** soorten behorend tot de familie van de Elasmobranchii;
+
+- **hookah-uitrusting:** onderwateruitrusting die de gebruiker via luchtaanvoer vanuit de buitenlucht boven het wateroppervlak in staat stelt om gedurende een lange periode onder water te verblijven;
+
+- **kieuwnet:** staand net dat uit een enkel net bestaat en verticaal in het water wordt gehouden door drijvers en zinkers;
+
+- **ringnet:** omsluitingsnet waarvan de bodem wordt samengetrokken door een sluitlijn aan de onderkant van het net, die door een reeks ringen langs de onderpees loopt, waardoor het net kan worden samengetrokken en gesloten;
+
+- **schrobnet:** bodem beroerend sleepnet;
+
+- **scuba-uitrusting:** **onderwateruitrusting die de gebruiker via onder druk gebrachte ademhalingslucht in duikflessen in staat stelt om gedurende een lange periode onder water te verblijven;**
+
+- **vergunninghouder:** de vergunninghouder bedoeld in [artikel 2 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=2);
+
+- **zeekomkommers:** soorten die behoren tot de familie van de Holothuroidea.
 
 ##### Artikel 2
 
-1. Het is aan een ieder in de visserijzone, en aan de vergunninghouder tevens in de territoriale zee, verboden te vissen met:
+1. Het is in de territoriale zee en de visserijzone verboden te vissen met:
 
-- a. schrobnetten;
+- a. visfuiken met een maaswijdte van minder dan 50 millimeter;
 
-- b. visfuiken met een maaswijdte van minder dan 1.5" of 38 mm;
+- b. visfuiken die niet zijn voorzien van een ontsnappingsopening welke is afgedekt door een paneel, van biologisch afbreekbaar materiaal, dat na gebruik in zeewater uiteenvalt zodat na een periode van om en nabij 20 dagen een opening in één van de zijkanten van de fuik ontstaat van tenminste 20 centimeter bij 20 centimeter;
 
-- c. visfuiken die niet zijn voorzien van een ontsnappingsopening welke is afgedekt door een paneel, van biologisch afbreekbaar materiaal, dat na gebruik in zeewater uiteenvalt zodat na een periode van om en nabij 20 dagen een opening in één van de zijkanten van de fuik ontstaan van tenminste 15 cm bij 15 cm;
+- c. chemische middelen;
 
-- d. chemische middelen, met uitzondering van Quinaldine indien dit gebruikt wordt voor de vangst van aquariumvissen;
+- d. ontplofbare stoffen;
 
-- e. ontplofbare stoffen;
+- e. aas bestaande uit vlees van zeezoogdieren of haaien en roggen;
 
-- f. aas bestaande uit vlees van zeezoogdieren;
+- f. kieuwnetten met een grotere lengte dan 20 meter en een diepte groter dan 2,5 meter;
 
-- g. kieuwnetten met een lengte van meer dan 2,5 km.
+- g. drift longlines;
+
+- h. ringnetten, tenzij deze ringnetten worden gebruikt voor de traditionele visserij op Bonaire, waarbij met deze netten vanaf het strand of vanaf kleine vaartuigen nabij de kust wordt gevist op horsmakreel in de territoriale wateren van Bonaire (Papiamento: Masbango);
+
+- i. schrobnetten;
+
+- j. hookah- of scuba-uitrusting; en
+
+- k. bottom- en drop long lines met in totaal meer dan 20 haken.
 
 2. Onze Minister kan nadere regels stellen aan het gebruik van vistuigen waarmee het is toegestaan te vissen.
 
+3. Onze minister kan, gehoord de Visserijcommissie BES, tijdelijk ontheffing verlenen van het verbod, bedoeld in artikel 2, eerste lid, indien sprake is van een bijzondere omstandigheid en gewichtige belangen tot het verlenen van een ontheffing aanleiding geven.
+
+4. Een ontheffing kan onder beperkingen worden verleend en aan een ontheffing kunnen voorschriften worden verbonden.
+
+5. Een ontheffing kan worden gewijzigd of ingetrokken, indien:
+
+- a. de bij de aanvraag verstrekte gegevens of bescheiden zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
+
+- b. de omstandigheden op grond waarvan de ontheffing werd verleend, zich zodanig hebben gewijzigd, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de gewijzigde omstandigheden aanwezig waren geweest;
+
+- c. aan de ontheffing verbonden beperkingen of voorschriften niet worden nageleefd.
+
+6. Het is verboden te handelen in strijd met de bij een ontheffing gestelde voorschriften.
+
 ##### Artikel 3
 
-1. Het is aan een ieder in de visserijzone, en aan de vergunninghouder tevens in de territoriale zee, verboden te vissen op:
+1. Het is aan een ieder in de territoriale zee en de visserijzone verboden te vissen op de volgende vissen, of om deze vissen die in die gebieden zijn gevangen, aan boord te houden, over te laden, te verplaatsen, aan te landen, of voorhanden te hebben in die gebieden of in de onmiddellijke nabijheid van die wateren:
 
-- a. zeeslakken behorende tot de soort Strombus gigas van minder dan 18 cm lengte;indien de zeeslakken reeds uit de schelp gehaald zijn, dient het minimum gewicht aan vlees 225 gr te bedragen;
+- a. zeeslakken behorende tot de soort Strombus gigas uit een schelp met een lipdikte van minder dan 10 mm;indien de zeeslakken reeds uit de schelp gehaald zijn, dient het minimum gewicht aan vlees 225 gr te bedragen;
 
 - b. alle soorten zeeschildpadden;
 
@@ -79,7 +119,11 @@ In dit besluit wordt verstaan onder:
 
 - –. een carapax lengte van minder dan 9.5 cm hebben;
 
-- –. een totaalgewicht van minder dan 680 gr hebben of een staartgewicht van minder dan 200 gr.
+- –. een totaalgewicht van minder dan 680 gr hebben of een staartgewicht van minder dan 200 gr;
+
+- e. haaien en roggen;
+
+- f. zeekomkommers.
 
 2. Het is verboden kreeften behorende tot de in het eerste lid, onderdeel d, genoemde soort te behouden indien:
 
@@ -89,7 +133,9 @@ In dit besluit wordt verstaan onder:
 
 3. Het is verboden eierdragende kreeften van de in het eerste lid, onderdeel d, genoemde soort van hun eieren te ontdoen.
 
-4. Onze minister kan nadere regels stellen aan de visserij op soorten waarop het is toegestaan te vissen.
+4. Bij toeval gevangen dieren als bedoeld in het eerste lid, worden ongedeerd gelaten en worden dood of levend onmiddellijk teruggezet, waarbij voor de nog levende dieren geldt dat dit op zodanige wijze gebeurt dat de kans op overleving zo groot mogelijk is.
+
+5. Onze minister kan nadere regels stellen aan de visserij op soorten waarop het is toegestaan te vissen.
 
 ##### Artikel 3a
 
@@ -167,13 +213,15 @@ De modellen voor het bedoelde verslag worden door de Visserijcommissie, bedoeld 
 
 ##### Artikel 6
 
-2. Voor het visgebied van de Saba bank kunnen vergunningen die het gebruik van de vismethoden genoemd in [artikel 5, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028413&artikel=5&z=2010-10-10&g=2010-10-10), in zich verenigen, worden afgegeven aan de natuurlijke personen en rechtspersonen bedoeld in artikel 6, eerste lid, van de landsverordening. Voor deze vergunningen zullen de tarieven en het bepaalde in artikel 5 eerste lid, onderdeel a, van toepassing zijn.
+1. Voor het visgebied van de Saba bank kunnen vergunningen die het gebruik van de vismethoden genoemd in [artikel 5, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028413&artikel=5&z=2023-07-15&g=2023-07-15), in zich verenigen, worden afgegeven aan de natuurlijke personen en rechtspersonen bedoeld in [artikel 6, eerste lid, van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=6). Voor deze vergunningen zullen de tarieven en het bepaalde in artikel 5 eerste lid, onderdeel a, van toepassing zijn.
 
-3. Voor het visgebied rond Curaçao en Bonaire kunnen vergunningen die het gebruik van de vismethoden genoemd in [artikel 5, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028413&artikel=5&z=2010-10-10&g=2010-10-10), in zich verenigen, worden afgegeven. Voor deze vergunningen zullen de tarieven en het bepaalde in artikel 5, eerste lid, onderdeel a, van toepassing zijn.
+2. Voor het visgebied rond Bonaire kunnen vergunningen die het gebruik van de vismethoden genoemd in [artikel 5, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028413&artikel=5&z=2023-07-15&g=2023-07-15), in zich verenigen, worden afgegeven. Voor deze vergunningen zullen de tarieven en het bepaalde in artikel 5, eerste lid, onderdeel a, van toepassing zijn.
 
 ##### Artikel 7
 
-Dit besluit berust op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=3) een [12 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=12).
+1. Dit besluit berust op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=4), en [12 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=12).
+
+2. Dit besluit berust mede op [artikel 8a, derde lid, van de Wet grondslagen natuurbeheer- en bescherming BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=8a).
 
 ##### Artikel 8
 
