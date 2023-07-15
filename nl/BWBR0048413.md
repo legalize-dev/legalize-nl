@@ -4,7 +4,7 @@ identifier: "BWBR0048413"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2022-11-05"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048413"
 soort: "wet"
@@ -47,8 +47,18 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat [artikel I, onderdelen A, onder 2, DD, onder 1, 3 en 5, EE, onder 1, 3 en 5, en CCC, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I&z=2023-07-15&g=2023-07-15), terugwerkt tot en met 5 november 2022.
+
+2. In het besluit, bedoeld in het eerste lid, kan worden bepaald dat [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0048413&artikel=I&z=2023-07-15&g=2023-07-15), van deze wet terugwerkt tot en met 1 oktober 2023.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet aanvullende regelingen hersteloperatie toeslagen.
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is aanvullende maatregelen te treffen voor kinderen, ex-partners van gedupeerde aanvragers kinderopvangtoeslag, nabestaanden van overleden gedupeerde aanvragers kinderopvangtoeslag en nabestaanden van overleden kinderen in het kader van de hersteloperatie toeslagen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
