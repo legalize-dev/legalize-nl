@@ -4,7 +4,7 @@ identifier: "BWBR0044600"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-15"
-last_updated: "2020-12-31"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044600"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ BESLUITEN:
 
 De Dienst Wegverkeer wordt aangewezen als bevoegde autoriteit als bedoeld in artikel 17, eerste lid, van uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152) met betrekking tot de volgende taken:
 
-- 1. het ter uitvoering van artikel 18, onderdeel c, van die verordening afgeven van een bewijs van voltooiing van een onlinetheorie-examen en het afgeven, wijzigen, schorsen, beperken of intrekken van een vaardigheidsbewijs voor piloten op afstand;
+- 1. het ter uitvoering van artikel 18, onderdeel c, van die verordening afgeven van een bewijs van voltooiing van een onlinetheorie-examen en het afgeven, wijzigen, schorsen, beperken of intrekken van een vaardigheidsbewijs voor piloten op afstand en het afgeven van een certificaat van theoriekennis als bedoeld in UAS.STS-01.020, 1e lid, sub e, onderdeel i, en UAS.STS-02.020, 7e lid, onderdeel a, van die verordening;
 
 - 2. het ter uitvoering van artikel 18, onderdeel e, van die verordening bijhouden van documenten, registers, verslagen voor vaardigheidsbewijzen van piloten op afstand;
 
