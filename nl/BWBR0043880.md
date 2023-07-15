@@ -4,7 +4,7 @@ identifier: "BWBR0043880"
 country: "nl"
 rank: "wet"
 publication_date: "2023-11-16"
-last_updated: "2023-06-01"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043880"
 soort: "wet"
@@ -54,19 +54,7 @@ Wijzigt de Wet beveiliging netwerk- en informatiesystemen.
 
 ##### Artikel 3.3. Tijdelijke inzet van raadsheren-plaatsvervangers en rechters-plaatsvervangers tot drieënzeventig jaar
 
-1. Bij een gebrek aan capaciteit aan rechterlijke ambtenaren met rechtspraak belast als gevolg van de maatregelen getroffen na de uitbraak van COVID-19 kunnen rechterlijke ambtenaren als bedoeld in [artikel 1, onderdeel b, onder 2° en 3°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1) alsmede raadsheren en raadsheren-plaatsvervangers bij het College van Beroep voor het bedrijfsleven en de Centrale Raad van beroep die op grond van [artikel 46h, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46h) worden ontslagen, vervolgens worden benoemd tot raadsheren-plaatsvervangers of rechters- plaatsvervangers.
-
-2. Het eerste lid is van overeenkomstige toepassing op rechterlijke ambtenaren als bedoeld in [artikel 1, onderdeel b, onder 2° en 3°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1) alsmede raadsheren en raadsheren-plaatsvervangers bij het College van Beroep voor het bedrijfsleven en de Centrale Raad van beroep
-
-- a. ten aanzien van wie binnen vierentwintig maanden na het ontslag op grond van [artikel 46h, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46h) door het gerechtsbestuur een aanbeveling wordt gedaan aan de Raad voor de rechtspraak tot benoeming tot raadsheer-plaatsvervanger of rechter-plaatsvervanger;
-
-- b. die binnen vierentwintig maanden voorafgaand aan de datum van inwerkingtreding van deze wet ontslagen zijn op grond van [artikel 46h, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46h) en inmiddels de leeftijd van zeventig jaar hebben bereikt of op grond van artikel 46h, derde lid, van de Wet rechtspositie rechterlijke ambtenaren, ontslagen zijn. De aanbeveling als bedoeld in het derde lid wordt gedaan binnen vierentwintig maanden na het ontslag.
-
-3. Het bestuur van het gerecht, het College van Beroep voor het bedrijfsleven of de Centrale Raad van beroep waar de rechterlijk ambtenaar als bedoeld in het eerste of tweede lid werkzaam is of laatstelijk werkzaam was doet een aanbeveling aan de Raad voor de rechtspraak voor de benoeming als bedoeld in het eerste en tweede lid.
-
-4. [Hoofdstuk 2 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&hoofdstuk=2) is van overeenkomstige toepassing op de benoeming, plaatsing en beëdiging van rechterlijke ambtenaren overeenkomstig het eerste en tweede lid, met dien verstande dat ten aanzien van de benoemingen als bedoeld in het eerste lid kan worden afgezien van het vereiste van het bezit van een verklaring omtrent het gedrag, als bedoeld in [artikel 4a, eerste lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=4a).
-
-5. Raadsheren-plaatsvervangers en rechters-plaatsvervangers die op grond van deze wet zijn benoemd, worden met ingang van de eerste dag van de maand volgende op die waarin zij de leeftijd van drieënzeventig jaren hebben bereikt, bij koninklijk besluit op voordracht van de Minister voor Rechtsbescherming ontslagen.
+Vervallen
 
 ##### Artikel 3.4. Tijdelijke voorziening ten behoeve van de mondelinge behandeling in tuchtrechtelijke procedures
 
@@ -120,31 +108,31 @@ Wijzigt de Wet medische hulpmiddelen.
 
 ### Hoofstuk 5. Slotbepalingen
 
-##### Artikel 5.1. Overgangsrecht [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-06-01&g=2023-06-01), [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-06-01&g=2023-06-01)
+##### Artikel 5.1. Overgangsrecht [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-07-15&g=2023-07-15), [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-07-15&g=2023-07-15)
 
-Wanneer [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-06-01&g=2023-06-01) vervalt op grond van [artikel 5.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=5&artikel=5.4&z=2023-06-01&g=2023-06-01), blijven de benoemingen tot raadsheren-plaatsvervangers en rechters-plaatsvervangers die op grond van deze wet tot stand zijn gekomen van kracht, tot de eerste dag van de maand volgende op die waarin de raadsheer-plaatsvervanger of rechter-plaatsvervanger de leeftijd van drieënzeventig jaren heeft bereikt. Het ontslag vindt plaats bij koninklijk besluit op voordracht van de Minister voor Rechtsbescherming.
+Wanneer [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-07-15&g=2023-07-15) vervalt op grond van [artikel 5.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=5&artikel=5.4&z=2023-07-15&g=2023-07-15), blijven de benoemingen tot raadsheren-plaatsvervangers en rechters-plaatsvervangers die op grond van deze wet tot stand zijn gekomen van kracht, tot de eerste dag van de maand volgende op die waarin de raadsheer-plaatsvervanger of rechter-plaatsvervanger de leeftijd van drieënzeventig jaren heeft bereikt. Het ontslag vindt plaats bij koninklijk besluit op voordracht van de Minister voor Rechtsbescherming.
 
-##### Artikel 5.2. Inwerkingtreding en verval [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&z=2023-06-01&g=2023-06-01)
+##### Artikel 5.2. Inwerkingtreding en verval [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&z=2023-07-15&g=2023-07-15)
 
-1. Hoofdstuk 1 van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.2&z=2023-06-01&g=2023-06-01), en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.4&z=2023-06-01&g=2023-06-01), die in werking treden met ingang van 1 augustus 2020.
+1. Hoofdstuk 1 van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.2&z=2023-07-15&g=2023-07-15), en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.4&z=2023-07-15&g=2023-07-15), die in werking treden met ingang van 1 augustus 2020.
 
-2. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 augustus 2020, treden de [artikelen 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.2&z=2023-06-01&g=2023-06-01), en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.4&z=2023-06-01&g=2023-06-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werken deze artikelen terug tot en met 1 augustus 2020.
+2. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 1 augustus 2020, treden de [artikelen 1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.2&z=2023-07-15&g=2023-07-15), en [1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.4&z=2023-07-15&g=2023-07-15) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werken deze artikelen terug tot en met 1 augustus 2020.
 
-3. De [artikelen 1.1 tot en met 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.1&z=2023-06-01&g=2023-06-01) vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+3. De [artikelen 1.1 tot en met 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=1&artikel=1.1&z=2023-07-15&g=2023-07-15) vervallen op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-##### Artikel 5.3. Inwerkingtreding [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-06-01&g=2023-06-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-06-01&g=2023-06-01)
+##### Artikel 5.3. Inwerkingtreding [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-07-15&g=2023-07-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-07-15&g=2023-07-15)
 
-[Hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-06-01&g=2023-06-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-06-01&g=2023-06-01) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin hij wordt geplaatst.
+[Hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=2&z=2023-07-15&g=2023-07-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=4&z=2023-07-15&g=2023-07-15) van deze wet treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin hij wordt geplaatst.
 
-##### Artikel 5.4. Inwerkingtreding en verval [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-06-01&g=2023-06-01)
+##### Artikel 5.4. Inwerkingtreding en verval [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-07-15&g=2023-07-15)
 
-1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-06-01&g=2023-06-01) van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-07-15&g=2023-07-15) van deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In het koninklijk besluit kan worden bepaald dat de artikelen van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-06-01&g=2023-06-01) of onderdelen daarvan, terugwerken tot en met 18 juni 2020.
+2. In het koninklijk besluit kan worden bepaald dat de artikelen van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&z=2023-07-15&g=2023-07-15) of onderdelen daarvan, terugwerken tot en met 18 juni 2020.
 
-3. In afwijking van het eerste lid treedt [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.2&z=2023-06-01&g=2023-06-01) in werking met ingang van 1 december 2020, met dien verstande dat bij koninklijk besluit een eerder tijdstip kan worden bepaald waarop dit artikel in werking treedt, dan wel een later tijdstip dat steeds ten hoogste twee maanden later ligt dan het eerder geldende tijdstip.
+3. In afwijking van het eerste lid treedt [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.2&z=2023-07-15&g=2023-07-15) in werking met ingang van 1 december 2020, met dien verstande dat bij koninklijk besluit een eerder tijdstip kan worden bepaald waarop dit artikel in werking treedt, dan wel een later tijdstip dat steeds ten hoogste twee maanden later ligt dan het eerder geldende tijdstip.
 
-4. [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-06-01&g=2023-06-01) vervalt drie jaar na de inwerkingtreding daarvan. Het tijdstip waarop dit artikel vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop dit artikel zou vervallen.
+4. [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043880&hoofdstuk=3&artikel=3.3&z=2023-07-15&g=2023-07-15) vervalt drie jaar na de inwerkingtreding daarvan. Het tijdstip waarop dit artikel vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop dit artikel zou vervallen.
 
 5. Artikel 3.4 vervalt op 1 september 2020. Het tijdstip waarop dit artikel vervalt kan bij koninklijk besluit worden bepaald op een ander tijdstip, met dien verstande dat dit tijdstip steeds ten hoogste twee maanden na het tijdstip ligt waarop dit artikel zou vervallen.
 
