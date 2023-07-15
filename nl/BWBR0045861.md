@@ -4,7 +4,7 @@ identifier: "BWBR0045861"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2022-11-05"
+last_updated: "2023-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045861"
 soort: "ministeriele-regeling"
@@ -62,25 +62,25 @@ De Minister verstrekt aan gemeenten een specifieke uitkering ter bekostiging van
 
 ##### Artikel 3. Hoogte van de specifieke uitkering
 
-1. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2022-11-05&g=2022-11-05), bedraagt per gemeente honderd procent van de gederfde inkomsten in een begrotingsjaar die het rechtstreekse gevolg zijn van het kwijtschelden of restitueren van de verschuldigde schulden van gedupeerden en toeslagpartners.
+1. De hoogte van de uitkeringscomponent, bedoeld in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2022-11-05&g=2023-07-15), bedraagt per gemeente honderd procent van de gederfde inkomsten in een begrotingsjaar die het rechtstreekse gevolg zijn van het kwijtschelden of restitueren van de verschuldigde schulden van gedupeerden en toeslagpartners.
 
-2. Gemeenten ontvangen ter compensatie van de kosten, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2022-11-05&g=2022-11-05), een forfaitaire vergoeding van € 275,00 per gedupeerde die woonachtig is in de betreffende gemeente. Per gedupeerde wordt het forfaitaire bedrag, bedoeld in de eerste zin, eenmalig uitgekeerd.
+2. Gemeenten ontvangen ter compensatie van de kosten, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2022-11-05&g=2023-07-15), een forfaitaire vergoeding van € 275,00 per gedupeerde die woonachtig is in de betreffende gemeente. Per gedupeerde wordt het forfaitaire bedrag, bedoeld in de eerste zin, eenmalig uitgekeerd.
 
 ##### Artikel 4. Verantwoording
 
 1. Het college legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Indien de uitvoering van een wet als genoemd in paragraaf 2 van de bijlage bij deze regeling volledig aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) is opgedragen kan voor de vaststelling van de gederfde inkomsten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=3&z=2022-11-05&g=2022-11-05), de informatie in aanmerking worden genomen die het openbaar lichaam heeft verantwoord over het jaar waarop de vaststelling betrekking heeft. De eerste zin is slechts van toepassing indien de bedoelde informatie is vastgesteld overeenkomstig [artikel 34a van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a).
+2. Indien de uitvoering van een wet als genoemd in paragraaf 2 van de bijlage bij deze regeling volledig aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) is opgedragen kan voor de vaststelling van de gederfde inkomsten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=3&z=2022-11-05&g=2023-07-15), de informatie in aanmerking worden genomen die het openbaar lichaam heeft verantwoord over het jaar waarop de vaststelling betrekking heeft. De eerste zin is slechts van toepassing indien de bedoelde informatie is vastgesteld overeenkomstig [artikel 34a van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a).
 
 ##### Artikel 5. Procedure tot vaststelling van de uitkering
 
-1. De Minister stelt de hoogte van de specifieke uitkering per gemeente vast door de uitkeringscomponenten, bedoeld in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2022-11-05&g=2022-11-05), bij elkaar op te tellen.
+1. De Minister stelt de hoogte van de specifieke uitkering per gemeente vast door de uitkeringscomponenten, bedoeld in [artikel 2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=2&z=2022-11-05&g=2023-07-15), bij elkaar op te tellen.
 
-2. De specifieke uitkering wordt voor de eerste maal over het verantwoordingsjaar 2021 vastgesteld en vervolgens in ieder kalenderjaar op basis van de verantwoordingsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=4&z=2022-11-05&g=2022-11-05).
+2. De specifieke uitkering wordt voor de eerste maal over het verantwoordingsjaar 2021 vastgesteld en vervolgens in ieder kalenderjaar op basis van de verantwoordingsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=4&z=2022-11-05&g=2023-07-15).
 
 3. De Minister stelt de specifieke uitkering vast binnen een jaar na ontvangst door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-4. De gederfde inkomsten of kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=3&z=2022-11-05&g=2022-11-05), worden bij de vaststelling niet in aanmerking genomen indien deze gederfde inkomsten of kosten blijkens het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uit maakt van de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), als fout of onzeker worden aangemerkt.
+4. De gederfde inkomsten of kosten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=3&z=2022-11-05&g=2023-07-15), worden bij de vaststelling niet in aanmerking genomen indien deze gederfde inkomsten of kosten blijkens het verslag van bevindingen, bedoeld in [artikel 213, vierde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213), dat deel uit maakt van de informatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), als fout of onzeker worden aangemerkt.
 
 5. Indien de verantwoordingsinformatie, bedoeld in het derde lid, niet binnen achttien maanden na het kalenderjaar waarop het betrekking heeft door de Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen, stelt de Minister de specifieke uitkering ambtshalve vast.
 
@@ -122,7 +122,7 @@ Besluit:
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=1&z=2022-11-05&g=2022-11-05) in verband met enige begripsbepalingen
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045861&artikel=1&z=2022-11-05&g=2023-07-15) in verband met enige begripsbepalingen
 
 Vervallen
 
