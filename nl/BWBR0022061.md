@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2022-08-01"
+last_updated: "2023-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2022-08-01&g=2022-08-01) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2023-07-19&g=2023-07-19) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
@@ -146,7 +146,7 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 5. Overgangsrecht
 
-Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de paragrafen 2.53 tot en met 2.62 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2022-08-01&g=2022-08-01) behorende bij artikel 2, zoals deze luidden op 1 juli 2021, van toepassing.
+Op de centraal schriftelijke en praktische examens die in het schooljaar 2022–2023 worden afgenomen zijn de paragrafen 2.53 tot en met 2.62 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=2&z=2023-07-19&g=2023-07-19) behorende bij artikel 2, zoals deze luidden op 1 juli 2021, van toepassing.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -168,7 +168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 Vervallen
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2022-08-01&g=2022-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2023-07-19&g=2023-07-19) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -3182,19 +3182,19 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 
 ### 2.2. Franse taal
 
-### 2.40. consumptief-breed
+### 2.2. Franse taal
 
 ### 2.41. consumptief-horeca
 
 ### 2.3. Duitse taal
 
-### 2.43. administratie
+### 2.3. Duitse taal
 
 ### 2.44. handel en administratie
 
 ### 2.4. Engelse taal
 
-### 2.46. mode en commercie
+### 2.4. Engelse taal
 
 ### 2.47. Techniek-breed
 
@@ -3202,7 +3202,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 
 ¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
-² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
 ### 2.6. Turkse taal
 
@@ -3212,7 +3212,9 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 
 ### 2.7. Arabische taal
 
-### 2.42. consumptief-bakken
+### 2.7. Arabische taal
+
+### 2.8. Friese taal en cultuur
 
 ### 2.8. Friese taal en cultuur
 
@@ -3236,8 +3238,6 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 
 ### 2.17. Aardrijkskunde
 
-### De vier modulen
-
 ### Profielmodulen
 
 ### 2.54. produceren, installeren en energie
@@ -3246,7 +3246,7 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 
 ### 2.18. geschiedenis en staatsinrichting vmbo
 
-### Profielmodulen
+### 2.18. geschiedenis en staatsinrichting vmbo
 
 ### 2.55. mobiliteit en transport
 
@@ -3254,19 +3254,21 @@ Hieronder worden de examenprogramma's per vak gedefinieerd in exameneenheden met
 
 ### 2.19. economie
 
+### 2.19. economie
+
 ### 2.20. beeldende vorming
 
 ### 2.21. muziek
-
-### 2.22. drama
 
 In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoetst: 3, 5, 6, 11, 12, 17 en 18. In het centraal examen (CE) voor GL/TL worden bovendien de eindtermen 22, 24 en 26 getoetst.
 
 De overige eindtermen worden in het schoolexamen (SE) getoetst.
 
-### 2.53. Bouwen, wonen en interieur
+### 2.52. lichamelijke opvoeding 2
 
 De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.
+
+### 2.54. Dienstverlening en producten
 
 ### 2.55. Economie en ondernemen
 
@@ -3284,13 +3286,11 @@ De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL 
 
 ### 2.62. Profiel Media, vormgeving en ict
 
-### 2.58. Zorg en welzijn
-
 ### 2.59. Economie en ondernemen
 
 ### 2.63. informatietechnologie
 
-### De vier profielmodulen
+### 2.63. informatietechnologie
 
 ### Profielmodulen
 
@@ -4338,21 +4338,23 @@ Eindterm 3 wordt zowel in het schoolexamen als in het centraal examen getoetst.
 
 ¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
-² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
 ¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
-### 2.36. metalektro
+### 2.5. Spaanse taal
 
 ### 2.48. ICT-route
 
-### 2.49. Technologie in de gemengde leerweg
+### 2.6. Turkse taal
 
 ## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2011-08-01&g=2011-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
 
-De overige eindtermen worden in het schoolexamen (SE) getoetst.
+In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoetst: 3, 5, 6, 11, 12, 17 en 18. In het centraal examen (CE) voor GL/TL worden bovendien de eindtermen 22, 24 en 26 getoetst.
 
-Voor een leerling in de basis- en kaderberoepsgerichte leerweg bestaat het examenprogramma uit:
+De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.
+
+1. Het schoolexamen moet in ieder geval bestaan uit **2** exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, GS/K/9 en GS/K/11.
 
 1. Het schoolexamen moet in ieder geval bestaan uit **2** exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, GS/K/9 en GS/K/11.
 
@@ -4360,13 +4362,11 @@ Voor een leerling in de basis- en kaderberoepsgerichte leerweg bestaat het exame
 
 3. De school kan één of meer van de exameneenheden V1 t/m V6 in de gemengde en theoretische leerweg toetsen op het schoolexamen, maar is daartoe niet verplicht.
 
-De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
-
 ² Het schoolexamen moet in ieder geval bestaan uit **3** exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.
 
 ¹ De school kan één of meer van de exameneenheden V1 t/m V6 in de Gemengde en Theoretische Leerweg toetsen op het schoolexamen maar is daartoe niet verplicht.
 
-### 2.23. dans
+### 2.22. drama
 
 De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.
 
@@ -4380,7 +4380,7 @@ Kenmerkend voor de beroepen in zorg en welzijn (Z&W) is het werken met en voor m
 
 1 Met devices bedoelen we hier een PC, laptop, tablet, smartphone of singleboard computer
 
-2 Met apparatuur bedoelen we hier sensoren, actuatoren en randapparatuur
+1 Met devices bedoelen we hier een PC, laptop, tablet, smartphone of singleboard computer
 
 ¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen
 
@@ -4634,17 +4634,17 @@ De overige eindtermen worden in het schoolexamen (SE) getoetst.
 
 ## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2012-08-01&g=2012-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
 
-indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft;
-
 ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
 [1] Het CvTE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
-[2] Het CvTE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+[1] Het CvTE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
 
-¹ = Keuze: Basisberoepsgerichte leerweg, Kaderberoepsgerichte en Gemengde leerweg: ICT/6 of ICT/7. De leerling kiest binnen het aanbod van de school zoals bepaald door het bevoegd gezag van de school.
+² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
-Sectordeel Zorg en welzijn
+² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
 ¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen
 
@@ -4660,9 +4660,9 @@ De school geeft in een leerplan Techniek Breed aan welke van de niet verplichte 
 
 De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
 
-### 2.52. lichamelijke opvoeding 2
+### 2.23. dans
 
-### 2.54. Dienstverlening en producten
+### 2.53. Bouwen, wonen en interieur
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -4824,19 +4824,19 @@ Het eindexamen bestaat uit het schoolexamen.
 
 Daarnaast heeft het schoolexamen betrekking op:
 
-Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden).
-
-Metaaltechniek, elektrotechniek, installatietechniek, instalektro, metalektro (met als codering voor het gezamenlijke CE: MEI)
-
-¹ Is keuzeonderwerp c.q. keuze exameneenheid.
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op NE/K/4; dit kan per leerweg verschillen.
 
 ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
-Sectordeel Techniek
+[2] Het CvTE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen
+
+¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen
+
+De overige eindtermen worden in het schoolexamen (SE) getoetst.
 
 Eindterm 3 wordt zowel in het schoolexamen als in het centraal examen getoetst.
-
-De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -5466,7 +5466,7 @@ Het eindexamen bestaat uit het schoolexamen.
 
 3. De school kan één of meer van de exameneenheden V1 t/m V6 in de gemengde en theoretische leerweg toetsen op het schoolexamen, maar is daartoe niet verplicht.
 
-¹ Het CvE kan bepalen dat het centraal examen geen betrekking heeft op NE/K/4; dit kan per leerweg verschillen.
+Bij de uitvoering van het examenprogramma Nederlandse taal worden de referentieniveaus Nederlandse taal in acht genomen, bedoeld in [artikel 2, onderdelen e en f, van het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&artikel=2).
 
 ¹ = Keuze: Basisberoepsgerichte leerweg, Kaderberoepsgerichte en Gemengde leerweg: ICT/6 of ICT/7. De leerling kiest binnen het aanbod van de school zoals bepaald door het bevoegd gezag van de school.
 
@@ -6474,7 +6474,7 @@ Het schoolexamen heeft betrekking op:
 
 Voor een leerling in de gemengde leerweg bestaat het examenprogramma uit:
 
-Sectordeel Techniek
+2 Met apparatuur bedoelen we hier sensoren, actuatoren en randapparatuur
 
 Voor een leerling in de basis- en kaderberoepsgerichte leerweg bestaat het examenprogramma uit:
 
@@ -6620,7 +6620,41 @@ Het schoolexamen heeft betrekking op de (sub)domeinen B4 en B5, F, en G, in comb
 
 indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2022-08-01&g=2022-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2023-07-19&g=2023-07-19) van de Regeling examenprogramma’s voortgezet onderwijs
+
+## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
+
+De vaardigheden worden niet in het centrale examen getoetst.
+
+De kandidaat is in staat zijn eigen loopbaanontwikkeling vorm te geven. Hij doet dat met een oriëntatie op een toekomstige opleiding en (loop)baan door middel van reflectie op het eigen handelen en reflectie op ervaringen.
+
+- 1. De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op
+
+systematische wijze om te gaan met ‘loopbaancompetenties’:
+
+- 1. Wat kan ik het best en hoe weet ik dat? [Kwaliteitenreflectie]
+
+- 2. Waar ga en sta ik voor en waarom dan? [Motievenreflectie]
+
+- 3. Waar ben ik het meest op mijn plek en waarom daar? [Werkexploratie]
+
+- 4. Hoe bereik ik mijn doel en waarom zo? [Loopbaansturing]
+
+- 5. Wie kan mij helpen mijn doel te bereiken en waarom die mensen? [Netwerken]
+
+- 2. De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen door middel van een ‘loopbaandossier’.
+
+In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten:
+
+- I. de beoogde doelen
+
+- II. de resultaten
+
+- III. de evaluatie en een conclusie
+
+- IV. welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ## Bijlage 3. Loopbaanoriëntatie en -ontwikkeling in de theoretische leerweg van het vmbo
 
