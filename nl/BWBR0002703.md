@@ -4,7 +4,7 @@ identifier: "BWBR0002703"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-07-20"
-last_updated: "1994-06-29"
+last_updated: "2023-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002703"
 soort: "AMvB"
@@ -70,11 +70,13 @@ Als kustwater, bedoeld in artikel 1, vierde lid, onder **c,** van de [Visserijwe
 
 - a. de Maasmond;
 
-- b. de Nieuwe Waterweg tot de lijn gaande van het oostelijk havenhoofd van Maassluis naar het groene scheepvaartgeleidelicht no. 14;
+- b. de Nieuwe Waterweg tot de lijn gaande van het oostelijk havenhoofd van Maassluis naar het punt met het coördinaat 51°54.649'NB 04°14.870'OL;
 
-- c. het Calandkanaal, met de daaraan gelegen open havens, tot aan de meest zeewaarts gelegen waterkering;
+- c. het Calandkanaal met de daaraan direct en indirect gelegen open havens;
 
-- d. het Beerkanaal met de daaraan gelegen open havens.
+- d. het Beerkanaal, voor zover gelegen ten westen van de lijn tussen de coördinaten 51°56.573'NB 04°04.990'OL en 51°56.358'NB 04°04.760'OL, met de daaraan direct en indirect gelegen open havens;
+
+- e. het Yangtzekanaal met de daaraan direct en indirect gelegen open havens.
 
 - 3. Het zeegat van Goeree, landwaarts van een lijn getrokken tussen punt A (51°55'20"NB 03°59'23"OL) en punt B (51°50'00"NB 03°50'01"OL) tot de meest zeewaarts gelegen waterkeringen in het zuidwesten begrensd door de lijn getrokken vanaf de vuurtoren Westhoofd op Goeree (51°48'50"NB 03°51'55"OL) in noordwestelijke richting (315° r.w.) tot punt B.
 
@@ -92,7 +94,7 @@ Waar kustwateren in verbinding staan met wateren, bedoeld in artikel 1, vierde l
 
 - a. waar geen open verbinding is, de waterkering, welke het dichtst gelegen is bij het kustwater;
 
-- b. waar een open verbinding is, de lijn gaande over de uitmonding, met dien verstande dat in de Nieuwe Waterweg als grens geldt de lijn gaande van het oostelijk havenhoofd van Maassluis naar het groene scheepvaartgeleidelicht No. 14.
+- b. waar een open verbinding is, de lijn gaande over de uitmonding, met dien verstande dat in de Nieuwe Waterweg als grens geldt de lijn gaande van het oostelijk havenhoofd van Maassluis naar het punt met het coördinaat 51°54.649'NB 04°14.870'OL.
 
 ##### Artikel 4
 
@@ -101,5 +103,11 @@ Ons besluit van 21 mei 1964 (**Stb.** 1964, 163) wordt ingetrokken.
 ##### Artikel 5
 
 Dit besluit treedt in werking op 1 mei 1970. Het kan worden aangehaald als "Besluit aanwijzing zeegebied en kustwateren" met vermelding van het jaartal van het **Staatsblad**, waarin het is geplaatst.
+
+Onze Minister van Landbouw en Visserij is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 2a
+
+De coördinaten in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002703&artikel=2&z=2023-07-20&g=2023-07-20) zijn uitgedrukt in lengte en breedte volgens het World Geodetic System 84 (WGS84), in graden en minuten en, in voorkomend geval, in seconden.
 
 Onze Minister van Landbouw en Visserij is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
