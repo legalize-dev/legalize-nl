@@ -4,7 +4,7 @@ identifier: "BWBR0048417"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-25"
-last_updated: "2023-02-01"
+last_updated: "2023-07-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048417"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - e. **de DG’s:** de directeur-generaal Belastingdienst, de directeur-generaal Toeslagen, de directeur-generaal Douane, de directeur-generaal Rijksbegroting, de directeur-generaal Fiscale Zaken en de thesaurier-generaal van het Ministerie van Financiën;
 
-- f. **de commissie:** de Commissie sociale veiligheid en integriteit Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048417&artikel=2&z=2023-07-20&g=2023-02-01);
+- f. **de commissie:** de Commissie sociale veiligheid en integriteit Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048417&artikel=2&z=2023-07-20&g=2023-07-20);
 
 - g. **betrokkene:** een medewerker, voormalig medewerker, stagiair, vrijwilliger, oproepkracht, gedetacheerde dan wel een persoon die individueel of als groep anderszins arbeid verricht of heeft verricht bij het Ministerie;
 
