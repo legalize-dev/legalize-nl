@@ -4,7 +4,7 @@ identifier: "BWBR0047996"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-21"
-last_updated: "2023-03-25"
+last_updated: "2023-07-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047996"
 soort: "ministeriele-regeling"
@@ -146,7 +146,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. Wijze van verdeling beschikbare middelen
 
-Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie leidt tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047996&artikel=5&z=2023-03-25&g=2023-03-25), krijgen de aanvragen van de vestigingen van scholen op Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
+Indien de toewijzing van alle daarvoor in aanmerking komende aanvragen voor een subsidie leidt tot overschrijding van een subsidieplafond als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047996&artikel=5&z=2023-07-21&g=2023-07-21), krijgen de aanvragen van de vestigingen van scholen op Caribisch Nederland voorrang. Vervolgens worden de overige aanvragen ten laste van het betreffende deelplafond als volgt gerangschikt:
 
 - a. aanvragen ten behoeve van het primair onderwijs, niet zijnde speciaal basisonderwijs en speciaal onderwijs of voortgezet speciaal onderwijs, worden gerangschikt op volgorde van de hoogste naar de laagste achterstandsscore (peildatum 1 februari 2022) zonder drempel per leerling per vestiging;
 
@@ -162,9 +162,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - a. indien aan het bevoegd gezag voor de desbetreffende vestiging eerder subsidie is verstrekt op grond van de [Subsidieregeling verbetering basisvaardigheden](https://wetten.overheid.nl/jci1.3:c:BWBR0047050);
 
-- b. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het po of afdeling in het vo door de Inspectie van het onderwijs op peildatum 1 september 2022 of 1 februari 2023 als zeer zwak of onvoldoende is beoordeeld; en
-
-- c. het bevoegd gezag voor de desbetreffende schoolvestiging een aanvraag heeft ingediend voor de Subsidieregeling Ontwikkelkracht.
+- b. indien de kwaliteit van het onderwijs van de desbetreffende schoolvestiging in het po of afdeling in het vo door de Inspectie van het onderwijs op peildatum 1 september 2022 of 1 februari 2023 als zeer zwak of onvoldoende is beoordeeld.
 
 ##### Artikel 9. Subsidieverplichtingen
 
