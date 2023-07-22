@@ -4,7 +4,7 @@ identifier: "BWBR0048431"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-06-28"
-last_updated: "2023-03-01"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048431"
 soort: "ministeriele-regeling"
@@ -94,13 +94,13 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden clusters Ministerie 
 
 ##### Artikel 3. Aanwijzing leidinggevende en doorgeven volmacht en machtiging
 
-1. Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen en gevolmachtigd de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=1&z=2023-07-22&g=2023-03-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+1. Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder hun dienstonderdeel ressorterende ambtenaren, worden aangewezen en gevolmachtigd de functionarissen, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=1&z=2023-07-22&g=2023-07-22) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 2. Als leidinggevende in de zin van paragraaf 1.3 van de CAO Rijk, ten aanzien van de onder de afdeling Strategie en Communicatie ressorterende ambtenaren wordt de directeur van de directie Strategie, Kwaliteit en Bedrijfsvoering aangewezen en gevolmachtigd.
 
 ##### Artikel 4. Mandaten en volmachten voor het aangaan van financiële verplichtingen en het doen van uitgaven
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van financiële verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=2&z=2023-07-22&g=2023-03-01) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van financiële verplichtingen en voor het verrichten van uitgaven, worden aangewezen de functionarissen, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&bijlage=2&z=2023-07-22&g=2023-07-22) bij dit besluit voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 5. Mandaat en volmacht hoofdinspecteur-directeur BSH en afdelingsmanager afdeling Handhaving voor handhavingsbesluiten
 
@@ -130,11 +130,11 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als Mandaatbesluit Inspectie Justitie en Veiligheid 2023.
 
-## Bijlage 1. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=3&z=2023-07-22&g=2023-03-01) van het Mandaatbesluit Inspectie Justitie en Veiligheid 2023
+## Bijlage 1. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=3&z=2023-07-22&g=2023-07-22) van het Mandaatbesluit Inspectie Justitie en Veiligheid 2023
 
-De functionarissen bij wie in kolom 2 de letter A is geplaatst zijn, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=2&z=2023-07-22&g=2023-03-01) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
+De functionarissen bij wie in kolom 2 de letter A is geplaatst zijn, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=2&z=2023-07-22&g=2023-07-22) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend.
 
-De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=2&z=2023-07-22&g=2023-03-01) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van het opleggen van disciplinaire straffen en ordemaatregelen, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
+De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=2&z=2023-07-22&g=2023-07-22) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van het opleggen van disciplinaire straffen en ordemaatregelen, alsmede het nemen van beslissingen over de toekenning van een persoonsgebonden dienstauto.
 
 |   |   | Kolom 1 | Kolom 2 |
 | --- | --- | --- | --- |
@@ -150,7 +150,7 @@ De functionarissen bij wie in kolom 2 de letter B is geplaatst zijn, onverminder
 | 1.8 |   | manager afdeling Kennis en Kwaliteitscentrum | B |
 | 1.9 |   | manager afdeling Bedrijfsvoering | B |
 
-## Bijlage 2. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=4&z=2023-07-22&g=2023-03-01) van het Mandaatbesluit Inspectie Justitie en Veiligheid 2023
+## Bijlage 2. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048431&artikel=4&z=2023-07-22&g=2023-07-22) van het Mandaatbesluit Inspectie Justitie en Veiligheid 2023
 
 De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3) tot het aangaan van verplichtingen en het doen van uitgaven.
 
