@@ -4,7 +4,7 @@ identifier: "BWBR0042394"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2022-03-02"
+last_updated: "2023-07-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042394"
 soort: "wet"
@@ -61,13 +61,19 @@ In deze wet wordt verstaan onder:
 
 - **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
 
-- **verordening governance van de energie-unie:** [Verordening (EU) 2018/1999](32018R1999) van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van [Richtlijn 94/22/EG](31994L0022), [Richtlijn 98/70/EG](31998L0070), [Richtlijn 2009/31/EG](32009L0031), Verordening (EG) nr. 663/2009, Verordening (EG) nr. 715/2009, [Richtlijn 2009/73/EG](32009L0073), [Richtlijn 2009/119/EG](32009L0119) van de Raad, [Richtlijn 2010/31](32010L0031)/EU, [Richtlijn 2012/27](32012L0027)/EU, [Richtlijn 2013/30](32013L0030)/EU en [Richtlijn (EU) 2015/652](32015L0652) van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 (PbEU 2018, L328).
+- **verordening governance van de energie-unie:** [Verordening (EU) 2018/1999](32018R1999) van het Europees Parlement en de Raad van 11 december 2018 inzake de governance van de energie-unie en van de klimaatactie, tot wijziging van [Richtlijn 94/22/EG](31994L0022), [Richtlijn 98/70/EG](31998L0070), [Richtlijn 2009/31/EG](32009L0031), Verordening (EG) nr. 663/2009, Verordening (EG) nr. 715/2009, [Richtlijn 2009/73/EG](32009L0073), [Richtlijn 2009/119/EG](32009L0119) van de Raad, [Richtlijn 2010/31](32010L0031)/EU, [Richtlijn 2012/27](32012L0027)/EU, [Richtlijn 2013/30](32013L0030)/EU en [Richtlijn (EU) 2015/652](32015L0652) van de Raad, en tot intrekking van Verordening (EU) nr. 525/2013 (PbEU 2018, L328);
+
+- **Europese klimaatwet:** [Verordening (EU) 2021/1119](32021R1119) van het Europees Parlement en de Raad van 30 juni 2021 tot vaststelling van een kader voor de verwezenlijking van klimaatneutraliteit, en tot wijziging van [Verordening (EG) nr. 401/2009](32009R0401) en [Verordening (EU) 2018/1999](32018R1999) (Pb EU 2021, L 243).
 
 ##### Artikel 2
 
-1. Deze wet biedt een kader voor de ontwikkeling van beleid gericht op het onomkeerbaar en stapsgewijs terugdringen van de emissies van broeikasgassen in Nederland, tot een niveau dat 95% lager ligt in 2050 dan in 1990, teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken.
+1. Deze wet biedt een kader voor de ontwikkeling van beleid gericht op het onomkeerbaar en stapsgewijs terugdringen van de emissies van broeikasgassen in Nederland teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken, waarbij Nederland overeenkomstig artikel 2, eerste lid, van de Europese klimaatwet:
 
-2. Teneinde deze doelstelling voor 2050 te bereiken streven Onze Ministers die het aangaat naar een reductie van de emissies van broeikasgassen van 49% in 2030 en een volledige CO2-neutrale elektriciteitsproductie in 2050.
+- a. de netto-uitstoot van broeikasgassen uiterlijk in 2050 tot nul reduceert, en
+
+- b. streeft naar negatieve emissies van broeikasgassen na 2050.
+
+2. Teneinde deze doelstelling voor 2050 te bereiken streven Onze Ministers die het aangaat naar een reductie van de emissies van broeikasgassen van 55% ten opzichte van 1990 in 2030 en een volledige CO2-neutrale elektriciteitsproductie in 2050. Zij treffen daarnaast passende maatregelen opdat Nederland voldoet aan de reductieverplichtingen op grond van artikel 4, eerste lid, van de Europese klimaatwet en de ter uitwerking daarvan vastgestelde bindende EU-rechtshandelingen.
 
 3. Voor de toepassing van deze wet geldt als de emissies van broeikasgassen de emissies binnen Nederland van broeikasgassen afkomstig van sectoren en bronnen en de verwijdering per put die in de nationale broeikasgasinventarissen overeenkomstig artikel 4, eerste lid, onder a, van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering (Trb. 1992, 189) zijn opgenomen.
 
@@ -75,11 +81,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), voor de eerstvolgende tien jaren.
+1. Het klimaatplan bevat de hoofdzaken van het door Onze Ministers die het aangaat te voeren klimaatbeleid gericht op het realiseren van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22), voor de eerstvolgende tien jaren.
 
 2. Het klimaatplan bevat tevens:
 
-- a. de maatregelen die worden getroffen zodat de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), worden bereikt;
+- a. de maatregelen die worden getroffen zodat de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22), worden bereikt;
 
 - b. het verwachte aandeel hernieuwbare energie en de verwachte besparing op het primaire energiegebruik;
 
@@ -109,7 +115,7 @@ In deze wet wordt verstaan onder:
 
 3. De Afdeling advisering van de Raad van State wordt over het klimaatplan gehoord.
 
-4. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord beide kamers der Staten-Generaal, het klimaatplan wijzigen indien dit naar zijn oordeel noodzakelijk is om de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), te realiseren. Het tweede en derde lid zijn van overeenkomstige toepassing.
+4. Onze Minister kan, in overeenstemming met het gevoelen van de ministerraad en gehoord beide kamers der Staten-Generaal, het klimaatplan wijzigen indien dit naar zijn oordeel noodzakelijk is om de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22), te realiseren. Het tweede en derde lid zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Verantwoording
 
@@ -145,7 +151,7 @@ In deze wet wordt verstaan onder:
 
 - e. de wijze waarop de klimaat- en energieverkenning wordt betrokken bij de eerstvolgende herziening of de evaluatie van de voortgang van het klimaatplan, en
 
-- f. de rapportage over de voortgang van de uitvoering van het klimaatplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), als deze is uitgevoerd.
+- f. de rapportage over de voortgang van de uitvoering van het klimaatplan, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=2&artikel=4&z=2023-07-22&g=2023-07-22), als deze is uitgevoerd.
 
 4. De Afdeling advisering van de Raad van State wordt over de klimaatnota gehoord.
 
@@ -153,11 +159,11 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 8
 
-1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
+1. Ten behoeve van de uitvoering van deze wet en het behalen van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22), voert Onze Minister overleg met bestuursorganen van provincies, waterschappen, gemeenten en overige relevante partijen.
 
 2. In het overleg worden in ieder geval de voortgang van de uitvoering van het vigerende klimaatplan en voorstellen voor maatregelen voor het in voorbereiding zijnde klimaatplan besproken.
 
-3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02).
+3. Onze Minister bevordert door middel van het overleg het sluiten van overeenkomsten met partijen, gericht op het bereiken van de doelstellingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042394&hoofdstuk=1&artikel=2&z=2023-07-22&g=2023-07-22).
 
 ### Hoofdstuk 5. Slotbepalingen
 
