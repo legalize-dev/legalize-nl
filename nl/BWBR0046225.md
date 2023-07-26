@@ -4,7 +4,7 @@ identifier: "BWBR0046225"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2023-05-01"
+last_updated: "2023-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046225"
 soort: "ministeriele-regeling"
@@ -74,11 +74,11 @@ entry_into_force: "2022-01-22"
 
 ##### Artikel 3
 
-1. Aan de plaatsvervangend inspecteur-generaal, de directeuren, de divisiehoofden, de afdelingshoofden en de teamleiders wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen het door de inspecteur-generaal vastgestelde bedrag niet te boven gaat.
+1. Aan de plaatsvervangend inspecteur-generaal, de directeuren, de plaatsvervangend directeur Interne Organisatie, de divisiehoofden, de afdelingshoofden en de teamleiders wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen het door de inspecteur-generaal vastgestelde bedrag niet te boven gaat.
 
 2. Aan de plaatsvervangend inspecteur-generaal, de directeur Strategie, de directeur Handhaven, de directeur Keuren en de directeur Interne Organisatie wordt ondermandaat, volmacht en machtiging verleend voor het afnemen van de ambtseed en -belofte van medewerkers van de Nederlandse Voedsel en Waren Autoriteit.
 
-3. Onverminderd het bepaalde in het eerste lid, wordt aan de directeuren, en de divisiehoofden, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
+3. Onverminderd het bepaalde in het eerste lid, wordt aan de directeuren, de plaatsvervangend directeur Interne Organisatie, en de divisiehoofden, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
 - a. het aanbieden en beëindigen van een arbeidsovereenkomst voor onbepaalde of bepaalde tijd;
 
@@ -154,7 +154,7 @@ entry_into_force: "2022-01-22"
 
 ##### Artikel 4
 
-Aan de Chief Veterinary Inspector, de Chief Food Safety Officer, de Director National Plant Protection Organisation, de senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand, de inspecteurs van de afdeling Dier, de inspecteurs van de afdeling Plant, vis, EU en natuur en de liaison agressie en geweld wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen het door de directieraad vastgestelde bedrag niet te boven gaat.
+Aan de Chief Nature and Environment Officer, Chief Veterinary Inspector, de Chief Food Safety Officer, de Director National Plant Protection Organisation, de senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand, de inspecteurs van de afdeling Dier, de inspecteurs van de afdeling Plant, vis, EU en natuur en de liaison agressie en geweld wordt, ieder voor zich, ondermandaat en machtiging verleend voor aangelegenheden op hun werkterrein.
 
 ##### Artikel 5
 
@@ -184,25 +184,31 @@ In dit besluit wordt verstaan onder:
 
 - c. **de directeuren:** de directeur Strategie, de directeur Handhaven, de directeur Keuren en de directeur Interne Organisatie, de directeur Bureau Risicobeoordeling & Onderzoek, de directeur Inlichtingen & Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit;
 
-- d. **de Chief Veterinary Inspector:** de Chief Veterinary Inspector van de Nederlandse Voedsel- en Warenautoriteit;
+- d. **de plaatsvervangend directeur Interne Organisatie:** de plaatsvervangend directeur Interne Organisatie van de Nederlandse Voedsel- en Warenautoriteit;
 
-- e. **de Chief Food Safety Officer:** de Chief Food Safety Officer van de Nederlandse Voedsel- en Warenautoriteit;
+- e. **de Chief Nature and Environment Officer:** de Chief Nature and Environment Officer van de Nederlandse Voedsel- en Warenautoriteit
 
-- f. **de Director National Plant Protection Organisation:** de Director National Plant Protection Organi-sation van de Nederlandse Voedsel- en Warenautoriteit;
+- f. **de Chief Veterinary Inspector:** de Chief Veterinary Inspector van de Nederlandse Voedsel- en Warenautoriteit;
 
-- g. **de divisiehoofden:** de divisiehoofden van de Nederlandse Voedsel-en Warenautoriteit;
+- g. **de Chief Food Safety Officer:** de Chief Food Safety Officer van de Nederlandse Voedsel- en Warenautoriteit;
 
-- h. **de afdelingshoofden:** de afdelingshoofden van een directie of divisie van de Nederlandse Voedsel- en Warenautoriteit;
+- h. **de Director National Plant Protection Organisation:** de Director National Plant Protection Organisation van de Nederlandse Voedsel- en Warenautoriteit;
 
-- i. **de teamleiders:** de teamleiders van een directie, divisie of afdeling van de Nederlandse Voedsel- en Warenautoriteit;
+- i. **de divisiehoofden:** de divisiehoofden van de Nederlandse Voedsel-en Warenautoriteit;
 
-- j. **de inspecteurs van de afdeling Dier:** de inspecteurs van de afdeling Dier van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
+- j. **de afdelingshoofden:** de afdelingshoofden van een directie of divisie van de Nederlandse Voedsel- en Warenautoriteit;
 
-- k. **de inspecteurs van de afdeling Plant, vis, EU en natuur:** de inspecteurs van de afdeling Plant, vis, EU en natuur van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
+- k. **de teamleiders:** de teamleiders van een directie, divisie of afdeling van de Nederlandse Voedsel- en Warenautoriteit;
 
-- l. **de senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand:** senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand die toezichthoudend dierenarts, dan wel senior toezichthoudend dierenarts zijn;
+- l. dit onderdeel is nog niet in werking getreden;
 
-- m. **de liaison agressie en geweld:** de liaison agressie en geweld van de Nederlandse Voedsel- en Warenautoriteit.
+- m. **de inspecteurs van de afdeling Dier:** de inspecteurs van de afdeling Dier van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
+
+- n. **de inspecteurs van de afdeling Plant, vis, EU en natuur:** de inspecteurs van de afdeling Plant, vis, EU en natuur van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
+
+- o. **de senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand:** senior inspecteurs bij de divisie Veterinair en Import en de afdeling Certificeren op afstand die toezichthoudend dierenarts, dan wel senior toezichthoudend dierenarts zijn;
+
+- p. **de liaison agressie en geweld:** de liaison agressie en geweld van de Nederlandse Voedsel- en Warenautoriteit.
 
 #### § 2. Taakverdeling
 
@@ -210,7 +216,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 7
 
-De uit dit besluit voor de directeur Strategie voortvloeiende bevoegdheden gaan in geval van afwezigheid over op zijn plaatsvervanger.
+1. De uit dit besluit voor de directeur Interne Organisatie, voortvloeiende bevoegdheden gaan ingeval van afwezigheid over op de plaatsvervangend directeur Interne Organisatie met uitzondering van het bepaalde in artikel 3, tweede lid.
+
+2. De uit dit besluit voor de directeur Strategie voortvloeiende bevoegdheden gaan ingeval van afwezigheid over op zijn plaatsvervanger.
+
+3. De uit dit besluit voor de Chief Nature and Environment Officer de Chief Veterinary Inspector, de Chief Food Safety Officer, de Director National Plant Protection Organisation voortvloeiende bevoegdheden gaan in geval van afwezigheid, ieder voor zich, over op zijn plaatsvervanger, zijnde één van de in dit lid genoemde functionarissen.
 
 #### § 4. Slotbepalingen
 
@@ -224,7 +234,7 @@ Het [Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2023-07-26&g=2023-05-01) terug tot 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2023-07-26&g=2023-07-26) terug tot 1 januari 2019.
 
 ##### Artikel 11
 
