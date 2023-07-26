@@ -4,7 +4,7 @@ identifier: "BWBR0041256"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-07-26"
-last_updated: "2023-01-01"
+last_updated: "2023-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041256"
 soort: "zbo"
@@ -83,7 +83,7 @@ In deze regeling wordt verstaan onder:
 
 - d). bekend zijn met de ‘Werkinstructie verzoekprocedures moratorium, voorlopige voorziening, dwangakkoord’, zoals te vinden is op www.bureauwsnp.nl.
 
-2. De Raad kan in zwaarwegende omstandigheden de overeenkomst weigeren aan te gaan indien uit concrete feiten of omstandigheden is gebleken, al dan niet naar aanleiding van een eerder advies van de klachtencommissie, van enig handelen of nalaten in strijd met een zorgvuldige en doelmatige rechtsbijstandverlening en/of niet hebben voldaan aan de voorwaarden genoemd in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=3&z=2018-08-21&g=2023-01-01).
+2. De Raad kan in zwaarwegende omstandigheden de overeenkomst weigeren aan te gaan indien uit concrete feiten of omstandigheden is gebleken, al dan niet naar aanleiding van een eerder advies van de klachtencommissie, van enig handelen of nalaten in strijd met een zorgvuldige en doelmatige rechtsbijstandverlening en/of niet hebben voldaan aan de voorwaarden genoemd in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=3&z=2023-07-26&g=2023-07-26).
 
 ##### Artikel 3
 
@@ -107,11 +107,11 @@ In deze regeling wordt verstaan onder:
 
 - ii. de [gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0034033); en/of
 
-- iii. de in [artikel 2 lid 1 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=2&z=2018-08-21&g=2023-01-01) van deze regeling gestelde voorwaarde;
+- iii. de in [artikel 2 lid 1 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=2&z=2023-07-26&g=2023-07-26) van deze regeling gestelde voorwaarde;
 
 - b). indien het bestuur, al dan niet naar aanleiding van een advies van de klachtencommissie, tot oordeel komt dat voortzetting van de overeenkomst niet langer verantwoord is.
 
-3. De beëindiging van de overeenkomst geldt voor een periode van minimaal één jaar. Voor het sluiten van een nieuwe overeenkomst gelden de voorwaarden zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=2&z=2018-08-21&g=2023-01-01) van deze regeling.
+3. De beëindiging van de overeenkomst geldt voor een periode van minimaal één jaar. Voor het sluiten van een nieuwe overeenkomst gelden de voorwaarden zoals benoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=2&z=2023-07-26&g=2023-07-26) van deze regeling.
 
 ##### Artikel 4
 
@@ -127,27 +127,31 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-De rechtsbijstand waarvoor een toevoeging kan worden verleend, is strikt beperkt tot het voeren van verzoekschriftenprocedures, zoals bedoeld in [artikel 1 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=1&z=2018-08-21&g=2023-01-01).
+De rechtsbijstand waarvoor een toevoeging kan worden verleend, is strikt beperkt tot het voeren van verzoekschriftenprocedures, zoals bedoeld in [artikel 1 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=1&z=2023-07-26&g=2023-07-26).
 
 ##### Artikel 6
 
 1. In afwijking van het bepaalde in het [Besluit vergoedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) bedraagt de vergoeding:
 
-- a). € 890 voor een dwangakkoord ([artikel 287a Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287a)), bij een volledig doorlopen procedure inclusief het daadwerkelijk voeren van de procedure bij de rechtbank;
+- a). € 1.049 voor een dwangakkoord ([artikel 287a Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287a)), bij een volledig doorlopen procedure inclusief het daadwerkelijk voeren van de procedure bij de rechtbank;
 
-- b). € 700 voor een moratorium en voorlopige voorziening ([artikel 287 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287), en [287b Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287b)), bij een volledig doorlopen procedure inclusief het daadwerkelijk voeren van de procedure bij de rechtbank.
+- b). € 859 voor een moratorium en voorlopige voorziening ([artikel 287 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287), en [287b Fw](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=287b)), bij een volledig doorlopen procedure inclusief het daadwerkelijk voeren van de procedure bij de rechtbank.
 
 2. Wanneer de bewindvoerder enkel het verzoekschrift opstelt ten behoeve van de procedure, maar niet aanwezig is bij de procedure zelf of wanneer de procedure voortijdig wordt beëindigd zodat er geen zitting plaatsvindt, bedraagt de vergoeding:
 
-- a). € 615 voor een dwangakkoord;
+- a). € 774 voor een dwangakkoord;
 
-- b). € 450 voor een moratorium of voorlopige voorziening.
+- b). € 609 voor een moratorium of voorlopige voorziening.
 
-3. De Raad betaalt de totale vergoeding inclusief het geldende Btw-tarief minus de vastgestelde eigen bijdrage van cliënt. De eigen bijdrage is de laagste eigen bijdrage zoals bedoeld in het [Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277).
+3. De vergoeding zoals bedoeld in het eerste en tweede lid, wordt vermeerderd met de verschuldigde omzetbelasting.
 
-4. De regeling voor advies zoals bedoeld in [artikel 12 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=12), de regeling voor bewerkelijke zaken zoals bedoeld in [artikel 13 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=13) en de voorschotregeling zoals bedoeld in [artikel 35 van het BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35), zijn niet van toepassing.
+4. De eigen bijdrage is de laagste eigen bijdrage zoals bedoeld in het [eerste lid van artikel 4 Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=4).
 
-5. Naast de maximale vergoeding kent de Raad de bewindvoerder bij een volledige procedure ook een reiskostenvergoeding van € 0,09 toe voor het reizen van en naar de zitting overeenkomstig de verleende vergoeding in [artikel 8 van het Reisbesluit Binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889&artikel=8). Daarnaast kent de Raad de bewindvoerder een reistijdvergoeding toe voor het reizen naar de zitting van € 53,10 per volle gereisde 60 kilometers.
+5. De eigen bijdrage zoals bedoeld in het [vierde lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041256&artikel=6&z=2023-07-26&g=2023-07-26) van deze regeling, wordt in mindering gebracht op de vergoeding.
+
+6. De regeling voor advies zoals bedoeld in [artikel 12 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=12), de regeling voor bewerkelijke zaken zoals bedoeld in [artikel 13 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=13) en de voorschotregeling zoals bedoeld in [artikel 35 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35), zijn niet van toepassing.
+
+7. Naast de vergoeding kent de Raad de bewindvoerder bij een volledige procedure ook een reistijd- en reiskostenvergoeding toe zoals genoemd in [artikel 24 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=24) en [artikel 25 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=25). Daarnaast kent de Raad de bewindvoerder een kostenvergoeding toe zoals genoemd in [artikel 27 BVR 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=27).
 
 ##### Artikel 7
 
