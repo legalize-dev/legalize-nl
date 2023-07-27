@@ -4,7 +4,7 @@ identifier: "BWBR0012110"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2013-12-01"
+last_updated: "2023-07-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012110"
 soort: "ministeriele-regeling"
@@ -57,13 +57,15 @@ In deze instructie wordt verstaan onder:
 
 - e. **geweldsmiddel:**
 
-- 1°. de semi-automatische uitvoering van de Heckler en Koch MP5, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;
+- 1°. de semi-automatische uitvoering van de SIG SAUER MCX RATTLER;
 
-- 2°. een semi-automatisch pistool van het merk Walther P5, kaliber 9 millimeter maal 19 millimeter of Walther P99Q van hetzelfde kaliber;
+- 2°. de semi-automatische uitvoering van de Heckler en Koch MP5, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;
 
-- 3°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;
+- 3°. een semi-automatisch pistool van het merk Walther P99Q, kaliber 9 millimeter maal 19 millimeter;
 
-- 4°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister van Justitie goedgekeurd merk en type.
+- 4°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;
+
+- 5°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister van Justitie goedgekeurd merk en type.
 
 - f. **vrijheidsbeperkende middelen:**
 
@@ -149,7 +151,7 @@ Vervallen
 
 1. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden maakt op basis van deze regeling een voor zijn inrichting geldende dienstinstructie voor personeelsleden of medewerkers.
 
-2. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft daarin aan onder welke omstandigheden personeelsleden of medewerkers bevoegd zijn, binnen en buiten de inrichting voor verpleging van ter beschikking gestelden, daaronder begrepen tijdens verlof als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2013-12-01&g=2013-12-01) jegens een verpleegde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden.
+2. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden geeft daarin aan onder welke omstandigheden personeelsleden of medewerkers bevoegd zijn, binnen en buiten de inrichting voor verpleging van ter beschikking gestelden, daaronder begrepen tijdens verlof als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2023-07-27&g=2023-07-27) jegens een verpleegde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden.
 
 3. Het hoofd van de inrichting voor verpleging van ter beschikking gestelden zendt binnen drie maanden na inwerkingtreding van deze regeling een afschrift van de voor zijn inrichting geldende dienstinstructie aan de Minister van Justitie.
 
@@ -193,7 +195,7 @@ Deze instructie wordt aangehaald als: Geweldsinstructie inrichtingen voor verple
 
 ##### Artikel 7a
 
-1. Het hoofd van de inrichting kan met voorafgaande machtiging van de Minister van Justitie besluiten om proeven te houden met andere middelen, dan genoemd in [artikel 1, onder e en f,](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=1&artikel=1&z=2013-12-01&g=2013-12-01) met het doel onttrekkingen aan het toezicht als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2013-12-01&g=2013-12-01) te voorkomen.
+1. Het hoofd van de inrichting kan met voorafgaande machtiging van de Minister van Justitie besluiten om proeven te houden met andere middelen, dan genoemd in [artikel 1, onder e en f,](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=1&artikel=1&z=2023-07-27&g=2023-07-27) met het doel onttrekkingen aan het toezicht als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012110&paragraaf=2a&artikel=2a&z=2023-07-27&g=2023-07-27) te voorkomen.
 
 2. Een ander middel, als bedoeld in het eerste lid, moet ten minste voldoen aan de eisen, die gesteld worden aan een mechanisch middel in de [Regeling toepassing mechanische middelen verpleegden](https://wetten.overheid.nl/jci1.3:c:BWBR0011109).
 
