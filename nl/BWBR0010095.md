@@ -4,7 +4,7 @@ identifier: "BWBR0010095"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-05"
-last_updated: "2023-01-10"
+last_updated: "2023-07-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010095"
 soort: "ministeriele-regeling"
@@ -57,15 +57,17 @@ In deze instructie wordt verstaan onder:
 
 - f. **geweldsmiddel:**
 
-- 1°. de semi-automatische uitvoering van de Heckler en Koch, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;
+- 1°. de semi-automatische uitvoering van de SIG SAUER MCX RATTLER;
 
-- 2°. een semi-automatisch pistool van het merk Walther P5, kaliber 9 maal 19 millimeter of Walther P99Q van hetzelfde kaliber;
+- 2°. de semi-automatische uitvoering van de Heckler en Koch MP5, type A2 en type A3, kaliber 9 millimeter maal 19 millimeter;
 
-- 3°. een korte of lange wapenstok van een door de Minister voor Rechtsbescherming goedgekeurd merk en type;
+- 3°. een semi-automatisch pistool van het merk Walther P99Q, kaliber 9 millimeter maal 19 millimeter;
 
-- 4°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister voor Rechtsbescherming goedgekeurd merk en type;
+- 4°. een korte of lange wapenstok van een door de Minister van Justitie goedgekeurd merk en type;
 
-- 5°. pepperspray van een door de Minister voor Rechtsbescherming goedgekeurd merk en type.
+- 5°. CS-traangasgranaten of traangasverspreidende middelen van een door de Minister van Justitie goedgekeurd merk en type;
+
+- 6°. pepperspray van een door de Minister van Justitie goedgekeurd merk en type.
 
 - g. **vrijheidsbeperkende middelen:**
 
