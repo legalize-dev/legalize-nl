@@ -4,7 +4,7 @@ identifier: "BWBR0045960"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-03"
-last_updated: "2021-12-02"
+last_updated: "2023-07-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045960"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2021-12-02"
 ---
 # Besluit van de Minister voor Rechtsbescherming van 23 november 2021, nr. BOACAT2021/059, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Werkorganisatie Langedijk en Heerhugowaard
 
-Gelezen het verzoek van Werkorganisatie Langedijk en Heerhugowaard van 27 september 2021 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Noord-Holland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+Gelezen het verzoek van gemeente Dijk en Waard van 27 september 2021 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Noord-Holland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
 Gelet op:
 
@@ -58,11 +58,11 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045960&artikel=2&z=2021-12-02&g=2021-12-02).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045960&artikel=2&z=2023-07-29&g=2023-07-29).
 
 ##### Artikel 2
 
-De personen, werkzaam in de functie van Medewerker Handhaving in dienst van Werkorganisatie Langedijk en Heerhugowaard, zijn aangewezen als buitengewoon opsporingsambtenaar.
+De personen, werkzaam in de functie van Medewerker Handhaving in dienst van gemeente Dijk en Waard, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
 ##### Artikel 3
 
@@ -84,19 +84,19 @@ Op grond van dit besluit kunnen maximaal 22 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen.
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van vrijheidsbeperkend middel handboeien.
 
 ##### Artikel 7
 
-1. De Werkorganisatie Langedijk en Heerhugowaard brengt jaarlijks, voor 1 april, verslag uit over:
+1. De gemeente Dijk en Waard brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045960&artikel=2&z=2021-12-02&g=2021-12-02) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045960&artikel=2&z=2023-07-29&g=2023-07-29) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045960&artikel=5&z=2021-12-02&g=2021-12-02) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045960&artikel=5&z=2023-07-29&g=2023-07-29) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
@@ -110,6 +110,6 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 ##### Artikel 10
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Werkorganisatie Langedijk en Heerhugowaard 2021.
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Dijk en Waard 2021.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
