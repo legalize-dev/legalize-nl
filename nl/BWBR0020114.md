@@ -4,7 +4,7 @@ identifier: "BWBR0020114"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-08-01"
-last_updated: "2006-08-03"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020114"
 soort: "zbo"
@@ -57,7 +57,7 @@ In dit besluit wordt verstaan onder:
 
 - g. uitkeringsgerechtigde: de persoon aan wie een uitkering ingevolge de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) is toegekend;
 
-- h. aanvrager: de persoon bedoeld in [artikel 34, derde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34), [artikel 64, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=64) en [artikel 28, vierde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=28).
+- h. aanvrager: de persoon bedoeld in [artikel 34, derde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34), [artikel 64, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=64) en [artikel 3:28, vierde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:28).
 
 ##### Artikel 2
 
@@ -71,7 +71,7 @@ Dit besluit is van toepassing op de aanvrager en de uitkeringsgerechtigde die in
 
 3. De aanvrager en de uitkeringsgerechtigde voldoen aan een verzoek van het UWV om ten behoeve van de uitvoering van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657):
 
-- a. op door het UWV vast te stellen tijdstippen een door een bevoegde autoriteit gewaarmerkt levensbewijs over te leggen;
+- a. het door het UWV verstuurde formulier ‘Verklaring van in leven zijn’ ingevuld terug te sturen binnen een door het UWV gestelde termijn, samen met een kopie van een geldig identiteitsbewijs;
 
 - b. na een oproep van het UWV op een door het UWV te bepalen kantoor te verschijnen en de gevraagde gegevens te verstrekken;
 
@@ -81,7 +81,7 @@ Dit besluit is van toepassing op de aanvrager en de uitkeringsgerechtigde die in
 
 ##### Artikel 4
 
-Het bepaalde in de voorgaande artikelen is van overeenkomstige toepassing op de wettelijke vertegenwoordiger van de aanvrager en de uitkeringsgerechtigde, alsmede de instelling bedoeld in [artikel 54 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=54), [artikel 71 Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=71), [artikel 57 WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=57) of [artikel 49 Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=49) waaraan de arbeidsongeschiktheidsuitkering wordt betaald.
+Het bepaalde in de voorgaande artikelen is van overeenkomstige toepassing op de wettelijke vertegenwoordiger van de aanvrager en de uitkeringsgerechtigde, alsmede de instelling bedoeld in [artikel 54 WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=54), [artikel 71 Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=71), [artikel 57 WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=57) of [artikel 2:55 Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:55) waaraan de arbeidsongeschiktheidsuitkering wordt betaald.
 
 ##### Artikel 5
 
