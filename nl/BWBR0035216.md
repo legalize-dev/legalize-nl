@@ -4,7 +4,7 @@ identifier: "BWBR0035216"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-08-01"
-last_updated: "2023-01-01"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035216"
 soort: "AMvB"
@@ -52,13 +52,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **andere eindtoets:** een toegelaten eindtoets als bedoeld in [artikel 9b, achtste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) of [artikel 18b, achtste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b),
-
 - **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1),
 
-- **centrale eindtoets:** de centrale eindtoets, bedoeld in [artikel 9b, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) of [artikel 18b, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b),
-
-- **eindtoets:** de centrale eindtoets of een andere eindtoets,
+- **doorstroomtoets:** een erkende doorstroomtoets als bedoeld in [artikel 45b, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b), of [artikel 48c, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48c),
 
 - **inspectie:** de inspectie, genoemd in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1),
 
@@ -68,85 +64,89 @@ In dit besluit wordt verstaan onder:
 
 - **schooljaar:** het schooljaar, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1),
 
-- **toetsaanbieder:** het College voor toetsen en examens of de rechtspersoon of natuurlijk persoon die een toets uitgeeft waarvan het gebruik op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=3&artikel=9&z=2023-01-01&g=2023-01-01) is toegelaten.
+- **toets:** een erkende toets, of reeks van toetsen, verbonden aan een leerling- en onderwijsvolgsysteem als bedoeld in [artikel 45b, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b), of [artikel 48c, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48c),
+
+- **toetsaanbieder:** rechtspersoon of natuurlijk persoon die een toets of doorstroomtoets uitgeeft die is erkend op grond van [artikel 3a, tweede lid, onderdeel a of b, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a).
 
 #### § 2. Centrale eindtoets en andere eindtoetsen
 
-##### Artikel 2. Centrale eindtoets en andere eindtoetsen
+##### Artikel 2. Aanmelding doorstroomtoets
 
-1. Het bevoegd gezag neemt bij de leerlingen in het achtste schooljaar een centrale eindtoets of andere eindtoets af.
+1. Het bevoegd gezag bepaalt welke doorstroomtoets op de school wordt afgenomen.
 
-2. Het bevoegd gezag besluit welke eindtoets aan de school wordt afgenomen.
+2. Het bevoegd gezag meldt uiterlijk op 15 november van het schooljaar waarin de doorstroomtoets wordt afgenomen aan de toetsaanbieder het aantal leerlingen dat de doorstroomtoets naar verwachting zal afleggen.
 
-3. Voor 1 februari van het kalenderjaar waarin de eindtoets wordt afgenomen, meldt het bevoegd gezag aan de betreffende toetsaanbieder het aantal leerlingen dat de eindtoets naar verwachting zal afleggen.
+##### Artikel 3. Inhoud doorstroomtoets
 
-##### Artikel 3. Inhoud eindtoets
+1. In het Europese deel van Nederland meet de doorstroomtoets welk eindniveau de leerling heeft behaald ten opzichte van de referentieniveaus, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel a en b, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2). Daarbij worden ten minste de domeinen als bedoeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1) en [Bijlage 2 van het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=2), met uitzondering van het domein Mondelinge Taalvaardigheid, Schrijven en het subdomein Begrippenlijst, genoemd in Bijlage 1 van het Besluit referentieniveaus Nederlandse taal en rekenen, getoetst.
 
-De eindtoets meet welk eindniveau de leerling heeft behaald ten opzichte van de referentieniveaus, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel a en b, van de Wet referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2). Daarbij worden ten minste de domeinen als bedoeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=1) en [Bijlage 2 van het Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879&bijlage=2), met uitzondering van de domeinen Mondelinge Taalvaardigheid en Schrijven, genoemd in Bijlage 1 van het Besluit referentieniveaus Nederlandse taal en rekenen, getoetst.
+2. Dit lid is nog niet in werking getreden.
 
-##### Artikel 4. Kenmerken eindtoets
+##### Artikel 4. Kenmerken doorstroomtoets
 
-Onverminderd [artikel 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) of [artikel 18b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), voldoet een eindtoets aan de volgende kenmerken:
+Onverminderd [artikel 45b, derde en vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45b), of [artikel 48c, derde en vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48c), voldoet een doorstroomtoets aan de volgende kenmerken:
 
-- a. de eindtoets leidt, op basis van het door een leerling behaalde resultaat, tot een eenduidig advies omtrent het te volgen vervolgonderwijs en hanteert daarbij categorieën van schoolsoorten of leerwegen in het voortgezet onderwijs die gelijkluidend zijn aan de gehanteerde categorieën in andere eindtoetsen,
+- a. de doorstroomtoets leidt, op basis van het door een leerling behaalde resultaat, tot een eenduidig advies omtrent het te volgen vervolgonderwijs en hanteert daarbij categorieën van schoolsoorten of leerwegen in het voortgezet onderwijs die gelijkluidend zijn aan de gehanteerde categorieën in andere doorstroomtoetsen,
 
 - b. de toets is inhoudelijk valide, betrouwbaar en heeft een deugdelijke normering,
 
 - c. de inhoud is gebaseerd op de bij regeling vastgestelde toetswijzer, bedoeld in [artikel 3a, eerste lid, onderdeel e, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a),
 
-- d. de eindtoetsen bevatten een gezamenlijke set aan opgaven Nederlandse taal en rekenen en wiskunde, die zodanig van omvang is dat daarmee de onderlinge vergelijkbaarheid van de eindtoetsen is geborgd,
+- d. de doorstroomtoetsen bevatten een gezamenlijke set aan opgaven Nederlandse taal en rekenen en wiskunde, die zodanig van omvang is dat daarmee de onderlinge vergelijkbaarheid van de doorstroomtoetsen is geborgd,
 
-- e. de opgaven over Nederlandse taal en rekenen en wiskunde worden jaarlijks ververst, behoudens dat deel van de gezamenlijke set aan opgaven, bedoeld in onderdeel d, dat noodzakelijk is om de resultaten van de eindtoetsen over de jaren heen te vergelijken,
+- e. de opgaven over Nederlandse taal en rekenen en wiskunde worden jaarlijks ververst, behoudens dat deel van de gezamenlijke set aan opgaven, bedoeld in onderdeel d, dat noodzakelijk is om de resultaten van de doorstroomtoetsen over de jaren heen te vergelijken,
 
-- f. het toetsresultaat maakt het eindniveau van de leerling ten opzichte van de referentieniveaus, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), inzichtelijk,
+- f. het toetsresultaat maakt het eindniveau van de leerling ten opzichte van de referentieniveaus, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=3&z=2023-08-01&g=2023-08-01), inzichtelijk,
 
-- g. de toets is geschikt voor alle leerlingen met uitzondering van de leerlingen bedoeld in [artikel 9b, vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [artikel 18b, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b),
+- g. de toets is geschikt voor alle leerlingen met uitzondering van de leerlingen bedoeld in [artikel 45c, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45c) en [artikel 48d, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48d),
 
 - h. de toets biedt de inspectie voldoende basis voor een oordeel over de leerresultaten, bedoeld in [artikel 10a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=10a) of [artikel 19a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=19a),
 
-- i. het bij de eindtoets behorende toetsreglement bevat een regeling voor ten minste de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=7&z=2023-01-01&g=2023-01-01) genoemde onderwerpen, en
+- i. het bij de doorstroomtoets behorende toetsreglement bevat een regeling voor ten minste de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=7&z=2023-08-01&g=2023-08-01) genoemde onderwerpen, en
 
-- j. de inhoud van de toets wordt verantwoord in een handleiding die een beschrijving van de gemaakte keuzes voor de te toetsen domeinen en de daarbij passende afnamevorm bevat.
+- j. de toets kent een verantwoording van de inhoud, waarin informatie over het theoretisch kader is opgenomen, wordt beschreven welke keuzes zijn gemaakt met betrekking tot de te toetsen domeinen, de daarbij passende afnamevorm en uiteen wordt gezet hoe de toets voldoet aan de in onderdeel b gestelde eisen.
 
 ##### artikel 5. Afnamevoorschriften
 
-1. De directeur neemt de eindtoets af onder verantwoordelijkheid van het bevoegd gezag en draagt zorg voor voldoende toezicht tijdens de afname van de eindtoets. Hij kan zijn taken aan een of meer toetsleiders overdragen.
+1. De directeur neemt de doorstroomtoets af onder verantwoordelijkheid van het bevoegd gezag en draagt zorg voor voldoende toezicht tijdens de afname van de doorstroomtoets. Hij kan zijn taken aan een of meer toetsleiders overdragen.
 
-2. De eindtoets wordt afgenomen in overeenstemming met de afnameaanwijzingen die zijn opgenomen in het toetsreglement bij de desbetreffende toets.
+2. De doorstroomtoets wordt afgenomen in overeenstemming met de afnameaanwijzingen die zijn opgenomen in het toetsreglement bij de desbetreffende toets.
 
 3. De directeur draagt zorg voor de geheimhouding van de toetsopgaven nadat deze hem door de toetsaanbieder ter beschikking zijn gesteld.
 
 ##### artikel 6. Onregelmatigheden en onvoorziene omstandigheden
 
-1. Indien bij de afname van de eindtoets een onregelmatigheid wordt geconstateerd, dan kan de directeur maatregelen treffen. De directeur meldt de onregelmatigheid en de getroffen maatregelen aan de inspectie.
+1. Indien bij de afname van de doorstroomtoets een onregelmatigheid wordt geconstateerd, dan kan de directeur maatregelen treffen. De directeur meldt de onregelmatigheid en de getroffen maatregelen aan de inspectie.
 
-2. Indien de eindtoets naar het oordeel van de inspectie, al dan niet nadat de directeur maatregelen heeft getroffen, niet op regelmatige wijze is afgenomen, kan de inspectie besluiten dat de toets geheel of gedeeltelijk voor een of meer leerlingen opnieuw wordt afgenomen. De eindtoets is in ieder geval niet op regelmatige wijze afgenomen indien is gehandeld in strijd met het betreffende toetsreglement.
+2. Indien de doorstroomtoets naar het oordeel van de inspectie, al dan niet nadat de directeur maatregelen heeft getroffen, niet op regelmatige wijze is afgenomen, kan de inspectie besluiten dat de toets geheel of gedeeltelijk voor een of meer leerlingen opnieuw wordt afgenomen. De doorstroomtoets is in ieder geval niet op regelmatige wijze afgenomen indien is gehandeld in strijd met het betreffende toetsreglement.
 
-3. Indien door onvoorziene omstandigheden de eindtoets aan één of meer scholen niet, of niet op de voorgeschreven wijze, kan worden afgenomen, beslist het bevoegd gezag na overleg met de betreffende toetsaanbieder hoe alsdan moet worden gehandeld.
+3. Indien door onvoorziene omstandigheden de doorstroomtoets aan één of meer scholen niet, of niet op de voorgeschreven wijze, kan worden afgenomen, beslist het bevoegd gezag na overleg met de betreffende toetsaanbieder hoe alsdan moet worden gehandeld.
 
 ##### artikel 7. Toetsreglement
 
-1. Bij elke eindtoets wordt door de betreffende toetsaanbieder een toetsreglement vastgesteld, waarin de wijze van afnemen wordt geregeld. Daarbij worden ten minste geregeld:
+1. Bij elke doorstroomtoets wordt door de betreffende toetsaanbieder een toetsreglement vastgesteld, waarin de wijze van afnemen wordt geregeld. Daarbij worden ten minste geregeld:
 
-- a. de wijze waarop de directeur de leerlingen aanmeldt voor de eindtoets,
+- a. de wijze waarop de directeur de leerlingen aanmeldt voor de doorstroomtoets,
 
 - b. welke hulpmiddelen de leerlingen kunnen gebruiken,
 
-- c. de wijze waarop de eindtoets kan worden afgelegd door leerlingen voor wie een afwijkende wijze van toetsing noodzakelijk is,
+- c. de wijze waarop de doorstroomtoets kan worden afgelegd door leerlingen voor wie een afwijkende wijze van toetsing noodzakelijk is,
 
 - d. de wijze waarop de toetsopgaven aan de directeur ter beschikking worden gesteld,
 
 - e. de wijze waarop de geheimhouding van de toetsopgaven wordt geregeld en de wijze en het moment waarop de toetsopgaven openbaar worden gemaakt, en
 
-- f. de wijze waarop door de directeur toezicht wordt gehouden op leerlingen die de eindtoets afleggen.
+- f. de wijze waarop door de directeur toezicht wordt gehouden op leerlingen die de doorstroomtoets afleggen.
 
 2. Deze bepaling is van overeenkomstige toepassing op de toetsen van het leerling- en onderwijsvolgsysteem.
 
-##### Artikel 8. Leerlingrapport
+##### Artikel 8. Resultaten doorstroomtoets en leerlingrapport
 
-1. De toetsaanbieder stelt voor iedere leerling die de eindtoets aflegt een leerlingrapport op, waarin ten minste het resultaat van de eindtoets, een advies omtrent het vervolgonderwijs en een indicatie van de beheersing van de referentieniveaus Nederlandse taal en rekenen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01) worden opgenomen.
+1. De toetsaanbieder maakt de resultaten van de doorstroomtoetsen uiterlijk op 15 maart van het schooljaar waarin de doorstroomtoets wordt afgenomen bekend aan het bevoegd gezag.
 
-2. Het leerlingrapport maakt deel uit van het onderwijskundig rapport, bedoeld in [artikel 42, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42) of [artikel 43, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43).
+2. De toetsaanbieder stelt voor iedere leerling die de doorstroomtoets aflegt een leerlingrapport op, waarin ten minste het resultaat van de doorstroomtoets, bedoeld in [artikel 4, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=4&z=2023-08-01&g=2023-08-01), het niveau waarop de doorstroomtoets is afgelegd en een advies omtrent het vervolgonderwijs worden opgenomen.
+
+3. Het leerlingrapport maakt deel uit van het onderwijskundig rapport, bedoeld in [artikel 42, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=42) of [artikel 43, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43).
 
 #### § 3. Toelating andere eindtoetsen
 
@@ -156,7 +156,7 @@ Onverminderd [artikel 9b van de Wet op het primair onderwijs](https://wetten.ove
 
 2. Een aanvraag, als bedoeld in het eerste lid, die eerder dan 31 mei wordt ingediend bij het College voor toetsen en examens wordt beschouwd als een aanvraag ingediend op 31 mei.
 
-3. In de aanvraag toont de toetsaanbieder aan dat de doorstroomtoets voldoet aan de kenmerken genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=4&z=2023-01-01&g=2023-01-01) en overlegt de toetsaanbieder in ieder geval:
+3. In de aanvraag toont de toetsaanbieder aan dat de doorstroomtoets voldoet aan de kenmerken genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=4&z=2023-08-01&g=2023-08-01) en overlegt de toetsaanbieder in ieder geval:
 
 - a. gegevens over de wijze waarop de beheersing van de referentieniveaus Nederlandse taal en rekenen wordt gemeten;
 
@@ -164,7 +164,7 @@ Onverminderd [artikel 9b van de Wet op het primair onderwijs](https://wetten.ove
 
 - c. de wijze waarop voldaan zal worden aan de procedure bedoeld in [artikel 3a, eerste lid, onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a);
 
-- d. het toetsreglement, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=7&z=2023-01-01&g=2023-01-01); en
+- d. het toetsreglement, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=7&z=2023-08-01&g=2023-08-01); en
 
 - e. voor zover van toepassing: gegevens over de toepassing van de beoordelingsnormen, bedoeld in [artikel 3a, eerste lid, onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a), in eerdere schooljaren.
 
@@ -190,7 +190,7 @@ Onverminderd [artikel 9b van de Wet op het primair onderwijs](https://wetten.ove
 
 - c. het toetsresultaat maakt het niveau van de leerling ten opzichte van de referentieniveaus inzichtelijk, met dien verstande dat:
 
-- 1°. In het Europese deel van Nederland voor de toets die betrekking heeft op het terrein Nederlandse taal en rekenen en wiskunde de referentieniveaus, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01), worden gebruikt;
+- 1°. In het Europese deel van Nederland voor de toets die betrekking heeft op het terrein Nederlandse taal en rekenen en wiskunde de referentieniveaus, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=3&z=2023-08-01&g=2023-08-01), worden gebruikt;
 
 - 2°. Dit onderdeel is nog niet in werking getreden;
 
@@ -206,9 +206,9 @@ Onverminderd [artikel 9b van de Wet op het primair onderwijs](https://wetten.ove
 
 ##### Artikel 12. Aanvraag erkenning toets leerling- en onderwijsvolgsysteem
 
-In de aanvraag tot erkenning, als bedoeld in [artikel 3, eerste lid, onderdeel c, van de Wet College voor toetsen en examen](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3), toont de toetsaanbieder aan dat een toets voldoet aan de kenmerken genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=4&artikel=11&z=2023-01-01&g=2023-01-01) en overlegt de toetsaanbieder in ieder geval de volgende gegevens:
+In de aanvraag tot erkenning, als bedoeld in [artikel 3, eerste lid, onderdeel c, van de Wet College voor toetsen en examen](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3), toont de toetsaanbieder aan dat een toets voldoet aan de kenmerken genoemd in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=4&artikel=11&z=2023-08-01&g=2023-08-01) en overlegt de toetsaanbieder in ieder geval de volgende gegevens:
 
-- a. een beschrijving van de wijze waarop de beheersing van de referentieniveaus, bedoeld [11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=4&artikel=11&z=2023-01-01&g=2023-01-01), wordt gemeten;
+- a. een beschrijving van de wijze waarop de beheersing van de referentieniveaus, bedoeld [11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=4&artikel=11&z=2023-08-01&g=2023-08-01), wordt gemeten;
 
 - b. de toetsopgaven;
 
@@ -232,7 +232,7 @@ Vervallen
 
 2. Tot de datum waarop [artikel II van de Wet van 11 december 2013 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet College voor examens in verband met de invoering van een centrale eindtoets, de invoering van een leerling- en onderwijsvolgsysteem en invoering van bekostigingsvoorschriften voor minimumleerresultaten voor speciale scholen voor basisonderwijs en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs)](https://wetten.overheid.nl/jci1.3:c:BWBR0034687&artikel=II) (Stb 2014, 13) in werking treedt, is dit besluit niet van toepassing op leerlingen van scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs.
 
-3. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), kan het bevoegd gezag besluiten om in het eerste schooljaar na inwerkingtreding van dit besluit in plaats van een eindtoets als bedoeld in dit besluit een toets als bedoeld in [Bijlage A bij de Regeling leerresultaten PO](https://wetten.overheid.nl/jci1.3:c:BWBR0027960&bijlage=A) zoals die luidde op de dag voor de inwerkingtreding van dit besluit, met uitzondering van de Eindtoets Basisonderwijs, inclusief de Niveautoets van Cito, en de Entreetoets van Cito, bij de leerlingen af te nemen.
+3. In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&paragraaf=2&artikel=2&z=2023-08-01&g=2023-08-01), kan het bevoegd gezag besluiten om in het eerste schooljaar na inwerkingtreding van dit besluit in plaats van een eindtoets als bedoeld in dit besluit een toets als bedoeld in [Bijlage A bij de Regeling leerresultaten PO](https://wetten.overheid.nl/jci1.3:c:BWBR0027960&bijlage=A) zoals die luidde op de dag voor de inwerkingtreding van dit besluit, met uitzondering van de Eindtoets Basisonderwijs, inclusief de Niveautoets van Cito, en de Entreetoets van Cito, bij de leerlingen af te nemen.
 
 ##### Artikel 16. Inwerkingtreding
 
@@ -246,9 +246,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. Omhangbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit berust mede op [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=42), en [artikel 45e, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=45e), [artikel 8.6, vijfde en zesde lid, van de Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.6), [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=43), en [artikel 48f, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=48f), [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=48) en [artikel 51e, eerste lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=51e) en [artikel 3a, tweede lid, onderdeel c, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a).
 
-#### § 2. Centrale eindtoets en andere eindtoetsen
+#### § 2. Doorstroomtoetsen
 
 #### § 3. Erkenning doorstroomtoetsen
 
