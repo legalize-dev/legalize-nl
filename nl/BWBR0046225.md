@@ -4,7 +4,7 @@ identifier: "BWBR0046225"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2023-07-26"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046225"
 soort: "ministeriele-regeling"
@@ -158,7 +158,7 @@ Aan de Chief Nature and Environment Officer, Chief Veterinary Inspector, de Chie
 
 ##### Artikel 5
 
-Aan de directeur Strategie, het divisiehoofd Juridische zaken en de teamleider van het team Bezwaar en beroep van de divisie Juridische zaken wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen en het voeren van beroep, hoger beroep en voorlopige voorziening procedures.
+Aan de directeur Strategie, het divisiehoofd Juridische zaken en de teamleiders Bezwaar en Beroep wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen en het voeren van beroep, hoger beroep en voorlopige voorziening procedures.
 
 ##### Artikel 6
 
@@ -200,7 +200,7 @@ In dit besluit wordt verstaan onder:
 
 - k. **de teamleiders:** de teamleiders van een directie, divisie of afdeling van de Nederlandse Voedsel- en Warenautoriteit;
 
-- l. dit onderdeel is nog niet in werking getreden;
+- l. **de teamleiders Bezwaar en Beroep:** de teamleiders van team Bezwaar en Beroep 1 en van team Bezwaar en Beroep 2, van de divisie Juridische zaken, directie Strategie, van de Nederlandse Voedsel- en Warenautoriteit;
 
 - m. **de inspecteurs van de afdeling Dier:** de inspecteurs van de afdeling Dier van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
 
@@ -234,7 +234,7 @@ Het [Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2023-07-26&g=2023-07-26) terug tot 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2023-08-01&g=2023-08-01) terug tot 1 januari 2019.
 
 ##### Artikel 11
 
