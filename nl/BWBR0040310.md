@@ -4,7 +4,7 @@ identifier: "BWBR0040310"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2022-08-01"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0040310"
 soort: "ministeriele-regeling"
@@ -100,20 +100,12 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelbaar beroepsonderwijs.
 
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2022-08-01&g=2022-08-01), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
+## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040310&artikel=2&z=2023-08-01&g=2023-08-01), van de Regeling aanvullende eisen toelating middelbaar beroepsonderwijs
 
 | Crebo | Opleiding | Grond voor aanvullende eis |
 | --- | --- | --- |
-| 25069 | Basis Goudsmid niveau 3 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
-| 25070 | Goudsmid niveau 4 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
-| 25071 | Zilversmid niveau 4 | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
 | 25076 | Medewerker Uurwerktechniek niveau 3 | Fijne oog-handcoördinatie |
 | 25077 | Uurwerktechnicus niveau 4 | Fijne oog-handcoördinatie |
-| 25411 | Coördinator buurt, onderwijs en sport niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
-| 25412 | Coördinator sport- en bewegingsagogie niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
-| 25413 | Coördinator sport, bewegen en gezondheid niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
-| 25414 | Coördinator sportinstructie, training en coaching niveau 4 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
-| 25415 | Sport- en bewegingsleider niveau 3 | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25519 | Schipper-machinist beperkt werkgebied niveau 2 | Fysieke geschiktheid (medische keuring) |
 | 25548 | Creatief vakman niveau 4 | Creatieve en artistieke aanleg |
 | 25599 | Aankomend medewerker grondoptreden niveau 2 | Fysieke en psychische geschiktheid |
@@ -145,9 +137,21 @@ Deze regeling wordt aangehaald als: Regeling aanvullende eisen toelating middelb
 | 25682 | Maritiem officier alle schepen nautisch, visserij | Fysieke geschiktheid (medische keuring) |
 | 25683 | Maritiem officier alle schepen technisch | Fysieke geschiktheid (medische keuring) |
 | 25692 | Allround make-up and hair artist | Creatieve en artistieke aanleg |
-| 25710 | Instructeur paardensport en -houderij | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 | 25717 | AV-Specialist | Creatieve en artistieke aanleg |
 | 25718 | Fotograaf niveau 4 | Creatieve en artistieke aanleg |
+| 25803 | Handhaver toezicht en veiligheid Generieke Opsporing | Fysieke geschiktheid |
+| 25804 | Handhaver toezicht en veiligheid Milieu, welzijn en infrastructuur | Fysieke geschiktheid |
+| 25805 | Handhaver toezicht en veiligheid Openbaar vervoer | Fysieke geschiktheid |
+| 25806 | Handhaver toezicht en veiligheid Openbare ruimte | Fysieke geschiktheid |
 | 25811 | Ruimtelijk vormgever niveau 4 | Creatieve en artistieke aanleg en ruimtelijk inzicht |
+| 25856 | Basisgoudsmid | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
+| 25857 | Goudsmid | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
+| 25858 | Zilversmid | Creatieve en artistieke aanleg en fijne oog-handcoördinatie |
+| 25909 | Buurtsportcoach | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25911 | Bewegingsagoog | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25910 | Leefstijlcoach | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25912 | Trainer-coach/Instructeur | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25908 | Sport- en bewegingsleider | Benodigde praktische bedrevenheid in bewegingsactiviteit |
+| 25917 | Instructeur paardensport en -houderij | Benodigde praktische bedrevenheid in bewegingsactiviteit |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
