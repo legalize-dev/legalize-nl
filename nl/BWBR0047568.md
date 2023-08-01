@@ -4,7 +4,7 @@ identifier: "BWBR0047568"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-08-01"
-last_updated: "2023-01-01"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047568"
 soort: "AMvB"
@@ -53,8 +53,6 @@ Wijzigt het Toetsbesluit PO.
 ##### Artikel II. Wijziging [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787)
 
 Wijzigt het Uitvoeringsbesluit WVO 2020.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. Wijziging [Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639)
 
