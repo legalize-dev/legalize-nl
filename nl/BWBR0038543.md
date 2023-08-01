@@ -4,7 +4,7 @@ identifier: "BWBR0038543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-23"
-last_updated: "2023-04-29"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038543"
 soort: "ministeriele-regeling"
@@ -44,11 +44,11 @@ Besluit:
 
 ##### Artikel 1. Certificaten keuzedelen
 
-Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2023-04-29&g=2023-04-29) bij deze regeling.
+Er is een certificaat verbonden aan de keuzedelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=1&z=2023-08-01&g=2023-08-01) bij deze regeling.
 
 ##### Artikel 2. Certificaat voor beroepsgerichte onderdelen
 
-Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2023-04-29&g=2023-04-29).
+Er is een certificaat verbonden aan de beroepsgerichte onderdelen van kwalificaties, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&bijlage=2&z=2023-08-01&g=2023-08-01).
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -126,7 +126,7 @@ Er is een certificaat verbonden aan de volgende keuzedelen:
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2023-04-29&g=2023-04-29)
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=1&z=2023-08-01&g=2023-08-01)
 
 | k-code | naam keuzedeel |
 | --- | --- |
@@ -420,10 +420,14 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | K1341 | Verdieping industriële processen glasproductie |
 | K1238 | Verdieping maintenance voor de procesindustrie, geschikt voor niveau 3 |
 | K1240 | Verdieping operations voor de procesindustrie, geschikt voor niveau 3 |
+|   |   |
+| **Certificaten voor keuzedelen vanaf augustus 2023** | **Certificaten voor keuzedelen vanaf augustus 2023** |
+| K0919 | Lastechnieken gevorderd |
+| K0636 | Pneumatiek en hydrauliek geschikt voor niveau 2 en 3 |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2023-04-29&g=2023-04-29)
+## Bijlage 2. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038543&artikel=2&z=2023-08-01&g=2023-08-01)
 
 | c-code | Naam certificaat | crebocode | naam kwalificatie |
 | --- | --- | --- | --- |
@@ -551,6 +555,15 @@ Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden ge
 | C0124 | Orders picken | 25774 | Logistiek medewerker |
 | C0125 | Pedagogisch klimaat in de kinderopvang | 25696 | Pedagogisch medewerker kinderopvang |
 | C0126 | Professioneel samenwerken en communiceren in de kinderopvang | 25696 | Pedagogisch medewerker kinderopvang |
+|   |   |   |   |
+| **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2023** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2023** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2023** | **Certificaten voor beroepsgerichte onderdelen vanaf augustus 2023** |
+| C0127 | Aanbrengen, onderhouden en repareren van bitumineuze dakbedekkingsmaterialen (Versie 2) | 25864 | Dakdekker bitumen en kunststof |
+| C0128 | Aanbrengen, onderhouden en repareren van kunststof dakbedekkingsmaterialen (Versie 2) | 25864 | Dakdekker bitumen en kunststof |
+| C0129 | Afleveringsklaar maken van fietsen | 25231 | Fietstechnicus |
+| C0130 | Collectioneren in de denimindustrie | 25687 | Fashion Designer |
+| C0131 | Meewerken in de procesindustrie | 25761 | Procesoperator A |
+| C0132 | Onderhoud van fietsen | 25231 | Fietstechnicus |
+| C0133 | Skin & care (Versie 2) | 25906 | Schoonheidsspecialist |
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
