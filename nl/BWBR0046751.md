@@ -4,7 +4,7 @@ identifier: "BWBR0046751"
 country: "nl"
 rank: "wet"
 publication_date: "2024-05-01"
-last_updated: "2023-01-01"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046751"
 soort: "wet"
@@ -50,8 +50,6 @@ Wijzigt de Wet op het primair onderwijs.
 ##### Artikel II. Wijziging [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
 
 Wijzigt de Wet voortgezet onderwijs 2020.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. Wijziging [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
 
@@ -101,11 +99,11 @@ Wijzigt deze wet.
 
 ##### Artikel XIII. Overgangsrecht Wet CvTE en Wet SLOA 2013
 
-1. [Artikel 2, zesde lid, van de Wet college voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) en [artikel 3, eerste lid, onderdeel a, van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0008725&artikel=3), zoals deze artikelen luidden op de dag voor inwerkingtreding van [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=VIII&z=2023-01-01&g=2023-01-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=IX&z=2023-01-01&g=2023-01-01) van deze wet, blijven voor zover het betreft het aanbieden van de centrale eindtoets, bedoeld in de [artikelen 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [18b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), van toepassing in het schooljaar waarin de artikelen VIII en IX van deze wet in werking zijn getreden.
+1. [Artikel 2, zesde lid, van de Wet college voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) en [artikel 3, eerste lid, onderdeel a, van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0008725&artikel=3), zoals deze artikelen luidden op de dag voor inwerkingtreding van [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=VIII&z=2023-08-01&g=2023-08-01) en [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=IX&z=2023-08-01&g=2023-08-01) van deze wet, blijven voor zover het betreft het aanbieden van de centrale eindtoets, bedoeld in de [artikelen 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [18b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), van toepassing in het schooljaar waarin de artikelen VIII en IX van deze wet in werking zijn getreden.
 
-2. Andere eindtoetsen die op grond van [artikel 9b, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [artikel 18b, achtste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), zoals deze artikelen luidden op de dag voor inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=I&z=2023-01-01&g=2023-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=III&z=2023-01-01&g=2023-01-01) van deze wet, door Onze Minister zijn toegelaten en waarvan de periode van toelating loopt tot na de inwerkingtreding van de artikelen I en III van deze wet, worden geacht erkend te zijn op grond van [artikel 3a, eerste lid, onderdeel a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a).
+2. Andere eindtoetsen die op grond van [artikel 9b, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [artikel 18b, achtste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), zoals deze artikelen luidden op de dag voor inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=I&z=2023-08-01&g=2023-08-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=III&z=2023-08-01&g=2023-08-01) van deze wet, door Onze Minister zijn toegelaten en waarvan de periode van toelating loopt tot na de inwerkingtreding van de artikelen I en III van deze wet, worden geacht erkend te zijn op grond van [artikel 3a, eerste lid, onderdeel a, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a).
 
-3. Toetsen die voldoen aan het kwaliteitsoordeel van een door Onze Minister aangewezen onafhankelijke commissie, bedoeld in [artikel 8, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8) en [artikel 11, achtste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=11), zoals deze artikelen luidden op de dag voor inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=I&z=2023-01-01&g=2023-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=III&z=2023-01-01&g=2023-01-01) van deze wet, worden tot vijf jaar na afgifte van het kwaliteitsoordeel geacht erkend te zijn op grond van [artikel 3a, eerste lid, onderdeel c, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a).
+3. Toetsen die voldoen aan het kwaliteitsoordeel van een door Onze Minister aangewezen onafhankelijke commissie, bedoeld in [artikel 8, zevende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8) en [artikel 11, achtste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=11), zoals deze artikelen luidden op de dag voor inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=I&z=2023-08-01&g=2023-08-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=III&z=2023-08-01&g=2023-08-01) van deze wet, worden tot vijf jaar na afgifte van het kwaliteitsoordeel geacht erkend te zijn op grond van [artikel 3a, eerste lid, onderdeel c, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a).
 
 ##### Artikel XIV. Inwerkingtreding
 
