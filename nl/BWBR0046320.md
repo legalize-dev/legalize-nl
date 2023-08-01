@@ -4,7 +4,7 @@ identifier: "BWBR0046320"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-08-01"
-last_updated: "2023-02-24"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046320"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **alliantie:** alliantie als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.3&z=2023-02-24&g=2023-02-24);
+- **alliantie:** alliantie als bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.3&z=2023-08-01&g=2023-08-01);
 
 - **alliantiesubsidie:** instellingssubsidie voor een alliantie waarmee een strategisch partnerschap is aangegaan;
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **LHBTI+-gelijkheid:** gelijke behandeling, gelijke rechten en gelijke kansen voor iedereen in de Nederlandse samenleving, ongeacht seksuele oriëntatie, genderidentiteit of geslachtskenmerken;
 
-- **maatschappelijke organisatie:** organisatie als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.2&z=2023-02-24&g=2023-02-24);
+- **maatschappelijke organisatie:** organisatie als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.2&z=2023-08-01&g=2023-08-01);
 
 - **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
 
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 1. Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-2. Onverminderd [artikel 1.7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.7) verstrekt de minister bij projectsubsidies op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&z=2023-02-24&g=2023-02-24) van deze regeling subsidie voor loonkosten op basis van een maximaal uurtarief, waarbij:
+2. Onverminderd [artikel 1.7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.7) verstrekt de minister bij projectsubsidies op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&z=2023-08-01&g=2023-08-01) van deze regeling subsidie voor loonkosten op basis van een maximaal uurtarief, waarbij:
 
 - a. het maximale uurtarief overeenkomt met het kostendekkende tarief per uur van schaal 13 voor de integrale loonkosten in de Handleiding Overheidstarieven van het kalenderjaar waarin de subsidieaanvraag is ontvangen; en
 
@@ -84,15 +84,15 @@ In deze regeling wordt verstaan onder:
 
 Bij nieuwe aanvragen voor projectsubsidies zal een gedifferentieerd uurtarief per categorie medewerker/ functieniveau een vereiste zijn.
 
-3. In afwijking van [artikel 4.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.1) besluit de minister op een aanvraag voor alliantiesubsidie overeenkomstig de termijnen, genoemd in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.5&z=2023-02-24&g=2023-02-24) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.6&z=2023-02-24&g=2023-02-24).
+3. In afwijking van [artikel 4.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.1) besluit de minister op een aanvraag voor alliantiesubsidie overeenkomstig de termijnen, genoemd in de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.5&z=2023-08-01&g=2023-08-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.6&z=2023-08-01&g=2023-08-01).
 
-4. In afwijking van [artikel 8.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.1) wordt subsidie op grond van [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&z=2023-02-24&g=2023-02-24) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&z=2023-02-24&g=2023-02-24) van deze regeling voor vijf boekjaren tezamen verleend en over vijf boekjaren tegelijk vastgesteld.
+4. In afwijking van [artikel 8.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.1) wordt subsidie op grond van [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&z=2023-08-01&g=2023-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&z=2023-08-01&g=2023-08-01) van deze regeling voor vijf boekjaren tezamen verleend en over vijf boekjaren tegelijk vastgesteld.
 
 ##### Artikel 1.3. Subsidieplafonds
 
-1. Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-02-24&g=2023-02-24) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&artikel=3.1&z=2023-02-24&g=2023-02-24) wordt bekendgemaakt in de Staatscourant.
+1. Het bedrag dat beschikbaar is voor subsidieverstrekking op grond van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-08-01&g=2023-08-01) en [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&artikel=3.1&z=2023-08-01&g=2023-08-01) wordt bekendgemaakt in de Staatscourant.
 
-2. Het subsidieplafond voor subsidies verstrekt op grond van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=4&artikel=4.1&z=2023-02-24&g=2023-02-24) is gelijk aan het bedrag, zoals vermeld bij het financieel instrument subsidie, opgenomen in artikel 25 inzake Emancipatie van de ten tijde van de aanvraag geldende Rijksbegroting OCW. De minister kan subsidieplafonds vaststellen voor categorieën projectsubsidies.
+2. Het subsidieplafond voor subsidies verstrekt op grond van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=4&artikel=4.1&z=2023-08-01&g=2023-08-01) is gelijk aan het bedrag, zoals vermeld bij het financieel instrument subsidie, opgenomen in artikel 25 inzake Emancipatie van de ten tijde van de aanvraag geldende Rijksbegroting OCW. De minister kan subsidieplafonds vaststellen voor categorieën projectsubsidies.
 
 ##### Artikel 1.4. Bevoorschotting
 
@@ -106,7 +106,7 @@ Bij nieuwe aanvragen voor projectsubsidies zal een gedifferentieerd uurtarief pe
 
 ##### Artikel 1.5. Verantwoording
 
-In aanvulling op de regels omtrent verantwoording in de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) worden voor subsidies verstrekt op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-02-24&g=2023-02-24) en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&artikel=3.1&z=2023-02-24&g=2023-02-24) uiterlijk op 1 april van het volgende jaar vier tussentijdse rapportages over het eerste, tweede, derde en respectievelijk vierde subsidiejaar ingediend. In deze tussentijdse rapportages wordt verslag gedaan over de realisatie van de in de subsidieaanvraag genoemde activiteiten met de bijbehorende budgetuitputting van het betreffende jaar. De rapportage sluit aan bij het activiteitenplan en de theory of change voor dat jaar en de daarbij behorende begroting en gaat vergezeld van een controle verklaring van de accountant op basis van het accountantsprotocol behorende bij de Kaderregeling.
+In aanvulling op de regels omtrent verantwoording in de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) worden voor subsidies verstrekt op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-08-01&g=2023-08-01) en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&artikel=3.1&z=2023-08-01&g=2023-08-01) uiterlijk op 1 april van het volgende jaar vier tussentijdse rapportages over het eerste, tweede, derde en respectievelijk vierde subsidiejaar ingediend. In deze tussentijdse rapportages wordt verslag gedaan over de realisatie van de in de subsidieaanvraag genoemde activiteiten met de bijbehorende budgetuitputting van het betreffende jaar. De rapportage sluit aan bij het activiteitenplan en de theory of change voor dat jaar en de daarbij behorende begroting en gaat vergezeld van een controle verklaring van de accountant op basis van het accountantsprotocol behorende bij de Kaderregeling.
 
 ### Hoofdstuk 2. Alliantiesubsidie
 
@@ -146,9 +146,9 @@ Een maatschappelijke organisatie:
 
 ##### Artikel 2.4. Penvoerder
 
-1. De subsidie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-02-24&g=2023-02-24) wordt aangevraagd door de penvoerder, via het daartoe bestemde aanvraagformulier met de aanvullende documenten die daarin verplicht zijn gesteld bij DUS-I.
+1. De subsidie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-08-01&g=2023-08-01) wordt aangevraagd door de penvoerder, via het daartoe bestemde aanvraagformulier met de aanvullende documenten die daarin verplicht zijn gesteld bij DUS-I.
 
-2. De subsidie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-02-24&g=2023-02-24). wordt verstrekt aan en verantwoord door de penvoerder, via het daartoe bestemde verantwoordingsformulier met de aanvullende documenten die daarin verplicht zijn gesteld bij DUS-I. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke maatschappelijke organisatie in de alliantie feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
+2. De subsidie, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-08-01&g=2023-08-01). wordt verstrekt aan en verantwoord door de penvoerder, via het daartoe bestemde verantwoordingsformulier met de aanvullende documenten die daarin verplicht zijn gesteld bij DUS-I. Op de penvoerder rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke maatschappelijke organisatie in de alliantie feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
 3. Een maatschappelijke organisatie kan slechts binnen twee allianties penvoerder zijn.
 
@@ -170,7 +170,7 @@ Een maatschappelijke organisatie:
 
 - f. duurzaamheid van de gekozen aanpak.
 
-3. De totaalscore van het track record wordt verkregen door de beoordelingscijfers, die per criterium kunnen variëren van 1 tot en met 5, bij elkaar op te tellen. De minister rangschikt de aanvragen, die voldoen aan de drempelcriteria, bedoeld in de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.2&z=2023-02-24&g=2023-02-24) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.3&z=2023-02-24&g=2023-02-24), op basis van de totaalscore van hoog van naar laag. De totaalscore per aanvraag kan variëren van 6 tot en met 30 punten.
+3. De totaalscore van het track record wordt verkregen door de beoordelingscijfers, die per criterium kunnen variëren van 1 tot en met 5, bij elkaar op te tellen. De minister rangschikt de aanvragen, die voldoen aan de drempelcriteria, bedoeld in de [artikelen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.2&z=2023-08-01&g=2023-08-01) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.3&z=2023-08-01&g=2023-08-01), op basis van de totaalscore van hoog van naar laag. De totaalscore per aanvraag kan variëren van 6 tot en met 30 punten.
 
 4. Indien de rangschikking, bedoeld in het derde lid, leidt tot een onevenredige verspreiding over de doelstellingen, functies en onderwerpen van deze regeling kan de minister de allianties spreiden over de doelstellingen, terreinen en onderwerpen van deze regeling.
 
@@ -178,7 +178,7 @@ Een maatschappelijke organisatie:
 
 ##### Artikel 2.6. Theory of change
 
-1. In de tweede selectieronde selecteert de minister acht allianties om een strategisch partnerschap, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-02-24&g=2023-02-24), mee aan te gaan aan de hand van de beoordeling van het track record en de theory of change en het daarbij behorende activiteitenplan voor de jaren 2023 en 2024.
+1. In de tweede selectieronde selecteert de minister acht allianties om een strategisch partnerschap, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.1&z=2023-08-01&g=2023-08-01), mee aan te gaan aan de hand van de beoordeling van het track record en de theory of change en het daarbij behorende activiteitenplan voor de jaren 2023 en 2024.
 
 2. De theory of change en het daarbij behorende activiteitenplan voor de jaren 2023 en 2024 beschrijven hoe de maatschappelijke organisatie of de alliantie de door hen opgestelde doelen op lange termijn behaalt. De theory of change wordt in samenhang met het activiteitenplan voor de jaren 2023 en 2024 beoordeeld aan de hand van de kwaliteit van de volgende onderdelen:
 
@@ -206,13 +206,13 @@ Een maatschappelijke organisatie:
 
 - b. met een maatschappelijke organisatie of alliantie geen partnerschapsovereenkomst tot stand komt.
 
-6. De minister verstrekt een vast bedrag van € 10.000 aan de twaalf op grond van [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.5&z=2023-02-24&g=2023-02-24), geselecteerde allianties ter dekking van de kosten voor de totstandkoming van de theory of change.
+6. De minister verstrekt een vast bedrag van € 10.000 aan de twaalf op grond van [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=2&artikel=2.5&z=2023-08-01&g=2023-08-01), geselecteerde allianties ter dekking van de kosten voor de totstandkoming van de theory of change.
 
 7. De theory of change kan worden ingediend van 13 april 2022 tot en met 15 juli 2022. Aanvragen waarvoor de theory of change wordt ontvangen na 15 juli 2022 worden afgewezen. De minister selecteert uiterlijk op 12 september 2022 acht allianties waarmee door middel van het sluiten van een partnerschapsovereenkomst een strategisch partnerschap wordt aangegaan. De minister beslist uiterlijk op 31 december 2022 over de verlening van de alliantiesubsidie.
 
 ##### Artikel 2.7. Verplichtingen
 
-De subsidieontvanger behoeft de toestemming van de minister voor rechtshandelingen als bedoeld in [artikel 4:71, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71).
+Onverminderd [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=1&artikel=1.6&z=2023-08-01&g=2023-08-01) behoeft de subsidieontvanger de toestemming van de minister voor rechtshandelingen als bedoeld in [artikel 4:71, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71).
 
 ### Hoofdstuk 3. Archiefsubsidie
 
@@ -222,7 +222,7 @@ De minister kan instellingssubsidie verlenen aan één maatschappelijke organisa
 
 ##### Artikel 3.2. Aanvraagvereisten archiefsubsidie
 
-1. Een maatschappelijke organisatie kan tot en met 30 september 2022 een aanvraag indienen voor de subsidie, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&artikel=3.1&z=2023-02-24&g=2023-02-24), via het daartoe bestemde formulier indien de maatschappelijke organisatie:
+1. Een maatschappelijke organisatie kan tot en met 30 september 2022 een aanvraag indienen voor de subsidie, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=3&artikel=3.1&z=2023-08-01&g=2023-08-01), via het daartoe bestemde formulier indien de maatschappelijke organisatie:
 
 - a. over nationaal en internationaal materiaal op het terrein van gendergelijkheid of LHBTI+-gelijkheid beschikt;
 
@@ -240,7 +240,11 @@ De minister kan aan een instelling projectsubsidie verstrekken voor de kosten va
 
 ##### Artikel 4.2. Activiteitenplan en begroting
 
-1. In aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) bevat het activiteitenplan een beschrijving van de wijze waarop de resultaten van de gesubsidieerde activiteiten na afloop van de uitvoering geborgd worden.
+1. In aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4) bevat het activiteitenplan:
+
+- a. een beschrijving van de wijze waarop de resultaten van de gesubsidieerde activiteiten na afloop van de uitvoering geborgd worden; en
+
+- b. een beschrijving van het interne beleid van de aanvrager ten aanzien van het tegengaan van seksueel grensoverschrijdend gedrag binnen de eigen organisatie.
 
 2. In aanvulling op artikel 4.5 van de Kaderregeling bevat de begroting een gedifferentieerd uurtarief per functiegroep.
 
@@ -267,5 +271,19 @@ Deze regeling wordt binnen vijf jaar na inwerkingtreding geëvalueerd.
 ##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als Subsidieregeling gender- en LHBTI+-gelijkheid 2022–2027.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1.6. Algemene subsidieverplichting
+
+De ontvanger van een subsidie op grond van deze regeling is verplicht om er zorg voor te dragen dat seksueel grensoverschrijdend gedrag binnen zijn organisatie wordt tegengegaan. Indien de subsidie wordt verantwoord met toepassing van [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.6) of [artikel 7.8 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8), neemt de subsidieontvanger in zijn activiteitenverslag een nadere toelichting op over het interne beleid ten aanzien van het tegengaan van seksueel grensoverschrijdend gedrag. Indien [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0046320&hoofdstuk=1&artikel=1.5&z=2023-08-01&g=2023-08-01) van toepassing is, wordt eveneens een toelichting opgenomen in de in dat artikel bedoelde tussentijdse rapportages.
+
+### Hoofdstuk 2. Alliantiesubsidie
+
+### Hoofdstuk 3. Archiefsubsidie
+
+### Hoofdstuk 4. Projectsubsidie
+
+### Hoofdstuk 5. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
