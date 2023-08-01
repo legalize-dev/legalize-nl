@@ -4,7 +4,7 @@ identifier: "BWBR0032538"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2023-08-01"
-last_updated: "2022-08-01"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032538"
 soort: "beleidsregel"
@@ -60,7 +60,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 2. Datum aanvraag en beslissing
 
-Indien een aanvraag als bedoeld in [artikel 108, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=108), voor 1 maart voorafgaand aan het schooljaar waar de aanvraag betrekking op heeft, wordt ingediend, beslist de minister voor 15 april.
+Indien een aanvraag als bedoeld in [artikel 4.25, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.25), voor 1 maart voorafgaand aan het schooljaar waar de aanvraag betrekking op heeft, wordt ingediend, beslist de minister voor 15 april.
 
 ##### Artikel 3. Uitzonderingsscholen vanwege uitzonderlijke omstandigheden
 
@@ -78,11 +78,11 @@ Er is sprake van uitzonderlijke omstandigheden van structurele aard indien:
 
 ##### Artikel 5. Voorwaarden uitzonderingsscholen voor onbepaalde tijd
 
-Een school waar sprake is van uitzonderlijke omstandigheden van structurele aard zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032538&artikel=4&z=2022-08-01&g=2022-08-01) wordt voor onbepaalde tijd bekostigd dan wel instandgehouden indien:
+Een school waar sprake is van uitzonderlijke omstandigheden van structurele aard zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032538&artikel=4&z=2023-08-01&g=2023-08-01) wordt voor onbepaalde tijd bekostigd dan wel instandgehouden indien:
 
 - a. het aantal leerlingen van de school gedurende drie of meer achtereenvolgende schooljaren op de teldatum lager is dan de voor de school geldende opheffingsnorm als bedoeld in [artikel 4.24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.24),
 
-- b. op drie achtereenvolgende teldata voorafgaand aan het schooljaar waarvoor het verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032538&artikel=2&z=2022-08-01&g=2022-08-01) wordt ingediend, gemiddeld
+- b. op drie achtereenvolgende teldata voorafgaand aan het schooljaar waarvoor het verzoek als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032538&artikel=2&z=2023-08-01&g=2023-08-01) wordt ingediend, gemiddeld
 
 - 1. tenminste 30 leerlingen zijn ingeschreven op de school, waarbij de uitkomst van het gemiddelde naar boven wordt afgerond op een heel getal, of
 
