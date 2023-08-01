@@ -4,7 +4,7 @@ identifier: "BWBR0047690"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2025-01-01"
-last_updated: "2023-01-01"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047690"
 soort: "beleidsregel"
@@ -92,29 +92,29 @@ Deze beleidsregel regelt de wijze waarop de minister ten aanzien van onderwijsin
 
 ##### Artikel 6. Spoedaanwijzing en aanwijzing
 
-1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=4&z=2023-01-01&g=2023-01-01) kan de minister een twaalfde deel van de bekostiging voor het desbetreffende kalenderjaar direct met 100% inhouden indien het bevoegd gezag niet voldoet aan een:
+1. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=4&z=2023-08-01&g=2023-08-01) kan de minister een twaalfde deel van de bekostiging voor het desbetreffende kalenderjaar direct met 100% inhouden indien het bevoegd gezag niet voldoet aan een:
 
-- a. Dit onderdeel is nog niet in werking.
+- a. spoedaanwijzing als bedoeld in [artikel 153a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=153a), [artikel 122a van de Wet primair onderwijs BES](onbekend), [artikel 132a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=132a) of [artikel 3.38a van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.38a); of
 
 - b. aanwijzing als bedoeld in [artikel 153 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=153), [artikel 122 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=122), [artikel 132 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=132) of [artikel 3.38 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=3.38).
 
-2. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=5&z=2023-01-01&g=2023-01-01) kan de minister de bekostiging direct met 100% opschorten of inhouden indien het bevoegd gezag of, voor het hoger onderwijs, de raad van toezicht niet voldoet aan een:
+2. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=5&z=2023-08-01&g=2023-08-01) kan de minister de bekostiging direct met 100% opschorten of inhouden indien het bevoegd gezag of, voor het hoger onderwijs, de raad van toezicht niet voldoet aan een:
 
-- a. Dit onderdeel is nog niet in werking.
+- a. spoedaanwijzing als bedoeld in [artikel 3.1.6 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.6), [artikel 10.1a van de Wet educatie en beroepsonderwijs BES](onbekend) of de [artikelen 9.9b](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.9b), [10.3e1](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.3e1) of [11.7b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.7b); of
 
 - b. aanwijzing als bedoeld in [artikel 3.1.5 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=3.1.5), [artikel 10.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=10.1) of de [artikelen 9.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=9.9a), [10.3e](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=10.3e) of [11.7a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=11.7a).
 
 ##### Artikel 7. Redelijke termijn
 
-De minister neemt een besluit als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=4&z=2023-01-01&g=2023-01-01), of [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=5&z=2023-01-01&g=2023-01-01), slechts nadat het bevoegd gezag, of voor het hoger onderwijs, het instellingsbestuur een redelijke termijn heeft gekregen om de tekortkoming te herstellen.
+De minister neemt een besluit als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=4&z=2023-08-01&g=2023-08-01), of [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=5&z=2023-08-01&g=2023-08-01), slechts nadat het bevoegd gezag, of voor het hoger onderwijs, het instellingsbestuur een redelijke termijn heeft gekregen om de tekortkoming te herstellen.
 
 ##### Artikel 8. Hardheidsclausule
 
-De minister kan de terugvordering, lagere vaststelling, opschorting of inhouding, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=4&z=2023-01-01&g=2023-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=5&z=2023-01-01&g=2023-01-01) achterwege laten, matigen, of overgaan tot opschorten in plaats van inhouden indien strikte toepassing van die artikelen zou leiden tot een onbillijkheid van overwegende aard.
+De minister kan de terugvordering, lagere vaststelling, opschorting of inhouding, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=3&z=2023-08-01&g=2023-08-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=4&z=2023-08-01&g=2023-08-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=5&z=2023-08-01&g=2023-08-01) achterwege laten, matigen, of overgaan tot opschorten in plaats van inhouden indien strikte toepassing van die artikelen zou leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 9. Overgangsrecht
 
-Op de toepassing van bevoegdheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=2&z=2023-01-01&g=2023-01-01), naar aanleiding van tekortkomingen geconstateerd in inspectierapporten die zijn vastgesteld voor de inwerkingtreding van deze beleidsregel, blijft de [Beleidsregel financiële sancties bij bekostigde onderwijsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0031665), zoals die gold onmiddellijk voorafgaand aan de inwerkingtreding van deze beleidsregel, van toepassing.
+Op de toepassing van bevoegdheden als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=2&z=2023-08-01&g=2023-08-01), naar aanleiding van tekortkomingen geconstateerd in inspectierapporten die zijn vastgesteld voor de inwerkingtreding van deze beleidsregel, blijft de [Beleidsregel financiële sancties bij bekostigde onderwijsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0031665), zoals die gold onmiddellijk voorafgaand aan de inwerkingtreding van deze beleidsregel, van toepassing.
 
 ##### Artikel 10. Intrekking regeling
 
@@ -124,7 +124,7 @@ De [Beleidsregel financiële sancties bij bekostigde onderwijsinstellingen](http
 
 1. Deze beleidsregel treedt in werking met ingang van 1 januari 2023. Indien de Staatscourant waarin deze beleidsregel wordt geplaatst, wordt uitgegeven na 31 december 2022, treedt hij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-2. In afwijking van het eerste lid treden, indien het bij koninklijke boodschap van 29 september 2021 aanhangig gemaakte voorstel van wet houdende wijziging van een aantal onderwijswetten in verband met onder andere de uitbreiding van het bestuurlijk handhavingsinstrumentarium (Wet uitbreiding bestuurlijk instrumentarium onderwijs) tot wet is of wordt verheven en artikel I, onderdeel B, van die wet in werking treedt, [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=6&z=2023-01-01&g=2023-01-01), en artikel 6, tweede lid, onderdeel a, op het tijdstip van inwerkingtreding van artikel I, onderdeel B, van die wet in werking. De vorige volzin is niet van toepassing indien het tijdstip van inwerkingtreding van deze beleidsregel, bedoeld in het eerste lid, is gelegen na het tijdstip van inwerkingtreding van artikel I, onderdeel B, van de wet, genoemd in de vorige volzin.
+2. In afwijking van het eerste lid treden, indien het bij koninklijke boodschap van 29 september 2021 aanhangig gemaakte voorstel van wet houdende wijziging van een aantal onderwijswetten in verband met onder andere de uitbreiding van het bestuurlijk handhavingsinstrumentarium (Wet uitbreiding bestuurlijk instrumentarium onderwijs) tot wet is of wordt verheven en artikel I, onderdeel B, van die wet in werking treedt, [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047690&artikel=6&z=2023-08-01&g=2023-08-01), en artikel 6, tweede lid, onderdeel a, op het tijdstip van inwerkingtreding van artikel I, onderdeel B, van die wet in werking. De vorige volzin is niet van toepassing indien het tijdstip van inwerkingtreding van deze beleidsregel, bedoeld in het eerste lid, is gelegen na het tijdstip van inwerkingtreding van artikel I, onderdeel B, van de wet, genoemd in de vorige volzin.
 
 ##### Artikel 12. Citeertitel
 
