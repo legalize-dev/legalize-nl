@@ -4,7 +4,7 @@ identifier: "BWBR0043852"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2022-08-01"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043852"
 soort: "ministeriele-regeling"
@@ -80,7 +80,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2021.
 
 Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 
-## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=2&z=2022-08-01&g=2022-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=3&z=2022-08-01&g=2022-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=4&z=2022-08-01&g=2022-08-01) van de Regeling houdende regels over de nadere vooropleidingseisen voor toelating tot het middelbaar beroepsonderwijs (Doorstroomregeling vmbo – mbo 2020)
+## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=2&z=2023-08-01&g=2023-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=3&z=2023-08-01&g=2023-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043852&artikel=4&z=2023-08-01&g=2023-08-01) van de Regeling houdende regels over de nadere vooropleidingseisen voor toelating tot het middelbaar beroepsonderwijs (Doorstroomregeling vmbo – mbo 2020)
 
 | Kwalificatiedossier | Naam dossier | Crebo | Opleiding | Niveau | Leerweg |
 | --- | --- | --- | --- | --- | --- |
@@ -90,9 +90,7 @@ Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 | 23003 | **Glaszetten** | 25005 | Gezel glaszetter | 3 | BOL/BBL |
 | 23235 | **Industrieel produceren met hout** | 25585 | Allround montagemedewerker houttechniek | 3 | BOL/BBL |
 | 23005 | **Industriële lakverwerking** | 25011 | Vakkracht industrieel lakverwerker | 3 | BOL/BBL |
-| 23007 | **Machinaal houtbewerken** | 25015 | Allround machinaal houtbewerker | 3 | BOL/BBL |
 | 23008 | **Meubels en (scheeps)interieurs maken** | 25017 | Allround meubelmaker/(scheeps)-interieurbouwer | 3 | BOL/BBL |
-| 23009 | **Meubels stofferen** | 25021 | Allround meubelstoffeerder | 3 | BOL/BBL |
 | 23010 | **Onderhoud- en verbouwbedrijf** | 25023 | Allround vakkracht onderhoud- en klussenbedrijf | 3 | BOL/BBL |
 | 23236 | **Schilderen** | 25588 | Gezel schilder | 3 | BOL/BBL |
 | 23025 | **Schoonmaak en Glazenwassen** | 25031 | (Ambulant) objectleider | 3 | BOL/BBL |
@@ -111,35 +109,19 @@ Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 | 23055 | **Slopen** | 25114 | Allround sloper | 3 | BOL/BBL |
 | 23060 | **Steigerbouw** | 25126 | Eerste monteur steigerbouw | 3 | BOL/BBL |
 | 23238 | **Assemblage, Carrosseriebouw en Recreatievoertuigen** | 25594 | Eerste Carrosseriebouwer | 3 | BOL/BBL |
-| 23103 | **Autoschadeherstel-techniek** | 25226 | Eerste Autoschadehersteller | 3 | BOL/BBL |
-| 23103 | **Autoschadeherstel-techniek** | 25227 | Eerste Autoschadetechnicus | 3 | BOL/BBL |
 | 23105 | **Fietstechniek** | 25230 | Eerste Fietstechnicus | 3 | BOL/BBL |
 | 23116 | **Isolatiewerken** | 25279 | Opmeter technische isolatie | 3 | BOL/BBL |
-| 23118 | **Metaalbewerken** | 25286 | Allround constructiewerker | 3 | BOL/BBL |
-| 23118 | **Metaalbewerken** | 25287 | Allround lasser | 3 | BOL/BBL |
-| 23118 | **Metaalbewerken** | 25288 | Allround pijpenbewerker | 3 | BOL/BBL |
-| 23118 | **Metaalbewerken** | 25289 | Allround plaatwerker | 3 | BOL/BBL |
-| 23118 | **Metaalbewerken** | 25294 | Scheepsbouwer | 3 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25315 | Tekenaar werktuigbouw | 3 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25316 | Tekenaar werktuigkundige installaties | 3 | BOL/BBL |
 | 23125 | **Vliegtuigonderhoud** | 25320 | Constructie repair specialist vliegtuigonderhoud | 3 | BOL/BBL |
 | 23125 | **Vliegtuigonderhoud** | 25321 | Eerste monteur vliegtuigonderhoud | 3 | BOL/BBL |
-| 23130 | **Mechatronica** | 25339 | Eerste monteur elektrotechnische systemen | 3 | BOL/BBL |
-| 23130 | **Mechatronica** | 25340 | Eerste monteur Mechatronica | 3 | BOL/BBL |
 | 23132 | **Operationele Techniek** | 25346 | Operationeel technicus | 3 | BOL/BBL |
 | 23196 | **Voegen/gevelbehandelen** | 25504 | Vakman restauratie voegwerk | 3 | BOL/BBL |
-| 23215 | **Dakdekken** | 25086 | Allround dakdekker bitumen en kunststof | 3 | BOL/BBL |
-| 23215 | **Dakdekken** | 25087 | Allround dakdekker pannen/leien | 3 | BOL/BBL |
-| 23215 | **Dakdekken** | 25542 | Allround dakdekker metaal | 3 | BOL/BBL |
-| 23223 | **Koude- en klimaatsystemen** | 25561 | Eerste monteur koude- en klimaatsystemen | 3 | BOL/BBL |
-| 23223 | **Koude- en klimaatsystemen** | 25562 | Servicemonteur koude- en klimaatsystemen | 3 | BOL/BBL |
 | 23238 | **Assemblage, Carrosseriebouw en Recreatievoertuigen** | 25223 | Eerste Caravantechnicus | 3 | BOL/BBL |
 | 23253 | **Infratechniek** | 25266 | Eerste monteur datadistributie | 3 | BOL/BBL |
 | 23253 | **Infratechniek** | 25267 | Eerste monteur gas-, water- en warmtedistributie | 3 | BOL/BBL |
 | 23253 | **Infratechniek** | 25269 | Eerste monteur laagspanningsdistributie | 3 | BOL/BBL |
 | 23253 | **Infratechniek** | 25270 | Eerste monteur middenspanning-distributie | 3 | BOL/BBL |
-| 23254 | **Precisietechniek** | 25624 | Allround precisieverspaner | 3 | BOL/BBL |
-| 23254 | **Precisietechniek** | 25625 | Instrumentmaker | 3 | BOL/BBL |
 | 23259 | **Bootmannen** | 25635 | Bootman | 3 | BOL/BBL |
 | 23269 | **Interieurvakmanschap** | 25662 | Allround interieurvakman parketvloeren | 3 | BOL/BBL |
 | 23273 | **Voertuigen en mobiele werktuigen** | 25669 | Allround technicus voertuigen en mobiele werktuigen | 3 | BOL/BBL |
@@ -154,11 +136,6 @@ Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 | 23030 | **Analisten** | 25045 | Biologisch medisch analist | 4 | BOL/BBL |
 | 23030 | **Analisten** | 25046 | Chemisch-fysisch analist | 4 | BOL/BBL |
 | 23031 | **Audiciens** | 25047 | Audicien | 4 | BOL/BBL |
-| 23053 | **Middenkader bouw en infra** | 25104 | Middenkaderfunctionaris Bouw | 4 | BOL/BBL |
-| 23053 | **Middenkader bouw en infra** | 25105 | Middenkaderfunctionaris Infra | 4 | BOL/BBL |
-| 23053 | **Middenkader bouw en infra** | 25106 | Middenkaderfunctionaris Landmeetkunde | 4 | BOL/BBL |
-| 23053 | **Middenkader bouw en infra** | 25107 | Middenkaderfunctionaris Restauratie | 4 | BOL/BBL |
-| 23053 | **Middenkader bouw en infra** | 25108 | Middenkaderfunctionaris Verkeer en Stedenbouw | 4 | BOL/BBL |
 | 23058 | **Werkvoorbereiden /uitvoeren** | 25119 | Uitvoerder bouw/infra | 4 | BOL/BBL |
 | 23058 | **Werkvoorbereiden /uitvoeren** | 25120 | Uitvoerder gespecialiseerde aannemerij | 4 | BOL/BBL |
 | 23058 | **Werkvoorbereiden /uitvoeren** | 25121 | Uitvoerder hijswerk | 4 | BOL/BBL |
@@ -169,21 +146,14 @@ Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 | 23115 | **Infratechniek (kader)** | 25275 | Technicus data | 4 | BOL/BBL |
 | 23115 | **Infratechniek (kader)** | 25276 | Technicus electrotechniek | 4 | BOL/BBL |
 | 23115 | **Infratechniek (kader)** | 25277 | Technicus gas | 4 | BOL/BBL |
-| 23119 | **Middenkader Engineering** | 25296 | Commercieel technicus engineering | 4 | BOL/BBL |
-| 23119 | **Middenkader Engineering** | 25297 | Technicus engineering | 4 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25312 | Tekenaar constructeur | 4 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25313 | Tekenaar ontwerper elektrotechniek | 4 | BOL/BBL |
 | 23123 | **Technisch tekenen** | 25314 | Tekenaar ontwerper werktuigkundige installaties | 4 | BOL/BBL |
 | 23125 | **Vliegtuigonderhoud** | 25323 | Technicus avionica | 4 | BOL/BBL |
 | 23125 | **Vliegtuigonderhoud** | 25324 | Technicus mechanica | 4 | BOL/BBL |
-| 23131 | **Mechatronische systemen** | 25343 | Technicus elektrotechnische systemen | 4 | BOL/BBL |
-| 23131 | **Mechatronische systemen** | 25344 | Technicus mechatronica systemen | 4 | BOL/BBL |
 | 23132 | **Operationele Techniek** | 25345 | Allround operationeel technicus | 4 | BOL/BBL |
 | 23239 | **Maritieme techniek** | 25374 | \Scheeps- en jachtbouwkundige | 4 | BOL/BBL |
-| 23223 | **Koude- en klimaatsystemen** | 25560 | Technicus maintenance koude- en klimaatsystemen | 4 | BOL/BBL |
 | 23225 | **Engineering koude- en klimaatsystemen** | 25565 | Systeemontwerper koude- en klimaatsystemen | 4 | BOL/BBL |
-| 23254 | **Precisietechniek** | 25626 | Researchinstrumentmaker | 4 | BOL/BBL |
-| 23254 | **Precisietechniek** | 25627 | Verspaningstechnoloog | 4 | BOL/BBL |
 | 23256 | **Optiek** | 25631 | Opticien | 4 | BOL/BBL |
 | 23274 | **Specialist voertuigen en mobiele werktuigen** | 25670 | Technisch specialist voertuigen en mobiele werktuigen | 4 | BOL/BBL |
 | 23278 | **Maritiem officier** | 25680 | Maritiem officier alle schepen nautisch, koopvaardij | 4 | BOL/BBL |
@@ -227,5 +197,26 @@ Deze regeling wordt aangehaald als: Doorstroomregeling vmbo – mbo 2020.
 | 23133 | Werktuigkundige Installaties (Montage) | 25347 | Eerste Monteur dakbedekking | 3 | BOL/BBL |
 | 23133 | Werktuigkundige Installaties (Montage) | 25348 | Eerste monteur utiliteit | 3 | BOL/BBL |
 | 23133 | Werktuigkundige Installaties (Montage) | 25349 | Eerste monteur woning | 3 | BOL/BBL |
+| 23348 | Meubels stofferen | 25855 | Allround meubelstoffeerder | 3 | BOL/BBL |
+| 23352 | Dakdekken | 25867 | Allround dakdekker pannen/leien | 3 | BOL/BBL |
+| 23352 | Dakdekken | 25868 | Allround dakdekker bitumen en kunststof | 3 | BOL/BBL |
+| 23352 | Dakdekken | 25869 | Allround dakdekker metaal | 3 | BOL/BBL |
+| 23353 | Middenkader bouw en infra | 25870 | Middenkaderfunctionaris Bouw | 4 | BOL/BBL |
+| 23353 | Middenkader bouw en infra | 25871 | Middenkaderfunctionaris Infra | 4 | BOL/BBL |
+| 23353 | Middenkader bouw en infra | 25872 | Middenkaderfunctionaris Landmeetkunde | 4 | BOL/BBL |
+| 23353 | Middenkader bouw en infra | 25873 | Middenkaderfunctionaris Verkeer en Stedenbouw | 4 | BOL/BBL |
+| 23358 | Autoschadehersteltechniek | 25884 | Eerste autoschadehersteller | 3 | BOL/BBL |
+| 23358 | Autoschadehersteltechniek | 25885 | Technisch specialist autoschadeherstel | 4 | BOL/BBL |
+| 23359 | Koude- en klimaatsystemen | 25889 | Eerste monteur koude- en klimaatsystemen | 3 | BOL/BBL |
+| 23359 | Koude- en klimaatsystemen | 25888 | Servicemonteur koude- en klimaatsystemen | 3 | BOL/BBL |
+| 23359 | Koude- en klimaatsystemen | 25890 | Technicus industriële koude- en klimaatsystemen | 4 | BOL/BBL |
+| 23360 | Mechatronica | 25892 | Eerste monteur mechatronica | 3 | BOL/BBL |
+| 23360 | Mechatronica | 25893 | Technicus mechatronica | 4 | BOL/BBL |
+| 23361 | Productietechniek | 25895 | Allround medewerker productietechniek | 3 | BOL/BBL |
+| 23361 | Productietechniek | 25896 | Productietechnicus | 4 | BOL/BBL |
+| 23361 | Productietechniek | 25897 | Researchinstrumentmaker | 4 | BOL/BBL |
+| 23007 | Machinaal houtbewerken | 25015 | Allround machinaal houtbewerker | 3 | BOL/BBL |
+| 23371 | Engineering | 25919 | Technicus engineering | 4 | BOL/BBL |
+| 23371 | Engineering | 25920 | Commercieel technicus engineering | 4 | BOL/BBL |
 
 Deze regeling zal met de bijlage alsmede de toelichting in de Staatscourant worden geplaatst.
