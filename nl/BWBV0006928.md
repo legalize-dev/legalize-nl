@@ -4,7 +4,7 @@ identifier: "BWBV0006928"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-08-01"
-last_updated: "2021-08-29"
+last_updated: "2023-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006928"
 soort: "verdrag"
@@ -198,7 +198,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 ##### Artikel 10. Beschikbaarheid van personen om te getuigen of mee te werken aan een onderzoek
 
-1. De verzoekende Partij kan de aangezochte Partij om hulp vragen bij het uitnodigen van een persoon, niet zijnde een persoon op wie [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=13&z=2021-08-29&g=2021-08-29) van dit Verdrag van toepassing is, om te getuigen of mee te werken aan een onderzoek in de verzoekende Partij. De verzoekende Partij verplicht zich ertoe passende voorzieningen te treffen voor de veiligheid van een dergelijke persoon.
+1. De verzoekende Partij kan de aangezochte Partij om hulp vragen bij het uitnodigen van een persoon, niet zijnde een persoon op wie [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=13&z=2023-08-01&g=2023-08-01) van dit Verdrag van toepassing is, om te getuigen of mee te werken aan een onderzoek in de verzoekende Partij. De verzoekende Partij verplicht zich ertoe passende voorzieningen te treffen voor de veiligheid van een dergelijke persoon.
 
 2. De aangezochte Partij nodigt de persoon uit en stelt de verzoekende Partij onverwijld in kennis van zijn antwoord. Indien de persoon instemt met het verzoek, neemt de aangezochte Partij alle noodzakelijke stappen om het verzoek te faciliteren. Indien de persoon niet instemt, wordt hij of zij om die reden niet onderworpen aan een straf of dwangmaatregel ingevolge de nationale wetgeving van de verzoekende Partij of aangezochte Partij.
 
@@ -236,7 +236,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 ##### Artikel 13. Immuniteit voor getuigen en deskundigen
 
-1. Onverminderd de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=10&z=2021-08-29&g=2021-08-29), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=11&z=2021-08-29&g=2021-08-29) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=12&z=2021-08-29&g=2021-08-29) van dit Verdrag, wordt een persoon die verschijnt voor de gerechtelijke autoriteiten van de verzoekende Partij om te getuigen of anderszins mee te werken aan een onderzoek of een persoon die voor dat doel wordt overgebracht, niet vervolgd, vastgehouden, gestraft noch aan enige andere beperking van zijn persoonlijke vrijheid onderworpen in de verzoekende Partij wegens handelen of nalaten te handelen voorafgaand aan zijn of haar vertrek uit de aangezochte Partij.
+1. Onverminderd de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=10&z=2023-08-01&g=2023-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=11&z=2023-08-01&g=2023-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=12&z=2023-08-01&g=2023-08-01) van dit Verdrag, wordt een persoon die verschijnt voor de gerechtelijke autoriteiten van de verzoekende Partij om te getuigen of anderszins mee te werken aan een onderzoek of een persoon die voor dat doel wordt overgebracht, niet vervolgd, vastgehouden, gestraft noch aan enige andere beperking van zijn persoonlijke vrijheid onderworpen in de verzoekende Partij wegens handelen of nalaten te handelen voorafgaand aan zijn of haar vertrek uit de aangezochte Partij.
 
 2. Een in het eerste lid van dit artikel bedoelde persoon wordt niet onderworpen aan civiele procedures waaraan de persoon niet zou kunnen worden onderworpen indien hij of zij zich niet op het grondgebied van de verzoekende Partij zou bevinden.
 
@@ -244,7 +244,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 4. De in het eerste, tweede en derde lid van dit artikel verleende bescherming houdt op van toepassing te zijn indien een persoon die vrij is het grondgebied van de verzoekende Partij te verlaten, niet is vertrokken binnen dertig (30) dagen nadat hij of zij officieel in kennis is gesteld dat de aanwezigheid van de persoon niet langer nodig was, of, na vertrokken te zijn, vrijwillig is teruggekeerd. Deze periode omvat niet de tijd waarin de persoon niet in staat is het grondgebied van de verzoekende Partij te verlaten vanwege redenen die buiten zijn of haar macht zijn gelegen.
 
-5. Een persoon die erin toestemt te getuigen ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=10&z=2021-08-29&g=2021-08-29) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=12&z=2021-08-29&g=2021-08-29) van dit Verdrag, wordt niet onderworpen aan vervolging op basis van zijn of haar verklaring als getuige of deskundige, uitgezonderd in het geval van meineed of belemmering van de rechtsgang.
+5. Een persoon die erin toestemt te getuigen ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=10&z=2023-08-01&g=2023-08-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=12&z=2023-08-01&g=2023-08-01) van dit Verdrag, wordt niet onderworpen aan vervolging op basis van zijn of haar verklaring als getuige of deskundige, uitgezonderd in het geval van meineed of belemmering van de rechtsgang.
 
 ##### Artikel 14. Doortocht van personen in hechtenis
 
@@ -266,7 +266,7 @@ De centrale autoriteit van het Koninkrijk der Nederlanden is:
 
 ##### Artikel 16. Videoconferentie
 
-1. Wanneer het belang van een efficiënte samenwerking gediend is met het horen van een persoon als getuige of als deskundige door de gerechtelijke autoriteiten, ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=11&z=2021-08-29&g=2021-08-29) van dit Verdrag, kan de verzoekende Partij verzoeken dat het verhoor door middel van videoconferentie plaatsvindt, mits dit niet in strijd is met de nationale wetgeving van de aangezochte Partij.
+1. Wanneer het belang van een efficiënte samenwerking gediend is met het horen van een persoon als getuige of als deskundige door de gerechtelijke autoriteiten, ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=II&artikel=11&z=2023-08-01&g=2023-08-01) van dit Verdrag, kan de verzoekende Partij verzoeken dat het verhoor door middel van videoconferentie plaatsvindt, mits dit niet in strijd is met de nationale wetgeving van de aangezochte Partij.
 
 2. Ten behoeve van de uitvoering van dit Verdrag kunnen de Partijen overeenkomen live video- of rechtstreekse televisieverbindingen of andere passende communicatiefaciliteiten in te zetten in overeenstemming met de nationale wetten en procedures van beide Partijen indien dit doelmatig en in het belang van de rechtspleging is.
 
@@ -360,7 +360,7 @@ Dit Verdrag doet geen afbreuk aan bestaande verplichtingen van de Partijen ingev
 
 ##### Artikel 22. Territoriale toepassing
 
-Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het Europese deel van Nederland, het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba) alsmede op Aruba, Curaçao en Sint Maarten, tenzij anders bepaald in de kennisgeving bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=IV&artikel=24&z=2021-08-29&g=2021-08-29) van dit Verdrag. In het laatste geval kan het Koninkrijk der Nederlanden de toepassing van dit Verdrag te allen tijde uitbreiden tot een of meer van zijn afzonderlijke delen door middel van een kennisgeving aan de Verenigde Arabische Emiraten langs diplomatieke weg.
+Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het Europese deel van Nederland, het Caribische deel van Nederland (de eilanden Bonaire, Sint Eustatius en Saba) alsmede op Aruba, Curaçao en Sint Maarten, tenzij anders bepaald in de kennisgeving bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006928&hoofdstuk=IV&artikel=24&z=2023-08-01&g=2023-08-01) van dit Verdrag. In het laatste geval kan het Koninkrijk der Nederlanden de toepassing van dit Verdrag te allen tijde uitbreiden tot een of meer van zijn afzonderlijke delen door middel van een kennisgeving aan de Verenigde Arabische Emiraten langs diplomatieke weg.
 
 ##### Artikel 23. Overleg
 
