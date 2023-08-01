@@ -170,5 +170,3 @@ Voor de centraal schriftelijke en praktische examens in de beroepsgerichte profi
 Donderdag 20 juni 2024 is de examenafname van de aangewezen vakken door de commissie staatsexamens vo van het College voor toetsen en examens. Het besluit welke vakken dit zijn, wordt in maart 2024 gepubliceerd.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
