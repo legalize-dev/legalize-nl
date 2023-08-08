@@ -4,7 +4,7 @@ identifier: "BWBR0017624"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-09-01"
-last_updated: "2023-07-01"
+last_updated: "2023-08-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017624"
 soort: "AMvB"
@@ -64,10 +64,6 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - sein: verkeersteken inhoudende een ge- of verbod, een waarschuwing of een aanduiding;
 
-- trein: spoorvoertuig of samenstel van spoorvoertuigen;
-
-- treinstel: spoorvoertuig met eigen voortbeweginginrichting, bestemd voor het vervoer van personen en goederen, niet zijnde een spoorvoertuig met eigen voortbeweginginrichting, hoofdzakelijk bestemd en ingericht om andere spoorvoertuigen voort te bewegen;
-
 - **TSI Exploitatie en verkeersleiding:** Uitvoerings[verordening (EU) 2019/773](32673R2019) van de Commissie van 16 mei 2019 betreffende de technische specificaties inzake interoperabiliteit van het subsysteem exploitatie en verkeersleiding van het spoorwegsysteem in de Europese Unie en tot intrekking van Besluit 2012/757/EU (PbEU 2019, L 139I);
 
 - wet: de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
@@ -80,23 +76,21 @@ Vervallen
 
 ##### Artikel 3
 
-1. De spoorwegonderneming treft zodanige maatregelen, dat gedurende het gebruik van een hoofdspoorweg in haar opdracht geen gevaar ontstaat dat de aandacht van de bestuurder van het verkeer aldaar wordt afgeleid.
-
-2. Het is verboden zich in de bestuurderscabine van een trein te bevinden zonder voorafgaande toestemming van de betrokken spoorwegonderneming.
+Vervallen
 
 ##### Artikel 4
 
-1. Het is de bestuurder verboden om gedeelten van de hoofdspoorweg, waar het verkeer niet wordt geregeld door lichtseinen, te gebruiken zonder voorafgaande melding daarvan aan de beheerder.
+1. Het is verboden om gedeelten van de hoofdspoorweg, waar het verkeer niet wordt geregeld door lichtseinen, te gebruiken zonder voorafgaande toestemming daarvoor van de beheerder.
 
-2. De beheerder kan naar aanleiding van de melding in het belang van een veilig en ongestoord verkeer op de hoofdspoorweg aanwijzingen geven.
+2. In het belang van een veilig en ongestoord verkeer op de hoofdspoorweg kan de beheerder aanwijzingen verbinden aan de toestemming.
 
-3. De bestuurder is verplicht deze aanwijzingen op te volgen.
+3. De aanwijzingen, bedoeld in het tweede lid, worden opgevolgd.
 
 4. Het eerste lid is niet van toepassing indien de hoofdspoorweginfrastructuur van het betreffende gedeelte van de hoofdspoorweg en het betrokken spoorvoertuig zijn voorzien van een op elkaar afgestemd en goed functionerend ERTMS.
 
 ##### Artikel 5
 
-1. Het is de bestuurder verboden over een hoofdspoorweg gezien de rijrichting van de trein achteruit te rijden.
+1. Het is verboden over een hoofdspoorweg gezien de rijrichting van de trein achteruit te rijden.
 
 2. Het eerste lid is niet van toepassing:
 
@@ -106,15 +100,15 @@ Vervallen
 
 - c. bij het achteruitrijden met een treinstel over korte afstand uitsluitend in verband met het koppelen of ontkoppelen daarvan.
 
-3. De bestuurder is verplicht de aanwijzingen van de rangeerder onverwijld op te volgen.
+3. De aanwijzingen van de rangeerder worden opgevolgd.
 
 ##### Artikel 6
 
-1. Het is de bestuurder verboden een trein op een hoofdspoorweg terug te zetten zonder voorafgaande melding daarvan aan de beheerder.
+1. Het is verboden een trein op een hoofdspoorweg terug te zetten zonder voorafgaande toestemming daarvoor van de beheerder.
 
-2. De beheerder kan naar aanleiding van de melding in het belang van een veilig en ongestoord verkeer op de hoofdspoorweg aanwijzingen geven.
+2. In het belang van een veilig en ongestoord verkeer op de hoofdspoorweg kan de beheerder aanwijzingen verbinden aan de toestemming.
 
-3. De bestuurder is verplicht deze aanwijzingen op te volgen.
+3. De aanwijzingen, bedoeld in het tweede lid, worden opgevolgd.
 
 4. Voor de toepassing van dit artikel wordt onder terugzetten verstaan het achteruitrijden waarbij een reeds gepasseerd sein, wissel, spoorwegovergang of andere verkeersbeïnvloedende installatie wederom wordt gepasseerd.
 
@@ -124,7 +118,7 @@ Vervallen
 
 ##### Artikel 8
 
-De bestuurder die een trein onbeheerd op een hoofdspoorweg achterlaat, zorgt ervoor dat die trein niet uit zichzelf in beweging kan komen.
+Vervallen
 
 ##### Artikel 9
 
@@ -134,7 +128,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over het veilig e
 
 1. Het is verboden met een spoorvoertuig van een hoofdspoorweg gebruik te maken dan wel gebruik te laten maken indien de lading daarvan buiten het bij ministeriële regeling vastgestelde omgrenzingprofiel voor spoorvoertuigen uitsteekt.
 
-2. Onverminderd [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=38&z=2021-12-17&g=2023-07-01) is het eerste lid niet van toepassing indien:
+2. Onverminderd [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=38&z=2023-08-08&g=2023-08-08) is het eerste lid niet van toepassing indien:
 
 - a. de afmetingen van de lading blijven binnen het bij ministeriële regeling vastgestelde profiel;
 
@@ -152,7 +146,7 @@ Vervallen
 
 ##### Artikel 12
 
-Het is verboden door Onze Minister aan te wijzen spoorvoertuigen in een trein op een hoofdspoorweg te gebruiken of te laten gebruiken op een andere dan door Onze Minister bepaalde plaats in die trein.
+Vervallen
 
 ##### Artikel 13
 
@@ -164,7 +158,7 @@ Vervallen
 
 ##### Artikel 15
 
-Het is de spoorwegonderneming verboden een trein te laten vertrekken als de procedures genoemd in de geldende paragrafen van de TSI Exploitatie en verkeersleiding niet in acht zijn genomen.
+Vervallen
 
 ##### Artikel 16
 
@@ -172,7 +166,7 @@ Vervallen
 
 ##### Artikel 17
 
-Het is verboden met een spoorvoertuig over een hoofdspoorweg te rijden of te doen of laten rijden indien het gewicht van de lading daarvan het voor dat voertuig vastgestelde maximum laadvermogen overschrijdt.
+Vervallen
 
 ##### Artikel 18
 
@@ -180,7 +174,7 @@ Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspo
 
 ##### Artikel 19
 
-1. Onverminderd [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=18&z=2021-12-17&g=2023-07-01) en de door seinen aangegeven maximumsnelheid is het de bestuurder verboden over een hoofdspoorweg te rijden met een hogere dan door de betrokken spoorwegonderneming voor de trein vastgestelde maximum snelheid.
+1. Onverminderd [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=18&z=2023-08-08&g=2023-08-08) en de door de seinen aangegeven maximumsnelheid is de snelheid op de hoofdspoorweg niet hoger dan de door de betrokken spoorwegonderneming voor de trein vastgestelde maximumsnelheid.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over het vaststellen van de maximum snelheid.
 
@@ -188,33 +182,33 @@ Op hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspo
 
 ##### Artikel 20
 
-1. Onverminderd [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=18&z=2021-12-17&g=2023-07-01) is het de bestuurder verboden over een hoofdspoorweg te rijden met een zodanige snelheid, dat hij niet in staat is de trein tot stilstand te brengen binnen de afstand waarover hij de spoorweg kan overzien en waarover deze vrij is, indien:
+1. Onverminderd [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=18&z=2023-08-08&g=2023-08-08) is de snelheid op de hoofdspoorweg niet hoger dan de snelheid waarmee de trein tot stilstand kan worden gebracht binnen de afstand waarover de spoorweg te overzien en vrij is, indien:
 
-- a. hij rijdt op een gedeelte van de hoofdspoorweg waar het verkeer niet wordt geregeld door lichtseinen,
+- a. wordt gereden op een gedeelte van de hoofdspoorweg waar het verkeer niet wordt geregeld door lichtseinen;
 
-- b. hij op aanwijzing van de beheerder een lichtsein voorzien van een onderbord met het opschrift P als bedoeld in [bijlage 4 van de Regeling spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4) passeert dat een rood licht uitstraalt,
+- b. op aanwijzing van de beheerder een hoofdsein dat een rood licht uitstraalt en is voorzien van een onderbord met het opschrift P als bedoeld in [bijlage 4 van de Regeling spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017707&bijlage=4) wordt gepasseerd;
 
-- c. hij rijdt op een gedeelte van de hoofdspoorweg dat buiten dienst is gesteld,
+- c. wordt gereden op een gedeelte van de hoofdspoorweg dat buiten dienst is gesteld; of
 
-- d. hij via de voorgeschreven communicatiemiddelen een alarmsignaal heeft ontvangen, met dien verstande dat de snelheid ten hoogste 40 km/h mag bedragen.
+- d. via de voorgeschreven communicatiemiddelen een alarmsignaal is ontvangen, met dien verstande dat de snelheid ten hoogste 40 kilometer per uur bedraagt.
 
-2. Onze Minister kan gedeelten van de hoofdspoorweg als bedoeld in het eerste lid, onderdeel a, aanwijzen waarop het verbod, bedoeld in dat lid, niet van toepassing is.
+2. Onze Minister kan gedeelten van de hoofdspoorweg als bedoeld in het eerste lid, onderdeel a, aanwijzen waarop het eerste lid niet van toepassing is.
 
 #### § 3. Seinen
 
 ##### Artikel 21
 
-1. De bestuurder die over hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2) rijdt, die gelegen zijn in een kruising of een samenloop met een voor het openbaar verkeer openstaande weg als bedoeld in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) en die niet worden aangeduid als een overweg door middel van de borden J12 en J13 van [bijlage 1 bij RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1) is verplicht:
+1. Indien gereden wordt over hoofdspoorwegen als bedoeld in [bijlage 2 bij het Besluit aanwijzing hoofdspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2), die gelegen zijn in een kruising of een samenloop met een voor het openbaar verkeer openstaande weg als bedoeld in de [Wegenverkeerswet 1994](onbekend), en die niet worden aangeduid als een overweg door middel van de borden J12 en J13 van [bijlage 1 bij RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1):
 
-- a. de snelheid te verminderen en zo nodig te stoppen als de veiligheid van het verkeer dat verlangt;
+- a. wordt de snelheid verminderd en wordt zo nodig gestopt als de veiligheid van het verkeer dat verlangt;
 
-- b. de weggebruikers voor te laten gaan;
+- b. wordt de weggebruikers voorrang verleend;
 
-- c. de aanwijzingen 1 tot en met 7 van [bijlage 2, behorende bij RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=2), op te volgen;
+- c. worden de aanwijzingen 1 tot en met 7 van [bijlage 2, behorende bij RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=2), opgevolgd;
 
-- d. aan de weggebruikers de voor het rijden van de trein en voor de veiligheid van het verkeer benodigde stoptekens, bedoeld in [artikel 82, vierde lid, van RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=82), en andere aanwijzingen te geven.
+- d. worden aan de weggebruikers de voor het rijden van de trein en voor de veiligheid van het verkeer benodigde stoptekens, bedoeld in [artikel 82, vierde lid, van RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=82), en andere aanwijzingen gegeven.
 
-2. Wanneer de bestuurder de stoptekens en aanwijzingen in het eerste lid, onder d, niet kan geven, worden deze gegeven door de rangeerder die de trein begeleidt.
+2. Wanneer de stoptekens en aanwijzingen, bedoeld in het eerste lid, onderdeel d, niet door de bestuurder kunnen worden gegeven, worden deze gegeven door de begeleider van de trein.
 
 #### § 4. Werkzaamheden aan of nabij de hoofdspoorweg
 
@@ -254,13 +248,13 @@ Vervallen
 
 ##### Artikel 27
 
-Het is verboden zonder noodzaak de noodreminrichting van een trein in werking te stellen.
+Vervallen
 
 #### § 7. Gebruik van hoofdspoorwegen uitsluitend binnen spoorwegemplacementen
 
 ##### Artikel 28
 
-Het is de bestuurder verboden tijdens het vertrek van de trein een remming als gevolg van het gebruik van de noodreminrichting te onderbreken.
+Vervallen
 
 ##### Artikel 29
 
@@ -270,7 +264,7 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - rangeren: op een spoorwegemplacement splitsen of opnieuw samenvoegen van treinen, dan wel in een bepaalde volgorde op een spoor of naar andere sporen manoeuvreren;
 
-- spoorwegemplacement: op grond van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=30&z=2021-12-17&g=2023-07-01) aangewezen deel van de hoofdspoorweg.
+- spoorwegemplacement: op grond van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=30&z=2023-08-08&g=2023-08-08) aangewezen deel van de hoofdspoorweg.
 
 ##### Artikel 30
 
@@ -282,7 +276,7 @@ Bij rangeren en parkeren kunnen de regels met betrekking tot geluidsinstallaties
 
 ##### Artikel 32
 
-Het is de bestuurder verboden om bij het rangeren te rijden met een hogere snelheid dan 40 kilometer per uur.
+Het is verboden om bij het rangeren te rijden met een hogere snelheid dan 40 kilometer per uur.
 
 #### § 9. Noodremming
 
@@ -298,7 +292,7 @@ De spoorwegonderneming verstrekt voordat in haar opdracht wordt gerangeerd, aan 
 
 ##### Artikel 35
 
-Bij ministeriële regeling kunnen nadere regels gesteld worden over aanwijzingen als bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2021-12-17&g=2023-07-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2021-12-17&g=2023-07-01), en [10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=10&z=2021-12-17&g=2023-07-01).
+Bij ministeriële regeling kunnen nadere regels gesteld worden over aanwijzingen als bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2023-08-08&g=2023-08-08), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2023-08-08&g=2023-08-08) en [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=10&z=2023-08-08&g=2023-08-08).
 
 #### § 10. Diverse bepalingen
 
@@ -310,7 +304,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de aard, uitvoering
 
 De beheerder draagt er zorg voor:
 
-- a. dat gedeelten van de hoofdspoorweg, die buiten dienst zijn gesteld worden aangeduid met de daartoe door de beheerder aangewezen seinen overeenkomstig het krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=36&z=2021-12-17&g=2023-07-01) bepaalde;
+- a. dat gedeelten van de hoofdspoorweg, die buiten dienst zijn gesteld worden aangeduid met de daartoe door de beheerder aangewezen seinen overeenkomstig het krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=36&z=2023-08-08&g=2023-08-08) bepaalde;
 
 - b. dat de hoofdspoorweg ter plaatse waar werkzaamheden aan of nabij die hoofdspoorweg worden uitgevoerd, in de bij ministeriële regeling bepaalde gevallen buiten dienst wordt gesteld of doelmatig wordt afgeschermd;
 
@@ -318,27 +312,17 @@ De beheerder draagt er zorg voor:
 
 ##### Artikel 38
 
-1. Onze Minister kan, gehoord de beheerder, ontheffing of vrijstelling verlenen van het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=12&z=2021-12-17&g=2023-07-01).
-
-2. Aan de ontheffing of vrijstelling kunnen voorschriften of beperkingen worden verbonden in het belang van een veilig en ongestoord gebruik van de hoofdspoorwegen.
-
-3. Onze Minister kan, de beheerder gehoord indien het de toepassing van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=12&z=2021-12-17&g=2023-07-01) betreft, de ontheffing of vrijstelling wijzigen of intrekken:
-
-- a. indien de door de aanvrager verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn, dat op de aanvraag anders zou zijn beslist indien de juiste gegevens bij de beoordeling van de aanvraag bekend zouden zijn geweest;
-
-- b. in het belang van een veilig en ongestoord gebruik van de hoofdspoorwegen.
-
-4. Het is verboden te handelen in strijd met de voorschriften of beperkingen, bedoeld in het tweede lid.
+Vervallen
 
 ##### Artikel 39
 
-Overtreding van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=22&z=2021-12-17&g=2023-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=27&z=2021-12-17&g=2023-07-01) vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87).
+Overtreding van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=22&z=2023-08-08&g=2023-08-08) vormt een strafbaar feit in de zin van [artikel 87, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=87).
 
 #### § 10. Overgangsrecht
 
 ##### Artikel 40
 
-Overtreding van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=3&z=2021-12-17&g=2023-07-01), [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2021-12-17&g=2023-07-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=5&z=2021-12-17&g=2023-07-01), [6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2021-12-17&g=2023-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=8&z=2021-12-17&g=2023-07-01), [10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=10&z=2021-12-17&g=2023-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=12&z=2021-12-17&g=2023-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=13&z=2021-12-17&g=2023-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=15&z=2021-12-17&g=2023-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=17&z=2021-12-17&g=2023-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=18&z=2021-12-17&g=2023-07-01), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=19&z=2021-12-17&g=2023-07-01), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=20&z=2021-12-17&g=2023-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=21&z=2021-12-17&g=2023-07-01), [26, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=26&z=2021-12-17&g=2023-07-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=28&z=2021-12-17&g=2023-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=32&z=2021-12-17&g=2023-07-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=33&z=2021-12-17&g=2023-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=37&z=2021-12-17&g=2023-07-01) en [38, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=38&z=2021-12-17&g=2023-07-01), vormt een beboetbaar feit in de zin van [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77).
+Overtreding van de [artikelen 4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=4&z=2023-08-08&g=2023-08-08), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=5&z=2023-08-08&g=2023-08-08), [6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=6&z=2023-08-08&g=2023-08-08), [10, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=10&z=2023-08-08&g=2023-08-08), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=13&z=2023-08-08&g=2023-08-08), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=18&z=2023-08-08&g=2023-08-08), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=19&z=2023-08-08&g=2023-08-08), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=20&z=2023-08-08&g=2023-08-08), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=21&z=2023-08-08&g=2023-08-08), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=6&artikel=26&z=2023-08-08&g=2023-08-08), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=32&z=2023-08-08&g=2023-08-08), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=33&z=2023-08-08&g=2023-08-08) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=37&z=2023-08-08&g=2023-08-08), vormt een beboetbaar feit in de zin van [artikel 77, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77).
 
 #### § 12. Bepalingen van strafrechtelijke aard
 
@@ -354,7 +338,7 @@ Vervallen
 
 ##### Artikel 43
 
-Na de inwerkingtreding van [artikel 23 van het Besluit bijzondere spoorwegen](onbekend) berust de [Regeling spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017707) op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=9&z=2021-12-17&g=2023-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=10&z=2021-12-17&g=2023-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=12&z=2021-12-17&g=2023-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=19&z=2021-12-17&g=2023-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=30&z=2021-12-17&g=2023-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=35&z=2021-12-17&g=2023-07-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=36&z=2021-12-17&g=2023-07-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=37&z=2021-12-17&g=2023-07-01) van het Besluit spoorverkeer.
+Na de inwerkingtreding van [artikel 23 van het Besluit bijzondere spoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0036778&artikel=23) berust de [Regeling spoorverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0017707) op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=2&artikel=9&z=2023-08-08&g=2023-08-08), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=3&artikel=10&z=2023-08-08&g=2023-08-08), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=4&artikel=19&z=2023-08-08&g=2023-08-08), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=7&artikel=30&z=2023-08-08&g=2023-08-08), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=35&z=2023-08-08&g=2023-08-08), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=36&z=2023-08-08&g=2023-08-08) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0017624&paragraaf=8&artikel=37&z=2023-08-08&g=2023-08-08) van het Besluit spoorverkeer.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
