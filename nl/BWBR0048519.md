@@ -4,7 +4,7 @@ identifier: "BWBR0048519"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-22"
-last_updated: "2023-07-02"
+last_updated: "2023-08-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048519"
 soort: "zbo"
@@ -45,7 +45,7 @@ besluit:
 
 In deze subsidieregeling wordt verstaan onder:
 
-- a. **advocaat:** de advocaat die op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=V&artikel=10&z=2023-08-10&g=2023-07-02) van deze regeling is toegelaten tot deze subsidieregeling;
+- a. **advocaat:** de advocaat die op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=V&artikel=10&z=2023-08-10&g=2023-08-10) van deze regeling is toegelaten tot deze subsidieregeling;
 
 - b. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
@@ -55,7 +55,7 @@ In deze subsidieregeling wordt verstaan onder:
 
 - e. **mediation:** het bemiddelen in een geschil tussen de rechtzoekende en het Instituut of de Minister van Economische Zaken en Klimaat (lees: NCG) bij de aanvraag om vergoeding van schade bij het Instituut en de afwikkeling van schade en leveren van inbreng bij de voorbereiding van een versterkingsbesluit na ontvangst van de beoordeling, bedoeld in [artikel 13i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13i), en de uitvoering van de versterkingsmaatregelen, waarbij een neutrale bemiddelingsdeskundige de onderhandelingen tussen de rechtzoekende en zijn wederpartij begeleidt teneinde vanuit hun werkelijke belangen tot gezamenlijk gedragen en voor ieder van hen optimale resultaten te komen;
 
-- f. **mediator:** de mediator als bedoeld in [artikel 33a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33a) en die op basis van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=V&artikel=11&z=2023-08-10&g=2023-07-02) van deze regeling is toegelaten tot deze subsidieregeling;
+- f. **mediator:** de mediator als bedoeld in [artikel 33a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33a) en die op basis van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=V&artikel=11&z=2023-08-10&g=2023-08-10) van deze regeling is toegelaten tot deze subsidieregeling;
 
 - g. **regeling:** Subsidieregeling rechtsbijstand en aanverwante kosten TwG;
 
@@ -153,7 +153,7 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 3. De mediation is voor de rechtzoekende kosteloos; er wordt geen eigen bijdrage opgelegd.
 
-4. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=3&z=2023-08-10&g=2023-07-02), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=5&z=2023-08-10&g=2023-07-02), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=6&z=2023-08-10&g=2023-07-02) en [7, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=7&z=2023-08-10&g=2023-07-02) van de regeling, zijn van overeenkomstige toepassing.
+4. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=3&z=2023-08-10&g=2023-08-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=5&z=2023-08-10&g=2023-08-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=6&z=2023-08-10&g=2023-08-10) en [7, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=7&z=2023-08-10&g=2023-08-10) van de regeling, zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. De vergoeding voor financieel en/of bouwkundig advies
 
@@ -203,9 +203,9 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 5. Indien de rechtzoekende aangeeft dat hij op het moment van inwerkingtreding van deze regeling reeds rechtsbijstand van een advocaat heeft in het kader van de vordering tot schadevergoeding onder de [TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252) dan wel in het kader van het leveren van inbreng bij de voorbereiding van een versterkingsbesluit na ontvangst van de beoordeling, bedoeld in [artikel 13i, derde lid, TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13i) en de uitvoering van de versterkingsmaatregelen, voegt het bestuur deze advocaat toe.
 
-6. Indien op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=III&artikel=8&z=2023-08-10&g=2023-07-02) mediation wordt ingezet, dient de rechtzoekende hiervoor gebruik te maken van het door het bestuur opgesteld formulier ‘Aanvraag mediation TwG’. Het derde en vierde lid zijn voor mediation van overeenkomstige toepassing.
+6. Indien op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=III&artikel=8&z=2023-08-10&g=2023-08-10) mediation wordt ingezet, dient de rechtzoekende hiervoor gebruik te maken van het door het bestuur opgesteld formulier ‘Aanvraag mediation TwG’. Het derde en vierde lid zijn voor mediation van overeenkomstige toepassing.
 
-7. De advocaat respectievelijk mediator dient voor de werkzaamheden als genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2023-08-10&g=2023-07-02) respectievelijk [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=III&artikel=8&z=2023-08-10&g=2023-07-02), een aanvraag in voor de in dat artikel genoemde werkzaamheden. Voor deze aanvraag voor rechtsbijstand respectievelijk mediation gebruikt de advocaat respectievelijk de mediator een gestandaardiseerd aanvraagformulier, en voegt hierbij een afschrift van de bestreden beslissing waarop de betreffende aanvraag voor rechtsbijstand ziet, voor zover van toepassing.
+7. De advocaat respectievelijk mediator dient voor de werkzaamheden als genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2023-08-10&g=2023-08-10) respectievelijk [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=III&artikel=8&z=2023-08-10&g=2023-08-10), een aanvraag in voor de in dat artikel genoemde werkzaamheden. Voor deze aanvraag voor rechtsbijstand respectievelijk mediation gebruikt de advocaat respectievelijk de mediator een gestandaardiseerd aanvraagformulier, en voegt hierbij een afschrift van de bestreden beslissing waarop de betreffende aanvraag voor rechtsbijstand ziet, voor zover van toepassing.
 
 ##### Artikel 14. Aanvraag van de vergoeding
 
@@ -225,7 +225,7 @@ Binnen zes maanden na afronding van de werkzaamheden die in het kader van deze r
 
 1. Deze regeling is van toepassing op voorbereidingen van het versterkingsbesluit die nog in uitvoering zijn nadat een beoordeling is ontvangen door de eigenaar dan wel verzoeken tot schadevergoeding onder de [TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252), die op het moment van inwerkingtreding van deze regeling nog in behandeling zijn, en waarop nog geen voornemen is uitgebracht dan wel beslissing op bezwaar door het Instituut is genomen.
 
-2. Verzoeken voor toevoeging voor het beroep en het hoger beroep, zoals bedoeld in het [derde en vierde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2023-08-10&g=2023-07-02), vallen onder deze regeling, indien in de procedure waarvoor de toevoeging wordt gevraagd op het moment van inwerkingtreding van deze regeling nog geen uitspraak is gedaan.
+2. Verzoeken voor toevoeging voor het beroep en het hoger beroep, zoals bedoeld in het [derde en vierde lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2023-08-10&g=2023-08-10), vallen onder deze regeling, indien in de procedure waarvoor de toevoeging wordt gevraagd op het moment van inwerkingtreding van deze regeling nog geen uitspraak is gedaan.
 
 ##### Artikel 17. Citeertitel
 
