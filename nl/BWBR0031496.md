@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2023-05-02"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Besluit:
 
 5. De bevoegde autoriteit, bedoeld in artikel 37, derde lid, van Verordening (EU) nr. 267/2012, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), elk voor het gebied waartoe hun competenties zich uitstrekken.
 
-6. De bevoegde autoriteit, bedoeld in artikel 40, eerste lid, van Verordening (EU) nr. 267/2012, is, afhankelijk van de aard van de informatie, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, de Minister van Financiën dan wel de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3).
+6. De bevoegde autoriteit, bedoeld in artikel 40, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267), is, afhankelijk van de aard van de informatie, de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, de Minister van Financiën dan wel de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 40, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 40, eerste lid, van [Verordening (EU) nr. 267/2012](32012R0267) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 40 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
 
 7. De bevoegde autoriteit, bedoeld in artikel 1 bis, tweede lid, en artikel 1 ter, tweede lid, van Verordening (EU) nr. 359/2011, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, en de bevoegde autoriteit, bedoeld in artikel 1 quater, eerste lid, van Verordening (EU) nr. 359/2011, is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking of de inspecteur, bedoeld in [artikel 1:3, eerste lid, onder c, van de Algemene Douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:3), elk voor het gebied waartoe hun competenties zich uitstrekken.
 
@@ -87,6 +87,12 @@ Besluit:
 - –. de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
 
 - –. de Minister van Financiën.
+
+11. De bevoegde autoriteit, bedoeld in artikel 2, derde, vierde en vijfde lid, artikel 3 bis, artikel 3 ter, artikel 3 quater, artikel 3 sexies, tweede en derde lid, en artikel 5, eerste lid, van [Verordening (EU) nr. 2023/1529](33429R2023), is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft een goederentransactie, een transactie met betrekking tot technische bijstand of tussenhandeldiensten, informatie of kennisgevingen over deze onderwerpen.
+
+12. De bevoegde autoriteit, bedoeld in artikel 2, derde en vierde lid, artikel 3 bis, artikel 3 ter, artikel 3 quater, artikel 3 quinquies, eerste lid, artikel 3 sexies, tweede en derde lid, en artikel 5, eerste lid, van [Verordening (EU) nr. 2023/1529](33429R2023), is de Minister van Financiën voor zover het betreft financieringen, financiële bijstand, financiële diensten of transacties en informatie of kennisgevingen over deze onderwerpen, met dien verstande dat instellingen als bedoeld in [artikel 10, tweede lid, onder a, c, e tot en met j, l en m, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) de informatie, bedoeld in artikel 5, eerste lid, van [Verordening (EU) nr. 2023/1529](33429R2023) verstrekken aan De Nederlandsche Bank en instellingen als bedoeld in artikel 10, tweede lid, onder b, d en k, van de Sanctiewet 1977 de informatie, bedoeld in artikel 5, eerste lid, van [Verordening (EU) nr. 2023/1529](33429R2023) verstrekken aan de Autoriteit Financiële Markten. De Nederlandsche Bank en de Autoriteit Financiële Markten zijn ten behoeve van de uitvoering van voornoemd artikel 5 bevoegd de ontvangen informatie aan de Minister van Financiën te verstrekken.
+
+13. De bevoegde autoriteit, bedoeld in artikel 12, tweede lid, van [Verordening (EU) nr. 2023/1529](33429R2023), is de Minister van Financiën voor zover het betreft tegoeden, de Minister voor Volkshuisvesting en Ruimtelijke Ordening voor zover het betreft vastgoed, inclusief bedrijfspanden, de Minister van Economische Zaken en Klimaat voor zover het betreft niet-beursgenoteerde ondernemingen, de Minister van Onderwijs, Cultuur en Wetenschap voor zover het betreft kunst- en cultuurobjecten en de Minister van Infrastructuur en Waterstaat voor zover het betreft vaar- en luchtvaartuigen.
 
 ##### Artikel 4
 
@@ -121,3 +127,13 @@ Vervallen
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+1. Het is verboden te handelen in strijd met artikel 2, eerste en tweede lid, artikel 3, artikel 5, eerste lid, en artikel 12, eerste en tweede lid, van [Verordening (EU) nr. 2023/1529](33429R2023) van de Raad van de Europese Unie van 20 juli 2023 betreffende beperkende maatregelen in het licht van de militaire steun van Iran aan de Russische aanvalsoorlog tegen Oekraïne (PbEU 2023, L 186).
+
+2. Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 2, derde lid, vierde of zevende lid, artikel 3 bis, artikel 3 ter, artikel 3 quater, artikel 3 quinquies of artikel 3 sexies, eerste en tweede lid, van [Verordening (EU) nr. 2023/1529](33429R2023) van toepassing is.
+
+## Bijlage. bij Sanctieregeling Iran 2012
+
+Vervallen
