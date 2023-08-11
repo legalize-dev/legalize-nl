@@ -4,7 +4,7 @@ identifier: "BWBR0048531"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-08-11"
-last_updated: "2023-06-01"
+last_updated: "2023-08-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048531"
 soort: "ministeriele-regeling"
@@ -56,11 +56,11 @@ Van het ingevolge [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Min
 
 ##### Artikel 2
 
-Als leidinggevende, als bedoeld in paragraaf 1.3 van de CAO Rijk, worden, ten aanzien van de onder hen ressorterende ambtenaren, aangewezen en gevolmachtigd, de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&bijlage=1&z=2023-08-11&g=2023-06-01) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
+Als leidinggevende, als bedoeld in paragraaf 1.3 van de CAO Rijk, worden, ten aanzien van de onder hen ressorterende ambtenaren, aangewezen en gevolmachtigd, de ambtenaren, genoemd in kolom 1 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&bijlage=1&z=2023-08-11&g=2023-08-11) bij dit besluit, voor zover het betreft de uitoefening van de bevoegdheden, vermeld in kolom 2 van die bijlage.
 
 ##### Artikel 3
 
-Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&bijlage=2&z=2023-08-11&g=2023-06-01) bij dit besluit, voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
+Als bevoegd om te beschikken over bedragen voor het aangaan van verplichtingen en voor het verrichten van uitgaven, worden aangewezen de ambtenaren, genoemd in kolom 1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&bijlage=2&z=2023-08-11&g=2023-08-11) bij dit besluit, voor zover het betreft de bedragen, genoemd in kolom 2 van die bijlage.
 
 ##### Artikel 4
 
@@ -74,11 +74,11 @@ Aan de Algemeen Directeur blijft voorbehouden:
 
 ##### Artikel 5
 
-Bij afwezigheid of ontstentenis van de Algemeen Directeur, kan de in [artikel 1 onder a.](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=1&z=2023-08-11&g=2023-06-01) genoemde functionaris als plaatsvervanger optreden. Bij diens afwezigheid of ontstentenis kunnen de andere in artikel 1 onder c. tot en met e. genoemde functionarissen ieder afzonderlijk als plaatsvervanger optreden.
+Bij afwezigheid of ontstentenis van de Algemeen Directeur, kan de in [artikel 1 onder a.](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=1&z=2023-08-11&g=2023-08-11) genoemde functionaris als plaatsvervanger optreden. Bij diens afwezigheid of ontstentenis kunnen de andere in artikel 1 onder c. tot en met e. genoemde functionarissen ieder afzonderlijk als plaatsvervanger optreden.
 
 ##### Artikel 6
 
-De in [artikel 1 onder a. tot en met e.](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=1&z=2023-08-11&g=2023-06-01) genoemde functionarissen kunnen de bij dit besluit toegekende bevoegdheden verder door mandateren. Voor zover noodzakelijk en van toepassing, wordt deze functionarissen toegestaan, dat zij elkaar bij afwezigheid of ontstentenis onderling vervangen ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen.
+De in [artikel 1 onder a. tot en met e.](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=1&z=2023-08-11&g=2023-08-11) genoemde functionarissen kunnen de bij dit besluit toegekende bevoegdheden verder door mandateren. Voor zover noodzakelijk en van toepassing, wordt deze functionarissen toegestaan, dat zij elkaar bij afwezigheid of ontstentenis onderling vervangen ten aanzien van de aangelegenheden die hun dienstonderdeel betreffen.
 
 ##### Artikel 7
 
@@ -92,11 +92,11 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Justid 2023.
 
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=2&z=2023-08-11&g=2023-06-01) van het mandaatbesluit justid 2023
+## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=2&z=2023-08-11&g=2023-08-11) van het mandaatbesluit justid 2023
 
-De ambtenaren bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=4&z=2023-08-11&g=2023-06-01) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het Burgerlijk Wetboek (BW) en de Collectieve Arbeidsovereenkomst (CAO) Rijk aan de rol van werkgever c.q. leidinggevende, als bedoeld in deze CAO, zijn toegekend.
+De ambtenaren bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=4&z=2023-08-11&g=2023-08-11) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het Burgerlijk Wetboek (BW) en de Collectieve Arbeidsovereenkomst (CAO) Rijk aan de rol van werkgever c.q. leidinggevende, als bedoeld in deze CAO, zijn toegekend.
 
-De ambtenaren bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=4&z=2023-08-11&g=2023-06-01) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het BW en de CAO Rijk aan de rol van werkgever c.q. leidinggevende, als bedoeld in deze CAO, zijn toegekend, met uitzondering van:
+De ambtenaren bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=4&z=2023-08-11&g=2023-08-11) van dit besluit, bevoegd tot uitoefening van alle bevoegdheden die in of krachtens het BW en de CAO Rijk aan de rol van werkgever c.q. leidinggevende, als bedoeld in deze CAO, zijn toegekend, met uitzondering van:
 
 - a. de bevoegdheid van de werkgever tot het sluiten van een arbeidsovereenkomst (Hoofdstuk 2. CAO Rijk);
 
@@ -132,7 +132,7 @@ De ambtenaren bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd [a
 | 1.6.1 | manager Opsporing | B |
 | 1.6.2 | manager Digitaliserings- en Archiveringsdienst | B |
 
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=3&z=2023-08-11&g=2023-06-01) van het mandaatbesluit justid 2023
+## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&artikel=3&z=2023-08-11&g=2023-08-11) van het mandaatbesluit justid 2023
 
 De ambtenaren genoemd in kolom 1 zijn bevoegd tot het aangaan van verplichtingen en het doen van uitgaven. In kolom 2 is het maximumbedrag opgenomen waarvoor de ambtenaar telkens een verplichting mag aangaan of uitgave mag doen. Voor de Algemeen Directeur geldt geen maximumbedrag.
 
@@ -162,4 +162,4 @@ De ambtenaren genoemd in kolom 1 zijn bevoegd tot het aangaan van verplichtingen
 | 1.6.1 | manager Opsporing | 10.000 |
 | 1.6.2 | manager Digitaliserings- en Archiveringsdienst | 10.000 |
 
-Dit besluit zal met de toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&bijlage=1&z=2023-08-11&g=2023-06-01) in de Staatscourant worden geplaatst.
+Dit besluit zal met de toelichting en [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048531&bijlage=1&z=2023-08-11&g=2023-08-11) in de Staatscourant worden geplaatst.
