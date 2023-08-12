@@ -401,25 +401,3 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 Deze regeling wordt aangehaald als: Subsidieregeling patiënten- en gehandicaptenorganisaties 2024–2028.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4.2a. Aanvullende voorwaarden nieuwe toetreder
-
-1. Een instellingssubsidie aan een nieuwe toetreder wordt uitsluitend verstrekt indien:
-
-- a. deze gedurende ministens 12 maanden voorafgaand aan het boekjaar waarop de subsidieaanvraag betrekking heeft, activiteiten als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&artikel=4.1&z=2024-08-31&g=2024-08-31) heeft ontplooid zonder subsidie op grond van deze regeling; en
-
-- b. er geen reeds gesubsidieerd federatief samenwerkingsverband is dat zich richt op eenzelfde thema of onderwerp voor dezelfde doelgroep.
-
-2. In afwijking van het eerste lid, onder b, kan de minister een instellingssubsidie verstrekken aan een nieuwe toetreder indien deze op 1 september voorafgaand aan het boekjaar waarop de subsidieaanvraag betrekking heeft over 50% meer reeds gesubsidieerde pg-organisaties beschikt dan het reeds gesubsidieerde federatieve samenwerkingsverband.
-
-##### Artikel 4.2b. Afbouw reeds gesubsidieerde federatieve samenwerkingsverbanden
-
-1. Indien toepassing wordt gegeven aan [artikel 4.2a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&artikel=4.2a&z=2024-08-31&g=2024-08-31), kan de minister de subsidieaanvraag van het reeds gesubsidieerde federatieve samenwerkingsverband verlenen onder de voorwaarde dat de instellingssubsidie in een periode van twee jaar wordt afgebouwd, waarbij de instellingssubsidie in het eerste afbouwjaar maximaal 75% en in het tweede afbouwjaar maximaal 50% bedraagt van het subsidiebedrag genoemd in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048542&hoofdstuk=4&artikel=4.3&z=2024-08-31&g=2024-08-31).
-
-2. Indien de situatie, als bedoeld in het eerste lid, zich voordoet, wordt er in de vier jaar na bovengenoemde verlening geen instellingssubsidie op grond van de onderhavige regeling verstrekt aan het reeds gesubsidieerde federatieve samenwerkingsverband, bedoeld in het eerste lid.
-
-### Hoofdstuk 5. Subsidiestroom 4: Instellingssubsidie voor de drie landelijke pg-koepels
-
-### Hoofdstuk 6. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
