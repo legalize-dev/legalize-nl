@@ -4,7 +4,7 @@ identifier: "BWBR0048384"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-10"
-last_updated: "2023-07-12"
+last_updated: "2023-08-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048384"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **coalitie:** coalitie als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=5&z=2023-07-12&g=2023-07-12);
+- **coalitie:** coalitie als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=5&z=2023-10-21&g=2023-08-15);
 
 - **coördinerende gemeente:** coördinerende gemeente, genoemd in [Bijlage 1 van de Regeling specifieke uitkering vastgoedtransitie residentiële jeugdhulp 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045673&bijlage=1);
 
@@ -72,11 +72,11 @@ In deze regeling wordt verstaan onder:
 
 - **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **kleinschalige voorziening:** voorziening als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-07-12&g=2023-07-12);
+- **kleinschalige voorziening:** voorziening als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-10-21&g=2023-08-15);
 
 - **landelijk samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 2.47, achttiende lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47);
 
-- **penvoerder:** samenwerkingsverband als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=5&z=2023-07-12&g=2023-07-12);
+- **penvoerder:** samenwerkingsverband als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=5&z=2023-10-21&g=2023-08-15);
 
 - **regionaal expertteam jeugd:** regionaal expertteam jeugd in één van de 42 Jeugdregio’s in Nederland;
 
@@ -100,11 +100,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Doel van de regeling
 
-1. De Minister kan in 2023 aan een penvoerder subsidie verstrekken voor de uitvoering van een plan van aanpak in de kalenderjaren 2023 en 2024, voor kwalitatief goed onderwijs en passende ondersteuning aan jeugdigen die behoren tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-07-12&g=2023-07-12), bedoelde doelgroep, tijdens de af- en ombouw van de gesloten jeugdhulp.
+1. De Minister kan in 2023 aan een penvoerder subsidie verstrekken voor de uitvoering van een plan van aanpak in de kalenderjaren 2023 en 2024, voor kwalitatief goed onderwijs en passende ondersteuning aan jeugdigen die behoren tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-10-21&g=2023-08-15), bedoelde doelgroep, tijdens de af- en ombouw van de gesloten jeugdhulp.
 
-2. De subsidie heeft ten doel om door middel van de uitvoering van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-07-12&g=2023-07-12), bij te dragen aan de verdere ontwikkeling en organisatie van kwalitatief goed onderwijs en ondersteuning voor jeugdigen die in de periode van 2023 tot en met 2024 tijdelijk verblijven in gesloten of open jeugdhulpinstellingen, inclusief kleinschalige voorzieningen of kleinschalige woonvoorzieningen, en beoogt bij te dragen aan een soepele overgang na hun residentiële verblijf.
+2. De subsidie heeft ten doel om door middel van de uitvoering van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-10-21&g=2023-08-15), bij te dragen aan de verdere ontwikkeling en organisatie van kwalitatief goed onderwijs en ondersteuning voor jeugdigen die in de periode van 2023 tot en met 2024 tijdelijk verblijven in gesloten of open jeugdhulpinstellingen, inclusief kleinschalige voorzieningen of kleinschalige woonvoorzieningen, en beoogt bij te dragen aan een soepele overgang na hun residentiële verblijf.
 
-3. De subsidie heeft tevens ten doel om door middel van de uitvoering van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-07-12&g=2023-07-12), bij te dragen aan de voorbereiding en aansluiting van het onderwijs bij de af- en ombouw van de gesloten jeugdhulp, door het opbouwen van kennis- en expertise en het bevorderen van samenwerking tussen de verschillende partijen van de coalitie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=5&z=2023-07-12&g=2023-07-12), die betrokken zijn bij de ontwikkeling van de jeugdigen.
+3. De subsidie heeft tevens ten doel om door middel van de uitvoering van de activiteiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-10-21&g=2023-08-15), bij te dragen aan de voorbereiding en aansluiting van het onderwijs bij de af- en ombouw van de gesloten jeugdhulp, door het opbouwen van kennis- en expertise en het bevorderen van samenwerking tussen de verschillende partijen van de coalitie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=5&z=2023-10-21&g=2023-08-15), die betrokken zijn bij de ontwikkeling van de jeugdigen.
 
 ##### Artikel 4. Doelgroep en te subsidiëren activiteiten in het plan van aanpak
 
@@ -156,7 +156,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Inhoud plan van aanpak
 
-1. Het plan van aanpak bevat activiteiten als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-07-12&g=2023-07-12), die gericht zijn op jeugdigen die behoren tot de doelgroep, bedoeld in artikel 4, eerste lid, zodat zij zich optimaal kunnen ontwikkelen binnen het onderwijs.
+1. Het plan van aanpak bevat activiteiten als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-10-21&g=2023-08-15), die gericht zijn op jeugdigen die behoren tot de doelgroep, bedoeld in artikel 4, eerste lid, zodat zij zich optimaal kunnen ontwikkelen binnen het onderwijs.
 
 2. In het plan van aanpak geeft de penvoerder de beoogde samenwerking en afstemming vorm tussen de verschillende partijen die betrokken zijn in de coalitie.
 
@@ -166,7 +166,7 @@ In deze regeling wordt verstaan onder:
 
 - a. een beknopte regiovisie met de voorgenomen regionale veranderingen in aanloop naar kalenderjaar 2030 als gevolg van de af- en ombouw van grootschalige gesloten jeugdhulpinstellingen en een omschrijving van de gevolgen voor het onderwijs van de jeugdigen in de coalitie in 2023 en 2024, waarvan het bovenregionaal plan van de coördinerende gemeente of gemeenten een onderdeel kan zijn;
 
-- b. de gestelde concrete doelen van de coalitie, in aansluiting op de subsidiedoelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=3&z=2023-07-12&g=2023-07-12) en de regiovisie als bedoeld in onderdeel a;
+- b. de gestelde concrete doelen van de coalitie, in aansluiting op de subsidiedoelen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=3&z=2023-10-21&g=2023-08-15) en de regiovisie als bedoeld in onderdeel a;
 
 - c. de inspanning die verricht is om relevante regionale partijen te betrekken bij de uitvoering van het plan van aanpak;
 
@@ -192,7 +192,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de contactgegevens van de penvoerder en de andere betrokken samenwerkingsverbanden;
 
-- d. het plan van aanpak, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=6&z=2023-07-12&g=2023-07-12);
+- d. het plan van aanpak, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=6&z=2023-10-21&g=2023-08-15);
 
 - e. een ondertekende samenwerkingsovereenkomst van alle samenwerkingsverbanden als bedoeld in onderdeel a waaruit blijkt dat alle betrokken samenwerkingsverbanden hebben ingestemd met de aanvraag, en waarin is omschreven wat de gezamenlijke afspraken zijn met betrekking tot inzet van middelen en menskracht;
 
@@ -212,7 +212,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Beoordeling en weigeringsgronden
 
-1. De Minister beoordeelt de subsidieaanvraag, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=7&z=2023-07-12&g=2023-07-12), aan de hand van het beoordelingskader dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&bijlage=1&z=2023-07-12&g=2023-07-12) bij deze regeling is gevoegd.
+1. De Minister beoordeelt de subsidieaanvraag, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=7&z=2023-10-21&g=2023-08-15), aan de hand van het beoordelingskader dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&bijlage=1&z=2023-10-21&g=2023-08-15) bij deze regeling is gevoegd.
 
 2. De subsidieverstrekking kan worden geweigerd indien:
 
@@ -220,7 +220,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de subsidie wordt aangevraagd voor één of meerdere activiteiten die niet onder de subsidiabele activiteiten vallen;
 
-- c. onvoldoende aannemelijk is dat de activiteiten waarvoor subsidie wordt aangevraagd, zijn gericht op de doelgroep, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-07-12&g=2023-07-12);
+- c. onvoldoende aannemelijk is dat de activiteiten waarvoor subsidie wordt aangevraagd, zijn gericht op de doelgroep, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-10-21&g=2023-08-15);
 
 - d. de subsidieaanvraag niet voldoet aan de criteria van het beoordelingskader.
 
@@ -272,7 +272,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling onderwijscoalities af- en o
 |   |   | In de regiovisie is geput uit gesprekken met – of bronnen van – relevante partijen, zoals het bovenregionaal plan van de coördinerende gemeenten of het transformatieplan van de instelling. Als er belangrijke informatie mist, is duidelijk aangegeven waarom dit nog niet benoemd kan worden. |
 |   |   | De belangrijkste (verwachtte) consequenties voor het onderwijs van de jeugdigen in de coalitie voor 2023 en 2024 zijn beschreven. Daarbij wordt breed gekeken, en in ieder geval gereflecteerd op wat dit vraagt van de scholen bij gesloten jeugdhulp en de samenwerkingsverbanden. Mogelijk ook het ‘regulier’ v(s)o en/of het mbo en/of de gemeenten. |
 | 2 | Het plan van aanpak bevat concrete beoogde doelstellingen van de coalitie die aansluiten op de regiovisie en het doel van de subsidieregeling | De doelstellingen zijn helder en concreet geformuleerd in aansluiting op de eigen regiovisie en tweeledige doelstelling van de subsidieregeling. |
-| 3 | Het plan van aanpak bevat de beoogde activiteiten, welke onder één van de subsidiabele activiteiten vallen | Per activiteit is een korte toelichting opgenomen welke activiteiten uitgevoerd gaan worden, met daarbij een beschrijving van: – onder welke subsidiabele activiteit uit [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-07-12&g=2023-07-12) het valt; – de concrete inhoud van de activiteit, waaruit ook blijkt dat de activiteit onder één van de subsidiabele activiteiten valt en zich richt op de beoogde doelgroep uit [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-07-12&g=2023-07-12); – begin- en einddatum; – welke partij de activiteit uit gaat voeren, waar mogelijk zo concreet mogelijk wie wat gaat doen (dus bijvoorbeeld: zijn het docenten, onderwijsconsulenten, mentoren). |
+| 3 | Het plan van aanpak bevat de beoogde activiteiten, welke onder één van de subsidiabele activiteiten vallen | Per activiteit is een korte toelichting opgenomen welke activiteiten uitgevoerd gaan worden, met daarbij een beschrijving van: – onder welke subsidiabele activiteit uit [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-10-21&g=2023-08-15) het valt; – de concrete inhoud van de activiteit, waaruit ook blijkt dat de activiteit onder één van de subsidiabele activiteiten valt en zich richt op de beoogde doelgroep uit [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=4&z=2023-10-21&g=2023-08-15); – begin- en einddatum; – welke partij de activiteit uit gaat voeren, waar mogelijk zo concreet mogelijk wie wat gaat doen (dus bijvoorbeeld: zijn het docenten, onderwijsconsulenten, mentoren). |
 |   |   | De activiteiten sluiten logisch aan op de doelstellingen van de coalitie. |
 |   |   | Bij de uitvoering van de activiteiten wordt zoveel als mogelijk gebruik gemaakt van bestaande expertise en kennis van de scholen bij jeugdhulpinstellingen. Alsook de inzet van eigen personeel. |
 | 4 | Het plan van aanpak bevat een begroting op hoofdlijnen | Het plan bevat per activiteit een sluitende begroting op hoofdlijnen van de geraamde kosten. De onderdelen uit het format van DUS-I zijn hierin verwerkt. |
@@ -280,86 +280,6 @@ Deze regeling wordt aangehaald als: Subsidieregeling onderwijscoalities af- en o
 | 5 | Het plan van aanpak bevat een omschrijving van de beoogde samenwerking in de coalitie en de inspanning die is geleverd om partijen te betrekken | Er wordt duidelijk beschreven hoe de betrokken samenwerkingsverbanden, scholen, mbo-instellingen en/of gemeenten in de coalitie hun samenwerking voor de activiteiten vormgeven. Er wordt in ieder geval ingegaan op de betrokkenheid en (beoogde) rol van de coördinerende gemeente(n) en waar relevant ook de school of scholen bij de gesloten instelling. |
 |   |   | Er is aannemelijk gemaakt dat er een inspanning is verricht om relevante regionale partijen te betrekken bij de uitvoering van het plan van aanpak. Als dit niet gelukt is, is hiervoor een verklaring gegeven. |
 | 6 | Het plan van aanpak bevat een beschrijving van de voorgenomen eigen monitoring en evaluatie | Er is beschreven hoe de coalitie van plan is om de doelstellingen en activiteiten in het plan van aanpak te monitoren en te evalueren. |
-
-## Bijlage 2. Regio-indeling met aanbieders en coördinerende gemeenten gesloten jeugdhulp
-
-Onderstaande coördinerende gemeenten hebben het bovenregionaal plan en strategisch vastgoedplan in bezit. Het bovenregionaal plan beschrijft het toekomstperspectief voor gesloten jeugdhulpinstellingen in het bovenregionale gebied, en wordt opgeleverd aan het Ministerie van Volksgezondheid, Welzijn en Sport. Het strategisch vastgoedplan geeft inzicht in de vastgoedtransitie vanuit de context van de bestaande jeugdhulp-accommodaties, op basis van het bovenregionaal plan13wetten.nl - Regeling - Regeling specifieke uitkering vastgoedtransitie residentiële jeugdhulp 2021 - BWBR0045673 (overheid.nl).
-
-Deze indeling zou gebruikt kunnen worden bij het komen tot coalities. Coalities hebben de mogelijkheid om af te wijken van deze indeling wanneer deze niet passend is.
-
-| Bovenregionaal gebied | Instellingen gesloten jeugdhulp | Jeugdregio’s met bovenaan de accounthoudende regio | Coördinerende gemeente |
-| --- | --- | --- | --- |
-| Zuid-Oost | Via Jeugd Icarus | **Zuid-Limburg** | **Roermond** |
-| Zuid-Oost | Via Jeugd Icarus | Noord-Limburg | **Roermond** |
-| Zuid-Oost | Via Jeugd Icarus | Midden-Limburg West | **Roermond** |
-| Zuid-Oost | Via Jeugd Icarus | Midden-Limburg Oost | **Roermond** |
-| Zuid-Oost | Bijzonder Jeugdwerk OGH | Zuid Oost Brabant | **Roermond** |
-| Zuid-Oost | Bijzonder Jeugdwerk OGH | Noordoost Brabant | **Roermond** |
-| Zuid-Oost | Bijzonder Jeugdwerk OGH | Midden Brabant | **Roermond** |
-| Zuid-West | Via Jeugd Almata | **West Brabant West** | **Roosendaal** |
-| Zuid-West | Via Jeugd Almata | West-Brabant-Oost | **Roosendaal** |
-| Zuid-West | Via Jeugd Almata | Zeeland | **Roosendaal** |
-| Zuid-Holland | Horizon Schakenbosch | **Rotterdam Rijnmond** | **Rotterdam** |
-| Zuid-Holland | Horizon Schakenbosch | Holland Rijnland | **Rotterdam** |
-| Zuid-Holland | Horizon Schakenbosch | Haaglanden | **Rotterdam** |
-| Zuid-Holland | Horizon Schakenbosch | Zuid-Holland-Zuid | **Rotterdam** |
-| Zuid-Holland | Horizon Schakenbosch | Midden-Holland | **Rotterdam** |
-| Noord-Holland | Horizon Antonius | **Noord-Kennemerland** | **Castricum** |
-| Noord-Holland | Horizon Antonius | Kop van Noord-Holland | **Castricum** |
-| Noord-Holland | Horizon Antonius | West-Friesland | **Castricum** |
-| Noord-Holland | Parlan | **Zuid-Kennemerland** | **Velsen** |
-| Noord-Holland | Parlan | Midden-Kennemerland | **Velsen** |
-| Noord-Holland | Levvel | **Amsterdam-Amstelland** | **Amsterdam** |
-| Noord-Holland | Levvel | Haarlemmermeer | **Amsterdam** |
-| Noord-Holland | Levvel | Zaanstreek-Waterland | **Amsterdam** |
-| Noord-Holland | Levvel | Gooi- en Vechtstreek | **Amsterdam** |
-| Utrecht Flevoland | Pluryn | **Utrecht** | **Utrecht** |
-| Utrecht Flevoland | Pluryn | Utrecht West | **Utrecht** |
-| Utrecht Flevoland | Pluryn | Flevoland | **Utrecht** |
-| Utrecht Flevoland | Pluryn | Lekstroom | **Utrecht** |
-| Utrecht Flevoland | Pluryn | Zuidoost-Utrecht | **Utrecht** |
-| Utrecht Flevoland | Pluryn | Eemland | **Utrecht** |
-| Oost | OGH | **Centraal Gelderland** | **Arnhem** |
-| Oost | OGH | Rijk van Nijmegen | **Arnhem** |
-| Oost | OGH | Achterhoek | **Arnhem** |
-| Oost | OGH | Rivierenland | **Arnhem** |
-| Oost | OGH | Food Valley | **Arnhem** |
-| Oost | OGH | Middel IJssel – Oost Veluwe | **Arnhem** |
-| Oost | OGH | IJsselland | **Arnhem** |
-| Oost | OGH | Twente | **Arnhem** |
-|   | ’s Heerenloo | **Noord-Veluwe** | **Ermelo1** |
-| Noord | Elker | **Groningen** | **Groningen** |
-| Noord | Elker | Drenthe | **Groningen** |
-| Noord | Jeugdhulp Friesland | **Friesland** | **Leeuwarden** |
-
-1 Omdat sinds het ontstaan van de regeling ’s Heerenloo zich teruggetrokken heeft als aanbieder gesloten jeugdhulp kan deze instelling in dit verband buiten beschouwing gelaten worden.
-
-##### Artikel 8a. Subsidieplafond, maximale hoogte subsidie en verdeling beschikbare middelen in 2025
-
-1. In afwijking van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=8&z=2025-07-10&g=2025-07-10) is voor het verstrekken van subsidie op grond van deze regeling in 2025 naar aanleiding van subsidieaanvragen als bedoeld in [artikel 3 lid 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0048384&artikel=3&z=2025-07-10&g=2025-07-10), een bedrag van € 17.250.000 beschikbaar.
-
-2. Het subsidiebedrag dat in 2025 ten hoogste kan worden verstrekt, wordt berekend op basis van het aantal vo-leerlingen op 1 oktober 2024 op de vestigingen van de scholen die op 1 januari 2025 zijn aangesloten bij het desbetreffende samenwerkingsverband.
-
-3. De subsidie bedraagt per vo-leerling € 18,49.
-
-## Bijlage 1a. Beoordelingskader 2025
-
-**Deze bijlage hoort bij artikel 9, lid 1a, van de Subsidieregeling onderwijscoalities af- en ombouw gesloten jeugdhulp.**
-
-|   | Criterium | Voldoet aan dit criterium |
-| --- | --- | --- |
-| 1 | Het plan van aanpak bevat een regiovisie met voorgenomen veranderingen in de gesloten jeugdzorg op lange en korte termijn en de gevolgen daarvan voor onderwijs | De belangrijkste voorgenomen regionale veranderingen vanuit de zorg die relevant zijn voor onderwijs in aanloop naar kalenderjaar 2030 als gevolg van de af- en ombouw zijn beknopt omschreven, zowel kwantitatief als kwalitatief. |
-|   |   | De belangrijkste (verwachte) consequenties voor het onderwijs van de jeugdigen in de coalitie voor de jaren in de aanloop naar 2030 zijn beschreven. Daarbij wordt breed gekeken, en in ieder geval gereflecteerd op wat dit vraagt van de scholen bij gesloten jeugdhulp, mbo-instellingen en de samenwerkingsverbanden. Indien aan de orde wordt hierbij ook ingegaan op het effect dat dit heeft op de overige scholen voor (v)so, zorginstelling(en) en gemeenten. |
-|   |   | In de regiovisie is geput uit gesprekken met – of bronnen van – relevante partijen, zoals het bovenregionaal plan van de coördinerende gemeenten of het transformatieplan van de gesloten instelling. Als er belangrijke informatie mist, is duidelijk aangegeven waarom dit nog niet benoemd kan worden. |
-| 2 | Het plan van aanpak bevat concrete beoogde doelstellingen van de coalitie die aansluiten op de regiovisie en het doel van de subsidieregeling | De doelstellingen zijn helder en concreet geformuleerd in aansluiting op de eigen regiovisie en de doelstelling van de subsidieregeling. |
-| 3 | Het plan van aanpak bevat de beoogde activiteiten, welke onder één van de subsidiabele activiteiten vallen | Per activiteit is een korte toelichting opgenomen welke activiteiten uitgevoerd gaan worden, met daarbij een beschrijving van: – onder welke subsidiabele activiteit het valt; – de concrete inhoud van de activiteit, waaruit ook blijkt dat de activiteit zich richt op de doelgroep; – begin- en einddatum van de activiteit; – welke partij de activiteit uit gaat voeren, waar mogelijk zo concreet mogelijk wie wat gaat doen (dus bijvoorbeeld: zijn het docenten, onderwijsconsulenten, mentoren). |
-|   |   | De activiteiten sluiten logisch aan op de doelstellingen van de coalitie. |
-|   |   | Bij de uitvoering van de activiteiten wordt zoveel als mogelijk gebruik gemaakt van bestaande expertise en kennis van de scholen bij jeugdhulpinstellingen. |
-| 4 | Het plan van aanpak bevat een begroting op hoofdlijnen | Het plan bevat per activiteit een sluitende begroting op hoofdlijnen van de geraamde kosten. De onderdelen uit het format van DUS-I zijn hierin verwerkt. |
-|   |   | De middelen (geld, tijd en mankracht) worden zo doelmatig mogelijk ingezet om de doelstellingen te behalen. Externe inhuur wordt zo veel mogelijk vermeden. |
-| 5 | Het plan van aanpak bevat een omschrijving van de beoogde samenwerking in de coalitie en de inspanning die is geleverd om partijen te betrekken | Er wordt duidelijk beschreven hoe de betrokken samenwerkingsverbanden, scholen, mbo-instellingen en/of gemeenten in de coalitie hun samenwerking voor de activiteiten vormgeven. Er wordt in ieder geval ingegaan op de betrokkenheid en (beoogde) rol van de coördinerende gemeente(n), mbo-instelling(en) en de school of scholen bij de gesloten instelling. |
-|   |   | Er is aannemelijk gemaakt dat er een inspanning is verricht om relevante regionale partijen, waaronder in ieder geval mbo-instellingen en scholen bij gesloten jeugdhulpinstellingen, te betrekken bij de uitvoering van het plan van aanpak. Als dit niet gelukt is, is hiervoor een verklaring gegeven en is opgenomen hoe de coalitie hier gedurende de subsidieperiode inzet op blijft plegen. |
-| 6 | Het plan van aanpak bevat een beschrijving van de voorgenomen eigen monitoring en evaluatie | Het plan van aanpak bevat een beschrijving van de voorgenomen eigen monitoring en evaluatie. |
 
 ## Bijlage 2. Regio-indeling met aanbieders en coördinerende gemeenten gesloten jeugdhulp
 
