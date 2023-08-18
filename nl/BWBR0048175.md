@@ -4,7 +4,7 @@ identifier: "BWBR0048175"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-06"
-last_updated: "2023-04-20"
+last_updated: "2023-08-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048175"
 soort: "ministeriele-regeling"
@@ -108,9 +108,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5. Vergoeding
 
-1. Aan de leden wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 8/36.
+1. Aan het lid, genoemd in [artikel 4, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2023-08-18&g=2023-08-18), wordt, indien hij daarvan gebruik wenst te maken, en indien hij niet valt onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 12/36.
 
-2. Aan de voorzitters van de door het Rijk ingestelde Taskforces ten behoeve van de versnelling van de woningbouw wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 2/36.
+2. Aan de leden, genoemd in [artikel 4, derde lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2023-08-18&g=2023-08-18), wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 8/36.
+
+3. Aan de voorzitters van de door het Rijk ingestelde Taskforces ten behoeve van de versnelling van de woningbouw wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 2/36.
 
 ##### Artikel 6. Secretariaat
 
