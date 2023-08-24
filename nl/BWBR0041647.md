@@ -4,7 +4,7 @@ identifier: "BWBR0041647"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2022-07-08"
+last_updated: "2023-08-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041647"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Mkb-onderneming
 
-1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2022-07-08&g=2022-07-08) wordt verstaan onder mkb-onderneming:
+1. Voor de toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2023-08-24&g=2023-08-24) wordt verstaan onder mkb-onderneming:
 
 een onderneming die op grond van de laatst vastgestelde jaarrekening op het moment van een aanvraag of melding van de eenmalige handeling, aan ten minste twee van de volgende drie criteria voldoet:
 
@@ -64,7 +64,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 - 3°. een jaarlijkse netto-omzet van ten hoogste € 50.000.000.
 
-2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2022-07-08&g=2022-07-08), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
+2. In afwijking van het eerste lid wordt voor de toepassing van onderdeel A8 emissies in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2023-08-24&g=2023-08-24), onder een mkb-onderneming verstaan: een uitgevende instelling waarvan op het moment van de aanvraag van de eenmalige toezichthandeling nog geen vastgestelde jaarrekening beschikbaar is, indien de totale tegenwaarde van de onder het prospectus aan te bieden effecten ten hoogste € 25.000.000 bedraagt.
 
 3. Indien een onderneming deel uitmaakt van een groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), wordt bij de beoordeling of sprake is van een mkb-onderneming uitgegaan van de vastgestelde geconsolideerde jaarrekening van de uiteindelijke moeder.
 
@@ -72,7 +72,7 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 
 ##### Artikel 3. In rekening brengen vergoedingen
 
-1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2022-07-08&g=2022-07-08) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2022-07-08&g=2022-07-08).
+1. De toezichthouder hanteert voor het verrichten van een eenmalige handeling de vergoedingen die zijn vastgesteld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=2&artikel=4&z=2023-08-24&g=2023-08-24) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0041647&paragraaf=3&artikel=5&z=2023-08-24&g=2023-08-24).
 
 2. De toezichthouder brengt een vergoeding voor zover mogelijk direct na ontvangst van de aanvraag of de melding in rekening.
 
@@ -220,6 +220,12 @@ een onderneming die op grond van de laatst vastgestelde jaarrekening op het mome
 | EU.A3.05 | Melding uit hoofde van artikel 15 bis EU SEF Verordening (Verordening (EU) Nr. 346/2013, gewijzigd met [Verordening 2017/1991](31991R2017)) | €1.000 |
 | EU.A3.06 | Melding uit hoofde van artikel 16 sub a EU SEF Verordening (Verordening (EU) Nr. 346/2013, gewijzigd met [Verordening 2017/1991](31991R2017) | €1.000 |
 | EU.A3.07 | Melding uit hoofde van artikel 5 ELTIF Verordening (Verordening (EU) 2015/760). | €4.400 |
+| **Onderdeel EU.A4:** | **Aanvraag specifieke toestemmingen, vrijstellingen en wijzigingen DLT pilot regime** |   |
+| EU.A4.01 | De behandeling van een aanvraag tot het verlenen van een specifieke toestemming als bedoeld in artikel 8, eerste lid, van [verordening (EU) nr. 2022/858](32758R2022) (DLT pilot regime) of een wijziging daarvan | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| EU.A4.02 | De behandeling van een aanvraag tot het verlenen van een specifieke toestemming als bedoeld in artikel 9, eerste lid, van [verordening (EU) nr. 2022/858](32758R2022) (DLT pilot regime) of een wijziging daarvan | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| EU.A4.03 | De behandeling van een aanvraag tot het verlenen van een specifieke toestemming als bedoeld in artikel 10, eerste lid, van [verordening (EU) nr. 2022/858](32758R2022) (DLT pilot regime) of een wijziging daarvan | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| EU.A4.04 | De behandeling van een aanvraag tot het verlenen van vrijstelling als bedoeld in artikel 4, tweede en derde lid, van [verordening (EU) nr. 2022/858](32758R2022) (DLT pilot regime) of een wijziging daarvan | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
+| EU.A4.05 | De behandeling van een aanvraag tot het verlenen van een vrijstelling als bedoeld in artikel 5, tweede tot en met negende lid, van [verordening (EU) nr. 2022/858](32758R2022) (DLT pilot regime) of een wijziging daarvan | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
 | **Onderdeel** **EU.A6:** | **Aanvraag registratie, bekrachtiging en erkenning benchmarks** |   |
 | EU.A6.01 | De behandeling van een aanvraag van een registratie als bedoeld in artikel 34, eerste lid, onderdeel b en c, van de verordening (EU) nr. 1011/2016 (financiële benchmarks) met 10 benchmarks of meer | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
 | EU.A6.02 | De behandeling van een aanvraag van een registratie als bedoeld in artikel 34, eerste lid, onderdeel b en c, van de verordening (EU) nr. 1011/2016 (financiële benchmarks) met minder dan 10 benchmarks | € 200 per uur dat de AFM werkzaamheden verricht met een maximum van € 100.000 |
