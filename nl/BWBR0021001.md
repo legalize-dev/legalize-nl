@@ -4,7 +4,7 @@ identifier: "BWBR0021001"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-08-26"
-last_updated: "2007-02-01"
+last_updated: "2023-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021001"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-In deze regeling wordt verstaan onder wet: de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
+In deze regeling wordt verstaan onder wet: [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
 ##### Artikel 2
 
@@ -62,13 +62,9 @@ De schriftelijke kennisgeving, bedoeld in [artikel 5.3, eerste en tweede lid, va
 
 - g. een omschrijving van de kabels en werken waarop de werkzaamheden betrekking hebben;
 
-- h. een omschrijving van de procedure, bedoeld in [artikel 5.3, tweede, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5.3);
+- h. een omschrijving van de procedure, bedoeld in [artikel 5.3, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5.3);
 
-- i. vermelding van de termijnen, bedoeld in [artikel 5.3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5.3);
-
-- j. vermelding van de schorsende werking van het verzoek, bedoeld in [artikel 5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5.3);
-
-- k. vermelding of de kennisgeving de eerste dan wel de tweede kennisgeving betreft.
+- i. vermelding van de termijnen, bedoeld in [artikel 5.3, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=5.3).
 
 ##### Artikel 3
 
