@@ -4,7 +4,7 @@ identifier: "BWBR0027517"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-07-01"
-last_updated: "1994-05-01"
+last_updated: "2023-08-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027517"
 soort: "zbo"
@@ -59,13 +59,13 @@ De in [artikel 104, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/j
 
 ##### Artikel 2
 
-1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=1994-05-01) bedoelde gegevens betreffen alle in de kadastrale registratie voorkomende actuele gegevens, onderscheidenlijk de in de desbetreffende periode gemuteerde gegevens, behoudens het bepaalde in het tweede lid.
+1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=2023-08-29) bedoelde gegevens betreffen alle in de kadastrale registratie voorkomende actuele gegevens, onderscheidenlijk de in de desbetreffende periode gemuteerde gegevens, behoudens het bepaalde in het tweede lid.
 
 2. Op verzoek van betrokkene kunnen in overleg met de Dienst voor het kadaster en de openbare registers bepaalde soorten van gegevens dan wel bepaalde soorten van mutaties buiten beschouwing worden gelaten.
 
 ##### Artikel 3
 
-1. De in [artikel 1, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=1994-05-01), bedoelde mutaties kunnen betrekking hebben op een periode van:
+1. De in [artikel 1, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=2023-08-29), bedoelde mutaties kunnen betrekking hebben op een periode van:
 
 - a. een maand;
 
@@ -81,7 +81,7 @@ zulks ter keuze van de betrokkene.
 
 ##### Artikel 4
 
-1. De verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=1994-05-01) bedoelde gegevens geschiedt in het algemeen binnen de volgende termijnen:
+1. De verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=2023-08-29) bedoelde gegevens geschiedt in het algemeen binnen de volgende termijnen:
 
 - a. indien het de toestand per 31 december betreft: vóór 1 maart van het daarop volgende jaar;
 
@@ -89,15 +89,15 @@ zulks ter keuze van de betrokkene.
 
 2. De in het eerste lid genoemde termijnen zijn niet van toepassing in het geval dat betrokkene:
 
-- a. minder dan twee maanden vóór de gewenste datum van verstrekking een verzoek om verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=1994-05-01) bedoelde gegevens bij de Dienst voor het kadaster en de openbare registers heeft ingediend, dan wel een bestaand verzoek heeft gewijzigd;
+- a. minder dan twee maanden vóór de gewenste datum van verstrekking een verzoek om verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=2023-08-29) bedoelde gegevens bij de Dienst voor het kadaster en de openbare registers heeft ingediend, dan wel een bestaand verzoek heeft gewijzigd;
 
-- b. een verzoek om verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=1994-05-01) bedoelde gegevens indient dat betrekking heeft op een toestandsdatum die reeds is verstreken of binnen twee maanden zal verstrijken.
+- b. een verzoek om verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=2023-08-29) bedoelde gegevens indient dat betrekking heeft op een toestandsdatum die reeds is verstreken of binnen twee maanden zal verstrijken.
 
 3. Indien zich één der gevallen als bedoeld in het tweede lid voordoet, wordt de termijn waarbinnen de verstrekking van de gegevens plaatsvindt bepaald in overleg tussen de betrokkene en de Dienst voor het kadaster en de openbare registers.
 
-4. Een verzoek tot verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=1994-05-01) bedoelde gegevens, alsmede de wijziging of intrekking van een zodanig verzoek, geschiedt schriftelijk aan het desbetreffende kantoor van de Dienst voor het kadaster en de openbare registers door middel van een formulier dat door genoemde Dienst te dezer zake is beschikbaar gesteld.
+4. Een verzoek tot verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=2023-08-29) bedoelde gegevens, alsmede de wijziging of intrekking van een zodanig verzoek, geschiedt schriftelijk aan het desbetreffende kantoor van de Dienst voor het kadaster en de openbare registers door middel van een formulier dat door genoemde Dienst te dezer zake is beschikbaar gesteld.
 
-5. De Dienst voor het kadaster en de openbare registers verstrekt desgewenst aan betrokkenen een handleiding ter zake van de verstrekkingen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=1994-05-01) bedoelde gegevens.
+5. De Dienst voor het kadaster en de openbare registers verstrekt desgewenst aan betrokkenen een handleiding ter zake van de verstrekkingen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=1994-05-01&g=2023-08-29) bedoelde gegevens.
 
 ##### Artikel 5
 
@@ -130,21 +130,3 @@ soorten van gegevens die beschikbaar kunnen worden gesteld door middel van een p
 1. Deze regeling treedt in werking met ingang van de dag waarop de Organisatiewet Kadaster in werking treedt.
 
 2. Deze regeling wordt aangehaald als: Regeling massale gegevensverstrekking uit de kadastrale registratie 1994. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 7a
-
-Dit onderdeel is nog niet inwerking getreden
-
-##### Artikel 7b
-
-1. In afwijking van [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=7a&z=2024-06-01&g=2024-06-01), zullen op basis van een daartoe ingediend verzoek:
-
-- a. financiële ondernemingen als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), voor zover zij als financiële dienstverlener een vergunning hebben bij De Nederlandsche Bank of van de Autoriteit Financiële Markten en toegang tot de permanente aansluiting nodig hebben ten behoeve van het verstrekken van hypotheken of geldleningen ten aanzien van registergoederen; en
-
-- b. organisaties die voor de uitvoering van hun wettelijke taak of in het belang van de rechtszekerheid ten aanzien van registergoederen toegang tot de permanente aansluiting nodig hebben en meer dan 150 actieve gebruikers hebben;
-
-op een nader te bepalen moment gebruik gaan maken van een bedrijfs- en organisatiemiddel als bedoeld in [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=7a&z=2024-06-01&g=2024-06-01), om toegang te krijgen tot de permanente aansluiting.
-
-2. Het verzoek dat de in het eerste lid, onderdeel a en b genoemde ondernemingen en organisaties kunnen indienen, bevat voldoende gemotiveerd de redenen voor het verzoek tot uitstel. De beslissing op een dergelijk verzoek wordt aangemerkt als een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
-
-3. Het bestuur van de Dienst kan ten aanzien van een onderneming of organisatie [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=7a&z=2024-06-01&g=2024-06-01) voor bepaalde tijd buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat artikel 7a beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard. Het tweede lid is dan van overeenkomstige toepassing.
