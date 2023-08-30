@@ -360,26 +360,3 @@ In de bijlage wordt een specifieke erkende opleidingscode (0028) opgenomen voor 
 | schrijven B2 | 3026 |
 
 Deze regeling zal met [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2023-08-30&g=2023-08-30) en toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage VIIa. Behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=6&z=2024-09-21&g=2024-09-21) van de Regeling codetabellen vo, vso en mbo
-
-### Technische toelichting bij bijlage VIIa
-
-De vakcodes rekenen 2F (3002) en rekenen 2ER (3004), kunnen tot en met schooljaar 2026–2027 worden gebruikt voor de studenten die voor het schooljaar 2022–2023 zijn gestart met hun basisberoepsopleiding (mbo2) of vakopleiding (mbo3) en deze opleiding willen afronden.
-
-De vakcodes rekenen 3F (3006) en rekenen 3ER (3007) kunnen eveneens tot en met schooljaar 2026–2027 worden gebruikt voor de studenten die voor het schooljaar 2022–2023 zijn gestart met hun middenkader- of specialistenopleiding (mbo niveau 4) opleiding en deze opleiding willen afronden.
-
-## Bijlage VIIb. Behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&artikel=7&z=2024-09-21&g=2024-09-21) van de Regeling codetabellen vo, vso en mbo
-
-| examenonderdeel | code |
-| --- | --- |
-| lezen B1 | 3019 |
-| spreken B1 | 3020 |
-| luisteren B1 | 3021 |
-| schrijven B1 | 3022 |
-| lezen B2 | 3023 |
-| spreken B2 | 3024 |
-| luisteren B2 | 3025 |
-| schrijven B2 | 3026 |
-
-Deze regeling zal met [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0048579&bijlage=Ia&z=2024-09-21&g=2024-09-21) en toelichting in de Staatscourant worden geplaatst.
