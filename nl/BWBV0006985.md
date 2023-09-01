@@ -4,7 +4,7 @@ identifier: "BWBV0006985"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-09-01"
-last_updated: "2023-02-10"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006985"
 soort: "verdrag"
@@ -76,7 +76,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 3. Bevoegde veiligheidsautoriteiten
 
-1. De bevoegde veiligheidsautoriteiten van de partijen staan vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&bijlage=I&z=2023-02-10&g=2023-02-10) bij dit Verdrag.
+1. De bevoegde veiligheidsautoriteiten van de partijen staan vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&bijlage=I&z=2023-09-01&g=2023-09-01) bij dit Verdrag.
 
 2. De bevoegde veiligheidsautoriteiten voorzien elkaar van de officiële contactgegevens.
 
@@ -99,9 +99,9 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 5. Beginselen voor de beveiliging van gerubriceerde gegevens
 
-1. Toegang tot gerubriceerde gegevens op het rubriceringsniveau POUFNE / Stg. CONFIDENTIEEL / CONFIDENTIAL en hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-02-10&g=2023-02-10) van dit Verdrag, wordt uitsluitend verleend aan de natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know), een veiligheidsmachtiging personeel hebben op het overeenkomstige niveau, zijn ingelicht over hun verantwoordelijkheden en verplicht zijn geheimhouding in acht te nemen in overeenstemming met de nationale wet- en regelgeving.
+1. Toegang tot gerubriceerde gegevens op het rubriceringsniveau POUFNE / Stg. CONFIDENTIEEL / CONFIDENTIAL en hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-09-01&g=2023-09-01) van dit Verdrag, wordt uitsluitend verleend aan de natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know), een veiligheidsmachtiging personeel hebben op het overeenkomstige niveau, zijn ingelicht over hun verantwoordelijkheden en verplicht zijn geheimhouding in acht te nemen in overeenstemming met de nationale wet- en regelgeving.
 
-2. Toegang tot gerubriceerde gegevens op het rubriceringsniveau ZASTRZEŻONE / DEPARTEMENTAAL VERTROUWELIJK / RESTRICTED, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-02-10&g=2023-02-10) van dit Verdrag, wordt uitsluitend verleend aan de natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know), gemachtigd zijn en zijn ingelicht over hun verantwoordelijkheden in overeenstemming met de nationale wet- en regelgeving.
+2. Toegang tot gerubriceerde gegevens op het rubriceringsniveau ZASTRZEŻONE / DEPARTEMENTAAL VERTROUWELIJK / RESTRICTED, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-09-01&g=2023-09-01) van dit Verdrag, wordt uitsluitend verleend aan de natuurlijke personen die van de gegevens op de hoogte moeten zijn (need to know), gemachtigd zijn en zijn ingelicht over hun verantwoordelijkheden in overeenstemming met de nationale wet- en regelgeving.
 
 ##### Artikel 6. Veiligheidsmaatregelen
 
@@ -141,7 +141,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 8. Gerubriceerde contracten
 
-1. Indien een partij of een opdrachtnemer onder haar rechtsmacht voorstelt een gerubriceerd contract op het rubriceringsniveau POUFNE / Stg. CONFIDENTIEEL / CONFIDENTIAL of hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-02-10&g=2023-02-10) van dit Verdrag te gunnen aan een opdrachtnemer of onderaannemer de rechtsmacht van de andere partij, dient zij eerst de schriftelijke bevestiging te verkrijgen van de andere partij dat aan deze opdrachtnemer of onderaannemer een veiligheidsmachtiging bedrijfslocatie en/of veiligheidsmachtiging personeel is/zijn toegekend op het juiste rubriceringsniveau. Voor het rubriceringsniveau ZASTRZEŻONE / DEPARTEMENTAAL VERTROUWELIJK / RESTRICTED kan een veiligheidsmachtiging bedrijfslocatie nodig zijn indien die verplicht is volgens de nationale wet- en regelgeving van de opdrachtnemer.
+1. Indien een partij of een opdrachtnemer onder haar rechtsmacht voorstelt een gerubriceerd contract op het rubriceringsniveau POUFNE / Stg. CONFIDENTIEEL / CONFIDENTIAL of hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-09-01&g=2023-09-01) van dit Verdrag te gunnen aan een opdrachtnemer of onderaannemer de rechtsmacht van de andere partij, dient zij eerst de schriftelijke bevestiging te verkrijgen van de andere partij dat aan deze opdrachtnemer of onderaannemer een veiligheidsmachtiging bedrijfslocatie en/of veiligheidsmachtiging personeel is/zijn toegekend op het juiste rubriceringsniveau. Voor het rubriceringsniveau ZASTRZEŻONE / DEPARTEMENTAAL VERTROUWELIJK / RESTRICTED kan een veiligheidsmachtiging bedrijfslocatie nodig zijn indien die verplicht is volgens de nationale wet- en regelgeving van de opdrachtnemer.
 
 2. De bevoegde veiligheidsautoriteit waarborgt dat de opdrachtnemer:
 
@@ -151,13 +151,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 3. zijn bevoegde veiligheidsautoriteit onverwijld in kennis stelt van elke inbreuk op de veiligheid die betrekking heeft op een gerubriceerd contract;
 
-- 4. In aanvulling op de onderdelen 1, 2 en 3, met betrekking tot gerubriceerde contracten op het rubriceringsniveau POUFNE / Stg. CONFIDENTIEEL / CONFIDENTIAL en hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-02-10&g=2023-02-10) van dit Verdrag, waarborgt de bevoegde veiligheidsautoriteit dat de opdrachtnemer een veiligheidsmachtiging bedrijfslocatie bezit met het juiste rubriceringsniveau teneinde de gerubriceerde gegevens te beveiligen en dat de natuurlijke personen die toegang dienen te krijgen tot gerubriceerde gegevens, een veiligheidsmachtiging personeel met het juiste rubriceringsniveau hebben.
+- 4. In aanvulling op de onderdelen 1, 2 en 3, met betrekking tot gerubriceerde contracten op het rubriceringsniveau POUFNE / Stg. CONFIDENTIEEL / CONFIDENTIAL en hoger, zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-09-01&g=2023-09-01) van dit Verdrag, waarborgt de bevoegde veiligheidsautoriteit dat de opdrachtnemer een veiligheidsmachtiging bedrijfslocatie bezit met het juiste rubriceringsniveau teneinde de gerubriceerde gegevens te beveiligen en dat de natuurlijke personen die toegang dienen te krijgen tot gerubriceerde gegevens, een veiligheidsmachtiging personeel met het juiste rubriceringsniveau hebben.
 
 3. Elk gerubriceerd contract dat in overeenstemming met dit Verdrag wordt gesloten dient veiligheidsvereisten te bevatten, in het bijzonder:
 
 - 1. een rubriceringsgids waarin de rubriceringsniveaus die van toepassing zijn op elk onderdeel van het gerubriceerde contract worden gespecificeerd;
 
-- 2. een procedure voor het doorgeven van wijzigingen van het rubriceringsniveau, rekening houdend met [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-02-10&g=2023-02-10), van dit Verdrag;
+- 2. een procedure voor het doorgeven van wijzigingen van het rubriceringsniveau, rekening houdend met [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-09-01&g=2023-09-01), van dit Verdrag;
 
 - 3. de kanalen en procedures die gebruikt dienen te worden voor het vervoer en/of de overbrenging van gerubriceerde gegevens;
 
@@ -169,7 +169,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. De partij van herkomst stuurt een kopie van de veiligheidsvereisten naar de ontvangende partij, om het veiligheidstoezicht op het gerubriceerde contract te vergemakkelijken.
 
-5. De procedure voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=11&z=2023-02-10&g=2023-02-10) van dit Verdrag te zijn.
+5. De procedure voor de goedkeuring van bezoeken die samenhangen met activiteiten onder een gerubriceerd contract door personeel van de ene partij aan de andere partij, dient in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=11&z=2023-09-01&g=2023-09-01) van dit Verdrag te zijn.
 
 6. De partijen waarborgen dat elke onderaannemer voldoet aan dezelfde voorwaarden voor de beveiliging van gerubriceerde gegevens als die voor de opdrachtnemer zijn neergelegd.
 
@@ -191,7 +191,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. Gerubriceerde gegevens op rubriceringsniveau ŚCIŚLE TAJNE / Stg. ZEER GEHEIM / TOP SECRET worden niet vernietigd zonder de voorafgaande schriftelijke toestemming van de partij onder wier gezag de gerubriceerde gegevens zijn gecreëerd. Zij worden geretourneerd aan die partij nadat de verstrekkende en de ontvangende partij ze niet meer nodig achten.
 
-6. Gerubriceerde gegevens tot en met rubriceringsniveau TAJNE / Stg. GEHEIM / SECRET zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-02-10&g=2023-02-10) van dit Verdrag worden in overeenstemming met haar nationale wet- en regelgeving vernietigd nadat de ontvangende partij ze niet meer nodig acht.
+6. Gerubriceerde gegevens tot en met rubriceringsniveau TAJNE / Stg. GEHEIM / SECRET zoals vermeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006985&artikel=4&z=2023-09-01&g=2023-09-01) van dit Verdrag worden in overeenstemming met haar nationale wet- en regelgeving vernietigd nadat de ontvangende partij ze niet meer nodig acht.
 
 7. In geval van uitzonderlijke omstandigheden die het onmogelijk maken de uit hoofde van dit Verdrag verstrekte gerubriceerde gegevens te beveiligen, dienen de gerubriceerde gegevens onmiddellijk vernietigd te worden. De ontvangende partij stelt de bevoegde veiligheidsautoriteit van de verstrekkende partij onverwijld schriftelijk in kennis van de vernietiging van deze gerubriceerde gegevens.
 
