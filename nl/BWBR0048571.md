@@ -150,36 +150,3 @@ Maximale bedragen per ontvanger, inclusief omzetbelasting, als bedoeld in [artik
 | Gemeente Utrecht | € 790.595 | € 2.350.000 | € 2.080.000 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Aanvraag
-
-1. De minister kan op aanvraag een specifieke uitkering verlenen aan een ontvanger.
-
-2. Bij de aanvraag worden de volgende gegevens aangeleverd:
-
-- a. een aanduiding waarvoor een specifieke uitkering wordt aangevraagd;
-
-- b. het bedrag dat wordt aangevraagd;
-
-- c. de jaren waarvoor de specifieke uitkering aangevraagd wordt;
-
-- d. het bedrag aan omzetbelasting dat recht geeft op een bijdrage op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817);
-
-- e. de NAW-gegevens van de aanvrager;
-
-- f. het bankrekeningnummer waarop de specifieke uitkering dient te worden gestort.
-
-## Bijlage, behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2023-12-01&g=2023-12-01)
-
-Maximale bedragen per ontvanger, inclusief omzetbelasting, als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048571&artikel=4&z=2023-12-01&g=2023-12-01)
-
-| Ontvanger | 2023 | 2024 | 2025 |
-| --- | --- | --- | --- |
-| Provincie Noord-Holland | € 1.656.266 | € 2.861.100 | € 2.080.000 |
-| Provincie Fryslân | € 1.825.933 | € 3.353.200 | € 2.080.000 |
-| Provincie Zeeland | € 1.841.312 | € 3.332.300 | € 492.413 |
-| Provincie Gelderland | € 2.063.873 | € 3.109.739 | € 2.080.000 |
-| Provincie Noord-Brabant | € 1.076.425 | € 4.549.648 | € 2.080.000 |
-| Gemeente Utrecht | € 790.595 | € 2.350.000 | € 2.080.000 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
