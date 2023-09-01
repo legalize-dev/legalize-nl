@@ -4,7 +4,7 @@ identifier: "BWBR0044308"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2023-09-01"
-last_updated: "2021-08-02"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044308"
 soort: "rijksKB"
@@ -56,15 +56,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **wet:** [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212);
+- **basisadministratie:** de basisregistratie personen in het Europese deel van Nederland, dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2), dan wel een bij landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie;
 
-- b. **reisdocumentenstation:** door Onze Minister beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt;
+- **basisregister reisdocumenten:** het register, bedoeld in [Hoofdstuk 1, paragraaf 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I);
 
-- c. **basisregister reisdocumenten:** het register, bedoeld in [Hoofdstuk 1, paragraaf 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I);
+- **gedetineerde:** gedetineerde als bedoeld in [artikel 1, onderdeel e, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1);
 
-- d. **register vermiste of vervallen reisdocumenten:** het register, bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a);
+- **penitentiaire inrichting:** penitentiaire inrichting als bedoeld in [artikel 3, eerste lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=3);
 
-- e. **basisadministratie:** de basisregistratie personen in het Europese deel van Nederland, dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2), dan wel een bij landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie.
+- **register vermiste of vervallen reisdocumenten:** het register, bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a);
+
+- **reisdocumentenstation:** door Onze Minister beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt;
+
+- **wet:** [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212).
 
 ##### Artikel 1.2. Andere reisdocumenten
 
@@ -78,7 +82,7 @@ Reisdocumenten van het Koninkrijk der Nederlanden als bedoeld in [artikel 2, eer
 
 ##### Artikel 1.3. Vermelding woonplaats en adres
 
-De woonplaats en het adres van de houder worden niet vermeld in de reisdocumenten, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) en in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=1&paragraaf=1&artikel=1.2&z=2021-08-02&g=2021-08-02) van dit besluit.
+De woonplaats en het adres van de houder worden niet vermeld in de reisdocumenten, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) en in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=1&paragraaf=1&artikel=1.2&z=2023-09-01&g=2023-09-01) van dit besluit.
 
 ##### Artikel 1.4. Reisdocumenten zonder vingerafdrukken, gezichtsopname of handtekening
 
@@ -234,7 +238,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de vaststelling van
 
 1. Aan een staatloze persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld, wordt op zijn verzoek een faciliteitenpaspoort verstrekt.
 
-2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2021-08-02&g=2021-08-02) is van overeenkomstige toepassing.
+2. [Artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2023-09-01&g=2023-09-01) is van overeenkomstige toepassing.
 
 ##### Artikel 2.13. Geldigheid faciliteitenpaspoort
 
@@ -300,7 +304,11 @@ Bij ministeriële regeling worden nadere regels gesteld over de vaststelling van
 
 ##### Artikel 3.2. Aanvullende bevoegdheden burgemeesters aangewezen gemeenten
 
-1. In de bij ministeriële regeling aangewezen gemeenten is de burgemeester tevens bevoegd aanvragen in ontvangst te nemen voor reisdocumenten als bedoeld in [artikel 2, onderdeel a, d, e of g](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) of artikel 2, tweede lid, van de wet van personen die niet in de basisregistratie personen als ingezetene zijn ingeschreven.
+1. In de bij ministeriële regeling aangewezen gemeenten is de burgemeester tevens bevoegd aanvragen in ontvangst te nemen:
+
+- a. voor de in [artikel 2, eerste lid, onderdelen a, d, e of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde reisdocumenten of artikel 2, tweede lid, van de wet bedoelde identiteitskaarten voor zover het personen betreft die niet in de basisregistratie personen als ingezetene zijn ingeschreven;
+
+- b. voor de in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde identiteitskaarten voor zover het gedetineerden betreft die verblijven in een penitentiaire inrichting in die aangewezen gemeente.
 
 2. De burgemeester van Haarlemmermeer is bevoegd tot het in ontvangst nemen van aanvragen voor Nederlandse identiteitskaarten van personen die in de basisadministratie van Aruba, Curaçao of Sint Maarten zijn ingeschreven.
 
@@ -340,7 +348,11 @@ Aangewezen tot het in ontvangst nemen van aanvragen voor noodpaspoorten zijn de 
 
 ##### Artikel 4.2. Aanvullende bevoegdheden burgemeesters aangewezen gemeenten
 
-1. In de bij ministeriële regeling aangewezen gemeenten is de burgemeester tevens bevoegd tot verstrekking van reisdocumenten als bedoeld in [artikel 2, eerste lid, onderdelen a, d, e of g](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) of artikel 2, tweede lid, van de wet aan personen die niet in de basisregistratie personen als ingezetene zijn ingeschreven.
+1. In de bij ministeriële regeling aangewezen gemeenten is de burgemeester tevens bevoegd tot verstrekking:
+
+- a. van de in [artikel 2, eerste lid, onderdelen a, d, e of g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde reisdocumenten of de in artikel 2, tweede lid, van de wet bedoelde identiteitskaarten voor zover het personen betreft die niet in de basisregistratie personen als ingezetene zijn ingeschreven;
+
+- b. van de in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2) bedoelde identiteitskaarten voor zover het gedetineerden betreft die verblijven in een penitentiaire inrichting in die aangewezen gemeente.
 
 2. De burgemeester van Haarlemmermeer is bevoegd tot verstrekking van Nederlandse identiteitskaarten aan personen die in de basisadministratie van Aruba, Curaçao of Sint Maarten zijn ingeschreven.
 
@@ -392,11 +404,11 @@ Tot uitreiking van het reisdocument wordt slechts overgegaan, nadat de identitei
 
 - 1°. de gezaghebber in de gelegenheid is het terug te geven aan de in de basisadministratie als ingezetene van zijn openbaar lichaam ingeschreven houder die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd; of
 
-- 2°. de Minister van Buitenlandse Zaken of de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2021-08-02&g=2021-08-02), in de gelegenheid is het terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd.
+- 2°. de Minister van Buitenlandse Zaken of de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2023-09-01&g=2023-09-01), in de gelegenheid is het terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd.
 
-2. Het eerste lid, aanhef en onderdeel c, is niet van toepassing op onttrekking aan het verkeer van een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer door de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2021-08-02&g=2021-08-02).
+2. Het eerste lid, aanhef en onderdeel c, is niet van toepassing op onttrekking aan het verkeer van een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer door de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2023-09-01&g=2023-09-01).
 
-3. In afwijking van het eerste lid, aanhef en onderdeel d, onttrekt de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2021-08-02&g=2021-08-02), een noodpaspoort of een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer terstond definitief aan het verkeer, indien het als gevonden reisdocument is ontvangen.
+3. In afwijking van het eerste lid, aanhef en onderdeel d, onttrekt de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2023-09-01&g=2023-09-01), een noodpaspoort of een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer terstond definitief aan het verkeer, indien het als gevonden reisdocument is ontvangen.
 
 4. Bij ministeriële regeling worden nadere regels gesteld over de wijze van onttrekking aan het verkeer.
 
@@ -472,9 +484,9 @@ Bij ministeriële regeling kunnen:
 
 - a. regels worden gesteld ter uitvoering van [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), [26, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), [40, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40), en [43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=43);
 
-- b. aanvullende regels worden gesteld ter uitvoering van de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), [4d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4d), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28), en [59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=59); en
+- b. aanvullende regels worden gesteld ter uitvoering van de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), [4d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4d), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28), [42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=42), en [59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=59); en
 
-- c. nadere regels worden vastgesteld ter uitwerking van het bepaalde in de [artikelen 2.1 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2021-08-02&g=2021-08-02), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2021-08-02&g=2021-08-02), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2021-08-02&g=2021-08-02), [2.10 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2021-08-02&g=2021-08-02), [3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2021-08-02&g=2021-08-02), [8.4 tot en met 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=8&paragraaf=3&artikel=8.4&z=2021-08-02&g=2021-08-02).
+- c. nadere regels worden vastgesteld ter uitwerking van het bepaalde in de [artikelen 2.1 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2023-09-01&g=2023-09-01), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.7&z=2023-09-01&g=2023-09-01), [2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2023-09-01&g=2023-09-01), [2.10 tot en met 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2023-09-01&g=2023-09-01), [3.1 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2023-09-01&g=2023-09-01), [8.4 tot en met 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=8&paragraaf=3&artikel=8.4&z=2023-09-01&g=2023-09-01).
 
 ##### Artikel 10.2. Citeertitel
 
