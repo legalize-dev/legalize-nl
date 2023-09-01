@@ -4,7 +4,7 @@ identifier: "BWBV0006769"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-09-01"
-last_updated: "2018-06-20"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006769"
 soort: "verdrag"
@@ -50,7 +50,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 2. Aanwijzing plaatsen grensoverschrijding
 
-1. De voor de toepassing van de Overeenkomst gebruikte grensovergangen staan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=1&z=2018-06-20&g=2018-06-20) bij dit Protocol vermeld.
+1. De voor de toepassing van de Overeenkomst gebruikte grensovergangen staan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=1&z=2023-09-01&g=2023-09-01) bij dit Protocol vermeld.
 
 2. De Partijen informeren elkaar onmiddellijk over iedere wijziging in de in lid 1 van dit artikel bedoelde lijst.
 
@@ -60,7 +60,7 @@ Zijn het volgende overeengekomen:
 
 1. Een verzoek om terug- of overname wordt schriftelijk via e-mail, per telefax of andere telecommunicatiemiddelen rechtstreeks ingediend bij de bevoegde autoriteit van de aangezochte Staat. Indien in het verzoek om terug- of overname tevens om een interview wordt verzocht, wordt een kopie van het verzoek eveneens verstrekt aan de diplomatieke of consulaire vertegenwoordiging van de aangezochte Staat.
 
-2. Voor de indiening van het verzoek om terug- of overname wordt gebruikgemaakt van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=5&z=2018-06-20&g=2018-06-20) aan de Overeenkomst is gehecht.
+2. Voor de indiening van het verzoek om terug- of overname wordt gebruikgemaakt van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=5&z=2023-09-01&g=2023-09-01) aan de Overeenkomst is gehecht.
 
 3. De verzoekende Staat wendt zich voor het verstrekken of verkrijgen van nadere inlichtingen omtrent een specifiek verzoek om terug- of overname tot de bevoegde autoriteit van de aangezochte Staat.
 
@@ -68,7 +68,7 @@ Zijn het volgende overeengekomen:
 
 1. Het antwoord op een verzoek om terug- of overname wordt via e-mail, per telefax of andere telecommunicatiemiddelen schriftelijk verstrekt aan de bevoegde autoriteit van de verzoekende Staat. Een kopie van dit antwoord wordt gelijktijdig aan de diplomatieke of consulaire vertegenwoordiging van de aangezochte Staat verstrekt.
 
-2. Het verzoek om terug- of overname wordt binnen twaalf (12) kalenderdagen beantwoord door gebruikmaking van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=2&z=2018-06-20&g=2018-06-20) aan dit Protocol is gehecht.
+2. Het verzoek om terug- of overname wordt binnen twaalf (12) kalenderdagen beantwoord door gebruikmaking van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=2&z=2023-09-01&g=2023-09-01) aan dit Protocol is gehecht.
 
 ##### Artikel 5. Reisdocumenten
 
@@ -76,7 +76,7 @@ Zijn het volgende overeengekomen:
 
 2. Het reisdocument heeft een geldigheidsduur van honderdtwintig (120) dagen.
 
-3. Indien de diplomatieke of consulaire vertegenwoordiging van Armenië het gevraagde reisdocument niet binnen de in lid 1 van dit artikel vermelde termijn heeft verstrekt, wordt Armenië geacht in te stemmen met het gebruik van het standaardreisdocument van de EU voor verwijderingsdoeleinden. Het document dat voor dit doel wordt gebruikt, is als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=3&z=2018-06-20&g=2018-06-20) aan dit Protocol gehecht.
+3. Indien de diplomatieke of consulaire vertegenwoordiging van Armenië het gevraagde reisdocument niet binnen de in lid 1 van dit artikel vermelde termijn heeft verstrekt, wordt Armenië geacht in te stemmen met het gebruik van het standaardreisdocument van de EU voor verwijderingsdoeleinden. Het document dat voor dit doel wordt gebruikt, is als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=3&z=2023-09-01&g=2023-09-01) aan dit Protocol gehecht.
 
 ##### Artikel 6. Interviews
 
@@ -88,7 +88,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 7. Overdracht
 
-1. De bevoegde autoriteit van de verzoekende Staat stelt de bevoegde autoriteit van de aangezochte Staat via e-mail, per telefax of andere telecommunicatiemiddelen, minimaal twee (2) werkdagen vóór de geplande overdracht schriftelijk in kennis van haar voornemen daartoe. Daartoe wordt gebruikgemaakt van het formulier dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=4&z=2018-06-20&g=2018-06-20) aan dit Protocol is gehecht. Een kopie van dit formulier wordt aan de diplomatieke of consulaire vertegenwoordiging van de aangezochte Staat verstrekt.
+1. De bevoegde autoriteit van de verzoekende Staat stelt de bevoegde autoriteit van de aangezochte Staat via e-mail, per telefax of andere telecommunicatiemiddelen, minimaal twee (2) werkdagen vóór de geplande overdracht schriftelijk in kennis van haar voornemen daartoe. Daartoe wordt gebruikgemaakt van het formulier dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=4&z=2023-09-01&g=2023-09-01) aan dit Protocol is gehecht. Een kopie van dit formulier wordt aan de diplomatieke of consulaire vertegenwoordiging van de aangezochte Staat verstrekt.
 
 2. Indien de verzoekende Staat de terug of over te nemen persoon niet binnen de termijn van drie (3) maanden kan overdragen, stelt hij de bevoegde autoriteit van de aangezochte Staat daarvan onverwijld in kennis. Zodra de effectieve overdracht van de betrokkene kan plaatsvinden, stelt de bevoegde autoriteit van de verzoekende Staat de aangezochte Staat daarvan in kennis, door gebruikmaking van het in lid 1 van dit artikel genoemde formulier en met inachtneming van de voor de overdracht geldende termijnen.
 
@@ -102,7 +102,7 @@ Zijn het volgende overeengekomen:
 
 2. Voor de indiening van het verzoek wordt gebruikgemaakt van het formulier dat als bijlage 6 aan de Overeenkomst is gehecht.
 
-3. Het antwoord op een doorgeleidingsverzoek wordt binnen drie (3) werkdagen via e-mail, per telefax of andere telecommunicatiemiddelen schriftelijk aan de bevoegde autoriteit van de verzoekende Staat verstrekt, waarbij wordt meegedeeld of wordt ingestemd met de doorgeleiding en het hiervoor geplande tijdstip, de aangewezen plaats waar de grens wordt overschreden, de wijze van vervoer en het gebruik van begeleiders. Voor het verstrekken van dit antwoord wordt gebruikgemaakt van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=5&z=2018-06-20&g=2018-06-20) aan dit Protocol is gehecht.
+3. Het antwoord op een doorgeleidingsverzoek wordt binnen drie (3) werkdagen via e-mail, per telefax of andere telecommunicatiemiddelen schriftelijk aan de bevoegde autoriteit van de verzoekende Staat verstrekt, waarbij wordt meegedeeld of wordt ingestemd met de doorgeleiding en het hiervoor geplande tijdstip, de aangewezen plaats waar de grens wordt overschreden, de wijze van vervoer en het gebruik van begeleiders. Voor het verstrekken van dit antwoord wordt gebruikgemaakt van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&bijlage=5&z=2023-09-01&g=2023-09-01) aan dit Protocol is gehecht.
 
 4. Doorgeleiding geschiedt in beginsel door de lucht.
 
@@ -152,7 +152,7 @@ De Partijen communiceren met elkaar in de Engelse taal.
 
 1. Dit Protocol kan in onderlinge overeenstemming tussen de Partijen worden gewijzigd.
 
-2. Elke wijziging van het Protocol wordt van kracht overeenkomstig de in [artikel 18, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&artikel=18&z=2018-06-20&g=2018-06-20), van dit Protocol omschreven procedure.
+2. Elke wijziging van het Protocol wordt van kracht overeenkomstig de in [artikel 18, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006769&artikel=18&z=2023-09-01&g=2023-09-01), van dit Protocol omschreven procedure.
 
 ##### Artikel 16. Territoriaal toepassingsgebied
 
