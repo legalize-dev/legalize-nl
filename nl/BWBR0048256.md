@@ -4,7 +4,7 @@ identifier: "BWBR0048256"
 country: "nl"
 rank: "wet"
 publication_date: "2024-07-18"
-last_updated: "2023-06-09"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048256"
 soort: "wet"
@@ -55,13 +55,9 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 Wijzigt de Wet register onderwijsdeelnemers.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel V. Inwerkingtreding
 
