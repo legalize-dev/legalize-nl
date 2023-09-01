@@ -4,7 +4,7 @@ identifier: "BWBR0046804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-27"
-last_updated: "2022-06-25"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0046804"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ De afdelingshoofden zijn verantwoordelijk voor de volgende algemene taken:
 
 - c. het doen van voorstellen aan de directeur met betrekking tot het aantrekken en ontslaan van personeel;
 
-- d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0046804&paragraaf=3&artikel=6&z=2022-06-25&g=2022-06-25), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=8), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
+- d. het bijdragen aan de totstandkoming van producten van de Nederlandse Arbeidsinspectie als bedoeld in [artikel 6, eerste lid, onderdelen a, e, f, g, i en s, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=6), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen;
 
 - e. het als tactisch manager participeren in het ontwikkelen en implementeren van plannen van de Nederlandse Arbeidsinspectie;
 
@@ -240,7 +240,7 @@ De afdeling I-Regie is verantwoordelijk voor:
 
 ##### Artikel 9. Volmachten afdelingshoofden
 
-De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende:
+De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
 - a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het IG-team goedgekeurde opleidingsplan;
 
@@ -248,15 +248,15 @@ De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel doo
 
 ##### Artikel 10. Volmacht teamleiders
 
-De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 3.000,– per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
+De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
 ##### Artikel 11. Volmachten hoofd en teamleiders IMV
 
-1. Het hoofd van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie, waaronder begrepen het veiligheidsbeleid van de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 50.000,– per overeenkomst of bestelling.
+1. Het hoofd van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie, waaronder begrepen het veiligheidsbeleid van de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
-2. De teamleider Informatievoorziening van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie, waaronder begrepen het veiligheidsbeleid van de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 15.000,– per overeenkomst of bestelling.
+2. De teamleider Informatievoorziening van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het informatiemanagement en de informatievoorziening van de Nederlandse Arbeidsinspectie, waaronder begrepen het veiligheidsbeleid van de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
-3. De teamleider Informatie Services en Veiligheid van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot Exploitatie en Ontwikkeling ICT-uitgaven en het veiligheidsbeleid, met een waarde van ten hoogste € 15.000,– per overeenkomst of bestelling.
+3. De teamleider Informatie Services en Veiligheid van de afdeling IMV is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot Exploitatie en Ontwikkeling ICT-uitgaven en het veiligheidsbeleid, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
 ##### Artikel 12. Plaatsvervanging
 
