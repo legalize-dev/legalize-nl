@@ -4,7 +4,7 @@ identifier: "BWBR0037457"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2020-01-01"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037457"
 soort: "ministeriele-regeling"
@@ -129,5 +129,19 @@ Bij afwezigheid of verhindering van de directeur S&I worden, voor de duur van de
 2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Samenleving en Integratie 2015.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 5a
+
+Aan de portefeuillehouders wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
+
+- a. het organiseren en accorderen van activiteiten binnen hun eigen directie;
+
+- b. het accorderen van ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde, danwel gedurende het jaar bijgestelde, bestedingsplan van de directie;
+
+- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
+
+#### § 4. Slotbepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
