@@ -4,7 +4,7 @@ identifier: "BWBV0007044"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-09-01"
-last_updated: "2019-07-02"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0007044"
 soort: "verdrag"
@@ -180,7 +180,7 @@ Voor de toepassing van dit onderdeel wordt onder een „exclusief forumkeuzebedi
 
 ##### Artikel 6. Exclusieve grond voor erkenning en tenuitvoerlegging
 
-Niettegenstaande [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=5&z=2019-07-02&g=2019-07-02) wordt een vonnis over een zakelijk recht op een onroerend goed erkend en ten uitvoer gelegd indien en alleen indien het onroerend goed in de staat van herkomst is gelegen.
+Niettegenstaande [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=5&z=2023-09-01&g=2023-09-01) wordt een vonnis over een zakelijk recht op een onroerend goed erkend en ten uitvoer gelegd indien en alleen indien het onroerend goed in de staat van herkomst is gelegen.
 
 ##### Artikel 7. Weigering van erkenning en tenuitvoerlegging
 
@@ -212,9 +212,9 @@ Een weigering uit hoofde van dit lid vormt geen belemmering voor een hernieuwd v
 
 ##### Artikel 8. Voorvragen
 
-1. Een vonnis over een voorvraag wordt niet erkend of ten uitvoer gelegd uit hoofde van dit verdrag indien het vonnis betrekking heeft op een aangelegenheid waarop dit verdrag niet van toepassing is of op een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2019-07-02&g=2019-07-02) bedoelde aangelegenheid waarover een gerecht van een andere staat dan de in dat artikel bedoelde staat uitspraak heeft gedaan.
+1. Een vonnis over een voorvraag wordt niet erkend of ten uitvoer gelegd uit hoofde van dit verdrag indien het vonnis betrekking heeft op een aangelegenheid waarop dit verdrag niet van toepassing is of op een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2023-09-01&g=2023-09-01) bedoelde aangelegenheid waarover een gerecht van een andere staat dan de in dat artikel bedoelde staat uitspraak heeft gedaan.
 
-2. Erkenning of tenuitvoerlegging van een vonnis kan worden geweigerd indien en voor zover het vonnis gegrond was op een uitspraak over een aangelegenheid waarop dit verdrag niet van toepassing is, dan wel op een uitspraak over een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2019-07-02&g=2019-07-02) bedoelde aangelegenheid waarover een gerecht van een andere staat dan de in dat artikel bedoelde staat uitspraak heeft gedaan.
+2. Erkenning of tenuitvoerlegging van een vonnis kan worden geweigerd indien en voor zover het vonnis gegrond was op een uitspraak over een aangelegenheid waarop dit verdrag niet van toepassing is, dan wel op een uitspraak over een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2023-09-01&g=2023-09-01) bedoelde aangelegenheid waarover een gerecht van een andere staat dan de in dat artikel bedoelde staat uitspraak heeft gedaan.
 
 ##### Artikel 9. Deelbaarheid
 
@@ -240,7 +240,7 @@ Gerechtelijke schikkingen die door een gerecht van een verdragsluitende staat zi
 
 - c. elk stuk dat benodigd is om vast te stellen dat het vonnis rechtsgevolg heeft of, indien van toepassing, uitvoerbaar is in de staat van herkomst;
 
-- d. in het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=11&z=2019-07-02&g=2019-07-02) bedoelde geval, een verklaring van een gerecht (met inbegrip van een functionaris van het gerecht) van de staat van herkomst, dat de gerechtelijke schikking of een deel daarvan in die staat op dezelfde wijze uitvoerbaar is als een vonnis.
+- d. in het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=11&z=2023-09-01&g=2023-09-01) bedoelde geval, een verklaring van een gerecht (met inbegrip van een functionaris van het gerecht) van de staat van herkomst, dat de gerechtelijke schikking of een deel daarvan in die staat op dezelfde wijze uitvoerbaar is als een vonnis.
 
 2. Indien de inhoud van het vonnis het voor het aangezochte gerecht niet mogelijk maakt na te gaan of aan de voorwaarden van dit hoofdstuk is voldaan, kan dat gerecht elk benodigd stuk verlangen.
 
@@ -264,7 +264,7 @@ Gerechtelijke schikkingen die door een gerecht van een verdragsluitende staat zi
 
 ##### Artikel 15. Erkenning en tenuitvoerlegging uit hoofde van nationaal recht
 
-Met inachtneming van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2019-07-02&g=2019-07-02) staat dit verdrag niet in de weg aan de erkenning of de tenuitvoerlegging van vonnissen uit hoofde van nationaal recht.
+Met inachtneming van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2023-09-01&g=2023-09-01) staat dit verdrag niet in de weg aan de erkenning of de tenuitvoerlegging van vonnissen uit hoofde van nationaal recht.
 
 ### HOOFDSTUK III. – ALGEMENE BEPALINGEN
 
@@ -330,13 +330,13 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 2. Dit verdrag laat onverlet de toepassing door een verdragsluitende staat van een verdrag dat vóór dit verdrag is gesloten.
 
-3. Dit verdrag laat onverlet de toepassing door een verdragsluitende staat van een verdrag dat na dit verdrag is gesloten met betrekking tot de erkenning of tenuitvoerlegging van een vonnis dat is gegeven door een gerecht van een verdragsluitende staat die eveneens partij bij dat verdrag is. Niets in het andere verdrag doet afbreuk aan de verplichtingen uit hoofde van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2019-07-02&g=2019-07-02) jegens verdragsluitende staten die geen partij zijn bij dat verdrag.
+3. Dit verdrag laat onverlet de toepassing door een verdragsluitende staat van een verdrag dat na dit verdrag is gesloten met betrekking tot de erkenning of tenuitvoerlegging van een vonnis dat is gegeven door een gerecht van een verdragsluitende staat die eveneens partij bij dat verdrag is. Niets in het andere verdrag doet afbreuk aan de verplichtingen uit hoofde van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2023-09-01&g=2023-09-01) jegens verdragsluitende staten die geen partij zijn bij dat verdrag.
 
 4. Dit verdrag laat onverlet de toepassing van de regels van een regionale organisatie voor economische integratie die partij is bij dit verdrag met betrekking tot de erkenning of tenuitvoerlegging van een vonnis dat is gegeven door een gerecht van een verdragsluitende staat die tevens een lidstaat is van die regionale organisatie voor economische integratie, wanneer:
 
 - a. de regels zijn vastgesteld vóór de sluiting van dit verdrag, of
 
-- b. de regels zijn vastgesteld na de sluiting van dit verdrag, voor zover zij geen afbreuk doen aan de verplichtingen uit hoofde van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2019-07-02&g=2019-07-02) jegens verdragsluitende staten die geen lidstaat zijn van de regionale organisatie voor economische integratie.
+- b. de regels zijn vastgesteld na de sluiting van dit verdrag, voor zover zij geen afbreuk doen aan de verplichtingen uit hoofde van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=6&z=2023-09-01&g=2023-09-01) jegens verdragsluitende staten die geen lidstaat zijn van de regionale organisatie voor economische integratie.
 
 ### HOOFDSTUK IV. – SLOTBEPALINGEN
 
@@ -364,7 +364,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 2. De regionale organisatie voor economische integratie doet, op het tijdstip van ondertekening, aanvaarding, goedkeuring of toetreding, de depositaris schriftelijk mededeling van de in dit verdrag geregelde aangelegenheden ter zake waarvan de bevoegdheid door haar lidstaten aan die organisatie is overgedragen. De organisatie doet de depositaris onverwijld schriftelijk mededeling van wijzigingen van haar bevoegdheid als vermeld in de meest recente mededeling uit hoofde van dit lid.
 
-3. Ten behoeve van de inwerkingtreding van dit verdrag telt een akte die wordt nedergelegd door een regionale organisatie voor economische integratie niet mee, tenzij de regionale organisatie voor economische integratie conform [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=27&z=2019-07-02&g=2019-07-02), lid 1, verklaart dat haar lidstaten geen partij bij dit verdrag zullen zijn.
+3. Ten behoeve van de inwerkingtreding van dit verdrag telt een akte die wordt nedergelegd door een regionale organisatie voor economische integratie niet mee, tenzij de regionale organisatie voor economische integratie conform [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=27&z=2023-09-01&g=2023-09-01), lid 1, verklaart dat haar lidstaten geen partij bij dit verdrag zullen zijn.
 
 4. Alle verwijzingen naar een „verdragsluitende staat” of een „staat” in dit verdrag zijn in voorkomend geval eveneens van toepassing op een regionale organisatie voor economische integratie.
 
@@ -376,13 +376,13 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 ##### Artikel 28. Inwerkingtreding
 
-1. Dit verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van de periode gedurende welke overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=29&z=2019-07-02&g=2019-07-02), lid 2, een kennisgeving kan worden gedaan ten aanzien van de tweede staat die zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2019-07-02&g=2019-07-02) heeft nedergelegd.
+1. Dit verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van de periode gedurende welke overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=29&z=2023-09-01&g=2023-09-01), lid 2, een kennisgeving kan worden gedaan ten aanzien van de tweede staat die zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2023-09-01&g=2023-09-01) heeft nedergelegd.
 
 2. Vervolgens treedt dit verdrag in werking:
 
-- a. voor elke staat die dit verdrag later bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, op de eerste dag van de maand volgend op het verstrijken van de periode gedurende welke overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=29&z=2019-07-02&g=2019-07-02), lid 2, kennisgevingen met betrekking tot die staat kunnen worden gedaan;
+- a. voor elke staat die dit verdrag later bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, op de eerste dag van de maand volgend op het verstrijken van de periode gedurende welke overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=29&z=2023-09-01&g=2023-09-01), lid 2, kennisgevingen met betrekking tot die staat kunnen worden gedaan;
 
-- b. voor een territoriale eenheid waartoe dit verdrag overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=25&z=2019-07-02&g=2019-07-02) is uitgebreid nadat het verdrag in werking is getreden voor de staat die de verklaring aflegt, op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de kennisgeving van de in dat artikel bedoelde verklaring.
+- b. voor een territoriale eenheid waartoe dit verdrag overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=25&z=2023-09-01&g=2023-09-01) is uitgebreid nadat het verdrag in werking is getreden voor de staat die de verklaring aflegt, op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de kennisgeving van de in dat artikel bedoelde verklaring.
 
 ##### Artikel 29. Totstandbrenging van betrekkingen op grond van het verdrag
 
@@ -390,13 +390,13 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 2. Een verdragsluitende staat kan binnen twaalf maanden na de in artikel 32, onderdeel a), bedoelde kennisgeving door de depositaris, aan de depositaris ter kennis brengen dat de bekrachtiging, aanvaarding, goedkeuring of toetreding van een andere staat niet tot gevolg zal hebben dat tussen die twee staten betrekkingen op grond van dit verdrag tot stand worden gebracht.
 
-3. Een staat kan bij de nederlegging van zijn akte op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2019-07-02&g=2019-07-02), lid 4, aan de depositaris ter kennis brengen dat zijn bekrachtiging, aanvaarding, goedkeuring of toetreding niet tot gevolg zal hebben dat met een verdragsluitende staat betrekkingen op grond van dit verdrag tot stand worden gebracht.
+3. Een staat kan bij de nederlegging van zijn akte op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2023-09-01&g=2023-09-01), lid 4, aan de depositaris ter kennis brengen dat zijn bekrachtiging, aanvaarding, goedkeuring of toetreding niet tot gevolg zal hebben dat met een verdragsluitende staat betrekkingen op grond van dit verdrag tot stand worden gebracht.
 
 4. Een verdragsluitende staat kan te allen tijde een kennisgeving die hij uit hoofde van lid 2 of lid 3 heeft gedaan, intrekken. Die intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de datum van kennisgeving.
 
 ##### Artikel 30. Verklaringen
 
-1. De in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=14&z=2019-07-02&g=2019-07-02), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=III&artikel=17&z=2019-07-02&g=2019-07-02), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=III&artikel=18&z=2019-07-02&g=2019-07-02), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=III&artikel=19&z=2019-07-02&g=2019-07-02) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=25&z=2019-07-02&g=2019-07-02) bedoelde verklaringen kunnen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en kunnen te allen tijde worden gewijzigd of ingetrokken.
+1. De in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=II&artikel=14&z=2023-09-01&g=2023-09-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=III&artikel=17&z=2023-09-01&g=2023-09-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=III&artikel=18&z=2023-09-01&g=2023-09-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=III&artikel=19&z=2023-09-01&g=2023-09-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=25&z=2023-09-01&g=2023-09-01) bedoelde verklaringen kunnen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en kunnen te allen tijde worden gewijzigd of ingetrokken.
 
 2. Van verklaringen, wijzigingen en intrekkingen wordt aan de depositaris mededeling gedaan.
 
@@ -414,15 +414,15 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 ##### Artikel 32. Kennisgevingen door de depositaris
 
-De depositaris geeft de leden van de Haagse Conferentie voor Internationaal Privaatrecht en andere staten en regionale organisaties voor economische integratie die conform de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2019-07-02&g=2019-07-02), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=26&z=2019-07-02&g=2019-07-02) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=27&z=2019-07-02&g=2019-07-02) zijn overgegaan tot ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit verdrag of tot toetreding ertoe, kennis van het volgende:
+De depositaris geeft de leden van de Haagse Conferentie voor Internationaal Privaatrecht en andere staten en regionale organisaties voor economische integratie die conform de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2023-09-01&g=2023-09-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=26&z=2023-09-01&g=2023-09-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=27&z=2023-09-01&g=2023-09-01) zijn overgegaan tot ondertekening, bekrachtiging, aanvaarding of goedkeuring van dit verdrag of tot toetreding ertoe, kennis van het volgende:
 
-- a. de ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2019-07-02&g=2019-07-02), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=26&z=2019-07-02&g=2019-07-02) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=27&z=2019-07-02&g=2019-07-02);
+- a. de ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=24&z=2023-09-01&g=2023-09-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=26&z=2023-09-01&g=2023-09-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=27&z=2023-09-01&g=2023-09-01);
 
-- b. de datum waarop dit verdrag in werking treedt overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=28&z=2019-07-02&g=2019-07-02);
+- b. de datum waarop dit verdrag in werking treedt overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=28&z=2023-09-01&g=2023-09-01);
 
-- c. de kennisgevingen, verklaringen, wijzigingen en intrekkingen als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=26&z=2019-07-02&g=2019-07-02), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=27&z=2019-07-02&g=2019-07-02), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=29&z=2019-07-02&g=2019-07-02) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=30&z=2019-07-02&g=2019-07-02), en
+- c. de kennisgevingen, verklaringen, wijzigingen en intrekkingen als bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=26&z=2023-09-01&g=2023-09-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=27&z=2023-09-01&g=2023-09-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=29&z=2023-09-01&g=2023-09-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=30&z=2023-09-01&g=2023-09-01), en
 
-- d. de opzeggingen als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=31&z=2019-07-02&g=2019-07-02).
+- d. de opzeggingen als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0007044&hoofdstuk=IV&artikel=31&z=2023-09-01&g=2023-09-01).
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 
