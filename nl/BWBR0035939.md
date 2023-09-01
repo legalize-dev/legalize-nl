@@ -4,7 +4,7 @@ identifier: "BWBR0035939"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2023-07-08"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035939"
 soort: "ministeriele-regeling"
@@ -246,7 +246,7 @@ Met ingang van 1 januari 2023 luiden de bedragen, genoemd in [artikel 12.14, twe
 
 ##### Artikel 8c. Waarde van de voucher
 
-Met ingang van 1 januari 2023 bedraagt het bedrag, bedoeld in [artikel 19, eerste lid, van het BSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&artikel=19), € 2.207,88.
+Vervallen
 
 ##### Artikel 8d. Normbedrag partnertoeslag
 
