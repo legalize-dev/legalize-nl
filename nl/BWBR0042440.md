@@ -4,7 +4,7 @@ identifier: "BWBR0042440"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-19"
-last_updated: "2019-01-01"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042440"
 soort: "ministeriele-regeling"
@@ -92,7 +92,19 @@ De directeur en de plaatsvervangend directeur zijn verantwoordelijk voor:
 
 ##### Artikel 4
 
-De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende functionarissen bevoegdheden doorverlenen, met uitzondering van bevoegdheden met betrekking tot personeelsaangelegenheden. Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur.
+1. Aan de afdelingshoofden wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst. Dit geldt voor:
+
+- a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling die voorafgaand door de directeur zijn geaccordeerd;
+
+- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven (opdrachten/onderzoeken/subsidies) zoals opgenomen in het door de directie vastgestelde bestedingsplan;
+
+- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
+
+2. Aan het MT-lid herziening financieringsstelsel kinderopvang wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst. Dit geldt voor:
+
+- a. het organiseren en accorderen van activiteiten binnen het eigen taakveld die voorafgaand door de directeur zijn geaccordeerd.
+
+- b. het accorderen van binnen het eigen taakveld passende voorstellen/uitgaven (opdrachten/onderzoeken/subsidies) zoals opgenomen in het door de directie vastgestelde bestedingsplan.
 
 ##### Artikel 5
 
@@ -107,5 +119,13 @@ Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afw
 2. Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit KO 2019.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4
+
+De plaatsvervangend directeur kan aan rechtstreeks onder haar ressorterende functionarissen bevoegdheden doorverlenen, met uitzondering van bevoegdheden met betrekking tot personeelsaangelegenheden. Doorverlening van bevoegdheden is slechts toegestaan na voorafgaande schriftelijke toestemming van de directeur.
+
+#### § 3. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
