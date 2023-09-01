@@ -4,7 +4,7 @@ identifier: "BWBR0037446"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-12-09"
-last_updated: "2020-01-01"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037446"
 soort: "ministeriele-regeling"
@@ -156,16 +156,30 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 1. Bij afwezigheid of verhindering van de directeur WR worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangend directeur.
 
-2. Bij afwezigheid of verhindering van het hoofd van de RCN-unit SZW worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden, met uitzondering van de bevoegdheden genoemd in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&paragraaf=3&artikel=7&z=2020-01-01&g=2020-01-01), waargenomen door het plaatsvervangend hoofd van de RCN-unit SZW.
+2. Bij afwezigheid of verhindering van het hoofd van de RCN-unit SZW worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden, met uitzondering van de bevoegdheden genoemd in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&paragraaf=3&artikel=7&z=2023-12-09&g=2023-09-01), waargenomen door het plaatsvervangend hoofd van de RCN-unit SZW.
 
 ##### Artikel 11
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit Inkomensverzekeringen en -voorzieningen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025000) wordt ingetrokken.
 
-2. Na de inwerkingtreding van deze regeling berust het [Machtigingsbesluit RCN-unit Sociale Zaken 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0033541) dat genomen is krachtens de [artikelen 6, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0033484&artikel=6), en [11, van het Organisatie-, mandaat- en volmachtbesluit UBN 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0033484&artikel=11) op de [artikelen 6, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01), en [9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&paragraaf=3&artikel=9&z=2020-01-01&g=2020-01-01), van deze regeling.
+2. Na de inwerkingtreding van deze regeling berust het [Machtigingsbesluit RCN-unit Sociale Zaken 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0033541) dat genomen is krachtens de [artikelen 6, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0033484&artikel=6), en [11, van het Organisatie-, mandaat- en volmachtbesluit UBN 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0033484&artikel=11) op de [artikelen 6, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&paragraaf=2&artikel=6&z=2023-12-09&g=2023-09-01), en [9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&paragraaf=3&artikel=9&z=2023-12-09&g=2023-09-01), van deze regeling.
 
 3. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2015.
 
 4. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+##### Artikel 8a
+
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
+
+- a. het organiseren en accorderen van activiteiten binnen hun eigen afdeling/taakveld;
+
+- b. het accorderen van door de eigen afdeling ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde, danwel gedurende het jaar bijgestelde, bestedingsplan van de directie;
+
+- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
+
+#### § 4. Slotbepalingen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
