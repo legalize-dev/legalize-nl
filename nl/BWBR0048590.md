@@ -4,7 +4,7 @@ identifier: "BWBR0048590"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-09-01"
-last_updated: "2022-01-01"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048590"
 soort: "AMvB"
@@ -42,11 +42,11 @@ Wijzigt het Besluit belasting- en invorderingsrente.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 1, onderdeel c, van het Besluit belasting- en invorderingsrente](https://wetten.overheid.nl/jci1.3:c:BWBR0043680&artikel=1) zoals dat luidde na toepassing van [artikel I, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048590&artikel=I&z=2023-09-01&g=2023-09-01), blijft van toepassing bij de berekening van de te vergoeden rente over renteperiodes vanaf 1 maart 2023 tot en met de dag onmiddellijk voorafgaand aan de dag waarop dit besluit in werking is getreden.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat [artikel I, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048590&artikel=I&z=2023-09-01&g=2023-09-01), terugwerkt tot en met 1 januari 2022 en dat artikel I, onderdeel 2, terugwerkt tot en met 1 maart 2023.
 
 Op de voordracht van de Staatssecretaris van Financiën van 17 mei 2023, nr. 2023-0000117605;
 
