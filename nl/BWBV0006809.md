@@ -4,7 +4,7 @@ identifier: "BWBV0006809"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-09-01"
-last_updated: "2018-12-17"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006809"
 soort: "verdrag"
@@ -54,11 +54,11 @@ In dit Uitvoeringsprotocol wordt verstaan onder:
 
 ##### Artikel 2. Bevoegde autoriteiten
 
-1. De bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van dit Uitvoeringsprotocol en de Overeenkomst staan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=1&z=2018-12-17&g=2018-12-17) bij dit Uitvoeringsprotocol vermeld.
+1. De bevoegde autoriteiten die verantwoordelijk zijn voor de uitvoering van dit Uitvoeringsprotocol en de Overeenkomst staan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=1&z=2023-09-01&g=2023-09-01) bij dit Uitvoeringsprotocol vermeld.
 
 2. De Partijen wisselen uiterlijk vijftien (15) dagen na de ondertekening van dit Uitvoeringsprotocol de contactgegevens van de bevoegde autoriteiten uit.
 
-3. De Partijen worden onverwijld langs diplomatieke weg in kennis gesteld van iedere wijziging in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=1&z=2018-12-17&g=2018-12-17) bij dit Uitvoeringsprotocol en de in het tweede lid van dit artikel vermelde contactgegevens.
+3. De Partijen worden onverwijld langs diplomatieke weg in kennis gesteld van iedere wijziging in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=1&z=2023-09-01&g=2023-09-01) bij dit Uitvoeringsprotocol en de in het tweede lid van dit artikel vermelde contactgegevens.
 
 ##### Artikel 3. Grensdoorlaatposten
 
@@ -86,7 +86,7 @@ In dit Uitvoeringsprotocol wordt verstaan onder:
 
 ##### Artikel 6. Antwoord op het overnameverzoek
 
-1. Het antwoord op het overnameverzoek wordt met inachtneming van artikel 13 van de Overeenkomst via e-mail of andere technische communicatiemiddelen schriftelijk verstrekt aan de bevoegde autoriteit van de verzoekende Partij door gebruikmaking van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=2&z=2018-12-17&g=2018-12-17) aan dit Uitvoeringsprotocol is gehecht.
+1. Het antwoord op het overnameverzoek wordt met inachtneming van artikel 13 van de Overeenkomst via e-mail of andere technische communicatiemiddelen schriftelijk verstrekt aan de bevoegde autoriteit van de verzoekende Partij door gebruikmaking van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=2&z=2023-09-01&g=2023-09-01) aan dit Uitvoeringsprotocol is gehecht.
 
 2. Bij een positief antwoord op het overnameverzoek wordt een kopie van het in het eerste lid van dit artikel vermelde antwoord door de bevoegde autoriteit van de aangezochte Partij aan de diplomatieke vertegenwoordiging van de aangezochte Partij verstrekt.
 
@@ -94,11 +94,11 @@ In dit Uitvoeringsprotocol wordt verstaan onder:
 
 1. Bij een positief antwoord op een overnameverzoek voor een eigen onderdaan worden de voor terugkeer vereiste reisdocumenten onverwijld doch uiterlijk binnen vijf (5) werkdagen na de datum van ontvangst van een positief antwoord op het overnameverzoek, op naam van de over te nemen persoon gesteld en door de diplomatieke vertegenwoordiging aan de bevoegde autoriteiten van de verzoekende Partij verstrekt.
 
-2. Bij een positief antwoord op het overnameverzoek voor een onderdaan van een derde land of een staatloze verstrekt de verzoekende Partij een reisdocument aan de over te nemen persoon overeenkomstig de modellen die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=3&z=2018-12-17&g=2018-12-17) respectievelijk [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=4&z=2018-12-17&g=2018-12-17) aan dit Uitvoeringsprotocol zijn gehecht.
+2. Bij een positief antwoord op het overnameverzoek voor een onderdaan van een derde land of een staatloze verstrekt de verzoekende Partij een reisdocument aan de over te nemen persoon overeenkomstig de modellen die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=3&z=2023-09-01&g=2023-09-01) respectievelijk [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=4&z=2023-09-01&g=2023-09-01) aan dit Uitvoeringsprotocol zijn gehecht.
 
 ##### Artikel 8. Wijze van overdracht
 
-1. De verzoekende Partij stelt de aangezochte Partij in kennis van haar voornemen tot overdracht over te gaan en maakt daartoe gebruik van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=5&z=2018-12-17&g=2018-12-17) aan dit Uitvoeringsprotocol is gehecht. Het overdrachtformulier wordt minimaal drie (3) werkdagen vóór de datum van overdracht via e-mail of andere technische communicatiemiddelen schriftelijk toegezonden aan de bevoegde autoriteit van de aangezochte Partij.
+1. De verzoekende Partij stelt de aangezochte Partij in kennis van haar voornemen tot overdracht over te gaan en maakt daartoe gebruik van het formulier dat als [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006809&bijlage=5&z=2023-09-01&g=2023-09-01) aan dit Uitvoeringsprotocol is gehecht. Het overdrachtformulier wordt minimaal drie (3) werkdagen vóór de datum van overdracht via e-mail of andere technische communicatiemiddelen schriftelijk toegezonden aan de bevoegde autoriteit van de aangezochte Partij.
 
 2. Hoewel geen enkele wijze van vervoer wordt uitgesloten, geschiedt overdracht – in de regel – door de lucht. Zo nodig kan de verzoekende Partij speciale vluchten organiseren.
 
