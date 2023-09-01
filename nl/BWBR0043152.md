@@ -4,7 +4,7 @@ identifier: "BWBR0043152"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-13"
-last_updated: "2022-10-13"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0043152"
 soort: "ministeriele-regeling"
@@ -224,7 +224,7 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2022-10-13&g=2022-10-13) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=2&artikel=2&z=2023-11-01&g=2023-09-01) wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten over, het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
 
 - a. de taken van de eigen afdeling;
 
