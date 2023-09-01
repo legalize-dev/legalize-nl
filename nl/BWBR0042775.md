@@ -4,7 +4,7 @@ identifier: "BWBR0042775"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-03-21"
-last_updated: "2023-02-25"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042775"
 soort: "ministeriele-regeling"
@@ -226,7 +226,7 @@ Aan het hoofd van de afdeling Opsporingsondersteuning wordt mandaat en machtigin
 
 ##### Artikel 11. Volmachten afdelingshoofden
 
-De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende:
+De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
 - a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het IG-team goedgekeurde opleidingsplan;
 
@@ -238,11 +238,11 @@ De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel doo
 
 ##### Artikel 12. Volmacht teamleiders
 
-De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 3.000,– per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
+De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
 ##### Artikel 13. Volmacht teamleider TCI
 
-De teamleider TCI is gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– per overeenkomst betreffende informatievergaring met behulp van informanten.
+De teamleider TCI is gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende informatievergaring met behulp van informanten.
 
 ##### Artikel 14. Doorverlening
 
