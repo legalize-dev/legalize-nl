@@ -4,7 +4,7 @@ identifier: "BWBR0039964"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-30"
-last_updated: "2023-05-24"
+last_updated: "2023-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039964"
 soort: "ministeriele-regeling"
@@ -262,7 +262,7 @@ Het hoofd en de teamleiders van de afdeling BDI zijn bevoegd om namens een bewin
 
 ##### Artikel 11. Volmachten afdelingshoofden
 
-De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 15.000,– per overeenkomst betreffende:
+De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
 - a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het IG-team goedgekeurde opleidingsplan;
 
@@ -270,7 +270,7 @@ De afdelingshoofden zijn binnen de daarvoor geldende departementale, dan wel doo
 
 ##### Artikel 12. Volmacht afdelingshoofd COM
 
-Het hoofd van de afdeling COM is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot de communicatie van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 50.000,– per overeenkomst of bestelling.
+Het hoofd van de afdeling COM is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot de communicatie van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
 ##### Artikel 13. Plaatsvervanging
 
@@ -380,7 +380,7 @@ De afdeling SPO is verantwoordelijk voor:
 
 ##### Artikel 11a. Volmacht teamleiders
 
-De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 3.000,- per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
+De teamleiders zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
 #### § 5. Slotbepalingen
 
@@ -388,9 +388,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 12a. Volmachten hoofd en teamleiders SPO
 
-1. Het hoofd van de afdeling SPO is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van en het personeelsadvies voor de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 50.000,– per overeenkomst of bestelling.
+1. Het hoofd van de afdeling SPO is gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van en het personeelsadvies voor de Nederlandse Arbeidsinspectie, met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
-2. De teamleiders S&O en ISI zijn gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 15.000,– per overeenkomst of bestelling.
+2. De teamleiders S&O en ISI zijn gevolmachtigd tot het aangaan van overeenkomsten en bestellingen met betrekking tot het materieelbeheer, het facilitymanagement en de huisvesting van de Nederlandse Arbeidsinspectie met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst of bestelling.
 
 #### § 5. Slotbepalingen
 
