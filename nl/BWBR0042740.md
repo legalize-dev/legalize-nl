@@ -4,7 +4,7 @@ identifier: "BWBR0042740"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2023-01-01"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042740"
 soort: "ministeriele-regeling"
@@ -122,9 +122,9 @@ Als format als bedoeld in [artikel 3.1, zevende lid, van het Besluit verplichte 
 
 2. Ten behoeve van de analyse verwerkt de zorgaanbieder persoonsgegevens als bedoeld in [artikel 8:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:4), en [8:24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:24).
 
-3. De periode waarop de analyse betrekking heeft, is 1 januari tot en met 30 juni, respectievelijk 1 juli tot en met 31 december van elk kalenderjaar.
+3. De periode waarop de analyse betrekking heeft, is 1 januari tot en met 31 december van elk kalenderjaar.
 
-4. De zorgaanbieder verstrekt de analyse uiterlijk twaalf weken na afloop van de periode waarop de analyse betrekking heeft.
+4. De zorgaanbieder verstrekt de analyse binnen zes maanden na afloop van de periode waarop de analyse betrekking heeft.
 
 5. Bij de verstrekking wordt het bestandstype .pdf/A-1, of de technische opvolger daarvan, gehanteerd in een digitaal uitleesbaar formaat.
 
@@ -132,29 +132,21 @@ Als format als bedoeld in [artikel 3.1, zevende lid, van het Besluit verplichte 
 
 ##### Artikel 9
 
-1. In de analyse, bedoeld in [artikel 8:25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:25) neemt de zorgaanbieder in ieder geval op, uitgesplitst per vorm van verplichte zorg zoals weergegeven in het format, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042740&hoofdstuk=3&artikel=7&z=2020-01-01&g=2023-01-01):
+1. In de analyse, bedoeld in [artikel 8:25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:25) neemt de zorgaanbieder in ieder geval op:
 
-- a. het aantal unieke betrokkenen op wie de vorm van verplichte zorg is toegepast;
+- a. de ontwikkeling van het aantal crisismaatregelen, machtigingen tot voortzetting van een crisismaatregel, of zorgmachtigingen, met inbegrip van machtigingen afgegeven op grond van de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700), ten opzichte van de voorgaande vijf kalenderjaren;
 
-- b. stijgingen of dalingen in de toepassing van verplichte zorg ten opzichte van de voorgaande analyse, uitgedrukt in aantallen en percentages;
+- b. in welke mate verplichte zorg zoals vermeld in een crisismaatregel, machtiging tot voortzetting van een crisismaatregel of zorgmachtiging daadwerkelijk tot uitvoering is gebracht;
 
-- c. de verhouding van het aantal betrokkenen dat verplichte zorg heeft ontvangen ten opzichte van het aantal betrokkenen dat geen verplichte zorg heeft ontvangen, uitgedrukt in aantallen en percentages;
+- c. een duiding van de verleende verplichte zorg, waaronder in elk geval de vormen van verplichte zorg als bedoeld in [artikel 3:2, tweede lid, onderdelen a, b, c of j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=3:2);
 
-- d. per vorm van verplichte zorg: de verhouding van het aantal betrokkenen dat die vorm van verplichte zorg heeft ontvangen ten opzichte van het totaal aantal betrokkenen dat verplichte zorg heeft ontvangen, uitgedrukt in een percentage; en
+- d. een duiding van de verleende verplichte zorg, anders dan die in een accommodatie aan een betrokkene is verleend, als bedoeld in [artikel 2:4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=2:4);
 
-- e. het totaal aantal betrokkenen met een zelfbindingsverklaring als bedoeld in [artikel 4:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=4:1), alsmede de verhouding van dit aantal betrokkenen ten opzichte van het aantal betrokkenen dat verplichte zorg ontvangt zonder zelfbindingsverklaring, uitgedrukt in een percentage.
+- e. in hoeverre en op welke wijze verplichte zorg is voorkomen, dan wel voorkomen had kunnen worden;
 
-2. In de analyse, bedoeld in het eerste lid, vermeldt de zorgaanbieder in ieder geval:
+- f. welke leer- en ontwikkelpunten op grond van onderdelen a tot en met e zijn geïdentificeerd, op welke wijze daaraan uitvoering wordt gegeven, en in hoeverre dit aanleiding geeft tot aanpassing van het beleidsplan, bedoeld in [artikel 2:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=2:2).
 
-- a. een duiding van verschillen in de toepassing van verplichte zorg ten opzichte van een voorgaande analyse, alsmede of deze verschillen aanleiding geven tot aanpassing van het beleidsplan, bedoeld in [artikel 2:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=2:2);
-
-- b. indien van toepassing, een duiding van relevante verschillen in de toepassing van verplichte zorg tussen verschillende locaties van de zorgaanbieder;
-
-- c. welke maatregelen zijn getroffen ter terugdringing van verplichte zorg; en
-
-- d. een beschrijving van de wijze waarop de analyse tot stand is gekomen.
-
-3. De zorgaanbieder stelt de door hem op grond van [artikel 2 van de Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920&artikel=2) ingestelde en ter zake betrokken cliëntenraad gedurende vier weken in de gelegenheid om een reactie uit te brengen over de analyse, bedoeld in het eerste lid, en voegt deze toe aan de analyse. Indien de cliëntenraad geen reactie heeft gegeven, vermeldt de zorgaanbieder in de analyse wanneer hij de cliëntenraad hiertoe in de gelegenheid heeft gesteld.
+2. De zorgaanbieder stelt de door hem op grond van [artikel 3 van de Wet medezeggenschap cliënten zorginstellingen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&artikel=3) ingestelde en ter zake betrokken cliëntenraad gedurende vier weken in de gelegenheid om een reactie uit te brengen over de analyse, bedoeld in het eerste lid, en voegt deze toe aan de analyse. Indien de cliëntenraad geen reactie heeft gegeven, vermeldt de zorgaanbieder in de analyse wanneer hij de cliëntenraad hiertoe in de gelegenheid heeft gesteld.
 
 ##### Artikel 10
 
@@ -168,7 +160,7 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet verplichte geeste
 
 Deze regeling wordt aangehaald als: Regeling verplichte geestelijke gezondheidszorg.
 
-## Bijlage. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042740&hoofdstuk=3&artikel=7&z=2020-01-01&g=2023-01-01) van de Regeling verplichte geestelijke gezondheidszorg
+## Bijlage. bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042740&hoofdstuk=3&artikel=7&z=2023-09-02&g=2023-09-02) van de Regeling verplichte geestelijke gezondheidszorg
 
 FORMAT DIGITAAL OVERZICHT VERPLICHTE ZORG
 
