@@ -4,7 +4,7 @@ identifier: "BWBR0047399"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2022-11-01"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0047399"
 soort: "ministeriele-regeling"
@@ -74,9 +74,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 2.1. Te subsidiëren activiteiten en maximaal subsidiebedrag
 
-1. De minister kan aan ten hoogste twee organisaties een subsidie verstrekken voor het gericht werken aan een onderzoeks- en verbetercultuur binnen het programma Ontwikkelkracht in het pilotjaar, aan de hand van een werkwijze. De werkwijze wordt tijdens het pilotjaar door de subsidieontvanger op tien scholen toegepast.
+1. De minister kan aan ten hoogste twee organisaties een subsidie verstrekken voor het gericht werken aan een onderzoeks- en verbetercultuur binnen het programma Ontwikkelkracht in het pilotjaar, aan de hand van een werkwijze. De werkwijze wordt tijdens het pilotjaar door de subsidieontvanger op ten minste twaalf scholen toegepast.
 
-2. Het subsidiebedrag per organisatie bedraagt ten hoogste € 200.000,–.
+2. Het subsidiebedrag per organisatie bedraagt ten hoogste € 252.500,–.
 
 3. De volgende kosten komen in ieder geval voor subsidie in aanmerking:
 
@@ -86,11 +86,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 2.2. Subsidieplafond
 
-Voor de verstrekking van subsidies als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2022-11-01&g=2022-11-01) is op grond van deze regeling in totaal een bedrag van € 400.000,– beschikbaar.
+Voor de verstrekking van subsidies als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2023-09-02&g=2023-09-02) is op grond van deze regeling in totaal een bedrag van € 505.000,– beschikbaar.
 
 ##### Artikel 2.3. Subsidieaanvraag pilotjaar
 
-1. Een organisatie kan van 1 november 2022 tot en met 1 december 022 een aanvraag indienen voor de subsidie, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2022-11-01&g=2022-11-01). Aanvragen die worden ontvangen na 1 december 2022, worden afgewezen.
+1. Een organisatie kan van 1 november 2022 tot en met 1 december 022 een aanvraag indienen voor de subsidie, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2023-09-02&g=2023-09-02). Aanvragen die worden ontvangen na 1 december 2022, worden afgewezen.
 
 2. De aanvraag bevat een activiteitenplan en een begroting voor het pilotjaar. In aanvulling op [hoofdstuk 3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=3) bevat het activiteitenplan een beschrijving van:
 
@@ -104,17 +104,17 @@ Voor de verstrekking van subsidies als bedoeld in [artikel 2.1](https://wetten.o
 
 ##### Artikel 2.4. Beoordeling subsidieaanvraag pilotjaar
 
-1. De minister verdeelt het beschikbare bedrag na onderlinge afweging van de subsidieaanvragen op basis van de beoordelingscriteria, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&bijlage=1&z=2022-11-01&g=2022-11-01). Bij de beoordeling van de subsidieaanvragen worden punten toegekend, met een maximum van 100 punten per aanvraag. De aanvragen met een hoger aantal punten worden daarbij hoger in de rangschikking geplaatst.
+1. De minister verdeelt het beschikbare bedrag na onderlinge afweging van de subsidieaanvragen op basis van de beoordelingscriteria, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&bijlage=1&z=2023-09-02&g=2023-09-02). Bij de beoordeling van de subsidieaanvragen worden punten toegekend, met een maximum van 100 punten per aanvraag. De aanvragen met een hoger aantal punten worden daarbij hoger in de rangschikking geplaatst.
 
 2. Indien twee of meer aanvragen op een gelijke positie worden gerangschikt, wordt de onderlinge rangschikking van deze aanvragen door middel van loting bepaald.
 
-3. De weging van de verschillende beoordelingscriteria, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&bijlage=1&z=2022-11-01&g=2022-11-01), is als volgt: onderdeel B weegt voor 40 procent mee. Onderdelen A, C en D ieder voor 20 procent.
+3. De weging van de verschillende beoordelingscriteria, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&bijlage=1&z=2023-09-02&g=2023-09-02), is als volgt: onderdeel B weegt voor 40 procent mee. Onderdelen A, C en D ieder voor 20 procent.
 
 4. Een aanvraag komt alleen in aanmerking voor subsidieverlening indien op elk onderdeel van de beoordelingscriteria ten minste zestig procent van de punten zijn behaald.
 
 ##### Artikel 2.5. Verplichtingen subsidie pilotjaar
 
-Aan de subsidieontvanger, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2022-11-01&g=2022-11-01), worden de volgende verplichtingen opgelegd:
+Aan de subsidieontvanger, bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2023-09-02&g=2023-09-02), worden de volgende verplichtingen opgelegd:
 
 - a. de subsidieontvanger werkt samen met andere uitvoerders binnen het programma Ontwikkelkracht, waaronder het Nationaal Regieorgaan Onderwijsonderzoek en Education Lab, en neemt zitting in het programmateam van het programma Ontwikkelkracht;
 
@@ -126,7 +126,7 @@ Aan de subsidieontvanger, bedoeld in [artikel 2.1, eerste lid](https://wetten.ov
 
 ##### Artikel 2.6. Verlening en bevoorschotting
 
-1. De subsidie wordt verleend binnen 13 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.3&z=2022-11-01&g=2022-11-01).
+1. De subsidie wordt verleend binnen 13 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.3&z=2023-09-02&g=2023-09-02).
 
 2. De minister verleent een voorschot van 100% en betaalt per kwartaal een gelijk deel van het subsidiebedrag.
 
@@ -140,29 +140,29 @@ Aan de subsidieontvanger, bedoeld in [artikel 2.1, eerste lid](https://wetten.ov
 
 ##### Artikel 3.1. Te subsidiëren activiteiten en maximaal subsidiebedrag
 
-1. Na het pilotjaar beslist de minister over voortzetting van het verder uitvoeren van de werkwijze op 240 scholen per subsidieontvanger als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2022-11-01&g=2022-11-01), in de onderzoeksfase.
+1. Na het pilotjaar beslist de minister over voortzetting van het verder uitvoeren van de werkwijze op 240 scholen per subsidieontvanger als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2023-09-02&g=2023-09-02), in de onderzoeksfase.
 
-2. Indien het in het eerste lid bedoelde besluit positief is, kan de minister aan organisaties aan wie eerder op grond van [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2022-11-01&g=2022-11-01), subsidie is verstrekt, eveneens subsidie verstrekken voor het uitvoeren van de werkwijze in de onderzoeksfase. Indien de minister negatief besluit over voortzetting van het verder uitvoeren van de werkwijze in de onderzoeksfase door een organisatie, ontvangt die organisatie geen subsidie voor de onderzoeksfase.
+2. Indien het in het eerste lid bedoelde besluit positief is, kan de minister aan organisaties aan wie eerder op grond van [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2023-09-02&g=2023-09-02), subsidie is verstrekt, eveneens subsidie verstrekken voor het uitvoeren van de werkwijze in de onderzoeksfase. Indien de minister negatief besluit over voortzetting van het verder uitvoeren van de werkwijze in de onderzoeksfase door een organisatie, ontvangt die organisatie geen subsidie voor de onderzoeksfase.
 
-3. Het subsidiebedrag per organisatie bedraagt ten hoogste € 4.800.000,–. [Artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2022-11-01&g=2022-11-01), is van overeenkomstige toepassing.
+3. Het subsidiebedrag per organisatie bedraagt ten hoogste € 4.800.000,–. [Artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2023-09-02&g=2023-09-02), is van overeenkomstige toepassing.
 
 ##### Artikel 3.2. Subsidieplafond
 
-Voor de verstrekking van subsidies als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.1&z=2022-11-01&g=2022-11-01) is op grond van deze regeling in totaal een bedrag van € 9.600.000,– beschikbaar.
+Voor de verstrekking van subsidies als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.1&z=2023-09-02&g=2023-09-02) is op grond van deze regeling in totaal een bedrag van € 9.600.000,– beschikbaar.
 
 ##### Artikel 3.3. Subsidieaanvraag onderzoeksfase
 
-1. Een organisatie aan wie eerder op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2022-11-01&g=2022-11-01) subsidie is verstrekt, kan, indien het besluit van de minister, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.1&z=2022-11-01&g=2022-11-01), positief is, subsidie aanvragen voor de onderzoeksfase. Daartoe kan de organisatie vóór 15 juni 2024 een subsidieaanvraag indienen bij de minister.
+1. Een organisatie aan wie eerder op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.1&z=2023-09-02&g=2023-09-02) subsidie is verstrekt, kan, indien het besluit van de minister, bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.1&z=2023-09-02&g=2023-09-02), positief is, subsidie aanvragen voor de onderzoeksfase. Daartoe kan de organisatie vóór 15 juni 2024 een subsidieaanvraag indienen bij de minister.
 
-2. De aanvraag bevat een activiteitenplan en een begroting. [Artikel 2.3, tweede lid, sub a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.3&z=2022-11-01&g=2022-11-01) zijn van overeenkomstige toepassing.
+2. De aanvraag bevat een activiteitenplan en een begroting. [Artikel 2.3, tweede lid, sub a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.3&z=2023-09-02&g=2023-09-02) zijn van overeenkomstige toepassing.
 
 ##### Artikel 3.4. Beoordeling subsidieaanvraag onderzoeksfase
 
-De minister verdeelt het beschikbare bedrag na beoordeling van de subsidieaanvragen op basis van de voortgangsrapportage, bedoeld in [artikel 2.5, sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.5&z=2022-11-01&g=2022-11-01), een onafhankelijk onderzoek door een externe partij en de aanvraag, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.3&z=2022-11-01&g=2022-11-01).
+De minister verdeelt het beschikbare bedrag na beoordeling van de subsidieaanvragen op basis van de voortgangsrapportage, bedoeld in [artikel 2.5, sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.5&z=2023-09-02&g=2023-09-02), een onafhankelijk onderzoek door een externe partij en de aanvraag, bedoeld in [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.3&z=2023-09-02&g=2023-09-02).
 
 ##### Artikel 3.5. Verplichtingen subsidie onderzoeksfase
 
-1. Aan de ontvanger van een subsidie als bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.1&z=2022-11-01&g=2022-11-01), worden de volgende verplichtingen opgelegd:
+1. Aan de ontvanger van een subsidie als bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.1&z=2023-09-02&g=2023-09-02), worden de volgende verplichtingen opgelegd:
 
 - a. de subsidieontvanger werkt samen met andere uitvoerders binnen het programma Ontwikkelkracht, waaronder het Nationaal Regieorgaan Onderwijsonderzoek en Education Lab, en neemt zitting in het programmateam van het programma Ontwikkelkracht;
 
@@ -176,7 +176,7 @@ De minister verdeelt het beschikbare bedrag na beoordeling van de subsidieaanvra
 
 ##### Artikel 3.6. Verlening en bevoorschotting
 
-1. De subsidie wordt verleend binnen 13 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.3&z=2022-11-01&g=2022-11-01).
+1. De subsidie wordt verleend binnen 13 weken na afloop van de aanvraagtermijn, bedoeld in [artikel 3.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=3&artikel=3.3&z=2023-09-02&g=2023-09-02).
 
 2. De minister verleent een voorschot van 100% en betaalt per kwartaal een gelijk deel van het subsidiebedrag.
 
@@ -198,7 +198,7 @@ De minister verdeelt het beschikbare bedrag na beoordeling van de subsidieaanvra
 
 Deze regeling wordt aangehaald als: Subsidieregeling onderzoeks- en verbetercultuur funderend onderwijs 2023–2027.
 
-## Bijlage 1. behorende bij [artikel 2.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.4&z=2022-11-01&g=2022-11-01) beoordelingscriteria subsidieregeling onderzoeks- en verbetercultuur funderend onderwijs 2023–2027
+## Bijlage 1. behorende bij [artikel 2.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&hoofdstuk=2&artikel=2.4&z=2023-09-02&g=2023-09-02) beoordelingscriteria subsidieregeling onderzoeks- en verbetercultuur funderend onderwijs 2023–2027
 
 ### Deel A – Omschrijving werkwijze (algemeen)
 
@@ -208,4 +208,4 @@ Deze regeling wordt aangehaald als: Subsidieregeling onderzoeks- en verbetercult
 
 ### Deel D – Samenhang binnen het programma Ontwikkelkracht
 
-Deze regeling zal met de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&bijlage=1&z=2022-11-01&g=2022-11-01) alsmede de toelichting in de Staatscourant worden geplaatst.
+Deze regeling zal met de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0047399&bijlage=1&z=2023-09-02&g=2023-09-02) alsmede de toelichting in de Staatscourant worden geplaatst.
