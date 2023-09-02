@@ -4,7 +4,7 @@ identifier: "BWBR0030327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2023-03-29"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030327"
 soort: "ministeriele-regeling"
@@ -50,9 +50,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **directie Communicatie:** de directie Communicatie van het ministerie;
 
-- c. **directeur:** de functionaris die leiding geeft aan de directie Communicatie;
-
-- d. **coördinator:** de functionaris die de dagelijkse leiding heeft over de afdeling Stafbureau.
+- c. **directeur:** de functionaris die leiding geeft aan de directie Communicatie.
 
 #### § 2. Organisatie
 
@@ -66,9 +64,7 @@ Onder de directeur ressorteren de volgende afdelingen:
 
 - c. de afdeling Creatie en Publieksinformatie;
 
-- d. de afdeling Omgevingskennis en Responsiviteit;
-
-- e. de afdeling Stafbureau.
+- d. de afdeling Omgevingskennis en Responsiviteit.
 
 ##### Artikel 3
 
@@ -114,7 +110,7 @@ Het hoofd van de afdeling Woordvoering en Publiciteit is verantwoordelijk voor:
 
 - j. het opstellen en redigeren van toespraken, spreekpunten en redeneerlijnen voor de bewindspersonen en het redigeren van belangrijke stukken die door het ministerie worden gepubliceerd;
 
-- a. Het stimuleren van helder taalgebruik in stukken die binnen het ministerie worden geschreven. Hiervoor worden taalblogs geschreven, wordt redactiehulp aangeboden en worden workshops georganiseerd.
+- k. Het stimuleren van helder taalgebruik in stukken die binnen het ministerie worden geschreven. Hiervoor worden taalblogs geschreven, wordt redactiehulp aangeboden en worden workshops georganiseerd.
 
 ##### Artikel 5
 
@@ -202,55 +198,41 @@ Het hoofd van de afdeling Omgevingskennis en Responsiviteit is verantwoordelijk 
 
 ##### Artikel 8
 
-De coördinator van de afdeling Stafbureau is in de dagelijkse aansturing verantwoordelijk voor:
-
-- a. het adviseren en ondersteunen van de leiding bij het managen van de organisatie van de directie Communicatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
-
-- b. het bezien van de directiebrede consequenties;
-
-- c. het directiebreed leveren van de geïntegreerde managementinformatie op het gebied van personeel, informatie, organisatie, financiële administratie en huisvesting;
-
-- d. het adviseren over en het monitoren van de organisatorische, financiële en personele consequenties van de interdepartementale ontwikkelingen in Voorlichtingsraad-verband.
-
-##### Artikel 9
-
 1. Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de taken van de eigen afdeling.
 
 2. Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het vaststellen en ondertekenen van stukken die betrekking hebben op personeelsaangelegenheden ten behoeve van medewerkers van de eigen afdeling, met uitzondering van het vaststellen van beoordelingen.
 
 3. In aanvulling op het eerste lid wordt aan het hoofd van de afdeling Creatie en Publieksinformatie mandaat en machtiging verleend met betrekking tot het paraferen van concepten van antwoorden op persoonlijke brieven die direct aan bewindspersonen gericht zijn en op burgerbrieven die aan het ministerie gericht zijn.
 
+##### Artikel 9
+
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze overeenkomsten betrekking hebben op de taken die vallen onder hun verantwoordelijkheid.
+
 ##### Artikel 10
 
-1. Aan de hoofden van de afdelingen en de coördinator van het Stafbureau wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, voor zover deze overeenkomsten betrekking hebben op de taken die vallen onder hun verantwoordelijkheid.
+1. Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd van de afdeling Woordvoering en Publiciteit of door een andere daartoe aan te wijzen plaatsvervanger.
 
-2. In afwijking van het eerste lid is slechts de coördinator van de afdeling Stafbureau gevolmachtigd tot:
-
-- a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten op basis van een door de directie Bedrijfsvoering afgesloten mantelovereenkomst alsmede het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 20.000,- per overeenkomst;
-
-- b. het aangaan van overeenkomsten voor het inhuren van personeel voor de uitvoering van werkzaamheden die onder directe verantwoordelijkheid van het departementale management worden verricht;
-
-- c. het aangaan van overeenkomsten voor het opleiden van medewerkers van de directie Communicatie.
+2. Bij afwezigheid of verhindering van een afdelingshoofd worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door een ander afdelingshoofd of door een daartoe aan te wijzen plaatsvervanger.
 
 ##### Artikel 11
 
-Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken waargenomen door het afdelingshoofd dat hiervoor door de directeur is aangewezen.
+De hoofden van de afdelingen kunnen, na voorafgaande schriftelijke toestemming van de directeur, hun bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
 
 #### § 4. Slotbepalingen
 
 ##### Artikel 12
 
-De hoofden van de afdelingen kunnen, na voorafgaande schriftelijke toestemming van de directeur, hun bevoegdheden doorverlenen aan onder hen ressorterende functionarissen.
+Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026506) wordt ingetrokken.
 
 ##### Artikel 13
 
-Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026506) wordt ingetrokken.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 14
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2011.
+Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
@@ -275,3 +257,5 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 ##### Artikel 15
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011.
+
+#### § 4. Slotbepalingen
