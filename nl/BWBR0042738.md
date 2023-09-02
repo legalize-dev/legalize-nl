@@ -4,7 +4,7 @@ identifier: "BWBR0042738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2023-01-01"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0042738"
 soort: "ministeriele-regeling"
@@ -122,9 +122,9 @@ Als format als bedoeld in [artikel 4.1, zevende lid, van het Besluit zorg en dwa
 
 2. Ten behoeve van de analyse verwerkt de zorgaanbieder persoonsgegevens als bedoeld in [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=16), en [17, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=17).
 
-3. De periode waarop de analyse betrekking heeft is 1 januari tot en met 30 juni, respectievelijk 1 juli tot en met 31 december van elk kalenderjaar.
+3. De periode waarop de analyse betrekking heeft, is 1 januari tot en met 31 december van elk kalenderjaar.
 
-4. De zorgaanbieder verstrekt de analyse uiterlijk twaalf weken na afloop van de periode waarop de analyse betrekking heeft.
+4. De zorgaanbieder verstrekt de analyse binnen zes maanden na afloop van de periode waarop de analyse betrekking heeft.
 
 5. Bij de verstrekking wordt het bestandstype .pdf/A-1, of de technische opvolger daarvan, gehanteerd in een digitaal uitleesbaar formaat.
 
@@ -132,27 +132,21 @@ Als format als bedoeld in [artikel 4.1, zevende lid, van het Besluit zorg en dwa
 
 ##### Artikel 7
 
-1. In de analyse, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=18) neemt de zorgaanbieder in ieder geval op, uitgesplitst per vorm van onvrijwillige zorg zoals weergegeven in het format, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042738&hoofdstuk=3&artikel=5&z=2020-01-01&g=2023-01-01):
+1. In de analyse, bedoeld in [artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=18) neemt de zorgaanbieder in ieder geval op, uitgesplitst per vorm van onvrijwillige zorg zoals weergegeven in het format, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042738&hoofdstuk=3&artikel=5&z=2023-09-02&g=2023-09-02):
 
 - a. het aantal unieke cliënten op wie de vorm van onvrijwillige zorg is toegepast;
 
 - b. stijgingen of dalingen in de toepassing van onvrijwillige zorg ten opzichte van de voorgaande analyse, uitgedrukt in aantallen en percentages;
 
-- c. de verhouding van het aantal cliënten dat onvrijwillige zorg heeft ontvangen ten opzichte van het aantal cliënten dat geen onvrijwillige zorg heeft ontvangen, uitgedrukt in aantallen en percentages; en
+- c. een duiding van de verleende onvrijwillige zorg en van de verschillen in de toepassing van onvrijwillige zorg ten opzichte van de voorgaande analyse;
 
-- d. per vorm van onvrijwillige zorg: de verhouding van het aantal cliënten dat die vorm van onvrijwillige zorg heeft ontvangen ten opzichte van het totaal aantal cliënten dat onvrijwillige zorg heeft ontvangen, uitgedrukt in een percentage.
+- d. een duiding van de verleende onvrijwillige zorg, anders dan die in een accommodatie aan een cliënt is verleend als bedoeld in [artikel 2a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=2a);
 
-2. In de analyse, bedoeld in het eerste lid, vermeldt de zorgaanbieder in ieder geval:
+- e. in hoeverre en op welke wijze onvrijwillige zorg is voorkomen, dan wel voorkomen had kunnen worden;
 
-- a. een duiding van verschillen in de toepassing van onvrijwillige zorg ten opzichte van een voorgaande analyse, alsmede of deze verschillen aanleiding geven tot aanpassing van het beleidsplan, bedoeld in [artikel 19 van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=19)t;
+- f. welke leer- en ontwikkelpunten op grond van onderdelen a tot en met e zijn geïdentificeerd, op welke wijze daaraan uitvoering wordt gegeven, en in hoeverre dit aanleiding geeft tot aanpassing van het beleidsplan, bedoeld in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=19).
 
-- b. indien van toepassing, een duiding van relevante verschillen in de toepassing van onvrijwillige zorg tussen verschillende locaties van de zorgaanbieder;
-
-- c. welke maatregelen zijn getroffen ter terugdringing van onvrijwillige zorg; en
-
-- d. een beschrijving van de wijze waarop de analyse tot stand is gekomen.
-
-3. De zorgaanbieder stelt de door hem op grond van [artikel 2 van de Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920&artikel=2) ingestelde en ter zake betrokken cliëntenraad gedurende vier weken in gelegenheid om een reactie uit te brengen over de analyse, bedoeld in het eerste lid, en voegt deze toe aan de analyse. Indien de cliëntenraad geen reactie heeft gegeven, vermeldt de zorgaanbieder in de analyse wanneer hij de cliëntenraad hiertoe in de gelegenheid heeft gesteld.
+2. De zorgaanbieder stelt de door hem op grond van [artikel 3 van de Wet medezeggenschap cliënten zorginstellingen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&artikel=3) ingestelde en ter zake betrokken cliëntenraad gedurende vier weken in gelegenheid om een reactie uit te brengen over de analyse, bedoeld in het eerste lid, en voegt deze toe aan de analyse. Indien de cliëntenraad geen reactie heeft gegeven, vermeldt de zorgaanbieder in de analyse wanneer hij de cliëntenraad hiertoe in de gelegenheid heeft gesteld.
 
 ##### Artikel 8
 
@@ -166,7 +160,7 @@ Deze regeling treedt in werking op het tijdstip waarop de Wet zorg en dwang psyc
 
 Deze regeling wordt aangehaald als: Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
 
-## Bijlage. Bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042738&hoofdstuk=3&artikel=5&z=2020-01-01&g=2023-01-01) van de Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten
+## Bijlage. Bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042738&hoofdstuk=3&artikel=5&z=2023-09-02&g=2023-09-02) van de Regeling zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten
 
 FORMAT DIGITAAL OVERZICHT ONVRIJWILLIGE ZORG
 
