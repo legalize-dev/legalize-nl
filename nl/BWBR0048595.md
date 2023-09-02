@@ -4,7 +4,7 @@ identifier: "BWBR0048595"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-09-02"
-last_updated: "2023-01-01"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0048595"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048595&paragraaf=1&artikel=2&z=2023-09-02&g=2023-01-01), bedraagt per boekjaar ten hoogste het bedrag zoals opgenomen in de tabel in de bijlage bij deze regeling.
+De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048595&paragraaf=1&artikel=2&z=2023-09-02&g=2023-09-02), bedraagt per boekjaar ten hoogste het bedrag zoals opgenomen in de tabel in de bijlage bij deze regeling.
 
 #### 2. De subsidieverlening
 
@@ -70,7 +70,7 @@ De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048
 
 ##### Artikel 5
 
-Indien een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048595&paragraaf=1&artikel=2&z=2023-09-02&g=2023-01-01) € 125.000 of meer is, zijn de regels in [artikel 17 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=17) inzake een subsidie van € 25.000 tot € 125.000 van toepassing.
+Indien een subsidie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048595&paragraaf=1&artikel=2&z=2023-09-02&g=2023-09-02) € 125.000 of meer is, zijn de regels in [artikel 17 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=17) inzake een subsidie van € 25.000 tot € 125.000 van toepassing.
 
 #### 3. De subsidievaststelling
 
@@ -104,6 +104,6 @@ Deze regeling wordt aangehaald als: Subsidieregeling uitvoeringskosten waterscha
 
 ## Bijlage. Subsidieplafond per waterschap
 
-### Bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048595&paragraaf=1&artikel=3&z=2023-09-02&g=2023-01-01)
+### Bijlage bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048595&paragraaf=1&artikel=3&z=2023-09-02&g=2023-09-02)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
