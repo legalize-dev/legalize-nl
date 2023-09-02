@@ -4,7 +4,7 @@ identifier: "BWBR0045879"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-11-21"
-last_updated: "2021-09-28"
+last_updated: "2023-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0045879"
 soort: "zbo"
@@ -46,15 +46,17 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de afdelingshoofden:** de afdelingshoofden van de Nederlandse Emissieautoriteit;
+- a. **afdelingshoofden:** de afdelingshoofden van de Dienst Nederlandse Emissieautoriteit;
 
-- b. **het bestuur:** het bestuur van de Nederlandse Emissieautoriteit;
+- b. **bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW);
 
-- c. **de directeur-bestuurder:** de directeur-bestuurder van de Nederlandse Emissieautoriteit;
+- c. **bestuur:** het bestuur van de Nederlandse Emissieautoriteit;
 
-- d. **de P&O-aangelegenheden:** aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
+- d. **directeur-bestuurder:** de directeur-bestuurder van de Nederlandse Emissieautoriteit;
 
-- e. **het bedrag:** het bedrag inclusief de verschuldigde omzetbelasting (BTW).
+- e. **P&O-aangelegenheden:** aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
+
+- f. **teammanagers:** de teammanagers van de Dienst Nederlandse Emissieautoriteit.
 
 #### § 2. Taakverdeling
 
@@ -96,7 +98,7 @@ Aan het bestuur is voorbehouden: het nemen van besluiten, het verrichten van pri
 
 2. De uit dit besluit voor de directeur-bestuurder voortvloeiende bevoegdheden gaan in zijn afwezigheid over op een door hem aan te wijzen afdelingshoofd.
 
-#### § 4. Slotbepalingen
+#### § 3. Vervanging
 
 ##### Artikel 6
 
@@ -109,5 +111,45 @@ Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscou
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat, ondermandaat, volmacht en machtiging Dienst NEa.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Aan de teammanagers wordt, ieder voor zich, voor de onder hen ressorterende medewerkers, mandaat verleend voor het nemen van besluiten inzake:
+
+**afdeling emissiehandel**
+
+- a. een melding significante wijziging van het monitoringplan, het industriële monitoringsplan en het elektriciteitsmonitoringsplan;
+
+- b. het monitoringmethodiekplan en het industrieel monitoringsmethodiekplan;
+
+- c. de verbeterrapportage;
+
+- d. het afzien locatiebezoek door de verificateur en
+
+- e. het besluit inzake het virtueel locatiebezoek door de verificateur;
+
+**afdeling energie voor vervoer**
+
+- f. de opening, opschorting of sluiting rekening in het Register hernieuwbare energie.
+
+##### Artikel 2b
+
+Aan de teammanagers wordt, ieder voor zich, voor de onder hen ressorterende
+
+medewerkers, volmacht en machtiging verleend voor:
+
+- a. het verlenen van verlof en kort buitengewoon verlof;
+
+- b. het verlenen van zwangerschaps-, bevallings- en ouderschapsverlof;
+
+- c. het afhandelen van verzoeken inzake de opleiding van personeel;
+
+- d. het accorderen van P-Direkt aanvragen;
+
+- e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.
+
+#### § 4. Slotbepalingen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
