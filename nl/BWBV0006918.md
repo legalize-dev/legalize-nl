@@ -4,7 +4,7 @@ identifier: "BWBV0006918"
 country: "nl"
 rank: "verdrag"
 publication_date: "2023-09-03"
-last_updated: "2022-07-02"
+last_updated: "2023-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006918"
 soort: "verdrag"
@@ -48,13 +48,13 @@ Have entered into the following Administrative Arrangement:
 
 2. The aim of the Project is the preparation of future Char Development and Settlement Programmes, the development of permanent institutional framework for such programmes and the planning, execution, supervision and monitoring of activities in the field of water management, rural infrastructure, institutional development, land-settlement, agricultural value chains, social development and gender-inclusivity.
 
-3. The aforesaid co-operation between the two Parties is planned to last for 36 months from 1 July 2019 or commencement of the Technical Assistance Consultancy works whichever is the latest.
+3. The aforesaid co-operation between the two Parties is planned to last from 1 July 2019 to 30 June 2024, or shall expire on the date on which the Project has been completed in conformity with the provisions of the Administrative Arrangement and of the DPPs of the Project, whichever date is the later.
 
 ##### Article II. (The contribution by the Netherlands Party)
 
-The Netherlands Party shall make a contribution of €5.000.000 (five million euros) in the form of grant to the Project in the following manner:
+The Netherlands Party shall make an additional contribution of € 2.296.615 (top-up to accommodate the extension) on top of € 5.000.000 (the original TA budget, as concluded on 29 April 2021 and 23 May 2021), € 7.296.615 in total (seven million two hundred and ninetysix thousand six hundred and fifteen euros) in the form of grant to the Project in the following manner:
 
-- –. € 5.000.000 for Technical Assistance, through direct contracting by the Netherlands Party.
+- –. € 2.296.615 (top-up to accommodate the extension) for Technical Assistance, through direct contracting by the Netherlands Party.
 
 The Netherlands Party's contribution will become available on the condition that:
 
@@ -128,7 +128,7 @@ Any dispute concerning the interpretation or implementation of this Administrati
 
 ##### Article XIII. (Entry into force and duration)
 
-This Administrative Arrangement shall enter into force on the day of signature by both Parties with retrospective effect to 1 July 2019, and shall expire at the end of the period mentioned in [Article I, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006918&artikel=I&z=2021-05-23&g=2022-07-02), of this Administrative Arrangement or on the date on which the Project has been completed in conformity with the provisions of this Administrative Arrangement and of the DPPs of the Project, whichever date is the later.
+This Administrative Arrangement shall enter into force on the day of signature by both Parties with retrospective effect to 1 July 2019, and shall expire at the end of the period mentioned in [Article I, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006918&artikel=I&z=2023-09-03&g=2023-09-03), of this Administrative Arrangement or on the date on which the Project has been completed in conformity with the provisions of this Administrative Arrangement and of the DPPs of the Project, whichever date is the later.
 
 DONE at Dhaka, in two originals, in the English language only.
 
